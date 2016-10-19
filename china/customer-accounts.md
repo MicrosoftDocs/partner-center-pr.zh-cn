@@ -3,8 +3,8 @@ title: "客户帐户（由世纪互联运营的合作伙伴中心）"
 description: "用于管理客户帐户的资源。"
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: c4ac79bc57ebfb904dad03eec376b5c723c5c3aa
-ms.openlocfilehash: bb41132c2c4758f3f160c0b92bec4bb6f7071264
+ms.sourcegitcommit: fe3e6716d21248900a90754d8de72ee6cd2ea685
+ms.openlocfilehash: 51328a53494d909a66c3705234a97c7bad666dc0
 
 ---
 
@@ -30,6 +30,6 @@ ms.openlocfilehash: bb41132c2c4758f3f160c0b92bec4bb6f7071264
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

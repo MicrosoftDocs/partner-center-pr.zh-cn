@@ -3,8 +3,8 @@ title: "合作伙伴中心帐户设置（由世纪互联运营的合作伙伴中
 description: "设置合作伙伴中心帐户"
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 6d1d0663057ea189581b36f9f1199a90ce46fef1
-ms.openlocfilehash: 43e0c2da6c834dcc5152706b0a13e2870e720bd6
+ms.sourcegitcommit: 98e3e093381fe9a283b3765b505e401c36a6e8fb
+ms.openlocfilehash: 2f9067ce0a4be85e292b89e6e46ae9e04f305582
 
 ---
 
@@ -16,26 +16,29 @@ ms.openlocfilehash: 43e0c2da6c834dcc5152706b0a13e2870e720bd6
 -   由世纪互联运营的合作伙伴中心
 
 
-在你的组织接受加入世纪互联云解决方案提供商 (CSP) 计划后，可以在合作伙伴中心中创建帐户。 可以使用合作伙伴中心与客户交互并进行事务处理。 
+成功注册世纪互联云解决方案提供商 (CSP) 经销商计划后，完成你的合作伙伴中心帐户设置。 可以使用合作伙伴中心与客户交互并进行事务处理。 
 
 首先验证或更新合作伙伴配置文件，然后创建用户帐户并将权限分配到需要在合作伙伴中心上完成任务的员工。 请确保为希望具有对所有合作伙伴中心功能和管理任务的完整访问权限的员工创建全局管理员用户帐户。 除其他任务外，全局管理员还可以创建其他用户帐户、分配用户角色和权限以及创建和管理客户帐户。    
 
-[更新合作伙伴配置文件](update-your-partner-profile.md)
+-   [更新合作伙伴配置文件](update-your-partner-profile.md)
+-   [创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)
+-   [用户自助密码恢复或重置](reset-a-user-password.md)
+-   [查看产品/服务和定价](see-offers-and-pricing.md)
+-   [自定义目录](customize-the-catalog.md)
 
-[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)
+**另请参阅**
 
-[自定义目录](customize-the-catalog.md)
+-   [客户帐户](customer-accounts.md)
+-   [客户订阅](customer-subscriptions.md) 
 
  
 
- 
 
 
 
 
 
 
-
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 

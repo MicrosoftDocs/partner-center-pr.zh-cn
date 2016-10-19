@@ -3,8 +3,8 @@ title: "计费（由世纪互联运营的合作伙伴中心）"
 description: "介绍如何向中国经销商就其向客户提供的服务开具帐单。"
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: c4ac79bc57ebfb904dad03eec376b5c723c5c3aa
-ms.openlocfilehash: 43045e9b75124ec8af5d6e8e72729149f1abc539
+ms.sourcegitcommit: c798400b9d94dac8a522ad00bbed2d2f8ea30ab4
+ms.openlocfilehash: e81efef9b406a9d3cb22c0d6b6da105296ead53c
 
 ---
 
@@ -14,9 +14,9 @@ ms.openlocfilehash: 43045e9b75124ec8af5d6e8e72729149f1abc539
 
 -   由世纪互联运营的合作伙伴中心
 
-本主题仅介绍世纪互联计费实践中不断变化的热点。 有关世纪互联发票的最新和特定信息、付款条款和条件以及基于许可证的计费实践，请参阅[世纪互联中国云解决方案提供商计划指南](http://www.21vbluecloud.com/office365/SolProv_programguide/)和[中国云解决方案提供商经销商协议](http://www.21vbluecloud.com/office365/ResellerAgr/)。
+本主题仅介绍世纪互联计费实践中不断变化的热点。 有关世纪互联的发票、付款条款和条件以及基于许可证的计费实践的最新信息和特定信息，请参阅[世纪互联中国云解决方案提供商计划指南](http://www.21vbluecloud.com/office365/SolProv_programguide/)和[中国云解决方案提供商经销商协议](http://www.21vbluecloud.com/office365/ResellerAgr/)。
 
-若要访问帐单，请转到“仪表板”****菜单，然后选择“计费”****。 “计费”****页显示了当月结欠余额、指向发票和对帐文件的链接以及最近付款。 世纪互联将向你指定的个人发送发票。 
+若要访问帐单，请转到“仪表板”菜单，然后选择“计费”。 “计费”页显示了当月结欠余额、指向发票和对帐文件的链接以及最近付款。 世纪互联将向你指定的个人发送发票。 
 
 
 ## 计费基础知识
@@ -24,8 +24,8 @@ ms.openlocfilehash: 43045e9b75124ec8af5d6e8e72729149f1abc539
 
 <table>
 <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="40%" />
+<col width="60%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -61,17 +61,15 @@ ms.openlocfilehash: 43045e9b75124ec8af5d6e8e72729149f1abc539
 </tbody>
 </table>
 
- 
-
- ## 其他计费信息 
-
-[阅读帐单](read-your-bill.md)
-
-[使用对帐文件](use-the-reconciliation-files.md)
-
-[非付款、欺诈或误用](non-payment-fraud-or-misuse.md)
+**另请参阅** 
+-   [阅读你的帐单](read-your-bill.md)
+-   [使用对帐文件](use-the-reconciliation-files.md)
+-   [拒不付款、欺诈或滥用](non-payment-fraud-or-misuse.md)
+-   [中国云解决方案提供商定价和产品/服务](see-offers-and-pricing.md)
 
 
-<!--HONumber=Oct16_HO1-->
+
+
+<!--HONumber=Oct16_HO2-->
 
 

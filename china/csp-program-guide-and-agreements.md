@@ -3,8 +3,8 @@ title: "云解决方案提供商计划指南和经销商协议（由世纪互联
 description: "了解如何通过世纪互联成为中国的云解决方案提供商经销商。"
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: c4ac79bc57ebfb904dad03eec376b5c723c5c3aa
-ms.openlocfilehash: c2d29e55f7e7e3feca0ac8cb2d9916d504c897c9
+ms.sourcegitcommit: 07159e005541399f38e8605658f62d954a4ac3b1
+ms.openlocfilehash: 5e35d5f8179e640315fc25700b5a354b991b113d
 
 ---
 
@@ -26,6 +26,6 @@ ms.openlocfilehash: c2d29e55f7e7e3feca0ac8cb2d9916d504c897c9
 
 
 
-<!--HONumber=Oct16_HO1-->
+<!--HONumber=Oct16_HO3-->
 
 
