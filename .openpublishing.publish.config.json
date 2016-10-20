@@ -15,13 +15,19 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "template_folder": "_themes.MSDN.Modern"
+      "template_folder": "_themes.MSDN.PartnerCenter"
     }
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
+    {
+      "path_to_root": "_themes.MSDN.PartnerCenter",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter.zh-cn",
+      "branch": "master",
+      "branch_mapping": {}
+    },
     {
       "path_to_root": "_themes.MSDN.Modern",
       "url": "https://github.com/Microsoft/templates.msdn.msft.zh-cn",
