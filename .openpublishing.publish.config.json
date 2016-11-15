@@ -20,10 +20,10 @@
     {
       "docset_name": "partner-china-dynamic",
       "build_source_folder": "china",
-      "build_output_subfolder": "partner-china",
+      "build_output_subfolder": "partner-china-dynamic",
       "locale": "zh-cn",
       "version": 0,
-      "open_to_public_contributors": true,
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
