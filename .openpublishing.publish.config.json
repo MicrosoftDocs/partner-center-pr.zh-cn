@@ -16,6 +16,20 @@
         "RestApi": "Content"
       },
       "template_folder": "_themes.MSDN.PartnerCenter"
+    },
+    {
+      "docset_name": "partner-china-dynamic",
+      "build_source_folder": "china",
+      "build_output_subfolder": "partner-china",
+      "locale": "zh-cn",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
     }
   ],
   "notification_subscribers": [],
@@ -34,5 +48,6 @@
       "branch": "master",
       "branch_mapping": {}
     }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
