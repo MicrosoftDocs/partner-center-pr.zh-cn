@@ -26,8 +26,7 @@ ms.openlocfilehash: 71b89bc6ee19183cb311f2a4d434397e1e41ad5f
 
 还可以一次性[将订阅分配给多个用户](#pc-cloud-sltn-provider-bulk-license-provisioning-for-multiple-users)。
 
-
-            [导入 Excel 兼容的 .csv 电子表格文件](#pc-cloud-sltn-provider-adding-multiple-users-to-a-customer-account)可更有效地为客户帐户创建更多用户。
+[导入 Excel 兼容的 .csv 电子表格文件](#pc-cloud-sltn-provider-adding-multiple-users-to-a-customer-account)可更有效地为客户帐户创建更多用户。
 
 <a href="" id="createuseraccounts"></a>
 **为客户创建用户帐户**
