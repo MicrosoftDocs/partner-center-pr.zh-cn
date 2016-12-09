@@ -15,8 +15,7 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "template_folder": "_themes.MSDN.PartnerCenter",
-      "build_entry_point": "docs"
+      "build_entry_point": "op"
     },
     {
       "docset_name": "partner-china-dynamic",
@@ -37,18 +36,6 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "dependent_repositories": [
-    {
-      "path_to_root": "_themes.MSDN.PartnerCenter",
-      "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
-      "branch": "master",
-      "branch_mapping": {}
-    },
-        {
-      "path_to_root": "_themes.MSDN.Modern",
-      "url": "https://github.com/Microsoft/templates.msdn.msft.zh-cn",
-      "branch": "master",
-      "branch_mapping": { }
-    },
     {
       "path_to_root": "_repo.en-us",
       "url": "https://cpubwin.visualstudio.com/partner/_git/partner",
