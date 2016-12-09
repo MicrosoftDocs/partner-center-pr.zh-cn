@@ -14,7 +14,9 @@
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
-      }
+      },
+      "template_folder": "_themes.MSDN.PartnerCenter",
+      "build_entry_point": "docs"
     },
     {
       "docset_name": "partner-china-dynamic",
@@ -40,6 +42,21 @@
       "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
       "branch": "master",
       "branch_mapping": {}
+    },
+        {
+      "path_to_root": "_themes.MSDN.Modern",
+      "url": "https://github.com/Microsoft/templates.msdn.msft.zh-cn",
+      "branch": "master",
+      "branch_mapping": { }
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://cpubwin.visualstudio.com/partner/_git/partner",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
     }
   ],
   "need_generate_pdf_url_template": false
