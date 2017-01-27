@@ -4,15 +4,20 @@ description: "如果用户忘记了密码，你可以为他们分配一个新的
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 ---
 
 # 重置用户密码
 
+**适用于**
 
-如果用户忘记了密码，你可以为他们分配一个新的临时密码。 他们可以在下次登录合作伙伴中心时使用它。
+-  合作伙伴中心
+   
+>**注意** 如果你已在德国 Microsoft 云中注册云解决方案提供商 (CSP) 计划，请参阅 [德国 Microsoft 云合作伙伴中心中的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)以了解有关重置用户密码的信息。
+
+如果用户忘记了密码，请为他们分配一个临时密码。 他们可以在下次登录合作伙伴中心时使用它。
 
 **以管理员身份重置用户密码**
 
@@ -25,7 +30,8 @@ ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
 
 **重置你自己的密码**
 
-1.  登录合作伙伴中心。 然后在屏幕顶部选择你的名字，再选择“我的个人资料”。
+1.  登录合作伙伴中心。 然后在屏幕顶部选择你的名字，再选择**我的个人资料**。
+
 2.  你可以看到你自己的角色，并且可以看到更改密码的说明。
 
  
@@ -37,6 +43,6 @@ ms.openlocfilehash: 6b62003ef9ca7c8d40141a3adaaca5f704eb7fa6
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

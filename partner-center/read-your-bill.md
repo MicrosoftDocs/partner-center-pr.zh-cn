@@ -1,18 +1,22 @@
 ---
 title: "阅读帐单 | 合作伙伴中心"
-description: "发票是当前月期间的所有费用（包括项目、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。"
-ms.assetid: 
+description: "发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。"
+ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 472bdfc06bc531d70c97e5192658fb6fd41990e3
-ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 ---
 
 # 阅读帐单
 
+**适用于**
 
-发票是当前月期间的所有费用（包括项目、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
+
+发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。
 
 有关费用的明细，使用随附的对帐文件。 对帐文件包括用于创建客户发票的客户 ID 和订阅 ID。 有关详细信息，请参阅[如何使用对帐文件](use-the-reconciliation-files.md)。
 
@@ -39,7 +43,7 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 </tr>
 <tr class="even">
 <td>帐单邮寄地址</td>
-<td>我们发送发票的地址。 （这是与公司审查关联的法定公司地址，不可更改。）</td>
+<td>我们发送发票的地址。 若要更改此地址，请编辑合作伙伴中心帐户个人资料。</td>
 </tr>
 <tr class="odd">
 <td>定期费用</td>
@@ -98,8 +102,8 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 <td>访问客户服务的网站地址。</td>
 </tr>
 <tr class="even">
-<td>服务接收方地址</td>
-<td>使用服务的地址。 若要更改此地址，请编辑合作伙伴中心帐户个人资料。</td>
+<td>服务接收方</td>
+<td>使用服务的地址。 （这是与公司审查关联的法定公司地址，不可更改。）</td>
 </tr>
 </tbody>
 </table>
@@ -115,6 +119,6 @@ ms.openlocfilehash: c625c4605be40c34aefb24eed246d34f63d5a0b4
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

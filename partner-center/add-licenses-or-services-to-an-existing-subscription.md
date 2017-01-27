@@ -4,13 +4,16 @@ description: "如果你的客户需要的席位多于其当前订阅所能提供
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 69a1975e40a15e4a17a71b06ac741b4641e5b903
 
 ---
 
 # 将许可证或服务添加到现有订阅
 
+**适用于**
+
+-  合作伙伴中心
 
 如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](http://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
@@ -95,6 +98,6 @@ ms.openlocfilehash: d1aabc63e68b01f997345b13f2cb615904a027be
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

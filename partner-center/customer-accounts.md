@@ -1,16 +1,20 @@
 ---
 title: "客户帐户 | 合作伙伴中心"
-Description: "作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是销售订阅、计费和提供支持的起始点。"
+Description: "作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。"
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 738ecefeb1bbcc2b98157fdeba60b7bdaae85d51
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
 
 ---
 
 # 客户帐户
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。
 
@@ -33,6 +37,6 @@ ms.openlocfilehash: 738ecefeb1bbcc2b98157fdeba60b7bdaae85d51
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

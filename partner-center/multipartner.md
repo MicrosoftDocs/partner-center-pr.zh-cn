@@ -4,13 +4,17 @@ description: "客户可能希望在云解决方案提供商计划中与专门提
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9680b98863cd10d314e05941572ca46a8388ef3d
 
 ---
 
 # 多个合作伙伴
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 客户可能希望在云解决方案提供商计划中与专门提供不同服务的多个合作伙伴进行合作。 例如，一个合作伙伴针对 Office 365 提供服务，而另一个合作伙伴针对 Microsoft Azure 提供服务。 或者，在单个 Office 365 订阅中，一个合作伙伴针对 Exchange Online 提供服务，另一个合作伙伴针对 SharePoint Online 提供服务。
 
@@ -35,6 +39,6 @@ ms.openlocfilehash: ec77054e39c7cc1868deb502e041784539c5da2f
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

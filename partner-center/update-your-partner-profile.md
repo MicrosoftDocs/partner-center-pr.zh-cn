@@ -1,16 +1,20 @@
 ---
 title: "更新你的合作伙伴配置文件 | 合作伙伴中心"
-description: "首次作为管理员登录合作伙伴中心时，请确保你的支持详细信息正确、申报免税（如果适用），并在配置文件中查看联系信息。"
+description: "首次作为管理员登录合作伙伴中心时，请确保你的支持详细信息正确、申报免税（如果适用），并在个人资料中查看联系信息。"
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 ---
 
-# 更新你的合作伙伴配置文件
+# 更新你的合作伙伴个人资料
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 首次作为管理员登录合作伙伴中心时，请确保你的支持详细信息正确、申报免税（如果适用），并在个人资料中查看联系信息。
 
@@ -38,6 +42,6 @@ ms.openlocfilehash: 87dcec53f175eb554cb69823a2c0056454ec808a
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

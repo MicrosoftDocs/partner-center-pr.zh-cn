@@ -4,13 +4,17 @@ description: "因为云解决方案提供商是专注于合作伙伴产品转售
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 ---
 
 # 税务和免税
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 因为云解决方案提供商是专注于合作伙伴产品转售的销售渠道，所以 Microsoft 并不始终要求向合作伙伴发票征收销售税。 规则因国家/地区而异。 合作伙伴应与税务顾问合作，以便根据自身位置和客户群所在位置来申报免税。 若要将他们的 Microsoft 经销商帐户标记为不应纳税，合作伙伴应该将这些免税证书发送到 Microsoft。
 
@@ -58,7 +62,7 @@ ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
 </tr>
 <tr class="odd">
 <td>其他税收文档</td>
-<td><p>税收收据（适用于台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。</p>
+<td><p>税收收据（适用于中国台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。</p>
 <p>若需要其他税务相关的文档，请从合作伙伴中心申请服务。</p></td>
 </tr>
 </tbody>
@@ -75,6 +79,6 @@ ms.openlocfilehash: 9fd2f33c50c767e55e93295f39d9603afacf4ae4
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

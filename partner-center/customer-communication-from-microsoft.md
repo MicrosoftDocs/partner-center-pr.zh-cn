@@ -4,13 +4,17 @@ description: "一般情况下，我们希望与客户的所有通讯均来自云
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: da25e037b1eaebc4327eb643a7b5717ae1301a41
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 2f30083f5acf278a651baaae5318938fe72cadaa
 
 ---
 
 # 来自 Microsoft 的客户通讯
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 一般情况下，我们希望与客户的所有通讯均来自云解决方案提供商合作伙伴。 由于你具有客户结算关系，Microsoft 不会将有关他们的订阅的通讯直接发送给你的客户。
 
@@ -27,6 +31,6 @@ Microsoft 可能会就有关服务事件或其他操作信息与客户直接通�
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

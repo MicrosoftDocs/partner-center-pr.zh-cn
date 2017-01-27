@@ -4,13 +4,17 @@ description: "云解决方案提供商计划中的一个选项，用于使合作
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 226e0e53f85528f1daa50639d22deb6be30f35c1
-ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 
 ---
 
 # 多渠道
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 云解决方案提供商计划中的一个选项，用于使合作伙伴处理客户订阅的整个生命周期：销售、预配、支持和续订。 但在许多情况下，客户已经拥有他们需要你预配或支持的订阅，并且他们之前已从其他渠道购买。
 
@@ -61,6 +65,6 @@ ms.openlocfilehash: 20cc074152cb8b2bdbb6a2b055f144d0b20927de
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,16 @@ description: "可向用户分配许可证和服务，也可向客户帐户中的
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 2803d5b64648fe3511e397dbbd347f88ce6b4231
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
 
 ---
 
 # 向多个用户分配或撤消许可证
 
+**适用于**
+
+-  合作伙伴中心
 
 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 
@@ -85,6 +88,6 @@ ms.openlocfilehash: 2803d5b64648fe3511e397dbbd347f88ce6b4231
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

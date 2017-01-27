@@ -1,18 +1,22 @@
 ---
 title: "查看产品/服务和定价 | 合作伙伴中心"
-description: "若要查看云服务解决方案提供商计划提供的产品/服务列表以及合作伙伴定价，请转到“仪表板”菜单，并选择“定价和产品/服务”。"
+description: "若要查看云解决方案提供商计划提供的产品/服务列表以及合作伙伴定价，请转到“仪表板”菜单，并选择“定价和产品/服务”。"
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 442d93092accd4458f749eb91a006576913fb941
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
 
 ---
 
 # 查看产品/服务和定价
 
+**适用于**
 
-若要查看云服务解决方案提供商计划提供的产品/服务列表以及合作伙伴定价，请转到“仪表板”菜单，并选择“定价和产品/服务”。
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
+
+若要查看云解决方案提供商计划提供的产品/服务列表以及合作伙伴定价，请转到“仪表板”菜单，并选择**定价和产品/服务**。
 
 ## 定价
 
@@ -39,6 +43,6 @@ ms.openlocfilehash: 442d93092accd4458f749eb91a006576913fb941
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 
