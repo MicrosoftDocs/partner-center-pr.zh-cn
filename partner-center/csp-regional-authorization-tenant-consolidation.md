@@ -4,13 +4,17 @@ description: "使用这些说明合并不同国家/地区的租户。"
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: cc87659cd0412876a29a2f8fe48d005a84026509
 
 ---
 
 # 云解决方案提供商区域授权租户合并
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 \[有些信息与可能在商业发行之前就经过实质性修改的预发布产品相关。 Microsoft 不对此处提供的信息作任何明示或默示的担保。\]
 
@@ -65,7 +69,7 @@ ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
 
 确保“过渡源”合作伙伴帐户下的所有客户订阅已重新预配在“过渡目标”合作伙伴帐户下。
 
-**注意** 在合作伙伴中心中的“过渡目标”合作伙伴租户帐户下过渡和设置订阅的同一天，合作伙伴必须暂停合作伙伴中心中的“过渡源”合作伙伴租户帐户上的这些订阅，以便确保不会重复计费。 由于未正确设置要禁用的“过渡源”订阅而引起的计费重叠，支持请求将因为信用问题而被拒。
+**注意** 在合作伙伴中心中的“过渡目标”合作伙伴租户帐户下过渡和设置订阅的同一天，合作伙伴必须暂停合作伙伴中心中的“过渡源”合作伙伴租户帐户上的订阅，以便确保不会重复计费。 由于未正确设置要禁用的“过渡源”订阅而引起的计费重叠，支持请求将因为信用问题而被拒。
 
  
 
@@ -159,6 +163,6 @@ ms.openlocfilehash: 5d4b1acaa23f37df8fe66166f932956526e75271
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

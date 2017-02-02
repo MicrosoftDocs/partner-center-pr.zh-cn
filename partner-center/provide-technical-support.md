@@ -4,13 +4,17 @@ description: "作为云解决方案提供商合作伙伴，你具有委派的管
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
 
 ---
 
 # 提供技术支持
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 作为云解决方案提供商合作伙伴，你具有委派的管理员权限，可以访问你的客户环境。 这些权限将为你提供直接支持、配置和管理你的客户订阅的能力。
 
@@ -43,6 +47,6 @@ ms.openlocfilehash: 07af266cb0433d57edc4dd0f2b757b8ed80f006e
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

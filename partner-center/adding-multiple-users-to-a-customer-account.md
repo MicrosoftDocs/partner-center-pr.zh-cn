@@ -1,18 +1,21 @@
 ---
 title: "为客户帐户创建多个用户 | 合作伙伴中心"
-description: "通过将逗号分隔值文件格式 (.csv) 中的数据文件上传到合作伙伴中心，可同时将多个用户添加至客户帐户。"
+description: "通过将逗号分隔值文件格式 (.csv) 的数据文件上传到合作伙伴中心，可同时将多个用户添加至客户帐户。"
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
+ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
+ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
 
 ---
 
-# 为客户帐户创建多个用户
+# 将多个用户添加到客户帐户
 
+**适用于**
 
-通过将逗号分隔值文件格式 (.csv) 中的数据文件上传到合作伙伴中心，可同时将多个用户添加至客户帐户。 可从合作伙伴中心下载示例数据文件，然后对其进行编辑以供使用，或者使用下面定义的数据模型新建数据文件。
+-  合作伙伴中心
+
+通过将逗号分隔值文件格式 (.csv) 的数据文件上传到合作伙伴中心，可同时将多个用户添加至客户帐户。 可从合作伙伴中心下载示例数据文件，然后对其进行编辑以供使用，或者使用下面定义的数据模型新建数据文件。
 
 ## <a href="" id="creatingtheimportcsvfile"></a>数据文件要求
 
@@ -69,6 +72,6 @@ ms.openlocfilehash: d8aa280363bc654170c10ea0497a77bcd1e09e11
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,16 @@ description: "客户可以在云解决方案提供商计划中更改要用于提
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
 
 ---
 
 # 将 Azure 订阅切换到其他合作伙伴
 
+**适用于**
+
+-  合作伙伴中心
 
 客户可以在云解决方案提供商计划中更改要用于提供 Microsoft Azure 服务的合作伙伴。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。
 
@@ -79,6 +82,6 @@ ms.openlocfilehash: 29ced9a3a7256f86f0f8708a4c72ac75b9269ffc
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

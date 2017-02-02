@@ -4,13 +4,17 @@ description: "Microsoft 发布了云解决方案提供商合作伙伴决定是�
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 739f93ca5b2752196247554d7a0b593e895a6f89
+ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
+ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 ---
 
 # 云解决方案提供商协议、价目表和产品/服务
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 Microsoft 发布了云解决方案提供商合作伙伴决定是否注册计划、注册新客户、向客户销售 Microsoft 产品和服务以及核对帐单所需的许多文档。
 
@@ -49,14 +53,16 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [Microsoft 云经销商协议 - 韩国](http://go.microsoft.com/fwlink/p/?LinkId=617098)
 
-[Microsoft 云经销商协议 - 台湾](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+[Microsoft 云经销商协议 - 中国台湾](http://go.microsoft.com/fwlink/p/?LinkId=617099)
+
+[Microsoft 云经销商协议 - 德国 Microsoft 云](https://go.microsoft.com/fwlink/p/?linkid=831385)
 
 ## <a href="" id="customeragreementtemplate"></a>客户协议模板
 
 
 合作伙伴负责确保客户理解并接受 Microsoft 的条款和条件，包括 Microsoft 产品和服务的可接受用法。 我们为合作伙伴提供在其注册新客户时必须涵盖的资料的模板。
 
-[客户协议模板](http://go.microsoft.com/fwlink/p/?LinkId=617101)
+[客户协议模板](agreements.md)
 
 ## 定价
 
@@ -83,6 +89,6 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

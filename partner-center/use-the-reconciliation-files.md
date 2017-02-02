@@ -4,13 +4,17 @@ description: "有关计费周期中每项费用的明细项目详细视图，请
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 
 ---
 
 # 使用对帐文件
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
 
@@ -503,6 +507,6 @@ ms.openlocfilehash: 8024efe9149ff224a8b2c7d76f46b664df328a3a
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

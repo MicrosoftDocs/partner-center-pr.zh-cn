@@ -4,13 +4,17 @@ description: "本主题介绍了在添加新订阅、调整订阅中的席位数
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 5ac69f33ca78be1eca2af439a48d6d0904a4cfc5
 
 ---
 
 # 常见计费方案
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 本主题介绍了在添加新订阅、调整订阅中的席位数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
 
@@ -139,6 +143,6 @@ ms.openlocfilehash: 877f2d0e773fc7a42ddb8f62fa320be94b5921a8
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

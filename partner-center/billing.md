@@ -1,18 +1,22 @@
 ---
 title: "计费 | 合作伙伴中心"
-Description: "作为云解决方案提供商合作伙伴，对于客户的基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。"
+Description: "作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。"
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 ---
 
 # 计费
 
+**适用于**
 
-作为云解决方案提供商合作伙伴，对于客户的基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
+
+作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
 
 若要查看帐单，请转到“仪表板”菜单，然后选择“计费”。 此计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
 
@@ -24,7 +28,7 @@ ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
 ## 计费
 
 
-[阅读你的帐单](read-your-bill.md)
+[阅读帐单](read-your-bill.md)
 
 [使用对帐文件](use-the-reconciliation-files.md)
 
@@ -32,7 +36,7 @@ ms.openlocfilehash: a13018b21665f0dccb88bc462d535d4f4547c978
 
 [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 
-[常见帐单方案](common-billing-scenarios.md)
+[常见计费方案](common-billing-scenarios.md)
 
 [拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)
 
@@ -195,6 +199,6 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

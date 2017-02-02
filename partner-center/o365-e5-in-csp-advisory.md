@@ -4,13 +4,16 @@ description: "Office 365 企业版 E5 单一 SKU 可用于云解决方案提供�
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: fcf1f8e1b783291658ec6e0b43e6d3ced9dca63e
-ms.openlocfilehash: e29ac5ae1cb977b64f863b33f4cc67ff7b8ea2c2
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 ---
 
 # Office 365 合作伙伴公告：云解决方案提供商中的 Office 365 E5 单一 SKU 可用性
 
+**适用于**
+
+-  合作伙伴中心
 
 截止 2016 年 10 月 5 日，Office 365 企业版 E5 单一 SKU 可用于云解决方案提供商。 作为此更改的一部分，Office 365 企业版 E5 SKU 包括 PSTN 会议（可使用 PSTN 会议服务）。
 
@@ -213,6 +216,6 @@ PSTN 加载项
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

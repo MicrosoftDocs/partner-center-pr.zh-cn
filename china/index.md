@@ -2,11 +2,11 @@
 title: "由世纪互联运营的合作伙伴中心"
 description: "使用由世纪互联运营的合作伙伴中心在中国转售云解决方案提供商服务。"
 translationtype: Human Translation
-ms.sourcegitcommit: ff182fb083cdeb04e292ffd8641eb751e8711b2e
-ms.openlocfilehash: 7369d1c2d836300d2f6da5d28c63c59fc5803009
+ms.sourcegitcommit: 4078cbe3c656491695dee89dfc8a491b3228f9ee
+ms.openlocfilehash: ed960e94c19623364a9fbb6ca60ad3d4884291df
 
 ---
-
+   
 # 由世纪互联运营的合作伙伴中心
 
 欢迎使用由世纪互联运营的合作伙伴中心，这是经销商在中国转售世纪互联的云解决方案提供商 (CSP) 服务的企业门户。 
@@ -17,8 +17,8 @@ ms.openlocfilehash: 7369d1c2d836300d2f6da5d28c63c59fc5803009
 
 若要在中国转售世纪互联云解决方案提供商服务，你需要注册世纪互联云解决方案提供商计划。 如果尚未注册该计划，请查看[中国云解决方案提供商经销商计划指南和协议](csp-program-guide-and-agreements.md)，获取有关在注册请求批准后你的权利和职责的信息。 如果已准备好进行注册，请参阅[注册世纪互联中国云解决方案提供商计划](enrolling-in-the-csp-program.md)。
 
-注册中国云解决方案提供商经销商计划后，登录合作伙伴中心并使用以下文章开始增长你的业务。    
-
+注册中国云解决方案提供商计划后，登录合作伙伴中心并使用以下文章开始增长你的业务。  
+   
 -   [管理合作伙伴中心帐户](partner-center-account-setup.md)
 -   [定价和产品/服务](see-offers-and-pricing.md)
 -   [计费](billing.md)
@@ -30,6 +30,6 @@ ms.openlocfilehash: 7369d1c2d836300d2f6da5d28c63c59fc5803009
 开发人员可以使用由世纪互联运营的合作伙伴中心的 SDK 生成自己的应用程序，以管理其客户、计费和其他项目。 请参阅[针对由世纪互联运营的合作伙伴中心进行开发](develop-for-partner-center.md)。
 
 
-<!--HONumber=Oct16_HO3-->
+<!--HONumber=Dec16_HO1-->
 
 

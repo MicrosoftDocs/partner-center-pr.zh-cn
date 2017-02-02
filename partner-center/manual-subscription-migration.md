@@ -4,13 +4,16 @@ description: "Microsoft 引入了 Dynamics 365，这是下一代智能业务应�
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1d17213d3b591056d6af2dd1855d6c52a17801f5
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
 
 ---
 
 # 将 Dynamics AX 订阅迁移到 Dynamics 365
 
+**适用于**
+
+-  合作伙伴中心
 
 Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。 作为新产品的一部分，Microsoft 在 2016 年 11 月 1 日为客户引进了新 Microsoft Dynamics 订阅计划，该计划与当前计划类似但不相同。
 
@@ -118,6 +121,6 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

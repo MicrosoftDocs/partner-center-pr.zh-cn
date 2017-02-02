@@ -1,16 +1,19 @@
 ---
 title: "提高采用率和满意度 | 合作伙伴中心"
-description: "我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据来提供帮助。"
+description: "我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 ---
 
 # 提高采用率和满意度
 
+**适用于**
+
+-  合作伙伴中心
 
 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。 此信息适用于 Office 产品（包括 OneDrive for Business，这将 SharePoint 也计入在内）。
 
@@ -83,6 +86,6 @@ ms.openlocfilehash: b1c82f315a00ac275af576d084fca1b43e666716
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

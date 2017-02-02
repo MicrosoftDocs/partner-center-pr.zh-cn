@@ -4,13 +4,17 @@ description: "你是你的客户的首个接触点，并且需要你向客户提
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 8be0016bb5a2d3c383e58847f60762933b382bc4
-ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
 
 ---
 
 # 客户支持
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 你是你的客户的首个接触点，并且需要你向客户提供如下的技术和帐户支持服务：
 
@@ -53,6 +57,6 @@ ms.openlocfilehash: 69e9c76355c5e94509abe2dc689025b943d8d719
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

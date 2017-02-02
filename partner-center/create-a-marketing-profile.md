@@ -4,21 +4,36 @@ description: "Microsoft 每年吸引数以百万计的合格潜在客户关注�
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 1b1eb67c279511fa8cff391140e00145b186601d
+ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
+ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
 
 ---
 
 # 创建市场营销配置文件
 
+**适用于**
+
+-  合作伙伴中心
 
 Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络资产。 我们可以通过将你的解决方案与客户联合来扩大你的市场。 Microsoft 引荐人将帮助你联系那些寻找你的独特解决方案来满足业务需求的客户。 若要加入，请在合作伙伴中心中创建市场营销配置文件。
 
 如果你拥有 Pinpoint 帐户，[可将 Pinpoint 市场营销配置文件导入到合作伙伴中心](importing-pinpoint-profiles-into-partner-center.md)。
 
+**面向在 Pinpoint 上管理配置文件的合作伙伴的重要信息**
+
+你可能知道，Microsoft 正在致力于为发布并维护其配置文件的合作伙伴打造改进的全新体验。 最后，所有的合作伙伴配置文件都将被迁移到这种新体验，并且 Pinpoint 将于 2017 年晚些时候脱机。
+
+感谢你耐心等候我们完成这一振奋人心的升级。 在此过程中，我们将会提供更新和指导。 在此期间，请注意以下事项：
+
+-   如果你的配置文件列于 [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) 上，并且你想要进行修改，请 [登录](https://go.microsoft.com/fwlink/?linkid=838394) 此工具。
+-   如果你已注册 Microsoft 的 [云服务提供商](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) 计划，请登录 [合作伙伴中心](https://go.microsoft.com/fwlink/?linkid=838396)。 你可以创建新配置文件，或者导入现有的 Pinpoint 配置文件。 请注意，配置文件的所有更改都必须在导入之前进行。 请参阅下面的信息以了解详细情况。
+-   如果你无法修改自己的配置文件，请联系 [地区服务中心](https://go.microsoft.com/fwlink/?linkid=838398)。 
+
+**客户评论：** 作为从 Pinpoint 向合作伙伴中心计划过渡的一部分，以前的客户评论列表功能已经取消，合作伙伴不能再访问客户评论。 在删除该功能及相关评论之前，我们会通过合作伙伴指定的电子邮件联系方式向所有受影响的合作伙伴发出通知。 当前计划是将来用更稳健、更可靠的系统替换该功能。
+
 **创建市场营销配置文件**
 
-1.  在[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)的“仪表板”菜单中，依次选择“帐户设置”&gt;“市场营销配置文件”。
+1.  在 [合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956) 的“仪表板”菜单中，依次选择“帐户设置”&gt;“市场营销配置文件”。
 2.  在“配置文件”选项卡下，选择“添加市场营销配置文件”。
 3.  更新公司信息，包括联系人信息、突出显示业务特长的属性，以及符合下面的*资料指南*的描述。
 
@@ -76,6 +91,6 @@ Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络�
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

@@ -4,13 +4,17 @@ description: "在合作伙伴中心中创建客户的记录后，你可以向他
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 57f9cd6572f656cd43594a606d39942b5fdc724e
-ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
+ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
+ms.openlocfilehash: e23594a9bb9371cb1af1a2ff9047ef559050def0
 
 ---
 
 # 创建新订阅
 
+**适用于**
+
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。
 
@@ -24,11 +28,13 @@ ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
 
 **使客户能够管理他们的 Azure 订阅**
 
-1.  以云解决方案提供商管理员的身份为客户创建 Azure 订阅（请参阅上面的**创建新订阅**）。
-2.  “服务管理”页或客户列表的客户 Azure 门户的管理员代表 (AOBO)。 （作为 AOBO 的一部分，URL 包含目标租户，以便 Azure 门户知道用户属于云解决方案提供商租户，但正在访问客户。）
-3.  在订阅列表中，选择客户的 Azure 订阅。
-4.  将角色分配给任意客户用户，使他们能够使用其订阅创建和管理资源。 （尽管客户用户能够使用其订阅管理资源，但合作伙伴仍然负有财务责任。）
+在为客户创建 Microsoft Azure 订阅后，可以让他们管理该订阅。 为此，需要登录客户的 Microsoft Azure 管理门户。 
 
+1.  若要打开客户的 Azure 门户，请在客户列表中展开客户的列表，或者选择客户的名称，然后选择“Microsoft Azure 管理门户”。
+    
+    **注意** 如果提示登录 Azure 门户，可能是因为你未获得委托管理权限。 请选择“请求建立关系”以邀请客户将你确定为他们的记录合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。 
+2.  在 Azure 门户中，打开客户的订阅列表并选择客户的 Azure 订阅。
+3.  将角色分配给任意客户用户，使他们能够使用其订阅创建和管理资源。
 
  
 
@@ -37,6 +43,6 @@ ms.openlocfilehash: 97e37370a2b9fa32121761a06e9aef1441334f2c
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 

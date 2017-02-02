@@ -1,18 +1,22 @@
 ---
 title: "代表客户报告问题 | 合作伙伴中心"
-Description: "如果你的客户遇到了你无法解决的服务问题，并且该问题符合向 Microsoft 反映问题中所述的条件，请为他们提出支持票证。"
+Description: "如果你的客户遇到了你无法解决的服务问题，并且该问题符合将问题上报给 Microsoft 中所述的条件，请为他们提出支持票证。"
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 translationtype: Human Translation
-ms.sourcegitcommit: 14ba85c868e59dd1c77063f5b1b0e9ab8db7f82f
-ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
+ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
+ms.openlocfilehash: 9a1a18a0d24cbb328ebb9bc99f5ed3b63047a0c2
 
 ---
 
-# 代表客户报告问题 
+# 代表客户报告问题
 
+**适用于**
 
-如果你的客户遇到了你无法解决的服务问题，并且该问题符合[向 Microsoft 反映问题](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
+-  合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
+
+如果你的客户遇到了你无法解决的服务问题，并且该问题符合[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
 **提交客户服务请求**
 
@@ -88,6 +92,6 @@ ms.openlocfilehash: 9182649a217783303f743fdca96789d6e0f0d8ae
 
 
 
-<!--HONumber=Nov16_HO3-->
+<!--HONumber=Jan17_HO2-->
 
 
