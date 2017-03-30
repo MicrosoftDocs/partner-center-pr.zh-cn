@@ -3,13 +3,11 @@ title: "提高采用率和满意度 | 合作伙伴中心"
 description: "我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 提高采用率和满意度
+# <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
 **适用于**
 
@@ -19,17 +17,17 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
 你可以通过云解决方案提供商计划查看所有客户的数据。 请注意，某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证，在此情况下，你将看到所有合作伙伴的许可证总数。 若要仅查看你自己的许可证，请改为转到客户的订阅。
 
-## 查找许可证和用户数据
+## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 
 
 **对于单个客户**
 
--   从合作伙伴中心菜单中选择“客户”、选择某个客户，然后选择“客户洞察”。
+-   从“合作伙伴中心”菜单中，选择**客户**、选择某个客户，然后选择**客户见解**。
 
 **跨产品组合**
 
-1.  在合作伙伴中心“仪表板”上，向下滚动到“Office 许可证分析”部分。
-2.  通过选择“导出”选项，下载整个客户群的部署和用法数据。
+1.  在合作伙伴中心**仪表板**上，向下滚动到 **Office 许可证分析**部分。
+2.  通过选择**导出**选项，下载整个客户群的部署和用法数据。
 
 术语：
 
@@ -51,7 +49,7 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
     -   如果某些客户使用 Yammer 的时间显著多于许可证授权他们使用的时间，这可能会使数据大幅扭曲。
 
-## 后续步骤
+## <a name="next-steps"></a>后续步骤
 
 
 如果你提交了大量的帮助和操作方法问题，但你帐户上的采用数较低，或者你正在寻找提高销售的机会，你可能需要考虑提供培训课程。 通过教会客户如何更好地使用他们购买的云解决方案软件，可能会看到工作效率和满意度的上升，以及支持需求的降低。
@@ -69,7 +67,7 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 <tr class="even">
 <td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
 <p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>要尝试的内容：</strong>可在提供培训（个人或联机）时使用双重策略，在增加客户的总体专业技能的同时，还提供的一些自助服务选项供客户使用。</p>
+<p><strong>要尝试的内容：</strong>可在提供培训（面对面或网上）时使用双重策略，在增加客户的总体专业技能的同时，还提供一些自助服务选项供客户使用。</p>
 <p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题[客户自我支持](customer-self-support.md)中所述的自助服务选项。</p></td>
 </tr>
 </tbody>
@@ -81,11 +79,5 @@ ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

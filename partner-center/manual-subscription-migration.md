@@ -3,13 +3,11 @@ title: "将 Dynamics AX 订阅迁移到 Dynamics 365 | 合作伙伴中心"
 description: "Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。"
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f19e46da31a7e479ebd3b1cd368ca7646c3c55b7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 将 Dynamics AX 订阅迁移到 Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>将 Dynamics AX 订阅迁移到 Dynamics 365
 
 **适用于**
 
@@ -59,7 +57,7 @@ Microsoft Dynamics AX 产品线将于 2016 年 11 月 1 日停用。 若要了�
 
 当前的 Microsoft Dynamics CRM Online 计划将于 2016 年 11 月 1 日停用 若要了解有关新授权选项的详细信息，请参阅[面向 CRM Online 客户的重要信息](https://go.microsoft.com/fwlink/?linkid=831667)。
 
-## 将客户过渡到新产品计划
+## <a name="transition-customers-to-new-product-plans"></a>将客户过渡到新产品计划
 
 
 Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情况下，经销商可能需要将客户升级到新服务，或将他们的订阅从最终将关闭的 SKU 中迁出。 将客户从旧 SKU 中迁移到新 SKU 需要按照以下顺序操作：
@@ -70,39 +68,36 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 以下过程将客户从 Dynamics AX7 Enterprise 移动到 Dynamics 365 for Operations。
 
-<a href="" id="purchasenewsubsc"></a>
-经销商需要将具有现成 Dynamics AX Enterprise 订阅的客户移动到 Dynamics 365 for Operations。 第一步是购买 Dynamics 365 for Operations。
+<a href="" id="purchasenewsubsc"></a>经销商需要将具有现成 Dynamics AX Enterprise 订阅的客户移动到 Dynamics 365 for Operations。 第一步是购买 Dynamics 365 for Operations。
 
 **购买新订阅**
 
-1.  在“仪表板”菜单中，选择“客户”、选择要移动的客户，然后选择“添加订阅”。
-2.  选择要从目录中购买的订阅（在此情况下是 Dynamics 365 for Operations 企业版）、输入许可证编号，然后选择“提交”。
+1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**添加订阅**。
+2.  选择要从目录中购买的订阅（在此情况下是 Dynamics 365 for Operations 企业版）、输入许可证编号，然后选择**提交**。
 
     此时客户应该具有新旧两个订阅：在此示例中是旧的 Dynamics AX Enterprise 和新的“目标”订阅，即 Dynamics 365 for Operations 企业版。
 
-<a href="" id="reassignlicenses"></a>
-下一步是将所有现有用户许可证重新分配到新订阅。
+<a href="" id="reassignlicenses"></a>下一步是将所有现有用户许可证重新分配到新订阅。
 
 **重新分配用户许可证**
 
-1.  在“仪表板”菜单中，选择“客户”、选择要移动的客户，然后选择“用户和许可证”。 将打开客户的“用户和许可证”页。
-2.  若要重新分配用户许可证，选择要重新分配的用户，然后选择“管理许可证”。
-3.  在“管理许可证”页上，清除“Dynamics AX Enterprise”许可证复选框，然后选择“Dynamics 365 for Operations”许可证。
-4.  选择“提交”。 确认页面列出了新的许可证分配。
+1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
+2.  若要重新分配用户许可证，选择要重新分配的用户，然后选择**管理许可证**。
+3.  在**管理许可证**页上，清除 **Dynamics AX Enterprise** 许可证复选框，然后选择 **Dynamics 365 for Operations** 许可证。
+4.  选择**提交**。 确认页面列出了新的许可证分配。
 5.  对其他任何需要重新分配许可证的客户用户继续执行相同的步骤。
 
-<a href="" id="cancelsubscriptions"></a>
-在将用户许可证移动至新服务后，可安全取消最高“客户”级别的旧订阅。
+<a href="" id="cancelsubscriptions"></a>在将用户许可证移动至新服务后，可安全取消最高“客户”级别的旧订阅。
 
 **取消旧订阅**
 
-1.  在“仪表板”菜单中，选择“客户”、选择要移动的客户，然后选择要取消的订阅。
-2.  在订阅详细信息页面中，将订阅“状态”设置为“已暂停”。
-3.  选择“提交”。
+1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择要取消的订阅。
+2.  在订阅详细信息页面中，将订阅**状态**设置为**已暂停**。
+3.  选择**提交**。
 
 旧订阅已暂停，新订阅将激活。 暂停的订阅在 120 天后将自动取消预配。 不会向客户收取旧订阅的任何额外成本。
 
-## 其他注意事项
+## <a name="additional-considerations"></a>其他注意事项
 
 
 如果客户从“开放渠道”移动至“云服务计划”以进一步预配订阅，还需要迁移他们的现有订阅：
@@ -116,11 +111,5 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

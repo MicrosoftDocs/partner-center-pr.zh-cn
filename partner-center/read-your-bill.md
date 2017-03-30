@@ -3,13 +3,11 @@ title: "阅读帐单 | 合作伙伴中心"
 description: "发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 阅读帐单
+# <a name="read-your-bill"></a>阅读帐单
 
 **适用于**
 
@@ -20,7 +18,7 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
 有关费用的明细，使用随附的对帐文件。 对帐文件包括用于创建客户发票的客户 ID 和订阅 ID。 有关详细信息，请参阅[如何使用对帐文件](use-the-reconciliation-files.md)。
 
-## 发票文件定义
+## <a name="invoice-file-definitions"></a>发票文件定义
 
 
 <table>
@@ -114,11 +112,5 @@ ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

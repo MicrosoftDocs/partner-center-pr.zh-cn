@@ -3,13 +3,11 @@ title: "Microsoft 支持 | 合作伙伴中心"
 description: "当你遇到 Microsoft 服务问题或合作伙伴中心问题时，可以向 Microsoft 反映以寻求帮助，并跟踪该问题直到它得到解决为止。"
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Microsoft 支持
+# <a name="support-from-microsoft"></a>Microsoft 支持
 
 **适用于**
 
@@ -30,11 +28,5 @@ ms.openlocfilehash: 2be8a2651af3207fd2bb3349b0146a651a8afdb7
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

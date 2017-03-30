@@ -3,13 +3,11 @@ title: "创建市场营销配置文件 | 合作伙伴中心"
 description: "Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络资产。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
 ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 创建市场营销配置文件
+# <a name="create-a-marketing-profile"></a>创建市场营销配置文件
 
 **适用于**
 
@@ -29,15 +27,15 @@ Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络�
 -   如果你已注册 Microsoft 的 [云服务提供商](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) 计划，请登录 [合作伙伴中心](https://go.microsoft.com/fwlink/?linkid=838396)。 你可以创建新配置文件，或者导入现有的 Pinpoint 配置文件。 请注意，配置文件的所有更改都必须在导入之前进行。 请参阅下面的信息以了解详细情况。
 -   如果你无法修改自己的配置文件，请联系 [地区服务中心](https://go.microsoft.com/fwlink/?linkid=838398)。 
 
-**客户评论：** 作为从 Pinpoint 向合作伙伴中心计划过渡的一部分，以前的客户评论列表功能已经取消，合作伙伴不能再访问客户评论。 在删除该功能及相关评论之前，我们会通过合作伙伴指定的电子邮件联系方式向所有受影响的合作伙伴发出通知。 当前计划是将来用更稳健、更可靠的系统替换该功能。
+**客户评论：**作为从 Pinpoint 向合作伙伴中心计划过渡的一部分，以前的客户评论列表功能已经取消，合作伙伴不能再访问客户评论。 在删除该功能及相关评论之前，我们会通过合作伙伴指定的电子邮件联系方式向所有受影响的合作伙伴发出通知。 当前计划是将来用更稳健、更可靠的系统替换该功能。
 
 **创建市场营销配置文件**
 
-1.  在 [合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956) 的“仪表板”菜单中，依次选择“帐户设置”&gt;“市场营销配置文件”。
-2.  在“配置文件”选项卡下，选择“添加市场营销配置文件”。
+1.  在[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956) 的**仪表板**菜单中，依次选择**帐户设置** &gt; **市场营销配置文件**。
+2.  在**配置文件**选项卡下，选择**添加市场营销配置文件**。
 3.  更新公司信息，包括联系人信息、突出显示业务特长的属性，以及符合下面的*资料指南*的描述。
 
-## 资料指南
+## <a name="profile-guidelines"></a>资料指南
 
 
 -   你的资料最多为 2500 个字符，但简洁的资料通常最有效。
@@ -54,7 +52,7 @@ Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络�
 
 -   客户为搜索而输入的关键字最为重要。 包括准确描述公司产品/服务的关键字以及客户可能用于搜索解决方案的行业术语。
 
-## 创建出色配置文件的十个提示
+## <a name="ten-tips-for-a-great-profile"></a>创建出色配置文件的十个提示
 
 
 1.  **了解受众** 像在面对客户说话一样编写，而不是面向内部团队或 Microsoft。
@@ -77,7 +75,7 @@ Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络�
 
 10. **保持配置文件处于最新状态** 使你的配置文件与公司网络展示保持同步。 对于每个软件或服务版本，更新配置文件和站点，从而确保无缝的客户体验。
 
-## 相关主题
+## <a name="related-topics"></a>相关主题
 
 
 [从 Pinpoint 过渡到合作伙伴中心](importing-pinpoint-profiles-into-partner-center.md)
@@ -86,11 +84,5 @@ Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络�
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

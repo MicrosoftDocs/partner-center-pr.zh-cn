@@ -3,13 +3,11 @@ title: "客户订阅 | 合作伙伴中心"
 description: "合作伙伴可以向客户销售订阅，并通过合作伙伴中心管理它们。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 9048ae0f6c43e678cd1acb8829453ecb3e04d31c
 ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 客户订阅
+# <a name="customer-subscriptions"></a>客户订阅
 
 **适用于**
 
@@ -41,11 +39,5 @@ ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

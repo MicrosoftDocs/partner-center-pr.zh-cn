@@ -3,13 +3,11 @@ title: "云解决方案提供商中的 Office 365 E5 单一 SKU 可用性 | 合�
 description: "Office 365 企业版 E5 单一 SKU 可用于云解决方案提供商，并且包括 PSTN 会议。"
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# Office 365 合作伙伴公告：云解决方案提供商中的 Office 365 E5 单一 SKU 可用性
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作伙伴公告：云解决方案提供商中的 Office 365 E5 单一 SKU 可用性
 
 **适用于**
 
@@ -17,24 +15,24 @@ ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 截止 2016 年 10 月 5 日，Office 365 企业版 E5 单一 SKU 可用于云解决方案提供商。 作为此更改的一部分，Office 365 企业版 E5 SKU 包括 PSTN 会议（可使用 PSTN 会议服务）。
 
-## 摘要
+## <a name="summary"></a>摘要
 
 
 此 Office 365 企业版 E5 产品/服务简化了购买最全面、安全的云套件过程以提高生产效率和改善通信。 现在无需使用加载项管理不同价格点，即可包含 Skype 会议服务。
 
 上述更改将影响合作伙伴的订购和开具发票事宜。 PSTN 服务在某些国家/地区还要遵守特定税务和法规要求。
 
-## 合作伙伴建议
+## <a name="partner-recommendations"></a>合作伙伴建议
 
 
 咨询税务和法律顾问，了解组织对 PSTN 服务法规、税务和费用以及其他潜在义务的责任。
 
-## 详细信息
+## <a name="details"></a>详细信息
 
 
 在美国和波多黎各，Skype for Business PSTN 服务要遵守特殊的税务和法规要求。 Microsoft 对 PSTN 服务的定价包含税款。 独特的 PSTN 税务和法规将影响 Office 365 合作伙伴对新的统一 Office 365 E5 产品/服务的交易。 如果合作伙伴标记了 Microsoft PSTN 服务的价格，则可能有责任计算和汇寄 PSTN 税款和费用。
 
-## 价目表和目录可用性
+## <a name="price-list-and-catalog-availability"></a>价目表和目录可用性
 
 
 许多云解决方案提供商合作伙伴提前很长时间，通过 API 将订购管理系统与 Microsoft 商务平台集成。 若要确保在系统准备好交易 Office 365 企业版 E5 单一 SKU 之前可拒绝任何 E5 机会，以下 SKU 将在云解决方案提供商价目表上保存到 2017 年 7 月 1 日：
@@ -46,7 +44,7 @@ ms.openlocfilehash: afa65e5501eb9bcaa521229cef3b9d33a58e1efe
 
 在 10 月 5 日发布后，某些 SKU 将显示相同的产品/服务显示名称，但显示不同的价格点，因为单一 SKU 在世界范围内定价相同，无论 PSTN 是否可用。 合作伙伴应根据“合作伙伴中心”目录页上显示的“产品/服务名称”预配价目表上的单一 SKU（在下表中用灰色突出显示，并根据产品/服务 ID 识别）。 在接下来的几周内，“产品/服务显示名称”文本将定义在 2017 年 7 月 1 日终止的 SKU。
 
-### 按日期和 PSTN 可用性在云解决方案提供商价目表上显示的 SKU
+### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>按日期和 PSTN 可用性在云解决方案提供商价目表上显示的 SKU
 
 **单一 Office 365 企业版发布前 E5 单一 SKU 启动**
 
@@ -196,10 +194,10 @@ PSTN 加载项
 
  
 
-## 其他资源
+## <a name="additional-resources"></a>其他资源
 
 
-有关详细信息，请访问 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 站点。 特定于 Office 365 企业版 E5 的资源位于“市场营销和出售”选项卡下的 [Office 365 E5 页面](https://drumbeat.office.com/partner/pages/e5.aspx)上：
+有关详细信息，请访问 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 站点。 特定于 Office 365 企业版 E5 的资源位于**市场营销和出售**选项卡下的 [Office 365 E5 页面](https://drumbeat.office.com/partner/pages/e5.aspx)上：
 
 -   **Office 365 企业版 E5 授权**
 
@@ -211,11 +209,5 @@ PSTN 加载项
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

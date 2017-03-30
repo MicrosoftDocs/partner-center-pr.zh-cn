@@ -3,13 +3,11 @@ title: "更新你的合作伙伴配置文件 | 合作伙伴中心"
 description: "首次作为管理员登录合作伙伴中心时，请确保你的支持详细信息正确、申报免税（如果适用），并在个人资料中查看联系信息。"
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 更新你的合作伙伴个人资料
+# <a name="update-your-partner-profile"></a>更新你的合作伙伴个人资料
 
 **适用于**
 
@@ -20,8 +18,8 @@ ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 **更新支持详细信息**
 
-1.  在合作伙伴中心中，转到“仪表板”菜单 &gt;“帐户设置”&gt;“合作伙伴配置文件”。
-2.  在“支持”部分中，选择“更新”。
+1.  在合作伙伴中心中，转到“仪表板”菜单 &gt; **帐户设置** &gt; **合作伙伴配置文件**。
+2.  在**支持**部分中，选择**更新**。
 3.  如果你的任何客户致电 Microsoft 来寻求支持，Microsoft 会将他们指向你在支持简介中列出的网站、电子邮件以及电话联系信息。
 
 **申报免税**
@@ -30,18 +28,12 @@ ms.openlocfilehash: f0a49eca7d0146d60714b9f30fb20ababee6775f
 
 **验证配置文件信息**
 
-1.  在合作伙伴中心中，转到“仪表板”菜单 &gt;“帐户设置”。
-2.  依次查看“合作伙伴配置文件”、“合作伙伴计费配置文件”和“组织配置文件”。
+1.  在合作伙伴中心中，转到“仪表板”菜单 &gt; **帐户设置**。
+2.  依次查看**合作伙伴配置文件**、**合作伙伴计费配置文件**和**组织配置文件**。
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

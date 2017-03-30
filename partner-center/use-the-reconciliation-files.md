@@ -3,13 +3,11 @@ title: "使用对帐文件 | 合作伙伴中心"
 description: "有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
-
+ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 使用对帐文件
+# <a name="use-the-reconciliation-files"></a>使用对帐文件
 
 **适用于**
 
@@ -17,13 +15,6 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 -  德国 Microsoft 云合作伙伴中心
 
 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
-
-## 本部分内容
-
-
--   [由合作伙伴列出明细](#itemizebypartner)
--   [基于许可证的对帐文件](#licencebasedfiles)
--   [基于使用情况的对帐文件](#usagebasedfiles)
 
 ## <a href="" id="itemizebypartner"></a>由合作伙伴列出明细
 
@@ -44,13 +35,13 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <tbody>
 <tr class="odd">
 <td>MPN ID</td>
-<td><p>云解决方案提供商合作伙伴（直接或间接）的 MPN ID。</p></td>
+<td><p>CSP 合作伙伴（直接或间接）的 Microsoft 合作伙伴网络 (MPN) ID。</p></td>
 </tr>
 <tr class="even">
 <td>经销商 MPN ID</td>
 <td><p>仅显示在间接模型中合作伙伴的对帐文件上。</p>
 <p>订阅记录的经销商 MPN ID。 这对应于针对合作伙伴中心中的特定订阅所列的经销商 ID。</p>
-<p>若要查看或更新经销商，请在“合作伙伴中心”菜单中，选择“客户”<strong></strong>，然后从列表中选择客户。 在客户菜单中，选择“订阅”<strong></strong>，然后从列表中选择订阅。 选择“更新”<strong></strong>以更改“经销商 (MPN ID)”<strong></strong>。</p>
+<p>若要查看或更新经销商，请在“合作伙伴中心”菜单中，选择“客户”<strong></strong>，然后从列表中选择客户。 在“客户”菜单中，选择“订阅”<strong></strong>，然后从列表中选择订阅。 选择“更新”<strong></strong>以更改“经销商 (MPN ID)”<strong></strong>。</p>
 <p>如果云解决方案提供商合作伙伴将订阅直接销售给客户，他们的 MPN ID 会列出两次，即 MPN ID 和经销商 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴的经销商没有 MPN ID，此值将设置为合作伙伴的 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴删除经销商 ID，此值将设置为 -1。</p></td>
@@ -83,9 +74,9 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td>8ddd03642-test-test-test-46b58d356b4e</td>
 </tr>
 <tr class="odd">
-<td>CustomerNumber</td>
-<td><p>Microsoft 帐单平台中客户的唯一标识符。 当联系支持人员而不用于对帐时，可能对识别客户非常有用。</p></td>
-<td>123456789</td>
+<td>CustomerID</td>
+<td><p>唯一 Microsoft ID（采用 GUID 格式），用于识别客户。</p></td>
+<td>12ABCD34-001A-BCD2-987C-3210ABCD5678</td>
 </tr>
 <tr class="even">
 <td>OrderID</td>
@@ -106,12 +97,14 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="odd">
 <td>OfferID</td>
-<td><p>唯一的产品/服务 ID。 根据价目表的标准产品/服务 ID。</p></td>
-<td>306855</td>
+<td><p>唯一的产品/服务 ID。 根据价目表的标准产品/服务 ID。</p>
+<p><b>注意</b>：此值与价目表中的产品/服务 ID 不匹配。 请参阅下方的 DurableOfferID。</p></td>
+<td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>唯一的持久型产品 ID，如价目表中所定义。</p></td>
+<td><p>唯一的持久型产品/服务 ID，如价目表中所定义。</p>
+<p><b>注意</b>：此值与价目表中的产品/服务 ID 匹配。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,73 +141,11 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>费用或调整的类型。</p>
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td>费用：</td>
-<td><ul>
-<li>PURCHASE_FEE：订阅的初始费用</li>
-<li>CYCLE_FEE：订阅的定期费用</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>ConvertResources</td>
-<td><ul>
-<li>CANCEL_USAGEFEE：在当前计费周期期间，取消后未付款使用情况的访问使用情况费用</li>
-<li>CYCLE_USAGEFEE：当前计费周期的访问使用情况费用</li>
-</ul></td>
+<td><p>费用或调整的类型。 请参阅<a href="#charge_types">映射发票与对帐文件之间的费用</a></p></td>
+<td><p>请参阅<a href="#charge_types">映射发票与对帐文件之间的费用</a></p></td>
 </tr>
 <tr class="odd">
-<td>按比例：</td>
-<td><ul>
-<li>PURCHASE_PRORATE：购买后按比例计算的费用</li>
-<li>CANCEL_PRORATE：取消后服务的未使用部分按比例计算的退款</li>
-<li>ACTIVATION_PRORATE：从激活到计费周期结束时间段内按比例计算的费用</li>
-<li>RENEW_PRORATE：订阅续订后按比例计算的费用</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>InstanceProrates：</td>
-<td><ul>
-<li>CANCEL_INSTANCEPRORATE：相关席位发生变化时，退款给客户的按比例计算的费用</li>
-<li>CYCLE_INSTANCEPRORATE：相关席位发生变化时，客户评估的按比例计算的费用</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>积分：</td>
-<td><ul>
-<li>CREDIT：适用于付款方式的积分</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>抵消：</td>
-<td><ul>
-<li>OFFSET_LINEITEM：明细项目的部分或全部退款</li>
-<li>ONE_TIME_REFUND：针对客户处理的一次性退款</li>
-<li>TAX_REFUND：因验证免税证而产生的退款</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>折扣：</td>
-<td><ul>
-<li>ACTIVATION_DISCOUNT：订阅激活时所应用的折扣</li>
-<li>CYCLE_DISCOUNT：定期费用所应用的折扣</li>
-<li>RENEW_DISCOUNT：订阅续订时所应用的折扣</li>
-<li>CANCEL_DISCOUNT：折扣取消时所应用的费用</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-<p> </p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>单价</td>
+<td>UnitPrice</td>
 <td><p>每一席位的价格。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
 <td>6.82</td>
 </tr>
@@ -268,10 +199,24 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>订阅记录的经销商 MPN ID。 请参阅[由合作伙伴列出明细](#itemizebypartner)。</p></td>
 <td>4390934</td>
 </tr>
+<tr class="even">
+<td>DomainName</td>
+<td><p>客户的域名，用于帮助识别客户。</p></td>
+<td>example.onmicrosoft.com</td>
+</tr>
+<tr class="odd">
+<td>SubscriptionName</td>
+<td><p>订阅昵称。 如果未指定昵称，合作伙伴中心将使用 OfferName。</p></td>
+<td>联机项目</td>
+</tr>
+<tr class="even">
+<td>SubscriptionDescription</td>
+<td><p>客户购买的服务产品的名称，如价目表中所定义。 （与产品/服务名称字段相同）。</p></td>
+<td>不带项目客户端的高级联机项目</td>
+</tr>
 </tbody>
 </table>
 
- 
 
 ## <a href="" id="usagebasedfiles"></a>基于使用情况的文件字段
 
@@ -347,7 +292,7 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>SubscriptionName</td>
-<td><p>服务产品的名称</p></td>
+<td><p>服务产品的昵称。</p></td>
 <td>Microsoft Azure</td>
 </tr>
 <tr class="odd">
@@ -455,8 +400,8 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>明细项目类型的描述</p></td>
-<td>当前周期的访问使用情况费用</td>
+<td><p>费用或调整的类型。 请参阅“<a href="#charge_types">映射发票与对帐文件之间的费用</a>”</p></td>
+<td><p>请参阅“<a href="#charge_types">映射发票与对帐文件之间的费用</a>”</p></td>
 </tr>
 <tr class="odd">
 <td>CustomerBillableAccount</td>
@@ -493,20 +438,235 @@ ms.openlocfilehash: 362cc5c1f40034355f9899a79ae4bb6c948ec622
 <td><p>已预配并且已在指定日利用的服务总线连接数。</p></td>
 <td>例如：如果你在一个月 30 天内有单独的已预配连接，则服务信息 1 将读取“1.000000 连接/ 30 天”。 如果你有已预配服务总线连接的 25 个包，并且在那一天利用了 1 个，则这一天的每日使用情况声明将指示“25 连接/ 30 天 – 已使用：1.000000”。</td>
 </tr>
+<tr class="even">
+<td>CustomerID</td>
+<td><p>唯一 Microsoft ID（采用 GUID 格式），用于识别客户。</p></td>
+<td>ORDDC52E52FDEF405786F0642DD0108BE4</td>
+</tr>
+<tr class="odd">
+<td>DomainName</td>
+<td><p>客户的域名，用于帮助识别客户。</p></td>
+<td>example.onmicrosoft.com</td></tr>
 </tbody>
 </table>
 
- 
-
- 
-
- 
 
 
+## <a href="" id="charge_types"></a>映射发票与对帐文件之间的费用
+
+发票是费用的汇总，而对帐文件提供行项交易的明细，包括费用类型。
+
+若要交叉引用发票与对帐文件之间的费用金额，可以使用 Microsoft Excel 的筛选器选项在对帐文件上按照费用类型进行筛选，以将发票金额映射到对帐文件的一系列费用明细上。
+
+下表显示了发票部分与可能在对帐文件上显示的相关金额类型之间的映射。 
+
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>发票费用描述</strong></p>
+</td>
+<td>
+<p><strong>对帐文件费用描述（ChargeType 列）</strong></p>
+</td>
+<td>
+<p><strong>此费用是什么？</strong></p>
+</td>
+<td>
+<p><strong>如何将这些 ChargeTypes 映射到发票？</strong></p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p><strong>定期费用</strong></p>
+</td>
+<td>
+<p>取消实例按比例计算</p>
+</td>
+<td>
+<p>相关席位发生变化时，退款给客户的按比例计算的费用</p>
+</td>
+<td rowspan="8">
+<p>从基于许可证的文件，对 <strong>Amount</strong> 列求和</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>周期费用</p>
+</td>
+<td>
+<p>订阅的定期费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>周期实例按比例计算</p>
+</td>
+<td>
+<p>相关席位发生变化时，客户评估的按比例计算的费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>按比例计算取消时的费用</p>
+</td>
+<td>
+<p>取消后服务的未使用部分按比例计算的退款</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>按比例计算购买时的费用</p>
+</td>
+<td>
+<p>购买后按比例计算的费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>购买费用</p>
+</td>
+<td>
+<p>订阅的初始费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>按比例计算续订时的费用</p>
+</td>
+<td>
+<p>订阅续订后按比例计算的费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>续订费用</p>
+</td>
+<td>
+<p>续订订阅费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>其他产品和服务</strong></p>
+</td>
+<td>
+<p>按比例计算激活时的费用</p>
+</td>
+<td>
+<p>从激活到计费周期结束时间段内按比例计算的费用</p>
+</td>
+<td>
+<p>从基于许可证的文件，对 <strong>Amount</strong> 列求和</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p><strong>使用费用</strong></p>
+</td>
+<td>
+<p>评估取消时的使用费用</p>
+</td>
+<td>
+<p>评估当前计费周期内取消未付款使用量的使用费用</p>
+</td>
+<td rowspan="2">
+<p>从基于使用情况的文件，对 <strong>PretaxCharges</strong> 列求和</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>评估当前周期的使用费用</p>
+</td>
+<td>
+<p>访问当前计费周期的使用费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>积分&amp;调整</strong></p>
+</td>
+<td>
+<p>偏移行项</p>
+</td>
+<td>
+<p>部分或全部退款到行项，包括税款</p>
+</td>
+<td>
+<p>从基于许可证的文件，对 <strong>TotalForCustomer</strong> 列求和</p>
+<p>从基于使用情况的文件，对 <strong>PostTaxTotal</strong> 列求和</p>
+</td>
+</tr>
 
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+<tr>
+<td rowspan="4">
+<p><strong>其他折扣</strong></br>
+<em>（基于使用情况）</em></p>
+</td>
+<td>
+<p>激活折扣</p>
+</td>
+<td>
+<p>激活订阅时应用的折扣</p>
+</td>
+<td rowspan="4">
+<p>从基于使用情况的文件，对 <strong>PretaxCharges</strong> 列求和</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>周期折扣</p>
+</td>
+<td>
+<p>对定期费用应用的折扣</p>
+</td>
+</tr><tr>
+<td>
+<p>续订折扣</p>
+</td>
+<td>
+<p>续订订阅时应用的折扣</p>
+</td>
+</tr><tr>
+<td>
+<p>取消折扣</p>
+</td>
+<td>
+<p>取消折扣时应用的费用</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>其他折扣</strong></br>
+<em>（基于许可证）</em></p>
+</td>
+<td>
+<p><em>可能应用于多种费用类型</em></p>
+</td>
+<td>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>从基于许可证的文件，对 <strong>TotalOtherDiscount</strong> 列求和</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>税款</strong>&nbsp;或&nbsp;<strong> VAT</strong></p>
+</td>
+<td>
+<p><em>可能应用于多种费用类型</em></p>
+<p><em>例外：“偏移行项”已经包括税款。 请参阅上面的“积分&amp;调整”。</em></p>
+</td>
+<td>
+<p>税款或增值税 (VAT)</p>
+</td>
+<td>
+<p>从基于许可证的文件，对 <strong>Tax</strong> 列求和</p>
+<p>从基于使用情况的文件，对 <strong>TaxAmount</strong> 列求和</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

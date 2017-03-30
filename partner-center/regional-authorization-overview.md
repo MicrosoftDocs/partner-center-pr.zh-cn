@@ -3,13 +3,11 @@ title: "云解决方案提供商区域授权 | 合作伙伴中心"
 description: "借助区域授权，经营国际业务的合作伙伴现在可更轻松地管理世界范围内不同地区和国家的客户。"
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 云解决方案提供商区域授权
+# <a name="csp-regional-authorization"></a>云解决方案提供商区域授权
 
 
 \[有些信息与可能在商业发行之前就经过实质性修改的预发布产品相关。 Microsoft 不对此处提供的信息作任何明示或默示的担保。\]
@@ -20,11 +18,11 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
 >**注意**<br> 如果你注册[德国 Microsoft 云的云解决方案提供商](partner-center-for-microsoft-cloud-germany.md)并且向欧盟和欧洲自由贸易联盟国家/地区内的客户销售，你不能将德国 Microsoft 云合作伙伴中心的租户与其他租户合并。  
 
-## 计划
+## <a name="planning"></a>计划
 
 合作伙伴有多种选项可合并区域租户，如下所述。
 
-### 一个地区或国家的独立租户
+### <a name="separate-tenants-for-single-regions-or-countries"></a>一个地区或国家的独立租户
 
 可以选择合并租户。 合作伙伴可继续管理具有独立租户的国际客户，如下表所示。
 
@@ -67,7 +65,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 一个租户通用于多个地区或国家
+## <a name="one-tenant-for-multiple-regions-or-countries"></a>一个租户通用于多个地区或国家
 
 
 合作伙伴可选择将多个云解决方案提供商租户的操作合并到一个云解决方案提供商租户中。
@@ -99,7 +97,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 特定租户用于特定地区或国家
+## <a name="some-tenants-for-some-regions-or-countries"></a>特定租户用于特定地区或国家
 
 
 合作伙伴可选择将多个云解决方案提供商租户的操作合并到较少的云解决方案提供商租户中。
@@ -135,7 +133,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-## 合并租户
+## <a name="consolidating-tenants"></a>合并租户
 
 
 如果要合并租户，我们推荐以下操作：
@@ -145,7 +143,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 -   **多个国家/地区，但只在一处交易。** 如果在许多国家/地区进行交易，我们建议集中到席位数最多的租户。 应取消席位数较少的国家/地区中的订阅。
 
 
-## 国家/地区信息
+## <a name="countryregion-information"></a>国家/地区信息
 
 
 请先考虑以下内容，再开始合并租户：
@@ -163,7 +161,7 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
     >**注意**<br> 如果你注册[德国 Microsoft 云的云解决方案提供商](partner-center-for-microsoft-cloud-germany.md)并且向欧盟和欧洲自由贸易联盟国家/地区内的客户销售，你不能将德国 Microsoft 云合作伙伴中心的租户与其他租户合并。  
 
 
--   **如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：阿富汗、阿尔巴尼亚、阿尔及利亚、亚美尼亚、阿塞拜疆、巴林、白俄罗斯、波斯尼亚和黑塞哥维那、埃及、格鲁吉亚、伊拉克、以色列、约旦、哈萨克斯坦、科威特、吉尔吉斯斯坦、黎巴嫩、利比亚、马其顿，前南斯拉夫共和国、摩尔多瓦、蒙古、黑山、摩洛哥、阿曼、巴基斯坦、巴勒斯坦民族权力机构、卡塔尔、沙特阿拉伯、塞尔维亚、南非、塔吉克斯坦、突尼斯、土耳其、土库曼斯坦、乌克兰、阿拉伯联合酋长国、乌兹别克斯坦、也门、津巴布韦
+-   **如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：阿富汗、阿尔巴尼亚、阿尔及利亚、亚美尼亚、阿塞拜疆、巴林、白俄罗斯、波斯尼亚和黑塞哥维那、埃及、格鲁吉亚、伊拉克、以色列、约旦、哈萨克斯坦、科威特、吉尔吉斯斯坦、黎巴嫩、利比亚、前南斯拉夫马其顿共和国、摩尔多瓦、蒙古、黑山、摩洛哥、阿曼、巴基斯坦、巴勒斯坦民族权力机构、卡塔尔、沙特阿拉伯、塞尔维亚、南非、塔吉克斯坦、突尼斯、土耳其、土库曼斯坦、乌克兰、阿拉伯联合酋长国、乌兹别克斯坦、也门、津巴布韦
 
 -   **如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：安哥拉、博茨瓦纳、喀麦隆、佛得角、科特迪瓦、埃塞俄比亚、加纳、肯尼亚、毛里求斯、纳米比亚、尼日利亚、卢旺达、塞内加尔、坦桑尼亚、乌干达、赞比亚
 
@@ -187,11 +185,5 @@ ms.openlocfilehash: f4829c446af6b721a2e4bb142e6f6e79b6c8c71a
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

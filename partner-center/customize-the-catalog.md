@@ -3,13 +3,11 @@ title: "自定义目录 | 合作伙伴中心"
 description: "该目录列出适用于合作伙伴销售的所有 Microsoft 产品和加载项。"
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 自定义目录
+# <a name="customize-the-catalog"></a>自定义目录
 
 **适用于**
 
@@ -20,18 +18,12 @@ ms.openlocfilehash: c4e1f1813add283f67669cc8ea0cc88fb0bb4610
 
 **自定义目录**
 
-1.  在合作伙伴中心中，转到“仪表板”菜单 &gt;**帐户设置** &gt;**目录**。
+1.  在合作伙伴中心中，转到“仪表板”菜单 &gt; **帐户设置** &gt; **目录**。
 2.  选择最多五个要在目录顶部显示的产品/服务。
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

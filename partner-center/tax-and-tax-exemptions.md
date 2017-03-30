@@ -3,13 +3,11 @@ title: "税务和免税 | 合作伙伴中心"
 description: "因为云解决方案提供商是专注于合作伙伴产品转售的销售渠道，所以 Microsoft 并不始终要求向合作伙伴发票征收销售税。"
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 税务和免税
+# <a name="tax-and-tax-exemptions"></a>税务和免税
 
 **适用于**
 
@@ -20,13 +18,13 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
 **申报免税**
 
-1.  在“仪表板”菜单 &gt;“帐户设置”&gt;“组织配置文件”上查找“Microsoft ID”。
-2.  在“仪表板”菜单 &gt;“帐户设置”&gt;“合作伙伴配置文件”上查找“MPN ID”。
-3.  创建新的支持票证。 在“仪表板”菜单中，依次选择“支持票证”&gt;“合作伙伴中心票证”&gt;“新票证”。
-4.  填写表单。 对于“问题类型”，选择“无法管理我的个人资料”。 在描述中包括你的 MPN ID 和 Microsoft ID。
+1.  在“仪表板”菜单 &gt; **帐户设置** &gt; **组织配置文件**上查找 **Microsoft ID**。
+2.  在“仪表板”菜单 &gt; **帐户设置** &gt; **合作伙伴配置文件**上查找 **MPN ID**。
+3.  创建新的支持票证。 在“仪表板”菜单中，依次选择**支持票证** &gt; **合作伙伴中心票证** &gt; **新票证**。
+4.  填写表单。 对于**问题类型**，选择**无法管理我的个人资料**。 在描述中包括你的 MPN ID 和 Microsoft ID。
 5.  提交票证后，Microsoft 将向你发送电子邮件以获取更多信息。 在回复时，请附加免税证书的相应支持文档。
 
-## 按国家/地区分类的详细信息
+## <a name="details-by-countryregion"></a>按国家/地区分类的详细信息
 
 
 <table>
@@ -74,11 +72,5 @@ ms.openlocfilehash: 1fccfc4eb713fc0c79fe027f4e788b41b05a9117
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

@@ -3,13 +3,11 @@ title: "使用我们的 API 获取自动服务通知 | 合作伙伴中心"
 description: "Office 365 和 Microsoft Azure 各提供一个合作伙伴可用于检索实时服务运行状况、消息中心通信和计划维护事件的 API。"
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 42b29f9cf8c450560284fea39efd0638672f32b1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 使用我们的 API 获取自动服务通知
+# <a name="get-automated-service-notifications-with-our-apis"></a>使用我们的 API 获取自动服务通知
 
 **适用于**
 
@@ -27,11 +25,5 @@ Azure Insights REST API：[代码](http://go.microsoft.com/fwlink/p/?LinkId=6172
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

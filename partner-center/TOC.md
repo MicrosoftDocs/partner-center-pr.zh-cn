@@ -35,7 +35,7 @@
 ## [云解决方案提供商区域授权租户合并](csp-regional-authorization-tenant-consolidation.md)
 # [与其他合作伙伴合作](work-with-other-partners.md)
 ## [多渠道](multichannel.md)
-## [多个合作伙伴](multipartner.md)
+## [多合作伙伴](multipartner.md)
 ## [请求与客户建立关系](request-a-relationship-with-a-customer.md)
 # [Microsoft 支持](support-from-microsoft--.md)
 ## [检查服务运行状况](check-service-health.md)
@@ -52,9 +52,4 @@
 # [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 ## [在德国 Microsoft 云合作伙伴中心中注册](enroll-in-csp-for-microsoft-cloud-germany.md)
 ## [德国 Microsoft 云合作伙伴中心中的用户和许可证管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)
-
-
-
-<!--HONumber=Jan17_HO2-->
-
 

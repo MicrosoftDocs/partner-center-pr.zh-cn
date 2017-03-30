@@ -3,13 +3,11 @@ title: "恢复暂停的合作伙伴中心帐户 | 合作伙伴中心"
 description: "了解如何恢复暂停的合作伙伴中心帐户、合作伙伴帐户被暂停的原因以及在暂停时如何使用帐户。"
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 7e12c613050af1c76caa3fd87a5098ee501c0d9c
 ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 恢复暂停的合作伙伴中心帐户
+# <a name="restore-a-suspended-partner-center-account"></a>恢复暂停的合作伙伴中心帐户
 
 本文说明如果合作伙伴中心帐户被暂停怎么办。
 
@@ -21,7 +19,7 @@ ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
 >**重要**<br>
 合作伙伴中心帐户被暂停时，你可继续管理现有部署、许可证和服务。 但是，在你的帐户恢复正常前你将无法授权或转售新许可证或服务。
 
-## 暂停合作伙伴中心帐户的原因
+## <a name="why-partner-center-accounts-are-suspended"></a>暂停合作伙伴中心帐户的原因
 
 由于以下原因之一，Microsoft 将暂停合作伙伴中心帐户：
 
@@ -29,7 +27,7 @@ ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
 - 检测到严重的帐户滥用情况
 - 当问题影响间接提供商运营且对你的帐户有负面影响（仅限间接经销商）
 
-## 如果你的帐户被暂停怎么办
+## <a name="what-to-do-if-your-account-is-suspended"></a>如果你的帐户被暂停怎么办
 
 如果你知道你的帐户是最新的，请向合作伙伴中心支持人员提交一个支持请求，了解暂停你的帐户的原因。 
 
@@ -39,15 +37,9 @@ ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
 
 **要提交支持请求**
 
-1.  从**仪表板**菜单中，依次选择**支持请求 > 合作伙伴中心请求**。
-2.  选择**新建请求**。 
-3.  填写表单，然后选择**提交**。 合作伙伴中心支持代表将与你联系，说明为什么你的帐户被暂停以及如何恢复它。
+1.    从**仪表板**菜单中，依次选择**“支持请求”>“合作伙伴中心请求”**。
+2.    选择**新建请求**。 
+3.    填写表单，然后选择**提交**。 合作伙伴中心支持代表将与你联系，说明为什么你的帐户被暂停以及如何恢复它。
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

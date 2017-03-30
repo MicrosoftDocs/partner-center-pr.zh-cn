@@ -3,13 +3,11 @@ title: "重置用户密码 | 合作伙伴中心"
 description: "如果用户忘记了密码，你可以为他们分配一个新的临时密码。 他们可以在下次登录合作伙伴中心时使用它。"
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
 ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 重置用户密码
+# <a name="reset-a-user-password"></a>重置用户密码
 
 **适用于**
 
@@ -21,10 +19,10 @@ ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
 **以管理员身份重置用户密码**
 
-1.  在合作伙伴中心中，转到“仪表板”菜单 &gt;“帐户设置”&gt;“用户管理”。
+1.  在合作伙伴中心中，转到“仪表板”菜单 &gt; **帐户设置** &gt; **用户管理**。
 2.  从列表中选择用户。
 
-3.  请选择页面底部的“重置密码”。
+3.  请选择页面底部的**重置密码**。
 
 4.  你将看到一个确认屏幕，显示用于新登录信息的临时密码。 你必须复制此内容并将其发送给新用户 – 你离开屏幕后，它将无法访问。 首次登录时，系统将提示用户更新密码。
 
@@ -38,11 +36,5 @@ ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

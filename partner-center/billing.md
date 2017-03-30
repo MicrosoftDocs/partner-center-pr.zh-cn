@@ -3,13 +3,11 @@ title: "计费 | 合作伙伴中心"
 Description: "作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。"
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
 ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 计费
+# <a name="billing"></a>计费
 
 **适用于**
 
@@ -18,14 +16,14 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
 
-若要查看帐单，请转到“仪表板”菜单，然后选择“计费”。 此计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
+若要查看帐单，请转到**仪表板**菜单，然后选择**计费**。 此计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
 
 -   Microsoft 对你如何处理你自己的发票没有任何要求。
 -   若要确定客户的使用情况，请使用对帐文件中的“客户 ID/名称”和其他相关字段。
 -   针对你提供的服务和产品添加自己的费用。
 -   向你的客户发送一张包含所有费用的帐单。
 
-## 计费
+## <a name="billing"></a>计费
 
 
 [阅读帐单](read-your-bill.md)
@@ -42,7 +40,7 @@ ms.openlocfilehash: fcdd8b587151e5aed99fe88ad17aa301867ccf1a
 
 [PSTN 服务](o365-e5-in-csp-advisory.md)
 
-## 本部分内容
+## <a name="in-this-section"></a>本部分内容
 
 
 -   [计费基础知识](#billingbasics)
@@ -194,11 +192,5 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

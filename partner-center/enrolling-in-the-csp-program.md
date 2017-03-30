@@ -3,13 +3,11 @@ title: "注册云解决方案提供商计划 | 合作伙伴中心"
 description: "在注册云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。"
 ms.assetid: 6EAC0F3C-4E88-4167-ACED-C79876825C5B
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: bdc2fede5dcd4563e91437db3aa834917dcfa1ae
-ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
-
+ms.openlocfilehash: 88fd35cea2e44d905bec63a7963c886dbd27c07f
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 注册云解决方案提供商计划
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
 **适用于**
 
@@ -18,9 +16,10 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 >**注意**<br>
 有关注册德国 Microsoft 云的云解决方案提供商计划的信息，请参阅[注册德国 Microsoft 云的云解决方案提供商计划](enroll-in-csp-for-microsoft-cloud-germany.md)和[德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)。
 
-在注册云解决方案提供商 (CSP) 计划前，请了解有关[云解决方案提供商计划要求]( http://go.microsoft.com/fwlink/p/?LinkId=617116)的详细信息。
+在注册云解决方案提供商 (CSP) 计划前，请了解有关[云解决方案提供商计划要求]( http://go.microsoft.com/fwlink/p/?LinkId=617116)的详细信息。 有关合作伙伴协议和其他计划要求的详细信息，请参阅[云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)。 
 
-有关合作伙伴协议和其他计划要求的详细信息，请参阅[云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)。
+>**重要提示**<br>
+云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴中心）进行公布。  
 
 了解如何有资格获取云解决方案提供商计划奖励、加入奖励平台和获取奖励资金。 请参阅[计划详细信息](https://go.microsoft.com/fwlink/?linkid=831533)。
 
@@ -43,13 +42,13 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 | 澳大利亚、斐济                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 阿根廷、巴哈马、巴巴多斯、伯利兹、百慕大、玻利维亚、开曼群岛、智利、哥伦比亚、哥斯达黎加、库拉索、多米尼加共和国、厄瓜多尔、萨尔瓦多、危地马拉、洪都拉斯、牙买加、墨西哥、尼加拉瓜、巴拿马、巴拉圭、秘鲁、波多黎各、圣基茨和尼维斯、特立尼达和多巴哥、乌拉圭、委内瑞拉、维尔京群岛                                                                                                           |
 | 奥地利、比利时、保加利亚、克罗地亚、塞浦路斯、捷克共和国、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、匈牙利、冰岛、爱尔兰、意大利、拉脱维亚、列支敦士登、立陶宛、卢森堡、马耳他、摩纳哥、荷兰、挪威、波兰、葡萄牙、罗马尼亚、斯洛伐克、斯洛文尼亚、西班牙、瑞典、英国、法罗群岛                                                                                          |
-| 阿富汗、阿尔巴尼亚、阿尔及利亚、亚美尼亚、阿塞拜疆、巴林、白俄罗斯、波斯尼亚和黑塞哥维那、埃及、格鲁吉亚、伊拉克、以色列、约旦、哈萨克斯坦、科威特、吉尔吉斯斯坦、黎巴嫩、利比亚、马其顿，前南斯拉夫共和国、摩尔多瓦、蒙古、黑山、摩洛哥、阿曼、巴基斯坦、巴勒斯坦民族权力机构、卡塔尔、塞尔维亚、塔吉克斯坦、突尼斯、土库曼斯坦、乌克兰、阿拉伯联合酋长国、乌兹别克斯坦、沙特阿拉伯、南非、土耳其、也门、津巴布韦 |
+| 阿富汗、阿尔巴尼亚、阿尔及利亚、亚美尼亚、阿塞拜疆、巴林、白俄罗斯、波斯尼亚和黑塞哥维那、埃及、格鲁吉亚、伊拉克、以色列、约旦、哈萨克斯坦、科威特、吉尔吉斯斯坦、黎巴嫩、利比亚、前南斯拉夫马其顿共和国、摩尔多瓦、蒙古、黑山、摩洛哥、阿曼、巴基斯坦、巴勒斯坦民族权力机构、卡塔尔、塞尔维亚、塔吉克斯坦、突尼斯、土库曼斯坦、乌克兰、阿拉伯联合酋长国、乌兹别克斯坦、沙特阿拉伯、南非、土耳其、也门、津巴布韦 |
 | 安哥拉、博茨瓦纳、喀麦隆、佛得角、科特迪瓦、埃塞俄比亚、加纳、肯尼亚、毛里求斯、纳米比亚、尼日利亚、卢旺达、塞内加尔、坦桑尼亚、乌干达、赞比亚                                                                                                                                                                                                                                                                                  |
 | 孟加拉国、文莱达鲁萨兰国、香港特别行政区、印度尼西亚、马来西亚、尼泊尔、菲律宾、新加坡、斯里兰卡、泰国、越南、澳门特别行政区                                                                                                                                                                                                                                                                                              |
 
  
 
-## 合作伙伴中心帐户
+## <a name="partner-center-account"></a>合作伙伴中心帐户
 
 
 合作伙伴中心要求你的公司的管理员具有经 Azure AD 身份验证的电子邮件地址。 管理员可以使用其在 Microsoft 云服务中的任意现有工作电子邮件帐户，包括 Office 365、Azure AD、Microsoft Intune、Enterprise Mobility Services 等。成为经销商的过程会将此电子邮件地址变为经销商帐户的管理员电子邮件。
@@ -60,11 +59,5 @@ ms.openlocfilehash: 14c3ff3eabd7a0c82d36c1a5df40f4fd7f1cb533
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

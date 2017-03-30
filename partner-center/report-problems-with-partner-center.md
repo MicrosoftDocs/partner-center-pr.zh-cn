@@ -3,13 +3,11 @@ title: "报告合作伙伴中心问题 | 合作伙伴中心"
 description: "如何报告合作伙伴中心问题并为支持团队收集诊断信息。"
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 671be5c70498194b0fb8081afd9ada750b732690
-ms.openlocfilehash: 539ed7d366713060aa1d559512f31462f7f0aace
-
+ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 报告合作伙伴中心问题
+# <a name="report-problems-with-partner-center"></a>报告合作伙伴中心问题
 
 **适用于**
 
@@ -33,26 +31,20 @@ ms.openlocfilehash: 539ed7d366713060aa1d559512f31462f7f0aace
 >**注意**<br>
 在 URL 中包含**/pcv/**的合作伙伴中心页上，你可以手动打开该工具来收集此信息。
 
-1.  转到有问题的页面。
+1.    转到有问题的页面。
 
-2.  按 **Ctrl + Alt + D** 以打开合作伙伴中心客户端诊断工具。
+2.    按 **Ctrl + Alt + D** 以打开合作伙伴中心客户端诊断工具。
 
 你可以预览诊断信息，然后将它保存到某个文件，你可以将此文件附加到支持请求中。 要向我们发送信息：
 
-1.  请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。 
+1.    请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。 
 
     >**注意**<br>
     在某些浏览器中，**预览**页面底部的**页面视图**部分可能显示为空。 这很正常。
 
-2.  按照屏幕上的说明保存文件。
+2.    按照屏幕上的说明保存文件。
 
-3.  将文件附加到你的合作伙伴中心支持请求。
+3.    将文件附加到你的合作伙伴中心支持请求。
 
 合作伙伴中心支持人员可能需要你多次运行此工具，以便他们可以获取最新信息。
-
-
-
-
-<!--HONumber=Jan17_HO3-->
-
 

@@ -3,13 +3,11 @@ title: "云解决方案提供商协议、价目表和产品/服务 | 合作伙�
 description: "Microsoft 发布了云解决方案提供商合作伙伴决定是否注册计划、注册新客户、向客户销售 Microsoft 产品和服务以及核对帐单所需的许多文档。"
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 1d29dad279cacb63b59822efe407f26263c1a25b
 ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
-
+ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
+translationtype: HT
 ---
-
-# 云解决方案提供商协议、价目表和产品/服务
+# <a name="csp-agreements-price-lists-and-offers"></a>云解决方案提供商协议、价目表和产品/服务
 
 **适用于**
 
@@ -18,7 +16,7 @@ ms.openlocfilehash: 3f0899c549c29a9d5fc37a6dd59496575e74c5f1
 
 Microsoft 发布了云解决方案提供商合作伙伴决定是否注册计划、注册新客户、向客户销售 Microsoft 产品和服务以及核对帐单所需的许多文档。
 
-## 本部分内容
+## <a name="in-this-section"></a>本部分内容
 
 
 -   [计划指南](#programguide)
@@ -64,31 +62,25 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [客户协议模板](agreements.md)
 
-## 定价
+## <a name="pricing"></a>定价
 
 
-你可以在“销售”页面上下载合作伙伴的定价详细信息。 有两个单独的价目表 - 一个用于基于许可证的服务，包括 Office 365、Enterprise Mobility Suite 和 Microsoft Dynamics CRM，另一个用于基于用法的服务，包括 Microsoft Azure。
+你可以在**销售**页面上下载合作伙伴的定价详细信息。 有两个单独的价目表 - 一个用于基于许可证的服务，包括 Office 365、Enterprise Mobility Suite 和 Microsoft Dynamics CRM，另一个用于基于用法的服务，包括 Microsoft Azure。
 
 基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。
 
 基于用法的定价是动态的，经常更改。
 
-## 产品
+## <a name="offers"></a>产品
 
 
-云解决方案提供商合作伙伴可以销售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 和 Microsoft Azure。 有关在这些产品系列中可销售哪些 SKU 和产品捆绑包的详细信息，请参阅 Microsoft 在“销售”页面上发布的“云经销商产品矩阵”。 本文档按月更新。
+云解决方案提供商合作伙伴可以销售 Office 365、Enterprise Mobility Suite、Microsoft Dynamics CRM 和 Microsoft Azure。 有关在这些产品系列中可销售哪些 SKU 和产品捆绑包的详细信息，请参阅 Microsoft 在**销售**页面上发布的“云经销商产品矩阵”。 本文档按月更新。
 
-对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在“销售”页面上发布了云解决方案提供商中 Azure 服务的列表。
-
- 
+对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在**销售**页面上发布了云解决方案提供商中 Azure 服务的列表。
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
