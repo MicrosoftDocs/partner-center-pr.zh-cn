@@ -3,15 +3,17 @@ title: "阅读帐单 | 合作伙伴中心"
 description: "发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: 3035ba6f108c9676b1d555147aaa98da24603133
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。

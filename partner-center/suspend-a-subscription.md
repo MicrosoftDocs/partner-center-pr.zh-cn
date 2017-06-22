@@ -3,15 +3,17 @@ title: "暂停订阅 | 合作伙伴中心"
 description: "在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。"
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: e0911a3dbc43cf7797e1626e6924a2fedbddb3f0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6252a494e69c2a2d2b33a0896092b064b52c1881
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="suspend-a-subscription"></a>暂停订阅
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。

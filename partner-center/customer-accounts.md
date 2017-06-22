@@ -3,15 +3,18 @@ title: "客户帐户 | 合作伙伴中心"
 Description: "作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。"
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: MaggiePucciEvans
-ms.openlocfilehash: 2ae199d7accec066d8437da095f7649d8655c915
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: e3f035ce8451cbbc923b2ae34efb9948afb972c0
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="customer-accounts"></a>客户帐户
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。
@@ -25,10 +28,4 @@ translationtype: HT
 [更新客户帐户信息](update-customer-account-info.md)
 
 [将多个用户添加到客户帐户](adding-multiple-users-to-a-customer-account.md)
-
- 
-
- 
-
-
 

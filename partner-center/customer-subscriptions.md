@@ -3,9 +3,10 @@ title: "客户订阅 | 合作伙伴中心"
 description: "合作伙伴可以向客户销售订阅，并通过合作伙伴中心管理它们。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: ca57c62c0fe6089798a42337c94f4115931565a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
+ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="customer-subscriptions"></a>客户订阅
 
@@ -26,6 +27,8 @@ translationtype: HT
 [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
 
 [将 Dynamics AX 订阅迁移到 Dynamics 365](manual-subscription-migration.md)
+
+[将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
 [获取产品/服务的特殊定价](get-special-pricing-for-offers.md)
 

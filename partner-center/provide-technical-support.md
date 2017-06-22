@@ -3,15 +3,17 @@ title: "提供技术支持 | 合作伙伴中心"
 description: "作为云解决方案提供商合作伙伴，你具有委派的管理员权限，可以访问你的客户环境。"
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
-ms.openlocfilehash: 655493ec64f138f84423700309e419b98c04df81
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f9252b0cde71b1265458f374eec1470f29ddb433
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="provide-technical-support"></a>提供技术支持
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 作为云解决方案提供商合作伙伴，你具有委派的管理员权限，可以访问你的客户环境。 这些权限将为你提供直接支持、配置和管理你的客户订阅的能力。

@@ -3,16 +3,19 @@ title: "查看客户活动日志 | 合作伙伴中心"
 description: "活动日志为客户提供有关交易和合作伙伴管理操作的信息。"
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-ms.openlocfilehash: 5f6c4eb0574bbe73a41a38a1312f0da4240d531e
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="view-customer-activity-logs"></a>查看客户活动日志
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
+
 
 活动日志为客户提供有关交易和合作伙伴管理操作的信息。 交易日志提供有关交易的详细信息，包括购买的订阅。 还可将活动日志导出为与 Excel 兼容的逗号分隔值文件格式 (.csv)。
 

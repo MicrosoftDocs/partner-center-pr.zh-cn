@@ -3,15 +3,17 @@ title: "查看产品/服务和定价 | 合作伙伴中心"
 description: "若要查看云解决方案提供商计划提供的产品/服务列表以及合作伙伴定价，请转到“仪表板”菜单，并选择“定价和产品/服务”。"
 ms.assetid: 09521B01-BFDF-42B4-A4C0-039D3AFFF994
 author: MaggiePucciEvans
-ms.openlocfilehash: 683a2e17425b08aa13aebf4a81eaaf10eef0eb97
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: e4217e8cef7067a6917beb86299f9eee9ea6490c
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="see-offers-and-pricing"></a>查看产品/服务和定价
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 若要查看云解决方案提供商计划提供的产品/服务列表以及合作伙伴定价，请转到“仪表板”菜单，并选择**定价和产品/服务**。

@@ -3,9 +3,10 @@ title: "恢复暂停的合作伙伴中心帐户 | 合作伙伴中心"
 description: "了解如何恢复暂停的合作伙伴中心帐户、合作伙伴帐户被暂停的原因以及在暂停时如何使用帐户。"
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: e749e49fe70d4f20d1d428d9c0ad9ede5751ae1d
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>恢复暂停的合作伙伴中心帐户
 
@@ -14,6 +15,7 @@ translationtype: HT
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 >**重要**<br>

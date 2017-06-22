@@ -2,9 +2,10 @@
 title: "注册德国 Microsoft 云的云解决方案提供商计划 | 德国 Microsoft 云合作伙伴中心"
 description: "在注册德国 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。"
 author: MaggiePucciEvans
-ms.openlocfilehash: c804ca7136be7b34ef48e06ee36ef2899f3030f9
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
+ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>注册德国 Microsoft 云的云解决方案提供商计划
 
@@ -32,7 +33,7 @@ translationtype: HT
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>步骤 1 - 为德国 Microsoft 云合作伙伴中心创建一个帐户 
 
-1.  开始执行注册过程。 
+1.  若要注册德国 Microsoft 云的云解决方案提供商计划，请转到 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) 并选择**登录**。 
 
 2.  使用你公司用于 Office 365、Microsoft Azure 或 Microsoft Dynamics 的德国 Microsoft 云帐户的全局管理员凭据登录。 如果你的公司没有这些门户的帐户，请选择**创建帐户**以注册帐户。
 

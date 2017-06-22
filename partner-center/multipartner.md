@@ -1,28 +1,31 @@
 ---
-title: "多个合作伙伴 | 合作伙伴中心"
-description: "客户可能希望在云解决方案提供商计划中与专门提供不同服务的多个合作伙伴进行合作。"
+title: "多合作伙伴支持 |合作伙伴中心"
+description: "客户可能希望与云解决方案提供商计划中专门提供不同服务的多个合作伙伴合作。"
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: 949358ea74cdad1d5e9d3d66da341737a198b4c5
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: a3ef6c100324e6793c369dc21f37f5bcc795933d
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 06/09/2017
 ---
-# <a name="multipartner"></a>多个合作伙伴
+# <a name="multi-partner-support"></a>多合作伙伴支持
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-客户可能希望在云解决方案提供商计划中与专门提供不同服务的多个合作伙伴进行合作。 例如，一个合作伙伴针对 Office 365 提供服务，而另一个合作伙伴针对 Microsoft Azure 提供服务。 或者，在单个 Office 365 订阅中，一个合作伙伴针对 Exchange Online 提供服务，另一个合作伙伴针对 SharePoint Online 提供服务。
+合作伙伴中心的多合作伙伴功能支持客户想要与多个合作伙伴合作的情况。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
 
-若要在合作伙伴中心中使用多合作伙伴功能，请邀请客户向你提供委派的管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
+若要使用合作伙伴中心中的多合作伙伴功能，请邀请客户向你提供委派的管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
 
 多合作伙伴功能不支持以下操作：
 
 -   更改任何客户的现有订阅
 
--   转移客户的现有订阅或租户的所有权
+-   转移客户的现有订阅或帐户所有权
 
 -   更改条款或任何客户现有订阅的承付款项
 

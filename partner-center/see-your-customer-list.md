@@ -3,15 +3,17 @@ title: "管理客户列表 | 合作伙伴中心"
 description: "客户记录是合作伙伴中心中最重要的信息资源。"
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: 0a6ed78cb9b04160e7e220074c5aa3c682ba81ec
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 客户记录是合作伙伴中心中最重要的信息资源。 可搜索客户帐户的数据库，将整个客户数据库或子集导出为 Excel 兼容的逗号分隔值文件格式 (.csv)。 还可将客户订阅信息导出为 .csv 文件。

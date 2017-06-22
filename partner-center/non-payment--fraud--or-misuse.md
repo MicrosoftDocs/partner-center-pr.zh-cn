@@ -3,15 +3,17 @@ title: "拒不付款、欺诈或滥用 | 合作伙伴中心"
 description: "针对你的客户的欺骗性购买和/或客户拒不为已购买的服务付款，你承担财务方面的责任；因此，我们建议你实施欺诈防范和检测风险缓解控制。"
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 author: MaggiePucciEvans
-ms.openlocfilehash: 6375910eab5b8aa0e64dc67fd772f564044e88a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d4b4703901b157324a3a1b9205f9bc2570dd9cb8
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 针对你的客户的欺骗性购买和/或客户拒不为已购买的服务付款，你承担财务方面的责任；因此，我们建议你实施欺诈防范和检测风险缓解控制。 你负责决定是否向客户提供信贷。

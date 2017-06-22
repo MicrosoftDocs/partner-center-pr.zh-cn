@@ -3,15 +3,17 @@ title: "提供计费支持 | 合作伙伴中心"
 description: "你与你的客户之间存在计费关系，并且完全支持任何来自客户的计费相关问题。"
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: 3806b7b4934c0af85573936dc6d978bf09bdbf18
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="provide-billing-support"></a>提供计费支持
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 你与你的客户之间存在计费关系，并且完全支持任何来自客户的计费相关问题。

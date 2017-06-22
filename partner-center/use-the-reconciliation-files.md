@@ -3,15 +3,17 @@ title: "使用对帐文件 | 合作伙伴中心"
 description: "有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: MaggiePucciEvans
-ms.openlocfilehash: 851230d50a7fd9805964a287104c55f13ad28cd2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 7a059bfa12655334b02a76af17608569e4f42a41
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。

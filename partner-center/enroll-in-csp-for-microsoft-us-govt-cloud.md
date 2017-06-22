@@ -2,9 +2,11 @@
 title: "注册美国政府 Microsoft 云的云解决方案提供商计划 | 美国政府 Microsoft 云合作伙伴中心"
 description: "在注册美国政府 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。"
 author: MaggiePucciEvans
-ms.openlocfilehash: fec9ea2ddebda84d2110d34313cfdc8492727fee
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 152634d9aca087396c46d841b085b0231c5498c8
+ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 06/06/2017
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -18,7 +20,7 @@ translationtype: HT
 
 有关详细信息，请参阅[美国政府 Microsoft 云合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-注册云解决方案提供商 (CSP) 计划之前，你必须创建一个新的 Microsoft Azure 政府帐户。 要创建该帐户，请填写[Microsoft 政府云验证表单](https://aka.ms/azgovcspreq) 并通过电子邮件将其发送至 <azgovcsp@microsoft.com>。
+注册云解决方案提供商 (CSP) 计划之前，你必须创建一个新的 Microsoft Azure 政府帐户。 要创建该帐户，请填写[Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp) 并通过电子邮件将其发送至 <azgovcsp@microsoft.com>。
 
 >**重要提示**<br>
 如果你在合作伙伴中心中已有帐户且要注册美国 <Government></Government> Microsoft 云的云解决方案提供商计划，必须为美国政府 Microsoft 云合作伙伴中心单独创建新的帐户。
@@ -35,7 +37,7 @@ translationtype: HT
 
 1.  开始执行注册过程。 
 
-2.  使用你组织的 Microsoft Azure 美国政府 Microsoft 云帐户的全局管理员凭据进行登录。 如果你的组织没有此门户的帐户，你可以创建一个，方法是填写 [Microsoft 政府云验证表单](https://aka.ms/azgovcspreq) 并通过电子邮件将其发送到 <azgovcsp@microsoft.com>。
+2.  使用你组织的 Microsoft Azure 美国政府 Microsoft 云帐户的全局管理员凭据进行登录。 如果你的组织没有此门户的帐户，你可以创建一个，方法是填写 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)。
 
 
 ### <a name="step-2---apply-to-become-a-cloud-solution-provider-partner-within-microsoft-cloud-for-us-government"></a>第 2 步 - 申请成为美国政府 Microsoft 云的云解决方案提供商合作伙伴

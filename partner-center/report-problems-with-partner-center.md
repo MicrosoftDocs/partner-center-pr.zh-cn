@@ -3,15 +3,18 @@ title: "报告合作伙伴中心问题 | 合作伙伴中心"
 description: "如何报告合作伙伴中心问题并为支持团队收集诊断信息。"
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
-ms.openlocfilehash: 33e8c3191f433b7b414cb682e93cc10ce57c2447
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: d7f6bc00f7936560acbe92386e1cb587107f584d
+ms.sourcegitcommit: 9701da2050a391b6ac2f6301691127e9665c9635
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 05/26/2017
 ---
 # <a name="report-problems-with-partner-center"></a>报告合作伙伴中心问题
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 如果你发现合作伙伴中心存在问题（包括 Bug 或服务中断），请与合作伙伴中心支持人员联系。
@@ -28,7 +31,8 @@ translationtype: HT
 
 如果在合作伙伴中心页面上出错，系统可能提示你收集日志信息。 从页面顶部的下拉链接中选择**收集更多信息**，以打开合作伙伴中心客户端诊断工具。 此工具收集合作伙伴中心支持团队确定错误原因所需的信息。 
 
->**注意**<br>
+**注意**
+
 在 URL 中包含**/pcv/**的合作伙伴中心页上，你可以手动打开该工具来收集此信息。
 
 1.    转到有问题的页面。

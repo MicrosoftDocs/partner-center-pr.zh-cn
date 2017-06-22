@@ -2,9 +2,10 @@
 title: "美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理 | 美国政府 Microsoft 云合作伙伴中心"
 description: "为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在美国政府 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在美国政府 Microsoft 云的 Azure 门户中添加和管理用户。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 656f670433207aefc0762db6fd968c4423bb56c2
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
+ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -14,11 +15,12 @@ translationtype: HT
 
 以下合作伙伴中心任务通过使用美国政府 Microsoft 云的 Azure 管理门户进行管理：
 
-合作伙伴用户管理
+- 合作伙伴用户管理
 
-客户用户和许可证管理
+- 客户用户和许可证管理
 
-重置用户密码
+- 重置用户密码
+
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在美国政府 Microsoft 云的 Azure 门户中管理用户
 

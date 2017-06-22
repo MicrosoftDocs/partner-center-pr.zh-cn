@@ -3,15 +3,17 @@ title: "客户支持 | 合作伙伴中心"
 description: "你是你的客户的首个接触点，并且需要你向客户提供如下的技术和帐户支持服务：计费和订阅支持、预配/部署帮助以及软件配置。解决性能问题、服务可用性问题、客户端连接问题，以及由于缺少设置或错误配置设置、不完整的软件集成、权限问题或其他部署问题而导致的客户端桌面问题。管理服务和软件的更新。回答有关使用情况的问题。云解决方案提供商必须向客户清楚说明他们将如何接受支持。 如果你不提供全天候电话支持，则必须提供服务级别协议来向你的客户解释这些选项。 Microsoft 不会向云解决方案提供商客户提供支持。"
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: 6541bd47fb66d9e51163b178d4b377b9e3714ccb
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
 # <a name="customer-support"></a>客户支持
 
 **适用于**
 
 -  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 你是你的客户的首个接触点，并且需要你向客户提供如下的技术和帐户支持服务：
