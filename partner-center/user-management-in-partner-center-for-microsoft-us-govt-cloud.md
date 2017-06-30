@@ -2,10 +2,11 @@
 title: "美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理 | 美国政府 Microsoft 云合作伙伴中心"
 description: "为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在美国政府 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在美国政府 Microsoft 云的 Azure 门户中添加和管理用户。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 03941b023a59a004589854fdde63070971a89d3d
-ms.sourcegitcommit: f5cd8c7b90920ca30be0a16bbe008fbf499a79c7
+ms.openlocfilehash: 96b6bc85a1b6d136814792a2cf138d51a263ef0a
+ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 06/15/2017
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -13,7 +14,7 @@ ms.contentlocale: zh-CN
 
 -  美国政府 Microsoft 云合作伙伴中心
 
-以下合作伙伴中心任务通过使用美国政府 Microsoft 云的 Azure 管理门户进行管理：
+以下任务在美国政府 Microsoft 云的 Azure 管理门户中进行管理：
 
 - 合作伙伴用户管理
 
@@ -24,7 +25,7 @@ ms.contentlocale: zh-CN
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在美国政府 Microsoft 云的 Azure 门户中管理用户
 
-如果你登录到美国政府 Microsoft 云合作伙伴中心，可以打开美国政府 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果你需要直接登录到美国政府 Microsoft 云的 Azure 门户，请转到 (https://portal.azure.us/)。 
+如果你登录到美国政府 Microsoft 云合作伙伴中心，可以打开美国政府 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果你需要直接登录到美国政府 Microsoft 云的 Azure 门户，请转到 (https://portal.azure.us/)，然后使用美国政府 Microsoft 云的 Azure AD 租户的全球管理员凭据登录。
 
 在你已成功登录美国政府 Microsoft 云的 Azure 门户，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 

@@ -3,11 +3,11 @@ title: "创建市场营销配置文件 | 合作伙伴中心"
 description: "通过在合作伙伴中心创建营销配置文件来吸引更多潜在客户。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 04e436d61636b0f47683f3ac9644484bb8bfe3d7
-ms.sourcegitcommit: 9aa0f56faca663a2cac715dd1795abf137acdf5c
+ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
+ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2017
+ms.lasthandoff: 06/12/2017
 ---
 # <a name="create-a-marketing-profile"></a>创建市场营销配置文件
 
@@ -22,7 +22,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 获取这些潜在顾客的第一步是创建一个营销配置文件。 当客户正在通过以下方式搜寻能够帮助他们实施 Microsoft 产品和解决方案的合作伙伴时，我们将向客户显示你的配置文件：
 
 *  **[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索体验**。 潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。 
-*  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，以让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 以后，这些 Microsoft 专业人员可以向贵公司推荐潜在客户。
+*  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 以后，这些 Microsoft 专业人员可以向贵公司推荐潜在客户。
 
 ## <a name="create-a-profile"></a>创建配置文件
 
@@ -30,7 +30,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 1.  在[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)，从**仪表板**菜单中选择**引荐** &gt; **营销配置文件** &gt; **[添加营销配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
 
-2.    在**创建营销配置文件**页面中，选择区域，然后输入你的配置文件信息，包括合作伙伴信息和专长部分。
+2.  在**创建营销配置文件**页面中，选择区域，然后输入你的配置文件信息，包括合作伙伴信息和专长部分。
 
     在完成第一个配置文件后，你以后可以选择**从现有配置文件复制**，以根据此配置文件创建其他配置文件。
 
@@ -81,13 +81,11 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 ### <a name="customer-preferences"></a>客户首选项
 
-#### <a href="" id="#target_size"></a>目标大小
+#### <a href="" id="#target_size"></a>目标规模
 
-为了帮助改进你接收的引荐的类型，你可以添加首选项，以便只与一定规模的企业合作。 通过添加这些首选项，你将不考虑其他规模的企业的引荐。
+你可以选择不使用不符合目标客户规模的企业引荐。
 
-客户搜索结果使用你公司的响应性作为因素。 为了帮助在将来的搜索中提高可见性，应快速响应传入的客户请求。
-
-如果不考虑未达到目标客户规模的企业的引荐，则将有助于你努力全面提高响应性。
+选择不使用后，你可以将更多时间花在与你希望合作的企业规模相符的企业上。
 
 ### <a href="" id="#locations"></a>位置
 

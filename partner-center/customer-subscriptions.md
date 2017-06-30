@@ -3,10 +3,11 @@ title: "客户订阅 | 合作伙伴中心"
 description: "合作伙伴可以向客户销售订阅，并通过合作伙伴中心管理它们。"
 ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
 author: MaggiePucciEvans
-ms.openlocfilehash: 63a4b666447d3775d9e5943419e236201f097a22
-ms.sourcegitcommit: dab14e98f39e14025625a366ffcdd34c8c744376
+ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 06/14/2017
 ---
 # <a name="customer-subscriptions"></a>客户订阅
 
@@ -23,6 +24,8 @@ ms.contentlocale: zh-CN
 [向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 
 [暂停订阅](suspend-a-subscription.md)
+
+[删除与经销商或客户的关系](remove-a-relationship.md)
 
 [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
 

@@ -3,11 +3,11 @@ title: "创建用户帐户和设置权限 | 合作伙伴中心"
 description: "管理员为每个需要访问合作伙伴中心的合作伙伴员工创建用户帐户。"
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 920f4590f94fbcc382286b206b532fcb204166be
-ms.sourcegitcommit: b8146a4a959ef26efc09ead1788ff5e264ae121e
+ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
+ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2017
+ms.lasthandoff: 06/19/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
@@ -65,6 +65,8 @@ ms.lasthandoff: 05/25/2017
 <td><p><strong>管理员代理</strong></p></td>
 <td><ul>
 <li><p>客户管理</p></li>
+<li><p>将设备列表添加到合作伙伴中心</p></li>
+<p><li>创建配置文件并将其应用于设备</p></li>
 <li><p>订阅管理</p></li>
 <li><p>客户的服务运行状况和服务请求</p></li>
 <li><p>请求委派的管理员权限</p></li>
@@ -82,6 +84,7 @@ ms.lasthandoff: 05/25/2017
 <td><p><strong>销售代理</strong></p></td>
 <td><ul>
 <li><p>客户管理</p></li>
+<li><p>将设备列表添加到合作伙伴中心</p></li>
 <li><p>订阅管理</p></li>
 <li><p>查看支持票证</p></li>
 <li><p>请求与客户建立关系</p></li>
