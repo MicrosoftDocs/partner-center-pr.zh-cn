@@ -3,10 +3,11 @@ title: "阅读帐单 | 合作伙伴中心"
 description: "发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。"
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-ms.openlocfilehash: d51bb3d8cf637e50e47c211c00d90b14e55a1c6d
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 65c3777c0bd35933f2622fc0de105c051001974e
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 07/01/2017
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -47,7 +48,7 @@ ms.contentlocale: zh-CN
 </tr>
 <tr class="odd">
 <td>定期费用</td>
-<td>统一月度（或年度）支付已购买的基于使用情况的许可证费用，预先收取该服务的费用。 此数字是基于许可证的对帐文件（列 T）中“小计”&quot;&quot;列中所有费用的总和。</td>
+<td>统一月度（或年度）支付已购买的基于使用情况的许可证费用，预先收取该服务的费用。 此数字是基于许可证的对帐文件（列 T）中“小计”列中所有费用的总和。</td>
 </tr>
 <tr class="even">
 <td>使用情况费用</td>
@@ -83,7 +84,7 @@ ms.contentlocale: zh-CN
 </tr>
 <tr class="odd">
 <td>计费周期</td>
-<td>云解决方案提供商合作伙伴按月计费。</td>
+<td>云解决方案提供商合作伙伴按月或按年计费。</td>
 </tr>
 <tr class="even">
 <td>发票日期</td>

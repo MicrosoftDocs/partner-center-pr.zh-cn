@@ -2,11 +2,12 @@
 title: "删除与经销商或客户的关系 | 合作伙伴中心"
 description: "删除关系时，会从你在合作伙伴中心的视图中删除任何已达成的业务关系。"
 author: KPacquer
-ms.openlocfilehash: d6528a2910de0400a70f43ea1a02a79e32467fa8
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+robots: noindex,nofollow
+ms.openlocfilehash: 979491e1c2cf90d2e7ca5c02d2bc497675c53dba
+ms.sourcegitcommit: 50faeddcd65ae8aa7f9212bbf134b9fbece41c8c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 06/27/2017
 ---
 # <a name="remove-a-relationship-with-a-reseller-or-a-customer"></a>删除与经销商或客户的关系
 

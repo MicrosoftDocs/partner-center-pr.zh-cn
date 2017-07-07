@@ -37,7 +37,6 @@
 ## [将许可证分配给用户](assign-licenses-to-users.md)
 ## [向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 ## [暂停订阅](suspend-a-subscription.md)
-## [删除与经销商或客户的关系](remove-a-relationship.md)
 ## [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
 ## [将 Dynamics AX 订阅迁移到 Dynamics 365](manual-subscription-migration.md)
 ## [将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)

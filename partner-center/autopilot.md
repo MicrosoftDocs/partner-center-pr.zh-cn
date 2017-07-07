@@ -1,30 +1,30 @@
 ---
-title: "利用 Windows Autopilot 添加零接触部署配置文件以简化设备设置 | 合作伙伴中心"
-description: "利用 Windows Autopilot 在合作伙伴中心内添加零接触部署配置文件以简化设备设置"
+title: "利用 Windows Autopilot 简化设备设置 | 合作伙伴中心"
+description: "利用 Windows AutoPilot 在合作伙伴中心内添加 Windows AutoPilot 部署配置文件以简化设备设置"
 author: KPacquer
-keywords: "autopilot, windows autopilot, microsoft autopilot, ztd, 零接触部署, oobe, 登录屏幕"
+keywords: "autopilot, windows autopilot, microsoft autopilot, 零接触部署, oobe, 登录屏幕"
 robots: NOINDEX,NOFOLLOW
-ms.openlocfilehash: c51d9204b352b548a4095e96944aacdbcde97fa2
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: aa650ee5f2848694fe44d4751d52f8014e0d22a8
+ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 07/01/2017
 ---
-# <a name="add-a-zero-touch-deployment-profile-to-simplify-device-setup-with-windows-autopilot"></a>利用 Windows Autopilot 添加零接触部署配置文件以简化设备设置
+# <a name="simplify-device-setup-with-windows-autopilot"></a>利用 Windows Autopilot 简化设备设置 
 
-Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版设备的设备设置，而这只需几个步骤即可实现。 
+Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版设备的设备设置，而这只需几个步骤即可实现。 若要了解详细信息，请参阅 [Windows AutoPilot 概述](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。
 
 ## <a name="features"></a>功能
 
 *  对设置设备的最终用户**禁用本地管理员权限**
 *  **显示组织的登录页面**。 组织可以预定义登录页面，以将设备添加为工作设备，并使用 Azure Active Directory 加入设备。
-*  在 OOBE 完成后，**将设备注册到 MDM 中**，例如 Microsoft Intune。
-*  利用零接触部署 (ZTD) 配置文件，**简化全新安装体验 (OOBE)**，以仅使用所需的步骤和决策。 
+*  在 OOBE 完成后，**将设备注册到 Mobile Device Manager (MDM) 中**，例如 Microsoft Intune。
+*  利用 Windows AutoPilot 部署配置文件，**简化全新安装体验 (OOBE)**，以仅使用所需的步骤和决策。 
 
 ## <a name="requirements"></a>要求
 
 *  设备预安装 Windows 10 专业版创意者更新（1703 或更高版本）
-*  称为硬件哈希值（128 HWH 或 4k HWH）的设备标识符，这通常由 OEM 提供。 你将使用标识符分配合作伙伴中心内的组织配置文件。
+*  称为硬件哈希值（128 HWH 或 4k HWH）的设备标识符，这通常由 OEM 提供。 你将使用标识符分配合作伙伴中心内的组织配置文件。 2017 年 8 月后，你将不再需要硬件哈希。 
 *  设备必须可访问 Internet。 设备如果无法连接，则显示默认的 Windows 全新安装体验 (OOBE) 屏幕。
 *  将设备注册到 MDM 需要 Azure Active Directory Premium。
 
@@ -33,9 +33,9 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 若要添加特定于组织的页面，请将设备添加到贵组织的 [Azure AD 目录](https://go.microsoft.com/fwlink/?linkid=848958)，并创建登录页面。
 
 
-## <a name="remove--windows-pages-from-oobe-with-a-zero-touch-deployment-ztd-profile"></a>利用零接触部署 (ZTD) 配置文件从 OOBE 中删除 Windows 页面
+## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a>利用 Windows AutoPilot 部署配置文件从 OOBE 中删除 Windows 页面
 
-### <a name="examples-of-settings-in-a-ztd-profile"></a>ZTD 配置文件中的设置示例
+### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a>Windows AutoPilot 部署配置文件中的设置示例
 *  在设置中跳过“隐私设置”
 *  在设置中禁用本地管理员帐户
 *  在设置中自动跳过页面
@@ -44,19 +44,21 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 
 ### <a name="add-devices-and-apply-a-profile"></a>添加设备和应用配置文件
 
-在合作伙伴中心内，可创建 ZTD 配置文件，并将其应用于设备列表。
+在合作伙伴中心内，可创建 Windows AutoPilot 部署配置文件，并将其应用于设备列表。
 
 若要配置设备，请将设备列表上传到合作伙伴中心，然后创建应用于设备的配置文件并应用它。
 
 1.  将设备列表添加到合作伙伴中心内。 （销售代理和管理员代理有权将设备列表添加到合作伙伴中心内。）
 
-    a.  向 OEM 索要列出新设备的 .csv 文件。 此文件包含序列号和产品 ID，以及通过 OEM Activation 3.0 工具生成的设备标识符。 
+    a.  使用本主题中的 PowerShell 脚本创建 .csv 文件：[Windows AutoPilot 概述](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。 此 .csv 文件包含设备信息，其中包括序列号、OEM 名称、型号、产品 ID 和设备标识符。 
 
     b.  在合作伙伴中心仪表板中，转到**客户** > 选择要接收设备的客户 > **设备 > 添加设备**。
 
     c.  命名设备的批次，例如“Contoso 销售部门电脑 - 2017 年 4 月订购”。 
 
     d.  单击**浏览** > 选择设备信息文件 > **验证**。
+
+    **注意：**如果你尝试上传 .csv 文件后收到一条错误消息，请检查该文件的格式。 8 月之后，你可以仅使用硬件哈希，按该列顺序使用 OEM 名称、序列号和型号，或者使用 Windows 产品 ID。 你还可以使用**添加设备**旁边的链接中提供的示例 .csv 文件。
 
 2.  创建可应用于设备的配置文件。 （只有管理员代理才有权在合作伙伴中心内创建并应用配置文件。）
 
@@ -94,6 +96,4 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 
 3. 转到要删除的配置文件，然后将其删除。 将从所有设备中删除该配置文件。
 
-
 在**设备**中，选择配置文件。 可在此处修改现有的设置。
-

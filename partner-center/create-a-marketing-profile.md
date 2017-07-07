@@ -3,12 +3,21 @@ title: "创建市场营销配置文件 | 合作伙伴中心"
 description: "通过在合作伙伴中心创建营销配置文件来吸引更多潜在客户。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: 873963b3d29ff1ebf41e6aee9b8d1faebde7ec09
-ms.sourcegitcommit: 311c8477ab86bcbe742f0a7b2a41f67b0c5c72df
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2017
+ms.lasthandoff: 07/01/2017
 ---
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
+
+
 # <a name="create-a-marketing-profile"></a>创建市场营销配置文件
 
 **适用于**
@@ -24,15 +33,19 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索体验**。 潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。 
 *  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 以后，这些 Microsoft 专业人员可以向贵公司推荐潜在客户。
 
+**Pinpoint、C2PC 和 Sales Connect 用户**：我们正在将这些工具合并到合作伙伴中心。 如果你过去使用过这些工具，请在合作伙伴中心创建一个新的营销配置文件，以继续生成并管理你的潜在销售顾客。 请注意，我们目前不支持从以前的站点导入配置文件。 
+
 ## <a name="create-a-profile"></a>创建配置文件
 
-针对你有权在其中开展业务的每个国家/地区创建一个配置文件。
+针对你有权在其中开展业务的每个区域创建配置文件。 
 
-1.  在[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)，从**仪表板**菜单中选择**引荐** &gt; **营销配置文件** &gt; **[添加营销配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
+1.  使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)。
 
-2.  在**创建营销配置文件**页面中，选择区域，然后输入你的配置文件信息，包括合作伙伴信息和专长部分。
+2.  从**仪表板**菜单中选择**引荐** &gt; **营销配置文件** &gt; **[添加营销配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
 
-    在完成第一个配置文件后，你以后可以选择**从现有配置文件复制**，以根据此配置文件创建其他配置文件。
+3.  在**创建营销配置文件**页面中，选择区域，然后输入你的配置文件信息，包括合作伙伴信息和专长部分。
+    
+    请注意，虽然合作伙伴中心支持多种语言，但诸如描述和自由格式标记之类的某些元素可能需要包含不同语言的文本，如本主题中所述。
 
 ### <a href="" id="partner_info"></a>合作伙伴信息
 
@@ -49,6 +62,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **不用担心在描述中填写搜索关键字的问题**。 客户搜索工具会搜索“合作伙伴专长”部分中生成的关键字，而不是描述。
 *  **使你的配置文件保持最新**。 每次发布软件或服务后，更新你的配置文件，使其与你的公司网站保持同步。
 *  **不要引用其他 Microsoft 合作伙伴公司的名称**，除非它是你的公司的子公司或以其他方式与你的公司有关联，或者你当前与该合作伙伴公司签署了针对共有工作机会以合作伙伴身份行动和/或互相推广的协议。
+*  **对于使用多种语言的区域**，请考虑在描述中包括多种语言的文本。
 
 #### <a href="" id="linkedin"></a>LinkedIn 公司页面：更多联系方法
 
@@ -70,7 +84,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **解决方案、技能和能力**。 这些标记为自由格式，因此你能够添加特定于你的能力的搜索关键字。
 
 搜索中使用的其他标记：
-*  **[能力标记](https://partner.microsoft.com/membership/competencies)**是用于展示公司能力的所获名称。
+*  **能力标记**是用于展示公司能力的所获名称。
 *  **认可标记**可在 Microsoft 或与你合作的客户认可你的工作时获得。
 
 #### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>让 Microsoft 认可我的专长领域
@@ -93,11 +107,17 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 指明的位置应该是可以验证的官方公司位置。 选择的位置应该是你所服务的市场的中心位置，并且最能代表公司的任务完成能力。
 
+你添加的每个位置都会变成单独的配置文件页面。 更新配置文件页面时，请确保针对每个位置更新这些页面。
+
+## <a name="review-your-profile"></a>查看你的配置文件
+
+发布你的配置文件后 24 小时内，[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索中会显示更新。 
+
 ## <a name="improve-the-visibility-of-your-profile"></a>提高配置文件的可见性 
 
 *  **[快速响应请求](responding-to-referrals.md)**。 当你收到客户引荐时，更快的响应可以在未来客户的搜索页上产生更好的结果。
 *  **精心挑选标记**。  最好是减少标记以便最贴切地代表公司的产品/服务、解决方案、价值主张以及可始终如一地证明成功的独特优势。  这将在未来的搜索结果中获益。
-*  通过 Microsoft **获得[能力标记](https://partner.microsoft.com/membership/competencies)**，以证明你擅长我们的产品。
+*  通过 Microsoft **获得能力标记**，以证明你擅长我们的产品。
 *  从赏识你的工作的客户那里**获得认可标记**。
 
 ## <a name="related-topics"></a>相关主题

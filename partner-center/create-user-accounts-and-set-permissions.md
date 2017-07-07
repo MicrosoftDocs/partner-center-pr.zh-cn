@@ -3,11 +3,11 @@ title: "创建用户帐户和设置权限 | 合作伙伴中心"
 description: "管理员为每个需要访问合作伙伴中心的合作伙伴员工创建用户帐户。"
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
-ms.openlocfilehash: 842071dad94251ee498c9dee3e8b689e2e036485
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
+ms.openlocfilehash: bc699214c7919c7cff9788144d472063ba60ad10
+ms.sourcegitcommit: 4a1cd51e5986f47badcde9412a7c7b22718500f0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 06/26/2017
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 06/19/2017
 >**重要提示**<br>
 记下此页面上显示的新用户的登录信息。 确保复制这些信息并将其发送给新用户，因为你以后无法再次访问该信息。 <br>
 
->用户将需要使用其用户名和临时密码登录合作伙伴中心。 当用户首次登录到合作伙伴中心时，会提示他们更改密码。    
+>用户将需要使用其用户名和临时密码来登录合作伙伴中心。 当用户首次登录到合作伙伴中心时，会提示他们更改密码。    
 
 
 ### <a href="" id="assignuserpermissions"></a>分配用户权限
@@ -44,6 +44,9 @@ ms.lasthandoff: 06/19/2017
 -   代理权限控制用户可以查看和更改哪种类型的客户数据和帐户信息。
 
 -   管理员权限控制用户具有的合作伙伴中心功能访问权限级别。 此设置对合作伙伴中心没有影响 - 帐单管理员可以访问所有 Microsoft 服务的帐单（即使与云解决方案提供商无关），并且全局管理员还可以访问用户帐户和云解决方案提供商以外的客户帐户。
+
+##<a name="assign-permissions-for-incentives-users"></a>为奖励用户分配权限
+当你设置奖励用户时，你可以为他们提供奖励管理员角色或奖励用户角色。  奖励管理员可以编辑银行和税务信息，向 Microsoft 索求付款，以及管理奖励用户。 奖励用户可以查看计划、银行和税务信息，但不能进行编辑。 他们通常为客户提供实际奖励计划。 奖励管理员和用户可以在组织的合作伙伴中心中具有其他角色，但是若要拟定奖励计划，用户必须是奖励管理员或奖励用户。
 
 >**重要提示** 默认设置应始终为**不是管理员**，除非用户的角色需要其他访问权限来完成任务和支持客户。
 
@@ -148,6 +151,23 @@ ms.lasthandoff: 06/19/2017
 <td><ul>
 <li><p>查看、创建和管理用户</p></li>
 <li><p>查看所有合作伙伴配置文件</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>奖励管理员</strong></p></td>
+<td><ul>
+<li><p>查看和管理所有奖励计划</p></li>
+<li><p>编辑奖励计划的银行和税务配置文件</p></li>
+<LI><p>管理奖励用户</p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>奖励用户</strong></p></td>
+<td><ul>
+<li><p>查看奖励计划</p></li>
+<li><p>查看银行和税务配置文件</p></li>
 </ul></td>
 <td></td>
 </tr>

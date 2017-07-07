@@ -3,11 +3,11 @@ title: "响应引荐 | 合作伙伴中心"
 description: "通过合作伙伴中心评估、协商和响应引荐。"
 author: KPacquer
 keywords: "引荐, RFI, 查找合作伙伴"
-ms.openlocfilehash: ec859a9cac94b3e4b3571ba95e2acc0de9a842b1
-ms.sourcegitcommit: 5216c9d8a5aa1cbe825cefe27d35e3f380fa90b4
+ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
+ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2017
+ms.lasthandoff: 06/28/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作伙伴中心响应引荐
 
@@ -23,7 +23,7 @@ ms.lasthandoff: 05/19/2017
 
 *  Microsoft 营销活动
 *  内部 Microsoft 销售和服务代理
-*  客户搜索（使用**查找合作伙伴**工具）。
+*  客户搜索（使用**[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)**工具）。
 
 当客户有兴趣与你联系时，他们将提交信息请求 (RFI)。 
 
