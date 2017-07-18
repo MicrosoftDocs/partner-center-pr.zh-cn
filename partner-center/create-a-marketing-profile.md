@@ -1,96 +1,124 @@
 ---
 title: "创建市场营销配置文件 | 合作伙伴中心"
-description: "Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络资产。"
+description: "通过在合作伙伴中心创建营销配置文件来吸引更多潜在客户。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: 0761f43f6e32f50329325f951366cd1b43becb03
-ms.openlocfilehash: 75733451e0011d9e0a8a2f8a1ab7b13349e956b5
-
+author: KPacquer
+ms.openlocfilehash: 5b680c5e547f237951085ba619f62d818d612e54
+ms.sourcegitcommit: b6b3c66694cd631a1141d10348e4e063189a7131
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 07/01/2017
 ---
-
-# 创建市场营销配置文件
-
-**适用于**
-
--  合作伙伴中心
-
-Microsoft 每年吸引数以百万计的合格潜在客户关注我们的网络资产。 我们可以通过将你的解决方案与客户联合来扩大你的市场。 Microsoft 引荐人将帮助你联系那些寻找你的独特解决方案来满足业务需求的客户。 若要加入，请在合作伙伴中心中创建市场营销配置文件。
-
-如果你拥有 Pinpoint 帐户，[可将 Pinpoint 市场营销配置文件导入到合作伙伴中心](importing-pinpoint-profiles-into-partner-center.md)。
-
-**面向在 Pinpoint 上管理配置文件的合作伙伴的重要信息**
-
-你可能知道，Microsoft 正在致力于为发布并维护其配置文件的合作伙伴打造改进的全新体验。 最后，所有的合作伙伴配置文件都将被迁移到这种新体验，并且 Pinpoint 将于 2017 年晚些时候脱机。
-
-感谢你耐心等候我们完成这一振奋人心的升级。 在此过程中，我们将会提供更新和指导。 在此期间，请注意以下事项：
-
--   如果你的配置文件列于 [manage.pinpoint.com](https://go.microsoft.com/fwlink/?linkid=838399) 上，并且你想要进行修改，请 [登录](https://go.microsoft.com/fwlink/?linkid=838394) 此工具。
--   如果你已注册 Microsoft 的 [云服务提供商](https://go.microsoft.com/fwlink/?linkid=838395) (CSP) 计划，请登录 [合作伙伴中心](https://go.microsoft.com/fwlink/?linkid=838396)。 你可以创建新配置文件，或者导入现有的 Pinpoint 配置文件。 请注意，配置文件的所有更改都必须在导入之前进行。 请参阅下面的信息以了解详细情况。
--   如果你无法修改自己的配置文件，请联系 [地区服务中心](https://go.microsoft.com/fwlink/?linkid=838398)。 
-
-**客户评论：** 作为从 Pinpoint 向合作伙伴中心计划过渡的一部分，以前的客户评论列表功能已经取消，合作伙伴不能再访问客户评论。 在删除该功能及相关评论之前，我们会通过合作伙伴指定的电子邮件联系方式向所有受影响的合作伙伴发出通知。 当前计划是将来用更稳健、更可靠的系统替换该功能。
-
-**创建市场营销配置文件**
-
-1.  在 [合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956) 的“仪表板”菜单中，依次选择“帐户设置”&gt;“市场营销配置文件”。
-2.  在“配置文件”选项卡下，选择“添加市场营销配置文件”。
-3.  更新公司信息，包括联系人信息、突出显示业务特长的属性，以及符合下面的*资料指南*的描述。
-
-## 资料指南
+<!--
+FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
+FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
+FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
+FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
+FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
+ -->
 
 
--   你的资料最多为 2500 个字符，但简洁的资料通常最有效。
+# <a name="create-a-marketing-profile"></a><span data-ttu-id="755ac-103">创建市场营销配置文件</span><span class="sxs-lookup"><span data-stu-id="755ac-103">Create a marketing profile</span></span>
 
--   介绍你或你的公司的资质和专长。
+**<span data-ttu-id="755ac-104">适用于</span><span class="sxs-lookup"><span data-stu-id="755ac-104">Applies to</span></span>**
 
--   使用法定公司名称。
+-  <span data-ttu-id="755ac-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="755ac-105">Partner Center</span></span>
 
--   在网站框中包含指向你的公司主页的链接。
+<span data-ttu-id="755ac-106">作为合格的 Microsoft 合作伙伴，你可以创建营销配置文件，以向正在寻找独特解决方案和专长来满足其业务需求的客户展示你的业务。</span><span class="sxs-lookup"><span data-stu-id="755ac-106">As a qualified Microsoft partner, you can create a marketing profile to showcase your business to customers who are looking for your unique solutions and expertise to address their business needs.</span></span>
 
--   确保你的所有信息都是最新的、准确的。
+<span data-ttu-id="755ac-107">Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。</span><span class="sxs-lookup"><span data-stu-id="755ac-107">Microsoft engages millions of customers every year through marketing, sales and service efforts.</span></span> <span data-ttu-id="755ac-108">其中大多数参与活动为我们创造了以潜在销售顾客形式向合作伙伴提供引荐的机会。</span><span class="sxs-lookup"><span data-stu-id="755ac-108">Most of these engagements create opportunities for us to provide referrals to our partners in the form of sales leads.</span></span> 
 
--   不要引用其他 Microsoft 合作伙伴公司的名称，除非它是你的公司的子公司或以某种方式与你的公司有关联，或者你当前与该合作伙伴公司签署了针对共有工作机会以合作伙伴身份行动和/或互相推广的协议。
+<span data-ttu-id="755ac-109">获取这些潜在顾客的第一步是创建一个营销配置文件。</span><span class="sxs-lookup"><span data-stu-id="755ac-109">As the first step to getting these leads, create a marketing profile.</span></span> <span data-ttu-id="755ac-110">当客户正在通过以下方式搜寻能够帮助他们实施 Microsoft 产品和解决方案的合作伙伴时，我们将向客户显示你的配置文件：</span><span class="sxs-lookup"><span data-stu-id="755ac-110">We'll show your profile to customers who are searching for partners who can help them implement Microsoft products and solutions, through:</span></span>
 
--   客户为搜索而输入的关键字最为重要。 包括准确描述公司产品/服务的关键字以及客户可能用于搜索解决方案的行业术语。
+*  <span data-ttu-id="755ac-111">**[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索体验**。</span><span class="sxs-lookup"><span data-stu-id="755ac-111">**The [Find a partner](https://partnercenter.microsoft.com/pcv/search) search experience**.</span></span> <span data-ttu-id="755ac-112">潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="755ac-112">Potential customers can search partner listings on their own to locate partners who meet their search criteria.</span></span> 
+*  <span data-ttu-id="755ac-113">**Microsoft 销售和服务员工的引荐**。</span><span class="sxs-lookup"><span data-stu-id="755ac-113">**Referrals from Microsoft sales and service employees**.</span></span> <span data-ttu-id="755ac-114">有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。</span><span class="sxs-lookup"><span data-stu-id="755ac-114">Potential customers interested in deploying cloud-based technology solutions contact Microsoft for help finding professionals who can meet their business needs.</span></span> <span data-ttu-id="755ac-115">以后，这些 Microsoft 专业人员可以向贵公司推荐潜在客户。</span><span class="sxs-lookup"><span data-stu-id="755ac-115">These Microsoft professionals can then refer potential customers to your company.</span></span>
 
-## 创建出色配置文件的十个提示
+<span data-ttu-id="755ac-116">**Pinpoint、C2PC 和 Sales Connect 用户**：我们正在将这些工具合并到合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="755ac-116">**Pinpoint, C2PC, and Sales Connect users**: we’re merging these tools into Partner Center.</span></span> <span data-ttu-id="755ac-117">如果你过去使用过这些工具，请在合作伙伴中心创建一个新的营销配置文件，以继续生成并管理你的潜在销售顾客。</span><span class="sxs-lookup"><span data-stu-id="755ac-117">If you’ve used these tools in the past, create a new marketing profile in Partner Center to continue to generate and manage your sales leads.</span></span> <span data-ttu-id="755ac-118">请注意，我们目前不支持从以前的站点导入配置文件。</span><span class="sxs-lookup"><span data-stu-id="755ac-118">Note, we don’t currently support importing profiles from the previous sites.</span></span> 
 
+## <a name="create-a-profile"></a><span data-ttu-id="755ac-119">创建配置文件</span><span class="sxs-lookup"><span data-stu-id="755ac-119">Create a profile</span></span>
 
-1.  **了解受众** 像在面对客户说话一样编写，而不是面向内部团队或 Microsoft。
+<span data-ttu-id="755ac-120">针对你有权在其中开展业务的每个区域创建配置文件。</span><span class="sxs-lookup"><span data-stu-id="755ac-120">Create profiles for each region you are authorized to do business in.</span></span> 
 
-2.  **第一句话就要不同凡响** 如果客户无法在第一句或第二句中就看到你拥有能满足其需求的技能和专长，他们便会看向搜索结果中的下一个合作伙伴。
+1.  <span data-ttu-id="755ac-121">使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)。</span><span class="sxs-lookup"><span data-stu-id="755ac-121">Log into [Partner Center](http://go.microsoft.com/fwlink/p/?LinkId=808956) using a [global admin or admin agent account](create-user-accounts-and-set-permissions.md).</span></span>
 
-3.  **简洁明了** 用户不会在网上阅读，他们只会浏览。 清楚而简洁地表达关于你的技能和专长的真实信息。 少即是多。
+2.  <span data-ttu-id="755ac-122">从**仪表板**菜单中选择**引荐** &gt; **营销配置文件** &gt; **[添加营销配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。</span><span class="sxs-lookup"><span data-stu-id="755ac-122">From the **Dashboard** menu, select **Referrals** &gt; **Marketing profiles** &gt; **[Add a marketing profile](https://partnercenter.microsoft.com/pcv/publishing)**.</span></span>
 
-4.  **包含相关关键词** 若要针对我们的站点搜索和搜索引擎优化配置文件，关键字集成是可以做的最重要的一件事。 关键字可以是 Microsoft 产品名称、业务需求、行业趋势和特定行业渠道。
+3.  <span data-ttu-id="755ac-123">在**创建营销配置文件**页面中，选择区域，然后输入你的配置文件信息，包括合作伙伴信息和专长部分。</span><span class="sxs-lookup"><span data-stu-id="755ac-123">In the **Create a marketing profile** page, select a region, then enter your profile information, including the partner info and expertise sections.</span></span>
+    
+    <span data-ttu-id="755ac-124">请注意，虽然合作伙伴中心支持多种语言，但诸如描述和自由格式标记之类的某些元素可能需要包含不同语言的文本，如本主题中所述。</span><span class="sxs-lookup"><span data-stu-id="755ac-124">Note, while Partner Center supports multiple languages, some elements such as the description and free-form tags may need to include text from different languages, as noted in this topic.</span></span>
 
-5.  **表现你对客户需求的了解** 侧重于价值主导的术语和你的产品/服务向客户提供的优势，而不是过程或软件功能。
+### <span data-ttu-id="755ac-125"><a href="" id="partner_info"></a>合作伙伴信息</span><span class="sxs-lookup"><span data-stu-id="755ac-125"><a href="" id="partner_info"></a>Partner information</span></span>
 
-6.  **使用主动语言** 使用动词和动作陈述编写。 避免被动语言，如“我们已提供了专长...”
+<span data-ttu-id="755ac-126">介绍你的公司、添加徽标和简要说明以及指向你的网站的链接。</span><span class="sxs-lookup"><span data-stu-id="755ac-126">Introduce your company, adding a logo and a brief description, and a link to your website.</span></span> 
 
-7.  **使用项目符号** 将有序信息（a、b、c、d 等）分解为带有项目符号的列表，以便更易于浏览。
+<span data-ttu-id="755ac-127">徽标可以是 GIF、JPG 或 PNG 文件，最大宽度为 300 个像素。</span><span class="sxs-lookup"><span data-stu-id="755ac-127">The logo can be a GIF, JPG, or PNG file, with a maximum width of 300 pixels.</span></span> <span data-ttu-id="755ac-128">建议使用方纵横比或长纵横比。</span><span class="sxs-lookup"><span data-stu-id="755ac-128">We recommend using square or long aspect ratios.</span></span> <span data-ttu-id="755ac-129">不建议使用高纵横比。</span><span class="sxs-lookup"><span data-stu-id="755ac-129">Tall aspect ratios are not recommended.</span></span>
 
-8.  **避免行业术语** 使用简单、日常的语言，即使在介绍具有很强技术性的内容时也是如此。
+<span data-ttu-id="755ac-130">你的说明最长可以为 1000 个字符。</span><span class="sxs-lookup"><span data-stu-id="755ac-130">Your description can be up to 1000 characters.</span></span> <span data-ttu-id="755ac-131">创建出色说明的提示：</span><span class="sxs-lookup"><span data-stu-id="755ac-131">Tips for a great description:</span></span> 
 
-9.  **力求清晰** 避免为你的应用程序或服务使用卖弄或自造的名称。 根据用途为你的产品/服务命名，即它们所处理的业务需求，或者它们帮助客户完成的任务或目标。
+*  <span data-ttu-id="755ac-132">**简要**，在第一句或前两句中首先介绍重要内容。</span><span class="sxs-lookup"><span data-stu-id="755ac-132">**Be brief**, leading with what’s important in the first sentence or two.</span></span> <span data-ttu-id="755ac-133">这应该是吸引客户注意力的头条资讯。</span><span class="sxs-lookup"><span data-stu-id="755ac-133">This should be the headline that catches customers’ attention.</span></span> <span data-ttu-id="755ac-134">在“查找合作伙伴”搜索体验中，我们会在搜索结果预览中显示第一行或前两行。</span><span class="sxs-lookup"><span data-stu-id="755ac-134">In the Find a partner search experience, we show the first line or two in the search results preview.</span></span>
+*  <span data-ttu-id="755ac-135">**重点介绍贵公司在 Microsoft 特定产品/服务方面的经验**。</span><span class="sxs-lookup"><span data-stu-id="755ac-135">**Focus on your company’s experiences with Microsoft-specific offerings**.</span></span> <span data-ttu-id="755ac-136">搜索引荐的客户通常会寻找具有 Microsoft 特定经验的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="755ac-136">Customers searching for referrals are generally looking for partners with Microsoft-specific experience.</span></span>
+*  <span data-ttu-id="755ac-137">**使用项目符号**。</span><span class="sxs-lookup"><span data-stu-id="755ac-137">**Use bullets**.</span></span> <span data-ttu-id="755ac-138">将信息分解为带有项目符号的列表，以便更易于浏览。</span><span class="sxs-lookup"><span data-stu-id="755ac-138">Break up information into bulleted lists to make it easier to scan.</span></span>
+*  <span data-ttu-id="755ac-139">**避免行业术语**。</span><span class="sxs-lookup"><span data-stu-id="755ac-139">**Avoid jargon**.</span></span> <span data-ttu-id="755ac-140">使用简单、日常的语言，并根据用途为你的产品/服务命名：即它们所满足的业务需求，或者它们帮助客户完成的任务或目标。</span><span class="sxs-lookup"><span data-stu-id="755ac-140">Use simple, everyday language, naming your offerings for what they do: the business needs they address, or task or objective they help customers accomplish.</span></span>
+*  <span data-ttu-id="755ac-141">**不用担心在描述中填写搜索关键字的问题**。</span><span class="sxs-lookup"><span data-stu-id="755ac-141">**Don’t worry about filling the description with search keywords**.</span></span> <span data-ttu-id="755ac-142">客户搜索工具会搜索“合作伙伴专长”部分中生成的关键字，而不是描述。</span><span class="sxs-lookup"><span data-stu-id="755ac-142">The customer search tools search for keywords generated in the Partner Expertise section, not the description.</span></span>
+*  <span data-ttu-id="755ac-143">**使你的配置文件保持最新**。</span><span class="sxs-lookup"><span data-stu-id="755ac-143">**Keep your profile current**.</span></span> <span data-ttu-id="755ac-144">每次发布软件或服务后，更新你的配置文件，使其与你的公司网站保持同步。</span><span class="sxs-lookup"><span data-stu-id="755ac-144">With each software or service release, update your profile, keeping it in sync with your company's website.</span></span>
+*  <span data-ttu-id="755ac-145">**不要引用其他 Microsoft 合作伙伴公司的名称**，除非它是你的公司的子公司或以其他方式与你的公司有关联，或者你当前与该合作伙伴公司签署了针对共有工作机会以合作伙伴身份行动和/或互相推广的协议。</span><span class="sxs-lookup"><span data-stu-id="755ac-145">**Do not refer to another Microsoft partner company by name**, unless it is a subsidiary or is otherwise affiliated with your company, or you have a current agreement with that partner company to act in partnership and/or promote each other for shared work opportunities.</span></span>
+*  <span data-ttu-id="755ac-146">**对于使用多种语言的区域**，请考虑在描述中包括多种语言的文本。</span><span class="sxs-lookup"><span data-stu-id="755ac-146">**For regions with multiple languages**, consider including text from multiple languages in the description.</span></span>
 
-10. **保持配置文件处于最新状态** 使你的配置文件与公司网络展示保持同步。 对于每个软件或服务版本，更新配置文件和站点，从而确保无缝的客户体验。
+#### <span data-ttu-id="755ac-147"><a href="" id="linkedin"></a>LinkedIn 公司页面：更多联系方法</span><span class="sxs-lookup"><span data-stu-id="755ac-147"><a href="" id="linkedin"></a> LinkedIn company page: more ways to connect</span></span>
 
-## 相关主题
+<span data-ttu-id="755ac-148">添加你的 LinkedIn 公司页面，以加强你与潜在客户之间的联系。</span><span class="sxs-lookup"><span data-stu-id="755ac-148">Add your LinkedIn company page to strengthen your connections to potential customers.</span></span> 
 
+<span data-ttu-id="755ac-149">如果你包括此链接，那么客户将能够通过 LinkedIn 平台快速查看有关你的组织的更多信息。</span><span class="sxs-lookup"><span data-stu-id="755ac-149">When you include this link, customers will be able to quickly view more about your organization through the LinkedIn platform.</span></span>
 
-[从 Pinpoint 过渡到合作伙伴中心](importing-pinpoint-profiles-into-partner-center.md)
+<span data-ttu-id="755ac-150">如果你还没有 LinkedIn 公司页面，可以[立即创建一个](https://www.linkedin.com/company-beta/setup/new/)。</span><span class="sxs-lookup"><span data-stu-id="755ac-150">If you don't already have a LinkedIn company page, you can [create one now](https://www.linkedin.com/company-beta/setup/new/).</span></span>
 
- 
+### <a name="partner-expertise"></a><span data-ttu-id="755ac-151">合作伙伴专长</span><span class="sxs-lookup"><span data-stu-id="755ac-151">Partner expertise</span></span>
 
- 
+<span data-ttu-id="755ac-152">客户搜索工具会查找专长标记。</span><span class="sxs-lookup"><span data-stu-id="755ac-152">The customer search tools look for expertise tags.</span></span> <span data-ttu-id="755ac-153">在调整你的配置文件以吸引关注时，值得花些时间在此处对这些内容进行优化。</span><span class="sxs-lookup"><span data-stu-id="755ac-153">When adjusting your profile to gain visibility, it’s worth spending some time here to optimize these.</span></span>
 
+<span data-ttu-id="755ac-154">首先将自己的标记添加到“合作伙伴专长”部分中。</span><span class="sxs-lookup"><span data-stu-id="755ac-154">Start by adding your own tags into the Partner Expertise section.</span></span> <span data-ttu-id="755ac-155">你可以添加的标记：</span><span class="sxs-lookup"><span data-stu-id="755ac-155">Tags you can add:</span></span> 
 
+*  <span data-ttu-id="755ac-156">**行业聚焦标记**。</span><span class="sxs-lookup"><span data-stu-id="755ac-156">**Industry focus tags**.</span></span> <span data-ttu-id="755ac-157">最多 5 个行业</span><span class="sxs-lookup"><span data-stu-id="755ac-157">Up to 5 industries</span></span>
+*  <span data-ttu-id="755ac-158">**产品**。</span><span class="sxs-lookup"><span data-stu-id="755ac-158">**Products**.</span></span> <span data-ttu-id="755ac-159">仅限于 Microsoft 产品</span><span class="sxs-lookup"><span data-stu-id="755ac-159">Limited to Microsoft products</span></span>
+*  **<span data-ttu-id="755ac-160">服务类型</span><span class="sxs-lookup"><span data-stu-id="755ac-160">Service type</span></span>** 
+*  <span data-ttu-id="755ac-161">**解决方案、技能和能力**。</span><span class="sxs-lookup"><span data-stu-id="755ac-161">**Solutions, skills, and capabilities**.</span></span> <span data-ttu-id="755ac-162">这些标记为自由格式，因此你能够添加特定于你的能力的搜索关键字。</span><span class="sxs-lookup"><span data-stu-id="755ac-162">These tags are free-form, and provide you the ability to add search keywords that are unique to your capabilities.</span></span>
 
+<span data-ttu-id="755ac-163">搜索中使用的其他标记：</span><span class="sxs-lookup"><span data-stu-id="755ac-163">Other tags used in search:</span></span>
+*  <span data-ttu-id="755ac-164">**能力标记**是用于展示公司能力的所获名称。</span><span class="sxs-lookup"><span data-stu-id="755ac-164">**Competency tags** are an earned designation showcasing your company’s capabilities.</span></span>
+*  <span data-ttu-id="755ac-165">**认可标记**可在 Microsoft 或与你合作的客户认可你的工作时获得。</span><span class="sxs-lookup"><span data-stu-id="755ac-165">**Endorsement tags** are earned when Microsoft or your customers who have worked with you endorse your work.</span></span>
 
+#### <span data-ttu-id="755ac-166"><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>让 Microsoft 认可我的专长领域</span><span class="sxs-lookup"><span data-stu-id="755ac-166"><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>Allow Microsoft to endorse my areas of expertise</span></span>
 
+<span data-ttu-id="755ac-167">当你通过合作伙伴中心或通过参与其他 Microsoft 认证或计划证明自己成功吸引客户时，我们将针对为取得该成功做出贡献的特定产品、服务和行业自动添加认可。</span><span class="sxs-lookup"><span data-stu-id="755ac-167">As you demonstrate success with customers through Partner Center, or by participating in other Microsoft certifications or programs, we’ll automatically add endorsements for your specific products, services and industries contributing to that success.</span></span> <span data-ttu-id="755ac-168">认可是搜索结果中的重要因素。</span><span class="sxs-lookup"><span data-stu-id="755ac-168">Endorsements are an important factor in search results.</span></span>
 
-<!--HONumber=Jan17_HO2-->
+<span data-ttu-id="755ac-169">建议你选择此设置。</span><span class="sxs-lookup"><span data-stu-id="755ac-169">We recommend that you leave this setting checked.</span></span> <span data-ttu-id="755ac-170">但是，如果你针对某些产品提供服务，但你不想在配置文件中显示这些服务，则可以取消选中此框并手动管理你的配置文件。</span><span class="sxs-lookup"><span data-stu-id="755ac-170">However, if there are products that you provide services for that you’d rather not show up on your profile, you can uncheck this box and manage your profile manually.</span></span> <span data-ttu-id="755ac-171">客户将看不到这些认可，但你以后可以随时将认可添加回你的配置文件。</span><span class="sxs-lookup"><span data-stu-id="755ac-171">These endorsements will be hidden from your customers view, but you can add them back to your profile later at any time.</span></span>
 
+### <a name="customer-preferences"></a><span data-ttu-id="755ac-172">客户首选项</span><span class="sxs-lookup"><span data-stu-id="755ac-172">Customer preferences</span></span>
 
+#### <span data-ttu-id="755ac-173"><a href="" id="#target_size"></a>目标规模</span><span class="sxs-lookup"><span data-stu-id="755ac-173"><a href="" id="#target_size"></a>Target size</span></span>
+
+<span data-ttu-id="755ac-174">你可以选择不使用不符合目标客户规模的企业引荐。</span><span class="sxs-lookup"><span data-stu-id="755ac-174">You can opt out of referrals from businesses that don’t meet your target customer size.</span></span>
+
+<span data-ttu-id="755ac-175">选择不使用后，你可以将更多时间花在与你希望合作的企业规模相符的企业上。</span><span class="sxs-lookup"><span data-stu-id="755ac-175">By opting out, you’ll have more time to spend on businesses that are a match for the businesses that you prefer to work with.</span></span>
+
+### <span data-ttu-id="755ac-176"><a href="" id="#locations"></a>位置</span><span class="sxs-lookup"><span data-stu-id="755ac-176"><a href="" id="#locations"></a> Locations</span></span>
+
+<span data-ttu-id="755ac-177">对于每个区域，你最多可以添加 5 个位置。</span><span class="sxs-lookup"><span data-stu-id="755ac-177">You can add up to 5 locations per region.</span></span> <span data-ttu-id="755ac-178">当客户按邻近程度搜索合作伙伴时，会显示这些位置。</span><span class="sxs-lookup"><span data-stu-id="755ac-178">These locations appear when customers search for partners by proximity.</span></span> 
+
+<span data-ttu-id="755ac-179">指明的位置应该是可以验证的官方公司位置。</span><span class="sxs-lookup"><span data-stu-id="755ac-179">Indicate locations that are official company locations and can be validated.</span></span> <span data-ttu-id="755ac-180">选择的位置应该是你所服务的市场的中心位置，并且最能代表公司的任务完成能力。</span><span class="sxs-lookup"><span data-stu-id="755ac-180">Pick locations that are central to the markets you serve, and best represent your company’s ability to fulfill.</span></span>
+
+<span data-ttu-id="755ac-181">你添加的每个位置都会变成单独的配置文件页面。</span><span class="sxs-lookup"><span data-stu-id="755ac-181">Each location you add becomes a separate profile page.</span></span> <span data-ttu-id="755ac-182">更新配置文件页面时，请确保针对每个位置更新这些页面。</span><span class="sxs-lookup"><span data-stu-id="755ac-182">When updating profile pages, make sure that you update them for each location.</span></span>
+
+## <a name="review-your-profile"></a><span data-ttu-id="755ac-183">查看你的配置文件</span><span class="sxs-lookup"><span data-stu-id="755ac-183">Review your profile</span></span>
+
+<span data-ttu-id="755ac-184">发布你的配置文件后 24 小时内，[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索中会显示更新。</span><span class="sxs-lookup"><span data-stu-id="755ac-184">After you publish your profile, updates appear in the [Find a partner](https://partnercenter.microsoft.com/pcv/search) searches within 24 hours.</span></span> 
+
+## <a name="improve-the-visibility-of-your-profile"></a><span data-ttu-id="755ac-185">提高配置文件的可见性</span><span class="sxs-lookup"><span data-stu-id="755ac-185">Improve the visibility of your profile</span></span> 
+
+*  <span data-ttu-id="755ac-186">**[快速响应请求](responding-to-referrals.md)**。</span><span class="sxs-lookup"><span data-stu-id="755ac-186">**[Respond quickly to requests](responding-to-referrals.md)**.</span></span> <span data-ttu-id="755ac-187">当你收到客户引荐时，更快的响应可以在未来客户的搜索页上产生更好的结果。</span><span class="sxs-lookup"><span data-stu-id="755ac-187">When you receive a customer referral, a faster response can lead to better results on the search pages for future customers.</span></span>
+*  <span data-ttu-id="755ac-188">**精心挑选标记**。</span><span class="sxs-lookup"><span data-stu-id="755ac-188">**Be selective with your tags**.</span></span>  <span data-ttu-id="755ac-189">最好是减少标记以便最贴切地代表公司的产品/服务、解决方案、价值主张以及可始终如一地证明成功的独特优势。</span><span class="sxs-lookup"><span data-stu-id="755ac-189">It’s better to have fewer tags that best represent your company’s offers, solutions, value propositions, and unique position where you can consistently demonstrate success.</span></span>  <span data-ttu-id="755ac-190">这将在未来的搜索结果中获益。</span><span class="sxs-lookup"><span data-stu-id="755ac-190">That will pay dividends in future search results.</span></span>
+*  <span data-ttu-id="755ac-191">通过 Microsoft **获得能力标记**，以证明你擅长我们的产品。</span><span class="sxs-lookup"><span data-stu-id="755ac-191">**Earn competency tags** through Microsoft to demonstrate your proficiency in our products.</span></span>
+*  <span data-ttu-id="755ac-192">从赏识你的工作的客户那里**获得认可标记**。</span><span class="sxs-lookup"><span data-stu-id="755ac-192">**Earn endorsement tags** from customers who appreciate your work.</span></span>
+
+## <a name="related-topics"></a><span data-ttu-id="755ac-193">相关主题</span><span class="sxs-lookup"><span data-stu-id="755ac-193">Related topics</span></span>
+[<span data-ttu-id="755ac-194">响应引荐</span><span class="sxs-lookup"><span data-stu-id="755ac-194">Responding to referrals</span></span>](responding-to-referrals.md)

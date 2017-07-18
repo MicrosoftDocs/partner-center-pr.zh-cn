@@ -1,50 +1,45 @@
 ---
 title: "请求与客户建立关系 | 合作伙伴中心"
-description: "请求建立关系用于多个合作伙伴和多渠道方案。 如果客户删除了你委派的管理员权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。"
+description: "请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。"
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: ef7587951a9aa8cdefb70f9ff229b6f4c5b9d6fa
-
+ms.openlocfilehash: 529f7d1ae3db3c5e9ea0dc8bec615fc606ec5dcd
+ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 06/14/2017
 ---
+# <a name="connect-with-customers-in-partner-center"></a><span data-ttu-id="d0806-104">在合作伙伴中心与客户联系</span><span class="sxs-lookup"><span data-stu-id="d0806-104">Connect with customers in Partner Center</span></span>
 
-# 请求与客户建立关系
+**<span data-ttu-id="d0806-105">适用于</span><span class="sxs-lookup"><span data-stu-id="d0806-105">Applies to</span></span>**
 
-**适用于**
+-  <span data-ttu-id="d0806-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d0806-106">Partner Center</span></span>
+-  <span data-ttu-id="d0806-107">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d0806-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="d0806-108">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d0806-108">Partner Center for Microsoft Cloud Germany</span></span>
 
--  合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+<span data-ttu-id="d0806-109">若要代表客户管理客户的服务或订阅，客户必须授予你对该服务的管理员权限。</span><span class="sxs-lookup"><span data-stu-id="d0806-109">To manage a customer's service or subscription on their behalf, the customer must grant you administrator permissions for that service.</span></span> <span data-ttu-id="d0806-110">若要从客户那里获取管理员权限，请通过电子邮件向他们发送经销商关系请求。</span><span class="sxs-lookup"><span data-stu-id="d0806-110">To get administrator permissions from a customer, email them a reseller relationship request.</span></span> <span data-ttu-id="d0806-111">在客户批准你的请求后，你将能够代表客户登录到服务管理门户并管理该服务。</span><span class="sxs-lookup"><span data-stu-id="d0806-111">After the customer approves your request, you'll be able to log on to the service's admin portal and manage the service on the customer's behalf.</span></span> 
 
-请求建立关系用于[多个合作伙伴](multipartner.md)和[多渠道](multichannel.md)方案。 如果客户删除了你委派的管理员权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a><span data-ttu-id="d0806-112">邀请客户与你建立经销商关系</span><span class="sxs-lookup"><span data-stu-id="d0806-112">Invite a customer to establish a reseller relationship with you</span></span>
 
-请注意，此过程仅添加委派的管理员权限。 除非合作伙伴是订阅的原始云解决方案提供商经销商，否则合作伙伴将不会收到这些订阅的帐单，也不可以添加或删除席位、订购加载项、转移或迁移订阅或者更改记录合作伙伴。
+1.  <span data-ttu-id="d0806-113">从**仪表板**菜单中选择**客户**，然后选择**请求经销商关系**。</span><span class="sxs-lookup"><span data-stu-id="d0806-113">Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.</span></span>
 
-<a href="" id="requestarelationship"></a>
-**请求建立关系**
+2.  <span data-ttu-id="d0806-114">在下一页上，查看草稿电子邮件。</span><span class="sxs-lookup"><span data-stu-id="d0806-114">On the next page, review the draft email message.</span></span> <span data-ttu-id="d0806-115">你可以在默认电子邮件应用程序中打开草稿邮件，或者可以将邮件复制到剪贴板并将其粘贴到电子邮件中。</span><span class="sxs-lookup"><span data-stu-id="d0806-115">You can open the draft message in your default email application or you can copy the message to your clipboard and paste it into an email.</span></span> 
 
-1.  在合作伙伴中心中，转到“仪表板”菜单 &gt;“客户”&gt;“请求建立经销商关系”。
-2.  复制电子邮件文本。 你可以编辑或删除前两个段落，但该链接应保留原样。 此链接的 URL 尤其适用于你的经销商帐户，并且其中不包含任何客户信息。 每次请求关系时，可以重复使用相同的链接。
-3.  将它发送给你的客户。 若要接受，他们可以单击邀请链接，然后使用管理员帐户登录。
-4.  之后，客户可以在**合作伙伴关系**页面上针对不同的服务查看其所有合作伙伴，包括哪些合作伙伴具有针对每个服务的委派管理员权限。
+    <span data-ttu-id="d0806-116">你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置以将客户直接链接到你的帐户。</span><span class="sxs-lookup"><span data-stu-id="d0806-116">You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account.</span></span> <span data-ttu-id="d0806-117">完成此步骤后选择**完成**。</span><span class="sxs-lookup"><span data-stu-id="d0806-117">Select **Done** when you’ve completed this step.</span></span>
 
-    请注意，在多渠道模型下，客户只可以针对每个服务拥有一个具有委派管理员权限的云解决方案提供商交易合作伙伴。 他们还可以向未参与云解决方案提供商计划的其他合作伙伴授予权限。
+3.  <span data-ttu-id="d0806-118">将电子邮件发送到客户。</span><span class="sxs-lookup"><span data-stu-id="d0806-118">Send the email to your customer.</span></span>
 
-5.  当客户出现在合作伙伴中心中的合作伙伴的客户列表上时，合作伙伴就会知道他们的客户已接受邀请。 然后合作伙伴可以预配和管理客户的云解决方案提供商订阅。
+4.  <span data-ttu-id="d0806-119">客户接受你的邀请后，他们将出现在你的**客户**页面上，并且你将能够在此处为客户预配和管理服务。</span><span class="sxs-lookup"><span data-stu-id="d0806-119">After the customer accepts your invitation, they'll appear on your **Customers** page, and you'll be able to provision and manage the service for the customer from there.</span></span>
 
-客户可以选择删除来自任何或所有合作伙伴（包括云解决方案提供商计划中的合作伙伴）委派的管理员权限。 客户可以在自己的管理门户中执行此操作。 客户帐户和商业关系仍然适用，除非客户和合作伙伴重新协商。 合作伙伴仍负责为客户提供支持，并继续遵循云经销商协议的条款，即使客户删除来自合作伙伴的委派的管理员权限也是如此。 在这种情况下，如果客户需要帮助，合作伙伴必须调用 Microsoft 支持才能代表客户打开服务请求。
+ >**<span data-ttu-id="d0806-120">注意</span><span class="sxs-lookup"><span data-stu-id="d0806-120">Note</span></span>**<br>
+    <span data-ttu-id="d0806-121">在多渠道方案中，只有一个合作伙伴可以具有代表客户管理服务的管理员权限。</span><span class="sxs-lookup"><span data-stu-id="d0806-121">In a multi-channel scenario, only one partner can have administrator permissions to manage a service on the customer's behalf.</span></span> 
 
-若要重新建立客户已删除的委派管理员权限，你可以重复请求建立关系过程。
-
- 
-
- 
+5.  <span data-ttu-id="d0806-122">若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头展开客户的记录。</span><span class="sxs-lookup"><span data-stu-id="d0806-122">To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.</span></span>
 
 
+>**<span data-ttu-id="d0806-123">重要提示</span><span class="sxs-lookup"><span data-stu-id="d0806-123">Important</span></span>**<br>
+<span data-ttu-id="d0806-124">客户可以在服务的管理员门户中重新分配或删除管理员权限。</span><span class="sxs-lookup"><span data-stu-id="d0806-124">Customers can reassign or remove administrator permisions in a service's admin portal.</span></span> <span data-ttu-id="d0806-125">但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。</span><span class="sxs-lookup"><span data-stu-id="d0806-125">However, unless and until you renegotiate your agreement with the customer, you continue to be responsible for providing customer support and adhering to the terms of the Cloud Reseller Agreement, even after a customer reassigns or removes administrator permissions.</span></span> <span data-ttu-id="d0806-126">在这种情况下，如果客户需要帮助，你可以致电 Microsoft 支持以代表客户打开服务请求。</span><span class="sxs-lookup"><span data-stu-id="d0806-126">In this situation, if the customer requires help, you can call Microsoft support to open a service request on behalf of the customer.</span></span>
 
+## <a name="related-topics"></a><span data-ttu-id="d0806-127">相关主题</span><span class="sxs-lookup"><span data-stu-id="d0806-127">Related topics</span></span>
 
-
-
-<!--HONumber=Jan17_HO2-->
-
-
+[<span data-ttu-id="d0806-128">删除关系</span><span class="sxs-lookup"><span data-stu-id="d0806-128">Remove a relationship</span></span>](remove-a-relationship.md)

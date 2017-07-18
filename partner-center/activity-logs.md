@@ -3,49 +3,43 @@ title: "查看客户活动日志 | 合作伙伴中心"
 description: "活动日志为客户提供有关交易和合作伙伴管理操作的信息。"
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: e1825890f208a90b9b5694f4000ac06687ac87ab
-ms.openlocfilehash: ea46cfc0ba8c4acd580334ac76abcb704bc7e6c7
-
+ms.openlocfilehash: 6033b58f52889f8656b3827a0aaef5525abd3c9d
+ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.translationtype: HT
+ms.contentlocale: zh-CN
 ---
+# <a name="view-customer-activity-logs"></a><span data-ttu-id="fadf5-103">查看客户活动日志</span><span class="sxs-lookup"><span data-stu-id="fadf5-103">View customer activity logs</span></span>
 
-# 查看客户活动日志
+**<span data-ttu-id="fadf5-104">适用于</span><span class="sxs-lookup"><span data-stu-id="fadf5-104">Applies to</span></span>**
 
-**适用于**
+-  <span data-ttu-id="fadf5-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="fadf5-105">Partner Center</span></span>
+-  <span data-ttu-id="fadf5-106">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="fadf5-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="fadf5-107">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="fadf5-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
 
-活动日志为客户提供有关交易和合作伙伴管理操作的信息。 交易日志提供有关交易的详细信息，包括购买的订阅。 还可将活动日志导出为与 Excel 兼容的逗号分隔值文件格式 (.csv)。
+<span data-ttu-id="fadf5-108">活动日志为客户提供有关交易和合作伙伴管理操作的信息。</span><span class="sxs-lookup"><span data-stu-id="fadf5-108">Activity logs provide information on transactions and Partner management actions for customers.</span></span> <span data-ttu-id="fadf5-109">交易日志提供有关交易的详细信息，包括购买的订阅。</span><span class="sxs-lookup"><span data-stu-id="fadf5-109">Logs for transactions provide detailed information about the transaction, including purchased subscriptions.</span></span> <span data-ttu-id="fadf5-110">还可将活动日志导出为与 Excel 兼容的逗号分隔值文件格式 (.csv)。</span><span class="sxs-lookup"><span data-stu-id="fadf5-110">You can also export activity logs to an Excel-compatible comma-separated value file format (.csv).</span></span>
 
-<a href="" id="activitylogs"></a>
-活动日志提供有关合作伙伴对客户帐户和产品交易所做的操作记录。 还可将活动日志导出到 .csv 文件。
+<span data-ttu-id="fadf5-111">活动日志提供有关合作伙伴对客户帐户和产品交易所做的操作记录。</span><span class="sxs-lookup"><span data-stu-id="fadf5-111">Activity logs provide records for Partner actions on customer accounts and product transactions.</span></span> <span data-ttu-id="fadf5-112">还可将活动日志导出到 .csv 文件。</span><span class="sxs-lookup"><span data-stu-id="fadf5-112">You can also export activity logs to a .csv file.</span></span>
 
-**查看和导出活动日志**
+**<span data-ttu-id="fadf5-113">查看和导出活动日志</span><span class="sxs-lookup"><span data-stu-id="fadf5-113">View and export activity logs</span></span>**
 
-1.  在“仪表板”菜单中，选择“活动日志”。
-2.  在“从”和“至”字段中选择活动日志时段。 活动日志导出默认定向最近月份。
+1.  <span data-ttu-id="fadf5-114">在**仪表板**菜单中，选择**活动日志**。</span><span class="sxs-lookup"><span data-stu-id="fadf5-114">From the **Dashboard** menu, select **Activity Log**.</span></span>
+2.  <span data-ttu-id="fadf5-115">在**从**和**至**字段中选择活动日志时段。</span><span class="sxs-lookup"><span data-stu-id="fadf5-115">Select the activity log period in the **From** and **to** fields.</span></span> <span data-ttu-id="fadf5-116">活动日志导出默认定向最近月份。</span><span class="sxs-lookup"><span data-stu-id="fadf5-116">The activity log export defaults to the most recent month.</span></span>
 
-    每个活动日志均提供指向列出客户“订阅”页的链接。
+    <span data-ttu-id="fadf5-117">每个活动日志均提供指向列出客户**订阅**页的链接。</span><span class="sxs-lookup"><span data-stu-id="fadf5-117">Each activity log provides a link to the listed customer's **Subscriptions** page.</span></span>
 
-    选择任意活动日志的向下箭头，查看关于所记录操作的详细信息。 单个活动日志可显示大量数据，例如多个产品订购。
+    <span data-ttu-id="fadf5-118">选择任意活动日志的向下箭头，查看关于所记录操作的详细信息。</span><span class="sxs-lookup"><span data-stu-id="fadf5-118">Select a down arrow for any activity log to view details about a logged action.</span></span> <span data-ttu-id="fadf5-119">单个活动日志可显示大量数据，例如多个产品订购。</span><span class="sxs-lookup"><span data-stu-id="fadf5-119">A single activity log can show a significant amount of data, such as the ordering of multiple products.</span></span>
 
-3.  选择“导出日志”。 合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。 数据列包含以下内容：
-    -   **受影响的客户** - 客户的公司名称；
-    -   **操作** - 订阅的产品名称；
-    -   **合作伙伴用户** - 与活动关联的合作伙伴；
-    -   **状态** - 提供与活动关联的数据，例如订单 ID。 因操作类型而异；
-    -   **其他信息** - 活动日志的交易数据。 例如，如果操作是客户订单，此字段将列出购买的内容。
-
- 
+3.  <span data-ttu-id="fadf5-120">选择**导出日志**。</span><span class="sxs-lookup"><span data-stu-id="fadf5-120">Select **Export log**.</span></span> <span data-ttu-id="fadf5-121">合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。</span><span class="sxs-lookup"><span data-stu-id="fadf5-121">Partner Center converts the customer's subscription data into a .csv file and uploads it to the default download folder on your computer.</span></span> <span data-ttu-id="fadf5-122">数据列包含以下内容：</span><span class="sxs-lookup"><span data-stu-id="fadf5-122">Data columns include the following:</span></span>
+    -   <span data-ttu-id="fadf5-123">**受影响的客户** - 客户的公司名称；</span><span class="sxs-lookup"><span data-stu-id="fadf5-123">**Affected customer**—the customer's company name;</span></span>
+    -   <span data-ttu-id="fadf5-124">**操作** - 订阅的产品名称；</span><span class="sxs-lookup"><span data-stu-id="fadf5-124">**Action**—the product name for the subscription;</span></span>
+    -   <span data-ttu-id="fadf5-125">**合作伙伴用户** - 与活动关联的合作伙伴；</span><span class="sxs-lookup"><span data-stu-id="fadf5-125">**Partner user**—the Partner associated with the activity;</span></span>
+    -   <span data-ttu-id="fadf5-126">**状态** - 提供与活动关联的数据，例如订单 ID。</span><span class="sxs-lookup"><span data-stu-id="fadf5-126">**Status**—provides the data associated with the activity, such as an Order ID.</span></span> <span data-ttu-id="fadf5-127">因操作类型而异；</span><span class="sxs-lookup"><span data-stu-id="fadf5-127">Will differ based on the Action type;</span></span>
+    -   <span data-ttu-id="fadf5-128">**其他信息** - 活动日志的交易数据。</span><span class="sxs-lookup"><span data-stu-id="fadf5-128">**Additional information**—the transaction data for the activity log.</span></span> <span data-ttu-id="fadf5-129">例如，如果操作是客户订单，此字段将列出购买的内容。</span><span class="sxs-lookup"><span data-stu-id="fadf5-129">For example, if the action is a customer order, this field lists the contents for the purchase.</span></span>
 
  
 
+ 
 
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 

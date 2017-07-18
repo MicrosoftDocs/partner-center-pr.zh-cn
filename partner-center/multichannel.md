@@ -1,30 +1,28 @@
 ---
 title: "多渠道 | 合作伙伴中心"
-description: "云解决方案提供商计划中的一个选项，用于使合作伙伴处理客户订阅的整个生命周期（包括销售、预配、支持和续订）。"
+description: "在某些情况下，客户可能需要聘请你对他们在别处购买的订阅提供预配和支持。"
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
-translationtype: Human Translation
-ms.sourcegitcommit: cb3523dffbd017aa5c40e6899e1cb37be1f2a726
-ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
-
+ms.openlocfilehash: 2f0354c8e8e0f80bd42af363dc86b829b96b9bbf
+ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 06/09/2017
 ---
+# <a name="multi-channel-support"></a><span data-ttu-id="887ec-103">多渠道支持</span><span class="sxs-lookup"><span data-stu-id="887ec-103">Multi-channel support</span></span>
 
-# 多渠道
+**<span data-ttu-id="887ec-104">适用于</span><span class="sxs-lookup"><span data-stu-id="887ec-104">Applies to</span></span>**
 
-**适用于**
+-  <span data-ttu-id="887ec-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="887ec-105">Partner Center</span></span>
+-  <span data-ttu-id="887ec-106">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="887ec-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="887ec-107">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="887ec-107">Partner Center for Microsoft Cloud Germany</span></span>
 
--  合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+<span data-ttu-id="887ec-108">合作伙伴中心的多渠道功能支持客户想要聘请一个合作伙伴来管理和支持他们在其他地方购买的订阅的情况。</span><span class="sxs-lookup"><span data-stu-id="887ec-108">Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="887ec-109">多渠道支持适用于处于以下情形中的客户：</span><span class="sxs-lookup"><span data-stu-id="887ec-109">Multi-channel support applies when the customer:</span></span>
 
-云解决方案提供商计划中的一个选项，用于使合作伙伴处理客户订阅的整个生命周期：销售、预配、支持和续订。 但在许多情况下，客户已经拥有他们需要你预配或支持的订阅，并且他们之前已从其他渠道购买。
+-   <span data-ttu-id="887ec-110">已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。</span><span class="sxs-lookup"><span data-stu-id="887ec-110">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
 
-多渠道支持适用于处于以下情形中的客户：
+-   <span data-ttu-id="887ec-111">从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="887ec-111">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="887ec-112">客户不能将基于许可证的现有订阅切换到云解决方案提供商计划中的其他合作伙伴 - 他们必须等到其订阅期结束才可以进行切换，或者在移动之前取消订阅。</span><span class="sxs-lookup"><span data-stu-id="887ec-112">Customers can’t switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program–they must wait until the end of their subscription period or cancel before moving.</span></span>
 
--   已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。
-
--   当你处于顾问计划中时，从你这里购买了订阅，但现在你处于云解决方案提供商计划中。
-
--   从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。 客户不能将基于许可证的现有云解决方案提供商订阅切换到云解决方案提供商计划中的其他合作伙伴 - 他们必须等到其订阅期结束才可以进行切换，或者在移动之前取消订阅。
 
 <table>
 <colgroup>
@@ -33,38 +31,33 @@ ms.openlocfilehash: 6f0444d2df562453e21ff973549262782b31ef22
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>基于许可证的服务</strong></p></td>
-<td><p>若要为多渠道帐户提供支持，你必须向客户请求管理其订阅的权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)。</p></td>
+<td><p><strong><span data-ttu-id="887ec-113">基于许可证的服务</span><span class="sxs-lookup"><span data-stu-id="887ec-113">License-based services</span></span></strong></p></td>
+<td><p><span data-ttu-id="887ec-114">若要为多渠道帐户提供支持，你必须向客户请求管理其订阅的权限。</span><span class="sxs-lookup"><span data-stu-id="887ec-114">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="887ec-115">有关如何操作的信息，请参阅[请求与客户建立经销商关系](request-a-relationship-with-a-customer.md)。</span><span class="sxs-lookup"><span data-stu-id="887ec-115">See [Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md) for information about how to do this.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>基于使用情况的服务</strong></p></td>
-<td><ul>
-<li><p>对于已通过其他渠道（例如，顾问、公开或 EA）获取 Azure 订阅的客户，不存在受支持的到云解决方案提供商的迁移路径。 但是，你可以在云解决方案提供商中为他们创建新的 Azure 订阅、手动移植其数据和设置，然后他们可以取消个别旧服务或整个订阅。 请注意，云解决方案提供商可能尚未提供他们所需的所有服务。 有关详细信息，请参阅合作伙伴中心中“销售”<strong></strong>页面上的“云解决方案提供商中的 Azure 服务”<strong></strong>部分。</p></li>
-<li><p>对于已通过云解决方案提供商合作伙伴获取 Azure 订阅的客户，他们可以将 Azure 服务切换到其他云解决方案提供商合作伙伴。 有关详细信息，请参阅[将 Azure 订阅切换到不同的合作伙伴](switch-azure-subscriptions-to-a-different-partner.md)。</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>间接合作伙伴</strong></p></td>
-<td><ul>
-<li><p>间接合作伙伴将创建云解决方案提供商邀请（具体取决于合作伙伴中心中的链接），可以将该邀请直接发送给最终客户，也可以将该邀请直接发送给可以将它发送给最终客户的经销商。</p></li>
-<li><p>云解决方案提供商计划中与间接合作伙伴合作的经销商不能创建其自己的云解决方案提供商邀请。 他们必须使用其间接合作伙伴提供的一个邀请。</p></li>
-<li><p>间接合作伙伴将拥有关系，但他们可以指定经销商获取管理预配和/或支持所需的委派的管理员权限。</p></li>
-</ul></td>
+<td><p><strong><span data-ttu-id="887ec-116">基于使用情况的服务</span><span class="sxs-lookup"><span data-stu-id="887ec-116">Usage-based services</span></span></strong></p></td>
+<td>
+<p><span data-ttu-id="887ec-117">对于已通过其他渠道（例如，顾问、公开或 EA）获取 Microsoft Azure 订阅的客户，你需要在合作伙伴中心创建一个新的 Azure 订阅、手动输入订阅详细信息，然后取消个别服务或整个订阅。</span><span class="sxs-lookup"><span data-stu-id="887ec-117">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you'll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span></p>
+<p><span data-ttu-id="887ec-118">对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="887ec-118">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span> <span data-ttu-id="887ec-119">有关详细信息，请参阅[将 Azure 订阅切换到不同的合作伙伴](switch-azure-subscriptions-to-a-different-partner.md)。</span><span class="sxs-lookup"><span data-stu-id="887ec-119">For more information, see [Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md).</span></span></p>
+</td>
 </tr>
 </tbody>
 </table>
 
- 
+>**<span data-ttu-id="887ec-120">重要提示</span><span class="sxs-lookup"><span data-stu-id="887ec-120">Important</span></span>**<br>
+<span data-ttu-id="887ec-121">云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="887ec-121">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="887ec-122">Microsoft 持续评估所有计划的策略和功能。</span><span class="sxs-lookup"><span data-stu-id="887ec-122">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="887ec-123">有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴中心）进行公布。</span><span class="sxs-lookup"><span data-stu-id="887ec-123">Any announcements about feature releases will be announced through the usual communication channels, including Partner Center.</span></span> 
+
+## <a name="see-also"></a><span data-ttu-id="887ec-124">另请参阅</span><span class="sxs-lookup"><span data-stu-id="887ec-124">See also</span></span>
+
+[<span data-ttu-id="887ec-125">与其他合作伙伴合作</span><span class="sxs-lookup"><span data-stu-id="887ec-125">Work with other partners</span></span>](work-with-other-partners.md)
+
+<span data-ttu-id="887ec-126">如果你是间接经销商，请参阅[与间接提供商合作](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="887ec-126">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+
+<span data-ttu-id="887ec-127">如果你是间接提供商，请参阅[与间接经销商合作](indirect-provider-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="887ec-127">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
 
  
 
  
 
-
-
-
-
-
-<!--HONumber=Jan17_HO2-->
 
 
