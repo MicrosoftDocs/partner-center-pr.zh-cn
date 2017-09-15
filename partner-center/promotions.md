@@ -1,53 +1,53 @@
 ---
-title: "云解决方案提供商计划中的促销 | 合作伙伴中心"
-description: "作为合格的间接提供商，你可以利用打折的订阅优惠并将节省的费用传递给你的客户。"
+title: "使用促销吸引新客户 | 合作伙伴中心"
+description: "作为云解决方案提供商计划中的 Microsoft 合作伙伴，你可以以促销定价购买订阅并将优惠传递给你的客户。"
 author: MaggiePucciEvans
-robots: noindex,nofollow
-ms.openlocfilehash: a78c93d9d6c25ea138bb9d18541c324fb44d22b6
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
+ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/24/2017
 ---
-# <a name="subscription-sales-promotions-for-indirect-providers-in-csp"></a>云解决方案提供商计划中的间接提供商的订阅促销
+# <a name="use-promotions-to-attract-new-customers"></a>使用促销吸引新客户  
 
-**适用于：合作伙伴中心**
+**Applies to: Partner Center**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
-Microsoft 有时会向合格的***间接提供商***提供基于许可证的订阅的折扣价格，使你可以吸引新客户并拓展你的云解决方案提供商计划业务。 
+Microsoft 有时会就基于许可证的订阅提供促销，你可以将优惠传递给客户并就此拓展你的业务。 
 
-当你按折扣费率购买新订阅时，折扣将自动应用于你的净价。 此外，系统会按折扣费率添加你添加到折扣订阅的任何许可证。 
+Microsoft 提供以下两种类型的促销：适用于云解决方案提供商 (CSP) 计划中的所有有资格合作伙伴的促销，以及仅提供给特定地理区域的合作伙伴的促销。
 
->**注意**<br>
-Microsoft 将提供以下两种类型的促销：适用于所有合格间接提供商的促销，以及仅提供给特定地理区域中的间接提供商的促销。
+当你以促销价格购买新订阅时，促销定价将自动应用于你的净价。 此外，系统会按促销定价添加任何已添加到以促销定价购买的订阅中的许可证。 
 
 请花一点时间查看有关促销的下列重要事项：
 
--   订阅的折扣价格仅适用于该订阅的持续期间。 当折扣订阅到期时，续订订阅的价格将恢复为价目表中的价格。 这意味着为自动续订设置的任何订阅将以现行价格续订。 你可以在**定价和优惠**页面上找到价目表。 
+-   订阅的促销价格仅适用于该订阅的持续期间。 当以促销价格购买的订阅到期时，续订订阅的价格将恢复为价目表中的价格。 这意味着为自动续订设置的任何订阅将以现行价格续订。 你可以在**定价和优惠**页面上找到价目表。 
 
--   如果订阅适合采用多种折扣，则会自动应用较大的折扣。
+-   如果订阅符合多个促销条件，将自动采用折扣率最高的促销。
 
--   取消将遵循与正常定价的订阅相同的流程和政策
+-   取消促销定价的订阅将遵循与正常定价的订阅相同的流程和政策。
 
 ## <a name="see-available-promotions"></a>请参阅可用促销
 
-你可以在**促销**页面上查看你有资格参与的促销（如果有）。 从**仪表板**菜单中选择**促销**，以查看当前促销的列表，以及该订阅的折扣、促销类型及开始日期和结束日期。 
+你可以在**促销**页面上查看你有资格参与的促销（如果有）。 从**仪表板**菜单中选择**促销**，以查看当前促销的列表，以及该订阅的折扣、促销类型及开始日期和结束日期。 如果没有可用促销，你将看到一条消息说明此情况。 
 
->**注意**<br>
-你也可以在购物时查看促销。 选择订阅时，折扣百分比会显示在**查看**页面上。
+>**Note**<br>
+You can also see promotions when making a purchase. 选择订阅时，折扣百分比会显示在**查看**页面上。
 
-## <a name="purchase-subscriptions-at-discounted-prices"></a>按折扣价格购买订阅
+## <a name="purchase-subscriptions-at-promotion-prices"></a>按折扣价格购买订阅
 
-1. 在你的**仪表板**菜单上，选择**客户**，然后选择要购买订阅的客户。 
+1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
 
-2. 选择**添加订阅**。
+2. Select **Add subscription**.
 
-3. 在**新订阅**页面上，选择打折的订阅。
+3. 在**新订阅**页面上，选择促销适用的订阅。
 
-4. 输入客户需要的许可证数。 
+4. Enter the number of licenses the customer needs. 
 
-5. 查看订单，然后选择**提交**以购买打折的新订阅。 你的客户将在其下一个帐单上看到折扣价格。  
+5. 查看订单。 你将看到将用于**折扣**列的促销定价。  
+
+6.  选择**提交**进行购买。 你的客户将在其下一个帐单上看到促销价格。  
 
 
 
