@@ -1,86 +1,85 @@
 ---
-title: "应用程序集成能力"
-description: "应用程序集成能力用于认可在 Microsoft 生态系统中将独特的应用程序和解决方案整合到各种产品中的合作伙伴和开发人员。"
+title: Application Integration Competency
+description: The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem.
 author: Daniel Simpson
-keywords: "能力, 应用程序集成"
-robots: noindex,nofollow
-ms.openlocfilehash: 4b690cbf419f99ec9bf7f32dced87a59a93250ed
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies, applications integration
+ms.openlocfilehash: 968cf5bdbe4e6c78ad330d94ad618a821927483a
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="application-integration"></a>应用程序集成 
-应用程序集成能力用于认可在 Microsoft 生态系统中将独特的应用程序和解决方案整合到各种产品中的合作伙伴和开发人员。 
+# <a name="application-integration"></a>Application Integration 
+The Application Integration competency recognizes partners and developers who integrate unique applications and solutions into various products across the Microsoft ecosystem. 
 
-## <a name="application-integrator-option"></a>应用程序集成商选项
+## <a name="application-integrator-option"></a>Application Integrator option
 
-如果你想要通过通过考试或认证来证明你的技能，则应用程序集成商选项是理想的选择。 从你所选的重点领域中选择考试。 完成其中的所有步骤即可获得应用程序开发能力。
+The Application Integrator option is ideal if you prefer to prove your skills by passing exams or certifications. Choose exams from the focus area of your choice. 完成其中的所有步骤即可获得应用程序集成能力。
 
-###<a name="silver"></a>银牌
+###<a name="silver"></a>Silver
+1. 你的组织必须有 **2** 个人通过了考试和评估。
+
+    - **2** individuals must pass any one of the following exams:
+
+        - **Windows Server** focus area
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
+
+        - **SQL Server** focus area
+
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
+
+        - **C#** focus area 
+
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
+
+        - **Azure** focus area
+
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
+
+        **AND**
+
+    - **2** 个人必须通过以下评估：
+
+        - [BizTalk Technical Competency Assessment for Application Integration (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
+
+###<a name="gold"></a>Gold
 1. 你的组织必须有 **4** 个人通过了考试和评估。
 
-    - **2** 个人必须通过以下任何一项考试：
+    - **4** individuals must pass any one of the following exams:
 
-        - **Windows Server** 重点领域
-            - [考试 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx)：配置高级 Windows Server 2012 服务
-            - [考试 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx)：Windows Server 2016 的安装、存储和计算
-            - [考试 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx)：Windows Server 2016 网络
-            - [考试 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx)：Windows Server 2016 身份
+        - **Windows Server** focus area
 
-        - **SQL Server** 重点领域
+            - [Exam 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services
+            - [Exam 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx): Installation, Storage and Compute with Windows Server 2016
+            - [Exam 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx): Networking with Windows Server 2016
+            - [Exam 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx): Identity with Windows Server 2016
 
-            - [考试 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx)：管理 Microsoft SQL Server 2012 数据库
-            - [考试 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx)：开发 Microsoft SQL Server 2012 数据库
-            - [考试 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx)：开发 SQL 数据库
-            - [考试 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 SQL 数据库基础结构
+        - **SQL Server** focus area
 
-        - **C#** 重点领域 
+            - [Exam 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012 Databases
+            - [Exam 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx): Developing Microsoft SQL Server 2012 Databases
+            - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+            - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure
 
-            - [考试 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx)：C# 编程
+        - **C#** focus area 
 
-        - **Azure** 重点领域
+            - [Exam 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx): Programming in C#
 
-            - [考试 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx)：开发 Windows Azure 和 Web 服务
-            - [考试 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx)：开发 Microsoft Azure 解决方案
+        - **Azure** focus area
 
-        **并且**
+            - [Exam 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx): Developing Windows Azure and Web Services
+            - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
 
-    - 其他 **2** 个人必须通过以下评估：
+        **AND**
 
-        - [应用程序集成的 BizTalk 技术能力评估 (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
-
-###<a name="gold"></a>金牌
-1. 你的组织必须有 **8** 个人通过了考试和评估。
-
-    - **4** 个人必须通过以下任何一项考试：
-
-        - **Windows Server** 重点领域
-
-            - [考试 70-412](https://www.microsoft.com/en-us/learning/exam-70-412.aspx)：配置高级 Windows Server 2012 服务
-            - [考试 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx)：Windows Server 2016 的安装、存储和计算
-            - [考试 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx)：Windows Server 2016 网络
-            - [考试 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx)：Windows Server 2016 身份
-
-        - **SQL Server** 重点领域
-
-            - [考试 70-462](https://www.microsoft.com/en-us/learning/exam-70-462.aspx)：管理 Microsoft SQL Server 2012 数据库
-            - [考试 70-464](https://www.microsoft.com/en-us/learning/exam-70-464.aspx)：开发 Microsoft SQL Server 2012 数据库
-            - [考试 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx)：开发 SQL 数据库
-            - [考试 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 SQL 数据库基础结构
-
-        - **C#** 重点领域 
-
-            - [考试 70-483](https://www.microsoft.com/en-us/learning/exam-70-483.aspx)：C# 编程
-
-        - **Azure** 重点领域
-
-            - [考试 70-487](https://www.microsoft.com/en-us/learning/exam-70-487.aspx)：开发 Windows Azure 和 Web 服务
-            - [考试 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx)：开发 Microsoft Azure 解决方案
-
-        **并且**
-
-    - 其他 **4** 个人必须通过以下评估：
+    - **4** 个人必须通过以下评估： 这可能由通过了上述考试的 4 个人来完成。 :
 
         - [应用程序集成的 BizTalk 技术能力评估 (BizTalk Server 2013)](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=12286&scoId=Id3XwITSB_2805299993)
 

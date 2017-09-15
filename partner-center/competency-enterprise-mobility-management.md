@@ -1,123 +1,122 @@
 ---
-title: "企业移动性管理能力"
-description: "企业移动性管理能力适用于作为大型企业功能强大的安全移动管理解决方案方面的专家脱颖而出的合作伙伴。"
+title: Enterprise Mobility Management Competency
+description: The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
 author: Daniel Simpson
-keywords: "能力, 企业移动性管理"
-robots: noindex,nofollow
-ms.openlocfilehash: 837cd337355a6baa8672477d08ee529e690db87a
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Enterprise Mobility Management
+ms.openlocfilehash: 1eea9a16018af1471733ea321d68061e62c1b75f
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="enterprise-mobility-management"></a>企业移动性管理
-企业移动性管理能力适用于作为大型企业功能强大的安全移动管理解决方案方面的专家脱颖而出的合作伙伴。
+#<a name="enterprise-mobility-management"></a>Enterprise Mobility Management
+The Enterprise Mobility Management competency is for partners who stand out as experts in powerful, secure mobility management solutions for large businesses.
 
-- [企业合作伙伴选项](#enterprise-partner-option)
-- [SMB 合作伙伴选项](#smb-partner-option)
+- [Enterprise Partner option](#enterprise-partner-option)
+- [SMB Partner option](#smb-partner-option)
 
 
-##<a name="enterprise-partner-option"></a>企业合作伙伴选项
-企业合作伙伴选项非常适合以下合作伙伴：与其企业客户一起促进“企业移动性 + 安全性”的采用，并且选择通过达到绩效阈值来获得能力。 完成其中的所有步骤即可获得企业移动性管理能力。
+##<a name="enterprise-partner-option"></a>Enterprise Partner option
+The Enterprise Partner option is ideal for partners who are driving Enterprise Mobility + Security adoption with their enterprise customers, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within to attain the Enterprise Mobility Management competency.
 
-###<a name="silver"></a>银牌
+###<a name="silver"></a>Silver
 
-1. 你的组织必须达到绩效阈值。
+1. Your organization must meet the performance thresholds.
 
-    - 添加 3 个新的“企业移动性 + 安全性 (EMS)”客户，并部署 500 项活跃权利
-    - 达到 EMS 的任何一个合格组件（权利）或其组合的收入阈值。
-    - 在过去 12 个月内订阅 Microsoft Intune、Azure 信息保护或 Azure Active Directory Premium (AADP)。
-    - 席位必须是付费许可证才能算是达到席位要求。 试用版或免费席位不适用。
-    - 若要获得资格，你需要被关联为 EMS 或 Microsoft Intune 委派管理员、交易合作伙伴、Fast Track 合作伙伴或记录在案的数字合作伙伴。
-    - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。  
+    - Add 3 new Enterprise Mobility + Security (EMS) customers and deploy 500 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 你的组织必须有 **2** 个人达到了评估要求。
+2. Your organization must have **2** individuals pass the assessment requirements.
 
-    - **2** 个人必须完成以下评估：
-        - [企业移动性套件概述技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **2** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **并且**
+    **AND**
 
-    - 这 **2** 个人必须通过以下其中一项评估：
-        - [移动设备管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [标识和访问管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [信息保护技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Cloud App Security 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
-###<a name="gold"></a>金牌
+###<a name="gold"></a>Gold
 
-1. 你的组织必须达到绩效阈值。
+1. Your organization must meet the performance thresholds.
 
-    - 添加 5 个新的“企业移动性 + 安全性 (EMS)”客户，并部署 4000 项活跃权利
-    - 达到 EMS 的任何一个合格组件（权利）或其组合的收入阈值。
-    - 在过去 12 个月内订阅 Microsoft Intune、Azure 信息保护或 Azure Active Directory Premium (AADP)。
-    - 席位必须是付费许可证才能算是达到席位要求。 试用版或免费席位不适用。
-    - 若要获得资格，你需要被关联为 EMS 或 Microsoft Intune 委派管理员、交易合作伙伴、Fast Track 合作伙伴或记录在案的数字合作伙伴。
-    - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。  
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 你的组织必须有 **4** 个人达到了评估要求。
+2. Your organization must have **4** individuals pass the assessment requirements.
 
-    - **4** 个人必须完成以下评估：
-        - [企业移动性套件概述技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **4** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **并且**
+    **AND**
 
-    - 这 **4** 个人必须通过以下其中一项评估：
-        - [移动设备管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [标识和访问管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [信息保护技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Cloud App Security 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
     
-##<a name="smb-partner-option"></a>SMB 合作伙伴选项
-中小型市场企业 (SMB) 选项非常适合以下合作伙伴：在中小型市场企业中促进“企业移动性 + 安全性”的采用，并且选择通过达到绩效阈值来获得能力。 完成此选项中的所有步骤即可获得企业移动性管理能力。
+##<a name="smb-partner-option"></a>SMB Partner option
+The Small/Mid-market Business (SMB) option is ideal for partners who are driving Enterprise Mobility + Security adoptions among small and mid-market businesses, and who choose to attain competency by meeting the performance thresholds. Complete all the steps within the option to attain the Enterprise Mobility Management competency.
 
-###<a name="silver"></a>银牌
+###<a name="silver"></a>Silver
 
-1. 你的组织必须达到绩效阈值。
+1. Your organization must meet the performance thresholds.
 
-    - 添加 20 个新的“企业移动性 + 安全性 (EMS)”客户，并部署 125 项活跃权利
-    - 达到 EMS 的任何一个合格组件（权利）或其组合的收入阈值。
-    - 在过去 12 个月内订阅 Microsoft Intune、Azure 信息保护或 Azure Active Directory Premium (AADP)。
-    - 席位必须是付费许可证才能算是达到席位要求。 试用版或免费席位不适用。
-    - 若要获得资格，你需要被关联为 EMS 或 Microsoft Intune 委派管理员、交易合作伙伴、Fast Track 合作伙伴或记录在案的数字合作伙伴。
-    - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。  
+    - Add 20 new Enterprise Mobility + Security (EMS) customers and deploy 125 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 你的组织必须有 **2** 个人达到了评估要求。
+2. Your organization must have **2** individuals pass the assessment requirements.
 
-    - **2** 个人必须完成以下评估：
-        - [企业移动性套件概述技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **2** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **并且**
+    **AND**
 
-    - 这 **2** 个人必须通过以下其中一项评估：
-        - [移动设备管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [标识和访问管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [信息保护技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Cloud App Security 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
-###<a name="gold"></a>金牌
+###<a name="gold"></a>Gold
 
-1. 你的组织必须达到绩效阈值。
+1. Your organization must meet the performance thresholds.
 
-    - 添加 5 个新的“企业移动性 + 安全性 (EMS)”客户，并部署 4000 项活跃权利
-    - 达到 EMS 的任何一个合格组件（权利）或其组合的收入阈值。
-    - 在过去 12 个月内订阅 Microsoft Intune、Azure 信息保护或 Azure Active Directory Premium (AADP)。
-    - 席位必须是付费许可证才能算是达到席位要求。 试用版或免费席位不适用。
-    - 若要获得资格，你需要被关联为 EMS 或 Microsoft Intune 委派管理员、交易合作伙伴、Fast Track 合作伙伴或记录在案的数字合作伙伴。
-    - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。  
+    - Add 5 new Enterprise Mobility + Security (EMS) customers and deploy 4000 active entitlements
+    - Meet revenue thresholds of any one or combination of the eligible components (entitlements) of EMS.
+    - Microsoft Intune, Azure Information Protection, or Azure Active Directory Premium (AADP) within the last 12 months.
+    - Seats must be paid licenses to count towards seat requirements. Trial or free seats are not applicable.
+    - To qualify, you will need to be associated as the EMS or Microsoft Intune Delegated Administrator, Transacting Partner, Fast Track Partner, or Digital Partner of Record.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.  
   
-2. 你的组织必须有 **4** 个人达到了评估要求。
+2. Your organization must have **4** individuals pass the assessment requirements.
     
-    - **4** 个人必须完成以下评估：
-        - [企业移动性套件概述技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
+    - **4** individuals must complete the following assessment:
+        - [Technical Assessment for Enterprise Mobility Suite Overview](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13914&scoId=pUz3OLLaB_6104778676)
 
-    **并且**
+    **AND**
 
-    - 这 **4** 个人必须通过以下其中一项评估：
-        - [移动设备管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
-        - [标识和访问管理技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
-        - [信息保护技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
-        - [Cloud App Security 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for Mobile Device Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13916&scoId=QJDTvzLaB_2104778676)
+        - [Technical Assessment for Identity & Access Management](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13915&scoId=bi3tqeLaB_3204778676)
+        - [Technical Assessment for Information Protection](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13917&scoId=Em0uaWMaB_1004778676)
+        - [Technical Assessment for Cloud App Security](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=13918&scoId=vGoZ9bNaB_8604778676)
 
 
 

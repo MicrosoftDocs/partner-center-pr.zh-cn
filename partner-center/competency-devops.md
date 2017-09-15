@@ -1,52 +1,51 @@
 ---
-title: "DevOps 能力"
-description: "如果你有与企业合作的丰富经验，并利用 Microsoft 开发平台的 DevOps 功能来帮助他们管理软件生命周期，那么 DevOps 能力是确立组织的 Microsoft 合作伙伴地位的正确选择。"
+title: DevOps Competency
+description: "If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner."
 author: Daniel Simpson
-keywords: "能力, DevOps"
-robots: noindex,nofollow
-ms.openlocfilehash: 0af79ae10ef678fe79e93dac9fe1514daebe10fa
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency, competencies, DevOps
+ms.openlocfilehash: a50b05f815f9eacfb52600b923dc53ff7c1fb8f6
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="devops"></a>DevOps
- 如果你有与企业合作的丰富经验，并利用 Microsoft 开发平台的 DevOps 功能来帮助他们管理软件生命周期，那么 DevOps 能力是确立组织的 Microsoft 合作伙伴地位的正确选择。
+ If you have deep experience working with businesses helping them manage software lifecycles by leveraging the DevOps features of Microsoft’s development platform, then DevOps competency is the right choice to establish your organization as Microsoft's partner.
 
-## <a name="devops-partner-option"></a>DevOps 合作伙伴选项
-DevOps 合作伙伴选项非常适合使用 Microsoft Visual Studio 为客户提供软件生命周期管理服务的合作伙伴。 完成此选项中的所有步骤即可获得 DevOps 能力。
+## <a name="devops-partner-option"></a>DevOps Partner option
+The DevOps Partner option is ideal for partners who use Microsoft Visual Studio to deliver software lifecycle management for their customers. Complete all the steps within the option to attain the DevOps competency.
 
-###<a name="silver"></a>银牌
-1. 你的组织必须有 **2** 个人达到了考试要求。
+###<a name="silver"></a>Silver
+1. Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** 个人必须都通过以下所有考试：
+    - **2** individuals must each pass all the following exams:
 
-        - [考试 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx)：Visual Studio Team Foundation Server 2012、管理
-        - [考试 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx)：使用 Visual Studio 应用程序生命周期管理连续提供价值
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **并且**
+    **AND**
 
-    - 这 **2** 个人中的 **1** 个人必须通过以下其中一项考试：
+    - **1** of the same **2** individuals must pass one of the following exams:
 
-        * [考试 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx)：Visual Studio 2012 软件测试
-        * [PMI 敏捷认证从业者 (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
-        * [专业 Scrum Master 级别 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
-        * [Scrum 联盟认证 Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
+        * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
     
-###<a name="gold"></a>金牌
-1. 你的组织必须有 **4** 个人达到了考试要求。
+###<a name="gold"></a>Gold
+1. Your organization must have **4** individuals pass the exam requirements.
 
-    - **4** 个人必须都通过以下所有考试：
+    - **4** individuals must each pass all the following exams:
 
-        - [考试 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx)：Visual Studio Team Foundation Server 2012、管理
-        - [考试 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx)：使用 Visual Studio 应用程序生命周期管理连续提供价值
+        - [Exam 70-496](https://www.microsoft.com/en-us/learning/exam-70-496.aspx): Visual Studio Team Foundation Server 2012, Administration
+        - [Exam 70-498](https://www.microsoft.com/en-us/learning/exam-70-498.aspx): Delivering Continuous Value with Visual Studio Application Lifecycle Management
 
-    **并且**
+    **AND**
 
-    - 这 **4** 个人中的 **2** 个人必须通过以下其中一项考试：
+    - **2** of the same **4** individuals must pass one of the following exams:
 
-        * [考试 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx)：Visual Studio 2012 软件测试
-        * [PMI 敏捷认证从业者 (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
-        * [专业 Scrum Master 级别 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
-        * [Scrum 联盟认证 Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
+        * [Exam 70-497](https://www.microsoft.com/en-us/learning/exam-70-497.aspx): Software Testing with Visual Studio 2012
+        * [PMI Agile Certified Practitioner (PMI-ACP)](http://www.pmi.org/certifications/types/agile-acp)
+        * [Professional Scrum Master level 1 (PSM I)](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-i-assessment)
+        * [Scrum Alliance Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
         

@@ -1,51 +1,50 @@
 ---
-title: "通信能力"
-description: "通信能力用于认可提供创新和自定义的 Skype for Business 解决方案的合作伙伴。"
+title: Communications Competency
+description: The Communications competency recognizes partners delivering innovative and customized Skype for Business solutions.
 author: Daniel Simpson
-keywords: "能力, 通信"
-robots: noindex,nofollow
-ms.openlocfilehash: f32c22f0f5235556c48d19c67495cf160a35e6f7
-ms.sourcegitcommit: 400f31501507a78a5b38fc228780125f19d0cfc6
+keywords: competency,competencies,Communications
+ms.openlocfilehash: 2dda11fd8f6a83cabe26a49b3bc3da77f5435f7c
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/27/2017
+ms.lasthandoff: 07/07/2017
 ---
-#<a name="communications"></a>通信
-通信能力用于认可提供创新和自定义的 Skype for Business 解决方案的合作伙伴。
+#<a name="communications"></a>Communications
+The Communications competency recognizes partners delivering innovative and customized Skype for Business solutions.
 
-##<a name="systems-integrator-option"></a>系统集成商选项
-通过通过考试或认证来测试你的产品知识。
+##<a name="systems-integrator-option"></a>Systems Integrator option
+Put your product knowledge to the test by passing exams or certifications.
   
-###<a name="silver"></a>银牌
+###<a name="silver"></a>Silver
 
-1. 你的组织必须有 **2** 个人通过了考试或认证。
+1. Your organization must have **2** individuals pass the exams or a certification.
 
-    - 这 **2** 个人中的 **1** 个人必须通过以下评估：
-        - [Skype Operations Framework 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
+    - **1** of the **2** individuals must pass the following assessment:
+        - [Technical Assessment for Skype Operations Framework](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
 
-    - **所有**人都必须通过以下所有考试：
-        - [考试 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx)：Skype for Business 2015 核心解决方案
-        - [考试 70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx)：企业语音 Skype for Business 2015
+    - **All** individuals must either pass all the following exams:
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015
+        - [Exam 70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx): Enterprise Voice Skype for Business 2015
 
-    **或者**
+    **OR**
 
-    - 以下认证：
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx)：生产力
+    - The following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
-###<a name="gold"></a>金牌
+###<a name="gold"></a>Gold
 
-1. 你的组织必须有 **4** 个人通过了考试或认证。
+1. Your organization must have **4** individuals pass the exams or a certification.
 
-    - 这 **4** 个人中的 **2** 个人必须通过以下评估：
-        - [Skype Operations Framework 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
+    - **2** of the **4** individuals must pass the following assessment:
+        - [Technical Assessment for Skype Operations Framework](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16802&scoId=g6fMfp80C_5406265419)
 
-    - **所有**人都必须通过以下所有考试：
-        - [考试 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx)：Skype for Business 2015 核心解决方案
-        - [考试 70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx)：企业语音 Skype for Business 2015
+    - **All** individuals must either pass all the following exams:
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015
+        - [Exam 70-333](https://www.microsoft.com/en-us/learning/exam-70-333.aspx): Enterprise Voice Skype for Business 2015
 
-    **或者**
+    **OR**
 
-    - 以下认证：
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx)：生产力
+    - The following certification:
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
 
 

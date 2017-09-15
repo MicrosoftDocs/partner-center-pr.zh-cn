@@ -1,72 +1,72 @@
 ---
-title: "响应引荐 | 合作伙伴中心"
-description: "通过合作伙伴中心评估、协商和响应引荐。"
+title: Responding to referrals | Partner Center
+description: Evaluate, negotiate, and respond to referrals through Partner Center.
 author: KPacquer
-keywords: "引荐, RFI, 查找合作伙伴"
-ms.openlocfilehash: 4172cc60825d445aa9b119780d22002c6c2ea189
-ms.sourcegitcommit: d7c4ca62acd1ef1026c7d322e40f55a83a80e72a
+keywords: referral, RFI, Find a Partner
+ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
+ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2017
+ms.lasthandoff: 07/07/2017
 ---
-# <a name="responding-to-referrals-in-partner-center"></a>在合作伙伴中心响应引荐
+# <a name="responding-to-referrals-in-partner-center"></a>Responding to referrals in Partner Center
 
-**适用于**
+**Applies to**
 
--  合作伙伴中心
+-  Partner Center
 
-作为合格的 Microsoft 合作伙伴，你可以通过合作伙伴中心引荐来接收潜在的业务销售线索。 管理传入的销售线索，快速响应非常合适的销售线索，并跳过或拒绝不合适的销售线索。 查看收到的销售线索的类型。 
+As a qualified Microsoft partner, you can receive potential business leads through Partner Center referrals. Manage your incoming leads, respond quickly to those that are a good fit, and skip or decline those that aren’t. Review the types of leads that come in. 
 
-## <a name="referral-management"></a>引荐管理
+## <a name="referral-management"></a>Referral management
 
-首先为你开展业务所在的每个区域设置[营销配置文件](create-a-marketing-profile.md)。 一旦你的配置文件处于活动状态，我们就可以通过以下方式为你的业务推荐客户：
+Start by setting up a [marketing profile](create-a-marketing-profile.md) for each region where you do business. Once your profile is active, we’ll be able to direct customers to your business, through:
 
-*  Microsoft 营销活动
-*  内部 Microsoft 销售和服务代理
-*  客户搜索（使用**[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)**工具）。
+*  Microsoft marketing activities
+*  Internal Microsoft sales and service agents
+*  Customer searches, using the **[Find a partner](https://partnercenter.microsoft.com/pcv/search)** tool.
 
-当客户有兴趣与你联系时，他们将提交信息请求 (RFI)。 
+When a customer is interested in contacting you, they’ll submit a request for information (RFI). 
 
-发生这种情况时，我们会将电子邮件发送给特定于选定区域和位置的[营销配置文件](create-a-marketing-profile.md)中列出的联系人。 你也可以在合作伙伴中心查看传入的 RFI：转到**仪表板 > 引荐 > 客户引荐**。
+When that happens, we’ll send email to the contact listed in your [marketing profile](create-a-marketing-profile.md) specific to the region and location selected. You can also see incoming RFIs in Partner Center: go to **Dashboard > Referrals > Customer referrals**.
 
-客户通常会选择同时向多家公司发送相同的 RFI。 为了提高你成功的可能性，建议你在 24 小时或更短时间内响应并接受或拒绝新引荐。
+Customers often choose to send the same RFI to multiple companies at the same time. To increase your chance of success, we recommend responding to and accepting or declining new referrals within 24 hours or less.
 
-### <a name="new-referrals"></a>新引荐
+### <a name="new-referrals"></a>New referrals
 
-我们将向你显示 RFI 的概述。 从此处，你可以决定是否有兴趣了解有关引荐的详细信息。 
+We’ll show you an overview of the RFI. From here, you can decide whether you’re interested in learning more about the referral. 
 
-*  **我感兴趣**：我们会将引荐移到**评估**中，你将看到有关客户和产品/服务的完整详细信息。 
-*  **不，谢谢**：我们会将其存档并标记为**已跳过**。 我们将通知客户选择其他合作伙伴。
-*  如果你在 72 小时内未响应，我们会将其存档并标记为**已错过**。 我们将通知客户选择其他合作伙伴。
+*  **I’m interested**: We’ll move the referral to **Evaluating**, and you’ll see the full details about the customer and the offer. 
+*  **No thanks**: We’ll archive it as **Skipped**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 72 hours, we’ll archive it as **Missed**. We’ll notify the customer to choose a different partner.
 
-### <a name="evaluating-referrals"></a>评估引荐
+### <a name="evaluating-referrals"></a>Evaluating referrals
 
-查看详细信息并与客户联系。 与他们讨论他们的业务需求，并确定你是否有能够帮助他们的产品/服务。 接受或拒绝引荐： 
+Review the details, and contact the customer. Talk to them about their business needs, and determine if you have an offer that can help them. Accept or decline the referral: 
 
-*  **接受**：输入估计的交易值和估计的截止日期，然后选择**接受**。 我们将使用此信息帮助你查找类似的交易。 我们会将此引荐移到**协商**中。 这会告诉我们你打算积极地与客户接触以满足他们的需求。
-*  **拒绝**：我们会将其存档并标记为**已拒绝**。 我们将通知客户选择其他合作伙伴。
-*  如果你在 7 天内未响应，我们会将其存档并标记为**已过期**。 我们将通知客户选择其他合作伙伴。
+*  **Accept**: Enter the estimated deal value, the estimated closing date, and select **Accept**. We’ll use this information to help you find similar deals. We’ll move the referral to **Negotiating**. This tells us that you plan to actively engage with the customer to address their need.
+*  **Decline**: We’ll archive it as **Declined**. We’ll notify the customer to choose a different partner.
+*  If you don’t respond within 7 days, we’ll archive it as **Expired**. We’ll notify the customer to choose a different partner.
 
-### <a name="negotiating-referrals"></a>协商引荐
+### <a name="negotiating-referrals"></a>Negotiating referrals
 
-努力与客户达成交易。 告诉我们你是赢得还是失去了交易，将其存档并标记为**已赢得**或**已失去**。 
+Work to close the deal with the customer. Let us know if you won or lost the deal, and archive it as **Won** or **Lost**. 
 
-### <a name="archived-referrals"></a>存档的引荐
+### <a name="archived-referrals"></a>Archived referrals
 
-随时查看过去的引荐（**已赢得、已失去、已跳过、已错过、已拒绝**或**已过期**）。 
+Review your past referrals (**won, lost, skipped, missed, declined** or **expired**) at any time. 
 
-## <a name="getting-more-referrals"></a>获取更多引荐
+## <a name="getting-more-referrals"></a>Getting more referrals
 
-下面是一些提示，有助于确保你将获得更多适合你的业务的引荐：
+Here’s some tips to help make sure you’re getting more referrals that are appropriate to your business:
 
-*  **查看[营销配置文件](create-a-marketing-profile.md)**中每个位置的联系人信息，以确保你的团队能够收到传入的警报。
+*  **Review your contact information in your [marketing profile](create-a-marketing-profile.md)** for each location to make sure that your team gets incoming alerts.
 
-*  ****在你的[营销配置文件](create-a-marketing-profile.md)中选择表示你的独特专长和业务模型的关键字和首选项。 删除将产生你不感兴趣的引荐的关键字。 如果你对与某种规模的企业做生意不感兴趣，更新此首选项。
+*  **Choose keywords and preferences that represent your unique expertise and business model** in your [marketing profile](create-a-marketing-profile.md). Remove keywords that would generate referrals for you’re not interested in. If you’re not interested in dealing with businesses of a certain size, update this preference.
 
-*  **快速响应引荐**。 如果你及时响应传入的请求，我们会在将来的客户搜索结果中增加你的可见性。 确保你的团队按照你的意图快速响应。
+*  **Respond quickly to referrals**. When you respond in a timely fashion to incoming requests, we’ll increase your visibility in future customer search results. Make sure your team responds quickly with your intent.
 
-*  **审慎选择接受的交易**。 我们会监视你接受或拒绝的交易的类型，并使用此信息帮助你查找类似的交易。 
+*  **Be choosy with the deals you accept**. We monitor the types of deals that you accept and decline, and use this information to help find you similar deals. 
 
-   如果接受不非常合适的交易，则不会改善你的搜索结果，并且可能会影响你收到的销售线索的质量。
+   Accepting deals that aren’t a good fit won’t improve your search results and could impact the quality of the leads you receive.
 
-*  **报告估计的交易量、截止日期和交易的最终状态**（已赢得或已失去）。 我们将使用此信息继续为你提供优质的引荐。
+*  **Report back the estimated deal sizes, closing dates, and the final status of your deals** (won or lost). We’ll use this info to continue to provide you with quality referrals.
