@@ -1,58 +1,59 @@
 ---
-title: "计费 | 合作伙伴中心"
-Description: "作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。"
+title: Billing | Partner Center
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 5ff67803ae0e8e18dad7ea41ec37cfd008a6554d
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
+ms.openlocfilehash: 367df00f26c3336b206cbc06c3d2f09138d7ca1e
+ms.sourcegitcommit: 4c29498e3d6d4038044b4cb2cb19a19e6a586823
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 09/15/2017
 ---
-# <a name="billing"></a>计费
+# <a name="billing"></a>Billing
 
-**适用于**
+**Applies to**
 
--  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+-  Partner Center
+-  Partner Center for Microsoft Cloud for US Government
+-  Partner Center for Microsoft Cloud Germany
 
-作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
+As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 
-若要查看帐单，请转到**仪表板**菜单，然后选择**计费**。 此计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
+For your bill, go to the **Dashboard** menu, then select **Billing**. This billing page shows your billing history and trend, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.
 
--   Microsoft 对你如何处理你自己的发票没有任何要求。
--   若要确定客户的使用情况，请使用对帐文件中的“客户 ID/名称”和其他相关字段。
--   针对你提供的服务和产品添加自己的费用。
--   向你的客户发送一张包含所有费用的帐单。
+-   Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.
+-   To determine customers' usage, use the customer ID/name and other relevant fields within the reconciliation files.
+-   Add your own fees and charges for services and products that you provide.
+-   Send a single bill for all charges to your customer.
 
-## <a name="billing"></a>计费
+## <a name="billing"></a>Billing
 
+[有关新计费功能的常见问题解答](faq-about-new-billing-features.md)
 
 [阅读帐单](read-your-bill.md)
 
-[使用对帐文件](use-the-reconciliation-files.md)
+[Use the reconciliation files](use-the-reconciliation-files.md)
 
-[税务和免税](tax-and-tax-exemptions.md)
+[Tax and tax exemptions](tax-and-tax-exemptions.md)
 
-[为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
+[Set an Azure spending budget for your customers](set-an-azure-spending-budget-for-your-customers.md)
 
-[常见计费方案](common-billing-scenarios.md)
+[Common billing scenarios](common-billing-scenarios.md)
 
-[拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)
+[Non-payment, fraud, or misuse](non-payment--fraud--or-misuse.md)
 
-[PSTN 服务](o365-e5-in-csp-advisory.md)
+[PSTN services](o365-e5-in-csp-advisory.md)
 
-## <a name="in-this-section"></a>本部分内容
+## <a name="in-this-section"></a>In this section
 
 
--   [计费基础知识](#billingbasics)
+-   [Billing basics](#billingbasics)
 
--   [基于许可证的计费](#licensebasedbilling)
+-   [License-based billing](#licensebasedbilling)
 
--   [基于使用情况的计费](#usagebasedbilling)
+-   [Usage-based billing](#usagebasedbilling)
 
-## <a href="" id="billingbasics"></a>计费基础知识
+## <a href="" id="billingbasics"></a>Billing basics
 
 
 <table>
@@ -62,50 +63,50 @@ ms.lasthandoff: 07/01/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>日期</td>
+<td>Dates</td>
 <td><ul>
-<li>每月计费日期是注册时选择的月份中的一天。 Microsoft 将发送一封包含计费日期的确认电子邮件。</li>
-<li>可提前 1 个月查找价目表，价目表每月更新一次。 基于许可证的价格可保证订阅条款，有效期通常为自购买之日起的 12 个月。 基于使用情况的价格可每月更改。 我们将通过发布合作伙伴价目表对任何价格更改公告 30 日。</li>
+<li>Your monthly billing date is the day of the month you selected during enrollment. Microsoft will send a confirmation email that includes your billing date.</li>
+<li>You can find price lists 1 month in advance, as they're updated monthly. License-based prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. Usage-based prices can change on a monthly basis. We will provide 30 days’ notice for any price change through the publication of our Partner Price List.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>付款期限</td>
+<td>Payment terms</td>
 <td><ul>
-<li>付款期限 - 净 60 天。</li>
-<li>必须在发票到期日（计费日期后 60 天）前进行支付，否则帐户将欠费。</li>
-<li>欠费帐户将随时从云解决方案提供商计划中暂停和/或终止。 已暂停帐户无法创建新客户或订单、请求经销商关系、增加或减少订阅量、订购加载项订阅、转换或过渡订阅，并且仅限于管理现有客户、订阅和资源，直到帐户付清欠款为止。 合作伙伴支付其未付清的帐单后，可以重新获得其暂停帐户的完整功能。</li>
+<li>Payment terms - net 60 days.</li>
+<li>Payments must be made by the invoice due date (60 days after the billing date), or the account will be delinquent.</li>
+<li>Delinquent accounts are subject to suspension and/or termination from the Cloud Solution Provider program. Suspended accounts can't create a new customer or order, request a reseller relationship, increase or decrease quantities of subscriptions, order add-on subscriptions, convert or transition a subscription and will be limited to managing existing customers, subscriptions and resources until the account is brought current. Partners can regain full functionality of their suspended accounts when they pay their outstanding bills.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>计费规则</td>
+<td>Billing rules</td>
 <td><ul>
-<li>每月你将收到一张云解决方案提供商计划的发票。</li>
-<li>基于许可证的订阅根据所购买的许可证（而非所使用的许可证）进行计费。</li>
-<li>Azure（基于使用情况的订阅）基于消耗情况根据所计量的费率进行计费。</li>
-<li>价格由订阅条款保证。 价格可能会在订阅续订时发生更改。</li>
+<li>You will receive one invoice each month for the CSP program.</li>
+<li>License-based subscriptions are billed based on licenses purchased, not licenses used.</li>
+<li>Azure (usage-based subscriptions) are billed according to metered rates, based on consumption.</li>
+<li>Price is guaranteed through the term of the subscription. Prices may change at subscription renewal.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>发票可用性</td>
+<td>Invoice availability</td>
 <td><ul>
-<li>可从合作伙伴中心的“计费”页面查看和下载发票和对帐文件。</li>
+<li>You can view and download your invoices and reconciliation files from the Billing page in the Partner Center.</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>调整/信用/取消</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>测试帐户和集成测试的信用并未得到授权。 为在执行测试时避免产生订阅费用或早期终止费用，可在“免费时段”取消订阅。 Azure 服务的所有消耗使用费用都由你自己承担。</li>
-<li>应用信用或调整后，可在下一张每月计费发票上看到调整和拖欠的信用。</li>
+<li>Credits for test accounts and integration testing are not authorized. To avoid subscription charges or early termination fee charges when you are performing testing, you can cancel the subscription during the “free period”. All consumption usage charges for Azure services are your responsibility.</li>
+<li>You'll see adjustments and credits in arrears on your next monthly billing invoice after the credit or adjustment is applied.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>税务</td>
+<td>Tax</td>
 <td><ul>
-<li>将根据你的详细信息（而非客户的详细信息）对你收取税款 ，因为计费关系在你和 Microsoft 之间产生。</li>
-<li>可在登记过程中或通过服务请求提交税收 ID。 你将看到在下一个计费周期上反映的更改。</li>
-<li>对于<strong>扣缴税款和营业税免征</strong>，必须通过服务请求提交税收文档。 你将在下一个计费周期上看到更改和相应退款。</li>
-<li>对于<strong>增值税 (VAT) 免征</strong>，必须通过服务请求提交 VAT ID（由 Microsoft 验证）。 你将在下一个计费周期上看到更改和相应退款。</li>
-<li>从本地税务局或税务顾问查找进一步的税收详细信息。</li>
+<li>You will be taxed based on your details, (not your customers') as the billing relationship is between Microsoft and you.</li>
+<li>You can submit your tax ID during onboarding or via a service request. You'll see the changes reflected on your next billing cycle.</li>
+<li>For <strong>withholding and sales tax exemption</strong>, you must submit tax documentation via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
+<li>For <strong>value added tax (VAT) exemption</strong>, you must submit your VAT ID (validated by Microsoft) via a service request. You'll see the changes and appropriate refunds on your next billing cycle.</li>
+<li>Find further tax details from your local tax office or tax advisor.</li>
 </ul></td>
 </tr>
 </tbody>
@@ -113,7 +114,7 @@ ms.lasthandoff: 07/01/2017
 
  
 
-## <a href="" id="licensebasedbilling"></a>基于许可证的计费
+## <a href="" id="licensebasedbilling"></a>License-based billing
 
 
 <table>
@@ -123,29 +124,29 @@ ms.lasthandoff: 07/01/2017
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>最长免费一个月的奖励</td>
+<td>Up to one free month incentive</td>
 <td><ul>
-<li>在从订阅开始日期到下一个合并帐单日期的初始期间（最长可达一整个月），无论使用了多少席位，都不对你收取任何收费。</li>
-<li>这将使计费对帐更为简单。</li>
-<li>根据相应协议，如果未取消订阅，所有订阅将重新自动续订 12 个月的时间，并且会预先支付 12 个月份的费用。</li>
-<li>免费时段不适用于基于使用情况的服务。</li>
+<li>You are not billed for any charges during the initial period from the subscription start date to the date of your next consolidate bill (up to one full month), regardless of the seat count.</li>
+<li>This results in simpler billing reconciliation.</li>
+<li>All subscriptions auto-renew for a new 12 month period with 12 monthly advanced charges if the subscription is not cancelled in line with the appropriate agreements.</li>
+<li>The free period does not apply to usage-based services.</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>计费规则</td>
+<td>Billing rules</td>
 <td><ul>
-<li>订阅为一年期并且自动续订。</li>
-<li>每个年度订阅的计费分 12 个月付款。</li>
-<li>对于基于许可证的服务，将会提前向你收取下一个计费时段费用（取决于上一个计费时段结束时的许可证数）。</li>
-<li>将针对许可证数目发生的任何更改对你计费/记入欠款（根据许可证天数按比例计算）。 按比例计算使用以下公式：[ROUND((ROUND(单价 * 数量 / 按比例计算的月份的天数, 2) * 按比例计算的天数) / 数量, 2) * 数量]</li>
-<li>将针对所售席位（而非预配的席位）收取相关付款。</li>
+<li>Subscriptions are annual and auto-renewed.</li>
+<li>Billing is in 12 monthly payments per annual subscription.</li>
+<li>You are billed in advance for the next billing period for license-based services, based on number of licenses at the end of the prior billing period.</li>
+<li>You are billed/credited in arrears for any changes in the number of licenses(pro-rata calculation based on license-days). Pro-rata calculation uses the following formula: [ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]</li>
+<li>Payments are billed for seats sold (not seats provisioned).</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>调整/信用/取消</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>当前不对取消基于许可证的服务收取提前终止费用。</li>
-<li>对于周期中取消，基于许可证的服务的取消信用针对未使用天数（以及按照上述公式的许可证减少）按比例计算。</li>
+<li>Early termination fees are currently not charged for the cancellation of license-based services.</li>
+<li>Cancellation credits for licensed based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases per the formula above).</li>
 </ul></td>
 </tr>
 </tbody>
@@ -153,10 +154,10 @@ ms.lasthandoff: 07/01/2017
 
  
 
-## <a href="" id="usagebasedbilling"></a>基于使用情况的计费
+## <a href="" id="usagebasedbilling"></a>Usage-based billing
 
 
-Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 Azure 服务向你计费。
+Azure operates in the "pay as you go" model, in which you are only billed for Azure services used.
 
 <table>
 <colgroup>
@@ -165,25 +166,25 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>计费规则</td>
+<td>Billing rules</td>
 <td><ul>
-<li>计费在订阅开始日期开始。 基于使用情况的计费没有“免费时段”。</li>
-<li>订阅按月划分，并且以新的按使用量计费的服务费率自动续订。 计费基于使用情况按月延后。</li>
-<li>按使用量计费的服务费率可能在发票周期内更改。
+<li>Billing starts on the subscription start date. There is no “free period” for usage-based billing.</li>
+<li>Subscriptions are month-to-month and auto-renew at the new metered service rates. Billing is monthly in arrears, based on usage.</li>
+<li>Metered service rates can change within the invoice cycle.
 <ul>
-<li>提价：提前 30 天通知。</li>
-<li>降价：在更改之日反映。</li>
-<li>现有订阅使用在计费周期开始时生效的费率。</li>
-<li>新订阅（在计费周期内创建）使用创建当日生效的费率。</li>
+<li>Price increases: 30 days notice is provided.</li>
+<li>Price decreases: reflected day of change.</li>
+<li>Existing subscriptions use the rate in effect at the beginning of the bill cycle.</li>
+<li>New subscriptions (created within bill cycle) use the rate in effect at the create date.</li>
 </ul></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>调整/信用/取消</td>
+<td>Adjustments/Credits/Cancellations</td>
 <td><ul>
-<li>你将在下一个每月计费发票上看到经过调整的付款。</li>
-<li>当前不对取消基于使用情况的服务收取早期终止费用。</li>
-<li>你将在下一个每月计费发票上看到所有类型的信用，包括 SLA 信用。</li>
+<li>You'll see payments with adjustments on your next monthly billing invoice.</li>
+<li>Early termination fees are currently not charged for the cancellation of usage-based services.</li>
+<li>You'll see credits of any type, including SLA credits, on your next monthly billing invoice.</li>
 </ul></td>
 </tr>
 </tbody>
