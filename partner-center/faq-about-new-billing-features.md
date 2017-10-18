@@ -3,18 +3,18 @@ title: "有关新计费功能的常见问题解答 | 合作伙伴中心"
 Description: "以下是关于合作伙伴中心的按年计费、免费试用版和计费调整功能的常见问题。"
 ms.assetid: 
 author: MaggiePucciEvans
-ms.openlocfilehash: a0ed40409cfb7ea92713e89a3fea39c4b3f836b6
-ms.sourcegitcommit: c11d72ccf5c92c12eb8ba50fccf85820c4112198
+ms.openlocfilehash: ce871392c529cdfc7b11eddcad92f04b7e3054c2
+ms.sourcegitcommit: bf2476ae1163f5b486d7ba12e784904e47e0b85a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2017
+ms.lasthandoff: 09/29/2017
 ---
 # <a name="faq-about-new-billing-features"></a>有关新计费功能的常见问题解答
 
 **适用于**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
+-  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
 以下是关于合作伙伴中心的按年计费、免费试用版和计费调整功能的常见问题。 
@@ -247,11 +247,11 @@ https://msdn.microsoft.com/en-us/library/partnercenter/microsoft.store.partnerce
 
 **问：**这项功能将何时提供？
 
-**答：**我们计划在 2018 年 9 月提供这项功能。
+**答：**我们计划在 2017 年 10 月 17 日提供这项功能。
 
 **问：**谁可以参与？
 
-**答：**虽然再过几个月免费试用版将停止在中国提供，但是所有合作伙伴都可以参与。 
+**答：**虽然免费试用版在中国还需要再过几个月才能提供，但是所有合作伙伴都可以参与。 
 
 **问：**我需要采取什么行动以做好准备？
 
