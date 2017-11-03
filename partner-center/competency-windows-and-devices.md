@@ -4,11 +4,11 @@ description: "我们的共同目标是在 10 亿台设备上安装 Windows 10。
 author: Daniel Simpson
 robots: noindex,nofollow
 keywords: "能力, Windows 和设备"
-ms.openlocfilehash: cb41a30e8a578471fd0866cfe343a9b8dd11978b
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 #<a name="windows-and-devices"></a>Windows 和设备 
 我们的共同目标是在 10 亿台设备上安装 Windows 10。 此商机涉及服务、应用程序和设备。 此能力会为你提供工具、内容和资源，以帮助你建立和发展有利可图的 Windows 10 业务。
@@ -23,12 +23,12 @@ ms.lasthandoff: 09/29/2017
 ###<a name="silver"></a>银牌
 1. 你的组织必须有 **2** 个人通过了所需的考试或评估。
 
-    - **2** 个人必须都通过以下其中一项考试：
+    - **2** 个人必须都通过以下考试之一：
 
         - **应用程序构建器**重点领域
 
             - [考试 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx)：通用 Windows 平台 - 应用体系结构和 UX/UI*
-            - [考试 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 – 应用数据、服务和编码模式*
+            - [考试 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 - 应用数据、服务和编码模式*
             - [考试 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx)：开发移动应用
 
     **或者**
@@ -43,11 +43,11 @@ ms.lasthandoff: 09/29/2017
 
 ###<a name="gold"></a>金牌
 1. 你的组织必须有 **4** 个人通过了所需的考试或评估。
-    - **4** 个人必须都通过以下其中一项考试：
+    - **4** 个人必须都通过以下考试之一：
         - **应用程序构建器**重点领域
 
             - [考试 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx)：通用 Windows 平台 - 应用体系结构和 UX/UI*
-            - [考试 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 – 应用数据、服务和编码模式*
+            - [考试 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 - 应用数据、服务和编码模式*
             - [考试 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx)：开发移动应用
 
     **或者**
@@ -87,7 +87,7 @@ ms.lasthandoff: 09/29/2017
 
         - **系统组装商**重点领域
 
-            - [考试 70-734](https://www.microsoft.com/en-us/learning/exam-70-734.aspx)：Windows 10 OEM 预安装
+            - [考试 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx)：适用于 Windows 10 的 OEM 制造和部署
 
     **或者**
 
@@ -125,7 +125,7 @@ ms.lasthandoff: 09/29/2017
     
     **并且**
 
-    - **全部**个人必须都通过以下其中一项考试：
+    - **全部**个人必须都通过以下考试之一：
 
         - [考试 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：启用 Office 365 服务
         - [考试 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx)：Skype for Business 2015 核心解决方案 

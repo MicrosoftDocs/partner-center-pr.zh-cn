@@ -3,11 +3,11 @@ title: "工作帐户与合作伙伴中心 | 合作伙伴中心"
 description: "如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。"
 author: labrenne
 robots: 
-ms.openlocfilehash: 503d8af5d299a6dd9098fb5f7aafcf998159fb72
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
+ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 10/03/2017
 ---
 # <a name="your-work-account-and-partner-center"></a>你的工作帐户与合作伙伴中心  
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 09/29/2017
 
 # <a name="why-you-need-a-work-account"></a>需要工作帐户的原因
 
-我们需要将你所在组织的工作帐户链接到新的合作伙伴中心帐户，以便你的租户用户可以使用其 Azure AD（工作帐户）用户名和密码登录合作伙伴中心。
+我们需要将你所在组织的工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以使用其工作帐户用户名和密码登录合作伙伴中心。
 
 如果你的公司已经拥有工作帐户，你可以将其链接到你的合作伙伴中心帐户。 
 
@@ -25,9 +25,9 @@ ms.lasthandoff: 09/29/2017
 
 如果你的公司还没有工作帐户，则可以在注册过程中免费创建一个。 在**登录 Azure Active Directory** 页面上选择**创建新租户**。 创建新 Azure Active Directory 租户即创建新工作帐户。 Azure Active Directory 是 Microsoft 的单一登录身份管理解决方案。
 
-## <a name="not-sure-if-your-company-already-has-an-azure-work-account"></a>不确定你的公司是否已经具有 Azure 工作帐户？
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不确定你的公司是否已经具有工作帐户？
 
-如果你不确定你的公司是否具有 Azure 工作帐户，请按照以下步骤进行检查。 请注意，如果你具有有效的 Microsoft Azure 或 Office 365 订阅，则你已经拥有了 Azure 工作帐户。
+如果你不确定你的公司是否具有工作帐户，请按照以下步骤进行检查。 请注意，如果你具有有效的 Microsoft Azure 或 Office 365 订阅，则你已经拥有了工作帐户。
 1.  登录到 Azure 管理门户，网址为 https://ms.portal.azure.com
 2.  从菜单中选择“Azure Active Directory”，然后选择“域名”。
 3.  如果你已经有工作帐户，则将列出你的域名。
@@ -36,7 +36,7 @@ ms.lasthandoff: 09/29/2017
 
 如果你想要使用现有的工作帐户，但在登录时遇到问题，请在下图中查找最符合你的情况的方案，然后按照推荐的步骤进行操作。 
 
-![是否拥有 Azure 工作帐户，抑或需要创建一个工作帐户？](images/onboardingAADFlow.png)
+![是否拥有工作帐户，抑或需要创建一个工作帐户？](images/onboardingAADFlow.png)
 
 有关在 Azure AD 中添加域的详细信息，请参阅[在 Azure AD 中添加或关联域](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 

@@ -3,10 +3,11 @@ title: "创建新订阅 | 合作伙伴中心"
 description: "在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。"
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: MaggiePucciEvans
-ms.openlocfilehash: 7573af36bfe8c1c0a0840bee6840cd4e58610625
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 4bb9bfe2d620ba6a82d1f4960b8bdc497c6fdf16
+ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 10/17/2017
 ---
 # <a name="create-a-new-subscription"></a>创建新订阅
 
@@ -17,6 +18,9 @@ ms.contentlocale: zh-CN
 -  德国 Microsoft 云合作伙伴中心
 
 在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。
+
+请注意，对于某些产品/服务，每个客户只能有一份订阅。 若要查看受限制的产品/服务的列表，请访问合作伙伴中心的“定价和产品/服务”页面，打开“产品/服务矩阵”，然后选择 Office_Dynamics_Windows_Intune 标签页的 I 列。 
+
 
 **创建新订阅**
 
