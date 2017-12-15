@@ -1,33 +1,28 @@
 ---
 title: "客户帐户 | 合作伙伴中心"
-Description: "作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。"
+Description: As a reseller partner, you should make an account for each of your customers in Partner Center. The customer account will be your starting point for selling subscriptions, billing, and providing support.
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
-author: MaggiePucciEvans
-ms.openlocfilehash: b2d2565031d0377bdeeca62e32910240e96b4b61
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+author: labrenne
+ms.openlocfilehash: 1eadf2749eeba07edd37c52660dd1f47e0de3fd0
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 11/10/2017
 ---
-# <a name="customer-accounts"></a><span data-ttu-id="135de-104">客户帐户</span><span class="sxs-lookup"><span data-stu-id="135de-104">Customer accounts</span></span>
+# <a name="customer-accounts"></a><span data-ttu-id="d1787-102">客户帐户</span><span class="sxs-lookup"><span data-stu-id="d1787-102">Customer accounts</span></span>
 
-**<span data-ttu-id="135de-105">适用于</span><span class="sxs-lookup"><span data-stu-id="135de-105">Applies to</span></span>**
+**<span data-ttu-id="d1787-103">适用于</span><span class="sxs-lookup"><span data-stu-id="d1787-103">Applies to</span></span>**
 
--  <span data-ttu-id="135de-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="135de-106">Partner Center</span></span>
--  <span data-ttu-id="135de-107">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="135de-107">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="135de-108">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="135de-108">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="d1787-104">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d1787-104">Partner Center</span></span>
+-  <span data-ttu-id="d1787-105">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d1787-105">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="d1787-106">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d1787-106">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="135de-109">作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。</span><span class="sxs-lookup"><span data-stu-id="135de-109">As a reseller partner, you should make an account for each of your customers in Partner Center.</span></span> <span data-ttu-id="135de-110">客户帐户将是你销售订阅、计费和提供支持的起始点。</span><span class="sxs-lookup"><span data-stu-id="135de-110">The customer account will be your starting point for selling subscriptions, billing, and providing support.</span></span>
+<span data-ttu-id="d1787-107">作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。</span><span class="sxs-lookup"><span data-stu-id="d1787-107">As a reseller partner, you should make an account for each of your customers in Partner Center.</span></span> <span data-ttu-id="d1787-108">客户帐户将是你销售订阅、计费和提供支持的起始点。</span><span class="sxs-lookup"><span data-stu-id="d1787-108">The customer account will be your starting point for selling subscriptions, billing, and providing support.</span></span> <span data-ttu-id="d1787-109">你需要为每个客户（包括移动到合作伙伴中心之前具有的客户）创建一个合作伙伴中心帐户。</span><span class="sxs-lookup"><span data-stu-id="d1787-109">You need to make a Partner Center account for each of your customers including customers you had prior to moving onto Partner Center.</span></span>
 
-[<span data-ttu-id="135de-111">查看你的客户列表</span><span class="sxs-lookup"><span data-stu-id="135de-111">See your customer list</span></span>](see-your-customer-list.md)
+### <a name="resources-for-working-with-your-customers-on-partner-center"></a><span data-ttu-id="d1787-110">用于在合作伙伴中心与客户合作的资源</span><span class="sxs-lookup"><span data-stu-id="d1787-110">Resources for working with your customers on Partner Center</span></span>
 
-[<span data-ttu-id="135de-112">添加新客户</span><span class="sxs-lookup"><span data-stu-id="135de-112">Add a new customer</span></span>](add-a-new-customer.md)
-
-[<span data-ttu-id="135de-113">删除关系</span><span class="sxs-lookup"><span data-stu-id="135de-113">Remove a relationship</span></span>](remove-a-relationship.md)
-
-[<span data-ttu-id="135de-114">将 Azure 订阅切换到其他合作伙伴</span><span class="sxs-lookup"><span data-stu-id="135de-114">Switch Azure subscriptions to a different partner</span></span>](switch-azure-subscriptions-to-a-different-partner.md)
-
-[<span data-ttu-id="135de-115">更新客户帐户信息</span><span class="sxs-lookup"><span data-stu-id="135de-115">Update customer account info</span></span>](update-customer-account-info.md)
-
-[<span data-ttu-id="135de-116">将多个用户添加到客户帐户</span><span class="sxs-lookup"><span data-stu-id="135de-116">Add multiple users to a customer account</span></span>](adding-multiple-users-to-a-customer-account.md)
-
+|**<span data-ttu-id="d1787-111">若要执行以下操作</span><span class="sxs-lookup"><span data-stu-id="d1787-111">To do this</span></span>**   |**<span data-ttu-id="d1787-112">请阅读以下内容以了解操作方法</span><span class="sxs-lookup"><span data-stu-id="d1787-112">Read this to learn how</span></span>**   |**<span data-ttu-id="d1787-113">适用于</span><span class="sxs-lookup"><span data-stu-id="d1787-113">Applies to</span></span>**|
+|-----------------|:----------------------------|:--------------|
+|<span data-ttu-id="d1787-114">获取新客户</span><span class="sxs-lookup"><span data-stu-id="d1787-114">Get new customers</span></span>|<span data-ttu-id="d1787-115">间接经销商可联系将你引荐给客户的[间接提供商](indirect-reseller-tasks-in-partner-center.md)。</span><span class="sxs-lookup"><span data-stu-id="d1787-115">Indirect resellers connect with [indirect providers](indirect-reseller-tasks-in-partner-center.md) who will refer you to customers.</span></span> <span data-ttu-id="d1787-116">你也应该确保你的[业务配置文件](create-a-marketing-profile.md)是最新的业务配置文件。</span><span class="sxs-lookup"><span data-stu-id="d1787-116">You should make sure your [business profile](create-a-marketing-profile.md) is up-to-date, too.</span></span> <span data-ttu-id="d1787-117">当你和客户同意[合作](responding-to-referrals.md)时，请将其[添加](add-a-new-customer.md)到你的帐户。</span><span class="sxs-lookup"><span data-stu-id="d1787-117">When you and a customer have agreed to [work together](responding-to-referrals.md), [add](add-a-new-customer.md) them to your account.</span></span>|<span data-ttu-id="d1787-118">云解决方案提供商合作伙伴</span><span class="sxs-lookup"><span data-stu-id="d1787-118">CSP partners</span></span>|
+|<span data-ttu-id="d1787-119">向你的帐户添加现有客户</span><span class="sxs-lookup"><span data-stu-id="d1787-119">Add existing customers to your account</span></span>   | <span data-ttu-id="d1787-120">你在诸如 Office 365 之类的其他门户上与之交易的客户将显示在合作伙伴中心上的[客户列表](see-your-customer-list.md)中。</span><span class="sxs-lookup"><span data-stu-id="d1787-120">Customers you transact with on other portals such as Office 365 will appear in your [customer list](see-your-customer-list.md) on Partner Center.</span></span> <span data-ttu-id="d1787-121">你将需要与其他现有客户[建立经销商关系](indirect-reseller-tasks-in-partner-center.md)。</span><span class="sxs-lookup"><span data-stu-id="d1787-121">You will need to [establish reseller relationships](indirect-reseller-tasks-in-partner-center.md) with other existing customers.</span></span> <span data-ttu-id="d1787-122">若要执行此操作，请向他们发送电子邮件，[邀请他们在合作伙伴中心与你联系](responding-to-referrals.md)。</span><span class="sxs-lookup"><span data-stu-id="d1787-122">To do so, you email them an [invitation to connect](responding-to-referrals.md) with you on Partner Center.</span></span>   | <span data-ttu-id="d1787-123">云解决方案提供商合作伙伴</span><span class="sxs-lookup"><span data-stu-id="d1787-123">CSP partners</span></span>   |
+|<span data-ttu-id="d1787-124">管理你的所有客户信息</span><span class="sxs-lookup"><span data-stu-id="d1787-124">Manage all your customer information</span></span>   | <span data-ttu-id="d1787-125">添加或删除客户或[结束客户关系](remove-a-relationship.md)</span><span class="sxs-lookup"><span data-stu-id="d1787-125">Add or remove customers or [end a customer relationship](remove-a-relationship.md)</span></span>|   <span data-ttu-id="d1787-126">云解决方案提供商合作伙伴</span><span class="sxs-lookup"><span data-stu-id="d1787-126">CSP partners</span></span> |
