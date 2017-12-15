@@ -2,11 +2,11 @@
 title: "购买或续订 Action Pack | 合作伙伴中心"
 description: "了解如何购买或续订 Microsoft Action Pack 订阅。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 6302cb1322933d7d35ac9ceba9cbbf642ba8a2c6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/22/2017
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>购买或续订 Microsoft Action Pack 订阅
 
@@ -44,7 +44,7 @@ Action Pack 是服务、软件和支持的经济实惠型年度订阅。 订阅 
 
 7. 你的订单已获得确认。 选择**关闭**。
 
-每年在此日期你的 Action Pack 订阅都将自动续订。 You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
 
 
 ## <a name="renew-your-action-pack-subscription"></a>续订 Action Pack 订阅
@@ -67,7 +67,7 @@ Action Pack 是服务、软件和支持的经济实惠型年度订阅。 订阅 
 
 9. 你的订单已获得确认。 选择**关闭**。
 
-每年在此日期你的 Action Pack 订阅都将自动续订。 You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again. 
+每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>关闭 Action Pack 订阅自动续订
@@ -79,12 +79,12 @@ Action Pack 是服务、软件和支持的经济实惠型年度订阅。 订阅 
 3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择**关闭自动续订**。 
 
     >**注意**<br>
-    If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again. 我们将在你的订阅到期之前提醒你续订。
+    如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>取消 Action Pack 订阅
 
-To cancel your Microsoft Action Pack subscription, you must contact Partner Center Support.
+若要取消你的 Microsoft Action Pack 订阅，必须联系合作伙伴中心支持部门。
 
 1. 转到 https://partnercenter.microsoft.com/partner/support。
 
@@ -106,9 +106,7 @@ To cancel your Microsoft Action Pack subscription, you must contact Partner Cent
 
 [添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
 
-[了解有关金牌和银牌成员身份的能力要求](learn-about-competencies.md)
-
-[创建营销配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
+[创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
 
 
 

@@ -1,22 +1,22 @@
 ---
-title: Manage your Microsoft Partner Network benefits | Partner Center
-description: As a Microsoft Partner Network member, you're entitled to certain membership benefits. Explains how to activate and manage your membership benefits on Partner Center.
+title: "管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心"
+description: "作为 Microsoft 合作伙伴网络成员，你有权享有某些成员身份权益。 说明如何在合作伙伴中心激活和管理你的成员身份权益。"
 author: MaggiePucciEvans
-ms.openlocfilehash: c74c00c06c02be98cd07ea639d38526f534f629c
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>Manage your Microsoft Partner Network membership benefits
+# <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
-**Applies to**
+**适用于**
 
--  Partner Center
+-  合作伙伴中心
 
 Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 在你购买并激活成员身份权益之前，你的公司必须是 Microsoft 合作伙伴网络的成员。 如果你不是网络的成员，则可以在 [https://partner.microsoft.com](https://partner.microsoft.com) 中加入。
 
->**注意** 点击此链接会将你带到其他网站。 Return to this site, Partner Center, to renew and upgrade your network membership.
+>**注意** 点击此链接会将你带到其他网站。 返回到此合作伙伴中心站点以续订和升级你的网络成员身份。
 
 在你加入 Microsoft 合作伙伴网络或续订网络成员身份之后，你可以购买权益。
 
@@ -39,11 +39,11 @@ Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 
 
     a. 选择**获取密钥**以显示产品许可证密钥。 请确保按照列出的任何特殊说明进行操作。
 
-    b. Select the language you want the product to be displayed in.
+    b. 选择想要用于显示产品的语言。
 
-    c. Select the operating system (OS) type of the computers you plan to install the software on.
+    c. 选择计划在其中安装软件的计算机的操作系统 (OS) 类型。
 
-    d. Follow the links to download and install the software installation packages.
+    d. 点击链接以下载并安装软件安装程序包。
 
 
 #### <a name="manage-cloud-services-benefits"></a>管理云服务权益
@@ -68,9 +68,9 @@ Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 
     >**重要提示**<br>
 如果你想要分配的用户不在列表中，则可以在**帐户设置**中[添加新用户](create-user-accounts-and-set-permissions.md)。
 
-3. 对于要分配的每个订阅都重复此过程。 Users can manage their subscriptions in the Visual Studio portal. 
+3. 对于要分配的每个订阅都重复此过程。 用户可以在 Visual Studio 门户中管理其订阅。 
 
-    You can reassign subscriptions any time by removing an assigned user and then assigning a different user. 
+    通过删除分配的用户，然后分配其他用户，你可以随时重新分配订阅。 
 
 
 #### <a name="manage-support-benefits"></a>管理支持权益
@@ -85,7 +85,7 @@ Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 
 
     b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与贵公司合作伙伴中心帐户关联的电子邮件地址。 
     
-    As a safeguard, we'll email instructions for accessing Microsoft Product Support to this email address in addition to the user's Partner Center account email. Note that it can take several days to activate this benefit and email instructions to the assigned user.    
+    作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的合作伙伴中心帐户电子邮件地址。 请注意，激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。    
     
     c.  输入备用电子邮件地址后，请选择**分配用户**。 
 

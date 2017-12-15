@@ -3,9 +3,11 @@ title: "提高采用率和满意度 | 合作伙伴中心"
 description: "我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。"
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 002f7ce22d7885bb2d4debc62e5c5737d816efe0
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 8d02f753307991cd740c78db9e751a44358597f6
+ms.sourcegitcommit: a8c51a2aade51c6fd7f134613fad121e89ffd719
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 11/21/2017
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -16,6 +18,8 @@ translationtype: HT
 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。 此信息适用于 Office 产品（包括 OneDrive for Business，这将 SharePoint 也计入在内）。
 
 你可以通过云解决方案提供商计划查看所有客户的数据。 请注意，某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证，在此情况下，你将看到所有合作伙伴的许可证总数。 若要仅查看你自己的许可证，请改为转到客户的订阅。
+
+>**注意**<br> 目前，我们仅显示 Office 365 和 Dynamics 365 的数据。 将来，我们将会启用其他产品的数据。
 
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 

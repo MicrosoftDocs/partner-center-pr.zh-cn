@@ -1,33 +1,31 @@
 ---
-title: Partner with indirect resellers in CSP | Partner Center
-description: As an indirect provider, or distributor, you can partner with indirect resellers to expand your reach.
+title: "与云解决方案提供商计划中的间接经销商合作 |合作伙伴中心"
+description: "作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。"
 author: MaggiePucciEvans
-ms.openlocfilehash: 85dd503529bda8ef5fa5d67ea04a7aafd85debe1
-ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
+ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
+ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/16/2017
+ms.lasthandoff: 11/03/2017
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Partner with indirect resellers in the Cloud Solution Provider program
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
-With such a complex and rapidly changing technology marketplace, customers want the competitive edge that technology solutions can give them. In such a climate, it makes sense for partners to invest in partner-to-partner engagement to extend offerings and enable customers to do even more.
+面对如此复杂且瞬息万变的技术市场，客户希望技术解决方案可以给他们带来竞争优势。 在这样的环境下，合作伙伴投资于合作伙伴之间的参与活动以扩大产品/服务范围并使客户能够做更多工作，这是有意义的。
 
-New resellers are entering the market and seeking ways to offer their solutions to customers outside of their markets and locales. As an established technology provider, you're well-positioned to be their route to market. Partner with indirect resellers in the Cloud Solution Provider (CSP) program to connect with other partners, bring new solutions to the market, and advance customers’ adoption of cloud services.
+新经销商正在进入市场，并想方设法向其市场和区域之外的客户提供他们的解决方案。 作为公认的技术提供商，你完全有能力为他们开拓市场。 与云解决方案提供商 (CSP) 计划中的间接经销商合作以与其他合作伙伴联系，为市场提供新解决方案，并促进客户采用云服务。
 
-In the indirect provider-reseller (two-tier) model, you partner with indirect resellers to offer Microsoft cloud solutions to customers. You purchase products and subscriptions directly from Microsoft and then offer these solutions to customers through your resellers. 
+在间接提供商-经销商（双层）模型中，你可以与间接经销商合作以向客户提供 Microsoft 云解决方案。 你可以直接从 Microsoft 购买产品和订阅，然后通过你的经销商向客户提供这些解决方案。 
 
-As an indirect provider, you use Partner Center to:
+作为间接提供商，你可以使用合作伙伴中心：
 
--   Connect with indirect resellers who can help expand your reach and customer base
--   Establish partnerships with indirect resellers that allow you both to serve common customers
--   Designate indirect resellers to manage specific customers and subscriptions 
--   Manage your relationships with Microsoft, customers, and indirect resellers all in one place
--   列入 [Microsoft 官方间接提供商列表](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) 
-
+-   与可以帮助扩大你的影响和客户群的间接经销商联系
+-   与间接经销商建立合作关系，以便你们都可以为共同的客户提供服务
+-   指定间接经销商以管理特定的客户和订阅 
+-   全部在一个地方管理你与 Microsoft、客户和间接经销商之间的关系
 
 有关云解决方案提供商计划中的间接模型的详细信息，请参阅 [Microsoft 合作伙伴网络网站]( https://partner.microsoft.com)上的[浏览间接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。 
 
-## <a name="indirect-provider-tasks-on-partner-center"></a>Indirect provider tasks on Partner Center
+## <a name="indirect-provider-tasks-on-partner-center"></a>合作伙伴中心上的间接提供商任务
 
 完成以下步骤以在合作伙伴中心与间接经销商和客户建立关系并对关系进行管理。 以下更详细地描述了第 2 步和第 3 步。
 
@@ -37,95 +35,95 @@ As an indirect provider, you use Partner Center to:
 
 2.  与间接经销商联系
 
-    - Before you can interact and transact with resellers, you must establish partnerships with them in Partner Center. <br>
+    - 在与经销商交往和交易之前，你必须在合作伙伴中心与他们建立合作关系。 <br>
 
-3.  Connect with customers
+3.  与客户联系
 
-    - Associate new customers and subscriptions to resellers
-    - Establish reseller relationships with existing customers <br>
+    - 将新客户和订阅与经销商相关联
+    - 与现有客户建立经销商关系 <br>
 
-After you complete these steps, you can manage your reseller partnerships on the **Indirect resellers** page from your **Dashboard** menu.
+完成这些步骤后，你可以利用**仪表板**菜单在**间接经销商**页面上管理你的经销商合作关系。
 
->**Important**<br> Before you can start working with resellers on Partner Center, they must be enrolled as indirect resellers in the CSP program and have Partner Center accounts. Point your resellers to [Partner with indirect providers in CSP](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md) for information about enrolling in CSP. 
+>**重要提示**<br> 在你开始与合作伙伴中心中的经销商合作之前，他们必须在云解决方案提供商计划中注册为间接经销商并且必须具有合作伙伴中心帐户。 指引你的经销商访问[与云解决方案提供商计划中的间接提供商合作](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，使其了解关于注册云解决方案提供商计划的信息。 
 
-## <a name="connect-with-indirect-resellers"></a>Connect with indirect resellers
+## <a name="connect-with-indirect-resellers"></a>与间接经销商联系
 
-To interact and transact with indirect resellers in Partner Center, you must establish a partnership with them. Having a partnership with an indirect reseller allows you and the reseller to both serve common customers.
+若要与合作伙伴中心中的间接经销商交往和交易，你必须与他们建立合作关系。 通过与间接经销商建立合作关系，你和经销商都可以为共同的客户提供服务。
 
-To establish a partnership, email a partnership request to the reseller. Be sure to have the reseller’s email address on hand before you get started. 
+若要建立合作关系，请通过电子邮件向经销商发送合作关系请求。 开始之前，手头上务必要有经销商的电子邮件地址。 
 
-1. Select **Indirect resellers** from your **Dashboard** menu. 
+1. 从你的**仪表板**菜单中选择**间接经销商**。 
 
-2. On the **Indirect resellers** page, select **Request a partnership**. A draft email message appears.
+2. 在**间接经销商**页面上，选择**请求建立合作关系**。 此时将显示草稿电子邮件。
 
-3. Select **Open in email** to open the message in your default email application, or select **Copy to clipboard** to copy and then paste the message into an email. Select **Done** when finished.
+3. 选择**在电子邮件中打开**以在默认的电子邮件应用程序中打开该邮件，或者选择**复制到剪贴板**以复制邮件然后将其粘贴到电子邮件中。 完成后选择**完成**。
 
-   >**Important** You can edit the text in the email message, but be sure to include the link as it is personalized for your Partner Center account.
+   >**重要提示** 你可以编辑电子邮件中的文本，但是请确保包含链接，因为它针对你的合作伙伴中心帐户进行了个性化设置。
 
-4. After the reseller accepts your partnership request, they’ll appear in your indirect resellers list, and you’ll be able to: 
+4. 在经销商接受你的合作关系请求后，经销商将显示在间接经销商列表中，并且你将能够： 
 
-    -   Add new customers on their behalf
-    -   Submit orders on behalf of their customers 
-    -   Associate them with a subscription so they can manage it on behalf of the customer who purchased it
-    -   Designate them as the customer’s support contact for specific subscriptions
+    -   代表他们添加新客户
+    -   代表其客户提交订单 
+    -   将他们与订阅相关联，以便他们可以代表购买订阅的客户管理订阅
+    -   将他们指定为客户的特定订阅支持联系人
 
-Depending on the level of access and involvement you want the reseller to have, you may want to take one or more of the actions described below.
+根据你希望经销商拥有的访问和参与级别，你可能需要执行以下所述的一项或多项操作。
 
-| **To accomplish this** | **Do this** | **Where** |
+| **若要完成此操作** | **执行此操作** | **位置** |
 |   ------------------   |   -------   |   -----   |
-| Enable the reseller to manage a customer’s account and have administrator permissions to manage their subscriptions | Associate a reseller to a customer account when adding a new customer | On the **New customer** page |
-| Give the reseller credit for incentives | Associate the reseller to the subscription (new or existing) | On the **New subscription** page |
-| Delegate customer support for specific subscriptions to the reseller | Select the reseller from the **Designated support contact** list | On the subscription’s detail page: Select the customer from your **Customers** page, then select the subscription from the customer’s **Subscriptions** page |
+| 使经销商能够管理客户的帐户并且具有管理员权限以管理其订阅 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
+| 给予经销商信用奖励 | 将经销商与（新的或现有的）订阅相关联 | 在**新建订阅**页面上 |
+| 委派经销商作为特定订阅的客户支持 | 从**指定支持联系人**列表中选择经销商 | 在订阅的详细信息页面上：从你的**客户**页面中选择客户，然后从客户的**订阅**页面中选择订阅 |
 
 
-## <a name="connect-with-customers"></a>Connect with customers
+## <a name="connect-with-customers"></a>与客户联系
 
-When you get new customers, you need to create accounts for them in Partner Center. When you add a new customer account, you can designate a specific reseller to manage the account and administer the customers’ subscriptions and services on their behalf. 
+当你获得新客户时，你需要在合作伙伴中心为其创建帐户。 当你添加新客户帐户时，你可以指定特定经销商来管理帐户并代表客户管理他们的订阅和服务。 
 
-When you associate a reseller with a new customer account, you are delegating account and subscription management to the reseller. This means that the reseller has administrator access to the customer’s subscriptions and services and can manage them on behalf of the customer.
+将经销商与新客户帐户相关联时，就会委派经销商来管理帐户和订阅。 这意味着经销商对客户的订阅和服务具有管理员访问权限，并且可以代表客户对其进行管理。
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Add new customers and associate them with indirect resellers
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>添加新客户并将他们与间接经销商相关联
 
-1.  Select **Indirect resellers** from your **Dashboard** menu. 
+1.  从你的**仪表板**菜单中选择**间接经销商**。 
 
-2.  Find the indirect reseller that you want to assign new customers to and then select **Add new customer**. Note that the indirect reseller is already selected for you on the customer detail form. Provide the customer’s details and then select **Next: Subscriptions** . 
-3.  On the **New subscription** page, select the subscription(s) the customer wants to buy and then enter the number of licenses the customer needs. 
+2.  查找想要为其分配新客户的间接经销商，然后选择**添加新客户**。 请注意，已在客户详细信息表单上为你选择了间接经销商。 提供客户的详细信息，然后选择**下一步: 订阅**。 
+3.  在**新订阅**页面上，选择客户想要购买的订阅，然后输入客户需要的许可证数。 
 
-4.  Select **Next: Review**.
+4.  选择**下一步: 审查**。
 
-5.  If the order is correct, select **Submit**. 如果订单不正确，请选择**取消**以取消整个操作并重新开始。
+5.  如果订单正确，请选择**提交**。 如果订单不正确，请选择**取消**以取消整个操作并重新开始。
 
-6.  在你提交订单之后，将会出现**确认**页面。 **设置信息**下面显示了管理员用户帐户名称和临时密码。 Copy down the user account name and password information so you can send it on to the new customer. 
+6.  在你提交订单之后，将会出现**确认**页面。 **设置信息**下面显示了管理员用户帐户名称和临时密码。 记下用户帐户名称和密码信息，以便你可以将其发送给新客户。 
 
-    >**Important**  Be sure to make a note of the user account name and password as you won’t be able to access this information again after you close this page.
+    >**重要提示**  请务必记下用户帐户名称和密码，因为在关闭此页面后，你将无法再次访问该信息。
 
-7.  Select **Done**. The new customer appears in your customer list, associated with the indirect reseller. The reseller now has admin access to the customer’s account information and subscriptions and can manage the subscriptions on the customer’s behalf.
+7.  选择**完成**。 新客户将出现在与间接经销商相关联的客户列表中。 经销商现在对客户的帐户信息和订阅具有管理员访问权限，并且可以代表客户管理订阅。
 
-### <a name="add-new-subscriptions-to-customer-accounts"></a>Add new subscriptions to customer accounts
+### <a name="add-new-subscriptions-to-customer-accounts"></a>将新订阅添加到客户帐户
 
-When customers want to buy new subscriptions, upgrade existing ones, or buy additional licenses, you make these changes in the customer’s account. 
+当客户想要购买新订阅、升级现有订阅或购买额外的许可证时，你可以在客户的帐户中进行这些更改。 
 
-1.  Select **Customers** from your **Dashboard** menu. 
+1.  从**仪表板**菜单中选择**客户**。 
 
-2.  Find the customer whose account you want to change. You can filter the list by indirect reseller to narrow your choices. Expand the customer’s record by selecting the down arrow, and then selecting **Add subscription**.
+2.  查找你想要更改其帐户的客户。 你可以按间接经销商筛选列表以缩小你的选择范围。 通过选择向下箭头，然后选择**添加订阅**来扩展客户记录。
 
-3.  On the **New subscription** page, select the subscription(s) and enter the number of licenses the customer wants to purchase. 
+3.  在**新订阅**页面上，选择订阅，输入客户希望购买的许可证数。 
 
-4.  To associate the subscription with a reseller, select the reseller’s name from the list and then select **Submit**. Associating the reseller with the subscription enables them to earn incentives, if applicable.
+4.  若要将订阅与经销商相关联，请从列表中选择经销商的名称，然后选择**提交**。 将经销商与订阅相关联可以让他们赢取奖励（如果适用）。
 
-5.  The new subscription(s) appears in the customer’s subscriptions list. 
+5.  新订阅会出现在客户的订阅列表中。 
 
-6.  If you want the reseller to handle customer support requests for the new subscription, select the subscription and then select the reseller from the **Designated support contact** list.
+6.  如果你希望经销商处理新订阅的客户支持请求，请选择该订阅，然后从**指定支持联系人**列表中选择经销商。
 
-7.  Select **Submit** when finished. 
+7.  完成后选择**提交**。 
 
-## <a name="see-also"></a>See also
+## <a name="see-also"></a>另请参阅
 
-For more information about managing customer accounts and subscriptions, see:
+有关管理客户帐户和订阅的详细信息，请参阅：
 
-[Customer accounts](customer-accounts.md)
+[客户帐户](customer-accounts.md)
 
-[Customer subscriptions](customer-subscriptions.md)
+[客户订阅](customer-subscriptions.md)
 
 
 

@@ -2,11 +2,11 @@
 title: "创建合作伙伴中心帐户 | 合作伙伴中心"
 description: "了解如何在合作伙伴中心管理你的 Microsoft 合作伙伴网络成员身份、产品/服务和权益。"
 author: MaggiePucciEvans
-ms.openlocfilehash: a69cee525d9abdde2b02f6fac3353415a699f3d5
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
+ms.openlocfilehash: 819570228cb86157915bfc00c67e45615bd44ca7
+ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 11/01/2017
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -25,15 +25,15 @@ ms.lasthandoff: 07/08/2017
 
 -   购买成员身份权益产品/服务，包括 Microsoft Action Pack 
 
--   Activate and manage your network membership benefits
+-   激活并管理你的网络成员身份权益
 
 ## <a name="before-you-begin"></a>开始之前
 
 要在合作伙伴中心创建帐户，需要了解以下信息： 在开始之前，你可能需要几分钟时间收集这些信息：
 
--   贵公司的 Microsoft Azure Active Directory (Azure AD) 租户的全局管理员凭据。 如果不确定贵公司是否有 Azure AD 租户，请参阅 [Azure Active Directory 租户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
+-   全局管理员工作电子邮件。 如果不确定贵公司的工作帐户是什么，请参阅 [Azure Active Directory 租户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
 
-    如果贵公司还没有 Azure AD 租户，可以在帐户创建过程中创建一个。 
+    如果贵公司还没有工作帐户，可以在帐户创建过程中创建一个。 
 
 -   贵公司的法定公司名称、地址和主要联系人。 我们需要此信息以确认贵公司已建立配置文件，并且你有权代表公司行事。 
 
@@ -41,17 +41,17 @@ ms.lasthandoff: 07/08/2017
 
 -   你想要其作为主要联系人的人员的姓名和企业电子邮件。 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
 
-We’ll verify this information during the account creation process. 
+我们将在帐户创建过程中验证此信息。 
  
 ## <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
 1.  查看**欢迎**页面上的信息，然后选择**下一步**。
 
-2.  作为全局管理员登录到贵公司的 Azure AD 租户。 如果不确定你的公司是否有 Azure AD 租户，请参阅 [Azure Active Directory 租户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
+2.  以全局管理员身份用你的工作电子邮件登录。 如果不确定贵公司的工作帐户是什么，请参阅 [Azure Active Directory 租户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
 
-    如果你知道贵组织有 Azure AD 租户，请选择**登录到 Azure AD**。 在下一页上，输入贵公司的租户的全局管理员凭据。 
+    如果你知道贵公司有工作电子邮件帐户，请选择**登录到 Azure AD**。 在下一页上，输入贵公司的租户的全局管理员凭据。 
 
-    如果贵公司没有 Azure AD 租户，请选择**创建新租户**立即设置一个租户。 设置 Azure AD 租户后，使用新租户的全局管理员凭据登录。
+    如果贵公司没有工作帐户，请选择**创建新租户**立即设置一个租户。 设置 Azure AD 租户（工作帐户）后，使用新工作电子邮件帐户的全局管理员凭据登录。
 
 3.  提供或更新公司的法定公司配置文件和主要联系人信息，然后选择**立即注册**。 
 
@@ -59,9 +59,9 @@ We’ll verify this information during the account creation process.
 
     >**重要提示**<br> 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
 
-4.  Read and accept the terms and conditions in the Microsoft Partner Network agreement. 
+4.  阅读并接受 Microsoft 合作伙伴网络协议中的条款和条件。 
 
-5.  Verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+5.  验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
     a. 在**仪表板**菜单上，选择**帐户设置 > 用户管理**，并从用户列表中选择你的姓名。 
 

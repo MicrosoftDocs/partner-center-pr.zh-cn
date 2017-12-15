@@ -1,13 +1,13 @@
 ---
-title: "创建市场营销配置文件 | 合作伙伴中心"
-description: "通过在合作伙伴中心创建营销配置文件来吸引更多潜在客户。"
+title: "创建业务配置文件 | 合作伙伴中心"
+description: "通过在合作伙伴中心创建业务配置文件来吸引更多潜在客户。"
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
-ms.openlocfilehash: b4ff498f7c44e4f2fcb49cb5e4c1d659175ac60a
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+ms.openlocfilehash: edcecf3372453e17d85017a93a258919e29d6608
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 11/22/2017
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -18,22 +18,23 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
  -->
 
 
-# <a name="create-a-marketing-profile"></a>创建市场营销配置文件
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>创建业务配置文件以从 Microsoft 获取销售线索
 
 **适用于**
 
 -  合作伙伴中心
 
-作为合格的 Microsoft 合作伙伴，你可以创建营销配置文件，以向正在寻找独特解决方案和专长来满足其业务需求的客户展示你的业务。
+作为合格的 Microsoft 合作伙伴，你可以创建业务配置文件，以向正在寻找独特解决方案和专长来满足其业务需求的客户展示你的业务。
 
 Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 其中大多数参与活动为我们创造了以潜在销售顾客形式向合作伙伴提供引荐的机会。 
 
-获取这些潜在顾客的第一步是创建一个营销配置文件。 当客户正在通过以下方式搜寻能够帮助他们实施 Microsoft 产品和解决方案的合作伙伴时，我们将向客户显示你的配置文件：
+获取这些潜在顾客的第一步是创建一个业务配置文件。 当客户正在通过以下方式搜寻能够帮助他们实施 Microsoft 产品和解决方案的合作伙伴时，我们将向客户显示你的配置文件：
 
-*  **[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索体验**。 潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。 
+*  **[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)搜索体验**。 潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。
+
 *  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 以后，这些 Microsoft 专业人员可以向贵公司推荐潜在客户。
 
-**Pinpoint 和 C2PC**：我们正在将这些工具合并到合作伙伴中心。 如果你过去使用过这些工具，请在合作伙伴中心创建一个新的营销配置文件，以继续生成并管理你的潜在销售顾客。 请注意，我们目前不支持从以前的站点导入配置文件。 
+**Pinpoint 和 C2PC**：我们正在将这些工具合并到合作伙伴中心。 如果你过去使用过这些工具，请在合作伙伴中心创建一个新的业务配置文件，以继续生成并管理你的潜在销售顾客。 请注意，我们目前不支持从以前的站点导入配置文件。 
 
 ## <a name="create-a-profile"></a>创建配置文件
 
@@ -41,9 +42,9 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 1.  使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴中心](http://go.microsoft.com/fwlink/p/?LinkId=808956)。
 
-2.  从**仪表板**菜单中选择**引荐** &gt; **查看营销配置文件** &gt; 选择一个国家/地区 > **[创建营销配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
+2.  从**仪表板**菜单中选择**引荐** &gt; **查看业务配置文件** &gt; 选择一个国家/地区 > **[创建业务配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
 
-3.  在**创建营销配置文件**页面中，选择一个地区，然后输入你的配置文件信息。
+3.  在**创建业务配置文件**页面上，选择一个地区，然后输入你的配置文件信息。
     
     请注意，虽然合作伙伴中心支持多种语言，但诸如描述和自由格式标记之类的某些元素可能需要包含不同语言的文本，如本主题中所述。
 

@@ -4,9 +4,10 @@ description: "因为云解决方案提供商是专注于合作伙伴产品转售
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.openlocfilehash: 91a25481aa3074166a2010ef3e309767183829f0
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 

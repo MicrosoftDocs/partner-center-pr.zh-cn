@@ -2,11 +2,11 @@
 title: "美国政府 Microsoft 云合作伙伴中心 |美国政府 Microsoft 云合作伙伴中心"
 description: "美国政府 Microsoft 云合作伙伴中心是想要为与美国政府机构开展合作的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴的业务门户。"
 author: MaggiePucciEvans
-ms.openlocfilehash: a14075bd123a4ac0a531a248a7331f3a59b6c007
-ms.sourcegitcommit: 22ec01fc379e4c98189f5e1ebf5437b5b16d05de
+ms.openlocfilehash: 829c1cdc6568c1bde2e2fff594632acd90a4ee16
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 06/15/2017
 在本文发表时，美国政府 Microsoft 云合作伙伴中心尚未提供下列合作伙伴中心功能（自发表以来，一些功能可能已添加到合作伙伴中心，此列表可能已过时）：
 
 - 查找合作伙伴
-- 市场营销配置文件
+- 业务配置文件
 - 引荐
 - 请求与客户建立经销商关系（多渠道，多合作伙伴）
 - 许可证分析

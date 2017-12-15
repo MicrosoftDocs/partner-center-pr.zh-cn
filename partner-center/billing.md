@@ -1,13 +1,13 @@
 ---
 title: "计费 | 合作伙伴中心"
-Description: "作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。"
+Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
-ms.openlocfilehash: 971416c2fc4ac5fdc88cc6f64878bacf0e5b69ad
-ms.sourcegitcommit: c65facdf2eea370598bf9a10880239676e047c04
+ms.openlocfilehash: 1147875ebe6ed9a7cdb95c4d044833c2f9d1ece0
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="billing"></a>计费
 
@@ -17,9 +17,14 @@ ms.lasthandoff: 10/18/2017
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
+若要查看帐单，请转到**仪表板**菜单，然后选择**计费**以查看你的计费历史记录和趋势、指向发票和对帐文件的链接，以及你的最新付款。
 
-若要查看帐单，请转到**仪表板**菜单，然后选择**计费**。 此计费页显示你的计费历史记录和趋势、指向发票和对帐文件的链接，以及你的最新付款。
+云解决方案提供商计划中选择按月计费的合作伙伴会为其客户的订阅（基于许可证和基于使用情况）向 Microsoft 支付为期 60 天的欠款。
+
+>**注意**<br>
+发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期起四 (4) 天内可提供发票。
+
+用于了解向客户计费的关键信息：
 
 -   Microsoft 对你如何处理你自己的发票没有任何要求。
 -   若要确定客户的使用情况，请使用对帐文件中的“客户 ID/名称”和其他相关字段。
@@ -66,7 +71,7 @@ ms.lasthandoff: 10/18/2017
 <td>日期</td>
 <td><ul>
 <li>每月计费日期是注册时选择的月份中的一天。 Microsoft 将发送一封包含计费日期的确认电子邮件。</li>
-<li>可提前 1 个月查找价目表，价目表每月更新一次。 基于许可证的价格可保证订阅条款，有效期通常为自购买之日起的 12 个月。 基于使用情况的价格可每月更改。 我们将通过发布合作伙伴价目表对任何价格更改公告 30 日。</li>
+<li>可提前一 (1) 个月查找价目表，价目表每月更新一次。 订阅期限内可以保证基于许可证的价格，该期限通常是自购买日期起的 12 个月。 基于使用情况的价格可每月更改。 我们将通过发布合作伙伴价目表对任何价格更改公告 30 日。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,7 +94,7 @@ ms.lasthandoff: 10/18/2017
 <tr class="even">
 <td>发票可用性</td>
 <td><ul>
-<li>可从合作伙伴中心的“计费”页面查看和下载发票和对帐文件。</li>
+<li>可从合作伙伴中心的“计费”页面查看和下载发票和对帐文件。 请注意，从选定计费日期起四 (4) 天内可在合作伙伴中心获得每月发票。</li>
 </ul></td>
 </tr>
 <tr class="odd">

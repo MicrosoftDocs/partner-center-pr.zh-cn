@@ -3,11 +3,11 @@ title: "响应引荐 | 合作伙伴中心"
 description: "通过合作伙伴中心评估、协商和响应引荐。"
 author: KPacquer
 keywords: "引荐, RFI, 查找合作伙伴"
-ms.openlocfilehash: 4662b270e6684b8b7cf2e3e59cc6d8e797aad086
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
+ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
+ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 11/10/2017
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作伙伴中心响应引荐
 
@@ -19,7 +19,7 @@ ms.lasthandoff: 07/07/2017
 
 ## <a name="referral-management"></a>引荐管理
 
-首先为你开展业务所在的每个区域设置[营销配置文件](create-a-marketing-profile.md)。 一旦你的配置文件处于活动状态，我们就可以通过以下方式为你的业务推荐客户：
+首先为你开展业务所在的每个区域设置[业务配置文件](create-a-marketing-profile.md)。 一旦你的配置文件处于活动状态，我们就可以通过以下方式为你的业务推荐客户：
 
 *  Microsoft 营销活动
 *  内部 Microsoft 销售和服务代理
@@ -27,7 +27,7 @@ ms.lasthandoff: 07/07/2017
 
 当客户有兴趣与你联系时，他们将提交信息请求 (RFI)。 
 
-发生这种情况时，我们会将电子邮件发送给特定于选定区域和位置的[营销配置文件](create-a-marketing-profile.md)中列出的联系人。 你也可以在合作伙伴中心查看传入的 RFI：转到**仪表板 > 引荐 > 客户引荐**。
+发生这种情况时，我们会将电子邮件发送给特定于选定区域和位置的[业务配置文件](create-a-marketing-profile.md)中列出的联系人。 你也可以在合作伙伴中心查看传入的 RFI：转到**仪表板 > 引荐 > 客户引荐**。
 
 客户通常会选择同时向多家公司发送相同的 RFI。 为了提高你成功的可能性，建议你在 24 小时或更短时间内响应并接受或拒绝新引荐。
 
@@ -59,9 +59,9 @@ ms.lasthandoff: 07/07/2017
 
 下面是一些提示，有助于确保你将获得更多适合你的业务的引荐：
 
-*  **查看[营销配置文件](create-a-marketing-profile.md)**中每个位置的联系人信息，以确保你的团队能够收到传入的警报。
+*  **查看[业务配置文件](create-a-marketing-profile.md)**中每个位置的联系人信息，以确保你的团队能够收到传入的警报。
 
-*  ****在你的[营销配置文件](create-a-marketing-profile.md)中选择表示你的独特专长和业务模型的关键字和首选项。 删除将产生你不感兴趣的引荐的关键字。 如果你对与某种规模的企业做生意不感兴趣，更新此首选项。
+*  在你的[业务配置文件](create-a-marketing-profile.md)中**选择表示你的独特专长和业务模型的关键字和首选项**。 删除将产生你不感兴趣的引荐的关键字。 如果你对与某种规模的企业做生意不感兴趣，更新此首选项。
 
 *  **快速响应引荐**。 如果你及时响应传入的请求，我们会在将来的客户搜索结果中增加你的可见性。 确保你的团队按照你的意图快速响应。
 

@@ -3,13 +3,13 @@ title: "工作帐户与合作伙伴中心 | 合作伙伴中心"
 description: "如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。"
 author: labrenne
 robots: 
-ms.openlocfilehash: 75d4f4f9665078ab88911b5d7104eb8f5796f4c9
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
+ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 11/22/2017
 ---
-# <a name="your-work-account-and-partner-center"></a>你的工作帐户与合作伙伴中心  
+# <a name="your-company-work-account-and-partner-center"></a>你的公司工作帐户与合作伙伴中心  
 
 **适用范围**
 
@@ -17,7 +17,7 @@ ms.lasthandoff: 10/03/2017
 
 # <a name="why-you-need-a-work-account"></a>需要工作帐户的原因
 
-我们需要将你所在组织的工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以使用其工作帐户用户名和密码登录合作伙伴中心。
+我们需要将你所在公司的工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以使用其工作帐户用户名和密码登录合作伙伴中心。
 
 如果你的公司已经拥有工作帐户，你可以将其链接到你的合作伙伴中心帐户。 
 

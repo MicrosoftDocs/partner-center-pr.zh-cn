@@ -1,27 +1,27 @@
 ---
-title: Partner with indirect providers in CSP | Partner Center
-description: "As an indirect reseller in CSP, you work with indirect providers (also known as distributors) who have a direct relationship with Microsoft and can provide customer support and billing. This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers."
+title: "与云解决方案提供商计划中的间接提供商合作 |合作伙伴中心"
+description: "作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且可以提供客户支持和计费的间接提供商（也称为分销商）合作。 这意味着你不必自己开始，但可以改为与经验丰富的技术提供商合作以帮助确保你取得成功。 在提供商-经销商（双层）模型中，提供商购买你转售给客户的 Microsoft 云解决方案和服务。"
 ms.prod: 
 author: MaggiePucciEvans
-ms.openlocfilehash: 2b2b8fc3a58a3ff67c1a96558df49a594fe8e74f
-ms.sourcegitcommit: e79f756c7203751b8fd6ad26883a0568c91a6c8b
+ms.openlocfilehash: 1ee00b2fae46c49eaf7df2b0f2d6329231f2e4ab
+ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/16/2017
+ms.lasthandoff: 11/10/2017
 ---
-# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Partner with indirect providers in the Cloud Solution Provider program
+# <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 
-The rapidly growing demand for cloud-based solutions and services provides many opportunities for Microsoft partners of all sizes to build profitable cloud solution businesses. 准备进入市场但不想必须管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
+对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想必须管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
 
-作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且能够为你提供客户支持和计费的间接提供商（也称为分销商）合作。 This means you don’t have to begin on your own but can instead work with an experienced technology provider to help ensure your success. In the provider-reseller (two-tier) model, the provider buys cloud solutions and services from Microsoft that you resell to customers.
+作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且能够为你提供客户支持和计费的间接提供商（也称为分销商）合作。 这意味着你不必自己开始，但可以改为与经验丰富的技术提供商合作以帮助确保你取得成功。 在提供商-经销商（双层）模型中，提供商购买你转售给客户的 Microsoft 云解决方案和服务。
 
-Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs. Generally, most providers will: 
+不同的间接提供商会提供不同的支持和服务，因此你应该评估你所在地区中的提供商，以确定哪些提供商最能够满足你的需求。 通常，大多数提供商将： 
 
 -   为你提供技术培训和援助
 -   帮助你推销你的产品和服务 
 -   帮助你确定融资和信贷条款
 
-If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one.
+如果你尚未与提供商（也称为分销商）合作，则可以[搜索官方 Microsoft 提供商的列表](https://partnercenter.microsoft.com/en-us/partner/find-a-provider)以查找一个提供商。
 
 
 有关作为间接经销商在云解决方案提供商计划中进行销售需要什么的更多信息，请参阅[Microsoft 合作伙伴网络网站](https://partner.microsoft.com/)上的[间接经销商入门](https://partner.microsoft.com/cloud-solution-provider/whats-required)。 
@@ -29,27 +29,27 @@ If you’re not already working with a provider (also known as a distributor), y
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>注册为云解决方案提供商计划中的间接经销商
 
->**Note**  If you are already enrolled in CSP, you may need to provide only customer support contact information to create a reseller account on Partner Center. 
+>**注意**  如果你已注册云解决方案提供商计划，则可能只需提供客户支持联系人信息，即可在合作伙伴中心创建经销商帐户。 
 
-### <a name="before-you-begin"></a>Before you begin
+### <a name="before-you-begin"></a>开始之前
 
-If you are new to CSP, you’ll need to enroll in the program as an indirect reseller and create an account on Partner Center. To do so, you’ll need to provide the following information during the enrollment process. You may want to take a few minutes to gather these items before you get started:
+如果你不熟悉云解决方案提供商计划，你将需要作为间接经销商注册该计划并在合作伙伴中心创建帐户。 为此，你需要在注册过程中提供以下信息。 你可能需要在开始之前花几分钟时间来收集以下各项内容：
 
 -   **你的工作帐户的全局管理员凭据**<br>
 你将需要提供用于登录 Office 365、Microsoft Azure 或 Microsoft Dynamics CRM 的用户名和密码。 如果你没有工作帐户，可以在注册过程中创建一个。 如果你不知道是否具有工作帐户，请参阅[工作帐户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
 
 
 -   **用于登录到 Partner Membership Center 站点的用户名和密码**<br>
-We use this information to link your organization's Microsoft Partner Network ID (MPN ID) with your new Partner Center account so that you can manage your membership benefits and data in Partner Center.
+我们使用此信息将你的组织 Microsoft 合作伙伴网络 ID (MPN ID) 与你的新合作伙伴中心帐户进行链接，以便你可以在合作伙伴中心管理成员身份权益和数据。
 
--   **Your organization’s legal business name, address, primary contact, and support details**<br>
-We need this information to confirm that your organization has an established profile with Microsoft and that you are authorized to act on its behalf.
+-   **你的组织的法定公司名称、地址、主要联系人和支持详细信息**<br>
+我们需要此信息以确认你的组织已建立与 Microsoft 相关的配置文件，并且你有权代表组织行事。
  
-Please note that it can take us several days to review and verify the information you’ve provided. We’ll email your primary contact when we’ve completed our review.
+请注意，我们可能需要几天时间来审查并验证你所提供的信息。 完成审查后，我们将通过电子邮件通知你的主要联系人。
 
-### <a name="get-started"></a>Get started
+### <a name="get-started"></a>立即开始
 
-1.  Kick off the enrollment process [here](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller).
+1.  在[此处](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)开始执行注册过程。
 
 2.  查看**欢迎**页面，以确保你具有注册所需的信息，然后选择**下一步**。
 
@@ -57,47 +57,47 @@ Please note that it can take us several days to review and verify the informatio
 
     如果你没有工作帐户，则选择**创建一个**，立即设置一个工作帐户。 创建了工作帐户后，使用新帐户的全局管理员凭据登录。
 
-4.  查看有关如何将你的 Microsoft 合作伙伴网络 ID (MPN ID) 与你的新合作伙伴中心帐户相关联的信息。 We need to link your organization's MPN ID with your new Partner Center account so that you can manage your membership benefits and incentives on Partner Center. Select **Sign in**.
+4.  查看有关如何将你的 Microsoft 合作伙伴网络 ID (MPN ID) 与你的新合作伙伴中心帐户相关联的信息。 我们需要将你组织的 MPN ID 与你的新合作伙伴中心帐户关联，以便你可以在合作伙伴中心管理你的成员身份权益和奖励。 选择**登录**。
 
-5.  Enter the user name you use to sign in to the Partner Membership Center (PMC) site. The Partner Membership Center site is where you currently manage your Microsoft partner account. Signing in to Partner Membership Center allows us to retrieve your MPN ID and associate it to your new Partner Center account. Select **Next**. 
+5.  输入你登录到 Partner Membership Center (PMC) 站点所使用的用户名。 Partner Membership Center 站点是你当前管理 Microsoft 合作伙伴帐户的位置。 登录到 Partner Membership Center 后，我们可以检索你的 MPN ID，并将其与你的新合作伙伴中心帐户相关联。 选择**下一步** 。 
 
-6.  Enter the password for your Partner Membership Center account and then select **Sign in**.
+6.  输入 Partner Membership Center 帐户的密码，然后选择**登录**。
 
-7.  Select the organization profile with the MPN ID that’s linked to your incentives, membership benefits, and competencies so we can move this information to your Partner Center account. Select **Continue**.
+7.  选择 MPN ID 已链接至奖励、成员身份权益和能力的组织配置文件，以便我们可以将此信息移到你的合作伙伴中心帐户。 选择**继续**。
 
-    If the MPN ID you want to use is not listed on this page, select **Cancel** and sign in again with the user name and password for the organization profile you want to use. 
+    如果此页面上未列出你想要使用的 MPN ID，请选择**取消**，并使用你想要使用的组织配置文件的用户名和密码重新登录。 
 
-    >**Important**  Select the MPN ID associated with an active organization profile that’s located in the same country/region as your Azure AD tenant.
+    >**重要提示**  选择与活动组织配置文件（与 Azure AD 租户位于同一国家/地区）关联的 MPN ID。
 
-8.  Provide or update your organization’s legal business profile, primary contact information, and customer support information. Select **Enroll now**.
+8.  提供或更新你的组织的法定公司配置文件、主要联系人信息和客户支持信息。 选择**立即注册**。
 
-    The primary contact should be the person in your organization we can contact about your application (this can be you or another person in your organization). 请注意，我们不接受来自 Gmail、Yahoo! Mail、iCloud Mail、AOL Mail 或 Outlook Mail 等基于 Web 的电子邮件服务的电子邮件地址。 
+    主要联系人应是组织中我们可以就应用程序事宜与之联系的人员（这可能是你或你组织中的其他人）。 请注意，我们不接受来自 Gmail、Yahoo! Mail、iCloud Mail、AOL Mail 或 Outlook Mail 等基于 Web 的电子邮件服务的电子邮件地址。 
 
-    >**Important** To help ensure your organization’s security and privacy, we’ll email your primary contact to verify that (1) he or she signed up for a Partner Center account, and (2) that this email address belongs to your organization. After the primary contact verifies his or her email address, we’ll continue our review of the information you provided. We’ll email enrollment status updates to the primary contact.
+    >**重要提示** 为了帮助保证组织的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于你的组织。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。 我们将通过电子邮件将注册状态更新发送给主要联系人。
 
-9.  When your Partner Center account is ready to use, verify that you’ve been added to the admin agent group. To finish setting up your account, including adding other users, you must have admin agent permissions. Follow these steps to view or update your permissions:
+9.  当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-    a.  On the **Dashboard** menu, select **Account settings > User management** and select your name from the users list. 
+    a.  在**仪表板**菜单上，选择**帐户设置 > 用户管理**，并从用户列表中选择你的姓名。 
 
     b.  如果还没有选择**管理员代理**，请选择它，然后选择**更新**。   
 
 ## <a name="add-a-new-user"></a>添加新用户
 
-1. On the **Dashboard** menu, select **Account settings > User management**.
+1. 在**仪表板**菜单上，选择**帐户设置 > 用户管理**。
 
-2. Select **Add user**.
+2. 选择**添加用户**。
 
-3. Enter the user’s full name and unique email address.
+3. 输入用户全名和唯一的电子邮件地址。
 
-4. Select the type of agent and the type of admin. Partner Center access is role-based, so you can assign permissions to customize the user's view to show only the features the user needs to complete specific tasks. For more information about what each role can do, see [Assign user permissions](#assignuserpermissions).
+4. 选择代理类型和管理员类型。合作伙伴中心访问权限基于角色，因此你可以分配自定义用户视图的权限，以仅显示用户完成特定任务所需的功能。 有关每个角色可以执行哪些操作的详细信息，请参阅[分配用户权限](#assignuserpermissions)。
 
-5. Select **Add** to create the user account. Confirm the user's details on the next page.
+5. 选择**添加**，创建用户帐户。 在下一页上确认用户的详细信息。
 
 
->**Important**<br>
-Make a note of the new user's sign-in information displayed on this page. Be sure to copy and send this information to the new user as you will not be able to access it again later. <br>
+>**重要提示**<br>
+记下此页面上显示的新用户的登录信息。 确保复制这些信息并将其发送给新用户，因为你以后无法再次访问该信息。 <br>
 
->The user will need to sign in to Partner Center with their user name and temporary password. 当用户首次登录到合作伙伴中心时，会提示他们更改密码。        
+>用户将需要使用其用户名和临时密码来登录合作伙伴中心。 当用户首次登录到合作伙伴中心时，会提示他们更改密码。        
 
 ## <a name="assign-user-permissions"></a>分配用户权限
 
@@ -119,9 +119,9 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Role in Partner Center</strong></p></td>
-<td><p><strong>What they can do</strong></p></td>
-<td><p><strong>What they can't do</strong></p></td>
+<td><p><strong>合作伙伴中心中的角色</strong></p></td>
+<td><p><strong>他们可以执行的操作</strong></p></td>
+<td><p><strong>他们不可以执行的操作</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>管理员代理</strong></p></td>
@@ -140,8 +140,8 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 <td><ul>
 <li><p>搜索和查看客户</p></li>
 <li><p>服务运行状况</p></li>
-<li><p>Request support on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
-<li><p>Manage subscriptions and services on behalf of customers (Note: You must be an admin agent to complete this task for Office 365 subscriptions)</p></li>
+<li><p>代表客户请求支持（请注意：你必须是管理员代理才能完成此 Office 365 订阅任务）</p></li>
+<li><p>代表客户管理订阅和服务（请注意：你必须是管理员代理才能完成此 Office 365 订阅任务）</p></li>
 </ul></td>
 <td><ul>
 <li><p>查看合作伙伴配置文件</p></li>
@@ -152,7 +152,7 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 <tr class="even">
 <td><p><strong>全局管理员</strong></p></td>
 <td><ul>
-<li><p>Can access all Microsoft account/services with full privileges</p></li>
+<li><p>具有可以访问所有 Microsoft 帐户/服务的完整权限</p></li>
 <li><p>创建合作伙伴中心的支持票证</p></li>
 <li><p>查看、创建和管理合作伙伴用户</p></li>
 <li><p>接受间接提供商提出的合作请求</p></li>
@@ -162,7 +162,7 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 <tr class="odd">
 <td><p><strong>用户管理管理员</strong></p></td>
 <td><ul>
-<li><p>View, create, and manage users</p></li>
+<li><p>查看、创建和管理用户</p></li>
 <li><p>查看所有合作伙伴配置文件</p></li>
 </ul></td>
 <td></td>
@@ -174,25 +174,25 @@ Make a note of the new user's sign-in information displayed on this page. Be sur
 
 通过与间接提供商合作，你可以为客户提供选择范围更广的 Microsoft 基于云的服务和解决方案。 间接提供商部署了系统和基础结构来为你提供稳健型计费和支持，以便你可以专注于你的技术解决方案和客户参与活动。 
 
-If you’re not already working with a provider (also known as a distributor), you can [search the list of official Microsoft providers](https://partnercenter.microsoft.com/en-us/partner/find-a-provider) to find one. When you find a provider you want to partner with, contact them directly to discuss their reseller programs, level of support, and terms. If both you and the provider want to work together, you’ll need to connect your accounts on Partner Center. 
+如果你尚未与提供商（也称为分销商）合作，则可以[搜索官方 Microsoft 提供商的列表](https://partnercenter.microsoft.com/en-us/partner/find-a-provider)以查找一个提供商。 当你查找要与其合作的提供商时，请直接与他们联系，以讨论其经销商计划、支持级别和条款。 如果你和提供商都希望合作，则你将需要在合作伙伴中心上与你的客户联系。 
 
-If an indirect provider wants to connect with you on Partner Center, they’ll kick off the following workflow:
+如果间接提供商想要在合作伙伴中心与你联系，则他们将开始执行以下工作流程：
 
-1.  The indirect provider emails you an invitation to authorize them to be your indirect provider. The email includes a link to Partner Center and will associate your account to the provider’s account.
+1.  间接提供商通过电子邮件向你发送一项请求准许成为你的间接提供商的邀请。 此电子邮件包括指向合作伙伴中心的链接，并且会将你的帐户与提供商的帐户相关联。
 
-2.  To accept the invitation, follow the link in the provider’s email. You may need to sign in to Partner Center again.
+2.  若要接受邀请，请按照提供商电子邮件内链接中的说明操作。 你可能需要重新登录到合作伙伴中心。
 
-3.  To confirm the partnership with the provider, check the box and then select **Authorize indirect provider**. The provider is now listed on your **Indirect providers** page and your company is now listed on the provider's **Indirect resellers** page.
+3.  若要确认与提供商合作，请选中此框，然后选择**批准间接提供商**。 该提供商现在已列在你的**间接提供商**页面中，你的公司现在已列在提供商的**间接经销商**页面中。
 
-    >**Note**  When you establish a partnership with an indirect provider, you’re authorizing them to submit orders and add subscriptions on behalf of your customers, and you’re granting them administrator access to your Azure AD tenant.
+    >**注意**  当你与间接提供商建立合作关系时，你将授权他们代表客户提交订单和添加订阅，并授予他们对 Azure AD 租户的管理员访问权限。
 
-4.  Select **Indirect providers** from your **Dashboard** menu to see a list of the providers you have a partnership with. 
+4.  从你的**仪表板**菜单中选择**间接提供商**，以查看与你合作的提供商的列表。 
 
 5.  选择**查看客户**以查看你和提供商共有的客户的列表。
 
 6.  选择**邀请新客户**以请求新客户授权同时与你和你的间接提供商建立经销商关系。 手头上一定要有客户的电子邮件地址，以便你可以通过电子邮件向他们发送邀请。  
 
-    >**Important**  Your indirect provider needs to have a reseller relationship with your customers to submit orders on their behalf. 
+    >**重要提示**  你的间接提供商需要与你的客户建立经销商关系以代表其提交订单。 
  
 ## <a name="connect-with-customers"></a>与客户联系
 
@@ -206,11 +206,11 @@ If an indirect provider wants to connect with you on Partner Center, they’ll k
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 
-1.  Select **Customers** from your **Dashboard** menu and then select **Request a reseller relationship**.
+1.  从**仪表板**菜单中选择**客户**，然后选择**请求经销商关系**。
 
-2.  On the next page, review the draft email message. You can open the draft message in email or you can copy the message to your clipboard and paste it into an email. 
+2.  在下一页上，查看草稿电子邮件。 你可以在电子邮件中打开草稿邮件，或者可以将邮件复制到剪贴板并将其粘贴到电子邮件中。 
 
-    You can edit the text in the email, but be sure to include the link as it is personalized to link the customer directly to your account. Select **Done** when you’ve completed this step.
+    你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置以将客户直接链接到你的帐户。 完成此步骤后选择**完成**。
 
 3.  将电子邮件发送到客户。
 
@@ -221,13 +221,13 @@ If an indirect provider wants to connect with you on Partner Center, they’ll k
 
 ### <a name="connect-with-new-customers"></a>与新客户联系
 
-当你吸引新客户时，你将需要在合作伙伴中心与其联系。 You may get new customers through multiple channels, including:
+当你吸引新客户时，你将需要在合作伙伴中心与其联系。 你可以通过多种渠道获取新客户，包括：
 
--   Your own marketing activities
--   Microsoft referrals
--   Indirect providers
+-   你自己的营销活动
+-   Microsoft 引荐
+-   间接提供商
 
-To manage a customer’s subscriptions and services on their behalf, you need to have a reseller relationship with them. 若要允许间接提供商代表你的客户提交订单，间接提供商还必须与他们建立经销商关系。
+若要代表客户管理客户的订阅和服务，你需要与他们建立经销商关系。 若要允许间接提供商代表你的客户提交订单，间接提供商还必须与他们建立经销商关系。
 
 要获取管理员权限来管理新客户的订阅和服务，**以及**允许你的间接提供商代表他们提交新订单，你可以邀请该客户与你和你的间接提供商同时建立经销商关系。 
 
@@ -241,18 +241,18 @@ To manage a customer’s subscriptions and services on their behalf, you need to
 
     你可以在电子邮件中编辑此文本，但请务必包含此链接，因为其进行了个性化设置，可将客户直接链接到你的帐户和你提供商的帐户。 完成此步骤后选择**完成**。
 
-4.  After the customer authorizes you and your provider to be their resellers of record, you’ll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.
+4.  客户准许你和你的提供商成为其备案经销商后，你将具有管理员权限，可以代表他们管理其订阅、许可证和用户，并且你的间接提供商将能够代表他们提交订单。
 
-5.  To manage the customer’s account, services, users, and licenses, expand the customer’s record by selecting the down arrow near their name.
+5.  若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头展开客户的记录。
 
 
-## <a name="next-steps"></a>Next steps
+## <a name="next-steps"></a>后续步骤
 
-[Manage your Partner Center account](partner-center-account-setup.md)
+[管理合作伙伴中心帐户](partner-center-account-setup.md)
 
 [管理客户及其订阅](customer-accounts.md)
 
-[创建营销配置文件](create-a-marketing-profile.md)
+[创建业务配置文件](create-a-marketing-profile.md)
 
 [了解合作伙伴中心上的合作伙伴奖励](manage-your-incentives-in-partner-center.md)
 

@@ -3,11 +3,11 @@ title: "数据中心能力"
 description: "数据中心能力用于认可要将数据中心转变为更具灵活性、可扩展性和成本效益的解决方案的合作伙伴。"
 author: Daniel Simpson
 keywords: "能力, 数据中心"
-ms.openlocfilehash: 1af1a00f68d726377017dffbdc96ed636b027576
-ms.sourcegitcommit: f4b2f1a954e865e56e89d3455f48cb6e1f80ea07
+ms.openlocfilehash: 1a3e4c8b9bb2334e9a500ee7b8c32a184c26124e
+ms.sourcegitcommit: 5d287f46ef841f21e2171498efb2e309662c7965
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2017
+ms.lasthandoff: 11/21/2017
 ---
 #<a name="datacenter"></a>数据中心
 数据中心能力用于认可要将数据中心转变为更具灵活性、可扩展性和成本效益的解决方案的合作伙伴。
@@ -18,14 +18,16 @@ ms.lasthandoff: 09/29/2017
 
     - **System Center** 2012 重点领域
 
-        - [考试 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)：使用 System Center 2012 监视和运行私有云
-        - [考试 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)：使用 System Center 2012 配置和部署私有云
+        - [考试 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)：使用 System Center 2012 监视和运行私有云*
+        - [考试 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)：使用 System Center 2012 配置和部署私有云*
 
-    - **虚拟化**重点领域
+\* 将于 2017 年 12 月 31 日停用。 2018 年 12 月 31 日之前，将继续接受这项针对能力资格的考试。 你可以在 2017 年 11 月 30 日之前注册此考试。
+
+   - **虚拟化**重点领域
 
         - [考试 74-409](https://www.microsoft.com/en-us/learning/exam-74-409.aspx)：服务器虚拟化与 Windows Server Hyper-V 和 System Center
 
-    - **Windows Server 2012** 重点领域
+   - **Windows Server 2012** 重点领域
 
         - [考试 70-410](https://www.microsoft.com/en-us/learning/exam-70-410.aspx)：安装和配置 Windows Server 2012
         - [考试 70-411](https://www.microsoft.com/en-us/learning/exam-70-411.aspx)：管理 Windows Server 2012
@@ -34,7 +36,7 @@ ms.lasthandoff: 09/29/2017
         - [考试 70-414](https://www.microsoft.com/en-us/learning/exam-70-414.aspx)：实现高级服务器基础设施
         - [考试 70-417](https://www.microsoft.com/en-us/learning/exam-70-417.aspx)：将你的技能升级到 MCSA Windows Server 2012
 
-    - **Windows Server** 2016 重点领域
+   - **Windows Server** 2016 重点领域
         - [考试 70-740](https://www.microsoft.com/en-us/learning/exam-70-740.aspx)：Windows Server 2016 的安装、存储和计算
         - [考试 70-741](https://www.microsoft.com/en-us/learning/exam-70-741.aspx)：Windows Server 2016 网络
         - [考试 70-742](https://www.microsoft.com/en-us/learning/exam-70-742.aspx)：Windows Server 2016 身份

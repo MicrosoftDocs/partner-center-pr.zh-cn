@@ -3,13 +3,14 @@ title: "云业务应用程序能力"
 description: "云业务应用程序能力适用于专为客户部署和管理 Microsoft Dynamics 365 的合作伙伴。"
 author: Daniel Simpson
 keywords: "能力, 云业务应用程序"
-ms.openlocfilehash: d38847cf292c15334bc850e0782a1af9842f3d33
-ms.sourcegitcommit: 581682c6f2098dc4cf19ca82fcdec90bc6bfe975
+ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
+ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2017
+ms.lasthandoff: 11/16/2017
 ---
-#<a name="cloud-business-applications"></a>云业务应用程序 
+# <a name="cloud-business-applications"></a>云业务应用程序 
+
 云业务应用程序能力适用于专为客户部署和管理 Microsoft Dynamics 365 的合作伙伴。
 
 - [企业客户参与度选项](#enterprise-customer-engagement-option)
@@ -24,10 +25,10 @@ ms.lasthandoff: 10/13/2017
 你还可以在此过程中利用数字标记来庆祝员工的成就，此数字标记可实时识别和区分你的成就。 [了解详细信息](https://www.microsoft.com/en-us/learning/badges.aspx)。  
 
 
-##<a name="enterprise-customer-engagement-option"></a>企业客户参与度选项
+## <a name="enterprise-customer-engagement-option"></a>企业客户参与度选项
 企业客户参与度选项非常适合与企业客户交流的合作伙伴。 完成其中的所有步骤即可获得云业务应用程序能力。
 
-###<a name="silver"></a>银牌
+### <a name="silver"></a>银牌
 1. 你的组织必须达到以下绩效阈值。
 
     - **成熟市场**
@@ -50,13 +51,12 @@ ms.lasthandoff: 10/13/2017
     
     **并且**
     
-    - 这 **5** 个人或其他 5 个人必须通过以下考试之一：
+    - 这 **5** 个人必须通过以下其中一项功能考试：
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
-        - MB2-877：Microsoft Dynamics 365 for Field Service（2017 年 12 月提供）
-        
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx)：Microsoft Dynamics 365 for Field Service *2017 年 12 月可参加新考试
 
-###<a name="gold"></a>金牌
+### <a name="gold"></a>金牌
 1. 你的组织必须达到以下绩效阈值。
 
     - **成熟市场**
@@ -82,13 +82,13 @@ ms.lasthandoff: 10/13/2017
     - 这 **15** 个人或其他 15 个人必须通过以下考试之一：
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
-        - MB2-877：Microsoft Dynamics 365 for Field Service（2017 年 12 月提供）
+        - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx)：Microsoft Dynamics 365 for Field Service 
 
-##<a name="enterprise-operations-option"></a>企业运营选项
+## <a name="enterprise-operations-option"></a>企业运营选项
 
 企业运营选项非常适合与企业客户交流（尤其是在 Dynamics 365 Unified Operations Plan 方面）的合作伙伴。 完成其中的所有步骤即可获得云业务应用程序能力。
 
-###<a name="silver"></a>银牌
+### <a name="silver"></a>银牌
 1. 你的组织必须达到以下绩效阈值。
 
     - **成熟市场**
@@ -107,35 +107,21 @@ ms.lasthandoff: 10/13/2017
     - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。  
 
 2. 你的组织必须有 **5** 个人通过考试要求。
-
-    - 这 **5** 个人必须通过以下所有技术考试： 
-
-        - MB6-894：Dynamics 365 Finance and Operations 企业版的开发、扩展和部署（2017 年 11 月提供）
-
-        - 70-534：构建 Microsoft Azure 解决方案（2017 年 11 月提供）
-
-    **并且**
+ 
+    - **5** 个人必须通过以下所有技术考试：
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx)：Microsoft Dynamics 365 for Finance and Operations 的开发、扩展和部署* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx)：构建 Microsoft Azure 解决方案
     
-    - 这 **5** 个人或其他 5 个人必须通过以下功能考试之一：（2017 年 11 月提供）
+    **并且**
+
+    - 这 **5** 个人或其他 5 个人必须通过以下功能考试之一： 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的财务管理
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的分销和贸易
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx)：Microsoft Dynamics 365 for Retail 
         
-        - MB6-895：Microsoft Dynamics 365 for Finance and Operations 企业版中的财务管理（2017 年 11 月提供）
-        
-        - MB6-896：Microsoft Dynamics 365 for Finance and Operations 企业版中的分销和贸易（2017 年 11 月提供）
-        
-        - MB6-897：Microsoft Dynamics 365 for Retail（2017 年 11 月提供）
+*2017 年 12 月可参加新考试
 
-    **或者**
-
-    - 这 **5** 个人必须通过以下所有功能和技术考试：
-        - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-        - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX Financials*
-        - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 分销和贸易*
-        - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 开发简介*
-        - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 数据库基础结构*
-
-\* 将于 2017 年 12 月 31 日停用。 2018 年 12 月 31 日之前，将继续接受这些针对能力资格的考试。
-
-###<a name="gold"></a>金牌
+### <a name="gold"></a>金牌
 
 1. 你的组织必须达到以下绩效阈值。
 
@@ -161,22 +147,15 @@ ms.lasthandoff: 10/13/2017
 
         - MB6-894：Dynamics 365 Finance and Operations 企业版的开发、扩展和部署（2017 年 11 月提供）
 
-        - 70-534：构建 Microsoft Azure 解决方案（2017 年 11 月提供）
+    - **15** 个人必须通过以下所有考试：
+        - [MB6-894](https://www.microsoft.com/en-us/learning/exam-MB6-894.aspx)：Microsoft Dynamics 365 for Finance and Operations 的开发、扩展和部署* 
+        - [70-535](https://www.microsoft.com/en-us/learning/exam-70-534.aspx)：构建 Microsoft Azure 解决方案 
 
-   **并且**
-    
-    - 这 **15** 个人或其他 15 个人必须通过以下功能考试之一：
-        
-        - MB6-895：Microsoft Dynamics 365 for Finance and Operations 企业版中的财务管理（2017 年 11 月提供）
-        - MB6-896：Microsoft Dynamics 365 for Finance and Operations 企业版中的分销和贸易（2017 年 11 月提供）
-        - MB6-897：Microsoft Dynamics 365 for Retail（2017 年 11 月提供）
+    **并且** 
 
-    **或者**
-    - 这 **15** 个人必须通过以下所有功能和技术考试：
-       - [MB6-705]: Microsoft Dynamics AX2012R3 CU8 Installation and Configuration*  
-       - [MB6-893](https://www.microsoft.com/en-us/learning/exam-mb6-893.aspx)：Microsoft Dynamics AX Financials*
-       - [MB6-892](https://www.microsoft.com/en-us/learning/exam-mb6-892.aspx)：Microsoft Dynamics AX 分销和贸易*
-       - [MB6-890](https://www.microsoft.com/en-us/learning/exam-mb6-890.aspx)：Microsoft Dynamics AX 开发简介*
-       - [70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 Microsoft SQL 数据库基础结构*
- 
-\* 将于 2017 年 12 月 31 日停用。 2018 年 12 月 31 日之前，将继续接受这些针对能力资格的考试。
+    - 这 **15** 个人或其他 15 个人必须通过以下功能考试之一： 
+        - [MB6-895](https://www.microsoft.com/en-us/learning/exam-MB6-895.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的财务管理
+        - [MB6-896](https://www.microsoft.com/en-us/learning/exam-mb6-896.aspx)：Microsoft Dynamics 365 for Finance and Operations 中的分销和贸易
+        - [MB6-897](https://www.microsoft.com/en-us/learning/exam-mb6-897.aspx)：Microsoft Dynamics 365 for Retail
+
+*2017 年 12 月可参加新考试
