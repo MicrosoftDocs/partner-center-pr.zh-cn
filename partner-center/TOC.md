@@ -16,16 +16,18 @@
 
 # [管理合作伙伴中心帐户](partner-center-account-setup.md)
 ## [工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)
-## [更新合作伙伴配置文件](update-your-partner-profile.md)
-## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
-## [重置用户密码](reset-a-user-password.md)
+## [更新合作伙伴档案](update-your-partner-profile.md)
+## [还原暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
 ## [创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)
+## [重置用户密码](reset-a-user-password.md)
 ## [添加 Azure 合作伙伴共享服务](shared-services.md)
 ## [定价和产品/服务](pricing-and-offers.md)
 ## [自定义目录](customize-the-catalog.md)
 
+# [发展你的业务](grow-your-business.md)
+
 # [引荐](referrals.md)
-## [创建业务配置文件](create-a-marketing-profile.md)
+## [创建业务档案](create-a-marketing-profile.md)
 ## [回应引荐](responding-to-referrals.md)
 
 # [计费](billing.md)
@@ -76,13 +78,13 @@
 ## [多渠道](multichannel.md)
 ## [多合作伙伴](multipartner.md)
 
-# [Microsoft 支持](support-from-microsoft.md)
-## [检查服务运行状况](check-service-health.md)
+# [从 Microsoft 获取支持](support-from-microsoft.md)
 ## [报告合作伙伴中心问题](report-problems-with-partner-center.md)
 ## [代表客户报告问题 ](report-problems-on-behalf-of-a-customer.md)
 ## [使用我们的 API 获取自动服务通知](get-automated-service-notifications-with-our-apis.md)
 
-# [客户支持](customer-support.md)
+# [向你的客户提供支持](customer-support.md)
+## [检查服务运行状况](check-service-health.md)
 ## [提供计费支持](provide-billing-support.md)
 ## [提供技术支持](provide-technical-support.md)
 ## [来自 Microsoft 的客户通讯](customer-communication-from-microsoft.md)

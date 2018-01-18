@@ -2,13 +2,13 @@
 title: "获得 Microsoft 能力 | 合作伙伴中心"
 description: "获得银牌和金牌 Microsoft 能力，以证明你在专业业务领域中提供优质解决方案方面拥有公认的专长"
 author: KPacquer
-keywords: "能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度"
+keywords: "能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, 权益, 绩效目标, 技能目标"
 robots: noindex,nofollow
-ms.openlocfilehash: 6323613d785958db9bd511f10ca03988681f1867
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
+ms.openlocfilehash: b4ca5bff38a4d2b3e40616c971379e743ad87032
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 12/21/2017
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -75,9 +75,9 @@ Microsoft 能力成就表明你在提供优质解决方案方面具有可靠的�
 
 ### <a name="upgrade-your-membership"></a>升级你的成员身份
 
-若要购买银牌权益包，你只需证明一种途径的银牌级别熟练程度。 在你升级到银牌身份之后，我们会在你的业务配置文件中显示你所获得的所有银牌能力。 
+若要购买银牌权益包，你只需证明一种途径的银牌级别熟练程度。 在你升级到银牌身份之后，我们会在你的业务档案中显示你所获得的所有银牌能力。 
 
-若要购买金牌权益包，你只需证明一种途径的金牌级别熟练程度。 在你升级到金牌身份之后，我们会在你的业务配置文件中显示你所获得的银牌能力和金牌能力。 
+若要购买金牌权益包，你只需证明一种途径的金牌级别熟练程度。 在你升级到金牌身份之后，我们会在你的业务档案中显示你所获得的银牌能力和金牌能力。 
 
 ### <a href="" id="maintain_membership"></a>维持和续订成员身份
 

@@ -2,12 +2,13 @@
 title: "工作帐户与合作伙伴中心 | 合作伙伴中心"
 description: "如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。"
 author: labrenne
+Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: 
-ms.openlocfilehash: 8885f20d2f5975da8e4585e1bc314697fa04ad6d
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 91ee16676e6525180c5ed4351ca502914d98b65b
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="your-company-work-account-and-partner-center"></a>你的公司工作帐户与合作伙伴中心  
 
@@ -15,15 +16,15 @@ ms.lasthandoff: 11/22/2017
 
 -  合作伙伴中心
 
-# <a name="why-you-need-a-work-account"></a>需要工作帐户的原因
+## <a name="why-you-need-a-work-account"></a>需要工作帐户的原因
 
 我们需要将你所在公司的工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以使用其工作帐户用户名和密码登录合作伙伴中心。
 
 如果你的公司已经拥有工作帐户，你可以将其链接到你的合作伙伴中心帐户。 
 
-**注意**在你决定使用现有的工作帐户之前，请考虑该工作帐户中需要使用合作伙伴中心的用户数。 如果工作帐户中有些用户不需要使用合作伙伴中心，请考虑只为那些需要使用合作伙伴中心的用户创建一个新帐户。
+>**注意**在你决定使用现有的工作帐户之前，请考虑该工作帐户中需要使用合作伙伴中心的用户数。 如果工作帐户中有些用户不需要使用合作伙伴中心，请考虑只为那些需要使用合作伙伴中心的用户创建一个新帐户。
 
-如果你的公司还没有工作帐户，则可以在注册过程中免费创建一个。 在**登录 Azure Active Directory** 页面上选择**创建新租户**。 创建新 Azure Active Directory 租户即创建新工作帐户。 Azure Active Directory 是 Microsoft 的单一登录身份管理解决方案。
+如果你的公司还没有工作帐户，则可以在注册过程中创建一个。 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不确定你的公司是否已经具有工作帐户？
 
@@ -48,4 +49,4 @@ Microsoft Azure 是一个公共云平台，公司可以使用该平台在 Micros
 
 Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表示形式，并且是在你订阅 Microsoft 云服务（如 Azure、Microsoft Intune 或 Office 365）时为你创建的。 
 
-你的工作帐户托管 Azure AD 用户及其相关信息 - 其密码、配置文件数据、权限等。 工作帐户还包含组、应用程序以及关于公司及其安全性的其他信息。 
+你的工作帐户托管 Azure AD 用户及其相关信息 - 其密码、档案数据、权限等。 工作帐户还包含组、应用程序以及关于公司及其安全性的其他信息。 

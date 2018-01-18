@@ -1,13 +1,14 @@
 ---
 title: "将许可证或服务添加到现有订阅 | 合作伙伴中心"
-description: "如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。"
+description: "如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。"
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-ms.openlocfilehash: f33841361b10a4fb2358aafc13342689ec0780ef
-ms.sourcegitcommit: 8205814f5f47c54eadf007bb77c09e12b2572d93
+keywords: "将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证"
+ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2017
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 

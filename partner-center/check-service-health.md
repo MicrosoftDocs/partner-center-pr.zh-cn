@@ -3,9 +3,12 @@ title: "检查服务运行状况 | 合作伙伴中心"
 description: "当客户遇到与某个服务有关的问题时，你可以做的第一件事是检查服务运行状况。"
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
-ms.openlocfilehash: 0db8a0954aae1a590dbad2c948ad9209792249aa
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+Keywords: health, service health,service problems
+ms.openlocfilehash: e61b9bb40273dc1b8f8ef536b2e7e32afc4bfe89
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="check-service-health"></a>检查服务运行状况
 

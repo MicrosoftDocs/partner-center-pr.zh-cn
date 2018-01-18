@@ -3,9 +3,12 @@ title: "向多个用户分配或撤消许可证 | 合作伙伴中心"
 description: "可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。"
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
-ms.openlocfilehash: 205b43157d2f51f6d21c7ff75bb20b92044e80db
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+Keywords: assign license, revoke license, assign to multiple users,
+ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 

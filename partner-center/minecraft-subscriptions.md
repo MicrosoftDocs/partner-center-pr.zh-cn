@@ -3,11 +3,11 @@ title: "向教育行业客户销售 Minecraft Education Edition 订阅"
 description: "向教育行业客户销售 Minecraft Education Edition 订阅"
 author: KPacquer
 keywords: "授权的教育行业合作伙伴"
-ms.openlocfilehash: e5d9b276e89e9a506948a4cb1f905d53fca57e25
-ms.sourcegitcommit: db945c0cf04f675c4cb71ae3dd1d1737d086e7e2
+ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
+ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 12/02/2017
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
@@ -20,15 +20,15 @@ ms.lasthandoff: 08/23/2017
 ## <a name="purchase-through-partner-center-portal"></a>通过合作伙伴中心门户购买 
 通过合作伙伴中心门户为你的教育行业客户购买 Minecraft: Education Edition： 
 
-  1.  在合作伙伴中心，创建或选择教育行业客户的帐户，然后在添加新订阅时转到“教育”选项卡。  选择 Minecraft: Education Edition 订阅，购买客户需要的许可证数量。 Minecraft: Education Edition 订阅目前与云解决方案提供商中的其他现有教育产品/服务外观相同。 请参阅[创建新订阅](create-a-new-subscription.md)，了解如何添加此订阅。 这些许可证显示在合作伙伴中心，并且还将显示在 [Minecraft 详细信息页](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)（必须登录到适用于企业的商店才能看到此详细信息页）下教育行业客户的 [适用于企业的 Microsoft 应用商店](https://www.microsoft.com/business-store)库存中。 
+  1.  在合作伙伴中心，创建或选择教育行业客户的帐户，然后在添加新订阅时转到“教育”选项卡。  选择 Minecraft: Education Edition 订阅，购买客户需要的许可证数量。 Minecraft: Education Edition 订阅目前与云解决方案提供商中的其他现有教育产品/服务外观相同。 请参阅[创建新订阅](create-a-new-subscription.md)，了解如何添加此订阅。 这些许可证显示在合作伙伴中心中，并且还将显示在 [Minecraft 详细信息页](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)（必须登录到适用于教育的 Microsoft Store 才能看到此详细信息页）下教育行业客户的[适用于教育的 Microsoft Store](https://educationstore.microsoft.com/en-us/store) 库存中。 
 
-  2.  你的教育行业客户将安装 Minecraft 应用，将此应用分配给其他人，以及通过适用于企业的 Microsoft 应用商店 [Minecraft 详细信息页](https://businessstore.microsoft. com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)下载此应用，以进行分发。 （目前，合作伙伴中心不支持这些任务。）
+  2.  你的教育行业客户将安装 Minecraft 应用，将此应用分配给其他人，以及通过适用于教育的 Microsoft Store [Minecraft 详细信息页](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下载此应用，以进行分发。 
 
       a. 学校的 IT 管理员如果尚未接受适用于企业的 Microsoft 应用商店的服务协议，应予以接受。 
 
-      b. 管理员可转到 [Minecraft 详细信息页](https://businessstore.microsoft.com/en-us/app-detail/9NBLGGH4R2R6/0016/00000000000000000000000000000000/online)下载应用，并将应用分发给用户。 有关详细说明，请参阅 [IT 管理员 - 获取 Minecraft: Education Edition：分发 Minecraft](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)。
+      b. 管理员可转到 [Minecraft 详细信息页](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下载应用，并将应用分发给用户。 有关详细说明，请参阅 [IT 管理员 - 获取 Minecraft: Education Edition：分发 Minecraft](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)。
     
-  如果学校的 IT 管理员不熟悉适用于企业的 Microsoft 应用商店，应指导他们阅读[适用于企业的 Microsoft 应用商店概述](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)。 
+  如果学校的 IT 管理员不熟悉适用于企业的 Microsoft Store，应指导他们阅读[适用于企业的 Microsoft Store 和适用于教育的 Microsoft Store 概述](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)。 
 
 <!-- ## Purchase through Partner Center API 
 

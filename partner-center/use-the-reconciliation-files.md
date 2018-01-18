@@ -3,11 +3,11 @@ title: "使用对帐文件 | 合作伙伴中心"
 description: "有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。"
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892204ebcdfe1e1318985f2d50df8af2238bd4c1
-ms.sourcegitcommit: 2436cb77fbefc41cc9cb3e62e8a616b6326c557f
+ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
+ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2017
+ms.lasthandoff: 12/15/2017
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -149,7 +149,7 @@ ms.lasthandoff: 11/04/2017
 </tr>
 <tr class="odd">
 <td>UnitPrice</td>
-<td><p>每一席位的价格。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
+<td><p>购买时公布在价目表中的每一席位的价格。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
 <td>6.82</td>
 </tr>
 <tr class="even">
@@ -492,13 +492,21 @@ ms.lasthandoff: 11/04/2017
 <p><strong>定期费用</strong></p>
 </td>
 <td>
+<p>激活费用</p>
+</td>
+<td>
+<p>客户购买后使用订阅时向其收取的金额</p>
+</td>
+<td rowspan="8">
+<p>从基于许可证的文件，对 <strong>Amount</strong> 列求和</p>
+</td>
+</tr>
+<tr>
+<td>
 <p>取消实例按比例计算</p>
 </td>
 <td>
 <p>相关席位发生变化时，退款给客户的按比例计算的费用</p>
-</td>
-<td rowspan="8">
-<p>从基于许可证的文件，对 <strong>Amount</strong> 列求和</p>
 </td>
 </tr>
 <tr>

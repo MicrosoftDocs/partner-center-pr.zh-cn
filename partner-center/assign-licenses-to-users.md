@@ -1,19 +1,20 @@
 ---
-title: User management tasks for customer accounts | Partner Center
-description: After you buy a new subscription for a customer, you can assign licenses to specific users.
+title: "客户帐户的用户管理任务 | 合作伙伴中心"
+description: "为客户购买新订阅后，可将许可证分配给特定用户。"
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
-ms.openlocfilehash: 9bd854b4abd8c916e98cc0e771c711e40a9d71ff
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+ms.openlocfilehash: e1ac2234dfb0b6da431fe79c00dee4653b48a12a
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 12/21/2017
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>User management tasks for customer accounts
+# <a name="user-management-tasks-for-customer-accounts"></a>客户帐户的用户管理任务
 
-**Applies to**
+**适用于**
 
--  Partner Center
+-  合作伙伴中心
 
 
 
@@ -45,7 +46,7 @@ ms.lasthandoff: 07/07/2017
 
 2.  在“客户”菜单中，选择**用户和许可证**。
 
-3.  从列表中选择一个或多个用户。 If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.
+3.  从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新许可证，并且你希望将它们分配给尚未拥有的人员，则可以使用**用户筛选条件**选项来找到正确的组。
 
 4.  选择**管理许可证**。 进行更改，然后选择**保存**。
 
@@ -63,9 +64,9 @@ ms.lasthandoff: 07/07/2017
 <a href="" id="deleteuseraccounts"></a>
 **为客户删除用户帐户**
 
-1.  从**仪表板**菜单中，选择**客户**。 Choose the customer from the list.
+1.  从**仪表板**菜单中，选择**客户**。 从列表中选择客户。
 
-2.  在“客户”菜单中，选择**用户和许可证**。 Choose the user from the list.
+2.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
 
 3.  在屏幕底部，选择**删除用户帐户**。
 
@@ -78,7 +79,7 @@ ms.lasthandoff: 07/07/2017
 
 2.  选择**用户和许可证**。
 
-3.  选择**已删除用户( )**选项卡。 当存在可还原的已删除用户时，其应显示 **(1)** 或更大。
+3.  选择**已删除的用户 ( )**，当存在可以还原的已删除用户时，应读取 **(1)** 或更大。
 
 4.  选中一个或多个已删除用户的复选框，然后选择**还原**。
 
@@ -87,9 +88,9 @@ ms.lasthandoff: 07/07/2017
 ## <a name="related-topics"></a>相关主题
 
 
-[Assign or revoke licenses to multiple users](bulk-license-provisioning-for-multiple-users.md)
+[向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[为客户帐户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 
  
 

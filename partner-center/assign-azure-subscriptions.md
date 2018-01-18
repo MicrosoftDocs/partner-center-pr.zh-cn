@@ -2,12 +2,12 @@
 title: "在合作伙伴中心分配 Azure 订阅 | 合作伙伴中心"
 description: "现在，你可以在合作伙伴中心为客户分配 Azure 订阅。"
 author: Labrenne
-keywords: "Azure, Azure 订阅"
-ms.openlocfilehash: b5a2e1afbd0d0fe5941c22cf67d192cec004559e
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
+keywords: "Azure, Azure 订阅, 订阅, 分配订阅"
+ms.openlocfilehash: bdd8973809f01de002f45dd33ade48be0b70ddb3
+ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 12/21/2017
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>在合作伙伴中心分配 Azure 订阅
 

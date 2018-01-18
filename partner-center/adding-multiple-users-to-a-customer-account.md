@@ -3,9 +3,12 @@ title: "为客户帐户创建多个用户 | 合作伙伴中心"
 description: "通过将逗号分隔值文件格式 (.csv) 的数据文件上传到合作伙伴中心，可同时将多个用户添加至客户帐户。"
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
-ms.openlocfilehash: cc86d129177760bf19c0b24a96d646c52ffb779c
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户"
+ms.openlocfilehash: b360ced878973cde19b1a6aa8470ac4218ea6773
+ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/08/2017
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>将多个用户添加到客户帐户
 
