@@ -70,6 +70,7 @@
 ## [利用 Windows Autopilot 简化设备设置](autopilot.md)
 
 # 合作伙伴中心数据和分析
+## [获取数据并分析业务](data-analysis-lp.md)
 ## [适用于 Microsoft Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners.md)
 
 # [与其他合作伙伴合作](work-with-other-partners.md)
