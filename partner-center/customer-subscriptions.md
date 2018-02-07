@@ -1,13 +1,13 @@
 ---
 title: "客户订阅 | 合作伙伴中心"
 description: "合作伙伴可以向客户销售订阅，并通过合作伙伴中心管理它们。"
-ms.assetid: DEBFB521-486C-4297-8F6C-66213DC0ABFC
-author: MaggiePucciEvans
-ms.openlocfilehash: ffc2189f9c5a8d5df3b07707c23f540142917499
-ms.sourcegitcommit: cb5efc809e5196a5eab5d5b0c6f0ac6e913402ab
+author: labrenne
+Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
+ms.openlocfilehash: 554aa69448b961c202f86ff76d85f797e6a0010c
+ms.sourcegitcommit: dcaa831710115ac0852131605115b9b6cc67c5d5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2017
+ms.lasthandoff: 01/04/2018
 ---
 # <a name="customer-subscriptions"></a>客户订阅
 
@@ -15,31 +15,50 @@ ms.lasthandoff: 06/14/2017
 
 -  合作伙伴中心
 
-你可以向客户销售订阅，并通过合作伙伴中心管理它们。 
+作为云解决方案提供商合作伙伴，你的核心工作之一当然是向客户提供 Microsoft 产品的订阅。 在合作伙伴中心，你可以轻松地为每位客户管理所有订阅。 可以添加订阅、将许可证添加到现有订阅，甚至可以向想要试用软件的客户提供试用订阅。 此外，你可以使用合作伙伴中心提供的分析了解客户的软件使用情况，以便更好地为客户提供支持。
 
-[创建新订阅](create-a-new-subscription.md)
+|**为此**   |**请阅读以下内容**   |
+|----------------------|:----------------------|
+|在合伙伙伴中心为现有客户创建新的订阅，或者添加新的客户，然后为他们创建订阅|[创建新订阅](create-a-new-subscription.md)|
+|添加订阅后，你可以将许可证分配给客户的员工  |[将许可证分配给用户](assign-licenses-to-users.md)|
+|还可以批量管理许可证更新   |[向多个用户分配或撤销许可证](bulk-license-provisioning-for-multiple-users.md)|
+|在客户添加新员工时，你可以将其他许可证添加到现有订阅   |[将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)|
+|客户可能希望在订阅之前试用软件，因此请提供试用订阅    |[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)|
+|现在，你可以在合作伙伴中心内开始 Azure 订阅过程   |[在合作伙伴中心分配 Azure 订阅](assign-azure-subscriptions.md)|
+|了解产品/服务的特殊定价   |[获取产品/服务的特殊定价](get-special-pricing-for-offers.md)|
+|了解客户的软件使用情况，以便帮助他们提高工作效率。   | [提高采用率和满意度](increasing-adoption-and-satisfaction.md)   | 
 
-[将许可证分配给用户](assign-licenses-to-users.md)
 
-[向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 
-[暂停订阅](suspend-a-subscription.md)
 
-[删除与经销商或客户的关系](remove-a-relationship.md)
 
-[将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
 
-[将 Dynamics AX 订阅迁移到 Dynamics 365](manual-subscription-migration.md)
 
-[将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
 
-[获取产品/服务的特殊定价](get-special-pricing-for-offers.md)
 
-[提高采用率和满意度](increasing-adoption-and-satisfaction.md)
 
-[云解决方案提供商区域授权概述](regional-authorization-overview.md)
 
-[云解决方案提供商区域授权租户合并](csp-regional-authorization-tenant-consolidation.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 

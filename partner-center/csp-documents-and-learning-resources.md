@@ -1,75 +1,76 @@
 ---
-title: CSP agreements, price lists, and offers | Partner Center
-description: This article includes links to Cloud Solution Provider program guides, partner agreements, customer agreements, price lists, and offers.
+title: "云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心"
+description: "本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。"
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
-ms.openlocfilehash: 239d4834b1699336f73fdd67a1423cb826415cf6
-ms.sourcegitcommit: 64ae3952f4fedf3540dadc1e285e410404218877
+keywords: "云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠"
+ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2017
+ms.lasthandoff: 01/17/2018
 ---
-# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>Cloud Solution Provider agreements, price lists, and offers
+# <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>云解决方案提供商协议、价目表和产品/服务
 
-**Applies to**
+**适用于**
 
--  Partner Center
--  Partner Center for Microsoft Cloud for US Government
--  Partner Center for Microsoft Cloud Germany
-
-
-Review the information in this article to understand the requirements for participating in Microsoft's Cloud Solution Provider (CSP) program. 
-
-## <a href="" id="programguide"></a>Cloud Solution Provider program guide
+-  合作伙伴中心
+-  美国政府 Microsoft 云合作伙伴中心
+-  德国 Microsoft 云合作伙伴中心
 
 
-Review requirements for becoming a partner in the Cloud Solution Provider program.
+查看本文中的信息，了解参与 Microsoft 云解决方案提供商 (CSP) 计划的要求。 
 
-[Program guide for Cloud Solution Provider partners](http://go.microsoft.com/fwlink/p/?LinkId=617100)
-
-## <a href="" id="partneragreement"></a>Cloud Solution Provider partner agreement
+## <a href="" id="programguide"></a>云解决方案提供商计划指南
 
 
-Microsoft requires partners to sign this agreement to join the Cloud Solution Provider program. Review the guide for the market or national cloud in which you plan to sell.
+查看成为云解决方案提供商计划中的合作伙伴的要求。
 
-[Microsoft Cloud Reseller agreement – North America, Central America, South America, and Caribbean](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
+[云解决方案提供商合作伙伴计划指南](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
-[Microsoft Cloud Reseller agreement – Asia, Australia, and Pacific](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
-
-[Microsoft Cloud Reseller agreement – Europe, Middle East, and Africa](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
-
-[Microsoft Cloud Reseller agreement – Japan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
-
-[Microsoft Cloud Reseller agreement – Korea](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
-
-[Microsoft Cloud Reseller agreement – Taiwan](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
-
-[Microsoft Cloud Reseller agreement - Microsoft Cloud Germany](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
-
-[Microsoft Cloud Reseller agreement - Microsoft Cloud for US Government](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
-
-## <a href="" id="customeragreementtemplate"></a>Customer agreement templates
+## <a href="" id="partneragreement"></a>云解决方案提供商合作伙伴协议
 
 
-As a partner in CSP, you're responsible for reviewing Microsoft’s terms and conditions, including the acceptable use of Microsoft products and services, with your customers. Follow the link below to find the customer agreement(s) you'll need to review with new customers. 
+Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提供商计划。 查看你计划在其中进行销售的市场或国家云的指南。
 
-[Customer agreement templates](agreements.md)
+[Microsoft 云经销商协议 - 北美洲、中美洲、南美洲和加勒比地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
 
-## <a name="pricing"></a>Pricing
+[Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+
+[Microsoft 云经销商协议 - 欧洲、中东地区和非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+
+[Microsoft 云经销商协议 - 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+
+[Microsoft 云经销商协议 - 韩国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+
+[Microsoft 云经销商协议 - 中国台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+
+[Microsoft 云经销商协议 - 德国 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+
+[Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+
+## <a href="" id="customeragreementtemplate"></a>客户协议模板
 
 
-Download pricing details for both license-based and usage-based services from the **Pricing and offers** page, available from your **Dashboard** menu. 
+作为云解决方案提供商计划中的合作伙伴，你负责与客户一起查看 Microsoft 的条款和条件，包括 Microsoft 产品和服务的可接受用法。 请点击以下链接来查找你将需要与新客户一起查看的客户协议。 
 
-The license-based price list is updated monthly, and Microsoft releases new pricing 30 days before it takes effect. Examples of license-based services include Office 365, Enterprise Mobility Suite, and Microsoft Dynamics CRM. 
+[客户协议模板](agreements.md)
 
-Usage-based pricing is dynamic and changes frequently. Examples of usage-based services include Microsoft Azure.
-
-
-## <a name="offers"></a>Offers
+## <a name="pricing"></a>定价
 
 
-As a partner in CSP, you can sell Office 365, Enterprise Mobility Suite, Microsoft Dynamics CRM, and Microsoft Azure to customers. For more information about which offers and product bundles are available to sell within these product families, see the CSP offer matrix on the **Pricing and offers** page, available from your **Dashboard** menu. This document is updated monthly.
+从可从**仪表板**菜单访问的**定价和产品/服务**页面中下载基于许可证和基于使用情况的服务的定价详细信息。 
 
-For CSP partners who use the Crest Usage Record API, Microsoft also publishes a list of the Azure Services in CSP on the **Pricing and offers** page.
+基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。 基于许可证的服务的示例包括 Office 365、企业移动性套件和 Microsoft Dynamics CRM。 
+
+基于使用情况的定价是动态的，并且经常更改。 基于使用情况的服务的示例包括 Microsoft Azure。
+
+
+## <a name="offers"></a>产品/服务
+
+
+作为云解决方案提供商计划中的合作伙伴，你可以向客户销售 Office 365、企业移动性套件、Microsoft Dynamics CRM 和 Microsoft Azure。 有关在这些产品系列中可销售哪些产品/服务和产品捆绑包的详细信息，请参阅可从**仪表板**菜单访问的**定价和产品/服务**页面上的云解决方案提供商产品/服务矩阵。 本文档按月更新。
+
+对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在**定价和产品/服务**页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 
 

@@ -4,11 +4,11 @@ description: "管理员为每个需要访问合作伙伴中心的合作伙伴员
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
-ms.openlocfilehash: 4345db8cf8e383edbb58c269a3b0a948eade9d65
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: 809641e488595e59beb63b0867b4758f3912106e
+ms.sourcegitcommit: fc49a5e334ed37db4ff4c594ecf89a1527a3bd1d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 01/18/2018
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
@@ -38,7 +38,7 @@ ms.lasthandoff: 12/21/2017
 
 用户将需要使用其用户名和临时密码来登录合作伙伴中心。 当用户首次登录到合作伙伴中心时，会提示他们更改密码。 
 
-
+>**注意：**<br> 如果你的全局管理员已离职或担任了其他职位，你必须在 [MPN 门户](https://partner.microsoft.com/support)上登记服务请求，才能添加新的全局管理员。 如果支持代理能够提供必要的个人身份信息以及关于你的组织的其他信息，则该代理可以请求将某位用户提升为全局管理员。
 
 ## <a name="assign-user-permissions"></a>分配用户权限
 
@@ -59,9 +59,9 @@ ms.lasthandoff: 12/21/2017
 
 在每个常规类别中，一个用户只能有一个角色，但该用户也可以在其他常规类别中拥有角色。 
 
->**重要事项**如果用户不需要特定角色，则将指定保留为默认设置 - **Manages your organization's account as**。 用户必须分配有至少一个角色，才能在合作伙伴中心中工作。
+>**重要事项**如果用户不需要特定角色，会将指定保留为默认设置 - **Manages your organization's account as**。 用户必须分配有至少一个角色，才能在合作伙伴中心中工作。
 
-下表介绍了每个角色可以在合作伙伴中心执行的操作。 考虑如何分配角色时，需要考虑用户在组织中所做的工作。 例如，你可能想让全局管理员作为管理员代理。 处理市场营销的人员也可能是应该管理业务档案的人员。
+下表介绍了每个角色可以在合作伙伴中心执行的操作。 考虑如何分配角色时，需要考虑用户在组织中所做的工作。 例如，你可能也希望全局管理员成为管理员代理。 处理市场营销的人员也可能是应该管理业务档案的人员。
 
 <table>
 <colgroup>
@@ -122,13 +122,6 @@ ms.lasthandoff: 12/21/2017
 <li><p>查看和管理权益</p></li>
 <li><p>查看和购买 MPN 产品/服务</p></li>
 <li><p>查看 MPN 产品/服务订单历史记录和发票</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>用户管理管理员</strong></p></td>
-<td><ul>
-<li><p>查看、创建和管理用户</p></li>
-<li><p>查看所有合作伙伴档案</p></li>
 </ul></td>
 </tr>
 <tr class="even">

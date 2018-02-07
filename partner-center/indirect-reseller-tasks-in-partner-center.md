@@ -4,11 +4,11 @@ description: "作为云解决方案提供商计划中的间接经销商，你可
 ms.prod: 
 author: MaggiePucciEvans
 keywords: "间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, 第 2 层, 第 2 层"
-ms.openlocfilehash: b55b8c65a0d7e989bed494230101d905befeed50
-ms.sourcegitcommit: 271c70346c06aed98e89731f680fc7b6b03e81e6
+ms.openlocfilehash: d3d41a15fc8836a84ba86acc26642a4c49c2e290
+ms.sourcegitcommit: bfdbd1b9ff3443febc0ff1903f35d723b83fa970
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/28/2017
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 
@@ -102,74 +102,8 @@ ms.lasthandoff: 11/28/2017
 
 ## <a name="assign-user-permissions"></a>分配用户权限
 
-合作伙伴中心访问权限基于角色，因此你可以分配权限，将你组织的用户视图自定义为仅显示他们完成特定任务所需的功能。 
+合作伙伴中心访问权限基于角色，因此你可以分配权限，将你组织的用户视图自定义为仅显示他们完成特定任务所需的功能。 若要了解分配角色的最佳方式，请参阅[创建用户帐户和设置权限](Create-user-accounts-and-set-permissions.md)
 
-对于每位用户，你必须选择两个权限级别，或者选择**非管理员**或**非代理**：
-
--   代理权限控制用户可以查看和更改哪种类型的客户数据和帐户信息。
-
--   管理员权限控制用户具有的合作伙伴中心功能访问权限级别。 此设置具有合作伙伴中心之外的影响 - 全局管理员可访问用户帐户和云解决方案提供商以外的客户帐户。
-
-下表介绍了每个角色可以在合作伙伴中心执行的操作。
-
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>合作伙伴中心中的角色</strong></p></td>
-<td><p><strong>他们可以执行的操作</strong></p></td>
-<td><p><strong>他们不可以执行的操作</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>管理员代理</strong></p></td>
-<td><ul>
-<li><p>客户的服务运行状况和服务请求</p></li>
-<li><p>请求委派的管理员权限</p></li>
-<li><p>代表客户进行管理</p></li>
-</ul></td>
-<td><ul>
-<li><p>用户管理</p></li>
-<li><p>合作伙伴中心的服务请求</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>支持人员代理</strong></p></td>
-<td><ul>
-<li><p>搜索和查看客户</p></li>
-<li><p>服务运行状况</p></li>
-<li><p>代表客户请求支持（请注意：你必须是管理员代理才能完成此 Office 365 订阅任务）</p></li>
-<li><p>代表客户管理订阅和服务（请注意：你必须是管理员代理才能完成此 Office 365 订阅任务）</p></li>
-</ul></td>
-<td><ul>
-<li><p>查看合作伙伴档案</p></li>
-<li><p>请求与客户建立关系</p></li>
-<li><p>管理潜在客户</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>全局管理员</strong></p></td>
-<td><ul>
-<li><p>具有可以访问所有 Microsoft 帐户/服务的完整权限</p></li>
-<li><p>创建合作伙伴中心的支持票证</p></li>
-<li><p>查看、创建和管理合作伙伴用户</p></li>
-<li><p>接受间接提供商提出的合作请求</p></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>用户管理管理员</strong></p></td>
-<td><ul>
-<li><p>查看、创建和管理用户</p></li>
-<li><p>查看所有合作伙伴档案</p></li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## <a name="connect-with-an-indirect-provider"></a>与间接提供商联系
 
@@ -197,13 +131,13 @@ ms.lasthandoff: 11/28/2017
  
 ## <a name="connect-with-customers"></a>与客户联系
 
-若要与客户在合作伙伴中心上进行交易，你的客户必须具有合作伙伴中心帐户，并且你必须与他们建立经销商关系。 若要允许间接提供商代表你的客户购买订阅和服务，则该提供商还必须与你的客户建立经销商关系。 
+ 若要与客户在合作伙伴中心上进行交易，你的客户必须具有合作伙伴中心帐户，并且你必须与他们建立经销商关系。 若要允许间接提供商代表你的客户购买订阅和服务，则该提供商还必须与你的客户建立经销商关系。 
 
 ### <a name="connect-with-existing-customers"></a>与现有客户联系
 
-在你成功注册为间接经销商后，你在合作伙伴中心上的客户列表中将显示已经通过其他门户与你交易的客户，这些门户包括 Office 365 合作伙伴管理员中心或 Microsoft Azure 管理员门户。 选择**仪表板**，然后选择**客户**可查看你的客户列表。 
+在你成功注册为间接经销商后，你在合作伙伴中心上的客户列表中将显示已经通过其他门户与你交易的客户，这些门户包括 Office 365 合作伙伴管理员中心或 Microsoft Azure 管理员门户。 选择**仪表板**，然后选择**客户**以查看你的客户列表。 
 
-如果你的客户列表中缺少了任何你的现有客户，你可能需要与他们建立经销商关系。 要执行此操作，请向他们发送电子邮件，邀请他们在合作伙伴中心与你建立联系，如下所述。
+与间接提供商联系时，你不会自动获得间接提供商的客户。 同样，当你在合作伙伴中心注册时，你自己或通过间接提供商而不是通过合作伙伴中心获得的合作客户也不会自动显示在你的客户列表中。 你需要与客户建立经销商关系，才能在合作伙伴中心中进行交易。  要执行此操作，请向他们发送电子邮件，邀请他们在合作伙伴中心与你建立联系，如下所述。
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 

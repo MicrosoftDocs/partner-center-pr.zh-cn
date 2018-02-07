@@ -2,11 +2,12 @@
 title: "云解决方案提供商计划 - 销售畅销的云解决方案 | 合作伙伴中心"
 description: "云解决方案提供商计划可以通过新客户和新专长来帮助你拓展业务。"
 author: labrenne
-ms.openlocfilehash: c3fe4a3dfc80f17eda3c87548d30417ecdd9527a
-ms.sourcegitcommit: 71fcb32b5c5636db5fdeea72ba9ea96a3cd49328
+keywords: "云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划"
+ms.openlocfilehash: 4ba8be87b3d7e5c92045c7c2c19112219131bdd0
+ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 01/17/2018
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
