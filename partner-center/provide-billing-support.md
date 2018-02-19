@@ -3,10 +3,11 @@ title: "提供计费支持 | 合作伙伴中心"
 description: "你与你的客户之间存在计费关系，并且完全支持任何来自客户的计费相关问题。"
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
-ms.openlocfilehash: d9f550f05d1555781ddd29c8d1eb95297a9e9a53
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+ms.openlocfilehash: 60a8fa1271d73e07f31b7172da31a66f702ce342
+ms.sourcegitcommit: b1cfc52b956a25bd81a449bdce21fe94f4823482
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="provide-billing-support"></a>提供计费支持
 
@@ -36,17 +37,15 @@ ms.contentlocale: zh-CN
 ## <a href="" id="billingdisputes"></a>计费争议
 
 
--   [代表客户报告问题](report-problems-on-behalf-of-a-customer.md)，以提出任何计费问题或争议。
+-   [报告问题](report-problems-with-partner-center.md)，以提出任何计费问题或争议。
 
 ## <a href="" id="escalatingissues"></a>上报问题
 
 
 -   如果需要我们的帮助，请通过合作伙伴支持通道代表客户[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)。
--   问题解决后，必须与客户沟通并完成后续事项
+-   问题解决后，必须与客户沟通并完成后续事项 
 
  
-
- 
-
+计费争议 报告问题 (https://msdn.microsoft.com/zh-cn/partner-center/report-problems-with-partner-center)，以提出任何计费问题或争议。
 
 

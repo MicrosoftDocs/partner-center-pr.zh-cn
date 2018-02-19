@@ -3,11 +3,14 @@ title: "将 Azure 订阅切换到其他合作伙伴 | 合作伙伴中心"
 description: "客户可以在云解决方案提供商计划中更改要用于提供 Microsoft Azure 服务的合作伙伴。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。"
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
-ms.openlocfilehash: ec227dac6f8b0625120bf4b5d1bc76fbeaaae635
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+keywords: "Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴"
+ms.openlocfilehash: 5bc29e78cb94068a5d7675f6f030bc31e78f40a4
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/24/2018
 ---
-# <a name="switch-azure-subscriptions-to-a-different-partner"></a>将 Azure 订阅切换到其他合作伙伴
+# <a name="switch-azure-subscriptions-to-a-different-partner"></a>将 Azure 订阅转移给其他合作伙伴
 
 **适用于**
 
@@ -17,13 +20,16 @@ translationtype: HT
 
 **注意** Azure 客户当前无法从 EA、开放或其他授权计划自动切换到云解决方案提供商。 这是一个手动过程，需要合作伙伴和客户双方进行操作。 此外，当前无法针对 Office 365、企业移动性套件或 Microsoft Dynamics CRM 订阅更改云解决方案提供商订阅的合作伙伴。
 
+
  
 
 **针对 Azure 订阅切换合作伙伴**
 
-1.  若要将 Azure 订阅传输到新合作伙伴，客户必须启动该过程，然后以书面形式与当前记录云解决方案提供商合作伙伴的合作伙伴进行联系。
+1.  若要将 Azure 订阅转移给新合作伙伴，则必须由客户发起该过程，然后以书面形式与当前记录的云解决方案提供商合作伙伴进行联系。 
 
-2.  订阅的云解决方案提供商需要执行以下任务：
+    >**注意：**<br> 当前合作伙伴负责创建发起转移过程所需的服务票证。 Microsoft 无法代表客户或新合作伙伴进行干预。 客户应该计划与当前合作伙伴密切合作，以便过渡顺利进行。
+
+2.  订阅的云解决方案提供商合作伙伴需要执行以下任务：
 
     通过合作伙伴中心创建 Azure 服务票证以请求订阅传输：
 
@@ -35,9 +41,9 @@ translationtype: HT
 
         在步骤 2 中，选择 **C–最小影响**，然后选择**其他一般问题**作为问题类型。
 
-        下载[云解决方案提供商订阅传输表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
+        下载[云解决方案提供商订阅转移表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
 
-3.  订阅的当前云解决方案提供商合作伙伴：填写[云解决方案提供商订阅传输表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
+3.  订阅的当前云解决方案提供商合作伙伴：填写[云解决方案提供商订阅转移表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
 
     -   当前合作伙伴的联系人信息和 Microsoft ID。 在“合作伙伴中心”菜单中，依次选择**帐户设置** &gt; **组织配置文件**，然后使用此处所列的 **Microsoft ID**、**组织名称**和**地址**。
 
@@ -69,7 +75,12 @@ translationtype: HT
 
         **PS C:\\&gt; Get-AzureRMRoleAssignment**
 
-    通过在 Azure 门户中管理订阅，删除订阅和资源的已过时访问权限。 在“合作伙伴中心”菜单中，选择**客户**。 展开客户列表，然后选择**查看订阅**。 在“客户”菜单中，选择**服务管理**。 在 **Microsoft Azure** 下，单击链接即可转到 **Microsoft Azure 管理门户**。
+7. 删除已过期的访问权限
+
+    -  在合作伙伴中心菜单中，选择**客户**。 
+    -  展开客户列表，然后选择**查看订阅**。 
+    -  在“客户”菜单中，选择**服务管理**。 
+    -  在 **Microsoft Azure** 下，单击链接即可转到 **Microsoft Azure 管理门户**。
 
  
 

@@ -2,11 +2,11 @@
 title: "注册云解决方案提供商计划 | 合作伙伴中心"
 description: "了解在云解决方案提供商计划中进行销售的不同模式，并确定最适合你的业务的模式"
 author: labrenne
-ms.openlocfilehash: 648be8e9df0c72096278c3b8881cf986721293ab
-ms.sourcegitcommit: 9952a3abf59a561a650d56ee23aed1ef1b94a50c
+ms.openlocfilehash: 198e2189d7346849be67f4a93515a9da8a4deb4f
+ms.sourcegitcommit: 4329bcdc9f5e293418f2bfe60445c33acfaba2d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2017
+ms.lasthandoff: 01/24/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
@@ -38,6 +38,8 @@ ms.lasthandoff: 11/20/2017
 4. 分配有业务配置文件管理员角色的员工应该设置你的业务配置文件，以便你可以接收客户引荐。
 
 ### <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
+
+>**注意：**<br> 我们正在更新直接合作伙伴注册要求，当前不接受新的申请。 我们计划于 2018 年第 2 季度开始重新开放申请流程。 请考虑注册成为间接经销商。
 
 作为直接合作伙伴，你具有与客户和 Microsoft 之间的端到端关系。
 

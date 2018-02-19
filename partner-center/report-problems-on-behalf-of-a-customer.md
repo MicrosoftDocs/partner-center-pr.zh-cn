@@ -1,12 +1,14 @@
 ---
 title: "代表客户报告问题 | 合作伙伴中心"
-Description: "如果你的客户遇到了你无法解决的服务问题，并且该问题符合将问题上报给 Microsoft 中所述的条件，请为他们提出支持票证。"
+Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
-ms.openlocfilehash: 8c59c9d67ab06bd515945e613b14b79d21d318b8
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
+Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+ms.openlocfilehash: af69b2fd3ad63e9b926afbb6ffef3cf575c5e997
+ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 02/01/2018
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -26,24 +28,25 @@ ms.contentlocale: zh-CN
 
 3.  对于有问题的服务，请选择**创建或查看服务请求**。 你将会重定向到 Microsoft Azure 门户或 Office 365 管理员中心。
 
-    **Microsoft Azure**
+**Microsoft Azure**
 
-    1.  选择新支持**请求**。
-    2.  使用相应信息填写支持请求，然后选择**创建**：
+**注意**：若要在 Azure 中为客户创建服务请求，你的间接提供商必须授予你该客户的 Azure 帐户的访问权限。 这不同于代表 Office 365 客户进行管理。   
+
+1.  选择**新建支持请求**。
+2.  使用相应信息填写支持请求，然后选择**创建**：
         -   在支持请求的**基础知识**部分中，确保选择**支持计划**字段中的**云解决方案提供商**。
         -   在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
 
-    3.  稍后在 Microsoft Azure 门户中查看你的客户的服务请求，方法是选择**管理支持请求**。
+3.  稍后在 Microsoft Azure 门户中查看你的客户的服务请求，方法是选择**管理支持请求**。
 
-    **Office 365、Microsoft Dynamics CRM Online、企业移动性套件**
 
-    1.  在**创建服务请求**部分中，选择相应的支持主题类别。 可能需要选择**更多…** 查看其他主题。
-    2.  完成服务请求表单，然后选择**提交**。
-        **注意** 确保包含的是你的联系人信息，而不是客户的信息。
 
-         
+**Office 365、Microsoft Dynamics CRM Online、企业移动性套件**
 
-    3.  稍后查看客户的服务请求，方法是转到 Office 365 管理中心并选择**查看所有支持票证**。
+1. 在**创建服务请求**部分中，选择相应的支持主题类别。 可能需要选择**更多…** 查看其他主题。    
+2. 完成服务请求表单，然后选择**提交**。
+    **注意** 确保包含的是你的联系人信息，而不是客户的信息。
+3. 稍后查看客户的服务请求，方法是转到 Office 365 管理中心并选择**查看所有支持票证**。
 
 ## <a name="faq"></a>常见问题
 

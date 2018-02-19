@@ -3,11 +3,11 @@ title: "云业务应用程序能力"
 description: "云业务应用程序能力适用于专为客户部署和管理 Microsoft Dynamics 365 的合作伙伴。"
 author: Daniel Simpson
 keywords: "能力, 云业务应用程序"
-ms.openlocfilehash: 073e31972c8abcfdb176d6ceec65bbda67e8a5f0
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
+ms.openlocfilehash: 89459db489bce42c7b91ac1b76bebe6e34c5a705
+ms.sourcegitcommit: 201493cd49b1b65206aa46442677ec1979287358
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 01/25/2018
 ---
 # <a name="cloud-business-applications"></a>云业务应用程序 
 
@@ -51,7 +51,7 @@ ms.lasthandoff: 11/16/2017
     
     **并且**
     
-    - 这 **5** 个人必须通过以下其中一项功能考试：
+    - 这 **5** 个人或其他 5 个人必须通过以下功能考试之一：
         - [MB2-717](https://www.microsoft.com/en-us/learning/exam-mb2-717.aspx)：Microsoft Dynamics 365 for Sales
         - [MB2-718](https://www.microsoft.com/en-us/learning/exam-mb2-718.aspx)：Microsoft Dynamics 365 for Customer Service
         - [MB2-877](https://www.microsoft.com/en-us/learning/exam-MB2-877.aspx)：Microsoft Dynamics 365 for Field Service *2017 年 12 月可参加新考试
