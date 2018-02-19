@@ -3,11 +3,11 @@ title: "Microsoft 云解决方案提供商的适用市场和客户协议 | 合�
 description: "从合作伙伴中心下载特定于市场和语言的客户协议模板"
 author: Maggie Evans
 keywords: "Microsoft 云协议, 客户协议模板, 云解决方案提供商客户协议, MCA, 云解决方案提供商, 通过云解决方案提供商可以在哪里进行销售？, 云解决方案提供商国家和地区, 多种语言的云解决方案提供商 MCA, 云解决方案提供商北美洲, 云解决方案提供商中美洲, 云解决方案提供商南美洲, 云解决方案提供商加勒比地区, 云解决方案提供商 Microsoft Cloud for US Government, 云解决方案提供商 Microsoft Cloud Germany, 云解决方案提供商中东地区, 云解决方案提供商非洲, 云解决方案提供商欧洲, 云解决方案提供商亚洲, 云解决方案提供商太平洋地区, 云解决方案提供商 MCA"
-ms.openlocfilehash: 76d14f29db45d59bab06d094aeb2c7cf213533ad
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+ms.openlocfilehash: 6ed6c017eaea2607c930e403fbca71b49516d265
+ms.sourcegitcommit: 4964383ea9dcd51d27256a2969a453d67c5ebf0c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 02/03/2018
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft 云解决方案提供商市场和客户协议
 
@@ -142,7 +142,7 @@ ms.lasthandoff: 12/08/2017
 - 梵蒂冈：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-germany"></a>德国 Microsoft 云
-- 所有欧盟/欧洲自由贸易联盟：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20172_GermanCloud.pdf)、[德语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20172_GermanCloud.pdf)
+- 所有欧盟/欧洲自由贸易联盟：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_ENG_Sep20173_GermanCloud.pdf)、[德语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_GER_Sep20173_GermanCloud.pdf)
 
 ## <a name="middle-east-and-africa"></a>中东和非洲
 - 阿尔及利亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[法语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
