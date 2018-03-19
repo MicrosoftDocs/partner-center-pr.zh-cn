@@ -1,5 +1,5 @@
 ---
-title: Understand your incentive payouts | Partner Center
+title: "了解你的奖励付款 | 合作伙伴中心"
 description: "查看奖励计划的收益和付款。"
 author: labrenne
 ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
@@ -10,13 +10,13 @@ ms.lasthandoff: 07/10/2017
 ---
 #<a name="understand-your-incentive-payouts"></a>了解你的奖励付款
 
-**Applies to**
+**适用于**
 
 -  合作伙伴中心
 
 奖励管理员和用户可大概了解他们已经或即将从奖励计划收到的收益和付款。   
 
-##<a name="summary-information-on-earnings-and-payout"></a>Summary information on earnings and payout
+##<a name="summary-information-on-earnings-and-payout"></a>关于收益和付款的摘要信息
 
 奖励用户和奖励管理员可以在**付款摘要**中查看他们在所参与的奖励计划中的财务状况。 你可以根据需要详细分析每个摘要信息区域。 
 
@@ -49,7 +49,7 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="analyze-incentives-earnings"></a>分析奖励收益
 
-了解贵组织在哪里有机会通过奖励计划获取更多收益，以及你已经在哪里获得了付款。 This data makes it clear where you have earned but have not yet been paid.  Understand which programs and activities have been most successful as well as find out which of your locations is earning. By program you can see what the total earnings potential is, the time during which you can participate in the program and when it expires. 收益的每个计划和类型将具有不同的要求及开始和结束日期。 
+了解贵组织在哪里有机会通过奖励计划获取更多收益，以及你已经在哪里获得了付款。 此数据清楚地表明了你在哪里获得了收益但尚未获得付款。  了解哪些计划和活动是最成功的，并找出你在哪些位置正在获得收益。 按照计划，你可以查看总体收益潜力如何、你可以参与计划的时间段以及计划的到期时间。 收益的每个计划和类型将具有不同的要求及开始和结束日期。 
 
 ## <a name="earning-trends"></a>收益趋势 
 
@@ -96,12 +96,12 @@ ms.lasthandoff: 07/10/2017
 
 ## <a name="downloading-earnings-transactions"></a>下载收益交易 
 
-|**字段**        |**Definition**     |
+|**字段**        |**定义**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |未每个收益行项目创建的唯一标识符 |               
 |合作伙伴名称   | 合作伙伴中心中合作伙伴的注册名称                    |
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
+|MPN/PCN        |MPN ID（合作伙伴的 Microsoft 合作伙伴网络 ID）/公用客户号码|
+|位置       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
 |计划名称   |奖励计划的名称 |
 |客户名称  |   购买订阅的客户的名称 |
 |客户位置  | 客户所在的国家/地区  |
@@ -113,11 +113,11 @@ ms.lasthandoff: 07/10/2017
 |协议结束日期 |许可协议的结束日期，包括续订和延期 |
 |订阅开始日期    |订阅的开始日期|
 |订阅结束日期  |订阅的结束日期|
-|Product SKU    |产品的 SKU 编号|
+|产品 SKU    |产品的 SKU 编号|
 |产品名称   |Microsoft 产品的名称|
 |交易日期   |进行交易的日期和时间 (UTC)。|
 |许可证计数  |售出许可证的数量 |
-|Quantity   |销售数量| 
+|数量   |销售数量| 
 |现有数量 |上一个收益期间的单位数量 |
 |单价 |销售单价| 
 |交易金额 |计算费率乘以此金额以计算奖励收益|
@@ -128,7 +128,7 @@ ms.lasthandoff: 07/10/2017
 |收益期间     |基于计划的收益期间 |
 |收益期间开始时间   |计划收益期间的开始时间 (UTC) |
 |收益期间结束时间 |计划收益期间的结束时间 (UTC)|
-|Calculation Date   |计算收益的日期 (UTC)|
+|计算日期   |计算收益的日期 (UTC)|
 |收益货币   |收益金额的货币 |
 |收益外汇汇率|用于从交易货币转换为收益货币的外汇汇率|
 |报告货币|用于报告的货币|
@@ -145,8 +145,8 @@ ms.lasthandoff: 07/10/2017
 |**列名称**   |**描述**   |
 |-------------------|:--------------------|
 |合作伙伴名称|合作伙伴在合作伙伴中心的注册名称|
-|MPN/PCN        |MPN ID (Partner's Microsoft Partner Network ID)/ Public Customer Number|
-|Location       | Country/Region of Partner's MPN V-Org ID|
+|MPN/PCN        |MPN ID（合作伙伴的 Microsoft 合作伙伴网络 ID）/公用客户号码|
+|位置       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
 |计划名称   |奖励计划的名称 |
 |收益类型   |收益类型（退款、调整） |
 |付款金额货币|   用于付款的货币类型|

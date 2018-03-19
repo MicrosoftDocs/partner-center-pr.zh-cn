@@ -10,43 +10,43 @@ ms.lasthandoff: 07/07/2017
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>在合作伙伴中心管理你的奖励 
 
-**Applies to**
+**适用于**
 
--  Partner Center
+-  合作伙伴中心
 
-## <a name="partner-incentives"></a>Partner Incentives 
+## <a name="partner-incentives"></a>合作伙伴奖励 
 
-Whether you are doing business in the cloud, on-premises, or somewhere in between, Partner Incentives support your profitability and growth.
+无论你是在云中、本地还是在两者之间的某个地方开展业务，合作伙伴奖励都会为你的盈利能力和增长提供支持。
 
-## <a name="qualify-for-the-partner-incentives-program"></a>Qualify for the Partner Incentives program
+## <a name="qualify-for-the-partner-incentives-program"></a>获得合作伙伴奖励计划资格
 
-You're eligible for the CSP Incentives Program when you meet the following criteria:
+当你符合以下条件时，你就有资格参与云解决方案提供商奖励计划：
 
--   Have an active Microsoft Partner Network (MPN) agreement 
--   A valid Cloud Distributor agreement (indirect providers only)
--   A Reseller agreement (direct sellers only)
--   Meet the competency requirement
+-   签署了有效的 Microsoft 合作伙伴网络 (MPN) 协议 
+-   签署了有效的云分销商协议（仅限间接提供商）
+-   签署了经销商协议（仅限直接卖方）
+-   满足能力要求
 
-As soon as you become eligible, you will be invited to join the program.
+一旦你符合条件，我们就会邀请你加入该计划。
 
-## <a name="one-site-one-sign-in"></a>One site, one sign in
+## <a name="one-site-one-sign-in"></a>一个站点，一次登录
 
-Now that Partner incentives management is available in Partner Center, you can sign up for incentives, access your tax and payment profiles, access your earnings and payment statements, and manage users – all here in Partner Center. 
+现在，合作伙伴中心提供合作伙伴奖励管理功能，你可以注册奖励、访问你的税务和付款配置文件、访问你的收益和付款明细表以及管理用户 – 所有这一切都在合作伙伴中心进行。 
 
-Beginning with already enrolled Partners, we are enabling partners to manage incentives in Partner Center in phases starting in July. Look out for an email from us letting you know that it is time to set up your organization for incentives in Partner Center. 
+从已注册的合作伙伴开始，我们将从 7 月份开始分阶段地支持合作伙伴在合作伙伴中心管理奖励。 请留意我们的电子邮件，以便了解在合作伙伴中心针对奖励设置组织的时机。 
 
-Admins, if you have received the email, follow these three easy steps today:
+管理员们，如果你们收到了此电子邮件，请立即按照以下三个简单步骤进行操作：
 
 1.  登录到合作伙伴中心 
 2.  按照电子邮件中的说明进行操作，设置奖励用户 
 3.  为你新设置的奖励用户提供合作伙伴中心登录凭据
 
-When the Incentive Admin has received credentials, they can complete the migration of your organization which will enable your organization to manage your incentives here – in Partner center.
+当奖励管理员收到凭据后，他们可以完成组织迁移，这样，你的组织就能够在此处（合作伙伴中心）管理你的奖励。
 
 
-[Create user accounts and assign permissions](create-user-accounts-and-set-permissions.md)
+[创建用户帐户并分配权限](create-user-accounts-and-set-permissions.md)
 
-[Reset a user password](reset-a-user-password.md)
+[重置用户密码](reset-a-user-password.md)
 
-[Understand your Incentive payouts](understand-incentive-payouts.md)
+[了解你的奖励付款](understand-incentive-payouts.md)
 

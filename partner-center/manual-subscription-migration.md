@@ -1,6 +1,6 @@
 ---
-title: Migrate Dynamics AX subscriptions to Dynamics 365 | Partner Center
-description: Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.
+title: "将 Dynamics AX 订阅迁移到 Dynamics 365 | 合作伙伴中心"
+description: "Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。"
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
@@ -9,15 +9,15 @@ ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/24/2017
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>Migrate Dynamics AX subscriptions to Dynamics 365
+# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>将 Dynamics AX 订阅迁移到 Dynamics 365
 
-**Applies to**
+**适用于**
 
--  Partner Center
+-  合作伙伴中心
 
-Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities. 作为新产品的一部分，Microsoft 在 2016 年 11 月 1 日为客户引进了新 Microsoft Dynamics 订阅计划，该计划与当前计划类似但不相同。
+Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。 作为新产品的一部分，Microsoft 在 2016 年 11 月 1 日为客户引进了新 Microsoft Dynamics 订阅计划，该计划与当前计划类似但不相同。
 
-本文档中的说明介绍了间接提供商如何将客户的现有 Microsoft Dynamics AX 订阅和 Microsoft Dymanics CRM Online 订阅转换为 Microsoft Dynamics 365。 The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.
+本文档中的说明介绍了间接提供商如何将客户的现有 Microsoft Dynamics AX 订阅和 Microsoft Dymanics CRM Online 订阅转换为 Microsoft Dynamics 365。 这些说明也适用于其他更新到新版本的 Microsoft 产品，需要提供商将客户订阅迁移到新 SKU。
 
 Microsoft Dynamics CRM Online 和 AX 计划已停用。  2017 年 7 月 1 日生效，你可以不再续订这些旧计划，此外，现有 E4 订阅在到期时将不会自动续订。
 
@@ -62,10 +62,10 @@ Microsoft Dynamics AX 产品线于 2016 年 11 月 1 日停用。 若要了解�
 ## <a name="transition-customers-to-new-product-plans"></a>将客户过渡到新产品计划
 
 
-Microsoft continuously offers new products and services to resellers and providers. In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down. Migrating customers from old SKUs to newer ones requires the following sequence:
+Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情况下，经销商可能需要将客户升级到新服务，或将他们的订阅从最终将关闭的 SKU 中迁出。 将客户从旧 SKU 中迁移到新 SKU 需要按照以下顺序操作：
 
--   [Purchase the new subscription](#manual-subscription-migration-purchasenewsubsc);
--   [Re-assign current user licenses](#manual-subscription-migration-reassignlicenses);
+-   [购买新订阅](#manual-subscription-migration-purchasenewsubsc)；
+-   [重新分配当前用户许可证](#manual-subscription-migration-reassignlicenses)；
 -   [取消旧订阅](#manual-subscription-migration-cancelsubscriptions)。
 
 以下过程将客户从 Microsoft Dynamics AX 或 CRM Online 移动到 Dynamics 365。
@@ -76,40 +76,40 @@ Microsoft continuously offers new products and services to resellers and provide
 
 **购买新订阅**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.
-2.  Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.
+1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**添加订阅**。
+2.  选择要从目录中购买的订阅（在此情况下是 Dynamics 365 for Operations 企业版）、输入许可证编号，然后选择**提交**。
 
-    Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.
+    此时客户应该具有新旧两个订阅：在此示例中是旧的 Dynamics AX Enterprise 和新的“目标”订阅，即 Dynamics 365 for Operations 企业版。
 
-<a href="" id="reassignlicenses"></a> The next step is to reassign all existing user licenses to the new subscription.
+<a href="" id="reassignlicenses"></a>下一步是将所有现有用户许可证重新分配到新订阅。
 
-**Reassign user licenses**
+**重新分配用户许可证**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**. The customer’s Users and Licenses page opens.
-2.  To re-assign user licenses, select the user to reassign and then select **Manage licenses**.
-3.  On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.
-4.  Select **Submit**. A confirmation page lists the new license assignments.
-5.  Continue the same steps with any other customer users that need license reassignment.
+1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
+2.  若要重新分配用户许可证，选择要重新分配的用户，然后选择**管理许可证**。
+3.  在**管理许可证**页上，清除 **Dynamics AX Enterprise** 许可证复选框，然后选择 **Dynamics 365 for Operations** 许可证。
+4.  选择**提交**。 确认页面列出了新的许可证分配。
+5.  对其他任何需要重新分配许可证的客户用户继续执行相同的步骤。
 
-<a href="" id="cancelsubscriptions"></a> After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.
+<a href="" id="cancelsubscriptions"></a>在将用户许可证移动至新服务后，可安全取消最高“客户”级别的旧订阅。
 
-**Cancel the old subscription**
+**取消旧订阅**
 
-1.  From the **Dashboard** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.
-2.  In the subscription details page, set the subscription **Status** to **Suspended**.
-3.  Select **Submit**.
+1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择要取消的订阅。
+2.  在订阅详细信息页面中，将订阅**状态**设置为**已暂停**。
+3.  选择**提交**。
 
-The old subscription is suspended, and the new subscription is active. The suspended subscription will automatically be de-provisioned after 120 days. The customer incurs no additional costs for the old subscription.
+旧订阅已暂停，新订阅将激活。 暂停的订阅在 120 天后将自动取消预配。 不会向客户收取旧订阅的任何额外成本。
 
-## <a name="additional-considerations"></a>Additional considerations
+## <a name="additional-considerations"></a>其他注意事项
 
 
-If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:
+如果客户从“开放渠道”移动至“云服务计划”以进一步预配订阅，还需要迁移他们的现有订阅：
 
--   If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.
--   If the customer is not yet established as your customer, you can invite them. For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.
+-   如果客户通过“开放渠道”接收旧订阅，可直接移动到新 SKU 上的云解决方案提供商。
+-   如果客户尚未成为你的客户，可向他们发出邀请。 有关信息，请参阅[请求与客户建立关系](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)帮助主题。
 
-After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses. The only difference involves cancellation of old subscription(s). A new provider cannot cancel suspend/cancel subscriptions acquired via other channels. If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.
+在客户接受你成为他们的间接提供商后，预配步骤与上述步骤大致相同：购买新订阅，然后分配用户许可证。 唯一的区域是取消旧订阅。 新提供商无法暂停/取消通过其他渠道获取的订阅。 如果客户在其他销售渠道（例如开放渠道）获取了以前的订阅，需要通过该渠道自行取消。
 
  
 

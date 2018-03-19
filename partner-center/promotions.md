@@ -10,7 +10,7 @@ ms.lasthandoff: 08/24/2017
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促销吸引新客户  
 
-**Applies to: Partner Center**
+**适用于：合作伙伴中心**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -32,18 +32,18 @@ Microsoft 提供以下两种类型的促销：适用于云解决方案提供商 
 
 你可以在**促销**页面上查看你有资格参与的促销（如果有）。 从**仪表板**菜单中选择**促销**，以查看当前促销的列表，以及该订阅的折扣、促销类型及开始日期和结束日期。 如果没有可用促销，你将看到一条消息说明此情况。 
 
->**Note**<br>
-You can also see promotions when making a purchase. 选择订阅时，折扣百分比会显示在**查看**页面上。
+>**注意**<br>
+你也可以在购物时查看促销。 选择订阅时，折扣百分比会显示在**查看**页面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>按折扣价格购买订阅
 
-1. On your **Dashboard** menu, select **Customers** and then select the customer who’s buying the subscription. 
+1. 在你的**仪表板**菜单上，选择**客户**，然后选择要购买订阅的客户。 
 
-2. Select **Add subscription**.
+2. 选择**添加订阅**。
 
 3. 在**新订阅**页面上，选择促销适用的订阅。
 
-4. Enter the number of licenses the customer needs. 
+4. 输入客户需要的许可证数。 
 
 5. 查看订单。 你将看到将用于**折扣**列的促销定价。  
 

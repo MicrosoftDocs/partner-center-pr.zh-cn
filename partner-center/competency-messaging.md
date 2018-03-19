@@ -1,42 +1,42 @@
 ---
-title: Messaging Competency
-description: The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
+title: "消息能力"
+description: "消息能力用于认可以下合作伙伴：能够获得竞争优势、缩短销售周期，并作为合格的 Microsoft Exchange 解决方案提供商展示技能来增长业务。"
 author: Daniel Simpson
-keywords: competency,competencies,Messaging
+keywords: "能力, 消息"
 ms.openlocfilehash: 41a8bd44f5a0dacf49554907dd381e1ec7140a21
 ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/07/2017
 ---
-#<a name="messaging"></a>Messaging
-The Messaging competency recognizes partners who gain a competitive advantage, shorten sales cycles, and grow their business by showcasing skills as a qualified Microsoft Exchange solution provider.
+#<a name="messaging"></a>消息
+消息能力用于认可以下合作伙伴：能够获得竞争优势、缩短销售周期，并作为合格的 Microsoft Exchange 解决方案提供商展示技能来增长业务。
 
-##<a name="hybrid-services-partner-option"></a>Hybrid Services Partner option
-Put your product knowledge to the test by passing exams or certifications.
+##<a name="hybrid-services-partner-option"></a>混合服务合作伙伴选项
+通过通过考试或认证来测试你的产品知识。
 
-###<a name="silver"></a>Silver
-1. Your organization must have **2** individuals pass the exam or certification requirements.
+###<a name="silver"></a>银牌
+1. 你的组织必须有 **2** 个人达到了考试或认证的要求。
     
-    - **2** individuals must each pass all the following exams:
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
-        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
+    - **2** 个人必须都通过以下所有考试：
+        - [考试 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：启用 Microsoft Office 365 服务
+        - [考试 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx)：设计和部署 Microsoft Exchange Server 2016
 
-    **OR**
+    **或者**
 
-     - **2** individuals must pass the following certification:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+     - **2** 个人必须通过以下认证：
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx)：生产力
 
-###<a name="gold"></a>Gold
-1. Your organization must have **4** individuals pass the exam or certification requirements.
+###<a name="gold"></a>金牌
+1. 你的组织必须有 **4** 个人达到了考试或认证的要求。
 
-    - **4** individuals must each pass all the following exams:
-        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Services for Microsoft Office 365
-        - [Exam 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016
+    - **4** 个人必须都通过以下所有考试：
+        - [考试 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：启用 Microsoft Office 365 服务
+        - [考试 70-345](https://www.microsoft.com/en-us/learning/exam-70-345.aspx)：设计和部署 Microsoft Exchange Server 2016
 
-    **OR**
+    **或者**
 
-    - **4** individuals must pass the following certification:
-        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx): Productivity
+    - **4** 个人必须通过以下认证：
+        - [MCSE](https://www.microsoft.com/en-us/learning/mcse-productivity-certification.aspx)：生产力
 
 
