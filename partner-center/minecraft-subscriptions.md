@@ -1,13 +1,13 @@
 ---
-title: "向教育行业客户销售 Minecraft Education Edition 订阅"
-description: "向教育行业客户销售 Minecraft Education Edition 订阅"
+title: 向教育行业客户销售 Minecraft Education Edition 订阅
+description: 向教育行业客户销售 Minecraft Education Edition 订阅
 author: KPacquer
-keywords: "授权的教育行业合作伙伴"
-ms.openlocfilehash: b719fb858abe5e171e4bf785fc2c4b3e4500d7c5
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+keywords: 授权的教育行业合作伙伴
+ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
+ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 02/21/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
@@ -29,6 +29,37 @@ ms.lasthandoff: 12/02/2017
       b. 管理员可转到 [Minecraft 详细信息页](https://educationstore.microsoft.com/en-us/store/details/minecraft-education-edition/9nblggh4r2r6)下载应用，并将应用分发给用户。 有关详细说明，请参阅 [IT 管理员 - 获取 Minecraft: Education Edition：分发 Minecraft](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)。
     
   如果学校的 IT 管理员不熟悉适用于企业的 Microsoft Store，应指导他们阅读[适用于企业的 Microsoft Store 和适用于教育的 Microsoft Store 概述](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)。 
+
+## <a name="special-pricing-for-education-offers"></a>教育产品/服务的特殊定价
+
+Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈利目的和政府用途或非常大的客户群。 经销商必须先经过认证才能访问此定价。 客户还必须有资格获得特殊价格。
+
+**检查你的经销商资格**
+
+1.  从**仪表板**菜单中，选择**帐户设置**。
+2.  在你的**合作伙伴配置文件**的**云解决方案提供商计划信息**部分中，查找**经销商资格**。
+3.  如果你看不到**经销商资格**，则表示你尚未获得购买任何特殊产品的授权。
+
+**检查客户资格**
+
+1.  从**仪表板**菜单中，选择**客户**。 从列表中选择客户。
+2.  在“客户”菜单中，选择**帐户**。 在**公司信息**部分中，查找**特殊资格**。
+3.  如果**特殊资格**设为**无**，但客户实际上符合资格，可将相关资格**更新**到其详细信息中。
+
+## <a name="access-education-offers"></a>访问教育产品/服务 
+
+若要在云解决方案提供商中获取教育产品/服务的访问权限，[请成为授权的教育合作伙伴](http://go.microsoft.com/fwlink/p/?LinkId=808781) (AEP)。
+
+### <a name="purchase-offers-at-education-pricing"></a>以教育定价购买产品
+
+1. 你必须是[经授权的教育合作伙伴](http://go.microsoft.com/fwlink/p/?LinkId=808781)。
+客户必须符合你的市场对[合格教育用户](http://go.microsoft.com/fwlink/p/?LinkId=808795)的定义。
+2. 按照标准步骤[创建新订阅](create-a-new-subscription.md)。 但是，当从目录中选择产品/服务时，请从“教育”选项卡中选择它。
+
+
+
+
+
 
 <!-- ## Purchase through Partner Center API 
 

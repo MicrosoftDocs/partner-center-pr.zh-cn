@@ -1,16 +1,16 @@
 ---
-title: "创建新订阅 | 合作伙伴中心"
-description: "在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。"
+title: 创建、暂停或取消客户订阅 | 合作伙伴中心
+description: 在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
-Keywords: subscription, create new, add subscription,
-ms.openlocfilehash: 22c19d5f8530f4c79bda522e8087379b488f6474
-ms.sourcegitcommit: 86b5aa793bc453219246c667f82dbebc3a37c3eb
+Keywords: subscription, create new, add subscription, suspend, cancel,
+ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
+ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2018
+ms.lasthandoff: 03/01/2018
 ---
-# <a name="create-a-new-subscription"></a>创建新订阅
+# <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
 **适用于**
 
@@ -42,18 +42,23 @@ ms.lasthandoff: 01/03/2018
 
 7.  在编辑页面上，还可以更改许可证数量，或者暂停订阅。
 
+## <a name="suspend-or-cancel-a-subscription"></a>暂停或取消订阅
 
-**使客户能够管理他们的 Azure 订阅**
+在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。
 
-在为客户创建 Microsoft Azure 订阅后，可以让他们管理该订阅。 为此，需要登录客户的 Microsoft Azure 管理门户。 
+当你将订阅状态更改为**已暂停**时，用户将无法登录或访问服务。 管理员仍可登录和访问数据。
 
-1.  若要打开客户的 Azure 门户，请在客户列表中展开客户的列表，或者选择客户的名称，然后选择 **Microsoft Azure 管理门户**。
-    
- >**注意：** <br> 如果系统提示你登录 Azure 门户，可能是因为你未获得委托管理权限。 请选择**请求建立关系**以邀请客户将你确定为他们的记录合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。 
+**暂停订阅**
 
-2.  在 Azure 门户中，打开客户的订阅列表并选择客户的 Azure 订阅。
+1.  在**仪表板**菜单中，选择**客户**，然后从列表中选择客户。
+2.  选择要管理的订阅。
+3.  在**状态**部分中，选择**已暂停**。 然后**提交**更改。
+4.  除非在 90 天内或在 90 天加上帐户打开时间与第一个计费周期之间的天数内（最长 120 天）重新激活订阅，否则所有数据将被删除。
 
-3.  将角色分配给任意客户用户，使他们能够使用其订阅创建和管理资源。
+暂停订阅后，你在**暂停**按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 
+
+
+
 
  
 

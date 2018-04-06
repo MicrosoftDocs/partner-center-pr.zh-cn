@@ -1,13 +1,13 @@
 ---
-title: "使用对帐文件 | 合作伙伴中心"
-description: "有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。"
+title: 使用对帐文件 | 合作伙伴中心
+description: 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: bcb5677d2b1309df0e33e093a3908d55e5792580
-ms.sourcegitcommit: ac370f5d2d5b74e1e4752eaeec6fde73e5328225
+ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2017
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -503,7 +503,7 @@ ms.lasthandoff: 12/15/2017
 </tr>
 <tr>
 <td>
-<p>取消实例按比例计算</p>
+<p>取消费用</p>
 </td>
 <td>
 <p>相关席位发生变化时，退款给客户的按比例计算的费用</p>

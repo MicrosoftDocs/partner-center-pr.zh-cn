@@ -1,13 +1,13 @@
 ---
-title: "计费基础知识 | 合作伙伴中心"
+title: 计费基础知识 | 合作伙伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
-keywords: "计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件"
-ms.openlocfilehash: 59cdd6a3b0024356479ef0da87a87ac79148d316
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
+ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="billing-basics"></a>计费基础知识
 
@@ -59,8 +59,7 @@ ms.lasthandoff: 01/17/2018
 <tr class="odd">
 <td>调整/信用/取消</td>
 <td><ul>
-<li>测试帐户和集成测试的信用并未得到授权。 为在执行测试时避免产生订阅费用或早期终止费用，可在“免费时段”取消订阅。 Azure 服务的所有消耗使用费用都由你自己承担。</li>
-<li>应用退款或调整后，可在下一张计费发票上看到调整和拖欠的退款。</li>
+<li>应用信用或调整后，可在下一张计费发票上看到调整和拖欠的信用。</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -89,15 +88,6 @@ ms.lasthandoff: 01/17/2018
 </colgroup>
 <tbody>
 <tr class="odd">
-<td>最长免费一个月的奖励</td>
-<td><ul>
-<li>采用按月计费的新订阅仍有免费时段，并且其计费日期与合作伙伴计费日期一致。</li>
-<LI> 采用按年计费的订阅将不提供免费时段，其计费日期与购买日期一致。 合作伙伴将继续在其按月计费日期收到发票和对帐文件，其中将包含每月订阅和年度订阅的帐单活动。
-<li>根据相应协议，如果未取消订阅，所有订阅将重新自动续订 12 个月的时间，并且会预先支付 12 个月份的费用。</li>
-<li>免费时段不适用于基于使用情况的服务。</li>
-</ul></td>
-</tr>
-<tr class="even">
 <td>计费规则</td>
 <td><ul>
 <li>订阅为一年期并且自动续订。</li>
@@ -107,7 +97,7 @@ ms.lasthandoff: 01/17/2018
 <li>将针对所售席位（而非预配的席位）收取相关付款。</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>调整/信用/取消</td>
 <td><ul>
 <li>当前不对取消基于许可证的服务收取提前终止费用。</li>
@@ -133,7 +123,6 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 <tr class="odd">
 <td>计费规则</td>
 <td><ul>
-<li>计费在订阅开始日期开始。 基于使用情况的计费没有“免费时段”。</li>
 <li>订阅按月划分，并且以新的按使用量计费的服务费率自动续订。 计费基于使用情况按月延后。</li>
 <li>按使用量计费的服务费率可能在发票周期内更改。
 <ul>

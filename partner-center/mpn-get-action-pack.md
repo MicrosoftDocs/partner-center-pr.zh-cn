@@ -1,12 +1,12 @@
 ---
-title: "购买或续订 Action Pack | 合作伙伴中心"
-description: "了解如何购买或续订 Microsoft Action Pack 订阅。"
+title: 购买或续订 Action Pack | 合作伙伴中心
+description: 了解如何购买或续订 Microsoft Action Pack 订阅。
 author: MaggiePucciEvans
-ms.openlocfilehash: a1b9bc4e606555d472e1e27c8b71c52c9ccb7091
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: 9213901def90384076102655a2df1c0605455d7a
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 03/09/2018
 ---
 # <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>购买或续订 Microsoft Action Pack 订阅
 
@@ -96,6 +96,14 @@ Action Pack 是服务、软件和支持的经济实惠型年度订阅。 订阅 
 
 若要查看服务请求的状态，请选择**服务请求 > 合作伙伴中心请求**，然后选择**打开**。 从列表中选择合适的服务请求。  
 
+## <a name="how-to-get-your-maps-invoice"></a>如何获取 MAPS 发票
+
+要下载 Microsoft Action Pack 订阅发票的副本，必须遵循以下步骤。
+
+1. 登录到 [partnercenter.microsoft.com](https://partnercenter.microsoft.com) 
+2. 单击“合作关系”。 
+3. 选择“产品/服务”，然后单击“已购买”。 
+4. 单击“下载发票”
  
 ## <a name="next-steps"></a>后续步骤
 

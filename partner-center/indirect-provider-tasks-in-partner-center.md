@@ -1,12 +1,12 @@
 ---
-title: "与云解决方案提供商计划中的间接经销商合作 |合作伙伴中心"
-description: "作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。"
+title: 与云解决方案提供商计划中的间接经销商合作 |合作伙伴中心
+description: 作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。
 author: MaggiePucciEvans
-ms.openlocfilehash: a06ba13e11ce640ca7985090125270b4b62fb447
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: cc39be08953c88be2e55f6c53c41c1528f0c7493
+ms.sourcegitcommit: c51de6e6cbb71d11d31af21943583e9e17d66502
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 03/12/2018
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -72,6 +72,7 @@ ms.lasthandoff: 11/03/2017
 | **若要完成此操作** | **执行此操作** | **位置** |
 |   ------------------   |   -------   |   -----   |
 | 使经销商能够管理客户的帐户并且具有管理员权限以管理其订阅 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
+|允许经销商管理一个 Azure 客户的帐户|添加新客户时将经销商与 Azure 客户帐户相关联|在 **Azure 服务门户**上，选择[用户设置](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)以授予间接经销商**租户所有者**权限|
 | 给予经销商信用奖励 | 将经销商与（新的或现有的）订阅相关联 | 在**新建订阅**页面上 |
 | 委派经销商作为特定订阅的客户支持 | 从**指定支持联系人**列表中选择经销商 | 在订阅的详细信息页面上：从你的**客户**页面中选择客户，然后从客户的**订阅**页面中选择订阅 |
 

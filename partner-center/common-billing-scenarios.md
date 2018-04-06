@@ -1,14 +1,14 @@
 ---
-title: "常见计费方案 | 合作伙伴中心"
-description: "本主题介绍了在添加新订阅、调整订阅中的许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。"
+title: 常见计费方案 | 合作伙伴中心
+description: 本主题介绍了在添加新订阅、调整订阅中的许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, free period, term, cancellation, renewal, price formula,reconciliation file, recon file
-ms.openlocfilehash: 0bfdf6e5f5a9617413981f0a0758f25e0a0eca54
-ms.sourcegitcommit: 359ba82a9e337b1f04d62f0bb2d5eb8f87102e34
+Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+ms.openlocfilehash: 92c253bb7d73a48eb9b6acc36f54d7f33482c1ad
+ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/09/2018
+ms.lasthandoff: 02/28/2018
 ---
 # <a name="common-billing-scenarios"></a>常见计费方案
 
@@ -42,8 +42,6 @@ ms.lasthandoff: 02/09/2018
 **计费：**在订阅周年日期会预先对基于许可证的订阅计费。
 
 **周年日期：**按月计费订阅的周年日期与合作伙伴计费日期一致，按年计费订阅的周年日期与购买日期一致。
-
-**免费时段：**为按月计费订阅提供的免费时段为从购买日期到下一个合作伙伴计费日期。
 
 **期限：**所有基于许可证的订阅都具有 12 个月的付费期限。 对于按年计费订阅，付费期限始于购买日期；对于按月计费订阅，付费期限始于购买日期之后的计费日期。
 

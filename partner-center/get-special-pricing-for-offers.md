@@ -1,19 +1,28 @@
 ---
-title: "获取产品/服务的特殊定价 | 合作伙伴中心"
-Description: "Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈利目的和政府用途或非常大的客户群。"
+title: 销售给特定行业 | 合作伙伴中心
+Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: a34d5b83982cc54d2cd045358d254f5482447285
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
+ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 03/09/2018
 ---
-# <a name="get-special-pricing-for-offers"></a>获取产品/服务的特殊定价
+# <a name="sell-to-specialized-industries"></a>销售给特定行业
 
-**适用于**
+**适用范围**
 
 -  合作伙伴中心
 
-Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈利目的和政府用途或非常大的客户群。 经销商必须先经过认证才能访问此定价。 客户还必须有资格获得特殊价格。
+Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈利目的和政府用途或非常大的客户群。 经销商必须先经过认证才能提供此定价。 客户还必须有资格获得特价。
+
+|**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|教育   |成为[授权的教育经销商](https://www.mepn.com/MEPN/AEPHome.aspx)   | 必须是[合格的教育用户](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
+|政府   |使用 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)注册|   无|
+|非盈利  |无   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格   |
+
 
 **检查你的经销商资格**
 
@@ -27,24 +36,10 @@ Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈�
 2.  在“客户”菜单中，选择**帐户**。 在**公司信息**部分中，查找**特殊资格**。
 3.  如果**特殊资格**设为**无**，但客户实际上符合资格，可将相关资格**更新**到其详细信息中。
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>教育产品/服务</p></td>
-<td><p>若要在云解决方案提供商中获取教育产品/服务的访问权限，[请成为经授权的教育合作伙伴 ](http://go.microsoft.com/fwlink/p/?LinkId=808781)(AEP)。</p>
-<p>以教育定价购买产品</strong></p>
-<ol>
-<li>你必须是[经授权的教育合作伙伴](http://go.microsoft.com/fwlink/p/?LinkId=808781)。</li>
-<li>客户必须符合你的市场对[合格教育用户](http://go.microsoft.com/fwlink/p/?LinkId=808795)的定义。</li>
-<li>按照正常步骤[创建新订阅](create-a-new-subscription.md)。 但是，当从目录中选择产品/服务时，请从“教育”<strong></strong>选项卡中选择它。</li>
-</ol></td>
-</tr>
-</tbody>
-</table>
+**在哪里可以找到特价产品/服务**
+
+你和你的客户符合特价产品/服务计划的资格要求后，按照正常步骤[创建新订阅](create-a-new-subscription.md)。 该目录将包含选项卡，其中列出你可以销售的特价产品/服务（如**教育**）。 
+
 
  
 
