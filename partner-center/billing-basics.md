@@ -3,11 +3,11 @@ title: 计费基础知识 | 合作伙伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
-ms.openlocfilehash: 6992c2f0a7ac235e8ee62bd82a134631ec35b0db
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="billing-basics"></a>计费基础知识
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 02/28/2018
 <tr class="even">
 <td>发票可用性</td>
 <td><ul>
-<li>可从合作伙伴中心的“计费”页面查看和下载发票和对帐文件。 请注意，从选定计费日期起四 (4) 天内可在合作伙伴中心获得每月发票。</li>
+<li>可从合作伙伴仪表板的“计费”页面查看和下载发票和对帐文件。 请注意，从选定计费日期起四 (4) 天内可在合作伙伴仪表板获得每月发票。</li>
 </ul></td>
 </tr>
 <tr class="odd">

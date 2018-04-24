@@ -1,14 +1,14 @@
 ---
-title: "云解决方案提供商区域授权租户合并 | 合作伙伴中心"
-description: "使用这些说明合并不同国家/地区的租户。"
+title: 云解决方案提供商区域授权租户合并 | 合作伙伴中心
+description: 使用这些说明合并不同国家/地区的租户。
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
-keywords: "迁移客户, 预配, 租户帐户, 合并租户"
-ms.openlocfilehash: e895fd049211a3dfcb4db930b75d94906563b700
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
+keywords: 迁移客户, 预配, 租户帐户, 合并租户
+ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并
 
@@ -29,14 +29,14 @@ ms.lasthandoff: 01/17/2018
 ## <a name="prepare-for-migration"></a>准备迁移
 
 
--   使用过渡（现有）帐户登录 <https://partnercenter.microsoft.com>，然后记下所有客户和为这些客户预配的所有服务。
+-   使用**过渡**（现有）帐户（你将过渡的帐户）登录到**仪表板**，然后记下所有客户和为这些客户预配的所有服务。
 
 ![区域客户列表](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>迁移客户帐户
 
 
-1.  使用过渡（新建）帐户登录 <https://partnercenter.microsoft.com>，然后从“合作伙伴中心”仪表板导航至“客户”列表。
+1.  使用**过渡**（新）帐户（你正在向其过渡的帐户）登录到**仪表板**，然后从**客户**导航到客户列表。
 
 2.  选择客户。
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 01/17/2018
 
 1.  客户签署协议后，可在“集中合作伙伴租户”下重新创建他们的订阅。
 
-2.  在“合作伙伴中心”仪表板上，单击左侧导航中的**客户**
+2.  从**仪表板**中，选择**客户**。
 
 3.  打开要迁移的客户的公司名称。
 
@@ -80,7 +80,7 @@ ms.lasthandoff: 01/17/2018
 
 禁用**过渡源**合作伙伴帐户下的云解决方案提供商订阅将阻止以后的任何计费。 无需手动禁用 Azure 订阅，因为 Azure 订阅在迁移过程中将自动禁用。
 
-1.  使用**过渡源**云解决方案提供商帐户登录 <https://partnercenter.microsoft.com>，然后导航至客户列表。
+1.  使用**过渡源**云解决方案提供商帐户登录到**仪表板**，然后导航至客户列表。
 
 2.  打开要禁用订阅的客户，然后选择第一个要禁用的产品/服务。
 3.  将订阅设置为**已暂停**，然后单击**提交**。
@@ -140,21 +140,6 @@ ms.lasthandoff: 01/17/2018
 
 有关 API 注册的详细信息，[请参阅此页](https://go.microsoft.com/fwlink/?linkid=847990)。
 
-## <a name="partner-center-activity-log"></a>合作伙伴中心活动日志
-
-
-通过活动日志，合作伙伴可以查看所有受影响的客户在租户上所做的更改记录。 这有助于合作伙伴跟踪客户租户上的更改。
-
-**查看活动日志**
-
-1.  在“合作伙伴中心”仪表板上，单击**活动日志**链接。
-2.  在**活动日志**页上，查看对客户帐户进行的更改。 若要按日期筛选活动日志，请在日志中选择**开始**和**结束**日期，缩小所选记录的范围。 若要在**活动日志**中按客户筛选，请使用搜索框。
-
-**导出活动日志**
-
--   单击**导出日志**，将活动日志数据导出为 CSV 文件。
-
-    还可以导出客户列表和单个客户的订阅列表（从客户订阅页中导出）。
 
  
 

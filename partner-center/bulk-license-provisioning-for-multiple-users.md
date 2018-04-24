@@ -1,14 +1,14 @@
 ---
-title: "向多个用户分配或撤消许可证 | 合作伙伴中心"
-description: "可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。"
+title: 向多个用户分配或撤消许可证 | 合作伙伴中心
+description: 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
-ms.openlocfilehash: 513e2336d831095fcabc408db5fc467d8e909e36
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: e8116e5955fee38b628d72740ffc3d376115aad8
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 12/21/2017
 
 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 
-合作伙伴中心跟踪并显示所有客户拥有的许可证权利。
+合作伙伴仪表板跟踪并显示所有客户拥有的许可证权利。
 
 ## <a name="in-this-section"></a>本部分内容
 
@@ -55,7 +55,7 @@ ms.lasthandoff: 12/21/2017
 7.  通过选中每个产品的复选框，为用户选择多个产品。
     -   选择任何产品的**查看服务计划**，查看并选择用户需要的服务计划。
 
-8.  选择**保存**。 合作伙伴中心打开列有用户及其新许可证的**更新的许可证**确认页面。
+8.  选择**保存**。 合作伙伴仪表板打开列有用户及其新许可证的**更新的许可证**确认页面。
 
 **注意** 某些 Microsoft 产品可能未在特定地区提供。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
 

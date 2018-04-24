@@ -1,13 +1,13 @@
 ---
-title: "Microsoft 合作伙伴网络成员身份 |合作伙伴中心"
-description: "了解加入 Microsoft 合作伙伴网络的权益。"
+title: Microsoft 合作伙伴网络成员身份 |合作伙伴中心
+description: 了解加入 Microsoft 合作伙伴网络的权益。
 author: MaggiePucciEvans
-keywords: "合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 成员身份"
-ms.openlocfilehash: 55781109f58c424ee7bdbd5be80ca13cc49f612b
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
+keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 成员身份
+ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 
@@ -36,15 +36,15 @@ Microsoft 合作伙伴网络提供三种类型的成员身份。 每种类型提
     [了解有关获得银牌和金牌能力的详细信息](https://partner.microsoft.com/membership/competencies)
 
    
-## <a name="get-started-with-partner-center"></a>开始使用合作伙伴中心
+## <a name="get-started-with-the-partner-dashboard"></a>合作伙伴仪表板入门
 
-为了更轻松地与 Microsoft 合作并帮助你节省时间和金钱，我们将在幕后开展工作，将目前分布在多个网站和工具中的功能、特性和工作流程移至本合作伙伴中心网站。 
+为了更轻松地与 Microsoft 合作并帮助你节省时间和金钱，我们将在幕后开展工作，将目前分布在多个网站和工具中的功能、特性和工作流程移至本合作伙伴仪表板网站。 
 
-当我们将特定功能移至合作伙伴中心后，我们将停用用于承载这些功能的旧站点。 若要继续充分利用这些功能，你将需要在此合作伙伴中心站点上创建帐户。 
+当我们将特定功能移至合作伙伴仪表板后，我们将停用用于承载这些功能的旧站点。 若要继续充分利用这些功能，你将需要在此合作伙伴仪表板站点上创建帐户。 
 
-例如，如果你过去经常在 Pinpoint 中获取和管理引荐，那么该站点已经停用，并且所有与引荐相关的功能现在都已在合作伙伴中心上。 执行以下步骤开始使用合作伙伴中心：   
+例如，如果你过去经常在 Pinpoint 中获取和管理引荐，那么该站点已经停用，并且所有与引荐相关的功能现在都已在合作伙伴仪表板上。 执行以下步骤开始使用合作伙伴仪表板：   
 
--   [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
+-   [创建合作伙伴仪表板帐户](mpn-create-a-partner-center-account.md)
 
 -   [创建业务档案以获取客户引荐](create-a-marketing-profile.md)
 

@@ -1,12 +1,12 @@
 ---
-title: "管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心"
-description: "作为 Microsoft 合作伙伴网络成员，你有权享有某些成员身份权益。 说明如何在合作伙伴中心激活和管理你的成员身份权益。"
+title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
+description: 作为 Microsoft 合作伙伴网络成员，你有权享有某些成员身份权益。 说明如何在合作伙伴中心激活和管理你的成员身份权益。
 author: MaggiePucciEvans
-ms.openlocfilehash: 2e21313612acc7383cde0333b57b3b6068a7723c
-ms.sourcegitcommit: 9f3c5bf5263ecd3fcc5bbfa5fb81be5a6590e966
+ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -14,7 +14,7 @@ ms.lasthandoff: 11/03/2017
 
 -  合作伙伴中心
 
-Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 在你购买并激活成员身份权益之前，你的公司必须是 Microsoft 合作伙伴网络的成员。 如果你不是网络的成员，则可以在 [https://partner.microsoft.com](https://partner.microsoft.com) 中加入。
+Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 在你购买并激活成员身份权益之前，你的公司必须是 Microsoft 合作伙伴网络的成员。 如果你不是该网络的成员，可以从 [https://partner.microsoft.com](https://partner.microsoft.com) 加入。
 
 >**注意** 点击此链接会将你带到其他网站。 返回到此合作伙伴中心站点以续订和升级你的网络成员身份。
 
@@ -23,11 +23,11 @@ Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 
 
 ## <a name="manage-your-membership-benefits"></a>管理你的成员身份权益
 
-购买权益包后，为员工分配许可证、订阅和其他权益，以便开始使用它们。 
+购买权益包后，你需要为员工分配许可证、订阅和其他权益，以便开始使用它们。 
 
 权益包包括所分配的内部使用权限、软件、云服务、Visual Studio 订阅和支持。 
 
-要查看和管理你获得的所有成员权益，请转到**仪表板**菜单，然后选择**合作关系 > 权益**。 此时会打开**权益**页面。 
+若要查看和管理你的成员身份权益，请从**仪表板**菜单中选择**权益**。 此时会打开**权益**页面。 
 
 #### <a name="manage-software-benefits"></a>管理软件权益
 

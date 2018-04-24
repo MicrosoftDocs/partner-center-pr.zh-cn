@@ -1,13 +1,13 @@
 ---
-title: "添加 Azure 合作伙伴共享服务 | 合作伙伴中心"
-description: "云解决方案提供商合作伙伴现在可以购买供自己使用的 Azure 订阅。"
+title: 添加 Azure 合作伙伴共享服务 | 合作伙伴中心
+description: 云解决方案提供商合作伙伴现在可以购买供自己使用的 Azure 订阅。
 author: labrenne
-Keywords: "Azure, 共享服务, 租户"
-ms.openlocfilehash: 0329f2ae97444a8a8c3799b2dfcb42378c4f2f80
-ms.sourcegitcommit: aa846217ee4158d835ec3c8f776d1fb299594994
+Keywords: Azure, shared services, tenant
+ms.openlocfilehash: 2cff9cb607618dbee7734bdbce109d729e9646ba
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-azure-partner-shared-services"></a>添加 Azure 合作伙伴共享服务
 
@@ -19,7 +19,7 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 ## <a name="create-the-shared-services-tenant"></a>创建共享服务租户
 
-1. 在合作伙伴中心，转到**仪表板** > **帐户设置** > **共享服务**。
+1. 转到**设置** > **查看所有设置** > **共享服务**。
 
     ![**帐户设置** > **共享服务**](images/sharedservices2.png)
 
@@ -41,7 +41,7 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 - “Azure - 内部/共享服务”订阅的主要用途是让你能够使用 Azure 自行进行开发。 用于预配此服务的共享租户无法用于其他服务，如 Office 365 或 Dynamics 席位。 
 
-- 你可以像取消任何其他订阅一样取消该订阅。 转到**仪表板** > **帐户设置** > **共享服务**。 选择“Azure - 内部/共享服务”订阅，并将其取消。
+- 你可以像取消任何其他订阅一样取消该订阅。 转到**设置** > **查看所有设置** > **共享服务**。 选择“Azure - 内部/共享服务”订阅，并将其取消。
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>访问 Azure 合作伙伴共享服务使用详细信息
 
@@ -49,6 +49,6 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure 合作伙伴共享服务定价
 
-若要查看 Azure 合作伙伴共享服务的新定价文件，请转到**基于使用情况的服务 > 定价和产品/服务**，然后选择当月的价目表。 在接下来的几周内，还将发布特定费率卡 API。
+若要查看 Azure 合作伙伴共享服务的新定价文件，请转到**销售** > **定价和产品/服务**，然后选择当月的价目表。 在接下来的几周内，还将发布特定费率卡 API。
 
 

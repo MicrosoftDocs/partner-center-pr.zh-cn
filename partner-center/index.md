@@ -1,18 +1,18 @@
 ---
-title: "欢迎使用 Microsoft 合作伙伴中心"
-description: "Microsoft 合作伙伴中心"
+title: 欢迎使用 Microsoft 合作伙伴中心
+description: Microsoft 合作伙伴中心
 author: labrenne
-ms.openlocfilehash: 049fe3790b02a2755fe493c4eb611f7c0f99d699
-ms.sourcegitcommit: d5ce1bf171e535b0236bcd1e6dfbc4ef01ebd209
+ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 04/08/2018
 ---
-# <a name="welcome-to-the-microsoft-partner-center"></a>欢迎使用 Microsoft 合作伙伴中心
+# <a name="welcome-to-your-partner-dashboard"></a>欢迎使用合作伙伴仪表板
 
-Microsoft 合作伙伴中心（本站点）是 Microsoft 商业合作伙伴建立、管理和拓展业务的地方。 （请注意，此页面上讨论的所有内容并非都适用于每个合作伙伴。 某些功能将分阶段推出。）
+Microsoft 合作伙伴仪表板（本站点）是 Microsoft 商业合作伙伴建立、管理和拓展业务的地方。 （请注意，此页面上讨论的所有内容并非都适用于每个合作伙伴。 某些功能将分阶段推出。）
 
-## <a name="create-an-account-on-partner-center-to"></a>在合作伙伴中心创建帐户以：
+## <a name="create-a-partner-dashboard-account-to"></a>创建合作伙伴仪表板帐户来：
 
 -   管理你与 Microsoft 的合作关系
     -   购买 Microsoft Action Pack 和其他内部使用权限成员身份权益 
@@ -34,8 +34,8 @@ Microsoft 合作伙伴中心（本站点）是 Microsoft 商业合作伙伴建�
     -   对你的发票进行对帐以确定要向客户计费的金额
    
 
->**重要提示**<br>
-合作伙伴中心将持续改进以包括更多特性和功能。 了解[最近更新](whats-new-in-pc.md)。
+>**重要事项**<br>
+合作伙伴仪表板将持续改进以包括更多特性和功能。 了解[最近更新](whats-new-in-pc.md)。
 
 
 ## <a name="get-started"></a>立即开始
@@ -46,7 +46,7 @@ Microsoft 合作伙伴中心（本站点）是 Microsoft 商业合作伙伴建�
 |------------|:-------------|
 |[加入 Microsoft 合作伙伴网络](mpn-overview.md)|与 Microsoft 合作，以获取内部使用权限软件和服务 Microsoft Action Pack 的访问权限，并获得银牌和金牌能力 |
 |[云解决方案提供商计划 - 销售畅销的云解决方案](csp-overview.md) | 哪种云解决方案提供商模式适合你，你可以通过云解决方案提供商计划在哪里进行销售，你可以通过云解决方案提供商计划销售哪些产品和服务 |
-|[设置你的合作伙伴中心帐户](partner-center-account-setup.md)|创建用户帐户，管理你的配置文件，管理密码，以及自定义产品目录 |
+|[设置你的合作伙伴仪表板帐户](partner-center-account-setup.md)|创建用户帐户，管理你的配置文件，管理密码，以及自定义产品目录 |
 |[设置你的客户帐户](customer-accounts.md)|添加用户，创建新帐户，以及查看你的客户列表 |
 |[与其他合作伙伴合作](work-with-other-partners.md)|查找专长与你互补的合作伙伴 |
 
@@ -56,8 +56,8 @@ Microsoft 合作伙伴中心（本站点）是 Microsoft 商业合作伙伴建�
 
 | **转到此处**  |**若要了解有关这方面的信息**   |
 |------------|:-------------|
-|[通过 Microsoft 的引荐来拓展业务](referrals.md)|为客户创建业务配置文件，然后接收和响应引荐|
-|[适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners.md)| 使用熟悉的 Microsoft Power BI 仪表板深入了解贵公司的绩效|
+|[通过 Microsoft 的引荐来拓展业务](referrals.md)|为客户创建企业简介，然后接收和响应引荐|
+|[适用于 Power BI 的合作伙伴分析应用](power-bi-app-for-direct-partners.md)| 使用熟悉的 Microsoft Power BI 仪表板深入了解贵公司的绩效|
 |[管理客户的订阅](customer-subscriptions.md)|新订阅、试用订阅、分配许可证、促销和折扣|
 |[将能力添加到你的业务配置文件](learn-about-competencies.md)|证明专长，了解能力选项|
 |[计费](billing.md)|查看计费方案、税款和 VAT，以及 Azure 费用预算 |

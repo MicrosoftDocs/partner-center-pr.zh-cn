@@ -1,13 +1,13 @@
 ---
-title: "分析业务配置文件的效率 | 合作伙伴中心"
-description: "通过合作伙伴中心评估、协商和响应引荐。"
+title: 分析业务配置文件的效率 | 合作伙伴中心
+description: 通过合作伙伴中心评估、协商和响应引荐。
 author: KPacquer
 robots: noindex,nofollow
-ms.openlocfilehash: 508d1ec16a1b58a9bf98dd5bfba013d2d3e04c57
-ms.sourcegitcommit: 6a45b607b9031843b6652e4c7b4f055dd265bb89
+ms.openlocfilehash: 15050124e65f7740a4f76eb075ad7701ed918154
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>分析业务配置文件的效率
 <!-- 
@@ -24,7 +24,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 当你开始[响应这些引用](responding-to-referrals.md)时，你将开始获取有关这些 RFI 中有多少正在转变为成功业务交易的数据。
 
-在优化业务配置文件时使用这些报告生成更多销售线索和更相关的销售线索。 你的数据显示配置文件性能，分析趋势，以及识别需要执行操作的方面。 从合作伙伴中心仪表板中，转到**引荐 > 营销页面**。
+在优化业务配置文件时使用这些报告生成更多销售线索和更相关的销售线索。 你的数据显示配置文件性能，分析趋势，以及识别需要执行操作的方面。 从合作伙伴仪表板中，转到**引荐 > 营销页面**。
 
 这些报告显示所有地区的业务配置文件的性能。 这些报告显示过去 90 天按周分组的数据。
 

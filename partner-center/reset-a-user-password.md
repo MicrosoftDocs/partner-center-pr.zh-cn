@@ -1,11 +1,13 @@
 ---
-title: "重置用户密码 | 合作伙伴中心"
-description: "如果用户忘记了密码，你可以为他们分配一个新的临时密码。 他们可以在下次登录合作伙伴中心时使用它。"
+title: 重置用户密码 | 合作伙伴中心
+description: 如果用户忘记了密码，你可以为他们分配一个新的临时密码。 他们可以在下次登录合作伙伴中心时使用它。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
-ms.openlocfilehash: c585d9826293a6d843a636791c38e3c0a46c4b87
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.openlocfilehash: 5f0c1914bf1627f8175f2db9a31469a08159fce7
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="reset-a-user-password"></a>重置用户密码
 
@@ -19,7 +21,7 @@ translationtype: HT
 
 **以管理员身份重置用户密码**
 
-1.  在合作伙伴中心中，转到“仪表板”菜单 &gt; **帐户设置** &gt; **用户管理**。
+1.  转到**设置** &gt; **用户管理**。
 2.  从列表中选择用户。
 
 3.  请选择页面底部的**重置密码**。
@@ -28,7 +30,7 @@ translationtype: HT
 
 **重置你自己的密码**
 
-1.  登录合作伙伴中心。 然后在屏幕顶部选择你的名字，再选择**我的个人资料**。
+1.  登录合作伙伴中心。 然后在屏幕顶部选择你的姓名，再选择**我的简介**。
 
 2.  你可以看到你自己的角色，并且可以看到更改密码的说明。
 

@@ -1,12 +1,12 @@
 ---
-title: "为客户提供 Microsoft 产品试用版 | 合作伙伴中心"
-description: "你的客户可以试用 Microsoft 订阅产品，为期 30 天。"
+title: 为客户提供 Microsoft 产品试用版 | 合作伙伴中心
+description: 你的客户可以试用 Microsoft 订阅产品，为期 30 天。
 author: labrenne
-ms.openlocfilehash: a35a4e1c1aca22df6b262bd2f7d64a4d234d33ed
-ms.sourcegitcommit: 6d8b97724a100fc6861e9ed8d89ec47cc49f195e
+ms.openlocfilehash: 238681a6b19fa4f021ef9882aa477a1a8937d462
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/17/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>为客户提供 Microsoft 产品试用版
 
@@ -18,7 +18,7 @@ ms.lasthandoff: 10/17/2017
 
 ## <a name="sign-your-customer-up-for-a-trial"></a>为你的客户注册试用版
 
-1.  从**帐户设置**转到**目录**。 
+1.  从仪表板上的**销售**，转到**目录**。 
 2.  进入目录，在**计费频率**中单击**试用版产品/服务**。 这将仅显示免费试用版，不显示其他非免费的产品/服务。 试用版将显示在目录中的**试用版**选项卡内。
 3.  选择你想要提供的免费试用版，然后选择**提交**。 所有试用版的期限均为 30 天，在此期间不会向你收取费用。 你还可以在试用期内随时将其转换为付费订阅。
 

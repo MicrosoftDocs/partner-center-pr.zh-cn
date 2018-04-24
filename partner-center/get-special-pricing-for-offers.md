@@ -3,11 +3,11 @@ title: 销售给特定行业 | 合作伙伴中心
 Description: Microsoft provides special, reduced pricing for select groups of customers, such as for education, non-profit, and government uses, or for very large customer sets.
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
-ms.openlocfilehash: 02eb734789fa27e08c5e2a42cc0f5b57428f7c06
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
+ms.openlocfilehash: ba11aba6b0d687a8e8fd9680595004769a75ad01
+ms.sourcegitcommit: 83e71b6146e66689cc833090836cf9f4e47341ab
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2018
+ms.lasthandoff: 04/04/2018
 ---
 # <a name="sell-to-specialized-industries"></a>销售给特定行业
 
@@ -20,9 +20,9 @@ Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈�
 |**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育   |成为[授权的教育经销商](https://www.mepn.com/MEPN/AEPHome.aspx)   | 必须是[合格的教育用户](https://www.microsoft.com/Licensing/licensing-programs/licensing-for-industries.aspx#tab=2)   |
-|政府   |使用 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)注册|   无|
+|政府   |若要销售 Azure，使用 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
 |非盈利  |无   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格   |
-
+了解有关[非盈利性特价产品/服务](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)的更多信息
 
 **检查你的经销商资格**
 

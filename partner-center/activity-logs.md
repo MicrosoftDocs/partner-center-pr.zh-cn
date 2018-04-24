@@ -1,14 +1,14 @@
 ---
-title: "查看客户活动日志 | 合作伙伴中心"
-description: "活动日志为客户提供有关交易和合作伙伴管理操作的信息。"
+title: 查看客户活动日志 | 合作伙伴中心
+description: 活动日志为客户提供有关交易和合作伙伴管理操作的信息。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
-ms.openlocfilehash: b877143abdc07dc0f6e23ef33ee64cd72afda11e
-ms.sourcegitcommit: 628443b08dde9d2f02553b46e669504c620c3da4
+ms.openlocfilehash: ae5ac419d505984f5f955ddaad62acbf19d16dfa
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/21/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="view-customer-activity-logs"></a>查看客户活动日志
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 12/21/2017
 
     选择任意活动日志的向下箭头，查看关于所记录操作的详细信息。 单个活动日志可显示大量数据，例如多个产品订购。
 
-3.  选择**导出日志**。 合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。 数据列包含以下内容：
+3.  选择**导出日志**将客户订阅数据转换为 .csv 文件，并将其下载到计算机上的默认下载文件夹。 数据列包含以下内容：
     -   **受影响的客户** - 客户的公司名称；
     -   **操作** - 订阅的产品名称；
     -   **合作伙伴用户** - 与活动关联的合作伙伴；

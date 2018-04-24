@@ -1,14 +1,14 @@
 ---
-title: "将许可证或服务添加到现有订阅 | 合作伙伴中心"
-description: "如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。"
+title: 将许可证或服务添加到现有订阅 | 合作伙伴中心
+description: 如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
-keywords: "将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证"
-ms.openlocfilehash: c5d5a2e57385a46b6f64d7632593735e026f0dcb
-ms.sourcegitcommit: e01a63d8b778668c560bc821275ddfcb0a6d4881
+keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
+ms.openlocfilehash: 1f23892efab9e00fa492eb96d894763276bf673a
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 
@@ -88,7 +88,7 @@ ms.lasthandoff: 12/08/2017
 1.  若要查看某个订阅是否符合升级条件，请选择你的客户，然后打开他们的订阅列表。
 2.  如果该订阅可以升级，你会在订阅名称后立即看到信息图标。 将鼠标悬停在此图标上方，然后选择**立即升级**。
 3.  选择新的产品/服务，然后选择**提交**。
-4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心会提供受影响的帐户和服务列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴仪表板会提供受影响的帐户和服务列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
  
 

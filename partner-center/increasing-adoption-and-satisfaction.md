@@ -1,13 +1,13 @@
 ---
-title: "提高采用率和满意度 | 合作伙伴中心"
-description: "我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。"
+title: 提高采用率和满意度 | 合作伙伴中心
+description: 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: cecf3c02ea52e61eb33bb39014b746dc89aa6ca7
-ms.sourcegitcommit: b17c993da73815632ad62d9a8ff0d505673d07b3
+ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2017
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -26,11 +26,11 @@ ms.lasthandoff: 12/02/2017
 
 **对于单个客户**
 
--   从“合作伙伴中心”菜单中，选择**客户**、选择某个客户，然后选择**客户见解**。
+-   从**仪表板**选择**客户**、选择某个客户，然后选择**客户见解**。
 
 **跨产品组合**
 
-1.  在合作伙伴中心**仪表板**上，向下滚动到 **Office 许可证分析**部分。
+1.  在**仪表板**上，选择**分析**。
 2.  通过选择**导出**选项，下载整个客户群的部署和用法数据。
 
 术语：

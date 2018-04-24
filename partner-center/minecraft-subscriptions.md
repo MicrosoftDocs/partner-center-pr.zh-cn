@@ -3,11 +3,11 @@ title: 向教育行业客户销售 Minecraft Education Edition 订阅
 description: 向教育行业客户销售 Minecraft Education Edition 订阅
 author: KPacquer
 keywords: 授权的教育行业合作伙伴
-ms.openlocfilehash: 7404c2d98f8463ab3d1182216de2ada956bc6079
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 276e5365eec99468becf9522284c6048f3750011
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
@@ -36,7 +36,7 @@ Microsoft 为选定的客户组提供特殊的降价，如用于教育、非盈�
 
 **检查你的经销商资格**
 
-1.  从**仪表板**菜单中，选择**帐户设置**。
+1.  从**仪表板**的右上角选择**设置**，然后选择**查看所有设置**。
 2.  在你的**合作伙伴配置文件**的**云解决方案提供商计划信息**部分中，查找**经销商资格**。
 3.  如果你看不到**经销商资格**，则表示你尚未获得购买任何特殊产品的授权。
 

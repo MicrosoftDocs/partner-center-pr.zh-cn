@@ -4,11 +4,11 @@ description: 在合作伙伴中心中创建客户的记录后，你可以向他�
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: Labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
-ms.openlocfilehash: d05ac5683a9f8c7f620debc57966247a1b7a50d2
-ms.sourcegitcommit: 8b533bc6cee8d98fee29e5b34f49f52c78a7952c
+ms.openlocfilehash: 5bb34d1b98cf8890bcc092c4fe6c8dbe502ed4a1
+ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/01/2018
+ms.lasthandoff: 04/08/2018
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -18,9 +18,9 @@ ms.lasthandoff: 03/01/2018
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。
+在合作伙伴仪表板中创建客户的记录后，你可以向他们销售目录中产品的订阅。
 
-请注意，对于某些产品/服务，每个客户只能有一份订阅。 若要查看受限制的产品/服务列表，请访问合作伙伴中心定价和产品/服务页面。 
+请注意，对于某些产品/服务，每个客户只能有一份订阅。 若要查看受限制的产品/服务列表，请访问合作伙伴仪表板定价和产品/服务页面。 
 
 
 **创建新订阅**

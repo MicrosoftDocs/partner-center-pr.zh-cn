@@ -4,11 +4,11 @@ description: 客户可以在云解决方案提供商计划中更改要用于提�
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
-ms.openlocfilehash: fa4e7128a052c291f26f9ff47101c85bcd764bc1
-ms.sourcegitcommit: 2da614c55de59e66c33969bd9feffeca5c673c54
+ms.openlocfilehash: 5aa7bdd710268e6fe251e153c0a83999497f35dd
+ms.sourcegitcommit: d249bea4296f862112e8974706d1dc81c0a20580
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2018
+ms.lasthandoff: 03/30/2018
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 
@@ -32,7 +32,7 @@ ms.lasthandoff: 02/21/2018
 
     通过合作伙伴中心创建 Azure 服务票证以请求订阅传输：
 
-    -   在合作伙伴中心“仪表板”菜单中，选择**客户**、从列表中选择客户，然后选择**服务管理**。 在**支持票证**部分下，选择**新票证**下拉列表，然后选择 **Microsoft Azure**。
+    -   在仪表板菜单中，选择**客户**，从列表中选择客户，然后选择**服务管理**。 在**支持票证**部分下，选择**新票证**下拉列表，然后选择 **Microsoft Azure**。
 
     -   在 Azure 门户中，选择**新支持请求**。
 
@@ -57,7 +57,7 @@ ms.lasthandoff: 02/21/2018
 
     查看该表单、填写与新合作伙伴有关的信息，然后进行签名。 确认新客户已签署合约协议。 将该表单发送回当前记录合作伙伴。
 
-    *重要提示*：如果新云解决方案提供商合作伙伴与客户没有经销商关系，则在传输订阅前，他们必须建立这种关系。 [可在此处查找关于如何执行此操作的信息](https://int.msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)。
+    *重要提示*：如果新云解决方案提供商合作伙伴与客户没有经销商关系，则在传输订阅前，他们必须建立这种关系。 [可在此处查找关于如何执行此操作的信息](request-a-relationship-with-a-customer.md)。
 
 5.  当前合作伙伴：
 
