@@ -1,8 +1,8 @@
 ---
-title: "添加 Azure 合作伙伴共享服务 | 合作伙伴中心"
-description: "云解决方案提供商合作伙伴现在可以购买供自己使用的 Azure 订阅。"
+title: 添加 Azure 合作伙伴共享服务 | 合作伙伴中心
+description: 云解决方案提供商合作伙伴现在可以购买供自己使用的 Azure 订阅。
 author: labrenne
-Keywords: "Azure, 共享服务, 租户"
+Keywords: Azure, 共享服务, 租户
 ms.openlocfilehash: 859e4a1b08e26f2370493ad611a6126b74aeaf64
 ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
 ms.translationtype: HT
