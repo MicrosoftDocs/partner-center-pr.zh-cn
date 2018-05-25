@@ -3,11 +3,11 @@ title: 计费基础知识 | 合作伙伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
-ms.openlocfilehash: f06e663e6e3d5dc32efb1423a17f02e19a2425f5
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="billing-basics"></a>计费基础知识
 
@@ -144,3 +144,32 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 </tbody>
 </table>
 
+## <a name="one-time-billing"></a>一次性计费
+
+云解决方案提供商计划 (CSP) 中的合作伙伴可以在 Microsoft Azure 虚拟机上为其客户提供预留实例。 客户可以提前预订一年或三年虚拟机 - 从而节省大量的 Azure 使用成本。   
+
+客户可以提前为 Azure 虚拟机预留实例付款。 当你代表客户购买 Azure 虚拟机预留实例时，你将收到这些一次性费用的发票和对帐文件。 
+
+>[!IMPORTANT]
+>如果你在货币不同于你的货币的市场中为客户购买 Azure 虚拟机预留实例，则默认计费货币基于客户的市场，而不是你的位置。 如果你的客户遍布多个市场，那么你将收到对客户计费需要采用的每种货币的单独发票和对帐文件，并且能够使用相应的货币为客户开具发票。 
+
+若要访问一次性费用发票和对帐文件，请从合作伙伴仪表板中选择**计费**，然后选择**一次性**。 
+
+### <a name="manage-your-one-time-billing"></a>管理你的一次性计费
+
+#### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>查看你当前的计费状态、发票和对帐文件
+
+1.  在合作伙伴仪表板中，选择**计费**，然后选择**一次性**以查看计费状态。 
+2.  选择发票或对帐文件以查看更多详细信息。 
+
+#### <a name="view-a-customers-order-history"></a>查看客户的订单历史记录
+
+1.  从仪表板菜单中选择**客户**。
+2.  在你的**客户**页上，查找你想要查看其订单历史记录的客户，然后选择向下箭头以展开客户的记录。 
+3.  选择**查看订单**以显示订单历史记录。
+
+#### <a name="create-a-credit-or-void-note"></a>创建退款或取消票据
+
+在某些时候，你可能需要取消发票，然后开具一份新发票。 例如，客户可能会更改其公司的名称，然后收到具有旧名称的发票。 
+
+若要取消发票并开具新发票，请在计费页面的调整下面下载表单。

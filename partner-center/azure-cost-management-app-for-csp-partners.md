@@ -4,11 +4,11 @@ description: Azure Cost Management by Cloudyn 需要对合作伙伴中心 API �
 author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
-ms.openlocfilehash: 01553b850d5839d721de5406c3f1c63094f76bd6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 1b778dee20e449f778b9a67ea681a9ee9a430c8c
+ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 05/11/2018
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>面向 Azure 云解决方案提供商合作伙伴的 Azure Cost Management  
 
@@ -20,16 +20,17 @@ ms.lasthandoff: 04/08/2018
 
 ## <a name="before-you-begin"></a>开始之前
 为能够使用 Azure Cost Management，请确保你满足以下要求：
+
 - 你是参与云解决方案提供商计划的合作伙伴。
-- 你具备创建合作伙伴仪表板 API Web 应用的能力。
+- 你具备创建合作伙伴中心 API Web 应用的能力。
 
 ## <a name="overview"></a>概述
 
-Azure Cost Management by Cloudyn 是一款 Web 应用，用于跟踪和管理客户使用 Azure 的程度以及该使用情况所产生的成本。 你可以通过合作伙伴仪表板 API 使用 Azure Cost Management。
+Azure Cost Management by Cloudyn 是一款 Web 应用，用于跟踪和管理客户使用 Azure 的程度以及该使用情况所产生的成本。 你可以通过合作伙伴中心 API 使用 Azure Cost Management。
 
-## <a name="register-your-web-app-in-the-partner-dashboard"></a>在合作伙伴仪表板注册你的 Web 应用
-在合作伙伴仪表板注册一款 Azure Active Directory Web 应用即可获得合作伙伴仪表板 API 的访问权限。 
-1.  使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴仪表板](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)。
+## <a name="register-your-web-app-in-the-partner-center"></a>在合作伙伴中心注册你的 Web 应用
+在合作伙伴中心注册一款 Azure Active Directory Web 应用即可获得合作伙伴中心 API 的访问权限。 
+1.  使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴中心](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)。
 2.  在**仪表板**中，选择**帐户设置** &gt; **[应用管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**。
 3.  在 **Web 应用**部分中，单击**添加新的 Web 应用**。
 <br> **注意**：如果此前已创建 Web 应用，你可以跳过第 3 步。
@@ -44,7 +45,7 @@ Azure Cost Management by Cloudyn 是一款 Web 应用，用于跟踪和管理客
 ## <a name="next-steps"></a>后续步骤
 开始使用[为期 30 天的免费试用版](https://go.microsoft.com/fwlink/?linkid=857895)。
 你需要提供以下详细信息以开始试用：
-- 合作伙伴仪表板登录凭据
+- 合作伙伴中心登录凭据
 - 商业 ID GUID
 - 应用 ID GUID
 - 应用程序密钥值

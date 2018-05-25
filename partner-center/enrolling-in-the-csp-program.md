@@ -2,11 +2,11 @@
 title: 注册云解决方案提供商计划 | 合作伙伴中心
 description: 了解在云解决方案提供商计划中进行销售的不同模式，并确定最适合你的业务的模式
 author: labrenne
-ms.openlocfilehash: f1f5fcdda8c162ae42fb5d619c8ee04e420b4c8c
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: 3fb617c78ac0120c2f1588022441469fa0345708
+ms.sourcegitcommit: f6681a0bd9f09242b3544448573d30f5a0aa1f3c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 04/26/2018
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
@@ -29,6 +29,7 @@ ms.lasthandoff: 04/08/2018
 
 ### <a name="enroll-as-an-indirect-reseller"></a>注册为间接经销商
 
+
 1. 当你注册为间接经销商后，你需要[查找间接提供商](https://partnercenter.microsoft.com/partner/find-a-provider)以进行合作。 与你合作的提供商将向你推荐客户，将管理你可以出售的所购软件，处理客户计费和支持事宜，让你专心经营自己的经销商业务。
 
 2. 你的全局管理员应该在合作伙伴仪表板设置你的帐户。 全局管理员可以添加将在合作伙伴仪表板工作的组织员工、根据他们将从事的工作为其分配角色和权限，并设置组织配置文件。
@@ -39,7 +40,7 @@ ms.lasthandoff: 04/08/2018
 
 ### <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
 
->**注意：**<br> 我们正在更新直接合作伙伴注册要求，当前不接受新的申请。 我们计划于 2018 年第 2 季度开始重新开放申请流程。 请考虑注册成为间接经销商。
+>**注意：**<br> 我们正在更新直接合作伙伴注册要求，当前不接受新的申请。 我们计划于 8 月 31 日开始重新开放申请流程。 请考虑注册成为间接经销商。 
 
 作为直接合作伙伴，你具有与客户和 Microsoft 之间的端到端关系。
 

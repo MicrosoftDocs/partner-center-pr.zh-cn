@@ -1,14 +1,14 @@
 ---
-title: "阅读帐单 | 合作伙伴中心"
-description: "发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。"
+title: 阅读帐单 | 合作伙伴中心
+description: 发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
-keywords: "订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？"
-ms.openlocfilehash: d24c9ad9ac90597c8e56843a25a69b9108c020d2
-ms.sourcegitcommit: 2c99458586d7d536f5502317653eb4a43e2fdafc
+keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
+ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -97,29 +97,44 @@ ms.lasthandoff: 11/10/2017
 <td>发票日期</td>
 <td>收到发票的日期。</td>
 </tr>
+
 <tr class="odd">
+<td>付款期限</td>
+<td>对于一次性购买，此期限将始终为 60 天。</td>
+</tr>
+
+
+<tr class="even">
 <td>付款截止日期</td>
 <td>必须在此日期前收到你的付款。</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>客户 PO</td>
 <td>购买订单编号。</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>客户服务</td>
 <td>访问客户服务的网站地址。</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>服务接收方</td>
 <td>使用服务的地址。 （这是与公司审查关联的法定公司地址，不可更改。）</td>
 </tr>
 </tbody>
 </table>
 
- 
+## <a name="itemized-list-of-one-time-charges"></a>一次性费用的明细列表
 
- 
-
+|**字段** |**定义**|
+|:----------------|:-----------------------------|
+|日期 |购买的日期。 |
+|说明 |产品名称。 |
+|数量 |所购买的产品（例如预订）的数量。 |
+|单价 |每个产品（例如预订）的价格。 |
+|折扣 |任何适用的折扣。 |
+|税前金额 |税前购物小计。 |
+|销售税 |税额。 |
+|总计 |要付款的总额。 |
  
 
 

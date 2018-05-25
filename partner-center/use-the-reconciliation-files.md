@@ -3,11 +3,11 @@ title: 使用对帐文件 | 合作伙伴中心
 description: 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 51716e8abedf83237050cb51bc76e54a954cd28b
-ms.sourcegitcommit: ec00affdfc79c1346cf8df482ce39dae98e20772
+ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
+ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/28/2018
+ms.lasthandoff: 05/10/2018
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -204,7 +204,7 @@ ms.lasthandoff: 02/28/2018
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>客户的域名，用于帮助识别客户。</p></td>
+<td><p>客户的域名，用于帮助识别客户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -448,7 +448,7 @@ ms.lasthandoff: 02/28/2018
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>客户的域名，用于帮助识别客户。</p></td>
+<td><p>客户的域名，用于帮助识别客户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -458,6 +458,34 @@ ms.lasthandoff: 02/28/2018
 </tr>
 </tbody>
 </table>
+
+## <a href="" id="onetimefiles"></a>一次性购买文件字段
+
+|**字段** |**定义**|
+|:----------------|:-----------------------------|
+|PartnerId |合作伙伴 ID（采用 GUID 格式）。 |
+|CustomerId |唯一 Microsoft ID（采用 GUID 格式），用于识别客户。 |
+|CustomerName |在合作伙伴中心中报告的客户的组织名称。 这在使用系统信息对发票进行对帐时非常有用。 |
+|CustomerDomainName |客户的域名。 |
+|CustomerCountry |客户所在的国家/地区。 |
+|InvoiceNumber |显示指定交易所在的发票号码。 |
+|MpnId |云解决方案提供商合作伙伴（直接或间接）的 MPN ID。 |
+|经销商 MPN ID |仅显示在间接模型中合作伙伴的对帐文件上。 预订记录的经销商 MPN ID。 这对应于针对合作伙伴中心中的特定预订所列的经销商 ID。 如果云解决方案提供商合作伙伴将预订直接销售给客户，他们的 MPN ID 会列出两次，即 MPN ID 和经销商 MPN ID。 如果云解决方案提供商合作伙伴的经销商没有 MPN ID，此值将设置为合作伙伴的 MPN ID。 如果云解决方案提供商合作伙伴删除经销商 ID，此值将设置为 -1。 |
+|OrderId |Microsoft 帐单平台中订单的唯一标识符。 当联系支持人员而不用于对帐时，可能对识别 Azure 预订非常有用。 |
+|OrderDate |下达订单的日期。 |
+|ProductId |产品的 ID。 |
+|SkuId  |特定 SKU 的 ID。 |
+|AvailabilityId |特定可用性的 ID。 “可用性”是指针对给定的国家/地区、货币、行业细分市场等，是否可以购买特定 SKU。 |
+|SkuName  |特定 SKU 的名称。 |
+|ProductName |产品的名称。 |
+|ChargeType |费用或调整的类型。 |
+|UnitPrice |所订购的每个产品的价格。 |
+|数量 |所订购产品的数量。 |
+|小计 |税前总额。 如果有折扣，请检查你的小计是否匹配你的预期总额。 |
+|TaxTotal |所有适用税款的总额。 |
+|总计 |此订单的总额。 |
+|货币 |货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。 |
+|DiscountDetails |任何相关折扣的详细列表。 |
 
 
 
