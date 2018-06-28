@@ -3,11 +3,12 @@ title: Microsoft Azure 虚拟机预订概述 | 合作伙伴中心
 Description: Overview of selling Microsoft Azure Reserved VM Instances in CSP.
 author: v-petand
 keywords: azure, 预订, 虚拟机, 管理, 计费, 购买, Azure RI, Azure 虚拟机预留实例
-ms.openlocfilehash: 9fac5749fda6106772d8fed28a320432206d528c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 65306d265c88769c83a948a192bc96b2a0a76294
+ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/05/2018
+ms.locfileid: "1978564"
 ---
 # <a name="sell-microsoft-azure-reserved-vm-instances"></a>销售 Microsoft Azure 虚拟机预留实例 
 
@@ -25,6 +26,15 @@ ms.lasthandoff: 05/11/2018
 -   在组织或单个部门级别管理预留实例的使用 
 
 若要了解有关 Azure 虚拟机预留实例的详细信息，请参阅 Microsoft Azure 网站上的 [Azure 虚拟机预留实例服务](https://azure.microsoft.com/pricing/reserved-vm-instances/)以及[协同工作，效果更佳：Azure 虚拟机预留实例和服务器订阅](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/)。
+
+> [!NOTE]  
+> Azure 虚拟机预留实例在以下市场中不可用：  
+> * 巴西  
+> * 中国  
+> * 印度  
+> * 俄罗斯  
+> * 韩国  
+> * 台湾地区  
 
 所提供的 Azure 虚拟机预留实例将通过以下方式吸引你的客户：
 

@@ -4,6 +4,7 @@
 ## [获取 Microsoft Action Pack](mpn-get-action-pack.md)
 ## [获取银牌或金牌成员身份](learn-about-competencies.md)
 ## [获取你的成员身份权益](manage-your-partner-network-benefits.md)
+## [续订你的 MPN 产品/服务](renew-mpn-offers.md)
 
 
 # [云解决方案提供商](csp-overview.md)
