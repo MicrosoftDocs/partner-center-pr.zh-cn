@@ -1,74 +1,179 @@
 ---
-title: 欢迎使用 Microsoft 合作伙伴中心
-description: Microsoft 合作伙伴中心
-author: labrenne
-ms.openlocfilehash: e1161f019d6cdd5ef5d72e3006f029c60f0f7413
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+layout: LandingPage
+hide_bc: true
+title: 从此处开始获取有关合作伙伴仪表板的帮助
+description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 请在合作伙伴仪表板帮助资料库中查找答案。
+author: v-chmccl
+ms.topic: landing-page
+searchScope: []
+ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1919897"
 ---
-# <a name="welcome-to-your-partner-dashboard"></a><span data-ttu-id="288f3-103">欢迎使用合作伙伴仪表板</span><span class="sxs-lookup"><span data-stu-id="288f3-103">Welcome to your Partner Dashboard</span></span>
+# <a name="start-here-for-help-with-partner-center-dashboard"></a>从此处开始获取有关合作伙伴中心面板的帮助
 
-<span data-ttu-id="288f3-104">Microsoft 合作伙伴仪表板（本站点）是 Microsoft 商业合作伙伴建立、管理和拓展业务的地方。</span><span class="sxs-lookup"><span data-stu-id="288f3-104">The Microsoft Partner Dashboard - this site - is where Microsoft's commercial partners come to build, manage, and grow their businesses.</span></span> <span data-ttu-id="288f3-105">（请注意，此页面上讨论的所有内容并非都适用于每个合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="288f3-105">(Note that not everything discussed on this page will apply to every partner.</span></span> <span data-ttu-id="288f3-106">某些功能将分阶段推出。）</span><span class="sxs-lookup"><span data-stu-id="288f3-106">Some features are being rolled out in stages.)</span></span>
+需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 请在合作伙伴中心面板帮助资料库中查找答案。
 
-## <a name="create-a-partner-dashboard-account-to"></a><span data-ttu-id="288f3-107">创建合作伙伴仪表板帐户来：</span><span class="sxs-lookup"><span data-stu-id="288f3-107">Create a Partner Dashboard account to:</span></span>
+如果你已熟悉仪表板，请参阅[最近更新](/partner-center/whats-new-in-pc)。
 
--   <span data-ttu-id="288f3-108">管理你与 Microsoft 的合作关系</span><span class="sxs-lookup"><span data-stu-id="288f3-108">Manage your partnership with Microsoft</span></span>
-    -   <span data-ttu-id="288f3-109">购买 Microsoft Action Pack 和其他内部使用权限成员身份权益</span><span class="sxs-lookup"><span data-stu-id="288f3-109">Purchase the Microsoft Action Pack and other internal-use rights membership benefits</span></span> 
-    -   <span data-ttu-id="288f3-110">积累公司在 Microsoft 产品和服务方面的专业知识</span><span class="sxs-lookup"><span data-stu-id="288f3-110">Build your company's expertise in Microsoft products and services</span></span>
-    -   <span data-ttu-id="288f3-111">获得银牌和金牌成员身份资格</span><span class="sxs-lookup"><span data-stu-id="288f3-111">Qualify for silver and gold membership status</span></span>
+<ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>注册</h3>
+                        <p><a href="/partner-center/mpn-create-a-partner-center-account">创建帐户</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">管理你的租户和位置</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>与客户联系</h3>
+                        <p><a href="/partner-center/customer-accounts">客户帐户</a><br /><a href="/partner-center/customer-subscriptions">销售订阅</a><br /><a href="/partner-center/assign-licenses-to-users">管理许可证</a><br /><a href="/partner-center/billing">计费</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage bgdAccent1">
+                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>发展你的业务</h3>
+                        <p><a href="/partner-center/referrals">业务档案/引荐</a><br /><a href="/partner-center/promotions">促销</a><br /><a href="/partner-center/get-special-pricing-for-offers">向特定行业销售</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
 
--   <span data-ttu-id="288f3-112">将员工添加到你的帐户中并为其分配相应的访问权限级别</span><span class="sxs-lookup"><span data-stu-id="288f3-112">Add your employees to your account and assign them the appropriate level of access</span></span>
+<ul id="products2" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_portal.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">启动合作伙伴仪表板教程</a>（需要登录）</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_vmm-cloud.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>新功能！ <a href="/partner-center/azure-ri-server-subscriptions">通过 CSP 销售 Azure 预订</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img alt="" src="https://docs.microsoft.com/media/common/i_form.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3><a href="/partner-center/">浏览和搜索所有帮助文章</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/mpn-get-action-pack">获取 Microsoft Action Pack (MAPS)</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="/partner-center/partner-center-account-setup">管理你的帐户</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardText">
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/announcements">公告</a>（需要登录）</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+<hr />
 
--   <span data-ttu-id="288f3-113">从 Microsoft 获取合格的销售线索</span><span class="sxs-lookup"><span data-stu-id="288f3-113">Get qualified sales leads from Microsoft</span></span> 
-    -   <span data-ttu-id="288f3-114">向数千位潜在客户推销你公司的产品/服务</span><span class="sxs-lookup"><span data-stu-id="288f3-114">Market your company's offerings to thousands of potential customers</span></span>
-    -   <span data-ttu-id="288f3-115">从最初联系到达成协议全程管理你的销售线索</span><span class="sxs-lookup"><span data-stu-id="288f3-115">Manage your sales leads from initial contact to sealing the deal</span></span> 
-
--   <span data-ttu-id="288f3-116">加入云解决方案提供商计划</span><span class="sxs-lookup"><span data-stu-id="288f3-116">Join the Cloud Solution Provider program</span></span>
-    -   <span data-ttu-id="288f3-117">销售和管理 Microsoft 云服务和解决方案的订阅</span><span class="sxs-lookup"><span data-stu-id="288f3-117">Sell and manage subscriptions to Microsoft cloud services and solutions</span></span>       
-    -   <span data-ttu-id="288f3-118">与客户联系并管理客户</span><span class="sxs-lookup"><span data-stu-id="288f3-118">Connect with and manage your customers</span></span>
-    -   <span data-ttu-id="288f3-119">间接提供商 - 与经销商联系并管理经销商</span><span class="sxs-lookup"><span data-stu-id="288f3-119">Indirect providers - connect with and manage your resellers</span></span>    
-    -   <span data-ttu-id="288f3-120">在私有、专用 Microsoft 国家云中向客户进行销售</span><span class="sxs-lookup"><span data-stu-id="288f3-120">Sell to customers in private, dedicated Microsoft national clouds</span></span> 
-    -   <span data-ttu-id="288f3-121">管理 Microsoft 给你的发票以及你给 Microsoft 的付款</span><span class="sxs-lookup"><span data-stu-id="288f3-121">Manage your invoices from and payments to Microsoft</span></span>
-    -   <span data-ttu-id="288f3-122">对你的发票进行对帐以确定要向客户计费的金额</span><span class="sxs-lookup"><span data-stu-id="288f3-122">Reconcile your invoices to determine how much to bill your customers</span></span>
-   
-
->**<span data-ttu-id="288f3-123">重要事项</span><span class="sxs-lookup"><span data-stu-id="288f3-123">Important</span></span>**<br>
-<span data-ttu-id="288f3-124">合作伙伴仪表板将持续改进以包括更多特性和功能。</span><span class="sxs-lookup"><span data-stu-id="288f3-124">The Partner Dashboard is continuously evolving to include more features and capabilities.</span></span> <span data-ttu-id="288f3-125">了解[最近更新](whats-new-in-pc.md)。</span><span class="sxs-lookup"><span data-stu-id="288f3-125">Find out [what's new](whats-new-in-pc.md).</span></span>
-
-
-## <a name="get-started"></a><span data-ttu-id="288f3-126">立即开始</span><span class="sxs-lookup"><span data-stu-id="288f3-126">Get started</span></span>
-
-<span data-ttu-id="288f3-127">注册符合你目标的合作伙伴计划，设置你的帐户，以及开始与你的客户合作：</span><span class="sxs-lookup"><span data-stu-id="288f3-127">Enroll in the partner program that fits your goals, set up your account, and start working with your customers:</span></span>
-
-| **<span data-ttu-id="288f3-128">转到此处</span><span class="sxs-lookup"><span data-stu-id="288f3-128">Go here</span></span>**  | **<span data-ttu-id="288f3-129">了解有关以下方面的信息</span><span class="sxs-lookup"><span data-stu-id="288f3-129">To learn about this</span></span>**  |
-|------------|:-------------|
-|[<span data-ttu-id="288f3-130">加入 Microsoft 合作伙伴网络</span><span class="sxs-lookup"><span data-stu-id="288f3-130">Join the Microsoft Partner Network</span></span>](mpn-overview.md)|<span data-ttu-id="288f3-131">与 Microsoft 合作，以获取内部使用权限软件和服务 Microsoft Action Pack 的访问权限，并获得银牌和金牌能力</span><span class="sxs-lookup"><span data-stu-id="288f3-131">Partnering with Microsoft to get access to internal-use rights software and services, the Microsoft Action Pack, and earn Silver and Gold competencies</span></span> |
-|[<span data-ttu-id="288f3-132">云解决方案提供商计划 - 销售畅销的云解决方案</span><span class="sxs-lookup"><span data-stu-id="288f3-132">Cloud Solution Provider program - selling in-demand cloud solutions</span></span>](csp-overview.md) | <span data-ttu-id="288f3-133">哪种云解决方案提供商模式适合你，你可以通过云解决方案提供商计划在哪里进行销售，你可以通过云解决方案提供商计划销售哪些产品和服务</span><span class="sxs-lookup"><span data-stu-id="288f3-133">Which CSP model is right for you, where you can sell through CSP, what you can sell through CSP</span></span> |
-|[<span data-ttu-id="288f3-134">设置你的合作伙伴仪表板帐户</span><span class="sxs-lookup"><span data-stu-id="288f3-134">Set up your Partner Dashboard account</span></span>](partner-center-account-setup.md)|<span data-ttu-id="288f3-135">创建用户帐户，管理你的配置文件，管理密码，以及自定义产品目录</span><span class="sxs-lookup"><span data-stu-id="288f3-135">Create user accounts, manage your profiles, manage passwords, and customize the product catalog</span></span> |
-|[<span data-ttu-id="288f3-136">设置你的客户帐户</span><span class="sxs-lookup"><span data-stu-id="288f3-136">Set up your customer accounts</span></span>](customer-accounts.md)|<span data-ttu-id="288f3-137">添加用户，创建新帐户，以及查看你的客户列表</span><span class="sxs-lookup"><span data-stu-id="288f3-137">Add users, create new accounts, and see your customer list</span></span> |
-|[<span data-ttu-id="288f3-138">与其他合作伙伴合作</span><span class="sxs-lookup"><span data-stu-id="288f3-138">Work with other partners</span></span>](work-with-other-partners.md)|<span data-ttu-id="288f3-139">查找专长与你互补的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="288f3-139">Find partners whose expertise complements yours</span></span> |
-
-## <a name="manage-your-reseller-business"></a><span data-ttu-id="288f3-140">管理你的经销商业务</span><span class="sxs-lookup"><span data-stu-id="288f3-140">Manage your reseller business</span></span>
-
-<span data-ttu-id="288f3-141">利用这些机会发展你的业务：</span><span class="sxs-lookup"><span data-stu-id="288f3-141">Take advantage of these opportunities to grow your business:</span></span>
-
-| **<span data-ttu-id="288f3-142">转到此处</span><span class="sxs-lookup"><span data-stu-id="288f3-142">Go here</span></span>**  |**<span data-ttu-id="288f3-143">若要了解有关这方面的信息</span><span class="sxs-lookup"><span data-stu-id="288f3-143">To learn about this</span></span>**   |
-|------------|:-------------|
-|[<span data-ttu-id="288f3-144">通过 Microsoft 的引荐来拓展业务</span><span class="sxs-lookup"><span data-stu-id="288f3-144">Grow your business with referrals from Microsoft</span></span>](referrals.md)|<span data-ttu-id="288f3-145">为客户创建企业简介，然后接收和响应引荐</span><span class="sxs-lookup"><span data-stu-id="288f3-145">Create a business profile for customers, then receive and respond to referrals</span></span>|
-|[<span data-ttu-id="288f3-146">适用于 Power BI 的合作伙伴分析应用</span><span class="sxs-lookup"><span data-stu-id="288f3-146">Partner Analytics app for Power BI</span></span>](power-bi-app-for-direct-partners.md)| <span data-ttu-id="288f3-147">使用熟悉的 Microsoft Power BI 仪表板深入了解贵公司的绩效</span><span class="sxs-lookup"><span data-stu-id="288f3-147">Gain insights into your company's performance using the familiar Microsoft Power BI dashboard</span></span>|
-|[<span data-ttu-id="288f3-148">管理客户的订阅</span><span class="sxs-lookup"><span data-stu-id="288f3-148">Manage subscriptions for customers</span></span>](customer-subscriptions.md)|<span data-ttu-id="288f3-149">新订阅、试用订阅、分配许可证、促销和折扣</span><span class="sxs-lookup"><span data-stu-id="288f3-149">New subscriptions, trial subscriptions, assign licenses, promotions and discounts</span></span>|
-|[<span data-ttu-id="288f3-150">将能力添加到你的业务配置文件</span><span class="sxs-lookup"><span data-stu-id="288f3-150">Add competencies to your business profile</span></span>](learn-about-competencies.md)|<span data-ttu-id="288f3-151">证明专长，了解能力选项</span><span class="sxs-lookup"><span data-stu-id="288f3-151">Demonstrate expertise, learn about competency options</span></span>|
-|[<span data-ttu-id="288f3-152">计费</span><span class="sxs-lookup"><span data-stu-id="288f3-152">Billing</span></span>](billing.md)|<span data-ttu-id="288f3-153">查看计费方案、税款和 VAT，以及 Azure 费用预算</span><span class="sxs-lookup"><span data-stu-id="288f3-153">Review billing scenarios, taxes and VAT, and Azure spending budgets</span></span> |
-
-## <a name="understand-your-support-options"></a><span data-ttu-id="288f3-154">了解你的支持选项</span><span class="sxs-lookup"><span data-stu-id="288f3-154">Understand your support options</span></span>
-
-<span data-ttu-id="288f3-155">当客户需要技术或帐户支持服务时，你是首个接触点。</span><span class="sxs-lookup"><span data-stu-id="288f3-155">When your customer needs technical or account support services, you are the first point of contact.</span></span>
-
-<span data-ttu-id="288f3-156">当你需要 Microsoft 服务或合作伙伴中心方面的帮助时，我们都会帮助你。</span><span class="sxs-lookup"><span data-stu-id="288f3-156">When you need help with a Microsoft service or with Partner Center, we’re here for you.</span></span> 
-
-| **<span data-ttu-id="288f3-157">转到此处</span><span class="sxs-lookup"><span data-stu-id="288f3-157">Go here</span></span>**  | **<span data-ttu-id="288f3-158">若要了解有关这方面的信息</span><span class="sxs-lookup"><span data-stu-id="288f3-158">To learn about this</span></span>**  |
-|------------|:-------------|
-|[<span data-ttu-id="288f3-159">客户支持</span><span class="sxs-lookup"><span data-stu-id="288f3-159">Customer support</span></span>](customer-support.md)|<span data-ttu-id="288f3-160">提供技术支持和计费支持、处理升级，并帮助客户自我支持</span><span class="sxs-lookup"><span data-stu-id="288f3-160">Provide technical support, billing support, handle escalations, and help customers support themselves</span></span>|
-|[<span data-ttu-id="288f3-161">Microsoft 支持</span><span class="sxs-lookup"><span data-stu-id="288f3-161">Support from Microsoft</span></span>](support-from-microsoft.md)|<span data-ttu-id="288f3-162">报告合作伙伴中心方面的问题，代表客户报告问题</span><span class="sxs-lookup"><span data-stu-id="288f3-162">Report issues with Partner Center, report issues on behalf of a customer</span></span>|
+<ul id="products3" class="cardsF cols cols3 panelContent singlePanelContent">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img class="x-hidden-focus" alt="" src="https://docs.microsoft.com/media/common/i_support.svg" data-linktype="external">
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>支持</h3>
+                        <p>了解支持资源，包括产品支持、聊天、培训、论坛、博客和 Yammer。<br /><br /><a href="/partner-center/customer-support">支持客户</a><br /><a href="/partner-center/support-from-microsoft">从 Microsoft 获取支持</a><br /><a href="https://partnercenter.microsoft.com/partner/support">其他资源</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>

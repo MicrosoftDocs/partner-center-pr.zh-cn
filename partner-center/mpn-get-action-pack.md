@@ -1,127 +1,119 @@
 ---
-title: 购买或续订 Action Pack | 合作伙伴中心
-description: 了解如何购买或续订 Microsoft Action Pack 订阅。
+title: 购买或续订 Microsoft Action Pack | 合作伙伴中心
+description: 了解如何获取 Microsoft Action Pack，无论是首次购买还是续订。
 author: MaggiePucciEvans
-ms.openlocfilehash: 07a5591b154d77542a97a93ea2e99741542f2ec6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
+ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207257"
 ---
-# <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="83140-103">购买或续订 Microsoft Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="83140-103">Purchase or renew a Microsoft Action Pack subscription</span></span>
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="22f94-104">首次购买或续订 Microsoft Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="22f94-104">Buy for the first time or renew a Microsoft Action Pack subscription</span></span>
 
-**<span data-ttu-id="83140-104">适用于</span><span class="sxs-lookup"><span data-stu-id="83140-104">Applies to</span></span>**
+**<span data-ttu-id="22f94-105">适用范围</span><span class="sxs-lookup"><span data-stu-id="22f94-105">Applies to</span></span>**
 
--  <span data-ttu-id="83140-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="83140-105">Partner Center</span></span>
+-  <span data-ttu-id="22f94-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="22f94-106">Partner Center</span></span>
+-  <span data-ttu-id="22f94-107">Partner Membership Center</span><span class="sxs-lookup"><span data-stu-id="22f94-107">Partner Membership Center</span></span>
 
+<span data-ttu-id="22f94-108">Action Pack 为想要在云优先、移动优先领域中构建和发展其 Microsoft 实务的企业提供软件、支持和权益。</span><span class="sxs-lookup"><span data-stu-id="22f94-108">Action Pack offers software, support, and benefits for businesses that want to build and grow their Microsoft practice in a cloud-first, mobile-first world.</span></span> <span data-ttu-id="22f94-109">购买 Action Pack 可获得一套强大的软件，其将提供：</span><span class="sxs-lookup"><span data-stu-id="22f94-109">When you buy Action Pack, you get a robust set of software that offers:</span></span> 
 
-<span data-ttu-id="83140-106">Action Pack 是服务、软件和支持的经济实惠型年度订阅。</span><span class="sxs-lookup"><span data-stu-id="83140-106">Action Pack is an affordable yearly subscription to services, software, and support.</span></span> <span data-ttu-id="83140-107">订阅 Action Pack 以：</span><span class="sxs-lookup"><span data-stu-id="83140-107">Subscribe to Action Pack to:</span></span>
+- <span data-ttu-id="22f94-110">专门支持，以便你自信地服务客户</span><span class="sxs-lookup"><span data-stu-id="22f94-110">Dedicated support so you can confidently serve your customers’ needs</span></span> 
+- <span data-ttu-id="22f94-111">市场营销资源，以便你开展随时可开始的活动并提供相关指南</span><span class="sxs-lookup"><span data-stu-id="22f94-111">Marketing resources that provide ready-to-go campaigns and guidance</span></span> 
+- <span data-ttu-id="22f94-112">全面的见解和业务规划工具</span><span class="sxs-lookup"><span data-stu-id="22f94-112">Comprehensive insights and business planning tools</span></span> 
+- <span data-ttu-id="22f94-113">围绕云的培训</span><span class="sxs-lookup"><span data-stu-id="22f94-113">Cloud-focused training</span></span> 
 
-- <span data-ttu-id="83140-108">使用世界一流的开发人员工具为你的客户创建应用程序和解决方案。</span><span class="sxs-lookup"><span data-stu-id="83140-108">Create applications and solutions for your customers using world-class developer tools.</span></span> <span data-ttu-id="83140-109">在 iOS、Android、Linux 和 Windows 上创建应用程序和解决方案</span><span class="sxs-lookup"><span data-stu-id="83140-109">Create applications and solutions on iOS, Android, Linux, and Windows</span></span> 
+<span data-ttu-id="22f94-114">你可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3)站点上找到有关 Action Pack 的更多详细信息。</span><span class="sxs-lookup"><span data-stu-id="22f94-114">You can find more details about Action Pack on the [Microsoft Partner Network](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3) site.</span></span>
 
-- <span data-ttu-id="83140-110">获取 Windows 10 企业版（升级）许可证、Visual Studio Professional 许可证以及一个免费的 Visual Studio Team Services 帐户</span><span class="sxs-lookup"><span data-stu-id="83140-110">Get Windows 10 Enterprise (upgrade) licenses, Visual Studio Professional licenses, and a no-cost Visual Studio Team Services account</span></span> 
+## <a name="buy-microsoft-action-pack-for-the-first-time"></a><span data-ttu-id="22f94-115">首次购买 Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="22f94-115">Buy Microsoft Action Pack for the first time</span></span>
 
-- <span data-ttu-id="83140-111">获取 Office 365 (E3) 许可证以及 Enterprise Mobility Suite 和 Microsoft Dynamics 许可证</span><span class="sxs-lookup"><span data-stu-id="83140-111">Get Office 365 (E3) licenses, plus licenses for Enterprise Mobility Suite and Microsoft Dynamics</span></span> 
+<span data-ttu-id="22f94-116">如果你不熟悉如何与 Microsoft 合作，第一步是加入 Microsoft 合作伙伴网络。</span><span class="sxs-lookup"><span data-stu-id="22f94-116">If you're new to partnering with Microsoft, the first step is to join the Microsoft Partner Network.</span></span> <span data-ttu-id="22f94-117">如果你还不是合作伙伴网络的成员，请转到网络合作伙伴站点的[成员身份页面](https://partner.microsoft.com/membership)并在你准备好注册时选择**立即注册**。</span><span class="sxs-lookup"><span data-stu-id="22f94-117">If you're not already a member of the partner network, go to [the membership page](https://partner.microsoft.com/membership) on the partner network site and select **Enroll now** when you're ready to sign up.</span></span> 
 
-- <span data-ttu-id="83140-112">每月接收 Microsoft Azure 使用信用额度</span><span class="sxs-lookup"><span data-stu-id="83140-112">Receive Microsoft Azure usage credits every month</span></span>
+<span data-ttu-id="22f94-118">成功加入合作伙伴网络后，请按照[合作伙伴网络站点上的说明](https://partner.microsoft.com/membership/action-pack)操作，购买你的第一个 Action Pack 订阅。</span><span class="sxs-lookup"><span data-stu-id="22f94-118">After you've successfully joined the partner network, follow the [instructions on the partner network site](https://partner.microsoft.com/membership/action-pack) to buy your first Action Pack subscription.</span></span> 
 
-<span data-ttu-id="83140-113">有关 Action Pack 的信息，请在 Microsoft 合作伙伴网络网站上访问以下页面：</span><span class="sxs-lookup"><span data-stu-id="83140-113">For information about Action Pack, visit these pages on the Microsoft Partner Network site:</span></span> 
+## <a name="renew-a-microsoft-action-pack-subscription"></a><span data-ttu-id="22f94-119">续订 Microsoft Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="22f94-119">Renew a Microsoft Action Pack subscription</span></span>
 
--   [<span data-ttu-id="83140-114">Microsoft Action Pack 是什么？</span><span class="sxs-lookup"><span data-stu-id="83140-114">What is the Microsoft Action Pack?</span></span>](https://partner.microsoft.com/membership/action-pack)
+>[!IMPORTANT]
+><span data-ttu-id="22f94-120">从现在起到本日历年结束，我们会将 Action Pack订阅管理从 Partner Membership Center (PMC) 移至合作伙伴仪表板 - 即此站点。</span><span class="sxs-lookup"><span data-stu-id="22f94-120">Between now and the end of the calendar year, we're moving Action Pack subscription management from Partner Membership Center (PMC) to the partner dashboard - this site.</span></span> <span data-ttu-id="22f94-121">到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看以下信息。</span><span class="sxs-lookup"><span data-stu-id="22f94-121">Renewing your Action Pack subscription may vary between now and then, so please review the information below carefully.</span></span>  
 
--   [<span data-ttu-id="83140-115">Action Pack 随附的权益</span><span class="sxs-lookup"><span data-stu-id="83140-115">Benefits included with Action Pack</span></span>](https://partner.microsoft.com/membership/core-benefits)
+### <a name="check-your-renewal-eligibility"></a><span data-ttu-id="22f94-122">检查你的续订资格</span><span class="sxs-lookup"><span data-stu-id="22f94-122">Check your renewal eligibility</span></span>
 
+1. <span data-ttu-id="22f94-123">登录到 [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect)。</span><span class="sxs-lookup"><span data-stu-id="22f94-123">Sign in to the [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect).</span></span>
 
+2. <span data-ttu-id="22f94-124">成功登录后，你将：</span><span class="sxs-lookup"><span data-stu-id="22f94-124">After you sign in successfully, you will either:</span></span>
 
-## <a name="purchase-a-microsoft-action-pack-subscription"></a><span data-ttu-id="83140-116">购买 Microsoft Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="83140-116">Purchase a Microsoft Action Pack subscription</span></span>
+    - <span data-ttu-id="22f94-125">能够按照这些步骤在 PMC 中续订你的订阅，或</span><span class="sxs-lookup"><span data-stu-id="22f94-125">Be able to follow the steps to renew your subscription in PMC, or</span></span>
 
-1. <span data-ttu-id="83140-117">在**仪表板**菜单上，选择**成员产品/服务**。</span><span class="sxs-lookup"><span data-stu-id="83140-117">On the **Dashboard** menu, select **Membership offers**.</span></span> <span data-ttu-id="83140-118">**可用产品/服务**下面列出了 Microsoft Action Pack。</span><span class="sxs-lookup"><span data-stu-id="83140-118">Microsoft Action Pack is listed under **Available offers**.</span></span> 
+    - <span data-ttu-id="22f94-126">收到一条消息，邀请你在合作伙伴仪表板 - 即此站点续订你的订阅</span><span class="sxs-lookup"><span data-stu-id="22f94-126">Get a message inviting you to renew your subscription in the partner dashboard - this site</span></span>
 
-2. <span data-ttu-id="83140-119">选择**立即订阅**，然后选择你的付款方式。</span><span class="sxs-lookup"><span data-stu-id="83140-119">Select **Subscribe now** and then select your payment method.</span></span> <span data-ttu-id="83140-120">你可以使用信用卡或通过电子银行转账进行支付。</span><span class="sxs-lookup"><span data-stu-id="83140-120">You can pay using a credit card or an electronic bank transfer.</span></span> 
-
-    >**<span data-ttu-id="83140-121">重要提示：</span><span class="sxs-lookup"><span data-stu-id="83140-121">Important</span></span>**<br> <span data-ttu-id="83140-122">提交付款即代表你同意[条款和条件](https://go.microsoft.com/fwlink/?linkid=842232)以获取 Microsoft 授予的内部使用权限。</span><span class="sxs-lookup"><span data-stu-id="83140-122">When you submit your payment, you are also agreeing to the [Terms and Conditions](https://go.microsoft.com/fwlink/?linkid=842232) for internal use rights granted by Microsoft.</span></span> 
-
-3. <span data-ttu-id="83140-123">如果使用信用卡支付，请按照说明添加你的信用卡信息。</span><span class="sxs-lookup"><span data-stu-id="83140-123">If paying by credit card, follow the instructinos for adding your credit card information.</span></span> 
-
-    <span data-ttu-id="83140-124">如果通过电子银行转账支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="83140-124">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span>  
-4. <span data-ttu-id="83140-125">查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**购买**。</span><span class="sxs-lookup"><span data-stu-id="83140-125">Review your order details and then select **Buy** when you’re ready to purchase Action Pack.</span></span> <span data-ttu-id="83140-126">你的信用卡将被立即收费。</span><span class="sxs-lookup"><span data-stu-id="83140-126">Your credit card will be charged immediately.</span></span>
-
-5. <span data-ttu-id="83140-127">你的订单已获得确认。</span><span class="sxs-lookup"><span data-stu-id="83140-127">Your order is confirmed.</span></span> <span data-ttu-id="83140-128">选择**关闭**。</span><span class="sxs-lookup"><span data-stu-id="83140-128">Select **Close**.</span></span>
-
-<span data-ttu-id="83140-129">每年在此日期你的 Action Pack 订阅都将自动续订。</span><span class="sxs-lookup"><span data-stu-id="83140-129">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="83140-130">你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。</span><span class="sxs-lookup"><span data-stu-id="83140-130">You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
-
-
-## <a name="renew-your-action-pack-subscription"></a><span data-ttu-id="83140-131">续订 Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="83140-131">Renew your Action Pack subscription</span></span>
-
-1. <span data-ttu-id="83140-132">在**仪表板**菜单上，选择**成员产品/服务**。</span><span class="sxs-lookup"><span data-stu-id="83140-132">On the **Dashboard** menu, select **Membership offers**.</span></span>  
-
-2. <span data-ttu-id="83140-133">选择**已购买**并找到 Action Pack 磁贴。</span><span class="sxs-lookup"><span data-stu-id="83140-133">Select **Purchased** and locate the Action Pack tile.</span></span>  
-
-3. <span data-ttu-id="83140-134">选择**续订订阅**，然后选择你的付款方式。</span><span class="sxs-lookup"><span data-stu-id="83140-134">Select **Renew subscription** and then select your payment method.</span></span> <span data-ttu-id="83140-135">您可以使用信用卡或电子银行转账进行支付。</span><span class="sxs-lookup"><span data-stu-id="83140-135">You can pay using a credit card or an electronic bank transfer.</span></span> 
-
-    >**<span data-ttu-id="83140-136">重要事项</span><span class="sxs-lookup"><span data-stu-id="83140-136">Important</span></span>**<br> <span data-ttu-id="83140-137">在提交付款时，你还同意[条款和条件](https://go.microsoft.com/fwlink/?linkid=842232)以获取 Microsoft 授予的内部使用权限。</span><span class="sxs-lookup"><span data-stu-id="83140-137">When you submit your payment, you are also agreeing to the [Terms and Conditions](https://go.microsoft.com/fwlink/?linkid=842232) for internal use rights granted by Microsoft.</span></span> 
-
-3. <span data-ttu-id="83140-138">如果使用信用卡支付，请按照说明添加你的信用卡信息。</span><span class="sxs-lookup"><span data-stu-id="83140-138">If paying by credit card, follow the instructions for adding your credit card information.</span></span> 
-
-    <span data-ttu-id="83140-139">如果通过电子银行转账进行支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="83140-139">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span> 
-
- 4. <span data-ttu-id="83140-140">查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**购买**。</span><span class="sxs-lookup"><span data-stu-id="83140-140">Review your order details and then select **Buy** when you’re ready to purchase Action Pack.</span></span> <span data-ttu-id="83140-141">你的信用卡将被立即收费。</span><span class="sxs-lookup"><span data-stu-id="83140-141">Your credit card will be charged immediately.</span></span>
-
-5. <span data-ttu-id="83140-142">你的订单已获得确认。</span><span class="sxs-lookup"><span data-stu-id="83140-142">Your order is confirmed.</span></span> <span data-ttu-id="83140-143">选择**关闭**。</span><span class="sxs-lookup"><span data-stu-id="83140-143">Select **Close**.</span></span>
-
-<span data-ttu-id="83140-144">每年在此日期你的 Action Pack 订阅都将自动续订。</span><span class="sxs-lookup"><span data-stu-id="83140-144">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="83140-145">你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。</span><span class="sxs-lookup"><span data-stu-id="83140-145">You can turn off automatic renewal at any time from your purchased offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
+>[!IMPORTANT]
+><span data-ttu-id="22f94-127">如果你受邀在合作伙伴仪表板中续订订阅，请注意，我们已经更改了续订时段策略，你只能在订阅过期后续订。</span><span class="sxs-lookup"><span data-stu-id="22f94-127">If you are invited to renew your subscription in the partner dashboard, please note that we've changed our renewal window policy and you can renew your subscription only after it expires.</span></span> <span data-ttu-id="22f94-128">例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。</span><span class="sxs-lookup"><span data-stu-id="22f94-128">For example, if your subscription expires on June 22, you can renew it starting June 23 and for 30 days after.</span></span>       
+><span data-ttu-id="22f94-129">你可以在[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面查找你的订阅的到期日期（需要登录）。</span><span class="sxs-lookup"><span data-stu-id="22f94-129">You can find your subscription's expiration date on your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page (sign-in required).</span></span> <span data-ttu-id="22f94-130">如果或当你有资格在合作伙伴仪表板中续订时，请按照以下步骤操作。</span><span class="sxs-lookup"><span data-stu-id="22f94-130">If or when you are eligible to renew in the partner dashboard, follow the steps below.</span></span>  
 
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a><span data-ttu-id="83140-146">关闭 Action Pack 订阅自动续订</span><span class="sxs-lookup"><span data-stu-id="83140-146">Turn off automatic Action Pack subscription renewal</span></span>
 
-1. <span data-ttu-id="83140-147">在**仪表板**菜单上，选择**成员产品/服务**。</span><span class="sxs-lookup"><span data-stu-id="83140-147">On the **Dashboard** menu, select **Membership offers**.</span></span> 
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a><span data-ttu-id="22f94-131">若要在合作伙伴仪表板中续订 Microsoft Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="22f94-131">To renew a Microsoft Action Pack subscription in the partner dashboard</span></span>
 
-2. <span data-ttu-id="83140-148">选择**已购买**，然后选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。</span><span class="sxs-lookup"><span data-stu-id="83140-148">Select **Purchased** and then select **Microsoft Action Pack subscription** to view the subscription details.</span></span> 
+1. <span data-ttu-id="22f94-132">转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。</span><span class="sxs-lookup"><span data-stu-id="22f94-132">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="22f94-133">找到 **Microsost Action Pack 订阅**磁贴。</span><span class="sxs-lookup"><span data-stu-id="22f94-133">Locate the **Microsost Action Pack Subscription** tile.</span></span>  
 
-3. <span data-ttu-id="83140-149">如果你不希望每年自动续订你的 Action Pack 订阅，请选择**关闭自动续订**。</span><span class="sxs-lookup"><span data-stu-id="83140-149">Select **Turn off automatic renewal** if you don't want your Action Pack subscription to renew automatically each year.</span></span> 
+2. <span data-ttu-id="22f94-134">选择**续订订阅**，然后选择你的付款方式。</span><span class="sxs-lookup"><span data-stu-id="22f94-134">Select **Renew subscription** and then select your payment method.</span></span> <span data-ttu-id="22f94-135">你可以使用信用卡或通过电子银行转账进行支付。</span><span class="sxs-lookup"><span data-stu-id="22f94-135">You can pay using a credit card or an electronic bank transfer.</span></span>
 
-    >**<span data-ttu-id="83140-150">注意</span><span class="sxs-lookup"><span data-stu-id="83140-150">Note</span></span>**<br>
-    <span data-ttu-id="83140-151">如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。</span><span class="sxs-lookup"><span data-stu-id="83140-151">If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again.</span></span> <span data-ttu-id="83140-152">我们将在你的订阅到期之前提醒你续订。</span><span class="sxs-lookup"><span data-stu-id="83140-152">We’ll remind you to renew before your subscription expires.</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="22f94-136">如果**续订订阅**未显示或者灰显，则表明你还没有资格续订 Action Pack 订阅。</span><span class="sxs-lookup"><span data-stu-id="22f94-136">If **Renew subscription** isn't displayed or is greyed out, you're not yet eligible to renew your Action Pack subscription.</span></span> <span data-ttu-id="22f94-137">我们已经更改了续订时段策略，你只能在订阅过期后续订。</span><span class="sxs-lookup"><span data-stu-id="22f94-137">We've changed our renewal window policy and you can renew your subscription only after it expires.</span></span> <span data-ttu-id="22f94-138">例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。</span><span class="sxs-lookup"><span data-stu-id="22f94-138">For example, if your subscription expires on June 22, you can renew it starting June 23 and for 30 days after.</span></span>  
+
+3. <span data-ttu-id="22f94-139">如果使用信用卡支付，请按照说明添加你的信用卡信息。</span><span class="sxs-lookup"><span data-stu-id="22f94-139">If paying by credit card, follow the instructions for adding your credit card information.</span></span> <span data-ttu-id="22f94-140">如果通过电子银行转账进行支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="22f94-140">If paying by electronic bank transfer, provide a contact name, phone number, and email address and then select **Submit**.</span></span> 
+     
+4. <span data-ttu-id="22f94-141">查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**购买**。</span><span class="sxs-lookup"><span data-stu-id="22f94-141">Review your order details and then select **Buy** when you’re ready to buy Action Pack.</span></span> <span data-ttu-id="22f94-142">你的信用卡将被立即收费。</span><span class="sxs-lookup"><span data-stu-id="22f94-142">Your credit card is charged immediately.</span></span>
+
+5. <span data-ttu-id="22f94-143">然后订单获得确认。</span><span class="sxs-lookup"><span data-stu-id="22f94-143">Your order is confirmed.</span></span> <span data-ttu-id="22f94-144">选择**关闭**。</span><span class="sxs-lookup"><span data-stu-id="22f94-144">Select **Close**.</span></span>
+
+<span data-ttu-id="22f94-145">每年在此日期你的 Action Pack 订阅都将自动续订。</span><span class="sxs-lookup"><span data-stu-id="22f94-145">Your Action Pack subscription will renew automatically each year on this date.</span></span> <span data-ttu-id="22f94-146">你可以随时从你的**已购买**产品/服务列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。</span><span class="sxs-lookup"><span data-stu-id="22f94-146">You can turn off automatic renewal at any time from your **Purchased** offers list; however, you won't be able to turn automatic subscription renewal back on until you renew your subscription again.</span></span> 
 
 
-## <a name="cancel-your-action-pack-subscription"></a><span data-ttu-id="83140-153">取消 Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="83140-153">Cancel your Action Pack subscription</span></span>
+## <a name="turn-off-automatic-action-pack-subscription-renewal"></a><span data-ttu-id="22f94-147">关闭 Action Pack 订阅自动续订</span><span class="sxs-lookup"><span data-stu-id="22f94-147">Turn off automatic Action Pack subscription renewal</span></span>
 
-<span data-ttu-id="83140-154">若要取消你的 Microsoft Action Pack 订阅，你可能需要联系合作伙伴支持部门。</span><span class="sxs-lookup"><span data-stu-id="83140-154">To cancel your Microsoft Action Pack subscription, you may need to contact Partner Support.</span></span>
+1. <span data-ttu-id="22f94-148">转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。</span><span class="sxs-lookup"><span data-stu-id="22f94-148">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="22f94-149">选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。</span><span class="sxs-lookup"><span data-stu-id="22f94-149">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
 
-1. <span data-ttu-id="83140-155">在**仪表板**菜单上，选择**成品产品/服务**。</span><span class="sxs-lookup"><span data-stu-id="83140-155">On the **Dashboard** menu, select **Membership offers**.</span></span> 
+2. <span data-ttu-id="22f94-150">如果你不希望每年自动续订你的 Action Pack 订阅，请选择**关闭自动续订**。</span><span class="sxs-lookup"><span data-stu-id="22f94-150">Select **Turn off automatic renewal** if you don't want your Action Pack subscription to renew automatically each year.</span></span> 
 
-2. <span data-ttu-id="83140-156">选择**已购买**，然后找到 Action Pack 磁贴。</span><span class="sxs-lookup"><span data-stu-id="83140-156">Select **Purchased** and then find the Action Pack tile.</span></span>
+    >[!NOTE]
+    ><span data-ttu-id="22f94-151">如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。</span><span class="sxs-lookup"><span data-stu-id="22f94-151">If you turn off automatic subscription renewal, you won’t be able to turn it back on until you renew the subscription again.</span></span> <span data-ttu-id="22f94-152">我们将在你的订阅到期之前提醒你续订。</span><span class="sxs-lookup"><span data-stu-id="22f94-152">We’ll remind you to renew before your subscription expires.</span></span>
 
-3. <span data-ttu-id="83140-157">选择**取消订阅**。</span><span class="sxs-lookup"><span data-stu-id="83140-157">Select **Cancel subscription**.</span></span> <span data-ttu-id="83140-158">按照说明创建支持请求。</span><span class="sxs-lookup"><span data-stu-id="83140-158">Follow the instructions for creating a support request.</span></span> 
 
-4. <span data-ttu-id="83140-159">在支持请求表单上，选择以下值以正常发送你的请求：</span><span class="sxs-lookup"><span data-stu-id="83140-159">On the support request form, select the following values to properly route your request:</span></span>
+## <a name="cancel-your-action-pack-subscription"></a><span data-ttu-id="22f94-153">取消 Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="22f94-153">Cancel your Action Pack subscription</span></span>
 
-    -  <span data-ttu-id="83140-160">选择**报告合作伙伴仪表板问题**，然后在下一页上选择**新建请求**。</span><span class="sxs-lookup"><span data-stu-id="83140-160">Select **Report problems with the Partner Dashboard**, and then select **New request** on the next page.</span></span>
+<span data-ttu-id="22f94-154">若要取消你的 Microsoft Action Pack 订阅，你可能需要联系合作伙伴支持部门。</span><span class="sxs-lookup"><span data-stu-id="22f94-154">To cancel your Microsoft Action Pack subscription, you may need to contact Partner Support.</span></span>
 
-    -  <span data-ttu-id="83140-161">展开**问题类型**列表并选择**合作伙伴发票、付款或对帐文件帮助**。</span><span class="sxs-lookup"><span data-stu-id="83140-161">Expand the **Type of problem** list and select **Help with partner invoice, payment, or reconciliation file**.</span></span> 
+1. <span data-ttu-id="22f94-155">转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。</span><span class="sxs-lookup"><span data-stu-id="22f94-155">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="22f94-156">选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。</span><span class="sxs-lookup"><span data-stu-id="22f94-156">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
 
-5. <span data-ttu-id="83140-162">填写完所需的信息，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="83140-162">Finish filling in the required information and then select **Submit**.</span></span> <span data-ttu-id="83140-163">合作伙伴仪表板支持团队将联系你以帮助你取消订阅。</span><span class="sxs-lookup"><span data-stu-id="83140-163">The Partner Dashboard Support team will contact you to help you cancel your subscription.</span></span>
+3. <span data-ttu-id="22f94-157">选择**取消订阅**。</span><span class="sxs-lookup"><span data-stu-id="22f94-157">Select **Cancel subscription**.</span></span> <span data-ttu-id="22f94-158">按照说明创建支持请求。</span><span class="sxs-lookup"><span data-stu-id="22f94-158">Follow the instructions for creating a support request.</span></span> 
 
-<span data-ttu-id="83140-164">若要查看服务请求的状态，请从**帐户设置**菜单中选择**合作伙伴中心请求**，然后选择**打开**。</span><span class="sxs-lookup"><span data-stu-id="83140-164">To check on the status of your service request, select **Partner Center requests** from your **Account settings** menu, and then select **Open**.</span></span> <span data-ttu-id="83140-165">从列表中选择合适的服务请求。</span><span class="sxs-lookup"><span data-stu-id="83140-165">Choose the appropriate service request from the list.</span></span>  
+4. <span data-ttu-id="22f94-159">在支持请求表单上，选择以下值以正常发送你的请求：</span><span class="sxs-lookup"><span data-stu-id="22f94-159">On the support request form, select the following values to properly route your request:</span></span>
 
-## <a name="download-your-action-pack-invoice"></a><span data-ttu-id="83140-166">下载 Action Pack 发票</span><span class="sxs-lookup"><span data-stu-id="83140-166">Download your Action Pack invoice</span></span>
+    -  <span data-ttu-id="22f94-160">选择**报告合作伙伴中心问题**，然后在下一页上选择**新建请求**。</span><span class="sxs-lookup"><span data-stu-id="22f94-160">Select **Report problems with Partner Center**, and then select **New request** on the next page.</span></span>
 
-1. <span data-ttu-id="83140-167">在**仪表板**菜单上，选择**成员产品/服务**。</span><span class="sxs-lookup"><span data-stu-id="83140-167">On the **Dashboard** menu, select **Membership offers**.</span></span>  
+    -  <span data-ttu-id="22f94-161">展开**问题类型**列表并选择**合作伙伴发票、付款或对帐文件帮助**。</span><span class="sxs-lookup"><span data-stu-id="22f94-161">Expand the **Type of problem** list and select **Help with partner invoice, payment, or reconciliation file**.</span></span> 
 
-2. <span data-ttu-id="83140-168">选择**已购买**，然后找到 Action Pack 磁贴。</span><span class="sxs-lookup"><span data-stu-id="83140-168">Select **Purchased** and then find the Action Pack tile.</span></span> 
+5. <span data-ttu-id="22f94-162">填写完所需的信息，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="22f94-162">Finish filling in the required information and then select **Submit**.</span></span> <span data-ttu-id="22f94-163">合作伙伴中心支持团队将联系你以帮助你取消订阅。</span><span class="sxs-lookup"><span data-stu-id="22f94-163">The Partner Center Support team will contact you to help you cancel your subscription.</span></span>
 
-3. <span data-ttu-id="83140-169">选择**下载发票**。</span><span class="sxs-lookup"><span data-stu-id="83140-169">Select **Download invoice**.</span></span>
+<span data-ttu-id="22f94-164">若要查看服务请求的状态，请从**支持**选择**合作伙伴中心请求**，然后选择**打开**。</span><span class="sxs-lookup"><span data-stu-id="22f94-164">To check on the status of your service request, select **Partner Center requests** from **Support**, and then select **Open**.</span></span> <span data-ttu-id="22f94-165">从列表中选择合适的服务请求。</span><span class="sxs-lookup"><span data-stu-id="22f94-165">Choose the appropriate service request from the list.</span></span>  
+
+## <a name="download-your-action-pack-invoice"></a><span data-ttu-id="22f94-166">下载 Action Pack 发票</span><span class="sxs-lookup"><span data-stu-id="22f94-166">Download your Action Pack invoice</span></span>
+
+1. <span data-ttu-id="22f94-167">转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。</span><span class="sxs-lookup"><span data-stu-id="22f94-167">Go to your [**Membership offers**](https://partnercenter.microsoft.com/pcv/partnership/offers) page and then select **Purchased**.</span></span> <span data-ttu-id="22f94-168">选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。</span><span class="sxs-lookup"><span data-stu-id="22f94-168">Select **Microsoft Action Pack Subscription** to view your subscription details.</span></span> 
+
+3. <span data-ttu-id="22f94-169">选择**下载发票**。</span><span class="sxs-lookup"><span data-stu-id="22f94-169">Select **Download invoice**.</span></span>
  
-## <a name="next-steps"></a><span data-ttu-id="83140-170">后续步骤</span><span class="sxs-lookup"><span data-stu-id="83140-170">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="22f94-170">后续步骤</span><span class="sxs-lookup"><span data-stu-id="22f94-170">Next steps</span></span>
 
-[<span data-ttu-id="83140-171">开始使用 Action Pack 权益</span><span class="sxs-lookup"><span data-stu-id="83140-171">Start using your Action Pack benefits</span></span>](manage-your-partner-network-benefits.md)
+-   [<span data-ttu-id="22f94-171">开始使用 Action Pack 权益</span><span class="sxs-lookup"><span data-stu-id="22f94-171">Start using your Action Pack benefits</span></span>](manage-your-partner-network-benefits.md)
 
+-   [<span data-ttu-id="22f94-172">了解银牌和金牌能力成员身份级别</span><span class="sxs-lookup"><span data-stu-id="22f94-172">Learn about Silver and Gold competency membership levels</span></span>](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
-## <a name="see-also"></a><span data-ttu-id="83140-172">另请参阅</span><span class="sxs-lookup"><span data-stu-id="83140-172">See also</span></span>
+-   [<span data-ttu-id="22f94-173">添加用户并为其分配权限</span><span class="sxs-lookup"><span data-stu-id="22f94-173">Add users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
 
-[<span data-ttu-id="83140-173">添加用户并为其分配权限</span><span class="sxs-lookup"><span data-stu-id="83140-173">Add users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
-
-[<span data-ttu-id="83140-174">创建业务配置文件以从 Microsoft 获取销售线索</span><span class="sxs-lookup"><span data-stu-id="83140-174">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
+-   [<span data-ttu-id="22f94-174">创建业务配置文件以从 Microsoft 获取销售线索</span><span class="sxs-lookup"><span data-stu-id="22f94-174">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
 
 
 
