@@ -3,12 +3,12 @@ title: 续订你的 MPN 产品/服务 | 合作伙伴中心
 description: 从你的合作伙伴中心中续订 MPN 产品/服务
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 能力续订, 续订日期
-ms.openlocfilehash: ed037f6445d18a57033da51bc87d8f61d58370c3
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: 5b5009006ec6e4052e564e0c23deb2511485025e
+ms.sourcegitcommit: e84af3f0fd7683b83d0e15ad880aa92ee5efb0c7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991680"
+ms.lasthandoff: 06/11/2018
+ms.locfileid: "2018218"
 ---
 # <a name="renew-your-mpn-offers"></a>续订你的 MPN 产品/服务
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991680"
 
 可在周年日期后的 30 天内续订。 在此期间你的权益持续有效。 在周年日期之前的十五天时，Microsoft 将提醒你即将满一周年。 你将在周年日期之后的 23 天时收到另一个提醒。 当你在该周年日期加 30 天的时段内续订时，你的权益保持不变。 如果你未在续订时段内续订，将失去你的权益和能力。
 
-如果你在续订时段内续订，你的新周年日期将为续订后的 365 天。
+如果你在续订时段内续订，你的新周年日期将为当前周年后的 365 天。
 
 ## <a name="manage-auto-renewal"></a>管理自动续订
 

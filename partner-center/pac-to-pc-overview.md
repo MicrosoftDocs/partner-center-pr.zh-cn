@@ -3,11 +3,12 @@ title: 准备从合作伙伴管理员中心迁移到合作伙伴中心 | 合作�
 description: Office 365 合作伙伴管理员中心功能正在向合作伙伴中心迁移。
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
-ms.openlocfilehash: 5167ed6c6f29cccc5d9bee41c7cd7b97e9d90257
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+ms.openlocfilehash: a72b35ef214b84a876c1dc6783009e284baee996
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1911291"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>合作伙伴管理员中心正在向合作伙伴仪表板迁移
 
@@ -27,7 +28,7 @@ Office 365 合作伙伴管理员中心 (PAC) 正在向 Microsoft 合作伙伴仪
 
 **云解决方案提供商合作伙伴**：如果你是云解决方案提供商合作伙伴，我们会从 2018 年 4 月开始自动将你重定向到合作伙伴仪表板。 
 
-**顾问合作伙伴**：如果你是顾问合作伙伴，我们会在 2018 年 5 月自动将你重定向到合作伙伴仪表板。
+**顾问合作伙伴**（如果你未通过 CSP 进行事务处理且未使用 PAC 为客户提供试用/报价）在我们决定了你自动重定向到合作伙伴中心的时间线后，我们便会立即在此处公布。 
 
 
 ## <a name="start-using-the-microsoft-partner-dashboard-now"></a>立即开始使用 Microsoft 合作伙伴仪表板！

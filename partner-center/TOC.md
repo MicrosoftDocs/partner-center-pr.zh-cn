@@ -4,7 +4,7 @@
 ## [获取 Microsoft Action Pack](mpn-get-action-pack.md)
 ## [获取银牌或金牌成员身份](learn-about-competencies.md)
 ## [获取你的成员身份权益](manage-your-partner-network-benefits.md)
-## [续订你的 MPN 产品/服务](renew-mpn-offers.md)
+
 
 
 # [云解决方案提供商](csp-overview.md)
@@ -71,14 +71,17 @@
 ### [将基于许可证的服务客户移到云服务提供商计划中](transition-seat-based-services.md)
 ### [将 Dynamics AX 订阅升级到 Dynamics 365](manual-subscription-migration.md)
 ### [将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
+### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
 ### [销售 Minecraft: Education Edition 订阅](minecraft-subscriptions.md)
+### [向特定行业销售](Get-special-pricing-for-offers.md)
 ### [提高采用率和满意度](increasing-adoption-and-satisfaction.md)
 ### [利用 Windows Autopilot 简化设备设置](autopilot.md)
 
 # 合作伙伴仪表板数据和分析
 ## [获取并分析业务数据](data-analysis-lp.md)
 ## [适用于 Microsoft Power BI 的合作伙伴分析应用](power-bi-app-for-direct-partners.md)
+## [将你的 CSP 业务与其他合作伙伴进行比较](partner-contributions.md)
 
 # [与其他合作伙伴合作](work-with-other-partners.md)
 ## [合作伙伴仪表板上的间接提供商任务](indirect-provider-tasks-in-partner-center.md)

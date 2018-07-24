@@ -3,12 +3,12 @@ title: 发现你要销售的第三方产品/服务 | 合作伙伴中心
 description: 搜索并找到非常适合你的产品组合的第三方产品/服务类型。
 author: labrenne
 keywords: 第三方产品/服务, 要购买的软件, 搜索第三方
-ms.openlocfilehash: d328ec6594d7cd71b373f7cbec3620951c6858df
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
+ms.openlocfilehash: f924bc4d38c764ca571148943d287318edb46987
+ms.sourcegitcommit: 393cb5a8c9b71a737dc1a7aa8d1639937470be3d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991681"
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2204951"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>发现你要销售的第三方产品/服务
 
@@ -31,7 +31,7 @@ ms.locfileid: "1991681"
 
 若要获取更多详细信息，请选择一款产品。 此操作会将你转到详细信息页面，该页面将详细介绍产品的信息，包括产品功能、如何与 Microsoft 产品结合使用、如何对销售人员进行产品销售培训以及有关如何提高产品市场营销效果的技巧。 
 
-你会找到 ISV 的网站链接、联系人信息，通常也会找到产品的视频演示。 
+你还会找到 ISV 的网站链接、联系人信息，通常也会找到产品的视频演示。 
 
 ## <a name="add-the-product-to-your-portfolio"></a>将产品添加到产品组合
 

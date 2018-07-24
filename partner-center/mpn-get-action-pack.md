@@ -1,127 +1,119 @@
 ---
-title: 购买或续订 Action Pack | 合作伙伴中心
-description: 了解如何购买或续订 Microsoft Action Pack 订阅。
+title: 购买或续订 Microsoft Action Pack | 合作伙伴中心
+description: 了解如何获取 Microsoft Action Pack，无论是首次购买还是续订。
 author: MaggiePucciEvans
-ms.openlocfilehash: 07a5591b154d77542a97a93ea2e99741542f2ec6
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
+ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207257"
 ---
-# <a name="purchase-or-renew-a-microsoft-action-pack-subscription"></a>购买或续订 Microsoft Action Pack 订阅
+# <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次购买或续订 Microsoft Action Pack 订阅
 
-**适用于**
+**适用范围**
 
 -  合作伙伴中心
+-  Partner Membership Center
+
+Action Pack 为想要在云优先、移动优先领域中构建和发展其 Microsoft 实务的企业提供软件、支持和权益。 购买 Action Pack 可获得一套强大的软件，其将提供： 
+
+- 专门支持，以便你自信地服务客户 
+- 市场营销资源，以便你开展随时可开始的活动并提供相关指南 
+- 全面的见解和业务规划工具 
+- 围绕云的培训 
+
+你可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-3)站点上找到有关 Action Pack 的更多详细信息。
+
+## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次购买 Microsoft Action Pack
+
+如果你不熟悉如何与 Microsoft 合作，第一步是加入 Microsoft 合作伙伴网络。 如果你还不是合作伙伴网络的成员，请转到网络合作伙伴站点的[成员身份页面](https://partner.microsoft.com/membership)并在你准备好注册时选择**立即注册**。 
+
+成功加入合作伙伴网络后，请按照[合作伙伴网络站点上的说明](https://partner.microsoft.com/membership/action-pack)操作，购买你的第一个 Action Pack 订阅。 
+
+## <a name="renew-a-microsoft-action-pack-subscription"></a>续订 Microsoft Action Pack 订阅
+
+>[!IMPORTANT]
+>从现在起到本日历年结束，我们会将 Action Pack订阅管理从 Partner Membership Center (PMC) 移至合作伙伴仪表板 - 即此站点。 到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看以下信息。  
+
+### <a name="check-your-renewal-eligibility"></a>检查你的续订资格
+
+1. 登录到 [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect)。
+
+2. 成功登录后，你将：
+
+    - 能够按照这些步骤在 PMC 中续订你的订阅，或
+
+    - 收到一条消息，邀请你在合作伙伴仪表板 - 即此站点续订你的订阅
+
+>[!IMPORTANT]
+>如果你受邀在合作伙伴仪表板中续订订阅，请注意，我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
+>你可以在[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面查找你的订阅的到期日期（需要登录）。 如果或当你有资格在合作伙伴仪表板中续订时，请按照以下步骤操作。  
 
 
-Action Pack 是服务、软件和支持的经济实惠型年度订阅。 订阅 Action Pack 以：
 
-- 使用世界一流的开发人员工具为你的客户创建应用程序和解决方案。 在 iOS、Android、Linux 和 Windows 上创建应用程序和解决方案 
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>若要在合作伙伴仪表板中续订 Microsoft Action Pack 订阅
 
-- 获取 Windows 10 企业版（升级）许可证、Visual Studio Professional 许可证以及一个免费的 Visual Studio Team Services 帐户 
+1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 找到 **Microsost Action Pack 订阅**磁贴。  
 
-- 获取 Office 365 (E3) 许可证以及 Enterprise Mobility Suite 和 Microsoft Dynamics 许可证 
+2. 选择**续订订阅**，然后选择你的付款方式。 你可以使用信用卡或通过电子银行转账进行支付。
 
-- 每月接收 Microsoft Azure 使用信用额度
+    >[!NOTE]
+    >如果**续订订阅**未显示或者灰显，则表明你还没有资格续订 Action Pack 订阅。 我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。  
 
-有关 Action Pack 的信息，请在 Microsoft 合作伙伴网络网站上访问以下页面： 
-
--   [Microsoft Action Pack 是什么？](https://partner.microsoft.com/membership/action-pack)
-
--   [Action Pack 随附的权益](https://partner.microsoft.com/membership/core-benefits)
-
-
-
-## <a name="purchase-a-microsoft-action-pack-subscription"></a>购买 Microsoft Action Pack 订阅
-
-1. 在**仪表板**菜单上，选择**成员产品/服务**。 **可用产品/服务**下面列出了 Microsoft Action Pack。 
-
-2. 选择**立即订阅**，然后选择你的付款方式。 你可以使用信用卡或通过电子银行转账进行支付。 
-
-    >**重要提示：**<br> 提交付款即代表你同意[条款和条件](https://go.microsoft.com/fwlink/?linkid=842232)以获取 Microsoft 授予的内部使用权限。 
-
-3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 
-
-    如果通过电子银行转账支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。  
+3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 如果通过电子银行转账进行支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。 
+     
 4. 查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**购买**。 你的信用卡将被立即收费。
 
-5. 你的订单已获得确认。 选择**关闭**。
+5. 然后订单获得确认。 选择**关闭**。
 
-每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
-
-
-## <a name="renew-your-action-pack-subscription"></a>续订 Action Pack 订阅
-
-1. 在**仪表板**菜单上，选择**成员产品/服务**。  
-
-2. 选择**已购买**并找到 Action Pack 磁贴。  
-
-3. 选择**续订订阅**，然后选择你的付款方式。 您可以使用信用卡或电子银行转账进行支付。 
-
-    >**重要事项**<br> 在提交付款时，你还同意[条款和条件](https://go.microsoft.com/fwlink/?linkid=842232)以获取 Microsoft 授予的内部使用权限。 
-
-3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 
-
-    如果通过电子银行转账进行支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。 
-
- 4. 查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**购买**。 你的信用卡将被立即收费。
-
-5. 你的订单已获得确认。 选择**关闭**。
-
-每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
+每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你的**已购买**产品/服务列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
 
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>关闭 Action Pack 订阅自动续订
 
-1. 在**仪表板**菜单上，选择**成员产品/服务**。 
+1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。 
 
-2. 选择**已购买**，然后选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。 
+2. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择**关闭自动续订**。 
 
-3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择**关闭自动续订**。 
-
-    >**注意**<br>
-    如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
+    >[!NOTE]
+    >如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
 
 
 ## <a name="cancel-your-action-pack-subscription"></a>取消 Action Pack 订阅
 
 若要取消你的 Microsoft Action Pack 订阅，你可能需要联系合作伙伴支持部门。
 
-1. 在**仪表板**菜单上，选择**成品产品/服务**。 
-
-2. 选择**已购买**，然后找到 Action Pack 磁贴。
+1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。 
 
 3. 选择**取消订阅**。 按照说明创建支持请求。 
 
 4. 在支持请求表单上，选择以下值以正常发送你的请求：
 
-    -  选择**报告合作伙伴仪表板问题**，然后在下一页上选择**新建请求**。
+    -  选择**报告合作伙伴中心问题**，然后在下一页上选择**新建请求**。
 
     -  展开**问题类型**列表并选择**合作伙伴发票、付款或对帐文件帮助**。 
 
-5. 填写完所需的信息，然后选择**提交**。 合作伙伴仪表板支持团队将联系你以帮助你取消订阅。
+5. 填写完所需的信息，然后选择**提交**。 合作伙伴中心支持团队将联系你以帮助你取消订阅。
 
-若要查看服务请求的状态，请从**帐户设置**菜单中选择**合作伙伴中心请求**，然后选择**打开**。 从列表中选择合适的服务请求。  
+若要查看服务请求的状态，请从**支持**选择**合作伙伴中心请求**，然后选择**打开**。 从列表中选择合适的服务请求。  
 
 ## <a name="download-your-action-pack-invoice"></a>下载 Action Pack 发票
 
-1. 在**仪表板**菜单上，选择**成员产品/服务**。  
-
-2. 选择**已购买**，然后找到 Action Pack 磁贴。 
+1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。 
 
 3. 选择**下载发票**。
  
 ## <a name="next-steps"></a>后续步骤
 
-[开始使用 Action Pack 权益](manage-your-partner-network-benefits.md)
+-   [开始使用 Action Pack 权益](manage-your-partner-network-benefits.md)
 
+-   [了解银牌和金牌能力成员身份级别](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
-## <a name="see-also"></a>另请参阅
+-   [添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
 
-[添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
-
-[创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
+-   [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
 
 
 

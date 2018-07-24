@@ -3,11 +3,12 @@ title: 针对最大预定利用率确定 Microsoft Azure 虚拟机大小 | 合�
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
-ms.openlocfilehash: 4050780f9d3dc3ad7d3c4ece0d363845ec1efe9c
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
+ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
+ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 06/23/2018
+ms.locfileid: "1883098"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小 
 
@@ -119,13 +120,13 @@ ms.lasthandoff: 05/11/2018
 -   consumptionMeter 是应用了预订折扣的虚拟机的 MeterId。
 -   由于应用了预订折扣，ReservationMeter 会显示 0 美元的成本。 
 
-有关详细信息，请参阅[合作伙伴仪表板 API](https://docs.microsoft.com/partner-center/develop/) 中的[获取客户的 Azure 利用率记录](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
+有关详细信息，请参阅[合作伙伴中心 API](https://docs.microsoft.com/partner-center/develop/) 中的[获取客户的 Azure 利用率记录](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
 >[!IMPORTANT]
 >软件（如 Microsoft Windows Server）成本目前未包含在虚拟机预定的价格中，并且在订单记录和发票上显示为单独的行项目。 但是，如果客户拥有 Azure 混合使用权益，则不会应用软件成本。 有关详细信息，请参阅[预留实例中不包含 Windows 软件成本](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)。  
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**如需以下相关信息**   |**请阅读以下内容**    |
+|**若要获取相关信息**   |**请阅读以下内容**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md)
 |在合作伙伴仪表板中为客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)

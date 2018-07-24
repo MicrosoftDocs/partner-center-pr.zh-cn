@@ -1,52 +1,52 @@
 ---
 title: Microsoft 合作伙伴网络成员身份 |合作伙伴中心
-description: 了解加入 Microsoft 合作伙伴网络的权益。
+description: 了解与 Microsoft 合作将获得的权益。
 author: MaggiePucciEvans
-keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 成员身份
-ms.openlocfilehash: b6e50f92769aeafa4a06671ef7372b1aac9ac80a
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 成员身份, 银牌, 金牌, 能力
+ms.openlocfilehash: 23ae139d9f03b74c71f1c64cc298a0600a65f4da
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207217"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 
-## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作伙伴网络
+加入 Microsoft 合作伙伴计划后，你将成为一个全球社区的成员，它会在你与吸引客户、推动业务增长所需的各种关系、见解、工具、资源和计划之间建立起联系。 
 
-Microsoft 合作伙伴网络提供三种类型的成员身份。 每种类型提供一组权益以帮助你拓展业务。 在你实现目标后，可以在适合你的独特业务需求的级别参加本计划，来获取更多权益并与我们以及网络中的其他合作伙伴共同发展关系。
+请参阅[为何选择 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)了解有关与 Microsoft 合作的权益的详细信息。 
 
--   **网络成员** 当你加入这一免费的基本级别时，你会获得一组[核心内部使用权限权益](https://partner.microsoft.com/membership/core-benefits)，可帮助你节省时间和金钱，同时你可以增强能力、更好地为客户提供服务，并建立联系以充分发挥你的业务潜能。
 
-    -   [了解有关 Microsoft 合作伙伴网络的详细信息](https://partner.microsoft.com/membership/how-it-works)
+## <a name="the-microsoft-partner-program-works-for-you"></a>适用于你的 Microsoft 合作伙伴计划
 
-    -   [立即加入 Microsoft 合作伙伴网络](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)
+Microsoft 合作伙伴网络提供三个级别的成员身份。 每个级别提供一组权益以帮助你拓展业务。 在你实现目标后，可以在适合你的独特需求的级别参加本计划，来获取更多权益并与我们以及网络中的其他合作伙伴共同发展关系。 
 
--   **Action Pack** 购买 Action Pack 这一经济实惠型年度订阅可获得更多网络权益，包括访问开发人员工具、支持、培训和软件。 在此级别，你可以增强你的专业知识和培养新技能。
+更多关于合作伙伴网络的信息，请参阅[网络合作伙伴站点](https://partner.microsoft.com)上的[成员身份概述](https://partner.microsoft.com/membership)。 
 
-    -   [了解有关 Microsoft Action Pack 的详细信息](https://partner.microsoft.com/membership/action-pack)
+在[合作伙伴网络站点](https://partner.microsoft.com)上了解成员身份级别以及[内部使用权限软件权益](https://partner.microsoft.com/membership/internal-use-software)。 
 
-    -   [立即订阅 Action Pack](mpn-get-action-pack.md)
+### <a name="level-1---get-started-with-the-action-pack"></a>级别 1 - 开始使用 Action Pack 
 
--   **能力** 证明你在一个或多个专业业务领域中提供优质解决方案方面拥有公认的专长。 Microsoft 能力旨在让你为满足客户需求做好准备并被潜在客户认可。 加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。
+在购买 Microsoft Action Pack 年度订阅后，你可以访问开发人员工具、支持、培训和软件，它们可以帮助你在云优先世界中构建 Microsoft 实务。 在此成员身份级别，你可以增强你的专业知识和培养新技能。
 
-    -   获得银牌能力可证明你始终如一的能力、专长和承诺
+请参阅[获取 Action Pack](mpn-get-action-pack.md) 了解如何首次购买或续订这一成员身份权益的详细信息。  
 
-    -   获得金牌能力可证明你在特定 Microsoft 解决方案领域内具有最出色的能力
+>[!IMPORTANT]
+>从现在起到本日历年结束，我们会将 Action Pack订阅管理从 Partner Membership Center (PMC) 移至合作伙伴仪表板。 到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看[获取 Action Pack](mpn-get-action-pack.md) 中的信息。  
 
-    [了解有关获得银牌和金牌能力的详细信息](https://partner.microsoft.com/membership/competencies)
 
-   
-## <a name="get-started-with-the-partner-dashboard"></a>合作伙伴仪表板入门
+### <a name="level-2---take-the-next-step"></a>级别 2 - 执行下一步
 
-为了更轻松地与 Microsoft 合作并帮助你节省时间和金钱，我们将在幕后开展工作，将目前分布在多个网站和工具中的功能、特性和工作流程移至本合作伙伴仪表板网站。 
+获得**银牌能力**来展示你的专业知识、技巧和战略思维能力。 
+    
+证明你在一个或多个专业业务领域中提供优质解决方案方面拥有公认的专长。 Microsoft 能力旨在让你为满足客户需求做好准备并被潜在客户认可。 
 
-当我们将特定功能移至合作伙伴仪表板后，我们将停用用于承载这些功能的旧站点。 若要继续充分利用这些功能，你将需要在此合作伙伴仪表板站点上创建帐户。 
+[了解有关获得银牌能力的详细信息](https://partner.microsoft.com/membership/competencies)
 
-例如，如果你过去经常在 Pinpoint 中获取和管理引荐，那么该站点已经停用，并且所有与引荐相关的功能现在都已在合作伙伴仪表板上。 执行以下步骤开始使用合作伙伴仪表板：   
 
--   [创建合作伙伴仪表板帐户](mpn-create-a-partner-center-account.md)
+### <a name="level-3---join-the-elite-tier"></a>级别 3 - 加入精英层
 
--   [创建业务档案以获取客户引荐](create-a-marketing-profile.md)
+获得**金牌能力**以展示能够满足客户需求的最高水平、最专业的能力。 
 
--   [管理你的 Microsoft 合作伙伴网络成员身份权益](manage-your-partner-network-benefits.md)
+[了解有关获得金牌能力的详细信息](https://partner.microsoft.com/membership/competencies)
 

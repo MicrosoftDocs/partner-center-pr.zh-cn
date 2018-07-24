@@ -1,12 +1,14 @@
 ---
 title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
-description: 作为 Microsoft 合作伙伴网络成员，你有权享有某些成员身份权益。 说明如何在合作伙伴中心激活和管理你的成员身份权益。
+description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 说明如何在合作伙伴仪表板激活和管理你的成员身份权益。
 author: MaggiePucciEvans
-ms.openlocfilehash: 7feb6c46834011ef679442a5ce261221e4800067
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
+keywords: MPN, 成员身份权益, 成员身份
+ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
+ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 06/28/2018
+ms.locfileid: "2207277"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -14,20 +16,19 @@ ms.lasthandoff: 04/08/2018
 
 -  合作伙伴中心
 
-Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 在你购买并激活成员身份权益之前，你的公司必须是 Microsoft 合作伙伴网络的成员。 如果你不是该网络的成员，可以从 [https://partner.microsoft.com](https://partner.microsoft.com) 加入。
+>[!IMPORTANT]
+>本文介绍了如何开始使用合作伙伴仪表板（以前称为合作伙伴中心）中你的 Microsoft 合作伙伴网络 (MPN) 成员身份权益 - 此站点。 如果你还未收到将你公司的信息从 Partner Membership Center (PMC) 移至合作伙伴仪表板的邀请，你应该继续在 PMC 中管理你的 MPN 成员身份权益。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
 
->**注意** 点击此链接会将你带到其他网站。 返回到此合作伙伴中心站点以续订和升级你的网络成员身份。
-
-在你加入 Microsoft 合作伙伴网络或续订网络成员身份之后，你可以购买权益。
+加入 Microsoft 合作伙伴网络 (MPN) 后，你可以访问有助于业务构建和发展的成员身份权益。 如果你不是 MPN 的成员，可以加入 [MPN 站点](https://partner.microsoft.com/membership)。
 
 
-## <a name="manage-your-membership-benefits"></a>管理你的成员身份权益
+## <a name="manage-your-membership-benefits-in-the-dashboard"></a>在仪表板中管理成员身份权益
 
-购买权益包后，你需要为员工分配许可证、订阅和其他权益，以便开始使用它们。 
+购买成员身份权益包后，你需要为员工获取软件密钥并分配许可证、订阅和其他权益，以便开始使用它们。 
 
-权益包包括所分配的内部使用权限、软件、云服务、Visual Studio 订阅和支持。 
+权益包包括所分配的内部使用权限、软件、云服务、Visual Studio 订阅和支持。 你可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 
-若要查看和管理你的成员身份权益，请从**仪表板**菜单中选择**权益**。 此时会打开**权益**页面。 
+若要查看和管理你的成员身份权益，请转到[**权益**页面](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。
 
 #### <a name="manage-software-benefits"></a>管理软件权益
 
@@ -72,10 +73,11 @@ Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 
 
     通过删除分配的用户，然后分配其他用户，你可以随时重新分配订阅。 
 
+#### <a name="manage-technical-benefits"></a>管理技术权益
 
-#### <a name="manage-support-benefits"></a>管理支持权益
+1. 选择**技术权益**可查看你的 Microsoft 技术权益列表。
 
-1. 选择**支持**可查看你的 Microsoft 支持相关的权益列表。 
+    技术权益可能包括 Microsoft 产品支持事件、合作伙伴咨询小时，以及技术售前和部署服务。   
 
 2. 找到你要开始使用的订阅权益，然后选择该行最右侧的向下箭头，展开此权益的详细信息。 
 
@@ -83,11 +85,14 @@ Microsoft 合作伙伴网络成员身份使你有资格享有某些权益包。 
    
     a.  从列表中选择一个用户。 如果你想要分配的用户不在列表中，则可以在**帐户设置**中[添加新用户](create-user-accounts-and-set-permissions.md)。
 
-    b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与贵公司合作伙伴中心帐户关联的电子邮件地址。 
+    b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与贵公司仪表板帐户关联的电子邮件地址。 
     
-    作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的合作伙伴中心帐户电子邮件地址。 请注意，激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。    
+    作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的仪表板帐户电子邮件地址。 请注意，激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。    
     
     c.  输入备用电子邮件地址后，请选择**分配用户**。 
+
+4. 你可以使用技术售前援助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术援助。 若要请求援助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
+)，然后选择**提交请求**。
 
 
 #### <a name="see-also"></a>另请参阅

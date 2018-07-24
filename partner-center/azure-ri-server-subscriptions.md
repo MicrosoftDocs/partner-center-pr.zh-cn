@@ -3,11 +3,12 @@ title: Azure 虚拟机预留实例 (RI) + Azure 服务器订阅 | 合作伙伴�
 description: 通过将 Azure RI 和服务器订阅纳入其云解决方案提供商计划，我们可以更好地帮助合作伙伴满足客户对成本效益更高的解决方案的快速增长需求，从而为高度可预测的持久云工作负荷提供支持。 利用云解决方案提供商计划，合作伙伴能够通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure RI 和服务器订阅。
 author: v-petand
 keywords: Azure, 订阅, 虚拟机, 预订, 预留实例
-ms.openlocfilehash: 92b9bc437f383574527a9357239ee2460ebe4f46
-ms.sourcegitcommit: 933caff79bc4bf8855de4347f0bfde11662840f2
+ms.openlocfilehash: a86274f22c2c2cc8c24105e3b8937e6e297bae9d
+ms.sourcegitcommit: 2ce27f09e77eb1f6d7a33e7b154fec3b80ae36d1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 06/19/2018
+ms.locfileid: "2076037"
 ---
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure 虚拟机预留实例 (RI) + Azure 服务器订阅
 
@@ -74,6 +75,7 @@ Azure 虚拟机预留实例和服务器订阅能够作为增长收入和增强�
 -   [Azure 预订概述网络研讨会](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
 -   [现代商务操作指南](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)：这是一个综合指南，其中涵盖关键策略和运营方面的内容，如协议、通过合作伙伴中心订购、发票、价目表详细信息、奖励、对帐文件、API/SDK、沙盒和 Azure 合作伙伴共享服务。
 -   [销售工作表](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+-   [现代产品/服务国家/地区可用性和客户货币矩阵](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 -   [合作伙伴大学中的 Azure 许可模块](https://aka.ms/azure_partner_licensing)
 -   [Azure RI 常见问题解答](https://www.yammer.com/cloudpartnercommunity/#/files/133462302)
 -   [Azure 定价概述](https://azure.microsoft.com/en-us/pricing/#explore-cost)
@@ -90,7 +92,7 @@ Azure 虚拟机预留实例和服务器订阅能够作为增长收入和增强�
 [Azure 混合权益](https://azure.microsoft.com/en-us/pricing/hybrid-benefit)可帮助你从 Windows Server 许可证中获取更多价值，最多可节省 40%* 的虚拟机费用。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 视版本而定，你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（Linux 虚拟机费率）。
 
 Azure 混合权益 - 适用于 Windows Server 或 SQL Server 迁移的最经济的云：
--   通过 Azure 混合权益和预留实例最多可节省 82% 的 Windows Server 费用
+-   通过 Azure 混合权益和预留实例最多可节省 80% 的 Windows Server 费用
 -   通过 Azure 混合权益迁移到 Azure SQL 数据库 2 最多可节省 30% 的成本*
 -   按照自己的步调 - 移动一些工作负荷或整个数据中心
 -   最大限度地利用你的软件保障当前投资
