@@ -8,6 +8,7 @@ ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/08/2018
+ms.locfileid: "1711134"
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 
@@ -63,7 +64,7 @@ ms.lasthandoff: 04/08/2018
 </tr>
 <tr class="odd">
 <td>其他税收文档</td>
-<td><p>税收收据（适用于中国台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。</p>
+<td><p>税收收据（适用于台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。</p>
 <p>若需要其他税务相关的文档，请从合作伙伴中心申请服务。</p></td>
 </tr>
 </tbody>
