@@ -1,12 +1,14 @@
 ---
-title: "使用促销吸引新客户 | 合作伙伴中心"
-description: "作为云解决方案提供商计划中的 Microsoft 合作伙伴，你可以以促销定价购买订阅并将优惠传递给你的客户。"
+title: 使用促销吸引新客户 | 合作伙伴中心
+description: 作为云解决方案提供商计划中的 Microsoft 合作伙伴，你可以以促销定价购买订阅并将优惠传递给你的客户。
 author: MaggiePucciEvans
-ms.openlocfilehash: ee86b07deee9fa62ce40d9926b98d7c80f48c7a6
-ms.sourcegitcommit: d4a055eb0a910911f6cf1618cf6f20ff3405a41c
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875377"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促销吸引新客户  
 

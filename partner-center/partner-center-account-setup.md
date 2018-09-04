@@ -1,13 +1,15 @@
 ---
 title: 管理合作伙伴中心帐户 | 合作伙伴中心
-description: 接受云解决方案提供商计划后，你或管理员将需要在合作伙伴中心中设置公司的帐户。
+description: 管理你的组织配置文件、 银行和税务信息，以及你的用户。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
-ms.openlocfilehash: eee73df917d894fa780e15eedb61b7180b511047
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 225e2e6ea5bb9d0f5527974edc488707aa46989a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875957"
 ---
 # <a name="manage-your-partner-dashboard-account"></a>管理合作伙伴仪表板帐户
 
@@ -15,9 +17,12 @@ ms.lasthandoff: 04/08/2018
 
 -  合作伙伴中心
 
-在合作伙伴仪表板上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴仪表板上创建帐户后，你或你的管理员需要设置好公司的完整档案，包括支持详细信息，免税文件（如果有）和主要联系人信息。 
+在合作伙伴仪表板上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴仪表板创建帐户后，你或你的管理员将需要完成设置好公司的完整档案，包括支持详细信息，免税文件如果适用和主要联系人信息。 
 
-管理员还需要为任何将使用合作伙伴仪表板添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐以及提供支持的人员创建用户帐户。
+你或你的管理员将还创建用户帐户的任何用户将使用合作伙伴仪表板添加或管理客户、 销售订阅、 处理计费和开票、 创建业务配置文件、 管理引荐，使用奖励计划，并提供支持。
+
+>[!NOTE]
+>帐户设置位于仪表板右上角。 当你选择的图标时，你将能够选择你想要管理。 例如，选择该**帐户图标**，，然后选择**用户管理**。 这将你带到你的用户管理页并还会打开一个包含所有**帐户设置**选项的其他窗格。
 
 
 ## <a name="resources-to-help-you-manage-your-partner-dashboard-account"></a>帮助你管理合作伙伴仪表板帐户的资源

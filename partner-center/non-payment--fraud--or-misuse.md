@@ -1,14 +1,16 @@
 ---
-title: "拒不付款、欺诈或滥用 | 合作伙伴中心"
-description: "用于应对在线交易风险（包括客户对所购产品和服务拒不付款的行为，以及欺诈活动或滥用行为）的策略。"
+title: 拒不付款、欺诈或滥用 | 合作伙伴中心
+description: 用于应对在线交易风险（包括客户对所购产品和服务拒不付款的行为，以及欺诈活动或滥用行为）的策略。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: "欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,"
+keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
 author: MaggiePucciEvans
-ms.openlocfilehash: 9513347d1a7d176a074877dc60d164695484c314
-ms.sourcegitcommit: b64a8977e92673cd00f776379be6cb78c4ebd1f1
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876277"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 

@@ -1,12 +1,14 @@
 ---
-title: "管理合作伙伴中心帐户 | 合作伙伴中心"
-description: "Microsoft 合作伙伴奖励计划为合作伙伴盈利能力和增长提供支持"
+title: 管理合作伙伴中心帐户 | 合作伙伴中心
+description: Microsoft 合作伙伴奖励计划为合作伙伴盈利能力和增长提供支持
 author: labrenne
-ms.openlocfilehash: 7a924526d90843b44aeb192fed3c2c994be89133
-ms.sourcegitcommit: c47f8e765def420017abe290f2f7327eab2cbba7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8141d3cf0796885ff911b75c3898af7065612f06
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875877"
 ---
 # <a name="manage-your-incentives-in-partner-center"></a>在合作伙伴中心管理你的奖励 
 
@@ -50,3 +52,4 @@ ms.lasthandoff: 07/07/2017
 
 [了解你的奖励付款](understand-incentive-payouts.md)
 
+有关详细信息，请参阅[合作伙伴奖励合作手册](https://assets.microsoft.com/coop-guidebook.pdf)

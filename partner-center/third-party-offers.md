@@ -2,12 +2,13 @@
 title: 第三方产品/服务 | 合作伙伴中心
 description: 随着业务增长，你可以在产品捆绑包中增加第三方产品/服务，从而提高和改善你提供的产品组合。
 author: labrenne
-ms.openlocfilehash: 70945db54e006e99760112ca71884b5b0a6f4197
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8972c59781276e9c1c839e02f3dd0d196bed7f71
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1931088"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874587"
 ---
 # <a name="third-party-offers"></a>第三方服务 
 

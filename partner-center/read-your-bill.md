@@ -4,11 +4,13 @@ description: 发票是当前月期间的所有费用（包括计划、产品和�
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
-ms.openlocfilehash: ce930f95eb14405e46a371fb85fc9af02f39db73
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875177"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -25,6 +27,7 @@ ms.lasthandoff: 05/10/2018
 >**注意**<br>
 发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期起四 (4) 天内可提供发票。
 
+你将收到一张基于许可证的 (Office365) 和基于使用情况 (Azure) 费用的发票和一次性 （Azure 虚拟机预留实例） 的单独发票费用。
 
 有关费用的明细，使用随附的对帐文件。 对帐文件包括用于创建客户发票的客户 ID 和订阅 ID。 有关详细信息，请参阅[如何使用对帐文件](use-the-reconciliation-files.md)。
 
@@ -54,28 +57,36 @@ ms.lasthandoff: 05/10/2018
 <td>我们发送发票的地址。 若要更改此地址，请转到“帐户设置”>“合作伙伴计费配置文件”。 </td>
 </tr>
 <tr class="odd">
-<td>定期费用</td>
+<td>基于许可证的费用</td>
 <td>统一月度（或年度）支付已购买的基于使用情况的许可证费用，预先收取该服务的费用。 此数字是基于许可证的对帐文件（列 T）中“小计”列中所有费用的总和。</td>
 </tr>
 <tr class="even">
-<td>使用情况费用</td>
+<td>基于使用情况费用</td>
 <td>Azure 使用情况，包括在帐单月份期间启用和使用的新服务或应用程序。 此数字是基于使用情况的对帐文件（列 Z）中“税前费用”&quot;&quot;列中所有费用的总和。</td>
 </tr>
 <tr class="odd">
-<td>信用&amp;调整</td>
-<td>对订阅所做更改的信用或调整（示例：增加或减少席位）。</td>
-</tr>
-<tr class="even">
-<td>其他折扣</td>
+<td>折扣</td>
 <td>例如，客户从正常订阅价格收到的折扣。 此折扣显示为统一金额，而非根据单元或许可证制定的价格。</td>
 </tr>
 <tr class="odd">
-<td>税款</td>
+<td>退款额</td>
+<td>对订阅所做更改的信用或调整（示例：增加或减少席位）。</td>
+</tr>
+<tr class="even">
+<tr class="even">
+<td>小计</td>
+<td>税前的税款和税务独占费用和信用。</td>
+</tr>
+<td>税务</td>
 <td>在发票第 2 页开始的详细信息部分中统计的当前费用的总税款。 此数字是以下列中所有费用的总和：
 <ul>
 <li>基于使用情况的对帐文件（列 AA）的“税额”&quot;&quot;列和</li>
 <li>基于许可证的文件（列 U）的“税款”&quot;&quot;列。</li>
 </ul></td>
+</tr>
+<tr class="odd">
+<td>其他积分</td>
+<td>税务独占信用。</td>
 </tr>
 <tr class="even">
 <td>当前总费用</td>
@@ -97,13 +108,10 @@ ms.lasthandoff: 05/10/2018
 <td>发票日期</td>
 <td>收到发票的日期。</td>
 </tr>
-
 <tr class="odd">
 <td>付款期限</td>
 <td>对于一次性购买，此期限将始终为 60 天。</td>
 </tr>
-
-
 <tr class="even">
 <td>付款截止日期</td>
 <td>必须在此日期前收到你的付款。</td>

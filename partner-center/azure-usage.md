@@ -1,14 +1,15 @@
 ---
-title: 针对最大预定利用率确定 Microsoft Azure 虚拟机大小 | 合作伙伴仪表板
+title: 针对最大预订利用率确定的 Microsoft Azure 虚拟机大小 |合作伙伴仪表板
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
-ms.openlocfilehash: 9ddf74d209f9174b4192a9d89b65a41e371f37ae
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: bb7d022ba45462db313a9f4e16cc47e4550dbef6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1883098"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875777"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小 
 
@@ -40,11 +41,11 @@ ms.locfileid: "1883098"
 
 1.  使用 API 响应中 additionalInfo 的 ServiceType 属性值来标识要购买的虚拟机大小。 
 
-2.  有关详细信息，请参阅[合作伙伴仪表板 API](https://docs.microsoft.com/partner-center/develop/) 中的[获取客户的 Azure 利用率记录](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。 
+2.  有关详细信息，请参阅在[合作伙伴仪表板 API](https://docs.microsoft.com/partner-center/develop/)中的[获取客户的 Azure 利用率记录](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。 
 
 **使用 Microsoft Azure 门户获取虚拟机大小信息**
 
-1.  在你的合作伙伴仪表板中，转到**客户**页面。
+1.  在合作伙伴仪表板中，依次转到你**的客户**的页面。
 
 2.  查找想要购买 Azure 虚拟机预订的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。 
 
@@ -88,7 +89,7 @@ ms.locfileid: "1883098"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>在 Microsoft Azure 门户中验证客户的预订利用率
 
-1.  在你的合作伙伴仪表板中，转到**客户**页面。
+1.  在合作伙伴仪表板中，依次转到你**的客户**的页面。
 
 2.  查找想要验证其预订折扣和使用情况的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。 
 
@@ -129,12 +130,11 @@ ms.locfileid: "1883098"
 |**若要获取相关信息**   |**请阅读以下内容**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md)
-|在合作伙伴仪表板中为客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
-|Azure 预订计费   |[Azure 预订计费](azure-reservations-billing.md)   |
+|为你在合作伙伴仪表板中的客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
 | 在合作伙伴仪表板中管理 Azure 预订 | [在合作伙伴仪表板中管理 Azure 预订](azure-reservations-manage.md)
 |在 Azure 门户中购买 Azure 预订 | Azure 帮助中的[为包含 Azure 虚拟机预留实例的虚拟机预先付款](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 门户中管理 Azure 预订   |Azure 帮助中的[管理虚拟机预留实例](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 
 
 

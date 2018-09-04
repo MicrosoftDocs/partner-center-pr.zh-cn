@@ -3,11 +3,13 @@ title: 从合作伙伴管理员中心迁移到合作伙伴中心
 description: 在合作伙伴中心中，查找你在合作伙伴管理员中心中已习惯使用的功能
 author: labrenne
 keywords: PAC, Office 365 管理员, PAC 功能
-ms.openlocfilehash: 7bcb12a918cf007a474287183c2aa0956c161431
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f2982e1e517c02a78d01b68f21122eebcabf3bf9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876247"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-dashboard"></a>从合作伙伴管理员中心 (PAC) 迁移到合作伙伴仪表板
 

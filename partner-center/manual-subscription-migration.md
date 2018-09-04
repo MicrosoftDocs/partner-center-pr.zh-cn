@@ -1,13 +1,15 @@
 ---
-title: "将 Dynamics AX 订阅迁移到 Dynamics 365 | 合作伙伴中心"
-description: "Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。"
+title: 将 Dynamics AX 订阅迁移到 Dynamics 365 | 合作伙伴中心
+description: Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
-ms.openlocfilehash: 39f254488dab4335a24a5a36fc593d2e281adbf8
-ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876297"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>将 Dynamics AX 订阅迁移到 Dynamics 365
 

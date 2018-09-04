@@ -1,13 +1,15 @@
 ---
-title: "发展你的 Microsoft 合作伙伴业务 | 合作伙伴中心"
-description: "适用于发展你的 Microsoft 合作伙伴业务的资源。 包括如何从 Microsoft 获得销售线索（引荐）。"
-keywords: "引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案, 发展你的业务, 业务机会, 能力, 银牌成员资格, 金牌成员资格, 试用产品/服务, 市场扩张, 国家云"
+title: 发展你的 Microsoft 合作伙伴业务 | 合作伙伴中心
+description: 适用于发展你的 Microsoft 合作伙伴业务的资源。 包括如何从 Microsoft 获得销售线索（引荐）。
+keywords: 引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案, 发展你的业务, 业务机会, 能力, 银牌成员资格, 金牌成员资格, 试用产品/服务, 市场扩张, 国家云
 author: MaggiePucciEvans
-ms.openlocfilehash: f12f529765ce0b6c6d9b5c69ee84be2fddf0525e
-ms.sourcegitcommit: d5d74de145732384470224d79ed34dcdb8714104
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: cf1244e7671b53c3aa813f493cd7b9bdf90c24d5
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876447"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>发展你的 Microsoft 合作伙伴业务 
 
@@ -32,6 +34,9 @@ Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解
 | 向你的客户提供 Microsoft 产品的试用订阅 | 阅读[向你的客户提供 Microsoft 产品试用](offer-your-customers-trials-of-microsoft-products.md)，以了解如何使用试用订阅来提高对客户群的销售量。| 云解决方案提供商合作伙伴 |
 | 向你的客户提供 Microsoft 订阅的促销定价 | Microsoft 有时会就基于许可证的订阅提供促销，你可以将优惠传递给客户并就此拓展你的业务。 阅读[向你的客户提供 Microsoft 订阅的促销定价](promotions.md)，以了解操作方法。 | 云解决方案提供商合作伙伴 |
 | 在更多市场中销售 | 云解决方案提供商销售渠道在许多地区和国家中都可用。 参阅[云解决方案提供商市场](agreements.md)，以查看该列表。 有关云解决方案提供商渠道的简介，请参阅[云解决方案提供商概述](csp-overview.md)。  | 云解决方案提供商合作伙伴 |
+销售给特定行业如非盈利性组织遵守合规性和教育版|[向特定行业销售](get-special-pricing-for-offers.md)|云解决方案提供商合作伙伴|
+|发展你的业务通过奖励合作游戏计划中提供的许多活动。 通过仪表板的活动的文件声明。| [创建和管理奖励声明](create-incentives-claims.md)|云解决方案提供商合作伙伴|
+|使用已在你要销售的 Microsoft 软件的第三方产品/服务生成软件的新捆绑的包|[发现第三方产品/服务](third-party-offers.md)|云解决方案提供商合作伙伴|
 
 ## <a name="see-also"></a>另请参阅
 

@@ -3,12 +3,13 @@ title: 向教育行业客户销售 Minecraft Education Edition 订阅
 description: 向合格的教育行业客户销售 Minecraft Education Edition 订阅。
 author: KPacquer
 keywords: 授权的教育行业合作伙伴
-ms.openlocfilehash: 7e2375ace139f8166659812c00cb05c713d39bf4
-ms.sourcegitcommit: 665f7e1363368ae6f986a252a3aa6e3f0997425e
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2d7c108471290194a4f96d9e0608d4951c4785f3
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2087617"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875807"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 

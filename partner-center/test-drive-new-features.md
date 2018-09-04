@@ -1,10 +1,14 @@
 ---
-title: "试用合作伙伴中心的新功能"
-description: "在发布之前抢先试用合作伙伴中心的新功能，并告诉我们你的想法。 帮助塑造合作伙伴中心的未来！"
+title: 试用合作伙伴中心的新功能
+description: 在发布之前抢先试用合作伙伴中心的新功能，并告诉我们你的想法。 帮助塑造合作伙伴中心的未来！
 author: MaggiePucciEvans
-ms.openlocfilehash: 61c8188ec08ed8fb22c4e3eade24e7273e2dd6ed
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2860e3c2fbcce28030a8b5441b542db9e98cf119
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876657"
 ---
 # <a name="test-drive-new-partner-center-features"></a>试用合作伙伴中心的新功能
 
@@ -42,7 +46,7 @@ translationtype: HT
 
 -   使用合作伙伴中心窗口右下角的反馈表单直接向我们发送你的反馈。 
 
--   如果你遇到任何功能预览问题，可请求支持。 要创建支持请求，选择**仪表板**菜单中的**“支持请求”>“合作伙伴中心请求”**，然后选择**合作伙伴中心请求**页面上的**新请求**。
+-   如果你遇到任何功能预览问题，可请求支持。 要创建支持请求，选择**仪表板**菜单中的 **“支持请求”>“合作伙伴中心请求”**，然后选择**合作伙伴中心请求**页面上的**新请求**。
 
 帮助我们实现你的需求！
 

@@ -3,12 +3,13 @@ title: 将第三方软件添加到产品组合 | 合作伙伴中心
 description: 购买适用于 Microsoft 产品的第三方软件
 author: labrenne
 keywords: 第三方产品/服务, 要购买的软件
-ms.openlocfilehash: 5b2e06b026f1ab9c9e1dfbe14d22aef9af83fa7d
-ms.sourcegitcommit: 0efa02cfd7b6446e3671251090b5cc3ba9d10798
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "1991684"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875517"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>将第三方软件添加到产品组合
 

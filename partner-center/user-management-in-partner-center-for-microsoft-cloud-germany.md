@@ -1,10 +1,14 @@
 ---
-title: "德国 Microsoft 云合作伙伴中心中的用户和许可证管理 | 德国 Microsoft 云合作伙伴中心"
-description: "为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在德国 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在德国 Microsoft 云的 Azure 门户中添加和管理用户。"
+title: 德国 Microsoft 云合作伙伴中心中的用户和许可证管理 | 德国 Microsoft 云合作伙伴中心
+description: 为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在德国 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在德国 Microsoft 云的 Azure 门户中添加和管理用户。
 author: MaggiePucciEvans
-ms.openlocfilehash: 94e8caf84dc0ba52f231f03c7e4a9475fce075a6
-ms.sourcegitcommit: 772577c0538a5d5b05d45f0e669697209761ab03
-translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875767"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -26,12 +30,11 @@ translationtype: HT
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在德国 Microsoft 云的 Azure 门户中管理用户 
 
-如果你登录到德国 Microsoft 云的合作伙伴中心，可以打开德国 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果你需要直接登录到德国 Microsoft 云的 Azure 门户，请转到 [https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
+如果你登录到德国 Microsoft 云的合作伙伴中心，可以打开德国 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果你需要直接登录到德国 Microsoft 云的 Azure 门户，请转到[https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
 
 在你已成功登录德国 Microsoft 云的 Azure 门户后，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 
->**注意**
- 选择下面的链接会将你带到不同的网站。 
+>**注意** 选择下面的链接会将你带到不同的网站。 
 
 -  [**将新用户添加到 Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

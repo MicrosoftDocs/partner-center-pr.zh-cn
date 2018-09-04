@@ -1,13 +1,15 @@
 ---
-title: "升级你的 Microsoft 合作伙伴网络成员身份 |合作伙伴中心"
-description: "升级你的 Microsoft 合作伙伴网络成员身份后，你将有资格获取成员身份专享权益。 了解如何查找和购买提供的产品/服务。"
+title: 升级你的 Microsoft 合作伙伴网络成员身份 |合作伙伴中心
+description: 升级你的 Microsoft 合作伙伴网络成员身份后，你将有资格获取成员身份专享权益。 了解如何查找和购买提供的产品/服务。
 author: MaggiePucciEvans
 robots: noindex,nofollow
-ms.openlocfilehash: 9503ce2188adf77122a1eb48efe748abddaabcb6
-ms.sourcegitcommit: 37dc5b09f7b1caf7538c1478795b3e617c586ddf
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875707"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
@@ -27,7 +29,7 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
   - 金牌能力 – 特定 Microsoft 解决方案领域内的最佳能力
 
-在你加入 Microsoft 合作伙伴网络后，你有资格升级成员身份并购买成员身份专享权益优惠。 有关 Microsoft 合作伙伴网络中的成员身份的详细信息，请转到 [https://partner.microsoft.com](https://partner.microsoft.com)。
+在你加入 Microsoft 合作伙伴网络后，你有资格升级成员身份并购买成员身份专享权益优惠。 有关 Microsoft 合作伙伴网络成员身份的详细信息，请转到[https://partner.microsoft.com](https://partner.microsoft.com)。
 
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>购买 Microsoft Action Pack 订阅
@@ -42,7 +44,7 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
 - 每月接收 100 美元的 Microsoft Azure 信用额度
 
-有关 Microsoft Action Pack 的详细信息，请转到 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
+有关 Microsoft Action Pack 的详细信息，请转到[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 >**注意** 点击此链接会将你带到其他网站。 返回到此合作伙伴中心站点以订阅 Action Pack。
 
@@ -104,7 +106,7 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
 若要取消你的 Microsoft Action Pack 订阅，必须联系合作伙伴中心支持部门。
 
-1. 转到 https://partnercenter.microsoft.com/partner/support。
+1. 转到https://partnercenter.microsoft.com/partner/support。
 
 2. 选择**报告合作伙伴中心问题**，然后在下一页上选择**新建请求**。
 

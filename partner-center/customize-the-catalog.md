@@ -3,11 +3,13 @@ title: 自定义目录 | 合作伙伴中心
 description: 该目录列出适用于合作伙伴销售的所有 Microsoft 产品和加载项。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
-ms.openlocfilehash: a0a8cf983abdbcd08f0c7f75307ea265092182d8
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874927"
 ---
 # <a name="customize-the-catalog"></a>自定义目录
 

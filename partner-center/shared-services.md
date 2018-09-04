@@ -3,11 +3,13 @@ title: 添加 Azure 合作伙伴共享服务 | 合作伙伴中心
 description: 云解决方案提供商合作伙伴现在可以购买供自己使用的 Azure 订阅。
 author: labrenne
 Keywords: Azure, shared services, tenant
-ms.openlocfilehash: 2cff9cb607618dbee7734bdbce109d729e9646ba
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 17dec946c66089aa75b460cbadc89598f09e92b9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874857"
 ---
 # <a name="add-azure-partner-shared-services"></a>添加 Azure 合作伙伴共享服务
 

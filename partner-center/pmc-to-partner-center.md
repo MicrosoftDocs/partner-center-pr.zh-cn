@@ -1,16 +1,18 @@
 ---
-title: "将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心"
-description: "PMC 用户 - 我们现在正在通过合作伙伴中心管理 MPN 成员身份。 请执行下列操作。"
+title: 将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
+description: PMC 用户 - 我们现在正在通过合作伙伴中心管理 MPN 成员身份。 请执行下列操作。
 author: KPacquer
-keywords: "mpn 成员身份, 能力, pmc 到合作伙伴中心"
+keywords: mpn 成员身份, 能力, pmc 到合作伙伴中心
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
-ms.openlocfilehash: 2349ee30aa54a756e7fdc49c24917807a7443425
-ms.sourcegitcommit: e8b504fa98b3ec4c7c8fd954f63ea81299791906
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875857"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
 
@@ -43,7 +45,7 @@ Partner Membership Center 用户：我们现在正在通过合作伙伴中心管
 
 ## <a href="" id="nonadmin_tasks"></a>员工任务：更新帐户
 
-1.  从 Microsoft 合作伙伴中心或你的管理员那里获取你的登录信息。 如果你未收到登录信息，请联系你的组织管理员，让他们将登录信息直接重新发送给你。 
+1.  获取你的登录信息，从 Microsoft 合作伙伴中心或你的管理员。如果你未收到登录信息，请联系你的组织的管理员，让他们直接向你重新发送。 
 
 2.  连接你的 Microsoft 合作伙伴大学帐户。 从合作伙伴中心仪表板中，选择**更新个人资料信息** > **获取合作伙伴大学访问权限**。  连接此帐户后，你将能够再次访问合作伙伴大学。
 

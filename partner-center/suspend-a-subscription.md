@@ -1,13 +1,15 @@
 ---
-title: "暂停订阅 | 合作伙伴中心"
-description: "在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。"
+title: 暂停订阅 | 合作伙伴中心
+description: 在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
-ms.openlocfilehash: d5f0c3d4e424980a3e39ca0d798097b517e7c9f7
-ms.sourcegitcommit: d75170bb6b14aeee1a5d33dd8a36cc3cd7e9dfd2
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 74d36922aad39cb78d959b91109194730fa28cec
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875217"
 ---
 # <a name="suspend-a-subscription"></a>暂停订阅
 

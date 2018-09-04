@@ -2,20 +2,21 @@
 layout: LandingPage
 hide_bc: true
 title: 从此处开始获取有关合作伙伴仪表板的帮助
-description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 请在合作伙伴仪表板帮助资料库中查找答案。
+description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 在创建专门为在云解决方案提供商和 MPN 计划的合作伙伴此仪表板帮助资料库中查找答案。
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
-ms.openlocfilehash: 731362ac654cf8ea3d70985316a881ce81cac5d9
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1919897"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876367"
 ---
-# <a name="start-here-for-help-with-partner-center-dashboard"></a>从此处开始获取有关合作伙伴中心面板的帮助
+# <a name="start-here-for-help-with-partner-dashboard"></a>从此处开始获取有关合作伙伴仪表板的帮助
 
-需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 请在合作伙伴中心面板帮助资料库中查找答案。
+需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 在创建专门为在云解决方案提供商和 MPN 计划的合作伙伴此仪表板帮助资料库中查找答案。
 
 如果你已熟悉仪表板，请参阅[最近更新](/partner-center/whats-new-in-pc)。
 

@@ -1,66 +1,73 @@
 ---
-title: "云工作效率能力"
-description: "云工作效率能力适用于专门进行 Office 365 企业部署的合作伙伴。 针对寻求合格的云解决方案合作伙伴的客户，利用此能力使你的公司作为公认的云解决方案提供商脱颖而出。"
+title: 云工作效率能力
+description: 云工作效率能力适用于专门进行 Office 365 企业部署的合作伙伴。 针对寻求合格的云解决方案合作伙伴的客户，利用此能力使你的公司作为公认的云解决方案提供商脱颖而出。
 author: Daniel Simpson
-keywords: "能力, 云工作效率"
-ms.openlocfilehash: b9616b455fae524af82ce0880b99bcdde5816fa7
-ms.sourcegitcommit: 8b55c0a9fc63577f09a97923c453e4daea21397b
-ms.translationtype: HT
+keywords: 能力, 云工作效率
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874937"
 ---
-# <a name="cloud-productivity-competency"></a>云工作效率能力
+>[!IMPORTANT]
+>若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
-云工作效率能力适用于专门进行 Office 365 企业部署的合作伙伴。 针对寻求合格的云解决方案合作伙伴的客户，利用此能力使你的公司作为公认的云解决方案提供商脱颖而出。
+<!--
+# Cloud Productivity competency
 
-## <a name="managed-service-partner-option"></a>托管服务合作伙伴选项
-托管服务合作伙伴选项非常适合为客户管理 Office 365 环境以及提供部署服务的合作伙伴。 完成此选项中的所有步骤即可获得云工作效率能力。
-### <a name="silver"></a>银牌
-1.  你的组织必须达到绩效阈值：
-    - **成熟市场** 
-        - 合作伙伴必须已部署 2,000 项活跃权利（活动用户）
-    - **新兴市场**
-        -  合作伙伴必须已部署 1,000 项活跃权利（活动用户）
+The Cloud Productivity competency is for partners who specialize in enterprise deployments of Office 365. Differentiate your company with this competency as a proven cloud solution provider for customers searching for qualified cloud solution partners.
+
+## Managed Service Partner option
+The Managed Service Partner option is ideal for partners who manage Office 365 environments for their customer as well as provide deployment services. Complete all the steps within the option to attain the Cloud Productivity competency.
+### Silver
+1.  Your organization must meet the performance thresholds:
+    - **Developed markets** 
+        - Partners must have deployed 2,000 active entitlements (active users)
+    - **Developing markets**
+        -  Partners must have deployed 1,000 active entitlements (active users)
     
-    - 部署可以是任何 Microsoft Office 365 工作负荷（Exchange Online、SharePoint Online、Skype for Business 或 Yammer）或 ProPlus。 不包括试用版 SKU。     
-    - 注意：活跃权利可测量特定工作负荷上的活动用户数 
-    - 对于这些客户，你必须被关联为 Office 365 委派管理员或交易合作伙伴或记录在案的数字合作伙伴或 Fast Track 合作伙伴。
-    - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.     
+    - Note: Active entitlements measures the count of active users on a specific workload 
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2. 你的组织必须有 **1** 个人达到了考试要求。
+2. Your organization must have **1** individual pass the exam requirements.
 
-    - **1** 个人必须通过以下所有考试：
+    - **1** individual must pass all the following exams:
 
-        - [考试 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx)：管理 Office 365 标识和要求  
-        - [考试 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：启用 Office 365 服务
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
-    **或者**
+    **OR**
 
-    - **1** 个人必须获得以下认证：  
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx)：Office 365
+    - **1** individual must obtain the following certification:  
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
-### <a name="gold"></a>金牌
+### Gold
 
-1.  你的组织必须达到绩效阈值。 
+1.  Your organization must meet the performance thresholds. 
 
-    - 合作伙伴必须已部署 4,000 项活跃权利（活动用户）。
-    - 部署可以是任何 Microsoft Office 365 工作负荷（Exchange Online、SharePoint Online、Skype for Business 或 Yammer）或 ProPlus。 不包括试用版 SKU。
-    - 注意：活跃权利可测量特定工作负荷上的活动用户数
-    - 对于这些客户，你必须被关联为 Office 365 委派管理员或交易合作伙伴或记录在案的数字合作伙伴或 Fast Track 合作伙伴。
-    - [了解关于这些关联的详细信息](https://partner.microsoft.com/en-us/membership/digital-partner-of-record)。
+    - Partners must have deployed 4,000 active entitlements (active users).
+    - The deployments can be any Microsoft Office 365 workload (Exchange Online, SharePoint Online, Skype for Business, or Yammer) or ProPlus. Trial SKUs are not included.
+    - Note: Active entitlements measures the count of active users on a specific workload
+    - For these customers, you have to be associated as Office 365 Delegated Administrator or Transacting Partner or Digital Partner of Record or Fast Track Partner.
+    - [Learn more](https://partner.microsoft.com/en-us/membership/digital-partner-of-record) about these associations.
 
-2.  你的组织必须有 **2** 个人达到了考试要求。
+2.  Your organization must have **2** individuals pass the exam requirements.
 
-    - **2** 个人必须通过以下所有考试：
+    - **2** individuals must pass all the following exams:
 
-        - [考试 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx)：管理 Office 365 标识和要求  
-        - [考试 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：启用 Office 365 服务
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
-    **或者**
+    **OR**
     
-    - **2** 个人必须获得以下认证：
-        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx)：Office 365
-
+    - **2** individuals must obtain the following certification:
+        - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
+-->
 
 
 

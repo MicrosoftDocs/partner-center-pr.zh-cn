@@ -1,13 +1,15 @@
 ---
-title: "安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用 | 合作伙伴中心"
-description: "请按照以下步骤预览适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。"
+title: 安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用 | 合作伙伴中心
+description: 请按照以下步骤预览适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
-ms.openlocfilehash: 6888cfe815b4e3235442d9a1ce242c37d44a62ad
-ms.sourcegitcommit: 9183f596e81595496ae49375c116ea0f772babac
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874757"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -31,7 +33,7 @@ ms.lasthandoff: 08/23/2017
 
 1. 开始执行[安装过程](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true)。
 
-2. 在**已拥有帐户?**下选择**登录**。 
+2. 在**已拥有帐户?** 下选择**登录**。 
 
 3.  在下一页上，输入你的 Power BI 用户名和密码，然后选择**登录**。 
 

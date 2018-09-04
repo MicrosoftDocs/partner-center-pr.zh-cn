@@ -4,12 +4,13 @@ description: 本文包含指向云解决方案提供商计划指南、合作伙�
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
-ms.openlocfilehash: 98d4a76faff8289a1d5875b9da8ad8f7ba9faa94
-ms.sourcegitcommit: 24e241970ba35c59b4f4adcaa1c26318c04d15b7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2018
-ms.locfileid: "1641020"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876427"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>云解决方案提供商协议、价目表和产品/服务
 
@@ -34,21 +35,21 @@ ms.locfileid: "1641020"
 
 Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提供商计划。 查看你计划在其中进行销售的市场或国家云的指南。
 
-[Microsoft 云经销商协议 - 北美洲、中美洲、南美洲和加勒比地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 北美洲、中美洲、南美洲和加勒比地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_APOC_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 欧洲、中东地区和非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 欧洲、中东地区和非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_JPN_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 日本](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 韩国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_KOR_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 韩国](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_TAI_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 德国 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_EOC_GER_ENG_Sep20172_CR_GermanCloud.pdf)
+[Microsoft 云经销商协议 - 德国 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
 
-[Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2017_AOC_USGCC_ENG_Sep20172_CR.pdf)
+[Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 ## <a href="" id="customeragreementtemplate"></a>客户协议模板
 
@@ -60,11 +61,13 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 ## <a name="pricing"></a>定价
 
 
-从可从**仪表板**菜单访问的**定价和产品/服务**页面中下载基于许可证和基于使用情况的服务的定价详细信息。 
+下载定价从**定价和产品/服务**页面，可从**仪表板**菜单的基于许可证的、 基于使用情况和一次性购买的详细信息。 
 
 基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。 基于许可证的服务的示例包括 Office 365、企业移动性套件和 Microsoft Dynamics CRM。 
 
 基于使用情况的定价是动态的，并且经常更改。 基于使用情况的服务的示例包括 Microsoft Azure。
+
+一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 保留虚拟机实例。 
 
 
 ## <a name="offers"></a>产品/服务

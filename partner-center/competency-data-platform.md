@@ -1,83 +1,91 @@
 ---
-title: "数据平台能力"
-description: "数据平台能力用于认可期望设计和开发功能强大的通用数据库平台来运营业务的合作伙伴。"
+title: 数据平台能力
+description: 数据平台能力用于认可期望设计和开发功能强大的通用数据库平台来运营业务的合作伙伴。
 author: Daniel Simpson
-keywords: "能力, 数据平台"
-ms.openlocfilehash: c415e79d831ccb742f39915574014f1d939c5821
-ms.sourcegitcommit: 6c5a1ce9da7ee313ef88ef584dbf4ecb4dc0d12c
-ms.translationtype: HT
+keywords: 能力, 数据平台
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 57fee0a3d7c8b1ff3cf00893b641295b2b271813
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/21/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875647"
 ---
-#<a name="data-platform"></a>数据平台
-数据平台能力用于认可期望设计和开发功能强大的通用数据库平台来运营业务的合作伙伴。
+>[!IMPORTANT]
+>若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
-- [大数据选项](#big-data-option) 
-- [SQL Server 专家选项](#sql-server-specialist-option)
+<!--
 
-##<a name="big-data-option"></a>大数据选项
-如果你想要通过通过评估来证明自己的技能，那么大数据选项是理想的选择。 完成其中的所有步骤即可获得数据平台能力。
+#Data Platform
+The Data Platform competency recognizes partners who are looking to design and develop powerful and versatile database platforms to run their business.
 
-###<a name="silver"></a>银牌
-1. 你的组织必须有 **2** 个人通过了所需评估。
+- [Big Data option](#big-data-option) 
+- [SQL Server Specialist option](#sql-server-specialist-option)
 
-    - **2** 个人必须通过以下评估：
-        - [数据平台基础技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+##Big Data option
+The Big Data option is ideal if you prefer to prove your skills by passing assessments. Complete all the steps within to attain the Data Platform competency.
 
-    **并且**
+###Silver
+1. Your organization must have **2** individuals pass the required assessments.
 
-    - 这 **2** 个人必须通过以下其中一项评估：
-        - [SQL Server 2016 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
-        - [Azure 数据仓库技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Azure 数据服务技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+    - **2** individuals must pass the following assessment:
+        - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-###<a name="gold"></a>金牌
-1. 你的组织必须有 **4** 个人通过了所需评估。
+    **AND**
 
-    - **4** 个人必须通过以下评估：
-        - [数据平台基础技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - The same **2** individuals must pass one of the following assessments:
+        - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
+        - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-    **并且**
+###Gold
+1. Your organization must have **4** individuals pass the required assessments.
 
-    - 这 **4** 个人必须通过以下其中一项评估：
-        - [SQL Server 2016 技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
-        - [Azure 数据仓库技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
-        - [Azure 数据服务技术评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
+    - **4** individuals must pass the following assessment:
+        - [Technical Assessment for Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-##<a name="sql-server-specialist-option"></a>SQL Server 专家选项
-如果你想要通过特定专业领域的考试来证明自己的技能，那么 SQL Server 专家选项是理想的选择。 完成此选项中的所有步骤即可获得数据平台能力。
+    **AND**
 
-###<a name="silver"></a>银牌
-1. 你的组织必须有 **1** 个人通过了以下两个主要领域中任何一个领域的所有考试：**数据库管理**或**数据库开发**，并且此人必须通过了评估。
+    - The same **4** individuals must pass one of the following assessments:
+        - [Technical Assessment for SQL Server 2016](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14355&scoId=nzHk0hygB_7404778676)
+        - [Technical Assessment for Azure Data Warehouse](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17491&scoId=1yUZ01TnD_1606265419)
+        - [Technical Assessment Azure Data Services](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=17490&scoId=2h3AfWTnD_4706265419)
 
-    - **数据库管理**主要领域
-        - [考试 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 SQL 数据库基础结构 
-        - [考试 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx)：预配 SQL 数据库
+##SQL Server Specialist option
+The SQL Server Specialist option is ideal if you prefer to prove your skills by passing exams within a particular area of specialization. Complete all the steps within the option to attain the Data Platform competency.
 
-    - **数据库开发**主要领域
-        - [考试 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx)：开发 SQL 数据库
-        - [考试 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx)：通过 Transact-SQL 查询数据
-        - [考试 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)：设计和实现云数据平台解决方案
+###Silver
+1. Your organization must have **1** individual pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individual must pass an assessment.
 
-    **和**
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - [技术评估数据平台基础](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
-###<a name="gold"></a>金牌
-1. 你的组织必须有 2 个人通过了以下两个主要领域中任何一个领域的所有考试：**数据库管理**或**数据库开发**，并且此人必须通过了评估。
+    **AND**
 
-    - **数据库管理**主要领域
-        - [考试 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx)：管理 SQL 数据库基础结构 
-        - [考试 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx)：预配 SQL 数据库
+    - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
 
-    - **数据库开发**主要领域
-        - [考试 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx)：开发 SQL 数据库
-        - [考试 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx)：通过 Transact-SQL 查询数据
-        - [考试 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)：设计和实现云数据平台解决方案
+###Gold
+1. Your organization must have 2 individuals pass all of the exams in any one of the two focus areas: **Database Administration** OR **Database Development**, and the individuals must pass an assessment.
 
-    **和**
+    - **Database Administration** focus area
+        - [Exam 70-764](https://www.microsoft.com/en-us/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure 
+        - [Exam 70-765](https://www.microsoft.com/en-us/learning/exam-70-765.aspx): Provisioning SQL Databases
 
-    - [技术评估数据平台基础](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+    - **Database Development** focus area
+        - [Exam 70-762](https://www.microsoft.com/en-us/learning/exam-70-762.aspx): Developing SQL Databases
+        - [Exam 70-761](https://www.microsoft.com/en-us/learning/exam-70-761.aspx): Querying Data with Transact-SQL
+        - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
 
+    **AND**
+
+    - [Technical Assessment Data Platform Foundational](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14354&scoId=nNGssUygB_8504778676)
+-->
 
 

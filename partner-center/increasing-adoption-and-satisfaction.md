@@ -3,11 +3,13 @@ title: 提高采用率和满意度 | 合作伙伴中心
 description: 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
-ms.openlocfilehash: 1273572052afb076cf34a090f32ba7aca72d6d85
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875607"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -35,9 +37,9 @@ ms.lasthandoff: 04/08/2018
 
 术语：
 
--   **权利：**用户有权使用的许可证（未因欺诈或拒不付款而暂停、未升级到其他许可证、未被用户取消等）
+-   **权利：** 用户有权使用的许可证（未因欺诈或拒不付款而暂停、未升级到其他许可证、未被用户取消等）
 
--   **活动：**如果订阅用户在最近 28 个日历日内为某个任务使用了此权利。
+-   **活动：** 如果订阅用户在最近 28 个日历日内为某个任务使用了此权利。
 
 -   **部署率** = 已分配的许可证/已出售的许可证
 

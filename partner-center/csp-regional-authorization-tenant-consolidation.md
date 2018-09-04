@@ -4,11 +4,13 @@ description: 使用这些说明合并不同国家/地区的租户。
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: 迁移客户, 预配, 租户帐户, 合并租户
-ms.openlocfilehash: 4a8d1e993c11d379819ef9628db1f2399c6e6b49
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875977"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并
 
@@ -42,7 +44,7 @@ ms.lasthandoff: 04/08/2018
 
 3.  单击**请求经销商关系**。 系统将显示向客户显示的默认电子邮件消息。 此消息包含带有新建合作伙伴中心帐户独有的 org ID 的 URL。
 
-4.  **客户操作：**确保想要迁移的所有活动客户均访问此 URL。 打开 URL 时，系统将提示客户登录 Office 365 门户。 客户使用访问 Azure 和 Office 365 管理员门户所用的同一 Org ID 登录。
+4.  **客户操作：** 确保想要迁移的所有活动客户均访问此 URL。 打开 URL 时，系统将提示客户登录 Office 365 门户。 客户使用访问 Azure 和 Office 365 管理员门户所用的同一 Org ID 登录。
 
 5.  登录后，系统将提示客户帐户的全局管理员提交协议，以将委派的管理员权限提供给新云解决方案提供商帐户。 如果全局管理员同意，客户选中复选框，并同意授权建立这种关系。
 

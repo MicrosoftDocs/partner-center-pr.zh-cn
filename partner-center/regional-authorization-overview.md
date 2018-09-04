@@ -4,12 +4,13 @@ description: 借助区域授权，经营国际业务的合作伙伴现在可更�
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 keywords: Azure AD 租户, 合并你的租户, 租户策略, 云解决方案提供商中的租户, 云解决方案提供商中的合作伙伴帐户, 云解决方案提供商市场和国家/地区, 通过云解决方案提供商可以在哪里进行销售？
-ms.openlocfilehash: 45d9c6730cf3274d68915a453b1a33ed5239f68d
-ms.sourcegitcommit: e56f07feb1c6748efda48a8d2cd00185331f904a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 59c9e17d3238afd775c08513f9ef39cb3fd6d7d7
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/19/2018
-ms.locfileid: "1594608"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876377"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>云解决方案提供商中的租户合并策略
 

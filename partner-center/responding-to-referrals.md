@@ -1,13 +1,15 @@
 ---
-title: "响应引荐 | 合作伙伴中心"
-description: "通过合作伙伴中心评估、协商和响应引荐。"
+title: 响应引荐 | 合作伙伴中心
+description: 通过合作伙伴中心评估、协商和响应引荐。
 author: KPacquer
-keywords: "引荐, RFI, 查找合作伙伴"
-ms.openlocfilehash: 43e04eaf34b788ceb41c70fa2a9c1ee08812ea2d
-ms.sourcegitcommit: 0d96a6c9d828c329c2341fcd6870992a66ddc40c
-ms.translationtype: HT
+keywords: 引荐, RFI, 查找合作伙伴
+ms.localizationpriority: medium
+ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875417"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作伙伴中心响应引荐
 
@@ -23,7 +25,7 @@ ms.lasthandoff: 11/10/2017
 
 *  Microsoft 营销活动
 *  内部 Microsoft 销售和服务代理
-*  客户搜索（使用**[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)**工具）。
+*  客户搜索（使用**[查找合作伙伴](https://partnercenter.microsoft.com/pcv/search)** 工具）。
 
 当客户有兴趣与你联系时，他们将提交信息请求 (RFI)。 
 
@@ -59,7 +61,7 @@ ms.lasthandoff: 11/10/2017
 
 下面是一些提示，有助于确保你将获得更多适合你的业务的引荐：
 
-*  **查看[业务配置文件](create-a-marketing-profile.md)**中每个位置的联系人信息，以确保你的团队能够收到传入的警报。
+*  **查看[业务配置文件](create-a-marketing-profile.md)** 中每个位置的联系人信息，以确保你的团队能够收到传入的警报。
 
 *  在你的[业务配置文件](create-a-marketing-profile.md)中**选择表示你的独特专长和业务模型的关键字和首选项**。 删除将产生你不感兴趣的引荐的关键字。 如果你对与某种规模的企业做生意不感兴趣，更新此首选项。
 

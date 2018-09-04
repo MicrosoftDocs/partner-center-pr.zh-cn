@@ -3,11 +3,13 @@ title: 云解决方案提供商计划 - 销售畅销的云解决方案 | 合作�
 description: 云解决方案提供商计划可以通过新客户和新专长来帮助你拓展业务。
 author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
-ms.openlocfilehash: 1e23de4014e9d3dd85134c17e60dfeacc8acf9d7
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7075949392621c73d8c5d45f2971c759b1114f9e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875747"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
@@ -26,11 +28,22 @@ ms.lasthandoff: 04/08/2018
 
 ### <a name="direct-bill-model"></a>直接计费模式
 
- 在直接计费模式中，合作伙伴直接从 Microsoft 购买 Microsoft 产品和订阅，并通过其内部销售人员直接将其销售给客户。 已经在运行或者愿意开发适当的销售、计费和支持基础架构的合作伙伴可以选择云解决方案提供商直接模式。 最适合云解决方案提供商直接模式的合作伙伴应满足以下先决条件：
+ 在直接计费模式中，合作伙伴直接从 Microsoft 购买 Microsoft 产品和订阅，并通过其内部销售人员直接将其销售给客户。 已经在运行或者愿意开发适当的销售、计费和支持基础架构的合作伙伴可以选择云解决方案提供商直接模式。 成为直接合作伙伴的要求最近已更改，并且会从 2018 年 8 月 31 日起生效。 直接合作伙伴将需要满足从 2018 年 8 月 31 日之后其下一个注册期间起的新要求。
+
+
+#### <a name="new-expanded-requirements"></a>新的扩展的要求：
+
+支持
+- 通过购买优先、 云支持 Microsoft 高级支持合作伙伴程序包扩展你支持的能力。 或者，选择 Microsoft Premier 支持合作伙伴程序包访问主动服务的完整目录，，24/7 提升中断/修复支持和技术的帐户管理云、 混合和本地。 
+
+服务
+
+- 演示你提供至少一个托管的服务、 IP 服务或客户解决方案应用程序。 了解有关如何添加托管的服务
+
+- 满足最低的基础结构功能，如计费和预配。
+我们在监视按年性能符合这些要求的直接计费合作伙伴演示稳定业务增长。 有任何特定于性能目标位置此时，但 Microsoft 可以实现栏在将来的性能。 
+
 - 拥有适用于销售所在地的有效 Microsoft 合作伙伴网络 (MPN) ID
-- 拥有现成的客户支持基础结构
-- 拥有现成的客户计费基础结构
-- 具有可投资于技术整合和支持准备活动的资金
 
 
 ### <a name="indirect-model"></a>间接模式

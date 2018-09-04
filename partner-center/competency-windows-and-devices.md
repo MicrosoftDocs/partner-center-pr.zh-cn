@@ -1,137 +1,144 @@
 ---
-title: "Windows 和设备能力"
-description: "我们的共同目标是在 10 亿台设备上安装 Windows 10。 此商机涉及服务、应用程序和设备。 此能力会为你提供工具、内容和资源，以帮助你建立和发展有利可图的 Windows 10 业务。"
+title: Windows 和设备能力
+description: 我们的共同目标是在 10 亿台设备上安装 Windows 10。 此商机涉及服务、应用程序和设备。 此能力会为你提供工具、内容和资源，以帮助你建立和发展有利可图的 Windows 10 业务。
 author: Daniel Simpson
 robots: noindex,nofollow
-keywords: "能力, Windows 和设备"
-ms.openlocfilehash: f10523cb7b16ac0122198c372ea95ff62c160866
-ms.sourcegitcommit: ab3ee8096f36206ccc663f3d5cd3adc336f86cb7
-ms.translationtype: HT
+keywords: 能力, Windows 和设备
+ms.localizationpriority: medium
+ms.openlocfilehash: eee91d5908726893cf8b5f4a0d01d99b5ac442c1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875737"
 ---
-#<a name="windows-and-devices"></a>Windows 和设备 
-我们的共同目标是在 10 亿台设备上安装 Windows 10。 此商机涉及服务、应用程序和设备。 此能力会为你提供工具、内容和资源，以帮助你建立和发展有利可图的 Windows 10 业务。
+>[!IMPORTANT]
+>若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
-- [服务合作伙伴选项](#service-partner-option)
-- [设备合作伙伴选项](#device-partner-option)
-- [Surface Hub 选项](#surface-hub-option)
+<!--
 
-##<a name="service-partner-option"></a>服务合作伙伴选项
-如果你想要通过与业务/业务线相关的评估或考试来证明你的技能，那么服务合作伙伴选项是理想的选择。 完成此选项中的所有步骤即可获得 Windows 和设备能力。
+#Windows and Devices 
+Share our goal of having Windows 10 on 1 billion devices. The opportunity spans services, applications, and devices. This competency provides you with tools, content and resources to help you build and grow your profitable Windows 10 practice.
 
-###<a name="silver"></a>银牌
-1. 你的组织必须有 **2** 个人通过了所需的考试或评估。
+- [Service Partner option](#service-partner-option)
+- [Device Partner option](#device-partner-option)
+- [Surface Hub option](#surface-hub-option)
 
-    - **2** 个人必须都通过以下考试之一：
+##Service Partner option
+The Service Partner option is ideal if you prefer to prove your skills by passing assessments or exams related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
 
-        - **应用程序构建器**重点领域
+###Silver
+1. Your organization must have **2** individuals pass the required exams or assessments.
 
-            - [考试 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx)：通用 Windows 平台 - 应用体系结构和 UX/UI*
-            - [考试 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 - 应用数据、服务和编码模式*
-            - [考试 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx)：开发移动应用
+    - **2** individuals must each pass one of the following exams:
 
-    **或者**
+        - **Application Builders** focus area
 
-    - **2** 个人必须都通过以下评估：
+            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
+            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
+            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
 
-        - **部署合作伙伴**重点领域
+    **OR**
 
-            - [Windows 10 部署、安全和管理评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+    - **2** individuals must each pass the following assessment:
 
-* 将于 2017 年 9 月 30 日停用
+        - **Deployment Partner** focus area
 
-###<a name="gold"></a>金牌
-1. 你的组织必须有 **4** 个人通过了所需的考试或评估。
-    - **4** 个人必须都通过以下考试之一：
-        - **应用程序构建器**重点领域
+            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-            - [考试 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx)：通用 Windows 平台 - 应用体系结构和 UX/UI*
-            - [考试 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx)：通用 Windows 平台 - 应用数据、服务和编码模式*
-            - [考试 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx)：开发移动应用
+*Retiring September 30, 2017
 
-    **或者**
+###Gold
+1. Your organization must have **4** individuals pass the required exams or assessments.
+    - **4** individuals must each pass one of the following exams:
+        - **Application Builders** focus area
 
-    - **4** 个人必须都通过以下评估：
+            - [Exam 70-354](https://www.microsoft.com/en-us/learning/exam-70-354.aspx): Universal Windows Platform - App Architecture and UX/UI*
+            - [Exam 70-355](https://www.microsoft.com/en-us/learning/exam-70-355.aspx): Universal Windows Platform - App Data, Services, and Coding Patterns*
+            - [Exam 70-357](https://www.microsoft.com/en-us/learning/exam-70-357.aspx): Developing Mobile Apps
 
-        - **部署合作伙伴**重点领域
+    **OR**
 
-            - [Windows 10 部署、安全和管理评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
+    - **4** individuals must each pass the following assessment:
 
-* 将于 2017 年 9 月 30 日停用
+        - **Deployment Partner** focus area
 
-##<a name="device-partner-option"></a>设备合作伙伴选项
-如果你想要通过与业务/业务线相关的考试/评估来证明你的技能，那么设备合作伙伴选项是理想的选择。 完成此选项中的所有步骤即可获得 Windows 和设备能力。
+            - [Windows 10 Deployment, Security and Management Assessment](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=16022&scoId=eGcisv8BC_3806265419)
 
-###<a name="silver"></a>银牌
-1. 你的组织必须有 **2** 个人通过了所需的考试或评估。
+*Retiring September 30, 2017
 
-    - **2** 个人必须都通过以下考试：
+##Device Partner option
+The Device Partner option is ideal if you prefer to prove your skills by passing exam/assessment related to your practice/line of business. Complete all the steps within the option to attain the Windows and Devices competency.
 
-        - **系统组装商**重点领域
+###Silver
+1. Your organization must have **2** individuals pass the required exams or assessments.
 
-            - [考试 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx)：适用于 Windows 10 的 OEM 制造和部署
+    - **2** individuals must each pass the following exam:
 
-    **或者**
+        - **System Builder** focus area
 
-    - **2** 个人必须都通过以下评估：
+            - [Exam 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM Manufacturing and Deployment for Windows 10
 
-        - **IoT 设备组装商**重点领域
+    **OR**
 
-            - [Windows 10 的 IoT 设备组装商评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+    - **2** individuals must each pass the following assessment:
 
-###<a name="gold"></a>金牌
-1. 你的组织必须有 **4** 个人通过了所需的考试或评估。
+        - **IoT Device Builder** focus area
 
-    - **4** 个人必须都通过以下考试：
+            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-        - **系统组装商**重点领域
+###Gold
+1. Your organization must have **4** individuals pass the required exams or assessments.
 
-            - [考试 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx)：适用于 Windows 10 的 OEM 制造和部署
+    - **4** individuals must each pass the following exam:
 
-    **或者**
+        - **System Builder** focus area
 
-    - **4** 个人必须都通过以下评估：
+            - [Exam 70-735](https://www.microsoft.com/en-us/learning/exam-70-735.aspx): OEM Manufacturing and Deployment for Windows 10
 
-        - **IoT 设备组装商**重点领域
+    **OR**
+
+    - **4** individuals must each pass the following assessment:
+
+        - **IoT Device Builder** focus area
         
-            - [Windows 10 的 IoT 设备组装商评估](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
+            - [IoT Device Builder Assessment for Windows 10](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=15887&scoId=mwJPK2B8B_9004778676)
 
-##<a name="surface-hub-option"></a>Surface Hub 选项
-如果你是授权的 Surface Hub ADR 并且想要通过 Surface Hub 销售获得能力，则 Surface Hub 选项是你的理想之选。 完成此选项中的所有步骤即可获得 Windows 和设备能力。
+##Surface Hub option
+The Surface Hub option is ideal if you are an authorized Surface Hub ADR and prefer to attain competency through Surface Hub sales. Complete all the steps within the option to attain the Windows and Devices competency.
 
-###<a name="silver"></a>银牌
-1. 你的组织必须达到绩效阈值。
+###Silver
+1. Your organization must meet the performance thresholds.
 
-    - 合作伙伴必须在 TTM 期间交付 12 台设备，平均一个月 1 台。
-    - 合作伙伴还必须是授权的 Surface Hub ADR。
+    - Partner must have shipped 12 devices in the TTM period with an average of 1 unit a month.
+    - Partner must also be an authorized Surface Hub ADR.
 
-2. 你的组织必须有 **2** 个人通过了评估。
+2. Your organization must have **2** individuals pass an assessment.
 
-    - [Surface Hub 评估](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+    - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
 
 
-###<a name="gold"></a>金牌
-1. 你的组织必须达到绩效阈值。
+###Gold
+1. Your organization must meet the performance thresholds.
 
-    - 合作伙伴必须在 TTM 期间交付 52 台设备，平均一个月 4 台。
-    - 合作伙伴还必须是授权的 Surface Hub ADR。
+    - Partner must have shipped 52 devices in the TTM period with an average of 4 units a month.
+    - Partner must also be an authorized Surface Hub ADR.
 
-2. 你的组织必须有 **4** 个人通过了所需的考试或评估。
+2. Your organization must have **4** individuals pass the required exams and assessment.
 
-    - **全部**个人必须通过以下评估：
+    - **All** individuals must pass the following assessment:
     
-        - [Surface Hub 评估](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
+        - [Surface Hub Assessment](https://PartnerUniversity.microsoft.com?whr=uri:MicrosoftAccount&courseId=16722&scoId=jcNMRQouC_5906265419)
     
-    **并且**
+    **AND**
 
-    - **全部**个人必须都通过以下考试之一：
+    - **All** individuals must each pass one of the following exams:
 
-        - [考试 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx)：启用 Office 365 服务
-        - [考试 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx)：Skype for Business 2015 核心解决方案 
-        - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx)：计划和管理企业中的设备
-        - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx)：配置 Windows 设备 
-
+        - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 services
+        - [Exam 70-334](https://www.microsoft.com/en-us/learning/exam-70-334.aspx): Core Solutions of Skype for Business 2015 
+        - [Exam 70-398](https://www.microsoft.com/en-us/learning/exam-70-398.aspx): Planning for and Managing Devices in the Enterprise
+        - [Exam 70-697](https://www.microsoft.com/en-us/learning/exam-70-697.aspx): Configuring Windows Devices 
+-->
 
 
       

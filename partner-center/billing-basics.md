@@ -3,11 +3,13 @@ title: 计费基础知识 | 合作伙伴中心
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
-ms.openlocfilehash: 87e8dc8620a31ccbcdcd6e6b2987f8d304d62541
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 98b4edcbc7c10e73b59f89b74494ae363a306745
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876387"
 ---
 # <a name="billing-basics"></a>计费基础知识
 
@@ -168,8 +170,8 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 2.  在你的**客户**页上，查找你想要查看其订单历史记录的客户，然后选择向下箭头以展开客户的记录。 
 3.  选择**查看订单**以显示订单历史记录。
 
-#### <a name="create-a-credit-or-void-note"></a>创建退款或取消票据
+#### <a name="download-a-credit-note"></a>下载退款注意
 
-在某些时候，你可能需要取消发票，然后开具一份新发票。 例如，客户可能会更改其公司的名称，然后收到具有旧名称的发票。 
-
-若要取消发票并开具新发票，请在计费页面的调整下面下载表单。
+中，你执行完整退款 （Void 发票） 和重新计费，我们将为你提供退款注意取消出原始发票，以及一个完整的新文档。 你可以请求退款/重新计费原因如下：
+-   地址或购买订单更正
+-   生成发票，然后税务退款的应用。 你可以请求退款/的重新计费获取返回拉入原始发票税务退款。 这是还适用于适用于退款，你可以申请退款/的重新计费的原始发票，然后请求退款中。

@@ -1,12 +1,15 @@
 ---
-title: "管理客户列表 | 合作伙伴中心"
-description: "客户记录是合作伙伴中心中最重要的信息资源。"
+title: 管理客户列表 | 合作伙伴中心
+description: 客户记录是合作伙伴中心中最重要的信息资源。
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
-ms.openlocfilehash: f5ca9d3bfde754e617eda5b172e19683469fcfe2
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 8242a5b00af5517aa9b480077201b32bae7b251e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876817"
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
@@ -27,6 +30,12 @@ ms.contentlocale: zh-CN
 2.  若要搜索客户，请在搜索框中输入客户名称或域名。
 3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
 
+## <a name="update-a-customers-company-name"></a>更新客户的公司名称
+
+从**仪表板**菜单中，选择**客户**。
+2.  若要搜索客户，请在搜索框中输入客户名称或域名。
+3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
+4.  在客户**帐单的**信息更新公司名称。 当你保存新值时，它将反映在客户列表。 这将仅更改帐单到公司名称和客户列表值。 它将不会反映任意位置其他人。
 
 ## <a name="export-your-customer-list"></a>导出客户列表
 

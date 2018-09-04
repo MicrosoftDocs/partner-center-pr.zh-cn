@@ -1,32 +1,39 @@
 ---
-title: "企业资源计划能力"
-description: "通过证明你的组织在开发和部署 Dynamics 解决方案以满足企业资源计划需求方面的能力，成为 Microsoft 合作伙伴。"
+title: 企业资源计划能力
+description: 通过证明你的组织在开发和部署 Dynamics 解决方案以满足企业资源计划需求方面的能力，成为 Microsoft 合作伙伴。
 author: Daniel Simpson
-keywords: "能力, 企业资源计划"
-ms.openlocfilehash: f9aa424e4bbc6e0cce3e9abdd4a284183675c6cf
-ms.sourcegitcommit: 6215068443504ee777880bffcb1e85fea3b3bfeb
-ms.translationtype: HT
+keywords: 能力, 企业资源计划
+robots: noindex,nofollow
+ms.localizationpriority: medium
+ms.openlocfilehash: 581dbe631117776c9f437a1d23d70f1a983c1a3d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/16/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2875657"
 ---
-#<a name="enterprise-resource-planning"></a>企业资源计划 
-通过证明你的组织在开发和部署 Dynamics 解决方案以满足企业资源计划需求方面的能力，成为 Microsoft 合作伙伴。
+>[!IMPORTANT]
+>若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
-##<a name="erp-reseller-option"></a>ERP 经销商选项
-企业资源计划 (ERP) 经销商选项非常适合想要通过达到收入阈值来证明其能力的合作伙伴。 完成此选项中的所有步骤即可获得企业资源计划能力。
+<!--
+#Enterprise Resource Planning 
+Become a Microsoft partner by proving your organization’s caliber in developing and deploying Dynamics solutions for enterprise resource planning needs.
 
-###<a name="gold"></a>金牌
+##ERP Reseller option
+The Enterprise Resource Planning (ERP) Reseller option is ideal for partners who want to prove their capability by meeting revenue thresholds. Complete all the steps within the option to attain the Enterprise Resource Planning competency.
 
-你的组织必须达到绩效阈值。
+###Gold
 
-    - **成熟市场**
-    -   合作伙伴每年必须赚取 175,000 美元的许可证总收入
+Your organization must meet the performance thresholds.
+
+    - **Developed Markets**
+    -   Partner must have earned a total annual gross license revenue of US$175,000
   
-    - **新兴市场**
-        - 合作伙伴每年必须赚取 75,000 美元的许可证总收入 
+    - **Developing Markets**
+        - Partner must have earned  a total annual gross license revenue of US$75,000 
 
-        - 达到 Microsoft Dynamics AX On Premise 和 Dynamics AX Online、Dynamics GP、Dynamics SL、Dynamics NAV 和/或 Dynamics 365 Plan 或 Unified Operations Plan 的收入要求。  
-
+        - Meet Revenue Requirements for Microsoft Dynamics AX on Premise & Dynamics AX online; Dynamics GP, Dynamics SL, Dynamics NAV and/or Dynamics 365 Plan or Unified Operations Plan.  
+-->
 
 
 

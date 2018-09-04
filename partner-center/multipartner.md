@@ -3,11 +3,13 @@ title: 多合作伙伴支持 |合作伙伴中心
 description: 客户可能希望与云解决方案提供商计划中专门提供不同服务的多个合作伙伴合作。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
-ms.openlocfilehash: e6d6b8d6c2c65738fb1fa5a1c84b523fb28257fe
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 60a925536bd377c010aeca2b8f2f8bbeb6b7f0a6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874827"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 

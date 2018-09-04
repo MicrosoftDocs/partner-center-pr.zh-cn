@@ -1,14 +1,16 @@
 ---
-title: "客户自我支持 | 合作伙伴中心"
-description: "客户自我支持"
+title: 客户自我支持 | 合作伙伴中心
+description: 客户自我支持
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
-keywords: "客户自我支持, 自我支持,"
-ms.openlocfilehash: 0836ce7501dcbf1fadb7f675dab8fc0583a1d4cf
-ms.sourcegitcommit: 09f6988db95a3d7c62f2cf16f02cabc2c4418646
-ms.translationtype: HT
+keywords: 客户自我支持, 自我支持,
+ms.localizationpriority: medium
+ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/17/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2874577"
 ---
 # <a name="customer-self-support"></a>客户自我支持
 
@@ -26,7 +28,7 @@ ms.lasthandoff: 01/17/2018
 
 若要购买其他订阅或取消其订阅，客户应联系他们的云解决方案提供商合作伙伴。 客户不能直接通过 Microsoft 更改他们自己的订阅。
 
-客户可以通过在线管理中心、TechNet 或 Microsoft Office 365 社区来查找帮助和操作方法问题的自助答案。 产品资源列表可在合作伙伴中心的[支持](https://partnercenter.microsoft.com/partner/support)页面上找到。 我们鼓励合作伙伴首先将其客户指引向这些资源。
+当客户需要帮助产品时，它们可以找到有关[支持](https://partnercenter.microsoft.com/partner/support)的产品资源。 我们鼓励合作伙伴首先将其客户指引向这些资源。
 
  
 
