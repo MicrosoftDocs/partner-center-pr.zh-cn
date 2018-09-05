@@ -3,12 +3,13 @@ title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
 description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 说明如何在合作伙伴仪表板激活和管理你的成员身份权益。
 author: MaggiePucciEvans
 keywords: MPN, 成员身份权益, 成员身份
-ms.openlocfilehash: 650db44e4a240ca8f05ea421dec6ffc15ec8ceb2
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 2518cc915b658a74372cd34b02e96bbbc1991aa0
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207277"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876907"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -25,6 +26,9 @@ ms.locfileid: "2207277"
 ## <a name="manage-your-membership-benefits-in-the-dashboard"></a>在仪表板中管理成员身份权益
 
 购买成员身份权益包后，你需要为员工获取软件密钥并分配许可证、订阅和其他权益，以便开始使用它们。 
+
+>[!IMPORTANT]
+>时不需要是组织购买权益中的全局管理员，你需要是全局管理员，要分配给员工的好处。  如果需要，你可以按照你的[**权益**页面](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明将成为全局管理员 （需要登录）。 此外，你的组织可能已有的全局管理员，因此请务必检查与你的团队。
 
 权益包包括所分配的内部使用权限、软件、云服务、Visual Studio 订阅和支持。 你可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 

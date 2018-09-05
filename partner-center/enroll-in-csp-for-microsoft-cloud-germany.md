@@ -1,11 +1,14 @@
 ---
-title: "注册德国 Microsoft 云的云解决方案提供商计划 | 德国 Microsoft 云合作伙伴中心"
-description: "在注册德国 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。"
+title: 注册德国 Microsoft 云的云解决方案提供商计划 | 德国 Microsoft 云合作伙伴中心
+description: 在注册德国 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。
 author: MaggiePucciEvans
-ms.openlocfilehash: d7251d597357573010e589bfea8ed6bae1a91630
-ms.sourcegitcommit: a9d2fc656bec004a0c229bd855d2e661773c05c7
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877497"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>注册德国 Microsoft 云的云解决方案提供商计划
 
@@ -33,7 +36,7 @@ ms.contentlocale: zh-CN
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>步骤 1 - 为德国 Microsoft 云合作伙伴中心创建一个帐户 
 
-1.  若要注册德国 Microsoft 云的云解决方案提供商计划，请转到 [https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow) 并选择**登录**。 
+1.  若要注册德国 Microsoft 云的云解决方案提供商，请转到[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)和选择**登录**。 
 
 2.  使用你公司用于 Office 365、Microsoft Azure 或 Microsoft Dynamics 的德国 Microsoft 云帐户的全局管理员凭据登录。 如果你的公司没有这些门户的帐户，请选择**创建帐户**以注册帐户。
 
@@ -69,7 +72,7 @@ ms.contentlocale: zh-CN
 >**注意**<br>
 将用户分配给管理员代理角色后，你的“仪表板”菜单中将显示**客户**菜单，你将能够访问你的客户列表和[添加新的客户](add-a-new-customer.md)。   
 
-1.  登录到 Azure 德国门户，网址为 https://portal.microsoftazure.de/。
+1.  登录到 Azure 德国门户https://portal.microsoftazure.de/。
 
 2.  将管理员代理角色分配给你组织中的适当用户。 若要执行此操作，你需要将这些用户添加到内置 **AdminAgent** 组。 请参阅[管理 Azure Active Directory 中的一组成员](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)，了解有关如何执行此操作的信息。
  

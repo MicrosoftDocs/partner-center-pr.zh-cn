@@ -4,11 +4,13 @@ description: 通过将逗号分隔值文件格式 (.csv) 的数据文件上传�
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 keywords: 批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户
-ms.openlocfilehash: 2c695cd6c6e3b302d91730638358616ca3465188
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e7a5e7f9c0cebf81373c500dd3a552710fcf845a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876967"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>将多个用户添加到客户帐户
 
@@ -54,15 +56,13 @@ ms.lasthandoff: 04/08/2018
 
     **注意** 大多数帐户创建错误均由数据文件问题导致，包括缺少信息、电子邮件地址格式错误或重复，或者文件中有太多记录。
 
-     
-
 7.  在合作伙伴仪表板验证文件后，选择新用户的地理**位置**。
 8.  选择**保存**。
 9.  下载用户的临时密码信息。
 
-**重要提示：**确保现在就下载具有临时密码的文件，在后续步骤中将无法下载。 新用户必须使用新帐户的临时密码登录新帐户。
+**重要提示：** 确保现在就下载具有临时密码的文件，在后续步骤中将无法下载。 新用户必须使用新帐户的临时密码登录新帐户。
 
-合作伙伴仪表板自动将**可使用许可证和服务**的权限分配给新用户。
+10. 新用户自动分配的**可使用许可证和服务**的权限。 
 
  
 

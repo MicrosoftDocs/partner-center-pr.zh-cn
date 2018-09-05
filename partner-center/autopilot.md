@@ -3,11 +3,13 @@ title: 利用 Windows Autopilot 简化设备设置 | 合作伙伴中心
 description: 利用 Windows AutoPilot 在合作伙伴中心内添加 Windows AutoPilot 部署配置文件以简化设备设置
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, 零接触部署, oobe, 登录屏幕
-ms.openlocfilehash: b106577ef60dba6535f89d2ef4bce4a5d19bedd9
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877577"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>利用 Windows Autopilot 简化设备设置 
 
@@ -61,7 +63,7 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 
     d.  单击**浏览** > 选择设备信息文件 > **验证**。
 
-    **注意：**如果你尝试上传 .csv 文件后收到一条错误消息，请检查该文件的格式。 8 月之后，你可以仅使用硬件哈希，按该列顺序使用 OEM 名称、序列号和型号，或者使用 Windows 产品 ID。 你还可以使用**添加设备**旁边的链接中提供的示例 .csv 文件。
+    **注意：** 如果你尝试上传 .csv 文件后收到一条错误消息，请检查该文件的格式。 8 月之后，你可以仅使用硬件哈希，按该列顺序使用 OEM 名称、序列号和型号，或者使用 Windows 产品 ID。 你还可以使用**添加设备**旁边的链接中提供的示例 .csv 文件。
 
 2.  创建可应用于设备的配置文件。 （只有管理员代理才有权在合作伙伴仪表板内创建并应用配置文件。）
 

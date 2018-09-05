@@ -1,13 +1,15 @@
 ---
-title: "请求与客户建立关系 | 合作伙伴中心"
-description: "请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。"
+title: 请求与客户建立关系 | 合作伙伴中心
+description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
-ms.openlocfilehash: 65909045a8b3b7fe7d47cf7a44e767a5b93dfdf2
-ms.sourcegitcommit: 7ed78315d2a4f4f60a0bf51ec658e019ff5b7fe3
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877217"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -31,9 +33,7 @@ ms.lasthandoff: 07/19/2017
 
 4.  客户接受你的邀请后，他们将出现在你的**客户**页面上，并且你将能够在此处为客户预配和管理服务。
 
- >**注意**<br>
-    在多渠道方案中，只有一个合作伙伴可以具有代表客户管理服务的管理员权限。 
-
+ 
 5.  若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头展开客户的记录。
 
 

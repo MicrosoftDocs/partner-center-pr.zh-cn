@@ -4,12 +4,13 @@ description: 客户可以在云解决方案提供商计划中更改要用于提�
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
-ms.openlocfilehash: a4b9c0a320808f1d8a4a630a035660813a3f9c74
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 21737fd9b9633fb2a1c1fb05daba4d43dd50444d
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2018
-ms.locfileid: "2088954"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877557"
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 
@@ -18,6 +19,8 @@ ms.locfileid: "2088954"
 -  合作伙伴中心
 
 客户可以决定切换到某个云解决方案提供商合作伙伴或另一合作伙伴来提供其 Microsoft Azure 服务。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。
+
+**注意** 这一次仅直接或间接提供商将能够转移订阅。
 
 **注意**  当前无法针对 Office 365、企业移动性套件或 Microsoft Dynamics CRM 订阅更改云解决方案提供商订阅的合作伙伴。
 

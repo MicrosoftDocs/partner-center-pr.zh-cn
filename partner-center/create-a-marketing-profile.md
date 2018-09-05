@@ -4,11 +4,13 @@ description: 在合作伙伴中心创建业务档案，以从 Microsoft 获取�
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 业务档案, 营销档案
-ms.openlocfilehash: 847b535429620d96b7fffc843904c03190928449
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1a53d9b1dd663b63193295068e6692645247cf0e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877622"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -16,7 +18,7 @@ FWLink2: https://go.microsoft.com/fwlink/?linkid=848635: Top of page (duplicate)
 FWLink3: https://go.microsoft.com/fwlink/?linkid=847631: #allow_us_to_endorse_areas_of_expertise
 FWLink4: https://go.microsoft.com/fwlink/?linkid=848063: #customer-preferences
 FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
- -->
+-->
 
 
 # <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>创建业务档案以从 Microsoft 获取销售线索
@@ -58,7 +60,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 徽标可以是 GIF、JPG 或 PNG 文件，最大宽度为 300 个像素。 建议使用方纵横比或长纵横比。 不建议使用高纵横比。
 
-你的说明最长可以为 1000 个字符。 创建出色说明的提示： 
+你的提要可以最多 2500年个字符。 创建出色说明的提示： 
 
 *  **简要**，在第一句或前两句中首先介绍重要内容。 这应该是吸引客户注意力的头条资讯。 在“查找合作伙伴”搜索体验中，我们会在搜索结果预览中显示第一行或前两行。
 *  **重点介绍贵公司在 Microsoft 特定产品/服务方面的经验**。 搜索引荐的客户通常会寻找具有 Microsoft 特定经验的合作伙伴。

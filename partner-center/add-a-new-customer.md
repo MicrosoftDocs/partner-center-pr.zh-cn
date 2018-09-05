@@ -4,11 +4,13 @@ description: 你需要先在合作伙伴中心中创建客户记录，然后才�
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
-ms.openlocfilehash: cb9a6b2b62b838936f214707ddb0a32b3691c167
-ms.sourcegitcommit: 32f34476cbcae58651baab15d3f5591d6ef70d27
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876857"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 

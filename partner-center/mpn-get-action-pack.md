@@ -3,12 +3,13 @@ title: 购买或续订 Microsoft Action Pack | 合作伙伴中心
 description: 了解如何获取 Microsoft Action Pack，无论是首次购买还是续订。
 author: MaggiePucciEvans
 keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
-ms.openlocfilehash: 709966b80a0e8f39c3dbc70da16c9928df43f6cc
-ms.sourcegitcommit: 2d90478a58a406c0b70fbb6a0b2bb42dbb4f9640
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 9fab4b0abe282e12a505c242597345717fad22b6
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2018
-ms.locfileid: "2207257"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2876707"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次购买或续订 Microsoft Action Pack 订阅
 
@@ -55,7 +56,7 @@ Action Pack 为想要在云优先、移动优先领域中构建和发展其 Micr
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-dashboard"></a>若要在合作伙伴仪表板中续订 Microsoft Action Pack 订阅
 
-1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 找到 **Microsost Action Pack 订阅**磁贴。  
+1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 找到**Microsoft Action Pack 订阅**磁贴。  
 
 2. 选择**续订订阅**，然后选择你的付款方式。 你可以使用信用卡或通过电子银行转账进行支付。
 

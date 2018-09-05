@@ -3,12 +3,13 @@ title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
 description: 作为经销商合作伙伴，你的客户可以委派你担任管理员，也可以删除该权限。
 author: labrenne
 keywords: 委派的管理员权限, 代表管理员, 删除权限
-ms.openlocfilehash: 7f1bd81f40892f851e1582a7a842a64c55e4ff63
-ms.sourcegitcommit: 93968695897114a68d5e948d13a36127a4079b6f
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 7209917a92eb2cd9ae86c31f3126bdbac402a04e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2018
-ms.locfileid: "1913941"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877167"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 

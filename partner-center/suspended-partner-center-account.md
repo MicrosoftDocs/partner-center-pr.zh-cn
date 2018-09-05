@@ -1,12 +1,15 @@
 ---
-title: "恢复暂停的合作伙伴中心帐户 | 合作伙伴中心"
-description: "了解如何恢复暂停的合作伙伴中心帐户、合作伙伴帐户被暂停的原因以及在暂停时如何使用帐户。"
+title: 恢复暂停的合作伙伴中心帐户 | 合作伙伴中心
+description: 了解如何恢复暂停的合作伙伴中心帐户、合作伙伴帐户被暂停的原因以及在暂停时如何使用帐户。
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
-ms.openlocfilehash: b3eecda15bc4dc6363a288a768463acec86aa29f
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877027"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>恢复暂停的合作伙伴中心帐户
 
@@ -39,9 +42,9 @@ ms.contentlocale: zh-CN
 
 **要提交支持请求**
 
-1.    从**仪表板**菜单中，依次选择**“支持请求”>“合作伙伴中心请求”**。
-2.    选择**新建请求**。 
-3.    填写表单，然后选择**提交**。 合作伙伴中心支持代表将与你联系，说明为什么你的帐户被暂停以及如何恢复它。
+1.  从**仪表板**菜单中，依次选择 **“支持请求”>“合作伙伴中心请求”**。
+2.  选择**新建请求**。 
+3.  填写表单，然后选择**提交**。 合作伙伴中心支持代表将与你联系，说明为什么你的帐户被暂停以及如何恢复它。
 
 
 

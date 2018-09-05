@@ -1,12 +1,14 @@
 ---
-title: "实时数据报告替换某些奖励计划的每月报告 | 合作伙伴中心"
-description: "OSA 销售和联机服务使用奖励计划现在可获取实时数据报告。"
+title: 实时数据报告替换某些奖励计划的每月报告 | 合作伙伴中心
+description: OSA 销售和联机服务使用奖励计划现在可获取实时数据报告。
 author: labrenne
-ms.openlocfilehash: 76ba6c508c7f4f7cde0737828258c1964ee6784e
-ms.sourcegitcommit: 2c948321945d0e61153f7d766a1a669782df4a54
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/24/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877127"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>实时数据报告替换某些奖励计划的每月报告
 

@@ -3,11 +3,13 @@ title: 使用对帐文件 | 合作伙伴中心
 description: 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
-ms.openlocfilehash: 892138374f5730bdc10bdf07f75d0a8e3ef56bea
-ms.sourcegitcommit: 2d3203dd5e2653af031a8009aa3b999a454acef5
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877547"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -144,7 +146,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>费用或调整的类型。 请参阅<a href="#charge_types">映射发票与对帐文件之间的费用</a></p></td>
+<td><p>费用或调整的类型。 请参阅“<a href="#charge_types">映射发票与对帐文件之间的费用</a>”</p></td>
 <td><p>请参阅<a href="#charge_types">映射发票与对帐文件之间的费用</a></p></td>
 </tr>
 <tr class="odd">
@@ -516,8 +518,8 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
-<td rowspan="8">
-<p><strong>定期费用</strong></p>
+<td rowspan="10">
+<p><strong>基于许可证的费用</strong></p>
 </td>
 <td>
 <p>激活费用</p>
@@ -525,7 +527,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>客户购买后使用订阅时向其收取的金额</p>
 </td>
-<td rowspan="8">
+<td rowspan="10">
 <p>从基于许可证的文件，对 <strong>Amount</strong> 列求和</p>
 </td>
 </tr>
@@ -586,6 +588,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 </tr>
 <tr>
+
 <td>
 <p>续订费用</p>
 </td>
@@ -595,16 +598,10 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>其他产品和服务</strong></p>
-</td>
-<td>
 <p>按比例计算激活时的费用</p>
 </td>
 <td>
 <p>从激活到计费周期结束时间段内按比例计算的费用</p>
-</td>
-<td>
-<p>从基于许可证的文件，对 <strong>Amount</strong> 列求和</p>
 </td>
 </tr>
 <tr>
@@ -631,7 +628,7 @@ ms.lasthandoff: 05/10/2018
 </tr>
 <tr>
 <td>
-<p><strong>积分&amp;调整</strong></p>
+<p><strong>退款额</strong></p>
 </td>
 <td>
 <p>偏移行项</p>
@@ -644,12 +641,9 @@ ms.lasthandoff: 05/10/2018
 <p>从基于使用情况的文件，对 <strong>PostTaxTotal</strong> 列求和</p>
 </td>
 </tr>
-
-
 <tr>
 <td rowspan="4">
-<p><strong>其他折扣</strong></br>
-<em>（基于使用情况）</em></p>
+<p><strong>基于使用情况的折扣</strong></p>
 </td>
 <td>
 <p>激活折扣</p>
@@ -657,6 +651,7 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>激活订阅时应用的折扣</p>
 </td>
+
 <td rowspan="4">
 <p>从基于使用情况的文件，对 <strong>PretaxCharges</strong> 列求和</p>
 </td>
@@ -668,14 +663,16 @@ ms.lasthandoff: 05/10/2018
 <td>
 <p>对定期费用应用的折扣</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>续订折扣</p>
 </td>
 <td>
 <p>续订订阅时应用的折扣</p>
 </td>
-</tr><tr>
+</tr>
+<tr>
 <td>
 <p>取消折扣</p>
 </td>
@@ -683,16 +680,17 @@ ms.lasthandoff: 05/10/2018
 <p>取消折扣时应用的费用</p>
 </td>
 </tr>
+
+
 <tr>
 <td>
-<p><strong>其他折扣</strong></br>
-<em>（基于许可证）</em></p>
+<p><strong>基于许可证的折扣</strong></p>
 </td>
 <td>
 <p><em>可能应用于多种费用类型</em></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td>
 <p>从基于许可证的文件，对 <strong>TotalOtherDiscount</strong> 列求和</p>
@@ -704,7 +702,7 @@ ms.lasthandoff: 05/10/2018
 </td>
 <td>
 <p><em>可能应用于多种费用类型</em></p>
-<p><em>例外：“偏移行项”已经包括税款。 请参阅上面的“积分&amp;调整”。</em></p>
+<p><em>例外：“偏移行项”已经包括税款。 上面看到信用。</em></p>
 </td>
 <td>
 <p>税款或增值税 (VAT)</p>

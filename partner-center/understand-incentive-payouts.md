@@ -1,12 +1,14 @@
 ---
-title: "了解你的奖励付款 | 合作伙伴中心"
-description: "查看奖励计划的收益和付款。"
+title: 了解你的奖励付款 | 合作伙伴中心
+description: 查看奖励计划的收益和付款。
 author: labrenne
-ms.openlocfilehash: 2169f0b57f29b04cda61914a4b3dde1f6b52f43a
-ms.sourcegitcommit: e5fd98695ed481a46de6c7bc5b06625036a30f84
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: fb41598dfb79b8bbaee593aaffbd0cd79efbdd2c
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877427"
 ---
 #<a name="understand-your-incentive-payouts"></a>了解你的奖励付款
 
@@ -99,7 +101,7 @@ ms.lasthandoff: 07/10/2017
 |**字段**        |**定义**     |
 |--------------------|:-------------------------------------------------|                                                 
 |EarningID      |未每个收益行项目创建的唯一标识符 |               
-|合作伙伴名称   | 合作伙伴中心中合作伙伴的注册名称                    |
+|合作伙伴名称   | 合作伙伴在合作伙伴中心的注册名称                    |
 |MPN/PCN        |MPN ID（合作伙伴的 Microsoft 合作伙伴网络 ID）/公用客户号码|
 |位置       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
 |计划名称   |奖励计划的名称 |

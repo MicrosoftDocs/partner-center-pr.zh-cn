@@ -1,12 +1,14 @@
 ---
-title: "注册美国政府 Microsoft 云的云解决方案提供商计划 | 美国政府 Microsoft 云合作伙伴中心"
-description: "在注册美国政府 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。"
+title: 注册美国政府 Microsoft 云的云解决方案提供商计划 | 美国政府 Microsoft 云合作伙伴中心
+description: 在注册美国政府 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。
 author: MaggiePucciEvans
-ms.openlocfilehash: 69e50e7b16c7b39eef68b0e841f21414c1923f14
-ms.sourcegitcommit: c2a12d6a18b9631916f6dd8301a4752ecc03296b
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2017
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877197"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -64,7 +66,7 @@ ms.lasthandoff: 06/19/2017
 >**注意**<br>
 将用户分配至“管理员代理”角色后，他们将能够访问**客户**页面上的客户列表，并[添加新客户](add-a-new-customer.md)。   
 
-1.  登录到 Microsoft Azure 管理门户 https://portal.azure.us/。
+1.  登录到 Microsoft Azure 管理门户https://portal.azure.us/。
 
 2.  将管理员代理角色分配给你组织中的适当用户。 若要执行此操作，你需要将这些用户添加到内置 **AdminAgent** 组。 请参阅[管理 Azure Active Directory 中的一组成员](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)，了解有关如何执行此操作的信息。
  

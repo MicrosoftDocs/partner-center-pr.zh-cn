@@ -2,12 +2,14 @@
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
-keywords: azure, 预订, 虚拟机, 管理, 计费, 购买
-ms.openlocfilehash: ae27024ba10184b6f704f5ceef9d90af61186321
-ms.sourcegitcommit: 034336ae3a697a97a62ad549b8645c836624efaa
-ms.translationtype: HT
+keywords: azure，预订，管理，计费，购买
+ms.localizationpriority: medium
+ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2018
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877397"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
@@ -17,21 +19,21 @@ ms.lasthandoff: 05/11/2018
 -  Microsoft Azure 门户
 -  云解决方案提供商计划中的合作伙伴
 
-若要在购买后管理客户的 Azure 预订，你需要在合作伙伴仪表板中选择要管理的客户和预订，然后在 Azure 门户中对预订进行更改。 
+若要管理你的客户购买 Azure 预订后，将选择的客户和预订你想要管理在合作伙伴仪表板，然后在 Azure 门户中对预订进行更改。 
 
 1. 若要开始，请从你的仪表板菜单中选择**客户**，然后选择你想要管理其预订的客户。 
 
-2. 在客户的详细信息页面上，选择 **Azure 预订**，然后选择你想要管理的特定预订。  
+2. 在客户的详细信息页面菜单上，选择**Azure 预订**，然后选择你想要管理的特定预订。  
 
 3. 在**操作**下面，选择**管理**以在 Azure 门户中转到客户的预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-|**选择**   |**要**    |
+| **选择**   | **要**    |
 |:-----------------------------|:-----------------|
-|**概述**   |查看客户预订的详细信息，包括到期日期、范围和使用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
-|**访问控制 (IAM)**   |管理客户预订信息的访问权限。|
-|**配置**   |更改与预订相关联的预订范围和/或 Azure 订阅。    |
-|**属性**   |查看预订的属性并将预订 ID 和预订订单 ID 复制到剪贴板。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
-|**新建支持请求**    |请求 Microsoft 支持人员提供帮助。   |
+| **概述**   | 查看客户预订的详细信息，包括到期日期、范围和使用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
+| **访问控制 (IAM)**   | 管理客户预订信息的访问权限。|
+| **配置**   | 更改与预订相关联的预订范围和/或 Azure 订阅。    |
+| **属性**   | 查看预订的属性并将预订 ID 和预订订单 ID 复制到剪贴板。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
+| **新建支持请求**    | 请求 Microsoft 支持人员提供帮助。   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>取消或兑换预订 
 当客户的业务需求发生变化时，他们可能想要取消预订，或者兑换预订以获得按比例计算的退款金额，用于支付新预订的价格。 
@@ -55,7 +57,7 @@ ms.lasthandoff: 05/11/2018
 
 2. 在客户的详细信息页面上，选择 **Azure 预订**，然后选择客户想要退款的特定预订。  
 
-3. 在**操作**下面，选择**退款**以在 Azure 门户中转到客户预订记录并自动启动支持请求。  
+3. 在**操作**，选择**退款**以转到 Azure 门户中的客户的预订记录并启动支持请求。  
 
 4. 在**新建支持请求**页上，请按照以下步骤来请求退款。 执行每个步骤后选择**下一步**。 
 
@@ -66,13 +68,10 @@ ms.lasthandoff: 05/11/2018
 |**3 联系人信息**   |选择首选项并输入所需的信息。 完成后选择**创建**。   |
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**如需以下相关信息**   |**请阅读以下内容**    |
+|**若要获取相关信息**   |**请阅读以下内容**    |
 |:-----------------------------|:-----------------|
-|云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md) |
+|云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
 |在合作伙伴仪表板中为客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md) |
-|Azure 预订计费   |[Azure 预订计费](azure-reservations-billing.md)   |
 |确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
-|在 Azure 门户中购买 Azure 预订 | Azure 帮助中的[为包含 Azure 虚拟机预留实例的虚拟机预先付款](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
-|在 Azure 门户中管理 Azure 预订   |Azure 帮助中的[管理虚拟机预留实例](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 
