@@ -1,52 +1,49 @@
 ---
-title: "客户支持 | 合作伙伴中心"
-description: "你是你的客户的首个接触点，并且需要你向客户提供如下的技术和帐户支持服务：计费和订阅支持、预配/部署帮助以及软件配置。解决性能问题、服务可用性问题、客户端连接问题，以及由于缺少设置或错误配置设置、不完整的软件集成、权限问题或其他部署问题而导致的客户端桌面问题。管理服务和软件的更新。回答有关使用情况的问题。云解决方案提供商必须向客户清楚说明他们将如何接受支持。 如果你不提供全天候电话支持，则必须提供服务级别协议来向你的客户解释这些选项。 Microsoft 不会向云解决方案提供商客户提供支持。"
+title: 为你的客户提供支持 |合作伙伴中心
+description: 合作伙伴所需的客户接收传入的支持请求、 诊断问题的合作伙伴的功能，然后解决问题的作用域内的基线支持范围。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
-ms.openlocfilehash: ee8ccd7ab7222eedcc3455b91c522f0005f60b9e
-ms.sourcegitcommit: 0b00306bfb0b406e64ad857cb360de4533740e6a
-ms.translationtype: HT
+ms.localizationpriority: medium
+ms.openlocfilehash: 62a3a469180b084123f409e97f093056d36bfdd9
+ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.translationtype: MT
 ms.contentlocale: zh-CN
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "2877267"
 ---
-# <a name="customer-support"></a><span data-ttu-id="3cdd7-105">客户支持</span><span class="sxs-lookup"><span data-stu-id="3cdd7-105">Customer support</span></span>
+# <a name="providing-support-to-your-customers"></a><span data-ttu-id="b6bf5-103">为你的客户提供支持</span><span class="sxs-lookup"><span data-stu-id="b6bf5-103">Providing support to your customers</span></span>
 
-**<span data-ttu-id="3cdd7-106">适用于</span><span class="sxs-lookup"><span data-stu-id="3cdd7-106">Applies to</span></span>**
+**<span data-ttu-id="b6bf5-104">适用范围</span><span class="sxs-lookup"><span data-stu-id="b6bf5-104">Applies to</span></span>**
 
--  <span data-ttu-id="3cdd7-107">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="3cdd7-107">Partner Center</span></span>
--  <span data-ttu-id="3cdd7-108">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="3cdd7-108">Partner Center for Microsoft Cloud for US Government</span></span>
--  <span data-ttu-id="3cdd7-109">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="3cdd7-109">Partner Center for Microsoft Cloud Germany</span></span>
+-  <span data-ttu-id="b6bf5-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="b6bf5-105">Partner Center</span></span>
+-  <span data-ttu-id="b6bf5-106">美国政府 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="b6bf5-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="b6bf5-107">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="b6bf5-107">Partner Center for Microsoft Cloud Germany</span></span>
 
-<span data-ttu-id="3cdd7-110">你是你的客户的首个接触点，并且需要你向客户提供如下的技术和帐户支持服务：</span><span class="sxs-lookup"><span data-stu-id="3cdd7-110">You are the first point of contact for your customers, and you are expected to provide technical and account support services such as the following to your customers:</span></span>
+## <a name="microsoft-partner-support-guidance"></a><span data-ttu-id="b6bf5-108">Microsoft 合作伙伴支持指南</span><span class="sxs-lookup"><span data-stu-id="b6bf5-108">Microsoft partner support guidance</span></span>
 
--   <span data-ttu-id="3cdd7-111">帐单和订阅支持</span><span class="sxs-lookup"><span data-stu-id="3cdd7-111">Billing and subscription support</span></span>
+<span data-ttu-id="b6bf5-109">在云解决方案提供商模型交易的合作伙伴是为其客户受信任的顾问，并且拥有关系端到端，包括支持时其客户有问题。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-109">Partners transacting in the CSP model are the trusted advisor to their customers and own the relationship end-to-end, including support when their customer has a question or issue.</span></span> <span data-ttu-id="b6bf5-110">通过支持触摸点合作伙伴可以了解更多客户，并他们的业务，确定新服务和驱动器值的解决方案。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-110">Through support touch points partners can learn more about the customer, and their business, to identify new services and solutions that drive value.</span></span>
 
--   <span data-ttu-id="3cdd7-112">设置/部署帮助和软件配置</span><span class="sxs-lookup"><span data-stu-id="3cdd7-112">Provisioning/deployment help, and software configuration</span></span>
+<span data-ttu-id="b6bf5-111">若要满足支持需求，合作伙伴可能转售支持从另一个实体、 外包全部或部分支持的结构和/或他们可能设置结构直接提供支持。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-111">To fulfill the support requirement, the partner may resell support from another entity, they may outsource all or part of their support structure and/or they may set up a structure to provide support directly.</span></span>  <span data-ttu-id="b6bf5-112">合作伙伴可能收取全部或部分提供给客户的支持。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-112">The partner may charge for all or part of the support provided to customers.</span></span> <span data-ttu-id="b6bf5-113">合作伙伴应表明其客户的支持，它们将提供的服务时间并联系方法，以及定价 （如果充电支持）。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-113">The partner should articulate to their customers the support they will provide, the service hours and contact method, as well as the pricing (if charging for support).</span></span> 
 
--   <span data-ttu-id="3cdd7-113">解决性能问题、服务可用性问题、客户端连接问题，以及由于缺少设置或错误配置设置、不完整的软件集成、权限问题或其他部署问题而导致的客户端桌面问题。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-113">Resolving performance issues, service availability issues, client connectivity problems, and client desktop problems due to missing or mis-configured settings, incomplete software integration, permissions problems, or other deployment issues.</span></span>
+<span data-ttu-id="b6bf5-114">合作伙伴所需的客户接收传入的支持请求、 诊断问题的合作伙伴的功能，然后解决问题的作用域内的基线支持范围。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-114">Partners are required to receive incoming support requests from customers, diagnose issues to the best of the partner’s ability and then resolve issues that are within scope of the baseline support boundaries.</span></span> <span data-ttu-id="b6bf5-115">如果合作伙伴无法解决的问题，它们可以提升到 Microsoft 通过以下支持汽车的问题：</span><span class="sxs-lookup"><span data-stu-id="b6bf5-115">If the partner is unable to resolve an issue, they can escalate issues to Microsoft via the following support vehicles:</span></span>
 
--   <span data-ttu-id="3cdd7-114">管理服务和软件的更新</span><span class="sxs-lookup"><span data-stu-id="3cdd7-114">Managing updates for services and software</span></span>
+- <span data-ttu-id="b6bf5-116">**商业**支持问题是适用于云解决方案提供商计划中的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="b6bf5-116">**Commercial** issue support is available to all partners in the CSP program</span></span>
+-   <span data-ttu-id="b6bf5-117">可通过**技术**支持问题是：</span><span class="sxs-lookup"><span data-stu-id="b6bf5-117">**Technical** issue support is available through:</span></span>
+    -   <span data-ttu-id="b6bf5-118">Premier 支持适用于合作伙伴 （费用基本）</span><span class="sxs-lookup"><span data-stu-id="b6bf5-118">Premier Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="b6bf5-119">高级的支持合作伙伴 （费用基本）</span><span class="sxs-lookup"><span data-stu-id="b6bf5-119">Advanced Support for Partners (fee base)</span></span>
+    -   <span data-ttu-id="b6bf5-120">签名云支持 （包含在金牌/银牌能力）</span><span class="sxs-lookup"><span data-stu-id="b6bf5-120">Signature Cloud Support (included with Gold/Silver competency)</span></span>
 
--   <span data-ttu-id="3cdd7-115">使用问题的解答</span><span class="sxs-lookup"><span data-stu-id="3cdd7-115">Answers to usage questions</span></span>
+## <a name="providing-billing-subscription-management-and-technical-support"></a><span data-ttu-id="b6bf5-121">提供计费、 订阅管理和技术支持</span><span class="sxs-lookup"><span data-stu-id="b6bf5-121">Providing billing, subscription management, and technical support</span></span> 
 
-<span data-ttu-id="3cdd7-116">云解决方案提供商必须向客户提供他们将如何获得支持的清楚说明。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-116">Cloud Solution Providers must provide a clear description to customers of how they will receive support.</span></span> <span data-ttu-id="3cdd7-117">如果你不提供全天候电话支持，则必须提供服务级别协议来向你的客户解释这些选项。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-117">If you do not provide round-the-clock phone support, you must provide a service level agreement to explain the options to your customers.</span></span> <span data-ttu-id="3cdd7-118">Microsoft 不会向云解决方案提供商客户提供支持。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-118">Microsoft does not provide support to CSP customers.</span></span>
+<span data-ttu-id="b6bf5-122">每个联机服务的特定和详细要求向客户提供计费、 订阅管理和技术支持。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-122">Each online service has specific and detailed requirements for providing billing, subscription management, and technical support to customers.</span></span> <span data-ttu-id="b6bf5-123">请参阅以下文档中的详细信息。</span><span class="sxs-lookup"><span data-stu-id="b6bf5-123">Refer to the following documents for more information.</span></span>
 
-## <span data-ttu-id="3cdd7-119"><a href="" id="supportingtrainingcustomers"></a>支持和培训客户</span><span class="sxs-lookup"><span data-stu-id="3cdd7-119"><a href="" id="supportingtrainingcustomers"></a>Supporting and training your customers</span></span>
+-   [<span data-ttu-id="b6bf5-124">通过云解决方案提供商销售 Dynamics 365 订阅</span><span class="sxs-lookup"><span data-stu-id="b6bf5-124">Dynamics 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+
+-   [<span data-ttu-id="b6bf5-125">通过云解决方案提供商销售的 azure 订阅</span><span class="sxs-lookup"><span data-stu-id="b6bf5-125">Azure subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+
+-   [<span data-ttu-id="b6bf5-126">通过云解决方案提供商销售 office 365 订阅</span><span class="sxs-lookup"><span data-stu-id="b6bf5-126">Office 365 subscriptions sold through CSP</span></span>](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
-<span data-ttu-id="3cdd7-120">如果你提交了大量的帮助和操作方法问题，但你帐户上的采用数较低，或者你正在寻找提高销售的机会，你可能会考虑培训课程。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-120">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider training courses.</span></span> <span data-ttu-id="3cdd7-121">通过教你的客户如何更好地使用他们购买的云解决方案软件，你可能会看到工作效率和满意度的上升，以及支持需求的降低。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-121">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span> <span data-ttu-id="3cdd7-122">有关建议和使用技巧，请参阅[提高采用率和满意度](increasing-adoption-and-satisfaction.md)。</span><span class="sxs-lookup"><span data-stu-id="3cdd7-122">For suggestions and tips, see [Increase adoption and satisfaction](increasing-adoption-and-satisfaction.md).</span></span>
-
-## <a name="customer-support"></a><span data-ttu-id="3cdd7-123">客户支持</span><span class="sxs-lookup"><span data-stu-id="3cdd7-123">Customer support</span></span>
-
-
-[<span data-ttu-id="3cdd7-124">提供计费支持</span><span class="sxs-lookup"><span data-stu-id="3cdd7-124">Provide billing support</span></span>](provide-billing-support.md)
-
-[<span data-ttu-id="3cdd7-125">提供技术支持</span><span class="sxs-lookup"><span data-stu-id="3cdd7-125">Provide technical support</span></span>](provide-technical-support.md)
-
-[<span data-ttu-id="3cdd7-126">来自 Microsoft 的客户通讯</span><span class="sxs-lookup"><span data-stu-id="3cdd7-126">Customer communication from Microsoft</span></span>](customer-communication-from-microsoft.md)
-
-[<span data-ttu-id="3cdd7-127">客户自我支持</span><span class="sxs-lookup"><span data-stu-id="3cdd7-127">Customer self-support</span></span>](customer-self-support.md)
-
-[<span data-ttu-id="3cdd7-128">将问题上报给 Microsoft</span><span class="sxs-lookup"><span data-stu-id="3cdd7-128">Escalate problems to Microsoft</span></span>](escalate-problems-to-microsoft.md)
 
  
 
