@@ -5,12 +5,12 @@ ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c5735a61a867c06268bb2257f3295d49bbe83f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 402920613cb5b45608f9099d250d79809a8d9f5a
+ms.sourcegitcommit: 6ad681d132ab60bf09cd01eba385a9fad7563fa7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874567"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "3405429"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
@@ -61,6 +61,12 @@ ms.locfileid: "2874567"
 
 >[!Important]
 >用户必须分配有至少一个角色，才能在合作伙伴仪表板中工作。
+
+
+### <a name="find-your-global-admin"></a>查找你的全局管理员
+
+有时用户可能需要更改其角色或新用户可能需要特定角色分配。  
+若要查找的全局管理员用户可以进行角色更改或分配角色给新用户，从顶部的**设置图标**右侧的仪表板，选择**用户管理**和筛选器在全局管理员。 
 
 有关的角色和每个角色可以执行的操作的特定信息，请参阅[分配用户权限](permissions-overview.md)。
 
