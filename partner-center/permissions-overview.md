@@ -4,12 +4,12 @@ description: 必须为每个需要在合作伙伴仪表板中工作的员工分�
 author: labrenne
 keywords: 角色、 权限、 管理员、 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6e32b5e65d2d1dc52a5703fc405a14f9d5bc3e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
+ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875987"
+ms.lasthandoff: 09/07/2018
+ms.locfileid: "3630608"
 ---
 # <a name="assign-users-roles-and-permissions"></a>分配用户角色和权限
 
@@ -62,6 +62,7 @@ ms.locfileid: "2875987"
 <td><ul>
 <li><p>查看、创建和管理用户</p></li>
 <li><p>查看所有合作伙伴档案</p></li>
+<li><p>查看、创建和管理合作伙伴用户</p></li>
 </ul></td>
 </tr>
 <tr class="even">
