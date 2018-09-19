@@ -4,12 +4,12 @@ description: 购买适用于 Microsoft 产品的第三方软件
 author: labrenne
 keywords: 第三方产品/服务, 要购买的软件
 ms.localizationpriority: medium
-ms.openlocfilehash: 7efeaee27abf7c08574c7ab81fc4303ffda3221f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
+ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875517"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "4062159"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>将第三方软件添加到产品组合
 
@@ -21,7 +21,7 @@ ms.locfileid: "2875517"
 
 当前，合作伙伴中心提供与 Azure、Office 365 和 Dynamics 集成的第三方产品/服务。 
 
-## <a name="connecting-with-third-party-partners"></a>与第三方合作伙伴联系
+## <a name="connect-with-third-party-partners"></a>与第三方合作伙伴联系
  
 作为云解决方案提供商合作伙伴，你将能够搜索第三方软件产品/服务。 你可以与 ISV 合作伙伴联系，并构建自己的产品目录。 ISV 合作伙伴还可以搜索要与之合作的云解决方案提供商合作伙伴。 他们可以搜索你销售的 Microsoft 产品类型并查看你的业务配置文件。 使业务配置文件保持最新，这一点很重要。 通过单击产品标识符上的“我感兴趣”按钮并填写弹出的表单，通知你感兴趣的产品的 ISV 合作伙伴。 Microsoft 会将其发送给 ISV 合作伙伴。 他们的回复保留在合作伙伴中心中。 同样，当 ISV 合作伙伴有意向与你合作时，你将通过合作伙伴中心收到通知。 尽可能在 48 小时内回复。
 
