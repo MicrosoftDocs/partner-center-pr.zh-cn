@@ -5,12 +5,12 @@ ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 25f57a2ddc16ebb1f98d6f2f083fca870b74fdff
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dadd034214edabcea3d96c7e86f9c1de609dd3d3
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876267"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197685"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -32,7 +32,11 @@ ms.locfileid: "2876267"
 
 **Microsoft Azure**
 
-**注意**：若要在 Azure 中为客户创建服务请求，你的间接提供商必须授予你该客户的 Azure 帐户的访问权限。 这不同于代表 Office 365 客户进行管理。   
+**注意**当你需要为你在 Azure 中的客户创建服务请求时，请注意以下：
+
+- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限，客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
+
+- 尽管在合作伙伴中心支持人员管理员无法在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
 
 1.  选择**新建支持请求**。
 2.  使用相应信息填写支持请求，然后选择**创建**：
@@ -90,9 +94,9 @@ ms.locfileid: "2876267"
 
 **如何获取其他 Dynamics 365 支持？**
 
- 如果你遇到相关的问题： Dynamics 365 计划订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
+ 如果你遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
  
-联系[支持人员 Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
+请联系[支持人员 Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
 阅读[Microsoft Dynamics 支持](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 

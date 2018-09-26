@@ -4,20 +4,20 @@ description: 销售通过云解决方案提供商的软件订阅。
 author: maggiepuccievans
 keywords: 云解决方案提供商，云解决方案提供商，基于云的服务，Azure，Azure RI、 Windows Server、 SQL Server，软件订阅
 ms.localizationpriority: medium
-ms.openlocfilehash: e3333183729b3d04cb3258aa8ae32e23547495a9
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1bce2288f21398483719dab27e2f91040bc3abd2
+ms.sourcegitcommit: 4a01f039c35ea327db747732d368f2e530e76f9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875317"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "4197675"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>销售通过云解决方案提供商的软件订阅
 
-通过将 Azure 预留的实例和 Windows Server 和 SQL Server 订阅 Microsoft 云解决方案提供商计划，Microsoft 是更好地帮助其合作伙伴满足快速增长客户需求，从而为多个经济高效的解决方案，以支持高度可预测和持久云工作负荷。 
+通过将 Azure 预留的实例和 Windows Server 和 SQL Server 订阅移植到 Microsoft 云解决方案提供商计划，Microsoft 是更好地帮助其合作伙伴满足快速增长的客户需求，从而为多个经济高效的解决方案，以支持高度可预测和持久云工作负荷。 
 
 你现在可以获取、 预配，和管理 Azure 预留的实例和服务器订阅通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户通过利用 Azure 混合权益。 
 
-Azure 混合权益可帮助你从 Windows Server 许可证中获取更多的价值和节省 40%的虚拟机。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 视版本而定，你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（Linux 虚拟机费率）。
+Azure 混合权益可帮助你从 Windows Server 许可证中获取更多的价值和虚拟机上保存达 40%。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 视版本而定，你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（Linux 虚拟机费率）。
 
 > [!NOTE]  
 > Azure 预留实例在以下市场中不可用：  
@@ -42,7 +42,8 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多的价�
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>购买软件订阅代表客户
 
-若要购买软件订阅代表客户，请转到客户的详细信息页面上，选择添加产品，然后按照屏幕说明来创建和支付你的订单。
+若要购买软件订阅代表客户，转到客户的详细信息页面上，选择**添加产品**，然后按照屏幕说明来创建和支付你的订单。 所有商业定价排除税澳大利亚和巴西除外。 对于澳大利亚和巴西，价格包括税款。
+
 
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
@@ -58,11 +59,11 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多的价�
 5.  选择**下载**以开始下载，或选择**复制链接**复制链接并将其发送给客户。 
 
 >[!NOTE]
->此链接将过期后两周或 50 下载，首先为准。 链接到期后返回到此页面并选择**获取密钥和下载**，再次以启用另一个两周或 50 下载。 你可以根据需要多次执行此操作。 
+>此链接将过期后两周或 50 下载，首先为准。 链接到期后返回到此页面，然后选择**获取密钥和下载**再次若要启用其他两周或 50 下载内容。 你可以根据需要多次执行此操作。 
 
 
 ## <a name="cancel-a-purchase"></a>取消购买
-使用以下过程来取消购买。 取消完成后，将吊销软件密钥。 
+使用以下过程可以取消购买。 取消完成后，将吊销软件密钥。 
 
 >[!NOTE]
 >你必须是管理员代理才能取消购买。 
@@ -70,17 +71,17 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多的价�
 >[!NOTE]
 >你可以取消进行购买的 60 天内购买。 没有任何终止费用。 你不能在 60 天后取消。 
 
-1.  在开始之前过程，请确保你具有以下： 
+1.  此过程前，请确保你具有以下： 
     -   客户租户 GUID 或域名称
     -   订单 ID 或订阅 ID
     -   退款原因
     -   请求的金额
 
-2.  在客户的详细信息页面上，选择**软件**。 你将看到已购买的所有软件的列表。 
+2.  在客户的详细信息页上，选择**软件**。 你将看到所有已购买的软件的列表。 
 
-3.  找到你想要取消，的软件，并选择**取消**。 **报告合作伙伴中心问题**页面。 
+3.  查找你想要取消，的软件，并选择**取消**。 **报告合作伙伴中心问题**页面。 
 
-4.  在**详细信息**，在**问题类型**列表中，选择**云解决方案提供商的购买退款，可代表客户**。
+4.  在**详细信息**，在**问题类型**列表中，选择**云解决方案提供商的采购退款，可代表客户**。
 
 5.  填写**影响**和**标题**字段。 
 
@@ -90,7 +91,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多的价�
     -   退款原因
     -   请求的金额
 
-7.  在**联系人**字段中，输入姓名、 电子邮件地址和电话号码。 
+7.  在**联系人**字段中，输入你的姓名、 电子邮件地址和电话号码。 
 
 8.  如果你需要附加出于任何原因文件，选择**添加文件**。 此步骤可选。 
 
