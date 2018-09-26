@@ -4,12 +4,12 @@ description: 必须为每个需要在合作伙伴仪表板中工作的员工分�
 author: labrenne
 keywords: 角色、 权限、 管理员、 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: 990d795a6a8b47b061f1853b67243ce21046205b
-ms.sourcegitcommit: 10d2df6a02cfe616e8184632b0676d5fe170ef22
+ms.openlocfilehash: b020c7b57874859d54c2b9c638302ab74a21b93a
+ms.sourcegitcommit: 6de78bec6b51b3b30052dfd0ad3f9fbdec31abae
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/07/2018
-ms.locfileid: "3630608"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "4227441"
 ---
 # <a name="assign-users-roles-and-permissions"></a>分配用户角色和权限
 
@@ -17,17 +17,19 @@ ms.locfileid: "3630608"
 
 - 合作伙伴仪表板
 
-在仪表板中的每个角色附带某些允许用户完成特定任务的权限。 在仪表板中的工作原理的人必须分配一个角色。
+在仪表板中的每个角色附带某些权限，从而允许用户完成特定任务。 在仪表板中的工作原理的人必须分配一个角色。
 
-具体取决于你的组织大小某些用户可能工作跨位置或仅用于一个位置。 
+具体取决于组织的规模某些用户可能工作跨位置或仅用于一个位置。 
 
 例如：
 
-- 全局管理员可以在适用法律于企业和为特定位置; 管理员全局管理员可以管理业务的位置之一或者。 
+- 全局管理员可以是法定公司和为特定位置; 的管理员全局管理员可以管理业务的位置之一或者。 
 - 奖励管理员可以管理的一个或多个位置，但需要指定这些位置。
 
 
 下表介绍了每个角色可以在合作伙伴仪表板执行的操作。 考虑如何分配角色时，需要考虑用户在组织中所做的工作。 例如，你可能也希望全局管理员成为管理员代理。 处理市场营销的人员也可能是应该管理业务档案的人员。
+
+角色和权限的概述，请阅读[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)。
 
 <table>
 <colgroup>
