@@ -5,12 +5,12 @@ ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: 70158f70388e4f0c458b22bccea539c36eef3700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875177"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377539"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -24,8 +24,8 @@ ms.locfileid: "2875177"
 
 云解决方案提供商计划中选择按月计费的合作伙伴会为其客户的订阅（基于许可证和基于使用情况）向 Microsoft 支付为期 60 天的欠款。
 
->**注意**<br>
-发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期起四 (4) 天内可提供发票。
+> [!NOTE]  
+> 发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期起四 (4) 天内可提供发票。
 
 你将收到一张基于许可证的 (Office365) 和基于使用情况 (Azure) 费用的发票和一次性 （Azure 虚拟机预留实例） 的单独发票费用。
 
@@ -85,8 +85,8 @@ ms.locfileid: "2875177"
 </ul></td>
 </tr>
 <tr class="odd">
-<td>其他积分</td>
-<td>税务独占信用。</td>
+<td>其他信用额度</td>
+<td>税务独占的信用。</td>
 </tr>
 <tr class="even">
 <td>当前总费用</td>

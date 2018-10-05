@@ -3,12 +3,12 @@ title: 创建合作伙伴中心帐户 | 合作伙伴中心
 description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐户，才能管理其网络权益和能力，以及创建业务档案。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 5687b933923da3e554924e14cfd0dca88a64243e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876777"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377769"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -60,7 +60,8 @@ ms.locfileid: "2876777"
 
     主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（可以是你或贵公司中的其他人）。 我们还将使用此信息来验证此人是否在贵公司中工作以及是否已注册合作伙伴中心帐户。
 
-    >**重要提示**<br> 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
+    > [!IMPORTANT]  
+    > 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
 
 4.  阅读并接受 Microsoft 合作伙伴网络协议中的条款和条件。 
 

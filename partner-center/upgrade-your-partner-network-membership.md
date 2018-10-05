@@ -4,12 +4,12 @@ description: 升级你的 Microsoft 合作伙伴网络成员身份后，你将�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a8165a6e7f24437a556ecd72e4e87966b148db0a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875707"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377779"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
@@ -46,7 +46,8 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
 有关 Microsoft Action Pack 的详细信息，请转到[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
->**注意** 点击此链接会将你带到其他网站。 返回到此合作伙伴中心站点以订阅 Action Pack。
+> [!NOTE]  
+> 点击此链接将你带到其他网站。 返回到此合作伙伴中心站点以订阅 Action Pack。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>订阅 Microsoft Action Pack
@@ -75,8 +76,8 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
 3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择**关闭自动续订**。 
 
-    >**注意**<br>
-如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
+   > [!NOTE]  
+> 如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>续订 Action Pack 订阅

@@ -5,12 +5,12 @@ ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 73e823ae0b5d0254b44af789a3d4203247cb1367
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e9184a47c5f12900f9a7acb0d33d5d5c9f1f4fa
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876277"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377699"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
@@ -61,7 +61,8 @@ ms.locfileid: "2876277"
 
 #### <a name="post-purchase-customer-account-management"></a>购买后客户帐户管理
 - 与客户沟通，在了解他们的云使用业务需求的同时，设置适当的监测阈值
-    >**注意**：你可以在合作伙伴中心[设置每月 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)，以监测客户当月的 Azure 使用情况，系统会在客户帐单金额接近预算时通知你。
+    > [!NOTE]  
+    >  你可以在指定月份内监视客户使用情况和客户接近预算时收到通知的合作伙伴中心中[设置每月的 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)。
 - 定期监测[客户活动日志](activity-logs.md)以帮助及早检测出欺诈行为
 - 在检测到可疑活动时快速采取行动
 - 在授予客户对订阅的完全管理访问权限之前，请务必先进行风险缓解控制
@@ -74,8 +75,8 @@ ms.locfileid: "2876277"
 
 有关可以降低在线风险的更多详细策略，请参阅[在线交易风险管理指南](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)。
 
->**重要提示**<br>
-如果 Microsoft 检测到我们确认或怀疑违反可接受的使用策略的合作伙伴或客户活动，我们将采取强制措施。 客户的使用权限可能会立即被暂停，并且 Microsoft 将通知你强制执行措施或应你请求告知你最新进展。
+> [!IMPORTANT]  
+> 如果 Microsoft 检测到我们确认或怀疑违反可接受的使用策略的合作伙伴或客户活动，我们将采取强制措施。 客户的使用权限可能会立即被暂停，并且 Microsoft 将通知你强制执行措施或应你请求告知你最新进展。
 
  
 

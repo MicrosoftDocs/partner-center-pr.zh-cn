@@ -4,12 +4,12 @@ description: 我们的合作伙伴使用许多指标测量他们的业务是否�
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b08e68a9c158d024a885521dbac8beaab5323d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875607"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377609"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -21,7 +21,8 @@ ms.locfileid: "2875607"
 
 你可以通过云解决方案提供商计划查看所有客户的数据。 请注意，某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证，在此情况下，你将看到所有合作伙伴的许可证总数。 若要仅查看你自己的许可证，请改为转到客户的订阅。
 
->**注意**<br> 目前，我们仅显示 Office 365 和 Dynamics 365 的数据。 将来，我们将会启用其他产品的数据。
+> [!NOTE]  
+>  目前，我们仅显示 Office 365 和 Dynamics 365 的数据。 将来，我们将会启用其他产品的数据。
 
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 

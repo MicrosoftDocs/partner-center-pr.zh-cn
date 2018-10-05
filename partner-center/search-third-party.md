@@ -4,12 +4,12 @@ description: 搜索并找到非常适合你的产品组合的第三方产品/服
 author: labrenne
 keywords: 第三方产品/服务, 要购买的软件, 搜索第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: dc7d7c8a0d24f184c2e6a21406a1d5d26c961902
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876717"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377499"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>发现你要销售的第三方产品/服务
 
@@ -51,7 +51,8 @@ ms.locfileid: "2876717"
 7.  添加订阅后，通过单击订阅列表中的订阅名称来打开它。 
 8.  在 **订阅编辑**页面上，可以更改许可证数量或者暂停订阅。
 
->**注意**<br> 在第三方管理员站点上将许可证分配给你的客户。
+> [!NOTE]  
+>  在第三方管理员站点上将许可证分配给你的客户。
 
     
 

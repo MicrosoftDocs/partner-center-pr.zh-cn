@@ -3,12 +3,12 @@ title: 注册德国 Microsoft 云的云解决方案提供商计划 | 德国 Micr
 description: 在注册德国 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: de500792bc0af3d7e8dac82daef28e16777a27b1
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877497"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377649"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>注册德国 Microsoft 云的云解决方案提供商计划
 
@@ -24,8 +24,8 @@ ms.locfileid: "2877497"
 
 如果你在合作伙伴中心中已有帐户且要注册德国 Microsoft 云的云解决方案提供商计划，必须为德国 Microsoft 云合作伙伴中心创建新的单独帐户。
 
->**重要**<br>
-如果你已注册云解决方案提供商计划，还想向德国 Microsoft 云国家/地区内的客户和合作伙伴销售，你需要为这个特定市场创建新的合作伙伴中心帐户。  
+> [!IMPORTANT]  
+> 如果你已注册云解决方案提供商计划，还想向德国 Microsoft 云国家/地区内的客户和合作伙伴销售，你需要为这个特定市场创建新的合作伙伴中心帐户。  
 
 要创建合作伙伴中心帐户并注册德国 Microsoft 云的云解决方案提供商计划，你需要提供以下信息（你可能要在开始注册前收集此信息）：
 
@@ -36,7 +36,7 @@ ms.locfileid: "2877497"
 
 ### <a name="step-1---create-an-account-for-partner-center-for-microsoft-cloud-germany"></a>步骤 1 - 为德国 Microsoft 云合作伙伴中心创建一个帐户 
 
-1.  若要注册德国 Microsoft 云的云解决方案提供商，请转到[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)和选择**登录**。 
+1.  若要注册德国 Microsoft 云的云解决方案提供商，请转到[https://partnercenter.microsoft.com/register/resellereujoinnow](https://partnercenter.microsoft.com/register/resellereujoinnow)，然后选择**登录**。 
 
 2.  使用你公司用于 Office 365、Microsoft Azure 或 Microsoft Dynamics 的德国 Microsoft 云帐户的全局管理员凭据登录。 如果你的公司没有这些门户的帐户，请选择**创建帐户**以注册帐户。
 
@@ -56,8 +56,8 @@ ms.locfileid: "2877497"
 
 2.  选择**接受并继续操作**。 我们审查你的申请可能需要几天时间。 完成审查后，我们将通过电子邮件通知你。
 
-    >**重要**<br>
-    通过选择**接受并继续操作**，即表示你确认你已获得授权代表你的公司，且你同意允许 Microsoft 在审查你公司的云解决方案提供商申请前执行背景信用检查。
+> [!IMPORTANT]  
+> 通过选择**接受并继续操作**，即表示你确认你已获得授权代表你的公司，且你同意允许 Microsoft 在审查你公司的云解决方案提供商申请前执行背景信用检查。
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-germany"></a>步骤 3 - 签署德国 Microsoft 云经销商协议 
 
@@ -69,8 +69,8 @@ ms.locfileid: "2877497"
 
 德国 Microsoft 云提供 Microsoft Azure 的单独实例，它由在德国运行专用网络的德国数据中心提供。 若要允许管理员管理 Azure 德国门户中的用户和许可证，你将需要手动将管理员代理角色分配给他们。
 
->**注意**<br>
-将用户分配给管理员代理角色后，你的“仪表板”菜单中将显示**客户**菜单，你将能够访问你的客户列表和[添加新的客户](add-a-new-customer.md)。   
+> [!NOTE]  
+> 将用户分配给管理员代理角色后，你的“仪表板”菜单中将显示**客户**菜单，你将能够访问你的客户列表和[添加新的客户](add-a-new-customer.md)。   
 
 1.  登录到 Azure 德国门户https://portal.microsoftazure.de/。
 

@@ -4,12 +4,12 @@ description: 如果用户忘记了密码，你可以为他们分配一个新的�
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: d8b69ed976b8ee24edc9060a7d0d5fd252ea02bd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 02c45caba9b1a3c5452626d728359eaa300f93b8
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876837"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377419"
 ---
 # <a name="reset-a-user-password"></a>重置用户密码
 
@@ -17,7 +17,8 @@ ms.locfileid: "2876837"
 
 -  合作伙伴中心
    
->**注意** 如果你已在德国 Microsoft 云中注册云解决方案提供商 (CSP) 计划，请参阅 [德国 Microsoft 云合作伙伴中心中的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)以了解有关重置用户密码的信息。
+> [!NOTE]  
+>  如果你已在德国 Microsoft 云的云解决方案提供商 (CSP) 计划中注册，信息，请参阅[德国 Microsoft 云合作伙伴中心中的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)有关重置用户密码。
 
 如果用户忘记了密码，请为他们分配一个临时密码。 他们可以在下次登录合作伙伴中心时使用它。
 

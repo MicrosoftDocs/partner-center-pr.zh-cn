@@ -3,12 +3,12 @@ title: 使用促销吸引新客户 | 合作伙伴中心
 description: 作为云解决方案提供商计划中的 Microsoft 合作伙伴，你可以以促销定价购买订阅并将优惠传递给你的客户。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 36d48757940aa3659d3513133afe2c0d98bbd3bb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 17317d8d458601bc8b148f5a13ea3e317b77af47
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875377"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377679"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促销吸引新客户  
 
@@ -34,8 +34,8 @@ Microsoft 提供以下两种类型的促销：适用于云解决方案提供商 
 
 你可以在**促销**页面上查看你有资格参与的促销（如果有）。 从**仪表板**菜单中选择**促销**，以查看当前促销的列表，以及该订阅的折扣、促销类型及开始日期和结束日期。 如果没有可用促销，你将看到一条消息说明此情况。 
 
->**注意**<br>
-你也可以在购物时查看促销。 选择订阅时，折扣百分比会显示在**查看**页面上。
+> [!NOTE]  
+> 你也可以在购物时查看促销。 选择订阅时，折扣百分比会显示在**查看**页面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>按折扣价格购买订阅
 

@@ -4,12 +4,12 @@ description: 现在，你可以向合作伙伴中心中的客户分配 Azure 订
 author: Labrenne
 keywords: Azure, Azure 订阅, 订阅, 分配订阅, 管理 azure 订阅
 ms.localizationpriority: medium
-ms.openlocfilehash: cc847b9a0cab253c911141c26c4ab457ad0d98cc
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: cb683e97d5983b3bb8693efb93b91c0569ab0513
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875007"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377559"
 ---
 # <a name="assign-azure-subscriptions-in-the-partner-dashboard"></a>在合作伙伴仪表板中分配 Azure 订阅
 
@@ -37,7 +37,8 @@ ms.locfileid: "2875007"
 
 1.  若要打开客户的 Azure 门户，请在客户列表中展开客户的列表，或者选择客户的名称，然后选择 **Microsoft Azure 管理门户**。
     
- >**注意** <br> 如果系统提示你登录 Azure 门户，可能是因为你未获得委托管理权限。 请选择**请求建立关系**以邀请客户将你确定为他们的记录合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。 
+> [!NOTE]  
+> 如果系统提示你登录 Azure 门户，可能是因为你未获得委托管理权限。 请选择**请求建立关系**以邀请客户将你确定为他们的记录合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。 
 
 2.  在 Azure 门户中，打开客户的订阅列表并选择客户的 Azure 订阅。
 

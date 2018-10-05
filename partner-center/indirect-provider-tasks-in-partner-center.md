@@ -3,12 +3,12 @@ title: 与云解决方案提供商计划中的间接经销商合作 |合作伙�
 description: 作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bdb60386eda7c9b46f7616662cec6775b111ca1d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876767"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377759"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -46,7 +46,8 @@ ms.locfileid: "2876767"
 
 完成这些步骤后，你可以利用**仪表板**菜单在**间接经销商**页面上管理你的经销商合作关系。
 
->**重要提示**<br> 在你开始与经销商合作之前，他们必须在云解决方案提供商计划中注册为间接经销商并且必须具有合作伙伴仪表板帐户。 指引你的经销商访问[与云解决方案提供商计划中的间接提供商合作](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，使其了解关于注册云解决方案提供商计划的信息。 
+> [!IMPORTANT]   
+> 在你开始与经销商合作之前，他们必须在云解决方案提供商计划中注册为间接经销商并且必须具有合作伙伴仪表板帐户。 指引你的经销商访问[与云解决方案提供商计划中的间接提供商合作](https://msdn.microsoft.com/partner-center/indirect-reseller-tasks-in-partner-center.md)，使其了解关于注册云解决方案提供商计划的信息。 
 
 ## <a name="connect-with-indirect-resellers"></a>与间接经销商联系
 
@@ -59,8 +60,8 @@ ms.locfileid: "2876767"
 2. 在**间接经销商**页面上，选择**请求建立合作关系**。 此时将显示草稿电子邮件。
 
 3. 选择**在电子邮件中打开**以在默认的电子邮件应用程序中打开该邮件，或者选择**复制到剪贴板**以复制邮件然后将其粘贴到电子邮件中。 完成后选择**完成**。
-
-   >**重要提示** 你可以编辑电子邮件中的文本，但是请确保包含链接，因为它针对你的合作伙伴仪表板帐户进行了个性化设置。
+    > [!IMPORTANT]  
+    >  你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置为你的合作伙伴仪表板帐户。
 
 4. 在经销商接受你的合作关系请求后，经销商将显示在间接经销商列表中，并且你将能够： 
 
@@ -97,8 +98,8 @@ ms.locfileid: "2876767"
 5.  如果订单正确，请选择**提交**。 如果订单不正确，请选择**取消**以取消整个操作并重新开始。
 
 6.  在你提交订单之后，将会出现**确认**页面。 **设置信息**下面显示了管理员用户帐户名称和临时密码。 记下用户帐户名称和密码信息，以便你可以将其发送给新客户。 
-
-    >**重要提示**  请务必记下用户帐户名称和密码，因为在关闭此页面后，你将无法再次访问该信息。
+    > [!IMPORTANT]  
+    > 请务必记下用户帐户名和密码为你将无法再次访问此信息后关闭此页面。
 
 7.  选择**完成**。 新客户将出现在与间接经销商相关联的客户列表中。 经销商现在对客户的帐户信息和订阅具有管理员访问权限，并且可以代表客户管理订阅。
 

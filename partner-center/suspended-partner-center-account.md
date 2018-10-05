@@ -4,12 +4,12 @@ description: 了解如何恢复暂停的合作伙伴中心帐户、合作伙伴�
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e24b176e5973512afc755d684a08615c6ff06289
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: da54c5bdbf9b28eb54d459b0b383b067478b0b6f
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877027"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377549"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>恢复暂停的合作伙伴中心帐户
 
@@ -21,8 +21,8 @@ ms.locfileid: "2877027"
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
->**重要**<br>
-合作伙伴中心帐户被暂停时，你可继续管理现有部署、许可证和服务。 但是，在你的帐户恢复正常前你将无法授权或转售新许可证或服务。
+> [!IMPORTANT]  
+> 合作伙伴中心帐户被暂停时，你可继续管理现有部署、许可证和服务。 但是，在你的帐户恢复正常前你将无法授权或转售新许可证或服务。
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>暂停合作伙伴中心帐户的原因
 

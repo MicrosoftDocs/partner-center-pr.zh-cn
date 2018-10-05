@@ -4,12 +4,12 @@ description: Office 365 合作伙伴管理员中心功能正在向合作伙伴�
 author: labrenne
 Keywords: PAC,Office 365 Advisor, advisor, syndication partner, PAC retire, PAC retiring
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d60be7349754a7200a0b8d9762a37a940e0eebb
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: dd0b3e73939f9992e32aa64571ef3fd99a61ef37
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875587"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377589"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-dashboard"></a>合作伙伴管理员中心正在向合作伙伴仪表板迁移
 
@@ -17,7 +17,8 @@ ms.locfileid: "2875587"
 
 -  合作伙伴中心
 
->**注意**：自最初发布此文章以来，所有日期已都更新。
+> [!NOTE]  
+>  后最初发布此文章以来，所有日期进行了都更新。
 
 Office 365 合作伙伴管理员中心 (PAC) 正在向 Microsoft 合作伙伴仪表板迁移。
 
@@ -36,7 +37,8 @@ Office 365 合作伙伴管理员中心 (PAC) 正在向 Microsoft 合作伙伴仪
 
 立即开始使用 [Microsoft 合作伙伴仪表板](https://partnercenter.microsoft.com/)，以为从 PAC 迁移做好准备。  对于合作伙伴仪表板，将使用用于 PAC 的相同凭据。 
 
->**重要提示**：PAC 中提供的某些特性和功能在合作伙伴仪表板将无法使用。
+> [!IMPORTANT]  
+> 某些特性和功能： PAC 中不会在合作伙伴仪表板中可用。
 
  阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。  在 [Microsoft 合作伙伴仪表板帮助](https://partnercenter.microsoft.com/partner/help)中，可找到有关帐户管理、客户管理、许可证和订阅、定价和产品/服务等的其他信息。
 

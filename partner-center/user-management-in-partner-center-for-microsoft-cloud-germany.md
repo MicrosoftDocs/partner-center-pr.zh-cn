@@ -3,12 +3,12 @@ title: 德国 Microsoft 云合作伙伴中心中的用户和许可证管理 | �
 description: 为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在德国 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在德国 Microsoft 云的 Azure 门户中添加和管理用户。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4e354fd3f5bf20ef10600a454a94704fe2db0700
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0ee4215c106076d3bc548efa50dd921ae3d5987a
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875767"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377409"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -25,8 +25,8 @@ ms.locfileid: "2875767"
 重置用户密码 | 德国 Microsoft 云的 Azure 管理门户
 许可证管理 | Office 365 管理中心或德国 Microsoft 云的 Azure Active Directory 许可门户
 
->**注意**<br>
-在本文发表时，尚未提供有关在 Azure 管理门户或 Office 365 管理门户中管理客户用户许可证的文档。
+> [!NOTE]  
+> 在本文发表时，尚未提供有关在 Azure 管理门户或 Office 365 管理门户中管理客户用户许可证的文档。
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在德国 Microsoft 云的 Azure 门户中管理用户 
 
@@ -34,7 +34,8 @@ ms.locfileid: "2875767"
 
 在你已成功登录德国 Microsoft 云的 Azure 门户后，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 
->**注意** 选择下面的链接会将你带到不同的网站。 
+> [!NOTE]  
+> 选择下面的链接将你带到不同的网站。 
 
 -  [**将新用户添加到 Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 

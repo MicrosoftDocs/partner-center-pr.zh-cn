@@ -3,12 +3,12 @@ title: 注册美国政府 Microsoft 云的云解决方案提供商计划 | 美�
 description: 在注册美国政府 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 75d39cba230966dc8c457c7a4e564714f9ee6c58
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2b4aff04574a4c16fbfe0ba28e1e7603857d3796
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877197"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377659"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -30,8 +30,8 @@ ms.locfileid: "2877197"
 -  贵组织的 Microsoft 合作伙伴网络 (MPN) ID 
 -  在美国的公司地址
 
->**重要提示**<br>
-如果你在合作伙伴中心内已有帐户，并且要注册加入美国政府 Microsoft 云的 CSP，则必须专为美国政府市场单独创建新的帐户。
+> [!IMPORTANT]  
+> 如果你在合作伙伴中心内已有帐户，并且要注册加入美国政府 Microsoft 云的 CSP，则必须专为美国政府市场单独创建新的帐户。
 
 ## <a name="how-to-enroll"></a>如何注册 
 
@@ -48,8 +48,8 @@ ms.locfileid: "2877197"
 
 2.  选择**接受并继续操作**。 我们审查你的申请可能需要几天时间。 完成审查后，我们将通过电子邮件通知你。
 
-    >**重要**<br>
-    通过选择**接受并继续操作**，即表示你确认你已获得授权代表你的组织，且你同意允许 Microsoft 在审查你组织的云解决方案提供商申请前执行背景信用检查。
+    > [!IMPORTANT]  
+    > 通过选择**接受并继续操作**，即表示你确认你已获得授权代表你的组织，且你同意允许 Microsoft 在审查你组织的云解决方案提供商申请前执行背景信用检查。
 
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>第 3 步 - 签署美国政府 Microsoft 云经销商协议
@@ -63,8 +63,8 @@ ms.locfileid: "2877197"
 
 美国政府 Microsoft 云提供一个满足政府合规、安全性和隐私标准的单独的 Microsoft Azure 实例。 若要允许管理员管理 Microsoft Azure 门户中的用户和许可证，你将需要手动将管理员代理角色分配给他们。
 
->**注意**<br>
-将用户分配至“管理员代理”角色后，他们将能够访问**客户**页面上的客户列表，并[添加新客户](add-a-new-customer.md)。   
+> [!NOTE]  
+> 将用户分配至“管理员代理”角色后，他们将能够访问**客户**页面上的客户列表，并[添加新客户](add-a-new-customer.md)。   
 
 1.  登录到 Microsoft Azure 管理门户https://portal.azure.us/。
 

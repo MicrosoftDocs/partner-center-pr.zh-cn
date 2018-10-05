@@ -4,12 +4,12 @@ description: 从合作伙伴中心下载特定于市场和语言的客户协议�
 author: Maggie Evans
 keywords: Microsoft 云协议, 客户协议模板, 云解决方案提供商客户协议, MCA, 云解决方案提供商, 通过云解决方案提供商可以在哪里进行销售？, 云解决方案提供商国家和地区, 多种语言的云解决方案提供商 MCA, 云解决方案提供商北美洲, 云解决方案提供商中美洲, 云解决方案提供商南美洲, 云解决方案提供商加勒比地区, 云解决方案提供商 Microsoft Cloud for US Government, 云解决方案提供商 Microsoft Cloud Germany, 云解决方案提供商中东地区, 云解决方案提供商非洲, 云解决方案提供商欧洲, 云解决方案提供商亚洲, 云解决方案提供商太平洋地区, 云解决方案提供商 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cd5615693a7cea51dfc11f1b6039c3a333e979b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1248e8f658fc7a851dbc92b2a88d75490fb9b7df
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877507"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377809"
 ---
 # <a name="microsoft-cloud-solution-provider-markets-and-customer-agreements"></a>Microsoft 云解决方案提供商市场和客户协议
 
@@ -17,8 +17,8 @@ ms.locfileid: "2877507"
 
 某些地点提供协议的多种语言版本，以满足客户的语言偏好要求。 请为客户提供其首选语言版本。
 
->**注意**<br>
-对于所有地区和所有语言，下面列出的 Microsoft 云协议客户模板自 2017 年 9 月 1 日起有效。
+> [!NOTE]  
+> 对于所有地区和所有语言，下面列出的 Microsoft 云协议客户模板自 2017 年 9 月 1 日起有效。
 
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北美洲、中美洲、南美洲和加勒比地区

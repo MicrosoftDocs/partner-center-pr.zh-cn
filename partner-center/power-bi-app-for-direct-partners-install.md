@@ -4,12 +4,12 @@ description: 请按照以下步骤预览适用于 Power BI（CSP 中的直接合
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0164a650fb92e4a445b195f3e7b34f1359759a8c
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8dd91d16ffe5e49271dd3c5fe50e8910299f1a1c
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874757"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377509"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -39,7 +39,8 @@ ms.locfileid: "2874757"
 
 4.  在**连接到合作伙伴中心分析**弹出窗口中，确认**身份验证方法**设置为 **oAuth2**，如果不是，请从列表中选择 **oAuth2**。 
 
-    >**注意**<br> 此窗口可能需要几分钟才会显示。
+    > [!NOTE]  
+>  此窗口可能需要几分钟才会显示。
 
 5.  在**合作伙伴中心分析连接器**页面上，使用贵公司的 Azure AD 租户的全局管理员、管理员代理或帐单管理员身份登录，然后选择**登录**。
  

@@ -4,12 +4,12 @@ description: 在某些情况下，客户可能需要聘请你对他们在别处�
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcb572f7afc9d7f75b8330a23b45eb5696c30e3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875837"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377479"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
@@ -46,8 +46,8 @@ ms.locfileid: "2875837"
 </tbody>
 </table>
 
->**重要提示**<br>
-云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴仪表板）进行公布。 
+> [!IMPORTANT]  
+> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴仪表板）进行公布。 
 
 ## <a name="see-also"></a>另请参阅
 

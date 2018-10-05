@@ -3,12 +3,12 @@ title: 与其他合作伙伴合作 | 合作伙伴中心
 description: 与云解决方案提供商中的其他合作伙伴合作，以满足你们的共同客户的需求。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: bab729b1a9021d095566395048a4eb7fa3c8d7f8
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7bac4fd3fa01495125aa054c90b79cc777455f98
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877097"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377689"
 ---
 # <a name="work-with-other-partners"></a>与其他合作伙伴合作
 
@@ -48,6 +48,6 @@ Microsoft 的国家云服务/产品中也提供多合作伙伴支持。
 
 Microsoft 的国家云产品/服务中也提供多渠道支持。
 
->**重要提示**<br>
-云解决方案提供商计划中的合作伙伴目前无法将联机服务转售给云解决方案提供商计划中的其他合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴中心）进行公布。 
+> [!IMPORTANT]  
+> 云解决方案提供商计划中的合作伙伴目前无法将联机服务转售给云解决方案提供商计划中的其他合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴中心）进行公布。 
 

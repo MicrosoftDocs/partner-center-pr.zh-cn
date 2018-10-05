@@ -3,12 +3,12 @@ title: 加入 Microsoft 合作伙伴网络 | 合作伙伴中心
 description: 在合作伙伴中心购买 Microsoft Action Pack 并获得能力
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0983b5f9b62e29495d98248e88a2820721d3e828
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877107"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377789"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作伙伴网络 (MPN)
 
@@ -37,7 +37,8 @@ ms.locfileid: "2877107"
 
 4.  如果你要通过现有组织进行注册，则将向你询问组织的名称和地址。
 
->**注意**<br> 你将需要针对每个销售地点提供你的组织总部的地址。
+> [!NOTE]  
+>  你将需要针对每个销售地点提供你的组织总部的地址。
 
 作为此免费基本级别的网络成员，你会收到一组[核心内部使用权限权益](https://partner.microsoft.com/membership/core-benefits)来帮助你建立业务和进行下一步行动。 
 

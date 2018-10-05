@@ -4,12 +4,12 @@ description: 请求建立关系用于多合作伙伴和多渠道方案。 如果
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: a1c0bb93becbc3290c24a4530aa33fda38fa8942
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877217"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377529"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -37,8 +37,8 @@ ms.locfileid: "2877217"
 5.  若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头展开客户的记录。
 
 
->**重要提示**<br>
-客户可以在服务的管理员门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在这种情况下，如果客户需要帮助，你可以致电 Microsoft 支持以代表客户打开服务请求。
+> [!IMPORTANT]  
+> 客户可以在服务的管理员门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在这种情况下，如果客户需要帮助，你可以致电 Microsoft 支持以代表客户打开服务请求。
 
 ## <a name="related-topics"></a>相关主题
 

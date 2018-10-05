@@ -4,12 +4,12 @@ description: 在合作伙伴中心中，你可以设置每个客户的每月预�
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: adea2e44dcde77ae8f6c020407cd65957fdfd5cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875367"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377469"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>为你的客户设置 Azure 费用预算
 
@@ -29,7 +29,8 @@ ms.locfileid: "2875367"
 
 Azure 费用数据是估计值，实际计费金额可能会有所不同，并且该值不反映税款、积分、调整或其他可能适用的费用。 费用数据每天刷新一次。 除非你在 Azure 门户中更改客户的帐户设置，否则你的客户将继续使用 Azure 服务和资源并需要支付相关费用。 
 
->**注意** 沙盒或生产测试 (TIP) 帐户中不提供此功能。
+> [!NOTE]  
+> 此功能不可用在沙盒或测试生产 (TIP) 帐户。
 
 **打开电子邮件通知**
 1.  从“仪表板”菜单中，选择 **Azure 费用**。

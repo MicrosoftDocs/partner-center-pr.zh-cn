@@ -5,12 +5,12 @@ author: Janet
 Keywords: Azure cost management app, manage costs, web apps
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ab388f9a178a0bfd3b3d3133da855bcddee9d4f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b24e69d21a50306cbd9bf3495fc55015d5966b17
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877447"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377799"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>面向 Azure 云解决方案提供商合作伙伴的 Azure Cost Management  
 
@@ -41,8 +41,9 @@ Azure Cost Management by Cloudyn 是一款 Web 应用，用于跟踪和管理客
 ## <a name="add-a-secret-key-to-your-app"></a>为应用添加密钥
 1.  在**添加密钥**按钮旁的下拉列表中，选择 1 年或 2 年有效期。
 2.  单击**添加密钥**。 
-3.  复制并保存密钥值。 你将需要借助此密钥使用为期 30 天的免费试用版。
-<br>**注意**：应用程序密钥类似于密码，不过有效期更久。 请将密钥值保存在安全的位置以供今后使用。
+3.  复制并保存密钥值。 你将需要借助此密钥使用为期 30 天的免费试用版。<br>
+> [!NOTE]  
+> 应用程序密钥就像密码，不过有效期更久。 请将密钥值保存在安全的位置以供今后使用。
 
 ## <a name="next-steps"></a>后续步骤
 开始使用[为期 30 天的免费试用版](https://go.microsoft.com/fwlink/?linkid=857895)。

@@ -4,12 +4,12 @@ description: 作为经销商合作伙伴，你的客户可以委派你其管理�
 author: labrenne
 keywords: 委派的管理员权限，代表管理员，删除权限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a6d14398bdd9a439bc001ecb3d03bc9d7774937
-ms.sourcegitcommit: 3478fc6fe1a061e5973307fffd039b4bee5d8e1c
+ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
+ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/08/2018
-ms.locfileid: "3806675"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4377429"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
@@ -37,8 +37,8 @@ ms.locfileid: "3806675"
 6.  若要管理客户的帐户、 服务、 用户和许可证，选择客户名称旁边的向下箭头展开客户的记录，然后选择你想要管理的服务的管理门户。
 
 
->**重要提示**<br>
-客户可以在服务的管理员门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在此情况下，如果客户需要帮助，请联系 Microsoft 支持以打开代表客户服务请求。
+> [!IMPORTANT]  
+> 客户可以在服务的管理员门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在此情况下，如果客户需要帮助，请联系 Microsoft 支持以打开代表客户服务请求。
 
 你的客户可以查找哪些合作伙伴具有在 Office 365 管理门户中从其租户的管理员权限。 若要实现此目的，请执行以下操作：
 
@@ -46,7 +46,7 @@ ms.locfileid: "3806675"
 
 2. 选择**设置** → **合作伙伴关系**。
 
-3. 在**合作伙伴关系**页面上，客户将看到的合作伙伴与它们的工作和已授予其租户的委派管理权限的列表。
+3. 在**合作伙伴关系**页面上，客户将看到的合作伙伴与其它们的工作和已授予其租户的委派管理权限的列表。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客户可以管理合作伙伴的委派管理员权限 
 
@@ -62,8 +62,8 @@ ms.locfileid: "3806675"
 2. 在详细信息窗格中，选择**删除委派管理员**。
 3. 在确认窗格中，选择**删除**。
 
->**重要事项**<br>
-合作伙伴的 Azure AD 角色分配是隐式的。 如果你尝试使用 Azure AD 门户/PowerShell/Graph 列出 Azure AD 角色的成员，将不会返回合作伙伴。 若要了解合作伙伴是否被分配了 Azure AD 角色，则必须参阅 Office 365 Admin 门户中的合作伙伴关系页面来了解是否已向该合作伙伴授予了委派管理权限。
+> [!IMPORTANT]  
+> 合作伙伴的 Azure AD 角色分配是隐式的。 如果你尝试使用 Azure AD 门户/PowerShell/Graph 列出 Azure AD 角色的成员，将不会返回合作伙伴。 若要了解合作伙伴是否被分配了 Azure AD 角色，则必须参阅 Office 365 Admin 门户中的合作伙伴关系页面来了解是否已向该合作伙伴授予了委派管理权限。
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Azure AD 中的委派管理员权限 
 
@@ -91,7 +91,7 @@ ms.locfileid: "3806675"
 
 从合作伙伴仪表板中，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限管理 Autopilot 配置文件。 了解如何[利用 Windows Autopilot 让设备设置更简单](https://docs.microsoft.com/partner-center/autopilot)。
 
-你可以执行的操作取决于在哪种云解决方案提供商模式你已注册中。
+你可以采取哪些措施取决于在哪种云解决方案提供商模式你已注册中。
 
 |**操作**   |**直接计费合作伙伴和间接提供商**   |**间接经销商**   |
 |-----------------|-----------------------------------| -----------------------------|
@@ -107,9 +107,10 @@ ms.locfileid: "3806675"
 
 - 你可以管理你或其他合作伙伴已添加的客户设备。 
 
-- 不能管理通过适用于企业的 Microsoft 应用商店，适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加了你的客户的设备。
+- 你不能管理客户已通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加的设备。
 
->**重要提示**在仪表板中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
+> [!IMPORTANT]  
+> 在仪表板中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
 
   - 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
 
