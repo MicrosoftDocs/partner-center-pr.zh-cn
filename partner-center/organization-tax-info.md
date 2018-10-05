@@ -3,12 +3,12 @@ title: 组织税收信息 | 合作伙伴中心
 description: 如果适用，必须将增值税 ID 添加到贵组织的信息中
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 050ea8fc4cdbbddf601114714ff45b312318b196
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 20fef48dcd72de52abe6917c363e5d96f1213072
+ms.sourcegitcommit: a4ac47d85af00696d3b625ecaf448d8ecaf8275d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874637"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "4381757"
 ---
 # <a name="organization-tax-information"></a>组织税收信息
 
@@ -20,9 +20,9 @@ ms.locfileid: "2874637"
 
 ### <a name="add-your-vat-id"></a>添加增值税 ID
 
-1.  从**仪表板**转到**合作关系**-> **产品/服务**
-2.  单击**添加增值税 ID**
-3.  输入贵组织的增值税 ID，然后单击**下一步**
+1.  从**仪表板**转到**成员产品/服务**-> **可用**
+2.  选择**添加增值税 ID**
+3.  输入你的组织的增值税 ID，选择**添加**，然后选择**下一步**。
 
 
 
