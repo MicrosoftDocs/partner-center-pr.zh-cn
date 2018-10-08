@@ -3,12 +3,12 @@ title: 与云解决方案提供商计划中的间接经销商合作 |合作伙�
 description: 作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 3564c7119ea2149703bcb5a6f7f1bb0d5f09d69b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: f5c5a745ba3ea8f57353529a90d09ee4fae17ccd
+ms.sourcegitcommit: 4175a0670df8c52ae5214fd0672c3fe33071210b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377759"
+ms.lasthandoff: 10/08/2018
+ms.locfileid: "4445459"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -33,7 +33,7 @@ ms.locfileid: "4377759"
 
 1.  在 [Microsoft 官方间接提供商列表](https://partnercenter.microsoft.com/partner/find-a-provider)中查看贵公司的配置文件。 
 
-    -   要更改贵公司的间接提供商配置文件，则提交合作伙伴仪表板支持请求，并且包含贵公司的名称、徽标，以及每个位置的目标 URL。 我们将在两到三个周内更新你的配置文件。<br>
+    -   若要更改贵公司的间接提供商配置文件，请联系 Microsoft 代表。<br>
 
 2.  与间接经销商联系
 
