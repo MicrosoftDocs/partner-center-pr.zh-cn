@@ -3,12 +3,12 @@ title: 试用合作伙伴中心的新功能
 description: 在发布之前抢先试用合作伙伴中心的新功能，并告诉我们你的想法。 帮助塑造合作伙伴中心的未来！
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e07db213f755fe24e98bd6dbfde08d226b09c75f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377569"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489463"
 ---
 # <a name="test-drive-new-partner-center-features"></a>试用合作伙伴中心的新功能
 
@@ -49,7 +49,7 @@ ms.locfileid: "4377569"
 
 -   使用合作伙伴中心窗口右下角的反馈表单直接向我们发送你的反馈。 
 
--   如果你遇到任何功能预览问题，可请求支持。 要创建支持请求，选择**仪表板**菜单中的 **“支持请求”>“合作伙伴中心请求”**，然后选择**合作伙伴中心请求**页面上的**新请求**。
+-   如果你遇到任何功能预览问题，可请求支持。 若要创建支持请求，请选择**支持请求 > 合作伙伴中心请求**从**合作伙伴中心**菜单，然后再选择**新建请求**的**合作伙伴中心请求**页面上。
 
 帮助我们实现你的需求！
 

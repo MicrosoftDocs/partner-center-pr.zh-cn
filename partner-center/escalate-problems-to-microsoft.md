@@ -4,12 +4,12 @@ description: 你应代表客户解决问题。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ffb4a63384a4ee51b485d832ba847315573b633
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876457"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489373"
 ---
 # <a name="escalate-problems-to-microsoft"></a>将问题上报给 Microsoft
 
@@ -35,19 +35,19 @@ ms.locfileid: "2876457"
 
 ## <a name="submit-a-support-request"></a>提交支持请求
 
-1. 从仪表板中，选择**客户**。
+1. 从合作伙伴中心中，选择**客户**。
 2. 选择所需支持的客户。
 3. 选择**服务管理**并选择**服务请求**。
 4. 选择**新建请求**，然后选择**Microsoft Office 365**。
-5. 你将转到 Office 365 门户，你需要使用合作伙伴仪表板凭据登录。
+5. 你将转到 Office 365 门户，你需要使用合作伙伴中心凭据登录。
 6. 选择**支持**，请从左侧菜单中的**新服务请求**。
 7. 选择支持主题。
 
 >[!NOTE]
->请务必开始从仪表板，以便保持合作伙伴和客户之间的关系。 
+>请务必从合作伙伴中心开始，以便维护合作伙伴和客户之间的关系。 
 
 
-代表客户报告问题的信息，请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
+有关代表客户报告问题的信息，请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
 
  
 

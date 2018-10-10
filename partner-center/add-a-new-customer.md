@@ -5,12 +5,12 @@ ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c157074bc2d64a1f25f27455e0d362c8050d5fe
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876857"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490203"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 
@@ -21,13 +21,13 @@ ms.locfileid: "2876857"
 -  德国 Microsoft 云合作伙伴中心
 
 
-你需要先在合作伙伴仪表板中创建客户帐户，然后才能销售订阅、管理计费或提供支持。 这包括客户的联系人信息和一个 Azure AD 域。
+你可以销售订阅、 管理计费或提供支持之前，你需要为你的客户在合作伙伴中心创建帐户。 这包括客户的联系人信息和一个 Azure AD 域。
 
 对于已通过[多渠道](multichannel.md)或[多个合作伙伴](multipartner.md)具有客户帐户和订阅的客户，你可以[请求与客户建立关系](request-a-relationship-with-a-customer.md)，而不是按照此处的步骤进行操作。
 
 **添加新客户**
 
-1.  从**仪表板**菜单中，选择**客户**。 然后选择**添加客户**。
+1.  从**合作伙伴中心**菜单中，选择**客户**。 然后选择**添加客户**。
 
 2.  在**帐户信息**页上，填写公司详细信息和主要联系人信息，然后选择**下一步: 订阅**。
 

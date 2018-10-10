@@ -4,12 +4,12 @@ description: 通过合作伙伴中心评估、协商和响应引荐。
 author: KPacquer
 keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 70ba5b0afac8283806955410e57d459c849ed4f4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4467a6404718a21d206980e77a9a84d7f77432dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875417"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489453"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作伙伴中心响应引荐
 
@@ -29,7 +29,7 @@ ms.locfileid: "2875417"
 
 当客户有兴趣与你联系时，他们将提交信息请求 (RFI)。 
 
-发生这种情况时，我们会将电子邮件发送给特定于选定区域和位置的[业务配置文件](create-a-marketing-profile.md)中列出的联系人。 你也可以在合作伙伴中心查看传入的 RFI：转到**仪表板 > 引荐 > 客户引荐**。
+发生这种情况时，我们会将电子邮件发送给特定于选定区域和位置的[业务配置文件](create-a-marketing-profile.md)中列出的联系人。 你还可以查看合作伙伴中心中的传入的 Rfi： 转到**合作伙伴中心 > 引荐 > 客户引荐**。
 
 客户通常会选择同时向多家公司发送相同的 RFI。 为了提高你成功的可能性，建议你在 24 小时或更短时间内响应并接受或拒绝新引荐。
 

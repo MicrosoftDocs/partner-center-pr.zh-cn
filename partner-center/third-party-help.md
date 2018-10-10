@@ -4,12 +4,12 @@ description: 现在，你可以发现并购买第三方软件，以将其添加�
 author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 8076104d1707ed4441340f82c34ff7d587938778
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877437"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489993"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>将第三方软件添加到产品组合
 
@@ -48,7 +48,7 @@ ms.locfileid: "2877437"
 
 购买第三方软件的方式与第一方软件一样。 
 
-1.  从**仪表板**中，选择**客户**。
+1.  从**合作伙伴中心**，选择**客户**。
 2.  选择**新订阅**。
 3.  选择对第三方软件采用按月计费。 年度计费和试用版计费目前不适用于第三方软件。
 4.  从**第三方**选项卡，选择想要购买的产品。

@@ -4,12 +4,12 @@ description: 利用 Windows AutoPilot 在合作伙伴中心内添加 Windows Aut
 author: KPacquer
 keywords: autopilot, windows autopilot, microsoft autopilot, 零接触部署, oobe, 登录屏幕
 ms.localizationpriority: medium
-ms.openlocfilehash: b9fc13accd5d229f66ed425ace68e0df00e14016
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 09dc187347c7d433a5edfd1feb616d0b0275acce
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877577"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489393"
 ---
 # <a name="simplify-device-setup-with-windows-autopilot"></a>利用 Windows Autopilot 简化设备设置 
 
@@ -25,7 +25,7 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 ## <a name="requirements"></a>要求
 
 *  设备预安装 Windows 10 专业版创意者更新（1703 或更高版本）或支持高级 PC 的 Windows 10 专业版。
-*  称为硬件哈希值（128 HWH 或 4k HWH）的设备标识符，这通常由 OEM 提供。 你将使用标识符分配合作伙伴仪表板内的组织简介。 
+*  称为硬件哈希值（128 HWH 或 4k HWH）的设备标识符，这通常由 OEM 提供。 你将使用标识符分配合作伙伴中心中的组织配置文件。 
 *  设备必须可访问 Internet。 设备如果无法连接，则显示默认的 Windows 全新安装体验 (OOBE) 屏幕。
 *  将设备注册到 MDM 需要 Azure Active Directory Premium。
 
@@ -45,19 +45,19 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 
 ### <a name="add-devices-and-apply-a-profile"></a>添加设备和应用配置文件
 
-从你的仪表板，可创建 Windows AutoPilot 部署配置文件，并将其应用于设备列表。
+从合作伙伴中心中，你可以创建 Windows AutoPilot 部署配置文件，并将其应用于设备的列表。
 
 若要配置设备，请上传设备列表，然后创建应用于设备的配置文件并应用它。
 
 1.  添加设备列表。
 
-    销售代理和管理员代理有权将设备列表添加到合作伙伴仪表板内。
+    （销售代理和管理员代理有权将设备列表添加到合作伙伴中心内。）
     
     间接经销商能够与他们的间接提供商合作添加此列表。
 
     a.  使用本主题中的 PowerShell 脚本创建 .csv 文件：[Windows AutoPilot 概述](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。 此 .csv 文件包含设备信息，其中包括序列号、OEM 名称、型号、产品 ID 和设备标识符。 
 
-    b.  在仪表板中，转到**客户** > 选择要接收设备的客户 > **设备 > 添加设备**。
+    b.  从合作伙伴中心中，转到**客户**> 选择要接收设备的客户 >**设备 > 添加设备**。
 
     c.  命名设备的批次，例如“Contoso 销售部门电脑 - 2017 年 4 月订购”。 
 
@@ -65,7 +65,7 @@ Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版�
 
     **注意：** 如果你尝试上传 .csv 文件后收到一条错误消息，请检查该文件的格式。 8 月之后，你可以仅使用硬件哈希，按该列顺序使用 OEM 名称、序列号和型号，或者使用 Windows 产品 ID。 你还可以使用**添加设备**旁边的链接中提供的示例 .csv 文件。
 
-2.  创建可应用于设备的配置文件。 （只有管理员代理才有权在合作伙伴仪表板内创建并应用配置文件。）
+2.  创建可应用于设备的配置文件。 （只有管理员代理有权创建并应用在合作伙伴中心中的配置文件。）
 
     a.  在**设备**中，单击**添加新的配置文件**。
 

@@ -1,25 +1,25 @@
 ---
-title: 合作伙伴仪表板加密挖掘活动通知 | 合作伙伴仪表板
+title: 合作伙伴中心加密挖掘活动通知 |合作伙伴中心
 description: 有关潜在加密挖掘发生活动的通知。
 author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f8dec91ae62b27c031739e59848118395ab52f7f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 93f4031d8e084c206ee21ff96b6c16a4c0d2ea0e
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876227"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488923"
 ---
-# <a name="partner-dashboard-notification-for-cryptocurrency-mining-activity"></a>合作伙伴仪表板加密货币挖掘活动通知
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>合作伙伴中心加密货币挖掘活动通知
 
 **适用范围**
 
--  合作伙伴仪表板
+-  合作伙伴中心
 -  云解决方案提供商合作伙伴
 
-你可能收到了关于加密货币挖掘的以下合作伙伴仪表板通知：
+你可能收到了关于加密货币挖掘的以下合作伙伴中心通知：
  
 ![](images/crypto1.png)
 
@@ -42,13 +42,13 @@ ms.locfileid: "2876227"
 
 2.  首先了解如何创建资源。 这可能要求你查看 Azure 资源管理日志以了解资源预配活动。
 
-3.  如果你需要查找创建订阅的人员，请查看合作伙伴仪表板活动日志。
+3.  如果你需要找出创建订阅者，查看合作伙伴中心活动日志。
 
 加密货币挖掘活动的检测基于试探法，可能不是 100% 准确。 请确保部署管理和监控系统，以防止欺诈或其他不允许的活动。 有关详细信息，请参阅[拒不付款、欺诈或滥用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
 
 如果对通知有任何疑问或疑虑，你可以使用以下步骤打开支持请求。
 
-1.  在“仪表板”中，依次选择**支持**和**合作伙伴中心请求**。
+1.  在合作伙伴中心中，选择**支持**，然后选择**合作伙伴中心请求**。
 3.  选择**新建请求**。 
 4.  在**问题类型**下拉菜单中，选择**添加或管理客户**。
 5.  在**影响**下拉菜单中，选择**中等**。

@@ -4,22 +4,22 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: azure，预订，管理，计费，购买，Azure RI，Azure 预留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f5073bfd82d16485e3f0d5f4c9f79b1d5b5e7c7
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876957"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489753"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>销售 Microsoft Azure 预留实例 
 
 **适用范围**
 
--  合作伙伴仪表板
+-  合作伙伴中心
 -  Microsoft Azure 门户
 -  云解决方案提供商计划中的合作伙伴
 
-云解决方案提供商计划 (CSP) 中的合作伙伴可以向其客户提供预留实例的 Microsoft Azure。 客户可以节省大量时预先在预订。 Azure 预留实例让客户简便、 灵活方式如下：
+云解决方案提供商计划 (CSP) 中的合作伙伴可以向其客户提供预留实例的 Microsoft Azure。 客户可以节省大量时预先在预订。 Azure 预留实例让整个客户简便、 灵活，按以下方式：
 
 -   预订一年或三年 
 -   轻松入门;安装完成以秒为单位 
@@ -66,13 +66,13 @@ ms.locfileid: "2876957"
 -   如果客户想要将 Azure 订阅从直接客户或 EA 转移至云解决方案提供商，则不会转移预订。 
 
 >[!NOTE]
-> 你可以购买、 销售和管理合作伙伴仪表板和 Azure 门户中，以及通过使用合作伙伴中心 API 的 Azure 预订。 单击下面的链接以了解如何操作。 
+> 你可以购买、 销售和管理合作伙伴中心和 Azure 门户中，以及通过使用合作伙伴中心 API 的 Azure 预订。 单击下面的链接以了解如何操作。 
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
 |**若要获取相关信息**   |**请阅读以下内容**    |
 |:-----------------------------|:-----------------|
-|在合作伙伴仪表板中为客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
-|在合作伙伴仪表板中管理 Azure 预订 | [在合作伙伴仪表板中管理 Azure 预订](azure-reservations-manage.md)
+|为你在合作伙伴中心中的客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
+|合作伙伴中心中管理 Azure 预订 | [合作伙伴中心中管理 Azure 预订](azure-reservations-manage.md)
 |确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 

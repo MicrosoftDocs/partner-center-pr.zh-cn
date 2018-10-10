@@ -5,12 +5,12 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 792eea1f482eb539aef84b2b3a2c79f7c33d508a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 06fa6178b5d0c1f655ba412c75ec8b950430b812
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876427"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489633"
 ---
 # <a name="cloud-solution-provider-agreements-price-lists-and-offers"></a>云解决方案提供商协议、价目表和产品/服务
 
@@ -61,19 +61,19 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 ## <a name="pricing"></a>定价
 
 
-下载定价从**定价和产品/服务**页面，可从**仪表板**菜单的基于许可证的、 基于使用情况和一次性购买的详细信息。 
+下载定价从**定价和产品/服务**页面，可从**合作伙伴中心**菜单的基于许可证的、 基于使用情况和一次性购买的详细信息。 
 
 基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。 基于许可证的服务的示例包括 Office 365、企业移动性套件和 Microsoft Dynamics CRM。 
 
 基于使用情况的定价是动态的，并且经常更改。 基于使用情况的服务的示例包括 Microsoft Azure。
 
-一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 保留虚拟机实例。 
+一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 预留 VM 实例。 
 
 
 ## <a name="offers"></a>产品/服务
 
 
-作为云解决方案提供商计划中的合作伙伴，你可以向客户销售 Office 365、企业移动性套件、Microsoft Dynamics CRM 和 Microsoft Azure。 有关在这些产品系列中可销售哪些产品/服务和产品捆绑包的详细信息，请参阅可从**仪表板**菜单访问的**定价和产品/服务**页面上的云解决方案提供商产品/服务矩阵。 本文档按月更新。
+作为云解决方案提供商计划中的合作伙伴，你可以向客户销售 Office 365、企业移动性套件、Microsoft Dynamics CRM 和 Microsoft Azure。 捆绑包是在这些产品系列可销售哪些产品/服务和产品的详细信息，请参阅**定价和产品/服务**页面可从**合作伙伴中心**菜单上的云解决方案提供商产品/服务矩阵。 本文档按月更新。
 
 对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在**定价和产品/服务**页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 

@@ -5,12 +5,12 @@ ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a1ae3f22193f2d59266c289c4c2a924c323b86a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877537"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489443"
 ---
 # <a name="assign-support-contacts"></a>分配支持联系人
 
@@ -29,7 +29,7 @@ ms.locfileid: "2877537"
 
 1.  首先[请求与指定的产品经销商建立关系](request-a-relationship-with-a-customer.md)。 与他们协商支持协议以便处理技术支持问题。
 
-2.  从合作伙伴仪表板中选择**客户**，再选择一个客户，然后选择订阅，例如 Office 365 商业高级版。
+2.  从**合作伙伴中心**菜单中，选择**客户**，然后选择一个客户，然后选择订阅，例如，Office 365 商业高级版。
 
 3.  在**指定支持联系人**中，选择指定的产品经销商，然后单击**提交**。 
 

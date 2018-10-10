@@ -4,18 +4,18 @@ Description: Fulfill the new requirements to be a direct partner in CSP
 author: labrenne
 keywords: 云解决方案提供商，直接合作伙伴，直接计费，要求
 ms.localizationpriority: medium
-ms.openlocfilehash: 6df493e50bf225b3a37e0fbdad61baaf944ebe46
-ms.sourcegitcommit: d7fffbb88740a25b3c2e5c9e21e0d36a4493df50
+ms.openlocfilehash: cd2a5e582e982e105bfcf757ca5f02944b316e9d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "4349746"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488693"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>云解决方案提供商直接合作伙伴新要求
 
 **适用范围**
 
-- 合作伙伴仪表板
+- 合作伙伴中心
 
 实现数字化转型正在发展我们的客户开展业务的方式。 若要跟上步伐并继续提供特别服务，我们必须不断发展，太。 我们正在努力帮助所有参与云解决方案提供商计划的合作伙伴的一部分成功和发展，我们已更新的直接合作伙伴注册要求。 这些新要求加强我们业务和与合作伙伴合作具有的基础结构、 支持功能，并操作来缩放，技术关系和植物其客户群的更高版本优于平均速率。
 

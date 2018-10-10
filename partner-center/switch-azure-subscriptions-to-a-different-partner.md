@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: bfaf3d96760d8520935f3a872a11f14566eb0a52
-ms.sourcegitcommit: c45611276b62105c170ac3f2f3c8030b889c08f1
+ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "3966154"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488963"
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 
@@ -21,7 +21,7 @@ ms.locfileid: "3966154"
 客户可以决定切换到某个云解决方案提供商合作伙伴或另一合作伙伴来提供其 Microsoft Azure 服务。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。
 
 >[!Note]  
->这一次仅直接或间接提供商将能够传输的订阅。
+>这一次仅直接或间接提供商将能够转移订阅。
 
 >[!Note] 
 >它不是当前可能更改为 Office 365、 企业移动性套件或 Microsoft Dynamics CRM 订阅的云解决方案提供商订阅的合作伙伴。
@@ -39,7 +39,7 @@ ms.locfileid: "3966154"
 
     通过合作伙伴中心创建 Azure 服务票证以请求订阅传输：
 
-    -   在仪表板菜单中，选择**客户**，从列表中选择客户，然后选择**服务管理**。 在**支持票证**部分下，选择**新票证**下拉列表，然后选择 **Microsoft Azure**。
+    -   从合作伙伴中心菜单中，选择**客户**、 从列表中，选择你的客户，然后选择**服务管理**。 在**支持票证**部分下，选择**新票证**下拉列表，然后选择 **Microsoft Azure**。
 
     -   在 Azure 门户中，选择**新支持请求**。
 

@@ -4,18 +4,18 @@ description: 作为经销商合作伙伴，你的客户可以委派你其管理�
 author: labrenne
 keywords: 委派的管理员权限，代表管理员，删除权限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 77613468d03d62d1eb8a42e8bc9288458461166d
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377429"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489873"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
 **适用范围**
 
--  合作伙伴仪表板
+-  合作伙伴中心
 
 若要代表客户管理客户的服务或订阅，客户必须授予你对该服务的管理员权限。 若要从客户那里获取管理员权限，请通过电子邮件向他们发送经销商关系请求。 在客户批准你的请求后，你将能够代表客户登录到服务管理门户并管理该服务。 
 
@@ -89,7 +89,7 @@ ms.locfileid: "4377429"
 
 ## <a name="windows-autopilot"></a>Windows Autopilot 
 
-从合作伙伴仪表板中，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限管理 Autopilot 配置文件。 了解如何[利用 Windows Autopilot 让设备设置更简单](https://docs.microsoft.com/partner-center/autopilot)。
+从合作伙伴中心，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限管理 Autopilot 配置文件。 了解如何[利用 Windows Autopilot 让设备设置更简单](https://docs.microsoft.com/partner-center/autopilot)。
 
 你可以采取哪些措施取决于在哪种云解决方案提供商模式你已注册中。
 
@@ -110,7 +110,7 @@ ms.locfileid: "4377429"
 - 你不能管理客户已通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加的设备。
 
 > [!IMPORTANT]  
-> 在仪表板中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
+> 在合作伙伴中心中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
 
   - 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
 

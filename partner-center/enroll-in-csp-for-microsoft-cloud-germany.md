@@ -3,12 +3,12 @@ title: 注册德国 Microsoft 云的云解决方案提供商计划 | 德国 Micr
 description: 在注册德国 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: db996ad4fdfda05f190abdfe2028d5c8b023e40b
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0ff6e0c0ecbf6ef67ae22f21dca25a0026ae0b59
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377649"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489623"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-germany"></a>注册德国 Microsoft 云的云解决方案提供商计划
 
@@ -70,7 +70,7 @@ ms.locfileid: "4377649"
 德国 Microsoft 云提供 Microsoft Azure 的单独实例，它由在德国运行专用网络的德国数据中心提供。 若要允许管理员管理 Azure 德国门户中的用户和许可证，你将需要手动将管理员代理角色分配给他们。
 
 > [!NOTE]  
-> 将用户分配给管理员代理角色后，你的“仪表板”菜单中将显示**客户**菜单，你将能够访问你的客户列表和[添加新的客户](add-a-new-customer.md)。   
+> **客户**菜单中将用户分配给管理员代理角色后，将显示在合作伙伴中心菜单，你将能够访问你的客户列表和[添加新客户](add-a-new-customer.md)。   
 
 1.  登录到 Azure 德国门户https://portal.microsoftazure.de/。
 

@@ -1,14 +1,14 @@
 ---
-title: 销售云解决方案提供商的 Office 365 政府 GCC |合作伙伴中心
-description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以销售 Office 365 政府 GCC 云解决方案提供商订阅向合格的客户。 云解决方案提供商的 office 365 政府 GCC 是一套适用于美国政府和政府承包商政府能力服务的云工作效率服务，包括状态、 本地、 族群、 联邦公众，和联邦防御机构。
+title: 销售的云解决方案提供商的 Office 365 政府 GCC |合作伙伴中心
+description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以销售 Office 365 政府 GCC 云解决方案提供商订阅向合格的客户。 有关云解决方案提供商的 office 365 政府 GCC 是一套适用于美国政府和政府承包商政务能力服务的云工作效率服务，并包括州、 本地、 族群、 联邦公众，和联邦防御机构。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c5a615eafdf244461a701d6c737a80fffc823f3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 45d3eb165aa6b2042180874a74340ddbe9726807
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876407"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490023"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售云解决方案提供商订阅的 Office 365 政府 GCC
 
@@ -20,15 +20,15 @@ ms.locfileid: "2876407"
 
 ## <a name="overview"></a>概述
 
-云解决方案提供商计划 (CSP) 中的 Microsoft 合作伙伴可以向合格的客户销售[Office 365 政府 GCC 的云解决方案提供商](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)订阅。 云解决方案提供商的 office 365 政府 GCC 专为我们政府机构的特有需求而设计提供所有特性和功能使组织能够满足美国政府分段的政府云社区中的 Office 365 服务合规性和安全性标准。 
+云解决方案提供商计划 (CSP) 中的 Microsoft 合作伙伴可以向合格的客户销售[Office 365 政府 GCC 的云解决方案提供商](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)订阅。 有关云解决方案提供商的 office 365 政府 GCC 专为我们政府机构的特有需求而提供所有功能和 Office 365 服务使组织能够满足美国政府分段的政府云社区中的功能合规性和安全性标准。 
 
 >[!IMPORTANT] 
->你可以销售 Office 365 政府 GCC 云解决方案提供商订阅之前，你的公司必须同意向合格的客户进行销售。 并且，客户可以购买和使用的云解决方案提供商订阅的 Office 365 政府 GCC 之前，他们必须满足的资格要求。 请参阅[合作伙伴和客户的资格标准](csp-gcc-validate.md)的重要信息。
+>你可以销售 Office 365 政府 GCC 云解决方案提供商订阅之前，你的公司必须批准之后，以向合格的客户进行销售。 并且，客户可以购买和使用的云解决方案提供商订阅的 Office 365 政府 GCC 之前，他们必须满足的资格要求。 请参阅[合作伙伴和客户的资格标准](csp-gcc-validate.md)的重要信息。
 
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Office 365 政府 GCC 销售云解决方案提供商订阅
 
-你的公司已获得批准销售后产品/服务的云解决方案提供商的 Office 365 政府 GCC，你可以开始使用合作伙伴仪表板的客户销售。 请参阅这些资源，了解如何使用你的仪表板销售订阅： 
+你的公司已获得批准销售后产品/服务的云解决方案提供商的 Office 365 政府 GCC，你可以开始使用合作伙伴中心的客户销售。 请参阅这些资源，了解如何使用合作伙伴中心销售订阅： 
 
 -   对于云解决方案提供商订阅的销售 Office 365 政府 GCC 的分步指南，请转到[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。  
 

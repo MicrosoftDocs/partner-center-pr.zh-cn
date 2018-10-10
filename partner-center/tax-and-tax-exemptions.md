@@ -4,12 +4,12 @@ description: 因为云解决方案提供商是专注于合作伙伴产品转售�
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: ae366ba7275eb9192aee1afc44acdf4e8351b55e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874887"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489603"
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 
@@ -23,9 +23,9 @@ ms.locfileid: "2874887"
 
 **申报免税**
 
-1.  在“仪表板”菜单 &gt; **帐户设置** &gt; **组织配置文件**上查找 **Microsoft ID**。
-2.  在“仪表板”菜单 &gt; **帐户设置** &gt; **合作伙伴配置文件**上查找 **MPN ID**。
-3.  创建新的支持票证。 从仪表板菜单中，选择**服务请求** &gt; **合作伙伴中心请求** &gt; **新建请求**。
+1.  查找你在合作伙伴中心中的**Microsoft ID** &gt; **帐户设置** &gt; **组织配置文件**。
+2.  查找你在合作伙伴中心的**MPN ID** &gt; **帐户设置** &gt; **合作伙伴配置文件**。
+3.  创建新的支持票证。 从合作伙伴中心菜单中，选择**服务请求** &gt; **合作伙伴中心请求** &gt; **新建请求**。
 4.  填写表单。 对于**问题类型**，选择**无法管理我的个人资料**。 在描述中包括你的 MPN ID 和 Microsoft ID。
 5.  提交票证后，Microsoft 将向你发送电子邮件以获取更多信息。 在回复时，请附加免税证书的相应支持文档。
 
@@ -49,7 +49,7 @@ ms.locfileid: "2874887"
 <p>Microsoft 不支持赊账和重新计费，因此在你销售任何订阅之前，必须在合作伙伴中心中注册 VAT ID 号码。</p>
 <p>向 Microsoft 发送 VAT ID 号码</strong></p>
 <ol>
-<li>在合作伙伴中心中，转到“仪表板”菜单 &gt;“帐户设置”<strong></strong>&gt;“合作伙伴计费配置文件”<strong></strong>。</li>
+<li>在合作伙伴中心中，依次转到合作伙伴中心菜单&gt;<strong>帐户设置</strong> &gt; <strong>合作伙伴计费配置文件</strong>。</li>
 <li>在“财经数据”<strong></strong>部分中，选择“更新”<strong></strong>。</li>
 <li>在“公司税务 ID”<strong></strong>中，指定 VAT ID 号码。</li>
 </ol></td>

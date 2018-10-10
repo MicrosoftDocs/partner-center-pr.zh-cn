@@ -5,12 +5,12 @@ author: KPacquer
 keywords: 能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, 权益, 绩效目标, 技能目标
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1702a5ebca4ee33a32d2a30bb55c9a4b6520b8e2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876647"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490153"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -55,15 +55,15 @@ Microsoft 能力成就表明你在提供优质解决方案方面具有可靠的�
 
 某些能力具有多种实现银牌或金牌级别的方式。
 
-若要检查你的能力进度，请从合作伙伴中心仪表板中转到**合作关系 > 能力**。 
+若要检查你能力进度，从合作伙伴中心合作伙伴中心中，转到**合作关系 > 能力**。 
 
 ### <a href="" id="associating_achievements"></a>让你的员工进行连接以完成基于技能的目标
 
-1.  为组织中的员工添加用户帐户。 从[合作伙伴仪表板](http://partnercenter.microsoft.com)中，转到**帐户设置 > 添加用户**。 （通过选择**使用 PMC 数据添加用户**，PMC 用户一次可以添加多个用户。）
+1.  为组织中的员工添加用户帐户。 从[合作伙伴中心](http://partnercenter.microsoft.com)，请转到**帐户设置 > 添加用户**。 （通过选择**使用 PMC 数据添加用户**，PMC 用户一次可以添加多个用户。）
 
     创建用户帐户后，我们将向他们发送新的用户名和密码，并且将提示你下载日志文件，其中包含的信息用于根据需要帮助重置用户名和密码。 你还可以[设置用户帐户，以便他们可以自己重置密码](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. 请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。 （从[合作伙伴仪表板](http://partnercenter.microsoft.com)中，转到**帐户设置**。）员工可以使用相同或不同的 MSA，以通过 Microsoft 合作伙伴大学将其 Microsoft 技术考试和认证与其帐户相关联。
+2. 请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。 （从[合作伙伴中心](http://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证和通过 Microsoft 合作伙伴大学与其帐户相关联。
 
 3.  在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。 此后，进度会显示在**能力**部分中。
 

@@ -3,12 +3,12 @@ title: 加入 Microsoft 合作伙伴网络 | 合作伙伴中心
 description: 在合作伙伴中心购买 Microsoft Action Pack 并获得能力
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d38a3bce720d4accca4387d279f222181e337ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377789"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489713"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作伙伴网络 (MPN)
 
@@ -17,11 +17,11 @@ ms.locfileid: "4377789"
 -  合作伙伴中心
 -  Microsoft 合作伙伴网络
 
-## <a name="new-to-the-partner-dashboard"></a>初次使用合作伙伴仪表板
+## <a name="new-to-the-partner-center"></a>新合作伙伴中心
 
- 通过与 Microsoft 合作，你可以获得新的业务转型机会。 在合作伙伴仪表板，你可以购买和续订 Microsoft Action Pack，并且可以轻松地访问有关能力以及如何获得能力的信息。
+ 通过与 Microsoft 合作，你可以获得新的业务转型机会。 在合作伙伴中心购买和续订 Microsoft Action Pack，并且你可以轻松地访问有关能力以及如何获得能力的信息。
 
- 我们会在合作伙伴的 MAPS 或能力周年日以及重要合作伙伴仪表板功能可用并证明能够满足他们的业务需求时，逐步邀请合作伙伴管理其在合作伙伴仪表板的成员身份。  目前，可计划在 Partner Membership Center (PMC) 中续订并管理你的成员身份，直到你收到迁移邀请为止。
+ 我们正在逐步邀请合作伙伴管理其成员资格在合作伙伴中心的 MAPS 或能力周年日以及重要合作伙伴中心功能何时可用并证明能够满足他们的业务需求。  目前，可计划在 Partner Membership Center (PMC) 中续订并管理你的成员身份，直到你收到迁移邀请为止。
 
 ## <a name="get-your-mpn-id"></a>获取你的 MPN ID
 
@@ -54,7 +54,7 @@ ms.locfileid: "4377789"
 |**若要执行以下操作**   |**请阅读以下内容**   |
 |------------------|:---------------|
 |成为 Microsoft 合作伙伴|[成员身份：工作原理](https://partner.microsoft.com/membership/how-it-works)|
-在合作伙伴仪表板管理你的 Microsoft 合作伙伴网络成员身份   |[管理你的 Microsoft 合作伙伴网络成员身份](mpn-overview.md)
+管理你在合作伙伴中心上的 Microsoft 合作伙伴网络成员身份   |[管理你的 Microsoft 合作伙伴网络成员身份](mpn-overview.md)
 |购买 Action Pack   |[购买或续订 Microsoft Action Pack](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
 |获得银牌或金牌能力   |[银牌和金牌成员身份的能力要求](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
 |考虑加入云解决方案提供商计划|[云解决方案提供商 - 销售畅销的云解决方案](csp-overview.md)|

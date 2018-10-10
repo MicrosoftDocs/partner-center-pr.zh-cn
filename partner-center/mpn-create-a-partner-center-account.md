@@ -3,12 +3,12 @@ title: 创建合作伙伴中心帐户 | 合作伙伴中心
 description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐户，才能管理其网络权益和能力，以及创建业务档案。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dff860f75ef36cdb59c3cae8382c56f834da0ff
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a12b65369d1d82fdf94a4312feb8acd8892f29bb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377769"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488943"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -67,7 +67,7 @@ ms.locfileid: "4377769"
 
 5.  验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-    a. 在**仪表板**中，选择**设置**图标，然后选择**用户管理**。  
+    a. 在你**的合作伙伴中心**中，选择**设置**图标，然后选择**用户管理**。  
 
     b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择**管理员代理**。 选择**更新**。  
 

@@ -4,12 +4,12 @@ Description: Microsoft provides special, reduced pricing for select groups of cu
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e60dd18ff9066efa72a4a290150faa6b1e7e8252
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f9e79f6705559056295c167e0825b3b5b3f9b16b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877487"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489583"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -36,7 +36,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 ## <a name="check-the-customer-qualifications"></a>检查客户资格
 
-1.  从**仪表板**菜单中，选择**客户**。 从列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**。 从列表中选择客户。
 2.  在“客户”菜单中，选择**帐户**。 在**公司信息**部分中，查找**特殊资格**。
 3.  如果**特殊资格**设为**无**，但客户实际上符合资格，可将相关资格**更新**到其详细信息中。
 

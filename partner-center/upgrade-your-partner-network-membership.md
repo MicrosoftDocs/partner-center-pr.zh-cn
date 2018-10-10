@@ -4,12 +4,12 @@ description: 升级你的 Microsoft 合作伙伴网络成员身份后，你将�
 author: MaggiePucciEvans
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b282ab2fc83acbf31c5682f6e66b7bc401b81c06
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377779"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489703"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
@@ -47,12 +47,12 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 有关 Microsoft Action Pack 的详细信息，请转到[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 > [!NOTE]  
-> 点击此链接将你带到其他网站。 返回到此合作伙伴中心站点以订阅 Action Pack。
+> 点击此链接将你带到其他网站。 返回到此站点，合作伙伴中心站点以订阅 Action Pack。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>订阅 Microsoft Action Pack
 
-1. 在**仪表板**菜单上，选择**合作关系 > 产品/服务**。 **可用产品/服务**下面列出了 Microsoft Action Pack。 选择**立即订阅**。 
+1. 在**合作伙伴中心**菜单中，选择**合作关系 > 产品/服务**。 **可用产品/服务**下面列出了 Microsoft Action Pack。 选择**立即订阅**。 
 
 2. 选择**下一步**以同意 Microsoft 合作伙伴网络所授予的内部使用权限的[条款和条件](https://go.microsoft.com/fwlink/?linkid=842232)。  
 
@@ -70,7 +70,7 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>关闭 Action Pack 订阅自动续订
 
-1. 在**仪表板**菜单上，选择**合作关系 > 产品/服务**。 **已购买产品/服务**下面列出了 Microsoft Action Pack。
+1. 在**合作伙伴中心**菜单中，选择**合作关系 > 产品/服务**。 **已购买产品/服务**下面列出了 Microsoft Action Pack。
 
 2. 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。 
 
@@ -82,7 +82,7 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 
 ### <a name="renew-your-action-pack-subscription"></a>续订 Action Pack 订阅
 
-1. 在**仪表板**菜单上，选择**合作关系 > 产品/服务**。 **已购买产品/服务**下面列出了 Microsoft Action Pack。
+1. 在**合作伙伴中心**菜单中，选择**合作关系 > 产品/服务**。 **已购买产品/服务**下面列出了 Microsoft Action Pack。
 
 2. 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息，然后在**操作**下面选择**续订订阅**。  
 

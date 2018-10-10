@@ -5,12 +5,12 @@ ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: 483d0d13415c204106c2269d9cdcd80298e59bc2
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877087"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490003"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 
@@ -20,7 +20,7 @@ ms.locfileid: "2877087"
 
 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 
-合作伙伴仪表板跟踪并显示所有客户拥有的许可证权利。
+在合作伙伴中心跟踪并显示所有客户拥有的许可证权利。
 
 ## <a name="in-this-section"></a>本部分内容
 
@@ -31,7 +31,7 @@ ms.locfileid: "2877087"
 <a href="" id="assign-licenses-to-groups"></a>
 **向多个用户分配许可证**
 
-1.  在**仪表板**菜单中，选择**客户**，然后从列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**，，然后从列表中选择客户。
 2.  选择**用户和许可证**。
 3.  选中列表中两个或多个用户的复选框。 （若要选择当前页面上的所有用户，请选中**用户**列顶部的复选框。）
 
@@ -57,7 +57,7 @@ ms.locfileid: "2877087"
 7.  通过选中每个产品的复选框，为用户选择多个产品。
     -   选择任何产品的**查看服务计划**，查看并选择用户需要的服务计划。
 
-8.  选择**保存**。 合作伙伴仪表板打开列有用户及其新许可证的**更新的许可证**确认页面。
+8.  选择**保存**。 在合作伙伴中心打开列用户及其新许可证**许可证更新**确认页面。
 
 **注意** 某些 Microsoft 产品可能未在特定地区提供。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
 
@@ -66,7 +66,7 @@ ms.locfileid: "2877087"
 <a href="" id="revoking-licenses"></a>
 **撤消用户的许可证分配**
 
-1.  在**仪表板**菜单中，选择**客户**，然后从列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**，，然后从列表中选择客户。
 2.  选择**用户和许可证**。
 3.  选中列表中两个或多个用户的复选框。 （若要选择当前页面上的所有用户，请选中**用户**列顶部的复选框。）
 

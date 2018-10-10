@@ -4,12 +4,12 @@ description: 购买适用于 Microsoft 产品的第三方软件
 author: labrenne
 keywords: 第三方产品/服务, 要购买的软件
 ms.localizationpriority: medium
-ms.openlocfilehash: d7ab7e1f8886a63c9b97d3b85dfa51d26464dc06
-ms.sourcegitcommit: 535b52aa23e1250a7294f57d17078c77ee54e0cd
+ms.openlocfilehash: 7ea21f8799faaf34703e51f9620f8169364569dc
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "4062159"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489843"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>将第三方软件添加到产品组合
 
@@ -53,7 +53,7 @@ ISV 合作伙伴可以随时决定需要产品授权。 如果在 ISV 将产品�
 
 购买第三方软件与购买第一方软件一样。 
 
-1. 从**仪表板**中，选择**客户**
+1. 从**合作伙伴中心**，选择**客户**
 2. 选择**新订阅**
 3. 选择对第三方软件采用按月计费。 年度计费和试用版计费目前不适用于第三方软件。
 4. 从第三方选项卡中，选择想要购买的产品

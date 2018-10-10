@@ -3,12 +3,12 @@ title: 将 Office 365 E4 订阅迁移到较新的 Office 365 版本 |合作伙�
 description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起已停用。 了解如何将你的客户订阅迁移到较新版本的 Office 365。
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: e6efcc3227f426a9b83c7579534e0b6ad68188da
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377709"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490173"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -65,7 +65,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-1---purchase-the-new-subscription"></a>步骤 1 - 购买新订阅
 
-1. 从**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**添加订阅**。
+1. 从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，然后选择**添加订阅**。
 
 2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。
 
@@ -73,7 +73,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>第 2 步 - 重新分配客户的用户许可证
 
-1. 从**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
+1. 从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
 
 2. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择**管理许可证**。
 
@@ -87,7 +87,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-3---cancel-the-old-subscription"></a>步骤 3 - 取消旧订阅
 
-1. 从**仪表板**菜单中，选择**客户**。 选择你想要移动的客户，并选择你想要取消的订阅。
+1. 从**合作伙伴中心**菜单中，选择**客户**。 选择你想要移动的客户，并选择你想要取消的订阅。
 
 2. 在订阅详细信息页面中，将订阅状态设置为**已暂停**。
 

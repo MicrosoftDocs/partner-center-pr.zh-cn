@@ -5,12 +5,12 @@ ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: MaggiePucciEvans
 Keywords: health, service health,service problems
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b9d3d1009f647098a025a76ab11c314193ec4d3
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 4ae671016e6d8d8b77c85b56e268b413cee5c28f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874627"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489303"
 ---
 # <a name="check-service-health"></a>检查服务运行状况
 
@@ -22,11 +22,11 @@ ms.locfileid: "2874627"
 
 **检查服务运行状况**
 
-1.  从**仪表板**菜单中，选择**服务运行状况**。 
+1.  从**合作伙伴中心**菜单中，选择**服务运行状况**。 
 
 2.  你的所有服务都会显示出来，如果存在运行状况不良的服务，系统会发出提示。 
 
-在服务中断期间，随着我们不断努力解决问题，Microsoft 会提供定期更新。 查看这些更新的最佳方法是使用合作伙伴仪表板上的**通知中心**。 这些通知还会显示在 Microsoft Azure 门户或 Office 365 管理中心中。
+在服务中断期间，随着我们不断努力解决问题，Microsoft 会提供定期更新。 查看这些更新的最佳方法是从**通知中心**上在合作伙伴中心。 这些通知还会显示在 Microsoft Azure 门户或 Office 365 管理中心中。
 
 如果在服务中断结束后问题仍然存在，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
 

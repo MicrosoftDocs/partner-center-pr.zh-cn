@@ -1,16 +1,16 @@
 ---
 title: 阅读帐单 | 合作伙伴中心
-description: 发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 发票将在合作伙伴中心仪表板上提供。
+description: 发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 它已登陆合作伙伴中心提供。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: e43a3ea778c60f1009f5cd3489a24f4c9f0b1e4f
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377539"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489403"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -20,7 +20,7 @@ ms.locfileid: "4377539"
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-若要查看帐单，请转到**仪表板**菜单，然后选择**计费**以查看你的计费历史记录和趋势、指向发票和对帐文件的链接，以及你的最新付款。
+为你的帐单，请转到**合作伙伴中心**菜单，然后选择**计费**以查看你的计费历史记录和趋势、 指向发票和对帐文件，以及最近付款。
 
 云解决方案提供商计划中选择按月计费的合作伙伴会为其客户的订阅（基于许可证和基于使用情况）向 Microsoft 支付为期 60 天的欠款。
 

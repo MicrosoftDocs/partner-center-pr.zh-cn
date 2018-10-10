@@ -1,15 +1,15 @@
 ---
 title: 续订你的 MPN 产品/服务 | 合作伙伴中心
-description: 从你的合作伙伴中心中续订 MPN 产品/服务
+description: 续订你 MPN 产品/服务从合作伙伴中心
 author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 能力续订, 续订日期
 ms.localizationpriority: medium
-ms.openlocfilehash: 6347536a0b2dfd4af682ef98d1c130f65a68410e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b31a73706c6f88d67aabc8ec4bf0e79297de2978
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875477"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489343"
 ---
 # <a name="renew-your-mpn-offers"></a>续订你的 MPN 产品/服务
 
@@ -17,9 +17,9 @@ ms.locfileid: "2875477"
 
 - 合作伙伴中心
 
-你的 MPN 产品/服务订阅续订时段开始于购买日期一周年后加一天。 例如，如果你在 2018 年 9 月 1 日购买了 Microsoft Action Pack，则你的续订时段开始于 2019 年 9 月 2 日。 你可以在合作伙伴仪表板上续订订阅。
+你的 MPN 产品/服务订阅续订时段开始于购买日期一周年后加一天。 例如，如果你在 2018 年 9 月 1 日购买了 Microsoft Action Pack，则你的续订时段开始于 2019 年 9 月 2 日。 你可以续订你在合作伙伴中心的订阅。
 
-从**仪表板**中，选择**成员产品/服务**。
+从**合作伙伴中心**，选择**成员产品/服务**。
 在**已购买**选项卡上，对于每个已购买的产品/服务，你可以看到：
 
 - 到期日期

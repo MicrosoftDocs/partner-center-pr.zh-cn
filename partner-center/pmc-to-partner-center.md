@@ -7,12 +7,12 @@ robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c9e411ea92a39e33ef515adf69a5dd6886d514d
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875857"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4490073"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
 
@@ -31,7 +31,7 @@ Partner Membership Center 用户：我们现在正在通过合作伙伴中心管
 
 组织的管理员可以将员工添加到合作伙伴中心帐户中，方法是单独添加他们，或者使用 PMC 数据同时创建多个用户：
 
-1.  从合作伙伴中心仪表板中，选择**添加新用户**以添加单个用户，或者选择**设置团队**（或“使用 PMC 数据添加用户”）以便同时添加多个用户。
+1.  从合作伙伴中心中，选择**添加新用户**添加个人或**设置你的团队**（或使用 PMC 数据添加用户） 若要同时添加多个用户。
     
     按照屏幕上的说明完成设置。
 
@@ -45,16 +45,16 @@ Partner Membership Center 用户：我们现在正在通过合作伙伴中心管
 
 ## <a href="" id="nonadmin_tasks"></a>员工任务：更新帐户
 
-1.  获取你的登录信息，从 Microsoft 合作伙伴中心或你的管理员。如果你未收到登录信息，请联系你的组织的管理员，让他们直接向你重新发送。 
+1.  获取你的登录信息，可以从 Microsoft 合作伙伴中心或你的管理员。如果你未收到登录信息，请联系你的组织的管理员，让他们直接向你重新发送。 
 
-2.  连接你的 Microsoft 合作伙伴大学帐户。 从合作伙伴中心仪表板中，选择**更新个人资料信息** > **获取合作伙伴大学访问权限**。  连接此帐户后，你将能够再次访问合作伙伴大学。
+2.  连接你的 Microsoft 合作伙伴大学帐户。 从合作伙伴中心中，选择**更新你的配置文件** > **获取合作伙伴大学访问权限**。  连接此帐户后，你将能够再次访问合作伙伴大学。
 
-3.  关联 Microsoft 技术考试和认证。 从合作伙伴中心仪表板中，选择**更新个人资料信息** > **关联考试和认证**。 
+3.  关联 Microsoft 技术考试和认证。 从合作伙伴中心中，选择**更新你的配置文件** > **关联考试和认证**。 
 
 4.  可选：[设置密码重置自助服务](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。
 
 ## <a name="checking-team-status-and-receiving-competency-achievements"></a>检查团队状态并接收能力成就
 
-1.  查看你组织中哪些员工已连接了其 Microsoft 合作伙伴大学帐户并关联了其考试和认证：从合作伙伴中心仪表板中，选择**检查团队状态**。
+1.  请参阅你的组织中哪些员工已连接了其 Microsoft 合作伙伴大学帐户并关联了其考试和认证： 从合作伙伴中心中，选择**检查团队状态**。
 
 2.  在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。 此后，进度会显示在**合作关系 > 能力**部分中。

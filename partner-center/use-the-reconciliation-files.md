@@ -1,15 +1,15 @@
 ---
 title: 使用对帐文件 | 合作伙伴中心
-description: 有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。
+description: 计费周期中每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.localizationpriority: medium
-ms.openlocfilehash: f4135bfeb4bf4245f7fc78a4d95946d094390a2a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877547"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489953"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -19,7 +19,7 @@ ms.locfileid: "2877547"
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-有关计费周期中每项费用的明细项目详细视图，请从合作伙伴中心仪表板下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
+计费周期中每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
 
 ## <a href="" id="itemizebypartner"></a>由合作伙伴列出明细
 
@@ -46,7 +46,7 @@ ms.locfileid: "2877547"
 <td>经销商 MPN ID</td>
 <td><p>仅显示在间接模型中合作伙伴的对帐文件上。</p>
 <p>订阅记录的经销商 MPN ID。 这对应于针对合作伙伴中心中的特定订阅所列的经销商 ID。</p>
-<p>若要查看或更新经销商，请在“合作伙伴中心”菜单中，选择“客户”<strong></strong>，然后从列表中选择客户。 在“客户”菜单中，选择“订阅”<strong></strong>，然后从列表中选择订阅。 选择“更新”<strong></strong>以更改“经销商 (MPN ID)”<strong></strong>。</p>
+<p>若要查看或更新经销商，请从合作伙伴中心菜单中，选择<strong>客户</strong>，然后从列表中选择客户。 在“客户”菜单中，选择“订阅”<strong></strong>，然后从列表中选择订阅。 选择“更新”<strong></strong>以更改“经销商 (MPN ID)”<strong></strong>。</p>
 <p>如果云解决方案提供商合作伙伴将订阅直接销售给客户，他们的 MPN ID 会列出两次，即 MPN ID 和经销商 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴的经销商没有 MPN ID，此值将设置为合作伙伴的 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴删除经销商 ID，此值将设置为 -1。</p></td>

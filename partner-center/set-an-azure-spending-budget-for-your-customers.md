@@ -4,12 +4,12 @@ description: 在合作伙伴中心中，你可以设置每个客户的每月预�
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e7fd895c3c8e0acda51fb79ab142a7723ecb227
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6f6e0e733aed13174dcf4d318b522723bb425b30
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377469"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488953"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>为你的客户设置 Azure 费用预算
 
@@ -33,23 +33,23 @@ Azure 费用数据是估计值，实际计费金额可能会有所不同，并�
 > 此功能不可用在沙盒或测试生产 (TIP) 帐户。
 
 **打开电子邮件通知**
-1.  从“仪表板”菜单中，选择 **Azure 费用**。
+1.  从合作伙伴中心菜单中，选择**Azure 费用**。
 2.  请启用**获取电子邮件**选项，以便在客户使用了 80% 或更高预算时获取通知。 这将帮助你关注你的 Azure 帐单。 你可以将默认电子邮件地址更改为个人或其他任何电子邮件以接收通知。
 
 **设置预算**
-1.  从“仪表板”菜单中，选择 **Azure 费用**。
+1.  从合作伙伴中心菜单中，选择**Azure 费用**。
 2.  选择你想要为其设置预算的客户。 
 3. 在**每月预算**框中输入值，然后选择**应用**。
 4.  若要查看当前费用，请返回到此页面。
 5.  还可以在客户管理页面上的**基于使用情况的订阅**下设置个别预算。
 
 **删除预算**
-1.  从“仪表板”菜单中，选择 **Azure 费用**。
+1.  从合作伙伴中心菜单中，选择**Azure 费用**。
 2.  从列表中选择客户。
 3.  选择**删除预算**。
 
 **查看成本明细**
-1.  从“仪表板”菜单中，选择**客户**。
+1.  从合作伙伴中心菜单中，选择**客户**。
 2.  从客户列表中选择客户。
 3.  在其客户管理页面上的**基于使用情况的订阅**下，选择某个订阅。 查看其当前估计的使用情况和按服务明细化的成本列表。
 

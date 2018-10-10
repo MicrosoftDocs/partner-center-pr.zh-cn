@@ -5,12 +5,12 @@ ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: c441e8c78886fa53152b85bcfff98a1c6765862a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 79a0dc432e1d5407ffd1cc424019d5994d39ef48
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875897"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488643"
 ---
 # <a name="view-customer-activity-logs"></a>查看客户活动日志
 
@@ -27,7 +27,7 @@ ms.locfileid: "2875897"
 
 **查看和导出活动日志**
 
-1.  在**仪表板**菜单中，选择**活动日志**。
+1.  从**合作伙伴中心**菜单中，选择**活动日志**。
 2.  在**从**和**至**字段中选择活动日志时段。 活动日志导出默认定向最近月份。
 
     每个活动日志均提供指向列出客户**订阅**页的链接。

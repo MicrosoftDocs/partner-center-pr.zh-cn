@@ -4,12 +4,12 @@ description: 搜索并找到非常适合你的产品组合的第三方产品/服
 author: labrenne
 keywords: 第三方产品/服务, 要购买的软件, 搜索第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c734282aed8493d68d6ff9e8dc6d732d952c0a8
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377499"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488583"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>发现你要销售的第三方产品/服务
 
@@ -42,7 +42,7 @@ ms.locfileid: "4377499"
 
 购买第三方软件的方式与第一方软件一样。 
 
-1. 从**仪表板**中，选择**客户**
+1. 从**合作伙伴中心**，选择**客户**
 2. 选择**新订阅**
 3. 有关详细说明，请参阅[创建、暂停或取消客户订阅](create-a-new-subscription.md)。
 4.  选择对第三方软件采用按月计费。 年度计费和试用版计费目前不适用于第三方软件。

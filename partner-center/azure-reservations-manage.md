@@ -4,24 +4,24 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: azure，预订，管理，计费，购买
 ms.localizationpriority: medium
-ms.openlocfilehash: 5025c32da86944f65c548a7e3ef6e61f7275522e
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877397"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489773"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
 **适用范围**
 
--  合作伙伴仪表板
+-  合作伙伴中心
 -  Microsoft Azure 门户
 -  云解决方案提供商计划中的合作伙伴
 
-若要管理你的客户购买 Azure 预订后，将选择的客户和预订你想要管理在合作伙伴仪表板，然后在 Azure 门户中对预订进行更改。 
+若要管理你的客户购买 Azure 预订后，将选择的客户和预订你想要在合作伙伴中心中管理，然后在 Azure 门户中对预订进行更改。 
 
-1. 若要开始，请从你的仪表板菜单中选择**客户**，然后选择你想要管理其预订的客户。 
+1. 若要开始，从你的合作伙伴中心菜单中选择**客户**，然后选择你想要管理其预订的客户。 
 
 2. 在客户的详细信息页面菜单上，选择**Azure 预订**，然后选择你想要管理的特定预订。  
 
@@ -48,12 +48,12 @@ ms.locfileid: "2877397"
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>代表客户请求退款或兑换 
 
-若要代表客户提出退款或兑换支持请求，你需要在合作伙伴仪表板中选择客户和预订，然后在 Azure 门户中创建支持请求。 
+若要代表客户提出退款或兑换支持请求，将在合作伙伴中心中，选择客户和预订，然后在 Azure 门户中创建支持请求。 
 
 >[!NOTE]
 >Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户中预订的**属性**页面上找到此信息。 
 
-1. 若要开始，请从你的仪表板菜单中选择**客户**，然后选择想要退款的客户。 
+1. 若要开始，选择**客户**从合作伙伴中心菜单，然后选择想要退款的客户。 
 
 2. 在客户的详细信息页面上，选择 **Azure 预订**，然后选择客户想要退款的特定预订。  
 
@@ -71,7 +71,7 @@ ms.locfileid: "2877397"
 |**若要获取相关信息**   |**请阅读以下内容**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
-|在合作伙伴仪表板中为客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md) |
+|为你在合作伙伴中心中的客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md) |
 |确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 

@@ -4,12 +4,12 @@ description: 在某些情况下，客户可能需要聘请你对他们在别处�
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a10d766f9b9f92a26e0c247b3a20dfab1fb50fe
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377479"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489413"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
@@ -19,7 +19,7 @@ ms.locfileid: "4377479"
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-合作伙伴仪表板的多渠道功能支持客户想要聘请一个合作伙伴来管理和支持他们在其他地方购买的订阅的情况。 多渠道支持适用于处于以下情形中的客户：
+合作伙伴中心的多渠道功能支持客户想要聘请一个合作伙伴来管理和支持他们在其他地方购买的订阅。 多渠道支持适用于处于以下情形中的客户：
 
 -   已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。
 
@@ -47,7 +47,7 @@ ms.locfileid: "4377479"
 </table>
 
 > [!IMPORTANT]  
-> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道（包括合作伙伴仪表板）进行公布。 
+> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道，包括在合作伙伴中心进行都公布。 
 
 ## <a name="see-also"></a>另请参阅
 

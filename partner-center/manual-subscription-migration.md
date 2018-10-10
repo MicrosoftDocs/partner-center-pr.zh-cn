@@ -4,12 +4,12 @@ description: Microsoft 引入了 Dynamics 365，这是下一代智能业务应�
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a8aaf2591b6a67114da7d2226dde7bf94dd06b0
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876297"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489783"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>将 Dynamics AX 订阅迁移到 Dynamics 365
 
@@ -78,7 +78,7 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 **购买新订阅**
 
-1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**添加订阅**。
+1.  从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，选择**添加订阅**。
 2.  选择要从目录中购买的订阅（在此情况下是 Dynamics 365 for Operations 企业版）、输入许可证编号，然后选择**提交**。
 
     此时客户应该具有新旧两个订阅：在此示例中是旧的 Dynamics AX Enterprise 和新的“目标”订阅，即 Dynamics 365 for Operations 企业版。
@@ -87,7 +87,7 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 **重新分配用户许可证**
 
-1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
+1.  从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动的客户然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
 2.  若要重新分配用户许可证，选择要重新分配的用户，然后选择**管理许可证**。
 3.  在**管理许可证**页上，清除 **Dynamics AX Enterprise** 许可证复选框，然后选择 **Dynamics 365 for Operations** 许可证。
 4.  选择**提交**。 确认页面列出了新的许可证分配。
@@ -97,7 +97,7 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 **取消旧订阅**
 
-1.  在**仪表板**菜单中，选择**客户**、选择要移动的客户，然后选择要取消的订阅。
+1.  从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户并选择你想要取消的订阅。
 2.  在订阅详细信息页面中，将订阅**状态**设置为**已暂停**。
 3.  选择**提交**。
 

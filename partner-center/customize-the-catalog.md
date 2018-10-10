@@ -4,12 +4,12 @@ description: 该目录列出适用于合作伙伴销售的所有 Microsoft 产�
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 604bd206b8f80b990579a12fee019bf8a12689ca
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ba9d9efd51d4b647e02e7f27b54e4259e90d782f
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874927"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488543"
 ---
 # <a name="customize-the-catalog"></a>自定义目录
 
@@ -23,7 +23,7 @@ ms.locfileid: "2874927"
 
 **自定义目录**
 
-1.  转到仪表板菜单 &gt; **销售** &gt; **目录**。
+1.  转到合作伙伴中心菜单&gt;**销售** &gt; **目录**。
 2.  选择最多五个要在目录顶部显示的产品/服务。
 
  

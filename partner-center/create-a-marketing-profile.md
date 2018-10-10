@@ -5,12 +5,12 @@ ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 业务档案, 营销档案
 ms.localizationpriority: medium
-ms.openlocfilehash: 61a38d6d0f4f56a980bf6bb8ef44be5f6ee6cd46
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377619"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489763"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -40,20 +40,20 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 然后，这些 Microsoft 专业人员可以向贵公司引荐潜在客户。
 
 > [!IMPORTANT]  
-> 为了帮助我们的合作伙伴简化业务操作，我们正在将过去分布在多个工具和网站中的特性和功能合并到合作伙伴仪表板这个站点中。 作为该举措之一，我们已将所有引荐相关的功能移动到合作伙伴仪表板，并停用了 Pinpoint 和 C2PC 站点。 如果你过去使用 Pinpoint 或 C2PC 从 Microsoft 获取和管理引荐，你将需要在合作伙伴仪表板创建新的企业简介以继续获取引荐。 我们不再支持从这些站点导入档案。 
+> 为了帮助我们的合作伙伴简化业务操作，我们正在特性和功能合并到合作伙伴中心，此站点分布在多个工具和网站的使用。 作为该举措之一，我们已移动到合作伙伴中心的所有与引荐相关的功能，并停用了 Pinpoint 和 C2PC 站点。 如果你使用 Pinpoint 或 C2PC 过去获取和管理来自 Microsoft 的引荐，你将需要在合作伙伴中心，以继续获取引荐中创建新的业务配置文件。 我们不再支持从这些站点导入档案。 
 
 ## <a name="create-a-profile"></a>创建档案
 
 > [!NOTE]  
->  你可以创建业务配置文件之前，必须具有合作伙伴仪表板帐户。 如果你还没有合作伙伴仪表板帐户，请参阅[创建合作伙伴仪表板帐户](mpn-create-a-partner-center-account.md)获取有关创建该帐户的帮助。 
+>  你可以创建业务配置文件之前，必须具有合作伙伴中心帐户。 如果你还没有合作伙伴中心帐户，请参阅[创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)获取有关创建该帐户的帮助。 
 
 针对你有权在其中开展业务的每个区域创建档案。 
 
-1.  从**仪表板**菜单中选择**引荐** &gt; **企业简介** &gt; 选择一个国家/地区 > **[创建企业简介](https://partnercenter.microsoft.com/pcv/publishing)**。
+1.  从**合作伙伴中心**菜单中，选择**引荐** &gt; **业务配置文件**&gt;选择一个国家/地区 >**[创建业务配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
 
 2.  在**创建企业简介**页面上，选择一个地区，然后输入你的简介信息。
     > [!NOTE]  
-    >  尽管在合作伙伴仪表板支持多种语言，如描述和自由格式标记之类的某些元素可能需要包含不同语言，如本主题中所述的文本。
+    >  尽管在合作伙伴中心支持多种语言，如描述和自由格式标记之类的某些元素可能需要包含不同语言，如本主题中所述的文本。
 
 ### <a href="" id="partner_info"></a>合作伙伴信息
 
@@ -99,7 +99,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 建议选择此设置。 
 
-当你通过合作伙伴仪表板证明成功吸引了客户，或者参与其他 Microsoft 认证或计划时，我们将针对为取得该成功做出贡献的你的特定产品、服务和行业自动添加认可。 认可是搜索结果中的重要因素。
+当你证明成功吸引了客户通过合作伙伴中心，或者参与其他 Microsoft 认证或计划时，我们将自动添加认可的特定产品、 服务和行业取得该成功。 认可是搜索结果中的重要因素。
 
 如果你为某些产品提供了服务，但你不想在档案中显示它们，则可以取消选中此框并手动管理你的档案。 客户将看不到这些认可，但你以后可以随时将认可添加回你的档案。
 

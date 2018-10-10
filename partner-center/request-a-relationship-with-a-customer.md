@@ -4,12 +4,12 @@ description: 请求建立关系用于多合作伙伴和多渠道方案。 如果
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 49e24f50fef7715634f749f7f95c066c37e55976
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 28dc6bddd50b52d06652e731545fddf15156c738
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377529"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489503"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -23,7 +23,7 @@ ms.locfileid: "4377529"
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 
-1.  从**仪表板**菜单中选择**客户**，然后选择**请求经销商关系**。
+1.  从**合作伙伴中心**菜单中选择**客户**，然后选择**请求经销商关系**。
 
 2.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，或者可以将邮件复制到剪贴板并将其粘贴到电子邮件中。 
 

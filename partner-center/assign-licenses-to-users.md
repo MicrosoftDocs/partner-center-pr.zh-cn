@@ -5,12 +5,12 @@ ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ae156f50adf64ebb18b7cddb79ff6415e9c2714
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 153ed656ff217241079439e8b48c46c8d18ba144
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876997"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489813"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客户帐户的用户管理任务
 
@@ -29,7 +29,7 @@ ms.locfileid: "2876997"
 <a href="" id="createuseraccounts"></a>
 **为客户创建用户帐户**
 
-1.  从**仪表板**菜单中，选择**客户**。 在列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**。 在列表中选择客户。
 
 2.  在“客户”菜单中，选择**用户和许可证**。
 
@@ -44,7 +44,7 @@ ms.locfileid: "2876997"
 <a href="" id="userlicensing"></a>
 **为客户添加或删除用户许可证**
 
-1.  在**仪表板**菜单中，选择**客户**。 从列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**。 从列表中选择客户。
 
 2.  在“客户”菜单中，选择**用户和许可证**。
 
@@ -55,7 +55,7 @@ ms.locfileid: "2876997"
 <a href="" id="resetpassword"></a>
 **为客户重置用户密码**
 
-1.  从**仪表板**菜单中，选择**客户**。 从列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**。 从列表中选择客户。
 
 2.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
 
@@ -66,7 +66,7 @@ ms.locfileid: "2876997"
 <a href="" id="deleteuseraccounts"></a>
 **为客户删除用户帐户**
 
-1.  从**仪表板**菜单中，选择**客户**。 从列表中选择客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**。 从列表中选择客户。
 
 2.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
 
@@ -77,7 +77,7 @@ ms.locfileid: "2876997"
 <a href="" id="restoreuseraccounts"></a>
 **还原删除的用户帐户**
 
-1.  从**仪表板**菜单中，选择**客户**，然后从列表中选择该客户。
+1.  从**合作伙伴中心**菜单中，选择**客户**，然后从列表中选择客户。
 
 2.  选择**用户和许可证**。
 

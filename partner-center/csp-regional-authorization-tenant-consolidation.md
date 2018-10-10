@@ -5,12 +5,12 @@ ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
 author: MaggiePucciEvans
 keywords: 迁移客户, 预配, 租户帐户, 合并租户
 ms.localizationpriority: medium
-ms.openlocfilehash: 7301786b62169da72f52cf26dd4ad8c755367ff4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: b5506927a8786665c55e6e68b2f81bdc6cdf73c1
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875977"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489663"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并
 
@@ -31,14 +31,14 @@ ms.locfileid: "2875977"
 ## <a name="prepare-for-migration"></a>准备迁移
 
 
--   使用**过渡**（现有）帐户（你将过渡的帐户）登录到**仪表板**，然后记下所有客户和为这些客户预配的所有服务。
+-   登录到你的**合作伙伴中心**使用**过渡**（现有） 帐户 （你将过渡的一个） 并记下所有客户和为这些客户预配的服务的所有。
 
 ![区域客户列表](images/regionalcustomer1.png)
 
 ## <a name="migrate-customer-accounts"></a>迁移客户帐户
 
 
-1.  使用**过渡**（新）帐户（你正在向其过渡的帐户）登录到**仪表板**，然后从**客户**导航到客户列表。
+1.  登录到你的**合作伙伴中心**使用**过渡**（新建） 帐户 （你正在向其过渡的一个），然后从**客户**导航至客户列表。
 
 2.  选择客户。
 
@@ -55,7 +55,7 @@ ms.locfileid: "2875977"
 
 1.  客户签署协议后，可在“集中合作伙伴租户”下重新创建他们的订阅。
 
-2.  从**仪表板**中，选择**客户**。
+2.  从**合作伙伴中心**中，选择**客户**。
 
 3.  打开要迁移的客户的公司名称。
 
@@ -82,7 +82,7 @@ ms.locfileid: "2875977"
 
 禁用**过渡源**合作伙伴帐户下的云解决方案提供商订阅将阻止以后的任何计费。 无需手动禁用 Azure 订阅，因为 Azure 订阅在迁移过程中将自动禁用。
 
-1.  使用**过渡源**云解决方案提供商帐户登录到**仪表板**，然后导航至客户列表。
+1.  登录到**合作伙伴中心**的**过渡源**云解决方案提供商帐户并导航至客户列表。
 
 2.  打开要禁用订阅的客户，然后选择第一个要禁用的产品/服务。
 3.  将订阅设置为**已暂停**，然后单击**提交**。
@@ -130,7 +130,7 @@ ms.locfileid: "2875977"
 
 使用**导出函数**，捕获要在新合并的结构中使用的订阅：
 
-1.  单击“仪表板”上的**客户**，查看现有结构中的客户列表。
+1.  单击**客户**在合作伙伴中心查看现有结构中的客户列表。
 
 2.  打开所需的客户名称。
 

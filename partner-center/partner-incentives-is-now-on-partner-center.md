@@ -3,12 +3,12 @@ title: 合作伙伴奖励现已登陆合作伙伴中心 | 合作伙伴中心
 description: 奖励计划鼓励合作伙伴采用新的营销手段、提供培训等等
 author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 086f81a07aa4f12f40c7f7d1ca47dc6051cd4e59
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ef254f1630cdfb90d16971d31e4688b50c82b614
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875667"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4488733"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作伙伴奖励现已登陆合作伙伴中心 
 
@@ -32,11 +32,11 @@ ms.locfileid: "2875667"
 
 ## <a name="one-site-one-log-on"></a>一个站点，一次登录
 
-Microsoft 合作伙伴奖励计划现已迁移到合作伙伴中心，你将能够开展所有管理工作，包括管理用户、代表客户行事、注册认证与奖励、报告奖励收益以及获取付款。 你可以在奖励**仪表板**上看到所有奖励数据。 奖励数据每天都会更新。
+Microsoft 合作伙伴奖励计划现已迁移到合作伙伴中心，你将能够开展所有管理工作，包括管理用户、代表客户行事、注册认证与奖励、报告奖励收益以及获取付款。 你的所有奖励数据都均可在你的奖励**合作伙伴中心**上。 奖励数据每天都会更新。
  
 ## <a name="set-your-users-up-in-partner-center"></a>在合作伙伴中心设置你的用户
  
-第一步是通过在合作伙伴中心设置你的奖励用户来完善你的合作伙伴中心奖励帐户。 你已收到电子邮件，内有你所在组织的奖励用户列表。 你所在组织的奖励管理员完成用户设置后，你的所有奖励数据都将显示在奖励**仪表板**上。
+第一步是通过在合作伙伴中心设置你的奖励用户来完善你的合作伙伴中心奖励帐户。 你已收到电子邮件，内有你所在组织的奖励用户列表。 你的组织的奖励管理员完成用户设置后，你的所有奖励数据将都显示在奖励**合作伙伴中心**。
 
 **另请参阅**
 

@@ -1,15 +1,15 @@
 ---
 title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
-description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 说明如何在合作伙伴仪表板激活和管理你的成员身份权益。
+description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 介绍了如何激活和管理你在合作伙伴中心中的成员身份权益。
 author: MaggiePucciEvans
 keywords: MPN, 成员身份权益, 成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b79073435715c91a6c77da266ec3420c139d8e3
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: a7cd65f2f846357ed9ae98def154bf8e8db94314
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377719"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489793"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -18,12 +18,12 @@ ms.locfileid: "4377719"
 -  合作伙伴中心
 
 >[!IMPORTANT]
->本文介绍了如何开始使用合作伙伴仪表板（以前称为合作伙伴中心）中你的 Microsoft 合作伙伴网络 (MPN) 成员身份权益 - 此站点。 如果你还未收到将你公司的信息从 Partner Membership Center (PMC) 移至合作伙伴仪表板的邀请，你应该继续在 PMC 中管理你的 MPN 成员身份权益。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
+>本文介绍了如何开始使用 Microsoft 合作伙伴网络 (MPN) 成员身份权益在合作伙伴中心 （以前称为合作伙伴中心）-此站点。 如果你还未收到将你的公司信息从 Partner Membership Center (PMC) 移到合作伙伴中心的邀请，你应该继续管理在 PMC 中你的 MPN 成员身份权益。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
 
 加入 Microsoft 合作伙伴网络 (MPN) 后，你可以访问有助于业务构建和发展的成员身份权益。 如果你不是 MPN 的成员，可以加入 [MPN 站点](https://partner.microsoft.com/membership)。
 
 
-## <a name="manage-your-membership-benefits-in-the-dashboard"></a>在仪表板中管理成员身份权益
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>管理你在合作伙伴中心中的成员身份权益
 
 购买成员身份权益包后，你需要为员工获取软件密钥并分配许可证、订阅和其他权益，以便开始使用它们。 
 
@@ -89,9 +89,9 @@ ms.locfileid: "4377719"
    
     a.  从列表中选择一个用户。 如果你想要分配的用户不在列表中，则可以在**帐户设置**中[添加新用户](create-user-accounts-and-set-permissions.md)。
 
-    b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与贵公司仪表板帐户关联的电子邮件地址。 
+    b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与贵公司合作伙伴中心帐户关联的电子邮件地址。 
     
-    作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的仪表板帐户电子邮件地址。 请注意，激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。    
+    作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的合作伙伴中心帐户电子邮件地址。 请注意，激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。    
     
     c.  输入备用电子邮件地址后，请选择**分配用户**。 
 

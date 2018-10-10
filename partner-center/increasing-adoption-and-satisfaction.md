@@ -4,12 +4,12 @@ description: 我们的合作伙伴使用许多指标测量他们的业务是否�
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.localizationpriority: medium
-ms.openlocfilehash: 07061b8223001922b91e7d94b33340f7cd4a6aa1
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 8159d203a64632ff8802af5acdd1cb35a194a2ae
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377609"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489593"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -29,11 +29,11 @@ ms.locfileid: "4377609"
 
 **对于单个客户**
 
--   从**仪表板**选择**客户**、选择某个客户，然后选择**客户见解**。
+-   从**合作伙伴中心**中选择**客户**，选择某个客户，然后选择**客户洞察**。
 
 **跨产品组合**
 
-1.  在**仪表板**上，选择**分析**。
+1.  在**合作伙伴中心**，选择**分析**。
 2.  通过选择**导出**选项，下载整个客户群的部署和用法数据。
 
 术语：

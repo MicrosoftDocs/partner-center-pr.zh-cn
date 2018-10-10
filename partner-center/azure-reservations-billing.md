@@ -5,18 +5,18 @@ author: v-petand
 keywords: Azure RI, azure 预留实例, 预订, 虚拟机, 管理, 计费, 购买
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f29c884d155a64ba4d592466a87682313ce9610
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 846f2863e9c4dc9967b8c337bcab40f153b99eb6
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877407"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489433"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 虚拟机预留实例计费
 
 **适用范围**
 
--  合作伙伴仪表板
+-  合作伙伴中心
 -  Microsoft Azure 门户
 -  云解决方案提供商计划中的合作伙伴
 
@@ -27,7 +27,7 @@ ms.locfileid: "2877407"
 >[!IMPORTANT]
 >如果你在货币不同于你的货币的市场中为客户购买 Azure 虚拟机预留实例，则默认计费货币基于客户的市场，而不是你的位置。 如果你的客户遍布多个市场，那么你将收到对客户计费需要采用的每种货币的单独发票和对帐文件，并且能够使用相应的货币为客户开具发票。 
 
-若要访问一次性费用发票和对帐文件，请从合作伙伴仪表板中选择**计费**，然后选择**一次性**。 
+若要访问一次性费用发票和对帐文件，从合作伙伴中心中选择**计费**，然后选择**一次**。 
 
 有关云解决方案提供商计划中的计费的更多一般信息，请参阅[计费基础知识](billing-basics.md)。
 
@@ -98,12 +98,12 @@ ms.locfileid: "2877407"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>查看你的当前计费状态、发票和对帐文件
 
-1.  在合作伙伴仪表板中，选择**计费**，然后选择**一次性**以查看计费状态。 
+1.  在合作伙伴中心中，选择**计费**，然后**一次**以查看计费状态。 
 2.  选择发票或对帐文件以查看更多详细信息。 
 
 ### <a name="view-a-customers-order-history"></a>查看客户的订单历史记录
 
-1.  从仪表板菜单中选择**客户**。
+1.  从合作伙伴中心菜单中选择**客户**。
 2.  在你的**客户**页上，查找你想要查看其订单历史记录的客户，然后选择向下箭头以展开客户的记录。 
 3.  选择**查看订单**以显示订单历史记录。
 
@@ -117,8 +117,8 @@ ms.locfileid: "2877407"
 |**若要获取相关信息**   |**请阅读以下内容**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md)
-|在合作伙伴仪表板中为客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
-| 在合作伙伴仪表板中管理 Azure 预订 | [在合作伙伴仪表板中管理 Azure 预订](azure-reservations-manage.md)
+|为你在合作伙伴中心中的客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
+| 合作伙伴中心中管理 Azure 预订 | [合作伙伴中心中管理 Azure 预订](azure-reservations-manage.md)
 |在 Azure 门户中购买 Azure 预订 | Azure 帮助中的[为包含 Azure 虚拟机预留实例的虚拟机预先付款](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 门户中管理 Azure 预订   |Azure 帮助中的[管理虚拟机预留实例](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
