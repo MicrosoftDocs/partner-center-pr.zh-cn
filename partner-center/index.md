@@ -1,24 +1,24 @@
 ---
 layout: LandingPage
 hide_bc: true
-title: 从此处开始获取有关合作伙伴仪表板的帮助
-description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 在创建专门为在云解决方案提供商和 MPN 计划的合作伙伴此仪表板帮助资料库中查找答案。
+title: 从此处开始获取有关的合作伙伴中心帮助
+description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找答案此合作伙伴中心中的帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
 author: v-chmccl
 ms.topic: landing-page
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: f7e53e0731690f2ede4c1d3cf8fae906af8b9e91
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
+ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876367"
+ms.lasthandoff: 10/09/2018
+ms.locfileid: "4489673"
 ---
-# <a name="start-here-for-help-with-partner-dashboard"></a>从此处开始获取有关合作伙伴仪表板的帮助
+# <a name="start-here-for-help-with-partner-center"></a>从此处开始获取有关的合作伙伴中心帮助
 
-需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 在创建专门为在云解决方案提供商和 MPN 计划的合作伙伴此仪表板帮助资料库中查找答案。
+需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找答案此合作伙伴中心中的帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
 
-如果你已熟悉仪表板，请参阅[最近更新](/partner-center/whats-new-in-pc)。
+如果你已熟悉合作伙伴中心，请参阅[新增](/partner-center/whats-new-in-pc)。
 
 <ul id="products1" class="cardsC cols cols3 panelContent singlePanelContent">
     <li>
@@ -85,7 +85,7 @@ ms.locfileid: "2876367"
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">启动合作伙伴仪表板教程</a>（需要登录）</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">合作伙伴中心的教程</a>（需要登录）</h3>
                     </div>
                 </div>
             </div>
