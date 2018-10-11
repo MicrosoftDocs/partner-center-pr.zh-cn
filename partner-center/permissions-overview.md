@@ -4,12 +4,12 @@ description: 必须为每个需要在合作伙伴中心中工作的员工分配�
 author: labrenne
 keywords: 角色、 权限、 管理员、 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: 31ee676b9025edb82b155f64b9b2f44a3873c38c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: be506932a445c427bc3d4249bcab3f07ee1b14ff
+ms.sourcegitcommit: 820ec1ca260b185980ad53f103b95d79eb2c21c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489483"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "4528364"
 ---
 # <a name="assign-users-roles-and-permissions"></a>分配用户角色和权限
 
@@ -17,13 +17,13 @@ ms.locfileid: "4489483"
 
 - 合作伙伴中心
 
-在合作伙伴中心中的每个角色附带某些权限，从而允许用户完成特定任务。 在合作伙伴中心中的工作原理的人必须分配一个角色。
+在合作伙伴中心中的每个角色附带某些权限，从而允许用户完成特定任务。 在合作伙伴中心中的工作原理的人必须分配角色。
 
-具体取决于组织的规模某些用户可能工作跨位置或仅用于一个位置。 
+具体取决于你组织的规模某些用户可能工作跨位置或仅用于一个位置。 
 
 例如：
 
-- 全局管理员可以是法定公司和为特定位置; 的管理员全局管理员可以管理业务的位置之一或者。 
+- 全局管理员可以是法定公司和为特定位置; 管理员全局管理员可以管理业务的位置之一或者。 
 - 奖励管理员可以管理的一个或多个位置，但需要指定这些位置。
 
 
@@ -108,7 +108,7 @@ ms.locfileid: "4489483"
 <li><p>可以将奖励角色分配</p></li>
 <li><p>启动和管理奖励声明</p></li>
 <li><p>可查看和编辑奖励计划的所有方面</p></li>
-<li><p>可以查看银行和税务详细信息</p></li>
+<li><p>可查看和编辑银行和税务详细信息</p></li>
 <LI><p>视图返点和合作收益</p></li>
 <LI><p>访问支持</p></li>
 <LI><p>争议奖励付款</p></li>
