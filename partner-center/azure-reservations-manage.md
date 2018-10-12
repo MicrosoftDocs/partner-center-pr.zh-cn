@@ -4,12 +4,12 @@ Description: Purchasing and managing Azure reservations on behalf of your custom
 author: v-petand
 keywords: azure，预订，管理，计费，购买
 ms.localizationpriority: medium
-ms.openlocfilehash: d2ade5ff37d98a5667df7016cff2044d5001c036
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
+ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489773"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "4562269"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
@@ -42,6 +42,16 @@ ms.locfileid: "4489773"
 
 客户可以随时取消预订（每年最多取消 50,000 美元)。 通过取消，客户可以将剩余数月的 Azure 预订退还给 Microsoft 以获取提前终止费。 按比例计算的余额在扣除手续费后将退还至客户的原始购买帐户。 
 
+有关取消详细信息和费用，请参阅下文。
+
+|**取消日期**<br> （天为单位）   |**用途**    |**退款**  |**提前终止**<br> 费用    |**退款上限** | 
+|:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
+|少于 5                       | 否          | 100%       | 否                              | 花费 50000 美元   |
+|少于 5                       | 是         | 按比例  | 否                              | 花费 50000 美元   |
+|超过 5                        | 否          | 按比例  | 12%                             | 花费 50000 美元   |
+|超过 5                        | 是         | 按比例  | 12%                             | 花费 50000 美元   |
+
+
 **如何兑换** 
 
 通过兑换，客户可以根据预订的剩余时间期限获得按比例计算的退款，并且可以将退款金额用于购买新的预订。   
@@ -53,7 +63,7 @@ ms.locfileid: "4489773"
 >[!NOTE]
 >Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户中预订的**属性**页面上找到此信息。 
 
-1. 若要开始，选择**客户**从合作伙伴中心菜单，然后选择想要退款的客户。 
+1. 若要开始，从合作伙伴中心菜单中选择**客户**，然后选择想要退款的客户。 
 
 2. 在客户的详细信息页面上，选择 **Azure 预订**，然后选择客户想要退款的特定预订。  
 
