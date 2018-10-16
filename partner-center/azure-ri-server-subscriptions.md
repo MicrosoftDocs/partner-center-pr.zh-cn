@@ -4,20 +4,22 @@ description: 通过将 Azure RI 和服务器订阅纳入其云解决方案提供
 author: v-petand
 keywords: Azure, 订阅, 虚拟机, 预订, 预留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: e600102f4323cfe84538633ce07224f4331f0512
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 53a6276b1979df3655b946c979d3ee354a827abb
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875917"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658123"
 ---
+<!-- Mike Aasen wrote and owns this topic -->
+
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure 虚拟机预留实例 (RI) + Azure 服务器订阅
 
 **适用范围**
 
 -  合作伙伴中心
  
-Azure 虚拟机预留实例 (RI) 和现在 Windows Server 和 SQL Server 订阅可通过 Microsoft 的云解决方案提供商 (CSP) 计划 （请参阅[发布](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/?ln=en-us)）。 
+Azure 虚拟机预留实例 (RI) 现在是 Windows Server 和 SQL Server 订阅可通过 Microsoft 的云解决方案提供商 (CSP) 计划 （请参阅[公告](https://blogs.partner.microsoft.com/mpn/better-together-azure-reserved-instances-server-subscriptions/?ln=en-us)）。 
 
 通过将 Azure RI 和服务器订阅纳入其云解决方案提供商计划，Microsoft 可以更好地帮助其合作伙伴满足客户对成本效益更高的解决方案的快速增长需求，从而为高度可预测的持久云工作负荷提供支持。 利用云解决方案提供商计划，合作伙伴能够通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure RI 和服务器订阅。  
  
@@ -25,7 +27,7 @@ Azure 虚拟机预留实例 (RI) 和现在 Windows Server 和 SQL Server 订阅�
 
 利用 Azure 虚拟机，客户可以针对各种计算解决方案灵活地进行虚拟化，包括开发和测试、运行应用程序以及扩展数据中心。  
 
-利用云解决方案提供商计划中的虚拟机预留实例，商业客户现在只需购买或“预订”一年或三年的虚拟机，即可比即付即用 Azure 虚拟机定价节省高达 72% 的费用。 通过 Azure 混合权益，包括软件保障的 Windows Server 客户将能够节省 80%与即付即用定价。  
+利用云解决方案提供商计划中的虚拟机预留实例，商业客户现在只需购买或“预订”一年或三年的虚拟机，即可比即付即用 Azure 虚拟机定价节省高达 72% 的费用。 通过 Azure 混合权益，包括通过软件保障的 Windows Server 客户将能够节省 80%与即付即用定价。  
 
 Microsoft 在帮助实现这些惊人的节省额的同时，还提供简单的选项和令人难以置信的部署期限。 Azure 虚拟机预留实例：  
 
@@ -45,7 +47,7 @@ Windows Server 和 SQL Server 订阅出售的云解决方案提供商还包括 A
  
 ### <a name="why-is-this-announcement-good-news-for-microsoft-partners"></a>为什么此公告对 Microsoft 合作伙伴来说是一个好消息？ 
 
-通过云解决方案提供商将 Azure 虚拟机预留实例和服务器订阅以及 Azure 混合权益，Microsoft 可以更好地帮助合作伙伴增长其云解决方案业务通过进行到目标，更多持久赢取的低成本 Azure 虚拟机和服务器软件云工作负荷。 到目前为止，云解决方案提供商合作伙伴只能出售即付即用的 Azure 虚拟机，因此必须使用其他许可计划来获取 Windows Server 和 SQL Server 的软件订阅。  
+通过云解决方案提供商将 Azure 虚拟机预留实例和服务器订阅以及 Azure 混合权益，Microsoft 可以更好地帮助合作伙伴增长其云解决方案业务采用为目标并赢得更多持久的低成本 Azure 虚拟机和服务器软件云工作负荷。 到目前为止，云解决方案提供商合作伙伴只能出售即付即用的 Azure 虚拟机，因此必须使用其他许可计划来获取 Windows Server 和 SQL Server 的软件订阅。  
 
 在客户级别许可 Azure 虚拟机预留实例和服务器订阅的合作伙伴友好型业务模型可提供成本可预测性，并提高可扩展性，从而简化销售流程。 合作伙伴不需要部署复杂的流程和工具，即可为其客户采购和管理预留实例并对其定价 – 这样，合作伙伴可以将更多时间花在客户身上，并扩展其 IT 管理增值云解决方案产品组合。 
 
@@ -71,8 +73,8 @@ Azure 虚拟机预留实例和服务器订阅能够作为增长收入和增强�
 -   [Azure 预订与服务器订阅以及 Azure 混合权益概述演示文稿](https://www.yammer.com/cloudpartnercommunity/#/files/133462305)
 -   [服务器订阅以及 Azure 混合权益概述演示文稿](https://www.yammer.com/cloudpartnercommunity/#/files/141644181)
 -   [Azure 预订概述网络研讨会](https://commercial-licensing.eventbuilder.com/Reserved_Instances_in_CSP_May_Option_1)
--   [在云解决方案提供商 (第 2 部分) 网络研讨会服务器订阅](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)– 第 2 部分的 Azure 预订概述网络研讨会，此会话将更深入地进入销售云解决方案提供商中的服务器订阅的好处。  包含是保留的情况下，了解，它们服务器订阅，客户权益概述在云解决方案提供商中使用的服务器订阅和交易服务器订阅的权限。
--   （更新）[现代商务操作指南](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)： 综合指南，其中涵盖关键策略和运营方面的内容，如协议、 通过合作伙伴中心订购、 发票、 价目表列表详细信息、 奖励、 对帐文件、 API/SDK、 沙盒和 Azure合作伙伴共享服务。
+-   [在云解决方案提供商 (第 2 部分) 网络研讨会服务器订阅](https://commercial-licensing.eventbuilder.com/Server_Subscriptions_in_CSP_P2_July)– 第 2 部分的 Azure 预订概述网络研讨会，此会话进入更深入地销售云解决方案提供商中的服务器订阅的好处。  包含是预留实例，了解，它们服务器订阅，客户权益概述在云解决方案提供商中使用的服务器订阅和交易服务器订阅的权限。
+-   （更新）[现代商务操作指南](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)： 综合指南，其中涵盖关键策略和运营方面的内容，如协议、 通过合作伙伴中心订购、 发票、 价目表列表的详细信息、 奖励、 对帐文件、 API/SDK、 沙盒和 Azure合作伙伴共享服务。
 -   （更新）[销售工作表](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 -   [现代产品/服务国家/地区可用性和客户货币矩阵](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 -   [合作伙伴大学中的 Azure 许可模块](https://aka.ms/azure_partner_licensing)
@@ -93,7 +95,7 @@ Azure 虚拟机预留实例和服务器订阅能够作为增长收入和增强�
 
 Azure 混合权益 - 适用于 Windows Server 或 SQL Server 迁移的最经济的云：
 -   通过 Azure 混合权益和预留实例最多可节省 80% 的 Windows Server 费用
--   节省 30%* 迁移到使用 Azure 混合权益的 Azure SQL 数据库
+-   节省 30%* 迁移到 Azure SQL 数据库通过 Azure 混合权益
 -   堆叠节省通过 RI + Windows Server + SQL 订阅按在 SQL IaaS VM 上保存 49%
 -   按照自己的步调 - 移动一些工作负荷或整个数据中心
 -   最大限度地利用你的软件保障当前投资

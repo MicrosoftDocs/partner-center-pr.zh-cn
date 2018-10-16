@@ -4,14 +4,14 @@ Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
 keywords: azure，预订，管理，计费，购买
 ms.localizationpriority: medium
-ms.openlocfilehash: e318331f779052dedb9fe7ee25351dc66b14b463
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488763"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658103"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-the-partner-center"></a>代表你在合作伙伴中心中的客户购买 Microsoft Azure 预订 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表你的客户在合作伙伴中心购买 Microsoft Azure 预订 
 
 **适用范围**
 
@@ -26,15 +26,21 @@ ms.locfileid: "4488763"
 2. 在你的**客户**页上，查找想要购买 Azure 预订的客户，然后选择向下箭头以展开客户的行。  
 
 3. 选择**添加产品**，然后选择**Azure**。 
-    
-4. Azure 预订必须与有效的 Azure 订阅相关联。 选择你想要将 Azure 预订添加到的客户的订阅。 显示可用的 Azure 预留实例列表。 
+
+    a. **类别**在列表中选择客户的市场类别。
+
+    b. 从产品**类型**列表中选择**预订**。
+
+    c. 从**预订类型**列表中选择客户想要的预订的类型。
+
+4. Azure 预订必须与有效的 Azure 订阅相关联。 选择你想要添加到**客户订阅**列表中的 Azure 预订的客户的订阅。 
 
     >[!IMPORTANT] 
-    >如果客户还没有 Azure 订阅，请选择**联机服务**以立即添加一个。 
+    >如果客户已不具有有效的 Azure 订阅，请选择**联机服务**以立即添加一个。 
 
 5. 使用筛选器来查找满足客户的需求的预留的实例。  
 
-6. 查找你想要购买、 输入预留实例数预留的实例后客户将需要**数量**，然后选择**添加到购物车**。  
+6. 查找你想要购买，输入的预留实例数的预留后客户将需要在**数量**，，然后选择**添加到购物车**。  
 
 7. 重复步骤 5 和 6，直到已将所有必要的项添加到订单中。 选择**查看**以确认你的订单正确无误。  
 
@@ -42,13 +48,16 @@ ms.locfileid: "4488763"
 
     a. 验证或更改预留的实例数量。
 
-    b. 选择预订的范围。 预订的范围可以涵盖一个订阅或多个订阅（共享范围）。 如果你选择单个订阅，则预订折扣到此订阅仅。 如果你选择共享，则预订折扣向客户计费上下文内任何订阅。 
+    b. 选择预订的范围。 预订的范围可以涵盖一个订阅或多个订阅（共享范围）。 如果你范围设定为单个订阅预订，预订折扣仅此订阅。 如果你选择共享，则预订折扣向客户计费上下文内任何订阅。 
+
+     >[!NOTE]
+    >如果你选择预订的范围限制为单个 Azure 订阅，你可能需要增加订阅的 vCPU 配额。 若要提高订阅的 vCPU 配额，你将需要在 Azure 门户中创建支持请求。 按照说明[在本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)创建请求。    
 
     c. 如果你不提供商合作伙伴，选择你想要关联的产品经销商。
 
-9. 选择**购买**以购买订购的商品。 
-
-    你的订单详细信息（包括订单编号）会显示在下一页上。 选择**完成**以转到你的**订单历史记录**页面。 
+9. 选择**购买**以购买订购的商品。 在**确认**页面上显示的订单，包括订单编号，详细信息。    
+     
+     选择**完成**以转到你的**订单历史记录**页面。 
 
 >[!IMPORTANT]
 >如果尚未完成此操作，在**客户**页面上查找客户，然后选择向下箭头以展开客户的行。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。

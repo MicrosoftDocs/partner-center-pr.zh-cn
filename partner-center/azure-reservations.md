@@ -4,12 +4,12 @@ Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
 keywords: azure，预订，管理，计费，购买，Azure RI，Azure 预留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: c580553aa484611790b2c83bab968025c0bb1379
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
+ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489753"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "4658113"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>销售 Microsoft Azure 预留实例 
 
@@ -27,7 +27,8 @@ ms.locfileid: "4489753"
 -   在组织或单个部门级别管理预留实例的使用 
 
 > [!NOTE]  
-> Azure 预留实例在以下市场中不可用：  
+> Azure 预订当前不可用在以下市场中：
+  
 > * 阿根廷
 > * 阿塞拜疆
 > * 白俄罗斯
@@ -47,7 +48,7 @@ ms.locfileid: "4489753"
 > * 土耳其
 > * 乌克兰
 
-提供的 Azure 预留实例将通过以下方式吸引向你的客户：
+Azure 预留实例的可用性将按以下方式吸引你的客户：
 
 -   预留实例可以通过即付即用 (PAYG) 定价节省大量成本
 -   通过一年或三年的预付款更好地进行预算和预测 
