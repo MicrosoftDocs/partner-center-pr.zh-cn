@@ -4,12 +4,12 @@ Description: FAQ for customer acceptance confirmation
 author: v-petand
 keywords: 客户、 客户、 同意，常见问题
 ms.localizationpriority: medium
-ms.openlocfilehash: 6beb7b2cb7a3bb6579ec006217d12d1c8d394079
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: af521520b8650a8c585a3644eaf7a5263e17ba78
+ms.sourcegitcommit: bbb8bf661c73b260abc6565e287cfef3eb4cfa01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489363"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "5425214"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft 云协议客户接受确认常见问题 
 
@@ -17,60 +17,183 @@ ms.locfileid: "4489363"
 -  合作伙伴中心
 
 若要了解详细信息，请参阅[确认客户接受 Microsoft 云协议](https://docs.microsoft.com/en-us/partner-center/confirm-consent)。
- 
-## <a name="what-is-the-new-functionality-for-confirming-customer-acceptance-of-the-microsoft-cloud-agreement-mca"></a>确认客户接受的 Microsoft 云协议 (MCA) 的新功能是什么？ 
-Microsoft 致力于帮助我们的客户和合作伙伴保持兼容。 作为 Microsoft 的[云解决方案提供商 (CSP) 计划](https://partner.microsoft.com/en-us/cloud-solution-provider)中的合作伙伴，你负责查看 Microsoft 的条款和条件，包括 Microsoft 产品和服务与客户的可接受用法。 若要支持此现有的要求，我们可以帮助允许云解决方案提供商合作伙伴，以确认其客户已接受 MCA 条款的新功能。 截至 2018 年 8 月 7 日，我们引入了新字段在合作伙伴中心以及一个合作伙伴中心 API 为合作伙伴提供此信息。 
- 
-## <a name="when-is-the-new-functionality-available"></a>何时可用的新功能？ 
-合作伙伴可能会开始确认验收，只要在 2018 年 8 月 7 日功能才可用。 确认客户接受 MCA 将需要从 2018 年 11 月 7 日开始的所有新的交易记录。 
- 
-## <a name="how-does-the-functionality-work"></a>功能是如何工作的？
-从 2018 年 8 月 7 日开始提供的两种方法来帮助合作伙伴确认客户接受：  
 
--   合作伙伴可以使用**合作伙伴中心**确认客户接受。 
+-   [处理](##processfaq)
 
--   合作伙伴可以使用**合作伙伴中心 API**以编程方式确认客户接受。 有关如何执行此操作的详细信息，请参阅以下文档：
-    -   [确认客户接受 Microsoft 云协议](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
-    -   [获取 Microsoft 云协议客户接受确认](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
-    -   [获取 Microsoft 云协议的协议元数据](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
-    -   [协议](https://docs.microsoft.com/en-us/partner-center/develop/agreement)
-    -   [协议元数据](https://docs.microsoft.com/en-us/partner-center/develop/agreement-metadata)
+-   [策略](#policyfaq)
 
-##  <a name="what-customer-information-is-required-to-complete-the-confirmation-process"></a>哪个客户信息是需要完成的确认过程？ 
-有关接受此协议的人员是必需的以下信息： 
--    协议接受的日期 
--    第一个和最后一个名称 
--    电子邮件地址 
--    电话号码 （可选）  
- 
-## <a name="what-will-happen-if-i-do-not-take-action"></a>如果我不执行操作，则将发生什么情况？ 
-从 2018 年 11 月 7 日，合作伙伴必须使用新功能来确认客户接受的 MCA。 为现有客户，新购买和编辑现有订阅不允许将确认客户接受之前。 对于新的客户，交易记录不允许将确认接受之前。 
- 
-## <a name="which-regions-does-this-requirement-apply-to"></a>此要求适用于哪些地区？ 
-需要 Microsoft 公有云下的所有地区的客户接受程度 MCA 确认。 （包括 Microsoft 云以及美国政府 Microsoft 云德国） 的国家云是不受支持的客户接受确认。 
- 
-## <a name="which-partners-are-responsible-for-confirming-customer-acceptance-to-the-mca"></a>哪些合作伙伴负责确认客户接受 MCA 程度？ 
-有效 2018 年 11 月 7 日，云解决方案提供商间接提供商和云解决方案提供商直接计费的合作伙伴，这两者均负责确认客户接受，并且必须使用合作伙伴中心 API 或合作伙伴中心执行此操作。 间接提供商可能需要先从其间接经销商收集所需的信息，如果这尚未其现有过程的一部分，然后将其提供通过合作伙伴中心 API 或合作伙伴中心向 Microsoft。 通过合约，它是间接提供商具有与 Microsoft 以确保其云解决方案提供商经销商的最终客户已接受 MCA 合同的绑定。  
- 
-## <a name="what-customer-scenarios-require-confirmation-of-customer-acceptance-of-the-mca"></a>哪些客户方案需要确认是否 MCA 客户接受？ 
-初始接受 Microsoft 云协议，*必须*进行确认，当要进行以下交易记录云解决方案提供商合作伙伴： 1 新客户完成新购买 2 现有客户完成新购买的 3 现有客户更新向现有订阅的席位数 
- 
-## <a name="what-happens-when-microsoft-updates-the-mca-do-i-need-obtain-re-confirmation-of-the-new-mca"></a>Microsoft 更新 MCA 时，会发生什么情况？ 需要获取新 MCA 重新的确认？
-否，除非已更新的协议与一致的新购买新的客户，或更新订阅。 一次在你确认已客户已接受 MCA，此信息保留在合作伙伴中心中的客户帐户部分，不需要重新接受确认 Microsoft 更新 MCA 时。 但是，可以随意确认经常接受。 
- 
-## <a name="can-i-confirm-the-acceptance-for-existing-customers-separate-from-their-new-purchases-or-seat-additions"></a>可以确认的独立于其新购买的现有客户接受或席位新增内容？ 
-是。 客户接受可以确认 MCA 涵盖的所有客户。 
- 
-## <a name="what-if-im-having-difficulty-implementing-the-partner-center-api"></a>如果我有有关难以实现合作伙伴中心 API？ 
-可以通过合作伙伴中心手动确认接受。 
- 
-## <a name="what-are-the-requirements-for-customers-that-have-multiple-csp-partners"></a>有多个云解决方案提供商合作伙伴的客户的要求有哪些？ 
-由合作伙伴确认验收确认。 如果客户而且交易与多个云解决方案提供商合作伙伴，每个合作伙伴将需要确认接受。 
- 
-## <a name="i-am-a-csp-indirect-reseller-working-with-csp-indirect-providers-what-is-my-responsibility"></a>我是云解决方案提供商间接经销商与云解决方案提供商间接提供商合作。 我的责任是什么？ 
-通过合约，它是间接提供商具有与 Microsoft 以确保最终客户已接受 MCA 合同的绑定。 但是，间接提供商可能有与间接经销商的单独排列收集客户接受。 在此情况下，间接提供商将需要先从其间接经销商收集所需的客户接受信息并让其可通过合作伙伴中心 API 或合作伙伴中心向 Microsoft。 你可以通过立即向你的间接提供商在其请求后提供所需的信息来支持此过程。 
- 
-## <a name="i-am-a-csp-indirect-provider-do-i-need-to-coordinate-with-my-csp-indirect-reseller-to-be-prepared"></a>我是云解决方案提供商间接提供商。 是否需要与我的云解决方案提供商间接经销商要准备进行协调？ 
-需要从其间接经销商收集所需的客户接受信息的间接提供商建议进行通信的要求为其间接经销商立即协调交付和此信息的收据。 
- 
+-   [技术](#technicalfaq)
+
+## <a href="" id="processfaq"></a>处理
+
+**确认客户接受的 Microsoft 云协议 (MCA) 的新过程是什么？**
+
+Microsoft 致力于帮助我们的客户和合作伙伴保持兼容。 作为 Microsoft 的云解决方案提供商 (CSP) 计划中的合作伙伴，你负责查看 Microsoft 的条款和条件，包括 Microsoft 产品和服务与客户的可接受用法。 若要更好地帮助合作伙伴满足合规性要求并确保透明度，我们将支持一个新的过程，需要以确认其客户已接受 MCA 条款的云解决方案提供商合作伙伴。 从 2018 年 8 月 7 日，我们引入了新字段在合作伙伴中心仪表板用户界面中也适用于的合作伙伴中心 API 合作伙伴提供此信息。 最初它将在可选提供此确认，但它需要将从 2018 年 11 月 7 日开始。 
+
+**此要求时将生效？**
+
+合作伙伴可能会开始确认接受，只要在 2018 年 8 月 7 日功能才可用。 从 2018 年 11 月 7 日，合作伙伴中心仪表板要求用户确认客户接受的所有新的交易记录 MCA。 2019 年 3 月 22 日合作伙伴中心 API 的用户将需要执行相同操作。 API 的用户的截止时间已扩展，以允许它们在其他时间的技术实现。
+
+**新 |Microsoft 是否验证所提供的合作伙伴的客户信息的准确性？**
+
+Microsoft 验证提供的客户电子邮件地址属于正确的格式。 它是合作伙伴的责任提供准确的信息并更正任何发现不准确的信息。 
+
+**新 |如何可以合作伙伴证明客户接受 MCA，是否已签名、 记录，数字化，或在纸张上？**
+
+合作伙伴负责确保客户已接受的 MCA 条款并管理其自己的进程和记录。 通过使用在合作伙伴中心仪表板或合作伙伴中心 API 过程，合作伙伴确认客户已接受的 MCA 条款。
+
+**新 |Microsoft 如何检查确认过程已经完成了客户？**
+
+开始 7，2018 年 11 月，当云解决方案提供商合作伙伴启动事务为新的或现有客户使用合作伙伴中心仪表板，Microsoft 的系统将自动检查是否存在在合作伙伴中心中的客户确认信息仪表板。 如果不存在，交易不能才能完成。 
+
+开始 3 月 22，2019，当云解决方案提供商合作伙伴启动事务为新的或现有客户使用合作伙伴中心 API，Microsoft 的系统将自动检查客户确认信息是否存在。 如果不存在，交易不能才能完成。 
+
+**新 |是向客户发送通知的确认过程中提供其电子邮件地址？**
+
+没有通知的进程。
+
+## <a href="" id="policyfaq"></a>策略
+
+**Microsoft 要求合作伙伴以确认客户已接受 MCA 的为什么？** 
+
+Microsoft 云协议 (MCA) 合作伙伴、 客户和 Microsoft 通过提供保护客户的使用权限、 条款和条件授予 Microsoft 云产品和服务订单。 
+
+正确执行 MCA 保护我们的合作伙伴，客户和 Microsoft 通过确保包括许多重要主题相互对齐，但不是限于安全、 隐私和数据保护。 确认过程将透明度和对齐，允许 Microsoft 以更好地帮助客户需要立即响应法规的查询。
+
+**哪些客户信息是需要完成的确认过程？**
+有关接受此协议的人员是必需的以下信息：
+-   协议接受的日期
+-   第一个和最后一个名称
+-   电子邮件地址
+-   （可选） 的电话号码 
+
+**新 |如果我们不能满足到期日期，会发生什么情况？**
+
+合作伙伴可能会开始确认接受，只要在 2018 年 8 月 7 日功能才可用。 从 2018 年 11 月 7 日，合作伙伴中心仪表板要求用户确认客户接受的所有新的交易记录 MCA。 2019 年 3 月 22 日合作伙伴中心 API 的用户将需要执行相同操作。
+
+在强制执行时，为现有客户或更改席位计数现有订阅的新购买不允许将确认客户接受之前。 对于新的客户，交易不允许将确认接受之前。 此要求不会影响自动续订。
+
+**此要求适用于在哪些地区？**
+
+需要 Microsoft 公共云下的所有地区的客户接受程度 MCA 确认。 （包括 Microsoft 云，美国政府 Microsoft 云德国） 的国家云是不受支持的客户接受确认。
+
+**哪些合作伙伴负责确认客户接受 MCA 程度？**
+
+2018 年 11 月 7 日，云服务提供商 (CSP) 的间接提供商和云解决方案提供商直接计费的合作伙伴，这两者均负责确认客户接受，并且可以使用合作伙伴中心 API 或合作伙伴中心仪表板来执行此操作生效。 间接提供商可能需要首先从其间接经销商收集所需的信息，然后将其提供给 Microsoft 通过合作伙伴中心 API 或合作伙伴中心仪表板。 通过合约，它是间接提供商具有与 Microsoft 以确保其云解决方案提供商经销商的最终客户已接受到 MCA 合同的绑定。 
+
+**哪些客户方案需要确认客户接受 MCA？**
+
+云解决方案提供商合作伙伴对要进行以下交易记录时，必须进行确认接受 Microsoft 云协议：
+1.  新客户完成新购买
+2.  现有客户完成新购买
+3.  现有客户更新为现有订阅的席位数
+
+**可以确认的独立于其新购买的现有客户接受或席位新增内容？**
+
+是。 客户接受可以确认 MCA 涵盖的所有客户。
+
+**有多个云解决方案提供商合作伙伴的客户的要求有哪些？**
+
+接受的确认的合作伙伴确认。 如果客户而且交易与多个云解决方案提供商合作伙伴，每个合作伙伴将需要确认接受。
+
+**我是云解决方案提供商间接经销商与云解决方案提供商间接提供商合作。 我的责任是什么？**
+
+通过合约，它是间接提供商具有与 Microsoft 以确保最终客户已接受 MCA 合同的绑定。 但是，间接提供商可能有与间接经销商的单独排列收集客户接受。 在此情况下，间接提供商将需要首先从其间接经销商收集所需的客户接受信息，然后将其提供给 Microsoft 通过合作伙伴中心 API 或合作伙伴中心仪表板。 你可以通过立即向你的间接提供商在其请求后提供所需的信息来支持此过程。
+
+**我是云解决方案提供商间接提供商。 是否需要与我的云解决方案提供商间接经销商要准备进行协调？**
+
+需要从其间接经销商收集所需的客户接受信息的间接提供商建议进行通信的要求为其间接经销商立即协调交付和此信息的收据。
+
+**如何可以我向介绍我的客户，它们应确认其接受的 MCA？**
+
+正确执行 MCA 保护 Microsoft、 合作伙伴和客户通过确保包括许多重要主题相互对齐，但不是限于安全、 隐私和数据保护。 确认过程将透明度和对齐，允许 Microsoft 以更好地帮助客户需要立即响应法规的查询。
+
+**新 |如果客户适用于单个的云解决方案提供商间接提供商，但事务完成与多个云解决方案提供商间接经销商，是否每个云解决方案提供商间接经销商需要云解决方案提供商间接提供商提供的确认信息？**
+
+云解决方案提供商间接提供商负责向 Microsoft 提供的 MCA 客户接受确认。 每个客户帐户，可以一次在合作伙伴中心仪表板中记录只有一个确认。 
+
+云解决方案提供商间接提供商负责确认，客户的联系人负责同意 MCA 已完成此操作，而不考虑云解决方案提供商间接经销商联系他们与之交易的数量。
+
+**新 |谁应该是授权的用户，以确认客户组织内部 MCA 接受？**
+
+它是从客户组织内人员获取客户接受 MCA 合作伙伴的责任。 它是确定谁有权提供接受客户的责任。 
+
+**新 |哪个版本的 MCA 是合作伙伴负责确认客户接受？ 合作伙伴需要指示哪个版本的 MCA 客户已接受吗？**
+
+合作伙伴负责进行云解决方案提供商交易记录与新客户时使用最新的 MCA。 合作伙伴必须确认接受的最新的 MCA 时续订、 更改或完成与现有客户的新交易。 
+
+在 MCA，将在续订之前更新的情况下，合作伙伴不需要让客户重新立即获取客户接受 MCA，但必须重新之前续订 MCA 同意确认。 但是，你可能想要让客户接受新条款之前续订 MCA 中充分利用新的和改进的条款。
+
+**新 |我是云解决方案提供商间接经销商。 如果我在我的公司的记录中记录客户接受 MCA，是否需要还提供此信息通过合作伙伴中心仪表板或合作伙伴中心 API？**
+
+通过合约，它是间接提供商具有与 Microsoft 以确保最终客户已接受 MCA 合同的绑定。 但是，间接提供商可能有与间接经销商的单独排列收集客户接受。 在此情况下，间接提供商将需要首先从其间接经销商收集所需的客户接受信息，然后将其提供给 Microsoft 通过合作伙伴中心 API 或合作伙伴中心仪表板。
+
+**新 |如果我的客户不一致的 MCA 条款？**
+
+作为 Microsoft 的云解决方案提供商计划中的合作伙伴，你负责之前订单 MCA 客户接受。 这不是新的要求。 出于任何原因，如果客户不会再同意使用 MCA，然后合作伙伴必须取消与此客户的订阅。
+
+**新 |经销商可以提供同意代表客户？**
+
+不需要。
+
+**我确认后客户已提供接受，是否需要重新确认它的客户在将来？**
+
+一次在你确认已客户已接受 MCA，此信息保留在合作伙伴中心中的客户帐户部分，不需要重新接受客户覆盖的协议条款的时间的持续时间内确认。 仅必须重新确认验收之前新订单。
+
+在 MCA，将在续订之前更新的情况下，合作伙伴不需要让客户重新立即获取客户接受 MCA，但必须重新之前续订 MCA 同意确认。 但是，你可能想要让客户接受新条款之前续订 MCA 中充分利用新的和改进的条款。
+
+**新 |我不舒适向 Microsoft 提供我最终客户的直接联系人信息。 Microsoft 如何使用此信息？**
+
+合作伙伴可以创建客户租户，时，需要为客户提供主要联系人信息。 每在线服务条款，"Microsoft 将处理个人数据仅在从客户的记录说明上。"
+
+## <a href="" id="technicalfaq"></a>技术
+
+**如何合作伙伴确认客户接受并将其提供给 Microsoft？ 哪些工具提供了以支持此过程？**
+
+从 2018 年 8 月 7 日开始提供的两种方法来帮助合作伙伴： 
+1.  合作伙伴可以使用合作伙伴中心 API 以编程方式确认客户接受。 
+2.  合作伙伴可以使用合作伙伴中心仪表板以确认客户接受。
+
+**新 |我是使用合作伙伴中心 API 的云解决方案提供商合作伙伴。 哪些 API 更改需要考虑我？** 
+
+在此情况下，需要考虑 API 更改是：
+
+-   [https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent) 
+
+-   [https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
+
+-   [https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
+
+**如果我有有关难以实现合作伙伴中心 API？**
+
+可以通过在合作伙伴中心仪表板手动确认接受。
+
+**新 |作为使用合作伙伴中心仪表板或合作伙伴中心 API 的替代项，可以我批量上传文件与客户确认信息改为？**
+
+此时，在合作伙伴中心仪表板和合作伙伴中心 API 是提供的客户接受 MCA 确认的唯一接受的方法。
+
+**新 |我使用第三方平台或"中间件，"执行功能将我的公司的系统连接的合作伙伴中心的合作伙伴。 我需要执行哪些操作？**
+
+合作伙伴使用平台集成合作伙伴中心 API 的建议直接咨询有关其计划和时间线的提供程序的集成自动化客户确认过程的合作伙伴中心 API 功能。
+
+**新 |你可以为导入客户完整名称和电子邮件地址，以及 MCA 接受日期提供 API 流程示例？**
+
+合作伙伴建议查看详细信息和示例的合作伙伴中心 API 文档。
+
+**新 |如何获取最新的 MCA，向客户显示，并确认记录中使用作为我 API 过程的一部分？**
+
+当前合作伙伴中心 API 非常简单，并且不提供适用于合作伙伴以编程方式检索一份 MCA，也不会它不会捕获的一部分确认客户接受 MCA 版本。 
+
+**新 |对于此过程使用合作伙伴中心 API 需要一个 userID 参数。 当通过不与 Azure AD 集成的第三方平台订单，如何管理此要求？**
+
+UserID 在本例中标识可提供的客户同意确认合作伙伴租户下的员工。 如果员工没有相应的 Azure AD 用户帐户下的合作伙伴租户，则建议您为该目的指定一个特定的用户帐户并创建一个过程来单独捕获的员工提供标识确认。 
+
+**新 |Microsoft 要求合作伙伴以确认客户同意而不是直接从客户 MCA 的为什么？**
+
+客户从云解决方案提供商合作伙伴，不直接从 Microsoft 购买。 使用服务，Microsoft 提供，Microsoft 提供的条款会记录在 MCA。 MCRA 要求云解决方案提供商合作伙伴必须具有客户阅读并接受之前订单 MCA。 
+
+**新 |我使用 API 和合作伙伴中心仪表板 web 用户界面来确认 MCA 客户接受。 在 2018 年 11 月 7 日后, 有哪些我的选项来确认客户接受？**
+
+这两个选项是可用并以确认 MCA 客户接受可接受。 使用合作伙伴中心仪表板的交易记录将需要确认存在从 2018 年 11 月 7 日。 使用合作伙伴中心 API 的交易记录将需要确认存在开始 2019 年 3 月 22 日。
+
 
