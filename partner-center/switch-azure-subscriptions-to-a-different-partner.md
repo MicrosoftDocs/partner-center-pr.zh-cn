@@ -5,12 +5,12 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: b579fc3fcebdba3f85265014e13c074b17b0fcdc
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5c4f1b5df62d800f2c3ac14137dd85743e928e90
+ms.sourcegitcommit: 5c8ea8aaa94f79cd2fc031b2b40a0cc363c5d3c7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488963"
+ms.lasthandoff: 10/25/2018
+ms.locfileid: "5511388"
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 
@@ -21,10 +21,9 @@ ms.locfileid: "4488963"
 客户可以决定切换到某个云解决方案提供商合作伙伴或另一合作伙伴来提供其 Microsoft Azure 服务。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。
 
 >[!Note]  
->这一次仅直接或间接提供商将能够转移订阅。
+>这一次仅直接或间接提供商将能够传输的订阅。
 
->[!Note] 
->它不是当前可能更改为 Office 365、 企业移动性套件或 Microsoft Dynamics CRM 订阅的云解决方案提供商订阅的合作伙伴。
+>[!Note]它不是当前可以更改为 Office 365、 企业移动性套件或 Microsoft Dynamics CRM 订阅的云解决方案提供商订阅的合作伙伴。
 
 
 
@@ -68,7 +67,7 @@ ms.locfileid: "4488963"
     *重要提示*：如果新云解决方案提供商合作伙伴与客户没有经销商关系，则在传输订阅前，他们必须建立这种关系。 [可在此处查找关于如何执行此操作的信息](request-a-relationship-with-a-customer.md)。
 
     >[!Note]
-    >新的云解决方案提供商合作伙伴和客户租户必须在同一个区域中。 
+    >新的云解决方案提供商合作伙伴和客户租户必须位于同一国家/地区。 
 
 5.  当前合作伙伴：
 
@@ -95,9 +94,9 @@ ms.locfileid: "4488963"
     -  在“客户”菜单中，选择**服务管理**。 
     -  在 **Microsoft Azure** 下，单击链接即可转到 **Microsoft Azure 管理门户**。
 
- 
+ 
 
- 
+ 
 
 
 
