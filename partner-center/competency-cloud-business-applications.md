@@ -1,19 +1,22 @@
 ---
 title: 云业务应用程序能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 云业务应用程序能力适用于专为客户部署和管理 Microsoft Dynamics 365 的合作伙伴。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 云业务应用程序
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 217f988b6a7003cc1cdabeb3f8663eeaa619b362
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 2e48aa911f554757f75c53c0ebd1301709f06f36
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876697"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794570"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="bc1f5-104">若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="bc1f5-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="9c38d-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="9c38d-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

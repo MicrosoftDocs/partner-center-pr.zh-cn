@@ -1,19 +1,22 @@
 ---
 title: 数据分析能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果你的组织从事数据检查业务，以帮助客户发现更加深入的见解、做出预测或提出建议，那么数据分析能力会为你提供一个平台来培养和证明你的能力。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 数据分析
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 392efa7ef4fc6626d076c8419e68c9b510e7f0cd
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875297"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796220"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="1ece2-104">若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="1ece2-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="a8783-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="a8783-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Data Analytics

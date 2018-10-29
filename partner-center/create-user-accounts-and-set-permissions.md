@@ -1,16 +1,19 @@
 ---
 title: 创建用户帐户和设置权限 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 管理员为每个需要访问合作伙伴中心的合作伙伴员工创建用户帐户。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: roles, permissions,add user, assign role, admin, agent,
 ms.localizationpriority: medium
-ms.openlocfilehash: 6308391b632ea61679a23fb56be2e351681e6e59
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541466"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796600"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a><span data-ttu-id="c8d64-103">创建用户帐户并分配权限</span><span class="sxs-lookup"><span data-stu-id="c8d64-103">Create user accounts and assign permissions</span></span>
 

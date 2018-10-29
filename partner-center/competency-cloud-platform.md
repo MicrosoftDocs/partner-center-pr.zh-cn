@@ -1,19 +1,22 @@
 ---
 title: 云平台能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 云平台能力旨在让合作伙伴利用基于 Microsoft Azure 的基础结构和软件即服务 (SaaS) 解决方案的不断增长的需求。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 云平台
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 625bf04a692a13ae88ad3487d99aea36be50be02
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875187"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795750"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="b8040-104">若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="b8040-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="9f907-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="9f907-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Platform
@@ -50,14 +53,14 @@ The Azure Consumption option is ideal for partners who are driving Azure usage/a
         - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
         - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
         - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
-        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
         - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
         - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure
 
 *Retiring December 31, 2017. This exam will continue to be accepted for competency qualification until December 31, 2018. You may register for this exam until November 30, 2017.
 
-After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.  
+After November 30, 2017 you will need to register for the replacement exam listed above, exam 70-535.  
 
 ###Gold
 
@@ -82,7 +85,7 @@ After November 30, 2017 you will need to register for the replacement exam liste
         - [Exam 70-532](https://www.microsoft.com/en-us/learning/exam-70-532.aspx): Developing Microsoft Azure Solutions
         - [Exam 70-533](https://www.microsoft.com/en-us/learning/exam-70-533.aspx): Implementing Microsoft Azure Infrastructure Solutions
         - [Exam 70-534](https://www.microsoft.com/en-us/learning/exam-70-534.aspx): Architecting Microsoft Azure Solutions*
-        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
+        - [Exam 70-535](https://www.microsoft.com/en-us/learning/exam-70-535.aspx): Architecting Microsoft Azure Solutions 
         - [Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx): Designing and Implementing Cloud Data Platform Solutions
         - [Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx): Designing and Implementing Big Data Analytics Solutions
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx): Linux on Azure

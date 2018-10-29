@@ -2,21 +2,22 @@
 layout: LandingPage
 hide_bc: true
 title: 从此处开始获取有关的合作伙伴中心帮助
-description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找答案此合作伙伴中心中的帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
-author: v-chmccl
 ms.topic: landing-page
+ms.date: 10/29/2018
+description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找此合作伙伴中心中帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。 
+author: v-chmccl
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: e36908da6d71b9f10b2fe80af21a22b4c9083cd5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489673"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795910"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>从此处开始获取有关的合作伙伴中心帮助
 
-需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找答案此合作伙伴中心中的帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
+需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找此合作伙伴中心中帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
 
 如果你已熟悉合作伙伴中心，请参阅[新增](/partner-center/whats-new-in-pc)。
 

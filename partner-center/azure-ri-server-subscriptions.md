@@ -1,15 +1,18 @@
 ---
 title: Azure 虚拟机预留实例 (RI) + Azure 服务器订阅 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 通过将 Azure RI 和服务器订阅纳入其云解决方案提供商计划，我们可以更好地帮助合作伙伴满足客户对成本效益更高的解决方案的快速增长需求，从而为高度可预测的持久云工作负荷提供支持。 利用云解决方案提供商计划，合作伙伴能够通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure RI 和服务器订阅。
 author: v-petand
+ms.author: v-petand
 keywords: Azure，预订，虚拟机，预订，预留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: 4880e74519be2d334b3782c089790bcc89f18462
-ms.sourcegitcommit: c702328f342401e7baed501a14cd7c85077da7d1
+ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/26/2018
-ms.locfileid: "5591913"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797030"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 

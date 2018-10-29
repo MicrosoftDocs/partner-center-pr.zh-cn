@@ -1,19 +1,22 @@
 ---
 title: 云工作效率能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 云工作效率能力适用于专门进行 Office 365 企业部署的合作伙伴。 针对寻求合格的云解决方案合作伙伴的客户，利用此能力使你的公司作为公认的云解决方案提供商脱颖而出。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 云工作效率
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6915bc270500c926d17f10b6d6c0734a360c05
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874937"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794640"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="92d50-105">若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="92d50-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="6f504-105">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="6f504-105">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Cloud Productivity competency
@@ -38,12 +41,12 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **1** individual must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
     
     **OR**
 
-    - **1** individual must obtain the following certification:  
+    - **1** individual must obtain the following certification:  
         - [MCSA](https://www.microsoft.com/en-us/learning/mcsa-office365-certification.aspx): Office 365
 
 ### Gold
@@ -60,7 +63,7 @@ The Managed Service Partner option is ideal for partners who manage Office 365 e
 
     - **2** individuals must pass all the following exams:
 
-        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
+        - [Exam 70-346](https://www.microsoft.com/en-us/learning/exam-70-346.aspx): Managing Office 365 Identities and Requirements  
         - [Exam 70-347](https://www.microsoft.com/en-us/learning/exam-70-347.aspx): Enabling Office 365 Services
         
     **OR**

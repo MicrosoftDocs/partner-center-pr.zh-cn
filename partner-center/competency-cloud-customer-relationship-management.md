@@ -1,19 +1,22 @@
 ---
 title: 云客户关系管理能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 通过获得云客户关系管理能力，成为公认的 Microsoft Dynamics CRM Online 或 Dynamics 365 高级提供商。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 云客户关系管理
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1621089b2baecbe8b850bf48c1940e7566078f6f
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 8eec85b1be8b16ec161733d956b90d6c11e9531e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874817"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796280"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="f6742-104">若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="f6742-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="b50f5-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="b50f5-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Customer Relationship Management

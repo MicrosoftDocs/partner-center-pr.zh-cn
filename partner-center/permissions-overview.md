@@ -1,15 +1,18 @@
 ---
 title: 分配用户角色和权限 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 必须为每个需要在合作伙伴中心中工作的员工分配角色。
 author: labrenne
+ms.author: labrenne
 keywords: 角色、 权限、 管理员、 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: 71dfdb260fe6baac83c01fbf79e260470f875539
-ms.sourcegitcommit: b9001747beb744d6a95aad68017e50816fcda58b
+ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2018
-ms.locfileid: "5541465"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795100"
 ---
 # <a name="assign-users-roles-and-permissions"></a><span data-ttu-id="75151-104">为用户分配角色和权限</span><span class="sxs-lookup"><span data-stu-id="75151-104">Assign users roles and permissions</span></span>
 
