@@ -1,16 +1,19 @@
 ---
 title: 创建、暂停或取消客户订阅 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
-author: Labrenne
+author: labrenne
+ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: effdae8468e30be689acc265d9ae64b5d93c93ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 951d0be7ea1cc17fb61213a25f26a3c558249496
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489103"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796400"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -35,7 +38,7 @@ ms.locfileid: "4489103"
 3.  选择要使用的订阅计费的类型。  参阅[关于新计费功能的常见问题解答](faq-about-new-billing-features.md)，可获取有助于你决定是采用按月计费还是按年计费频率的信息。
  
  >[!Note]
- >你可以向客户提供试用订阅。 可用的试用版产品正在目录中试用选项卡。 请参阅[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)。
+ >你可以向客户提供试用订阅。 可用于试用版产品正在目录中试用选项卡。 请参阅[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)。
 
  
 4. 选择计费频率后，选择你希望在目录中的订阅的产品。 产品可用性取决于客户类型（教育、政府等）和你所选的计费频率。 如果产品不可用，则客户可能已订阅该产品并且该产品仅允许订阅一次。 或者，你可能已暂停订阅，在这种情况下，可以重新激活该订阅而不是购买一个新订阅。
@@ -64,7 +67,7 @@ ms.locfileid: "4489103"
 
 
 
- 
+ 
 
 
 

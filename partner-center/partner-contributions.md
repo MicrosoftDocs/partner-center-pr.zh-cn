@@ -1,17 +1,20 @@
 ---
 title: 合作伙伴贡献的性能指标顶部保持 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Use partner contributions data to understand how your business is growing and succeeding
-Author: labrenne
+author: labrenne
+ms.author: labrenne
 keywords: 业务数据
 ms.localizationpriority: medium
-ms.openlocfilehash: 4aafc30e4fed9dbaefff818f1c6a4a2affeb0af2
-ms.sourcegitcommit: 6dc4be68a77b5068dc0c7cb171d017200db76ede
+ms.openlocfilehash: be46ca6cb4efa54bcb29874465e79ca89f7799e8
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "4242800"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796860"
 ---
-# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>合作伙伴贡献： 掌控性能指标
+# <a name="partner-contribution-stay-on-top-of-your-performance-indicators"></a>合作伙伴贡献：掌握你的业绩指标
 
 **适用范围**
 - 合作伙伴中心
@@ -45,7 +48,7 @@ ms.locfileid: "4242800"
 每个指标显示为一个条状（1 到 4），使用所选的筛选器（产品、工作负荷、客户位置）表示你对比其他合作伙伴的比例值。 这些条状下面的值是最小和最大（最低和最高）值范围。 将鼠标悬停在条上可以显示每个条的最小和最大范围。  
 
 8. **数据刷新月**： 指标计算最多选择月尾随的 12 个月。
-9. **指标趋势**： 尾随 12 环比趋势相对于上一个月。 箭头表示趋势方向。 如果你没有看到一个箭头，趋势并未更改。
+9. **指标趋势**： 随后的 12 个月趋势相对于上一个月。 箭头表示趋势方向。 如果你没有看到一个箭头，趋势并未更改。
 
 >[!NOTE] 
 >- 指标跨未来 12 个月 (TTM) 的所有客户汇总，“认证个人数”除外        
@@ -57,19 +60,19 @@ ms.locfileid: "4242800"
 ## <a name="frequently-asked-questions"></a>常见问题
 
 1. 为什么不能看到合作伙伴贡献页面？
-    - 合作伙伴贡献目前仅向销售的合作伙伴 Dynamics 365 有 MPN 或云解决方案提供商帐户。 中国和德国未尚未启用此功能。
+    - 合作伙伴贡献目前仅适用于合作伙伴销售 Dynamics 365 有 MPN 或云解决方案提供商帐户。 中国和德国未尚未启用此功能。
 2. 我是 Dynamics 365 的合作伙伴，为什么不能看到合作伙伴贡献数据？
       - 你可能没有 MPN 或云解决方案提供商帐户角色。 例如： 顾问 DAP 未启用和尚未。  
-    - 若要查看此页面在组织中，你可能不知道适当的用户角色。 请联系你的全局管理员。
+    - 若要查看此页面在组织中，你可能不知道相应的用户角色。 请联系你的全局管理员。
 
     - 你的组织位于中国或德国。
 
 3. 我的净新收入 > 0，但我是否有任何数据的每月活动用户数 (MAU)？
-    - 对于大多数 VL 或打开的通道计费的客户显示席位在预配，因此我们不能看到 MAU 尚未之前。
+    - 对于大多数 VL 或开放渠道计费的客户显示席位在预配，因此我们不能看到 MAU 尚未之前。
 
-4.  为何我 MAU > 0，但我有无数据的净新收入？
-    - 对于 Web Direct 或经销商之前在计费周期开始, 预配的席位。 月、 季度或更高版本基于订阅的条款年，可能会发生计费。 这还使用试用订阅、 内部使用权限、 和政府客户会发生。
+4.  为何我 MAU > 0，但我是否有任何数据的净新收入？
+    - 对于 Web Direct 或经销商，才能在计费周期开始预配席位。 每月、 1/4 区域或更高版本基于订阅的条款年，可能会发生计费。 这还使用试用订阅、 内部使用权限、 和政府客户会发生。
 5.  我的收入数据不匹配？
     - 这是很可能是由于 DPOR 关联、 计时差异或非云数据。
-6.  为什么我经认证的单个数据是低？
-    - 我们仅显示与给定的客户租户区域中，并且用户已通过 1 或多个所需的云业务应用程序能力、 客户参与度或财务和运营路径 5 项考试。   
+6.  为什么我经认证的个人数据是低？
+    - 我们只显示给定的客户租户区域中，并且用户已通过 1 或多个所需的云业务应用程序能力、 客户参与度或财务和运营路径 5 项考试。   

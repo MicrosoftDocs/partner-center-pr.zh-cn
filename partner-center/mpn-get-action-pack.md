@@ -1,15 +1,18 @@
 ---
 title: 购买或续订 Microsoft Action Pack | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 了解如何获取 Microsoft Action Pack，无论是首次购买还是续订。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
 ms.localizationpriority: medium
-ms.openlocfilehash: 585fa5f61339f07282b4caab5f678eb4bce9db65
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490123"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795040"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次购买或续订 Microsoft Action Pack 订阅
 
@@ -36,7 +39,7 @@ Action Pack 为想要在云优先、移动优先领域中构建和发展其 Micr
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>续订 Microsoft Action Pack 订阅
 
 >[!IMPORTANT]
->现在之间日历年结束，我们会将 Action Pack 订阅管理从 Partner Membership Center (PMC) 到合作伙伴中心-此站点。 到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看以下信息。  
+>从现在和日历年结束，我们会将 Action Pack 订阅管理从 Partner Membership Center (PMC) 到合作伙伴中心-此站点。 到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看以下信息。  
 
 ### <a name="check-your-renewal-eligibility"></a>检查你的续订资格
 
@@ -49,12 +52,12 @@ Action Pack 为想要在云优先、移动优先领域中构建和发展其 Micr
     - 获取一条消息，邀请你在合作伙伴中心-此站点续订
 
 >[!IMPORTANT]
->如果你受邀在合作伙伴中心中续订订阅，请注意我们已经更改了续订时段策略，你可以仅在它过期后续订订阅。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
+>如果你受邀在合作伙伴中心中续订订阅，请注意，我们已经更改了续订时段策略，并且你可以仅在它过期后续订订阅。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
 >你可以在[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面查找你的订阅的到期日期（需要登录）。 如果或当你有资格在合作伙伴中心中续订时，请按照以下步骤。  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>续订 Microsoft Action Pack 订阅的合作伙伴中心
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>若要续订 Microsoft Action Pack 订阅的合作伙伴中心
 
 1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 找到**Microsoft Action Pack 订阅**磁贴。  
 

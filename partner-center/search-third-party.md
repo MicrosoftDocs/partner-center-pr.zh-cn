@@ -1,15 +1,18 @@
 ---
 title: 发现你要销售的第三方产品/服务 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 搜索并找到非常适合你的产品组合的第三方产品/服务类型。
 author: labrenne
+ms.author: labrenne
 keywords: 第三方产品/服务, 要购买的软件, 搜索第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: e156f6d473517b36db3d48072a112f11e83817d9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488583"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796960"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>发现你要销售的第三方产品/服务
 

@@ -1,15 +1,18 @@
 ---
 title: 请求与客户建立关系 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 28dc6bddd50b52d06652e731545fddf15156c738
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1d2d8bc96d33a182227cfda65e8095c20ffb3c44
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489503"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795950"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 

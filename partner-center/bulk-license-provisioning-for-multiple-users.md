@@ -1,16 +1,19 @@
 ---
 title: 向多个用户分配或撤消许可证 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: assign license, revoke license, assign to multiple users,
 ms.localizationpriority: medium
-ms.openlocfilehash: fafbb038214d31f6e0a3298705128ac3ba1ab722
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490003"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795350"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 
@@ -59,9 +62,9 @@ ms.locfileid: "4490003"
 
 8.  选择**保存**。 在合作伙伴中心打开列用户及其新许可证**许可证更新**确认页面。
 
-**注意** 某些 Microsoft 产品可能未在特定地区提供。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
+**注意**某些 Microsoft 产品可能不可用在某些位置。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
 
- 
+ 
 
 <a href="" id="revoking-licenses"></a>
 **撤消用户的许可证分配**
@@ -82,9 +85,9 @@ ms.locfileid: "4490003"
 
 [将许可证分配给用户](assign-licenses-to-users.md)
 
- 
+ 
 
- 
+ 
 
 
 

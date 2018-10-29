@@ -1,14 +1,17 @@
 ---
 title: 与云解决方案提供商计划中的间接经销商合作 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ac9099cc1b0805c3af9c77af9df1e8f0bfcc7aa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4bbab6f297f96ee12edc032b7f55f7f749933ecc
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490133"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795190"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 

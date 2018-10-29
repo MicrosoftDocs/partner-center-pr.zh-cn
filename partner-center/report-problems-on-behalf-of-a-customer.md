@@ -1,16 +1,19 @@
 ---
 title: 代表客户报告问题 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4de4c9159d451c39ffa2b71cc000fda3c82acf
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1b2698c45a996394e0bbd24bc759e807c4957942
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490043"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795610"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -32,11 +35,11 @@ ms.locfileid: "4490043"
 
 **Microsoft Azure**
 
-**注意**当你需要为你在 Azure 中的客户创建服务请求时，请注意以下：
+**请注意**当你需要为你在 Azure 中的客户创建服务请求时，应注意以下：
 
-- 为了让你可以为你在 Azure 中的客户创建服务请求，间接提供商必须授予访问权限，客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
+- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限的客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
 
-- 尽管在合作伙伴中心的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
+- 尽管在合作伙伴中心中的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
 
 1.  选择**新建支持请求**。
 2.  使用相应信息填写支持请求，然后选择**创建**：
@@ -94,7 +97,7 @@ ms.locfileid: "4490043"
 
 **如何获取其他 Dynamics 365 支持？**
 
- 如果你遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
+ 如果你遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
  
 与[Dynamics 支持](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)人员联系
 

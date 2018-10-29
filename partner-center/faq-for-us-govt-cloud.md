@@ -1,14 +1,17 @@
 ---
 title: Microsoft Cloud for US Government 合作伙伴中心常见问题解答 | Microsoft Cloud for US Government 合作伙伴中心常见问题解答
+ms.topic: article
+ms.date: 10/29/2018
 description: 使用这些常见问题解答了解关于 Microsoft Cloud for US Government 云解决方案提供商 (CSP) 计划的详细信息。 你还可以联系你的帐户管理员以了解更多信息。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 917731fa0cc8148e3c542d612776b18507e6b11d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e51866d5207335ed9391fea08b1f5df2780b05c4
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490213"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797180"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云常见问题解答合作伙伴中心常见问题解答
 
@@ -27,7 +30,7 @@ ms.locfileid: "4490213"
 
 **谁有资格参与美国政府 Microsoft 云 CSP 计划？**
 
-提供美国联邦、 州，在美国和地方政府实体政务能力服务有资格 Microsoft 政府云 CSP 计划。 Microsoft 实施严格的合作伙伴资格验证程序，合作伙伴须通过验证方可访问 Microsoft 政府云。 若要取得资格，合作伙伴需要提供其与政府客户之间的合作关系证明。 美国政府 Microsoft 云 CSP 计划的注册流程已经过强化，以捕获更多数据来执行验证。 证明类型可以包括但不限于政府合同号和政府客户出具的担保函。
+提供美国联邦、 州，在美国和地方政府实体政府服务有资格 Microsoft 政府云 CSP 计划。 Microsoft 实施严格的合作伙伴资格验证程序，合作伙伴须通过验证方可访问 Microsoft 政府云。 若要取得资格，合作伙伴需要提供其与政府客户之间的合作关系证明。 美国政府 Microsoft 云 CSP 计划的注册流程已经过强化，以捕获更多数据来执行验证。 证明类型可以包括但不限于政府合同号和政府客户出具的担保函。
 
 **客户定价是否与商业 CSP 相同？**
 
@@ -41,7 +44,7 @@ ms.locfileid: "4490213"
 
 Microsoft 政府云 CSP 计划与商业 CSP 之间存在以下不同点：
 
--   资格： Microsoft 政府云 CSP 计划是仅适用于位于美国境内，为美国联邦、 州、 合作伙伴和地方政府实体政务能力服务。 Microsoft 实施一套合作伙伴资格验证程序，合作伙伴须通过验证方可访问美国政府云。
+-   资格： Microsoft 政府云的云解决方案提供商计划是仅适用于美国境内，为美国联邦、 州、 合作伙伴和地方政府实体政务能力服务。 Microsoft 实施一套合作伙伴资格验证程序，合作伙伴须通过验证方可访问美国政府云。
 
 -   加入：合作伙伴需要从商业 CSP 单独加入美国政府 Microsoft 云 CSP 计划。
 
@@ -108,7 +111,7 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 为了促进和保持美国政府 Microsoft 云的隔离完整性，有不提供将客户的现有服务美国政府迁移到 Microsoft 云的机制。 如果客户或合作伙伴使用 Azure，则应对迁移至美国政府 Microsoft 云内的新环境中的任何数据负责。
 
 
-### <a name="microsoft-cloud-for-us-government-for-azure"></a>为 Azure 美国政府 Microsoft 云
+### <a name="microsoft-cloud-for-us-government-for-azure"></a>Azure 美国政府 Microsoft 云
 
 **什么是 azure 美国政府 Microsoft 云？**
 
@@ -116,7 +119,7 @@ Azure 政府云提供基于安全、隐私和控制、合规性和透明度等�
 
 **美国政府 Microsoft 云 CSP 计划是否提供全部 Azure 服务？**
 
-目前已推出基础结构即服务 (IaaS)、基础平台以及数据服务。 路线图正在不断更新，并且我们提供文档 （需要进行身份验证） 的合作伙伴中心内与商业 CSP 文档等类似。 你可以在这里查看当前可用的 Azure 政府服务，但请注意，经典计算、网络、存储和云服务等部分服务不面向 CSP 提供，所以不可用。
+目前已推出基础结构即服务 (IaaS)、基础平台以及数据服务。 路线图正在不断更新，并且我们提供类似文档 （需要进行身份验证） 的合作伙伴中心内与商业 CSP 的文档。 你可以在这里查看当前可用的 Azure 政府服务，但请注意，经典计算、网络、存储和云服务等部分服务不面向 CSP 提供，所以不可用。
 
 **我需要怎么做才能借助美国政府 Microsoft 云 CSP 计划进行开发？**
 

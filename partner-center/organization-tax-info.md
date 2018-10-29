@@ -1,14 +1,17 @@
 ---
 title: 组织税收信息 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果适用，必须将增值税 ID 添加到贵组织的信息中
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 84e85e54f9098c7cae57e1bd7f5415b0389b409d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 94cee559de16e10c23cc1d85aff7f661859373be
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488653"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797140"
 ---
 # <a name="organization-tax-information"></a>组织税收信息
 
@@ -28,7 +31,7 @@ ms.locfileid: "4488653"
 
 
 
- 
+ 
 
 
 

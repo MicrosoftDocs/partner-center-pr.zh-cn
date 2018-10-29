@@ -1,16 +1,19 @@
 ---
 title: 常见计费方案 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 本主题介绍了在添加新订阅、调整订阅中的许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
+ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: 9757b3c4cc03ea26744f995e4931c94952de2a10
-ms.sourcegitcommit: 082795279b2beb9cecee3072cbabe584cfda1b9c
+ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "4121112"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795630"
 ---
 # <a name="common-billing-scenarios"></a>常见计费方案
 

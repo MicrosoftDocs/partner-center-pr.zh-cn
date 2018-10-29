@@ -1,15 +1,18 @@
 ---
 title: 管理客户列表 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 客户记录是合作伙伴中心中最重要的信息资源。
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0ab5159f36212ea73effea59bfba98e68023372
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490163"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796110"
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
@@ -35,7 +38,7 @@ ms.locfileid: "4490163"
 从**合作伙伴中心**菜单中，选择**客户**。
 2.  若要搜索客户，请在搜索框中输入客户名称或域名。
 3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
-4.  在客户**帐单到**信息更新的公司名称。 当你保存新值时，它将反映在客户列表。 这只会更改帐单到公司名称和客户列表值。 它将不会反映任意其他人。
+4.  在客户**帐单的**信息更新的公司名称。 当你保存新值时，它将反映在客户列表中。 这将仅更改帐单的公司名称和客户列表值。 它将不会反映任意其他人。
 
 ## <a name="export-your-customer-list"></a>导出客户列表
 
@@ -68,11 +71,11 @@ ms.locfileid: "4490163"
 > [!NOTE]  
 > 有关订阅管理的详细信息，请参阅[客户订阅](customer-subscriptions.md)。
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: 云解决方案提供商中的 Office 365 E5 单一 SKU 可用性 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Office 365 企业版 E5 单一 SKU 可用于云解决方案提供商，并且包括 PSTN 会议。
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cce364069f6710d81435f8d973cd187c98543f96
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876287"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795650"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作伙伴公告：云解决方案提供商中的 Office 365 E5 单一 SKU 可用性
 
@@ -89,7 +92,7 @@ Skype for Business PSTN
 
 PSTN 加载项
 
- 
+ 
 
 **单一 Office 365 企业版发布后 E5 单一 SKU 启动**
 
@@ -143,7 +146,7 @@ PSTN 加载项
 
 PSTN 加载项
 
- 
+ 
 
 ## <a href="" id="invoices-and-partner-reconciliation-files-"></a>发票和合作伙伴对帐文件
 
@@ -197,7 +200,7 @@ PSTN 加载项
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="additional-resources"></a>其他资源
 
@@ -210,9 +213,9 @@ PSTN 加载项
 
 -   **Office 365 E5 和 Skype for Business 授权常见问题**
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: 税务和免税 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 因为云解决方案提供商是专注于合作伙伴产品转售的销售渠道，所以 Microsoft 并不始终要求向合作伙伴发票征收销售税。
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bacb79b210050b2392d40c6fa77cb0fe22235d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489603"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796001"
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 
@@ -71,11 +74,11 @@ ms.locfileid: "4489603"
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

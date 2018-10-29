@@ -1,14 +1,17 @@
 ---
 title: 加入 Microsoft 合作伙伴网络 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在合作伙伴中心购买 Microsoft Action Pack 并获得能力
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 23f6b0d0f8bcc680a4bfc3ae63ea0297186942ed
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489713"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796990"
 ---
 # <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作伙伴网络 (MPN)
 
@@ -21,7 +24,7 @@ ms.locfileid: "4489713"
 
  通过与 Microsoft 合作，你可以获得新的业务转型机会。 在合作伙伴中心购买和续订 Microsoft Action Pack，并且你可以轻松地访问有关能力以及如何获得能力的信息。
 
- 我们正在逐步邀请合作伙伴管理其成员资格在合作伙伴中心的 MAPS 或能力周年日以及重要合作伙伴中心功能何时可用并证明能够满足他们的业务需求。  目前，可计划在 Partner Membership Center (PMC) 中续订并管理你的成员身份，直到你收到迁移邀请为止。
+ 我们将逐步邀请合作伙伴管理其成员资格在合作伙伴中心的 MAPS 或能力周年日以及重要合作伙伴中心功能可用并证明能够满足他们的业务需求的时。  目前，可计划在 Partner Membership Center (PMC) 中续订并管理你的成员身份，直到你收到迁移邀请为止。
 
 ## <a name="get-your-mpn-id"></a>获取你的 MPN ID
 

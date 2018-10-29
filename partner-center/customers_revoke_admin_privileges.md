@@ -1,15 +1,18 @@
 ---
 title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
-description: 作为经销商合作伙伴，你的客户可以委派你其管理员。它们还可以删除该权限。
+ms.topic: article
+ms.date: 10/29/2018
+description: 作为经销商合作伙伴，你的客户可以委派你其管理员。他们还可以删除该权限。
 author: labrenne
+ms.author: labrenne
 keywords: 委派的管理员权限，代表管理员，删除权限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 224ed2ea2485420761c7a5f85db5a7a37fd245af
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489873"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795730"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
@@ -46,7 +49,7 @@ ms.locfileid: "4489873"
 
 2. 选择**设置** → **合作伙伴关系**。
 
-3. 在**合作伙伴关系**页面上，客户将看到的合作伙伴与其它们的工作和已授予其租户的委派管理权限的列表。
+3. 在**合作伙伴关系**页面中，客户将看到合作伙伴与其它们的工作，并且这些已被授予其租户的委派管理权限的列表。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客户可以管理合作伙伴的委派管理员权限 
 
@@ -91,7 +94,7 @@ ms.locfileid: "4489873"
 
 从合作伙伴中心，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限管理 Autopilot 配置文件。 了解如何[利用 Windows Autopilot 让设备设置更简单](https://docs.microsoft.com/partner-center/autopilot)。
 
-你可以采取哪些措施取决于在哪种云解决方案提供商模式你已注册中。
+你可以执行的操作取决于在哪种云解决方案提供商模式你已注册中。
 
 |**操作**   |**直接计费合作伙伴和间接提供商**   |**间接经销商**   |
 |-----------------|-----------------------------------| -----------------------------|
@@ -114,4 +117,4 @@ ms.locfileid: "4489873"
 
   - 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
 
-- 合作伙伴必须被授予委派的管理权限客户才能够删除的设备添加由其他合作伙伴或客户租户中的客户。 否则，合作伙伴可以删除自己之前添加的相同的合作伙伴的设备。
+- 合作伙伴必须被授予委派的管理权限客户才能够删除的设备添加由其他合作伙伴或客户租户中的客户。 否则，合作伙伴可以删除自己之前添加的同一个合作伙伴的设备。

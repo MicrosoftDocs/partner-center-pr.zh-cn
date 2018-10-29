@@ -1,16 +1,19 @@
 ---
 title: 分配支持联系人 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 作为经销商合作伙伴，你可以将经销商指定为支持联系人。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
+ms.author: kenpacq
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
-ms.openlocfilehash: 323906a5554fa081496fc94e4396dee8681d59eb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489443"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795290"
 ---
 # <a name="assign-support-contacts"></a>分配支持联系人
 

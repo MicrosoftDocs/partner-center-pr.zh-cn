@@ -1,16 +1,19 @@
 ---
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: e4a60b05a1f7c3341e51e83c6f34bf2081c72de5
-ms.sourcegitcommit: 011fb13f8b595f16d8be4a2948da60a8f3971e0a
+ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4657307"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796060"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、 协议、 价目表和产品/服务
 
@@ -59,7 +62,7 @@ Microsoft 云协议[客户模板](agreements.md)
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>专业保密修正到 Microsoft 云协议 （德国）
 
-在德国，刑事代码 (部分 203) 和行为准则的专业代码需要某些客户端关系是以保持机密，例如，患者和其医疗医生之间的关系和之间的关系律师和其客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业购买基于云的服务从云解决方案提供商，云服务提供商必须结束与客户，可确保专业保密的书面的协议。 
+在德国，刑事代码 (部分 203) 和行为准则专业人员的代码需要某些客户端关系是以保密，例如，患者和其医疗医生之间的关系和之间的关系律师和其客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业购买基于云的服务从云解决方案提供商，云服务提供商必须结束与客户，可确保专业保密的书面的协议。 
 
 如果你在开展业务德国，你可能需要提供给那里的客户除了 Microsoft 云协议此专业保密修正。
 
@@ -77,7 +80,7 @@ Microsoft 云协议[客户模板](agreements.md)
 
 基于使用情况的定价是动态的，并且经常更改。 基于使用情况的服务的示例包括 Microsoft Azure。
 
-一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 预订和 Windows Server 和 SQL 软件的相应订阅。 
+一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 预订和相应的 Windows Server 和 SQL 软件订阅。 
 
 
 ## <a name="offers"></a>产品/服务

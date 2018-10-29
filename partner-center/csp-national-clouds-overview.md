@@ -1,15 +1,18 @@
 ---
 title: 申请在 Microsoft 国家云中销售 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向受支持的国家云中注册的客户进行销售。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 国家云, 德国 Microsoft 云, Microsoft Cloud for US Government, 世纪互联, 中国 Microsoft 云
 ms.localizationpriority: medium
-ms.openlocfilehash: 1650183fd51f1fdc933456fffdf0ef8c3e53b1ed
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 1f56912c872e3eb02ceb13ee00ba9fe13998ef33
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2875887"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795240"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>申请在 Microsoft 国家云中销售
 

@@ -1,15 +1,18 @@
 ---
 title: 多渠道 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在某些情况下，客户可能需要聘请你对他们在别处购买的订阅提供预配和支持。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6706d8326de77da1ccfb952d39c294f271b3d3ef
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489413"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795740"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
@@ -55,11 +58,11 @@ ms.locfileid: "4489413"
 
 如果你是间接经销商，请参阅[与间接提供商合作](indirect-reseller-tasks-in-partner-center.md)
 
-如果你是间接提供商，请参阅[与间接经销商合作](indirect-provider-tasks-in-partner-center.md) 
+如果你是间接提供商，请参阅[与间接经销商合作](indirect-provider-tasks-in-partner-center.md) 
 
- 
+ 
 
- 
+ 
 
 
 

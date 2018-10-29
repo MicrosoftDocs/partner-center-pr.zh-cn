@@ -1,15 +1,18 @@
 ---
 title: Microsoft 合作伙伴网络成员身份 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 了解与 Microsoft 合作将获得的权益。
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 成员身份, 银牌, 金牌, 能力
 ms.localizationpriority: medium
-ms.openlocfilehash: 43302afc456f810a310ed0751eccb44fcb9a64b5
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 9726297ff1a6b921ec848778f41df701afb8c49a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489643"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797080"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 
@@ -22,7 +25,7 @@ ms.locfileid: "4489643"
 在[合作伙伴网络站点](https://partner.microsoft.com)上了解成员身份级别以及[内部使用权限软件权益](https://partner.microsoft.com/membership/internal-use-software)。 
 
 >[!IMPORTANT]
->我们会将 Action Pack 订阅管理从 Partner Membership Center (PMC) 移动到合作伙伴中心。 此移动将在下一步的几个月内生效。 请中[获取 Action Pack](mpn-get-action-pack.md)的信息，请仔细检查，以便你知道如何以及在何处续订。  
+>我们会将 Action Pack 订阅管理从 Partner Membership Center (PMC) 移到合作伙伴中心。 此移动将在下一步的几个月内生效。 请中[获取 Action Pack](mpn-get-action-pack.md)的信息，请仔细检查，以便你知道如何以及在何处续订。  
 
 |**为此**   |**请阅读以下内容**   |
 |-----------------|:---------------------------|

@@ -1,19 +1,22 @@
 ---
 title: 应用程序集成能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 应用程序集成能力用于认可在 Microsoft 生态系统中将独特的应用程序和解决方案整合到各种产品中的合作伙伴和开发人员。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 应用程序集成
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: a5c69706898ff791f56a86a4c0f2f32dfb2199d4
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876687"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797310"
 ---
 >[!IMPORTANT]
->若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
+>若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 

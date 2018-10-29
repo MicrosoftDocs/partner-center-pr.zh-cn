@@ -1,14 +1,17 @@
 ---
 title: 了解你的奖励付款 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 你的奖励收益和付款计划将有助于进行未来的规划。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fcfed49df579ef952fa152b14645c09f8766c84
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2876787"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796350"
 ---
 #<a name="understand-your-incentives-payouts"></a>了解你的奖励付款
 

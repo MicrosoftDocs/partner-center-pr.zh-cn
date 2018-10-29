@@ -1,15 +1,18 @@
 ---
 title: 恢复暂停的合作伙伴中心帐户 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 了解如何恢复暂停的合作伙伴中心帐户、合作伙伴帐户被暂停的原因以及在暂停时如何使用帐户。
 ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a15745ea4cc789049251fc08077b420cb094a596
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489473"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796190"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>恢复暂停的合作伙伴中心帐户
 

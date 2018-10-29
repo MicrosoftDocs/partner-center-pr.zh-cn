@@ -1,14 +1,17 @@
 ---
 title: 将 Office 365 E4 订阅迁移到较新的 Office 365 版本 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起已停用。 了解如何将你的客户订阅迁移到较新版本的 Office 365。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 75999aa004ae03d4ec871fc706d757a192105320
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490173"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796100"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -97,7 +100,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 
 
- 
+ 
 
 
 

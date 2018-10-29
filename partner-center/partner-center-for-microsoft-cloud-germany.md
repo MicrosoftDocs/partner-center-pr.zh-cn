@@ -1,14 +1,17 @@
 ---
 title: 德国 Microsoft 云合作伙伴中心 | 德国 Microsoft 云合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 对于要向欧盟和欧洲自由贸易联盟国家/地区的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴来说，德国 Microsoft 云合作伙伴中心是其业务门户。 德国 Microsoft 云确保你的客户数据存储在德国，由指定的德国数据受托人控制对它的访问。 欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 无法访问客户数据。
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 53d0b70d8123369f631dc03e139a58432a455528
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 0e7ae56351ab68a6883bdc647851e7e30ecec611
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377579"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797260"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心
 

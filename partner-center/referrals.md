@@ -1,17 +1,20 @@
 ---
 title: 通过 Microsoft 引荐扩大你的业务 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 生成业务销售线索并与需要帮助实施 Microsoft 产品和解决方案的客户联系。
 author: KPacquer
+ms.author: kenpacq
 keywords: 引荐, 业务配置文件, 查找合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: d06f2a6d435c9db5bc9b4d54ceb95cdeafc956b8
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: c4241c70591d6747f9e5994c43119740d6819791
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489233"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794820"
 ---
-<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
+<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>通过 Microsoft 引荐扩大你的业务
 
@@ -23,7 +26,7 @@ ms.locfileid: "4489233"
 
 我们希望你与需要你的解决方案和专长的客户联系。 你从我们这里开始获取销售线索所能采取的最重要的步骤是[创建业务配置文件](create-a-marketing-profile.md)，展示贵公司的产品/服务、解决方案和专长。 你的业务配置文件将列在客户和内部 Microsoft 销售代理搜索合格合作伙伴所在的所有位置。 
 
- 发布你的业务配置文件后，你将开始通过接收销售线索的引荐功能在合作伙伴中心。 请务必在要求的时间范围内对引荐作出回应以继续接收这些线索，最重要的是达成交易。 请参阅有关如何管理销售的详细信息的[响应引荐](responding-to-referrals.md)在合作伙伴中心中的销售线索。  
+ 发布你的业务配置文件后，你将开始通过接收销售线索的引荐功能在合作伙伴中心。 请务必在要求的时间范围内对引荐作出回应以继续接收这些线索，最重要的是达成交易。 请参阅在合作伙伴中心[响应引荐](responding-to-referrals.md)的详细信息如何管理销售线索。  
 
 祝你好运！
 

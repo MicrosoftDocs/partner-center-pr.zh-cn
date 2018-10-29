@@ -1,16 +1,19 @@
 ---
 title: 云解决方案提供商区域授权 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 借助区域授权，经营国际业务的合作伙伴现在可更轻松地管理世界范围内不同地区和国家的客户。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: Azure AD 租户, 合并你的租户, 租户策略, 云解决方案提供商中的租户, 云解决方案提供商中的合作伙伴帐户, 云解决方案提供商市场和国家/地区, 通过云解决方案提供商可以在哪里进行销售？
 ms.localizationpriority: medium
-ms.openlocfilehash: 46fbc08562cdddd75cabf9822b1fff84c151f031
-ms.sourcegitcommit: 5b720c2ad126ec52564ad5264596ca1cf6a12489
+ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "4377629"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796630"
 ---
 # <a name="tenant-consolidation-strategies-in-csp"></a>云解决方案提供商中的租户合并策略
 
@@ -69,7 +72,7 @@ ms.locfileid: "4377629"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="one-tenant-for-multiple-regions-or-countries"></a>一个租户通用于多个地区或国家
 
@@ -101,7 +104,7 @@ ms.locfileid: "4377629"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="some-tenants-for-some-regions-or-countries"></a>特定租户用于特定地区或国家
 
@@ -137,7 +140,7 @@ ms.locfileid: "4377629"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="consolidating-tenants"></a>合并租户
 
@@ -211,7 +214,7 @@ ms.locfileid: "4377629"
 | AUD | 澳大利亚、圣诞岛、科科斯（基林）群岛、库克群岛、斐济、赫德岛和麦克唐纳群岛、基里巴斯、马绍尔群岛、瑙鲁、纽埃、诺福克岛、北马里亚纳群岛、帕劳、巴布亚新几内亚、皮特凯恩群岛、所罗门群岛、托克劳、汤加、图瓦卢、瓦利斯和富图纳。 |
 
 
- 
+ 
 
 
 

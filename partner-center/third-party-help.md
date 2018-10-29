@@ -1,15 +1,18 @@
 ---
 title: 合作伙伴中心中提供的第三方软件 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 现在，你可以发现并购买第三方软件，以将其添加到你提供给客户的产品组合中。
 author: labrenne
+ms.author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b98707f1d14ea689f718f386c09e0f3ebbc558c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 07009b774d0cbd8e8a5a857fd23ad7bad1bd83f1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489993"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797040"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>将第三方软件添加到产品组合
 

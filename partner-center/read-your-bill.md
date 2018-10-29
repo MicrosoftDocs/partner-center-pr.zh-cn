@@ -1,16 +1,19 @@
 ---
 title: 阅读帐单 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 发票是当前月期间的所有费用（包括计划、产品和客户的费用）汇总。 它已登陆合作伙伴中心提供。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: 81262c11ab402dcd1748f9f8fde5cdeceac0f4f9
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489403"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795690"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -75,7 +78,7 @@ ms.locfileid: "4489403"
 <tr class="even">
 <tr class="even">
 <td>小计</td>
-<td>税前的税款和税务独占费用和信用。</td>
+<td>税前税款的税款独占费用和信用额度。</td>
 </tr>
 <td>税务</td>
 <td>在发票第 2 页开始的详细信息部分中统计的当前费用的总税款。 此数字是以下列中所有费用的总和：
@@ -143,7 +146,7 @@ ms.locfileid: "4489403"
 |税前金额 |税前购物小计。 |
 |销售税 |税额。 |
 |总计 |要付款的总额。 |
- 
+ 
 
 
 

@@ -1,16 +1,19 @@
 ---
 title: 添加新客户 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 你需要先在合作伙伴中心中创建客户记录，然后才能销售订阅、管理计费或提供支持。 这包括客户的联系人信息和一个 Azure AD 域。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: abe2e5f39718ddebb69d875febe3d06637b7ebc2
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490203"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794840"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 
@@ -39,9 +42,9 @@ ms.locfileid: "4490203"
 
 若要在以后审查客户数据，包括将加载项许可证添加到订阅，请在[创建新订阅](create-a-new-subscription.md)中查看详细信息。
 
- 
+ 
 
- 
+ 
 
 
 

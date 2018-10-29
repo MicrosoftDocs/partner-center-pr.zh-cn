@@ -1,15 +1,18 @@
 ---
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Purchasing and managing Azure reservations on behalf of your customers.
 author: v-petand
+ms.author: v-petand
 keywords: azure，预订，管理，计费，购买
 ms.localizationpriority: medium
-ms.openlocfilehash: 6b3fb1aed57b39976556851c007590743a805671
-ms.sourcegitcommit: 1321f23b1a5be48a0a5dae6d52fd123ec9bacee2
+ms.openlocfilehash: 20286d269a3074f89ca1368c26992feb03f9d182
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "4562269"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795450"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
@@ -42,14 +45,14 @@ ms.locfileid: "4562269"
 
 客户可以随时取消预订（每年最多取消 50,000 美元)。 通过取消，客户可以将剩余数月的 Azure 预订退还给 Microsoft 以获取提前终止费。 按比例计算的余额在扣除手续费后将退还至客户的原始购买帐户。 
 
-有关取消详细信息和费用，请参阅下文。
+有关取消的详细信息和费用，请参阅下文。
 
 |**取消日期**<br> （天为单位）   |**用途**    |**退款**  |**提前终止**<br> 费用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|少于 5                       | 否          | 100%       | 否                              | 花费 50000 美元   |
-|少于 5                       | 是         | 按比例  | 否                              | 花费 50000 美元   |
-|超过 5                        | 否          | 按比例  | 12%                             | 花费 50000 美元   |
-|超过 5                        | 是         | 按比例  | 12%                             | 花费 50000 美元   |
+|少于 5                       | 否          | 100%       | 否                              | 50000 美元   |
+|少于 5                       | 是         | 按比例  | 否                              | 50000 美元   |
+|超过 5                        | 否          | 按比例  | 12%                             | 50000 美元   |
+|超过 5                        | 是         | 按比例  | 12%                             | 50000 美元   |
 
 
 **如何兑换** 

@@ -1,15 +1,18 @@
 ---
 title: Microsoft Azure 预订概述 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Overview of selling Microsoft Azure Reserved Instances in CSP.
 author: v-petand
+ms.author: v-petand
 keywords: azure，预订，管理，计费，购买，Azure RI，Azure 预留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d0787466c99810b4d4c73c15b97631bc54c257c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: abf8b1aa01168786ff95cd91fe4853e3f7e34e9d
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658113"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797230"
 ---
 # <a name="sell-microsoft-azure-reserved-instances"></a>销售 Microsoft Azure 预留实例 
 

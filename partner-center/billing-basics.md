@@ -1,15 +1,18 @@
 ---
 title: 计费基础知识 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on basic billing scenarios and the differences between license-based and usage-based billing
 author: labrenne
+ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 85b1fc90a65ca8c982dd58bc51130488e09e86de
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ebab84673a5651cb40223ef9d1483eb1d0322e51
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490063"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797100"
 ---
 # <a name="billing-basics"></a>计费基础知识
 
@@ -77,7 +80,7 @@ ms.locfileid: "4490063"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="license-based-billing"></a>基于许可证的计费
 
@@ -109,7 +112,7 @@ ms.locfileid: "4490063"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a name="usage-based-billing"></a>基于使用情况的计费
 
@@ -170,8 +173,8 @@ Azure 按“即付即用”模型运作，在此模型中仅针对已使用的 A
 2.  在你的**客户**页上，查找你想要查看其订单历史记录的客户，然后选择向下箭头以展开客户的记录。 
 3.  选择**查看订单**以显示订单历史记录。
 
-#### <a name="download-a-credit-note"></a>下载退款注意
+#### <a name="download-a-credit-note"></a>下载退款注释
 
-中，您行使完整退款 （Void 发票） 和重新计费，我们将为你提供一个退款注释来取消出原始发票，以及一个完整的新文档。 你可以请求退款/重新计费，原因如下：
--   地址或采购订单更正
--   生成发票，然后已应用的税收退款。 你可以申请退款/重新计费以获得返回拉入原始发票税收额退款。 也是如此的退款，因为你可以申请退款/重新计费的原始发票，然后在退款拉取。
+在您行使完整退款 （Void 发票） 和重新计费，我们将为你提供一个退款注释来取消出原始发票，以及一个完整的新文档。 你可以请求退款/重新计费，原因如下：
+-   地址或购买订单更正
+-   生成发票，然后税务退款的应用。 你可以申请退款/的重新计费以获得提取返回到原始发票税收额退款。 也是如此的退款，因为你可以申请退款/的重新计费的原始发票，然后在退款拉取。

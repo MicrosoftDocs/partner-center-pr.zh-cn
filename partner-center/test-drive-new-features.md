@@ -1,14 +1,17 @@
 ---
 title: 试用合作伙伴中心的新功能
+ms.topic: article
+ms.date: 10/29/2018
 description: 在发布之前抢先试用合作伙伴中心的新功能，并告诉我们你的想法。 帮助塑造合作伙伴中心的未来！
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 38b6652275106dd7258e264f84a9d45259ffab5d
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 96fe21302e2d4e5a06f7b6c970b95b8739673ac7
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489463"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797120"
 ---
 # <a name="test-drive-new-partner-center-features"></a>试用合作伙伴中心的新功能
 

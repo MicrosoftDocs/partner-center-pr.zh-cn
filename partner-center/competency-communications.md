@@ -1,19 +1,22 @@
 ---
 title: 通信能力
+ms.topic: article
+ms.date: 10/29/2018
 description: 通信能力用于认可提供创新和自定义的 Skype for Business 解决方案的合作伙伴。
 author: Daniel Simpson
+ms.author: dansimp
 keywords: 能力, 通信
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b202d8a1f134748f18b66edae1bae4b44e00aaef
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 0b52e39fee9abfe8e869d48c073ac42cb69637c1
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877227"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794630"
 ---
 >[!IMPORTANT]
->若要了解有关获得此能力的要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
+>若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 #Communications

@@ -1,16 +1,19 @@
 ---
 title: 与云解决方案提供商计划中的间接提供商合作 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且可以提供客户支持和计费的间接提供商（也称为分销商）合作。 这意味着你不必自己开始，但可以改为与经验丰富的技术提供商合作以帮助确保你取得成功。 在提供商-经销商（双层）模型中，提供商购买你转售给客户的 Microsoft 云解决方案和服务。
 ms.prod: ''
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, 第 2 层, 第 2 层
 ms.localizationpriority: medium
-ms.openlocfilehash: 9446b5ffa0a33716172232fc3b337cbe26225cfa
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 3c17ab635ac95cc53d8900c12335823fcabd75eb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490013"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795490"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 
@@ -71,7 +74,7 @@ ms.locfileid: "4490013"
 
     如果此页面上未列出你想要使用的 MPN ID，请选择**取消**，并使用你想要使用的组织档案的用户名和密码重新登录。 
     > [!IMPORTANT]  
-    > 选择与活动组织配置文件位于同一国家/地区为你的 Azure AD 租户关联的 MPN ID。
+    > 选择与活动组织配置文件位于同一国家/地区为你的 Azure AD 租户相关联的 MPN ID。
 
 8.  提供或更新你的组织的法定公司档案、主要联系人信息和客户支持信息。 选择**立即注册**。
 
@@ -139,9 +142,9 @@ ms.locfileid: "4490013"
 
 ### <a name="connect-with-existing-customers"></a>与现有客户联系
 
-成功注册为间接经销商后，你已经交易的客户使用通过其他门户，例如 Office 365 合作伙伴管理员中心或 Microsoft Azure 管理员门户中，将显示在合作伙伴中心上的客户列表。 从**合作伙伴中心**菜单以查看你的客户列表中选择**客户**。 
+成功注册为间接经销商后，客户已与你交易通过其他门户，例如 Office 365 合作伙伴管理员中心或 Microsoft Azure 管理门户中，将显示在合作伙伴中心上的客户列表中。 从**合作伙伴中心**菜单以查看你的客户列表中选择**客户**。 
 
-与间接提供商联系时，你不会自动获得间接提供商的客户。 同样，在使用你自己或通过间接提供商，而不是通过合作伙伴中心中，客户不会自动显示的客户列表中时你在合作伙伴中心注册。 你将需要与在合作伙伴中心中进行交易的客户建立经销商关系。  若要执行此操作，你他们发送电子邮件邀请要在合作伙伴中心中，与你联系如下所述。
+与间接提供商联系时，你不会自动获得间接提供商的客户。 同样，使用你自己或通过间接提供商，而不是通过合作伙伴中心中，客户不会自动显示在你的客户列表中时你在合作伙伴中心注册。 你将需要与在合作伙伴中心中进行交易的客户建立经销商关系。  为此，请发送电子邮件他们在合作伙伴中心中，与你联系的邀请如下所述。
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 

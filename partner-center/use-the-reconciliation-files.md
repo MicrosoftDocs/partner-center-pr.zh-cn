@@ -1,15 +1,18 @@
 ---
 title: 使用对帐文件 | 合作伙伴中心
-description: 计费周期中每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。
+ms.topic: article
+ms.date: 10/29/2018
+description: 计费周期中每项费用的明细项目详细视图，请从合作伙伴中心下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: de2050db9ec6202e43713d62269146291b5ded99
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 021b968f6dad4a47db712f0f0090edb082770000
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489953"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797290"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -19,7 +22,7 @@ ms.locfileid: "4489953"
 -  美国政府 Microsoft 云合作伙伴中心
 -  德国 Microsoft 云合作伙伴中心
 
-计费周期中每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
+计费周期中每项费用的明细项目详细视图，请从合作伙伴中心下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
 
 ## <a href="" id="itemizebypartner"></a>由合作伙伴列出明细
 
@@ -54,7 +57,7 @@ ms.locfileid: "4489953"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> 基于许可证的文件字段
 

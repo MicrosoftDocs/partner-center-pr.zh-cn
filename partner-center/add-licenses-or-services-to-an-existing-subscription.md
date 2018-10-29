@@ -1,16 +1,19 @@
 ---
 title: 将许可证或服务添加到现有订阅 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: aa3ca83353b5efece1cb86395f82f6e876deb25b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489723"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795970"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 
@@ -38,7 +41,7 @@ ms.locfileid: "4489723"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 商业版</td>
+<td>Office365Business</td>
 <td><ul>
 <li>Office 365 商业高级版¹</li>
 <li>Office 365 专业增强订阅版</li>
@@ -47,14 +50,14 @@ ms.locfileid: "4489723"
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 商业高级版</td>
+<td>Office365BusinessPremium</td>
 <td><ul>
 <li>Office 365 企业版 E3</li>
 <li>Office 365 企业版 E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 商业协作版</td>
+<td>Office365BusinessEssentials</td>
 <td><ul>
 <li>Office 365 商业高级版¹</li>
 <li>Office 365 企业版 E1</li>
@@ -64,12 +67,12 @@ ms.locfileid: "4489723"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 企业版（印度）和 Office 365 商业合作版（印度）可升级到 Office 365 商业高级版（印度），而非 Office 365 商业高级版。</p></td>
+<td><p>¹ Office365BusinessIndia 和 Office365BusinessEssentialsIndia 可以升级到 Office365BusinessPremiumIndia，不适用于 Office365BusinessPremium。</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
 如果以下这些条件适用，可升级订阅：
 
@@ -92,9 +95,9 @@ ms.locfileid: "4489723"
 3.  选择新的产品/服务，然后选择**提交**。
 4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心提供帐户和服务影响的列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
- 
+ 
 
- 
+ 
 
 
 

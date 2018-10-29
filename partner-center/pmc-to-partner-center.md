@@ -1,18 +1,21 @@
 ---
 title: 将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: PMC 用户 - 我们现在正在通过合作伙伴中心管理 MPN 成员身份。 请执行下列操作。
 author: KPacquer
+ms.author: kenpacq
 keywords: mpn 成员身份, 能力, pmc 到合作伙伴中心
 robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: f6da4a837ccabc6611e7751a9a22cebbbe998bda
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490073"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794950"
 ---
 # <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
 
@@ -31,7 +34,7 @@ Partner Membership Center 用户：我们现在正在通过合作伙伴中心管
 
 组织的管理员可以将员工添加到合作伙伴中心帐户中，方法是单独添加他们，或者使用 PMC 数据同时创建多个用户：
 
-1.  从合作伙伴中心中，选择**添加新用户**添加个人或**设置你的团队**（或使用 PMC 数据添加用户） 若要同时添加多个用户。
+1.  从合作伙伴中心中，选择**添加新用户**添加个人或**设置你的团队**（或者使用 PMC 数据添加用户） 若要同时添加多个用户。
     
     按照屏幕上的说明完成设置。
 

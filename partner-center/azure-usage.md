@@ -1,15 +1,18 @@
 ---
-title: 针对最大预订利用率确定的 Microsoft Azure 虚拟机大小 |合作伙伴中心
+title: 针对最大预订利用率 Microsoft Azure 虚拟机大小 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Information on purchasing and managing Azure reservations
 author: v-petand
+ms.author: v-petand
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
 ms.localizationpriority: medium
-ms.openlocfilehash: 6279ff9e6ecd66af9eb320b2d72a1cdfaad4ccb4
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489613"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795920"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小 
 

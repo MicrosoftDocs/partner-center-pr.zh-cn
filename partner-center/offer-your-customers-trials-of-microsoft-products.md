@@ -1,14 +1,17 @@
 ---
 title: 为客户提供 Microsoft 产品试用版 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 你的客户可以试用 Microsoft 订阅产品，为期 30 天。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fb7c8752ee6c7ce322ec735a1b3c41a00f92c75
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 5455d32d1ccd51da1bd1a9537fbead5fbc34a8eb
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4488573"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795270"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>为客户提供 Microsoft 产品试用版
 

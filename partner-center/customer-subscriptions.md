@@ -1,15 +1,18 @@
 ---
 title: 客户订阅 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 合作伙伴可以向客户销售订阅，并通过合作伙伴中心管理它们。
 author: labrenne
+ms.author: labrenne
 Keywords: subscriptions, assign license, license, customer satisfaction, Azure subscriptions
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f39ea37669839f26dbd72894544fddce61e6462
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: b6f8d22a620fee619d864cc13cc5d110ddfc5c47
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489823"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795460"
 ---
 # <a name="customer-subscriptions"></a>客户订阅
 
@@ -62,9 +65,9 @@ ms.locfileid: "4489823"
 
 
 
- 
+ 
 
- 
+ 
 
 
 

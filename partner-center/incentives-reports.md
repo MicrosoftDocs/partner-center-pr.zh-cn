@@ -1,14 +1,17 @@
 ---
 title: 实时数据报告替换某些奖励计划的每月报告 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: OSA 销售和联机服务使用奖励计划现在可获取实时数据报告。
 author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ae842761eb1de3c0c75c951033e128691e5029a
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2877127"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796180"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>实时数据报告替换某些奖励计划的每月报告
 
@@ -45,9 +48,9 @@ Microsoft 已停用了合作伙伴奖励报告和分析 (PIRA) 站点，并且�
 6. **调整**，默认视图，可能没有数据。  在此情况下，选择**收益**或**付款**视图。
 
 
- 
+ 
 
- 
+ 
 
 
 

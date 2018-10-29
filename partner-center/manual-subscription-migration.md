@@ -1,15 +1,18 @@
 ---
 title: 将 Dynamics AX 订阅迁移到 Dynamics 365 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f5e03825226171b8002b260e1b00a59a5eb53ebb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489783"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797130"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>将 Dynamics AX 订阅迁移到 Dynamics 365
 
@@ -42,7 +45,7 @@ Microsoft Dynamics AX 产品线于 2016 年 11 月 1 日停用。 若要了解�
 |任务/自助服务|Microsoft Dynamics 365 for Team Members|
 |设备|Microsoft Dynamics 365 for Operations Device|
 
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online 授权更改 
+## <a name="microsoft-dynamics-crm-online-licensing-changes"></a>Microsoft Dynamics CRM Online 授权更改 
 
 **Microsoft Dynamics CRM Online**
 
@@ -97,7 +100,7 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 **取消旧订阅**
 
-1.  从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户并选择你想要取消的订阅。
+1.  从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动的客户，选择你想要取消的订阅。
 2.  在订阅详细信息页面中，将订阅**状态**设置为**已暂停**。
 3.  选择**提交**。
 
@@ -113,9 +116,9 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 在客户接受你成为他们的间接提供商后，预配步骤与上述步骤大致相同：购买新订阅，然后分配用户许可证。 唯一的区域是取消旧订阅。 新提供商无法暂停/取消通过其他渠道获取的订阅。 如果客户在其他销售渠道（例如开放渠道）获取了以前的订阅，需要通过该渠道自行取消。
 
- 
+ 
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: 多合作伙伴支持 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 客户可能希望与云解决方案提供商计划中专门提供不同服务的多个合作伙伴合作。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ba0d69eb1e46d4aa75f57514fe5626ae522c5eb
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 09b915d7cb2cd36ffabc5f4336cb78f37e9b262c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489423"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795170"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 
@@ -34,9 +37,9 @@ ms.locfileid: "4489423"
 -   更改订阅的记录合作伙伴
 
 > [!IMPORTANT]  
-> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道，包括在合作伙伴中心进行都公布。  
+> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道，包括在合作伙伴中心进行都公布。  
 
- 
+ 
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: 将问题上报给 Microsoft | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 你应代表客户解决问题。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7edd9d68e1bf144f9e05d4e5d1243f77a73d721f
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: e1573615252cf40b34297be8666aa56d3b2b1f94
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489373"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797220"
 ---
 # <a name="escalate-problems-to-microsoft"></a>将问题上报给 Microsoft
 
@@ -44,14 +47,14 @@ ms.locfileid: "4489373"
 7. 选择支持主题。
 
 >[!NOTE]
->请务必从合作伙伴中心开始，以便维护合作伙伴和客户之间的关系。 
+>请务必从合作伙伴中心开始，以便维护之间合作伙伴和客户的关系。 
 
 
 有关代表客户报告问题的信息，请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
 
- 
+ 
 
- 
+ 
 
 
 

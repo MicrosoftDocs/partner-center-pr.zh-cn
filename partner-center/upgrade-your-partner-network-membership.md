@@ -1,15 +1,18 @@
 ---
 title: 升级你的 Microsoft 合作伙伴网络成员身份 |合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 升级你的 Microsoft 合作伙伴网络成员身份后，你将有资格获取成员身份专享权益。 了解如何查找和购买提供的产品/服务。
 author: MaggiePucciEvans
+ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ff177cf0c4f424892d664e1d089a32ca04b385b
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 62b14af53723cd8e28a1a5253e953f08fc03c867
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489703"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5795710"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
@@ -47,7 +50,7 @@ Microsoft 的合作伙伴计划提供了以下三个权益逐渐增加的成员�
 有关 Microsoft Action Pack 的详细信息，请转到[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 > [!NOTE]  
-> 点击此链接将你带到其他网站。 返回到此站点，合作伙伴中心站点以订阅 Action Pack。
+> 按照此链接将你带到其他网站。 返回到此站点，合作伙伴中心站点以订阅 Action Pack。
 
 
 ### <a name="subscribe-to-microsoft-action-pack"></a>订阅 Microsoft Action Pack

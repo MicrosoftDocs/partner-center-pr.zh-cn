@@ -1,16 +1,19 @@
 ---
 title: 获得 Microsoft 能力 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 获得银牌和金牌 Microsoft 能力，以证明你在专业业务领域中提供优质解决方案方面拥有公认的专长
 author: KPacquer
+ms.author: kenpacq
 keywords: 能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, 权益, 绩效目标, 技能目标
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 858321809e311cc8be83967ceebd5c71fe82c48c
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 98b8c837001ee8b24288f658d6fe0355fc91fc40
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4490153"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5796890"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -63,7 +66,7 @@ Microsoft 能力成就表明你在提供优质解决方案方面具有可靠的�
 
     创建用户帐户后，我们将向他们发送新的用户名和密码，并且将提示你下载日志文件，其中包含的信息用于根据需要帮助重置用户名和密码。 你还可以[设置用户帐户，以便他们可以自己重置密码](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. 请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。 （从[合作伙伴中心](http://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证和通过 Microsoft 合作伙伴大学与其帐户相关联。
+2. 请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。 （从[合作伙伴中心](http://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证与其通过 Microsoft 合作伙伴大学帐户相关联。
 
 3.  在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。 此后，进度会显示在**能力**部分中。
 

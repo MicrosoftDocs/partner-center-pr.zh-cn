@@ -1,15 +1,18 @@
 ---
 title: 代表客户购买 Microsoft Azure 预订 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 Description: Buy Azure reservations on behalf of customers in Partner Center.
 author: v-petand
+ms.author: v-petand
 keywords: azure，预订，管理，计费，购买
 ms.localizationpriority: medium
-ms.openlocfilehash: 79c6fcfea47787165e958096f23bc14a97b9b85c
-ms.sourcegitcommit: a4ca0a2d731b92ed7bffbb197e0cd28371902c52
+ms.openlocfilehash: 0cc6c3632b16af99c3becb9d00a81a283ab2ab5c
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "4658103"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797190"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表你的客户在合作伙伴中心购买 Microsoft Azure 预订 
 
@@ -40,7 +43,7 @@ ms.locfileid: "4658103"
 
 5. 使用筛选器来查找满足客户的需求的预留的实例。  
 
-6. 查找你想要购买，输入的预留实例数的预留后客户将需要在**数量**，，然后选择**添加到购物车**。  
+6. 查找你想要购买，输入预留实例数的预留后客户将需要在**数量**，，然后选择**添加到购物车**。  
 
 7. 重复步骤 5 和 6，直到已将所有必要的项添加到订单中。 选择**查看**以确认你的订单正确无误。  
 
@@ -51,11 +54,11 @@ ms.locfileid: "4658103"
     b. 选择预订的范围。 预订的范围可以涵盖一个订阅或多个订阅（共享范围）。 如果你范围设定为单个订阅预订，预订折扣仅此订阅。 如果你选择共享，则预订折扣向客户计费上下文内任何订阅。 
 
      >[!NOTE]
-    >如果你选择预订的范围限制为单个 Azure 订阅，你可能需要增加订阅的 vCPU 配额。 若要提高订阅的 vCPU 配额，你将需要在 Azure 门户中创建支持请求。 按照说明[在本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)创建请求。    
+    >如果你选择预订的范围限制为单个 Azure 订阅，你可能需要增加订阅的 vCPU 配额。 若要提高订阅的 vCPU 配额，你将需要在 Azure 门户中创建支持请求。 请按照说明[在本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)创建请求。    
 
     c. 如果你不提供商合作伙伴，选择你想要关联的产品经销商。
 
-9. 选择**购买**以购买订购的商品。 在**确认**页面上显示的订单，包括订单编号，详细信息。    
+9. 选择**购买**以购买订购的商品。 你的订单，包括订单编号的详细信息显示在**确认**页面上。    
      
      选择**完成**以转到你的**订单历史记录**页面。 
 

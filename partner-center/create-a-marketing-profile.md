@@ -1,16 +1,19 @@
 ---
 title: 创建业务档案 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 在合作伙伴中心创建业务档案，以从 Microsoft 获取销售线索。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: KPacquer
+ms.author: kenpacq
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 业务档案, 营销档案
 ms.localizationpriority: medium
-ms.openlocfilehash: 516e898ba6c18458bd85db9517031ca58fcfef8a
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489763"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797250"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

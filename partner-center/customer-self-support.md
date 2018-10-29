@@ -1,16 +1,19 @@
 ---
 title: 客户自我支持 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 客户自我支持
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
+ms.author: evansma
 keywords: 客户自我支持, 自我支持,
 ms.localizationpriority: medium
-ms.openlocfilehash: 7bfc4a75d384e5691763a6adca24f619bdee0a3b
-ms.sourcegitcommit: 92629114d5081103bfe555081f69997af4ed56f2
+ms.openlocfilehash: 46525d10888ec910ac86421dc018b6d8ff1f68ab
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "2874577"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5794770"
 ---
 # <a name="customer-self-support"></a>客户自我支持
 
@@ -28,11 +31,11 @@ ms.locfileid: "2874577"
 
 若要购买其他订阅或取消其订阅，客户应联系他们的云解决方案提供商合作伙伴。 客户不能直接通过 Microsoft 更改他们自己的订阅。
 
-当客户需要帮助产品时，它们可以找到有关[支持](https://partnercenter.microsoft.com/partner/support)的产品资源。 我们鼓励合作伙伴首先将其客户指引向这些资源。
+当客户需要有关产品的帮助时，他们可以找到有关[支持](https://partnercenter.microsoft.com/partner/support)的产品资源。 我们鼓励合作伙伴首先将其客户指引向这些资源。
 
- 
+ 
 
- 
+ 
 
 
 

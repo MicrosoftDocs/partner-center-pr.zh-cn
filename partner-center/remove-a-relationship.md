@@ -1,14 +1,17 @@
 ---
 title: 删除与客户的经销商关系 | 合作伙伴中心
+ms.topic: article
+ms.date: 10/29/2018
 description: 删除关系时，会从你在合作伙伴中心的视图中删除任何已达成的业务关系。
 author: KPacquer
+ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: a647178ae75b52930cc8eab5258179ed27696912
-ms.sourcegitcommit: 123a7f53d633c27eb5f982926d856de47afb1042
+ms.openlocfilehash: 61f2435d7e310623338444524ae5382c6e69fa00
+ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2018
-ms.locfileid: "4489733"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "5797070"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>删除与客户的经销商关系
 
