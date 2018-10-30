@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, Microsoft 合作伙伴网络, 网络成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: c4546c8e7675f2d25cd29da765c1320531c8c11f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
+ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796820"
+ms.locfileid: "5797385"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金牌和银牌成员身份的 Microsoft 能力要求
 
@@ -45,6 +45,7 @@ ms.locfileid: "5796820"
 | [DevOps 能力](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、软件生命周期、scrum 认证 |
 | [企业移动性管理能力](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| 企业移动性 + 安全性 (EMS)、Microsoft Intune、Azure 信息保护、Azure Active Directory Premium (AADP)，移动设备管理、标识和访问管理、信息保护、云应用安全 |
 | [企业资源计划能力](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、企业资源计划 (ERP)、SQL Server 2012 数据库  |
+|[ISV 能力](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure，SQL Server 2016、 Dynamics 365，Office 365、 Windows Server 2019，System Center 2016| 
 | [消息能力](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
 | [项目及项目组合管理能力](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft 项目、项目及项目组合管理 (PPM)、SharePoint Server 2016|
 | [中小型市场云解决方案能力](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
