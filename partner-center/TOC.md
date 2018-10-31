@@ -1,7 +1,7 @@
-# [关于 Microsoft 合作伙伴仪表板](index.md)
+# [关于 Microsoft 合作伙伴中心](index.md)
 
 # [合作伙伴网络成员身份](mpn-overview.md)
-## [创建合作伙伴仪表板帐户](mpn-create-a-partner-center-account.md)
+## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## 会员优惠
 ### [Action Pack](mpn-get-action-pack.md)
 ### [续订你的产品/服务](renew-mpn-offers.md)
@@ -18,13 +18,13 @@
 ## [客户协议模板](agreements.md)
 
 ## [适用于在国家云中销售](csp-national-clouds-overview.md)
-### [Microsoft Cloud for US Government 合作伙伴仪表板](partner-center-for-microsoft-us-govt-cloud.md)
-### [德国 Microsoft 云合作伙伴仪表板](partner-center-for-microsoft-cloud-germany.md)
+### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
+### [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 
-# [管理合作伙伴仪表板帐户](partner-center-account-setup.md)
-## [工作帐户与合作伙伴仪表板](azure-active-directory-tenants-and-partner-center.md)
+# [管理合作伙伴中心帐户](partner-center-account-setup.md)
+## [工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [更新合作伙伴档案](update-your-partner-profile.md)
-## [还原暂停的合作伙伴仪表板帐户](suspended-partner-center-account.md)
+## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
 ## [创建用户帐户](create-user-accounts-and-set-permissions.md)
 ## [为用户分配角色和权限](permissions-overview.md)
 ## [验证域所有权](become-global-admin.md)
@@ -73,7 +73,7 @@
 ## [在线服务（订阅）](customer-subscriptions.md)
 ### [创建、暂停或取消客户订阅](create-a-new-subscription.md)
 ### [为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)
-### [在合作伙伴仪表板分配 Azure 订阅](assign-azure-subscriptions.md)
+### [在合作伙伴中心分配 Azure 订阅](assign-azure-subscriptions.md)
 ### [将许可证分配给用户](assign-licenses-to-users.md)
 ### [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
 ### [向多个用户分配或撤销许可证](bulk-license-provisioning-for-multiple-users.md)
@@ -88,7 +88,7 @@
 ### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
 
-# 合作伙伴仪表板数据和分析
+# 合作伙伴中心数据和分析
 ## [获取并分析业务数据](data-analysis-lp.md)
 ## [适用于 Microsoft Power BI 的合作伙伴分析应用](power-bi-app-for-direct-partners.md)
 ## [合作伙伴贡献：掌握你的业绩指标](partner-contributions.md)
@@ -97,12 +97,12 @@
 ## [分析订阅和许可证](analyze-subscriptions-licenses.md)
 
 # [与其他合作伙伴合作](work-with-other-partners.md)
-## [合作伙伴仪表板上的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
-## [合作伙伴仪表板上的间接经销商任务](indirect-reseller-tasks-in-partner-center.md)
+## [合作伙伴中心中的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
+## [合作伙伴中心中的间接经销商任务](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [从 Microsoft 获取支持](support-from-microsoft.md)
-## [报告合作伙伴仪表板问题](report-problems-with-partner-center.md)
+## [报告合作伙伴中心问题](report-problems-with-partner-center.md)
 ## [代表客户报告问题 ](report-problems-on-behalf-of-a-customer.md)
 ## [使用我们的 API 获取自动服务通知](get-automated-service-notifications-with-our-apis.md)
 
