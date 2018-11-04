@@ -321,7 +321,7 @@ ms.locfileid: "6022231"
 |  以色列         |   USD    |
 |  约旦         |          |
 |  哈萨克斯坦     |   USD    |
-|  科索沃         |   USD    |
+|  Kosovo         |   USD    |
 |  科威特         |   USD    |
 |  吉尔吉斯斯坦     |   USD    |
 |  黎巴嫩        |   USD    |
@@ -336,7 +336,7 @@ ms.locfileid: "6022231"
 |  莫桑比克     |          |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
-|  巴勒斯坦 |        |
+|  Palestinian Territory, Occupied |        |
 |  卡塔尔          |   USD    |
 |  沙特阿拉伯   |   USD    |
 |  塞尔维亚         |   USD    |
@@ -374,9 +374,9 @@ ms.locfileid: "6022231"
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
+## <a name="taiwan-region-and-market"></a>Taiwan region and market
 
-如果贵公司的位置在中国台湾，你可以向中国台湾的客户销售云解决方案提供商产品/服务。
+If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
