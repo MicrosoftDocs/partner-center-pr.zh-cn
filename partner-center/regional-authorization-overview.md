@@ -1,220 +1,394 @@
 ---
-title: 云解决方案提供商区域授权 | 合作伙伴中心
+title: 云解决方案提供商全球市场 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
-description: 借助区域授权，经营国际业务的合作伙伴现在可更轻松地管理世界范围内不同地区和国家的客户。
+ms.date: 11/03/2018
+description: 请参阅你可以在其中销售云解决方案提供商产品/服务，根据你的公司的位置。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Azure AD 租户, 合并你的租户, 租户策略, 云解决方案提供商中的租户, 云解决方案提供商中的合作伙伴帐户, 云解决方案提供商市场和国家/地区, 通过云解决方案提供商可以在哪里进行销售？
+keywords: 云解决方案提供商市场，国家/地区，其中 i 通过可以销售云解决方案提供商，云解决方案提供商产品/服务，地区，销售云解决方案，全局云解决方案提供商
 ms.localizationpriority: medium
-ms.openlocfilehash: 351fbad0bfc818b16ca7a40eccedefb4dfea9307
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
+ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796630"
+ms.lasthandoff: 11/04/2018
+ms.locfileid: "6022231"
 ---
-# <a name="tenant-consolidation-strategies-in-csp"></a><span data-ttu-id="22ae0-104">云解决方案提供商中的租户合并策略</span><span class="sxs-lookup"><span data-stu-id="22ae0-104">Tenant consolidation strategies in CSP</span></span>
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a><span data-ttu-id="a72e8-104">云解决方案提供商计划区域市场和货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-104">Cloud Solution Provider program regional markets and currencies</span></span>
 
+<span data-ttu-id="a72e8-105">贵公司的位置决定了你的市场。</span><span class="sxs-lookup"><span data-stu-id="a72e8-105">Your company's location determines your market.</span></span> <span data-ttu-id="a72e8-106">你的市场包括地区和/或国家/地区，你可以在其中销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-106">Your market includes the regions and/or countries where you can sell CSP offers.</span></span>
 
-<span data-ttu-id="22ae0-105">\[与在商业发行之前可能会进行实质性修改的预发布产品相关的一些信息。</span><span class="sxs-lookup"><span data-stu-id="22ae0-105">\[Some information relates to pre-released product which may be substantially modified before it's commercially released.</span></span> <span data-ttu-id="22ae0-106">Microsoft 不对此处提供的信息作任何明示或默示的担保。\]</span><span class="sxs-lookup"><span data-stu-id="22ae0-106">Microsoft makes no warranties, express or implied, with respect to the information provided here.\]</span></span>
+<span data-ttu-id="a72e8-107">例如，如果你的公司位于美国境内，你可以向客户在美国和美国美属外岛销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-107">For example, if your company is located in the United States, you can sell CSP offers to customers in the U.S. and in U.S. Outlying Islands.</span></span> <span data-ttu-id="a72e8-108">如果你的公司位于巴西中，你可以向仅在巴西的客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-108">If your company is located in Brazil, you can sell CSP offers to customers only in Brazil.</span></span> <span data-ttu-id="a72e8-109">如果你的公司位于非洲地区，你可以向所有 18 国家/地区中非洲地区的客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-109">If your company is located in the Africa region, you can sell CSP offers to customers in all 18 countries in the Africa region.</span></span>
 
-<span data-ttu-id="22ae0-107">借助区域授权，经营国际业务的合作伙伴现在可更轻松地管理世界范围内不同地区和国家的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-107">With regional authorization, partners with international businesses can now more easily manage customers in different regions and countries around the world.</span></span> <span data-ttu-id="22ae0-108">这可减少合作伙伴需要管理的租户数、减少合作伙伴必须处理的计费日期，并使合作伙伴以更综合的角度来看待销售情况。</span><span class="sxs-lookup"><span data-stu-id="22ae0-108">This reduces the number of tenants that partners need to manage, reduces the billing dates that partners have to handle, and gives partners a more consolidated view of their sales.</span></span>
+<span data-ttu-id="a72e8-110">你可以代表客户的云解决方案提供商产品/服务订单之前，客户必须登录 Microsoft 云协议。</span><span class="sxs-lookup"><span data-stu-id="a72e8-110">Before you can order CSP offers on behalf of a customer, the customer must sign the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="a72e8-111">查找你地区适用的 Microsoft 云协议[此处](agreements.md)。</span><span class="sxs-lookup"><span data-stu-id="a72e8-111">You can find the applicable Microsoft Cloud Agreement for your region/country [here](agreements.md).</span></span>
 
-<span data-ttu-id="22ae0-109">在过去，除欧盟/欧洲自由贸易联盟外，合作伙伴需要在想要交易的每个国家/地区设有实体公司。</span><span class="sxs-lookup"><span data-stu-id="22ae0-109">In the past, with the exception of the European Union/EFTA, partners needed to have a physical entity in each country where they wanted to transact.</span></span> <span data-ttu-id="22ae0-110">这意味着合作伙伴需要在合作伙伴中心中设置多个租户，还需要设置多个计费日期和其他设置。</span><span class="sxs-lookup"><span data-stu-id="22ae0-110">This meant that partners needed to have multiple tenants set up in Partner Center, with multiple billing dates and other settings.</span></span> <span data-ttu-id="22ae0-111">在拉丁美洲等地区，合作伙伴无法轻易与邻近地区或国家的客户合作，并且在某些情况下，他们受到完全限制。</span><span class="sxs-lookup"><span data-stu-id="22ae0-111">In regions such as Latin America, partners were not able to easily work with customers in a neighboring region or country, and in some cases, they were restricted completely.</span></span>
+>[!IMPORTANT]
+> <span data-ttu-id="a72e8-112">从 2018 年 11 月 7 日，你将需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。</span><span class="sxs-lookup"><span data-stu-id="a72e8-112">Starting on November 7, 2018, you'll need to confirm that a customer has accepted the Microsoft Cloud Agreement by providing information about the person who signed it.</span></span> <span data-ttu-id="a72e8-113">有关更多详细信息，请参阅[确认的 Microsoft 云协议客户接受](confirm-consent.md)。</span><span class="sxs-lookup"><span data-stu-id="a72e8-113">See [Confirm a customer's acceptance of the Microsoft Cloud Agreement](confirm-consent.md) for more details.</span></span>
 
-> [!NOTE]  
->  <span data-ttu-id="22ae0-112">如果你注册[德国 Microsoft 云的云解决方案提供商](partner-center-for-microsoft-cloud-germany.md)并且向欧盟和欧洲自由贸易联盟国家/地区内的客户销售，你不能将德国 Microsoft 云合作伙伴中心的租户与其他租户合并。</span><span class="sxs-lookup"><span data-stu-id="22ae0-112">If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.</span></span>  
+<span data-ttu-id="a72e8-114">若要确定你可以在其中销售云解决方案提供商产品/服务，请一个下面的列表中找到贵公司的位置。</span><span class="sxs-lookup"><span data-stu-id="a72e8-114">To determine where you can sell CSP offers, find your company's location in one of the lists below.</span></span>
 
-## <a name="planning"></a><span data-ttu-id="22ae0-113">计划</span><span class="sxs-lookup"><span data-stu-id="22ae0-113">Planning</span></span>
+## <a name="africa-region-and-market"></a><span data-ttu-id="a72e8-115">非洲地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-115">Africa region and market</span></span>
 
-<span data-ttu-id="22ae0-114">合作伙伴有多种选项可合并区域租户，如下所述。</span><span class="sxs-lookup"><span data-stu-id="22ae0-114">Partners have multiple options for consolidating their regional tenants, as outlined below.</span></span>
+<span data-ttu-id="a72e8-116">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-116">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
-### <a name="separate-tenants-for-single-regions-or-countries"></a><span data-ttu-id="22ae0-115">一个地区或国家的独立租户</span><span class="sxs-lookup"><span data-stu-id="22ae0-115">Separate tenants for single regions or countries</span></span>
+| <span data-ttu-id="a72e8-117">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-117">Country/Region</span></span>           | <span data-ttu-id="a72e8-118">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-118">Currency</span></span> |
+| ------------------------ |:--------:|
+| <span data-ttu-id="a72e8-119">安哥拉</span><span class="sxs-lookup"><span data-stu-id="a72e8-119">Angola</span></span>                   |          |
+| <span data-ttu-id="a72e8-120">贝宁</span><span class="sxs-lookup"><span data-stu-id="a72e8-120">Benin</span></span>                    |   <span data-ttu-id="a72e8-121">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-121">USD</span></span>    |
+| <span data-ttu-id="a72e8-122">博茨瓦纳</span><span class="sxs-lookup"><span data-stu-id="a72e8-122">Botswana</span></span>                 |          |
+| <span data-ttu-id="a72e8-123">布基纳法索</span><span class="sxs-lookup"><span data-stu-id="a72e8-123">Burkina Faso</span></span>             |   <span data-ttu-id="a72e8-124">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-124">USD</span></span>    |
+| <span data-ttu-id="a72e8-125">布隆迪</span><span class="sxs-lookup"><span data-stu-id="a72e8-125">Burundi</span></span>                  |   <span data-ttu-id="a72e8-126">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-126">USD</span></span>    |
+| <span data-ttu-id="a72e8-127">喀麦隆</span><span class="sxs-lookup"><span data-stu-id="a72e8-127">Cameroon</span></span>                 |   <span data-ttu-id="a72e8-128">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-128">USD</span></span>    |
+| <span data-ttu-id="a72e8-129">佛得角</span><span class="sxs-lookup"><span data-stu-id="a72e8-129">Cape Verde</span></span>               |          |
+| <span data-ttu-id="a72e8-130">中非共和国</span><span class="sxs-lookup"><span data-stu-id="a72e8-130">Central African Republic</span></span> |   <span data-ttu-id="a72e8-131">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-131">USD</span></span>    |
+| <span data-ttu-id="a72e8-132">乍得</span><span class="sxs-lookup"><span data-stu-id="a72e8-132">Chad</span></span>                     |   <span data-ttu-id="a72e8-133">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-133">USD</span></span>    |
+| <span data-ttu-id="a72e8-134">科摩罗</span><span class="sxs-lookup"><span data-stu-id="a72e8-134">Comoros</span></span>                  |   <span data-ttu-id="a72e8-135">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-135">USD</span></span>    |
+| <span data-ttu-id="a72e8-136">刚果（布）</span><span class="sxs-lookup"><span data-stu-id="a72e8-136">Congo</span></span>                    |   <span data-ttu-id="a72e8-137">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-137">USD</span></span>    |
+| <span data-ttu-id="a72e8-138">刚果（金）</span><span class="sxs-lookup"><span data-stu-id="a72e8-138">Congo (DRC)</span></span>              |   <span data-ttu-id="a72e8-139">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-139">USD</span></span>    |
+| <span data-ttu-id="a72e8-140">科特迪瓦</span><span class="sxs-lookup"><span data-stu-id="a72e8-140">Côte d'Ivoire</span></span>            |          |
+| <span data-ttu-id="a72e8-141">吉布提</span><span class="sxs-lookup"><span data-stu-id="a72e8-141">Djibouti</span></span>                 |   <span data-ttu-id="a72e8-142">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-142">USD</span></span>    |
+| <span data-ttu-id="a72e8-143">赤道几内亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-143">Equatorial Guinea</span></span>        |   <span data-ttu-id="a72e8-144">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-144">USD</span></span>    |
+| <span data-ttu-id="a72e8-145">厄立特里亚国</span><span class="sxs-lookup"><span data-stu-id="a72e8-145">Eritrea</span></span>                  |   <span data-ttu-id="a72e8-146">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-146">USD</span></span>    |
+| <span data-ttu-id="a72e8-147">埃塞俄比亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-147">Ethiopia</span></span>                 |          |
+| <span data-ttu-id="a72e8-148">法属玻里尼西亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-148">French Polynesia</span></span>         |   <span data-ttu-id="a72e8-149">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-149">USD</span></span>    |
+| <span data-ttu-id="a72e8-150">加蓬</span><span class="sxs-lookup"><span data-stu-id="a72e8-150">Gabon</span></span>                    |   <span data-ttu-id="a72e8-151">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-151">USD</span></span>    |
+| <span data-ttu-id="a72e8-152">冈比亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-152">Gambia</span></span>                   |   <span data-ttu-id="a72e8-153">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-153">USD</span></span>    |
+| <span data-ttu-id="a72e8-154">加纳</span><span class="sxs-lookup"><span data-stu-id="a72e8-154">Ghana</span></span>                    |   <span data-ttu-id="a72e8-155">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-155">USD</span></span>    |
+| <span data-ttu-id="a72e8-156">几内亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-156">Guinea</span></span>                   |   <span data-ttu-id="a72e8-157">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-157">USD</span></span>    |
+| <span data-ttu-id="a72e8-158">几内亚比绍</span><span class="sxs-lookup"><span data-stu-id="a72e8-158">Guinea-Bissau</span></span>            |   <span data-ttu-id="a72e8-159">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-159">USD</span></span>    |
+| <span data-ttu-id="a72e8-160">肯尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-160">Kenya</span></span>                    |   <span data-ttu-id="a72e8-161">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-161">USD</span></span>    |
+| <span data-ttu-id="a72e8-162">利比里亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-162">Liberia</span></span>                  |   <span data-ttu-id="a72e8-163">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-163">USD</span></span>    |
+| <span data-ttu-id="a72e8-164">马达加斯加</span><span class="sxs-lookup"><span data-stu-id="a72e8-164">Madagascar</span></span>               |   <span data-ttu-id="a72e8-165">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-165">USD</span></span>    |
+| <span data-ttu-id="a72e8-166">马拉维</span><span class="sxs-lookup"><span data-stu-id="a72e8-166">Malawi</span></span>                   |   <span data-ttu-id="a72e8-167">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-167">USD</span></span>    |
+| <span data-ttu-id="a72e8-168">马里</span><span class="sxs-lookup"><span data-stu-id="a72e8-168">Mali</span></span>                     |   <span data-ttu-id="a72e8-169">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-169">USD</span></span>    |
+| <span data-ttu-id="a72e8-170">毛里求斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-170">Mauritius</span></span>                |   <span data-ttu-id="a72e8-171">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-171">USD</span></span>    |
+| <span data-ttu-id="a72e8-172">马约特</span><span class="sxs-lookup"><span data-stu-id="a72e8-172">Mayotte</span></span>                  |   <span data-ttu-id="a72e8-173">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-173">USD</span></span>    |
+| <span data-ttu-id="a72e8-174">纳米比亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-174">Namibia</span></span>                  |   <span data-ttu-id="a72e8-175">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-175">USD</span></span>    |
+| <span data-ttu-id="a72e8-176">新喀里多尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-176">New Caledonia</span></span>            |   <span data-ttu-id="a72e8-177">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-177">USD</span></span>    |
+| <span data-ttu-id="a72e8-178">尼日尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-178">Niger</span></span>                    |   <span data-ttu-id="a72e8-179">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-179">USD</span></span>    |
+| <span data-ttu-id="a72e8-180">尼日利亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-180">Nigeria</span></span>                  |   <span data-ttu-id="a72e8-181">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-181">USD</span></span>    |
+| <span data-ttu-id="a72e8-182">留尼汪</span><span class="sxs-lookup"><span data-stu-id="a72e8-182">Reunion</span></span>                  |   <span data-ttu-id="a72e8-183">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-183">USD</span></span>    |
+| <span data-ttu-id="a72e8-184">卢旺达</span><span class="sxs-lookup"><span data-stu-id="a72e8-184">Rwanda</span></span>                   |   <span data-ttu-id="a72e8-185">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-185">USD</span></span>    |
+| <span data-ttu-id="a72e8-186">圣多美和普林西比</span><span class="sxs-lookup"><span data-stu-id="a72e8-186">São Tomé and Príncipe</span></span>    |   <span data-ttu-id="a72e8-187">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-187">USD</span></span>    |
+| <span data-ttu-id="a72e8-188">塞内加尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-188">Senegal</span></span>                  |          |
+| <span data-ttu-id="a72e8-189">塞舌尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-189">Seychelles</span></span>               |   <span data-ttu-id="a72e8-190">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-190">USD</span></span>    |
+| <span data-ttu-id="a72e8-191">塞拉利昂</span><span class="sxs-lookup"><span data-stu-id="a72e8-191">Sierra Leone</span></span>             |   <span data-ttu-id="a72e8-192">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-192">USD</span></span>    |
+| <span data-ttu-id="a72e8-193">索马里</span><span class="sxs-lookup"><span data-stu-id="a72e8-193">Somalia</span></span>                  |   <span data-ttu-id="a72e8-194">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-194">USD</span></span>    |
+| <span data-ttu-id="a72e8-195">南苏丹</span><span class="sxs-lookup"><span data-stu-id="a72e8-195">South Sudan</span></span>              |   <span data-ttu-id="a72e8-196">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-196">USD</span></span>    |
+| <span data-ttu-id="a72e8-197">圣赫勒拿、阿森松与特里斯坦达库尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-197">St Helena, Ascension, Tristan da Cunha</span></span>|    <span data-ttu-id="a72e8-198">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-198">USD</span></span>   |
+| <span data-ttu-id="a72e8-199">坦桑尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-199">Tanzania</span></span>                 |   <span data-ttu-id="a72e8-200">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-200">USD</span></span>    |
+| <span data-ttu-id="a72e8-201">多哥</span><span class="sxs-lookup"><span data-stu-id="a72e8-201">Togo</span></span>                     |   <span data-ttu-id="a72e8-202">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-202">USD</span></span>    |
+| <span data-ttu-id="a72e8-203">乌干达</span><span class="sxs-lookup"><span data-stu-id="a72e8-203">Uganda</span></span>                   |          |
+| <span data-ttu-id="a72e8-204">赞比亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-204">Zambia</span></span>                   |          |
+|
 
-<span data-ttu-id="22ae0-116">可以选择合并租户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-116">Tenant consolidation is optional.</span></span> <span data-ttu-id="22ae0-117">合作伙伴可继续管理具有独立租户的国际客户，如下表所示。</span><span class="sxs-lookup"><span data-stu-id="22ae0-117">Partners can continue to manage their international customers with separate tenants, as shown in the following table.</span></span>
+## <a name="asia-and-pacific-region-and-market"></a><span data-ttu-id="a72e8-205">亚洲和太平洋地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-205">Asia and Pacific region and market</span></span>
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><span data-ttu-id="22ae0-118">合作伙伴位置</span><span class="sxs-lookup"><span data-stu-id="22ae0-118">Partner location(s)</span></span></th>
-<th><span data-ttu-id="22ae0-119">计费日期</span><span class="sxs-lookup"><span data-stu-id="22ae0-119">Billing Date(s)</span></span></th>
-<th><span data-ttu-id="22ae0-120">客户位置</span><span class="sxs-lookup"><span data-stu-id="22ae0-120">Customer location(s)</span></span></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><span data-ttu-id="22ae0-121">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="22ae0-121">Colombia</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-122">计费日期 10 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-122">Billing date 10th</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-123">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="22ae0-123">Colombia</span></span></p></td>
-</tr>
-<tr class="even">
-<td><p><span data-ttu-id="22ae0-124">智利</span><span class="sxs-lookup"><span data-stu-id="22ae0-124">Chile</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-125">计费日期 15 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-125">Billing date 15th</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-126">智利</span><span class="sxs-lookup"><span data-stu-id="22ae0-126">Chile</span></span></p></td>
-</tr>
-<tr class="odd">
-<td><p><span data-ttu-id="22ae0-127">巴拉圭</span><span class="sxs-lookup"><span data-stu-id="22ae0-127">Paraguay</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-128">计费日期 5 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-128">Billing date 5th</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-129">巴拉圭</span><span class="sxs-lookup"><span data-stu-id="22ae0-129">Paraguay</span></span></p></td>
-</tr>
-<tr class="even">
-<td><p><span data-ttu-id="22ae0-130">秘鲁</span><span class="sxs-lookup"><span data-stu-id="22ae0-130">Peru</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-131">计费日期 2 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-131">Billing date 2nd</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-132">秘鲁</span><span class="sxs-lookup"><span data-stu-id="22ae0-132">Peru</span></span></p></td>
-</tr>
-</tbody>
-</table>
+<span data-ttu-id="a72e8-206">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-206">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
- 
+| <span data-ttu-id="a72e8-207">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-207">Country/Region</span></span>     | <span data-ttu-id="a72e8-208">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-208">Currency</span></span> |
+| --------------     |:--------:|
+|  <span data-ttu-id="a72e8-209">孟加拉国</span><span class="sxs-lookup"><span data-stu-id="a72e8-209">Bangladesh</span></span>        |   <span data-ttu-id="a72e8-210">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-210">USD</span></span>    |
+|  <span data-ttu-id="a72e8-211">不丹</span><span class="sxs-lookup"><span data-stu-id="a72e8-211">Bhutan</span></span>            |          |
+|  <span data-ttu-id="a72e8-212">文莱达鲁萨兰国</span><span class="sxs-lookup"><span data-stu-id="a72e8-212">Brunei Darussalam</span></span> |   <span data-ttu-id="a72e8-213">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-213">USD</span></span>    |
+|  <span data-ttu-id="a72e8-214">柬埔寨</span><span class="sxs-lookup"><span data-stu-id="a72e8-214">Cambodia</span></span>          |          |
+|  <span data-ttu-id="a72e8-215">香港特别行政区</span><span class="sxs-lookup"><span data-stu-id="a72e8-215">Hong Kong</span></span>         |   <span data-ttu-id="a72e8-216">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-216">USD</span></span>    |
+|  <span data-ttu-id="a72e8-217">印度尼西亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-217">Indonesia</span></span>         |   <span data-ttu-id="a72e8-218">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-218">USD</span></span>    |
+|  <span data-ttu-id="a72e8-219">老挝</span><span class="sxs-lookup"><span data-stu-id="a72e8-219">Laos</span></span>              |          |
+|  <span data-ttu-id="a72e8-220">澳门</span><span class="sxs-lookup"><span data-stu-id="a72e8-220">Macao</span></span>             |   <span data-ttu-id="a72e8-221">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-221">USD</span></span>    |
+|  <span data-ttu-id="a72e8-222">马来西亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-222">Malaysia</span></span>          |   <span data-ttu-id="a72e8-223">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-223">USD</span></span>    |
+|  <span data-ttu-id="a72e8-224">马尔代夫</span><span class="sxs-lookup"><span data-stu-id="a72e8-224">Maldives</span></span>          |          |
+|  <span data-ttu-id="a72e8-225">缅甸</span><span class="sxs-lookup"><span data-stu-id="a72e8-225">Myanmar</span></span>           |          |
+|  <span data-ttu-id="a72e8-226">尼泊尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-226">Nepal</span></span>             |          |
+|  <span data-ttu-id="a72e8-227">菲律宾</span><span class="sxs-lookup"><span data-stu-id="a72e8-227">Philippines</span></span>       |   <span data-ttu-id="a72e8-228">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-228">USD</span></span>    |
+|  <span data-ttu-id="a72e8-229">新加坡</span><span class="sxs-lookup"><span data-stu-id="a72e8-229">Singapore</span></span>         |   <span data-ttu-id="a72e8-230">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-230">USD</span></span>    |
+|  <span data-ttu-id="a72e8-231">斯里兰卡</span><span class="sxs-lookup"><span data-stu-id="a72e8-231">Sri Lanka</span></span>         |   <span data-ttu-id="a72e8-232">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-232">USD</span></span>    |
+|  <span data-ttu-id="a72e8-233">泰国</span><span class="sxs-lookup"><span data-stu-id="a72e8-233">Thailand</span></span>          |   <span data-ttu-id="a72e8-234">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-234">USD</span></span>    |
+|  <span data-ttu-id="a72e8-235">东帝汶</span><span class="sxs-lookup"><span data-stu-id="a72e8-235">Timor-Leste</span></span>       |   <span data-ttu-id="a72e8-236">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-236">USD</span></span>    |
+|  <span data-ttu-id="a72e8-237">越南</span><span class="sxs-lookup"><span data-stu-id="a72e8-237">Vietnam</span></span>           |   <span data-ttu-id="a72e8-238">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-238">USD</span></span>    |
+|
 
-## <a name="one-tenant-for-multiple-regions-or-countries"></a><span data-ttu-id="22ae0-133">一个租户通用于多个地区或国家</span><span class="sxs-lookup"><span data-stu-id="22ae0-133">One tenant for multiple regions or countries</span></span>
+## <a name="australia-region-and-market"></a><span data-ttu-id="a72e8-239">澳大利亚地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-239">Australia region and market</span></span>
 
+<span data-ttu-id="a72e8-240">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-240">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
-<span data-ttu-id="22ae0-134">合作伙伴可选择将多个云解决方案提供商租户的操作合并到一个云解决方案提供商租户中。</span><span class="sxs-lookup"><span data-stu-id="22ae0-134">Partners can choose to consolidate their operations from multiple CSP tenants into a single CSP tenant.</span></span>
+|  <span data-ttu-id="a72e8-241">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-241">Country/Region</span></span>        | <span data-ttu-id="a72e8-242">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-242">Currency</span></span> |
+|  --------------        |:--------:|
+|  <span data-ttu-id="a72e8-243">澳大利亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-243">Australia</span></span>             |   <span data-ttu-id="a72e8-244">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-244">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-245">圣延岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-245">Christmas Island</span></span>      |   <span data-ttu-id="a72e8-246">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-246">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-247">科科斯群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-247">Cocos (Keeling) Islands</span></span>|   <span data-ttu-id="a72e8-248">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-248">AUD</span></span>   |
+|  <span data-ttu-id="a72e8-249">库克群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-249">Cook Islands</span></span>          |   <span data-ttu-id="a72e8-250">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-250">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-251">斐济</span><span class="sxs-lookup"><span data-stu-id="a72e8-251">Fiji</span></span>                  |   <span data-ttu-id="a72e8-252">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-252">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-253">法属南部领地</span><span class="sxs-lookup"><span data-stu-id="a72e8-253">French Southern Territories</span></span>| <span data-ttu-id="a72e8-254">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-254">AUD</span></span> |
+|  <span data-ttu-id="a72e8-255">关岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-255">Guam</span></span>                  |  <span data-ttu-id="a72e8-256">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-256">AUD</span></span>     |
+|  <span data-ttu-id="a72e8-257">赫德岛和麦克唐纳群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-257">Heard Island and McDonald Islands</span></span>| <span data-ttu-id="a72e8-258">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-258">AUD</span></span> |
+|  <span data-ttu-id="a72e8-259">基里巴斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-259">Kiribati</span></span>              |   <span data-ttu-id="a72e8-260">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-260">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-261">马绍尔群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-261">Marshall Islands</span></span>      |   <span data-ttu-id="a72e8-262">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-262">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-263">密克罗尼西亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-263">Micronesia</span></span>            |   <span data-ttu-id="a72e8-264">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-264">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-265">瑙鲁</span><span class="sxs-lookup"><span data-stu-id="a72e8-265">Nauru</span></span>                 |   <span data-ttu-id="a72e8-266">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-266">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-267">纽埃</span><span class="sxs-lookup"><span data-stu-id="a72e8-267">Niue</span></span>                  |   <span data-ttu-id="a72e8-268">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-268">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-269">诺福克岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-269">Norfolk Island</span></span>        |   <span data-ttu-id="a72e8-270">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-270">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-271">北马里亚纳群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-271">Northern Mariana Islands</span></span>| <span data-ttu-id="a72e8-272">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-272">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-273">帕劳</span><span class="sxs-lookup"><span data-stu-id="a72e8-273">Palau</span></span>                 |   <span data-ttu-id="a72e8-274">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-274">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-275">巴布亚新几内亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-275">Papua New Guinea</span></span>      |   <span data-ttu-id="a72e8-276">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-276">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-277">皮特凯恩群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-277">Pitcairn Islands</span></span>      |   <span data-ttu-id="a72e8-278">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-278">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-279">所罗门群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-279">Solomon Islands</span></span>       |   <span data-ttu-id="a72e8-280">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-280">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-281">托克劳</span><span class="sxs-lookup"><span data-stu-id="a72e8-281">Tokelau</span></span>               |   <span data-ttu-id="a72e8-282">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-282">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-283">汤加</span><span class="sxs-lookup"><span data-stu-id="a72e8-283">Tonga</span></span>                 |   <span data-ttu-id="a72e8-284">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-284">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-285">图瓦卢</span><span class="sxs-lookup"><span data-stu-id="a72e8-285">Tuvalu</span></span>                |   <span data-ttu-id="a72e8-286">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-286">AUD</span></span>    |
+|  <span data-ttu-id="a72e8-287">瓦利斯和富图纳</span><span class="sxs-lookup"><span data-stu-id="a72e8-287">Wallis and Futuna</span></span>     |   <span data-ttu-id="a72e8-288">AUD</span><span class="sxs-lookup"><span data-stu-id="a72e8-288">AUD</span></span>    |
+|
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><span data-ttu-id="22ae0-135">合作伙伴位置</span><span class="sxs-lookup"><span data-stu-id="22ae0-135">Partner location</span></span></th>
-<th><span data-ttu-id="22ae0-136">计费日期</span><span class="sxs-lookup"><span data-stu-id="22ae0-136">Billing Date</span></span></th>
-<th><span data-ttu-id="22ae0-137">客户位置</span><span class="sxs-lookup"><span data-stu-id="22ae0-137">Customer location(s)</span></span></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><span data-ttu-id="22ae0-138">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="22ae0-138">Colombia</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-139">计费日期 10 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-139">Billing date 10th</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-140">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="22ae0-140">Colombia</span></span></p>
-<p><span data-ttu-id="22ae0-141">智利</span><span class="sxs-lookup"><span data-stu-id="22ae0-141">Chile</span></span></p>
-<p><span data-ttu-id="22ae0-142">巴拉圭</span><span class="sxs-lookup"><span data-stu-id="22ae0-142">Paraguay</span></span></p>
-<p><span data-ttu-id="22ae0-143">秘鲁</span><span class="sxs-lookup"><span data-stu-id="22ae0-143">Peru</span></span></p></td>
-</tr>
-</tbody>
-</table>
+## <a name="brazil-region-and-market"></a><span data-ttu-id="a72e8-289">巴西地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-289">Brazil region and market</span></span>
 
- 
+<span data-ttu-id="a72e8-290">如果贵公司的位置在巴西，你可以在巴西向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-290">If your company's location is Brazil, you can sell CSP offers to customers in Brazil.</span></span>
 
-## <a name="some-tenants-for-some-regions-or-countries"></a><span data-ttu-id="22ae0-144">特定租户用于特定地区或国家</span><span class="sxs-lookup"><span data-stu-id="22ae0-144">Some tenants for some regions or countries</span></span>
+|  <span data-ttu-id="a72e8-291">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-291">Country/Region</span></span> | <span data-ttu-id="a72e8-292">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-292">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-293">巴西</span><span class="sxs-lookup"><span data-stu-id="a72e8-293">Brazil</span></span>         |   <span data-ttu-id="a72e8-294">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-294">USD</span></span>    |
+|
 
+## <a name="canada-region-and-market"></a><span data-ttu-id="a72e8-295">加拿大地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-295">Canada region and market</span></span>
 
-<span data-ttu-id="22ae0-145">合作伙伴可选择将多个云解决方案提供商租户的操作合并到较少的云解决方案提供商租户中。</span><span class="sxs-lookup"><span data-stu-id="22ae0-145">Partners can choose to consolidate their operations from multiple CSP tenants to fewer CSP tenants.</span></span>
+<span data-ttu-id="a72e8-296">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-296">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
-<table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><span data-ttu-id="22ae0-146">合作伙伴位置</span><span class="sxs-lookup"><span data-stu-id="22ae0-146">Partner location(s)</span></span></th>
-<th><span data-ttu-id="22ae0-147">计费日期</span><span class="sxs-lookup"><span data-stu-id="22ae0-147">Billing Date(s)</span></span></th>
-<th><span data-ttu-id="22ae0-148">客户位置</span><span class="sxs-lookup"><span data-stu-id="22ae0-148">Customer location(s)</span></span></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><span data-ttu-id="22ae0-149">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="22ae0-149">Colombia</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-150">计费日期 10 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-150">Billing date 10th</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-151">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="22ae0-151">Colombia</span></span></p>
-<p><span data-ttu-id="22ae0-152">智利</span><span class="sxs-lookup"><span data-stu-id="22ae0-152">Chile</span></span></p></td>
-</tr>
-<tr class="even">
-<td><p><span data-ttu-id="22ae0-153">巴拉圭</span><span class="sxs-lookup"><span data-stu-id="22ae0-153">Paraguay</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-154">计费日期 5 日</span><span class="sxs-lookup"><span data-stu-id="22ae0-154">Billing date 5th</span></span></p></td>
-<td><p><span data-ttu-id="22ae0-155">巴拉圭</span><span class="sxs-lookup"><span data-stu-id="22ae0-155">Paraguay</span></span></p>
-<p><span data-ttu-id="22ae0-156">秘鲁</span><span class="sxs-lookup"><span data-stu-id="22ae0-156">Peru</span></span></p></td>
-</tr>
-</tbody>
-</table>
+|  <span data-ttu-id="a72e8-297">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-297">Country/Region</span></span> | <span data-ttu-id="a72e8-298">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-298">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-299">加拿大</span><span class="sxs-lookup"><span data-stu-id="a72e8-299">Canada</span></span>         |   <span data-ttu-id="a72e8-300">CAD</span><span class="sxs-lookup"><span data-stu-id="a72e8-300">CAD</span></span>    |
+|  <span data-ttu-id="a72e8-301">圣皮埃尔和密克隆岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-301">Saint Pierre and Miquelon</span></span>|  <span data-ttu-id="a72e8-302">CAD</span><span class="sxs-lookup"><span data-stu-id="a72e8-302">CAD</span></span>   |
+|
 
- 
+## <a name="europe-region-and-market"></a><span data-ttu-id="a72e8-303">欧洲地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-303">Europe region and market</span></span>
 
-## <a name="consolidating-tenants"></a><span data-ttu-id="22ae0-157">合并租户</span><span class="sxs-lookup"><span data-stu-id="22ae0-157">Consolidating tenants</span></span>
+<span data-ttu-id="a72e8-304">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-304">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
+|  <span data-ttu-id="a72e8-305">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-305">Country/Region</span></span> | <span data-ttu-id="a72e8-306">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-306">Currency</span></span>  |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-307">奥兰岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-307">Åland Islands</span></span>  |   <span data-ttu-id="a72e8-308">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-308">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-309">安道尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-309">Andorra</span></span>        |   <span data-ttu-id="a72e8-310">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-310">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-311">奥地利</span><span class="sxs-lookup"><span data-stu-id="a72e8-311">Austria</span></span>        |   <span data-ttu-id="a72e8-312">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-312">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-313">比利时</span><span class="sxs-lookup"><span data-stu-id="a72e8-313">Belgium</span></span>        |   <span data-ttu-id="a72e8-314">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-314">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-315">布韦岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-315">Bouvet Island</span></span>  |   <span data-ttu-id="a72e8-316">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-316">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-317">保加利亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-317">Bulgaria</span></span>       |          |
+|  <span data-ttu-id="a72e8-318">克罗地亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-318">Croatia</span></span>        |   <span data-ttu-id="a72e8-319">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-319">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-320">塞浦路斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-320">Cyprus</span></span>         |          |
+|  <span data-ttu-id="a72e8-321">捷克共和国</span><span class="sxs-lookup"><span data-stu-id="a72e8-321">Czech Republic</span></span> |   <span data-ttu-id="a72e8-322">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-322">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-323">丹麦</span><span class="sxs-lookup"><span data-stu-id="a72e8-323">Denmark</span></span>        |   <span data-ttu-id="a72e8-324">DKK</span><span class="sxs-lookup"><span data-stu-id="a72e8-324">DKK</span></span>    |
+|  <span data-ttu-id="a72e8-325">爱沙尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-325">Estonia</span></span>        |   <span data-ttu-id="a72e8-326">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-326">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-327">法罗群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-327">Faroe Islands</span></span>  |   <span data-ttu-id="a72e8-328">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-328">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-329">芬兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-329">Finland</span></span>        |   <span data-ttu-id="a72e8-330">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-330">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-331">法国</span><span class="sxs-lookup"><span data-stu-id="a72e8-331">France</span></span>         |   <span data-ttu-id="a72e8-332">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-332">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-333">德国</span><span class="sxs-lookup"><span data-stu-id="a72e8-333">Germany</span></span>        |   <span data-ttu-id="a72e8-334">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-334">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-335">直布罗陀</span><span class="sxs-lookup"><span data-stu-id="a72e8-335">Gibraltar</span></span>      |   <span data-ttu-id="a72e8-336">GBP</span><span class="sxs-lookup"><span data-stu-id="a72e8-336">GBP</span></span>    |
+|  <span data-ttu-id="a72e8-337">希腊</span><span class="sxs-lookup"><span data-stu-id="a72e8-337">Greece</span></span>         |   <span data-ttu-id="a72e8-338">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-338">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-339">格陵兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-339">Greenland</span></span>      |          |
+|  <span data-ttu-id="a72e8-340">格恩西岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-340">Guernsey</span></span>       |   <span data-ttu-id="a72e8-341">GBP</span><span class="sxs-lookup"><span data-stu-id="a72e8-341">GBP</span></span>    |
+|  <span data-ttu-id="a72e8-342">匈牙利</span><span class="sxs-lookup"><span data-stu-id="a72e8-342">Hungary</span></span>        |   <span data-ttu-id="a72e8-343">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-343">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-344">冰岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-344">Iceland</span></span>        |   <span data-ttu-id="a72e8-345">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-345">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-346">爱尔兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-346">Ireland</span></span>        |   <span data-ttu-id="a72e8-347">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-347">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-348">曼岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-348">Isle of Man</span></span>    |   <span data-ttu-id="a72e8-349">GBP</span><span class="sxs-lookup"><span data-stu-id="a72e8-349">GBP</span></span>    |
+|  <span data-ttu-id="a72e8-350">意大利</span><span class="sxs-lookup"><span data-stu-id="a72e8-350">Italy</span></span>          |   <span data-ttu-id="a72e8-351">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-351">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-352">泽西</span><span class="sxs-lookup"><span data-stu-id="a72e8-352">Jersey</span></span>         |   <span data-ttu-id="a72e8-353">GBP</span><span class="sxs-lookup"><span data-stu-id="a72e8-353">GBP</span></span>    |
+|  <span data-ttu-id="a72e8-354">拉脱维亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-354">Latvia</span></span>         |   <span data-ttu-id="a72e8-355">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-355">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-356">列支敦士登</span><span class="sxs-lookup"><span data-stu-id="a72e8-356">Liechtenstein</span></span>  |   <span data-ttu-id="a72e8-357">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-357">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-358">立陶宛</span><span class="sxs-lookup"><span data-stu-id="a72e8-358">Lithuania</span></span>      |   <span data-ttu-id="a72e8-359">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-359">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-360">卢森堡</span><span class="sxs-lookup"><span data-stu-id="a72e8-360">Luxembourg</span></span>     |   <span data-ttu-id="a72e8-361">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-361">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-362">马耳他</span><span class="sxs-lookup"><span data-stu-id="a72e8-362">Malta</span></span>          |          |
+|  <span data-ttu-id="a72e8-363">摩纳哥</span><span class="sxs-lookup"><span data-stu-id="a72e8-363">Monaco</span></span>         |          |
+|  <span data-ttu-id="a72e8-364">荷兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-364">Netherlands</span></span>    |   <span data-ttu-id="a72e8-365">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-365">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-366">挪威</span><span class="sxs-lookup"><span data-stu-id="a72e8-366">Norway</span></span>         |   <span data-ttu-id="a72e8-367">NOK</span><span class="sxs-lookup"><span data-stu-id="a72e8-367">NOK</span></span>    |
+|  <span data-ttu-id="a72e8-368">波兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-368">Poland</span></span>         |   <span data-ttu-id="a72e8-369">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-369">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-370">葡萄牙</span><span class="sxs-lookup"><span data-stu-id="a72e8-370">Portugal</span></span>       |   <span data-ttu-id="a72e8-371">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-371">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-372">罗马尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-372">Romania</span></span>        |   <span data-ttu-id="a72e8-373">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-373">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-374">圣马力诺</span><span class="sxs-lookup"><span data-stu-id="a72e8-374">San Marino</span></span>     |   <span data-ttu-id="a72e8-375">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-375">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-376">斯洛伐克</span><span class="sxs-lookup"><span data-stu-id="a72e8-376">Slovakia</span></span>       |   <span data-ttu-id="a72e8-377">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-377">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-378">斯洛文尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-378">Slovenia</span></span>       |   <span data-ttu-id="a72e8-379">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-379">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-380">西班牙</span><span class="sxs-lookup"><span data-stu-id="a72e8-380">Spain</span></span>          |   <span data-ttu-id="a72e8-381">EUR</span><span class="sxs-lookup"><span data-stu-id="a72e8-381">EUR</span></span>    |
+|  <span data-ttu-id="a72e8-382">斯瓦尔巴和扬马延</span><span class="sxs-lookup"><span data-stu-id="a72e8-382">Svalbard and Jan Mayen</span></span>|<span data-ttu-id="a72e8-383">NOK</span><span class="sxs-lookup"><span data-stu-id="a72e8-383">NOK</span></span>|
+|  <span data-ttu-id="a72e8-384">瑞典</span><span class="sxs-lookup"><span data-stu-id="a72e8-384">Sweden</span></span>         |   <span data-ttu-id="a72e8-385">SEK</span><span class="sxs-lookup"><span data-stu-id="a72e8-385">SEK</span></span>    |
+|  <span data-ttu-id="a72e8-386">瑞士</span><span class="sxs-lookup"><span data-stu-id="a72e8-386">Switzerland</span></span>    |   <span data-ttu-id="a72e8-387">CHF</span><span class="sxs-lookup"><span data-stu-id="a72e8-387">CHF</span></span>    |
+|  <span data-ttu-id="a72e8-388">英国</span><span class="sxs-lookup"><span data-stu-id="a72e8-388">UK</span></span>             |   <span data-ttu-id="a72e8-389">GBP</span><span class="sxs-lookup"><span data-stu-id="a72e8-389">GBP</span></span>    |
+|  <span data-ttu-id="a72e8-390">梵蒂冈</span><span class="sxs-lookup"><span data-stu-id="a72e8-390">Vatican City</span></span>   |          |
+|
 
-<span data-ttu-id="22ae0-158">如果要合并租户，我们推荐以下操作：</span><span class="sxs-lookup"><span data-stu-id="22ae0-158">If you want to consolidate tenants, we recommend the following:</span></span>
+## <a name="india-region-and-market"></a><span data-ttu-id="a72e8-391">印度地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-391">India region and market</span></span>
 
--   <span data-ttu-id="22ae0-159">**多个地区/国家，但只在一处交易**。</span><span class="sxs-lookup"><span data-stu-id="22ae0-159">**Multiple regions/countries but only one transacting**.</span></span> <span data-ttu-id="22ae0-160">如果仅在一个国家/地区进行交易，但设置了许多其他租户，请将交易租户用作该地区的新集中式租户，并取消其他租户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-160">If you are only transacting in one country/region, but have a number of other tenants set up, use the transacting tenant as your new centralized tenant for that region and cancel your other tenants.</span></span>
+<span data-ttu-id="a72e8-392">如果贵公司的位置在印度，你可以在印度向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-392">If your company's location is India, you can sell CSP offers to customers in India.</span></span>
 
--   **<span data-ttu-id="22ae0-161">多个国家/地区，但只在一处交易。</span><span class="sxs-lookup"><span data-stu-id="22ae0-161">Multiple countries/regions but only one Transacting.</span></span>** <span data-ttu-id="22ae0-162">如果在许多国家/地区进行交易，我们建议集中到席位数最多的租户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-162">If you are transacting in a number of countries/regions, we recommend that you centralize to the tenant with the largest number of seats.</span></span> <span data-ttu-id="22ae0-163">应取消席位数较少的国家/地区中的订阅。</span><span class="sxs-lookup"><span data-stu-id="22ae0-163">You should cancel the subscriptions in the countries/regions where you have smaller amounts of seats.</span></span>
+|  <span data-ttu-id="a72e8-393">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-393">Country/Region</span></span> | <span data-ttu-id="a72e8-394">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-394">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-395">印度</span><span class="sxs-lookup"><span data-stu-id="a72e8-395">India</span></span>          |   <span data-ttu-id="a72e8-396">INR</span><span class="sxs-lookup"><span data-stu-id="a72e8-396">INR</span></span>    |
+|
 
+## <a name="japan-region-and-market"></a><span data-ttu-id="a72e8-397">日本地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-397">Japan region and market</span></span>
 
-## <a name="countryregion-information"></a><span data-ttu-id="22ae0-164">国家/地区信息</span><span class="sxs-lookup"><span data-stu-id="22ae0-164">Country/region information</span></span>
+<span data-ttu-id="a72e8-398">如果贵公司的位置在日本，你可以在日本向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-398">If your company's location is Japan, you can sell CSP offers to customers in Japan.</span></span>
 
+|  <span data-ttu-id="a72e8-399">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-399">Country/Region</span></span> | <span data-ttu-id="a72e8-400">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-400">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-401">日本</span><span class="sxs-lookup"><span data-stu-id="a72e8-401">Japan</span></span>          |   <span data-ttu-id="a72e8-402">JPY</span><span class="sxs-lookup"><span data-stu-id="a72e8-402">JPY</span></span>    |
+|
 
-<span data-ttu-id="22ae0-165">请先考虑以下内容，再开始合并租户：</span><span class="sxs-lookup"><span data-stu-id="22ae0-165">Consider the following before beginning consolidating tenants:</span></span>
+## <a name="korea-republic-of-region-and-market"></a><span data-ttu-id="a72e8-403">韩国地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-403">Korea, Republic of region and market</span></span>
 
--   <span data-ttu-id="22ae0-166">**如果 Microsoft 销售位置在美国**，“区域”将包括位于美国的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-166">**If your Microsoft sell-to location is the United States**, your Territory includes customers located in the United States.</span></span>
+<span data-ttu-id="a72e8-404">如果贵公司的位置在韩国，你可以向韩国的客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-404">If your company's location is Korea, Republic of, you can sell CSP offers to customers in Korea, Republic of.</span></span>
 
--   <span data-ttu-id="22ae0-167">**如果 Microsoft 销售位置在加拿大**，“区域”将包括位于加拿大的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-167">**If your Microsoft sell-to location is Canada**, your Territory includes customers located in Canada.</span></span>
+|  <span data-ttu-id="a72e8-405">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-405">Country/Region</span></span>    | <span data-ttu-id="a72e8-406">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-406">Currency</span></span> |
+|  --------------    |:--------:|
+|  <span data-ttu-id="a72e8-407">韩国</span><span class="sxs-lookup"><span data-stu-id="a72e8-407">Korea, Republic of</span></span>|   <span data-ttu-id="a72e8-408">KRW</span><span class="sxs-lookup"><span data-stu-id="a72e8-408">KRW</span></span>    |
+|
 
--   <span data-ttu-id="22ae0-168">**如果 Microsoft 销售位置在巴西**，“区域”将包括位于巴西的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-168">**If your Microsoft sell-to location is Brazil**, your Territory includes customers located in Brazil.</span></span>
+## <a name="latin-america-and-the-caribbean-region-and-market"></a><span data-ttu-id="a72e8-409">拉丁美洲和加勒比海地区市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-409">Latin America and the Caribbean region and market</span></span>
 
--   <span data-ttu-id="22ae0-169">**如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：安圭拉、安提瓜和巴布达、南极洲、阿根廷、阿鲁巴、巴哈马、巴巴多斯、伯利兹、百慕大、玻利维亚、博内尔、英属维尔京群岛、开曼群岛、智利、哥伦比亚、哥斯达黎加、库拉索、多米尼加、多米尼加共和国、厄瓜多尔、萨尔瓦多、福克兰群岛、法属圭亚那、格林纳达、瓜德罗普、危地马拉、圭亚那、海地、洪都拉斯、牙买加、马提尼克、墨西哥、蒙特塞拉特、尼加拉瓜、巴拿马、巴拉圭、秘鲁、波多黎各、萨巴岛、圣巴泰勒米、圣基茨和尼维斯、圣卢西亚、法属圣马丁、圣文森特和格林纳丁斯、圣尤斯特歇斯、荷属圣马丁、南乔治亚和南德桑威奇群岛、苏里南、特立尼达和多巴哥、特克斯和凯科斯群岛、乌拉圭、委内瑞拉、美属维尔京群岛。</span><span class="sxs-lookup"><span data-stu-id="22ae0-169">**If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Anguilla, Antigua and Barbuda, Antarctica, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, British Virgin Islands, Cayman Islands, Chile, Colombia, Costa Rica, Curacao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands, French Guiana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saba, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Sint Eustatius, Sint Maarten, South Georgia and South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands.</span></span> 
+<span data-ttu-id="a72e8-410">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-410">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
--   <span data-ttu-id="22ae0-170">**如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：奥兰岛、安道尔、奥地利、比利时、布韦岛、保加利亚、克罗地亚、塞浦路斯、捷克共和国、丹麦、爱沙尼亚、法罗群岛、芬兰、法国、德国、希腊、直布罗陀、格陵兰、根西岛、匈牙利、冰岛、爱尔兰、曼岛、意大利、泽西、扬马延、拉脱维亚、列支敦士登、立陶宛、卢森堡、马耳他、摩纳哥、荷兰、挪威、波兰、葡萄牙、罗马尼亚、圣马力诺、斯洛伐克、斯洛文尼亚、西班牙、斯瓦尔巴、瑞典、瑞士、英国、梵蒂冈。</span><span class="sxs-lookup"><span data-stu-id="22ae0-170">**If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Åland Islands, Andorra, Austria, Belgium, Bouvet Island, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Greece, Gibraltar, Greenland, Guernsey, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Jan Mayen, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Svalbard, Sweden, Switzerland, United Kingdom, Vatican City.</span></span> 
+|  <span data-ttu-id="a72e8-411">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-411">Country/Region</span></span> | <span data-ttu-id="a72e8-412">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-412">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-413">安圭拉岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-413">Anguilla</span></span>       |   <span data-ttu-id="a72e8-414">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-414">USD</span></span>    |
+|  <span data-ttu-id="a72e8-415">南极洲</span><span class="sxs-lookup"><span data-stu-id="a72e8-415">Antarctica</span></span>     |   <span data-ttu-id="a72e8-416">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-416">USD</span></span>    |
+|  <span data-ttu-id="a72e8-417">安提瓜和巴布达</span><span class="sxs-lookup"><span data-stu-id="a72e8-417">Antigua and Barbuda</span></span>| <span data-ttu-id="a72e8-418">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-418">USD</span></span>  |
+|  <span data-ttu-id="a72e8-419">阿根廷</span><span class="sxs-lookup"><span data-stu-id="a72e8-419">Argentina</span></span>      |   <span data-ttu-id="a72e8-420">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-420">USD</span></span>    |
+|  <span data-ttu-id="a72e8-421">阿鲁巴岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-421">Aruba</span></span>          |   <span data-ttu-id="a72e8-422">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-422">USD</span></span>    |
+|  <span data-ttu-id="a72e8-423">巴哈马</span><span class="sxs-lookup"><span data-stu-id="a72e8-423">Bahamas</span></span>        |   <span data-ttu-id="a72e8-424">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-424">USD</span></span>    |
+|  <span data-ttu-id="a72e8-425">巴巴多斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-425">Barbados</span></span>       |   <span data-ttu-id="a72e8-426">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-426">USD</span></span>    |
+|  <span data-ttu-id="a72e8-427">伯利兹</span><span class="sxs-lookup"><span data-stu-id="a72e8-427">Belize</span></span>         |   <span data-ttu-id="a72e8-428">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-428">USD</span></span>    |
+|  <span data-ttu-id="a72e8-429">百慕大</span><span class="sxs-lookup"><span data-stu-id="a72e8-429">Bermuda</span></span>        |   <span data-ttu-id="a72e8-430">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-430">USD</span></span>    |
+|  <span data-ttu-id="a72e8-431">玻利维亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-431">Bolivia</span></span>        |   <span data-ttu-id="a72e8-432">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-432">USD</span></span>    |
+|  <span data-ttu-id="a72e8-433">博内尔岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-433">Bonaire</span></span>        |   <span data-ttu-id="a72e8-434">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-434">USD</span></span>    |
+|  <span data-ttu-id="a72e8-435">英属维尔京群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-435">British Virgin Islands</span></span>|<span data-ttu-id="a72e8-436">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-436">USD</span></span>|
+|  <span data-ttu-id="a72e8-437">开曼群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-437">Cayman Islands</span></span> |   <span data-ttu-id="a72e8-438">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-438">USD</span></span>    |
+|  <span data-ttu-id="a72e8-439">智利</span><span class="sxs-lookup"><span data-stu-id="a72e8-439">Chile</span></span>          |   <span data-ttu-id="a72e8-440">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-440">USD</span></span>    |
+|  <span data-ttu-id="a72e8-441">哥伦比亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-441">Colombia</span></span>       |   <span data-ttu-id="a72e8-442">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-442">USD</span></span>    |
+|  <span data-ttu-id="a72e8-443">哥斯达黎加</span><span class="sxs-lookup"><span data-stu-id="a72e8-443">Costa Rica</span></span>     |   <span data-ttu-id="a72e8-444">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-444">USD</span></span>    |
+|  <span data-ttu-id="a72e8-445">库拉索岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-445">Curaçao</span></span>        |   <span data-ttu-id="a72e8-446">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-446">USD</span></span>    |
+|  <span data-ttu-id="a72e8-447">多米尼克</span><span class="sxs-lookup"><span data-stu-id="a72e8-447">Dominica</span></span>       |  <span data-ttu-id="a72e8-448">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-448">USD</span></span>     |
+|  <span data-ttu-id="a72e8-449">多米尼加共和国</span><span class="sxs-lookup"><span data-stu-id="a72e8-449">Dominican Republic</span></span>| <span data-ttu-id="a72e8-450">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-450">USD</span></span>   |
+|  <span data-ttu-id="a72e8-451">厄瓜多尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-451">Ecuador</span></span>        |   <span data-ttu-id="a72e8-452">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-452">USD</span></span>    |
+|  <span data-ttu-id="a72e8-453">萨尔瓦多</span><span class="sxs-lookup"><span data-stu-id="a72e8-453">El Salvador</span></span>    |   <span data-ttu-id="a72e8-454">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-454">USD</span></span>    |
+|  <span data-ttu-id="a72e8-455">福克兰群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-455">Falkland Islands</span></span>|  <span data-ttu-id="a72e8-456">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-456">USD</span></span>    |
+|  <span data-ttu-id="a72e8-457">法属圭亚那</span><span class="sxs-lookup"><span data-stu-id="a72e8-457">French Guiana</span></span>  |   <span data-ttu-id="a72e8-458">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-458">USD</span></span>    |
+|  <span data-ttu-id="a72e8-459">格林纳达</span><span class="sxs-lookup"><span data-stu-id="a72e8-459">Grenada</span></span>        |   <span data-ttu-id="a72e8-460">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-460">USD</span></span>    |
+|  <span data-ttu-id="a72e8-461">瓜德罗普岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-461">Guadeloupe</span></span>     |          |
+|  <span data-ttu-id="a72e8-462">危地马拉</span><span class="sxs-lookup"><span data-stu-id="a72e8-462">Guatemala</span></span>      |   <span data-ttu-id="a72e8-463">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-463">USD</span></span>    |
+|  <span data-ttu-id="a72e8-464">圭亚那</span><span class="sxs-lookup"><span data-stu-id="a72e8-464">Guyana</span></span>         |   <span data-ttu-id="a72e8-465">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-465">USD</span></span>    |
+|  <span data-ttu-id="a72e8-466">海地</span><span class="sxs-lookup"><span data-stu-id="a72e8-466">Haiti</span></span>          |   <span data-ttu-id="a72e8-467">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-467">USD</span></span>    |
+|  <span data-ttu-id="a72e8-468">洪都拉斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-468">Honduras</span></span>       |   <span data-ttu-id="a72e8-469">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-469">USD</span></span>    |
+|  <span data-ttu-id="a72e8-470">牙买加</span><span class="sxs-lookup"><span data-stu-id="a72e8-470">Jamaica</span></span>        |   <span data-ttu-id="a72e8-471">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-471">USD</span></span>    |
+|  <span data-ttu-id="a72e8-472">马提尼克</span><span class="sxs-lookup"><span data-stu-id="a72e8-472">Martinique</span></span>     |          |
+|  <span data-ttu-id="a72e8-473">墨西哥</span><span class="sxs-lookup"><span data-stu-id="a72e8-473">Mexico</span></span>         |   <span data-ttu-id="a72e8-474">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-474">USD</span></span>    |
+|  <span data-ttu-id="a72e8-475">蒙特塞拉特</span><span class="sxs-lookup"><span data-stu-id="a72e8-475">Montserrat</span></span>     |   <span data-ttu-id="a72e8-476">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-476">USD</span></span>    |
+|  <span data-ttu-id="a72e8-477">尼加拉瓜</span><span class="sxs-lookup"><span data-stu-id="a72e8-477">Nicaragua</span></span>      |   <span data-ttu-id="a72e8-478">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-478">USD</span></span>    |
+|  <span data-ttu-id="a72e8-479">巴拿马</span><span class="sxs-lookup"><span data-stu-id="a72e8-479">Panama</span></span>         |   <span data-ttu-id="a72e8-480">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-480">USD</span></span>    |
+|  <span data-ttu-id="a72e8-481">巴拉圭</span><span class="sxs-lookup"><span data-stu-id="a72e8-481">Paraguay</span></span>       |   <span data-ttu-id="a72e8-482">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-482">USD</span></span>    |
+|  <span data-ttu-id="a72e8-483">秘鲁</span><span class="sxs-lookup"><span data-stu-id="a72e8-483">Peru</span></span>           |   <span data-ttu-id="a72e8-484">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-484">USD</span></span>    |
+|  <span data-ttu-id="a72e8-485">波多黎各</span><span class="sxs-lookup"><span data-stu-id="a72e8-485">Puerto Rico</span></span>    |   <span data-ttu-id="a72e8-486">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-486">USD</span></span>    |
+|  <span data-ttu-id="a72e8-487">萨巴岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-487">Saba</span></span>           |   <span data-ttu-id="a72e8-488">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-488">USD</span></span>    |
+|  <span data-ttu-id="a72e8-489">圣巴泰勒米</span><span class="sxs-lookup"><span data-stu-id="a72e8-489">Saint Barthélemy</span></span>|  <span data-ttu-id="a72e8-490">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-490">USD</span></span>    |
+|  <span data-ttu-id="a72e8-491">圣基茨和尼维斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-491">Saint Kitts and Nevis</span></span>|    |
+|  <span data-ttu-id="a72e8-492">圣卢西亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-492">Saint Lucia</span></span>    |   <span data-ttu-id="a72e8-493">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-493">USD</span></span>    |
+|  <span data-ttu-id="a72e8-494">法属圣马丁</span><span class="sxs-lookup"><span data-stu-id="a72e8-494">Saint Martin</span></span>   |   <span data-ttu-id="a72e8-495">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-495">USD</span></span>    |
+|  <span data-ttu-id="a72e8-496">圣文森特和格林纳丁斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-496">Saint Vincent and the Grenadines</span></span>| <span data-ttu-id="a72e8-497">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-497">USD</span></span> |
+|  <span data-ttu-id="a72e8-498">圣尤斯特歇斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-498">Sint Eustatius</span></span> |   <span data-ttu-id="a72e8-499">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-499">USD</span></span>    |
+|  <span data-ttu-id="a72e8-500">荷属圣马丁</span><span class="sxs-lookup"><span data-stu-id="a72e8-500">Sint Maarten</span></span>   |   <span data-ttu-id="a72e8-501">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-501">USD</span></span>    |
+|  <span data-ttu-id="a72e8-502">南乔治亚岛和南桑威奇群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-502">South Georgia and South Sandwich Islands</span></span>| <span data-ttu-id="a72e8-503">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-503">USD</span></span>|
+|  <span data-ttu-id="a72e8-504">苏里南</span><span class="sxs-lookup"><span data-stu-id="a72e8-504">Suriname</span></span>       |   <span data-ttu-id="a72e8-505">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-505">USD</span></span>    |
+|  <span data-ttu-id="a72e8-506">特立尼达和多巴哥</span><span class="sxs-lookup"><span data-stu-id="a72e8-506">Trinidad and Tobago</span></span>|<span data-ttu-id="a72e8-507">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-507">USD</span></span>   |
+|  <span data-ttu-id="a72e8-508">特克斯和凯科斯群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-508">Turks and Caicos Islands</span></span>| <span data-ttu-id="a72e8-509">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-509">USD</span></span>|
+|  <span data-ttu-id="a72e8-510">乌拉圭</span><span class="sxs-lookup"><span data-stu-id="a72e8-510">Uruguay</span></span>        |   <span data-ttu-id="a72e8-511">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-511">USD</span></span>    |
+|  <span data-ttu-id="a72e8-512">委内瑞拉</span><span class="sxs-lookup"><span data-stu-id="a72e8-512">Venezuela</span></span>      |   <span data-ttu-id="a72e8-513">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-513">USD</span></span>    |
+|  <span data-ttu-id="a72e8-514">美属维尔京群岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-514">Virgin Islands, U.S.</span></span>| <span data-ttu-id="a72e8-515">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-515">USD</span></span> |
+|
 
-    > [!NOTE]  
->  <span data-ttu-id="22ae0-171">如果你注册[德国 Microsoft 云的云解决方案提供商](partner-center-for-microsoft-cloud-germany.md)并且向欧盟和欧洲自由贸易联盟国家/地区内的客户销售，你不能将德国 Microsoft 云合作伙伴中心的租户与其他租户合并。</span><span class="sxs-lookup"><span data-stu-id="22ae0-171">If you are enrolled in [CSP for Microsoft Cloud Germany](partner-center-for-microsoft-cloud-germany.md) and you sell to customers in the EU and EFTA countries/regions, you cannot consolidate your tenant for Partner Center for Microsoft Cloud Germany with your other tenants.</span></span>  
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a><span data-ttu-id="a72e8-516">中东、 欧和美国东部欧洲地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-516">Middle East, Central Europe, and Eastern Europe region and market</span></span>
 
+<span data-ttu-id="a72e8-517">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-517">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
--   <span data-ttu-id="22ae0-172">**如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：阿富汗、阿尔巴尼亚、阿尔及利亚、亚美尼亚、阿塞拜疆、巴林、白俄罗斯、贝宁、波斯尼亚和黑塞哥维那、布基纳法索、布隆迪、中非共和国、乍得、科摩罗、刚果（金）、刚果、吉布提、埃及、赤道几内亚、厄立特里亚、法属玻里尼西亚、加蓬、冈比亚、格鲁吉亚、几内亚、几内亚比绍、伊拉克、以色列、约旦、哈萨克斯坦、科威特、吉尔吉斯斯坦、黎巴嫩、利比里亚、利比亚、马达加斯加、马拉维、马里、马约特、摩尔多瓦、蒙古、黑山、摩洛哥、新喀里多尼亚、尼日尔、阿曼、巴基斯坦、巴勒斯坦民族权力机构、卡塔尔、前南斯拉夫马其顿共和国、留尼汪、沙特阿拉伯、塞尔维亚、塞舌尔、塞拉利昂、索马里、南非、塔吉克斯坦、多哥、突尼斯、土耳其、土库曼斯坦、乌克兰、阿拉伯联合酋长国、乌兹别克斯坦、也门、津巴布韦。</span><span class="sxs-lookup"><span data-stu-id="22ae0-172">**If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bahrain, Belarus, Benin, Bosnia and Herzegovina, Burkina Faso, Burundi, Central African Republic, Chad, Comoros, Congo (DRC), Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, French Polynesia, Gabon, Gambia, Georgia, Guinea, Guinea-Bissau, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Liberia, Libya, Madagascar, Malawi, Mali, Mayotte, Moldova, Mongolia, Montenegro, Morocco, New Caledonia, Niger, Oman, Pakistan, Palestinian Authority, Qatar, Republic of Macedonia (FYROM), Réunion, Saudi Arabia, Serbia, Seychelles, Sierra Leone, Somalia, South Africa, Tajikistan, Togo, Tunisia, Turkey, Turkmenistan, Ukraine, United Arab Emirates, Uzbekistan, Yemen, Zimbabwe.</span></span> 
+|  <span data-ttu-id="a72e8-518">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-518">Country/Region</span></span> | <span data-ttu-id="a72e8-519">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-519">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-520">阿富汗</span><span class="sxs-lookup"><span data-stu-id="a72e8-520">Afghanistan</span></span>    |          |
+|  <span data-ttu-id="a72e8-521">阿尔巴尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-521">Albania</span></span>        |   <span data-ttu-id="a72e8-522">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-522">USD</span></span>    |
+|  <span data-ttu-id="a72e8-523">阿尔及利亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-523">Algeria</span></span>        |          |
+|  <span data-ttu-id="a72e8-524">亚美尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-524">Armenia</span></span>        |   <span data-ttu-id="a72e8-525">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-525">USD</span></span>    |
+|  <span data-ttu-id="a72e8-526">埃塞拜疆</span><span class="sxs-lookup"><span data-stu-id="a72e8-526">Azerbaijan</span></span>     |   <span data-ttu-id="a72e8-527">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-527">USD</span></span>    |
+|  <span data-ttu-id="a72e8-528">巴林</span><span class="sxs-lookup"><span data-stu-id="a72e8-528">Bahrain</span></span>        |   <span data-ttu-id="a72e8-529">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-529">USD</span></span>    |
+|  <span data-ttu-id="a72e8-530">白俄罗斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-530">Belarus</span></span>        |   <span data-ttu-id="a72e8-531">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-531">USD</span></span>    |
+|  <span data-ttu-id="a72e8-532">波斯尼亚和黑塞哥维那</span><span class="sxs-lookup"><span data-stu-id="a72e8-532">Bosnia and Herzegovina</span></span>|    |
+|  <span data-ttu-id="a72e8-533">英属印度洋领地</span><span class="sxs-lookup"><span data-stu-id="a72e8-533">British Indian Ocean Territory</span></span>|   <span data-ttu-id="a72e8-534">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-534">USD</span></span>   |
+|  <span data-ttu-id="a72e8-535">埃及</span><span class="sxs-lookup"><span data-stu-id="a72e8-535">Egypt</span></span>          |   <span data-ttu-id="a72e8-536">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-536">USD</span></span>    |
+|  <span data-ttu-id="a72e8-537">格鲁吉亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-537">Georgia</span></span>        |   <span data-ttu-id="a72e8-538">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-538">USD</span></span>    |
+|  <span data-ttu-id="a72e8-539">伊拉克</span><span class="sxs-lookup"><span data-stu-id="a72e8-539">Iraq</span></span>           |   <span data-ttu-id="a72e8-540">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-540">USD</span></span>    |
+|  <span data-ttu-id="a72e8-541">以色列</span><span class="sxs-lookup"><span data-stu-id="a72e8-541">Israel</span></span>         |   <span data-ttu-id="a72e8-542">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-542">USD</span></span>    |
+|  <span data-ttu-id="a72e8-543">约旦</span><span class="sxs-lookup"><span data-stu-id="a72e8-543">Jordan</span></span>         |          |
+|  <span data-ttu-id="a72e8-544">哈萨克斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-544">Kazakhstan</span></span>     |   <span data-ttu-id="a72e8-545">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-545">USD</span></span>    |
+|  <span data-ttu-id="a72e8-546">科索沃</span><span class="sxs-lookup"><span data-stu-id="a72e8-546">Kosovo</span></span>         |   <span data-ttu-id="a72e8-547">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-547">USD</span></span>    |
+|  <span data-ttu-id="a72e8-548">科威特</span><span class="sxs-lookup"><span data-stu-id="a72e8-548">Kuwait</span></span>         |   <span data-ttu-id="a72e8-549">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-549">USD</span></span>    |
+|  <span data-ttu-id="a72e8-550">吉尔吉斯斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-550">Kyrgyzstan</span></span>     |   <span data-ttu-id="a72e8-551">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-551">USD</span></span>    |
+|  <span data-ttu-id="a72e8-552">黎巴嫩</span><span class="sxs-lookup"><span data-stu-id="a72e8-552">Lebanon</span></span>        |   <span data-ttu-id="a72e8-553">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-553">USD</span></span>    |
+|  <span data-ttu-id="a72e8-554">莱索托</span><span class="sxs-lookup"><span data-stu-id="a72e8-554">Lesotho</span></span>        |   <span data-ttu-id="a72e8-555">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-555">USD</span></span>    |
+|  <span data-ttu-id="a72e8-556">利比亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-556">Libya</span></span>          |          |
+|  <span data-ttu-id="a72e8-557">马其顿共和国</span><span class="sxs-lookup"><span data-stu-id="a72e8-557">Macedonia, Republic of</span></span>|   |
+|  <span data-ttu-id="a72e8-558">毛利塔尼亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-558">Mauritania</span></span>     |   <span data-ttu-id="a72e8-559">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-559">USD</span></span>    |
+|  <span data-ttu-id="a72e8-560">摩尔多瓦</span><span class="sxs-lookup"><span data-stu-id="a72e8-560">Moldova</span></span>        |          |
+|  <span data-ttu-id="a72e8-561">蒙古</span><span class="sxs-lookup"><span data-stu-id="a72e8-561">Mongolia</span></span>       |          |
+|  <span data-ttu-id="a72e8-562">黑山</span><span class="sxs-lookup"><span data-stu-id="a72e8-562">Montenegro</span></span>     |          |
+|  <span data-ttu-id="a72e8-563">摩洛哥</span><span class="sxs-lookup"><span data-stu-id="a72e8-563">Morocco</span></span>        |   <span data-ttu-id="a72e8-564">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-564">USD</span></span>    |
+|  <span data-ttu-id="a72e8-565">莫桑比克</span><span class="sxs-lookup"><span data-stu-id="a72e8-565">Mozambique</span></span>     |          |
+|  <span data-ttu-id="a72e8-566">阿曼</span><span class="sxs-lookup"><span data-stu-id="a72e8-566">Oman</span></span>           |   <span data-ttu-id="a72e8-567">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-567">USD</span></span>    |
+|  <span data-ttu-id="a72e8-568">巴基斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-568">Pakistan</span></span>       |   <span data-ttu-id="a72e8-569">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-569">USD</span></span>    |
+|  <span data-ttu-id="a72e8-570">巴勒斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-570">Palestinian Territory, Occupied</span></span> |        |
+|  <span data-ttu-id="a72e8-571">卡塔尔</span><span class="sxs-lookup"><span data-stu-id="a72e8-571">Qatar</span></span>          |   <span data-ttu-id="a72e8-572">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-572">USD</span></span>    |
+|  <span data-ttu-id="a72e8-573">沙特阿拉伯</span><span class="sxs-lookup"><span data-stu-id="a72e8-573">Saudi Arabia</span></span>   |   <span data-ttu-id="a72e8-574">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-574">USD</span></span>    |
+|  <span data-ttu-id="a72e8-575">塞尔维亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-575">Serbia</span></span>         |   <span data-ttu-id="a72e8-576">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-576">USD</span></span>    |
+|  <span data-ttu-id="a72e8-577">南非</span><span class="sxs-lookup"><span data-stu-id="a72e8-577">South Africa</span></span>   |   <span data-ttu-id="a72e8-578">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-578">USD</span></span>    |
+|  <span data-ttu-id="a72e8-579">斯威士兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-579">Swaziland</span></span>      |   <span data-ttu-id="a72e8-580">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-580">USD</span></span>    |
+|  <span data-ttu-id="a72e8-581">塔吉克斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-581">Tajikistan</span></span>     |          |
+|  <span data-ttu-id="a72e8-582">突尼斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-582">Tunisia</span></span>        |   <span data-ttu-id="a72e8-583">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-583">USD</span></span>    |
+|  <span data-ttu-id="a72e8-584">土耳其</span><span class="sxs-lookup"><span data-stu-id="a72e8-584">Turkey</span></span>         |   <span data-ttu-id="a72e8-585">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-585">USD</span></span>    |
+|  <span data-ttu-id="a72e8-586">土库曼斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-586">Turkmenistan</span></span>   |          |
+|  <span data-ttu-id="a72e8-587">乌克兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-587">Ukraine</span></span>        |   <span data-ttu-id="a72e8-588">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-588">USD</span></span>    |
+|  <span data-ttu-id="a72e8-589">阿拉伯联合酋长国</span><span class="sxs-lookup"><span data-stu-id="a72e8-589">United Arab Emirates</span></span>| <span data-ttu-id="a72e8-590">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-590">USD</span></span> |
+|  <span data-ttu-id="a72e8-591">乌兹别克斯坦</span><span class="sxs-lookup"><span data-stu-id="a72e8-591">Uzbekistan</span></span>     |          |
+|  <span data-ttu-id="a72e8-592">也门</span><span class="sxs-lookup"><span data-stu-id="a72e8-592">Yemen</span></span>          |   <span data-ttu-id="a72e8-593">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-593">USD</span></span>    |
+|  <span data-ttu-id="a72e8-594">津巴布韦</span><span class="sxs-lookup"><span data-stu-id="a72e8-594">Zimbabwe</span></span>       |          |
+|
 
--   <span data-ttu-id="22ae0-173">**如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：安哥拉、博茨瓦纳、英属印度洋领地、佛得角、喀麦隆、科特迪瓦、埃塞俄比亚、加纳、肯尼亚、科索沃、莱索托、毛利塔尼亚、毛里求斯、莫桑比克、纳米比亚、尼日利亚、卢旺达、塞内加尔、斯威士兰、坦桑尼亚、乌干达、也门、赞比亚。</span><span class="sxs-lookup"><span data-stu-id="22ae0-173">**If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Angola, Botswana, British Indian Ocean Territory, Cabo Verde, Cameroon, Côte d'Ivoire, Ethiopia, Ghana, Kenya, Kosovo, Lesotho, Mauritania, Mauritius, Mozambique, Namibia, Nigeria, Rwanda, Senegal, Swaziland, Tanzania, Uganda, Yemen, Zambia.</span></span> 
+## <a name="new-zealand-region-and-market"></a><span data-ttu-id="a72e8-595">新西兰区域和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-595">New Zealand region and market</span></span>
 
--   <span data-ttu-id="22ae0-174">**如果 Microsoft 销售位置在俄罗斯**，“区域”将包括位于俄罗斯的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-174">**If your Microsoft sell-to location is Russia**, your Territory includes customers located in Russia.</span></span>
+<span data-ttu-id="a72e8-596">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-596">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
--   <span data-ttu-id="22ae0-175">**如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：美属萨摩亚、孟加拉国、不丹、文莱达鲁萨兰国、柬埔寨、香港特别行政区、印度尼西亚、老挝、澳门特别行政区、马来西亚、马尔代夫、缅甸、尼泊尔、菲律宾、圣皮埃尔和密克隆岛、萨摩亚、新加坡、斯里兰卡、泰国、东帝汶、瓦努阿图、越南。</span><span class="sxs-lookup"><span data-stu-id="22ae0-175">**If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: American Samoa, Bangladesh, Bhutan, Brunei, Darussalam, Cambodia, Hong Kong SAR, Indonesia, Laos, Macao SAR, Malaysia, Maldives, Myanmar, Nepal, Philippines, Saint Pierre and Miquelon, Samoa, Singapore, Sri Lanka, Thailand, Timor-Leste, Vanuatu, Vietnam.</span></span> 
+|  <span data-ttu-id="a72e8-597">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-597">Country/Region</span></span> | <span data-ttu-id="a72e8-598">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-598">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-599">美属萨摩亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-599">American Samoa</span></span> |   <span data-ttu-id="a72e8-600">NZD</span><span class="sxs-lookup"><span data-stu-id="a72e8-600">NZD</span></span>    |
+|  <span data-ttu-id="a72e8-601">新西兰</span><span class="sxs-lookup"><span data-stu-id="a72e8-601">New Zealand</span></span>    |   <span data-ttu-id="a72e8-602">NZD</span><span class="sxs-lookup"><span data-stu-id="a72e8-602">NZD</span></span>    |
+|  <span data-ttu-id="a72e8-603">萨摩亚</span><span class="sxs-lookup"><span data-stu-id="a72e8-603">Samoa</span></span>          |   <span data-ttu-id="a72e8-604">NZD</span><span class="sxs-lookup"><span data-stu-id="a72e8-604">NZD</span></span>    |
+|  <span data-ttu-id="a72e8-605">瓦努阿图</span><span class="sxs-lookup"><span data-stu-id="a72e8-605">Vanuatu</span></span>        |   <span data-ttu-id="a72e8-606">NZD</span><span class="sxs-lookup"><span data-stu-id="a72e8-606">NZD</span></span>    |
+|
 
--   <span data-ttu-id="22ae0-176">**如果 Microsoft 销售位置在以下列表中的国家/地区**，“区域”将包括位于以下列表中任何国家/地区的客户：澳大利亚、斐济、圣诞岛、科科斯（基林）群岛、库克群岛、关岛、赫德岛和麦克唐纳群岛、基里巴斯、马绍尔群岛、密克罗尼西亚、瑙鲁、纽埃、诺福克岛、北马里亚纳群岛、帕劳、巴布亚新几内亚、皮特凯恩群岛、所罗门群岛、托克劳、汤加、图瓦卢、瓦利斯和富图纳。</span><span class="sxs-lookup"><span data-stu-id="22ae0-176">**If your Microsoft sell-to location is a country/region on the following list**, your Territory includes customers located in any country/region in the following list: Australia, Fiji, Christmas Island, Cocos (Keeling) Islands, Cook Islands, Guam, Heard Island and McDonald Islands, Kiribati, Marshall Islands, Micronesia, Nauru, Niue, Norfolk Island, Northern Mariana Islands, Palau, Papa New Guinea, Pitcairn Islands, Solomon Islands, Tokelau, Tonga, Tuvalu, Wallis and Futuna.</span></span> 
+## <a name="russia-region-and-market"></a><span data-ttu-id="a72e8-607">俄罗斯地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-607">Russia region and market</span></span>
 
--   <span data-ttu-id="22ae0-177">**如果 Microsoft 销售位置在新西兰**，“区域”将包括位于新西兰的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-177">**If your Microsoft sell-to location is New Zealand**, your Territory includes customers located in New Zealand.</span></span>
+<span data-ttu-id="a72e8-608">如果贵公司的位置在俄罗斯，你可以在俄罗斯向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-608">If your company's location is Russia, you can sell CSP offers to customers in Russia.</span></span>
 
--   <span data-ttu-id="22ae0-178">**如果 Microsoft 销售位置在印度**，“区域”将包括位于印度的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-178">**If your Microsoft sell-to location is India**, your Territory includes customers located in India.</span></span>
+|  <span data-ttu-id="a72e8-609">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-609">Country/Region</span></span> | <span data-ttu-id="a72e8-610">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-610">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-611">俄罗斯</span><span class="sxs-lookup"><span data-stu-id="a72e8-611">Russia</span></span>         |    <span data-ttu-id="a72e8-612">RUB</span><span class="sxs-lookup"><span data-stu-id="a72e8-612">RUB</span></span>   |
+|
 
--   <span data-ttu-id="22ae0-179">**如果 Microsoft 销售位置在日本**，“区域”将包括位于日本的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-179">**If your Microsoft sell-to location is Japan**, your Territory includes customers located in Japan.</span></span>
+## <a name="taiwan-region-and-market"></a><span data-ttu-id="a72e8-613">中国台湾地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-613">Taiwan region and market</span></span>
 
--   <span data-ttu-id="22ae0-180">**如果 Microsoft 销售位置在韩国**，“区域”将包括位于韩国的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-180">**If your Microsoft sell-to location is Korea**, your Territory includes customers located in Korea.</span></span>
+<span data-ttu-id="a72e8-614">如果贵公司的位置在中国台湾，你可以向中国台湾的客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-614">If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.</span></span>
 
--   <span data-ttu-id="22ae0-181">**如果 Microsoft 销售位置在台湾**，“区域”将包括位于台湾的客户。</span><span class="sxs-lookup"><span data-stu-id="22ae0-181">**If your Microsoft sell-to location is Taiwan**, your Territory includes customers located in Taiwan.</span></span>
+|  <span data-ttu-id="a72e8-615">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-615">Country/Region</span></span> | <span data-ttu-id="a72e8-616">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-616">Currency</span></span> |
+|  -------------- |:--------:|
+|  <span data-ttu-id="a72e8-617">台湾</span><span class="sxs-lookup"><span data-stu-id="a72e8-617">Taiwan</span></span>         |   <span data-ttu-id="a72e8-618">TWD</span><span class="sxs-lookup"><span data-stu-id="a72e8-618">TWD</span></span>    |
+|
 
-## <a name="billing-currencies-by-country"></a><span data-ttu-id="22ae0-182">计费货币（按国家/地区）</span><span class="sxs-lookup"><span data-stu-id="22ae0-182">Billing currencies by country</span></span>
+## <a name="united-states-region-and-market"></a><span data-ttu-id="a72e8-619">美国地区和市场</span><span class="sxs-lookup"><span data-stu-id="a72e8-619">United States region and market</span></span>
 
-<span data-ttu-id="22ae0-183">你的地理位置确定计费所用的货币，如下表中所示。</span><span class="sxs-lookup"><span data-stu-id="22ae0-183">Your geographic location determines the currency in which you are billed, as shown in the following table.</span></span> <span data-ttu-id="22ae0-184">请注意，由于税务和法律问题，如果要使用其他计费货币，则你需要创建一个新租户并指定该货币。</span><span class="sxs-lookup"><span data-stu-id="22ae0-184">Note that due to tax and legal implications, if you want to use a different billing currency, you'll need to create a new tenant and specify that currency.</span></span> 
+<span data-ttu-id="a72e8-620">如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。</span><span class="sxs-lookup"><span data-stu-id="a72e8-620">If your company's location is in the list below, you can sell CSP offers to customers in all locations in the list.</span></span>
 
-| <span data-ttu-id="22ae0-185">货币</span><span class="sxs-lookup"><span data-stu-id="22ae0-185">Currency</span></span> | <span data-ttu-id="22ae0-186">国家/地区</span><span class="sxs-lookup"><span data-stu-id="22ae0-186">Country</span></span> |
-| ---- | ---- |
-| <span data-ttu-id="22ae0-187">USD</span><span class="sxs-lookup"><span data-stu-id="22ae0-187">USD</span></span> | <span data-ttu-id="22ae0-188">阿尔巴尼亚和圣尤斯特歇斯、安圭拉、南极洲、安提瓜和巴布达、阿根廷、亚美尼亚、阿鲁巴、阿塞拜疆、巴哈马、巴林、孟加拉国、巴巴多斯、白俄罗斯、伯利兹、贝宁、百慕大、玻利维亚、博内尔、巴西、英属印度洋领地、文莱、布隆迪、喀麦隆、开曼群岛、中非共和国、智利、哥伦比亚、科摩罗、哥斯达黎加、库拉索、多米尼加共和国、厄瓜多尔、埃及、萨尔瓦多、赤道几内亚、厄立特里亚、法属圭亚那、法属玻里尼西亚、格鲁吉亚、加纳、危地马拉、几内亚比绍、洪都拉斯、香港特别行政区、印度尼西亚、伊拉克、以色列、牙买加、哈萨克斯坦、肯尼亚、科威特、吉尔吉斯斯坦、黎巴嫩、莱索托、澳门特别行政区、马达加斯加、马拉维、马来西亚、马里、毛利塔尼亚、毛里求斯、马约特、墨西哥、摩洛哥、纳米比亚、新喀里多尼亚、尼加拉瓜、尼日利亚、阿曼、巴基斯坦、巴拿马、巴拉圭、秘鲁、菲律宾、波多黎各、卡塔尔、留尼汪、萨巴岛、圣卢西亚、法属圣马丁、圣文森特和格林纳丁斯、沙特阿拉伯、塞尔维亚、塞舌尔、塞拉利昂、新加坡、荷属圣马丁、索马里、南非、南苏丹、斯里兰卡、苏里南、斯威士兰、坦桑尼亚、泰国、东帝汶、多哥、特立尼达和多巴哥、突尼斯、土耳其、特克斯和凯科斯群岛、美属维尔京群岛、乌克兰、阿拉伯联合酋长国、美国、乌拉圭、委内瑞拉、越南、也门</span><span class="sxs-lookup"><span data-stu-id="22ae0-188">Albania and Sint Eustatius, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belize, Benin, Bermuda, Bolivia, Bonaire, Brazil, British Indian Ocean Territory, Brunei, Burundi, Cameroon, Cayman Islands, Central African Republic, Chile, Colombia, Comoros, Costa Rica, Curaçao, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, French Guiana, French Polynesia, Georgia, Ghana, Guatemala, Guinea-Bissau, Honduras, Hong Kong SAR, Indonesia, Iraq, Israel, Jamaica, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lebanon, Lesotho, Macao SAR, Madagascar, Malawi, Malaysia, Mali, Mauritania, Mauritius, Mayotte, Mexico, Morocco, Namibia, New Caledonia, Nicaragua, Nigeria, Oman, Pakistan, Panama, Paraguay, Peru, Philippines, Puerto Rico, Qatar, Reunion, Rwanda, Saba, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Saudi Arabia, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Somalia, South Africa, South Sudan, Sri Lanka, Suriname, Swaziland, Tanzania, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Tunisia, Turkey, Turks and Caicos Islands, U.S. Virgin Islands, Ukraine, United Arab Emirates, United States, Uruguay, Venezuela, Vietnam, Yemen.</span></span>| 
-| <span data-ttu-id="22ae0-189">TWD</span><span class="sxs-lookup"><span data-stu-id="22ae0-189">TWD</span></span> | <span data-ttu-id="22ae0-190">台湾</span><span class="sxs-lookup"><span data-stu-id="22ae0-190">Taiwan</span></span> |
-| <span data-ttu-id="22ae0-191">SEK</span><span class="sxs-lookup"><span data-stu-id="22ae0-191">SEK</span></span> | <span data-ttu-id="22ae0-192">瑞典</span><span class="sxs-lookup"><span data-stu-id="22ae0-192">Sweden</span></span> |
-| <span data-ttu-id="22ae0-193">INR</span><span class="sxs-lookup"><span data-stu-id="22ae0-193">INR</span></span> | <span data-ttu-id="22ae0-194">印度</span><span class="sxs-lookup"><span data-stu-id="22ae0-194">India</span></span> |
-| <span data-ttu-id="22ae0-195">RUB</span><span class="sxs-lookup"><span data-stu-id="22ae0-195">RUB</span></span> | <span data-ttu-id="22ae0-196">俄罗斯</span><span class="sxs-lookup"><span data-stu-id="22ae0-196">Russia</span></span> |
-| <span data-ttu-id="22ae0-197">NZD</span><span class="sxs-lookup"><span data-stu-id="22ae0-197">NZD</span></span> | <span data-ttu-id="22ae0-198">新西兰、瓦努阿图</span><span class="sxs-lookup"><span data-stu-id="22ae0-198">New Zealand, Vanuatu</span></span> |
-| <span data-ttu-id="22ae0-199">NOK</span><span class="sxs-lookup"><span data-stu-id="22ae0-199">NOK</span></span> | <span data-ttu-id="22ae0-200">扬马延、挪威、斯瓦尔巴</span><span class="sxs-lookup"><span data-stu-id="22ae0-200">Jan Mayen, Norway, Svalbard</span></span> |
-| <span data-ttu-id="22ae0-201">KRW</span><span class="sxs-lookup"><span data-stu-id="22ae0-201">KRW</span></span> | <span data-ttu-id="22ae0-202">韩国</span><span class="sxs-lookup"><span data-stu-id="22ae0-202">Korea</span></span> |
-| <span data-ttu-id="22ae0-203">JPY</span><span class="sxs-lookup"><span data-stu-id="22ae0-203">JPY</span></span> | <span data-ttu-id="22ae0-204">日本</span><span class="sxs-lookup"><span data-stu-id="22ae0-204">Japan</span></span> |
-| <span data-ttu-id="22ae0-205">GBP</span><span class="sxs-lookup"><span data-stu-id="22ae0-205">GBP</span></span> | <span data-ttu-id="22ae0-206">曼岛、泽西、英国</span><span class="sxs-lookup"><span data-stu-id="22ae0-206">Isle of Man, Jersey, United Kingdom</span></span> |
-| <span data-ttu-id="22ae0-207">EUR</span><span class="sxs-lookup"><span data-stu-id="22ae0-207">EUR</span></span> | <span data-ttu-id="22ae0-208">安道尔、奥地利、比利时、布韦岛、克罗地亚、捷克共和国、爱沙尼亚、法罗群岛、芬兰、法国、德国、希腊、匈牙利、冰岛、爱尔兰、意大利、拉脱维亚、列支敦士登、立陶宛、卢森堡/比利时、荷兰、波兰、葡萄牙、罗马尼亚、圣马力诺、斯洛伐克、斯洛文尼亚、西班牙</span><span class="sxs-lookup"><span data-stu-id="22ae0-208">Andorra, Austria, Belgium, Bouvet Island, Croatia, Czech Republic, Estonia, Faroe Islands, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg/Belgium, Netherlands, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain</span></span> |
-| <span data-ttu-id="22ae0-209">DKK</span><span class="sxs-lookup"><span data-stu-id="22ae0-209">DKK</span></span> | <span data-ttu-id="22ae0-210">丹麦</span><span class="sxs-lookup"><span data-stu-id="22ae0-210">Denmark</span></span> |
-| <span data-ttu-id="22ae0-211">CHF</span><span class="sxs-lookup"><span data-stu-id="22ae0-211">CHF</span></span> | <span data-ttu-id="22ae0-212">瑞士</span><span class="sxs-lookup"><span data-stu-id="22ae0-212">Switzerland</span></span> |
-| <span data-ttu-id="22ae0-213">CAD</span><span class="sxs-lookup"><span data-stu-id="22ae0-213">CAD</span></span> | <span data-ttu-id="22ae0-214">加拿大</span><span class="sxs-lookup"><span data-stu-id="22ae0-214">Canada</span></span> |
-| <span data-ttu-id="22ae0-215">AUD</span><span class="sxs-lookup"><span data-stu-id="22ae0-215">AUD</span></span> | <span data-ttu-id="22ae0-216">澳大利亚、圣诞岛、科科斯（基林）群岛、库克群岛、斐济、赫德岛和麦克唐纳群岛、基里巴斯、马绍尔群岛、瑙鲁、纽埃、诺福克岛、北马里亚纳群岛、帕劳、巴布亚新几内亚、皮特凯恩群岛、所罗门群岛、托克劳、汤加、图瓦卢、瓦利斯和富图纳。</span><span class="sxs-lookup"><span data-stu-id="22ae0-216">Australia, Christmas Island, Cocos (Keeling) Islands, Cook Islands, Fiji, Heard Island and McDonald Islands, Kiribati, Marshall Islands, Nauru, Niue, Norfolk Island, Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn Islands, Solomon Islands, Tokelau, Tonga, Tuvalu, Wallis and Futuna.</span></span> |
-
-
- 
-
-
-
+|  <span data-ttu-id="a72e8-621">国家/地区</span><span class="sxs-lookup"><span data-stu-id="a72e8-621">Country/Region</span></span>       | <span data-ttu-id="a72e8-622">货币</span><span class="sxs-lookup"><span data-stu-id="a72e8-622">Currency</span></span> |
+|  -------------        |:--------:|
+|  <span data-ttu-id="a72e8-623">美国</span><span class="sxs-lookup"><span data-stu-id="a72e8-623">United States</span></span>        |   <span data-ttu-id="a72e8-624">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-624">USD</span></span>    |
+|  <span data-ttu-id="a72e8-625">美属外岛</span><span class="sxs-lookup"><span data-stu-id="a72e8-625">U.S. Outlying Islands</span></span>|   <span data-ttu-id="a72e8-626">USD</span><span class="sxs-lookup"><span data-stu-id="a72e8-626">USD</span></span>    |
+|
