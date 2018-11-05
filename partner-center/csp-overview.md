@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e8f55bc76d8bda8494b83794184f928d680f68f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ddeaecdca6fe918d6b3d581befa295c66b80a705
+ms.sourcegitcommit: 0c7018284e589f3ab9cf97c741b07f1947f30e65
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795210"
+ms.lasthandoff: 11/05/2018
+ms.locfileid: "6066689"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
@@ -43,8 +43,8 @@ ms.locfileid: "5795210"
 
 - 演示你提供至少一个托管的服务、 IP 服务或客户解决方案应用程序。 了解有关添加托管的服务的详细信息
 
-- 达到的最小的基础结构功能，如计费和预配。
-我们会监视年度性能以确认满足这些要求的直接计费合作伙伴演示稳定业务增长。 有任何特定于性能目标位置目前为止，但 Microsoft 可以实现栏将来的性能。 
+- 达到的最小的基础结构的功能，如计费和预配。
+我们在监视按年的性能，以确认直接计费合作伙伴满足这些要求演示稳定业务增长。 有没有特定的性能目标就地目前为止，但 Microsoft 可以实现栏将来的性能。 
 
 - 拥有适用于销售所在地的有效 Microsoft 合作伙伴网络 (MPN) ID
 
@@ -60,7 +60,9 @@ ms.locfileid: "5795210"
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>我可以通过云解决方案提供商计划在哪里进行销售？
 
-云解决方案提供商计划可在 [Microsoft 云解决方案提供商市场和客户协议页面](agreements.md)中列出的地区和国家中实施。  
+贵公司的位置决定了你的市场。 你的市场包括地区和/或国家/地区，你可以在其中销售云解决方案提供商产品/服务。 有关云解决方案提供商市场和货币的完整列表，请参阅[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
+
+你可以代表客户的云解决方案提供商产品/服务订单之前，客户必须登录 Microsoft 云协议。 你可以为你的客户的位置中找到适用的 Microsoft 云协议[此处](agreements.md)。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>我可以通过云解决方案提供商计划销售哪些产品或服务？
 
@@ -73,7 +75,6 @@ ms.locfileid: "5795210"
 |:---------------------------|:--------------------|
 |每种云解决方案提供商模式的要求   | [云解决方案提供商计划](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |在 Microsoft 国家云中销售   | [申请在 Microsoft 国家云中销售](csp-national-clouds-overview.md)|
-|可以在哪里销售以及可以销售什么   |[Microsoft 云解决方案提供商市场和客户协议](agreements.md)|
-|  | [云解决方案提供商中的租户策略](regional-authorization-overview.md)
+|Microsoft 云协议客户模板   |[Microsoft 云协议按地区和语言](agreements.md)|
 |在合作伙伴中心上的间接提供商任务  |[与云解决方案提供商计划中的间接经销商合作](indirect-provider-tasks-in-partner-center.md)|
 |在合作伙伴中心上的间接经销商任务   |[与云解决方案提供商计划中的间接提供商合作](indirect-reseller-tasks-in-partner-center.md)|
