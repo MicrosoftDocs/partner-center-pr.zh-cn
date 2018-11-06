@@ -6,12 +6,12 @@ description: 查找并下载特定于区域和语言版本的 Microsoft 云协�
 author: Maggie Evans
 keywords: Microsoft 云协议, 客户协议模板, 云解决方案提供商客户协议, MCA, 云解决方案提供商, 通过云解决方案提供商可以在哪里进行销售？, 云解决方案提供商国家和地区, 多种语言的云解决方案提供商 MCA, 云解决方案提供商北美洲, 云解决方案提供商中美洲, 云解决方案提供商南美洲, 云解决方案提供商加勒比地区, 云解决方案提供商 Microsoft Cloud for US Government, 云解决方案提供商 Microsoft Cloud Germany, 云解决方案提供商中东地区, 云解决方案提供商非洲, 云解决方案提供商欧洲, 云解决方案提供商亚洲, 云解决方案提供商太平洋地区, 云解决方案提供商 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: d43afff6f759ccdbdfddc94e354b990009d2f044
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: c06ae362a37646fd27fb72b5a6f9eb545dd56055
+ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022252"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "6075278"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>Microsoft 云协议按地区和语言
 
@@ -26,7 +26,7 @@ ms.locfileid: "6022252"
 
 Microsoft 云协议都是特定于区域的和提供多个语言版本。 中一个下面的列表中找到客户的位置和首选的语言，若要下载的正确协议。
 
-如果你不确定哪些地区和中，你可以销售的市场，请参阅[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
+如果你不确定哪些地区和市场中，你可以销售此列表中找到你的公司位置：[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -37,6 +37,7 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 中一
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北美洲、中美洲、南美洲和加勒比地区
 
 - 美属萨摩亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
+
 - 安圭拉：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - 南极洲：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 - 安提瓜和巴布达：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
@@ -118,6 +119,15 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 中一
 - 法国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[法语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_FRE_Sep20172_CR.pdf)
 - 格鲁吉亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 德国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[德语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
+    
+    在德国，刑事代码 (部分 203) 和行为准则的专业代码需要某些客户的关系是以保密，例如，患者和其医疗医生之间的关系和之间的关系律师和客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业购买基于云的服务从云解决方案提供商，云服务提供商必须结束与客户，可确保专业保密的书面的协议。
+
+    如果你在开展业务德国，你可能需要提供给那里的客户除了 Microsoft 云协议此专业保密修正。
+
+    - [(EN) 德国 Microsoft 云协议专业保密修正](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+
+     - [(DE) 德国 Microsoft 云协议专业保密修正](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+
 - 直布罗陀：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 希腊：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[希腊语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
 - 格陵兰：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
@@ -160,11 +170,16 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 中一
 - 英国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 梵蒂冈：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 
-## <a name="microsoft-cloud-germany"></a>德国 Microsoft 云
-- 所有欧盟/欧洲自由贸易联盟：[英语](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0)、[德语](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
+<!--
+November 5, 2018 - commenting out this section because we've stopped accepting new enrollments into the MS Cloud Germany - MaggieE
+
+## Microsoft Cloud Germany
+- All EU/EFTA: [English](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0), [German](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
+-->
 
 ## <a name="middle-east-and-africa"></a>中东和非洲
 - 阿尔及利亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[法语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
+
 - 安哥拉：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[葡萄牙语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)     
 - 巴林：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - 贝宁：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
@@ -226,7 +241,9 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 中一
 - 津巴布韦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 
 ## <a name="asia-and-pacific"></a>亚洲和太平洋地区
+
 - 澳大利亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
+
 - 孟加拉国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
 - 文莱：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
 - 不丹：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
