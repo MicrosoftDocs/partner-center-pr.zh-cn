@@ -9,6 +9,11 @@
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "version": 0
     },
@@ -18,10 +23,17 @@
       "build_output_subfolder": "partner-china-dynamic",
       "locale": "zh-cn",
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "op"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": [
+    "evansma@microsoft.com"
+  ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "continue_with_document_error": true,
@@ -30,10 +42,25 @@
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
+      "path_to_root": "_themes.MSDN.PartnerCenter",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter.zh-cn",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://cpubwin.visualstudio.com/DefaultCollection/partner/_git/partner",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
     }
   ],
   "branch_target_mapping": {},
