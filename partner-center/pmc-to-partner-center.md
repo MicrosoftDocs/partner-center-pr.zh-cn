@@ -1,63 +1,76 @@
 ---
-title: 将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
+title: 转换你的网络成员身份从 Partner Membership Center 到合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
-description: PMC 用户 - 我们现在正在通过合作伙伴中心管理 MPN 成员身份。 请执行下列操作。
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: 如何转换 Partner Membership Center 从你的成员身份的帐户与合作伙伴中心。
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: mpn 成员身份, 能力, pmc 到合作伙伴中心
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794950"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011397"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a>将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>转换你合作伙伴成员身份的帐户从 Partner Membership Center 与合作伙伴中心
 
-**适用于**
--  合作伙伴中心
+**适用范围**
 
-Partner Membership Center 用户：我们现在正在通过合作伙伴中心管理 Microsoft 合作伙伴网络 (MPN) 新成员身份和续订。  
+- 合作伙伴中心
+- MPN 合作伙伴
 
-如果你已通过 Partner Membership Center 订阅了 MPN，那么你将能够在 PMC 中查看你的当前权益，直到本年度的成员身份结束为止，即使你已经续订也不例外。 
+## <a name="partner-membership-center-being-retired"></a>Partner Membership Center 被停用
 
-如果重新注册 MPN，则新成员身份将立即生效，但是你的 MPN 成员身份的结束日期将在当前 MPN 成员身份到期后延长一年。 这将为你提供一段重叠时段，在此期间你可以访问这两个系统。
+在接下来的几个月，我们将邀请合作伙伴将其合作伙伴成员身份帐户从 Partner Membership Center (PMC) 移到新的平台，在合作伙伴中心。 合作伙伴中心是单个目标来管理与 Microsoft 的业务关系。 有关详细信息的[合作伙伴网站](https://partner.microsoft.com/commercial)上看到[成员身份管理准备](https://partner.microsoft.com/support/partner-center-help)。
 
-立即开始设置你的用户，以便他们可以继续访问合作伙伴大学，并且让你的组织可以收到技术考试和认证的成绩，以帮助[获得 Microsoft 能力成就](competencies.md)。 
+已成功转换你的成员身份帐户后，你将管理你的帐户详细信息，包括 （如果适用） 权益、 能力、 奖励、 产品/服务，以及在合作伙伴中心中的程序。 你还将能够获取和管理来自 Microsoft 的销售线索并在合作伙伴中心中的云解决方案提供商计划中注册。
 
-## <a name="admin-tasks-add-employee-accounts"></a>管理员任务：添加员工帐户
+## <a name="prepare-now-for-a-smooth-transition"></a>现在准备平滑过渡
 
-组织的管理员可以将员工添加到合作伙伴中心帐户中，方法是单独添加他们，或者使用 PMC 数据同时创建多个用户：
+合作伙伴将被邀请时我们具有所需的功能和功能准备好确保顺利过渡到合作伙伴中心移动。 我们强烈建议你先花些时间现在来查看你的公司信息在 PMC 中并按照我们推荐的步骤，以帮助确保帐户平滑过渡。
 
-1.  从合作伙伴中心中，选择**添加新用户**添加个人或**设置你的团队**（或者使用 PMC 数据添加用户） 若要同时添加多个用户。
-    
-    按照屏幕上的说明完成设置。
+### <a name="pmc-to-partner-center-step-by-step-guide"></a>PMC 到合作伙伴中心的分步指南
 
-2.  如果你要创建个人帐户，请直接向用户发送登录信息（用户名和临时密码）。
+我们已准备好全面并详细介绍[PMC 到合作伙伴中心过渡指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)引导你完成成功帐户转换途中的每个步骤。
 
-    如果你要根据 PMC 中的数据设置多个帐户，我们将自动向每位用户发送一封包含其登录信息的电子邮件。 你还可以下载一个包含此相同信息的文件，并且可以在其中一位员工再次需要此信息时使用该文件。
+>[!IMPORTANT]
+>有将花费时间才能完成本指南中包含的几个关键先决条件。 我们鼓励你进行查看和开始菜单尽快完成任务的工作。
 
-    临时密码有效期为 90 天。 如果用户未登录，请删除该帐户并重新添加。
+### <a name="video-resources"></a>视频资源
 
-3.  可选：设置单个帐户以[启用密码自助服务](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)，包括选择用户应该回答的安全问题的类型。 
+除了[PMC 到合作伙伴中心过渡指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)中，我们创建了观看以下短片了解有关转换你的帐户的不同阶段。 
 
-## <a href="" id="nonadmin_tasks"></a>员工任务：更新帐户
+- [发现你的合作伙伴中心仪表板](https://partner.microsoft.com/support/partner-center-help)
+ 
+  了解有关的资源和合作伙伴中心，以充分利用的合作关系中可用的工具。
 
-1.  获取你的登录信息，可以从 Microsoft 合作伙伴中心或你的管理员。如果你未收到登录信息，请联系你的组织的管理员，让他们直接向你重新发送。 
+- [多位置帐户变得更容易](https://partner.microsoft.com/support/partner-center-help)
+ 
+  如果你跨多个地区管理机构，下面介绍了如何设置多位置帐户和控制从一个易于使用站点的所有内容。
 
-2.  连接你的 Microsoft 合作伙伴大学帐户。 从合作伙伴中心中，选择**更新你的配置文件** > **获取合作伙伴大学访问权限**。  连接此帐户后，你将能够再次访问合作伙伴大学。
+- [使你培训和考试计数](https://partner.microsoft.com/support/partner-center-help)
 
-3.  关联 Microsoft 技术考试和认证。 从合作伙伴中心中，选择**更新你的配置文件** > **关联考试和认证**。 
+  将员工的学习凭据连接到你的业务配置文件以确保继续的访问合作伙伴大学并有资格获得能力。
 
-4.  可选：[设置密码重置自助服务](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。
+## <a name="see-also"></a>另请参阅
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a>检查团队状态并接收能力成就
+你已成功转换你的帐户 PMC 中后，请查看这些文章以获取更熟悉合作伙伴中心。
 
-1.  请参阅你的组织中哪些员工已连接了其 Microsoft 合作伙伴大学帐户并关联了其考试和认证： 从合作伙伴中心中，选择**检查团队状态**。
+-   [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
 
-2.  在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。 此后，进度会显示在**合作关系 > 能力**部分中。
+-   [添加新的帐户用户，并为其分配权限](create-user-accounts-and-set-permissions.md)
+
+-   [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
+
+-   [管理你的成员身份权益](manage-your-partner-network-benefits.md)
+
+-   [了解有关金牌和银牌成员身份的能力要求](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+

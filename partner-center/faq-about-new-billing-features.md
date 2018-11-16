@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5bdf937ee55a52c9a0e5c88f3e6006204c71ece8
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
+ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795590"
+ms.lasthandoff: 11/16/2018
+ms.locfileid: "7012600"
 ---
 # <a name="faq-about-new-billing-features"></a>有关新计费功能的常见问题解答
 
@@ -144,7 +144,7 @@ ms.locfileid: "5795590"
 
 **问：** 能否将订阅的计费频率从按月切换为按年或者从按年切换为按月？ 
 
--   **答：** 不能。 选择计费频率后，无法对其进行更改。 
+-   **答：** 可以。 **若要更改的联机服务的计费频率**的[计费基础知识](https://docs.microsoft.com/en-us/partner-center/billing-basics)，请参阅。
 
 **问：** 按年计费是否适用于附加产品/服务？   
 
