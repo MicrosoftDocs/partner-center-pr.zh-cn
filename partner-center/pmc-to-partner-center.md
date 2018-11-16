@@ -1,63 +1,76 @@
 ---
-title: 将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心
+title: 转换你的网络成员身份从 Partner Membership Center 到合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
-description: PMC 用户 - 我们现在正在通过合作伙伴中心管理 MPN 成员身份。 请执行下列操作。
-author: KPacquer
-ms.author: kenpacq
+ms.date: 11/14/2018
+description: 如何转换 Partner Membership Center 从你的成员身份的帐户与合作伙伴中心。
+author: maggiepuccievans
+ms.author: maggiepuccievans
 keywords: mpn 成员身份, 能力, pmc 到合作伙伴中心
-robots: noindex,nofollow
 fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
-ms.openlocfilehash: ba6b58a035445824d8a0a3266fbd240fc9c4aa6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
+ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794950"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "7011397"
 ---
-# <a name="transition-your-mpn-membership-from-partner-membership-center-to-partner-center"></a><span data-ttu-id="8ef86-105">将你的 MPN 成员身份从 Partner Membership Center 转移到合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="8ef86-105">Transition your MPN membership from Partner Membership Center to Partner Center</span></span>
+# <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a><span data-ttu-id="a56c1-104">转换你合作伙伴成员身份的帐户从 Partner Membership Center 与合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a56c1-104">Transition your partner membership account from Partner Membership Center to Partner Center</span></span>
 
-**<span data-ttu-id="8ef86-106">适用于</span><span class="sxs-lookup"><span data-stu-id="8ef86-106">Applies to</span></span>**
--  <span data-ttu-id="8ef86-107">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="8ef86-107">Partner Center</span></span>
+**<span data-ttu-id="a56c1-105">适用范围</span><span class="sxs-lookup"><span data-stu-id="a56c1-105">Applies to</span></span>**
 
-<span data-ttu-id="8ef86-108">Partner Membership Center 用户：我们现在正在通过合作伙伴中心管理 Microsoft 合作伙伴网络 (MPN) 新成员身份和续订。</span><span class="sxs-lookup"><span data-stu-id="8ef86-108">Partner Membership Center users: We're now managing Microsoft Partner Network (MPN) new memberships and renewals through Partner Center.</span></span>  
+- <span data-ttu-id="a56c1-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a56c1-106">Partner Center</span></span>
+- <span data-ttu-id="a56c1-107">MPN 合作伙伴</span><span class="sxs-lookup"><span data-stu-id="a56c1-107">MPN partners</span></span>
 
-<span data-ttu-id="8ef86-109">如果你已通过 Partner Membership Center 订阅了 MPN，那么你将能够在 PMC 中查看你的当前权益，直到本年度的成员身份结束为止，即使你已经续订也不例外。</span><span class="sxs-lookup"><span data-stu-id="8ef86-109">If you've subscribed to MPN through Partner Membership Center, you'll be able to review your current benefits in PMC until the current year’s membership ends, even if you’ve already renewed.</span></span> 
+## <a name="partner-membership-center-being-retired"></a><span data-ttu-id="a56c1-108">Partner Membership Center 被停用</span><span class="sxs-lookup"><span data-stu-id="a56c1-108">Partner Membership Center being retired</span></span>
 
-<span data-ttu-id="8ef86-110">如果重新注册 MPN，则新成员身份将立即生效，但是你的 MPN 成员身份的结束日期将在当前 MPN 成员身份到期后延长一年。</span><span class="sxs-lookup"><span data-stu-id="8ef86-110">When you re-enroll in MPN, your new membership will begin immediately, but your end date of your MPN membership will be pushed forward to be one year after your current MPN membership is due to expire.</span></span> <span data-ttu-id="8ef86-111">这将为你提供一段重叠时段，在此期间你可以访问这两个系统。</span><span class="sxs-lookup"><span data-stu-id="8ef86-111">This will give you a period of overlap where you can access both systems.</span></span>
+<span data-ttu-id="a56c1-109">在接下来的几个月，我们将邀请合作伙伴将其合作伙伴成员身份帐户从 Partner Membership Center (PMC) 移到新的平台，在合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="a56c1-109">During the next several months, we'll be inviting partners to move their partner membership accounts from the Partner Membership Center (PMC) to a new platform, the Partner Center.</span></span> <span data-ttu-id="a56c1-110">合作伙伴中心是单个目标来管理与 Microsoft 的业务关系。</span><span class="sxs-lookup"><span data-stu-id="a56c1-110">Partner Center is the single destination to manage your business relationship with Microsoft.</span></span> <span data-ttu-id="a56c1-111">有关详细信息的[合作伙伴网站](https://partner.microsoft.com/commercial)上看到[成员身份管理准备](https://partner.microsoft.com/support/partner-center-help)。</span><span class="sxs-lookup"><span data-stu-id="a56c1-111">See [Membership management readiness](https://partner.microsoft.com/support/partner-center-help) on the [Partner website](https://partner.microsoft.com/commercial) for more information.</span></span>
 
-<span data-ttu-id="8ef86-112">立即开始设置你的用户，以便他们可以继续访问合作伙伴大学，并且让你的组织可以收到技术考试和认证的成绩，以帮助[获得 Microsoft 能力成就](competencies.md)。</span><span class="sxs-lookup"><span data-stu-id="8ef86-112">Start setting up your users right away so that they can continue to access Partner University, and so that your organization can receive credit for technical exams and certifications to help [earn Microsoft Competency achievements](competencies.md).</span></span> 
+<span data-ttu-id="a56c1-112">已成功转换你的成员身份帐户后，你将管理你的帐户详细信息，包括 （如果适用） 权益、 能力、 奖励、 产品/服务，以及在合作伙伴中心中的程序。</span><span class="sxs-lookup"><span data-stu-id="a56c1-112">After your membership account is successfully transitioned, you'll manage your account details, including (where applicable) benefits, competencies, incentives, offers, and programs in Partner Center.</span></span> <span data-ttu-id="a56c1-113">你还将能够获取和管理来自 Microsoft 的销售线索并在合作伙伴中心中的云解决方案提供商计划中注册。</span><span class="sxs-lookup"><span data-stu-id="a56c1-113">You'll also be able to get and manage sales leads from Microsoft and enroll in the Cloud Solution Provider program in Partner Center.</span></span>
 
-## <a name="admin-tasks-add-employee-accounts"></a><span data-ttu-id="8ef86-113">管理员任务：添加员工帐户</span><span class="sxs-lookup"><span data-stu-id="8ef86-113">Admin tasks: add employee accounts</span></span>
+## <a name="prepare-now-for-a-smooth-transition"></a><span data-ttu-id="a56c1-114">现在准备平滑过渡</span><span class="sxs-lookup"><span data-stu-id="a56c1-114">Prepare now for a smooth transition</span></span>
 
-<span data-ttu-id="8ef86-114">组织的管理员可以将员工添加到合作伙伴中心帐户中，方法是单独添加他们，或者使用 PMC 数据同时创建多个用户：</span><span class="sxs-lookup"><span data-stu-id="8ef86-114">The organization's admin adds employees into the Partner Center account, either by adding them individually, or by using PMC data to create multiple users at once:</span></span>
+<span data-ttu-id="a56c1-115">合作伙伴将被邀请时我们具有所需的功能和功能准备好确保顺利过渡到合作伙伴中心移动。</span><span class="sxs-lookup"><span data-stu-id="a56c1-115">Partners will be invited to move to Partner Center when we have the necessary features and capabilities ready to ensure a smooth transition.</span></span> <span data-ttu-id="a56c1-116">我们强烈建议你先花些时间现在来查看你的公司信息在 PMC 中并按照我们推荐的步骤，以帮助确保帐户平滑过渡。</span><span class="sxs-lookup"><span data-stu-id="a56c1-116">We strongly encourage you to take the time now to review your company's information in PMC and follow our recommended steps to help ensure a smooth account transition.</span></span>
 
-1.  <span data-ttu-id="8ef86-115">从合作伙伴中心中，选择**添加新用户**添加个人或**设置你的团队**（或者使用 PMC 数据添加用户） 若要同时添加多个用户。</span><span class="sxs-lookup"><span data-stu-id="8ef86-115">From Partner Center, select **Add new user** to add an individual, or **Set up your team** (or Add users using PMC data) to add multiple users at once.</span></span>
-    
-    <span data-ttu-id="8ef86-116">按照屏幕上的说明完成设置。</span><span class="sxs-lookup"><span data-stu-id="8ef86-116">Follow the on-screen instructions to complete setup.</span></span>
+### <a name="pmc-to-partner-center-step-by-step-guide"></a><span data-ttu-id="a56c1-117">PMC 到合作伙伴中心的分步指南</span><span class="sxs-lookup"><span data-stu-id="a56c1-117">PMC to Partner Center step-by-step guide</span></span>
 
-2.  <span data-ttu-id="8ef86-117">如果你要创建个人帐户，请直接向用户发送登录信息（用户名和临时密码）。</span><span class="sxs-lookup"><span data-stu-id="8ef86-117">If you're creating an individual account, send the sign-on info (username and temporary password) directly to the user.</span></span>
+<span data-ttu-id="a56c1-118">我们已准备好全面并详细介绍[PMC 到合作伙伴中心过渡指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)引导你完成成功帐户转换途中的每个步骤。</span><span class="sxs-lookup"><span data-stu-id="a56c1-118">We've prepared the comprehensive and detailed [PMC to Partner Center transition guide](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf) to walk you through every step of the way to a successful account transition.</span></span>
 
-    <span data-ttu-id="8ef86-118">如果你要根据 PMC 中的数据设置多个帐户，我们将自动向每位用户发送一封包含其登录信息的电子邮件。</span><span class="sxs-lookup"><span data-stu-id="8ef86-118">If you're setting up multiple accounts based on data from PMC, we'll automatically send each user an email that includes their sign-on info.</span></span> <span data-ttu-id="8ef86-119">你还可以下载一个包含此相同信息的文件，并且可以在其中一位员工再次需要此信息时使用该文件。</span><span class="sxs-lookup"><span data-stu-id="8ef86-119">You'll also be able to download a file that contains this same information, which you can use in case one of your employees needs this information again.</span></span>
+>[!IMPORTANT]
+><span data-ttu-id="a56c1-119">有将花费时间才能完成本指南中包含的几个关键先决条件。</span><span class="sxs-lookup"><span data-stu-id="a56c1-119">There are several key prerequisites included in this guide that will take time to complete.</span></span> <span data-ttu-id="a56c1-120">我们鼓励你进行查看和开始菜单尽快完成任务的工作。</span><span class="sxs-lookup"><span data-stu-id="a56c1-120">We encourage you to review them and start the work to complete them as soon as possible.</span></span>
 
-    <span data-ttu-id="8ef86-120">临时密码有效期为 90 天。</span><span class="sxs-lookup"><span data-stu-id="8ef86-120">The temporary password is good for 90 days.</span></span> <span data-ttu-id="8ef86-121">如果用户未登录，请删除该帐户并重新添加。</span><span class="sxs-lookup"><span data-stu-id="8ef86-121">If the user doesn't log in, remove the account and add them in again.</span></span>
+### <a name="video-resources"></a><span data-ttu-id="a56c1-121">视频资源</span><span class="sxs-lookup"><span data-stu-id="a56c1-121">Video resources</span></span>
 
-3.  <span data-ttu-id="8ef86-122">可选：设置单个帐户以[启用密码自助服务](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)，包括选择用户应该回答的安全问题的类型。</span><span class="sxs-lookup"><span data-stu-id="8ef86-122">Optional: Set up the individual accounts to [enable password self-service](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started), including choosing what types of security questions the users should answer.</span></span> 
+<span data-ttu-id="a56c1-122">除了[PMC 到合作伙伴中心过渡指南](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf)中，我们创建了观看以下短片了解有关转换你的帐户的不同阶段。</span><span class="sxs-lookup"><span data-stu-id="a56c1-122">In addition to the [PMC to Partner Center transition guide](https://assetsprod.microsoft.com/mpn/en-us/membership-account-set-up-guide.pdf), we've created these short videos about the different phases of transitioning your account.</span></span> 
 
-## <a href="" id="nonadmin_tasks"></a><span data-ttu-id="8ef86-123">员工任务：更新帐户</span><span class="sxs-lookup"><span data-stu-id="8ef86-123">Employees tasks: Update accounts</span></span>
+- [<span data-ttu-id="a56c1-123">发现你的合作伙伴中心仪表板</span><span class="sxs-lookup"><span data-stu-id="a56c1-123">Discover your Partner Center dashboard</span></span>](https://partner.microsoft.com/support/partner-center-help)
+ 
+  <span data-ttu-id="a56c1-124">了解有关的资源和合作伙伴中心，以充分利用的合作关系中可用的工具。</span><span class="sxs-lookup"><span data-stu-id="a56c1-124">Learn about the resources and tools available in Partner Center to make the most of your partnership.</span></span>
 
-1.  <span data-ttu-id="8ef86-124">获取你的登录信息，可以从 Microsoft 合作伙伴中心或你的管理员。如果你未收到登录信息，请联系你的组织的管理员，让他们直接向你重新发送。</span><span class="sxs-lookup"><span data-stu-id="8ef86-124">Get your sign-in info, either from Microsoft Partner Center or from your admin. If you don't receive the sign-in info, contact your organization's admin to ask them to resend it directly to you.</span></span> 
+- [<span data-ttu-id="a56c1-125">多位置帐户变得更容易</span><span class="sxs-lookup"><span data-stu-id="a56c1-125">Multi-location accounts made easy</span></span>](https://partner.microsoft.com/support/partner-center-help)
+ 
+  <span data-ttu-id="a56c1-126">如果你跨多个地区管理机构，下面介绍了如何设置多位置帐户和控制从一个易于使用站点的所有内容。</span><span class="sxs-lookup"><span data-stu-id="a56c1-126">If you manage offices across multiple geographies, here’s how to set up your multi-location account and control everything from one easy-to-use site.</span></span>
 
-2.  <span data-ttu-id="8ef86-125">连接你的 Microsoft 合作伙伴大学帐户。</span><span class="sxs-lookup"><span data-stu-id="8ef86-125">Connect your Microsoft Partner University account.</span></span> <span data-ttu-id="8ef86-126">从合作伙伴中心中，选择**更新你的配置文件** > **获取合作伙伴大学访问权限**。</span><span class="sxs-lookup"><span data-stu-id="8ef86-126">From Partner Center, select **Update your profile** > **Get Partner University access**.</span></span>  <span data-ttu-id="8ef86-127">连接此帐户后，你将能够再次访问合作伙伴大学。</span><span class="sxs-lookup"><span data-stu-id="8ef86-127">After you've connected this account, you'll be able to access Partner University again.</span></span>
+- [<span data-ttu-id="a56c1-127">使你培训和考试计数</span><span class="sxs-lookup"><span data-stu-id="a56c1-127">Make your training and exams count</span></span>](https://partner.microsoft.com/support/partner-center-help)
 
-3.  <span data-ttu-id="8ef86-128">关联 Microsoft 技术考试和认证。</span><span class="sxs-lookup"><span data-stu-id="8ef86-128">Associate Microsoft technical exams and certifications.</span></span> <span data-ttu-id="8ef86-129">从合作伙伴中心中，选择**更新你的配置文件** > **关联考试和认证**。</span><span class="sxs-lookup"><span data-stu-id="8ef86-129">From Partner Center, select **Update your profile** > **Associate exams and certifications**.</span></span> 
+  <span data-ttu-id="a56c1-128">将员工的学习凭据连接到你的业务配置文件以确保继续的访问合作伙伴大学并有资格获得能力。</span><span class="sxs-lookup"><span data-stu-id="a56c1-128">Connect your employees' learning credentials to your business profile to ensure continued access to Partner University and to qualify for competencies.</span></span>
 
-4.  <span data-ttu-id="8ef86-130">可选：[设置密码重置自助服务](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password)。</span><span class="sxs-lookup"><span data-stu-id="8ef86-130">Optional: [Set up password reset self-service](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-update-your-own-password).</span></span>
+## <a name="see-also"></a><span data-ttu-id="a56c1-129">另请参阅</span><span class="sxs-lookup"><span data-stu-id="a56c1-129">See also</span></span>
 
-## <a name="checking-team-status-and-receiving-competency-achievements"></a><span data-ttu-id="8ef86-131">检查团队状态并接收能力成就</span><span class="sxs-lookup"><span data-stu-id="8ef86-131">Checking team status and receiving competency achievements</span></span>
+<span data-ttu-id="a56c1-130">你已成功转换你的帐户 PMC 中后，请查看这些文章以获取更熟悉合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="a56c1-130">After you've successfully transitioned your account from PMC, review these articles to get more familiar with Partner Center.</span></span>
 
-1.  <span data-ttu-id="8ef86-132">请参阅你的组织中哪些员工已连接了其 Microsoft 合作伙伴大学帐户并关联了其考试和认证： 从合作伙伴中心中，选择**检查团队状态**。</span><span class="sxs-lookup"><span data-stu-id="8ef86-132">See which employees from your organization have connected their Microsoft Partner University accounts and associated their exams and certifications: From Partner Center, select **Check your team’s status**.</span></span>
+-   [<span data-ttu-id="a56c1-131">创建业务配置文件以从 Microsoft 获取销售线索</span><span class="sxs-lookup"><span data-stu-id="a56c1-131">Create a business profile to get sales leads from Microsoft</span></span>](create-a-marketing-profile.md)
 
-2.  <span data-ttu-id="8ef86-133">在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。</span><span class="sxs-lookup"><span data-stu-id="8ef86-133">**Wait 24 hours** after an employee has associated their account or completed a skill-based goal.</span></span> <span data-ttu-id="8ef86-134">此后，进度会显示在**合作关系 > 能力**部分中。</span><span class="sxs-lookup"><span data-stu-id="8ef86-134">After this time, the progress displays in the  **Partnership > Competencies** section.</span></span>
+-   [<span data-ttu-id="a56c1-132">添加新的帐户用户，并为其分配权限</span><span class="sxs-lookup"><span data-stu-id="a56c1-132">Add new account users and assign permissions to them</span></span>](create-user-accounts-and-set-permissions.md)
+
+-   [<span data-ttu-id="a56c1-133">购买或续订 Microsoft Action Pack 订阅</span><span class="sxs-lookup"><span data-stu-id="a56c1-133">Purchase or renew a subscription to Microsoft Action Pack</span></span>](mpn-get-action-pack.md)
+
+-   [<span data-ttu-id="a56c1-134">管理你的成员身份权益</span><span class="sxs-lookup"><span data-stu-id="a56c1-134">Manage your membership benefits</span></span>](manage-your-partner-network-benefits.md)
+
+-   [<span data-ttu-id="a56c1-135">了解有关金牌和银牌成员身份的能力要求</span><span class="sxs-lookup"><span data-stu-id="a56c1-135">Learn about competency requirements for Gold and Silver membership</span></span>](https://partner.microsoft.com/membership/competencies)
+
+
+
+
+
