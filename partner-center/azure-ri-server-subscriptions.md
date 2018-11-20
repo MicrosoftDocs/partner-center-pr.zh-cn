@@ -7,12 +7,12 @@ author: v-petand
 ms.author: v-petand
 keywords: Azure，预订，虚拟机，预订，预留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: cc33e605af7930484b196051565781f4d4c3f17e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 40df0686cc0a7227360d8f77f09a30d9d6520d45
+ms.sourcegitcommit: ecee11d731f3d47f2513839a4b2b98011eb95f55
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797030"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "7331029"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,25 +24,25 @@ ms.locfileid: "5797030"
  
 ## <a name="what-are-azure-reservations"></a>Azure 预订有哪些？
 
-Azure 预订可帮助你进行预先支付一年或三年的虚拟机、 SQL 数据库计算能力、 Azure Cosmos DB 吞吐量或其他 Azure 资源来节省资金。 预先支付允许你获取有关你使用的资源的折扣。 保留可大大减少你的虚拟机，SQL 数据库计算，Azure Cosmos DB，并且其他资源的成本相较于付价格达 72%。 预订提供计费折扣并不会影响你的资源的运行时状态。有关详细信息请参见[什么是 Azure 预订？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure 预订可帮助你进行预先支付一年或三年的虚拟机、 SQL 数据库计算能力、 Azure Cosmos DB 吞吐量或其他 Azure 资源来节省资金。 预先支付允许你获取你使用的资源的折扣。 保留可大大减少你的虚拟机，SQL 数据库计算，Azure Cosmos DB，并且其他资源的成本相较于付价格达 72%。 预订提供计费折扣并不会影响你的资源的运行时状态。有关详细信息请参见[什么是 Azure 预订？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>为什么应该客户购买预订？
 
-如果客户有虚拟机、 Azure Cosmos DB 或长时间运行的 SQL 数据库，购买预订将为用户提供的最经济的选项。 例如，如果客户持续运行的服务，无预订的四个实例，它们是以即付即用费率收费。 如果他们购买预订对这些资源，他们将立即获得了预订折扣。 资源不会再以即付即用费率计费。
+如果客户有虚拟机、 Azure Cosmos DB 或长时间运行的 SQL 数据库，购买预订将为用户提供的最经济的选项。 例如，如果客户持续运行的服务，无预订四个实例，它们是否中计入了付的速率。 如果他们购买预订对这些资源，他们将立即获得了预订折扣。 资源不会再以即付即用费率计费。
 
  
 ### <a name="compelling-new-azure-offer-in-csp"></a>云解决方案提供商计划中引人注目的新 Azure 产品/服务 
 
 通过将 Azure 预订和服务器订阅纳入其云解决方案提供商计划，Microsoft 更好地帮助其合作伙伴满足快速增长用户客户对成本效益更高的解决方案，以支持高度可预测的持久云工作负荷的需求。 云解决方案提供商计划，合作伙伴能够获取、 预配和管理通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户的 Azure 预订和服务器订阅。 Azure 预订为客户提供了各种各样的计算解决方案，包括开发和测试、 运行应用程序以及扩展数据中心的虚拟化的灵活性。 
 
-使用[Azure 虚拟机预留实例](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)，商业客户现在可以保存与即付即用 Azure 虚拟机定价只需购买或"保留"– 虚拟机 1 年或 3 年长达 72%。 通过 Azure 混合权益，包括通过软件保障的 Windows Server 客户将能够节省 80%与即付即用定价。 
+使用[Azure 虚拟机预留实例](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)，商业客户现在可以保存与即付即用 Azure 虚拟机定价只需购买或"保留"– 虚拟机 1 年或 3 年长达 72%。 通过 Azure 混合权益，附带的软件保障的 Windows Server 客户将能够节省 80%与即付即用定价。 
 
 无与伦比的吸引力的定价和无与伦比的部署灵活性，客户将发现最佳总体价值在选择 Azure 预订时： 
 
 - [Azure 虚拟机预留的实例](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [服务器订阅](https://www.microsoft.com/Licensing/news/windows-sql-server-through-csp) 
+- [服务器订阅](https://www.microsoft.com/en-us/Licensing/news/windows-sql-server-through-csp) 
 - [远程桌面服务 (RDS) Cal](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/) – 即将推出 ！
-- [SQL 数据库预订](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB 预订](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [SUSE Linux](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
 - [SQL 托管的实例](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
@@ -71,7 +71,7 @@ Azure 预订可帮助你进行预先支付一年或三年的虚拟机、 SQL 数
 - [Azure 预订和服务器订阅以及 Azure 混合权益概述 （更新）](http://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [销售工作表](http://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [合作伙伴常见问题解答 （更新） 的 Azure 预订](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Azure 预订和 SQL DB 合作伙伴常见问题解答](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure 预订和 SQL DB 合作伙伴常见问题](http://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [Azure 概述 （新增） 中的 SQL 数据库](http://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Azure 定价概述](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 定价计算器](https://azure.microsoft.com/pricing/calculator/)
@@ -88,7 +88,7 @@ Azure 预订可帮助你进行预先支付一年或三年的虚拟机、 SQL 数
 
 **操作**
 
-- [现代商务操作指南](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）： 综合指南其中涵盖关键策略和运营方面的内容，如协议、 通过合作伙伴中心订购、 发票、 价目表列表的详细信息、 奖励、 对帐文件、 API/SDK、 沙盒和 Azure 合作伙伴共享服务。
+- [现代商务操作指南](http://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）： 综合指南其中涵盖关键策略和运营方面的内容，如协议、 通过合作伙伴中心订购、 发票、 价目表列表详细信息、 奖励、 对帐文件、 API/SDK、 沙盒和 Azure 合作伙伴共享服务。
 - [现代产品/服务国家/地区可用性和客户货币矩阵](http://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [销售 Microsoft Azure 预留实例](https://go.microsoft.com/fwlink/?linkid=872806)
 - [代表客户购买 Microsoft Azure 预订](https://go.microsoft.com/fwlink/?linkid=872807)
@@ -142,7 +142,7 @@ Azure 预订可帮助你进行预先支付一年或三年的虚拟机、 SQL 数
 
 
 ## <a name="azure-hybrid-benefit"></a>Azure 混合权益
-[Azure 混合权益](https://azure.microsoft.com/pricing/hybrid-benefit)可帮助你从 Windows Server 许可证中获取更多的价值和保存最 * 的虚拟机上的 47%。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 视版本而定，你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（Linux 虚拟机费率）。
+[Azure 混合权益](https://azure.microsoft.com/pricing/hybrid-benefit)可帮助你从 Windows Server 许可证中获取更多的价值和保存最 * 的虚拟机上 47%。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 视版本而定，你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（Linux 虚拟机费率）。
 
 另请参阅 [Azure 混合权益常见问题解答](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
