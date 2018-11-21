@@ -6,18 +6,22 @@ description: 为了符合管理收集和使用个人数据的国家、地区和�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ae81568aeeb703470549d08b0e39b6ec07e0ba6e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 63c6def58f32dbac2d7b997ae9b165a9fe16cdd4
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797020"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460944"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
 **适用于**
 
 -  德国 Microsoft 云合作伙伴中心
+
+>[!IMPORTANT] 基于客户的需求的演化，德国我们云策略将重点关注交付的新云区域的德国与我们全局云一致提供。 具有此焦点，我们将不再接受新客户或部署从当前可用的 Microsoft 云德国的任何新的服务。 现有客户可以继续使用的当前云服务目前，我们将保持与必要的安全更新。
+
+>接下来，新客户已选择可用时使用的当前可用的欧洲地区或德国中的新区域。 有关详细信息，请参阅[Microsoft 提供从德国的新数据中心的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
 为了遵守管理收集和使用个人数据的德国法律法规以及重要的国际标准，在德国 Microsoft 云合作伙伴中心中尚未提供以下用户和许可证管理功能。 但是，可以在德国 Microsoft 云的 Azure 门户或 Office 365 管理中心添加和管理用户和许可证。
 
@@ -28,9 +32,6 @@ ms.locfileid: "5797020"
 重置用户密码 | 德国 Microsoft 云的 Azure 管理门户
 许可证管理 | Office 365 管理中心或德国 Microsoft 云的 Azure Active Directory 许可门户
 
-> [!NOTE]  
-> 在本文发表时，尚未提供有关在 Azure 管理门户或 Office 365 管理门户中管理客户用户许可证的文档。
-
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在德国 Microsoft 云的 Azure 门户中管理用户 
 
 如果你登录到德国 Microsoft 云的合作伙伴中心，可以打开德国 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果你需要直接登录到德国 Microsoft 云的 Azure 门户，请转到[https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
@@ -40,14 +41,16 @@ ms.locfileid: "5797020"
 > [!NOTE]  
 > 选择下面的链接将你带到不同的网站。 
 
--  [**将新用户添加到 Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [将新用户添加到 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**在 Azure Active Directory 中给某用户分配管理员角色**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [在 Azure Active Directory 中给某用户分配管理员角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**在 Azure Active Directory 中重置用户密码**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [在 Azure Active Directory 中重置用户密码](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **相关主题**
 
--  [**德国 Microsoft 云合作伙伴中心**](partner-center-for-microsoft-cloud-germany.md)
+-  [Microsoft Azure 德国](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [**注册德国 Microsoft 云的云解决方案提供商计划**](enroll-in-csp-for-microsoft-cloud-germany.md)
+-  [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
+
+

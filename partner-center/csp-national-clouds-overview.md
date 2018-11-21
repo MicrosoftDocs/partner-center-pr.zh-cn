@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 国家云, 德国 Microsoft 云, Microsoft Cloud for US Government, 世纪互联, 中国 Microsoft 云
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f56912c872e3eb02ceb13ee00ba9fe13998ef33
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf2d126fa7d9c5e62313309b8ff89c7abaa2887b
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795240"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460914"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>申请在 Microsoft 国家云中销售
 
@@ -36,7 +36,10 @@ Microsoft 可在国家云中提供以下服务：
 
 -   [**德国 Microsoft 云**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) 德国 Microsoft 云通过一种独特模式从德国数据中心提供 Azure、Office 365 和 Dynamics 365。 在此模式中，客户数据的访问权限由根据德国法律运营的独立德国数据受托人控制。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，并作为德国 Microsoft 云的独立数据受托人。 
 
-    有关如何注册以及在德国 Microsoft 云中向客户进行销售的信息，请参阅[德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)。 
+    >[!IMPORTANT] 基于客户的需求的演化，德国我们云策略将重点关注交付的新云区域的德国与我们全局云一致提供。 具有此焦点，我们将不再接受新客户或部署从当前可用的 Microsoft 云德国的任何新的服务。 现有客户可以继续使用的当前云服务目前，我们将保持与必要的安全更新。
+
+    >接下来，新客户已选择可用时使用的当前可用的欧洲地区或德国中的新区域。 有关详细信息，请参阅[Microsoft 提供从德国的新数据中心的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
+
     
 -   [**由中国世纪互联运营的 Azure 和 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft 通过与上海蓝云网络科技有限公司（世纪互联）的独特合作伙伴关系在中国提供云服务，该公司是北京世纪互联宽带数据中心有限公司的全资子公司。世纪互联是中国最大的运营商中立 Internet 数据中心、托管、托管网络和云计算基础结构服务提供商。 
 

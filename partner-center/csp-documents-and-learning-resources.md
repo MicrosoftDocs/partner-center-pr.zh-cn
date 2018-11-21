@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: a03d8b1a5cdf734831278984a6127951e7d664de
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: be48f5c91d146b0906b3c5927f74531b84bfc14c
+ms.sourcegitcommit: 02e7bc8b736bbd412afff9eb9f7f39b9f74e6941
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796060"
+ms.lasthandoff: 11/21/2018
+ms.locfileid: "7460954"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、 协议、 价目表和产品/服务
 
@@ -49,8 +49,6 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [Microsoft 云经销商协议 - 台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 德国 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_GER_ENG_Sep2018_GermanCloud_CR.pdf)
-
 [Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
 
 
@@ -60,33 +58,33 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 Microsoft 云协议[客户模板](agreements.md)
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>专业保密修正到 Microsoft 云协议 （德国）
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft 云协议 （德国） 对的专业保密进行修正
 
-在德国，刑事代码 (部分 203) 和行为准则专业人员的代码需要某些客户端关系是以保密，例如，患者和其医疗医生之间的关系和之间的关系律师和其客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业购买基于云的服务从云解决方案提供商，云服务提供商必须结束与客户，可确保专业保密的书面的协议。 
+在德国，刑事代码 (部分 203) 和行为准则的专业人员代码需要某些客户端关系是以保密，例如，患者和其医疗医生之间的关系和之间的关系律师和其客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业购买基于云的服务从云解决方案提供商，云服务提供商必须得出结论与客户，可确保专业保密的书面的协议。 
 
 如果你在开展业务德国，你可能需要提供给那里的客户除了 Microsoft 云协议此专业保密修正。
 
-[Microsoft 云协议专业保密修正德国 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[(EN) 德国 Microsoft 云协议专业保密修正](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[Microsoft 云协议专业保密修正德国 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[(DE) 德国 Microsoft 云协议专业保密修正](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 
 ## <a name="pricing"></a>定价
 
 
-下载定价从**定价和产品/服务**页面，可从**合作伙伴中心**菜单的基于许可证的、 基于使用情况，以及一次性购买的详细信息。 
+下载定价从**定价和产品/服务**页面，可从**合作伙伴中心**菜单的基于许可证的、 基于使用情况和一次性购买的详细信息。 
 
 基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。 基于许可证的服务的示例包括 Office 365、企业移动性套件和 Microsoft Dynamics CRM。 
 
 基于使用情况的定价是动态的，并且经常更改。 基于使用情况的服务的示例包括 Microsoft Azure。
 
-一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 预订和相应的 Windows Server 和 SQL 软件订阅。 
+一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 预订和 Windows Server 和 SQL 软件的相应订阅。 
 
 
 ## <a name="offers"></a>产品/服务
 
 
-作为云解决方案提供商合作伙伴，你可以销售各种 Microsoft 产品、 服务和解决方案，包括 Office 365、 企业移动性套件、 Microsoft Dynamics 和 Microsoft Azure。 有关哪些产品/服务都可供你销售这些产品系列中的详细信息，请参阅**定价和产品/服务**页面可从**合作伙伴中心**菜单上的云解决方案提供商产品/服务矩阵。 本文档按月更新。
+作为云解决方案提供商合作伙伴，你可以销售各种 Microsoft 产品、 服务和解决方案，包括 Office 365、 企业移动性套件、 Microsoft Dynamics 和 Microsoft Azure。 哪些产品/服务都可供你销售这些产品系列中的详细信息，请参阅**定价和产品/服务**页面可从**合作伙伴中心**菜单上的云解决方案提供商产品/服务矩阵。 本文档按月更新。
 
 对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在**定价和产品/服务**页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 
