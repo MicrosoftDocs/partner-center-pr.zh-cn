@@ -1,4 +1,4 @@
-# [关于 Microsoft 合作伙伴中心](index.md)
+# [了解 Microsoft 合作伙伴中心](index.md)
 
 # [合作伙伴网络成员身份](mpn-overview.md)
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
@@ -13,11 +13,10 @@
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
 ## [云解决方案提供商直接合作伙伴新要求](direct-partner-new-requirements.md) 
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
-## [云解决方案提供商区域授权概述](regional-authorization-overview.md)
-## [云解决方案提供商区域授权租户合并](csp-regional-authorization-tenant-consolidation.md)
-## [客户协议模板](agreements.md)
+## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
+## [按地区和语言划分的 Microsoft 云协议](agreements.md)
 
-## [适用于在国家云中销售](csp-national-clouds-overview.md)
+## [国家云](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 ### [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 
@@ -43,7 +42,8 @@
 ### [奖励申请付款概述](incentives-payouts.md)
 
 
-# [计费和税务](billing.md)
+# [计费和税款](billing.md)
+## [云解决方案提供商计费概述](billing-basics.md)
 ## [有关新计费功能的常见问题解答](faq-about-new-billing-features.md)
 ## [阅读帐单](read-your-bill.md)
 ## [使用对帐文件](use-the-reconciliation-files.md)
@@ -80,6 +80,7 @@
 ### [将基于许可证的服务客户移到云服务提供商计划中](transition-seat-based-services.md)
 ### [销售 Minecraft: Education Edition 订阅](minecraft-subscriptions.md)
 ### [向特定行业销售](Get-special-pricing-for-offers.md)
+### [向合格的政府客户销售 Office 365 政府版 GCC](csp-gcc-overview.md)
 ### [提高采用率和满意度](increasing-adoption-and-satisfaction.md)
 ### [利用 Windows Autopilot 简化设备设置](autopilot.md)
 ##  升级或将产品/服务转换为较新版本
