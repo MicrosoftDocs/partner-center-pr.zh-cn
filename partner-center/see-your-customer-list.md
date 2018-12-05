@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 430fe97ffac1f517e9086afb077b0f126e98ae3c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796110"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683696"
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796110"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 客户记录是合作伙伴中心中最重要的信息资源。 可搜索客户帐户的数据库，将整个客户数据库或子集导出为 Excel 兼容的逗号分隔值文件格式 (.csv)。 还可将客户订阅信息导出为 .csv 文件。
 
@@ -38,7 +38,7 @@ ms.locfileid: "5796110"
 从**合作伙伴中心**菜单中，选择**客户**。
 2.  若要搜索客户，请在搜索框中输入客户名称或域名。
 3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
-4.  在客户**帐单的**信息更新的公司名称。 当你保存新值时，它将反映在客户列表中。 这将仅更改帐单的公司名称和客户列表值。 它将不会反映任意其他人。
+4.  在客户**帐单到**信息更新公司名称。 当你保存新值时，它将反映在客户列表中。 这只会更改帐单到公司名称和客户列表值。 它将不会反映任意其他人。
 
 ## <a name="export-your-customer-list"></a>导出客户列表
 

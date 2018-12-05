@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税务, 免税, 对帐文件, 对帐文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 21946e6c3504dae35dc96585878e7714b976ad3a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796360"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683446"
 ---
 # <a name="billing"></a>计费
 
@@ -21,8 +21,8 @@ ms.locfileid: "5796360"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
-
+ 
+ 
 为你的帐单，请转到**合作伙伴中心**菜单，然后选择**计费**以查看你的计费历史记录和趋势、 指向发票和对帐文件，以及最近付款。
 
 云解决方案提供商计划中选择按月计费的合作伙伴会为其客户的订阅（基于许可证和基于使用情况）向 Microsoft 支付为期 60 天的欠款。

@@ -7,12 +7,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d8f5b58e539d214f0b9b11ff6ba06c447ac81d0
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 6dce06b0c65c3ac85318b1c04b5a8b490d620e55
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795740"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683666"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795740"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 合作伙伴中心的多渠道功能支持客户想要聘请一个合作伙伴来管理和支持他们在其他地方购买的订阅。 多渠道支持适用于处于以下情形中的客户：
 

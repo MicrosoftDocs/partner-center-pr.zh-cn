@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions
 ms.localizationpriority: medium
-ms.openlocfilehash: 40bcbde087fda68428c50d1f840a44a87bdebbc3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 78f30fc2eadefaf9f9e1624e200f097ad7c57aa8
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794850"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683756"
 ---
 # <a name="view-customer-activity-logs"></a>查看客户活动日志
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794850"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+-  
 
 
 活动日志为客户提供有关交易和合作伙伴管理操作的信息。 交易日志提供有关交易的详细信息，包括购买的订阅。 还可将活动日志导出为与 Excel 兼容的逗号分隔值文件格式 (.csv)。

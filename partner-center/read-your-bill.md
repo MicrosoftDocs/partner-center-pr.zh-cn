@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: 8505e0cc42bd294f6c6645ed02c1c5529cffff54
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795690"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683786"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795690"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 为你的帐单，请转到**合作伙伴中心**菜单，然后选择**计费**以查看你的计费历史记录和趋势、 指向发票和对帐文件，以及最近付款。
 
@@ -78,7 +78,7 @@ ms.locfileid: "5795690"
 <tr class="even">
 <tr class="even">
 <td>小计</td>
-<td>税前税款的税款独占费用和信用额度。</td>
+<td>税前税款和税务独占费用的信用。</td>
 </tr>
 <td>税务</td>
 <td>在发票第 2 页开始的详细信息部分中统计的当前费用的总税款。 此数字是以下列中所有费用的总和：

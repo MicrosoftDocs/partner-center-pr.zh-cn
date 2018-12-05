@@ -7,12 +7,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c50791c224834dffd0b113e5f3d4a5bca3aad9a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f6793b1b7524a5f715dd416e17c08679d14f9818
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796880"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683506"
 ---
 # <a name="customer-accounts"></a>客户帐户
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796880"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 作为经销商合作伙伴，你应为每个客户在合作伙伴中心中创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。 你需要为每个客户包括移动到合作伙伴中心之前具有的客户创建一个合作伙伴中心帐户。
 

@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f0b26856d0fb18062591c2311ef18c68fbbd7498
-ms.sourcegitcommit: 757c2e498334322862932068122665846f528b9c
+ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/16/2018
-ms.locfileid: "7012600"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683806"
 ---
 # <a name="faq-about-new-billing-features"></a>有关新计费功能的常见问题解答
 
@@ -20,7 +20,7 @@ ms.locfileid: "7012600"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 以下是关于合作伙伴中心的按年计费和免费试用版功能的常见问题。 
 
@@ -144,7 +144,7 @@ ms.locfileid: "7012600"
 
 **问：** 能否将订阅的计费频率从按月切换为按年或者从按年切换为按月？ 
 
--   **答：** 可以。 **若要更改的联机服务的计费频率**的[计费基础知识](https://docs.microsoft.com/en-us/partner-center/billing-basics)，请参阅。
+-   **答：** 可以。 **若要更改联机服务的计费频率**的[计费基础知识](https://docs.microsoft.com/en-us/partner-center/billing-basics)，请参阅。
 
 **问：** 按年计费是否适用于附加产品/服务？   
 

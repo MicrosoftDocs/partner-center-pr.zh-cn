@@ -7,12 +7,12 @@ ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 98b6a4839b599a43ba6c10506468be7dbd064d43
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794980"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683436"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>为你的客户设置 Azure 费用预算
 
@@ -20,7 +20,6 @@ ms.locfileid: "5794980"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
 
 为了帮助客户管理其 Azure 费用，可以设置一个每月费用预算，以使其 Azure 帐单金额不至于超出其预期。 设置 Azure 费用预算后，你便可以将客户的 Azure 费用与当月的预算进行比较。 使用此功能，你可以： 
 
@@ -33,7 +32,7 @@ ms.locfileid: "5794980"
 Azure 费用数据是估计值，实际计费金额可能会有所不同，并且该值不反映税款、积分、调整或其他可能适用的费用。 费用数据每天刷新一次。 除非你在 Azure 门户中更改客户的帐户设置，否则你的客户将继续使用 Azure 服务和资源并需要支付相关费用。 
 
 > [!NOTE]  
-> 此功能不可用的沙盒中测试生产 (TIP) 帐户。
+> 此功能不可用在沙盒或测试生产 (TIP) 帐户。
 
 **打开电子邮件通知**
 1.  从合作伙伴中心菜单中，选择**Azure 费用**。

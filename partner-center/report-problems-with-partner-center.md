@@ -7,12 +7,12 @@ ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 85e7f076cbb9b3a1b082edb020cf8134a844a733
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 46ac1cd60496338bbcdac7cf0258a2d4adfc9754
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795320"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683676"
 ---
 # <a name="report-problems-with-partner-center"></a>报告合作伙伴中心问题
 
@@ -20,9 +20,9 @@ ms.locfileid: "5795320"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
 
-如果你发现的合作伙伴中心问题，包括 bug 或服务中断联系合作伙伴中心支持人员。
+
+如果你发现问题合作伙伴中心，包括 bug 或服务中断联系合作伙伴中心支持人员。
 
 **报告合作伙伴中心问题**
 

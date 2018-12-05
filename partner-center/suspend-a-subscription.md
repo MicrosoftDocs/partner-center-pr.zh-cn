@@ -7,12 +7,12 @@ ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 041dc7e1849f0dfd9334159a57a9714396358df9
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796120"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683516"
 ---
 # <a name="suspend-a-subscription"></a>暂停订阅
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796120"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。
 

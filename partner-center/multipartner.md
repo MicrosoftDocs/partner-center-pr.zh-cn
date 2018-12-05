@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 09b915d7cb2cd36ffabc5f4336cb78f37e9b262c
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 0094b7f8b6314e776d5d4db6a19c49eb2ff0f4e1
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795170"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683486"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 
@@ -20,7 +20,7 @@ ms.locfileid: "5795170"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 合作伙伴中心的多合作伙伴功能支持客户想要与多个合作伙伴合作的情况。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
 

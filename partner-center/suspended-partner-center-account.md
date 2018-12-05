@@ -7,12 +7,12 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c0d55c0b8400c011b77c2be030e12686a0eadd6b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: ae2ce5ec0ac117d0adcb9e9b0f63e2c43e906bb7
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796190"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683466"
 ---
 # <a name="restore-a-suspended-partner-center-account"></a>恢复暂停的合作伙伴中心帐户
 
@@ -22,7 +22,7 @@ ms.locfileid: "5796190"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 > [!IMPORTANT]  
 > 合作伙伴中心帐户被暂停时，你可继续管理现有部署、许可证和服务。 但是，在你的帐户恢复正常前你将无法授权或转售新许可证或服务。
@@ -39,7 +39,7 @@ ms.locfileid: "5796190"
 
 如果你知道你的帐户是最新的，请向合作伙伴中心支持人员提交一个支持请求，了解暂停你的帐户的原因。 
 
-如果你不确定你的帐户是否是最新，从**合作伙伴中心**菜单以查看你的帐单选择**计费**。 该计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
+如果你不确定你的帐户是否是最新，从**合作伙伴中心**菜单，以查看你的帐单选择**计费**。 该计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
 
 如果你的帐户逾期，请按照账单上的说明安排付款，然后提交支持请求以请求恢复你的帐户。 
 

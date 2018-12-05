@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 609a70503eb0418a04cf345d4d1d0a176e39445a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796001"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683736"
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 
@@ -20,7 +20,7 @@ ms.locfileid: "5796001"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 因为云解决方案提供商是专注于合作伙伴产品转售的销售渠道，所以 Microsoft 并不始终要求向合作伙伴发票征收销售税。 规则因国家/地区而异。 合作伙伴应与税务顾问合作，以便根据自身位置和客户群所在位置来申报免税。 若要将他们的 Microsoft 经销商帐户标记为不应纳税，合作伙伴应该将这些免税证书发送到 Microsoft。
 

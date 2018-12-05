@@ -2,17 +2,17 @@
 title: 使用对帐文件 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 计费周期中的每项费用的明细项目详细视图，请从合作伙伴中心下载对帐文件。
+description: 计费周期中的每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b5fbab84c30743e4d91b32bf4cbd2bb8b950992
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.openlocfilehash: 188f6fe28277cfab624d407bb47157f2dce7e854
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022239"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683816"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -20,9 +20,9 @@ ms.locfileid: "6022239"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
 
-计费周期中的每项费用的明细项目详细视图，请从合作伙伴中心下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
+
+计费周期中的每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
 
 ## <a href="" id="itemizebypartner"></a>由合作伙伴列出明细
 
@@ -209,7 +209,7 @@ ms.locfileid: "6022239"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>客户的域名，用于帮助识别客户。 这不应该用于唯一标识客户，如客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>客户的域名，用于帮助识别客户。 这不应该用于唯一标识客户，因为客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">

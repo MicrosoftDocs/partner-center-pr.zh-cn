@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b28c2b1200b03747ad9560434c2e69555c16580
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 72b02ad430bc0ce434e3de25380ef043e59ac08d
+ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794840"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "8683686"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794840"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
 
 
 你可以销售订阅、 管理计费或提供支持之前，你需要为你的客户在合作伙伴中心创建帐户。 这包括客户的联系人信息和一个 Azure AD 域。
