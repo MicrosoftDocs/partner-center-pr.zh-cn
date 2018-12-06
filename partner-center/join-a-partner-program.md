@@ -1,63 +1,78 @@
 ---
 title: 加入 Microsoft 合作伙伴网络 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: 在合作伙伴中心购买 Microsoft Action Pack 并获得能力
-author: labrenne
-ms.author: labrenne
+author: maggiepuccievans
+ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4fa391339dcf3660dc283a7478fbcb11654756b2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: a6989957b3c4e3cf0c0c63d5297a9c04371c0a81
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796990"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776441"
 ---
-# <a name="join-the-microsoft-partner-network-mpn"></a>加入 Microsoft 合作伙伴网络 (MPN)
+<!-- Note from Maggie on Dec 5, 2018: I can no longer tell what purpose this article serves. I'm going to redirect it to the mpn-overview.md topic and move the relevant information there. In the interim, I've copied and pasted the content from the MPN overview topic into this one in case anyone out there has it bookmarked.
+-->
 
-**适用于**
+# <a name="partner-with-microsoft"></a>与 Microsoft 合作
 
--  合作伙伴中心
--  Microsoft 合作伙伴网络
+加入 Microsoft 合作伙伴计划后，你将成为一个全球社区的成员，它会在你与吸引客户、推动业务增长所需的各种关系、见解、工具、资源和计划之间建立起联系。
 
-## <a name="new-to-the-partner-center"></a>新合作伙伴中心
+请参阅[为何选择 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)了解有关与 Microsoft 合作的权益的详细信息。 
 
- 通过与 Microsoft 合作，你可以获得新的业务转型机会。 在合作伙伴中心购买和续订 Microsoft Action Pack，并且你可以轻松地访问有关能力以及如何获得能力的信息。
+## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作伙伴网络
 
- 我们将逐步邀请合作伙伴管理其成员资格在合作伙伴中心的 MAPS 或能力周年日以及重要合作伙伴中心功能可用并证明能够满足他们的业务需求的时。  目前，可计划在 Partner Membership Center (PMC) 中续订并管理你的成员身份，直到你收到迁移邀请为止。
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-## <a name="get-your-mpn-id"></a>获取你的 MPN ID
+你最广泛的行业以及计划中的产品选项以区分你的业务，Microsoft 合作伙伴网络提供进入市场，并销售解决方案。 将免费，然后选择如何投资于通过 Microsoft action pack、 初学者工具包或能力的合作关系。
 
-若要作为 Microsoft 合作伙伴来开展业务，你需要一个 MPN ID 号。 这表示你已在 Microsoft 合作伙伴网络中正式向 Microsoft 进行了注册。 此外，你也可以使用 MPN ID 注册云解决方案提供商计划和其他合作伙伴计划。  
+Action pack 或初学者工具包提供软件和支持，以生成基于 Microsoft 解决方案和能力演示了你的公认的专长的客户和其他合作伙伴。
 
-## <a name="become-a-microsoft-partner"></a>成为 Microsoft 合作伙伴
+有关 Microsoft 合作伙伴网络 (MPN) 的详细信息，请访问[MPN 网站](https://partner.microsoft.com/commercial)。
 
-1.  在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/en-us/membership)站点的**成员身份**选项卡上，选择**注册**。 
+### <a name="how-to-join"></a>如何在加入
 
-2.  注册为新组织或加入现有组织。
+若要加入 Microsoft 合作伙伴网络，MPN 网站上，请转到[**成员身份**页面](https://partner.microsoft.com/membership)，并选择**注册**或**立即加入**。
 
-3.  作为新组织填写表单，此表单将询问有关你的组织和你从事的业务类型的情况。
+## <a name="microsoft-partner-network-membership-types"></a>Microsoft 合作伙伴网络成员身份类型
 
-4.  如果你要通过现有组织进行注册，则将向你询问组织的名称和地址。
+<!-- 12/5/18 The content below was copied and pasted directly from the Membership pages of the MPN site (https://partner.microsoft.com/en-us/membership)-->
 
-> [!NOTE]  
->  你将需要针对每个销售地点提供你的组织总部的地址。
+Microsoft 合作伙伴网络提供三种类型的成员身份，如下所述。 每种类型提供一组权益以帮助你拓展业务。 在你实现目标后，可以在适合你的独特需求的级别参加本计划，来获取更多权益并与我们以及网络中的其他合作伙伴共同发展关系。
 
-作为此免费基本级别的网络成员，你会收到一组[核心内部使用权限权益](https://partner.microsoft.com/membership/core-benefits)来帮助你建立业务和进行下一步行动。 
+### <a name="action-pack"></a>Action Pack
 
-### <a name="add-additional-benefits-to-your-business"></a>为你的企业添加更多权益： 
+Action Pack 提供软件、 支持和权益想要开始，企业构建和发展其 Microsoft 实务云优先、 移动优先的世界中。 
 
-**Action Pack**。 购买此经济实惠型的年度订阅可获得更多权益，包括访问开发人员工具、支持、培训和软件。
+查看以下若要了解有关 Action Pack 的详细信息资源：
 
-**能力**。 证明你在一个或多个专业业务领域中在提供优质解决方案方面拥有公认的专长。 Microsoft 能力旨在让你做好满足客户需求的准备，帮助你吸引正在寻找 Microsoft 认证解决方案提供商的新客户。 
+- [移动云业务向前与 Microsoft Action Pack](https://partner.microsoft.com/membership/action-pack)
+- [获取 Action Pack](mpn-get-action-pack.md)
+  
+    >[!IMPORTANT]
+    >我们会将 Action Pack 订阅管理从 Partner Membership Center (PMC) 移到合作伙伴中心。 此移动将在下一步的几个月内生效。 请中[获取 Action Pack](mpn-get-action-pack.md)的信息，请仔细检查，以便你知道如何以及在何处续订。  
 
-- 获得银牌成员身份可证明你始终如一的能力、专长和承诺
-- 获得金牌成员身份可证明你在特定 Microsoft 解决方案领域中具有最出色的能力
+- [续订你的 MPN 产品/服务](renew-mpn-offers.md)
 
-|**若要执行以下操作**   |**请阅读以下内容**   |
-|------------------|:---------------|
-|成为 Microsoft 合作伙伴|[成员身份：工作原理](https://partner.microsoft.com/membership/how-it-works)|
-管理你在合作伙伴中心上的 Microsoft 合作伙伴网络成员身份   |[管理你的 Microsoft 合作伙伴网络成员身份](mpn-overview.md)
-|购买 Action Pack   |[购买或续订 Microsoft Action Pack](https://msdn.microsoft.com/partner-center/mpn-get-action-pack)|
-|获得银牌或金牌能力   |[银牌和金牌成员身份的能力要求](https://msdn.microsoft.com/en-us/partner-center/learn-about-competencies)|
-|考虑加入云解决方案提供商计划|[云解决方案提供商 - 销售畅销的云解决方案](csp-overview.md)|
+### <a name="competencies"></a>能力
+
+展示你中提供优质解决方案方面的企业专用的公认的专长。 Microsoft 能力旨在满足当前客户需求并被潜在认可。 加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。
+
+查看以下若要了解有关能力的详细信息资源：
+
+- [能力的合作伙伴](https://partner.microsoft.com/membership/competencies)
+
+## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft 合作伙伴网络权益和要求
+
+当你加入 Microsoft 合作伙伴网络后，你会获得一组核心权益，可帮助你节省时间和金钱，同时你可以增强能力、更好地为客户提供服务，并建立联系以充分发挥你的业务潜能。
+
+查看以下若要了解有关网络权益和要求的详细信息资源：
+
+- [核心权益](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-1)
+- [管理你的 MPN 权益，在合作伙伴中心](manage-your-partner-network-benefits.md)
+- [核心要求](https://partner.microsoft.com/en-us/membership/core-benefits#simple-tab-content-2)
+
+## <a name="see-also"></a>另请参阅
+- [发展你的 Microsoft 合作伙伴业务](grow-your-business.md)

@@ -7,27 +7,27 @@ keywords: 引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1fa537dbb170412385080b17cf3a52e8a7a784ea
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796420"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776481"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>发展你的 Microsoft 合作伙伴业务 
 
-Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解 Microsoft 合作伙伴中心这一站点上的功能如何帮助你吸引新客户并提高盈利能力。 
+Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解 Microsoft 合作伙伴中心中，这一站点上的功能如何帮助你吸引新客户并获取更多收益。
 
 使用合作伙伴中心执行以下操作：
 
--   获取销售线索（所有合作伙伴）
--   通过银牌或金牌合作伙伴状态使你的公司脱颖而出（所有合作伙伴）
--   提供 Microsoft 产品的试用订阅（云解决方案提供商合作伙伴）
--   提供 Microsoft 产品的促销定价（云解决方案提供商合作伙伴）
--   在更多市场中销售（云解决方案提供商合作伙伴）
+- 获取销售线索（所有合作伙伴）
+- 通过银牌或金牌合作伙伴状态使你的公司脱颖而出（所有合作伙伴）
+- 提供 Microsoft 产品的试用订阅（云解决方案提供商合作伙伴）
+- 提供 Microsoft 产品的促销定价（云解决方案提供商合作伙伴）
+- 在更多市场中销售（云解决方案提供商合作伙伴）
 
 > [!NOTE]  
->  你的公司必须在 Microsoft 合作伙伴网络中注册，并且拥有合作伙伴中心帐户，才能充分利用这些功能。 参阅[加入 Microsoft 合作伙伴网络](mpn-overview.md)，以了解加入该网络的相关信息。 此外，你必须成为云解决方案提供商 (CSP) 计划中的经销商才能使用某些功能。 参阅[云解决方案提供商概述](csp-overview.md)，以了解有关通过此计划进行销售的信息。
+> 你的公司必须在 Microsoft 合作伙伴网络中注册，并且拥有合作伙伴中心帐户，才能充分利用这些功能。 参阅[加入 Microsoft 合作伙伴网络](mpn-overview.md)，以了解加入该网络的相关信息。 此外，你必须成为云解决方案提供商 (CSP) 计划中的经销商才能使用某些功能。 参阅[云解决方案提供商概述](csp-overview.md)，以了解有关通过此计划进行销售的信息。
 
 ## <a name="resources-to-help-your-business-grow"></a>帮助你的业务发展的资源
 
@@ -40,9 +40,5 @@ Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解
 | 在更多市场中销售 | 云解决方案提供商销售渠道在许多地区和国家中都可用。 参阅[云解决方案提供商市场](agreements.md)，以查看该列表。 有关云解决方案提供商渠道的简介，请参阅[云解决方案提供商概述](csp-overview.md)。  | 云解决方案提供商合作伙伴 |
 销售给特定行业等非盈利性组织合规性和教育版|[向特定行业销售](get-special-pricing-for-offers.md)|云解决方案提供商合作伙伴|
 |发展你的业务通过奖励合作计划中提供的许多活动。 通过合作伙伴中心的活动的文件声明。| [创建和管理奖励申请](create-incentives-claims.md)|云解决方案提供商合作伙伴|
-|通过使用已在你要销售的 Microsoft 软件的第三方产品/服务生成软件的新捆绑的包|[发现第三方产品/服务](third-party-offers.md)|云解决方案提供商合作伙伴|
-
-## <a name="see-also"></a>另请参阅
-
-[Microsoft 合作伙伴网络](https://partner.microsoft.com)站点和[合作伙伴中心主页](https://partnercenter.microsoft.com/partner/home)（如果你刚成为 Microsoft 合作伙伴或不熟悉本文中的条款）。
-
+|使用已在你要销售的 Microsoft 软件的第三方产品/服务生成软件的新捆绑的包|[发现第三方产品/服务](third-party-offers.md)|云解决方案提供商合作伙伴|
+|

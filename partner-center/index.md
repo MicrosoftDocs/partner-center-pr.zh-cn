@@ -4,20 +4,21 @@ hide_bc: true
 title: 从此处开始获取有关的合作伙伴中心帮助
 ms.topic: landing-page
 ms.date: 10/29/2018
-description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找此合作伙伴中心中帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。 
-author: v-chmccl
+description: 需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找答案此合作伙伴中心中的帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。 
+author: labrenne
+ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 5677ad5ea93cef313aa2b7373e75c9621d0a4e48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: afd4421e000081864394995d75e4671d711825ef
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795910"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776521"
 ---
 # <a name="start-here-for-help-with-partner-center"></a>从此处开始获取有关的合作伙伴中心帮助
 
-需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找此合作伙伴中心中帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
+需要有关设置帐户、联系客户、购买 Action Pack 订阅的帮助？ 查找答案此合作伙伴中心中的帮助专为在云解决方案提供商和 MPN 计划的合作伙伴创建的库。
 
 如果你已熟悉合作伙伴中心，请参阅[新增](/partner-center/whats-new-in-pc)。
 
@@ -86,7 +87,7 @@ ms.locfileid: "5795910"
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">合作伙伴中心的教程</a>（需要登录）</h3>
+                        <h3><a href="https://partnercenter.microsoft.com/pcv/redirect?authenticate=true&redirect=%2Fdashboard%2Foverview">了解如何合作伙伴中心</a>（需要登录）</h3>
                     </div>
                 </div>
             </div>

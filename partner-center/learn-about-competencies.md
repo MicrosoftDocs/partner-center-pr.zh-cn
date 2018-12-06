@@ -1,24 +1,24 @@
 ---
 title: 有关银牌和金牌成员身份的 Microsoft 能力要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 12/5/2018
 description: 了解有关获取金牌和银牌成员身份级别的能力要求。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, Microsoft 合作伙伴网络, 网络成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: 7c739e3e7142eee7dcc0ec4906e2dbc89fc671d4
-ms.sourcegitcommit: bf952686358864cb268f71d039c682ee2a50ba68
+ms.openlocfilehash: 152f5186471572a3dafbf3a273867e1d64aafa69
+ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797385"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "8776451"
 ---
 # <a name="microsoft-competency-requirements-for-gold-and-silver-membership"></a>金牌和银牌成员身份的 Microsoft 能力要求
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
 
 证明你在一个或多个专业业务领域中提供优质解决方案方面拥有公认的专长。 Microsoft 能力旨在让你做好满足客户需求的准备，以及帮助你吸引正在寻找 Microsoft 认证解决方案提供商的新客户。 加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。
 
@@ -26,8 +26,13 @@ ms.locfileid: "5797385"
 
 - 获得**金牌成员身份**可证明你在特定 Microsoft 解决方案区域中具有最出色的能力
 
-请参阅在以下专长领域中获得银牌和金牌成员身份需要什么：
+了解有关获得银牌和金牌成员身份在以下专长领域中内容需要：
 
+<!-- Removed the ISV competency row as per Sarah Hodge on 12/5/18 
+
+[ISV competency](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure, SQL Server 2016,  Dynamics 365, Office 365, Windows Server 2019, System Center 2016|
+
+-->
 
 | 能力  | 技术 |
 |   ------------------   |   -------   |
@@ -45,8 +50,8 @@ ms.locfileid: "5797385"
 | [DevOps 能力](https://partner.microsoft.com/membership/devops-competency)| Microsoft Visual Studio、Visual Studio Team Foundation Server (TFS) 2012、软件生命周期、scrum 认证 |
 | [企业移动性管理能力](https://partner.microsoft.com/membership/enterprise-mobility-management-competency)| 企业移动性 + 安全性 (EMS)、Microsoft Intune、Azure 信息保护、Azure Active Directory Premium (AADP)，移动设备管理、标识和访问管理、信息保护、云应用安全 |
 | [企业资源计划能力](https://partner.microsoft.com/membership/enterprise-resource-planning-competency)| Dynamics AX/GP/SL/NAV/365、企业资源计划 (ERP)、SQL Server 2012 数据库  |
-|[ISV 能力](https://partner.microsoft.com/en-us/membership/isv-competency)| Azure，SQL Server 2016、 Dynamics 365，Office 365、 Windows Server 2019，System Center 2016| 
 | [消息能力](https://partner.microsoft.com/membership/messaging-competency)| Office 365、Exchange Server 2016 |
 | [项目及项目组合管理能力](https://partner.microsoft.com/membership/project-portfolio-management-competency)| Microsoft 项目、项目及项目组合管理 (PPM)、SharePoint Server 2016|
 | [中小型市场云解决方案能力](https://partner.microsoft.com/membership/small-midmarket-cloud-solutions-competency)| Office 365 |
 | [Windows 和设备能力](https://partner.microsoft.com/membership/windows-and-devices-competency)| Windows 10、Windows 10 IoT、通用 Windows 平台、Surface Hub、Office 365、Skype for Business 2015、企业部署 |
+|
