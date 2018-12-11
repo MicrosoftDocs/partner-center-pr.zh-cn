@@ -2,20 +2,21 @@
 title: 工作帐户与合作伙伴中心 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。
+description: 如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。 如果你具有有效的 Microsoft Azure 或 Office 365 订阅，你已经拥有工作帐户。
 author: labrenne
 ms.author: labrenne
 Keywords: work account, email, tenant, Azure tenant, create account, domain name
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: aa256ad84b598d011ca25b7470342381148ecf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796390"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917519"
 ---
-# <a name="your-company-work-account-and-the-partner-center"></a>你的公司工作帐户与合作伙伴中心  
+# <a name="your-company-work-account-and-partner-center"></a>你的公司工作帐户与合作伙伴中心  
 
 **适用范围**
 
@@ -23,12 +24,12 @@ ms.locfileid: "5796390"
 
 ## <a name="why-you-need-a-work-account"></a>需要工作帐户的原因
 
-我们需要将你的公司工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以登录到合作伙伴中心使用其工作帐户用户名和密码。
+我们需要将你所在公司的工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以使用其工作帐户用户名和密码登录合作伙伴中心。
 
 如果你的公司已经拥有工作帐户，你可以将其链接到你的合作伙伴中心帐户。 
 
 > [!NOTE]  
->  你决定使用现有的工作帐户之前，请考虑在帐户中的用户数将需要在合作伙伴中心中工作。 如果用户不需要使用合作伙伴中心帐户中有用户，请考虑创建一个新帐户的人员将需要在合作伙伴中心中工作的用户。
+>  你决定使用现有的工作帐户之前，请考虑在帐户中的用户数将需要在合作伙伴中心中工作。 如果用户不需要使用合作伙伴中心帐户中有用户，请考虑创建新的人员将需要在合作伙伴中心中工作的用户帐户。
 
 如果你的公司还没有工作帐户，则可以在注册过程中创建一个。 
 
@@ -47,7 +48,7 @@ ms.locfileid: "5796390"
 
 有关在 Azure AD 中添加域的详细信息，请参阅[在 Azure AD 中添加或关联域](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
 
-# <a name="about-microsoft-azure"></a>关于 Microsoft Azure
+## <a name="about-microsoft-azure"></a>关于 Microsoft Azure
 
 Microsoft Azure 是一个公共云平台，公司可以使用该平台在 Microsoft 管理的数据中心的全球网络中构建、部署和管理应用程序。 公司可以使用 Azure 构建一个具有虚拟功能或服务（而非物理计算机）的虚拟 IT 基础结构。 
 

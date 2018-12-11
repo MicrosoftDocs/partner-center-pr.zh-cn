@@ -2,31 +2,32 @@
 title: 云解决方案提供商全球市场 |合作伙伴中心
 ms.topic: article
 ms.date: 11/03/2018
-description: 请参阅你可以在其中销售云解决方案提供商产品/服务，根据你的公司的位置。
+description: 请参阅的国家和地区，你可以在其中销售云解决方案提供商产品/服务，基于贵公司的位置。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商市场，国家/地区，其中 i 通过可以销售云解决方案提供商，云解决方案提供商产品/服务，地区，销售云解决方案，全局云解决方案提供商
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e561b68a083d7a5839aaebe6aa9f03f4f7e9c93
-ms.sourcegitcommit: b433061dff8f667c81b623c33417fb490d8e3b4a
+ms.custom: seodec18
+ms.openlocfilehash: 19a48a5ffc0ab9a3d2555c47cbf67c0376d771bf
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2018
-ms.locfileid: "6022231"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917669"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划区域市场和货币
 
-贵公司的位置决定了你的市场。 你的市场包括地区和/或国家/地区，你可以在其中销售云解决方案提供商产品/服务。
+贵公司的位置确定你的市场。 你的市场包括地区和/或国家/地区，你可以在其中销售云解决方案提供商产品/服务。
 
-例如，如果你的公司位于美国境内，你可以向客户在美国和美国美属外岛销售云解决方案提供商产品/服务。 如果你的公司位于巴西中，你可以向仅在巴西的客户销售云解决方案提供商产品/服务。 如果你的公司位于非洲地区，你可以向所有 18 国家/地区中非洲地区的客户销售云解决方案提供商产品/服务。
+例如，如果你的公司位于美国境内，你可以向客户在美国和美国美属外岛销售云解决方案提供商产品/服务。 如果你的公司位于巴西，你可以仅在巴西向客户销售云解决方案提供商产品/服务。 如果你的公司位于非洲地区，你可以向所有 18 个国家/地区中非洲地区的客户销售云解决方案提供商产品/服务。
 
-你可以代表客户的云解决方案提供商产品/服务订单之前，客户必须登录 Microsoft 云协议。 查找你地区适用的 Microsoft 云协议[此处](agreements.md)。
+你可以订购代表客户的云解决方案提供商产品/服务之前，客户必须登录 Microsoft 云协议。 你可以将适用的 Microsoft 云协议查找你地区[此处](agreements.md)。
 
 >[!IMPORTANT]
-> 从 2018 年 11 月 7 日，你将需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。 有关更多详细信息，请参阅[确认的 Microsoft 云协议客户接受](confirm-consent.md)。
+> 从 2018 年 11 月 7 日，你将需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)。
 
-若要确定你可以在其中销售云解决方案提供商产品/服务，请一个下面的列表中找到贵公司的位置。
+若要确定你可以在其中销售云解决方案提供商产品/服务，一个下面的列表中找到贵公司的位置。
 
 ## <a name="africa-region-and-market"></a>非洲地区和市场
 
@@ -239,7 +240,7 @@ ms.locfileid: "6022231"
 |  韩国|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地区市场
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地区和市场
 
 如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
 
@@ -300,7 +301,7 @@ ms.locfileid: "6022231"
 |  美属维尔京群岛| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中东、 欧和美国东部欧洲地区和市场
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中东、 中央西欧和美国东部地区和市场
 
 如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
 
@@ -321,7 +322,7 @@ ms.locfileid: "6022231"
 |  以色列         |   USD    |
 |  约旦         |          |
 |  哈萨克斯坦     |   USD    |
-|  Kosovo         |   USD    |
+|  科索沃         |   USD    |
 |  科威特         |   USD    |
 |  吉尔吉斯斯坦     |   USD    |
 |  黎巴嫩        |   USD    |
@@ -336,7 +337,7 @@ ms.locfileid: "6022231"
 |  莫桑比克     |          |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  巴勒斯坦 |        |
 |  卡塔尔          |   USD    |
 |  沙特阿拉伯   |   USD    |
 |  塞尔维亚         |   USD    |
@@ -374,9 +375,9 @@ ms.locfileid: "6022231"
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+如果贵公司的位置在中国台湾，你可以在中国台湾向客户销售云解决方案提供商产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|

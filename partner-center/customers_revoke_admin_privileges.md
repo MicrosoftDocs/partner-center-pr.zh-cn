@@ -1,18 +1,18 @@
 ---
 title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
-description: 作为经销商合作伙伴，你的客户可以委派你其管理员。他们还可以删除该权限。
+ms.date: 12/7/2018
+description: 作为经销商合作伙伴，你的客户可以委派你其管理员。它们还可以删除该权限。
 author: labrenne
 ms.author: labrenne
 keywords: 委派的管理员权限，代表管理员，删除权限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: cb53cf35eafd40e929c30ee74b2f7e98b3e4332a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795730"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917499"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
@@ -28,7 +28,7 @@ ms.locfileid: "5795730"
 
 2.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，或者可以将邮件复制到剪贴板并将其粘贴到电子邮件中。 
 
-    >!重要提示<br>
+    >[!IMPORTANT]
     >你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置以将客户直接链接到你的帐户。 
     
 3.  完成此步骤后选择**完成**。
@@ -39,17 +39,16 @@ ms.locfileid: "5795730"
 
 6.  若要管理客户的帐户、 服务、 用户和许可证，选择客户名称旁边的向下箭头展开客户的记录，然后选择你想要管理的服务的管理门户。
 
-
-> [!IMPORTANT]  
-> 客户可以在服务的管理员门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在此情况下，如果客户需要帮助，请联系 Microsoft 支持以打开代表客户服务请求。
+>[!IMPORTANT]  
+>客户可以重新分配或服务的管理员门户中删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在此情况下，如果客户需要帮助，请联系 Microsoft 支持以打开代表客户服务请求。
 
 你的客户可以查找哪些合作伙伴具有在 Office 365 管理门户中从其租户的管理员权限。 若要实现此目的，请执行以下操作：
 
-1. 客户需要登录到 Office 365 管理门户作为全局管理员。
+1. 客户需要登录到 Office 365 admin 门户作为全局管理员。
 
 2. 选择**设置** → **合作伙伴关系**。
 
-3. 在**合作伙伴关系**页面中，客户将看到合作伙伴与其它们的工作，并且这些已被授予其租户的委派管理权限的列表。
+3. 在**合作伙伴关系**页面上，客户将看到的合作伙伴与其它们的工作和已授予其租户的委派管理权限的列表。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客户可以管理合作伙伴的委派管理员权限 
 
@@ -65,8 +64,8 @@ ms.locfileid: "5795730"
 2. 在详细信息窗格中，选择**删除委派管理员**。
 3. 在确认窗格中，选择**删除**。
 
-> [!IMPORTANT]  
-> 合作伙伴的 Azure AD 角色分配是隐式的。 如果你尝试使用 Azure AD 门户/PowerShell/Graph 列出 Azure AD 角色的成员，将不会返回合作伙伴。 若要了解合作伙伴是否被分配了 Azure AD 角色，则必须参阅 Office 365 Admin 门户中的合作伙伴关系页面来了解是否已向该合作伙伴授予了委派管理权限。
+>[!IMPORTANT]  
+>合作伙伴的 Azure AD 角色分配是隐式的。 如果你尝试使用 Azure AD 门户/PowerShell/Graph 列出 Azure AD 角色的成员，将不会返回合作伙伴。 若要了解合作伙伴是否被分配了 Azure AD 角色，则必须参阅 Office 365 Admin 门户中的合作伙伴关系页面来了解是否已向该合作伙伴授予了委派管理权限。
 
 ## <a name="delegated-admin-privileges-in-azure-ad"></a>Azure AD 中的委派管理员权限 
 
@@ -90,31 +89,23 @@ ms.locfileid: "5795730"
 
 - 当客户通过 Office 365 门户删除合作伙伴的委派管理权限时，合作伙伴仍可以管理客户的 Azure 订阅，前提是该合作伙伴在订阅下仍被分配有一个或多个角色。 若要阻止合作伙伴管理 Azure 订阅，客户必须删除角色分配。
 
-## <a name="windows-autopilot"></a>Windows Autopilot 
+## <a name="windows-autopilot"></a>Windows Autopilot
 
-从合作伙伴中心，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限管理 Autopilot 配置文件。 了解如何[利用 Windows Autopilot 让设备设置更简单](https://docs.microsoft.com/partner-center/autopilot)。
+<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-你可以执行的操作取决于在哪种云解决方案提供商模式你已注册中。
+从合作伙伴中心，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限在这些情况下管理 Autopilot 配置文件： 
 
-|**操作**   |**直接计费合作伙伴和间接提供商**   |**间接经销商**   |
-|-----------------|-----------------------------------| -----------------------------|
-|添加设备（使用 csv 文件）  |是      |否|
-|删除设备   |是   |否|
-|添加配置文件   |是   | 是   |
-|更新配置文件   |是    |是   |
-|删除配置文件   |是   |是   |
-|将配置文件应用到设备   |是   |是   |
-|从设备中删除配置文件   |是   |是   | 
-
-- 如果客户删除委派的 aministration 权限，但保留与你建立经销商关系，你可以继续为他们管理 Autopilot 配置文件。
+- 如果客户删除委派的管理权限，但保留与你建立经销商关系，你可以继续为他们管理 Autopilot 配置文件。
 
 - 你可以管理你或其他合作伙伴已添加的客户设备。 
 
-- 你不能管理客户已通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加的设备。
+- 你不能管理你的客户已通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加的设备。
 
-> [!IMPORTANT]  
-> 在合作伙伴中心中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
+有关 Autopilot 的详细信息，请参阅[利用 Windows Autopilot 简化设备设置](https://docs.microsoft.com/partner-center/autopilot)。
 
-  - 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
+>[!IMPORTANT]  
+>合作伙伴中心中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
 
-- 合作伙伴必须被授予委派的管理权限客户才能够删除的设备添加由其他合作伙伴或客户租户中的客户。 否则，合作伙伴可以删除自己之前添加的同一个合作伙伴的设备。
+- 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
+
+- 合作伙伴必须被授予委派的管理权限客户之前，合作伙伴可以删除设备添加由其他合作伙伴或客户租户中的客户。 否则，合作伙伴可以删除自己之前添加的相同的合作伙伴的设备。

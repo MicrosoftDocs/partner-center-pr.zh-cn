@@ -2,17 +2,18 @@
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Managing Azure reservations on behalf of your customers.
+Description: To manage your customers’ Azure reservations post-purchase, you’ll select the customer and reservation you want to manage in Partner Center, and then make changes to the reservation in the Azure portal.
 author: v-petand
 ms.author: v-petand
 keywords: azure，预订，管理，计费，购买、 取消、 exchange，提前终止费
 ms.localizationpriority: medium
-ms.openlocfilehash: fde21951dacab70a9f9b03d853647aabcc40d9af
-ms.sourcegitcommit: 7a68540d64d17c4d9139da4f94d679f9d91b67c4
+ms.custom: seodec18
+ms.openlocfilehash: 7096efb34f8c72d3c8dc724332dd031a180d0636
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "7011407"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917709"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
@@ -40,14 +41,14 @@ ms.locfileid: "7011407"
  
 ## <a name="cancel-or-exchange-a-reservation"></a>取消或兑换预订 
 
-如果在任何客户的业务需求发生变化，他们可能想要取消预订并获得的退款或兑换预订的按比例计算的退款金额用于支付新预订的价格。
+如果在任何时候客户的业务需求发生变化，他们可能想要取消预订并获得的退款或兑换预订的按比例计算的退款金额用于支付新预订的价格。
 
-在这两种方案中，Microsoft 退款金额对你，以便你然后可以管理生成的财务交易记录与你的客户。 Microsoft 不会联系客户直接有关计费、 取消或退款。   
+在这两种情况下，Microsoft 退款金额对你，以便你然后可以管理生成的财务交易记录与你的客户。 Microsoft 不会联系客户直接有关计费、 取消或退款。   
  
 
 **如何取消**
 
-客户可以请求取消预订随时 （限制在每 50000 年美元退款金额）。 取消预订允许客户返回以获取提前终止费剩余数月的 Azure 预订量。 其余按比例计算的余额提前终止费，被退款到你的帐户，以便你可以在退款客户的帐户。 
+客户可以请求取消预订随时 （限制在每 50000 年美元的退款金额）。 取消预订允许客户返回以获取提前终止费剩余数月的 Azure 预订量。 其余按比例计算的余额提前终止费，被退款到你的帐户，以便你可以在退款客户的帐户。 
 
 有关取消详细信息和费用，请参阅下文。
 
@@ -62,14 +63,14 @@ ms.locfileid: "7011407"
 
 **如何兑换** 
 
-如果客户想要从你购买而非在它们最初购买不同预订，他们可以请求 exchange。 交换预订可以具有吸引力的替代方法取消预订，因为它允许客户使用的新预订支付价格按比例计算的退款金额。 
+如果客户想要从你购买而非在它们最初购买不同预订，他们可以请求 exchange。 交换预订可以具有吸引力的替代方法取消预订，因为它允许客户使用的新预订价格按比例计算的退款金额。 
 
-按比例计算的退款金额被存入你的帐户，以便你可以为客户提供一种交换。
+按比例计算的退款金额被存入你的帐户，以便你可以为客户提供 exchange。
 
 
 ## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>代表客户请求退款或兑换 
 
-若要代表客户提出退款或兑换支持请求，你将在合作伙伴中心中，选择客户和预订，然后再在 Azure 门户中创建支持请求。 
+若要代表客户提出退款或兑换支持请求，你将在合作伙伴中心中，选择客户和预订，然后在 Azure 门户中创建支持请求。 
 
 >[!NOTE]
 >Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户中预订的**属性**页面上找到此信息。 
@@ -78,7 +79,7 @@ ms.locfileid: "7011407"
 
 2. 在客户的详细信息页面上，选择 **Azure 预订**，然后选择客户想要退款的特定预订。  
 
-3. 在**操作**，选择**退款**以转到 Azure 门户中的客户的预订记录并启动支持请求。  
+3. 在**操作**，选择**退款**转到 Azure 门户中的客户的预订记录并启动支持请求。  
 
 4. 在**新建支持请求**页上，请按照以下步骤来请求退款。 执行每个步骤后选择**下一步**。 
 

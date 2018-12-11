@@ -1,18 +1,19 @@
 ---
-title: 针对最大预订利用率 Microsoft Azure 虚拟机大小 |合作伙伴中心
+title: 针对最大预订利用率确定 Microsoft Azure 虚拟机大小 |合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Information on purchasing and managing Azure reservations
+Description: When buying Microsoft Azure reservations on behalf of your customers, you’ll need to choose a virtual machine (VM) sized to meet the customer’s computing needs.
 author: v-petand
 ms.author: v-petand
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
 ms.localizationpriority: medium
-ms.openlocfilehash: 00978e8e000dded2e4f7bb5d5d6506711e521c86
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795920"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917539"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小 
 
@@ -48,7 +49,7 @@ ms.locfileid: "5795920"
 
 **使用 Microsoft Azure 门户获取虚拟机大小信息**
 
-1.  在合作伙伴中心中，依次转到你**的客户**的页面。
+1.  在合作伙伴中心中，转到你**的客户**的页面。
 
 2.  查找想要购买 Azure 虚拟机预订的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。 
 
@@ -56,13 +57,13 @@ ms.locfileid: "5795920"
 
 4.  在虚拟机的详细信息页面上，查找大小和区域信息，如下所示，并使用此信息在合作伙伴中心购买预订。  
 
-    ![](images/usage1.png)
+    ![详细信息页面上的大小和区域信息](images/usage1.png)
 
 **使用 Microsoft Azure PowerShell 获取虚拟机大小信息**
 
 使用下图中的信息，以获取你想要为其购买预订的虚拟机的位置和大小。 
 
-![](images/usage2.png)
+![VM 的位置和大小](images/usage2.png)
 
 **使用 Azure 资源管理器 (ARM) API 获取虚拟机大小信息**
 
@@ -72,8 +73,8 @@ ms.locfileid: "5795920"
 
 3.  此调用将返回 **vmSize** 和 **location** 的值，如下所示。
 
-    ![](images/usage3.png)
-    ![](images/usage4.png)
+    ![vmSize 值](images/usage3.png)
+    ![位置值](images/usage4.png)
  
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>验证 Azure 虚拟机使用情况和预订折扣
@@ -92,7 +93,7 @@ ms.locfileid: "5795920"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>在 Microsoft Azure 门户中验证客户的预订利用率
 
-1.  在合作伙伴中心中，依次转到你**的客户**的页面。
+1.  在合作伙伴中心中，转到你**的客户**的页面。
 
 2.  查找想要验证其预订折扣和使用情况的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。 
 
@@ -118,7 +119,7 @@ ms.locfileid: "5795920"
 
 你可以使用 Azure 利用率 API 获取预定利用率数据，以验证客户是否获得了预订折扣并查看折扣应用于的 VM（虚拟机）。 比较示例 A 与示例 B，了解如何验证客户的预定利用率。 
 
-![](images\usage5.png)
+![预订的用法示例](images\usage5.png)
 
 -   reservationId 标识用于将折扣应用于虚拟机的 Azure 预定。
 -   consumptionMeter 是应用了预订折扣的虚拟机的 MeterId。
@@ -134,7 +135,7 @@ ms.locfileid: "5795920"
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md)
 |为你在合作伙伴中心中的客户购买 Azure 预订   |[购买 Azure 预订](azure-reservations-buying.md)
-| 合作伙伴中心中管理 Azure 预订 | [合作伙伴中心中管理 Azure 预订](azure-reservations-manage.md)
+|合作伙伴中心中管理 Azure 预订 | [合作伙伴中心中管理 Azure 预订](azure-reservations-manage.md)
 |在 Azure 门户中购买 Azure 预订 | Azure 帮助中的[为包含 Azure 虚拟机预留实例的虚拟机预先付款](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 门户中管理 Azure 预订   |Azure 帮助中的[管理虚拟机预留实例](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)

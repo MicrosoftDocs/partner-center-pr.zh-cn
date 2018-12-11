@@ -2,17 +2,18 @@
 title: 代表客户购买 Microsoft Azure 预订 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: Buy Azure reservations on behalf of customers in Partner Center.
+Description: You can buy Azure reservations on behalf of your customers in Partner Center.
 author: v-petand
 ms.author: v-petand
 keywords: azure，预订，管理，计费，购买
 ms.localizationpriority: medium
-ms.openlocfilehash: 2022018629bd54140a3d9aeca93a4523102c366e
-ms.sourcegitcommit: 282861f9063fe525bc54f8bbab96656563491b26
+ms.custom: seodec18
+ms.openlocfilehash: 6ce50f5269c95ba923b81a062c6f43a94bbff945
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "6075258"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917549"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表你的客户在合作伙伴中心购买 Microsoft Azure 预订 
 
@@ -30,7 +31,7 @@ ms.locfileid: "6075258"
   
 -   Azure 预订价格中不包括软件订阅成本，例如 SQL 数据库或 SUSE Linux 软件
 
--   Microsoft 的商业定价再到您不包括税款，除非你的位置是澳大利亚或巴西。 对你的商业价格澳大利亚或巴西，你的位置，如果包含相应的税款 
+-   Microsoft 的商业定价给您不包括税款，除非你的位置在巴西。 如果位置在巴西，对你的商业价格包含相应的税款 
  
 -   销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
 
@@ -40,10 +41,10 @@ ms.locfileid: "6075258"
 
 -   如果客户想要将 Azure 订阅从直接客户或 EA 转移至云解决方案提供商，则不会转移预订。 
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure 预订不可用的市场
+## <a name="azure-reservations-unavailable-markets"></a>Azure 预订不可用市场
 
 >[!IMPORTANT] 
->Azure 预订*不是*可用于在以下市场中：  
+>Azure 预订*不*提供以下市场中：  
 >  
 > | 不可用的市场 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
@@ -100,18 +101,18 @@ ms.locfileid: "6075258"
 
     a. **类别**在列表中选择客户的市场类别。
 
-    b. 从产品**类型**列表中选择**预留**。
+    b. 从产品**类型**列表中选择**预订**。
 
-    c. 从**预留类型**列表中选择客户想要的预订的类型。
+    c. 从**预订类型**列表中选择客户想要的预订的类型。
 
-4. Azure 预订必须与有效的 Azure 订阅相关联。 选择你想要添加到**客户订阅**列表中的 Azure 预订的客户的订阅。 
+4. Azure 预订必须与有效的 Azure 订阅相关联。 选择你想要添加到从**客户订阅**列表的 Azure 预订的客户的订阅。 
 
    >[!IMPORTANT]
    >如果客户已不具有有效的 Azure 订阅，请选择**联机服务**以立即添加一个。 
 
-5. 使用筛选器以满足你的客户的虚拟机上查找 Azure 预订。  
+5. 使用筛选器来满足你的客户的需求的虚拟机上查找 Azure 预订。  
 
-6. 查找你想要购买、 输入预留实例数的预留后客户将需要在**数量**，，然后选择**添加到购物车**上。  
+6. 查找你想要购买、 输入的预留实例数的预留后客户将需要在**数量**，，然后选择**添加到购物车**。  
 
 7. 重复步骤 5 和 6，直到已将所有必要的项添加到订单中。 选择**查看**以确认你的订单正确无误。  
 
@@ -122,13 +123,13 @@ ms.locfileid: "6075258"
     - 选择预订的范围。 预订的范围可以涵盖一个订阅或多个订阅（共享范围）。 如果你作用域为单个订阅预订，预订折扣仅此订阅。 如果你选择共享，则预订折扣向客户计费上下文内任何订阅。 
 
       >[!NOTE] 
-      >如果你选择预订的范围限制为单个 Azure 订阅，你可能需要增加订阅的 vCPU 配额。 若要提高订阅的 vCPU 配额，你将需要在 Azure 门户中创建支持请求。 按照说明[在本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)创建请求。    
+      >如果你选择预订的范围限制为单个 Azure 订阅，你可能需要增加订阅的 vCPU 配额。 若要提高订阅的 vCPU 配额，你将需要在 Azure 门户中创建支持请求。 请按照说明[在本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)创建请求。    
 
     - 如果你不提供商合作伙伴，选择你想要关联的产品经销商。
 
-9. 选择**购买**以购买订购的商品。 在**确认**页面上显示的订单，包括订单编号，详细信息。 选择**完成**以转到你的**订单历史记录**页面。 
+9. 选择**购买**以购买订购的商品。 在**确认**页面上显示你的订单，包括订单编号的详细信息。 选择**完成**以转到你的**订单历史记录**页面。 
 
-10. 若要管理的 Azure 门户中的客户的预订，在**客户**页面上查找客户，然后选择向下箭头以展开客户的行。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。
+10. 若要管理的 Azure 门户中的客户的预订，你**的客户**的页面上查找客户，然后选择向下箭头以展开客户的行。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
 |**若要获取相关信息**   |**请阅读以下内容**    |

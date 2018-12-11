@@ -2,18 +2,19 @@
 title: 分配支持联系人 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 作为经销商合作伙伴，你可以将经销商指定为支持联系人。
+description: 为客户设置 Microsoft 服务订阅时，你可能想要为指定的经销商分配这些产品的技术支持，而不是由你本人来提供支持。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: KPacquer
 ms.author: kenpacq
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
-ms.openlocfilehash: aba162f1a1fa0a5fc7f4337ac6eb0e513d680b74
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c1bcb937a6020e1e6508c6f53e2790680b625051
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795290"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917249"
 ---
 # <a name="assign-support-contacts"></a>分配支持联系人
 

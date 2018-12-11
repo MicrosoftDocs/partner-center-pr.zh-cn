@@ -7,12 +7,13 @@ ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e992a3cdfc0bbb01a303a8b00bfeda3cf60d1882
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797130"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917289"
 ---
 # <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a>将 Dynamics AX 订阅迁移到 Dynamics 365
 
@@ -69,9 +70,9 @@ Microsoft Dynamics AX 产品线于 2016 年 11 月 1 日停用。 若要了解�
 
 Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情况下，经销商可能需要将客户升级到新服务，或将他们的订阅从最终将关闭的 SKU 中迁出。 将客户从旧 SKU 中迁移到新 SKU 需要按照以下顺序操作：
 
--   [购买新订阅](#manual-subscription-migration-purchasenewsubsc)；
--   [重新分配当前用户许可证](#manual-subscription-migration-reassignlicenses)；
--   [取消旧订阅](#manual-subscription-migration-cancelsubscriptions)。
+-   [购买新订阅](#purchase-the-new-subscription)；
+-   [重新分配当前用户许可证](#reassign-user-license)；
+-   [取消旧订阅](#cancel-the-old-subscription)。
 
 以下过程将客户从 Microsoft Dynamics AX 或 CRM Online 移动到 Dynamics 365。
 
@@ -79,7 +80,7 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 <a href="" id="purchasenewsubsc"></a>
 
-**购买新订阅**
+### <a name="purchase-the-new-subscription"></a>购买新订阅
 
 1.  从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，选择**添加订阅**。
 2.  选择要从目录中购买的订阅（在此情况下是 Dynamics 365 for Operations 企业版）、输入许可证编号，然后选择**提交**。
@@ -88,9 +89,9 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 <a href="" id="reassignlicenses"></a>下一步是将所有现有用户许可证重新分配到新订阅。
 
-**重新分配用户许可证**
+### <a name="reassign-user-licenses"></a>重新分配用户许可证
 
-1.  从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动的客户然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
+1.  从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户和选择**用户和许可证**。 将打开客户的“用户和许可证”页。
 2.  若要重新分配用户许可证，选择要重新分配的用户，然后选择**管理许可证**。
 3.  在**管理许可证**页上，清除 **Dynamics AX Enterprise** 许可证复选框，然后选择 **Dynamics 365 for Operations** 许可证。
 4.  选择**提交**。 确认页面列出了新的许可证分配。
@@ -98,7 +99,7 @@ Microsoft 不断向经销商和提供商提供新产品和服务。 在这些情
 
 <a href="" id="cancelsubscriptions"></a>在将用户许可证移动至新服务后，可安全取消最高“客户”级别的旧订阅。
 
-**取消旧订阅**
+### <a name="cancel-the-old-subscription"></a>取消旧订阅
 
 1.  从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动的客户，选择你想要取消的订阅。
 2.  在订阅详细信息页面中，将订阅**状态**设置为**已暂停**。

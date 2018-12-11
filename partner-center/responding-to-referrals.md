@@ -2,17 +2,18 @@
 title: 响应引荐 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 通过合作伙伴中心评估、协商和响应引荐。
+description: 作为合格的 Microsoft 合作伙伴，你可以评估、 协商和响应引荐通过合作伙伴中心。
 author: KPacquer
 ms.author: kenpacq
 keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: d8305212477fab01e96cc966d404d5fa427e1faa
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: cc209f965f4a18d41baedaa993aeb3e21fcfc41e
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796170"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917609"
 ---
 # <a name="responding-to-referrals-in-partner-center"></a>在合作伙伴中心响应引荐
 

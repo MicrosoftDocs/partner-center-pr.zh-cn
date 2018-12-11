@@ -8,12 +8,13 @@ keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ccfcae0f6a31078e1c298ea6ee0293801c0f6b66
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.custom: seodec18
+ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
+ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795420"
+ms.lasthandoff: 12/11/2018
+ms.locfileid: "8917589"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
@@ -21,7 +22,8 @@ ms.locfileid: "5795420"
 
 -  合作伙伴中心
 -  美国政府 Microsoft 云合作伙伴中心
--  德国 Microsoft 云合作伙伴中心
+
+
 
 你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此，我们强烈建议你实施欺诈防范和检测风险缓解控制。
 
@@ -65,7 +67,7 @@ ms.locfileid: "5795420"
 #### <a name="post-purchase-customer-account-management"></a>购买后客户帐户管理
 - 与客户沟通，在了解他们的云使用业务需求的同时，设置适当的监测阈值
     > [!NOTE]  
-    >  你可以在合作伙伴中心在月份期间监视客户使用情况和客户接近预算时通知[设置每月的 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)。
+    >  你可以在指定月份内监视客户使用情况和客户接近预算时收到通知的合作伙伴中心中[设置每月的 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)。
 - 定期监测[客户活动日志](activity-logs.md)以帮助及早检测出欺诈行为
 - 在检测到可疑活动时快速采取行动
 - 在授予客户对订阅的完全管理访问权限之前，请务必先进行风险缓解控制
