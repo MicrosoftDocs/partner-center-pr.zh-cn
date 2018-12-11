@@ -1,6 +1,7 @@
 # [了解 Microsoft 合作伙伴中心](index.md)
 
 # [合作伙伴网络成员身份](mpn-overview.md)
+## [从 PMC 过渡到合作伙伴中心](pmc-to-partner-center.md)
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## 会员优惠
 ### [Action Pack](mpn-get-action-pack.md)
