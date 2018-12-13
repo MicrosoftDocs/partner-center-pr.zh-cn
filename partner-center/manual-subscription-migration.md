@@ -1,122 +1,107 @@
 ---
-title: 将 Dynamics AX 订阅迁移到 Dynamics 365 | 合作伙伴中心
+title: 将 Dynamics 365 和客户参与度计划从基本 （限定产品/服务） 迁移到较新版本 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
-description: Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。
+ms.date: 12/12/2018
+description: Dynamics 365 for Sales / 从 （限定产品/服务） 的基本订阅的客户参与度计划不再续订。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
-author: MaggiePucciEvans
-ms.author: evansma
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 276fe6a9b560df49fa255c7d2c6ff698152162c2
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+Keywords: Dynamics 365 offers, renew offers, new Dynamics 365 SKUs
+ms.openlocfilehash: b4b25dd80a684c9060b28461a9e6f594651ae224
+ms.sourcegitcommit: 23adf424dd43ed0281473f97d535d73c59c92b01
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917289"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "8968267"
 ---
-# <a name="migrate-dynamics-ax-subscriptions-to-dynamics-365"></a><span data-ttu-id="d34b8-103">将 Dynamics AX 订阅迁移到 Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="d34b8-103">Migrate Dynamics AX subscriptions to Dynamics 365</span></span>
+# <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a><span data-ttu-id="20b93-103">将 Dynamics 365 和客户参与度计划从基本 （限定产品/服务） 迁移到较新版本</span><span class="sxs-lookup"><span data-stu-id="20b93-103">Migrate Dynamics 365 and Customer Engagement Plan from Basic (qualified offers) to newer versions</span></span>
 
-**<span data-ttu-id="d34b8-104">适用于</span><span class="sxs-lookup"><span data-stu-id="d34b8-104">Applies to</span></span>**
+**<span data-ttu-id="20b93-104">适用范围</span><span class="sxs-lookup"><span data-stu-id="20b93-104">Applies to</span></span>**
 
--  <span data-ttu-id="d34b8-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d34b8-105">Partner Center</span></span>
+-  <span data-ttu-id="20b93-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="20b93-105">Partner Center</span></span>
 
-<span data-ttu-id="d34b8-106">Microsoft 引入了 Dynamics 365，这是下一代智能业务应用程序，可使组织成长、发展和转型，满足客户需求并抓住新机遇。</span><span class="sxs-lookup"><span data-stu-id="d34b8-106">Microsoft introduces Dynamics 365, the next generation of intelligent business applications that enable your organization to grow, evolve and transform to meet the needs of your customers and capture new opportunities.</span></span> <span data-ttu-id="d34b8-107">作为新产品的一部分，Microsoft 在 2016 年 11 月 1 日为客户引进了新 Microsoft Dynamics 订阅计划，该计划与当前计划类似但不相同。</span><span class="sxs-lookup"><span data-stu-id="d34b8-107">As part of the new product, Microsoft introduced new Microsoft Dynamics subscription plans for customers on November 1st, 2016, that are similar but not identical to your current plans.</span></span>
+<span data-ttu-id="20b93-106">Dynamics 365 for Sales 的有效于 2019 年 1 月 1 日，客户 / 从 （限定产品/服务） 的基本订阅的客户参与度计划可以不再续订这些旧的产品/服务。当它们到期时，现有订阅将不会自动续订。</span><span class="sxs-lookup"><span data-stu-id="20b93-106">Effective January 1, 2019, customers with Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offers) subscriptions can no longer renew these legacy offers; existing subscriptions will not renew automatically when they expire.</span></span> <span data-ttu-id="20b93-107">订阅的详细信息页面上的订阅状态将从"自动续订 [日期]"更改为"[日期] 过期"。</span><span class="sxs-lookup"><span data-stu-id="20b93-107">On the subscription’s detail page, the subscription status will change to "Expires on [date]" from "Auto renews on [date]".</span></span> 
 
-<span data-ttu-id="d34b8-108">本文档中的说明介绍了间接提供商如何将客户的现有 Microsoft Dynamics AX 订阅和 Microsoft Dymanics CRM Online 订阅转换为 Microsoft Dynamics 365。</span><span class="sxs-lookup"><span data-stu-id="d34b8-108">The instructions in this document describe how indirect providers can switch customers’ existing Microsoft Dynamics AX subscriptions and Microsoft Dymanics CRM Online subscriptions to Microsoft Dynamics 365.</span></span> <span data-ttu-id="d34b8-109">这些说明也适用于其他更新到新版本的 Microsoft 产品，需要提供商将客户订阅迁移到新 SKU。</span><span class="sxs-lookup"><span data-stu-id="d34b8-109">The instructions also apply to other Microsoft products that update to new versions, requiring providers to migrate customers’ subscriptions to a new SKU.</span></span>
 
-<span data-ttu-id="d34b8-110">Microsoft Dynamics CRM Online 和 AX 计划已停用。</span><span class="sxs-lookup"><span data-stu-id="d34b8-110">The Microsoft Dynamics CRM Online and AX plans are retired.</span></span>  <span data-ttu-id="d34b8-111">2017 年 7 月 1 日生效，你可以不再续订这些旧计划，此外，现有 E4 订阅在到期时将不会自动续订。</span><span class="sxs-lookup"><span data-stu-id="d34b8-111">Effective July 1, 2017, you can no longer renew into the legacy plans, also existing E4 subscriptions will not renew automatically when they expire.</span></span>
+<span data-ttu-id="20b93-108">若要确保客户服务连续性，你应该过渡那些到支持的选项，下面列出的订阅快过期。</span><span class="sxs-lookup"><span data-stu-id="20b93-108">To ensure continuity for customers, you should transition those with expiring subscriptions to a supported option, listed below.</span></span> <span data-ttu-id="20b93-109">建议在订阅年度结束日期之前将客户转移到新订阅，以避免出现任何客户服务中断。</span><span class="sxs-lookup"><span data-stu-id="20b93-109">We recommend moving customers to new subscriptions before the subscription’s yearly end date to avoid any service outages for customers.</span></span>
 
-<span data-ttu-id="d34b8-112">当 CRM Online 和 AX 订阅结束时，它们将会被取消。</span><span class="sxs-lookup"><span data-stu-id="d34b8-112">When CRM Online and AX subscriptions end, they will be canceled.</span></span> <span data-ttu-id="d34b8-113">为确保客户服务连续性，将具有即将到期订阅的客户过渡到下列支持的 SKU 选项。</span><span class="sxs-lookup"><span data-stu-id="d34b8-113">To ensure continuity for customers, plan to transition customers with expiring subscriptions to a supported SKU option, listed below.</span></span> <span data-ttu-id="d34b8-114">建议在订阅年度结束日期之前将客户转移到新订阅，以避免出现任何客户服务中断。</span><span class="sxs-lookup"><span data-stu-id="d34b8-114">We recommend moving customers to new subscriptions before the subscription’s yearly end date to avoid any service outages for customers.</span></span> 
+<span data-ttu-id="20b93-110">如果你使用 API （CREST 或合作伙伴中心），你可以找到通过评估以及自动订阅的结束日期即将到期订阅续订 = False 属性。</span><span class="sxs-lookup"><span data-stu-id="20b93-110">If you use the API (either CREST or Partner Center), you can find expiring subscriptions by evaluating the end date of the subscription along with the auto renew = False property.</span></span> <span data-ttu-id="20b93-111">问题的订阅将设置为自动续订 = False 于 2019 年 1 月 1 日。</span><span class="sxs-lookup"><span data-stu-id="20b93-111">The subscriptions in question will be set to auto renew=False on Jan 1, 2019.</span></span> <span data-ttu-id="20b93-112">你可以随时将客户移到新计划中。</span><span class="sxs-lookup"><span data-stu-id="20b93-112">You can move customers to a new plan at any time.</span></span> 
 
-<span data-ttu-id="d34b8-115">在订阅详细信息页面上，即将到期的订阅的状态会从“[日期] 自动续订”更改为“[日期] 过期”。</span><span class="sxs-lookup"><span data-stu-id="d34b8-115">On the subscription's detail page, you will see that for these expiring subscriptions, the subscription status has changed to "Expires on [date]" from "Auto renews on [date]".</span></span> 
+### <a name="the-dynamics-365-offers-being-retired"></a><span data-ttu-id="20b93-113">Dynamics 365 产品/服务被停用</span><span class="sxs-lookup"><span data-stu-id="20b93-113">The Dynamics 365 offers being retired</span></span>
 
-<span data-ttu-id="d34b8-116">如果你使用 API（CREST 或合作伙伴中心），则可以通过评估订阅的结束日期以及“自动续订 = False”属性来发现即将到期的订阅。2017 年 7 月 1 日，这些订阅已被设置为“自动续订 = False”。</span><span class="sxs-lookup"><span data-stu-id="d34b8-116">If you use the API (either CREST or Partner Center), you can discover expiring subscriptions by evaluating the end date of the subscription along with the auto renew = False property.The subscriptions were set to auto renew=False on July 1, 2017.</span></span> <span data-ttu-id="d34b8-117">你可以随时将客户移到新计划中。</span><span class="sxs-lookup"><span data-stu-id="d34b8-117">You can move customers to a new plan at any time.</span></span> 
-
-**<span data-ttu-id="d34b8-118">Microsoft Dynamics AX 授权更改</span><span class="sxs-lookup"><span data-stu-id="d34b8-118">Microsoft Dynamics AX licensing changes</span></span>**
-
-<span data-ttu-id="d34b8-119">Microsoft Dynamics AX 产品线于 2016 年 11 月 1 日停用。</span><span class="sxs-lookup"><span data-stu-id="d34b8-119">The Microsoft Dynamics AX product line was retired, effective November 1st, 2016.</span></span> <span data-ttu-id="d34b8-120">若要了解关于 Dynamics 365 的新授权选项的更多信息，请参阅[授权指南](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。</span><span class="sxs-lookup"><span data-stu-id="d34b8-120">To learn more about the new licensing options for Dynamics 365, review the [Licensing Guide](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).</span></span>
-
- <span data-ttu-id="d34b8-121">请参考下表，了解关于许可证映射的详细信息：</span><span class="sxs-lookup"><span data-stu-id="d34b8-121">Refer to the following table for details on license mapping:</span></span>
-
-|**<span data-ttu-id="d34b8-122">已停用的 SKU</span><span class="sxs-lookup"><span data-stu-id="d34b8-122">Retired SKU</span></span>**   |**<span data-ttu-id="d34b8-123">Dynamics 365 SKU</span><span class="sxs-lookup"><span data-stu-id="d34b8-123">Dynamics 365 SKU</span></span>**   |
-|-------------------|:----------------------|
-|<span data-ttu-id="d34b8-124">企业版 SKU</span><span class="sxs-lookup"><span data-stu-id="d34b8-124">Enterprise SKU</span></span>|<span data-ttu-id="d34b8-125">针对 Unified Operations 或 Microsoft Dynamics 365 计划的 Microsoft Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="d34b8-125">Microsoft Dynamics 365 for Unified Operations or Microsoft Dynamics 365 Plan</span></span> |
-|<span data-ttu-id="d34b8-126">任务</span><span class="sxs-lookup"><span data-stu-id="d34b8-126">Task</span></span>|<span data-ttu-id="d34b8-127">Microsoft Dynamics 365 for Activity</span><span class="sxs-lookup"><span data-stu-id="d34b8-127">Microsoft Dynamics 365 for Activity</span></span>
-|<span data-ttu-id="d34b8-128">任务/自助服务</span><span class="sxs-lookup"><span data-stu-id="d34b8-128">Task/self service</span></span>|<span data-ttu-id="d34b8-129">Microsoft Dynamics 365 for Team Members</span><span class="sxs-lookup"><span data-stu-id="d34b8-129">Microsoft Dynamics 365 for Team Members</span></span>|
-|<span data-ttu-id="d34b8-130">设备</span><span class="sxs-lookup"><span data-stu-id="d34b8-130">Device</span></span>|<span data-ttu-id="d34b8-131">Microsoft Dynamics 365 for Operations Device</span><span class="sxs-lookup"><span data-stu-id="d34b8-131">Microsoft Dynamics 365 for Operations Device</span></span>|
-
-## <a name="microsoft-dynamics-crm-online-licensing-changes"></a><span data-ttu-id="d34b8-132">Microsoft Dynamics CRM Online 授权更改</span><span class="sxs-lookup"><span data-stu-id="d34b8-132">Microsoft Dynamics CRM Online licensing changes</span></span> 
-
-**<span data-ttu-id="d34b8-133">Microsoft Dynamics CRM Online</span><span class="sxs-lookup"><span data-stu-id="d34b8-133">Microsoft Dynamics CRM Online</span></span>**
-
-<span data-ttu-id="d34b8-134">当前的 Microsoft Dynamics CRM Online 计划于 2016 年 11 月 1 日停用</span><span class="sxs-lookup"><span data-stu-id="d34b8-134">The current Microsoft Dynamics CRM Online plan was retired effective November 1, 2016.</span></span> <span data-ttu-id="d34b8-135">若要了解关于 microsoft Dynaics 365 的新授权选项的更多信息，请参阅[授权指南](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf)。</span><span class="sxs-lookup"><span data-stu-id="d34b8-135">To learn more about the new licensing options for microsoft Dynaics 365, review the [licensing guide](http://download.microsoft.com/documents/dynamics/pricing/Dynamics_365_Enterprise_edition_Licensing_Guide.pdf).</span></span> <span data-ttu-id="d34b8-136">若要了解有关新授权选项的详细信息，请参阅[面向 CRM Online 客户的重要信息](https://go.microsoft.com/fwlink/?linkid=831667)。</span><span class="sxs-lookup"><span data-stu-id="d34b8-136">See [Important information for CRM Online customers](https://go.microsoft.com/fwlink/?linkid=831667) to find out more about new licensing options.</span></span>
-
-<span data-ttu-id="d34b8-137">请参考下表，了解关于许可证映射的详细信息：</span><span class="sxs-lookup"><span data-stu-id="d34b8-137">Refer to the following table for details on license mapping:</span></span>
-
-|**<span data-ttu-id="d34b8-138">已停用的 SKU</span><span class="sxs-lookup"><span data-stu-id="d34b8-138">Retired SKU</span></span>**   |**<span data-ttu-id="d34b8-139">Dynamics 365 SKU</span><span class="sxs-lookup"><span data-stu-id="d34b8-139">Dynamics 365 SKU</span></span>**   |
-|-------------------|:----------------------|
-|<span data-ttu-id="d34b8-140">Enterprise</span><span class="sxs-lookup"><span data-stu-id="d34b8-140">Enterprise</span></span>|<span data-ttu-id="d34b8-141">Dynamics 365 企业客户参与度计划</span><span class="sxs-lookup"><span data-stu-id="d34b8-141">Dynamics 365 Enterprise Customer Engagement Plan</span></span> |
-|<span data-ttu-id="d34b8-142">Professional</span><span class="sxs-lookup"><span data-stu-id="d34b8-142">Professional</span></span>|<span data-ttu-id="d34b8-143">Dynamics 365 企业客户参与度计划计划、Dynamics 365 for Sales 或 Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="d34b8-143">Dynamics 365 Enterprise Customer Engagement Plan, Dynamics 365 for Sales, or Dynamics 365 for Customer Service</span></span>|
-|<span data-ttu-id="d34b8-144">Basic</span><span class="sxs-lookup"><span data-stu-id="d34b8-144">Basic</span></span>|<span data-ttu-id="d34b8-145">Dynamics 365 for Team Members、Dynamics 365 for Sales、Dynamics 365 for Customer Service 或 Dynamics 365 企业客户参与度计划</span><span class="sxs-lookup"><span data-stu-id="d34b8-145">Dynamics 365 for Team Members, Dynamics 365 for Sales, Dynamics 365 for Customer Service, or Dynamics 365 Enterprise Customer Engagement Plan</span></span>|
-|<span data-ttu-id="d34b8-146">Essential</span><span class="sxs-lookup"><span data-stu-id="d34b8-146">Essential</span></span>|<span data-ttu-id="d34b8-147">Dynamics 365 for Team Members</span><span class="sxs-lookup"><span data-stu-id="d34b8-147">Dynamics 365 for Team Members</span></span>|
-|<span data-ttu-id="d34b8-148">现场服务加载项</span><span class="sxs-lookup"><span data-stu-id="d34b8-148">Field service add-on</span></span>|<span data-ttu-id="d34b8-149">Dynamics 365 企业客户参与度计划或 Dynamics 365 for Field Service</span><span class="sxs-lookup"><span data-stu-id="d34b8-149">Dynamics 365 Enterprise Customer Engagement Plan or Dynamics 365 for Field Service</span></span>|
-|<span data-ttu-id="d34b8-150">项目服务自动化加载项</span><span class="sxs-lookup"><span data-stu-id="d34b8-150">Project Service Authomation Add-on</span></span>|<span data-ttu-id="d34b8-151">Dynamics 365 企业客户参与度计划或 Dynamics 365 for Project Service Automation</span><span class="sxs-lookup"><span data-stu-id="d34b8-151">Dynamics 365 Customer Engagement Plan or Dynamics 365 for Project Service Automation</span></span>|
+- <span data-ttu-id="20b93-114">Dynamics 365 销售企业版 CRMOL 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-114">Dynamics 365 for Sales Enterprise Edition CRMOL Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-115">Dynamics 365 销售企业版 CRMOL 基本 （限定产品/服务） （教职员工）</span><span class="sxs-lookup"><span data-stu-id="20b93-115">Dynamics 365 for Sales Enterprise Edition CRMOL Basic (Qualified Offer) for Faculty</span></span>
+- <span data-ttu-id="20b93-116">Dynamics 365 的学生的销售企业版 CRMOL 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-116">Dynamics 365 for Sales Enterprise Edition CRMOL Basic (Qualified Offer) for Students</span></span>
+- <span data-ttu-id="20b93-117">Dynamics 365 销售企业版 （政府定价） CRMOL 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-117">Dynamics 365 for Sales Enterprise Edition (Government Pricing) CRMOL Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-118">Dynamics 365 销售企业版从 SA CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-118">Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-119">Dynamics 365 销售企业版从 SA CRM 基本 （限定产品/服务） （教职员工）</span><span class="sxs-lookup"><span data-stu-id="20b93-119">Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) for Faculty</span></span>
+- <span data-ttu-id="20b93-120">Dynamics 365 销售企业版 SA CRM 基本 （限定产品/服务） 的学生从</span><span class="sxs-lookup"><span data-stu-id="20b93-120">Dynamics 365 for Sales Enterprise Edition From SA for CRM Basic (Qualified Offer) for Students</span></span>
+- <span data-ttu-id="20b93-121">Dynamics 365 销售企业版 （定价政府） 从 SA CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-121">Dynamics 365 for Sales Enterprise Edition (Government Pricing) From SA for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-122">Dynamics 365 销售企业版加载项 CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-122">Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-123">Dynamics 365 销售企业版加载项 （教职员工） CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-123">Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Faculty</span></span>
+- <span data-ttu-id="20b93-124">Dynamics 365 销售企业版加载项 （学生） CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-124">Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Students</span></span>
+- <span data-ttu-id="20b93-125">Dynamics 365 销售企业版 （政府定价） 加载项 CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-125">Dynamics 365 for Sales Enterprise Edition (Government Pricing) Add-On for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-126">Dynamics 365 客户参与度计划企业版 CRMOL Basic （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-126">Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-127">Dynamics 365 客户参与度计划企业版 （政府定价） CRMOL Basic （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-127">Dynamics 365 Customer Engagement Plan Enterprise Edition (Government Pricing) CRMOL Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-128">Dynamics 365 客户参与度计划企业版 CRMOL Basic （限定产品/服务） (学生）</span><span class="sxs-lookup"><span data-stu-id="20b93-128">Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (Qualified Offer) for Students</span></span>
+- <span data-ttu-id="20b93-129">Dynamics 365 客户参与度计划企业版 CRMOL Basic （限定产品/服务） (教职员工）</span><span class="sxs-lookup"><span data-stu-id="20b93-129">Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (Qualified Offer) for Faculty</span></span>
+- <span data-ttu-id="20b93-130">从 CRM 基本 （限定产品/服务） 的 SA Dynamics 365 客户参与度计划企业版</span><span class="sxs-lookup"><span data-stu-id="20b93-130">Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-131">Dynamics 365 客户参与度计划企业版 （定价政府） 从 SA CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-131">Dynamics 365 Customer Engagement Plan Enterprise Edition (Government Pricing) From SA for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-132">从 CRM 基本 （限定产品/服务） 的学生的 SA Dynamics 365 客户参与度计划企业版</span><span class="sxs-lookup"><span data-stu-id="20b93-132">Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Qualified Offer) for Students</span></span>
+- <span data-ttu-id="20b93-133">从教职员工有关 CRM 基本 （限定产品/服务） 的 SA Dynamics 365 客户参与度计划企业版</span><span class="sxs-lookup"><span data-stu-id="20b93-133">Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Qualified Offer) for Faculty</span></span>
+- <span data-ttu-id="20b93-134">Dynamics 365 客户参与度计划企业版的加载项 CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-134">Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-135">Dynamics 365 客户参与度计划企业版 （政府定价） 加载项 CRM Basic （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-135">Dynamics 365 Customer Engagement Plan Enterprise Edition (Government Pricing) Add-On for CRM Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-136">Dynamics 365 客户参与度计划企业版加载项 (学生） CRM Basic （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-136">Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Students</span></span>
+- <span data-ttu-id="20b93-137">Dynamics 365 客户参与度计划企业版的加载项 （教职员工） CRM 基本 （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-137">Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Faculty</span></span>
 
 
 
-## <a name="transition-customers-to-new-product-plans"></a><span data-ttu-id="d34b8-152">将客户过渡到新产品计划</span><span class="sxs-lookup"><span data-stu-id="d34b8-152">Transition customers to new product plans</span></span>
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a><span data-ttu-id="20b93-138">Dynamics 365 for Sales / 客户参与度计划从 （限定产品/服务） 的基本替换计划</span><span class="sxs-lookup"><span data-stu-id="20b93-138">Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offers) replacement plans</span></span>
+
+**<span data-ttu-id="20b93-139">已停用产品/服务</span><span class="sxs-lookup"><span data-stu-id="20b93-139">Retired offers</span></span>**   
+
+- <span data-ttu-id="20b93-140">Dynamics 365 for Sales 从 CRM 基本或 CRMOL Basic （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-140">Dynamics 365 for Sales from CRM Basic or CRMOL Basic (Qualified Offer)</span></span>
+- <span data-ttu-id="20b93-141">Dynamics 365 客户参与度计划从 CRM 基本或 CRMOL Basic （限定产品/服务）</span><span class="sxs-lookup"><span data-stu-id="20b93-141">Dynamics 365 Customer Engagement Plan from CRM Basic or CRMOL Basic (Qualified Offer)</span></span>
+
+**<span data-ttu-id="20b93-142">替换选项</span><span class="sxs-lookup"><span data-stu-id="20b93-142">Replacement options</span></span>**
+- <span data-ttu-id="20b93-143">Dynamics 365 的销售专业版 （新增）</span><span class="sxs-lookup"><span data-stu-id="20b93-143">Dynamics 365 for Sales Professional (NEW)</span></span>
+- <span data-ttu-id="20b93-144">Dynamics 365 的销售专业版 （新增）</span><span class="sxs-lookup"><span data-stu-id="20b93-144">Dynamics 365 for Sales Professional (NEW)</span></span>
+- <span data-ttu-id="20b93-145">Dynamics 365 for Customer Service</span><span class="sxs-lookup"><span data-stu-id="20b93-145">Dynamics 365 for Customer Service</span></span>
+- <span data-ttu-id="20b93-146">Dynamics 365 客户参与度计划或</span><span class="sxs-lookup"><span data-stu-id="20b93-146">Dynamics 365 Customer Engagement Plan or</span></span>
+- <span data-ttu-id="20b93-147">Dynamics 365 团队成员</span><span class="sxs-lookup"><span data-stu-id="20b93-147">Dynamics 365 Team Members</span></span>
 
 
-<span data-ttu-id="d34b8-153">Microsoft 不断向经销商和提供商提供新产品和服务。</span><span class="sxs-lookup"><span data-stu-id="d34b8-153">Microsoft continuously offers new products and services to resellers and providers.</span></span> <span data-ttu-id="d34b8-154">在这些情况下，经销商可能需要将客户升级到新服务，或将他们的订阅从最终将关闭的 SKU 中迁出。</span><span class="sxs-lookup"><span data-stu-id="d34b8-154">In these cases, a reseller may need to upgrade customers to new services or migrate their subscriptions from SKUs that will eventually be shut down.</span></span> <span data-ttu-id="d34b8-155">将客户从旧 SKU 中迁移到新 SKU 需要按照以下顺序操作：</span><span class="sxs-lookup"><span data-stu-id="d34b8-155">Migrating customers from old SKUs to newer ones requires the following sequence:</span></span>
 
--   <span data-ttu-id="d34b8-156">[购买新订阅](#purchase-the-new-subscription)；</span><span class="sxs-lookup"><span data-stu-id="d34b8-156">[Purchase the new subscription](#purchase-the-new-subscription);</span></span>
--   <span data-ttu-id="d34b8-157">[重新分配当前用户许可证](#reassign-user-license)；</span><span class="sxs-lookup"><span data-stu-id="d34b8-157">[Re-assign current user licenses](#reassign-user-license);</span></span>
--   <span data-ttu-id="d34b8-158">[取消旧订阅](#cancel-the-old-subscription)。</span><span class="sxs-lookup"><span data-stu-id="d34b8-158">[Cancel the old subscription](#cancel-the-old-subscription).</span></span>
+## <a name="transition-customers-to-new-product-plans"></a><span data-ttu-id="20b93-148">将客户过渡到新产品计划</span><span class="sxs-lookup"><span data-stu-id="20b93-148">Transition customers to new product plans</span></span>
 
-<span data-ttu-id="d34b8-159">以下过程将客户从 Microsoft Dynamics AX 或 CRM Online 移动到 Dynamics 365。</span><span class="sxs-lookup"><span data-stu-id="d34b8-159">In the following procedures, you move a customer from Microsoft Dynamics AX or CRM Online to Dynamics 365.</span></span>
+<span data-ttu-id="20b93-149">从已停用的 Sku 的客户移动到较新的需要按此顺序执行以下步骤：</span><span class="sxs-lookup"><span data-stu-id="20b93-149">Moving customers from retired SKUs to newer ones requires the following steps in this order:</span></span>
 
-<span data-ttu-id="d34b8-160">在该示例中，经销商需要将具有现有 Dynamics AX Enterprise 订阅的客户移至 Dynamics 365 for Operations。</span><span class="sxs-lookup"><span data-stu-id="d34b8-160">In this example, the reseller needs to move a customer with an existing subscription for Dynamics AX Enterprise to Dynamics 365 for Operations.</span></span> <span data-ttu-id="d34b8-161">第一步是购买 Dynamics 365 for Operations。</span><span class="sxs-lookup"><span data-stu-id="d34b8-161">Your first step is to purchase Dynamics 365 for Operations.</span></span>  <span data-ttu-id="d34b8-162">对于将移至 Microsoft Dynamics 365 的 CRM Online 客户，重复这些步骤。</span><span class="sxs-lookup"><span data-stu-id="d34b8-162">Repeat these steps for a CRM Online customer moving to Microsoft Dynamics 365.</span></span>
+- <span data-ttu-id="20b93-150">购买新订阅</span><span class="sxs-lookup"><span data-stu-id="20b93-150">Purchase the new subscription</span></span>
+- <span data-ttu-id="20b93-151">重新分配当前用户许可证</span><span class="sxs-lookup"><span data-stu-id="20b93-151">Reassign current user licenses</span></span>
+- <span data-ttu-id="20b93-152">取消旧订阅</span><span class="sxs-lookup"><span data-stu-id="20b93-152">Cancel old subscription</span></span>
 
-<a href="" id="purchasenewsubsc"></a>
+## <a name="purchase-the-new-plan-for-your-customer"></a><span data-ttu-id="20b93-153">为客户购买新计划</span><span class="sxs-lookup"><span data-stu-id="20b93-153">Purchase the new plan for your customer</span></span>
 
-### <a name="purchase-the-new-subscription"></a><span data-ttu-id="d34b8-163">购买新订阅</span><span class="sxs-lookup"><span data-stu-id="d34b8-163">Purchase the new subscription</span></span>
+1. <span data-ttu-id="20b93-154">从左侧导航中选择**客户**，然后选择你想要移动到新订阅的客户。</span><span class="sxs-lookup"><span data-stu-id="20b93-154">Select **Customers** from the left nav and then select the customer you want to move to the new subscription.</span></span>
+2. <span data-ttu-id="20b93-155">选择**添加订阅**。</span><span class="sxs-lookup"><span data-stu-id="20b93-155">Select **Add Subscription**.</span></span>
+3. <span data-ttu-id="20b93-156">从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="20b93-156">Select the subscription you want to purchase from the catalog (in this case, one of the options above), enter the number of licenses, and then select **Submit**.</span></span> 
 
-1.  <span data-ttu-id="d34b8-164">从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，选择**添加订阅**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-164">From the **Partner Center** menu, select **Customers**, select the customer you wish to move, and choose **Add Subscriptions**.</span></span>
-2.  <span data-ttu-id="d34b8-165">选择要从目录中购买的订阅（在此情况下是 Dynamics 365 for Operations 企业版）、输入许可证编号，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-165">Select the subscription you want to purchase from the catalog (in this case, Dynamics 365 for Operations, Enterprise Edition), enter the number of licenses, and choose **Submit**.</span></span>
+<span data-ttu-id="20b93-157">你的客户现在将具有旧订阅和新。</span><span class="sxs-lookup"><span data-stu-id="20b93-157">Your customer will now have both the old subscription and the new one.</span></span> <span data-ttu-id="20b93-158">下一步是许可证重新分配到客户的用户。</span><span class="sxs-lookup"><span data-stu-id="20b93-158">Your next step is to reassign licenses to the customer's users.</span></span>
 
-    <span data-ttu-id="d34b8-166">此时客户应该具有新旧两个订阅：在此示例中是旧的 Dynamics AX Enterprise 和新的“目标”订阅，即 Dynamics 365 for Operations 企业版。</span><span class="sxs-lookup"><span data-stu-id="d34b8-166">Your customer should now have both old and new subscriptions: in this example, the old Dynamics AX Enterprise, and the new ‘target’ subscription, Dynamics 365 for Operations, Enterprise Edition.</span></span>
+1. <span data-ttu-id="20b93-159">从左侧导航中选择**客户**，然后选择你要移动的客户。</span><span class="sxs-lookup"><span data-stu-id="20b93-159">Select **Customers** from the left nav and then select the customer you are moving.</span></span>
+2. <span data-ttu-id="20b93-160">选择**用户和许可证**。</span><span class="sxs-lookup"><span data-stu-id="20b93-160">Select **Users and licenses**.</span></span>
+3. <span data-ttu-id="20b93-161">若要重新分配用户许可证，选择用户，然后选择**管理许可证**。</span><span class="sxs-lookup"><span data-stu-id="20b93-161">To reassign a license to a user, select the user and then select **Manage licenses**.</span></span> 
+4. <span data-ttu-id="20b93-162">在**管理许可证**页上，清除 Dynamics 365 for Sales/从基本 （限定产品/服务） 的客户参与度计划许可证复选框，然后选择客户要迁移到的订阅的新服务计划。</span><span class="sxs-lookup"><span data-stu-id="20b93-162">On the **Manage licenses** page, clear the Dynamics 365 for Sales/ Customer Engagement Plan from Basic (Qualified Offer) license check box and select a new service plan for the subscription the customer is moving to.</span></span> 
+5. <span data-ttu-id="20b93-163">选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="20b93-163">Select **Submit**.</span></span> <span data-ttu-id="20b93-164">将每个用户都需要新许可证来执行此操作。</span><span class="sxs-lookup"><span data-stu-id="20b93-164">You will do this for each user who needs the new license.</span></span> 
 
-<a href="" id="reassignlicenses"></a><span data-ttu-id="d34b8-167">下一步是将所有现有用户许可证重新分配到新订阅。</span><span class="sxs-lookup"><span data-stu-id="d34b8-167">The next step is to reassign all existing user licenses to the new subscription.</span></span>
+<span data-ttu-id="20b93-165">你已移许可证的新订阅后您可以取消旧订阅。</span><span class="sxs-lookup"><span data-stu-id="20b93-165">Once you've moved the licenses over to the new subscription you can cancel the old subscription.</span></span> 
 
-### <a name="reassign-user-licenses"></a><span data-ttu-id="d34b8-168">重新分配用户许可证</span><span class="sxs-lookup"><span data-stu-id="d34b8-168">Reassign user licenses</span></span>
+1. <span data-ttu-id="20b93-166">从左侧导航中选择**客户**，然后选择你要移动的客户。</span><span class="sxs-lookup"><span data-stu-id="20b93-166">Select **Customers** from the left nav and then select the customer you are moving.</span></span>
+2. <span data-ttu-id="20b93-167">在订阅详细信息页上，设置为**已暂停**的旧订阅，并选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="20b93-167">On the subscription detail page, set the old subscription to **Suspended** and select **Submit**.</span></span>
 
-1.  <span data-ttu-id="d34b8-169">从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户和选择**用户和许可证**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-169">From the **Partner Center** menu, select **Customers**, select the customer you wish to move, and choose **Users and licenses**.</span></span> <span data-ttu-id="d34b8-170">将打开客户的“用户和许可证”页。</span><span class="sxs-lookup"><span data-stu-id="d34b8-170">The customer’s Users and Licenses page opens.</span></span>
-2.  <span data-ttu-id="d34b8-171">若要重新分配用户许可证，选择要重新分配的用户，然后选择**管理许可证**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-171">To re-assign user licenses, select the user to reassign and then select **Manage licenses**.</span></span>
-3.  <span data-ttu-id="d34b8-172">在**管理许可证**页上，清除 **Dynamics AX Enterprise** 许可证复选框，然后选择 **Dynamics 365 for Operations** 许可证。</span><span class="sxs-lookup"><span data-stu-id="d34b8-172">On the **Manage licenses** page, clear the **Dynamics AX Enterprise** license check box and select the **Dynamics 365 for Operations** license.</span></span>
-4.  <span data-ttu-id="d34b8-173">选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-173">Select **Submit**.</span></span> <span data-ttu-id="d34b8-174">确认页面列出了新的许可证分配。</span><span class="sxs-lookup"><span data-stu-id="d34b8-174">A confirmation page lists the new license assignments.</span></span>
-5.  <span data-ttu-id="d34b8-175">对其他任何需要重新分配许可证的客户用户继续执行相同的步骤。</span><span class="sxs-lookup"><span data-stu-id="d34b8-175">Continue the same steps with any other customer users that need license reassignment.</span></span>
-
-<a href="" id="cancelsubscriptions"></a><span data-ttu-id="d34b8-176">在将用户许可证移动至新服务后，可安全取消最高“客户”级别的旧订阅。</span><span class="sxs-lookup"><span data-stu-id="d34b8-176">After moving the user licenses to the new service, you can safely cancel the old subscription at the top Customer level.</span></span>
-
-### <a name="cancel-the-old-subscription"></a><span data-ttu-id="d34b8-177">取消旧订阅</span><span class="sxs-lookup"><span data-stu-id="d34b8-177">Cancel the old subscription</span></span>
-
-1.  <span data-ttu-id="d34b8-178">从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动的客户，选择你想要取消的订阅。</span><span class="sxs-lookup"><span data-stu-id="d34b8-178">From the **Partner Center** menu, select **Customers**, select the customer you wish to move, and select the subscription you want to cancel.</span></span>
-2.  <span data-ttu-id="d34b8-179">在订阅详细信息页面中，将订阅**状态**设置为**已暂停**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-179">In the subscription details page, set the subscription **Status** to **Suspended**.</span></span>
-3.  <span data-ttu-id="d34b8-180">选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="d34b8-180">Select **Submit**.</span></span>
-
-<span data-ttu-id="d34b8-181">旧订阅已暂停，新订阅将激活。</span><span class="sxs-lookup"><span data-stu-id="d34b8-181">The old subscription is suspended, and the new subscription is active.</span></span> <span data-ttu-id="d34b8-182">暂停的订阅在 120 天后将自动取消预配。</span><span class="sxs-lookup"><span data-stu-id="d34b8-182">The suspended subscription will automatically be de-provisioned after 120 days.</span></span> <span data-ttu-id="d34b8-183">不会向客户收取旧订阅的任何额外成本。</span><span class="sxs-lookup"><span data-stu-id="d34b8-183">The customer incurs no additional costs for the old subscription.</span></span>
-
-## <a name="additional-considerations"></a><span data-ttu-id="d34b8-184">其他注意事项</span><span class="sxs-lookup"><span data-stu-id="d34b8-184">Additional considerations</span></span>
-
-
-<span data-ttu-id="d34b8-185">如果客户从“开放渠道”移动至“云服务计划”以进一步预配订阅，还需要迁移他们的现有订阅：</span><span class="sxs-lookup"><span data-stu-id="d34b8-185">If your customer is moving from the Open Channel to the Cloud Services Program for further subscription provisioning, you will also need to migrate their existing subscriptions:</span></span>
-
--   <span data-ttu-id="d34b8-186">如果客户通过“开放渠道”接收旧订阅，可直接移动到新 SKU 上的云解决方案提供商。</span><span class="sxs-lookup"><span data-stu-id="d34b8-186">If the customer received their old subscription through the Open Channel, moving to the CSP on the new SKU is straightforward.</span></span>
--   <span data-ttu-id="d34b8-187">如果客户尚未成为你的客户，可向他们发出邀请。</span><span class="sxs-lookup"><span data-stu-id="d34b8-187">If the customer is not yet established as your customer, you can invite them.</span></span> <span data-ttu-id="d34b8-188">有关信息，请参阅[请求与客户建立关系](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx)帮助主题。</span><span class="sxs-lookup"><span data-stu-id="d34b8-188">For information, see the [Request a relationship with a customer](https://msdn.microsoft.com/en-us/library/partnercenter/mt750320.aspx) help topic.</span></span>
-
-<span data-ttu-id="d34b8-189">在客户接受你成为他们的间接提供商后，预配步骤与上述步骤大致相同：购买新订阅，然后分配用户许可证。</span><span class="sxs-lookup"><span data-stu-id="d34b8-189">After the customer accepts you as their indirect provider, the provisioning steps are mostly the same as described above: you purchase the new subscription, and then assign the user licenses.</span></span> <span data-ttu-id="d34b8-190">唯一的区域是取消旧订阅。</span><span class="sxs-lookup"><span data-stu-id="d34b8-190">The only difference involves cancellation of old subscription(s).</span></span> <span data-ttu-id="d34b8-191">新提供商无法暂停/取消通过其他渠道获取的订阅。</span><span class="sxs-lookup"><span data-stu-id="d34b8-191">A new provider cannot cancel suspend/cancel subscriptions acquired via other channels.</span></span> <span data-ttu-id="d34b8-192">如果客户在其他销售渠道（例如开放渠道）获取了以前的订阅，需要通过该渠道自行取消。</span><span class="sxs-lookup"><span data-stu-id="d34b8-192">If the customer acquired prior subscriptions in another sales channel, such as the Open channel, the customer will need to cancel it themselves through that channel.</span></span>
-
+<span data-ttu-id="20b93-168">旧订阅现在暂停，并且新订阅处于活动状态。</span><span class="sxs-lookup"><span data-stu-id="20b93-168">The old subscription is now suspended, and the new subscription is active.</span></span> <span data-ttu-id="20b93-169">暂停的订阅在 120 天后将自动取消预配。</span><span class="sxs-lookup"><span data-stu-id="20b93-169">The suspended subscription will be de-provisioned automatically after 120 days.</span></span> <span data-ttu-id="20b93-170">你的客户将产生的旧订阅任何额外成本。</span><span class="sxs-lookup"><span data-stu-id="20b93-170">Your customer will incur no additional costs for the old subscription.</span></span>
  
 
  
