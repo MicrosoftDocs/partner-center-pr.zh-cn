@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1907212ff56bed8b3e3345c51bbf79770f2699c8
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
+ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683766"
+ms.lasthandoff: 12/18/2018
+ms.locfileid: "8973897"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -37,7 +37,7 @@ ms.locfileid: "8683766"
 
 **注意**当你需要为你在 Azure 中的客户创建服务请求时，应注意以下：
 
-- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限，客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
+- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限的客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
 
 - 尽管在合作伙伴中心的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
 
@@ -48,8 +48,22 @@ ms.locfileid: "8683766"
 
 3.  稍后在 Microsoft Azure 门户中查看你的客户的服务请求，方法是选择**管理支持请求**。
 
+你可能需要为客户创建支持请求，当没有为该客户的管理员权限。 这可能发生在两种方案之一： 
+ 
+-   首先建立关系时，你未请求管理员权限。
+-   管理客户的 Azure 订阅并无其他人，这不需要你具有管理权限。
+ 
+在两种情况下，你可以使用以下过程以创建支持请求。 
 
+1.  从客户在合作伙伴中心中的帐户页面中复制客户的域名。
 
+2.  转到https://portal.azure.com/[customerdomainname]。 
+
+3.  选择需要支持的 Azure 订阅。
+
+4.  选择**新支持请求**，，然后按照提示创建请求。 
+
+ 
 **Office 365、Microsoft Dynamics CRM Online、企业移动性套件**
 
 1. 在**创建服务请求**部分中，选择相应的支持主题类别。 可能需要选择**更多…** 查看其他主题。    
@@ -97,9 +111,9 @@ ms.locfileid: "8683766"
 
 **如何获取其他 Dynamics 365 支持？**
 
- 如果你遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和运营、 IURs 或你需要进一步技术支持：
+ 如果你遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
  
-请联系[支持人员 Dynamics](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
+与[Dynamics 支持](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)人员联系
 
 阅读[Microsoft Dynamics 支持](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
