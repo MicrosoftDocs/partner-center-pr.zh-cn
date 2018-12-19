@@ -1,18 +1,18 @@
 ---
 title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
 ms.topic: article
-ms.date: 12/7/2018
+ms.date: 12/18/2018
 description: 作为经销商合作伙伴，你的客户可以委派你其管理员。它们还可以删除该权限。
 author: labrenne
 ms.author: labrenne
 keywords: 委派的管理员权限，代表管理员，删除权限，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: bb92bca26c3b6c73750a5bc02f2833172006d0ff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917499"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976814"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
@@ -44,11 +44,11 @@ ms.locfileid: "8917499"
 
 你的客户可以查找哪些合作伙伴具有在 Office 365 管理门户中从其租户的管理员权限。 若要实现此目的，请执行以下操作：
 
-1. 客户需要登录到 Office 365 admin 门户作为全局管理员。
+1. 客户需要登录到 Office 365 管理门户作为全局管理员。
 
 2. 选择**设置** → **合作伙伴关系**。
 
-3. 在**合作伙伴关系**页面上，客户将看到的合作伙伴与其它们的工作和已授予其租户的委派管理权限的列表。
+3. 在**合作伙伴关系**页面中，客户将看到合作伙伴与其它们的工作，并且这些已被授予其租户的委派管理权限的列表。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客户可以管理合作伙伴的委派管理员权限 
 
@@ -93,13 +93,13 @@ ms.locfileid: "8917499"
 
 <!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-从合作伙伴中心，云解决方案提供商合作伙伴可以为其客户没有委派的管理员权限在这些情况下管理 Autopilot 配置文件： 
+从合作伙伴中心，云解决方案提供商合作伙伴可以为没有委派的管理员权限在这些情况下客户管理 Autopilot 配置文件： 
 
 - 如果客户删除委派的管理权限，但保留与你建立经销商关系，你可以继续为他们管理 Autopilot 配置文件。
 
 - 你可以管理你或其他合作伙伴已添加的客户设备。 
 
-- 你不能管理你的客户已通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加的设备。
+- 你不能管理通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加了你的客户的设备。
 
 有关 Autopilot 的详细信息，请参阅[利用 Windows Autopilot 简化设备设置](https://docs.microsoft.com/partner-center/autopilot)。
 
@@ -108,4 +108,4 @@ ms.locfileid: "8917499"
 
 - 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
 
-- 合作伙伴必须被授予委派的管理权限客户之前，合作伙伴可以删除设备添加由其他合作伙伴或客户租户中的客户。 否则，合作伙伴可以删除自己之前添加的相同的合作伙伴的设备。
+- 合作伙伴必须被授予委派的管理权限客户之前，合作伙伴可以删除添加由其他合作伙伴或客户租户中的客户的设备。 否则，合作伙伴可以删除自己之前添加的同一个合作伙伴的设备。
