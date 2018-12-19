@@ -1,113 +1,160 @@
 ---
-title: 利用 Windows Autopilot 简化设备设置 | 合作伙伴中心
-ms.topic: article
-ms.date: 10/29/2018
-description: 利用 Windows AutoPilot 在合作伙伴中心内添加 Windows AutoPilot 部署配置文件以简化设备设置
-author: KPacquer
-ms.author: kenpacq
-keywords: autopilot, windows autopilot, microsoft autopilot, 零接触部署, oobe, 登录屏幕
+title: 自定义设备的现成的体验的 Windows Autopilot 配置文件 |合作伙伴中心
+description: 预配置的 Autopilot 配置文件的设备的现成的体验。
+author: maggiepuccievans
+keywords: autopilot，windows autopilot、 microsoft autopilot，零接触部署，oobe，登录屏幕，现成的
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6e6e015424eb8be83bae21b2e15bdc072e480b
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 7df979042799954c5b43a2adef1915941db02e57
+ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917559"
+ms.lasthandoff: 12/19/2018
+ms.locfileid: "8976804"
 ---
-<!--Maggie, 12/7/18 - removed line telling indirect resellers to go through their indirect providers for autopilot stuff as per Bhavya Chopra in bug 19841770.-->
+# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a><span data-ttu-id="527e3-104">自定义的 Windows Autopilot 配置文件的设备的现成的体验</span><span class="sxs-lookup"><span data-stu-id="527e3-104">Customize a device's out-of-box experience with Windows Autopilot profiles</span></span>
 
-# <a name="simplify-device-setup-with-windows-autopilot"></a><span data-ttu-id="0535f-104">利用 Windows Autopilot 简化设备设置</span><span class="sxs-lookup"><span data-stu-id="0535f-104">Simplify device setup with Windows Autopilot</span></span> 
+**<span data-ttu-id="527e3-105">适用范围</span><span class="sxs-lookup"><span data-stu-id="527e3-105">Applies to</span></span>**
 
-<span data-ttu-id="0535f-105">Windows Autopilot 可在首次启动时简化和保护新 Windows 10 专业版设备的设备设置，而这只需几个步骤即可实现。</span><span class="sxs-lookup"><span data-stu-id="0535f-105">Windows Autopilot streamlines and secures device setup for new Windows 10 Pro devices from first boot in only a few steps.</span></span> <span data-ttu-id="0535f-106">若要了解详细信息，请参阅 [Windows AutoPilot 概述](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)。</span><span class="sxs-lookup"><span data-stu-id="0535f-106">To learn more, see [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).</span></span>
+- <span data-ttu-id="527e3-106">云解决方案提供商直接帐单合作伙伴，间接提供商和间接经销商</span><span class="sxs-lookup"><span data-stu-id="527e3-106">CSP direct-bill partners, indirect providers, and indirect resellers</span></span>
 
-## <a name="features"></a><span data-ttu-id="0535f-107">功能</span><span class="sxs-lookup"><span data-stu-id="0535f-107">Features</span></span>
+<span data-ttu-id="527e3-107">如果你管理客户的设备，你可能需要自定义的全新体验 (OOBE) 的客户的用户。</span><span class="sxs-lookup"><span data-stu-id="527e3-107">If you manage customer devices, you may need to customize the out-of-box experience (OOBE) for the customer's users.</span></span> <span data-ttu-id="527e3-108">你可以交付给客户的设备之前预配置新设备的 Windows Autopilot 配置文件，并将新的配置文件应用到客户已购买的设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-108">You can pre-configure new devices with Windows Autopilot profiles before delivering the devices to customers and apply new profiles to devices customers have already purchased.</span></span> <span data-ttu-id="527e3-109">本文介绍了如何创建 Autopilot 配置文件并应用到合作伙伴中心中的设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-109">This article explains how to create and apply Autopilot profiles to devices in Partner Center.</span></span>
 
-- <span data-ttu-id="0535f-108">对设置设备的最终用户**禁用本地管理员权限**</span><span class="sxs-lookup"><span data-stu-id="0535f-108">**Disable local administrator permissions** for the end users setting up devices</span></span>
-- <span data-ttu-id="0535f-109">**显示组织的登录页面**。</span><span class="sxs-lookup"><span data-stu-id="0535f-109">**Show an organization's login page**.</span></span> <span data-ttu-id="0535f-110">组织可以预定义登录页面，以将设备添加为工作设备，并使用 Azure Active Directory 加入设备。</span><span class="sxs-lookup"><span data-stu-id="0535f-110">The organization can pre-define a logon page that adds the device as a work device, and joins the device with Azure Active Directory.</span></span>
-- <span data-ttu-id="0535f-111">在 OOBE 完成后，**将设备注册到 Mobile Device Manager (MDM) 中**，例如 Microsoft Intune。</span><span class="sxs-lookup"><span data-stu-id="0535f-111">**Enroll the device into a Mobile Device Manager (MDM)**, for example: Microsoft Intune, after OOBE is complete.</span></span>
-- <span data-ttu-id="0535f-112">利用 Windows AutoPilot 部署配置文件，**简化全新安装体验 (OOBE)**，以仅使用所需的步骤和决策。</span><span class="sxs-lookup"><span data-stu-id="0535f-112">**Streamline the out-of-box experience (OOBE)** to use just the steps and decisions required, using a Windows AutoPilot Deployment profile.</span></span>
+<span data-ttu-id="527e3-110">如果你还不熟悉使用 Autopilot，查看这些文章中的信息：</span><span class="sxs-lookup"><span data-stu-id="527e3-110">If you're not already familiar with Autopilot, review the information in these articles:</span></span>
 
-## <a name="requirements"></a><span data-ttu-id="0535f-113">要求</span><span class="sxs-lookup"><span data-stu-id="0535f-113">Requirements</span></span>
+- [<span data-ttu-id="527e3-111">Windows Autopilot 概述</span><span class="sxs-lookup"><span data-stu-id="527e3-111">Overview of Windows Autopilot</span></span>](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [<span data-ttu-id="527e3-112">Autopilot 部署参考指南</span><span class="sxs-lookup"><span data-stu-id="527e3-112">Autopilot deployment reference guide</span></span>](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-- <span data-ttu-id="0535f-114">设备预安装 Windows 10 专业版创意者更新（1703 或更高版本）或支持高级 PC 的 Windows 10 专业版。</span><span class="sxs-lookup"><span data-stu-id="0535f-114">Devices pre-installed with Windows 10 Pro Creators Update (version 1703 or later) or Windows 10 Pro for Advanced PCs.</span></span>
-- <span data-ttu-id="0535f-115">称为硬件哈希值（128 HWH 或 4k HWH）的设备标识符，这通常由 OEM 提供。</span><span class="sxs-lookup"><span data-stu-id="0535f-115">Device identifier known as a hardware hash (128 HWH or 4k HWH), which is typically provided by an OEM.</span></span> <span data-ttu-id="0535f-116">你将使用标识符分配合作伙伴中心中的组织配置文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-116">You'll use identifiers to assign organization profiles in the Partner Center.</span></span>
-- <span data-ttu-id="0535f-117">设备必须可访问 Internet。</span><span class="sxs-lookup"><span data-stu-id="0535f-117">The devices must have access to the internet.</span></span> <span data-ttu-id="0535f-118">设备如果无法连接，则显示默认的 Windows 全新安装体验 (OOBE) 屏幕。</span><span class="sxs-lookup"><span data-stu-id="0535f-118">When the device can’t connect, it shows the default Windows out-of-box experience (OOBE) screens.</span></span>
-- <span data-ttu-id="0535f-119">将设备注册到 MDM 需要 Azure Active Directory Premium。</span><span class="sxs-lookup"><span data-stu-id="0535f-119">Enrolling the device into an MDM requires Azure Active Directory Premium.</span></span>
+## <a name="overview"></a><span data-ttu-id="527e3-113">概述</span><span class="sxs-lookup"><span data-stu-id="527e3-113">Overview</span></span>
 
-## <a name="add-company-branded-sign-in-pages-to-oobe"></a><span data-ttu-id="0535f-120">向 OOBE 中添加的公司品牌登录页面</span><span class="sxs-lookup"><span data-stu-id="0535f-120">Add company-branded sign-in pages to OOBE</span></span>
+<span data-ttu-id="527e3-114">与合作伙伴中心中的 Windows Autopilot 功能，你可以创建用于适用于客户设备的自定义配置文件。</span><span class="sxs-lookup"><span data-stu-id="527e3-114">With the Windows Autopilot feature in Partner Center, you can create custom profiles to apply to customer devices.</span></span> <span data-ttu-id="527e3-115">在本文发表的时，以下配置文件设置都不可用：</span><span class="sxs-lookup"><span data-stu-id="527e3-115">The following profile settings were available at the time this article was published:</span></span>
 
-<span data-ttu-id="0535f-121">若要添加特定于公司的页面，将设备添加到贵公司的[Azure AD 目录](https://go.microsoft.com/fwlink/?linkid=848958)，并创建登录页面。</span><span class="sxs-lookup"><span data-stu-id="0535f-121">To add company-specific pages, add the devices into your company's [Azure AD directory](https://go.microsoft.com/fwlink/?linkid=848958) and create login pages.</span></span>
+- <span data-ttu-id="527e3-116">跳过隐私设置。</span><span class="sxs-lookup"><span data-stu-id="527e3-116">Skip privacy settings.</span></span> <span data-ttu-id="527e3-117">此可选的 Autopilot 配置文件设置可让组织在 OOBE 过程中不询问有关隐私设置。</span><span class="sxs-lookup"><span data-stu-id="527e3-117">This optional Autopilot profile setting enables organizations to not ask about privacy settings during the OOBE process.</span></span>
 
-## <a name="remove-windows-pages-from-oobe-with-a-windows-autopilot-deployment-profile"></a><span data-ttu-id="0535f-122">利用 Windows AutoPilot 部署配置文件从 OOBE 中删除 Windows 页面</span><span class="sxs-lookup"><span data-stu-id="0535f-122">Remove Windows pages from OOBE with a Windows AutoPilot deployment profile</span></span>
+- <span data-ttu-id="527e3-118">禁用在设备上的创建本地管理员帐户。</span><span class="sxs-lookup"><span data-stu-id="527e3-118">Disable local admin account creation on the device.</span></span> <span data-ttu-id="527e3-119">组织可以决定是否过程完成后，设置设备的用户应拥有管理员访问权限。</span><span class="sxs-lookup"><span data-stu-id="527e3-119">Organizations can decide whether the user setting up the device should have administrator access once the process is complete.</span></span>
 
-### <a name="examples-of-settings-in-a-windows-autopilot-deployment-profile"></a><span data-ttu-id="0535f-123">Windows AutoPilot 部署配置文件中的设置示例</span><span class="sxs-lookup"><span data-stu-id="0535f-123">Examples of settings in a Windows AutoPilot deployment profile</span></span>
+- <span data-ttu-id="527e3-120">自动设置为工作单位或学校的设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-120">Automatically set up device for work or school.</span></span> <span data-ttu-id="527e3-121">使用 Autopilot 注册的所有设备自动将被视为工作或学校的设备，因此不会在 OOBE 过程中要求此问题。</span><span class="sxs-lookup"><span data-stu-id="527e3-121">All devices registered with Autopilot will automatically be considered work or school devices, so this question will not be asked during the OOBE process.</span></span>
 
-- <span data-ttu-id="0535f-124">在设置中跳过“隐私设置”</span><span class="sxs-lookup"><span data-stu-id="0535f-124">Skip Privacy Settings in setup</span></span>
-- <span data-ttu-id="0535f-125">在设置中禁用本地管理员帐户</span><span class="sxs-lookup"><span data-stu-id="0535f-125">Disable local admin account in setup</span></span>
-- <span data-ttu-id="0535f-126">在设置中自动跳过页面</span><span class="sxs-lookup"><span data-stu-id="0535f-126">Automatically skip pages in setup</span></span>
-  - <span data-ttu-id="0535f-127">为工作单位或学校自动选择设置</span><span class="sxs-lookup"><span data-stu-id="0535f-127">Automatically select setup for work or school</span></span>
-  - <span data-ttu-id="0535f-128">跳过 Cortana、OneDrive 和 OEM 注册设置页面</span><span class="sxs-lookup"><span data-stu-id="0535f-128">Skip Cortana, OneDrive, and OEM registration setup pages</span></span>
+- <span data-ttu-id="527e3-122">跳过 Cortana、 OneDrive 和 OEM 注册设置页面。</span><span class="sxs-lookup"><span data-stu-id="527e3-122">Skip Cortana, OneDrive, and OEM registration setup pages.</span></span> <span data-ttu-id="527e3-123">使用 Autopilot 注册的所有设备将在外的全新体验 (OOBE) 过程中自动跳都过这些页面。</span><span class="sxs-lookup"><span data-stu-id="527e3-123">All devices registered with Autopilot will automatically skip these pages during the out-of-box experience (OOBE) process.</span></span>
 
-### <a name="add-devices-and-apply-a-profile"></a><span data-ttu-id="0535f-129">添加设备和应用配置文件</span><span class="sxs-lookup"><span data-stu-id="0535f-129">Add devices and apply a profile</span></span>
+- <span data-ttu-id="527e3-124">跳过最终用户许可协议 (EULA)。</span><span class="sxs-lookup"><span data-stu-id="527e3-124">Skip End User License Agreement (EULA).</span></span> <span data-ttu-id="527e3-125">从 Windows 10 版本 1709年开始，组织可以决定跳过 EULA 页在 OOBE 过程中显示。</span><span class="sxs-lookup"><span data-stu-id="527e3-125">Starting in Windows 10 version 1709, organizations can decide to skip the EULA page presented during the OOBE process.</span></span> <span data-ttu-id="527e3-126">请参阅[Windows Autopilot EULA 解除](#windows-autopilot-eula-dismissal)下面的重要信息要考虑在 Windows 安装程序期间跳过 EULA 页。</span><span class="sxs-lookup"><span data-stu-id="527e3-126">See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.</span></span>
 
-<span data-ttu-id="0535f-130">从合作伙伴中心中，你可以创建 Windows AutoPilot 部署配置文件，并将其应用于设备的列表。</span><span class="sxs-lookup"><span data-stu-id="0535f-130">From Partner Center, you can create a Windows AutoPilot deployment profile and apply it to a list of the devices.</span></span>
+<span data-ttu-id="527e3-127">以下配置文件和设备管理权限和限制应用：</span><span class="sxs-lookup"><span data-stu-id="527e3-127">The following profile and device management permissions and limitations apply:</span></span>
 
-<span data-ttu-id="0535f-131">若要配置设备，请上传设备列表，然后创建应用于设备的配置文件并应用它。</span><span class="sxs-lookup"><span data-stu-id="0535f-131">To configure devices, upload a list of the devices, create a profile that applies to the devices, and apply it.</span></span>
+- <span data-ttu-id="527e3-128">云解决方案提供商合作伙伴可以继续与其它们具有经销商关系的现有客户管理 Autopilot 配置文件，即使客户已删除合作伙伴的委派的管理权限。</span><span class="sxs-lookup"><span data-stu-id="527e3-128">CSP partners can continue to manage Autopilot profiles for existing customers with whom they have reseller relationships, even if the customers have removed the partner's delegated administration privileges.</span></span>
 
-1.  <span data-ttu-id="0535f-132">添加设备列表。</span><span class="sxs-lookup"><span data-stu-id="0535f-132">Add the list of devices.</span></span>
+- <span data-ttu-id="527e3-129">你可以为你已由你或其他云解决方案提供商合作伙伴的客户管理现有设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-129">You can manage existing devices for your customers that have been added either by you or by another CSP partner.</span></span>
 
-    <span data-ttu-id="0535f-133">（销售代理和管理员代理有权将设备列表添加到合作伙伴中心内。）</span><span class="sxs-lookup"><span data-stu-id="0535f-133">Sales agents and admin agents have access to add the list of devices into Partner Center.</span></span>
+- <span data-ttu-id="527e3-130">不能管理客户已上传到适用于企业的 Microsoft Store 或 Microsoft Intune 门户的设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-130">You can’t manage devices your customer has uploaded to Microsoft Store for Business or the Microsoft Intune Portal.</span></span>
 
-    <span data-ttu-id="0535f-134">a.</span><span class="sxs-lookup"><span data-stu-id="0535f-134">a.</span></span> <span data-ttu-id="0535f-135">创建使用[Windows AutoPilot 概述](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)主题中的 PowerShell 脚本的.csv 文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-135">Create a .csv file using the PowerShell script from the topic [Overview of Windows AutoPilot](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot).</span></span> <span data-ttu-id="0535f-136">此 .csv 文件包含设备信息，其中包括序列号、OEM 名称、型号、产品 ID 和设备标识符。</span><span class="sxs-lookup"><span data-stu-id="0535f-136">This .csv file contains device info including the serial number, OEM name, model name, product ID and device identifier.</span></span> 
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a><span data-ttu-id="527e3-131">创建和管理合作伙伴中心中的 Autopilot 配置文件</span><span class="sxs-lookup"><span data-stu-id="527e3-131">Create and manage Autopilot profiles in Partner Center</span></span>
 
-    <span data-ttu-id="0535f-137">b.</span><span class="sxs-lookup"><span data-stu-id="0535f-137">b.</span></span> <span data-ttu-id="0535f-138">从合作伙伴中心中，转到**客户**> 选择要接收设备的客户 >**设备 > 添加设备**。</span><span class="sxs-lookup"><span data-stu-id="0535f-138">From Partner Center, go to **Customers** > select the customer that’s receiving the devices > **Devices > Add devices**.</span></span>
+<span data-ttu-id="527e3-132">在合作伙伴中心中，你可以创建 Windows Autopilot 部署配置文件，并将它们应用到设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-132">In Partner Center, you can create Windows Autopilot deployment profiles and apply them to devices.</span></span>
 
-    <span data-ttu-id="0535f-139">c.</span><span class="sxs-lookup"><span data-stu-id="0535f-139">c.</span></span> <span data-ttu-id="0535f-140">命名设备的批次，例如“Contoso 销售部门电脑 - 2017 年 4 月订购”。</span><span class="sxs-lookup"><span data-stu-id="0535f-140">Name the batch of devices, for example, “Contoso Sales Department PCs – April 2017 order.”</span></span> 
+>[!NOTE]
+><span data-ttu-id="527e3-133">只有管理员代理可以创建并应用配置文件。</span><span class="sxs-lookup"><span data-stu-id="527e3-133">Only admin agents can create and apply profiles.</span></span>
 
-    <span data-ttu-id="0535f-141">d.</span><span class="sxs-lookup"><span data-stu-id="0535f-141">d.</span></span> <span data-ttu-id="0535f-142">选择**浏览**> 选择设备信息文件 >**验证**。</span><span class="sxs-lookup"><span data-stu-id="0535f-142">Select **Browse** > select the device info file > **Validate**.</span></span>
+### <a name="create-a-new-autopilot-profile"></a><span data-ttu-id="527e3-134">创建新的 Autopilot 配置文件</span><span class="sxs-lookup"><span data-stu-id="527e3-134">Create a new Autopilot profile</span></span>
 
-    <span data-ttu-id="0535f-143">**注意：** 如果你尝试上传 .csv 文件后收到一条错误消息，请检查该文件的格式。</span><span class="sxs-lookup"><span data-stu-id="0535f-143">**Note:** If you get an error message after trying to upload the .csv file, check the format of the file.</span></span> <span data-ttu-id="0535f-144">8 月之后，你可以仅使用硬件哈希，按该列顺序使用 OEM 名称、序列号和型号，或者使用 Windows 产品 ID。</span><span class="sxs-lookup"><span data-stu-id="0535f-144">After August, you can use the Hardware Hash only, or the OEM name, serial number, and model in that column order, or the Windows Product ID.</span></span> <span data-ttu-id="0535f-145">你还可以使用**添加设备**旁边的链接中提供的示例 .csv 文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-145">You can also use the sample .csv file provided from the link next to **Add devices**.</span></span>
+1. <span data-ttu-id="527e3-135">从合作伙伴中心菜单中选择**客户**，然后选择你要创建的 Autopilot 配置文件的客户。</span><span class="sxs-lookup"><span data-stu-id="527e3-135">Select **Customers** from the Partner Center menu and then select the customer you're creating the Autopilot profile for.</span></span>
 
-2.  <span data-ttu-id="0535f-146">创建可应用于设备的配置文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-146">Create a profile that you can apply to the devices.</span></span> <span data-ttu-id="0535f-147">（只有管理员代理有权创建并应用在合作伙伴中心中的配置文件。）</span><span class="sxs-lookup"><span data-stu-id="0535f-147">(Only admin agents have access to create and apply profiles in the Partner Center.)</span></span>
+2. <span data-ttu-id="527e3-136">在客户的详细信息页上，选择**设备**。</span><span class="sxs-lookup"><span data-stu-id="527e3-136">On the customer's detail page, select **Devices**.</span></span>
 
-    <span data-ttu-id="0535f-148">a.</span><span class="sxs-lookup"><span data-stu-id="0535f-148">a.</span></span>  <span data-ttu-id="0535f-149">从**设备**中，选择**添加新配置文件**。</span><span class="sxs-lookup"><span data-stu-id="0535f-149">From **Devices**, select **Add new profile**.</span></span>
+3. <span data-ttu-id="527e3-137">在**Windows Autopilot 配置文件**中，选择**添加新配置文件**。</span><span class="sxs-lookup"><span data-stu-id="527e3-137">Under **Windows Autopilot profiles** select **Add new profile**.</span></span>
 
-    <span data-ttu-id="0535f-150">b.</span><span class="sxs-lookup"><span data-stu-id="0535f-150">b.</span></span>  <span data-ttu-id="0535f-151">命名配置文件，例如“Contoso 桌面配置文件 - 跳过所有 OOBE”。</span><span class="sxs-lookup"><span data-stu-id="0535f-151">Name the profile, for example, “Contoso Desktop Profile – Skip All OOBE”.</span></span>
+4. <span data-ttu-id="527e3-138">输入配置文件的名称和描述，然后配置 OOBE 设置。</span><span class="sxs-lookup"><span data-stu-id="527e3-138">Enter the profile's name and description and then configure the OOBE settings.</span></span> <span data-ttu-id="527e3-139">从选择：</span><span class="sxs-lookup"><span data-stu-id="527e3-139">Choose from:</span></span>  
 
-    <span data-ttu-id="0535f-152">c.</span><span class="sxs-lookup"><span data-stu-id="0535f-152">c.</span></span>  <span data-ttu-id="0535f-153">配置 OOBE 设置。</span><span class="sxs-lookup"><span data-stu-id="0535f-153">Configure the OOBE settings.</span></span> <span data-ttu-id="0535f-154">例如，检查**在设置中跳过“快速设置”**。</span><span class="sxs-lookup"><span data-stu-id="0535f-154">For example, check **Skip Express Settings in setup**.</span></span>
+   - <span data-ttu-id="527e3-140">在设置中跳过隐私设置</span><span class="sxs-lookup"><span data-stu-id="527e3-140">Skip privacy settings in setup</span></span>
+   
+   - <span data-ttu-id="527e3-141">在设置中禁用本地管理员帐户</span><span class="sxs-lookup"><span data-stu-id="527e3-141">Disable local admin account in setup</span></span>
+   
+   - <span data-ttu-id="527e3-142">在设置中自动跳过页面</span><span class="sxs-lookup"><span data-stu-id="527e3-142">Automatically skip pages in setup</span></span><br>
+        <span data-ttu-id="527e3-143">（包括*为工作单位或学校自动选择设置*和*跳过 Cortana、 OneDrive 和 OEM 注册设置页面*）</span><span class="sxs-lookup"><span data-stu-id="527e3-143">(Includes *Automatically select setup for work or school* and *Skip Cortana, OneDrive, and OEM registration setup pages*)</span></span>
+   
+   - <span data-ttu-id="527e3-144">跳过最终用户许可协议 (EULA)</span><span class="sxs-lookup"><span data-stu-id="527e3-144">Skip end user license agreement (EULA)</span></span><br> 
+       >[!IMPORTANT] <span data-ttu-id="527e3-145">请参阅[Windows Autopilot EULA 解除](#windows-autopilot-eula-dismissal)下面的重要信息要考虑在 Windows 安装程序期间跳过 EULA 页。</span><span class="sxs-lookup"><span data-stu-id="527e3-145">See [Windows Autopilot EULA dismissal](#windows-autopilot-eula-dismissal) below for important information to consider about skipping the EULA page during Windows setup.</span></span>
 
-    <span data-ttu-id="0535f-155">d.</span><span class="sxs-lookup"><span data-stu-id="0535f-155">d.</span></span>  <span data-ttu-id="0535f-156">选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="0535f-156">Select **Submit**.</span></span>
+5. <span data-ttu-id="527e3-146">完成后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="527e3-146">Select **Submit** when finished.</span></span>
 
-3.  <span data-ttu-id="0535f-157">应用配置文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-157">Apply the profile.</span></span>
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a><span data-ttu-id="527e3-147">适用于客户设备的 Autopilot 配置文件</span><span class="sxs-lookup"><span data-stu-id="527e3-147">Apply an Autopilot profile to customer devices</span></span>
 
-    <span data-ttu-id="0535f-158">a.</span><span class="sxs-lookup"><span data-stu-id="0535f-158">a.</span></span>  <span data-ttu-id="0535f-159">在**设备**的**分配和删除设备**窗格中，选择要配置的设备。</span><span class="sxs-lookup"><span data-stu-id="0535f-159">From **Devices**, in the **Assign and delete devices** pane, select the devices that you want to configure.</span></span> <span data-ttu-id="0535f-160">若要选择整个批次，请单击批次名称（例如“Contoso 销售部门电脑 - 2017 年 3 月订购”）旁的复选框。</span><span class="sxs-lookup"><span data-stu-id="0535f-160">To select an entire batch, click the checkbox next to the batch name (for example, “Contoso Sales Department PCs – March 2017 order”).</span></span>
+>[!NOTE]
+><span data-ttu-id="527e3-148">以下说明假设，已经向合作伙伴中心添加客户的设备和可以访问其设备列表。</span><span class="sxs-lookup"><span data-stu-id="527e3-148">The instructions below assume that you've already added the customer's devices to Partner Center and that you can access their device list.</span></span> <span data-ttu-id="527e3-149">如果你尚未添加客户的设备，按照[将设备添加到客户帐户](#add-devices-to-a-customers-account)中的说明，然后按照下面的步骤。</span><span class="sxs-lookup"><span data-stu-id="527e3-149">If you haven't already added the customer's devices, follow the instructions in [Add devices to a customer's account](#add-devices-to-a-customers-account) and then follow the steps below.</span></span>
 
-    <span data-ttu-id="0535f-161">b.</span><span class="sxs-lookup"><span data-stu-id="0535f-161">b.</span></span>  <span data-ttu-id="0535f-162">选择**应用配置文件**，然后选择配置文件 (例如，"Contoso 桌面配置文件-跳过所有 OOBE")。</span><span class="sxs-lookup"><span data-stu-id="0535f-162">Select **Apply profile**, and select the profile (for example, “Contoso Desktop Profile – Skip All OOBE”).</span></span> <span data-ttu-id="0535f-163">设备将在“配置文件”列中显示该配置文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-163">The devices will show the profile in the Profile column.</span></span>
+<span data-ttu-id="527e3-150">为客户创建 Autopilot 配置文件后，你可以将其应用到客户的设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-150">After you create an Autopilot profile for a customer, you can apply it to the customer's devices.</span></span>
 
-4.  <span data-ttu-id="0535f-164">可选：通过测试查看你的配置文件是否有效。</span><span class="sxs-lookup"><span data-stu-id="0535f-164">Optional: Test to see that your profile works.</span></span>
+1. <span data-ttu-id="527e3-151">从合作伙伴中心菜单中选择**客户**，然后选择你创建的 Autopilot 配置文件的客户。</span><span class="sxs-lookup"><span data-stu-id="527e3-151">Select **Customers** from the Partner Center menu and then select the customer you created the Autopilot profile for.</span></span>
 
-    <span data-ttu-id="0535f-165">a.</span><span class="sxs-lookup"><span data-stu-id="0535f-165">a.</span></span>  <span data-ttu-id="0535f-166">将设备连接到网络，然后将其打开。</span><span class="sxs-lookup"><span data-stu-id="0535f-166">Connect a device to the network and then turn it on.</span></span>
+2. <span data-ttu-id="527e3-152">在客户的详细信息页上，选择**设备**。</span><span class="sxs-lookup"><span data-stu-id="527e3-152">On the customer's detail page, select **Devices**.</span></span>
 
-    <span data-ttu-id="0535f-167">b.</span><span class="sxs-lookup"><span data-stu-id="0535f-167">b.</span></span>  <span data-ttu-id="0535f-168">验证是否显示相应的 OOBE 屏幕（如果有）。</span><span class="sxs-lookup"><span data-stu-id="0535f-168">Verify that the appropriate OOBE screens (if any) appear.</span></span>
+3. <span data-ttu-id="527e3-153">在**应用到设备的配置文件**中，选择设备或你想要添加到配置文件，然后选择**应用配置文件**的设备组。</span><span class="sxs-lookup"><span data-stu-id="527e3-153">Under **Apply profiles to devices** select the devices or device groups you want to add profiles to and then select **Apply profile**.</span></span> <span data-ttu-id="527e3-154">只是应用的配置文件将显示在**配置文件**列中。</span><span class="sxs-lookup"><span data-stu-id="527e3-154">The profile you just applied appears in the **Profile** column.</span></span>
 
-    <span data-ttu-id="0535f-169">c.</span><span class="sxs-lookup"><span data-stu-id="0535f-169">c.</span></span>  <span data-ttu-id="0535f-170">若要为新用户准备设备，请完成 OOBE 体验，然后将该设备重置为其出厂默认设置。</span><span class="sxs-lookup"><span data-stu-id="0535f-170">To prepare the device for a new user, complete the OOBE experience, then reset the device to its factory default settings.</span></span>
+4. <span data-ttu-id="527e3-155">请按照以下步骤来验证配置文件将会成功应用到设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-155">Follow the steps below to verify that the profile will be applied successfully to the device.</span></span>
 
-## <a name="to-update-or-delete-a-profile"></a><span data-ttu-id="0535f-171">更新或删除配置文件</span><span class="sxs-lookup"><span data-stu-id="0535f-171">To update or delete a profile</span></span> 
+    <span data-ttu-id="527e3-156">a.</span><span class="sxs-lookup"><span data-stu-id="527e3-156">a.</span></span>  <span data-ttu-id="527e3-157">将设备连接到网络，并将其打开。</span><span class="sxs-lookup"><span data-stu-id="527e3-157">Connect a device to the network and turn it on.</span></span>
 
-<span data-ttu-id="0535f-172">已分配给设备的配置文件后，你可以更新它，即使你已在设备提供给你的客户。</span><span class="sxs-lookup"><span data-stu-id="0535f-172">After you’ve assigned a profile to a device, you can update it, even if you’ve already given the device to your customer.</span></span> <span data-ttu-id="0535f-173">当设备连接到 Internet 时，它会在 OOBE 过程中下载你的配置文件的最新版本。</span><span class="sxs-lookup"><span data-stu-id="0535f-173">When the device connects to the internet, it downloads the latest version of your profile during the OOBE process.</span></span> <span data-ttu-id="0535f-174">如果客户将其设备还原为出厂默认设置，则该设备将重新下载你的配置文件的最新更新。</span><span class="sxs-lookup"><span data-stu-id="0535f-174">If your customer restores their device to its factory default settings, the device will again download the latest updates to your profile.</span></span> 
+    <span data-ttu-id="527e3-158">b.</span><span class="sxs-lookup"><span data-stu-id="527e3-158">b.</span></span>  <span data-ttu-id="527e3-159">验证是否显示相应的 OOBE 屏幕（如果有）。</span><span class="sxs-lookup"><span data-stu-id="527e3-159">Verify that the appropriate OOBE screens (if any) appear.</span></span>
 
-### <a name="remove-a-profile-from-a-device"></a><span data-ttu-id="0535f-175">从设备中删除配置文件</span><span class="sxs-lookup"><span data-stu-id="0535f-175">Remove a profile from a device</span></span>
+    <span data-ttu-id="527e3-160">c.</span><span class="sxs-lookup"><span data-stu-id="527e3-160">c.</span></span>  <span data-ttu-id="527e3-161">在 OOBE 过程停止时，设备重置为出厂默认设置为新用户准备它。</span><span class="sxs-lookup"><span data-stu-id="527e3-161">When the OOBE process stops, reset the device to its factory default settings to prepare it for a new user.</span></span>
 
-1. <span data-ttu-id="0535f-176">选择要从其中删除配置文件的设备（或设备的批次）。</span><span class="sxs-lookup"><span data-stu-id="0535f-176">Select the device (or batch of devices) you want to remove the profile from.</span></span> 
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a><span data-ttu-id="527e3-162">从客户的设备中删除 Autopilot 配置文件</span><span class="sxs-lookup"><span data-stu-id="527e3-162">Remove an Autopilot profile from a customer's device</span></span>
 
-2. <span data-ttu-id="0535f-177">在**分配和删除设备**窗格中，选择**删除配置文件**。</span><span class="sxs-lookup"><span data-stu-id="0535f-177">In **Assign and delete devices** pane, select **Remove profile**.</span></span>
+1. <span data-ttu-id="527e3-163">从合作伙伴中心菜单中选择**客户**，然后选择你创建的 Autopilot 配置文件的客户。</span><span class="sxs-lookup"><span data-stu-id="527e3-163">Select **Customers** from the Partner Center menu and then select the customer you created the Autopilot profile for.</span></span>
 
-3. <span data-ttu-id="0535f-178">转到要删除的配置文件，然后将其删除。</span><span class="sxs-lookup"><span data-stu-id="0535f-178">Go to the profile you want to remove and delete it.</span></span> <span data-ttu-id="0535f-179">将从所有设备中删除该配置文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-179">The profile will be deleted from all devices.</span></span>
+2. <span data-ttu-id="527e3-164">在客户的详细信息页上，选择**设备**。</span><span class="sxs-lookup"><span data-stu-id="527e3-164">On the customer's detail page, select **Devices**.</span></span>
 
-<span data-ttu-id="0535f-180">在**设备**中，选择配置文件。</span><span class="sxs-lookup"><span data-stu-id="0535f-180">From **Devices**, select the profile.</span></span> <span data-ttu-id="0535f-181">可在此处修改现有的设置。</span><span class="sxs-lookup"><span data-stu-id="0535f-181">From here, you can modify the existing settings.</span></span>
+3. <span data-ttu-id="527e3-165">在**应用到设备的配置文件**中，选择你想要删除的配置文件，然后选择**删除配置文件**的设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-165">Under **Apply profiles to devices** select the devices you want to remove the profile from and then select **Remove profile**.</span></span>
 
-## <a name="windows-autopilot-eula-dismissal--important-information"></a><span data-ttu-id="0535f-182">Windows Autopilot EULA 解除 - 重要信息</span><span class="sxs-lookup"><span data-stu-id="0535f-182">Windows Autopilot EULA dismissal – important information</span></span>
+  >[!NOTE]
+  ><span data-ttu-id="527e3-166">从设备中删除配置文件不会从列表中删除配置文件。</span><span class="sxs-lookup"><span data-stu-id="527e3-166">Removing a profile from a device does not delete the profile from your list.</span></span> <span data-ttu-id="527e3-167">如果你想要删除配置文件，请按照[更新或删除 Autopilot 配置文件](#update-or-delete-an-autopilot-profile)中的说明。</span><span class="sxs-lookup"><span data-stu-id="527e3-167">If you want to delete a profile, follow the instructions in [Update or delete an Autopilot profile](#update-or-delete-an-autopilot-profile).</span></span>
 
-<span data-ttu-id="0535f-183">使用此工具，你可以在为客户管理的设备上配置 Windows 的单个安装。</span><span class="sxs-lookup"><span data-stu-id="0535f-183">Using this tool allows you to configure individual installations of Windows on devices you manage for your customers.</span></span> <span data-ttu-id="0535f-184">如果客户授权你进行此操作，你可以选择不显示或隐藏在设置 Windows 时向用户正常显示的某些设置屏幕，包括 EULA 接受屏幕。</span><span class="sxs-lookup"><span data-stu-id="0535f-184">If authorized to do so by the customer, you may choose to suppress or hide certain set-up screens that are normally presented to users when setting up Windows, including the EULA acceptance screen.</span></span> 
+### <a name="update-or-delete-an-autopilot-profile"></a><span data-ttu-id="527e3-168">更新或删除 Autopilot 配置文件</span><span class="sxs-lookup"><span data-stu-id="527e3-168">Update or delete an Autopilot profile</span></span>
 
-<span data-ttu-id="0535f-185">使用此功能，即表明你同意不显示或隐藏专为用户提供通知或条款接受的任何屏幕，意味着你已从客户方获得隐藏条款的充分许可和授权，并且你已代表你的客户（组织或单个用户，根据具体情况而定）同意所有通知并接受所有对该客户适用的条款。</span><span class="sxs-lookup"><span data-stu-id="0535f-185">By using this function, you agree that suppressing or hiding any screens that are designed to provide users with notice or acceptance of terms means that you have obtained sufficient consent and authorization from your customer to hide terms, and that you on behalf of your customer (whether an organization or an individual user as the case may be), consent to any notices and accept any terms that are applicable to your customer.</span></span> <span data-ttu-id="0535f-186">这包括你同意在不使用此工具禁止显示或隐藏时将向用户呈现的许可证的条款和条件或通知。</span><span class="sxs-lookup"><span data-stu-id="0535f-186">This includes agreement to the terms and conditions of the license or notice that would be presented to the user if you did not suppress or hide it using this tool.</span></span> <span data-ttu-id="0535f-187">如果你的客户尚未从 Microsoft 或其许可的分销商处获取有效的软件许可，则该客户不得在这些设备上使用该 Windows 软件。</span><span class="sxs-lookup"><span data-stu-id="0535f-187">Your customer may not use the Windows software on those devices if the customer has not validly acquired a license for the software from Microsoft or its licensed distributors.</span></span>
+<span data-ttu-id="527e3-169">如果客户想要更改的现成体验后已交付给他们的设备，你可以更改合作伙伴中心中的配置文件。</span><span class="sxs-lookup"><span data-stu-id="527e3-169">If a customer wants to change the out-of-box experience after you've shipped the devices to them, you can change the profile in Partner Center.</span></span>
+
+<span data-ttu-id="527e3-170">当客户的设备连接到 internet 时，它将在 OOBE 过程中下载最新的配置文件版本。</span><span class="sxs-lookup"><span data-stu-id="527e3-170">When the customer's device connects to the internet, it will download the latest profile version during the OOBE process.</span></span> <span data-ttu-id="527e3-171">此外，的只要客户将设备还原为出厂默认设置，设备将重新下载最新的配置文件版本在 OOBE 过程中。</span><span class="sxs-lookup"><span data-stu-id="527e3-171">Also, any time a customer restores a device to its factory default settings, the device will again download the latest profile version during the OOBE process.</span></span>
+
+1. <span data-ttu-id="527e3-172">从合作伙伴中心菜单中选择**客户**，然后选择想要更改 Autopilot 配置文件的客户。</span><span class="sxs-lookup"><span data-stu-id="527e3-172">Select **Customers** from the Partner Center menu and then select the customer who wants you to change an Autopilot profile.</span></span>
+
+2. <span data-ttu-id="527e3-173">在客户的详细信息页上，选择**设备**。</span><span class="sxs-lookup"><span data-stu-id="527e3-173">On the customer's detail page, select **Devices**.</span></span>
+
+3. <span data-ttu-id="527e3-174">在**Windows Autopilot 配置文件**中，选择你需要更新的配置文件。</span><span class="sxs-lookup"><span data-stu-id="527e3-174">Under **Windows Autopilot profiles** select the profile you need to update.</span></span> <span data-ttu-id="527e3-175">进行所需的更改，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="527e3-175">Make the required changes and then select **Submit**.</span></span>
+
+<span data-ttu-id="527e3-176">若要删除该配置文件，从该页面的右上角选择**删除配置文件**。</span><span class="sxs-lookup"><span data-stu-id="527e3-176">To delete this profile, select **Delete profile** from the upper right corner of the page.</span></span>
+
+### <a name="add-devices-to-a-customers-account"></a><span data-ttu-id="527e3-177">将设备添加到客户帐户</span><span class="sxs-lookup"><span data-stu-id="527e3-177">Add devices to a customer's account</span></span>
+
+>[!NOTE]
+><span data-ttu-id="527e3-178">销售代理和管理员代理可以将设备添加到客户帐户。</span><span class="sxs-lookup"><span data-stu-id="527e3-178">Sales agents and admin agents can add devices to a customer's account.</span></span>
+
+<span data-ttu-id="527e3-179">你可以将自定义的 Autopilot 配置文件应用于客户设备之前，你必须能够访问客户的设备列表。</span><span class="sxs-lookup"><span data-stu-id="527e3-179">Before you can apply custom Autopilot profiles to customer devices, you must be able to access the customer's device list.</span></span>
+
+<span data-ttu-id="527e3-180">如果你打算使用的 OEM 名称、 序列号和型号组合，请注意以下限制：</span><span class="sxs-lookup"><span data-stu-id="527e3-180">If you plan to use the OEM name, serial number, and model combination, be aware of these limitations:</span></span>
+
+- <span data-ttu-id="527e3-181">此元组仅适用于的较新的设备 （4 k 哈希值，例如），并且不受支持 128b 哈希 （RS2 和之前的设备）。</span><span class="sxs-lookup"><span data-stu-id="527e3-181">This tuple works only for newer devices (4k hashes, for example) and is not supported for 128b hashes (RS2 and prior devices).</span></span>
+
+- <span data-ttu-id="527e3-182">元组注册是区分大小写，因此文件中的数据必须模型和制造商的名称***完全***匹配，因为由 OEM 提供程序 （硬件提供程序） 提供。</span><span class="sxs-lookup"><span data-stu-id="527e3-182">The tuple registration is case sensitive, so the data in the file must match the model and manufacturer names ***exactly*** as provided by the OEM provider (hardware provider).</span></span>
+
+<span data-ttu-id="527e3-183">请按照以下说明将设备添加到合作伙伴中心中的客户的帐户。</span><span class="sxs-lookup"><span data-stu-id="527e3-183">Follow the instructions below to add devices to a customer's account in Partner Center.</span></span>
+
+1. <span data-ttu-id="527e3-184">从合作伙伴中心菜单中选择**客户**，然后选择客户想要管理其设备。</span><span class="sxs-lookup"><span data-stu-id="527e3-184">Select **Customers** from the Partner Center menu and then select the customer whose devices you want to manage.</span></span>
+
+2. <span data-ttu-id="527e3-185">在客户的详细信息页上，选择**设备**。</span><span class="sxs-lookup"><span data-stu-id="527e3-185">On the customer's detail page, select **Devices**.</span></span>
+
+3. <span data-ttu-id="527e3-186">在**应用到设备的配置文件**中，选择**添加设备**。</span><span class="sxs-lookup"><span data-stu-id="527e3-186">Under **Apply profiles to devices** select **Add devices**.</span></span>
+
+4. <span data-ttu-id="527e3-187">输入设备列表的名称，然后选择**浏览**要上传到合作伙伴中心的客户的列表 （在.csv 文件格式）。</span><span class="sxs-lookup"><span data-stu-id="527e3-187">Enter a name for the device list and then select **Browse** to upload the customer's list (in .csv file format) to Partner Center.</span></span>
+
+    >[!NOTE]
+    ><span data-ttu-id="527e3-188">你应该使用设备购买收到此.csv 文件。</span><span class="sxs-lookup"><span data-stu-id="527e3-188">You should have received this .csv file with your device purchase.</span></span> <span data-ttu-id="527e3-189">如果你未收到.csv 文件，你可以按照[添加 Windows Autopilot 设备](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)中的步骤来创建自己。</span><span class="sxs-lookup"><span data-stu-id="527e3-189">If you didn't receive a .csv file, you can create one yourself by following the steps in [Adding devices to Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell).</span></span>  
+
+5. <span data-ttu-id="527e3-190">上传.csv 文件，然后选择**保存**。</span><span class="sxs-lookup"><span data-stu-id="527e3-190">Upload the .csv file and then select **Save**.</span></span>
+
+<span data-ttu-id="527e3-191">如果你尝试上传.csv 文件时收到一条错误消息，请检查文件的格式。</span><span class="sxs-lookup"><span data-stu-id="527e3-191">If you get an error message while trying to upload the .csv file, check the format of the file.</span></span> <span data-ttu-id="527e3-192">你可以使用硬件哈希，或 OEM 名称、 序列号和模型 （在该列顺序） 或 Windows 产品 id。</span><span class="sxs-lookup"><span data-stu-id="527e3-192">You can use the hardware hash only, or the OEM name, serial number, and model (in that column order), or the Windows Product ID.</span></span> <span data-ttu-id="527e3-193">你还可以使用**添加设备**旁边的链接中提供的示例.csv 文件创建设备列表。</span><span class="sxs-lookup"><span data-stu-id="527e3-193">You can also use the sample .csv file provided from the link next to **Add devices** to create a device list.</span></span>
+
+## <a name="windows-autopilot-eula-dismissal"></a><span data-ttu-id="527e3-194">Windows Autopilot EULA 解除的信息</span><span class="sxs-lookup"><span data-stu-id="527e3-194">Windows Autopilot EULA dismissal</span></span>
+
+### <a name="important-information"></a><span data-ttu-id="527e3-195">重要信息</span><span class="sxs-lookup"><span data-stu-id="527e3-195">IMPORTANT INFORMATION</span></span>
+
+<span data-ttu-id="527e3-196">Windows Autopilot 让你可以为你的客户管理的设备上配置 Windows 的自定义的安装。</span><span class="sxs-lookup"><span data-stu-id="527e3-196">Windows Autopilot allows you to configure customized installations of Windows on devices you manage for your customers.</span></span> <span data-ttu-id="527e3-197">如果执行此操作由授权客户，你可以禁止显示或隐藏设置 Windows，包括 EULA （最终用户许可协议） 接受屏幕时向用户正常显示的某些设置屏幕。</span><span class="sxs-lookup"><span data-stu-id="527e3-197">If authorized to do so by the customer, you can suppress or hide certain set-up screens that are normally presented to users when setting up Windows, including the EULA (End User License Agreement) acceptance screen.</span></span>
+
+<span data-ttu-id="527e3-198">通过使用此函数，表明你同意禁止显示或隐藏专为用户提供通知或条款接受的术语意味着你已获取足够许可和授权从你的客户可代表隐藏条款，并且该，任何屏幕你的客户 （组织或单个用户以这种情况可能），同意所有通知并接受所有适用于你的客户的条款。</span><span class="sxs-lookup"><span data-stu-id="527e3-198">By using this function, you agree that suppressing or hiding any screens that are designed to provide users with notice or acceptance of terms means that you have obtained sufficient consent and authorization from your customer to hide terms, and that you, on behalf of your customer (whether an organization or an individual user as the case may be), consent to any notices and accept any terms that are applicable to your customer.</span></span> <span data-ttu-id="527e3-199">这包括你同意在不使用此工具禁止显示或隐藏时将向用户呈现的许可证的条款和条件或通知。</span><span class="sxs-lookup"><span data-stu-id="527e3-199">This includes agreement to the terms and conditions of the license or notice that would be presented to the user if you did not suppress or hide it using this tool.</span></span> <span data-ttu-id="527e3-200">如果你的客户尚未从 Microsoft 或其许可的分销商处获取有效的软件许可，则该客户不得在这些设备上使用该 Windows 软件。</span><span class="sxs-lookup"><span data-stu-id="527e3-200">Your customer may not use the Windows software on those devices if the customer has not validly acquired a license for the software from Microsoft or its licensed distributors.</span></span>
