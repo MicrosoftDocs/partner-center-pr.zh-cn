@@ -13,11 +13,12 @@
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
 ## [云解决方案提供商直接合作伙伴新要求](direct-partner-new-requirements.md) 
+## [注册为控制面板供应商](enroll-as-cpv.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
 ## [按地区和语言划分的 Microsoft 云协议](agreements.md)
 
-## [国家云](csp-national-clouds-overview.md)
+## [国家/地区云](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 ### [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 
@@ -85,7 +86,8 @@
 ### [提高采用率和满意度](increasing-adoption-and-satisfaction.md)
 ### [利用 Windows Autopilot 简化设备设置](autopilot.md)
 ##  升级或将产品/服务转换为较新版本
-### [将 Dynamics AX 订阅升级到 Dynamics 365](manual-subscription-migration.md)
+### [将 Dynamics 365 和客户参与度计划从基本（限定产品/服务）迁移到较新版本](manual-subscription-migration.md)
+### [将 Dynamics 365 商业版产品/服务迁移到较新版本](migrate-dynamics-365-to-new.md)
 ### [将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
