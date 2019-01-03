@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: 070d0c78acf9b8af016e1a1d46040fb5de780e97
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683786"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990929"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -30,7 +30,7 @@ ms.locfileid: "8683786"
 > [!NOTE]  
 > 发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期起四 (4) 天内可提供发票。
 
-你将收到一张基于许可证的 (Office365) 和基于使用情况 (Azure) 费用的发票和一次性 （Azure 虚拟机预留实例） 的单独发票费用。
+你将收到一张基于许可证的 (Office365) 和基于使用情况 (Azure) 费用发票和一次性 （Azure 虚拟机预留实例） 的单独发票费用。
 
 有关费用的明细，使用随附的对帐文件。 对帐文件包括用于创建客户发票的客户 ID 和订阅 ID。 有关详细信息，请参阅[如何使用对帐文件](use-the-reconciliation-files.md)。
 
@@ -57,7 +57,7 @@ ms.locfileid: "8683786"
 </tr>
 <tr class="even">
 <td>帐单邮寄地址</td>
-<td>我们发送发票的地址。 若要更改此地址，请转到“帐户设置”>“合作伙伴计费配置文件”。 </td>
+<td>我们发送发票的地址。 若要更改公司名称或地址，请编辑计费配置文件在合作伙伴中心。 </td>
 </tr>
 <tr class="odd">
 <td>基于许可证的费用</td>
@@ -105,11 +105,11 @@ ms.locfileid: "8683786"
 </tr>
 <tr class="odd">
 <td>计费周期</td>
-<td>云解决方案提供商合作伙伴按月或按年计费。</td>
+<td>每月期间导致发票日期。 这是的时段期间消耗基于使用情况的服务和基于许可证的服务进行协调的任何退款调整或更改许可证数量。</td>
 </tr>
 <tr class="even">
 <td>发票日期</td>
-<td>收到发票的日期。</td>
+<td>你的计费日期或你的发票生成每个月的周年日期。</td>
 </tr>
 <tr class="odd">
 <td>付款期限</td>
@@ -129,7 +129,7 @@ ms.locfileid: "8683786"
 </tr>
 <tr class="odd">
 <td>服务接收方</td>
-<td>使用服务的地址。 （这是与公司审查关联的法定公司地址，不可更改。）</td>
+<td>使用服务的地址。 （这是与公司审查关联的法定公司地址）。</td>
 </tr>
 </tbody>
 </table>

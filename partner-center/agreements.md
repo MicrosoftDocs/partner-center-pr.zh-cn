@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Microsoft 云协议, 客户协议模板, 云解决方案提供商客户协议, MCA, 云解决方案提供商, 通过云解决方案提供商可以在哪里进行销售？, 云解决方案提供商国家和地区, 多种语言的云解决方案提供商 MCA, 云解决方案提供商北美洲, 云解决方案提供商中美洲, 云解决方案提供商南美洲, 云解决方案提供商加勒比地区, 云解决方案提供商 Microsoft Cloud for US Government, 云解决方案提供商 Microsoft Cloud Germany, 云解决方案提供商中东地区, 云解决方案提供商非洲, 云解决方案提供商欧洲, 云解决方案提供商亚洲, 云解决方案提供商太平洋地区, 云解决方案提供商 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: a664c2bd9486f2f3b32dc09a7d47d32eb9913ed0
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776531"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990979"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 
@@ -23,11 +23,11 @@ ms.locfileid: "8776531"
 你可以代表客户的合作下一个订单之前，客户必须接受并签署 Microsoft 云协议。
 
 >[!IMPORTANT]
-> 从 2018 年 11 月 7 日，你将需要确认客户已接受通过提供有关登录的人员的 Microsoft 云协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)。
+> 从 2018 年 11 月 7 日，你将需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)。
 
-Microsoft 云协议都是特定于区域的和提供多个语言版本。 在以下列表之一中找到客户的位置和首选的语言，若要下载的正确协议。
+Microsoft 云协议都是特定于区域的和提供多个语言版本。 在其中一个以下列表中找到客户的位置和首选的语言，若要下载的正确协议。
 
-如果你不确定哪些地区和市场中，你可以销售此列表中找到你的公司位置：[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
+如果你不确定哪些地区和市场中，你可以销售此列表中找到你公司的位置：[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
@@ -120,13 +120,13 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 在以
 - 格鲁吉亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 德国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[德语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GER_Sep20172_CR.pdf)
     
-    在德国，刑事代码 (部分 203) 和行为准则专业人员的代码需要某些客户的关系是以保持机密，例如，患者和其医疗医生之间的关系以及之间的关系律师和其客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业购买基于云的服务从云解决方案提供商，云服务提供商必须得出结论与客户，可确保专业保密的书面的协议。
+    在德国，刑事代码 (部分 203) 和专业人员行为准则需要某些客户端关系是以保持机密，例如，患者和其医疗医生之间的关系和之间的关系律师和其客户端。 这些职业组具有以确保专业保密。 有关这些和其他专业从云解决方案提供商购买基于云的服务，云服务提供商必须得出结论与客户，可确保专业保密的书面的协议。
 
-    如果你在开展业务德国，你可能需要提供给那里的客户除了 Microsoft 云协议此专业保密修正。
+    如果你开展业务在德国，你可能需要向那里的客户除了 Microsoft 云协议提供此专业保密修正。
 
     - [Microsoft 云协议专业保密修正德国 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [(DE) 德国 Microsoft 云协议专业保密修正](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+     - [Microsoft 云协议专业保密修正德国 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - 直布罗陀：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 希腊：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[希腊语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
@@ -205,7 +205,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - 几内亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[法语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)    
 - 几内亚比绍：[葡萄牙语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_PTE_Sep20172_CR.pdf)
 - 伊拉克：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep2017_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
-- 以色列：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[希伯来语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_HEB_Sep20172_CR.pdf)  
+- 以色列：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - 约旦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - 肯尼亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
 - 科索沃：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)

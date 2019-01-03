@@ -8,18 +8,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
 ms.localizationpriority: medium
-ms.openlocfilehash: df555040c02f3317445efd391d84684f1a7e6dac
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b4dbfe0b325f4ab9741ae4510fa8e651d7216ac9
+ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795630"
+ms.lasthandoff: 01/03/2019
+ms.locfileid: "8990959"
 ---
 # <a name="common-billing-scenarios"></a>常见计费方案
 
 **适用于**
 
--   云解决方案提供商计划的计费
+-   云解决方案提供商计划计费
 
 本主题介绍了在添加新订阅、按订阅调整许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
 
@@ -33,7 +33,9 @@ ms.locfileid: "5795630"
 
 在订阅周年日期会对基于使用情况的订阅进行每月拖欠计费。 例如，如果订阅周年日期为 15 日，则将在 1 月 15 日收取 12 月 15 日至 1 月 14 日服务期间的费用。 同样，2 月 15 日将对你收取 1 月 15 日至 2 月 14 日服务期间的费用。订阅周年纪念日中产生的费用将显示在以下发票和对帐文件中。
 
-可以随时暂停基于使用情况的订阅。 
+有时可能会发现一些使用费用都缺少你的发票或从上一个月的使用情况负责在当前月份的发票。 这不是错误。这就意味着服务已包含时间戳，服务发生后。 使用情况的计费周期结束 24 小时内报告将出现在下个月的帐单。 
+
+可能随时暂停基于使用情况的订阅。 
 
 Azure CSP 价目表每月发布一次，可以在合作伙伴中心的“销售”->“定价和产品/服务”页面上找到。 请注意，价格每天都可能会变动，并且会反映在价目表的“更改历史记录”选项卡上。
 
