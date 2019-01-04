@@ -12,8 +12,9 @@
 
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
-## [云解决方案提供商直接合作伙伴新要求](direct-partner-new-requirements.md) 
+## [云解决方案提供商计划直接合作伙伴新要求](direct-partner-new-requirements.md) 
 ## [注册为控制面板供应商](enroll-as-cpv.md)
+###[必须在租户上启用多重身份验证 (MFA) 才能访问该页面](enable-mfa.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
 ## [按地区和语言划分的 Microsoft 云协议](agreements.md)
