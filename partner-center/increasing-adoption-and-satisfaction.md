@@ -7,12 +7,12 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b18ebfc5e376478ebdadab51993af78ea92fe97e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795250"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995831"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -70,24 +70,24 @@ ms.locfileid: "5795250"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>问题：</strong>用户采用率较低，且许多许可证未被使用。</p>
+<td><p><strong>问题：</strong>用户采用率较低，并且许多许可证未 & #39; t 正在使用。</p>
 <p><strong>要考虑的事项：</strong>客户可能不理解软件可以提供的价值。 他们需要依靠帮助来构想他们可以将软件用于哪些日常工作中，从而简化其已进行的任务或实现全新的工作效率。</p>
 <p><strong>要尝试的内容：</strong>案例研究、有关特定方案的用户感言、教程博客或视频。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
 <p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>要尝试的内容：</strong>可在提供培训（面对面或网上）时使用双重策略，在增加客户的总体专业技能的同时，还提供一些自助服务选项供客户使用。</p>
-<p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题[客户自我支持](customer-self-support.md)中所述的自助服务选项。</p></td>
+<p><strong>要尝试的内容：</strong>你可以使用双重策略提供培训 （个人或联机） 来提高客户 & #39; s 总体专业技能的同时，还提供一些自助服务选项供客户。</p>
+<p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
 </tr>
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

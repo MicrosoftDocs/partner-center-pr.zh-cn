@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: a6c4ef705e7f66d2e40bd117e3d674d2f06acb76
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990929"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995871"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -146,7 +146,7 @@ ms.locfileid: "8990929"
 |税前金额 |税前购物小计。 |
 |销售税 |税额。 |
 |总计 |要付款的总额。 |
- 
+ 
 
 
 

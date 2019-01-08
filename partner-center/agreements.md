@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Microsoft 云协议, 客户协议模板, 云解决方案提供商客户协议, MCA, 云解决方案提供商, 通过云解决方案提供商可以在哪里进行销售？, 云解决方案提供商国家和地区, 多种语言的云解决方案提供商 MCA, 云解决方案提供商北美洲, 云解决方案提供商中美洲, 云解决方案提供商南美洲, 云解决方案提供商加勒比地区, 云解决方案提供商 Microsoft Cloud for US Government, 云解决方案提供商 Microsoft Cloud Germany, 云解决方案提供商中东地区, 云解决方案提供商非洲, 云解决方案提供商欧洲, 云解决方案提供商亚洲, 云解决方案提供商太平洋地区, 云解决方案提供商 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: c3afd36ff14f40ec293ff8dcbda1833d56265c0b
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: 7ff679ffa3c98f17a3b39e6ca92fe3f46e119189
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990979"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996001"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 
@@ -124,9 +124,9 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 在其
 
     如果你开展业务在德国，你可能需要向那里的客户除了 Microsoft 云协议提供此专业保密修正。
 
-    - [Microsoft 云协议专业保密修正德国 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [Microsoft 云协议专业保密修正德国 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-     - [Microsoft 云协议专业保密修正德国 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [Microsoft 云协议专业保密修正德国 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 - 直布罗陀：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 希腊：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[希腊语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
@@ -208,7 +208,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - 以色列：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - 约旦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - 肯尼亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- 科索沃：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - 科威特：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - 黎巴嫩：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - 莱索托：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf) 

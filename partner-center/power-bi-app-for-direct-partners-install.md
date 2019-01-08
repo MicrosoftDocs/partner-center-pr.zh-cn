@@ -7,12 +7,12 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e4eaecc151f8cc4e5e45bbfa7d02236fb1444a24
-ms.sourcegitcommit: 3eb069edf36bdb61518c0c7cc2ccaf2d8dde4adb
+ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "6131696"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995551"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -22,7 +22,7 @@ ms.locfileid: "6131696"
 
 ## <a name="before-you-begin"></a>开始之前
 
-选择的应用程序与业务最相关从以下列表中可用的 Power BI 应用：
+选择的应用程序与你的业务最相关从以下列表中可用的 Power BI 应用：
 - [直接合作伙伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [间接合作伙伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
@@ -45,16 +45,16 @@ ms.locfileid: "6131696"
 
 2. 在**已拥有帐户?** 下选择**登录**。 
 
-3.  在下一页上，输入你的 Power BI 用户名和密码，然后选择**登录**。 
+3. 在下一页上，输入你的 Power BI 用户名和密码，然后选择**登录**。 
 
-4.  在**连接到合作伙伴中心分析**弹出窗口中，确认**身份验证方法**设置为 **oAuth2**，如果不是，请从列表中选择 **oAuth2**。 
+4. 在**连接到合作伙伴中心分析**弹出窗口中，确认**身份验证方法**设置为 **oAuth2**，如果不是，请从列表中选择 **oAuth2**。 
 
-    > [!NOTE]  
+> [!NOTE]  
 >  此窗口可能需要几分钟才会显示。
 
-5.  在**合作伙伴中心分析连接器**页面上，使用贵公司的 Azure AD 租户的全局管理员、管理员代理或帐单管理员身份登录，然后选择**登录**。
+5. 在**合作伙伴中心分析连接器**页面上，使用贵公司的 Azure AD 租户的全局管理员、管理员代理或帐单管理员身份登录，然后选择**登录**。
  
-6.  当提示你访问条款时，选择**接受**。 
+6. 当提示你访问条款时，选择**接受**。 
 
 合作伙伴中心分析服务连接到 Power BI 之后，就会开始加载数据。 根据数据量，这一过程最多需要 10 分钟。 
 

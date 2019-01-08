@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 角色、 权限、 管理员、 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: ad20423242868751665ddb40d204edd17eb8bc1e
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: d05656a219cda8a68ded396a7f19b7bb4e5f9cdc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795100"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995911"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
@@ -20,13 +20,13 @@ ms.locfileid: "5795100"
 
 - 合作伙伴中心
 
-在合作伙伴中心中的每个角色附带某些允许用户完成特定任务的权限。 在合作伙伴中心中的工作原理的人必须分配角色。
+在合作伙伴中心中的每个角色附带某些权限，从而允许用户完成特定任务。 在合作伙伴中心中的工作原理的人必须分配角色。
 
-具体取决于组织的规模某些用户可能工作跨位置或仅用于一个位置。 
+具体取决于你组织的规模某些用户可能工作跨位置或仅用于一个位置。 
 
 例如：
 
-- 全局管理员可以法定公司和为特定位置; 管理员全局管理员可以管理业务的位置之一或者。 
+- 全局管理员可以是法定公司和为特定位置; 的管理员全局管理员可以管理业务的位置之一或者。 
 - 奖励管理员可以管理的一个或多个位置，但需要指定这些位置。
 
 
@@ -108,7 +108,7 @@ ms.locfileid: "5795100"
 <tr class="odd">
 <td><p><strong>奖励管理员</strong></p></td>
 <td><ul>
-<li><p>启动和管理奖励声明</p></li>
+<li><p>启动和管理奖励申请</p></li>
 <li><p>可查看和编辑奖励计划的所有方面</p></li>
 <li><p>可查看和编辑银行和税务详细信息</p></li>
 <LI><p>视图返点和合作收益</p></li>
@@ -120,7 +120,7 @@ ms.locfileid: "5795100"
 <td><p><strong>奖励用户</strong></p></td>
 <td><ul>
 <li><p>可以查看奖励计划</p></li>
-<li><p>可查看和启动奖励声明</p></li>
+<li><p>可查看和启动奖励申请</p></li>
 <li><p>可以查看银行和税务详细信息</p></li>
 <li><p>视图返点和合作收益</p></li>
 <LI><p>视图返点和合作收益</p></li>
@@ -132,7 +132,7 @@ ms.locfileid: "5795100"
 <td><p><strong>管理员代理</strong></p></td>
 <td><ul>
 <li><p>客户管理</p></li>
-<li><p>将设备列表添加到合作伙伴中心 <</p></li>
+<li><p>将设备列表添加到合作伙伴中心&lt;</p></li>
 <p><li>创建档案并将其应用于设备</p></li>
 <li><p>订阅管理</p></li>
 <li><p>客户的服务运行状况和服务请求</p></li>

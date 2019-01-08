@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.localizationpriority: medium
-ms.openlocfilehash: 50af14ab0e8edf6cd4576be6615cd7238b23bd99
-ms.sourcegitcommit: 9ea2f05f938ea22251f3719b61f03ccb71d3494f
+ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2019
-ms.locfileid: "8990989"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995941"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -57,7 +57,7 @@ ms.locfileid: "8990989"
 </tbody>
 </table>
 
- 
+ 
 
 ## <a href="" id="licensebasedfiles"></a> 基于许可证的文件字段
 
@@ -179,7 +179,7 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="even">
 <td>税务</td>
-<td><p>税务金额费用，基于你的市场税务规则和特定情况。</p></td>
+<td><p>税务金额费用，具体取决于你市场 & #39; s 税务规则和特定情况。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>在合作伙伴中心中报告的客户的组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
+<td><p>客户 & #39; 在合作伙伴中心中报告 s 组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
 <td>测试客户 A</td>
 </tr>
 <tr class="even">
@@ -204,12 +204,12 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>订阅记录的经销商 MPN ID。 请参阅[由合作伙伴列出明细](#itemizebypartner)。</p></td>
+<td><p>订阅记录的经销商 MPN ID。 请参阅<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">由合作伙伴列出明细</a>。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>客户的域名，用于帮助识别客户。 这不应该用于唯一标识客户，如客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>客户 & #39; s 域名，用于帮助识别客户。 这不应该用于唯一标识客户，如客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>在合作伙伴中心中报告的客户的组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
+<td><p>客户 & #39; 在合作伙伴中心中报告 s 组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
 <td>测试客户 A</td>
 </tr>
 <tr class="even">
@@ -272,7 +272,7 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>订阅记录的经销商 MPN ID。 请参阅[由合作伙伴列出明细](#itemizebypartner)。</p></td>
+<td><p>订阅记录的经销商 MPN ID。 请参阅<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">由合作伙伴列出明细</a>。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>税务金额费用，基于你的市场税务规则和特定情况。</p></td>
+<td><p>税务金额费用，具体取决于你市场 & #39; s 税务规则和特定情况。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -453,7 +453,7 @@ ms.locfileid: "8990989"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>客户的域名，用于帮助识别客户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>客户 & #39; s 域名，用于帮助识别客户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ ms.locfileid: "8990989"
 </td>
 <td>
 <p><em>可能应用于多种费用类型</em></p>
-<p><em>例外：“偏移行项”已经包括税款。 上面看到信用。</em></p>
+<p><em>例外：&quot;偏移行项&quot;已经包括税款。 上面看到信用。</em></p>
 </td>
 <td>
 <p>税款或增值税 (VAT)</p>

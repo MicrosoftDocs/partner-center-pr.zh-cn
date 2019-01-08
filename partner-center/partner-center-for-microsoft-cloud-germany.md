@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 42cd7aa9f152557e98e1d62a7114b62364d71c4a
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 74fdfa55a90b7e19dbe44f68a2a24f96be0f5e86
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917379"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995651"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心
 
@@ -24,10 +24,11 @@ ms.locfileid: "8917379"
 
 德国 Microsoft 云提供[Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)，从德国的数据中心传递的单独实例。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
 
->[!IMPORTANT]
->根据客户的需求的演化，德国我们云策略将重点关注交付的新云地区德国中的符合我们全局云提供。 与此焦点时，我们将不再接受新客户或部署从当前可用的 Microsoft 云德国的任何新的服务。 现有客户可以继续使用的当前云服务目前，我们将保持与必要的安全更新。 
+> [!IMPORTANT]
 
->接下来，新客户已选择可用时使用的当前可用的欧洲地区或德国中的新区域。 有关详细信息，请参阅[Microsoft 提供从德国的新数据中心的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
+> 基于客户的需求的演化，德国我们云策略将重点关注交付的新云地区在德国的符合我们全局云提供。 具有此焦点，我们将不再接受新客户或部署从当前可用的 Microsoft 云德国的任何新的服务。 现有客户可以继续使用的当前云服务现在，我们将保持与必要的安全更新。 
+> 
+> 接下来，新客户已使用当前可用的欧洲地区或在德国的新地区可用时的选项。 有关详细信息，请参阅[Microsoft 提供从德国的新数据中心的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>德国 Microsoft 云合作伙伴中心：在欧盟和欧洲自由贸易联盟内销售德国云解决方案

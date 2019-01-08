@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d128075199f30399641019e37740a8d9a34207f1
-ms.sourcegitcommit: e26f8fa7d88f0ae10d4ef62f7a853114cc565cda
+ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2018
-ms.locfileid: "8973897"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995961"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -27,7 +27,7 @@ ms.locfileid: "8973897"
 
 **提交客户服务请求**
 
-1.  从**合作伙伴中心**菜单中，选择**服务请求**，然后选择**客户请求**。 
+1.  从**合作伙伴中心**菜单中，选择**服务请求**，然后**客户请求**。 
 
 2.  在客户请求页面上，搜索所需的客户。
 
@@ -37,38 +37,40 @@ ms.locfileid: "8973897"
 
 **注意**当你需要为你在 Azure 中的客户创建服务请求时，应注意以下：
 
-- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限的客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
+- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
 
-- 尽管在合作伙伴中心的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
+- 尽管在合作伙伴中心中的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
 
-1.  选择**新建支持请求**。
-2.  使用相应信息填写支持请求，然后选择**创建**：
-        -   在支持请求的**基础知识**部分中，确保选择**支持计划**字段中的**云解决方案提供商**。
-        -   在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
+1. 选择**新建支持请求**。
+2. 使用相应信息填写支持请求，然后选择**创建**：
+-   在支持请求的**基础知识**部分中，确保选择**支持计划**字段中的**云解决方案提供商**。
+-   在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
 
-3.  稍后在 Microsoft Azure 门户中查看你的客户的服务请求，方法是选择**管理支持请求**。
+3. 稍后在 Microsoft Azure 门户中查看你的客户的服务请求，方法是选择**管理支持请求**。
 
 你可能需要为客户创建支持请求，当没有为该客户的管理员权限。 这可能发生在两种方案之一： 
  
 -   首先建立关系时，你未请求管理员权限。
--   管理客户的 Azure 订阅并无其他人，这不需要你具有管理权限。
+-   管理客户的 Azure 订阅和无其他错误，不需要你具有管理权限。
  
 在两种情况下，你可以使用以下过程以创建支持请求。 
 
-1.  从客户在合作伙伴中心中的帐户页面中复制客户的域名。
+1. 从客户在合作伙伴中心中的帐户页面中复制客户的域名。
 
-2.  转到https://portal.azure.com/[customerdomainname]。 
+2. 转到https://portal.azure.com/[customerdomainname]。 
 
-3.  选择需要支持的 Azure 订阅。
+3. 选择需要支持的 Azure 订阅。
 
-4.  选择**新支持请求**，，然后按照提示创建请求。 
+4. 选择**新支持请求**，然后按照提示创建请求。 
 
  
 **Office 365、Microsoft Dynamics CRM Online、企业移动性套件**
 
 1. 在**创建服务请求**部分中，选择相应的支持主题类别。 可能需要选择**更多…** 查看其他主题。    
 2. 完成服务请求表单，然后选择**提交**。
-    **注意** 确保包含的是你的联系人信息，而不是客户的信息。
+
+>[**注意**] 请确保包含联系人信息，而不是客户的。
+
 3. 稍后查看客户的服务请求，方法是转到 Office 365 管理中心并选择**查看所有支持票证**。
 
 ## <a name="faq"></a>常见问题
@@ -111,7 +113,7 @@ ms.locfileid: "8973897"
 
 **如何获取其他 Dynamics 365 支持？**
 
- 如果你遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
+如果遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
  
 与[Dynamics 支持](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)人员联系
 

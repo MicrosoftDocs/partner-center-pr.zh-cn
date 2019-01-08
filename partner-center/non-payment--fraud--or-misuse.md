@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c5a78af8e58b61ff5b0ed469eefdd172cf329306
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917589"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995901"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
@@ -67,7 +67,7 @@ ms.locfileid: "8917589"
 #### <a name="post-purchase-customer-account-management"></a>购买后客户帐户管理
 - 与客户沟通，在了解他们的云使用业务需求的同时，设置适当的监测阈值
     > [!NOTE]  
-    >  你可以在指定月份内监视客户使用情况和客户接近预算时收到通知的合作伙伴中心中[设置每月的 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)。
+    >  你可以在合作伙伴中心，以在月份期间监视客户使用情况和客户接近预算时通知中[设置每月的 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)。
 - 定期监测[客户活动日志](activity-logs.md)以帮助及早检测出欺诈行为
 - 在检测到可疑活动时快速采取行动
 - 在授予客户对订阅的完全管理访问权限之前，请务必先进行风险缓解控制
@@ -83,9 +83,9 @@ ms.locfileid: "8917589"
 > [!IMPORTANT]  
 > 如果 Microsoft 检测到我们确认或怀疑违反可接受的使用策略的合作伙伴或客户活动，我们将采取强制措施。 客户的使用权限可能会立即被暂停，并且 Microsoft 将通知你强制执行措施或应你请求告知你最新进展。
 
- 
+ 
 
- 
+ 
 
 
 

@@ -7,12 +7,12 @@ ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc017fdf17950187694bff1cb3e9ce389a50009d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: bf0145b9e82d14d51486f7063329b971451c2fcd
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683736"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995801"
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 
@@ -48,7 +48,7 @@ ms.locfileid: "8683736"
 </tr>
 <tr class="even">
 <td>欧盟</td>
-<td><p>在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 VAT 号码必须[接受为有效号码](http://go.microsoft.com/fwlink/p/?LinkId=808160)。</p>
+<td><p>在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 VAT 号码必须<a href="http://go.microsoft.com/fwlink/p/?LinkId=808160" data-raw-source="[accepted as valid](http://go.microsoft.com/fwlink/p/?LinkId=808160)">接受为有效号码</a>。</p>
 <p>Microsoft 不支持赊账和重新计费，因此在你销售任何订阅之前，必须在合作伙伴中心中注册 VAT ID 号码。</p>
 <p>向 Microsoft 发送 VAT ID 号码</strong></p>
 <ol>
@@ -74,11 +74,11 @@ ms.locfileid: "8683736"
 </tbody>
 </table>
 
- 
+ 
 
- 
+ 
 
- 
+ 
 
 
 

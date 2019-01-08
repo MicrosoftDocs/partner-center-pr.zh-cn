@@ -6,14 +6,14 @@ description: 查看奖励计划的收益和付款。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3905fd1841426cd70416599a48be1a9660bae2
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795940"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995951"
 ---
-#<a name="incentive-payouts-overview"></a>奖励付款概述
+# <a name="incentive-payouts-overview"></a>奖励付款概述
 
 **适用范围**
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795940"
 
 奖励管理员和用户可大概了解他们已经或即将从奖励计划收到的收益和付款。   
 
-##<a name="summary-information-on-earnings-and-payout"></a>关于收益和付款的摘要信息
+## <a name="summary-information-on-earnings-and-payout"></a>关于收益和付款的摘要信息
 
 奖励用户和奖励管理员可以在**付款摘要**中查看他们在所参与的奖励计划中的财务状况。 你可以根据需要详细分析每个摘要信息区域。 
 

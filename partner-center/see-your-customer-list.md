@@ -7,12 +7,12 @@ ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 949536273e4b07778f4a9fac4f4779858573fc1f
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683696"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995771"
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
@@ -38,7 +38,7 @@ ms.locfileid: "8683696"
 从**合作伙伴中心**菜单中，选择**客户**。
 2.  若要搜索客户，请在搜索框中输入客户名称或域名。
 3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
-4.  在客户**帐单到**信息更新公司名称。 当你保存新值时，它将反映在客户列表中。 这只会更改帐单到公司名称和客户列表值。 它将不会反映任意其他人。
+4.  在客户**帐单到**信息更新的公司名称。 当你保存新值时，它将反映在客户列表。 这只会更改帐单到公司名称和客户列表值。 它将不会反映任意其他人。
 
 ## <a name="export-your-customer-list"></a>导出客户列表
 
@@ -71,11 +71,11 @@ ms.locfileid: "8683696"
 > [!NOTE]  
 > 有关订阅管理的详细信息，请参阅[客户订阅](customer-subscriptions.md)。
 
-     
+     
 
- 
+ 
 
- 
+ 
 
 
 

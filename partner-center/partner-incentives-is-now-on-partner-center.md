@@ -6,12 +6,12 @@ description: 奖励计划鼓励合作伙伴采用新的营销手段、提供培�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6427f035c7cb4107073ab7039a3b1823025968
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797300"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995631"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作伙伴奖励现已登陆合作伙伴中心 
 
@@ -27,19 +27,19 @@ ms.locfileid: "5797300"
 
 如果你是云解决方案提供商合作伙伴并以经销商身份积极参与，就能够获得参与 Microsoft 合作伙伴奖励计划的资格。
 加入计划后，你将有资格获取返点和合作收益。 如果要注册加入奖励计划，你需要： 
--   已签署有效的 Microsoft 合作伙伴网络 (MPN) 协议。  
--   间接提供商必须已签署有效的云分销商协议。
--   直接经销商必须已签署经销商协议。
--   如果你是间接经销商合作伙伴，则必须已加入 MPN。 间接经销商在完成首次交易后将收到参与奖励计划的邀请。 
--   获得至少一项 Microsoft 能力。 查看当前 [Microsoft 能力](competencies.md)的列表。
+- 已签署有效的 Microsoft 合作伙伴网络 (MPN) 协议。  
+- 间接提供商必须已签署有效的云分销商协议。
+- 直接经销商必须已签署经销商协议。
+- 如果你是间接经销商合作伙伴，则必须已加入 MPN。 间接经销商在完成首次交易后将收到参与奖励计划的邀请。 
+- 获得至少一项 Microsoft 能力。 查看当前的[Microsoft 能力](competencies.md)的列表。
 
 ## <a name="one-site-one-log-on"></a>一个站点，一次登录
 
-Microsoft 合作伙伴奖励计划现已迁移到合作伙伴中心，你将能够开展所有管理工作，包括管理用户、代表客户行事、注册认证与奖励、报告奖励收益以及获取付款。 你的所有奖励数据都可供你在你的奖励**合作伙伴中心**上。 奖励数据每天都会更新。
- 
+现在，Microsoft 合作伙伴奖励计划已移动到合作伙伴中心，你将能够开展所有管理工作，包括管理用户、 执行代表客户行事、 注册认证与奖励、 报告奖励收益以及获取付款。 你的所有奖励数据都是可以在你的奖励**合作伙伴中心**。 奖励数据每天都会更新。
+ 
 ## <a name="set-your-users-up-in-partner-center"></a>在合作伙伴中心设置你的用户
- 
-第一步是通过在合作伙伴中心设置你的奖励用户来完善你的合作伙伴中心奖励帐户。 你已收到电子邮件，内有你所在组织的奖励用户列表。 你的组织的奖励管理员完成用户设置后，你的所有奖励数据将都显示在奖励**合作伙伴中心**。
+ 
+第一步是通过在合作伙伴中心设置你的奖励用户来完善你的合作伙伴中心奖励帐户。 你已收到电子邮件，内有你所在组织的奖励用户列表。 你的组织的奖励管理员完成用户设置后，你的所有奖励数据将都显示在奖励**合作伙伴中心**上。
 
 **另请参阅**
 

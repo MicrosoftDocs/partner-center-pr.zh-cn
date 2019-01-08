@@ -8,12 +8,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: subscription, create new, add subscription, suspend, cancel,
 ms.localizationpriority: medium
-ms.openlocfilehash: 4503508ccd5efbd3c983726170bf126088b77a3c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 4494517f295dde1439fe2e5831cf91d5012424ed
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683716"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995861"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -30,23 +30,23 @@ ms.locfileid: "8683716"
 
 **创建新订阅**
 
-1.  从**合作伙伴中心**菜单中，选择**客户**，然后从列表中选择客户。
+1. 从**合作伙伴中心**菜单中，选择**客户**，然后从列表中选择客户。
 
-2.  选择**新订阅**。
+2. 选择**新订阅**。
 
-3.  选择要使用的订阅计费的类型。  参阅[关于新计费功能的常见问题解答](faq-about-new-billing-features.md)，可获取有助于你决定是采用按月计费还是按年计费频率的信息。
+3. 选择要使用的订阅计费的类型。  参阅[关于新计费功能的常见问题解答](faq-about-new-billing-features.md)，可获取有助于你决定是采用按月计费还是按年计费频率的信息。
  
- >[!Note]
- >你可以向客户提供试用订阅。 可用于试用版产品正在目录中试用选项卡。 请参阅[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)。
+>[!Note]
+>你可以为客户提供试用订阅。 可用的试用版产品正在目录中试用选项卡。 请参阅[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)。
 
  
 4. 选择计费频率后，选择你希望在目录中的订阅的产品。 产品可用性取决于客户类型（教育、政府等）和你所选的计费频率。 如果产品不可用，则客户可能已订阅该产品并且该产品仅允许订阅一次。 或者，你可能已暂停订阅，在这种情况下，可以重新激活该订阅而不是购买一个新订阅。
 
 5. 检查要添加的订阅并输入许可证编号。 然后**提交**订单。
 
-6.  添加订阅后，通过单击订阅列表中的订阅名称来打开它。 在此编辑页面上，可以选择加载项许可证（如果有任何加载项许可证可用）。
+6. 添加订阅后，通过单击订阅列表中的订阅名称来打开它。 在此编辑页面上，可以选择加载项许可证（如果有任何加载项许可证可用）。
 
-7.  在编辑页面上，还可以更改许可证数量，或者暂停订阅。
+7. 在编辑页面上，还可以更改许可证数量，或者暂停订阅。
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暂停或取消订阅
 
@@ -66,7 +66,7 @@ ms.locfileid: "8683716"
 
 
 
- 
+ 
 
 
 

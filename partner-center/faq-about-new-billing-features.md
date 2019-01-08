@@ -7,12 +7,12 @@ ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 19544d00aa0a040b4dcf1a4733714dc80b4e745e
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: fe930a85f59420548863831a6e4fd311de09c6bc
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683806"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8996011"
 ---
 # <a name="faq-about-new-billing-features"></a>有关新计费功能的常见问题解答
 
@@ -138,13 +138,13 @@ ms.locfileid: "8683806"
 
 -   **答：** 可以。 你可以随时更改订阅的许可证数量。 添加其他许可证不会影响计费频率。 
 
-**问：** 我能否向采用按年计费的现有订阅添加采用按月计费的许可证？ 
+**问：** 可以添加采用按月计费的采用按年计费的现有订阅许可证？ 
 
 -   **答：** 购买采用按年计费的订阅之后，任何附加许可证将采用相同的计费频率。 如果以后需要购买采用按月计费的许可证，你将需要购买新的订阅。
 
 **问：** 能否将订阅的计费频率从按月切换为按年或者从按年切换为按月？ 
 
--   **答：** 可以。 **若要更改联机服务的计费频率**的[计费基础知识](https://docs.microsoft.com/en-us/partner-center/billing-basics)，请参阅。
+-   **答：** 可以。 请参阅**更改联机服务的计费频率**的[计费基础知识](https://docs.microsoft.com/en-us/partner-center/billing-basics)。
 
 **问：** 按年计费是否适用于附加产品/服务？   
 
@@ -242,17 +242,17 @@ ms.locfileid: "8683806"
 
 **问：** 如果对奖励有疑问，你可以联系谁？
 
--   **答：** 请联系相应的区域奖励支持团队：
+- **答：** 请联系相应的区域奖励支持团队：
 
-    - 北美：ocina@microsoft.com
+  - 北美：ocina@microsoft.com
 
-    - 拉丁美洲和巴西：ocilatam@microsoft.com
+  - 拉丁美洲和巴西：ocilatam@microsoft.com
 
-    - EMEA：ociemea@microsoft.com
+  - EMEA：ociemea@microsoft.com
 
-    - APOAC（不包括日本）：ociapgc@microsoft.com
+  - APOAC（不包括日本）：ociapgc@microsoft.com
 
-    - 日本：ocijp@microsoft.com
+  - 日本：ocijp@microsoft.com
 
 
 **问：** 如果我暂停订阅会出现什么情况？ 

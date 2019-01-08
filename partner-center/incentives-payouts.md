@@ -1,19 +1,19 @@
 ---
-title: 了解你的奖励付款 | 合作伙伴中心
+title: 了解你的奖励付款 |合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 你的奖励收益和付款计划将有助于进行未来的规划。
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 74811348b14ecad7afc214337fae760c43e4de63
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 535181676cc03c8e696c613e8a907705c40a8fd5
+ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796350"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "8995694"
 ---
-#<a name="understand-your-incentives-payouts"></a>了解你的奖励付款
+# <a name="understand-your-incentive-payouts"></a>了解你的奖励付款
 
 **适用于**
 
@@ -28,10 +28,8 @@ ms.locfileid: "5796350"
 
 你可以深入了解每个奖励计划的收益和付款。 跟踪收益和付款之间的时间线将有助于规划未来的资源需求等。 你还可以了解奖励计划中哪些地点更成功或更活跃。 
 
-##<a name="drill-down-on-incentives-earnings"></a>深入了解奖励收益
+## <a name="drill-down-on-incentives-earnings"></a>深入了解奖励收益
+了解你的组织在哪里有机会通过奖励计划获取更多收益，以及你已经在哪里获得了付款。 此数据清楚地表明了你在哪里获得了收益但尚未获得付款。  了解哪些计划和活动是最成功的，并找出你在哪些位置正在获得收益。 按照计划，你可以查看总体收益潜力如何、你可以参与计划的时间段以及计划的到期时间。 每个计划和收益类型将具有不同的要求、 日期和最大收益阈值。 
 
-了解你的组织在哪里有机会通过奖励计划获取更多收益，以及你已经在哪里获得了付款。 此数据清楚地表明了你在哪里获得了收益但尚未获得付款。  了解哪些计划和活动是最成功的，并找出你在哪些位置正在获得收益。 按照计划，你可以查看总体收益潜力如何、你可以参与计划的时间段以及计划的到期时间。 收益的每个计划和类型将具有不同的要求、日期和最大收益阈值。 
-
-##<a name="drill-down-on-incentive-payouts"></a>深入了解奖励付款
-
+## <a name="drill-down-on-incentive-payouts"></a>深入了解奖励付款
 为了从另一个层面清楚地了解“奖励”收入，“付款”会向你显示已付款项以及即将进行的付款的详细信息。 你可以获取每个已付款计划的明细表，这样你就可以查看交易明细，例如扣除的税款。 你可以深入了解每个交易的每年付款和每月付款。
