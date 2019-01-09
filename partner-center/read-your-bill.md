@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: b1d70425a38872ae7d4a4f6f69b1f5072b2d603b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: aec344eb7e4ed6e0a4d5e7e506c9bcf195654293
+ms.sourcegitcommit: 9eadb7ff6c38a08c694710a8c14b899d0f48059a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995871"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "8997336"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
@@ -28,7 +28,7 @@ ms.locfileid: "8995871"
 云解决方案提供商计划中选择按月计费的合作伙伴会为其客户的订阅（基于许可证和基于使用情况）向 Microsoft 支付为期 60 天的欠款。
 
 > [!NOTE]  
-> 发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期起四 (4) 天内可提供发票。
+> 发票是-包括计划、 产品和客户-当前计费周期的所有费用的汇总，并且不可用 UTC 时间选定计费日期的两个 （2） 天内。 例如，如果你有 9 月 12 计费日期，发票生成过程将在凌晨 12:00 UTC 13 上开始，并通过凌晨 12:00 UTC 14 上完成。 如果你不从 15 日到晚上 11:59 UTC 通过发票，你要退出你的服务级别协议，并且应文件服务请求。 
 
 你将收到一张基于许可证的 (Office365) 和基于使用情况 (Azure) 费用发票和一次性 （Azure 虚拟机预留实例） 的单独发票费用。
 
