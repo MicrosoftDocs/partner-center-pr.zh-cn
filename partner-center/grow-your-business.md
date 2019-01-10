@@ -7,12 +7,12 @@ keywords: 引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c0c4dcb50a5805b0ef3a1e7f698b030a61818cc
-ms.sourcegitcommit: f827990b99ad1fd9e53433e1d563cbdf4adae628
+ms.openlocfilehash: 0a654ac3a549d420d1684abe2174a5951026e242
+ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "8776481"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "9000037"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>发展你的 Microsoft 合作伙伴业务 
 
@@ -40,5 +40,5 @@ Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解
 | 在更多市场中销售 | 云解决方案提供商销售渠道在许多地区和国家中都可用。 参阅[云解决方案提供商市场](agreements.md)，以查看该列表。 有关云解决方案提供商渠道的简介，请参阅[云解决方案提供商概述](csp-overview.md)。  | 云解决方案提供商合作伙伴 |
 销售给特定行业等非盈利性组织合规性和教育版|[向特定行业销售](get-special-pricing-for-offers.md)|云解决方案提供商合作伙伴|
 |发展你的业务通过奖励合作计划中提供的许多活动。 通过合作伙伴中心的活动的文件声明。| [创建和管理奖励申请](create-incentives-claims.md)|云解决方案提供商合作伙伴|
-|使用已在你要销售的 Microsoft 软件的第三方产品/服务生成软件的新捆绑的包|[发现第三方产品/服务](third-party-offers.md)|云解决方案提供商合作伙伴|
-|
+|通过包含适用于已在你要销售的 Microsoft 软件的第三方产品/服务生成软件的新捆绑的包|[发现第三方产品/服务](third-party-offers.md)|云解决方案提供商合作伙伴|
+|是你的公司在销售和管理 Azure 明星？ 应用在 Azure 专家 Microsoft 服务提供商计划中注册|[Azure 专家 Microsoft 服务提供商计划](azure-expert-msp.md)|云解决方案提供商合作伙伴|
