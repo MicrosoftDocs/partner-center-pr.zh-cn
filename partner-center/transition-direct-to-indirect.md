@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，转换，间接经销商
-ms.openlocfilehash: a4a09a4302775fb34cf45f37aed152a765e75ff8
-ms.sourcegitcommit: fe4e7cb7effea3343aec1be96a64323022822e84
+ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
+ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2019
-ms.locfileid: "9004623"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "9011104"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 直接合作伙伴过渡到云解决方案提供商间接经销商 
 
@@ -153,6 +153,8 @@ ms.locfileid: "9004623"
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>注册为间接经销商奖励 
 
-你成功注册为间接经销商在你的现有直接计费合作伙伴租户上后，你将收到邀请 30 天内注册为间接经销商奖励。 邀请基于合作伙伴当前与你的云解决方案提供商合作伙伴租户关联的 MPN 帐户。 将与合作伙伴 MPN 帐户关联的电子邮件地址发送的邀请。 
+你已成功注册为间接经销商在你的现有直接计费合作伙伴租户上后，你将收到邀请 30 天内注册为间接经销商奖励。 邀请基于合作伙伴当前与你的云解决方案提供商合作伙伴租户关联的 MPN 帐户。 将与合作伙伴 MPN 帐户关联的电子邮件地址发送的邀请。 
 
 你也有资格注册与该相同的合作伙伴租户直接计费奖励计划。 你必须单独管理程序。
+
+另请参阅[有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)和[为间接经销商直接计费常见问题解答](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。
