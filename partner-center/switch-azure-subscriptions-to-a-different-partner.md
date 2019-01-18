@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: d66e24d831aa3ea9d84138d1ca06e5e9be51742b
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f9df7ac6c1e30f9e0d9d62c5e0c18aae529c472a
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995891"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014804"
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 
@@ -25,8 +25,7 @@ ms.locfileid: "8995891"
 
 >[!Note]  
 >这一次仅直接或间接提供商将能够传输的订阅。
-
->[!Note]它不是当前可能更改为 Office 365、 企业移动性套件或 Microsoft Dynamics CRM 订阅的云解决方案提供商订阅的合作伙伴。
+>它不是当前可能更改为 Office 365、 企业移动性套件或 Microsoft Dynamics CRM 订阅的云解决方案提供商订阅的合作伙伴。
 
 
 

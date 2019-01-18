@@ -8,12 +8,12 @@ ms.author: v-petand
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 04a027bf50739434f9a6d155eb8a31f4074185a7
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 344eb01f363c7a79ca27082e3eeb1531889f134b
+ms.sourcegitcommit: 15d8b6de2b8a4c7d01852f5ed3603338d4281b00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917539"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "9014814"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小 
 
@@ -49,7 +49,7 @@ ms.locfileid: "8917539"
 
 **使用 Microsoft Azure 门户获取虚拟机大小信息**
 
-1.  在合作伙伴中心中，转到你**的客户**的页面。
+1.  在合作伙伴中心中，依次转到你**的客户**的页面。
 
 2.  查找想要购买 Azure 虚拟机预订的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。 
 
@@ -93,7 +93,7 @@ ms.locfileid: "8917539"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>在 Microsoft Azure 门户中验证客户的预订利用率
 
-1.  在合作伙伴中心中，转到你**的客户**的页面。
+1.  在合作伙伴中心中，依次转到你**的客户**的页面。
 
 2.  查找想要验证其预订折扣和使用情况的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。 
 
@@ -119,7 +119,7 @@ ms.locfileid: "8917539"
 
 你可以使用 Azure 利用率 API 获取预定利用率数据，以验证客户是否获得了预订折扣并查看折扣应用于的 VM（虚拟机）。 比较示例 A 与示例 B，了解如何验证客户的预定利用率。 
 
-![预订的用法示例](images\usage5.png)
+![预订的用法示例](images/usage5.png)
 
 -   reservationId 标识用于将折扣应用于虚拟机的 Azure 预定。
 -   consumptionMeter 是应用了预订折扣的虚拟机的 MeterId。
