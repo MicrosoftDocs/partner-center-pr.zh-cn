@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，转换，间接经销商
-ms.openlocfilehash: f99a6bcffc3b8279ffebd00c0a6f4d834f7b4939
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
+ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011104"
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "9015723"
 ---
 ## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 直接合作伙伴过渡到云解决方案提供商间接经销商 
 
@@ -39,7 +39,7 @@ ms.locfileid: "9011104"
 4. 选择立即注册。 你的间接经销商业务将使用用于直接业务在同一 AAD 租户。
 
 >[!Note]
->注册为间接经销商使用直接帐单 AAD 租户的选项仅可用于直接为直接计费卸载标识的帐单合作伙伴。 
+>最初，这一新转换功能将为 12 月周年日期与 9 月合作伙伴提供。 如果您不"t 具有 12 月 9 月之间的周年日期，你将不会看到这一次该功能。 2018 年 12 月以后的周年日期与合作伙伴后的合作伙伴已启用的功能的收到通知。
 
 
 5. 当你注册已批准时，重新登录到合作伙伴中心。
@@ -54,7 +54,7 @@ ms.locfileid: "9011104"
 ![间接经销商协议](images/direct/direct3.png)
 
 >[!Important] 
->一旦你成功注册为间接经销商使用你的现有直接计费合作伙伴租户，没有回滚选项若要删除的间接经销商功能。 在继续进行注册之前，请确保你想要转换到的间接经销商。
+>一旦你注册为间接经销商使用的新功能，没有回退到直接计费-仅租户的选项。 请确保你完全评估之前注册为间接经销商业务需求。
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>虽然从直接转换为间接经销商
 
