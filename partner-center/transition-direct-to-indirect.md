@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，转换，间接经销商
-ms.openlocfilehash: da130f87825c9e5c81bf87de6e8cde49e5148577
-ms.sourcegitcommit: ebba5c5d0fb1603f787a40003995e168f80ff797
+ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
+ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/21/2019
-ms.locfileid: "9015723"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "9024909"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 直接合作伙伴过渡到云解决方案提供商间接经销商 
+## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>过渡从云解决方案提供商 (CSP) 直接为云解决方案提供商间接经销商的帐单合作伙伴 
 
 **适用范围：**
  - 云解决方案提供商合作伙伴
