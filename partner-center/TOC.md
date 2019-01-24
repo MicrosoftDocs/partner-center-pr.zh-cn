@@ -12,7 +12,8 @@
 
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
-## [云解决方案提供商计划直接合作伙伴新要求](direct-partner-new-requirements.md) 
+## [云解决方案提供商直接合作伙伴新要求](direct-partner-new-requirements.md) 
+## [从云解决方案提供商 (CSP) 直接合作伙伴过渡到云解决方案提供商间接经销商](transition-direct-to-indirect.md)
 ## [注册为控制面板供应商](enroll-as-cpv.md)
 ###[必须在租户上启用多重身份验证 (MFA) 才能访问该页面](enable-mfa.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
@@ -43,7 +44,7 @@
 ### [创建和管理奖励申请](create-incentives-claims.md)
 ### [奖励申请的核心要求](core-requirements.md)
 ### [奖励申请付款概述](incentives-payouts.md)
-
+## [Azure 专家 Microsoft 服务提供商计划](azure-expert-msp.md)
 
 # [计费和税款](billing.md)
 ## [云解决方案提供商计费概述](billing-basics.md)
