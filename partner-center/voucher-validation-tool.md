@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: e1c8f12b2e3683aff69383d58e265d5ed895c2ed
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
+ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015336"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "9025331"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作伙伴中心中的凭证验证和兑换工具验证、 保留，并兑换凭证 
 
@@ -47,11 +47,13 @@ ms.locfileid: "9015336"
 ## <a name="redeem-a-voucher"></a>兑换凭证
 
 一旦你已保留凭证，你可以在它兑换。 
+
 1. 在保留凭证的列表中，选择你想要兑换的 voucher(s)。 
-2. 如有必要更新与会者列表并选择**更新**。
-3. 现在，你将看到**Redeemed**凭证的列表。
+2. 现在，你将看到**Redeemed**凭证的列表。
+
 4. 若要创建声明，选择**创建声明**，或在凭证详细信息页上，选择**创建声明**。
-5. 选择**创建声明**采用软件保障凭证权益 (SAVB) 在线付款工具，以便发票 Microsoft。
+
+5. 选择**创建声明**采用[软件保障凭证权益 (SAVB) 在线付款工具](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)，以便发票 Microsoft。
 
 
 ### <a name="cancel-a-voucher"></a>取消凭证
