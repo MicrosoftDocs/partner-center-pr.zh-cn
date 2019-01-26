@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 Keywords: training, voucher tool, validate voucher, software assurance claims, DPS, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ee3449cc4ebde4417bd1b30c3f944ebdbb47d55
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: ede912569436c159b2dcc1661298e712f9b2065e
+ms.sourcegitcommit: daa8de3e6a269b28e77e097792ac35d70fa26461
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9025331"
+ms.lasthandoff: 01/26/2019
+ms.locfileid: "9030067"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作伙伴中心中的凭证验证和兑换工具验证、 保留，并兑换凭证 
 
@@ -60,7 +60,7 @@ ms.locfileid: "9025331"
 
 有几种原因导致你可能需要取消凭证预留：
 
-- 最初保留 boucher 时，已从更改的产品/服务或计划。
+- 产品/服务或程序已从最初保留凭证。
 
 - 此服务将不会再生效。
 
