@@ -6,12 +6,12 @@ description: 了解在云解决方案提供商计划中进行销售的不同模�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 60604fd121c3cf47e85e57bb903e2b4dd2fac96c
-ms.sourcegitcommit: af4378ef9410319adffb938c5a042722ab260ad9
+ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
+ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "9001697"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "9042581"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
@@ -71,6 +71,15 @@ ms.locfileid: "9001697"
 |**账款** |组织基础结构来管理客户计费和预配。 
 
 
+查看的最低要求后，你必须完成快速验证问卷调查来确认你的资格。 
+
+[云解决方案提供商评估](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+- 注册为直接合作伙伴并满足接纳标准后，你的全局管理员可以设置你的帐户、添加员工、根据他们的工作为其分配角色和权限，以及设置组织配置文件。
+
+- 如果你已与客户联系你想要继续使用通过合作伙伴中心与其合作，你将需要[将其关联](request-a-relationship-with-a-customer.md)到你在合作伙伴中心中的帐户。 以后，Microsoft 可以将你的计费和开票与他们关联。 
+
+有关通过直接计费合作伙伴过渡到间接经销商的信息，请阅读[从为云解决方案提供商间接经销商的云解决方案提供商 (CSP) 直接计费合作伙伴过渡](transition-direct-to-indirect.md)
 
 ## <a name="csp-regional-markets-and-currencies"></a>云解决方案提供商区域市场和货币
 
