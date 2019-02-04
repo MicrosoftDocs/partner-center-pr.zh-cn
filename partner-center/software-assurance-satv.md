@@ -7,14 +7,14 @@ author: labrenne
 ms.author: labrenne
 keywords: 培训凭证，软件保障，培训、 注册 SATV，SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0183f63272c06a9b2bcfeffd89b319258c657bfb
-ms.sourcegitcommit: ffe50c82451fef05f513de9092294e865ac0d24e
+ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "9015334"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043584"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>在合作伙伴中心中的软件保障培训凭证 (SATV) 程序
+# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心中的软件保障培训凭证 (SATV) 计划
 
 通过软件保障合作伙伴计划中注册，从而发展你的业务。 Microsoft 进行补偿合作伙伴向具有软件保障的企业客户提供培训、 计划和其他服务。 
 
@@ -22,7 +22,7 @@ ms.locfileid: "9015334"
 
 如果你不熟悉软件保障培训服务，请参阅[软件保障培训凭证](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
 
-## <a name="get-started"></a>入门
+## <a name="get-started"></a>立即开始
 
 如果你不熟悉软件保障培训服务，请按照下面的所有步骤。 如果你已在培训凭证程序中，活动和合作伙伴帐户信息已移到合作伙伴中心，从步骤四 （4） 下面开始。 
 
@@ -72,7 +72,7 @@ ms.locfileid: "9015334"
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>保留和兑换培训凭证
 
-现在，你已能够保留和兑换凭证并开始培训你的客户。 贵公司的 MPN 管理员有权访问凭证验证和兑换工具 (VVR) 在合作伙伴中心中，并且可以添加用户需要在工具。 有关 VVR 的详细信息，请阅读[凭证验证和兑换工具中的管理凭证](voucher-validation-tool)。
+现在，你已能够保留和兑换凭证并开始培训你的客户。 贵公司的 MPN 管理员有权访问凭证验证和兑换工具 (VVR) 在合作伙伴中心中，并且可以添加用户需要在工具。 有关 VVR 的详细信息，请阅读[凭证验证和兑换工具中的管理凭证](voucher-validation-tool.md)。
 
 >[!Note]
 >VVR 工具已迁移到合作伙伴中心。 从 3 月 2019年起将停用旧 VVR 工具网站。
