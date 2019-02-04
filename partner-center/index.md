@@ -4,21 +4,21 @@ hide_bc: true
 title: 从此处开始获取有关的合作伙伴中心帮助
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: 适用于发展你的 Microsoft 云解决方案提供商计划中的业务的合作伙伴中心帮助。 设置你的帐户、 联系客户、 购买 Action Pack 订阅，以及查找适用于在云解决方案提供商和 MPN 计划的合作伙伴的详细信息。 
+description: 合作伙伴中心可以帮助你发展你的业务 Microsoft 云解决方案提供商 (CSP) 计划中。 设置你的帐户、 联系客户、 购买 Action Pack 订阅，以及查找适用于在云解决方案提供商和 MPN 计划的合作伙伴的详细信息。 
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f15360e6d1c8f03a856fc97e78e854d2496a4e9
-ms.sourcegitcommit: c937b024b2151c8ed5a69a354b731fd2db44a570
+ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
+ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2019
-ms.locfileid: "9035467"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043564"
 ---
-# <a name="partner-center-help"></a>合作伙伴中心帮助
+# <a name="welcome-to-partner-center"></a>欢迎使用合作伙伴中心
 
-有疑问最佳做法，管理你的帐户、 联系客户、 购买 Action Pack 订阅、 奖励计划中注册？ 查找在合作伙伴中心中的答案帮助库。
+Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系的一站式位置。 它具有的工具和资源，以帮助你进行事务处理和发展业务，包括成员身份选项、 客户引荐和云解决方案提供商 (CSP) 计划。 了解有关管理你的帐户、 联系客户、 购买 Action Pack 订阅，以及在合作伙伴中心帮助库中奖励计划中注册的最佳做法。
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -27,7 +27,7 @@ ms.locfileid: "9035467"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
@@ -45,7 +45,7 @@ ms.locfileid: "9035467"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
+                        <div class="cardImage">
                             <img alt="" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
