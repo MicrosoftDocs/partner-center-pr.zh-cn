@@ -6,12 +6,12 @@ description: 了解在云解决方案提供商计划中进行销售的不同模�
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3962eae9086afb3fa2247e18df7124c9b602b70c
-ms.sourcegitcommit: fb8329bee6e8548770539ab9876fcbc942bd2aab
+ms.openlocfilehash: 56a67d5843394e05007f54683ad4baec93033eb7
+ms.sourcegitcommit: 09ec3a0f1bcf90b52199447314f6905c91dc15e3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "9042581"
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "9043506"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
@@ -56,28 +56,26 @@ ms.locfileid: "9042581"
 
 
 
-### <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
+### <a name="enroll-as-a-direct-bill-partner"></a>注册为直接计费合作伙伴
 
-作为直接合作伙伴，你具有与客户和 Microsoft 之间的端到端关系。 我们已更新为从 2018 年 8 月 31 日起直接计费合作伙伴注册要求。 这些新要求将有助于加快业务增长与正确的云解决方案提供商注册模型和加强你与增值服务和支持人员的客户之间的关系。 
+作为直接计费的合作伙伴，你拥有的端到端关系与你的客户和 Microsoft。 我们已更新为从 2018 年 8 月 31 日起直接计费合作伙伴注册要求。 这些新要求将有助于加快业务增长与正确的云解决方案提供商注册模型和加强你与增值服务和支持人员的客户之间的关系。 
 
 ### <a name="minimum-requirements"></a>最低要求
 
 |**要求**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN ID**   |你的业务位置活动 Microsoft 合作伙伴网络 (MPN) ID。   |
+|**MPN ID**   |你的业务位置活动 Microsoft 合作伙伴网络 (MPN) ID。    |
 |**认可**   |颁发机构接受并代表你的组织签署法律协议。|
-|**支持**   |向客户支持提供云产品的第一级别的能力。|
+|**支持**   |向客户支持提供云产品的第一级别的能力。 Microsoft 支持计划，任何一种高级支持适用于合作伙伴 (ASfP) 或适用于合作伙伴 (PSfP)，具体取决于你的需求的卓越支持。 [比较支持计划](https://partner.microsoft.com/en-US/support/partnersupport)。 |
 |**托管的服务**   |至少一个托管的服务、 IP 服务或客户解决方案应用程序。 了解有关添加[托管的服务](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)的详细信息。|
 |**账款** |组织基础结构来管理客户计费和预配。 
 
 
-查看的最低要求后，你必须完成快速验证问卷调查来确认你的资格。 
+查看上面的最低要求后，你必须完成快速验证问卷调查来确认你的资格。 
 
-[云解决方案提供商评估](https://partner.microsoft.com/cloud-solution-provider/assessment)
+[云解决方案提供商问卷调查](https://partner.microsoft.com/cloud-solution-provider/assessment)
 
-- 注册为直接合作伙伴并满足接纳标准后，你的全局管理员可以设置你的帐户、添加员工、根据他们的工作为其分配角色和权限，以及设置组织配置文件。
-
-- 如果你已与客户联系你想要继续使用通过合作伙伴中心与其合作，你将需要[将其关联](request-a-relationship-with-a-customer.md)到你在合作伙伴中心中的帐户。 以后，Microsoft 可以将你的计费和开票与他们关联。 
+填写问卷调查的评估确定要注册云解决方案提供商直接计费计划的资格。 一旦你确认已通过填写问卷调查你满足直接计费条件，并已提交注册表单，我们将执行业务审核你的公司包括信用检查。 如果你已批准的退款，你将需要确认 ASfP 或 PSfP 计划购买，并最后，接受直接计费条款协议，以开始与客户交易作为直接计费的合作伙伴。
 
 有关通过直接计费合作伙伴过渡到间接经销商的信息，请阅读[从为云解决方案提供商间接经销商的云解决方案提供商 (CSP) 直接计费合作伙伴过渡](transition-direct-to-indirect.md)
 
