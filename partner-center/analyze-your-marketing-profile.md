@@ -3,16 +3,16 @@ title: 分析业务配置文件的效率 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 通过合作伙伴中心评估、协商和响应引荐。
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: afd718f98cdd7f54b7a2ea0731ece90c7e338f30
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e621ecb2c57b150b35aa363a19a35747a88a3931
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796770"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062255"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>分析业务配置文件的效率
 <!-- 

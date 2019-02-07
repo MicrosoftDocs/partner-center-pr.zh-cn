@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 在合作伙伴中心创建业务档案，以从 Microsoft 获取销售线索。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 业务档案, 营销档案
 ms.localizationpriority: medium
-ms.openlocfilehash: 174fe0a530fd72a17541d5b2a0bdffc9e16d53d6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797250"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062355"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -43,7 +43,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 然后，这些 Microsoft 专业人员可以向贵公司引荐潜在客户。
 
 > [!IMPORTANT]  
-> 为了帮助我们的合作伙伴简化业务操作，我们正在特性和功能合并到合作伙伴中心，此站点分布在多个工具和网站的使用。 作为该举措之一，我们已移动到合作伙伴中心的所有与引荐相关的功能，并停用了 Pinpoint 和 C2PC 站点。 如果你使用 Pinpoint 或 C2PC 过去获取和管理来自 Microsoft 的引荐，你将需要在合作伙伴中心，以继续获取引荐中创建新的业务配置文件。 我们不再支持从这些站点导入档案。 
+> 为了帮助我们的合作伙伴简化业务操作，我们正在特性和功能合并到合作伙伴中心，此站点分布在多个工具和网站使用。 作为该举措之一，我们已迁移到合作伙伴中心的所有与引荐相关的功能，并停用了 Pinpoint 和 C2PC 站点。 如果你使用 Pinpoint 或 C2PC 过去获取和管理来自 Microsoft 的引荐，你将需要在合作伙伴中心，以继续获取引荐中创建新的业务配置文件。 我们不再支持从这些站点导入档案。 
 
 ## <a name="create-a-profile"></a>创建档案
 
@@ -52,7 +52,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 针对你有权在其中开展业务的每个区域创建档案。 
 
-1.  从**合作伙伴中心**菜单中，选择**引荐** &gt; **业务配置文件**&gt;选择一个国家/地区 >**[创建业务配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
+1.  从**合作伙伴中心**菜单中，选择**引荐** &gt; **业务配置文件**&gt;选择国家/地区 >**[创建业务配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
 
 2.  在**创建企业简介**页面上，选择一个地区，然后输入你的简介信息。
     > [!NOTE]  
@@ -102,7 +102,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 建议选择此设置。 
 
-当你证明成功吸引了客户通过合作伙伴中心，或者参与其他 Microsoft 认证或计划时，我们将自动添加认可的特定产品、 服务和行业取得该成功。 认可是搜索结果中的重要因素。
+当你证明成功吸引了客户通过合作伙伴中心中，或者参与其他 Microsoft 认证或计划时，我们将自动添加认可的特定产品、 服务和行业取得该成功。 认可是搜索结果中的重要因素。
 
 如果你为某些产品提供了服务，但你不想在档案中显示它们，则可以取消选中此框并手动管理你的档案。 客户将看不到这些认可，但你以后可以随时将认可添加回你的档案。
 

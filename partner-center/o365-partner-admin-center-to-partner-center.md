@@ -3,15 +3,15 @@ title: Office 365 合作伙伴管理中心客户：你的业务运营将迁移�
 ms.topic: article
 ms.date: 10/29/2018
 description: Office 365 合作伙伴管理中心客户在迁移到合作伙伴中心时的关键注意事项
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d863fcf84006eed6b22b2160f611a26877efd0c7
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 73c92447cf7f27a6266d6802c3b42526fc9669bc
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797010"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062305"
 ---
 # <a name="office-365-partner-admin-center-customers-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作伙伴管理中心客户：将业务运营迁移到合作伙伴中心的准备工作
 

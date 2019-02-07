@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 计费周期中每项费用的明细项目详细的视图，请从合作伙伴中心下载对帐文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: dac94723d8939f83628dfc8cd0992ab3516fa5a1
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995941"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062375"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -179,7 +179,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="even">
 <td>税务</td>
-<td><p>税务金额费用，具体取决于你市场 & #39; s 税务规则和特定情况。</p></td>
+<td><p>税务金额费用，具体取决于你 market& #39; s 税务规则和特定情况。</p></td>
 <td>0</td>
 </tr>
 <tr class="odd">
@@ -194,7 +194,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>客户 & #39; 在合作伙伴中心中报告 s 组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
+<td><p>Customer& #39; 在合作伙伴中心中报告 s 组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
 <td>测试客户 A</td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>客户 & #39; s 域名，用于帮助识别客户。 这不应该用于唯一标识客户，如客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>Customer& #39; s 域名，用于帮助识别客户。 这不应该用于唯一标识客户，如客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="odd">
 <td>CustomerName</td>
-<td><p>客户 & #39; 在合作伙伴中心中报告 s 组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
+<td><p>Customer& #39; 在合作伙伴中心中报告 s 组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
 <td>测试客户 A</td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="odd">
 <td>TaxAmount</td>
-<td><p>税务金额费用，具体取决于你市场 & #39; s 税务规则和特定情况。</p></td>
+<td><p>税务金额费用，具体取决于你 market& #39; s 税务规则和特定情况。</p></td>
 <td>$0.08</td>
 </tr>
 <tr class="even">
@@ -408,7 +408,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="even">
 <td>ChargeType</td>
-<td><p>费用或调整的类型。 请参阅“<a href="#charge_types">映射发票与对帐文件之间的费用</a>”</p></td>
+<td><p>费用或调整的类型。 请参阅<a href="#charge_types">映射发票与对帐文件之间的费用</a></p></td>
 <td><p>请参阅“<a href="#charge_types">映射发票与对帐文件之间的费用</a>”</p></td>
 </tr>
 <tr class="odd">
@@ -453,7 +453,7 @@ ms.locfileid: "8995941"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>客户 & #39; s 域名，用于帮助识别客户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>Customer& #39; s 域名，用于帮助识别客户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">

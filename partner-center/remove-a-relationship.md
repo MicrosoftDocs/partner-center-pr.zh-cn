@@ -3,15 +3,15 @@ title: 删除与客户的经销商关系 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 删除关系时，会从你在合作伙伴中心的视图中删除任何已达成的业务关系。
-author: KPacquer
-ms.author: kenpacq
+author: labrenne
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2134a8ba118960dabe235d07675b3e340cc2ba16
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
+ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995671"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "9062265"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>删除与客户的经销商关系
 
@@ -32,7 +32,7 @@ ms.locfileid: "8995671"
 
    对每个活动订阅重复此操作。
 
-2. 在合作伙伴中心内删除关系： 从合作伙伴中心中，转到**客户**> 选择客户 >**帐户** > **删除经销商关系**。
+2. 在合作伙伴中心内删除关系： 在合作伙伴中心中，转到**客户**> 选择客户 >**帐户** > **删除经销商关系**。
 
    请注意，如果有订阅仍处于活动状态，则**删除经销商关系**链接将处于非活动状态。 
 
