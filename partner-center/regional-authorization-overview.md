@@ -2,32 +2,40 @@
 title: 云解决方案提供商全球市场 |合作伙伴中心
 ms.topic: article
 ms.date: 11/03/2018
-description: 请参阅的国家和地区，你可以在其中销售云解决方案提供商产品/服务，根据你的公司的位置。
+description: 请参阅的国家和地区，你可以在其中销售云解决方案提供商产品/服务，基于贵公司的位置。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商市场，国家/地区，其中 i 通过可以销售云解决方案提供商，云解决方案提供商产品/服务，地区，销售云解决方案，全局云解决方案提供商
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 456a37e965d7594e29df47437dedb587bff46db3
-ms.sourcegitcommit: 768a1fc42a7b4fb528d6a1c1b31e8c16a0e75efb
+ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
+ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/20/2018
-ms.locfileid: "8980621"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9065604"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划区域市场和货币
 
-贵公司的位置确定你的市场。 你的市场包括地区和/或国家/地区，你可以在其中销售云解决方案提供商产品/服务。
+贵公司的位置确定你的市场。 你的市场包括地区和/或国家/地区，你可以销售云解决方案提供商产品/服务。
 
-例如，如果你的公司位于美国境内，你可以向客户在美国和美国美属外岛销售云解决方案提供商产品/服务。 如果你的公司位于巴西，你可以仅在巴西向客户销售云解决方案提供商产品/服务。 如果你的公司位于非洲地区，你可以向所有 18 国家/地区中非洲地区的客户销售云解决方案提供商产品/服务。
+例如，如果你的公司位于美国境内，你可以向客户在美国和美国美属外岛销售云解决方案提供商产品/服务。 如果你的公司位于巴西，你可以向仅在巴西的客户销售云解决方案提供商产品/服务。 如果你的公司位于非洲地区，你可以向所有 18 国家/地区中非洲地区的客户销售云解决方案提供商产品/服务。
 
-你可以订购代表客户的云解决方案提供商产品/服务之前，客户必须登录 Microsoft 云协议。 你可以查找你地区适用的 Microsoft 云协议[此处](agreements.md)。
+你可以订购代表客户的云解决方案提供商产品/服务之前，客户必须登录 Microsoft 云协议。 你可以找到适用的 Microsoft 云协议的地区/国家/地区[下面](agreements.md)。
 
 >[!IMPORTANT]
 > 从 2018 年 11 月 7 日，你将需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)。
 
-若要确定你可以在其中销售云解决方案提供商产品/服务，一个下面的列表中找到贵公司的位置。 你必须为你想要在其中销售的位置的有效 Microsoft 合作伙伴网络 (MPN) ID。  
+若要确定你可以在其中销售云解决方案提供商产品/服务，在以下列表之一查找贵公司的位置。 你必须为你想要在其中销售的位置的有效 Microsoft 合作伙伴网络 (MPN) ID。  
+
+## <a name="for-unsupported-countries"></a>不受支持的国家/地区
+
+如果不支持所在国家/地区，建立客户使用 Office 管理员 URL 的云解决方案提供商关系。 
+
+- 直接计费的合作伙伴使用以下 url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 **Partnertenantguid**替换为你的租户 id。 
+
+- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 你将使用你的租户 ID 替换**IRtenantguid** **IRMPNID**替换为你的 MPN ID，并使用你的间接提供商租户 id 替换**IPtenantguid** 。
 
 ## <a name="africa-region-and-market"></a>非洲地区和市场
 
@@ -322,7 +330,7 @@ ms.locfileid: "8980621"
 |  以色列         |   USD    |
 |  约旦         |          |
 |  哈萨克斯坦     |   USD    |
-|  Kosovo         |   USD    |
+|  科索沃         |   USD    |
 |  科威特         |   USD    |
 |  吉尔吉斯斯坦     |   USD    |
 |  黎巴嫩        |   USD    |
@@ -337,7 +345,7 @@ ms.locfileid: "8980621"
 |  莫桑比克     |          |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  巴勒斯坦 |        |
 |  卡塔尔          |   USD    |
 |  沙特阿拉伯   |   USD    |
 |  塞尔维亚         |   USD    |
@@ -375,9 +383,9 @@ ms.locfileid: "8980621"
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+如果贵公司的位置在中国台湾，你可以在中国台湾向客户销售云解决方案提供商产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
