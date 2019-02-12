@@ -2,30 +2,30 @@
 title: 软件保障规划服务在合作伙伴中心 |合作伙伴中心
 ms.topic: article
 ms.date: 1/21/19
-description: 在规划部署前规划企业客户提供的服务中注册
+description: 注册计划服务提供部署前规划企业客户
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 98527a89422ff30638c4d6ecc44efac5c147a7f6
-ms.sourcegitcommit: a05b0ee016812cf33febf83d896a20cd39fcd8e1
+ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
+ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "9028494"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066014"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>规划服务合作伙伴中心中的软件保障
+# <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心中的软件保障规划服务
 
-通过软件保障合作伙伴计划中注册，从而发展你的业务。 Microsoft 进行补偿合作伙伴向具有软件保障的企业客户提供培训、 计划和其他服务。
+通过软件保障规划服务计划中注册，从而发展你的业务。 Microsoft 进行补偿合作伙伴向具有软件保障的企业客户提供培训、 计划和其他服务。
 
 如已批准规划服务合作伙伴，Microsoft 进行补偿您提供部署前规划支持，以获取企业客户。 参加该计划可帮助你吸引更多客户、 成为其受信任的规划合作伙伴，并导致其他客户服务。
 
 如果你不熟悉软件保障规划服务，请参阅[拓展你的业务规划服务](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)。
 
 
-## <a name="get-started"></a>入门
+## <a name="get-started"></a>立即开始
 
-如果你不熟悉软件保障规划服务，请按照下面的所有步骤。 如果你已在规划服务程序，处于活动状态，并且你的合作伙伴帐户信息已移到合作伙伴中心，从步骤四 （4） 下面开始。 
+如果你不熟悉软件保障规划服务，请按照下面的所有步骤。 如果你已在规划服务的程序，处于活动状态，并且你的合作伙伴帐户信息已移到合作伙伴中心，从步骤四 （4） 下面开始。 
 
 1. 验证计划资格 
 2. 在规划的服务计划中注册
@@ -39,7 +39,7 @@ ms.locfileid: "9028494"
 
 ## <a name="confirm-eligibility"></a>确认资格
 
-你可以在规划的服务计划中注册之前，你的公司必须满足能力和合规性培训要求，并且领先的客户参与度顾问必须满足技术培训和考试要求。 
+你可以在规划服务计划中注册之前，你的公司必须满足能力和合规性培训要求，并且领先的客户参与度顾问必须满足技术培训和考试要求。 
 
 每个计划的服务计划具有唯一的资格要求。 有关规划服务的资格要求的详细信息，请参阅[验证资格](https://planningservices.partners.extranet.microsoft.com/en/Pages/partnereligibilityrequirements.aspx)。
 
@@ -59,9 +59,9 @@ ms.locfileid: "9028494"
 
 5. 贵公司的计划参与者完成所需的培训课程后，返回到[注册页](https://planningservices.partners.extranet.microsoft.com/en/Pages/GetRegistered.aspx)和签署 Microsoft 规划服务计划提供商协议。 
 
-## <a name="enroll-in-a-planning-service-program"></a>在规划的服务计划中注册
+## <a name="enroll-in-the-planning-services-program"></a>在规划服务计划中注册
 
-贵公司满足规划的服务计划的资格要求和计划参与者已通过合规性培训课程之后，便准备好进行注册。 
+贵公司满足规划服务计划的资格要求和计划参与者已通过合规性培训课程之后，便准备好进行注册。 
 
 请按照以下步骤在规划的服务计划中注册。
 
@@ -69,7 +69,7 @@ ms.locfileid: "9028494"
 2. 选择要打开规划服务选项卡的规划服务。
 3. 选择你想要在中注册，然后选择的计划**注册。**
 
-当你已完成此过程时，将批准你的公司 loations 提供已注册在产品/服务。 你的组织员工列为 MPN 中的任何已批准位置联系人角色将有资格访问 VVR 工具来管理代表该位置的规划服务凭证。 
+当你已完成此过程时，将审核你公司的位置提供已注册在产品/服务。 贵公司的员工列为 MPN 合作伙伴管理员将有资格访问 VVR 工具来管理代表任何位置的规划服务凭证。
 >[!Note]
 > 你将需要续订你的要求和重新注册规划服务计划每年。
 
@@ -92,7 +92,6 @@ ms.locfileid: "9028494"
 >[!NOTE]
 > 你还需要上传此步骤中可交付结果客户参与度的副本。 
 
-填写和提交完成报告后，将保存到你的设备生成的提交收据文件 （在.xml 格式），因为你将需要兑换凭证。
 
 请按照本文[中的凭证验证和兑换工具 (VVR) 的管理凭证](voucher-validation-tool.md)。
 
@@ -102,7 +101,12 @@ ms.locfileid: "9028494"
 
 1. 在保留凭证的列表中，选择你想要兑换的 voucher(s)。 
 2. 现在，你将看到**Redeemed**凭证的列表。
+3. 选择所需 voucher(s) 旁边的复选框，然后单击**兑换选择凭证**。
+4. 从确认凭证兑换页面中，查看凭证信息准确，然后选择**是**兑换凭证。
 
-4. 若要创建声明，选择**创建声明**，或在凭证详细信息页上，选择**创建声明**。
+5. 若要创建声明，选择**创建声明**，或在凭证详细信息页上，选择**创建声明**。
 
-5. 选择**创建声明**采用[软件保障凭证权益 (SAVB) 在线付款工具](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)，以便发票 Microsoft。
+6. 选择**创建声明**采用[软件保障凭证权益 (SAVB) 在线付款工具](https://planningservices.partners.extranet.microsoft.com/en/Pages/getpaid.aspx)，以便发票 Microsoft。
+
+
+
