@@ -9,12 +9,12 @@ author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: d2070ff75dfa1197349b2cfdf55e5b06aeb4d8ea
-ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
+ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
+ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043564"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "9066047"
 ---
 # <a name="welcome-to-partner-center"></a>欢迎使用合作伙伴中心
 
@@ -86,8 +86,8 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>软件保障程序</h3>
-                        <p>你现在可以在软件保障培训和合作伙伴中心中的预部署服务中进行注册。</p></a>
+                        <h3>软件保障计划</h3>
+                        <p>你现在可以在软件保障培训和合作伙伴中心中的部署服务中进行注册。</p></a>
                     </div>
                 </div>
             </div>
