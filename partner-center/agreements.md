@@ -7,12 +7,12 @@ author: Maggie Evans
 ms.author: evensma
 keywords: Microsoft 云协议, 客户协议模板, 云解决方案提供商客户协议, MCA, 云解决方案提供商, 通过云解决方案提供商可以在哪里进行销售？, 云解决方案提供商国家和地区, 多种语言的云解决方案提供商 MCA, 云解决方案提供商北美洲, 云解决方案提供商中美洲, 云解决方案提供商南美洲, 云解决方案提供商加勒比地区, 云解决方案提供商 Microsoft Cloud for US Government, 云解决方案提供商 Microsoft Cloud Germany, 云解决方案提供商中东地区, 云解决方案提供商非洲, 云解决方案提供商欧洲, 云解决方案提供商亚洲, 云解决方案提供商太平洋地区, 云解决方案提供商 MCA
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff679ffa3c98f17a3b39e6ca92fe3f46e119189
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 3fb51af0561a0a33ef618e4e748f584daeed551c
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8996001"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075200"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 
@@ -96,7 +96,7 @@ Microsoft 云协议都是特定于区域的和提供多个语言版本。 在其
 - 美属维尔京群岛：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_LatAm_ExBRA_ENG_Sep20172_CR.pdf)
 
 ## <a name="microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云
- - 美国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Mar2018_CR.pdf)
+ - 美国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017_NAOC_USGCC_ENG_Feb2019_CR.pdf)
 
 ## <a name="europe"></a>欧洲
 - 奥兰群岛：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
@@ -208,7 +208,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - 以色列：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)  
 - 约旦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)     
 - 肯尼亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)     
-- Kosovo: [English](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
+- 科索沃：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)
 - 科威特：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - 黎巴嫩：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[阿拉伯语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)
 - 莱索托：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf) 
@@ -253,16 +253,16 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - 库可群岛：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
 - 斐济：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)    
 - 赫德岛和麦克唐纳群岛：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
-- 香港特別行政区：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[繁体中文](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)     
-- 印度：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[印地语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_HIN_Sep20172_CR.pdf)    
-- 印度尼西亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[印度尼西亚语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_IND_Sep20172_CR.pdf)  
+- 香港特別行政区：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[繁体中文](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Mar2019_CR.pdf)     
+- 印度：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[印地语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_HIN_Mar2019_CR.pdf)    
+- 印度尼西亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[印度尼西亚语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_IND_Mar2019_CR.pdf)  
 - 日本：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)[日语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_JPN_JPN_Sep20172_CR.pdf)    
-- 哈萨克斯坦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[哈萨克语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_KAZ_Sep20172_CR.pdf)  
+- 哈萨克斯坦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[哈萨克语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_KAZ_Mar2019_CR.pdf)  
 - 基里巴斯：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf) 
 - 吉尔吉斯斯坦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[俄语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_RUS_Sep20172_CR.pdf)  
 - 老挝：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- 澳门特别行政区：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[繁体中文](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Sep20172_CR.pdf)
-- 马来西亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[马来西亚语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_MSL_Sep20172_CR.pdf)  
+- 澳门特别行政区：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[繁体中文](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_CHT_Mar2019_CR.pdf)
+- 马来西亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[马来西亚语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_MSL_Mar2019_CR.pdf)  
 - 马尔代夫：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - 马绍尔群岛：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - 密克罗尼西亚：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
@@ -288,7 +288,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - 托克劳：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - 汤加：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
 - 图瓦卢：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- 乌兹别克斯坦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[俄语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_RUS_Sep20172_CR.pdf) 
+- 乌兹别克斯坦：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[俄语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_RUS_Mar2019_CR.pdf) 
 - 瓦努阿图：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)
-- 越南：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[越南语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_VIT_Sep20172_CR.pdf) 
+- 越南：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Sep20172_CR.pdf)、[越南语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_VIT_Mar2019_CR.pdf) 
 - 瓦利斯和富图纳：[法语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_FRE_Sep20172_CR.pdf)

@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: a58edd5c7643c5c72f12672d1e289d4266b2af23
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
+ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000047"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "9075180"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、 协议、 价目表和产品/服务
 
@@ -41,7 +41,7 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [Microsoft 云经销商协议 - 北美洲、中美洲、南美洲和加勒比地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
 
 [Microsoft 云经销商协议 - 欧洲、中东地区和非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -51,7 +51,7 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [Microsoft 云经销商协议 - 台湾](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
 
-[Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft 云协议模板
