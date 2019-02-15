@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 56d18f008237b7d9959afc545f28e67f9b4f72b2
-ms.sourcegitcommit: ba76262db7a479b188f22de823b882f70cdf61c8
+ms.openlocfilehash: 3ce6421c103f0f52113dc41ffc3427e7222ceb36
+ms.sourcegitcommit: a9e9b1d1f77922e7aa8a2f900a5ac3ade439dff8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "9075180"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079255"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、 协议、 价目表和产品/服务
 
@@ -56,9 +56,9 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 ## <a name="microsoft-cloud-agreement-templates"></a>Microsoft 云协议模板
 
-作为云解决方案提供商计划中的合作伙伴，你负责与客户一起查看 Microsoft 的条款和条件，包括 Microsoft 产品和服务的可接受用法。 请按照下面的链接以查找你将需要与新客户查看 Microsoft 云协议。 
+作为云解决方案提供商计划中的合作伙伴，你负责与客户一起查看 Microsoft 的条款和条件，包括 Microsoft 产品和服务的可接受用法。 转到 Microsoft 云协议[客户模板](agreements.md)，以查找你将需要与新客户查看 Microsoft 云协议。 
 
-Microsoft 云协议[客户模板](agreements.md)
+
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>专业保密修正到 Microsoft 云协议 （德国）
 
