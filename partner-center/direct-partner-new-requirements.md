@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 云解决方案提供商，直接合作伙伴，直接计费，要求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 4e4052a54ab7ddbd53f6d793512704de8aa13670
-ms.sourcegitcommit: 89081af81a7c9ab86724986dce27867ada7e7550
+ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
+ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "9011084"
+ms.lasthandoff: 02/15/2019
+ms.locfileid: "9079748"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>云解决方案提供商计划直接合作伙伴新要求
 
@@ -23,7 +23,7 @@ ms.locfileid: "9011084"
 
 ## <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
 
-作为直接合作伙伴，你具有与客户和 Microsoft 之间的端到端关系。 我们已更新为从 8 月起直接计费合作伙伴注册要求 31,2018。 这些新要求将有助于加快业务增长与正确的云解决方案提供商注册模型和加强你与增值服务和支持人员的客户之间的关系。 
+作为直接计费的合作伙伴，你拥有的端到端关系与你的客户和 Microsoft。 我们已更新为从 2018 年 8 月 31 日起直接计费合作伙伴注册要求。 这些新要求将有助于加快业务增长与正确的云解决方案提供商注册模型和加强你与增值服务和支持人员的客户之间的关系。 
 
 ### <a name="minimum-requirements"></a>最低要求
 
@@ -31,11 +31,15 @@ ms.locfileid: "9011084"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |你的业务位置活动 Microsoft 合作伙伴网络 (MPN) ID。   |
 |**认可**   |颁发机构接受并代表你的组织签署法律协议。|
-|**支持**   |向客户支持提供云产品的第一级别的能力。|
+|**支持**  |向客户支持提供云产品的第一级别的能力。 Microsoft 支持计划，任何一种高级支持适用于合作伙伴 (ASfP) 或适用于合作伙伴 (PSfP)，具体取决于你的需求的卓越支持。 [比较支持计划](https://partner.microsoft.com/en-US/support/partnersupport)。 |
 |**托管的服务**   |至少一个托管的服务、 IP 服务或客户解决方案应用程序。 了解有关添加[托管的服务](https://partner.microsoft.com/en-US/business-opportunities/managed-services-provider)的详细信息。|
 |**账款** |组织基础结构来管理客户计费和预配。 
 
-了解有关成为[云解决方案提供商经销商](https://partner.microsoft.com/cloud-solution-provider)
+查看上面的最低要求后，你必须完成快速验证问卷调查来确认你的资格。 
+
+[云解决方案提供商问卷调查](https://partner.microsoft.com/cloud-solution-provider/assessment)
+
+填写问卷调查的评估确定要注册云解决方案提供商直接计费计划的资格。 一旦你确认已通过填写问卷调查你满足直接计费条件，并已提交注册表单，我们将执行业务审核你的公司包括信用检查。 如果你已批准的退款，你将需要确认 ASfP 或 PSfP 计划购买，并最后，接受直接计费条款协议，以开始与客户交易作为直接计费的合作伙伴。
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>从直接连接到间接经销商过渡
 
