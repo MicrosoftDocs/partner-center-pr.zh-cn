@@ -1,18 +1,18 @@
 ---
 title: 软件保障规划服务在合作伙伴中心 |合作伙伴中心
 ms.topic: article
-ms.date: 1/21/19
+ms.date: 01/21/19
 description: 注册计划服务提供部署前规划企业客户
 author: labrenne
 ms.author: labrenne
 Keywords: pre-deployment, planning, software assurance
 ms.localizationpriority: medium
-ms.openlocfilehash: 2998f96ed74fce0eaa3a7b390152837d73b3679b
-ms.sourcegitcommit: e571a701aca40384dbc4928f3a5d3c64736fd5d8
+ms.openlocfilehash: 52a9c71444042cc5de7064ab56f1afd13e3d1338
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066014"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083410"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心中的软件保障规划服务
 
@@ -23,7 +23,7 @@ ms.locfileid: "9066014"
 如果你不熟悉软件保障规划服务，请参阅[拓展你的业务规划服务](https://planningservices.partners.extranet.microsoft.com/en/Pages/default.aspx)。
 
 
-## <a name="get-started"></a>立即开始
+## <a name="get-started"></a>即刻体验
 
 如果你不熟悉软件保障规划服务，请按照下面的所有步骤。 如果你已在规划服务的程序，处于活动状态，并且你的合作伙伴帐户信息已移到合作伙伴中心，从步骤四 （4） 下面开始。 
 

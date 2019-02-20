@@ -7,24 +7,24 @@ author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，转换，间接经销商
-ms.openlocfilehash: 8a114829c5460bf169938e69de65a69996dc4010
-ms.sourcegitcommit: 8ab406beefbfd0965ed35d8dfe064b682162a5fa
+ms.openlocfilehash: b8e7f4f13f3c3ef3bf0525f22ea74f80df8ed0d7
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "9024909"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083370"
 ---
-## <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>过渡从云解决方案提供商 (CSP) 直接为云解决方案提供商间接经销商的帐单合作伙伴 
-
 **适用范围：**
  - 云解决方案提供商合作伙伴
+
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商 
 
 >[!Note] 
 >本文旨在为直接计费已决定过渡到间接经销商合作的合作伙伴。 
 
 你将能够在使用你的现有直接计费租户的间接经销商计划中注册。 
 
-## <a name="get-started"></a>入门
+## <a name="get-started"></a>即刻体验
 
 1. 确保你的合作伙伴配置文件在合作伙伴中心和 MPN ID 是最新。
 
