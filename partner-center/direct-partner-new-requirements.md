@@ -1,19 +1,19 @@
 ---
 title: 云解决方案提供商直接合作伙伴新要求 |合作伙伴中心
 ms.topic: article
-ms.date: 1/14/2018
+ms.date: 01/14/2018
 Description: If you are currently enrolled in the CSP program as a direct partner, you should prepare to meet these updated support and services requirements.
 program.author: labrenne
 ms.author: labrenne
 keywords: 云解决方案提供商，直接合作伙伴，直接计费，要求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 44410ba70f12e995fa5975bb60e443fd9fb154c0
-ms.sourcegitcommit: c74dad6d7c4775980ed8ca8f0ad3800a2cd07fd7
+ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079748"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083351"
 ---
 # <a name="csp-direct-partner-new-requirements"></a><span data-ttu-id="fb73c-103">云解决方案提供商计划直接合作伙伴新要求</span><span class="sxs-lookup"><span data-stu-id="fb73c-103">CSP direct partner new requirements</span></span>
 

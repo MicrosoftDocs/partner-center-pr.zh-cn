@@ -7,69 +7,69 @@ author: labrenne
 ms.author: labrenne
 Keywords: ISV, third-party, third party, 3rd party, details pages, vertical software, software publisher
 ms.localizationpriority: medium
-ms.openlocfilehash: 07009b774d0cbd8e8a5a857fd23ad7bad1bd83f1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4ae09cf4edc73eb57e729e7937dde5d1e07b2db5
+ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797040"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083390"
 ---
-# <a name="add-third-party-software-to-your-portfolio"></a><span data-ttu-id="71319-103">将第三方软件添加到产品组合</span><span class="sxs-lookup"><span data-stu-id="71319-103">Add third-party software to your portfolio</span></span>
+# <a name="purchase-third-party-software-for-your-customers"></a><span data-ttu-id="93a48-103">为客户购买第三方软件</span><span class="sxs-lookup"><span data-stu-id="93a48-103">Purchase third-party software for your customers</span></span>
 
-**<span data-ttu-id="71319-104">适用范围</span><span class="sxs-lookup"><span data-stu-id="71319-104">Applies to</span></span>** 
+**<span data-ttu-id="93a48-104">适用范围</span><span class="sxs-lookup"><span data-stu-id="93a48-104">Applies to</span></span>** 
 
-- <span data-ttu-id="71319-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="71319-105">Partner Center</span></span>
+- <span data-ttu-id="93a48-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="93a48-105">Partner Center</span></span>
 
 
-<span data-ttu-id="71319-106">现在，你可以在合作伙伴中心中购买可提供给客户的大量第三方软件产品/服务。</span><span class="sxs-lookup"><span data-stu-id="71319-106">You are now able to purchase a number of third-party software offers in Partner Center which you can offer customers.</span></span> <span data-ttu-id="71319-107">这是让你的业务脱颖而出并提供给客户解决其特定业务需求的软件捆绑包的绝佳方式。</span><span class="sxs-lookup"><span data-stu-id="71319-107">This is as great way to differentiate your business and provide your customers with software bundles that address their specific business needs.</span></span> <span data-ttu-id="71319-108">并且，你可以继续作为可靠的顾问与他们合作。</span><span class="sxs-lookup"><span data-stu-id="71319-108">And, they can continue to work with you, their trusted advisor.</span></span>
+<span data-ttu-id="93a48-106">现在，你可以在合作伙伴中心中购买可提供给客户的大量第三方软件产品/服务。</span><span class="sxs-lookup"><span data-stu-id="93a48-106">You are now able to purchase a number of third-party software offers in Partner Center which you can offer customers.</span></span> <span data-ttu-id="93a48-107">这是让你的业务脱颖而出并提供给客户解决其特定业务需求的软件捆绑包的绝佳方式。</span><span class="sxs-lookup"><span data-stu-id="93a48-107">This is as great way to differentiate your business and provide your customers with software bundles that address their specific business needs.</span></span> <span data-ttu-id="93a48-108">并且，你可以继续作为可靠的顾问与他们合作。</span><span class="sxs-lookup"><span data-stu-id="93a48-108">And, they can continue to work with you, their trusted advisor.</span></span>
 
-<span data-ttu-id="71319-109">当前，合作伙伴中心提供与 Azure、Office 365 或 Dynamics 集成的第三方软件产品/服务。</span><span class="sxs-lookup"><span data-stu-id="71319-109">Currently, Partner Center has third-party software offerings that integrate with Azure, Office 365, or Dynamics.</span></span>
+<span data-ttu-id="93a48-109">当前，合作伙伴中心提供与 Azure、Office 365 或 Dynamics 集成的第三方软件产品/服务。</span><span class="sxs-lookup"><span data-stu-id="93a48-109">Currently, Partner Center has third-party software offerings that integrate with Azure, Office 365, or Dynamics.</span></span>
 
-## <a name="discover-the-products-you-want-to-sell"></a><span data-ttu-id="71319-110">发现你想要销售的产品</span><span class="sxs-lookup"><span data-stu-id="71319-110">Discover the products you want to sell</span></span>
+## <a name="discover-the-products-you-want-to-sell"></a><span data-ttu-id="93a48-110">发现你想要销售的产品</span><span class="sxs-lookup"><span data-stu-id="93a48-110">Discover the products you want to sell</span></span>
 
-<span data-ttu-id="71319-111">要搜索并找到非常适合你的产品组合的产品/服务类型很简单。</span><span class="sxs-lookup"><span data-stu-id="71319-111">It is easy to search for and find the types of offers that are a good fit for your portfolio.</span></span> 
-1.  <span data-ttu-id="71319-112">从左侧导航中选择第三方产品/服务。</span><span class="sxs-lookup"><span data-stu-id="71319-112">Select Third-party offers from the left nav.</span></span> 
-2.  <span data-ttu-id="71319-113">默认视图显示所有可用的产品/服务。</span><span class="sxs-lookup"><span data-stu-id="71319-113">The default view displays all available offers.</span></span> 
-3.  <span data-ttu-id="71319-114">筛选：</span><span class="sxs-lookup"><span data-stu-id="71319-114">Filter on:</span></span>
+<span data-ttu-id="93a48-111">要搜索并找到非常适合你的产品组合的产品/服务类型很简单。</span><span class="sxs-lookup"><span data-stu-id="93a48-111">It is easy to search for and find the types of offers that are a good fit for your portfolio.</span></span> 
+1.  <span data-ttu-id="93a48-112">从左侧导航中选择第三方产品/服务。</span><span class="sxs-lookup"><span data-stu-id="93a48-112">Select Third-party offers from the left nav.</span></span> 
+2.  <span data-ttu-id="93a48-113">默认视图显示所有可用的产品/服务。</span><span class="sxs-lookup"><span data-stu-id="93a48-113">The default view displays all available offers.</span></span> 
+3.  <span data-ttu-id="93a48-114">筛选：</span><span class="sxs-lookup"><span data-stu-id="93a48-114">Filter on:</span></span>
 
         a. Market availability (region) 
         b. The Microsoft products that attach well with third-party products  
         c. The type of industry 
         d. The type of vertical 
 
-## <a name="the-details-page"></a><span data-ttu-id="71319-115">详细信息页面</span><span class="sxs-lookup"><span data-stu-id="71319-115">The details page</span></span>
+## <a name="the-details-page"></a><span data-ttu-id="93a48-115">详细信息页面</span><span class="sxs-lookup"><span data-stu-id="93a48-115">The details page</span></span>
 
-<span data-ttu-id="71319-116">若要获取更多详细信息，请选择一款产品。</span><span class="sxs-lookup"><span data-stu-id="71319-116">To get more details, select a product.</span></span> <span data-ttu-id="71319-117">此操作会将你转到详细信息页面，该页面将详细介绍产品的信息，包括产品功能、如何与 Microsoft 产品结合使用、如何对销售人员进行产品销售培训以及有关如何提高产品市场营销效果的技巧。</span><span class="sxs-lookup"><span data-stu-id="71319-117">This takes you to the details page which provides in-depth information about the product including what it does, how it works with Microsoft products, how to train your sales force to sell it, and tips on how to create effective marketing for it.</span></span> 
+<span data-ttu-id="93a48-116">若要获取更多详细信息，请选择一款产品。</span><span class="sxs-lookup"><span data-stu-id="93a48-116">To get more details, select a product.</span></span> <span data-ttu-id="93a48-117">此操作会将你转到详细信息页面，该页面将详细介绍产品的信息，包括产品功能、如何与 Microsoft 产品结合使用、如何对销售人员进行产品销售培训以及有关如何提高产品市场营销效果的技巧。</span><span class="sxs-lookup"><span data-stu-id="93a48-117">This takes you to the details page which provides in-depth information about the product including what it does, how it works with Microsoft products, how to train your sales force to sell it, and tips on how to create effective marketing for it.</span></span> 
 
-<span data-ttu-id="71319-118">你会找到 ISV 的网站链接、联系人信息，通常也会找到产品的视频演示。</span><span class="sxs-lookup"><span data-stu-id="71319-118">You will find a link to the ISV’s website, contact information, often a video demo of the product.</span></span> 
+<span data-ttu-id="93a48-118">你会找到 ISV 的网站链接、联系人信息，通常也会找到产品的视频演示。</span><span class="sxs-lookup"><span data-stu-id="93a48-118">You will find a link to the ISV’s website, contact information, often a video demo of the product.</span></span> 
 
-## <a name="add-the-product-to-your-portfolio"></a><span data-ttu-id="71319-119">将产品添加到产品组合</span><span class="sxs-lookup"><span data-stu-id="71319-119">Add the product to your portfolio</span></span>
+## <a name="add-the-product-to-your-portfolio"></a><span data-ttu-id="93a48-119">将产品添加到产品组合</span><span class="sxs-lookup"><span data-stu-id="93a48-119">Add the product to your portfolio</span></span>
 
-<span data-ttu-id="71319-120">如果你有购买意向，但有其他疑问或想要与 ISV 交流，请选择**我感兴趣**。</span><span class="sxs-lookup"><span data-stu-id="71319-120">If you are interested in possibly purchasing but have additional questions or want to talk with the ISV, select **I’m interested**.</span></span> <span data-ttu-id="71319-121">填写表格并提交。</span><span class="sxs-lookup"><span data-stu-id="71319-121">Fill out the form and submit it.</span></span> <span data-ttu-id="71319-122">Microsoft 会通知 ISV。</span><span class="sxs-lookup"><span data-stu-id="71319-122">Microsoft will notify the ISV.</span></span> <span data-ttu-id="71319-123">你应该会在 24 小时到 48 小时之内收到他们的回复。</span><span class="sxs-lookup"><span data-stu-id="71319-123">You should expect to hear back from them within 24-48 hours.</span></span> 
+<span data-ttu-id="93a48-120">如果你有购买意向，但有其他疑问或想要与 ISV 交流，请选择**我感兴趣**。</span><span class="sxs-lookup"><span data-stu-id="93a48-120">If you are interested in possibly purchasing but have additional questions or want to talk with the ISV, select **I’m interested**.</span></span> <span data-ttu-id="93a48-121">填写表格并提交。</span><span class="sxs-lookup"><span data-stu-id="93a48-121">Fill out the form and submit it.</span></span> <span data-ttu-id="93a48-122">Microsoft 会通知 ISV。</span><span class="sxs-lookup"><span data-stu-id="93a48-122">Microsoft will notify the ISV.</span></span> <span data-ttu-id="93a48-123">你应该会在 24 小时到 48 小时之内收到他们的回复。</span><span class="sxs-lookup"><span data-stu-id="93a48-123">You should expect to hear back from them within 24-48 hours.</span></span> 
 
-## <a name="purchase-the-third-party-software"></a><span data-ttu-id="71319-124">购买第三方软件</span><span class="sxs-lookup"><span data-stu-id="71319-124">Purchase the third-party software</span></span>
+## <a name="purchase-the-third-party-software"></a><span data-ttu-id="93a48-124">购买第三方软件</span><span class="sxs-lookup"><span data-stu-id="93a48-124">Purchase the third-party software</span></span>
 
-<span data-ttu-id="71319-125">购买第三方软件的方式与第一方软件一样。</span><span class="sxs-lookup"><span data-stu-id="71319-125">Purchasing third-party software is done the same way you purchase first-party software.</span></span> 
+<span data-ttu-id="93a48-125">购买第三方软件的方式与第一方软件一样。</span><span class="sxs-lookup"><span data-stu-id="93a48-125">Purchasing third-party software is done the same way you purchase first-party software.</span></span> 
 
-1.  <span data-ttu-id="71319-126">从**合作伙伴中心**，选择**客户**。</span><span class="sxs-lookup"><span data-stu-id="71319-126">From the **Partner Center**, select **Customers**.</span></span>
-2.  <span data-ttu-id="71319-127">选择**新订阅**。</span><span class="sxs-lookup"><span data-stu-id="71319-127">Select **New Subscription**.</span></span>
-3.  <span data-ttu-id="71319-128">选择对第三方软件采用按月计费。</span><span class="sxs-lookup"><span data-stu-id="71319-128">Select monthly billing for third-party software.</span></span> <span data-ttu-id="71319-129">年度计费和试用版计费目前不适用于第三方软件。</span><span class="sxs-lookup"><span data-stu-id="71319-129">Annual and trial billing are currently not available for third-party.</span></span>
-4.  <span data-ttu-id="71319-130">从**第三方**选项卡，选择想要购买的产品。</span><span class="sxs-lookup"><span data-stu-id="71319-130">From the **Third-party** tab, select the product you want to buy.</span></span>
-5.  <span data-ttu-id="71319-131">检查要添加的订阅并输入许可证编号。</span><span class="sxs-lookup"><span data-stu-id="71319-131">Check the subscription you want to add and enter the number of licenses.</span></span> <span data-ttu-id="71319-132">然后**提交**订单。</span><span class="sxs-lookup"><span data-stu-id="71319-132">Then **Submit** the order.</span></span>
-6.  <span data-ttu-id="71319-133">添加订阅后，通过单击订阅列表中的订阅名称来打开它。</span><span class="sxs-lookup"><span data-stu-id="71319-133">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> 
-7.  <span data-ttu-id="71319-134">在编辑页面上，可以更改许可证数量，或者暂停订阅。</span><span class="sxs-lookup"><span data-stu-id="71319-134">On the edit page you can change the quantity of licenses or suspend the subscription.</span></span>
+1.  <span data-ttu-id="93a48-126">从**合作伙伴中心**，选择**客户**。</span><span class="sxs-lookup"><span data-stu-id="93a48-126">From the **Partner Center**, select **Customers**.</span></span>
+2.  <span data-ttu-id="93a48-127">选择**新订阅**。</span><span class="sxs-lookup"><span data-stu-id="93a48-127">Select **New Subscription**.</span></span>
+3.  <span data-ttu-id="93a48-128">选择对第三方软件采用按月计费。</span><span class="sxs-lookup"><span data-stu-id="93a48-128">Select monthly billing for third-party software.</span></span> <span data-ttu-id="93a48-129">年度计费和试用版计费目前不适用于第三方软件。</span><span class="sxs-lookup"><span data-stu-id="93a48-129">Annual and trial billing are currently not available for third-party.</span></span>
+4.  <span data-ttu-id="93a48-130">从**第三方**选项卡，选择想要购买的产品。</span><span class="sxs-lookup"><span data-stu-id="93a48-130">From the **Third-party** tab, select the product you want to buy.</span></span>
+5.  <span data-ttu-id="93a48-131">检查要添加的订阅并输入许可证编号。</span><span class="sxs-lookup"><span data-stu-id="93a48-131">Check the subscription you want to add and enter the number of licenses.</span></span> <span data-ttu-id="93a48-132">然后**提交**订单。</span><span class="sxs-lookup"><span data-stu-id="93a48-132">Then **Submit** the order.</span></span>
+6.  <span data-ttu-id="93a48-133">添加订阅后，通过单击订阅列表中的订阅名称来打开它。</span><span class="sxs-lookup"><span data-stu-id="93a48-133">After the subscription is added, open it by clicking the subscription name in the subscriptions list.</span></span> 
+7.  <span data-ttu-id="93a48-134">在编辑页面上，可以更改许可证数量，或者暂停订阅。</span><span class="sxs-lookup"><span data-stu-id="93a48-134">On the edit page you can change the quantity of licenses or suspend the subscription.</span></span>
 
-<span data-ttu-id="71319-135">有关详细信息，请参阅[创建新订阅](create-a-new-subscription.md)。</span><span class="sxs-lookup"><span data-stu-id="71319-135">For more information see [Create a new subscription](create-a-new-subscription.md).</span></span>
+<span data-ttu-id="93a48-135">有关详细信息，请参阅[创建新订阅](create-a-new-subscription.md)。</span><span class="sxs-lookup"><span data-stu-id="93a48-135">For more information see [Create a new subscription](create-a-new-subscription.md).</span></span>
 
-## <a name="administer-the-third-party-software"></a><span data-ttu-id="71319-136">管理第三方软件</span><span class="sxs-lookup"><span data-stu-id="71319-136">Administer the third-party software</span></span>
+## <a name="administer-the-third-party-software"></a><span data-ttu-id="93a48-136">管理第三方软件</span><span class="sxs-lookup"><span data-stu-id="93a48-136">Administer the third-party software</span></span>
 
-<span data-ttu-id="71319-137">在合作伙伴中心，如同对第一方软件一样，对第三方软件的许可证和订阅进行管理。</span><span class="sxs-lookup"><span data-stu-id="71319-137">You manage licenses and subscriptions for third-party software on Partner Center just as you do for first-party software.</span></span> <span data-ttu-id="71319-138">还可以激活和暂停许可证以及更改许可证数量。</span><span class="sxs-lookup"><span data-stu-id="71319-138">You can also activate and suspend licenses as well as change license counts.</span></span> <span data-ttu-id="71319-139">可在第三方管理站点上分配许可证和其他任务。</span><span class="sxs-lookup"><span data-stu-id="71319-139">Assigning licenses and other tasks will be done on the third-party admin site.</span></span>
+<span data-ttu-id="93a48-137">在合作伙伴中心，如同对第一方软件一样，对第三方软件的许可证和订阅进行管理。</span><span class="sxs-lookup"><span data-stu-id="93a48-137">You manage licenses and subscriptions for third-party software on Partner Center just as you do for first-party software.</span></span> <span data-ttu-id="93a48-138">还可以激活和暂停许可证以及更改许可证数量。</span><span class="sxs-lookup"><span data-stu-id="93a48-138">You can also activate and suspend licenses as well as change license counts.</span></span> <span data-ttu-id="93a48-139">可在第三方管理站点上分配许可证和其他任务。</span><span class="sxs-lookup"><span data-stu-id="93a48-139">Assigning licenses and other tasks will be done on the third-party admin site.</span></span>
 
-## <a name="billing-and-payment"></a><span data-ttu-id="71319-140">计费和付款</span><span class="sxs-lookup"><span data-stu-id="71319-140">Billing and payment</span></span>
+## <a name="billing-and-payment"></a><span data-ttu-id="93a48-140">计费和付款</span><span class="sxs-lookup"><span data-stu-id="93a48-140">Billing and payment</span></span>
 
-<span data-ttu-id="71319-141">可在合作伙伴中心上处理第三方产品/服务的交易和计费。</span><span class="sxs-lookup"><span data-stu-id="71319-141">You handle transactions and bills for third-party offers on Partner Center.</span></span> <span data-ttu-id="71319-142">你的发票会包含第三方费用的逐项信息。</span><span class="sxs-lookup"><span data-stu-id="71319-142">Your invoice will contain itemized information about third-party charges.</span></span> <span data-ttu-id="71319-143">你的交易会显示在对帐文件上。</span><span class="sxs-lookup"><span data-stu-id="71319-143">Your transaction will appear on your reconciliation file.</span></span> <span data-ttu-id="71319-144">Microsoft 会在下载软件的 60 天内向软件发行商支付费用。</span><span class="sxs-lookup"><span data-stu-id="71319-144">Microsoft will pay the software publisher within 60 days after the month of a download of their software.</span></span> 
+<span data-ttu-id="93a48-141">可在合作伙伴中心上处理第三方产品/服务的交易和计费。</span><span class="sxs-lookup"><span data-stu-id="93a48-141">You handle transactions and bills for third-party offers on Partner Center.</span></span> <span data-ttu-id="93a48-142">你的发票会包含第三方费用的逐项信息。</span><span class="sxs-lookup"><span data-stu-id="93a48-142">Your invoice will contain itemized information about third-party charges.</span></span> <span data-ttu-id="93a48-143">你的交易会显示在对帐文件上。</span><span class="sxs-lookup"><span data-stu-id="93a48-143">Your transaction will appear on your reconciliation file.</span></span> <span data-ttu-id="93a48-144">Microsoft 会在下载软件的 60 天内向软件发行商支付费用。</span><span class="sxs-lookup"><span data-stu-id="93a48-144">Microsoft will pay the software publisher within 60 days after the month of a download of their software.</span></span> 
 
-## <a name="support"></a><span data-ttu-id="71319-145">支持</span><span class="sxs-lookup"><span data-stu-id="71319-145">Support</span></span>
+## <a name="support"></a><span data-ttu-id="93a48-145">支持</span><span class="sxs-lookup"><span data-stu-id="93a48-145">Support</span></span>
 
-<span data-ttu-id="71319-146">你仍可就计费和订阅管理的问题，第一时间联系客户。</span><span class="sxs-lookup"><span data-stu-id="71319-146">You remain the first point of contact for your customer for questions about billing and subscription management.</span></span> <span data-ttu-id="71319-147">第三方发行商负责其产品的所有技术支持。</span><span class="sxs-lookup"><span data-stu-id="71319-147">The third-party publisher is responsible for all technical support of their product.</span></span> <span data-ttu-id="71319-148">借助产品详细信息页面上的支持信息，你能够让客户联系到 ISV。</span><span class="sxs-lookup"><span data-stu-id="71319-148">You’ll be able to let your customer know how to get in touch with the ISV as their support information will be on the product detail page.</span></span>
+<span data-ttu-id="93a48-146">你仍可就计费和订阅管理的问题，第一时间联系客户。</span><span class="sxs-lookup"><span data-stu-id="93a48-146">You remain the first point of contact for your customer for questions about billing and subscription management.</span></span> <span data-ttu-id="93a48-147">第三方发行商负责其产品的所有技术支持。</span><span class="sxs-lookup"><span data-stu-id="93a48-147">The third-party publisher is responsible for all technical support of their product.</span></span> <span data-ttu-id="93a48-148">借助产品详细信息页面上的支持信息，你能够让客户联系到 ISV。</span><span class="sxs-lookup"><span data-stu-id="93a48-148">You’ll be able to let your customer know how to get in touch with the ISV as their support information will be on the product detail page.</span></span>
 
