@@ -5,14 +5,14 @@ ms.date: 10/29/2018
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
-keywords: 客户、 客户、 同意
+keywords: 客户，客户同意，MCA，Microsoft 云协议，客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 356782420046cb8b49ac4e05981becd253d7049a
-ms.sourcegitcommit: dcc0517b2441c5577994b802c455fc726cc5cb35
+ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/10/2019
-ms.locfileid: "9000027"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083190"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
@@ -31,7 +31,7 @@ ms.locfileid: "9000027"
 
 -   接受的日期
 
-若要了解详细信息，请参阅[Microsoft 云协议客户接受确认常见问题](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)。
+若要了解详细信息，请参阅 Microsoft 云协议客户接受确认[常见问题](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)。
 
 ## <a name="schedule"></a>计划
 
@@ -63,7 +63,8 @@ ms.locfileid: "9000027"
 
 ### <a name="confirm-customer-acceptance-for-a-new-customer"></a>确认客户接受新客户
 
-使用以下过程时在合作伙伴中心中创建新的客户租户确认客户接受。 请注意，必须是管理员代理或销售代理才能执行此操作。 
+使用以下过程时在合作伙伴中心中创建新的客户租户确认客户接受。 请注意，必须是管理员代理或销售代理才能执行此操作。
+ 
 1.  选择**客户**，然后选择**新客户**，然后选择**帐户信息**。
 
 2.  输入**公司**和**主要联系人**的信息。
@@ -79,7 +80,6 @@ ms.locfileid: "9000027"
 ![添加接受日期](images/mca/MCA3.png)
 
 默认情况下，将显示的主要联系人的用户信息。 如果这不正确，请选择**更新**，然后输入**名字**、**姓氏**、**电子邮件地址**，以及 **电话号码*（可选） 接受此协议的人员。
-
 
 6.  选择**下一步**继续创建客户租户的剩余步骤。
 

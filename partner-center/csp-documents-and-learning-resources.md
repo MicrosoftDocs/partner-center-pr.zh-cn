@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: f4ac831773af2b23500f08bf5dbc2324a5184456
-ms.sourcegitcommit: 3a613625812d9f6d2ac74d2ef17ced7cdccb0684
+ms.openlocfilehash: 9f3e7b1a72e5c47ab2cbd5ef418a061e317c38e0
+ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/15/2019
-ms.locfileid: "9079726"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "9083140"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、 协议、 价目表和产品/服务
 
@@ -27,13 +27,12 @@ ms.locfileid: "9079726"
 
 ## <a name="cloud-solution-provider-program-guide"></a>云解决方案提供商计划指南
 
-
 查看成为云解决方案提供商计划中的合作伙伴的要求。
 
 [云解决方案提供商合作伙伴计划指南](http://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->你应需要认证或确认状态号，你可以通过[联系支持人员](https://partner.microsoft.com/pcv/servicerequests/create)请求它。
+>如果你需要业务号确认或作为云解决方案提供商计划，[请联系支持人员](https://partner.microsoft.com/pcv/servicerequests/create)添加到请求一个已批准的 Microsoft 合作伙伴验证你的状态。
 
 ## <a name="cloud-solution-provider-partner-agreement"></a>云解决方案提供商合作伙伴协议
 
@@ -42,8 +41,6 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 [Microsoft 云经销商协议 - 北美洲、中美洲、南美洲和加勒比地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
 
 [Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
-
-
 
 [Microsoft 云经销商协议 - 欧洲、中东地区和非洲](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
 
@@ -55,13 +52,12 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [Microsoft 云经销商协议 - 美国政府 Microsoft 云](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
 
+## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 云协议客户模板
 
-## <a name="microsoft-cloud-agreement-templates"></a>Microsoft 云协议模板
+你可以代表客户的合作下一个订单之前，客户必须接受并签署适用的 Microsoft 云协议。 Microsoft 云协议都是特定于区域的和提供多个语言版本。 转到 Microsoft 云协议[客户模板](agreements.md)，以查找你将需要与新客户查看 Microsoft 云协议。
 
-作为云解决方案提供商计划中的合作伙伴，你负责与客户一起查看 Microsoft 的条款和条件，包括 Microsoft 产品和服务的可接受用法。 转到 Microsoft 云协议[客户模板](agreements.md)，以查找你将需要与新客户查看 Microsoft 云协议。 
-
-
-
+>[!IMPORTANT]
+>你需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。 有关详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)和[Microsoft 云协议客户接受确认常见问题](confirm-consent-faq.md)。
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>专业保密修正到 Microsoft 云协议 （德国）
 
