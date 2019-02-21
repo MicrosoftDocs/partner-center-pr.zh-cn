@@ -9,16 +9,16 @@ ms.author: evansma
 keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, 第 2 层, 第 2 层
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cc76d93cb0cdc581943e1785967c7b489bdd5ef9
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995991"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086745"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 
-对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想必须管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
+对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入合作伙伴他市场，但用户不想必须管理多个供应商，或者用户可能未部署端到端客户关系管理基础结构的放置，可以注册为间接 Microsoft 的云解决方案提供商 (CSP) 计划经销商。
 
 作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且能够为你提供客户支持和计费的间接提供商（也称为分销商）合作。 这意味着你不必自己开始，但可以改为与经验丰富的技术提供商合作以帮助确保你取得成功。 在提供商-经销商（双层）模型中，提供商购买你转售给客户的 Microsoft 云解决方案和服务。
 

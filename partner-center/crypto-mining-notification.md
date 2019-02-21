@@ -8,12 +8,12 @@ ms.author: v-petand
 Keywords: crypto-mining, cryptocurrency mining, security
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cfc9dd5592b9b4da631f316f8b5d56ee965e6e51
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
+ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796160"
+ms.lasthandoff: 02/21/2019
+ms.locfileid: "9086715"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>合作伙伴中心加密货币挖掘活动通知
 
@@ -24,7 +24,7 @@ ms.locfileid: "5796160"
 
 你可能收到了关于加密货币挖掘的以下合作伙伴中心通知：
  
-![](images/crypto1.png)
+![在合作伙伴中心中的安全通知的图像](images/crypto1.png)
 
 此通知的目的是通知你我们在过去一周内检测到针对一个或多个 Azure 订阅的加密货币挖掘活动。 加密货币挖掘不一定是欺诈活动。 然而，这是不同寻常的活动，因为在 Azure 中运行加密货币挖掘的成本往往超过了任何潜在的经济回报。 为防止可能影响你或你的客户的财务欺诈，请考虑执行以下步骤：
 
@@ -37,7 +37,7 @@ ms.locfileid: "5796160"
 如果是预期活动，请返回到客户的 Azure 订阅详细信息页面，然后确认加密货币挖掘是合法的。 
 
 
-![](images/crypto2.png)
+![客户的 Azure 订阅详细信息页面的图像](images/crypto2.png)
 
 如果是异常活动，请考虑以下各项：
 
@@ -45,7 +45,7 @@ ms.locfileid: "5796160"
 
 2.  首先了解如何创建资源。 这可能要求你查看 Azure 资源管理日志以了解资源预配活动。
 
-3.  如果你需要找出创建订阅者，查看合作伙伴中心活动日志。
+3.  如果你需要了解创建订阅者，查看合作伙伴中心活动日志。
 
 加密货币挖掘活动的检测基于试探法，可能不是 100% 准确。 请确保部署管理和监控系统，以防止欺诈或其他不允许的活动。 有关详细信息，请参阅[拒不付款、欺诈或滥用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
 
