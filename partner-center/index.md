@@ -4,18 +4,13 @@ hide_bc: true
 title: 从此处开始获取有关的合作伙伴中心帮助
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: 合作伙伴中心可以帮助你发展你的业务 Microsoft 云解决方案提供商 (CSP) 计划中。 设置你的帐户、 联系客户、 购买 Action Pack 订阅，以及查找适用于在云解决方案提供商和 MPN 计划的合作伙伴的详细信息。 
+description: "合作伙伴中心可以帮助你发展你的业务 Microsoft 云解决方案提供商 (CSP) 计划中。 设置你的帐户、 联系客户、 购买 Action Pack 订阅，以及查找适用于在云解决方案提供商和 MPN 计划的合作伙伴的详细信息。\_"
 author: labrenne
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: 2dbf6aed32caa3b9dd9cfa3047762a4a945ba833
-ms.sourcegitcommit: 9db33fec9bee98b270d5a6d457dad628481bbcd7
-ms.translationtype: MT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9066047"
 ---
+
 # <a name="welcome-to-partner-center"></a>欢迎使用合作伙伴中心
 
 Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系的一站式位置。 它具有的工具和资源，以帮助你进行事务处理和发展业务，包括成员身份选项、 客户引荐和云解决方案提供商 (CSP) 计划。 了解有关管理你的帐户、 联系客户、 购买 Action Pack 订阅，以及在合作伙伴中心帮助库中奖励计划中注册的最佳做法。
@@ -28,7 +23,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/message-icon.png" data-linktype="external">
+                            <img alt="Message icon" src="images/message-icon.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -46,7 +41,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/yammer-logo.png" data-linktype="external">
+                            <img alt="Yammer logo" src="images/yammer-logo.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +59,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img alt="" src="images/i_api.png" data-linktype="external">
+                            <img alt="API icon" src="images/i_api.png" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -129,7 +124,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/illustrations/sql-get-started-understand.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -146,7 +141,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
+                            <img alt="Connection icon" src="https://docs.microsoft.com/media/illustrations/virtualization-hperv-server-community.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -163,7 +158,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
+                            <img alt="Scenario icon" src="https://docs.microsoft.com/media/illustrations/biztalk-get-started-scenarios.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -186,7 +181,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
+                            <img alt="Get started icon" src="https://docs.microsoft.com/media/common/i_get-started.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
@@ -202,7 +197,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
+                            <img alt="API icon" src="https://docs.microsoft.com/media/common/i_api-reference.svg" data-linktype="external">
                         </div>
                     </div>                
                     <div class="cardText">
@@ -218,7 +213,7 @@ Microsoft 合作伙伴中心是你用于管理与 Microsoft 的端到端关系�
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage bgdAccent1">
-                            <img alt="" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
+                            <img alt="Benefits icon" src="https://docs.microsoft.com//media/common/i_benefits.svg" data-linktype="external">
                         </div>
                     </div>
                     <div class="cardText">
