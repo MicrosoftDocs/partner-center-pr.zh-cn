@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, 权益, 绩效目标, 技能目标
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062335"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098784"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -27,77 +27,77 @@ ms.locfileid: "9062335"
 
  -->
 
-# <a name="competencies"></a><span data-ttu-id="7c299-104">能力</span><span class="sxs-lookup"><span data-stu-id="7c299-104">Competencies</span></span>
+# <a name="competencies"></a><span data-ttu-id="c9add-104">能力</span><span class="sxs-lookup"><span data-stu-id="c9add-104">Competencies</span></span>
 
-**<span data-ttu-id="7c299-105">适用于</span><span class="sxs-lookup"><span data-stu-id="7c299-105">Applies to</span></span>**
--  <span data-ttu-id="7c299-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="7c299-106">Partner Center</span></span>
+**<span data-ttu-id="c9add-105">适用于</span><span class="sxs-lookup"><span data-stu-id="c9add-105">Applies to</span></span>**
+-  <span data-ttu-id="c9add-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="c9add-106">Partner Center</span></span>
 
-<span data-ttu-id="7c299-107">Microsoft 能力成就表明你在提供优质解决方案方面具有可靠的经验。</span><span class="sxs-lookup"><span data-stu-id="7c299-107">Microsoft competency achievements show your proven experience in delivering quality solutions.</span></span> <span data-ttu-id="7c299-108">加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。</span><span class="sxs-lookup"><span data-stu-id="7c299-108">Join the elite tier of Microsoft Partners and stand out from your peers.</span></span> <span data-ttu-id="7c299-109">使用它们：</span><span class="sxs-lookup"><span data-stu-id="7c299-109">Use them to:</span></span> 
+<span data-ttu-id="c9add-107">Microsoft 能力成就表明你在提供优质解决方案方面具有可靠的经验。</span><span class="sxs-lookup"><span data-stu-id="c9add-107">Microsoft competency achievements show your proven experience in delivering quality solutions.</span></span> <span data-ttu-id="c9add-108">加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。</span><span class="sxs-lookup"><span data-stu-id="c9add-108">Join the elite tier of Microsoft Partners and stand out from your peers.</span></span> <span data-ttu-id="c9add-109">使用它们：</span><span class="sxs-lookup"><span data-stu-id="c9add-109">Use them to:</span></span> 
 
-*  <span data-ttu-id="7c299-110">**获得优惠和权益包**，如 Microsoft Action Pack 折扣。</span><span class="sxs-lookup"><span data-stu-id="7c299-110">**Earn offers and benefit packs** such as discounts to the Microsoft Action Pack.</span></span> <span data-ttu-id="7c299-111">权益因能力和级别而异。</span><span class="sxs-lookup"><span data-stu-id="7c299-111">Benefits vary by competency and level.</span></span> 
+*  <span data-ttu-id="c9add-110">**获得优惠和权益包**，如 Microsoft Action Pack 折扣。</span><span class="sxs-lookup"><span data-stu-id="c9add-110">**Earn offers and benefit packs** such as discounts to the Microsoft Action Pack.</span></span> <span data-ttu-id="c9add-111">权益因能力和级别而异。</span><span class="sxs-lookup"><span data-stu-id="c9add-111">Benefits vary by competency and level.</span></span> 
 
-*  <span data-ttu-id="7c299-112">**展示你的公认专长**。</span><span class="sxs-lookup"><span data-stu-id="7c299-112">**Demonstrate your proven expertise**.</span></span> <span data-ttu-id="7c299-113">[获得更多业务引荐](referrals.md)，方法是向潜在客户表明你能够满足其特定业务线的需求。</span><span class="sxs-lookup"><span data-stu-id="7c299-113">[Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.</span></span>
+*  <span data-ttu-id="c9add-112">**展示你的公认专长**。</span><span class="sxs-lookup"><span data-stu-id="c9add-112">**Demonstrate your proven expertise**.</span></span> <span data-ttu-id="c9add-113">[获得更多业务引荐](referrals.md)，方法是向潜在客户表明你能够满足其特定业务线的需求。</span><span class="sxs-lookup"><span data-stu-id="c9add-113">[Earn more business referrals](referrals.md) by showing prospective customers that you're able to meet their needs for a specific line of business.</span></span>
 
-## <a href="" id="attainment_paths"></a><span data-ttu-id="7c299-114">能力途径</span><span class="sxs-lookup"><span data-stu-id="7c299-114">Competency paths</span></span>
+## <a href="" id="attainment_paths"></a><span data-ttu-id="c9add-114">能力途径</span><span class="sxs-lookup"><span data-stu-id="c9add-114">Competency paths</span></span>
 
-[<span data-ttu-id="7c299-115">银牌和金牌成员身份的能力要求</span><span class="sxs-lookup"><span data-stu-id="7c299-115">Competency requirements for silver and gold membership</span></span>](learn-about-competencies.md)
+[<span data-ttu-id="c9add-115">银牌和金牌成员身份的能力要求</span><span class="sxs-lookup"><span data-stu-id="c9add-115">Competency requirements for silver and gold membership</span></span>](learn-about-competencies.md)
 
-## <a name="earn-competencies"></a><span data-ttu-id="7c299-116">获得能力</span><span class="sxs-lookup"><span data-stu-id="7c299-116">Earn competencies</span></span>
+## <a name="earn-competencies"></a><span data-ttu-id="c9add-116">获得能力</span><span class="sxs-lookup"><span data-stu-id="c9add-116">Earn competencies</span></span>
 
-<span data-ttu-id="7c299-117">[加入 Microsoft 合作伙伴网络](mpn-overview.md)之后，你可以实现基于绩效或基于技能的目标以获得 Microsoft 能力。</span><span class="sxs-lookup"><span data-stu-id="7c299-117">After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies.</span></span> 
+<span data-ttu-id="c9add-117">[加入 Microsoft 合作伙伴网络](mpn-overview.md)之后，你可以实现基于绩效或基于技能的目标以获得 Microsoft 能力。</span><span class="sxs-lookup"><span data-stu-id="c9add-117">After you [join the Microsoft Partner Network](mpn-overview.md), you can meet either performance-based or skill-based goals to earn Microsoft competencies.</span></span> 
 
-<span data-ttu-id="7c299-118">**基于绩效的目标**包括：</span><span class="sxs-lookup"><span data-stu-id="7c299-118">**Performance-based goals** include:</span></span> 
-* <span data-ttu-id="7c299-119">收入目标</span><span class="sxs-lookup"><span data-stu-id="7c299-119">Revenue goals</span></span>
-* <span data-ttu-id="7c299-120">活动使用情况</span><span class="sxs-lookup"><span data-stu-id="7c299-120">Active usage</span></span>
-* <span data-ttu-id="7c299-121">部署的席位数</span><span class="sxs-lookup"><span data-stu-id="7c299-121">Deployed seat count</span></span>
-* <span data-ttu-id="7c299-122">新增客户数</span><span class="sxs-lookup"><span data-stu-id="7c299-122">New customer additions</span></span>
+<span data-ttu-id="c9add-118">**基于绩效的目标**包括：</span><span class="sxs-lookup"><span data-stu-id="c9add-118">**Performance-based goals** include:</span></span> 
+* <span data-ttu-id="c9add-119">收入目标</span><span class="sxs-lookup"><span data-stu-id="c9add-119">Revenue goals</span></span>
+* <span data-ttu-id="c9add-120">活动使用情况</span><span class="sxs-lookup"><span data-stu-id="c9add-120">Active usage</span></span>
+* <span data-ttu-id="c9add-121">部署的席位数</span><span class="sxs-lookup"><span data-stu-id="c9add-121">Deployed seat count</span></span>
+* <span data-ttu-id="c9add-122">新增客户数</span><span class="sxs-lookup"><span data-stu-id="c9add-122">New customer additions</span></span>
 
-<span data-ttu-id="7c299-123">**基于技能的目标**包括：</span><span class="sxs-lookup"><span data-stu-id="7c299-123">**Skill-based goals** include:</span></span> 
-* <span data-ttu-id="7c299-124">Microsoft 认证</span><span class="sxs-lookup"><span data-stu-id="7c299-124">Microsoft certifications</span></span>
-* <span data-ttu-id="7c299-125">在线评估</span><span class="sxs-lookup"><span data-stu-id="7c299-125">Online assessments</span></span> 
+<span data-ttu-id="c9add-123">**基于技能的目标**包括：</span><span class="sxs-lookup"><span data-stu-id="c9add-123">**Skill-based goals** include:</span></span> 
+* <span data-ttu-id="c9add-124">Microsoft 认证</span><span class="sxs-lookup"><span data-stu-id="c9add-124">Microsoft certifications</span></span>
+* <span data-ttu-id="c9add-125">在线评估</span><span class="sxs-lookup"><span data-stu-id="c9add-125">Online assessments</span></span> 
 
-<span data-ttu-id="7c299-126">某些能力具有多种实现银牌或金牌级别的方式。</span><span class="sxs-lookup"><span data-stu-id="7c299-126">Some competencies have multiple ways to achieve the Silver or Gold level.</span></span>
+<span data-ttu-id="c9add-126">某些能力具有多种实现银牌或金牌级别的方式。</span><span class="sxs-lookup"><span data-stu-id="c9add-126">Some competencies have multiple ways to achieve the Silver or Gold level.</span></span>
 
-<span data-ttu-id="7c299-127">若要查看你进度的能力，从合作伙伴中心合作伙伴中心中，转到**合作关系 > 能力**。</span><span class="sxs-lookup"><span data-stu-id="7c299-127">To check your progress in a competency, from the Partner Center Partner Center, go to the **Partnership > Competencies**.</span></span> 
+<span data-ttu-id="c9add-127">若要查看你进度的能力，从合作伙伴中心合作伙伴中心中，转到**合作关系 > 能力**。</span><span class="sxs-lookup"><span data-stu-id="c9add-127">To check your progress in a competency, from the Partner Center Partner Center, go to the **Partnership > Competencies**.</span></span> 
 
-### <a href="" id="associating_achievements"></a><span data-ttu-id="7c299-128">让你的员工进行连接以完成基于技能的目标</span><span class="sxs-lookup"><span data-stu-id="7c299-128">Get your employees connected to complete skill-based goals</span></span>
+### <a href="" id="associating_achievements"></a><span data-ttu-id="c9add-128">让你的员工进行连接以完成基于技能的目标</span><span class="sxs-lookup"><span data-stu-id="c9add-128">Get your employees connected to complete skill-based goals</span></span>
 
-1.  <span data-ttu-id="7c299-129">为组织中的员工添加用户帐户。</span><span class="sxs-lookup"><span data-stu-id="7c299-129">Add user accounts for the employees in your organization.</span></span> <span data-ttu-id="7c299-130">在[合作伙伴中心](http://partnercenter.microsoft.com)中，转到**帐户设置 > 添加用户**。</span><span class="sxs-lookup"><span data-stu-id="7c299-130">From the [Partner Center](http://partnercenter.microsoft.com), go to **Account settings > Add user**.</span></span> <span data-ttu-id="7c299-131">（通过选择**使用 PMC 数据添加用户**，PMC 用户一次可以添加多个用户。）</span><span class="sxs-lookup"><span data-stu-id="7c299-131">(PMC users can add multiple users at a time by selecting **Add users using PMC data**.)</span></span>
+1.  <span data-ttu-id="c9add-129">为组织中的员工添加用户帐户。</span><span class="sxs-lookup"><span data-stu-id="c9add-129">Add user accounts for the employees in your organization.</span></span> <span data-ttu-id="c9add-130">在[合作伙伴中心](https://partnercenter.microsoft.com)中，转到**帐户设置 > 添加用户**。</span><span class="sxs-lookup"><span data-stu-id="c9add-130">From the [Partner Center](https://partnercenter.microsoft.com), go to **Account settings > Add user**.</span></span> <span data-ttu-id="c9add-131">（通过选择**使用 PMC 数据添加用户**，PMC 用户一次可以添加多个用户。）</span><span class="sxs-lookup"><span data-stu-id="c9add-131">(PMC users can add multiple users at a time by selecting **Add users using PMC data**.)</span></span>
 
-    <span data-ttu-id="7c299-132">创建用户帐户后，我们将向他们发送新的用户名和密码，并且将提示你下载日志文件，其中包含的信息用于根据需要帮助重置用户名和密码。</span><span class="sxs-lookup"><span data-stu-id="7c299-132">After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed.</span></span> <span data-ttu-id="7c299-133">你还可以[设置用户帐户，以便他们可以自己重置密码](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。</span><span class="sxs-lookup"><span data-stu-id="7c299-133">You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).</span></span>
+    <span data-ttu-id="c9add-132">创建用户帐户后，我们将向他们发送新的用户名和密码，并且将提示你下载日志文件，其中包含的信息用于根据需要帮助重置用户名和密码。</span><span class="sxs-lookup"><span data-stu-id="c9add-132">After the user accounts are created, we'll send them a new user name and password, and will prompt you to download a log file which contains info to help reset the user name and password as needed.</span></span> <span data-ttu-id="c9add-133">你还可以[设置用户帐户，以便他们可以自己重置密码](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。</span><span class="sxs-lookup"><span data-stu-id="c9add-133">You can also [set up the user accounts so they can reset the passwords by themselves](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started).</span></span>
 
-2. <span data-ttu-id="7c299-134">请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。</span><span class="sxs-lookup"><span data-stu-id="7c299-134">Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account.</span></span> <span data-ttu-id="7c299-135">（从[合作伙伴中心](http://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证和通过 Microsoft 合作伙伴大学与其帐户相关联。</span><span class="sxs-lookup"><span data-stu-id="7c299-135">(From the [Partner Center](http://partnercenter.microsoft.com), go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.</span></span>
+2. <span data-ttu-id="c9add-134">请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。</span><span class="sxs-lookup"><span data-stu-id="c9add-134">Ask the employees in your organization to sign in and associate their Microsoft account (MSA) to their user account.</span></span> <span data-ttu-id="c9add-135">（从[合作伙伴中心](https://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证和通过 Microsoft 合作伙伴大学与其帐户相关联。</span><span class="sxs-lookup"><span data-stu-id="c9add-135">(From the [Partner Center](https://partnercenter.microsoft.com), go to **Account settings**.) Employees can use the same or different MSAs to associate their Microsoft technical exams and certifications and their accounts through Microsoft Partner University.</span></span>
 
-3.  <span data-ttu-id="7c299-136">在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。</span><span class="sxs-lookup"><span data-stu-id="7c299-136">**Wait 24 hours** after an employee has associated their account or completed a skill-based goal.</span></span> <span data-ttu-id="7c299-137">此后，进度会显示在**能力**部分中。</span><span class="sxs-lookup"><span data-stu-id="7c299-137">After this time, the progress displays in the **Competencies** section.</span></span>
+3.  <span data-ttu-id="c9add-136">在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。</span><span class="sxs-lookup"><span data-stu-id="c9add-136">**Wait 24 hours** after an employee has associated their account or completed a skill-based goal.</span></span> <span data-ttu-id="c9add-137">此后，进度会显示在**能力**部分中。</span><span class="sxs-lookup"><span data-stu-id="c9add-137">After this time, the progress displays in the **Competencies** section.</span></span>
 
-<span data-ttu-id="7c299-138">注意，员工只能同时将这些认证或技术评估与一个组织相关联。</span><span class="sxs-lookup"><span data-stu-id="7c299-138">Note, employees can only associate these to one organization at a time.</span></span> <span data-ttu-id="7c299-139">他们将成就与你的组织相关联之后，他们将与以前的任何组织帐户断绝关联。</span><span class="sxs-lookup"><span data-stu-id="7c299-139">Once they associate achievements to your organization, they’ll sever any previous organization account associations.</span></span>
+<span data-ttu-id="c9add-138">注意，员工只能同时将这些认证或技术评估与一个组织相关联。</span><span class="sxs-lookup"><span data-stu-id="c9add-138">Note, employees can only associate these to one organization at a time.</span></span> <span data-ttu-id="c9add-139">他们将成就与你的组织相关联之后，他们将与以前的任何组织帐户断绝关联。</span><span class="sxs-lookup"><span data-stu-id="c9add-139">Once they associate achievements to your organization, they’ll sever any previous organization account associations.</span></span>
 
-<span data-ttu-id="7c299-140">同样，当员工离开组织时，你可能需要让其他员工来实现基于技能的目标，以便在相同级别[保持你的成员身份](#maintaining_membership)。</span><span class="sxs-lookup"><span data-stu-id="7c299-140">Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.</span></span>
+<span data-ttu-id="c9add-140">同样，当员工离开组织时，你可能需要让其他员工来实现基于技能的目标，以便在相同级别[保持你的成员身份](#maintaining_membership)。</span><span class="sxs-lookup"><span data-stu-id="c9add-140">Likewise, when employees leave your organization, you may need other employees to achieve the skill-based goals in order to [maintain your membership](#maintaining_membership) at the same level.</span></span>
 
-## <a name="display-your-competency-awards"></a><span data-ttu-id="7c299-141">显示能力奖励</span><span class="sxs-lookup"><span data-stu-id="7c299-141">Display your competency awards</span></span>
+## <a name="display-your-competency-awards"></a><span data-ttu-id="c9add-141">显示能力奖励</span><span class="sxs-lookup"><span data-stu-id="c9add-141">Display your competency awards</span></span>
 
-<span data-ttu-id="7c299-142">一旦达到了这些单项能力目标，你就可以升级你的成员身份。</span><span class="sxs-lookup"><span data-stu-id="7c299-142">Once you've met these goals for a single competency, you'll be able to upgrade your membership.</span></span>
+<span data-ttu-id="c9add-142">一旦达到了这些单项能力目标，你就可以升级你的成员身份。</span><span class="sxs-lookup"><span data-stu-id="c9add-142">Once you've met these goals for a single competency, you'll be able to upgrade your membership.</span></span>
 
-### <a name="upgrade-your-membership"></a><span data-ttu-id="7c299-143">升级你的成员身份</span><span class="sxs-lookup"><span data-stu-id="7c299-143">Upgrade your membership</span></span>
+### <a name="upgrade-your-membership"></a><span data-ttu-id="c9add-143">升级你的成员身份</span><span class="sxs-lookup"><span data-stu-id="c9add-143">Upgrade your membership</span></span>
 
-<span data-ttu-id="7c299-144">若要购买银牌权益包，你只需证明一种途径的银牌级别熟练程度。</span><span class="sxs-lookup"><span data-stu-id="7c299-144">To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path.</span></span> <span data-ttu-id="7c299-145">在你升级到银牌身份之后，我们会在你的业务档案中显示你所获得的所有银牌能力。</span><span class="sxs-lookup"><span data-stu-id="7c299-145">Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your business profile.</span></span> 
+<span data-ttu-id="c9add-144">若要购买银牌权益包，你只需证明一种途径的银牌级别熟练程度。</span><span class="sxs-lookup"><span data-stu-id="c9add-144">To buy the Silver benefit pack, you only need to demonstrate silver-level proficiency in one path.</span></span> <span data-ttu-id="c9add-145">在你升级到银牌身份之后，我们会在你的业务档案中显示你所获得的所有银牌能力。</span><span class="sxs-lookup"><span data-stu-id="c9add-145">Once you upgrade to Silver, we display all of the Silver-level competencies you’ve achieved in your business profile.</span></span> 
 
-<span data-ttu-id="7c299-146">若要购买金牌权益包，你只需证明一种途径的金牌级别熟练程度。</span><span class="sxs-lookup"><span data-stu-id="7c299-146">To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path.</span></span> <span data-ttu-id="7c299-147">在你升级到金牌身份之后，我们会在你的业务档案中显示你所获得的银牌能力和金牌能力。</span><span class="sxs-lookup"><span data-stu-id="7c299-147">Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your business profile.</span></span> 
+<span data-ttu-id="c9add-146">若要购买金牌权益包，你只需证明一种途径的金牌级别熟练程度。</span><span class="sxs-lookup"><span data-stu-id="c9add-146">To buy the Gold benefit pack, you only need to demonstrate gold-level proficiency in one path.</span></span> <span data-ttu-id="c9add-147">在你升级到金牌身份之后，我们会在你的业务档案中显示你所获得的银牌能力和金牌能力。</span><span class="sxs-lookup"><span data-stu-id="c9add-147">Once you upgrade to Gold, we display both the Silver-level and Gold-level competencies you’ve achieved in your business profile.</span></span> 
 
-### <a href="" id="maintain_membership"></a><span data-ttu-id="7c299-148">维持和续订成员身份</span><span class="sxs-lookup"><span data-stu-id="7c299-148">Maintain and renew membership</span></span>
+### <a href="" id="maintain_membership"></a><span data-ttu-id="c9add-148">维持和续订成员身份</span><span class="sxs-lookup"><span data-stu-id="c9add-148">Maintain and renew membership</span></span>
 
-<span data-ttu-id="7c299-149">若要续订你的成员身份，你将需要继续证明 Microsoft 产品和服务方面的熟练程度。</span><span class="sxs-lookup"><span data-stu-id="7c299-149">To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services.</span></span> <span data-ttu-id="7c299-150">你的订阅状态将保持到购买订阅的年度结束为止。</span><span class="sxs-lookup"><span data-stu-id="7c299-150">Your subscription status remains until the end of the year that you purchased it.</span></span>
+<span data-ttu-id="c9add-149">若要续订你的成员身份，你将需要继续证明 Microsoft 产品和服务方面的熟练程度。</span><span class="sxs-lookup"><span data-stu-id="c9add-149">To renew your membership, you’ll need to continue to demonstrate proficiency in Microsoft products and services.</span></span> <span data-ttu-id="c9add-150">你的订阅状态将保持到购买订阅的年度结束为止。</span><span class="sxs-lookup"><span data-stu-id="c9add-150">Your subscription status remains until the end of the year that you purchased it.</span></span>
 
-<span data-ttu-id="7c299-151">过期的成就可能会使你没有资格在相同级别升级或续订合作伙伴成员身份。</span><span class="sxs-lookup"><span data-stu-id="7c299-151">Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level.</span></span> 
+<span data-ttu-id="c9add-151">过期的成就可能会使你没有资格在相同级别升级或续订合作伙伴成员身份。</span><span class="sxs-lookup"><span data-stu-id="c9add-151">Expired achievements may make you ineligible for upgrading or renewing your partner memberships at the same level.</span></span> 
 
-<span data-ttu-id="7c299-152">如果你收到警报：**“你的能力成就的最新变化已使你的成员身份续订资格面临风险”**，这表示你的一项或多项能力成就面临过期风险。</span><span class="sxs-lookup"><span data-stu-id="7c299-152">If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring.</span></span> 
+<span data-ttu-id="c9add-152">如果你收到警报：**“你的能力成就的最新变化已使你的成员身份续订资格面临风险”**，这表示你的一项或多项能力成就面临过期风险。</span><span class="sxs-lookup"><span data-stu-id="c9add-152">If you receive the alert: **“A recent change to your competency achievement has put your membership renewal eligibility at risk”**, this means one or more of your competency achievements is at risk of expiring.</span></span> 
 
-<span data-ttu-id="7c299-153">当帮助你的组织满足能力成就考试或认证要求的员工离开组织时，通常会发生这种情况。</span><span class="sxs-lookup"><span data-stu-id="7c299-153">This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization.</span></span> 
+<span data-ttu-id="c9add-153">当帮助你的组织满足能力成就考试或认证要求的员工离开组织时，通常会发生这种情况。</span><span class="sxs-lookup"><span data-stu-id="c9add-153">This often happens when an employee who helped your organization meet exam or certification requirements for a competency achievement leaves your organization.</span></span> 
 
-<span data-ttu-id="7c299-154">即使你的成员身份续订面临风险，组织的熟练程度状态仍会继续显示，直到一年订阅期过后为止。</span><span class="sxs-lookup"><span data-stu-id="7c299-154">Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.</span></span>
+<span data-ttu-id="c9add-154">即使你的成员身份续订面临风险，组织的熟练程度状态仍会继续显示，直到一年订阅期过后为止。</span><span class="sxs-lookup"><span data-stu-id="c9add-154">Even though your membership renewal is at risk, your organization’s proficiency status continues to display until the one-year subscription has elapsed.</span></span>
 
-<span data-ttu-id="7c299-155">若要在相同级别续订或升级成员身份，你的组织需要再次满足能力要求。</span><span class="sxs-lookup"><span data-stu-id="7c299-155">To renew or upgrade your membership at the same level, your organization needs to meet the competency requirements again.</span></span>
+<span data-ttu-id="c9add-155">若要在相同级别续订或升级成员身份，你的组织需要再次满足能力要求。</span><span class="sxs-lookup"><span data-stu-id="c9add-155">To renew or upgrade your membership at the same level, your organization needs to meet the competency requirements again.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="7c299-156">相关主题</span><span class="sxs-lookup"><span data-stu-id="7c299-156">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="c9add-156">相关主题</span><span class="sxs-lookup"><span data-stu-id="c9add-156">Related topics</span></span>
 
-[<span data-ttu-id="7c299-157">银牌和金牌成员身份的能力要求</span><span class="sxs-lookup"><span data-stu-id="7c299-157">Competency requirements for silver and gold membership</span></span>](learn-about-competencies.md)
+[<span data-ttu-id="c9add-157">银牌和金牌成员身份的能力要求</span><span class="sxs-lookup"><span data-stu-id="c9add-157">Competency requirements for silver and gold membership</span></span>](learn-about-competencies.md)
