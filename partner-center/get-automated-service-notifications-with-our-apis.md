@@ -7,12 +7,12 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c7315e875af8c161e725f5eebba1cb2517490795
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb0dcdf12a59842ebf1400f4a5e917ad64fbb14f
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796950"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098724"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>使用我们的 API 获取自动服务通知
 
@@ -24,9 +24,9 @@ Office 365 和 Microsoft Azure 各提供一个合作伙伴可用于检索实时�
 
 以下 API 适用于你的开发人员：
 
-[Office 365 服务通信 API](http://go.microsoft.com/fwlink/p/?LinkId=616899)
+[Office 365 服务通信 API](https://go.microsoft.com/fwlink/p/?LinkId=616899)
 
-Azure Insights REST API：[代码](http://go.microsoft.com/fwlink/p/?LinkId=617299)和[API 参考](http://go.microsoft.com/fwlink/p/?LinkId=617300)
+Azure Insights REST API：[代码](https://go.microsoft.com/fwlink/p/?LinkId=617299)和[API 参考](https://go.microsoft.com/fwlink/p/?LinkId=617300)
 
  
 

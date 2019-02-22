@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 云解决方案提供商，直接合作伙伴，直接计费，要求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 80b3f5353c2fab8e0b4049c886407414eeba4771
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 9eaa4eae326bda4ed37fa750d588df961b573822
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083351"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098694"
 ---
 # <a name="csp-direct-partner-new-requirements"></a>云解决方案提供商计划直接合作伙伴新要求
 
@@ -45,4 +45,4 @@ ms.locfileid: "9083351"
 
 如果你决定将从直接计费业务移动到间接经销商业务，有几个步骤，你将需要执行。 若要详细了解过渡，阅读[从云解决方案提供商 (CSP) 直接合作伙伴，为云解决方案提供商间接经销商过渡](transition-direct-to-indirect.md)。 
 
-另请参阅[有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)和[为间接经销商直接计费常见问题解答](http://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。
+另请参阅[有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)和[为间接经销商直接计费常见问题解答](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。

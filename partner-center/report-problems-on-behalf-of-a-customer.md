@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1652493791aedac27aaaa3dcfb03adcd15b67e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995961"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098844"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -105,7 +105,7 @@ ms.locfileid: "8995961"
 
 如果你直接登录到 Microsoft Azure 门户，你是在你自己的上下文中而不是客户的上下文中查看该中心。 因此，在为你自己的订阅创建服务申请时，应直接登录 Microsoft Azure 门户。
 
-你的云解决方案提供商支持授权未针对你自己的合作伙伴订阅提供支持，因此当创建涉及你自己的合作伙伴订阅的服务请求时，必须提供你的有效支持计划授权。 示例包括 MPN 合约 ID、Premier 或 Azure 支持计划。 请参阅 [Azure 支持常见问题](http://go.microsoft.com/fwlink/?LinkId=717532)。
+你的云解决方案提供商支持授权未针对你自己的合作伙伴订阅提供支持，因此当创建涉及你自己的合作伙伴订阅的服务请求时，必须提供你的有效支持计划授权。 示例包括 MPN 合约 ID、Premier 或 Azure 支持计划。 请参阅 [Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
 **如果我登录 Office 365 管理中心门户但绕过合作伙伴中心，会发生什么？**
 
@@ -113,7 +113,7 @@ ms.locfileid: "8995961"
 
 **如何获取其他 Dynamics 365 支持？**
 
-如果遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务和操作、 IURs 或你需要进一步技术支持：
+如果遇到相关的问题： Dynamics 365 Plan 订阅，许可，计费，财务 & 操作，IURs 或需要进一步技术支持：
  
 与[Dynamics 支持](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)人员联系
 

@@ -6,18 +6,18 @@ description: 在注册美国政府 Microsoft 云的云解决方案提供商计�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 557eaa97a65acb7fff2698625acb95ab5c3717f6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9e6aa5187dc52ddd753681a4e14bbaec32ce2420
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796330"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098814"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
 **适用于**
 
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 现在，通过美国政府 Microsoft 云的云解决方案提供商计划 (CSP)，Microsoft 合作伙伴可向美国联邦、州、本地和族群实体销售 Microsoft 的云解决方案和服务。 
 
@@ -25,7 +25,7 @@ ms.locfileid: "5796330"
 
 ## <a name="before-you-begin"></a>开始之前
 
-在你可以注册加入美国政府 Microsoft 云的 CSP 计划之前，我们需要验证贵公司是否满足向美国政府实体进行销售的要求。 开始注册过程之前，请填写 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)，以便我们验证贵公司的资格。 在验证了贵公司的资格后，我们将向你提供特定于美国政府 Microsoft 云的 Azure Active Directory (Azure AD) 租户。  
+在你可以注册加入美国政府 Microsoft 云的 CSP 计划之前，我们需要验证贵公司是否满足向美国政府实体进行销售的要求。 开始注册过程之前，请填写 [Microsoft 政府云验证表单](https://azuregov.microsoft.com/csp)，以便我们验证贵公司的资格。 在验证了贵公司的资格后，我们将向你提供特定于美国政府 Microsoft 云的 Azure Active Directory (Azure AD) 租户。  
 
 要创建合作伙伴中心帐户并注册美国政府 Microsoft 云的云解决方案提供商计划，你需要提供以下信息（你可能要在开始注册前收集此信息）：
 
@@ -42,7 +42,7 @@ ms.locfileid: "5796330"
 
 1.  在[此处](https://partnercenter.microsoft.com/register/resellerusgjoinnow)开始执行注册过程。 
 
-2.  使用贵组织的美国政府 Microsoft 云的 Azure AD 租户的全局管理员凭据进行登录。 如果贵组织没有此门户的帐户，则可以通过填写 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)申请一个帐户。
+2.  使用贵组织的美国政府 Microsoft 云的 Azure AD 租户的全局管理员凭据进行登录。 如果贵组织没有此门户的帐户，则可以通过填写 [Microsoft 政府云验证表单](https://azuregov.microsoft.com/csp)申请一个帐户。
 
 
 ### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>第 2 步 - 申请加入美国政府 Microsoft 云的云解决方案提供商计划

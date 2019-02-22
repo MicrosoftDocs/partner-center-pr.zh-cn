@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: d252af955ea82d42ebd8196ad020088edee43dfb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795010"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098734"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -26,8 +26,8 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 |**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育   |成为[授权的教育经销商](https://www.mepn.com)。   | 必须是[合格的教育用户](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府   |若要销售 Azure，使用 [Microsoft 政府云验证表单](http://azuregov.microsoft.com/csp)注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|教育   |成为[授权的教育经销商](https://www.mepn.com)。   | 必须是[合格的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府   |若要销售 Azure，使用 [Microsoft 政府云验证表单](https://azuregov.microsoft.com/csp)注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
 |非盈利  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非盈利性特价产品/服务](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)的更多信息。   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格。   |
 
 

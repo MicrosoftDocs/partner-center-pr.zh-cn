@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 能力, 银牌成员身份, 金牌成员身份, mpn, MAPS, 熟练程度, 权益, 绩效目标, 技能目标
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b0b28e3df005df7503c410f98166bd166d9523
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 23abe1e491eab6eb4811bf7d87095b2a525e65bc
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062335"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098784"
 ---
 <!--
 •   FWLink https://go.microsoft.com/fwlink/?linkid=851080 : top of page
@@ -62,11 +62,11 @@ Microsoft 能力成就表明你在提供优质解决方案方面具有可靠的�
 
 ### <a href="" id="associating_achievements"></a>让你的员工进行连接以完成基于技能的目标
 
-1.  为组织中的员工添加用户帐户。 在[合作伙伴中心](http://partnercenter.microsoft.com)中，转到**帐户设置 > 添加用户**。 （通过选择**使用 PMC 数据添加用户**，PMC 用户一次可以添加多个用户。）
+1.  为组织中的员工添加用户帐户。 在[合作伙伴中心](https://partnercenter.microsoft.com)中，转到**帐户设置 > 添加用户**。 （通过选择**使用 PMC 数据添加用户**，PMC 用户一次可以添加多个用户。）
 
     创建用户帐户后，我们将向他们发送新的用户名和密码，并且将提示你下载日志文件，其中包含的信息用于根据需要帮助重置用户名和密码。 你还可以[设置用户帐户，以便他们可以自己重置密码](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-passwords-getting-started)。
 
-2. 请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。 （从[合作伙伴中心](http://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证和通过 Microsoft 合作伙伴大学与其帐户相关联。
+2. 请组织中的员工登录并将其 Microsoft 帐户 (MSA) 与其用户帐户相关联。 （从[合作伙伴中心](https://partnercenter.microsoft.com)，请转到**帐户设置**。）员工可以使用相同或不同的 Msa，以将其 Microsoft 技术考试和认证和通过 Microsoft 合作伙伴大学与其帐户相关联。
 
 3.  在员工关联了自己的帐户或完成了基于技能的目标之后，**请等待 24 小时**。 此后，进度会显示在**能力**部分中。
 

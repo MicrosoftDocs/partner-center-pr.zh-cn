@@ -6,12 +6,12 @@ description: 美国政府 Microsoft 云合作伙伴中心是想要为与美国�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 245390fdea46f891f3cc75830bd11952d56dbcdc
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796710"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098744"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心
 
@@ -27,7 +27,7 @@ ms.locfileid: "5796710"
 
 美国政府 Microsoft 云提供了 [Microsoft Azure](https://azure.microsoft.com/en-us/overview/clouds/government/) 的单独实例，以满足政府有关数据保护的安全、隐私和合规性要求。 
 
-有关详细信息，请参阅[美国政府 Microsoft 云数据表](http://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)。
+有关详细信息，请参阅[美国政府 Microsoft 云数据表](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)。
 
 ## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>美国政府 Microsoft 云合作伙伴中心：向美国政府实体销售云解决方案
 

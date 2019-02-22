@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e16cbd466ccb8f46982ef8c7e38f644737afcdd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795970"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098774"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 
@@ -21,7 +21,7 @@ ms.locfileid: "5795970"
 
 -  合作伙伴中心
 
-如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](http://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -93,7 +93,7 @@ ms.locfileid: "5795970"
 1.  若要查看某个订阅是否符合升级条件，请选择你的客户，然后打开他们的订阅列表。
 2.  如果该订阅可以升级，你会在订阅名称后立即看到信息图标。 将鼠标悬停在此图标上方，然后选择**立即升级**。
 3.  选择新的产品/服务，然后选择**提交**。
-4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心提供帐户和服务影响的列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](http://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心提供帐户和服务的影响的列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
  
 

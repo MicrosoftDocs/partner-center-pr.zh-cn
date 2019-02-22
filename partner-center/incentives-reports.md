@@ -6,12 +6,12 @@ description: OSA 销售和联机服务使用奖励计划现在可获取实时数
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 815f0a9f7b88d1498381c5135c72eacdd2c8943a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bc9047e21beafb9973723260b437353bbe291603
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796180"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098714"
 ---
 # <a name="live-data-reporting-replaces-monthly-reporting-for-some-incentives-programs"></a>实时数据报告替换某些奖励计划的每月报告
 
@@ -35,7 +35,7 @@ Microsoft 已停用了合作伙伴奖励报告和分析 (PIRA) 站点，并且�
  
 ## <a name="start-using-the-new-reporting-functionality"></a>开始使用新报告功能： 
 
-1. 下载并查看 MPN [合作伙伴奖励体验上的合作伙伴奖励报告](http://aka.ms/osareadiness )上的就绪资产。
+1. 下载并查看 MPN [合作伙伴奖励体验上的合作伙伴奖励报告](https://aka.ms/osareadiness )上的就绪资产。
 
 2. 转到 [PIE](https://partnerincentives.microsoft.com/)
 

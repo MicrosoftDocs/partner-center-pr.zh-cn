@@ -7,12 +7,12 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot，windows autopilot、 microsoft autopilot，零接触部署，oobe，登录屏幕，现成的
 ms.localizationpriority: medium
-ms.openlocfilehash: d563ad09d1fa3b67b01835480a348a524455efbc
-ms.sourcegitcommit: f1c269f4ac52d5206d65d9585855da309f0aae8a
+ms.openlocfilehash: 46b8a74383585c630864079efa42b6e34412b91e
+ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083400"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "9098824"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自定义设备的全新的全新体验的 Windows Autopilot 配置文件
 
@@ -25,7 +25,7 @@ ms.locfileid: "9083400"
 如果你还不熟悉使用 Autopilot，查看这些文章中的信息：
 
 - [Windows Autopilot 概述](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
-- [Autopilot 部署参考指南](http://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Autopilot 部署参考指南](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>概述
 
