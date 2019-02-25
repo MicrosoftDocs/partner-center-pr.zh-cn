@@ -1,18 +1,18 @@
 ---
 title: 确认客户接受 Microsoft 云协议 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 02/22/2019
 Description: As a partner, you need to obtain your customer’s acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer. To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing certain details regarding the person who accepted the agreement.
 author: v-petand
 ms.author: v-petand
 keywords: 客户，客户同意，MCA，Microsoft 云协议，客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 0cadf9462152786fd5cb5c70f7bd787caf85658b
-ms.sourcegitcommit: 17066c1f254bb514f3d43eb1a8819e6f064bc180
+ms.openlocfilehash: 269647b819dda4c86ae7397dac3504268767abba
+ms.sourcegitcommit: 83d2757756ed1ed8f5f7ae06c84e7547174faf9a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "9083190"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "9099435"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
@@ -46,7 +46,7 @@ ms.locfileid: "9083190"
 
 **2018 年 11 月 7日日**
 
--   直接计费合作伙伴和间接提供商**必须**确认客户接受 Microsoft 云协议。 确认是*必需的*。
+-   直接计费合作伙伴和间接提供商**必须**确认客户接受 Microsoft 云协议时通过合作伙伴中心仪表板交易。 确认是*必需的*。
 
 -   如果没有为给定客户提供确认：
 
@@ -57,6 +57,33 @@ ms.locfileid: "9083190"
 -   客户接受确认可以通过合作伙伴中心或合作伙伴中心 API 来完成。
 
 -   客户接受确认仅支持与 Microsoft 公共云。
+
+-   这适用于生产和沙盒环境。
+
+**2018 年 3 月 11日日**
+
+- 直接计费合作伙伴和间接 Providersmust 确认客户接受 Microsoft 云协议云解决方案提供商沙盒环境中，当通过合作伙伴中心 API 交易。
+- 如果没有为给定客户提供确认：
+
+    - 你将无法创建使用合作伙伴中心 API 此客户的新订单。
+ 
+    - 你将无法更改使用合作伙伴中心 API 此客户的现有基于席位的订阅的席位计数。
+- 客户接受确认仅支持与 Microsoft 公共云。 
+
+**3 月 22 日 12018**
+
+- 直接计费合作伙伴和间接 Providersmust 确认客户接受 Microsoft 云协议云解决方案提供商生产环境中，当通过合作伙伴中心 API 交易。
+
+- 如果没有为给定客户提供确认：
+  - 你将无法创建使用合作伙伴中心 API 此客户的新订单。
+
+  - 你将无法更改使用合作伙伴中心 API 此客户的现有基于席位的订阅的席位计数。
+-  客户接受确认仅支持与 Microsoft 公共云。
+
+
+
+
+
 
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>确认在合作伙伴中心中的客户接受
