@@ -7,12 +7,12 @@ author: labrenne
 ms.author: labrenne
 keywords: 角色、 权限、 管理员、 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: d811cb76b03b1784eaf926052e6a00151b2fc347
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cc0e37601b16033bf31faaf5056ca0389d6f5cf6
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086725"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117210"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
@@ -74,7 +74,7 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴，使他们可以将�
 
 |**角色** | **你可以执行的操作**|
 |----------------------------|:----------------------------|
-|MPN 管理员|•Can 添加非租户用户
+|MPN 合作伙伴管理员|•Can 添加非租户用户
 ||• 视图中，创建和管理合作伙伴服务请求
 ||• 查看法律、 组织、 业务和 MPN 档案
 ||• 查看用户详细信息和及其技能数据
@@ -82,8 +82,9 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴，使他们可以将�
 ||• 查看和管理权益
 ||• 视图和购买 MPN 产品/服务
 ||• 查看 MPN 产品/服务订单历史记录和发票
-||• 可以查看合作伙伴贡献数据
+||• 查看合作伙伴贡献数据
 ||• 可以使用凭证验证工具|
+||-查看客户数据分析
 |帐户管理| • 可以添加非租户用户
 ||• 添加或删除位置
 ||-管理配置文件相关的管理员帐户 

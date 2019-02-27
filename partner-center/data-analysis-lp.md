@@ -7,23 +7,31 @@ author: labrenne
 ms.author: labrenne
 keywords: 数据, 分析, 数据分析, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 59dcad4e1cf2d3dadf2bdc037d3404f0aa8e2863
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 32cdbe7a5e95a1d3b39614d69111d552ea4c8585
+ms.sourcegitcommit: 7961476a8fed7cd56a09c6edc8dd1e2dd7f46465
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795900"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "9117200"
 ---
 # <a name="get-data-and-analyze-your-business"></a>获取数据并分析业务 
 
-**适用范围**
-
--  合作伙伴中心 
-
-## <a name="understand-how-your-business-is-doing-through-data-analysis"></a>通过数据分析了解你的业务情况
-
 规划开展云解决方案提供商业务的方式包括了解客户如何使用他们的 Microsoft 产品。 合作伙伴中心中有多个用于收集数据的选项，可以收集有关你的业务的数据，还可以收集你的客户是否在使用以及如何使用所购买的许可证的数据。 如果你处于云解决方案提供商直接模式中，则有机会安装并使用适用于 Power BI 的合作伙伴中心分析应用，来收集其他数据。
 
+## <a name="access-to-user-analytics"></a>访问权限用户分析
+
+在合作伙伴中心中，仅 MPN 合作伙伴管理员有权访问用户分析。 如果你的公司中的人员需要此访问权限 （例如，帐单管理员），你可以通过将此人 MPN 合作伙伴管理员角色分配授予它。
+
+>[!NOTE] 
+>若要授予的访问权限，你必须 MPN 合作伙伴管理员。
+
+**在合作伙伴中心中的用户分析授予访问权限** 
+
+1.  在合作伙伴中心**用户管理**页面上，使用搜索框中查找所需的访问权限的人员。
+2.  在搜索结果中，选择要打开**用户详细信息**页的人的名称。
+3.  在**角色和权限**选择**MPN 合作伙伴管理员**，然后选择**更新**。
+
+ 
 ## <a name="access-data-in-partner-center"></a>访问合作伙伴中心的数据
 
 |**若要获取相关数据**   |**请下载以下内容**   |**请阅读以下内容**   | **适用范围**    |
