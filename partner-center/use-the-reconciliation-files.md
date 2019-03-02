@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: labrenne
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 361a2b56b9256a6155927848e8fbd6de5311a7a0
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 081afc547a0ff86010e06fcb5224a615a0075e34
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062375"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122274"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -37,7 +37,7 @@ ms.locfileid: "9062375"
 <thead>
 <tr class="header">
 <th>MPN ID</th>
-<th>描述</th>
+<th>说明</th>
 </tr>
 </thead>
 <tbody>
@@ -464,34 +464,428 @@ ms.locfileid: "9062375"
 </tbody>
 </table>
 
-## <a href="" id="onetimefiles"></a>一次性购买文件字段
+## <a href="" id="marketplacefilefields"></a>一次性和定期文件字段
 
-|**字段** |**定义**|
-|:----------------|:-----------------------------|
-|PartnerId |合作伙伴 ID（采用 GUID 格式）。 |
-|CustomerId |唯一 Microsoft ID（采用 GUID 格式），用于识别客户。 |
-|CustomerName |在合作伙伴中心中报告的客户的组织名称。 这在使用系统信息对发票进行对帐时非常有用。 |
-|CustomerDomainName |客户的域名。 |
-|CustomerCountry |客户所在的国家/地区。 |
-|InvoiceNumber |显示指定交易所在的发票号码。 |
-|MpnId |云解决方案提供商合作伙伴（直接或间接）的 MPN ID。 |
-|经销商 MPN ID |仅显示在间接模型中合作伙伴的对帐文件上。 预订记录的经销商 MPN ID。 这对应于针对合作伙伴中心中的特定预订所列的经销商 ID。 如果云解决方案提供商合作伙伴将预订直接销售给客户，他们的 MPN ID 会列出两次，即 MPN ID 和经销商 MPN ID。 如果云解决方案提供商合作伙伴的经销商没有 MPN ID，此值将设置为合作伙伴的 MPN ID。 如果云解决方案提供商合作伙伴删除经销商 ID，此值将设置为 -1。 |
-|OrderId |Microsoft 帐单平台中订单的唯一标识符。 当联系支持人员而不用于对帐时，可能对识别 Azure 预订非常有用。 |
-|OrderDate |下达订单的日期。 |
-|ProductId |产品的 ID。 |
-|SkuId  |特定 SKU 的 ID。 |
-|AvailabilityId |特定可用性的 ID。 “可用性”是指针对给定的国家/地区、货币、行业细分市场等，是否可以购买特定 SKU。 |
-|SkuName  |特定 SKU 的名称。 |
-|ProductName |产品的名称。 |
-|ChargeType |费用或调整的类型。 |
-|UnitPrice |所订购的每个产品的价格。 |
-|数量 |所订购产品的数量。 |
-|小计 |税前总额。 如果有折扣，请检查你的小计是否匹配你的预期总额。 |
-|TaxTotal |所有适用税款的总额。 |
-|总计 |此订单的总额。 |
-|货币 |货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。 |
-|DiscountDetails |任何相关折扣的详细列表。 |
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>列</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
 
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>特定计费单位，采用 GUID 格式的唯一 Microsoft Azure Active Directory 租户标识符。 对帐不需要，但可能是有用的信息。 在所有行中均相同。</p></td>
+</tr>
+
+<tr class="even">
+<td>客户 Id</td>
+<td><p>唯一 Microsoft Azure Active Directory 租户 ID，采用 GUID 格式，用于识别客户。</p></td>
+</tr>
+
+<tr class="odd">
+<td>客户名称</td>
+<td><p>在合作伙伴中心中报告的客户的组织名称。</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerDomainName</td>
+<td><p>客户的域名，用于帮助识别客户。 这不应该用于唯一标识客户，如客户/合作伙伴可以更新虚/默认域通过 O365 门户。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+</tr>
+
+<tr class="odd">
+<td>客户国家/地区</td>
+<td><p>客户所在的国家/地区。</p></td>
+</tr>
+
+<tr class="even">
+<td>发票编号</td>
+<td><p>显示指定交易所在的发票号码。</p></td>
+</tr>
+
+<tr class="odd">
+<td>MpnId</td>
+<td><p>云解决方案提供商合作伙伴的 MPN ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>经销商 MpnId</td>
+<td><p>订阅记录的经销商 MPN ID。</p></td>
+</tr>
+
+<tr class="odd">
+<td>订单编码</td>
+<td><p>Microsoft 商务平台中订单的唯一标识符。 当联系支持人员而不用于对帐时，可能对识别订单非常有用。</p></td>
+</tr>
+
+<tr class="even">
+<td>订单日期</td>
+<td><p>下达订单的日期。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ProductId</td>
+<td><p>产品的 ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>SkuId</td>
+<td><p>特定 SKU 的 ID。</p></td>
+</tr>
+
+<tr class="odd">
+<td>AvailabilityId</td>
+<td><p>特定可用性的 ID。 “可用性”是指针对给定的国家/地区、货币、行业细分市场等，是否可以购买特定 SKU。</p></td>
+</tr>
+
+<tr class="even">
+<td>SKU 名称</td>
+<td><p>特定 SKU 的名称。</p></td>
+</tr>
+
+<tr class="odd">
+<td>产品名称</td>
+<td><p>产品的名称。</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>产品的发布者的名称。</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>此发布者的的唯一 ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>订阅说明</td>
+<td><p>订阅的友好名称。</p></td>
+</tr>
+
+<tr class="odd">
+<td>订阅 ID</td>
+<td><p>Microsoft 商务平台中订阅的唯一标识符。 当联系支持人员而不用于对帐时，可能对识别订阅非常有用。 这与合作伙伴管理员控制台中的订阅 ID 不相同。</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>费用的开始日。 时间始终是一天的开始，即 0:00。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>费用的结束日。 时间始终是一天的结束，即 23:59。</p></td>
+</tr>
+
+<tr class="even">
+<td>术语和 Billingcycle</td>
+<td><p>术语长度和计费周期购买。 例如，"1 年，每月。"</p></td>
+</tr>
+
+<tr class="odd">
+<td>费用类型</td>
+<td><p>费用或调整的类型。</p></td>
+</tr>
+
+<tr class="even">
+<td>单价</td>
+<td><p>因为在购买时公布价目表中的价格。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
+</tr>
+
+<tr class="odd">
+<td>有效的单价</td>
+<td><p>单价进行调整后。</p></td>
+</tr>
+
+<tr class="even">
+<td>数量</td>
+<td><p>单位数。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
+</tr>
+
+<tr class="odd">
+<td>设备类型</td>
+<td><p>所购买的设备的类型。</p></td>
+</tr>
+
+<tr class="even">
+<td>DiscountDetails</td>
+<td><p>所有适用的折扣说明。</p></td>
+</tr>
+
+<tr class="odd">
+<td>子总数</td>
+<td><p>税前总额。 如果有折扣，请检查你的小计是否匹配你的预期总额。</p></td>
+</tr>
+
+<tr class="even">
+<td>税务总数</td>
+<td><p>税务金额费用，基于你的市场税务规则和特定情况。</p></td>
+</tr>
+
+<tr class="odd">
+<td>总计</td>
+<td><p>税后总额。 检查你是否在发票中计入了税务。</p></td>
+</tr>
+
+<tr class="even">
+<td>货币</td>
+<td><p>货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。</p></td>
+</tr>
+
+<tr class="odd">
+<td>AlternateID</td>
+<td><p>备用标识符到 id。</p></td>
+</tr>
+</tbody>
+</table>
+
+
+## <a href="" id="dailyratedusagefields"></a>评价每日的使用情况文件字段
+
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>列</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+
+<tr class="odd">
+<td>PartnerId</td>
+<td><p>合作伙伴 ID（采用 GUID 格式）。</p></td>
+</tr>
+
+<tr class="even">
+<td>PartnerName</td>
+<td><p>合作伙伴名称。</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerId</td>
+<td><p>唯一 Microsoft ID（采用 GUID 格式），用于识别客户。</p></td>
+</tr>
+
+<tr class="even">
+<td>CustomerCompanyName</td>
+<td><p>在合作伙伴中心中报告的客户的组织名称。 这在使用系统信息对发票进行对帐时非常有用。</p></td>
+</tr>
+
+<tr class="odd">
+<td>CustomerDomainName</td>
+<td><p>客户的域名。 当前活动不可用。</p></td>
+</tr>
+
+<tr class="even">
+<td>客户国家/地区</td>
+<td><p>客户所在的国家/地区。</p></td>
+</tr>
+
+<tr class="odd">
+<td>MPNID</td>
+<td><p>云解决方案提供商合作伙伴的 MPN ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>经销商 MPNID</td>
+<td><p>订阅记录的经销商 MPN ID。 当前活动不可用。</p></td>
+</tr>
+
+<tr class="odd">
+<td>InvoiceNumber</td>
+<td><p>显示指定交易所在的发票号码。 当前活动不可用。</p></td>
+</tr>
+
+<tr class="even">
+<td>ProductId</td>
+<td><p>产品的 ID。</p></td>
+</tr>
+
+<tr class="odd">
+<td>SkuId</td>
+<td><p>特定 SKU 的 ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>AvailabilityId</td>
+<td><p>特定可用性的 ID。 “可用性”是指针对给定的国家/地区、货币、行业细分市场等，是否可以购买特定 SKU。</p></td>
+</tr>
+
+<tr class="odd">
+<td>SKU 名称</td>
+<td><p>特定 SKU 的名称。</p></td>
+</tr>
+
+<tr class="even">
+<td>PublisherName</td>
+<td><p>发布者的名称。</p></td>
+</tr>
+
+<tr class="odd">
+<td>PublisherID</td>
+<td><p>发布者，采用 GUID 格式的 ID。 当前活动不可用。</p></td>
+</tr>
+
+<tr class=”even">
+<td>订阅说明</td>
+<td><p>客户购买的服务产品的名称，如价目表中所定义。 （与产品/服务名称字段相同）。</p></td>
+</tr>
+
+<tr class="odd">
+<td>订阅 ID</td>
+<td><p>Microsoft 帐单平台中订阅的唯一标识符。 当联系支持人员而不用于对帐时，可能对识别订阅非常有用。 这与合作伙伴管理员控制台中的订阅 ID 不相同。</p></td>
+</tr>
+
+<tr class="even">
+<td>ChargeStartDate</td>
+<td><p>计费周期的开始日期，之前未付款的潜在使用情况数据（来自上一个计费周期）的显示日期除外。 时间始终是一天的开始，即 0:00。</p></td>
+</tr>
+
+<tr class="odd">
+<td>ChargeEndDate</td>
+<td><p>计费周期的结束日期，之前未付款的潜在使用情况数据（来自上一个计费周期）的显示日期除外。 时间始终是一天的结束，即 23:59。</p></td>
+</tr>
+
+<tr class="even">
+<td>使用日期</td>
+<td><p>服务使用情况的日期。</p></td>
+</tr>
+
+<tr class="odd">
+<td>指示器类型</td>
+<td><p>米的类型。</p></td>
+</tr>
+
+<tr class="even">
+<td>指示器类别</td>
+<td><p>使用顶级服务。</p></td>
+</tr>
+
+<tr class="odd">
+<td>指示器 Id</td>
+<td><p>正在使用的仪表 ID。</p></td>
+</tr>
+
+<tr class="even">
+<td>指示器子类别</td>
+<td><p>可能会影响速率的 Azure 服务的类型。</p></td>
+</tr>
+
+<tr class="odd">
+<td>指示器名称</td>
+<td><p>正在使用的指示器的度量单位。</p></td>
+</tr>
+
+<tr class="even">
+<td>指示器区域</td>
+<td><p>此列标识服务的区域内的数据中心的位置（该位置适用且人口密集）。</p></td>
+</tr>
+
+<tr class="odd">
+<td>单位</td>
+<td><p>资源名称的单位。</p></td>
+</tr>
+
+<tr class="even">
+<td>消耗的数量</td>
+<td><p>报告期间的服务消耗量（小时，GB 等）。 此外还包括来自以前报告期间任何未开票的使用量。</p></td>
+</tr>
+
+<tr class="odd">
+<td>资源位置</td>
+<td><p>数据中心指示器运行所在的位置。</p></td>
+</tr>
+
+<tr class="even">
+<td>已消耗的服务</td>
+<td><p>你使用 Azure 平台服务。</p></td>
+</tr>
+
+<tr class="odd">
+<td>资源组</td>
+<td><p>资源组正在部署的指示器。</p></td>
+</tr>
+
+<tr class="even">
+<td>资源 URI</td>
+<td><p>正在使用的资源的 URI。</p></td>
+</tr>
+
+<tr class="odd">
+<td>费用类型</td>
+<td><p>费用或调整的类型。 当前活动不可用。</p></td>
+</tr>
+
+<tr class="even">
+<td>单价</td>
+<td><p>每个许可证，因为在购买时公布价目表中的价格。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
+</tr>
+
+<tr class="odd">
+<td>数量</td>
+<td><p>许可证数量。 确保这与在对帐期间你的计费系统中存储的信息相匹配。</p></td>
+</tr>
+
+<tr class="even">
+<td>设备类型</td>
+<td><p>在计费单位指示器的类型。 当前活动不可用。</p></td>
+</tr>
+
+<tr class="odd">
+<td>计费预税款</td>
+<td><p>税前的总金额。</p></td>
+</tr>
+
+<tr class="even">
+<td>计费货币</td>
+<td><p>在客户的地理区域货币</p></td>
+</tr>
+
+<tr class="odd">
+<td>定价税前总额</td>
+<td><p>定价之前税款。</p></td>
+</tr>
+
+<tr class="even">
+<td>定价货币</td>
+<td><p>价目表中货币。</p></td>
+</tr>
+
+<tr class="odd">
+<td>服务信息 1</td>
+<td><p>已预配并且已在指定日利用的服务总线连接数。</p></td>
+</tr>
+
+<tr class="even">
+<td>服务信息 2</td>
+<td><p>捕获可选的特定于服务的元数据的传统字段。</p></td>
+</tr>
+
+<tr class="odd">
+<td>标记</td>
+<td><p>分配到组计费记录到顺序指示器的标记。 例如，标记可用于使用指示器部门分配成本。</p></td>
+</tr>
+
+<tr class="even">
+<td>其他信息</td>
+<td><p>其他列中未涉及的任何其他信息。</p></td>
+</tr>
+
+</tbody>
+</table>
 
 
 ## <a href="" id="charge_types"></a>映射发票与对帐文件之间的费用

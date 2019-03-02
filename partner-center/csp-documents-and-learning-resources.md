@@ -1,19 +1,19 @@
 ---
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/01/2019
 description: 本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 4300da2261618474e44f28fd8aba0dbf50817313
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098764"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122234"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、 协议、 价目表和产品/服务
 
@@ -81,6 +81,7 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 一次性购买价格也是动态的。 一次性购买的示例包括 Microsoft Azure 预订和 Windows Server 和 SQL 软件的相应订阅。 
 
+定价有关 Azure Marketplace 产品/服务的信息，请转到**应用商店**在合作伙伴中心左侧的导航菜单中。 选择要查看有关发布者 Sku 的信息的产品和定价。 这些 Azure Marketplace 产品的价格可经常更改。 非常即将，我们将提供一个用于所有定价数据，每日更新的列表导出的选项。 我们还将启用当前通过 Api 的价格数据的访问权限。 这些选项可用后，我们将更新此页面提供如何使用它们的详细信息。
 
 ## <a name="offers"></a>产品/服务
 
@@ -88,5 +89,7 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 作为云解决方案提供商合作伙伴，你可以销售范围广泛的 Microsoft 产品、 服务和解决方案，包括 Office 365、 企业移动性套件、 Microsoft Dynamics 和 Microsoft Azure。 有关哪些产品/服务可供你销售这些产品系列中的详细信息，请参阅**定价和产品/服务**可从**合作伙伴中心**菜单上的云解决方案提供商产品/服务矩阵。 本文档按月更新。
 
 对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在**定价和产品/服务**页面上发布了云解决方案提供商计划中 Azure 服务的列表。
+
+若要了解有关 Azure Marketplace 产品/服务发布的独立软件供应商 (Isv)，请访问的左侧的导航菜单中的**应用商店**页面。 目前，可以在合作伙伴中心购买只有 SaaS （软件即服务） 的产品类型。 你将需要访问 Azure 门户，以获取其他类型的 Azure Marketplace 产品/服务。
 
 

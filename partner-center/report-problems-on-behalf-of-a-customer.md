@@ -1,19 +1,19 @@
 ---
 title: 代表客户报告问题 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
-Description: If your customer is experiencing a service problem that you can''t resolve, and that meets the criteria described in Escalate problems to Microsoft, file a support ticket for them.
+ms.date: 03/01/2019
+Description: 如果你的客户遇到了你无法解决的服务问题，并且该问题符合将问题上报给 Microsoft 中所述的条件，请为他们提出支持票证。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: service request, service ticket, support, support entitlement, aobo, Azure aobo
+Keywords: 服务请求，服务票证，支持，支持权利、 aobo、 Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: fdeaaa855e8cf1ff906569703d2bfde363a762ae
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.openlocfilehash: af024782202bc2127b76277b29049e3d34f17215
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098844"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122194"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -25,7 +25,7 @@ ms.locfileid: "9098844"
 
 如果你的客户遇到了你无法解决的服务问题，并且该问题符合[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
-**提交客户服务请求**
+## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
 1.  从**合作伙伴中心**菜单中，选择**服务请求**，然后**客户请求**。 
 
@@ -33,13 +33,14 @@ ms.locfileid: "9098844"
 
 3.  从**新建请求**下拉菜单中，选择 **Azure** 或 **Office 365、Dynamics 365、企业移动性套件**。 你将会重定向到 Microsoft Azure 门户或 Office 365 管理员中心。
 
-**Microsoft Azure**
+### <a name="microsoft-azure"></a>Microsoft Azure
 
-**注意**当你需要为你在 Azure 中的客户创建服务请求时，应注意以下：
-
-- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
-
-- 尽管在合作伙伴中心中的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
+> [!IMPORTANT]
+> 当你需要为你在 Azure 中的客户创建服务请求时，应注意以下：
+>
+>- 为了让你可以为你在 Azure 中的客户创建服务请求，你的间接提供商必须授予访问权限客户的 Azure 帐户。 这不同于代表 Office 365 客户进行管理。 
+>
+>- 尽管在合作伙伴中心中的帮助台管理员不能在 Azure 服务门户中创建服务请求，他们可以做什么是 Azure 服务门户中创建支持组并为该组权限，以记录支持请求。
 
 1. 选择**新建支持请求**。
 2. 使用相应信息填写支持请求，然后选择**创建**：
@@ -64,17 +65,29 @@ ms.locfileid: "9098844"
 4. 选择**新支持请求**，然后按照提示创建请求。 
 
  
-**Office 365、Microsoft Dynamics CRM Online、企业移动性套件**
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、企业移动性套件
 
 1. 在**创建服务请求**部分中，选择相应的支持主题类别。 可能需要选择**更多…** 查看其他主题。    
 2. 完成服务请求表单，然后选择**提交**。
 
->[**注意**] 请确保包含联系人信息，而不是客户的。
+   > [!TIP]
+   > 请确保包含联系人信息，而不是客户的。
 
 3. 稍后查看客户的服务请求，方法是转到 Office 365 管理中心并选择**查看所有支持票证**。
 
-## <a name="faq"></a>常见问题
+### <a name="support-for-azure-marketplace-products"></a>Azure 应用商店产品的支持
 
+Microsoft 不提供 Azure Marketplace 产品的产品支持。 你需要联系独立软件供应商 (ISV) 的发布要获取支持的产品。
+
+若要找到 ISV 的联系人信息：
+
+1.  在应用商店页面上，选择你需要帮助的产品。
+2.  在产品页上，你将发现支持联系人信息。 这可能是一个或多个以下：
+    - ISV 的网站上的支持入口点链接
+    - 支持电子邮件 
+    - 支持联系人电话号码
+
+## <a name="faq"></a>常见问题
 
 **哪些内容作为支持权利的一部分包含在内？**
 

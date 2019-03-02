@@ -2,18 +2,18 @@
 title: 计费 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-Description: As a Cloud Solution Provider partner, you will pay Microsoft 60 days in arrears for the license-based and usage-based subscriptions of your customers.
+Description: 作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税务, 免税, 对帐文件, 对帐文件
 ms.localizationpriority: medium
-ms.openlocfilehash: b8041b6fb5ae913786bf7e755d11e727e636f518
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.openlocfilehash: 1d742b014e531539eaf89cffcbbe08b0232a2161
+ms.sourcegitcommit: 8bfd1358a0ef86e46bee2a1097d86de3c9e969e8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683446"
+ms.lasthandoff: 03/02/2019
+ms.locfileid: "9122174"
 ---
 # <a name="billing"></a>计费
 
@@ -42,6 +42,7 @@ ms.locfileid: "8683446"
 |:-----------------------------|:-----------------|
 |有关计费、付款、发票等内容的基础知识   |[计费基础知识](billing-basics.md)
 |许多新的计费功能，例如按年计费   |[有关新计费功能的常见问题解答](faq-about-new-billing-features.md)|
+|类型的计费   |[了解在合作伙伴中心计费的类型](billing-different-types.md)   |
 |阅读帐单的关键   |[阅读帐单](read-your-bill.md)   |
 |如何阅读和使用对帐文件   |[使用对帐文件](use-the-reconciliation-files.md)|
 |常见计费方案（若要查找其他计费方案，请参阅[新计费功能的常见问题解答](faq-about-new-billing-features.md)）|[常见计费方案](common-billing-scenarios.md)|
