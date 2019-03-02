@@ -49,7 +49,9 @@
 
 
 # [计费和税务](billing.md)
-## [有关新计费功能的常见问题解答](faq-about-new-billing-features.md)
+## [计费常见问题解答](faq-about-new-billing-features.md)
+## [计费基础知识](billing-basics.md)
+## [了解在合作伙伴中心计费的类型](billing-different-types.md)
 ## [阅读帐单](read-your-bill.md)
 ## [使用对帐文件](use-the-reconciliation-files.md)
 ## [税务和免税](tax-and-tax-exemptions.md)
@@ -78,6 +80,7 @@
 ## [在线服务（订阅）](customer-subscriptions.md)
 ### [创建、暂停或取消客户订阅](create-a-new-subscription.md)
 ### [为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)
+### [销售 Azure Marketplace 产品的订阅](sell-marketplace-products.md)
 ### [在合作伙伴中心分配 Azure 订阅](assign-azure-subscriptions.md)
 ### [将许可证分配给用户](assign-licenses-to-users.md)
 ### [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
