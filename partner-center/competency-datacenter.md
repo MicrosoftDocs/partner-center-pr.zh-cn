@@ -3,20 +3,20 @@ title: 数据中心能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 数据中心能力用于认可要将数据中心转变为更具灵活性、可扩展性和成本效益的解决方案的合作伙伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 数据中心
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 803b3c384985564c1504d377bdcee065eff5bfd1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 356d94a49a43e24d11e0c7adf49fa36178559876
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795560"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584270"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="6137f-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="6137f-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="b5b99-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="b5b99-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Datacenter

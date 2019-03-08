@@ -1,7 +1,7 @@
 ---
-title: 分析 Azure 使用情况 |合作伙伴中心
+title: 分析 Azure 使用情况 | 合作伙伴中心
 ms.date: 07/12/2018
-Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: 使用合作伙伴中心以获取有关客户的 Azure 订阅的使用情况数据。
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -9,43 +9,43 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8cfb26dd5658648cb0859f557984d47a51125076
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917409"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586260"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a><span data-ttu-id="11509-103">获取客户的 Azure 订阅使用情况数据</span><span class="sxs-lookup"><span data-stu-id="11509-103">Get data about the usage of your customers' Azure subscriptions</span></span> 
+# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a><span data-ttu-id="d9d8e-104">获取客户的 Azure 订阅使用情况数据</span><span class="sxs-lookup"><span data-stu-id="d9d8e-104">Get data about the usage of your customers' Azure subscriptions</span></span> 
 
-**<span data-ttu-id="11509-104">适用范围</span><span class="sxs-lookup"><span data-stu-id="11509-104">Applies to</span></span>**
-- <span data-ttu-id="11509-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="11509-105">Partner Center</span></span>
+<span data-ttu-id="d9d8e-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-105">**Applies to**</span></span>
+- <span data-ttu-id="d9d8e-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d9d8e-106">Partner Center</span></span>
 
-<span data-ttu-id="11509-106">数据推动业务决策。</span><span class="sxs-lookup"><span data-stu-id="11509-106">Data drives business decisions.</span></span> <span data-ttu-id="11509-107">使用在**Azure 使用情况**的页面中的指标来确定你的成功和需要更多关注的区域。</span><span class="sxs-lookup"><span data-stu-id="11509-107">Use the metrics in the **Azure usage** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="11509-108">在计划新业务目标时使用此信息。</span><span class="sxs-lookup"><span data-stu-id="11509-108">Use this information as you plan new business goals.</span></span>
+<span data-ttu-id="d9d8e-107">数据推动业务决策。</span><span class="sxs-lookup"><span data-stu-id="d9d8e-107">Data drives business decisions.</span></span> <span data-ttu-id="d9d8e-108">使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。</span><span class="sxs-lookup"><span data-stu-id="d9d8e-108">Use the metrics in the **Azure usage** page to identify your successes and areas that need more attention.</span></span> <span data-ttu-id="d9d8e-109">在计划新业务目标时使用此信息。</span><span class="sxs-lookup"><span data-stu-id="d9d8e-109">Use this information as you plan new business goals.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="11509-109">Azure 使用情况分析是仅适用于云解决方案提供商计划中的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="11509-109">Azure usage  analytics is available only for partners in the Cloud Solution Provider program.</span></span>
+> <span data-ttu-id="d9d8e-110">Azure 使用情况分析仅适用于云解决方案提供商计划中的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="d9d8e-110">Azure usage  analytics is available only for partners in the Cloud Solution Provider program.</span></span>
 
-<span data-ttu-id="11509-110">我们跟踪下列指标：</span><span class="sxs-lookup"><span data-stu-id="11509-110">We are tracking the following metrics:</span></span>
+<span data-ttu-id="d9d8e-111">我们跟踪下列指标：</span><span class="sxs-lookup"><span data-stu-id="d9d8e-111">We are tracking the following metrics:</span></span>
 
-**<span data-ttu-id="11509-111">摘要</span><span class="sxs-lookup"><span data-stu-id="11509-111">Summary</span></span>**  
- - <span data-ttu-id="11509-112">**销售的总 Azure 订阅**： 在指定的时间段内销售的订阅数</span><span class="sxs-lookup"><span data-stu-id="11509-112">**Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period</span></span>  
- - <span data-ttu-id="11509-113">**使用情况的客户**： 在指定的时间段内的 Azure 使用情况的客户的数量</span><span class="sxs-lookup"><span data-stu-id="11509-113">**Customers with usage**: Number of customers with Azure usage in the specified time period</span></span>  
- - <span data-ttu-id="11509-114">**无需使用情况的客户**： 而无需在指定的时间段内的 Azure 使用情况的客户数量</span><span class="sxs-lookup"><span data-stu-id="11509-114">**Customers without usage**: Number of customers without Azure usage in the specified time period</span></span>  
+<span data-ttu-id="d9d8e-112">**摘要**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-112">**Summary**</span></span>  
+ - <span data-ttu-id="d9d8e-113">**Azure 订阅总数销售**:在指定的时间段内已销售的订阅数</span><span class="sxs-lookup"><span data-stu-id="d9d8e-113">**Total Azure subscriptions sold**: Number of subscriptions sold in the specified time period</span></span>  
+ - <span data-ttu-id="d9d8e-114">**客户使用情况**:使用指定的时间段内的 Azure 使用情况的客户数量</span><span class="sxs-lookup"><span data-stu-id="d9d8e-114">**Customers with usage**: Number of customers with Azure usage in the specified time period</span></span>  
+ - <span data-ttu-id="d9d8e-115">**没有使用情况的客户**:没有在指定的时间段内的 Azure 使用情况的客户的数目</span><span class="sxs-lookup"><span data-stu-id="d9d8e-115">**Customers without usage**: Number of customers without Azure usage in the specified time period</span></span>  
 
-**<span data-ttu-id="11509-115">类别中的前 5 客户</span><span class="sxs-lookup"><span data-stu-id="11509-115">Top 5 customers in category</span></span>**  
- -  <span data-ttu-id="11509-116">客户指定类别的前 5</span><span class="sxs-lookup"><span data-stu-id="11509-116">The top 5 customers for the specified category</span></span>  
+<span data-ttu-id="d9d8e-116">**前 5 个类别中的客户**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-116">**Top 5 customers in category**</span></span>  
+ -  <span data-ttu-id="d9d8e-117">指定类别的前 5 位客户</span><span class="sxs-lookup"><span data-stu-id="d9d8e-117">The top 5 customers for the specified category</span></span>  
 
-**<span data-ttu-id="11509-117">无需使用情况的订阅</span><span class="sxs-lookup"><span data-stu-id="11509-117">Subscriptions without usage</span></span>**  
- -  <span data-ttu-id="11509-118">Sepcific 订阅而无需使用 Azure 中指定的时间段的列表</span><span class="sxs-lookup"><span data-stu-id="11509-118">List of sepcific subscriptions without Azure usage in the specified time period</span></span>  
+<span data-ttu-id="d9d8e-118">**订阅而无需使用情况**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-118">**Subscriptions without usage**</span></span>  
+ -  <span data-ttu-id="d9d8e-119">指定时间段内未使用过 Azure 的特定订阅的列表</span><span class="sxs-lookup"><span data-stu-id="d9d8e-119">List of sepcific subscriptions without Azure usage in the specified time period</span></span>  
 
-**<span data-ttu-id="11509-119">Azure 订阅改动</span><span class="sxs-lookup"><span data-stu-id="11509-119">Azure subscription churn</span></span>**  
- - <span data-ttu-id="11509-120">**活动订阅**： 按日期的活动订阅计数</span><span class="sxs-lookup"><span data-stu-id="11509-120">**Active subscriptions**: Count of active subscriptions by date</span></span>  
- - <span data-ttu-id="11509-121">**Deprovisioned 订阅**： 订阅的计数 deprovisioned 或暂停按日期</span><span class="sxs-lookup"><span data-stu-id="11509-121">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+<span data-ttu-id="d9d8e-120">**Azure 订阅变动量**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-120">**Azure subscription churn**</span></span>  
+ - <span data-ttu-id="d9d8e-121">**活动订阅**:按日期的活动订阅的计数</span><span class="sxs-lookup"><span data-stu-id="d9d8e-121">**Active subscriptions**: Count of active subscriptions by date</span></span>  
+ - <span data-ttu-id="d9d8e-122">**取消预配订阅**:取消预配或按日期已挂起的订阅计数</span><span class="sxs-lookup"><span data-stu-id="d9d8e-122">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
 
-**<span data-ttu-id="11509-122">客户计数</span><span class="sxs-lookup"><span data-stu-id="11509-122">Customer count</span></span>**
- - <span data-ttu-id="11509-123">在指定的时间段内获取新客户</span><span class="sxs-lookup"><span data-stu-id="11509-123">New customers acquired during the specified time period</span></span>  
+<span data-ttu-id="d9d8e-123">**客户计数**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-123">**Customer count**</span></span>
+ - <span data-ttu-id="d9d8e-124">指定时间段内获取的新客户数</span><span class="sxs-lookup"><span data-stu-id="d9d8e-124">New customers acquired during the specified time period</span></span>  
 
-**<span data-ttu-id="11509-124">Azure 订阅保留</span><span class="sxs-lookup"><span data-stu-id="11509-124">Azure subscription retention</span></span>**  
- - <span data-ttu-id="11509-125">已更新的订阅数。</span><span class="sxs-lookup"><span data-stu-id="11509-125">The number of subscriptions that were renewed.</span></span>   
+<span data-ttu-id="d9d8e-125">**Azure 订阅保留期**</span><span class="sxs-lookup"><span data-stu-id="d9d8e-125">**Azure subscription retention**</span></span>  
+ - <span data-ttu-id="d9d8e-126">续订的订阅数量。</span><span class="sxs-lookup"><span data-stu-id="d9d8e-126">The number of subscriptions that were renewed.</span></span>   
   

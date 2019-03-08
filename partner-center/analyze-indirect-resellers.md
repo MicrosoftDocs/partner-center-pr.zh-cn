@@ -1,7 +1,7 @@
 ---
-title: 分析间接经销商性能 |合作伙伴中心
+title: 分析间接经销商业绩 | 合作伙伴中心
 ms.date: 07/12/2018
-Description: Get data about the performance of your indirect resellers to identify successes as well as areas that may need more attention.
+Description: 获取有关性能的间接经销商来标识成功，以及可能需要更多关注的区域的数据。
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -9,54 +9,54 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ddf55ceef4ec9d47e53d4697b8d54799ba70f6fd
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: c16025637c80f7219da3655c5cc8fa051f7fe01e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917649"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587300"
 ---
-# <a name="analyze-indirect-resellers-performance"></a><span data-ttu-id="0aa43-103">分析间接经销商业绩</span><span class="sxs-lookup"><span data-stu-id="0aa43-103">Analyze indirect resellers performance</span></span> 
+# <a name="analyze-indirect-resellers-performance"></a><span data-ttu-id="76545-104">分析间接经销商业绩</span><span class="sxs-lookup"><span data-stu-id="76545-104">Analyze indirect resellers performance</span></span> 
 
-**<span data-ttu-id="0aa43-104">适用范围</span><span class="sxs-lookup"><span data-stu-id="0aa43-104">Applies to</span></span>**
-- <span data-ttu-id="0aa43-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="0aa43-105">Partner Center</span></span>
+<span data-ttu-id="76545-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="76545-105">**Applies to**</span></span>
+- <span data-ttu-id="76545-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="76545-106">Partner Center</span></span>
 
-<span data-ttu-id="0aa43-106">数据推动业务决策。</span><span class="sxs-lookup"><span data-stu-id="0aa43-106">Data drives business decisions.</span></span> <span data-ttu-id="0aa43-107">使用**经销商分析**页面的指标来确定你成功、 你的间接经销商的成功和需要更多关注的区域。</span><span class="sxs-lookup"><span data-stu-id="0aa43-107">Use the metrics in the **Reseller analytics** page to identify your successes, your indirect resellers' successes, and areas that need more attention.</span></span> <span data-ttu-id="0aa43-108">在计划新业务目标时使用此信息。</span><span class="sxs-lookup"><span data-stu-id="0aa43-108">Use this information as you plan new business goals.</span></span>
+<span data-ttu-id="76545-107">数据推动业务决策。</span><span class="sxs-lookup"><span data-stu-id="76545-107">Data drives business decisions.</span></span> <span data-ttu-id="76545-108">使用**经销商分析**页面的指标来确定你的成功、你的间接经销商的成功，以及需要更多关注的领域。</span><span class="sxs-lookup"><span data-stu-id="76545-108">Use the metrics in the **Reseller analytics** page to identify your successes, your indirect resellers' successes, and areas that need more attention.</span></span> <span data-ttu-id="76545-109">在计划新业务目标时使用此信息。</span><span class="sxs-lookup"><span data-stu-id="76545-109">Use this information as you plan new business goals.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="0aa43-109">间接经销商分析是仅适用于云解决方案提供商计划中的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="0aa43-109">Indirect resellers analytics is available only for partners in the Cloud Solution Provider program.</span></span>
+> <span data-ttu-id="76545-110">间接经销商分析仅适用于云解决方案提供商计划中的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="76545-110">Indirect resellers analytics is available only for partners in the Cloud Solution Provider program.</span></span>
 
-<span data-ttu-id="0aa43-110">我们跟踪下列指标：</span><span class="sxs-lookup"><span data-stu-id="0aa43-110">We are tracking the following metrics:</span></span>
+<span data-ttu-id="76545-111">我们跟踪下列指标：</span><span class="sxs-lookup"><span data-stu-id="76545-111">We are tracking the following metrics:</span></span>
 
-**<span data-ttu-id="0aa43-111">摘要</span><span class="sxs-lookup"><span data-stu-id="0aa43-111">Summary</span></span>**  
- - <span data-ttu-id="0aa43-112">**总经销商**： 订阅的最后一天的活动经销商的计数</span><span class="sxs-lookup"><span data-stu-id="0aa43-112">**Total resellers**: Count of active resellers on the last day of the subscription</span></span>  
- - <span data-ttu-id="0aa43-113">**新经销商**： 指定的时间段内的新间接经销商的计数</span><span class="sxs-lookup"><span data-stu-id="0aa43-113">**New resellers**: Count of new indirect resellers for the specified time period</span></span>  
- - <span data-ttu-id="0aa43-114">**活动经销商**： 其中 MPNID 是至少 1 个订阅，且不 deprovisioned 订阅状态的间接经销商计数</span><span class="sxs-lookup"><span data-stu-id="0aa43-114">**Active resellers**: Count of indirect resellers where the MPNID is at least 1 subscription, and where the subscription status is not deprovisioned</span></span>  
- - <span data-ttu-id="0aa43-115">**处交易经销商**： 的间接经销商与订阅计数排序的售出中指定的时间段</span><span class="sxs-lookup"><span data-stu-id="0aa43-115">**Transacting resellers**: Count of indirect resellers with a subscription sold in the specified time period</span></span>  
+<span data-ttu-id="76545-112">**摘要**</span><span class="sxs-lookup"><span data-stu-id="76545-112">**Summary**</span></span>  
+ - <span data-ttu-id="76545-113">**总经销商**:在订阅的最后一天的活动分销商的计数</span><span class="sxs-lookup"><span data-stu-id="76545-113">**Total resellers**: Count of active resellers on the last day of the subscription</span></span>  
+ - <span data-ttu-id="76545-114">**新的分销商**:在指定的时间段的新间接分销商的计数</span><span class="sxs-lookup"><span data-stu-id="76545-114">**New resellers**: Count of new indirect resellers for the specified time period</span></span>  
+ - <span data-ttu-id="76545-115">**活动的分销商**:其中 MPNID 是至少 1 个订阅，并且订阅状态不取消预配的间接经销商计数</span><span class="sxs-lookup"><span data-stu-id="76545-115">**Active resellers**: Count of indirect resellers where the MPNID is at least 1 subscription, and where the subscription status is not deprovisioned</span></span>  
+ - <span data-ttu-id="76545-116">**事务处理分销商**:在指定的时间段内销售的间接经销商与订阅计数</span><span class="sxs-lookup"><span data-stu-id="76545-116">**Transacting resellers**: Count of indirect resellers with a subscription sold in the specified time period</span></span>  
 
-**<span data-ttu-id="0aa43-116">按市场的经销商</span><span class="sxs-lookup"><span data-stu-id="0aa43-116">Resellers by market</span></span>**  
- - <span data-ttu-id="0aa43-117">按地理位置的总经销商</span><span class="sxs-lookup"><span data-stu-id="0aa43-117">Total resellers by geographic location</span></span>  
+<span data-ttu-id="76545-117">**按市场的分销商**</span><span class="sxs-lookup"><span data-stu-id="76545-117">**Resellers by market**</span></span>  
+ - <span data-ttu-id="76545-118">按地理位置列出的经销商总数</span><span class="sxs-lookup"><span data-stu-id="76545-118">Total resellers by geographic location</span></span>  
 
-**<span data-ttu-id="0aa43-118">按订阅排序的售出顶部经销商</span><span class="sxs-lookup"><span data-stu-id="0aa43-118">Top resellers by subscriptions sold</span></span>**
- - <span data-ttu-id="0aa43-119">经销商，按订阅它们已售出数进行排序的列表</span><span class="sxs-lookup"><span data-stu-id="0aa43-119">A list of resellers, sorted by the number of subscriptions they've sold</span></span>  
+<span data-ttu-id="76545-119">**订阅顶部分销商销售**</span><span class="sxs-lookup"><span data-stu-id="76545-119">**Top resellers by subscriptions sold**</span></span>
+ - <span data-ttu-id="76545-120">经销商列表，按销售的订阅数排序</span><span class="sxs-lookup"><span data-stu-id="76545-120">A list of resellers, sorted by the number of subscriptions they've sold</span></span>  
 
-**<span data-ttu-id="0aa43-120">按订阅计数的热门产品</span><span class="sxs-lookup"><span data-stu-id="0aa43-120">Top products by subscription count</span></span>**  
- - <span data-ttu-id="0aa43-121">**Dynamics 365**： 按订阅排序的售出 Dynamics 365 产品</span><span class="sxs-lookup"><span data-stu-id="0aa43-121">**Dynamics 365**: Dynamics 365 products sorted by subscriptions sold</span></span>  
- - <span data-ttu-id="0aa43-122">**EMS**： 销售的企业管理服务的订阅数</span><span class="sxs-lookup"><span data-stu-id="0aa43-122">**EMS**: Number of Enterprise Management Services subscriptions sold</span></span>  
- - <span data-ttu-id="0aa43-123">**Microsoft 365**： 销售 Microsoft 365 数量订阅</span><span class="sxs-lookup"><span data-stu-id="0aa43-123">**Microsoft 365**: Number of Microsoft 365 subscriptions sold</span></span>  
- - <span data-ttu-id="0aa43-124">**Office 365**： 按订阅排序的售出的 Office 365 产品</span><span class="sxs-lookup"><span data-stu-id="0aa43-124">**Office 365**: Office 365 products sorted by subscriptions sold</span></span>  
+<span data-ttu-id="76545-121">**热门产品的订阅计数**</span><span class="sxs-lookup"><span data-stu-id="76545-121">**Top products by subscription count**</span></span>  
+ - <span data-ttu-id="76545-122">**Dynamics 365**:销售的 Dynamics 365 产品按订阅排序</span><span class="sxs-lookup"><span data-stu-id="76545-122">**Dynamics 365**: Dynamics 365 products sorted by subscriptions sold</span></span>  
+ - <span data-ttu-id="76545-123">**EMS**:已销售的企业管理服务订阅数</span><span class="sxs-lookup"><span data-stu-id="76545-123">**EMS**: Number of Enterprise Management Services subscriptions sold</span></span>  
+ - <span data-ttu-id="76545-124">**Microsoft 365**:销售 Microsoft 365 订阅数</span><span class="sxs-lookup"><span data-stu-id="76545-124">**Microsoft 365**: Number of Microsoft 365 subscriptions sold</span></span>  
+ - <span data-ttu-id="76545-125">**Office 365**:按订阅排序的 office 365 产品销售</span><span class="sxs-lookup"><span data-stu-id="76545-125">**Office 365**: Office 365 products sorted by subscriptions sold</span></span>  
 
-**<span data-ttu-id="0aa43-125">新订阅</span><span class="sxs-lookup"><span data-stu-id="0aa43-125">New subscriptions</span></span>**  
- - <span data-ttu-id="0aa43-126">新添加的订阅数按日期</span><span class="sxs-lookup"><span data-stu-id="0aa43-126">The number of new subscriptions added by date</span></span>  
+<span data-ttu-id="76545-126">**新的订阅**</span><span class="sxs-lookup"><span data-stu-id="76545-126">**New subscriptions**</span></span>  
+ - <span data-ttu-id="76545-127">按日期列出的新添加的订阅数</span><span class="sxs-lookup"><span data-stu-id="76545-127">The number of new subscriptions added by date</span></span>  
 
-**<span data-ttu-id="0aa43-127">订阅改动</span><span class="sxs-lookup"><span data-stu-id="0aa43-127">Subscription churn</span></span>**  
- - <span data-ttu-id="0aa43-128">**新订阅**： 新添加的订阅按日期计数</span><span class="sxs-lookup"><span data-stu-id="0aa43-128">**New subscriptions**: Count of new subscriptions added by date</span></span>  
- - <span data-ttu-id="0aa43-129">**Deprovisioned 订阅**： 订阅的计数 deprovisioned 或暂停按日期</span><span class="sxs-lookup"><span data-stu-id="0aa43-129">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
+<span data-ttu-id="76545-128">**订阅变动量**</span><span class="sxs-lookup"><span data-stu-id="76545-128">**Subscription churn**</span></span>  
+ - <span data-ttu-id="76545-129">**新订阅**:添加按日期的新订阅的计数</span><span class="sxs-lookup"><span data-stu-id="76545-129">**New subscriptions**: Count of new subscriptions added by date</span></span>  
+ - <span data-ttu-id="76545-130">**取消预配订阅**:取消预配或按日期已挂起的订阅计数</span><span class="sxs-lookup"><span data-stu-id="76545-130">**Deprovisioned subscriptions**: Count of subscriptions deprovisioned or suspended by date</span></span>  
 
-**<span data-ttu-id="0aa43-130">新经销商详细信息</span><span class="sxs-lookup"><span data-stu-id="0aa43-130">New reseller details</span></span>**  
- - <span data-ttu-id="0aa43-131">**经销商名称**： 间接经销商的名称</span><span class="sxs-lookup"><span data-stu-id="0aa43-131">**Reseller name**: Names of indirect resellers</span></span>  
- - <span data-ttu-id="0aa43-132">**位置**： 间接经销商在其中运行的市场</span><span class="sxs-lookup"><span data-stu-id="0aa43-132">**Location**: Markets where the indirect resellers operate</span></span>  
- - <span data-ttu-id="0aa43-133">**订阅**： 订阅经销商已排序的售出数</span><span class="sxs-lookup"><span data-stu-id="0aa43-133">**Subscriptions**: Number of subscriptions the reseller has sold</span></span>  
- - <span data-ttu-id="0aa43-134">**许可证**： 许可证总数经销商已排序的售出跨所有订阅</span><span class="sxs-lookup"><span data-stu-id="0aa43-134">**Licenses**: Total number of licenses the reseller has sold across all subscriptions</span></span>  
+<span data-ttu-id="76545-131">**新的分销商详细信息**</span><span class="sxs-lookup"><span data-stu-id="76545-131">**New reseller details**</span></span>  
+ - <span data-ttu-id="76545-132">**分销商名称**:间接经销商的名称</span><span class="sxs-lookup"><span data-stu-id="76545-132">**Reseller name**: Names of indirect resellers</span></span>  
+ - <span data-ttu-id="76545-133">**位置**：市场其中间接经销商进行操作</span><span class="sxs-lookup"><span data-stu-id="76545-133">**Location**: Markets where the indirect resellers operate</span></span>  
+ - <span data-ttu-id="76545-134">**订阅**:分销商已销售的订阅数</span><span class="sxs-lookup"><span data-stu-id="76545-134">**Subscriptions**: Number of subscriptions the reseller has sold</span></span>  
+ - <span data-ttu-id="76545-135">**许可证**:分销商已销售的所有订阅的许可证总数</span><span class="sxs-lookup"><span data-stu-id="76545-135">**Licenses**: Total number of licenses the reseller has sold across all subscriptions</span></span>  
   
   

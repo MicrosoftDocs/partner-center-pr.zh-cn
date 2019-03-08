@@ -3,20 +3,20 @@ title: Windows 和设备能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 我们的共同目标是在 10 亿台设备上安装 Windows 10。 此商机涉及服务、应用程序和设备。 此能力会为你提供工具、内容和资源，以帮助你建立和发展有利可图的 Windows 10 业务。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 robots: noindex,nofollow
 keywords: 能力, Windows 和设备
 ms.localizationpriority: medium
-ms.openlocfilehash: 12798d8a500cde7a3fb35d806064277fd2b8c6a6
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 634aedeafc118cd661f11cb927944499feda46af
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795580"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584610"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="35aee-106">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="35aee-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="012bc-106">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="012bc-106">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

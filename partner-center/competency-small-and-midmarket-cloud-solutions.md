@@ -3,20 +3,20 @@ title: 中小型市场云解决方案能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 中小型市场云解决方案能力有助于你以专向中小型企业销售和部署 Office 365 解决方案的合作伙伴身份建立自己的品牌。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 中小型市场云解决方案
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f7533c113f1daa8a088b2d0c74402f16f661b48
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 1d273e9011871edc9f65c41ae234264a28360c42
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796850"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57583920"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="31dd2-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="31dd2-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="72038-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="72038-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 # Small and Midmarket Cloud Solutions 

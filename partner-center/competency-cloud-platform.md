@@ -3,20 +3,20 @@ title: 云平台能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 云平台能力旨在让合作伙伴利用基于 Microsoft Azure 的基础结构和软件即服务 (SaaS) 解决方案的不断增长的需求。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 云平台
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: ae31be9420e3fdc0c09e6747bd73c38a955e79d3
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 362e829a1d408d7bc63c1e776077d28442eb75c2
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795750"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586230"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="9f907-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="9f907-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="dde93-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="dde93-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Cloud Platform

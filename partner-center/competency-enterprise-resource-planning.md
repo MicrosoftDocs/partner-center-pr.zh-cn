@@ -3,20 +3,20 @@ title: 企业资源计划能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 通过证明你的组织在开发和部署 Dynamics 解决方案以满足企业资源计划需求方面的能力，成为 Microsoft 合作伙伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 企业资源计划
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f0c69dafa24a61923fbc69521cdc87a89ad87c70
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cf3150bca54770453da4dc3b56302a30f348aca7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795540"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584330"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="aaffa-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="aaffa-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="e1011-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="e1011-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Enterprise Resource Planning 

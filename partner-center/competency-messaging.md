@@ -3,20 +3,20 @@ title: 消息能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 消息能力用于认可以下合作伙伴：能够获得竞争优势、缩短销售周期，并作为合格的 Microsoft Exchange 解决方案提供商展示技能来增长业务。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 消息
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 04aa26af89dc183ce9e07b9020a50d6d4dfa87d1
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 886a12c6e9ce4783e465e8562428f01ab5f51a7e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796930"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586420"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="0aa52-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="0aa52-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="6d411-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="6d411-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 #Messaging

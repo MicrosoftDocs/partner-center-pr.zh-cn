@@ -3,20 +3,20 @@ title: 应用程序集成能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 应用程序集成能力用于认可在 Microsoft 生态系统中将独特的应用程序和解决方案整合到各种产品中的合作伙伴和开发人员。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 应用程序集成
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5acf238ddb323e7031253e5b9176b8ac6841c0ec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 988274508a65bafdf3789e71fa2bd3ad278c7065
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797310"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584060"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="aa745-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="aa745-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="e66b4-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="e66b4-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 

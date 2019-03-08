@@ -3,20 +3,20 @@ title: 项目及项目组合管理能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 项目及项目组合管理能力用于认可证明能够向客户提供企业项目管理解决方案的合作伙伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 570f1eef7840f5a4944a21c95b2302615ba68edb
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 276595d07e43cc7e12976dc9140d6726bb49d2d6
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795470"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586790"
 ---
 >[!IMPORTANT]
-><span data-ttu-id="19311-104">若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="19311-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
+><span data-ttu-id="d524e-104">若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。</span><span class="sxs-lookup"><span data-stu-id="d524e-104">To learn about requirements for attaining this competency, visit the [Microsoft Partner Network portal](https://partner.microsoft.com/membership/competencies).</span></span>
 
 <!--
 
