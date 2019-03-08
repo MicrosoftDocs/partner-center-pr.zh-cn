@@ -3,20 +3,20 @@ title: 将第三方软件添加到产品组合 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 购买适用于 Microsoft 产品的第三方软件
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 第三方产品/服务, 要购买的软件
 ms.localizationpriority: medium
-ms.openlocfilehash: 42aacee4f5d9612f3b55bd1774f9c96b71be8eda
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: fb378c5fded17bd7f8f7c35d375278097fc32098
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795760"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586810"
 ---
 # <a name="add-third-party-software-to-your-portfolio"></a>将第三方软件添加到产品组合
 
-适用范围：
+适用于：
 
 -合作伙伴中心
 
@@ -24,7 +24,7 @@ ms.locfileid: "5795760"
 
 当前，合作伙伴中心提供与 Azure、Office 365 和 Dynamics 集成的第三方产品/服务。 
 
-## <a name="connect-with-third-party-partners"></a>与第三方合作伙伴联系
+## <a name="connect-with-third-party-partners"></a>使用第三方合作伙伴连接
  
 作为云解决方案提供商合作伙伴，你将能够搜索第三方软件产品/服务。 你可以与 ISV 合作伙伴联系，并构建自己的产品目录。 ISV 合作伙伴还可以搜索要与之合作的云解决方案提供商合作伙伴。 他们可以搜索你销售的 Microsoft 产品类型并查看你的业务配置文件。 使业务配置文件保持最新，这一点很重要。 通过单击产品标识符上的“我感兴趣”按钮并填写弹出的表单，通知你感兴趣的产品的 ISV 合作伙伴。 Microsoft 会将其发送给 ISV 合作伙伴。 他们的回复保留在合作伙伴中心中。 同样，当 ISV 合作伙伴有意向与你合作时，你将通过合作伙伴中心收到通知。 尽可能在 48 小时内回复。
 
@@ -60,7 +60,7 @@ ISV 合作伙伴可以随时决定需要产品授权。 如果在 ISV 将产品�
 2. 选择**新订阅**
 3. 选择对第三方软件采用按月计费。 年度计费和试用版计费目前不适用于第三方软件。
 4. 从第三方选项卡中，选择想要购买的产品
-5. 检查要添加的订阅并输入许可证编号。 然后**提交**订单
+5. 检查要添加的订阅并输入许可证数。 然后**提交**订单
 6. 添加订阅后，通过在订阅列表中选择订阅名称来打开它。
 7. 在编辑页面上，可以更改许可证数量或者暂停订阅。
 

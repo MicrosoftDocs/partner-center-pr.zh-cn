@@ -8,18 +8,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 4eafca2c4d9273157d920197758488d399b9018d
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683746"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584170"
 ---
 # <a name="customize-the-catalog"></a>自定义目录
 
 **适用于**
 
 -  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 
 该目录列出你可向客户提供的 Microsoft 产品和加载项。 这些产品/服务按客户群（包括企业、小型企业和政府）进行分组。 为了便于访问你的组织使用最多的产品/服务或向你的销售代理展示新产品/服务，你可以将五个产品/服务固定到目录列表的顶部。

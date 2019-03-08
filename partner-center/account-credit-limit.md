@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 你成为云解决方案提供商计划中的合作伙伴后，你所在的组织会获得信用额度，便于你购买软件并销售给客户，同时等待客户付款给你。
 ms.assetid: ''
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-keywords: 信用额度，购买，限制增加信用额度
+keywords: 信用额度、 购买、 限制增加信用额度
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29ea91d24e141deb843f7ba00e438f882a092fff
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917389"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586180"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>云解决方案提供商 (CSP) 帐户信用额度
 
-**适用范围**
+**适用于**
 
 - 合作伙伴中心
 

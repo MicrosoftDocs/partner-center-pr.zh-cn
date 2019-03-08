@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796200"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587590"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -29,9 +29,9 @@ ms.locfileid: "5796200"
 
 -   [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
 
--   [创建业务档案以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
+-   [创建业务配置文件从 Microsoft 获得的销售潜在顾客](create-a-marketing-profile.md)
 
--   [从 Microsoft 获取销售线索并进行管理](responding-to-referrals.md)
+-   [获取和从 Microsoft 管理的销售潜在顾客](responding-to-referrals.md)
 
 ## <a name="before-you-begin"></a>开始之前
 
@@ -70,18 +70,18 @@ ms.locfileid: "5796200"
 
 5.  验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-    a. 在你**的合作伙伴中心**中，选择**设置**图标，然后选择**用户管理**。  
+    a. 在你**合作伙伴中心**，选择**设置**图标，然后选择**用户管理**。  
 
     b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择**管理员代理**。 选择**更新**。  
 
 ## <a name="next-steps"></a>后续步骤
 
--   [添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
+-   [添加帐户用户并向其分配权限](create-user-accounts-and-set-permissions.md)
 
--   [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
+-   [购买或续订订阅 Microsoft Action pack](mpn-get-action-pack.md)
 
--   [管理你的成员身份权益](manage-your-partner-network-benefits.md)
+-   [管理您的成员资格权益](manage-your-partner-network-benefits.md)
 
--   [了解有关金牌和银牌成员身份的能力要求](https://partner.microsoft.com/membership/competencies)
+-   [了解有关金牌和银牌成员身份的资格要求](https://partner.microsoft.com/membership/competencies)
 
--   [创建业务档案以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
+-   [创建业务配置文件从 Microsoft 获得的销售潜在顾客](create-a-marketing-profile.md)

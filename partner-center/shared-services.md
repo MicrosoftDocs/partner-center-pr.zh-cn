@@ -3,25 +3,25 @@ title: 添加 Azure 合作伙伴共享服务 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure, shared services, tenant
+Keywords: Azure, 共享服务, 租户
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 51f235cfc840ab60e90fbbce44cb239b82273ce1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917629"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586980"
 ---
 # <a name="add-azure-partner-shared-services"></a>添加 Azure 合作伙伴共享服务
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 
-Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。  该服务除了可以合并 Azure 许可和 Microsoft 经销协议之外，还可以为合作伙伴使用统一的方法购买、跟踪和管理 Azure 创造机会。 借助 Azure 合作伙伴共享服务，合作伙伴现在可以像在 Microsoft 企业协议和 Web Direct 计划中一样在云解决方案提供商计划中灵活地使用 Azure 订阅，同时也可以构建开发和测试环境、部署内部工作负载以及托管共享服务或多租户应用程序等。  
+Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。  它会创建合作伙伴购买、 跟踪和管理 Azure 的功能的补充使用统一的方法来合并他们的 Azure 授权和转售必须具有与 Microsoft 签订的协议的机会。 借助 Azure 合作伙伴共享服务，合作伙伴现在可以像在 Microsoft 企业协议和 Web Direct 计划中一样在云解决方案提供商计划中灵活地使用 Azure 订阅，同时也可以构建开发和测试环境、部署内部工作负载以及托管共享服务或多租户应用程序等。  
 
 ## <a name="create-the-shared-services-tenant"></a>创建共享服务租户
 

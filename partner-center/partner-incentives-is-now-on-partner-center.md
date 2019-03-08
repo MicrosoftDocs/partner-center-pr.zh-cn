@@ -3,15 +3,15 @@ title: 合作伙伴奖励现已登陆合作伙伴中心 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 奖励计划鼓励合作伙伴采用新的营销手段、提供培训等等
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 61138645f20a24ba7eacd17546983715a0045669
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995631"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587510"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作伙伴奖励现已登陆合作伙伴中心 
 
@@ -31,19 +31,19 @@ ms.locfileid: "8995631"
 - 间接提供商必须已签署有效的云分销商协议。
 - 直接经销商必须已签署经销商协议。
 - 如果你是间接经销商合作伙伴，则必须已加入 MPN。 间接经销商在完成首次交易后将收到参与奖励计划的邀请。 
-- 获得至少一项 Microsoft 能力。 查看当前的[Microsoft 能力](competencies.md)的列表。
+- 获得至少一项 Microsoft 能力。 请参阅当前一系列[Microsoft 能力](competencies.md)。
 
 ## <a name="one-site-one-log-on"></a>一个站点，一次登录
 
-现在，Microsoft 合作伙伴奖励计划已移动到合作伙伴中心，你将能够开展所有管理工作，包括管理用户、 执行代表客户行事、 注册认证与奖励、 报告奖励收益以及获取付款。 你的所有奖励数据都是可以在你的奖励**合作伙伴中心**。 奖励数据每天都会更新。
+现在，Microsoft 合作伙伴激励计划已移动到合作伙伴中心，你将能够执行所有管理工作包括管理用户、 执行代表客户工作、 注册证书和奖励、 报表奖励收益，并获取付款。 所有奖励数据都可供您在奖励**合作伙伴中心**。 奖励数据每天都会更新。
  
 ## <a name="set-your-users-up-in-partner-center"></a>在合作伙伴中心设置你的用户
  
-第一步是通过在合作伙伴中心设置你的奖励用户来完善你的合作伙伴中心奖励帐户。 你已收到电子邮件，内有你所在组织的奖励用户列表。 你的组织的奖励管理员完成用户设置后，你的所有奖励数据将都显示在奖励**合作伙伴中心**上。
+第一步是通过在合作伙伴中心设置你的奖励用户来完善你的合作伙伴中心奖励帐户。 你已收到电子邮件，内有你所在组织的奖励用户列表。 你的组织的奖励管理已完成用户设置，所有奖励数据将都出现在奖励**合作伙伴中心**。
 
 **另请参阅**
 
-[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)
+[创建用户帐户并设置权限](create-user-accounts-and-set-permissions.md)
 
-[更改临时密码](change-your-temporary-password.md)
+[更改临时密码，](change-your-temporary-password.md)
 

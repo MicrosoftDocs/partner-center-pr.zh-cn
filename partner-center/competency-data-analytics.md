@@ -3,20 +3,20 @@ title: 数据分析能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 如果你的组织从事数据检查业务，以帮助客户发现更加深入的见解、做出预测或提出建议，那么数据分析能力会为你提供一个平台来培养和证明你的能力。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 数据分析
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 0adaa5e091614abadf0eebccd3b46459be1a4fdf
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: e7d31e7e96fceb11a64c0653e51dcd03a4b9a389
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796220"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584220"
 ---
 >[!IMPORTANT]
->若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
+>若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 #Data Analytics

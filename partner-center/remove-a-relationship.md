@@ -3,15 +3,15 @@ title: 删除与客户的经销商关系 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 删除关系时，会从你在合作伙伴中心的视图中删除任何已达成的业务关系。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3697d32af38e0f9cd496a84d442fb05390f63101
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 02ce021614081caf088358513c4a7b5c7fe26a10
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062265"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587900"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>删除与客户的经销商关系
 
@@ -28,11 +28,11 @@ ms.locfileid: "9062265"
 *  删除你代表相应客户进行购买的能力
 
 若要删除关系，你首先需要取消 Azure RI 预订、取消软件购买，并暂停任何其余的活动订阅：
-1. 暂停任何活动订阅。 从合作伙伴中心中，转到**客户**> 选择客户 >**订阅**> 选择订阅 >**已暂停**。 
+1. 暂停任何活动订阅。 从合作伙伴中心中，转到**客户**> 选择一个客户 >**订阅**> 选择订阅 > **Suspended**。 
 
    对每个活动订阅重复此操作。
 
-2. 在合作伙伴中心内删除关系： 在合作伙伴中心中，转到**客户**> 选择客户 >**帐户** > **删除经销商关系**。
+2. 在合作伙伴中心中删除的关系：从合作伙伴中心中，转到**客户**> 选择一个客户 >**帐户** > **删除分销商关系**。
 
    请注意，如果有订阅仍处于活动状态，则**删除经销商关系**链接将处于非活动状态。 
 

@@ -3,20 +3,20 @@ title: 云工作效率能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 云工作效率能力适用于专门进行 Office 365 企业部署的合作伙伴。 针对寻求合格的云解决方案合作伙伴的客户，利用此能力使你的公司作为公认的云解决方案提供商脱颖而出。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 云工作效率
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 86a423236440dbcf25b7974c1d24ba7f0a14fa2f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: f0aabf09435dbb1f08ddd79f6fac5075860c3033
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794640"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585490"
 ---
 >[!IMPORTANT]
->若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
+>若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 # Cloud Productivity competency

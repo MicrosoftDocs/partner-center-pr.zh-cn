@@ -8,15 +8,15 @@ ms.author: evansma
 keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
 ms.localizationpriority: medium
 ms.openlocfilehash: b466785fee076966d94af78558736b99628afc3f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795040"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587880"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription"></a>首次购买或续订 Microsoft Action Pack 订阅
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 -  Partner Membership Center
@@ -39,7 +39,7 @@ Action Pack 为想要在云优先、移动优先领域中构建和发展其 Micr
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>续订 Microsoft Action Pack 订阅
 
 >[!IMPORTANT]
->从现在和日历年结束，我们会将 Action Pack 订阅管理从 Partner Membership Center (PMC) 到合作伙伴中心-此站点。 到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看以下信息。  
+>从现在到日历年末，我们要搬走了 Action Pack 订阅管理从伙伴成员身份 Center (PMC) 到合作伙伴中心-此站点。 到时续订 Action Pack 订阅可能会与现在不同，因此请仔细查看以下信息。  
 
 ### <a name="check-your-renewal-eligibility"></a>检查你的续订资格
 
@@ -49,26 +49,26 @@ Action Pack 为想要在云优先、移动优先领域中构建和发展其 Micr
 
     - 能够按照这些步骤在 PMC 中续订你的订阅，或
 
-    - 获取一条消息，邀请你在合作伙伴中心-此站点续订
+    - 收到一条消息，邀请你续订合作伙伴中心-此站点中的订阅
 
 >[!IMPORTANT]
->如果你受邀在合作伙伴中心中续订订阅，请注意，我们已经更改了续订时段策略，并且你可以仅在它过期后续订订阅。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
->你可以在[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面查找你的订阅的到期日期（需要登录）。 如果或当你有资格在合作伙伴中心中续订时，请按照以下步骤。  
+>如果你受邀续订你的订阅在合作伙伴中心，请注意，我们已将更改我们的续订窗口策略，仅在过期后，可以续订你的订阅。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
+>你可以在[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面查找你的订阅的到期日期（需要登录）。 如果或当你有资格续订在合作伙伴中心时，请执行以下步骤。  
 
 
 
-### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>若要续订 Microsoft Action Pack 订阅的合作伙伴中心
+### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>若要续订 Microsoft Action Pack 订阅在合作伙伴中心
 
-1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 找到**Microsoft Action Pack 订阅**磁贴。  
+1. 转到你的[**成员产品/服务**](https://partnercenter.microsoft.com/pcv/partnership/offers)页面，然后选择**已购买**。 找到 **Microsoft Action Pack 订阅**磁贴。  
 
 2. 选择**续订订阅**，然后选择你的付款方式。 你可以使用信用卡或通过电子银行转账进行支付。
 
     >[!NOTE]
     >如果**续订订阅**未显示或者灰显，则表明你还没有资格续订 Action Pack 订阅。 我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。  
 
-3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 如果通过电子银行转账进行支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。 
+3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 如果通过电子银行转账支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择**提交**。 
      
-4. 查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**购买**。 你的信用卡将被立即收费。
+4. 查看你的订单详细信息，然后在你准备购买 Action Pack 时选择**确认购买**。 你的信用卡将被立即收费。
 
 5. 然后订单获得确认。 选择**关闭**。
 
@@ -113,11 +113,11 @@ Action Pack 为想要在云优先、移动优先领域中构建和发展其 Micr
 
 -   [开始使用 Action Pack 权益](manage-your-partner-network-benefits.md)
 
--   [了解银牌和金牌能力成员身份级别](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
+-   [了解银牌和金牌 competency 成员资格级别](https://partner.microsoft.com/membership/internal-use-software#simple-tab-content-2)
 
--   [添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
+-   [添加用户并向其分配权限](create-user-accounts-and-set-permissions.md)
 
--   [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
+-   [创建业务配置文件从 Microsoft 获得的销售潜在顾客](create-a-marketing-profile.md)
 
 
 

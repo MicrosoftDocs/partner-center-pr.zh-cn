@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 为客户设置 Microsoft 服务订阅时，你可能想要为指定的经销商分配这些产品的技术支持，而不是由你本人来提供支持。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89b5d6bc493e1de970425bb35bbabb90cc963510
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 5dbfe3ef49840983b037a6716fad0674e28df4e9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062345"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584390"
 ---
 # <a name="assign-support-contacts"></a>分配支持联系人
 
@@ -37,7 +37,7 @@ ms.locfileid: "9062345"
 
 3.  在**指定支持联系人**中，选择指定的产品经销商，然后单击**提交**。 
 
-    备注： 
+    注意： 
     
     *  对于新订阅，指定的支持联系人默认为间接提供商。 你也可以将此提供商更改为具有委派管理员权限的间接经销商。
     
@@ -47,4 +47,4 @@ ms.locfileid: "9062345"
 
 ## <a name="related-topics"></a>相关主题
 
-[删除与经销商或客户的关系](remove-a-relationship.md)
+[与一位客户删除关系](remove-a-relationship.md)

@@ -8,18 +8,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 5ba40901453620d98fad2195fad3bb8f6dd4773c
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683656"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587040"
 ---
 # <a name="update-customer-account-info"></a>更新客户帐户信息
 
 **适用于**
 
 -  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 
 在合作伙伴中心中，你可以更新客户的计费信息和其他公司详细信息。

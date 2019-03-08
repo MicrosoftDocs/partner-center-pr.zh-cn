@@ -1,22 +1,22 @@
 ---
-title: 销售的云解决方案提供商的 Office 365 政府 GCC |合作伙伴中心
+title: 出售适用于云解决方案提供商的 Office 365 政府版 GCC | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以销售 Office 365 政府 GCC 云解决方案提供商订阅向合格的客户。 Office 365 云解决方案提供商的政府 GCC 是一套适用于美国政府和政府承包商云工作效率服务。
+description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅。 Office 365 政府版用于 CSP 的 gcc 高级版是一套适用于美国政府和政府承包商的云生产力服务。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: f604fc898646ae18e081f4d13443d7835ebce28e
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917659"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586090"
 ---
-# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售云解决方案提供商订阅的 Office 365 政府 GCC
+# <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 -  云解决方案提供商合作伙伴
@@ -24,24 +24,24 @@ ms.locfileid: "8917659"
 
 ## <a name="overview"></a>概述
 
-云解决方案提供商计划 (CSP) 中的 Microsoft 合作伙伴可以向合格的客户销售[Office 365 政府 GCC 的云解决方案提供商](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)订阅。 有关云解决方案提供商的 office 365 政府 GCC 专为我们政府机构的特有需求而设计提供所有的特性和功能，使组织能够满足美国政府分段的政府云社区中的 Office 365 服务的合规性和安全性标准。 
+云解决方案提供商 (CSP) 计划中的 Microsoft 合作伙伴可以向合格的客户销售[适用于云解决方案提供商的 Office 365 政府版 GCC](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) 订阅。 适用于云解决方案提供商的 Office 365 政府版 GCC 旨在满足美国政府组织的独特需求，并在划分的政府云社区中提供 Office 365 服务的所有功能和特性，使组织能够满足美国政府的合规性和安全标准。 
 
 >[!IMPORTANT] 
->你可以销售 Office 365 政府 GCC 云解决方案提供商订阅之前，你的公司必须经过批准才能向合格的客户进行销售。 而且，客户可以购买和使用的云解决方案提供商订阅的 Office 365 政府 GCC 之前，他们必须满足的资格要求。 请参阅[合作伙伴和客户的资格标准](csp-gcc-validate.md)的重要信息。
+>在销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅之前，你的公司必须获得批准才能向合格的客户进行销售。 并且，在客户购买和使用适用于云解决方案提供商的 Office 365 政府版 GCC 订阅之前，他们必须满足资格要求。 有关重要信息，请参阅[合作伙伴和客户资格标准](csp-gcc-validate.md)。
 
 
-## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>Office 365 政府 GCC 销售云解决方案提供商订阅
+## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>出售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
-你的公司已获得批准销售后提供了有关云解决方案提供商的 Office 365 政府 GCC，你可以开始使用合作伙伴中心的客户销售。 请参阅这些资源，了解如何使用合作伙伴中心销售订阅： 
+已批准你的公司销售后提供用于 CSP 的 Office 365 政府版 GCC 时，可以开始向客户使用合作伙伴中心销售。 请参阅这些资源来了解如何使用合作伙伴中心销售订阅： 
 
--   对于销售 Office 365 政府 GCC 云解决方案提供商订阅的分步指南，请转到[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。  
+-   有关销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅的分步指南，请转到[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。  
 
--   常见问题的解答，转到[此处](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx)
+-   有关常见问题的解答，请转到[此处](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx)
 
 
 ## <a name="additional-resources"></a>其他资源
 
-[合作伙伴机会在美国政府](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)Microsoft 365 的合作伙伴网站上访问信息。
+请访问合作伙伴站点上 Microsoft 365 中有关[美国政府中的合作伙伴机会](https://www.microsoft.com/microsoft-365/partners/governmentforCSP)的信息。
 
 产品资源：
 

@@ -8,21 +8,21 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995601"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587080"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
 **适用于**
 
 -  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 
-合作伙伴中心的多渠道功能支持客户想要聘请一个合作伙伴来管理和支持他们在其他地方购买的订阅的方案。 多渠道支持适用于处于以下情形中的客户：
+合作伙伴中心的多渠道功能支持的方案时客户想要委托管理和支持它们在其他地方购买的订阅的合作伙伴。 多渠道支持适用于处于以下情形中的客户：
 
 -   已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。
 
@@ -42,7 +42,7 @@ ms.locfileid: "8995601"
 <tr class="even">
 <td><p><strong>基于使用情况的服务</strong></p></td>
 <td>
-<p>为已订阅 Microsoft Azure 的通过其他渠道，例如，顾问、 公开或 EA、 你和 #39; 的客户将需要在合作伙伴中心中创建新的 Azure 订阅手动输入订阅详细信息，，然后取消个别服务或整个订阅。</p>
+<p>客户已拥有订阅到 Microsoft Azure 可从另一个通道，如顾问、 打开、 或 EA，则&#39;ll 需要在合作伙伴中心中创建新的 Azure 订阅手动输入订阅的详细信息，然后取消对单个服务或整个订阅。</p>
 <p>对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。 有关详细信息，请参阅<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">将 Azure 订阅切换到不同的合作伙伴</a>。</p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ ms.locfileid: "8995601"
 </table>
 
 > [!IMPORTANT]  
-> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道，包括在合作伙伴中心进行都公布。 
+> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 将通过常用的通信渠道，其中包括合作伙伴中心公布任何关于功能发布的公告。 
 
 ## <a name="see-also"></a>另请参阅
 

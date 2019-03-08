@@ -2,23 +2,23 @@
 title: 工作帐户与合作伙伴中心 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。 如果你具有有效的 Microsoft Azure 或 Office 365 订阅，你已经拥有工作帐户。
-author: labrenne
+description: 如果要创建合作伙伴中心帐户，你的公司必须具有工作帐户。 如果你有 Microsoft Azure 或 Office 365 的有效订阅，你已有工作帐户。
+author: LauraBrenner
 ms.author: labrenne
-Keywords: work account, email, tenant, Azure tenant, create account, domain name
+Keywords: 工作帐户、 电子邮件、 租户、 Azure 租户中，创建帐户，域用户名
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 529d6f3930c74e75043c87f13b21aa69461c26ad
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: ef953d161fe15d8a950bdbbe70bac72ac9318ec3
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917519"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584680"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>你的公司工作帐户与合作伙伴中心  
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 
@@ -29,7 +29,7 @@ ms.locfileid: "8917519"
 如果你的公司已经拥有工作帐户，你可以将其链接到你的合作伙伴中心帐户。 
 
 > [!NOTE]  
->  你决定使用现有的工作帐户之前，请考虑在帐户中的用户数将需要在合作伙伴中心中工作。 如果用户不需要使用合作伙伴中心帐户中有用户，请考虑创建新的人员将需要在合作伙伴中心中工作的用户帐户。
+>  您决定使用现有工作帐户之前，请考虑有关多少用户帐户中将需要在合作伙伴中心中正常工作。 如果不需要在合作伙伴中心中的帐户中的用户，请考虑创建新的帐户仅需要在合作伙伴中心中工作的用户。
 
 如果你的公司还没有工作帐户，则可以在注册过程中创建一个。 
 

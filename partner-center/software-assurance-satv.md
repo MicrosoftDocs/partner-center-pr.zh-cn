@@ -2,83 +2,83 @@
 title: 在合作伙伴中心中的软件保障培训凭证 (SATV) 程序 |合作伙伴中心
 ms.topic: article
 ms.date: 01/16/19
-description: 在软件保障培训计划中注册
-author: labrenne
+description: 在软件保障培训计划中进行注册
+author: LauraBrenner
 ms.author: labrenne
-keywords: 培训凭证，软件保障，培训、 注册 SATV，SATV
+keywords: 培训凭证，软件保障，培训、 参加 SATV，SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 305ee8fad4de9f9928dd07ee49dd4f4703d0bcc1
-ms.sourcegitcommit: b62cbe79eaa01ccb55a8a2f7875eba1640a186dd
+ms.openlocfilehash: c5da9989403ca2c984d73224709d14198f657a9e
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "9043584"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584260"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心中的软件保障培训凭证 (SATV) 计划
 
-通过软件保障合作伙伴计划中注册，从而发展你的业务。 Microsoft 进行补偿合作伙伴向具有软件保障的企业客户提供培训、 计划和其他服务。 
+业务增长的软件保障合作伙伴计划注册。 Microsoft 针对为拥有软件保障的企业客户提供培训、 规划、 和其他服务进行补偿合作伙伴。 
 
-作为已批准的软件保障培训合作伙伴，Microsoft 进行补偿你提供技术培训凭证回到带软件保障交换的企业客户。 参与此计划可以帮助你吸引更多客户并成为其受信任的学习合作伙伴。
+作为已批准的软件保障培训合作伙伴，Microsoft 补偿您以具有软件保障获得的凭证交换的企业客户提供的技术培训。 参与此计划可以帮助你吸引更多的客户并成为其受信任的学习合作伙伴。
 
-如果你不熟悉软件保障培训服务，请参阅[软件保障培训凭证](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
+如果您不熟悉软件保障培训服务，请参阅[软件保障培训凭证 ](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/default.aspx)
 
-## <a name="get-started"></a>立即开始
+## <a name="get-started"></a>立即开始行动
 
-如果你不熟悉软件保障培训服务，请按照下面的所有步骤。 如果你已在培训凭证程序中，活动和合作伙伴帐户信息已移到合作伙伴中心，从步骤四 （4） 下面开始。 
+如果您是初次接触软件保障培训服务，请按照以下所有步骤。 如果您已经培训凭证程序中处于活动状态，并且你的合作伙伴帐户信息已移到合作伙伴中心，从步骤四 （4） 下面开始。 
 
-1. 确认计划资格
-2. 注册培训计划
+1. 确认计划的资格
+2. 参加培训计划
 3. 更新合作伙伴目录中的公司配置文件
 4. 保留客户凭证
-5. 确定课程并将添加与会者
+5. 标识课程并添加与会者
 6. 兑换凭证
 7. 请求付款
 
-本文介绍了如何完成每个步骤。
+此文章介绍了如何完成每个步骤。
 
-## <a name="confirm-program-eligibility"></a>确认计划资格
+## <a name="confirm-program-eligibility"></a>确认计划的资格
 
-你可以注册 SATV 计划之前，必须首先完成 Microsoft 合作伙伴网络学习选项，可替代 Microsoft 学习能力的要求。 了解如何开始[学习选项。](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)
+你可以注册 SATV 计划之前，必须先完成 Microsoft 合作伙伴网络学习选项时，它将替换 Microsoft Learning 资格要求。 了解如何开始[学习选项。](https://partner.microsoft.com/en-US/marketing/details/learning-option-enrollment#/)
 
-你还需要满足以下要求：
+此外需要满足以下要求：
 
-- 同意接受电子培训凭证以[预先确定的价格](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)。
+- 同意接受位于电子培训凭证[预先确定的价格](https://partner.microsoft.com/en-US/membership/satv-voucher-pricing)。
 
-- 查看[Microsoft SATV 计划协议](https://aka.ms/satv_legal_agreement)并同意的条款和条件。 将在注册过程中签署。 
+- 审阅[Microsoft SATV 计划协议](https://aka.ms/satv_legal_agreement)并同意条款和条件。 将对此签名在注册过程。 
 
-- 确保符合所有当前学习选项和 SATV 计划协议条款和条件时的程序活动成员 (包括但不是限于： 客户满意度保证、 Kpi 和购买要求的数字控制模式)，和 SATV程序[策略](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)。
+- 确保符合所有当前学习选项和 SATV 计划协议条款和条件时该程序的活动成员 (包括但不是限于： 客户满意度保证、 Kpi 和购买要求的数字 MOC)，和 SATV程序[策略](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ProgramPolicies.aspx)。
 
-- 无法提供[软件保障培训权益产品目录](https://aka.ms/SATV_catalog)中的所有 SATV 资格课程时没有足够的需求 （将在步骤 3 查看此。 [确认 SATV 课程资格](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx)）。
+- 能够提供中的所有 SATV 资格课程[软件保障培训权益产品目录](https://aka.ms/SATV_catalog)，当没有足够的需求 （将在步骤 3 查看此。 [确认 SATV 课程资格](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/ConfirmEligibility.aspx))。
 
-## <a name="enroll-in-the-training-program"></a>注册培训计划
+## <a name="enroll-in-the-training-program"></a>参加培训计划
 
-贵公司满足规划的服务计划的资格要求和计划参与者已通过合规性培训课程之后，便准备好进行注册。 若要注册的最后步骤是完成 SATV 合规性培训要求并签署程序协议。  
+你的公司符合规划的服务计划的资格要求，并且计划参与者已通过符合性培训课程后，即可注册。 若要注册的最终步骤是完成 SATV 法规遵从性培训要求和签署程序协议。  
 
-## <a name="complete-the-satv-compliance-training"></a>完成 SATV 合规性培训
+## <a name="complete-the-satv-compliance-training"></a>完成 SATV 合规性训练
 
-至少一个培训师从你的公司必须已完成合作伙伴大学中的联机 SATV 合规性培训课程。
+至少一个培训师，从你的公司必须完成合作伙伴院校在线 SATV 法规遵从性培训课程。
  
-1. 如果尚未不执行此操作，将关联到你的 Microsoft 帐户你的 MPN ID。 阅读如何[将你的 MPN ID 相关联](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf))。
+1. 如果尚未这样做，将关联到你的 Microsoft 帐户提供 MPN ID。 如何读取到[将你的 MPN ID 相关联](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/How to Associate to Your MPN ID 2015 Regular.pdf))。
 
-2. 按照第一次访问[合作伙伴大学](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf)的说明。
+2. 按照说明[访问合作伙伴大学](https://trainingbenefits.partners.extranet.microsoft.com/en/SATBDocuments/Partner_University_on-boarding.pdf)第一次。
 
-3. 导航到[SATV 合规性培训课程](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14461&scoId=dXsXmk7lB_2704778676)合作伙伴大学中的 （如果无法访问此链接，请确保你具有准确地完成步骤 1 和 2）。  
+3. 导航到[SATV 法规遵从性培训课程](https://partneruniversity.microsoft.com/?whr=uri:MicrosoftAccount&courseId=14461&scoId=dXsXmk7lB_2704778676)合作伙伴院校 （如果无法访问此链接，请确保你准确地完成步骤 1 和 2）。  
 
-## <a name="sign-the-agreement"></a>签署协议
+## <a name="sign-the-agreement"></a>签署该项协议
 
-阅读、 理解和签署的[软件保障培训凭证计划协议](https://partners.microsoft.com/partnerprogram/Satv.aspx)，概述了程序策略和合作伙伴责任。 贵公司的全局管理员可以签署协议后完成 SATV 合规性培训要求 24 小时。
+阅读、 理解和登录[软件保障培训凭证计划协议](https://partners.microsoft.com/partnerprogram/Satv.aspx)，其中概述了编程策略文件和合作伙伴的职责。 贵公司的全局管理员可以在 24 小时后完成的 SATV 符合性培训要求签署该项协议。
 
-需要为我们的系统以反映，你正在主动在计划中注册 SATV 最多 24 小时。 
+它采用 24 小时我们以反映，您正在主动注册 SATV 程序中的系统。 
 
 ## <a name="reserve-and-redeem-training-vouchers"></a>保留和兑换培训凭证
 
-现在，你已能够保留和兑换凭证并开始培训你的客户。 贵公司的 MPN 管理员有权访问凭证验证和兑换工具 (VVR) 在合作伙伴中心中，并且可以添加用户需要在工具。 有关 VVR 的详细信息，请阅读[凭证验证和兑换工具中的管理凭证](voucher-validation-tool.md)。
+现可保留和兑换凭证并开始培训您的客户。 贵公司的 MPN 管理员有权访问凭证验证和兑换工具 (VVR) 在合作伙伴中心，并可以添加需要使用该工具的用户。 VVR 的详细信息，请阅读[管理凭证验证和兑换工具中的凭证](voucher-validation-tool.md)。
 
 >[!Note]
->VVR 工具已迁移到合作伙伴中心。 从 3 月 2019年起将停用旧 VVR 工具网站。
+>VVR 工具已移到合作伙伴中心。 截至年 3 月 2019年将停用旧 VVR 工具站点。
 
 ## <a name="request-payment-from-microsoft"></a>从 Microsoft 请求付款
 
-通过软件保障凭证权益 (SAVB) 在线付款工具处理付款。  了解如何[提交到 Microsoft 通过 SAVB 发票](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx)。
+通过软件保障凭证权益 (SAVB) 在线支付工具处理付款。  了解如何[提交给 Microsoft 通过 SAVB 发票](https://trainingbenefits.partners.extranet.microsoft.com/en/SATV/Pages/GetPaid.aspx)。
 
-请阅读[常见问题](vvr-faq.md)的其他信息。
+读取的其他信息[常见问题解答](vvr-faq.md)。

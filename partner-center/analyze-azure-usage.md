@@ -1,7 +1,7 @@
 ---
-title: 分析 Azure 使用情况 |合作伙伴中心
+title: 分析 Azure 使用情况 | 合作伙伴中心
 ms.date: 07/12/2018
-Description: Use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: 使用合作伙伴中心以获取有关客户的 Azure 订阅的使用情况数据。
 Author: Xansky
 ms.author: mhopkins
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -9,43 +9,43 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a1311cb163d5e7f12e7649b56e74e240f0caca1
-ms.sourcegitcommit: 777225c8bf16e4a8811a9d88aceb45fcba1cd959
+ms.openlocfilehash: 8cfb26dd5658648cb0859f557984d47a51125076
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2018
-ms.locfileid: "8917409"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586260"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>获取客户的 Azure 订阅使用情况数据 
 
-**适用范围**
+**适用于**
 - 合作伙伴中心
 
-数据推动业务决策。 使用在**Azure 使用情况**的页面中的指标来确定你的成功和需要更多关注的区域。 在计划新业务目标时使用此信息。
+数据推动业务决策。 使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
 > [!NOTE]
-> Azure 使用情况分析是仅适用于云解决方案提供商计划中的合作伙伴。
+> Azure 使用情况分析仅适用于云解决方案提供商计划中的合作伙伴。
 
 我们跟踪下列指标：
 
 **摘要**  
- - **销售的总 Azure 订阅**： 在指定的时间段内销售的订阅数  
- - **使用情况的客户**： 在指定的时间段内的 Azure 使用情况的客户的数量  
- - **无需使用情况的客户**： 而无需在指定的时间段内的 Azure 使用情况的客户数量  
+ - **Azure 订阅总数销售**:在指定的时间段内已销售的订阅数  
+ - **客户使用情况**:使用指定的时间段内的 Azure 使用情况的客户数量  
+ - **没有使用情况的客户**:没有在指定的时间段内的 Azure 使用情况的客户的数目  
 
-**类别中的前 5 客户**  
- -  客户指定类别的前 5  
+**前 5 个类别中的客户**  
+ -  指定类别的前 5 位客户  
 
-**无需使用情况的订阅**  
- -  Sepcific 订阅而无需使用 Azure 中指定的时间段的列表  
+**订阅而无需使用情况**  
+ -  指定时间段内未使用过 Azure 的特定订阅的列表  
 
-**Azure 订阅改动**  
- - **活动订阅**： 按日期的活动订阅计数  
- - **Deprovisioned 订阅**： 订阅的计数 deprovisioned 或暂停按日期  
+**Azure 订阅变动量**  
+ - **活动订阅**:按日期的活动订阅的计数  
+ - **取消预配订阅**:取消预配或按日期已挂起的订阅计数  
 
 **客户计数**
- - 在指定的时间段内获取新客户  
+ - 指定时间段内获取的新客户数  
 
-**Azure 订阅保留**  
- - 已更新的订阅数。   
+**Azure 订阅保留期**  
+ - 续订的订阅数量。   
   

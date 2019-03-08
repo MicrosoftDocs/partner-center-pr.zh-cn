@@ -10,18 +10,18 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 8a4915f8ae0ad0d0b72f0e8b50f803fb8f84c17e
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995901"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584380"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
 **适用于**
 
 -  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "8995901"
 #### <a name="post-purchase-customer-account-management"></a>购买后客户帐户管理
 - 与客户沟通，在了解他们的云使用业务需求的同时，设置适当的监测阈值
     > [!NOTE]  
-    >  你可以在合作伙伴中心，以在月份期间监视客户使用情况和客户接近预算时通知中[设置每月的 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)。
+    >  你可以[设置每月 Azure 支出预算](set-an-azure-spending-budget-for-your-customers.md)在合作伙伴中心在该月期间监视客户的使用情况和客户即将其预算时收到通知。
 - 定期监测[客户活动日志](activity-logs.md)以帮助及早检测出欺诈行为
 - 在检测到可疑活动时快速采取行动
 - 在授予客户对订阅的完全管理访问权限之前，请务必先进行风险缓解控制
@@ -81,7 +81,7 @@ ms.locfileid: "8995901"
 有关可以降低在线风险的更多详细策略，请参阅[在线交易风险管理指南](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)。
 
 > [!IMPORTANT]  
-> 如果 Microsoft 检测到我们确认或怀疑违反可接受的使用策略的合作伙伴或客户活动，我们将采取强制措施。 客户的使用权限可能会立即被暂停，并且 Microsoft 将通知你强制执行措施或应你请求告知你最新进展。
+> 如果 Microsoft 检测到我们确认或怀疑违反可接受的使用策略的合作伙伴或客户活动，我们将采取强制措施。 客户可能会立即遭暂停，并且 Microsoft 将通知你强制执行措施或根据你的请求告知最新消息。
 
  
 

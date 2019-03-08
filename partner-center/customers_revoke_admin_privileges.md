@@ -2,21 +2,21 @@
 title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
 ms.topic: article
 ms.date: 12/18/2018
-description: 作为经销商合作伙伴，你的客户可以委派你其管理员。它们还可以删除该权限。
-author: labrenne
+description: 作为分销商合作伙伴，你的客户可以委派你是其管理员。它们还可以删除权限。
+author: LauraBrenner
 ms.author: labrenne
-keywords: 委派的管理员权限，代表管理员，删除权限，DAP，AOBO
+keywords: 委派的管理员权限，管理员代表的删除特权，DAP，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 92b23c15285db651abab326c18f5b25feaffdb6c
-ms.sourcegitcommit: 90d656ed3a4d056a0506f7b5e2b1b8c728f58c46
+ms.openlocfilehash: 9253bcca2d93d9f0d62d6d7241132f0c0c9bf5ec
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "8976814"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586150"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 
@@ -37,22 +37,22 @@ ms.locfileid: "8976814"
 
 5.  客户接受你的邀请后，他们将出现在你的**客户**页面上，并且你将能够在此处为客户预配和管理服务。
 
-6.  若要管理客户的帐户、 服务、 用户和许可证，选择客户名称旁边的向下箭头展开客户的记录，然后选择你想要管理的服务的管理门户。
+6.  若要管理客户的帐户、 服务、 用户和许可证，选择其名称旁边的向下箭头，展开客户的记录，然后选择管理门户中你想要管理的服务。
 
 >[!IMPORTANT]  
->客户可以重新分配或服务的管理员门户中删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在此情况下，如果客户需要帮助，请联系 Microsoft 支持以打开代表客户服务请求。
+>客户可以重新分配或删除服务的管理门户中的管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在此情况下，如果客户需要帮助，请联系 Microsoft 支持部门提出服务请求代表客户。
 
-你的客户可以查找哪些合作伙伴具有在 Office 365 管理门户中从其租户的管理员权限。 若要实现此目的，请执行以下操作：
+你的客户可以找出哪些合作伙伴具有到 Office 365 管理门户中从其租户的管理员权限。 要实现此目的，请执行以下操作：
 
-1. 客户需要登录到 Office 365 管理门户作为全局管理员。
+1. 客户需要在登录到 Office 365 管理门户为全局管理员。
 
 2. 选择**设置** → **合作伙伴关系**。
 
-3. 在**合作伙伴关系**页面中，客户将看到合作伙伴与其它们的工作，并且这些已被授予其租户的委派管理权限的列表。
+3. 上**合作伙伴关系**页上，客户将看到使用其合作伙伴的列表，并且那些已被授予委派给其租户管理权限。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客户可以管理合作伙伴的委派管理员权限 
 
-客户可能决定从其租户删除你委派的管理员权限，但保留与你的订阅和许可续订目的的关系。 客户在 Office 365 管理中心的**合作伙伴关系**页面管理其 Office 365 帐户的权限。 在此页上，客户可以：
+客户可能会决定从其租户中删除你的委派的管理员特权，但保留与你的订阅和许可证续订的关系。 客户在 Office 365 管理中心的**合作伙伴关系**页面管理其 Office 365 帐户的权限。 在此页上，客户可以：
 
 - 查看他们已建立关系的合作伙伴以及哪些合作伙伴具有委派管理员权限
 
@@ -93,19 +93,19 @@ ms.locfileid: "8976814"
 
 <!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
-从合作伙伴中心，云解决方案提供商合作伙伴可以为没有委派的管理员权限在这些情况下客户管理 Autopilot 配置文件： 
+在合作伙伴中心，CSP 合作伙伴可以管理 Autopilot 配置文件，供其客户无需在这些情况下委派的管理员权限： 
 
-- 如果客户删除委派的管理权限，但保留与你建立经销商关系，你可以继续为他们管理 Autopilot 配置文件。
+- 如果客户删除委派的管理权限，但会保留与你的经销商关系，您可以继续管理他们的 Autopilot 配置文件。
 
-- 你可以管理你或其他合作伙伴已添加的客户设备。 
+- 你可以管理您或另一个合作伙伴已添加的客户设备。 
 
-- 你不能管理通过适用于企业的 Microsoft Store、 适用于教育的 Microsoft 应用商店或 Microsoft Intune 门户添加了你的客户的设备。
+- 不能管理通过 Microsoft Store for Business、 教育版的 Microsoft Store 或 Microsoft Intune 门户添加了您的客户的设备。
 
-有关 Autopilot 的详细信息，请参阅[利用 Windows Autopilot 简化设备设置](https://docs.microsoft.com/partner-center/autopilot)。
+Autopilot 有关详细信息，请参阅[简化与 Windows Autopilot 设备设置](https://docs.microsoft.com/partner-center/autopilot)。
 
 >[!IMPORTANT]  
->合作伙伴中心中的当前 Autopilot 管理体验可能会继续更改。 在本文发表时，正在考虑了以下更改：
+>合作伙伴中心中的当前 Autopilot 管理体验可能会继续将更改。 在本文发布时，被视为以下更改：
 
 - 合作伙伴必须被客户授予委派管理权限，才能够从客户租户的任何设备添加/更新/删除配置文件和应用/删除配置文件。
 
-- 合作伙伴必须被授予委派的管理权限客户之前，合作伙伴可以删除添加由其他合作伙伴或客户租户中的客户的设备。 否则，合作伙伴可以删除自己之前添加的同一个合作伙伴的设备。
+- 合作伙伴之前，必须授予委派的管理权限由客户合作伙伴可以添加其他合作伙伴或客户租户中的客户的设备中删除。 否则，合作伙伴可以删除以前添加的同一个合作伙伴的设备。

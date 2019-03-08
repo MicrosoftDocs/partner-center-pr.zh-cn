@@ -1,42 +1,42 @@
 ---
-title: 奖励合作声明 |合作伙伴中心
+title: 奖励 co-op 声明 |合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 无需具有你计划的活动首先查看提交你的奖励声明。
-author: labrenne
+description: 直接提交你的奖励申请，不必先通过活动计划审查。
+author: LauraBrenner
 ms.author: labrenne
-keywords: 奖励声明，合作声明，合作资金
+keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a77d4655a938d1c95503629b093bb44ae5681f
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: bb750b740280d7ee66132b999c1cc24707cd2885
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797150"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584180"
 ---
-# <a name="incentives-co-op-claims-overview"></a>奖励合作声明概述
+# <a name="incentives-co-op-claims-overview"></a>奖励合作申请概述
 
-**适用范围**
+**适用于**
 
 - 合作伙伴中心
 
-参加的合作伙伴奖励联合营销资金 （合作） 计划时你声明为已完成的活动的所获资金的补偿支持 Microsoft 产品感知。 你提交声明直接从合作伙伴中心。 你不再需要提交声明之前由 Microsoft 审查你活动计划。 提交声明和当天最晚在声明期间截止时间前即用法期结束后 45 天内所需的文档。 
+参与合作伙伴奖励合作营销资金（合作）计划时，你可以针对已完成的支持 Microsoft 产品感知的活动请求获得所赚取的资金补偿。 提交直接从合作伙伴中心的声明。 在提交申请之前，不再需要让 Microsoft 审查你的活动计划。 请在申请期截止日期（使用期结束后 45 天）之前提交你的申请和所需文档。 
 
-成功声明包括：
+若要成功申请，需要提供以下资料：
 
-- 演示已满足的活动的核心要求的文档
-- 你使用的第三方供应商的发票
-- 认证帐单和报告 (Csr) 完成任何内部工作
-- 相应的文档 （执行概念证明） 来证明你完成这些活动 
+- 用于证明你已满足活动基本要求的文档
+- 与你合作的第三方供应商提供的发票
+- 任何完成的内部工作的认证声明和报告 (CSR)
+- 用于证明你已完成活动的相应文档（执行证明） 
 
 >[!NOTE]
->Microsoft 保留请求原始证明执行 （波） 文档的权利。 从活动日期 24 个月内保留所有原始文档。 
+>Microsoft 保留索取原始执行证明 (POE) 文档的权利。 从活动日期起所有原始文档均保留 24 个月。 
 
-|**为此**   |**请阅读以下内容**   |
+|**若要执行此操作**   |**阅读此内容**   |
 |-----------------|:--------------------------------------|
-|提交声明，并且包含了正确的文档|[创建和管理的奖励计划活动声明](create-incentives-claims.md)|
-|后 sumitted 声明，管理其他 documetation 请求|[创建和管理的奖励计划活动声明](create-incentives-claims.md)  |
-|请确保你知道的活动声明的核心要求|[了解奖励声明核心要求](core-requirements.md)   |
-|了解完整的奖励计划的详细信息|[合作伙伴奖励合作手册](https://assets.microsoft.com/coop-guidebook.pdf)
+|提交申请并随附正确的文档|[创建和管理的奖励计划活动声明](create-incentives-claims.md)|
+|提交申请后，管理其他文档请求|[创建和管理的奖励计划活动声明](create-incentives-claims.md)  |
+|确保了解活动申请的基本要求|[知道奖励声明核心要求](core-requirements.md)   |
+|了解完整的奖励计划详细信息|[合作伙伴奖励 Co-op 指南](https://assets.microsoft.com/coop-guidebook.pdf)
                                                                                  
                                    

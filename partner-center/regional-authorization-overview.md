@@ -1,45 +1,45 @@
 ---
-title: 云解决方案提供商全球市场 |合作伙伴中心
+title: CSP 全球市场 |合作伙伴中心
 ms.topic: article
 ms.date: 11/03/2018
-description: 请参阅的国家和地区，你可以在其中销售云解决方案提供商产品/服务，基于贵公司的位置。
+description: 请参阅的国家/地区和区域可以在其中销售 CSP 产品/服务，根据你公司的位置。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: 云解决方案提供商市场，国家/地区，其中 i 通过可以销售云解决方案提供商，云解决方案提供商产品/服务，地区，销售云解决方案，全局云解决方案提供商
+keywords: CSP 市场，区域，其中可以 i 销售通过 CSP，CSP 产品、 区域，销售云解决方案，全球 CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 081ce3c20dfd0572f267a2483eaf7fed5babc05c
-ms.sourcegitcommit: 004edfd8633620e6b0e0558d818e0dbf32be9e88
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "9065604"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588070"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划区域市场和货币
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商程序区域市场和货币
 
-贵公司的位置确定你的市场。 你的市场包括地区和/或国家/地区，你可以销售云解决方案提供商产品/服务。
+你公司的位置确定您的市场。 您的市场包括区域和/或可在其中销售 CSP 产品/服务的国家/地区。
 
-例如，如果你的公司位于美国境内，你可以向客户在美国和美国美属外岛销售云解决方案提供商产品/服务。 如果你的公司位于巴西，你可以向仅在巴西的客户销售云解决方案提供商产品/服务。 如果你的公司位于非洲地区，你可以向所有 18 国家/地区中非洲地区的客户销售云解决方案提供商产品/服务。
+例如，如果你的公司在美国，您可以 CSP 产品/服务向客户销售在美国和在美国美属外岛。 如果在巴西位于你的公司，则您可以向仅在巴西客户销售 CSP 产品/服务。 如果在非洲地区中位于你的公司，则您可以向所有 18 个国家/地区在非洲地区客户销售 CSP 产品/服务。
 
-你可以订购代表客户的云解决方案提供商产品/服务之前，客户必须登录 Microsoft 云协议。 你可以找到适用的 Microsoft 云协议的地区/国家/地区[下面](agreements.md)。
+您可以订购 CSP 提供代表客户之前，客户必须登录 Microsoft 云协议。 区域/国家/地区中可以找到适用的 Microsoft 云协议[此处](agreements.md)。
 
 >[!IMPORTANT]
-> 从 2018 年 11 月 7 日，你将需要确认客户已接受的 Microsoft 云协议通过提供有关登录的人员的信息。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)。
+> 开始于 2018 年 11 月 7 日，你将需要确认客户已通过提供有关其进行签名的人员的信息来接受 Microsoft 云协议。 请参阅[确认客户的 Microsoft 云协议接受](confirm-consent.md)的更多详细信息。
 
-若要确定你可以在其中销售云解决方案提供商产品/服务，在以下列表之一查找贵公司的位置。 你必须为你想要在其中销售的位置的有效 Microsoft 合作伙伴网络 (MPN) ID。  
+若要确定可在其中销售 CSP 产品/服务，以下列表之一中找到你公司的位置。 必须具有你想要销售中的位置的活动 Microsoft 合作伙伴网络 (MPN) ID。  
 
-## <a name="for-unsupported-countries"></a>不受支持的国家/地区
+## <a name="for-unsupported-countries"></a>针对不受支持的国家/地区
 
-如果不支持所在国家/地区，建立客户使用 Office 管理员 URL 的云解决方案提供商关系。 
+如果不支持国家/地区，建立客户使用 Office 管理 URL 的 CSP 关系。 
 
-- 直接计费的合作伙伴使用以下 url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 **Partnertenantguid**替换为你的租户 id。 
+- 直接帐单合作伙伴使用以下 url: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 替换**partnertenantguid**与你的租户 id。 
 
-- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 你将使用你的租户 ID 替换**IRtenantguid** **IRMPNID**替换为你的 MPN ID，并使用你的间接提供商租户 id 替换**IPtenantguid** 。
+- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 将替换**IRtenantguid**与你的租户 id。 替换**IRMPNID**与你的 MPN ID，并替换**IPtenantguid**您间接提供商的租户 id。
 
 ## <a name="africa-region-and-market"></a>非洲地区和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 | 国家/地区           | 货币 |
 | ------------------------ |:--------:|
@@ -53,12 +53,12 @@ ms.locfileid: "9065604"
 | 中非共和国 |   USD    |
 | 乍得                     |   USD    |
 | 科摩罗                  |   USD    |
-| 刚果（布）                    |   USD    |
-| 刚果（金）              |   USD    |
+| 刚果                    |   USD    |
+| 刚果（民主共和国）              |   USD    |
 | 科特迪瓦            |          |
 | 吉布提                 |   USD    |
 | 赤道几内亚        |   USD    |
-| 厄立特里亚国                  |   USD    |
+| 厄立特里亚                  |   USD    |
 | 埃塞俄比亚                 |          |
 | 法属玻里尼西亚         |   USD    |
 | 加蓬                    |   USD    |
@@ -85,16 +85,16 @@ ms.locfileid: "9065604"
 | 塞拉利昂             |   USD    |
 | 索马里                  |   USD    |
 | 南苏丹              |   USD    |
-| 圣赫勒拿、阿森松与特里斯坦达库尼亚|    USD   |
+| 圣赫勒拿-阿森松特里斯坦达库尼亚|    USD   |
 | 坦桑尼亚                 |   USD    |
 | 多哥                     |   USD    |
 | 乌干达                   |          |
 | 赞比亚                   |          |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>亚洲和太平洋地区和市场
+## <a name="asia-and-pacific-region-and-market"></a>亚洲和太平洋地区的区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 | 国家/地区     | 货币 |
 | --------------     |:--------:|
@@ -105,7 +105,7 @@ ms.locfileid: "9065604"
 |  香港特别行政区         |   USD    |
 |  印度尼西亚         |   USD    |
 |  老挝              |          |
-|  澳门             |   USD    |
+|  澳门特别行政区             |   USD    |
 |  马来西亚          |   USD    |
 |  马尔代夫          |          |
 |  缅甸           |          |
@@ -118,9 +118,9 @@ ms.locfileid: "9065604"
 |  越南           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>澳大利亚地区和市场
+## <a name="australia-region-and-market"></a>澳大利亚区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区        | 货币 |
 |  --------------        |:--------:|
@@ -149,18 +149,18 @@ ms.locfileid: "9065604"
 |  瓦利斯和富图纳     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>巴西地区和市场
+## <a name="brazil-region-and-market"></a>巴西区域和市场
 
-如果贵公司的位置在巴西，你可以在巴西向客户销售云解决方案提供商产品/服务。
+如果你公司的位置是巴西，您可以向在巴西客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  巴西         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>加拿大地区和市场
+## <a name="canada-region-and-market"></a>加拿大区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
@@ -168,9 +168,9 @@ ms.locfileid: "9065604"
 |  圣皮埃尔和密克隆岛|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>欧洲地区和市场
+## <a name="europe-region-and-market"></a>欧洲区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币  |
 |  -------------- |:--------:|
@@ -221,36 +221,36 @@ ms.locfileid: "9065604"
 |  梵蒂冈   |          |
 |
 
-## <a name="india-region-and-market"></a>印度地区和市场
+## <a name="india-region-and-market"></a>印度区域和市场
 
-如果贵公司的位置在印度，你可以在印度向客户销售云解决方案提供商产品/服务。
+如果你公司的位置是印度，您可以向在印度的客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  印度          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>日本地区和市场
+## <a name="japan-region-and-market"></a>日本区域和市场
 
-如果贵公司的位置在日本，你可以在日本向客户销售云解决方案提供商产品/服务。
+如果你公司的位置是日本，您可以向在日本客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  日本          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>韩国地区和市场
+## <a name="korea-republic-of-region-and-market"></a>朝鲜共和国区域和市场
 
-如果贵公司的位置在韩国，你可以向韩国的客户销售云解决方案提供商产品/服务。
+如果你公司的位置是朝鲜共和国，您可以向在朝鲜共和国客户销售 CSP 产品/服务。
 
 |  国家/地区    | 货币 |
 |  --------------    |:--------:|
-|  韩国|   KRW    |
+|  朝鲜共和国|   KRW    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地区和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
@@ -271,7 +271,7 @@ ms.locfileid: "9065604"
 |  哥伦比亚       |   USD    |
 |  哥斯达黎加     |   USD    |
 |  库拉索岛        |   USD    |
-|  多米尼克       |  USD     |
+|  多米尼加       |  USD     |
 |  多米尼加共和国| USD   |
 |  厄瓜多尔        |   USD    |
 |  萨尔瓦多    |   USD    |
@@ -293,14 +293,14 @@ ms.locfileid: "9065604"
 |  秘鲁           |   USD    |
 |  波多黎各    |   USD    |
 |  萨巴岛           |   USD    |
-|  圣巴泰勒米|  USD    |
+|  圣巴泰勒米岛|  USD    |
 |  圣基茨和尼维斯|    |
 |  圣卢西亚    |   USD    |
 |  法属圣马丁   |   USD    |
 |  圣文森特和格林纳丁斯| USD |
-|  圣尤斯特歇斯 |   USD    |
+|  圣尤斯特歇 |   USD    |
 |  荷属圣马丁   |   USD    |
-|  南乔治亚岛和南桑威奇群岛| USD|
+|  南乔治亚和南桑德威奇群岛| USD|
 |  苏里南       |   USD    |
 |  特立尼达和多巴哥|USD   |
 |  特克斯和凯科斯群岛| USD|
@@ -309,9 +309,9 @@ ms.locfileid: "9065604"
 |  美属维尔京群岛| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中东、 中心西欧和美国东部地区和市场
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中东、 欧洲中部和美国东部欧洲区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
@@ -319,7 +319,7 @@ ms.locfileid: "9065604"
 |  阿尔巴尼亚        |   USD    |
 |  阿尔及利亚        |          |
 |  亚美尼亚        |   USD    |
-|  埃塞拜疆     |   USD    |
+|  阿塞拜疆     |   USD    |
 |  巴林        |   USD    |
 |  白俄罗斯        |   USD    |
 |  波斯尼亚和黑塞哥维那|    |
@@ -332,12 +332,12 @@ ms.locfileid: "9065604"
 |  哈萨克斯坦     |   USD    |
 |  Kosovo         |   USD    |
 |  科威特         |   USD    |
-|  吉尔吉斯斯坦     |   USD    |
+|  吉尔吉斯坦     |   USD    |
 |  黎巴嫩        |   USD    |
 |  莱索托        |   USD    |
 |  利比亚          |          |
 |  马其顿共和国|   |
-|  毛利塔尼亚     |   USD    |
+|  毛里塔尼亚     |   USD    |
 |  摩尔多瓦        |          |
 |  蒙古       |          |
 |  黑山     |          |
@@ -345,7 +345,7 @@ ms.locfileid: "9065604"
 |  莫桑比克     |          |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
-|  Palestinian Territory, Occupied |        |
+|  巴勒斯坦占领区 |        |
 |  卡塔尔          |   USD    |
 |  沙特阿拉伯   |   USD    |
 |  塞尔维亚         |   USD    |
@@ -364,7 +364,7 @@ ms.locfileid: "9065604"
 
 ## <a name="new-zealand-region-and-market"></a>新西兰区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
@@ -374,30 +374,30 @@ ms.locfileid: "9065604"
 |  瓦努阿图        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>俄罗斯地区和市场
+## <a name="russia-region-and-market"></a>俄罗斯区域和市场
 
-如果贵公司的位置在俄罗斯，你可以在俄罗斯向客户销售云解决方案提供商产品/服务。
+如果你公司的位置是俄罗斯，你可以向在俄罗斯客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Taiwan region and market
+## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
 
-If your company's location is Taiwan, you can sell CSP offers to customers in Taiwan.
+如果贵公司的位置为中国台湾地区，您可以向在中国台湾地区客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  台湾         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>美国地区和市场
+## <a name="united-states-region-and-market"></a>美国区域和市场
 
-如果贵公司的位置在以下列表中，你可以在列表中的所有位置中向客户销售云解决方案提供商产品/服务。
+如果贵公司的位置为下面的列表中，您可以向列表中的所有位置中客户销售 CSP 产品/服务。
 
 |  国家/地区       | 货币 |
 |  -------------        |:--------:|
 |  美国        |   USD    |
-|  美属外岛|   USD    |
+|  美国美属外岛|   USD    |
 |

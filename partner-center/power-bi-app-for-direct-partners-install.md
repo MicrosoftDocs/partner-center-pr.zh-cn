@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 请按照以下步骤预览适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ef641484ada5332a7129e13f8d7bbd8f1d269f96
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995551"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585860"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -22,7 +22,7 @@ ms.locfileid: "8995551"
 
 ## <a name="before-you-begin"></a>开始之前
 
-选择的应用程序与你的业务最相关从以下列表中可用的 Power BI 应用：
+选择与你的业务从以下列表中可用的 Power BI 应用的最相关的应用程序：
 - [直接合作伙伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [间接合作伙伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
@@ -31,7 +31,7 @@ ms.locfileid: "8995551"
 
 安装合作伙伴中心分析应用预览版本之前，请确保你满足以下要求。
 
-- 为你的企业选取正确的 Power BI 应用。
+- 为您的业务挑选正确的 Power BI 应用。
 
 - 你具有 Microsoft Power BI 专业版或 Microsoft Power BI 高级版的活动订阅。
 
@@ -62,4 +62,4 @@ ms.locfileid: "8995551"
 
 ## <a name="next-steps"></a>后续步骤
 
-[使用适用于 Microsoft Power BI 的合作伙伴中心分析应用查看你的业务数据](power-bi-app-for-direct-partners-use.md)
+[适用于 Microsoft Power BI 中查看您的业务数据与合作伙伴中心分析应用](power-bi-app-for-direct-partners-use.md)

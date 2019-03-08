@@ -8,25 +8,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 0094b7f8b6314e776d5d4db6a19c49eb2ff0f4e1
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683486"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584000"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 
 **适用于**
 
 -  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 
-合作伙伴中心的多合作伙伴功能支持客户想要与多个合作伙伴合作的情况。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
+当某个客户想要使用多个合作伙伴，合作伙伴中心多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
 
-若要在合作伙伴中心中使用的多合作伙伴功能，请邀请客户向你提供委派的管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
+若要使用合作伙伴中心中的多合作伙伴功能，邀请客户可为您提供委派管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
 
-多合作伙伴功能不支持以下操作：
+多个合作伙伴功能不支持以下操作：
 
 -   更改任何客户的现有订阅
 
@@ -37,7 +37,7 @@ ms.locfileid: "8683486"
 -   更改订阅的记录合作伙伴
 
 > [!IMPORTANT]  
-> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布的所有公告将通过常见通讯渠道，包括在合作伙伴中心进行都公布。  
+> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 将通过常用的通信渠道，其中包括合作伙伴中心公布任何关于功能发布的公告。  
 
  
 

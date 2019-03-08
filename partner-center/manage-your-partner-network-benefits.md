@@ -2,17 +2,17 @@
 title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 介绍了如何激活和管理你在合作伙伴中心中的成员身份权益。
+description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 说明如何激活和管理您在合作伙伴中心中的成员身份权益。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 成员身份权益, 成员身份
 ms.localizationpriority: medium
 ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796380"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584700"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -21,17 +21,17 @@ ms.locfileid: "5796380"
 -  合作伙伴中心
 
 >[!IMPORTANT]
->本文介绍了如何开始使用 Microsoft 合作伙伴网络 (MPN) 成员身份权益在合作伙伴中心 （以前称为合作伙伴中心）-此站点。 如果你还未收到将你的公司信息从 Partner Membership Center (PMC) 移到合作伙伴中心的邀请，你应该继续管理你的 MPN 成员身份权益在 PMC 中。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
+>本文介绍如何开始使用 Microsoft 合作伙伴网络 (MPN) 成员身份权益 （以前称为合作伙伴中心）-在合作伙伴中心中此站点。 如果未收到邀请以将你的公司信息从伙伴成员身份 Center (PMC) 移动到合作伙伴中心，应继续管理你的 MPN 成员资格权益在 PMC 中。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
 
 加入 Microsoft 合作伙伴网络 (MPN) 后，你可以访问有助于业务构建和发展的成员身份权益。 如果你不是 MPN 的成员，可以加入 [MPN 站点](https://partner.microsoft.com/membership)。
 
 
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>管理你在合作伙伴中心中的成员身份权益
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>管理您在合作伙伴中心中的成员资格权益
 
 购买成员身份权益包后，你需要为员工获取软件密钥并分配许可证、订阅和其他权益，以便开始使用它们。 
 
 >[!IMPORTANT]
->时不需要是组织购买权益中的全局管理员，你需要为全局管理员要分配给员工的好处。  如果需要，你可以按照你的[**权益**页面](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明将成为全局管理员 （需要登录）。 此外，你的组织可能已经的全局管理员，因此请务必检查与你的团队。
+>虽然你不必是组织中的全局管理员即可购买权益，但你确实需要成为全局管理员以为员工分配权益。  如果你愿意，可以按照[**权益**页面](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）上的说明进行操作以成为全局管理员。 此外，你的组织可能已经具有全局管理员，因此请务必咨询你的团队。
 
 权益包包括所分配的内部使用权限、软件、云服务、Visual Studio 订阅和支持。 你可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 
@@ -104,8 +104,8 @@ ms.locfileid: "5796380"
 
 #### <a name="see-also"></a>另请参阅
 
-[添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
+[添加用户并向其分配权限](create-user-accounts-and-set-permissions.md)
 
-[购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
+[购买或续订订阅 Microsoft Action pack](mpn-get-action-pack.md)
 
 

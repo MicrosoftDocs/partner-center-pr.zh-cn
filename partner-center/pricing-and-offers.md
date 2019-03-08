@@ -2,17 +2,17 @@
 title: 定价和产品/服务 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
-description: 产品/服务列表包括可以通过在合作伙伴中心和其定价信息购买的不同产品系列。
-author: labrenne
+description: 产品/服务列表包括可购买通过合作伙伴中心和其定价信息的不同产品系列。
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ea3fefc6888c14060360a98bbd2373ff905d7a
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c71bbd0b5945c3e958aa22bc1fb1b7589bcca36a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995751"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586730"
 ---
 # <a name="pricing-and-offers"></a>定价和产品/服务
 
@@ -22,7 +22,7 @@ ms.locfileid: "8995751"
 
 若要查看最新的云解决方案提供商计划价目表和产品/服务，请转到**销售 > 定价和产品/服务**。 你将会发现基于许可证的服务（例如 Office 365、Microsoft Dynamics CRM 和企业移动性套件）以及基于使用情况的服务（包括 Azure）的单独价目表。 
 
-产品/服务列表包括可以通过在合作伙伴中心购买的不同产品系列。 这些系列目前包括 Office 365、企业移动性套件、Microsoft Dynamics CRM 和 Microsoft Azure。 此列表将会增大。
+产品/服务列表包括可通过合作伙伴中心购买的不同产品系列。 这些系列目前包括 Office 365、企业移动性套件、Microsoft Dynamics CRM 和 Microsoft Azure。 此列表将会增大。
 
 这些产品系列中的每一个都有不同的 SKU 和产品捆绑包可供你出售，具体取决于你的业务。 你始终可以使用“定价和产品/服务”页面上提供的“云经销商产品/服务矩阵”来访问其中每一项的最新详细信息。
 
@@ -32,7 +32,7 @@ ms.locfileid: "8995751"
 
 |**项**        |**定义**      |
 |:-----------   |:-----------   |
-|ADD   |价目表中的新项|
+|添加   |价目表中的新项|
 |CHG   |价目表更改，例如 SKU 描述更改|
 |DEL   |从价目表中删除的项|
 |UNC   |与上一个月的价目表相比无变化的项   |
@@ -51,8 +51,8 @@ ms.locfileid: "8995751"
 
 阅读有关“定价和产品/服务”页面上“云经销商产品/服务矩阵”中可供你销售的不同 SKU 和产品捆绑包的信息。 此产品/服务矩阵包含适用于每个区域设置的产品/服务。 如果某个项在价目表上，但尚未在产品/服务矩阵中列出，这意味着还不能订购产品。 一旦可以订购产品，系统就会立即更新产品/服务矩阵。
 
-对于使用云解决方案提供商合作伙伴合作伙伴中心软件开发工具包 (Sdk)。 Microsoft 还会在“定价和产品/服务”页面上的云解决方案提供商计划中发布 Azure 服务列表。
+适用于 CSP 合作伙伴使用合作伙伴中心软件开发工具包 (Sdk)。 Microsoft 还会在“定价和产品/服务”页面上的云解决方案提供商计划中发布 Azure 服务列表。
 
 ### <a name="offers-matrix-and-pricelist-questions"></a>产品/服务矩阵和价目表问题
 
-如果你有关于价目表或产品/服务矩阵的问题，提交服务请求通过合作伙伴中心。
+如果有关 pricelist 或产品/服务矩阵有问题，提交服务请求通过合作伙伴中心。

@@ -3,20 +3,20 @@ title: 数据平台能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 数据平台能力用于认可期望设计和开发功能强大的通用数据库平台来运营业务的合作伙伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 数据平台
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 90b655a6844a69b537b9fabb44adb120b4f961ad
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: b2c85185910c859ed69706fb7ab2778ab0e47cbb
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5797270"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586440"
 ---
 >[!IMPORTANT]
->若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
+>若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 

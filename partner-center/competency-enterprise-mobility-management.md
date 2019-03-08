@@ -3,20 +3,20 @@ title: 企业移动性管理能力
 ms.topic: article
 ms.date: 10/29/2018
 description: 企业移动性管理能力适用于作为大型企业功能强大的安全移动管理解决方案方面的专家脱颖而出的合作伙伴。
-author: Daniel Simpson
+author: LauraBrenner
 ms.author: dansimp
 keywords: 能力, 企业移动性管理
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e41399862cc725b15853f365e96c2f8f715c88b
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 9ef0fbf3531916c081a495c140f550c0428d2462
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796240"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57584040"
 ---
 >[!IMPORTANT]
->若要了解有关获得此能力要求，请访问[Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
+>若要了解有关获得此能力的要求的信息，请访问 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/competencies)。
 
 <!--
 

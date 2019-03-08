@@ -5,23 +5,23 @@ ms.date: 10/29/2018
 description: Azure Cost Management by Cloudyn 需要对合作伙伴中心 API 的访问权限进行预配。
 author: Janet
 ms.author: janet
-Keywords: Azure cost management app, manage costs, web apps
+Keywords: Azure 成本管理应用程序，管理成本，web 应用
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: 586ec2936b8491e91b4f2a56cbc392e4dee350b3
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995791"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57586080"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>面向 Azure 云解决方案提供商合作伙伴的 Azure Cost Management  
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 
-[获取有关 Azure Cost Management 的详细信息](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[获取有关 Azure 成本管理的详细信息](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
 ## <a name="before-you-begin"></a>开始之前
 为能够使用 Azure Cost Management，请确保你满足以下要求：
@@ -38,7 +38,7 @@ Azure Cost Management by Cloudyn 是一款 Web 应用，用于跟踪和管理客
 1.  使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴中心](https://partnercenter.microsoft.com/en-us/pcv/dashboard/overview)。
 2.  从**合作伙伴中心**，选择**帐户设置** &gt; **[应用管理](https://partnercenter.microsoft.com/en-us/pcv/apiintegration/appmanagement)**。
 3.  在 **Web 应用**部分中，单击**添加新的 Web 应用**。
-<br> **注意**：如果此前已创建 Web 应用，你可以跳过第 3 步。
+<br> **注意**：如果之前已创建 web 应用，则可以跳过步骤 3。
 4.  复制并保存你的 Web 应用的**商业 ID** GUID 和**应用 ID** GUID。 你必须拥有这两个 ID，才能使用为期 30 天的 Azure Cost Management 应用免费试用版。
 
 ## <a name="add-a-secret-key-to-your-app"></a>为应用添加密钥
@@ -46,7 +46,7 @@ Azure Cost Management by Cloudyn 是一款 Web 应用，用于跟踪和管理客
 2. 单击**添加密钥**。 
 3. 复制并保存密钥值。 你将需要借助此密钥使用为期 30 天的免费试用版。<br>
    > [!NOTE]  
-   > 应用程序密钥就像密码，不过有效期更久。 请将密钥值保存在安全的位置以供今后使用。
+   > 应用程序机密密钥就像较长的到期日期使用的密码。 请将密钥值保存在安全的位置以供今后使用。
 
 ## <a name="next-steps"></a>后续步骤
 开始使用[为期 30 天的免费试用版](https://go.microsoft.com/fwlink/?linkid=857895)。

@@ -3,19 +3,19 @@ title: 了解你的奖励付款 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 查看奖励计划的收益和付款。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3cf700332c22fc75605b9eacc3af05997f7a387d
-ms.sourcegitcommit: 3871c82c1075206a33eae7cd395a5a36edb2d1fc
+ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "8995951"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585380"
 ---
-# <a name="incentive-payouts-overview"></a>奖励付款概述
+# <a name="incentive-payouts-overview"></a>激励付款概述
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 
@@ -25,11 +25,11 @@ ms.locfileid: "8995951"
 
 奖励用户和奖励管理员可以在**付款摘要**中查看他们在所参与的奖励计划中的财务状况。 你可以根据需要详细分析每个摘要信息区域。 
 
-在摘要页面，你可以对你获得付款的月份以及计划类型进行分析的趋势进行了解。 反之，你也可以按计划和位置查看你所赚取的款项。 这可以使你了解你在哪里获得了成功以及在哪里应投入更多精力进行营销和销售。 “付款”摘要页面显示收益和付款。奖励数据每 48 小时刷新一次。 图表反映了最新信息。 
+在摘要页面，你可以对你获得付款的月份以及计划类型进行分析的趋势进行了解。 相反，你也可以按计划和位置查看你所赚取的款项。 这可以使你了解你在哪里获得了成功以及在哪里应投入更多精力进行营销和销售。 “付款”摘要页面显示收益和付款。奖励数据每 48 小时刷新一次。 图表反映了最新信息。 
 
 “摘要”页面上使用了三个关键指标：
 
-|**关键指标**   |**定义**   |
+|**关键指示器**   |**定义**   |
 |---------------------|:-----------------|
 |到目前为止的付款总额。|Microsoft 已向你支付的的金额|
 |未付款的收益|你已赚得但尚未计划付款的金额|

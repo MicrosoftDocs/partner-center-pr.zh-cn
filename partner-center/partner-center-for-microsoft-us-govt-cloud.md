@@ -7,19 +7,19 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 9c5d6ed400b416324546ef90ef04a18ecf5dbcf6
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098744"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587860"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心
+# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 合作伙伴中心
 
 **适用于**
 
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求 
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>适用于美国政府的 Microsoft 云：满足数据保护要求 
 
 美国政府 Microsoft 云是专为美国政府从头开始设计的，可帮助美国联邦、州、本地或族群实体从一系列的 Microsoft 云计算服务中进行选择。 为了在最大程度上满足公共部门客户的特定需求，Microsoft 斥巨资建立了数据中心，致力于遵从美国联邦和州有关数据保护的政策、强制规定和要求。 美国政府 Microsoft 云合作伙伴中心允许合作伙伴将 Microsoft 云服务转售给这些客户。
 
@@ -29,7 +29,7 @@ ms.locfileid: "9098744"
 
 有关详细信息，请参阅[美国政府 Microsoft 云数据表](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)。
 
-## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>美国政府 Microsoft 云合作伙伴中心：向美国政府实体销售云解决方案
+## <a name="partner-center-for-microsoft-cloud-for-us-government-selling-cloud-solutions-to-us-government-entities"></a>适用于美国政府的 Microsoft 云的合作伙伴中心：给我们的政府实体销售云解决方案
 
 注册美国政府 Microsoft 云的云解决方案提供商 (CSP) 计划后，你将通过合作伙伴中心向你的美国政府客户销售云特定的解决方案和服务。 
 
