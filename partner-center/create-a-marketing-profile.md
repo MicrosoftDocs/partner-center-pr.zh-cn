@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 10/29/2018
 description: 在合作伙伴中心创建业务档案，以从 Microsoft 获取销售线索。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 业务档案, 营销档案
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e6357bcbecf32ef312b6efbdaa8082d29a48d87
-ms.sourcegitcommit: 5251779c33378f9ef4735fcb7c91877339462b1e
+ms.openlocfilehash: 26497b52702a1be6797a4d2e3b77d9ab0f73d47a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2019
-ms.locfileid: "9062355"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587330"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -24,7 +24,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>创建业务档案以从 Microsoft 获取销售线索
+# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>创建业务配置文件以从 Microsoft 获取销售线索
 
 **适用于**
 
@@ -38,25 +38,25 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 获取这些潜在顾客的第一步是创建一个业务档案。 当客户正在通过以下方式搜寻能够帮助他们实施 Microsoft 产品和解决方案的合作伙伴时，我们将向客户显示你的档案：
 
-*  **[查找解决方案提供商](https://partnercenter.microsoft.com/pcv/search)搜索体验**。 潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。
+*   **[查找解决方案提供商](https://partnercenter.microsoft.com/pcv/search)搜索体验**。 潜在客户可以自行搜索合作伙伴列表，以查找符合搜索条件的合作伙伴。
 
 *  **Microsoft 销售和服务员工的引荐**。 有兴趣部署基于云的技术解决方案的潜在客户可以联系 Microsoft，让 Microsoft 帮助寻找能够满足其业务需求的专业人员。 然后，这些 Microsoft 专业人员可以向贵公司引荐潜在客户。
 
 > [!IMPORTANT]  
-> 为了帮助我们的合作伙伴简化业务操作，我们正在特性和功能合并到合作伙伴中心，此站点分布在多个工具和网站使用。 作为该举措之一，我们已迁移到合作伙伴中心的所有与引荐相关的功能，并停用了 Pinpoint 和 C2PC 站点。 如果你使用 Pinpoint 或 C2PC 过去获取和管理来自 Microsoft 的引荐，你将需要在合作伙伴中心，以继续获取引荐中创建新的业务配置文件。 我们不再支持从这些站点导入档案。 
+> 为了帮助我们优化业务运营的合作伙伴，我们正在合并功能和用来在合作伙伴中心，此站点分布在多个工具和网站的功能。 作为该工作的一部分，我们已移动到合作伙伴中心的所有引用相关的功能，并停用 Pinpoint 和 C2PC 站点。 如果您使用 Pinpoint 或 C2PC 过去获取和管理来自 Microsoft 的参考，您需要在合作伙伴中心，以便能够继续引用中创建新的业务配置文件。 我们不再支持从这些站点导入档案。 
 
 ## <a name="create-a-profile"></a>创建档案
 
 > [!NOTE]  
->  你可以创建业务配置文件之前，必须具有合作伙伴中心帐户。 如果你还没有合作伙伴中心帐户，请参阅[创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)获取有关创建该帐户的帮助。 
+>  创建业务配置文件之前，必须具有合作伙伴中心帐户。 如果你还没有合作伙伴中心帐户，请参阅[创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)获取有关创建该帐户的帮助。 
 
 针对你有权在其中开展业务的每个区域创建档案。 
 
-1.  从**合作伙伴中心**菜单中，选择**引荐** &gt; **业务配置文件**&gt;选择国家/地区 >**[创建业务配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
+1.  从**合作伙伴中心**菜单中，选择**引用** &gt; **业务配置文件**&gt;选择国家/地区 >  **[创建业务配置文件](https://partnercenter.microsoft.com/pcv/publishing)**。
 
 2.  在**创建企业简介**页面上，选择一个地区，然后输入你的简介信息。
     > [!NOTE]  
-    >  尽管在合作伙伴中心支持多种语言，如描述和自由格式标记之类的某些元素可能需要包含不同语言，如本主题中所述的文本。
+    >  尽管合作伙伴中心支持多种语言，某些元素，例如描述和自由格式标记，可能需要包含从不同的语言，本主题中所述的文本。
 
 ### <a href="" id="partner_info"></a>合作伙伴信息
 
@@ -64,7 +64,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 徽标可以是 GIF、JPG 或 PNG 文件，最大宽度为 300 个像素。 建议使用方纵横比或长纵横比。 不建议使用高纵横比。
 
-你的提要可以最多 2500年个字符。 创建出色说明的提示： 
+你的说明最长可以为 2500 个字符。 创建出色说明的提示： 
 
 *  **简要**，在第一句或前两句中首先介绍重要内容。 这应该是吸引客户注意力的头条资讯。 在“查找合作伙伴”搜索体验中，我们会在搜索结果预览中显示第一行或前两行。
 *  **重点介绍贵公司在 Microsoft 特定产品/服务方面的经验**。 搜索引荐的客户通常会寻找具有 Microsoft 特定经验的合作伙伴。
@@ -75,7 +75,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **不要引用其他 Microsoft 合作伙伴公司的名称**，除非它是你的公司的子公司或以其他方式与你的公司有关联，或者你当前与该合作伙伴公司签署了针对共有工作机会以合作伙伴身份行动和/或互相推广的协议。
 *  **对于使用多种语言的区域**，请考虑在描述中包括多种语言的文本。
 
-#### <a href="" id="linkedin"></a>LinkedIn 公司页面：更多联系方法
+#### <a href="" id="linkedin"></a> LinkedIn 公司页： 连接的更多方法
 
 添加你的 LinkedIn 公司页面，以加强你与潜在客户之间的联系。 
 
@@ -98,23 +98,23 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  **能力标记**是用于展示公司能力的所获名称。
 *  **认可标记**可在 Microsoft 或与你合作的客户认可你的工作时获得。
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>让 Microsoft 认可我的专长领域
+#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>允许 Microsoft 认可专业领域方面
 
 建议选择此设置。 
 
-当你证明成功吸引了客户通过合作伙伴中心中，或者参与其他 Microsoft 认证或计划时，我们将自动添加认可的特定产品、 服务和行业取得该成功。 认可是搜索结果中的重要因素。
+与通过合作伙伴中心客户演示成功或参与其他 Microsoft 认证或程序时，我们将自动添加你的特定产品、 服务和该成功取决于行业的认可。 认可是搜索结果中的重要因素。
 
 如果你为某些产品提供了服务，但你不想在档案中显示它们，则可以取消选中此框并手动管理你的档案。 客户将看不到这些认可，但你以后可以随时将认可添加回你的档案。
 
 ### <a name="customer-preferences"></a>客户首选项
 
-#### <a href="" id="#target_size"></a>目标规模
+#### <a href="" id="#target_size"></a>目标大小
 
 你可以选择不使用不符合目标客户规模的企业引荐。
 
 选择不使用后，你可以将更多时间花在与你希望合作的企业规模相符的企业上。
 
-### <a href="" id="#locations"></a>位置
+### <a href="" id="#locations"></a> 位置
 
 每个区域，最多可以添加 5 个贵组织的顶层位置。 当客户按邻近程度搜索合作伙伴时，会显示这些位置。 
 
@@ -140,4 +140,4 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 *  从赏识你的工作的客户那里**获得认可标记**。
 
 ## <a name="related-topics"></a>相关主题
-[响应引荐](responding-to-referrals.md)
+[响应的引用](responding-to-referrals.md)
