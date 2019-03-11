@@ -1,22 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: 开发人员和合作伙伴仪表板服务的文档
-description: 如果你要登录到仪表板来发布应用、获取有关桌面应用程序的数据、获取硬件认证、将驱动程序发布到 Windows 更新或者作为经销商进行事务处理，本文档适合你。
-author: v-chmccl
+title: 适用于开发人员和合作伙伴中心服务的文档
+ms.date: 10/29/2018
+description: 如果你要登录到合作伙伴中心来发布应用、获取有关桌面应用程序的数据、获取硬件认证、将驱动程序发布到 Windows 更新或者作为经销商进行事务处理，本文档适合你。
+author: LauraBrenner
+ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 28b65a154611020de02ceb15145fcf6271d34df3
-ms.sourcegitcommit: 052c3a98216ad30a27fcd813de740fb54e8d8da7
-ms.translationtype: HT
-ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2018
-ms.locfileid: "1978554"
 ---
+
 <div id="main" class="v2">
     <div class="container">
-        <h1>仪表板服务的文档</h1>
-        <p>如果你要使用仪表板来发布应用和游戏、获取有关桌面应用程序的数据、获取硬件认证、将驱动程序发布到 Windows 更新或者作为经销商进行事务处理，本文档适合你。</p>
+        <h1>适用于合作伙伴中心服务的文档</h1>
+        <p>如果你使用合作伙伴中心来发布应用和游戏、获取有关桌面应用程序的数据、获取硬件认证、将驱动程序发布到 Windows 更新或者作为经销商进行事务处理，则适合参考本文档。</p>
         <ul class="pivots" style="list-style:none;margin:0;">
             <li>
                 <a href="#products"></a>
@@ -93,7 +90,7 @@ ms.locfileid: "1978554"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>云解决方案提供商和 MPN 合作伙伴</h3>
-                                                    <p>了解如何使用仪表板来构建、管理和发展你的经销商业务以及 Microsoft 合作关系。</p>
+                                                    <p>了解如何使用合作伙伴中心来构建、管理和发展你的经销商业务以及 Microsoft 合作关系。</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -112,7 +109,7 @@ ms.locfileid: "1978554"
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>开发人员 API 和 SDK</h3>
-                                                    <p>通过 Microsoft 的合作伙伴仪表板，使用 API 将你的客户、订单、计费和支持系统整合在一起。</p>
+                                                    <p>通过 Microsoft 的合作伙伴中心，使用 API 将你的客户、订单、计费和支持系统整合在一起。</p>
                                                 </div>
                                             </div>
                                         </div>
