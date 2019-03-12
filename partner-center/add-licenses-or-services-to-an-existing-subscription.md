@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: medium
 ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 80f3eb81f2e7605e77d19856827472f7830db419
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "9098774"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585430"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 
@@ -41,23 +41,23 @@ ms.locfileid: "9098774"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office365Business</td>
+<td>Office 365 企业版</td>
 <td><ul>
 <li>Office 365 商业高级版¹</li>
-<li>Office 365 专业增强订阅版</li>
+<li>Office 365 专业增强版</li>
 <li>Office 365 企业版 E3</li>
 <li>Office 365 企业版 E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office365BusinessPremium</td>
+<td>Office 365 商业高级版</td>
 <td><ul>
 <li>Office 365 企业版 E3</li>
 <li>Office 365 企业版 E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office365BusinessEssentials</td>
+<td>Office 365 商业协作版</td>
 <td><ul>
 <li>Office 365 商业高级版¹</li>
 <li>Office 365 企业版 E1</li>
@@ -67,7 +67,7 @@ ms.locfileid: "9098774"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office365BusinessIndia 和 Office365BusinessEssentialsIndia 可以升级到 Office365BusinessPremiumIndia，不适用于 Office365BusinessPremium。</p></td>
+<td><p>¹ office 365 业务印度和 Office 365 Business Essentials 印度可以升级到 Office 365 商业高级版印度，不适用于 Office 365 商业高级版。</p></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ ms.locfileid: "9098774"
 1.  若要查看某个订阅是否符合升级条件，请选择你的客户，然后打开他们的订阅列表。
 2.  如果该订阅可以升级，你会在订阅名称后立即看到信息图标。 将鼠标悬停在此图标上方，然后选择**立即升级**。
 3.  选择新的产品/服务，然后选择**提交**。
-4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心提供帐户和服务的影响的列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4.  针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心提供帐户和受影响的服务的列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
  
 

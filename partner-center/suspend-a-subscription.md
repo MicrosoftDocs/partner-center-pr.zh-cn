@@ -8,25 +8,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: d3613d23bd177a53381ebf32b4f1075201f8f7f7
-ms.translationtype: MT
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "8683516"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585310"
 ---
 # <a name="suspend-a-subscription"></a>暂停订阅
 
 **适用于**
 
 -  合作伙伴中心
--  美国政府 Microsoft 云合作伙伴中心
+-  Microsoft Cloud for US Government 合作伙伴中心
 
 
 在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。
 
 当你将订阅状态更改为**已暂停**时，用户将无法登录或访问服务。 管理员仍可登录和访问数据。
 
-**暂停订阅**
+**挂起订阅**
 
 1.  从**合作伙伴中心**菜单中，选择**客户**，然后从列表中选择客户。
 2.  选择要管理的订阅。

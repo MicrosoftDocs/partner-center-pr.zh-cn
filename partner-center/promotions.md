@@ -7,11 +7,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 011f825d6cd4c47e793dd63fb8b1dcf61979453d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795050"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587430"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促销吸引新客户  
 
@@ -35,14 +35,14 @@ Microsoft 提供以下两种类型的促销：适用于云解决方案提供商 
 
 ## <a name="see-available-promotions"></a>请参阅可用促销
 
-你可以在**促销**页面上查看你有资格参与的促销（如果有）。 从**合作伙伴中心**菜单以查看当前促销，以及折扣、 促销类型及订阅的开始和结束日期的列表中选择**促销**。 如果没有可用促销，你将看到一条消息说明此情况。 
+你可以在**促销**页面上查看你有资格参与的促销（如果有）。 选择**促销**从你**合作伙伴中心**菜单可查看当前的促销活动，以及折扣、 促销类型和订阅的开始和结束日期的列表。 如果没有可用促销，你将看到一条消息说明此情况。 
 
 > [!NOTE]  
 > 你也可以在购物时查看促销。 选择订阅时，折扣百分比会显示在**查看**页面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>按折扣价格购买订阅
 
-1. 在**合作伙伴中心**菜单中，选择**客户**，然后选择购买订阅的客户。 
+1. 在你**合作伙伴中心**菜单中，选择**客户**，然后选择购买订阅的客户。 
 
 2. 选择**添加订阅**。
 

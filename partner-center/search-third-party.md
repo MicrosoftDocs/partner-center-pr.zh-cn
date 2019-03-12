@@ -3,20 +3,20 @@ title: 发现你要销售的第三方产品/服务 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 搜索并找到非常适合你的产品组合的第三方产品/服务类型。
-author: labrenne
+author: LauraBrenner
 ms.author: labrenne
 keywords: 第三方产品/服务, 要购买的软件, 搜索第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: abf30139174d44f385b49219420ddcffcba6cf2a
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: cde02b44d728e7c5d32295ce730ee71bfc41d1e4
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796960"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585450"
 ---
 # <a name="discover-the-third-party-offers-you-want-to-sell"></a>发现你要销售的第三方产品/服务
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 
@@ -50,7 +50,7 @@ ms.locfileid: "5796960"
 3. 有关详细说明，请参阅[创建、暂停或取消客户订阅](create-a-new-subscription.md)。
 4.  选择对第三方软件采用按月计费。 年度计费和试用版计费目前不适用于第三方软件。
 5.  从**第三方**选项卡，选择想要购买的产品。
-6.  检查要添加的订阅并输入许可证编号。 然后**提交**订单。
+6.  检查要添加的订阅并输入许可证数。 然后**提交**订单。
 7.  添加订阅后，通过单击订阅列表中的订阅名称来打开它。 
 8.  在 **订阅编辑**页面上，可以更改许可证数量或者暂停订阅。
 
