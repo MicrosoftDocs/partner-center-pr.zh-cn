@@ -6,12 +6,12 @@ description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1dc3957d6abe4069f3868d49e92a458d20e7fbec
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.openlocfilehash: 381b4c5dda7486737ef010d7fa22e65710b5e5bf
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5796100"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587790"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -24,7 +24,7 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 当 E4 订阅结束时，它们将会被取消。 为了确保客户服务连续性，你应该将 E4 订阅快过期的客户过渡到下列支持的 SKU 选项。 建议在订阅年度结束日期之前将客户转移到新订阅，以避免出现任何客户服务中断。 
 
 > [!NOTE]  
->  Office 365 企业版 E4 商业和政府 Sku 均已停用。
+>  Office 365 企业版 E4 商业和政府 Sku 将停用。
  
 在订阅的详细信息页面上，E4 订阅状态已从“[日期] 自动续订”更改为“[日期] 过期”。 
 
@@ -38,9 +38,9 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 
 - 选项 1：Office 365 企业版 E5
 
-- 选项 2：Office 365 企业版 E3 + Skype for Business 云 PBX
+- 选项 2：Office 365 企业版 E3 + 业务云 PBX Skype
 
-- 选项 3：Office 365 企业版 E3 + Skype for Business Plus CAL（价格和功能与 E4 相同）
+- 选项 3：Office 365 企业版 E3 + Skype for Business Plus CAL （价格和功能奇偶校验版 E4）
 
 - 选项 4：Office 365 企业版 E3
 
@@ -68,7 +68,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-1---purchase-the-new-subscription"></a>步骤 1 - 购买新订阅
 
-1. 从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，然后选择**添加订阅**。
+1. 从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动，并选择的客户**添加订阅**。
 
 2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。
 
@@ -76,7 +76,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>第 2 步 - 重新分配客户的用户许可证
 
-1. 从**合作伙伴中心**菜单中，选择**客户**、 选择你想要移动的客户，然后选择**用户和许可证**。 将打开客户的“用户和许可证”页。
+1. 从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动，并选择的客户**用户和许可证**。 将打开客户的“用户和许可证”页。
 
 2. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择**管理许可证**。
 

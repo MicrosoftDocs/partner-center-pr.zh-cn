@@ -1,30 +1,30 @@
 ---
-title: 合作伙伴中心加密挖掘活动通知 |合作伙伴中心
+title: 合作伙伴中心通知加密挖掘活动 |合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 有关潜在加密挖掘发生活动的通知。
-author: v-petand
+author: LauraBrenner
 ms.author: v-petand
-Keywords: crypto-mining, cryptocurrency mining, security
+Keywords: 加密挖掘加密货币挖掘安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4cd56641a44cab84796ae051584e1e1cca63d3ff
-ms.sourcegitcommit: bfbb5b5edb381e219134be5a3e4a97bfe232288f
+ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "9086715"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587490"
 ---
-# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>合作伙伴中心加密货币挖掘活动通知
+# <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 
-**适用范围**
+**适用于**
 
 -  合作伙伴中心
 -  云解决方案提供商合作伙伴
 
-你可能收到了关于加密货币挖掘的以下合作伙伴中心通知：
+你可能收到以下合作伙伴中心通知有关加密货币挖掘：
  
-![在合作伙伴中心中的安全通知的图像](images/crypto1.png)
+![在合作伙伴中心的安全通知的图像](images/crypto1.png)
 
 此通知的目的是通知你我们在过去一周内检测到针对一个或多个 Azure 订阅的加密货币挖掘活动。 加密货币挖掘不一定是欺诈活动。 然而，这是不同寻常的活动，因为在 Azure 中运行加密货币挖掘的成本往往超过了任何潜在的经济回报。 为防止可能影响你或你的客户的财务欺诈，请考虑执行以下步骤：
 
@@ -37,7 +37,7 @@ ms.locfileid: "9086715"
 如果是预期活动，请返回到客户的 Azure 订阅详细信息页面，然后确认加密货币挖掘是合法的。 
 
 
-![客户的 Azure 订阅详细信息页面的图像](images/crypto2.png)
+![客户的 Azure 订阅详细信息页的图像](images/crypto2.png)
 
 如果是异常活动，请考虑以下各项：
 
@@ -45,7 +45,7 @@ ms.locfileid: "9086715"
 
 2.  首先了解如何创建资源。 这可能要求你查看 Azure 资源管理日志以了解资源预配活动。
 
-3.  如果你需要了解创建订阅者，查看合作伙伴中心活动日志。
+3.  如果您需要找出谁创建订阅，请查看合作伙伴中心活动日志。
 
 加密货币挖掘活动的检测基于试探法，可能不是 100% 准确。 请确保部署管理和监控系统，以防止欺诈或其他不允许的活动。 有关详细信息，请参阅[拒不付款、欺诈或滥用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
 

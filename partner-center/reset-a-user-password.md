@@ -8,11 +8,11 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a7643907f809fdb1fcfe58199ae98c32272416dd
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5794890"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57587700"
 ---
 # <a name="reset-a-user-password"></a>重置用户密码
 
@@ -21,7 +21,7 @@ ms.locfileid: "5794890"
 -  合作伙伴中心
    
 > [!NOTE]  
->  如果你已在德国 Microsoft 云的云解决方案提供商 (CSP) 计划中注册，信息，请参阅[德国 Microsoft 云合作伙伴中心中的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)有关重置用户密码。
+>  如果你注册 Microsoft 云德国云解决方案提供商 (CSP) 计划，请参阅[Microsoft 云德国的合作伙伴中心中的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)有关重置用户的密码信息。
 
 如果用户忘记了密码，请为他们分配一个临时密码。 他们可以在下次登录合作伙伴中心时使用它。
 
@@ -32,11 +32,11 @@ ms.locfileid: "5794890"
 
 3.  请选择页面底部的**重置密码**。
 
-4.  你将看到一个确认屏幕，显示用于新登录信息的临时密码。 你必须复制此内容并将其发送给新用户 – 你离开屏幕后，它将无法访问。 首次登录时，系统将提示用户更新密码。
+4.  你将看到一个确认屏幕，附带用于新登录的临时密码。 你必须复制此内容并将其发送给新用户 – 你离开屏幕后，它将无法访问。 首次登录时，系统将提示用户更新密码。
 
-**重置你自己的密码**
+**重置自己的密码**
 
-1.  登录合作伙伴中心。 然后在屏幕顶部选择你的姓名，再选择**我的简介**。
+1.  登录合作伙伴中心。 然后在屏幕顶部选择你的名字，再选择**我的个人资料**。
 
 2.  你可以看到你自己的角色，并且可以看到更改密码的说明。
 

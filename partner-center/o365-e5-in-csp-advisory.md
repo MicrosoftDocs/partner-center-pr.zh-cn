@@ -8,13 +8,13 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: ed22f6825d3af1d19385198b4d511e4b39d5e353
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "5795650"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57585330"
 ---
-# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作伙伴公告：云解决方案提供商中的 Office 365 E5 单一 SKU 可用性
+# <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作伙伴安全公告：加入 csp 后的 office 365 E5 单个 SKU 可用性
 
 **适用于**
 
@@ -53,13 +53,13 @@ ms.locfileid: "5795650"
 
 ### <a name="skus-appearing-on-the-csp-price-list-by-date-and-pstn-availability"></a>按日期和 PSTN 可用性在云解决方案提供商价目表上显示的 SKU
 
-**单一 Office 365 企业版发布前 E5 单一 SKU 启动**
+**在前一个 Office 365 客户端。E5 单个 SKU 启动**
 
 **产品/服务显示名称**
 
 **产品/服务 ID**
 
-**单价**
+**单位价格**
 
 
 **ERP**
@@ -94,13 +94,13 @@ PSTN 加载项
 
  
 
-**单一 Office 365 企业版发布后 E5 单一 SKU 启动**
+**之后的单个 Office 365 客户端版本。E5 单个 SKU 启动**
 
 **产品/服务显示名称**
 
 **产品/服务 ID**
 
-**单价**
+**单位价格**
 
 **ERP**
 
@@ -116,7 +116,7 @@ PSTN 加载项
 
 **新的单一 SKU**
 
-**没有 PSTN 会议的 Office 365 企业版 E5**
+**不含 PSTN 会议的 office 365 企业版 E5**
 
 **02c07b64-2cd3-4667-b014-561192fc5d1a**
 
@@ -124,7 +124,7 @@ PSTN 加载项
 
 **35.00**
 
-**用于非 PSTN 成员的新单一 SKU**
+**对于非 PSTN 成员的新单个 SKU**
 
 没有 PSTN 会议的 Office 365 企业版 E5
 
@@ -207,11 +207,11 @@ PSTN 加载项
 
 有关详细信息，请访问 [Drumbeat](https://drumbeat.office.com/Pages/home2016.aspx) 站点。 特定于 Office 365 企业版 E5 的资源位于**市场营销和出售**选项卡下的 [Office 365 E5 页面](https://drumbeat.office.com/partner/pages/e5.aspx)上：
 
--   **Office 365 企业版 E5 授权**
+-   **Office 365 企业版 E5 许可**
 
--   **Skype for Business PSTN 服务授权概述**
+-   **Skype for Business PSTN 服务许可概述**
 
--   **Office 365 E5 和 Skype for Business 授权常见问题**
+-   **Office 365 E5 和 Skype for Business 许可常见问题**
 
  
 
