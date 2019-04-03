@@ -17,10 +17,10 @@
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
 ## [云解决方案提供商计划直接合作伙伴新要求](direct-partner-new-requirements.md)
 ## [按地区和语言划分的 Microsoft 云协议](agreements.md)
-##[从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)
+## [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
-## [云解决方案提供商区域授权概述](regional-authorization-overview.md)
-## [云解决方案提供商区域授权租户合并](csp-regional-authorization-tenant-consolidation.md)
+## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
+
 
 ## [适用于在国家/地区云中销售](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
@@ -29,6 +29,7 @@
 # [管理合作伙伴中心帐户](partner-center-account-setup.md)
 ## [工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [更新你的合作伙伴个人资料](update-your-partner-profile.md)
+## [位置](manage-locations.md)
 ## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
 ## [创建用户帐户](create-user-accounts-and-set-permissions.md)
 ## [为用户分配角色和权限](permissions-overview.md)
