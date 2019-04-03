@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帐单、 转换、 间接经销商
-ms.openlocfilehash: 52995c301dba6a5ce347cbd9153f8c6ccaf88873
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c8173bbb8878448271a35178fd3f77016a6ba129
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587680"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682475"
 ---
 **适用于：**
  - 云解决方案提供商合作伙伴
@@ -120,8 +120,6 @@ ms.locfileid: "57587680"
 
 6. 若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头展开客户的记录。
 
->[!Note]
->目前，企业的 Microsoft Store 不允许的客户只需接受现有的直接帐单伙伴的间接经销商邀请。 这在不久的将来业务支持的 Microsoft Store。 在此之前，继续提交订单的现有直接帐单客户使用你直接帐单的功能。
 
 ## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>管理直接帐单客户和你间接经销商的客户
 
@@ -173,20 +171,24 @@ ms.locfileid: "57587680"
 
 - 无法生成邀请客户请求直接分销商关系。 **请求经销商关系**下**客户**在合作伙伴中心将不可用。 
 
-不会影响现有直接帐单订阅。 他们仍将有效，并且自动续订。 将继续由 Microsoft 直接计费，直到它们被取消。 您仍可以按以下方式管理现有的订阅： 
+>[!Note] 
+>如果已注册为间接经销商在直接帐单合作伙伴租户，你就能够将邀请发送给客户请求而不是直接帐单间接经销商关系。 
+
+- 无法创建新的沙盒租户。 每个直接帐单合作伙伴租户可以创建一个沙盒租户为了直接帐单 API 集成。 如果你之前未创建一个您将不能直接帐单合作伙伴功能已被限制之后执行此操作。 
+
+## <a name="whats-not-affected"></a>什么是不受影响
+
+不会影响现有直接帐单订阅。 他们仍将有效，并且自动续订。 将继续之前取消它们，由 Microsoft 直接计费。 
+
+继续按以下方式管理现有的订阅： 
 
 - 挂起的现有订阅 
 
 - 调整现有基于许可证的预订的座位数 
 
-- 调整到订阅的现有外接程序的座位数。 注意：您 ccan't 将新外接程序添加到现有订阅，因为它们被视为新的购买。 
+- 调整到订阅的现有外接程序的座位数。 注意：无法向现有订阅添加新外接程序，因为外接程序将被视为新的购买。 
 
 - 部署新的 Azure 资源和管理现有的 Azure 订阅下的现有 Azure 资源。 这包括通过 Azure marketplace 和 Visual Studio 订阅提供的产品。 
-
->[!Note] 
->如果已注册为间接经销商在直接帐单合作伙伴租户，你就能够将邀请发送给客户请求而不是直接帐单间接经销商关系。 
-
-- 无法创建新的沙盒租户。 每个直接帐单合作伙伴租户可以创建一个沙盒租户为了直接帐单 API 集成。 如果你之前未创建一个您将不能直接帐单合作伙伴功能已被限制之后执行此操作。 
 
 ## <a name="enroll-for-indirect-reseller-incentives"></a>注册进行间接经销商激励 
 

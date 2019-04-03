@@ -8,12 +8,12 @@ ms.author: labrenne
 Keywords: Azure, 共享服务, 租户
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ad0d7fcaa1a4a8f65f26dd2a3e826f44b10be80a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: ff1e169f54c71e634d07ade9981ecb11009fa9de
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586980"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682465"
 ---
 # <a name="add-azure-partner-shared-services"></a>添加 Azure 合作伙伴共享服务
 
@@ -57,4 +57,19 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 若要查看 Azure 合作伙伴共享服务的新定价文件，请转到**销售** > **定价和产品/服务**，然后选择当月的价目表。 在接下来的几周内，还将发布特定费率卡 API。
 
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 产品/服务和 Azure 合作伙伴共享服务
+
+从 2019 年 3 月 1 日，开始 Azure 合作伙伴共享服务 (APSS) 不再支持 Marketplace 产品/服务。   
+
+|**Marketplace 支持**   |**APSS 2019 年 3 月 1 日之前的版本支持**|**2019 年 3 月 1日日之后**|
+|---------------------------|:----------------------------|:-------------------|
+|将你自己的许可 (BYOL) 和免费服务   | 是   | 否|
+|其他第三方 marketplace 产品/服务   | 否   |否|
+
+
+合作伙伴具有 BYOL 或免费服务使用 APSS 部署将不会受到影响;但是在 2019 年 3 月 1 日之后它们将无法再购买新的 BYOL 或免费服务。 
+
+若要充分利用 Marketplace 产品/服务可用的完整目录 （而不仅仅是 BYOL 和免费服务） 建议 CSP 合作伙伴部署使用 web 直接 Azure 订阅的共享的服务。  CSP 合作伙伴部署了第三方 BYOL 和免费的以前服务在 Marketplace 中的资源并希望继续使用它们并部署更多第三方产品/服务，建议将 APSS 订阅迁移到 web 直接[迁移现有的 Azure 订阅](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
+
+合作伙伴计划继续使用后年 3 月 1 日，2019 APSS 订阅并想要部署新的第三方[BYOL 服务](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免费服务，可以从 Isv 能够将它们部署到其 APSS 订阅按照的说明。
 

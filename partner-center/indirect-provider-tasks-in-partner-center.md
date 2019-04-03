@@ -1,17 +1,17 @@
 ---
 title: 与云解决方案提供商计划中的间接经销商合作 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/29/2019
 description: 作为间接提供商或分销商，你可以与间接经销商合作以扩大影响。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 471445521361630ec73ae7490fa363d1bbf19284
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 0eb5afdf04655e52fe493d9039d4aa11fbca5a4b
+ms.sourcegitcommit: 29dd7a49981f998800279ee9f8c489a0e41fb371
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584370"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "58656388"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -86,16 +86,7 @@ ms.locfileid: "57584370"
 | 给予经销商信用奖励 | 将经销商与（新的或现有的）订阅相关联 | 在**新建订阅**页面上 |
 | 委派经销商作为特定订阅的客户支持 | 从**指定支持联系人**列表中选择经销商 | 在订阅的详细信息页上：选择客户的你**客户**页上，然后从客户的选择的订阅**订阅**页 |
 
-今天，间接提供商可以使用合作伙伴中心仪表板下订单，并根据需要选取 PartnerOnRecord 间接经销商。 如果它们不会获得间接经销商联系，我们将此视为 1 层事务和激励间接提供这种情况下。 如果他们不要选取一个，我们将顺序视为 2 层事务，并且我们据此激励间接提供商和间接经销商：
 
- 
-
-此外，还有一种体验，间接提供商还可以更新现有订阅 PartnerOnRecord:
-
- 
-
-您是否知道是否我们对现有文档如何间接提供商应管理 PartnerOnRecord 请设置？
-我之所以要求这是因为存在似乎是相当重要组未正确配置由间接提供程序，从而导致不正确的激励吐钱的 2 层事务。 经过的时间，如合作伙伴意识到这和启动联系 Microsoft 获取 backpay 上激励。 如果我们没有文档覆盖率此区域中，我想要获取您的帮助，将一个组合到一起。
 
 
 
@@ -177,7 +168,7 @@ ms.locfileid: "57584370"
 
 7.  完成后选择**提交**。 
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 有关管理客户帐户和订阅的详细信息，请参阅：
 

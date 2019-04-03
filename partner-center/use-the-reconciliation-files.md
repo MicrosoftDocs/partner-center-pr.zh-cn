@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce9b7cd9ead08b7709c68a0e967d64e9f2a32bd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585130"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682505"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -73,7 +73,7 @@ ms.locfileid: "57585130"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>描述</strong></td>
+<td><strong>说明</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -242,7 +242,7 @@ ms.locfileid: "57585130"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>描述</strong></td>
+<td><strong>说明</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -642,7 +642,7 @@ ms.locfileid: "57585130"
 
 <tr class="odd">
 <td>AlternateID</td>
-<td><p>备用标识符关联到一个 id。</p></td>
+<td><p>备用标识符关联到一个订单 id。</p></td>
 </tr>
 </tbody>
 </table>
@@ -875,7 +875,7 @@ ms.locfileid: "57585130"
 </tr>
 
 <tr class="odd">
-<td>标记</td>
+<td>Tags</td>
 <td><p>分配给测定仪按顺序对计费记录进行分组的标记。 例如，可以使用标记按使用测定仪的部门分配费用。</p></td>
 </tr>
 

@@ -1,60 +1,55 @@
 ---
 title: 通过云解决方案提供商销售软件订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/20/2019
 description: 现在，通过利用 Azure 混合权益，可以代表商业客户通过 Microsoft 合作伙伴中心和 Azure 门户获取、预配和管理 Azure 预留实例和服务器订阅。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Azure RI, Windows Server, SQL Server, 软件订阅
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 508a442b9a4e33e0ce5941733141164add306a1c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
+ms.sourcegitcommit: d7dbf7169864141b1cd5e3a75f0759c7da03a01e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586210"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "58307028"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
 
-采用通过 Microsoft 云解决方案提供商销售 Azure 预留实例以及 Windows Server 和 SQL Server 订阅的方式，Microsoft 使其合作伙伴能够满足客户对成本效益更高的解决方案的快速增长的需求，从而为高度可预测的持久云工作负载提供支持。 
+通过将 Azure 保留和 Windows Server 和 SQL Server 订阅到 Microsoft CSP 计划，Microsoft 可更好地让其合作伙伴来满足对更多经济高效的解决方案，以支持高度可预测的快速增长客户需求和持久的云工作负荷。 
 
-现在，通过利用 Azure 混合权益，可以代表商业客户通过 Microsoft 合作伙伴中心和 Azure 门户获取、预配和管理 Azure 预留实例和服务器订阅。 
+现在可以获取、 设置和管理 Azure 保留项和服务器订阅代表商业客户通过 Microsoft 合作伙伴中心和 Azure 门户通过利用 Azure 混合权益。 
 
-Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值，最多可节省 40% 的虚拟机费用。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 视版本而定，你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（Linux 虚拟机费率）。
+Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值，最多可节省 40% 的虚拟机费用。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 具体取决于版本，可以将转换或重新使用许可证，若要在 Azure 中运行 Windows Server 虚拟机并按较低的基础计算费率付费 （例如 Linux 虚拟机费率）。
 
 > [!NOTE]  
-> Azure 预留实例在以下市场中不可用：  
+> Azure 保留以下市场中不可用：  
 > * 阿根廷
-> * 阿塞拜疆
-> * 白俄罗斯
 > * 巴西
 > * 中国
-> * 印度
 > * 印度尼西亚
-> * 哈萨克斯坦
 > * 列支敦士登
 > * 马来西亚
 > * 墨西哥
 > * 俄罗斯
 > * 沙特阿拉伯
 > * 南非
-> * 韩国
-> * 台湾
 > * 土耳其
-> * 乌克兰
+
+<!--March 20, 2019 - this list of countries was correct as of today. Maggie last updated the list according to FAREAST\v-pubobb in bug 20907186.
+-->
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>代表客户购买软件订阅
 
 若要购买代表客户软件订阅，请转到客户的详细信息页上，选择**将产品添加**，然后按照屏幕说明创建并为你的订单支付费用。 所有商业定价不包括税金澳大利亚和巴西除外。 对于澳大利亚和巴西，价格包括税金。
 
-
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
-购买软件后，你和你的客户需要下载该软件。 请使用下面的过程执行此操作。 
+购买软件订阅后，请按照以下步骤来下载它。
 
 >[!NOTE]
->必须是管理员代理才能获取密钥和下载文件。 
+>您必须是管理员代理以下载软件并获取激活密钥。
 
 1. 转到客户的详细信息页面，然后选择**软件**。 可以看到你已代表客户购买的所有软件的列表。 
 2.  展开要下载的产品。 在**选择产品**字段中，选择所需的**版本**、**语言**和**文件类型/操作系统**。 
@@ -65,25 +60,26 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 >[!NOTE]
 >此链接将在两周或 50 次下载后（以先到者为准）过期。 链接过期后，请返回此页面并再次选择**获取密钥和下载**，以启用另一个两周或 50 次下载。 可以根据需要多次执行此操作。 
 
-
 ## <a name="cancel-a-purchase"></a>取消购买
-使用以下过程可取消购买。 取消完成后，将吊销软件密钥。 
+
+您可以取消的购买日期的 60 天内的软件购买。 Microsoft 不对收费的提前终止服务费，但是，您不能取消从购买之日的 60 天后购买。
+
+取消购买后，将吊销软件密钥。 
+
+请按照以下步骤来取消购买操作：
 
 >[!NOTE]
 >必须是管理员代理才能取消购买。 
 
->[!NOTE]
->可以在购买后 60 天内取消购买。 没有任何终止费用。 在 60 天后无法取消。 
-
-1.  在开始该过程之前，请确保你具有以下内容： 
+1.  在开始该过程之前，请确保你具有以下内容：
     -   客户租户 GUID 或域名
     -   订单 ID 或订阅 ID
     -   退款原因
     -   请求的金额
 
-2.  在客户的详细信息页面上，选择**软件**。 可以看到你已购买的所有软件的列表。 
+2.  在客户的详细信息页上，选择**软件**若要查看已为客户购买的所有软件的列表。 
 
-3.  找到要取消的软件，选择**取消**。 此时将打开**报告合作伙伴中心问题**页面。 
+3.  找到你想要取消，然后选择的软件**取消**。 此时将打开**报告合作伙伴中心问题**页面。 
 
 4.  在**详细信息**下的**问题类型**列表中，选择**云解决方案提供商代表客户购买/退款**。
 

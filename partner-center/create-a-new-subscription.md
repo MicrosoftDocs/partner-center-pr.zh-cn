@@ -1,19 +1,19 @@
 ---
 title: 创建、暂停或取消客户订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/11/2019
 description: 在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
-Keywords: 订阅，创建新的、 添加订阅、 挂起和取消，
+Keywords: 订阅，创建新的、 添加订阅、 挂起和取消挂起
 ms.localizationpriority: medium
-ms.openlocfilehash: e264ddca2c3b6452493dda0beff80a5637db0455
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584400"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756914"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -56,11 +56,11 @@ ms.locfileid: "57584400"
 
 ### <a name="suspend-a-subscription"></a>暂停订阅
 
-当你将订阅状态更改为**已暂停**时，用户将无法登录或访问服务。 管理员仍可登录和访问数据。
+当你将订阅状态更改为**已暂停**时，用户将无法登录或访问服务。
 
 1.  在合作伙伴中心菜单中，选择**客户**，然后从列表中选择客户。
 2.  选择要管理的订阅。
-3.  在“状态”部分中，选择“已暂停”。 然后“提交”更改。
+3.  在**状态**部分中，选择**已暂停**。 然后**提交**更改。
 4.  除非在 90 天内或在 90 天加上帐户打开时间与第一个计费周期之间的天数内（最长 120 天）重新激活订阅，否则所有数据将被删除。
 
 暂停订阅后，你在**暂停**按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 有关详细信息，请参阅[新的计费功能有关的常见问题](faq-about-new-billing-features.md)。
@@ -76,7 +76,7 @@ ms.locfileid: "57584400"
 
 1.  在合作伙伴中心菜单中，选择**客户**，然后从列表中选择客户。
 2.  选择要管理的订阅。
-3.  在中**状态**部分中，选择**取消**。 然后“提交”更改。
+3.  在中**状态**部分中，选择**取消**。 然后**提交**更改。
 
 ### <a name="choose-whether-to-automatically-renew-an-azure-marketplace-subscription"></a>选择是否要自动续订 Azure Marketplace 订阅
 
@@ -86,7 +86,7 @@ ms.locfileid: "57584400"
 
 1.  在合作伙伴中心菜单中，选择**客户**，然后从列表中选择客户。
 2.  选择要管理的订阅。
-3.  在中**状态**部分中，取消选中**自动续订**框。 然后“提交”更改。
+3.  在中**状态**部分中，取消选中**自动续订**框。 然后**提交**更改。
 
 
  

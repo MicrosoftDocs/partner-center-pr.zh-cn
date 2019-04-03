@@ -8,18 +8,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色、 权限、 添加用户、 分配角色、 admin、 代理，
 ms.localizationpriority: medium
-ms.openlocfilehash: dcdf7d11d90acffd4a9302ce37bd56de3a242d60
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: a314a3c551b360eb777bd0db180388aa85f2e7f8
+ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583810"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "57682455"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
-
-**适用于**
-
--  合作伙伴中心
 
 为员工需要访问合作伙伴中心创建用户帐户。 这些任务必须由用户管理员、帐户管理员或全局管理员来完成。 
 
@@ -44,27 +40,38 @@ ms.locfileid: "57583810"
 > [!NOTE]  
 >  如果你的全局管理员已离职或担任了其他职位，你必须在 [MPN 门户](https://partner.microsoft.com/support)上登记服务请求，才能添加新的全局管理员。 如果支持代理能够提供必要的个人身份信息以及关于你的组织的其他信息，则该代理可以请求将某位用户提升为全局管理员。
 
-## <a name="assign-user-permissions"></a>分配用户权限
+## <a name="assign-user-roles"></a>为用户分配角色
 
-合作伙伴中心访问权限是基于角色的。 分配给用户的权限会自定义用户的视图，仅显示用户完成其特定任务所需的功能。 
-
-若要在合作伙伴中心，您必须分配一个角色。  有两种常规类型的角色：管理员和代理。
-
-- 管理员权限来控制对合作伙伴中心功能的访问级别。 此设置会影响外部合作伙伴中心--计费管理员可以访问的 （甚至包括那些与 CSP 无关），所有 Microsoft 服务的帐单和用户帐户和客户之外的帐户 CSP 还可以访问的全局管理员。
-
-- 代理权限控制用户可以查看和更改哪种类型的客户数据和帐户信息。
-    
-角色的常规类别有： 
-- 管理员角色
-- 代理角色
-- 奖励角色
-- 引荐和市场营销角色
-
-
-在每个常规类别中，一个用户只能有一个角色，但该用户也可以在其他常规类别中拥有角色。 
+若要在合作伙伴中心，您必须分配一个角色。  目前，角色包括 Azure Active Directory 租户角色、 云解决方案提供商 (CSP) 角色和非 AAD 公司角色。 各个公司可以对所有这些角色的需求。
 
 >[!Important]
 >个人必须在你的租户访问合作伙伴中心中列出。 角色分配提供额外的访问权限。
+
+
+**AAD 租户角色包括**:
+- 全局管理员
+- 用户管理员
+
+**CSP 的角色包括**:
+- 管理员代理
+- 帐单管理员
+- 销售代理
+- 支持人员代理
+
+**管理 MPN 成员身份和公司 (非 AAD) 的角色**
+- MPN 合作伙伴管理员
+- 帐户管理员
+- 引荐管理员
+- 业务档案管理员
+- 奖励管理员和用户
+
+**控件面板供应商是 CSP 和非 AAD 角色**。
+- 全局管理员
+
+**来宾用户**必须是 AAD 租户的一部分，并且能与任何非 AAD 角色。
+
+有关角色以及每个角色可以执行哪些操作的特定信息，请参阅[分配用户权限](permissions-overview.md)。
+
 
 
 ### <a name="find-your-global-admin"></a>查找全局系统管理员
@@ -72,7 +79,7 @@ ms.locfileid: "57583810"
 有时用户可能需要更改其角色或新用户可能需要特定的角色分配。  
 若要查找的全局管理员可更改角色或从分配给新用户的角色的人员**设置图标**顶部的合作伙伴中心中，选择**用户管理**和筛选器在全局管理员。 
 
-有关角色以及每个角色可以执行哪些操作的特定信息，请参阅[分配用户权限](permissions-overview.md)。
+
 
 
 

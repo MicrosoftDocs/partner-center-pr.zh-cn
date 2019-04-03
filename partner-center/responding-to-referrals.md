@@ -1,30 +1,27 @@
 ---
-title: 响应引荐 | 合作伙伴中心
+title: 对引用做出响应 |合作伙伴中心
 ms.topic: article
-ms.date: 01/17/2019
+ms.date: 03/11/2019
 description: 作为合格的 Microsoft 合作伙伴，可以评估、 协商，并响应通过合作伙伴中心的引用。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 43b3245d7877156012ee9f1998a3049fe246d387
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: a9cabe4772fa60a3b56433998da81030916279f8
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585850"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756894"
 ---
-# <a name="responding-to-referrals"></a>响应引荐
+# <a name="respond-to-referrals"></a>回应引荐
 
 **适用于**
 
 -  合作伙伴中心
 
 作为合格的 Microsoft 合作伙伴，可以接收通过引用的潜在业务领导方式。 在合作伙伴中心，可以管理传入的潜在客户、 快速响应那些非常适合，并跳过或拒绝那些不是。 
-
-> [!IMPORTANT]
-> 我们已对某些更新引用管理体验，并正在推出到所有伙伴。 直到你的帐户设置为使用新的体验，某些功能可能会略有不同工作。 以下概括这些差异。 
 
 ## <a name="referral-management"></a>引荐管理
 
@@ -48,9 +45,6 @@ ms.locfileid: "57585850"
 *  **拒绝**:我们会将其作为存档**已拒绝**并通知客户选择不同的合作伙伴。
 
 如果您不在分配的时间段 （当前为 14 天） 内响应，我们会将其作为存档**已过期**并通知客户选择不同的合作伙伴。
-
-> [!NOTE]
-> 上面所述的过程将反映新的体验。 如果你的帐户不使用这种体验，你将看到**新建**而不是部分**收件箱**。 新引用，您必须 72 个小时选择**我想**(这将引用移动到一个单独**Evaluating**部分，并显示更多详细信息) 或**不，谢谢**（存档引用）。 如果选择**我想**，将可以在 7 天内接受引用。
 
 ### <a name="active-referrals"></a>活动引用
 

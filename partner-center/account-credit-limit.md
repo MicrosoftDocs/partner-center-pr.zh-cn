@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: 信用额度、 购买、 限制增加信用额度
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5183e3787f3573b0d7f2bd2f318fa48ef68c3922
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: eea3640ca69d97d3355fec98d700268f7433fb99
+ms.sourcegitcommit: 21be97e18e9d0f9aa007f3324bedd41d0af5fbab
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586180"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "58220797"
 ---
 # <a name="cloud-solution-provider-csp-account-credit-limits"></a>云解决方案提供商 (CSP) 帐户信用额度
 
@@ -22,14 +22,16 @@ ms.locfileid: "57586180"
 
 - 合作伙伴中心
 
-你成为云解决方案提供商计划中的合作伙伴后，你所在的组织会获得信用额度，便于你购买软件并销售给客户，同时等待客户付款给你。 若要查找你的信用额度，请查看最近的通信，其中对你的信用额度做出了具体说明。  
+在何时变为 CSP 计划中的合作伙伴，我们会自动授予你的公司信用额度。 具有信用额度，可购买软件供客户支付你在等待时向你客户销售。 
 
-## <a name="what-you-need-to-know-about-your-credit-limit"></a>你需要了解的信用额度事项
+## <a name="monitoring-your-credit-use"></a>监视你的信用额度使用
 
-你使用了 70% 的额度后，Microsoft 将向你组织的主要联系人发送电子邮件来通知你。 电子邮件将向你提供发票汇总，其中包括你应支付以维持服务的金额。 使用了 85% 的额度时，你还会收到通知。 如果你使用了 100% 的信用额度，Microsoft 会提前 24 小时通知你必须付款，否则你的帐户将被暂停。 
+当你已使用的信用额度的 70%时，我们将通过电子邮件通知你公司的主要联系人。 此电子邮件将包含你当前的信用额度余额、 发票和维护你的服务的指导原则的摘要。 当你已使用的信用额度的 85%时，我们将发送其他电子邮件。 应达到最大限制数的 100%，我们将通知你，必须进行的 24 小时内的付款以避免挂起你的帐户。 
 
-如果你的云解决方案提供商帐户被暂停，你将无法创建新客户、购买新订阅或更改现有订阅。
+如果你的帐户被挂起，您将不能创建新客户、 购买新订阅或向现有订阅进行更改。 在现有客户不受影响。 
 
 ## <a name="automatic-credit-limit-increase"></a>自动提升信用额度
 
-作为云解决方案提供商合作伙伴，Microsoft 将定期审查你的帐户，如果帐户状态良好，则有获取自动提升信用额度的资格。 如果你的帐户出现任何变动，Microsoft 会通知你。 
+Microsoft 会定期检查所有 CSP 合作伙伴的帐户。 如果你的帐户在处于正常状态，你可能有资格获得增加信用额度。 我们将通知你帐户的任何更改。 
+
+信用额度的详细信息，请联系 Microsoft 信用风险团队的ucmwrcsp@microsoft.com。 

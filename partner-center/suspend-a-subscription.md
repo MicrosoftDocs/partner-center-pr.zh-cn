@@ -1,18 +1,18 @@
 ---
 title: 暂停订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/11/2018
 description: 在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。
 ms.assetid: 552BE549-9746-42C1-A9CF-39E699340379
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b89b8182c8a15026ca91e321e97e3b75ac42a7ee
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: HT
+ms.openlocfilehash: acf9a30f10f5d0608843cd2e3e088ac9f6bb1559
+ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585310"
+ms.lasthandoff: 03/11/2019
+ms.locfileid: "57756884"
 ---
 # <a name="suspend-a-subscription"></a>暂停订阅
 
@@ -24,9 +24,9 @@ ms.locfileid: "57585310"
 
 在客户提出申请，或者在未付款或欺诈的情况下，合作伙伴可以暂停或取消订阅。
 
-当你将订阅状态更改为**已暂停**时，用户将无法登录或访问服务。 管理员仍可登录和访问数据。
+当你将订阅状态更改为**已暂停**时，用户将无法登录或访问服务。
 
-**挂起订阅**
+**暂停订阅**
 
 1.  从**合作伙伴中心**菜单中，选择**客户**，然后从列表中选择客户。
 2.  选择要管理的订阅。

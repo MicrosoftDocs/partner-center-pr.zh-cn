@@ -1,18 +1,18 @@
 ---
 title: 销售 Azure Marketplace 产品的订阅 |合作伙伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: 可以使用合作伙伴中心销售你的客户订阅的软件即服务 (SaaS) 产品发布到 Azure Marketplace 的独立软件供应商 (Isv)。
 author: JnHs
 ms.author: jenhayes
 keywords: 订阅 Marketplace 中，第三方 ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 074527f791cad6b0234994fc3985d9657f5acccd
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 98229a93d5ca4ba165fcfe7fc03a084c32c630b2
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587710"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508954"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>销售 Azure Marketplace 产品的订阅
 
@@ -32,5 +32,4 @@ ms.locfileid: "57587710"
 
 购买 Azure Marketplace SaaS 产品的订阅作为购买订阅的 Microsoft 产品的过程相同。 有关详细信息，请参阅[创建新的订阅](create-a-new-subscription.md)。 请注意，某些产品/服务可能不是适用于某些客户，具体取决于是否 ISV 支持客户的帐单邮寄国家/地区，或由于其他因素。
 
-即将推出，我们将允许您使用合作伙伴中心 Api 来管理你的客户的 Azure Marketplace 订阅。 
-
+此外可以使用[合作伙伴中心 Api](https://docs.microsoft.com/en-us/partner-center/develop/)可管理你的客户的 Azure Marketplace 订阅。

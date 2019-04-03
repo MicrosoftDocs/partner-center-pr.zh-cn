@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 成员身份权益, 成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: 09612dd127ad2bc17031c53a124a4536ba4a6661
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584700"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "57988211"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -21,7 +21,7 @@ ms.locfileid: "57584700"
 -  合作伙伴中心
 
 >[!IMPORTANT]
->本文介绍如何开始使用 Microsoft 合作伙伴网络 (MPN) 成员身份权益 （以前称为合作伙伴中心）-在合作伙伴中心中此站点。 如果未收到邀请以将你的公司信息从伙伴成员身份 Center (PMC) 移动到合作伙伴中心，应继续管理你的 MPN 成员资格权益在 PMC 中。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
+>本文介绍如何开始在合作伙伴中心-此站点中使用你的 Microsoft 合作伙伴网络 (MPN) 成员身份权益。 如果未收到邀请以将你的公司信息从伙伴成员身份 Center (PMC) 移动到合作伙伴中心，应继续管理你的 MPN 成员资格权益在 PMC 中。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。   
 
 加入 Microsoft 合作伙伴网络 (MPN) 后，你可以访问有助于业务构建和发展的成员身份权益。 如果你不是 MPN 的成员，可以加入 [MPN 站点](https://partner.microsoft.com/membership)。
 
@@ -102,7 +102,7 @@ ms.locfileid: "57584700"
 )，然后选择**提交请求**。
 
 
-#### <a name="see-also"></a>另请参阅
+#### <a name="see-also"></a>请参阅
 
 [添加用户并向其分配权限](create-user-accounts-and-set-permissions.md)
 

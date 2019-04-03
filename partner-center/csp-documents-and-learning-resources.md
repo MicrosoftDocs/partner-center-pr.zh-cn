@@ -1,19 +1,19 @@
 ---
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 03/27/2019
 description: 本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: edb36fa2764f4853d1d99653859a716be1c958d1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
+ms.sourcegitcommit: f9c930479a5d7b594a968d4f7cffb81aef8abc59
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585810"
+ms.lasthandoff: 03/27/2019
+ms.locfileid: "58508964"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商程序指南、 协议、 价格列表和产品/服务
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585810"
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
-查看本文中的信息，了解参与 Microsoft 云解决方案提供商 (CSP) 计划的要求。 
+查看本文中的信息，了解参与 Microsoft 云解决方案提供商 (CSP) 计划的要求。
 
 ## <a name="cloud-solution-provider-program-guide"></a>云解决方案提供商程序指南
 
@@ -61,7 +61,7 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>专业保密修正合同到 Microsoft 云协议 （德国）
 
-在德国，刑事代码 (部分 203) 和行为准则的专业代码需要某些客户端关系是以保持机密，例如，患者和其内科医生之间的关系和之间的关系律师和其客户端。 这些职业组必须确保专业保密。 有关这些和其他行业，若要从云解决方案提供商购买基于云的服务，云服务提供商必须结束与确保专业保密客户书面的协议。 
+在德国，刑事代码 (部分 203) 和行为准则的专业代码需要某些客户端关系是以保持机密，例如，患者和其内科医生之间的关系和之间的关系律师和其客户端。 这些职业组必须确保专业保密。 有关这些和其他行业，若要从云解决方案提供商购买基于云的服务，云服务提供商必须结束与确保专业保密客户书面的协议。
 
 如果您有在德国的业务，您可能需要向那里的客户除了 Microsoft 云协议提供此专业保密修正合同。
 
@@ -69,27 +69,22 @@ Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提�
 
 [Microsoft 云协议专业保密修正合同为德国 (DE) 的](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
-
 ## <a name="pricing"></a>定价
 
-
-下载的定价详细信息来自基于许可证的、 基于使用情况和一次性采购**定价和优惠**页上，可从你**合作伙伴中心**菜单。 
+下载的定价详细信息来自基于许可证的、 基于使用情况和一次性采购**定价和优惠**页上，可从你**合作伙伴中心**菜单。
 
 基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。 基于许可证的服务的示例包括 Office 365、企业移动性套件和 Microsoft Dynamics CRM。 
 
 基于用法的定价是动态的，并且经常更改。 基于使用情况的服务的示例包括 Microsoft Azure。
 
-一次性购买定价也是动态的。 一次性购买的示例包括 Microsoft Azure 保留和 Windows Server 和 SQL 软件的相应订阅。 
+一次性购买定价也是动态的。 一次性购买的示例包括 Microsoft Azure 保留和 Windows Server 和 SQL 软件的相应订阅。
 
-有关定价的 Azure Marketplace 产品/服务有关的信息，请转到**Marketplace**合作伙伴中心左侧的导航菜单中。 选择要查看有关发布服务器的 Sku，信息的产品和定价。 这些 Azure Marketplace 产品的价格可能会频繁变动。 很快会提供，我们将提供一个选项将导出所有定价数据，每日更新的列表。 我们还将使当前价格数据通过 Api 访问权限。 一旦这些选项才可用，我们将更新此页与如何使用它们的详细信息。
+有关定价的 Azure Marketplace 产品/服务有关的信息，请转到**Marketplace**合作伙伴中心左侧的导航菜单中。 选择要查看有关发布服务器的 Sku，信息的产品和定价。 这些 Azure Marketplace 产品的价格可能会频繁变动。 若要获取所有 Marketplace 产品的当前定价信息，请选择**导出价格列表**生成的所有定价数据电子表格。 因此通常您希望检查每日、 更新此信息。
 
 ## <a name="offers"></a>产品/服务
-
 
 加入 csp 后的合作伙伴可以销售各种 Microsoft 产品、 服务和解决方案，包括 Office 365、 企业移动性套件、 Microsoft Dynamics 和 Microsoft Azure。 有关哪些产品可供您销售这些产品系列中的详细信息，请参阅 CSP 产品/服务矩阵上**定价和优惠**页上，可从你**合作伙伴中心**菜单。 本文档按月更新。
 
 对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在**定价和产品/服务**页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 
 若要了解有关 Azure Marketplace 产品/服务由独立软件供应商 (Isv) 发布信息，请访问**Marketplace**左侧的导航菜单中的页。 目前，可以在合作伙伴中心购买仅 SaaS （软件即服务） 的产品类型。 你将需要访问 Azure 门户来获取其他类型的 Azure Marketplace 产品/服务。
-
-

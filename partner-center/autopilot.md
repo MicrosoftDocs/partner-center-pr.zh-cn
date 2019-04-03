@@ -2,17 +2,17 @@
 title: 自定义设备的开箱体验与 Windows Autopilot 配置文件 |合作伙伴中心
 description: 预配置设备的开箱体验使用 Autopilot 配置文件。
 ms.topic: article
-ms.date: 02/06/19
+ms.date: 03/18/19
 author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot、 windows autopilot、 microsoft autopilot、 零接触部署、 oobe、 登录屏幕、 开箱
 ms.localizationpriority: medium
-ms.openlocfilehash: 00c4bc3717b5f40984f60dd2c04ee7fec10b80da
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: e940a7ccf79f6b43d3712a2f3ae2f9b150e1473e
+ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586910"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "58162217"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自定义设备的开箱体验与 Windows Autopilot 配置文件
 
@@ -45,7 +45,7 @@ ms.locfileid: "57586910"
 
 - CSP 合作伙伴可以继续为现有的客户必须与其分销商关系管理 Autopilot 配置文件，即使客户已删除的合作伙伴委派的管理权限。
 
-- 为客户已添加由你或由另一个 CSP 合作伙伴可以管理现有的设备。
+- 为已添加的客户，可以管理现有的设备。
 
 - 不能管理你的客户已上传到 Microsoft Store for Business 或 Microsoft Intune 门户的设备。
 
