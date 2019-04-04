@@ -3,8 +3,13 @@ title: 由世纪互联运营的合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2018
 description: 使用由世纪互联运营的合作伙伴中心在中国转售云解决方案提供商服务。
+ms.openlocfilehash: 236f425c9e49ca7683b3c337f0258b7a86f76ca9
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588260"
 ---
-   
 # <a name="partner-center-operated-by-21vianet"></a>由世纪互联运营的合作伙伴中心
 
 欢迎使用由世纪互联运营的合作伙伴中心，这是经销商在中国转售世纪互联的云解决方案提供商 (CSP) 服务的企业门户。 

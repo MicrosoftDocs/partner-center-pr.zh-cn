@@ -4,13 +4,18 @@ hide_bc: true
 title: 从此处开始获取有关合作伙伴中心的帮助
 ms.topic: landing-page
 ms.date: 01/29/2019
-description: "合作伙伴中心可以帮助你通过 Microsoft 云解决方案提供商 (CSP) 计划发展你的业务。 可以在其中设置你的帐户、与客户联系、购买 Action Pack 订阅，以及查找 CSP 和 MPN 计划中的合作伙伴的更多信息。\_"
+description: 合作伙伴中心可以帮助你通过 Microsoft 云解决方案提供商 (CSP) 计划发展你的业务。 可以在其中设置你的帐户、与客户联系、购买 Action Pack 订阅，以及查找 CSP 和 MPN 计划中的合作伙伴的更多信息。 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
+ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
+ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "57588320"
 ---
-
 # <a name="welcome-to-partner-center"></a>欢迎使用合作伙伴中心
 
 Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端关系的一站式位置。 它提供了工具和资源来帮助你发展业务，这些工具和资源包括成员身份选项、客户引荐以及云解决方案提供商 (CSP) 计划。 可以在合作伙伴中心帮助资料库中查找用于管理帐户、与客户联系、购买 Action Pack 订阅以及注册奖励计划的最佳做法。
