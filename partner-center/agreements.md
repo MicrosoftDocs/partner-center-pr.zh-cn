@@ -1,22 +1,22 @@
 ---
 title: Microsoft 云协议客户模板 |合作伙伴中心
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 03/11/2019
 description: 查找并下载特定于区域和语言版本的 Microsoft 云协议来查看你的客户。
 author: MaggiePucciEvans
 ms.author: evensma
 keywords: Microsoft 云协议、 客户协议模板、 CSP 客户协议，Microsoft 云协议，MCA，CSP，其中我可以出售通过 CSP？，CSP 国家/地区和区域，在多个语言中，CSP North America，CSP 中美洲，CSP 南部 CSP MCAsAmerica、 CSP 加勒比海地区、 美国政府版、 Microsoft 云德国 CSP，CSP 中东、 CSP 非洲、 CSP 欧洲，CSP 亚洲、 CSP 太平洋、 CSP MCAs CSP Microsoft 云
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a7e0156136a52f9bfbaccbb76fc1316cb327c55
-ms.sourcegitcommit: 9bf271e05d7114e4c954a8102471b74323a3dafc
+ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "58320750"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430216"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 
-**适用于**
+**适用对象**
 
 - 云解决方案提供商合作伙伴
 

@@ -1,22 +1,22 @@
 ---
 title: 确认客户接受 Microsoft 云协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 02/22/2019
+ms.date: 04/5/2019
 Description: 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认客户接受 Microsoft 云协议。 更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴要接受该协议的人员有关的某些详细信息，从而确认接受。
 author: LauraBrenner
 ms.author: v-petand
 keywords: 客户、 客户同意，MCA、 Microsoft 云协议、 客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: e8c4b66027eeb9e285bd09a4b77aaf9bb6574188
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587560"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430126"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
-**适用于**
+**适用对象**
 -  合作伙伴中心
 
 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认客户接受 Microsoft 云协议。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议： 
@@ -33,58 +33,26 @@ ms.locfileid: "57587560"
 
 若要了解详细信息，请参阅 Microsoft 云协议客户接受确认[Frequently Asked Questions](https://docs.microsoft.com/en-us/partner-center/confirm-consent-faq)。
 
-## <a name="schedule"></a>计划
+直接帐单合作伙伴和间接提供商必须确认客户验收的 Microsoft 云协议时通过合作伙伴中心或合作伙伴中心 API 事务处理。 确认为*必选项*。
 
-**2018 年 8 月 7日日**
+如果没有为给定客户提供确认：
 
--   直接计费合作伙伴和间接提供商可以确认客户接受 Microsoft 云协议。 确认为*可选项*。
+-   你将无法为此客户创建新订单。
 
--   可以通过合作伙伴中心或合作伙伴中心 API 的客户验收的确认。
+-   你将无法为此客户更改基于席位的订阅的席位计数。
 
--   只有 Microsoft 公共云支持客户接受确认。
+可以通过合作伙伴中心或合作伙伴中心 API 的客户验收的确认。 若要执行此操作通过合作伙伴中心 API，请参阅以下主题： 
 
+-   [获得客户同意的确认](https://docs.microsoft.com/en-us/partner-center/develop/get-confirmation-of-customer-consent)
 
-**2018 年 11 月 7日日**
+-   [获取协议元数据](https://docs.microsoft.com/en-us/partner-center/develop/get-agreement-metadata)
 
--   直接帐单合作伙伴和间接提供商**必须**确认客户验收的 Microsoft 云协议时通过合作伙伴中心仪表板事务处理。 确认为*必选项*。
-
--   如果没有为给定客户提供确认：
-
-    -   你将无法为此客户创建新订单。
-
-    -   你将无法为此客户更改基于席位的订阅的席位计数。
-
--   可以通过合作伙伴中心或合作伙伴中心 API 的客户验收的确认。
-
--   只有 Microsoft 公共云支持客户接受确认。
-
--   这适用于生产环境和沙盒环境。
-
-**2018 年 3 月 11日日**
-
-- 直接帐单合作伙伴和间接 Providersmust 确认客户验收 CSP 沙盒环境中的 Microsoft 云协议时通过合作伙伴中心 API 事务处理。
-- 如果没有为给定客户提供确认：
-
-    - 你将无法创建此客户使用合作伙伴中心 API 的新订单。
- 
-    - 你将无法更改座位数的这位客户使用合作伙伴中心 API 的现有基于席位的订阅。
-- 只有 Microsoft 公共云支持客户接受确认。 
-
-**12018 年 3 月 22 日**
-
-- 直接帐单合作伙伴和间接 Providersmust 确认客户验收 CSP 生产环境中的 Microsoft 云协议时通过合作伙伴中心 API 事务处理。
-
-- 如果没有为给定客户提供确认：
-  - 你将无法创建此客户使用合作伙伴中心 API 的新订单。
-
-  - 你将无法更改座位数的这位客户使用合作伙伴中心 API 的现有基于席位的订阅。
--  只有 Microsoft 公共云支持客户接受确认。
+-   [确认客户同意](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
 
+只有 Microsoft 公共云支持客户接受确认。
 
-
-
-
+这适用于生产环境和沙盒环境。
 
 ## <a name="confirming-customer-acceptance-in-partner-center"></a>确认在合作伙伴中心中的客户验收
 
@@ -120,7 +88,7 @@ ms.locfileid: "57587560"
 
 3.  在**Microsoft 云协议**下选择**更新**。
 
-![更新](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
 4.  输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。
 

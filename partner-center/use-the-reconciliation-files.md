@@ -7,22 +7,38 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9997b01c76dacb736baa33f458def0b820753f1d
-ms.sourcegitcommit: 9a2bda49446030e60251c9c913259472ff2eed9a
+ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
+ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "57682505"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "59430196"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
-**适用于**
+**适用对象**
 
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
 在计费周期中每个收费的详细的明细项目视图，从合作伙伴中心下载的对帐文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
+
+## <a name="formatting-issues"></a>格式设置问题
+
+偶尔侦测文件可能会遇到格式问题。 （这可能发生，例如，如果不使用 EN-US 区域设置。）请按照以下步骤来解决这些问题。 
+
+<ol>
+<li>在 Excel 中打开.csv 文件，并选择第一列。 在功能区中，选择<strong>数据</strong>，然后选择<strong>分列</strong>。</li>
+
+<li>在转换文本分列向导，选择<strong>分隔的文件类型</strong>，然后选择<strong>下一步</strong>。</li> 
+
+<li>在分隔符字段中，选择<strong>逗号</strong>。 如果<strong>选项卡</strong>是尚未选中，你可以将其保留。 选择“<strong>下一步</strong>”。</li>
+
+<li>在列数据格式字段中，选择<strong>日期：MDY</strong>，然后选择<strong>下一步</strong>。</li> 
+
+<li>在列数据格式字段中，选择<strong>文本</strong>的列，并选择所有金额<strong>完成</strong>。</li>
+</ol>
 
 ## <a href="" id="itemizebypartner"></a>由合作伙伴详细列举
 
@@ -73,7 +89,7 @@ ms.locfileid: "57682505"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>说明</strong></td>
+<td><strong>描述</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -242,7 +258,7 @@ ms.locfileid: "57682505"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>说明</strong></td>
+<td><strong>描述</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -902,13 +918,13 @@ ms.locfileid: "57682505"
 <tbody>
 <tr>
 <td>
-<p><strong>发票费用说明</strong></p>
+<p><strong>发票费用描述</strong></p>
 </td>
 <td>
-<p><strong>对帐文件费用说明 （ChargeType 列）</strong></p>
+<p><strong>对帐文件费用描述（ChargeType 列）</strong></p>
 </td>
 <td>
-<p><strong>什么是此费用？</strong></p>
+<p><strong>此费用是什么？</strong></p>
 </td>
 <td>
 <p><strong>如何将这些 ChargeTypes 映射到发票？</strong></p>
@@ -1003,7 +1019,7 @@ ms.locfileid: "57682505"
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>使用费</strong></p>
+<p><strong>使用费用</strong></p>
 </td>
 <td>
 <p>评估取消时的使用费用</p>
@@ -1025,7 +1041,7 @@ ms.locfileid: "57682505"
 </tr>
 <tr>
 <td>
-<p><strong>信用额度</strong></p>
+<p><strong>退款额</strong></p>
 </td>
 <td>
 <p>偏移行项</p>
@@ -1084,7 +1100,7 @@ ms.locfileid: "57682505"
 <p><strong>基于许可证的折扣</strong></p>
 </td>
 <td>
-<p><em>可能会应用于多个费用类型</em></p>
+<p><em>可能应用于多种费用类型</em></p>
 </td>
 <td>
 <p></p>
@@ -1098,8 +1114,8 @@ ms.locfileid: "57682505"
 <p><strong>税款</strong>&nbsp;或&nbsp; <strong>VAT</strong></p>
 </td>
 <td>
-<p><em>可能会应用于多个费用类型</em></p>
-<p><em>异常：&quot;行项的偏移量&quot;已包含的税款。请参阅上面的信用额度。</em></p>
+<p><em>可能应用于多种费用类型</em></p>
+<p><em>例外：&quot;行项的偏移量&quot;已包含的税款。 请参阅上述“退款额”。</em></p>
 </td>
 <td>
 <p>税款或增值税 (VAT)</p>
