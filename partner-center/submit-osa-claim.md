@@ -7,16 +7,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励声明、 合作声明、 合作资金，OSA、 ISV，收入关联
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d043d59c5ef96e42587d36e128e7d1f556c9c5b
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: d07e0e4cab70bc4725b3f90ca0b4664971014cab
+ms.sourcegitcommit: 1dccb3fd6b1ea08cabc8251b8a0eb7fe68c39f51
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430630"
+ms.lasthandoff: 04/16/2019
+ms.locfileid: "59619303"
 ---
-#<a name="submit-your-osa-claims-in-partner-center"></a>提交您的 OSA 声明在合作伙伴中心
+# <a name="submit-your-osa-claims-in-partner-center"></a>在合作伙伴中心提交 OSA 申请
 
-**适用对象**
+**适用于**
 
 -  合作伙伴中心
 
@@ -28,17 +28,17 @@ ms.locfileid: "59430630"
 -   **有银行和税务信息**合作伙伴中心中输入。 
 -   **满足 OSA 销售资格认证和收入要求**。 （有关详细信息，请参阅 OSA 销售指南，位于上 aka.ms/partnerincentives OSA 部分下）。这不适用于 Isv 查找仅收入关联。 
 
-##<a name="submitting-your-claim"></a>提交您的报销申请
+## <a name="submitting-your-claim"></a>提交您的报销申请
 
 您必须从事务的提交您的报销申请的日期的 90 天。 如果提交您的报销申请后事务的时间超过 90 天，不会获得销售奖励，从该销售。 
 
 如果你是 ISV 合作伙伴和解决方案帮助影响客户选择的 Microsoft Dynamics 365 解决方案，您还可声明收入关联。   
 
-##<a name="payment-schedule"></a>付款计划
+## <a name="payment-schedule"></a>付款计划
 
 你将收到的已批准的激励声明信赖期结束后的 45 天内的付款。 具有要争议支付的收入周期结束后的 90 天。 支付计算和方法有关的信息，请参阅 OSA 销售指南，位于上 aka.ms/partnerincentives OSA 部分下。
 
-##<a name="maintaining-your-program-eligibility"></a>维护计划的资格
+## <a name="maintaining-your-program-eligibility"></a>维护计划的资格
 
 Microsoft 联机服务顾问销售奖励，为赢得、 计算和支付的每月评估的资格。 Microsoft 可以批准并发布激励付款之前，必须满足特定条件。 有关详细信息，请参阅 OSA 销售指南，位于上 aka.ms/partnerincentives OSA 部分下。
 
@@ -60,7 +60,9 @@ Microsoft 联机服务顾问销售奖励，为赢得、 计算和支付的每月
 
 5.  选择你想要将与此声明，相关联，然后选择的订阅**继续**。
 
->[!说明] 验证名称和地理区域正确之前选择一个订阅。 
+>[!NOTES]
+
+>验证名称和地理区域正确之前选择一个订阅。 
 
 >用一个黄色的三角形，与其他联机服务顾问相关联的订阅进行标记。 您仍可以选择将与它们相关联。 
 
@@ -76,7 +78,7 @@ Microsoft 联机服务顾问销售奖励，为赢得、 计算和支付的每月
 
 若要查看收入和支出数据，请参阅付款和报告。 
  
-#<a name="submit-an-isv-revenue-association-claim"></a>提交的 ISV 收入关联声明
+# <a name="submit-an-isv-revenue-association-claim"></a>提交的 ISV 收入关联声明
 
 1.  在概述页下**所有的奖励计划**，选择**OSA**。
 
@@ -86,7 +88,9 @@ Microsoft 联机服务顾问销售奖励，为赢得、 计算和支付的每月
 
 4.  选择你想要将与此声明相关联，然后选择的订阅**继续**。
 
->[!说明] 验证名称和地理区域正确之前选择一个订阅。 
+>[!NOTES]
+
+>验证名称和地理区域正确之前选择一个订阅。 
 
 >已与你的公司关联的订阅不能再次为相关联。  
 
