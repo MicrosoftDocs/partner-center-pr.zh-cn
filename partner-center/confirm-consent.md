@@ -1,23 +1,29 @@
 ---
 title: 确认客户接受 Microsoft 云协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 04/5/2019
+ms.date: 04/16/2019
 Description: 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认客户接受 Microsoft 云协议。 更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴要接受该协议的人员有关的某些详细信息，从而确认接受。
 author: LauraBrenner
 ms.author: v-petand
 keywords: 客户、 客户同意，MCA、 Microsoft 云协议、 客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 28bc7c1dea842f9fbfc2778dfad1a8e5615a6bd7
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.openlocfilehash: 9dad303b419f3dadd33f4937933638c60c45994b
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "59430126"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "59652249"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
-**适用对象**
+**适用于**
 -  合作伙伴中心
+
+> [!NOTE]
+> 在 Microsoft 公有云合作伙伴中心目前支持的协议资源。 不适用于：
+> * 由世纪互联运营的合作伙伴中心
+> * 德国 Microsoft 云合作伙伴中心
+> * Microsoft Cloud for US Government 合作伙伴中心
 
 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认客户接受 Microsoft 云协议。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议： 
 
@@ -27,7 +33,7 @@ ms.locfileid: "59430126"
 
 -   电子邮件地址
 
--   电话号码
+-   电话号码（可选）
 
 -   接受日期
 
@@ -49,8 +55,6 @@ ms.locfileid: "59430126"
 
 -   [确认客户同意](https://docs.microsoft.com/en-us/partner-center/develop/confirm-customer-consent)
 
-
-只有 Microsoft 公共云支持客户接受确认。
 
 这适用于生产环境和沙盒环境。
 
