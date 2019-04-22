@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: 奖励声明、 合作声明、 合作资金，OSA、 ISV，收入关联中的域名，目录 ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a267de71c050ede872feaf6e1b24588fba74792
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430631"
 ---
 #<a name="find-your-customers-domain-name-and-directory-id"></a>查找客户的域名和目录 ID
 
-**适用对象**
+**适用于**
 
 -  合作伙伴中心
 

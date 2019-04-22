@@ -8,15 +8,15 @@ ms.author: evensma
 keywords: Microsoft 云协议、 客户协议模板、 CSP 客户协议，Microsoft 云协议，MCA，CSP，其中我可以出售通过 CSP？，CSP 国家/地区和区域，在多个语言中，CSP North America，CSP 中美洲，CSP 南部 CSP MCAsAmerica、 CSP 加勒比海地区、 美国政府版、 Microsoft 云德国 CSP，CSP 中东、 CSP 非洲、 CSP 欧洲，CSP 亚洲、 CSP 太平洋、 CSP MCAs CSP Microsoft 云
 ms.localizationpriority: medium
 ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430216"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 
-**适用对象**
+**适用于**
 
 - 云解决方案提供商合作伙伴
 
@@ -283,7 +283,7 @@ November 5, 2018 - commenting out this section because we've stopped accepting n
 - 所罗门群岛：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Mar2019_CR.pdf)
 - 韩国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_KOR_ENG_Sep20172_CR.pdf  )，[朝鲜语](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_KOR_KOR_Sep20172_CR.pdf)    
 - 斯里兰卡：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Mar2019_CR.pdf)    
-- 台湾：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_TAI_ENG_Sep20172_CR.pdf )，[繁体中文](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_TAI_CHT_Sep20172_CR.pdf)
+- 中国台湾：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_TAI_ENG_Sep20172_CR.pdf )，[繁体中文](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_TAI_CHT_Sep20172_CR.pdf)
 - 泰国：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Mar2019_CR.pdf)
 - Timor Leste:[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Mar2019_CR.pdf)
 - 托克劳：[英语](http://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_Asia_ExJPN,KOR,TAI_ENG_Mar2019_CR.pdf)

@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
 ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430106"
 ---
 # <a name="incentives-co-op-claims-overview"></a>奖励合作申请概述
 
-**适用对象**
+**适用于**
 
 - 合作伙伴中心
 
@@ -32,12 +32,12 @@ ms.locfileid: "59430106"
 >[!NOTE]
 >Microsoft 保留索取原始执行证明 (POE) 文档的权利。 从活动日期起所有原始文档均保留 24 个月。 
 
-|**具体方法为**   |**请阅读以下内容**   |
+|**若要执行此操作**   |**阅读此内容**   |
 |-----------------|:--------------------------------------|
-|提交申请并随附正确的文档|[创建和管理奖励计划活动申请](create-incentives-claims.md)|
-|提交申请后，管理其他文档请求|[创建和管理奖励计划活动申请](create-incentives-claims.md)  |
-|确保了解活动申请的基本要求|[了解奖励申请基本要求](core-requirements.md)   |
-|了解完整的奖励计划详细信息|[合作伙伴奖励合作指南](https://assets.microsoft.com/coop-guidebook.pdf)
+|提交申请并随附正确的文档|[创建和管理的奖励计划活动声明](create-incentives-claims.md)|
+|提交申请后，管理其他文档请求|[创建和管理的奖励计划活动声明](create-incentives-claims.md)  |
+|确保了解活动申请的基本要求|[知道奖励声明核心要求](core-requirements.md)   |
+|了解完整的奖励计划详细信息|[合作伙伴奖励 Co-op 指南](https://assets.microsoft.com/coop-guidebook.pdf)
 |提交 OSA 销售费用报销申请或 ISV 收入关联声明 |[提交您的 OSA 声明在合作伙伴中心](submit-osa-claim.md)|
                                                                                  
                                    

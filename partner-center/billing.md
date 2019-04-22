@@ -9,15 +9,15 @@ ms.author: evansma
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: medium
 ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430116"
 ---
 # <a name="billing"></a>计费
 
-**适用对象**
+**适用于**
 
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
@@ -38,17 +38,17 @@ ms.locfileid: "59430116"
 -   向你的客户发送一张包含所有费用的帐单。
 
 ## <a name="billing-resources"></a>计费资源
-|**相关信息**   |**请阅读以下内容**    |
+|**有关的信息**   |**阅读此内容**    |
 |:-----------------------------|:-----------------|
 |有关计费、付款、发票等内容的基础知识   |[计费基础知识](billing-basics.md)
-|许多新的计费功能，例如按年计费   |[有关新计费功能的常见问题解答](faq-about-new-billing-features.md)|
-|类型的计费   |[了解在合作伙伴中心计费类型](billing-different-types.md)   |
-|阅读帐单的关键   |[阅读帐单](read-your-bill.md)   |
+|许多新的计费功能，例如按年计费   |[有关计费的新功能的常见问题](faq-about-new-billing-features.md)|
+|类型的计费   |[了解合作伙伴中心内的计费类型](billing-different-types.md)   |
+|阅读帐单的关键   |[读取你的帐单](read-your-bill.md)   |
 |如何阅读和使用对帐文件   |[使用对帐文件](use-the-reconciliation-files.md)|
 |常见计费方案（若要查找其他计费方案，请参阅[新计费功能的常见问题解答](faq-about-new-billing-features.md)）|[常见计费方案](common-billing-scenarios.md)|
 |税收义务   | [税务和免税](tax-and-tax-exemptions.md)|
 |基于使用情况的预算    |[为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)|
-|如果发生拒不付款、欺诈或滥用的情况该怎么办   |[拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)|
+|如果发生拒不付款、欺诈或滥用的情况该怎么办   |[非付款、 欺诈或滥用](non-payment--fraud--or-misuse.md)|
 
 
 

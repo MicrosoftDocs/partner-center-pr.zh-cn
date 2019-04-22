@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金, 核心要求
 ms.localizationpriority: medium
 ms.openlocfilehash: c5a48d7624baf3fd4b0a2100625c7b463f2f2413
-ms.sourcegitcommit: 6e30c3fd5445d805c88fbdd2c2cebce989114091
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/04/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59019430"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>奖励合作申请的核心要求
 
-**适用对象**
+**适用于**
 
 - 合作伙伴中心
 

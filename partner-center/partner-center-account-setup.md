@@ -9,15 +9,15 @@ ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
 ms.openlocfilehash: 6b0e9ba672bb22d4b72c58d5a344bbd736f243f9
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430176"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
-**适用对象**
+**适用于**
 
 -  合作伙伴中心
 
@@ -31,14 +31,14 @@ ms.locfileid: "59430176"
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>帮助你管理合作伙伴中心帐户的资源
 
-|**具体方法为**   |**请阅读以下内容**   |
+|**若要执行此操作**   |**阅读此内容**   |
 |-----------------------|:-----------------------|
 |确保你公司的档案是最新的   |[更新你的合作伙伴个人资料](update-your-partner-profile.md)|
 |需要在合作伙伴中心协同工作，你公司中的每个人都必须分配角色。 每个角色都具备特定权限和任务。|[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)|
 |查看每个角色需要的权限|[为用户分配角色和权限](permissions-overview.md)
 |管理你公司的位置|[管理您的合作伙伴帐户：位置](manage-locations.md)
 |如果员工忘记密码，你需要进行密码重置。  |[重置用户密码](reset-a-user-password.md)|
-|务必推广公司，以便客户能够找到你   |[创建业务档案](create-a-marketing-profile.md)|
+|务必推广公司，以便客户能够找到你   |[创建业务资料](create-a-marketing-profile.md)|
 |整理目录，以便最重要的产品位于列表顶部   |[自定义目录](customize-the-catalog.md)|
 |关注当前定价和产品/服务的最新消息   |[定价和产品/服务](pricing-and-offers.md)|
 

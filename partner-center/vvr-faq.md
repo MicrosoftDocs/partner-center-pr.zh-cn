@@ -8,15 +8,15 @@ ms.author: labrenne
 keywords: 培训凭证，软件保障，培训、 验证凭证，保留凭证
 ms.localizationpriority: medium
 ms.openlocfilehash: 17062a089a9c080eef2bd83a0589d09b2c3068db
-ms.sourcegitcommit: 283aff5f4251e09fbc92c2cd7467cab598ed91c0
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "58863985"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常见问题解答：使用凭证验证和兑换工具 
 
-**适用对象**
+**适用于**
 
 - 合作伙伴中心
 
@@ -36,7 +36,7 @@ ms.locfileid: "58863985"
 - 请联系[PMC 支持团队](mailto:proghelp@microsoft.com)。 
 
 
-**我的公司已从 PMC 迁移到合作伙伴中心。 我将需要执行任何操作特定于工作中 VVR？** 
+**我的公司已从 PMC 迁移到合作伙伴中心。我将需要执行任何操作特定于工作中 VVR？** 
 
 - 你可以如何使用合作伙伴中心 VVR。  若要使用 VVR，MPN 合作伙伴管理员可以登录到合作伙伴中心使用其工作帐户电子邮件。 如果你想要添加新用户，全局管理员可以执行此操作。 如果你有权访问合作伙伴中心，请转到**访问管理**，选择**用户**，并筛选**MPN 管理员**的**全局管理员**。这将提供你公司的 MPN 和全局管理员的列表。  
 

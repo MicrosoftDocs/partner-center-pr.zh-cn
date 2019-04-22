@@ -8,15 +8,15 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 0d986ca81e77578ecbb79b909d8f2a8afc4777e4
-ms.sourcegitcommit: 275d3eee5613d52f0ac7b8c78f7a7ddd74f56c9e
+ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2019
+ms.lasthandoff: 04/18/2019
 ms.locfileid: "59430196"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
-**适用对象**
+**适用于**
 
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
@@ -89,7 +89,7 @@ ms.locfileid: "59430196"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>描述</strong></td>
+<td><strong>说明</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -258,7 +258,7 @@ ms.locfileid: "59430196"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>描述</strong></td>
+<td><strong>说明</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -918,13 +918,13 @@ ms.locfileid: "59430196"
 <tbody>
 <tr>
 <td>
-<p><strong>发票费用描述</strong></p>
+<p><strong>发票费用说明</strong></p>
 </td>
 <td>
-<p><strong>对帐文件费用描述（ChargeType 列）</strong></p>
+<p><strong>对帐文件费用说明 （ChargeType 列）</strong></p>
 </td>
 <td>
-<p><strong>此费用是什么？</strong></p>
+<p><strong>什么是此费用？</strong></p>
 </td>
 <td>
 <p><strong>如何将这些 ChargeTypes 映射到发票？</strong></p>
@@ -1019,7 +1019,7 @@ ms.locfileid: "59430196"
 </tr>
 <tr>
 <td rowspan="2">
-<p><strong>使用费用</strong></p>
+<p><strong>使用费</strong></p>
 </td>
 <td>
 <p>评估取消时的使用费用</p>
@@ -1041,7 +1041,7 @@ ms.locfileid: "59430196"
 </tr>
 <tr>
 <td>
-<p><strong>退款额</strong></p>
+<p><strong>信用额度</strong></p>
 </td>
 <td>
 <p>偏移行项</p>
@@ -1100,7 +1100,7 @@ ms.locfileid: "59430196"
 <p><strong>基于许可证的折扣</strong></p>
 </td>
 <td>
-<p><em>可能应用于多种费用类型</em></p>
+<p><em>可能会应用于多个费用类型</em></p>
 </td>
 <td>
 <p></p>
@@ -1114,8 +1114,8 @@ ms.locfileid: "59430196"
 <p><strong>税款</strong>&nbsp;或&nbsp; <strong>VAT</strong></p>
 </td>
 <td>
-<p><em>可能应用于多种费用类型</em></p>
-<p><em>例外：&quot;行项的偏移量&quot;已包含的税款。 请参阅上述“退款额”。</em></p>
+<p><em>可能会应用于多个费用类型</em></p>
+<p><em>异常：&quot;行项的偏移量&quot;已包含的税款。请参阅上面的信用额度。</em></p>
 </td>
 <td>
 <p>税款或增值税 (VAT)</p>

@@ -389,7 +389,7 @@ ms.locfileid: "57588070"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  台湾         |   TWD    |
+|  中国台湾         |   TWD    |
 |
 
 ## <a name="united-states-region-and-market"></a>美国区域和市场
