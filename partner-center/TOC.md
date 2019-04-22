@@ -4,14 +4,14 @@
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## 会员优惠
 ### [Action Pack](mpn-get-action-pack.md)
-### [续订套餐](renew-mpn-offers.md)
+### [续订你的产品/服务](renew-mpn-offers.md)
 ## [能力](learn-about-competencies.md)
 ## [优势](manage-your-partner-network-benefits.md)
 ## [软件保障计划](software-assurance-lp.md)
-### [合作伙伴中心的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)
-### [使用合作伙伴中心的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)
+### [合作伙伴中心中的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)
+### [使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)
 ### [常见问题解答：使用凭证验证和兑换工具](vvr-faq.md)
-### [合作伙伴中心的软件保障规划服务 ](software-assurance-dps.md)
+### [合作伙伴中心中的软件保障规划服务](software-assurance-dps.md)
 
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
@@ -36,7 +36,7 @@
 ## [验证域所有权](become-global-admin.md)
 ## [重置用户密码](reset-a-user-password.md)
 ## [添加 Azure 合作伙伴共享服务](shared-services.md)
-## [定价和套餐](pricing-and-offers.md)
+## [定价和产品/服务](pricing-and-offers.md)
 ## [自定义目录](customize-the-catalog.md)
 
 # [发展你的业务](grow-your-business.md)
@@ -53,11 +53,11 @@
 # [计费和税款](billing.md)
 ## [计费常见问题解答](faq-about-new-billing-features.md)
 ## [计费基础知识](billing-basics.md)
-## [了解合作伙伴中心的计费类型](billing-different-types.md)
+## [了解合作伙伴中心内的计费类型](billing-different-types.md)
 ## [阅读帐单](read-your-bill.md)
 ## [使用对帐文件](use-the-reconciliation-files.md)
 ## [税务和免税](tax-and-tax-exemptions.md)
-## [组织增值税信息](organization-tax-info.md)
+## [组织 VAT 信息](organization-tax-info.md)
 ## [云解决方案提供商帐户信用额度](account-credit-limit.md)
 ## [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常见计费方案](common-billing-scenarios.md)
@@ -66,14 +66,14 @@
 
 # [与客户联系](customer-accounts.md)
 ## [添加新客户](add-a-new-customer.md)
-## [请求与客户建立经销商关系](request-a-relationship-with-a-customer.md)
+## [要求与客户建立经销商关系](request-a-relationship-with-a-customer.md)
 ## [删除与客户的经销商关系](remove-a-relationship.md)
 ## [查看客户列表](see-your-customer-list.md)
 ## [更新客户帐户信息](update-customer-account-info.md)
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
-# [云解决方案提供商套餐](csp-offers.md)
+# [云解决方案提供商产品/服务](csp-offers.md)
 ## [Azure 预订](azure-reservations.md)
 ### [针对最大预订利用率确定虚拟机大小](azure-usage.md)
 ### [代表客户购买 Microsoft Azure 预订](azure-reservations-buying.md)
@@ -83,7 +83,7 @@
 ### [创建、暂停或取消客户订阅](create-a-new-subscription.md)
 ### [为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)
 ### [销售 Azure 市场产品的订阅](sell-marketplace-products.md)
-### [在合作伙伴中心分配 Azure 订阅](assign-azure-subscriptions.md)
+### [在合作伙伴中心内分配 Azure 订阅](assign-azure-subscriptions.md)
 ### [将许可证分配给用户](assign-licenses-to-users.md)
 ### [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
 ### [向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
@@ -95,7 +95,7 @@
 ##  升级或将产品/服务转换为较新版本
 ### [将 Dynamics AX 订阅升级到 Dynamics 365](manual-subscription-migration.md)
 ### [将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
-### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本](skype-retiring.md)
+### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本s](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
 
 # 合作伙伴中心数据和分析
@@ -107,8 +107,8 @@
 ## [分析订阅和许可证](analyze-subscriptions-licenses.md)
 
 # [与其他合作伙伴合作](work-with-other-partners.md)
-## [合作伙伴中心的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
-## [合作伙伴中心的间接经销商任务](indirect-reseller-tasks-in-partner-center.md)
+## [合作伙伴中心中的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
+## [合作伙伴中心中的间接经销商任务](indirect-reseller-tasks-in-partner-center.md)
 
 
 # [从 Microsoft 获取支持](support-from-microsoft.md)
@@ -121,7 +121,7 @@
 ## [提供计费支持](provide-billing-support.md)
 ## [提供技术支持](provide-technical-support.md)
 ## [来自 Microsoft 的客户通讯](customer-communication-from-microsoft.md)
-## [客户自我支持](customer-self-support.md)
+## [客户自助支持](customer-self-support.md)
 ## [将问题上报给 Microsoft](escalate-problems-to-microsoft.md)
 
 
