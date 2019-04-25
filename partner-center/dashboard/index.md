@@ -2,18 +2,18 @@
 layout: HubPage
 hide_bc: true
 title: 适用于开发人员和合作伙伴中心服务的文档
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 如果你要登录到合作伙伴中心来发布应用、获取有关桌面应用程序的数据、获取硬件认证、将驱动程序发布到 Windows 更新或者作为经销商进行事务处理，本文档适合你。
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 47e8208ec2609e6591d617f2431a635e81112767
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
+ms.openlocfilehash: 77390321f899617c815166935cd10b93cc986118
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57588290"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135637"
 ---
 <div id="main" class="v2">
     <div class="container">
