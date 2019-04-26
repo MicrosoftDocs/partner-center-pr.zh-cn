@@ -1,32 +1,32 @@
 ---
 title: 多渠道 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 在某些情况下，客户可能需要聘请你对他们在别处购买的订阅提供预配和支持。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587080"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134277"
 ---
-# <a name="multi-channel-support"></a><span data-ttu-id="cde76-103">多渠道支持</span><span class="sxs-lookup"><span data-stu-id="cde76-103">Multi-channel support</span></span>
+# <a name="multi-channel-support"></a><span data-ttu-id="86f8b-103">多渠道支持</span><span class="sxs-lookup"><span data-stu-id="86f8b-103">Multi-channel support</span></span>
 
-<span data-ttu-id="cde76-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="cde76-104">**Applies to**</span></span>
+<span data-ttu-id="86f8b-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="86f8b-104">**Applies to**</span></span>
 
--  <span data-ttu-id="cde76-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="cde76-105">Partner Center</span></span>
--  <span data-ttu-id="cde76-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="cde76-106">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="86f8b-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="86f8b-105">Partner Center</span></span>
+-  <span data-ttu-id="86f8b-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="86f8b-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-<span data-ttu-id="cde76-107">合作伙伴中心的多渠道功能支持的方案时客户想要委托管理和支持它们在其他地方购买的订阅的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="cde76-107">The Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="cde76-108">多渠道支持适用于处于以下情形中的客户：</span><span class="sxs-lookup"><span data-stu-id="cde76-108">Multi-channel support applies when the customer:</span></span>
+<span data-ttu-id="86f8b-107">合作伙伴中心的多渠道功能支持的方案时客户想要委托管理和支持它们在其他地方购买的订阅的合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="86f8b-107">The Partner Center’s multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere.</span></span> <span data-ttu-id="86f8b-108">多渠道支持适用于处于以下情形中的客户：</span><span class="sxs-lookup"><span data-stu-id="86f8b-108">Multi-channel support applies when the customer:</span></span>
 
--   <span data-ttu-id="cde76-109">已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。</span><span class="sxs-lookup"><span data-stu-id="cde76-109">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
+-   <span data-ttu-id="86f8b-109">已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。</span><span class="sxs-lookup"><span data-stu-id="86f8b-109">Already puchased subscriptions directly from Microsoft or through the Advisor, Open, or EA programs.</span></span>
 
--   <span data-ttu-id="cde76-110">从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="cde76-110">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="cde76-111">客户不能将基于许可证的现有订阅切换到云解决方案提供商计划中的其他合作伙伴 - 他们必须等到其订阅期结束才可以进行切换，或者在移动之前取消订阅。</span><span class="sxs-lookup"><span data-stu-id="cde76-111">Customers can’t switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program–they must wait until the end of their subscription period or cancel before moving.</span></span>
+-   <span data-ttu-id="86f8b-110">从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="86f8b-110">Purchased the subscriptions from a third party not in the Cloud Solution Provider program or not a Microsoft Syndication Partner.</span></span> <span data-ttu-id="86f8b-111">客户不能将基于许可证的现有订阅切换到云解决方案提供商计划中的其他合作伙伴 - 他们必须等到其订阅期结束才可以进行切换，或者在移动之前取消订阅。</span><span class="sxs-lookup"><span data-stu-id="86f8b-111">Customers can’t switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program–they must wait until the end of their subscription period or cancel before moving.</span></span>
 
 
 <table>
@@ -36,29 +36,29 @@ ms.locfileid: "57587080"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><span data-ttu-id="cde76-112"><strong>基于许可证的服务</strong></span><span class="sxs-lookup"><span data-stu-id="cde76-112"><strong>License-based services</strong></span></span></p></td>
-<td><p><span data-ttu-id="cde76-113">若要为多渠道帐户提供支持，你必须向客户请求管理其订阅的权限。</span><span class="sxs-lookup"><span data-stu-id="cde76-113">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="cde76-114">有关如何操作的信息，请参阅<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">请求与客户建立经销商关系</a>。</span><span class="sxs-lookup"><span data-stu-id="cde76-114">See <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Request a reseller relationship with a customer</a> for information about how to do this.</span></span></p></td>
+<td><p><span data-ttu-id="86f8b-112"><strong>基于许可证的服务</strong></span><span class="sxs-lookup"><span data-stu-id="86f8b-112"><strong>License-based services</strong></span></span></p></td>
+<td><p><span data-ttu-id="86f8b-113">若要为多渠道帐户提供支持，你必须向客户请求管理其订阅的权限。</span><span class="sxs-lookup"><span data-stu-id="86f8b-113">To provide support for multi-channel accounts, you must request permissions from the customer to manage their subscriptions.</span></span> <span data-ttu-id="86f8b-114">有关如何操作的信息，请参阅<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">请求与客户建立经销商关系</a>。</span><span class="sxs-lookup"><span data-stu-id="86f8b-114">See <a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">Request a reseller relationship with a customer</a> for information about how to do this.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><span data-ttu-id="cde76-115"><strong>基于使用情况的服务</strong></span><span class="sxs-lookup"><span data-stu-id="cde76-115"><strong>Usage-based services</strong></span></span></p></td>
+<td><p><span data-ttu-id="86f8b-115"><strong>基于使用情况的服务</strong></span><span class="sxs-lookup"><span data-stu-id="86f8b-115"><strong>Usage-based services</strong></span></span></p></td>
 <td>
-<p><span data-ttu-id="cde76-116">客户已拥有订阅到 Microsoft Azure 可从另一个通道，如顾问、 打开、 或 EA，则&#39;ll 需要在合作伙伴中心中创建新的 Azure 订阅手动输入订阅的详细信息，然后取消对单个服务或整个订阅。</span><span class="sxs-lookup"><span data-stu-id="cde76-116">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span></p>
-<p><span data-ttu-id="cde76-117">对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="cde76-117">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span> <span data-ttu-id="cde76-118">有关详细信息，请参阅<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">将 Azure 订阅切换到不同的合作伙伴</a>。</span><span class="sxs-lookup"><span data-stu-id="cde76-118">For more information, see <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Switch Azure subscriptions to a different partner</a>.</span></span></p>
+<p><span data-ttu-id="86f8b-116">客户已拥有订阅到 Microsoft Azure 可从另一个通道，如顾问、 打开、 或 EA，则&#39;ll 需要在合作伙伴中心中创建新的 Azure 订阅手动输入订阅的详细信息，然后取消对单个服务或整个订阅。</span><span class="sxs-lookup"><span data-stu-id="86f8b-116">For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription.</span></span></p>
+<p><span data-ttu-id="86f8b-117">对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="86f8b-117">For a customer who already has a subscription to Microsoft Azure from another partner, for example, you can switch Azure services to the other partner.</span></span> <span data-ttu-id="86f8b-118">有关详细信息，请参阅<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">将 Azure 订阅切换到不同的合作伙伴</a>。</span><span class="sxs-lookup"><span data-stu-id="86f8b-118">For more information, see <a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">Switch Azure subscriptions to a different partner</a>.</span></span></p>
 </td>
 </tr>
 </tbody>
 </table>
 
 > [!IMPORTANT]  
-> <span data-ttu-id="cde76-119">云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="cde76-119">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="cde76-120">Microsoft 持续评估所有计划的策略和功能。</span><span class="sxs-lookup"><span data-stu-id="cde76-120">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="cde76-121">将通过常用的通信渠道，其中包括合作伙伴中心公布任何关于功能发布的公告。</span><span class="sxs-lookup"><span data-stu-id="cde76-121">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center.</span></span> 
+> <span data-ttu-id="86f8b-119">云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="86f8b-119">A CSP partner cannot resell online services to another CSP partner currently.</span></span> <span data-ttu-id="86f8b-120">Microsoft 持续评估所有计划的策略和功能。</span><span class="sxs-lookup"><span data-stu-id="86f8b-120">Microsoft continuously reviews policies and capabilities of all programs.</span></span> <span data-ttu-id="86f8b-121">将通过常用的通信渠道，其中包括合作伙伴中心公布任何关于功能发布的公告。</span><span class="sxs-lookup"><span data-stu-id="86f8b-121">Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center.</span></span> 
 
-## <a name="see-also"></a><span data-ttu-id="cde76-122">另请参阅</span><span class="sxs-lookup"><span data-stu-id="cde76-122">See also</span></span>
+## <a name="see-also"></a><span data-ttu-id="86f8b-122">请参阅</span><span class="sxs-lookup"><span data-stu-id="86f8b-122">See also</span></span>
 
-[<span data-ttu-id="cde76-123">与其他合作伙伴合作</span><span class="sxs-lookup"><span data-stu-id="cde76-123">Work with other partners</span></span>](work-with-other-partners.md)
+[<span data-ttu-id="86f8b-123">与其他合作伙伴合作</span><span class="sxs-lookup"><span data-stu-id="86f8b-123">Work with other partners</span></span>](work-with-other-partners.md)
 
-<span data-ttu-id="cde76-124">如果你是间接经销商，请参阅[与间接提供商合作](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="cde76-124">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+<span data-ttu-id="86f8b-124">如果你是间接经销商，请参阅[与间接提供商合作](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="86f8b-124">If you're an indirect reseller, see [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
 
-<span data-ttu-id="cde76-125">如果你是间接提供商，请参阅[与间接经销商合作](indirect-provider-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="cde76-125">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
+<span data-ttu-id="86f8b-125">如果你是间接提供商，请参阅[与间接经销商合作](indirect-provider-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="86f8b-125">If you're an indirect provider, see [Partner with indirect resellers](indirect-provider-tasks-in-partner-center.md)</span></span> 
 
  
 

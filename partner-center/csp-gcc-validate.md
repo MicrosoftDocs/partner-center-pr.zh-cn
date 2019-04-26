@@ -1,61 +1,61 @@
 ---
 title: Office 365 政府版 GCC 合作伙伴和客户资格标准 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 用于验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的过程。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7aa26c44e09285b2d6cdb69d83f756e15493497
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586950"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134847"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a><span data-ttu-id="19836-103">适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户资格标准</span><span class="sxs-lookup"><span data-stu-id="19836-103">Office 365 Government GCC for CSP Partner and Customer Eligibility Criteria</span></span>
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a><span data-ttu-id="179f4-103">适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户资格标准</span><span class="sxs-lookup"><span data-stu-id="179f4-103">Office 365 Government GCC for CSP Partner and Customer Eligibility Criteria</span></span>
 
-<span data-ttu-id="19836-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="19836-104">**Applies to**</span></span>
+<span data-ttu-id="179f4-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="179f4-104">**Applies to**</span></span>
 
--  <span data-ttu-id="19836-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="19836-105">Partner Center</span></span>
--  <span data-ttu-id="19836-106">云解决方案提供商合作伙伴</span><span class="sxs-lookup"><span data-stu-id="19836-106">CSP Partners</span></span>
+-  <span data-ttu-id="179f4-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="179f4-105">Partner Center</span></span>
+-  <span data-ttu-id="179f4-106">云解决方案提供商合作伙伴</span><span class="sxs-lookup"><span data-stu-id="179f4-106">CSP Partners</span></span>
 
 >[!NOTE]
-><span data-ttu-id="19836-107">下面概述的验证过程和标准特定于直接计费合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="19836-107">The validation process and criteria outlined below are specific to direct bill partners.</span></span> <span data-ttu-id="19836-108">直接计费合作伙伴包括直接经销商和间接提供商。</span><span class="sxs-lookup"><span data-stu-id="19836-108">Direct bill partners include direct resellers and indirect providers.</span></span>  <span data-ttu-id="19836-109">如果你是间接经销商，请与你的间接提供商合作。</span><span class="sxs-lookup"><span data-stu-id="19836-109">If you are an Indirect Reseller please work with your Indirect Provider.</span></span> 
+><span data-ttu-id="179f4-107">下面概述的验证过程和标准特定于直接计费合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="179f4-107">The validation process and criteria outlined below are specific to direct bill partners.</span></span> <span data-ttu-id="179f4-108">直接计费合作伙伴包括直接经销商和间接提供商。</span><span class="sxs-lookup"><span data-stu-id="179f4-108">Direct bill partners include direct resellers and indirect providers.</span></span>  <span data-ttu-id="179f4-109">如果你是间接经销商，请与你的间接提供商合作。</span><span class="sxs-lookup"><span data-stu-id="179f4-109">If you are an Indirect Reseller please work with your Indirect Provider.</span></span> 
 
-<span data-ttu-id="19836-110">如果你有兴趣让你的组织或客户组织获得批准以便出售适用于云解决方案提供商的 Office 365 政府版 GCC，请查看以下要求。</span><span class="sxs-lookup"><span data-stu-id="19836-110">If you are interested in having your organization or your customers organization approved for Office 365 Government GCC for CSP, please review the requirements below.</span></span>
+<span data-ttu-id="179f4-110">如果你有兴趣让你的组织或客户组织获得批准以便出售适用于云解决方案提供商的 Office 365 政府版 GCC，请查看以下要求。</span><span class="sxs-lookup"><span data-stu-id="179f4-110">If you are interested in having your organization or your customers organization approved for Office 365 Government GCC for CSP, please review the requirements below.</span></span>
 
-<span data-ttu-id="19836-111">如果你是服务于美国联邦、州、地方或部落政府实体的合作伙伴，你可以获得批准。</span><span class="sxs-lookup"><span data-stu-id="19836-111">You could be approved if you are a partner serving US federal, state, local or tribal government entities.</span></span> <span data-ttu-id="19836-112">若要验证你的组织资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的简短表单。</span><span class="sxs-lookup"><span data-stu-id="19836-112">To have your organizations eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).</span></span>
+<span data-ttu-id="179f4-111">如果你是服务于美国联邦、州、地方或部落政府实体的合作伙伴，你可以获得批准。</span><span class="sxs-lookup"><span data-stu-id="179f4-111">You could be approved if you are a partner serving US federal, state, local or tribal government entities.</span></span> <span data-ttu-id="179f4-112">若要验证你的组织资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的简短表单。</span><span class="sxs-lookup"><span data-stu-id="179f4-112">To have your organizations eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).</span></span>
 
-<span data-ttu-id="19836-113">如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。</span><span class="sxs-lookup"><span data-stu-id="19836-113">Your customer could be approved if they are an organization that handles government-controlled data or are a U.S. federal, state, local or tribal government entity.</span></span> <span data-ttu-id="19836-114">若要验证客户组织的资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短表单。</span><span class="sxs-lookup"><span data-stu-id="19836-114">To have your customers' organizations’ eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer).</span></span> 
+<span data-ttu-id="179f4-113">如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。</span><span class="sxs-lookup"><span data-stu-id="179f4-113">Your customer could be approved if they are an organization that handles government-controlled data or are a U.S. federal, state, local or tribal government entity.</span></span> <span data-ttu-id="179f4-114">若要验证客户组织的资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短表单。</span><span class="sxs-lookup"><span data-stu-id="179f4-114">To have your customers' organizations’ eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer).</span></span> 
 
--   <span data-ttu-id="19836-115">你的组织必须[注册](https://partnercenter.microsoft.com/partner/cloud-solution-provider)云解决方案提供商计划，因为这是被批准出售适用于云解决方案提供商的 Office 365 政府版 GCC 的先决条件。</span><span class="sxs-lookup"><span data-stu-id="19836-115">Your organization must be [enrolled](https://partnercenter.microsoft.com/partner/cloud-solution-provider) in the Cloud Solution Provider program as it is a pre-requisite to being approved for Office 365 Government GCC for CSP.</span></span>
--   <span data-ttu-id="19836-116">适用于云解决方案提供商的 Office 365 政府版 GCC 的分步验证过程指南位于[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。</span><span class="sxs-lookup"><span data-stu-id="19836-116">A step-by-step validation process guide for Office 365 Government GCC for CSP is located [here](https://go.microsoft.com/fwlink/?linkid=2007323).</span></span>
--   <span data-ttu-id="19836-117">有关其他验证问题或疑问，请联系 [RSC 支持升级](mailto:usgcce@microsoft.com)部门。</span><span class="sxs-lookup"><span data-stu-id="19836-117">Contact [RSC Support Escalations](mailto:usgcce@microsoft.com) for additional validation questions or concerns.</span></span>
+-   <span data-ttu-id="179f4-115">你的组织必须[注册](https://partnercenter.microsoft.com/partner/cloud-solution-provider)云解决方案提供商计划，因为这是被批准出售适用于云解决方案提供商的 Office 365 政府版 GCC 的先决条件。</span><span class="sxs-lookup"><span data-stu-id="179f4-115">Your organization must be [enrolled](https://partnercenter.microsoft.com/partner/cloud-solution-provider) in the Cloud Solution Provider program as it is a pre-requisite to being approved for Office 365 Government GCC for CSP.</span></span>
+-   <span data-ttu-id="179f4-116">适用于云解决方案提供商的 Office 365 政府版 GCC 的分步验证过程指南位于[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。</span><span class="sxs-lookup"><span data-stu-id="179f4-116">A step-by-step validation process guide for Office 365 Government GCC for CSP is located [here](https://go.microsoft.com/fwlink/?linkid=2007323).</span></span>
+-   <span data-ttu-id="179f4-117">有关其他验证问题或疑问，请联系 [RSC 支持升级](mailto:usgcce@microsoft.com)部门。</span><span class="sxs-lookup"><span data-stu-id="179f4-117">Contact [RSC Support Escalations](mailto:usgcce@microsoft.com) for additional validation questions or concerns.</span></span>
 
-<span data-ttu-id="19836-118">将根据以下概述的要满足的特定标准来验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的资格。</span><span class="sxs-lookup"><span data-stu-id="19836-118">Office 365 Government GCC for CSP partners and customers will be validated for eligibility based on meeting specific criteria outlined below.</span></span>
+<span data-ttu-id="179f4-118">将根据以下概述的要满足的特定标准来验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的资格。</span><span class="sxs-lookup"><span data-stu-id="179f4-118">Office 365 Government GCC for CSP partners and customers will be validated for eligibility based on meeting specific criteria outlined below.</span></span>
 
-<span data-ttu-id="19836-119">**合作伙伴条件**</span><span class="sxs-lookup"><span data-stu-id="19836-119">**Partner Criteria**</span></span>
-1.  <span data-ttu-id="19836-120">通过直接或间接合同为美国政府客户提供服务或解决方案</span><span class="sxs-lookup"><span data-stu-id="19836-120">Provides services or solutions to US government customers through direct or indirect contracts</span></span>
-2.  <span data-ttu-id="19836-121">通过 GSA 或其他合同文书为美国政府客户提供服务</span><span class="sxs-lookup"><span data-stu-id="19836-121">Serves US government customers through GSA or other contract vehicles</span></span>
+<span data-ttu-id="179f4-119">**合作伙伴条件**</span><span class="sxs-lookup"><span data-stu-id="179f4-119">**Partner Criteria**</span></span>
+1.  <span data-ttu-id="179f4-120">通过直接或间接合同为美国政府客户提供服务或解决方案</span><span class="sxs-lookup"><span data-stu-id="179f4-120">Provides services or solutions to US government customers through direct or indirect contracts</span></span>
+2.  <span data-ttu-id="179f4-121">通过 GSA 或其他合同文书为美国政府客户提供服务</span><span class="sxs-lookup"><span data-stu-id="179f4-121">Serves US government customers through GSA or other contract vehicles</span></span>
 
-<span data-ttu-id="19836-122">**客户条件**</span><span class="sxs-lookup"><span data-stu-id="19836-122">**Customer Criteria**</span></span>
-1.  <span data-ttu-id="19836-123">具有政府职能的美国政府实体。</span><span class="sxs-lookup"><span data-stu-id="19836-123">US government entity in its governmental capacity.</span></span> <span data-ttu-id="19836-124">例如：</span><span class="sxs-lookup"><span data-stu-id="19836-124">For example:</span></span>
+<span data-ttu-id="179f4-122">**客户条件**</span><span class="sxs-lookup"><span data-stu-id="179f4-122">**Customer Criteria**</span></span>
+1.  <span data-ttu-id="179f4-123">具有政府职能的美国政府实体。</span><span class="sxs-lookup"><span data-stu-id="179f4-123">US government entity in its governmental capacity.</span></span> <span data-ttu-id="179f4-124">例如：</span><span class="sxs-lookup"><span data-stu-id="179f4-124">For example:</span></span>
  
-    -  <span data-ttu-id="19836-125">联邦机构（例如，局、机构、部门或美国政府的其他实体）</span><span class="sxs-lookup"><span data-stu-id="19836-125">Federal agency (e.g. bureau, agency, department, or other entity of the US government)</span></span>
-    -   <span data-ttu-id="19836-126">州/地方实体</span><span class="sxs-lookup"><span data-stu-id="19836-126">State/local entity</span></span> 
-    -   <span data-ttu-id="19836-127">部落实体</span><span class="sxs-lookup"><span data-stu-id="19836-127">Tribal entity</span></span>
-    -   <span data-ttu-id="19836-128">区域或州际政府实体（但不包括国际实体）</span><span class="sxs-lookup"><span data-stu-id="19836-128">Regional or interstate government entities (but no international entities)</span></span>
-    -   <span data-ttu-id="19836-129">联邦资助的研发中心 (FERDC)</span><span class="sxs-lookup"><span data-stu-id="19836-129">Federally Funded Research and Development Centers (FERDCs)</span></span>
+    -  <span data-ttu-id="179f4-125">联邦机构（例如，局、机构、部门或美国政府的其他实体）</span><span class="sxs-lookup"><span data-stu-id="179f4-125">Federal agency (e.g. bureau, agency, department, or other entity of the US government)</span></span>
+    -   <span data-ttu-id="179f4-126">州/地方实体</span><span class="sxs-lookup"><span data-stu-id="179f4-126">State/local entity</span></span> 
+    -   <span data-ttu-id="179f4-127">部落实体</span><span class="sxs-lookup"><span data-stu-id="179f4-127">Tribal entity</span></span>
+    -   <span data-ttu-id="179f4-128">区域或州际政府实体（但不包括国际实体）</span><span class="sxs-lookup"><span data-stu-id="179f4-128">Regional or interstate government entities (but no international entities)</span></span>
+    -   <span data-ttu-id="179f4-129">联邦资助的研发中心 (FERDC)</span><span class="sxs-lookup"><span data-stu-id="179f4-129">Federally Funded Research and Development Centers (FERDCs)</span></span>
 
-2.  <span data-ttu-id="19836-130">数据受法规约束的商业私人实体。</span><span class="sxs-lookup"><span data-stu-id="19836-130">Commercial private entity with data that’s subject to regulations.</span></span> <span data-ttu-id="19836-131">接受的政府数据类型包括：</span><span class="sxs-lookup"><span data-stu-id="19836-131">Accepted government data types include:</span></span> 
-    -   <span data-ttu-id="19836-132">国际武器贸易条例 (ITAR)</span><span class="sxs-lookup"><span data-stu-id="19836-132">International Traffic in Arms (ITAR)</span></span>
-    -   <span data-ttu-id="19836-133">受控制的未分类信息 (CUI)</span><span class="sxs-lookup"><span data-stu-id="19836-133">Controlled Unclassified Information (CUI)</span></span>
-    -   <span data-ttu-id="19836-134">国防部 (DoD) 未分类的受控核信息 (UCNI)</span><span class="sxs-lookup"><span data-stu-id="19836-134">Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)</span></span>
-    -   <span data-ttu-id="19836-135">能源部 (DoE) UCNI</span><span class="sxs-lookup"><span data-stu-id="19836-135">Department of Energy (DoE) UCNI</span></span>
-    -   <span data-ttu-id="19836-136">刑事司法信息 (CJI)</span><span class="sxs-lookup"><span data-stu-id="19836-136">Criminal Justice Information (CJI)</span></span>
-    -   <span data-ttu-id="19836-137">国防部影响级别数据</span><span class="sxs-lookup"><span data-stu-id="19836-137">Department of Defense Impact Level Data</span></span>
-    -   <span data-ttu-id="19836-138">其他需要 Azure 政府的类型数据</span><span class="sxs-lookup"><span data-stu-id="19836-138">Other types of data that require Azure Government</span></span>
+2.  <span data-ttu-id="179f4-130">数据受法规约束的商业私人实体。</span><span class="sxs-lookup"><span data-stu-id="179f4-130">Commercial private entity with data that’s subject to regulations.</span></span> <span data-ttu-id="179f4-131">接受的政府数据类型包括：</span><span class="sxs-lookup"><span data-stu-id="179f4-131">Accepted government data types include:</span></span> 
+    -   <span data-ttu-id="179f4-132">国际武器贸易条例 (ITAR)</span><span class="sxs-lookup"><span data-stu-id="179f4-132">International Traffic in Arms (ITAR)</span></span>
+    -   <span data-ttu-id="179f4-133">受控制的未分类信息 (CUI)</span><span class="sxs-lookup"><span data-stu-id="179f4-133">Controlled Unclassified Information (CUI)</span></span>
+    -   <span data-ttu-id="179f4-134">国防部 (DoD) 未分类的受控核信息 (UCNI)</span><span class="sxs-lookup"><span data-stu-id="179f4-134">Department of Defense (DoD) Unclassified Controlled Nuclear Information (UCNI)</span></span>
+    -   <span data-ttu-id="179f4-135">能源部 (DoE) UCNI</span><span class="sxs-lookup"><span data-stu-id="179f4-135">Department of Energy (DoE) UCNI</span></span>
+    -   <span data-ttu-id="179f4-136">刑事司法信息 (CJI)</span><span class="sxs-lookup"><span data-stu-id="179f4-136">Criminal Justice Information (CJI)</span></span>
+    -   <span data-ttu-id="179f4-137">国防部影响级别数据</span><span class="sxs-lookup"><span data-stu-id="179f4-137">Department of Defense Impact Level Data</span></span>
+    -   <span data-ttu-id="179f4-138">其他需要 Azure 政府的类型数据</span><span class="sxs-lookup"><span data-stu-id="179f4-138">Other types of data that require Azure Government</span></span>
 
-<span data-ttu-id="19836-139">如果国际商业实体符合上述要求并且已确认在美国存在（例如有邮寄地址、物理位置等），则可能具有资格。</span><span class="sxs-lookup"><span data-stu-id="19836-139">An international commercial entity may qualify if they meet the requirements noted above and have verified U.S. presence (such as mailing address, physical location, etc.).</span></span>
+<span data-ttu-id="179f4-139">如果国际商业实体符合上述要求并且已确认在美国存在（例如有邮寄地址、物理位置等），则可能具有资格。</span><span class="sxs-lookup"><span data-stu-id="179f4-139">An international commercial entity may qualify if they meet the requirements noted above and have verified U.S. presence (such as mailing address, physical location, etc.).</span></span>
 

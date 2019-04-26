@@ -1,68 +1,68 @@
 ---
 title: 提高采用率和满意度 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586720"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134487"
 ---
-# <a name="increase-adoption-and-satisfaction"></a><span data-ttu-id="4b0be-104">提高采用率和满意度</span><span class="sxs-lookup"><span data-stu-id="4b0be-104">Increase adoption and satisfaction</span></span>
+# <a name="increase-adoption-and-satisfaction"></a><span data-ttu-id="d5ec7-104">提高采用率和满意度</span><span class="sxs-lookup"><span data-stu-id="d5ec7-104">Increase adoption and satisfaction</span></span>
 
-<span data-ttu-id="4b0be-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="4b0be-105">**Applies to**</span></span>
+<span data-ttu-id="d5ec7-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="d5ec7-105">**Applies to**</span></span>
 
--  <span data-ttu-id="4b0be-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="4b0be-106">Partner Center</span></span>
+-  <span data-ttu-id="d5ec7-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="d5ec7-106">Partner Center</span></span>
 
-<span data-ttu-id="4b0be-107">我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。</span><span class="sxs-lookup"><span data-stu-id="4b0be-107">Our partners use many metrics to gauge whether their business is growing and where to focus investment.</span></span> <span data-ttu-id="4b0be-108">合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。</span><span class="sxs-lookup"><span data-stu-id="4b0be-108">Partner Center can help by providing data about if and how your customers are using the licenses that they've purchased.</span></span> <span data-ttu-id="4b0be-109">此信息适用于 Office 产品（包括 OneDrive for Business，这将 SharePoint 也计入在内）。</span><span class="sxs-lookup"><span data-stu-id="4b0be-109">This information is available for Office products (including OneDrive for Business, which is counted together with SharePoint).</span></span>
+<span data-ttu-id="d5ec7-107">我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-107">Our partners use many metrics to gauge whether their business is growing and where to focus investment.</span></span> <span data-ttu-id="d5ec7-108">合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-108">Partner Center can help by providing data about if and how your customers are using the licenses that they've purchased.</span></span> <span data-ttu-id="d5ec7-109">此信息适用于 Office 产品（包括 OneDrive for Business，这将 SharePoint 也计入在内）。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-109">This information is available for Office products (including OneDrive for Business, which is counted together with SharePoint).</span></span>
 
-<span data-ttu-id="4b0be-110">你可以通过云解决方案提供商计划查看所有客户的数据。</span><span class="sxs-lookup"><span data-stu-id="4b0be-110">You can see data for all of your customers through the Cloud Solution Provider program.</span></span> <span data-ttu-id="4b0be-111">请注意，某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证，在此情况下，你将看到所有合作伙伴的许可证总数。</span><span class="sxs-lookup"><span data-stu-id="4b0be-111">Note that some customers may buy licenses from other partners or directly from Microsoft—in that case, you will see the total licenses across all partners.</span></span> <span data-ttu-id="4b0be-112">若要仅查看你自己的许可证，请改为转到客户的订阅。</span><span class="sxs-lookup"><span data-stu-id="4b0be-112">To see only your own licenses, go to the customer's subscriptions instead.</span></span>
+<span data-ttu-id="d5ec7-110">你可以通过云解决方案提供商计划查看所有客户的数据。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-110">You can see data for all of your customers through the Cloud Solution Provider program.</span></span> <span data-ttu-id="d5ec7-111">请注意，某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证，在此情况下，你将看到所有合作伙伴的许可证总数。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-111">Note that some customers may buy licenses from other partners or directly from Microsoft—in that case, you will see the total licenses across all partners.</span></span> <span data-ttu-id="d5ec7-112">若要仅查看你自己的许可证，请改为转到客户的订阅。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-112">To see only your own licenses, go to the customer's subscriptions instead.</span></span>
 
 > [!NOTE]  
->  <span data-ttu-id="4b0be-113">目前，我们仅显示 Office 365 和 Dynamics 365 的数据。</span><span class="sxs-lookup"><span data-stu-id="4b0be-113">Currently, we only show data for Office 365 and Dynamics 365.</span></span> <span data-ttu-id="4b0be-114">将来，我们将会启用其他产品的数据。</span><span class="sxs-lookup"><span data-stu-id="4b0be-114">We will be enabling data for additional products in the future.</span></span>
+>  <span data-ttu-id="d5ec7-113">目前，我们仅显示 Office 365 和 Dynamics 365 的数据。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-113">Currently, we only show data for Office 365 and Dynamics 365.</span></span> <span data-ttu-id="d5ec7-114">将来，我们将会启用其他产品的数据。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-114">We will be enabling data for additional products in the future.</span></span>
 
-## <a name="find-license-and-user-data"></a><span data-ttu-id="4b0be-115">查找许可证和用户数据</span><span class="sxs-lookup"><span data-stu-id="4b0be-115">Find license and user data</span></span>
-
-
-<span data-ttu-id="4b0be-116">**面向单个客户**</span><span class="sxs-lookup"><span data-stu-id="4b0be-116">**For a single customer**</span></span>
-
--   <span data-ttu-id="4b0be-117">选择**客户**从**合作伙伴中心**，选择一个客户，然后选择**Customer insights**。</span><span class="sxs-lookup"><span data-stu-id="4b0be-117">Select **Customers** from the **Partner Center**, choose a customer, then select **Customer insights**.</span></span>
-
-<span data-ttu-id="4b0be-118">**在您的组合**</span><span class="sxs-lookup"><span data-stu-id="4b0be-118">**Across your portfolio**</span></span>
-
-1.  <span data-ttu-id="4b0be-119">上**合作伙伴中心**，选择**分析**。</span><span class="sxs-lookup"><span data-stu-id="4b0be-119">On the **Partner Center**, select **Analyze**.</span></span>
-2.  <span data-ttu-id="4b0be-120">通过选择**导出**选项，下载整个客户群的部署和用法数据。</span><span class="sxs-lookup"><span data-stu-id="4b0be-120">Download deployment and usage data across your entire customer set by selecting the **export** options.</span></span>
-
-<span data-ttu-id="4b0be-121">术语：</span><span class="sxs-lookup"><span data-stu-id="4b0be-121">Terminology:</span></span>
-
--   <span data-ttu-id="4b0be-122">**权利：** 用户有权使用的许可证（未因欺诈或拒不付款而暂停、未升级到其他许可证、未被用户取消等）</span><span class="sxs-lookup"><span data-stu-id="4b0be-122">**Entitlement:** a license that the user is entitled to use (it is not suspended for fraud or non-payment, it hasn't been upgraded to a different license, it hasn't been cancelled by the user, etc.)</span></span>
-
--   <span data-ttu-id="4b0be-123">**活动：** 如果订阅用户在最近 28 个日历日内为某个任务使用了此权利。</span><span class="sxs-lookup"><span data-stu-id="4b0be-123">**Active:** if the subscribed user has used the entitlement for a task in the last 28 calendar days.</span></span>
-
--   <span data-ttu-id="4b0be-124">**部署率** = 已分配的许可证/已出售的许可证</span><span class="sxs-lookup"><span data-stu-id="4b0be-124">**Deployment %** = assigned licenses/sold licenses</span></span>
-
--   <span data-ttu-id="4b0be-125">**使用率** = 活跃权利/权利总数</span><span class="sxs-lookup"><span data-stu-id="4b0be-125">**Usage %** = active entitlements/total entitlements</span></span>
-
-    <span data-ttu-id="4b0be-126">有时使用率会夸大或大于 100%。</span><span class="sxs-lookup"><span data-stu-id="4b0be-126">Sometimes the usage % is inflated, or greater than 100%.</span></span> <span data-ttu-id="4b0be-127">多种原因可能导致此情况：</span><span class="sxs-lookup"><span data-stu-id="4b0be-127">This can happen for several reasons:</span></span>
-
-    -   <span data-ttu-id="4b0be-128">如果客户发生员工流动，并且许可证已转移到新用户。</span><span class="sxs-lookup"><span data-stu-id="4b0be-128">If the customer had employee turnover and the license was transferred to a new user.</span></span>
-
-    -   <span data-ttu-id="4b0be-129">如果客户针对一个 SKU 具有两个订阅，但其中一个订阅处于宽限期、禁用状态或撤销状态，两个订阅中的权利可能在 28 天期限内均识别为活跃使用，但只有一个订阅计入总数。</span><span class="sxs-lookup"><span data-stu-id="4b0be-129">If the customer has two subscriptions for a SKU, but one is In Grace Period, Disabled, or De-provisioned, entitlements in both subscriptions may register active usage during the 28-day period but only one is counted in the total.</span></span>
-
-    -   <span data-ttu-id="4b0be-130">如果客户具有试用版订阅，则计入活动，但订阅不计入权利总数。</span><span class="sxs-lookup"><span data-stu-id="4b0be-130">If the customer has a trial subscription, activity is counted but the subscription isn't counted towards the total entitlements.</span></span>
-
-    -   <span data-ttu-id="4b0be-131">如果某些客户使用 Yammer 的时间显著多于许可证授权他们使用的时间，这可能会使数据大幅扭曲。</span><span class="sxs-lookup"><span data-stu-id="4b0be-131">If some customers are using Yammer significantly more than they are entitled to by their license it can skew the data dramatically.</span></span>
-
-## <a name="next-steps"></a><span data-ttu-id="4b0be-132">后续步骤</span><span class="sxs-lookup"><span data-stu-id="4b0be-132">Next steps</span></span>
+## <a name="find-license-and-user-data"></a><span data-ttu-id="d5ec7-115">查找许可证和用户数据</span><span class="sxs-lookup"><span data-stu-id="d5ec7-115">Find license and user data</span></span>
 
 
-<span data-ttu-id="4b0be-133">如果你提交了大量的帮助和操作方法问题，但你帐户上的采用数较低，或者你正在寻找提高销售的机会，你可能需要考虑提供培训课程。</span><span class="sxs-lookup"><span data-stu-id="4b0be-133">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider offering training courses.</span></span> <span data-ttu-id="4b0be-134">通过教你的客户如何更好地使用他们购买的云解决方案软件，你可能会看到工作效率和满意度的上升，以及支持需求的降低。</span><span class="sxs-lookup"><span data-stu-id="4b0be-134">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span>
+<span data-ttu-id="d5ec7-116">**面向单个客户**</span><span class="sxs-lookup"><span data-stu-id="d5ec7-116">**For a single customer**</span></span>
+
+-   <span data-ttu-id="d5ec7-117">选择**客户**从**合作伙伴中心**，选择一个客户，然后选择**Customer insights**。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-117">Select **Customers** from the **Partner Center**, choose a customer, then select **Customer insights**.</span></span>
+
+<span data-ttu-id="d5ec7-118">**在您的组合**</span><span class="sxs-lookup"><span data-stu-id="d5ec7-118">**Across your portfolio**</span></span>
+
+1.  <span data-ttu-id="d5ec7-119">上**合作伙伴中心**，选择**分析**。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-119">On the **Partner Center**, select **Analyze**.</span></span>
+2.  <span data-ttu-id="d5ec7-120">通过选择**导出**选项，下载整个客户群的部署和用法数据。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-120">Download deployment and usage data across your entire customer set by selecting the **export** options.</span></span>
+
+<span data-ttu-id="d5ec7-121">术语：</span><span class="sxs-lookup"><span data-stu-id="d5ec7-121">Terminology:</span></span>
+
+-   <span data-ttu-id="d5ec7-122">**权利：** 用户有权使用的许可证（未因欺诈或拒不付款而暂停、未升级到其他许可证、未被用户取消等）</span><span class="sxs-lookup"><span data-stu-id="d5ec7-122">**Entitlement:** a license that the user is entitled to use (it is not suspended for fraud or non-payment, it hasn't been upgraded to a different license, it hasn't been cancelled by the user, etc.)</span></span>
+
+-   <span data-ttu-id="d5ec7-123">**活动：** 如果订阅用户在最近 28 个日历日内为某个任务使用了此权利。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-123">**Active:** if the subscribed user has used the entitlement for a task in the last 28 calendar days.</span></span>
+
+-   <span data-ttu-id="d5ec7-124">**部署率** = 已分配的许可证/已出售的许可证</span><span class="sxs-lookup"><span data-stu-id="d5ec7-124">**Deployment %** = assigned licenses/sold licenses</span></span>
+
+-   <span data-ttu-id="d5ec7-125">**使用率** = 活跃权利/权利总数</span><span class="sxs-lookup"><span data-stu-id="d5ec7-125">**Usage %** = active entitlements/total entitlements</span></span>
+
+    <span data-ttu-id="d5ec7-126">有时使用率会夸大或大于 100%。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-126">Sometimes the usage % is inflated, or greater than 100%.</span></span> <span data-ttu-id="d5ec7-127">多种原因可能导致此情况：</span><span class="sxs-lookup"><span data-stu-id="d5ec7-127">This can happen for several reasons:</span></span>
+
+    -   <span data-ttu-id="d5ec7-128">如果客户发生员工流动，并且许可证已转移到新用户。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-128">If the customer had employee turnover and the license was transferred to a new user.</span></span>
+
+    -   <span data-ttu-id="d5ec7-129">如果客户针对一个 SKU 具有两个订阅，但其中一个订阅处于宽限期、禁用状态或撤销状态，两个订阅中的权利可能在 28 天期限内均识别为活跃使用，但只有一个订阅计入总数。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-129">If the customer has two subscriptions for a SKU, but one is In Grace Period, Disabled, or De-provisioned, entitlements in both subscriptions may register active usage during the 28-day period but only one is counted in the total.</span></span>
+
+    -   <span data-ttu-id="d5ec7-130">如果客户具有试用版订阅，则计入活动，但订阅不计入权利总数。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-130">If the customer has a trial subscription, activity is counted but the subscription isn't counted towards the total entitlements.</span></span>
+
+    -   <span data-ttu-id="d5ec7-131">如果某些客户使用 Yammer 的时间显著多于许可证授权他们使用的时间，这可能会使数据大幅扭曲。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-131">If some customers are using Yammer significantly more than they are entitled to by their license it can skew the data dramatically.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="d5ec7-132">后续步骤</span><span class="sxs-lookup"><span data-stu-id="d5ec7-132">Next steps</span></span>
+
+
+<span data-ttu-id="d5ec7-133">如果你提交了大量的帮助和操作方法问题，但你帐户上的采用数较低，或者你正在寻找提高销售的机会，你可能需要考虑提供培训课程。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-133">If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you’re looking for upsell opportunities, you may want to consider offering training courses.</span></span> <span data-ttu-id="d5ec7-134">通过教你的客户如何更好地使用他们购买的云解决方案软件，你可能会看到工作效率和满意度的上升，以及支持需求的降低。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-134">By teaching your customers how to better use the cloud solution software they have purchased, you’re more likely to see an increase in productivity and satisfaction, and a decrease in support needs.</span></span>
 
 <table>
 <colgroup>
@@ -70,15 +70,15 @@ ms.locfileid: "57586720"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><span data-ttu-id="4b0be-135"><strong>问题：</strong>用户采用率为 low，将多个许可证计划运行&#39;正在使用的 t。</span><span class="sxs-lookup"><span data-stu-id="4b0be-135"><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</span></span></p>
-<p><span data-ttu-id="4b0be-136"><strong>要考虑的因素：</strong>客户可能无法理解该软件可以提供的值。</span><span class="sxs-lookup"><span data-stu-id="4b0be-136"><strong>What to consider:</strong> Customers might not understand the value that the software could provide.</span></span> <span data-ttu-id="4b0be-137">他们需要依靠帮助来构想他们可以将软件用于哪些日常工作中，从而简化其已进行的任务或实现全新的工作效率。</span><span class="sxs-lookup"><span data-stu-id="4b0be-137">They need help envisioning the ways they could incorporate it into their day to simplify tasks that they’re already doing, or to enable new kinds of productivity.</span></span></p>
-<p><span data-ttu-id="4b0be-138"><strong>若要尝试的内容：</strong>案例研究，有关特定方案、 教程博客或视频的用户感言。</span><span class="sxs-lookup"><span data-stu-id="4b0be-138"><strong>What to try:</strong> Case studies, user testimonials about specific scenarios, tutorial blogs, or videos.</span></span></p></td>
+<td><p><span data-ttu-id="d5ec7-135"><strong>问题：</strong>用户采用率为 low，将多个许可证计划运行&#39;正在使用的 t。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-135"><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</span></span></p>
+<p><span data-ttu-id="d5ec7-136"><strong>要考虑的因素：</strong>客户可能无法理解该软件可以提供的值。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-136"><strong>What to consider:</strong> Customers might not understand the value that the software could provide.</span></span> <span data-ttu-id="d5ec7-137">他们需要依靠帮助来构想他们可以将软件用于哪些日常工作中，从而简化其已进行的任务或实现全新的工作效率。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-137">They need help envisioning the ways they could incorporate it into their day to simplify tasks that they’re already doing, or to enable new kinds of productivity.</span></span></p>
+<p><span data-ttu-id="d5ec7-138"><strong>若要尝试的内容：</strong>案例研究，有关特定方案、 教程博客或视频的用户感言。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-138"><strong>What to try:</strong> Case studies, user testimonials about specific scenarios, tutorial blogs, or videos.</span></span></p></td>
 </tr>
 <tr class="even">
-<td><p><span data-ttu-id="4b0be-139"><strong>问题：</strong>没有帮助和操作方法问题的支持呼叫量很高。</span><span class="sxs-lookup"><span data-stu-id="4b0be-139"><strong>Problem:</strong> There is a high volume of support calls for help and how-to questions.</span></span></p>
-<p><span data-ttu-id="4b0be-140"><strong>要考虑的因素：</strong>客户可能有新的软件、 产品版本，或其任务。</span><span class="sxs-lookup"><span data-stu-id="4b0be-140"><strong>What to consider:</strong> Customers may be new to the software, to the product version, or to their task.</span></span></p>
-<p><span data-ttu-id="4b0be-141"><strong>若要尝试的内容：</strong>可以使用产品/服务培训 （亲自或联机） 的双策略来提高客户&#39;s 总体专业知识，同时还将向客户提供的自助服务选项的一些提升。</span><span class="sxs-lookup"><span data-stu-id="4b0be-141"><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</span></span></p>
-<p><span data-ttu-id="4b0be-142">你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</span><span class="sxs-lookup"><span data-stu-id="4b0be-142">You may want to redesign your support site to also include the self-service options described in the topic <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Customer self-support</a> in addition to your support contact information.</span></span></p></td>
+<td><p><span data-ttu-id="d5ec7-139"><strong>问题：</strong>没有帮助和操作方法问题的支持呼叫量很高。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-139"><strong>Problem:</strong> There is a high volume of support calls for help and how-to questions.</span></span></p>
+<p><span data-ttu-id="d5ec7-140"><strong>要考虑的因素：</strong>客户可能有新的软件、 产品版本，或其任务。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-140"><strong>What to consider:</strong> Customers may be new to the software, to the product version, or to their task.</span></span></p>
+<p><span data-ttu-id="d5ec7-141"><strong>若要尝试的内容：</strong>可以使用产品/服务培训 （亲自或联机） 的双策略来提高客户&#39;s 总体专业知识，同时还将向客户提供的自助服务选项的一些提升。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-141"><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</span></span></p>
+<p><span data-ttu-id="d5ec7-142">你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</span><span class="sxs-lookup"><span data-stu-id="d5ec7-142">You may want to redesign your support site to also include the self-service options described in the topic <a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">Customer self-support</a> in addition to your support contact information.</span></span></p></td>
 </tr>
 </tbody>
 </table>
