@@ -6,11 +6,11 @@ description: 由世纪互联运营的合作伙伴中心的开发资源
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 26b919459ea6e1c409d3f22aa324d0b877822e8c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584280"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132187"
 ---
 # <a name="develop-for-partner-center-operated-by-21-vianet"></a>针对由世纪互联运营的合作伙伴中心进行开发
 

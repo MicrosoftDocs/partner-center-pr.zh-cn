@@ -1,17 +1,17 @@
 ---
 title: 为你的公司成为全局管理员 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 若要完成许多合作伙伴中心中的任务，首先需要验证你的域的所有权。 在合作伙伴中心中的许多任务都需要全局管理员。如果你的公司还没有一个，您可以将成为一个。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 域中，域验证，验证域、 全局管理员、 用户角色、 权限
-ms.openlocfilehash: bfce394c6ea098bb55a698efb3a2ac33816bd1e0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 55f69cb82789fa3b97bfe122b460ba9a129c37b7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584110"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135407"
 ---
 # <a name="verify-your-domain-ownership"></a>验证域所有权
 

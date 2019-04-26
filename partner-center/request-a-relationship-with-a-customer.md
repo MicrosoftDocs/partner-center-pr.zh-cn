@@ -1,18 +1,18 @@
 ---
 title: 请求与客户建立关系 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理员权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5441f38621dc4f498dc869789f416c4910518690
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4fbd6e5e14c12e81cff4297b60b542ab0ccd5277
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585190"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133977"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -61,7 +61,7 @@ ms.locfileid: "57585190"
 | 适用于美国政府的 Microsoft 云合作伙伴中心中的客户 | Microsoft Office 管理门户 | Microsoft Office 管理门户 |
 |
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
-- [分配的支持联系人](assign-support-contacts.md)
+- [分配支持联系人](assign-support-contacts.md)
 - [与一位客户删除关系](remove-a-relationship.md)

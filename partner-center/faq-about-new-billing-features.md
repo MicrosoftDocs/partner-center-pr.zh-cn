@@ -1,18 +1,18 @@
 ---
 title: 有关新计费功能的常见问题解答 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 以下是关于合作伙伴中心的按年计费和免费试用版功能的常见问题。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: de8b450edace9aea1fbf5321159f41bf26420488
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fd95787a87a1b70a0b2f31114b22dde7ca0f837c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587220"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135687"
 ---
 # <a name="faq-about-new-billing-features"></a>有关新计费功能的常见问题解答
 
@@ -24,7 +24,7 @@ ms.locfileid: "57587220"
 
 以下是关于合作伙伴中心的按年计费和免费试用版功能的常见问题。 
 
-## <a name="in-this-section"></a>本部分内容
+## <a name="in-this-section"></a>本节内容
 
 -   [年度计费常见问题解答](#annualbillingfaq)
 

@@ -1,18 +1,18 @@
 ---
 title: 奖励 co-op 声明 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 直接提交你的奖励申请，不必先通过活动计划审查。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
-ms.openlocfilehash: 15d7f1c09eb3df619876d8f88bb50ec11114ebc4
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: c1ba6ca1fcc624958355761b5d36ffafb9dface2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430106"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135347"
 ---
 # <a name="incentives-co-op-claims-overview"></a>奖励合作申请概述
 
@@ -38,6 +38,6 @@ ms.locfileid: "59430106"
 |提交申请后，管理其他文档请求|[创建和管理的奖励计划活动声明](create-incentives-claims.md)  |
 |确保了解活动申请的基本要求|[知道奖励声明核心要求](core-requirements.md)   |
 |了解完整的奖励计划详细信息|[合作伙伴奖励 Co-op 指南](https://assets.microsoft.com/coop-guidebook.pdf)
-|提交 OSA 销售费用报销申请或 ISV 收入关联声明 |[提交您的 OSA 声明在合作伙伴中心](submit-osa-claim.md)|
+|提交 OSA 销售费用报销申请或 ISV 收入关联声明 |[在合作伙伴中心提交 OSA 申请](submit-osa-claim.md)|
                                                                                  
                                    

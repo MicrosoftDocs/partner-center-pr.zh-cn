@@ -1,18 +1,18 @@
 ---
 title: 升级你的 Microsoft 合作伙伴网络成员身份 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 升级你的 Microsoft 合作伙伴网络成员身份后，你将有资格获取成员身份专享权益。 了解如何查找和购买提供的产品/服务。
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 5322b85cf8fb57d1c8cc203d39a3412f3e119772
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: c7d6639ef747c0089e89565680e96a22408770cb
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587670"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132857"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 

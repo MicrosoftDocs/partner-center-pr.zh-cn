@@ -6,11 +6,11 @@ description: 当客户遇到与某个服务有关的问题时，你可以做的�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d2f17918f6679cbfb6c299dccec2f84855f1140d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584140"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62131997"
 ---
 # <a name="check-service-health"></a>检查服务运行状况
 

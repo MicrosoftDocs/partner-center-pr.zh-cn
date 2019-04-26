@@ -1,17 +1,17 @@
 ---
 title: Microsoft Cloud for US Government 合作伙伴中心常见问题解答 | Microsoft Cloud for US Government 合作伙伴中心常见问题解答
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用这些常见问题解答了解关于 Microsoft Cloud for US Government 云解决方案提供商 (CSP) 计划的详细信息。 你还可以联系你的帐户管理员以了解更多信息。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3738ea042532e4479f60203b3ca58cd902a29435
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 1f8d5f39c2ac00049c9e63de21f18afa6bed8b18
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586140"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135437"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 
@@ -31,7 +31,7 @@ ms.locfileid: "57586140"
 
 **谁有资格获得 CSP 计划适用于美国政府的 Microsoft 云？**
 
-位于美国境内，为美国联邦、州和地方政府实体提供政务能力服务的合作伙伴有资格参加 Microsoft 政府云的云解决方案提供商计划。 Microsoft 实施严格的合作伙伴资格验证程序，合作伙伴须通过验证方可访问 Microsoft 政府云。 若要取得资格，合作伙伴需要提供其与政府客户之间的合作关系证明。 Microsoft Cloud for US Government CSP 计划的注册流程已经过强化，以捕获更多数据来执行验证。 证明类型可以包括但不限于政府合同号和政府客户出具的担保函。
+位于美国境内，为美国联邦、州和地方政府实体提供政务能力服务的合作伙伴有资格参加 Microsoft 政府云的云解决方案提供商计划。 Microsoft 实施严格的合作伙伴资格验证程序，合作伙伴须通过验证方可访问 Microsoft 政府云。 若要取得资格，合作伙伴需要提供其与政府客户之间的合作关系证明。 美国政府 Microsoft 云 CSP 计划的注册流程已经过强化，以捕获更多数据来执行验证。 证明类型可以包括但不限于政府合同号和政府客户出具的担保函。
 
 **位于客户的定价与 CSP 商业相同？**
 
@@ -97,7 +97,7 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 
 **我是现有的合作伙伴。若要执行的操作适用于美国政府销售 Microsoft 云，我需要什么？**
 
-合作伙伴需要加入Microsoft Cloud for US Government CSP 计划，以达到监管和合规要求。 （Microsoft Cloud for US Government 的加入与商业 CSP 的加入相互独立。）加入后，你可以在 Microsoft Cloud for US Government 内创建客户并交易产品或服务。 如果要使用 API，请参阅 [Microsoft 国家云合作伙伴中心开发](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)。
+合作伙伴需要加入Microsoft Cloud for US Government CSP 计划，以达到监管和合规要求。 （美国政府 Microsoft 云的加入与商业 CSP 的加入相互独立。）加入后，你可以在美国政府 Microsoft 云内创建客户并交易产品或服务。 如果要使用 API，请参阅 [Microsoft 国家云合作伙伴中心开发](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)。
 
 **是否有任何合作伙伴激励差异？**
 

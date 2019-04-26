@@ -1,17 +1,17 @@
 ---
 title: 德国 Microsoft 云合作伙伴中心中的用户和许可证管理 | 德国 Microsoft 云合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在德国 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在德国 Microsoft 云的 Azure 门户中添加和管理用户。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e408345f1d2169d84dcb206fa276166512829c3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587030"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132687"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -52,6 +52,6 @@ ms.locfileid: "57587030"
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
 
--  [Microsoft 云德国的合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
+-  [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 
 

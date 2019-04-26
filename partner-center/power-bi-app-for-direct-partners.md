@@ -1,19 +1,19 @@
 ---
 title: 适用于 Power BI 的合作伙伴中心分析应用 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 借助适用于 Power BI 的合作伙伴中心分析应用获得业务数据的直观表示。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f111fd4f3f75acac025021c24a71f4778dd165c0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 5156e58fe79551c5dec55558822b5f6021a837ca
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587120"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134003"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>适用于 Power BI 的合作伙伴中心分析应用（面向云解决方案提供商中的直接合作伙伴）
 

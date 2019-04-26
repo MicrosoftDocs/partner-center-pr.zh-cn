@@ -1,18 +1,18 @@
 ---
 title: 德国 Microsoft 云合作伙伴中心 | 德国 Microsoft 云合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 对于要向欧盟和欧洲自由贸易联盟国家/地区的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴来说，德国 Microsoft 云合作伙伴中心是其业务门户。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74fdfa55a90b7e19dbe44f68a2a24f96be0f5e86
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 69e6258838ddd5532157f05988e5a57f714422ff
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584120"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134197"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心
 

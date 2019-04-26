@@ -6,11 +6,11 @@ description: 了解如何通过世纪互联成为中国的云解决方案提供�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 7642f8e9fc01961518814976d7893fd31d7463ef
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584030"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132307"
 ---
 # <a name="china-cloud-solution-provider-program-guide-and-reseller-agreement"></a>中国云解决方案提供商计划指南和经销商协议
 **适用于**

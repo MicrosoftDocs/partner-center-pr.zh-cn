@@ -7,11 +7,11 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: KPacquer
 ms.author: kenpacq
 ms.openlocfilehash: 30e3b7a7933678c4af079bb86aa1439559387f2b
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584980"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132077"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -71,7 +71,7 @@ ms.locfileid: "57584980"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>描述</strong></td>
+<td><strong>说明</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -240,7 +240,7 @@ ms.locfileid: "57584980"
 <tbody>
 <tr class="odd">
 <td><strong>列</strong></td>
-<td><strong>描述</strong></td>
+<td><strong>说明</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">

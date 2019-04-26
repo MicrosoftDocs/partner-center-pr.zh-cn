@@ -1,18 +1,18 @@
 ---
 title: 更改你的临时密码 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 一旦获取了临时密码，请立即登录合作伙伴中心，并对其进行更改。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 临时密码，更改密码，重置密码
 ms.localizationpriority: medium
-ms.openlocfilehash: 85f222a22b779a19c776f5c11e18e532311fa3f3
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 7f2eb404182919091d28a8b18be5239acbcc90ee
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584480"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135357"
 ---
 # <a name="change-your-temporary-password"></a>更改临时密码
 

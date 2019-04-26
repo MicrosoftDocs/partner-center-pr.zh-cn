@@ -6,11 +6,11 @@ description: 请求经销商关系用于多个合作伙伴和多渠道方案。 
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 7e4a5edb51521beedfda33aecb88e215375e0d86
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583970"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132517"
 ---
 # <a name="request-a-reseller-relationship-with-a-customer"></a>请求与客户建立经销商关系
 

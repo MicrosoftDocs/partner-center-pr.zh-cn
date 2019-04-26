@@ -1,7 +1,7 @@
 ---
 title: 与云解决方案提供商计划中的间接提供商合作 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且可以提供客户支持和计费的间接提供商（也称为分销商）合作。
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +9,12 @@ ms.author: evansma
 keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, 第 2 层, 第 2 层
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f544b5d97cf1f828a4f7dbdddd1cb1947ab28f34
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 88b3bbccc6716696e3ad26034ca794459839b975
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587780"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134437"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 
@@ -67,7 +67,7 @@ ms.locfileid: "57587780"
 
 4.  查看有关如何将你的 Microsoft 合作伙伴网络 ID (MPN ID) 与你的新合作伙伴中心帐户相关联的信息。 我们需要链接新合作伙伴中心帐户与你组织的 MPN ID，以便你可以管理成员资格权益和奖励在合作伙伴中心。 选择**登录**。
 
-5.  输入你登录到 Partner Membership Center (PMC) 站点所使用的用户名。 Partner Membership Center 站点是你当前管理 Microsoft 合作伙伴帐户的位置。 登录到 Partner Membership Center 后，我们可以检索你的 MPN ID，并将其与你的新合作伙伴中心帐户相关联。 选择**下一步** 。 
+5.  输入你登录到 Partner Membership Center (PMC) 站点所使用的用户名。 Partner Membership Center 站点是你当前管理 Microsoft 合作伙伴帐户的位置。 登录到 Partner Membership Center 后，我们可以检索你的 MPN ID，并将其与你的新合作伙伴中心帐户相关联。 选择“**下一步**”。 
 
 6.  输入 Partner Membership Center 帐户的密码，然后选择**登录**。
 

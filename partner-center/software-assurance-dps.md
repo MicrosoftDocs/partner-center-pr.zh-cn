@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 预部署，规划、 软件保障
 ms.localizationpriority: medium
 ms.openlocfilehash: 222ba9b7fe526021bf06f4fda7f72b4703ba73c8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587920"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133837"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心中的软件保障规划服务
 

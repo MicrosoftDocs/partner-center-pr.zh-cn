@@ -6,11 +6,11 @@ description: 对于已通过其他渠道购买了订阅，但想要让你预配�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 3a61b4dff6b927d4b3c5b2783bb9c09dd87a6c88
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584300"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132327"
 ---
 # <a name="multi-channel"></a>多渠道
 

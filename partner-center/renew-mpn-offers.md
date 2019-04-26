@@ -1,19 +1,19 @@
 ---
 title: 续订你的 MPN 产品/服务 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 你的 MPN 产品/服务订阅续订时段开始于购买日期一周年后加一天。
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 能力续订, 续订日期
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e3008352b141625a974c78c11615161b29334eb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: f84493a8394188d56bc19ccd7e67af75f6fdd090
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586890"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134107"
 ---
 # <a name="renew-your-mpn-offers"></a>续订你的 MPN 产品/服务
 

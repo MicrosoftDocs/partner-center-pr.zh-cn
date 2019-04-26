@@ -1,18 +1,18 @@
 ---
 title: 组织税收信息 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 适用于企业的 Windows 应用商店购买的税收由你的企业地址确定。 位于以下国家/地区的企业可以提供其增值税编号或本地等效项：
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 68473522176eba2bc3afdfe8625428da117c9f33
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584070"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134227"
 ---
 # <a name="organization-tax-information"></a>组织税收信息
 

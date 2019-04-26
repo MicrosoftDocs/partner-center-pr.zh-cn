@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 94eb23f854a85fa08ed01a0ccdaff8e546911d78
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132937"
+---
 # <a name="youve-added-your-first-readme-file"></a>添加第一个自述文件 ！
 README.md 文件旨在快速定位到您的项目可以执行的操作的读取器。  Markdown 的新手？ [了解详细信息](https://go.microsoft.com/fwlink/p/?LinkId=524306&clcid=0x409)
 

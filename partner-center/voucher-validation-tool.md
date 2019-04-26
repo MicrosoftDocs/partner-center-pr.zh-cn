@@ -8,11 +8,11 @@ ms.author: labrenne
 Keywords: 培训、 红包： 试用工具，验证凭证，软件保障的声明，DPS，SATV
 ms.localizationpriority: medium
 ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587830"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132647"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证 
 

@@ -1,18 +1,18 @@
 ---
 title: 适用于 Power BI 的合作伙伴中心分析应用 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 59e5ce944429a74ab9090952eb877187b169ce08
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 085fcb059a11b487c69ba64d9c411b173ed48c6b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587480"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134567"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>使用适用于 Microsoft Power BI 的合作伙伴中心分析应用查看你的业务数据
 
@@ -160,7 +160,7 @@ ms.locfileid: "57587480"
 
 - **所选的时间估计的 Azure 资源的使用费用**:基于最新的费率卡在选定时间段过去 60 天内每个基于使用情况订阅中每个按流量计费资源的估计的开销。 
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 [Power BI 应用概述的合作伙伴中心分析](power-bi-app-for-direct-partners.md)
 

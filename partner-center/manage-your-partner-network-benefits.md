@@ -1,18 +1,18 @@
 ---
 title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 说明如何激活和管理您在合作伙伴中心中的成员身份权益。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 成员身份权益, 成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: 60af091fdfe47d51d5e7b669f66cb8d0610286bb
-ms.sourcegitcommit: f5dbd07185059aa5faddf1c5daa556f634ce97ee
-ms.translationtype: MT
+ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "57988211"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134387"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 

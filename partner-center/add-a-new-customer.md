@@ -9,11 +9,11 @@ ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
 ms.openlocfilehash: b086796f6907b4ff4705b7c2fe1965b7d2adceff
-ms.sourcegitcommit: 3441bb8085f14f4242d5c640d45eab00f751bf23
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "58343398"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134477"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 

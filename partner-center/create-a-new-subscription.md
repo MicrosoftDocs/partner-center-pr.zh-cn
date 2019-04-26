@@ -9,11 +9,11 @@ ms.author: labrenne
 Keywords: 订阅，创建新的、 添加订阅、 挂起和取消挂起
 ms.localizationpriority: medium
 ms.openlocfilehash: e66e3944e9be7c08bd0dab35f09bde42e4ba33f6
-ms.sourcegitcommit: 1c1345572abb3754d114212e24aa52b009cee92d
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2019
-ms.locfileid: "57756914"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135017"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 

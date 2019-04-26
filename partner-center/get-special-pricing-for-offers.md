@@ -1,18 +1,18 @@
 ---
 title: 向特定行业销售 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: Microsoft 提供了特殊，约定价选择的客户，其中包括教育客户、 非盈利组织客户和政府用户组。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: cef6e3cc6b5bb25593ae150351121793de26cb3e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585750"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135657"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -40,16 +40,16 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 ## <a name="check-the-customer-qualifications"></a>检查客户资格
 
 1.  从**合作伙伴中心**菜单中，选择**客户**。 从列表中选择客户。
-2.  在“客户”菜单中，选择**帐户**。 在“公司信息”部分中，查找“特殊资格”。
-3.  如果“特殊资格”设为“无”，但客户实际上符合资格，可“更新”其详细信息以包含他们。
+2.  在“客户”菜单中，选择**帐户**。 在**公司信息**部分中，查找**特殊资格**。
+3.  如果**特殊资格**设为**无**，但客户实际上符合资格，可将相关资格**更新**到其详细信息中。
 
 ## <a name="where-to-find-special-offers"></a>在哪里可以找到特价产品/服务
 
 你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在**新订阅**页的**目录**部分，选择特定行业以查看你可以销售的特价产品/服务。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
-[销售 Minecraft:向教育客户的教育版订阅](minecraft-subscriptions.md)
+[销售“我的世界”：向教育客户的教育版订阅](minecraft-subscriptions.md)
 
 
  

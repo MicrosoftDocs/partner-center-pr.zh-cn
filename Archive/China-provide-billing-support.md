@@ -6,11 +6,11 @@ description: 你与你的客户之间存在计费关系，并且完全支持任�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: a345a5594fd0f8cc58910863a7162b96eec37f17
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585760"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132447"
 ---
 # <a name="provide-billing-support"></a>提供计费支持
 
@@ -32,6 +32,6 @@ ms.locfileid: "57585760"
 **另请参阅**
 
 -   [非付款、 欺诈或滥用](non-payment-fraud-or-misuse.md)
--   [提供的技术支持](provide-technical-support.md)
+-   [提供技术支持](provide-technical-support.md)
 -   [客户支持](customer-support.md)
 

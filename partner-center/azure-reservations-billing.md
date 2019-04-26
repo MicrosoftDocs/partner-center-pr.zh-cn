@@ -1,19 +1,19 @@
 ---
 title: Azure 预订计费 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 有关计费的 Azure 保留的信息。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure RI, azure 预留实例, 预订, 虚拟机, 管理, 计费, 购买
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b32c0da58cefea764f7f0cb3adb6d3a13faa46b5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586900"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135417"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 虚拟机预留实例计费
 
@@ -58,7 +58,7 @@ ms.locfileid: "57586900"
 
 |**字段** |**定义**|
 |:----------------|:-----------------------------|
-|日期 |购买的日期。 |
+|date |购买的日期。 |
 |描述 |产品名称。 |
 |数量 |所购买的产品（例如预订）的数量。 |
 |单价 |每个产品（例如预订）的价格。 |

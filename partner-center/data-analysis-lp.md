@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴中心中的数据和分析 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用合作伙伴中心中的数据功能，可更好地了解你的业务。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 数据, 分析, 数据分析, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bc863943e968bb66ec1090751d1e2a38e3f5d66
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587070"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135597"
 ---
 # <a name="get-data-and-analyze-your-business"></a>获取数据并分析业务 
 
@@ -36,7 +36,7 @@ ms.locfileid: "57587070"
 
 |**若要获得有关的数据**   |**下载此**   |**阅读此内容**   | **适用于**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|客户在如何使用他们购买的许可证   |从合作伙伴中心的部署和使用情况数据 = > 产品分析   |[提高采用和满意度](increasing-adoption-and-satisfaction.md)|云解决方案提供商合作伙伴|
+|客户在如何使用他们购买的许可证   |从合作伙伴中心的部署和使用情况数据 = > 产品分析   |[提高采用率和满意度](increasing-adoption-and-satisfaction.md)|云解决方案提供商合作伙伴|
 |与订阅有关的客户活动   |活动日志   |[查看客户活动日志](activity-logs.md)|云解决方案提供商合作伙伴   |
 |客户群增长、使用情况、Azure 使用信息等   |适用于 Power BI 的合作伙伴中心应用   |[适用于 Power BI （直接 CSP 合作伙伴） 合作伙伴中心分析应用](power-bi-app-for-direct-partners.md)|云解决方案提供商直接合作伙伴|
 

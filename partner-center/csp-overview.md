@@ -1,18 +1,18 @@
 ---
 title: 云解决方案提供商计划 - 销售畅销的云解决方案 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 云解决方案提供商计划可以通过新客户和新专长来帮助你拓展业务。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 ms.localizationpriority: medium
-ms.openlocfilehash: 1840d87626bef935347218b44d44c3d44607722d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584190"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134747"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
@@ -39,7 +39,7 @@ ms.locfileid: "57584190"
 支持
 - 通过 Microsoft 合作伙伴高级支持程序包购买一对一的优先云支持扩展你的支持功能。 或选择 Microsoft 合作伙伴顶级支持程序包，以访问主动服务的完整目录、全天候的升级中断/修复支持以及跨云、混合和本地的技术帐户管理。 
 
-服务
+Services
 
 - 展示你至少提供一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加托管服务的详细信息
 
@@ -68,13 +68,13 @@ ms.locfileid: "57584190"
 
 你可以销售整套 [Microsoft 云服务](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及各种经常变化的其他产品/服务。 若要查看 CSP 提供当前月份，在登录到合作伙伴中心，然后转到[**定价和优惠**](https://partnercenter.microsoft.com/pcv/sales)页。
 
-## <a name="see-also"></a>另请参阅 
+## <a name="see-also"></a>请参阅 
 
 
 |**若要了解有关此**   |**阅读此内容**   |
 |:---------------------------|:--------------------|
 |每种云解决方案提供商模式的要求   | [云解决方案提供商计划](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |在 Microsoft 国家云中销售   | [适用于在 Microsoft 国家/地区云销售](csp-national-clouds-overview.md)|
-|Microsoft 云协议客户模板   |[按区域和语言的 Microsoft 云协议](agreements.md)|
+|Microsoft 云协议客户模板   |[按地区和语言划分的 Microsoft 云协议](agreements.md)|
 |在合作伙伴中心上的间接提供程序任务  |[与云解决方案提供商计划中间接经销商合作](indirect-provider-tasks-in-partner-center.md)|
 |在合作伙伴中心上的间接经销商任务   |[与云解决方案提供商计划中间接提供商合作](indirect-reseller-tasks-in-partner-center.md)|
