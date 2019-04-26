@@ -1,17 +1,17 @@
 ---
 title: 将基于许可证的服务客户移动到合作伙伴中心的云解决方案提供商计划中 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 将客户及其订阅从其他渠道或其他合作伙伴迁移至云解决方案提供商计划。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7277802d5e2aec6118a8334520be89602f15632a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b4e1e64eefeef3ac0bd70bb3eb300fe3caddf8f3
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587770"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132917"
 ---
 # <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>将基于许可证的服务客户从另一个渠道转移到云解决方案提供商计划，或者从一个合作伙伴转移到另一个合作伙伴
 
