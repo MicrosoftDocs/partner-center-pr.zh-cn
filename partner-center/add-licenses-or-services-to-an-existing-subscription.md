@@ -1,32 +1,32 @@
 ---
 title: 将许可证或服务添加到现有订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: b76a0d4fd5bf8829c6e2426174f5873f30757315
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 0f8ec69595c81a60c26153640274b6b29b1f9fc1
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585430"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134537"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a><span data-ttu-id="a720a-104">将许可证或服务添加到现有订阅</span><span class="sxs-lookup"><span data-stu-id="a720a-104">Add licenses or services to an existing subscription</span></span>
+# <a name="add-licenses-or-services-to-an-existing-subscription"></a><span data-ttu-id="97ee1-104">将许可证或服务添加到现有订阅</span><span class="sxs-lookup"><span data-stu-id="97ee1-104">Add licenses or services to an existing subscription</span></span>
 
-<span data-ttu-id="a720a-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="a720a-105">**Applies to**</span></span>
+<span data-ttu-id="97ee1-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="97ee1-105">**Applies to**</span></span>
 
--  <span data-ttu-id="a720a-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a720a-106">Partner Center</span></span>
+-  <span data-ttu-id="97ee1-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="97ee1-106">Partner Center</span></span>
 
-<span data-ttu-id="a720a-107">如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。</span><span class="sxs-lookup"><span data-stu-id="a720a-107">If your customer needs more seats than their current subscription provided, or a different version with additional services, you may be able to upgrade the subscription.</span></span> <span data-ttu-id="a720a-108">有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。</span><span class="sxs-lookup"><span data-stu-id="a720a-108">For more details, see [Switch to a different Office 365 for Business plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).</span></span>
+<span data-ttu-id="97ee1-107">如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。</span><span class="sxs-lookup"><span data-stu-id="97ee1-107">If your customer needs more seats than their current subscription provided, or a different version with additional services, you may be able to upgrade the subscription.</span></span> <span data-ttu-id="97ee1-108">有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。</span><span class="sxs-lookup"><span data-stu-id="97ee1-108">For more details, see [Switch to a different Office 365 for Business plan](https://go.microsoft.com/fwlink/p/?LinkId=723577).</span></span>
 
 ## <a href="" id="upgradesubscription"></a>
 
 
-<span data-ttu-id="a720a-109">云解决方案提供商支持以下升级：</span><span class="sxs-lookup"><span data-stu-id="a720a-109">The following upgrades are supported in Cloud Solution Provider:</span></span>
+<span data-ttu-id="97ee1-109">云解决方案提供商支持以下升级：</span><span class="sxs-lookup"><span data-stu-id="97ee1-109">The following upgrades are supported in Cloud Solution Provider:</span></span>
 
 <table>
 <colgroup>
@@ -35,65 +35,65 @@ ms.locfileid: "57585430"
 </colgroup>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="a720a-110">产品/服务</span><span class="sxs-lookup"><span data-stu-id="a720a-110">Offer</span></span></th>
-<th><span data-ttu-id="a720a-111">可用升级</span><span class="sxs-lookup"><span data-stu-id="a720a-111">Possible upgrades</span></span></th>
+<th><span data-ttu-id="97ee1-110">产品/服务</span><span class="sxs-lookup"><span data-stu-id="97ee1-110">Offer</span></span></th>
+<th><span data-ttu-id="97ee1-111">可用升级</span><span class="sxs-lookup"><span data-stu-id="97ee1-111">Possible upgrades</span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="a720a-112">Office 365 企业版</span><span class="sxs-lookup"><span data-stu-id="a720a-112">Office 365 Business</span></span></td>
+<td><span data-ttu-id="97ee1-112">Office 365 企业版</span><span class="sxs-lookup"><span data-stu-id="97ee1-112">Office 365 Business</span></span></td>
 <td><ul>
-<li><span data-ttu-id="a720a-113">Office 365 商业高级版¹</span><span class="sxs-lookup"><span data-stu-id="a720a-113">Office 365 Business Premium¹</span></span></li>
-<li><span data-ttu-id="a720a-114">Office 365 专业增强版</span><span class="sxs-lookup"><span data-stu-id="a720a-114">Office 365 ProPlus</span></span></li>
-<li><span data-ttu-id="a720a-115">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="a720a-115">Office 365 Enterprise E3</span></span></li>
-<li><span data-ttu-id="a720a-116">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="a720a-116">Office 365 Enterprise E5</span></span></li>
+<li><span data-ttu-id="97ee1-113">Office 365 商业高级版¹</span><span class="sxs-lookup"><span data-stu-id="97ee1-113">Office 365 Business Premium¹</span></span></li>
+<li><span data-ttu-id="97ee1-114">Office 365 专业增强版</span><span class="sxs-lookup"><span data-stu-id="97ee1-114">Office 365 ProPlus</span></span></li>
+<li><span data-ttu-id="97ee1-115">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="97ee1-115">Office 365 Enterprise E3</span></span></li>
+<li><span data-ttu-id="97ee1-116">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="97ee1-116">Office 365 Enterprise E5</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="a720a-117">Office 365 商业高级版</span><span class="sxs-lookup"><span data-stu-id="a720a-117">Office 365 Business Premium</span></span></td>
+<td><span data-ttu-id="97ee1-117">Office 365 商业高级版</span><span class="sxs-lookup"><span data-stu-id="97ee1-117">Office 365 Business Premium</span></span></td>
 <td><ul>
-<li><span data-ttu-id="a720a-118">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="a720a-118">Office 365 Enterprise E3</span></span></li>
-<li><span data-ttu-id="a720a-119">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="a720a-119">Office 365 Enterprise E5</span></span></li>
+<li><span data-ttu-id="97ee1-118">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="97ee1-118">Office 365 Enterprise E3</span></span></li>
+<li><span data-ttu-id="97ee1-119">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="97ee1-119">Office 365 Enterprise E5</span></span></li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="a720a-120">Office 365 商业协作版</span><span class="sxs-lookup"><span data-stu-id="a720a-120">Office 365 Business Essentials</span></span></td>
+<td><span data-ttu-id="97ee1-120">Office 365 商业协作版</span><span class="sxs-lookup"><span data-stu-id="97ee1-120">Office 365 Business Essentials</span></span></td>
 <td><ul>
-<li><span data-ttu-id="a720a-121">Office 365 商业高级版¹</span><span class="sxs-lookup"><span data-stu-id="a720a-121">Office 365 Business Premium¹</span></span></li>
-<li><span data-ttu-id="a720a-122">Office 365 企业版 E1</span><span class="sxs-lookup"><span data-stu-id="a720a-122">Office 365 Enterprise E1</span></span></li>
-<li><span data-ttu-id="a720a-123">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="a720a-123">Office 365 Enterprise E3</span></span></li>
-<li><span data-ttu-id="a720a-124">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="a720a-124">Office 365 Enterprise E5</span></span></li>
+<li><span data-ttu-id="97ee1-121">Office 365 商业高级版¹</span><span class="sxs-lookup"><span data-stu-id="97ee1-121">Office 365 Business Premium¹</span></span></li>
+<li><span data-ttu-id="97ee1-122">Office 365 企业版 E1</span><span class="sxs-lookup"><span data-stu-id="97ee1-122">Office 365 Enterprise E1</span></span></li>
+<li><span data-ttu-id="97ee1-123">Office 365 企业版 E3</span><span class="sxs-lookup"><span data-stu-id="97ee1-123">Office 365 Enterprise E3</span></span></li>
+<li><span data-ttu-id="97ee1-124">Office 365 企业版 E5</span><span class="sxs-lookup"><span data-stu-id="97ee1-124">Office 365 Enterprise E5</span></span></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span data-ttu-id="a720a-125">¹ office 365 业务印度和 Office 365 Business Essentials 印度可以升级到 Office 365 商业高级版印度，不适用于 Office 365 商业高级版。</span><span class="sxs-lookup"><span data-stu-id="a720a-125">¹ Office 365 Business India and Office 365 Business Essentials India can be upgraded to Office 365 Business Premium India, not to Office 365 Business Premium.</span></span></p></td>
+<td><p><span data-ttu-id="97ee1-125">¹ office 365 业务印度和 Office 365 Business Essentials 印度可以升级到 Office 365 商业高级版印度，不适用于 Office 365 商业高级版。</span><span class="sxs-lookup"><span data-stu-id="97ee1-125">¹ Office 365 Business India and Office 365 Business Essentials India can be upgraded to Office 365 Business Premium India, not to Office 365 Business Premium.</span></span></p></td>
 </tr>
 </tbody>
 </table>
 
  
 
-<span data-ttu-id="a720a-126">如果以下这些条件适用，可升级订阅：</span><span class="sxs-lookup"><span data-stu-id="a720a-126">Subscriptions can be upgraded if these conditions apply:</span></span>
+<span data-ttu-id="97ee1-126">如果以下这些条件适用，可升级订阅：</span><span class="sxs-lookup"><span data-stu-id="97ee1-126">Subscriptions can be upgraded if these conditions apply:</span></span>
 
--   <span data-ttu-id="a720a-127">订阅必须处于活动状态（而不是处于已暂停或已取消状态）。</span><span class="sxs-lookup"><span data-stu-id="a720a-127">The subscription must be active (not suspended or cancelled).</span></span>
+-   <span data-ttu-id="97ee1-127">订阅必须处于活动状态（而不是处于已暂停或已取消状态）。</span><span class="sxs-lookup"><span data-stu-id="97ee1-127">The subscription must be active (not suspended or cancelled).</span></span>
 
--   <span data-ttu-id="a720a-128">对于此客户和服务，你必须具有委派的管理员权限。</span><span class="sxs-lookup"><span data-stu-id="a720a-128">You must have delegated admin privileges for this customer and service.</span></span> <span data-ttu-id="a720a-129">了解如何[请求委派的管理员权限](request-a-relationship-with-a-customer.md)。</span><span class="sxs-lookup"><span data-stu-id="a720a-129">Learn how to [Request delegated admin privileges](request-a-relationship-with-a-customer.md).</span></span>
+-   <span data-ttu-id="97ee1-128">对于此客户和服务，你必须具有委派的管理员权限。</span><span class="sxs-lookup"><span data-stu-id="97ee1-128">You must have delegated admin privileges for this customer and service.</span></span> <span data-ttu-id="97ee1-129">了解如何[请求委派的管理员权限](request-a-relationship-with-a-customer.md)。</span><span class="sxs-lookup"><span data-stu-id="97ee1-129">Learn how to [Request delegated admin privileges](request-a-relationship-with-a-customer.md).</span></span>
 
--   <span data-ttu-id="a720a-130">客户已不能拥有包含其他服务的订阅。</span><span class="sxs-lookup"><span data-stu-id="a720a-130">The customer can’t already have subscriptions that include the additional services.</span></span>
+-   <span data-ttu-id="97ee1-130">客户已不能拥有包含其他服务的订阅。</span><span class="sxs-lookup"><span data-stu-id="97ee1-130">The customer can’t already have subscriptions that include the additional services.</span></span>
 
--   <span data-ttu-id="a720a-131">客户已不能拥有你要尝试将其升级到的订阅。</span><span class="sxs-lookup"><span data-stu-id="a720a-131">The customer can’t already have the subscriptions you are trying to upgrade them to.</span></span>
+-   <span data-ttu-id="97ee1-131">客户已不能拥有你要尝试将其升级到的订阅。</span><span class="sxs-lookup"><span data-stu-id="97ee1-131">The customer can’t already have the subscriptions you are trying to upgrade them to.</span></span>
 
-<span data-ttu-id="a720a-132">在后两种情况下，客户可能已经从其他合作伙伴或其他渠道购买了这些订阅或服务，除非他们先取消已购买的现有订阅或服务，否则他们将无法通过你进行购买。</span><span class="sxs-lookup"><span data-stu-id="a720a-132">It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won’t be able to purchase them from you unless they cancel their existing ones first.</span></span> <span data-ttu-id="a720a-133">有关详细信息，请参阅[多渠道](multichannel.md)。</span><span class="sxs-lookup"><span data-stu-id="a720a-133">For more information, see [multi-channel](multichannel.md).</span></span>
+<span data-ttu-id="97ee1-132">在后两种情况下，客户可能已经从其他合作伙伴或其他渠道购买了这些订阅或服务，除非他们先取消已购买的现有订阅或服务，否则他们将无法通过你进行购买。</span><span class="sxs-lookup"><span data-stu-id="97ee1-132">It is possible, in the latter two cases that the customer may have purchased those subscriptions or services from another partner or another channel, and they won’t be able to purchase them from you unless they cancel their existing ones first.</span></span> <span data-ttu-id="97ee1-133">有关详细信息，请参阅[多渠道](multichannel.md)。</span><span class="sxs-lookup"><span data-stu-id="97ee1-133">For more information, see [multi-channel](multichannel.md).</span></span>
 
-<span data-ttu-id="a720a-134">有关将对计费产生的影响的详细信息，请参阅[常见计费方案](common-billing-scenarios.md)中有关取消订阅和添加新订阅的详细信息。</span><span class="sxs-lookup"><span data-stu-id="a720a-134">For more information about the impact this will have on billing, see the details about cancelling a subscription and adding a new subscription in [Common billing scenarios](common-billing-scenarios.md).</span></span>
+<span data-ttu-id="97ee1-134">有关将对计费产生的影响的详细信息，请参阅[常见计费方案](common-billing-scenarios.md)中有关取消订阅和添加新订阅的详细信息。</span><span class="sxs-lookup"><span data-stu-id="97ee1-134">For more information about the impact this will have on billing, see the details about cancelling a subscription and adding a new subscription in [Common billing scenarios](common-billing-scenarios.md).</span></span>
 
-<span data-ttu-id="a720a-135">**升级订阅**</span><span class="sxs-lookup"><span data-stu-id="a720a-135">**Upgrade a subscription**</span></span>
+<span data-ttu-id="97ee1-135">**升级订阅**</span><span class="sxs-lookup"><span data-stu-id="97ee1-135">**Upgrade a subscription**</span></span>
 
-1.  <span data-ttu-id="a720a-136">若要查看某个订阅是否符合升级条件，请选择你的客户，然后打开他们的订阅列表。</span><span class="sxs-lookup"><span data-stu-id="a720a-136">To see if a subscription is eligible for upgrading, choose your customer, then open their list of subscriptions.</span></span>
-2.  <span data-ttu-id="a720a-137">如果该订阅可以升级，你会在订阅名称后立即看到信息图标。</span><span class="sxs-lookup"><span data-stu-id="a720a-137">If the subscription can be upgraded, you will see an informational icon right after the subscription name.</span></span> <span data-ttu-id="a720a-138">将鼠标悬停在此图标上方，然后选择**立即升级**。</span><span class="sxs-lookup"><span data-stu-id="a720a-138">Hover over this icon, then select **Upgrade now**.</span></span>
-3.  <span data-ttu-id="a720a-139">选择新的产品/服务，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="a720a-139">Select the new offer, then choose **Submit**.</span></span>
-4.  <span data-ttu-id="a720a-140">针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。</span><span class="sxs-lookup"><span data-stu-id="a720a-140">There may be additional work to transition some user accounts for certain services.</span></span> <span data-ttu-id="a720a-141">如果是这样，合作伙伴中心提供帐户和受影响的服务的列表。</span><span class="sxs-lookup"><span data-stu-id="a720a-141">If so, the Partner Center provides a list of accounts and services that were affected.</span></span> <span data-ttu-id="a720a-142">有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](https://go.microsoft.com/fwlink/p/?LinkId=723576)。</span><span class="sxs-lookup"><span data-stu-id="a720a-142">For help, see the knowledge base article [Problems in reassigning licenses while you switch plans in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).</span></span>
+1.  <span data-ttu-id="97ee1-136">若要查看某个订阅是否符合升级条件，请选择你的客户，然后打开他们的订阅列表。</span><span class="sxs-lookup"><span data-stu-id="97ee1-136">To see if a subscription is eligible for upgrading, choose your customer, then open their list of subscriptions.</span></span>
+2.  <span data-ttu-id="97ee1-137">如果该订阅可以升级，你会在订阅名称后立即看到信息图标。</span><span class="sxs-lookup"><span data-stu-id="97ee1-137">If the subscription can be upgraded, you will see an informational icon right after the subscription name.</span></span> <span data-ttu-id="97ee1-138">将鼠标悬停在此图标上方，然后选择**立即升级**。</span><span class="sxs-lookup"><span data-stu-id="97ee1-138">Hover over this icon, then select **Upgrade now**.</span></span>
+3.  <span data-ttu-id="97ee1-139">选择新的产品/服务，然后选择**提交**。</span><span class="sxs-lookup"><span data-stu-id="97ee1-139">Select the new offer, then choose **Submit**.</span></span>
+4.  <span data-ttu-id="97ee1-140">针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。</span><span class="sxs-lookup"><span data-stu-id="97ee1-140">There may be additional work to transition some user accounts for certain services.</span></span> <span data-ttu-id="97ee1-141">如果是这样，合作伙伴中心提供帐户和受影响的服务的列表。</span><span class="sxs-lookup"><span data-stu-id="97ee1-141">If so, the Partner Center provides a list of accounts and services that were affected.</span></span> <span data-ttu-id="97ee1-142">有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](https://go.microsoft.com/fwlink/p/?LinkId=723576)。</span><span class="sxs-lookup"><span data-stu-id="97ee1-142">For help, see the knowledge base article [Problems in reassigning licenses while you switch plans in Office 365](https://go.microsoft.com/fwlink/p/?LinkId=723576).</span></span>
 
  
 
