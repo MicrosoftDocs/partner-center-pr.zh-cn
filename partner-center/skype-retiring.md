@@ -1,19 +1,19 @@
 ---
 title: 将 Skype for Business Online Plan 1 订阅迁移到更新的 Office 365 版本 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 对于受支持的 SKU 选项 Business Online 计划 1 订阅即将到期 Skype 的过渡客户。 我们建议在订阅的每年结束日期之前移到新订阅的客户。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Skype for Business 计划, 停用 Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 74df419f8cbd416da494bd87d873f5315d6a9b70
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e71e6b05b5ea489b2b6b486f388f5c575dfd02c5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586100"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133908"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>将 Skype for Business Online Plan 1 订阅迁移到更新的 Office 365 版本
 
@@ -67,7 +67,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 5. 在**管理许可证**页面上，清除 Skype for Business Online Plan 1 许可证复选框，然后选择客户要迁移到的订阅的新服务计划。
 
-6. 选择“提交”。 确认页面列出了新的许可证分配。 继续对需要许可证分配的其他用户执行相同过程。
+6. 选择**提交**。 确认页面列出了新的许可证分配。 继续对需要许可证分配的其他用户执行相同过程。
 
 在将用户许可证移动至新服务后，可安全取消该客户级别的已停用订阅。
 

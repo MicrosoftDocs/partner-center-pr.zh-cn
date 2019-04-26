@@ -1,19 +1,19 @@
 ---
 title: 将问题上报给 Microsoft | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 你应代表客户解决问题。 但是，有几个类别的需要将提交给 Microsoft 以修复的问题。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0c1fc091212d70bf18337a9e17cc8f83cb61d4ae
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2dbec40da4b230a3a7d822c18ab3fbb02406f0ff
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586430"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135667"
 ---
 # <a name="escalate-problems-to-microsoft"></a>将问题上报给 Microsoft
 

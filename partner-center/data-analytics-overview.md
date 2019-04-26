@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴中心中的数据和分析 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 使用合作伙伴中心中的数据功能可使你更好地了解客户需求
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 数据、 分析、 使用情况、 技能
 ms.localizationpriority: medium
-ms.openlocfilehash: 946a7e0e7fcbc4133e53f985508049a65ada0e45
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: d2efeb8125077de10acb891908fe81a0fb0f00f9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585790"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135607"
 ---
 # <a name="data-and-analytics-in-partner-center"></a>合作伙伴中心中的数据和分析
 

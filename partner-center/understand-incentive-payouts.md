@@ -1,17 +1,17 @@
 ---
 title: 了解你的奖励付款 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 查看奖励计划的收益和付款。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7c40434f8d762507623ac4ee4b84d4c7b42616a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 01e5cc1ba04d17313a9d0693807661ad654cf2a6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585380"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132897"
 ---
 # <a name="incentive-payouts-overview"></a>激励付款概述
 
@@ -106,7 +106,7 @@ ms.locfileid: "57585380"
 |EarningID      |未每个收益行项目创建的唯一标识符 |               
 |合作伙伴名称   | 合作伙伴在合作伙伴中心的注册名称                    |
 |MPN/PCN        |MPN ID（合作伙伴的 Microsoft 合作伙伴网络 ID）/公用客户号码|
-|位置       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
+|Location       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
 |计划名称   |奖励计划的名称 |
 |客户名称  |   购买订阅的客户的名称 |
 |客户位置  | 客户所在的国家/地区  |
@@ -147,11 +147,11 @@ ms.locfileid: "57585380"
 
 ## <a name="downloading-payment-details"></a>下载付款详细信息 
 
-|**列名称**   |**描述**   |
+|**列名称**   |**说明**   |
 |-------------------|:--------------------|
 |合作伙伴名称|合作伙伴在合作伙伴中心的注册名称|
 |MPN/PCN        |MPN ID（合作伙伴的 Microsoft 合作伙伴网络 ID）/公用客户号码|
-|位置       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
+|Location       | 合作伙伴的 MPN V 组织 ID 的国家/地区|
 |计划名称   |奖励计划的名称 |
 |收益类型   |收益类型（退款、调整） |
 |付款金额货币|   用于付款的货币类型|

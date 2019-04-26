@@ -1,18 +1,18 @@
 ---
 title: Microsoft 云协议客户接受确认常见问题解答 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 客户接受确认的常见问题解答
 author: LauraBrenner
 ms.author: v-petand
 keywords: 客户、 客户、 同意的情况下，常见问题，MCA，Microsoft 云协议
 ms.localizationpriority: medium
-ms.openlocfilehash: 6f95de539e056c086e921d7b4eda62f3cbffa30e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 52f38191aefa722b96ca5f104e9af023952bd7d7
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587400"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135007"
 ---
 # <a name="microsoft-cloud-agreement-customer-acceptance-confirmation-frequently-asked-questions"></a>Microsoft 云协议客户接受确认常见问题解答
 
@@ -57,7 +57,7 @@ Microsoft 验证提供的客户电子邮件地址正确的格式。 它负责的
 
 **为什么 Microsoft 会要求确认客户已接受 Microsoft 云协议的合作伙伴？** 
 
-Microsoft 云协议保护合作伙伴、 客户和 Microsoft 通过提供客户的使用权限、 条款和条件授予 Microsoft 云产品和服务订单。 
+Microsoft 云协议为客户提供适用于 Microsoft 云产品和服务的使用权利、条款和条件，以此保护合作伙伴、客户和 Microsoft 的利益。 
 
 Microsoft 云协议的正确执行通过确保包括的许多重要主题相互对齐方式保护我们的合作伙伴、 客户和 Microsoft，但不是限于安全性、 隐私和数据保护。 确认过程可确保透明度和对齐方式，并允许 Microsoft 为了更好地帮助客户需要立即响应法规的查询。
 

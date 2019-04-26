@@ -1,19 +1,19 @@
 ---
 title: Azure Cost Management by Cloudyn（面向云解决方案提供商合作伙伴）| 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Azure Cost Management by Cloudyn 需要对合作伙伴中心 API 的访问权限进行预配。
 author: Janet
 ms.author: janet
 Keywords: Azure 成本管理应用程序，管理成本，web 应用
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: f1627727908eff9c686dd8359558e960d0fbff88
-ms.sourcegitcommit: 6578eea4fe6836dad5710f8d22376ad8bba6e307
-ms.translationtype: MT
+ms.openlocfilehash: 14b94e94c349fa142cb6bd37ed4ca94f7a9397b6
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "58490339"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134667"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>面向 Azure 云解决方案提供商合作伙伴的 Azure Cost Management  
 

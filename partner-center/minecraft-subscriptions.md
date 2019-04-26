@@ -1,20 +1,20 @@
 ---
 title: 向教育行业客户销售 Minecraft Education Edition 订阅
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 向合格的教育行业客户销售 Minecraft Education Edition 订阅。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 教育，学校向销售授权的培训合作伙伴，教育版
 ms.localizationpriority: medium
-ms.openlocfilehash: ad5ebefb3ca745e81790af5cfb60de2df91887e5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 4c5b221bae98e203159afd8926bbdd3d3bbd0421
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584890"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134357"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>销售 Minecraft:向教育客户的教育版订阅
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>销售“我的世界”：向教育客户的教育版订阅
 
 **适用于**
 

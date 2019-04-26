@@ -8,11 +8,11 @@ ms.author: v-petand
 keywords: Azure、 订阅、 虚拟机，保留，保留实例
 ms.localizationpriority: medium
 ms.openlocfilehash: 15de1f8ce78eca7eec34113eaf1115fa8c441edf
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586400"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135397"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,7 +24,7 @@ ms.locfileid: "57586400"
  
 ## <a name="what-are-azure-reservations"></a>Azure 保留有哪些？
 
-Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQL 数据库的计算能力、 Azure Cosmos DB 吞吐量或其他 Azure 资源。 预付费，可使用的资源可享受折扣。 保留可显著减少虚拟机，SQL 数据库计算，Azure Cosmos DB 和其他资源的费用为即用即付价格相比高达 72%。 保留项提供一种计费折扣，并不会影响你的资源的运行时状态。有关详细信息请参阅[Azure 保留是什么？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQL 数据库的计算能力、 Azure Cosmos DB 吞吐量或其他 Azure 资源。 通过预付，你可以享受所用资源的折扣优惠。 与即付即用定价相比，预订可以显著降低你在虚拟机、SQL 数据库计算、Azure Cosmos DB 以及其他资源上花费的成本，最高可达 72%。 保留项提供一种计费折扣，并不会影响你的资源的运行时状态。有关详细信息请参阅[Azure 保留是什么？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>客户为什么购买预订？
 
@@ -65,11 +65,11 @@ Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQ
 
 **销售的准备情况**
 
-- [Azure 保留项和服务器订阅 （更新） 的 Azure 混合权益概述](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
+- [Azure 预订和服务器订阅以及 Azure 混合权益概述（已更新）](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
 - [销售表](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
-- [合作伙伴常见问题解答 （更新） 的 Azure 保留项](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [Azure 保留和 SQL DB 的合作伙伴常见问题解答](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [Azure 概述 （新） 中 SQL DB](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
+- [针对 Azure 预订的合作伙伴常见问题解答（已更新）](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
+- [针对 Azure 预订和 SQL DB 的合作伙伴常见问题解答](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [Azure SQL DB 概述（新版）](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [Azure 定价概述](https://azure.microsoft.com/pricing/#explore-cost)
 - [Azure 定价计算器](https://azure.microsoft.com/pricing/calculator/)
 - Azure 保留价格列表-请参阅在合作伙伴中心的 Microsoft Azure 保留实例价目表[定价和产品/服务](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)页。
@@ -86,12 +86,12 @@ Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQ
 **操作**
 
 - [现代商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）：一个综合指南涵盖键策略和操作方面协议，例如排序通过合作伙伴中心、 发票、 价格列表详细信息、 激励、 对帐文件、 API/SDK、 沙盒和 Azure 合作伙伴共享服务。
-- [现代产品/服务的国家/地区可用性和客户货币矩阵](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
+- [现代产品/服务国家/地区可用性和客户货币矩阵](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [销售 Microsoft Azure 保留实例](https://go.microsoft.com/fwlink/?linkid=872806)
-- [购买 Microsoft Azure 代表你的客户的预订](https://go.microsoft.com/fwlink/?linkid=872807)
+- [代表客户购买 Microsoft Azure 预订](https://go.microsoft.com/fwlink/?linkid=872807)
 - [管理 Azure 预订代表你的客户](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure 保留项的计费](https://go.microsoft.com/fwlink/?linkid=872809)
-- [最大的预订使用情况的 VM 大小](https://go.microsoft.com/fwlink/?linkid=872810)
+- [针对最大预订利用率确定虚拟机大小](https://go.microsoft.com/fwlink/?linkid=872810)
 - [合作伙伴中心 API (API/SDK)](https://docs.microsoft.com/en-us/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 ## <a name="azure-hybrid-benefit"></a>Azure 混合权益

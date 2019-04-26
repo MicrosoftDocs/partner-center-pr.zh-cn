@@ -1,18 +1,18 @@
 ---
 title: 云解决方案提供商中的 Office 365 E5 单一 SKU 可用性 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Office 365 企业版 E5 单一 SKU 可用于云解决方案提供商，并且包括 PSTN 会议。
 ms.assetid: 6483b9e3-b923-4c30-a150-81ac71848a0c
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a16a02f64e1f87d5b5db44f8987a79f1f373459d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e31c7e5ab11e16d1176a0872d0e3dd70e31103a4
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585330"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134327"
 ---
 # <a name="office-365-partner-advisory-office-365-e5-single-sku-availability-in-csp"></a>Office 365 合作伙伴安全公告：加入 csp 后的 office 365 E5 单个 SKU 可用性
 
@@ -22,7 +22,7 @@ ms.locfileid: "57585330"
 
 截止 2016 年 10 月 5 日，Office 365 企业版 E5 单一 SKU 可用于云解决方案提供商。 作为此更改的一部分，Office 365 企业版 E5 SKU 包括 PSTN 会议（可使用 PSTN 会议服务）。
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>总结
 
 
 此 Office 365 企业版 E5 产品/服务简化了购买最全面、安全的云套件过程以提高生产效率和改善通信。 现在无需使用加载项管理不同价格点，即可包含 Skype 会议服务。

@@ -1,18 +1,18 @@
 ---
 title: 出售适用于云解决方案提供商的 Office 365 政府版 GCC | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅。 Office 365 政府版用于 CSP 的 gcc 高级版是一套适用于美国政府和政府承包商的云生产力服务。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f604fc898646ae18e081f4d13443d7835ebce28e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586090"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134833"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 

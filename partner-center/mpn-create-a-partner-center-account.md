@@ -1,17 +1,17 @@
 ---
 title: 创建合作伙伴中心帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐户，才能管理其网络权益和能力，以及创建业务档案。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 93b8eb679731025cd7ded38abf6e071c5b797893
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bf6fbc44d7f35590ea39e554e15be6a1963b4766
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587590"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134347"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 

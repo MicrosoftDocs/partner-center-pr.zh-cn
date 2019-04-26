@@ -1,18 +1,18 @@
 ---
 title: 分配用户角色和权限 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 3/5/19
 description: 在合作伙伴中心工作所需的每个员工必须分配角色。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: 038a2d6f4d58bbd9a71a2b241ee68982e0e7ef0a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587740"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133897"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
@@ -37,6 +37,7 @@ ms.locfileid: "57587740"
 |用户管理员   | • 视图中，创建和管理用户
 ||• 查看所有合作伙伴配置文件
 ||• 视图中，创建和管理合作伙伴用户  |
+|帐单管理员 | -查看、 创建和管理帐单、 发票和侦测文件|
 |默认用户|  查看我的个人资料   |
 |管理员代理 | • 客户管理
 ||• 将设备列表添加到合作伙伴中心 <
@@ -61,7 +62,7 @@ ms.locfileid: "57587740"
 ||• 帮助解决客户问题与计费或订阅管理
 ||• 代表客户请求支持 (请注意：您必须是管理员代理来完成此任务中的 Office 365 订阅）
 ||• 管理订阅和计费代表客户的问题 (请注意：您必须是管理员代理来完成此任务中的 Office 365 订阅）|
-|
+
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>控件面板供应商 (CPV)。 （CSP 角色和非 AAD 角色）
 CPVs 开发以供云解决方案提供商 (CSP) 合作伙伴，以使他们能够将其系统与合作伙伴中心 Api 集成的应用。 
 
@@ -90,6 +91,17 @@ CPVs 开发以供云解决方案提供商 (CSP) 合作伙伴，以使他们能�
 ||-管理与你是管理员的帐户相关的配置文件 
 ||• 将角色分配到非 AAD 角色的租户中的用户 
 ||• 注册到程序的位置
+
+## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>（必须添加到 AAD 租户） 的来宾用户
+
+|**来宾用户**   | **角色**|
+|---------------------------|:--------------------|
+||MPN 合作伙伴管理员|
+||帐户管理员|
+||奖励管理员|
+||业务档案管理员|
+||引用管理员|
+
 
 ## <a name="manage-referrals-non-aad-roles"></a>管理参考 （非 AAD 角色）
 

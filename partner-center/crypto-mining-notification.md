@@ -1,19 +1,19 @@
 ---
 title: 合作伙伴中心通知加密挖掘活动 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 有关潜在加密挖掘发生活动的通知。
 author: LauraBrenner
 ms.author: v-petand
 Keywords: 加密挖掘加密货币挖掘安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: cac28b394ee0593e5f1e313cb14e7b6dfa45520a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b2a9a93d71b6464c0e3b2932b9da366e1bbbb845
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587490"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135040"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 

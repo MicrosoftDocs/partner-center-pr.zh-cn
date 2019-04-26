@@ -6,11 +6,11 @@ description: 在合作伙伴中心中，你可以更新客户的计费信息和�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 57f6f322ae1244d99ff16d6f6ed4a3ddd3d61728
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584410"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132457"
 ---
 # <a name="update-customer-account-information"></a>更新客户帐户信息
 

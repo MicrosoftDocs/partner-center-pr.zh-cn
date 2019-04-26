@@ -6,11 +6,11 @@ description: 向客户提供支持的最佳实践和要求。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: adce46be7073164bd285146bf8058bfa41a32709
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585780"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132537"
 ---
 # <a name="customer-support"></a>客户支持
 
@@ -28,7 +28,7 @@ ms.locfileid: "57585780"
 
 1. 在合作伙伴中心仪表板菜单中，选择**支持请求** &gt; **合作伙伴中心请求**。
 2. 选择**新建请求**。 你将转到世纪互联的支持请求表单。 
-3. 填写表单，然后选择“提交”。 世纪互联的支持代表将直接与你联系。
+3. 填写表单，然后选择**提交**。 世纪互联的支持代表将直接与你联系。
 
 ## <a name="providing-customer-support"></a>提供客户支持
 
@@ -48,8 +48,8 @@ ms.locfileid: "57585780"
 
 **另请参阅**
 
--   [提供的技术支持](provide-technical-support.md)
--   [提供与计费支持](provide-billing-support.md)
+-   [提供技术支持](provide-technical-support.md)
+-   [提供计费支持](provide-billing-support.md)
 -   [客户自助支持](customer-self-support.md)
 
  
@@ -60,9 +60,9 @@ ms.locfileid: "57585780"
 **若要提交 21Vianet 代表客户的服务请求**
 
 1. 在仪表板菜单中，选择**支持请求** &gt; **客户请求**。
-2. 搜索需要将其问题呈报给世纪互联的客户。 选择显示的客户名称，然后选择“新建请求”。
+2. 搜索需要将其问题呈报给世纪互联的客户。 当它出现时选择客户的名称，然后选择**新的请求**。
 3. 选择你的客户需要帮助的服务。 你将转到客户的由世纪互联运营的 Office 365 管理中心。 你可以在 Office 365 管理中心中解决客户的问题，或指导客户如何自行解决问题。
-4. 如果你的客户仍然需要帮助，请选择“提交服务请求”。 填写支持详细信息，然后选择“提交”。 世纪互联的支持代表将直接与你联系。
+4. 如果您的客户仍需要帮助，请选择**提交服务请求**。 填写支持详细信息，然后选择**提交**。 世纪互联的支持代表将直接与你联系。
 
 
 

@@ -6,11 +6,11 @@ description: 针对你的客户的欺骗性购买和/或客户拒不为已购买
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d63f909e8728296eed88543988f595b62e8dc3a7
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57583850"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132547"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
@@ -46,7 +46,7 @@ ms.locfileid: "57583850"
 
 **另请参阅**
 
--   [提供与计费支持](provide-billing-support.md)
+-   [提供计费支持](provide-billing-support.md)
 -   [客户支持](customer-support.md) 
 
  

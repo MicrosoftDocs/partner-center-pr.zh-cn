@@ -6,11 +6,11 @@ description: 客户自我支持
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 0e0dc8401b29e16cd936f73a732ae58fb179942d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584090"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132297"
 ---
 # <a name="customer-self-support"></a>客户自我支持
 

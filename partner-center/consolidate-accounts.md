@@ -8,12 +8,12 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b3b3f5fe29830e786206e31927d015acc0ec7a7d
-ms.sourcegitcommit: 319b6f8850d95e2b10e6367312f9365e079a1c88
-ms.translationtype: MT
+ms.openlocfilehash: f1bbc53a1fa923e67c370e908fc209147a3eb69c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "59533842"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135081"
 ---
 # <a name="consolidate-your-company-accounts"></a>合并你的公司帐户
 
@@ -35,4 +35,4 @@ ms.locfileid: "59533842"
 
 在合作伙伴中心，因为位置的所有帐户都将都合并到一个帐户的优势和能力都合并也。 
 
-有关 PMC 和合作伙伴中心之间的差异的信息，请阅读[将 PMC 移动到合作伙伴中心](pmc-pc-map.md)
+有关 PMC 和合作伙伴中心之间的差异的信息，请阅读[将 PMC 移动到合作伙伴中心](pmc-to-partner-center.md)

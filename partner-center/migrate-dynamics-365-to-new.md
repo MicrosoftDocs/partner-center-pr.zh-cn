@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 产品/服务，续订产品/服务，新的 Dynamics 365 Sku
 ms.openlocfilehash: ca1823c4055e2d89edc5c49e900a1c255a94f59a
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584620"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134367"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>将 Dynamics 365 商业版产品/服务迁移到较新版本 
 

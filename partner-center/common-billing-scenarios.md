@@ -1,19 +1,19 @@
 ---
 title: 常见计费方案 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 本主题介绍了在添加新订阅、调整订阅中的许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 计费、 付款、 订单、 使用情况、 基于许可证的计费、 周年日、 术语、 取消、 续订、 价格公式、 对帐文件、 侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f7820219110bfdbe153d8467da91e1d66d82341
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 2a619356577345923cd78499d2ae5a1f3c6c1614
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585700"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135317"
 ---
 # <a name="common-billing-scenarios"></a>常见计费方案
 
@@ -23,7 +23,7 @@ ms.locfileid: "57585700"
 
 本主题介绍了在添加新订阅、按订阅调整许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
 
-## <a name="in-this-section"></a>本部分内容
+## <a name="in-this-section"></a>本节内容
 
 -   [基于使用情况的计费](#usagebased)
 

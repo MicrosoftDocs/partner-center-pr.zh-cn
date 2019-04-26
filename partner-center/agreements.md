@@ -8,11 +8,11 @@ ms.author: evensma
 keywords: Microsoft 云协议、 客户协议模板、 CSP 客户协议，Microsoft 云协议，MCA，CSP，其中我可以出售通过 CSP？，CSP 国家/地区和区域，在多个语言中，CSP North America，CSP 中美洲，CSP 南部 CSP MCAsAmerica、 CSP 加勒比海地区、 美国政府版、 Microsoft 云德国 CSP，CSP 中东、 CSP 非洲、 CSP 欧洲，CSP 亚洲、 CSP 太平洋、 CSP MCAs CSP Microsoft 云
 ms.localizationpriority: medium
 ms.openlocfilehash: b2a65feac1f9f873512913ec2e4f26dc42efe865
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430216"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134619"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 

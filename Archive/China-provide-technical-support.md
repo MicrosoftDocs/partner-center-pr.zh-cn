@@ -6,11 +6,11 @@ description: 中国云解决方案提供商经销商可以向其客户提供技�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d3e32af7f96f2261e3e03550dd5519258a58dec6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584290"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132627"
 ---
 # <a name="provide-technical-support"></a>提供技术支持
 
@@ -51,7 +51,7 @@ ms.locfileid: "57584290"
  
 **另请参阅**
 
--   [提供与计费支持](provide-billing-support.md)
+-   [提供计费支持](provide-billing-support.md)
 -   [客户自助支持](customer-self-support.md)
 -   [客户支持](customer-support.md)
 

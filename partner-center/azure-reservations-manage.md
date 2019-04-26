@@ -1,19 +1,19 @@
 ---
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 若要管理你的客户的购买 Azure 预订后，将选择的客户和你想要在合作伙伴中心管理的保留，然后对保留在 Azure 门户中进行更改。
 author: LauraBrenner
 ms.author: v-petand
 keywords: azure 中，保留项，管理计费、 购买、 取消、 exchange 和提前终止服务费
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: de1846b6259764b40059ece1d311e5f63587a525
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bdd79c7c88f6ad553f1a8733e17d434dfbaf2a99
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584500"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134787"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 

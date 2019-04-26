@@ -10,11 +10,11 @@ fwlink1: https://go.microsoft.com/fwlink/?linkid=852407
 fwlink2: https://go.microsoft.com/fwlink/?linkid=852412 (#nonadmin_tasks)
 ms.localizationpriority: medium
 ms.openlocfilehash: 9af70ed292b89b36e8940ed7d32bf7508b7e8cb1
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587100"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134617"
 ---
 # <a name="transition-your-partner-membership-account-from-partner-membership-center-to-partner-center"></a>转换到合作伙伴中心你合作伙伴成员资格帐户从 Partner Membership Center
 
@@ -56,7 +56,7 @@ ms.locfileid: "57587100"
 
   连接到您的业务配置文件以确保继续的访问合作伙伴大学并符合资格的员工的学习凭据。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 已成功转换从 PMC 帐户后，查看以下文章，以获取更习惯于使用合作伙伴中心。
 

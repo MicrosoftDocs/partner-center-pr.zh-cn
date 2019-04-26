@@ -1,18 +1,18 @@
 ---
 title: 提高采用率和满意度 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bdf3e14a5d55a465bbc60809ed3ecd1e79ab5db5
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586720"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134487"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 

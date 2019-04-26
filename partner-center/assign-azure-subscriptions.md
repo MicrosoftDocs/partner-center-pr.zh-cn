@@ -1,18 +1,18 @@
 ---
 title: 在合作伙伴中心分配 Azure 订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 现在，你可以向合作伙伴中心中的客户分配 Azure 订阅，还可以允许客户自己管理订阅。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Azure 订阅, 订阅, 分配订阅, 管理 azure 订阅
 ms.localizationpriority: medium
-ms.openlocfilehash: 974589437392ceb77e90e6cfbd382a4676180545
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: fb5c5ee43e2d79cb2cf24226d3799f858c16d737
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586370"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134857"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>在合作伙伴中心分配 Azure 订阅
 

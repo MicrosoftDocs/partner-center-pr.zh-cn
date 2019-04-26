@@ -6,11 +6,11 @@ description: 如果你的客户遇到了你无法解决的服务问题，并且�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: d5c4703423360d228a810ee739dc1916ca056a58
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585800"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132617"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -27,14 +27,14 @@ ms.locfileid: "57585800"
 **代表客户报告的问题**
 
 1. 在仪表板菜单中，选择**支持请求** &gt; **客户请求**。
-2. 搜索需要将其问题呈报给世纪互联的客户。 选择显示的客户名称，然后选择“新建请求”。
+2. 搜索需要将其问题呈报给世纪互联的客户。 当它出现时选择客户的名称，然后选择**新的请求**。
 3. 选择你的客户需要帮助的服务。 你将转到客户的由世纪互联运营的 Office 365 管理中心。 你可以在 Office 365 管理中心中解决客户的问题，或指导客户如何自行解决问题。
-4. 如果你的客户仍然需要帮助，请选择“提交服务请求”。 填写支持详细信息，然后选择“提交”。 世纪互联的支持代表将直接与你联系。
+4. 如果您的客户仍需要帮助，请选择**提交服务请求**。 填写支持详细信息，然后选择**提交**。 世纪互联的支持代表将直接与你联系。
 
 **另请参阅**
 
 -   [客户自助支持](customer-self-support.md)
--   [提供的技术支持](provide-technical-support.md)
+-   [提供技术支持](provide-technical-support.md)
 -   [检查服务运行状况](check-service-health.md)
--   [提供与计费支持](provide-billing-support.md)
+-   [提供计费支持](provide-billing-support.md)
 -   [客户支持](customer-support.md)

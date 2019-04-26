@@ -1,19 +1,19 @@
 ---
 title: 计费 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b087b231cd0a81ac03bf5aa19ba72b9a9695465
-ms.sourcegitcommit: 7022f1e3d26751e66f90db96bf6d881cb2a694d2
-ms.translationtype: MT
+ms.openlocfilehash: 59fafd8f2e12f073dd55e6275d1cb65919476e50
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "59430116"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135367"
 ---
 # <a name="billing"></a>计费
 

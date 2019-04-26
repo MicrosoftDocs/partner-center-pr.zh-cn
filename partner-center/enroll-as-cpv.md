@@ -8,11 +8,11 @@ ms.author: labrenne
 keywords: 控件面板供应商、 注册 CPV 应用，管理 CPV 应用
 ms.localizationpriority: medium
 ms.openlocfilehash: 7d00cfc7addf120a3b42597cda3758597533dd5e
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57586050"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135557"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>在合作伙伴中心中注册为控件面板供应商联系
 
@@ -27,7 +27,7 @@ ms.locfileid: "57586050"
 查看[Microsoft 控件面板供应商协议](https://go.microsoft.com/fwlink/?linkid=2055198)
 
 
-## <a name="working-in-partner-center"></a>在合作伙伴中心工作
+## <a name="working-in-partner-center"></a>在合作伙伴中心内工作
 一旦您已在合作伙伴中心 CPV 体验中注册并接受 CPV 协议，你可以：
 
 - 管理 （添加到 Azure 门户中，应用程序注册和注销应用程序在合作伙伴中心） 的多租户应用程序。

@@ -1,18 +1,18 @@
 ---
 title: 为客户设置 Azure 费用预算 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 在合作伙伴中心中，你可以设置每个客户的每月预算，以便在月末他们的 Azure 帐单不会让他们吃惊不已。
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3158679d8a435a8252ad7dfb60d5cccc5cfa2f1f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 116fdff7c2a1ca30027dfa29bda5376fa101b089
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587580"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133947"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>为你的客户设置 Azure 费用预算
 

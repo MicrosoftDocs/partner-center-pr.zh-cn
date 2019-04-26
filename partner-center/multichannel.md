@@ -1,18 +1,18 @@
 ---
 title: 多渠道 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 在某些情况下，客户可能需要聘请你对他们在别处购买的订阅提供预配和支持。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b35332e27b90488f76132d115dd66ddb0c8d8d6
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 3a3149adf746e199cf5b82e590997cc4e311db5d
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587080"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134277"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
@@ -52,7 +52,7 @@ ms.locfileid: "57587080"
 > [!IMPORTANT]  
 > 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 将通过常用的通信渠道，其中包括合作伙伴中心公布任何关于功能发布的公告。 
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 [与其他合作伙伴合作](work-with-other-partners.md)
 

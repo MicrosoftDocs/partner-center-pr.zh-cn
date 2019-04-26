@@ -1,19 +1,19 @@
 ---
 title: 向多个用户分配或撤消许可证 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 将许可证分配、 撤销许可证，将分配给多个用户
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a5e81d78a8e07b6fc5c5d3b13a6e2d9ebeecd4c
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: e4917f4881b0dcca2e13f17dd116ff5faad0d0b9
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584250"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135337"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 
@@ -25,7 +25,7 @@ ms.locfileid: "57584250"
 
 合作伙伴中心跟踪，并显示所有客户拥有的许可证授权。
 
-## <a name="in-this-section"></a>本部分内容
+## <a name="in-this-section"></a>本节内容
 
 
 -   [将许可证分配给多个用户](#assign-licenses-to-groups)

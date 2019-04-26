@@ -1,19 +1,19 @@
 ---
 title: 为客户帐户创建多个用户 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 通过将逗号分隔值文件格式 (.csv) 的数据文件上传到合作伙伴中心，可同时将多个用户添加至客户帐户。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bb42d4e1dcf5003ac8790be777c483f216fd6f
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: b113736330b201ed6a4d1c6b8915e844b80fe5d5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584240"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134527"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>将多个用户添加到客户帐户
 
@@ -38,7 +38,7 @@ ms.locfileid: "57584240"
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **列名称** | **描述**                                                              | **限制**                             |
+| **列名称** | **说明**                                                              | **限制**                             |
 | 名字      | 用户名字（可选字段）                                           | 限 50 个字符                         |
 | 姓氏       | 用户姓氏（可选字段）                                            | 限 50 个字符                         |
 | 显示名称    | 合作伙伴中心 （必填字段） 中显示的名称                            | 限 50 个字符                         |

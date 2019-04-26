@@ -1,18 +1,18 @@
 ---
 title: 分析业务配置文件的效率 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 通过合作伙伴中心评估、协商和响应引荐。
 author: LauraBrenner
 ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bc4282bb4864a7b3a009ab367d384ced519a5b8
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584510"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134907"
 ---
 # <a name="analyze-the-effectiveness-of-your-business-profile"></a>分析业务配置文件的效率
 <!-- 

@@ -1,19 +1,19 @@
 ---
 title: 帐单概览 |合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 Description: 基本计费方案，以及基于许可证的和基于使用情况的计费之间的差异的信息
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 917b04e9aba40aaf8dbfa27960e7baed7f39819d
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: cd1488fbe107363ca924823cdd526005f5a3f21c
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584670"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62135387"
 ---
 # <a name="billing-overview"></a>帐单概览
 

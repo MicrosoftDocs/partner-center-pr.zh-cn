@@ -1,18 +1,18 @@
 ---
 title: 安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 请按照以下步骤预览适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d51c7afa2ebe69218aeb926c46425bcbd4245cb0
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 10a47f22fb3716e8ff162e7b936770a2ca8a8ffc
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57585860"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134647"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 

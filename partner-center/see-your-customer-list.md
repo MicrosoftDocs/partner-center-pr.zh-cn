@@ -1,18 +1,18 @@
 ---
 title: 管理客户列表 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 客户记录是合作伙伴中心中最重要的信息资源。
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a7f334b95f148ca13659a5101293c1e5e9bd9622
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: 34adc4f39e98b2d8d033c792367c5c062f985ed2
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584320"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62133987"
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
@@ -43,7 +43,7 @@ ms.locfileid: "57584320"
 ## <a name="export-your-customer-list"></a>导出客户列表
 
 1.  从**合作伙伴中心**菜单中，选择**客户**。
-2.  选择“导出客户”。
+2.  选择**导出客户**。
 
     合作伙伴中心将完整的客户列表转换为 .csv 文件，并将其上传到计算机上的默认下载文件夹。 还可导出客户数据的子集。 数据列包含以下内容：
 
@@ -60,8 +60,8 @@ ms.locfileid: "57584320"
 ## <a name="export-customer-subscription-information"></a>导出客户订阅信息
 
 1.  从**合作伙伴中心**菜单中，选择**客户**。
-2.  选择任意客户的“公司名称”。 将打开客户的“订阅”页面，显示产品订阅的完整列表。
-3.  选择“导出订阅”。 合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。 数据列包含以下内容：
+2.  选择任意客户的**公司名称**。 将打开客户的**订阅**页面，显示产品订阅的完整列表。
+3.  选择**导出订阅**。 合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。 数据列包含以下内容：
     -   **订阅 ID**；
     -   **订阅** - 订阅的产品名称；
     -   **数量** - 购买的许可证数；

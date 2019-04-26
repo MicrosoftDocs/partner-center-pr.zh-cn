@@ -6,11 +6,11 @@ description: 在合作伙伴中心中创建客户的记录后，你可以向他�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.openlocfilehash: 74e6b922ce8c745ca91f8ce4c0fa849bf41774a9
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57584020"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62132267"
 ---
 # <a name="create-a-new-subscription"></a>创建新订阅
 

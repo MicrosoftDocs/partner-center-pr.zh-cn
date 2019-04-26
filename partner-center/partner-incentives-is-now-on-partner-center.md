@@ -1,17 +1,17 @@
 ---
 title: 合作伙伴奖励现已登陆合作伙伴中心 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2018
+ms.date: 03/15/2019
 description: 奖励计划鼓励合作伙伴采用新的营销手段、提供培训等等
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8387fd08a6826b0984e491d34ceba76266af59ab
-ms.sourcegitcommit: 4c34d6fcaf020bcc53eaa5f0379011a56149a14f
-ms.translationtype: MT
+ms.openlocfilehash: eb1e6dcfb32970a634a393d8ce33c1a6128458e5
+ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "57587510"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "62134168"
 ---
 # <a name="partner-incentives-is-now-on-partner-center"></a>合作伙伴奖励现已登陆合作伙伴中心 
 
@@ -43,7 +43,7 @@ ms.locfileid: "57587510"
 
 **另请参阅**
 
-[创建用户帐户并设置权限](create-user-accounts-and-set-permissions.md)
+[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)
 
 [更改临时密码，](change-your-temporary-password.md)
 
