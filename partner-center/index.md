@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 searchScope: []
 ms.localizationpriority: medium
-ms.openlocfilehash: c3de548b5986db66d103129e40fdacbe5ca4bff8
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
+ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
+ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134588"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "65035526"
 ---
 # <a name="welcome-to-partner-center"></a>欢迎使用合作伙伴中心
 
-Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端关系的一站式位置。 它提供了工具和资源来帮助你发展业务，这些工具和资源包括成员身份选项、客户引荐以及云解决方案提供商 (CSP) 计划。 可以在合作伙伴中心帮助资料库中查找用于管理帐户、与客户联系、购买 Action Pack 订阅以及注册奖励计划的最佳做法。
+Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端关系的一站式位置。 它提供了工具和资源来帮助你办理和发展业务，这些工具和资源包括成员身份选项、客户引荐以及云解决方案提供商 (CSP) 计划。 可以在合作伙伴中心帮助资料库中查找用于管理帐户、与客户联系、购买 Action Pack 订阅以及注册奖励计划的最佳做法。
 
 
 <ul id="products1" class="cardsF cols cols3 panelContent singlePanelContent">
@@ -85,9 +85,9 @@ Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端�
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/software-assurance-lp">
-                        <h3>软件保障计划</h3>
-                        <p>你现在可以在合作伙伴中心内注册软件保障培训和部署服务。</p></a>
+                    <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
+                        <h3>从 PMC 迁移到 PC</h3>
+                        <p>了解如何准备将公司迁移到合作伙伴中心</p></a>
                     </div>
                 </div>
             </div>
@@ -97,9 +97,9 @@ Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端�
         <div class="cardSize">
             <div class="cardPadding">
                 <div class="card">
-                    <div class="cardText"><a href="/partner-center/voucher-validation-tool">
-                        <h3>凭证验证和兑换工具</h3>
-                        <p>申请和兑换支持你的客户的业务和发展需求的凭证。</p></a>
+                    <div class="cardText"><a href="/partner-center/Azure-expert-msp">
+                        <h3>Azure 专家管理服务提供商计划</h3>
+                        <p>你的公司在销售和支持 Azure 方面非常卓越？ 请参阅有关如何在 Azure 专家 MSP 计划中注册的信息</p></a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@ Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端�
                     </div>
                     <div class="cardText">
                         <h3>注册</h3>
-                        <p><a href="/partner-center/mpn-create-a-partner-center-account">创建帐户</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">管理你的租户和位置</a></p>
+                        <p><a href="/partner-center/manage-locations">管理位置</a><br /><a href="/partner-center/azure-active-directory-tenants-and-partner-center">管理租户</a></p>
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@ Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端�
                     </div>
                     <div class="cardText">
                         <h3>与客户联系</h3>
-                        <p><a href="/partner-center/customer-accounts">客户帐户</a><br /><a href="/partner-center/customer-subscriptions">销售订阅</a><br /><a href="/partner-center/assign-licenses-to-users">管理许可证</a><br /><a href="/partner-center/billing">计费</a></p>
+                        <p><a href="/partner-center/csp-offers">为客户购买产品</a><br /><a href="/partner-center/customer-subscriptions">销售订阅</a><br /><a href="/partner-center/assign-licenses-to-users">管理许可证</a><br /><a href="/partner-center/billing">计费</a></p>
                     </div>
                 </div>
             </div>
