@@ -1,18 +1,18 @@
 ---
 title: 向特定行业销售 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/14/2019
 Description: Microsoft 提供了特殊，约定价选择的客户，其中包括教育客户、 非盈利组织客户和政府用户组。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 66edfdd31c7c2c9821894b9b1a254d9a5e29ed8e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c7a6ae484ee250b6f1afa67ab7ac2703874b35bf
+ms.sourcegitcommit: d73afa31cc486b11e22314faa254aa50ed4f8d3b
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135657"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "65623798"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -32,6 +32,8 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
+
+以下步骤仅适用于间接提供商和直接帐单合作伙伴。 间接经销商需要连接与间接提供商合作为限定的教育用户提供学术定价的产品/服务。 
 
 1.  在你的合作伙伴仪表板中，选择窗口右上角的齿轮图标打开**帐户设置**。
 2.  在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。

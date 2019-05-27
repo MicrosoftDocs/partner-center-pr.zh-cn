@@ -1,25 +1,25 @@
 ---
 title: 通过云解决方案提供商销售软件订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/13/2019
 description: 现在，通过利用 Azure 混合权益，可以代表商业客户通过 Microsoft 合作伙伴中心和 Azure 门户获取、预配和管理 Azure 预留实例和服务器订阅。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Azure RI, Windows Server, SQL Server, 软件订阅
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5454fe66de5f91406bf97185796dcc5bbbcaee08
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2a38ace2eb565ca0264d9d4154b4a9876f434494
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134737"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176186"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
 
-通过将 Azure 保留和 Windows Server 和 SQL Server 订阅到 Microsoft CSP 计划，Microsoft 可更好地让其合作伙伴来满足对更多经济高效的解决方案，以支持高度可预测的快速增长客户需求和持久的云工作负荷。 
+使用 Azure 保留项和服务器订阅 （Windows Server 和 SQL Server 订阅），合作伙伴在 CSP 程序可以更好的地址更多经济高效的解决方案以支持高度可预测且持久的快速增长客户需求云工作负荷。 
 
-现在可以获取、 设置和管理 Azure 保留项和服务器订阅代表商业客户通过 Microsoft 合作伙伴中心和 Azure 门户通过利用 Azure 混合权益。 
+现在可以获取、 设置和管理 Azure 保留项和服务器订阅代表合作伙伴中心和 Azure 门户通过商业客户通过利用 Azure 混合权益。 
 
 Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值，最多可节省 40% 的虚拟机费用。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 具体取决于版本，可以将转换或重新使用许可证，若要在 Azure 中运行 Windows Server 虚拟机并按较低的基础计算费率付费 （例如 Linux 虚拟机费率）。
 
@@ -59,6 +59,16 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 >[!NOTE]
 >此链接将在两周或 50 次下载后（以先到者为准）过期。 链接过期后，请返回此页面并再次选择**获取密钥和下载**，以启用另一个两周或 50 次下载。 可以根据需要多次执行此操作。 
+
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>查看软件密钥的访问权限和软件下载活动
+出于审核或符合性目的，您可能需要检查的用户将访问服务器的订阅软件密钥或者下载服务器订阅软件的列表。 使用以下过程来访问此信息。 
+
+>[!NOTE]
+>必须是全局管理员、 帐户管理员、 引用管理员或市场营销内容管理员可以查看这些活动的日志。 
+
+1.  在合作伙伴中心，从右上角选择齿轮图标。 
+2.  在菜单中，选择**活动日志**。
+3.  输入你想要查看的活动的日期范围。 活动日志将显示的用户将访问软件密钥或者您指定的时间内下载软件的列表。 
 
 ## <a name="cancel-a-purchase"></a>取消购买
 

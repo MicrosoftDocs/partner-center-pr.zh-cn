@@ -17,6 +17,9 @@
 ### [使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)
 ### [常见问题解答：使用凭证验证和兑换工具](vvr-faq.md)
 ### [合作伙伴中心中的软件保障规划服务](software-assurance-dps.md)
+## 发票和税款
+### [Microsoft 合作伙伴网络中的发票和税款](mpn-view-print-maps-invoice.md)
+
 
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)

@@ -1,18 +1,18 @@
 ---
 title: 发展你的 Microsoft 合作伙伴业务 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/23/2019
 description: 适用于发展你的 Microsoft 合作伙伴业务的资源。 包括如何从 Microsoft 获得销售线索（引荐）。
 keywords: 引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案, 发展你的业务, 业务机会, 能力, 银牌成员资格, 金牌成员资格, 试用产品/服务, 市场扩张, 国家云
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 77146f87bb46a4d86ffd9966ed5c5ec860e0cdda
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9117b1ba43d809eb1e1c51b6ba28ac52a73ddd18
+ms.sourcegitcommit: 2524f327d8e6213cc7d40d196c0963204f0668e6
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135627"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "66176176"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>发展你的 Microsoft 合作伙伴业务 
 
@@ -33,7 +33,7 @@ Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解
 
 |  **若要执行此操作**  |  **阅读此若要了解如何**  |  **适用于**  |
 |--------------|-----------|--------------
-| 获取并管理销售线索 | 首先[创建业务档案](create-a-marketing-profile.md)，以便客户在搜索解决方案提供商时能够找到你，然后阅读[在合作伙伴中心中管理销售线索](responding-to-referrals.md)。 | 所有网络合作伙伴 |
+| 获取并管理销售线索 | 首先[创建业务配置文件](create-a-marketing-profile.md)让客户在搜索解决方案提供商，然后阅读有关时可以找到你[响应引用](responding-to-referrals.md)。 | 所有网络合作伙伴 |
 | 获得银牌或金牌合作伙伴状态 | 阅读 Microsoft 合作伙伴网络站点上的[能力合作伙伴](https://partner.microsoft.com/membership/competencies)，以了解有关如何才能有资格获得银牌或金牌成员身份级别的信息。 准备将你的能力信息迁移到合作伙伴中心时，请阅读[在合作伙伴中心上管理你的能力](competencies.md)。 | 所有网络合作伙伴 |
 | 向你的客户提供 Microsoft 产品的试用订阅 | 阅读[向你的客户提供 Microsoft 产品试用](offer-your-customers-trials-of-microsoft-products.md)，以了解如何使用试用订阅来提高对客户群的销售量。| 云解决方案提供商合作伙伴 |
 | 向你的客户提供 Microsoft 订阅的促销定价 | Microsoft 有时会就基于许可证的订阅提供促销，你可以将优惠传递给客户并就此拓展你的业务。 阅读[向你的客户提供 Microsoft 订阅的促销定价](promotions.md)，以了解操作方法。 | 云解决方案提供商合作伙伴 |
