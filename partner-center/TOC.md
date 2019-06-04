@@ -2,6 +2,7 @@
 
 # [合作伙伴网络成员身份](mpn-overview.md)
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
+## [合作伙伴中心内的帐户结构](account-structure.md)
 ## 从 PMC 迁移到合作伙伴中心
 ### [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)
 ### [快速查看 PMC 和 PC 之间的差异](move-pmc-pc-map.md)
@@ -67,6 +68,7 @@
 ## [阅读帐单](read-your-bill.md)
 ## [使用对帐文件](use-the-reconciliation-files.md)
 ## [税务和免税](tax-and-tax-exemptions.md)
+## [确保为预缴税金进行贷记](withholding-tax-credit-form.md)
 ## [组织 VAT 信息](organization-tax-info.md)
 ## [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常见计费方案](common-billing-scenarios.md)
