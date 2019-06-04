@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dff4e418b65475a5919cafc58783858f6db320a
-ms.sourcegitcommit: 499ea19037fab7bfd8c284761ddcdf1df45ea796
+ms.openlocfilehash: 3956ec4ef0f835733c25557ca1d3e20fc9a5537e
+ms.sourcegitcommit: 034e5293a85e0214afaf9382378d2e18d15320c4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "66447949"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "66458892"
 ---
 # <a name="the-account-structure-in-partner-center"></a>合作伙伴中心中的帐户结构
 
@@ -34,6 +34,8 @@ ms.locfileid: "66447949"
 - 查看从合作伙伴设置合作伙伴位置帐户的列表-> 位置。
 - 所有位置帐户都是同一级别，在主全局帐户。
 - 帐户管理员可以添加或删除的位置。
+
+![帐户结构](images/accountstructure.png)
 
 有关管理位置的详细信息，请阅读[管理合作伙伴帐户：位置](manage-locations.md)。 
 
