@@ -9,12 +9,12 @@ Keywords: 工作帐户、 电子邮件、 租户、 Azure 租户中，创建帐�
 robots: ''
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 079f927c3acd8f773680bfa9f4e47592f68a24f9
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f668ea5ebdb97d2cf02febb94584b6cf707e3bca
+ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134721"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67131708"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>你的公司工作帐户与合作伙伴中心  
 
@@ -26,23 +26,32 @@ ms.locfileid: "62134721"
 
 我们需要将你所在公司的工作帐户链接到新的合作伙伴中心帐户，以便你的帐户用户可以使用其工作帐户用户名和密码登录合作伙伴中心。
 
-如果你的公司已经拥有工作帐户，你可以将其链接到你的合作伙伴中心帐户。 
+## <a name="the-work-account-email-address"></a>工作帐户电子邮件地址
+
+你的工作帐户或工作电子邮件地址不由你的公司提供给你的电子邮件地址。 工作帐户电子邮件通常采用以下格式you@yourcompany.com。 个人电子邮件地址，如 Hotmail、 Gmail 等不工作电子邮件地址，不能用于在合作伙伴中心帐户。 
+
+如果有多个有效的工作电子邮件地址，使用一个与公司总部而不是区域的院系关联的例如，使用 contoso.com 电子邮件而不是 contoso.uk 地址。
 
 > [!NOTE]  
 >  您决定使用现有工作帐户之前，请考虑有关多少用户帐户中将需要在合作伙伴中心中正常工作。 如果不需要在合作伙伴中心中的帐户中的用户，请考虑创建新的帐户仅需要在合作伙伴中心中工作的用户。
 
-如果你的公司还没有工作帐户，则可以在注册过程中创建一个。 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不确定你的公司是否已经具有工作帐户？
 
 如果你不确定你的公司是否具有工作帐户，请按照以下步骤进行检查。 请注意，如果你具有有效的 Microsoft Azure 或 Office 365 订阅，则你已经拥有了工作帐户。
+
 1.  从 https://ms.portal.azure.com 登录到 Azure 管理门户。
 2.  从菜单中选择“Azure Active Directory”，然后选择“域名”。
 3.  如果你已经有工作帐户，则将列出你的域名。
 
-## <a name="using-an-existing-work-account"></a>使用现有的工作帐户
+如果你的公司还没有工作帐户，则可以在注册过程中创建一个。
 
-如果你想要使用现有的工作帐户，但在登录时遇到问题，请在下图中查找最符合你的情况的方案，然后按照推荐的步骤进行操作。 
+下图提供了几个典型方案的步骤：
+
+- 确定你是否有一个工作帐户 
+- 确定如何登录到你的工作帐户 
+- 确定是否需要创建新的工作帐户
+
 
 ![是否拥有工作帐户，抑或需要创建一个工作帐户？](images/onboardingAADFlow.png)
 

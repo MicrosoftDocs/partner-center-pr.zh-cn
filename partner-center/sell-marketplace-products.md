@@ -1,18 +1,18 @@
 ---
 title: 销售 Azure Marketplace 产品的订阅 |合作伙伴中心
 ms.topic: article
-ms.date: 04/04/2019
+ms.date: 06/10/2019
 description: 可以使用合作伙伴中心销售你的客户订阅的软件即服务 (SaaS) 产品发布到 Azure Marketplace 的独立软件供应商 (Isv)。
 author: JnHs
 ms.author: jenhayes
 keywords: 订阅 Marketplace 中，第三方 ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: a086ab3a58e926d33c118690e7b171ba4f0fd18b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
+ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133827"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "67045070"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>销售 Azure 市场产品的订阅
 
@@ -46,6 +46,9 @@ Azure Marketplace 产品的价格可能会频繁变动。 若要获取所有 Mar
 > 此外可以使用[合作伙伴中心 Api](https://docs.microsoft.com/partner-center/develop/)创建你的客户的 Azure Marketplace 订阅。 有关详细信息，请参阅[创建 Azure Marketplace 产品订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
 
 与 Azure Marketplace 产品的订阅，可以选择[取消订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription)取消时间段 （对于月度订阅或年度订阅只有 14 天 24 小时） 内。 此外可以[选择是否自动续订此订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)。
+
+> [!NOTE]
+> 有关[Azure Marketplace 产品](sell-marketplace-products.md)，管理通过独立软件供应商 (ISV) 发布产品者许可证分配和激活。
 
 ## <a name="access-billing-info-for-marketplace-products"></a>访问 Marketplace 产品的计费信息
 

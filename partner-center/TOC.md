@@ -4,6 +4,7 @@
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## [合作伙伴中心内的帐户结构](account-structure.md)
 ## 从 PMC 迁移到合作伙伴中心
+### [准备从 Partner Membership Center 迁移到合作伙伴中心](prepare-pmc-pc-migration.md)
 ### [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)
 ### [快速查看 PMC 和 PC 之间的差异](move-pmc-pc-map.md)
 ### [将多个公司迁移到合作伙伴中心的指南](move-multiple-companies.md)
