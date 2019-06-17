@@ -6,12 +6,12 @@ description: 将你的业务从 PMC 移到合作伙伴中心之前需要考虑�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 68761169088d8590b3330d72927d38ba2ab77a77
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
+ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131987"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "67145348"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备移动从伙伴成员身份 Center (PMC) 到合作伙伴中心
 
@@ -113,6 +113,14 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
  **将我们移动后更改我的权益 （包括云优势、 技术支持、 软件权益，Visual Studio）？**
 
  您有资格的权益不会更改。 如果您注意到差异，请联系[支持](https://partner.microsoft.com/support)。
+
+ **将遵循我们提供 Visual Studio 权益分配的 Microsoft 帐户？**
+
+ 是。 将遵循 Wisual Studio 权益分配给采用的是 MSAs，并将其保留。 它们还将保留在合作伙伴中心续订后。 但是，如果您删除 MSA 分配一次迁移在合作伙伴中心，它不能添加回合作伙伴中心。
+
+只有 MPN 管理员可以添加 Visual Studio 权益分配公司 Azure AD 租户中的工作帐户。
+
+关联到相同的合作伙伴中心帐户，所有租户时的多个 AAD 租户的全局管理员可以在所有这些租户添加用户到 Visual Studio 权益和 Azure 的基于使用情况的分配。 
 
  **我们如何应管理我们 MCP 关联和我们合作伙伴大学访问？**
 
