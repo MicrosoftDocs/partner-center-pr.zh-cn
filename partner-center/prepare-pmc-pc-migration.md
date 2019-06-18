@@ -6,12 +6,12 @@ description: 将你的业务从 PMC 移到合作伙伴中心之前需要考虑�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 16c29bdccd4c4853fcc28ed4f2752270415449b1
-ms.sourcegitcommit: 8305d8d1da404d75ce3120085724fe67da733eec
+ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
+ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "67145348"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "67157336"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备移动从伙伴成员身份 Center (PMC) 到合作伙伴中心
 
@@ -116,11 +116,13 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
 
  **将遵循我们提供 Visual Studio 权益分配的 Microsoft 帐户？**
 
- 是。 将遵循 Wisual Studio 权益分配给采用的是 MSAs，并将其保留。 它们还将保留在合作伙伴中心续订后。 但是，如果您删除 MSA 分配一次迁移在合作伙伴中心，它不能添加回合作伙伴中心。
 
-只有 MPN 管理员可以添加 Visual Studio 权益分配公司 Azure AD 租户中的工作帐户。
+ 是。 Visual Studio 权益分配给 Msa 将接受而保留。 它们还将保留在合作伙伴中心续订后。 但是，如果您删除 MSA 分配一次迁移在合作伙伴中心，它不能添加回合作伙伴中心。
 
-关联到相同的合作伙伴中心帐户，所有租户时的多个 AAD 租户的全局管理员可以在所有这些租户添加用户到 Visual Studio 权益和 Azure 的基于使用情况的分配。 
+在合作伙伴中心，合作伙伴可以添加工作帐户和来宾用户帐户是 MSA 的租户的合作伙伴是 MPN 的 Azure AD 租户中的管理员。 如果伙伴正在多个 Azure AD 租户中的全局管理员，并且所有这些租户将关联到相同的合作伙伴中心帐户，然后允许该合作伙伴将对所有这些租户的用户添加到 Visual Studio 权益和 Azure 的基于使用情况的分配。
+
+不过，来宾用户可以通过 MPN 管理员或全局管理员分配基于使用情况的订阅的 Visual Studio，来宾用户无法登录到合作伙伴中心使用其 MSA。 来宾用户可以但是中, 登录到 Azure 和 Visual Studio，若要验证，并使用其已分配的权益。
+
 
  **我们如何应管理我们 MCP 关联和我们合作伙伴大学访问？**
 
