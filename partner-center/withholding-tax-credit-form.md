@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 预缴税金信用额度、 税务信用额度、 德语税务信用额度、 窗体税收抵免
 ms.localizationpriority: medium
-ms.openlocfilehash: 35ed5d1a5da2699df9660bcce1806772fd75a6a0
-ms.sourcegitcommit: ece130080e67ce92bfc86b3892e33320cb13e49b
+ms.openlocfilehash: ace9d1cca5db0a6aba83a0eb9856374b39d56b62
+ms.sourcegitcommit: f55f9389bc1feacb1a3acc1725ab5edabadf090a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "66410969"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67207579"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>请确保按贷记预缴税金
 
@@ -49,7 +49,8 @@ ms.locfileid: "66410969"
 2. 选择**合作伙伴的支持请求**。
 3. 选择**新的请求**，然后在**详细信息**，选择**帮助合作伙伴发票、 付款或对帐文件。**
 4. 在提交服务请求时请务必将附加的税务表信用额度和数字的纳税证书的副本。
-5. 我们将直接通过电子邮件或电话联系你。
+5. 如果您要提交通过英语服务请求的非英语税务证书，则需要税务证书的翻译。
+6. 我们将直接通过电子邮件或电话联系你。
 
 使用**转账付款付款**方法，一旦接收和验证成功，纳税证书发票上的剩余余额将清除在大约一周中。 
 

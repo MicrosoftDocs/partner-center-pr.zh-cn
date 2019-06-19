@@ -7,12 +7,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 成员身份权益, 成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: fd97db7d1bdd56567c5fc52bb3d8a878ea73ede2
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fe70af06cf6cea16f5d1f934733a588db9b7546e
+ms.sourcegitcommit: 2ab34b5d432b427f2fc2dba04019255122502eba
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134387"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67198320"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -100,6 +100,10 @@ ms.locfileid: "62134387"
 
 4. 你可以使用技术售前援助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术援助。 若要请求援助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
 )，然后选择**提交请求**。
+
+## <a name="cancel-a-membership-benefit"></a>取消成员资格权益
+
+为了取消一项权益，并获得退款，必须在购买后 30 天内发出请求并不激活软件权益。 请求通过服务请求取消。
 
 
 #### <a name="see-also"></a>请参阅

@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e7b17cb39f266c404d7873dc17e471741d52b32
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
+ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132777"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "67193423"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -39,6 +39,10 @@ ms.locfileid: "62132777"
 
 <li>在列数据格式字段中，选择<strong>文本</strong>的列，并选择所有金额<strong>完成</strong>。</li>
 </ol>
+
+## <a name="downloading-a-large-recon-file"></a>下载较大的侦测文件
+
+侦测文件可以变得很大，有时很难下载。 若要帮助下载大型侦测文件的 PowerShell 脚本，请参阅[获取发票行项](https://docs.microsoft.com/en-us/partner-center/develop/get-invoiceline-items)。
 
 ## <a href="" id="itemizebypartner"></a>由合作伙伴详细列举
 
@@ -1017,6 +1021,8 @@ ms.locfileid: "62132777"
 <p>从激活到计费周期结束时间段内按比例计算的费用</p>
 </td>
 </tr>
+
+
 <tr>
 <td rowspan="2">
 <p><strong>使用费</strong></p>
@@ -1039,6 +1045,7 @@ ms.locfileid: "62132777"
 <p>访问当前计费周期的使用费用</p>
 </td>
 </tr>
+
 <tr>
 <td>
 <p><strong>信用额度</strong></p>
