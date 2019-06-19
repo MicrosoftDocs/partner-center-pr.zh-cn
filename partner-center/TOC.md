@@ -2,7 +2,7 @@
 
 # [合作伙伴网络成员身份](mpn-overview.md)
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
-## [合作伙伴中心内的帐户结构](account-structure.md)
+## [如何获取工作电子邮件地址](buy-email-domain.md)
 ## 从 PMC 迁移到合作伙伴中心
 ### [准备从 Partner Membership Center 迁移到合作伙伴中心](prepare-pmc-pc-migration.md)
 ### [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)
@@ -40,6 +40,7 @@
 # [管理合作伙伴中心帐户](partner-center-account-setup.md)
 ## [工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)
 ## [合作伙伴中心内的帐户结构](account-structure.md)
+## [验证帐户信息](verification-responses.md)
 ## [更新你的合作伙伴个人资料](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
