@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ffc8ee2fa589168925aa2c20230df5978c209554
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8123141a2a283bc646613a0dbcf69f8903a101a8
+ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134227"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "67262965"
 ---
 # <a name="organization-tax-information"></a>组织税收信息
 
@@ -24,11 +24,9 @@ ms.locfileid: "62134227"
 
 ### <a name="add-your-vat-id"></a>添加增值税 ID
 
-1.  从**合作伙伴中心**转到**成员身份提供**-> **可用**
-2.  选择**添加额外的增值税 ID**
-3.  输入有效的增值税 ID 为你的组织中，选择**外**，然后选择**下一步**。
-
-
+1.  从**合作伙伴中心**转到**帐户设置**-> **合作伙伴账单资料**。
+2.  在“财经数据”  部分中，选择“更新”  。
+3.  在中**公司税务 ID**字段中，输入您的增值税 ID 号。
 
 
 
