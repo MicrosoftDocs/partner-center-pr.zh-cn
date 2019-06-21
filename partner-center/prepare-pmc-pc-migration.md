@@ -6,12 +6,12 @@ description: 将你的业务从 PMC 移到合作伙伴中心之前需要考虑�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe65ad021538cf9c6fd267476bf410208abbe746
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
+ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157336"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "67279885"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备移动从伙伴成员身份 Center (PMC) 到合作伙伴中心
 
@@ -136,17 +136,22 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
 
  不是的对合作伙伴的记录进行任何更改。 详细了解如何[将你的合作伙伴 ID 链接到你的客户](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。
 
-**是否有激励的影响？**
+**由于移动到合作伙伴中心是否有激励的影响？**
 
-不存在不会影响到奖励。 此外，如果您的公司在 PMC 中有多个帐户，并且这些帐户移动到合作伙伴中心时都合并到全局帐户，不会对基于记录的奖励的合作伙伴没有任何影响。
+否，任何影响到奖励，如果没有整合位置的情况下移动你的帐户。 如果您的公司在 PMC 中有多个帐户，并在移动到合作伙伴中心您决定将合并到全局帐户，将不会丢失到奖励但激励付款中可能存在延迟。 如果您不能移动的奖励程序涉及所有 PMC 帐户，可能会停止赢得奖励，即绑定到这些帐户。
+
 
 **在合作伙伴中心的激励用户角色有哪些？** 
 
 在合作伙伴中心激励角色是基于位置的并包含奖励管理员和激励用户。 有关这些角色可以执行的操作的详细信息，请参阅[分配用户角色和权限](permissions-overview.md)。
 
-**可以在全局和位置级别管理奖励**
+**可以在全局和位置级别分配的激励用户？**
 
  是。 可以分配奖励管理员，作为所有位置的奖励管理员或每个位置可以有其自己的激励管理员。
+
+ **可以在全局或位置级别支付奖励**
+
+ 只能在位置级别是付费奖励。
 
 **有关引用，多少业务配置文件可以我们创建？**
 
