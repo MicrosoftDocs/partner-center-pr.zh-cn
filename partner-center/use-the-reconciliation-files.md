@@ -7,12 +7,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d5792ad8f1a01c94336b208c825b10a269ae054
-ms.sourcegitcommit: 47a91bb6d961630f154fde738075b73ff84a829e
+ms.openlocfilehash: fca9897720412a77ac39c86ba31db411c58c2cb0
+ms.sourcegitcommit: 1f9078d422af5f8514d79a6ab9c3444500abfe27
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "67193423"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "67343470"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -1022,6 +1022,61 @@ ms.locfileid: "67193423"
 </td>
 </tr>
 
+
+
+<tr>
+<td rowspan="5">
+<p><strong>一次性费用</strong></p>
+
+</td>
+<td>
+<p>新增</p>
+</td>
+<td>
+<p>创建新的购买时使用</p>
+</td>
+
+<p></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>addQuantity</p>
+</td>
+<td>
+<p>增加后使用退款原始购买和新数量</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>removeQuantity</p>
+</td>
+<td>
+<p>后降低使用退款原始购买和新数量</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>Cancel</p>
+</td>
+<td>
+<p>当取消订阅时，使用</p>
+</td>
+</tr>
+
+</tr>
+<tr>
+<td>
+<p>转换</p>
+</td>
+<td>
+<p>当升级许可证，但席位数保持不变时使用</p>
+</td>
+</tr>
 
 <tr>
 <td rowspan="2">
