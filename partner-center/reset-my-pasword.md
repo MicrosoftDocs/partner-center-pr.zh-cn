@@ -1,22 +1,22 @@
 ---
 title: 重置我的密码 |合作伙伴中心
 ms.topic: article
-ms.date: 06/20/2019
+ms.date: 06/24/2019
 description: 如果你忘记了密码，可以将它重置。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e9e863711e6d42b3fcc978ba110b8f855e8576
-ms.sourcegitcommit: fa077891067952b3039383897ea53ce7cde03939
+ms.openlocfilehash: f0d2d9908af1d976f67048257cf7f8e267eba29e
+ms.sourcegitcommit: 9eb047f6858dae3e356dc39b535c4e3744483f2c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67333970"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67406024"
 ---
 # <a name="reset-my-password"></a>重置我的密码
 
-如果不记得你的合作伙伴中心密码，则可以轻松地重置它。
+如果不记得你的合作伙伴中心密码，可以将它重置。
 
 ### <a name="to-reset-your-password-to-partner-center"></a>若要重置密码，到合作伙伴中心
 

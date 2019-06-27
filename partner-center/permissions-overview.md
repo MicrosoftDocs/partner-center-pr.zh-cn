@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: medium
-ms.openlocfilehash: 66923c8a5d4912d178ef483a883f08f40ed8378b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 65a2f7f373fc57f86cfffa73aafd3b7095fe2c04
+ms.sourcegitcommit: be8086534ec73937f2be9bcc495c2627423c50f6
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133897"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "67396731"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
@@ -24,7 +24,7 @@ ms.locfileid: "62133897"
 确定到合作伙伴中心具有的角色和向他们提供的权限的用户的访问类型。 与你的业务参与的节目相关角色。 例如，如果你的业务，云解决方案提供商 (CSP) 业务你将仅没有标准的 Azure AD 租户管理角色，如全局管理员，但需要角色特定于 CSP 计划。 每个程序具有特定于它的角色。
 
 >[!Note]
-> Azure Active Directory (AAD) 租户角色包括全局管理员、 用户管理员和 CSP 角色。 非 AAD 角色包括 MPN 管理员、 业务配置文件管理、 引用管理员、 激励管理员和激励用户。 
+> Azure Active Directory (AAD) 租户角色包括全局管理员、 用户管理员和 CSP 角色。 非 AAD 角色是不管理租户的那些角色，它们包含 MPN 管理员、 业务配置文件管理、 引用管理员、 激励管理员和激励用户。 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>管理合作伙伴中心中的商业事务 (Azure AD 和 CSP 角色)
 
@@ -52,6 +52,7 @@ ms.locfileid: "62133897"
 |销售代理 | • 客户管理
 ||• 将设备列表添加到合作伙伴中心
 ||• 订阅管理
+||• 视图价格列出并提供了
 ||• 视图支持票证
 ||• 请求与客户之间的关系
 ||• 管理潜在客户
@@ -71,7 +72,18 @@ CPVs 开发以供云解决方案提供商 (CSP) 合作伙伴，以使他们能�
 |全局管理员| 查看和管理 CPV 配置文件|
 ||查看和管理任何你需要 CPV 功能的访问权限的用户|
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles"></a>管理 MPN 成员身份和你的公司 （非 AAD 角色）
+### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>（必须添加到 AAD 租户） 的来宾用户
+
+|**来宾用户**   | **角色**|
+|---------------------------|:--------------------|
+||MPN 合作伙伴管理员|
+||帐户管理员|
+||奖励管理员|
+||业务档案管理员|
+||引用管理员|
+
+
+## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>管理 MPN 成员身份和你的公司 (非 AAD 角色： 这些角色管理公司业务而不是租户)
 
 |**Role** | **您可以执行的操作**|
 |----------------------------|:----------------------------|
@@ -92,28 +104,19 @@ CPVs 开发以供云解决方案提供商 (CSP) 合作伙伴，以使他们能�
 ||• 将角色分配到非 AAD 角色的租户中的用户 
 ||• 注册到程序的位置
 
-## <a name="guest-user-must-be-added-to-the-aad-tenant"></a>（必须添加到 AAD 租户） 的来宾用户
 
-|**来宾用户**   | **角色**|
-|---------------------------|:--------------------|
-||MPN 合作伙伴管理员|
-||帐户管理员|
-||奖励管理员|
-||业务档案管理员|
-||引用管理员|
-
-
-## <a name="manage-referrals-non-aad-roles"></a>管理参考 （非 AAD 角色）
+## <a name="manage-referrals"></a>管理参考 
 
 |**Role**|**您可以执行的操作**|
 |-----------------------------|:------------------------|
 |引用管理员       |• 视图中，创建和管理业务配置文件
 ||• 接收和管理参考
-||• 视图中，创建和管理合作伙伴服务请求|
-|业务档案管理员   |•View，创建和管理业务配置文件 
+||• 视图中，创建和管理共同销售引用|
+||• 视图中，创建和管理合作伙伴服务请求
+|业务档案管理员   |• 视图中，创建和管理业务配置文件 
 ||• 视图中，创建和管理合作伙伴服务请求|
 
-## <a name="manage-incentives--non-aad-roles"></a>管理奖励 （非 AAD 角色）
+## <a name="manage-incentives"></a>管理奖励 
 
 |**Role** | **您可以执行的操作**|
 |------------------------------|:-------------------------|
