@@ -8,12 +8,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ea36d5fb807f10364d28f8ae014b80c91b6013
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b5c9349ba5b4770eec9b4b8923907dd8377b20e3
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134987"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468020"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商程序指南、 协议、 价格列表和产品/服务
 
@@ -38,19 +38,19 @@ ms.locfileid: "62134987"
 
 Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提供商计划。 查看你计划在其中进行销售的市场或国家云的指南。
 
-[Microsoft 云经销商协议 – 位于北美、 北美、 南美和加勒比海地区](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 – 位于北美、 北美、 南美和加勒比海地区](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
 
-[Microsoft 云经销商协议 – 亚洲、 澳大利亚和太平洋](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_APOC_ENG_Mar2019_CR.pdf)
+[Microsoft 云经销商协议 – 亚洲、 澳大利亚和太平洋](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Microsoft 云经销商协议 – 欧洲、 中东和非洲](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_EOC_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 – 欧洲、 中东和非洲](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
 
-[Microsoft 云经销商协议 – 日本](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_JPN_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 – 日本](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
 
-[Microsoft 云经销商协议 – 韩国](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_KOR_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 – 韩国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
 
-[Microsoft 云经销商协议 – 中国台湾](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_TAI_ENG_Sep2018_CR.pdf)
+[Microsoft 云经销商协议 – 中国台湾](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
 
-[Microsoft 云经销商协议-适用于美国政府的 Microsoft 云](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCRA2018_AOC_USGCC_ENG_Feb2019_CR.pdf)
+[Microsoft 云经销商协议-适用于美国政府的 Microsoft 云](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 云协议客户模板
 

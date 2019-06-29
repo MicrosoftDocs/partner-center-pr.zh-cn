@@ -6,12 +6,12 @@ description: 将你的业务从 PMC 移到合作伙伴中心之前需要考虑�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fc3b457af07c4433d2b311f066cbeb240243ee0c
-ms.sourcegitcommit: 09b3f69db956717e59709ee4c78bc9e879844adc
+ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
+ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "67279885"
+ms.lasthandoff: 06/29/2019
+ms.locfileid: "67468028"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备移动从伙伴成员身份 Center (PMC) 到合作伙伴中心
 
@@ -58,9 +58,11 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
 
 当 MPN 全局管理员移动到合作伙伴中心角色被名为 MPN 合作伙伴管理员的具有不同的权限和任务比合作伙伴中心全局管理员。有关角色和合作伙伴中心中的权限的详细信息，请阅读[分配用户角色和权限](permissions-overview.md)
 
-**合作伙伴中心中的用户角色**
+**在合作伙伴中心包括来宾用户角色的用户角色**
 
 合作伙伴中心具有不同类型的角色根据工作需要完成的工作的类型。 有了 Azure AD 角色如全局管理员角色。 某些角色是特定的程序，例如云服务提供商计划或奖励，并且有特定于 MPN 的角色。 若要找出所有合作伙伴中心角色，请阅读[分配用户角色和权限](permissions-overview.md)。
+
+
 
 **会发生什么情况到我的用户角色时从 PMC 移到合作伙伴中心？**
 
@@ -84,6 +86,9 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
 是的在合作伙伴中心可以指向单个合作伙伴中心帐户链接多个 Azure AD 租户。
 此处了解详情。 
 
+**是否有限制于将多个 Azure AD 租户添加到单个的合作伙伴中心帐户？**
+
+如果 Azure AD 租户已关联到现有的合作伙伴中心帐户，它不能将关联到使用多租户功能的新合作伙伴中心帐户。 另一种方法可以看作是，Azure AD 租户仅可关联到一个合作伙伴中心帐户，但合作伙伴中心帐户可以有多个租户与其相关联。
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Microsoft 合作伙伴网络 (MPN) 成员身份迁移 
 
