@@ -48,6 +48,7 @@
 ## [为用户分配角色和权限](permissions-overview.md)
 ## [验证域所有权](become-global-admin.md)
 ## [重置用户密码](reset-a-user-password.md)
+## [重置我的密码](reset-my-pasword.md)
 ## [添加 Azure 合作伙伴共享服务](shared-services.md)
 ## [定价和产品/服务](pricing-and-offers.md)
 ## [自定义目录](customize-the-catalog.md)
@@ -71,6 +72,7 @@
 ## [使用对帐文件](use-the-reconciliation-files.md)
 ## [税务和免税](tax-and-tax-exemptions.md)
 ## [确保为预缴税金进行贷记](withholding-tax-credit-form.md)
+## [从 Microsoft 请求 SLA 信用额度](request-credit.md)
 ## [组织 VAT 信息](organization-tax-info.md)
 ## [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常见计费方案](common-billing-scenarios.md)
@@ -137,4 +139,8 @@
 ## [客户自助支持](customer-self-support.md)
 ## [将问题上报给 Microsoft](escalate-problems-to-microsoft.md)
 
+# 安全性
+## [合作伙伴安全要求](partner-security-requirements.md)
 
+# 教程
+## [实施合作伙伴安全要求](tutorials/partner-security-requirements.yml)
