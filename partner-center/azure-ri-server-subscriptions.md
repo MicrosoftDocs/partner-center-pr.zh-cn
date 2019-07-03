@@ -1,18 +1,18 @@
 ---
 title: Azure 虚拟机预留实例 (RI) + Azure 服务器订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 6/5/2019
+ms.date: 7/2/2019
 description: 通过将 Azure RI 和服务器订阅纳入其云解决方案提供商计划，我们可以更好地帮助合作伙伴满足客户对成本效益更高的解决方案的快速增长需求，从而为高度可预测的持久云工作负荷提供支持。 利用云解决方案提供商计划，合作伙伴能够通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure RI 和服务器订阅。
 author: LauraBrenner
 ms.author: v-petand
 keywords: Azure、 订阅、 虚拟机，保留，保留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: aa9fbdad29b79a65a7542d283ea08b47c7c092f3
-ms.sourcegitcommit: 97418ed4882400155099b73bde4b69075434933a
+ms.openlocfilehash: 17455913cbe6aef75cbea61ca26a979682a61147
+ms.sourcegitcommit: 1d5f3fbf9bb53bc7f42cefbbedb2d7f3f3bc66eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "66736064"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "67509955"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -45,6 +45,7 @@ Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQ
 -   SQL 托管实例
 -   Azure Cosmos DB
 -   Azure SQL 数据仓库
+-   应用服务
 
 #### <a name="server-subscriptions"></a>服务器订阅
 -   Windows Server
@@ -54,6 +55,10 @@ Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQ
 #### <a name="linux-isv-annual-subscriptions"></a>Linux ISV 年度订阅
 -   SUSE Linux
 -   Red Hat Enterprise Linux
+-   Azure Red Hat OpenShift
+
+#### <a name="isv-annual-subscriptions"></a>ISV 年度订阅
+-   Azure 通过 CloudSimple VMware 解决方案
 
 ## <a name="getting-started"></a>即刻体验
 
@@ -119,4 +124,4 @@ Azure 保留帮助节省资金的预支付为期一年或三年的虚拟机，SQ
 
 另请参阅 [Azure 混合权益常见问题解答](https://azure.microsoft.com/en-us/pricing/hybrid-benefit/faq/)
 
-* 实际节省的费用可能因区域、 实例类型或使用情况。
+\* 实际节省的费用可能因区域、 实例类型或使用情况。
