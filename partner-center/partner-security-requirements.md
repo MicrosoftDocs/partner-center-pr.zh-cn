@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory、 云解决方案提供商、 云解决方案提供商，则程序 CSP、 控件面板供应商联系，CPV、 多重身份验证，MFA，安全应用程序模型、 安全的应用程序模型、 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: de1452ce14c8343e2e05dcc65a7a6c05259576c5
-ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+ms.openlocfilehash: 8f513b96619819cd6ba892625e47731170d22130
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "67346996"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549539"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴的安全要求
 
@@ -28,11 +28,11 @@ ms.locfileid: "67346996"
 安全和隐私的客户和合作伙伴是 microsoft 的头等大事。 我们继续看到越来越多的更复杂的安全攻击，主要与遭到入侵的标识。 预防性控制整个防御策略以阻止安全攻击中扮演着重要角色，我们将开始强制执行一系列必需的安全要求，以帮助保护合作伙伴和客户。
 
 > [!NOTE]
-> 我们强烈建议所有合作伙伴通过主权云 (21Vianet，美国政府区域和德国) 事务处理操作，并立即采用这些新的安全要求。 但是，这些合作伙伴不需要满足年 7 月 1 日生效的新安全要求。 Microsoft 将提供有关在将来实施主权云这些安全性要求的其他详细信息。
+> 我们强烈建议所有合作伙伴通过主权云 (21Vianet，美国政府区域和德国) 事务处理操作，并立即采用这些新的安全要求。 但是，这些合作伙伴不需要满足 2019 年 8 月 1 日的新有效的安全要求。 Microsoft 将提供有关在将来实施主权云这些安全性要求的其他详细信息。
 
 ## <a name="overview-of-the-requirements"></a>要求概述
 
-所有合作伙伴参与云解决方案提供商计划、 控制面板供应商和顾问合作伙伴都需要为每个用户在其合作伙伴租户中强制实施多重身份验证 (MFA)。 这可以通过启用两个[Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)。 基线策略是一组预定义策略来帮助保护组织针对许多常见的攻击。 这些常见的攻击可以包含密码喷射、 重播和网页仿冒欺诈。 所有版本的 Azure Active Directory 中提供了基线策略。 Microsoft 向这些基线保护策略提供每个人都因为基于标识的攻击已过去几年的上升。
+所有合作伙伴参与云解决方案提供商计划、 控制面板供应商和顾问合作伙伴都需要为每个用户，包括服务帐户在其合作伙伴租户中强制实施多重身份验证 (MFA)。 这可以通过启用两个[Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)。 基线策略是一组预定义策略来帮助保护组织针对许多常见的攻击。 这些常见的攻击可以包含密码喷射、 重播和网页仿冒欺诈。 所有版本的 Azure Active Directory 中提供了基线策略。 Microsoft 使这些基线保护策略可供每个人都可以进一步使客户和合作伙伴实现中最佳安全做法。
 
 下表所述，应启用的两个基线策略。
 
@@ -44,19 +44,36 @@ ms.locfileid: "67346996"
 启用这些策略后，每个用户将能够利用 Azure MFA，且不另外收费。 如果使用第三方解决方案，然后需要访问 Microsoft 商业云服务时为每个用户强制实施 MFA。
 
 > [!IMPORTANT]
-> 对于合作伙伴目录中的每个用户，将强制执行 MFA，因为会影响任何自动化或利用用户凭据的集成。 若要解决这种影响将需要修改的方式自动化或集成连接到 Microsoft 商业云服务。 如果要连接到该服务支持基于身份验证令牌，则我们建议你实现[保护应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。
+> 对于合作伙伴目录中的每个用户，将强制执行 MFA，因为会影响任何自动化或利用用户凭据的集成。 若要解决这种影响，您需要修改你的自动化或集成连接到 Microsoft 商业云服务的方式。 如果要连接到该服务支持基于身份验证令牌，则我们建议你实现[保护应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。
 
 ## <a name="what-actions-do-i-need-to-take"></a>我需要执行哪些操作？ 
 
-若要确保伙伴中的每个用户受到保护，需要启用[适用于管理员要求使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)并[最终用户保护](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)基线策略。 在启用这些策略之前, 务必理解他们执行的操作以及它们将如何影响任何自动化或集成和你的用户。
+若要确保保护合作伙伴租户中的用户，需要为每个用户 （包括服务帐户） 强制实施 MFA。 这可以通过启用[适用于管理员要求使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)并[最终用户保护](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)基线策略。 在启用这些策略之前, 务必理解他们执行的操作以及它们将如何影响任何自动化或集成和你的用户。
+
+> [!NOTE]
+> [基准策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)随着时间的推移不断更新。 建议您定期查看文档，了解有关策略的发展方式的详细信息。
 
 ### <a name="considerations"></a>注意事项
 
 由于安全要求将应用于合作伙伴目录中的所有用户，几个注意事项需要进行，以确保顺利完成部署。 这些注意事项包括标识不能或不应执行 MFA，以及应用程序和由你的组织不支持新式身份验证的客户端的 Azure Active Directory 中的用户。
 
+#### <a name="self-service-password-reset"></a>自助服务密码重置
+
+自助服务密码重置 (SSPR) 是一种 Azure Active Directory 功能，使员工能够重置其密码，而无需与 IT 人员联系。 员工必须先注册，或者进行注册自助服务密码重置使用该服务。 在注册期间，员工选择启用其组织的一个或多个身份验证方法。
+
+SSPR 使员工能够快速获取未被阻止并继续工作，无论身在何处或一天的时间。 通过允许用户取消阻止自身，你的组织可以减少的非工作时间和最常见的与密码相关问题的较高的支持成本。
+
+当[最终用户保护](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)启用基线策略将阻止任何被入侵的用户帐户，直到重置其密码和已关闭风险事件。 考虑到这一点建议每个用户，都是全局管理员，执行以下步骤来注册 SSPR
+
+1. 浏览到[SSPR 安装程序页](https://aka.ms/ssprsetup)
+2. 输入用户名和密码
+3. 配置至少一个将用于验证你的重置密码时身份验证选项。  
+
+当帐户受到威胁时将需要管理员采取操作以还原受影响用户的访问权限。 请参阅[步骤取消阻止用户](#recovering-compromised-accounts)有关解除阻止的用户的过程的详细信息。
+
 #### <a name="legacy-protocols"></a>旧协议
 
-邮件客户端使用旧式身份验证协议 （IMAP、 SMTP、 POP3、 等） 进行身份验证请求。 这些协议不支持 MFA。 大部分看到由 Microsoft 帐户破坏而引起不良参与方执行攻击试图绕过 MFA 的旧协议。 为了确保登录到合作伙伴目录中的帐户时需要 MFA 和不良参与方不能绕过 MFA，这些安全要求将阻止旧版协议中的所有身份验证请求。
+邮件客户端使用旧式身份验证协议 （IMAP、 SMTP、 POP3、 等） 进行身份验证请求。 这些协议不支持 MFA。 大部分帐户破坏而引起不良参与方执行攻击试图绕过 MFA 的旧协议。 为了确保登录到合作伙伴目录中的帐户时需要 MFA 和不良参与方不能绕过 MFA，这些安全要求将阻止旧版协议中的所有身份验证请求。
 
 ### <a name="enabling-the-baseline-policies"></a>启用基线策略
 
@@ -123,7 +140,7 @@ ms.locfileid: "67346996"
 
 #### <a name="aadsts50076"></a>AADSTS50076
 
-启用后基线策略，可能会发现你的自动化或集成遇到类似于下面的异常
+启用后基线策略，可能会发现你的自动化或集成遇到如下所示的异常
 
     AADSTS50076: Due to a configuration change made by your administrator, or because you moved to a new location, you must use multi-factor authentication to access 'MyApp'.
 
@@ -141,6 +158,24 @@ ms.locfileid: "67346996"
 对于 Azure Active Directory 进行刷新的最长生存期令牌为 90 天。 若要解决此错误，将需要生成并安全地将存储新的刷新令牌。 请注意可以以编程方式更新刷新令牌，因为与 Azure Active Directory 访问令牌的每个请求返回一个新的刷新令牌。 您可以实现相应的逻辑以安全地存储的刷新令牌过期之前进行更新。
 
 请参阅[Azure Active Directory 中的可配置令牌生存期](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)有关详细信息。
+
+### <a name="recovering-compromised-accounts"></a>恢复帐户被盗问题
+
+为了帮助保护我们的客户，Microsoft 提供的已泄漏的凭据服务查找公开提供的用户名/密码对。 如果它们匹配有个用户，我们帮助立即保护该帐户。 确认用户标识为具有已泄漏的凭据泄露。 将阻止这些用户在登录之前重置其密码。
+
+如果在其目录中启用了此功能，分配的 Azure AD Premium 许可证的用户可以还原通过自助服务密码重置 (SSPR) 的访问权限。 高级版许可证的情况下会受到阻止的用户必须联系管理员，以执行手动密码重置和关闭已标记的用户风险事件。
+
+#### <a name="steps-to-unblock-a-user"></a>取消阻止用户的步骤
+
+确认，用户已被策略阻止通过检查用户的登录日志。
+
+1. 管理员需要登录到**Azure 门户**并导航到**Azure Active Directory** > **用户**> 单击用户的名称，导航为登录名。
+2. 若要启动密码重置上被阻止的用户，管理员需要导航到**Azure Active Directory** > **已标记为风险用户**
+3. 单击的用户的帐户将被阻止，若要查看有关用户的最近登录活动的信息。
+4. 单击要分配的下一步的登录名时必须更改临时密码重置密码。
+5. 单击清除所有事件重置用户的风险评分。
+
+用户现在可以登录、 重置其密码，并访问该应用程序。
 
 ## <a name="known-issues"></a>已知问题
 

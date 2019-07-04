@@ -7,12 +7,12 @@ ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fdc7bdf8dc79bba7e3328fb19a4bdbd9a78d904b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133967"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549507"
 ---
 # <a name="provide-billing-support"></a>提供计费支持
 
@@ -33,6 +33,9 @@ ms.locfileid: "62133967"
 在云解决方案提供商模型中交易的合作伙伴是受其客户信任的顾问，拥有端到端关系，包括当其客户有疑问或问题时提供的支持。 通过支持触点合作伙伴可以进一步了解客户及其业务，从而发现能够驱动价值的新的服务和解决方案。
 
 为了满足支持需求，合作伙伴可转售其他实体的支持，可外包其全部或部分支持结构和/或设置结构来直接提供支持。  合作伙伴可对向客户提供的全部或部分支持收取费用。 合作伙伴应向其客户明确说明将提供的支持、服务时间和联系方式，以及定价（如果对支持收费）。 
+
+>[!Note]
+>如果你不是 CSP，并且有关于计费的客户的问题，请参阅为适当的产品或服务特定的门户。
 
 合作伙伴需要接收客户提出的支持请求，尽合作伙伴的能力诊断问题，然后在基准支持边界范围内解决问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
 

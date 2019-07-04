@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC 中迁移，将移动到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 1712587f834958a2dd3450d940e8778a2f16d12d
-ms.sourcegitcommit: 06df500f8dcbff15b87bed2470bd46ceac18afc6
+ms.openlocfilehash: 3056bd4094bc6e3a69081ff262fc96782ce57a1f
+ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "67157337"
+ms.lasthandoff: 07/03/2019
+ms.locfileid: "67549514"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>将从 PMC 移动到合作伙伴中心
 
@@ -64,7 +64,7 @@ ms.locfileid: "67157337"
 |-----------------|:-----------------|
 |分配的 Visual Studio 权益的 MSA|Visual Studio 权益分配给 Msa 将接受而保留。|
 ||在合作伙伴中心续订后，将保留 MSA 分配的 Visual Studio。|
-||在合作伙伴中心，合作伙伴可以添加工作帐户和来宾用户帐户是 MSA 的租户的合作伙伴是 MPN 的 Azure AD 租户中的管理员。 如果伙伴正在多个 Azure AD 租户中的全局管理员，并且所有这些租户将关联到相同的合作伙伴中心帐户，然后允许该合作伙伴将对所有这些租户的用户添加到 Visual Studio 权益和 Azure 的基于使用情况的分配。不过，来宾用户可以通过 MPN 管理员或全局管理员分配基于使用情况的订阅的 Visual Studio，来宾用户无法登录到合作伙伴中心使用其 MSA。 来宾用户可以但是中, 登录到 Azure 和 Visual Studio，若要验证，并使用其已分配的权益。 |
+||在合作伙伴中心，合作伙伴可以添加工作帐户和来宾用户帐户是 MSA 的租户的合作伙伴是 MPN 的 Azure AD 租户中的管理员。 如果伙伴正在多个 Azure AD 租户中的全局管理员，并且所有这些租户将关联到相同的合作伙伴中心帐户，然后允许该合作伙伴将对所有这些租户的用户添加到 Visual Studio 权益和 Azure 的基于使用情况的分配。 不过，来宾用户可以通过 MPN 管理员或全局管理员分配基于使用情况的订阅的 Visual Studio，来宾用户无法登录到合作伙伴中心使用其 MSA。 来宾用户可以但是中, 登录到 Azure 和 Visual Studio，若要验证，并使用其已分配的权益。 |
 
 ## <a name="programs-now-located-and-managed-in-partner-center"></a>程序现在位于和托管在合作伙伴中心 
 
