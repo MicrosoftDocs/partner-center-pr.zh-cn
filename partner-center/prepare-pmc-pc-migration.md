@@ -6,12 +6,12 @@ description: 将你的业务从 PMC 移到合作伙伴中心之前需要考虑�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0f1df50c5fa94707ac733a91b0d981b6821de8c0
-ms.sourcegitcommit: 7b3847a788365a05628a4cf2938dfd61782d6e4e
+ms.openlocfilehash: 5dbdf09b00cf4f188cc82542182ebff39a4d7e39
+ms.sourcegitcommit: 2e41cd8c74e806f52f9250788d63473160b10e62
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/29/2019
-ms.locfileid: "67468028"
+ms.lasthandoff: 07/04/2019
+ms.locfileid: "67563042"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备移动从伙伴成员身份 Center (PMC) 到合作伙伴中心
 
@@ -132,6 +132,11 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
  **我们如何应管理我们 MCP 关联和我们合作伙伴大学访问？**
 
  没有从 PMC 移动的 MCP 关联到的更改。 但是，任何新的新员工移动到合作伙伴中心后将需要在合作伙伴中心关联。 为现有用户的所有合作伙伴大学权限将都保留，但任何新员工应转到[培训 center](https://partner.microsoft.com/training)有关如何获取到合作伙伴大学的访问权限的信息。
+
+ **将移动到合作伙伴中心后，如何查看 MCP 信息？**
+
+选择**能力**从左侧导航栏的仪表板上。 从**能力**能够下载技能报表的页。 技能报告将列出用户已获取技能相关的能力，并在合作伙伴中心中的程序。 如果你的用户获得了技能，但这些技能和能力的努力的方向无关，它们将不会在报告中列出。
+
 
  **在合作伙伴中心中使用的客户引用？**
 
