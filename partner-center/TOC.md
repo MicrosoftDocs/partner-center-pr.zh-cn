@@ -120,6 +120,7 @@
 ## [获取客户的 Azure 订阅使用情况数据](analyze-azure-usage.md)
 ## [分析间接经销商业绩](analyze-indirect-resellers.md)
 ## [分析订阅和许可证](analyze-subscriptions-licenses.md)
+## [Microsoft Learn 分析](ms-learn-analytics.md)
 
 # [与其他合作伙伴合作](work-with-other-partners.md)
 ## [合作伙伴中心中的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
