@@ -46,6 +46,7 @@
 ## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
 ## [创建用户帐户](create-user-accounts-and-set-permissions.md)
 ## [为用户分配角色和权限](permissions-overview.md)
+## [将 Microsoft Learn 帐户关联到合作伙伴中心](ms-learn-associate.md)
 ## [验证域所有权](become-global-admin.md)
 ## [重置用户密码](reset-a-user-password.md)
 ## [重置我的密码](reset-my-pasword.md)
@@ -116,7 +117,7 @@
 # 合作伙伴中心数据和分析
 ## [获取并分析业务数据](data-analysis-lp.md)
 ## [适用于 Microsoft Power BI 的合作伙伴分析应用](power-bi-app-for-direct-partners.md)
-## [合作伙伴贡献：掌握你的业绩指标](partner-contributions.md)
+## [合作伙伴贡献指示器](partner-contribution-indicators.md)
 ## [获取客户的 Azure 订阅使用情况数据](analyze-azure-usage.md)
 ## [分析间接经销商业绩](analyze-indirect-resellers.md)
 ## [分析订阅和许可证](analyze-subscriptions-licenses.md)
