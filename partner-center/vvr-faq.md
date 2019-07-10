@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 培训凭证，软件保障，培训、 验证凭证，保留凭证
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e244140fd0283a50ef7dc64584748524e84ebb0
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 210218d027af2cb0e02556593e3a6212124e28f6
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132579"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674218"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常见问题解答：使用凭证验证和兑换工具 
 
@@ -51,6 +51,9 @@ ms.locfileid: "62132579"
 **我的公司可以如何访问 VVR 工具？**
 
 - 若要访问 VVR 工具，你的公司需要 SATV 程序或 SA DPS 程序中注册。
+
+在阅读更多详细的常见问题[凭证验证工具工作流](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)。
+
 有关如何在 SATV 中注册的信息，请阅读[合作伙伴中心中的软件保障培训凭证 (SATV) 程序](software-assurance-satv.md)。
- <!--
-For information on how to enroll in Software Assurance DPS programs, read [Software Assurance programs in Partner Center](software-assurance-dps.md).-->
+
+有关如何在软件保障 DPS 程序中注册的信息，请阅读[合作伙伴中心中的软件保障程序](software-assurance-dps.md)。

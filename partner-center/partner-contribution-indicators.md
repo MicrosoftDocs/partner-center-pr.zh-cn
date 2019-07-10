@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6064b31744ff432dc97887eec22dce142c223f7
-ms.sourcegitcommit: bd83621eb29fafbda341ad41814a9ae5c1e78b00
+ms.openlocfilehash: 579676ccd7331011a0613825028dee070539d414
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "67622555"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674267"
 ---
 ## <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
@@ -56,9 +56,9 @@ PCI 使用 100 点规模提供的尾随的 12 个月指示的与 Dynamics 365 �
 |新的大型 deploments|20|有关**Customer Engagement**，如果任何付费的订阅超过 250 过去 12 个月中的每月活动用户阈值，相关联的合作伙伴获取信用额度的所有客户的参与，生产实例 （组织） 下该租户。 有关**Finance and Operations**，如果有付费的订阅被视作 100 每月活动用户在过去的 12 个月内，相关联的合作伙伴为所有财务部门获取信用额度并将操作生产实例 （组织）在该租户。 在订阅级别计算月度活动用户，并视为仅付费的订阅。 在每个月月底计算月度活动用户。 订阅被视为已超过每月活动用户阈值，如果它已低于指定阈值 13 个月前，至少一次在后续 12 个月中超过了阈值。 当某个租户在有多个订阅，每个不同的合作伙伴，与关联所有合作伙伴都获取信用额度在租户中适用的产品类别下的所有生产实例，只要其关联的付费订阅交叉所需每月活动用户阈值。|尾随的 12 个月|
 |每月活动用户增长|25|比较当前的计数每月活动用户 vs 的月度活动用户计数 13 个月前。 在订阅级别计算月度活动用户，并视为仅付费的订阅。 在每个月月底计算月度活动用户。 有关**Customer Engagement**、 开发的市场合作伙伴必须在生产中，具有至少 250 月度活动用户的基线和新兴市场合作伙伴至少 150 个月度活动用户跨其整个客户群 13 个月前才可进行的任何点。 有关**Finance and Operations**、 开发的市场合作伙伴必须在生产中，具有至少 100 个月度活动用户的基线和新兴市场合作伙伴至少 50 个月度活动用户跨其整个客户群 13 个月前才可进行的任何点。|尾随的 12 个月|
 
-## <a name="customer-to-partner-association"></a>客户与合作伙伴的关联
+## <a name="customer-to-partner-association"></a>客户-合作伙伴关联
 
-获得新的净收入的信用额度，Net 客户添加，新的大型部署，以及对于给定的客户，指标定义，边界内的每月活动用户增长当且仅当你是声明合作伙伴的记录 (CPOR) 或记录数字合作伙伴 （DPOR) 为属于客户的租户的付费订阅。
+获得净新收入的信用额度，Net 客户添加，新的大型部署，以及对于给定的客户，指标定义，边界内的每月活动用户增长仅当您索取合作伙伴的记录 (CPOR) 或数字记录合作伙伴 (DPOR)为属于客户的租户的付费订阅。
 
 如果在已确定与在订阅级别通过 Dynamics 365 联机解决方案顾问 (OSA) 激励客户关联，合作伙伴将成为 CPOR。
 

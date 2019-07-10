@@ -7,22 +7,31 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 培训、 红包： 试用工具，验证凭证，软件保障的声明，DPS，SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 6cf844129bb1d684b10de2d4ff69f976235aef57
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ab74a3264ebf7461919072b7fd367f7619252b10
+ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132647"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "67674265"
 ---
 # <a name="use-the-voucher-validation-and-redemption-tool-in-partner-center-to-validate-reserve-and-redeem-vouchers"></a>使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证 
 
-**适用于：**
+**适用对象：**
 
 - 合作伙伴中心
 
 作为软件保障合作伙伴限定，无论是出于培训或部署规划服务，Microsoft 补偿您以具有软件保障获得的凭证交换的企业客户提供这些服务。
 
 客户收到凭证，凭证，您需要验证，并保留它。 您可能曾经凭证验证和兑换 (VVR) 工具中的过去此工作。 今天我们都汇集到一个站点-合作伙伴中心 – 所有工具和站点，包括 VVR 工具，用于必须访问的合作伙伴与 Microsoft 有业务往来，旨在让您的工作，简化并更有效。
+
+本文档概述了如何验证和保留凭证，凭证。 完整的凭证验证工作流和策略的完整信息，请参阅： 
+
+- [软件保障培训凭证工作流](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+
+- [软件保障培训红包： 试用常见问题解答](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 
+
+- [软件保障培训凭证策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP) 
+
 
 ## <a name="validate-and-reserve-a-voucher"></a>验证并保留凭证，凭证
 
