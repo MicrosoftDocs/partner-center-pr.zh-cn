@@ -1,53 +1,41 @@
 ---
-title: 分析业务配置文件的效率 | 合作伙伴中心
+title: 分析你的业务配置文件 |合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
-description: 通过合作伙伴中心评估、协商和响应引荐。
-author: LauraBrenner
-ms.author: labrenne
-robots: noindex,nofollow
+ms.date: 07/12/2019
+description: 查看您的目标客户和生成引用的关注程度。
+author: JnHs
+ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: bb2a628991e608ff26424b534b626cef7b2581cf
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8f53c002ea3d1fd1a670031a18c58d93bf259c21
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134907"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854500"
 ---
-# <a name="analyze-the-effectiveness-of-your-business-profile"></a><span data-ttu-id="cb3b4-103">分析业务配置文件的效率</span><span class="sxs-lookup"><span data-stu-id="cb3b4-103">Analyze the effectiveness of your business profile</span></span>
+# <a name="analyze-your-business-profile"></a><span data-ttu-id="96c69-103">分析你的业务配置文件</span><span class="sxs-lookup"><span data-stu-id="96c69-103">Analyze your business profile</span></span>
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-<span data-ttu-id="cb3b4-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="cb3b4-104">**Applies to**</span></span>
+<span data-ttu-id="96c69-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="96c69-104">**Applies to**</span></span>
 
--  <span data-ttu-id="cb3b4-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="cb3b4-105">Partner Center</span></span>
+- <span data-ttu-id="96c69-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="96c69-105">Partner Center</span></span>
 
-<span data-ttu-id="cb3b4-106">获取报告了解你在吸引目标客户注意以及产生引荐方面表现如何。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-106">Get reports to show how well you’re capturing the attention of your target customers and generating referrals.</span></span>
+<span data-ttu-id="96c69-106">"合作伙伴中心" 中的 "**业务配置文件见解**" 页可让你了解你所关注的目标客户和生成的推荐情况。</span><span class="sxs-lookup"><span data-stu-id="96c69-106">The **Business profile insights** page in Partner Center lets you see how well you're capturing the attention of your target customers and generating referrals.</span></span>
 
-<span data-ttu-id="cb3b4-107">发布贵公司的[业务配置文件](create-a-marketing-profile.md)后，你将开始获取有关多少客户查找你的配置文件、他们多久点击以了解更多信息，以及他们多久向你发送信息请求 (RFI) 的数据。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-107">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to get data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> 
+<span data-ttu-id="96c69-107">若要查看你的参考数据, 请从 "合作伙伴中心" 菜单中转到 "**引用 > Business profile insights**"。</span><span class="sxs-lookup"><span data-stu-id="96c69-107">To see your referral insights data, from the Partner Center menu, go to **Referrals > Business profile insights**.</span></span> <span data-ttu-id="96c69-108">你的数据显示配置文件性能，分析趋势，以及识别需要执行操作的方面。</span><span class="sxs-lookup"><span data-stu-id="96c69-108">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span>
 
-<span data-ttu-id="cb3b4-108">当你开始[响应这些引用](responding-to-referrals.md)时，你将开始获取有关这些 RFI 中有多少正在转变为成功业务交易的数据。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-108">As you start to [respond to these referrals](responding-to-referrals.md), you’ll start to get data on how many of these RFIs are turning into winning business deals.</span></span>
+<span data-ttu-id="96c69-109">在 "**业务配置文件见解**" 页面的顶部附近, 可以选择要显示数据的时间段。</span><span class="sxs-lookup"><span data-stu-id="96c69-109">Near the top of the **Business profile insights** page, you can select the time period for which you want to show data.</span></span> <span data-ttu-id="96c69-110">默认选择为**30D** (30 天), 但你可以选择将数据显示为3到6个月的时间。</span><span class="sxs-lookup"><span data-stu-id="96c69-110">The default selection is **30D** (30 days), but you can choose to show data for a period of 3 or 6 months instead.</span></span> <span data-ttu-id="96c69-111">所有区域的数据都包括在内。</span><span class="sxs-lookup"><span data-stu-id="96c69-111">Data for all regions is included.</span></span>
 
-<span data-ttu-id="cb3b4-109">在优化业务配置文件时使用这些报告生成更多销售线索和更相关的销售线索。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-109">Use these reports when refining your business profiles to generate more leads, and more relevant leads.</span></span> <span data-ttu-id="cb3b4-110">你的数据显示配置文件性能，分析趋势，以及识别需要执行操作的方面。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-110">Your data shows profile performance, analyzes trends and identifies areas that require action.</span></span> <span data-ttu-id="cb3b4-111">从合作伙伴中心菜单中，转到**引用 > 营销页**。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-111">From the Partner Center menu, go to **Referrals > Marketing pages**.</span></span>
+<span data-ttu-id="96c69-112">在你发布公司的[业务配置文件](create-a-marketing-profile.md)后, 你将开始查看有关哪些客户找到你的个人资料、他们单击多长时间来了解详细信息的数据, 以及他们向你发送信息请求的频率 (RFIs)。</span><span class="sxs-lookup"><span data-stu-id="96c69-112">After you post your company’s [business profile](create-a-marketing-profile.md), you’ll start to see data on how many customers find your profile, how often they click through to learn more, and how often they send you requests for information (RFIs).</span></span> <span data-ttu-id="96c69-113">在优化业务配置文件时使用此数据, 以生成更多的潜在客户和更相关的潜在顾客。</span><span class="sxs-lookup"><span data-stu-id="96c69-113">Use this data when refining your business profiles to generate more leads, and more relevant leads.</span></span>
 
-<span data-ttu-id="cb3b4-112">这些报告显示所有地区的业务配置文件的性能。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-112">These reports show the performance for business profiles for all regions.</span></span> <span data-ttu-id="cb3b4-113">这些报告显示过去 90 天按周分组的数据。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-113">The reports show data for the last 90 days, grouped by weeks.</span></span>
+<span data-ttu-id="96c69-114">**配置文件性能摘要**图表包括所选时间段的下列信息:</span><span class="sxs-lookup"><span data-stu-id="96c69-114">The **Profile performance summary** chart includes the following info for the selected time period:</span></span>
 
-*  <span data-ttu-id="cb3b4-114">**趋势**:显示过去 90 天，按周分组。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-114">**Trends**: Shows the last 90 days, grouped by weeks.</span></span> <span data-ttu-id="cb3b4-115">过去 90 天的每周数据，以及自上一期间以来以下指标的变化百分比：</span><span class="sxs-lookup"><span data-stu-id="cb3b4-115">weekly data for the last 90 days and % change from previous period of the following metrics:</span></span>
+- <span data-ttu-id="96c69-115">**搜索结果**:有关客户用于查找业务配置文件的搜索词的信息。</span><span class="sxs-lookup"><span data-stu-id="96c69-115">**Search results**: Info about the search terms that customers are using to find your business profile.</span></span>
+- <span data-ttu-id="96c69-116">**页面视图**:客户查看你的业务配置文件的总次数。</span><span class="sxs-lookup"><span data-stu-id="96c69-116">**Page views**: The total number of times that customers viewed your business profile.</span></span>
+- <span data-ttu-id="96c69-117">**单击联系人**:客户从 "[查找解决方案提供程序](https://www.microsoft.com/solution-providers/home)" 页中选择你的业务配置文件的总次数。</span><span class="sxs-lookup"><span data-stu-id="96c69-117">**Contact clicks**: The total number of times that customers selected your business profile from the [Find a solution provider](https://www.microsoft.com/solution-providers/home) page.</span></span>
+- <span data-ttu-id="96c69-118">已**生成引用**:客户选择你的业务配置文件后向你发送的引用总数。</span><span class="sxs-lookup"><span data-stu-id="96c69-118">**Referrals generated**: The total number of referrals sent to you after a customer selected your business profile.</span></span>
 
-   * <span data-ttu-id="cb3b4-116">**市场营销页面视图**:人查看您的业务配置文件的次数</span><span class="sxs-lookup"><span data-stu-id="cb3b4-116">**Marketing page views**: How many times people viewed your business profile</span></span>
-   * <span data-ttu-id="cb3b4-117">**请联系按钮单击**:用户选择从你的业务配置文件的次数**查找合作伙伴**页。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-117">**Contact button clicks**: Number of times people selected your business profile from the **Find a Partner** page.</span></span> <span data-ttu-id="cb3b4-118">这可能不会体现用户继续操作以创建信息请求 (RFI) 的次数。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-118">This may not reflect how many times people followed through to create a request for information (RFI).</span></span>
-   * <span data-ttu-id="cb3b4-119">**接受 RFI**:数乘以你[接受客户引用](responding-to-referrals.md)他们发送信息 (RFI) 的请求后。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-119">**RFI is accepted**: Number of times you [accepted customer referrals](responding-to-referrals.md) after they sent a request for information (RFI).</span></span>
-
-
-*  <span data-ttu-id="cb3b4-120">**页面视图**:显示过去 90 天内的每周的趋势数据。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-120">**Page views**: Shows weekly trend data for the last 90 days.</span></span>
-   *  <span data-ttu-id="cb3b4-121">**通过客户的市场营销页视图**</span><span class="sxs-lookup"><span data-stu-id="cb3b4-121">**Marketing page views by customers**</span></span>
-   *  <span data-ttu-id="cb3b4-122">**Rfi 提交的客户**</span><span class="sxs-lookup"><span data-stu-id="cb3b4-122">**RFIs submitted by customers**</span></span>
-
-<span data-ttu-id="cb3b4-123">请参阅客户在查找配置文件时使用的搜索词。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-123">See the search terms that customers are using to find your profile.</span></span> <span data-ttu-id="cb3b4-124">这些报告显示过去 90 天的每周数据。</span><span class="sxs-lookup"><span data-stu-id="cb3b4-124">These reports show weekly data for the last 90 days.</span></span>
-
-*  <span data-ttu-id="cb3b4-125">**关键字**（最常用的整体搜索关键字）</span><span class="sxs-lookup"><span data-stu-id="cb3b4-125">**Keywords** (Top overall search keywords)</span></span> 
-*  <span data-ttu-id="cb3b4-126">**行业**</span><span class="sxs-lookup"><span data-stu-id="cb3b4-126">**Industry**</span></span>
-*  <span data-ttu-id="cb3b4-127">**Product**</span><span class="sxs-lookup"><span data-stu-id="cb3b4-127">**Product**</span></span>
-*  <span data-ttu-id="cb3b4-128">**服务类型**</span><span class="sxs-lookup"><span data-stu-id="cb3b4-128">**Service type**</span></span>
-
+> [!TIP]
+> <span data-ttu-id="96c69-119">当你开始[响应这些引用](responding-to-referrals.md)时, 请确保查看 "[引用见解" 页](referral-insights.md), 以查看有关如何执行引用的详细信息。</span><span class="sxs-lookup"><span data-stu-id="96c69-119">As you start to [respond to these referrals](responding-to-referrals.md), be sure to review the [Referral insights page](referral-insights.md) to see more details on how your referrals are performing.</span></span>
