@@ -1,18 +1,18 @@
 ---
-title: 销售 Azure Marketplace 产品的订阅 |合作伙伴中心
+title: 向 Azure Marketplace 产品销售订阅 |合作伙伴中心
 ms.topic: article
-ms.date: 06/10/2019
-description: 可以使用合作伙伴中心销售你的客户订阅的软件即服务 (SaaS) 产品发布到 Azure Marketplace 的独立软件供应商 (Isv)。
+ms.date: 07/12/2019
+description: 你可以使用合作伙伴中心向由独立软件供应商 (Isv) 发布到 Azure Marketplace 的软件即服务 (SaaS) 产品中销售客户订阅。
 author: JnHs
 ms.author: jenhayes
-keywords: 订阅 Marketplace 中，第三方 ISV
+keywords: 订阅, Marketplace, 第三方, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: d870bfef7d967e8f5b890fadfe86f527e558cda5
-ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
+ms.openlocfilehash: 4dda776e7ebdece3a8a15c3576b64d93d3e4158c
+ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67045070"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "67854503"
 ---
 # <a name="sell-subscriptions-to-azure-marketplace-products"></a>销售 Azure 市场产品的订阅
 
@@ -20,50 +20,56 @@ ms.locfileid: "67045070"
 
 - 合作伙伴中心
 
-可以使用合作伙伴中心销售你的客户订阅的软件，如服务 (SaaS) 产品发布到[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)的独立软件供应商 (Isv)。 这可以帮助区分你的业务和用户提供满足其特定的业务需求的软件捆绑包。 管理许可证和这些 Azure Marketplace SaaS 产品的订阅，就像 Microsoft 产品。
+你可以使用合作伙伴中心向由独立软件供应商 (Isv) 发布到[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace)的软件即服务 (SaaS) 产品中销售客户订阅。 这有助于区分你的业务, 并为客户提供满足其特定业务需求的软件捆绑。 你可以像对 Microsoft 产品一样, 管理这些 Azure Marketplace SaaS 产品的许可证和订阅。
 
-有关 Azure Marketplace 的详细信息，请参阅[Azure Marketplace 常见问题](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)。
+有关 Azure Marketplace 的详细信息, 请参阅[Azure Marketplace 常见问题解答](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)。
 
-## <a name="view-marketplace-offers-and-pricing"></a>查看 Marketplace 产品/服务和定价
+## <a name="view-marketplace-offers-and-pricing"></a>查看 Marketplace 产品/服务定价
 
-若要查看所有可用产品/服务，请选择**Marketplace**左侧的导航菜单中。 默认情况下，你将看到的所有类型和类别的产品。 可以按类型和/或类别中，筛选或使用搜索框搜索特定的关键字。 选择要查看关于发布服务器和可用的 Sku 的信息的产品。
+若要查看所有可用的产品/服务, 请从左侧导航菜单中选择 " **Marketplace** "。 默认情况下, 你将看到所有类型和类别的产品。 您可以按类型和/或类别进行筛选, 或者使用 "搜索" 框搜索特定关键字。 选择产品以查看有关发布者和可用 Sku 的信息, 包括是否提供免费试用期。
 
 > [!NOTE]
-> 此处不会显示 Azure Marketplace 中提供了一些产品。 Isv 可以决定向合作伙伴中心中的云解决方案提供商 (CSP) 合作伙伴提供他们的产品。 如果你看到你想要提供给通过合作伙伴中心客户的 Azure Marketplace 中的产品，Azure Marketplace 中查找发布者的联系信息，让他们知道您感兴趣。
+> Azure Marketplace 中提供的某些产品可能未显示在此处。 Isv 可以决定是否向合作伙伴中心的云解决方案提供商 (CSP) 合作伙伴提供产品。 如果你在 Azure Marketplace 中看到你希望通过合作伙伴中心提供给客户的产品, 请在 Azure Marketplace 中找到该发布者的联系人信息, 并让他们知道你感兴趣。
 
-Azure Marketplace 产品的价格可能会频繁变动。 若要获取所有 Marketplace 产品的当前定价信息，请选择**导出的价目表**中的右上角**Marketplace**页。 这将生成所有定价数据电子的表格。 定价信息更新每一天，因此可以经常想要了解当前价格检查。
+Azure Marketplace 产品的价格可能会频繁更改。 若要获取所有 Marketplace 产品的最新定价信息, 请选择 " **marketplace** " 页右上角的 "**导出价目表**"。 这将生成一个包含所有定价数据的电子表格。 定价信息每天更新一次, 因此, 你可以根据需要查看其最新价格。
+
+> [!TIP]
+> 如果此列表中的产品提供了免费试用版, 则电子表格将包括该产品的两行。 一行将显示零的价格, 表示有可用的免费试用版。 其他行将包含试用期结束后将应用的价格和条款。
 
 ## <a name="purchase-marketplace-products-for-your-customers"></a>为客户购买 Marketplace 产品
 
-购买 Azure Marketplace SaaS 产品的订阅作为购买订阅的 Microsoft 产品的过程相同。 当为客户添加订阅，你可以选择查看仅 Marketplace 提供从 Isv 通过选择**合作伙伴**中**发布服务器**筛选器。 有关详细信息，请参阅[创建新的订阅](create-a-new-subscription.md)。
+Azure Marketplace SaaS 产品的购买订阅遵循的过程与购买 Microsoft 产品的订阅相同。 为客户添加订阅时, 可以通过在**发布者**筛选器中选择 "**合作伙伴**" 来选择仅查看 isv 提供的 Marketplace 产品/服务。 有关详细信息, 请参阅[创建新订阅](create-a-new-subscription.md)。
 
 > [!IMPORTANT]
-> 仅可以在合作伙伴中心服务 (SaaS) 产品订阅作为购买软件。 其他产品/服务类型 （例如 Azure 应用程序、 容器或 Vm） 管理通过 Azure 门户，并基于使用量计费。 若要启用通过 Azure 门户的即用即付解决方案需要现有的 Azure 订阅。
+> 你只能在合作伙伴中心购买 "软件即服务" (SaaS) 产品订阅。 其他产品/服务类型 (如 Azure 应用程序、容器或 Vm) 通过 Azure 门户进行管理, 并根据使用情况进行计费。 若要通过 Azure 门户启用即用即付解决方案, 需要现有的 Azure 订阅。
 
-请注意该部分提供了您在中看到**Marketplace**页可能不能与特定客户。 可用性可能会受到许多因素，包括是否 ISV 支持客户的帐单邮寄国家/地区。
+请注意, 在 " **Marketplace** " 页中看到的某些产品/服务可能不可用于特定客户。 可用性可能会受到许多因素的影响, 包括 ISV 是否支持客户的计费国家/地区。
 
 > [!TIP]
-> 此外可以使用[合作伙伴中心 Api](https://docs.microsoft.com/partner-center/develop/)创建你的客户的 Azure Marketplace 订阅。 有关详细信息，请参阅[创建 Azure Marketplace 产品订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
+> 你还可以使用[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/)为你的客户创建 Azure Marketplace 订阅。 有关详细信息, 请参阅[为 Azure Marketplace 产品创建订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
 
-与 Azure Marketplace 产品的订阅，可以选择[取消订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription)取消时间段 （对于月度订阅或年度订阅只有 14 天 24 小时） 内。 此外可以[选择是否自动续订此订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)。
+通过订阅 Azure Marketplace 产品, 你可以选择在取消期限 (每月订阅24小时, 每年订阅14天) 内[取消订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#cancel-a-subscription)。 你还可以[选择是否自动续订订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#choose-whether-to-automatically-renew-an-azure-marketplace-subscription)。
 
-> [!NOTE]
-> 有关[Azure Marketplace 产品](sell-marketplace-products.md)，管理通过独立软件供应商 (ISV) 发布产品者许可证分配和激活。
+## <a name="license-activation-for-marketplace-products"></a>Marketplace 产品的许可证激活
+
+对于软件即服务 (SaaS) 产品/服务 (SaaS) 产品/服务类型, 通过发布该产品的独立软件供应商 (ISV) 管理许可证分配和激活。 若要完成此过程, 你将需要访问发布者的站点, 并通过授权代码使用个性化链接来识别你的特定购买情况。 你可以在购买 SaaS 产品/服务后出现的 "确认" 页上找到此链接, 并在 "**订阅**" 页上找到 (在该产品/服务的行中)。 你还可以[使用合作伙伴中心 api 检索此链接](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)。
+
+当你使用此链接访问发布者的站点时, 你将看到预配和分配许可证所需的其他信息或操作, 或者完成安装过程。 所需的步骤可能因发布者和产品/服务而异。 你负责提交任何所需的信息 (或向客户发送 URL 以直接提供此信息)。 提供所需的信息后, 发布者将设置并分配适当的许可证。 仅在成功分配许可证后才开始订阅计费。
 
 ## <a name="access-billing-info-for-marketplace-products"></a>访问 Marketplace 产品的计费信息
 
-Marketplace 产品的计费周期在日历月的第一天开始，在日历月的最后一天结束。 我们将使你的发票可在下个月的第 8 天。 您可以访问这些发票合作伙伴中心中或通过使用合作伙伴中心 Api。
+对于 Marketplace 产品, 计费周期从日历月的第一天开始, 到日历月的最后一天结束。 我们将在下个月的第8天提供发票。 你可以在合作伙伴中心或使用合作伙伴中心 Api 来访问这些发票。
 
-有关详细信息，请参阅[了解在合作伙伴中心计费类型](https://docs.microsoft.com/partner-center/billing-different-types#billing-for-one-time-and-select-recurring-charges)。
+有关详细信息, 请参阅[了解合作伙伴中心的计费类型](https://docs.microsoft.com/partner-center/billing-different-types#billing-for-one-time-and-select-recurring-charges)。
 
-## <a name="provide-support-for-customers-using-marketplace-products"></a>对于使用 Marketplace 产品的客户提供支持
+## <a name="provide-support-for-customers-using-marketplace-products"></a>为使用 Marketplace 产品的客户提供支持
 
-与 Microsoft 产品，您应联系你的客户计费和订阅管理方面的问题的第一个点。 有关技术支持，您将需要联系发布者。 Microsoft 不提供支持的 Marketplace 产品，但将向你提供的发布者支持联系信息。
+与 Microsoft 产品一样, 你应该是客户的第一个联系点, 以了解有关计费和订阅管理的问题。 若要获得技术支持, 需要与发布者联系。 Microsoft 不对 Marketplace 产品提供支持, 但会向你提供发行者的支持联系人信息。
 
-有关详细信息，请参阅[支持的 Azure Marketplace 产品](https://docs.microsoft.com/partner-center/report-problems-on-behalf-of-a-customer#support-for-azure-marketplace-products)并[向客户提供支持](https://docs.microsoft.com/partner-center/customer-support)。
+有关详细信息, 请参阅对[Azure Marketplace 产品的支持](https://docs.microsoft.com/partner-center/report-problems-on-behalf-of-a-customer#support-for-azure-marketplace-products)和[向客户提供支持](https://docs.microsoft.com/partner-center/customer-support)。
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>使用合作伙伴中心 Api 管理订阅
 
-可以创建使用合作伙伴中心 Api 获取市场的产品/服务列表中，创建和提交订单 Azure Marketplace 订阅，然后检索激活链接的 Azure Marketplace 产品的订阅。 此外可以使用合作伙伴中心 Api 执行生命周期管理和管理这些订阅的发票。
+你可以使用合作伙伴中心 Api 为 Azure Marketplace 产品创建订阅, 方法是获取市场产品/服务的列表, 创建并提交 Azure Marketplace 订阅的订单, 然后检索激活链接。 你还可以使用合作伙伴中心 Api 来执行生命周期管理, 并管理这些订阅的发票。
 
-有关详细信息，请参阅[创建 Azure Marketplace 产品订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
+有关详细信息, 请参阅[为 Azure Marketplace 产品创建订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
