@@ -2,161 +2,96 @@
 title: 实现合作伙伴安全要求
 metadata:
   title: 实现合作伙伴安全要求
-  description: 在本教程中，您将学习有关合作伙伴的安全要求以及如何满足这些。
+  description: 在本教程中, 你将了解有关合作伙伴的安全要求以及如何实现这些要求。
   audience: Partners
   level: Beginner
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 08a558f53c5f2f2c58141cdb66912e93b76fb21b
-  ms.sourcegitcommit: ca7f000a58575fa9a089693256c095120dde3c5d
+  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
+  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/24/2019
-  ms.locfileid: "67347006"
+  ms.lasthandoff: 07/18/2019
+  ms.locfileid: "68313952"
 items:
 - title: 简介
   durationInMinutes: 5
   content: >
-    安全和隐私的客户和合作伙伴是 microsoft 的头等大事。 我们继续看到越来越多的更复杂的安全攻击，主要与遭到入侵的标识。 预防性控制整个防御策略以阻止安全攻击中扮演着重要角色，我们将开始强制执行一系列必需的安全要求，以帮助保护合作伙伴和客户。
+    客户和合作伙伴的安全和隐私是 Microsoft 的头等大事。 我们会继续看到日益复杂的安全攻击, 主要与泄露的身份相关。 由于预防控制在整体防御策略中扮演着关键角色来阻止安全攻击, 因此我们将开始强制实施一组必需的安全要求, 以帮助保护合作伙伴及其客户。
 
 
-    完成本教程将了解更多合作伙伴安全要求，如何实现它们，以及对合作伙伴目录中的用户的影响。
-- title: 合作伙伴安全要求是什么？
+    在本教程中, 你将了解有关合作伙伴的安全要求、如何满足这些要求以及对你的合作伙伴目录中的用户产生的影响的详细信息。
+- title: 合作伙伴安全要求有哪些？
   durationInMinutes: 1
   content: >
-    所有合作伙伴参与云解决方案提供商计划、 控制面板供应商和顾问合作伙伴都需要为每个用户在其合作伙伴租户中强制实施多重身份验证 (MFA)。 这可以通过启用两个[Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)。 基线策略是一组预定义策略来帮助保护组织针对许多常见的攻击。 这些常见的攻击可以包含密码喷射、 重播和网页仿冒欺诈。 所有版本的 Azure Active Directory 中提供了基线策略。 Microsoft 向这些基线保护策略提供每个人都因为基于标识的攻击已过去几年的上升。
+    参与云解决方案提供商计划、控制面板供应商和顾问合作伙伴的所有合作伙伴都需要为其合作伙伴租户中的每个用户实施多重身份验证 (MFA)。 这可以通过启用两个[Azure Active Directory 基准策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)来完成。 基准策略是一组预定义策略, 可帮助组织防范多种常见攻击。 这些常见攻击包括密码喷涂、重播和网络钓鱼。 所有版本的 Azure Active Directory 都提供基准策略。 Microsoft 将这些基准保护策略提供给所有人, 因为基于身份的攻击已经在过去几年的时间上升。
 
 
-    下表所述，应启用的两个基线策略。
+    下表介绍了应启用的两个基准策略。
 
 
     |**策略**| |
 
     |-----|-----|
 
-    |**适用于管理员要求 MFA**|启用管理员策略需要 MFA，将要求管理员角色的用户注册 MFA 使用身份验证器应用。 MFA 注册完成后，管理员将需要执行 MFA，每次登录。|
+    |**需要对管理员的 MFA**|如果启用 "要求对管理员使用 MFA" 策略, 将要求管理员角色中的用户注册使用验证器应用的 MFA。 完成 MFA 注册后, 管理员在每次登录时都需要执行 MFA。|
 
-    |**最终用户保护**|最终用户保护是基于风险的 MFA 基线策略保护的目录中的所有用户。 如果启用此策略要求所有用户注册 MFA 使用身份验证器应用。 14 天，此后它们将无法登录，直到在注册 MFA，用户可以忽略 MFA 注册提示。 一旦注册 MFA，用户将会提示进行 MFA 仅在有风险的登录尝试。 重置其密码和已关闭风险事件之前，将阻止用户帐户泄露。|
+    |**最终用户保护**|最终用户保护是一种基于风险的 MFA 基线策略, 可保护目录中的所有用户。 如果启用此策略, 则要求所有用户注册使用验证器应用的 MFA。 用户可以忽略14天的 MFA 注册提示, 超过此时间后, 它们将被阻止登录, 直到他们注册 MFA。 为 MFA 注册后, 用户仅在有风险的登录尝试期间才会提示用户进行 MFA。 受损的用户帐户会被阻止, 直到其密码重置和消除了风险事件。|
 
 
-    启用这些策略后，每个用户将能够利用 Azure MFA，且不另外收费。 如果使用第三方解决方案，然后需要访问 Microsoft 商业云服务时为每个用户强制实施 MFA。
+    启用这些策略后, 每个用户都可以使用 Azure MFA, 无需额外付费。 如果你使用的是第三方解决方案, 则需要在访问 Microsoft 商业云服务时为每个用户强制实施 MFA。
 
 
     > [!IMPORTANT]
 
-    > 对于合作伙伴目录中的每个用户，将强制执行 MFA，因为会影响任何自动化或利用用户凭据的集成。 若要解决这种影响将需要修改的方式自动化或集成连接到 Microsoft 商业云服务。 如果要连接到该服务支持基于身份验证令牌，则我们建议你实现[保护应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。
-- title: 如何启用管理员基线策略要求使用 MFA？
+    > 由于将为合作伙伴目录中的每个用户强制实施 MFA, 因此会对使用用户凭据的任何自动化或集成产生影响。 若要解决这种影响, 需修改自动化或集成连接到 Microsoft 商业云服务的方式。 如果要连接到的服务支持基于令牌的身份验证, 则建议你实现[安全的应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。
+- title: 如何实现启用 "要求对管理员使用 MFA" 基准策略？
   durationInMinutes: 5
-  content: >
-    *管理员要求使用 MFA*基准策略要求使用 MFA 进行以下目录角色，被视为最高特权的 Azure AD 角色：
-
-
-    - 全局管理员
-
-    - SharePoint 管理员
-
-    - Exchange 管理员
-
-    - 条件性访问管理员
-
-    - 安全管理员
-
-    - 支持管理员 / 密码管理员
-
-    - 帐务管理员
-
-    - 用户管理员
-
-
-    启用管理员策略需要 MFA，时更高版本的九个管理员角色将需要使用身份验证器应用的 mfa 注册。 MFA 注册完成后，管理员将需要执行每次登录的 MFA。
-
-
-    如果你的组织中的脚本或代码中使用这些帐户，请考虑将它们替换为 [托管标识](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
-
-
-    若要启用此策略并保护你的管理员：
-
-
-    1. 登录到 **Azure 门户** 作为全局管理员、 安全管理员或条件性访问管理员。
-
-    2. 浏览到**Azure Active Directory** > **条件性访问**。
-
-    3. 在策略列表中，选择**基准策略：适用于管理员要求 MFA**。
-
-    4. 设置**启用策略**到**立即使用策略**。
-
-    5. 单击 **保存**。
-
-      ![适用于管理员要求 MFA](../images/security/baseline-policy-require-mfa-for-admins.png)
-
-    > [!WARNING]
-
-    > 启用此策略之前，请确保你的用户不使用传统的身份验证协议。 请参阅文章[如何：阻止到 Azure AD 条件性访问与传统的身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)有关详细信息。
-
-
-    > [!IMPORTANT]
-
-    > 没有已知的问题，影响您能否利用委派管理权限才能连接到 Exchange Online PowerShell 时强制执行 MFA。 请参阅[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)有关详细信息。
-
-
-    启用后*适用于管理员要求使用 MFA*基准策略，上面的管理员角色的成员的用户时将会遇到新的体验登录。 以下各图是此策略影响的用户将体验
-
-      ![有关详细信息的提示](../images/security/baseline-require-more-info.png)
-
-      ![其他安全性验证](../images/security/baseline-security-verification-setup.png)
-
-      ![配置移动应用](../images/security/baseline-configure-mobile-app.png)
-
-      ![已完成的其他安全验证设置](../images/security/baseline-security-verification-setup-completed.png)
-
-      ![已验证的其他安全验证](../images/security/baseline-security-verification-confirmed.png)
-
-    用户已完成上述后他们将能够登录到 Microsoft 云服务，它们正在尝试的访问。
-- title: 如何启用最终用户保护基线策略？
+  content: "\"*需要对管理员的 mfa 进行管理*基准策略\" 需要针对以下目录角色的 mfa, 并将其视为最特权的 Azure AD 角色:\n\n- 全局管理员\n- SharePoint 管理员\n- Exchange 管理员\n- 条件访问管理员\n- 安全管理员\n- 支持人员管理员/密码管理员\n- 帐务管理员\n- 用户管理员\n\n启用 \"要求对管理员使用 MFA\" 策略后, 将需要使用验证器应用为 MFA 注册以上九个管理员角色。 完成 MFA 注册后, 管理员将需要在每次登录时执行 MFA。\n\n如果你的组织在脚本或代码中使用这些帐户, 请考虑将它们替换为 [托管标识](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。\n\n若要启用此策略并保护管理员:\n\n1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。\n2. 浏览到**Azure Active Directory** > **条件性访问**。\n3. 在策略列表中, 选择 **\"基准策略\":需要对管理员**进行 MFA。\n4. 将 \"**启用策略**\" 设置为 \"**立即使用策略**\"。\n5. 单击 \" **保存**\"。\n\n> [!WARNING]\n> 启用此策略之前, 请确保用户未使用旧身份验证协议。 请参阅文章[如何:有关详细信息, 请阻止使用条件](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)性访问 Azure AD 的旧式身份验证。\n\n> [!IMPORTANT]\n> 存在一个已知问题, 它会影响你在强制执行 MFA 时利用委派的管理权限连接到 Exchange Online PowerShell 的能力。 有关详细信息, 请参阅[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 。\n\n启用 \"*要求对管理员使用 MFA* \" 基准策略后, 作为上述管理员角色成员的用户登录时将遇到新的体验。 下图是受此策略影响的用户将遇到的情况\n\n  ![提示获取详细信息](../images/security/baseline-require-more-info.png)\n\n  ![其他安全性验证](../images/security/baseline-security-verification-setup.png)\n\n  ![配置移动应用](../images/security/baseline-configure-mobile-app.png)\n\n  ![已完成附加的安全验证设置](../images/security/baseline-security-verification-setup-completed.png)\n\n  ![验证的其他安全性验证](../images/security/baseline-security-verification-confirmed.png)\n\n用户完成上述工作后, 他们将能够登录到他们尝试访问的 Microsoft 云服务。\n"
+- title: 如何实现启用最终用户保护基线策略吗？
   durationInMinutes: 5
   content: >-
-    最终用户保护基线策略保护的目录中的所有用户。 如果启用此策略要求所有用户在 14 天内注册 Azure MFA。 注册后，将提示用户仅在有风险的登录尝试期间的 mfa，此行为将合作伙伴租户在将来更改。 密码重置和风险上诉之前，将阻止用户帐户泄露。
+    最终用户保护基线策略保护目录中的所有用户。 如果启用此策略, 则需要所有用户在14天内注册 Azure MFA。 注册后, 将会提示用户仅在有风险的登录尝试期间进行 MFA, 此行为将在将来针对合作伙伴租户发生更改。 在密码重置和风险消除之前, 会阻止泄露的用户帐户。
 
 
-    策略**基准策略：最终用户保护**预配置，此时将显示在顶部导航到在 Azure 门户中的条件性访问边栏选项卡时。
+    策略**基线策略:当你导航**到 Azure 门户中的 "条件性访问" 边栏选项卡时, 最终用户保护会预配置, 并显示在顶部。
 
 
-    若要启用此策略并保护你的用户：
+    若要启用此策略并保护用户:
 
 
-    1. 登录到 **Azure 门户** 作为全局管理员、 安全管理员或条件性访问管理员。
+    1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。
 
     2. 浏览到**Azure Active Directory** > **条件性访问**。
 
-    3. 在策略列表中，选择**基准策略：最终用户保护 （预览版）**。
+    3. 在策略列表中, 选择 **"基准策略":最终用户保护 (预览版)**。
 
-    4. 设置**启用策略**到**立即使用策略**。
+    4. 将 "**启用策略**" 设置为 "**立即使用策略**"。
 
-    5. 单击 **保存**。
+    5. 单击 " **保存**"。
 
-      ![最终用户保护](../images/security/baseline-policy-end-user-protection.png)
 
     > [!WARNING]
 
-    > 启用此策略之前，请确保你的用户不使用传统的身份验证协议。 请参阅文章[如何：阻止到 Azure AD 条件性访问与传统的身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)有关详细信息。
+    > 启用此策略之前, 请确保用户未使用旧身份验证协议。 请参阅文章[如何:有关详细信息, 请阻止使用条件](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)性访问 Azure AD 的旧式身份验证。
 
 
     > [!IMPORTANT]
 
-    > 没有已知的问题，影响您能否利用委派管理权限才能连接到 Exchange Online PowerShell 时强制执行 MFA。 请参阅[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell)有关详细信息。
+    > 存在一个已知问题, 它会影响你在强制执行 MFA 时利用委派的管理权限连接到 Exchange Online PowerShell 的能力。 有关详细信息, 请参阅[Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 。
 
 
-    一旦启用了*最终用户保护*基准策略时登录，所有用户会都遇到新的体验。 以下各图是用户将体验
+    启用*最终用户保护*基线策略后, 所有用户将在登录时遇到新体验。 下面是用户将遇到的情况的图表
 
-      ![有关详细信息的提示](../images/security/baseline-require-more-info.png)
+      ![提示获取详细信息](../images/security/baseline-require-more-info.png)
 
       ![其他安全性验证](../images/security/baseline-security-verification-setup.png)
 
       ![配置移动应用](../images/security/baseline-configure-mobile-app.png)
 
-      ![已完成的其他安全验证设置](../images/security/baseline-security-verification-setup-completed.png)
+      ![已完成附加的安全验证设置](../images/security/baseline-security-verification-setup-completed.png)
 
-      ![已验证的其他安全验证](../images/security/baseline-security-verification-confirmed.png)
+      ![验证的其他安全性验证](../images/security/baseline-security-verification-confirmed.png)
 
-    用户已完成上述操作后，他们将能够登录到 Microsoft 云服务，它们正在尝试的访问。 请注意直到实施合作伙伴安全要求，用户不受*适用于管理员要求使用 MFA*基准策略只会提示输入根据风险 MFA。
+    用户完成上述工作后, 他们将能够登录到他们尝试访问的 Microsoft 云服务。 请注意, 在强制执行合作伙伴安全要求之前, "需要对管理员使用*MFA 的 mfa* " 基准策略未涵盖的用户将仅根据风险提示进行 mfa。
