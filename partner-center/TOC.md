@@ -3,7 +3,8 @@
 # [合作伙伴网络成员身份](mpn-overview.md)
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## [如何获取工作电子邮件地址](buy-email-domain.md)
-## 从 PMC 迁移到合作伙伴中心
+## [合作伙伴管理中心正在向合作伙伴中心迁移](pac-to-pc-overview.md)
+## 从 Partner Membership Center 迁移到合作伙伴中心
 ### [准备从 Partner Membership Center 迁移到合作伙伴中心](prepare-pmc-pc-migration.md)
 ### [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)
 ### [快速查看 PMC 和 PC 之间的差异](move-pmc-pc-map.md)
@@ -123,6 +124,7 @@
 ### [利用 Windows Autopilot 简化设备设置](autopilot.md)
 ##  升级或将产品/服务转换为较新版本
 ### [将 Dynamics AX 订阅升级到 Dynamics 365](manual-subscription-migration.md)
+### [将 Dynamics 365 商业版产品/服务迁移到较新版本](migrate-dynamics-365-to-new.md)
 ### [将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本s](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
