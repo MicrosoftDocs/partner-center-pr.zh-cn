@@ -107,6 +107,7 @@
 ### [针对最大预订利用率确定虚拟机大小](azure-usage.md)
 ### [代表客户购买 Microsoft Azure 预订](azure-reservations-buying.md)
 ### [代表客户管理 Microsoft Azure 预订](azure-reservations-manage.md)
+### [Azure 虚拟机预留实例 (RI) 和服务器订阅](azure-ri-server-subscriptions.md)
 ## [软件订阅](csp-software-subscriptions.md)
 ## [在线服务（订阅）](customer-subscriptions.md)
 ### [创建、暂停或取消客户订阅](create-a-new-subscription.md)
