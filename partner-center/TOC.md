@@ -33,6 +33,8 @@
 ## [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
+## [确认客户接受 Microsoft 云协议](confirm-consent.md)
+## [确认客户接受 Microsoft 客户协议（预览版）](confirm-customer-agreement.md)
 
 
 ## [适用于在国家/地区云中销售](csp-national-clouds-overview.md)
