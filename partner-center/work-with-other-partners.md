@@ -6,12 +6,12 @@ description: 与云解决方案提供商中的其他合作伙伴合作，以满�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5c8fbd890ff6fe048ab2f9d7ca49bfd27946540f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132957"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820544"
 ---
 # <a name="work-with-other-partners"></a>与其他合作伙伴合作
 
@@ -52,4 +52,4 @@ Microsoft 的国家云服务/产品中也提供多合作伙伴支持。
 Microsoft 的国家云产品/服务中也提供多渠道支持。
 
 > [!IMPORTANT]  
-> CSP 计划中的合作伙伴不能转售在线服务对 CSP 计划中的另一个合作伙伴当前。 Microsoft 将持续审核策略和所有的程序的功能。 有关功能发布或策略更改的任何消息将通过常用的通信渠道，其中包括宣布[合作伙伴中心公告](https://partner.microsoft.com/en-us/pcv/announcements)。
+> CSP 计划中的合作伙伴目前无法转售联机服务给 CSP 计划。 Microsoft 不断查看所有程序的策略和功能。 有关功能版本或策略更改的任何新闻都将通过常规通信通道 (包括[合作伙伴中心公告](https://partner.microsoft.com/pcv/announcements)) 公布。

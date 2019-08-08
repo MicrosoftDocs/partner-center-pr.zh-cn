@@ -7,12 +7,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7777b281948f560666be154e4618b788782a474f
-ms.sourcegitcommit: fb3266c62fd19994263914ef2a591c9aa07c0fe8
+ms.openlocfilehash: 099f38fa6acf523f7627434c7b320c37b46e63e1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2019
-ms.locfileid: "68376430"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820490"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -24,7 +24,7 @@ ms.locfileid: "68376430"
 
 如果要建立与客户的分销商关系并仅管理预配的 Azure 订阅, 则无需获得管理员权限。
 
-请注意, 不请求权限的选项不适用于在美国政府或 Microsoft 云德国 Microsoft 云操作的合作伙伴。 若要了解详细信息, 请参阅[客户将管理权限委托给合作伙伴](https://docs.microsoft.com/en-us/partner-center/customers_revoke_admin_privileges)。
+请注意, 不请求权限的选项不适用于在美国政府或 Microsoft 云德国 Microsoft 云操作的合作伙伴。 若要了解详细信息, 请参阅[客户将管理权限委托给合作伙伴](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)。
 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系

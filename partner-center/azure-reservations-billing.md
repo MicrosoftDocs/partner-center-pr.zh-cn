@@ -2,18 +2,18 @@
 title: Azure 预订计费 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
-Description: 有关计费的 Azure 保留的信息。
+Description: 有关 Azure 预订计费的信息。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: Azure RI, azure 预留实例, 预订, 虚拟机, 管理, 计费, 购买
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b99cb2a72d69cd33f9267a956f921aa65dedd482
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: a3edec135f6636429551f21a1125e68ed5a9cfa3
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135417"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708701"
 ---
 # <a name="microsoft-azure-reserved-vm-instances-billing"></a>Microsoft Azure 虚拟机预留实例计费
 
@@ -30,15 +30,15 @@ ms.locfileid: "62135417"
 >[!IMPORTANT]
 >如果你在货币不同于你的货币的市场中为客户购买 Azure 虚拟机预留实例，则默认计费货币基于客户的市场，而不是你的位置。 如果你的客户遍布多个市场，那么你将收到对客户计费需要采用的每种货币的单独发票和对帐文件，并且能够使用相应的货币为客户开具发票。 
 
-若要访问收取一次性费用发票和对帐文件，请选择**计费**从合作伙伴中心，然后选择**一次**。 
+若要访问一次性计费发票和对帐文件, 请选择 "合作伙伴中心的**帐单**", 然后选择 "**一次**"。 
 
 有关云解决方案提供商计划中的计费的更多一般信息，请参阅[计费基础知识](billing-basics.md)。
 
 ## <a name="azure-reserved-vm-instance-invoice-file-definitions"></a>Azure 虚拟机预留实例发票文件定义
 
-**计费的常规信息**
+**一般计费信息**
 
-|**字段** |**定义**|
+|**定义域** |**定义**|
 |:----------------|:-----------------------------|
 |US FEIN |联邦税收 ID 编号。 |
 |帐单邮寄地址 |用于税务用途的合法商业地址。 若要更改此地址，请转到“帐户设置”>“合作伙伴计费配置文件”。 |
@@ -54,11 +54,11 @@ ms.locfileid: "62135417"
 |付款截止日期 |必须在此日期前收到你的付款。 |
 
 
-**一次性费用的详细的列表**
+**一次性费用的详细列表**
 
-|**字段** |**定义**|
+|**定义域** |**定义**|
 |:----------------|:-----------------------------|
-|date |购买的日期。 |
+|Date |购买的日期。 |
 |描述 |产品名称。 |
 |数量 |所购买的产品（例如预订）的数量。 |
 |单价 |每个产品（例如预订）的价格。 |
@@ -70,7 +70,7 @@ ms.locfileid: "62135417"
 
 ## <a name="azure-reserved-vm-instance-reconciliation-file-descriptions"></a>Azure 虚拟机预留实例对帐文件说明
 
-|**字段** |**定义**|
+|**定义域** |**定义**|
 |:----------------|:-----------------------------|
 |PartnerId |合作伙伴 ID（采用 GUID 格式）。 |
 |CustomerId |唯一 Microsoft ID（采用 GUID 格式），用于识别客户。 |
@@ -93,7 +93,7 @@ ms.locfileid: "62135417"
 |小计 |税前总额。 如果有折扣，请检查你的小计是否匹配你的预期总额。 |
 |TaxTotal |所有适用税款的总额。 |
 |总计 |此订单的总额。 |
-|货币 |货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。 |
+|Currency |货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。 |
 |DiscountDetails |任何相关折扣的详细列表。 |
 
 
@@ -101,12 +101,12 @@ ms.locfileid: "62135417"
 
 ### <a name="view-your-current-billing-status-invoices-and-recon-files"></a>查看你的当前计费状态、发票和对帐文件
 
-1.  在合作伙伴中心，选择**计费**，然后**一次**若要查看您的计费状态。 
+1.  在合作伙伴中心中, 选择 "**计费**", 然后选择**一次**查看计费状态。 
 2.  选择发票或对帐文件以查看更多详细信息。 
 
 ### <a name="view-a-customers-order-history"></a>查看客户的订单历史记录
 
-1.  选择**客户**合作伙伴中心菜单中。
+1.  从 "合作伙伴中心" 菜单中选择 "**客户**"。
 2.  在你的**客户**页上，查找你想要查看其订单历史记录的客户，然后选择向下箭头以展开客户的记录。 
 3.  选择**查看订单**以显示订单历史记录。
 
@@ -117,11 +117,11 @@ ms.locfileid: "62135417"
 若要取消发票并开具新发票，请在计费页面的调整下面下载表单。
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**有关信息**   |**阅读此内容**    |
+|**有关**   |**阅读此**    |
 |:-----------------------------|:-----------------|
-|云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 保留的 VM 实例](azure-reservations.md)
-|在合作伙伴中心客户购买 Azure 保留项   |[购买 Azure 预订](azure-reservations-buying.md)
-| 管理 Azure 保留在合作伙伴中心 | [管理 Azure 保留在合作伙伴中心](azure-reservations-manage.md)
+|云解决方案提供商计划中的 Azure 预订概述  | [出售 Microsoft Azure 保留 VM 实例](azure-reservations.md)
+|在合作伙伴中心为客户购买 Azure 保留   |[购买 Azure 预订](azure-reservations-buying.md)
+| 管理合作伙伴中心的 Azure 保留 | [管理合作伙伴中心的 Azure 保留](azure-reservations-manage.md)
 |在 Azure 门户中购买 Azure 预订 | Azure 帮助中的[为包含 Azure 虚拟机预留实例的虚拟机预先付款](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
 |在 Azure 门户中管理 Azure 预订   |Azure 帮助中的[管理虚拟机预留实例](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)

@@ -6,12 +6,12 @@ description: 将业务从 PMC 移动到合作伙伴中心之前要考虑的问�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 411093a885abf2144df218d8ef28a07a10f09061
-ms.sourcegitcommit: dd961f85bc790e56c70479a5926177454dd8e855
+ms.openlocfilehash: d6db2dcb5ac53e29d907c09ca2b16d123b21c07f
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "67854522"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820571"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从合作伙伴成员中心 (PMC) 迁移到合作伙伴中心
 
@@ -29,7 +29,7 @@ Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表�
 - 你的工作帐户:john@contoso.com
 - 你的个人帐户:John@outlook.com
 
-你的工作电子邮件属于你的 Azure active directory 租户。 若要在合作伙伴中心拥有帐户, 需要具有 AAD 租户。 有关 Azure Active Directory 的详细信息, 请参阅[在 Azure AD 中创建目录](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+你的工作电子邮件属于你的 Azure active directory 租户。 若要在合作伙伴中心拥有帐户, 需要具有 AAD 租户。 有关 Azure Active Directory 的详细信息, 请参阅[在 Azure AD 中创建目录](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
 
 **当你从 PMC 移动到合作伙伴中心时, 如果你有一个包含 Microsoft (例如 Office 365) 的 AAD 租户, 你应该使用哪个帐户登录到合作伙伴中心, 并且你还拥有适用于你的 CSP 业务的租户？**
 
@@ -66,7 +66,7 @@ PMC 中的 MPN 全局管理员角色可以执行以下操作:
 
 **当我的用户的角色从 PMC 移动到合作伙伴中心时会发生什么情况？**
 
-如果执行迁移的 MPN 全局管理员或主要程序联系人除外, 则 PMC 中的所有用户将失去其管理员角色。 完成迁移的个人需要在合作伙伴中心分配角色。 合作伙伴中心的角色不同于 PMC 中的角色。 有关合作伙伴中心中的用户角色的详细信息, 请参阅 [分配用户角色和权限] (overview.md 和[从 PMC 移动到合作伙伴中心](https://docs.microsoft.com/en-us/partner-center/move-pmc-pc-map#user-roles)。
+如果执行迁移的 MPN 全局管理员或主要程序联系人除外, 则 PMC 中的所有用户将失去其管理员角色。 完成迁移的个人需要在合作伙伴中心分配角色。 合作伙伴中心的角色不同于 PMC 中的角色。 有关合作伙伴中心中的用户角色的详细信息, 请参阅 [分配用户角色和权限] (overview.md 和[从 PMC 移动到合作伙伴中心](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)。
 
 
 **我的公司配置文件和我的业务配置文件之间的区别是什么？**

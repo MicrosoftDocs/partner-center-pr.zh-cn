@@ -7,12 +7,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8272d414f4712a470c588fd9cc40c828c8f87e6c
-ms.sourcegitcommit: 40e2ef0c9fa6c5d2227e205c7d250772f4a989d5
+ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "68492306"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820443"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -28,7 +28,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育版   |成为[授权的教育经销商](https://www.mepn.com)。   | 必须是[合格的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
 |政策   |若要销售 Azure, 请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
-|非盈利  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非盈利性特价产品/服务](https://assetsprod.microsoft.com/mpn/en-us/nonprofit-skus-in-csp-faq.pdf)的更多信息。   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格。   |
+|非盈利  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非盈利性特价产品/服务](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的更多信息。   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格

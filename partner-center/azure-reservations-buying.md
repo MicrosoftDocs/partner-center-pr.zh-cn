@@ -2,20 +2,20 @@
 title: 代表客户购买 Microsoft Azure 预订 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
-Description: 您可以代表你的客户在合作伙伴中心购买 Azure 保留项。
+Description: 你可以在合作伙伴中心代表你的客户购买 Azure 预订。
 author: LauraBrenner
-ms.author: v-petand
+ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bf9d3bf1869a151172931f100cf10b28a7d75f27
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 5d42c62c10d1717868b7b22f7a63ffc2311a3f70
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134677"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708775"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>购买 Microsoft Azure 代表你的客户在合作伙伴中心中的保留项 
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订 
 
 **适用于**
 
@@ -25,13 +25,13 @@ ms.locfileid: "62134677"
 
 ## <a name="before-you-begin"></a>开始之前
 
-代表你的客户购买 Azure 预订之前，请查看下面的重要信息。
+请先查看下面的重要信息, 再代表客户购买 Azure 预订。
 
 -   客户必须已经拥有有效的 Azure 订阅，然后你才能代表他们购买预订
   
--   Azure 保留的价格中不包括如 SQL 数据库或 SUSE Linux 软件软件订阅成本
+-   Azure 保留价格中不包括软件订阅费用, 如 SQL 数据库或 SUSE Linux 软件
 
--   Microsoft 的商业定价向你不包括税款，除非你的位置是巴西。 如果你的位置是巴西，对您的商业价格包括相应税款 
+-   Microsoft 的商业定价不包括税款, 除非你所在地为巴西。 如果你的所在地是巴西, 你的商业价格将包含相应的税 
  
 -   销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
 
@@ -41,12 +41,12 @@ ms.locfileid: "62134677"
 
 -   如果客户需要将 Azure 订阅从直接方式或 EA 转移至云解决方案提供商计划，预订不会转移。 
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure 保留项不可用市场
+## <a name="azure-reservations-unavailable-markets"></a>Azure 预订不可用市场
 
 >[!IMPORTANT] 
->Azure 预订*不是*以下市场中提供：  
+>Azure 保留项在以下市场中不可用:  
 >  
-> | 不可用的市场 | &nbsp; | &nbsp; |
+> | 不可用市场 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 奥兰岛                  | 格陵兰                         | 帕劳                                    |
 > | 美属萨摩亚                 | 格林纳达                           | 巴布亚新几内亚                         |
@@ -60,19 +60,19 @@ ms.locfileid: "62134677"
 > | 贝宁                          | 赫德岛和麦克唐纳群岛 | 圣皮埃尔和密克隆岛                |
 > | 不丹                         | 印度                             | 圣文森特和格林纳丁斯         |
 > | 博内尔岛                        | 曼岛                       | 萨摩亚                                    |
-> | 布韦岛                  | 扬马延岛                         | 圣马力诺                               |
+> | 布韦岛                  | 扬马延                         | 圣马力诺                               |
 > | 巴西                         | 泽西                            | 圣多美和普林西比                    |
 > | 英属印度洋领地 | 哈萨克斯坦                        | 塞舌尔                               |
 > | 英属维尔京群岛         | 基里巴斯                          | 塞拉利昂                             |
-> | 布基纳法索                   | 朝鲜共和国                | 圣尤斯特歇                           |
-> | 布隆迪                        | Kosovo                            | 荷属圣马丁                             |
+> | 布基纳法索                   | 朝鲜共和国                | 圣尤斯特歇斯                           |
+> | 布隆迪                        | 科索沃                            | 荷属圣马丁                             |
 > | 柬埔寨                       | 老挝                              | 所罗门群岛                          |
 > | 中非共和国       | 莱索托                           | 索马里                                  |
-> | 乍得                           | 利比里亚                           | 南乔治亚和南桑德威奇群岛 |
+> | 乍得                           | 利比里亚                           | 南乔治亚和南桑威奇群岛 |
 > | 中国                          | 马达加斯加                        | 南苏丹                              |
-> | 圣延岛               | 马拉维                            | 圣赫勒拿-阿森松特里斯坦达库尼亚   |
+> | 圣延岛               | 马拉维                            | 圣赫勒拿、阿森松与特里斯坦达库尼亚   |
 > | 科科斯群岛        | 马尔代夫                          | 苏里南                                 |
-> | 科摩罗                        | 马里                              | 斯瓦尔巴岛                                 |
+> | 科摩罗                        | 马里                              | 群岛                                 |
 > | 刚果                          | 马绍尔群岛                  | 斯威士兰                                |
 > | 刚果（民主共和国）                    | 马提尼克                        | 中国台湾                                   |
 > | 库克群岛                   | 毛里塔尼亚                        | 东帝汶                              |
@@ -81,7 +81,7 @@ ms.locfileid: "62134677"
 > | 赤道几内亚              | 蒙特塞拉特                        | 汤加                                    |
 > | 厄立特里亚                        | 莫桑比克                        | 特克斯和凯科斯群岛                 |
 > | 福克兰群岛               | 缅甸                           | 图瓦卢                                   |
-> | 法属圭亚那                  | 瑙鲁                             | 美国美属外岛                    |
+> | 法属圭亚那                  | 瑙鲁                             | 美制外岛                    |
 > | 法属玻里尼西亚               | 新喀里多尼亚                     | 乌克兰                                  |
 > | 法属南部领地    | 尼日尔                             | 瓦努阿图                                  |
 > | 加蓬                          | 纽埃                              | 梵蒂冈                             |
@@ -89,30 +89,30 @@ ms.locfileid: "62134677"
 > | 直布罗陀                      | 北马里亚纳群岛          | 也门                                    |
 > |
 
-## <a name="purchase-azure-reservations"></a>购买 Azure 保留项
+## <a name="purchase-azure-reservations"></a>购买 Azure 预订
 
-请按照以下步骤来购买 Microsoft Azure 代表你的客户在合作伙伴中心中的保留项。
+按照以下步骤在合作伙伴中心购买 Microsoft Azure 预订。
 
-1. 选择**客户**合作伙伴中心菜单中。  
+1. 从 "合作伙伴中心" 菜单中选择 "**客户**"。  
 
 2. 在你的**客户**页上，查找想要购买 Azure 预订的客户，然后选择向下箭头以展开客户的行。  
 
 3. 选择**添加产品**，然后选择 **Azure**。 
 
-    a. 选择从客户的市场领域**段**列表。
+    a. 从 "**段**" 列表中选择客户的市场细分。
 
-    b. 选择**预订**从产品**类型**列表。
+    b. 从 "产品**类型**" 列表中选择 "**保留**"。
 
-    c. 选择客户想要从保留的类型**预订类型**列表。
+    c. 从 "**预订类型**" 列表中选择客户希望的预订类型。
 
-4. Azure 预订必须与有效的 Azure 订阅相关联。 选择你想要添加到来自 Azure 预留的客户的订阅**客户订阅**列表。 
+4. Azure 预订必须与有效的 Azure 订阅相关联。 从 "**客户订阅**" 列表中选择要向其添加 Azure 预订的客户的订阅。 
 
    >[!IMPORTANT]
-   >如果客户没有有效的 Azure 订阅，选择**在线服务**现在添加一个。 
+   >如果客户还没有有效的 Azure 订阅, 请选择 "**联机服务**" 立即添加一个。 
 
-5. 使用筛选器以满足客户的要求的虚拟机上查找 Azure 保留项。  
+5. 使用筛选器查找满足客户要求的虚拟机上的 Azure 保留项。  
 
-6. 找到你想要购买的预留后，输入客户将需要在保留实例数**Quantity** ，然后选择**添加到购物车**。  
+6. 找到要购买的预订后, 输入客户将在 "**数量**" 中所需的保留实例数, 然后选择 "**添加到购物车**"。  
 
 7. 重复步骤 5 和 6，直到将所有必要的项添加到订单中。 选择**查看**以确认你的订单正确无误。  
 
@@ -120,23 +120,23 @@ ms.locfileid: "62134677"
 
     - 验证或更改预留实例数量。
 
-    - 选择预订范围。 预订的范围可以涵盖一个订阅或多个订阅（共享范围）。 如果作用域将预订与单个订阅，请将预订折扣应用于此订阅仅。 如果选择共享，则预订折扣适用于客户计费上下文内的任何订阅。 
+    - 选择预订范围。 预订的范围可以涵盖一个订阅或多个订阅（共享范围）。 如果将预留范围限定于单个订阅, 则预订折扣仅应用于此订阅。 如果选择共享，则预订折扣适用于客户计费上下文内的任何订阅。 
 
       >[!NOTE] 
-      >如果您选择以限制到单个 Azure 订阅的预订的范围，可能需要增加订阅的 vCPU 配额。 若要增加订阅的 vCPU 配额，你将需要在 Azure 门户中创建支持请求。 按照说明进行操作[本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)来创建请求。    
+      >如果选择将预订的范围限制为单个 Azure 订阅, 可能需要增加订阅的 vCPU 配额。 若要增加订阅的 vCPU 配额, 需要在 Azure 门户中创建支持请求。 按照[本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)的说明创建请求。    
 
     - 如果是提供商合作伙伴，请选择要与产品关联的经销商。
 
-9. 选择**确认购买**以购买订购的商品。 在显示你的订单，包括您的订单号的详细信息**确认**页。 选择**完成**以转到你的**订单历史记录**页面。 
+9. 选择**确认购买**以购买订购的商品。 订单的详细信息 (包括订单号) 将显示在 "**确认**" 页上。 选择**完成**以转到你的**订单历史记录**页面。 
 
-10. 若要管理在 Azure 门户中的客户的预订，查找客户，在你**客户**页，然后选择向下箭头以展开客户的行。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。
+10. 若要在 Azure 门户中管理客户的预订, 请在 "**客户**" 页上找到 "客户", 然后选择向下箭头以展开客户的行。 选择 **Microsoft Azure 管理门户**以在 Azure 门户中打开客户的记录。
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**有关信息**   |**阅读此内容**    |
+|**有关**   |**阅读此**    |
 |:-----------------------------|:-----------------|
-|云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 保留实例](azure-reservations.md) |
-|管理 Azure 保留在合作伙伴中心 | [管理 Azure 保留在合作伙伴中心](azure-reservations-manage.md)
-|确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[最大 Azure 预订使用情况的 VM 大小](azure-usage.md)   |
+|云解决方案提供商计划中的 Azure 预订概述  | [出售 Microsoft Azure 预订实例](azure-reservations.md) |
+|管理合作伙伴中心的 Azure 保留 | [管理合作伙伴中心的 Azure 保留](azure-reservations-manage.md)
+|确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[最大 Azure 预订使用情况的 VM 大小调整](azure-usage.md)   |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
 |
 

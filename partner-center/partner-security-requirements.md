@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴安全要求 |合作伙伴中心
 ms.topic: article
-ms.date: 07/18/2019
+ms.date: 08/05/2019
 description: 了解参与云解决方案提供商计划的顾问和合作伙伴的安全要求。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ce8a8dd5a58d1647c8d9e53dec0d0bbf7fe6592
-ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+ms.openlocfilehash: 39081f42c326665bdc30bf25df302d9ae00d9723
+ms.sourcegitcommit: fe21430f96e203d279714623888224662d2782a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "68313927"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "68787258"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴安全要求
 
@@ -57,9 +57,22 @@ ms.locfileid: "68313927"
 
 当你强制执行 MFA 旧身份验证时, 将阻止使用 IMAP、POP3、SMTP 等协议, 因为这些协议不支持 MFA。 若要解决此限制, 可使用称为 "[应用密码](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)" 的功能来确保应用程序或设备仍可进行身份验证。 你应查看使用[此处](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)记录的应用密码的注意事项, 以确定是否可以在你的环境中使用它们。
 
+#### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>是否有用户使用与合作伙伴租户关联的许可证所提供的 Office 365？
+
+在实现任何解决方案之前, 建议你确定合作伙伴租户中的用户使用的 Microsoft Office 版本。 执行任何操作之前, 请查看[Office 365 部署的多因素身份验证计划](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)。 你的用户可能会遇到 Outlook 之类的应用程序连接问题。 强制执行 MFA 之前, 务必确保使用 Outlook 2013 SP1 或更高版本, 并且组织已启用新式身份验证。 有关详细信息, 请参阅[在 Exchange Online 中启用新式身份验证](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+
+若要为运行 Windows 的任何设备启用新式身份验证, 并且安装了 Microsoft Office 2013, 你将需要创建两个注册表项。 请参阅[在 Windows 设备上启用 Office 2013 新式身份验证](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)。
+
+> [!IMPORTANT]
+> 如果你已经为用户启用了 Azure AD MFA, 而且他们的任何设备运行的 Office 2013 未启用新式身份验证, 则他们将需要在这些设备上使用应用密码。 有关应用密码的详细信息以及使用时间/位置/使用方式的详细信息, 请参阅:[Azure 多重身份验证的应用密码](https://go.microsoft.com/fwlink/p/?LinkId=528178)。
+
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>是否有策略阻止任何用户在工作时使用其移动设备？
 
-在工作时, 必须标识阻止员工使用移动设备的任何公司策略, 因为这会影响你实现的 MFA 解决方案。 有一些 MFA 解决方案, 如通过实现[基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)提供的解决方案, 只允许使用验证器应用进行验证。 如果你的组织具有阻止使用移动设备的策略, 则应查看为受影响的用户购买[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/) , 或者可以实现第三方解决方案, 以提供最适当的验证选.
+在工作时, 必须标识阻止员工使用移动设备的任何公司策略, 因为这会影响你实现的 MFA 解决方案。 有一些 MFA 解决方案, 如通过实现[基线保护策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)提供的解决方案, 只允许使用验证器应用进行验证。 如果你的组织具有阻止使用移动设备的策略, 则应该考虑以下选项之一
+
+- 部署可安装验证器应用的虚拟化 Android 设备
+- 实现第三方解决方案, 该解决方案为合作伙伴租户中的每个用户强制提供最适当的验证选项
+- 为受影响的用户购买[Azure AD Premium](https://azure.microsoft.com/pricing/details/active-directory/)许可证
 
 #### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>使用用户凭据进行身份验证的自动化或集成有哪些？
 
@@ -204,8 +217,31 @@ ms.locfileid: "68313927"
 
 ### <a name="exchange-online-powershell"></a>Exchange Online PowerShell
 
-启用 MFA 后, 合作伙伴将无法使用 Exchange Online PowerShell 的委派管理权限来对其客户执行操作。 有关此限制的详细信息, 请参阅[使用多重身份验证连接到 Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) 。
+强制执行 MFA 后, 合作伙伴将无法通过 Exchange Online PowerShell 利用其委派的管理权限来对其客户执行操作。 有关此限制的详细信息, 请参阅[使用多重身份验证连接到 Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) 。
+
+您可以通过创建一个新帐户, 而不使用它来执行交互式身份验证来解决此限制。 建议你利用[Azure AD PowerShell](https://docs.microsoft.com/powershell/module/azuread/)来创建新帐户并执行初始配置。 以下 PowerShell 可用于创建和配置帐户
+
+```powershell
+Import-Module AzureAD
+Connect-AzureAD
+
+$PasswordProfile = New-Object -TypeName Microsoft.Open.AzureAD.Model.PasswordProfile
+
+$PasswordProfile.Password = "Password"
+$PasswordProfile.ForceChangePasswordNextLogin = $false
+
+$user = New-AzureADUser -DisplayName "New User" -PasswordProfile $PasswordProfile -UserPrincipalName "NewUser@contoso.com" -AccountEnabled $true
+
+# Uncomment the following two lines if you want the account to have Admin Agent privileges
+# $adminAgentsGroup = Get-AzureADGroup -Filter "DisplayName eq 'AdminAgents'"
+# Add-AzureADGroupMember -ObjectId $adminAgentsGroup.ObjectId -RefObjectId $user.ObjectId
+```
+
+下次通过 PowerShell 连接到 Exchange Online 时, 将使用此帐户, 它将按预期方式工作。
+
+> [!IMPORTANT]
+> 在强制执行 MFA 时, 合作伙伴可以利用其委派的管理权限和 Exchange Online PowerShell 对客户执行操作, 以便在将来使用 MFA。 在此之前, 你应利用此解决方法。
 
 ## <a name="resources-and-support"></a>资源和支持
 
-通过[合作伙伴中心安全指南组社区](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance), 你可以找到更多的资源, 并了解即将发生的事件, 例如技术办公室的工作时间。 若要详细了解要求, 请参阅[常见问题](http://assetsprod.microsoft.com/security-requirements-faq.pdf)文档。
+通过[合作伙伴中心安全指南组社区](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance), 你可以找到更多的资源, 并了解即将发生的事件, 例如技术办公室的工作时间。 若要详细了解要求, 请参阅[常见问题](partner-security-requirements-faq.md)文档。

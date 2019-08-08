@@ -1,26 +1,26 @@
 ---
-title: 软件保障程序 |合作伙伴中心
+title: 软件保障计划 |合作伙伴中心
 ms.topic: article
-ms.date: 01/14/19
-description: 在注册和管理合作伙伴中心中的软件保障程序
+ms.date: 01/14/2019
+description: 在合作伙伴中心注册和管理软件保障计划
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a2f0fcb90ed13af3f885325f2211523df5c981e
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ad6ac1d360e958ae75b3c14467928d77ec1b547d
+ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133848"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "68708858"
 ---
 # <a name="participate-in-software-assurance-programs"></a>参与软件保障计划
 
-参与软件保障实现的程序，包括软件保障培训凭证 (SATV) 和规划服务，提供您与 Microsoft 企业客户的业务增长的机会。 作为软件保障培训凭证合作伙伴，Microsoft 将补偿您可以提供由 Microsoft 专家开发的讲师引导式、 技术课堂培训。 作为规划服务合作伙伴，Microsoft 将补偿可导致规划互动的预定义的实现。 通过这两个程序，可以设置您的企业从竞争中脱颖而出，成为受信任的顾问，以及后续服务提供给客户的机会。 注册程序和管理相关的软件保障凭证中通过合作伙伴中心。
+参与软件保障计划 (包括软件保障培训凭证 (SATV) 和计划服务) 可为你提供与 Microsoft 企业客户的发展机会。 作为软件保障培训凭证合作伙伴, Microsoft 将为你提供由 Microsoft 专家开发的讲师指导的技术课堂培训。 作为规划服务合作伙伴, Microsoft 将为你带来预先定义的实施规划计划。 通过这两个计划, 你可以将业务与竞争对手建立联系, 成为可信顾问, 并为客户提供跟进服务。 计划中的注册和相关软件保障凭证的管理是通过合作伙伴中心来完成的。
 
-|**若要了解有关的信息**   |**阅读此内容**   |
+|**了解**   |**阅读此**   |
 |--------------------------|:------------------|
-|在软件保障培训凭证 (SATV) 程序中注册|[在合作伙伴中心中的软件保障培训凭证 (SATV) 程序](software-assurance-satv.md)|
+|在软件保障培训凭证 (SATV) 计划中注册|[合作伙伴中心的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)|
 |使用凭证验证和兑换工具|[使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)|
-|在规划服务软件保障中注册|[合作伙伴中心中的软件保障计划服务](software-assurance-dps.md) 
+|在软件保障计划服务中注册|[合作伙伴中心的软件保障计划服务](software-assurance-dps.md) 
 
 

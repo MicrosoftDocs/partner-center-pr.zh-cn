@@ -6,12 +6,12 @@ description: 为了符合管理收集和使用个人数据的国家、地区和�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: edd1bf143b591d375b2d911459629110799a1426
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62132687"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820529"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -40,17 +40,17 @@ ms.locfileid: "62132687"
 在你已成功登录德国 Microsoft 云的 Azure 门户后，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 
 > [!NOTE]  
-> 选择以下链接将转到不同的网站。 
+> 选择以下链接将转到其他网站。 
 
 -  [将新用户添加到 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [将用户分配到 Azure Active Directory 中的管理员角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [重置 Azure Active Directory 中用户的密码](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [在 Azure Active Directory 中重置用户的密码](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**相关的主题**
+**相关主题**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/en-us/global-infrastructure/germany/)
+-  [Microsoft Azure 德国](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 

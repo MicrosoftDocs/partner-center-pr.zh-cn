@@ -7,12 +7,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b7843049ad4fd79dc4331262ed034ee05bd2281f
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 2b54241dfc734edbfa9c708ab0b942f67b4767c1
+ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134287"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "68820609"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 
@@ -21,9 +21,9 @@ ms.locfileid: "62134287"
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
-当某个客户想要使用多个合作伙伴，合作伙伴中心多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
+如果客户想要使用多个合作伙伴, 则合作伙伴中心的多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
 
-若要使用合作伙伴中心中的多合作伙伴功能，邀请客户提供委派管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
+若要使用合作伙伴中心的多合作伙伴功能, 请邀请客户向你授予委派管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
 
 多个合作伙伴功能不支持以下操作：
 
@@ -36,4 +36,4 @@ ms.locfileid: "62134287"
 - 更改订阅的记录合作伙伴
 
 > [!IMPORTANT]  
-> CSP 计划中的合作伙伴不能转售在线服务对 CSP 计划中的另一个合作伙伴当前。 Microsoft 将持续审核策略和所有的程序的功能。 有关功能发布或策略更改的任何消息将通过常用的通信渠道，其中包括宣布[合作伙伴中心公告](https://partner.microsoft.com/en-us/pcv/announcements)。
+> CSP 计划中的合作伙伴目前无法转售联机服务给 CSP 计划。 Microsoft 不断查看所有程序的策略和功能。 有关功能版本或策略更改的任何新闻都将通过常规通信通道 (包括[合作伙伴中心公告](https://partner.microsoft.com/pcv/announcements)) 公布。
