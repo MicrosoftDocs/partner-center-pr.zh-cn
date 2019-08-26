@@ -4,6 +4,8 @@
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## [如何获取工作电子邮件地址](buy-email-domain.md)
 ## [合作伙伴管理中心正在向合作伙伴中心迁移](pac-to-pc-overview.md)
+### [从合作伙伴管理员中心 (PAC) 迁移到合作伙伴中心](moving-from-pac-to-pc.md)
+## [Office 365 合作伙伴管理中心合作伙伴：你的业务运营将迁移到合作伙伴中心](o365-partner-admin-center-to-partner-center.md)
 ## 从 Partner Membership Center 迁移到合作伙伴中心
 ### [准备从 Partner Membership Center 迁移到合作伙伴中心](prepare-pmc-pc-migration.md)
 ### [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)
@@ -24,6 +26,7 @@
 ### [合作伙伴中心中的软件保障规划服务](software-assurance-dps.md)
 ## 发票和税款
 ### [Microsoft 合作伙伴网络中的发票和税款](mpn-view-print-maps-invoice.md)
+## [试用新功能](test-drive-new-features.md)
 
 
 # [云解决方案提供商](csp-overview.md)
@@ -77,6 +80,7 @@
 ### [奖励申请的核心要求](core-requirements.md)
 ### [了解你的奖励付款](understand-incentive-payouts.md)
 ### [在合作伙伴中心提交 OSA 申请](submit-osa-claim.md)
+### [查找奖励申请的客户域名和目录 ID](find-customer-domain-name.md)
 
 
 # [计费和税款](billing.md)
@@ -100,6 +104,7 @@
 ## [删除与客户的经销商关系](remove-a-relationship.md)
 ## [客户向合作伙伴委托或撤消管理权限](customers_revoke_admin_privileges.md) 
 ## [查看客户列表](see-your-customer-list.md)
+## [查看客户活动日志](activity-logs.md)
 ## [更新客户帐户信息](update-customer-account-info.md)
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
