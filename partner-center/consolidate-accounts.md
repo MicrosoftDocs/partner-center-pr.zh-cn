@@ -1,47 +1,61 @@
 ---
-title: 合并你的公司帐户 |合作伙伴中心
+title: 合并公司帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/02/2019
-description: 当你的公司移动到合作伙伴中心时, 你的所有帐户都将合并到一个帐户中
+ms.date: 08/15/2019
+description: 当你的公司迁移到合作伙伴中心时，你的所有帐户会合并成一个帐户
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c715ec3e4e0ef36170a7dbb2f4d8ccc8b4f6408f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: f5c3bb2455ce7bea4b0baeeff2bddf101b3e5c83
+ms.sourcegitcommit: c27cf7a8ca7f87a1a2daef57f8bebe40e2503c98
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820483"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "69489681"
 ---
-# <a name="consolidate-your-company-accounts"></a>合并你的公司帐户
+# <a name="consolidate-your-company-accounts"></a>合并公司帐户
 
-在 PMC 中, 公司可能有许多帐户和位置。 每个位置都有自己的帐户。 迁移到合作伙伴中心时, 会将所有帐户和位置合并为一个具有多个位置的帐户。 你的 MPN Id、权益、胜任度和购买将随你一起移动–不会丢失任何内容。 
+在 PMC 中，公司可能有许多帐户和位置。 每个位置都有其自己的帐户。 迁移到合作伙伴中心时，所有帐户和位置会合并成一个主全局帐户，其中包含多个位置。 你的 MPN ID、权益、能力和购买项会与你一起迁移，不会丢失任何东西。 
 
-当你首次登录到合作伙伴中心时, 你将添加为你的合作伙伴中心帐户的 MPN 管理员, 以便你可以管理帐户、添加用户、分配权限等。合并公司后, 不能撤消此过程。
+当你首次登录合作伙伴中心时，系统会将你添加为合作伙伴中心帐户的 MPN 管理员，让你可以管理帐户、添加用户、分配权限，等等。 
 
-## <a name="what-happens-during-consolidation-of-accounts"></a>合并帐户期间发生的情况
+## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center-when-you-migrate"></a>为什么在迁移时应该将 PMC 中的多个帐户合并成合作伙伴中心的一个帐户？
 
-- 你无法更改 "公司详细信息" 屏幕上的任何详细信息, 因为详细信息适用于全局帐户。 
+1. 你会发现，所有的东西都在一个帐户下，管理 Microsoft 合作伙伴网络帐户会更容易些。
 
-- PMC 中的帐户将合并到此现有帐户。 
+2. 在一个帐户的结构下，联合销售管理和解决方案发布会更容易。
 
-- PMC 中的所有位置都将移动到此现有合作伙伴中心主全局帐户作为位置, 你将能够添加更多的位置。 有关位置的其他信息, 请阅读[管理合作伙伴帐户-位置](manage-locations.md)。
+3. Microsoft 会将你视为一个公司，因此会进行合并收入确认，这样可以更容易地了解所有位置的概况。  
 
-- 合并完成后, 你将看到所有帐户详细信息作为现有主全局帐户中的位置。
+4. 你只需每年支付一次能力和 MAP 的费用。
 
-- 在此合并期间将保留所有 MPN Id。
-
-- 在合并过程中, 你的所有现有能力 (金/银)、购买 (地图/金/银) 以及相关优势都将保留。
-
-- 你 (使用工作电子邮件 ID 登录的用户) 将自动添加为 MPN 管理员, 并将帐户管理员添加到主要全局帐户, 以便你可以根据需要管理该帐户。 
+5. 合并帐户以后，你可能有资格获得更多的能力认可。 在符合条件的情况下，你还可以获得以前没有参与资格的激励计划的资格。
 
 
-## <a name="consolidating-your-benefits-and-competencies"></a>整合您的权益和能力
+## <a name="what-happens-during-consolidation-of-accounts"></a>在合并帐户时会发生什么
 
-在 PMC 中, 每个位置都有可能有自己的能力、自己的地图和特定于某个位置的其他权益。
+- 你不能更改公司详细信息屏幕上的任何详细信息，因为这些详细信息是针对主全局帐户的。 
 
-在合作伙伴中心, 因为所有位置帐户都将合并到一个全局帐户, 所以还会合并权益和能力。 其他权益工具包 (ABTKs) 将不可用。 不过, 你将能够根据公司的需要来组织权益和能力的分布。
+- PMC 中的帐户（目前正在迁移）将合并成主全局帐户。 
 
-有关 PMC 与合作伙伴中心之间的差异的其他信息, 请参阅[从 PMC 移动到合作伙伴中心](guide-to-migration.md)。
+- PMC 中的所有位置将作为位置迁移到此现有的合作伙伴中心主全局帐户中，你可以添加更多位置。 有关位置的其他信息，请阅读[管理合作伙伴帐户 - 位置](manage-locations.md)。
+
+- 合并完成后，会在现有主全局帐户中看到按位置列出的所有公司详细信息。 公司合并后，相关过程无法逆转。
+
+- 在此合并过程中，所有 MPN ID 都会保留。
+
+- 在合并过程中，所有现有的能力指标（金牌/银牌）、购买指标（MAPS/金牌/银牌）和相关的权益都会保留。
+
+- 系统会将你（使用工作电子邮件 ID 登录的用户）作为 MPN 管理员和帐户管理员自动添加到主全局帐户中，让你可以根据需要管理帐户。 
+
+
+## <a name="consolidating-your-benefits-and-competencies"></a>合并权益和能力
+
+在 PMC 中，每个位置都可以有其自己的能力、其自己的 MAP，以及其他特定于位置的权益。
+
+在合作伙伴中心，由于所有位置帐户会合并成一个全局帐户，因此权益和能力也会合并。 其他权益工具包 (ABTK) 将不可用。 不过，你可以根据公司的需要来安排权益和能力的分配。 当你进行合并时，我们会延长你的权益期限，确保贵公司在 PMC 中享有的权益另外延长一年。
+
+若要详细了解 PMC 和合作伙伴中心的差异，请阅读[从 PMC 迁移到合作伙伴中心](guide-to-migration.md)。
+
