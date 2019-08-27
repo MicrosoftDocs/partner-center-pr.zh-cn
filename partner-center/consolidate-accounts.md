@@ -1,47 +1,61 @@
 ---
-title: 合并你的公司帐户 |合作伙伴中心
+title: 合并公司帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/02/2019
-description: 当你的公司移动到合作伙伴中心时, 你的所有帐户都将合并到一个帐户中
+ms.date: 08/15/2019
+description: 当你的公司迁移到合作伙伴中心时，你的所有帐户会合并成一个帐户
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c715ec3e4e0ef36170a7dbb2f4d8ccc8b4f6408f
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.openlocfilehash: f5c3bb2455ce7bea4b0baeeff2bddf101b3e5c83
+ms.sourcegitcommit: c27cf7a8ca7f87a1a2daef57f8bebe40e2503c98
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820483"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "69489681"
 ---
-# <a name="consolidate-your-company-accounts"></a><span data-ttu-id="5182d-103">合并你的公司帐户</span><span class="sxs-lookup"><span data-stu-id="5182d-103">Consolidate your company accounts</span></span>
+# <a name="consolidate-your-company-accounts"></a><span data-ttu-id="4fef7-103">合并公司帐户</span><span class="sxs-lookup"><span data-stu-id="4fef7-103">Consolidate your company accounts</span></span>
 
-<span data-ttu-id="5182d-104">在 PMC 中, 公司可能有许多帐户和位置。</span><span class="sxs-lookup"><span data-stu-id="5182d-104">In PMC, your company possibly had many accounts and locations.</span></span> <span data-ttu-id="5182d-105">每个位置都有自己的帐户。</span><span class="sxs-lookup"><span data-stu-id="5182d-105">Each location had its own account.</span></span> <span data-ttu-id="5182d-106">迁移到合作伙伴中心时, 会将所有帐户和位置合并为一个具有多个位置的帐户。</span><span class="sxs-lookup"><span data-stu-id="5182d-106">When you migrate to Partner Center, all of the accounts and locations will be consolidated into one account with several locations.</span></span> <span data-ttu-id="5182d-107">你的 MPN Id、权益、胜任度和购买将随你一起移动–不会丢失任何内容。</span><span class="sxs-lookup"><span data-stu-id="5182d-107">Your MPN IDs, benefits, competencies, and purchases will move with you – nothing will be lost.</span></span> 
+<span data-ttu-id="4fef7-104">在 PMC 中，公司可能有许多帐户和位置。</span><span class="sxs-lookup"><span data-stu-id="4fef7-104">In PMC, your company possibly had many accounts and locations.</span></span> <span data-ttu-id="4fef7-105">每个位置都有其自己的帐户。</span><span class="sxs-lookup"><span data-stu-id="4fef7-105">Each location had its own account.</span></span> <span data-ttu-id="4fef7-106">迁移到合作伙伴中心时，所有帐户和位置会合并成一个主全局帐户，其中包含多个位置。</span><span class="sxs-lookup"><span data-stu-id="4fef7-106">When you migrate to Partner Center, all of the accounts and locations will be consolidated into one primary global account with several locations.</span></span> <span data-ttu-id="4fef7-107">你的 MPN ID、权益、能力和购买项会与你一起迁移，不会丢失任何东西。</span><span class="sxs-lookup"><span data-stu-id="4fef7-107">Your MPN IDs, benefits, competencies, and purchases will move with you – nothing will be lost.</span></span> 
 
-<span data-ttu-id="5182d-108">当你首次登录到合作伙伴中心时, 你将添加为你的合作伙伴中心帐户的 MPN 管理员, 以便你可以管理帐户、添加用户、分配权限等。合并公司后, 不能撤消此过程。</span><span class="sxs-lookup"><span data-stu-id="5182d-108">When you sign into Partner Center for the first time, you will be added as an MPN admin for your Partner Center account so that you can administer the account, add users, assign permissions, etc. Once your companies have been consolidated, you cannot reverse the process.</span></span>
+<span data-ttu-id="4fef7-108">当你首次登录合作伙伴中心时，系统会将你添加为合作伙伴中心帐户的 MPN 管理员，让你可以管理帐户、添加用户、分配权限，等等。</span><span class="sxs-lookup"><span data-stu-id="4fef7-108">When you sign into Partner Center for the first time, you will be added as an MPN admin for your Partner Center account so that you can administer the account, add users, assign permissions, etc.</span></span> 
 
-## <a name="what-happens-during-consolidation-of-accounts"></a><span data-ttu-id="5182d-109">合并帐户期间发生的情况</span><span class="sxs-lookup"><span data-stu-id="5182d-109">What happens during consolidation of accounts</span></span>
+## <a name="why-should-you-consolidate-your-multiple-accounts-in-pmc-into-one-account-in-partner-center-when-you-migrate"></a><span data-ttu-id="4fef7-109">为什么在迁移时应该将 PMC 中的多个帐户合并成合作伙伴中心的一个帐户？</span><span class="sxs-lookup"><span data-stu-id="4fef7-109">Why should you consolidate your multiple accounts in PMC into one account in Partner Center when you migrate?</span></span>
 
-- <span data-ttu-id="5182d-110">你无法更改 "公司详细信息" 屏幕上的任何详细信息, 因为详细信息适用于全局帐户。</span><span class="sxs-lookup"><span data-stu-id="5182d-110">You cannot change any details on the company details screen because the details are for the global account.</span></span> 
+1. <span data-ttu-id="4fef7-110">你会发现，所有的东西都在一个帐户下，管理 Microsoft 合作伙伴网络帐户会更容易些。</span><span class="sxs-lookup"><span data-stu-id="4fef7-110">You will find it easier to manage your Microsoft Partner Network account with everything under one account.</span></span>
 
-- <span data-ttu-id="5182d-111">PMC 中的帐户将合并到此现有帐户。</span><span class="sxs-lookup"><span data-stu-id="5182d-111">The account in PMC (which you are currently moving) will be consolidated into this existing account.</span></span> 
+2. <span data-ttu-id="4fef7-111">在一个帐户的结构下，联合销售管理和解决方案发布会更容易。</span><span class="sxs-lookup"><span data-stu-id="4fef7-111">Co-sell management and solution publishing are easier under one account structure.</span></span>
 
-- <span data-ttu-id="5182d-112">PMC 中的所有位置都将移动到此现有合作伙伴中心主全局帐户作为位置, 你将能够添加更多的位置。</span><span class="sxs-lookup"><span data-stu-id="5182d-112">All locations in PMC will be moved into this existing Partner Center primary global account as locations, and you will be able to add additional locations.</span></span> <span data-ttu-id="5182d-113">有关位置的其他信息, 请阅读[管理合作伙伴帐户-位置](manage-locations.md)。</span><span class="sxs-lookup"><span data-stu-id="5182d-113">For additional information on locations, read  [Manage your partner account - Locations](manage-locations.md).</span></span>
+3. <span data-ttu-id="4fef7-112">Microsoft 会将你视为一个公司，因此会进行合并收入确认，这样可以更容易地了解所有位置的概况。</span><span class="sxs-lookup"><span data-stu-id="4fef7-112">Microsoft will recognize you as one company which will result in consolidated revenue recognition making it easier to get the full picture across all locations.</span></span>  
 
-- <span data-ttu-id="5182d-114">合并完成后, 你将看到所有帐户详细信息作为现有主全局帐户中的位置。</span><span class="sxs-lookup"><span data-stu-id="5182d-114">Once consolidation is complete, you will see all your account details as locations within the existing primary global account.</span></span>
+4. <span data-ttu-id="4fef7-113">你只需每年支付一次能力和 MAP 的费用。</span><span class="sxs-lookup"><span data-stu-id="4fef7-113">You'll need to pay for competencies and MAPs only once, annually.</span></span>
 
-- <span data-ttu-id="5182d-115">在此合并期间将保留所有 MPN Id。</span><span class="sxs-lookup"><span data-stu-id="5182d-115">All MPN IDs are preserved during this consolidation.</span></span>
-
-- <span data-ttu-id="5182d-116">在合并过程中, 你的所有现有能力 (金/银)、购买 (地图/金/银) 以及相关优势都将保留。</span><span class="sxs-lookup"><span data-stu-id="5182d-116">All your existing competencies (Gold/Silver), purchases (MAPS/Gold/Silver) and associated benefits are preserved during consolidation.</span></span>
-
-- <span data-ttu-id="5182d-117">你 (使用工作电子邮件 ID 登录的用户) 将自动添加为 MPN 管理员, 并将帐户管理员添加到主要全局帐户, 以便你可以根据需要管理该帐户。</span><span class="sxs-lookup"><span data-stu-id="5182d-117">You (the user who logged in with the work email ID) will automatically be added as an MPN admin and an account admin to the primary global account so that you can administer the account as needed.</span></span> 
+5. <span data-ttu-id="4fef7-114">合并帐户以后，你可能有资格获得更多的能力认可。</span><span class="sxs-lookup"><span data-stu-id="4fef7-114">After consolidating your accounts, you may be eligible for more competencies.</span></span> <span data-ttu-id="4fef7-115">在符合条件的情况下，你还可以获得以前没有参与资格的激励计划的资格。</span><span class="sxs-lookup"><span data-stu-id="4fef7-115">If you are eligible, you can also gain eligibility to incentive programs you were not previously eligible for.</span></span>
 
 
-## <a name="consolidating-your-benefits-and-competencies"></a><span data-ttu-id="5182d-118">整合您的权益和能力</span><span class="sxs-lookup"><span data-stu-id="5182d-118">Consolidating your benefits and competencies</span></span>
+## <a name="what-happens-during-consolidation-of-accounts"></a><span data-ttu-id="4fef7-116">在合并帐户时会发生什么</span><span class="sxs-lookup"><span data-stu-id="4fef7-116">What happens during consolidation of accounts</span></span>
 
-<span data-ttu-id="5182d-119">在 PMC 中, 每个位置都有可能有自己的能力、自己的地图和特定于某个位置的其他权益。</span><span class="sxs-lookup"><span data-stu-id="5182d-119">In PMC it was possible for each location to have its own competencies, its own MAPs, and other benefits specific to a location.</span></span>
+- <span data-ttu-id="4fef7-117">你不能更改公司详细信息屏幕上的任何详细信息，因为这些详细信息是针对主全局帐户的。</span><span class="sxs-lookup"><span data-stu-id="4fef7-117">You will not be able to change any details on the company details screen because the details are for the primary global account.</span></span> 
 
-<span data-ttu-id="5182d-120">在合作伙伴中心, 因为所有位置帐户都将合并到一个全局帐户, 所以还会合并权益和能力。</span><span class="sxs-lookup"><span data-stu-id="5182d-120">In Partner Center, because all location accounts will be consolidated into one global account, the benefits and competencies are consolidated as well.</span></span> <span data-ttu-id="5182d-121">其他权益工具包 (ABTKs) 将不可用。</span><span class="sxs-lookup"><span data-stu-id="5182d-121">Additional benefits tool kits (ABTKs) will not be available.</span></span> <span data-ttu-id="5182d-122">不过, 你将能够根据公司的需要来组织权益和能力的分布。</span><span class="sxs-lookup"><span data-stu-id="5182d-122">You will, however, be able to organize the distribution of the benefits and competencies as required for your company.</span></span>
+- <span data-ttu-id="4fef7-118">PMC 中的帐户（目前正在迁移）将合并成主全局帐户。</span><span class="sxs-lookup"><span data-stu-id="4fef7-118">The account(s) in PMC (which you are currently moving) will be consolidated into the primary global account.</span></span> 
 
-<span data-ttu-id="5182d-123">有关 PMC 与合作伙伴中心之间的差异的其他信息, 请参阅[从 PMC 移动到合作伙伴中心](guide-to-migration.md)。</span><span class="sxs-lookup"><span data-stu-id="5182d-123">For additional information on the differences between PMC and Partner Center, read [Moving from PMC to Partner Center](guide-to-migration.md).</span></span>
+- <span data-ttu-id="4fef7-119">PMC 中的所有位置将作为位置迁移到此现有的合作伙伴中心主全局帐户中，你可以添加更多位置。</span><span class="sxs-lookup"><span data-stu-id="4fef7-119">All locations in PMC will be moved into this existing Partner Center primary global account as locations, and you will be able to add additional locations.</span></span> <span data-ttu-id="4fef7-120">有关位置的其他信息，请阅读[管理合作伙伴帐户 - 位置](manage-locations.md)。</span><span class="sxs-lookup"><span data-stu-id="4fef7-120">For additional information on locations, read  [Manage your partner account - Locations](manage-locations.md).</span></span>
+
+- <span data-ttu-id="4fef7-121">合并完成后，会在现有主全局帐户中看到按位置列出的所有公司详细信息。</span><span class="sxs-lookup"><span data-stu-id="4fef7-121">Once consolidation is complete, you will see all your companies' details as locations within the existing primary global account.</span></span> <span data-ttu-id="4fef7-122">公司合并后，相关过程无法逆转。</span><span class="sxs-lookup"><span data-stu-id="4fef7-122">Once your companies have been consolidated, you cannot reverse the process.</span></span>
+
+- <span data-ttu-id="4fef7-123">在此合并过程中，所有 MPN ID 都会保留。</span><span class="sxs-lookup"><span data-stu-id="4fef7-123">All MPN IDs are preserved during this consolidation.</span></span>
+
+- <span data-ttu-id="4fef7-124">在合并过程中，所有现有的能力指标（金牌/银牌）、购买指标（MAPS/金牌/银牌）和相关的权益都会保留。</span><span class="sxs-lookup"><span data-stu-id="4fef7-124">All your existing competencies (Gold/Silver), purchases (MAPS/Gold/Silver) and associated benefits are preserved during consolidation.</span></span>
+
+- <span data-ttu-id="4fef7-125">系统会将你（使用工作电子邮件 ID 登录的用户）作为 MPN 管理员和帐户管理员自动添加到主全局帐户中，让你可以根据需要管理帐户。</span><span class="sxs-lookup"><span data-stu-id="4fef7-125">You (the user who logged in with the work email ID) will automatically be added as an MPN admin and an account admin to the primary global account so that you can administer the account as needed.</span></span> 
+
+
+## <a name="consolidating-your-benefits-and-competencies"></a><span data-ttu-id="4fef7-126">合并权益和能力</span><span class="sxs-lookup"><span data-stu-id="4fef7-126">Consolidating your benefits and competencies</span></span>
+
+<span data-ttu-id="4fef7-127">在 PMC 中，每个位置都可以有其自己的能力、其自己的 MAP，以及其他特定于位置的权益。</span><span class="sxs-lookup"><span data-stu-id="4fef7-127">In PMC it was possible for each location to have its own competencies, its own MAPs, and other benefits specific to a location.</span></span>
+
+<span data-ttu-id="4fef7-128">在合作伙伴中心，由于所有位置帐户会合并成一个全局帐户，因此权益和能力也会合并。</span><span class="sxs-lookup"><span data-stu-id="4fef7-128">In Partner Center, because all location accounts will be consolidated into one global account, the benefits and competencies are consolidated as well.</span></span> <span data-ttu-id="4fef7-129">其他权益工具包 (ABTK) 将不可用。</span><span class="sxs-lookup"><span data-stu-id="4fef7-129">Additional benefits tool kits (ABTKs) will not be available.</span></span> <span data-ttu-id="4fef7-130">不过，你可以根据公司的需要来安排权益和能力的分配。</span><span class="sxs-lookup"><span data-stu-id="4fef7-130">You will, however, be able to organize the distribution of the benefits and competencies as required for your company.</span></span> <span data-ttu-id="4fef7-131">当你进行合并时，我们会延长你的权益期限，确保贵公司在 PMC 中享有的权益另外延长一年。</span><span class="sxs-lookup"><span data-stu-id="4fef7-131">When you consolidate, an extension is provided that will ensure that the benefits your company enjoyed in PMC are extended for an additional year.</span></span>
+
+<span data-ttu-id="4fef7-132">若要详细了解 PMC 和合作伙伴中心的差异，请阅读[从 PMC 迁移到合作伙伴中心](guide-to-migration.md)。</span><span class="sxs-lookup"><span data-stu-id="4fef7-132">For more information on the differences between PMC and Partner Center, read [Moving from PMC to Partner Center](guide-to-migration.md).</span></span>
+
