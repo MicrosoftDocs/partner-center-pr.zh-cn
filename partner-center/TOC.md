@@ -72,6 +72,7 @@
 ## [引荐](referrals.md)
 ### [创建业务资料](create-a-marketing-profile.md)
 ### [回应引荐](responding-to-referrals.md)
+### [注册交易](register-deals.md)
 ### [与 Microsoft 联合销售](co-sell-with-microsoft.md)
 ### [获取引荐见解](referral-insights.md)
 ### [分析业务资料](analyze-your-marketing-profile.md)
@@ -96,7 +97,6 @@
 ## [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常见计费方案](common-billing-scenarios.md)
 ## [拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)
-## [PSTN 服务](o365-e5-in-csp-advisory.md)
 
 # [与客户联系](customer-accounts.md)
 ## [添加新客户](add-a-new-customer.md)
