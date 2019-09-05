@@ -1,19 +1,19 @@
 ---
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/27/2019
+ms.date: 08/29/2019
 description: 本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: bd6c0a4aa17c8163a2ffbade8ef337e9320e0389
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
+ms.openlocfilehash: 9c566b43a0624a90bad746852e971a316b085005
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993977"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259918"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
@@ -33,24 +33,6 @@ ms.locfileid: "69993977"
 
 >[!Note]
 >如果你需要一封业务信函，确认或认证你在云解决方案提供商计划中作为经授权的 Microsoft 合作伙伴的状态，请[联系支持部门](https://partner.microsoft.com/pcv/servicerequests/create)提交相关请求。
-
-## <a name="cloud-solution-provider-partner-agreement"></a>云解决方案提供商合作伙伴协议
-
-Microsoft 要求合作伙伴必须签署此协议才能加入云解决方案提供商计划。 查看你计划在其中进行销售的市场或国家云的指南。
-
-[Microsoft 云经销商协议 - 北美洲、中美洲、南美洲和加勒比地区](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g7eT)
-
-[Microsoft 云经销商协议 - 亚洲、澳大利亚和太平洋地区](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft 云经销商协议 - 欧洲、中东地区和非洲](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3g9Q5)
-
-[Microsoft 云经销商协议 - 日本](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ9)
-
-[Microsoft 云经销商协议 - 韩国](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gf2k)
-
-[Microsoft 云经销商协议 - 中国台湾](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gmQ8)
-
-[Microsoft 云经销商协议 - Microsoft Cloud for US Government](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3gcrx)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 云协议客户模板
 
