@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 32bae49c23dd471e3b6be8415573361b758dce57
-ms.sourcegitcommit: 30ceee7d22f24f79cac15c537b1c3fc7ab8d700c
+ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
+ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69999664"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "70259920"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心
 
@@ -57,7 +57,13 @@ ms.locfileid: "69999664"
 ||只要你还没有 MAPS，就可以购买它。 是否拥有 MAPS 与能力不挂钩。  
 |在合作伙伴数字下载 (PDD) 位置访问权益 |所有权益都在合作伙伴中心访问|
 |能力和权益分布在多个位置|所有位置的能力和权益在公司 (PGA) 级别合并，并保留到周年日期那一天。 到那时候，你需要在公司级别进行购买或续订。 性能和技能以及能力在全局进行聚合|
-|软件保障凭证声索在凭证验证和兑换 (VVR) 工具中进行|现在可以在合作伙伴中心访问和管理软件保障培训凭证 (SATV) 和/或已部署规划服务 (DPS)。  旧版 VVR 工具将在 2019 年 10 月 1 日停用。  |
+|软件保障凭证是通过凭证验证和兑换 (VVR) 工具索取的|现在可以在合作伙伴中心访问和管理软件保障培训凭证 (SATV) 和/或已部署规划服务 (DPS)。  旧版 VVR 工具将在 2019 年 10 月 1 日停用。  |
+
+## <a name="associating-mcp-ids-to-partner-center"></a>将 MCP ID 关联到合作伙伴中心
+
+|**PMC**   |**合作伙伴中心**   |
+|-------------------------|:-------------------|
+|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”   。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University  。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 权益和 MSA
 
@@ -78,7 +84,7 @@ ms.locfileid: "69999664"
 |凭证验证和兑换工具| 凭证验证和兑换工具|
 |           |云解决方案提供商计划|
 
-是。 分配给 MSA 的 Visual Studio 权益仍将有效，会继续保留。 在合作伙伴中心续订后，仍会保留它们。 不过，如果你在迁移到合作伙伴中心以后删除了某个 MSA 分配，则不能将其重新添加到合作伙伴中心。
+分配给 MSA 的 Visual Studio 权益仍将有效，会继续保留。 在合作伙伴中心续订后，仍会保留它们。 不过，如果你在迁移到合作伙伴中心以后删除了某个 MSA 分配，则不能将其重新添加到合作伙伴中心。
 
 在合作伙伴中心，合作伙伴可以添加特定的工作帐户和来宾用户帐户，这些帐户是同一租户的 MSA，而这些租户中的合作伙伴在 Azure AD 租户中是 MPN 管理员。 如果合作伙伴在多个 Azure AD 租户中是全局管理员，并且所有这些租户都关联到同一个合作伙伴中心帐户，则该合作伙伴可以跨所有这些租户将用户添加到 Visual Studio 权益中以及基于 Azure 使用情况的分配计划中。
 

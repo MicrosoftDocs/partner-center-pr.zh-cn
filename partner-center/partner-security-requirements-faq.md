@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴安全要求常见问题解答 | 合作伙伴中心
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 08/30/2019
 description: 关于合作伙伴安全要求的常见问题解答
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 54ac919aeadec85b941e0dce9b1556df843e5fcb
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "70020537"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215653"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -85,8 +85,8 @@ ms.locfileid: "70020537"
 
     - 间接提供商若要加入合作伙伴中心（如果尚未加入），则需与间接经销商展开合作，并要求自己的经销商满足这些要求。
     - Azure MFA 通过基线策略免费提供给合作伙伴租户中的所有用户，唯一的验证方法是使用 [Microsoft Authenticator 应用](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)。
-    - 如果需要其他验证方法（例如短信或电子邮件），则可通过 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 使用这些方法。
-    - 在访问 Microsoft 商业云服务时，合作伙伴也可以针对每个用户使用第三方 MFA 解决方案。
+    - 如果需要其他验证方法（例如电话呼叫或短信），可以通过 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 使用这些方法。
+    - 在访问 Microsoft 商业云服务时，合作伙伴也可以对每个帐户使用第三方 MFA 解决方案。
 
 2. **采用安全应用程序模型框架**
 
@@ -94,10 +94,10 @@ ms.locfileid: "70020537"
 
     - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
     - [合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+    - [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
     如果使用控制面板，则需与供应商协商采用安全应用程序模型框架的事宜。
 
@@ -122,7 +122,7 @@ MFA 是一种安全机制，单个用户可以使用该机制通过多个必需�
 
 ### <a name="what-baseline-policies-must-i-enable"></a>必须启用哪些基线策略？
 
-如果打算利用当前的基线保护策略为合作伙伴租户中的每个用户提供 MFA，则必须启用[对管理员要求 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 和[最终用户保护](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)基线策略。 这些基线保护策略会为合作伙伴租户中的每个用户免费履行 MFA 要求，前提是合作伙伴通过移动设备使用 Microsoft Authenticator 应用。
+如果打算利用当前的基线保护策略为合作伙伴租户中的每个帐户提供 MFA，则必须启用[对管理员要求 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) 和[最终用户保护](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)基线策略。 这些基线保护策略会为合作伙伴租户中的每个用户免费履行 MFA 要求，前提是合作伙伴通过移动设备使用 Microsoft Authenticator 应用。
 
 [“对管理员要求 MFA”基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)用于保护合作伙伴目录中的管理用户，[最终用户保护](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users)基线策略用于保护合作伙伴租户中的非管理用户。 若要启用这些策略，用户必须注册 MFA。 用户成功注册以后，系统会在用户尝试登录时根据策略要求提示用户进行 MFA。 基线策略提供的功能会持续改进，确保合作伙伴和客户免受不断变化的安全威胁的危害。 因此，请参阅[基线策略文档](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)以了解详细信息，这很重要。
 
@@ -246,10 +246,10 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 如果使用控制面板，则需与供应商协商采用安全应用程序模型框架的事宜。
 
@@ -333,10 +333,10 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
 - [合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/partner-center/develop/multi-factor-auth)
+- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>支持
 
@@ -353,6 +353,10 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>如何获取有助于我采用安全应用程序模型框架的技术信息和支持？
 
 可以通过 MPN 权益获取 Azure Active Directory 的技术产品支持选项。 能够访问活动 ASfP 或 PSfP 订阅的合作伙伴可以咨询相关的帐户管理员 (SAM/TAM)，这样可以最好地了解可用选项。
+
+### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>当我无法访问合作伙伴中心时，如何与支持部门取得联系？
+
+转到 [Microsoft 合作伙伴支持](https://partner.microsoft.com/support)，然后选择“显示所有支持选项”  。 你随即将看到用于联系 Microsoft 合作伙伴支持的可用选项。 这些选项包括用于呼叫支持人员的电话号码，以及用于与支持人员聊天的选项。 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>在哪里可以找到常见技术问题的详细信息？
 
