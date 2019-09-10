@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴安全要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 08/05/2019
+ms.date: 08/30/2019
 description: 了解对参与云解决方案提供商计划的顾问和合作伙伴的安全要求。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 40f5ac3e1481c0b630fc7e22e680409b1ca80926
-ms.sourcegitcommit: a5d5bd83e20649e9f02d2d82d682f87bb28a0265
+ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
+ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "68912636"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "70215651"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴安全要求
 
@@ -140,7 +140,7 @@ ms.locfileid: "68912636"
 
 若要启用此策略并保护管理员，请执行以下操作：
 
-1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户**。
+1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。
 2. 浏览到“Azure Active Directory”   >   “条件访问”。
 3. 在策略列表中，选择“基线策略:  对管理员要求 MFA”。
 4. 将“启用策略”设置为“立即使用策略”。  
@@ -257,7 +257,7 @@ $report | Where-Object {$_.mfaRequired -eq $false} | Select-Object userPrincipal
 
 检查用户的登录日志，确认用户是否已被策略阻止。
 
-1. 管理员需登录到 **Azure 门户**，导航到“Azure Active Directory”   >   “用户”，单击用户的名称，然后导航到“登录”。
+1. 管理员需登录到 **Azure 门户**，导航到 **“Azure Active Directory”**  >   “用户”，单击用户的名称，然后导航到“登录”。
 2. 若要对被阻止的用户启动密码重置，管理员需导航到“Azure Active Directory”   >   “已标记为存在风险的用户”
 3. 单击其帐户已被阻止的用户，查看有关此用户的最近登录活动的信息。
 4. 单击“重置密码”，分配一个临时密码，该密码必须在下次登录时更改。
