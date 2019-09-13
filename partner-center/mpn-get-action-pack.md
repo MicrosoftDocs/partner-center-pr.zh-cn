@@ -9,7 +9,7 @@ keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
 ms.localizationpriority: medium
 ms.openlocfilehash: cb30847f6ce5697bfd545c6b13cd0641aab66fba
 ms.sourcegitcommit: d99b3cdca6edbc478e2ac6e2927541448bf8190b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/27/2019
 ms.locfileid: "67407880"

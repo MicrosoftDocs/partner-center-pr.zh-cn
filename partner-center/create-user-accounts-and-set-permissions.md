@@ -10,7 +10,7 @@ Keywords: 角色、 权限、 添加用户、 分配角色、 admin、 代理，
 ms.localizationpriority: medium
 ms.openlocfilehash: de8b4e793f50d00a1d528d44b8dece7b9f7c9263
 ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/09/2019
 ms.locfileid: "67674234"
