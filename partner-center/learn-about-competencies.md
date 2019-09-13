@@ -9,7 +9,7 @@ keywords: 胜任度, 银成员资格, 黄金成员身份, mpn, 地图, 熟练程
 ms.localizationpriority: medium
 ms.openlocfilehash: efc69215010e1ad32ae63c81556979f18f157f07
 ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/06/2019
 ms.locfileid: "68820640"

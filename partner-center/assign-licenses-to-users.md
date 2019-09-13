@@ -10,7 +10,7 @@ Keywords: 客户管理的帐户，创建帐户、 许可证、 分配许可证�
 ms.localizationpriority: medium
 ms.openlocfilehash: fa8aabcc668630906fa2c9b3a88abbaee8a89693
 ms.sourcegitcommit: a9916e90efbb21bff250effd36a213420889633c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/13/2019
 ms.locfileid: "67044996"

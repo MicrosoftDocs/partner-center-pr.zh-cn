@@ -9,7 +9,7 @@ keywords: PMC, 迁移, 转向合作伙伴中心
 ms.localizationpriority: medium
 ms.openlocfilehash: f8e0b1fa4b31608ed4031832018c0a003abf0ae9
 ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 08/01/2019
 ms.locfileid: "68708917"
