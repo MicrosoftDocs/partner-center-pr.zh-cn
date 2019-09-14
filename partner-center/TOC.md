@@ -31,6 +31,7 @@
 
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
+## [适用于云解决方案提供商合作伙伴的 Microsoft 合作伙伴协议](microsoft-partner-agreement.md)
 ## [云解决方案提供商计划直接合作伙伴新要求](direct-partner-new-requirements.md)
 ## [按地区和语言划分的 Microsoft 云协议](agreements.md)
 ## [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)
@@ -65,7 +66,7 @@
 ## [重置用户密码](reset-a-user-password.md)
 ## [重置我的密码](reset-my-pasword.md)
 ## [添加 Azure 合作伙伴共享服务](shared-services.md)
-## [定价和产品/服务](pricing-and-offers.md)
+## [定价和套餐](pricing-and-offers.md)
 ## [自定义目录](customize-the-catalog.md)
 
 # [发展你的业务](grow-your-business.md)
