@@ -171,6 +171,7 @@
 # 安全性
 ## [合作伙伴安全要求](partner-security-requirements.md)
 ## [合作伙伴安全要求常见问题解答](partner-security-requirements-faq.md)
+## [合作伙伴安全合规性状态](partner-security-compliance.md)
 
 # 教程
 ## [实施合作伙伴安全要求](tutorials/partner-security-requirements.yml)
