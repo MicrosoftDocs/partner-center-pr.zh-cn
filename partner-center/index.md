@@ -3,18 +3,18 @@ layout: LandingPage
 hide_bc: true
 title: 从此处开始获取有关合作伙伴中心的帮助
 ms.topic: landing-page
-ms.date: 01/29/2019
+ms.date: 10/01/2019
 description: 合作伙伴中心可以帮助你通过 Microsoft 云解决方案提供商 (CSP) 计划发展你的业务。 可以在其中设置你的帐户、与客户联系、购买 Action Pack 订阅，以及查找 CSP 和 MPN 计划中的合作伙伴的更多信息。 
 author: LauraBrenner
 ms.author: labrenne
 searchScope: []
-ms.localizationpriority: medium
-ms.openlocfilehash: 38bdae28d49553e39827375b1ab1c1376e3378b3
-ms.sourcegitcommit: 17d030d87530d4c9832e8be7aeff37821941d343
+ms.localizationpriority: high
+ms.openlocfilehash: f94ef72fc69cd4fe29cd27c2dc4bab11ab5e64c3
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "65035526"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318884"
 ---
 # <a name="welcome-to-partner-center"></a>欢迎使用合作伙伴中心
 
@@ -87,7 +87,7 @@ Microsoft 合作伙伴中心是用于管理你与 Microsoft 之间的端对端�
                 <div class="card">
                     <div class="cardText"><a href="/partner-center/move-pmc-pc-map">
                         <h3>从 PMC 迁移到 PC</h3>
-                        <p>了解如何准备将公司迁移到合作伙伴中心</p></a>
+                        <p>准备将公司迁移到合作伙伴中心</p></a>
                     </div>
                 </div>
             </div>
