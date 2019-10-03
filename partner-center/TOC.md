@@ -28,7 +28,6 @@
 ### [Microsoft 合作伙伴网络中的发票和税款](mpn-view-print-maps-invoice.md)
 ## [试用新功能](test-drive-new-features.md)
 
-
 # [云解决方案提供商](csp-overview.md)
 ## [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
 ## [适用于云解决方案提供商合作伙伴的 Microsoft 合作伙伴协议](microsoft-partner-agreement.md)
@@ -39,7 +38,6 @@
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
 ## [确认客户接受 Microsoft 云协议](confirm-consent.md)
 ## [确认客户接受 Microsoft 客户协议（预览版）](confirm-customer-agreement.md)
-
 
 ## [适用于在国家/地区云中销售](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
@@ -84,7 +82,6 @@
 ### [了解你的奖励付款](understand-incentive-payouts.md)
 ### [在合作伙伴中心提交 OSA 申请](submit-osa-claim.md)
 ### [查找奖励申请的客户域名和目录 ID](find-customer-domain-name.md)
-
 
 # [计费和税款](billing.md)
 ## [计费常见问题解答](faq-about-new-billing-features.md)
@@ -169,10 +166,10 @@
 ## [客户自助支持](customer-self-support.md)
 ## [将问题上报给 Microsoft](escalate-problems-to-microsoft.md)
 
-# 安全性
-## [合作伙伴安全要求](partner-security-requirements.md)
-## [合作伙伴安全要求常见问题解答](partner-security-requirements-faq.md)
-## [合作伙伴安全合规性状态](partner-security-compliance.md)
+# 安全要求
+## [概述](partner-security-requirements.md)
+## [合规性状态](partner-security-compliance.md)
+## [常见问题解答](partner-security-requirements-faq.md)
 
 # 教程
 ## [实施合作伙伴安全要求](tutorials/partner-security-requirements.yml)
