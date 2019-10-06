@@ -78,7 +78,7 @@
 ## [奖励申请](claims-overview.md)
 ### [创建和管理奖励申请](create-incentives-claims.md)
 ### [奖励申请的核心要求](core-requirements.md)
-### [访问奖励付款页](incentives-unified-user-guide.md)
+### [了解你的支出信息](incentives-unified-user-guide.md)
 ### [了解你的奖励付款](understand-incentive-payouts.md)
 ### [在合作伙伴中心提交 OSA 申请](submit-osa-claim.md)
 ### [查找奖励申请的客户域名和目录 ID](find-customer-domain-name.md)
