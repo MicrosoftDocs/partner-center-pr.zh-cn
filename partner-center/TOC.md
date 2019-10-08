@@ -78,10 +78,12 @@
 ## [奖励申请](claims-overview.md)
 ### [创建和管理奖励申请](create-incentives-claims.md)
 ### [奖励申请的核心要求](core-requirements.md)
+
+
 ### [了解你的支出信息](incentives-unified-user-guide.md)
-### [了解你的奖励付款](understand-incentive-payouts.md)
-### [在合作伙伴中心提交 OSA 申请](submit-osa-claim.md)
-### [查找奖励申请的客户域名和目录 ID](find-customer-domain-name.md)
+
+### [访问奖励付款页](incentives-unified-user-guide.md)
+
 
 # [计费和税款](billing.md)
 ## [计费常见问题解答](faq-about-new-billing-features.md)
@@ -168,7 +170,7 @@
 
 # 安全要求
 ## [概述](partner-security-requirements.md)
-## [合规性状态](partner-security-compliance.md)
+## [要求状态](partner-security-compliance.md)
 ## [常见问题解答](partner-security-requirements-faq.md)
 
 # 教程
