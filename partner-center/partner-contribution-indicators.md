@@ -1,22 +1,22 @@
 ---
 title: 合作伙伴贡献指示器 | 合作伙伴中心
 ms.topic: article
-ms.date: 07/17/2019
+ms.date: 10/04/2019
 description: 各种数据，展示你的公司使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后的情况
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 绩效, 客户成功, 度量, Dynamics 365
 author: MaggiePucciEvans
 ms.author: evansma
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 8a54db5e03c2cc683c913781427bc3d4ebac1af8
-ms.sourcegitcommit: 435634c55c3d20a42083c0a58d96c7f6b8ec0a6d
+ms.openlocfilehash: c0c8f9f721aa0cadfc311ecec5eb6349576fb26a
+ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "68313963"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "71997827"
 ---
-## <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
+# <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
 合作伙伴贡献指示器 (PCI) 是一组整体度量指标，用于度量你在使用 Dynamics 365 后的绩效、能力和客户成功情况。
 
