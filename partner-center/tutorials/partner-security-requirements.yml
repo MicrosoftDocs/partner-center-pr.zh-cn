@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313952"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425209"
 items:
 - title: 简介
   durationInMinutes: 5
@@ -94,11 +94,6 @@ items:
     > 在启用此策略之前，请确保用户使用的不是旧版身份验证协议。 请参阅[如何：使用条件访问阻止向 Azure AD 进行旧身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文以了解详细信息。
 
 
-    > [!IMPORTANT]
-
-    > 有一个已知的问题，此问题会影响在强制实施 MFA 后你使用委派的管理权限来连接到 Exchange Online PowerShell。 请参阅 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 以了解详细信息。
-
-
     启用“对管理员要求 MFA”基线策略后，属于上述管理员角色的用户在登录时将获得全新的体验。 下图显示了受此策略影响的用户将获得的体验
 
       ![提示需要更多信息](../images/security/baseline-require-more-info.png)
@@ -138,11 +133,6 @@ items:
     > [!WARNING]
 
     > 在启用此策略之前，请确保用户使用的不是旧版身份验证协议。 请参阅[如何：使用条件访问阻止向 Azure AD 进行旧身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文以了解详细信息。
-
-
-    > [!IMPORTANT]
-
-    > 有一个已知的问题，此问题会影响在强制实施 MFA 后你使用委派的管理权限来连接到 Exchange Online PowerShell。 请参阅 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 以了解详细信息。
 
 
     启用“最终用户保护”基线策略后，所有用户在登录时都将获得全新体验。 下图显示了用户将获得的体验
