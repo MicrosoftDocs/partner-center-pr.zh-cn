@@ -1,5 +1,5 @@
 ### YamlMime:Tutorial
-title: <span data-ttu-id="24c2f-101">实施合作伙伴安全要求</span><span class="sxs-lookup"><span data-stu-id="24c2f-101">Implementing the partner security requirements</span></span>
+title: 实施合作伙伴安全要求
 metadata:
   title: 实施合作伙伴安全要求
   description: 本教程将介绍合作伙伴安全要求的相关内容以及如何满足这些要求。
@@ -8,98 +8,93 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 0870db76a162e4bc85e101a03c992da5c2ba22d3
-  ms.sourcegitcommit: 5c8ac1b6d29d183d85582d6eb32e37b91dd8c6c1
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/18/2019
-  ms.locfileid: "68313952"
+  ms.lasthandoff: 10/16/2019
+  ms.locfileid: "72425209"
 items:
-- title: <span data-ttu-id="24c2f-104">简介</span><span class="sxs-lookup"><span data-stu-id="24c2f-104">Introduction</span></span>
+- title: 简介
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="24c2f-105">客户和合作伙伴的安全和隐私是 Microsoft 首要关注的重点。</span><span class="sxs-lookup"><span data-stu-id="24c2f-105">Security and privacy of customers and partners are top priorities for Microsoft.</span></span> <span data-ttu-id="24c2f-106">我们不断看到有越来越多更为复杂的安全攻击在发生，这些安全攻击主要与身份遭到泄露相关。</span><span class="sxs-lookup"><span data-stu-id="24c2f-106">We continue to see an increasing number of more sophisticated security attacks, primarily related to compromised identities.</span></span> <span data-ttu-id="24c2f-107">若要通过整体防御策略来阻止安全攻击，预防性的控制至关重要，因此我们将开始实施一系列强制性安全要求，以便对合作伙伴及其客户进行保护。</span><span class="sxs-lookup"><span data-stu-id="24c2f-107">As preventive controls play a key role in an overall defense strategy to thwart security attacks, we will start enforcing a set of mandatory security requirements to help protect partners and their customers.</span></span>
+    客户和合作伙伴的安全和隐私是 Microsoft 首要关注的重点。 我们不断看到有越来越多更为复杂的安全攻击在发生，这些安全攻击主要与身份遭到泄露相关。 若要通过整体防御策略来阻止安全攻击，预防性的控制至关重要，因此我们将开始实施一系列强制性安全要求，以便对合作伙伴及其客户进行保护。
 
 
-    <span data-ttu-id="24c2f-108">本教程将介绍合作伙伴安全要求的详细信息，并介绍如何满足这些要求以及对合作伙伴目录中的用户所产生的影响。</span><span class="sxs-lookup"><span data-stu-id="24c2f-108">Through this tutorial you will learn more about the partner security requirements, how to fulfill them, and the impact to users in your partner directory.</span></span>
-- title: <span data-ttu-id="24c2f-109">什么是合作伙伴安全要求？</span><span class="sxs-lookup"><span data-stu-id="24c2f-109">What are the partner security requirements?</span></span>
+    本教程将介绍合作伙伴安全要求的详细信息，并介绍如何满足这些要求以及对合作伙伴目录中的用户所产生的影响。
+- title: 什么是合作伙伴安全要求？
   durationInMinutes: 1
   content: >
-    <span data-ttu-id="24c2f-110">所有参与云解决方案提供商计划的合作伙伴、控制面板供应商和顾问合作伙伴都需要对他们合作伙伴租户中的每位用户强制实施多重身份验证 (MFA)。</span><span class="sxs-lookup"><span data-stu-id="24c2f-110">All partners who are participating in the Cloud Solution Provider program, Control Panel Vendors, and Advisor partners are required to enforce Multi-Factor Authentication (MFA) for each user in their partner tenant.</span></span> <span data-ttu-id="24c2f-111">这可以通过启用两种 [Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)来完成。</span><span class="sxs-lookup"><span data-stu-id="24c2f-111">This can be done by enabling two [Azure Active Directory baseline policies](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection).</span></span> <span data-ttu-id="24c2f-112">基线策略是一组预定义的策略，用于帮助组织防范许多常见攻击。</span><span class="sxs-lookup"><span data-stu-id="24c2f-112">Baseline policies are a set of predefined policies that help protect organizations against many common attacks.</span></span> <span data-ttu-id="24c2f-113">这些常见攻击可能包括密码喷射、重播和钓鱼。</span><span class="sxs-lookup"><span data-stu-id="24c2f-113">These common attacks can include password spray, replay, and phishing.</span></span> <span data-ttu-id="24c2f-114">基线策略在所有版本的 Azure Active Directory 中提供。</span><span class="sxs-lookup"><span data-stu-id="24c2f-114">Baseline policies are available in all editions of Azure Active Directory.</span></span> <span data-ttu-id="24c2f-115">Microsoft 会将这些基线保护策略提供给所有人，因为基于身份的攻击在过去几年呈上升趋势。</span><span class="sxs-lookup"><span data-stu-id="24c2f-115">Microsoft is making these baseline protection policies available to everyone because identity-based attacks have been on the rise over the last few years.</span></span>
+    所有参与云解决方案提供商计划的合作伙伴、控制面板供应商和顾问合作伙伴都需要对他们合作伙伴租户中的每位用户强制实施多重身份验证 (MFA)。 这可以通过启用两种 [Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)来完成。 基线策略是一组预定义的策略，用于帮助组织防范许多常见攻击。 这些常见攻击可能包括密码喷射、重播和钓鱼。 基线策略在所有版本的 Azure Active Directory 中提供。 Microsoft 会将这些基线保护策略提供给所有人，因为基于身份的攻击在过去几年呈上升趋势。
 
 
-    <span data-ttu-id="24c2f-116">下表介绍了应启用的两种基线策略。</span><span class="sxs-lookup"><span data-stu-id="24c2f-116">The two baseline policies that should be enabled are described in the table below.</span></span>
+    下表介绍了应启用的两种基线策略。
 
 
-    |<span data-ttu-id="24c2f-117">**策略**</span><span class="sxs-lookup"><span data-stu-id="24c2f-117">**Policy**</span></span>| |
+    |**策略**| |
 
     |-----|-----|
 
-    |<span data-ttu-id="24c2f-118">**对管理员要求 MFA**</span><span class="sxs-lookup"><span data-stu-id="24c2f-118">**Require MFA for admins**</span></span>|<span data-ttu-id="24c2f-119">启用“对管理员要求 MFA”策略后，担任管理员角色的用户需要使用 Authenticator 应用来注册 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-119">Enabling the Require MFA for admins policy, will require users in the administrator roles  to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="24c2f-120">完成 MFA 注册以后，管理员在每次登录时都需要执行 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-120">Once MFA registration is complete, administrators will need to perform MFA every time they sign-in.</span></span>|
+    |**对管理员要求 MFA**|启用“对管理员要求 MFA”策略后，担任管理员角色的用户需要使用 Authenticator 应用来注册 MFA。 完成 MFA 注册以后，管理员在每次登录时都需要执行 MFA。|
 
-    |<span data-ttu-id="24c2f-121">**最终用户保护**</span><span class="sxs-lookup"><span data-stu-id="24c2f-121">**End user protection**</span></span>|<span data-ttu-id="24c2f-122">“最终用户保护”是一种基于风险的 MFA 基线策略，用于保护目录中的所有用户。</span><span class="sxs-lookup"><span data-stu-id="24c2f-122">End user protection is a risk-based MFA baseline policy that protects all users in a directory.</span></span> <span data-ttu-id="24c2f-123">启用此策略以后，所有用户就必须使用 Authenticator 应用注册 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-123">Enabling this policy requires all users to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="24c2f-124">用户可以忽略 MFA 注册提示 14 天，此期限过后系统会阻止用户登录，直至用户注册 MFA 为止。</span><span class="sxs-lookup"><span data-stu-id="24c2f-124">Users can ignore the MFA registration prompt for 14 days, after which they will be blocked from signing in until they register for MFA.</span></span> <span data-ttu-id="24c2f-125">注册 MFA 以后，系统仅在检测到风险登录尝试时提示用户进行 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-125">Once registered for MFA, users will be prompted for MFA only during risky sign-in attempts.</span></span> <span data-ttu-id="24c2f-126">系统会阻止被盗用的用户帐户，直至用户重置密码并消除风险事件为止。</span><span class="sxs-lookup"><span data-stu-id="24c2f-126">Compromised user accounts are blocked until their password is reset and risk events have been dismissed.</span></span>|
+    |**最终用户保护**|“最终用户保护”是一种基于风险的 MFA 基线策略，用于保护目录中的所有用户。 启用此策略以后，所有用户就必须使用 Authenticator 应用注册 MFA。 用户可以忽略 MFA 注册提示 14 天，此期限过后系统会阻止用户登录，直至用户注册 MFA 为止。 注册 MFA 以后，系统仅在检测到风险登录尝试时提示用户进行 MFA。 系统会阻止被盗用的用户帐户，直至用户重置密码并消除风险事件为止。|
 
 
-    <span data-ttu-id="24c2f-127">启用这些策略后，每位用户将能够使用 Azure MFA，无需额外成本。</span><span class="sxs-lookup"><span data-stu-id="24c2f-127">When these policies are enabled, each user will be able to utilize Azure MFA at no additional cost.</span></span> <span data-ttu-id="24c2f-128">如果你使用的是第三方解决方案，则需要在每位用户访问 Microsoft 商业云服务时对他们强制实施 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-128">If you are using a third-party solution, then you are required to enforce MFA for each user when accessing Microsoft Commercial cloud services.</span></span>
+    启用这些策略后，每位用户将能够使用 Azure MFA，无需额外成本。 如果你使用的是第三方解决方案，则需要在每位用户访问 Microsoft 商业云服务时对他们强制实施 MFA。
 
 
     > [!IMPORTANT]
 
-    > <span data-ttu-id="24c2f-129">由于将对合作伙伴目录中的每位用户强制实施 MFA，因此利用用户凭据的所有自动化或集成都将受到影响。</span><span class="sxs-lookup"><span data-stu-id="24c2f-129">Since MFA will be enforced for every user in the partner directory, there will be an impact to any automation or integration that utilizes user credentials.</span></span> <span data-ttu-id="24c2f-130">若要消除这种影响，你需要修改将自动化或集成连接到 Microsoft 商业云服务的方式。</span><span class="sxs-lookup"><span data-stu-id="24c2f-130">To address this impact you will need to modify the way your automation or integration connects to Microsoft commercial cloud services.</span></span> <span data-ttu-id="24c2f-131">如果所连接的服务支持基于令牌的身份验证，我们建议你实现[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。</span><span class="sxs-lookup"><span data-stu-id="24c2f-131">If the service you are connecting to supports token based authentication, then it is recommended that you implement the [Secure Application Model framework](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model).</span></span>
-- title: <span data-ttu-id="24c2f-132">如何启用“对管理员要求 MFA”这一基线策略？</span><span class="sxs-lookup"><span data-stu-id="24c2f-132">How do I enable the Require MFA for admins baseline policy?</span></span>
+    > 由于将对合作伙伴目录中的每位用户强制实施 MFA，因此利用用户凭据的所有自动化或集成都将受到影响。 若要消除这种影响，你需要修改将自动化或集成连接到 Microsoft 商业云服务的方式。 如果所连接的服务支持基于令牌的身份验证，我们建议你实现[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。
+- title: 如何启用“对管理员要求 MFA”这一基线策略？
   durationInMinutes: 5
   content: >
-    <span data-ttu-id="24c2f-133">“对管理员要求 MFA”基线策略要求对以下目录角色实施 MFA，这些角色被认为是特权最高的 Azure AD 角色：</span><span class="sxs-lookup"><span data-stu-id="24c2f-133">The *Require MFA for admin* baseline policy requires MFA for the following directory roles, considered to be the most privileged Azure AD roles:</span></span>
+    “对管理员要求 MFA”基线策略要求对以下目录角色实施 MFA，这些角色被认为是特权最高的 Azure AD 角色：
 
 
-    - <span data-ttu-id="24c2f-134">全局管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-134">Global administrator</span></span>
+    - 全局管理员
 
-    - <span data-ttu-id="24c2f-135">SharePoint 管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-135">SharePoint administrator</span></span>
+    - SharePoint 管理员
 
-    - <span data-ttu-id="24c2f-136">Exchange 管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-136">Exchange administrator</span></span>
+    - Exchange 管理员
 
-    - <span data-ttu-id="24c2f-137">条件访问管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-137">Conditional access administrator</span></span>
+    - 条件访问管理员
 
-    - <span data-ttu-id="24c2f-138">安全管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-138">Security administrator</span></span>
+    - 安全管理员
 
-    - <span data-ttu-id="24c2f-139">支持管理员/密码管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-139">Helpdesk administrator / Password administrator</span></span>
+    - 支持管理员/密码管理员
 
-    - <span data-ttu-id="24c2f-140">帐务管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-140">Billing administrator</span></span>
+    - 帐务管理员
 
-    - <span data-ttu-id="24c2f-141">用户管理员</span><span class="sxs-lookup"><span data-stu-id="24c2f-141">User administrator</span></span>
-
-
-    <span data-ttu-id="24c2f-142">启用“对管理员要求 MFA”策略以后，以上九种管理员角色就必须使用 Authenticator 应用注册 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-142">Upon enabling the Require MFA for admins policy, the above nine administrator roles will be required to register for MFA using the Authenticator App.</span></span> <span data-ttu-id="24c2f-143">完成 MFA 注册以后，管理员在每次登录时都需要执行 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-143">Once MFA registration is complete, administrators will need to perform MFA every single time they sign-in.</span></span>
+    - 用户管理员
 
 
-    <span data-ttu-id="24c2f-144">如果组织在脚本或代码中使用这些帐户，请考虑将其替换为 [托管标识](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。</span><span class="sxs-lookup"><span data-stu-id="24c2f-144">If your organization has these accounts in use in scripts or code, consider replacing them with [managed identities](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview).</span></span>
+    启用“对管理员要求 MFA”策略以后，以上九种管理员角色就必须使用 Authenticator 应用注册 MFA。 完成 MFA 注册以后，管理员在每次登录时都需要执行 MFA。
 
 
-    <span data-ttu-id="24c2f-145">若要启用此策略并保护管理员，请执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="24c2f-145">To enable this policy and protect your administrators:</span></span>
+    如果组织在脚本或代码中使用这些帐户，请考虑将其替换为 [托管标识](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
 
 
-    1. <span data-ttu-id="24c2f-146">以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。</span><span class="sxs-lookup"><span data-stu-id="24c2f-146">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    若要启用此策略并保护管理员，请执行以下操作：
 
-    2. <span data-ttu-id="24c2f-147">浏览到“Azure Active Directory” > “条件访问”。</span><span class="sxs-lookup"><span data-stu-id="24c2f-147">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
 
-    3. <span data-ttu-id="24c2f-148">在策略列表中，选择“基线策略:对管理员要求 MFA”。</span><span class="sxs-lookup"><span data-stu-id="24c2f-148">In the list of policies, select **Baseline policy: Require MFA for admins**.</span></span>
+    1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。
 
-    4. <span data-ttu-id="24c2f-149">将“启用策略”设置为“立即使用策略”。</span><span class="sxs-lookup"><span data-stu-id="24c2f-149">Set **Enable policy** to **Use policy immediately**.</span></span>
+    2. 浏览到“Azure Active Directory” > “条件访问”。
 
-    5. <span data-ttu-id="24c2f-150">单击“保存”。 \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="24c2f-150">Click **Save**.</span></span>
+    3. 在策略列表中，选择“基线策略:对管理员要求 MFA”。
+
+    4. 将“启用策略”设置为“立即使用策略”。
+
+    5. 单击“保存”。 ****
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="24c2f-151">在启用此策略之前，请确保用户使用的不是旧版身份验证协议。</span><span class="sxs-lookup"><span data-stu-id="24c2f-151">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="24c2f-152">请参阅[如何：使用条件访问阻止向 Azure AD 进行旧身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文以了解详细信息。</span><span class="sxs-lookup"><span data-stu-id="24c2f-152">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > 在启用此策略之前，请确保用户使用的不是旧版身份验证协议。 请参阅[如何：使用条件访问阻止向 Azure AD 进行旧身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文以了解详细信息。
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="24c2f-153">有一个已知的问题，此问题会影响在强制实施 MFA 后你使用委派的管理权限来连接到 Exchange Online PowerShell。</span><span class="sxs-lookup"><span data-stu-id="24c2f-153">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="24c2f-154">请参阅 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 以了解详细信息。</span><span class="sxs-lookup"><span data-stu-id="24c2f-154">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="24c2f-155">启用“对管理员要求 MFA”基线策略后，属于上述管理员角色的用户在登录时将获得全新的体验。</span><span class="sxs-lookup"><span data-stu-id="24c2f-155">Once you have enable the *Require MFA for admins* baseline policy, users who are a member of the above administrator roles will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="24c2f-156">下图显示了受此策略影响的用户将获得的体验</span><span class="sxs-lookup"><span data-stu-id="24c2f-156">The following figures are what users impacted by this policy will experience</span></span>
+    启用“对管理员要求 MFA”基线策略后，属于上述管理员角色的用户在登录时将获得全新的体验。 下图显示了受此策略影响的用户将获得的体验
 
       ![提示需要更多信息](../images/security/baseline-require-more-info.png)
 
@@ -111,41 +106,36 @@ items:
 
       ![已通过其他安全验证](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="24c2f-162">用户完成上述步骤后才能登录到他们尝试访问的 Microsoft 云服务。</span><span class="sxs-lookup"><span data-stu-id="24c2f-162">After the user has completed the above they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span>
-- title: <span data-ttu-id="24c2f-163">如何启用“最终用户保护”基线策略？</span><span class="sxs-lookup"><span data-stu-id="24c2f-163">How do I enable the End user protection baseline policy?</span></span>
+    用户完成上述步骤后才能登录到他们尝试访问的 Microsoft 云服务。
+- title: 如何启用“最终用户保护”基线策略？
   durationInMinutes: 5
   content: >-
-    <span data-ttu-id="24c2f-164">“最终用户保护”基线策略保护目录中的所有用户。</span><span class="sxs-lookup"><span data-stu-id="24c2f-164">The End user protection baseline policy protects all users in a directory.</span></span> <span data-ttu-id="24c2f-165">启用此策略以后，所有用户就必须在 14 天内注册 Azure MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-165">Enabling this policy requires all users to register for Azure MFA within 14 days.</span></span> <span data-ttu-id="24c2f-166">注册后，系统将仅在出现存在风险的登录尝试期间提示用户进行 MFA，此行为未来将针对合作伙伴租户有所更改。</span><span class="sxs-lookup"><span data-stu-id="24c2f-166">Once registered, users will be prompted for MFA only during risky sign-in attempts, this behavior will change for partner tenants in the future.</span></span> <span data-ttu-id="24c2f-167">系统会阻止被盗用的用户帐户，直至用户重置密码并消除风险为止。</span><span class="sxs-lookup"><span data-stu-id="24c2f-167">Compromised user accounts are blocked until password reset and risk dismissal.</span></span>
+    “最终用户保护”基线策略保护目录中的所有用户。 启用此策略以后，所有用户就必须在 14 天内注册 Azure MFA。 注册后，系统将仅在出现存在风险的登录尝试期间提示用户进行 MFA，此行为未来将针对合作伙伴租户有所更改。 系统会阻止被盗用的用户帐户，直至用户重置密码并消除风险为止。
 
 
-    <span data-ttu-id="24c2f-168">“基线策略:最终用户保护”策略已预先配置。当你在 Azure 门户中导航到“条件访问”边栏选项卡时，会在顶部看到它。</span><span class="sxs-lookup"><span data-stu-id="24c2f-168">The policy **Baseline policy: End user protection** comes pre-configured and will show up at the top when you navigate to the Conditional Access blade in Azure portal.</span></span>
+    “基线策略:最终用户保护”策略已预先配置。当你在 Azure 门户中导航到“条件访问”边栏选项卡时，会在顶部看到它。
 
 
-    <span data-ttu-id="24c2f-169">若要启用此策略并保护用户，请执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="24c2f-169">To enable this policy and protect your users:</span></span>
+    若要启用此策略并保护用户，请执行以下操作：
 
 
-    1. <span data-ttu-id="24c2f-170">以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。</span><span class="sxs-lookup"><span data-stu-id="24c2f-170">Sign in to the **Azure portal** as a Global Administrator, Security Administrator, or Conditional Access Administrator.</span></span>
+    1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。
 
-    2. <span data-ttu-id="24c2f-171">浏览到“Azure Active Directory” > “条件访问”。</span><span class="sxs-lookup"><span data-stu-id="24c2f-171">Browse to **Azure Active Directory** > **Conditional Access**.</span></span>
+    2. 浏览到“Azure Active Directory” > “条件访问”。
 
-    3. <span data-ttu-id="24c2f-172">在策略列表中，选择“基线策略:最终用户保护(预览)”。</span><span class="sxs-lookup"><span data-stu-id="24c2f-172">In the list of policies, select **Baseline policy: End user protection (preview)**.</span></span>
+    3. 在策略列表中，选择“基线策略:最终用户保护(预览)”。
 
-    4. <span data-ttu-id="24c2f-173">将“启用策略”设置为“立即使用策略”。</span><span class="sxs-lookup"><span data-stu-id="24c2f-173">Set **Enable policy** to **Use policy immediately**.</span></span>
+    4. 将“启用策略”设置为“立即使用策略”。
 
-    5. <span data-ttu-id="24c2f-174">单击“保存”。 \*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="24c2f-174">Click **Save**.</span></span>
+    5. 单击“保存”。 ****
 
 
     > [!WARNING]
 
-    > <span data-ttu-id="24c2f-175">在启用此策略之前，请确保用户使用的不是旧版身份验证协议。</span><span class="sxs-lookup"><span data-stu-id="24c2f-175">Before you enable this policy, make sure your users are not using legacy authentication protocols.</span></span> <span data-ttu-id="24c2f-176">请参阅[如何：使用条件访问阻止向 Azure AD 进行旧身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文以了解详细信息。</span><span class="sxs-lookup"><span data-stu-id="24c2f-176">See the article [How to: Block legacy authentication to Azure AD with Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use) for more information.</span></span>
+    > 在启用此策略之前，请确保用户使用的不是旧版身份验证协议。 请参阅[如何：使用条件访问阻止向 Azure AD 进行旧身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文以了解详细信息。
 
 
-    > [!IMPORTANT]
-
-    > <span data-ttu-id="24c2f-177">有一个已知的问题，此问题会影响在强制实施 MFA 后你使用委派的管理权限来连接到 Exchange Online PowerShell。</span><span class="sxs-lookup"><span data-stu-id="24c2f-177">There is a known issue, that impacts your ability to leverage delegated administrative privileges to connect to Exchange Online PowerShell when MFA is enforced.</span></span> <span data-ttu-id="24c2f-178">请参阅 [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) 以了解详细信息。</span><span class="sxs-lookup"><span data-stu-id="24c2f-178">See [Exchange Online PowerShell](../partner-security-requirements.md#exchange-online-powershell) for more information.</span></span>
-
-
-    <span data-ttu-id="24c2f-179">启用“最终用户保护”基线策略后，所有用户在登录时都将获得全新体验。</span><span class="sxs-lookup"><span data-stu-id="24c2f-179">Once you have enabled the *End user protection* baseline policy, all users will encounter a new experience when they sign-in.</span></span> <span data-ttu-id="24c2f-180">下图显示了用户将获得的体验</span><span class="sxs-lookup"><span data-stu-id="24c2f-180">The following figures are what users will experience</span></span>
+    启用“最终用户保护”基线策略后，所有用户在登录时都将获得全新体验。 下图显示了用户将获得的体验
 
       ![提示需要更多信息](../images/security/baseline-require-more-info.png)
 
@@ -157,4 +147,4 @@ items:
 
       ![已通过其他安全验证](../images/security/baseline-security-verification-confirmed.png)
 
-    <span data-ttu-id="24c2f-186">用户完成上述步骤后，才能登录到他们尝试访问的 Microsoft 云服务。</span><span class="sxs-lookup"><span data-stu-id="24c2f-186">After the user has completed the above, they will be able to sign-in to the Microsoft cloud service they were attempting to access.</span></span> <span data-ttu-id="24c2f-187">请注意，在合作伙伴安全要求强制实施之前，系统将仅基于风险提示未被“对管理员要求 MFA”基线策略涵盖的用户进行 MFA。</span><span class="sxs-lookup"><span data-stu-id="24c2f-187">Note until the partner security requirements are enforced, users who are not covered by the *Require MFA for admins* baseline policy will only be prompted for MFA based on risk.</span></span>
+    用户完成上述步骤后，才能登录到他们尝试访问的 Microsoft 云服务。 请注意，在合作伙伴安全要求强制实施之前，系统将仅基于风险提示未被“对管理员要求 MFA”基线策略涵盖的用户进行 MFA。
