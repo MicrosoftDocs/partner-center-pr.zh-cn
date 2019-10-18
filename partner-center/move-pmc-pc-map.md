@@ -7,18 +7,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: d25ec40acd22e2baae577b250d2924b2c9b1e6e0
-ms.sourcegitcommit: f5bc798e472d8c8f8c872c97f7ac80f9f65a7de3
-ms.translationtype: HT
+ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
+ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "70259920"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "70921478"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心
 
 为了让你能够轻松地与我们开展业务，我们建立了一个网站（合作伙伴中心），方便大家参与。 你会发现，在 Partner Membership Center (PMC) 中做的事情都能够在合作伙伴中心的仪表板中完成。 
 
-你还可以执行更多操作，全都不需离开这个网站即可完成。 不过，部分术语和功能看起来可能有所不同。 为了消除一开始不知道相关内容的位置和功能的疑虑，不妨在仪表板中浏览一下网站内容。
+你还可以执行更多操作，全都不需离开这个网站即可完成。 不过，部分术语和功能看起来可能有所不同。 若要减轻有关的位置和内容的任何初始顾虑，请务必转到仪表板的网站漫游。
 
 下表呈现了 PMC 与合作伙伴中心的一些差异。
 
@@ -63,7 +63,7 @@ ms.locfileid: "70259920"
 
 |**PMC**   |**合作伙伴中心**   |
 |-------------------------|:-------------------|
-|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”   。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University  。
+|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 权益和 MSA
 

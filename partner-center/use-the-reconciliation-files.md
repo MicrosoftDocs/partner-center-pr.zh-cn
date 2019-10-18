@@ -2,17 +2,17 @@
 title: 使用对帐文件 | 合作伙伴中心
 ms.topic: article
 ms.date: 07/08/2019
-description: 若要详细了解计费周期中的每个费用, 请从合作伙伴中心下载协调文件。
+description: 若要详细了解计费周期中的每个费用，请从合作伙伴中心下载协调文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fae84790aa84b3c5a006d65a632668a33ac24a7
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
+ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820564"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "71931579"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -22,27 +22,27 @@ ms.locfileid: "68820564"
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
-若要详细了解计费周期中的每个费用, 请从合作伙伴中心下载协调文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
+若要详细了解计费周期中的每个费用，请从合作伙伴中心下载协调文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
 
 ## <a name="formatting-issues"></a>格式化问题
 
-有时, 侦测文件可能会出现格式问题。 (例如, 如果不使用 EN-US 区域设置, 则可能会发生这种情况。)请按照以下步骤来解决这些问题。 
+有时，侦测文件可能会出现格式问题。 （例如，如果不使用 EN-US 区域设置，则可能会发生这种情况。）请按照以下步骤来解决这些问题。 
 
 <ol>
-<li>在 Excel 中打开 .csv 文件, 然后选择第一列。 在功能区上, 选择 "<strong>数据</strong>", 然后选择 "<strong>文本到列</strong>"。</li>
+<li>在 Excel 中打开 .csv 文件，然后选择第一列。 在功能区上，选择 "<strong>数据</strong>"，然后选择 "<strong>文本到列</strong>"。</li>
 
-<li>在 "将文本转换为列" 向导中, 选择 "<strong>分隔文件类型</strong>", 然后选择 "<strong>下一步</strong>"。</li> 
+<li>在 "将文本转换为列" 向导中，选择 "<strong>分隔文件类型</strong>"，然后选择 "<strong>下一步</strong>"。</li> 
 
-<li>在分隔符字段中, 选择 "<strong>逗号</strong>"。 如果已选择<strong>"选项卡</strong>", 则可以保留它。 选择“<strong>下一步</strong>”。</li>
+<li>在分隔符字段中，选择 "<strong>逗号</strong>"。 如果已选择<strong>"选项卡</strong>"，则可以保留它。 选择<strong>下一步</strong> 。</li>
 
-<li>在 "列数据格式" 字段中<strong>, 选择 Date:MDY</strong>, 然后选择 "<strong>下一步</strong>"。</li> 
+<li>在 "列数据格式" 字段中，选择<strong>Date： MDY</strong>，然后选择 "<strong>下一步</strong>"。</li> 
 
-<li>在 "列数据格式" 字段中, 为 "所有数量" 列选择 "<strong>文本</strong>", 然后选择 "<strong>完成</strong>"。</li>
+<li>在 "列数据格式" 字段中，为 "所有数量" 列选择 "<strong>文本</strong>"，然后选择 "<strong>完成</strong>"。</li>
 </ol>
 
 ## <a name="downloading-a-large-recon-file"></a>下载大型侦测文件
 
-侦测文件可能会变得非常大, 有时很难下载。 有关用于帮助下载大型侦测文件的 PowerShell 脚本, 请参阅[获取发票行项](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items)。
+侦测文件可能会变得非常大，有时很难下载。 有关用于帮助下载大型侦测文件的 PowerShell 脚本，请参阅[获取发票行项](https://docs.microsoft.com/partner-center/develop/get-invoiceline-items)。
 
 ## <a href="" id="itemizebypartner"></a>按合作伙伴列举
 
@@ -69,7 +69,7 @@ ms.locfileid: "68820564"
 <td>经销商 MPN ID</td>
 <td><p>仅显示在间接模型中合作伙伴的对帐文件上。</p>
 <p>订阅记录的经销商 MPN ID。 这对应于针对合作伙伴中心中的特定订阅所列的经销商 ID。</p>
-<p>eTo 查看或更新经销商, 从合作伙伴中心菜单中选择 "<strong>客户</strong>", 然后从列表中选择客户。 在客户菜单中，选择“订阅”，然后从列表中选择订阅。 选择“更新”以更改“经销商 (MPN ID)”。</p>
+<p>eTo 查看或更新经销商，从合作伙伴中心菜单中选择 "<strong>客户</strong>"，然后从列表中选择客户。 在“客户”菜单中，选择“订阅”，然后从列表中选择订阅。 选择“更新”以更改“经销商 (MPN ID)”。</p>
 <p>如果云解决方案提供商合作伙伴将订阅直接销售给客户，他们的 MPN ID 会列出两次，即 MPN ID 和经销商 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴的经销商没有 MPN ID，此值将设置为合作伙伴的 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴删除经销商 ID，此值将设置为 -1。</p></td>
@@ -93,7 +93,7 @@ ms.locfileid: "68820564"
 <tbody>
 <tr class="odd">
 <td><strong>该列</strong></td>
-<td><strong>说明</strong></td>
+<td><strong>描述</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -126,13 +126,13 @@ ms.locfileid: "68820564"
 <tr class="odd">
 <td>OfferID</td>
 <td><p>唯一的产品/服务 ID。 根据价目表的标准产品/服务 ID。</p>
-<p><b>注意</b>：此值与价目表中的产品 ID 不匹配。 请参阅下方的 DurableOfferID。</p></td>
+<p><b>注意</b>：此值与价目表中的产品/服务 ID 不匹配。 请参阅下方的 DurableOfferID。</p></td>
 <td>FE616D64-E9A8-40EF-843F-152E9BBEF3D1</td>
 </tr>
 <tr class="even">
 <td>DurableOfferID</td>
-<td><p>唯一的持久型产品 ID，如价目表中所定义。</p>
-<p><b>注意</b>：此值与价目表中的产品 ID 匹配。</p></td>
+<td><p>唯一的持久型产品/服务 ID，如价目表中所定义。</p>
+<p><b>注意</b>：此值与价目表中的产品/服务 ID 匹配。</p></td>
 <td>1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C</td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ ms.locfileid: "68820564"
 </tr>
 <tr class="odd">
 <td>SubscriptionEndDate</td>
-<td><p>订阅结束日期:12个月 + 开始日期之后的 x 天 (与合作伙伴计费日期相同) 或从续订日期起的12个月。</p>
+<td><p>订阅结束日期：12 个月 + 开始日期之后的 x 天（以便与合作伙伴帐单日期一致）或从续订日期算起的 12 个月。</p>
 <p>续订时，价格将更新为当前价目表。 自动续订之前可能需要与客户进行通信。</p>
 <p>时间始终是一天的开始，即 0:00。</p></td>
 <td>2/1/2015 0:00</td>
@@ -208,7 +208,7 @@ ms.locfileid: "68820564"
 <td>11</td>
 </tr>
 <tr class="even">
-<td>Currency</td>
+<td>货币</td>
 <td><p>货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。</p></td>
 <td>EUR</td>
 </tr>
@@ -224,12 +224,12 @@ ms.locfileid: "68820564"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>订阅的记录经销商的 MPN ID。 请参阅<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">由合作伙伴列出明细</a>。</p></td>
+<td><p>订阅记录的经销商 MPN ID。 请参阅<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">由合作伙伴列出明细</a>。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>DomainName</td>
-<td><p>客户&#39;的域名, 用于帮助确定客户身份。 这不应用于唯一地标识客户, 因为客户/合作伙伴可以通过 O365 门户更新虚/默认域。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>客户&#39;的域名，用于帮助确定客户身份。 这不应用于唯一地标识客户，因为客户/合作伙伴可以通过 O365 门户更新虚/默认域。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@ ms.locfileid: "68820564"
 <tbody>
 <tr class="odd">
 <td><strong>该列</strong></td>
-<td><strong>说明</strong></td>
+<td><strong>描述</strong></td>
 <td><strong>示例值</strong></td>
 </tr>
 <tr class="even">
@@ -292,12 +292,12 @@ ms.locfileid: "68820564"
 </tr>
 <tr class="odd">
 <td>ResellerMPNID</td>
-<td><p>订阅的记录经销商的 MPN ID。 请参阅<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">由合作伙伴列出明细</a>。</p></td>
+<td><p>订阅记录的经销商 MPN ID。 请参阅<a href="#itemizebypartner" data-raw-source="[Itemize by partner](#itemizebypartner)">由合作伙伴列出明细</a>。</p></td>
 <td>4390934</td>
 </tr>
 <tr class="even">
 <td>InvoiceNumber</td>
-<td><p>显示执行交易所在的发票号码。</p></td>
+<td><p>显示指定交易所在的发票号码。</p></td>
 <td>D020001IVK</td>
 </tr>
 <tr class="odd">
@@ -412,7 +412,7 @@ ms.locfileid: "68820564"
 <td>$0.93</td>
 </tr>
 <tr class="odd">
-<td>Currency</td>
+<td>货币</td>
 <td><p>货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。</p></td>
 <td>EUR</td>
 </tr>
@@ -464,7 +464,7 @@ ms.locfileid: "68820564"
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>已预配并且已在指定日利用的服务总线连接数。</p></td>
-<td>例如：如果你在一个月 30 天内有单独的已预配连接，则服务信息 1 将读取“1.000000 连接/ 30 天”。 如果你预配了25个 2: 1/2 pack 连接, 并且在该天内使用了 1, 则该天的每日使用声明将显示 "25 个连接/30 天-使用:1.000000 "。</td>
+<td>例如：如果你在一个月 30 天内有单独的已预配连接，则服务信息 1 将读取“1.000000 连接/ 30 天”。 如果你有已预配服务总线连接的 25 个包，并且在那一天利用了 1 个，则这一天的每日使用情况声明将指示“25 连接/ 30 天 – 已使用：1.000000”。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -473,7 +473,7 @@ ms.locfileid: "68820564"
 </tr>
 <tr class="odd">
 <td>DomainName</td>
-<td><p>客户&#39;的域名, 用于帮助确定客户身份。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>客户&#39;的域名，用于帮助确定客户身份。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 <td>example.onmicrosoft.com</td></tr>
 </tr>
 <tr class="even">
@@ -499,15 +499,14 @@ ms.locfileid: "68820564"
 </thead>
 <tbody>
 
-
 <tr class="odd">
 <td>PartnerId</td>
-<td><p>特定计费实体的唯一 Microsoft Azure Active Directory 租户标识符, 采用 GUID 格式。 对帐不需要，但可能是有用的信息。 在所有行中均相同。</p></td>
+<td><p>特定计费实体的唯一 Microsoft Azure Active Directory 租户标识符，采用 GUID 格式。 对帐不需要，但可能是有用的信息。 在所有行中均相同。</p></td>
 </tr>
 
 <tr class="even">
 <td>客户 Id</td>
-<td><p>用于标识客户的唯一 Microsoft Azure Active Directory 租户 ID, 采用 GUID 格式。</p></td>
+<td><p>用于标识客户的唯一 Microsoft Azure Active Directory 租户 ID，采用 GUID 格式。</p></td>
 </tr>
 
 <tr class="odd">
@@ -517,7 +516,7 @@ ms.locfileid: "68820564"
 
 <tr class="even">
 <td>CustomerDomainName</td>
-<td><p>客户的域名，用于帮助识别客户。 这不应用于唯一地标识客户, 因为客户/合作伙伴可以通过 O365 门户更新虚/默认域。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
+<td><p>客户的域名，用于帮助识别客户。 这不应用于唯一地标识客户，因为客户/合作伙伴可以通过 O365 门户更新虚/默认域。 该字段在第二个计费周期之前可能会显示为空白。</p></td>
 </tr>
 
 <tr class="odd">
@@ -527,7 +526,7 @@ ms.locfileid: "68820564"
 
 <tr class="even">
 <td>发票编号</td>
-<td><p>显示执行交易所在的发票号码。</p></td>
+<td><p>显示指定交易所在的发票号码。</p></td>
 </tr>
 
 <tr class="odd">
@@ -537,7 +536,7 @@ ms.locfileid: "68820564"
 
 <tr class="even">
 <td>经销商 MpnId</td>
-<td><p>订阅的记录经销商的 MPN ID。</p></td>
+<td><p>订阅记录的经销商 MPN ID。</p></td>
 </tr>
 
 <tr class="odd">
@@ -607,7 +606,7 @@ ms.locfileid: "68820564"
 
 <tr class="even">
 <td>术语和 Billingcycle</td>
-<td><p>采购的术语长度和计费周期。 例如, "1 年, 每月"。</p></td>
+<td><p>采购的术语长度和计费周期。 例如，"1 年，每月"。</p></td>
 </tr>
 
 <tr class="odd">
@@ -656,7 +655,7 @@ ms.locfileid: "68820564"
 </tr>
 
 <tr class="even">
-<td>Currency</td>
+<td>货币</td>
 <td><p>货币类型。 每个计费单位仅使用一种货币。 检查它是否匹配你的第一张发票，然后检查在任何主要的帐单平台更新后是否匹配。</p></td>
 </tr>
 
@@ -664,6 +663,12 @@ ms.locfileid: "68820564"
 <td>AlternateID</td>
 <td><p>订单 ID 的备用标识符。</p></td>
 </tr>
+
+<tr class="even">
+<td>BillingFrequency</td>
+<td><p> 启用每月计费时显示每月。 否则为空白。 </p></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -721,12 +726,12 @@ ms.locfileid: "68820564"
 
 <tr class="even">
 <td>经销商 MPNID</td>
-<td><p>订阅的记录经销商的 MPN ID。 对当前活动不可用。</p></td>
+<td><p>订阅记录的经销商 MPN ID。 对当前活动不可用。</p></td>
 </tr>
 
 <tr class="odd">
 <td>InvoiceNumber</td>
-<td><p>显示执行交易所在的发票号码。 对当前活动不可用。</p></td>
+<td><p>显示指定交易所在的发票号码。 对当前活动不可用。</p></td>
 </tr>
 
 <tr class="even">
@@ -916,7 +921,7 @@ ms.locfileid: "68820564"
 <p><strong>发票费用说明</strong></p>
 </td>
 <td>
-<p><strong>对帐文件费用说明 (ChargeType 列)</strong></p>
+<p><strong>对帐文件费用说明（ChargeType 列）</strong></p>
 </td>
 <td>
 <p><strong>此费用是什么？</strong></p>
@@ -1021,7 +1026,7 @@ ms.locfileid: "68820564"
 
 </td>
 <td>
-<p>新增</p>
+<p>新</p>
 </td>
 <td>
 <p>创建新购买时使用</p>
@@ -1052,7 +1057,7 @@ ms.locfileid: "68820564"
 </tr>
 <tr>
 <td>
-<p>Cancel</p>
+<p>“取消”</p>
 </td>
 <td>
 <p>取消订阅时使用</p>
@@ -1065,7 +1070,7 @@ ms.locfileid: "68820564"
 <p>转换</p>
 </td>
 <td>
-<p>升级许可证时使用, 但座位数保持不变</p>
+<p>升级许可证时使用，但座位数保持不变</p>
 </td>
 </tr>
 
@@ -1168,7 +1173,7 @@ ms.locfileid: "68820564"
 </td>
 <td>
 <p><em>可应用于多种费用类型</em></p>
-<p><em>异常：&quot;偏移行项&quot;已包含税金。请参阅上面的信用额度。</em></p>
+<p><em>异常：行项 &quot;Offset &quot; 已包含税金。请参阅上面的信用额度。</em></p>
 </td>
 <td>
 <p>税款或增值税 (VAT)</p>
