@@ -1,18 +1,18 @@
 ---
 title: 访问奖励付款页面 |合作伙伴中心
 ms.topic: article
-ms.date: 09/19/19
+ms.date: 10/17/2019
 description: 了解你的支出信息
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 奖励，支出
 ms.localizationpriority: medium
-ms.openlocfilehash: b2cf78be2a15db74e1f68224076f43872f997466
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-ms.translationtype: HT
+ms.openlocfilehash: 97d43b2d42ace1c4ef289efbfb6ff34df53cba20
+ms.sourcegitcommit: ccb08d947ab6b488d02f9bcbb6c550b0d5f0de9f
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425118"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "72584246"
 ---
 # <a name="access-your-incentives-payouts-page"></a>访问奖励付款页
 
@@ -22,4 +22,4 @@ ms.locfileid: "72425118"
 
 - 对于 Microsoft 合作伙伴网络（MPN）激励付款，请参阅 MPN 激励文档中的[查看激励付款信息](understand-incentive-payouts.md)。
 
-- 有关适用于独立软件供应商（Isv）的商业 Marketplace 支付，请参阅付费。
+- 即将添加有关适用于独立软件供应商（Isv）的商业市场费用的信息。
