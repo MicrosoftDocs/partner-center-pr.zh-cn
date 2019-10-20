@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴安全要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/25/2019
 description: 了解对参与云解决方案提供商计划的顾问和合作伙伴的安全要求。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
-ms.localizationpriority: medium
-ms.openlocfilehash: c95ec38f928ca4032ffecebaf25f23e87d10c079
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: ea155cf760850def85146d8c4e7e847fab5d7213
+ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215651"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "71318480"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴安全要求
 
@@ -136,15 +136,15 @@ ms.locfileid: "70215651"
 
 启用“对管理员要求 MFA”策略以后，以上九种管理员角色就必须使用 Authenticator 应用注册 MFA。 完成 MFA 注册以后，管理员在每次登录时都需要执行 MFA。
 
-如果组织在脚本或代码中使用这些帐户，请考虑将其替换为 [托管标识](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
+如果组织在脚本或代码中使用这些帐户，请考虑将其替换为[托管标识](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
 
 若要启用此策略并保护管理员，请执行以下操作：
 
-1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户** 。
+1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户**。
 2. 浏览到“Azure Active Directory”   >   “条件访问”。
 3. 在策略列表中，选择“基线策略:  对管理员要求 MFA”。
 4. 将“启用策略”设置为“立即使用策略”。  
-5. 单击“保存”。 ****
+5. 单击 **“保存”** 。
 
 > [!WARNING]
 > 在启用此策略之前，请确保用户使用的不是旧版身份验证协议。 实施此策略以后，系统会阻止旧版身份验证。
@@ -160,11 +160,11 @@ ms.locfileid: "70215651"
 
 若要启用此策略并保护用户，请执行以下操作：
 
-1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户**。
+1. 以全局管理员、安全管理员或条件访问管理员身份登录到 **Azure 门户**。
 2. 浏览到“Azure Active Directory”   >   “条件访问”。
 3. 在策略列表中，选择“基线策略:  最终用户保护(预览)”。
 4. 将“启用策略”设置为“立即使用策略”。  
-5. 单击“保存”。 ****
+5. 单击 **“保存”** 。
 
 > [!WARNING]
 > 在启用此策略之前，请确保用户使用的不是旧版身份验证协议。 实施此策略以后，系统会阻止旧版身份验证。

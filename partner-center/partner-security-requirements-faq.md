@@ -1,18 +1,18 @@
 ---
 title: 合作伙伴安全要求常见问题解答 | 合作伙伴中心
 ms.topic: article
-ms.date: 08/30/2019
+ms.date: 09/27/2019
 description: 关于合作伙伴安全要求的常见问题解答
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
-ms.localizationpriority: medium
-ms.openlocfilehash: 353e38853edb29d9fdea6692db34a239a31b2382
-ms.sourcegitcommit: de3cdc792b6b4bbc64d1288d371623d79d535205
+ms.localizationpriority: high
+ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
+ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "70215653"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "71678306"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -145,6 +145,9 @@ Microsoft 允许用户实施[对管理员要求 MFA](https://docs.microsoft.com/
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>如果已经有了 MFA 解决方案，我需要采取什么措施？
 
 根据这些安全要求，合作伙伴租户中的用户在访问 Microsoft 商业云服务时必须使用 MFA 进行身份验证。 可以使用第三方解决方案来履行这些要求。 Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Directory 的验证测试。 若要测试产品的互操作性，请参阅这些[准则](https://www.microsoft.com/download/details.aspx?id=56843)。
+
+> [!IMPORTANT]
+> 如果使用的是第三方解决方案，请务必验证该解决方案是否会发出包含 MFA 值的身份验证方法引用 (AMR) 声明。 若要详细了解如何验证第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。
 
 ### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>我可以使用什么验证方法进行 MFA？
 
@@ -314,6 +317,18 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>作为 CPV，我是否可以利用“仅应用”身份验证模式来获取访问令牌？
 
 否，控制面板供应商合作伙伴不能利用“仅应用”身份验证模式代表合作伙伴来请求访问令牌。 他们应该实现安全应用程序模型，以便利用“应用 + 用户”身份验证模式。
+
+## <a name="enforcement"></a>强制
+
+### <a name="i-am-using-a-third-party-mfa-solution-and-i-am-being-blocked-what-should-i-do"></a>我使用的是第三方 MFA 解决方案，但我遭到阻止，该怎么办？
+
+若要验证访问资源的帐户是否已受到多重身份验证的质询，我们需要检查[身份验证方法引用](https://tools.ietf.org/html/rfc8176)声明，以查看其中是否列出了 MFA。 某些第三方解决方案不会发出此声明，或者不包含 MFA 值。 如果缺少该声明或者未列出 MFA 值，则无法确定身份验证的帐户是否受到了多重身份验证的质询。 需要咨询第三方解决方案的供应商，以确定需要采取哪些措施来使解决方案发出身份验证方法引用声明。
+
+如果你不确定自己的第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)。
+
+### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 为客户提供支持，该怎么办？
+
+合作伙伴安全要求的技术实施将会检查身份验证的帐户是否已受到多重身份验证的质询。 如果该帐户未受到质询，则你将重定向到登录页，并且系统会再次提示身份验证。 如果你的域不是联合域，则成功完成身份验证后，系统会提示你设置多重身份验证。 设置完成后，便可以使用 AOBO 对客户进行管理。 如果你的域是联合域，则需要确保帐户受到多重身份验证的质询。
 
 ## <a name="key-resources"></a>重要资源
 
