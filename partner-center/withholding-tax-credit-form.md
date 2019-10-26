@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 预缴税金信用，税收信用，德语税信用额度，形式纳税信用
 ms.localizationpriority: medium
-ms.openlocfilehash: e386bc2eda01cef16173569f4b5288c4bba2d02a
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
+ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921467"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "72892410"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>请确保已为预缴税金贷记
 
@@ -46,15 +46,20 @@ ms.locfileid: "70921467"
 ### <a name="how-to-submit-the-tax-credit-form-and-the-certificates"></a>如何提交税务信用表和证书
 
 1. 在合作伙伴中心的仪表板的 uppor 右角选择**问号** **（？）** 。
-2. 选择 "**合作伙伴支持请求**"。
-3. 选择 "**新建请求**"，然后在 "**详细信息**" 下，选择 "帮助"，选择**合作伙伴发票、付款或对帐文件。**
+
+2. 选择**CSP**。
+
+3. 在 " **CSP –计费和付款**" 下，选择 "问题类型-**预缴税金**" 并选择 **"是"** 。 
+
 4. 提交服务请求时，请确保附加税务信用表和税务证书的数字副本。
+
 5. 如果你通过英语服务请求提交非英语税务证书，则需要对税务证书进行翻译。
+
 6. 我们将直接通过电子邮件或电话联系你。
 
 使用**发票支付付款方式**，成功接收并验证税务证书后，发票上的剩余余额大约为一周。 
 
-税务证书仅适用于 Microsoft 发票。 如果有其他公司包含这些证书，请指定此数量，以便我们可以在内部处理中排除该数量，但仍能完全查看证书总数包括的内容。 
+税务证书仅适用于 Microsoft 发票。 如果证书中包含其他公司，请指定数量，以便我们可以在内部处理中排除它，但仍能完全了解证书总数。 
 
 ## <a name="instructions-for-completing-the-withholding-tax-credit-form-for-germany"></a>为德国完成预缴税金信用表的说明
 
