@@ -37,7 +37,7 @@
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
 ## [确认客户接受 Microsoft 云协议](confirm-consent.md)
-## [确认客户接受 Microsoft 客户协议（预览版）](confirm-customer-agreement.md)
+## [确认客户接受 Microsoft 客户协议(confirm-customer-agreement.md)
 
 ## [适用于在国家/地区云中销售](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
