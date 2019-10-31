@@ -1,101 +1,95 @@
 ---
-title: 在合作伙伴中心提交 OSA 声明 |合作伙伴中心
+title: 使用 CPOR 模型创建客户关联 |合作伙伴中心
 ms.topic: article
-ms.date: 10/04/2019
-description: 提交 OSA 销售费用声明或 ISV 收入关联声明
+ms.date: 10/29/2019
+description: 使用 CPOR 模型创建客户关联
 author: LauraBrenner
 ms.author: labrenne
-keywords: 奖励理赔，合作索赔，合作基金，OSA，ISV，收入关联
+keywords: 奖励理赔，合作索赔，合作基金，OSU，OSA，ISV，收入关联
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425173"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083870"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a>在合作伙伴中心提交 OSA 申请
-
 **适用于**
 
 -  合作伙伴中心
 
-作为 OSA 合作伙伴或 Dynamics ISV，你可以在合作伙伴中心提交声明。 
+# <a name="create-a-customer-association-using-the-cpor-model"></a>使用 CPOR 模型创建客户关联
 
-创建和提交声明之前，需要满足以下要求： 
--   **在 Microsoft 合作伙伴网络中注册**，并具有有效的 MPN 协议。 若要在 Microsoft 合作伙伴网络中注册，请访问合作伙伴站点。 
--   **成为经过认证的 Microsoft dynamics software advisor** ，具有活动的 Microsoft Dynamics 认证软件顾问协议（CSA）。 
--   在合作伙伴中心输入**银行和税务信息**。 
--   **满足 OSA 销售资格认证和收入需求**。 （有关详细信息，请参阅 aka.ms/partnerincentives 上的 OSA 部分下的 OSA 销售指南。）此功能不适用于仅查找收入关联的 Isv。 
+2019年10月1日，Microsoft 开始使用 "申报记录合作伙伴（CPOR）" 模型来管理与你的 Microsoft 365 和 Dynamics 365 客户相关的关联，与在线服务顾问（OSA）销售、在线服务使用（OSU）相关Microsoft 365 和 OSU-业务应用程序奖励。
 
-## <a name="submitting-your-claim"></a>提交你的声明
+提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
 
-你将从交易日期起90天后提交你的声明。 如果在交易后提交申报超过90天，则不会从该销售获得销售激励。 
+你将需要以下信息来完成声明：
 
-如果你是 ISV 合作伙伴并且你的解决方案有助于影响客户选择 Microsoft Dynamics 365 解决方案，则还有资格申报收入关联。   
+- 构成声明的实体的**MPN ID**
 
-## <a name="payment-schedule"></a>支付计划
+- 客户的**域名**[查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-在收入期结束后45天内，你将收到批准的奖励报销申请的款项。 你在收入期限结束后的90天内对付款进行争议。 有关付款计算和方法的信息，请参阅 aka.ms/partnerincentives 上 OSA 部分下的 OSA 销售指南。
+- 客户的**目录 id**或**租户 id** [查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-## <a name="maintaining-your-program-eligibility"></a>维护您的程序资格
+- **解决方案区域**，如 Business Applications 或 Microsoft 365
 
-Microsoft 将每月为在线服务顾问销售奖励，销售激励、计算和付款。 必须满足特定的资格标准，Microsoft 才能批准和发布激励付款。 有关详细信息，请参阅 aka.ms/partnerincentives 上 OSA 部分下的 OSA 销售指南。
+- 已执行的**活动**和要进行的声明的类型，例如售前、使用情况或收入关联
 
-## <a name="submit-an-osa-sell-fee-claim"></a>提交 OSA 销售费用声明
+- 你的客户的**联系人姓名**、标题和电子邮件地址
 
-完成以下步骤以在合作伙伴中心提交激励声明。  
+- 对于 Dynamics 365，还需要提供客户的**技术联系人**姓名、职务和电子邮件地址
+
+- 自己公司的**联系人姓名**和电子邮件地址
+
+- 你将为此声明创建**名称**
+
+- 你所申报的**产品**或工作负荷
+
+- **执行证明（POE）** ，如客户签署的工作声明。 你还可以下载要使用的 POE 模板。
+
+- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**。 
+
+还应了解以下要点：
+- 如果现有 Microsoft 365 客户，则需使用此过程重新与想要继续获得 OSU 激励的用户进行关联。
+- 如果现有与 Dynamics 365 或 Power BI 客户的关联，则这些关联将保持有效，直到其订阅过期。
+- 一个客户可以有多个合作伙伴，但是每个工作负荷（对于 Microsoft 365 OSU）或订阅（对于 OSA 销售和 Business Applications OSU）只能与一个合作伙伴关联。
+
+## <a name="create-a-customer-association"></a>创建客户关联
+1.  在 "合作伙伴中心" 仪表板中的 "**激励**" 下，选择 "**概述**"，然后选择 "**客户关联**"。 
+
+2.  在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
+
+3.  选择要与客户关联的合作伙伴位置的**MPN id** ，然后添加客户的域名和目录 ID。 [它们位于何处？](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+
+选择**继续**。
+
+4.  选择**解决方案区域**和**活动**。 
+
+>[!Note]
+
+>如果选择 "Business Applications"，请选择 "**使用情况" 和/或 "提前销售**" 或 "**收入关联**"，然后选择 "**继续**"。 
+
+>如果选择 "收入关联"，系统将提示你输入与下面所列信息稍有不同的信息。 
+
+5.  在 "**关联客户**" 页上输入相应信息，然后选择 "**创建声明**"。
+
+6.  选择与此客户关联关联的产品，然后选择 "**继续**"。
+
+7.  填写客户联系信息和你公司的联系信息。 所有字段均为必填字段。 
+
+>[!Note]
+
+如果你的产品是 Dynamics 365，并且你选择的产品有多个订阅用于此特定客户，则还需要输入订阅 ID。
+
+8.  提供执行证明（POE）。 您可以将其拖到 "" 框，浏览到自己的支持文档，或通过选择 "**下载模板**" 来使用模板。 
+
+9.  根据需要添加并保存注释，然后选择 "**提交声明**"。 我们将向客户发送一封电子邮件，请求你的客户协会批准。 
 
 >[!NOTE]
 
->如果你的公司有多个位置，请确保使用与你的客户位于同一地理区域的 office 的 MPN ID。 
+>提交客户关联后，不能对其进行编辑。 
 
-1.  在 "概述" 页上的 "**所有激励计划**" 下，选择 " **OSA**"。
+"**状态**" 字段中将显示客户关联的状态。 
 
-2.  在 "OSA" 页上，选择 "**声明 ...** "，然后选择 "**激励费**"。
-
-3.  输入客户的域名和目录 ID，然后选择 "**继续**"。 
-
-4.  选择客户购买的产品，然后选择 "**继续**"。 
-
-5.  选择要与此声明关联的订阅，然后选择 "**继续**"。
-
->[!NOTE]
-
->选择订阅之前，请确认名称和地理区域都是正确的。 
-
->与其他联机服务顾问关联的订阅用黄色三角形标记。 你仍可以选择将其与它们相关联。 
-
->不能再次关联已与你的公司关联的订阅。  
-
-6.  输入客户和公司的联系信息，为声明命名，然后选择 "**创建声明**"。 
-
-7.  在 "订阅" 页上，将执行证明（POE）文档上传到 "**执行证明**" 框。 您可以使用 POE 模板或预销售进程中的 POE 文档。 
-
-8.  选择 "**提交声明**"。    
-
-可以在 "订阅" 页的 "状态" 框中查看声明的状态。 如果需要其他信息，也会收到通知。
-
-若要查看你的收入和付款数据，请参阅付款和报告。 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a>提交 ISV 收入关联声明
-
-1.  在 "概述" 页上的 "**所有激励计划**" 下，选择 " **OSA**"。
-
-2.  在 "OSA" 页上，选择 "**声明 ...** "，然后选择 " **ISV 收入协会**"。
-
-3.  输入客户的域名和目录 ID，选择客户购买的产品或产品，然后选择 "**继续**"。 
-
-4.  选择要与此声明关联的订阅，然后选择 "**继续**"。
-
->[!NOTE]
-
->选择订阅之前，请确认名称和地理区域都是正确的。 
-
->不能再次关联已与你的公司关联的订阅。  
-
-5.  输入**Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**的信息，然后输入声明的名称。 
-
-6.  选择 "**创建声明**"。 
-
-可以在 "订阅" 页的 "状态" 框中查看声明的状态。 如果需要其他信息，也会收到通知。
+选择 "**历史记录**" 以查看客户关联的历史记录。

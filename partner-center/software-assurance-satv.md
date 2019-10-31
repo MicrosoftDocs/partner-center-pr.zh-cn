@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 培训凭证, 软件保障, 培训, 注册 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 03fb0c9a9391bc3e5ebcf99cfd77aa7de8a74f51
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 0b5b91efea2814582e64e147cf3bf9f7c22bdd89
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425188"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142015"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心的软件保障培训凭证 (SATV) 计划
 
@@ -37,7 +37,7 @@ ms.locfileid: "72425188"
 
 ## <a name="confirm-program-eligibility"></a>确认计划资格
 
-在注册 SATV 计划之前，必须先履行 Microsoft 合作伙伴网络学习选项的要求，后者替代 Microsoft Learning 能力。 了解如何开始[学习选项](https://partner.microsoft.com/en-us/membership/learning-partners)。
+在注册 SATV 计划之前，必须先履行 Microsoft 合作伙伴网络学习选项的要求，后者替代 Microsoft Learning 能力。 了解如何开始[学习选项](https://partner.microsoft.com/membership/learning-partners)。
 
 可以在合作伙伴中心验证公司的资格，包括相应的能力和评估要求。 按照 SATV 工作流的[步骤 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)中的说明，了解更多详细信息和屏幕截图。
 

@@ -6,12 +6,12 @@ description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 58dd482f3fe9e9b02159c2900bb2c857ee967540
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: f69dc6239c1ad11821baac269903ad819901ac7e
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978761"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141956"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -59,7 +59,7 @@ ms.locfileid: "72978761"
 
 5.  验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-    a. 在合作伙伴中心[仪表板](https://partner.microsoft.com/en-us/dashboard/home**)中，选择 "**设置**" 图标，然后选择 "**用户管理**"。  
+    a. 在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home**)中，选择 "**设置**" 图标，然后选择 "**用户管理**"。  
 
     b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择“管理员代理”。 选择**更新**。  
 

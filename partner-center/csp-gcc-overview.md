@@ -2,17 +2,17 @@
 title: 出售适用于云解决方案提供商的 Office 365 政府版 GCC | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
-description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅。 Office 365 政府版用于 CSP 的 gcc 高级版是一套适用于美国政府和政府承包商的云生产力服务。
+description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅。 Office 365 政府版 GCC CSP 是为美国政府和政府承包商设计的一套云生产力服务。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f7187b0a35bae927dc991b4bd92506f902c53b95
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
+ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134833"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73168561"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
@@ -32,11 +32,9 @@ ms.locfileid: "62134833"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>出售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
-已批准你的公司销售后提供用于 CSP 的 Office 365 政府版 GCC 时，可以开始向客户使用合作伙伴中心销售。 请参阅这些资源来了解如何使用合作伙伴中心销售订阅： 
+在你的公司批准了销售 Office 365 政府版的 CSP 产品/服务后，你可以开始使用合作伙伴中心向客户进行销售。 请参阅以下资源，了解如何使用合作伙伴中心销售订阅： 
 
 -   有关销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅的分步指南，请转到[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。  
-
--   有关常见问题的解答，请转到[此处](https://o365pp.blob.core.windows.net/media/Resources/GCC/Office%20365%20Government%20GCC%20for%20CSP%20Partner%20FAQ.docx)
 
 
 ## <a name="additional-resources"></a>其他资源
@@ -45,7 +43,7 @@ ms.locfileid: "62134833"
 
 产品资源：
 
-- [Office 365 政府服务说明](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 政府版服务说明](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 信任中心](https://www.microsoft.com/TrustCenter/)
 - [Microsoft 服务信任门户](https://aka.ms/STP)

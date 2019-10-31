@@ -7,12 +7,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN，发票，地图，免税，VAT，VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b972aa9261d319c55d26abcc32e33af5546550a
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978774"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141999"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作伙伴网络中的发票和税款
 
@@ -26,7 +26,7 @@ ms.locfileid: "72978774"
 
 只有全局管理员或 MPN 合作伙伴管理员才能执行此过程。 
 
-1.  使用工作帐户登录到[合作伙伴中心](https://partner.microsoft.com/en-us/dashboard/home)，并在左侧菜单中选择 " **MPN** "。
+1.  使用工作帐户登录到[合作伙伴中心](https://partner.microsoft.com/dashboard/home)，并在左侧菜单中选择 " **MPN** "。
 
 4.  在下拉列表中，选择 "**成员资格**" "产品/服务" 以查看可供购买的产品/服务以及当前注册年份可用的发票。 若要查看前几年的发票，请选择 "**过期**"。
 
@@ -45,7 +45,7 @@ ms.locfileid: "72978774"
 
 ## <a name="send-microsoft-your-vat-id-number"></a>向 Microsoft 发送 VAT ID 号码
 
-1.  在合作伙伴中心[仪表板](https://partner.microsoft.com/en-us/dashboard/home)中，选择 "**成员资格**"，然后选择 "**可用**"。 
+1.  在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home)中，选择 "**成员资格**"，然后选择 "**可用**"。 
 
 2.  选择 "**添加 VAT ID**"。 
 
