@@ -1,101 +1,95 @@
 ---
-title: 在合作伙伴中心提交 OSA 声明 |合作伙伴中心
+title: 使用 CPOR 模型创建客户关联 |合作伙伴中心
 ms.topic: article
-ms.date: 10/04/2019
-description: 提交 OSA 销售费用声明或 ISV 收入关联声明
+ms.date: 10/29/2019
+description: 使用 CPOR 模型创建客户关联
 author: LauraBrenner
 ms.author: labrenne
-keywords: 奖励理赔，合作索赔，合作基金，OSA，ISV，收入关联
+keywords: 奖励理赔，合作索赔，合作基金，OSU，OSA，ISV，收入关联
 ms.localizationpriority: medium
-ms.openlocfilehash: b61b1da0a7faa3008996785dd092b2e1bae12b8e
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
+ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425173"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73083870"
 ---
-# <a name="submit-your-osa-claims-in-partner-center"></a><span data-ttu-id="60101-104">在合作伙伴中心提交 OSA 申请</span><span class="sxs-lookup"><span data-stu-id="60101-104">Submit your OSA claims in Partner Center</span></span>
+<span data-ttu-id="5def3-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="5def3-104">**Applies to**</span></span>
 
-<span data-ttu-id="60101-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="60101-105">**Applies to**</span></span>
+-  <span data-ttu-id="5def3-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="5def3-105">Partner Center</span></span>
 
--  <span data-ttu-id="60101-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="60101-106">Partner Center</span></span>
+# <a name="create-a-customer-association-using-the-cpor-model"></a><span data-ttu-id="5def3-106">使用 CPOR 模型创建客户关联</span><span class="sxs-lookup"><span data-stu-id="5def3-106">Create a customer association using the CPOR model</span></span>
 
-<span data-ttu-id="60101-107">作为 OSA 合作伙伴或 Dynamics ISV，你可以在合作伙伴中心提交声明。</span><span class="sxs-lookup"><span data-stu-id="60101-107">As an OSA partner or Dynamics ISV, you can submit your claims in Partner Center.</span></span> 
+<span data-ttu-id="5def3-107">2019年10月1日，Microsoft 开始使用 "申报记录合作伙伴（CPOR）" 模型来管理与你的 Microsoft 365 和 Dynamics 365 客户相关的关联，与在线服务顾问（OSA）销售、在线服务使用（OSU）相关Microsoft 365 和 OSU-业务应用程序奖励。</span><span class="sxs-lookup"><span data-stu-id="5def3-107">On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.</span></span>
 
-<span data-ttu-id="60101-108">创建和提交声明之前，需要满足以下要求：</span><span class="sxs-lookup"><span data-stu-id="60101-108">Before you can create and submit a claim, you’ll need to meet the following requirements:</span></span> 
--   <span data-ttu-id="60101-109">**在 Microsoft 合作伙伴网络中注册**，并具有有效的 MPN 协议。</span><span class="sxs-lookup"><span data-stu-id="60101-109">**Be enrolled in the Microsoft Partner Network**, and have an active MPN Agreement.</span></span> <span data-ttu-id="60101-110">若要在 Microsoft 合作伙伴网络中注册，请访问合作伙伴站点。</span><span class="sxs-lookup"><span data-stu-id="60101-110">To enroll in the Microsoft Partner Network, visit the partner site.</span></span> 
--   <span data-ttu-id="60101-111">**成为经过认证的 Microsoft dynamics software advisor** ，具有活动的 Microsoft Dynamics 认证软件顾问协议（CSA）。</span><span class="sxs-lookup"><span data-stu-id="60101-111">**Be a certified Microsoft Dynamics software advisor** with an active Microsoft Dynamics Certified Software Advisor Agreement (CSA).</span></span> 
--   <span data-ttu-id="60101-112">在合作伙伴中心输入**银行和税务信息**。</span><span class="sxs-lookup"><span data-stu-id="60101-112">**Have your bank and tax information** entered in Partner Center.</span></span> 
--   <span data-ttu-id="60101-113">**满足 OSA 销售资格认证和收入需求**。</span><span class="sxs-lookup"><span data-stu-id="60101-113">**Meet OSA Sell eligibility certification and revenue requirements**.</span></span> <span data-ttu-id="60101-114">（有关详细信息，请参阅 aka.ms/partnerincentives 上的 OSA 部分下的 OSA 销售指南。）此功能不适用于仅查找收入关联的 Isv。</span><span class="sxs-lookup"><span data-stu-id="60101-114">(For details, see the OSA Sell guide, located under the OSA section on aka.ms/partnerincentives.) This does not apply to ISVs seeking revenue association only.</span></span> 
+<span data-ttu-id="5def3-108">提交声明时，Microsoft 将对其进行验证。</span><span class="sxs-lookup"><span data-stu-id="5def3-108">When you submit your claim, Microsoft validates it.</span></span> <span data-ttu-id="5def3-109">此时，我们可能会要求你提供详细信息。</span><span class="sxs-lookup"><span data-stu-id="5def3-109">We may ask you for more information at this point.</span></span> <span data-ttu-id="5def3-110">我们还将通知客户你的关联请求。</span><span class="sxs-lookup"><span data-stu-id="5def3-110">We’ll also notify the customer of your association request.</span></span> <span data-ttu-id="5def3-111">客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。</span><span class="sxs-lookup"><span data-stu-id="5def3-111">Customers have five business days to opt out. If they don’t opt out, your association with this specific tenant and workload will be official.</span></span> <span data-ttu-id="5def3-112">此时，你将可以访问客户的使用情况数据。</span><span class="sxs-lookup"><span data-stu-id="5def3-112">At this point you’ll have access to the customer’s usage data.</span></span> 
 
-## <a name="submitting-your-claim"></a><span data-ttu-id="60101-115">提交你的声明</span><span class="sxs-lookup"><span data-stu-id="60101-115">Submitting your claim</span></span>
+<span data-ttu-id="5def3-113">你将需要以下信息来完成声明：</span><span class="sxs-lookup"><span data-stu-id="5def3-113">You’ll need the following information to complete a claim:</span></span>
 
-<span data-ttu-id="60101-116">你将从交易日期起90天后提交你的声明。</span><span class="sxs-lookup"><span data-stu-id="60101-116">You’ll have 90 days from the date of the transaction to submit your claim.</span></span> <span data-ttu-id="60101-117">如果在交易后提交申报超过90天，则不会从该销售获得销售激励。</span><span class="sxs-lookup"><span data-stu-id="60101-117">If you submit your claim more than 90 days after a transaction, you won’t earn the sell incentive from that sale.</span></span> 
+- <span data-ttu-id="5def3-114">构成声明的实体的**MPN ID**</span><span class="sxs-lookup"><span data-stu-id="5def3-114">The **MPN ID** for your entity that makes the claim</span></span>
 
-<span data-ttu-id="60101-118">如果你是 ISV 合作伙伴并且你的解决方案有助于影响客户选择 Microsoft Dynamics 365 解决方案，则还有资格申报收入关联。</span><span class="sxs-lookup"><span data-stu-id="60101-118">If you’re an ISV partner and your solutions helped influence the customer to choose a Microsoft Dynamics 365 solution, you’re also eligible to claim revenue association.</span></span>   
+- <span data-ttu-id="5def3-115">客户的**域名**[查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)</span><span class="sxs-lookup"><span data-stu-id="5def3-115">Customer’s **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)</span></span>
 
-## <a name="payment-schedule"></a><span data-ttu-id="60101-119">支付计划</span><span class="sxs-lookup"><span data-stu-id="60101-119">Payment schedule</span></span>
+- <span data-ttu-id="5def3-116">客户的**目录 id**或**租户 id** [查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)</span><span class="sxs-lookup"><span data-stu-id="5def3-116">Customer’s **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)</span></span>
 
-<span data-ttu-id="60101-120">在收入期结束后45天内，你将收到批准的奖励报销申请的款项。</span><span class="sxs-lookup"><span data-stu-id="60101-120">You’ll receive payment for approved incentives claims within 45 days after the end of the earning period.</span></span> <span data-ttu-id="60101-121">你在收入期限结束后的90天内对付款进行争议。</span><span class="sxs-lookup"><span data-stu-id="60101-121">You have 90 days after the end of the earning period to dispute a payment.</span></span> <span data-ttu-id="60101-122">有关付款计算和方法的信息，请参阅 aka.ms/partnerincentives 上 OSA 部分下的 OSA 销售指南。</span><span class="sxs-lookup"><span data-stu-id="60101-122">For information about payment calculations and methods, see the OSA Sell guide, located under the OSA section on aka.ms/partnerincentives.</span></span>
+- <span data-ttu-id="5def3-117">**解决方案区域**，如 Business Applications 或 Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="5def3-117">The **Solution area**, such as Business Applications or Microsoft 365</span></span>
 
-## <a name="maintaining-your-program-eligibility"></a><span data-ttu-id="60101-123">维护您的程序资格</span><span class="sxs-lookup"><span data-stu-id="60101-123">Maintaining your program eligibility</span></span>
+- <span data-ttu-id="5def3-118">已执行的**活动**和要进行的声明的类型，例如售前、使用情况或收入关联</span><span class="sxs-lookup"><span data-stu-id="5def3-118">The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association</span></span>
 
-<span data-ttu-id="60101-124">Microsoft 将每月为在线服务顾问销售奖励，销售激励、计算和付款。</span><span class="sxs-lookup"><span data-stu-id="60101-124">Microsoft assesses eligibility monthly for the Online Services Advisor Sell Incentive for earning, calculation, and payment.</span></span> <span data-ttu-id="60101-125">必须满足特定的资格标准，Microsoft 才能批准和发布激励付款。</span><span class="sxs-lookup"><span data-stu-id="60101-125">You must meet specific eligibility criteria before Microsoft can approve and release incentive payments.</span></span> <span data-ttu-id="60101-126">有关详细信息，请参阅 aka.ms/partnerincentives 上 OSA 部分下的 OSA 销售指南。</span><span class="sxs-lookup"><span data-stu-id="60101-126">For details, see the OSA Sell guide, located under the OSA section on aka.ms/partnerincentives.</span></span>
+- <span data-ttu-id="5def3-119">你的客户的**联系人姓名**、标题和电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="5def3-119">Your customer’s **Contact name**, title, and email address</span></span>
 
-## <a name="submit-an-osa-sell-fee-claim"></a><span data-ttu-id="60101-127">提交 OSA 销售费用声明</span><span class="sxs-lookup"><span data-stu-id="60101-127">Submit an OSA sell fee claim</span></span>
+- <span data-ttu-id="5def3-120">对于 Dynamics 365，还需要提供客户的**技术联系人**姓名、职务和电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="5def3-120">For Dynamics 365, you also need to provide your customer’s **Technical contact** name, title, and email address</span></span>
 
-<span data-ttu-id="60101-128">完成以下步骤以在合作伙伴中心提交激励声明。</span><span class="sxs-lookup"><span data-stu-id="60101-128">Complete the following steps to submit an incentive claim in Partner Center.</span></span>  
+- <span data-ttu-id="5def3-121">自己公司的**联系人姓名**和电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="5def3-121">Your own company’s **Contact name** and email address</span></span>
 
->[!NOTE]
+- <span data-ttu-id="5def3-122">你将为此声明创建**名称**</span><span class="sxs-lookup"><span data-stu-id="5def3-122">You’ll create a **Name** for this claim</span></span>
 
-><span data-ttu-id="60101-129">如果你的公司有多个位置，请确保使用与你的客户位于同一地理区域的 office 的 MPN ID。</span><span class="sxs-lookup"><span data-stu-id="60101-129">If your company has multiple locations, be sure to use the MPN ID for the office located in the same geographic region as your customer.</span></span> 
+- <span data-ttu-id="5def3-123">你所申报的**产品**或工作负荷</span><span class="sxs-lookup"><span data-stu-id="5def3-123">The **Product(s)** or workload(s) you’re claiming</span></span>
 
-1.  <span data-ttu-id="60101-130">在 "概述" 页上的 "**所有激励计划**" 下，选择 " **OSA**"。</span><span class="sxs-lookup"><span data-stu-id="60101-130">On the Overview page, under **All incentive programs**, select **OSA**.</span></span>
+- <span data-ttu-id="5def3-124">**执行证明（POE）** ，如客户签署的工作声明。</span><span class="sxs-lookup"><span data-stu-id="5def3-124">**Proof of execution (POE)**, such as a statement of work signed by the customer.</span></span> <span data-ttu-id="5def3-125">你还可以下载要使用的 POE 模板。</span><span class="sxs-lookup"><span data-stu-id="5def3-125">You can also download a POE template to use.</span></span>
 
-2.  <span data-ttu-id="60101-131">在 "OSA" 页上，选择 "**声明 ...** "，然后选择 "**激励费**"。</span><span class="sxs-lookup"><span data-stu-id="60101-131">On the OSA page, select **Claim…**, and then select **Incentive fee**.</span></span>
+- <span data-ttu-id="5def3-126">仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**。</span><span class="sxs-lookup"><span data-stu-id="5def3-126">For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**.</span></span> 
 
-3.  <span data-ttu-id="60101-132">输入客户的域名和目录 ID，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="60101-132">Enter your customer’s domain name and directory ID, and then select **Continue**.</span></span> 
+<span data-ttu-id="5def3-127">还应了解以下要点：</span><span class="sxs-lookup"><span data-stu-id="5def3-127">You should also understand the following points:</span></span>
+- <span data-ttu-id="5def3-128">如果现有 Microsoft 365 客户，则需使用此过程重新与想要继续获得 OSU 激励的用户进行关联。</span><span class="sxs-lookup"><span data-stu-id="5def3-128">If you have existing Microsoft 365 customers, you’ll need to re-associate with those you want to continue to earn OSU incentives by using this process.</span></span>
+- <span data-ttu-id="5def3-129">如果现有与 Dynamics 365 或 Power BI 客户的关联，则这些关联将保持有效，直到其订阅过期。</span><span class="sxs-lookup"><span data-stu-id="5def3-129">If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.</span></span>
+- <span data-ttu-id="5def3-130">一个客户可以有多个合作伙伴，但是每个工作负荷（对于 Microsoft 365 OSU）或订阅（对于 OSA 销售和 Business Applications OSU）只能与一个合作伙伴关联。</span><span class="sxs-lookup"><span data-stu-id="5def3-130">A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.</span></span>
 
-4.  <span data-ttu-id="60101-133">选择客户购买的产品，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="60101-133">Select the product the customer purchased, and then select **Continue**.</span></span> 
+## <a name="create-a-customer-association"></a><span data-ttu-id="5def3-131">创建客户关联</span><span class="sxs-lookup"><span data-stu-id="5def3-131">Create a customer association</span></span>
+1.  <span data-ttu-id="5def3-132">在 "合作伙伴中心" 仪表板中的 "**激励**" 下，选择 "**概述**"，然后选择 "**客户关联**"。</span><span class="sxs-lookup"><span data-stu-id="5def3-132">In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**.</span></span> 
 
-5.  <span data-ttu-id="60101-134">选择要与此声明关联的订阅，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="60101-134">Select the subscription you want to associate with this claim, and then select **Continue**.</span></span>
+2.  <span data-ttu-id="5def3-133">在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。</span><span class="sxs-lookup"><span data-stu-id="5def3-133">At the top of the Customer associations page, select **+ Customer association**.</span></span>
 
->[!NOTE]
+3.  <span data-ttu-id="5def3-134">选择要与客户关联的合作伙伴位置的**MPN id** ，然后添加客户的域名和目录 ID。</span><span class="sxs-lookup"><span data-stu-id="5def3-134">Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer’s domain name and Directory ID.</span></span> [<span data-ttu-id="5def3-135">它们位于何处？</span><span class="sxs-lookup"><span data-stu-id="5def3-135">Where are these?</span></span>](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-><span data-ttu-id="60101-135">选择订阅之前，请确认名称和地理区域都是正确的。</span><span class="sxs-lookup"><span data-stu-id="60101-135">Verify that both the name and geographic region are correct before you select a subscription.</span></span> 
+<span data-ttu-id="5def3-136">选择**继续**。</span><span class="sxs-lookup"><span data-stu-id="5def3-136">Select **Continue**.</span></span>
 
-><span data-ttu-id="60101-136">与其他联机服务顾问关联的订阅用黄色三角形标记。</span><span class="sxs-lookup"><span data-stu-id="60101-136">Subscriptions that are associated with other online service advisors are marked with a yellow triangle.</span></span> <span data-ttu-id="60101-137">你仍可以选择将其与它们相关联。</span><span class="sxs-lookup"><span data-stu-id="60101-137">You can still choose to associate with them.</span></span> 
+4.  <span data-ttu-id="5def3-137">选择**解决方案区域**和**活动**。</span><span class="sxs-lookup"><span data-stu-id="5def3-137">Select the **Solution area** and **Activity**.</span></span> 
 
-><span data-ttu-id="60101-138">不能再次关联已与你的公司关联的订阅。</span><span class="sxs-lookup"><span data-stu-id="60101-138">Subscriptions already associated with your company can’t be associated again.</span></span>  
+>[!Note]
 
-6.  <span data-ttu-id="60101-139">输入客户和公司的联系信息，为声明命名，然后选择 "**创建声明**"。</span><span class="sxs-lookup"><span data-stu-id="60101-139">Enter the contact information for both your customer and your company, name the claim, and then select **Create claim**.</span></span> 
+><span data-ttu-id="5def3-138">如果选择 "Business Applications"，请选择 "**使用情况" 和/或 "提前销售**" 或 "**收入关联**"，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="5def3-138">If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**.</span></span> 
 
-7.  <span data-ttu-id="60101-140">在 "订阅" 页上，将执行证明（POE）文档上传到 "**执行证明**" 框。</span><span class="sxs-lookup"><span data-stu-id="60101-140">On the Subscription page, upload your Proof of Execution (POE) documentation to the **Proof of Execution** box.</span></span> <span data-ttu-id="60101-141">您可以使用 POE 模板或预销售进程中的 POE 文档。</span><span class="sxs-lookup"><span data-stu-id="60101-141">You can use the POE template or POE documents from the pre-sales process.</span></span> 
+><span data-ttu-id="5def3-139">如果选择 "收入关联"，系统将提示你输入与下面所列信息稍有不同的信息。</span><span class="sxs-lookup"><span data-stu-id="5def3-139">If you select Revenue association, you’ll be prompted for slightly different information than what’s listed below.</span></span> 
 
-8.  <span data-ttu-id="60101-142">选择 "**提交声明**"。</span><span class="sxs-lookup"><span data-stu-id="60101-142">Select **Submit claim**.</span></span>    
+5.  <span data-ttu-id="5def3-140">在 "**关联客户**" 页上输入相应信息，然后选择 "**创建声明**"。</span><span class="sxs-lookup"><span data-stu-id="5def3-140">Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.</span></span>
 
-<span data-ttu-id="60101-143">可以在 "订阅" 页的 "状态" 框中查看声明的状态。</span><span class="sxs-lookup"><span data-stu-id="60101-143">You can see the status of your claim in the status box of the Subscription page.</span></span> <span data-ttu-id="60101-144">如果需要其他信息，也会收到通知。</span><span class="sxs-lookup"><span data-stu-id="60101-144">If additional information is required, you will be notified there as well.</span></span>
+6.  <span data-ttu-id="5def3-141">选择与此客户关联关联的产品，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="5def3-141">Select the product(s) associated with this customer association, and then select **Continue**.</span></span>
 
-<span data-ttu-id="60101-145">若要查看你的收入和付款数据，请参阅付款和报告。</span><span class="sxs-lookup"><span data-stu-id="60101-145">To view your earnings and payments data, see Payouts and reporting.</span></span> 
- 
-## <a name="submit-an-isv-revenue-association-claim"></a><span data-ttu-id="60101-146">提交 ISV 收入关联声明</span><span class="sxs-lookup"><span data-stu-id="60101-146">Submit an ISV revenue association claim</span></span>
+7.  <span data-ttu-id="5def3-142">填写客户联系信息和你公司的联系信息。</span><span class="sxs-lookup"><span data-stu-id="5def3-142">Complete the customer contact information and your company’s contact information.</span></span> <span data-ttu-id="5def3-143">所有字段均为必填字段。</span><span class="sxs-lookup"><span data-stu-id="5def3-143">All fields are required.</span></span> 
 
-1.  <span data-ttu-id="60101-147">在 "概述" 页上的 "**所有激励计划**" 下，选择 " **OSA**"。</span><span class="sxs-lookup"><span data-stu-id="60101-147">On the Overview page, under **All incentive programs**, select **OSA**.</span></span>
+>[!Note]
 
-2.  <span data-ttu-id="60101-148">在 "OSA" 页上，选择 "**声明 ...** "，然后选择 " **ISV 收入协会**"。</span><span class="sxs-lookup"><span data-stu-id="60101-148">On the OSA page, select **Claim…**, and then select **ISV revenue association**.</span></span>
+<span data-ttu-id="5def3-144">如果你的产品是 Dynamics 365，并且你选择的产品有多个订阅用于此特定客户，则还需要输入订阅 ID。</span><span class="sxs-lookup"><span data-stu-id="5def3-144">If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you’ll also need to enter the subscription ID.</span></span>
 
-3.  <span data-ttu-id="60101-149">输入客户的域名和目录 ID，选择客户购买的产品或产品，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="60101-149">Enter your customer’s domain name and directory ID, select the product or products the customer purchased, and then select **Continue**.</span></span> 
+8.  <span data-ttu-id="5def3-145">提供执行证明（POE）。</span><span class="sxs-lookup"><span data-stu-id="5def3-145">Supply your proof of execution (POE).</span></span> <span data-ttu-id="5def3-146">您可以将其拖到 "" 框，浏览到自己的支持文档，或通过选择 "**下载模板**" 来使用模板。</span><span class="sxs-lookup"><span data-stu-id="5def3-146">You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**.</span></span> 
 
-4.  <span data-ttu-id="60101-150">选择要与此声明关联的订阅，然后选择 "**继续**"。</span><span class="sxs-lookup"><span data-stu-id="60101-150">Select the subscriptions you want to associate with this claim and then select **Continue**.</span></span>
+9.  <span data-ttu-id="5def3-147">根据需要添加并保存注释，然后选择 "**提交声明**"。</span><span class="sxs-lookup"><span data-stu-id="5def3-147">Add and save comments if you like, and then select **Submit claim**.</span></span> <span data-ttu-id="5def3-148">我们将向客户发送一封电子邮件，请求你的客户协会批准。</span><span class="sxs-lookup"><span data-stu-id="5def3-148">We’ll send an email to the customer requesting approval of your customer association.</span></span> 
 
 >[!NOTE]
 
-><span data-ttu-id="60101-151">选择订阅之前，请确认名称和地理区域都是正确的。</span><span class="sxs-lookup"><span data-stu-id="60101-151">Verify that both the name and geographic region are correct before you select a subscription.</span></span> 
+><span data-ttu-id="5def3-149">提交客户关联后，不能对其进行编辑。</span><span class="sxs-lookup"><span data-stu-id="5def3-149">Once you submit your customer association, you can’t edit it.</span></span> 
 
-><span data-ttu-id="60101-152">不能再次关联已与你的公司关联的订阅。</span><span class="sxs-lookup"><span data-stu-id="60101-152">Subscriptions already associated with your company can’t be associated again.</span></span>  
+<span data-ttu-id="5def3-150">"**状态**" 字段中将显示客户关联的状态。</span><span class="sxs-lookup"><span data-stu-id="5def3-150">The status of your customer association appears in the **Status** field.</span></span> 
 
-5.  <span data-ttu-id="60101-153">输入**Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**的信息，然后输入声明的名称。</span><span class="sxs-lookup"><span data-stu-id="60101-153">Enter the information for the **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**, and then enter a name for the claim.</span></span> 
-
-6.  <span data-ttu-id="60101-154">选择 "**创建声明**"。</span><span class="sxs-lookup"><span data-stu-id="60101-154">Select **Create claim**.</span></span> 
-
-<span data-ttu-id="60101-155">可以在 "订阅" 页的 "状态" 框中查看声明的状态。</span><span class="sxs-lookup"><span data-stu-id="60101-155">You can see the status of your claim in the status box of the Subscription page.</span></span> <span data-ttu-id="60101-156">如果需要其他信息，也会收到通知。</span><span class="sxs-lookup"><span data-stu-id="60101-156">If additional information is required, you will be notified there as well.</span></span>
+<span data-ttu-id="5def3-151">选择 "**历史记录**" 以查看客户关联的历史记录。</span><span class="sxs-lookup"><span data-stu-id="5def3-151">Select **History** to view the history of a customer association.</span></span>
