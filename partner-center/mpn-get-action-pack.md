@@ -1,18 +1,18 @@
 ---
 title: 购买或续订权益套餐 | 合作伙伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/25/2019
 description: 了解如何获取 Microsoft Action Pack，无论是首次购买还是续订。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
 ms.localizationpriority: high
-ms.openlocfilehash: c4e1f58bd703c1809f1d315a8cc2d8c61fee8fa3
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 544059c06d0e4dd0714ac2fd29b8d2e4291deda1
+ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318857"
+ms.lasthandoff: 10/28/2019
+ms.locfileid: "72978743"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>首次购买或者续订 Microsoft Action Pack 订阅、银级或金级资质
 
@@ -21,7 +21,7 @@ ms.locfileid: "71318857"
 -  合作伙伴中心
 -  Partner Membership Center
 
-现在可以在合作伙伴中心仪表板中购买或续订权益套餐，包括 Microsoft Action Pack 订阅以及银级和金级资质。 
+现在可以在合作伙伴中心[仪表板](https://docs.microsoft.com/partner-center/)中购买或续订权益套餐，包括 Microsoft Action Pack 订阅以及白银资格和黄金资格。 
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次购买 Microsoft Action Pack
 
@@ -36,23 +36,13 @@ ms.locfileid: "71318857"
 ## <a name="renew-a-microsoft-action-pack-subscription"></a>续订 Microsoft Action Pack 订阅
 
 >[!IMPORTANT]
->现在可以在合作伙伴中心（此站点）管理 Action Pack 订阅。 
+>现在可以在合作伙伴中心管理 Action Pack 订阅。
 
 ### <a name="check-your-renewal-eligibility"></a>检查续订资格
-
-1. 登录到 [Partner Membership Center (PMC)](https://partner.microsoft.com/_login?authType=OpenIdConnect)。
-
-2. 成功登录后，你将：
-
-    - 能够按照这些步骤在 PMC 中续订你的订阅，或
-
-    - 收到一条消息，邀请你在合作伙伴中心（此站点）续订订阅
 
 >[!IMPORTANT]
 >如果你受邀在合作伙伴中心续订订阅，请注意，我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
 >可以在[**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页查找订阅的到期日期（需要登录）。 当你有资格在合作伙伴中心续订时，请按照以下步骤操作。  
-
-
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>在合作伙伴中心续订 Microsoft Action Pack 订阅
 

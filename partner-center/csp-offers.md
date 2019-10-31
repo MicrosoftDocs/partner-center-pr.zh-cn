@@ -1,18 +1,18 @@
 ---
 title: 云解决方案提供商计划中的合作伙伴套餐 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/01/2019
+ms.date: 10/28/2019
 description: 了解通过云解决方案提供商计划进行销售的合作伙伴可以使用的套餐。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
-ms.openlocfilehash: a77e41742689221b77d06d7732b86f367148ab13
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
+ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318453"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "73045628"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐 
 
@@ -23,6 +23,9 @@ ms.locfileid: "71318453"
 云解决方案提供商 (CSP) 计划中的 Microsoft 合作伙伴具有越来越多可以使用的套餐。 可以销售整套 [Microsoft 云服务](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及各种经常变化的其他套餐。 若要查看本月的 CSP 套餐，请登录到合作伙伴中心，然后转到[**定价和套餐**](https://partnercenter.microsoft.com/pcv/sales)页。  
 
 还没有注册云解决方案提供商计划吗？ 请访问[云解决方案提供商](https://partner.microsoft.com/cloud-solution-provider)，了解有关如何注册的更多详细信息。 
+
+>[!NOTE]
+>自 2020 年 1 月 31 日起，所有客户都需要签署 Microsoft 客户协议。 这包括现有客户和新客户。 若要了解详细信息，请阅读[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)
 
 ## <a name="what-you-can-sell-through-csp"></a>可以通过 CSP 计划销售哪些内容
 
