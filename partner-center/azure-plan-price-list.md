@@ -1,19 +1,19 @@
 ---
 title: Azure 计划价目表 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: 如何查看 Azure 计划中的订阅价目表
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171279"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428546"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表 
 
@@ -54,10 +54,9 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 
     - **外汇汇率**：外汇汇率在每月 1 号的前一天下午 6 点 (PST) 可供下载。 例如，如果你想要 11 月份的汇率，请在 10 月 31 日下载。 还会提供上个月的外汇汇率。
 
-    - **符合条件的服务**：合作伙伴赚取的返点适用于 **Azure 计划消费定价**（合作伙伴可从 Azure 计划定价页将其导出）中列出的服务。 请注意存在一些例外情况，包括但不限于第三方和 Azure 预留项。
-
 - 价目表中的价格是直接价格。 某些合作伙伴可能符合赚取返点的条件。 有关如何计算合作伙伴赚取的返点的信息，请阅读[如何计算和支付合作伙伴赚取的返点](partner-earned-credit-explanation.md)。
 
+- **符合条件的服务**：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务  。 注意，例外情况包括但不限于，Azure 计划消费定价表和 Azure 计划预留项“标记”列中标识为“第三方”的第三方产品。
 
 ## <a name="price-list-data"></a>价目表数据
 

@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425201"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141980"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴安全要求
 
@@ -80,44 +80,7 @@ ms.locfileid: "72425201"
 
 ## <a name="accessing-your-environment"></a>访问环境
 
-若要更好地了解哪个帐户或用户在进行身份验证时没有受到多重身份验证质询，建议查询 Azure Active Directory 审核日志。 为此，可以使用 [Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) 模块和下面的脚本。 这样会生成一个报表，该报表详细说明了过去一天内发生的哪些身份验证尝试没有受到多重身份验证质询。
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-运行以上脚本以后，即可在 report.csv 文件中获取详细信息。 该文件将包含一个列表，列表中的身份验证尝试是过去一天内发生的，相关用户没有受到 MFA 质询。 你需要查看每个条目，确定其是否为预期的行为，必要时采取行动。
-
-![评估报表](images/security/assessment-report.png)
+若要更好地了解哪个帐户或用户在进行身份验证时没有受到多重身份验证质询，建议查看登录活动。 通过 Azure Active Directory Premium，可以利用登录报告。 有关详细信息，请参阅 [Azure Active Directory 门户中登录活动报告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果你没有 Azure Active Directory Premium 或正打算通过 PowerShell 获取此服务，则需要利用[合作伙伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模块中的 [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet.
 
 ## <a name="how-the-requirements-will-be-enforced"></a>将如何强制实施这些要求
 

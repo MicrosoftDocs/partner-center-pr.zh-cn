@@ -1,18 +1,18 @@
 ---
 title: 购买 Azure 计划 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/01/2019
-description: 无需提交每个订阅的订单即可购买多个 Azure 订阅
+ms.date: 11/01/2019
+description: 通过 Azure 计划购买多个 Azure 订阅
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171186"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428508"
 ---
 # <a name="purchase-the-azure-plan"></a>购买 Azure 计划
 
@@ -30,9 +30,10 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 ![购买](images/azure/Azurepurchase1.png)
 
-合作伙伴必须确认客户已查看并接受 Microsoft 客户协议条款。 有关合作伙伴如何确保客户接受协议条款的详细信息，请阅读[确认客户接受 Microsoft 客户协议](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement)。 [资源库](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中提供了其他资源。
+合作伙伴必须确认客户已查看并接受 Microsoft 客户协议条款。 有关合作伙伴如何确保客户接受协议条款的详细信息，请阅读[确认客户接受 Microsoft 客户协议](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 [资源库](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中提供了其他资源。
 
-1. 确认
+ 要进行确认，有以下两种方法：
+1. 数字确认或
 2. 邀请客户直接与 Microsoft 签署 Microsoft 客户协议。 
 
 ### <a name="to-confirm"></a>确认 
@@ -66,7 +67,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 
 请注意，预留范围目前只能设置为“共享”。  
 
-![共享范围](images/azure/scopeshared.png)
+![共享范围](images/azure/addprods1.png)
 
 若要在 Azure 门户中管理客户的预留项： 
 
@@ -78,7 +79,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 
 在“订阅”页中基于用量的部分，展开“Azure 计划”查看 Azure 计划中关联的 Azure 订阅。  
 
-![视图列表](images/azure/viewlist.png)
+![视图列表](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>添加订阅并配置资源

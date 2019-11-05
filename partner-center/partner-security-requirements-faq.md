@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678306"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142029"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -67,6 +67,17 @@ ms.locfileid: "71678306"
 
 否，对于强制实施 MFA 这一要求，任何帐户都不能例外。 考虑到合作伙伴会有很高的特权，因此[云解决方案提供商计划指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)要求针对合作伙伴租户中的每个帐户强制实施 MFA。
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何才能知道自己是否满足合作伙伴安全要求？
+
+需完成以下步骤
+
+- 需要满足[合作伙伴安全要求](https://docs.microsoft.com/partner-center/partner-security-requirements)中列出的所有要求
+- 需要确保合作伙伴租户中的所有用户帐户都已实施多重身份验证。
+
+为帮助确定可执行操作的关键区域，我们提供了 [安全要求状态](https://partner.microsoft.com/pcv/security/compliance)报告，你可通过合作伙伴中心获取此报告。
+
+有关状态报告的详细信息，请参阅[合作伙伴安全要求状态](https://docs.microsoft.com/partner-center/partner-security-compliance)。
+
 ## <a name="required-actions"></a>必需的措施
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>我需要采取哪些主要措施才能满足这些要求？
@@ -93,7 +104,7 @@ ms.locfileid: "71678306"
     所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。 否则可能会因 MFA 部署而造成中断。 以下资源提供有关如何采用此模型的概述和指南。
 
     - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-    - [合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
     - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
     - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -101,7 +112,7 @@ ms.locfileid: "71678306"
 
     如果使用控制面板，则需与供应商协商采用安全应用程序模型框架的事宜。
 
-    控制面板供应商必须以控制面板供应商身份[加入](https://docs.microsoft.com/partner-center/enroll-as-cpv)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
+    控制面板供应商必须以控制面板供应商身份[加入](https://docs.microsoft.com/partner-center/enroll-as-cpv)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
 
 ## <a name="multi-factor-authentication"></a>多重身份验证
 
@@ -237,18 +248,18 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>谁应该采用安全应用程序模型来满足这些要求？
 
-Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身份验证的云解决方案提供商 (CSP) 合作伙伴和控制面板供应商 (CPV) 进行身份验证。 有关详细信息，请参阅[安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。
+Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身份验证的云解决方案提供商 (CSP) 合作伙伴和控制面板供应商 (CPV) 进行身份验证。 有关详细信息，请参阅[安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。
 
 ### <a name="what-is-the-secure-application-model"></a>安全应用程序模型是什么？
 
-Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身份验证的云解决方案提供商 (CSP) 合作伙伴和控制面板供应商 (CPV) 进行身份验证。 有关详细信息，请参阅[安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。  
+Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身份验证的云解决方案提供商 (CSP) 合作伙伴和控制面板供应商 (CPV) 进行身份验证。 有关详细信息，请参阅[安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>如何实现安全应用程序模型？
 
 所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。 否则可能会因 MFA 部署而造成中断。 以下资源提供有关如何采用此模型的概述和指南。
 
 - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
@@ -256,11 +267,11 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 如果使用控制面板，则需与供应商协商采用安全应用程序模型框架的事宜。
 
-控制面板供应商必须以控制面板供应商身份[加入](https://docs.microsoft.com/partner-center/enroll-as-cpv)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
+控制面板供应商必须以控制面板供应商身份[加入](https://docs.microsoft.com/partner-center/enroll-as-cpv)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>谁是控制面板供应商 (CPV)？
 
-控制面板供应商是独立软件供应商，其开发的应用可供云解决方案提供商合作伙伴用来与合作伙伴中心 API 集成。 控制面板供应商不是可以直接访问合作伙伴中心仪表板或 API 的云解决方案提供商合作伙伴。 详细说明在[合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)中提供。
+控制面板供应商是独立软件供应商，其开发的应用可供云解决方案提供商合作伙伴用来与合作伙伴中心 API 集成。 控制面板供应商不是可以直接访问合作伙伴中心仪表板或 API 的云解决方案提供商合作伙伴。 详细说明在[合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)中提供。
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>是否只需为合作伙伴中心 API/SDK 实现安全应用程序模型？
 
@@ -296,7 +307,7 @@ CPV 必须与 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) 联系并提
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>我使用合作伙伴中心 SDK。 SDK 是否会自动采用安全应用程序模型？
 
-否。你需要按[安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)中提供的指南操作。
+否。你需要按[安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)中提供的指南操作。
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>对于有帐户未启用 MFA 的安全应用程序模型，我是否可以生成一个刷新令牌？
 
@@ -304,7 +315,7 @@ CPV 必须与 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) 联系并提
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>如果我们启用 MFA，我的应用程序应该如何获取访问令牌？
 
-你需要按照[安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)操作，该指南详述了如何在遵循新安全要求的同时这样做。 可以在[此处](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)找到 .NET 示例代码，在[此处](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)找到 Java 示例代码。
+你需要按照[安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)操作，该指南详述了如何在遵循新安全要求的同时这样做。 可以在[此处](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model)找到 .NET 示例代码，在[此处](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)找到 Java 示例代码。
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>作为 CPV，我是在 CPV 租户中还是在云解决方案提供商合作伙伴租户中创建 Azure AD 应用程序？
 
@@ -312,7 +323,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>我是使用“仅应用”身份验证的云解决方案提供商。 我是否需要进行任何更改？
 
-“仅应用”身份验证不受影响，因为用户凭据不用于请求访问令牌。 如果用户凭据是共享的，则控制面板供应商 (CPV) 必须采用[安全应用程序模型框架](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)并清除他们现有的任何合作伙伴凭据。
+“仅应用”身份验证不受影响，因为用户凭据不用于请求访问令牌。 如果用户凭据是共享的，则控制面板供应商 (CPV) 必须采用[安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)并清除他们现有的任何合作伙伴凭据。
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>作为 CPV，我是否可以利用“仅应用”身份验证模式来获取访问令牌？
 
@@ -347,7 +358,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 ### <a name="resources-for-adopting-secure-application-model"></a>采用安全应用程序模型的资源
 
 - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
-- [合作伙伴中心：安全应用程序模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
 - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)

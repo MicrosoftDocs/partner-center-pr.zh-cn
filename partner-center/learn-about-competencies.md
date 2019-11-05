@@ -1,18 +1,18 @@
 ---
 title: 银级和金级会员的 Microsoft 资质要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 10/29/2019
 description: 了解获取金级和银级会员所要达到的资质要求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: high
-ms.openlocfilehash: 6ae993e049fc651f15e9669aab68c2183085b308
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
+ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318866"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73413358"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>有关 Microsoft 银级和金级会员资质与高级专业的信息
 
@@ -24,6 +24,8 @@ ms.locfileid: "71318866"
 - 获得**金级会员**可证明你在特定 Microsoft 解决方案区域中具有最出色的能力
 
 - 作为金级合作伙伴会员，还可以将高级专业技术添加到产品组合中。
+
+获得银级会员资格或金级会员资格还可解锁强大的[市场推广](mpn-learn-about-go-to-market-benefits.md)营销和销售权益，可助你拓展和发展业务   。
 
 ## <a name="competency-areas"></a>资质领域
 
@@ -40,6 +42,8 @@ ms.locfileid: "71318866"
 
 
 了解[取得银级和金级会员需要满足哪些要求](https://partner.microsoft.com/membership/competencies)
+
+了解特定的[针对银级和金级会员的市场推广权益](mpn-learn-about-go-to-market-benefits.md) 
 
 了解[资质相关的发票和税款](mpn-view-print-maps-invoice.md)
 

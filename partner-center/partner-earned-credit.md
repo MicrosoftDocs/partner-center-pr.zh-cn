@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171175"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428436"
 ---
 # <a name="partner-earned-credit---overview"></a>合作伙伴赚取的返点 - 概述
-
 
 在 CSP 新商务体验中，合作伙伴赚取的返点是一种业务模型，它在 Microsoft 市场推广载体中实现简化的统一 Azure 定价，同时培育一个合作伙伴生态系统来提供增值托管服务。 合作伙伴赚取的返点还有助于消除任何利润竞争。 
 
 由于 Azure 中存在数千个服务和许多的购买选项，定价对于很多客户和合作伙伴而言可能具有挑战性。 在 Azure 的新商务体验中，我们遵循适用于所有业务动机的单一全球定价原则。 CSP 合作伙伴可按发布价格供应 Azure 产品。 这可为其客户提供更大的透明度，建立相互之间的信任。 
-
 
 客户的数字转换需求正在改变合作伙伴提供的价值性质。 许多客户希望合作伙伴提供的服务超越交易的价值，使其云旅程变得平稳，同时帮助他们有效使用 Azure 服务。 这些服务在不断增加，其中包括 Azure 资产监视、策略和监管、设置和配置精细调整、技术支持和其他各种服务。 
 
@@ -66,11 +64,12 @@ ms.locfileid: "72171175"
 这些服务需要合作伙伴能够对客户的 Azure 环境拥有适当的访问级别，而我们的商务系统将会度量访问详细信息，以计算合作伙伴赚取的返点。  
 
 >[!Note]
-
 >客户可以通过相应的选项来删除授予合作伙伴的任何访问权限。 合作伙伴不应仅仅出于赚取 Microsoft 返点的目的而强迫客户为其分配相应的访问权限 - 不遵守这一要求可能会导致失去赚取返点的资格。
 
 **详细信息**
-- [合作伙伴赚取的返点的计算与支付方式]
+
+- [合作伙伴赚取的返点的计算与支付方式](partner-earned-credit-explanation.md)
+
 - [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
 
 - [Azure CSP 新商务体验的价目表](azure-plan-price-list.md)

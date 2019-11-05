@@ -1,23 +1,23 @@
 ---
 title: 转移到 Azure 计划 - 入门 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/15/2019
-description: ''
+ms.date: 11/01/2019
+description: 通过 Azure 新商务体验购买订阅
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
+Keywords: Azure、Azure 计划、购买订阅、订阅
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: eb46255403297539c17145b82ecf096699abe390
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 23dddf8f521d035a99b685b359fffd00247467e9
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171268"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428442"
 ---
 # <a name="move-to-azure-plan---get-started"></a>转移到 Azure 计划 - 入门
 
-Microsoft 在 CSP 中为已签署 Microsoft 合作伙伴协议的 Azure 合作伙伴引入了新的商务体验。 使用此新商务体验，合作伙伴可以访问对签署了 Microsoft 客户协议的客户采用即用即付费率的客户的 Azure 服务。 
+Microsoft 在合作伙伴中心引入了新的商务体验。  使用此新商务体验，合作伙伴可以访问对签署了 Microsoft 客户协议的客户采用即用即付费率的客户的 Azure 服务。 
 
 此计划简化了购买体验 - 可以在一个 Azure 计划中包含多个 Azure 订阅。 不再需要为每个 Azure 订阅单独提交订单。 在 Azure 的此新商务体验中，我们遵守全球一种定价的原则，使 CSP 合作伙伴能够以已发布的价格供应 Azure 产品。 
 
