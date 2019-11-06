@@ -100,6 +100,7 @@
 ## [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常见计费方案](common-billing-scenarios.md)
 ## [拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)
+## [Office 365 合作伙伴咨询：云解决方案提供商中的 Microsoft 365 语音](o365-partner-advisory.md)
 
 # [与客户联系](customer-accounts.md)
 ## [添加新客户](add-a-new-customer.md)
@@ -122,7 +123,7 @@
 ### [购买 Azure 计划](purchase-azure-plan.md)
 ### [比较 Azure 套餐](compare-azure-offers.md)
 ### [将客户过渡到 Azure 计划](azure-plan-transition.md)
-### [合作伙伴赚取的返点 - 概述](partner-earned-credit-overview.md)
+### [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
 ### [合作伙伴赚取的返点的计算与支付方式](partner-earned-credit-explanation.md)
 ### [CSP 中的新商务体验 - Azure 计费](azure-plan-billing.md) 
 ### [Azure 的 CSP 新商务体验价目表](azure-plan-price-list.md)
