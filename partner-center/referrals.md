@@ -2,17 +2,19 @@
 title: 通过 Microsoft 引荐扩大你的业务 |合作伙伴中心
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 生成业务销售线索并与需要帮助实施 Microsoft 产品和解决方案的客户联系。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 引荐, 业务配置文件, 查找合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958740"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652158"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -31,5 +33,5 @@ ms.locfileid: "68958740"
 一开始请观看此短视频：[优化业务配置文件](https://player.vimeo.com/video/252788046)。  
 
 <!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
 -->

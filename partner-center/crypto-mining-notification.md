@@ -2,18 +2,20 @@
 title: 加密挖掘活动的合作伙伴中心通知 |合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 有关潜在加密挖掘发生活动的通知。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: 加密挖掘, 加密货币挖掘, 安全性
+Keywords: 加密挖掘，加密货币挖掘，安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: febce4039e1634fb5e82d083f83e2c11ef47040f
-ms.sourcegitcommit: 9d01fb30eafc523784ecc3568c05da9bbe9a1e8c
-ms.translationtype: HT
+ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "68708850"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651130"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 
@@ -22,7 +24,7 @@ ms.locfileid: "68708850"
 -  合作伙伴中心
 -  云解决方案提供商合作伙伴
 
-你可能已收到有关加密货币挖掘的以下合作伙伴中心通知:
+你可能已收到有关加密货币挖掘的以下合作伙伴中心通知：
  
 ![合作伙伴中心的安全通知图像](images/crypto1.png)
 
@@ -45,13 +47,13 @@ ms.locfileid: "68708850"
 
 2.  首先了解如何创建资源。 这可能要求你查看 Azure 资源管理日志以了解资源预配活动。
 
-3.  如果需要找出创建订阅的人员, 请查看合作伙伴中心活动日志。
+3.  如果需要找出创建订阅的人员，请查看合作伙伴中心活动日志。
 
 加密货币挖掘活动的检测基于试探法，可能不是 100% 准确。 请确保部署管理和监控系统，以防止欺诈或其他不允许的活动。 有关详细信息，请参阅[拒不付款、欺诈或滥用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
 
 如果对通知有任何疑问或疑虑，你可以使用以下步骤打开支持请求。
 
-1.  在合作伙伴中心中, 选择 "**支持**", 然后选择 "**合作伙伴中心请求**"。
+1.  在合作伙伴中心中，选择 "**支持**"，然后选择 "**合作伙伴中心请求**"。
 3.  选择**新建请求**。 
 4.  在**问题类型**下拉菜单中，选择**添加或管理客户**。
 5.  在**影响**下拉菜单中，选择**中等**。

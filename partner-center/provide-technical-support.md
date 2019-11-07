@@ -2,17 +2,19 @@
 title: 提供技术支持 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 作为云解决方案提供商合作伙伴，你具有委派的管理员权限，可以访问你的客户环境。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 52d838500c7c0ae1c637363089d00109d1d28054
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 337ae07c1e1e4f08b935713489b56bdf59803c0b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134001"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652171"
 ---
 # <a name="provide-technical-support"></a>提供技术支持
 
@@ -22,7 +24,7 @@ ms.locfileid: "62134001"
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
-作为云解决方案提供商合作伙伴，你具有委派的管理员权限，可以访问你的客户环境。 这些权限将为你提供直接支持、配置和管理你的客户订阅的能力。
+作为云解决方案提供商合作伙伴，你具有委派的管理员权限，可以访问你的客户环境。 这些特权使你能够直接支持、配置和管理客户的订阅。
 
 在合作伙伴中心中，你可以：
 
@@ -31,10 +33,10 @@ ms.locfileid: "62134001"
 
 **为客户执行管理任务**
 
-1.  从**合作伙伴中心**菜单中，选择**客户**。 在列表中选择你的客户。
+1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 在列表中选择你的客户。
 2.  在“客户”菜单中，选择**服务管理**。
 3.  在**管理服务**部分中，选择需要使用的服务以便为该服务打开管理门户。
-4.  如果发现客户的帐户出现问题（例如服务已停止或体验已降级），应该开始检查服务运行状况。 请参阅[检查服务运行状况](check-service-health.md)。
+4.  如果发现客户帐户（如服务已关闭或性能下降）有问题，则应该首先检查服务运行状况。 请参阅[检查服务运行状况](check-service-health.md)。
 5.  若要向 Microsoft 反映一直存在的问题，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
 
  
@@ -44,7 +46,7 @@ ms.locfileid: "62134001"
 
 为了满足支持需求，合作伙伴可转售其他实体的支持，可外包其全部或部分支持结构和/或设置结构来直接提供支持。  合作伙伴可对向客户提供的全部或部分支持收取费用。 合作伙伴应向其客户明确说明将提供的支持、服务时间和联系方式，以及定价（如果对支持收费）。 
 
-合作伙伴需要接收客户提出的支持请求，尽合作伙伴的能力诊断问题，然后在基准支持边界范围内解决问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
+合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
 
 - **商业**问题支持可用于云解决方案提供商计划中的所有合作伙伴
 -   **技术**问题支持通过以下方式提供：
@@ -58,9 +60,9 @@ ms.locfileid: "62134001"
 
 -   [通过 CSP 销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [通过 CSP 销售的 azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [通过 CSP 销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [通过 CSP 销售的 office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [通过 CSP 销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 
