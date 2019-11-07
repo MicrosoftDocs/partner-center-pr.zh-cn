@@ -2,17 +2,19 @@
 title: 提高采用率和满意度 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134487"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653349"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -30,13 +32,13 @@ ms.locfileid: "62134487"
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 
 
-**面向单个客户**
+**对于单个客户**
 
--   选择**客户**从**合作伙伴中心**，选择一个客户，然后选择**Customer insights**。
+-   从 "**合作伙伴中心**" 中选择 "**客户**"，选择一个客户，然后选择 " **customer insights**"。
 
-**在您的组合**
+**跨项目组合**
 
-1.  上**合作伙伴中心**，选择**分析**。
+1.  在 "**合作伙伴中心**"，选择 "**分析**"。
 2.  通过选择**导出**选项，下载整个客户群的部署和用法数据。
 
 术语：
@@ -62,7 +64,7 @@ ms.locfileid: "62134487"
 ## <a name="next-steps"></a>后续步骤
 
 
-如果你提交了大量的帮助和操作方法问题，但你帐户上的采用数较低，或者你正在寻找提高销售的机会，你可能需要考虑提供培训课程。 通过教你的客户如何更好地使用他们购买的云解决方案软件，你可能会看到工作效率和满意度的上升，以及支持需求的降低。
+如果你有很多帮助和操作方法问题，你的帐户中的采用号码会较低，或者你正在寻找追加销售机会，你可能需要考虑提供培训课程。 通过教授你的客户如何更好地使用他们购买的云解决方案软件，更有可能会提高工作效率和满意度并降低支持需求。
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ ms.locfileid: "62134487"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>问题：</strong>用户采用率为 low，将多个许可证计划运行&#39;正在使用的 t。</p>
-<p><strong>要考虑的因素：</strong>客户可能无法理解该软件可以提供的值。 他们需要依靠帮助来构想他们可以将软件用于哪些日常工作中，从而简化其已进行的任务或实现全新的工作效率。</p>
-<p><strong>若要尝试的内容：</strong>案例研究，有关特定方案、 教程博客或视频的用户感言。</p></td>
+<td><p><strong>问题：</strong>用户采用速率较低，并且不使用许多许可证&#39;。</p>
+<p><strong>要考虑的事项：</strong>客户可能不理解软件可以提供的价值。 他们需要帮助构想他们将其合并到一天中的方式，以简化他们已在执行的任务或实现新的工作效率。</p>
+<p><strong>要尝试的内容：</strong>案例研究、有关特定方案的用户感言、教程博客或视频。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>问题：</strong>没有帮助和操作方法问题的支持呼叫量很高。</p>
-<p><strong>要考虑的因素：</strong>客户可能有新的软件、 产品版本，或其任务。</p>
-<p><strong>若要尝试的内容：</strong>可以使用产品/服务培训 （亲自或联机） 的双策略来提高客户&#39;s 总体专业知识，同时还将向客户提供的自助服务选项的一些提升。</p>
+<td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
+<p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
+<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双策略&#39;来提高客户的整体专业技能，同时还可以提升一些可供客户使用的自助服务选项。</p>
 <p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
 </tr>
 </tbody>

@@ -2,17 +2,19 @@
 title: 合作伙伴租户的强制 MFA |合作伙伴中心
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 适用于合作伙伴租户安全要求的 MFA 的详细信息
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68d4628bd6212b800ea926c6c3b9f412e3d5cc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997789"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652520"
 ---
 # <a name="mandating-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制 MFA
 
@@ -36,7 +38,7 @@ ms.locfileid: "71997789"
 合作伙伴中心仪表板中的某些页面将受到 MFA 保护，包括：
 
 * "**客户**" 选项卡下的所有页。
-* **支持→ Customer 请求**选项卡下的所有页面。
+* **支持 > 客户请求**"选项卡下的所有页面。
 
 如果尝试访问任何这些页面，并且之前未完成 MFA 验证，则需要执行此操作。
 
@@ -122,7 +124,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 如果合作伙伴帐户是**联合**身份，则体验取决于伙伴管理员如何在 Azure Active Directory 中配置联合。 在 Azure Active Directory 中设置联合时，合作伙伴管理员可以指示 Azure Active Directory 联合标识提供者是否支持 MFA。 如果是这样，Azure Active Directory 会将用户重定向到联合标识提供者，以完成 MFA 验证。 否则，Azure Active Directory 会直接提示用户完成 MFA 验证。 如果合作伙伴帐户尚未注册 Azure Active Directory 之前的 MFA，则系统将要求用户首先[完成 mfa 注册](#mfa-registration-experience)。
 
-总体体验非常类似于最终客户租户为其管理员实现了 MFA 的方案。 例如，客户租户已启用[Azure AD 基准策略–针对管理员的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，这要求具有管理权限的所有帐户通过 mfa 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以为客户租户中的 "[管理员" 策略启用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) ，然后尝试使用 "合作伙伴委托管理" 权限来访问客户租户。
+总体体验非常类似于最终客户租户为其管理员实现了 MFA 的方案。 例如，客户租户已[为管理员启用 Azure AD 基准策略-MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，这要求具有管理权限的所有帐户通过 mfa 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以为客户租户中的 "[管理员" 策略启用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) ，然后尝试使用 "合作伙伴委托管理" 权限来访问客户租户。
 
 > [!NOTE]
 > 并非所有 Microsoft Online Service 门户都需要合作伙伴帐户在使用合作伙伴委派的管理员权限访问客户资源时登录到客户租户。 相反，他们只要求合作伙伴帐户登录到合作伙伴租户。 例如，Exchange 管理中心。 随着时间的推移，我们希望这些门户要求合作伙伴帐户在使用合作伙伴委派的管理员特权时登录到客户租户。
@@ -136,7 +138,7 @@ Azure AD 收到（例如身份验证请求）时，Azure AD 将需要合作伙�
 
 - 合作伙伴必须避免将非交互式用户身份验证方法与 Azure AD 配合使用才能获取访问令牌。 使用非交互式用户身份验证方法（例如[密码流](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)）时，Azure AD 将无法提示用户完成 MFA 验证。 合作伙伴必须改用交互用户身份验证方法，例如[OpenID connect flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) 。
 - 在交互式用户身份验证方法中，伙伴应该使用已启用 MFA 的合作伙伴用户帐户。 或者，在 Azure AD 系统提示时，合作伙伴可以在登录期间完成 MFA 注册和 MFA 验证。
-- 这非常类似于最终客户租户已为其管理员实现了 MFA 的方案。 例如，客户租户已启用[Azure AD 基准策略–针对管理员的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，要求具有管理权限的所有用户帐户通过 mfa 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以为客户租户中的 "[管理员" 策略启用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) ，然后尝试使用 "合作伙伴委托管理" 权限以编程方式访问客户租户。
+- 这非常类似于最终客户租户已为其管理员实现了 MFA 的方案。 例如，客户租户已[为管理员启用 Azure AD 基准策略-MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，这要求具有管理权限的所有用户帐户通过 mfa 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以为客户租户中的 "[管理员" 策略启用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) ，然后尝试使用 "合作伙伴委托管理" 权限以编程方式访问客户租户。
 
 ### <a name="mfa-registration-experience"></a>MFA 注册体验
 在 MFA 验证期间，如果合作伙伴帐户之前尚未注册 MFA，Azure AD 将提示用户首先完成 MFA 注册：
@@ -212,7 +214,7 @@ Azure AD 收到（例如身份验证请求）时，Azure AD 将需要合作伙�
 提交技术例外请求：
 
 1. 以全局管理员或管理员代理的身份登录到合作伙伴中心。
-2. 导航以**支持**→**合作伙伴支持请求**并单击 "**新建请求**"，创建新的合作伙伴服务请求。
+2. 通过导航到**支持** > **合作伙伴支持请求**并单击 "**新建请求**" 来创建新的合作伙伴服务请求。
 4. 在**MFA 和安全应用程序模型**主题下，select**提交技术例外请求**作为问题类型。
 6. 提供请求的详细信息以提交技术异常的服务请求，然后单击 "**提交**"。
 

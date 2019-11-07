@@ -1,40 +1,42 @@
 ---
-title: 创建和管理的奖励声明 |合作伙伴中心
+title: 创建和管理激励声明 |合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
-description: 从合作伙伴中心启动奖励 co-op 声明。 你可以在“历史记录”中查看构建申请所涉及的所有活动。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
+description: 从合作伙伴中心开始激励合作声明。 你可以在“历史记录”中查看构建申请所涉及的所有活动。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: adccedd89123a2dbe40500cba11c63f832e6c8f5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: f9656b510bc063674a4d237f9e26506036528fe1
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134957"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653588"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>创建和管理奖励申请
 
 **适用于**
 - 合作伙伴中心
 
-你可以启动从合作伙伴中心内的奖励声明。 
+可以在合作伙伴中心内启动奖励声明。 
 
-1. 从**奖励**在合作伙伴中心仪表板中，选择**声明**。
+1. 在合作伙伴中心仪表板的 "**激励**" 中，选择 "**声明**"。
 
 2.  如果已有正在进行的申请，则“申请概述”页面会显示有关现有申请的状态以及已批准资金、已申请资金和总额的信息。
 
 3.  若要创建新申请，请选择**创建申请**。
 
-4.  当有的初始表单填写，并且所选**创建声明**，你将转到声明详细信息页，您将能够添加发票、 CSR 的、 证明文档和指标。 如果需要，你还可以添加其他信息。
+4.  填写初始窗体并选择 "**创建声明**" 后，会转到 "声明详细信息" 页，您可以在其中添加发票、CSR、证明文档和指标。 如果需要，你还可以添加其他信息。
 
 申请详细信息页面允许你请求组织中的其他人将文档上传到此表单。 对于你上传的每个支持文档，你都可以提供说明性详细信息。 
 
 ### <a name="manage-your-claims"></a>管理你的申请
 
-可以看到将进入在声明中生成的所有活动**历史记录**。 同事添加注释或支持文档的某些内容，每次操作都存储在**历史记录**。 在提交申请之前，状态是**正在编辑**。 在经过审批流程时，申请状态会发生变化。 有时，在查看申请期间，你可能会收到有关文档（POE 文档）中特定项目的反馈。 反馈和其他信息的请求也会显示在申请历史记录中。 
+你可以查看在**历史记录**中生成声明的所有活动。 每次同事添加支持文档或注释时，操作都存储在**历史记录**中。 在提交申请之前，状态是**正在编辑**。 你的声明的状态将随着其在审批过程中的变化而变化。 有时，在查看申请期间，你可能会收到有关文档（POE 文档）中特定项目的反馈。 反馈和其他信息的请求也会显示在申请历史记录中。 
 
 除非审核人员请求提供其他信息，否则你在提交申请后无法对其进行编辑。
 

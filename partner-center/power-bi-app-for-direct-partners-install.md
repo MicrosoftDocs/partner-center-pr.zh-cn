@@ -2,17 +2,19 @@
 title: 安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 请按照以下步骤预览适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 10a47f22fb3716e8ff162e7b936770a2ca8a8ffc
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b7635e8d6fd9910123ac4113d467ae506e507793
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134647"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654173"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -22,7 +24,7 @@ ms.locfileid: "62134647"
 
 ## <a name="before-you-begin"></a>开始之前
 
-选择与你的业务从以下列表中可用的 Power BI 应用的最相关的应用程序：
+从以下可用 Power BI 应用列表中选择与你的业务最相关的应用程序：
 - [直接合作伙伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
 
 - [间接合作伙伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
@@ -31,13 +33,13 @@ ms.locfileid: "62134647"
 
 安装合作伙伴中心分析应用预览版本之前，请确保你满足以下要求。
 
-- 为您的业务挑选正确的 Power BI 应用。
+- 你为你的业务选择正确的 Power BI 应用。
 
 - 你具有 Microsoft Power BI 专业版或 Microsoft Power BI 高级版的活动订阅。
 
 - 你可以登录 Power BI。
 
-- 你可以以[贵公司的 Azure Active Directory (Azure AD) 租户](azure-active-directory-tenants-and-partner-center.md)的全局管理员、管理员代理或帐单管理员的身份登录。
+- 你可以使用 "全局管理员"、"管理代理" 或 "计费管理员" 身份登录到[你公司的 Azure Active Directory （Azure AD）租户](azure-active-directory-tenants-and-partner-center.md)。
 
 ## <a name="to-install-the-app"></a>安装应用
 
@@ -47,12 +49,12 @@ ms.locfileid: "62134647"
 
 3. 在下一页上，输入你的 Power BI 用户名和密码，然后选择**登录**。 
 
-4. 在**连接到合作伙伴中心分析**弹出窗口中，确认**身份验证方法**设置为 **oAuth2**，如果不是，请从列表中选择 **oAuth2**。 
+4. 在 "**连接到合作伙伴中心分析**" 弹出窗口上，验证**身份验证方法**是否设置为 " **oAuth2** "，或者从列表中选择 " **oAuth2** " （如果不是）。 
 
 > [!NOTE]  
 >  此窗口可能需要几分钟才会显示。
 
-5. 在**合作伙伴中心分析连接器**页面上，使用贵公司的 Azure AD 租户的全局管理员、管理员代理或帐单管理员身份登录，然后选择**登录**。
+5. 在 "**合作伙伴中心分析连接器**" 页面上，用你公司的 Azure AD 租户的 "全局管理员"、"管理代理" 或 "计费管理员凭据" 登录，然后选择 "**登录**"。
  
 6. 当提示你访问条款时，选择**接受**。 
 
@@ -62,4 +64,4 @@ ms.locfileid: "62134647"
 
 ## <a name="next-steps"></a>后续步骤
 
-[适用于 Microsoft Power BI 中查看您的业务数据与合作伙伴中心分析应用](power-bi-app-for-direct-partners-use.md)
+[查看适用于 Microsoft Power BI 的合作伙伴中心分析应用的业务数据](power-bi-app-for-direct-partners-use.md)

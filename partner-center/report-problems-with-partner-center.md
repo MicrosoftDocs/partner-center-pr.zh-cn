@@ -2,17 +2,19 @@
 title: 报告合作伙伴中心问题 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如何报告合作伙伴中心问题并为支持团队收集诊断信息。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425190"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651717"
 ---
 # <a name="report-problems-with-partner-center"></a>报告合作伙伴中心问题
 
@@ -39,7 +41,7 @@ ms.locfileid: "72425190"
 
 **发送诊断**
 
-如果在合作伙伴中心页面上出错，系统可能提示你收集日志信息。 从页面顶部的下拉链接中选择**收集更多信息**，以打开客户端诊断工具。 此工具收集合作伙伴支持团队确定错误原因所需的信息。 
+如果在合作伙伴中心页面出现错误，系统可能会提示收集日志信息。 从页面顶部的下拉链接中选择**收集更多信息**，以打开客户端诊断工具。 此工具收集合作伙伴支持团队确定错误原因所需的信息。 
 
 >[!NOTE]
 >在 URL 中包含 **/pcv/** 的合作伙伴中心页上，你可以手动打开该工具来收集此信息。

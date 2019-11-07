@@ -2,17 +2,19 @@
 title: 管理你的合作伙伴帐户-位置 |合作伙伴中心
 ms.topic: article
 ms.date: 03/27/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理公司的位置
 author: LauraBrenner
 ms.author: labrenne
 keywords: 合作伙伴帐户，位置
 ms.localizationpriority: medium
-ms.openlocfilehash: 16b0649ec68aa4915a6aa3ad59b260cadfc63012
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171223"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653358"
 ---
 # <a name="manage-your-partner-account-locations"></a>管理你的合作伙伴帐户：位置
 

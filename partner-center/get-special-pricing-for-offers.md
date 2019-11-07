@@ -2,17 +2,19 @@
 title: 向特定行业销售 | 合作伙伴中心
 ms.topic: article
 ms.date: 05/14/2019
-Description: Microsoft 为选择的客户组提供特殊的、减少的定价, 包括教育客户、非利润客户和政府用户。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: Microsoft 为选择的客户组提供特殊的、减少的定价，包括教育客户、非利润客户和政府用户。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 10b4cf8f261c9d9af4be5aa7c91cc6e81663bfba
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820443"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653079"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -27,13 +29,13 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 |**特价**   |**分销商要求的资格**   |**客户要求的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育版   |成为[授权的教育经销商](https://www.mepn.com)。   | 必须是[合格的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政策   |若要销售 Azure, 请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|政策   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
 |非盈利  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非盈利性特价产品/服务](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的更多信息。   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
 
-以下步骤仅适用于间接提供商和直接帐单合作伙伴。 间接经销商需要与间接提供商联系, 以向合格的教育用户提供学术定价的产品/服务。 
+以下步骤仅适用于间接提供商和直接帐单合作伙伴。 间接经销商需要与间接提供商联系，以向合格的教育用户提供学术定价的产品/服务。 
 
 1.  在你的合作伙伴仪表板中，选择窗口右上角的齿轮图标打开**帐户设置**。
 2.  在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。
@@ -41,7 +43,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 ## <a name="check-the-customer-qualifications"></a>检查客户资格
 
-1.  从 "**合作伙伴中心**" 菜单中, 选择 "**客户**"。 从列表中选择客户。
+1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
 2.  在“客户”菜单中，选择**帐户**。 在**公司信息**部分中，查找**特殊资格**。
 3.  如果**特殊资格**设为**无**，但客户实际上符合资格，可将相关资格**更新**到其详细信息中。
 
@@ -49,9 +51,9 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在**新订阅**页的**目录**部分，选择特定行业以查看你可以销售的特价产品/服务。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
-[销售“我的世界”：教育版向教育客户订阅](minecraft-subscriptions.md)
+[销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)
 
 [适用于美国政府的 Microsoft 云合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 

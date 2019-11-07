@@ -2,17 +2,19 @@
 title: 税务和免税 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 因为云解决方案提供商是专注于合作伙伴产品转售的销售渠道，所以 Microsoft 并不始终要求向合作伙伴发票征收销售税。
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262979"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654013"
 ---
 # <a name="tax-and-tax-exemptions"></a>税务和免税
 
@@ -24,11 +26,11 @@ ms.locfileid: "67262979"
 
 因为云解决方案提供商是专注于合作伙伴产品转售的销售渠道，所以 Microsoft 并不始终要求向合作伙伴发票征收销售税。 规则因国家/地区而异。 合作伙伴应与税务顾问合作，以便根据自身位置和客户群所在位置来申报免税。 若要将他们的 Microsoft 经销商帐户标记为不应纳税，合作伙伴应该将这些免税证书发送到 Microsoft。
 
-**文件税务例外**
+**为免税文件**
 
-1.  查找你**Microsoft ID**在合作伙伴中心&gt;**帐户设置** &gt; **组织配置文件**。
-2.  查找你**MPN ID**在合作伙伴中心&gt;**帐户设置** &gt; **合作伙伴配置文件**。
-3.  创建新的支持票证。 在合作伙伴中心菜单中，选择**服务请求** &gt; **合作伙伴中心请求** &gt; **新请求**。
+1.  在合作伙伴中心 &gt;**帐户设置**&gt;**组织配置文件**中查找**Microsoft ID** 。
+2.  &gt;**帐户设置**&gt;**伙伴配置文件**中查找 "合作伙伴中心" 中的**MPN ID** 。
+3.  创建新的支持票证。 从 "合作伙伴中心" 菜单中，选择 "**服务请求**" &gt;**合作伙伴中心请求**&gt;**新请求**"。
 4.  填写表单。 对于**问题类型**，选择**无法管理我的个人资料**。 在描述中包括你的 MPN ID 和 Microsoft ID。
 5.  提交票证后，Microsoft 将向你发送电子邮件以获取更多信息。 在回复时，请附加免税证书的相应支持文档。
 
@@ -51,7 +53,7 @@ ms.locfileid: "67262979"
 <p>Microsoft 不支持赊账和重新计费，因此在你销售任何订阅之前，必须在合作伙伴中心中注册 VAT ID 号码。</p>
 <p>向 Microsoft 发送 VAT ID 号码</strong></p>
 <ol>
-<li>在合作伙伴中心，转到合作伙伴中心菜单&gt;<strong>帐户设置</strong> &gt; <strong>合作伙伴账单资料</strong>。</li>
+<li>在合作伙伴中心，请参阅合作伙伴中心菜单 &gt;<strong>帐户设置</strong>&gt;<strong>合作伙伴计费配置文件</strong>。</li>
 <li>在“财经数据”部分中，选择“更新”。</li>
 <li>在“公司税务 ID”中，指定 VAT ID 号码。</li>
 </ol></td>
@@ -59,11 +61,11 @@ ms.locfileid: "67262979"
 <tr class="odd">
 <td>南非</td>
 <td><p>
-Microsoft 现在对数字内容和服务在南非的合作伙伴购买的应用标准的增值税 (VAT)。 若要从您的发票中排除增值税和此自行管理，使用以下过程更新你的合作伙伴计费配置文件。
+Microsoft 现在向南非的合作伙伴购买的数字内容和服务应用标准增值税（VAT）。 若要从发票中排除增值税并自行管理此项，请使用以下过程更新你的合作伙伴计费配置文件。
 </p>
 <p>向 Microsoft 发送 VAT ID 号码</strong></p>
 <ol>
-<li>在合作伙伴中心，转到合作伙伴中心菜单&gt;<strong>帐户设置</strong> &gt; <strong>合作伙伴账单资料</strong>。</li>
+<li>在合作伙伴中心，请参阅合作伙伴中心菜单 &gt;<strong>帐户设置</strong>&gt;<strong>合作伙伴计费配置文件</strong>。</li>
 <li>在“财经数据”部分中，选择“更新”。</li>
 <li>在“公司税务 ID”中，指定 VAT ID 号码。</li>
 </ol></td>
@@ -72,11 +74,11 @@ Microsoft 现在对数字内容和服务在南非的合作伙伴购买的应用�
 <td>土耳其</td>
 <td>
 <p>
-Microsoft 现在应用数字内容和服务由合作伙伴在土耳其购买标准增值税 (VAT)。 若要从您的发票中排除增值税和此自行管理，使用以下过程更新你的合作伙伴计费配置文件。
+Microsoft 现在将标准增值税（VAT）应用于由土耳其的合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理此项，请使用以下过程更新你的合作伙伴计费配置文件。
 </p>
 <p>向 Microsoft 发送 VAT ID 号码</strong></p>
 <ol>
-<li>在合作伙伴中心，转到合作伙伴中心菜单&gt;<strong>帐户设置</strong> &gt; <strong>合作伙伴账单资料</strong>。</li>
+<li>在合作伙伴中心，请参阅合作伙伴中心菜单 &gt;<strong>帐户设置</strong>&gt;<strong>合作伙伴计费配置文件</strong>。</li>
 <li>在“财经数据”部分中，选择“更新”。</li>
 <li>在“公司税务 ID”中，指定 VAT ID 号码。</li>
 </ol></td>
@@ -92,7 +94,7 @@ Microsoft 现在应用数字内容和服务由合作伙伴在土耳其购买标�
 </tr>
 <tr class="odd">
 <td>其他税收文档</td>
-<td><p>税收收据（适用于中国台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。</p>
+<td><p>税收收据（适用于台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。</p>
 <p>若需要其他税务相关的文档，请从合作伙伴中心申请服务。</p></td>
 </tr>
 </tbody>

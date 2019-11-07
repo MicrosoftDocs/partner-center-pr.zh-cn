@@ -2,17 +2,19 @@
 title: 管理你的 Microsoft 合作伙伴网络权益 |合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 作为 Microsoft 合作伙伴网络成员，你有权购买某些成员身份权益。 说明如何激活和管理合作伙伴中心的成员权益。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 成员身份权益, 成员身份
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413331"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653316"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理你的 Microsoft 合作伙伴网络成员身份权益
 
@@ -35,7 +37,7 @@ ms.locfileid: "73413331"
 
 权益包包括授权软件、云服务、Visual Studio 订阅和支持的分配。 权益包还可以包含某些投放市场优势。 你可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 
-若要查看和管理你的所有成员资格权益，请参阅你的[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。 或者，你可以登录到合作伙伴中心[仪表板](https://docs.microsoft.com/en-us/partner-center/)，从左侧菜单中选择 "[**福利选项**"]，然后选择显示的任何权益选项。  
+若要查看和管理你的所有成员资格权益，请参阅你的[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。 或者，你可以登录到合作伙伴中心[仪表板](https://docs.microsoft.com/partner-center/)，从左侧菜单中选择 "[**福利选项**"]，然后选择显示的任何权益选项。  
 
 #### <a name="manage-software-benefits"></a>管理软件权益
 
@@ -108,6 +110,7 @@ ms.locfileid: "73413331"
 
 - 全局管理员
 - MPN 合作伙伴管理员
+
 
 1. 选择 "**走向市场" 权益**，查看 Microsoft 市场推广权益列表。
 

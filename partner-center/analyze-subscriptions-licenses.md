@@ -1,6 +1,8 @@
 ---
 title: 分析订阅和许可证 | 合作伙伴中心
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 使用 "订阅和许可证分析" 页中的指标来确定你的成功和需要更多关注的区域。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 29d597b66c16d7f0da29caa023c1da7ba23f9616
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68782001"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651182"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>分析订阅和许可证 
 
@@ -30,31 +32,31 @@ ms.locfileid: "68782001"
 
 此报告可根据以下产品进行透视：
 
- - **Dynamics 365**:Dynamics 365 数据  
- - **EMS**:企业管理服务数据  
- - **Microsoft 365**:Microsoft 365 数据  
- - **Office 365**:Office 365 数据  
+ - **Dynamics 365**：Dynamics 365 数据  
+ - **EMS**：企业管理服务数据  
+ - **Microsoft 365**：Microsoft 365 数据  
+ - **Office 365**：Office 365 数据  
 
 
 我们跟踪下列指标：
 
 **摘要**  
- - **销售的订阅**:在指定时间段内创建的订阅计数  
- - **销售的许可证**:指定时间段内销售的许可证计数   
- - **订阅将在30天内续订**:在指定的时间段内状态处于活动状态的订阅计数, 其中**Autorenew**为 true
- - **活动订阅**:状态处于**活动**状态的订阅  
- - **挂起的订阅**:挂起的订阅计数, 无日期筛选器  
+ - **已销售订阅数**：指定时间段内创建的订阅计数  
+ - **已销售许可证数**：指定时间段内销售的许可证计数   
+ - **30 天内续订的订阅数**：在指定时间段内状态为活动并且 **Autorenew** 为 true 的订阅计数
+ - **活动订阅**：状态为**活动**的订阅  
+ - **已暂停订阅**：已暂停订阅的计数，无法利用日期进行筛选  
 
 **产品细目**  
- - **订阅计数**:按销售的订阅排序的前5个产品  
- - **许可证计数**:按已售出的排序许可证列出的前5个产品
+ - **订阅计数**：按已销售订阅数排序的 5 大热门产品  
+ - **许可证计数**：按已销售许可证数排序的 5 大热门产品
 
 **订阅保留**
- - **续订的订阅**:最近30天内续订的订阅  
+ - **已续订订阅**：在过去 30 天内续订的订阅  
 
 **订阅改动**  
  - **新订阅**：该时间段内的新订阅计数，不包括试用版  
- - **取消预配订阅**:按日期取消预配或挂起的订阅计数  
+ - **取消设置的订阅数**：按日期显示的取消设置或暂停的订阅计数  
 
 **挂起的订阅**  
  - 状态为**已暂停**的所有订阅的列表，不包括试用版  
@@ -63,7 +65,7 @@ ms.locfileid: "68782001"
  - 所有活动订阅的列表  
 
 **试用订阅转换**  
- - **试用转换**:在指定时间段内发生了试用期支付转换的所有**活动**订阅的计数  
+ - **试用版转换**：在指定时间段内发生了试用版到付费版转换的所有**活动**订阅计数  
 
 **试用订阅结束时间为30天**  
  - 已经开始、结束日期在 30 天内并且订阅没有关联付费开始日期的试用版的列表  

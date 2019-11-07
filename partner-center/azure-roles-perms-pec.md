@@ -2,17 +2,19 @@
 title: 符合合作伙伴获得信用额度的角色和权限 |合作伙伴中心
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 角色和权限以及合作伙伴获得的信用额度
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: edb43070cf0d34ce893bf13a501b91f32e904ad7
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: c57effb8d7550da05ca55afd3d14ea9aa9f022ba
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093254"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653787"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>符合合作伙伴获得的信用额度的角色和权限
 

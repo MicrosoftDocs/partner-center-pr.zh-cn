@@ -2,17 +2,19 @@
 title: 使用我们的 API 获取自动服务通知 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Office 365 和 Microsoft Azure 各提供一个合作伙伴可用于检索实时服务运行状况、消息中心通信和计划维护事件的 API。
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 026ec0a3743d74c3255eb7e9316796effcb59441
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3c44679f5ce0f449329c1079c7a45a732058d679
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135677"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653087"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>使用我们的 API 获取自动服务通知
 

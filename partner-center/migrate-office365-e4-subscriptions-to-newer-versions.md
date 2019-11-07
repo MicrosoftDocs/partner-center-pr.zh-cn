@@ -2,16 +2,18 @@
 title: 将 Office 365 E4 订阅迁移到较新的 Office 365 版本 |合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起已停用。 了解如何将你的客户订阅迁移到较新版本的 Office 365。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: e14ffbfaeaec64e8ccf3612cba9ed0f27aa31968
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134377"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654321"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -21,10 +23,10 @@ ms.locfileid: "62134377"
 
 Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 月 7 日。 在此日期之后，你将无法再购买新的 Office 365 E4 订阅，现有的 E4 订阅在到期后将不会自动续订。
 
-当 E4 订阅结束时，它们将会被取消。 为了确保客户服务连续性，你应该将 E4 订阅快过期的客户过渡到下列支持的 SKU 选项。 建议在订阅年度结束日期之前将客户转移到新订阅，以避免出现任何客户服务中断。 
+当 E4 订阅结束时，它们将会被取消。 为了确保客户服务连续性，你应该将 E4 订阅快过期的客户过渡到下列支持的 SKU 选项。 建议将客户移动到订阅的每年结束日期之前的新订阅，以避免客户发生服务中断。 
 
 > [!NOTE]  
->  Office 365 企业版 E4 商业和政府 Sku 将停用。
+>  Office 365 企业版 E4 商业版和政府版 Sku 均已停用。
  
 在订阅的详细信息页面上，E4 订阅状态已从“[日期] 自动续订”更改为“[日期] 过期”。 
 
@@ -38,23 +40,23 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 
 - 选项 1：Office 365 企业版 E5
 
-- 选项 2：Office 365 企业版 E3 + 业务云 PBX Skype
+- 选项 2：Office 365 企业版 E3 + Skype for Business 云 PBX
 
-- 选项 3：Office 365 企业版 E3 + Skype for Business Plus CAL （价格和功能奇偶校验版 E4）
+- 选项 3：Office 365 企业版 E3 + Skype for Business Plus CAL（价格和功能与 E4 相同）
 
 - 选项 4：Office 365 企业版 E3
 
 
 | 功能 | 选项 1 | 选项 2 | 选项 3 | 选项 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| 获取 Office 365 企业版 E4 中包含的所有功能？ | 是 | 是 | 是 | 否 |
-| 在 Office 365 中管理电话号码？ | 是 | 是 | 否 | 否 |
-| 在本地和 Office 365（混合部署）中管理电话号码？ | 是 | 是 | 否 | 否 |
-| 选项用于添加 PSTN 语音通话套餐？ | 是 | 是 | 否 | 否 |
-| PSTN 会议？ | 是 | 否 | 否 | 否 |
-| 用于协作、分析和保证安全的高级工具？ | 是 | 否 | 否 | 否 |
-| 交互式报告、仪表板和数据可视化？ | 是 | 否 | 否 | 否 | 
-| 更好地控制数据安全性并符合内置的隐私、透明度和改进型用户控件的要求？ | 是 | 否 | 否 | 否 | 
+| 获取 Office 365 企业版 E4 中包含的所有功能？ | “是” | “是” | “是” | 无 |
+| 在 Office 365 中管理电话号码？ | “是” | “是” | 无 | 无 |
+| 在本地和 Office 365（混合部署）中管理电话号码？ | “是” | “是” | 无 | 无 |
+| 选项用于添加 PSTN 语音通话套餐？ | “是” | “是” | 无 | 无 |
+| PSTN 会议？ | “是” | 无 | 无 | 无 |
+| 用于协作、分析和保证安全的高级工具？ | “是” | 无 | 无 | 无 |
+| 交互式报告、仪表板和数据可视化？ | “是” | 无 | 无 | 无 | 
+| 更好地控制数据安全性并符合内置的隐私、透明度和改进型用户控件的要求？ | “是” | 无 | 无 | 无 | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>将客户过渡到新产品计划
 
@@ -68,15 +70,15 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-1---purchase-the-new-subscription"></a>步骤 1 - 购买新订阅
 
-1. 从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动，并选择的客户**添加订阅**。
+1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，选择要移动的客户，然后选择 "**添加订阅**"。
 
 2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。
 
-   你的客户现在应该具有旧订阅和新订阅，即旧的 Office 365 企业版 E4 订阅和新的“目标”订阅，例如“选项 1 - Office 365 企业版 E5”。
+   你的客户现在应具有新订阅和新订阅，旧的 Office 365 企业版 E4 订阅和新的 "目标" 订阅，例如，选项 1-Office 365 企业版 E5。
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>第 2 步 - 重新分配客户的用户许可证
 
-1. 从**合作伙伴中心**菜单中，选择**客户**，选择你想要移动，并选择的客户**用户和许可证**。 将打开客户的“用户和许可证”页。
+1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，选择你想要移动的客户，然后选择 "**用户和许可证**"。 此时将打开客户的 "用户和许可证" 页。
 
 2. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择**管理许可证**。
 
@@ -90,7 +92,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="step-3---cancel-the-old-subscription"></a>步骤 3 - 取消旧订阅
 
-1. 从**合作伙伴中心**菜单中，选择**客户**。 选择你想要移动的客户，并选择你想要取消的订阅。
+1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 选择你想要移动的客户，并选择你想要取消的订阅。
 
 2. 在订阅详细信息页面中，将订阅状态设置为**已暂停**。
 

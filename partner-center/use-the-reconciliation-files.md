@@ -2,17 +2,19 @@
 title: 使用对帐文件 | 合作伙伴中心
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 若要详细了解计费周期中的每个费用，请从合作伙伴中心下载协调文件。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931579"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653977"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -71,7 +73,7 @@ ms.locfileid: "71931579"
 <p>订阅记录的经销商 MPN ID。 这对应于针对合作伙伴中心中的特定订阅所列的经销商 ID。</p>
 <p>eTo 查看或更新经销商，从合作伙伴中心菜单中选择 "<strong>客户</strong>"，然后从列表中选择客户。 在“客户”菜单中，选择“订阅”，然后从列表中选择订阅。 选择“更新”以更改“经销商 (MPN ID)”。</p>
 <p>如果云解决方案提供商合作伙伴将订阅直接销售给客户，他们的 MPN ID 会列出两次，即 MPN ID 和经销商 MPN ID。</p>
-<p>如果云解决方案提供商合作伙伴的经销商没有 MPN ID，此值将设置为合作伙伴的 MPN ID。</p>
+<p>如果 CSP 合作伙伴的分销商没有 MPN ID，则此值将改为设置为合作伙伴的 MPN ID。</p>
 <p>如果云解决方案提供商合作伙伴删除经销商 ID，此值将设置为 -1。</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ ms.locfileid: "71931579"
 <td>ServiceType</td>
 <td><p>Windows Azure 服务的特定类型。</p></td>
 <td><ul>
-<li>服务总线 – 个人或包</li>
-<li>SQL Azure 数据库 – 商用版或 Web 版</li>
+<li>Service Bus-个人或包</li>
+<li>SQL Azure 数据库-企业版或 Web 版</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ ms.locfileid: "71931579"
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>已预配并且已在指定日利用的服务总线连接数。</p></td>
-<td>例如：如果你在一个月 30 天内有单独的已预配连接，则服务信息 1 将读取“1.000000 连接/ 30 天”。 如果你有已预配服务总线连接的 25 个包，并且在那一天利用了 1 个，则这一天的每日使用情况声明将指示“25 连接/ 30 天 – 已使用：1.000000”。</td>
+<td>例如：如果你在30天的时间月内单独预配了连接，服务信息1将读取 "1.000000 连接/30 天"。 如果预配了 25 pack 连接，并且在该天内使用了1，则该日期的每日使用声明将指示 "25 个连接/30 天-使用时间： 1.000000"。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ ms.locfileid: "71931579"
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>特定可用性的 ID。 “可用性”是指针对给定的国家/地区、货币、行业细分市场等，是否可以购买特定 SKU。</p></td>
+<td><p>特定可用性的 ID。 "可用性" 指的是特定 SKU 是否可用于给定国家/地区、货币、行业段等。</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ ms.locfileid: "71931579"
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>特定可用性的 ID。 “可用性”是指针对给定的国家/地区、货币、行业细分市场等，是否可以购买特定 SKU。</p></td>
+<td><p>特定可用性的 ID。 "可用性" 指的是特定 SKU 是否可用于给定国家/地区、货币、行业段等。</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ ms.locfileid: "71931579"
 <td><p>GUID 格式的发布服务器的 ID。 对当前活动不可用。</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>订阅说明</td>
 <td><p>客户购买的服务产品的名称，如价目表中所定义。 （与产品/服务名称字段相同）。</p></td>
 </tr>
@@ -910,7 +912,7 @@ ms.locfileid: "71931579"
 
 若要交叉引用发票与对帐文件之间的费用金额，可以使用 Microsoft Excel 的筛选器选项在对帐文件上按照费用类型进行筛选，以将发票金额映射到对帐文件的一系列费用明细上。
 
-基于使用情况和基于许可证的对帐文件仅显示与使用量相关的交易和费用（所用数量以及相关费用）。 对帐文件中不显示发票上显示为“调整”的一次性积分、折扣或退款。
+基于使用情况和基于许可证的对帐文件仅显示与使用量相关的交易和费用（所用数量以及相关费用）。 按 "调整" 形式出现在发票上的一个信用额度、折扣或退款不显示在对帐文件中。
 
 下表显示了发票部分与可能在对帐文件上显示的相关费用类型之间的映射。 
 

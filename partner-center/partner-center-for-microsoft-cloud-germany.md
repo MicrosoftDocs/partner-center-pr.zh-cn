@@ -2,17 +2,19 @@
 title: 德国 Microsoft 云合作伙伴中心 | 德国 Microsoft 云合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 对于要向欧盟和欧洲自由贸易联盟国家/地区的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴来说，德国 Microsoft 云合作伙伴中心是其业务门户。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 69e6258838ddd5532157f05988e5a57f714422ff
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134197"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654213"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心
 
@@ -22,16 +24,16 @@ ms.locfileid: "62134197"
 
 德国 Microsoft 云专为满足严格的德国数据保护要求而设计，并包含德国数据受托人，该受托人控制按照德国法律对客户数据进行物理和逻辑访问。 所有客户数据和以及对客户数据进行处理或控制访问的系统均位于德国数据中心。 在德国，这些数据中心之间的网络都是隔离且专用的。
 
-Microsoft 云德国版提供了一个单独的实例[Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)从德国数据中心交付。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
+德国 Microsoft 云提供[Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)的单独实例，从德国数据中心提供。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
 
 > [!IMPORTANT]
 
-> 根据客户需求的变化，我们的德国云战略将侧重于在德国提供与我们的全球云产品/服务一致的新的云地区。 因此，我们将不再接受新客户或从当前可用的德国 Microsoft 云中部署任何新服务。 现有的客户现在可继续使用当前可用的云服务，针对这些云服务我们将维护必要的安全更新。 
+> 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 因此，我们将不再接受新客户或从当前可用的德国 Microsoft 云中部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。 
 > 
 > 接下来，新客户可以选择使用当前可用的欧洲地区或德国的新地区（在这些地区可用时）。 有关详细信息，请参阅 [Microsoft 通过德国的新数据中心提供云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
 
-## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft 云德国的合作伙伴中心：销售 EU 和欧洲自由贸易联盟中的德国云解决方案
+## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>德国 Microsoft 云合作伙伴中心：在欧盟和欧洲自由贸易联盟内销售德国云解决方案
 
 注册德国 Microsoft 云的云解决方案提供商 (CSP) 后，你将使用合作伙伴中心向欧盟和欧洲自由贸易联盟国家/地区内的客户销售德国云特定的解决方案和服务。 
 

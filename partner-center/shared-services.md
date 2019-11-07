@@ -2,18 +2,20 @@
 title: 添加 Azure 合作伙伴共享服务 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, 共享服务, 租户
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bfdb82d0698f2e0aba3f5284a53fe22010efc0da
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134928"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651681"
 ---
 # <a name="add-azure-partner-shared-services"></a>添加 Azure 合作伙伴共享服务
 
@@ -21,7 +23,7 @@ ms.locfileid: "62134928"
 
 -  合作伙伴中心
 
-Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。  它会创建合作伙伴购买、 跟踪和管理 Azure 的功能的补充使用统一的方法来合并他们的 Azure 授权和转售必须具有与 Microsoft 签订的协议的机会。 借助 Azure 合作伙伴共享服务，合作伙伴现在可以像在 Microsoft 企业协议和 Web Direct 计划中一样在云解决方案提供商计划中灵活地使用 Azure 订阅，同时也可以构建开发和测试环境、部署内部工作负载以及托管共享服务或多租户应用程序等。  
+Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。  它为合作伙伴提供了一种机会，使合作伙伴可以使用一种统一的方法来购买、跟踪和管理 Azure，还可以通过 Microsoft 合并其 Azure 许可和转售协议。 借助 Azure 合作伙伴共享服务，合作伙伴现在可以像在 Microsoft 企业协议和 Web Direct 计划中一样在云解决方案提供商计划中灵活地使用 Azure 订阅，同时也可以构建开发和测试环境、部署内部工作负载以及托管共享服务或多租户应用程序等。  
 
 ## <a name="create-the-shared-services-tenant"></a>创建共享服务租户
 
@@ -39,13 +41,13 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>关于“Azure - 内部/共享服务”
 
-- “Azure - 内部/共享服务”订阅是云解决方案提供商计划中的新 Azure 服务类型，合作伙伴可以通过合作伙伴中心访问该服务类型以自行使用 Azure。 
+- Azure-内部/共享服务订阅是一个新的 Azure 产品/服务类型，可通过合作伙伴为其自己使用 Azure 的合作伙伴访问 CSP。 
 
-- “Azure - 内部/共享服务”服务没有资格享受折扣或奖励。
+- Azure-内部/共享服务产品/服务不适用于折扣和奖励。
 
 - “Azure - 内部/共享服务”服务只能应用于共享服务租户。
 
-- “Azure - 内部/共享服务”订阅的主要用途是让你能够使用 Azure 自行进行开发。 用于预配此服务的共享租户无法用于其他服务，如 Office 365 或 Dynamics 席位。 
+- Azure-内部/共享服务订阅的主要用途是，以便可以将 Azure 用于自己的开发目的。 用于预配此服务的共享租户无法用于其他服务，如 Office 365 或 Dynamics 席位。 
 
 - 你可以像取消任何其他订阅一样取消该订阅。 转到**设置** > **查看所有设置** > **共享服务**。 选择“Azure - 内部/共享服务”订阅，并将其取消。
 
@@ -57,19 +59,19 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 若要查看 Azure 合作伙伴共享服务的新定价文件，请转到**销售** > **定价和产品/服务**，然后选择当月的价目表。 在接下来的几周内，还将发布特定费率卡 API。
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 产品/服务和 Azure 合作伙伴共享服务
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 产品和 Azure 合作伙伴共享服务
 
-从 2019 年 3 月 1 日，开始 Azure 合作伙伴共享服务 (APSS) 不再支持 Marketplace 产品/服务。   
+从3月1日起，2019，Azure 合作伙伴共享服务（应用）不再支持 Marketplace 产品/服务。   
 
-|**Marketplace 支持**   |**APSS 2019 年 3 月 1 日之前的版本支持**|**2019 年 3 月 1日日之后**|
+|**Marketplace 支持**   |**2019年3月1日之前支持应用**|**2019年3月1日之后**|
 |---------------------------|:----------------------------|:-------------------|
-|将你自己的许可 (BYOL) 和免费服务   | 是   | 否|
-|其他第三方 marketplace 产品/服务   | 否   |否|
+|自带许可（BYOL）和免费服务   | “是”   | 无|
+|其他第三方 marketplace 产品   | 无   |无|
 
 
-合作伙伴具有 BYOL 或免费服务使用 APSS 部署将不会受到影响;但是在 2019 年 3 月 1 日之后它们将无法再购买新的 BYOL 或免费服务。 
+使用应用部署了 BYOL 或免费服务的合作伙伴将不受影响;但2019年3月1日之后，他们将无法购买新的 BYOL 或免费服务。 
 
-若要充分利用 Marketplace 产品/服务可用的完整目录 （而不仅仅是 BYOL 和免费服务） 建议 CSP 合作伙伴部署使用 web 直接 Azure 订阅的共享的服务。  CSP 合作伙伴部署了第三方 BYOL 和免费的以前服务在 Marketplace 中的资源并希望继续使用它们并部署更多第三方产品/服务，建议将 APSS 订阅迁移到 web 直接[迁移现有的 Azure 订阅](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
+若要充分利用 Marketplace 产品/服务（不只是 BYOL 和免费服务），我们建议使用 web 直接 Azure 订阅部署共享服务。  建议先从 Marketplace 部署第三方 BYOL 和免费服务资源并希望继续使用这些资源并部署更多第三方产品/服务的 CSP 合作伙伴，以将应用订阅迁移到 web 直接[迁移现有 Azure订阅](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
 
-合作伙伴计划继续使用后年 3 月 1 日，2019 APSS 订阅并想要部署新的第三方[BYOL 服务](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免费服务，可以从 Isv 能够将它们部署到其 APSS 订阅按照的说明。
+如果合作伙伴计划在2019年3月1日之后继续使用应用订阅，并且想要部署新的第三方[BYOL 服务](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免费服务，则可以按照 isv 提供的说明将它们部署到其应用订阅。
 

@@ -2,18 +2,20 @@
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure，预订，管理，计费，购买，取消，exchange，提前终止费
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704160"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653816"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订       
 
@@ -27,16 +29,16 @@ ms.locfileid: "71704160"
 
 1. 若要开始，请从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择要管理其预留的客户。 
 
-2. 在客户的详细信息页面菜单上，选择 **Azure 预订**，然后选择要管理的特定预订。  
+2. 在客户的详细信息页面菜单上，选择 " **Azure 保留**"，然后选择要管理的特定预订。  
 
-3. 在**操作**下面，选择**管理**以在 Azure 门户中转到客户的预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
+3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
     | **单击**   | **自**    |
     |:-----------------------------|:-----------------|
-    | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和使用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
-    | **访问控制（IAM）**   | 管理客户预订信息的访问权限。|
-    | **配置**   | 更改与预订相关联的预订范围和/或 Azure 订阅。    |
-    | **属性**   | 查看预订的属性并将预订 ID 和预订订单 ID 复制到剪贴板。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
+    | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
+    | **访问控制（IAM）**   | 管理对客户预订信息的访问。|
+    | **配置**   | 更改保留的作用域和/或与之关联的 Azure 订阅。    |
+    | **属性**   | 查看预订的属性并将其复制到剪贴板中保留 ID 和预留订单 ID。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
     | **新的支持请求**    | 请求 Microsoft 支持人员提供帮助。   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>取消或兑换预订 
@@ -73,13 +75,13 @@ ms.locfileid: "71704160"
 若要为代表客户的退款或 exchange 提供支持请求，请选择 "合作伙伴中心" 中的 "客户和预订"，然后在 Azure 门户中创建支持请求。 
 
 >[!NOTE]
->Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户中预订的**属性**页面上找到此信息。 
+>Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户的保留**属性**页上找到此信息。 
 
 1. 若要开始，请从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择要退款的客户。 
 
-2. 在客户的详细信息页面上，选择 **Azure 预订**，然后选择客户想要退款的特定预订。  
+2. 在客户的详细信息页上，选择 " **Azure 预订**"，然后选择客户希望获得退款的特定预订。  
 
-3. 在**操作**下面，选择**退款**以在 Azure 门户中转到客户预订记录并启动支持请求。  
+3. 在 "**操作**" 下，选择 "**退款**" 以前往 Azure 门户中的客户预订记录，并启动支持请求。  
 
 4. 在**新建支持请求**页上，请按照以下步骤来请求退款。 执行每个步骤后选择**下一步**。 
 
@@ -92,7 +94,7 @@ ms.locfileid: "71704160"
 5.  完成后选择**创建**。
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**有关**   |**阅读此**    |
+|**有关**   |**阅读此文**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [出售 Microsoft Azure 预订实例](azure-reservations.md) |
 |在合作伙伴中心为客户购买 Azure 保留   |[购买 Azure 预订](azure-reservations-buying.md) |

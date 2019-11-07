@@ -2,16 +2,18 @@
 title: 与其他合作伙伴合作 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 与云解决方案提供商中的其他合作伙伴合作，以满足你们的共同客户的需求。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 772544e474a15e11f64a315c3e6e5b04ec58d52c
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820544"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651155"
 ---
 # <a name="work-with-other-partners"></a>与其他合作伙伴合作
 
@@ -19,7 +21,7 @@ ms.locfileid: "68820544"
 
 -  合作伙伴中心
 
-Microsoft 云解决方案提供商 (CSP) 计划为合作伙伴采用这些方式一起协作提供了机会。
+Microsoft 的云解决方案提供商（CSP）计划提供了一些机会，使合作伙伴能够以这些方式协同工作。
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>间接提供商-间接经销商模型
 
@@ -41,15 +43,15 @@ Microsoft 云解决方案提供商 (CSP) 计划为合作伙伴采用这些方式
 
 ## <a name="multi-partner-support"></a>多合作伙伴支持
 
-合作伙伴中心的多合作伙伴功能支持客户需要与多个合作伙伴合作的情况。 例如，他们可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，而且还会雇用一个专攻 Microsoft Azure 的其他合作伙伴。 有关详细信息，请参阅[多合作伙伴支持](multipartner.md)。
+如果客户需要与多个合作伙伴合作，则合作伙伴中心的多合作伙伴功能支持方案。 例如，他们可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，而且还会雇用一个专攻 Microsoft Azure 的其他合作伙伴。 有关详细信息，请参阅[多合作伙伴支持](multipartner.md)。
 
 Microsoft 的国家云服务/产品中也提供多合作伙伴支持。 
 
 ## <a name="multi-channel-support"></a>多渠道支持
 
-合作伙伴中心的多渠道功能支持客户想要雇用一个合作伙伴来预配和支持他们在其他地方购买的订阅的情况。 有关详细信息，请参阅[多渠道支持](multichannel.md)。
+如果客户想要雇用合作伙伴来预配和支持他们所购买的订阅，则合作伙伴中心的多渠道功能支持方案。 有关详细信息，请参阅[多渠道支持](multichannel.md)。
 
 Microsoft 的国家云产品/服务中也提供多渠道支持。
 
 > [!IMPORTANT]  
-> CSP 计划中的合作伙伴目前无法转售联机服务给 CSP 计划。 Microsoft 不断查看所有程序的策略和功能。 有关功能版本或策略更改的任何新闻都将通过常规通信通道 (包括[合作伙伴中心公告](https://partner.microsoft.com/pcv/announcements)) 公布。
+> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](https://partner.microsoft.com/pcv/announcements)）进行公布。

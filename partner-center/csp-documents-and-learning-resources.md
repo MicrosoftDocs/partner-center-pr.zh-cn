@@ -2,18 +2,20 @@
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204631"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653568"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
@@ -73,4 +75,4 @@ ms.locfileid: "71204631"
 
 对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在“定价和套餐”页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 
-若要了解独立软件供应商  (ISV) 发布的 Azure 市场套餐，请访问左侧导航菜单中的“市场”页面。 目前，只能在合作伙伴中心购买 SaaS（软件即服务）产品类型。 你需要访问 Azure 门户以获取其他类型的 Azure 市场套餐。
+若要了解独立软件供应商  (ISV) 发布的 Azure 市场套餐，请访问左侧导航菜单中的“市场”页面。 目前，只能在合作伙伴中心购买 SaaS（软件即服务）产品类型。 需要访问 Azure 门户以获取其他类型的 Azure Marketplace 产品/服务。

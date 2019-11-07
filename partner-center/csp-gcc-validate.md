@@ -2,16 +2,18 @@
 title: Office 365 政府版 GCC 合作伙伴和客户资格标准 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 用于验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的过程。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134847"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653543"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户资格标准
 
@@ -27,7 +29,7 @@ ms.locfileid: "62134847"
 
 如果你是服务于美国联邦、州、地方或部落政府实体的合作伙伴，你可以获得批准。 若要验证你的组织资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的简短表单。
 
-如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。 若要验证客户组织的资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短表单。 
+如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。 若要让客户的资格获得资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短窗体。 
 
 -   你的组织必须[注册](https://partnercenter.microsoft.com/partner/cloud-solution-provider)云解决方案提供商计划，因为这是被批准出售适用于云解决方案提供商的 Office 365 政府版 GCC 的先决条件。
 -   适用于云解决方案提供商的 Office 365 政府版 GCC 的分步验证过程指南位于[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。
@@ -35,7 +37,7 @@ ms.locfileid: "62134847"
 
 将根据以下概述的要满足的特定标准来验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的资格。
 
-**合作伙伴条件**
+**合作伙伴标准**
 1.  通过直接或间接合同为美国政府客户提供服务或解决方案
 2.  通过 GSA 或其他合同文书为美国政府客户提供服务
 
@@ -48,7 +50,7 @@ ms.locfileid: "62134847"
     -   区域或州际政府实体（但不包括国际实体）
     -   联邦资助的研发中心 (FERDC)
 
-2.  数据受法规约束的商业私人实体。 接受的政府数据类型包括： 
+2.  商业专用实体，其中包含受法规约束的数据。 接受的政府数据类型包括： 
     -   国际武器贸易条例 (ITAR)
     -   受控制的未分类信息 (CUI)
     -   国防部 (DoD) 未分类的受控核信息 (UCNI)

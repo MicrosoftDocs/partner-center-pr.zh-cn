@@ -2,17 +2,19 @@
 title: 将多个公司从 PMC 迁移到合作伙伴中心的指南 | 合作伙伴中心
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 将多个公司从 PMC 迁移到合作伙伴中心时需要了解的事项
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958758"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654349"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>将多个公司移到合作伙伴中心
 
@@ -20,16 +22,16 @@ ms.locfileid: "68958758"
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>将其他帐户移到合作伙伴中心 
 
-由于你在登录时已将一个公司帐户移到电脑，因此我们会让你知道哪个帐户已在合作伙伴中心。 
+由于你已将一个公司帐户移到了 PC 上，因此当你登录时，我们会告知你哪个帐户已在合作伙伴中心。 
 
 
 如果在迁移后发现将错误的公司帐户指定为“法定公司”，可以更改该项。
 
-1. 转到“合作伙伴配置文件”。 
+1. 转到“合作伙伴配置文件”。
 
 2. 确保要将其指定为“法定公司”的位置位于位置列表中。 否则，请添加该位置。
 
-3. 选择“更新法定公司配置文件”。 
+3. 选择“更新法定公司配置文件”。
 
 4. 选择公司和区域，然后保存。
 

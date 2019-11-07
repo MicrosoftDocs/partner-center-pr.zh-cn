@@ -2,23 +2,25 @@
 title: 确认客户接受 Microsoft 客户协议 | 合作伙伴中心
 ms.topic: article
 ms.date: 09/30/2019
-Description: 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认该客户接受 Microsoft 客户协议。 为了更好地帮助合作伙伴满足符合性要求，Microsoft 要求合作伙伴提供接受协议人员的特定详细信息，以这种方式确认接受协议。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: 作为合作伙伴，你需要获取客户对 Microsoft 客户协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。 为了更好地帮助合作伙伴满足符合性要求，Microsoft 要求合作伙伴提供接受协议人员的特定详细信息，以这种方式确认接受协议。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704177"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653647"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
-目前，在云解决方案提供商合作伙伴可以代表客户下单之前，客户必须接受并签署相应的 **Microsoft 云协议**。 然后，合作伙伴必须向 Microsoft 提供签署人的相关信息，确认客户已接受协议。 如果未提供确认信息：
+目前，在 CSP 合作伙伴可以代表客户订购之前，客户必须接受并签署适用的**Microsoft 云协议**。 然后，合作伙伴必须向 Microsoft 提供签署人的相关信息，确认客户已接受协议。 如果未提供确认信息：
 - 你将无法为此客户创建新订单。
-- 你将无法为此客户更改现有的基于席位的订阅的席位计数。
+- 你将无法更改此客户的现有基于座位的订阅的座位数。
 
 若要详细了解如何使用合作伙伴中心面板或 API 来确认客户已接受 Microsoft 云协议，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)。
 

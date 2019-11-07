@@ -2,18 +2,20 @@
 title: 请确保已为预缴税金贷记。合作伙伴中心
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 你将需要预缴税金信用表和预缴税金证书以打开服务请求。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: 预缴税金信用，税收信用，德语税信用额度，形式纳税信用
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892410"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653947"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>请确保已为预缴税金贷记
 
@@ -49,7 +51,7 @@ ms.locfileid: "72892410"
 
 2. 选择**CSP**。
 
-3. 在 " **CSP –计费和付款**" 下，选择 "问题类型-**预缴税金**" 并选择 **"是"** 。 
+3. 在 " **CSP-计费和付款**" 下，选择 "问题类型-**预缴税金**" 并选择 **"是"** 。 
 
 4. 提交服务请求时，请确保附加税务信用表和税务证书的数字副本。
 

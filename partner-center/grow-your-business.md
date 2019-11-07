@@ -2,17 +2,19 @@
 title: 发展你的 Microsoft 合作伙伴业务 | 合作伙伴中心
 ms.topic: article
 ms.date: 05/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 适用于发展你的 Microsoft 合作伙伴业务的资源。 包括如何从 Microsoft 获得销售线索（引荐）。
 keywords: 引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案, 发展你的业务, 业务机会, 能力, 银牌成员资格, 金牌成员资格, 试用产品/服务, 市场扩张, 国家云
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958731"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653048"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>发展你的 Microsoft 合作伙伴业务 
 

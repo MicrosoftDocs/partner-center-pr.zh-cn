@@ -2,17 +2,19 @@
 title: 向客户提供支持 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
-description: 合作伙伴需要接收客户提出的支持请求，尽合作伙伴的能力诊断问题，然后在基准支持边界范围内解决问题。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e3a2eabdb02c41fe44750c967e7cfde3578fd29
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135477"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653451"
 ---
 # <a name="providing-support-to-your-customers"></a>向客户提供支持
 
@@ -28,7 +30,7 @@ ms.locfileid: "62135477"
 
 为了满足支持需求，合作伙伴可转售其他实体的支持，可外包其全部或部分支持结构和/或设置结构来直接提供支持。  合作伙伴可对向客户提供的全部或部分支持收取费用。 合作伙伴应向其客户明确说明将提供的支持、服务时间和联系方式，以及定价（如果对支持收费）。 
 
-合作伙伴需要接收客户提出的支持请求，尽合作伙伴的能力诊断问题，然后在基准支持边界范围内解决问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
+合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
 
 - **商业**问题支持可用于云解决方案提供商计划中的所有合作伙伴
 -   **技术**问题支持通过以下方式提供：
@@ -42,9 +44,9 @@ ms.locfileid: "62135477"
 
 -   [通过 CSP 销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [通过 CSP 销售的 azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [通过 CSP 销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [通过 CSP 销售的 office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [通过 CSP 销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 
 

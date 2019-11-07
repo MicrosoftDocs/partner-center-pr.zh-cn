@@ -1,6 +1,8 @@
 ---
 title: 分析 Azure 使用情况 | 合作伙伴中心
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,16 +11,16 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781976"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653381"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>获取客户的 Azure 订阅使用情况数据
 
-适用于：
+适用范围：
 
 - 合作伙伴中心
 
@@ -29,11 +31,11 @@ ms.locfileid: "68781976"
 
 我们跟踪下列指标：
 
-## <a name="summary"></a>总结
+## <a name="summary"></a>摘要
 
-- **销售的 Azure 订阅总数**:指定时间段内销售的订阅数  
-- 使用**的客户**:在指定时间段内使用 Azure 的客户数  
-- **不使用的客户**:指定时间段内未使用 Azure 的客户数  
+- **Azure 订阅总销量**：指定时间段内销售的订阅数量  
+- **使用过的客户数**：指定时间段内使用过 Azure 的客户数量  
+- **未使用过的客户量**：指定时间段内未使用过 Azure 的客户数量  
 
 ## <a name="top-5-customers-in-category"></a>类别中的前 5 位客户
 
@@ -49,8 +51,8 @@ ms.locfileid: "68781976"
 
 ## <a name="azure-subscription-churn"></a>Azure 订阅改动
 
-- **活动订阅**:按日期的活动订阅计数  
-- **取消预配订阅**:按日期取消预配或挂起的订阅计数  
+- **活动订阅数**：按日期显示的活动订阅计数  
+- **取消设置的订阅数**：按日期显示的取消设置或暂停的订阅计数  
 
 ## <a name="customer-count"></a>客户计数
 

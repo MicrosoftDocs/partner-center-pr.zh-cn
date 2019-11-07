@@ -2,20 +2,22 @@
 title: 准备从合作伙伴成员中心迁移到合作伙伴中心 |合作伙伴中心
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 将业务从 PMC 移动到合作伙伴中心之前要考虑的问题
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060505"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652189"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从合作伙伴成员中心（PMC）迁移到合作伙伴中心
 
-我们正在将成员身份管理从合作伙伴成员中心（PMC）移动到合作伙伴中心-用于管理与 Microsoft 的业务关系的单一目标。 我们希望移动到合作伙伴中心的工作效率更高。 我们确定了合作伙伴中心与 PMC 不同的部分，我们认为你需要在进行移动之前了解并准备好它们。
+我们正在将成员身份管理从合作伙伴成员中心（PMC）移动到合作伙伴中心，这是用于管理与 Microsoft 的业务关系的单一目标。 我们希望移动到合作伙伴中心的工作效率更高。 我们确定了合作伙伴中心与 PMC 不同的部分，我们认为你需要在进行移动之前了解并准备好它们。
 
 ## <a name="account-and-identity-setup"></a>帐户和标识设置
 
@@ -127,7 +129,7 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、银行/税务
  **Microsoft 帐户是否会享有 Visual Studio 权益分配？**
 
 
- 是 分配给 MSA 的 Visual Studio 权益仍将有效，会继续保留。 在合作伙伴中心续订后，仍会保留它们。 不过，如果你在迁移到合作伙伴中心以后删除了某个 MSA 分配，则不能将其重新添加到合作伙伴中心。
+ 是 分配给 MSA 的 Visual Studio 权益仍将有效，会继续保留。 在合作伙伴中心续订后，仍会保留它们。 但是，如果在伙伴中心迁移后删除 MSA 分配，则不能将其重新添加到合作伙伴中心。
 
 在合作伙伴中心，合作伙伴可以添加特定的工作帐户和来宾用户帐户，这些帐户是同一租户的 MSA，而这些租户中的合作伙伴在 Azure AD 租户中是 MPN 管理员。 如果合作伙伴在多个 Azure AD 租户中是全局管理员，并且所有这些租户都关联到同一个合作伙伴中心帐户，则该合作伙伴可以跨所有这些租户将用户添加到 Visual Studio 权益中以及基于 Azure 使用情况的分配计划中。
 

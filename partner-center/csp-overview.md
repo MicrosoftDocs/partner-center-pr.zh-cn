@@ -2,17 +2,19 @@
 title: 云解决方案提供商计划 - 销售畅销的云解决方案 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 云解决方案提供商计划可以通过新客户和新专长来帮助你拓展业务。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134747"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653518"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
@@ -20,12 +22,12 @@ ms.locfileid: "62134747"
 
 -  合作伙伴中心
 
-云解决方案提供商计划 (CSP) 不仅仅可以帮助你转售许可证，还可以让你更多地参与到客户的业务中。
+云解决方案提供商计划（CSP）可帮助你超越转售许可证，更多地涉及客户的业务。
  
-- 更深入地与客户接触 - 定期与客户会面意味着你将更好地了解他们的业务和需求。
-- 增加你的利润 – 无论是靠自己还是通过间接提供商来提供更多的支持和计费服务，都可以创造新的收入来源。  
-- 增值 – 你将能够为客户提供行业特定的与 Microsoft 产品捆绑在一起的解决方案。
-- 提供托管服务 - 你将完全有能力满足客户对托管服务的需求。 
+- 与客户的更深层合作-定期与客户见面，这意味着您将更好地了解他们的业务和需求。
+- 增加利润-提供更多的支持和计费服务，不管是在自己还是通过间接提供商，都将打开新的收入流。  
+- 增值-你将能够为客户提供与 Microsoft 产品捆绑在一起的行业特定解决方案。
+- 提供托管服务-你将非常适合满足客户对托管服务的需求。 
 
 ## <a name="which-csp-model-is-best-for-me"></a>哪种云解决方案提供商模式最适合我？
 
@@ -39,7 +41,7 @@ ms.locfileid: "62134747"
 支持
 - 通过 Microsoft 合作伙伴高级支持程序包购买一对一的优先云支持扩展你的支持功能。 或选择 Microsoft 合作伙伴顶级支持程序包，以访问主动服务的完整目录、全天候的升级中断/修复支持以及跨云、混合和本地的技术帐户管理。 
 
-Services
+“服务”
 
 - 展示你至少提供一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加托管服务的详细信息
 
@@ -60,21 +62,21 @@ Services
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>我可以通过云解决方案提供商计划在哪里进行销售？
 
-你公司的位置确定您的市场。 您的市场包括区域和/或可在其中销售 CSP 产品/服务的国家/地区。 请参阅[云解决方案提供商程序区域市场和货币](regional-authorization-overview.md)的 CSP 市场和货币的完整列表。
+公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。 请参阅[云解决方案提供商计划地区市场和货币](regional-authorization-overview.md)，了解 CSP 市场和货币的完整列表。
 
-您可以订购 CSP 提供代表客户之前，客户必须登录 Microsoft 云协议。 可以为客户的位置找到适用的 Microsoft 云协议[此处](agreements.md)。  
+客户必须签署 Microsoft 云协议，然后才能代表客户订购 CSP 产品/服务。 可在[此处](agreements.md)找到客户所在地的适用 Microsoft 云协议。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>我可以通过云解决方案提供商计划销售哪些产品或服务？
 
-你可以销售整套 [Microsoft 云服务](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及各种经常变化的其他产品/服务。 若要查看 CSP 提供当前月份，在登录到合作伙伴中心，然后转到[**定价和优惠**](https://partnercenter.microsoft.com/pcv/sales)页。
+可以销售整套 [Microsoft 云服务](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及各种经常变化的其他套餐。 若要查看当前月份的 CSP 提供，请登录到合作伙伴中心，然后再访问 "[**定价和优惠**](https://partnercenter.microsoft.com/pcv/sales)" 页。
 
-## <a name="see-also"></a>请参阅 
+## <a name="see-also"></a>另请参阅 
 
 
-|**若要了解有关此**   |**阅读此内容**   |
+|**了解相关信息**   |**阅读此文**   |
 |:---------------------------|:--------------------|
 |每种云解决方案提供商模式的要求   | [云解决方案提供商计划](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-|在 Microsoft 国家云中销售   | [适用于在 Microsoft 国家/地区云销售](csp-national-clouds-overview.md)|
+|在 Microsoft 国家云中销售   | [适用于在 Microsoft 全国云中销售](csp-national-clouds-overview.md)|
 |Microsoft 云协议客户模板   |[按地区和语言划分的 Microsoft 云协议](agreements.md)|
-|在合作伙伴中心上的间接提供程序任务  |[与云解决方案提供商计划中间接经销商合作](indirect-provider-tasks-in-partner-center.md)|
-|在合作伙伴中心上的间接经销商任务   |[与云解决方案提供商计划中间接提供商合作](indirect-reseller-tasks-in-partner-center.md)|
+|合作伙伴中心的间接提供程序任务  |[与云解决方案提供商计划中的间接经销商合作](indirect-provider-tasks-in-partner-center.md)|
+|合作伙伴中心的间接经销商任务   |[云解决方案提供商计划中的间接提供程序的合作伙伴](indirect-reseller-tasks-in-partner-center.md)|

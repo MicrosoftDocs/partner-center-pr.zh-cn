@@ -2,16 +2,18 @@
 title: 查看奖励付款信息 |合作伙伴中心
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: 查看奖励计划的收益和付款。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093064"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653996"
 ---
 # <a name="view-your-incentives-payments-information"></a>查看激励支付信息
 
@@ -33,7 +35,7 @@ ms.locfileid: "71093064"
 ## <a name="payments-page"></a>付款页
 此页上的总计表示你使用的所有 MPN Id。 您可以按参与者 ID、节目、付款 ID 和收入类型进行筛选。 金额为美元提供。 支付的值还会以货币支付。 
 
-|**图**   |**描述**    |
+|**领域**   |**描述**    |
 |------------------|:-------------------------------------|
 |本年度支付的总金额        |你的所有 MPN Id 在今年（美元）内支付的总金额。                                      |
 |下一估计付款      |接下来的一项付款（即使有其他人即将发布），以美元为单位。                                     |
@@ -44,7 +46,7 @@ ms.locfileid: "71093064"
 若要导出此页上的任何数据，请**选择 "导出"，然后**按照 "导出数据" 页上的说明进行操作。 
 
 ## <a name="transaction-history-page"></a>事务历史记录页
-此页面显示您的个人收入，包括每个收入的日期、类型和收益。 你可以选择要查看的时间段，还可以按注册 ID、计划、付款 ID、收益类型、杠杆和状态进行筛选。 数据可用于当前会计年度（7月1日–6月30日）和前两个会计年度。 
+此页面显示您的个人收入，包括每个收入的日期、类型和收益。 你可以选择要查看的时间段，还可以按注册 ID、计划、付款 ID、收益类型、杠杆和状态进行筛选。 数据可用于当前会计年度（7月1日-6 月30日）和前两个会计年度。 
 
 若要查看有关收益的详细信息，请选择页面右侧的向下箭头。 这将显示杠杆、收入量、产品和客户。 如果出于某种原因，此数据无法使用，但你需要访问它，请与支持人员联系。 如果收益是调整的结果，而不是交易，则不会显示 "产品" 和 "客户" 字段。 
 

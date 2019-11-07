@@ -2,19 +2,21 @@
 title: 客户自我支持 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
-description: 客户可以登录到其自己的 Microsoft Office 365 管理中心或 Azure 管理门户和管理其自己的帐户。 若要购买其他订阅或取消其订阅，客户应联系他们的云解决方案提供商合作伙伴。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 客户可登录其自己的 Microsoft Office 365 管理中心或 Azure 管理门户并管理其自己的帐户。 若要购买其他订阅或取消其订阅，客户应联系他们的云解决方案提供商合作伙伴。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户自我支持, 自我支持,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8efada04916b77f19219ca1ebaa3f8789cd8f889
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 3576ad8729449a857cf9fdcbed056a4bb602fe23
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135467"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653455"
 ---
 # <a name="customer-self-support"></a>客户自我支持
 

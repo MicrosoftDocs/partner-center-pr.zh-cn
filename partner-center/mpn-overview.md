@@ -2,18 +2,20 @@
 title: Microsoft 合作伙伴网络成员身份 |合作伙伴中心
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 了解与 Microsoft 合作将获得的权益。 Microsoft 合作伙伴网络提供了行业中范围最广的产品和计划选项，以区分你的业务、走向市场和销售你的解决方案。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 成员身份, 银牌, 金牌, 能力
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978753"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661139"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 
@@ -52,7 +54,7 @@ Action Pack 为希望在云优先、移动优先世界中开始、构建和增�
 - [获取 Action Pack](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >你可以在合作伙伴中心管理你的 Action Pack 订阅。 如果你的公司尚未从合作伙伴成员中心移到合作伙伴中心，请阅读[准备迁移到合作伙伴中心](partner-center/prepare-pmc-pc-migration.md)  
+    >你可以在合作伙伴中心管理你的 Action Pack 订阅。 如果你的公司尚未从合作伙伴成员中心移到合作伙伴中心，请阅读[准备迁移到合作伙伴中心](prepare-pmc-pc-migration.md)  
 
 - [续订你的 MPN 产品](renew-mpn-offers.md)
 

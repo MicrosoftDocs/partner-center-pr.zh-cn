@@ -2,6 +2,8 @@
 title: 拒不付款、欺诈或滥用 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 用于应对在线交易风险（包括客户对所购产品和服务拒不付款的行为，以及欺诈活动或滥用行为）的策略。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978728"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652967"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>拒不付款、欺诈或滥用
 
@@ -35,7 +37,7 @@ ms.locfileid: "72978728"
 
 - **盗用服务**是指客户不打算为所使用的服务付款，具体表现为：使用盗取的付款方式、提供虚假的计费信息和/或拖欠未支付款项
 
-- **滥用服务**是指客户在违反 Microsoft 可接受使用策略的情况下使用云服务
+- **服务滥用**使用云服务的客户违反了 Microsoft 的可接受使用策略
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>可能属于欺诈或服务滥用的示例：
 - 垃圾邮件

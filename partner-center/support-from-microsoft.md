@@ -2,17 +2,19 @@
 title: Microsoft 支持 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 当你遇到 Microsoft 服务问题或合作伙伴中心问题时，可以向 Microsoft 反映以寻求帮助，并跟踪该问题直到它得到解决为止。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e2c191b974347aed5716629e53b7d6f99700b7c
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: acc7d380ce5323c9d85859a5aa766c3c166622dc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62133858"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651566"
 ---
 # <a name="support-from-microsoft"></a>Microsoft 支持
 

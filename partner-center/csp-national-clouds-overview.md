@@ -2,17 +2,19 @@
 title: 申请在 Microsoft 国家云中销售 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向受支持的国家云中注册的客户进行销售。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 国家云, 德国 Microsoft 云, Microsoft Cloud for US Government, 世纪互联, 中国 Microsoft 云
 ms.localizationpriority: medium
-ms.openlocfilehash: ea4461e187490565172733207dc16c5328ee5ee7
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: aec95e9c453dffef99e65b2c303165ef04c069fd
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134817"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653541"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>申请在 Microsoft 国家云中销售
 
@@ -30,19 +32,19 @@ Microsoft 可在国家云中提供以下服务：
 
 合格的合作伙伴可以在以下国家云中向客户销售 Microsoft 云解决方案：
 
--   [**适用于美国政府的 Microsoft 云**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US)针对美国政府的基础知识，而设计，Microsoft 政府云，在美国公共部门客户 — 从大到小镇政府的联邦机构 — 到选择通过一系列的云计算服务。 为了在最大程度上满足客户的特定需求，Microsoft 投入了大量资金来建立数据中心，尽力遵从美国的联邦和州政策、强制规定和要求。 
+-   [**适用于美国政府的 Microsoft 云**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US)政府为美国政府而设计，Microsoft 云政府将从大型联邦机构到小型城镇政府等美国的公共部门客户从一系列云计算服务中进行选择。 为了更好地满足客户的特定需求，Microsoft 已在数据中心中进行了重大投资，并专门满足美国联邦和州政策、法规和要求。 
 
     有关如何注册以及在 Microsoft Cloud for US Government 中向客户进行销售的信息，请参阅 [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
--   [**Microsoft 云德国**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany)德国 Microsoft 云提供了 Azure、 Office 365 和 Dynamics 365 从德国数据中心通过唯一模型。 在此模式中，客户数据的访问权限由根据德国法律运营的独立德国数据受托人控制。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，并作为德国 Microsoft 云的独立数据受托人。 
+-   [**Microsoft 云德国**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany)Microsoft 云德国通过唯一的模型从德国数据中心提供 Azure、Office 365 和 Dynamics 365。 在此模式中，客户数据的访问权限由根据德国法律运营的独立德国数据受托人控制。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，并作为德国 Microsoft 云的独立数据受托人。 
 
     > [!IMPORTANT]  
-    > 根据客户需求的变化，我们的德国云战略将侧重于在德国提供与我们的全球云产品/服务一致的新的云地区。 因此，我们将不再接受新客户或从当前可用的德国 Microsoft 云中部署任何新服务。 现有的客户现在可继续使用当前可用的云服务，针对这些云服务我们将维护必要的安全更新。
+    > 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 因此，我们将不再接受新客户或从当前可用的德国 Microsoft 云中部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。
     >  
     > 接下来，新客户可以选择使用当前可用的欧洲地区或德国的新地区（在这些地区可用时）。 有关详细信息，请参阅 [Microsoft 通过德国的新数据中心提供云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
     
--   [**由中国 21Vianet 运营的 azure 和 Office 365** ](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft 提供了通过使用上海蓝云网络科技有限公司合作在中国云服务(21Vianet) 北京 21Vianet 宽带数据中心 Co.，Ltd.的独资的子公司21Vianet 是数据中心、 托管、 托管的网络和云计算基础结构服务在中国的最大非特定于运营商的 Internet 提供商。 
+-   [**中国世纪互联运营的 Azure 和 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China)Microsoft 通过一种独特的合作关系在中国提供云服务，其中，上海（世纪）是北京世纪互联运营数据中心 Co 的一个完全拥有的子公司。中国的数据中心、托管、托管网络和云计算基础结构服务的提供商。 
 
     Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营、提供和管理 Microsoft 云服务的交付。 通过授权 Microsoft 技术，世纪互联可以提供 Azure 和 Office 365 服务，并运营将数据保存在中华人民共和国的 Azure 和 Office 365 数据中心。 世纪互联还提供订阅和计费服务以及支持。
 
