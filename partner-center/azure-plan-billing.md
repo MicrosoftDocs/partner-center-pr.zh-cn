@@ -1,24 +1,30 @@
 ---
 title: Azure 计划 - 计费 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: 描述 Azure 计划的发票和对帐文件结构
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428480"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595936"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
+**相应的角色：**
 
-Azure 计划中的计费是一个简化的计费体验，它使用一致的单一计费日期和基于日历月份的计费周期。 有关计费平台的信息，请阅读[合作伙伴中心新式商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)。
+- 帐单管理员
+- 管理员代理
+- 全局管理员
+
+
+Azure 计划中的计费是一个简化的计费体验，它使用一致的单一计费日期和基于日历月份的计费周期。 有关该计费平台的信息，请阅读[计费概述](billing-basics.md)。
 
 ## <a name="summary-of-billing-essentials"></a>计费概要
 

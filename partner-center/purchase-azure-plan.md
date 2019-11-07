@@ -1,18 +1,18 @@
 ---
 title: 购买 Azure 计划 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: 通过 Azure 计划购买多个 Azure 订阅
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428508"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595921"
 ---
 # <a name="purchase-the-azure-plan"></a>购买 Azure 计划
 
@@ -53,7 +53,7 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
   
 也可以在合作伙伴中心代表客户在 Azure 计划中购买 Microsoft Azure 预留项。
 
-1. 在仪表板上的“合作伙伴中心”菜单中，选择“客户”。  找到想要购买 Azure 预留项的客户，然后选择向下箭头展开该客户对应的行。 
+1. 在[仪表板](https://partner.microsoft.com/dashboard/)上的“合作伙伴中心”菜单中，选择“客户”  。 找到想要购买 Azure 预留项的客户，然后选择向下箭头展开该客户对应的行。 
 
 2. 依次选择“添加产品”、“Azure”。   
 - 从“细分市场”列表中选择该客户的细分市场。  
