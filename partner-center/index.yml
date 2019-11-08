@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 11/05/2019
-  ms.openlocfilehash: 66e35332bc8deaa4357c1b6c4296707fd5f0c67a
-  ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+  ms.openlocfilehash: 4976296092b1c40e3b1ac77c8591a620a1c5c43c
+  ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/06/2019
-  ms.locfileid: "73654403"
+  ms.lasthandoff: 11/07/2019
+  ms.locfileid: "73753864"
 highlightedContent:
   items:
   - title: 登录以查看最新公告
@@ -25,7 +25,7 @@ highlightedContent:
     url: https://partner.microsoft.com/pcv/announcements
   - title: 还不是合作伙伴？ 立即加入 Microsoft 合作伙伴网络。
     itemType: get-started
-    url: https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx
+    url: https://partner.microsoft.com/membership
   - title: 加入 API 和 SDK 早期采用者计划
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
