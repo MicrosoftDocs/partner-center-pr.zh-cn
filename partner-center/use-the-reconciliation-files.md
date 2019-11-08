@@ -1,7 +1,7 @@
 ---
 title: 使用对帐文件 | 合作伙伴中心
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 若要详细了解计费周期中的每个费用，请从合作伙伴中心下载协调文件。
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653977"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753859"
 ---
 # <a name="use-the-reconciliation-files"></a>使用对帐文件
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653977"
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
+**适当的角色**
+
+- 帐单管理员
+- 全局管理员
 
 若要详细了解计费周期中的每个费用，请从合作伙伴中心下载协调文件。 详细信息包括每个客户的订阅费用和详细事件（例如中途向订阅添加席位）。
 
@@ -637,7 +641,7 @@ ms.locfileid: "73653977"
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>适用于任何适用折扣的说明。</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ ms.locfileid: "73653977"
 <td>BillingFrequency</td>
 <td><p> 启用每月计费时显示每月。 否则为空白。 </p></td>
 </tr>
-
+<tr class="odd">
+<td>BillableQuantity</td>
+<td><p> 表示购买或消耗的总单位数。 </p></td>
+</tr>
+<tr class="even">
+<td>pricingCurrency</td>
+<td><p> 列出资源或产品/服务的价格</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> 定价货币应用于（客户）计费货币的汇率</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> 确定向计费货币汇率的日期。</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> 消耗行项的计量说明</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ ms.locfileid: "73653977"
 <td><p>捕获可选的服务特定元数据的旧字段。</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>附加信息</td>
 <td><p>其他列中未涵盖的任何其他信息。</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> 按单位收费的实际值（包括折扣、挣贷款等）。</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>定价货币应用于（客户）计费货币的汇率。</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>确定定价货币与计费货币汇率的日期。</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>表示 Azure subscriptionID。</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>表示 Azure 订阅的名称。</p></td>
 </tr>
 
 </tbody>
