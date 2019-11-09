@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653392"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840214"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 
@@ -35,9 +35,9 @@ ms.locfileid: "73653392"
 
 2. 在 "**帐户信息**" 页上，输入客户的详细信息和主要联系信息，并验证客户是否已接受并签署最新的[Microsoft 云协议](agreements.md)。
 
-    >[!IMPORTANT]
-      > 从 2018 年 11 月 7 日开始，你需要提供签署 Microsoft 云协议的客户的信息，通过这种方式确认该人已接受此协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)
-
+>[!IMPORTANT] 
+> 在10月1日2019，Microsoft 在 CSP 计划中引入了**Microsoft 客户协议**来替换 Microsoft 云协议。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，云解决方案提供商计划仍会支持当前的 Microsoft 云协议。 阅读有关[Microsoft 客户协议和如何确认同意](confirm-customer-consent.md)的信息
+  
 3. 如果你是间接提供商，请从列表中选择你想要与此客户的订阅相关联的间接经销商。
 
 4. 选择 "**下一步"：** 完成所有必需信息的输入后的订阅。
