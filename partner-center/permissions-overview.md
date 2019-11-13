@@ -2,17 +2,19 @@
 title: 分配用户角色和权限 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/10/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 必须为需要在合作伙伴中心工作的每位员工分配一个角色。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: 0bbc9af84b8a1464f255c17147fdc10a7504eb43
-ms.sourcegitcommit: 1ccc27092949deb6f6404e64fd6a628fd7b5fd5c
+ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "72276091"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652423"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 

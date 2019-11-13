@@ -2,17 +2,19 @@
 title: 获取引荐见解 | 合作伙伴中心
 ms.topic: article
 ms.date: 07/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 定期查看引荐见解信息，以帮助识别趋势或需要关注的领域，并推动业务目标的实现。
 author: JnHs
 ms.author: jenhayes
 keywords: 引荐, 分析, analytics, 指标, 转换
 ms.localizationpriority: high
-ms.openlocfilehash: 027fcfb3dbd9b2a8f9c2f53fbfd2e765f15eff53
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318757"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654129"
 ---
 # <a name="get-referral-insights"></a>获取引荐见解
 
