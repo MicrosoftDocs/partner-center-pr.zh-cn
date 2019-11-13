@@ -1,22 +1,22 @@
 ---
 title: 合作伙伴租户的强制 MFA |合作伙伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 适用于合作伙伴租户安全要求的 MFA 的详细信息
+description: 针对你的合作伙伴租户安全要求的强制多重身份验证（MFA）的详细信息
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652520"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983352"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制 MFA
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制执行多重身份验证（MFA）
 
 **适用于**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652520"
 
 这些合作伙伴将需要完成以下领域的 MFA 验证：
 
-- [合作伙伴中心仪表板](#partner-center-dashboard)
-- [合作伙伴中心 API](#partner-center-api)
-- [合作伙伴委托管理](#partner-delegated-administration)
+- [合作伙伴中心仪表板](#partner-center-dashboard)（面向 H1 CY2020）
+- [合作伙伴中心 API](#partner-center-api) （面向 H1 CY2020）
+- [合作伙伴委派管理](#partner-delegated-administration)（从2019年11月18日起）
 
 此功能的目的是帮助合作伙伴保护其对客户资源的访问，防止凭据泄露。
 
