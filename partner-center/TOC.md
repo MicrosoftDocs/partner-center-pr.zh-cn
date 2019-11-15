@@ -135,6 +135,7 @@
 ### [使用促销吸引新客户](promotions.md)
 ### [为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)
 ### [销售商业市场产品的订阅](sell-marketplace-products.md)
+### [市场专用产品/服务](isv-opt-in.md)
 ### [在合作伙伴中心内分配 Azure 订阅](assign-azure-subscriptions.md)
 ### [将许可证分配给用户](assign-licenses-to-users.md)
 ### [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # 安全要求
 ## [概述](partner-security-requirements.md)
+## [对合作伙伴租户强制执行 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [要求状态](partner-security-compliance.md)
 ## [对合作伙伴租户强制执行 MFA](partner-security-requirements-mandating-mfa.md)
 ## [常见问题解答](partner-security-requirements-faq.md)
