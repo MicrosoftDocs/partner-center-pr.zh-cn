@@ -2,17 +2,19 @@
 title: 确认客户接受 Microsoft 云协议 | 合作伙伴中心
 ms.topic: article
 ms.date: 04/16/2019
-Description: 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认客户接受 Microsoft 云协议。 为了更好地帮助合作伙伴满足符合性要求，Microsoft 要求合作伙伴提供接受协议人员的特定详细信息，以这种方式确认接受协议。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: 作为合作伙伴，你需要获取客户对 Microsoft 云协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。 为了更好地帮助合作伙伴满足符合性要求，Microsoft 要求合作伙伴提供接受协议人员的特定详细信息，以这种方式确认接受协议。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客户，客户，同意，MCA，Microsoft 云协议，客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045652"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653660"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
@@ -28,7 +30,7 @@ ms.locfileid: "73045652"
 >[!NOTE]
 >本协议在2020年1月31日之前有效。 在此日期之后，所有客户（现有和新）都必须签署新的 Microsoft 客户协议。 若要了解详细信息，请阅读[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
 
-作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前，确认客户接受 Microsoft 云协议。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议： 
+作为合作伙伴，你需要获取客户对 Microsoft 云协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议： 
 
 -   名字
 
@@ -48,7 +50,7 @@ ms.locfileid: "73045652"
 
 -   你将无法为此客户创建新订单。
 
--   你将无法为此客户更改现有的基于席位的订阅的席位计数。
+-   你将无法更改此客户的现有基于座位的订阅的座位数。
 
 可以通过合作伙伴中心或合作伙伴中心 API 确认是否可以进行客户接受。 为此，请参阅以下主题： 
 
@@ -78,7 +80,7 @@ ms.locfileid: "73045652"
 
 ![添加验收日期](images/mca/MCA3.png)
 
-默认情况下，将显示主要联系人用户信息。 如果此信息不正确，请选择**更新**，然后输入接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和**电话号码*（可选）。
+默认情况下，将显示主要联系人用户信息。 如果这不正确，请选择 "**更新**"，然后输入接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和 **电话号码*（可选）。
 
 6. 选择“下一步”，继续执行创建客户租户的其余步骤。
 
@@ -98,7 +100,7 @@ ms.locfileid: "73045652"
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>在为现有客户创建新订单时确认客户接受
 
-如果为之前未确认过的现有客户创建新订单，你将收到完成确认的提示。 请使用下面的过程执行此操作。
+如果你尝试为之前未确认的现有客户创建新订单，则将收到一条提示，提示你完成确认。 请使用下面的过程执行此操作。
 
 1. 输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。
 2. 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。
@@ -110,4 +112,4 @@ ms.locfileid: "73045652"
 
 1. 选择“客户”，然后找到并选择要查看的客户。
 2. 选择“帐户信息”。
-3. 在 **Microsoft 云协议**下，可以看到是否已为此客户提供过确认。
+3. 在**Microsoft 云协议**下，你将看到是否已为此客户提供确认。
