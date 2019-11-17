@@ -2,17 +2,19 @@
 title: 云解决方案提供商计划中的合作伙伴套餐 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解通过云解决方案提供商计划进行销售的合作伙伴可以使用的套餐。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045628"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799207"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐 
 
@@ -79,6 +81,9 @@ ms.locfileid: "73045628"
 
 若要代表你的 CSP 客户购买产品和服务，请选择客户所需的项，将其添加到购物车以创建订单，然后查看并提交订单。 下面描述了常规流程。 （有关特定产品类型的订单的详细信息，请参阅上面的链接。）
 
+>[注意] 需在你的租户所在国家/地区和你的客户的租户所在国家/地区提供云解决方案提供商套餐。 
+>例如，如果你的租户位于斯洛伐克，客户的租户位于德国，则不能向该客户销售 Dynamics 365 Business Central Premium，因为此套餐目前不在斯洛伐克提供。
+
 1. 从“合作伙伴中心”菜单中选择“客户”，然后找到想要从你这里购买产品的客户。  
 
 2. 选择客户行尾的向下箭头以展开该客户的记录，然后选择“添加产品”。  从现在起，你将创建订单。 订单可以包括不同类型的多个项，但它们必须全部属于同一客户。
@@ -95,7 +100,12 @@ ms.locfileid: "73045628"
 
 8. 订单详细信息（包括订单编号）将显示在下一页。 选择“完成”转到“订单历史记录”页。   
 
-> [!NOTE]
-> 有关计费流程的运作方式的信息，请参阅[**计费基础知识**](https://docs.microsoft.com/partner-center/billing-basics)。
+**了解详细信息** 
+
+若要了解计费流程的运作方式，请阅读[计费基础知识](https://docs.microsoft.com/partner-center/billing-basics)。
+
+若要了解如何按 Azure 计划进行购买，请阅读[购买 Azure 计划](purchase-azure-plan)。
+
+
 
 

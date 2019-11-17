@@ -2,18 +2,20 @@
 title: Azure 计划 - 计费 | 合作伙伴中心
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 描述 Azure 计划的发票和对帐文件结构
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595936"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661166"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
@@ -129,11 +131,11 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 - 在以下示例中：
 
-  - 计量项目在 7/1 – 7/3 符合**合作伙伴赚取的托管服务返点**条件（请注意，有效单价为零售价减去合作伙伴获取的返点）。
+  - 计量项目在 7/1 - 7/3 符合**合作伙伴赚取的托管服务返点**条件（请注意，有效单价为零售价减去合作伙伴获取的返点）。
 
-   - 计量项目在 7/4 – 7/7 不符合**合作伙伴赚取的托管服务返点**条件（请注意，有效单价为零售价）。
+   - 计量项目在 7/4 - 7/7 不符合**合作伙伴赚取的托管服务返点**条件（请注意，有效单价为零售价）。
 
-    - 计量项目在 7/8 – 7/31 符合**合作伙伴赚取的托管服务返点**条件（请注意，有效单价为零售价减去合作伙伴获取的返点）。
+    - 计量项目在 7/8 - 7/31 符合**合作伙伴赚取的托管服务返点**条件（请注意，有效单价为零售价减去合作伙伴获取的返点）。
 
 ![对帐 2](images/azure/pecfinal.png) 
 
@@ -141,7 +143,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 通过 Azure 计划销售的 Azure 服务按美元定价，并按客户所在国家/地区指定的货币计费。 如果计费货币不是美元，则发票的最后一页上会显示使用的外汇汇率 (FX)。 外汇汇率每月确定，并应用于随后的发票。 有关国家/地区货币的完整列表，请查看[新商务套餐在各个国家/地区的上市情况和客户货币矩阵](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)。 
 
-Microsoft 将使用 [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company) 来确定外汇汇率，以此确定定价货币与计费货币之间的兑换率。 外汇汇率将在月份最后一日的前一天刷新，然后将会应用。
+Microsoft 将使用 [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) 来确定外汇汇率，以此确定定价货币与计费货币之间的兑换率。 外汇汇率将在月份最后一日的前一天刷新，然后将会应用。
 
 **示例**：服务周期 8 月 1 日 - 8 月 31 日的使用费将按 7 月 31 日发布的外汇汇率计费。 这些费用将显示在 9 月份的发票上，该发票的最后一页将注明外汇汇率。 
 

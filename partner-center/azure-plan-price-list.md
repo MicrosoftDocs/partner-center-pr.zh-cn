@@ -2,18 +2,20 @@
 title: Azure 计划价目表 | 合作伙伴中心
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如何查看 Azure 计划中的订阅价目表
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428546"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710137"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表 
 
@@ -23,22 +25,16 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 
 1. 在左侧的“合作伙伴中心”菜单中选择“销售”，然后选择“市场”。  
 
-2. 在“导出类型”旁边，选择“Azure 计划消耗定价”。  
+2. 在 Azure 计划定价下，选择需要其定价的国家/地区。
 
-3. 在“定价日期”旁边选择所需的日期，例如“当前”。   注意：还可以选择“外汇汇率”导出当前的外汇汇率。 
+3. 在“导出类型”旁边，选择“Azure 计划消耗定价”、“Azure 计划预留定价”或“外汇汇率”。     注意：“外汇汇率”不特定于国家/地区。 
 
-![Azure 定价 2](images/azure/pricelist2.jpg)
-
-4. 在“市场”下，选择产品的“类型”和“类别”，或搜索产品。    将根据搜索显示可用的产品。
-
-![pricing](images/azure/Azurepricelist1.jpg)
-
-5. 然后选择“导出 Azure 计划价目表”来下载所选产品的 Azure 计划价格。 
+3. 在“定价日期”旁边选择所需的日期，例如“当前”。   
 
 
-![导出价目表](images/azure/pricelist1.png)
+![特定于国家/地区](images/azure/pricingnew.png)
 
-
+注意：可以导出两个不同的价目表 -“Azure 计划定价”和“市场第三方定价”。 
 
 ## <a name="azure-price-list-specifics"></a>Azure 价目表具体信息
 

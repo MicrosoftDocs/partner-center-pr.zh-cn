@@ -2,17 +2,19 @@
 title: 银级和金级会员的 Microsoft 资质要求 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解获取金级和银级会员所要达到的资质要求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: high
-ms.openlocfilehash: d6991a6df1800b279aefb553188af79d3dd33ec2
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: 4ebdeff79ad61cf37806f0c76620920a304c3fe4
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413358"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653329"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>有关 Microsoft 银级和金级会员资质与高级专业的信息
 

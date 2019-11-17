@@ -1,17 +1,19 @@
 ---
 title: 合作伙伴安全要求状态 | 合作伙伴中心
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 随时了解公司对 MFA 要求的符合状态。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425101"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661115"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
 
@@ -31,7 +33,7 @@ ms.locfileid: "72425101"
 我们需要确保每位用户在每次身份验证时都回应 MFA 质询。 可以通过下述方式之一来实现这一点：
 
 - 实施 Azure AD Premium，确保对每位用户强制实施 MFA
-- 实施基线保护策略
+- 实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - 实施第三方解决方案，确保对每位用户强制实施 MFA
 
 ## <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
@@ -39,7 +41,7 @@ ms.locfileid: "72425101"
 此报告可让你通过某种方式了解自己的不足之处，以此确认自己的安全要求状态。 跟踪结果会定期更新。
 
 >[!NOTE]
->只有合作伙伴中心才支持“合作伙伴安全要求状态”报告。 Microsoft Cloud for US Government 或 Microsoft Cloud Germany 不提供此报告。 强烈建议所有通过主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）进行事务处理的合作伙伴立即履行这些安全要求。 但是，这些合作伙伴不是必须满足这些新的在 2019 年 8 月 1 日生效的安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。 
+>只有合作伙伴中心才支持“合作伙伴安全要求状态”报告。 Microsoft Cloud for US Government 或 Microsoft Cloud Germany 不提供此报告。 强烈建议所有通过主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）进行事务处理的合作伙伴立即履行这些安全要求。 但是，这些合作伙伴不是必须满足这些新的在 2019 年 8 月 1 日生效的安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
 
 每当员工登录到合作伙伴中心来完成工作，或者在合作伙伴中心通过 API 获取或发送数据时，其安全状态将受到质询和跟踪。 你的应用程序以及任何控制面板供应商应用程序也会受到安全状态跟踪。 显示的状态是过去 7 天的状态。
 
@@ -93,15 +95,15 @@ ms.locfileid: "72425101"
 了解当前的实施方案是否仅在特定的条件下强制实施 MFA。 某些 MFA 解决方案具有灵活性，允许仅在满足特定的条件（例如，用户从未知的设备或位置进行访问）时 才强制实施 MFA。 如果为某个用户启用了 MFA，但该用户在访问合作伙伴中心时不一定要完成 MFA 验证，则可能会导致指标不是 100%。
 
 >[!NOTE]
->对于已使用 Azure AD 最终用户保护基线策略实施了 MFA 的合作伙伴，请务必注意，最终用户保护是基于风险的策略。 对于该策略涵盖的用户，仅当他们在尝试进行有风险的登录（例如，从不同的位置登录）时，系统才会提示他们完成 MFA。 此外，该策略涵盖的用户有长达 14 天的时间来注册 MFA。 在这 14 天内，未完成 MFA 注册的用户不会受到 MFA 验证的质询。 因此，对于已使用 Azure AD 最终用户保护基线策略实施了 MFA 的合作伙伴，指标可能不是 100%，这在预料之中。
+>对于已使用 Azure AD 安全性默认设置实施了 MFA 的合作伙伴，请务必注意，对于非管理员用户帐户，会根据风险强制实施多重身份验证。 仅当用户尝试进行有风险的登录（例如，从不同的位置登录）时，系统才会提示他们完成 MFA。 此外，用户有长达 14 天的时间来注册 MFA。 在这 14 天内，未完成 MFA 注册的用户不会受到 MFA 验证的质询。 因此，对于已使用 Azure AD 安全性默认设置实施了 MFA 的合作伙伴，指标可能不是 100%，这在预料之中。
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>是否在使用第三方 MFA 解决方案？
 
 如果使用第三方 MFA 解决方案，请确定如何将它与 Azure AD 集成。 一般情况下，有两种方法：联合与自定义控制：
 
-* **标识联合** – 当 Azure AD 收到身份验证请求时，Azure AD 会将用户重定向到联合的标识提供者进行身份验证。 身份验证成功后，联合的标识提供者会将用户重定向回到 Azure AD，并提供一个 SAML 令牌。 为使 Azure AD 能够识别到该用户在对联合的标识提供者进行身份验证时已完成 MFA 验证，该 SAML 令牌必须包含 *authenticationmethodsreferences*  声明（值为 *multipleauthn*）。 检查联合的标识提供者是否支持发出此类声明。 如果是，请检查联合的标识提供者是否已配置为提供此项支持。 如果缺少声明，Azure AD（因而也包括合作伙伴中心）将不知道用户已完成 MFA 验证，这可能会导致指标不是 100%。
+* **标识联合** - 当 Azure AD 收到身份验证请求时，Azure AD 会将用户重定向到联合的标识提供者进行身份验证。 身份验证成功后，联合的标识提供者会将用户重定向回到 Azure AD，并提供一个 SAML 令牌。 为使 Azure AD 能够识别到该用户在对联合的标识提供者进行身份验证时已完成 MFA 验证，该 SAML 令牌必须包含 *authenticationmethodsreferences*  声明（值为 *multipleauthn*）。 检查联合的标识提供者是否支持发出此类声明。 如果是，请检查联合的标识提供者是否已配置为提供此项支持。 如果缺少声明，Azure AD（因而也包括合作伙伴中心）将不知道用户已完成 MFA 验证，这可能会导致指标不是 100%。
 
-* **自定义控制** – 无法使用 Azure AD 自定义控制来确定用户是否已通过第三方 MFA 解决方案完成了 MFA 验证。 因此，对于 Azure AD（因而也包括合作伙伴中心）而言，通过自定义控制完成 MFA 验证的任何用户始终看上去并未完成 MFA 验证。 如果可能，我们建议在与 Azure AD 集成时改用标识联合，而不要使用自定义控制。
+* **自定义控制** - 无法使用 Azure AD 自定义控制来确定用户是否已通过第三方 MFA 解决方案完成了 MFA 验证。 因此，对于 Azure AD（因而也包括合作伙伴中心）而言，通过自定义控制完成 MFA 验证的任何用户始终看上去并未完成 MFA 验证。 如果可能，我们建议在与 Azure AD 集成时改用标识联合，而不要使用自定义控制。
 
 ### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>确定哪些用户在未完成 MFA 的情况下登录到了合作伙伴中心
 

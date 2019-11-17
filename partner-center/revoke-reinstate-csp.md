@@ -2,17 +2,19 @@
 title: 恢复 Azure CSP 订阅的管理员权限 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 本文档介绍如何帮助客户恢复合作伙伴的管理员权限
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433755"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651705"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>恢复 Azure CSP 订阅的管理员权限  
 
@@ -27,12 +29,12 @@ ms.locfileid: "73433755"
 
 在 CSP 中，有两种级别的 Azure 管理员权限。 
 
-**租户级管理员权限**（委派的管理员权限）- CSP 合作伙伴在与客户建立 CSP 分销商关系时获得这些权限  。 这样，CSP 合作伙伴便可以访问其客户的租户，从而能够执行管理职能，例如添加/管理用户、重置密码和管理用户许可证。 
+**租户级管理员权限**（委派的管理员权限）- 云解决方案提供商合作伙伴在与客户建立云解决方案提供商分销商关系时获得这些权限  。 这样，云解决方案提供商合作伙伴便可以访问其客户的租户，从而能够执行管理职能，例如添加/管理用户、重置密码和管理用户许可证。 
 
-**订阅级管理员权限** - CSP 合作伙伴在为其客户创建 Azure CSP 订阅时获取这些权限。 这样，CSP 合作伙伴便可以完全访问这些订阅，从而能够预配和管理 Azure 资源。 
+**订阅级管理员权限** - 云解决方案提供商合作伙伴在为其客户创建 Azure 云解决方案提供商订阅时获取这些权限。 这样，CSP 合作伙伴便可以完全访问这些订阅，从而能够预配和管理 Azure 资源。 
 
 
-## <a name="reinstate-csp-partners-admin-privileges"></a>恢复 CSP 合作伙伴的管理员权限
+## <a name="reinstate-csp-partners-admin-privileges"></a>恢复云解决方案提供商合作伙伴的管理员权限
 
 若要重新获得委派的管理员权限，需要与客户协作。
  

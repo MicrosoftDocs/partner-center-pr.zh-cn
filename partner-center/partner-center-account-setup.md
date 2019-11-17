@@ -2,18 +2,20 @@
 title: 管理合作伙伴中心帐户 | 合作伙伴中心
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理组织的档案、银行和税务信息以及用户。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e2e4e4e3d0fb7d88d748c57abe7a5a5161ea640a
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 17b7fb961208eadb1b41e345fd4380fc276dcb2e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318622"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652767"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
@@ -40,7 +42,7 @@ ms.locfileid: "71318622"
 |如果员工忘记密码，你需要进行密码重置。  |[重置用户密码](reset-a-user-password.md)|
 |务必推广公司，以便客户能够找到你   |[创建业务资料](create-a-marketing-profile.md)|
 |整理目录，以便最重要的产品位于列表顶部   |[自定义目录](customize-the-catalog.md)|
-|关注当前定价和套餐的最新消息   |[定价和套餐](pricing-and-offers.md)|
+|关注当前定价和套餐的最新消息   |[定价和产品/服务](pricing-and-offers.md)|
 
 
 

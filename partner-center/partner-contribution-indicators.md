@@ -2,6 +2,8 @@
 title: 合作伙伴贡献指示器 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 各种数据，展示你的公司使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后的情况
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 绩效, 客户成功, 度量, Dynamics 365
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: c0c8f9f721aa0cadfc311ecec5eb6349576fb26a
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: d8f1e0d368b1477733cb2310cc126a2b6fc7d730
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997827"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654266"
 ---
 # <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 

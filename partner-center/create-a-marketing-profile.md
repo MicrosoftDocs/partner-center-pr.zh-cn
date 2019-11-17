@@ -2,18 +2,20 @@
 title: 创建企业档案 | 合作伙伴中心
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 在合作伙伴中心创建企业档案，以从 Microsoft 取得商机。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 企业档案, 营销档案
 ms.localizationpriority: high
-ms.openlocfilehash: 8f18bb460495fc6f95af92e6510827ff13d0b8bc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997858"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653602"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

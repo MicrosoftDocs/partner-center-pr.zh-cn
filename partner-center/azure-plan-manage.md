@@ -2,17 +2,19 @@
 title: 管理 Azure 计划中的订阅和资源 | 合作伙伴中心
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 通过 Azure 计划购买多个 Azure 订阅
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428499"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653857"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 计划中的订阅和资源
 
@@ -21,9 +23,9 @@ ms.locfileid: "73428499"
  > [!NOTE]
  > 客户可以在订阅、资源组或工作负荷级别删除 Azure 订阅的管理员权限。 
 
- 合作伙伴可以使用通过基于角色的访问控制功能 (RBAC) 提供的不同选项，获取对客户在 CSP 中的 Azure 资源的全天候操作控制和管理权限。 
+ 合作伙伴可以使用通过基于角色的访问控制功能 (RBAC) 提供的不同选项，获取对客户在云解决方案提供商中的 Azure 资源的全天候操作控制和管理权限。 
 
-- 管理员代表 (AOBO) - 借助 [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)，在合作伙伴租户中具有“管理员代理”角色的任何用户将对你通过 CSP 计划创建的 Azure 订阅拥有 RBAC 所有者访问权限  。
+- 管理员代表 (AOBO) - 借助 [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)，在合作伙伴租户中具有“管理员代理”角色的任何用户将对你通过云解决方案提供商计划创建的 Azure 订阅拥有 RBAC 所有者访问权限  。
 
 - **Azure Lighthouse**：使用 AOBO 不能灵活地创建处理不同客户的不同组，或者为组或用户启用不同的角色。 使用 Azure Lighthouse 可将不同的组分配到不同的客户或角色。 由于用户将通过 Azure 委托的资源管理获取适当的访问级别，因此你可以减少具有“管理员代理”角色的用户数量（因此拥有完全 AOBO 访问权限）。 这有助于通过限制对客户资源的不必要访问权限来提高安全性。 此外，它还可以让你更灵活地大规模管理多个客户。 有关详细信息，请参阅 [Azure Lighthouse 和云解决方案提供商计划](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)。
 

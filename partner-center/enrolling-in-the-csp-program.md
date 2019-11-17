@@ -2,16 +2,18 @@
 title: 注册云解决方案提供商计划 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/20/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解在 CSP 计划中进行销售的不同模式，并确定最适合你的业务的模式
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 2f9c0aeb67b287caa65c2e807c5fc237f0ea7037
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318839"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653198"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
