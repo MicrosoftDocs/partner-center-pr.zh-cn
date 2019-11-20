@@ -1,72 +1,122 @@
 ---
 title: 合作伙伴贡献指示器 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 各种数据，展示你的公司使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后的情况
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 绩效, 客户成功, 度量, Dynamics 365
-author: MaggiePucciEvans
-ms.author: evansma
-ms.localizationpriority: high
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d8f1e0d368b1477733cb2310cc126a2b6fc7d730
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: HT
+ms.openlocfilehash: 9f536fa19d9f6cc36c9206a45a900a8345fc896b
+ms.sourcegitcommit: 79731c2c06fc773fa7fb4007590c0e94d7f0d052
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654266"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74197116"
 ---
 # <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
-合作伙伴贡献指示器 (PCI) 是一组整体度量指标，用于度量你在使用 Dynamics 365 后的绩效、能力和客户成功情况。
+Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes and therefore greater differentiation in the market when a partner attains and maintains the Cloud Business Applications competency. Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.
 
 ## <a name="scoring"></a>评分
 
-PCI 使用百分制，对你使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后 12 个月的情况进行度量。 下面是 PCI 中的七个度量指标以及每个指标你可以获得的最高分数。
+PCI provides a sophisticated, holistic view of a partner’s technical capabilities, their ability to drive customer success, and their sales performance. PCI measures your company’s prior-year performance across seven key indicators:
 
-![评分](images/pci1.png)
+1. **Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.
+2. **Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.
+3. **Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.
+4. **Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.
+5. **Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.
+6. **New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.
+7. **Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.
+
+Points are granted for each achieved indicator, resulting in a single-number PCI score. 100 maximum points are possible. PCI score determines competency eligibility:
+
+![PCI scores](images/pcinew1.png)
+
+Each indicator brings a score that is added to the total. Here are the maximum scores for each indicator:
+
+![pci performance](images/pcinew2.png)
 
 ### <a name="thresholds"></a>阈值
 
-每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 Customer Engagement 和 Finance & Operations 的这些阈值是不同的。 在发达市场运营的合作伙伴和完全在新兴市场运营的合作伙伴的阈值也是不同的。 如果合作伙伴有一个或多个客户在发达市场，则会应用发达市场阈值。 若要应用新兴市场阈值，合作伙伴的所有客户必须是在新兴市场中。 （一个国家/地区是归类于发达市场还是新兴市场取决于此处的 Microsoft 合作伙伴网络定义。）
+每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 Customer Engagement 和 Finance & Operations 的这些阈值是不同的。 在发达市场运营的合作伙伴和完全在新兴市场运营的合作伙伴的阈值也是不同的。 如果合作伙伴有一个或多个客户在发达市场，则会应用发达市场阈值。 The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).
+
+Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.
 
 合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 可以获得除“功能顾问增长”之外的所有指标的部分分数，例如，发达市场合作伙伴如果净新收入为 150,000 美元，则会获得最高分数（10 分）的一半（150,000 美元/300,000 美元）。
 
-### <a name="customer-engagement-thresholds"></a>客户参与度阈值
+![customer engagement](images/pcix1.png)
 
-![参与度阈值](images/pci3.png)
+![财经](images/pcix3.png)
 
-### <a name="finance-and-operations-thresholds"></a>财务和运营阈值
+![consultant](images/pcix4.png)
 
-![财务和运营](images/pci4.png)
+## <a name="detailed-definitions-of-pci-metrics"></a>Detailed definitions of PCI metrics
 
-### <a name="developed-and-emerging-markets-functional-consultant-growth"></a>发达市场和新兴市场的功能顾问增长 
+|**Net new revenue**|**Summed up over training 12-months**|**Maximum of 10 points**|
+|---------------|----------------------------------|-----------------------|
+|Net new billed revenue across all sales channels for specified Dynamics 365 products.|
+|计算时，需将计费收入减去信用额度，并将 12 个月的数据进行聚合。|
+|**Customer Engagement** products include Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent, and Enterprise Team Member.|
+|**Finance and Operations** products include Unified Operations, Finance, Supply Chain Management, Retail, Commerce, Plan 2, Mixed Reality, Talent, and Enterprise Team Member.|
+|销售渠道包括企业协议 (EA)、云解决方案提供商 (CSP)、Web Direct。|
+|企业协议收入仅包括协议第一年的收入。 第二年和第三年的经常性收入不包括在内。|
 
-![发达市场和新兴市场](images/pci6.png)
-![发达市场和新兴市场](images/pci7.png)
+|**Net customer adds**|**Summed up over training 12-months**|**Maximum of 10 points**|
+|--------------|------------|---------------|
+|所有销售渠道的客户净增数。|
+|按月计算。计算时，需将增加的客户数减去丢失的客户数，并将 12 个月的数据进行聚合。|
+|客户增加是指客户在上一个月没有付费启动单元，但当前月有。|
+|客户丢失是指客户在上一个月有付费启动单元，但当前月没有。|
+|销售渠道包括企业协议 (EA)、云解决方案提供商 (CSP)、Web Direct。|
+|如果客户在流失后又重新获得，但此时是与另一个合作伙伴相关联，则该客户属于最新的这个合作伙伴。|
 
-## <a name="detailed-definitions-for-each-of-the-pci-metrics"></a>每个 PCI 指标的详细定义
+|**Functional consultant**|**Current month snapshot**|**Maximum of 15 points**|
+|--------------|------------|---------------|
+|Number of individuals holding a currently active Functional Consultant Associate certification.|
+|**Customer Engagement** Functional Consultant certification requires and individual to pass MB-200 AND MB-210 OR MB-220 OR MB-230 OR MB-240 OR MB6-898.|
+|**Finance and Operations** Functional Consultant certification requires and individual to pass MB-300 AND MB-310 OR MB-320 OR MB-330 OR MB6-897 OR MB6-898.|
 
+|**Functional consultant growth**|**Current month vs baseline on March 31, 2020**|**0 or 15 points**|
+|--------------|------------|---------------|
+|Growth in the number of certified Functional Consultant Associates since a baseline snapshot taken on March 31, 2020.|
+|The baseline snapshot is reset on the next Cloud Business Applications competency renewal date.|
+|To be eligible for points, must have a minimum of 15 Functional Consultant Associates for Developed market partners and 5 for Developing market partners when the baseline snapshot is taken.|
+|**不提供部分分数**。 Growth on top of the baseline snapshot must meet or exceed the thresholds indicated in Table 3.|
 
-|**Metric**   |**分数**   |**定义**   |**评估时间范围**|
-|---------------|:--------------------------|:-------------------|:----------|
-|净新收入|10|指定产品的所有销售渠道的净新计费收入。 计算时，需将计费收入减去信用额度，并将 12 个月的数据进行聚合。
-||| - **客户参与度**产品包括销售、客户服务、现场服务、项目服务自动化、营销、Microsoft 关系销售、人才以及企业团队成员。 -
-||| **财务和运营**产品包括财务和运营、零售、人才、企业团队成员。销售渠道包括企业协议 (EA)、云解决方案提供商 (CSP)、Web Direct。 企业协议收入仅包括协议第一年的收入。 第二年和第三年的经常性收入不包括在内。|后续 12 个月|
-|客户净增数|10|所有销售渠道的客户净增数。 按月计算。计算时，需将增加的客户数减去丢失的客户数，并将 12 个月的数据进行聚合。 客户增加是指客户在上一个月没有付费启动单元，但当前月有。 客户丢失是指客户在上一个月有付费启动单元，但当前月没有。 销售渠道包括企业协议 (EA)、云解决方案提供商 (CSP)、Web Direct。 如果客户在流失后又重新获得，但此时是与另一个合作伙伴相关联，则该客户属于最新的这个合作伙伴。|后续 12 个月|
-|功能顾问|15 |获得目前有效的功能顾问认证的人员数。**客户参与度**功能顾问认证要求认证者通过 MB200 和 MB210 或 MB220 或 MB230 或 MB240 或 MB6-898。**财务和运营**功能顾问认证要求认证者通过 MB300 和 MB310 或 MB320 或 MB330 或 MB6897 或 MB6-898。|当前快照|
-|功能顾问增长|15|对目前持有有效的功能顾问认证的人员数与 **2019 年 12 月 31 日**持有有效的功能顾问认证的人员数进行比较。 **不提供部分分数**。 增长情况必须达到或超过表 3（发达市场合作伙伴）和表 4（新兴市场合作伙伴）所示阈值。|当前快照与 2019 年 12 月 31 日快照|
-|开发人员|5|就**客户参与度**来说，这是指当前获得 MB2-716 的有效认证的人员数。 就**财务和运营**来说，这是指当前获得 MB6-894 的有效认证的人员数。|当前快照|
-|新大型部署|20|就**客户参与度**来说，如果在过去 12 个月内的付费订阅超过 250 个单月活动用户阈值，则相关的合作伙伴会在该租户名下获得所有客户参与度生产实例（组织）的信用额度。 就**财务和运营**来说，如果在过去 12 个月内的付费订阅超过 100 个单月活动用户阈值，则相关的合作伙伴会在该租户名下获得所有财务和运营生产实例（CS 项目）的信用额度。 单月活动用户在订阅级别计数，仅考虑付费订阅。 单月活动用户数在每月结束时计算。 系统将某个订阅视为超出单月活动用户阈值的条件是：它在 13 个月前低于指定阈值，在随后的 12 个月内超出阈值至少一次。 如果某个租户有多个订阅，每个订阅与不同的合作伙伴相关联，则所有的合作伙伴都会获得该租户名下相应产品类别中所有生产实例的信用额度，只要其关联的付费订阅超出所要求的单月活动用户阈值即可。|后续 12 个月|
-|单月活动用户增长情况|25|将单月活动用户当前计数与单月活动用户 13 个月前的计数进行比较。 单月活动用户在订阅级别计数，仅考虑付费订阅。 单月活动用户数在每月结束时计算。 就**客户参与度**来说，发达市场合作伙伴必须在其生产环境中至少有 250 个单月活动用户，新兴市场合作伙伴必须至少有 150 个单月活动用户（二者都是就整个客户群 13 个月之前的情况而言），否则无法获得任何分数。 就**财务和运营**来说，发达市场合作伙伴必须在其生产环境中至少有 100 个单月活动用户，新兴市场合作伙伴必须至少有 50 个单月活动用户（二者都是就整个客户群 13 个月之前的情况而言），否则无法获得任何分数。|后续 12 个月|
+|**Developers**|**Current month snapshot**|**Maximum of 15 points**|
+|--------------|------------|---------------|
+|Number of individuals holding a currently active Developer Associate certification.|
+|**Customer Engagement** Developer Associate certification requires an individual to pass both MB-200 AND MB-400 OR MB2-716.|
+|**Finance and Operations** Developer Associate certification requires an individual to pass MB-300 AND MB-500 OR MB6-894.|
+
+**New large deployments**|**Summed up over trailing 12-months**|**Maximum of 15 points**|
+|--------------|------------|---------------|
+|For **Customer Engagement**, this is the number of production instances under a tenant that has crossed 250 monthly active users for Developed & 150 Monthly active users for Developing market partners.|
+|For **Finance & Operations**, this is the number of production instances under a tenant that has crossed 100 monthly active users for Developed & 50 Monthly active users for Developing market partners.|
+|A tenant is considered to have crossed the monthly active user threshold if it was below the specified threshold 12 months ago and crossed that threshold at least once over the subsequent 11 months.|
+|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
+|单月活动用户数在每月结束时计算。|
+|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations production instances under that tenant.|
+
+**Monthly active user growth**|**Current month vs baseline from 12 months ago**|**Maximum of 25 points**|
+|--------------|------------|---------------|
+|For **Customer Engagement**, Developed market partners must have a baseline of at least 250 monthly active users, and Developing market partners must have a baseline of 150 monthly active users across their entire customer base 12 months ago to be eligible for points.|
+|For **Finance and Operations**, Developed market partners must have a baseline of at least 100 monthly active users, and Developing market partners must have a baseline of 50 monthly active users across their entire customer 12 months ago to be eligible for points.|
+|Monthly active users are counted at the tenant level and summed up across only the paid subscriptions under the tenant.|
+|单月活动用户数在每月结束时计算。|
+|Partners are associated to tenants at the subscription level. Subscriptions are mapped to Customer Engagement or Finance and Operations products. All partners associated to any paid subscription under a tenant will get credit for all the Customer Engagement or Finance and Operations monthly active users summed up across all paid subscriptions under that tenant.|
 
 ## <a name="customer-to-partner-association"></a>客户与合作伙伴之间的关联
 
-你会获得给定客户在指标定义范围内的净新收入、净客户增加数、新大型部署、单月活动用户增长情况的信用额度，但前提是你是云解决方案提供商 (CSP)、记录声索合作伙伴 (CPOR) 或记录数字合作伙伴 (DPOR)，且付费订阅属于客户的租户。
+You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.
 
-合作伙伴成为 CPOR 的前提是在订阅级别通过 Dynamics 365 Online Solution Advisor (OSA) 奖励计划建立了与客户的关联。
+A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.
 
 合作伙伴成为 DPOR 的前提是在产品的订阅级别建立了与客户的关联。
 
@@ -76,9 +126,9 @@ PCI 使用百分制，对你使用 Dynamics 365 Customer Engagement 或 Dynamics
 
 ![如何阅读图表](images/pci2.png)
 
+## <a name="additional-resources"></a>其他资源
 
-
-
+Please visit [Partner Center Indicators information](https://aka.ms/pcilearn) where you can find detailed training videos, presentations, FAQs, and fact sheets. 
 
 
 

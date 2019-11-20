@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 首次作为管理员登录心时，请确保你的支持详细信息正确、申报免税（如果适用），并在配置文件中查看联系信息。
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653989"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189056"
 ---
-ms. service：合作伙伴-仪表板 partnercenter-csp 说明：首次以管理员身份登录时，请确保你的支持详细信息正确，如有必要，请在配置文件中查看联系信息。
-幼圆.主题：文章日期： 08/06/2019 assetid： B7FCD670-465F-443A-A80C-4E83B74E2D1E author： LauraBrenner： labrenne localizationpriority：中型
----
-
 # <a name="verify-your-partner-profile"></a>验证合作伙伴配置文件
 
 首次以全局管理员身份登录合作伙伴中心时，请确保正确添加公司的所有详细信息，例如主要联系人、法定公司名称和地址，以及计划信息。 如果公司有多个位置，请查看位置数据以确保其准确性。 作为全局管理员、帐务管理员或管理员代理，你也可以查看并更新帐务和税务信息。 
