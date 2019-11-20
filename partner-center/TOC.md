@@ -186,7 +186,6 @@
 ## [概述](partner-security-requirements.md)
 ## [对合作伙伴租户强制执行 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [要求状态](partner-security-compliance.md)
-## [对合作伙伴租户强制执行 MFA](partner-security-requirements-mandating-mfa.md)
 ## [常见问题解答](partner-security-requirements-faq.md)
 
 # 教程
