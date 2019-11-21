@@ -1,31 +1,31 @@
 ---
 title: 客户帐户的用户管理任务 | 合作伙伴中心
 ms.topic: article
-ms.date: 06/10/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 为客户购买新订阅后，可将许可证分配给特定用户。
+description: Learn how to create user accounts for a customer, add or remove user licenses, reset user passwords, delete user accounts or restore them.
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
+Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
 ms.localizationpriority: medium
-ms.openlocfilehash: 67e134978f30adbbe397cb09f34eae9892b18f08
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654401"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253344"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客户帐户的用户管理任务
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
 
-可在客户帐户中创建和删除新用户。还可以在删除后 30 天内还原已删除的一个或多个用户帐户。 用户之前分配的订阅也将还原（假设之前的分配可用）。
+You can create and delete new users in a customer's account. You can also restore one or more user accounts that you previously deleted within 30 days of the deletion. 用户之前分配的订阅也将还原（假设之前的分配可用）。
 
-为客户购买新的订阅时，客户应为你提供一个列表，其中列出了需要帐户的所有用户、用户权限以及每个用户需要的服务。  
+When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.  
 
 可以一次[将订阅分配给多个用户](bulk-license-provisioning-for-multiple-users.md)，方法是使用 [Excel 兼容的 .csv 电子表格文件](adding-multiple-users-to-a-customer-account.md)导入这些名称。
 
@@ -33,50 +33,58 @@ ms.locfileid: "73654401"
 
 ## <a name="create-user-accounts-for-a-customer"></a>为客户创建用户帐户
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 在列表中选择客户。
+1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
-2.  在“客户”菜单中，选择**用户和许可证**。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3.  对于每个用户，请选择**添加订阅**，然后填写信息，包括权限和许可证。 **保存**更改。
+3. 在“客户”菜单中，选择**用户和许可证**。
 
-4.  请确保记录用户名和临时密码以发送给用户。
+4. 对于每个用户，请选择**添加订阅**，然后填写信息，包括权限和许可证。 **保存**更改。
 
-5.  如果要一次一个地添加多个用户，则使用**再次添加一个用户**。
+5. 请确保记录用户名和临时密码以发送给用户。
 
-6. 你还可以通过[导入 Excel 兼容的 .csv 电子表格文件](adding-multiple-users-to-a-customer-account.md)一次添加多个用户。 等到添加完所有用户后，可从确认屏幕通过电子邮件发送或打印这些名称和密码。
+6. 如果要一次一个地添加多个用户，则使用**再次添加一个用户**。
+
+7. 你还可以通过[导入 Excel 兼容的 .csv 电子表格文件](adding-multiple-users-to-a-customer-account.md)一次添加多个用户。 等到添加完所有用户后，可从确认屏幕通过电子邮件发送或打印这些名称和密码。
 
 <a href="" id="userlicensing"></a>
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>为客户添加或删除用户许可证
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
+The following steps apply to adding or removing user licenses for Microsoft products. To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
-2.  在“客户”菜单中，选择**用户和许可证**。
+1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
-3.  从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新许可证，并且你希望将它们分配给尚未拥有的人员，则可以使用**用户筛选条件**选项来找到正确的组。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-4.  选择**管理许可证**。 进行更改，然后选择**保存**。
+3. 在“客户”菜单中，选择**用户和许可证**。
+
+4. 从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新许可证，并且你希望将它们分配给尚未拥有的人员，则可以使用**用户筛选条件**选项来找到正确的组。
+
+5. 选择**管理许可证**。 进行更改，然后选择**保存**。
 
 > [!NOTE]
-> 对于[Azure Marketplace 产品](sell-marketplace-products.md)，许可证分配和激活是通过发布产品的独立软件供应商（ISV）来管理的。
+> For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>为客户重置用户密码
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
+1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
 
-2.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3.  在屏幕底部，选择**重置密码**。 
+3.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
 
-4.  将新的临时密码发送给用户。
+4.  在屏幕底部，选择**重置密码**。 
+
+5.  将新的临时密码发送给用户。
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>为客户删除用户帐户
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
+1.  From the **Partner Center** menu, select **Customers**. 从列表中选择客户。
 
 2.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
 
@@ -88,7 +96,7 @@ ms.locfileid: "73654401"
 
 ## <a name="restore-deleted-user-accounts"></a>还原删除的用户帐户
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择客户。
+1.  From the **Partner Center** menu, select **Customers**, then choose the customer from the list.
 
 2.  选择**用户和许可证**。
 
@@ -103,4 +111,4 @@ ms.locfileid: "73654401"
 
 [向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 
-[为客户帐户创建多个用户](adding-multiple-users-to-a-customer-account.md)
+[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)

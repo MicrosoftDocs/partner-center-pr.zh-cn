@@ -1,20 +1,20 @@
 ---
-title: 如何获取工作电子邮件地址 |合作伙伴中心
+title: How to get a work email address | Partner Center
 ms.topic: article
-ms.date: 06/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 需要一个工作电子邮件，以便在合作伙伴中心获取 Azure AD 帐户
+description: Learn about the need for an email domain before you can set up an Azure AD account in Partner Center. Learn also how to purchase an email domain.
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c165f3a610d41dbb365a4081b2c5b316a3a12b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4ba4a0ed709ae9e0964d3187ae3c37d0c834f7ed
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653705"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252819"
 ---
-# <a name="how-to-get-a-work-email-address"></a>如何获取工作电子邮件地址
+# <a name="how-to-get-a-work-email-address"></a>How to get a work email address
 
-您的公司需要购买一个电子邮件域，以便您能够为您的员工设置工作电子邮件地址。 请与你的 IT 部门合作来购买电子邮件域，因为这是一个技术流程。 使用新的电子邮件设置你的 Azure AD 租户和合作伙伴中心帐户。
+Your company needs to purchase an email domain in order for you to be able to set up work email addresses for your employees. Work with your IT department to buy an email domain since this is a technical process. Use the new email to set up your Azure AD tenant and your Partner Center account.

@@ -1,20 +1,20 @@
 ---
 title: 在合作伙伴中心分配 Azure 订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 现在，你可以向合作伙伴中心中的客户分配 Azure 订阅，还可以允许客户自己管理订阅。
+description: Learn how to assign Azure subscriptions to your customers in Partner Center and how to enable customers to manage their own subscriptions.
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Azure 订阅, 订阅, 分配订阅, 管理 azure 订阅
 ms.localizationpriority: medium
-ms.openlocfilehash: f9ff42dcc6561c6775232d3a4cc54d749ee6ec45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5e22cbaa71ce724a69a8c05718bf1e6a4a71d1e7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654387"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252914"
 ---
 # <a name="assign-azure-subscriptions-in-partner-center"></a>在合作伙伴中心分配 Azure 订阅
 
@@ -24,7 +24,7 @@ ms.locfileid: "73654387"
  
 ## <a name="assign-azure-subcriptions-to-your-customers-in-partner-center"></a>在合作伙伴中心向客户分配 Azure 订阅
 
-1. 从 "**合作伙伴中心**" 菜单中选择 "**客户**"，并找到要管理的客户。
+1. Select **Customers** from your **Partner Center** menu and locate the customer you want to manage.
 
 2.  选择行末尾的向下键以展开客户记录，然后选择 **Microsoft Azure 管理门户**。 你将转到 Azure 门户，你可以在那里管理客户的订阅。 
 
@@ -36,17 +36,17 @@ ms.locfileid: "73654387"
 
 7. 将用户添加到订阅之后，你可以为用户分配角色以及用户可以访问的特定帐户。 
 
-**允许客户管理其 Azure 订阅**
+**Enable customers to manage their Azure subscriptions**
 
-在为客户创建 Microsoft Azure 订阅后，可以让他们管理该订阅。 为此，需要登录到客户的 Microsoft Azure 管理门户。 
+在为客户创建 Microsoft Azure 订阅后，可以让他们管理该订阅。 To do this, you'll need to log on to the customer's Microsoft Azure Management portal. 
 
-1.  若要打开客户的 Azure 门户，请在客户列表中展开客户的列表或选择客户名称，然后选择 " **Microsoft Azure 管理门户**"。
+1.  To open the customer's Azure portal, either expand the customer's listing in your customer list or select the customer's name and then select **Microsoft Azure Management Portal**.
     
 > [!NOTE]  
 > 如果系统提示你登录 Azure 门户，可能是因为你未获得委托管理权限。 请选择**请求建立关系**以邀请客户将你确定为他们的记录合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。 
 
-2.  在 Azure 门户中，打开客户的 "订阅" 列表并选择客户的 Azure 订阅。
+2.  In the Azure portal, open the customer's subscriptions list and select the customer's Azure subscription.
 
-3.  为客户的任何用户分配角色，以便他们可以在其订阅下创建和管理资源。
+3.  Assign a role to any of the customer's users so that they can create and manage resources under their subscription.
 
 
