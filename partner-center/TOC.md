@@ -114,6 +114,14 @@
 ## [分配支持联系人](assign-support-contacts.md)
 
 # [云解决方案提供商产品/服务](csp-offers.md)
+## 商业市场
+### [商业市场概述](csp-commercial-marketplace-overview.md)
+### [发现市场产品/服务](csp-commercial-marketplace-discover.md)
+### [购买市场产品/服务](csp-commercial-marketplace-purchase.md)
+### [管理市场产品/服务](csp-commercial-marketplace-manage.md)
+### [市场产品/服务计费](csp-commercial-marketplace-billing.md)
+### [对市场产品/服务的支持](csp-commercial-marketplace-support.md)
+### [适用于市场购买的合同](csp-commercial-marketplace-contracting.md) 
 ## [Azure 预订](azure-reservations.md)
 ### [针对最大预订利用率确定虚拟机大小](azure-usage.md)
 ### [代表客户购买 Microsoft Azure 预订](azure-reservations-buying.md)
@@ -135,7 +143,6 @@
 ### [使用促销吸引新客户](promotions.md)
 ### [为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)
 ### [销售商业市场产品的订阅](sell-marketplace-products.md)
-### [市场专用产品/服务](isv-opt-in.md)
 ### [在合作伙伴中心内分配 Azure 订阅](assign-azure-subscriptions.md)
 ### [将许可证分配给用户](assign-licenses-to-users.md)
 ### [将许可证或服务添加到现有订阅](add-licenses-or-services-to-an-existing-subscription.md)
