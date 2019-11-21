@@ -1,27 +1,33 @@
 ---
 title: Azure Cost Management by Cloudyn（面向云解决方案提供商合作伙伴）| 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure Cost Management by Cloudyn 需要对合作伙伴中心 API 的访问权限进行预配。
+description: 了解如何在合作伙伴中心注册 Cloudyn web 应用并使用它的密钥，以便可以使用该应用来跟踪客户的 Azure 使用情况和成本。
 author: Janet
 ms.author: janet
 Keywords: Azure 成本管理应用，管理成本，web 应用
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: a746522d3470a8b97b845ed723fae87455e33e5e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b05f2085aad63f8a0e23fa44de97550d13053f86
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653871"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253299"
 ---
 # <a name="azure-cost-management-app-for-azure-csp-partners"></a>面向 Azure 云解决方案提供商合作伙伴的 Azure Cost Management  
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
+- 云解决方案提供商计划合作伙伴
+
+**适当的角色**
+
+- 全局管理员
+- 管理员代理
 
 [获取有关 Azure 成本管理的详细信息](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
@@ -37,7 +43,7 @@ Cloudyn 是一个 web 应用，可用于跟踪和管理你的客户使用 Azure 
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>在合作伙伴中心注册你的 Web 应用
 在合作伙伴中心注册一款 Azure Active Directory Web 应用即可获得合作伙伴中心 API 的访问权限。 
-1.  使用[全局管理员或管理员代理帐户](create-user-accounts-and-set-permissions.md)登录到[合作伙伴中心](https://partnercenter.microsoft.com/pcv/dashboard/overview)。
+1.  使用[全局管理员或管理员代理帐户](https://partnercenter.microsoft.com/pcv/dashboard/overview)登录到[合作伙伴中心](create-user-accounts-and-set-permissions.md)。
 2.  从 "**合作伙伴中心**"，选择 "**帐户设置**" &gt; **[应用管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** "。
 3.  在 **Web 应用**部分中，单击**添加新的 Web 应用**。
 <br> **注意**：如果此前已创建 Web 应用，你可以跳过第 3 步。

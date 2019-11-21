@@ -1,9 +1,9 @@
 ---
 title: 分析订阅和许可证 | 合作伙伴中心
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 使用 "订阅和许可证分析" 页中的指标来确定你的成功和需要更多关注的区域。
+Description: 了解如何使用 "订阅和许可证分析" 页中的指标来识别你的成功和需要更多关注的区域。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
@@ -11,12 +11,12 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8c2469a780870df40792eb229ef4d0546e79645d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651182"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253370"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>分析订阅和许可证 
 

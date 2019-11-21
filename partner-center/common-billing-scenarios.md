@@ -1,21 +1,21 @@
 ---
 title: 常见计费方案 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 本主题介绍了在添加新订阅、调整订阅中的许可证数或取消订阅后，你应该会在帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
+description: 在添加新订阅、调整订阅中的许可证数量或取消订阅后，了解你将在你的帐单上看到的内容。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: a4a152719f20c82ff338e6f577ea83fa9eb5e4f6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d8afffa1dd11e386b03548c8f10e5490e6db5894
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653668"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253399"
 ---
 # <a name="common-billing-scenarios"></a>常见计费方案
 
@@ -84,7 +84,7 @@ Azure CSP 价目表每月发布一次，可以在合作伙伴中心的“销售�
 |费用开始日期 |费用结束日期 |费用类型 |单价 |数量 |金额 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 1/13/2018        |2/12/2018    |周期实例按比例计算   |-4.00       |1        |-4.00    
-|1/13/2018         |1/31/2018    | 周期实例按比例计算   |2.45       |1        |2.45    
+|1/13/2018         |2018/1/31    | 周期实例按比例计算   |2.45       |1        |2.45    
 |2/1/2018         |2/12/2018    | 周期实例按比例计算   |1.55       |2        |3.10    
 |2/13/2018         |3/12/2018    | 周期实例按比例计算   |4.00       |2        |8.00    
 
@@ -199,7 +199,7 @@ Azure CSP 价目表每月发布一次，可以在合作伙伴中心的“销售�
 |费用开始日期 |费用结束日期 |费用类型 |单价 |数量 |金额 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  | 
 1/13/2018|1/12/2019|周期实例按比例计算|-48.00|1|-48.00
-1/13/2018|1/31/2018|周期实例按比例计算|2.47|1|2.47
+1/13/2018|2018/1/31|周期实例按比例计算|2.47|1|2.47
 2/1/2018|1/12/2019|周期实例按比例计算|44.98|2|89.96
 
 **单价公式：**

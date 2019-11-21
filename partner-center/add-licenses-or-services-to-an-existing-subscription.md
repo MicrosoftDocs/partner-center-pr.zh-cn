@@ -1,21 +1,21 @@
 ---
 title: 将许可证或服务添加到现有订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。
+description: 了解如何升级或修改客户的订阅，例如添加更多许可证或座位，或使用其他服务迁移到其他版本。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654370"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253138"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 

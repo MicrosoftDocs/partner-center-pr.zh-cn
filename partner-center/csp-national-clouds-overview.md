@@ -1,20 +1,20 @@
 ---
 title: 申请在 Microsoft 国家云中销售 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 云解决方案提供商计划中的 Microsoft 合作伙伴可以向受支持的国家云中注册的客户进行销售。
+description: 了解云解决方案提供商计划中的 Microsoft 合作伙伴如何向在受支持的国家/地区注册的客户进行销售。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 国家云, 德国 Microsoft 云, Microsoft Cloud for US Government, 世纪互联, 中国 Microsoft 云
 ms.localizationpriority: medium
-ms.openlocfilehash: aec95e9c453dffef99e65b2c303165ef04c069fd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d8f23931f5f13252a8d72b36b4be52efd5f3cd88
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653541"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253518"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds"></a>申请在 Microsoft 国家云中销售
 
@@ -44,7 +44,7 @@ Microsoft 可在国家云中提供以下服务：
     > 接下来，新客户可以选择使用当前可用的欧洲地区或德国的新地区（在这些地区可用时）。 有关详细信息，请参阅 [Microsoft 通过德国的新数据中心提供云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
     
--   [**中国世纪互联运营的 Azure 和 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China)Microsoft 通过一种独特的合作关系在中国提供云服务，其中，上海（世纪）是北京世纪互联运营数据中心 Co 的一个完全拥有的子公司。中国的数据中心、托管、托管网络和云计算基础结构服务的提供商。 
+-   [**中国世纪互联运营的 Azure 和 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China)Microsoft 通过一种独特的合作关系在中国提供云服务，而该合作伙伴是北京世纪互联（世纪互联）的全球子公司，北京世纪互联数据中心的所有子公司都是数据中心、托管、托管网络和中国的云计算基础结构服务的最大运营商中立 Internet 提供商。 
 
     Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营、提供和管理 Microsoft 云服务的交付。 通过授权 Microsoft 技术，世纪互联可以提供 Azure 和 Office 365 服务，并运营将数据保存在中华人民共和国的 Azure 和 Office 365 数据中心。 世纪互联还提供订阅和计费服务以及支持。
 

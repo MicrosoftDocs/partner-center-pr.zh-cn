@@ -1,20 +1,20 @@
 ---
 title: 查找客户的域名和目录 ID |合作伙伴中心
 ms.topic: article
-ms.date: 3/14/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 提交声明时如何查找客户的域名和目录 ID
+description: 了解如何在提交声明时查找客户的域名和目录 ID。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励理赔，合作声明，合作基金，OSA，ISV，收入协会，域名，目录 ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e9f78ff41783a1cd49790288d20c8ccdfd78192
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 32eba0d62c7256f1c88ccbfac110ceb0c1bf403b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653108"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253632"
 ---
 # <a name="find-your-customers-domain-name-and-directory-id"></a>查找客户的域名和目录 ID
 

@@ -1,20 +1,20 @@
 ---
 title: 访问奖励付款页面 |合作伙伴中心
 ms.topic: article
-ms.date: 10/17/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 了解你的支出信息
+description: 了解如何访问付出的信息。 这适用于 Windows 应用和游戏付款以及 MPN 激励付款。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 奖励，支出
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b9bc2a1ff8a2b52a5e7b72d468537e5016e34a1
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 246c3eaa95fe88cdd42c1eb85548065d29828bfc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654352"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253707"
 ---
 # <a name="access-your-incentives-payouts-page"></a>访问奖励付款页
 

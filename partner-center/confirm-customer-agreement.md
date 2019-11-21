@@ -1,20 +1,20 @@
 ---
 title: 确认客户接受 Microsoft 客户协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 09/30/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 作为合作伙伴，你需要获取客户对 Microsoft 客户协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。 为了更好地帮助合作伙伴满足符合性要求，Microsoft 要求合作伙伴提供接受协议人员的特定详细信息，以这种方式确认接受协议。
+Description: 了解如何确认客户接受 Microsoft 客户协议。 这可能需要为客户订购 Microsoft 产品和服务。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653647"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252224"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
@@ -56,7 +56,7 @@ ms.locfileid: "73653647"
 
 在合作伙伴中心创建新客户租户时，请按以下步骤确认客户接受了 Microsoft 客户协议。 必须是管理员代理或销售代理才能执行这些步骤。
 
-1. 选择“客户”，然后选择“新客户”。
+1. 选择**客户**，然后选择**新客户**。
 
 2. 在“帐户信息”下，输入公司及其主要联系人的信息。
 
@@ -90,7 +90,7 @@ ms.locfileid: "73653647"
 
 可以按下述步骤检索关于现有客户已接受 Microsoft 客户协议的确认信息。 必须是管理员代理或销售代理才能执行此操作。
 
-1. 选择“客户”，然后找到并选择要查看的客户。
+1. 选择**客户**，然后查找并选择要查看的客户。
 
 2. 选择“帐户信息”。
 

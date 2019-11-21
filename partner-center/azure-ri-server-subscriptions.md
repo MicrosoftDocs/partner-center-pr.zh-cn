@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 7/30/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 通过将 Azure RI 和服务器订阅纳入其云解决方案提供商计划，我们可以更好地帮助合作伙伴满足客户对成本效益更高的解决方案的快速增长需求，从而为高度可预测的持久云工作负荷提供支持。 利用云解决方案提供商计划，合作伙伴能够通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure RI 和服务器订阅。
+description: 了解云解决方案提供商的机会，以便为其客户获取、预配和管理 Azure 保留和服务器订阅。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure，订阅，VM，预订，保留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: e745a52e1f80164ae13d1d4b0fe058775b1074b3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9a5e6c7a28a20b0b168616f39db591b5dd90649
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653792"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253231"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -51,7 +51,7 @@ Azure 预订可帮助节省一年或三年的虚拟机、SQL 数据库计算能�
 -   Azure Databricks 单位预订
 
 #### <a name="server-subscriptions"></a>服务器订阅
--   WIN ENT LTSB 2016 Estonian 64 Bits
+-   Windows Server
 -   远程桌面服务（RDS） Cal
 -   SQL Server
 
@@ -63,7 +63,7 @@ Azure 预订可帮助节省一年或三年的虚拟机、SQL 数据库计算能�
 #### <a name="isv-annual-subscriptions"></a>ISV 年度订阅
 -   Azure VMware 解决方案（按 CloudSimple）
 
-## <a name="getting-started"></a>即刻体验
+## <a name="getting-started"></a>入门
 
 若要了解如何为客户部署 Azure 预订并尽快有效启动并运行，我们建议采用以下方法来查看准备材料：
 
@@ -112,7 +112,7 @@ Azure 预订可帮助节省一年或三年的虚拟机、SQL 数据库计算能�
 
 **操作**
 
-- [新式商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（已更新）：涵盖重要策略和操作方面的综合指南，其中包括协议、按合作伙伴中心、发票、价目表详细信息、奖励、协调文件、API/SDK、沙箱和Azure 合作伙伴共享服务。
+- [新式商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（已更新）：涵盖重要策略和操作方面的综合指南，其中包含协议、按合作伙伴中心、发票、价目表详细信息、奖励、协调文件、API/SDK、沙箱和 Azure 合作伙伴共享服务等。
 - [现代产品/服务国家/地区可用性和客户货币矩阵](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [出售 Microsoft Azure 预订实例](https://go.microsoft.com/fwlink/?linkid=872806)
 - [代表客户购买 Microsoft Azure 预订](https://go.microsoft.com/fwlink/?linkid=872807)

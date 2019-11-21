@@ -1,20 +1,20 @@
 ---
 title: 向特定行业销售 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/14/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Microsoft 为选择的客户组提供特殊的、减少的定价，包括教育客户、非利润客户和政府用户。
+Description: 了解 Microsoft 对某些客户组（包括教育客户、非利润客户和政府用户）的特殊定价的定价。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8405018cd33b36efcbeb936672afcab78273f6e8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653079"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253652"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 

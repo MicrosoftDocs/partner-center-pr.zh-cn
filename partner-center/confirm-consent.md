@@ -1,20 +1,20 @@
 ---
 title: 确认客户接受 Microsoft 云协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 04/16/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 作为合作伙伴，你需要获取客户对 Microsoft 云协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。 为了更好地帮助合作伙伴满足符合性要求，Microsoft 要求合作伙伴提供接受协议人员的特定详细信息，以这种方式确认接受协议。
+Description: 了解如何确认客户接受 Microsoft 云协议。 这可能需要为客户订购 Microsoft 产品和服务。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客户，客户，同意，MCA，Microsoft 云协议，客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653660"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252592"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
@@ -36,7 +36,7 @@ ms.locfileid: "73653660"
 
 -   姓氏
 
--   Email address
+-   电子邮件地址
 
 -   电话号码（可选）
 
@@ -88,11 +88,11 @@ ms.locfileid: "73653660"
 
 必须是管理员代理或销售代理才能执行此操作。
 
-1. 选择“客户”，然后找到并选择要查看的客户。
+1. 选择**客户**，然后查找并选择要查看的客户。
 2. 选择“帐户信息”。
 3. 在**Microsoft 云协议**下选择**更新**。
 
-![“更新”](images/mca/mca4.png)
+![更新](images/mca/mca4.png)
 
 4. 输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。
 5. 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。
@@ -110,6 +110,6 @@ ms.locfileid: "73653660"
 
 可以使用下面的过程为之前提供过确认的现有客户检索客户接受确认。 必须是管理员代理或销售代理才能执行此操作。
 
-1. 选择“客户”，然后找到并选择要查看的客户。
+1. 选择**客户**，然后查找并选择要查看的客户。
 2. 选择“帐户信息”。
 3. 在**Microsoft 云协议**下，你将看到是否已为此客户提供确认。

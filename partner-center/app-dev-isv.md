@@ -1,20 +1,20 @@
 ---
 title: 适用于应用程序开发能力的一次性考试要求例外 |合作伙伴中心
 ms.topic: article
-ms.date: 11/08/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 适用于应用程序开发能力的一次性考试要求例外
+description: 对于具有以前的 ISV 资格认证的合作伙伴，了解如何为应用程序开发能力提供一次性考试需求豁免
 author: LauraBrenner
 ms.author: labrenne
 keywords: 胜任度，ISV，应用程序开发
 ms.localizationpriority: medium
-ms.openlocfilehash: d32936a6611d476628c655edd97bc8bf7a219d06
-ms.sourcegitcommit: 921e7ac2f9ee2a2b670903ff175fe8b17fb2f0a9
-ms.translationtype: MT
+ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "74117230"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253359"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 

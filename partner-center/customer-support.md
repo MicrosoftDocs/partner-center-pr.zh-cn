@@ -1,20 +1,20 @@
 ---
 title: 向客户提供支持 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。
+description: 了解 CSP 计划中合作伙伴的客户支持责任。
 ms.assetid: AC358854-1B0B-4267-A66E-EF28A549954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: fab8ac43cae104c4925828cc4f6f4ce4477ed28d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f6c6afbe59424cf3ca38186b66490bbf695cfee1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653451"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253491"
 ---
 # <a name="providing-support-to-your-customers"></a>向客户提供支持
 

@@ -1,21 +1,21 @@
 ---
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
+Description: 了解如何代表客户管理 Azure 预订，包括如何取消预订、交换预订或请求退款。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure，预订，管理，计费，购买，取消，exchange，提前终止费
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653816"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252641"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订       
 
@@ -33,7 +33,7 @@ ms.locfileid: "73653816"
 
 3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-    | **单击**   | **自**    |
+    | **选择**   | **若要**    |
     |:-----------------------------|:-----------------|
     | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
     | **访问控制（IAM）**   | 管理对客户预订信息的访问。|
@@ -57,10 +57,10 @@ ms.locfileid: "73653816"
 
 |**取消日期**<br> 天数   |**使用情况**    |**信用卡**  |**提前终止**<br> 费用    |**退款 cap** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5个或更少                         | 无          | 100%       | 无                              | $50000 USD   |
-|5个或更少                         | “是”         | 按比例  | 无                              | $50000 USD   |
-|超过5个                        | 无          | 按比例  | 10                             | $50000 USD   |
-|超过5个                        | “是”         | 按比例  | 10                             | $50000 USD   |
+|5个或更少                         | 否          | 100%       | 否                              | $50000 USD   |
+|5个或更少                         | 是         | 按比例  | 否                              | $50000 USD   |
+|超过5个                        | 否          | 按比例  | 10                             | $50000 USD   |
+|超过5个                        | 是         | 按比例  | 10                             | $50000 USD   |
 
 
 **交换的工作方式** 
@@ -85,7 +85,7 @@ ms.locfileid: "73653816"
 
 4. 在**新建支持请求**页上，请按照以下步骤来请求退款。 执行每个步骤后选择**下一步**。 
 
-    |**分步**                    |**日历**    |
+    |**Step**                    |**日历**    |
     |:---------------------------|:-----------------|
     |**1基础知识**                |问题类型：计费。  |
     |**2问题**               |问题类型：预订管理。 类别：兑换和退款。 |

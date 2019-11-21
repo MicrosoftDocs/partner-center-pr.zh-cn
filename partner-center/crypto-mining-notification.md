@@ -1,21 +1,21 @@
 ---
 title: 加密挖掘活动的合作伙伴中心通知 |合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 有关潜在加密挖掘发生活动的通知。
+description: 了解在一个或多个 Azure 订阅上出现有关潜在的加密货币挖掘（或加密挖掘）的通知时，这意味着什么。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 加密挖掘，加密货币挖掘，安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f9f138a55cf7e61e46e2e876263fdd577410c96
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 52a6597c9636335cae5218b5a3dbecf0b54e1ee8
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651130"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252723"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 

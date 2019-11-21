@@ -1,20 +1,20 @@
 ---
 title: 发展你的 Microsoft 合作伙伴业务 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/23/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 适用于发展你的 Microsoft 合作伙伴业务的资源。 包括如何从 Microsoft 获得销售线索（引荐）。
+description: 了解用于拓展你的 Microsoft 合作伙伴业务的资源。 这包括如何从 Microsoft 获取销售线索（推荐）。
 keywords: 引荐, 响应引荐, 线索, 销售线索, 营销档案, 业务档案, 发展你的业务, 业务机会, 能力, 银牌成员资格, 金牌成员资格, 试用产品/服务, 市场扩张, 国家云
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7f3841271f0259bda35826737b8d40460247aaf4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653048"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253506"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>发展你的 Microsoft 合作伙伴业务 
 
@@ -42,5 +42,5 @@ Microsoft 可提供许多资源，来帮助你发展合作伙伴业务。 了解
 | 在更多市场中销售 | 云解决方案提供商销售渠道在许多地区和国家中都可用。 参阅[云解决方案提供商市场](agreements.md)，以查看该列表。 有关云解决方案提供商渠道的简介，请参阅[云解决方案提供商概述](csp-overview.md)。  | 云解决方案提供商合作伙伴 |
 向非营利组织和教育等特定行业销售|[向特定行业销售](get-special-pricing-for-offers.md)|云解决方案提供商合作伙伴|
 |通过奖励合作计划中提供的许多活动来拓展业务。 通过合作伙伴中心提交活动申请。| [创建和管理奖励申请](create-incentives-claims.md)|云解决方案提供商合作伙伴|
-|销售 Azure 市场产品的订阅|[销售 Azure 市场产品的订阅](sell-marketplace-products.md)|云解决方案提供商合作伙伴|
+|销售商业市场产品的订阅|[Undertand CSP 商业市场活动](csp-commercial-marketplace-overview.md)|云解决方案提供商合作伙伴|
 |你的公司在销售和管理 Azure 方面非常卓越？ 申请注册 Azure 专家 Microsoft 服务提供商计划|[Azure 专家 Microsoft 服务提供商计划](azure-expert-msp.md)|云解决方案提供商合作伙伴|

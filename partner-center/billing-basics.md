@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 有关基本计费方案以及基于许可证和基于使用情况的计费之间的差异的信息
+Description: 了解 Azure 订阅和预订的合作伙伴中心的基本计费方案，以及基于许可证和基于使用情况的计费之间的差异。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653760"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253210"
 ---
 # <a name="billing-overview"></a>帐单概述
 
@@ -42,7 +42,7 @@ ms.locfileid: "73653760"
 如果已选择按月计费，或已购买按月计费的基于使用情况的产品，则每月计费日期是在合作伙伴中心创建 CSP 帐户时所选月份的日期。 成功创建了 CSP 帐户后，Microsoft 将发送一封包含帐单日期的确认电子邮件。 创建后，不能更改此日期。 
 
 ## <a name="pricing-and-invoicing"></a>定价和开票
-可提前一 (1) 个月查找价目表，价目表每月更新一次。 订阅期限内可以保证基于许可证的价格，该期限通常是自购买日期起的 12 个月。 基于使用情况的价格可每月更改。 
+可提前一 (1) 个月查找价目表，价目表每月更新一次。 基于许可证的价格可保证订阅条款，有效期通常为自购买之日起的 12 个月。 基于使用情况的价格可每月更改。 
 
 可以通过订阅持续时间保证产品、服务和软件订阅的价格，但续订时价格可能会改变。
 

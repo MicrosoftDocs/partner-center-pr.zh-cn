@@ -1,20 +1,20 @@
 ---
 title: 自定义设备使用 Windows Autopilot 配置文件的全新体验 |合作伙伴中心
-description: 使用 Autopilot 配置文件预配置设备的全新体验。
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: 在将设备交付给客户之前，了解如何使用 Autopilot 配置文件自定义或预先配置新设备的全新体验。
 author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot，windows autopilot，microsoft autopilot，零接触部署，oobe，登录屏幕，现成
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653903"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253330"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自定义设备的现成体验和 Windows Autopilot 配置文件
 

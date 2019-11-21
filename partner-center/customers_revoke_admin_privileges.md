@@ -1,20 +1,20 @@
 ---
 title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 作为经销商合作伙伴，你的客户可以将你作为其管理员。它们还可以删除权限。
+description: 了解如何让客户将管理员权限委派给分销商，或者删除相同的权限以及如何使用这些权限。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 委派的管理员权限，代表的管理员，删除权限，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653424"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253475"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
@@ -83,7 +83,7 @@ ms.locfileid: "73653424"
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure 订阅和资源管理
 
-每个 Azure 订阅都有自己的一组资源管理角色。 在 CSP 合作伙伴可以管理客户的 Azure 订阅之前，必须在 Azure 订阅下将合作伙伴分配到一个或多个角色。 特别是：
+每个 Azure 订阅都有自己的一组资源管理角色。 在 CSP 合作伙伴可以管理客户的 Azure 订阅之前，必须在 Azure 订阅下将合作伙伴分配到一个或多个角色。 尤其是在下列情况下：
 
 - 当客户接受经销商邀请并向合作伙伴授予委派管理权限时，合作伙伴不会自动获取对客户租户下的现有 Azure 订阅的访问权限。
 

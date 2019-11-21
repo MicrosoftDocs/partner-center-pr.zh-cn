@@ -1,20 +1,20 @@
 ---
 title: 客户帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 作为经销商合作伙伴，你应在合作伙伴中心中为每个客户创建一个帐户。 客户帐户将是你销售订阅、计费和提供支持的起始点。
+Description: 在合作伙伴中心查找适用于经销商合作伙伴的资源。 这包括在销售订阅、帐单或产品/服务支持之前需要创建客户帐户。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653473"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253570"
 ---
 # <a name="customer-accounts"></a>客户帐户
 

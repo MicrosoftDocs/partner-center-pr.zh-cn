@@ -1,9 +1,9 @@
 ---
 title: 分析间接经销商业绩 | 合作伙伴中心
-ms.date: 08/02/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 获取有关间接经销商的性能的数据，以确定成功以及可能需要更多关注的区域。
+Description: 了解如何使用分析来了解你的间接经销商的工作方式，以及可能需要更多关注的区域。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -11,16 +11,17 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ef7a20a669481b3724fd98a5fdb62feaea4ede74
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 188961444e4ec2f20fe305179b9f00673d7e371f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653929"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253376"
 ---
 # <a name="analyze-indirect-resellers-performance"></a>分析间接经销商业绩 
 
 **适用于**
+
 - 合作伙伴中心
 
 数据推动业务决策。 使用**经销商分析**页面的指标来确定你的成功、你的间接经销商的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
