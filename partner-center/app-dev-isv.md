@@ -1,73 +1,75 @@
 ---
-title: 适用于应用程序开发能力的一次性考试要求例外 |合作伙伴中心
+title: One-time exam requirements exemption for the Application Development competency | Partner Center
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 对于具有以前的 ISV 资格认证的合作伙伴，了解如何为应用程序开发能力提供一次性考试需求豁免
+description: For partners with a prior ISV competency, learn how to gain a one-time exam requirements exemption for the Application Development competency
 author: LauraBrenner
 ms.author: labrenne
-keywords: 胜任度，ISV，应用程序开发
+keywords: competencies, ISV, application development
 ms.localizationpriority: medium
-ms.openlocfilehash: de86b5d849e0ae8027a766559c38ebec8668f48b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
-ms.translationtype: HT
+ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253359"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295238"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>One-time exam requirements exemption for the Application Development competency
 
 **适用角色**
 
 - 全局管理员
 - MPN 合作伙伴管理员
 
-如果你已获得现已停用的 ISV 资格，并且以下方案之一适用于你，我们将为你的公司提供黄金或银牌[应用程序开发能力](https://partner.microsoft.com/membership/application-development-competency)的一次性考试要求例外。 
+If you attained the now-retired ISV competency and one of the following scenarios applies to you, we are offering your company a one-time exam requirements exemption for the gold or silver [Application Development competency](https://partner.microsoft.com/membership/application-development-competency). 
 
-具有 ISV 资格的合作伙伴：
+Partners with an ISV competency:
 
-- **你的 ISV 资格已过期**–在2019年11月22日开始，合作伙伴中心将提供一个一次性考试要求。 你将有30天的时间来利用该产品/服务。 
+- **Your ISV competency has expired** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
 
-- **你的胜任度成员处于续订时间范围内**–从2019年11月22日开始，合作伙伴中心将提供 "一次性考试要求" 例外。 你将有30天的时间来利用该产品/服务。 
+- **Your competency membership is in its renewal window** – your one-time exam requirements exemption will be available in Partner Center starting November 22, 2019. You will have 30 days to take advantage of the offer. 
 
-- 在**未来几个月内，你的资格成员资格已到期**–你将在需要续订时向你提供一次性考试要求。 此时，你将有30天的时间来获取该产品/服务。
+- **Your competency membership is due for renewal in the coming months** – your one-time exam requirements exemption will be available to you when it’s time to renew. At that time, you will have 30 days to get the offer.
 
-具有应用程序开发能力的合作伙伴通过证书 IP 路径获得：
+Partners with an Application Development competency attained via the cert IP path:
 
-- **如果你有 Microsoft 商用 marketplace 列表**，则在你的胜任度续订时，将提供一次性考试要求例外。 此时，你将有30天的时间来利用该产品/服务。
+- **If you have a Microsoft commercial marketplace listing**, your one-time exam requirements exemption will be available at the time of your competency renewal. At that time, you will have 30 days to take advantage of the offer.
 
-- **如果你没有[Microsoft 商用 marketplace](https://azure.microsoft.com/overview/commercial-marketplace/)列表**，请发布你在2月2020的解决方案，以符合一次性考试要求例外。
+- **If you do not have a [Microsoft commercial marketplace](https://azure.microsoft.com/overview/commercial-marketplace/) listing**, publish your solution by February 2020 to be eligible for the one-time exam requirements exemption.
 
-## <a name="how-to-take-advantage-of-your-offer"></a>如何利用产品/服务
+## <a name="how-to-take-advantage-of-your-offer"></a>How to take advantage of your offer
 
-1. 在仪表板上的 "合作伙伴中心" 菜单中，选择 "**胜任度**"。
-2. 在可用的胜任度列表中，应用程序开发标记为 "已**完成**"。
+1. From the Partner Center menu on your dashboard, select **Competencies**.
+2. In the list of competencies that are available, Application Development is marked **Complete**.
 
-![isv 到 appdev](images/appdev.png)
+![isv to appdev](images/appdev.png)
 
-3. 选择 "**应用程序开发**"。 你将看到你已获得一个替代，豁免公司无法满足测试要求。 
+3. Select **Application Development**. You will see the notice that you have been given an override that exempts your company from meeting the exam requirements. 
 
-4. 若要利用此产品/服务，请转到**成员资格提供**。 您可能需要根据您的能力购买或续订状态来支付能力，以完成该过程。 
+4. To take advantage of this offer, go to **Membership offers**. You may need to pay the competency fee to complete the process depending on your competency purchase or renewal status. 
 
-此产品/服务可通过合作伙伴中心获得。
+This offer is available through Partner Center.
 
-如果你需要获取你的产品/服务的帮助，或有关于此产品/服务的资格的问题，请联系[合作伙伴支持](https://partner.microsoft.com/Support)部门。 
+If you need assistance getting your offer, or have questions about your eligibility for this offer, contact [partner support](https://partner.microsoft.com/Support). 
 
 ## <a name="frequently-asked-questions"></a>常见问题解答
 
-**如何实现知道我的公司是否有资格提供此服务？**
+**How do I know whether my company is eligible for this offer?**
 
-可以通过电子邮件和合作伙伴中心通知此产品/服务的合作伙伴，其中包含有关如何获取该产品/服务的信息。 符合条件的合作伙伴包括那些通过证书 IP 路径提供现已停用的 ISV 资格以及通过证书 IP 路径提供应用程序开发能力的人员。 
+Partner companies eligible for this offer were notified via email and in Partner Center, with information about how to get the offer. Eligible partners include those who attained the now-retired ISV competency and those who attained the Application Development competency through the cert IP path. 
 
-**应用程序开发能力的好处是什么？**
+**What are the benefits of the Application Development competency?**
 
-你可以在 Microsoft 合作伙伴网站上查看应用程序开发能力权益。 
+You can review the Application Development competency benefits on the Microsoft partner website. 
 
-**当我获得此产品/服务时，我需要续订胜任度，会发生什么情况？** 我们很快就会提供有关我们的 Isv 计划的详细信息，并为具有应用程序开发能力的合作伙伴提供指导。 * *  
+**What happens when it’s time for me to renew my competency when I get this offer?** 
 
-**如果公司没有 ISV 资格，如何获得此产品/服务？**
+We will share more information about our plans for ISVs soon and provide guidance for partners that have the Application Development competency as a result of this offer.**  
 
-此产品/服务仅适用于符合以下条件的人员：拥有 ISV 资格的人员或通过证书 IP 路径的应用程序开发能力。 我们正在积极考虑用于提供 Isv 的近乎长期的综合性解决方案，并将更多详细信息。 
+**How can I get this offer if my company did not have the ISV competency?**
+
+This offer is available only to eligible partners – those who had the ISV competency or the Application Development competency through the cert IP path. We are actively considering near-term and long-term comprehensive solutions for serving ISVs and will share more details soon. 
 
 
