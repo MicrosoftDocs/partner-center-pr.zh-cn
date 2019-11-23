@@ -1,66 +1,100 @@
 ---
 title: 为客户设置 Azure 费用预算 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
+description: Set a monthly budget per customer in Partner Center.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心，你可以为每个客户设置每月预算，使其 Azure 帐单不会在该月结束时感到惊讶。
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 03901b4b17c744c0c91d732331842f6cb579bf88
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05212746e1ccbcc5081c68ca97ced6a99e20bb8c
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654062"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384894"
 ---
-# <a name="set-an-azure-spending-budget-for-your-customers"></a><span data-ttu-id="71d42-103">为客户设置 Azure 费用预算</span><span class="sxs-lookup"><span data-stu-id="71d42-103">Set an Azure spending budget for your customers</span></span>
+# <a name="set-an-azure-spending-budget-for-your-customers"></a><span data-ttu-id="1b5bf-103">为客户设置 Azure 费用预算</span><span class="sxs-lookup"><span data-stu-id="1b5bf-103">Set an Azure spending budget for your customers</span></span>
 
-<span data-ttu-id="71d42-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="71d42-104">**Applies to**</span></span>
+<span data-ttu-id="1b5bf-104">适用范围：</span><span class="sxs-lookup"><span data-stu-id="1b5bf-104">Applies to:</span></span>
 
--  <span data-ttu-id="71d42-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="71d42-105">Partner Center</span></span>
--  <span data-ttu-id="71d42-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="71d42-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="1b5bf-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="1b5bf-105">Partner Center</span></span>
+- <span data-ttu-id="1b5bf-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="1b5bf-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="71d42-107">若要帮助客户管理其 Azure 支出，可以设置每月支出预算，使其 Azure 帐单不会超出预期。</span><span class="sxs-lookup"><span data-stu-id="71d42-107">To help customers manage their Azure spending, you can set a monthly spending budget so that their Azure bill isn't higher than they anticipated.</span></span> <span data-ttu-id="71d42-108">设置 Azure 费用预算后，你便可以将客户的 Azure 费用与当月的预算进行比较。</span><span class="sxs-lookup"><span data-stu-id="71d42-108">Setting an Azure spending budget allows you to compare your customers' Azure spending to the budget during the month.</span></span> <span data-ttu-id="71d42-109">使用此功能，你可以：</span><span class="sxs-lookup"><span data-stu-id="71d42-109">With this feature, you can:</span></span> 
+<span data-ttu-id="1b5bf-107">You can [set a monthly Azure spending budget for your customers](#set-azure-spending-budget) in Partner Center.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-107">You can [set a monthly Azure spending budget for your customers](#set-azure-spending-budget) in Partner Center.</span></span> <span data-ttu-id="1b5bf-108">This helps your customers manage their Azure spending.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-108">This helps your customers manage their Azure spending.</span></span> <span data-ttu-id="1b5bf-109">This option allows you to compare your customers' Azure spending to the budget during the month.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-109">This option allows you to compare your customers' Azure spending to the budget during the month.</span></span> <span data-ttu-id="1b5bf-110">It also helps your customers budget their Azure spending so their monthly bill isn't higher than they anticipate.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-110">It also helps your customers budget their Azure spending so their monthly bill isn't higher than they anticipate.</span></span>
 
--   <span data-ttu-id="71d42-110">在客户的费用接近预算限制时收到电子邮件通知</span><span class="sxs-lookup"><span data-stu-id="71d42-110">Be notified by email if a customer's spending is near the budget limit</span></span>
--   <span data-ttu-id="71d42-111">查看客户每月估计的 Azure 成本</span><span class="sxs-lookup"><span data-stu-id="71d42-111">Review your customers' estimated Azure costs per month</span></span>
--   <span data-ttu-id="71d42-112">发现错误配置的服务或可能表示欺诈的异常使用情况趋势。</span><span class="sxs-lookup"><span data-stu-id="71d42-112">Spot a misconfigured service, or unusual usage trends that might suggest fraud</span></span>
--   <span data-ttu-id="71d42-113">与客户携手合作以辨别根源问题所在并对费用进行管理</span><span class="sxs-lookup"><span data-stu-id="71d42-113">Work with the customer to identify the root issue and manage costs</span></span>
--   <span data-ttu-id="71d42-114">在与客户达成一致的情况下，将预算更改为更高的金额</span><span class="sxs-lookup"><span data-stu-id="71d42-114">Change the budget to a higher amount if you and your customer are comfortable with it</span></span>
-
-<span data-ttu-id="71d42-115">Azure 费用数据是估计值，实际计费金额可能会有所不同，并且该值不反映税款、积分、调整或其他可能适用的费用。</span><span class="sxs-lookup"><span data-stu-id="71d42-115">The Azure spending data is an estimate, actual billing amounts may vary, and the value does not reflect taxes, credits, adjustments, or other charges that may apply.</span></span> <span data-ttu-id="71d42-116">费用数据每天刷新一次。</span><span class="sxs-lookup"><span data-stu-id="71d42-116">Spending data is refreshed once per day.</span></span> <span data-ttu-id="71d42-117">除非你在 Azure 门户中更改客户的帐户设置，否则你的客户将继续使用 Azure 服务和资源并需要支付相关费用。</span><span class="sxs-lookup"><span data-stu-id="71d42-117">Customers will continue to use—and be charged for—Azure services and resources unless you change their account settings in the Azure portal.</span></span> 
 
 > [!NOTE]  
-> <span data-ttu-id="71d42-118">此功能在生产（TIP）帐户中的沙盒或测试中不可用。</span><span class="sxs-lookup"><span data-stu-id="71d42-118">This feature is not available in sandbox or Test in Production (TIP) accounts.</span></span>
+> <span data-ttu-id="1b5bf-111">This feature is not available in sandbox or Test in Production (TIP) accounts.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-111">This feature is not available in sandbox or Test in Production (TIP) accounts.</span></span>
 
-<span data-ttu-id="71d42-119">**启用电子邮件通知**</span><span class="sxs-lookup"><span data-stu-id="71d42-119">**Turn on email notifications**</span></span>
-1.  <span data-ttu-id="71d42-120">从 "合作伙伴中心" 菜单中，选择 " **Azure 支出**"。</span><span class="sxs-lookup"><span data-stu-id="71d42-120">From the Partner Center menu, select **Azure spending**.</span></span>
-2.  <span data-ttu-id="71d42-121">请启用**获取电子邮件**选项，以便在客户使用了 80% 或更高预算时获取通知。</span><span class="sxs-lookup"><span data-stu-id="71d42-121">Toggle on the **Get emails** option to be notified when customers use 80% or more of their budget.</span></span> <span data-ttu-id="71d42-122">这将帮助你关注你的 Azure 帐单。</span><span class="sxs-lookup"><span data-stu-id="71d42-122">This will help you keep an eye on your Azure bill.</span></span> <span data-ttu-id="71d42-123">你可以将默认电子邮件地址更改为个人或其他任何电子邮件以接收通知。</span><span class="sxs-lookup"><span data-stu-id="71d42-123">You can change the default email address to a personal or any other email to receive notifications.</span></span>
+<span data-ttu-id="1b5bf-112">After you [set an Azure spending budget for your customer(s)](#set-azure-spending-budget), you can also review customer usage in the following ways.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-112">After you [set an Azure spending budget for your customer(s)](#set-azure-spending-budget), you can also review customer usage in the following ways.</span></span> <span data-ttu-id="1b5bf-113">These options may help you spot misconfigured services or unusual trends that might suggest fraud.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-113">These options may help you spot misconfigured services or unusual trends that might suggest fraud.</span></span> <span data-ttu-id="1b5bf-114">You can then work with your customer(s) to identify the root cause and manage costs.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-114">You can then work with your customer(s) to identify the root cause and manage costs.</span></span> <span data-ttu-id="1b5bf-115">If necessary, you can also [change the customer's budget](#set-azure-spending-budget) to a higher amount.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-115">If necessary, you can also [change the customer's budget](#set-azure-spending-budget) to a higher amount.</span></span>
 
-<span data-ttu-id="71d42-124">**设置预算**</span><span class="sxs-lookup"><span data-stu-id="71d42-124">**Set a budget**</span></span>
-1.  <span data-ttu-id="71d42-125">从 "合作伙伴中心" 菜单中，选择 " **Azure 支出**"。</span><span class="sxs-lookup"><span data-stu-id="71d42-125">From the Partner Center menu, select **Azure spending**.</span></span>
-2.  <span data-ttu-id="71d42-126">选择你想要为其设置预算的客户。</span><span class="sxs-lookup"><span data-stu-id="71d42-126">Select the customer(s) you want to set a budget for.</span></span> 
-3. <span data-ttu-id="71d42-127">在**每月预算**框中输入值，然后选择**应用**。</span><span class="sxs-lookup"><span data-stu-id="71d42-127">Enter a value in the **Monthly budget** box and then select **Apply**.</span></span>
-4.  <span data-ttu-id="71d42-128">若要查看当前费用，请返回到此页面。</span><span class="sxs-lookup"><span data-stu-id="71d42-128">To check current spending, return to this page.</span></span>
-5.  <span data-ttu-id="71d42-129">还可以在客户管理页面上的**基于使用情况的订阅**下设置个别预算。</span><span class="sxs-lookup"><span data-stu-id="71d42-129">Individual budgets can also be set under **Usage-based subscriptions** on a customer management page.</span></span>
+- [<span data-ttu-id="1b5bf-116">Check current Azure spending</span><span class="sxs-lookup"><span data-stu-id="1b5bf-116">Check current Azure spending</span></span>](#check-current-azure-spending)
+- [<span data-ttu-id="1b5bf-117">Turn on email notifications for when a customer's spending is nearing their budget limit</span><span class="sxs-lookup"><span data-stu-id="1b5bf-117">Turn on email notifications for when a customer's spending is nearing their budget limit</span></span>](#notifications-for-budget-limits)
+- [<span data-ttu-id="1b5bf-118">View itemized costs by service for usage-based subscriptions</span><span class="sxs-lookup"><span data-stu-id="1b5bf-118">View itemized costs by service for usage-based subscriptions</span></span>](#itemized-costs-by-service)
 
-<span data-ttu-id="71d42-130">**删除预算**</span><span class="sxs-lookup"><span data-stu-id="71d42-130">**Remove a budget**</span></span>
-1.  <span data-ttu-id="71d42-131">从 "合作伙伴中心" 菜单中，选择 " **Azure 支出**"。</span><span class="sxs-lookup"><span data-stu-id="71d42-131">From the Partner Center menu, select **Azure spending**.</span></span>
-2.  <span data-ttu-id="71d42-132">从列表中选择客户。</span><span class="sxs-lookup"><span data-stu-id="71d42-132">Select customers from the list.</span></span>
-3.  <span data-ttu-id="71d42-133">选择**删除预算**。</span><span class="sxs-lookup"><span data-stu-id="71d42-133">Select **Remove budget**.</span></span>
+<span data-ttu-id="1b5bf-119">You can also [remove an Azure spending budget](#remove-azure-spending-budget) for customer(s) at any time.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-119">You can also [remove an Azure spending budget](#remove-azure-spending-budget) for customer(s) at any time.</span></span>
 
-<span data-ttu-id="71d42-134">**查看详细成本**</span><span class="sxs-lookup"><span data-stu-id="71d42-134">**See itemized costs**</span></span>
-1.  <span data-ttu-id="71d42-135">从 "合作伙伴中心" 菜单中，选择 "**客户**"。</span><span class="sxs-lookup"><span data-stu-id="71d42-135">From the Partner Center menu, select **Customers**.</span></span>
-2.  <span data-ttu-id="71d42-136">从客户列表中选择客户。</span><span class="sxs-lookup"><span data-stu-id="71d42-136">From the customer list, select a customer.</span></span>
-3.  <span data-ttu-id="71d42-137">在其客户管理页面上的**基于使用情况的订阅**下，选择某个订阅。</span><span class="sxs-lookup"><span data-stu-id="71d42-137">On their customer management page, under **Usage-based subscriptions**, choose a subscription.</span></span> <span data-ttu-id="71d42-138">查看其当前估计的使用情况和按服务明细化的成本列表。</span><span class="sxs-lookup"><span data-stu-id="71d42-138">View its current estimated usage and a list of itemized costs by service.</span></span>
+## <a name="azure-spending-data"></a><span data-ttu-id="1b5bf-120">Azure spending data</span><span class="sxs-lookup"><span data-stu-id="1b5bf-120">Azure spending data</span></span>
 
+<span data-ttu-id="1b5bf-121">The Azure spending data is an *estimate* and *actual billing amounts may vary*.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-121">The Azure spending data is an *estimate* and *actual billing amounts may vary*.</span></span> <span data-ttu-id="1b5bf-122">The data's value *doesn't reflect* taxes, credits, adjustments, or other charges that may apply.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-122">The data's value *doesn't reflect* taxes, credits, adjustments, or other charges that may apply.</span></span>
 
- 
+<span data-ttu-id="1b5bf-123">The spending data is *refreshed once per day*.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-123">The spending data is *refreshed once per day*.</span></span> <span data-ttu-id="1b5bf-124">Your customers can continue to use (and be charged for) Azure services and resources, unless you change their account settings in the Azure portal.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-124">Your customers can continue to use (and be charged for) Azure services and resources, unless you change their account settings in the Azure portal.</span></span>
 
- 
+## <a name="set-azure-spending-budget"></a><span data-ttu-id="1b5bf-125">Set Azure spending budget</span><span class="sxs-lookup"><span data-stu-id="1b5bf-125">Set Azure spending budget</span></span>
 
+<span data-ttu-id="1b5bf-126">You can *set a monthly Azure spending budget* for multiple customers in Partner Center:</span><span class="sxs-lookup"><span data-stu-id="1b5bf-126">You can *set a monthly Azure spending budget* for multiple customers in Partner Center:</span></span>
 
+1. <span data-ttu-id="1b5bf-127">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span><span class="sxs-lookup"><span data-stu-id="1b5bf-127">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+2. <span data-ttu-id="1b5bf-128">In the left-hand menu under **CSP**, choose **Azure spending**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-128">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+3. <span data-ttu-id="1b5bf-129">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) for whom you want to set a budget.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-129">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) for whom you want to set a budget.</span></span>
+4. <span data-ttu-id="1b5bf-130">Enter a value for **Monthly budget**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-130">Enter a value for **Monthly budget**.</span></span>
+5. <span data-ttu-id="1b5bf-131">Choose **Apply** to save your changes.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-131">Choose **Apply** to save your changes.</span></span>
 
+<span data-ttu-id="1b5bf-132">You can also *set a budget for an individual customer* in their subscription settings:</span><span class="sxs-lookup"><span data-stu-id="1b5bf-132">You can also *set a budget for an individual customer* in their subscription settings:</span></span>
+
+1. <span data-ttu-id="1b5bf-133">Sign in to the Partner Center dashboard.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-133">Sign in to the Partner Center dashboard.</span></span>
+2. <span data-ttu-id="1b5bf-134">In the left-hand menu under **CSP**, choose **Customers**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-134">In the left-hand menu under **CSP**, choose **Customers**.</span></span>
+3. <span data-ttu-id="1b5bf-135">On the **Customers** page, select the customer's **Company name**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-135">On the **Customers** page, select the customer's **Company name**.</span></span>
+4. <span data-ttu-id="1b5bf-136">On the customer's **Subscriptions** page, under **Usage-based subscription**, choose **Change budget**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-136">On the customer's **Subscriptions** page, under **Usage-based subscription**, choose **Change budget**.</span></span>
+5. <span data-ttu-id="1b5bf-137">Enter a value for the budget.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-137">Enter a value for the budget.</span></span>
+6. <span data-ttu-id="1b5bf-138">Choose **Apply** to save your changes.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-138">Choose **Apply** to save your changes.</span></span>
+
+## <a name="remove-azure-spending-budget"></a><span data-ttu-id="1b5bf-139">Remove Azure spending budget</span><span class="sxs-lookup"><span data-stu-id="1b5bf-139">Remove Azure spending budget</span></span>
+
+<span data-ttu-id="1b5bf-140">You can *remove a monthly Azure spending budget* for your customer(s) in Partner Center:</span><span class="sxs-lookup"><span data-stu-id="1b5bf-140">You can *remove a monthly Azure spending budget* for your customer(s) in Partner Center:</span></span>
+
+1. <span data-ttu-id="1b5bf-141">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span><span class="sxs-lookup"><span data-stu-id="1b5bf-141">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+2. <span data-ttu-id="1b5bf-142">In the left-hand menu under **CSP**, choose **Azure spending**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-142">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+3. <span data-ttu-id="1b5bf-143">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) whose budget you want to remove.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-143">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, select the customer(s) whose budget you want to remove.</span></span>
+4. <span data-ttu-id="1b5bf-144">Choose **Remove budget**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-144">Choose **Remove budget**.</span></span>
+
+## <a name="check-current-azure-spending"></a><span data-ttu-id="1b5bf-145">Check current Azure spending</span><span class="sxs-lookup"><span data-stu-id="1b5bf-145">Check current Azure spending</span></span>
+
+<span data-ttu-id="1b5bf-146">You can *track your customers' current Azure spending and monthly budgets* at any time:</span><span class="sxs-lookup"><span data-stu-id="1b5bf-146">You can *track your customers' current Azure spending and monthly budgets* at any time:</span></span>
+
+1. <span data-ttu-id="1b5bf-147">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span><span class="sxs-lookup"><span data-stu-id="1b5bf-147">Sign in to the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+2. <span data-ttu-id="1b5bf-148">In the left-hand menu under **CSP**, choose **Azure spending**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-148">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+3. <span data-ttu-id="1b5bf-149">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, you can see an overview of customers' monthly budgets, current spending estimates and percentage of budget used.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-149">On the **Azure spending** page, under **Customers with Microsoft Azure subscriptions**, you can see an overview of customers' monthly budgets, current spending estimates and percentage of budget used.</span></span>
+
+## <a name="notifications-for-budget-limits"></a><span data-ttu-id="1b5bf-150">Notifications for budget limits</span><span class="sxs-lookup"><span data-stu-id="1b5bf-150">Notifications for budget limits</span></span>
+
+<span data-ttu-id="1b5bf-151">You can *turn on email notifications* for when your customer's monthly spending is nearing their budget limit.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-151">You can *turn on email notifications* for when your customer's monthly spending is nearing their budget limit.</span></span> <span data-ttu-id="1b5bf-152">When you turn on this option, you will be notified when customers use 80% or more of their monthly budget.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-152">When you turn on this option, you will be notified when customers use 80% or more of their monthly budget.</span></span> <span data-ttu-id="1b5bf-153">This option helps you can keep an eye on your Azure bill.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-153">This option helps you can keep an eye on your Azure bill.</span></span> <span data-ttu-id="1b5bf-154">To configure email notifications:</span><span class="sxs-lookup"><span data-stu-id="1b5bf-154">To configure email notifications:</span></span>
+
+1. <span data-ttu-id="1b5bf-155">登录到合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="1b5bf-155">Sign in to Partner Center.</span></span>
+2. <span data-ttu-id="1b5bf-156">In the left-hand menu under **CSP**, choose **Azure spending**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-156">In the left-hand menu under **CSP**, choose **Azure spending**.</span></span>
+3. <span data-ttu-id="1b5bf-157">On the **Azure spending** page, under **Email notifications**, toggle the **Get emails** setting to **On**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-157">On the **Azure spending** page, under **Email notifications**, toggle the **Get emails** setting to **On**.</span></span>
+4. <span data-ttu-id="1b5bf-158">Choose **Change email address** to see the email address for notifications.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-158">Choose **Change email address** to see the email address for notifications.</span></span>
+5. <span data-ttu-id="1b5bf-159">If the email address *isn't correct*, enter the correct email address and choose **Update**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-159">If the email address *isn't correct*, enter the correct email address and choose **Update**.</span></span> <span data-ttu-id="1b5bf-160">If the email address *is correct*, choose **Cancel**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-160">If the email address *is correct*, choose **Cancel**.</span></span>
+
+## <a name="itemized-costs-by-service"></a><span data-ttu-id="1b5bf-161">Itemized costs by service</span><span class="sxs-lookup"><span data-stu-id="1b5bf-161">Itemized costs by service</span></span>
+
+<span data-ttu-id="1b5bf-162">You can *view itemized costs (and estimated usage) by service for usage-based subscriptions*:</span><span class="sxs-lookup"><span data-stu-id="1b5bf-162">You can *view itemized costs (and estimated usage) by service for usage-based subscriptions*:</span></span>
+
+1. <span data-ttu-id="1b5bf-163">登录到合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="1b5bf-163">Sign in to Partner Center.</span></span>
+2. <span data-ttu-id="1b5bf-164">In the left-hand menu under **CSP**, choose **Customers**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-164">In the left-hand menu under **CSP**, choose **Customers**.</span></span>
+3. <span data-ttu-id="1b5bf-165">On the **Customers** page, select the customer's **Company name**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-165">On the **Customers** page, select the customer's **Company name**.</span></span>
+4. <span data-ttu-id="1b5bf-166">On the customer's **Subscriptions** page, under **Usage-based subscriptions**, select the name of the **Subscription**.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-166">On the customer's **Subscriptions** page, under **Usage-based subscriptions**, select the name of the **Subscription**.</span></span>
+5. <span data-ttu-id="1b5bf-167">On the subscription's page, you can review the **Itemized costs** by service, and the **Estimated usage** for the current month.</span><span class="sxs-lookup"><span data-stu-id="1b5bf-167">On the subscription's page, you can review the **Itemized costs** by service, and the **Estimated usage** for the current month.</span></span>
