@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 8452bc7040eab835bc5d068d0595bce48f8d2c0a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253152"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384618"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 
@@ -36,7 +36,7 @@ Before you can sell subscriptions, manage billing, or provide support to a custo
 2. On the **Account info** page, enter the customer's details and primary contact information and verify that the customer has accepted and signed the latest [Microsoft Cloud Agreement](agreements.md).
 
 >[!IMPORTANT] 
-> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，云解决方案提供商计划仍会支持当前的 Microsoft 云协议。 Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-consent.md)
+> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，云解决方案提供商计划仍会支持当前的 Microsoft 云协议。 Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)
   
 3. If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.
 

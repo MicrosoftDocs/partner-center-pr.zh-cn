@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 培训凭证, 软件保障, 培训, 注册 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 60d60ecb5dca320bc0fc0da2908db95bd200a7be
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651601"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384794"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心的软件保障培训凭证 (SATV) 计划
 
@@ -24,7 +24,7 @@ ms.locfileid: "73651601"
 
 ## <a name="get-started"></a>“开始”
 
-如果你不熟悉软件保障培训服务，请执行以下所有步骤。 如果您已在训练凭证计划中处于活动状态，请从下面的步骤四（4）开始。 
+If you're new to Software Assurance training services, follow all the steps below. If you're already active in the training voucher program, start at step four (4) below. 
 
 1. 确认计划资格
 2. 注册培训计划
@@ -41,41 +41,41 @@ ms.locfileid: "73651601"
 
 在注册 SATV 计划之前，必须先履行 Microsoft 合作伙伴网络学习选项的要求，后者替代 Microsoft Learning 能力。 了解如何开始[学习选项](https://partner.microsoft.com/membership/learning-partners)。
 
-你可以在合作伙伴中心验证你的公司是否享有适用的资格和评估要求。 按照 SATV 工作流的[步骤 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)中的说明，了解更多详细信息和屏幕截图。
+You can verify your company's eligibility including applicable competency and assessment requirements in Partner Center. Follow the instructions at [step 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the SATV workflow for more details and screen shots.
 
 ## <a name="enroll-in-the-training-program"></a>注册培训计划
 
-在你的公司满足资格要求并且你的计划参与者已通过了符合性培训课程后，你就可以签署软件保障培训凭证计划协议并进行注册。 确保查看所有[SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流[步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)中的说明完成合作伙伴中心的 SATV 注册过程。   
+After your company meets the eligibility requirements and your program participants have passed the compliance training course, you're ready to sign the Software Assurance Training Voucher program agreement and enroll. Be sure to review all [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP), then follow the instructions in [step 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to complete the SATV enrollment process in Partner Center.   
 
 
 ## <a name="confirm-course-eligibility"></a>确认课程资格
-注册 SATV 计划以后，合作伙伴就可以针对符合 SATV 资格的课程提供培训讲座，客户可以使用其培训凭证参加这些讲座。 符合条件的课程在[SATV 课程资格目录](http://savl-catalog.microsoft.com/)中列出。 查看工作流的[步骤 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) ，了解哪些类型的课程 SATV 了资格。
+注册 SATV 计划以后，合作伙伴就可以针对符合 SATV 资格的课程提供培训讲座，客户可以使用其培训凭证参加这些讲座。 Eligible courses are listed in the [SATV course eligibility catalog](https://savl-catalog.microsoft.com/). Review [step 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to understand which types of courses are SATV-eligible.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>让客户创建并分配凭证
 
-在进行培训之前，你的客户必须先激活其 SATV 权益，然后将其分配给你的组织。 有关屏幕截图的详细说明，其中显示了客户必须采取哪些步骤才能创建凭据并将其分配给你，请参阅工作流的[步骤 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) 。
+在进行培训之前，你的客户必须先激活其 SATV 权益，然后将其分配给你的组织。 For detailed instructions with screen shots showing the steps your customer must take in order to create a voucher and assign it to you, refer to [step 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>验证并保留客户凭证
 
-你现在可以保留并兑换凭证，开始培训客户。 公司的 MPN 管理员有权访问合作伙伴中心的凭证管理工具，并可以添加需要在该工具中工作的用户。 有关验证和预留凭证的说明，请参阅工作流的[步骤 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) 。
+你现在可以保留并兑换凭证，开始培训客户。 Your company's MPN admin has access to the voucher management tool in Partner Center and can add users who need to work in the tool. For instructions on validating and reserving vouchers, refer to [step 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow.
 
 ## <a name="deliver-training-and-activate-product"></a>提供培训并激活产品
 
-保留凭证以后，即可向客户提供培训。 请参阅培训活动的工作流[步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) ，了解如何激活和购买 Microsoft 官方课件（MOC）、考试和 Microsoft 课程证书凭证（LaaS）以获取 MOOC 课程。
+保留凭证以后，即可向客户提供培训。 See [step 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow for training engagement guidelines and instructions for the activation and purchase of Microsoft Official Courseware (MOC), exams, and Microsoft Course Certificate vouchers (LaaS) for MOOC courses.
 
 ## <a name="redeem-voucher"></a>兑换凭证
 
-完成培训后，必须兑换凭证。 按照工作流[步骤 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)中的说明进行操作，以确保满足所有要求，以便可以请求支付。 
+完成培训后，必须兑换凭证。 Follow the instructions in [step 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to ensure all requirements are met so that you can request payment. 
 
 
 ## <a name="request-payment-from-microsoft"></a>请求 Microsoft 付款
 
-付款通过软件保障凭证权益 (SAVB) 在线支付工具处理。 按照工作流的[步骤 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)中的说明，通过 SAVB 将发票提交给 Microsoft。 
+付款通过软件保障凭证权益 (SAVB) 在线支付工具处理。 Follow the instructions in [step 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK) of the workflow to submit an invoice to Microsoft through SAVB. 
 
-有关其他信息，请阅读[FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)并查看[SATV 计划策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)。
+For additional information read the [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) and review [SATV program policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP).
 
 另请参阅：
 
-- [软件保障培训凭证（SATV）工作流](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
-- [软件保障培训凭证（SATV）常见问题解答](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [软件保障培训凭证（SATV）策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [Software Assurance Training Vouchers (SATV) Workflow](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3krfK)
+- [Software Assurance Training Vouchers (SATV) FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [Software Assurance Training Vouchers (SATV) Policies](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

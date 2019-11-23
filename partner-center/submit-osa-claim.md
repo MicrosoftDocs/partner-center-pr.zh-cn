@@ -1,97 +1,98 @@
 ---
-title: 使用 CPOR 模型创建客户关联 |合作伙伴中心
+title: Create a customer association using the CPOR model | Partner Center
 ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用 CPOR 模型创建客户关联
+description: Create a customer association using the CPOR model
 author: LauraBrenner
 ms.author: labrenne
-keywords: 奖励理赔，合作索赔，合作基金，OSU，OSA，ISV，收入关联
+keywords: incentives claims, co-op claims, co-op funds, OSU, OSA, ISV, revenue association
 ms.localizationpriority: medium
-ms.openlocfilehash: 052e41e1d61a1287550147530371c7e558a6ee69
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a3515c0fff52c9083bbad6cd19f033a88ae2f38a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654032"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384888"
 ---
+# <a name="create-a-customer-association-using-the-cpor-model"></a>Create a customer association using the CPOR model
+
 **适用于**
 
 -  合作伙伴中心
 
-# <a name="create-a-customer-association-using-the-cpor-model"></a>使用 CPOR 模型创建客户关联
 
-2019年10月1日，Microsoft 开始使用 "申报记录合作伙伴（CPOR）" 模型来管理与你的 Microsoft 365 和 Dynamics 365 客户相关的关联，与在线服务顾问（OSA）销售、在线服务使用（OSU）相关Microsoft 365 和 OSU-业务应用程序奖励。
+On October 1, 2019, Microsoft began using the Claiming Partner of Record (CPOR) model to manage the associations you have with your Microsoft 365 and Dynamics 365 customers with regards to the Online Services Advisory (OSA) Sell, Online Services Usage (OSU)-Microsoft 365 and OSU-Business Application incentives.
 
-提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
+When you submit your claim, Microsoft validates it. We may ask you for more information at this point. We'll also notify the customer of your association request. Customers have five business days to opt out. If they don't opt out, your association with this specific tenant and workload will be official. At this point you'll have access to the customer's usage data. 
 
-你将需要以下信息来完成声明：
+You'll need the following information to complete a claim:
 
-- 构成声明的实体的**MPN ID**
+- The **MPN ID** for your entity that makes the claim
 
-- 客户的**域名**[查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Customer's **domain name** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- 客户的**目录 id**或**租户 id** [查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- Customer's **Directory ID** or **Tenant ID** [Find this](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
-- **解决方案区域**，如 Business Applications 或 Microsoft 365
+- The **Solution area**, such as Business Applications or Microsoft 365
 
-- 已执行的**活动**和要进行的声明的类型，例如售前、使用情况或收入关联
+- The **Activity** you have performed and the type of claim you want to make, such as Pre-sales, Usage, or Revenue association
 
-- 你的客户的**联系人姓名**、标题和电子邮件地址
+- Your customer's **Contact name**, title, and email address
 
-- 对于 Dynamics 365，还需要提供客户的**技术联系人**姓名、职务和电子邮件地址
+- For Dynamics 365, you also need to provide your customer's **Technical contact** name, title, and email address
 
-- 自己公司的**联系人姓名**和电子邮件地址
+- Your own company's **Contact name** and email address
 
-- 你将为此声明创建**名称**
+- You'll create a **Name** for this claim
 
-- 你所申报的**产品**或工作负荷
+- The **Product(s)** or workload(s) you're claiming
 
-- **执行证明（POE）** ，如客户签署的工作声明。 你还可以下载要使用的 POE 模板。
+- **Proof of execution (POE)** , such as a statement of work signed by the customer. You can also download a POE template to use.
 
-- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**。 
+- For partners claiming revenue association only: **Dynamics solution seller name**, **Customer name**, and **Name of ISV product/solution**. 
 
-还应了解以下要点：
-- 如果现有 Microsoft 365 客户，则需使用此过程重新与想要继续获得 OSU 激励的用户进行关联。
-- 如果现有与 Dynamics 365 或 Power BI 客户的关联，则这些关联将保持有效，直到其订阅过期。
-- 一个客户可以有多个合作伙伴，但是每个工作负荷（对于 Microsoft 365 OSU）或订阅（对于 OSA 销售和 Business Applications OSU）只能与一个合作伙伴关联。
+You should also understand the following points:
+- If you have existing Microsoft 365 customers, you'll need to re-associate with those you want to continue to earn OSU incentives by using this process.
+- If you have existing associations with Dynamics 365 or Power BI customers, these associations will remain valid, until the expiration of their subscriptions.
+- A customer can have multiple partners, but each workload (for OSU-Microsoft 365) or subscription (for OSA-Sell and OSU-Business Applications) can only be associated with one partner.
 
-## <a name="create-a-customer-association"></a>创建客户关联
-1.  在 "合作伙伴中心" 仪表板中的 "**激励**" 下，选择 "**概述**"，然后选择 "**客户关联**"。 
+## <a name="create-a-customer-association"></a>Create a customer association
+1.  In the Partner Center dashboard, under **Incentives**, select **Overview**, and then select **Customer associations**. 
 
-2.  在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
+2.  At the top of the Customer associations page, select **+ Customer association**.
 
-3.  选择要与客户关联的合作伙伴位置的**MPN id** ，然后添加客户的域名和目录 ID。 [它们位于何处？](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3.  Select the **MPN ID** of the partner location to be associated with the customer, and then add the customer's domain name and Directory ID. [Where are these?](https://docs.microsoft.com/partner-center/find-customer-domain-name)
 
 选择**继续**。
 
-4.  选择**解决方案区域**和**活动**。 
+4.  Select the **Solution area** and **Activity**. 
 
 >[!Note]
 
->如果选择 "Business Applications"，请选择 "**使用情况" 和/或 "提前销售**" 或 "**收入关联**"，然后选择 "**继续**"。 
+>If you select Business Applications, select either **Usage and/or Pre-sales**, or **Revenue association**, and then select **Continue**. 
 
->如果选择 "收入关联"，系统将提示你输入与下面所列信息稍有不同的信息。 
+>If you select Revenue association, you'll be prompted for slightly different information than what's listed below. 
 
-5.  在 "**关联客户**" 页上输入相应信息，然后选择 "**创建声明**"。
+5.  Enter the appropriate information on the **Associate customer** page, and then select **Create claim**.
 
-6.  选择与此客户关联关联的产品，然后选择 "**继续**"。
+6.  Select the product(s) associated with this customer association, and then select **Continue**.
 
-7.  填写客户联系信息和你公司的联系信息。 所有字段均为必填字段。 
+7.  Complete the customer contact information and your company's contact information. 所有字段均为必填字段。 
 
 >[!Note]
 
-如果你的产品是 Dynamics 365，并且你选择的产品有多个订阅用于此特定客户，则还需要输入订阅 ID。
+If your product is Dynamics 365, and the product you choose has multiple subscriptions for this particular customer, you'll also need to enter the subscription ID.
 
-8.  提供执行证明（POE）。 您可以将其拖到 "" 框，浏览到自己的支持文档，或通过选择 "**下载模板**" 来使用模板。 
+8.  Supply your proof of execution (POE). You can drag it to the box, browse to your own supporting documentation, or use a template by selecting **Download template**. 
 
-9.  根据需要添加并保存注释，然后选择 "**提交声明**"。 我们将向客户发送一封电子邮件，请求你的客户协会批准。 
+9.  Add and save comments if you like, and then select **Submit claim**. We'll send an email to the customer requesting approval of your customer association. 
 
 >[!NOTE]
 
->提交客户关联后，不能对其进行编辑。 
+>Once you submit your customer association, you can't edit it. 
 
-"**状态**" 字段中将显示客户关联的状态。 
+The status of your customer association appears in the **Status** field. 
 
-选择 "**历史记录**" 以查看客户关联的历史记录。
+Select **History** to view the history of a customer association.

@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心中的数据和分析 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
@@ -9,13 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 数据, 分析, 数据分析, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252273"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384848"
 ---
+# <a name="get-data-and-analyze-your-business"></a>获取数据并分析业务
+
 **适用于**
 
 - 合作伙伴中心
@@ -25,8 +27,6 @@ ms.locfileid: "74252273"
 **Appropriate role**
 
 - MPN 合作伙伴管理员
-
-# <a name="get-data-and-analyze-your-business"></a>获取数据并分析业务
 
 规划开展云解决方案提供商业务的方式包括了解客户如何使用他们的 Microsoft 产品。 合作伙伴中心中有多个用于收集数据的选项，可以收集有关你的业务的数据，还可以收集你的客户是否在使用以及如何使用所购买的许可证的数据。 如果你处于云解决方案提供商直接模式中，则有机会安装并使用适用于 Power BI 的合作伙伴中心分析应用，来收集其他数据。
 
