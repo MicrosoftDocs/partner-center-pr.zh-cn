@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use a customer account to assign or revoke licenses and services to one user or to multiple users at once.
+description: 了解如何使用客户帐户同时向一个用户或多个用户分配或吊销许可证和服务。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: assign license, revoke license, assign to multiple users,
+Keywords: 分配许可证，吊销许可证，分配给多个用户，
 ms.localizationpriority: medium
 ms.openlocfilehash: c5846a0d12331bdb1aec26bd6289ac0e11896584
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -25,18 +25,18 @@ ms.locfileid: "74253037"
 
 可向用户分配许可证和服务，也可向客户帐户中的多个用户一次性分配许可证和服务，以及撤消向用户的许可证分配。
 
-The Partner Center tracks and shows all customer-owned license entitlements.
+合作伙伴中心将跟踪并显示所有客户拥有的许可权利。
 
 ## <a name="in-this-section"></a>本部分内容
 
 
--   [Assign licenses to multiple users](#assign-licenses-to-groups)
--   [Revoking users' license assignments](#revoking-licenses)
+-   [将许可证分配给多个用户](#assign-licenses-to-groups)
+-   [撤消用户的许可证分配](#revoking-licenses)
 
-<a href="" id="assign-licenses-to-groups"></a>
-**Assign licenses to multiple users**
+<a href="" id="assign-licenses-to-groups"></a>**将许可证分配给多个用户**
 
-1.  From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.
+
+1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择一个客户。
 2.  选择**用户和许可证**。
 3.  选中列表中两个或多个用户的复选框。 （若要选择当前页面上的所有用户，请选中**用户**列顶部的复选框。）
 
@@ -62,16 +62,16 @@ The Partner Center tracks and shows all customer-owned license entitlements.
 7.  通过选中每个产品的复选框，为用户选择多个产品。
     -   选择任何产品的**查看服务计划**，查看并选择用户需要的服务计划。
 
-8.  选择**保存**。 The Partner Center opens a **Licenses updated** confirmation page listing the users and their new licenses.
+8.  选择**保存**。 合作伙伴中心会打开一个**许可证更新**的确认页，其中列出了用户及其新的许可证。
 
-**Note**  Some Microsoft products may not be available in certain locations. 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
+**请注意**  某些 Microsoft 产品可能无法在某些位置使用。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
 
  
 
-<a href="" id="revoking-licenses"></a>
-**Revoking users' license assignments**
+<a href="" id="revoking-licenses"></a>**撤消用户许可证分配**
 
-1.  From the **Partner Center** menu, select **Customers**, and then choose a customer from the list.
+
+1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择一个客户。
 2.  选择**用户和许可证**。
 3.  选中列表中两个或多个用户的复选框。 （若要选择当前页面上的所有用户，请选中**用户**列顶部的复选框。）
 

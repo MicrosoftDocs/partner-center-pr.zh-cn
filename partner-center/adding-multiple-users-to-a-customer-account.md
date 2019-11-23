@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to Partner Center.
+description: 通过将逗号分隔值文件格式（.csv）中的数据文件上传到合作伙伴中心，了解如何一次性将多个用户添加到客户的帐户。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
@@ -23,12 +23,12 @@ ms.locfileid: "74253182"
 
 -  合作伙伴中心
 
-You can add multiple users to a customer's account all at once, by uploading a data file in the comma-separated value file format (.csv) to the Partner Center. You can download a sample data file from the Partner Center and then edit it for your use, or you can create a new data file using the data model defined below.
+可以通过将逗号分隔值文件格式（.csv）中的数据文件上传到合作伙伴中心，一次性将多个用户添加到客户的帐户。 你可以从 "合作伙伴中心" 下载一个示例数据文件，然后编辑该文件以供使用，或者可以使用下面定义的数据模型创建新的数据文件。
 
-## <a href="" id="creatingtheimportcsvfile"></a>Data file requirements
+## <a href="" id="creatingtheimportcsvfile"></a>数据文件要求
 
 
-To add multiple users to a customer's account using the bulk upload process, you'll need to meet the following requirements:
+若要使用批量上传过程将多个用户添加到客户的帐户，需要满足以下要求：
 
 -   必须拥有客户帐户的全局管理员权限；
 -   每个用户必须拥有附加到客户电子邮件域的唯一电子邮件地址；
@@ -40,28 +40,28 @@ To add multiple users to a customer's account using the bulk upload process, you
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **Column name** | **描述**                                                              | **Limitation**                             |
-| 名字      | User's first name (optional field)                                           | 限 50 个字符                         |
+| **列名** | **描述**                                                              | **受**                             |
+| 名字      | 用户的名字（可选字段）                                           | 限 50 个字符                         |
 | 姓氏       | 用户姓氏（可选字段）                                            | 限 50 个字符                         |
-| 显示名称    | Name displayed in the Partner Center (required field)                            | 限 50 个字符                         |
-| “电子邮件”           | User's business email address at customer company (required field)           | 每个用户必须拥有唯一的电子邮件地址 |
-| 状态更新   | 用于指示是否成功创建了新用户记录 | \*\*Leave empty\*\*                        |
+| 显示名称    | "合作伙伴中心" 中显示的名称（必填字段）                            | 限 50 个字符                         |
+| 电子邮件           | 客户公司的用户业务电子邮件地址（必填字段）           | 每个用户必须拥有唯一的电子邮件地址 |
+| 状态更新   | 用于指示是否成功创建了新用户记录 | \*\*留空的\*\*                        |
 
  
 
-### <a href="" id="createmultipleuseraccounts"></a>To create multiple user accounts
+### <a href="" id="createmultipleuseraccounts"></a>创建多个用户帐户
 
 <a href="" id="creatingtheaccounts"></a>
 1.  使用上述数据创建逗号分隔值 (.csv) 数据文件。 保存文件，以供在后续步骤中浏览。
-2.  From the **Partner Center** menu, select **Customers**, then choose a customer from the list.
+2.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择一个客户。
 3.  选择**上传用户**。
 4.  在**上传用户信息**下，选择**浏览**。
 5.  在文件选择器中，选择数据文件，然后选择**打开**。
 6.  选择**验证**。
 
-    **Note**  Most account creation errors are caused by data file issues, including missing information, malformed or duplicated email addresses, or too many records in the file.
+    **请注意**  大多数帐户创建错误都是由数据文件问题引起的，其中包括缺少的信息、格式不正确或重复的电子邮件地址，或者文件中的记录过多。
 
-7.  After the Partner Center validates the file, select the geographic **Location** for the new users.
+7.  合作伙伴中心验证该文件后，选择新用户的地理**位置**。
 8.  选择**保存**。
 9.  下载用户的临时密码信息。
 
