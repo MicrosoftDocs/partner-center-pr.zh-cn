@@ -1,95 +1,95 @@
 ---
-title: 从 PMC 迁移到合作伙伴中心的指南 |合作伙伴中心
+title: 从 PMC 迁移到合作伙伴中心的指南 | 合作伙伴中心
 ms.topic: article
 ms.date: 04/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将公司从 PMC 迁移到合作伙伴中心时需要了解的内容
+description: 将公司从 PMC 迁移到合作伙伴中心时需要了解的事项
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
-ms.localizationpriority: medium
-ms.openlocfilehash: a39c4114758004ff4291bc577182fd8ba469149b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653101"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096501"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
-Partner.microsoft.com 上的 Microsoft 合作伙伴网站是合作伙伴的统一数字体验。 通过合作伙伴网站，你将能够浏览你的机会，并参与指导体验，帮助你的公司通过 Microsoft 构建和销售你的应用和服务。 使用在合作伙伴网站上可用的仪表板链接，Microsoft 合作伙伴网络的成员可以登录合作伙伴中心，你可以在其中管理与 Microsoft 的关系、注册计划并注册产品/服务。 
+Microsoft 合作伙伴网站 partner.microsoft.com 是面向合作伙伴的统一数字体验。 通过合作伙伴网站，可以发掘商机并参与引导式体验，帮助公司在 Microsoft 的配合下构建和销售应用与服务。 Microsoft 合作伙伴网络的会员可以使用整个合作伙伴网站上提供的“仪表板”链接登录到合作伙伴中心，在其中可以管理与 Microsoft 之间的关系、注册计划和注册套餐。 
 
-合作伙伴成员中心（PMC）即将解除授权。 你的公司已被邀请，将你的 Microsoft 合作伙伴网络成员身份管理过渡到合作伙伴中心。 本指南将为你提供从 PMC 迁移到合作伙伴中心时期望的结果。
+Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Microsoft 合作伙伴网络会员管理过渡到合作伙伴中心。 本指南将描述在从 PMC 迁移到合作伙伴中心时期望会出现的情况，以此帮助你做好迁移准备。
 
 >[!Note]
->即使你的公司有多个帐户或位置，也会开始将一个（你的第一个）帐户移动到合作伙伴中心。
+>即使公司有多个帐户或在多个位置运营，迁移到合作伙伴中心的过程一开始也只会将一个帐户（你的第一个帐户）移到合作伙伴中心。
 
-## <a name="get-started"></a>“开始”
+## <a name="get-started"></a>立即开始行动
 
-移动从 PMC 开始。 你的全局管理员将获得开始搬迁的邀请。 
+迁移从 PMC 开始。 全局管理员将会收到开始迁移的邀请。 
 
-**在 PMC 中准备**
-- 验证你的公司详细信息 
-- 验证主程序联系人 
-- 验证业务位置
+**在 PMC 中做好准备**
+- 验证公司详细信息 
+- 验证计划的主要联系人 
+- 验证企业位置
 - 更新已批准的用户
 
 **准备就绪时**
 
-选择邀请上的 "**开始**"。 你将转到合作伙伴中心登录页。
+在邀请信件中选择“开始”。  随后会转到合作伙伴中心登录页。
 
-![“开始”](images/migration/getstarted.jpg)
+![立即开始行动](images/migration/getstarted.jpg)
 
-## <a name="start-with-your-work-email"></a>开始使用工作电子邮件
+## <a name="start-with-your-work-email"></a>从工作电子邮件开始
 
-如果你的公司没有工作电子邮件和 AAD 租户，我们可以帮助你在合作伙伴中心登录过程中设置一个租户。 当你尝试使用不是工作电子邮件的电子邮件帐户（例如你的个人帐户）登录时，你将被定向到提供公司信息，以便我们可以设置 AAD 租户和工作电子邮件。
-这些公司详细信息将用于在合作伙伴中心中完成帐户，因此请确保它们准确无误。
+如果公司没有工作电子邮件和 AAD 租户，在合作伙伴中心登录过程中，我们可以帮助你设置一个。 如果尝试使用不属于工作电子邮件的电子邮件帐户（例如个人帐户）登录，网站会指示你提供有关公司的信息，以便我们可以设置 AAD 租户和工作电子邮件。
+这些公司详细信息用于在合作伙伴中心完成帐户设置，因此请确保信息准确无误。
 
 >[!Note]
->如果你是中国的合作伙伴并注册了 Microsoft 合作伙伴网络和云解决方案提供商（CSP）计划，则每个帐户都有一个单独的租户。 你的帐户与云解决方案提供商计划在全国云上进行管理，你的 Microsoft 合作伙伴网络帐户在全局云上进行管理。 这两个帐户无法链接。
+>如果你是位于中国的合作伙伴并已同时注册 Microsoft 合作伙伴网络和云解决方案提供商 (CSP) 计划，则每个帐户都有一个单独的租户。 注册了云解决方案提供商计划的帐户将在国家云中进行管理，而 Microsoft 合作伙伴网络帐户将在全球云中进行管理。 无法链接这两个帐户。
 
-![告诉我们你的公司](images/migration/newtellusabout.png)
+![将公司信息告诉我们](images/migration/newtellusabout.png)
 
-验证或更新信息后，选择 "**接受并继续**"。
-此页上的条款和条件与公司已在 PMC 中登录的协议**完全相同**。  
-这将启动 Azure AD 租户的创建，并为你提供工作帐户。
+验证或更新信息后，选择“接受并继续”。 
+此页上的条款和条件与公司已在 PMC 中签署的协议**完全相同**。  
+然后，将开始创建 Azure AD 租户并提供工作帐户。
 
-选择 "**接受并继续**" 也将执行以下操作：
+选择“接受并继续”还会执行以下操作： 
 
-•将你的帐户及其所有位置迁移到合作伙伴中心
+•   将帐户连同其所有位置一起迁移到合作伙伴中心
 
-•迁移你可能在 PMC 中购买的任何胜任度或地图
+•   迁移你可能在 PMC 中购买的任何资质或 MAP
 
-•迁移你在 PMC 中拥有的任何权益（地图、银、黄金）
+•   迁移你在 PMC 中享有的任何权益（MAP、银级、金级）
 
-## <a name="invite-employees-to-join-you"></a>邀请员工加入你
+## <a name="invite-employees-to-join-you"></a>邀请员工加入
 
 创建新的 Azure AD 租户后，可以邀请员工登录到合作伙伴中心。
 
 ![邀请员工](images/migration/invite.png)
 
 
-如果已使用现有 AAD 租户登录，则员工将与你一起移动。 在这种情况下，请分配你的员工角色来确定他们在合作伙伴中心的作用。 注意：伙伴中心中的角色不同于 PMC 中的角色。 有关详细信息，请参阅[从 PMC 移动到合作伙伴中心](move-pmc-pc-map.md)。
+如果你已使用现有的 AAD 租户登录，则员工的信息和权益也已同你一起迁移。 在这种情况下，请分配员工角色，以确定他们可在合作伙伴中心执行哪些操作。 注意：合作伙伴中心内的角色不同于 PMC 中的角色。 有关详细信息，请参阅[从 PMC 迁移到合作伙伴中心](move-pmc-pc-map.md)。
 
-## <a name="verify-your-domain-and-become-a-global-admin"></a>验证你的域并成为全局管理员  
+## <a name="verify-your-domain-and-become-a-global-admin"></a>验证域并成为全局管理员  
 
-如果 AAD 租户是新租户，则没有为其分配全局管理员角色。若要成为全局管理员，需要验证域所有权。 你可能需要域管理员来帮助你解决此情况。 请注意，虽然你可以使用已购买的产品/服务，但在完成获取全局管理员的步骤之前，你将无法购买任何新产品/服务。 
+如果 AAD 租户是新的，则暂时还没有为任何人分配全局管理员角色。若要成为全局管理员，需要验证域所有权。 可能需要求助域管理员来完成此操作。 请注意，尽管可以使用已购买的套餐，但在完成获取全局管理员角色的步骤之前，无法购买任何新套餐。 
 
-![控制](images/migration/takecontrol.png)
+![获取控制权](images/migration/takecontrol.png)
 
-选择 "开始" 后，会看到以下屏幕：
+选择“开始”后，将看到以下屏幕：
 
 ![验证域所有权](images/migration/verifytxt.png)
 
-你的域注册机构已为你填写。 只有域所有者可以更新 DNS 文件，因此，通过将文本文件复制并添加到 DNS 记录，可以验证你是否为所有者。 需要几分钟时间才能进行更新。 你将需要从合作伙伴中心注销，然后重新登录。 你的角色将更改为全局管理员。 
+网站中已填充域注册机构。 只有域所有者可以更新 DNS 文件，我们可以通过将该文本文件复制并添加到 DNS 记录，来验证你是否为所有者。 完成更新需要几分钟时间。 需要从合作伙伴中心注销，然后重新登录。 你的角色将更改为全局管理员。 
 
 
-## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>熟悉您的仪表板和合作伙伴中心
+## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>熟悉仪表板和合作伙伴中心
 
-浏览你的仪表板。 在这里，你可以在其中管理成员身份、添加用于引用的业务配置文件、注册云解决方案提供商计划，并通过选择 "**仪表板**" 随时查看与你的业务相关的通知和产品/服务。 你还可以管理奖励、在 marketplace 购买、注册投放市场服务，等等。  
+全面浏览一下仪表板。 在仪表板中可以管理会员资格、添加企业档案供我们引荐、注册云解决方案提供商计划，并随时可以通过选择“仪表板”来查看与自己的业务相关的通知和套餐。  还可以管理奖励、在市场中购买套餐、注册市场投放服务，等等。  
 
-![学习教程](images/migration/fre.png)
+![全面浏览](images/migration/fre.png)
 
 ## <a name="next-steps"></a>后续步骤
 
