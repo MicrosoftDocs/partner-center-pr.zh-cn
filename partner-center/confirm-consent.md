@@ -16,100 +16,100 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74252592"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a><span data-ttu-id="a2aa1-105">确认客户接受 Microsoft 云协议</span><span class="sxs-lookup"><span data-stu-id="a2aa1-105">Confirm customer acceptance of the Microsoft Cloud Agreement</span></span>
+# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a><span data-ttu-id="08027-105">确认客户接受 Microsoft 云协议</span><span class="sxs-lookup"><span data-stu-id="08027-105">Confirm customer acceptance of the Microsoft Cloud Agreement</span></span>
 
-<span data-ttu-id="a2aa1-106">**适用于**</span><span class="sxs-lookup"><span data-stu-id="a2aa1-106">**Applies to**</span></span>
--  <span data-ttu-id="a2aa1-107">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a2aa1-107">Partner Center</span></span>
+<span data-ttu-id="08027-106">**适用于**</span><span class="sxs-lookup"><span data-stu-id="08027-106">**Applies to**</span></span>
+-  <span data-ttu-id="08027-107">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="08027-107">Partner Center</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="a2aa1-108">目前仅 Microsoft 公有云中的合作伙伴中心支持协议资源。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-108">The Agreement resource is currently supported by Partner Center in the Microsoft public cloud only.</span></span> <span data-ttu-id="a2aa1-109">它不适用于：</span><span class="sxs-lookup"><span data-stu-id="a2aa1-109">It is not applicable to:</span></span>
-> * <span data-ttu-id="a2aa1-110">由世纪互联运营的合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a2aa1-110">Partner Center operated by 21Vianet</span></span>
-> * <span data-ttu-id="a2aa1-111">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a2aa1-111">Partner Center for Microsoft Cloud Germany</span></span>
-> * <span data-ttu-id="a2aa1-112">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a2aa1-112">Partner Center for Microsoft Cloud for US Government</span></span>
+> <span data-ttu-id="08027-108">目前仅 Microsoft 公有云中的合作伙伴中心支持协议资源。</span><span class="sxs-lookup"><span data-stu-id="08027-108">The Agreement resource is currently supported by Partner Center in the Microsoft public cloud only.</span></span> <span data-ttu-id="08027-109">它不适用于：</span><span class="sxs-lookup"><span data-stu-id="08027-109">It is not applicable to:</span></span>
+> * <span data-ttu-id="08027-110">由世纪互联运营的合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="08027-110">Partner Center operated by 21Vianet</span></span>
+> * <span data-ttu-id="08027-111">德国 Microsoft 云合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="08027-111">Partner Center for Microsoft Cloud Germany</span></span>
+> * <span data-ttu-id="08027-112">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="08027-112">Partner Center for Microsoft Cloud for US Government</span></span>
 
 >[!NOTE]
-><span data-ttu-id="a2aa1-113">本协议在2020年1月31日之前有效。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-113">This agreement is valid until January 31, 2020.</span></span> <span data-ttu-id="a2aa1-114">在此日期之后，所有客户（现有和新）都必须签署新的 Microsoft 客户协议。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-114">After that date, all customers, existing and new, must sign the new Microsoft Customer Agreement.</span></span> <span data-ttu-id="a2aa1-115">若要了解详细信息，请阅读[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-115">To learn more, read [Confirm customer acceptance of the Microsoft Customer Agreement](confirm-customer-agreement.md).</span></span>
+><span data-ttu-id="08027-113">本协议在2020年1月31日之前有效。</span><span class="sxs-lookup"><span data-stu-id="08027-113">This agreement is valid until January 31, 2020.</span></span> <span data-ttu-id="08027-114">在此日期之后，所有客户（现有和新）都必须签署新的 Microsoft 客户协议。</span><span class="sxs-lookup"><span data-stu-id="08027-114">After that date, all customers, existing and new, must sign the new Microsoft Customer Agreement.</span></span> <span data-ttu-id="08027-115">若要了解详细信息，请阅读[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。</span><span class="sxs-lookup"><span data-stu-id="08027-115">To learn more, read [Confirm customer acceptance of the Microsoft Customer Agreement](confirm-customer-agreement.md).</span></span>
 
-<span data-ttu-id="a2aa1-116">作为合作伙伴，你需要获取客户对 Microsoft 云协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-116">As a partner, you need to obtain your customer's acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer.</span></span> <span data-ttu-id="a2aa1-117">为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议：</span><span class="sxs-lookup"><span data-stu-id="a2aa1-117">To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing the following details regarding the person who accepted the agreement:</span></span> 
+<span data-ttu-id="08027-116">作为合作伙伴，你需要获取客户对 Microsoft 云协议的接受，然后才能对该客户的 Microsoft 产品和服务进行排序。</span><span class="sxs-lookup"><span data-stu-id="08027-116">As a partner, you need to obtain your customer's acceptance of the Microsoft Cloud Agreement before you can order Microsoft products and services for that customer.</span></span> <span data-ttu-id="08027-117">为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议：</span><span class="sxs-lookup"><span data-stu-id="08027-117">To better help partners meet compliance requirements, Microsoft asks partners to confirm acceptance by providing the following details regarding the person who accepted the agreement:</span></span> 
 
--   <span data-ttu-id="a2aa1-118">名字</span><span class="sxs-lookup"><span data-stu-id="a2aa1-118">First name</span></span>
+-   <span data-ttu-id="08027-118">名字</span><span class="sxs-lookup"><span data-stu-id="08027-118">First name</span></span>
 
--   <span data-ttu-id="a2aa1-119">姓氏</span><span class="sxs-lookup"><span data-stu-id="a2aa1-119">Last name</span></span>
+-   <span data-ttu-id="08027-119">姓氏</span><span class="sxs-lookup"><span data-stu-id="08027-119">Last name</span></span>
 
--   <span data-ttu-id="a2aa1-120">电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="a2aa1-120">Email address</span></span>
+-   <span data-ttu-id="08027-120">电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="08027-120">Email address</span></span>
 
--   <span data-ttu-id="a2aa1-121">电话号码（可选）</span><span class="sxs-lookup"><span data-stu-id="a2aa1-121">Phone number (optional)</span></span>
+-   <span data-ttu-id="08027-121">电话号码（可选）</span><span class="sxs-lookup"><span data-stu-id="08027-121">Phone number (optional)</span></span>
 
--   <span data-ttu-id="a2aa1-122">接受日期</span><span class="sxs-lookup"><span data-stu-id="a2aa1-122">Date of acceptance</span></span>
+-   <span data-ttu-id="08027-122">接受日期</span><span class="sxs-lookup"><span data-stu-id="08027-122">Date of acceptance</span></span>
 
-<span data-ttu-id="a2aa1-123">若要了解详细信息，请参阅 Microsoft 云协议客户验收确认[常见问题](https://docs.microsoft.com/partner-center/confirm-consent-faq)。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-123">To learn more, see the Microsoft Cloud Agreement customer acceptance confirmation [Frequently Asked Questions](https://docs.microsoft.com/partner-center/confirm-consent-faq).</span></span>
+<span data-ttu-id="08027-123">若要了解详细信息，请参阅 Microsoft 云协议客户验收确认[常见问题](https://docs.microsoft.com/partner-center/confirm-consent-faq)。</span><span class="sxs-lookup"><span data-stu-id="08027-123">To learn more, see the Microsoft Cloud Agreement customer acceptance confirmation [Frequently Asked Questions](https://docs.microsoft.com/partner-center/confirm-consent-faq).</span></span>
 
-<span data-ttu-id="a2aa1-124">直接帐单合作伙伴和间接提供商必须在约束力通过合作伙伴中心或合作伙伴中心 API 时确认客户接受 Microsoft 云协议。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-124">Direct bill partners and Indirect Providers must confirm customer acceptance of the Microsoft Cloud Agreement when transacting through Partner Center or Partner Center API.</span></span> <span data-ttu-id="a2aa1-125">确认为*必选项*。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-125">Confirmation is *mandatory*.</span></span>
+<span data-ttu-id="08027-124">直接帐单合作伙伴和间接提供商必须在约束力通过合作伙伴中心或合作伙伴中心 API 时确认客户接受 Microsoft 云协议。</span><span class="sxs-lookup"><span data-stu-id="08027-124">Direct bill partners and Indirect Providers must confirm customer acceptance of the Microsoft Cloud Agreement when transacting through Partner Center or Partner Center API.</span></span> <span data-ttu-id="08027-125">确认为*必选项*。</span><span class="sxs-lookup"><span data-stu-id="08027-125">Confirmation is *mandatory*.</span></span>
 
-<span data-ttu-id="a2aa1-126">如果没有为给定客户提供确认：</span><span class="sxs-lookup"><span data-stu-id="a2aa1-126">If confirmation is not provided for a given customer:</span></span>
+<span data-ttu-id="08027-126">如果没有为给定客户提供确认：</span><span class="sxs-lookup"><span data-stu-id="08027-126">If confirmation is not provided for a given customer:</span></span>
 
--   <span data-ttu-id="a2aa1-127">你将无法为此客户创建新订单。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-127">You won't be able to create new orders for this customer.</span></span>
+-   <span data-ttu-id="08027-127">你将无法为此客户创建新订单。</span><span class="sxs-lookup"><span data-stu-id="08027-127">You won't be able to create new orders for this customer.</span></span>
 
--   <span data-ttu-id="a2aa1-128">你将无法更改此客户的现有基于座位的订阅的座位数。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-128">You won't be able to change the seat count of existing seat-based subscriptions for this customer.</span></span>
+-   <span data-ttu-id="08027-128">你将无法更改此客户的现有基于座位的订阅的座位数。</span><span class="sxs-lookup"><span data-stu-id="08027-128">You won't be able to change the seat count of existing seat-based subscriptions for this customer.</span></span>
 
-<span data-ttu-id="a2aa1-129">可以通过合作伙伴中心或合作伙伴中心 API 确认是否可以进行客户接受。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-129">Confirmation of customer acceptance can be done via Partner Center or the Partner Center API.</span></span> <span data-ttu-id="a2aa1-130">为此，请参阅以下主题：</span><span class="sxs-lookup"><span data-stu-id="a2aa1-130">To do this through the Partner Center API, see the following topics:</span></span> 
+<span data-ttu-id="08027-129">可以通过合作伙伴中心或合作伙伴中心 API 确认是否可以进行客户接受。</span><span class="sxs-lookup"><span data-stu-id="08027-129">Confirmation of customer acceptance can be done via Partner Center or the Partner Center API.</span></span> <span data-ttu-id="08027-130">为此，请参阅以下主题：</span><span class="sxs-lookup"><span data-stu-id="08027-130">To do this through the Partner Center API, see the following topics:</span></span> 
 
--   [<span data-ttu-id="a2aa1-131">确认客户同意</span><span class="sxs-lookup"><span data-stu-id="a2aa1-131">Get confirmation of customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
+-   [<span data-ttu-id="08027-131">确认客户同意</span><span class="sxs-lookup"><span data-stu-id="08027-131">Get confirmation of customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-consent)
 
--   [<span data-ttu-id="a2aa1-132">获取协议元数据</span><span class="sxs-lookup"><span data-stu-id="a2aa1-132">Get agreement metadata</span></span>](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
+-   [<span data-ttu-id="08027-132">获取协议元数据</span><span class="sxs-lookup"><span data-stu-id="08027-132">Get agreement metadata</span></span>](https://docs.microsoft.com/partner-center/develop/get-agreement-metadata)
 
--   [<span data-ttu-id="a2aa1-133">确认客户同意</span><span class="sxs-lookup"><span data-stu-id="a2aa1-133">Confirm customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
+-   [<span data-ttu-id="08027-133">确认客户同意</span><span class="sxs-lookup"><span data-stu-id="08027-133">Confirm customer consent</span></span>](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent)
 
 
-<span data-ttu-id="a2aa1-134">这适用于生产环境和沙盒环境。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-134">This applies to both production and sandbox environments.</span></span>
+<span data-ttu-id="08027-134">这适用于生产环境和沙盒环境。</span><span class="sxs-lookup"><span data-stu-id="08027-134">This applies to both production and sandbox environments.</span></span>
 
-## <a name="confirming-customer-acceptance-in-partner-center"></a><span data-ttu-id="a2aa1-135">确认合作伙伴中心的客户接受</span><span class="sxs-lookup"><span data-stu-id="a2aa1-135">Confirming customer acceptance in Partner Center</span></span>
+## <a name="confirming-customer-acceptance-in-partner-center"></a><span data-ttu-id="08027-135">确认合作伙伴中心的客户接受</span><span class="sxs-lookup"><span data-stu-id="08027-135">Confirming customer acceptance in Partner Center</span></span>
 
-### <a name="confirm-customer-acceptance-for-a-new-customer"></a><span data-ttu-id="a2aa1-136">为新客户确认客户接受</span><span class="sxs-lookup"><span data-stu-id="a2aa1-136">Confirm customer acceptance for a new customer</span></span>
+### <a name="confirm-customer-acceptance-for-a-new-customer"></a><span data-ttu-id="08027-136">为新客户确认客户接受</span><span class="sxs-lookup"><span data-stu-id="08027-136">Confirm customer acceptance for a new customer</span></span>
 
-<span data-ttu-id="a2aa1-137">在合作伙伴中心创建新客户租户时，请使用以下过程来确认客户接受。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-137">Use the following procedure to confirm customer acceptance while you create a new customer tenant in Partner Center.</span></span> <span data-ttu-id="a2aa1-138">请注意，必须是管理员代理或销售代理，才能执行此操作。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-138">Note that you must be an Admin agent or Sales agent to do this.</span></span>
+<span data-ttu-id="08027-137">在合作伙伴中心创建新客户租户时，请使用以下过程来确认客户接受。</span><span class="sxs-lookup"><span data-stu-id="08027-137">Use the following procedure to confirm customer acceptance while you create a new customer tenant in Partner Center.</span></span> <span data-ttu-id="08027-138">请注意，必须是管理员代理或销售代理，才能执行此操作。</span><span class="sxs-lookup"><span data-stu-id="08027-138">Note that you must be an Admin agent or Sales agent to do this.</span></span>
 
-1. <span data-ttu-id="a2aa1-139">选择 "**客户**"，然后选择 "**新建客户**"，然后选择 "**帐户信息**"。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-139">Select **Customers**, and then **New customer** and then select **Account info**.</span></span>
-2. <span data-ttu-id="a2aa1-140">输入**公司**和**主要联系人**的信息。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-140">Enter the information about the **Company** and **Primary contact**.</span></span>
+1. <span data-ttu-id="08027-139">选择 "**客户**"，然后选择 "**新建客户**"，然后选择 "**帐户信息**"。</span><span class="sxs-lookup"><span data-stu-id="08027-139">Select **Customers**, and then **New customer** and then select **Account info**.</span></span>
+2. <span data-ttu-id="08027-140">输入**公司**和**主要联系人**的信息。</span><span class="sxs-lookup"><span data-stu-id="08027-140">Enter the information about the **Company** and **Primary contact**.</span></span>
 
 ![公司信息](images/mca/mca1.png)
 
-3. <span data-ttu-id="a2aa1-142">在**Microsoft 云协议**下，选择**客户已接受最新的 Microsoft 云协议**。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-142">Under **Microsoft cloud agreement**, select **The customer has accepted the latest Microsoft cloud agreement**.</span></span>
-4. <span data-ttu-id="a2aa1-143">在“协议接受日期”下，输入相应的日期。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-143">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="a2aa1-144">不能将此日期设置为未来日期。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-144">You cannot set this to a future date.</span></span>
-5. <span data-ttu-id="a2aa1-145">输入提供接受的用户的详细信息。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-145">Enter the details of the user who provided the acceptance.</span></span>
+3. <span data-ttu-id="08027-142">在**Microsoft 云协议**下，选择**客户已接受最新的 Microsoft 云协议**。</span><span class="sxs-lookup"><span data-stu-id="08027-142">Under **Microsoft cloud agreement**, select **The customer has accepted the latest Microsoft cloud agreement**.</span></span>
+4. <span data-ttu-id="08027-143">在“协议接受日期”下，输入相应的日期。</span><span class="sxs-lookup"><span data-stu-id="08027-143">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="08027-144">不能将此日期设置为未来日期。</span><span class="sxs-lookup"><span data-stu-id="08027-144">You cannot set this to a future date.</span></span>
+5. <span data-ttu-id="08027-145">输入提供接受的用户的详细信息。</span><span class="sxs-lookup"><span data-stu-id="08027-145">Enter the details of the user who provided the acceptance.</span></span>
 
 ![添加验收日期](images/mca/MCA3.png)
 
-<span data-ttu-id="a2aa1-147">默认情况下，将显示主要联系人用户信息。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-147">By default, the primary contact user information is displayed.</span></span> <span data-ttu-id="a2aa1-148">如果这不正确，请选择 "**更新**"，然后输入接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和 \**电话号码*（可选）。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-148">If this isn't correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and \**Phone number* (optional) of the person who accepted the agreement.</span></span>
+<span data-ttu-id="08027-147">默认情况下，将显示主要联系人用户信息。</span><span class="sxs-lookup"><span data-stu-id="08027-147">By default, the primary contact user information is displayed.</span></span> <span data-ttu-id="08027-148">如果这不正确，请选择 "**更新**"，然后输入接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和 \**电话号码*（可选）。</span><span class="sxs-lookup"><span data-stu-id="08027-148">If this isn't correct, select **Update** and then enter the **First name**, **Last name**, **Email address**, and \**Phone number* (optional) of the person who accepted the agreement.</span></span>
 
-6. <span data-ttu-id="a2aa1-149">选择“下一步”，继续执行创建客户租户的其余步骤。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-149">Select **Next** to continue with the remaining steps to create the customer tenant.</span></span>
+6. <span data-ttu-id="08027-149">选择“下一步”，继续执行创建客户租户的其余步骤。</span><span class="sxs-lookup"><span data-stu-id="08027-149">Select **Next** to continue with the remaining steps to create the customer tenant.</span></span>
 
-### <a name="confirm-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="a2aa1-150">为现有客户确认客户接受</span><span class="sxs-lookup"><span data-stu-id="a2aa1-150">Confirm customer acceptance for an existing customer</span></span>
+### <a name="confirm-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="08027-150">为现有客户确认客户接受</span><span class="sxs-lookup"><span data-stu-id="08027-150">Confirm customer acceptance for an existing customer</span></span>
 
-<span data-ttu-id="a2aa1-151">必须是管理员代理或销售代理才能执行此操作。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-151">You must be an Admin agent or Sales agent to do this.</span></span>
+<span data-ttu-id="08027-151">必须是管理员代理或销售代理才能执行此操作。</span><span class="sxs-lookup"><span data-stu-id="08027-151">You must be an Admin agent or Sales agent to do this.</span></span>
 
-1. <span data-ttu-id="a2aa1-152">选择**客户**，然后查找并选择要查看的客户。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-152">Select **Customers**, and then find and select the customer you want to see.</span></span>
-2. <span data-ttu-id="a2aa1-153">选择“帐户信息”。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-153">Select **Account info**.</span></span>
-3. <span data-ttu-id="a2aa1-154">在**Microsoft 云协议**下选择**更新**。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-154">Under **Microsoft cloud agreement**, select **Update**.</span></span>
+1. <span data-ttu-id="08027-152">选择“客户”，然后找到并选择要查看的客户。</span><span class="sxs-lookup"><span data-stu-id="08027-152">Select **Customers**, and then find and select the customer you want to see.</span></span>
+2. <span data-ttu-id="08027-153">选择“帐户信息”。</span><span class="sxs-lookup"><span data-stu-id="08027-153">Select **Account info**.</span></span>
+3. <span data-ttu-id="08027-154">在**Microsoft 云协议**下选择**更新**。</span><span class="sxs-lookup"><span data-stu-id="08027-154">Under **Microsoft cloud agreement**, select **Update**.</span></span>
 
-![更新](images/mca/mca4.png)
+![Update](images/mca/mca4.png)
 
-4. <span data-ttu-id="a2aa1-156">输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-156">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
-5. <span data-ttu-id="a2aa1-157">在“协议接受日期”下，输入相应的日期。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-157">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="a2aa1-158">不能将此日期设置为未来日期。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-158">You cannot set this to a future date.</span></span>
-6. <span data-ttu-id="a2aa1-159">选择**保存并继续**。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-159">Select **Save and continue**.</span></span>
+4. <span data-ttu-id="08027-156">输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。</span><span class="sxs-lookup"><span data-stu-id="08027-156">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
+5. <span data-ttu-id="08027-157">在“协议接受日期”下，输入相应的日期。</span><span class="sxs-lookup"><span data-stu-id="08027-157">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="08027-158">不能将此日期设置为未来日期。</span><span class="sxs-lookup"><span data-stu-id="08027-158">You cannot set this to a future date.</span></span>
+6. <span data-ttu-id="08027-159">选择**保存并继续**。</span><span class="sxs-lookup"><span data-stu-id="08027-159">Select **Save and continue**.</span></span>
 
-### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a><span data-ttu-id="a2aa1-160">在为现有客户创建新订单时确认客户接受</span><span class="sxs-lookup"><span data-stu-id="a2aa1-160">Confirm customer acceptance while creating new order for an existing customer</span></span>
+### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a><span data-ttu-id="08027-160">在为现有客户创建新订单时确认客户接受</span><span class="sxs-lookup"><span data-stu-id="08027-160">Confirm customer acceptance while creating new order for an existing customer</span></span>
 
-<span data-ttu-id="a2aa1-161">如果你尝试为之前未确认的现有客户创建新订单，则将收到一条提示，提示你完成确认。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-161">If you try to create a new order for an existing customer which you have not confirmed before, you'll receive a prompt to complete the confirmation.</span></span> <span data-ttu-id="a2aa1-162">请使用下面的过程执行此操作。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-162">Use the following procedure to do this.</span></span>
+<span data-ttu-id="08027-161">如果你尝试为之前未确认的现有客户创建新订单，则将收到一条提示，提示你完成确认。</span><span class="sxs-lookup"><span data-stu-id="08027-161">If you try to create a new order for an existing customer which you have not confirmed before, you'll receive a prompt to complete the confirmation.</span></span> <span data-ttu-id="08027-162">请使用下面的过程执行此操作。</span><span class="sxs-lookup"><span data-stu-id="08027-162">Use the following procedure to do this.</span></span>
 
-1. <span data-ttu-id="a2aa1-163">输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-163">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
-2. <span data-ttu-id="a2aa1-164">在“协议接受日期”下，输入相应的日期。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-164">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="a2aa1-165">不能将此日期设置为未来日期。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-165">You cannot set this to a future date.</span></span>
-3. <span data-ttu-id="a2aa1-166">选择**保存并继续**。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-166">Select **Save and continue**.</span></span>
+1. <span data-ttu-id="08027-163">输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。</span><span class="sxs-lookup"><span data-stu-id="08027-163">Enter the **First name**, **Last name**, **Email address**, and **Phone number** (optional) of the user who accepted the agreement.</span></span>
+2. <span data-ttu-id="08027-164">在“协议接受日期”下，输入相应的日期。</span><span class="sxs-lookup"><span data-stu-id="08027-164">Under **Agreement acceptance date**, enter the appropriate date.</span></span> <span data-ttu-id="08027-165">不能将此日期设置为未来日期。</span><span class="sxs-lookup"><span data-stu-id="08027-165">You cannot set this to a future date.</span></span>
+3. <span data-ttu-id="08027-166">选择**保存并继续**。</span><span class="sxs-lookup"><span data-stu-id="08027-166">Select **Save and continue**.</span></span>
 
-### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="a2aa1-167">为现有客户检索客户接受确认</span><span class="sxs-lookup"><span data-stu-id="a2aa1-167">Retrieve confirmation of customer acceptance for an existing customer</span></span>
+### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a><span data-ttu-id="08027-167">为现有客户检索客户接受确认</span><span class="sxs-lookup"><span data-stu-id="08027-167">Retrieve confirmation of customer acceptance for an existing customer</span></span>
 
-<span data-ttu-id="a2aa1-168">可以使用下面的过程为之前提供过确认的现有客户检索客户接受确认。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-168">You can retrieve confirmation of customer acceptance for an existing customer that you have provided previously using the procedure below.</span></span> <span data-ttu-id="a2aa1-169">必须是管理员代理或销售代理才能执行此操作。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-169">You must be an Admin agent or Sales agent to do this.</span></span>
+<span data-ttu-id="08027-168">可以使用下面的过程为之前提供过确认的现有客户检索客户接受确认。</span><span class="sxs-lookup"><span data-stu-id="08027-168">You can retrieve confirmation of customer acceptance for an existing customer that you have provided previously using the procedure below.</span></span> <span data-ttu-id="08027-169">必须是管理员代理或销售代理才能执行此操作。</span><span class="sxs-lookup"><span data-stu-id="08027-169">You must be an Admin agent or Sales agent to do this.</span></span>
 
-1. <span data-ttu-id="a2aa1-170">选择**客户**，然后查找并选择要查看的客户。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-170">Select **Customers**, and then find and select the customer you want to see.</span></span>
-2. <span data-ttu-id="a2aa1-171">选择“帐户信息”。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-171">Select **Account info**.</span></span>
-3. <span data-ttu-id="a2aa1-172">在**Microsoft 云协议**下，你将看到是否已为此客户提供确认。</span><span class="sxs-lookup"><span data-stu-id="a2aa1-172">Under **Microsoft cloud agreement**, you'll see whether or not confirmation has been provided for this customer.</span></span>
+1. <span data-ttu-id="08027-170">选择“客户”，然后找到并选择要查看的客户。</span><span class="sxs-lookup"><span data-stu-id="08027-170">Select **Customers**, and then find and select the customer you want to see.</span></span>
+2. <span data-ttu-id="08027-171">选择“帐户信息”。</span><span class="sxs-lookup"><span data-stu-id="08027-171">Select **Account info**.</span></span>
+3. <span data-ttu-id="08027-172">在**Microsoft 云协议**下，你将看到是否已为此客户提供确认。</span><span class="sxs-lookup"><span data-stu-id="08027-172">Under **Microsoft cloud agreement**, you'll see whether or not confirmation has been provided for this customer.</span></span>

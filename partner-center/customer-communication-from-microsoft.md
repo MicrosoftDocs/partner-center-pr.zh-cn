@@ -17,19 +17,19 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253561"
 ---
-# <a name="customer-communication-from-microsoft"></a><span data-ttu-id="1d0cb-104">来自 Microsoft 的客户通讯</span><span class="sxs-lookup"><span data-stu-id="1d0cb-104">Customer communication from Microsoft</span></span>
+# <a name="customer-communication-from-microsoft"></a><span data-ttu-id="6e4f2-104">来自 Microsoft 的客户通讯</span><span class="sxs-lookup"><span data-stu-id="6e4f2-104">Customer communication from Microsoft</span></span>
 
-<span data-ttu-id="1d0cb-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="1d0cb-105">**Applies to**</span></span>
+<span data-ttu-id="6e4f2-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="6e4f2-105">**Applies to**</span></span>
 
--  <span data-ttu-id="1d0cb-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="1d0cb-106">Partner Center</span></span>
--  <span data-ttu-id="1d0cb-107">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="1d0cb-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="6e4f2-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="6e4f2-106">Partner Center</span></span>
+-  <span data-ttu-id="6e4f2-107">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="6e4f2-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-<span data-ttu-id="1d0cb-108">一般情况下，我们希望与客户的所有通讯均来自云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="1d0cb-108">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="1d0cb-109">由于你具有客户结算关系，Microsoft 不会将有关他们的订阅的通讯直接发送给你的客户。</span><span class="sxs-lookup"><span data-stu-id="1d0cb-109">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
+<span data-ttu-id="6e4f2-108">一般情况下，我们希望与客户的所有通讯均来自云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="6e4f2-108">In general, we expect all communications with the customer to come from the Cloud Solution Provider partner.</span></span> <span data-ttu-id="6e4f2-109">由于你具有客户结算关系，Microsoft 不会将有关他们的订阅的通讯直接发送给你的客户。</span><span class="sxs-lookup"><span data-stu-id="6e4f2-109">Because you own the customer billing relationship, Microsoft will not send communications directly to your customers related to their subscriptions.</span></span>
 
-<span data-ttu-id="1d0cb-110">Microsoft 可能会就有关服务事件或其他操作信息与客户直接通讯。</span><span class="sxs-lookup"><span data-stu-id="1d0cb-110">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
+<span data-ttu-id="6e4f2-110">Microsoft 可能会就有关服务事件或其他操作信息与客户直接通讯。</span><span class="sxs-lookup"><span data-stu-id="6e4f2-110">Microsoft may communicate directly with customers about service incidents or other operational information.</span></span>
 
-<span data-ttu-id="1d0cb-111">对于与 Microsoft 已存在现有商业关系的客户，Microsoft 将针对非云解决方案提供商产品和服务与客户直接通讯。</span><span class="sxs-lookup"><span data-stu-id="1d0cb-111">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
+<span data-ttu-id="6e4f2-111">对于与 Microsoft 已存在现有商业关系的客户，Microsoft 将针对非云解决方案提供商产品和服务与客户直接通讯。</span><span class="sxs-lookup"><span data-stu-id="6e4f2-111">For customers that already have existing commercial relationships with Microsoft, Microsoft will continue to communicate directly with them about their non-CSP products and services.</span></span>
 
  
 
