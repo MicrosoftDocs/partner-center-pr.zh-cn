@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
+description: 了解如何自定义 Microsoft 目录，以便更轻松地访问你的组织使用的合作伙伴产品或产品。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
@@ -28,7 +28,7 @@ ms.locfileid: "74252119"
 
 **自定义目录**
 
-1.  Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.
+1.  请 &gt;**销售**&gt;**目录**中转到 "合作伙伴中心" 菜单。
 2.  选择最多五个要在目录顶部显示的产品/服务。
 
  

@@ -17,7 +17,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253037"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤销许可证
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 
 **适用于**
 
@@ -27,7 +27,7 @@ ms.locfileid: "74253037"
 
 合作伙伴中心将跟踪并显示所有客户拥有的许可权利。
 
-## <a name="in-this-section"></a>本部分内容
+## <a name="in-this-section"></a>本节内容
 
 
 -   [将许可证分配给多个用户](#assign-licenses-to-groups)

@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn which issues Microsoft partners are expected to solve themselves for their customers and which issues they may need to escalate to Microsoft.
+description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: MaggiePucciEvans
 ms.author: evansma
@@ -40,22 +40,22 @@ ms.locfileid: "74252569"
 
 ## <a name="submit-a-support-request"></a>提交支持请求
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
 
-2. From the Partner Center menu, select **Customers**, then select the customer who needs support.
+2. 从 "合作伙伴中心" 菜单中，选择 "**客户**"，然后选择需要支持的客户。
 
 3. 选择**服务管理**，然后选择**服务请求**。
 
 4. 选择**新建请求**，然后选择 **Microsoft Office 365**。
 
-5. You are taken to the Office 365 portal where you need to sign in using your Partner Center credentials.
+5. 你将转到 Office 365 门户，你需要使用合作伙伴中心凭据进行登录。
 
 6. 从左侧菜单中选择**支持**、**新建服务请求**。
 
 7. 选择支持主题。
 
 >[!NOTE]
->It is important to start from the Partner Center dashboard so that the relationship between partner and customer is maintained. 
+>从合作伙伴中心仪表板开始，以便维护合作伙伴和客户之间的关系，这一点很重要。 
 
 
 有关代表客户报告问题的信息，请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。

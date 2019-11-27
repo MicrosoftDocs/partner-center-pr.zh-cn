@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn when and where customers can perform self-support to manage their own accounts and when they should contact their Cloud Solution Provider partner.
+description: 了解客户在何时以及在何处可以执行自我支持来管理自己的帐户，以及何时应联系其云解决方案提供商合作伙伴。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
 author: MaggiePucciEvans
 ms.author: evansma

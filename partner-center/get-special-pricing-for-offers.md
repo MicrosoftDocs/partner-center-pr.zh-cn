@@ -51,7 +51,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在**新订阅**页的**目录**部分，选择特定行业以查看你可以销售的特价产品/服务。
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 [销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)
 

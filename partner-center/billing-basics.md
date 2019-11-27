@@ -1,8 +1,8 @@
 ---
-title: Billing overview | Partner Center
+title: 帐单概述 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Basic billing and invoice information for Partner Center.
+description: 合作伙伴中心的基本计费和发票信息。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -17,80 +17,80 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384545"
 ---
-# <a name="billing-overview"></a>Billing overview
+# <a name="billing-overview"></a>帐单概述
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
-- Partners in the Cloud Solution Provider (CSP) program
+- 云解决方案提供商（CSP）计划中的合作伙伴
 
-## <a name="find-your-bill"></a>Find your bill
+## <a name="find-your-bill"></a>查找帐单
 
-To find your bill:
+查找帐单：
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Billing**.
-3. On the **Billing** page, you can download your latest bill or download previous bills in the **Billing history** section.
+1. [登录到合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择 "**计费**"。
+3. 在 "**帐单**" 页上，您可以下载最新的帐单，或在 "**帐单历史记录**" 部分下载以前的帐单。
 
-## <a name="bill-your-customers"></a>Bill your customers
+## <a name="bill-your-customers"></a>向你的客户收费
 
-Microsoft has no requirements or conditions about how you handle your own invoicing.
+对于您如何处理自己的开票，Microsoft 不提供任何要求或条件。
 
-To determine a customer's usage, [see your reconciliation files](#find-your-bill). You can use the customer name and other relevant fields to determine usage.
+若要确定客户的使用情况，[请参阅对帐文件](#find-your-bill)。 你可以使用客户名称和其他相关字段来确定使用情况。
 
-Next, you can add your own fees and charges for services and products that you provide. Then, you can send a single bill for all charges to your customer.
+接下来，您可以为您提供的服务和产品添加您自己的费用和费用。 然后，您可以向您的客户发送所有费用的单个帐单。
 
-### <a name="billing-types"></a>Billing types
+### <a name="billing-types"></a>计费类型
 
-Billing types in Partner Center include **license-based billing**, **usage-based billing**, and **one-time billign**. For more information, see the full explanation of [billing types in Partner Center](billing-different-types.md).
+合作伙伴中心的计费类型包括**基于许可证的计费**、**基于使用情况的计费**和**一次性 billign**。 有关详细信息，请参阅[合作伙伴中心中计费类型](billing-different-types.md)的完整说明。
 
-### <a name="billing-currency"></a>Billing currency
+### <a name="billing-currency"></a>计费货币
 
-You'll be billed for product(s) in the currency of the country or region in which you're located. You're billed the same regardless of the location of the customer to whom you sold the product(s).
+你将按你所在的国家或地区的货币向你收费。 无论向其销售产品的客户的位置如何，都将按相同的顺序计费。
 
 ## <a name="invoices"></a>发票
 
-Your invoice is a summary of all charges for the current billing period. This includes charges across the program, all products, and all customers. For examples of monthly and annual billing scenarios, see [common billing scenarios](common-billing-scenarios.md)
+发票汇总了当前计费周期的所有费用。 这包括整个计划、所有产品和所有客户的费用。 有关每月和每年计费方案的示例，请参阅[通用计费方案](common-billing-scenarios.md)
 
-Your invoice is available within two (2) days of your selected billing date in UTC time. For example, if you have a September 12th billing date, the invoice generation process will begin at 12:00AM UTC on the 13th and complete by 12:00AM UTC on the 14th. If you do not see your invoice by 11:59PM UTC on the 15th, you’re out of your Service Level Agreement and should file a service request.
+你的发票将在你所选计费日期的两（2）天内按 UTC 时间提供。 例如，如果你有9月12日的计费日期，则在第13个，发票生成过程将在第13个，并在第14天的12： 00 (UTC 处开始 如果你在15日未看到你的发票11： 59PM UTC，则你的服务级别协议不会超出你的要求，因此应进行服务请求。
 
-Partners in the Cloud Solution Provider (CSP) program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).
+选择按月计费的云解决方案提供商（CSP）计划中的合作伙伴在欠款形式中为其客户的订阅60付费（基于许可证和基于使用情况）。
 
-## <a name="price-lists"></a>Price lists
+## <a name="price-lists"></a>价目表
 
-Price lists are updated monthly. Preview price lists are available one (1) month in advance.
+价目表每月更新一次。 提前提供一（1）个月的预览价格列表。
 
-To view price lists:
+查看价目表：
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Sell**, then select **Pricing and offers**.
-3. On the **Pricing and offers** page, you can see 6 months of price lists (including the current month) and preview price lists (where applicable).
+1. [登录到合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择 "**销售**"，然后选择 "**定价和产品/服务**"。
+3. 在 "**定价和优惠**" 页上，你可以看到6个月的价格列表（包括当月）和预览版价目表（如果适用）。
 
-**License-based** prices are guaranteed for the term of the subscription, usually 12 months from the purchase date. 
+**基于许可证**的价格保证订阅的期限，通常是购买日期的12个月。 
 
-**Usage-based prices** can change on a monthly basis.
+**基于用量的价格**可能每月更改一次。
 
-**Prices for products, services, and software subscriptions** are guaranteed through the subscription duration. However, prices may change when you renew.
+可以通过订阅持续时间保证**产品、服务和软件订阅的价格**。 但是，当你续订时，价格可能会改变。
 
-You'll see **adjustments** and **credits** in arrears on your next billing invoice after the credit or adjustment is applied.
+应用信用额度或调整后，你将在下一个计费发票上看到欠款形式的**调整**和**信用额度**。
 
 ## <a name="payment-terms"></a>付款期限
 
-Payment terms are net 60 days. Invoices must be paid by the invoice due date (60 days after the billing date), or your account will be delinquent, which may impact your enrollment in CSP. 
+支付条款为60天。 发票必须按发票截止日期（在计费日期之后60天）支付，否则你的帐户将为拖欠，这可能会影响 CSP 中的注册。 
 
-You can regain full functionality of your suspended accounts when you pay the past due amount.
+你可以在支付过去的应付金额时重新获得已暂停帐户的全部功能。
 
-### <a name="taxes-and-vat"></a>Taxes and VAT
+### <a name="taxes-and-vat"></a>税收和 VAT
 
-You are taxed based on your details (not your customers' details) because the billing relationship is between Microsoft and you. You can submit your tax identifier during the account setup process or through a support request later. 你将看到在下一个计费周期上反映的更改。
+根据你的详细信息（而不是客户的详细信息），你将根据你的详细信息进行计费，因为计费关系介于 Microsoft 和你之间。 你可以在帐户设置过程中或稍后通过支持请求提交你的税务标识符。 你将看到在下一个计费周期上反映的更改。
 
-For **withholding and sales tax exemption**, you must submit tax documentation through a support request. 你将在下一个计费周期上看到更改和相应退款。
+对于**预缴税金和销售税豁免**，你必须通过支持请求提交税务文档。 你将在下一个计费周期上看到更改和相应退款。
 
-For **value-added tax (VAT) exemption**, you must submit your VAT ID (validated by Microsoft) through a service request. 你将在下一个计费周期上看到更改和相应退款。
+对于**增值税（VAT）豁免**，你必须通过服务请求提交你的 VAT ID （由 Microsoft 验证）。 你将在下一个计费周期上看到更改和相应退款。
 
-You can find further tax details from your local tax office or tax advisor.
+可以从当地的税务办公室或税务顾问那里查找进一步的税务详细信息。
 
-### <a name="annual-billing-rules"></a>Annual billing rules
+### <a name="annual-billing-rules"></a>年度计费规则
 
 订阅为一年期并且自动续订。
 
@@ -98,80 +98,80 @@ You can find further tax details from your local tax office or tax advisor.
 
 对于基于许可证的服务，将会提前向你收取下一个计费时段费用（取决于上一个计费时段结束时的许可证数）。
 
-将针对许可证数目发生的任何更改对你计费/记入欠款（根据许可证天数按比例计算）。 Pro-rata calculation uses the following formula:
+将针对许可证数目发生的任何更改对你计费/记入欠款（根据许可证天数按比例计算）。 每计算使用以下公式：
 
 `[ROUND((ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity]`
 
-Payments are billed for licenses sold, not licenses provisioned.
+支付的费用将按售出的许可证计费，而非预配许可证。
 
-### <a name="change-billing-frequency"></a>Change billing frequency
+### <a name="change-billing-frequency"></a>更改计费频率
 
-To change the billing frequency of an online service for a customer:
+为客户更改联机服务的计费频率：
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. In the left-hand menu, choose **Customers**.
-3. Select the customer whose subscription billing frequency you want to change.
-4. On the customer's **Subscriptions** page, select the subscription that you want to change.
-5. On the **Details** page, under **Billing frequency**, select **Monthly** or **Annual**. You’ll see a confirmation page with important information about changing billing frequency, as well as a list of the subscriptions about to be changed.
-6. Choose **OK** to make the change (or **Cancel** to undo it).
+1. [登录到合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择 "**客户**"。
+3. 选择要更改其订阅计费频率的客户。
+4. 在客户的 "**订阅**" 页上，选择要更改的订阅。
+5. 在**详细信息**页上的 **"计费频率**" 下，选择 "**月**" 或 "**年**"。 你将看到一个确认页，其中包含有关更改计费频率的重要信息，以及要更改的订阅的列表。
+6. 选择 **"确定"** 进行更改（或单击 "**取消**" 撤消更改）。
 
 ### <a name="adjustmentscreditscancellations"></a>调整/信用/取消
 
-Microsoft does not charge early termination fees for cancellation of license-based services.
+Microsoft 不对基于许可证的服务的取消收费提前终止费。
 
-Cancellation credits for licensed-based services are pro-rated for unused days for mid-cycle cancellations (as well as license decreases according to the formula above).
+基于许可的服务的取消额度对未使用的天进行的中间周期取消（以及根据以上公式进行的许可证降低）进行了估价。
 
 ### <a name="billing-rules"></a>计费规则
 
-Subscriptions are month-to-month and automatically renew at the new metered service rates. You're billed each month for the previous month's usage.
+订阅是月到月的，以新的按流量计费的服务费率自动续订。 上个月的使用情况每月向你收费。
 
 按使用量计费的服务费率可能在发票周期内更改。
 
-#### <a name="price-changes"></a>Price changes
+#### <a name="price-changes"></a>价格更改
 
-For **price increases**, 30 days' notice is provided.
+对于**价格增加**，提供30天的通知。
 
-**Price decreases** are reflected on the day of change.
+**价格递减**会反映在更改的日期。
 
-**Existing subscriptions** use the rate in effect at the beginning of the bill cycle.
+**现有订阅**使用在帐单周期开始时的有效费率。
 
-**New subscriptions**, when created within the same billing cycle, use the rate in effect on the date you create them. 
+**新订阅**在相同的计费周期内创建时，使用在创建日期时的生效费率。 
 
 ### <a name="adjustmentscreditscancellations"></a>调整/信用/取消
 
 你将在下一个每月计费发票上看到经过调整的付款。
 
-Microsoft does not charge early termination fees for cancellation of usage-based services. 
+Microsoft 不对基于使用情况的服务的取消收费提前终止费。 
 
 你将在下一个每月计费发票上看到所有类型的信用，包括 SLA 信用。
 
 >[!IMPORTANT]
->If you purchase Azure reservations and/or software subscriptions for a customer in a location with a currency different from yours, the default billing currency is based on the customer’s location, not your location. If you have customers in multiple locations, you’ll receive separate invoices and reconciliation files for each currency customers need to be billed in, allowing you to invoice your customers in the appropriate currency.
+>如果为某位客户购买 Azure 预订和/或软件订阅，其货币不同于你的位置，则默认计费货币基于客户的位置，而不是你的位置。 如果你有多个位置的客户，则你将收到针对每个需要在中计费的货币的单独发票和对帐文件，这允许你以适当的货币为你的客户开具发票。
 
-## <a name="manage-one-time-billing"></a>Manage one-time billing
+## <a name="manage-one-time-billing"></a>管理一次性帐单
 
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Billing status, invoices and reconciliation files
+### <a name="billing-status-invoices-and-reconciliation-files"></a>计费状态、发票和对帐文件
 
-To view your current billing status, invoices, and reconciliation files:
+查看当前的帐单状态、发票和对帐文件：
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Billing**, then select **One time**.
-3. On the billing status page, select an invoice or reconciliation file to view more detailed information.
+1. [登录到合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择 "**计费**"，并选择 "**一次**"。
+3. 在 "计费状态" 页上，选择发票或对帐文件以查看更多详细信息。
 
-### <a name="customer-order-history"></a>Customer order history
+### <a name="customer-order-history"></a>客户订单历史记录
 
-To view a customer's order history:
+查看客户的订单历史记录：
 
-1. [Sign in to the Partner Center dashboard](https://partner.microsoft.com/dashboard/home).
-2. On the left-hand menu, choose **Customers**.
-3. On the **Customers** page, find the customer whose order history you want to view. Select the down arrow to expand the customer's record.
-4. Choose **View orders** to display the customer's order history.
+1. [登录到合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择 "**客户**"。
+3. 在 "**客户**" 页上，找到要查看其订单历史记录的客户。 选择向下箭头以展开客户的记录。
+4. 选择 "**查看订单**" 以显示客户的订单历史记录。
 
-### <a name="credit-notes"></a>Credit notes
+### <a name="credit-notes"></a>信用说明
 
-You might need to request a credit or rebill for the following reasons:
+由于以下原因，可能需要请求信用或 rebill：
 
-- You need to make address or purchase order corrections.
-- A tax refund was applied after the invoice was generated. You can request a credit or rebill to get the tax refund pulled back into the original invoice. The same is also true for refunds. You can request a credit or rebill of the original invoice, then pull in a refund.
+- 你需要进行地址或采购订单更正。
+- 在生成发票后，会应用退税。 您可以请求信用额度或 rebill 以获取退回到原始发票中的退税。 对于退款也是如此。 您可以请求支付原始发票的信用额度或 rebill，然后请求退款。
 
-If you request a credit or rebill, we'll give you a **credit note** to cancel the original invoice.
+如果你请求信用额度或 rebill，我们将向你显示一个用于取消原始发票的**信用备注**。

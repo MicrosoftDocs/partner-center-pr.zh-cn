@@ -75,7 +75,7 @@ ms.locfileid: "74252222"
 
 2.  将管理员代理角色分配给你组织中的适当用户。 若要执行此操作，你需要将这些用户添加到内置 **AdminAgent** 组。 请参阅[管理 Azure Active Directory 中的一组成员](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)，了解有关如何执行此操作的信息。
  
-## <a name="connect-with-us"></a>与我们联系
+## <a name="connect-with-us"></a>联系我们
 
 - 有疑问？ 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
 

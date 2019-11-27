@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/17/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center, learn how to sell your customers subscriptions to SaaS products published to the marketplace by Independent Software Vendors (ISVs).
+description: 在合作伙伴中心，了解如何通过独立软件供应商（Isv）向市场发布的 SaaS 产品销售客户订阅。
 author: MicheleHope
 ms.author: v-mihope
 keywords: 订阅, 市场, 第三方, ISV
@@ -23,10 +23,10 @@ ms.locfileid: "74253082"
 - 合作伙伴中心
 - 云解决方案提供商合作伙伴
 
-As a partner in the CSP program, you can use Partner Center to sell your customers subscriptions to Software as a Service (SaaS) products that have been published to the commercial marketplace ([Microsoft AppSource](https://appsource.microsoft.com/) and [Azure Marketplace](https://azuremarketplace.microsoft.com/)) by Independent Software Vendors (ISVs). 
+作为 CSP 计划的合作伙伴，你可以使用合作伙伴中心向已通过独立软件供应商（Isv）发布到商业应用商店（[Microsoft AppSource](https://appsource.microsoft.com/)和[Azure Marketplace](https://azuremarketplace.microsoft.com/)）的软件即服务（SaaS）产品销售客户订阅。 
 
 这样可以让你的业务脱颖而出并提供给客户解决其特定业务需求的软件捆绑包。 可以为这些市场 SaaS 产品管理许可证和订阅，就像为 Microsoft 产品管理一样。
 
-To learn how partners in the CSP program can use the commercial marketplace, see the [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).
+若要了解 CSP 计划中的合作伙伴如何使用商业应用商店，请参阅[云解决方案提供商的商业市场概述](csp-commercial-marketplace-overview.md)。
 
-Or, to learn about the different role of ISVs in the commercial marketplace, see [Marketplace FAQs](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide).
+或者，若要了解商用 marketplace 中 Isv 的不同角色，请参阅[Marketplace 常见问题解答](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)。

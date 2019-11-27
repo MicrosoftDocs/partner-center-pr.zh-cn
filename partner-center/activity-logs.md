@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to view and export activity logs to gain insight on customer account transactions and other customer-related partner management activities.
+description: 了解如何查看和导出活动日志，以获取有关客户帐户交易以及其他客户相关合作伙伴管理活动的见解。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma

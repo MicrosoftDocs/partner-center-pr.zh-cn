@@ -16,28 +16,28 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384597"
 ---
-# <a name="company-tax-information"></a>Company tax information
+# <a name="company-tax-information"></a>公司税务信息
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 
-适用于企业的 Windows 应用商店购买的税收由你的企业地址确定。 Businesses in some countries can [provide their value-added tax (VAT) number](#submit-vat-id-number) or local equivalent.
+适用于企业的 Windows 应用商店购买的税收由你的企业地址确定。 某些国家/地区的企业可以[提供其增值税务（VAT）号码](#submit-vat-id-number)或当地等价物。
 
 ### <a name="add-your-vat-id"></a>添加增值税 ID
 
-You must be a global admin, billing admin, or admin agent to  edit the billing profile.
+只有全局管理员、帐单管理员或管理代理才能编辑计费配置文件。
 
-1.  From the **Partner Center dashboard** go to  **Settings** and then select **Billing profile**.
+1.  从**合作伙伴中心仪表板**中转到 "**设置**"，然后选择 "**计费配置文件**"。
 2.  在“财经数据”部分中，选择“更新”。
-3.  In the **Company Tax ID** field, enter your VAT ID number.
+3.  在 "**公司税务 id** " 字段中，输入你的 VAT id 号。
 
-## <a name="submit-vat-id-number"></a>Submit VAT ID number
+## <a name="submit-vat-id-number"></a>提交 VAT ID 号
 
-If applicable, follow these steps to send Microsoft your value-added tax (VAT) ID number:
+如果适用，请按照以下步骤向 Microsoft 发送增值税（VAT） ID 号：
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Partner billing profile** on the page menu.
-4. In the **Financial data** section, choose **Update**.
-5. For **Company Tax ID**, specify your VAT ID number.
+1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+2. 在 "**设置**" 菜单（齿轮图标）中，选择 "**合作伙伴设置**"。
+3. 在 "**帐户设置**" 页上，选择 "页面" 菜单上的 "**合作伙伴计费配置文件**"。
+4. 在 "**财务数据**" 部分中，选择 "**更新**"。
+5. 对于 "**公司税务 id**"，请指定 VAT id 号。

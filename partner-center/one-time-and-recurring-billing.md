@@ -1,11 +1,11 @@
 ---
-title: Billing for one-time and select recurring charges | Partner Center
+title: 单时间计费，并选择定期收费 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-Description: Information on one-time billing in advance for a preset term (monthly and annual subscriptions), and billing for select recurring charges (for applicable Microsoft and third-party ISV products) in Partner Center.
+Description: 针对预设术语（每月和每年订阅）提前一次计费的信息，以及在合作伙伴中心选择定期收费（适用于 Microsoft 和第三方 ISV 产品）的计费。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, one-time, recurring, purchases, charges, isv
+keywords: 计费，一次性，定期，购买，收费，isv
 ms.localizationpriority: medium
 ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -19,38 +19,38 @@ ms.locfileid: "74389685"
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-This topic describes the billing experience for **one-time and select recurring charges** for Microsoft and third-party independent software vendor (ISV) products. 
+本主题介绍一次计费体验，并为 Microsoft 和第三方独立软件供应商（ISV）产品**选择定期收费**。 
 
-**One-time billing** is when you purchase software subscriptions and Azure reservations in advance for a preset term. You can purchase for one-year or three-year terms. You're then billed for the entire cost in a one-time lump sum.
+**一次性计费**是为预设的条款提前购买软件订阅和 Azure 预订。 你可以购买一年或三年的条款。 然后，将按一次性总计对整个成本计费。
 
-Billing for one-time and select recurring charges applies to the following types of purchases:
+一次性计费，并选择定期收费，适用于以下购买类型：
 
-- [License-based and usage-based subscriptions](#license-based-and-usage-based-subscription-charges)
-- [Microsoft and third-party ISV products](#microsoft-and-third-party-isv-product-charges)
+- [基于许可证和基于使用情况的订阅](#license-based-and-usage-based-subscription-charges)
+- [Microsoft 和第三方 ISV 产品](#microsoft-and-third-party-isv-product-charges)
 
-## <a name="license-based-and-usage-based-subscription-charges"></a>License-based and usage-based subscription charges
+## <a name="license-based-and-usage-based-subscription-charges"></a>基于许可证和基于使用情况的订阅费用
 
 > [!IMPORTANT]
-> The billing experience for recurring charges of [**license-based subscriptions**](license-based-billing.md) and [**usage-based subscriptions**](usage-based-billing.md) remains the same.
+> [**基于许可证的订阅**](license-based-billing.md)和[**基于使用情况的订阅**](usage-based-billing.md)的定期收费的计费体验保持不变。
 
-**Recurring charges** for subscriptions (including **license-based and usage-based subscriptions**) are issued for all products from the [**online services catalog**](https://partner.microsoft.com/commerce/preferredoffers/list). Some examples include Office 365, Microsoft 365, Azure Active Directory (Azure AD), Azure (pay-as-you-go), Dynamics 365, and PowerBI Pro.
+订阅的**定期费用**（包括**基于许可证和基于使用情况的订阅**）是针对[**联机服务目录**](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有产品颁发的。 一些示例包括 Office 365、Microsoft 365、Azure Active Directory （Azure AD）、Azure （即用即付）、Dynamics 365 和 PowerBI Pro。
 
-For applicable subscription charges, the **billing date** is the date you selected when you created your Partner Center account. The **billing period** is the month prior to your billing date.
+对于适用的订阅费用，**计费日期**是你创建合作伙伴中心帐户时选择的日期。 **计费周期**是在计费日期之前的月份。
 
-The **billing currency** is the currency of the country or region in which you're located. 例如，如果你的公司位于英国，我们将按英国英镑 (GBP) 向你收费。 如果你的公司位于印度，我们将按印度卢比 (INR) 向你收费。
+**计费货币**是所在国家或地区的货币。 例如，如果你的公司位于英国，我们将按英国英镑 (GBP) 向你收费。 如果你的公司位于印度，我们将按印度卢比 (INR) 向你收费。
 
-Current **billing activity** is *not available* for these types of charges.
+当前**计费活动**不适*用于这些*费用类型。
 
-## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft and third-party ISV product charges
+## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft 和第三方 ISV 产品收费
 
-**Recurring charges** and **one-time charges** are issued for **Microsoft and third-party ISV products**. Applicable products include all SaaS subscriptions, Azure reservations, and perpetual and subscription-based software products offered by Microsoft and third-party ISVs. See available products in the Marketplace. Examples include SUSE Linux software (software subscriptions), Windows Server 2019 Essentials (perpetual software), and Azure ISV SaaS product subscriptions.
+为**Microsoft 和第三方 ISV 产品**颁发**定期收费**和**一次性费用**。 适用的产品包括所有 SaaS 订阅、Azure 预订以及 Microsoft 和第三方 Isv 提供的基于订阅的永久性软件产品。 请参阅 Marketplace 中的可用产品。 示例包括 SUSE Linux 软件（软件订阅）、Windows Server 2019 Essentials （永久性软件）和 Azure ISV SaaS 产品订阅。
 
-For applicable product charges, the **billing date** is the 8th day of each month. The **billing period** starts on the first day of the calendar month and ends on the last day of the calendar month. Any transactions you make between May 1 and May 31, 2019 will appear on your invoice June 8. 你在 2019 年 6 月 1 日到 6 月 30 日之间进行的任何交易都将显示在 7 月 8 日的发票上。 我们可能还会在同一张发票上向你收取定期和一次性购买的费用。
+对于适用的产品收费，**计费日期**是每个月的第8天。 **计费周期**从日历月的第一天开始，到日历月的最后一天结束。 您在5月1日和5月 31 2019 日之间进行的任何交易都将在6月8日显示。 你在 2019 年 6 月 1 日到 6 月 30 日之间进行的任何交易都将显示在 7 月 8 日的发票上。 我们可能还会在同一张发票上向你收取定期和一次性购买的费用。
 
-The **billing currency** is the currency of the country or region in which your customer is located. You’ll receive separate invoices and reconciliation files in the currency of the country or region of each customer that you sold to during the billing period.
+**计费货币**是客户所在国家或地区的货币。 你将以计费期间销售到的每个客户的国家/地区的货币接收单独的发票和帐文件。
 
-Current **billing activity** is *available* for these types of charges. You can check your account balance and bill at any time in Partner Center. Note that your final invoice amount may different from what you can see on your account during the billing period. This is because your invoice will include taxes and any other applicable charges and credits.
+当前**计费活动***适用*于这些类型的费用。 你可以在合作伙伴中心随时检查你的帐户余额和帐单。 请注意，您的最终发票金额可能不同于您在计费期间可以看到的帐户。 这是因为您的发票将包括税款以及任何其他适用的费用和信用额度。
 
 ## <a name="common-billing-scenarios"></a>常见计费方案
 
-For detailed explanations of common billing scenarios for these types of charges, see [Common billing scenarios for one-time and recurring purchases](common-billing-scenarios-onetime-recurring.md).
+有关这些类型的费用的常见计费方案的详细说明，请参阅[一次性和定期购买的常见计费方案](common-billing-scenarios-onetime-recurring.md)。

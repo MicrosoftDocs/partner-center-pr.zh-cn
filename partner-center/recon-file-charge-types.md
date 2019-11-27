@@ -1,8 +1,8 @@
 ---
-title: Reconciliation file charge types | Partner Center
+title: 对帐文件费用类型 |合作伙伴中心
 ms.topic: article
 ms.date: 08/26/2019
-description: Types of charges (license-based, usage-based and one-time), credits and discounts on Partner Center reconciliation files.
+description: 合作伙伴中心对帐文件的费用类型（基于许可证、基于使用情况的和一次性）、信用额度和折扣。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
@@ -14,86 +14,86 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389805"
 ---
-# <a name="understand-charge-types"></a>Understand charge types
+# <a name="understand-charge-types"></a>了解费用类型
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
-This topic describes the mappings between an invoice section and associated charge types that might be on your reconciliation file. Your invoice provides a summary of charges. Your reconciliation file provides a detailed breakdown of line-item transactions, including charge types. For more information on reconciliation files, see [how to use reconciliation files](use-the-reconciliation-files.md).
+本主题介绍了发票部分与可能在对帐文件上的相关费用类型之间的映射。 发票提供费用的摘要。 你的对帐文件提供行项事务的详细细分，包括费用类型。 有关对帐文件的详细信息，请参阅[如何使用协调文件](use-the-reconciliation-files.md)。
 
-Both [usage-based reconciliation files](usage-based-recon-files.md) and [license-based reconciliation files](license-based-recon-files.md) only show usage-related transactions and charges (units consumed and related charges).
+[基于使用情况的对帐文件](usage-based-recon-files.md)和[基于许可证的对帐文件](license-based-recon-files.md)只显示与使用相关的事务和费用（单位消耗和相关费用）。
 
 > [!NOTE]
-> One-off credits, discounts or refunds that appear on the invoice as **Adjustments** are not shown in the reconciliation file.
+> 在发票上作为**调整**显示的一次性信用额度、折扣或退款不显示在对帐文件中。
 
-## <a name="map-charge-types-to-invoice-charges"></a>Map charge types to invoice charges
+## <a name="map-charge-types-to-invoice-charges"></a>将费用类型映射到发票费用
 
-To cross-reference charge amounts between your invoice and reconciliation file, use the filter options in Microsoft Excel. Filter by charge types on your reconciliation file to map the invoice charges to a set of charge breakdowns on the reconciliation file.
+若要在发票和对帐文件之间交叉引用费用量，请使用 Microsoft Excel 中的筛选器选项。 按对帐文件上的费用类型进行筛选，以将发票费用映射到对帐文件上的一组费用细分。
 
 ## <a name="license-based-charges"></a>基于许可证的费用
 
-To map these license-based charges to your invoice, sum the **Amount** column from the license-based file.
+若要将这些基于许可证的费用映射到发票，请对基于许可证的文件中的 "**金额**" 列求和。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
-| 激活费用 | The amount charged to the customer when they use the subscription after purchase. |
-| 取消费用 | Prorated charges refunded to the customer when associated seats are changed. |
-| 周期费用 | Periodic charges for a subscription. |
-| 周期实例按比例计算 | Prorated charges assessed from the customer when associated seats are changed. |
-| 按比例计算取消时的费用 | Prorated refund for unused portion of service upon cancellation. |
-| 按比例计算购买时的费用 | The charge type for a subscription when using annual billing. |
-| 购买费用 | The charge type for a subscription when using monthly billing. |
-| 按比例计算续订时的费用 | Prorated fees upon subscription renewal. |
+| 激活费用 | 客户在购买后使用订阅时向客户收取的费用。 |
+| 取消费用 | 当关联的座位发生变化时，将向客户退还按比例计费。 |
+| 周期费用 | 订阅的定期收费。 |
+| 周期实例按比例计算 | 相关座位发生变化时，从客户评估的按比例计费。 |
+| 按比例计算取消时的费用 | 取消时，未使用的服务部分按比例退款。 |
+| 按比例计算购买时的费用 | 使用年度计费时的订阅费用类型。 |
+| 购买费用 | 使用月度帐单时的订阅费用类型。 |
+| 按比例计算续订时的费用 | 订阅续订时按比例计费。 |
 | 续订费用 | 续订订阅费用 |
-| 按比例计算激活时的费用 | >Prorated fees from activation until end of billing period. |
+| 按比例计算激活时的费用 | 从激活 > 按比例计费，直到计费期结束。 |
 
-## <a name="one-time-charges"></a>One-time charges
+## <a name="one-time-charges"></a>一次性费用
 
-To map these one-time charges to your invoice, sum the **Amount** column from the license-based file.
+若要将这些一次性费用映射到你的发票，请对基于许可证的文件中的 "**金额**" 列求和。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
-| 新 | Used when a new purchase is created. |
-| addQuantity | Used in both the refund of the original purchase and the new quantity after an increase. |
-| removeQuantity | Used in both the refund of the original purchase and the new quantity after a decrease. |
-| “取消” | Used when a subscription is cancelled. |
-| 转换 | Used when a license is upgraded but the number of seats remains unchanged. |
+| 新增 | 创建新购买时使用。 |
+| addQuantity | 用于原始购买的退款和增加后的新数量。 |
+| removeQuantity | 用于原始购买的退款和减少后的新数量。 |
+| 取消 | 取消订阅时使用。 |
+| 转换 | 升级许可证时使用，但座位数保持不变。 |
 
 ## <a name="usage-charges"></a>使用情况费用
 
-To map these usage charges to your invoice, sum the **PretaxCharges** column from the usage-based file.
+若要将这些用量费用映射到发票，请将**PretaxCharges**列与基于使用情况的文件进行求和。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
-| 评估取消时的使用费用 | Access usage fee upon cancellation for unpaid usage during the current billing period. |
-| 评估当前周期的使用费用 | Access usage fee for the current billing period. |
+| 评估取消时的使用费用 | 在当前计费周期内对未支付的使用情况取消时，访问使用费。 |
+| 评估当前周期的使用费用 | 当前计费周期的访问费。 |
 
 ### <a name="credits"></a>退款额
 
-To map these credits to your invoice:
+若要将这些信用额度映射到发票：
 
-- Sum the **TotalForCustomer** from the license-based file.
-- Sum the **PostTaxTotal** column from the usage-based file.
+- 对基于许可证的文件中的**TotalForCustomer**求和。
+- 在基于使用情况的文件中对**PostTaxTotal**列求和。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
-| 偏移行项 | Partial or whole refund to a line item, including taxes. |
+| 偏移行项 | 对行项的部分或全部退款，包括税金。 |
 
 ### <a name="usage-based-discounts"></a>基于使用情况的折扣
 
-To map these usage-based discounts to your invoice, sum the **PretaxCharges** column from the usage-based file.
+若要将基于使用情况的折扣映射到发票，请对基于使用情况的文件中的**PretaxCharges**列求和。
 
-| Charge description (ChargeType column in reconciliation file) | Charge explanation |
+| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
-| 激活折扣 | Discount applied when subscription activated. |
-| 周期折扣 | Discount applied on periodic charges. |
-| 续订折扣 | Discount applied when subscription renewed. |
-| 取消折扣 | Charges applied when discounts cancelled. |
+| 激活折扣 | 激活订阅后应用的折扣。 |
+| 周期折扣 | 应用于定期费用的折扣。 |
+| 续订折扣 | 续订订阅时应用的折扣。 |
+| 取消折扣 | 取消折扣后应用的费用。 |
 
 ### <a name="license-based-discounts"></a>基于许可证的折扣
 
-To map license-based discounts to your invoice, sum the **TotalOtherDiscount** column from the license-based file.
+若要将基于许可证的折扣映射到发票，请对基于许可证的文件中的**TotalOtherDiscount**列求和。
 
-*License-based discounts may be applied to multiple charge types.*
+*基于许可证的折扣可以应用于多种费用类型。*

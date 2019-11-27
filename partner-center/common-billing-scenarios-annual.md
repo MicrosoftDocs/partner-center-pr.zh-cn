@@ -2,11 +2,11 @@
 title: 常见计费方案 | 合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for annual billing (such as adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions).
+description: 合作伙伴中心的常见计费方案（如添加新订阅、在计费日期之前添加许可证、更改许可证数量，以及暂停和重新激活订阅）。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
 ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389625"
 ---
-# <a name="annual-billing-scenarios"></a>Annual billing scenarios
+# <a name="annual-billing-scenarios"></a>年度计费方案
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use annual billing in Partner Center.
+如果你在合作伙伴中心使用年度计费，则这些示例[通用计费方案](common-billing-scenarios.md)适用。
 
-## <a name="new-annual-subscription"></a>New annual subscription
+## <a name="new-annual-subscription"></a>新年度订阅
 
 你的计费日期是每个月的 15 日。 1 月 13 日，你以一个许可证每月 4 美元的价格购买了新订阅，并选择按年计费。 1 月 15 日的基于许可证的对帐文件将包含以下计费行：
 
@@ -27,7 +27,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|按比例计算购买时的费用|48.00|1|48.00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Add license after subscription anniversary date but before billing date
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>在订阅周年日之后但在计费日期之前添加许可证
 
 你于 2017 年 2 月 11 日以每年 211.20 美元的价格购买了具有一个许可证的新订阅。 你的订阅周年日期设置为每个月的 11 号。 Microsoft 计费系统会创建以下计费行：
 
@@ -41,7 +41,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 在你的订阅周年日期（2017 年 3 月 11 日），Microsoft 计费系统会为 2017 年 2 月 12 日增加的许可证创建以下计费行：
 
-- $211.20 credit for period 2/11/17 – 2/10/18.
+- $211.20 期2/11/17 –2/10/18 信用额度。
 - 2017 年 2 月 11 日当天，对于 1 个许可证，每许可证按比例计算的费用为 0.58 美元。
 - 2017 年 2 月 12 日至 2017 年 3 月 10 日期间，对于 2 个许可证，每许可证按比例计算的费用为 15.62 美元。
 - 2017 年 3 月 11 日至 2018 年 2 月 10 日期间，对于 2 个许可证，每许可证按比例计算的费用为 195.00 美元。
@@ -59,7 +59,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 在 2018 年 2 月 11 日，订阅又续订了 12 个月。
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>更改许可证数量
 
 你的计费日期是每个月的 15 日。 1 月 13 日，你以一个许可证每月 4 美元的价格购买了新订阅，并选择按年计费。 1 月 15 日的基于许可证的对帐文件将包含以下计费行：
 
@@ -72,7 +72,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |费用开始日期 |费用结束日期 |费用类型 |单价 |数量 |金额 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|周期实例按比例计算|-48.00|1|-48.00
-1/13/2018|1/31/2018|周期实例按比例计算|2.47|1|2.47
+1/13/2018|2018/1/31|周期实例按比例计算|2.47|1|2.47
 2/1/2018|1/12/2019|周期实例按比例计算|44.98|2|89.96
 
 每年价格为 48.00，这相当于每日价格为 0.13 (48.00/365)。
@@ -87,7 +87,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 因此，单价 = 44.98 (346x0.13x2)
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>暂停30天前
 
 你的计费日期是每个月的 15 日。 1 月 13 日，你以一个许可证每月 4 美元的价格购买了新订阅，并选择按年计费。 1 月 15 日的基于许可证的对帐文件将包含以下计费行：
 
@@ -101,7 +101,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|取消费用|-48.00|1|-48.00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>30天后挂起
 
 你的计费日期是每个月的 15 日。 1 月 13 日，你以一个许可证每月 4 美元的价格购买了新订阅，并选择按年计费。 1 月 15 日的基于许可证的对帐文件将包含以下计费行：
 
@@ -124,7 +124,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 因此，单价 = 41.34 (318x0.13x1)。 因为这是退款，所以单价是 -41.34。
 
-## <a name="suspend-and-reactivate"></a>Suspend and reactivate
+## <a name="suspend-and-reactivate"></a>挂起并重新激活
 
 你的计费日期是每个月的 15 日。 1 月 13 日，你以一个许可证每月 4 美元的价格购买了新订阅，并选择按年计费。 1 月 15 日的基于许可证的对帐文件将包含以下计费行：
 

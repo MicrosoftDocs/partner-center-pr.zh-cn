@@ -1,13 +1,13 @@
 ---
-title: Taxes and tax exemptions | Partner Center
+title: 税收和税款例外 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Understand tax responsibilities and submit tax exemptions for your CSP sales.
+description: 了解税收责任，并为 CSP 销售提交税款例外。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
-keywords: tax, tax exemption, vat, reseller, billing
+keywords: 税金，免税，vat，分销商，计费
 ms.author: evansma
 ms.localizationpriority: medium
 ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
@@ -19,84 +19,84 @@ ms.locfileid: "74384874"
 ---
 # <a name="taxes-and-tax-exemptions"></a>税和免税
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
-The Cloud Solution Provider (CSP) program is a sales channel focused on partner resale of products. As a result, Microsoft is not always required to charge sales tax on partner invoices. The rules vary by country and/or region. You can review [country-specific and region-specific details for tax exemptions](#country-and-region-tax-details).
+云解决方案提供商（CSP）计划是一个面向产品合作伙伴转售的销售渠道。 因此，Microsoft 不会始终需要为合作伙伴发票支付销售税。 这些规则依国家和/或地区的不同而异。 您可以查看[特定于国家/地区的特定于国家/地区的详细信息](#country-and-region-tax-details)。
 
-Partners should work with their tax advisor to [file tax exemptions](#file-tax-exemptions) based on their locations and where their customers are based.
+合作伙伴应与其税务顾问合作，基于其位置和客户所基于的位置来进行[税务豁免](#file-tax-exemptions)。
 
-## <a name="country-and-region-tax-details"></a>Country and region tax details
+## <a name="country-and-region-tax-details"></a>国家和地区税务详细信息
 
-Specific tax-related information is available for the following countries and regions: [Canada](#canada), [the European Union](#european-union), [South Africa](#south-africa), [Turkey](#turkey), and [the United States](#united-states). For Taiwan and Korea, see [tax receipts details](#tax-receipts-and-daf).
+以下国家和地区提供特定的税务相关信息：[加拿大](#canada)、[欧盟](#european-union)、[南非](#south-africa)、[土耳其](#turkey)和[美国](#united-states)。 对于台湾和韩国，请参阅[税务收据详细信息](#tax-receipts-and-daf)。
 
-If you're in another country or region that charges taxes, see [the information for other regions](#other-regions).
+如果你位于其他国家/地区，则请参阅[其他地区的信息](#other-regions)。
 
-For additional questions, [request support in Partner Center](#support).
+有关其他问题，请[在合作伙伴中心请求支持](#support)。
 
 ### <a name="canada"></a>加拿大
 
-大多数经销商都不会免除 GST/HST/QST。 Consult your tax advisor to determine whether you are qualified for exemption, and what documentation you should provide to Microsoft.
+大多数经销商都不会免除 GST/HST/QST。 请咨询你的税务顾问，确定你是否符合豁免条件，以及你应向 Microsoft 提供哪些文档。
 
-For a BC PST Exemption, file a tax exemption as described. 提供 BC PST#，或填写完整并已签名的“一般免税证书”。
+对于 BC PST 例外，如所述，将免税视为豁免。 提供 BC PST#，或填写完整并已签名的“一般免税证书”。
 
 ### <a name="european-union"></a>欧盟
 
-在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 The VAT number must be accepted as valid.
+在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 增值税编号必须接受为有效。
 
-Microsoft does not support credit and re-bill. Before you sell any subscriptions, you must [register your VAT ID number](organization-tax-info.md) in Partner Center.
+Microsoft 不支持信用和重新帐单。 在销售任何订阅之前，必须在合作伙伴中心[注册 VAT ID 号](organization-tax-info.md)。
 
 ### <a name="south-africa"></a>南非
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in South Africa. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft 现在将标准 VAT 应用于南非合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理，则必须通过[向 Microsoft 发送 VAT ID 号](organization-tax-info.md)来更新合作伙伴计费配置文件。
 
 ### <a name="turkey"></a>土耳其
 
-Microsoft now applies the standard VAT on digital content and services purchased by partners in Turkey. To exclude the VAT from your invoices and manage this yourself, you must update your partner billing profile by [sending Microsoft your VAT ID number](organization-tax-info.md).
+Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理，则必须通过[向 Microsoft 发送 VAT ID 号](organization-tax-info.md)来更新合作伙伴计费配置文件。
 
 ### <a name="united-states"></a>美国
 
 美国的所有经销商都需要在接受 Microsoft 经销商协议后 30 天内提供免增值税文档。 每个州都具有不同的转售免税证书。 请与税务顾问合作，确定与你的合法地址和注册州相关的内容。
 
-This may include resale exemption certificates that work across multiple states such as the *Streamline Sales* and *Use Tax Agreement Certificate of Exemption* or the *MTC Uniform Sales & Use Tax Exemption Certificate*.
+这可能包括经销豁免证书，这些证书可跨多个状态进行，如 "*优化销售*" 和 "*使用豁免的税务协议证书*" 或 " *MTC 统一销售 & 使用免税证书*"。
 
 ### <a name="other-regions"></a>其他区域
 
-If you are in another country or region that charges taxes, [request support in Partner Center](#support) for your questions.
+如果你所在的国家/地区为税收，请在[合作伙伴中心请求支持](#support)，以解决你的问题。
 
-## <a name="tax-receipts-and-daf"></a>Tax receipts and DAF
+## <a name="tax-receipts-and-daf"></a>税务收据和 DAF
 
-税收收据（适用于台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。
+税收收据（适用于中国台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。
 
 ## <a name="file-tax-exemptions"></a>申报免税
 
-Before you file a tax exemption, find your **Microsoft ID** and **MPN ID** to include in the support ticket:
+在将免税提交给你之前，请先查找**MICROSOFT id** ，并将**MPN id**添加到支持票证中：
 
-1. Sign in to [the Partner Center dashboard](https://partner.microsoft.com/dashboard/).
-2. In the **Settings** menu (gear icon), choose **Partner Settings**.
-3. On the **Account settings** page, choose **Organization profile** in the dashboard menu.
-4. Note your **Microsoft ID**.
-5. On the same page, choose **Partner profile** in the dashboard menu.
-6. Note your **MPN ID**.
+1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+2. 在 "**设置**" 菜单（齿轮图标）中，选择 "**合作伙伴设置**"。
+3. 在 "**帐户设置**" 页上，在 "仪表板" 菜单中选择 "**组织配置文件**"。
+4. 请注意你的**MICROSOFT ID**。
+5. 在同一页上，在 "仪表板" 菜单中选择 "**合作伙伴配置文件**"。
+6. 记下你的**MPN ID**。
 
-Then, create a support ticket for Microsoft with your tax exemption information:
+然后，使用免税信息为 Microsoft 创建支持票证：
 
-1. In the dashboard menu, under **Support**, choose **Partner support requests**.
-2. On the **Partner request** page, choose **New request**. (You can also view your open and closed support requests later on this page.)
-3. On the **Basics** step, under **CSP - billing and payments**, choose **Select an issue type** and select **Tax exemption request**.
-4. On the **Solutions** step, under **Do you need more help?** , choose **Yes**.
-5. On the **Details** step, fill out the **Issue details** form. Be sure to:
+1. 在 "仪表板" 菜单的 "**支持**" 下，选择 "**合作伙伴支持请求**"。
+2. 在 "**合作伙伴请求**" 页上，选择 "**新建请求**"。 （你还可以在此页面上查看打开和关闭的支持请求。）
+3. 在 "**基本**" 步骤的 " **CSP-计费和付款**" 下，选择 "**选择问题类型**"，然后选择 "**免税请求**"。
+4. 在**解决方案**步骤中，在 "**是否需要更多帮助？** " 下，选择 **"是"** 。
+5. 在**详细信息**步骤中，填写 "**问题详细信息**" 窗体。 务必：
 
-    - Fill out all required fields.
-    - Include your **Microsoft ID** and **MPN ID** in the **Details** field.
-    - Include any supporting documentation to your ticket in the attachments field.
+    - 填写所有必填字段。
+    - 在**详细信息**字段中包含**Microsoft ID**和**MPN id** 。
+    - 将所有支持文档包含到 "附件" 字段中的票证。
 
-6. Choose **Submit** to send in your support request. Microsoft will email you back for more information.
+6. 选择 "**提交**" 以在支持请求中发送。 Microsoft 将向你发送电子邮件以获取详细信息。
 
 ## <a name="support"></a>支持
 
-For other questions about tax exemptions and refunds, request support in Partner Center. 请允许 Microsoft 在两周内联系你并解决问题。
+有关税收豁免和退款的其他问题，请在合作伙伴中心请求支持。 请允许 Microsoft 在两周内联系你并解决问题。
 
-For other tax-related documentation needs, please also request service in Partner Center.
+对于其他与税务相关的文档需求，请在合作伙伴中心请求服务。

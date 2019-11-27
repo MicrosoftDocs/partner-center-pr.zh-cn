@@ -1,13 +1,13 @@
 ---
-title: Billing for commercial marketplace products | Partner Center
+title: 商业应用商店产品的帐单 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how billing works for ISV SaaS products or subscriptions purchased for customers from the commercial marketplace within Partner Center.
+description: 了解如何针对从合作伙伴中心内的商业市场为客户购买的 ISV SaaS 产品或订阅付费。
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, products, purchases, Marketplace, third party, ISV, billing, invoices, reconciliation, recon file
+keywords: 订阅，产品，购买，Marketplace，第三方，ISV，计费，发票，协调，侦测文件
 ms.localizationpriority: medium
 ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -16,98 +16,98 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384914"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>Billing for commercial marketplace products
+# <a name="billing-for-commercial-marketplace-products"></a>商业应用商店产品的帐单
 
 **适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**Appropriate roles**
+**适当的角色**
 
 - 全局管理员
 - 帐单管理员
 
-As a partner in the CSP program, you can use Partner Center to purchase license-based SaaS products from ISV publishers in the commercial marketplace. After you do so, you can access a bill for these types of purchases. The billing period starts on the first day of the calendar month and ends on the last day of the calendar month. Invoices are made available on the 8th day of the following month.
+作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心从商业应用商店中的 ISV 出版商那里购买基于许可证的 SaaS 产品。 完成此操作后，你可以访问这些类型采购的帐单。 计费周期从日历月的第一天开始，到日历月的最后一天结束。 发票在下个月的第8天可用。
 
-You can access invoices from either the Partner Center [dashboard](https://partner.microsoft.com/dashboard/) or by using [Partner Center APIs](https://docs.microsoft.com/partner-center/develop/).
+你可以通过合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/)或使用[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/)访问发票。
 
-Partners in the CSP program are billed for ISV commercial marketplace solutions purchased for a customer when they purchase those products from either Partner Center or from the Azure portal (using the customer's prior, CSP-purchased Azure tenant).
+CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解决方案收费，当他们从合作伙伴中心或从 Azure 门户购买这些产品（使用客户以前的 CSP 购买的 Azure 租户）。
 
 >[!NOTE]
->If customers use their own Azure AD tenant (not one purchased from a partner in the CSP program), customers can also choose to purchase their own ISV SaaS solution directly from ([Microsoft AppSource](https://appsource.microsoft.com/) or [Azure Marketplace](https://azuremarketplace.microsoft.com/)). If they do so, they will receive their own bill directly from Microsoft. Likewise, if a partner in the CSP program sells an Azure AD tenant to the customer and grants the customer [role-based access](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles) to that tenant (assigning any role to the customer besides **Reader**), that customer can also purchase commercial marketplace offers without prior approval or notification to the CSP partner. In these cases, Microsoft will not directly notify partners in the CSP program about purchases made by their customers. However, Microsoft does offer an optional [Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log) mechanism that you can use to set alerts or notifications about activity on an Azure subscription.
+>如果客户使用其自己的 Azure AD 租户（不是从 CSP 计划中的合作伙伴购买的租户），则客户还可以选择直接从（[Microsoft AppSource](https://appsource.microsoft.com/)或[Azure Marketplace](https://azuremarketplace.microsoft.com/)）购买自己的 ISV SaaS 解决方案。 如果他们这样做，他们将直接从 Microsoft 接收自己的帐单。 同样，如果 CSP 计划中的合作伙伴向客户销售 Azure AD 租户，并向客户授予对该租户的[基于角色的访问权限](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)（除了**读者**以外向客户分配任何角色），该客户也可以购买商业 marketplace 产品/服务，而不需要事先批准或通知 CSP 合作伙伴。 在这种情况下，Microsoft 不会直接在 CSP 计划中向合作伙伴通知客户的购买情况。 但是，Microsoft 提供了一个可选的[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)机制，可用于设置有关 Azure 订阅上的活动的警报或通知。
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>Access billing information for commercial marketplace products
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>访问商业 marketplace 产品的计费信息
 
-当某份发票可供查看时，公司的全局管理员或计费管理员会收到电子邮件。 To access the latest invoice and reconciliation file for commercial marketplace product purchases:
+当某份发票可供查看时，公司的全局管理员或计费管理员会收到电子邮件。 若要访问商业 marketplace 产品购买的最新发票和对帐文件，请执行以下操作：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/)。
 
 2. 在“合作伙伴中心”菜单中，选择“计费”。 
 
-    You will see two tabs at the top of the Billing page: **Recurring** and **Recurring and one-time purchases**. Each tab lets you access invoice and reconciliation (recon) files for different marketplace products:
+    你将在帐单页的顶部看到两个选项卡：**定期**、**定期和一次性购买**。 每个选项卡允许您访问不同 marketplace 产品的发票和对帐（侦测）文件：
 
-    - **Recurring** tab: Shows invoice and reconciliation files for subscriptions related to Office 365, Microsoft 365, Dynamics 365, Azure Active Directory, PowerBI Pro, and Microsoft Azure.
+    - "**定期**" 选项卡：显示与 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、PowerBI Pro 和 Microsoft Azure 相关的订阅的发票和对帐文件。
 
-    - **Recurring and one-time purchases** tab: Shows invoice and reconciliation files for Azure plan, Azure reservations, software and commercial marketplace products.
+    - **定期和一次性购买**选项卡：显示 azure 计划、azure 预订、软件和商业应用商店产品的发票和对帐文件。
   
-3. Select the **Recurring and one-time purchases** tab. If you purchased subscriptions for a customer in a different currency, you will see a tab for each currency. You can do a few things fr:om this page:
+3. 选择 "**定期购买" 和 "一次性购买**" 选项卡。如果为客户购买了不同货币的订阅，则会看到每个货币的选项卡。 你可以执行以下操作： om 此页：
 
-    - To see the latest invoice and reconciliation file, select **Invoice** or **Reconciliation file**. (If you wanted to, you can also access the latest invoice and recon file data using [Partner Center APIs](https://docs.microsoft.com/partner-center/develop/).
+    - 若要查看最新的发票和协调文件，请选择 "**发票**" 或 "**对帐文件**"。 （如果需要，还可以使用[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/)访问最新的发票和侦测文件数据。
 
-    - To see earlier invoices and recon files, expand the **Billing history** row below.
+    - 若要查看以前的发票和侦测文件，请展开下面的 "**帐单历史记录**" 行。
 
-    - To check your estimated account balance or bill at any time based on the latest account activity, select a link under the **Estimates** heading.  
+    - 若要根据最新的帐户活动，随时查看估计的帐户余额或帐单，请在 "**估计**" 标题下选择一个链接。  
 
     >[!NOTE]
-    > When we post your bill on the 8th day of the month, it will include taxes and any other applicable charges and credits. This means the final amount due might differ from what you see during the billing period.
+    > 当我们在每月的第8天发布帐单时，它将包含税金以及任何其他适用的费用和信用额度。 这意味着最终的应付金额可能不同于计费期间的显示内容。
 
-## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>More about invoices and recon files for commercial marketplace products
+## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>有关商业 marketplace 产品的发票和侦测文件的详细信息
 
-This section offers more information about invoice and reconciliation files for commercial marketplace SaaS subscriptions purchased for customers from third-party ISV publishers.
+本部分提供了有关为第三方 ISV 发布者购买的商业 marketplace SaaS 订阅的发票和对帐文件的详细信息。
 
-When you select **Recurring and one-time purchases** from the **Billing** option in the Partner Center menu, you gain access to invoices and reconciliation files for charges related to both Microsoft (first-party) and ISV (third-party) purchases. These purchases may be associated with:
+当你从 "合作伙伴中心" 菜单中的 "**计费**" 选项中选择 "**定期购买" 和 "一次性购买**" 时，你将获得对与 Microsoft （第一方）和 ISV （第三方）购买相关的费用的发票和协调文件的访问权限。 这些购买可能会与相关联：
 
-- SaaS subscriptions (from either Microsoft or ISV publishers)
+- SaaS 订阅（来自 Microsoft 或 ISV 发布者）
 
-- Azure plan
+- Azure 计划
 
 - Azure 预订
 
-- Other subscription-based software (from either Microsoft or ISV publishers)
+- 其他基于订阅的软件（来自 Microsoft 或 ISV 发布者）
 
-Examples of these purchases might include SUSE Linux software (a software subscription) or an Azure ISV SaaS product subscription.
+这些购买的示例可能包括 SUSE Linux 软件（软件订阅）或 Azure ISV SaaS 产品订阅。
 
 >[!NOTE]
-> For more information about how to read invoice and recon files, see also [Billing overview](billing.md).
+> 有关如何读取发票和侦测文件的详细信息，请参阅[帐单概述](billing.md)。
 
-### <a name="tips-on-reading-your-invoice"></a>Tips on reading your invoice
+### <a name="tips-on-reading-your-invoice"></a>阅读发票提示
 
-When you purchase a license-based SaaS product from a third-party ISV publisher, you will only see charges for the license fee on your invoice. This is true even when the ISV's SaaS product uses (or consumes) underlying Azure infrastructure resources. That is because your customer's Azure infrastructure usage charges for an ISV's SaaS product are billed directly to the ISV. (ISVs will see associated Azure consumption charges in their own Azure usage daily-rated invoice reconciliation file.)
+从第三方 ISV 发布商处购买基于许可证的 SaaS 产品时，你只会看到发票上的许可费用收费。 即使 ISV 的 SaaS 产品使用（或使用）底层 Azure 基础结构资源，也是如此。 这是因为，对 isv 的 SaaS 产品的客户的 Azure 基础结构用量收费直接向 ISV 收费。 （Isv 会在其自己的 Azure 使用情况-每日级别的发票对帐文件中看到关联的 Azure 消耗收费。）
 
-Your invoice will contain several pages:
+你的发票将包含多个页面：
 
-- **Page 1 of the invoice:** Contains a summary overview of the CSP program partner's billing details. This includes a summary of charges for the billing period, an invoice number, payment terms (Net 60 days), and billing payment methods to pay by wire or by check.
+- **发票第1页：** 包含 CSP 计划合作伙伴的计费详细信息的摘要概述。 这包括计费周期的费用摘要、发票编号、支付条款（净60天）以及通过线路或支票支付的帐单支付方法。
 
-- **Page 2 (and any subsequent pages) of the invoice:** Details charges for both first-party Microsoft purchases and third-party ISV (license-based) purchases from the commercial marketplace. You can identify ISV license-based purchases by the **Publisher** line beneath each product name. The associated reconciliation file offers more billing details for specific invoice charges.
+- **发票的第2页（以及所有后续页面）：** 从商业性 marketplace 购买第一方 Microsoft 购买和第三方 ISV （基于许可证）的费用。 可以通过每个产品名称下的**发布者**行标识基于 ISV 许可证的购买。 关联的对帐文件为特定发票费用提供更多计费详细信息。
 
-- **Final page of the invoice:** If you were charged for license-based marketplace products from an ISV, this final page will display more details about the ISV publisher's name and address.
+- **发票的最后一页：** 如果你使用 ISV 提供的基于许可证的 marketplace 产品收费，此最后一页将显示有关 ISV 发布者的姓名和地址的详细信息。
 
-### <a name="tips-on-reading-your-reconciliation-file"></a>Tips on reading your reconciliation file
+### <a name="tips-on-reading-your-reconciliation-file"></a>有关读取对帐文件的提示
 
-The **Recurring and one-time purchases** reconciliation file contains several columns with additional details that map to the charges in your invoice. The **PublisherName** column shows whether the purchase is from Microsoft or a third-party ISV publisher.
+**定期和一次性采购**对帐文件包含多个列，其中包含映射到发票中的费用的其他详细信息。 **PublisherName**列显示购买是来自 Microsoft 还是第三方 ISV 发布者。
 
-Some charges in your reconciliation file may appear with a cost of $0. This may be due to an ISV "free trial" offer (usually 30 or 60 days) or a Bring Your Own License offer.
+对帐文件的某些费用可能会显示为 $0。 这可能是由于 ISV "免费试用版" 产品/服务（通常为30或60天）或自带许可提供。
 
-In the case of free trial ISV offers:
+对于免费试用版 ISV，请提供：
 
-- The free trial period covers the cost of the ISV's license-based SaaS product during that time. You will also not be charged for associated Azure infrastructure use of that SaaS product.  If you are using a usage-based ISV offer, however, the free trial does not include the cost of underlying Azure infrastructure usage. In this case, Azure infrastructure usage charges will appear in a separate Azure reconciliation file.
+- 免费试用期涵盖了在此期间 ISV 基于许可证的 SaaS 产品的成本。 对于关联的 Azure 基础结构使用该 SaaS 产品，还不会向你收费。  但是，如果使用基于使用情况的 ISV 产品/服务，则免费试用版不包括基础 Azure 基础结构的使用成本。 在这种情况下，Azure 基础结构使用费用将显示在单独的 Azure 对帐文件中。
 
-- When you purchase and deploy an ISV's free trial-eligible product for your customer, the customer is automatically enrolled in the free trial by the ISV publisher. The free trial period ends automatically after the period defined by the ISV publisher. After the period ends, the customer will be charged. This means the reconciliation file may show two rows for a trial-eligible product: One that tracks the trial period and one that tracks the paid offer (which will display a cost of $0 until after the trial period ends). Once the trial ends, the row showing the paid offer will start to show charges. 
+- 当你为客户购买并部署 ISV 的免费试用版产品时，客户将自动注册到 ISV 发布者的免费试用版。 免费试用期将在 ISV 发布者定义的时间段后自动结束。 该时间段结束后，将向客户收费。 这意味着，对等认证的产品可能会显示两行：一个跟踪试用期的行和一个跟踪付费产品/服务的行（在试用期结束之前，将显示成本为 $0）。 试用期结束后，显示付费产品/服务的行将开始显示费用。 
 
-For more information about what each column represents, see [Use your reconciliation files](use-the-reconciliation-files.md). See also [Types of billing in Partner Center](billing-different-types.md)
+有关每个列代表的内容的详细信息，请参阅[使用对帐文件](use-the-reconciliation-files.md)。 另请参阅[合作伙伴中心的计费类型](billing-different-types.md)
 
 ## <a name="next-steps"></a>后续步骤
 
-- [Manage commercial marketplace products for customers](csp-commercial-marketplace-manage.md)
-- [Learn about support for commercial marketplace products](csp-commercial-marketplace-support.md)
+- [为客户管理商业 marketplace 产品](csp-commercial-marketplace-manage.md)
+- [了解对商业 marketplace 产品的支持](csp-commercial-marketplace-support.md)

@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how partners in the CSP program can use Partner Center to buy, manage, sell, and cancel Azure reserved instances and Server subscriptions for customers.
+description: 了解 CSP 计划中的合作伙伴如何使用合作伙伴中心为客户购买、管理、销售和取消 Azure 保留实例和服务器订阅。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Azure RI, Windows Server, SQL Server, 软件订阅
@@ -19,14 +19,14 @@ ms.locfileid: "74253553"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
 
-With Azure reservations and Server subscriptions (Windows Server and SQL Server subscriptions), partners in the CSP program can better address the fast-growing customer demand for more cost-effective solutions to support highly predictable and persistent cloud workloads. 
+借助 Azure 保留和服务器订阅（Windows Server 和 SQL Server 订阅），CSP 计划中的合作伙伴可以更好地满足快速增长的客户需求，以实现可高度预测性和持久性的更经济高效的解决方案云工作负荷。 
 
-You can now acquire, provision, and manage Azure reservations and Server subscriptions on behalf of commercial customers through Partner Center and the Azure Portal by taking advantage of the Azure Hybrid Benefit. 
+你现在可以通过利用 Azure 混合权益，通过合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure 预订和服务器订阅。 
 
-Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值，最多可节省 40% 的虚拟机费用。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 Depending on the edition, you can convert or re-use your licenses to run Windows Server virtual machines in Azure and pay a lower base compute rate (Linux virtual machine rates, e.g.).
+Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值，最多可节省 40% 的虚拟机费用。 你可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 根据版本，你可以在 Azure 中转换或重新使用许可证，以在 Azure 中运行 Windows Server 虚拟机，并按较低的基础计算费率（例如，Linux 虚拟机速率）。
 
 > [!NOTE]  
-> Azure reservations are not available in the following markets:  
+> Azure 保留项在以下市场中不可用：  
 > * 阿根廷
 > * 巴西
 > * 中国
@@ -45,16 +45,16 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>代表客户购买软件订阅
 
-To buy software subscriptions on behalf of a customer, go to the customer's detail page, select **Add products**, and then follow the on-screen instructions to create and pay for your order. All commercial pricing excludes tax with the exception of Australia and Brazil. For Australia and Brazil, the price includes tax.
+若要代表客户购买软件订阅，请在客户的详细信息页上，选择 "**添加产品**"，然后按照屏幕上的说明创建订单并为订单付费。 除澳大利亚和巴西以外，所有商业定价都不包括税款。 对于澳大利亚和巴西，价格包含税款。
 
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
-After you purchase the software subscription, follow the steps below to download it.
+购买软件订阅后，请按照以下步骤进行下载。
 
 >[!NOTE]
->You must be an Admin agent to download software and get activation keys.
+>你必须是管理员代理才能下载软件和获取激活密钥。
 
-1. 转到客户的详细信息页面，然后选择**软件**。 You'll see a list of all the software you've purchased on behalf of the customer. 
+1. 转到客户的详细信息页面，然后选择**软件**。 你将看到代表客户购买的所有软件的列表。 
 2.  展开要下载的产品。 在**选择产品**字段中，选择所需的**版本**、**语言**和**文件类型/操作系统**。 
 3.  选择**提交**以显示特定产品。 
 4.  选择**获取密钥和下载**。 
@@ -63,23 +63,23 @@ After you purchase the software subscription, follow the steps below to download
 >[!NOTE]
 >此链接将在两周或 50 次下载后（以先到者为准）过期。 链接过期后，请返回此页面并再次选择**获取密钥和下载**，以启用另一个两周或 50 次下载。 可以根据需要多次执行此操作。 
 
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>View activity for software key access and software downloads
-For auditing or compliance purposes, you may need to check a list of users who have either accessed Server subscription software keys or downloaded Server subscription software. Use the procedure below to access this information. 
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>查看软件密钥访问和软件下载的活动
+出于审核或符合性目的，可能需要检查具有已访问的服务器订阅软件密钥或下载的服务器订阅软件的用户的列表。 使用以下过程来访问此信息。 
 
 >[!NOTE]
->You must be a Global administrator, Account admin, Referral admin, or Marketing content admin to see these activity logs. 
+>只有全局管理员、帐户管理员、引用管理员或营销内容管理员才能看到这些活动日志。 
 
-1.  In Partner Center, select the gear icon from the upper right corner. 
-2.  In the menu, select **Activity log**.
-3.  Enter the date range for the activity you want to see. The activity log will display a list of users who have either accessed software keys or downloaded software during the time you specified. 
+1.  在 "合作伙伴中心" 中，选择右上角的齿轮图标。 
+2.  在菜单中，选择 "**活动日志**"。
+3.  输入要查看的活动的日期范围。 "活动日志" 将显示在指定的时间内具有已访问的软件密钥或已下载软件的用户的列表。 
 
 ## <a name="cancel-a-purchase"></a>取消购买
 
-You can cancel a software purchase within 60 days of the purchase date. Microsoft does not charge an early termination fee, however, you can't cancel a purchase after 60 days from the purchase date.
+你可以在购买日期的60天内取消软件购买。 但是，Microsoft 不会对提前终止费收费，但是，你不能在60天后从购买日期取消购买。
 
-After you cancel the purchase, the software key will be revoked. 
+取消购买后，软件密钥将被吊销。 
 
-Follow the steps below to cancel a purchase:
+请按照以下步骤取消购买：
 
 >[!NOTE]
 >必须是管理员代理才能取消购买。 
@@ -90,9 +90,9 @@ Follow the steps below to cancel a purchase:
     -   退款原因
     -   请求的金额
 
-2.  On the customer's details page, select **Software** to see the list of all the software you've purchased for the customer. 
+2.  在客户的详细信息页上，选择 "**软件**" 以查看为客户购买的所有软件的列表。 
 
-3.  Locate the software you want to cancel, and then select **Cancel**. 此时将打开**报告合作伙伴中心问题**页面。 
+3.  找到要取消的软件，然后选择 "**取消**"。 此时将打开**报告合作伙伴中心问题**页面。 
 
 4.  在**详细信息**下的**问题类型**列表中，选择**云解决方案提供商代表客户购买/退款**。
 
@@ -108,4 +108,4 @@ Follow the steps below to cancel a purchase:
 
 8.  如果出于任何原因需要附加文件，请选择**添加文件**。 此步骤可选。 
 
-9.  When you're finished, select **Submit**.
+9.  完成后，选择 "**提交**"。

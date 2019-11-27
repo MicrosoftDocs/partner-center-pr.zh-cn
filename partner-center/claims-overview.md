@@ -1,10 +1,10 @@
 ---
-title: Incentives co-op claims | Partner Center
+title: 奖励合作声明 |合作伙伴中心
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to submit your incentives claims without the prerequisite to have your activity plan reviewed.
+description: 了解如何在没有先决条件的情况下提交奖励声明来查看活动计划。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金
@@ -22,7 +22,7 @@ ms.locfileid: "74253409"
 
 - 合作伙伴中心
 
-When you participate in one of the Microsoft Incentives programs (such as the Partner Incentives Cooperative Marketing Fund, Online Services Advisor program, or Dynamics ISV program), you claim reimbursements of earned funds for activities you have done that support Microsoft product awareness. You submit a claim directly from the Partner Center. 在提交申请之前，不再需要让 Microsoft 审查你的活动计划。 请在申请期截止日期（使用期结束后 45 天）之前提交你的申请和所需文档。 
+当你参与其中一项 Microsoft 激励计划（如合作伙伴激励合作营销资金、在线服务顾问计划或 Dynamics ISV 计划）时，你将为你已完成的活动报销资金报销支持 Microsoft 产品认知。 直接从合作伙伴中心提交声明。 在提交申请之前，不再需要让 Microsoft 审查你的活动计划。 请在申请期截止日期（使用期结束后 45 天）之前提交你的申请和所需文档。 
 
 若要成功申请，需要提供以下资料：
 
@@ -36,10 +36,10 @@ When you participate in one of the Microsoft Incentives programs (such as the Pa
 
 |**要实现此目的，请执行以下操作**   |**阅读此文**   |
 |-----------------|:--------------------------------------|
-|提交申请并随附正确的文档|[Create and manage an incentives program activity claim](create-incentives-claims.md)|
-|提交申请后，管理其他文档请求|[Create and manage an incentives program activity claim](create-incentives-claims.md)  |
-|确保了解活动申请的基本要求|[Know the incentives claims core requirements](core-requirements.md)   |
-|了解完整的奖励计划详细信息|[Partner Incentives Co-op Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
-|Create a customer association and submit a claim |[Create a customer association using the CPOR model](submit-osa-claim.md)|
+|提交申请并随附正确的文档|[创建和管理激励计划活动声明](create-incentives-claims.md)|
+|提交申请后，管理其他文档请求|[创建和管理激励计划活动声明](create-incentives-claims.md)  |
+|确保了解活动申请的基本要求|[了解激励声明核心要求](core-requirements.md)   |
+|了解完整的奖励计划详细信息|[合作伙伴奖励合作 Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
+|创建客户关联并提交声明 |[使用 CPOR 模型创建客户关联](submit-osa-claim.md)|
                                                                                  
                                    

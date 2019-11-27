@@ -1,8 +1,8 @@
 ---
-title: Request an SLA credit from Microsoft | Partner Center
+title: 请求 Microsoft 的 SLA 信用额度 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Request an SLA credit from Microsoft if they experience a service outage.
+description: 如果客户遇到服务中断，请从 Microsoft 请求 SLA 信用额度。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
@@ -16,51 +16,51 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384905"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>Request an SLA credit from Microsoft 
+# <a name="request-an-sla-credit-from-microsoft"></a>请求 Microsoft 的 SLA 信用额度 
 
-You're able to request **service-level agreement (SLA) credits** from Microsoft if a service that you're providing for your customers has an outage.
+如果你为客户提供的服务中断，你可以从 Microsoft 请求**服务级别协议（SLA）信用额度**。
 
-## <a name="sla-credit-calculation"></a>SLA credit calculation
+## <a name="sla-credit-calculation"></a>SLA 信用计算
 
-SLA credits from Microsoft are determined based on which service(s) were impacted. For example, if your customer has an Office 365 suite but only experienced a SharePoint outage, the SLA credit is approved only for SharePoint and not the customer's entire plan.
+Microsoft 的 SLA 信用取决于受影响的服务。 例如，如果你的客户有 Office 365 套件但仅经历了 SharePoint 中断，则 SLA 信用仅针对 SharePoint 而不是客户的整个计划。
 
-*Credits are pro-rated based on the service affected and the duration of the outage.* To see the types of scenarios that qualify for SLA credits, see the [Online Services Consolidated SLA document](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). This information applies to services sold through the Cloud Solution Provider program, too.
+*信用额度基于受影响的服务和中断持续时间进行估价。* 若要查看符合 SLA 信用的方案类型，请参阅[联机服务合并 SLA 文档](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37)。 此信息也适用于通过云解决方案提供商计划出售的服务。
 
-## <a name="request-an-sla-credit"></a>Request an SLA credit
+## <a name="request-an-sla-credit"></a>请求 SLA 信用额度
 
-*The Cloud Solution Provider (CSP) partner must submit the claim and all required information by the end of the calendar month following the month in which the incident occurred.* For example, if the incident occurred on February 15th, Microsoft must receive the claim and all required information by March 31st. End customers and indirect resellers can't submit SLA credit claims; either the indirect provider or direct bill partner must submit claims on their behalf.
+*云解决方案提供商（CSP）合作伙伴必须在发生事件的月份后，按日历月结束时间提交声明和所有必需的信息。* 例如，如果事件在2月15日发生，则 Microsoft 必须在3月31日前收到声明和所有必需的信息。 最终客户和间接经销商无法提交 SLA 信用索赔;间接提供商或直接帐单合作伙伴必须代表他们提交声明。
 
-### <a name="required-information"></a>Required information
+### <a name="required-information"></a>必需信息
 
-Before you [submit an SLA credit request](#submit-sla-credit-request) to Microsoft, you must gather the following information to include in your support ticket:
+向 Microsoft[提交 SLA 信用请求](#submit-sla-credit-request)之前，必须收集下列信息，以将其包括在支持票证中：
 
-- The customer tenant's GUID
-- The [outage incident identifier](#outage-incident-identifier)?
-- Were the impacted subscriptions purchased through CSP? (*yes* or *no*)
+- 客户租户的 GUID
+- [中断事件标识符](#outage-incident-identifier)？
+- 受影响的订阅是否通过 CSP 购买？ （*是*或*否*）
 
-#### <a name="outage-incident-identifier"></a>Outage incident identifier
+#### <a name="outage-incident-identifier"></a>停机事件标识符
 
-You can find the identifier for the outage incident on the **Service Health** page in the Microsoft 365 admin center. The **Outage Incident ID** is a number preceded by a two-letter abbreviation that indicates the affected service (for example, *EX25194* for an Exchange Online outage). The follow table describes common service abbreviations:
+可以在 "**服务运行状况**" 页上的 "Microsoft 365 管理中心" 中找到中断事件的标识符。 "**中断事件 ID** " 前面有两个字母的缩写，它指示受影响的服务（例如，Exchange Online 中断的*EX25194* ）。 下面的表介绍了常见的服务缩写：
 
-| Two-letter abbreviation | Microsoft service |
+| 两字母缩写 | Microsoft 服务 |
 | ----------------------- | ----------------- |
-| EX | Exchange Online |
-| FO | Exchange Online Protection |
-| SB | Skype for Business Online (formerly Lync Online) |
-| 操作系统 | Office 订阅 |
-| PB | Power BI for Office 365 |
+| 例如 | Exchange Online |
+| FO | Exchange Online 保护 |
+| SB | Skype for Business Online （以前称为 Lync Online） |
+| OS | Office 订阅 |
+| 容量 | Power BI for Office 365 |
 | SP | SharePoint Online |
-| YA | Yammer Enterprise |
-| MO | Portal error |
+| 4EN-YA-P0U | Yammer 企业 |
+| 月 | 门户错误 |
 
-### <a name="submit-sla-credit-request"></a>Submit SLA credit request
+### <a name="submit-sla-credit-request"></a>提交 SLA 信用请求
 
-To submit your SLA credit request to Microsoft through the Partner Center dashboard:
+若要通过合作伙伴中心仪表板将 SLA 信用请求提交给 Microsoft，请执行以下操作：
 
-1. Sign in to the Partner Center dashboard.
-2. In the left-hand menu, choose **Service requests**, then select **Partner support requests**.
-3. On the **Partner request** page, choose **New request**.
-4. On the **Start the request** page, find the section **CSP - customers, orders and subscriptions**. In this section, choose **Select an issue type**, then select **Customer services credit requests**.
-5. On the **Recommended solutions** page, under **Do you need more help?** , choose **Yes**.
-6. On the **Details** page, fill out the **Issue details** section. In the **Details** text box, be sure to enter the [required information](#required-information) that you gathered earlier.
-7. Choose **Submit** to send in your SLA credit request.
+1. 登录到合作伙伴中心仪表板。
+2. 在左侧菜单中，选择 "**服务请求**"，然后选择 "**合作伙伴支持请求**"。
+3. 在 "**合作伙伴请求**" 页上，选择 "**新建请求**"。
+4. 在 "**启动请求**" 页上，找到 " **CSP-客户、订单和订阅**" 一节。 在此部分中，选择 "**选择问题类型**"，然后选择 "**客户服务信用请求**"。
+5. 在 "**推荐的解决方案**" 页的 "**是否需要更多帮助？** " 下，选择 **"是"** 。
+6. 在 "**详细信息**" 页上，填写 "**问题详细信息**" 部分。 在 "**详细信息**" 文本框中，确保输入先前收集的[所需信息](#required-information)。
+7. 选择 "**提交**" 以在 SLA 信用请求中发送。

@@ -24,11 +24,11 @@ ms.locfileid: "74189074"
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
-The Partner Center's multi-channel feature supports scenarios when a customer wants to hire a partner to manage and support a subscription they purchased elsewhere. 多渠道支持适用于处于以下情形中的客户：
+合作伙伴中心的多渠道功能支持当客户要雇用合作伙伴管理和支持他们在其他地方购买的订阅时的情况。 多渠道支持适用于处于以下情形中的客户：
 
 -   已直接从 Microsoft 或者通过顾问、公开或 EA 计划购买了订阅。
 
--   从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。 Customers can't switch existing license-based subscriptions to a different partner in the Cloud Solution Provider program-they must wait until the end of their subscription period or cancel before moving.
+-   从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。 客户无法在云解决方案提供商计划中将现有的基于许可证的订阅切换到另一个合作伙伴-他们必须等到其订阅期限结束时，或在移动之前取消。
 
 
 <table>
@@ -38,13 +38,13 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>License-based services</strong></p></td>
+<td><p><strong>基于许可证的服务</strong></p></td>
 <td><p>若要为多渠道帐户提供支持，你必须向客户请求管理其订阅的权限。 有关如何操作的信息，请参阅<a href="request-a-relationship-with-a-customer.md" data-raw-source="[Request a reseller relationship with a customer](request-a-relationship-with-a-customer.md)">请求与客户建立经销商关系</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>Usage-based services</strong></p></td>
+<td><p><strong>基于使用情况的服务</strong></p></td>
 <td>
-<p>For a customer who already has a subscription to Microsoft Azure from another channel, such as Advisor, Open, or EA, you&#39;ll need to create a new Azure subscription in Partner Center, manually enter the subscription details, and then cancel the individual services or the entire subscription. Azure CSP can coexist with different channels.</p>
+<p>对于已经订阅了从另一个渠道（如 Advisor、Open 或 EA） Microsoft Azure 的客户，你&#39;需要在合作伙伴中心创建新的 Azure 订阅，手动输入订阅详细信息，然后取消个人服务或整个订阅。 Azure CSP 与不同的通道可以共存。</p>
 <p>对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。  有关详细信息，请参阅<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">将 Azure 订阅切换到不同的合作伙伴</a>。</p>
 </td>
 </tr>
@@ -52,9 +52,9 @@ The Partner Center's multi-channel feature supports scenarios when a customer wa
 </table>
 
 > [!IMPORTANT]  
-> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 Any announcements about feature releases will be announced through the usual communication channels, including the Partner Center. 
+> 云解决方案提供商合作伙伴目前无法将联机服务转售给其他云解决方案提供商合作伙伴。 Microsoft 持续评估所有计划的策略和功能。 有关功能版本的任何公告都将通过常规通信通道（包括合作伙伴中心）公布。 
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 [与其他合作伙伴合作](work-with-other-partners.md)
 

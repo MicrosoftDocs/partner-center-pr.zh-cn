@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to create user accounts for a customer, add or remove user licenses, reset user passwords, delete user accounts or restore them.
+description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: customer management, account, create account, licenses, assign license, user management, password, reset password, change password
+Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
 ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -23,9 +23,9 @@ ms.locfileid: "74253344"
 
 - 合作伙伴中心
 
-You can create and delete new users in a customer's account. You can also restore one or more user accounts that you previously deleted within 30 days of the deletion. 用户之前分配的订阅也将还原（假设之前的分配可用）。
+你可以在客户的帐户中创建和删除新用户。 你还可以还原以前在删除30天内删除的一个或多个用户帐户。 用户之前分配的订阅也将还原（假设之前的分配可用）。
 
-When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.  
+为客户购买新的订阅时，客户应为你提供一个列表，其中列出了需要帐户的所有用户、用户权限以及每个用户需要的服务。  
 
 可以一次[将订阅分配给多个用户](bulk-license-provisioning-for-multiple-users.md)，方法是使用 [Excel 兼容的 .csv 电子表格文件](adding-multiple-users-to-a-customer-account.md)导入这些名称。
 
@@ -33,7 +33,7 @@ When you buy new subscriptions for a customer, the customer should give you a li
 
 ## <a name="create-user-accounts-for-a-customer"></a>为客户创建用户帐户
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
@@ -51,9 +51,9 @@ When you buy new subscriptions for a customer, the customer should give you a li
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>为客户添加或删除用户许可证
 
-The following steps apply to adding or removing user licenses for Microsoft products. To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
+以下步骤适用于在 Microsoft 产品中添加或删除用户许可证。 若要在商业应用商店中添加或删除基于许可证的 SaaS 订阅的用户许可证，请参阅[添加或删除 SaaS 订阅的许可证](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
@@ -64,13 +64,13 @@ The following steps apply to adding or removing user licenses for Microsoft prod
 5. 选择**管理许可证**。 进行更改，然后选择**保存**。
 
 > [!NOTE]
-> For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.
+> 对于[Azure Marketplace 产品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，许可证分配和激活是通过发布产品的独立软件供应商（ISV）来管理的。
 
 <a href="" id="resetpassword"></a>
 
 ## <a name="reset-a-users-password-for-a-customer"></a>为客户重置用户密码
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
@@ -84,7 +84,7 @@ The following steps apply to adding or removing user licenses for Microsoft prod
 
 ## <a name="delete-user-accounts-for-a-customer"></a>为客户删除用户帐户
 
-1.  From the **Partner Center** menu, select **Customers**. 从列表中选择客户。
+1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
 
 2.  在“客户”菜单中，选择**用户和许可证**。 从列表中选择用户。
 
@@ -96,7 +96,7 @@ The following steps apply to adding or removing user licenses for Microsoft prod
 
 ## <a name="restore-deleted-user-accounts"></a>还原删除的用户帐户
 
-1.  From the **Partner Center** menu, select **Customers**, then choose the customer from the list.
+1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择客户。
 
 2.  选择**用户和许可证**。
 
@@ -111,4 +111,4 @@ The following steps apply to adding or removing user licenses for Microsoft prod
 
 [向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 
-[Create multiple users for a customer account](adding-multiple-users-to-a-customer-account.md)
+[为客户帐户创建多个用户](adding-multiple-users-to-a-customer-account.md)

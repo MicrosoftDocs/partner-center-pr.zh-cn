@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use metrics in Partner Center to see whether your business is growing, how customers are using their licenses, and where to focus investment.
+description: 了解如何使用合作伙伴中心的指标来了解你的业务是否正在增长、客户使用其许可证的方式，以及在何处集中投资。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
@@ -32,13 +32,13 @@ ms.locfileid: "74253702"
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 
 
-**For a single customer**
+**对于单个客户**
 
--   Select **Customers** from the **Partner Center**, choose a customer, then select **Customer insights**.
+-   从 "**合作伙伴中心**" 中选择 "**客户**"，选择一个客户，然后选择 " **customer insights**"。
 
-**Across your portfolio**
+**跨项目组合**
 
-1.  On the **Partner Center**, select **Analyze**.
+1.  在 "**合作伙伴中心**"，选择 "**分析**"。
 2.  通过选择**导出**选项，下载整个客户群的部署和用法数据。
 
 术语：
@@ -64,7 +64,7 @@ ms.locfileid: "74253702"
 ## <a name="next-steps"></a>后续步骤
 
 
-If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses. By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.
+如果你有很多帮助和操作方法问题，你的帐户中的采用号码会较低，或者你正在寻找追加销售机会，你可能需要考虑提供培训课程。 通过教授你的客户如何更好地使用他们购买的云解决方案软件，更有可能会提高工作效率和满意度并降低支持需求。
 
 <table>
 <colgroup>
@@ -72,14 +72,14 @@ If you are fielding a lot of Help and How-to questions, the adoption numbers on 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</p>
-<p><strong>要考虑的事项：</strong>客户可能不理解软件可以提供的价值。 They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</p>
+<td><p><strong>问题：</strong>用户采用速率较低，并且不使用许多许可证&#39;。</p>
+<p><strong>要考虑的事项：</strong>客户可能不理解软件可以提供的价值。 他们需要帮助构想他们将其合并到一天中的方式，以简化他们已在执行的任务或实现新的工作效率。</p>
 <p><strong>要尝试的内容：</strong>案例研究、有关特定方案的用户感言、教程博客或视频。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
 <p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</p>
+<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双策略&#39;来提高客户的整体专业技能，同时还可以提升一些可供客户使用的自助服务选项。</p>
 <p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
 </tr>
 </tbody>

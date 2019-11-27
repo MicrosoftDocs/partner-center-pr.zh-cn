@@ -23,19 +23,19 @@ ms.locfileid: "74189079"
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
-The Partner Center's multi-partner feature supports scenarios when a customer wants to work with more than one partner. 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。 
+如果客户想要使用多个合作伙伴，则合作伙伴中心的多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。 
 
-An Azure CSP tenant can include an additional Azure subscription from a different CSP partner.
+Azure CSP 租户可包含来自不同 CSP 合作伙伴的其他 Azure 订阅。
 
-To use the multi-partner feature in the Partner Center, invite the customer to give you delegated administration privileges. 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
+若要使用合作伙伴中心的多合作伙伴功能，请邀请客户向你授予委派管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
 
-多合作伙伴功能不支持以下操作：
+多个合作伙伴功能不支持以下操作：
 
-- Change any of the customer's existing subscriptions
+- 更改任何客户的现有订阅
 
-- Transition the customer's existing subscriptions or account ownership
+- 转换客户的现有订阅或帐户所有权
 
-- Change the terms or customer's obligations for any of their existing subscriptions
+- 更改其现有订阅的条款或客户的义务
 
 - 更改订阅的记录合作伙伴
 

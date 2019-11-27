@@ -1,12 +1,12 @@
 ---
-title: Invoice files | Partner Center
+title: 发票文件 |合作伙伴中心
 ms.topic: article
 ms.date: 08/26/2019
-description: Understand the fields in your invoice file for Partner Center billing.
+description: 了解发票文件中合作伙伴中心帐单的字段。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: billing, invoice
+keywords: 计费，发票
 ms.localizationpriority: medium
 ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,48 +15,48 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389835"
 ---
-# <a name="invoice-files"></a>Invoice files
+# <a name="invoice-files"></a>发票文件
 
-You can use the following tables to understand the fields in Partner Center invoice files.
+您可以使用下表来了解合作伙伴中心发票文件中的字段。
 
-## <a name="invoice-file-fields"></a>Invoice file fields
+## <a name="invoice-file-fields"></a>发票文件字段
 
-The following fields appear on your invoice files.
+发票文件上将显示以下字段。
 
 | 字段 | 定义 |
 | ----- | ---------- |
-| US FEIN | Your Federal Employer Identification Number (FEIN). This is your United States federal tax identifier number. |
+| US FEIN | 联邦雇主标识号（FEIN）。 这是美国的联邦税务标识符编号。 |
 | 客户编号 | 你的客户编号。 |
-| 帐单邮寄地址 | 我们发送发票的地址。 You can change your company name and/or address in your Partner Center billing profile. |
-| 基于许可证的费用 | The flat monthly or annual charges for your purchased usage-based licenses, billed in advance of the service. This number is the sum of all charges in the **Subtotal** column (column **T**) in your license-based reconciliation file. |
-| 基于使用情况的费用 | Your Azure usage. This includes new services or applications enabled and used during the billing period. This number is the sum of all charges in the **PretaxCharges** column (column **Z**) in your usage-based reconciliation file. |
-| 折扣 | The discount that the customer receives from subscription's normal price. This number is shown as a *flat amount*, not as a price per unit or license. |
-| 退款额 | Credits or adjustments for changes made to subscriptions (for example, seat increases or decreases). |
+| 帐单邮寄地址 | 我们发送发票的地址。 你可以在合作伙伴中心帐单配置文件中更改公司名称和/或地址。 |
+| 基于许可证的费用 | 已购买的基于使用情况的许可证的按月或每年收费，服务提前向你收费。 此数字是基于许可证的对帐文件中的**小计**列（列**T**）中所有费用的总和。 |
+| 基于使用情况的费用 | 你的 Azure 使用情况。 这包括在计费期间启用并使用的新服务或应用程序。 此数字是基于使用情况的对帐文件中**PretaxCharges**列（列**Z**）的所有费用的总和。 |
+| 折扣 | 客户从订阅的标准价格接收的折扣。 此数量显示为*固定数量*，而不是按单位或许可证的价格显示。 |
+| 退款额 | 对订阅所做更改的信用额度或调整（例如，座位增加或减少）。 |
 | 小计 | 税前总额以及不含税的费用和退款。 |
-| 税 | The total tax for your current charges, as totaled in the **Details** section beginning on page 2 of your invoice. This number is the sum of all charges in the **TaxAmount** column (column **AA**) in your usage-based reconciliation file, and the **Tax** column (column **U**) in your license-based reconciliation file. |
+| 税 | 当前费用的总税款，从发票第2页开始的**详细信息**部分中汇总。 此数字是基于使用情况的对帐文件中**TaxAmount**列（列**AA**）的所有费用的总和，以及基于许可证的对帐文件中的**税款**列（列**U**）。 |
 | 其他退款 | 不含税的退款。 |
-| 当前总费用 | The amount due in your billing currency for the billing period. These charges are due by the payment due date. |
-| 付款指示 | Description of how to pay your invoice, based on your region. *Always be sure to include your invoice number when making a payment.* |
+| 当前总费用 | 计费周期的计费币种中到期的金额。 这些费用将按支付截止日期到期。 |
+| 付款指示 | 介绍如何根据你所在的区域对发票进行付款。 *付款时，请始终确保包含发票号。* |
 | 发票编号 | 发票的编号。 |
-| 计费周期 | The monthly period leading up to the invoice date. This is the period during which usage-based services are consumed and license-based services are reconciled for any credit adjustments or changes in license count. |
-| 发票日期 | The billing date or anniversary date on which your invoice is generated each month. |
-| 付款期限 | The payment term. 对于一次性购买，此期限将始终为 60 天。 |
-| 付款截止日期 | The date by which your payment must be received. |
-| 客户 PO | Your purchase number order. |
-| 客户服务 | The website address where you can access customer service. |
-| 服务接收方 | The address where the service is being used. (This is the legal company address associated with company vetting.) |
+| 计费周期 | 按发票日期的月期间。 这是使用基于使用情况的服务和基于许可证的服务对许可证计数的任何信用调整或更改进行协调的时间段。 |
+| 发票日期 | 每月生成发票的帐单日期或周年周年日。 |
+| 付款期限 | 支付期限。 对于一次性购买，此期限将始终为 60 天。 |
+| 付款截止日期 | 必须接收付款的截止日期。 |
+| 客户 PO | 你的采购订单编号。 |
+| 客户服务 | 可以访问客户服务的网站地址。 |
+| 服务接收方 | 使用服务的地址。 （这是与公司审核相关的合法公司地址。） |
 
-## <a name="one-time-charges-fields"></a>One-time charges fields
+## <a name="one-time-charges-fields"></a>一次性费用字段
 
-The following fields only apply to **one-time charges** in Partner Center:
+以下字段仅适用于合作伙伴中心的**一次性费用**：
 
 | 字段 | 定义 |
 | ----- | ---------- |
-| 日期 | 购买的日期。 |
-| 描述 | 产品名称。 |
-| 数量 | The number of products (such as reservations) purchased. |
-| 单价 | Price per product (such as a reservation). |
+| Date | 购买的日期。 |
+| 说明 | 产品名称。 |
+| 数量 | 购买的产品数量（如预留）。 |
+| 单位价格 | 每个产品的价格（如预留）。 |
 | 折扣 | 任何适用的折扣。 |
 | 税前金额 | 税前购物小计。 |
 | 销售税 | 税额。 |
-| 总计 | Total amount to be paid. |
+| 总计 | 要支付的总金额。 |

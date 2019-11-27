@@ -1,11 +1,11 @@
 ---
-title: Office 365 Partner Advisory - Microsoft 365 Voice in CSP | Partner Center
-description: PSTN services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.
+title: Office 365 合作伙伴咨询-Microsoft 365 CSP 中的语音 |合作伙伴中心
+description: 某些国家/地区的 PSTN 服务可能会受到特殊的税务和法规要求，可能会影响合作伙伴订单和开具发票。
 ms.topic: article
 ms.date: 11/04/2019
 author: maggiepuccievans
 ms.author: evansma
-keywords: Office, O365, PSTN services, taxes, requirements, invoice, invoicing
+keywords: Office，O365，PSTN 服务，税款，要求，发票，开票
 ms.localizationpriority: medium
 ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -14,41 +14,41 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384812"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 Partner Advisory: Microsoft 365 Voice in CSP
+# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 合作伙伴咨询： Microsoft 365 CSP 中的语音
 
 **适用于**
 
 - 合作伙伴中心  
 
-Public Switched Telephone Network (PSTN) services in some countries may be subject to special tax and regulatory requirements that may affect partner order and invoicing.  In the United States, Puerto Rico, and Canada, Skype for Business PSTN and Microsoft 365 Voice services are subject to special tax and regulatory requirements. In the United States and Puerto Rico, Microsoft prices PSTN services as tax-inclusive.  Unique PSTN taxes and regulations will affect Office 365 partners transacting Microsoft 365 Voice products.  如果合作伙伴标记了 Microsoft PSTN 服务的价格，则可能有责任计算和汇寄 PSTN 税款和费用。
+某些国家/地区的公共交换网（PSTN）服务可能会受到特殊的税务和法规要求，可能会影响合作伙伴的订单和发票。  在美国、波多黎各和加拿大，Skype for Business PSTN 和 Microsoft 365 语音服务受特殊的税务和法规要求。 在美国和波多黎各中，Microsoft 价格的 PSTN 服务以税收包含。  唯一的 PSTN 税和法规将影响 Office 365 合作伙伴约束力 Microsoft 365 语音产品。  如果合作伙伴标记了 Microsoft PSTN 服务的价格，则可能有责任计算和汇寄 PSTN 税款和费用。
 
-## <a name="partner-recommendations"></a>Partner Recommendations
+## <a name="partner-recommendations"></a>合作伙伴建议
 
 咨询税务和法律顾问，了解组织对 PSTN 服务法规、税务和费用以及其他潜在义务的责任。
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Invoice Presentation and Partner Reconciliation File
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>发票演示和合作伙伴对帐文件
 
-CSP invoices and CSP reconciliation files in the United States, Puerto Rico and Canada which include Skype for Business PSTN and Microsoft 365 Voice services will provide separate line items for the PSTN and non-PSTN components.
+美国、波多黎各和加拿大的 CSP 发票和 CSP 协调文件（包括 Skype for Business PSTN 和 Microsoft 365 语音服务）将为 PSTN 和非 PSTN 组件提供单独的行项。
 
-Additionally, CSP invoices will display the following footnote:
+此外，CSP 发票还会显示以下脚注：
 
-* The price displayed is a charge for Audio Conferencing and Calling Plan Services.  Any applicable transactional taxes are charged exclusively of the amount shown except for sales made within the United States.  In the U.S., the price displayed is tax inclusive as it includes a charge for the Calling Plan and Audio Conferencing Services and a charge for the taxes and fees we are required to charge.  Audio Conferencing and Calling Plan Services are serviced by the Microsoft Affiliate authorized to provide them.  See [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/?LinkId=690247) for details.
+* 显示的价格是音频会议和电话计划服务的收费。  任何适用的事务税款仅根据显示的金额（美国中的销售额除外）进行收费。  在美国，显示的价格是含税的，因为它包括呼叫计划和音频会议服务的费用，以及收取的税费和费用费用。  音频会议和调用计划服务由有权提供它们的 Microsoft 关联服务提供服务。  有关详细信息，请参阅[Microsoft 批量许可](https://go.microsoft.com/fwlink/?LinkId=690247)。
 
-## <a name="reconciliation-file-example"></a>Reconciliation File Example
+## <a name="reconciliation-file-example"></a>协调文件示例
 
-Office 365 Enterprise E5 presents on reconciliation file as two line items with identical names and identical IDs, but each line item has a unique unit price (example: $28.40 and $2.00). 这可区分 Office 365 产品/服务的 Skype for Business PSTN 会议组件，以便正确征税。
+Office 365 企业版 E5 在协调文件上显示两个具有相同名称和相同 Id 的行项，但每个行项都具有唯一的单位价格（例如： $28.40 和 $2.00）。 这可区分 Office 365 产品/服务的 Skype for Business PSTN 会议组件，以便正确征税。
 
-**Partner Reconciliation example #1 (select columns):**
+**伙伴对帐示例 #1 （选择列）：**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 企业版 E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |周期费用   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 企业版 E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |周期费用   |2.00   |
 
-**Partner Reconciliation example #2**
+**合作伙伴对帐示例 #2**
 
-Microsoft 365 Business Voice available in Canada has additional PSTN taxable components that are consolidated on CSP Invoice (similar to Office 365 E5, two line items are presented, one for PSTN components and the other for non-PSTN components).  The CSP Reconciliation file for Microsoft 365 Business Voice will display all PSTN taxable components individually (individual PSTN components will not be consolidated in .CSV or API tool).  The summation of order details and billed amounts for customers found in the reconciliation file will match the CSP Invoice.
+加拿大提供的 Microsoft 365 商业版语音包含附加的 PSTN 应缴税组件，这些组件合并在 CSP 发票上（类似于 Office 365 E5，提供两个行项，一个用于 PSTN 组件，另一个用于非 PSTN 组件）。  Microsoft 365 商业版语音的 CSP 协调程序文件将单独显示所有的 PSTN 应缴税组件（不会合并单个 PSTN 组件。CSV 或 API 工具）。  在对帐文件中找到的客户的订单详细信息和计费金额的合计将与 CSP 发票匹配。
 
 ## <a name="additional-resources"></a>其他资源
-For more details, visit the [Microsoft 365 for Partners](https://drumbeat.office.com/Pages/home2016.aspx) site.
+有关更多详细信息，请访问合作伙伴网站的[Microsoft 365](https://drumbeat.office.com/Pages/home2016.aspx) 。
 

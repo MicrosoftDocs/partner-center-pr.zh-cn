@@ -3,7 +3,7 @@ title: 分析 Azure 使用情况 | 合作伙伴中心
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use Partner Center to get data about the usage of your customers' Azure subscriptions.
+Description: 了解如何使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
@@ -20,18 +20,18 @@ ms.locfileid: "74253392"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>获取客户的 Azure 订阅使用情况数据
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 
 数据推动业务决策。 使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
 > [!NOTE]
-> Azure usage analytics is available only for partners in the Cloud Solution Provider program.
+> Azure 使用情况分析仅适用于云解决方案提供商计划中的合作伙伴。
 
 我们跟踪下列指标：
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>Summary
 
 - **Azure 订阅总销量**：指定时间段内销售的订阅数量  
 - **使用过的客户数**：指定时间段内使用过 Azure 的客户数量  
@@ -41,13 +41,13 @@ ms.locfileid: "74253392"
 
 - 指定类别的前 5 位客户  
 
-## <a name="azure-subscriptions-at-risk"></a>Azure subscriptions at risk
+## <a name="azure-subscriptions-at-risk"></a>有风险的 Azure 订阅
 
-This section indicates the predicted churn risk to Azure subscriptions. This information can be used by partners to engage with customers and minimize churn
+本部分说明 Azure 订阅面临的变动风险。 合作伙伴可使用此信息与客户沟通并最大程度地减少变动
 
 ## <a name="subscriptions-without-usage"></a>未使用过的订阅
 
-- List of specific subscriptions without Azure usage in the specified time period  
+- 指定时间段内未使用 Azure 的特定订阅的列表  
 
 ## <a name="azure-subscription-churn"></a>Azure 订阅改动
 

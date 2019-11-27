@@ -1,13 +1,13 @@
 ---
-title: Manage commercial marketplace products or offers for your customers  | Partner Center
+title: 为客户管理商业 marketplace 产品或产品/服务 |合作伙伴中心
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Using Partner Center, learn how Cloud Solution Providers can manage different, third-party ISV offers purchased for customers from the commercial marketplace.
+description: 使用合作伙伴中心，了解云解决方案提供商如何管理从商业市场为客户购买的不同的第三方 ISV 产品。
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, Marketplace, third party, ISV, SaaS offers, Cloud Solution Provider program, manage an offer, manage a subscription, licenses, cancel a subscription, seats, turn off auto-renew, Indirect Reseller MPN ID
+keywords: 订阅，Marketplace，第三方，ISV，SaaS 服务，云解决方案提供商计划，管理产品/服务，管理订阅，许可证，取消订阅，座位，关闭自动续订，间接经销商 MPN ID
 ms.localizationpriority: medium
 ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -16,102 +16,102 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253805"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>Manage commercial marketplace products for your customers
+# <a name="manage-commercial-marketplace-products-for-your-customers"></a>为客户管理商业 marketplace 产品
 
 **适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**Appropriate roles**
+**适当的角色**
 
 - 全局管理员
 - 管理员代理
 
-Partners in the Cloud Solution Provider (CSP) program can use the Partner Center portal to purchase many ISV SaaS offers or subscriptions for their customers from the commercial marketplace. Once you purchase an offer, you have various ways to manage it.
+云解决方案提供商（CSP）计划中的合作伙伴可以使用合作伙伴中心门户为其客户从商用 marketplace 购买许多 ISV SaaS 产品/服务或订阅。 购买产品/服务后，你可以通过多种方式对其进行管理。
 
-## <a name="view-or-edit-a-subscription"></a>View or edit a subscription
+## <a name="view-or-edit-a-subscription"></a>查看或编辑订阅
 
-After you purchase a subscription from a third-party ISV publisher, you can review or edit it as follows:
+从第三方 ISV 发布者购买订阅后，可以查看或编辑它，如下所示：
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **Customers** from the left navigation menu.
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，然后从左侧导航菜单中选择 "**客户**"。
 
-2. Select an appropriate customer, then select **Subscriptions**. This lists any license-based subscriptions you have purchased for the customer.
+2. 选择适当的客户，然后选择 "**订阅**"。 这会列出已为客户购买的任何基于许可证的订阅。
 
-3. In the **Subscription** column, select the subscription you want to view or edit. This gives you more information to set up or provision the offer. (If more action is needed on the offer, you may also see an "Action Needed" status displayed in the Status column. This may also be accompanied by a link to the ISV publisher's site.)
+3. 在 "**订阅**" 列中，选择要查看或编辑的订阅。 这为你提供了有关设置或设置产品/服务的详细信息。 （如果此产品/服务需要更多操作，你可能还会在 "状态" 列中看到 "需要操作" 状态。 这也可能伴随有 ISV 发布者站点的链接。）
 
-4. Once you select the subscription you want to view or edit, the subscription detail page allows you to edit the subscription and do things like:
+4. 选择要查看或编辑的订阅后，"订阅详细信息" 页允许您编辑订阅和执行以下操作：
 
-    - Change the subscription nickname
+    - 更改订阅昵称
 
-    - Add/decrease the number of seats (licenses) in the subscription
+    - 在订阅中添加/减少座位数（许可证）
 
-    - Cancel the subscription
+    - 取消订阅
 
     - “关闭自动续订”
 
-    - Add an Indirect Reseller MPN ID, if applicable
+    - 添加间接经销商 MPN ID （如果适用）
 
 > [!NOTE]
-> You may need to complete certain steps defined by the ISV publisher before you can perform some changes to a subscription, such as cancelling a subscription.
+> 你可能需要完成 ISV 发布者定义的某些步骤，然后才能对订阅执行某些更改，如取消订阅。
 
-## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>Assign licenses and activate a subscription on behalf of a customer
+## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>分配许可证并代表客户激活订阅
 
-When you purchase a Software as a Service (SaaS) offer provided by an Independent Software Vendor (ISV) publisher in the commercial marketplace, the ISV publisher helps manage the process of assigning licenses and activating the subscription on behalf of your customer.
+当你购买由商业应用商店中的独立软件供应商（ISV）出版商提供的软件即服务（SaaS）产品/服务（SaaS）产品/服务（SaaS）产品/服务面向.
 
-The publisher should provide you with a personalized link and an authorization code that identifies your specific purchase.
+发布者应为你提供一个个性化链接和一个用于标识特定购买的授权代码。
 
-1. You can find this personalized link from the ISV publisher in a few ways:
+1. 可以通过以下几种方式在 ISV 发布者那里找到此个性化链接：
 
-    - You can see the link from the confirmation page that appears after you purchase an ISV SaaS offer.
+    - 你可以看到在购买 ISV SaaS 产品/服务后显示的 "确认" 页的链接。
 
-    - You can see the link from the specific customer's Subscriptions page. This publisher link appears on the row associated with the ISV offer or subscription purchased for the customer.
+    - 可以从特定客户的订阅页查看链接。 此发布服务器链接显示在与为客户购买的 ISV 产品或订阅关联的行上。
 
-    - You can [retrieve the link using Partner Center APIs](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item).
+    - 可以[使用合作伙伴中心 api 检索链接](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)。
 
-2. Once you are in the ISV publisher's site or system, the publisher will let you know of any additional steps you need to take to complete the customer setup process and provision or assign licenses.
+2. 一旦你进入 ISV 发布者的站点或系统后，发布者将向你提供完成客户设置过程和预配或分配许可证所需执行的任何其他步骤。
 
-3. As a partner in the CSP program who is working on behalf of your customer, you are responsible to perform the following tasks:
+3. 作为代表你的客户的 CSP 程序中的合作伙伴，你需要执行以下任务：
 
-    - Submit any required information to the publisher.
+    - 将所有必需的信息提交到发布服务器。
 
-    - Send any required URL directly to your customer (or otherwise directly communicate details about this subscription to your customer)
+    - 将任何所需 URL 直接发送给你的客户（或以其他方式直接向客户传达有关此订阅的详细信息）
 
-4. Once you provide required information to the publisher, the publisher will provision and assign appropriate licenses. Subscription billing will start only after the following events occur:
+4. 向发布者提供所需的信息后，发布者将设置并分配适当的许可证。 仅在发生以下事件之后，才会开始订阅计费：
 
-    - The ISV publisher has successfully assigned appropriate licenses
+    - ISV 发布者已成功分配适当的许可证
 
-    - The ISV publisher has confirmed to Microsoft (via a separate, SaaS fulfillment API) that the account setup has been successfully completed
+    - ISV 发布者已通过单独的 SaaS 履单 API 向 Microsoft 确认了帐户设置已成功完成
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Cancel a license-based SaaS subscription from an ISV publisher
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>从 ISV 发布者取消基于许可证的 SaaS 订阅
 
-When you subscribe to a license-based SaaS product offered by an ISV publisher within the commercial marketplace, you have the option to cancel the subscription within its designated cancellation period. This cancellation period changes depending on whether you have a monthly or annual subscription. You can also choose whether or not to automatically renew the subscription.
+当你订阅由商业应用商店内的 ISV 发布者提供的基于许可证的 SaaS 产品时，你可以选择在其指定的取消期限内取消订阅。 此取消时间段根据你是具有每月订阅还是年度订阅而发生变化。 你还可以选择是否自动续订订阅。
 
-For more information about cancellation periods that apply, how to cancel or how to auto-renew a subscription, see:
+有关适用的取消期间、如何取消或如何自动续订订阅的详细信息，请参阅：
 
-- [Cancel a subscription](create-a-new-subscription.md#cancel-a-subscription)
+- [取消订阅](create-a-new-subscription.md#cancel-a-subscription)
 
-- [Auto-renew a commercial marketplace subscription](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+- [自动续订商业市场订阅](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
-## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>Add or remove licenses for a SaaS subscription
+## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>添加或删除 SaaS 订阅的许可证
 
-For SaaS commercial marketplace offers, you can add or remove user licenses for a customer subscription.
+对于 SaaS 商用 marketplace 产品/服务，可以添加或删除客户订阅的用户许可证。
 
-1. Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard), then select **Customers** from the left navigation menu.
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，然后从左侧导航菜单中选择 "**客户**"。
 
-2. Select an appropriate customer, then select **Subscriptions**. This lists any license-based subscriptions you have purchased for the customer.
+2. 选择适当的客户，然后选择 "**订阅**"。 这会列出已为客户购买的任何基于许可证的订阅。
 
-3. In the **Subscription** column, select the subscription you want to modify.
+3. 在 "**订阅**" 列中，选择要修改的订阅。
 
-4. In the subscription details page, locate the **Quantity** field. This is where you can increase or decrease the number of licenses.
+4. 在 "订阅详细信息" 页中，找到 "**数量**" 字段。 这是可以增加或减少许可证数量的位置。
 
-5. Change the quantity, then select **Submit**.
+5. 更改数量，然后选择 "**提交**"。
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>使用合作伙伴中心 API 管理订阅
 
-You can also use Partner Center APIs to perform lifecycle management and manage invoices for your subscriptions. For more information, see [Create a subscription for commercial marketplace products](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products).
+你还可以使用合作伙伴中心 Api 来执行生命周期管理并管理你的订阅的发票。 有关详细信息，请参阅[为商用 marketplace 产品创建订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。
 
 ## <a name="next-steps"></a>后续步骤
 
-- [Purchase commercial marketplace offers](csp-commercial-marketplace-purchase.md)
-- [Learn about billing in the commercial marketplace](csp-commercial-marketplace-billing.md)
+- [购买商业市场优惠](csp-commercial-marketplace-purchase.md)
+- [了解商用 marketplace 中的计费](csp-commercial-marketplace-billing.md)

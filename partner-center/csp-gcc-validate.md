@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn the steps for direct bill partners (direct resellers, indirect providers) to validate partners and customers for Office 365 Government GCC for CSP.
+description: 了解直销合作伙伴（直接经销商、间接提供商）的步骤，以验证 Office 365 政府版的客户和客户的 CSP。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
@@ -29,7 +29,7 @@ ms.locfileid: "74253526"
 
 如果你是服务于美国联邦、州、地方或部落政府实体的合作伙伴，你可以获得批准。 若要验证你的组织资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的简短表单。
 
-如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。 To have your customers' organizations' eligibility validated, please complete the brief form located [here](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer). 
+如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。 若要让客户的资格获得资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短窗体。 
 
 -   你的组织必须[注册](https://partnercenter.microsoft.com/partner/cloud-solution-provider)云解决方案提供商计划，因为这是被批准出售适用于云解决方案提供商的 Office 365 政府版 GCC 的先决条件。
 -   适用于云解决方案提供商的 Office 365 政府版 GCC 的分步验证过程指南位于[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。
@@ -37,11 +37,11 @@ ms.locfileid: "74253526"
 
 将根据以下概述的要满足的特定标准来验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的资格。
 
-**Partner Criteria**
+**合作伙伴标准**
 1.  通过直接或间接合同为美国政府客户提供服务或解决方案
 2.  通过 GSA 或其他合同文书为美国政府客户提供服务
 
-**Customer Criteria**
+**客户条件**
 1.  具有政府职能的美国政府实体。 例如：
  
     -  联邦机构（例如，局、机构、部门或美国政府的其他实体）
@@ -50,7 +50,7 @@ ms.locfileid: "74253526"
     -   区域或州际政府实体（但不包括国际实体）
     -   联邦资助的研发中心 (FERDC)
 
-2.  Commercial private entity with data that's subject to regulations. 接受的政府数据类型包括： 
+2.  商业专用实体，其中包含受法规约束的数据。 接受的政府数据类型包括： 
     -   国际武器贸易条例 (ITAR)
     -   受控制的未分类信息 (CUI)
     -   国防部 (DoD) 未分类的受控核信息 (UCNI)

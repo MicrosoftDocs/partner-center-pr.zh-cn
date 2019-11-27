@@ -52,7 +52,7 @@ ms.locfileid: "74253591"
 
 如果决定从直接帐单企业迁移到间接经销商业务，需要执行几个步骤。 若要了解有关转换的详细信息，请参阅[从云解决方案提供商（CSP）直接合作伙伴到 CSP 间接经销商](transition-direct-to-indirect.md)。 
 
-## <a name="see-also"></a>另请参阅
+## <a name="see-also"></a>请参阅
 
 - [有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [直接计费到间接分销商常见问题解答](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

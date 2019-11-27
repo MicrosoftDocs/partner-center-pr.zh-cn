@@ -1,13 +1,13 @@
 ---
-title: Commercial marketplace overview for Cloud Solution Providers | Partner Center
+title: 云解决方案提供商的商业市场概述 |合作伙伴中心
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: In Partner Center, learn how to sell customers subscriptions to Software as a Service (SaaS) offers from Independent Software Vendors (ISVs) in the marketplace.
+description: 在合作伙伴中心，了解如何向 marketplace 中的独立软件供应商（Isv）销售客户订阅软件即服务（SaaS）产品/服务。
 author: MicheleHope
 ms.author: v-mihope
-keywords: subscriptions, Marketplace, third party, ISV, SaaS, license
+keywords: 订阅，Marketplace，第三方，ISV，SaaS，许可证
 ms.localizationpriority: medium
 ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
 ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
@@ -16,75 +16,75 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253785"
 ---
-# <a name="commercial-marketplace-overview"></a>Commercial marketplace overview
+# <a name="commercial-marketplace-overview"></a>商业市场概述
 
 **适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-Being a partner in the Cloud Solution Provider (CSP) program allows you to bundle and sell Microsoft products along with solutions published by third-party, Independent Software Vendors (ISVs). Being able to bundle solutions in this way lets you better serve end customers and grow your CSP services business.
+作为云解决方案提供商（CSP）计划中的合作伙伴，你可以将 Microsoft 产品与第三方独立软件供应商（Isv）发布的解决方案进行捆绑和销售。 以这种方式捆绑解决方案使您能够更好地为最终客户提供服务并发展您的 CSP 服务业务。
 
-As a partner in the CSP program, you can use Partner Center to purchase many ISV solutions from Microsoft's commercial marketplace. This gives you and your customers several key advantages:
+作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心从 Microsoft 的商业 marketplace 购买许多 ISV 解决方案。 这为你和你的客户提供了几个主要优势：
 
-- Access to a catalog of software solutions optimized for Microsoft technologies and environments.
-- Simplified contracting and shortened procurement cycle.
-- A single integration with Partner Center APIs. (Such integration further enables access to a catalog of ISV solutions, lowers the cost of operations and engineering, and streamlines management of multiple vendor subscriptions and billing through a single provider.)
-- Streamlined deployment and provisioning in the customer's Azure tenant (for Virtual Machine-based solutions).
-- Reduces potential challenges with direct ISV purchase or contracting, Microsoft solution configuration and integration, and the need to manage or consolidate recurring invoices from multiple vendors.
+- 对为 Microsoft 技术和环境优化的软件解决方案目录的访问权限。
+- 简化的合同和缩短的采购周期。
+- 单个与合作伙伴中心 Api 的集成。 （此类集成使你可以访问 ISV 解决方案的目录，降低运营和工程的成本，并通过单个提供商简化多个供应商订阅和计费的管理。）
+- 在客户的 Azure 租户中简化部署和预配（适用于基于虚拟机的解决方案）。
+- 通过直接 ISV 购买或签约、Microsoft 解决方案配置和集成，以及管理或合并来自多个供应商的重复发票，减少了潜在的挑战。
 
-## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>Overview of CSP offers in the commercial marketplace
+## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>商业应用商店中的 CSP 产品概述
 
-If you are a partner in the CSP program, there are many commercial marketplace activities you may want to perform in regards to ISV offers. See the following table to learn more about each activity.
+如果你是 CSP 计划中的合作伙伴，你可能想要执行许多适用于 ISV 产品/服务的商业市场活动。 请参阅下表以了解有关每个活动的详细信息。
 
-|**If you want to**  |**Read**   |
+|**如果要**  |**读取**   |
 |:------------------------------------|:------------------|
-|Learn how to view or search for available offers, pricing, product details, or publisher contact information | [Discover offers](csp-commercial-marketplace-discover.md) | 
-|Learn how to purchase and deploy an offer   | [Purchase offers](csp-commercial-marketplace-purchase.md)   | 
-|Learn how to cancel or renew a subscription or add or remove seats  | [Manage offers](csp-commercial-marketplace-manage.md) |
-|Learn about how billing works for commercial marketplace purchases | [Understand billing](csp-commercial-marketplace-billing.md) |
-|Learn about who is responsible for which types of support for ISV purchases | [Understand support](csp-commercial-marketplace-support.md) |
-|Learn about contracts and responsibilities of CSP partners and ISVs in the commercial marketplace | [Understand contracting](csp-commercial-marketplace-contracting.md) |
+|了解如何查看或搜索可用产品/服务、定价、产品详细信息或发布者联系信息 | [发现产品](csp-commercial-marketplace-discover.md) | 
+|了解如何购买和部署产品/服务   | [购买优惠](csp-commercial-marketplace-purchase.md)   | 
+|了解如何取消或续订订阅或添加或删除座位  | [管理产品/服务](csp-commercial-marketplace-manage.md) |
+|了解计费如何适用于商业 marketplace 购买 | [了解帐单](csp-commercial-marketplace-billing.md) |
+|了解谁负责 ISV 购买哪些类型的支持 | [了解支持](csp-commercial-marketplace-support.md) |
+|了解有关商业应用商店中 CSP 合作伙伴和 Isv 的合同和责任 | [了解合同](csp-commercial-marketplace-contracting.md) |
 
 > [!NOTE]
-> This overview describes how partners in the CSP program can use certain commercial marketplace features in Partner Center. In contrast to partners in the CSP program, ISV publishers have a different marketplace role. They also have different Commercial Marketplace features available to them within Partner Center. To learn more about the role of ISV publishers, see the [Azure Commercial Marketplace Overview](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview).
+> 本概述介绍了 CSP 计划中的合作伙伴如何使用合作伙伴中心的某些商业 marketplace 功能。 与 CSP 计划中的合作伙伴相比，ISV 发布者具有不同的 marketplace 角色。 它们还在合作伙伴中心提供不同的商业 Marketplace 功能。 若要了解有关 ISV 发布者角色的详细信息，请参阅[Azure 商业市场概述](https://docs.microsoft.com/azure/marketplace/partner-center-portal/commercial-marketplace-overview)。
 
-## <a name="where-to-complete-commercial-marketplace-activities"></a>Where to complete commercial marketplace activities
+## <a name="where-to-complete-commercial-marketplace-activities"></a>完成商业市场活动的位置
 
-As a partner in the CSP program, you can complete many commercial marketplace activities for ISV SaaS offers directly from either the Partner Center [dashboard](https://partner.microsoft.com/dashboard) or by using [Partner Center APIs](https://docs.microsoft.com/partner-center/develop/). To complete other marketplace activities, however, you may need to go to:
+作为 CSP 计划中的合作伙伴，你可以直接从合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)或使用[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/)完成多个适用于 ISV SaaS 产品/服务的商业市场活动。 但是，若要完成其他 marketplace 活动，你可能需要执行以下操作：
 
-- The [Microsoft Azure management portal](https://portal.azure.com/)
+- [Microsoft Azure 管理门户](https://portal.azure.com/)
 
     或
 
-- A third-party ISV publisher's system or website
+- 第三方 ISV 发布者的系统或网站
 
-Much of where you go to complete activities begins with the type of offer you choose. Partners in the CSP program can currently transact two types of offers with third-party ISV publishers:
+在其中，你可以从你选择的产品/服务的类型着手完成活动。 CSP 计划中的合作伙伴当前可以通过第三方 ISV 发布者来处理两种类型的产品/服务：
 
-1. License-based SaaS offers  
-2. Usage-based offers (including offers based on virtual machines, containers or Azure applications)
+1. 基于许可证的 SaaS 产品  
+2. 基于使用情况的产品/服务（包括基于虚拟机、容器或 Azure 应用程序的产品/服务）
 
-Go to [Billing Basics](billing-basics.md) to learn more about how billing differs between license-based offers and usage-based offers.  
+请参阅[计费基础知识](billing-basics.md)，详细了解基于许可证的产品/服务和基于使用情况的产品/服务的计费方式有所不同。  
 
-To learn where to complete a specific marketplace activity for license-based or usage-based ISV offers, see the following tables.
+若要了解在何处完成基于许可证或基于使用的 ISV 产品/服务的特定市场活动，请参阅下表。
 
-|**For license-based SaaS offers from ISVs**  |**用途**  |
+|**适用于基于许可证的 SaaS 提供商**  |**用途**  |
 |:------------------------------------|:------------------|
-|To discover or search for available offers  | Partner Center dashboard or Partner Center APIs  |
-|To purchase an offer  | Partner Center dashboard or Partner Center APIs  |
-|To deploy a purchased offer (account setup, software management or deployment in customer's AAD tenant)  | ISV publisher's system or website  |
-|To cancel/renew offer subscriptions or add/remove seats | Partner Center dashboard or Partner Center APIs  |
-|To create users or manage permissions  | ISV publisher's system or website  |
+|发现或搜索可用的产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
+|购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
+|部署购买的产品/服务（帐户设置、软件管理或客户的 AAD 租户中的部署）  | ISV 发布者的系统或网站  |
+|取消/续订提议订阅或添加/删除座位 | 合作伙伴中心仪表板或合作伙伴中心 Api  |
+|创建用户或管理权限  | ISV 发布者的系统或网站  |
 
-|**For usage-based offers from ISVs**  |**用途**  |
+|**基于使用情况的 Isv 提供的产品/服务**  |**用途**  |
 |:------------------------------------|:------------------|
-|To discover or search for available offers  | Partner Center dashboard, Partner Center APIs, or Azure portal  |
-|To purchase an offer  | Azure 门户  |
-|To deploy a purchased offer (account setup, software management or deployment in customer's AAD tenant)  | Azure 门户  |
-|To cancel/renew offer subscriptions or add/remove seats | Azure 门户  |
-|To create users or manage permissions  | Azure 门户  |
+|发现或搜索可用的产品/服务  | 合作伙伴中心仪表板、合作伙伴中心 Api 或 Azure 门户  |
+|购买产品/服务  | Azure 门户  |
+|部署购买的产品/服务（帐户设置、软件管理或客户的 AAD 租户中的部署）  | Azure 门户  |
+|取消/续订提议订阅或添加/删除座位 | Azure 门户  |
+|创建用户或管理权限  | Azure 门户  |
 
 ## <a name="next-steps"></a>后续步骤
 
-- [Discover or view commercial marketplace offers](csp-commercial-marketplace-discover.md)
-- [Purchase commercial marketplace offers](csp-commercial-marketplace-purchase.md)
+- [发现或查看商业市场优惠](csp-commercial-marketplace-discover.md)
+- [购买商业市场优惠](csp-commercial-marketplace-purchase.md)
