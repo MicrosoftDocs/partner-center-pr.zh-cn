@@ -1,7 +1,7 @@
 ---
 title: 适用于应用程序开发能力的一次性考试要求例外 |合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 对于具有以前的 ISV 资格认证的合作伙伴，了解如何为应用程序开发能力提供一次性考试需求豁免
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 胜任度，ISV，应用程序开发
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295238"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559502"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 
@@ -27,9 +27,9 @@ ms.locfileid: "74295238"
 
 具有 ISV 资格的合作伙伴：
 
-- **你的 ISV 资格已过期**–在2019年11月22日开始，合作伙伴中心将提供一个一次性考试要求。 你将有30天的时间来利用该产品/服务。 
+- **你的 ISV 资格已过期**–从2019年11月22日开始，合作伙伴中心提供了一次性考试要求例外。 你有30天的时间来利用该产品/服务。 登录到合作伙伴中心，了解特定于公司的详细信息。
 
-- **你的胜任度成员处于续订时间范围内**–从2019年11月22日开始，合作伙伴中心将提供 "一次性考试要求" 例外。 你将有30天的时间来利用该产品/服务。 
+- **你的资格成员身份在其续订时间范围内**–从11月22日开始2019，合作伙伴中心提供了一次性考试要求例外。 你有30天的时间来利用该产品/服务。 登录到合作伙伴中心，了解特定于公司的详细信息。
 
 - 在**未来几个月内，你的资格成员资格已到期**–你将在需要续订时向你提供一次性考试要求。 此时，你将有30天的时间来获取该产品/服务。
 

@@ -8,12 +8,12 @@ description: 查看奖励计划的收益和付款。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653996"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559749"
 ---
 # <a name="view-your-incentives-payments-information"></a>查看激励支付信息
 
@@ -91,6 +91,7 @@ ms.locfileid: "73653996"
 |earnedUSD   |节目/参与者 ID 的获得额（美元）      |
 |withheldTax   |计划/participantID 的货币的预扣税金      |
 |salesTax   |计划/participantID 的货币支付的总销售税金额      |
+|serviceFeeTax  |计划/participantID 的 serviceFeeTax 总金额 |
 |totalPayment   |按本币支付的总付款金额，包括预缴税金，并包括该计划/participantID 的销售税（如果适用）      |
 |currencyCode   |支付给货币代码      |
 |paymentMethod   |用于支付合作伙伴的方法（电子银行转帐、贷方注释）      |
