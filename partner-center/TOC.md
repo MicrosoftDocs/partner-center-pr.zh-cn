@@ -103,6 +103,7 @@
 ## [从 Microsoft 请求 SLA 信用额度](request-credit.md)
 ## [为你的客户设置 Azure 费用预算](set-an-azure-spending-budget-for-your-customers.md)
 ## [管理拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)
+## [管理未分配付款](unallocated-payment.md)
 
 # [与客户联系](customer-accounts.md)
 ## [添加新客户](add-a-new-customer.md)
