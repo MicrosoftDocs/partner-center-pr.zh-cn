@@ -1,21 +1,21 @@
 ---
 title: 创建企业档案 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心创建企业档案，以从 Microsoft 取得商机。
+description: 了解如何从 Microsoft 获取销售线索。 一个关键步骤是，在合作伙伴中心创建企业档案，从而使客户可以找到你。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 企业档案, 营销档案
 ms.localizationpriority: high
-ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653602"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252662"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

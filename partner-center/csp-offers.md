@@ -1,7 +1,7 @@
 ---
 title: 云解决方案提供商计划中的合作伙伴套餐 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解通过云解决方案提供商计划进行销售的合作伙伴可以使用的套餐。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799207"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252912"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐 
 
@@ -57,7 +57,7 @@ ms.locfileid: "73799207"
     
     还可以在**市场**页上找到有关这些产品的信息。 请注意，此页还包含有关必须从 Azure 门户（而不是合作伙伴中心）购买的其他产品类型的信息。<br>
 
-    有关详细信息，请参阅[销售 Azure 市场产品的订阅](sell-marketplace-products.md)
+    有关详细信息，请参阅[云解决方案提供商商业市场概述](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>添加产品页详细信息
 
@@ -104,8 +104,8 @@ ms.locfileid: "73799207"
 
 若要了解计费流程的运作方式，请阅读[计费基础知识](https://docs.microsoft.com/partner-center/billing-basics)。
 
-若要了解如何按 Azure 计划进行购买，请阅读[购买 Azure 计划](purchase-azure-plan)。
+若要了解如何按 Azure 计划进行购买，请阅读[购买 Azure 计划](purchase-azure-plan.md)。
 
+## <a name="see-also"></a>另请参阅
 
-
-
+[云解决方案提供商商业市场概述](csp-commercial-marketplace-overview.md)

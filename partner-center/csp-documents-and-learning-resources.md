@@ -1,21 +1,21 @@
 ---
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
 ms.topic: article
-ms.date: 09/23/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 本文包含指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
+description: 在本文中查找指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和套餐的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: high
-ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096523"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252129"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 

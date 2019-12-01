@@ -1,21 +1,21 @@
 ---
 title: 工作帐户与合作伙伴中心 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 若要创建合作伙伴中心帐户，公司必须有一个工作帐户。 如果你有有效的 Microsoft Azure 或 Office 365 订阅，则已经有了一个工作帐户。
+description: 了解为何需要使用工作帐户来创建合作伙伴中心帐户，以及是否已有工作帐户。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 工作帐户, 电子邮件, 租户, Azure 租户, 创建帐户, 域名
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096553"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253322"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>公司的工作帐户与合作伙伴中心  
 

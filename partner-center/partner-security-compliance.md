@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661115"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295254"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
 
@@ -105,7 +105,7 @@ ms.locfileid: "73661115"
 
 * **自定义控制** - 无法使用 Azure AD 自定义控制来确定用户是否已通过第三方 MFA 解决方案完成了 MFA 验证。 因此，对于 Azure AD（因而也包括合作伙伴中心）而言，通过自定义控制完成 MFA 验证的任何用户始终看上去并未完成 MFA 验证。 如果可能，我们建议在与 Azure AD 集成时改用标识联合，而不要使用自定义控制。
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>确定哪些用户在未完成 MFA 的情况下登录到了合作伙伴中心
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>确定哪些用户在未完成 MFA 的情况下登录到了合作伙伴中心
 
 确定哪些用户在未完成 MFA 验证的情况下登录到了合作伙伴中心，并根据当前的 MFA 实施方案对其进行验证，可能会有帮助。 可以使用 [Azure AD 登录报告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)来确定用户是否已完成 MFA 验证。 Azure AD 登录报告目前仅适用于订阅了 Azure AD Premium 或任何包含 Azure AD Premium 的 O365 SKU（例如 EMS）的合作伙伴。
 

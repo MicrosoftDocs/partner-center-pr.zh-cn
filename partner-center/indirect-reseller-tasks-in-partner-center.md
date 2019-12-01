@@ -1,22 +1,22 @@
 ---
 title: 与云解决方案提供商计划中的间接提供商合作 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 作为云解决方案提供商计划中的间接经销商，你可以跟与 Microsoft 有直接关系并且可以提供客户支持和计费的间接提供商（也称为分销商）合作。
+description: 了解云解决方案提供商计划中的间接经销商如何与可在客户支持和计费方面提供帮助的 Microsoft 间接提供商（或分销商）合作。
 ms.prod: ''
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, tier2, 第 2 层
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654338"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253655"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 

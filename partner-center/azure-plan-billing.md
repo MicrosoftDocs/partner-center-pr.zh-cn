@@ -1,21 +1,21 @@
 ---
-title: Azure 计划 - 计费 | 合作伙伴中心
+title: Azure 计划计费 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 描述 Azure 计划的发票和对帐文件结构
+description: 了解如何访问和理解与 Azure 计划计费相关的发票和对帐文件结构。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661166"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536452"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
@@ -42,7 +42,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 - **合作伙伴奖励**：从发票月份结束时间起的 45 天付费。
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>访问发票和对帐文件
+## <a name="access-your-invoices-and-reconciliation-files"></a>访问发票和对帐文件
 
 当某份发票可供查看时，公司的全局管理员或计费管理员会收到电子邮件。 
 
@@ -141,7 +141,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 ## <a name="invoice-in-customer-currency"></a>采用客户货币的发票 
 
-通过 Azure 计划销售的 Azure 服务按美元定价，并按客户所在国家/地区指定的货币计费。 如果计费货币不是美元，则发票的最后一页上会显示使用的外汇汇率 (FX)。 外汇汇率每月确定，并应用于随后的发票。 有关国家/地区货币的完整列表，请查看[新商务套餐在各个国家/地区的上市情况和客户货币矩阵](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)。 
+通过 Azure 计划销售的 Azure 服务按美元定价，并按客户所在国家/地区指定的货币计费。 如果计费货币不是美元，则发票的最后一页上会显示使用的外汇汇率 (FX)。 外汇汇率每月确定，并应用于随后的发票。 有关国家/地区货币的完整列表，请查看[新商务套餐在各个国家/地区的上市情况和客户货币矩阵](https://go.microsoft.com/fwlink/?linkid=2112354)。 
 
 Microsoft 将使用 [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company) 来确定外汇汇率，以此确定定价货币与计费货币之间的兑换率。 外汇汇率将在月份最后一日的前一天刷新，然后将会应用。
 

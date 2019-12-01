@@ -1,20 +1,20 @@
 ---
 title: 比较 Azure 套餐 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 可用 Azure 套餐的比较
+description: 比较云解决方案提供商 (CSP) 计划中为合作伙伴提供的新 Microsoft 商务体验中的套餐之间的主要差异。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 585a2214e6efa202d688ba4d42c5f23596484110
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653637"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253439"
 ---
 # <a name="compare-azure-offers"></a>比较 Azure 套餐
 

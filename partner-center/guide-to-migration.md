@@ -1,20 +1,20 @@
 ---
 title: 从 PMC 迁移到合作伙伴中心的指南 | 合作伙伴中心
 ms.topic: article
-ms.date: 04/25/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将公司从 PMC 迁移到合作伙伴中心时需要了解的事项
+description: 了解如何将你的公司从 Partner Membership Center (PMC) 迁移到合作伙伴中心。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: a7db9b3241c239ea3de4f25a3be04ead01bb2718
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096501"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252204"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 

@@ -1,20 +1,20 @@
 ---
 title: 管理 Azure 计划中的订阅和资源 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 通过 Azure 计划购买多个 Azure 订阅
+description: 了解合作伙伴如何使用不同基于角色的访问控制 (RBAC) 选项来获得对客户 Azure 资源的操作控制和管理。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: ededae0c8e8212697648cda2c00f23fd457fa877
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653857"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253281"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 计划中的订阅和资源
 
