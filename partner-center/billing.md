@@ -1,73 +1,41 @@
 ---
 title: 计费 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 作为云解决方案提供商合作伙伴，对于客户基于许可证和基于使用情况的订阅，你将需要向 Microsoft 支付为期 60 天的欠款。
+Description: 合作伙伴中心的计费主题，包括计费资源、发票和云解决方案提供商计费。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: high
-ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096458"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384619"
 ---
-# <a name="billing"></a><span data-ttu-id="9608e-104">计费</span><span class="sxs-lookup"><span data-stu-id="9608e-104">Billing</span></span>
+# <a name="billing"></a><span data-ttu-id="acc80-104">计费</span><span class="sxs-lookup"><span data-stu-id="acc80-104">Billing</span></span>
 
-<span data-ttu-id="9608e-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="9608e-105">**Applies to**</span></span>
+<span data-ttu-id="acc80-105">适用于：</span><span class="sxs-lookup"><span data-stu-id="acc80-105">Applies to:</span></span>
 
--  <span data-ttu-id="9608e-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="9608e-106">Partner Center</span></span>
--  <span data-ttu-id="9608e-107">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="9608e-107">Partner Center for Microsoft Cloud for US Government</span></span>
- 
- 
-<span data-ttu-id="9608e-108">若要查看帐单，请转到“合作伙伴中心”菜单，然后选择“计费”以查看计费历史记录和趋势、发票和对帐文件的链接，以及最近的付款。  </span><span class="sxs-lookup"><span data-stu-id="9608e-108">For your bill, go to the **Partner Center** menu and then select **Billing** to see your billing history and trends, links to your invoice and reconciliation file, and your most recent payment.</span></span>
+- <span data-ttu-id="acc80-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="acc80-106">Partner Center</span></span>
+- <span data-ttu-id="acc80-107">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="acc80-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="9608e-109">云解决方案提供商计划中选择按月计费的合作伙伴需为其客户的订阅（基于许可证和基于用量）向 Microsoft 支付为期 60 天的欠款。</span><span class="sxs-lookup"><span data-stu-id="9608e-109">Partners in the Cloud Solution Provider program who choose to be billed monthly pay Microsoft 60 days in arrears for their customers' subscriptions (both license-based and usage-based).</span></span>
+| <span data-ttu-id="acc80-108">主题</span><span class="sxs-lookup"><span data-stu-id="acc80-108">Topic</span></span> | <span data-ttu-id="acc80-109">描述</span><span class="sxs-lookup"><span data-stu-id="acc80-109">Description</span></span> |
+| ----- | ----------- |
+| [<span data-ttu-id="acc80-110">计费概述</span><span class="sxs-lookup"><span data-stu-id="acc80-110">Billing overview</span></span>](billing-basics.md) | <span data-ttu-id="acc80-111">合作伙伴中心计费的基础知识（包括付款、发票和对帐文件）。</span><span class="sxs-lookup"><span data-stu-id="acc80-111">Basics of Partner Center billing (including payments, invoices, and reconciliation files).</span></span> |
+| [<span data-ttu-id="acc80-112">计费类型</span><span class="sxs-lookup"><span data-stu-id="acc80-112">Types of billing</span></span>](billing-different-types.md) | <span data-ttu-id="acc80-113">合作伙伴中心的不同类型计费的说明。</span><span class="sxs-lookup"><span data-stu-id="acc80-113">Explanation of different types of billing in Partner Center.</span></span> |
+| [<span data-ttu-id="acc80-114">按月和按年计费的差异</span><span class="sxs-lookup"><span data-stu-id="acc80-114">Monthly and annual billing differences</span></span>](billing-annual-monthly.md) | <span data-ttu-id="acc80-115">按月和按年计费频率之间的差异的说明。</span><span class="sxs-lookup"><span data-stu-id="acc80-115">Explanation of differences between monthly and annual billing frequencies.</span></span> |
+| [<span data-ttu-id="acc80-116">阅读帐单</span><span class="sxs-lookup"><span data-stu-id="acc80-116">Reading your bill</span></span>](read-your-bill.md) | <span data-ttu-id="acc80-117">如何阅读和了解合作伙伴中心帐单。</span><span class="sxs-lookup"><span data-stu-id="acc80-117">How to read and understand your Partner Center bill.</span></span> |
+| [<span data-ttu-id="acc80-118">免费试用</span><span class="sxs-lookup"><span data-stu-id="acc80-118">Free trials</span></span>](offer-your-customers-trials-of-microsoft-products.md) | <span data-ttu-id="acc80-119">如何向客户提供免费试用版，以及如何对这些试用版进行计费。</span><span class="sxs-lookup"><span data-stu-id="acc80-119">How to offer free trials to your customers and how these trials are billed.</span></span> |
+| [<span data-ttu-id="acc80-120">对帐文件</span><span class="sxs-lookup"><span data-stu-id="acc80-120">Reconciliation file</span></span>](use-the-reconciliation-files.md) | <span data-ttu-id="acc80-121">如何阅读和使用对帐文件，以便了解明细项目。</span><span class="sxs-lookup"><span data-stu-id="acc80-121">How to read and use your reconciliation file for line items.</span></span> |
+| [<span data-ttu-id="acc80-122">常见计费方案</span><span class="sxs-lookup"><span data-stu-id="acc80-122">Common billing scenarios</span></span>](common-billing-scenarios.md) | <span data-ttu-id="acc80-123">如何理解常见的合作伙伴中心计费方案（适用于按月和按年计费，以及一次性和定期购买的计费）。</span><span class="sxs-lookup"><span data-stu-id="acc80-123">How to understand common Partner Center billing scenarios (for monthly and annual billing, as well as billing for one-time and recurring purchases).</span></span> |
+| [<span data-ttu-id="acc80-124">税收义务和豁免</span><span class="sxs-lookup"><span data-stu-id="acc80-124">Tax responsibilities and exemptions</span></span>](tax-and-tax-exemptions.md) | <span data-ttu-id="acc80-125">合作伙伴中心销售的税收义务和税收豁免的说明。</span><span class="sxs-lookup"><span data-stu-id="acc80-125">Explanation of your tax responsibilities and tax exemptions for Partner Center sales.</span></span> |
+| [<span data-ttu-id="acc80-126">Azure 支出预算</span><span class="sxs-lookup"><span data-stu-id="acc80-126">Azure spending budget</span></span>](set-an-azure-spending-budget-for-your-customers.md) | <span data-ttu-id="acc80-127">如何为客户设置 Azure 支出预算。</span><span class="sxs-lookup"><span data-stu-id="acc80-127">How to set an Azure spending budget for your customers.</span></span> |
+| [<span data-ttu-id="acc80-128">拒不付款、欺诈或滥用</span><span class="sxs-lookup"><span data-stu-id="acc80-128">Non-payment, fraud or misuse</span></span>](non-payment--fraud--or-misuse.md) | <span data-ttu-id="acc80-129">如何在合作伙伴中心管理客户的拒不付款、欺诈或滥用。</span><span class="sxs-lookup"><span data-stu-id="acc80-129">How to manage non-payment, fraud or misuse by your customers in Partner Center.</span></span> |
+| [<span data-ttu-id="acc80-130">针对服务中断请求 SLA 额度补偿</span><span class="sxs-lookup"><span data-stu-id="acc80-130">Request an SLA credit for outages</span></span>](request-credit.md) | <span data-ttu-id="acc80-131">当存在服务中断时，如何为客户从 Microsoft 请求 SLA 额度补偿。</span><span class="sxs-lookup"><span data-stu-id="acc80-131">How to request an SLA credit from Microsoft for your customers when there is a service outage.</span></span> |
 
-> [!NOTE]  
-> <span data-ttu-id="9608e-110">发票是当前计费周期的所有费用（包括计划、产品和客户的费用）汇总，并且从选定计费日期（UTC 时间）起两 (2) 天内可提供发票。</span><span class="sxs-lookup"><span data-stu-id="9608e-110">Your invoice is a summary of all charges -- across the program, products, and customers -- for the current billing period, and is available within two (2) days of your selected billing date in UTC time.</span></span> <span data-ttu-id="9608e-111">例如，如果计费日期为 9 月 12 日，则发票生成过程将在 13 日中午 12:00 UTC 时间开始，在 14 日中午 12:00 UTC 时间完成。</span><span class="sxs-lookup"><span data-stu-id="9608e-111">For example, if you have a September 12th billing date, the invoice generation process will begin at 12:00AM UTC on the 13th and complete by 12:00AM UTC on the 14th.</span></span> <span data-ttu-id="9608e-112">如果在 15 日晚上 11:59 UTC 时间未看到发票，则表示你遇到了服务级别协议违约，应提出服务请求。</span><span class="sxs-lookup"><span data-stu-id="9608e-112">If you do not see your invoice by 11:59PM UTC on the 15th, you're out of your Service Level Agreement and should file a service request.</span></span> 
-
-<span data-ttu-id="9608e-113">向客户计费需要知道的关键信息：</span><span class="sxs-lookup"><span data-stu-id="9608e-113">Key information to know about billing your customers:</span></span>
-
--   <span data-ttu-id="9608e-114">Microsoft 对你如何处理你自己的发票没有任何要求。</span><span class="sxs-lookup"><span data-stu-id="9608e-114">Microsoft doesn't have any requirements or conditions about how you handle your own invoicing.</span></span>
--   <span data-ttu-id="9608e-115">若要确定客户的使用情况，请使用对帐文件中的“客户 ID/名称”和其他相关字段。</span><span class="sxs-lookup"><span data-stu-id="9608e-115">To determine a customer's usage, use the customer ID/name and other relevant fields within the reconciliation files.</span></span>
--   <span data-ttu-id="9608e-116">针对你提供的服务和产品添加自己的费用。</span><span class="sxs-lookup"><span data-stu-id="9608e-116">Add your own fees and charges for services and products that you provide.</span></span>
--   <span data-ttu-id="9608e-117">向你的客户发送一张包含所有费用的帐单。</span><span class="sxs-lookup"><span data-stu-id="9608e-117">Send a single bill for all charges to your customer.</span></span>
-
-## <a name="billing-resources"></a><span data-ttu-id="9608e-118">计费资源</span><span class="sxs-lookup"><span data-stu-id="9608e-118">Billing resources</span></span>
-|<span data-ttu-id="9608e-119">**详细信息**</span><span class="sxs-lookup"><span data-stu-id="9608e-119">**For information on**</span></span>   |<span data-ttu-id="9608e-120">**阅读此文**</span><span class="sxs-lookup"><span data-stu-id="9608e-120">**Read this**</span></span>    |
-|:-----------------------------|:-----------------|
-|<span data-ttu-id="9608e-121">有关计费、付款、发票等的基础知识</span><span class="sxs-lookup"><span data-stu-id="9608e-121">The basics on billing, payments, invoices, and  more</span></span>   |[<span data-ttu-id="9608e-122">计费基础知识</span><span class="sxs-lookup"><span data-stu-id="9608e-122">Billing basics</span></span>](billing-basics.md)
-|<span data-ttu-id="9608e-123">许多新的计费功能，例如按年计费</span><span class="sxs-lookup"><span data-stu-id="9608e-123">Many new billing features such as annual billing</span></span>   |[<span data-ttu-id="9608e-124">有关新计费功能的常见问题解答</span><span class="sxs-lookup"><span data-stu-id="9608e-124">FAQ about new billing features</span></span>](faq-about-new-billing-features.md)|
-|<span data-ttu-id="9608e-125">计费类型</span><span class="sxs-lookup"><span data-stu-id="9608e-125">Types of billing</span></span>   |[<span data-ttu-id="9608e-126">了解合作伙伴中心内的计费类型</span><span class="sxs-lookup"><span data-stu-id="9608e-126">Understanding the types of billing in Partner Center</span></span>](billing-different-types.md)   |
-|<span data-ttu-id="9608e-127">阅读帐单时的要点</span><span class="sxs-lookup"><span data-stu-id="9608e-127">The key to reading your bill</span></span>   |[<span data-ttu-id="9608e-128">阅读帐单</span><span class="sxs-lookup"><span data-stu-id="9608e-128">Read your bill</span></span>](read-your-bill.md)   |
-|<span data-ttu-id="9608e-129">如何阅读和使用对帐文件</span><span class="sxs-lookup"><span data-stu-id="9608e-129">How to read and use your reconciliation file</span></span>   |[<span data-ttu-id="9608e-130">使用对帐文件</span><span class="sxs-lookup"><span data-stu-id="9608e-130">Use the reconciliation files</span></span>](use-the-reconciliation-files.md)|
-|<span data-ttu-id="9608e-131">常见计费方案（若要查找其他计费方案，请参阅[新计费功能的常见问题解答](faq-about-new-billing-features.md)）</span><span class="sxs-lookup"><span data-stu-id="9608e-131">Common billing scenarios (find additional billing scenarios in [FAQ about new billing features](faq-about-new-billing-features.md))</span></span>|[<span data-ttu-id="9608e-132">常见计费方案</span><span class="sxs-lookup"><span data-stu-id="9608e-132">Common billing scenarios</span></span>](common-billing-scenarios.md)|
-|<span data-ttu-id="9608e-133">税收义务</span><span class="sxs-lookup"><span data-stu-id="9608e-133">Your tax responsibilities</span></span>   | [<span data-ttu-id="9608e-134">税务和免税</span><span class="sxs-lookup"><span data-stu-id="9608e-134">Tax and tax exemptions</span></span>](tax-and-tax-exemptions.md)|
-|<span data-ttu-id="9608e-135">基于用量的预算</span><span class="sxs-lookup"><span data-stu-id="9608e-135">Usage-based budgeting</span></span>    |[<span data-ttu-id="9608e-136">为你的客户设置 Azure 费用预算</span><span class="sxs-lookup"><span data-stu-id="9608e-136">Set an Azure spending budget for your customers</span></span>](set-an-azure-spending-budget-for-your-customers.md)|
-|<span data-ttu-id="9608e-137">如果发生拒不付款、欺诈或滥用的情况该怎么办</span><span class="sxs-lookup"><span data-stu-id="9608e-137">What to do if non-payment, fraud, or misuse happens</span></span>   |[<span data-ttu-id="9608e-138">拒不付款、欺诈或滥用</span><span class="sxs-lookup"><span data-stu-id="9608e-138">Non-payment, fraud, or misuse</span></span>](non-payment--fraud--or-misuse.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<span data-ttu-id="acc80-132">如果你正在寻找合作伙伴中心 API 计费信息和资源，请参阅[开发人员计费文档](https://docs.microsoft.com/partner-center/develop/manage-billing)。</span><span class="sxs-lookup"><span data-stu-id="acc80-132">If you're looking for Partner Center API billing information and resources, see the [developer billing documentation](https://docs.microsoft.com/partner-center/develop/manage-billing).</span></span>
