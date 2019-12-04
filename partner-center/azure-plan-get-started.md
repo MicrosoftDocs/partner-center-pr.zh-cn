@@ -1,7 +1,7 @@
 ---
 title: 转移到 Azure 计划 - 入门 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 计划商务体验，以便以即用即付费率为客户购买 Azure 服务。 也了解新的安全要求。
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure、Azure 计划、购买订阅、订阅
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253285"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681936"
 ---
 # <a name="move-to-azure-plan---get-started"></a>转移到 Azure 计划 - 入门
 
@@ -27,7 +27,11 @@ Microsoft 在合作伙伴中心引入了新的商务体验。  使用此新商�
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>请确保客户已签署 Microsoft 客户协议
 
-从 2019 年 10 月 1 日起，Microsoft 客户协议已成为永久性的协议，它提供全数字化流程，允许客户以数字方式签署，从而简化了客户购买体验。 希望利用 Azure 的 CSP 新商务体验的所有客户必须签署 Microsoft 客户协议。
+从 2019 年 10 月 1 日起，Microsoft 客户协议已成为永久性的协议，它提供一个全数字化流程，从而简化了客户购买体验。 希望利用 Azure 的 CSP 新商务体验的所有客户必须签署 Microsoft 客户协议。
+
+希望在新的 Azure 计划下交易并进行订购的合作伙伴应在生产环境中使用合作伙伴中心面板和 API 确认客户接受 Microsoft 客户协议。
+
+从 2020 年 2 月 1 日开始，将从云解决方案提供商计划中删除现有 Microsoft 云协议。 从那一时间开始，所有其他产品/服务（包括 Microsoft 365、Dynamics 365 和现有 Azure）都需要合作伙伴确认（证明）客户接受新的 Microsoft 客户协议。 云解决方案提供商中的合作伙伴将无法在没有 Microsoft 客户协议证明的情况下为客户进行订购。
 
 有关完整详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)
 
