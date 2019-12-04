@@ -1,7 +1,7 @@
 ---
 title: 合并公司帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将 Partner Membership Center (PMC) 帐户合并到合作伙伴中心的一个帐户中。 这是从 PMC 迁移到合作伙伴中心时可执行的操作。
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252073"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721380"
 ---
 # <a name="consolidate-your-company-accounts"></a>合并公司帐户
+
+**相应的角色**
+
+- MPN 合作伙伴管理员
+- 帐户管理员
 
 在 PMC 中，公司可能有许多帐户和位置。 每个位置都有其自己的帐户。 迁移到合作伙伴中心时，所有帐户和位置会合并成一个主全局帐户，其中包含多个位置。 你的 MPN ID、权益、能力和购买项会与你一起迁移，不会丢失任何东西。 
 

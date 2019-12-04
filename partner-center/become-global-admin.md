@@ -1,7 +1,7 @@
 ---
 title: 成为公司的全局管理员 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 若要在合作伙伴中心工作，必须首先验证你的域所有权。 了解如何执行此操作，以及如何成为可以添加用户的全局管理员。
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: 域, 域验证, 验证域, 全局管理员, 用户角色, 权限
-ms.openlocfilehash: 8cc6dc8839341c20fefa48a21e62bc1350102436
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253219"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722433"
 ---
 # <a name="verify-your-domain-ownership"></a>验证域所有权
 
 **适用对象：**
 
 - 合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
 
 当公司首次登录到合作伙伴中心时，可能尚未为其员工分配所需的角色来让他们在合作伙伴中心开始操作。 要在合作伙伴中心操作的每个人都需要分配有某种角色（包括权限）。  
 

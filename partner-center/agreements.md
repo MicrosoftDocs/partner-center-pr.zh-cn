@@ -9,18 +9,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: Microsoft 云协议, 客户协议模板, CSP 客户协议, Microsoft 云协议, MCA, CSP, 通过 CSP 可以在哪里进行销售, CSP 国家和地区, 多种语言的CSP MCA, CSP北美洲, CSP 中美洲, CSP 南美洲, CSP 加勒比地区, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Germany, CSP 中东地区, CSP 非洲, CSP 欧洲, CSP 亚洲, CSP 太平洋地区, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: 0fdeb1d117dd65c85d115054d547aebe065b17ec
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253173"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722423"
 ---
 # <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
 
 **适用于**
 
-- 云解决方案提供商合作伙伴
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
+- 支持人员代理
 
 在你可以代表客户下单之前，客户必须接受并签署 Microsoft 云协议。
 

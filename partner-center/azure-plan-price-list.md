@@ -1,7 +1,7 @@
 ---
 title: Azure 计划价目表 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用合作伙伴中心查看 Azure 计划下的订阅价目表。
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252674"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722050"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表 
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
 
 CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 价目表在实时准确的文件中动态传送，仅以美元显示价格。 但是，计费是按客户所在国家/地区支持的货币进行的。 有关客户所在国家/地区的货币计费的详细信息，请阅读 [Azure 计划 - 计费](azure-plan-billing.md)。
 

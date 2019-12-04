@@ -1,7 +1,7 @@
 ---
 title: 云解决方案提供商计划中的合作伙伴套餐 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解通过云解决方案提供商计划进行销售的合作伙伴可以使用的套餐。
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252912"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722541"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐
 
 **适用于**
 
--  云解决方案提供商合作伙伴
+- 云解决方案提供商合作伙伴
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 销售代理
 
 云解决方案提供商 (CSP) 计划中的 Microsoft 合作伙伴具有越来越多可以使用的套餐。 可以销售整套 [Microsoft 云服务](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及各种经常变化的其他套餐。 若要查看本月的 CSP 套餐，请登录到合作伙伴中心，然后转到[**定价和套餐**](https://partnercenter.microsoft.com/pcv/sales)页。  
 

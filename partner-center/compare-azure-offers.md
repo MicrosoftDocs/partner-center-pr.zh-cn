@@ -1,7 +1,7 @@
 ---
 title: 比较 Azure 套餐 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 比较云解决方案提供商 (CSP) 计划中为合作伙伴提供的新 Microsoft 商务体验中的套餐之间的主要差异。
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253439"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722497"
 ---
 # <a name="compare-azure-offers"></a>比较 Azure 套餐
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 全局管理员
+- 支持人员代理
+- 销售代理
 
 下表概述了可通过云解决方案提供商 (CSP) 计划（新 Microsoft 商务体验的一部分）提供的套餐之间的重要差异。
 

@@ -1,7 +1,7 @@
 ---
 title: 奖励合作申请的核心要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解在合作伙伴中心内针对奖励合作计划中的特定类型活动提交奖励申请的要求。
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金, 核心要求
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252080"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721315"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>奖励合作申请的核心要求
 
 **适用于**
 
 - 合作伙伴中心
+
+**相应的角色**
+
+- 奖励管理员
+- 奖励用户
 
 提交奖励申请的每种类型的活动都有需要满足的核心要求，需要在执行证明文档中展示这些要求的符合情况。 在某些情况下，还需要一些已定义的通信类型和指标。
 

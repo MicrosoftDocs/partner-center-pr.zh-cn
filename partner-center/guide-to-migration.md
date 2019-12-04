@@ -1,7 +1,7 @@
 ---
 title: 从 PMC 迁移到合作伙伴中心的指南 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将你的公司从 Partner Membership Center (PMC) 迁移到合作伙伴中心。
@@ -9,14 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: f9ce53adddd2faecf22ef795e8ffe97189c57353
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252204"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721877"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
+
+**相应的角色**
+
+- 全局管理员
 
 Microsoft 合作伙伴网站 partner.microsoft.com 是面向合作伙伴的统一数字体验。 通过合作伙伴网站，可以发掘商机并参与引导式体验，帮助公司在 Microsoft 的配合下构建和销售应用与服务。 Microsoft 合作伙伴网络的会员可以使用整个合作伙伴网站上提供的“仪表板”链接登录到合作伙伴中心，在其中可以管理与 Microsoft 之间的关系、注册计划和注册套餐。 
 

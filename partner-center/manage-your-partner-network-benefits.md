@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 会员权益, 会员资格
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096464"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681949"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理 Microsoft 合作伙伴网络会员权益
 
@@ -101,8 +101,7 @@ ms.locfileid: "74096464"
     
     c.  输入备用电子邮件地址后，选择“分配用户”。  
 
-4. 可以使用技术售前帮助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术帮助。 若要请求帮助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-)，然后选择“提交请求”。 ****
+4. 可以使用技术售前帮助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术帮助。 若要请求帮助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然后选择“提交请求”。 
 
 #### <a name="manage-go-to-market-benefits"></a>管理市场投放权益
 

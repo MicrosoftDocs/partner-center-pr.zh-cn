@@ -1,7 +1,7 @@
 ---
 title: 创建用户帐户和设置权限 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心创建用户帐户，以及如何为每个需要访问权限的员工分配角色。 具有不同管理员权限的用户可以执行此操作。
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色, 权限, 添加用户, 分配角色, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252089"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722459"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
-为需要访问合作伙伴中心的员工创建用户帐户。 这些任务必须由用户管理员、帐户管理员或全局管理员来完成。 
+**相应的角色**
+
+- 帐户管理员
+- 全局管理员
+- 用户管理管理员
+
+为需要访问合作伙伴中心的员工创建用户帐户。 这些任务必须由用户管理员、帐户管理员或全局管理员来完成。
 
 
 ## <a name="add-a-new-user"></a>添加新用户

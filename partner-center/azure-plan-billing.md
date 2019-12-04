@@ -10,21 +10,20 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
-ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
+ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "74536452"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722214"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
 **相应的角色：**
 
-- 帐单管理员
 - 管理员代理
+- 帐单管理员
 - 全局管理员
-
 
 Azure 计划中的计费是一个简化的计费体验，它使用一致的单一计费日期和基于日历月份的计费周期。 有关该计费平台的信息，请阅读[计费概述](billing-basics.md)。
 

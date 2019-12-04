@@ -1,25 +1,29 @@
 ---
 title: 注册云解决方案提供商计划 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商 (CSP) 计划中的不同销售模型，确定哪种模型最适合你的业务。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252156"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721704"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
 **适用于**
 
 - 云解决方案提供商计划  
+
+**相应的角色**
+
+- 全局管理员
 
 ## <a name="get-started"></a>立即开始行动
 

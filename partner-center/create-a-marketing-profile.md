@@ -1,7 +1,7 @@
 ---
 title: 创建企业档案 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何从 Microsoft 获取销售线索。 一个关键步骤是，在合作伙伴中心创建企业档案，从而使客户可以找到你。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 企业档案, 营销档案
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252662"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722529"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft 合作伙伴网络合作伙伴
--  云解决方案提供商计划合作伙伴
+- 合作伙伴中心
+- Microsoft 合作伙伴网络合作伙伴
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 帐户管理员
+- 企业档案管理员
+- 全局管理员
+- 引荐管理员
 
 作为合格的 Microsoft 合作伙伴，你可以创建企业档案，以向正在寻找独特解决方案和专长来满足其业务需求的客户展示你的业务。
 

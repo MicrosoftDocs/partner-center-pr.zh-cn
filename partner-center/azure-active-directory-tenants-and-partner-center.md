@@ -1,7 +1,7 @@
 ---
 title: 工作帐户与合作伙伴中心 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解为何需要使用工作帐户来创建合作伙伴中心帐户，以及是否已有工作帐户。
@@ -10,18 +10,23 @@ ms.author: labrenne
 Keywords: 工作帐户, 电子邮件, 租户, Azure 租户, 创建帐户, 域名
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: c309cd4f79bcc92fa54c903b4517fd5a1b8399fd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253322"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721352"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>公司的工作帐户与合作伙伴中心  
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
 
 ## <a name="why-you-need-a-work-account"></a>需要工作帐户的原因
 
@@ -34,16 +39,18 @@ ms.locfileid: "74253322"
 如果你有多个有效的工作电子邮件地址，请使用与企业总部（而不是区域部门）关联的电子邮件地址，例如，应使用 contoso.com 电子邮件地址，而不要使用 contoso.uk。
 
 > [!NOTE]  
->  在决定使用现有的工作帐户之前，请考虑该工作帐户中需要使用合作伙伴中心的用户数。 如果工作帐户中有些用户不需要使用合作伙伴中心，请考虑只为那些需要使用合作伙伴中心的用户创建一个新帐户。
+> 在决定使用现有的工作帐户之前，请考虑该工作帐户中需要使用合作伙伴中心的用户数。 如果工作帐户中有些用户不需要使用合作伙伴中心，请考虑只为那些需要使用合作伙伴中心的用户创建一个新帐户。
 
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不确定公司是否已有工作帐户？
 
 如果你不确定公司是否有工作帐户，请遵循以下步骤进行检查。 请注意，如果你有有效的 Microsoft Azure 或 Office 365 订阅，则已经有了一个工作帐户。
 
-1.  登录到 Azure 管理门户 (https://ms.portal.azure.com )。
-2.  从菜单中选择“Azure Active Directory”，然后选择“域名”。
-3.  如果你已有工作帐户，门户将列出你的域名。
+1. 登录到 Azure 管理门户 (https://ms.portal.azure.com )。
+
+2. 从菜单中选择“Azure Active Directory”，然后选择“域名”。
+
+3. 如果你已有工作帐户，门户将列出你的域名。
 
 如果公司还没有工作帐户，可以在注册过程中创建一个。
 

@@ -1,7 +1,7 @@
 ---
 title: 将客户过渡到 Azure 计划 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将客户轻松迁移到 Azure 计划。
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253266"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722293"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>将客户过渡到 Azure 计划
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
 
 间接提供商和直接计费合作伙伴可以转换到 Azure 的 CSP 计划中提供的新商务体验。 （间接经销商需通过其间接提供商才能实现此转换。）然后，客户可以通过简便的方式来购买云服务，无论是从合作伙伴、Microsoft 经销商还是直接在 Web 上购买。
 
