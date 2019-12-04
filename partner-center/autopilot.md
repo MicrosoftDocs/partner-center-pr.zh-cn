@@ -1,7 +1,7 @@
 ---
 title: 自定义设备使用 Windows Autopilot 配置文件的全新体验 |合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在将设备交付给客户之前，了解如何使用 Autopilot 配置文件自定义或预先配置新设备的全新体验。
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot，windows autopilot，microsoft autopilot，零接触部署，oobe，登录屏幕，现成
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253330"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721429"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>自定义设备的现成体验和 Windows Autopilot 配置文件
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>为使用 Windows Autopilot 配置文件的设备自定义全新体验
 
 **适用于**
 
 - CSP 直接帐单合作伙伴、间接提供商和间接经销商
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 销售代理
+- 用户管理管理员
 
 如果你管理客户设备，你可能需要为客户的用户自定义全新体验（OOBE）。 在将设备交付给客户并将新的配置文件应用于客户已购买的设备之前，可以使用 Windows Autopilot 配置文件预先配置新设备。 
 

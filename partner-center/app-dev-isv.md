@@ -9,16 +9,16 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 胜任度，ISV，应用程序开发
 ms.localizationpriority: medium
-ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559502"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722352"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 
-**适用角色**
+**相应的角色**
 
 - 全局管理员
 - MPN 合作伙伴管理员

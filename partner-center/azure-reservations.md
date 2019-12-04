@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心-Microsoft Azure 预订概述 |合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解云解决方案提供商如何为使用合作伙伴中心、Azure 门户或合作伙伴中心 API 的客户购买、销售或管理 Azure 预订。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买, Azure RI, Azure 预留实例
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 39511095447138ffbed701fd07d5f592bba9ef33
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: f6d6e073d33baafe8ca65c8b06b2e2097c350cbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253123"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722271"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>合作伙伴中心-销售 Microsoft Azure 预订
 
@@ -26,6 +26,14 @@ ms.locfileid: "74253123"
 - 合作伙伴中心
 - Microsoft Azure 门户
 - 云解决方案提供商计划中的合作伙伴
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
 
 云解决方案提供商计划（CSP）中的合作伙伴可为其客户提供 Microsoft Azure 预订。 如果客户预先预订空间，可以节省大量成本。 Azure 保留通过以下方式为客户提供简单和灵活性：
 

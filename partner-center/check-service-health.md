@@ -1,7 +1,7 @@
 ---
 title: 检查服务运行状况 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在服务遇到问题时检查客户的服务运行状况。
@@ -10,18 +10,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 运行状况，服务运行状况，服务问题
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253428"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721662"
 ---
 # <a name="check-service-health"></a>检查服务运行状况
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
 
 当客户遇到与某个服务有关的问题时，你可以做的第一件事是检查服务运行状况。
 

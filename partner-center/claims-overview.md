@@ -1,7 +1,7 @@
 ---
 title: 奖励合作声明 |合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在没有先决条件的情况下提交奖励声明来查看活动计划。
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
-ms.openlocfilehash: a13da629dad56afd62e9898df8cd6ba8f2f5c603
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253409"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721633"
 ---
 # <a name="incentives-co-op-claims-overview"></a>奖励合作申请概述
 
 **适用于**
 
 - 合作伙伴中心
+
+**相应的角色**
+
+- 奖励管理员
+- 奖励用户
 
 当你参与其中一项 Microsoft 激励计划（如合作伙伴激励合作营销资金、在线服务顾问计划或 Dynamics ISV 计划）时，你将为你已完成的活动报销资金报销支持 Microsoft 产品认知。 直接从合作伙伴中心提交声明。 在提交申请之前，不再需要让 Microsoft 审查你的活动计划。 请在申请期截止日期（使用期结束后 45 天）之前提交你的申请和所需文档。 
 

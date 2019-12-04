@@ -1,19 +1,19 @@
 ---
 title: 分析你的业务配置文件 |合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用 "业务配置文件见解" 页来查看您的目标客户和生成引用的关注程度。
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253129"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722362"
 ---
 # <a name="analyze-your-business-profile"></a>分析你的业务配置文件
 <!-- 
@@ -23,6 +23,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **适用于**
 
 - 合作伙伴中心
+- Microsoft 合作伙伴网络合作伙伴
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 全局管理员
+- MPN 合作伙伴管理员
+- 引荐管理员
+- 企业档案管理员
+- 管理员代理
+- 销售代理
 
 "合作伙伴中心" 中的 "**业务配置文件见解**" 页可让你了解你所关注的目标客户和生成的推荐情况。
 

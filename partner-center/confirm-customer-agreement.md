@@ -1,7 +1,7 @@
 ---
 title: 确认客户接受 Microsoft 客户协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何确认客户接受 Microsoft 客户协议。 这可能需要为客户订购 Microsoft 产品和服务。
@@ -9,14 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252224"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721370"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
+
+**相应的角色**
+
+- 管理员代理
+- 销售代理
 
 目前，在 CSP 合作伙伴可以代表客户订购之前，客户必须接受并签署适用的**Microsoft 云协议**。 然后，合作伙伴必须向 Microsoft 提供签署人的相关信息，确认客户已接受协议。 如果未提供确认信息：
 - 你将无法为此客户创建新订单。
@@ -26,7 +31,7 @@ ms.locfileid: "74252224"
 
 2019 年 10 月 1 日，Microsoft 将推出针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，云解决方案提供商计划仍会支持当前的 Microsoft 云协议。 如需更多的时间线详细信息，请查看下表：
 
-| Date | 里程碑 | 详细信息 |
+| 日期 | 里程碑 | 详细信息 |
 |------------|------------|--------------------------------|
 |2019 年 8 月 1 日|在沙盒中提供 UX 预览版|合作伙伴可以在云解决方案提供商沙盒环境中使用合作伙伴中心面板确认客户接受 Microsoft 客户协议。 有权访问 CSP 沙盒环境的合作伙伴可以预览用户体验更改。 无权访问沙盒的合作伙伴可以在本主题中了解这些更改。|
 |2019 年 9 月 3 日|在沙盒中提供 API 预览版。|合作伙伴可以在云解决方案提供商沙盒环境中使用合作伙伴中心 API 确认客户接受 Microsoft 客户协议。 API 合作伙伴可以利用此机会预览 API 更改，并开始使用 API 集成为新协议提供支持。|

@@ -10,20 +10,29 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 活动日志, 订阅, 付款, 计费, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252706"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721791"
 ---
 # <a name="view-customer-activity-logs"></a>查看客户活动日志
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
+- 云解决方案提供商计划合作伙伴
 
+**相应的角色**
+
+- 全局管理员
+- 帐单管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
+- 支持人员代理
 
 活动日志为客户提供有关交易和合作伙伴管理操作的信息。 交易日志提供有关交易的详细信息，包括购买的订阅。 还可将活动日志导出为与 Excel 兼容的逗号分隔值文件格式 (.csv)。
 
@@ -31,7 +40,9 @@ ms.locfileid: "74252706"
 
 **查看和导出活动日志**
 
-1.  从“帐户设置”菜单中，选择“活动日志”。
+1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+
+2. 从“帐户设置”菜单中，选择“活动日志”。
 2.  在“从”和“至”字段中选择活动日志时段。 活动日志导出默认定向最近月份。
 
     每个活动日志均提供指向列出客户“订阅”页的链接。

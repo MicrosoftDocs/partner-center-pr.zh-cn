@@ -1,7 +1,7 @@
 ---
 title: 通过云解决方案提供商销售软件订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何使用合作伙伴中心为客户购买、管理、销售和取消 Azure 保留实例和服务器订阅。
@@ -10,14 +10,19 @@ ms.author: evansma
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Azure RI, Windows Server, SQL Server, 软件订阅
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0e2b735c1b67b49c18f2b83c042ec5a2bb0eefbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253553"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721342"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
 
 借助 Azure 保留和服务器订阅（Windows Server 和 SQL Server 订阅），CSP 计划中的合作伙伴可以更好地满足快速增长的客户需求，以实现可高度预测性和持久性的更经济高效的解决方案云工作负荷。 
 

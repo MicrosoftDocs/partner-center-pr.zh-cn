@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure，订阅，VM，预订，保留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681929"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722259"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ ms.locfileid: "74681929"
 
 - 合作伙伴中心
 
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
+ 
 ## <a name="what-are-azure-reservations"></a>什么是 Azure 保留？
 
 Azure 预订可帮助节省一年或三年的虚拟机、SQL 数据库计算能力、Azure Cosmos DB 吞吐量或其他 Azure 资源，从而节省资金。 通过预付，你可以享受所用资源的折扣优惠。 与即付即用定价相比，预订可以显著降低你在虚拟机、SQL 数据库计算、Azure Cosmos DB 以及其他资源上花费的成本，最高可达 72%。 预订提供计费折扣，不会影响资源的运行时状态。有关详细信息，请参阅[什么是 Azure 保留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)

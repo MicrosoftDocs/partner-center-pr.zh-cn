@@ -1,7 +1,7 @@
 ---
 title: 创建和管理激励声明 |合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何从合作伙伴中心启动奖励合作声明。 你可以在“历史记录”中查看构建申请所涉及的所有活动。
@@ -10,17 +10,23 @@ ms.author: labrenne
 keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253472"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721691"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>创建和管理奖励申请
 
 **适用于**
 - 合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
+- 奖励管理员
+- 奖励用户
 
 可以在合作伙伴中心内启动奖励声明。 
 

@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心中的数据和分析 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心使用分析来更好地了解你的业务，以及你的客户如何使用你购买的许可证。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 数据, 分析, 数据分析, Power BI
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384848"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722573"
 ---
 # <a name="get-data-and-analyze-your-business"></a>获取数据并分析业务
 

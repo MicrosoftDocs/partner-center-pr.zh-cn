@@ -1,7 +1,7 @@
 ---
 title: 分配支持联系人 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将经销商作为技术支持联系人分配给订阅 Microsoft 服务的客户。
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253337"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722400"
 ---
 # <a name="assign-support-contacts"></a>分配支持联系人
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
 
 为客户设置 Microsoft 服务订阅时，你可能想要为指定的经销商分配这些产品的技术支持，而不是由你本人来提供支持。
 

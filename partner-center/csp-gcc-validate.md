@@ -1,19 +1,19 @@
 ---
 title: Office 365 政府版 GCC 合作伙伴和客户资格标准 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解直销合作伙伴（直接经销商、间接提供商）的步骤，以验证 Office 365 政府版的客户和客户的 CSP。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253526"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721941"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户资格标准
 
@@ -22,8 +22,14 @@ ms.locfileid: "74253526"
 -  合作伙伴中心
 -  云解决方案提供商合作伙伴
 
+**相应的角色**
+
+- 全局管理员
+- 管理员代理
+- 销售代理
+
 >[!NOTE]
->下面概述的验证过程和标准特定于直接计费合作伙伴。 直接计费合作伙伴包括直接经销商和间接提供商。  如果你是间接经销商，请与你的间接提供商合作。 
+>下面概述的验证过程和标准特定于直接计费合作伙伴。 直接计费合作伙伴包括直接经销商和间接提供商。  如果你是间接经销商，请与你的间接提供商合作。
 
 如果你有兴趣让你的组织或客户组织获得批准以便出售适用于云解决方案提供商的 Office 365 政府版 GCC，请查看以下要求。
 

@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253138"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721762"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
+- 支持人员代理
 
 如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
@@ -37,7 +46,7 @@ ms.locfileid: "74253138"
 </colgroup>
 <thead>
 <tr class="header">
-<th>产品/服务</th>
+<th>优惠</th>
 <th>可用升级</th>
 </tr>
 </thead>
@@ -73,8 +82,6 @@ ms.locfileid: "74253138"
 </tr>
 </tbody>
 </table>
-
- 
 
 如果以下这些条件适用，可升级订阅：
 

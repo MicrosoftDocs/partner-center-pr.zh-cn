@@ -1,7 +1,7 @@
 ---
 title: 将问题上报给 Microsoft | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252569"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722241"
 ---
 # <a name="escalate-problems-to-microsoft"></a>将问题上报给 Microsoft
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 销售代理
+- 支持人员代理
 
 你应代表客户解决问题。 首先应针对现有的、有记录的问题[检查服务运行状况](check-service-health.md)。 如果上述方法未能解决客户问题，则你可以使用管理员权限来解决软件、设置和配置方面的问题。
 

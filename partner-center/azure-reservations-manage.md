@@ -10,22 +10,30 @@ ms.author: labrenne
 keywords: azure，预订，管理，计费，购买，取消，exchange，提前终止费
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252641"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722279"
 ---
-# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订       
+# <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Azure 门户 
--  云解决方案提供商计划中的合作伙伴
+- 合作伙伴中心
+- Microsoft Azure 门户 
+- 云解决方案提供商计划中的合作伙伴
 
-若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。 
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
+
+若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
 
 1. 若要开始，请从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择要管理其预留的客户。 
 
@@ -45,8 +53,8 @@ ms.locfileid: "74252641"
 
 如果客户的业务需求发生了变化，则他们可能需要取消预订，并获得退款或交换预订的按比例支付的退款金额，以用于新预订的价格。
 
-在这两种情况下，Microsoft 将为你退款，这样你就可以通过客户管理生成的财务交易。 Microsoft 不会直接与客户联系，就计费、取消或退款。   
- 
+在这两种情况下，Microsoft 将为你退款，这样你就可以通过客户管理生成的财务交易。 Microsoft 不会直接与客户联系，就计费、取消或退款。
+
 
 **取消如何工作**
 
@@ -57,10 +65,10 @@ ms.locfileid: "74252641"
 
 |**取消日期**<br> 天数   |**使用情况**    |**信用卡**  |**提前终止**<br> 费用    |**退款 cap** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5个或更少                         | 否          | 100%       | 否                              | $50000 USD   |
-|5个或更少                         | 是         | 按比例  | 否                              | $50000 USD   |
-|超过5个                        | 否          | 按比例  | 10                             | $50000 USD   |
-|超过5个                        | 是         | 按比例  | 10                             | $50000 USD   |
+|5个或更少                         | 无          | 100%       | 无                              | $50000 USD   |
+|5个或更少                         | “是”         | 按比例  | 无                              | $50000 USD   |
+|超过5个                        | 无          | 按比例  | 10                             | $50000 USD   |
+|超过5个                        | “是”         | 按比例  | 10                             | $50000 USD   |
 
 
 **交换的工作方式** 

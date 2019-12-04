@@ -11,18 +11,26 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253392"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722392"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>获取客户的 Azure 订阅使用情况数据
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
 
 数据推动业务决策。 使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
@@ -31,7 +39,7 @@ ms.locfileid: "74253392"
 
 我们跟踪下列指标：
 
-## <a name="summary"></a>Summary
+## <a name="summary"></a>摘要
 
 - **Azure 订阅总销量**：指定时间段内销售的订阅数量  
 - **使用过的客户数**：指定时间段内使用过 Azure 的客户数量  

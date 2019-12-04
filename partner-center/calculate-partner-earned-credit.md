@@ -1,7 +1,7 @@
 ---
 title: 如何计算合作伙伴盈余合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何计算 Azure 计划的合作伙伴获得信用（PEC）方面的情况。 这包括合作伙伴和间接提供商的资格要求。
@@ -9,22 +9,26 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253421"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721729"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>如何计算合作伙伴获得的信用额度（PEC）
 
+**相应的角色**
 
-在 CSP 中，对部件或其客户的整个 Azure 环境拥有全天候 IT 运营管理的合作伙伴将获得 PEC 奖励。 PEC 作为发票的一部分提供给与 Microsoft 直接计费关系的合作伙伴。 该信用额度每天计算，并反映在月度发票中。 默认情况下，在 CSP 中，为合作伙伴授予了对客户订阅所需的访问权限，使其能够对订阅上的资源进行24X7 操作管理和控制。 下一节介绍了客户可用于预配约束力合作伙伴访问权限的其他方法。   
+- 全局管理员
+- 帐单管理员
+
+在 CSP 中，对部件或其客户的整个 Azure 环境拥有全天候 IT 运营管理的合作伙伴将获得 PEC 奖励。 PEC 作为发票的一部分提供给与 Microsoft 直接计费关系的合作伙伴。 该信用额度每天计算，并反映在月度发票中。 默认情况下，在 CSP 中，为合作伙伴授予了对客户订阅所需的访问权限，使其能够对订阅上的资源进行24X7 操作管理和控制。 下一节介绍了客户可用于预配约束力合作伙伴访问权限的其他方法。
 
 
 ## <a name="important-eligibility-and-calculation-requirements"></a>重要的资格和计算要求：
 
-- 合作伙伴应具有有效的 MPN 协议和基于规则的有效帐户 C （RBAC）角色，以接收他们所管理的 azure 资产的获得的信用额度。 了解有关 [有效 RBAC 角色] 的详细信息
+- 合作伙伴应具有有效的 MPN 协议和基于规则的有效帐户控制（RBAC）角色，以接收他们所管理的 azure 资产的获得的信用额度。 了解有关 [有效 RBAC 角色] 的详细信息
 
 - 如果间接提供程序或其间接经销商，或者两者都具有对 CSP 中客户的 Azure 资源的全天候运营控制和管理，则该提供程序适用于 PEC。
 
@@ -42,7 +46,7 @@ ms.locfileid: "74253421"
 
 若要了解如何获取管理 Azure 订阅的访问权限，以及如何将 MPN ID 链接到 RBAC 角色，请阅读[Azure 计划下的管理订阅和资源](azure-plan-manage.md)。
 
-更多相关信息
+有关详细信息
 
 - [Azure 计划-计费](azure-plan-billing.md)
 

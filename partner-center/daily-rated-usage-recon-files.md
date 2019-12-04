@@ -1,31 +1,38 @@
 ---
 title: 每日分级使用帐文件 |合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
-description: 了解合作伙伴中心的每日分级使用情况协调文件。
+ms.date: 11/27/2019
+description: 了解如何在合作伙伴中心读取每日分级使用情况协调文件。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389695"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721856"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>每日分级的使用情况协调文件
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 销售代理
+- 支持人员代理
 
 本主题说明如何读取每日分级使用情况协调文件。
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>每日分级使用帐文件中的字段
 
-| 列 | 说明 |
+| 列 | 描述 |
 | ------ | ----------- |
 | PartnerId | GUID 格式的合作伙伴标识符。 |
 | PartnerName | 伙伴名称。 |
@@ -35,8 +42,8 @@ ms.locfileid: "74389695"
 | 客户所在国家/地区 | 客户所在的国家/地区。 |
 | MPNID | CSP 合作伙伴的 MPN 标识符。 |
 | 经销商 MPNID | 订阅的记录分销商的 MPN 标识符。 对当前活动不可用。 |
-| InvoiceNumber | 显示执行交易所在的发票号码。 对当前活动不可用。 |
-| 产品 ID | 产品的标识符。 |
+| InvoiceNumber | 显示指定交易所在的发票号码。 对当前活动不可用。 |
+| ProductId | 产品的标识符。 |
 | SkuId | 特定 SKU 的标识符。 |
 | AvailabilityId | 特定 SKU 可用性的标识符。 这表明 SKU 是否可在给定的国家/地区、货币、行业段等购买。 |
 | SKU 名称 | 特定 SKU 的名称。 |
@@ -59,7 +66,7 @@ ms.locfileid: "74389695"
 | 已使用服务 | 你使用的 Azure 平台服务。 |
 | 资源 URI | 所使用资源的 URI。 |
 | 费用类型 | 费用或调整的类型。 对当前活动不可用。 |
-| 单位价格 | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
+| 单价 | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | 数量 | 许可证数量。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | 单位类型 | 计量计量器的单位类型。 对当前活动不可用。 |
 | 帐单税前税 | 税前的总帐单金额。 |

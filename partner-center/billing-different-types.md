@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心的计费类型 |合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解你可能会在合作伙伴中心看到的不同计费类型、计费周期和计费日期。
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: 计费, 付款, 订单, 对帐文件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384852"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722253"
 ---
 # <a name="types-of-billing-in-partner-center"></a>合作伙伴中心的计费类型
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 全局管理员
+- 支持人员代理
+- 销售代理
 
 根据你代表客户购买的产品、解决方案和服务，将为合作伙伴中心购买付费。 计费类型如下所示：
 

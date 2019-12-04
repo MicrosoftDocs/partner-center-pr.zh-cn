@@ -1,8 +1,8 @@
 ---
 title: 帐单概述 |合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
-description: 合作伙伴中心的基本计费和发票信息。
+ms.date: 11/25/2019
+description: 了解合作伙伴中心的基本计费和发票信息。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384545"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722471"
 ---
 # <a name="billing-overview"></a>帐单概述
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商（CSP）计划中的合作伙伴
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 全局管理员
+- 支持人员代理
+- 销售代理
 
 ## <a name="find-your-bill"></a>查找帐单
 
 查找帐单：
 
 1. [登录到合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/home)。
+
 2. 在左侧菜单中，选择 "**计费**"。
+
 3. 在 "**帐单**" 页上，您可以下载最新的帐单，或在 "**帐单历史记录**" 部分下载以前的帐单。
 
 ## <a name="bill-your-customers"></a>向你的客户收费
@@ -52,7 +62,7 @@ ms.locfileid: "74384545"
 
 发票汇总了当前计费周期的所有费用。 这包括整个计划、所有产品和所有客户的费用。 有关每月和每年计费方案的示例，请参阅[通用计费方案](common-billing-scenarios.md)
 
-你的发票将在你所选计费日期的两（2）天内按 UTC 时间提供。 例如，如果你有9月12日的计费日期，则在第13个，发票生成过程将在第13个，并在第14天的12： 00 (UTC 处开始 如果你在15日未看到你的发票11： 59PM UTC，则你的服务级别协议不会超出你的要求，因此应进行服务请求。
+你的发票将在你所选计费日期的两（2）天内按 UTC 时间提供。 例如，如果计费日期为 9 月 12 日，则发票生成过程将在 13 日中午 12:00 UTC 时间开始，在 14 日中午 12:00 UTC 时间完成。 如果你在15日未看到你的发票11： 59PM UTC，则你的服务级别协议不会超出你的要求，因此应进行服务请求。
 
 选择按月计费的云解决方案提供商（CSP）计划中的合作伙伴在欠款形式中为其客户的订阅60付费（基于许可证和基于使用情况）。
 

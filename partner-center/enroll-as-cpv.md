@@ -1,7 +1,7 @@
 ---
 title: 作为控制面板供应商注册合作伙伴中心 |合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何在合作伙伴中心注册为控制面板供应商（CPV）。
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 控制面板供应商、注册 CPV 应用、管理 CPV 应用
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253581"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722555"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>作为控制面板供应商注册合作伙伴中心
 
 **适用于**
 
 - 合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
 
 控制面板供应商（CPV）是一个独立的软件供应商，可开发云解决方案提供商（CSP）合作伙伴所使用的应用程序，使其能够将其系统与合作伙伴中心 Api 集成。 控制面板供应商不是可直接访问合作伙伴中心仪表板或合作伙伴中心 Api 的 CSP 合作伙伴。
 

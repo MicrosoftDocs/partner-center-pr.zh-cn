@@ -1,7 +1,7 @@
 ---
 title: 客户订阅 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何通过合作伙伴中心向客户销售订阅并对其进行管理。
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 订阅，分配许可证，许可证，客户满意度，Azure 订阅
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253497"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722550"
 ---
 # <a name="customer-subscriptions"></a>客户订阅
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
 
 作为云解决方案提供商合作伙伴，你的核心工作之一是向客户提供 Microsoft 产品的订阅。 在合作伙伴中心，你可以管理每个客户的所有订阅。 可以添加订阅、将许可证添加到现有订阅，甚至可以向想要试用软件的客户提供试用订阅。 此外，你还可以查看分析来了解你的客户如何使用该软件，从而帮助你提供更好的支持。
 

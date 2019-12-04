@@ -1,27 +1,34 @@
 ---
 title: 常见计费方案 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 解释在添加新订阅、调整订阅中的许可证数量或取消订阅后，你将会在你的帐单上看到的内容。 基于使用情况和基于许可证的订阅受到的影响有所不同。
+description: 在添加新订阅、调整许可证数量或取消订阅后，浏览计费。 查看基于使用情况和许可证的订阅的不同之处。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384605"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722023"
 ---
 # <a name="common-billing-scenarios"></a>常见计费方案
 
-适用于：
+适用范围：
 
 - 云解决方案提供商（CSP）计划计费
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 支持人员代理
+- 销售代理
 
 这些主题说明了在添加新订阅、添加新的座位、调整订阅的许可证数量或取消订阅后，应在帐单上看到的内容。 其他[合作伙伴中心计费类型](billing-different-types.md)（例如基于使用情况和基于许可证的订阅）以不同方式计费。
 

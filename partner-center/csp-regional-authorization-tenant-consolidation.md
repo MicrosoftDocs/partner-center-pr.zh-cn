@@ -1,7 +1,7 @@
 ---
 title: 云解决方案提供商区域授权租户合并 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用这些说明合并不同国家/地区的租户。 这包括迁移客户帐户和客户订阅的步骤。
@@ -11,12 +11,12 @@ ms.author: evansma
 keywords: 迁移客户, 预配, 租户帐户, 合并租户
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253600"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722181"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并
 
@@ -25,6 +25,10 @@ ms.locfileid: "74253600"
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
+**相应的角色**
+
+- 全局管理员
+- 管理员代理
 
 \[一些信息与预先发布的产品相关，这些信息可能会在商业发布前进行重大修改。 对于此处提供的信息，Microsoft 不做任何明示或默示的担保。\]
 
@@ -122,7 +126,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 6.  为所有客户下的所有订阅重复这些步骤，阻止在以后向**过渡源**帐户收费。 合作伙伴将收到带有取消日期和计费周期最后一天之间未使用天数的信用的最终发票。 最终计费周期后不会再生成任何发票。
 
-### <a name="notes"></a>说明
+### <a name="notes"></a>注释
 
 -   从 CSP 帐户**转换**禁用订阅不会影响最终客户的服务，前提是该服务是在禁用之前从**转换为**CSP 帐户预配的。
 

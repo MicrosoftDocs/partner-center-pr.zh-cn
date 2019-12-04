@@ -1,21 +1,28 @@
 ---
 title: 常见计费方案 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
-description: 合作伙伴中心的常见计费方案（如添加新订阅、在计费日期之前添加许可证、更改许可证数量，以及暂停和重新激活订阅）。
+ms.date: 11/25/2019
+description: 请参阅合作伙伴中心年度计费-添加新订阅时，在计费日期之前添加许可证，更改许可证数量，暂停/重新激活订阅。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 91b8e318e2122f9510b160339984cc0743c318ee
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389625"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722474"
 ---
 # <a name="annual-billing-scenarios"></a>年度计费方案
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 支持人员代理
+- 销售代理
 
 如果你在合作伙伴中心使用年度计费，则这些示例[通用计费方案](common-billing-scenarios.md)适用。
 
@@ -72,7 +79,7 @@ ms.locfileid: "74389625"
 |费用开始日期 |费用结束日期 |费用类型 |单价 |数量 |金额 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|周期实例按比例计算|-48.00|1|-48.00
-1/13/2018|2018/1/31|周期实例按比例计算|2.47|1|2.47
+1/13/2018|1/31/2018|周期实例按比例计算|2.47|1|2.47
 2/1/2018|1/12/2019|周期实例按比例计算|44.98|2|89.96
 
 每年价格为 48.00，这相当于每日价格为 0.13 (48.00/365)。

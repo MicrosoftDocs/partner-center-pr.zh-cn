@@ -1,7 +1,7 @@
 ---
 title: 确认客户接受 Microsoft 云协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何确认客户接受 Microsoft 云协议。 这可能需要为客户订购 Microsoft 产品和服务。
@@ -9,17 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户，客户，同意，MCA，Microsoft 云协议，客户协议模板
 ms.localizationpriority: medium
-ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252592"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722090"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>确认客户接受 Microsoft 云协议
 
 **适用于**
 -  合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 销售代理
 
 > [!NOTE]
 > 目前仅 Microsoft 公有云中的合作伙伴中心支持协议资源。 它不适用于：
@@ -36,7 +41,7 @@ ms.locfileid: "74252592"
 
 -   姓氏
 
--   电子邮件地址
+-   Email address
 
 -   电话号码（可选）
 
@@ -92,7 +97,7 @@ ms.locfileid: "74252592"
 2. 选择“帐户信息”。
 3. 在**Microsoft 云协议**下选择**更新**。
 
-![Update](images/mca/mca4.png)
+![“更新”](images/mca/mca4.png)
 
 4. 输入接受协议的用户的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。
 5. 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。

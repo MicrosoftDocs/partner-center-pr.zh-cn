@@ -1,25 +1,35 @@
 ---
 title: 每月和每年计费差异 |合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
-Description: 合作伙伴中心中每月和每年的计费周期之间的差异。
+ms.date: 11/25/2019
+Description: 了解合作伙伴中心中每月和每年的计费周期之间的差异。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389765"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722407"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>每月和每年计费差异
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 帐单管理员
+- 全局管理员
+- 奖励管理员
+- 奖励用户
+- 支持人员代理
+- 销售代理
 
 本主题介绍合作伙伴中心中**每月计费**和**年度计费**之间的差异，包括福利和用例。 你可以选择按月或按年为某些云解决方案提供商（CSP）订阅付费。
 
@@ -213,7 +223,7 @@ ms.locfileid: "74389765"
 
 有关激励的问题，请联系相应的区域奖励支持团队：
 
-| 地区 | 电子邮件地址 |
+| Region | Email address |
 | ------ | ------------- |
 | 北美 | <ocina@microsoft.com> |
 |拉丁美洲 & 巴西 | <ocilatam@microsoft.com> |

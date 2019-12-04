@@ -1,7 +1,7 @@
 ---
 title: 通过云解决方案提供商销售本地软件 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何代表合作伙伴中心的客户购买、管理、销售和取消本地软件订阅。
@@ -10,16 +10,21 @@ ms.author: evansma
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 4993ebbb38ad4e04a65004ba6542701c525790ae
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0eb888ac225ebad1a66abd415c5572dac8b4a43e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253543"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721331"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>通过云解决方案提供商销售本地软件
 
-云解决方案提供商计划中的本地软件通过在围绕云的计划中引入本地软件来支持顺利过渡到云。  这一新服务可帮助将增值合作伙伴带到每一个购买场景，因为它们提供一个平台来交易所有 Microsoft 产品。 作为云解决方案提供商，除了 Open、EA 以及当前正在使用的其他计划外，现在还可以通过合作伙伴中心来销售本地软件。 CSP 中的本地软件是一项新的销售计划，并不旨在取代 Microsoft 的任何其他批量许可计划。 
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+
+云解决方案提供商计划中的本地软件通过在围绕云的计划中引入本地软件来支持顺利过渡到云。  此新产品/服务可帮助将增值合作伙伴带入每个购买方案，因为它们提供单个平台用于处理所有 Microsoft 产品。 作为云解决方案提供商，除了 Open、EA 以及当前正在使用的其他计划外，现在还可以通过合作伙伴中心来销售本地软件。 CSP 中的本地软件是一项新的销售计划，并不旨在取代 Microsoft 的任何其他批量许可计划。 
  
 虽然可通过本地软件许可选项确保总体客户价值最佳，但我们也使业务模型成为合作伙伴友好的。 云解决方案提供商计划中本地软件的直接许可意味着成本可预测性和简化的销售过程。 这种新业务模式便于为客户采购、管理本地软件并为其定价，使你能够专注于通过 IT 管理增值解决方案的扩展组合来赢得业务。 
 

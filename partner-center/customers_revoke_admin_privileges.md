@@ -1,7 +1,7 @@
 ---
 title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何让客户将管理员权限委派给分销商，或者删除相同的权限以及如何使用这些权限。
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 委派的管理员权限，代表的管理员，删除权限，AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 545b4f8228ced951d39de0c18d354799fb7081ac
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253475"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722188"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
+
+**相应的角色**
+
+- 管理员代理
+- 销售代理
 
 若要代表客户管理客户的服务或订阅，客户必须授予你对该服务的管理员权限。 若要从客户那里获取管理员权限，请通过电子邮件向他们发送经销商关系请求。 在客户批准你的请求后，你将能够代表客户登录到服务管理门户并管理该服务。 
 
@@ -44,7 +49,7 @@ ms.locfileid: "74253475"
 >[!IMPORTANT]  
 >客户可以在服务的管理门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在这种情况下，如果客户需要帮助，请与 Microsoft 支持部门联系，以代表客户打开服务请求。
 
-你的客户可以从 Office 365 管理门户中了解他们的哪些合作伙伴对其租户拥有管理员权限。 为此，请执行以下操作:
+你的客户可以从 Office 365 管理门户中了解他们的哪些合作伙伴对其租户拥有管理员权限。 要实现此目的，请执行以下操作：
 
 1. 客户需要以全局管理员身份登录到 Office 365 管理门户。
 
@@ -83,7 +88,7 @@ ms.locfileid: "74253475"
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure 订阅和资源管理
 
-每个 Azure 订阅都有自己的一组资源管理角色。 在 CSP 合作伙伴可以管理客户的 Azure 订阅之前，必须在 Azure 订阅下将合作伙伴分配到一个或多个角色。 尤其是在下列情况下：
+每个 Azure 订阅都有自己的一组资源管理角色。 在 CSP 合作伙伴可以管理客户的 Azure 订阅之前，必须在 Azure 订阅下将合作伙伴分配到一个或多个角色。 特别是：
 
 - 当客户接受经销商邀请并向合作伙伴授予委派管理权限时，合作伙伴不会自动获取对客户租户下的现有 Azure 订阅的访问权限。
 

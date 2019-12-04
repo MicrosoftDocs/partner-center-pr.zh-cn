@@ -1,7 +1,7 @@
 ---
 title: 客户帐户的用户管理任务 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
@@ -10,18 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253344"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721357"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客户帐户的用户管理任务
 
 **适用于**
 
 - 合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
+- 支持人员代理
 
 你可以在客户的帐户中创建和删除新用户。 你还可以还原以前在删除30天内删除的一个或多个用户帐户。 用户之前分配的订阅也将还原（假设之前的分配可用）。
 

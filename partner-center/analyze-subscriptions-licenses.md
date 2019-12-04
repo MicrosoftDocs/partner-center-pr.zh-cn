@@ -11,18 +11,26 @@ ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253370"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722366"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>分析订阅和许可证 
 
 **适用于**
 
 - 合作伙伴中心
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
 
 数据推动业务决策。 使用**订阅和许可证分析**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 

@@ -1,7 +1,7 @@
 ---
 title: 代表客户购买 Microsoft Azure 预订 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。
@@ -10,20 +10,28 @@ ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253241"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722009"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订 
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Azure 门户
--  云解决方案提供商计划中的合作伙伴
+- 合作伙伴中心
+- Microsoft Azure 门户
+- 云解决方案提供商计划中的合作伙伴
+
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+- 支持人员代理
+- 销售代理
+- 用户管理管理员
 
 ## <a name="before-you-begin"></a>开始之前
 
@@ -31,19 +39,19 @@ ms.locfileid: "74253241"
 
 - 如果客户签署新的 Microsoft 客户协议，[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)，则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅[购买 Azure 计划](purchase-azure-plan.md)。
 
--   客户必须已经拥有有效的 Azure 订阅，然后你才能代表他们购买预订
+- 客户必须已经拥有有效的 Azure 订阅，然后你才能代表他们购买预订
   
--   Azure 保留价格中不包括软件订阅费用，如 SQL 数据库或 SUSE Linux 软件
+- Azure 保留价格中不包括软件订阅费用，如 SQL 数据库或 SUSE Linux 软件
 
--   Microsoft 的商业定价不包括税款，除非你所在地为巴西。 如果你的所在地是巴西，你的商业价格将包含相应的税 
- 
--   销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
+- Microsoft 的商业定价不包括税款，除非你所在地为巴西。 如果你的所在地是巴西，你的商业价格将包含相应的税
 
--   如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则 "记录" （间接经销商）的合作伙伴将从你选择的 Azure CSP 订阅继承。 
+- 销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
 
--   无法在购买后更改 Azure 预订的记录合作伙伴。 你可以通过新记录合作伙伴取消现有预订并购买新预订。 
+- 如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则 "记录" （间接经销商）的合作伙伴将从你选择的 Azure CSP 订阅继承。
 
--   如果客户需要将 Azure 订阅从直接方式或 EA 转移至云解决方案提供商计划，预订不会转移。 
+- 无法在购买后更改 Azure 预订的记录合作伙伴。 你可以通过新记录合作伙伴取消现有预订并购买新预订。
+
+- 如果客户需要将 Azure 订阅从直接方式或 EA 转移至云解决方案提供商计划，预订不会转移。
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 预订不可用市场
 
@@ -52,7 +60,7 @@ ms.locfileid: "74253241"
 >  
 > | 不可用市场 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | 奥兰岛     | 格陵兰     | 巴布亚新几内亚     |
+> | 奥兰群岛     | 格陵兰     | 巴布亚新几内亚     |
 > | 美属萨摩亚     | 格林纳达     | 皮特凯恩群岛     |
 > | 安道尔     | 瓜德罗普岛     | 留尼汪     |
 > | 安圭拉岛     | 关岛     | 萨巴岛   |
@@ -73,15 +81,15 @@ ms.locfileid: "74253241"
 > | 乍得     | 马达加斯加     | 南乔治亚和南桑威奇群岛     |
 > | 中国     | 马拉维     | 南苏丹     |
 > | 圣延岛     | 马尔代夫     | 圣赫勒拿、阿森松与特里斯坦达库尼亚     |
-> | 科科斯群岛     | 马里     | 苏里南     |
+> | 科科斯（基林）群岛     | 马里     | 苏里南     |
 > | 科摩罗     | 马绍尔群岛     | 群岛     |
-> | 刚果     | 马提尼克     | 斯威士兰     |
+> | 刚果（布）     | 马提尼克     | 斯威士兰     |
 > | 刚果（民主共和国）     | 毛里塔尼亚     | 东帝汶   |
 > | 库克群岛     | 马约特     | 多哥   |
 > | 吉布提     | 密克罗尼西亚     | 托克劳   |
-> | 多米尼加     | 蒙特塞拉特     | 汤加   |
+> | 多米尼克     | 蒙特塞拉特     | 汤加   |
 > | 赤道几内亚     | 莫桑比克     | 特克斯和凯科斯群岛   |
-> | 厄立特里亚     | 缅甸     | 图瓦卢   |
+> | 厄立特里亚国     | 缅甸语     | 图瓦卢   |
 > | 福克兰群岛     | 瑙鲁     | 美属外岛   |
 > | 法属圭亚那     | 新喀里多尼亚     | 瓦努阿图   |
 > | 法属玻里尼西亚     | 尼日尔     | 梵蒂冈   |

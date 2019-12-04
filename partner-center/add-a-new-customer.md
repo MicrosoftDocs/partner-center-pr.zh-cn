@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384618"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722301"
 ---
 # <a name="add-a-new-customer"></a>添加新客户
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
+- 云解决方案提供商计划合作伙伴
+
+**相应的角色**
+
+- 全局管理员
+- 用户管理管理员
+- 管理员代理
+- 销售代理
+
 
 你需要将订阅添加到合作伙伴中心的客户列表，然后才能销售订阅、管理计费或向客户提供支持。
 
@@ -51,7 +60,7 @@ ms.locfileid: "74384618"
 
 7. 完成添加客户信息并购买所需订阅后，选择 "**完成**"。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 - 有关可通过云解决方案提供商计划向客户销售的内容的详细信息，请参阅[云解决方案提供商计划中的合作伙伴产品/服务](csp-offers.md)。
 

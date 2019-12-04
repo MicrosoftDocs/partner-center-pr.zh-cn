@@ -1,7 +1,7 @@
 ---
 title: 向特定行业销售 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解 Microsoft 对某些客户组（包括教育客户、非利润客户和政府用户）的特殊定价的定价。
@@ -9,18 +9,24 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 89577819ea5601bebeb10be6d9d3ab6143abf2cc
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 24102a7c299db534422e031ee9504dc48cf923cb
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253652"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722444"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
+- 管理员代理
+- 销售代理
 
 Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型企业和政府实体）提供特殊的降价。 你和你的客户必须同时具备资格才能够为他们提供特价。 
 
@@ -37,7 +43,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 以下步骤仅适用于间接提供商和直接帐单合作伙伴。 间接经销商需要与间接提供商联系，以向合格的教育用户提供学术定价的产品/服务。 
 
-1.  在你的合作伙伴仪表板中，选择窗口右上角的齿轮图标打开**帐户设置**。
+1.  在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中，选择窗口右上角的齿轮图标以打开 "**帐户设置**"。
 2.  在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。
 3.  如果你看不到**经销商资格**，则表示你尚未获得购买任何特殊产品的授权。
 
@@ -51,7 +57,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在**新订阅**页的**目录**部分，选择特定行业以查看你可以销售的特价产品/服务。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 [销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)
 
