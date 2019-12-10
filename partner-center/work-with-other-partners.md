@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 与云解决方案提供商中的其他合作伙伴合作，以满足你们的共同客户的需求。
+description: 了解间接提供商如何与云解决方案提供商（CSP）计划中的间接经销商合作，确定哪种角色适合你。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651155"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943150"
 ---
 # <a name="work-with-other-partners"></a>与其他合作伙伴合作
 

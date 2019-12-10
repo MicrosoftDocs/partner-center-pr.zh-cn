@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。
+description: 使用 Azure 合作伙伴共享服务来购买 Azure 订阅，供自己使用，并提供一种统一的方法来购买、跟踪和管理 Azure。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, 共享服务, 租户
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2d6c51ceb9151298f21bb0ebfd696e57bd8d13fb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651681"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943450"
 ---
 # <a name="add-azure-partner-shared-services"></a>添加 Azure 合作伙伴共享服务
 
@@ -71,7 +71,7 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 使用应用部署了 BYOL 或免费服务的合作伙伴将不受影响;但2019年3月1日之后，他们将无法购买新的 BYOL 或免费服务。 
 
-若要充分利用 Marketplace 产品/服务（不只是 BYOL 和免费服务），我们建议使用 web 直接 Azure 订阅部署共享服务。  建议先从 Marketplace 部署第三方 BYOL 和免费服务资源并希望继续使用这些资源并部署更多第三方产品/服务的 CSP 合作伙伴，以将应用订阅迁移到 web 直接[迁移现有 Azure订阅](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
+若要充分利用 Marketplace 产品/服务（不只是 BYOL 和免费服务），我们建议使用 web 直接 Azure 订阅部署共享服务。  我们鼓励现有的 CSP 合作伙伴从 Marketplace 部署第三方 BYOL 和免费服务资源，并希望继续使用它们并部署更多第三方产品/服务，以将应用订阅迁移到 web 直接[迁移现有的 Azure 订阅](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
 
 如果合作伙伴计划在2019年3月1日之后继续使用应用订阅，并且想要部署新的第三方[BYOL 服务](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免费服务，则可以按照 isv 提供的说明将它们部署到其应用订阅。
 

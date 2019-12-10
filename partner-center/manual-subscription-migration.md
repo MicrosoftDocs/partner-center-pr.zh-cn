@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 不能再续订 Dynamics 365 for Sales/Customer Engagement 计划（基本（合格产品））订阅。
+description: 了解如何在现有订阅过期之前购买新订阅，重新分配用户许可证，然后取消旧订阅。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 产品/服务续订优惠，全新 Dynamics 365 Sku
-ms.openlocfilehash: 354846973227fd292514454dd6f648934e5156ef
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: bbb7480264a2d3d5ae6ed1f50e0f32b5ebc1c16e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653311"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943350"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>将 Dynamics 365 和客户参与度计划从基本（限定产品/服务）迁移到较新版本
 
@@ -70,7 +70,7 @@ ms.locfileid: "73653311"
 **替换选项**
 - 针对销售专业人员的 Dynamics 365 （新）
 - 针对销售专业人员的 Dynamics 365 （新）
-- 适用于客户服务的 Dynamics 365
+- Dynamics 365 for Customer Service
 - Dynamics 365 客户参与计划或
 - Dynamics 365 团队成员
 

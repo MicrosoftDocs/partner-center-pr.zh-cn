@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 你的客户可以试用 Microsoft 订阅产品，为期 30 天。 您可以在目录中注册这些试验，就像其他许多联机服务。
+description: 你的客户可以试用 Microsoft 订阅产品，为期 30 天。 像许多其他联机服务一样在目录中注册这些试验。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ca774233fa6d5314e57f1ab2eb2a73b6037223e5
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384834"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943290"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>为客户提供 Microsoft 产品试用版
 
-适用于：
+适用范围：
 
 - 合作伙伴中心
 
@@ -92,7 +92,7 @@ ms.locfileid: "74384834"
 
 试用期到期后，尝试登录该试用版的客户将看到过期消息。 但数据存储在数据保留标准的行中。 在使用相同的服务计划购买新订阅后，可以再次从新激活的订阅访问客户信息。
 
-## <a name="billing"></a>账单
+## <a name="billing"></a>计费
 
 在主权云和公有云中，年度计费和免费试用版是相同的。 唯一的区别是在启动时可以使用试用 Sku。
 

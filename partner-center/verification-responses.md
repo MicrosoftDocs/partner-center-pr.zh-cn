@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如何响应 Microsoft 的验证更新请求
+description: 按照帐户验证的状态进行操作，并在需要时提供其他信息。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 验证、验证、拒绝、合作伙伴配置文件更新
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a7b77d8a263d71235dd30e74669b39244ec11d2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6f6dfe1b8d7815ffb93b737804b85b15b60d3cff
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651151"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943360"
 ---
 # <a name="verify-your-account-information"></a>验证你的帐户信息
 
@@ -30,7 +30,7 @@ ms.locfileid: "73651151"
 |**验证类型**   |**验证的内容和方式**   |**拒绝的操作**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |电子邮件所有权   |电子邮件所有权验证主要联系人电子邮件地址是否有效。  主要联系人电子邮件地址必须是受监视并可以发送/接收电子邮件的工作帐户。  合作伙伴不应使用：（1）不与公司域关联的个人电子邮件地址。 （2）未与电子邮件关联的租户用户登录（例如 jsmith@testcompany.onmicrosoft.com   |如果在一个工作日内没有收到电子邮件所有权验证消息，请单击 "合作伙伴配置文件" 页上的链接以重新发送消息，或联系支持人员。|
-|雇佣 |员工验证通过在公司拥有的电子邮件域上拥有活动的电子邮件地址，确认主要联系人是注册公司的员工。|如果雇用验证被拒绝，则主要联系人可以提供文档或联机来源，以确认联系人的电子邮件域是否受到其雇主的所有权。|
+|工作 |员工验证通过在公司拥有的电子邮件域上拥有活动的电子邮件地址，确认主要联系人是注册公司的员工。|如果雇用验证被拒绝，则主要联系人可以提供文档或联机来源，以确认联系人的电子邮件域是否受到其雇主的所有权。|
 |商用版   |企业验证确认注册公司是下真正 business 实体，并且位于用于注册的地址。|如果企业验证失败，则系统将要求主要联系人向公司所在国家/地区提供官方文档（如业务注册或税务注册证书或收据），确认该公司是授权在该实体名称下进行业务处理，并位于注册地址。|
 
 ## <a name="when-verification-concludes"></a>验证结束时间

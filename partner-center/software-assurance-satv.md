@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 注册软件保障培训计划
+description: 在软件保障培训计划中注册的详细信息，以便你可以获得向企业客户提供培训和规划的补偿。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 培训凭证, 软件保障, 培训, 注册 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384794"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943410"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心的软件保障培训凭证 (SATV) 计划
 
@@ -22,7 +22,7 @@ ms.locfileid: "74384794"
 
 你作为经批准的软件保证培训合作伙伴向通过软件保障获取凭证的企业客户提供技术培训时，Microsoft 会对你进行补偿。 参与此计划可以让你吸引更多客户并成为他们的受信任学习合作伙伴。
 
-## <a name="get-started"></a>入门
+## <a name="get-started"></a>“开始”
 
 如果你不熟悉软件保障培训服务，请执行以下所有步骤。 如果您已在训练凭证计划中处于活动状态，请从下面的步骤四（4）开始。 
 

@@ -2,17 +2,17 @@
 title: 验证合作伙伴配置文件
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 首次作为管理员登录心时，请确保你的支持详细信息正确、申报免税（如果适用），并在配置文件中查看联系信息。
+description: 了解如何验证公司详细信息，例如主要联系人、地址和程序信息。 还可以更新法律和帐单地址。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384788"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943050"
 ---
 # <a name="verify-your-partner-profile"></a>验证合作伙伴配置文件
 

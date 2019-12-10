@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 生成业务销售线索并与需要帮助实施 Microsoft 产品和解决方案的客户联系。
+description: 了解如何创建业务配置文件，通过合作伙伴中心的 "引用" 功能生成销售线索，然后对这些引用做出响应。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 引荐, 业务配置文件, 查找合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652158"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943250"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 

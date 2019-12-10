@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 Business Edition 订阅不能再续订。
+description: 了解如何在更新后将 Dynamics 365 Business Edition 产品/服务迁移到更新的版本。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 产品/服务续订优惠，全新 Dynamics 365 Sku
-ms.openlocfilehash: fc6964135058a805a32f81b09974b8e6d08e85d6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653297"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943570"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>将 Dynamics 365 商业版产品/服务迁移到较新版本 
 
@@ -32,8 +32,8 @@ ms.locfileid: "73653297"
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>要停用的 Dynamics 365 业务版本
 
-- 适用于财务和运营的 Dynamics 365，Business edition
-- 适用于团队成员的 Dynamics 365，Business edition
+- Dynamics 365 for Finance and Operations Business Edition
+- 适用于团队成员的 Dynamics 365，商业版
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 Business Edition 新产品/服务
 

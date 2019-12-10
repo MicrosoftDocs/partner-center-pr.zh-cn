@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654213"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943510"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心
 
@@ -32,6 +32,30 @@ ms.locfileid: "73654213"
 > 
 > 接下来，新客户可以选择使用当前可用的欧洲地区或德国的新地区（在这些地区可用时）。 有关详细信息，请参阅 [Microsoft 通过德国的新数据中心提供云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
+# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>将客户从 Microsoft 云德国迁移到另一欧洲地区
+在将客户订阅从德国 Microsoft 云迁移到其他欧洲地区之前，你必须具有位于该区域的现有 CSP 帐户，且当前处于活动状态。 如果没有帐户，系统会提示在合作伙伴中心选择 CSP 帐户期间创建一个。 迁移后，你的客户订阅将与所选租户关联。
+
+## <a name="migrate-with-an-existing-csp-account"></a>使用现有的 CSP 帐户进行迁移
+1.  当你登录到 Microsoft 云德国的合作伙伴中心时，系统将提示你选择一个活动的 CSP 租户。 选择“确定”。
+2.  出现提示时，请选择 **"我已在欧洲地区拥有租户**"，然后选择 "**下一步**"。 系统将提示你登录到新租户。 
+3.  以全局管理员身份登录到租户。
+4.  查看 "确认" 页上的信息，然后选择 "**确认**"。
+5.  系统将提示你选择 "**查看详细**信息" 或 "**查看仪表板**" 以获取详细信息。 
+
+如果登录失败，则可能是以下各项之一：
+- 你不是所选租户的全局管理员
+- 租户不位于欧洲地区
+- 租户不处于活动状态
+
+进行必要的更正，并重复该过程。
+
+## <a name="migrate-without-an-existing-csp-account"></a>不使用现有 CSP 帐户进行迁移
+1.  当你登录到 Microsoft 云德国的合作伙伴中心时，系统将提示你选择一个活动的 CSP 租户。 选择“确定”。
+2.  出现提示时，请选择 **"我在欧洲地区没有租户**"，然后选择 "**创建新帐户**"。 
+3.  你将转到 "合作伙伴中心注册" 页，你可以在其中的欧洲区域创建新的租户和 CSP 帐户。 
+4.  签署协议并激活该帐户后，请用当前 Microsoft 云德国帐户登录。
+5.  导航到租户选择窗体。
+6.  选择 "**我已经拥有欧洲地区的租户**"，然后按照说明进行操作。
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>德国 Microsoft 云合作伙伴中心：在欧盟和欧洲自由贸易联盟内销售德国云解决方案
 

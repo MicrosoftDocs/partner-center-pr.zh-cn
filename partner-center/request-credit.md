@@ -2,19 +2,19 @@
 title: 请求 Microsoft 的 SLA 信用额度 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: 如果客户遇到服务中断，请从 Microsoft 请求 SLA 信用额度。
+description: 如果客户遇到服务中断，请了解从 Microsoft 请求 SLA 信用的好处、限制和过程。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384905"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943140"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>请求 Microsoft 的 SLA 信用额度 
 
@@ -30,7 +30,7 @@ Microsoft 的 SLA 信用取决于受影响的服务。 例如，如果你的客�
 
 *云解决方案提供商（CSP）合作伙伴必须在发生事件的月份后，按日历月结束时间提交声明和所有必需的信息。* 例如，如果事件在2月15日发生，则 Microsoft 必须在3月31日前收到声明和所有必需的信息。 最终客户和间接经销商无法提交 SLA 信用索赔;间接提供商或直接帐单合作伙伴必须代表他们提交声明。
 
-### <a name="required-information"></a>必需信息
+### <a name="required-information"></a>必要信息
 
 向 Microsoft[提交 SLA 信用请求](#submit-sla-credit-request)之前，必须收集下列信息，以将其包括在支持票证中：
 
@@ -44,14 +44,14 @@ Microsoft 的 SLA 信用取决于受影响的服务。 例如，如果你的客�
 
 | 两字母缩写 | Microsoft 服务 |
 | ----------------------- | ----------------- |
-| 例如 | Exchange Online |
+| EX | Exchange Online |
 | FO | Exchange Online 保护 |
 | SB | Skype for Business Online （以前称为 Lync Online） |
-| OS | Office 订阅 |
-| 容量 | Power BI for Office 365 |
+| 操作系统 | Office 订阅 |
+| PB | Power BI for Office 365 |
 | SP | SharePoint Online |
 | 4EN-YA-P0U | Yammer 企业 |
-| 月 | 门户错误 |
+| MO | 门户错误 |
 
 ### <a name="submit-sla-credit-request"></a>提交 SLA 信用请求
 

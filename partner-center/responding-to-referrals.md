@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 07/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 作为一位合格的 Microsoft 合作伙伴，你可以通过合作伙伴中心对引荐进行评估、协商和回应。
+description: 了解如何响应引用、管理新的、现有的和存档的引用，并在将来获取更多的引用。
 author: JnHs
 ms.author: jenhayes
 keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 49b5c7e0f718f23c25a9adcab1edfec47814d048
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0cd8ac3dba2570d2d4d2440d4b524bb76ced39a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654082"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943440"
 ---
 # <a name="respond-to-referrals"></a>回应引荐
 

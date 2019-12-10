@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 客户可以在云解决方案提供商计划中更改要用于提供 Microsoft Azure 服务的合作伙伴。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。
+description: 了解如何与客户合作，以更改客户将用于 Azure 服务的云解决方案提供商计划中的哪个合作伙伴。
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: a0dd17c56e04368be430808ab5191a6c5adca8cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651537"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943390"
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 验证并预留合作伙伴中心的凭证
+description: 有关凭证验证和兑换工具的常见问题，包括有关迁移、请求和控制访问的信息等。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 培训凭证，软件保障，培训，验证凭证，预订凭证
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651052"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943170"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常见问题解答：使用凭证验证和兑换工具 
 

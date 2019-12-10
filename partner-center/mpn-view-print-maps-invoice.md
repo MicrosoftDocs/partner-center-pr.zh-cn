@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何查看、下载和打印你的 MPN 会员发票以及用于免税的文件，以及向 Microsoft 发送你的 VAT ID 号。
+description: 了解如何查看或下载你的 MPN 会员发票以及用于免税的文件，以及向 Microsoft 发送你的 VAT ID 号。
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN，发票，地图，免税，VAT，VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653035"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943540"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作伙伴网络中的发票和税款
 

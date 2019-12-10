@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 查看奖励计划的收益和付款。
+description: 查看奖励计划的收益和付款。 这包括 "付款" 页、"交易历史记录" 页和付款状态以及导出数据。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559749"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943180"
 ---
 # <a name="view-your-incentives-payments-information"></a>查看激励支付信息
 
@@ -54,21 +54,21 @@ ms.locfileid: "74559749"
 
 ## <a name="payment-status"></a>付款状态
 
-|**收益状态** |**在于** |**需要合作伙伴操作？**       |
+|**收益状态** |**原因** |**需要合作伙伴操作？**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |尚未        | 收益有资格支付。 它在激励计划的收视指南中定义的冷却周期处于此状态。       |无        |
-|到来      |支付订单在处理付款之前生成待定内部评审。       |无       |
+|近期      |支付订单在处理付款之前生成待定内部评审。       |无       |
 |待定销售税发票      |您的纳税发票不完整或无效。          |您需要更新您的纳税发票才能支付费用         |
 |审核时被拒绝        |付款在评审期间被拒绝。          |有关详细信息，请联系 Microsoft 支持部门         |
 |Failed        |由于 Microsoft 系统错误，付款失败。         |有关详细信息，请联系 Microsoft 支持部门         |
 |正在进行中     |付款正在进行。         |无         |
 |付款错误        |付款 recouping 正在进行。          |无        |
-|Sent        |已将付款发送到银行。          |无       |
+|已发送        |已将付款发送到银行。          |无       |
 |处理       |付款遇到 Microsoft 系统错误，正在重新处理。           |无         |
-|反向        |付款已被银行冲销，并将在下一个付款周期再次发送。          |无        |
+|反转        |付款已被银行冲销，并将在下一个付款周期再次发送。          |无        |
 |销售税发票已拒绝       |您的纳税发票在审查期间被拒绝。 在纳税发票评审完成之前，所有待定付款都将处于暂停状态。          |有关详细信息，请联系 Microsoft 支持部门         |
 |审查后的纳税发票        |正在查看您的纳税发票。 发票获得批准后，你的付款就会发布。           |无        |
-|否决        |银行拒绝付款。           |联系银行获取详细信息。  |
+|被拒绝        |银行拒绝付款。           |联系银行获取详细信息。  |
 
 ## <a name="export-data-page"></a>"导出数据" 页
 按照此页上的说明导出所需的数据。 
@@ -129,7 +129,7 @@ ms.locfileid: "74559749"
 |paymentId   |付款的唯一标识符。 此数字通常在银行报表中可见。   |
 |paymentStatus   |付款状态   |
 |paymentStatusDescription   |付款状态的友好说明   |
-|顾客   |客户标识符   |
+|customerId   |客户标识符   |
 |customerName   |事务客户名称   |
 
 
@@ -140,7 +140,7 @@ ms.locfileid: "74559749"
 |partNumber   |链接到事务的部件号。 Microsoft 术语。   |
 |productName   |产品系列名称已画到交易   |
 |invoiceNumber   |发票编号   |
-|订阅   |与客户关联的订阅标识符   |
+|subscriptionId   |与客户关联的订阅标识符   |
 |And subscription.subscriptionstartdate   |订阅开始日期   |
 |Subscription.subscriptionenddate   |订阅结束日期   |
 |offerId   |待定   |
@@ -151,6 +151,6 @@ ms.locfileid: "74559749"
 |agreementNumber   |协议编号   |
 |agreementStartDate   |协议开始日期   |
 |agreementEndDate   |协议结束日期   |
-|均衡   |工作负荷   |
+|工作负荷   |工作负荷   |
   
 

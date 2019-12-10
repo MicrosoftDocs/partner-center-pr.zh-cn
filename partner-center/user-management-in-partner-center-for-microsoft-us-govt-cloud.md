@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 为了符合管理收集和使用个人数据的国家、地区和业界特定要求，在美国政府 Microsoft 云合作伙伴中心中尚未提供用户管理功能。 但是，可以在美国政府 Microsoft 云的 Azure 门户中添加和管理用户。
+description: 了解如何以及在何处管理美国政府合作伙伴、客户和许可证的合作伙伴 Microsoft 云中心，以及密码重置。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653970"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943600"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
 

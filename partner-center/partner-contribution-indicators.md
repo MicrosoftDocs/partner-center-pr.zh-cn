@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 各种数据，展示你的公司使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后的情况
+description: 确切了解您的工作方式，以及可以对 Dynamics 365 客户订婚或 Dynamics 365 财务和运营方面的改进
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, 绩效, 客户成功, 度量, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391622"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943120"
 ---
 # <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
@@ -53,7 +53,7 @@ PCI 为公司的技术功能提供了一种全面、全面的视图，能够促�
 
 ![客户参与](images/pci/table_1.png)
 
-![财务组](images/pci/TABLE_2.png)
+![财经](images/pci/TABLE_2.png)
 
 ![注意事项](images/pci/table_3.png)
 
@@ -65,11 +65,11 @@ PCI 为公司的技术功能提供了一种全面、全面的视图，能够促�
 
 ![功能顾问](images/pci/functional_consultants.png)
 
-![年](images/pci/functional_consultant_growth.png)
+![growth](images/pci/functional_consultant_growth.png)
 
 ![开发人员](images/pci/developers.png)
 
-![新部署](images/pci/new_large_deployments.png)
+![新建部署](images/pci/new_large_deployments.png)
 
 ![活动用户](images/pci/monthly_active_user_growth.png)
 

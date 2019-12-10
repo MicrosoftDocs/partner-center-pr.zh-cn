@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 作为 Microsoft 合作伙伴网络成员，你可能有资格享受某些投放市场的权益。 了解可用的不同级别的上市权益，以及如何在合作伙伴中心激活和管理它们。
+description: 市场推广权益使你能够访问独家销售和市场营销资源，这些资源可帮助你缩短投放市场的时间、生成潜在顾客并拓展你的业务。
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN，成员资格权益，成员资格，市场推广优势，走向市场，转向市场，中转，金牌成员身份，银成员资格
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653258"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943330"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>探索 MPN 的走向市场（直接）成员权益
 
@@ -23,7 +23,7 @@ ms.locfileid: "73653258"
 - 合作伙伴中心
 - Microsoft 合作伙伴网络成员
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
 - MPN 合作伙伴管理员
@@ -67,9 +67,9 @@ ms.locfileid: "73653258"
 
 1. 登录到合作伙伴中心[仪表板]( https://docs.microsoft.com/partner-center/)。
 
-2. 在左侧菜单中，选择 " **MPN**"。 然后，执行下列操作之一：
+2. 在左侧菜单中，选择 " **MPN**"。 然后执行以下操作之一：
 
-    - 选择 "**概述**"。 滚动到 "**快速链接**" 部分，然后选择 "**走向市场**" 选项卡。
+    - 选择“概述”。 滚动到 "**快速链接**" 部分，然后选择 "**走向市场**" 选项卡。
 
       或
 
@@ -82,7 +82,7 @@ ms.locfileid: "73653258"
 有关激活或管理你的中转成员权益的特定步骤，请参阅[如何管理市场推广权益](manage-your-partner-network-benefits.md#manage-go-to-market-benefits)。 在此过程中，您需要将市场营销人员指定为与您激活的工作方式相关的跟进电子邮件和通信。
 
 >[!IMPORTANT]
->你需要是全局管理员或 MPN 合作伙伴管理员，才能激活特定的 "联系权益" 权益，并分配相关的营销联系人。 如有必要，你可以按照 " [**权益**" 页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明（需要登录）来成为全局管理员。 你的公司可能已拥有全局管理员，因此请确保与你的团队联系。
+>你需要是全局管理员或 MPN 合作伙伴管理员，才能激活特定的 "联系权益" 权益，并分配相关的营销联系人。 如果需要，可以根据[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明成为全局管理员（需要登录）。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
 
 #### <a name="see-also"></a>另请参阅
 

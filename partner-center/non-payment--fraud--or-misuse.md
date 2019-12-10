@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 用于应对在线交易风险（包括客户对所购产品和服务拒不付款的行为，以及欺诈活动或滥用行为）的策略。
+description: 了解联机事务中涉及的各种风险以及管理和缓解这些风险的最佳实践，这一点很重要。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384763"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943520"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>管理合作伙伴中心的非支付、欺诈或误用
 
-适用于：
+适用范围：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心

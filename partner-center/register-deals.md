@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 对于某些符合条件的解决方案，选择“赢单”后，系统将要求你提供其他信息才能注册交易。 Microsoft 将审查你提供的信息，并且在审查过程中可能会要求你提供其他详细信息。
+description: 当你注册在合作伙伴中心赢得的交易时，它可帮助 Microsoft 在将来提供更多机会。
 author: JnHs
 ms.author: jenhayes
 keywords: 交易注册
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652053"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943220"
 ---
 # <a name="register-your-deals"></a>注册交易
 

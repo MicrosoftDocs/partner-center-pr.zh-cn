@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心管理公司的位置
+description: 了解如何在激励计划、CSP 业务、订阅和其他事务中使用 MPN ID。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 合作伙伴帐户，位置
 ms.localizationpriority: medium
-ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653358"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943500"
 ---
 # <a name="manage-your-partner-account-locations"></a>管理你的合作伙伴帐户：位置
 

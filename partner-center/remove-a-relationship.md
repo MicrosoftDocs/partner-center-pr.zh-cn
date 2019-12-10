@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 删除关系时，会从你在合作伙伴中心的视图中删除任何已达成的业务关系。
+description: 了解如何从客户列表中删除客户、删除你自己的委派管理员权限，并停止购买或提供支持。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a4fb0bc0ddcf5bb6c759558c25a3df8fb12ddf08
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651977"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943230"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>删除与客户的经销商关系
 

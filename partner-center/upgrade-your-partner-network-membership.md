@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 升级你的 Microsoft 合作伙伴网络成员身份后，你将有资格获取成员身份专享权益。 了解如何查找和购买提供的产品/服务。
+description: 通过将你的 MPN 成员身份升级到 Microsoft Action Pack 订阅成员身份或 Microsoft 称职，来享有独有权益。
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651168"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943400"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
@@ -82,7 +82,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，还提�
 3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择“关闭自动续订”。 
 
 > [!NOTE]  
-> 如果关闭自动续订功能，则在再次续订订阅之前，将无法重新启用它。 在订阅到期前，我们会提醒你续订。
+> 如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>续订 Action Pack 订阅

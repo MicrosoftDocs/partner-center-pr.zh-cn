@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心中，查找你在合作伙伴管理员中心中已习惯使用的功能
+description: 从合作伙伴管理中心迁移到合作伙伴中心后，请了解如何管理成员身份、客户引用、奖励和云解决方案提供商计划（CSP）的所有其他方面。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 管理员, PAC 功能
 ms.localizationpriority: medium
-ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654303"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943560"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>从合作伙伴管理员中心 (PAC) 迁移到合作伙伴中心
 
@@ -32,9 +32,9 @@ ms.locfileid: "73654303"
 |请求关系|（经销商和顾问）建立业务 -> 发送 DAP 请求|（经销商和顾问）客户 -> 请求经销商关系（请参见下方注释）|
 |管理客户|客户端管理 -> 客户端列表|合作伙伴中心 -> 客户|
 |管理客户订阅|客户端管理 -> 客户端列表 -> 选择客户|合作伙伴中心-> 客户-> 选择 "客户" 或 "将客户添加到**收藏夹**" 列表，方法是在 "客户" 列表中切换星形，然后选择 "**收藏夹**" slideout 并直接管理客户的**订阅**。|
-|代表客户进行管理|客户端管理 -> 选择客户 -> 选择“管理”按钮|合作伙伴中心-> 客户-> 从下拉列表中选择 "管理服务 **"** -> 选择 "服务" 或 "将客户添加到收藏夹" 列表，方法是在 "客户" 列表中切换星形，然后选择 **"slideout"** ，并直接跳到**管理**所需服务的服务。|
+|代表客户进行管理|客户端管理 -> 选择客户 -> 选择“管理”按钮|合作中心-> 客户-> 从下拉列表中选择 "管理服务"-> 选择 "服务" 或 "将客户添加到**收藏夹**" 列表，方法是在 "客户" 列表中切换星形，然后选择 **"slideout"** ，并直接使用 "管理所需服务的**服务**"。|
 |为客户创建服务请求|服务请求 -> 选择客户 -> 选择 + 按钮 | 合作伙伴中心 -> 服务请求 -> 客户请求 -> 选择客户 -> 新建请求|
-|管理客户服务请求| 服务请求 -> 选择客户|"合作伙伴中心-> 服务请求-> 客户请求"-> 选择 "客户" 或 "将服务请求添加到**收藏夹**" 列表，方法是在客户请求视图中为客户切换星形，然后选择 "slideout" （**收藏夹**），选择"**支持请求**" 选项卡并直接跳到服务请求，或直接从**收藏夹**中查看更新。|
+|管理客户服务请求| 服务请求 -> 选择客户|"合作伙伴中心-> 服务请求-> 客户请求"-> 选择 "客户" 或 "将服务请求添加到**收藏夹**" 列表，方法是在客户请求视图中通过切换星形**选择 slideout，** 选择 "**支持请求**" 选项卡，然后直接跳到服务请求-或直接从**收藏夹**查看更新。|
 |查看你管理的 Microsoft Online Services 的运行状况|服务运行状况 -> 聚合运行状况|合作伙伴中心 -> 服务运行状况|
 
 >重要提示<br>

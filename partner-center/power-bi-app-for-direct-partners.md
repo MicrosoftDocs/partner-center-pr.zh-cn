@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 借助适用于 Power BI 的合作伙伴中心分析应用获得业务数据的直观表示。
+description: 有关合作伙伴中心分析应用 Power BI 的一般概述和常见问题。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0e5bc4ab47997123cace045bf577f2fa825174c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654159"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943470"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>适用于 Power BI 的合作伙伴中心分析应用（面向云解决方案提供商中的直接合作伙伴）
 
@@ -44,7 +44,7 @@ ms.locfileid: "73654159"
 
 建议在安装该应用前查看我们的常见问题解答。 
 
-| **问** | **答案** |
+| **问题** | **答案** |
 | --- | ---------- |
 | 此应用需要花费多少成本？ | 此应用本身是免费的。 要预览此应用，你可以[注册免费 Power BI 服务](https://go.microsoft.com/fwlink/p/?linkid=845347)并用它自定义仪表板和报告。 要允许贵公司的其他人员使用此应用，你需要 Microsoft Power BI 专业版或 Microsoft Power BI 高级版的活动订阅。 |
 | 谁可以连接到合作伙伴中心分析应用？ | 此版本的应用专为云解决方案提供商计划中的直接合作伙伴（第 1 层）设计。 如果你直接与 Microsoft 以及客户开展业务，你就是直接合作伙伴。 若要安装此应用，你必须是企业帐户的全局管理员、管理员代理或计费管理员。 |

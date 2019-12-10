@@ -2,7 +2,7 @@
 title: 税收和税款例外 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: 了解税收责任，并为 CSP 销售提交税款例外。
+description: 了解你的特定地理区域的税费责任，以及如何为你的 CSP 销售提交税款例外。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,16 +10,16 @@ author: MaggiePucciEvans
 keywords: 税金，免税，vat，分销商，计费
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91f6c7265dec3a72a24130221cedef8de6d4ce31
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384874"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943190"
 ---
 # <a name="taxes-and-tax-exemptions"></a>税和免税
 
-适用于：
+适用范围：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
@@ -68,7 +68,7 @@ Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买�
 
 ## <a name="tax-receipts-and-daf"></a>税务收据和 DAF
 
-税收收据（适用于中国台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。
+税收收据（适用于台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。
 
 ## <a name="file-tax-exemptions"></a>申报免税
 
@@ -87,7 +87,7 @@ Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买�
 2. 在 "**合作伙伴请求**" 页上，选择 "**新建请求**"。 （你还可以在此页面上查看打开和关闭的支持请求。）
 3. 在 "**基本**" 步骤的 " **CSP-计费和付款**" 下，选择 "**选择问题类型**"，然后选择 "**免税请求**"。
 4. 在**解决方案**步骤中，在 "**是否需要更多帮助？** " 下，选择 **"是"** 。
-5. 在**详细信息**步骤中，填写 "**问题详细信息**" 窗体。 务必：
+5. 在**详细信息**步骤中，填写 "**问题详细信息**" 窗体。 请务必：
 
     - 填写所有必填字段。
     - 在**详细信息**字段中包含**Microsoft ID**和**MPN id** 。

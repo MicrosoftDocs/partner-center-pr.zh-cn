@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Office 365 合作伙伴管理中心合作伙伴在迁移到合作伙伴中心时的关键注意事项
+description: 迁移到合作伙伴中心后，查找常见的 Office 365 合作伙伴管理中心功能，如生成业务和服务请求。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654237"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943320"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作伙伴管理中心合作伙伴：准备好将业务运营转移到合作伙伴中心
 

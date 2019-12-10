@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将多个公司从 PMC 迁移到合作伙伴中心时需要了解的事项
+description: 当你将多个公司从 PMC 迁移到合作伙伴中心并将其合并到主要全局帐户时，应了解哪些内容。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654349"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943580"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>将多个公司移到合作伙伴中心
 

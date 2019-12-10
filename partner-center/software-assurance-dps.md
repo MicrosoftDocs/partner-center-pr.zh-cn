@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 注册规划服务，为企业客户提供预先部署规划
+description: 在计划服务中注册，以便向具有软件保障的企业客户提供培训和其他服务。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 预部署、规划、软件保障
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651622"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943420"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 

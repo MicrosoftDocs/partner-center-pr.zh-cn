@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将业务从 PMC 移动到合作伙伴中心之前要考虑的问题
+description: 在将业务从 PMC 移动到合作伙伴中心之前，请先查看有用的信息和常见问题。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652189"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943260"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从合作伙伴成员中心（PMC）迁移到合作伙伴中心
 
@@ -23,7 +23,7 @@ ms.locfileid: "73652189"
 
 **什么是 Azure Active Directory （Azure AD）工作帐户？**
 
-Azure 工作帐户是你的公司在 Azure 公共云中的专用独立虚拟表示形式，并且是在你订阅 Microsoft 云服务（如 Azure、Microsoft Intune 或 Office 365）时为你创建的。
+Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形式，它是在订阅 Microsoft 云服务（如 Azure、Microsoft Intune 或 Office 365）时创建的。
 
 你的工作帐户将托管你的 Azure AD 用户以及有关这些用户的信息-他们的电子邮件、密码、配置文件数据、权限等。 工作帐户还包含与公司及其安全性相关的组、应用程序和其他信息。 有关详细信息，请参阅 。
 
@@ -91,7 +91,7 @@ PMC 中的 MPN 全局管理员角色可以执行以下操作：
 **如果我有多个 AAD 租户和单个 MPN 帐户，是否可以在合作伙伴中心进行链接？**
 
 是的，在合作伙伴中心，你可以将多个 Azure AD 租户链接到单个合作伙伴中心帐户。
-在此处了解详细信息。 
+单击此处可了解详细信息。 
 
 **是否存在将多个 Azure AD 租户添加到单个合作伙伴中心帐户的限制？**
 

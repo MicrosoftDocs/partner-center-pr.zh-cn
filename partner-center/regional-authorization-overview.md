@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 根据公司的位置，查看可以销售 CSP 产品/服务的国家和地区。
+description: 根据公司的位置，查看可以销售 CSP 产品/服务的国家/地区和货币。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP 市场，区域，可在其中销售 CSP、CSP 产品、区域、销售云解决方案、全局 CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652069"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943240"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划地区市场和货币
 
@@ -107,7 +107,7 @@ ms.locfileid: "73652069"
 |  香港特别行政区         |   USD    |
 |  印度尼西亚         |   USD    |
 |  老挝              |          |
-|  特别行政区             |   USD    |
+|  澳门特别行政区             |   USD    |
 |  马来西亚          |   USD    |
 |  马尔代夫          |          |
 |  缅甸语           |          |
@@ -347,7 +347,7 @@ ms.locfileid: "73652069"
 |  莫桑比克     |          |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
-|  巴勒斯坦民族地区 |        |
+|  巴勒斯坦占领区 |        |
 |  卡塔尔          |   USD    |
 |  沙特阿拉伯   |   USD    |
 |  塞尔维亚共和国         |   USD    |
