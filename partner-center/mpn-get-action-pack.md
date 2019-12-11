@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何获取 Microsoft Action Pack，无论是首次购买还是续订。
+description: 了解如何购买 Microsoft Action Pack 订阅并开始使用 Action Pack 权益。 另请了解如何续订、取消、查看账单，等等。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
 ms.localizationpriority: high
-ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654301"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943340"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>首次购买或者续订 Microsoft Action Pack 订阅、银级或金级资质
 

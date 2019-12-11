@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft 合作伙伴网络会员有权购买某些会员权益。 本文介绍如何在合作伙伴中心激活和管理会员权益。
+description: 加入 Microsoft 合作伙伴网络 (MPN) 并管理有助于发掘和扩大业务的会员资格权益。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 会员权益, 会员资格
 ms.localizationpriority: high
-ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681949"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943590"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理 Microsoft 合作伙伴网络会员权益
 

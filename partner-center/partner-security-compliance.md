@@ -3,17 +3,17 @@ title: 合作伙伴安全要求状态 | 合作伙伴中心
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 随时了解公司对 MFA 要求的符合状态。
+description: 了解为了提高云解决方案提供商计划中的顾问、控制面板供应商以及合作伙伴的安全性而需满足的全新强制性要求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295254"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943110"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
 

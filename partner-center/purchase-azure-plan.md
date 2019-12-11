@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 通过 Azure 计划购买多个 Azure 订阅
+description: 了解如何在 Azure 计划下购买单个或多个 Azure 订阅和 Azure 预订，以便配置资源以及查看或添加订阅。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654167"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943270"
 ---
 # <a name="purchase-the-azure-plan"></a>购买 Azure 计划
 

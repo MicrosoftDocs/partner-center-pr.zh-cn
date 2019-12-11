@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解与 Microsoft 合作可获得的权益。 Microsoft 合作伙伴网络提供齐全的产品，并提供各种计划选项来突显客户的业务优势、将产品投放市场和销售解决方案。
+description: 了解与 Microsoft 合作的好处，包括 Microsoft Action Pack、资质，以及突显客户业务优势、将产品投放市场和销售解决方案所需的计划选项。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ca47417870c2308758fe6e7db5ed9dfc5ae2a4fc
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096526"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943310"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 

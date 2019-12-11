@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure 计划中合作伙伴赚取的返点是什么
+description: 合作伙伴赚取的返点提供简化的统一 Azure 定价，提供增值托管服务，有助于消除利润竞争。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654207"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943060"
 ---
 # <a name="partner-earned-credit---overview"></a>合作伙伴赚取的返点 - 概述
 

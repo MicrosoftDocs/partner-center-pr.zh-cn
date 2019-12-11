@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/10/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 必须为需要在合作伙伴中心工作的每位员工分配一个角色。
+description: 了解哪些角色最适合你的管理商业交易、引荐、奖励或公司 MPN 成员资格的用户。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652423"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943130"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
