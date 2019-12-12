@@ -8,12 +8,12 @@ description: 迁移到合作伙伴中心后，查找常见的 Office 365 合作�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943320"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005066"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作伙伴管理中心合作伙伴：准备好将业务运营转移到合作伙伴中心
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943320"
 
 - 合作伙伴中心
 - Office 365 合作伙伴管理中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 我们正在将 Office 365 合作伙伴管理中心功能带入合作伙伴中心，以帮助你在整个业务生命周期中管理客户。 除了使用的功能之外，现在还可以： 
 

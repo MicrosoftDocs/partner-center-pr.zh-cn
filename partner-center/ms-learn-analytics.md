@@ -8,14 +8,18 @@ description: 利用各个培训、已完成的模块、已完成的学习途径�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943530"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005101"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 分析报表
+
+**相应的角色**
+-   全局管理员
+-   MPN 合作伙伴管理员
 
 Microsoft Learn 报表提供了有关公司中的学员的信息，其中包括他们完成的模块以及他们所在的学习路径。 该报表显示每个单独学习器的状态。 贵公司的全局管理员和 MPN 管理员可以查看数据。
 

@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943520"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005076"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>管理合作伙伴中心的非支付、欺诈或误用
 
@@ -24,6 +24,12 @@ ms.locfileid: "74943520"
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   帐单管理员
 
 你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此，*我们强烈建议您设置防欺诈防护和检测风险缓解*措施。
 

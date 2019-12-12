@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: MPN，发票，地图，免税，VAT，VAT ID
 ms.localizationpriority: medium
-ms.openlocfilehash: ec3813363b8ec69ee813fa7c65e6e39d00226016
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943540"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004256"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作伙伴网络中的发票和税款
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   MPN 合作伙伴管理员
+-   帐单管理员
+-   管理员代理
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>查看或下载你的 MPN 成员身份发票
 

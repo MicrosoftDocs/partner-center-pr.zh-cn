@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384777"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004846"
 ---
 # <a name="marketplace-exclusive-offers"></a>Marketplace 专用产品/服务
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 Isv 可以选择使其产品/服务可用于选择数量的 CSP 合作伙伴。 所有 CSP 合作伙伴仍将能够查看合作伙伴中心市场中的所有 ISV 产品/服务，但标记为 "独家" 的产品/服务将只能由 ISV 选择的合作伙伴购买。 如果产品/服务未表示为 "独占"，则所有合作伙伴都可以购买该产品/服务。
 

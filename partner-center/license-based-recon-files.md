@@ -7,25 +7,31 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389815"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004595"
 ---
 # <a name="license-based-reconciliation-files"></a>基于许可证的对帐文件
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   帐单管理员
+-   管理员代理
 
 若要对客户的订单进行协调，请将对帐文件中的**Syndication_Partner_Subscription_Number**与合作伙伴中心的**订阅 ID**进行比较。
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>基于许可证的对帐文件中的字段
 
-| 列 | 说明 | 示例值 |
+| 列 | 描述 | 示例值 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定计费实体的 GUID 格式的唯一标识符。 对帐不是必需的。 在所有行中均相同。 | *8ddd03642--46b58d356b4e* |
 | CustomerID | GUID 格式的客户的唯一 Microsoft 标识符。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
@@ -44,13 +50,13 @@ ms.locfileid: "74389815"
 | 数量 | 席位的数量。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *2* |
 | 金额 | 数量的总价。 用于检查量计算是否与你为客户计算此值的方式匹配。 | *13.32* |
 | TotalOtherDiscount | 适用于这些费用的折扣金额。 资格或地图随附的产品许可证，或符合激励条件的新订阅，还将在此列中包含折扣金额。 | *2.32* |
-| 小计 | 税前总额。 检查小计是否与预期的总计匹配（如果是折扣）。 | *11x17* |
+| 小计 | 税前总额。 检查小计是否与预期的总计匹配（如果是折扣）。 | *11* |
 | 税 | 税费。 基于市场的税务规则和特定情况。 | *0* |
-| TotalForCustomer | 税后总额。 检查你是否在发票中计入了税务。 | *11x17* |
-| Currency | 货币类型。 每个计费单位仅使用一种货币。 检查它是否与第一个发票匹配。 在进行任何主要计费平台更新后再次检查。 | *EUR* |
+| TotalForCustomer | 税后总额。 检查你是否在发票中计入了税务。 | *11* |
+| 货币 | 货币类型。 每个计费单位仅使用一种货币。 检查它是否与第一个发票匹配。 在进行任何主要计费平台更新后再次检查。 | *EUR* |
 | CustomerName | 客户的组织名称，如合作伙伴中心中所报告。 *用于使发票与系统信息进行协调的非常重要的字段。* | *测试客户 A* |
 | MPNID | CSP 合作伙伴的 MPN 标识符。 请参阅[如何按合作伙伴列举](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *4390934* |
 | ResellerMPNID | 订阅的记录分销商的 MPN 标识符。 请参阅[如何按合作伙伴列举](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *4390934* |
 | DomainName | 客户的域名。 该字段在第二个计费周期之前可能会显示为空白。 *请勿将此字段用作客户的唯一标识符。客户/合作伙伴可以通过 Office 365 门户更新虚或默认域。* | *example.onmicrosoft.com* |
-| 订阅名称 | 订阅昵称。 如果未指定昵称，则合作伙伴中心将使用**OfferName**。 | *项目联机* |
+| SubscriptionName | 订阅昵称。 如果未指定昵称，则合作伙伴中心将使用**OfferName**。 | *项目联机* |
 | SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 （这是与**OfferName**相同的字段。） | *项目在线高级版，无需 PROJECT 客户端* |

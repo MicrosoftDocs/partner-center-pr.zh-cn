@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943580"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004686"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>将多个公司移到合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 将公司帐户从 PMC 移到合作伙伴中心时，可能会移动多个帐户。 在合作伙伴中心，这些帐户会合并成一个全局帐户 (PGA)。 第一个移动的帐户会被视为主全局帐户，所有后续帐户会按位置合并到第一个帐户中。 从公司总部的 PMC 帐户开始移动。 有关详细信息，请参阅[从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)或观看此短视频：[使多位置帐户变得简单](https://vimeo.com/290335248)。
 

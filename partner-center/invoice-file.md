@@ -8,14 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费，发票
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389835"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004558"
 ---
 # <a name="invoice-files"></a>发票文件
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   帐单管理员
+-   支持人员代理
 
 您可以使用下表来了解合作伙伴中心发票文件中的字段。
 
@@ -52,10 +58,10 @@ ms.locfileid: "74389835"
 
 | 字段 | 定义 |
 | ----- | ---------- |
-| Date | 购买的日期。 |
-| 说明 | 产品名称。 |
+| 日期 | 购买的日期。 |
+| 描述 | 产品名称。 |
 | 数量 | 购买的产品数量（如预留）。 |
-| 单位价格 | 每个产品的价格（如预留）。 |
+| 单价 | 每个产品的价格（如预留）。 |
 | 折扣 | 任何适用的折扣。 |
 | 税前金额 | 税前购物小计。 |
 | 销售税 | 税额。 |

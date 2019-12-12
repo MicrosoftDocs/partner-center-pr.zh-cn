@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC，Office 365 Advisor，顾问，联合合作伙伴，PAC 停用，PAC 停用
 ms.localizationpriority: medium
-ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654228"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004886"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作伙伴管理中心正在转移到合作伙伴中心
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 > [!NOTE]  
 >  自首次发布本文以来，所有日期都已更新。

@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 授权教育合作伙伴、教育、教育培训、学校
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943490"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004546"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   销售代理
+-   管理员代理
 
 与教育机构合作的合作伙伴可以向他们提供 **Minecraft: Education Edition** 订阅。 你可以在合作伙伴中心代表客户购买订阅，然后客户从[Microsoft Store 获取教育](https://educationstore.microsoft.com)。 
 

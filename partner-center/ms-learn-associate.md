@@ -10,14 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色、权限、添加用户、分配角色、管理员、代理、MCP ID Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943550"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004276"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>将你的 Microsoft Learn 帐户关联到合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
 
 为了使你的公司能够看到你已获得能力的培训和学习路径，你需要将你的 MCP ID 关联到你的合作伙伴中心帐户。 将你添加为合作伙伴中心用户后，你可以手动执行此操作。
 

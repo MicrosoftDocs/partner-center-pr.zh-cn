@@ -9,18 +9,24 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253702"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004776"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。 此信息适用于 Office 产品（包括 OneDrive for Business，这将 SharePoint 也计入在内）。
 

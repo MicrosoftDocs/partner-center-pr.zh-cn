@@ -8,14 +8,20 @@ description: 在将业务从 PMC 移动到合作伙伴中心之前，请先查�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943260"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004856"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从合作伙伴成员中心（PMC）迁移到合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   销售代理
+-   管理员代理
 
 我们正在将成员身份管理从合作伙伴成员中心（PMC）移动到合作伙伴中心，这是用于管理与 Microsoft 的业务关系的单一目标。 我们希望移动到合作伙伴中心的工作效率更高。 我们确定了合作伙伴中心与 PMC 不同的部分，我们认为你需要在进行移动之前了解并准备好它们。
 

@@ -8,18 +8,25 @@ description: 美国政府 Microsoft 云合作伙伴中心是想要为与美国�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652682"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004246"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 合作伙伴中心
 
 **适用于**
 
 -  Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
+-   帐单管理员
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求 
 

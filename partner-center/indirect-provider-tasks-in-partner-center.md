@@ -8,14 +8,20 @@ description: 作为间接提供商或分销商，了解如何通过与间接经�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253681"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004536"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 面对如此复杂且瞬息万变的技术市场，客户希望技术解决方案可以给他们带来竞争优势。 在这样的环境下，合作伙伴投资于合作伙伴之间的参与活动以扩大产品/服务范围并使客户能够做更多工作，这是有意义的。
 
@@ -30,7 +36,7 @@ ms.locfileid: "74253681"
 -   指定间接经销商以管理特定的客户和订阅 
 -   全部在一个地方管理你与 Microsoft、客户和间接经销商之间的关系
 
-有关云解决方案提供商计划中的间接模型的详细信息，请参阅 [Microsoft 合作伙伴网络网站](https://partner.microsoft.com/cloud-solution-provider/indirect)上的[浏览间接模型]( https://partner.microsoft.com)。 
+有关云解决方案提供商计划中的间接模型的详细信息，请参阅 [Microsoft 合作伙伴网络网站]( https://partner.microsoft.com)上的[浏览间接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>合作伙伴中心的间接提供程序任务
 
@@ -81,7 +87,7 @@ ms.locfileid: "74253681"
 
 - 在 "订阅详细信息" 页上，在 "**经销商（MPN ID）** " 字段中，添加要使用的分销商。 这可确保经销商收到适当的奖励。
 
-| **实现此目的** | **执行此操作** | **其中** |
+| **实现此目的** | **执行此操作** | **Where** |
 |   ------------------   |   -------   |   -----   |
 | 使经销商可以管理客户的帐户，并具有管理其订阅的管理员权限 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
 |允许经销商管理一个 Azure 客户的帐户|添加新客户时将经销商与 Azure 客户帐户相关联|在 **Azure 服务门户**上，选择[用户设置](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)以授予间接经销商**租户所有者**权限|
@@ -170,7 +176,7 @@ ms.locfileid: "74253681"
 
 7.  完成后选择**提交**。 
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
 有关管理客户帐户和订阅的详细信息，请参阅：
 

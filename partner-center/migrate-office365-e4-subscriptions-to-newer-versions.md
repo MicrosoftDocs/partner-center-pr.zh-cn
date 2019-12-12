@@ -8,18 +8,24 @@ description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654321"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004557"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 月 7 日。 在此日期之后，你将无法再购买新的 Office 365 E4 订阅，现有的 E4 订阅在到期后将不会自动续订。
 

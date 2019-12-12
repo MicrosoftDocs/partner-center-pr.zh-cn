@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 管理员, PAC 功能
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943560"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004226"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>从合作伙伴管理员中心 (PAC) 迁移到合作伙伴中心
 
-适用范围：
+**适用于**
 - 合作伙伴中心
 - 合作伙伴管理员中心
+
+**相应的角色**
+-   全局管理员
 
 合作伙伴中心正在发展成为可管理与 Microsoft 以及与客户的合作关系的单一位置。 在合作伙伴中心，你可以管理成员资格、客户引荐、奖励以及云解决方案提供商 (CSP) 计划的所有其他方面。你可在合作伙伴中心中执行以前在 PAC 中所做的大多数工作，但某些功能或操作的运作方式有所不同。 
 

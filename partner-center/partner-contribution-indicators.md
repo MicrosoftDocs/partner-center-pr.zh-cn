@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943120"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004356"
 ---
 # <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
 
 合作伙伴贡献指标（PCI）提供合作伙伴对 Dynamics 365 的成功客户结果的影响的整体衡量。 当合作伙伴获得并维护云 Business Applications 资格时，将在市场中获得更大的优势。  合作伙伴获得客户成功的关键衡量措施（例如成功的部署和日益增加的使用量）的信用额度，并赢得继续投资并扩大其技术能力。 
 

@@ -9,12 +9,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189079"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004906"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 
@@ -23,13 +23,18 @@ ms.locfileid: "74189079"
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   销售代理
+
 如果客户想要使用多个合作伙伴，则合作伙伴中心的多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。 
 
 Azure CSP 租户可包含来自不同 CSP 合作伙伴的其他 Azure 订阅。
 
 若要使用合作伙伴中心的多合作伙伴功能，请邀请客户向你授予委派管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
 
-多个合作伙伴功能不支持以下操作：
+多合作伙伴功能不支持以下操作：
 
 - 更改任何客户的现有订阅
 

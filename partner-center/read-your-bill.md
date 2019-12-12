@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: 2f7fe5c2a3348e89cb69fc0d4e89b97f56fb2083
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384828"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004826"
 ---
 # <a name="read-your-bill"></a>阅读帐单
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   帐单管理员
+-   管理员代理
+-   MPN 合作伙伴管理员
 
 你的**发票**汇总了**当前计费期间**的**所有合作伙伴中心费用**（跨计划、所有产品和所有客户）。
 

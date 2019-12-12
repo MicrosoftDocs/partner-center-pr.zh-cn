@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费，一次性，定期，购买，收费，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389685"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005036"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和选择性定期费用的计费
 
+**适用于**
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   帐单管理员
+-   管理员代理
+-   销售代理
 
 本主题介绍一次计费体验，并为 Microsoft 和第三方独立软件供应商（ISV）产品**选择定期收费**。 
 

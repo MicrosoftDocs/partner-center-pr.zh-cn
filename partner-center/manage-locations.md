@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 合作伙伴帐户，位置
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943500"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004696"
 ---
 # <a name="manage-your-partner-account-locations"></a>管理你的合作伙伴帐户：位置
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   帐单管理员
+-   管理员代理
+-   销售代理
 
 Location MPN Id 标识公司的每个特定位置。 您可以使用 location MPN ID 在激励计划中进行注册，以使用云解决方案提供商（CSP）业务来添加新的订阅和其他业务事务。 公司 MPN ID 用于非事务性活动，如支持请求。
 

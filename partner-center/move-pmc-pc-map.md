@@ -9,14 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943480"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004286"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心
+
+**相应的角色**
+-   全局管理员
 
 为了让你能够轻松地与我们开展业务，我们建立了一个网站（合作伙伴中心），方便大家参与。 你会发现，在 Partner Membership Center (PMC) 中做的事情都能够在合作伙伴中心的仪表板中完成。 
 

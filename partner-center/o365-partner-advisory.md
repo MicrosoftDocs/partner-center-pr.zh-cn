@@ -7,18 +7,23 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office，O365，PSTN 服务，税款，要求，发票，开票
 ms.localizationpriority: medium
-ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384812"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005056"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 合作伙伴咨询： Microsoft 365 CSP 中的语音
 
 **适用于**
 
 - 合作伙伴中心  
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
 
 某些国家/地区的公共交换网（PSTN）服务可能会受到特殊的税务和法规要求，可能会影响合作伙伴的订单和发票。  在美国、波多黎各和加拿大，Skype for Business PSTN 和 Microsoft 365 语音服务受特殊的税务和法规要求。 在美国和波多黎各中，Microsoft 价格的 PSTN 服务以税收包含。  唯一的 PSTN 税和法规将影响 Office 365 合作伙伴约束力 Microsoft 365 语音产品。  如果合作伙伴标记了 Microsoft PSTN 服务的价格，则可能有责任计算和汇寄 PSTN 税款和费用。
 

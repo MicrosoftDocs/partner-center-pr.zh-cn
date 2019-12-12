@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 计费，付款，基于许可证，许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389825"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004916"
 ---
 # <a name="license-based-billing"></a>基于许可证的计费
 
-适用于：
+**适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   帐单管理员
+-   管理员代理
 
 在需要**许可证**的合作伙伴中心购买产品或联机服务时，需要为购买的*每个许可证*付费。 *不会*按这些许可证的使用情况进行计费。 （有关基于使用情况的计费和其他计费类型的信息，请参阅[合作伙伴中心的计费类型](billing-different-types.md)。）
 

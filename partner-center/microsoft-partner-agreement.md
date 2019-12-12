@@ -9,14 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654327"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004575"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>适用于云解决方案提供商合作伙伴的 Microsoft 合作伙伴协议 
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种简单、统一、以数字方式接受的合作伙伴协议。 Microsoft 合作伙伴协议包含一组核心的永久条款，可帮助 Microsoft、合作伙伴和客户支持数据隐私和安全性、促进合规性以及鼓励正确的商业实践。   
 

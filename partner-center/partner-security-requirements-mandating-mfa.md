@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943100"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004986"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制执行多重身份验证（MFA）
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943100"
   - 间接提供商
   - 间接经销商
 - 所有顾问
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   帐单管理员
+-   MPN 合作伙伴管理员
 
 这些合作伙伴将需要完成以下领域的 MFA 验证：
 

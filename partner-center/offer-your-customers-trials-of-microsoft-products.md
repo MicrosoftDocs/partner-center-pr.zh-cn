@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943290"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005046"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>为客户提供 Microsoft 产品试用版
 
-适用范围：
+**适用于**
 
 - 合作伙伴中心
+
+**相应的角色**
+-   全局管理员 
+-   用户管理员
+-   销售代理
 
 向客户推荐 Microsoft 新产品的一种好方法是提供 30 天的免费试用版。 就像许多其他联机服务一样，你可以注册目录中的试用版。 所有合作伙伴都可以参与。
 
