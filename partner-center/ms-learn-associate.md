@@ -10,19 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色、权限、添加用户、分配角色、管理员、代理、MCP ID Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943550"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004276"
 ---
-# <a name="associate-your-microsoft-learn-account-in-partner-center"></a><span data-ttu-id="7a458-104">将你的 Microsoft Learn 帐户关联到合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="7a458-104">Associate your Microsoft Learn account in Partner Center</span></span>
+# <a name="associate-your-microsoft-learn-account-in-partner-center"></a><span data-ttu-id="1ee09-104">将你的 Microsoft Learn 帐户关联到合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="1ee09-104">Associate your Microsoft Learn account in Partner Center</span></span>
 
-<span data-ttu-id="7a458-105">为了使你的公司能够看到你已获得能力的培训和学习路径，你需要将你的 MCP ID 关联到你的合作伙伴中心帐户。</span><span class="sxs-lookup"><span data-stu-id="7a458-105">In order for your company to be able to see the training and learning paths you have taken towards competencies, you need to associate your MCP ID to your Partner Center account.</span></span> <span data-ttu-id="7a458-106">将你添加为合作伙伴中心用户后，你可以手动执行此操作。</span><span class="sxs-lookup"><span data-stu-id="7a458-106">You do this manually after you have been added as a Partner Center user.</span></span>
+<span data-ttu-id="1ee09-105">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="1ee09-105">**Appropriate roles**</span></span>
+-   <span data-ttu-id="1ee09-106">全局管理员</span><span class="sxs-lookup"><span data-stu-id="1ee09-106">Global admin</span></span>
+-   <span data-ttu-id="1ee09-107">用户管理员</span><span class="sxs-lookup"><span data-stu-id="1ee09-107">User admin</span></span>
 
-### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a><span data-ttu-id="7a458-107">如何将 MCP ID 关联到合作伙伴中心帐户</span><span class="sxs-lookup"><span data-stu-id="7a458-107">How to associate your MCP ID to your Partner Center account</span></span>
+<span data-ttu-id="1ee09-108">为了使你的公司能够看到你已获得能力的培训和学习路径，你需要将你的 MCP ID 关联到你的合作伙伴中心帐户。</span><span class="sxs-lookup"><span data-stu-id="1ee09-108">In order for your company to be able to see the training and learning paths you have taken towards competencies, you need to associate your MCP ID to your Partner Center account.</span></span> <span data-ttu-id="1ee09-109">将你添加为合作伙伴中心用户后，你可以手动执行此操作。</span><span class="sxs-lookup"><span data-stu-id="1ee09-109">You do this manually after you have been added as a Partner Center user.</span></span>
 
-1. <span data-ttu-id="7a458-108">在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”。</span><span class="sxs-lookup"><span data-stu-id="7a458-108">From the Partner Center dashboard, select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span>
+### <a name="how-to-associate-your-mcp-id-to-your-partner-center-account"></a><span data-ttu-id="1ee09-110">如何将 MCP ID 关联到合作伙伴中心帐户</span><span class="sxs-lookup"><span data-stu-id="1ee09-110">How to associate your MCP ID to your Partner Center account</span></span>
 
-2. <span data-ttu-id="7a458-109">在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University。</span><span class="sxs-lookup"><span data-stu-id="7a458-109">Under **Your learning** you will be able to associate your Microsoft Learning account and also connect your Microsoft account to Partner University.</span></span>
+1. <span data-ttu-id="1ee09-111">在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”。</span><span class="sxs-lookup"><span data-stu-id="1ee09-111">From the Partner Center dashboard, select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span>
+
+2. <span data-ttu-id="1ee09-112">在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University。</span><span class="sxs-lookup"><span data-stu-id="1ee09-112">Under **Your learning** you will be able to associate your Microsoft Learning account and also connect your Microsoft account to Partner University.</span></span>
