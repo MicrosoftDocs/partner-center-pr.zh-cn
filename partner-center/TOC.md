@@ -21,6 +21,7 @@
 ## 优势
 ### [权益概述](manage-your-partner-network-benefits.md)
 ### [市场推广权益](mpn-learn-about-go-to-market-benefits.md)
+## [管理市场奖励](marketplace-rewards.md)
 ## [软件保障计划](software-assurance-lp.md)
 ### [合作伙伴中心中的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)
 ### [使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
 ## [创建用户帐户](create-user-accounts-and-set-permissions.md)
 ## [为用户分配角色和权限](permissions-overview.md)
+## [添加 Azure AD 应用程序](service-principal.md)
 ## [将 Microsoft Learn 帐户关联到合作伙伴中心](ms-learn-associate.md)
 ## [验证域所有权](become-global-admin.md)
 ## [重置用户密码](reset-a-user-password.md)
