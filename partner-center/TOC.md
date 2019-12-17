@@ -167,7 +167,7 @@
 # 合作伙伴中心数据和分析
 ## [获取并分析业务数据](data-analysis-lp.md)
 ## [适用于 Microsoft Power BI 的合作伙伴分析应用](power-bi-app-for-direct-partners.md)
-## [合作伙伴贡献指示器](partner-contribution-indicators.md)
+## [合作伙伴中心见解](partner-contribution-indicators.md)
 ## [获取客户的 Azure 订阅使用情况数据](analyze-azure-usage.md)
 ## [分析间接经销商业绩](analyze-indirect-resellers.md)
 ## [分析订阅和许可证](analyze-subscriptions-licenses.md)
