@@ -11,13 +11,13 @@ metadata:
   author: LauraBrenner
   ms.author: labrenne
   manager: evansma
-  ms.date: 11/20/2019
-  ms.openlocfilehash: 6b543cf8fcc25122b0c2ec48a3bd60202772f29a
-  ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+  ms.date: 12/09/2019
+  ms.openlocfilehash: fcd60389ddc743b63d49dba58d8d18a4842760f7
+  ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/20/2019
-  ms.locfileid: "74253689"
+  ms.lasthandoff: 12/16/2019
+  ms.locfileid: "75033513"
 highlightedContent:
   items:
   - title: 登录以查看最新公告
@@ -127,8 +127,34 @@ conceptualContent:
       text: 查看详细信息
 additionalContent:
   sections:
+  - title: 使用 Azure 门户
+    items:
+    - title: 计费和成本管理
+      links:
+      - text: 开始使用 Microsoft 合作伙伴协议计费帐户
+        url: https://docs.microsoft.com/azure/billing/mpa-overview
+      - text: 开始使用 Azure 成本管理
+        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+      - text: 创建更多 Azure 订阅
+        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+      - text: 以编程方式创建 Azure 订阅
+        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+      - text: 查看更多 >
+        url: https://docs.microsoft.com/azure/billing/
+    - title: Azure Lighthouse
+      links:
+      - text: 启用跨租户管理体验
+        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+      - text: 云解决方案提供商注意事项
+        url: https://docs.microsoft.com/en-us/azure/lighthouse/concepts/cloud-solution-provider
+      - text: 载入客户以进行 Azure 委托资源管理
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+      - text: 发布托管服务产品
+        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+      - text: 查看更多 >
+        url: https://docs.microsoft.com/azure/lighthouse/
   - title: 关键任务和工具
-  - items:
+    items:
     - title: 获取 Microsoft Action Pack (MAPS)
       summary: 购买或续订权益产品/服务，包括 Microsoft Action Pack 订阅。
       url: mpn-get-action-pack.md
