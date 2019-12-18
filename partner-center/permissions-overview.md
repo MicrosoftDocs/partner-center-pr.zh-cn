@@ -9,15 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943130"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004126"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   MPN 合作伙伴管理员
 
 你已设置合作伙伴档案，包括法定名称和地址、支持详细信息、税务豁免、银行信息和公司的主要联系人。 下一步：为用户设置密码和角色，使他们能够在合作伙伴中心开始与你合作。
 

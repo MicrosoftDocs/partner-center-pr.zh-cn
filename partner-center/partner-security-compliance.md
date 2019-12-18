@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943110"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005006"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943110"
   - 间接经销商
 - 所有控制面板供应商
 - 所有顾问
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   帐单管理员
+-   MPN 合作伙伴管理员
 
 增强隐私保护和安全性是我们优先关注的事项。 我们知道，最好的防御措施是防患于未然，链条的强度取决于其最弱的一环。 因此，我们需要生态系统中的所有人都行动起来，确保将安全保护措施实施到位。 为了保护合作伙伴和客户，我们引入了一系列强制性安全要求，针对那些参与云解决方案提供商计划的顾问、控制面板供应商和合作伙伴。
 

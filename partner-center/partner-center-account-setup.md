@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943090"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005016"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
 **适用于**
 
 -  合作伙伴中心
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
 
 在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴中心创建帐户后，你或你的管理员需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 
 

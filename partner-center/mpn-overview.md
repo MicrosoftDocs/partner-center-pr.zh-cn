@@ -10,14 +10,20 @@ ms.author: evansma
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943310"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004196"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
+
+**相应的角色**
+-   全局管理员
+-   MPN 合作伙伴管理员
+-   用户管理员
+-   管理员代理
 
 加入 Microsoft 合作伙伴计划后，你将成为全球社区的一员，它会在你与吸引客户、推动业务增长所需的各种关系、见解、工具、资源和计划之间建立起联系。
 

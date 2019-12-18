@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: action pack, MAPS, 续订 MAPS, 续订 action pack, 获取 action pack
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943340"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005097"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>首次购买或者续订 Microsoft Action Pack 订阅、银级或金级资质
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943340"
 
 -  合作伙伴中心
 -  Partner Membership Center
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   MPN 合作伙伴管理员
+-   管理员代理
+-   销售代理
 
 现在可以在合作伙伴中心[仪表板](https://docs.microsoft.com/partner-center/)中购买或续订权益套餐，包括 Microsoft Action Pack 订阅以及白银资格和黄金资格。 
 

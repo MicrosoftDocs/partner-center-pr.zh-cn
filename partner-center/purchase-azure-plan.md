@@ -9,14 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943270"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004936"
 ---
 # <a name="purchase-the-azure-plan"></a>购买 Azure 计划
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   销售代理
 
 根据 Microsoft 客户协议为客户购买 Azure 计划时，可以访问采用即用即付费率的最新 Azure 服务的完整目录。 CSP 合作伙伴现在可以访问正式发布的 Azure 服务。 合作伙伴可以在一个 Azure 计划中包含多个 Azure 订阅。 
 

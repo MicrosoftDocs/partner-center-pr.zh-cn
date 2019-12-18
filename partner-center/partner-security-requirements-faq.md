@@ -9,14 +9,21 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
-ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
+ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "73915034"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004266"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   帐单管理员
+-   MPN 合作伙伴管理员
 
 本文包含[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题解答。
 

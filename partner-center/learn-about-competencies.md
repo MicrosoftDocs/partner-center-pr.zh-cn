@@ -9,15 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: high
-ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253673"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004806"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>有关 Microsoft 银级和金级会员资质与高级专业的信息
 
+**相应的角色**
+-   全局管理员
+-   用户管理员
 
 证明你在一个或多个专业业务领域中提供优质解决方案方面拥有公认的专长。 Microsoft 资质旨在让你做好满足客户需求的准备，以及帮助你吸引正在寻找 Microsoft 认证解决方案提供商的新客户。 加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。
 

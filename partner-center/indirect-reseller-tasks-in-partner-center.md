@@ -11,14 +11,20 @@ ms.author: evansma
 keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, tier2, 第 2 层
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253655"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004796"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
+
+**相应的角色**
+-   全局管理员
+-   用户管理员
+-   管理员代理
+-   销售代理
 
 对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想被迫管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
 
