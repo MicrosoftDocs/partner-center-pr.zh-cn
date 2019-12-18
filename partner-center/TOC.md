@@ -17,11 +17,12 @@
 ### [Action Pack](mpn-get-action-pack.md)
 ### [续订你的产品/服务](renew-mpn-offers.md)
 ## [能力](learn-about-competencies.md)
+## [高级专用化](advanced-specializations.md)
 ## [Azure 专家托管服务提供商计划](azure-expert-msp.md)
 ## 优势
 ### [权益概述](manage-your-partner-network-benefits.md)
 ### [市场推广权益](mpn-learn-about-go-to-market-benefits.md)
-## [管理市场奖励](marketplace-rewards.md)
+## [市场奖励](marketplace-rewards.md)
 ## [软件保障计划](software-assurance-lp.md)
 ### [合作伙伴中心中的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)
 ### [使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)
