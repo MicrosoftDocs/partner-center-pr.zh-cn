@@ -10,12 +10,12 @@ ms.author: evansma
 keywords: 云解决方案提供程序，CSP，基于云的服务，Azure，Azure RI，Windows Server，SQL Server，软件订阅，取消软件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 271eb450434047d1eee193df9f6ce02e7a2d7cf5
-ms.sourcegitcommit: fcaa85b3c080628d2c14b9133aa5780cdaf6f3be
+ms.openlocfilehash: 733c8ab6c2d15109011dfa240c2ce5954d748fea
+ms.sourcegitcommit: 855b2aed1c395b199d8aaba88ac08cc277f474ea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185622"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "75190238"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
 
@@ -140,7 +140,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 请按照以下步骤取消购买：
 
 >[!NOTE]
->必须是管理员代理才能取消购买。 以下步骤介绍了如何取消合作伙伴中心仪表板中的购买。 也可以使用[合作伙伴中心 API](https://docs.microsoft.com/partner-center/develop/cancel-an-order-from-the-integration-sandbox)来实现此目的。
+>必须是管理员代理才能取消购买。 以下步骤介绍了如何取消合作伙伴中心仪表板中的购买。 也可以使用[合作伙伴中心 API](https://docs.microsoft.com/partner-center/develop/cancel-software-purchases)来实现此目的。
 
 1. 在开始取消过程之前，请确保具有以下各项：
 
