@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004946"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631817"
 ---
 # <a name="pricing-and-offers"></a>定价和产品/服务
 
@@ -42,7 +42,7 @@ ms.locfileid: "75004946"
 
 |**项**        |**定义**      |
 |:-----------   |:-----------   |
-|ADD   |价目表中的新项|
+|添加   |价目表中的新项|
 |CHG   |价目表价格的更改，按月收费。 其他不与标价相关的更改可能发生，合作伙伴应将其他属性从月份与月份进行比较以确定其他更改。|
 |DEL   |从价目表中删除的项|
 |UNC   |标价与上个月的 pricelist 不变  |
@@ -79,7 +79,7 @@ CSP 为特殊市场领域提供某些服务，例如，教育、非利润和政�
 
 |**段**   |**谁需要限定**   |**合作伙伴资格资格客户**|**启用的产品类型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|教育版|合作伙伴和客户|“是”|仅基于许可证|
+|教育版|客户|不，客户资格将由 Microsoft 执行 |仅基于许可证|
 |非盈利|客户|不，客户在合作伙伴中心以外的资格|仅基于许可证|
 |政府社区云 (GCC)|合作伙伴和客户|启用 GCC 后，合作伙伴可以创建 GCC 客户| 仅基于许可证|
 |Azure gov|合作伙伴|限定后，伙伴将在特定于 Azure gov 的 CSP 租户中运行|Azure 资源|
