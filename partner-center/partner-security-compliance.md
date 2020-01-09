@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005006"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636988"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
 
@@ -30,7 +30,7 @@ ms.locfileid: "75005006"
 -   全局管理员
 -   用户管理员
 -   管理员代理
--   帐单管理员
+-   计费管理员
 -   MPN 合作伙伴管理员
 
 增强隐私保护和安全性是我们优先关注的事项。 我们知道，最好的防御措施是防患于未然，链条的强度取决于其最弱的一环。 因此，我们需要生态系统中的所有人都行动起来，确保将安全保护措施实施到位。 为了保护合作伙伴和客户，我们引入了一系列强制性安全要求，针对那些参与云解决方案提供商计划的顾问、控制面板供应商和合作伙伴。
@@ -50,13 +50,22 @@ ms.locfileid: "75005006"
 >[!NOTE]
 >只有合作伙伴中心才支持“合作伙伴安全要求状态”报告。 Microsoft Cloud for US Government 或 Microsoft Cloud Germany 不提供此报告。 强烈建议所有通过主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）进行事务处理的合作伙伴立即履行这些安全要求。 但是，这些合作伙伴不是必须满足这些新的在 2019 年 8 月 1 日生效的安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
 
-每当员工登录到合作伙伴中心来完成工作，或者在合作伙伴中心通过 API 获取或发送数据时，其安全状态将受到质询和跟踪。 你的应用程序以及任何控制面板供应商应用程序也会受到安全状态跟踪。 显示的状态是过去 7 天的状态。
-
 ## <a name="multi-factor-authentication-mfa-report"></a>多重身份验证 (MFA) 报告
 
-合作伙伴中心 MFA 报告根据合作伙伴中心活动提供两项指标，以提供合作伙伴 MFA 实施方案的见解：
+合作伙伴中心 MFA 报告根据云解决方案提供商租户的 MFA 配置和合作伙伴中心活动提供两种类型的指标，以提供对合作伙伴 MFA 实施情况的见解： 
 
-**用户完成的 MFA 验证**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>云解决方案提供商租户上的 MFA 配置
+
+此指标与每日捕获并报告的云解决方案提供商租户上的 MFA 配置相关。 它使用这些 [MFA 选项](https://aka.ms/partner-mfa-get-started)中的任意一个来度量强制实施了 MFA 的已启用用户帐户的百分比。 例如：
+
+- Contoso 是一个云解决方案提供商合作伙伴，其租户中有 110 个用户帐户，这些帐户中有 10 个处于禁用状态。 
+- 在剩余的 100 个用户帐户中，有 90 个已使用提供的 [MFA 选项](https://aka.ms/partner-mfa-get-started)强制实施了 MFA。 因此，该指标显示 90%。 
+
+### <a name="partner-center-activities-with-mfa"></a>在实施了 MFA 的情况下进行的合作伙伴中心活动
+
+每当员工登录到合作伙伴中心来完成工作，或者在合作伙伴中心通过 API 获取或发送数据时，其安全状态将受到质询和跟踪。 你的应用程序以及任何控制面板供应商应用程序也会受到安全状态跟踪。 显示的状态是过去 7 天的状态。
+
+#### <a name="mfa-verification-completed-by-users"></a>用户完成的 MFA 验证
 
 此指标与合作伙伴中心仪表板中的活动相关。 它度量已完成 MFA 验证的用户执行的操作百分比。 例如：
 
@@ -67,7 +76,7 @@ ms.locfileid: "75005006"
 - 在剩余的 4 天，这两名代理未执行任何操作。
 - 在 7 天内共执行了 10 项操作，其中，有 2 项操作是用户在已完成 MFA 验证的情况下执行的。 因此，指标显示 20%。
 
-**应用+用户身份验证**
+#### <a name="appuser-authentication"></a>应用+用户身份验证
 
 此指标与使用应用+用户身份验证发出的合作伙伴中心 API 请求的用法相关。 它度量结合 MFA 声明使用访问令牌发出的 API 请求百分比。 例如：
 
