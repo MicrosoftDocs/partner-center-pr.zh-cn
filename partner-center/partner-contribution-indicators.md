@@ -1,91 +1,97 @@
 ---
-title: 合作伙伴中心见解 |合作伙伴中心
+title: 合作伙伴贡献指示器 | 合作伙伴中心
 ms.topic: article
-ms.date: 12/13/2019
+ms.date: 1/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 确切了解您的工作效果，以及您可以在哪些方面改进您的销售和部署以及客户开发
+description: 各种数据，展示你的公司使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后的情况
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI，性能，客户成功，量化指标，
+keywords: PCI, 绩效, 客户成功, 度量, Dynamics 365
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
-ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
+ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/16/2019
-ms.locfileid: "75033493"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716913"
 ---
-# <a name="partner-center-insights"></a>合作伙伴中心见解
+# <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
-**相应的角色**
-- 全局管理员
-- 帐户管理员
-- Executive 报表查看器
-- 报表查看器
+合作伙伴贡献指标（PCI）提供对合作伙伴实现的影响，从而提供对合作伙伴的影响的整体衡量影响，并因此在合作伙伴和维护云 Business Applications 资格. 合作伙伴获得客户成功的关键衡量措施（例如成功的部署和日益增加的使用量）的信用额度，并赢得继续投资并扩大其技术能力。
 
-Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计划中注册的 Microsoft 商业合作伙伴提供的统一报表仪表板。 Insights 仪表板提供了跨云产品（如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）的关键绩效指标（kpi）的360度视图。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
+## <a name="scoring"></a>评分
 
-## <a name="roles-based-access-control-to-the-insights-dashboard"></a>对见解仪表板的基于角色的访问控制
+PCI 为合作伙伴的技术功能提供了一种全面、全面的视图，能够促进客户取得成功，并提供其销售绩效。 PCI 测量您公司在七个关键指标中的前一年性能：
 
-合作伙伴中心中有两个专门用于访问 Insights 报表查看器和高级报表查看器的角色。  Executive 报表查看器角色中的用户可以访问所有报表数据集，而报表查看器角色中的用户将无法访问敏感数据集，例如收入和客户/员工个人数据。 
+1. **净新收入**-所有 Microsoft Dynamics 365 产品销售渠道的新收入。
+2. **Net customer 增加**了在所有销售渠道中为 Dynamics 365 获取的网络客户。
+3. **功能顾问**–持有当前活动的功能顾问的个人数量将认证用于 Dynamics 365。
+4. **功能顾问增长**-自2020年3月31日起，功能顾问关联数增长。
+5. **开发人员**-拥有当前活动的开发人员的个人数量将认证用于 Dynamics 365。
+6. **新的大型部署**—过去12个月内跨高使用量阈值的生产租户的数量。
+7. **每月活动用户的增长**—过去12个月内所有客户的每月活动用户数增长。
 
-全局管理员或帐户管理员可以向用户分配这些角色，并为整个公司或特定 MPN 位置分配这些角色。  
+为每个已获得的指标授予点，产生单数字 PCI 分数。 最多可以有100个点。 PCI 分数确定资格资格：
 
->[!Note] 
->从2019年12月2日 MPN 管理员的用户将自动添加到公司范围的报表查看器角色。 他们能够以报表查看器的形式访问报表，全局管理员或帐户管理员无需执行任何显式操作。全局管理员或帐户管理员可以在必要时重写这些分配。 
+![PCI 评分](images/pcinew1.png)
 
-## <a name="reports-available"></a>可用报表
+每个指示器都带有添加到总数中的分数。 下面是每个指标的最大分数：
 
-以下报表作为 Insights 仪表板的一部分提供。
+![pci 性能](images/pci/perfnew.png)
 
-**概述**   概述报表显示了你感兴趣的各种 Kpi 的快照视图，例如客户计数、活动订阅计数、Azure 消耗收入、活动许可证等。
+### <a name="thresholds"></a>阈值
 
-**客户**客户报表显示客户获取数据、活动客户等客户的分析。 
+每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于客户参与和财务 & 操作路径，以实现云 Business Applications 资格。 对于在开发市场中运营的合作伙伴与专门在开发市场中操作的合作伙伴而言，阈值也有所不同。  根据[Microsoft 合作伙伴网络定义](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)，开发或开发国家/地区的市场分类。
 
-**产品-订阅**    订阅报表显示云订阅的获取和使用情况分析（例如 O365、Azure、Dynamics 等） 
+每个指标间的分数将被记录为每月更新 & 操作的不同 PCI 分数。
 
-**产品-许可证**  "许可证" 仪表板提供基于许可证的云产品的许可证分析，如 O365、Dynamics、Power BI 等。
+合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 对于所有指标（功能顾问增长除外），都可以获得部分分数。 例如 净新收入 $150000 的开发市场合作伙伴将获得最大 10 pt 的一半（$ 150000/$ 300000）。 
 
-**产品-Azure 使用情况**  Azure 使用情况报表显示与客户的 Azure 订阅相关的指标，包括 Azure 消费收入和计量种类的使用情况。
+![客户参与](images/pci/custengagethresh.png)
 
-**胜任度**   胜任度报表提供有关活动、合格和有风险的能力的指标。
+![财经](images/pci/table_2.png
+)
 
-**权益**   权益报表显示了针对已获得的与使用的合作伙伴权益的分析。
+![注意事项](images/pci/table_3.png)
 
-## <a name="navigating-the-insights-reports"></a>导航见解报告 
+## <a name="detailed-definitions-of-pci-metrics"></a>PCI 指标的详细定义
 
+![净新收入](images/pci/netnewrevenue.png)
 
-**日期范围筛选器**：可在每个页面的右上角找到日期范围选择。 可以通过选择基于过去3、6或12个月的日期范围或通过选择自定义日期范围自定义 "概述" 页图形的输出。 选择的默认日期范围为12个月。 
+![net 添加](images/pci/netadds.png)
 
+![功能顾问](images/pci/funcconsult.png)
 
-"**反馈" 按钮**：所有 Insights 报表中的每个图表/控件都结合了 "反馈" 按钮，以便您可以为报表功能提供实例反馈。 
+![功能顾问增长](images/pci/funcgrowth2.png)
 
- 
-**页面级筛选器**：除概述、权益和胜任度报表之外，所有 Insights 报表都使你能够应用页面级别筛选器。 
+![开发人员](images/pci/developers.png) 
 
-- 所选筛选器将适用于页面上的所有图表和指标，包括摘要部分。 如果筛选器条件中包含任何数据，则筛选器项将可用。 
+![新大型部署](images/pci/largedeploy.png) 
 
-- 每个筛选器列表的默认选择是 "**全部**"。 例如，如果尚未在 "产品" 筛选器中选择特定产品，则默认选择将为 "所有产品"。
-
-- 所选筛选器将显示在页面顶部。 
-
- ### <a name="filters-definition"></a>筛选器定义：
-
-- 产品：组织销售/管理的所有 Microsoft 云产品列表，例如 O365、Azure、D365、EMS、PowerBI 等。
-- 客户市场：客户所在国家/地区列表
-- 合作伙伴归属：你的客户订阅的关联类型，例如，"记录" （DPOR）、"委派的管理员" 权限（分配）、"合作伙伴管理" 链接（PAL）等。 
-- 合作伙伴位置：组织的所有 MPN 位置的列表。 
-- 销售渠道：你通过其购买/预配产品和服务的所有销售渠道/定价，即 CSP、EA、CSP 间接、直接、顾问、开放、其他
-- Customer segment：跨合作伙伴客户群的客户细分列表。
+![活动用户](images/pci/activeusers.png)
 
 
+
+## <a name="customer-to-partner-association"></a>客户与合作伙伴之间的关联
+
+仅当你是云解决方案提供商（CSP）、声明合作伙伴（CPOR）时，才会获得新收入的信用额度、网络客户添加、新的大型部署和每月活动用户的增长或适用于属于客户租户的付费订阅的记录的数字合作伙伴（DPOR）。
+
+如果合作伙伴通过 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）激励或 Dynamics 365 [online services 使用](https://support.microsoft.com/en-us/help/4489988/online-services-usage-osu-incentives-faq)（OSU）激励，在订阅级别建立与客户的关联，就成为了 CPOR。
+
+合作伙伴成为 DPOR 的前提是在产品的订阅级别建立了与客户的关联。
+
+当给定订阅同时存在 CPOR 和 DPOR 时，CPOR 将获得与该订阅关联的相关 PCI 指标的信用额度。 CPOR 将获得净新收入的信用额度，如果该关联是通过 OSA 关联的，则会添加 Net customer。 如果通过 OSU 进行关联，则 CPOR 将获得新的大型部署和每月活动用户增长的信用额度。 
+
+## <a name="how-to-read-the-charts"></a>如何阅读图表
+
+![如何阅读图表](images/pci/howto.png)
 
 ## <a name="additional-resources"></a>其他资源
 
-请访问[合作伙伴贡献指标资源集合](https://partner.microsoft.com/asset/collection/pci-learn#/)，可在其中找到详细的培训视频、演示文稿、常见问题解答和事实数据表。 
+请访问 "[合作伙伴贡献指示器" 资源集合](https://aka.ms/pcilearn)，在其中可以找到详细的培训视频、演示文稿、常见问题解答和事实数据表。 
 
 
 

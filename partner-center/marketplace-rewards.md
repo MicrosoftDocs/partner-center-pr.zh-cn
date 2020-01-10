@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 产品/服务、市场营销支持、奖励、发布者权益
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010398"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717332"
 ---
 # <a name="manage-marketplace-rewards"></a>管理 Marketplace 奖励
 
@@ -40,11 +40,11 @@ Marketplace 奖励资格是根据链接到 PGA MPN 公司的所有发布者配�
 
 接下来，请执行以下操作：
 
-a. 从列表中选择一个用户。 如果要分配的用户不在列表中，则可以在 "帐户设置" 中添加新用户。
+  - 从列表中选择一个用户。 如果要分配的用户不在列表中，则可以在 "帐户设置" 中添加新用户。
 
-b. 为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。 我们将向你提供的电子邮件说明介绍如何使用你的 Marketplace 奖励权益到你指定的营销联系人的电子邮件地址。
+  - 为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。 我们将向你提供的电子邮件说明介绍如何使用你的 Marketplace 奖励权益到你指定的营销联系人的电子邮件地址。
 
-c. 请提供此营销联系人的联系电话和首选语言。 输入这些信息后，选择“分配用户”。
+  - 请提供此营销联系人的联系电话和首选语言。 输入这些信息后，选择“分配用户”。
 
 4. 更新市场营销联系人后，选择要开始使用的权益的 "**激活**"。 激活权益后，销售人员将会在一周内与奖励团队成员联系。
 
