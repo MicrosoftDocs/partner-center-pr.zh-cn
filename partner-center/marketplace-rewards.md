@@ -1,7 +1,7 @@
 ---
 title: 管理 marketplace 奖励 |合作伙伴中心
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 01/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 向商业市场发布产品/服务的合作伙伴有资格获得提供营销支持的权益。
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 产品/服务、市场营销支持、奖励、发布者权益
 ms.localizationpriority: medium
-ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
-ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
+ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75717332"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "75942894"
 ---
 # <a name="manage-marketplace-rewards"></a>管理 Marketplace 奖励
 
@@ -53,4 +53,23 @@ Marketplace 奖励资格是根据链接到 PGA MPN 公司的所有发布者配�
 1. 你可以使用技术权益在你的云和混合解决方案的售前、设计、部署和应用开发阶段请求技术协助。 若要请求帮助，请填写请求窗体，然后选择 "**提交请求**"。
 
 2. 当你解锁这些权益时，如何通过电子邮件共享 Azure 赞助权益。 
+
+## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>为什么我看不到我的仪表板上的商业奖励 Marketplace 计划？
+
+Marketplace 奖励信息通过用于创建合作伙伴中心帐户的 Azure AD 租户和 MPN ID 提供。 此帐户称为公司的主要全局帐户（PGA）。 如果你的 AAD 租户不同于用于 MPN 载入的租户，则为了你查看商业奖励 Marketplace 菜单，你需要将其与公司的 PGA 相关联。 
+
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>将 Azure AD 租户与公司的 PGA 关联
+
+1. 作为全局管理员或帐户管理员，请在合作伙伴中心登录到 PGA。
+
+2. 选择 "**设置**" （右上方）、"**合作伙伴设置**" 和 "**租户**"。 
+
+3. 选择 "**关联其他 Azure AD 租户**"，并选择要与 PGA 关联的 Azure AD 租户。
+
+4. 添加要关联的 Azure AD 租户中的任何用户的用户名和密码，然后选择 "**提交**"。
+
+5. 从合作伙伴中心注销，然后使用刚刚关联到 PGA 的租户的用户名和密码进行登录。
+
+6. 现在，你将可以在左侧导航菜单中查看商业奖励 Marketplace 计划信息。
+
 
