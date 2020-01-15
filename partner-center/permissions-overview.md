@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004126"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776498"
 ---
 # <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
 
@@ -41,10 +41,10 @@ ms.locfileid: "75004126"
 ||• 查看协议、价目表和套餐
 ||• 查看、创建和管理合作伙伴用户|
 ||  查看、创建和管理帐单、发票与对帐文件
-|用户管理管理员   | • 查看、创建和管理用户
+|“用户管理”管理员   | • 查看、创建和管理用户
 ||• 查看所有合作伙伴档案
 ||• 查看、创建和管理合作伙伴用户  |
-|帐单管理员 | - 查看、创建和管理帐单、发票与对帐文件|
+|计费管理员 | - 查看、创建和管理帐单、发票与对帐文件|
 |默认用户|  查看“我的个人资料”   |
 |管理员代理 | • 客户管理
 ||• 将设备列表添加到合作伙伴中心
@@ -135,6 +135,13 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴使用的应用，使�
 ||• 可以查看和发起奖励申请
 ||• 查看回扣与合作收益
 ||• 访问支持
+
+## <a name="view-partner-center-insights-data"></a>查看合作伙伴中心见解数据
+
+|**Role** | **你可以执行的操作**|
+|------------------------------|:-------------------------|
+|主管人员报表查看器|访问所有报告数据集|
+|报表查看器|访问不包括收入与客户和员工个人数据的数据报告|
 
 
 

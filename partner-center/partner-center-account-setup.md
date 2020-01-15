@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴中心帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理公司的档案、目录、银行和税务信息、角色、权限等。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005016"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757200"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
@@ -45,9 +45,11 @@ ms.locfileid: "75005016"
 |查看每个角色所需的权限|[为用户分配角色和权限](permissions-overview.md)
 |管理公司的位置|[管理合作伙伴帐户：位置](manage-locations.md)
 |如果员工忘记密码，你需要进行密码重置。  |[重置用户密码](reset-a-user-password.md)|
+|以控制面板供应商的身份注册到合作伙伴中心|[以控制面板供应商的身份注册到合作伙伴中心](enroll-as-cpv.md)|
+|将 Microsoft Learn 帐户关联到合作伙伴中心|[将 Microsoft Learn 帐户关联到合作伙伴中心](ms-learn-associate.md)|
 |务必推广公司，以便客户能够找到你   |[创建业务资料](create-a-marketing-profile.md)|
 |整理目录，以便最重要的产品位于列表顶部   |[自定义目录](customize-the-catalog.md)|
-|关注当前定价和套餐的最新消息   |[定价和产品/服务](pricing-and-offers.md)|
+|关注当前定价和套餐的最新消息   |[定价和套餐](pricing-and-offers.md)|
 
 
 
