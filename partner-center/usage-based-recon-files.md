@@ -1,18 +1,18 @@
 ---
 title: 基于使用情况的对帐文件 |合作伙伴中心
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 基于使用情况的对帐文件中的所有项都说明了示例。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757220"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021741"
 ---
 # <a name="usage-based-file-fields"></a>基于使用情况的文件字段
 
@@ -34,7 +34,7 @@ ms.locfileid: "75757220"
 | PartnerBillableAccountId | 合作伙伴帐户标识符。 | *1010578050* |
 | CustomerCompanyName | 客户的组织名称，如合作伙伴中心中所报告。 *与系统信息协调发票非常重要。* | *测试客户* |
 | MpnId | CSP 合作伙伴的 MPN 标识符。 | *4390934* |
-| ResellerMpnId | 订阅的记录分销商的 MPN 标识符。 对当前活动不可用。 |
+| ResellerMpnId | 订阅的记录分销商的 MPN 标识符。  |
 | InvoiceNumber | 显示指定交易所在的发票号码。 | *D020001IVK* |
 | ChargeStartDate | 计费周期的开始日期，之前未付款的潜在使用数据（来自上一个计费周期）的显示日期除外。 时间始终是一天的开始，即 0:00。 | *2/1/2019 0:00* |
 | ChargeEndDate | 计费周期的结束日期，之前未付款的潜在使用数据（来自上一个计费周期）的显示日期除外。 时间始终是一天的结束，即 23:59。 | *2/28/2019 23:59* |

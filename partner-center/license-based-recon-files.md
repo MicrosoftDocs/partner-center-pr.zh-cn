@@ -1,18 +1,18 @@
 ---
 title: 基于许可证的对帐文件 |合作伙伴中心
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 了解合作伙伴中心的基于许可证的对帐文件。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757180"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021731"
 ---
 # <a name="license-based-reconciliation-files"></a>基于许可证的对帐文件
 
@@ -37,7 +37,7 @@ ms.locfileid: "75757180"
 | CustomerId | GUID 格式的客户的唯一 Microsoft 标识符。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | 客户的组织名称，如合作伙伴中心中所报告。 *用于使发票与系统信息进行协调的非常重要的字段。* | *测试客户 A* |
 | MpnId | CSP 合作伙伴的 MPN 标识符。 请参阅[如何按合作伙伴列举](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *4390934* |
-| ResellerMpnId | 订阅的记录分销商的 MPN 标识符。 对当前活动不可用。 |
+| ResellerMpnId | 订阅的记录分销商的 MPN 标识符。  |
 | OrderId | Microsoft 帐单平台中订单的唯一标识符。 在联系支持人员时，确定订单可能会很有用。 不用于对帐。 | *566890604832738111* |
 | SubscriptionId | Microsoft 帐单平台中订阅的唯一标识符。 与支持人员联系时，确定订阅可能会很有用。 不用于对帐。 *此值不同于合作伙伴管理控制台上的**订阅 ID** 。请参阅**SyndicationPartnerSubscriptionNumber** 。* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 订阅的唯一标识符。 对于同一计划，一个客户可以具有多个订阅。 此列对于协调文件分析非常重要。 此字段映射到合作伙伴管理员控制台中的**订阅 ID** 。 | *fb977ab5--24c8d9591708* |
