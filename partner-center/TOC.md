@@ -121,7 +121,7 @@
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
-# [云解决方案提供商产品/服务](csp-offers.md)
+# [云解决方案提供商产品/服务](csp-offers.md) 
 ## 商业市场
 ### [商业市场概述](csp-commercial-marketplace-overview.md)
 ### [发现市场产品/服务](csp-commercial-marketplace-discover.md)
@@ -135,7 +135,8 @@
 ### [代表客户购买 Microsoft Azure 预订](azure-reservations-buying.md)
 ### [代表客户管理 Microsoft Azure 预订](azure-reservations-manage.md)
 ### [Azure 虚拟机预留实例 (RI) 和服务器订阅](azure-ri-server-subscriptions.md)
-## [Azure 计划 - 入门](azure-plan-get-started.md)
+## [Azure 计划](azure-plan-lp.md)
+### [Azure 计划 - 入门](azure-plan-get-started.md)
 ### [购买 Azure 计划](purchase-azure-plan.md)
 ### [比较 Azure 套餐](compare-azure-offers.md)
 ### [将客户过渡到 Azure 计划](azure-plan-transition.md)
