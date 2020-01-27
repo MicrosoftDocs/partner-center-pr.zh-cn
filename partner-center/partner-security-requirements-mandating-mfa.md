@@ -7,31 +7,27 @@ ms.subservice: partnercenter-csp
 description: 了解合作伙伴租户的强制 MFA 如何帮助保护对客户资源的访问。 包括示例方案。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
+keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
 ms.localizationpriority: medium
-ms.openlocfilehash: dd54d10bb75fe732cddc34c48058b3ba95eac9ae
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004986"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723484"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制执行多重身份验证（MFA）
 
-**适用于**
+**적용 대상**
 
-- 云解决方案提供商计划中的所有合作伙伴
-  - 直接计费
-  - 间接提供商
-  - 间接经销商
-- 所有顾问
+- 클라우드 솔루션 공급자 프로그램의 모든 파트너
+  - 직접 청구
+  - 간접 공급자
+  - 간접 재판매인
+- 모든 관리자
 
-**相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   帐单管理员
--   MPN 合作伙伴管理员
+**适当的用户**
+-   所有已启用的用户（包括来宾用户）
 
 这些合作伙伴将需要完成以下领域的 MFA 验证：
 
@@ -173,7 +169,7 @@ Azure AD 收到（例如身份验证请求）时，Azure AD 将需要合作伙�
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>问题1：合作伙伴需要更多时间来实现其合作伙伴代理的 MFA
 合作伙伴尚未启动或仍处于为其合作伙伴代理实现 MFA 的过程，这些客户需要使用合作伙伴委派管理权限来管理客户资源。 合作伙伴需要更多时间来完成 MFA 实现。 这是否是技术异常的有效原因？
 
-回答：不能。 合作伙伴需要计划为其用户实现 MFA，以避免中断。
+**答**：否。 合作伙伴需要计划为其用户实现 MFA，以避免中断。
 
 > [!NOTE]
 > 即使合作伙伴尚未实现其合作伙伴代理的 MFA，伙伴代理仍可使用合作伙伴委派管理权限访问 Microsoft Online Services 门户，前提是他们可以完成 MFA 注册和 MFA 验证当登录到客户租户时出现提示。 完成 MFA 注册不会自动为用户启用 MFA。
@@ -181,12 +177,12 @@ Azure AD 收到（例如身份验证请求）时，Azure AD 将需要合作伙�
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>问题2：合作伙伴尚未对不使用委派的管理员权限的用户帐户实施 MFA
 合作伙伴在其合作伙伴租户中有一些用户，这些用户不需要访问 Microsoft Online Services 门户即可使用合作伙伴委派管理权限来管理客户资源。 合作伙伴正在为这些用户实现 MFA，需要更多时间才能完成。 这是否是技术异常的有效原因？
 
-回答：不能。 由于这些用户帐户不使用合作伙伴委派管理权限来管理客户资源，因此他们不需要登录到客户租户。 它们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证。
+**答**：否。 由于这些用户帐户不使用合作伙伴委派管理权限来管理客户资源，因此他们不需要登录到客户租户。 它们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证。
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>问题3：合作伙伴尚未为用户服务帐户实现 MFA
 合作伙伴在其合作伙伴租户中提供了一些用户帐户，由设备用作服务帐户。 这些帐户通常是低特权帐户，无需访问合作伙伴中心或 Microsoft 联机服务门户即可使用合作伙伴委派管理权限来管理客户资源。 这是否是技术异常的有效原因？
 
-回答：不能。 由于这些用户帐户不使用合作伙伴委派管理权限来管理客户资源，因此他们不需要登录到客户租户。 它们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证。
+**答**：否。 由于这些用户帐户不使用合作伙伴委派管理权限来管理客户资源，因此他们不需要登录到客户租户。 它们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证。
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>问题4：合作伙伴无法使用 MS 验证器应用实现 MFA
 合作伙伴具有 "清洁办公桌" 策略，不允许员工将其个人移动设备带入其工作区。 在不访问其个人移动设备的情况下，员工无法安装 MS 身份验证器应用，这是 Azure AD 基准策略支持的唯一 MFA 验证。 这是否是技术异常的有效原因？

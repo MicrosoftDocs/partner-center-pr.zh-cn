@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: 合作伙伴中心文档
-summary: 合作伙伴中心通过 Microsoft 合作伙伴网络 (MPN)、云解决方案提供商 (CSP) 计划等等，来帮助你发展业务。
+summary: 合作伙伴中心是你通过 Microsoft 合作伙伴网络 (MPN)、云解决方案提供商 (CSP) 计划等等来发展业务的地方。
 brand: windows
 metadata:
   title: 合作伙伴中心文档
-  description: 合作伙伴中心通过 Microsoft 合作伙伴网络 (MPN)、云解决方案提供商 (CSP) 计划等等，来帮助你发展业务。
+  description: 合作伙伴中心是你通过 Microsoft 合作伙伴网络 (MPN)、云解决方案提供商 (CSP) 计划等等来发展业务的地方。
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
   ms.topic: hub-page
@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 01/07/2020
-  ms.openlocfilehash: 1eeb71d01af72c4ecd76e632e68ce4739fdbf5cd
-  ms.sourcegitcommit: 7de04911b790c603625ed51cc6f8ec80ebefae2d
+  ms.openlocfilehash: b167e61908b30dff2c9531810d465411cd8089d8
+  ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 01/23/2020
-  ms.locfileid: "76549642"
+  ms.lasthandoff: 01/24/2020
+  ms.locfileid: "76723424"
 highlightedContent:
   items:
   - title: 登录以查看最新公告
@@ -29,9 +29,12 @@ highlightedContent:
   - title: 加入 API 和 SDK 早期采用者计划
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: 商业市场概述
+  - title: 销售 ISV 产品/服务
     itemType: whats-new
     url: csp-commercial-marketplace-overview.md
+  - title: ISV 合作伙伴 - 创建产品/服务并将其发布到市场、AppSource 和云解决方案提供商分销商渠道
+    itemType: whats-new
+    url: https://docs.microsoft.com/en-us/azure/marketplace/
   - title: 合作伙伴中心见解
     itemType: overview
     url: partner-center-insights.md
