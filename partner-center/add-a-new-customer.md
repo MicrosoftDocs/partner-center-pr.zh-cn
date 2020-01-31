@@ -10,14 +10,14 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722301"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860438"
 ---
-# <a name="add-a-new-customer"></a>添加新客户
+# <a name="add-a-new-customer"></a>添加新客户 
 
 **适用于**
 
@@ -28,7 +28,7 @@ ms.locfileid: "74722301"
 **相应的角色**
 
 - 全局管理员
-- 用户管理管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 
