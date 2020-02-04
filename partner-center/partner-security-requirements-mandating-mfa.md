@@ -7,7 +7,7 @@ ms.subservice: partnercenter-csp
 description: 了解合作伙伴租户的强制 MFA 如何帮助保护对客户资源的访问。 包括示例方案。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 클라우드 솔루션 공급자, 클라우드 솔루션 공급자 프로그램, CSP, 제어판 공급업체, CPV, 다단계 인증, MFA, 보안 애플리케이션 모델, 보안 앱 모델, 보안
+keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
 ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
 ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
@@ -18,13 +18,13 @@ ms.locfileid: "76723484"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制执行多重身份验证（MFA）
 
-**적용 대상**
+**适用于**
 
-- 클라우드 솔루션 공급자 프로그램의 모든 파트너
-  - 직접 청구
-  - 간접 공급자
-  - 간접 재판매인
-- 모든 관리자
+- 云解决方案提供商计划中的所有合作伙伴
+  - 直接计费
+  - 间接提供商
+  - 间接经销商
+- 所有顾问
 
 **适当的用户**
 -   所有已启用的用户（包括来宾用户）
