@@ -25,9 +25,8 @@
 ## [市场奖励](marketplace-rewards.md)
 ## [软件保障计划](software-assurance-lp.md)
 ### [合作伙伴中心中的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)
-### [使用合作伙伴中心中的凭证验证及兑换工具来验证、保留和兑换凭证](voucher-validation-tool.md)
-### [常见问题解答：使用凭证验证和兑换工具](vvr-faq.md)
 ### [合作伙伴中心中的软件保障规划服务](software-assurance-dps.md)
+#### [参与计划服务的资格要求](software-assurance-dps-requirements.md)
 ## 发票和税款
 ### [Microsoft 合作伙伴网络中的发票和税款](mpn-view-print-maps-invoice.md)
 ## [试用新功能](test-drive-new-features.md)
