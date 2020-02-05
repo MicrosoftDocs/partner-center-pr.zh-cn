@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757200"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812663"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
@@ -28,13 +28,50 @@ ms.locfileid: "75757200"
 -   用户管理员
 -   管理员代理
 
-在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴中心创建帐户后，你或你的管理员需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 
+在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴中心创建帐户后，你或你的管理员需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 对于任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员，你公司的帐户还将包括其用户帐户。
 
-你或你的管理员还将为任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员创建用户帐户。
+## <a name="account-management"></a>帐户管理
+
+目前，合作伙伴中心在两个不同的部分进行帐户管理：“合作伙伴”  设置和“开发人员”  设置。 
 
 >[!NOTE]
->帐户设置位于合作伙伴中心的右上角。 当你选择此图标时，你将能够选择要管理的项目。 例如，选择“帐户”图标，然后选择“用户管理”   。 此操作会将你转到你的用户管理页面，还会打开一个包含所有“帐户设置”选项的附加窗格  。
+>帐户设置位于合作伙伴中心的右上角。 当你选择此图标时，你将能够选择要管理的项目。 
 
+![帐户设置](images/accountsettings/account1.png)
+
+合作伙伴可以根据其公司是否已在这些计划中注册来查看用于管理“合作伙伴”设置和/或“开发人员”设置的选项。 仅当公司至少在一个与该设置关联的计划中注册时，设置选项才可用。 
+
+若要管理帐户设置，必须为计划选择适当的帐户设置选项。 在合作伙伴中心左侧导航菜单中，可以看到公司注册加入的计划。 这是计划及其相应设置选项的列表（非详尽）：
+
+|**计划名称**   |**设置选项** |
+|---------------------|:-----------------------|
+|MPN   |合作伙伴|
+|CSP    |合作伙伴|
+|引荐   |合作伙伴|
+|商业市场|开发人员|
+|Windows 和 Xbox|开发人员|
+|Office 应用商店|开发人员|
+|Edge 扩展|开发人员|
+
+## <a name="the-differences-in-partner-and-developer-settings-options"></a>“合作伙伴”和“开发人员”设置选项的差异
+
+**合作伙伴帐户设置选项**：
+
+![合作伙伴选项](images/accountsettings/partneroptions.png)
+
+**开发人员帐户设置选项**：
+
+![开发人员选项](images/accountsettings/devoptions.png)
+
+## <a name="enrolling-in-programs"></a>在计划中注册
+
+有很多合作伙伴中心计划，每个计划对于公司注册都有不同的要求。 若要了解如何注册加入合作伙伴中心计划，请参阅[合作伙伴网络](https://partner.microsoft.com/)。 
+
+## <a name="the-account-picker"></a>帐户选取器
+
+可能有多个帐户。 如果有多个帐户，则会在左侧导航菜单中看到“帐户选取器”。 如果选择帐户选取器，则你所属的所有帐户都会显示为一个列表。 可以选择其中任何一个。在切换到该帐户后，会在其中看到与之相关的所有计划和信息。 如果看不到帐户选取器，则说明你是单个帐户的成员。
+
+![帐户选取器](images/accountsettings/accountpicker.png)
 
 ## <a name="resources-to-help-you-manage-your-partner-center-account"></a>帮助你管理合作伙伴中心帐户的资源
 

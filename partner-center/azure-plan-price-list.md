@@ -1,7 +1,7 @@
 ---
 title: Azure 计划价目表 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用合作伙伴中心查看 Azure 计划下的订阅价目表。
@@ -10,23 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722050"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812639"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表 
 
 **相应的角色**
 
 - 管理员代理
-- 帐单管理员
+- 计费管理员
 - 全局管理员
 - 支持人员代理
 - 销售代理
-- 用户管理管理员
+- “用户管理”管理员
 
 CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 价目表在实时准确的文件中动态传送，仅以美元显示价格。 但是，计费是按客户所在国家/地区支持的货币进行的。 有关客户所在国家/地区的货币计费的详细信息，请阅读 [Azure 计划 - 计费](azure-plan-billing.md)。
 
@@ -86,4 +86,17 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 |MeterType|计量类型|
 |标记|项的属性，对于 Azure 计划定价，此字段为 Azure，或 Azure 和预留项（具体而言，是预留项）|
 
-详细的[价目表信息](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+可以从 [Azure 计划定价和市场页](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)导出 Azure 计划的价目表
+
+## <a name="pricing-api-for-azure-plan"></a>Azure 计划的定价 API
+
+可以使用[定价 API](https://docs.microsoft.com/partner/develop/pricing) 以编程方式检索 Azure 计划对使用和预留项的定价。 还可以检索外汇汇率。 
+
+定价 API 与其他合作伙伴中心 API 位于不同的终结点。 定价信息包括适用于 Azure 计划资源的计量定价（美元），以及适用于 Azure 计划订阅的预留项定价。
+
+此 API 还允许合作伙伴检索每月的汇率，因为 Azure 计划定价仅限美元。 可以使用这些 API 检索当月或以前的月份的定价和外汇汇率。
+
+>[!NOTE]
+> 定价 API 特定于 Azure 计划定价。 仍应使用发布到合作伙伴中心的“定价和套餐”页中的现有 RateCard API 和价目表，了解部署到非 Azure 计划订阅的 Azure 资源或预留项。 Azure 计划定价 API 不支持基于软件、市场或席位的定价，例如 Microsoft 365 或 Dynamics 365。
+
+有关 Azure 计划定价和外汇汇率 API 的详细信息，请参阅完整的[定价 API 文档](https://docs.microsoft.com/partner/develop/pricing)。

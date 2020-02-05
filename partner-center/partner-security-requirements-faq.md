@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004266"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723474"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
-**相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   帐单管理员
--   MPN 合作伙伴管理员
+**相应的用户**
+-   所有支持的用户，包括来宾用户
 
 本文包含[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题解答。
 
@@ -151,7 +147,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>启用 MFA 是否会影响我与客户的租户交互？
 
-否。 履行这些安全要求不会影响你管理客户。 你执行委派管理操作的权限不会受影响。
+不能。 履行这些安全要求不会影响你管理客户。 你执行委派管理操作的权限不会受影响。
 
 ### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>我的客户是否需遵循合作伙伴安全要求？
 
