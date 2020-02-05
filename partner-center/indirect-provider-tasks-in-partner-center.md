@@ -1,19 +1,19 @@
 ---
 title: 与云解决方案提供商计划中的间接经销商合作 |合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为间接提供商或分销商，了解如何通过与间接经销商合作来进行扩展。 这包括你可以在合作伙伴中心执行的任务。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004536"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012135"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -66,6 +66,8 @@ ms.locfileid: "75004536"
 
 若要建立合作关系，请通过电子邮件向经销商发送合作关系请求。 在开始之前，请务必准备好分销商的电子邮件地址。 
 
+在 "订阅详细信息" 页上，在 "经销商（MPN ID）" 字段中，添加要使用的分销商。 请确保使用与分销商伙伴位置帐户关联的 MPN ID，这些帐户用于加入合作伙伴中心。 这可确保经销商收到合适的激励，并具有有效的 Microsoft 合作伙伴协议以参与事务。
+
 1. 从 "**合作伙伴中心**" 菜单中选择 "**间接经销商**"。 
 
 2. 在**间接经销商**页面上，选择**请求建立合作关系**。 此时将显示草稿电子邮件。
@@ -89,7 +91,7 @@ ms.locfileid: "75004536"
 
 | **实现此目的** | **执行此操作** | **Where** |
 |   ------------------   |   -------   |   -----   |
-| 使经销商可以管理客户的帐户，并具有管理其订阅的管理员权限 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
+|使经销商可以管理客户的帐户，并具有管理其订阅的管理员权限 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
 |允许经销商管理一个 Azure 客户的帐户|添加新客户时将经销商与 Azure 客户帐户相关联|在 **Azure 服务门户**上，选择[用户设置](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)以授予间接经销商**租户所有者**权限|
 | 给予经销商信用奖励 | 将经销商与（新的或现有的）订阅相关联 | 在**新建订阅**页面上 |
 | 委派经销商作为特定订阅的客户支持 | 从**指定支持联系人**列表中选择经销商 | 在订阅的详细信息页上：从 "**客户**" 页中选择 "客户"，然后从客户的 "**订阅**" 页中选择订阅 |
