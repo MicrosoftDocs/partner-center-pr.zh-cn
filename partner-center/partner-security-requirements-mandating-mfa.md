@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723484"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044726"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>合作伙伴租户的强制执行多重身份验证（MFA）
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723484"
 
 这些合作伙伴将需要完成以下领域的 MFA 验证：
 
-- [合作伙伴中心仪表板](#partner-center-dashboard)（面向 H1 CY2020）
-- [合作伙伴中心 API](#partner-center-api) （面向 H1 CY2020）
+- [合作伙伴中心仪表板](#partner-center-dashboard)（面向第2季度 CY2020）
+- [合作伙伴中心 API](#partner-center-api) （面向第2季度 CY2020）
 - [合作伙伴委派管理](#partner-delegated-administration)（从2019年11月18日起）
 
 此功能的目的是帮助合作伙伴保护其对客户资源的访问，防止凭据泄露。
@@ -61,9 +61,9 @@ ms.locfileid: "76723484"
 
 **示例2：合作伙伴已使用联合身份验证实现第三方 MFA**
 1. Trent 适用于 CSP Wingtip。 Wingtip 已使用第三方 MFA 为 Wingtip partner 租户下的所有用户实现了 MFA，该用户通过联合身份验证与 Azure AD 集成。
-2. 在他的工作站上，Trent 将启动一个新的浏览器会话，并导航到 "合作伙伴中心" 面板的 "概述" 页（不受 MFA 保护）。 合作伙伴中心将 Justin 重定向到 Azure AD，以便登录。
+2. 在他的工作站上，Trent 将启动一个新的浏览器会话，并导航到 "合作伙伴中心" 面板的 "概述" 页（不受 MFA 保护）。 合作伙伴中心将 Trent 重定向到 Azure AD，以便登录。
 3. 由于 Wingtip 具有设置联合身份验证，因此 Azure AD 重定向 Trent 到联合标识提供程序，以完成登录和 MFA 验证。 成功登录和 MFA 验证后，Trent 将重定向回 Azure AD，然后重定向到合作伙伴中心仪表板概述页。
-4. Justin 尝试访问合作伙伴中心的一个受 MFA 保护的页面。 由于 Trent 在之前登录时已经完成了 MFA 验证，Trent 可以访问受 MFA 保护的页面，而无需再次进行 MFA 验证。
+4. Trent 尝试访问合作伙伴中心的一个受 MFA 保护的页面。 由于 Trent 在之前登录时已经完成了 MFA 验证，Trent 可以访问受 MFA 保护的页面，而无需再次进行 MFA 验证。
 
 **示例3：合作伙伴未实现 MFA**
 1. John 适用于 CSP Fabrikam。 Fabrikam 未为 Fabrikam 合作伙伴租户下的任何用户实现 MFA。
@@ -127,7 +127,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 如果合作伙伴帐户是**联合**身份，则体验取决于伙伴管理员如何在 Azure Active Directory 中配置联合。 在 Azure Active Directory 中设置联合时，合作伙伴管理员可以指示 Azure Active Directory 联合标识提供者是否支持 MFA。 如果是这样，Azure Active Directory 会将用户重定向到联合标识提供者，以完成 MFA 验证。 否则，Azure Active Directory 会直接提示用户完成 MFA 验证。 如果合作伙伴帐户尚未注册 Azure Active Directory 之前的 MFA，则系统将要求用户首先[完成 mfa 注册](#mfa-registration-experience)。
 
-总体体验非常类似于最终客户租户为其管理员实现了 MFA 的方案。 例如，客户租户已[为管理员启用 Azure AD 基准策略-MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，这要求具有管理权限的所有帐户通过 mfa 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以为客户租户中的 "[管理员" 策略启用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) ，然后尝试使用 "合作伙伴委托管理" 权限来访问客户租户。
+总体体验非常类似于最终客户租户为其管理员实现了 MFA 的方案。 例如，客户租户已启用[Azure AD 安全默认设置，该默认值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)要求具有管理权限的所有帐户通过 MFA 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以启用客户租户中的[Azure AD 安全默认设置](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，然后尝试使用合作伙伴委派的管理权限来访问客户租户。
 
 > [!NOTE]
 > 并非所有 Microsoft Online Service 门户都需要合作伙伴帐户在使用合作伙伴委派的管理员权限访问客户资源时登录到客户租户。 相反，他们只要求合作伙伴帐户登录到合作伙伴租户。 例如，Exchange 管理中心。 随着时间的推移，我们希望这些门户要求合作伙伴帐户在使用合作伙伴委派的管理员特权时登录到客户租户。
@@ -141,7 +141,7 @@ Azure AD 收到（例如身份验证请求）时，Azure AD 将需要合作伙�
 
 - 合作伙伴必须避免将非交互式用户身份验证方法与 Azure AD 配合使用才能获取访问令牌。 使用非交互式用户身份验证方法（例如[密码流](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)）时，Azure AD 将无法提示用户完成 MFA 验证。 合作伙伴必须改用交互用户身份验证方法，例如[OpenID connect flow](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code) 。
 - 在交互式用户身份验证方法中，伙伴应该使用已启用 MFA 的合作伙伴用户帐户。 或者，在 Azure AD 系统提示时，合作伙伴可以在登录期间完成 MFA 注册和 MFA 验证。
-- 这非常类似于最终客户租户已为其管理员实现了 MFA 的方案。 例如，客户租户已[为管理员启用 Azure AD 基准策略-MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，这要求具有管理权限的所有用户帐户通过 mfa 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以为客户租户中的 "[管理员" 策略启用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) ，然后尝试使用 "合作伙伴委托管理" 权限以编程方式访问客户租户。
+- 这非常类似于最终客户租户已为其管理员实现了 MFA 的方案。 例如，客户租户已启用[Azure AD 安全默认设置](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，这要求具有管理权限的所有用户帐户通过 MFA 验证登录到客户租户，包括管理代理和支持人员代理。 出于测试目的，合作伙伴可以启用客户租户中的[Azure AD 安全默认设置](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，然后尝试使用合作伙伴委派的管理权限以编程方式访问客户租户。
 
 ### <a name="mfa-registration-experience"></a>MFA 注册体验
 在 MFA 验证期间，如果合作伙伴帐户之前尚未注册 MFA，Azure AD 将提示用户首先完成 MFA 注册：

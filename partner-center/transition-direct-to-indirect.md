@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，过渡，间接经销商
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860479"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044743"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商 
 
@@ -27,7 +27,7 @@ ms.locfileid: "76860479"
 
 你将能够使用现有的直属帐单租户注册间接经销商计划。 
 
-## <a name="get-started"></a>“开始”
+## <a name="get-started"></a>入门
 
 1. 请确保合作伙伴中心和 MPN ID 中的合作伙伴配置文件是最新的。
 
@@ -239,7 +239,7 @@ ms.locfileid: "76860479"
 
 7. 在 "传输请求" 对话框中，选择要传输的一个或多个订阅。 
 
-8. 单击**创建**。 
+8. 单击“创建”。 
 
 9. "**订阅传输**" 下将显示一个有效的订阅传输请求。 
 
@@ -312,6 +312,6 @@ ms.locfileid: "76860479"
 ## <a name="see-also"></a>另请参阅 
 - [有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [云解决方案提供商计划直接合作伙伴新要求](direct-partner-new-requirements.md)
-- [限制的直接帐单功能](restricted-direct-bill-capabilities.md)
+- [受限的直接计费功能](restricted-direct-bill-capabilities.md)
 
 

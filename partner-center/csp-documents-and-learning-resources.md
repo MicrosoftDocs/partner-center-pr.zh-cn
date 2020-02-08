@@ -1,7 +1,7 @@
 ---
 title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在本文中查找指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和套餐的链接。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252129"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012105"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
@@ -40,12 +40,14 @@ ms.locfileid: "74252129"
 
 [有关联机服务订阅和软件渠道授权的补充套餐条款指南](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft 云协议客户模板
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft 客户协议客户模板
 
-在你可以代表客户下单之前，客户必须接受并签署相应的 Microsoft 云协议。 Microsoft 云协议因区域而异，并提供多种语言。 请转到 Microsoft 云协议[客户模板](agreements.md)，找到 Microsoft 云协议。你需要与新客户一起审核该协议。
+在你可以代表客户下单之前，客户必须接受并签署相应的 Microsoft 客户协议。 Microsoft 客户协议特定于区域。 请确保根据客户的位置选择正确的国家/地区。
+
+若要手动下载最新版 Microsoft 客户协议模板，请选择此 [URL](https://aka.ms/customeragreement)。
 
 >[!IMPORTANT]
->你需要提供签署 Microsoft 云协议的客户的信息，通过这种方式确认该人已接受此协议。 请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md) 
+>需确认客户已接受 Microsoft 客户协议。 若要进行确认，可以证明客户已接受协议或邀请客户直接接受协议。 请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft 云协议职业保密修订条款（德国）
 
