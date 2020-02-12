@@ -1,19 +1,19 @@
 ---
 title: 创建合作伙伴中心帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐户，才能管理其网络权益和能力，以及创建业务档案。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096479"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069693"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -22,7 +22,7 @@ ms.locfileid: "74096479"
 - 全局管理员
 - 管理员代理
 
-贵组织必须是 Microsoft 合作伙伴网络的成员，然后才能在合作伙伴中心创建帐户。 如果你不是该网络的成员，可以[立即加入](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)。  了解有关 Microsoft 合作伙伴网络中的成员身份的[更多信息](https://partner.microsoft.com/membership)。 在创建合作伙伴中心帐户后，请观看此短视频：[探索仪表板](https://vimeo.com/290338211)。
+贵组织必须是 Microsoft 合作伙伴网络的成员，然后才能在合作伙伴中心创建帐户。 如果你不是该网络的成员，可以[立即加入](https://partner.microsoft.com/commercial#)。 在创建合作伙伴中心帐户后，请观看此短视频：[探索仪表板](https://vimeo.com/290338211)。
 
 ## <a name="before-you-begin"></a>开始之前
 
