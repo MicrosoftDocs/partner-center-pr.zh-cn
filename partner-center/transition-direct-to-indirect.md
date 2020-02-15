@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，过渡，间接经销商
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044743"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213335"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商 
 
@@ -137,7 +137,7 @@ ms.locfileid: "77044743"
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>将直接帐单客户移动到间接提供商
 
-你的间接提供商不能提交订单或现有直销客户的现有订阅转移，直到他们与他们建立了分销商关系。 若要建立间接提供程序与现有间接提供程序之间的分销商关系，可以使用以下方法之一： 
+你的间接提供商不能提交订单或现有直销客户的现有订阅转移，直到他们与他们建立了分销商关系。 若要建立间接提供商与现有直销客户之间的分销商关系，可以使用以下方法之一： 
 
 - [分销商关系扩展](#reseller-relationship-extension) 
 
@@ -160,7 +160,7 @@ ms.locfileid: "77044743"
 
 - 你的间接提供程序将不会提供给客户租户的[委派管理权限](customers_revoke_admin_privileges.md)。 如果间接提供商需要委派的管理权限，则必须改为向客户发送间接经销商邀请。
 
-- 建立分销商关系后，间接提供商将在 M365 管理中心和[Microsoft Store For Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)中的 "合作伙伴关系" 页下显示为客户的 CSP 合作伙伴。
+- 建立分销商关系后，间接提供商将在[M365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/partners)和[Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)中的 "合作伙伴关系" 页下显示为客户的 CSP 合作伙伴。
 
 >[!Note] 
 >若要避免混淆和误解，你的合作伙伴协议会合同形式不必，以便在使用关系扩展功能建立现有客户之间的分销商关系之前通知并获得直接帐单客户的同意直接计费客户和间接提供商。 
@@ -183,7 +183,7 @@ ms.locfileid: "77044743"
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>向客户发送间接经销商邀请
 
-你的间接提供商不能提交现有直销客户的订单，直到他们与他们建立了分销商关系。 若要在现有客户和间接提供商之间建立经销商关系，请使用间接经销商邀请邀请客户。 
+如果你的间接提供商与客户的销售商关系，你的间接提供商将无法提交订单。 若要在现有客户和间接提供商之间建立经销商关系，请使用间接经销商邀请邀请客户。 
 
 1. 从合作伙伴中心左侧导航栏中选择 "**间接提供程序**"。 
 
@@ -197,6 +197,22 @@ ms.locfileid: "77044743"
 
 6. 若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头，展开客户的记录。 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 客户协议接受
+
+Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所有客户（现有和新）都必须签署新的[Microsoft 客户协议](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 对于过渡客户，如果：
+
+- **客户尚未接受 Microsoft 客户协议**
+
+   请与间接提供商合作，让客户[接受 Microsoft 客户协议]( https://docs.microsoft.com/partner-center/confirm-customer-agreement)。
+
+- **客户已通过 Microsoft 365 管理中心接受 Microsoft 客户协议**
+
+   一旦与间接提供商建立了分销商关系，就会保留接受。 无需执行任何操作。
+
+- **客户已通过合作伙伴证明接受了 Microsoft 客户协议**
+
+   不会保留接受。 请与间接提供商合作，以[更新客户在合作伙伴中心的接受]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers)情况。
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>将现有的直接帐单订阅转移到间接提供程序
 
 在 "CSP 间接模型" 下，间接经销商与 Microsoft 没有计费关系。 相反，间接经销商通过其间接提供商获取其客户的订阅。 从直销伙伴过渡到间接经销商时，需要将你的现有订阅作为直接帐单合作伙伴传送到间接提供商。 你可以使用合作伙伴中心仪表板中提供的自助订阅转移功能来执行此操作。 
@@ -208,6 +224,8 @@ ms.locfileid: "77044743"
 - 此功能仅适用于使用现有直销合作伙伴租户完成间接经销商注册的合作伙伴。 
 
 - 在传输与给定客户关联的订阅之前，过渡合作伙伴必须将客户转移到间接提供商。 
+
+- 客户已[通过间接提供商接受了 Microsoft 客户协议](#microsoft-customer-agreement-acceptance)。
  
 ### <a name="how-to"></a>操作方法
 
@@ -293,13 +311,15 @@ ms.locfileid: "77044743"
  
 ### <a name="considerations"></a>注意事项
 
+- **传输后，订阅 ID 将不同。** 如果是 Azure 订阅（BC-OP-NT-AZR-0145P），则它还将具有 Azure 订阅 ID，该 ID 将从以前的所有者保留，并将显示在 Azure 管理门户中。
+
 - **多个传输请求无法引用同一订阅。** 创建包含现有订阅的传输请求后，在取消第一个传输请求之前，你无法创建包含同一订阅的其他传输请求。 
 
 - **基于座位的订阅的外接程序必须与其基本订阅一起传输。** 创建传输请求时，如果使用一个或多个加载项选择现有订阅，则该加载项将自动包含在传输请求中。 
 
 - **将不会在现有传输请求中反映对订阅的座位计数更改。** 创建包含现有订阅的传输请求后，应避免更新订阅的座位数量（或关联的加载项）。 如果这样做，新数量将不会在传输请求中反映出来。 在间接提供程序接受传输请求后，生成的订阅将具有旧的数量。 如果希望将新数量转移到间接提供程序，必须取消现有的传输请求并重新创建一个新的请求。 
 
-- **并非所有购买都可以使用自助服务订阅传输来传输。** 目前只能使用此功能转移 O365 订阅和 Azure PAGY 订阅（BC-OP-NT-AZR-0145P）。 不支持其他购买内容，包括 Azure 计划、Azure 保留实例、基于字词的订阅和 Azure Marketplace 的 SaaS 订阅。 你将在提交传输请求页中看到无法传输订阅的原因。
+- **并非所有购买都可以使用自助服务订阅传输来传输。** 目前只能使用此功能转移 O365 订阅和 Azure PAGY 订阅（BC-OP-NT-AZR-0145P）。 不支持其他购买内容，包括 Azure 计划、Azure 保留实例、基于字词的订阅和 Azure Marketplace 的 SaaS 订阅。 你将在提交传输请求页中看到无法传输订阅的原因。 若要传输这些订阅，你将需要[取消现有订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription)，并通过间接提供程序为客户购买新的产品/服务。
 
 - **不能使用沙盒环境进行测试。** 
 
