@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425209"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521030"
 items:
 - title: 简介
   durationInMinutes: 5
@@ -25,7 +25,7 @@ items:
 - title: 什么是合作伙伴安全要求？
   durationInMinutes: 1
   content: >
-    所有参与云解决方案提供商计划的合作伙伴、控制面板供应商和顾问合作伙伴都需要对他们合作伙伴租户中的每位用户强制实施多重身份验证 (MFA)。 这可以通过启用两种 [Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)来完成。 基线策略是一组预定义的策略，用于帮助组织防范许多常见攻击。 这些常见攻击可能包括密码喷射、重播和钓鱼。 基线策略在所有版本的 Azure Active Directory 中提供。 Microsoft 会将这些基线保护策略提供给所有人，因为基于身份的攻击在过去几年呈上升趋势。
+    所有参与云解决方案提供商计划的合作伙伴、控制面板供应商和顾问合作伙伴都需要对他们合作伙伴租户中的每位用户强制实施多重身份验证 (MFA)。 这一实施可以通过启用两种 [Azure Active Directory 基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)来完成。 基线策略是一组预定义的策略，用于帮助组织防范许多常见攻击。 这些常见攻击可能包括密码喷射、重播和钓鱼。 基线策略在所有版本的 Azure Active Directory 中提供。 Microsoft 会将这些基线保护策略提供给所有人，因为基于身份的攻击在过去几年呈上升趋势。
 
 
     下表介绍了应启用的两种基线策略。
@@ -147,4 +147,4 @@ items:
 
       ![已通过其他安全验证](../images/security/baseline-security-verification-confirmed.png)
 
-    用户完成上述步骤后，才能登录到他们尝试访问的 Microsoft 云服务。 请注意，在合作伙伴安全要求强制实施之前，系统将仅基于风险提示未被“对管理员要求 MFA”基线策略涵盖的用户进行 MFA。
+    用户完成上述步骤后才能登录到他们尝试访问的 Microsoft 云服务。 请注意，在合作伙伴安全要求强制实施之前，系统将仅基于风险提示未被“对管理员要求 MFA”基线策略涵盖的用户进行 MFA。
