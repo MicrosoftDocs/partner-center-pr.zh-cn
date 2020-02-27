@@ -1,7 +1,7 @@
 ---
 title: 确认客户接受 Microsoft 客户协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何确认客户接受 Microsoft 客户协议。 为客户订购 Microsoft 产品和服务时，可能需要这样做。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012151"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521020"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
@@ -104,7 +104,7 @@ ms.locfileid: "77012151"
 
 5. 选择“保存”，然后继续操作。 
 
-![现有客户](images/mcua2.png)
+![现有客户](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>检索客户接受协议的确认信息
 
@@ -125,6 +125,9 @@ ms.locfileid: "77012151"
 - 邀请新客户查看并接受经销商关系和协议
 
 - 邀请现有客户查看并接受协议
+
+>[!NOTE]
+> 可以使用[合作伙伴中心 API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) 来获取客户直接接受 Microsoft 客户协议的状态。  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>创建一位全新的客户，并邀请该客户查看并接受协议
 
