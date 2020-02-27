@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 预缴税金信用，税收信用，德语税务贷方形式，税务证书
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77520994"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618527"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>请确保已为预缴税金贷记
 
@@ -47,7 +47,7 @@ ms.locfileid: "77520994"
 ![为发票完成预缴税金详细信息](images/wht2.png)
 
 6. 在 "**预缴税金详细信息**" 下输入 "预缴 Total"。 "预缴 Total" 是预期的贷记量。
-7. **附加**税务证书。 你将需要在预缴税金请求中包含**预缴税金证书**的**数字副本**。 当你在合作伙伴中心提交请求时，你已从当地的税务机关收到此证书。 如果要使用**预缴税金请求流程**提交**非英语的税务证书**，则必须包含税务证书的**翻译**。 预缴税金证书中的发票税额必须与纳税预缴请求中的总金额匹配。 
+7. **附加**税务证书。 你将需要在预缴税金请求中包含**预缴税金证书**的**数字副本**。 当你在合作伙伴中心提交请求时，你已从当地的税务机关收到此证书。 预缴税金证书中的发票税额必须与纳税预缴请求中的总金额匹配。 
 
 > [!IMPORTANT]
 > 合作伙伴提供的总金额应与附加的税务证书中的发票行项匹配。
