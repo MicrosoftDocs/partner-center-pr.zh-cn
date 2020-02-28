@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 ms.localizationpriority: medium
-ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252830"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672827"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
@@ -42,7 +42,7 @@ ms.locfileid: "74252830"
 支持
 - 通过 Microsoft 合作伙伴高级支持程序包购买一对一的优先云支持扩展你的支持功能。 或选择 Microsoft 合作伙伴顶级支持程序包，以访问主动服务的完整目录、全天候的升级中断/修复支持以及跨云、混合和本地的技术帐户管理。 
 
-Services
+服务
 
 - 展示你至少提供一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加托管服务的详细信息
 
@@ -65,19 +65,19 @@ Services
 
 公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。 请参阅[云解决方案提供商计划地区市场和货币](regional-authorization-overview.md)，了解 CSP 市场和货币的完整列表。
 
-客户必须签署 Microsoft 云协议，然后才能代表客户订购 CSP 产品/服务。 可在[此处](agreements.md)找到客户所在地的适用 Microsoft 云协议。  
+客户必须先签署 Microsoft 客户协议，然后才能代表客户订购 CSP。 你可以在[此处](agreements.md)找到适用于你的客户位置的适用 Microsoft 客户协议。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>我可以通过云解决方案提供商计划销售哪些产品或服务？
 
 可以销售整套 [Microsoft 云服务](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及各种经常变化的其他套餐。 若要查看当前月份的 CSP 提供，请登录到合作伙伴中心，然后再访问 "[**定价和优惠**](https://partnercenter.microsoft.com/pcv/sales)" 页。
 
-## <a name="see-also"></a>请参阅 
+## <a name="see-also"></a>另请参阅 
 
 
 |**了解相关信息**   |**阅读此文**   |
 |:---------------------------|:--------------------|
 |每种云解决方案提供商模式的要求   | [云解决方案提供商计划](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |在 Microsoft 国家云中销售   | [适用于在 Microsoft 全国云中销售](csp-national-clouds-overview.md)|
-|Microsoft 云协议客户模板   |[按地区和语言划分的 Microsoft 云协议](agreements.md)|
+|Microsoft 客户协议客户模板   |[按区域和语言的 Microsoft 客户协议](agreements.md)|
 |合作伙伴中心的间接提供程序任务  |[与云解决方案提供商计划中的间接经销商合作](indirect-provider-tasks-in-partner-center.md)|
 |合作伙伴中心的间接经销商任务   |[云解决方案提供商计划中的间接提供程序的合作伙伴](indirect-reseller-tasks-in-partner-center.md)|

@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860438"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672707"
 ---
 # <a name="add-a-new-customer"></a>添加新客户 
 
@@ -28,7 +28,7 @@ ms.locfileid: "76860438"
 **相应的角色**
 
 - 全局管理员
-- “用户管理”管理员
+- 用户管理管理员
 - 管理员代理
 - 销售代理
 
@@ -42,10 +42,10 @@ ms.locfileid: "76860438"
 
 1. 从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择 "**添加客户**"。
 
-2. 在 "**帐户信息**" 页上，输入客户的详细信息和主要联系信息，并验证客户是否已接受并签署最新的[Microsoft 云协议](agreements.md)。
+2. 在 "**帐户信息**" 页上，输入客户的详细信息和主要联系信息，并验证客户是否已接受并签署最新的[Microsoft 客户协议](agreements.md)。
 
 >[!IMPORTANT] 
-> 在10月1日2019，Microsoft 在 CSP 计划中引入了**Microsoft 客户协议**来替换 Microsoft 云协议。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，云解决方案提供商计划仍会支持当前的 Microsoft 云协议。 阅读有关[Microsoft 客户协议和如何确认同意](confirm-customer-agreement.md)的信息
+> 2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 阅读有关[Microsoft 客户协议和如何确认同意](confirm-customer-agreement.md)的信息
   
 3. 如果你是间接提供商，请从列表中选择你想要与此客户的订阅相关联的间接经销商。
 

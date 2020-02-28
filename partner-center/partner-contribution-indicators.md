@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716913"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672687"
 ---
 # <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
@@ -44,7 +44,7 @@ PCI 为合作伙伴的技术功能提供了一种全面、全面的视图，能�
 
 ### <a name="thresholds"></a>阈值
 
-每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于客户参与和财务 & 操作路径，以实现云 Business Applications 资格。 对于在开发市场中运营的合作伙伴与专门在开发市场中操作的合作伙伴而言，阈值也有所不同。  根据[Microsoft 合作伙伴网络定义](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)，开发或开发国家/地区的市场分类。
+每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于客户参与和财务 & 操作路径，以实现云 Business Applications 资格。 对于在开发市场中运营的合作伙伴与专门在开发市场中操作的合作伙伴而言，阈值也有所不同。  根据[Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)，开发或开发国家/地区的市场分类。
 
 每个指标间的分数将被记录为每月更新 & 操作的不同 PCI 分数。
 
@@ -52,7 +52,7 @@ PCI 为合作伙伴的技术功能提供了一种全面、全面的视图，能�
 
 ![客户参与](images/pci/custengagethresh.png)
 
-![财经](images/pci/table_2.png
+![财务](images/pci/table_2.png
 )
 
 ![注意事项](images/pci/table_3.png)
