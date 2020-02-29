@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: 订阅，产品，购买，Marketplace，第三方，ISV，计费，发票，协调，侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384914"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161443"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>商业应用商店产品的帐单
 
@@ -23,10 +23,10 @@ ms.locfileid: "74384914"
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
-- 帐单管理员
+- 计费管理员
 
 作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心从商业应用商店中的 ISV 出版商那里购买基于许可证的 SaaS 产品。 完成此操作后，你可以访问这些类型采购的帐单。 计费周期从日历月的第一天开始，到日历月的最后一天结束。 发票在下个月的第8天可用。
 
@@ -35,7 +35,7 @@ ms.locfileid: "74384914"
 CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解决方案收费，当他们从合作伙伴中心或从 Azure 门户购买这些产品（使用客户以前的 CSP 购买的 Azure 租户）。
 
 >[!NOTE]
->如果客户使用其自己的 Azure AD 租户（不是从 CSP 计划中的合作伙伴购买的租户），则客户还可以选择直接从（[Microsoft AppSource](https://appsource.microsoft.com/)或[Azure Marketplace](https://azuremarketplace.microsoft.com/)）购买自己的 ISV SaaS 解决方案。 如果他们这样做，他们将直接从 Microsoft 接收自己的帐单。 同样，如果 CSP 计划中的合作伙伴向客户销售 Azure AD 租户，并向客户授予对该租户的[基于角色的访问权限](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)（除了**读者**以外向客户分配任何角色），该客户也可以购买商业 marketplace 产品/服务，而不需要事先批准或通知 CSP 合作伙伴。 在这种情况下，Microsoft 不会直接在 CSP 计划中向合作伙伴通知客户的购买情况。 但是，Microsoft 提供了一个可选的[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)机制，可用于设置有关 Azure 订阅上的活动的警报或通知。
+>如果客户使用其自己的 Azure AD 租户（不是从 CSP 计划中的合作伙伴购买的租户），则客户还可以选择直接从（[Microsoft AppSource](https://appsource.microsoft.com/)或[Azure Marketplace](https://azuremarketplace.microsoft.com/)）购买自己的 ISV SaaS 解决方案。 如果他们这样做，他们将直接从 Microsoft 接收自己的帐单。 同样，如果 CSP 计划中的合作伙伴向客户销售 Azure 订阅或新的 Azure 计划，并向客户授予对该租户的[基于角色的访问权限](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)（向除**读者**以外的客户分配任何角色），则该客户也可以购买商业 marketplace 产品/服务，而不需要事先批准或通知 CSP 合作伙伴。 在这种情况下，Microsoft 不会直接在 CSP 计划中向合作伙伴通知客户的购买情况。 但是，Microsoft 提供了一个可选的[Azure Monitor](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)机制，可用于设置有关 Azure 订阅上的活动的警报或通知。
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>访问商业 marketplace 产品的计费信息
 
