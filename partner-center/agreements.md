@@ -1,22 +1,22 @@
 ---
-title: Microsoft 云协议客户模板 | 合作伙伴中心
+title: Microsoft 客户协议客户模板 | 合作伙伴中心
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解在何处查找并下载特定于区域和语言的 Microsoft 云协议版本供客户查看。
+description: 了解在何处查找并下载特定于区域和语言的 Microsoft 客户协议版本供客户查看。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Microsoft 云协议, 客户协议模板, CSP 客户协议, Microsoft 云协议, MCA, CSP, 通过 CSP 可以在哪里进行销售, CSP 国家和地区, 多种语言的CSP MCA, CSP北美洲, CSP 中美洲, CSP 南美洲, CSP 加勒比地区, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Germany, CSP 中东地区, CSP 非洲, CSP 欧洲, CSP 亚洲, CSP 太平洋地区, CSP MCA
+keywords: Microsoft 客户协议, 客户协议模板, CSP 客户协议, Microsoft 客户协议, MCA, CSP, 通过 CSP 可以在哪里进行销售, CSP 国家和地区, 多种语言的CSP MCA, CSP 北美洲, CSP 中美洲, CSP 南美洲, CSP 加勒比地区, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Germany, CSP 中东地区, CSP 非洲, CSP 欧洲, CSP 亚洲, CSP 太平洋地区, CSP MCA
 ms.localizationpriority: high
-ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722423"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672787"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>按地区和语言划分的 Microsoft 云协议
+# <a name="microsoft-customer-agreements-by-region-and-language"></a>按区域和语言划分的 Microsoft 客户协议
 
 **适用于**
 
@@ -25,24 +25,24 @@ ms.locfileid: "74722423"
 **相应的角色**
 
 - 全局管理员
-- 用户管理管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 - 支持人员代理
 
-在你可以代表客户下单之前，客户必须接受并签署 Microsoft 云协议。
+在你可以代表客户下单之前，客户必须接受并签署 Microsoft 客户协议。
 
 >[!IMPORTANT]
-> 从 2018 年 11 月 7 日开始，你需要提供签署 Microsoft 云协议的客户的信息，通过这种方式确认该人已接受此协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 云协议](confirm-consent.md)
+> 你必须提供签署 Microsoft 客户协议的客户的相关信息，通过这种方式确认该人已接受此协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
 
-Microsoft 云协议因区域而异，并提供多种语言。 在以下列表之一中查找客户所在的位置和首选语言，以下载正确的协议。
+Microsoft 客户协议因区域而异，并以多种语言提供。 在以下列表之一中查找客户所在的位置和首选语言，以下载正确的协议。
 
 如果你不确定可以在哪些区域和市场中销售，请在此列表中查找你的公司所在的位置：[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
 -->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北美洲、中美洲、南美洲和加勒比地区

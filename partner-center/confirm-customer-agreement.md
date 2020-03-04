@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
-ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521020"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672847"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
@@ -33,9 +33,9 @@ ms.locfileid: "77521020"
 - 间接经销商、直接计费、间接提供商
 
 
-2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 请阅读间接经销商的其他[指南](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0)。
+2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 请阅读间接经销商的其他[指南](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fpartner-center%2Findirect-reseller-tasks-in-partner-center&data=02%7C01%7CChelsea.Kajs%40microsoft.com%7Cd5e0adc6b10646352ce508d7a4e84251%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637159189767080601&sdata=%2BPAWMBPVbVBkTx25r9CoD7cQxRqRVEYkxWIilrwwxZc%3D&reserved=0)。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，这两个协议在云解决方案提供商计划中共存。 从 2020 年 2 月 1 日开始，Microsoft 客户协议替代了 Microsoft 云协议。 请阅读有关 [Microsoft 客户协议以及如何确认同意](confirm-customer-agreement.md)的信息。
 
- 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，云解决方案提供商计划仍会支持当前的 Microsoft 云协议。 合作伙伴可以在合作伙伴中心确认客户接受 Microsoft 客户协议，也可以马上运行相关选项，通过 URL 邀请客户在经身份验证的 Microsoft 365 管理中心查看并接受协议。 如需更多的时间线详细信息，请查看下表：
+如需更多的时间线详细信息，请查看下表：
 
 | 日期 | 里程碑 | 详细信息 |
 |------------|------------|--------------------------------|

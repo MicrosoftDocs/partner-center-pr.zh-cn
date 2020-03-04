@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723444"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672797"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴安全要求
 
@@ -64,13 +64,21 @@ ms.locfileid: "76723444"
 
 ## <a name="security-defaults"></a>安全性默认设置
 
-- 安全性默认设置将替代基线策略。 
+安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 启用安全默认值之前，请查看如何使用 Azure AD 为组织启用 MFA，并查看以下关键注意事项。
 
 - 基线策略在接下来的几个月仍然有效，但会在 2020 年 2 月末停用。
 
 - 已采用基线策略的合作伙伴需采取行动过渡到安全性默认设置。
 
+- 安全默认值是预览版基线策略的正式版替代品。 一旦合作伙伴启用了安全默认值，他们就不再能够启用基线策略。
+
 - 使用安全性默认设置时，所有策略都会一次性启用。 
+
+- 对于使用[条件访问](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作伙伴，[安全默认值将不可用](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
+
+- 目前不会对合作伙伴强制实施阻止旧身份验证。 但是，由于大多数与已泄露标识相关的事件都来自于使用旧身份验证的登录尝试，因此建议合作伙伴脱离这些早期协议。
+
+- Azure AD Connect 同步帐户已从安全默认值中排除。
 
 - 有关详细信息，请阅读[为组织启用多重身份验证](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started)和 [Azure Active Directory 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 

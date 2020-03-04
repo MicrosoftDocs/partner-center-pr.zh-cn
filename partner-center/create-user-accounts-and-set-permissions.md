@@ -1,7 +1,7 @@
 ---
 title: 创建用户帐户和设置权限 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 02/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心创建用户帐户，以及如何为每个需要访问权限的员工分配角色。 具有不同管理员权限的用户可以执行此操作。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色, 权限, 添加用户, 分配角色, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722459"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240204"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
@@ -23,22 +23,22 @@ ms.locfileid: "74722459"
 
 - 帐户管理员
 - 全局管理员
-- 用户管理管理员
+- “用户管理”管理员
 
-为需要访问合作伙伴中心的员工创建用户帐户。 这些任务必须由用户管理员、帐户管理员或全局管理员来完成。
+为需要访问合作伙伴中心的员工创建用户帐户。 这些任务必须由用户管理员、帐户管理员或全局管理员来完成。执行这些任务的用户还必须分配有 Azure Active Directory (AAD) 角色“用户管理员”或“全局管理员”。 有关 AAD 角色的详细信息，请参阅 [Azure Active Directory 中的管理员角色](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)。
 
 
 ## <a name="add-a-new-user"></a>添加新用户
 
 1. 在合作伙伴中心右上角的“设置”图标中，选择“用户管理”。  
 
-2.  选择“添加用户”。 
+2. 选择“添加用户”。 
 
-3.  输入用户全名和唯一的电子邮件地址。
+3. 输入用户全名和唯一的电子邮件地址。
 
-4.  选择要分配给用户的代理类型和/或管理员类型。 合作伙伴中心访问权限基于角色，因此你可以分配自定义用户视图的权限，仅显示用户完成特定任务所需的功能。  如果用户需要角色分配，他们可以转到“用户管理”并筛选帐户管理员，来查找可联系的全局管理员。 
+4. 选择要分配给用户的代理类型和/或管理员类型。 合作伙伴中心访问权限基于角色，因此你可以分配自定义用户视图的权限，仅显示用户完成特定任务所需的功能。  如果用户需要角色分配，他们可以转到“用户管理”并筛选帐户管理员，来查找可联系的全局管理员。 
 
-5.  选择“添加”  以创建用户帐户。 在下一页上确认用户的详细信息。
+5. 选择“添加”  以创建用户帐户。 在下一页上确认用户的详细信息。
 
 > [!IMPORTANT]  
 > 记下此页面上显示的新用户的登录信息。 确保复制这些信息并将其发送给新用户，因为你以后无法再次访问该信息。 
@@ -67,7 +67,7 @@ ms.locfileid: "74722459"
 
 **云解决方案提供商角色包括**：
 - 管理员代理
-- 帐单管理员
+- 计费管理员
 - 销售代理
 - 支持人员代理
 
