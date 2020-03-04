@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521040"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240235"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
@@ -53,7 +53,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 3. 选择“定期”和“一次性”选项卡，以及所需货币   。
 
-![计费](images/azure/billing1.png)
+![计费](images/azure/billing3.png)
 
 4. 选择“发票”或“对帐文件”   。  
 

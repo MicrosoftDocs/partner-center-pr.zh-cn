@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft Action Pack, MAPS, 资质续订, 续订日期
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651953"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161431"
 ---
 # <a name="renew-your-mpn-offers"></a>续订 MPN 套餐
 
@@ -39,6 +39,3 @@ ms.locfileid: "73651953"
 
 如果你在续订时段内续订，你的新周年日期将为当前周年后的 365 天。
 
-## <a name="manage-auto-renewal"></a>管理自动续订
-
-打开自动续订时，在周年日期之后的一天内将从你的信用卡中收取费用。 可以在周年日期之前随时关闭自动续订。

@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 预缴税金信用，税收信用，德语税务贷方形式，税务证书
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618527"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240224"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>请确保已为预缴税金贷记
 
@@ -50,7 +50,7 @@ ms.locfileid: "77618527"
 7. **附加**税务证书。 你将需要在预缴税金请求中包含**预缴税金证书**的**数字副本**。 当你在合作伙伴中心提交请求时，你已从当地的税务机关收到此证书。 预缴税金证书中的发票税额必须与纳税预缴请求中的总金额匹配。 
 
 > [!IMPORTANT]
-> 合作伙伴提供的总金额应与附加的税务证书中的发票行项匹配。
+> 合作伙伴提供的总金额应与附加的税务证书中的发票行项匹配。 附加的税务证书文件必须是以下文件格式之一：。仅限 PDF 和 Image （。JPEG、。PNG 和。GIF）。 此外，文件名称不能包含空格或特殊字符。
 
 8. **提交**税务预缴请求。
 
