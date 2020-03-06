@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: 订阅，新建，添加订阅，暂停，取消，挂起，暂停，SaaS，许可证，ISV，第三方
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721722"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340142"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -46,7 +46,7 @@ ms.locfileid: "74721722"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 选择**添加订阅**。 "**联机服务**" 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
+3. 选择“添加订阅”。 "**联机服务**" 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
 
 4. 若只要查看特定类型的订阅，请在可用筛选器中进行选择：
    - **发布者**：选择**microsoft**仅查看来自 microsoft 或**合作伙伴**的产品/服务，以查看由 isv 发布的商业 marketplace 产品。
@@ -150,7 +150,7 @@ ms.locfileid: "74721722"
 
 5. 在 "订阅详细信息" 页中，找到 "**状态**" 部分并取消选中 "**自动续订**" 框。 
 
-6. 选择**提交**。
+6. 选择“提交”。
 
 ## <a name="see-also"></a>另请参阅
 
