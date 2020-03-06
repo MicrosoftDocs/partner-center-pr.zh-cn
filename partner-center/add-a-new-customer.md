@@ -1,7 +1,7 @@
 ---
 title: 添加新客户 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心添加新的客户记录。 然后，你可以销售客户订阅、管理计费或提供客户支持。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672707"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340075"
 ---
 # <a name="add-a-new-customer"></a>添加新客户 
 
@@ -43,6 +43,15 @@ ms.locfileid: "77672707"
 1. 从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择 "**添加客户**"。
 
 2. 在 "**帐户信息**" 页上，输入客户的详细信息和主要联系信息，并验证客户是否已接受并签署最新的[Microsoft 客户协议](agreements.md)。
+
+>[!NOTE]
+>
+>若要确保客户验证时的准确性，请确保：
+>- 使用官方文档中显示的确切合法/正式名称
+>- 避免使用首字母缩写词或短格式
+>- 不要使用测试名称
+>- 提供完整的准确地址（位置详细信息、城市、省/市/自治区、国家/地区和邮政编码）
+
 
 >[!IMPORTANT] 
 > 2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 阅读有关[Microsoft 客户协议和如何确认同意](confirm-customer-agreement.md)的信息
