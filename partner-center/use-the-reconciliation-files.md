@@ -10,15 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384806"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340215"
 ---
 # <a name="use-your-reconciliation-files"></a>使用你的对帐文件
 
-适用于：
+适用范围：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
