@@ -8,13 +8,13 @@ description: 详细了解云解决方案提供商计划中的优势和不同模�
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
-ms.localizationpriority: medium
-ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.localizationpriority: high
+ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672827"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340225"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 
 
@@ -78,6 +78,6 @@ ms.locfileid: "77672827"
 |:---------------------------|:--------------------|
 |每种云解决方案提供商模式的要求   | [云解决方案提供商计划](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |在 Microsoft 国家云中销售   | [适用于在 Microsoft 全国云中销售](csp-national-clouds-overview.md)|
-|Microsoft 客户协议客户模板   |[按区域和语言的 Microsoft 客户协议](agreements.md)|
+|Microsoft 客户协议客户模板   |[按区域和语言划分的 Microsoft 客户协议](agreements.md)|
 |合作伙伴中心的间接提供程序任务  |[与云解决方案提供商计划中的间接经销商合作](indirect-provider-tasks-in-partner-center.md)|
 |合作伙伴中心的间接经销商任务   |[云解决方案提供商计划中的间接提供程序的合作伙伴](indirect-reseller-tasks-in-partner-center.md)|
