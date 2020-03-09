@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: 订阅，marketplace，商业市场，第三方，ISV，SaaS 产品/服务，云解决方案提供商计划，CSP 计划，CSP 合作伙伴
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253715"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340136"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>在商业应用商店中发现产品/服务和定价
 
@@ -23,7 +23,7 @@ ms.locfileid: "74253715"
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
 - 管理员代理
