@@ -142,6 +142,7 @@
 ### [购买 Azure 计划](purchase-azure-plan.md)
 ### [比较 Azure 套餐](compare-azure-offers.md)
 ### [将客户过渡到 Azure 计划](azure-plan-transition.md)
+### [Azure CSP 中提供的 Azure 服务](azure-plan-available.md)
 ### [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
 ### [合作伙伴赚取的返点的计算与支付方式](partner-earned-credit-explanation.md)
 ### [CSP 中的新商务体验 - Azure 计费](azure-plan-billing.md) 
