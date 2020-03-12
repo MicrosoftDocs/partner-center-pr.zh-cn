@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如何报告合作伙伴中心问题并为支持团队收集诊断信息。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651717"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023482"
 ---
 # <a name="report-problems-with-partner-center"></a>报告合作伙伴中心问题
 
@@ -24,20 +24,19 @@ ms.locfileid: "73651717"
 - Microsoft Cloud for US Government 合作伙伴中心
 
 
-如果你发现合作伙伴中心出现问题，请联系合作伙伴中心支持，包括 bug、服务中断或报表、计费、Api 或订阅之类的其他方面。
-
+如果你发现问题或需要帮助合作伙伴中心，请联系合作伙伴中心支持部门。
 
 **报告合作伙伴中心的问题**
 
 1. 在**合作伙伴中心**仪表板中，选择 "**支持**"，然后选择 "**合作伙伴支持请求**"。
 
-2. 选择 "**新建请求**"，然后从显示的选项中选择相应的问题类型。
+2. 选择 "**新建请求**"，然后搜索最能描述你的问题的 "问题类型"。 选择 "问题类型" 和 "**查看解决方案**"。
 
 3. 查看 "**推荐的解决方案**" 页，了解可以帮助你解决问题的步骤或相关文档。
 
-4. 是否需要更多帮助？ 如果建议的解决方案解决了问题，请选择 "**否**"。 如果需要提交新的支持请求，请选择 **"是"** 。
+4. 如果**建议的解决方案**解决了问题，则可以选择 **"返回到仪表板"** 。 如果仍需要帮助，可以继续并**提供问题详细信息**。
 
-5. 如果选择 **"是"** ，请完成**详细信息**页请求窗体。 然后选择 "**提交**"。 合作伙伴支持代表将跟进与你沟通。
+5. 完成**问题详细信息**，然后**提交**。 合作伙伴支持代表将与你保持联系。
 
 **发送诊断**
 
@@ -55,7 +54,7 @@ ms.locfileid: "73651717"
 3. 请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。 
 
     >[!NOTE]
-    >在某些浏览器中，**预览**页面底部的**页面视图**部分可能显示为空。 这很正常。
+    >在某些浏览器中，**预览**页面底部的**页面视图**部分可能显示为空。 这是正常的。
 
 4. 按照屏幕上的说明保存文件。
 
