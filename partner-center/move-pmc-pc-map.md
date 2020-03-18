@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 PMC 和合作伙伴中心与续订、帐户结构、登录、用户角色、胜任度等之间的差异和相似之处。
+description: 了解 PMC 和合作伙伴中心在续订、帐户结构、登录、用户角色和资格方面之间的差异和相似之处。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
-ms.localizationpriority: medium
-ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004286"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340175"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004286"
 
 为了让你能够轻松地与我们开展业务，我们建立了一个网站（合作伙伴中心），方便大家参与。 你会发现，在 Partner Membership Center (PMC) 中做的事情都能够在合作伙伴中心的仪表板中完成。 
 
-你还可以执行更多操作，全都不需离开这个网站即可完成。 不过，部分术语和功能看起来可能有所不同。 若要减轻有关的位置和内容的任何初始顾虑，请务必转到仪表板的网站漫游。
+你还可以执行更多操作，全都不需离开这个网站即可完成。 不过，部分术语和功能看起来可能有所不同。 为了消除一开始不知道相关内容所在位置和功能的疑虑，请务必在面板中浏览一下网站内容。
 
 下表呈现了 PMC 与合作伙伴中心的一些差异。
 
@@ -37,7 +37,7 @@ ms.locfileid: "75004286"
 
 |**PMC**   |**合作伙伴中心**|
 |----------------------|:-----------------------------|
-|总部 + 位置-分别评估每个位置。 能力在本地评估|全球性公司、合作伙伴全局帐户 (PGA)，包括位置在内，都进行总体评估；绩效和技能数据在 PGA 级别聚合；包含多个配置文件视图，适用于合作伙伴配置文件和业务配置文件（用于引荐和营销）之类的程序。有关详细信息，请阅读[合作伙伴中心的帐户结构](https://docs.microsoft.com/partner-center/account-structure.md)。|
+|总部和位置 - 每一项都单独进行评估。 能力在本地评估|全球性公司、合作伙伴全局帐户 (PGA)，包括位置在内，都进行总体评估；绩效和技能数据在 PGA 级别聚合；包含多个配置文件视图，适用于合作伙伴配置文件和业务配置文件（用于引荐和营销）之类的程序。有关详细信息，请阅读[合作伙伴中心的帐户结构](https://docs.microsoft.com/partner-center/account-structure.md)。|
 
 ## <a name="sign-in"></a>登录
 
@@ -68,7 +68,7 @@ ms.locfileid: "75004286"
 
 |**PMC**   |**合作伙伴中心**   |
 |-------------------------|:-------------------|
-|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University。
+|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”   。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University  。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 权益和 MSA
 
@@ -89,7 +89,7 @@ ms.locfileid: "75004286"
 |凭证验证和兑换工具| 凭证验证和兑换工具|
 |           |云解决方案提供商计划|
 
-分配给 MSA 的 Visual Studio 权益仍将有效，会继续保留。 在合作伙伴中心续订后，仍会保留它们。 但是，如果在伙伴中心迁移后删除 MSA 分配，则不能将其重新添加到合作伙伴中心。
+分配给 MSA 的 Visual Studio 权益仍将有效，会继续保留。 在合作伙伴中心续订后，仍会保留它们。 不过，如果你在迁移到合作伙伴中心以后删除了某个 MSA 分配，则不能将它重新添加到合作伙伴中心。
 
 在合作伙伴中心，合作伙伴可以添加特定的工作帐户和来宾用户帐户，这些帐户是同一租户的 MSA，而这些租户中的合作伙伴在 Azure AD 租户中是 MPN 管理员。 如果合作伙伴在多个 Azure AD 租户中是全局管理员，并且所有这些租户都关联到同一个合作伙伴中心帐户，则该合作伙伴可以跨所有这些租户将用户添加到 Visual Studio 权益中以及基于 Azure 使用情况的分配计划中。
 

@@ -1,5 +1,5 @@
 ---
-title: 云解决方案提供商直接合作伙伴新要求 | 合作伙伴中心
+title: 云解决方案提供商计划直接合作伙伴新要求 | 合作伙伴中心
 ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
@@ -8,20 +8,20 @@ Description: 如果你是 CSP 计划中的直接合作伙伴，你可以了解�
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 直接合作伙伴, 直接计费, 要求
-ms.localizationpriority: medium
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
-ms.translationtype: MT
+ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860458"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340094"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>CSP 直销合作伙伴新要求
+# <a name="csp-direct-bill-partner-new-requirements"></a>云解决方案提供商计划直接计费合作伙伴新要求
 
 **适用于**
 
-- 云解决方案提供商计划中的直接帐单合作伙伴
+- 云解决方案提供商计划中的直接计费合作伙伴
 
 ## <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
 
@@ -33,7 +33,7 @@ ms.locfileid: "76860458"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |你所在办公地点的活动 Microsoft 合作伙伴网络 (MPN) ID。    |
 |**认可**   |代表组织接受和签署法律协议的授权。|
-|**支持**   |向客户提供一级云产品支持的能力。 <br>Microsoft 支持计划（合作伙伴高级支持 (ASfP) 或合作伙伴顶级支持 (PSfP)），具体取决于你的需求。 [比较支持计划](https://partner.microsoft.com/support/partnersupport)。<br> 重要提示：必须在购买支持计划之前传递信用检查。 如果通过了信用检查，我们会向你发送电子邮件。 |
+|**支持**   |向客户提供一级云产品支持的能力。 <br>Microsoft 支持计划（合作伙伴高级支持 (ASfP) 或合作伙伴顶级支持 (PSfP)），具体取决于你的需求。 [比较支持计划](https://partner.microsoft.com/support/partnersupport)。<br> 重要：在购买支持计划之前必须通过信用检查。 如果通过了信用检查，我们会向你发送电子邮件。 |
 |**托管服务**   |至少一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加[托管服务](https://partner.microsoft.com/business-opportunities/managed-services-provider)的更多信息。|
 |**应收帐款** |用于管理客户计费和预配的已就绪组织基础架构。
 
@@ -48,13 +48,13 @@ ms.locfileid: "76860458"
 >[!IMPORTANT]
 >完成公司信用检查可能需要几天或更长时间。 在此期间，请务必不要购买 Microsoft 支持计划。 仅当我们通知你已通过信用检查后，才购买 Microsoft 支持计划。
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>从直接转销商过渡
+## <a name="transition-from-direct-to-indirect-reseller"></a>从直接合作伙伴过渡到间接经销商
 
-当前的直接帐单合作伙伴必须满足 CSP 直销合作伙伴计划中保留的新要求。 否则，他们对[直接帐单功能的访问权限最终将受到限制](restricted-direct-bill-capabilities.md)，并且可以更长时间执行特定的任务，例如为客户提供新的购买。 
+当前的直接计费合作伙伴必须满足新要求才能保留在云解决方案提供商直接计费合作伙伴计划中。 否则，他们[直接计费功能的访问权限最终将受到限制](restricted-direct-bill-capabilities.md)并且无法再执行某些特定任务，例如为他们的客户进行新的购买。 
 
-如果决定从直接帐单企业迁移到间接经销商业务，需要执行几个步骤。 若要了解有关转换的详细信息，请参阅[从云解决方案提供商（CSP）直接合作伙伴到 CSP 间接经销商](transition-direct-to-indirect.md)。 
+如果决定要从直接计费业务迁移到间接经销商业务，有一些步骤需要执行。 若要详细了解过渡，请参阅[从云解决方案提供商 (CSP) 计划直接合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)。 
 
 ## <a name="see-also"></a>另请参阅
 
-- [有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-- [直接计费到间接分销商常见问题解答](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [直接计费到间接经销商的常见问题解答](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)

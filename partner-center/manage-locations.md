@@ -1,63 +1,63 @@
 ---
-title: 管理你的合作伙伴帐户-位置 |合作伙伴中心
+title: 管理合作伙伴帐户 - 位置 | 合作伙伴中心
 ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在激励计划、CSP 业务、订阅和其他事务中使用 MPN ID。
+description: 了解 MPN ID 是如何用于奖励计划、CSP 业务、订阅和其他交易中的。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 合作伙伴帐户，位置
-ms.localizationpriority: medium
-ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+keywords: 合作伙伴帐户, 位置
+ms.localizationpriority: high
+ms.openlocfilehash: e1f7c6732b2945d50b241764d1cf78ae6631152b
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004696"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340125"
 ---
-# <a name="manage-your-partner-account-locations"></a>管理你的合作伙伴帐户：位置
+# <a name="manage-your-partner-account-locations"></a>管理合作伙伴帐户：位置
 
 **相应的角色**
 -   全局管理员
 -   用户管理员
--   帐单管理员
+-   计费管理员
 -   管理员代理
 -   销售代理
 
-Location MPN Id 标识公司的每个特定位置。 您可以使用 location MPN ID 在激励计划中进行注册，以使用云解决方案提供商（CSP）业务来添加新的订阅和其他业务事务。 公司 MPN ID 用于非事务性活动，如支持请求。
+位置 MPN ID 标识了公司的每一特定位置。 可以使用位置 MPN ID 注册奖励计划来进行云解决方案提供商 (CSP) 业务交易，以及添加新订阅和进行其他业务交易。 公司 MPN ID 用于非交易性活动，例如支持请求。
 
-**下面是典型方案：** 
+**下面是一个典型的方案：** 
 
-合作伙伴公司可以拥有 CSP 业务和发布企业。 它们的 CSP 企业可以位于多个区域设置中，而其 pub 企业可能位于其他区域。其注册的法律企业具有一个 MPN ID，用于管理所有非事务性业务，例如添加用户或记录支持请求。 
+某一合作伙伴公司可能有 CSP 业务和出版业务。 他们的 CSP 业务可能遍及若干区域，而他们的出版业务可能遍及其他一些区域。他们注册的法定公司有一个 MPN ID，这用于管理所有非交易性业务，例如添加用户或记录支持请求。 
 
-它们的每个位置都有一个 MPN ID，该 ID 用于事务业务，如 CSP 或奖励计划。 付款与特定位置相关联。
+他们的每一位置都有一个 MPN ID，这用于交易性业务，例如 CSP 或奖励计划。 付款与特定位置相关。
 
-用户可能具有跨位置的角色。 例如，激励管理员可以在欧洲的所有位置获得该角色。
+用户可能具有跨位置的角色。 例如，奖励管理员可能有适用于所有欧洲位置的角色。
 
 **添加位置**
 
-1. 在**设置图标**中，选择 "**合作伙伴设置**"。 
+1. 从“设置”图标中选择“合作伙伴设置”。   
 
-2. 选择**位置。**
+2. 选择“位置”。 
 
-3. 选择 "**添加位置**"。  
+3. 选择“添加位置”。   
 
-4. 在 "**添加位置**" 页中，插入要添加到公司的位置的地址详细信息以及该位置的主要联系人。
+4. 在“添加位置”页面中，插入要添加到公司的位置的地址详细信息以及该位置的主要联系人。 
 
-注意：一旦将某个位置添加到合作伙伴中心，就不能将其删除。
+注意：一旦将某一位置添加到合作伙伴中心后，就不能再删除它了。
 
 **更改法定总部位置**
 
-1. 在 "**位置**" 页上，检查位置列表，以确保列出你想要作为法人的位置。 否则，请添加该位置。
+1. 在“位置”页面上，检查位置列表以确保想作为法人的位置已被列出。  否则，请添加该位置。
 
-![更新业务位置](images/updatepartnerprofile2.png)
+![更新公司位置](images/updatepartnerprofile2.png)
 
-2. 选择 "**合作伙伴配置文件**"，然后选择 "**更新法律业务配置文件**"
+2. 选择“合作伙伴配置文件”，然后选择“更新法定公司配置文件”  
 
-![更新业务位置](images/updatepartnerprofile1.png)
+![更新公司位置](images/updatepartnerprofile1.png)
 
-3. 选择区域和法人并**提交**。
+3. 选择区域和法人，并“提交”。 
 
-![更新业务位置](images/updatepartnerprofile3.png)
+![更新公司位置](images/updatepartnerprofile3.png)
 

@@ -8,13 +8,13 @@ description: 一种简单、统一、以数字方式接受的合作伙伴协议�
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 54f4fff4170b97c98108961ecf21443148c7d0d9
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004575"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340195"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>适用于云解决方案提供商合作伙伴的 Microsoft 合作伙伴协议 
 
@@ -32,7 +32,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种简单、�
 
 ## <a name="microsoft-customer-agreement"></a>Microsoft 客户协议
 
-若要通过 Azure 计划购买 Azure 服务，以及在2020年1月31日后购买的 CSP 中的所有其他产品/服务，则在 CSP 中，将需要客户接受 Microsoft 客户协议（MCuA）。 阅读[确认客户接受 Microsoft 客户协议（预览版）](confirm-customer-agreement.md)
+对于云解决方案提供商而言，需要客户接受 Microsoft 客户协议才能通过 Azure 计划购买 Azure 服务，并且才能使用 2020 年 1 月 31 日后购买的 CSP 的所有其他产品/服务。 参阅[确认客户接受 Microsoft 客户协议（预览版）](confirm-customer-agreement.md)
  
 
 
