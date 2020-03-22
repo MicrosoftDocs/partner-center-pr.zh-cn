@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 预缴税金信用，税收信用，德语税务贷方形式，税务证书
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240224"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112466"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>请确保已为预缴税金贷记
 
@@ -30,6 +30,9 @@ ms.locfileid: "78240224"
 某些国家/地区中的 CSP 合作伙伴接收包含税金的发票金额。 其中一些合作伙伴支付当地的税务机关，而不是 Microsoft。 这些合作伙伴需要提交税务预缴请求（包括其税务证书）以清除以前发票中的免税量。 这些已清除的金额在后续月度发票中显示为信用额度，因此，合作伙伴将不再为 Microsoft 支付未支付的金额。
 
 从2020年1月开始，CSP 合作伙伴应在**帐单页**上提交预缴税金请求，而不是创建支持请求。 若要在帐单页中提交请求，CSP 合作伙伴应发送到**合作伙伴中心**，并在左侧导航栏中选择 "**计费**"。 **计费页**是提交预缴税金请求的新位置。 
+
+> [!IMPORTANT]
+> 合作伙伴只能为**支付**的发票提交预缴税金请求。
 
 ### <a name="submit-a-new-tax-withholding-request"></a>提交新的预缴税金请求
 

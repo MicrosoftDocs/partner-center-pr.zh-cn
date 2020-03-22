@@ -1,20 +1,20 @@
 ---
 title: 为客户提供 Microsoft 产品试用版 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 你的客户可以试用 Microsoft 订阅产品，为期 30 天。 像许多其他联机服务一样在目录中注册这些试验。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185537"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112456"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>为客户提供 Microsoft 产品试用版
 
@@ -90,6 +90,17 @@ ms.locfileid: "75185537"
 
 - [将试用版订阅转换为付费版订阅](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [获取试用版转换产品/服务的列表](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+
+### <a name="trials-without-conversions"></a>无转换的试验
+
+并非所有试用都可以转换为付费订阅。 合作伙伴可以使用在到期日期之前没有转换的试用版。 合作伙伴可以购买支持与试用产品/服务相同的服务的兼容产品/服务。  此操作应在试用版到期之前完成，以确保新购买的产品/服务与试用版服务保持一致。 
+
+|**到期**   |**兼容的小型企业产品**   |**兼容的企业产品**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Microsoft 团队商业云（用户启动）试用版   |Business Essentials，Business Premium，M365 Business   | F3 （以前为 F1），Office 365 for Enterprise （E1，E3 和 E5），M365 F1/F3，M365 Enterprise （E3）   |
+
+>[!Note] 
+>上述产品/服务具有类似功能的类似服务计划，但产品/服务之间可能存在一些差异。 
 
 ### <a name="expiring-offers"></a>即将过期
 

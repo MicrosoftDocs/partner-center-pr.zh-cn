@@ -11,11 +11,11 @@ ms.author: labrenne
 Keywords: 订阅，新建，添加订阅，暂停，取消，挂起，暂停，SaaS，许可证，ISV，第三方
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340142"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114989"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -28,7 +28,7 @@ ms.locfileid: "78340142"
 **相应的角色**
 
 - 管理员代理
-- 帐单管理员
+- 计费管理员
 - 全局管理员
 - 支持人员代理
 - 销售代理
