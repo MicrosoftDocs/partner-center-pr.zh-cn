@@ -385,7 +385,7 @@ ms.locfileid: "77672807"
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>台湾地区和市场
+## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
 
 如果你的公司的位置是台湾，则可以在中国台湾向客户销售 CSP。
 
