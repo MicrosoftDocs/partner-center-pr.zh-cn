@@ -1,22 +1,22 @@
 ---
 title: 合作伙伴中心见解-称职报告 |合作伙伴中心
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 请查看您的工作情况，并了解 Microsoft 的胜任度，以及可帮助您提供 Microsoft 解决方案的好处。
+description: 请查看您的工作情况，并了解 Microsoft 的胜任度，以及可帮助您提供 Microsoft 解决方案的服务。
 ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，能力，优点，分析，报告
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648088"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226183"
 ---
 # <a name="competencies-report"></a>胜任度报表
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648088"
 - 报表查看器
 - Executive 报表查看器
 
-称职使你的公司能够展示你的技术能力来提供 Microsoft 解决方案。 Microsoft 胜任度旨在满足客户需求，并向潜在客户展示你的专业知识。 它们提供了 Microsoft 的丰富权益，例如 Azure 消耗的数量、云产品的权利（如 O365、技术支持、市场宣传（直接）等）。目前，在以下几个类别中总共有19项能力：**应用程序和基础结构**、**业务应用程序**、**数据和 AI**以及**新式工作区**。 例如，可将胜任度分层为银级或金级，使金牌能力更大，并提供相关的更高权益。  
+称职使你的公司能够展示你的技术能力来提供 Microsoft 解决方案。 Microsoft 胜任度旨在满足客户需求，并向潜在客户展示你的专业知识。 它们附带了 Microsoft 的丰富权益，例如 Azure 消耗的数量、云产品的权利（如 O365、技术支持、市场宣传产品/服务等）。目前，在以下几个类别中总共有19项能力：**应用程序和基础结构**、**业务应用程序**、**数据和 AI**以及**新式工作区**。 例如，将胜任度分层为银级或金级。 有更多的金牌能力，以及相关的更高级营销资源、产品/服务和计划。  
 
 **能力生命周期**
 

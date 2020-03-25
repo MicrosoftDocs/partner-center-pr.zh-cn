@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心见解-福利报表 |合作伙伴中心
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你已获得哪些类型的 Microsoft 合作伙伴权益，以帮助拓展你的业务，提高效率并增强团队的技能。
@@ -11,12 +11,12 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648248"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226193"
 ---
 # <a name="benefits-report"></a>权益报表
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648248"
 - 报表查看器
 - Executive 报表查看器
 
-作为 Microsoft 合作伙伴，你可以访问使用最新技术和创新的主机权益，以帮助你增强团队的技能，提高效率并发展你的业务。 权益包包括：许可软件、云服务、Visual Studio 订阅和支持的分配。 权益包还可以包含某些进入市场（有向市场）优势。 "权益" 报表显示在所选日期范围内访问的权益的趋势及其利用率。
+作为 Microsoft 合作伙伴，你可以访问使用最新技术和创新的主机权益，以帮助你增强团队的技能，提高效率并发展你的业务。 权益包包括：许可软件、云服务、Visual Studio 订阅和支持的分配。 这些包还可以包含某些进入市场的资源、产品/服务和计划。 "权益" 报表显示在所选日期范围内访问的权益的趋势及其利用率。
 
 ![权益页面概述](images/pci/pci_benefits_intro_1.png)
 
@@ -44,7 +44,7 @@ ms.locfileid: "75648248"
 
 **摘要**
 
-"摘要" 部分提供了在许可软件、云服务（非 Azure）、Visual Studio 订阅、技术支持和某些投放市场服务方面获得的权益。
+"摘要" 部分介绍了授权软件、云服务（非 Azure）、Visual Studio 订阅、技术支持和某些投放市场服务或产品/服务的条款。
 
 示例： Microsoft 合作伙伴网络（MPN）成员身份合作伙伴有资格获得本地产品和云产品的技术支持。 如果合作伙伴获得银资格，则会向其授予针对内部产品15次事件的技术支持。 他们可以根据需要使用此支持。 
 
@@ -79,10 +79,10 @@ ms.locfileid: "75648248"
 
 ![技术优势](images/pci/pci_benefits_technical_benefits_6.png)
 
-**走向市场**
+**投放市场的产品/服务**
 
-此图显示了在所选日期范围内、在所选的 "中转权益" 类别中为分配激活的市场推广（直接）收益的月趋势。
+此图显示了在所选的日期范围内、在所选的产品/服务或服务类别中，在所选日期范围内分配的产品/服务或服务的月趋势。
 
-从图表顶部的下拉列表中选择 "一种" "联系权益" 类别，查看向公司授予的所选 "有状态" 权益类别的趋势。 图表中的列表示已激活的活动状态权益。 折线图表示授予公司的整体联系权益。
+从图表顶部的下拉列表中选择 "产品/服务" 产品/服务类别，以查看授予你的公司的选定投放市场服务的趋势。 图表中的列表示 "产品/服务" 产品/服务已激活。 "线条" 图代表了向公司授予的总体走向市场或服务。
 
-![转向市场优势](images/pci/pci_benefits_go_to_market_7.png)
+![市场推广产品](images/pci/pci_benefits_go_to_market_7.png)
