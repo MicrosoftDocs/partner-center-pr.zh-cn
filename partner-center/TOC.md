@@ -162,6 +162,7 @@
 ### [将基于许可证的服务客户移到云服务提供商计划中](transition-seat-based-services.md)
 ### [销售“我的世界”：教育版订阅](minecraft-subscriptions.md)
 ### [向特定行业销售](Get-special-pricing-for-offers.md)
+### [向教育客户销售](sell-to-education-customers.md)
 ### [提高采用率和满意度](increasing-adoption-and-satisfaction.md)
 ### [利用 Windows Autopilot 简化设备设置](autopilot.md)
 ##  升级或将产品/服务转换为较新版本
