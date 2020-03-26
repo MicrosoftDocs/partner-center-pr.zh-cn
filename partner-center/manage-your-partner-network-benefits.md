@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作伙伴网络权益 | 合作伙伴中心
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作伙伴网络 (MPN) 并管理有助于发掘和扩大业务的会员资格权益。
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 会员权益, 会员资格
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004526"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226083"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理 Microsoft 合作伙伴网络会员权益
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004526"
 -  合作伙伴中心
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   MPN 合作伙伴管理员
+-    全局管理员
+-    用户管理员
+-    管理员代理
+-    MPN 合作伙伴管理员
 
 >[!IMPORTANT]
 >本文介绍如何在合作伙伴中心（本站点）上开始使用 Microsoft 合作伙伴网络 (MPN) 会员权益。 如果你还未收到将公司信息从 Partner Membership Center (PMC) 迁移到合作伙伴中心的邀请，请继续在 PMC 中管理 MPN 会员权益。 立即[登录](https://partner.microsoft.com/_login?authType=OpenIdConnect)到 PMC。
@@ -41,7 +41,7 @@ ms.locfileid: "75004526"
 >[!IMPORTANT]
 >尽管无需是组织中的全局管理员即可购买权益，但只有全局管理员才能为员工分配权益。 如果需要，可以根据[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明成为全局管理员（需要登录）。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
 
-权益套餐涵盖已授权软件、云服务、Visual Studio 订阅和支持服务的分配。 权益套餐还可能涵盖某些市场投放权益。 可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
+权益套餐涵盖已授权软件、云服务、Visual Studio 订阅和支持服务的分配。 权益套餐还可能涵盖某些市场推广资源、套餐和计划。 可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 
 若要查看和管理所有会员权益，请转到[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。 或者，可以登录到合作伙伴中心[仪表板](https://docs.microsoft.com/partner-center/)，从左侧菜单中选择“[权益选项]”，然后选择显示的任何权益选项。   
 
@@ -109,7 +109,7 @@ ms.locfileid: "75004526"
 
 4. 可以使用技术售前帮助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术帮助。 若要请求帮助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然后选择“提交请求”。 
 
-#### <a name="manage-go-to-market-benefits"></a>管理市场投放权益
+#### <a name="manage-go-to-market-offers"></a>管理市场推广套餐
 
 **执行此任务所需的相应角色：**
 
@@ -117,33 +117,33 @@ ms.locfileid: "75004526"
 - MPN 合作伙伴管理员
 
 
-1. 选择“市场投放权益”可查看 Microsoft 市场投放权益列表。 
+1. 选择“权益”，然后选择“市场推广”，查看通过 Microsoft 计划获得的与市场推广相关联的套餐列表   。
 
-    [市场投放权益](mpn-learn-about-go-to-market-benefits.md)提供其他可能对你有用的营销资源和帮助。 可用的权益类型取决于具体的合作伙伴级别，以及你可能取得的任何资质。
+    [市场推广功能](mpn-learn-about-go-to-market-benefits.md)提供其他可能对你有用的营销资源、套餐、计划和帮助。 可用的套餐类型取决于具体的合作伙伴级别，以及你可能取得的任何资质。
 
-2. 若要激活任何市场投放权益，必须先分配一个公司营销联系人。 此联系人将收到有关现行市场投放权益的跟进信件。
+2. 若要激活任何市场推广套餐或计划，必须先分配一个公司营销联系人。 此联系人将收到有关现行市场推广套餐的跟进信件。
 
-3. 若要添加或更新营销联系人信息，请转到“市场投放”页的顶部，然后选择“添加”、“更新”或“更改”。    现在请执行以下操作：  
+3. 若要添加或更新营销联系人信息，请转到“市场推广”页的顶部，然后选择“添加”、“更新”或“更改”    。 现在请执行以下操作：  
    
     a.  从列表中选择一个用户。 如果要分配的用户不在该列表中，可以在“帐户设置”中[添加新用户](create-user-accounts-and-set-permissions.md)。 
 
     b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。 
     
-    我们将向指定的营销联系人电子邮件地址发送有关使用市场投放权益的说明。 
+    我们将向指定的营销联系人电子邮件地址发送有关使用市场推广套餐的说明。 
     
     c.  请提供此营销联系人的联系电话和首选语言。 输入这些信息后，选择“分配用户”。  
 
-4. 更新营销联系人之后，找到要开始使用的市场投放权益，然后选择所在行最右侧的向下箭头展开该权益的详细信息。 列表将在“权益名称”下面显示每种可用的权益类型（例如“银级核心”或“金级核心”）。  
+4. 更新营销联系人后，找到要开始使用的市场推广套餐，然后选择所在行最右侧的向下箭头展开该套餐的详细信息。 列表将在“权益名称”下面显示每种可用的套餐类型（例如“银级核心”或“金级核心”）   。
 
-5. 选择“激活”以激活该权益。 
+5. 选择“激活”以激活该套餐  。
 
 > [!NOTE]
->向指定的营销联系人发送电子邮件说明和激活市场投放权益可能需要几天的时间。 激活权益后，“市场投放”页上会反映所做的更改。 在“状态”列中，将看到该权益已更改为“活动”。   在“过期”列中，将看到该权益的过期日期。  在此过期日期之前，一直都可以使用此权益。 详细了解可用的[不同类型的市场投放权益](mpn-learn-about-go-to-market-benefits.md)。  
+>向指定的营销联系人发送电子邮件说明和激活市场推广套餐可能需要几天的时间。 激活套餐后，“市场推广”页上会反映所做的更改。 在“状态”列中，你将看到该套餐已更改为“有效”   。 在“过期”列中，将看到套餐的过期日期  。 在到期日期之前，你一直都可以使用此套餐。 详细了解可用的[不同类型的市场推广资源、套餐和计划](mpn-learn-about-go-to-market-benefits.md)。  
 
 
-## <a name="cancel-a-membership-benefit"></a>取消会员权益
+## <a name="cancel-a-membership-benefit-or-offer"></a>取消会员权益或套餐
 
-若要取消权益并获得退款，必须在软件权益尚未激活的情况下，在购买后的 30 天内发出该请求。 通过服务请求来请求取消。
+若要取消权益或套餐并获得退款，必须在软件权益尚未激活的情况下，在购买后的 30 天内发出该请求。 通过服务请求来请求取消。
 
 
 #### <a name="see-also"></a>另请参阅
@@ -152,4 +152,4 @@ ms.locfileid: "75004526"
 
 [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
 
-[了解 MPN 市场投放权益](mpn-learn-about-go-to-market-benefits.md)
+[了解 MPN 市场推广套餐和资源](mpn-learn-about-go-to-market-benefits.md)

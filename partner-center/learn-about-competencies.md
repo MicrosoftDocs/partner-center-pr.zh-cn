@@ -1,7 +1,7 @@
 ---
 title: 银级和金级会员的 Microsoft 资质要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解获取金级和银级会员所要达到的资质要求。
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004806"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226213"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>有关 Microsoft 银级和金级会员资质与高级专业的信息
 
 **相应的角色**
--   全局管理员
--   用户管理员
+-    全局管理员
+-    用户管理员
 
 证明你在一个或多个专业业务领域中提供优质解决方案方面拥有公认的专长。 Microsoft 资质旨在让你做好满足客户需求的准备，以及帮助你吸引正在寻找 Microsoft 认证解决方案提供商的新客户。 加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。
 
@@ -30,7 +30,7 @@ ms.locfileid: "75004806"
 
 - 作为金级合作伙伴会员，还可以将高级专业技术添加到产品组合中。
 
-获得银级会员资格或金级会员资格还可解锁强大的[市场推广](mpn-learn-about-go-to-market-benefits.md)营销和销售权益，可助你拓展和发展业务   。
+获得银级会员或金级会员资质还可解锁强大的[市场推广](mpn-learn-about-go-to-market-benefits.md)套餐和计划，可助你拓展和发展业务   。
 
 ## <a name="competency-areas"></a>资质领域
 
@@ -54,7 +54,7 @@ ms.locfileid: "75004806"
 
 ## <a name="advanced-specializations"></a>高级专业
 
-借助高级专业超越金级资质。 这些专业知识可让你展示自己在产品、解决方案领域或服务方面的可考证的专长。 在合作伙伴目录中的企业档案中，客户可能看到你的金级资质和高级专业。 若要获得高级专业标记，企业必须完全符合一组已发布的条件，并通过 Microsoft 的验证。 [了解详情](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
+借助高级专业超越金级资质。 这些专业知识可让你展示自己在产品、解决方案领域或服务方面的可考证的专长。 在合作伙伴目录中的企业档案中，客户可能看到你的金级资质和高级专业。 若要获得高级专业标记，企业必须完全符合一组已发布的条件，并通过 Microsoft 的验证。 [了解详细信息](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
 
 ## <a name="the-current-advanced-specializations"></a>当前高级专业
 

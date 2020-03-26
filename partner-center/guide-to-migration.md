@@ -1,7 +1,7 @@
 ---
 title: 从 PMC 迁移到合作伙伴中心的指南 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将你的公司从 Partner Membership Center (PMC) 迁移到合作伙伴中心。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721877"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226173"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
@@ -29,7 +29,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 >[!Note]
 >即使公司有多个帐户或在多个位置运营，迁移到合作伙伴中心的过程一开始也只会将一个帐户（你的第一个帐户）移到合作伙伴中心。
 
-## <a name="get-started"></a>立即开始行动
+## <a name="get-started"></a>入门
 
 迁移从 PMC 开始。 全局管理员将会收到开始迁移的邀请。 
 
@@ -43,7 +43,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 在邀请信件中选择“开始”。  随后会转到合作伙伴中心登录页。
 
-![立即开始行动](images/migration/getstarted.jpg)
+![入门](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>从工作电子邮件开始
 
@@ -61,11 +61,11 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 选择“接受并继续”还会执行以下操作： 
 
-•   将帐户连同其所有位置一起迁移到合作伙伴中心
+- 将帐户连同其所有位置一起迁移到合作伙伴中心
 
-•   迁移你可能在 PMC 中购买的任何资质或 MAP
+- 迁移你可能已在 PMC 中购买的任何资质或 MAP
 
-•   迁移你在 PMC 中享有的任何权益（MAP、银级、金级）
+- 迁移你在 PMC 中拥有的任何营销资源、套餐和计划（MAP、金级、银级资质）
 
 ## <a name="invite-employees-to-join-you"></a>邀请员工加入
 
