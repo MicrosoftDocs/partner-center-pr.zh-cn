@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心的软件保障计划服务 |合作伙伴中心
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在 Microsoft 规划服务预订中注册和限定，以便您可以向具有软件保障的客户提供培训和其他服务。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 预部署、规划、软件保障
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915753"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296406"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 
@@ -25,7 +25,7 @@ ms.locfileid: "76915753"
 
 作为已批准的规划服务合作伙伴，Microsoft 将为你提供适用于企业客户的预先部署规划计划。 参与此计划可帮助你吸引更多客户、成为其受信任的规划合作伙伴，并导致其他客户服务。
 
-## <a name="get-started"></a>“开始”
+## <a name="get-started"></a>入门
 
 如果你不熟悉软件保障规划服务，请执行以下所有步骤。 如果你已在计划服务程序中处于活动状态，请在下面的步骤4（4）开始每个新的参与。
 
@@ -52,7 +52,7 @@ ms.locfileid: "76915753"
 
 为了帮助验证你的公司是否有资格注册特定的规划服务参与：
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
 2. 从菜单中选择 " **MPN** "，并选择 "**程序**"。
 3. 选择 "**软件保障注册**"。
 4. 选择页面顶部的 "**规划服务程序注册**" 选项卡。 你将在已完成的任何要求或胜任度旁显示一个绿色复选标记。
@@ -108,3 +108,4 @@ ms.locfileid: "76915753"
 - [软件保障计划服务工作流](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [软件保障规划服务常见问题解答](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [软件保障规划服务策略](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [软件保障规划服务已停用的预订](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
