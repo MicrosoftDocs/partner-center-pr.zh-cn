@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心添加新的客户记录。 然后，你可以销售客户订阅、管理计费或提供客户支持。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340075"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390956"
 ---
 # <a name="add-a-new-customer"></a>添加新客户 
 

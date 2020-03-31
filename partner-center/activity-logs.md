@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何查看和导出活动日志，以获取有关客户帐户交易以及其他客户相关合作伙伴管理活动的见解。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 活动日志, 订阅, 付款, 计费, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721791"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390376"
 ---
 # <a name="view-customer-activity-logs"></a>查看客户活动日志
 
@@ -40,7 +40,7 @@ ms.locfileid: "74721791"
 
 **查看和导出活动日志**
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 从“帐户设置”菜单中，选择“活动日志”。
 2.  在“从”和“至”字段中选择活动日志时段。 活动日志导出默认定向最近月份。

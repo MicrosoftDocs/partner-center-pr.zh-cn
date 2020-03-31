@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用客户帐户同时向一个用户或多个用户分配或吊销许可证和服务。
 ms.assetid: 4c14c2b5-1431-4e6c-a505-a74503e1235f
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 分配许可证，吊销许可证，分配给多个用户，
 ms.localizationpriority: medium
-ms.openlocfilehash: 1caf10625d776578f9b0bc91d40106cdd8dddf99
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a5dd688a5d4abd8d7f41921a16a7eda0467e5950
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722198"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390266"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤销许可证
+# <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤消许可证
 
 **适用于**
 

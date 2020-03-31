@@ -5,17 +5,17 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解你可能会在合作伙伴中心看到的不同计费类型、计费周期和计费日期。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 计费, 付款, 订单, 对帐文件
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722253"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390286"
 ---
 # <a name="types-of-billing-in-partner-center"></a>合作伙伴中心的计费类型
 

@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 有关适用于美国政府的 Microsoft 云云解决方案提供商（CSP）计划，请参阅常见问题解答（FAQ）。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: cfcccf65557e4e7d1096a6f69cb80ff00b0c3a23
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672667"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389676"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 通过将逗号分隔值文件格式（.csv）中的数据文件上传到合作伙伴中心，了解如何一次性将多个用户添加到客户的帐户。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户
 ms.localizationpriority: medium
-ms.openlocfilehash: 2195d23074a3e7c397b5f557fd3bed9ec0cc518e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721986"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390366"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>将多个用户添加到客户帐户
 
@@ -29,7 +29,7 @@ ms.locfileid: "74721986"
 
 可以通过将逗号分隔值文件格式（.csv）中的数据文件上传到合作伙伴中心，一次性将多个用户添加到客户的帐户。 你可以从 "合作伙伴中心" 下载一个示例数据文件，然后编辑该文件以供使用，或者可以使用下面定义的数据模型创建新的数据文件。
 
-## <a href="" id="creatingtheimportcsvfile"></a>数据文件要求
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>数据文件要求
 
 若要使用批量上传过程将多个用户添加到客户的帐户，需要满足以下要求：
 
@@ -47,16 +47,16 @@ ms.locfileid: "74721986"
 | 名字      | 用户的名字（可选字段）                                           | 限 50 个字符                         |
 | 姓氏       | 用户姓氏（可选字段）                                            | 限 50 个字符                         |
 | 显示名称    | "合作伙伴中心" 中显示的名称（必填字段）                            | 限 50 个字符                         |
-| “电子邮件”           | 客户公司的用户业务电子邮件地址（必填字段）           | 每个用户必须拥有唯一的电子邮件地址 |
+| 电子邮件           | 客户公司的用户业务电子邮件地址（必填字段）           | 每个用户必须拥有唯一的电子邮件地址 |
 | 状态更新   | 用于指示是否成功创建了新用户记录 | \*\*留空的\*\*                        |
 
-### <a href="" id="createmultipleuseraccounts"></a>创建多个用户帐户
+### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>创建多个用户帐户
 
 <a href="" id="creatingtheaccounts"></a>
 
 1. 使用上述数据创建逗号分隔值 (.csv) 数据文件。 保存文件，以供在后续步骤中浏览。
 
-2. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+2. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 3. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 

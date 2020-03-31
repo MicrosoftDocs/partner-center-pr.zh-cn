@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在服务遇到问题时检查客户的服务运行状况。
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 运行状况，服务运行状况，服务问题
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721662"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390206"
 ---
 # <a name="check-service-health"></a>检查服务运行状况
 

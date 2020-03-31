@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何以及在何处管理 Microsoft 云德国合作伙伴、客户和许可证以及密码重置的合作伙伴中心。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6f6a5f1c4a64e6bb9f80204dbbf6100b8441bc37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943370"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390486"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -44,15 +44,15 @@ ms.locfileid: "74943370"
 > [!NOTE]  
 > 选择以下链接将转到其他网站。 
 
--  [向 Azure Active Directory 添加新用户](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [将新用户添加到 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [在 Azure Active Directory 中向用户分配管理员角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [将用户分配到 Azure Active Directory 中的管理员角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [在 Azure Active Directory 中重置用户的密码](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **相关主题**
 
--  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure 德国](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 

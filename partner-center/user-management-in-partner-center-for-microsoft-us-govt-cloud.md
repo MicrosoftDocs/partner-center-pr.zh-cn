@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何以及在何处管理美国政府合作伙伴、客户和许可证的合作伙伴 Microsoft 云中心，以及密码重置。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943600"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390456"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -32,7 +32,7 @@ ms.locfileid: "74943600"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在美国政府 Microsoft 云的 Azure 门户中管理用户
 
-如果你登录到美国政府 Microsoft 云合作伙伴中心，可以打开美国政府 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果需要直接登录到 Microsoft Cloud for US Government 的 Azure 门户，请转到 (https://portal.azure.us/) ，然后使用 Microsoft Cloud for US Government 的 Azure AD 租户的全球管理员凭凭证据登录。
+如果你登录到美国政府 Microsoft 云合作伙伴中心，可以打开美国政府 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果需要直接登录到 Microsoft Cloud for US Government 的 Azure 门户，请转到 (https://portal.azure.us/)，然后使用 Microsoft Cloud for US Government 的 Azure AD 租户的全球管理员凭凭证据登录。
 
 在你已成功登录美国政府 Microsoft 云的 Azure 门户，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 

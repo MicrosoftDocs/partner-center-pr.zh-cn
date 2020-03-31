@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 合作伙伴可以使用适用于 Office 365 和 Microsoft Azure 合作伙伴的 Api 来实时服务运行状况、消息中心通信和计划内维护事件。
 ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 632d6ee1806638040ee1e08e1eb715d517a0c3b2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: e3424f1670a5b7533bcee1e7ca29197ad3ee58d8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722212"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391026"
 ---
 # <a name="get-automated-service-notifications-with-our-apis"></a>使用我们的 API 获取自动服务通知
 

@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何自定义 Microsoft 目录，以便更轻松地访问你的组织使用的合作伙伴产品或产品。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: af8c68aebf129a0d58726ec1fcdfa7a0ca914e75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c2a4232089cabb838f7fc67c4c19050e8161d5b5
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722440"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389866"
 ---
 # <a name="customize-the-catalog"></a>自定义目录
 

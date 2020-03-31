@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
-ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721357"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391006"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客户帐户的用户管理任务
 
@@ -41,7 +41,7 @@ ms.locfileid: "74721357"
 
 ## <a name="create-user-accounts-for-a-customer"></a>为客户创建用户帐户
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
@@ -61,7 +61,7 @@ ms.locfileid: "74721357"
 
 以下步骤适用于在 Microsoft 产品中添加或删除用户许可证。 若要在商业应用商店中添加或删除基于许可证的 SaaS 订阅的用户许可证，请参阅[添加或删除 SaaS 订阅的许可证](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
@@ -78,7 +78,7 @@ ms.locfileid: "74721357"
 
 ## <a name="reset-a-users-password-for-a-customer"></a>为客户重置用户密码
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 

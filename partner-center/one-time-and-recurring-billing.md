@@ -3,16 +3,16 @@ title: 单时间计费，并选择定期收费 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 针对预设术语（每月和每年订阅）提前一次计费的信息，以及在合作伙伴中心选择定期收费（适用于 Microsoft 和第三方 ISV 产品）的计费。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 计费，一次性，定期，购买，收费，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005036"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390776"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和选择性定期费用的计费
 

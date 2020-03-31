@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722241"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389856"
 ---
 # <a name="escalate-problems-to-microsoft"></a>将问题上报给 Microsoft
 
@@ -47,7 +47,7 @@ ms.locfileid: "74722241"
 
 ## <a name="submit-a-support-request"></a>提交支持请求
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 从 "合作伙伴中心" 菜单中，选择 "**客户**"，然后选择需要支持的客户。
 

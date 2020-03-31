@@ -3,16 +3,16 @@ title: 基于许可证的计费 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 有关合作伙伴中心中基于许可证的计费的信息，在此情况下，将按许可证（不是许可证使用情况）计费。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 计费，付款，基于许可证，许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004916"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390896"
 ---
 # <a name="license-based-billing"></a>基于许可证的计费
 

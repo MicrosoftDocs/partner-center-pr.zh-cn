@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用这些说明合并不同国家/地区的租户。 这包括迁移客户帐户和客户订阅的步骤。
 ms.assetid: 749B4C6A-26BE-4942-BDA8-F08C40DF048A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 迁移客户, 预配, 租户帐户, 合并租户
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 04c39d15b9e2c0223ef472bc14de82faae12a449
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722181"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390966"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并
 
@@ -126,7 +126,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 6.  为所有客户下的所有订阅重复这些步骤，阻止在以后向**过渡源**帐户收费。 合作伙伴将收到带有取消日期和计费周期最后一天之间未使用天数的信用的最终发票。 最终计费周期后不会再生成任何发票。
 
-### <a name="notes"></a>注释
+### <a name="notes"></a>注意
 
 -   从 CSP 帐户**转换**禁用订阅不会影响最终客户的服务，前提是该服务是在禁用之前从**转换为**CSP 帐户预配的。
 
