@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起已停用。 了解如何将你的客户订阅迁移到较新版本的 Office 365。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004557"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390876"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -53,16 +53,16 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 - 选项 4：Office 365 企业版 E3
 
 
-| 功能 | 选项 1 | 选项 2 | 选项 3 | 选项 4 |
+| 功能 | 选项 1 | 方法 2 | 选项 3 | 选项 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| 获取 Office 365 企业版 E4 中包含的所有功能？ | “是” | “是” | “是” | 无 |
-| 在 Office 365 中管理电话号码？ | “是” | “是” | 无 | 无 |
-| 在本地和 Office 365（混合部署）中管理电话号码？ | “是” | “是” | 无 | 无 |
-| 选项用于添加 PSTN 语音通话套餐？ | “是” | “是” | 无 | 无 |
-| PSTN 会议？ | “是” | 无 | 无 | 无 |
-| 用于协作、分析和保证安全的高级工具？ | “是” | 无 | 无 | 无 |
-| 交互式报告、仪表板和数据可视化？ | “是” | 无 | 无 | 无 | 
-| 更好地控制数据安全性并符合内置的隐私、透明度和改进型用户控件的要求？ | “是” | 无 | 无 | 无 | 
+| 获取 Office 365 企业版 E4 中包含的所有功能？ | 是 | 是 | 是 | 是 |
+| 在 Office 365 中管理电话号码？ | 是 | 是 | 是 | 是 |
+| 在本地和 Office 365（混合部署）中管理电话号码？ | 是 | 是 | 是 | 是 |
+| 选项用于添加 PSTN 语音通话套餐？ | 是 | 是 | 是 | 是 |
+| PSTN 会议？ | 是 | 是 | 是 | 是 |
+| 用于协作、分析和保证安全的高级工具？ | 是 | 是 | 是 | 是 |
+| 交互式报告、仪表板和数据可视化？ | 是 | 是 | 是 | 是 | 
+| 更好地控制数据安全性并符合内置的隐私、透明度和改进型用户控件的要求？ | 是 | 是 | 是 | 是 | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>将客户过渡到新产品计划
 
@@ -90,7 +90,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 3. 在**管理许可证**页面上，清除 **Office 365 企业版 E4** 许可证复选框，然后选择客户要迁移到的订阅的新服务计划。
 
-4. 选择**提交**。 确认页面列出了新的许可证分配。
+4. 选择“提交”。 确认页面列出了新的许可证分配。
 
 5. 对其他任何需要重新分配许可证的客户用户继续执行相同的步骤。
 
@@ -102,7 +102,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 2. 在订阅详细信息页面中，将订阅状态设置为**已暂停**。
 
-3. 选择**提交**。
+3. 选择“提交”。
 
 旧订阅已暂停，新订阅将激活。 暂停的订阅在 120 天后将自动取消预配。 不会向客户收取旧订阅的任何额外成本。
 

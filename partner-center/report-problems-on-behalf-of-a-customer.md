@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 如果客户遇到了无法解决的服务问题，并且满足向 Microsoft 上报问题中所述的条件，请为他们提供支持票证。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 服务请求, 服务票证, 支持, 支持权利, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943210"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390686"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -25,7 +25,7 @@ ms.locfileid: "74943210"
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
-如果你的客户遇到了你无法解决的服务问题，并且该问题符合[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
+如果你的客户遇到了你无法解决的服务问题，并且该问题符合[向 Microsoft 反映问题](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
@@ -60,7 +60,7 @@ ms.locfileid: "74943210"
 
 1. 从合作伙伴中心的帐户页复制客户的域名。
 
-2. 访问 https://portal.azure.com/ [customerdomainname]。 
+2. 访问 https://portal.azure.com/[customerdomainname]。 
 
 3. 选择需要支持的 Azure 订阅。
 
@@ -89,7 +89,7 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
     - 支持部门的电子邮件 
     - 支持部门的联系电话号码
 
-## <a name="faq"></a>常见问题解答
+## <a name="faq"></a>常见问题
 
 **哪些内容包含在支持权利中？**
 

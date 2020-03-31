@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理员权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012125"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390676"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -37,13 +37,13 @@ ms.locfileid: "77012125"
 
 2.  若要请求此客户的管理员权限，请选择 "**包括 Azure Active Directory 和 Office 365 的委派管理权限**"。 若要在不请求管理员权限的情况下建立关系，请清除此选项。 
 
-3.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，或者可以将邮件复制到剪贴板并将其粘贴到电子邮件中。 
+3.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，也可以将邮件复制到剪贴板，然后将它粘贴到电子邮件中。 
 
-    你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置以将客户直接链接到你的帐户。 完成此步骤后选择“完成”。
+    你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 完成此步骤后选择“完成”。
 
 3.  将电子邮件发送到客户。
 
-5.  客户接受你的邀请后，他们将出现在你的**客户**页面上，并且你将能够在此处为客户预配和管理服务。
+5.  客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。
 
 >注意：如果客户尚未接受 Microsoft 客户协议，则在接受邀请时，系统将提示他们执行此操作。 
  

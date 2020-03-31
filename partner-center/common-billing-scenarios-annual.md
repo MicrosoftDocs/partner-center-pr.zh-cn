@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 请参阅合作伙伴中心年度计费-添加新订阅时，在计费日期之前添加许可证，更改许可证数量，暂停/重新激活订阅。
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: d29def486243f3a4ee9060d442dc5e4b024cb1f0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: fdfb242f51556ce924d06d7a35f32cf726803fe3
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722474"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390156"
 ---
 # <a name="annual-billing-scenarios"></a>年度计费方案
 
@@ -79,7 +79,7 @@ ms.locfileid: "74722474"
 |费用开始日期 |费用结束日期 |费用类型 |单价 |数量 |金额 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|周期实例按比例计算|-48.00|1|-48.00
-1/13/2018|1/31/2018|周期实例按比例计算|2.47|1|2.47
+1/13/2018|2018/1/31|周期实例按比例计算|2.47|1|2.47
 2/1/2018|1/12/2019|周期实例按比例计算|44.98|2|89.96
 
 每年价格为 48.00，这相当于每日价格为 0.13 (48.00/365)。

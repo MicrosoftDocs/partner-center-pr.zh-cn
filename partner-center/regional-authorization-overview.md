@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 根据公司的位置，查看可以销售 CSP 产品/服务的国家/地区和货币。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: CSP 市场，区域，可在其中销售 CSP、CSP 产品、区域、销售云解决方案、全局 CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 5aae0c5eca8bc47d38fd14e600c64ae02137c2a5
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672807"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390696"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划地区市场和货币
 
@@ -24,10 +24,10 @@ ms.locfileid: "77672807"
 
 例如，如果你的公司位于美国，则可以在美国和美国外岛向客户销售 CSP 优惠。 如果你的公司位于巴西，则只能在巴西向客户销售 CSP 优惠。 如果你的公司位于非洲地区，你可以向非洲地区的所有18个国家/地区的客户销售 CSP 优惠。
 
-客户必须先签署 Microsoft 客户协议，然后才能代表客户订购 CSP。 你可以在[此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
+在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 你可以在[此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
 
 >[!IMPORTANT]
-> 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户对 Microsoft 客户协议的接受](confirm-consent.md)。
+> 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
 
 若要确定可在其中销售 CSP 产品/服务的位置，请在以下列表之一中查找公司的位置。 您必须具有要在其中销售的位置的活动 Microsoft 合作伙伴网络（MPN） ID。  
 
@@ -87,7 +87,7 @@ ms.locfileid: "77672807"
 | 塞拉利昂             |   USD    |
 | 索马里                  |   USD    |
 | 南苏丹              |   USD    |
-| 圣赫勒拿、阿森松与特里斯坦达库尼亚|    USD   |
+| 圣赫勒拿-阿森松-特里斯坦达库尼亚|    USD   |
 | 坦桑尼亚                 |   USD    |
 | 多哥                     |   USD    |
 | 乌干达                   |          |
@@ -266,7 +266,7 @@ ms.locfileid: "77672807"
 |  伯利兹         |   USD    |
 |  百慕大群岛        |   USD    |
 |  玻利维亚        |   USD    |
-|  博内尔岛        |   USD    |
+|  博内尔        |   USD    |
 |  英属维尔京群岛|USD|
 |  开曼群岛 |   USD    |
 |  智利          |   USD    |
@@ -294,7 +294,7 @@ ms.locfileid: "77672807"
 |  巴拉圭       |   USD    |
 |  秘鲁           |   USD    |
 |  波多黎各    |   USD    |
-|  萨巴岛           |   USD    |
+|  萨巴           |   USD    |
 |  圣巴泰勒米岛|  USD    |
 |  圣基茨和尼维斯|    |
 |  圣卢西亚    |   USD    |
@@ -302,7 +302,7 @@ ms.locfileid: "77672807"
 |  圣文森特和格林纳丁斯| USD |
 |  圣尤斯特歇斯 |   USD    |
 |  荷属圣马丁   |   USD    |
-|  南乔治亚和南桑威奇群岛| USD|
+|  南乔治亚岛和南桑威奇群岛| USD|
 |  苏里南       |   USD    |
 |  特立尼达和多巴哥|USD   |
 |  特克斯和凯科斯群岛| USD|
@@ -385,7 +385,7 @@ ms.locfileid: "77672807"
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
+## <a name="taiwan-region-and-market"></a>台湾地区和市场
 
 如果你的公司的位置是台湾，则可以在中国台湾向客户销售 CSP。
 

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 有关合作伙伴中心分析应用 Power BI 的一般概述和常见问题。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: fca6cf8688506179fe3db9ab414a034c7741fbe0
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004956"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390746"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>适用于 Power BI 的合作伙伴中心分析应用（面向云解决方案提供商中的直接合作伙伴）
 
@@ -46,15 +46,15 @@ ms.locfileid: "75004956"
 
 -   导出数据集和创建自定义报告（包括每个客户的报告）的能力
 
-## <a name="frequently-asked-questions"></a>常见问题解答
+## <a name="frequently-asked-questions"></a>常见问题
 
 建议在安装该应用前查看我们的常见问题解答。 
 
-| **问题** | **答案** |
+| **问** | **答案** |
 | --- | ---------- |
 | 此应用需要花费多少成本？ | 此应用本身是免费的。 要预览此应用，你可以[注册免费 Power BI 服务](https://go.microsoft.com/fwlink/p/?linkid=845347)并用它自定义仪表板和报告。 要允许贵公司的其他人员使用此应用，你需要 Microsoft Power BI 专业版或 Microsoft Power BI 高级版的活动订阅。 |
 | 谁可以连接到合作伙伴中心分析应用？ | 此版本的应用专为云解决方案提供商计划中的直接合作伙伴（第 1 层）设计。 如果你直接与 Microsoft 以及客户开展业务，你就是直接合作伙伴。 若要安装此应用，你必须是企业帐户的全局管理员、管理员代理或计费管理员。 |
-| 我是间接提供商，我可以使用该应用吗？ | 是 你的全局管理员、管理员代理或帐单管理员可以安装该应用并查看你的直接客户的相关数据。 将来的版本可能还会包含允许你查看你的间接经销商的相关数据的功能。 |
+| 我是间接提供商，我可以使用该应用吗？ | 可以。 你的全局管理员、管理员代理或帐单管理员可以安装该应用并查看你的直接客户的相关数据。 将来的版本可能还会包含允许你查看你的间接经销商的相关数据的功能。 |
 | 如何了解有关将来版本的信息？ | 可通过合作伙伴中心早期采用者计划获取公告和预览版本。 如果尚未参与该计划，请立即在[https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program)上注册它。 你还可以通过早期采用者计划共享你的反馈。 |
 | 什么人可以在应用中自定义仪表板和报告？ | 只有安装应用的全局管理员、管理员代理或帐单管理员可以在 Power BI Web 接口中自定义仪表板或创建新报告。 |
 | 什么人可以在应用中查看仪表板和报告？ | 安装了该应用程序的全局管理员、管理员代理或计费管理员可以与任何具有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的活动订阅的用户共享该应用的数据。 |

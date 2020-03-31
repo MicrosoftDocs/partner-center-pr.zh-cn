@@ -4,15 +4,15 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: 了解合作伙伴中心中每月和每年的计费周期之间的差异。
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722407"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390306"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>每月和每年计费差异
 
@@ -223,11 +223,11 @@ ms.locfileid: "74722407"
 
 有关激励的问题，请联系相应的区域奖励支持团队：
 
-| Region | Email address |
+| 区域 | 电子邮件地址 |
 | ------ | ------------- |
 | 北美 | <ocina@microsoft.com> |
 |拉丁美洲 & 巴西 | <ocilatam@microsoft.com> |
-| EMEA | <ociemea@microsoft.com> |
+| 欧洲、非洲和中东 | <ociemea@microsoft.com> |
 | APOAC （日本除外） | <ociapgc@microsoft.com> |
 | 日本 | <ocijp@microsoft.com> |
 

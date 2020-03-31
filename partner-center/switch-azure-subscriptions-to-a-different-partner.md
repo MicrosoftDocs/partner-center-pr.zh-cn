@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何与客户合作，以更改客户将用于 Azure 服务的云解决方案提供商计划中的哪个合作伙伴。
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943390"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390616"
 ---
 # <a name="transfer-azure-subscriptions"></a>转移 Azure 订阅 
 
 **适用于**
 
--  合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 全球云合作伙伴中心
 
 客户可以决定切换到某个云解决方案提供商合作伙伴或另一合作伙伴来提供其 Microsoft Azure 服务。 但是，这是一个手动过程，需要合作伙伴和客户双方进行操作。
 
@@ -48,7 +49,7 @@ ms.locfileid: "74943390"
 
 在步骤2中，选择 "**最小影响**"，并选择**其他一般问题**作为问题类型。
 
-下载[云解决方案提供商订阅转移表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
+下载[云解决方案提供商订阅传输表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
 
 3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
 
@@ -73,7 +74,7 @@ ms.locfileid: "74943390"
 
 5. 当前合作伙伴：
 
-确保该表单包含合作伙伴双方管理员的联系信息 - Microsoft 支持人员将联系双方管理员以验证该转移。 确保所有三个签名均已签署，然后使用**文件上载**选项将已完成的表单附加到现有的服务请求。 Microsoft 支持工程师将在 8 小时工作时间内给你回复以验证接收和完成操作。
+确保该表单包含合作伙伴双方管理员的联系人信息 - Microsoft 支持将联系双方管理员以验证该传输。 确保所有三个签名均已签署，然后使用**文件上载**选项将已完成的表单附加到现有的服务请求。 Microsoft 支持工程师将在 8 小时工作时间内给你回复以验证接收和完成操作。
 
 6. 新合作伙伴：
 

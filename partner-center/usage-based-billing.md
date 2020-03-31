@@ -3,16 +3,16 @@ title: 基于使用情况的计费 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 有关基于使用情况的计费的信息，请查看合作伙伴中心的每月使用费率。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 计费，基于使用情况，使用情况
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389735"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390496"
 ---
 # <a name="usage-based-billing"></a>基于使用情况的计费
 

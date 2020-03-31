@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 11/25/2019
 description: 使用月度帐单时，合作伙伴中心的常见方案（如添加新订阅、更改许可证数量和暂停订阅）。
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 计费、付款、订单、使用情况、每月计费、订阅和对帐文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a9163f7b787d76373a427b9e2d9f09b131227888
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722490"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390137"
 ---
 # <a name="monthly-billing-scenarios"></a>月度计费方案
 
@@ -53,7 +53,7 @@ ms.locfileid: "74722490"
 |费用开始日期 |费用结束日期 |费用类型 |单价 |数量 |金额 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 | 1/13/2018        |2/12/2018    |周期实例按比例计算   |-4.00       |1        |-4.00   |
-|1/13/2018         |1/31/2018    | 周期实例按比例计算   |2.45       |1        |2.45    |
+|1/13/2018         |2018/1/31    | 周期实例按比例计算   |2.45       |1        |2.45    |
 |2/1/2018         |2/12/2018    | 周期实例按比例计算   |1.55       |2        |3.10    |
 |2/13/2018         |3/12/2018    | 周期实例按比例计算   |4.00       |2        |8.00    |
 

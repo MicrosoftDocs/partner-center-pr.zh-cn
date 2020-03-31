@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 你可以为客户提供各种方法和技术支持类型的概述。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004816"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390716"
 ---
 # <a name="provide-technical-support"></a>提供技术支持
 

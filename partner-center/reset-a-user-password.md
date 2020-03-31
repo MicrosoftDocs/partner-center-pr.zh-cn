@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如果用户忘记了密码，你可以为他们分配一个新的临时密码。 他们可以在下次登录合作伙伴中心时使用它。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: a74f89b023f72c867667902d4765f22287bb1546
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c920757d8a2e7b6ff9bacbffb2e84cf0ce45b1c8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654100"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390666"
 ---
 # <a name="reset-a-user-password-or-update-your-own-password"></a>重置用户密码或更新自己的密码
 
@@ -34,11 +34,11 @@ ms.locfileid: "73654100"
 
 3.  请选择页面底部的**重置密码**。
 
-4.  你将看到一个确认屏幕，显示用于新登录信息的临时密码。 您必须复制此项并将其发送到新用户-离开屏幕后无法访问。 首次登录时，系统将提示用户更新密码。
+4.  你将看到一个确认屏幕，附带用于新登录的临时密码。 您必须复制此项并将其发送到新用户-离开屏幕后无法访问。 首次登录时，系统将提示用户更新密码。
 
 **重置你自己的密码**
 
-1.  登录合作伙伴中心。 然后在屏幕顶部选择你的姓名，再选择**我的简介**。
+1.  登录合作伙伴中心。 然后在屏幕顶部选择你的名字，再选择**我的个人资料**。
 
 2.  你可以看到你自己的角色，并且可以看到更改密码的说明。
 

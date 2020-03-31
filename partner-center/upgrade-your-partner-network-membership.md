@@ -5,16 +5,16 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 通过将你的 MPN 成员身份升级到 Microsoft Action Pack 订阅成员身份或 Microsoft 称职，来享有独有权益。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226143"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390506"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
