@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解合作伙伴中心的计费主题，其中包括有关计费资源、发票和云解决方案提供商计费的信息。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: high
-ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722171"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390276"
 ---
 # <a name="billing"></a>计费
 
@@ -27,11 +27,11 @@ ms.locfileid: "74722171"
 **相应的角色**
 
 - 管理员代理
-- 帐单管理员
+- 计费管理员
 - 全局管理员
 - 销售代理
 
-| 主题 | 描述 |
+| 主题 | 说明 |
 | ----- | ----------- |
 | [计费概述](billing-basics.md) | 合作伙伴中心计费的基础知识（包括付款、发票和对帐文件）。 |
 | [计费类型](billing-different-types.md) | 合作伙伴中心的不同类型计费的说明。 |

@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理公司的档案、目录、银行和税务信息、角色、权限等。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240176"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390796"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
@@ -63,7 +63,7 @@ ms.locfileid: "78240176"
 |Office 应用商店|开发人员|
 |Edge 扩展|开发人员|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>“合作伙伴设置”和“开发人员设置”选项的差异
+## <a name="the-differences-in-partner-and-developer-settings-options"></a>“合作伙伴”和“开发人员”设置选项的差异
 
  “合作伙伴设置”选项将不同于“开发人员设置”  选项。 请参阅下面每组选项的示例屏幕截图。 如果有权访问其他计划，则可能还会看到不同于此处显示的屏幕截图示例的选项。
 

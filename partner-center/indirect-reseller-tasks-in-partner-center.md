@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商计划中的间接经销商如何与可在客户支持和计费方面提供帮助的 Microsoft 间接提供商（或分销商）合作。
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, tier2, 第 2 层
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004796"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390916"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接提供商合作
 
@@ -63,7 +63,7 @@ ms.locfileid: "75004796"
  
 请注意，我们可能需要几天时间来审查并验证你所提供的信息。 完成审查后，我们将通过电子邮件通知你的主要联系人。
 
-### <a name="get-started"></a>立即开始行动
+### <a name="get-started"></a>入门
 
 1.  在[此处](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)开始执行注册过程。
 
