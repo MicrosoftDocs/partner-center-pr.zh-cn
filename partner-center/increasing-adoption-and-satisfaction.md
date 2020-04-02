@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用合作伙伴中心的指标来了解你的业务是否正在增长、客户使用其许可证的方式，以及在何处集中投资。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004776"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390936"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -57,7 +57,7 @@ ms.locfileid: "75004776"
 
 -   **使用率** = 活跃权利/权利总数
 
-    有时使用率会夸大或大于 100%。 多种原因可能导致此情况：
+    有时使用率会夸大或大于 100%。 这可能有以下几个原因：
 
     -   如果客户发生员工流动，并且许可证已转移到新用户。
 

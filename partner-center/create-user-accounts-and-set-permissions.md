@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心创建用户帐户，以及如何为每个需要访问权限的员工分配角色。 具有不同管理员权限的用户可以执行此操作。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 角色, 权限, 添加用户, 分配角色, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240204"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389646"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 
@@ -43,15 +43,24 @@ ms.locfileid: "78240204"
 > [!IMPORTANT]  
 > 记下此页面上显示的新用户的登录信息。 确保复制这些信息并将其发送给新用户，因为你以后无法再次访问该信息。 
 
+
 用户将需要使用其用户名和临时密码来登录合作伙伴中心。 当用户首次登录到合作伙伴中心时，系统会提示他们更改密码。 
 
-> [!NOTE]  
->  如果全局管理员已离职或充当了其他角色，而你需要添加新的全局管理员，则必须在 [MPN 门户](https://partner.microsoft.com/support)上登记服务请求。 如果支持代理能够提供必要的个人身份信息以及关于组织的其他信息，则该代理可以请求将某个用户提升为全局管理员。
 
 ### <a name="find-your-global-admin"></a>查找全局管理员
 
 有时，用户可能需要更改其角色，或者新用户可能需要特定的角色分配。  
 若要查找可以进行角色更改或将角色分配给新用户的全局管理员，请在合作伙伴中心右上角的“设置”图标中，选择“用户管理”并筛选全局管理员。   
+
+
+### <a name="new-global-admin"></a>新的全局管理员
+
+如果全局管理员离开组织，而其他人需要接替此角色，那么你可以向 Azure 或 Office 365 团队提交票证。 有关如何执行此操作的信息，请选择以下选项之一。
+
+[Azure 的新全局管理员](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[Office 365 的新全局管理员](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>分配用户角色
 
@@ -94,7 +103,6 @@ ms.locfileid: "78240204"
 1. 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”   。
 
 2. 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University  。
-
 
 
 
