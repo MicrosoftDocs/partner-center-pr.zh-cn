@@ -40,7 +40,6 @@
 ## [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
-## [确认客户接受 Microsoft 客户协议](confirm-consent.md)
 ## [确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)
 ### [何时代表客户证明已接受客户协议](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [恢复暂停的合作伙伴中心帐户](suspended-partner-center-account.md)
 ## [添加 Azure AD 应用程序](service-principal.md)
 ## [将 Microsoft Learn 帐户关联到合作伙伴中心](ms-learn-associate.md)
+
 # 管理合作伙伴中心帐户 - 用户
 ## [创建用户帐户](create-user-accounts-and-set-permissions.md)
 ## [为用户分配角色和权限](permissions-overview.md)
 ## [注册为控制面板供应商](enroll-as-cpv.md)
 ## [重置用户密码](reset-a-user-password.md)
 ## [重置我的密码](reset-my-pasword.md)
+## [如果无法登录到合作伙伴中心](unable-to-sign-in.md)
+
 # 管理合作伙伴中心帐户 - 业务
 ## [添加 Azure 合作伙伴共享服务](shared-services.md)
 ## [定价和套餐](pricing-and-offers.md)
