@@ -1,7 +1,7 @@
 ---
 title: 了解帐单 |合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: 发票是当前每月期间的所有合作伙伴中心费用的摘要（跨计划、产品和客户）。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634807"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676846"
 ---
 # <a name="understand-your-bill"></a>了解你的帐单
 
@@ -93,11 +93,11 @@ Microsoft 将为任何基于许可证的收费（例如 Office 365）和基于�
 
 **付款说明**：描述如何根据你所在的区域为发票付费。 付款时，请始终确保包含发票号。 
 
-有关发票文件中所有字段的详细说明（包括一次性费用的字段），请参阅 [发票文件字段](https://docs.microsoft.com/partner-center/invoice-file)。 
+有关发票文件中所有字段的详细说明（包括一次性费用的字段），请参阅 [发票文件字段](invoice-file.md)。 
 
 ## <a name="understand-reconciliation-file"></a>了解协调文件 
 
- 对帐文件提供了向下钻取/详细说明收费的详细信息，可与发票 PDF 一起下载。 对帐文件包括可用于创建客户发票的客户标识符和订阅标识符。 有关侦测文件的更多详细信息，请参阅 [如何使用对帐文件](https://docs.microsoft.com/partner-center/use-the-reconciliation-files)。 
+ 对帐文件提供了向下钻取/详细说明收费的详细信息，可与发票 PDF 一起下载。 对帐文件包括可用于创建客户发票的客户标识符和订阅标识符。 有关侦测文件的更多详细信息，请参阅 [如何使用对帐文件](use-the-reconciliation-files.md)。 
 
 
 

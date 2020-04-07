@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指示器 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/25/2020
+ms.date: 04/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 各种数据，展示你的公司使用 Dynamics 365 Customer Engagement 或 Dynamics 365 Finance and Operations 后的情况
@@ -11,16 +11,17 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 38afc73a347d2a356f4786abfe1f85bdb2289dd9
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296466"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676865"
 ---
 # <a name="partner-contribution-indicators"></a>合作伙伴贡献指示器
 
 合作伙伴贡献指标（PCI）提供对合作伙伴实现的影响，从而提供对合作伙伴的影响的整体衡量影响，并因此在合作伙伴和维护云 Business Applications 资格. 合作伙伴获得客户成功的关键衡量措施（例如成功的部署和日益增加的使用量）的信用额度，并赢得继续投资并扩大其技术能力。
+
 
 ## <a name="scoring"></a>评分
 
@@ -29,7 +30,7 @@ PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提�
 1. **净新收入**-所有 Microsoft Dynamics 365 产品销售渠道的新收入。
 2. **Net customer 增加**了在所有销售渠道中为 Dynamics 365 获取的网络客户。
 3. **功能顾问**–持有当前活动的功能顾问的个人数量将认证用于 Dynamics 365。 
-4. **功能顾问的增长**-功能顾问关联数的增长。 我们会重新评估时间，以便我们将基线快照用于此指标。 如前文所述，在2020年3月31日之前不会发生。 设置新日期后，我们将更新此文档，通过电子邮件通知你。
+4. **功能顾问的增长**-功能顾问关联数的增长。  现在，将在2020年10月1日拍摄 PCI 中功能顾问增长指标的基线快照。  
 5. **开发人员**-拥有当前活动的开发人员的个人数量将认证用于 Dynamics 365。
 6. **新的大型部署**—过去12个月内跨高使用量阈值的生产租户的数量。
 7. **每月活动用户的增长**—过去12个月内所有客户的每月活动用户数增长。
@@ -54,7 +55,8 @@ PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提�
 
 ![财务](images/pci/table_2.png)
 
-![注意事项](images/pci/table_3.png)
+![顾问](images/Table3.PNG) 
+
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI 指标的详细定义
 
@@ -62,7 +64,9 @@ PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提�
 
 ![net 添加](images/pci/netadds.png)
 
+
 ![功能顾问](images/pci/funcconsult.png)
+
 
 ![功能顾问增长](images/pci/4_Functional_consultant_growth.png)
 
@@ -74,7 +78,7 @@ PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提�
 
 ## <a name="customer-to-partner-association"></a>客户与合作伙伴之间的关联
 
-仅当你是云解决方案提供商（CSP）、声明合作伙伴（CPOR）时，才会获得新收入的信用额度、网络客户添加、新的大型部署和每月活动用户的增长或适用于属于客户租户的付费订阅的记录的数字合作伙伴（DPOR）。
+仅当你是云解决方案提供商（CSP）、销售记录的声明合作伙伴（CPOR），或属于客户租户的付费订阅的 "记录的数字伙伴" （DPOR）时，你才会获得净新收入、净客户添加、新的大型部署和每月活动用户增长的信用额度。
 
 如果合作伙伴通过 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）激励或 Dynamics 365 [online services 使用](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq)（OSU）激励，在订阅级别建立与客户的关联，就成为了 CPOR。
 
