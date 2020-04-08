@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
-ms.openlocfilehash: 73e8f592aa8232a87bb112913e20e958fb899927
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 51bfe2c132b4c5ba5d9b285164ee99a29cfcc22f
+ms.sourcegitcommit: 43569a21c4f5cb5405f2acea6ace69640a2eee5e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672847"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "80805971"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
@@ -168,7 +168,7 @@ ms.locfileid: "77672847"
 
 4. 使用此电子邮件模板邀请客户接受**经销商关系**请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
 
-![创建关系](images/mca/createrelationship.jpg)
+![创建关系](images/mca/createrelationship.png)
 
 5. 客户通过电子邮件接收邀请，并单击参数化 URL。 
 

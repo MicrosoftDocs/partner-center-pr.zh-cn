@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296423"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676789"
 ---
 # <a name="verify-your-partner-profile-information"></a>验证合作伙伴配置文件信息
 
@@ -36,7 +36,7 @@ ms.locfileid: "80296423"
 2. 选择法定地址旁边的“更新”。  ""
 
 >[!Important]
->如果你是云解决方案提供商，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)。
+>如果你是云解决方案提供商，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
 3. 选择“提交”后，我们会对你的法定身份重新进行评估。你会收到另一封电子邮件，并且需要接受它。 
 
