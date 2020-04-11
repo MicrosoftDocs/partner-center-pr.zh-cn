@@ -1,7 +1,7 @@
 ---
 title: Marketplace "独有" 产品/服务 |合作伙伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ISV 可以通过使其产品提供独家来选择要使用的 CSP 合作伙伴。
@@ -9,20 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004846"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123264"
 ---
 # <a name="marketplace-exclusive-offers"></a>Marketplace 专用产品/服务
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   销售代理
+-    全局管理员
+-    用户管理员
+-    管理员代理
+-    销售代理
 
 Isv 可以选择使其产品/服务可用于选择数量的 CSP 合作伙伴。 所有 CSP 合作伙伴仍将能够查看合作伙伴中心市场中的所有 ISV 产品/服务，但标记为 "独家" 的产品/服务将只能由 ISV 选择的合作伙伴购买。 如果产品/服务未表示为 "独占"，则所有合作伙伴都可以购买该产品/服务。
 
@@ -43,4 +43,4 @@ Isv 可以选择使其产品/服务可用于选择数量的 CSP 合作伙伴。 
 
 若要了解有关 Marketplace 中的 ISV 体验的详细信息，请参阅[云解决方案提供商](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)。
 
-有关 Marketplace 的详细信息，请阅读[云解决方案提供商的商业市场概述](https://docs.microsoft.partner-center/commercial-marketplace-overview.md)。
+有关 Marketplace 的详细信息，请阅读[云解决方案提供商的商业市场概述](csp-commercial-marketplace-overview.md)。

@@ -1,7 +1,7 @@
 ---
 title: 准备从合作伙伴管理员中心迁移到合作伙伴中心 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 合作伙伴管理员中心功能正在向合作伙伴中心迁移。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC，Office 365 Advisor，顾问，联合合作伙伴，PAC 停用，PAC 停用
 ms.localizationpriority: medium
-ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004886"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123304"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作伙伴管理中心正在转移到合作伙伴中心
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004886"
 -  合作伙伴中心
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   销售代理
+-    全局管理员
+-    用户管理员
+-    管理员代理
+-    销售代理
 
 > [!NOTE]  
 >  自首次发布本文以来，所有日期都已更新。
@@ -46,11 +46,9 @@ Office 365 合作伙伴管理中心（PAC）正在迁移到 Microsoft 合作伙�
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即开始使用 Microsoft 合作伙伴中心！
 
-立即开始使用[Microsoft 合作伙伴中心](https://partnercenter.microsoft.com/)来完成从 PAC 的迁移。  将为用于 PAC 的合作伙伴中心使用相同的凭据。 
+立即开始使用[Microsoft 合作伙伴中心](https://partnercenter.microsoft.com/)来完成从 PAC 的迁移。  将为用于 PAC 的合作伙伴中心使用相同的凭据。
 
 > [!IMPORTANT]  
 > 在 PAC 中提供的某些功能和功能将无法在合作伙伴中心获得。
 
- 阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。  在 [Microsoft 合作伙伴中心帮助](https://partnercenter.microsoft.com/partner/help)中，可找到有关帐户管理、客户管理、许可证和订阅、定价和产品/服务等的其他信息。
-
- 
+ 阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。  在 [Microsoft 合作伙伴中心帮助](https://docs.microsoft.com/partner-center/)中，可找到有关帐户管理、客户管理、许可证和订阅、定价和产品/服务等的其他信息。
