@@ -89,12 +89,9 @@
 ## [奖励申请](claims-overview.md)
 ### [创建和管理奖励申请](create-incentives-claims.md)
 ### [奖励申请的核心要求](core-requirements.md)
-
-
-### [了解你的支出信息](incentives-unified-user-guide.md)
-
 ### [访问奖励付款页](incentives-unified-user-guide.md)
-
+### [查看奖励付款和计划](understand-incentive-payouts.md)
+### [使用 CPOR 模型创建客户关联](submit-osa-claim.md)
 
 # [计费和税款](billing.md)
 ## [计费基础知识](billing-basics.md)
