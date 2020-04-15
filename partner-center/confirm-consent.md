@@ -1,7 +1,7 @@
 ---
 title: 确认客户接受 Microsoft 客户协议 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何确认客户接受 Microsoft 客户协议。 为客户订购 Microsoft 产品和服务时，可能需要这样做。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 同意, MCA, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
-ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340138"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123326"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
@@ -35,27 +35,25 @@ ms.locfileid: "78340138"
 >[!NOTE]
 >从 2020 年 1 月 31 日起，所有客户（无论是现有客户还是新客户）都必须签署新的 Microsoft 客户协议。 若要了解详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
 
-作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前确认该客户接受了 Microsoft 客户协议。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议： 
+作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前确认该客户接受了 Microsoft 客户协议。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议：
 
--   名字
+- 名字
 
--   姓氏
+- 姓氏
 
--   电子邮件地址
+- 电子邮件地址
 
--   电话号码（可选）
+- 电话号码（可选）
 
--   接受日期
-
-若要了解详细信息，请参阅 Microsoft 客户协议客户接受确认[常见问题解答](https://docs.microsoft.com/partner-center/confirm-consent-faq)。
+- 接受日期
 
 直接计费合作伙伴和间接提供商在通过合作伙伴中心或合作伙伴中心 API 进行交易时必须确认客户接受了 Microsoft 客户协议。 “确认”为必选项。 
 
 如果没有为给定客户提供确认：
 
--   你将无法为此客户创建新订单。
+-    你将无法为此客户创建新订单。
 
--   你将无法为此客户更改现有基于席位的订阅的席位计数。
+-    你将无法为此客户更改现有基于席位的订阅的席位计数。
 
 可以通过合作伙伴中心或合作伙伴中心 API 确认客户接受。 若要通过合作伙伴中心 API 执行此操作，请参阅以下主题： 
 
