@@ -1,7 +1,7 @@
 ---
 title: 从 PMC 迁移到合作伙伴中心 | 合作伙伴中心
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 PMC 和合作伙伴中心在续订、帐户结构、登录、用户角色和资格方面之间的差异和相似之处。
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340175"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123305"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心
 
 **相应的角色**
--   全局管理员
+-    全局管理员
 
 为了让你能够轻松地与我们开展业务，我们建立了一个网站（合作伙伴中心），方便大家参与。 你会发现，在 Partner Membership Center (PMC) 中做的事情都能够在合作伙伴中心的仪表板中完成。 
 
@@ -37,13 +37,13 @@ ms.locfileid: "78340175"
 
 |**PMC**   |**合作伙伴中心**|
 |----------------------|:-----------------------------|
-|总部和位置 - 每一项都单独进行评估。 能力在本地评估|全球性公司、合作伙伴全局帐户 (PGA)，包括位置在内，都进行总体评估；绩效和技能数据在 PGA 级别聚合；包含多个配置文件视图，适用于合作伙伴配置文件和业务配置文件（用于引荐和营销）之类的程序。有关详细信息，请阅读[合作伙伴中心的帐户结构](https://docs.microsoft.com/partner-center/account-structure.md)。|
+|总部和位置 - 每一项都单独进行评估。 能力在本地评估|全球性公司、合作伙伴全局帐户 (PGA)，包括位置在内，都进行总体评估；绩效和技能数据在 PGA 级别聚合；包含多个配置文件视图，适用于合作伙伴配置文件和业务配置文件（用于引荐和营销）之类的程序。有关详细信息，请阅读[合作伙伴中心的帐户结构](account-structure.md)。|
 
 ## <a name="sign-in"></a>登录
 
 |**PMC**   |**合作伙伴中心**|
 |----------------------|:-----------------------------|
-|可以使用 Microsoft 帐户 (MSA) 或个人帐户凭据 joe@outlook.com|必须使用工作帐户凭据 (joe@joescompany.com)。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md)。|
+|可以使用 Microsoft 帐户 (MSA) 或个人帐户凭据 joe@outlook.com|你必须使用你的工作帐户凭据 (joe@joescompany.com)。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。|
 
 ## <a name="user-roles"></a>用户角色
 
@@ -51,7 +51,7 @@ ms.locfileid: "78340175"
 |----------------------|:-----------------------------|
 |PMC 中的许多角色不在合作伙伴中心使用|负责迁移到合作伙伴中心的管理员会被系统自动分配 MPN 管理员、帐户管理员和引荐管理员角色。 该管理员随后可以为其他用户分配用户角色。|
 |用户在位置级别管理|用户在公司级别 (PGA) 而不是位置级别管理。 奖励计划管理员在位置级别工作，这是一个例外。|
-|   |合作伙伴中心有两大组的角色：管理 Azure AD 租户的角色，以及管理公司业务的角色。 请按对公司有利的方式组织角色。 可以让一个人做所有事情，也可以将不同的角色和权限分配给许多人。 有关详细信息，请阅读[为用户分配角色和权限](https://docs.microsoft.com/partner-center/permissions-overview)。 
+|   |合作伙伴中心有两大组的角色：管理 Azure AD 租户的角色，以及管理公司业务的角色。 请按对公司有利的方式组织角色。 可以让一个人做所有事情，也可以将不同的角色和权限分配给许多人。 有关详细信息，请阅读[为用户分配角色和权限](permissions-overview.md)。 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>能力和权益的具体说明
 
