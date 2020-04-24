@@ -80,10 +80,10 @@
 
 # [发展你的业务](grow-your-business.md)
 ## [引荐](referrals.md)
-### [创建业务资料](create-a-marketing-profile.md)
-### [回应引荐](responding-to-referrals.md)
+### [管理业务配置文件](create-a-marketing-profile.md)
+### [管理潜在客户](manage-leads.md)
+### [管理联合销售机会](manage-co-sell-opportunities.md)
 ### [注册交易](register-deals.md)
-### [与 Microsoft 联合销售](co-sell-with-microsoft.md)
 ### [获取引荐见解](referral-insights.md)
 ### [分析业务资料](analyze-your-marketing-profile.md)
 ## [奖励申请](claims-overview.md)
