@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 ms.localizationpriority: high
 ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80114919"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>云解决方案提供商计划 - 销售畅销的云解决方案 

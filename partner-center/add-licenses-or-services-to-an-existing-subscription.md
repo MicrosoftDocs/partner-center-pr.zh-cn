@@ -11,10 +11,10 @@ ms.author: jasonh
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: high
 ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80391016"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅

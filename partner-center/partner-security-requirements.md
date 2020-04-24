@@ -10,10 +10,10 @@ ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77672797"
 ---
 # <a name="partner-security-requirements"></a>合作伙伴安全要求

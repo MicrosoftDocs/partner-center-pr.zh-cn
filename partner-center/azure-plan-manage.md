@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74253281"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 计划中的订阅和资源

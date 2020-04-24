@@ -10,10 +10,10 @@ keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提�
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80136318"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态

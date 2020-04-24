@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 委派的管理员权限, 代表管理员, 删除权限, DAP, AOBO
 ms.localizationpriority: high
 ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "78340055"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴

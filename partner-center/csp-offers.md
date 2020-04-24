@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722541"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐

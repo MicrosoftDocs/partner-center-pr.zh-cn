@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004236"
 ---
 # <a name="partner-earned-credit---overview"></a>合作伙伴赚取的返点 - 概述
@@ -22,7 +22,7 @@ ms.locfileid: "75004236"
 -   全局管理员
 -   用户管理员
 -   管理员代理
--   帐单管理员
+-   计费管理员
 -   销售代理
 
 在 CSP 新商务体验中，合作伙伴赚取的返点是一种业务模型，它在 Microsoft 市场推广载体中实现简化的统一 Azure 定价，同时培育一个合作伙伴生态系统来提供增值托管服务。 合作伙伴赚取的返点还有助于消除任何利润竞争。 

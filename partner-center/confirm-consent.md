@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 客户, 同意, MCA, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
 ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "81123326"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议

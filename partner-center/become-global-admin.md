@@ -10,10 +10,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 keywords: 域, 域验证, 验证域, 全局管理员, 用户角色, 权限
 ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722433"
 ---
 # <a name="verify-your-domain-ownership"></a>验证域所有权

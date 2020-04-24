@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721704"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
@@ -25,7 +25,7 @@ ms.locfileid: "74721704"
 
 - 全局管理员
 
-## <a name="get-started"></a>立即开始行动
+## <a name="get-started"></a>入门
 
 对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想被迫管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
 

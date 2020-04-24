@@ -11,10 +11,10 @@ ms.author: jasonh
 Keywords: 角色, 权限, 添加用户, 分配角色, 管理员, 代理
 ms.localizationpriority: high
 ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389646"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限

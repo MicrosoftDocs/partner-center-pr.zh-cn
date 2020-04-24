@@ -10,10 +10,10 @@ ms.author: jenhayes
 keywords: 引荐, 分析, analytics, 指标, 转换
 ms.localizationpriority: high
 ms.openlocfilehash: fb1e93f830ea8ae8baaf4c75107511df88807f47
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "73654129"
 ---
 # <a name="get-referral-insights"></a>获取引荐见解

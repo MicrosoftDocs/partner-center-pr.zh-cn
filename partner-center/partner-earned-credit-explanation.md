@@ -11,10 +11,10 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "75004996"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
@@ -23,7 +23,7 @@ ms.locfileid: "75004996"
 -   全局管理员
 -   用户管理员
 -   管理员代理
--   帐单管理员
+-   计费管理员
 -   销售代理
 
 合作伙伴赚取的托管服务返点 (PEC) 是对合作伙伴为客户的部分或整个 Azure 环境提供全天候 IT 运营控制和管理所做努力给予的认可和奖励。 默认情况下，在云解决方案提供商中，合作伙伴对客户订阅拥有必要的访问权限，以便能够对订阅中的资源进行全天候的运营管理和控制。 下一部分将会介绍客户为交易合作伙伴预配访问权限的其他方法。 每月发票金额是合作伙伴赚取的返点净额。 合作伙伴可以在其每月对帐文件中查看 PEC 详细信息。 有关客户可为交易合作伙伴预配访问权限的其他方法，请参阅[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)。

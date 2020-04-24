@@ -10,10 +10,10 @@ ms.author: jasonh
 keywords: Microsoft 客户协议, 客户协议模板, CSP 客户协议, Microsoft 客户协议, MCA, CSP, 通过 CSP 可以在哪里进行销售, CSP 国家和地区, 多种语言的CSP MCA, CSP 北美洲, CSP 中美洲, CSP 南美洲, CSP 加勒比地区, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Germany, CSP 中东地区, CSP 非洲, CSP 欧洲, CSP 亚洲, CSP 太平洋地区, CSP MCA
 ms.localizationpriority: high
 ms.openlocfilehash: 501d6d933ba253e42875056e0e245b0af65138b3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80389626"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>按区域和语言划分的 Microsoft 客户协议
