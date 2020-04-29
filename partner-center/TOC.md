@@ -119,6 +119,7 @@
 ## [查看客户列表](see-your-customer-list.md)
 ## [查看客户活动日志](activity-logs.md)
 ## [更新客户帐户信息](update-customer-account-info.md)
+## [授予客户购买自己的服务的权限](give-customers-permission.md)
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
