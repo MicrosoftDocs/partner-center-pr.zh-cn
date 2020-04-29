@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529788"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462204"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>为合作伙伴租户强制执行多重身份验证 (MFA)
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529788"
 此功能的目的是帮助合作伙伴保护他们对客户资源的访问，防止凭据遭到泄露。
 合作伙伴需要为他们的合作伙伴租户中的所有用户帐户（包括来宾用户）强制执行多重身份验证 (MFA)，凭借此功能，将针对以下方面强制这些合作伙伴角色完成 MFA 验证：
 
-- [合作伙伴中心面板](#partner-center-dashboard)（目标定为 2020 年日历年第 2 季度）
-- [合作伙伴中心 API](#partner-center-api)（目标定为 2020 年日历年第 2 季度）
+- [合作伙伴中心面板](#partner-center-dashboard)（从 2020 年 5 月 1 日开始）
+- [合作伙伴中心 API](#partner-center-api)（从 2020 年 5 月 1 日开始）
 - [合作伙伴委派的管理](#partner-delegated-administration)
 
 提供更大力度的持续性安全和隐私保护是我们的首要任务，并且我们会继续帮助合作伙伴保护他们的客户和租户。 参与云解决方案提供商 (CSP) 计划的所有合作伙伴、控制面板供应商 (CPV) 和顾问应实施[合作伙伴安全要求](partner-security-requirements.md)以保持合规性。
 
 Microsoft 已经开始为合作伙伴租户激活额外的安全保护措施了。 激活保护措施这一行为通过强制执行多重身份验证 (MFA) 来阻止未经授权的访问，从而帮助合作伙伴保障其租户及其客户的安全。
 
-我们已成功完成了为所有合作伙伴租户的“合作伙伴委派的管理”功能激活保护措施。 为了进一步保护合作伙伴和客户，从 2020 年（日历年）第 2 季度开始，我们将开始针对 CSP 中的合作伙伴中心交易激活保护措施，帮助合作伙伴保护其业务和客户免受身份盗窃相关事件的影响。
+我们已成功完成了为所有合作伙伴租户的“合作伙伴委派的管理”功能激活保护措施。 为了进一步保护合作伙伴和客户，从 2020 年 5 月 1 日开始，我们将开始针对 CSP 中的合作伙伴中心交易激活保护措施，帮助合作伙伴保护其业务和客户免受身份盗窃相关事件的影响。
 
 本文档向合作伙伴提供了关于激活安全保护措施的详细体验和指南。
 

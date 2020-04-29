@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 企业档案, 营销档案
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722529"
 ---
 <!--
@@ -61,13 +61,13 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 针对你有权在其中开展业务的每个区域创建档案。 
 
-1. 从“合作伙伴中心”菜单中选择“引荐”&gt;“查看企业档案”&gt; 选择一个国家/地区 > “[创建企业档案](https://partnercenter.microsoft.com/pcv/publishing)”。    
+1. 从“合作伙伴中心”菜单中选择“引荐”&gt;“企业档案”&gt; 选择一个国家/地区 >“[创建企业档案](https://partnercenter.microsoft.com/pcv/publishing)”     。
 
 2. 在“创建企业档案”页上，选择一个地区，然后输入你的档案信息。 
    > [!NOTE]  
    >  虽然合作伙伴中心支持多种语言，但诸如描述和自由格式标记之类的某些元素可能需要包含不同语言的文本，如本主题中所述。
 
-### <a href="" id="partner_info"></a>合作伙伴信息
+### <a name="partner-information"></a><a href="" id="partner_info"></a>合作伙伴信息
 
 介绍你的公司、添加徽标和简要说明以及指向你的网站的链接。 
 
@@ -84,7 +84,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 -  **不要引用其他 Microsoft 合作伙伴公司的名称**，除非它是你的公司的子公司或以其他方式与你的公司有关联，或者你当前与该合作伙伴公司签署了针对共有工作机会以合作伙伴身份行动和/或互相推广的协议。
 -  **对于使用多种语言的区域**，请考虑在描述中包括多种语言的文本。
 
-#### <a href="" id="linkedin"></a>LinkedIn 公司页面：更多联系方法
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a>LinkedIn 公司页面：更多联系方法
 
 添加你的 LinkedIn 公司页面，以加强你与潜在客户之间的联系。 
 
@@ -107,7 +107,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 -  **资质标记**是用于展示公司能力的所获名称。
 -  **认可标记**可在 Microsoft 或与你合作的客户认可你的工作时获得。
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>让 Microsoft 认可我的专长领域
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>让 Microsoft 认可我的专长领域
 
 建议选择此设置。 
 
@@ -117,13 +117,13 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 ### <a name="customer-preferences"></a>客户首选项
 
-#### <a href="" id="#target_size"></a>目标大小
+#### <a name="target-size"></a><a href="" id="#target_size"></a>目标大小
 
 可以选择不使用不符合目标客户规模的企业引荐。
 
 选择不使用后，可将更多时间花在与你希望合作的企业规模相符的企业上。
 
-#### <a href="" id="#locations"></a>位置
+#### <a name="locations"></a><a href="" id="#locations"></a>位置
 
 每个区域，最多可以添加 5 个贵组织的顶层位置。 当客户按邻近程度搜索合作伙伴时，会显示这些位置。
 
