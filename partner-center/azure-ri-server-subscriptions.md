@@ -1,7 +1,7 @@
 ---
 title: Azure 保留和服务器订阅 |合作伙伴中心
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商的机会，以便为其客户获取、预配和管理 Azure 保留和服务器订阅。
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure，订阅，VM，预订，保留实例
 ms.localizationpriority: medium
-ms.openlocfilehash: d0a3fde651db86f8aeed160764fc330a25c0df04
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9b3d83a63e6c0a2fd72541f409ed22c598b1538e
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123276"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205735"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
 # <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure 虚拟机预留实例 (RI) + Azure 服务器订阅
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 
@@ -32,21 +32,23 @@ ms.locfileid: "81123276"
 - 销售代理
 - “用户管理”管理员
  
-## <a name="what-are-azure-reservations"></a>什么是 Azure 保留？
+## <a name="what-are-azure-reservations"></a>什么是 Azure 预留项？
 
-Azure 预订可帮助节省一年或三年的虚拟机、SQL 数据库计算能力、Azure Cosmos DB 吞吐量或其他 Azure 资源，从而节省资金。 通过预付，你可以享受所用资源的折扣优惠。 与即付即用定价相比，预订可以显著降低你在虚拟机、SQL 数据库计算、Azure Cosmos DB 以及其他资源上花费的成本，最高可达 72%。 预订提供计费折扣，不会影响资源的运行时状态。 有关详细信息，请参阅[什么是 Azure 保留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+Azure 预订可帮助节省一年或三年的虚拟机、SQL 数据库计算能力、Azure Cosmos DB 吞吐量或其他 Azure 资源，从而节省资金。 通过预付，能够以折扣价购买所用资源。 与即用即付价格相比，预订可显著减少虚拟机、SQL 数据库计算、Azure Cosmos DB 和其他资源成本，最高可达72%。 预订提供计费折扣，并且不会影响资源的运行时状态。 有关详细信息，请参阅[什么是 Azure 保留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>客户为何应购买预订？
 
-如果客户有一段时间运行的虚拟机、Azure Cosmos DB 或 SQL 数据库，则购买保留将为他们提供最经济实惠的选项。 例如，如果客户连续运行四个服务实例而没有保留，则按现用现付费率对它们收费。 如果他们购买了这些资源的预留，它们会立即获得预订折扣。 资源不再按现用现付费率收费。
+如果客户有一段时间运行的虚拟机、Azure Cosmos DB 或 SQL 数据库，则购买保留将为他们提供最经济实惠的选项。 例如，如果客户连续运行四个服务实例而没有保留，则按现用现付费率对它们收费。 如果他们购买了这些资源的预留，它们会立即获得预订折扣。 这些资源不再按即用即付费率收费。
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>云解决方案提供商计划中引人注目的新 Azure 产品/服务
 
-通过将 Azure 保留和服务器订阅引入其 CSP 计划，Microsoft 可让合作伙伴更好地满足快速增长的客户需求。 这包括提高客户对更具成本效益的解决方案的需求，以支持高度可预测、持久的云工作负荷。 通过 CSP 计划，合作伙伴可以代表商业客户获取、预配和管理 Azure 预订和服务器订阅。 合作伙伴可以通过 Microsoft 合作伙伴中心和 Azure 门户来执行这些任务。
+通过将 Azure 保留和服务器订阅引入其 CSP 计划，Microsoft 可以更好地满足快速增长的客户需求，以支持高度可预测、持久的云工作负荷。 通过 CSP 计划，合作伙伴可以通过 Microsoft 合作伙伴中心和 Azure 门户代表商业客户获取、预配和管理 Azure 预订和服务器订阅。
 
-Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决方案可能包括开发和测试、运行应用程序以及扩展数据中心。
+我们甚至会在 CSP 计划中为合作伙伴提供有关如何购买 Azure 预订的选项。 CSP 合作伙伴可以[代表客户购买 Azure 保留](azure-reservations-buying.md)，也可以允许客户从合作伙伴为其购买的以前的 azure 订阅[购买自己的预订](give-customers-permission.md)。
 
-例如，使用 Azure 保留 VM 实例，商业客户现在可以节省高达72% 与即用即付 Azure VM 定价，只需购买或 "预留"-虚拟机一年或三年即可实现。 具有软件保障附带 Azure 混合权益的 Windows Server 客户可节省高达80% 与即用即付定价。
+Azure 预订为客户提供了一系列计算解决方案的灵活性，包括开发和测试、运行应用程序以及扩展数据中心。
+
+例如，使用[Azure 保留 VM 实例](https://azure.microsoft.com/pricing/reserved-vm-instances/)，商业客户现在可以节省高达72% 与即用即付 Azure VM 定价，只需购买或 "预留"-虚拟机一年或三年即可实现。 与即付即用定价相比，具有 Azure 混合权益（软件保障所附带）的 Windows Server 客户最多可以节省 80% 的费用。
 
 由于有说服力的定价和无与伦比的部署灵活性，客户在选择 Azure 预留时将看到最佳的总体价值：
 
@@ -60,7 +62,7 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 - 应用服务
 - Azure Databricks 单位预订
 - 托管磁盘
-- Blockblob
+- 块 blob
 - MySQL
 - Azure 数据资源管理器
 - MariaDB
@@ -68,7 +70,7 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 
 #### <a name="server-subscriptions"></a>服务器订阅
 
-- Windows 服务器
+- Windows Server
 - 远程桌面服务（RDS） Cal
 - SQL Server
 
@@ -80,7 +82,7 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 
 #### <a name="isv-annual-subscriptions"></a>ISV 年度订阅
 
-- Azure VMware 解决方案（按 CloudSimple）
+- Azure VMware Solution by CloudSimple
 
 ## <a name="getting-started"></a>入门
 
@@ -98,10 +100,10 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 ### <a name="sales-readiness"></a>销售准备情况
 
 - [Azure 预订和服务器订阅与 Azure 混合权益概述](https://assetsprod.microsoft.com/Azure-reservations-and-server-subscriptions-with-azure-hybrid-benefit.pptx)
-- [销售表](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
+- [销售工作表](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Azure 预订的合作伙伴常见问题解答](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
-- [针对 Azure 预订和 SQL DB 的合作伙伴常见问题解答](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [远程桌面服务（RDS） Cal （公告）](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Azure 预订和 SQL 数据库的合作伙伴常见问题解答](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
+- [远程桌面服务（RDS）客户端访问许可证（CAL）（公告）](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Azure 保留 VM 实例（Azure 门户）](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [服务器订阅](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
 - [Azure 中的 SQL DB 概述](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
@@ -113,7 +115,7 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 - [Azure 上的 SUSE Linux](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Azure 上的 Linux](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Azure 定价概述](https://azure.microsoft.com/pricing/)
-- [Azure 定价计算器](https://azure.microsoft.com/pricing/calculator)
+- [Azure 价格计算器](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks 单位预订](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - CSP 价目表： " **Microsoft Azure 预订实例**" 和 "**软件订阅**价格列表" 均位于 "合作伙伴中心[定价 & 产品/服务](https://partner.microsoft.com/pcv/sales)" 页上。
 
@@ -134,9 +136,9 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 
 - [新式商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（已更新）：涵盖重要策略和操作方面的综合指南，其中包含协议、按合作伙伴中心、发票、价目表详细信息、奖励、协调文件、API/SDK、沙箱和 Azure 合作伙伴共享服务等。
 - [现代产品/服务国家/地区可用性和客户货币矩阵](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
-- [出售 Microsoft Azure 预订实例](https://go.microsoft.com/fwlink/?linkid=872806)
+- [销售 Microsoft Azure 预留实例](https://go.microsoft.com/fwlink/?linkid=872806)
 - [代表客户购买 Microsoft Azure 预订](https://go.microsoft.com/fwlink/?linkid=872807)
-- [代表你的客户管理 Azure 预订](https://go.microsoft.com/fwlink/?linkid=872808)
+- [代表客户管理 Azure 预订](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure 预订计费](azure-plan-billing.md)
 - [针对最大预订利用率确定虚拟机大小](https://go.microsoft.com/fwlink/?linkid=872810)
 - [合作伙伴中心 API （API/SDK）](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
@@ -148,4 +150,4 @@ Azure 预订为客户提供各种计算解决方案的灵活性。 此类解决�
 
 另请参阅 [Azure 混合权益常见问题解答](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
-\* 实际节省的费用可能因区域、实例类型或使用情况而异。
+* 实际节省的费用可能因区域、实例类型或使用情况而异。

@@ -1,7 +1,7 @@
 ---
 title: 代表客户管理 Azure 预订 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表客户管理 Azure 预订，包括如何取消预订、交换预订或请求退款。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure，预订，管理，计费，购买，取消，exchange，提前终止费
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: eedfe20cea239918e5ece6f10b2b5f5988da9c50
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 652eb468662892b3f2a98b636c4f8760fa3f021f
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722279"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205715"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表客户管理 Microsoft Azure 预订
 
@@ -31,7 +31,7 @@ ms.locfileid: "74722279"
 - 全局管理员
 - 支持人员代理
 - 销售代理
-- 用户管理管理员
+- “用户管理”管理员
 
 若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
 
@@ -41,7 +41,7 @@ ms.locfileid: "74722279"
 
 3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-    | **单击**   | **自**    |
+    | **选择**   | **自**    |
     |:-----------------------------|:-----------------|
     | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
     | **访问控制（IAM）**   | 管理对客户预订信息的访问。|
@@ -56,22 +56,22 @@ ms.locfileid: "74722279"
 在这两种情况下，Microsoft 将为你退款，这样你就可以通过客户管理生成的财务交易。 Microsoft 不会直接与客户联系，就计费、取消或退款。
 
 
-**取消如何工作**
+**如何取消**
 
 客户可随时请求取消保留（每年 $50000 的退款量）。 取消预订后，客户可以返回 Azure 预订的剩余月份数，以提前终止费。 剩余的按比例余额减去提前终止费，以使你的帐户获得退款。 
 
 请参阅下面的 "取消详细信息和费用"。
 
 
-|**取消日期**<br> 天数   |**使用情况**    |**信用卡**  |**提前终止**<br> 费用    |**退款 cap** | 
+|**取消日期**<br> 天数   |**使用情况**    |**额度**  |**提前终止**<br> 费用    |**退款 cap** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5个或更少                         | 无          | 100%       | 无                              | $50000 USD   |
-|5个或更少                         | “是”         | 按比例  | 无                              | $50000 USD   |
-|超过5个                        | 无          | 按比例  | 10                             | $50000 USD   |
-|超过5个                        | “是”         | 按比例  | 10                             | $50000 USD   |
+|5个或更少                         | 否          | 100%       | 否                              | $50000 USD   |
+|5个或更少                         | 是         | 按比例  | 否                              | $50000 USD   |
+|超过5个                        | 否          | 按比例  | 12%                             | $50000 USD   |
+|超过5个                        | 是         | 按比例  | 12%                             | $50000 USD   |
 
 
-**交换的工作方式** 
+**如何兑换** 
 
 如果客户想要购买不同于他们最初购买的预订，则他们可以请求交换。 交换预订可能是取消预订的极具吸引力的替代方法，因为它允许客户使用按比例支付的退款量来支付新预订的价格。 
 
@@ -93,19 +93,20 @@ ms.locfileid: "74722279"
 
 4. 在**新建支持请求**页上，请按照以下步骤来请求退款。 执行每个步骤后选择**下一步**。 
 
-    |**分步**                    |**日历**    |
+    |**步骤**                    |**选择**    |
     |:---------------------------|:-----------------|
-    |**1基础知识**                |问题类型：计费。  |
-    |**2问题**               |问题类型：预订管理。 类别：兑换和退款。 |
-    |**3联系信息**   |选择首选项并输入所需的信息。 
+    |**1 基础知识**                |问题类型：计费。  |
+    |**2 问题**               |问题类型：预订管理。 类别：兑换和退款。 |
+    |**3 联系人信息**   |选择首选项并输入所需的信息。 
 
-5.  完成后选择**创建**。
+5.  完成后，选择“创建”****。
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**有关**   |**阅读此文**    |
+|**有关以下方面的信息**   |**阅读此文**    |
 |:-----------------------------|:-----------------|
-|云解决方案提供商计划中的 Azure 预订概述  | [出售 Microsoft Azure 预订实例](azure-reservations.md) |
-|在合作伙伴中心为客户购买 Azure 保留   |[购买 Azure 预订](azure-reservations-buying.md) |
-|确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[最大 Azure 预订使用情况的 VM 大小调整](azure-usage.md)   |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
+|云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
+|在合作伙伴中心为客户购买 Azure 保留   | [购买 Azure 预订](azure-reservations-buying.md) |
+|确定正确的虚拟机大小，然后确认客户虚拟机使用情况   | [针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|为客户提供从为他们购买的订阅购买自己的 Azure 预订的权限。 | [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)   |
 

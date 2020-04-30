@@ -1,7 +1,7 @@
 ---
 title: 客户帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 在合作伙伴中心查找适用于经销商合作伙伴的资源。 这包括在销售订阅、帐单或产品/服务支持之前需要创建客户帐户。
@@ -9,12 +9,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721385"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205765"
 ---
 # <a name="customer-accounts"></a>客户帐户
 
@@ -38,4 +38,5 @@ ms.locfileid: "74721385"
 |-----------------|:----------------------------|:--------------|
 |获取新客户|间接经销商可联系将你引荐给客户的[间接提供商](indirect-reseller-tasks-in-partner-center.md)。 你也应该确保你的[业务配置文件](create-a-marketing-profile.md)是最新的业务配置文件。 当你和客户同意[合作](responding-to-referrals.md)时，请将其[添加](add-a-new-customer.md)到你的帐户。 直接合作伙伴应该阅读[请求与客户建立关系](request-a-relationship-with-a-customer.md)。|云解决方案提供商合作伙伴|
 |向你的帐户添加现有客户   | 在其他门户（如 Office 365）上处理的客户将显示在合作伙伴中心的 "[客户" 列表](see-your-customer-list.md)中。 你将需要与其他现有客户[建立经销商关系](indirect-reseller-tasks-in-partner-center.md)。 为此，请通过电子邮件向他们发送[邀请，邀请](responding-to-referrals.md)你在合作伙伴中心联系。   | 云解决方案提供商合作伙伴   |
-|管理你的所有客户信息   | 添加或删除客户或[结束客户关系](remove-a-relationship.md)|   云解决方案提供商合作伙伴 |
+|结束或恢复客户关系   | 添加或删除客户或[结束客户关系](remove-a-relationship.md)。  |   云解决方案提供商合作伙伴 |
+|允许客户购买自己的服务   | [向客户提供购买其自己的产品或服务的权限](give-customers-permission.md)，例如，从你为他们购买的以前的订阅购买自己的 Azure 保留项。  | 云解决方案提供商合作伙伴 |

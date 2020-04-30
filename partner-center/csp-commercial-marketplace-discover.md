@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: 订阅，marketplace，商业市场，第三方，ISV，SaaS 产品/服务，云解决方案提供商计划，CSP 计划，CSP 合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114939"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873187"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>在商业应用商店中发现产品/服务和定价
 
@@ -78,9 +78,9 @@ CSP 计划合作伙伴还可以使用 Api 返回符合条件的产品列表。 �
 
 1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，然后从左侧导航菜单中选择 " **CSP** "。
 
-2. 选择 "**销售**"，再选择 " **Marketplace**"。 将出现 Marketplace 产品/服务的列表。
+2. 选择 "**销售**"，然后选择 "**定价" 和 "产品/服务**"。
 
-3. 向下滚动到 " **Marketplace** " 部分（低于**Azure 计划定价**），然后选择右上角的 "**导出价目表**"。 这会生成一个电子表格，其中包含 ISV 发布者提供的 SaaS 和基于许可证的产品/服务的最新定价数据。 此处还可能会显示一些 Azure 应用程序定价。 此信息每日更新，因此，你可以在选择时查看其最新价格。
+3. 向下滚动到 " **marketplace** " 部分，选择一个位置并下载**Marketplace 定价**。 这会生成一个电子表格，其中包含 ISV 发布者提供的 SaaS 和基于许可证的产品/服务的最新定价数据。 此处还可能会显示一些 Azure 应用程序定价。 此信息每日更新，因此，你可以在选择时查看其最新价格。
 
 4. 如果 ISV 产品包含免费试用期，则电子表格将为该产品显示两行：
 

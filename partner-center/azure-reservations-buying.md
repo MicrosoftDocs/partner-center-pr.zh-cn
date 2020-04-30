@@ -1,7 +1,7 @@
 ---
 title: 代表客户购买 Microsoft Azure 预订 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 7fc71e05afe9f8926c0b09df9055dc263b89055b
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722009"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205665"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订 
 
@@ -31,13 +31,13 @@ ms.locfileid: "74722009"
 - 全局管理员
 - 支持人员代理
 - 销售代理
-- 用户管理管理员
+- “用户管理”管理员
 
 ## <a name="before-you-begin"></a>开始之前
 
-请先查看下面的重要信息，再代表客户购买 Azure 预订。
+请先查看下面的重要信息，再代表客户购买 Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅 [授予客户购买其自己的 Azure 预订的权限] [授予客户-权限. md # 向客户授予-自行-Azure 保留]。）
 
-- 如果客户签署新的 Microsoft 客户协议，[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)，则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅[购买 Azure 计划](purchase-azure-plan.md)。
+- 如果客户签署新的 Microsoft 客户协议（请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)），则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅[购买 Azure 计划](purchase-azure-plan.md)。
 
 - 客户必须已经拥有有效的 Azure 订阅，然后你才能代表他们购买预订
   
@@ -47,50 +47,50 @@ ms.locfileid: "74722009"
 
 - 销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
 
-- 如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则 "记录" （间接经销商）的合作伙伴将从你选择的 Azure CSP 订阅继承。
+- 如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则会从你选择的 Azure CSP 订阅继承记录合作伙伴（间接经销商）。
 
-- 无法在购买后更改 Azure 预订的记录合作伙伴。 你可以通过新记录合作伙伴取消现有预订并购买新预订。
+- 无法在购买后更改 Azure 预订的记录合作伙伴。 您可以取消现有预订，并使用新的记录合作伙伴购买新预订。
 
 - 如果客户需要将 Azure 订阅从直接方式或 EA 转移至云解决方案提供商计划，预订不会转移。
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure 预订不可用市场
+## <a name="azure-reservations-unavailable-markets"></a>Azure 预留不可用市场
 
 >[!IMPORTANT] 
->Azure 保留项在以下市场*中不可用*：  
+>Azure 预留在以下市场中不可用：   
 >  
 > | 不可用市场 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | 奥兰群岛     | 格陵兰     | 巴布亚新几内亚     |
+> | 奥兰岛     | 格陵兰     | 巴布亚新几内亚     |
 > | 美属萨摩亚     | 格林纳达     | 皮特凯恩群岛     |
 > | 安道尔     | 瓜德罗普岛     | 留尼汪     |
-> | 安圭拉岛     | 关岛     | 萨巴岛   |
+> | 安圭拉岛     | 关岛     | 萨巴   |
 > | 南极洲     | 格恩西岛     | 圣巴泰勒米岛   |
 > | 安提瓜和巴布达       | 几内亚     | 圣卢西亚   |
 > | 阿鲁巴岛       | 几内亚比绍     | 法属圣马丁   |
 > | 阿塞拜疆       | 圭亚那     | 圣皮埃尔和密克隆岛   |
 > | 贝宁     | 海地       | 圣文森特和格林纳丁斯     |
 > | 不丹     | 赫德岛和麦克唐纳群岛       | 萨摩亚     |
-> | 博内尔岛     | 曼岛     | 圣马力诺     |
-> | 布韦岛     | 扬马延     | 圣多美和普林西比   |
+> | 博内尔     | 曼岛     | 圣马力诺     |
+> | 布韦岛     | 扬马延岛     | 圣多美和普林西比   |
 > | 英属印度洋领地       | 泽西     | 塞舌尔   |
 > | 英属维尔京群岛     | 基里巴斯       | 塞拉利昂   |
 > | 布基纳法索     | 科索沃     | 圣尤斯特歇斯     |
 > | 布隆迪     | 老挝     | 荷属圣马丁     |
 > | 柬埔寨     | 莱索托     | 所罗门群岛     |
 > | 中非共和国     | 利比里亚     | 索马里     |
-> | 乍得     | 马达加斯加     | 南乔治亚和南桑威奇群岛     |
+> | 乍得     | 马达加斯加     | 南乔治亚岛和南桑威奇群岛     |
 > | 中国     | 马拉维     | 南苏丹     |
-> | 圣延岛     | 马尔代夫     | 圣赫勒拿、阿森松与特里斯坦达库尼亚     |
-> | 科科斯（基林）群岛     | 马里     | 苏里南     |
-> | 科摩罗     | 马绍尔群岛     | 群岛     |
-> | 刚果（布）     | 马提尼克     | 斯威士兰     |
+> | 圣延岛     | 马尔代夫     | 圣赫勒拿-阿森松-特里斯坦达库尼亚     |
+> | 科科斯群岛     | 马里     | 苏里南     |
+> | 科摩罗     | 马绍尔群岛     | 斯瓦尔巴岛     |
+> | 刚果     | 马提尼克     | 斯威士兰     |
 > | 刚果（民主共和国）     | 毛里塔尼亚     | 东帝汶   |
 > | 库克群岛     | 马约特     | 多哥   |
 > | 吉布提     | 密克罗尼西亚     | 托克劳   |
-> | 多米尼克     | 蒙特塞拉特     | 汤加   |
+> | 多米尼加     | 蒙特塞拉特     | 汤加   |
 > | 赤道几内亚     | 莫桑比克     | 特克斯和凯科斯群岛   |
-> | 厄立特里亚国     | 缅甸语     | 图瓦卢   |
-> | 福克兰群岛     | 瑙鲁     | 美属外岛   |
+> | 厄立特里亚     | 缅甸     | 图瓦卢   |
+> | 福克兰群岛     | 瑙鲁     | 美国本土外小岛屿   |
 > | 法属圭亚那     | 新喀里多尼亚     | 瓦努阿图   |
 > | 法属玻里尼西亚     | 尼日尔     | 梵蒂冈   |
 > | 法属南部领地     | 纽埃     | 瓦利斯和富图纳   |
@@ -98,21 +98,21 @@ ms.locfileid: "74722009"
 > | 冈比亚     | 北马里亚纳群岛     |    |
 > | 直布罗陀     | 帕劳       |    |
 
-## <a name="purchase-azure-reservations"></a>购买 Azure 预订
+## <a name="purchase-azure-reservations"></a>购买 Azure 预留项
 
-按照以下步骤在合作伙伴中心购买 Microsoft Azure 预订。
+按照以下步骤在合作伙伴中心购买 Microsoft Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)。）
 
 1. 从 "合作伙伴中心" 菜单中选择 "**客户**"。  
 
 2. 在 "**客户**" 页上，找到想要购买 Azure 预订的客户，然后选择向下箭头以展开客户的行。  
 
-3. 依次选择“添加产品”、“Azure”。 
+3. 依次选择“添加产品”、“Azure”。   
 
-    a. 从“细分市场”列表中选择该客户的细分市场。
+    a. 从“细分市场”列表中选择该客户的细分市场。 
 
     b. 从 "产品**类型**" 列表中选择 "**保留**"。
 
-    c. 从“预留项类型”列表中选择客户所需的预留项类型。
+    c. 从“预留项类型”列表中选择客户所需的预留项类型。 
 
 4. Azure 预订必须与有效的 Azure 订阅相关联。 从 "**客户订阅**" 列表中选择要向其添加 Azure 预订的客户的订阅。 
 
@@ -123,7 +123,7 @@ ms.locfileid: "74722009"
 
 6. 找到要购买的预订后，输入客户将在 "**数量**" 中所需的保留实例数，然后选择 "**添加到购物车**"。  
 
-7. 重复步骤5和步骤6，直到将所有必需的项添加到订单中。 选择“查看”以确认订单是否正确无误。  
+7. 重复步骤5和步骤6，直到将所有必需的项添加到订单中。 选择“查看”以确认订单是否正确无误。   
 
 8. 在**查看订单**页面上，可以： 
 
@@ -142,20 +142,15 @@ ms.locfileid: "74722009"
     - 如果 Azure 保留项支持计费计划选项，则可以从下拉菜单中选择 "按月计费频率"。 
     - 如果你的 Azure 保留不支持计费计划选项，则计费频率默认为一次性计费。 
 
-9. 选择**确认购买**以购买订购的商品。 订单的详细信息（包括订单号）将显示在 "**确认**" 页上。 选择“完成”转到“订单历史记录”页。 
+9. 选择**确认购买**以购买订购的商品。 订单的详细信息（包括订单号）将显示在 "**确认**" 页上。 选择“完成”转到“订单历史记录”页。   
 
 10. 若要在 Azure 门户中管理客户的预订，请在 "**客户**" 页上找到 "客户"，然后选择向下箭头以展开客户的行。 选择 " **Microsoft Azure 管理门户**" 以打开 Azure 门户中的客户记录。
 
 ## <a name="azure-reservations-resources"></a>Azure 预订资源
-|**有关**   |**阅读此文**    |
+|**有关以下方面的信息**   |**阅读此文**    |
 |:-----------------------------|:-----------------|
-|云解决方案提供商计划中的 Azure 预订概述  | [出售 Microsoft Azure 预订实例](azure-reservations.md) |
+|云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
 |管理合作伙伴中心的 Azure 保留 | [管理合作伙伴中心的 Azure 保留](azure-reservations-manage.md)
-|确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[最大 Azure 预订使用情况的 VM 大小调整](azure-usage.md)   |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
-|
-
- 
-
-
- 
+|确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|授予客户购买自己的 Azure 预订的权限  | [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)  |

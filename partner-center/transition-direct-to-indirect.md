@@ -1,7 +1,7 @@
 ---
 title: 从云解决方案提供商（CSP）直接帐单合作伙伴转换为 CSP 间接经销商 |合作伙伴中心
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何从直接帐单合作伙伴转换为间接经销商
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，过渡，间接经销商
-ms.openlocfilehash: 44823f35d498b8c3d90fcc335682d453f53af977
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112499"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205685"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商
 
@@ -39,15 +39,15 @@ ms.locfileid: "80112499"
 
     ![立即注册](images/direct/direct2a.png)
 
-4. 选择 "立即注册"。 你的间接经销商企业将使用用于你的直接业务的同一 AAD 租户。
+4. 选择“立即注册”  。 你的间接经销商企业将使用用于你的直接业务的同一 AAD 租户。
 
     > [!NOTE]
-    > 用户应该注意的信息即使是 skimmingInitially，这种新的转换功能也适用于9月到12月的合作伙伴。 如果你在9月到12月之间没有周年纪念日期，此时你将看不到此功能。 如果为合作伙伴启用了该功能，则将在以后收到包含周年纪念2018的合作伙伴。
+    > 最初，这一新的转换功能将在9月1日至12月1日的合作伙伴提供。 如果你在9月到12月之间没有周年纪念日期，此时你将看不到此功能。 如果为合作伙伴启用了该功能，则将在以后收到包含周年纪念2018的合作伙伴。
 
 5. 批准注册后，再次登录到合作伙伴中心。
 
     > [!NOTE]
-    > 用户应该注意的信息即使 skimmingWhile 批准通常是即时的，最长可能需要5个工作日。 批准后，你将收到一个通知，告知你已在 "注册" 表单中的 "主要联系人" 下指定的电子邮件地址。 你还可以在 "**设置**" 下查看你的注册状态 > 合作伙伴**设置** > **合作伙伴配置文件**> 程序信息。
+    > 尽管批准通常是即时的，但最多可能需要五个工作日内。 批准后，你将收到一个通知，告知你已在 "注册" 表单中的 "主要联系人" 下指定的电子邮件地址。 你还可以在 "**设置** > " "**合作伙伴设置** > " "**合作伙伴配置文件**> 程序信息" 下检查你的注册状态。
 
 6. 在 "**概述**" 页上，你将看到间接经销商协议。 选择**接受并继续操作**。 这可实现间接经销商功能。
 
@@ -56,7 +56,7 @@ ms.locfileid: "80112499"
 ![间接分销商协议](images/direct/direct3.png)
 
 > [!IMPORTANT]
-> 使用新功能注册为间接经销商的用户 successOnce 所需的基本信息，不能选择回滚到直接计费的租户。 注册为间接经销商之前，请确保完全评估你的业务需求。
+> 使用新功能将注册为间接经销商后，就不会将任何选项回滚到仅限帐单的租户。 注册为间接经销商之前，请确保完全评估你的业务需求。
 
 ## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>从直接过渡到间接经销商时
 
@@ -64,7 +64,7 @@ ms.locfileid: "80112499"
 
 ![你是直接帐单和间接经销商](images/direct/direct4.png)
 
-## <a name="find-an-indirect-provider"></a>查找间接提供商
+## <a name="find-an-indirect-provider"></a>查找间接提供程序
 
 注册后，指向间接提供程序的链接将显示在左侧导航栏中。 作为间接经销商，您将建立与间接提供商的关系，然后可以处理您的帐单、为客户购买产品并支持基础结构。
 
@@ -92,11 +92,11 @@ ms.locfileid: "80112499"
 
 1. 从合作伙伴中心左侧导航栏中选择 "**间接提供程序**"。 
 
-2. 选择“邀请新客户”以邀请客户同时与你和间接提供商建立经销商关系。 提供商需要与客户建立分销商关系，因此，当客户想要购买新订阅或向现有订阅添加新许可证时，他们可以代表客户提交订单。
+2. 选择“邀请新客户”  以邀请客户同时与你和间接提供商建立经销商关系。 提供商需要与客户建立分销商关系，因此，当客户想要购买新订阅或向现有订阅添加新许可证时，他们可以代表客户提交订单。
 
 3. 在下一页上，查看草稿电子邮件。 可以通过电子邮件打开草稿邮件，也可以将邮件复制到剪贴板，然后将其粘贴到电子邮件中。
 
-4. 编辑电子邮件中的文本以说明所需内容，但请确保在个性化的同时将该链接连接到帐户和提供商的帐户。 然后选择 "**完成**"。
+4. 编辑电子邮件中的文本以说明所需内容，但请确保在个性化的同时将该链接连接到帐户和提供商的帐户。 然后选择“完成”****。
 
 5. 客户准许你和你的提供商成为其备案经销商后，你将拥有管理员权限，可以代表他们管理其订阅、许可证和用户，并且你的间接提供商将能够代表他们提交订单。
 6. 若要管理客户的帐户、服务、用户和许可证，请选择客户名称旁边的向下箭头，展开客户的记录。 
@@ -113,7 +113,7 @@ ms.locfileid: "80112499"
 **直接向客户收费（你不会以间接经销商身份执行的操作）**
 
 - 为产品创建订单
-- 管理 Azure 预订
+- 管理 Azure 预留项
 - 管理其订单历史记录
 - 购买软件
 - 直接向客户收费
@@ -164,7 +164,7 @@ ms.locfileid: "80112499"
 - 建立分销商关系后，间接提供商将在[M365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/partners)和[Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)中的 "合作伙伴关系" 页下显示为客户的 CSP 合作伙伴。
 
     > [!IMPORTANT]
-    > 若要避免混淆和误解，你的合作伙伴协议会合同形式不必，以便在使用关系扩展功能建立现有客户之间的分销商关系之前通知并获得直接帐单客户的同意直接计费客户和间接提供商。
+    > 若要避免混淆和误解，你的合作伙伴协议会合同形式不必，以便在使用关系扩展功能建立现有直销客户和间接提供商之间的分销商关系之前通知并获得直接帐单客户的同意。
 
 在现有客户租户上使用此功能：
 
@@ -178,7 +178,7 @@ ms.locfileid: "80112499"
 
 4. 在弹出对话框中，选择要与客户建立分销商关系的**间接提供商**。
 
-5. 单击 "**保存并继续**"。
+5. 单击“保存并继续”  。
 
 6. 验证所选的间接提供程序是否以**间接提供程序**显示。
 
@@ -190,13 +190,13 @@ ms.locfileid: "80112499"
 
 1. 从合作伙伴中心左侧导航栏中选择 "**间接提供程序**"。
 
-2. 选择“邀请新客户”以邀请客户同时与你和间接提供商建立经销商关系。 提供商需要与客户建立分销商关系，因此，当客户想要购买新订阅或向现有订阅添加新许可证时，他们可以代表客户提交订单。
+2. 选择“邀请新客户”  以邀请客户同时与你和间接提供商建立经销商关系。 提供商需要与客户建立分销商关系，因此，当客户想要购买新订阅或向现有订阅添加新许可证时，他们可以代表客户提交订单。
 
     ![邀请新客户](images/direct/direct6.png)
 
 3. 在下一页上，查看草稿电子邮件。 可以通过电子邮件打开草稿邮件，也可以将邮件复制到剪贴板，然后将其粘贴到电子邮件中。
 
-4. 编辑电子邮件中的文本以说明所需内容，但请确保在个性化的同时将该链接连接到帐户和提供商的帐户。 然后选择 "**完成**"。
+4. 编辑电子邮件中的文本以说明所需内容，但请确保在个性化的同时将该链接连接到帐户和提供商的帐户。 然后选择“完成”****。
 
 5. 客户准许你和你的提供商成为其备案经销商后，你将拥有管理员权限，可以代表他们管理其订阅、许可证和用户，并且你的间接提供商将能够代表他们提交订单。
 
@@ -232,7 +232,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 - 客户已[通过间接提供商接受了 Microsoft 客户协议](#microsoft-customer-agreement-acceptance)。
 
-### <a name="how-to"></a>操作方法
+### <a name="how-to-transition-to-indirect-reseller-status"></a>如何过渡到间接经销商状态
 
 此功能是一个4步骤过程，其中：
 
@@ -244,7 +244,24 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 - 过渡伙伴将验证传输请求是否已完成。
 
+
+
+
+### <a name="transitioning-partner---create-transfer-request"></a>正在转换合作伙伴-创建传输请求
+
+> [!NOTE]
+> 你还可以使用[合作伙伴中心 API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers)将现有订阅传输到间接提供程序。
+>
+> - [获取客户的订阅转让资格](https://docs.microsoft.com/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [创建客户的转让](https://docs.microsoft.com/partner-center/develop/create-a-transfer)
+> - [撤消客户的转让](https://docs.microsoft.com/partner-center/develop/withdraw-a-transfer)
+> - [接受客户的转让](https://docs.microsoft.com/partner-center/develop/accept-a-transfer)
+> - [拒绝客户的转移](https://docs.microsoft.com/partner-center/develop/reject-a-transfer)
+> - [获取客户的转让](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [按 id 获取传输详细信息](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
+
 **正在转换合作伙伴-创建传输请求**
+
 
 创建传输请求作为过渡伙伴：
 
@@ -266,7 +283,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
     ![创建传输请求](images/direct/direct9.png)
 
-8. 单击“创建”。
+8. 单击“创建”。 
 
 9. "**订阅传输**" 下将显示一个有效的订阅传输请求。
 
@@ -274,7 +291,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 10. 向间接提供商通知你已创建了订阅传输请求。
 
-**间接提供程序-接受传输请求**
+### <a name="indirect-provider---accept-transfer-request"></a>间接提供程序-接受传输请求
 
 查看并接受作为间接提供程序的传输请求：
 
@@ -298,13 +315,13 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 8. 等待传输请求完成。
 
-**间接提供程序验证传输请求已完成**
+### <a name="indirect-provider-verify-transfer-request-is-complete"></a>间接提供程序验证传输请求已完成
 
 1. 成功完成传输请求后，验证是否可以看到订阅显示在 "**订阅**" 下。
 
 2. 通知转换合作伙伴。
 
-**过渡伙伴-验证传输请求已完成** 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>过渡伙伴-验证传输请求已完成 
 
 过渡伙伴应执行以下操作：
 
@@ -348,6 +365,6 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 ## <a name="see-also"></a>另请参阅
 
-- [有关成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [云解决方案提供商计划直接合作伙伴新要求](direct-partner-new-requirements.md)
 - [受限的直接计费功能](restricted-direct-bill-capabilities.md)
