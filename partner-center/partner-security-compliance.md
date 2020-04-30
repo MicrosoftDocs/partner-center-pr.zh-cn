@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80136318"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120388"
 ---
 # <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
 
@@ -34,7 +34,7 @@ ms.locfileid: "80136318"
 
 从 2019 年 8 月 1 日开始，所有合作伙伴都必须对其合作伙伴租户中的所有用户（包括服务帐户）强制实施多重身份验证。 有关新安全策略的详细信息，请阅读[合作伙伴安全要求](partner-security-requirements.md)。
 
-我们需要确保每位用户在每次身份验证时都回应 MFA 质询。 可以通过下述方式之一来实现这一点：
+我们需要确保每位用户在每次身份验证时都回应 MFA 质询。 可以通过下述方式之一来完成此体验：
 
 - 实施 Azure AD Premium，确保对每位用户强制实施 MFA
 - 实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
@@ -55,7 +55,7 @@ ms.locfileid: "80136318"
 
 此指标与每日捕获并报告的云解决方案提供商租户上的 MFA 配置相关。 它使用这些 [MFA 选项](https://aka.ms/partner-mfa-get-started)中的任意一个来度量强制实施了 MFA 的已启用用户帐户的百分比。 例如：
 
-- Contoso 是一个云解决方案提供商合作伙伴，其租户中有 110 个用户帐户，这些帐户中有 10 个处于禁用状态。 
+- Contoso 是一个云解决方案提供商合作伙伴，其租户中有 110 个用户帐户，这些用户帐户中有 10 个处于禁用状态。 
 - 在剩余的 100 个用户帐户中，有 90 个已使用提供的 [MFA 选项](https://aka.ms/partner-mfa-get-started)强制实施了 MFA。 因此，该指标显示 90%。 
 
 ### <a name="partner-center-activities-with-mfa"></a>在实施了 MFA 的情况下进行的合作伙伴中心活动
@@ -70,8 +70,10 @@ ms.locfileid: "80136318"
 - 在第一天，Jane 在未完成 MFA 验证的情况下登录到了合作伙伴中心仪表板，并执行了 3 项操作。
 - 在第二天，John 在未完成 MFA 验证的情况下登录到了合作伙伴中心仪表板，并执行了 5 项操作。
 - 在第三天，Jane 在完成 MFA 验证的情况下登录到了合作伙伴中心仪表板，并执行了 2 项操作。
-- 在剩余的 4 天，这两名代理未执行任何操作。
+- 在剩余的 4 天里，这两名代理未执行任何操作。
 - 在 7 天内共执行了 10 项操作，其中，有 2 项操作是用户在已完成 MFA 验证的情况下执行的。 因此，指标显示 20%。
+
+使用“没有 MFA 的门户请求”  文件来了解哪些用户未进行 MFA 验证便已登录到合作伙伴中心仪表板，及其在报告时段内进行最后一次访问的时间。
 
 #### <a name="appuser-authentication"></a>应用+用户身份验证
 
@@ -80,9 +82,14 @@ ms.locfileid: "80136318"
 - Fabrikam 是一家 CSP 合作伙伴，它的某个 CSP 应用程序混合使用了应用+用户身份验证和仅限应用的身份验证方法。
 - 第一天，该应用程序发出了 3 个 API 请求，这些请求是在未完成 MFA 验证的情况下，通过应用+用户身份验证方法获取的访问令牌提供支持的。
 - 第二天，该应用程序发出了 5 个 API 请求，这些请求是由使用仅限应用的身份验证获取的访问令牌提供支持的。
-- 第三天，该应用程序发出了 2 个 API 请求，这些请求是在已完成 MFA 验证的情况下，使用应用+用户身份验证方法获取的访问令牌提供支持的。
+- 第三天，该应用程序发出了 2 个 API 请求，这些请求是由将“应用+用户”身份验证方法与 MFA 验证配合使用来获取的访问令牌提供支持的。
 - 在剩余的 4 天里，这两名代理未执行任何操作。
-- 指标中会忽略第二天发出的，由通过仅限应用的身份验证获取的访问令牌提供支持的 5 个 API 请求，因为该身份验证方法未使用用户凭据。 在剩余的 5 个操作中，有 2 个操作是在已完成 MFA 验证的情况下通过获取的访问令牌提供支持的。 因此，指标显示 40%。
+- 指标中会忽略第二天发出的 5 个 API 请求（由通过仅限应用的身份验证获取的访问令牌提供支持），因为该身份验证方法未使用用户凭据。 在剩余的 5 个操作中，有 2 个操作是在已完成 MFA 验证的情况下通过获取的访问令牌提供支持的。 因此，指标显示 40%。
+
+如果要了解哪些应用和用户活动导致此指标为非 100%，请使用文件：
+
+-  “API 请求摘要”来了解应用程序的总体 MFA 状态。
+-  “所有 API 请求”来了解租户的用户发出的每个 API 请求的详细信息，结果限制为最多 10000 个最新请求，以获得更好的下载体验。
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>如果 MFA 报告中的指标不是 100% 该怎么办
 
@@ -97,7 +104,7 @@ ms.locfileid: "80136318"
 
 ### <a name="have-you-only-recently-completed-mfa-implementation"></a>是否只是最近才完成了 MFA 的实施？
 
-指标是每日计算的，考虑过去 7 天内执行的操作。 如果你只是最近才对合作伙伴租户完成了 MFA 的实施，指标可能不是 100%。
+指标是每日计算的，并会计及过去 7 天内执行的操作。 如果你只是最近才对合作伙伴租户完成了 MFA 的实施，指标可能不是 100%。
 
 ### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>是否从 MFA 实施方案中排除了一些用户帐户？
 
@@ -110,13 +117,13 @@ ms.locfileid: "80136318"
 >[!NOTE]
 >对于已使用 Azure AD 安全性默认设置实施了 MFA 的合作伙伴，请务必注意，对于非管理员用户帐户，会根据风险强制实施多重身份验证。 仅当用户尝试进行有风险的登录（例如，从不同的位置登录）时，系统才会提示他们完成 MFA。 此外，用户有长达 14 天的时间来注册 MFA。 在这 14 天内，未完成 MFA 注册的用户不会受到 MFA 验证的质询。 因此，对于已使用 Azure AD 安全性默认设置实施了 MFA 的合作伙伴，指标可能不是 100%，这在预料之中。
 
-### <a name="are-you-using-3rd-party-mfa-solution"></a>是否在使用第三方 MFA 解决方案？
+### <a name="are-you-using-third-party-mfa-solution"></a>是否使用第三方 MFA 解决方案？
 
 如果使用第三方 MFA 解决方案，请确定如何将它与 Azure AD 集成。 一般情况下，有两种方法：联合与自定义控制：
 
-* **标识联合** - 当 Azure AD 收到身份验证请求时，Azure AD 会将用户重定向到联合的标识提供者进行身份验证。 身份验证成功后，联合的标识提供者会将用户重定向回到 Azure AD，并提供一个 SAML 令牌。 为使 Azure AD 能够识别到该用户在对联合的标识提供者进行身份验证时已完成 MFA 验证，该 SAML 令牌必须包含 *authenticationmethodsreferences*  声明（值为 *multipleauthn*）。 检查联合的标识提供者是否支持发出此类声明。 如果是，请检查联合的标识提供者是否已配置为提供此项支持。 如果缺少声明，Azure AD（因而也包括合作伙伴中心）将不知道用户已完成 MFA 验证，这可能会导致指标不是 100%。
+* **标识联合** - 当 Azure AD 收到身份验证请求时，Azure AD 会将用户重定向到联合的标识提供者进行身份验证。 身份验证成功后，联合的标识提供者会将用户重定向回到 Azure AD，并提供一个 SAML 令牌。 为使 Azure AD 能够识别到该用户在对联合的标识提供者进行身份验证时已完成 MFA 验证，该 SAML 令牌必须包含 *authenticationmethodsreferences*  声明（值为 *multipleauthn*）。 检查联合的标识提供者是否支持发出此类声明。 如果是，请检查联合的标识提供者是否已配置为提供此项支持。 如果缺少声明，Azure AD（因而也还有合作伙伴中心）将不知道用户已完成 MFA 验证，并且缺少声明可能会导致该指标无法达到 100%。
 
-* **自定义控制** - 无法使用 Azure AD 自定义控制来确定用户是否已通过第三方 MFA 解决方案完成了 MFA 验证。 因此，对于 Azure AD（因而也包括合作伙伴中心）而言，通过自定义控制完成 MFA 验证的任何用户始终看上去并未完成 MFA 验证。 如果可能，我们建议在与 Azure AD 集成时改用标识联合，而不要使用自定义控制。
+* **自定义控制** - Azure AD 自定义控制不能用来确定用户是否已通过第三方 MFA 解决方案完成了 MFA 验证。 因此，对于 Azure AD（因而也包括合作伙伴中心）而言，通过自定义控制完成 MFA 验证的任何用户始终看上去并未完成 MFA 验证。 如果可能，我们建议在与 Azure AD 集成时改用标识联合，而不要使用自定义控制。
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>确定哪些用户在未完成 MFA 的情况下登录到了合作伙伴中心
 

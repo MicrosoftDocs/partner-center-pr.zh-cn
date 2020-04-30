@@ -1,7 +1,7 @@
 ---
 title: 银级和金级会员的 Microsoft 资质要求 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解获取金级和银级会员所要达到的资质要求。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226213"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120378"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>有关 Microsoft 银级和金级会员资质与高级专业的信息
 
@@ -31,6 +31,16 @@ ms.locfileid: "80226213"
 - 作为金级合作伙伴会员，还可以将高级专业技术添加到产品组合中。
 
 获得银级会员或金级会员资质还可解锁强大的[市场推广](mpn-learn-about-go-to-market-benefits.md)套餐和计划，可助你拓展和发展业务   。
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>获得能力时查看状态
+
+可以从合作伙伴中心仪表板的能力领域中查看要求以及你的公司已获得哪些能力。
+
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
+
+2. 在合作伙伴中心菜单上的 MPN 部分下，选择“能力”  。 
+
+3. 选择能力名称和特定能力选项以查看详细信息。 可以看到已完成的内容，还可以看到特定考试的完整要求和链接，以及已停用的考试验证日期。
 
 ## <a name="competency-areas"></a>资质领域
 

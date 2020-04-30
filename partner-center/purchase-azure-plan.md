@@ -1,7 +1,7 @@
 ---
 title: 购买 Azure 计划 | 合作伙伴中心
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在 Azure 计划下购买单个或多个 Azure 订阅和 Azure 预订，以便配置资源以及查看或添加订阅。
@@ -9,19 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004936"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205745"
 ---
 # <a name="purchase-the-azure-plan"></a>购买 Azure 计划
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   销售代理
+-    全局管理员
+-    用户管理员
+-    销售代理
 
 根据 Microsoft 客户协议为客户购买 Azure 计划时，可以访问采用即用即付费率的最新 Azure 服务的完整目录。 CSP 合作伙伴现在可以访问正式发布的 Azure 服务。 合作伙伴可以在一个 Azure 计划中包含多个 Azure 订阅。 
 
@@ -58,9 +58,9 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>在 Azure 计划中购买 Azure 预留项 
   
-也可以在合作伙伴中心代表客户在 Azure 计划中购买 Microsoft Azure 预留项。
+也可以在合作伙伴中心代表客户在 Azure 计划中购买 Microsoft Azure 预留项。 （或者，如果愿意，可以[为客户授予权限，使其可从以前你为其购买的订阅中购买自己的 Azure 预留项](give-customers-permission.md)。）
 
-1. 在[仪表板](https://partner.microsoft.com/dashboard/)上的“合作伙伴中心”菜单中，选择“客户”  。 找到想要购买 Azure 预留项的客户，然后选择向下箭头展开该客户对应的行。 
+1. 在[仪表板](https://partner.microsoft.com/dashboard/)上的“合作伙伴中心”菜单中，选择“客户”  。 找到想要购买 Azure 预留项的客户，然后选择向下箭头展开该客户对应的行。
 
 2. 依次选择“添加产品”、“Azure”。   
 - 从“细分市场”列表中选择该客户的细分市场。  
@@ -74,7 +74,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 
 请注意，预留范围目前只能设置为“共享”。  
 
-![共享范围](images/azure/addprods1.png)
+![共享范围预留设置](images/azure/addprods1.png)
 
 若要在 Azure 门户中管理客户的预留项： 
 
@@ -86,7 +86,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 
 在“订阅”页中基于用量的部分，展开“Azure 计划”查看 Azure 计划中关联的 Azure 订阅。  
 
-![视图列表](images/azure/addprods2.png) 
+![查看 Azure 订阅列表](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>添加订阅并配置资源

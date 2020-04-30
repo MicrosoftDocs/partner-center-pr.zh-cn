@@ -1,23 +1,23 @@
 ---
-title: 云解决方案提供商计划直接合作伙伴新要求 | 合作伙伴中心
+title: 对云解决方案提供商直接计费合作伙伴的要求
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 如果你是 CSP 计划中的直接合作伙伴，你可以了解更新的支持和服务要求，以及如何满足这些要求。
+Description: 了解如何满足最新的支持和服务要求，以便成为 Microsoft 云解决方案提供商 (CSP) 计划中的直接计费合作伙伴。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 直接合作伙伴, 直接计费, 要求
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOAPR.20
+ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340094"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205755"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>云解决方案提供商计划直接计费合作伙伴新要求
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
 **适用于**
 
@@ -25,7 +25,7 @@ ms.locfileid: "78340094"
 
 ## <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
 
-作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2018 年 8 月 31 起，我们已更新直接计费合作伙伴的注册要求。 这些新要求将帮助你利用合适的云解决方案提供商注册模式加速业务发展，并利用增值服务和支持增强客户关系。
+作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2018 年 8 月 31 起，我们已更新直接计费合作伙伴的注册要求。 这些新要求将帮助你通过适当的云解决方案提供商注册模型加快业务增长。 它们还将帮助你通过增值服务和支持来增强你的客户关系。
 
 ### <a name="minimum-requirements"></a>最低要求
 
@@ -43,7 +43,7 @@ ms.locfileid: "78340094"
 
 我们将使用你对表单中问题的回答，来帮助确定你是否有资格以直接计费合作伙伴的身份注册 CSP 计划。
 
-在我们确认贵公司满足以直接计费合作伙伴身份注册的资格要求后，你即已完成注册申请，接下来，我们将审查并验证你在注册过程中提供的企业信息。 在审查过程中，我们将检查贵公司的信用。 如果贵公司通过了信用检查，我们将通过电子邮件告诉你。
+在我们确认贵公司已满足以直接计费合作伙伴身份注册的资格要求，并且你已完成注册申请后，我们将审查并验证你在注册过程中提供的企业信息。 在审查过程中，我们将检查贵公司的信用。 如果贵公司通过了信用检查，我们将通过电子邮件告诉你。
 
 >[!IMPORTANT]
 >完成公司信用检查可能需要几天或更长时间。 在此期间，请务必不要购买 Microsoft 支持计划。 仅当我们通知你已通过信用检查后，才购买 Microsoft 支持计划。
