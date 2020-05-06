@@ -7,20 +7,20 @@ ms.subservice: partnercenter-csp
 description: 了解联机事务中涉及的各种风险以及管理和缓解这些风险的最佳实践，这一点很重要。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390806"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798795"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>管理合作伙伴中心的非支付、欺诈或误用
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
@@ -29,7 +29,7 @@ ms.locfileid: "80390806"
 -   全局管理员
 -   用户管理员
 -   管理员代理
--   帐单管理员
+-   计费管理员
 
 你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此，*我们强烈建议您设置防欺诈防护和检测风险缓解*措施。
 

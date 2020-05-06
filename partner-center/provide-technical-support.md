@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 你可以为客户提供各种方法和技术支持类型的概述。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: de7207464b5960d04df50dce1b4e938bc2ad86e0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390716"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798715"
 ---
 # <a name="provide-technical-support"></a>提供技术支持
 
@@ -36,10 +36,10 @@ ms.locfileid: "80390716"
 -   查看客户服务运行状况
 -   查看客户服务事件
 
-**为客户执行管理任务**
+**为你的客户执行管理员任务**
 
 1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 在列表中选择你的客户。
-2.  在“客户”菜单中，选择**服务管理**。
+2.  在 customer 菜单中，选择 "**服务管理**"。
 3.  在**管理服务**部分中，选择需要使用的服务以便为该服务打开管理门户。
 4.  如果发现客户帐户（如服务已关闭或性能下降）有问题，则应该首先检查服务运行状况。 请参阅[检查服务运行状况](check-service-health.md)。
 5.  若要向 Microsoft 反映一直存在的问题，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
@@ -63,11 +63,11 @@ ms.locfileid: "80390716"
 
 对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参考以下文档。
 
--   [通过 CSP 销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [通过 CSP 销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [通过云解决方案提供商销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [通过 CSP 销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [通过云解决方案提供商销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 
 

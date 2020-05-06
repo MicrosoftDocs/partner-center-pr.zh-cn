@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为云解决方案提供商计划中的 Microsoft 合作伙伴，你可以以促销定价购买订阅并将优惠传递给你的客户。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390736"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798735"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促销吸引新客户  
 
@@ -22,7 +22,7 @@ ms.locfileid: "80390736"
 **相应的角色**
 -   管理员代理
 -   MPN 合作伙伴管理员
--   帐单管理员
+-   计费管理员
 -   销售代理
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
@@ -52,7 +52,7 @@ Microsoft 提供以下两种类型的促销：适用于云解决方案提供商 
 
 1. 在 "**合作伙伴中心**" 菜单上，选择 "**客户**"，然后选择购买订阅的客户。 
 
-2. 选择“添加订阅”。
+2. 选择“添加订阅”****。
 
 3. 在**新订阅**页面上，选择促销适用的订阅。
 

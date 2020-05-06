@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 美国政府 Microsoft 云合作伙伴中心是想要为与美国政府机构开展合作的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴的业务门户。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390756"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798745"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 合作伙伴中心
 
@@ -26,7 +26,7 @@ ms.locfileid: "80390756"
 -   用户管理员
 -   管理员代理
 -   销售代理
--   帐单管理员
+-   计费管理员
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求 
 
@@ -45,7 +45,7 @@ ms.locfileid: "80390756"
 > [!NOTE]  
 > 在本文发表时，美国政府 Microsoft 云合作伙伴中心尚未提供下列合作伙伴中心功能（自发表以来，一些功能可能已添加到合作伙伴中心，此列表可能已过时）：
 
-- 查找合作伙伴
+- 寻找合作伙伴
 - 业务配置文件
 - 引荐
 - 请求与客户建立经销商关系（多渠道，多合作伙伴）

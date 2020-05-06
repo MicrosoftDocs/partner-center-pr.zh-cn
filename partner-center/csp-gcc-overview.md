@@ -5,16 +5,16 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解将订阅的步骤和要求出售给合格的美国政府客户或承包商的 Office 365 政府版 GCC for CSP。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389566"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798495"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 

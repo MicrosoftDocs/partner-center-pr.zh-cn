@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 有关合作伙伴中心分析应用 Power BI 的一般概述和常见问题。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2ac56f7bdb13ceb9c27d514fa3ca8733591cd0d4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 6f69015639bd928b03ea08d7eee848c3a6a90669
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123292"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797605"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>适用于 Power BI 的合作伙伴中心分析应用（面向云解决方案提供商中的直接合作伙伴）
 
@@ -46,11 +46,11 @@ ms.locfileid: "81123292"
 
 -    导出数据集和创建自定义报告（包括每个客户的报告）的能力
 
-## <a name="frequently-asked-questions"></a>常见问题
+## <a name="frequently-asked-questions"></a>常见问题解答
 
 建议在安装该应用前查看我们的常见问题解答。 
 
-| **问** | **答案** |
+| **问题** | **Answer** |
 | --- | ---------- |
 | 此应用需要花费多少成本？ | 此应用本身是免费的。 要预览此应用，你可以[注册免费 Power BI 服务](https://go.microsoft.com/fwlink/p/?linkid=845347)并用它自定义仪表板和报告。 要允许贵公司的其他人员使用此应用，你需要 Microsoft Power BI 专业版或 Microsoft Power BI 高级版的活动订阅。 |
 | 谁可以连接到合作伙伴中心分析应用？ | 此版本的应用专为云解决方案提供商计划中的直接合作伙伴（第 1 层）设计。 如果你直接与 Microsoft 以及客户开展业务，你就是直接合作伙伴。 若要安装此应用，你必须是企业帐户的全局管理员、管理员代理或计费管理员。 |
@@ -59,7 +59,7 @@ ms.locfileid: "81123292"
 | 什么人可以在应用中自定义仪表板和报告？ | 只有安装应用的全局管理员、管理员代理或帐单管理员可以在 Power BI Web 接口中自定义仪表板或创建新报告。 |
 | 什么人可以在应用中查看仪表板和报告？ | 安装了该应用程序的全局管理员、管理员代理或计费管理员可以与任何具有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的活动订阅的用户共享该应用的数据。 |
 | 可以用该应用跨位置查看多个 Azure AD 租户的数据吗？ | 使用此版本只能查看你的全局管理员或管理员代理所登录的 Azure AD 租户的数据。 | 
-| 何时该应用将提供其他语言版本？ | 我们通过合作伙伴中心早期采用者计划发布了路线图公告。 如果尚未参与该计划，请立即在[https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program)上注册它。 你还可以通过早期采用者计划共享你的反馈。 | 
+| 何时该应用将提供其他语言版本？ | 我们通过合作伙伴中心早期采用者计划发布了路线图公告。 如果尚未参与该计划，请立即在上[https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program)注册。 你还可以通过早期采用者计划共享你的反馈。 | 
 
 
 
@@ -67,4 +67,4 @@ ms.locfileid: "81123292"
 
 [安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners-install.md)
 
-[查看适用于 Microsoft Power BI 的合作伙伴中心分析应用的业务数据](power-bi-app-for-direct-partners-use.md)
+[使用适用于 Microsoft Power BI 的合作伙伴中心分析应用查看你的业务数据](power-bi-app-for-direct-partners-use.md)

@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 你与你的客户之间存在计费关系，并且完全支持任何来自客户的计费相关问题。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390726"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798725"
 ---
 # <a name="provide-billing-support"></a>提供计费支持
 
@@ -27,7 +27,7 @@ ms.locfileid: "80390726"
 -   全局管理员
 -   用户管理员
 -   支持人员代理
--   帐单管理员
+-   计费管理员
 -   销售代理
 
 你与你的客户之间存在计费关系，你负责回答客户的计费相关问题。
@@ -57,10 +57,10 @@ ms.locfileid: "80390726"
 
 对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参考以下文档。
 
--   [通过 CSP 销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [通过 CSP 销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [通过云解决方案提供商销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [通过 CSP 销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [通过云解决方案提供商销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

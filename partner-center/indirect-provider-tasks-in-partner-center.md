@@ -5,15 +5,15 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为间接提供商或分销商，了解如何通过与间接经销商合作来进行扩展。 这包括你可以在合作伙伴中心执行的任务。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 013af8b54ad9cbebac89fe1e1b2d8c6537074a53
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390926"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798905"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -38,7 +38,7 @@ ms.locfileid: "80390926"
 
 有关作为间接经销商参与 CSP 计划的要求的信息，请参阅[Microsoft 合作伙伴网络网站](https://partner.microsoft.com)上的[间接经销商入门](https://partner.microsoft.com/membership/cloud-solution-provider/)。 
 
-## <a name="indirect-provider-tasks-in-the-partner-center"></a>合作伙伴中心的间接提供程序任务
+## <a name="indirect-provider-tasks-in-the-partner-center"></a>合作伙伴中心的间接提供商任务
 
 完成以下步骤以与间接经销商和客户建立关系并对关系进行管理。 以下更详细地描述了第 2 步和第 3 步。
 
@@ -72,7 +72,7 @@ ms.locfileid: "80390926"
 
 2. 在**间接经销商**页面上，选择**请求建立合作关系**。 此时将显示草稿电子邮件。
 
-3. 选择**在电子邮件中打开**以在默认的电子邮件应用程序中打开该邮件，或者选择**复制到剪贴板**以复制邮件然后将其粘贴到电子邮件中。 完成后选择**完成**。
+3. 选择**在电子邮件中打开**以在默认的电子邮件应用程序中打开该邮件，或者选择**复制到剪贴板**以复制邮件然后将其粘贴到电子邮件中。 完成后，选择“完成”****。
     > [!IMPORTANT]  
     >  你可以编辑电子邮件中的文本，但请确保包含该链接，因为它已针对你的合作伙伴中心帐户进行个性化。
 
@@ -150,7 +150,7 @@ ms.locfileid: "80390926"
 2.    查找想要为其分配新客户的间接经销商，然后选择**添加新客户**。 请注意，已在客户详细信息表单上为你选择了间接经销商。 提供客户的详细信息，然后选择 "**下一步：订阅**"。 
 3.    在**新订阅**页面上，选择客户想要购买的订阅，然后输入客户需要的许可证数。 
 
-4.    选择**下一步: 审查**。
+4.    在完成时选择“下一步:  查看”。
 
 5.    如果订单正确，请选择**提交**。 如果订单不正确，请选择**取消**以取消整个操作并重新开始。
 
@@ -158,7 +158,7 @@ ms.locfileid: "80390926"
     > [!IMPORTANT]  
     > 请确保记下 "用户帐户名" 和 "密码"，因为关闭此页后将无法再次访问此信息。
 
-7.  选择**完成**。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
+7.  选择“完成”  。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>将新订阅添加到客户帐户
 

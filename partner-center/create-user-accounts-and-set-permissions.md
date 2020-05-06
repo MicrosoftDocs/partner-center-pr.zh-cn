@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心创建用户帐户，以及如何为每个需要访问权限的员工分配角色。 具有不同管理员权限的用户可以执行此操作。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: 角色, 权限, 添加用户, 分配角色, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: f163e37f537f537b6eae086e355c87d892d1a745
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389646"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798485"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>创建用户帐户并分配权限
 

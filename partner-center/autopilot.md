@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在将设备交付给客户之前，了解如何使用 Autopilot 配置文件自定义或预先配置新设备的全新体验。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: autopilot，windows autopilot，microsoft autopilot，零接触部署，oobe，登录屏幕，现成
 ms.localizationpriority: medium
-ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fed49f9fd06be8765e3435862e3bee48b717ce7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390996"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798605"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>为使用 Windows Autopilot 配置文件的设备自定义全新体验
 
@@ -27,7 +27,7 @@ ms.locfileid: "80390996"
 - 管理员代理
 - 全局管理员
 - 销售代理
-- 用户管理管理员
+- “用户管理”管理员
 
 如果你管理客户设备，你可能需要为客户的用户自定义全新体验（OOBE）。 在将设备交付给客户并将新的配置文件应用于客户已购买的设备之前，可以使用 Windows Autopilot 配置文件预先配置新设备。 
 
@@ -195,4 +195,4 @@ Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 
 Windows Autopilot 允许你在为客户管理的设备上配置 Windows 的自定义安装。 如果客户有权执行此操作，则可以禁止或隐藏在设置 Windows 时通常向用户显示的某些安装屏幕，包括 EULA （最终用户许可协议）接受屏幕。
 
-通过使用此功能，即表示你同意禁止或隐藏旨在向用户提供通知或接受条款的任何屏幕，这意味着你已获得足够的许可和授权，可供你的客户隐藏条款，并代表你的客户（无论是组织还是单个用户作为案例），同意通知并接受适用于你的客户的任何条款。 这包括你同意在不使用此工具禁止显示或隐藏时将向用户呈现的许可证的条款和条件或通知。 如果你的客户尚未从 Microsoft 或其许可的分销商处获取有效的软件许可，则该客户不得在这些设备上使用该 Windows 软件。
+通过使用此函数，你同意禁止或隐藏旨在向用户提供通知或接受条款的任何屏幕，这意味着你已获得了对你的客户的充分同意和授权，以隐藏条款，并且你代表你的客户（无论是组织还是单个用户作为案例），同意通知并接受适用于你的客户的任何条款。 这包括你同意在不使用此工具禁止显示或隐藏时将向用户呈现的许可证的条款和条件或通知。 如果你的客户尚未从 Microsoft 或其许可的分销商处获取有效的软件许可，则该客户不得在这些设备上使用该 Windows 软件。

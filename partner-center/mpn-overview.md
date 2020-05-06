@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解与 Microsoft 合作的好处，包括 Microsoft Action Pack、资质，以及突显客户业务优势、将产品投放市场和销售解决方案所需的计划选项。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390856"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798835"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 

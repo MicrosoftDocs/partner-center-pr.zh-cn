@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 716b090681663feba725d1cf268be2209cd15475
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389856"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798335"
 ---
-# <a name="escalate-problems-to-microsoft"></a>将问题上报给 Microsoft
+# <a name="escalate-problems-to-microsoft"></a>将问题升级到 Microsoft
 
 **适用于**
 
@@ -37,11 +37,11 @@ ms.locfileid: "80389856"
 
 - 未记录的服务问题（未根据服务描述运行这些服务）。
 
-- 不可用服务
+- 服务不可用
 
-- 影响服务外观或运行的 Bug 和其它违规行为
+- 影响服务外观或运行的 Bug 和其他异常
 
-- 大规模的网络中断
+- 大规模网络中断
 
 - 多租户产生的区域问题
 

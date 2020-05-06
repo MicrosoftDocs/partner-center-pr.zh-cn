@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解 Microsoft 对某些客户组（包括教育客户、非利润客户和政府用户）的特殊定价的定价。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6f79e6bfe04d065318e4f927233877db0286f9
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 064d8619f9c6d3247f43bc519aea5e0679ffabf3
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390976"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798205"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -32,11 +32,11 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>向特定行业销售的要求
 
-|**特价**   |**分销商要求的资格**   |**客户要求的资格**   |
+|**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育   |无   | 必须是[合格的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政策   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
-|非盈利  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非盈利性特价产品/服务](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的更多信息。   |通过 [Microsoft 非盈利计划](https://nonprofit.microsoft.com/#/register)注册后才有资格。   |
+|教育水平   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|Government   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|非营利组织  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非赢利特别优惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
 
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
@@ -45,13 +45,13 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 1.  在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中，选择窗口右上角的齿轮图标以打开 "**帐户设置**"。
 2.  在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。
-3.  如果你看不到**经销商资格**，则表示你尚未获得购买任何特殊产品的授权。
+3.  如果看不到 "**分销商资格**"，则尚未获授权购买任何特别优惠。
 
 ## <a name="check-the-customer-qualifications"></a>检查客户资格
 
 1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
-2.  在“客户”菜单中，选择**帐户**。 在**公司信息**部分中，查找**特殊资格**。
-3.  如果**特殊资格**设为**无**，但客户实际上符合资格，可将相关资格**更新**到其详细信息中。
+2.  在 customer 菜单中，选择 "**帐户**"。 在 "**公司信息**" 部分中，查找 "**特殊资格**"。
+3.  如果 "**特殊资格**" 设置为 "**无**"，但客户实际上符合该资格，则可以**更新**其详细信息以包含它们。
 
 ## <a name="where-to-find-special-offers"></a>在哪里可以找到特价产品/服务
 

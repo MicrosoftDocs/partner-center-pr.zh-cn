@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理员权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
+description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 287ecd324472a7f28585dc2f7edef8cd95bb2e34
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390676"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798675"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
 
@@ -33,17 +33,17 @@ ms.locfileid: "80390676"
 
 请注意，你可以从你所在的国家或地区内请求与客户的分销商关系。
 
-1.  从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。
+1.  从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。   
 
 2.  若要请求此客户的管理员权限，请选择 "**包括 Azure Active Directory 和 Office 365 的委派管理权限**"。 若要在不请求管理员权限的情况下建立关系，请清除此选项。 
 
 3.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，也可以将邮件复制到剪贴板，然后将它粘贴到电子邮件中。 
 
-    你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 完成此步骤后选择“完成”。
+    你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 完成此步骤后选择“完成”  。
 
 3.  将电子邮件发送到客户。
 
-5.  客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。
+5.  客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。 
 
 >注意：如果客户尚未接受 Microsoft 客户协议，则在接受邀请时，系统将提示他们执行此操作。 
  
@@ -51,7 +51,7 @@ ms.locfileid: "80390676"
 
 
 > [!IMPORTANT]  
-> 客户可以在服务的管理门户中重新分配或删除管理员权限。 但是，除非你与客户重新协商协议，否则你将继续负责提供客户支持并遵守 Microsoft 合作伙伴协议条款，即使在客户重新分配或删除管理员之后访问. 在这种情况下，如果客户需要帮助，你可以致电 Microsoft 支持以代表客户打开服务请求。
+> 客户可以在服务的管理门户中重新分配或删除管理员权限。 但是，除非你与客户重新协商协议，否则，你将继续负责提供客户支持并遵守 Microsoft 合作伙伴协议条款，即使在客户重新分配或删除管理员权限之后。 在这种情况下，如果客户需要帮助，你可以致电 Microsoft 支持以代表客户打开服务请求。
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>客户邀请体验的变化
 
@@ -67,4 +67,4 @@ ms.locfileid: "80390676"
 ## <a name="see-also"></a>另请参阅
 
 - [分配支持联系人](assign-support-contacts.md)
-- [删除与客户的关系](remove-a-relationship.md)
+- [删除与经销商或客户的关系](remove-a-relationship.md)

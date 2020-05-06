@@ -6,19 +6,19 @@ description: 了解如何为客户设置或删除每月 Azure 支出预算，同
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390646"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797885"
 ---
-# <a name="set-an-azure-spending-budget-for-your-customers"></a>为你的客户设置 Azure 费用预算
+# <a name="set-an-azure-spending-budget-for-your-customers"></a>为客户设置 Azure 费用预算
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
@@ -55,7 +55,7 @@ Azure 支出数据是一个*估计值*，*实际计费金额可能会有所不�
 
 你还可以在其订阅设置中*设置单个客户的预算*：
 
-1. 登录到合作伙伴中心仪表板。
+1. 登录到合作伙伴中心面板。
 2. 在**CSP**下的左侧菜单中，选择 "**客户**"。
 3. 在 "**客户**" 页上，选择客户的**公司名称**。
 4. 在客户的 "**订阅**" 页的 "**基于使用情况的订阅**" 下，选择 "**更改预算**"。
@@ -91,7 +91,7 @@ Azure 支出数据是一个*估计值*，*实际计费金额可能会有所不�
 
 ## <a name="itemized-costs-by-service"></a>按服务列出的成本
 
-可以*按服务查看基于使用情况的订阅的详细成本（和估计使用率）* ：
+可以*按服务查看基于使用情况的订阅的详细成本（和估计使用率）*：
 
 1. 登录到合作伙伴中心。
 2. 在**CSP**下的左侧菜单中，选择 "**客户**"。

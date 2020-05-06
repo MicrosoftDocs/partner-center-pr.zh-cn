@@ -6,19 +6,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 根据公司的位置，查看可以销售 CSP 产品/服务的国家/地区和货币。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: CSP 市场，区域，可在其中销售 CSP、CSP 产品、区域、销售云解决方案、全局 CSP
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 66ef0d8c1e9b0183097129cc0f2160028038284f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390696"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798695"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划地区市场和货币
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划区域市场和货币
 
 公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。
 
@@ -37,13 +37,13 @@ ms.locfileid: "80390696"
 
 - 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 将**partnertenantguid**替换为你的租户 ID。 
 
-- 间接经销商的 URL 为： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 将**IRtenantguid**替换为你的租户 ID。 将**IRMPNID**替换为你的 MPN ID，并将**IPtenantguid**替换为间接提供商租户 ID。
+- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 将**IRtenantguid**替换为你的租户 ID。 将**IRMPNID**替换为你的 MPN ID，并将**IPtenantguid**替换为间接提供商租户 ID。
 
 ## <a name="africa-region-and-market"></a>非洲地区和市场
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-| 国家（地区）/区域           | 货币 |
+| 国家/地区           | 货币 |
 | ------------------------ |:--------:|
 | 安哥拉                   |          |
 | 贝宁                    |   USD    |
@@ -62,7 +62,7 @@ ms.locfileid: "80390696"
 | 赤道几内亚        |   USD    |
 | 厄立特里亚                  |   USD    |
 | 埃塞俄比亚                 |          |
-| 法属波利尼西亚         |   USD    |
+| 法属玻里尼西亚         |   USD    |
 | 加蓬                    |   USD    |
 | 冈比亚                   |   USD    |
 | 加纳                    |   USD    |
@@ -79,7 +79,7 @@ ms.locfileid: "80390696"
 | 新喀里多尼亚            |   USD    |
 | 尼日尔                    |   USD    |
 | 尼日利亚                  |   USD    |
-| 留尼汪岛                  |   USD    |
+| 留尼汪                  |   USD    |
 | 卢旺达                   |   USD    |
 | 圣多美和普林西比    |   USD    |
 | 塞内加尔                  |          |
@@ -98,13 +98,13 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-| 国家（地区）/区域     | 货币 |
+| 国家/地区     | 货币 |
 | --------------     |:--------:|
 |  孟加拉        |   USD    |
 |  不丹            |          |
 |  文莱 |   USD    |
 |  柬埔寨          |          |
-|  香港         |   USD    |
+|  香港特别行政区         |   USD    |
 |  印度尼西亚         |   USD    |
 |  老挝              |          |
 |  中国澳门             |   USD    |
@@ -124,16 +124,16 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域        | 货币 |
+|  国家/地区        | 货币 |
 |  --------------        |:--------:|
 |  澳大利亚             |   AUD    |
-|  圣诞岛      |   AUD    |
-|  科科斯(基林)群岛|   AUD   |
+|  圣延岛      |   AUD    |
+|  科科斯群岛|   AUD   |
 |  库克群岛          |   AUD    |
 |  斐济                  |   AUD    |
-|  法国南部地区| AUD |
+|  法属南部领地| AUD |
 |  关岛                  |  AUD     |
-|  赫德和麦克唐纳群岛| AUD |
+|  赫德岛和麦克唐纳群岛| AUD |
 |  基里巴斯              |   AUD    |
 |  马绍尔群岛      |   AUD    |
 |  密克罗尼西亚            |   AUD    |
@@ -144,7 +144,7 @@ ms.locfileid: "80390696"
 |  帕劳                 |   AUD    |
 |  巴布亚新几内亚      |   AUD    |
 |  皮特凯恩群岛      |   AUD    |
-|  索罗门群岛       |   AUD    |
+|  所罗门群岛       |   AUD    |
 |  托克劳               |   AUD    |
 |  汤加                 |   AUD    |
 |  图瓦卢                |   AUD    |
@@ -155,7 +155,7 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地为巴西，你可以在巴西向客户销售 CSP。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  巴西         |   USD    |
 |
@@ -164,17 +164,17 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  加拿大         |   CAD    |
-|  圣皮埃尔和密克隆群岛|  CAD   |
+|  Canada         |   CAD    |
+|  圣皮埃尔和密克隆岛|  CAD   |
 |
 
 ## <a name="europe-region-and-market"></a>欧洲地区和市场
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域 | 货币  |
+|  国家/地区 | 货币  |
 |  -------------- |:--------:|
 |  奥兰岛  |   EUR    |
 |  安道尔        |   EUR    |
@@ -189,8 +189,8 @@ ms.locfileid: "80390696"
 |  爱沙尼亚        |   EUR    |
 |  法罗群岛  |   EUR    |
 |  芬兰        |   EUR    |
-|  France         |   EUR    |
-|  Germany        |   EUR    |
+|  法国         |   EUR    |
+|  德国        |   EUR    |
 |  直布罗陀      |   GBP    |
 |  希腊         |   EUR    |
 |  格陵兰      |          |
@@ -198,9 +198,9 @@ ms.locfileid: "80390696"
 |  匈牙利        |   EUR    |
 |  冰岛        |   EUR    |
 |  爱尔兰        |   EUR    |
-|  马恩岛    |   GBP    |
+|  曼岛    |   GBP    |
 |  意大利          |   EUR    |
-|  泽西岛         |   GBP    |
+|  泽西         |   GBP    |
 |  拉脱维亚         |   EUR    |
 |  列支敦士登  |   EUR    |
 |  立陶宛      |   EUR    |
@@ -216,7 +216,7 @@ ms.locfileid: "80390696"
 |  斯洛伐克       |   EUR    |
 |  斯洛文尼亚       |   EUR    |
 |  西班牙          |   EUR    |
-|  斯瓦尔巴岛和扬马延岛|NOK|
+|  斯瓦尔巴和扬马延|NOK|
 |  瑞典         |   SEK    |
 |  瑞士    |   CHF    |
 |  英国             |   GBP    |
@@ -227,7 +227,7 @@ ms.locfileid: "80390696"
 
 如果贵公司的位置是印度，则可以向印度的客户销售 CSP 优惠。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  印度          |   INR    |
 |
@@ -236,7 +236,7 @@ ms.locfileid: "80390696"
 
 如果公司的位置是日本，则可以向日本的客户销售 CSP。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  日本          |   JPY    |
 |
@@ -245,22 +245,22 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地是韩国，你可以将 CSP 产品/服务销售给韩国的客户。
 
-|  国家（地区）/区域    | 货币 |
+|  国家/地区    | 货币 |
 |  --------------    |:--------:|
-|  朝鲜共和国|   KRW    |
+|  韩国|   KRW    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地区和市场
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  安圭拉       |   USD    |
-|  南极     |   USD    |
+|  安圭拉岛       |   USD    |
+|  南极洲     |   USD    |
 |  安提瓜和巴布达| USD  |
 |  阿根廷      |   USD    |
-|  阿鲁巴          |   USD    |
+|  阿鲁巴岛          |   USD    |
 |  巴哈马        |   USD    |
 |  巴巴多斯       |   USD    |
 |  伯利兹         |   USD    |
@@ -280,13 +280,13 @@ ms.locfileid: "80390696"
 |  福克兰群岛|  USD    |
 |  法属圭亚那  |   USD    |
 |  格林纳达        |   USD    |
-|  瓜德罗普     |          |
+|  瓜德罗普岛     |          |
 |  危地马拉      |   USD    |
 |  圭亚那         |   USD    |
 |  海地          |   USD    |
 |  洪都拉斯       |   USD    |
 |  牙买加        |   USD    |
-|  马提尼克岛     |          |
+|  马提尼克     |          |
 |  墨西哥         |   USD    |
 |  蒙特塞拉特     |   USD    |
 |  尼加拉瓜      |   USD    |
@@ -308,14 +308,14 @@ ms.locfileid: "80390696"
 |  特克斯和凯科斯群岛| USD|
 |  乌拉圭        |   USD    |
 |  委内瑞拉      |   USD    |
-|  美属维京群岛| USD |
+|  美属维尔京群岛| USD |
 |
 
 ## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中东、中欧和东欧地区和市场
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  阿富汗    |          |
 |  阿尔巴尼亚        |   USD    |
@@ -327,7 +327,7 @@ ms.locfileid: "80390696"
 |  波斯尼亚和黑塞哥维那|    |
 |  英属印度洋领地|   USD   |
 |  埃及          |   USD    |
-|  佐治亚州        |   USD    |
+|  格鲁吉亚        |   USD    |
 |  伊拉克           |   USD    |
 |  以色列         |   USD    |
 |  约旦         |          |
@@ -347,7 +347,7 @@ ms.locfileid: "80390696"
 |  莫桑比克     |          |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
-|  巴勒斯坦民族地区 |        |
+|  巴勒斯坦占领区 |        |
 |  卡塔尔          |   USD    |
 |  沙特阿拉伯   |   USD    |
 |  塞尔维亚         |   USD    |
@@ -368,11 +368,11 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  美属萨摩亚 |   NZD    |
 |  新西兰    |   NZD    |
-|  萨摩亚群岛          |   NZD    |
+|  萨摩亚          |   NZD    |
 |  瓦努阿图        |   NZD    |
 |
 
@@ -380,16 +380,16 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地是俄罗斯，你可以在俄罗斯向客户销售 CSP。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  俄罗斯         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>中国台湾地区和市场
+## <a name="taiwan-region-and-market"></a>台湾地区和市场
 
 如果你的公司的位置是台湾，则可以在中国台湾向客户销售 CSP。
 
-|  国家（地区）/区域 | 货币 |
+|  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  中国台湾         |   TWD    |
 |
@@ -398,8 +398,8 @@ ms.locfileid: "80390696"
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
-|  国家（地区）/区域       | 货币 |
+|  国家/地区       | 货币 |
 |  -------------        |:--------:|
-|  美国        |   USD    |
-|  美属外岛|   USD    |
+|  United States        |   USD    |
+|  美国本土外小岛屿|   USD    |
 |

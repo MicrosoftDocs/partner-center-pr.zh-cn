@@ -5,16 +5,16 @@ ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 通过将你的 MPN 成员身份升级到 Microsoft Action Pack 订阅成员身份或 Microsoft 称职，来享有独有权益。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 13c2cc9b9365caa38c1da10b0c6dbba48d435397
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d5ab422d7df9c1d97b9d849d40046d21f31ee9ae
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390506"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797805"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
 
@@ -28,13 +28,13 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 - **Microsoft Action Pack 订阅成员身份。** 经济实惠型年度订阅（为中小型合作伙伴公司提供服务）。 包括基本网络成员资格随附的入门级营销资源，以及其他营销产品和计划，例如：内部使用权限服务订阅、软件许可证和支持的分配。
 
-- **Microsoft 胜任度。** 挣展示公司的功能。 包括入门级营销资源和其他产品/服务，例如：内部使用权利、合作伙伴奖励的资格以及其他支持和建议时间。
+- **Microsoft 能力。** 挣展示公司的功能。 包括入门级营销资源和其他产品/服务，例如：内部使用权利、合作伙伴奖励的资格以及其他支持和建议时间。
 
   - 银能力-一致的功能、专业技能和承诺
 
   - 金牌能力-特定 Microsoft 解决方案领域内的最佳同类功能
 
-加入 Microsoft 合作伙伴网络后，就有资格升级成员身份和购买独家成员资格产品/服务。 有关 Microsoft 合作伙伴网络中的成员身份的详细信息，请转到 [https://partner.microsoft.com](https://partner.microsoft.com)。
+加入 Microsoft 合作伙伴网络后，就有资格升级成员身份和购买独家成员资格产品/服务。 有关 Microsoft 合作伙伴网络中成员身份的详细信息，请参阅[https://partner.microsoft.com](https://partner.microsoft.com)。
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>购买 Microsoft Action Pack 订阅
 
@@ -48,7 +48,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 - 每月接收 100 美元的 Microsoft Azure 额度
 
-有关 Microsoft Action Pack 的详细信息，请转到 [https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
+有关 Microsoft Action Pack 的详细信息，请参阅[https://partner.microsoft.com/membership/action-pack](https://partner.microsoft.com/membership/action-pack)。 
 
 > [!NOTE]  
 > 以下链接将转到其他网站。 返回到此站点（合作伙伴中心站点）以订阅 Action Pack。
@@ -68,7 +68,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 6. 查看订单详细信息，并在准备好购买 Action Pack 时选择 "**购买**"。 你的信用卡将被立即收费。
 
-7. 然后订单获得确认。 选择“关闭”。
+7. 然后订单获得确认。 选择“关闭”  。
 
 每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
 
@@ -78,7 +78,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 2. 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。 
 
-3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择“关闭自动续订”。 
+3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择“关闭自动续订”  。 
 
 > [!NOTE]  
 > 如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
@@ -102,7 +102,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 8. 查看订单详细信息，并在准备好购买 Action Pack 时选择 "**购买**"。 你的信用卡将被立即收费。
 
-9. 然后订单获得确认。 选择“关闭”。
+9. 然后订单获得确认。 选择“关闭”  。
 
     每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
 
@@ -111,13 +111,13 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 若要取消你的 Microsoft Action Pack 订阅，必须联系合作伙伴中心支持部门。
 
-1. 转到 https://partnercenter.microsoft.com/partner/support。
+1. 转到  https://partnercenter.microsoft.com/partner/support 。
 
-2. 选择“报告合作伙伴中心问题”，然后在下一页上选择“新建请求”。
+2. 选择“报告合作伙伴中心问题”，然后在下一页上选择“新建请求”   。
 
-3. 展开“问题类型”列表并选择“合作伙伴发票、付款或对帐文件帮助”。 
+3. 展开“问题类型”列表并选择“合作伙伴发票、付款或对帐文件帮助”   。 
 
-4. 填写完所需的信息，然后选择“提交”。 合作伙伴中心支持团队将联系你以帮助你取消订阅。
+4. 填写完所需的信息，然后选择“提交”  。 合作伙伴中心支持团队将联系你以帮助你取消订阅。
 
     若要查看服务请求的状态，请选择**服务请求 > 合作伙伴中心请求**，然后选择**打开**。 从列表中选择合适的服务请求。  
 

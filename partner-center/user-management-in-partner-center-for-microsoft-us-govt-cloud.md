@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何以及在何处管理美国政府合作伙伴、客户和许可证的合作伙伴 Microsoft 云中心，以及密码重置。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390456"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797585"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -41,12 +41,12 @@ ms.locfileid: "80390456"
 
 -  [**将新用户添加到 Azure Active Directory**](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [**将用户分配到 Azure Active Directory 中的管理员角色**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [**在 Azure Active Directory 中向用户分配管理员角色**](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
 -  [**在 Azure Active Directory 中重置用户的密码**](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **相关主题**
 
--  [**适用于美国政府的 Microsoft 云合作伙伴中心**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft Cloud for US Government 合作伙伴中心**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**注册适用于美国政府 Microsoft 云的云解决方案提供商计划**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**注册美国政府 Microsoft 云的云解决方案提供商计划**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

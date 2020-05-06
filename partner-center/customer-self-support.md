@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解客户在何时以及在何处可以执行自我支持来管理自己的帐户，以及何时应联系其云解决方案提供商合作伙伴。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 客户自我支持, 自我支持,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391036"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798375"
 ---
 # <a name="customer-self-support"></a>客户自我支持
 

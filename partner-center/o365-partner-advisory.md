@@ -3,16 +3,16 @@ title: Office 365 合作伙伴咨询-Microsoft 365 CSP 中的语音 |合作伙�
 description: 某些国家/地区的 PSTN 服务可能会受到特殊的税务和法规要求，可能会影响合作伙伴订单和开具发票。
 ms.topic: article
 ms.date: 04/07/2020
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: Office，O365，PSTN 服务，税款，要求，发票，开票
 ms.localizationpriority: medium
-ms.openlocfilehash: ee29158773041bbab16961f139e8b731a2b3ebbf
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123290"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798785"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 合作伙伴咨询： Microsoft 365 CSP 中的语音
 

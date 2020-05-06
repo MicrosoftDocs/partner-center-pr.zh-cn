@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在某些情况下，客户可能需要聘请你对他们在别处购买的订阅提供预配和支持。
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d7c56e934060a9bfba55a262e262e01eaac50691
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 058f12ddd14375b1f53530dc7bed546ef30a96d7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390826"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798815"
 ---
 # <a name="multi-channel-support"></a>多渠道支持
 
@@ -48,7 +48,7 @@ ms.locfileid: "80390826"
 <tr class="even">
 <td><p><strong>基于使用情况的服务</strong></p></td>
 <td>
-<p>对于已有 Microsoft Azure 订阅的客户（如 Advisor、Open 或 EA）&#39;，需要在合作伙伴中心创建新的 Azure 订阅，手动输入订阅详细信息，然后取消单独的服务或整个订阅。 Azure CSP 与不同的通道可以共存。</p>
+<p>对于已经订阅了从另一个渠道（如 Advisor、Open 或 EA） Microsoft Azure 的客户，你&#39;需要在合作伙伴中心创建新的 Azure 订阅，手动输入订阅详细信息，然后取消单独的服务或整个订阅。 Azure CSP 与不同的通道可以共存。</p>
 <p>对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。  有关详细信息，请参阅<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">将 Azure 订阅切换到不同的合作伙伴</a>。</p>
 </td>
 </tr>

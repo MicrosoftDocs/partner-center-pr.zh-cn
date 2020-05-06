@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 客户可能希望与云解决方案提供商计划中专门提供不同服务的多个合作伙伴合作。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2a059e9eebd117ef0684c8bc7aa2f8bbb68c25d6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390816"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798805"
 ---
 # <a name="multi-partner-support"></a>多合作伙伴支持
 
@@ -34,7 +34,7 @@ Azure CSP 租户可包含来自不同 CSP 合作伙伴的其他 Azure 订阅。
 
 若要使用合作伙伴中心的多合作伙伴功能，请邀请客户向你授予委派管理权限。 请参阅[请求与客户建立关系](request-a-relationship-with-a-customer.md)，了解有关如何与已经与合作伙伴开展合作的客户建立关系的信息。
 
-多个合作伙伴功能不支持以下操作：
+多合作伙伴功能不支持以下操作：
 
 - 更改任何客户的现有订阅
 

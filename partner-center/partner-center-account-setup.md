@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理公司的档案、目录、银行和税务信息、角色、权限等。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 35548c12d80c0501c38f8a75f5473f7c36b30511
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390796"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798765"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 

@@ -6,20 +6,20 @@ description: 了解你的特定地理区域的税费责任，以及如何为你�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: 税金，免税，vat，分销商，计费
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390626"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797695"
 ---
 # <a name="taxes-and-tax-exemptions"></a>税和免税
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
@@ -36,15 +36,15 @@ ms.locfileid: "80390626"
 
 有关其他问题，请[在合作伙伴中心请求支持](#support)。
 
-### <a name="canada"></a>加拿大
+### <a name="canada"></a>Canada
 
 大多数经销商都不会免除 GST/HST/QST。 请咨询你的税务顾问，确定你是否符合豁免条件，以及你应向 Microsoft 提供哪些文档。
 
-对于 BC PST 例外，如所述，将免税视为豁免。 提供 BC PST#，或填写完整并已签名的“一般免税证书”。
+对于 BC PST 例外，如所述，将免税视为豁免。 提供 BC PST#，或填写完整并已签名的“一般免税证书”**。
 
 ### <a name="european-union"></a>欧盟
 
-在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 增值税编号必须接受为有效。
+在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 VAT 号码必须接受为有效号码。
 
 Microsoft 不支持信用和重新帐单。 在销售任何订阅之前，必须在合作伙伴中心[注册 VAT ID 号](organization-tax-info.md)。
 
@@ -56,7 +56,7 @@ Microsoft 现在将标准 VAT 应用于南非合作伙伴购买的数字内容�
 
 Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理，则必须通过[向 Microsoft 发送 VAT ID 号](organization-tax-info.md)来更新合作伙伴计费配置文件。
 
-### <a name="united-states"></a>美国
+### <a name="united-states"></a>United States
 
 美国的所有经销商都需要在接受 Microsoft 经销商协议后 30 天内提供免增值税文档。 每个州都具有不同的转售免税证书。 请与税务顾问合作，确定与你的合法地址和注册州相关的内容。
 
@@ -68,7 +68,7 @@ Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买�
 
 ## <a name="tax-receipts-and-daf"></a>税务收据和 DAF
 
-税收收据（适用于中国台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。
+税收收据（适用于台湾或韩国）或 DAF 通常在发票生成后需要两周的周转时间。
 
 ## <a name="file-tax-exemptions"></a>申报免税
 
@@ -86,8 +86,8 @@ Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买�
 1. 在 "仪表板" 菜单的 "**支持**" 下，选择 "**合作伙伴支持请求**"。
 2. 在 "**合作伙伴请求**" 页上，选择 "**新建请求**"。 （你还可以在此页面上查看打开和关闭的支持请求。）
 3. 在 "**基本**" 步骤的 " **CSP-计费和付款**" 下，选择 "**选择问题类型**"，然后选择 "**免税请求**"。
-4. 在**解决方案**步骤中，在 "**是否需要更多帮助？** " 下，选择 **"是"** 。
-5. 在**详细信息**步骤中，填写 "**问题详细信息**" 窗体。 务必：
+4. 在**解决方案**步骤中，在 "**是否需要更多帮助？**" 下，选择 **"是"**。
+5. 在**详细信息**步骤中，填写 "**问题详细信息**" 窗体。 请务必：
 
     - 填写所有必填字段。
     - 在**详细信息**字段中包含**Microsoft ID**和**MPN id** 。

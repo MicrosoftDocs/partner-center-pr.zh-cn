@@ -5,15 +5,15 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在发布之前抢先试用合作伙伴中心的新功能，并告诉我们你的想法。 帮助塑造合作伙伴中心的未来！
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 0f2761a743254a9c1dc8b40cc749e415587cae08
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390566"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797705"
 ---
 # <a name="test-drive-new-partner-center-features"></a>试用合作伙伴中心的新功能
 
@@ -29,11 +29,11 @@ ms.locfileid: "80390566"
 
 ### <a name="test-drive-a-feature"></a>试用某项功能
 
-1. 在“帐户设置”中选择“试用新功能”。
+1. 在“帐户设置”中选择“试用新功能”。********
 
-2. 选择“功能版本”。 你将可以看到哪些功能已发布测试版，并确定你是否有兴趣参与测试。
+2. 选择“功能版本”。**** 你将可以看到哪些功能已发布测试版，并确定你是否有兴趣参与测试。
 
-3. 如果你有兴趣测试特定的功能，请将按钮滑到“开”。 
+3. 如果你有兴趣测试特定的功能，请将按钮滑到“开”。**** 
 
 > [!NOTE]  
 >  仅全局管理员和管理员代理可以打开功能预览版本。 但是，你的任何合作伙伴中心用户如果拥有相应的权限，也可以查看和使用预览功能。
@@ -48,7 +48,7 @@ ms.locfileid: "80390566"
 
 
  
-## <a name="tell-us-what-you-think"></a>告诉我们你的想法
+## <a name="tell-us-what-you-think"></a>请将想法告诉我们
 
 在为合作伙伴中心进行的所有开发中，我们的使命是帮助你完成更多任务。 我们希望将精力集中在有助于拓展业务的特性和功能上，因此，我们邀请你尝试新功能，并在将其发布到全球合作伙伴中心社区之前共享你的反馈。 
 
@@ -56,7 +56,7 @@ ms.locfileid: "80390566"
 
 -   使用合作伙伴中心窗口右下角的反馈表单直接向我们发送你的反馈。 
 
--   如果你遇到任何功能预览问题，可请求支持。 要创建支持请求，选择“合作伙伴中心”菜单中的“支持请求”>“合作伙伴中心请求”，然后选择“合作伙伴中心请求”页面上的“新请求”。
+-   如果你遇到任何功能预览问题，可请求支持。 要创建支持请求，选择“合作伙伴中心”**** 菜单中的“支持请求”>“合作伙伴中心请求”****，然后选择“合作伙伴中心请求”**** 页面上的“新请求”****。
 
 
 

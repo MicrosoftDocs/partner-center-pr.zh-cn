@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接提供商如何与云解决方案提供商（CSP）计划中的间接经销商合作，确定哪种角色适合你。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390446"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797575"
 ---
 # <a name="work-with-other-partners"></a>与其他合作伙伴合作
 
@@ -39,7 +39,7 @@ Microsoft 的云解决方案提供商（CSP）计划提供了一些机会，使�
 
 如果你是间接经销商，或者如果你对作为间接经销商注册云解决方案提供商计划感兴趣，请参阅[与云解决方案提供商计划中的间接提供商合作](indirect-reseller-tasks-in-partner-center.md)，以了解有关与间接提供商和客户联系的详细信息。
 
-不确定是作为间接经销商还是作为直接合作伙伴注册云解决方案提供商计划？ 请参阅 [Microsoft 合作伙伴网络网站](https://partner.microsoft.com/cloud-solution-provider/indirect)上的[浏览间接模型](https://partner.microsoft.com)。   
+不确定是作为间接经销商还是作为直接合作伙伴注册云解决方案提供商计划？ 请参阅 [Microsoft 合作伙伴网络网站](https://partner.microsoft.com)上的[浏览间接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。   
 
 ## <a name="multi-partner-support"></a>多合作伙伴支持
 
