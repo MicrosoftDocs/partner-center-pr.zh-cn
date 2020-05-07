@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解直销合作伙伴（直接经销商、间接提供商）的步骤，以验证 Office 365 政府版的客户和客户的 CSP。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389726"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798465"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户资格标准
 
@@ -43,7 +43,7 @@ ms.locfileid: "80389726"
 
 将根据以下概述的要满足的特定标准来验证适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户的资格。
 
-**合作伙伴标准**
+**合作伙伴条件**
 1.  通过直接或间接合同为美国政府客户提供服务或解决方案
 2.  通过 GSA 或其他合同文书为美国政府客户提供服务
 
@@ -56,7 +56,7 @@ ms.locfileid: "80389726"
     -   区域或州际政府实体（但不包括国际实体）
     -   联邦资助的研发中心 (FERDC)
 
-2.  商业专用实体，其中包含受法规约束的数据。 接受的政府数据类型包括： 
+2.  商业专用实体，其中包含受法规约束的数据。 可接受的政府数据类型包括： 
     -   国际武器贸易条例 (ITAR)
     -   受控制的未分类信息 (CUI)
     -   国防部 (DoD) 未分类的受控核信息 (UCNI)

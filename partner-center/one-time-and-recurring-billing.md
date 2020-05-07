@@ -3,16 +3,16 @@ title: 单时间计费，并选择定期收费 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 针对预设术语（每月和每年订阅）提前一次计费的信息，以及在合作伙伴中心选择定期收费（适用于 Microsoft 和第三方 ISV 产品）的计费。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 计费，一次性，定期，购买，收费，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390776"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798775"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和选择性定期费用的计费
 
@@ -23,7 +23,7 @@ ms.locfileid: "80390776"
 **相应的角色**
 -   全局管理员
 -   用户管理员
--   帐单管理员
+-   计费管理员
 -   管理员代理
 -   销售代理
 
@@ -51,7 +51,7 @@ ms.locfileid: "80390776"
 
 ## <a name="microsoft-and-third-party-isv-product-charges"></a>Microsoft 和第三方 ISV 产品收费
 
-为**Microsoft 和第三方 ISV 产品**颁发**定期收费**和**一次性费用**。 适用的产品包括所有 SaaS 订阅、Azure 预订以及 Microsoft 和第三方 Isv 提供的基于订阅的永久性软件产品。 请参阅 Marketplace 中的可用产品。 示例包括 SUSE Linux 软件（软件订阅）、Windows Server 2019 Essentials （永久性软件）和 Azure ISV SaaS 产品订阅。
+为**Microsoft 和第三方 ISV 产品**颁发**定期收费**和**一次性费用**。 适用的产品包括所有 SaaS 订阅、Azure 预订以及 Microsoft 和第三方 Isv 提供的基于订阅的永久性软件产品。 请参阅市场中的可用产品。 示例包括 SUSE Linux 软件（软件订阅）、Windows Server 2019 Essentials （永久性软件）和 Azure ISV SaaS 产品订阅。
 
 对于适用的产品收费，**计费日期**是每个月的第8天。 **计费周期**从日历月的第一天开始，到日历月的最后一天结束。 您在5月1日和5月 31 2019 日之间进行的任何交易都将在6月8日显示。 你在 2019 年 6 月 1 日到 6 月 30 日之间进行的任何交易都将显示在 7 月 8 日的发票上。 我们可能还会在同一张发票上向你收取定期和一次性购买的费用。
 

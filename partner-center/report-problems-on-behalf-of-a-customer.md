@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 如果客户遇到了无法解决的服务问题，并且满足向 Microsoft 上报问题中所述的条件，请为他们提供支持票证。
+Description: 如果你的客户遇到了你无法解决的服务问题，并且该问题符合将问题上报给 Microsoft中所述的条件，请为他们提出支持票证。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: 服务请求, 服务票证, 支持, 支持权利, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 6076f80821b476549cd264f9d569e9f46201c394
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390686"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798685"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
 
@@ -25,15 +25,15 @@ ms.locfileid: "80390686"
 -  Microsoft Cloud for US Government 合作伙伴中心
 
 
-如果你的客户遇到了你无法解决的服务问题，并且该问题符合[向 Microsoft 反映问题](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
+如果你的客户遇到了你无法解决的服务问题，并且该问题符合[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
-1.  在“合作伙伴中心”菜单中，选择“服务请求”，然后选择“客户请求”。 
+1.  在“合作伙伴中心”**** 菜单中，选择“服务请求”****，然后选择“客户请求”****。 
 
 2.  在“客户请求”页面上，搜索所需的客户。
 
-3.  从“新建请求”下拉菜单中，选择“Azure”或“Office 365、Dynamics 365、企业移动性套件”。 你将会重定向到 Microsoft Azure 门户或 Office 365 管理员中心。
+3.  从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将会重定向到 Microsoft Azure 门户或 Office 365 管理员中心。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -44,12 +44,12 @@ ms.locfileid: "80390686"
 >
 >- 合作伙伴中心的支持管理员不能在 Azure 服务门户中创建服务请求，而只能在 Azure 服务门户中创建支持组，为该组提供记录支持请求的权限。
 
-1. 选择“新建支持请求”。
-2. 使用相应信息填写支持请求，然后选择“创建”：
--   在支持请求的“基本信息”部分，确保在“支持计划”字段中选择“云解决方案提供商”。
+1. 选择 "**新建支持请求**"。
+2. 使用相应信息填写支持请求，然后选择“创建”****：
+-   在支持请求的“基本信息”**** 部分，确保在“支持计划”**** 字段中选择“云解决方案提供商”****。
 -   在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
 
-3. 稍后在 Microsoft Azure 门户中查看你的客户的服务请求，方法是选择“管理支持请求”。
+3. 以后若要在 Microsoft Azure 门户中查看客户的服务请求，则选择“管理支持请求”即可。****
 
 如果没有某位客户的管理员权限，则可能需要为该客户创建支持请求。 这可能出现在下面的两种情况中： 
  
@@ -64,18 +64,18 @@ ms.locfileid: "80390686"
 
 3. 选择需要支持的 Azure 订阅。
 
-4. 选择“新建支持请求”，然后按提示创建请求。 
+4. 选择“新建支持请求”，然后按提示创建请求。**** 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、企业移动性套件
 
-1. 在“创建服务请求”部分，选择相应的支持主题类别。 可能需要选择 "**更多 ...** " 来查看其他主题。    
-2. 完成服务请求表单，然后选择“提交”。
+1. 在“创建服务请求”**** 部分，选择相应的支持主题类别。 可能需要选择 "**更多 ...** " 来查看其他主题。    
+2. 完成服务请求表单，然后选择“提交”****。
 
    > [!TIP]
    > 请确保其中包含的是你的联系人信息，而不是客户的。
 
-3. 稍后查看客户的服务请求，方法是：转到 Office 365 管理中心，然后选择“查看所有支持票证”。
+3. 稍后查看客户的服务请求，方法是：转到 Office 365 管理中心，然后选择“查看所有支持票证”****。
 
 ### <a name="support-for-commercial-marketplace-products"></a>对商业市场产品的支持
 
@@ -83,13 +83,13 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 
 若要查找 ISV 的联系人信息，请执行以下操作：
 
-1.  在“市场”页上，选择需要获取相关帮助的产品。
+1.  在“市场”页上，选择需要获取相关帮助的产品。****
 2.  在产品的页面上，你将找到支持联系人信息。 该信息可能属于下面的一个或多个类别：
     - 指向 ISV 的网站上的支持入口点的链接
     - 支持部门的电子邮件 
     - 支持部门的联系电话号码
 
-## <a name="faq"></a>常见问题
+## <a name="faq"></a>FAQ
 
 **哪些内容包含在支持权利中？**
 
@@ -103,7 +103,7 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 
 我们的初始响应时间取决于已提交事件的严重性。 提交服务请求时，问题的严重性将由业务影响指示确定。
 
-“技术中断-修复事件”的初始响应时间如下所示：
+“技术中断-修复事件”的初始响应时间如下所示：****
 
 -   严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
 -   中等影响（严重性 B）：4 小时（中等损失或服务质量下降。 生产服务部分受到影响。）

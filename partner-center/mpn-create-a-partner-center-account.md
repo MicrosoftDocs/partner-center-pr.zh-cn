@@ -5,15 +5,15 @@ ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐户，才能管理其网络权益和能力，以及创建业务档案。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0b36ccb8b1cfea7945841d3539d7aef792a14304
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: fce9dd9d4d32dfa39d82d17f9758228a8781837f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80390866"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798855"
 ---
 # <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 

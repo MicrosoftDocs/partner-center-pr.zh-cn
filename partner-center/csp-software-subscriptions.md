@@ -5,17 +5,17 @@ ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商计划中的合作伙伴可以如何使用合作伙伴中心为客户购买、管理、销售和取消 Azure 预留实例和服务器订阅。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Azure RI, Windows Server, SQL Server, 软件订阅, 取消订阅
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 7cce25d5f16f5bd0f55169cdc9d516a69717d31a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80389986"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798425"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
 

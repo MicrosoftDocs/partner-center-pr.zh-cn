@@ -3,16 +3,16 @@ title: 基于许可证的计费 |合作伙伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 有关合作伙伴中心中基于许可证的计费的信息，在此情况下，将按许可证（不是许可证使用情况）计费。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 计费，付款，基于许可证，许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 726f7d3664243405bdc4eaa67b32dbe5e21d5fb4
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390896"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798885"
 ---
 # <a name="license-based-billing"></a>基于许可证的计费
 
@@ -24,7 +24,7 @@ ms.locfileid: "80390896"
 **相应的角色**
 -   全局管理员
 -   用户管理员
--   帐单管理员
+-   计费管理员
 -   管理员代理
 
 在需要**许可证**的合作伙伴中心购买产品或联机服务时，需要为购买的*每个许可证*付费。 *不会*按这些许可证的使用情况进行计费。 （有关基于使用情况的计费和其他计费类型的信息，请参阅[合作伙伴中心的计费类型](billing-different-types.md)。）

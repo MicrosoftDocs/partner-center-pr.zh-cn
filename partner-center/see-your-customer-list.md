@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 客户记录是最重要的信息资产。 了解如何查看、搜索、更新和导出有关客户列表的信息。
 ms.assetid: 58444AB8-AD6E-4686-9D4E-F9FA110A99FC
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e25ae609c635b21d4345c9567a44c119a70253
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 7fafd3b822653e9a72f54d04d5dd757170837eaf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390656"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797966"
 ---
 # <a name="manage-your-customer-list"></a>管理客户列表
 
@@ -32,26 +32,26 @@ ms.locfileid: "80390656"
 ## <a name="search-for-a-customer"></a>搜索客户
 
 1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。
-2.  若要搜索客户，请在搜索框中输入客户名称或域名。
-3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
+2.  若要搜索某个客户，请在搜索框中输入客户名称或域名。
+3.  选择客户行末尾的**向下箭头**，查看其 Microsoft ID 及其关联的订阅和服务快速链接。
 
 ## <a name="update-a-customers-company-name"></a>更新客户的公司名称
 
 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。
-2.  若要搜索客户，请在搜索框中输入客户名称或域名。
-3.  选择客户行尾的**向下箭头**，查看 Microsoft ID、关联的订阅和服务快速链接。
+2.  若要搜索某个客户，请在搜索框中输入客户名称或域名。
+3.  选择客户行末尾的**向下箭头**，查看其 Microsoft ID 及其关联的订阅和服务快速链接。
 4.  在客户的**帐单邮寄地址**信息下面，更新公司名称。 当你保存新值后，它将会反映在客户列表中。 此操作只会更改帐单邮寄地址中的公司名称和客户列表值。 其他位置均不会反映此项更改。
 <sup>1</sup>
 ## <a name="export-your-customer-list"></a>导出客户列表
 
 1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。
-2.  选择**导出客户**。
+2.  选择 "**导出客户**"。
 
     合作伙伴中心将完整的客户列表转换为 .csv 文件，并将其上传到计算机上的默认下载文件夹。 还可导出客户数据的子集。 数据列包含以下内容：
 
-    -   **Microsoft ID**；
-    -   **公司名称**；
-    -   **主域名**；
+    -   **MICROSOFT ID**;
+    -   **公司名称**;
+    -   **主域名**;
     -   **关系** - 合作伙伴与每个列出的客户的业务关系。
 
     默认情况下，合作伙伴中心将导出整个客户列表，无需考虑长度。 还可按公司名称或域来搜索客户列表，并导出数据子集。
@@ -62,12 +62,12 @@ ms.locfileid: "80390656"
 ## <a name="export-customer-subscription-information"></a>导出客户订阅信息
 
 1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。
-2.  选择任意客户的**公司名称**。 将打开客户的**订阅**页面，显示产品订阅的完整列表。
-3.  选择**导出订阅**。 合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。 数据列包含以下内容：
-    -   **订阅 ID**；
+2.  为任何客户选择**公司名称**。 此时会打开客户的 "**订阅**" 页，其中显示了产品订阅的完整列表。
+3.  选择 "**导出订阅**"。 合作伙伴中心在计算机上将客户订阅数据转换为 .csv 文件，并将其上传到默认下载文件夹。 数据列包含以下内容：
+    -   **订阅 ID**;
     -   **订阅** - 订阅的产品名称；
     -   **数量** - 购买的许可证数；
-    -   **状态**；
+    -   **状态**;
     -   **经销商** - 拥有并管理订阅的经销商的 ID。
 
 > [!NOTE]  

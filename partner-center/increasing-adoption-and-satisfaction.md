@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用合作伙伴中心的指标来了解你的业务是否正在增长、客户使用其许可证的方式，以及在何处集中投资。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 978913d5eb029e2029e7238535f8d79de39e7155
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390936"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798915"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高采用率和满意度
 
@@ -42,10 +42,10 @@ ms.locfileid: "80390936"
 
 -   从 "**合作伙伴中心**" 中选择 "**客户**"，选择一个客户，然后选择 " **customer insights**"。
 
-**跨项目组合**
+**跨产品组合**
 
 1.  在 "**合作伙伴中心**"，选择 "**分析**"。
-2.  通过选择**导出**选项，下载整个客户群的部署和用法数据。
+2.  通过选择**导出**选项，在整个客户集中下载部署和使用情况数据。
 
 术语：
 
@@ -78,14 +78,14 @@ ms.locfileid: "80390936"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>问题：</strong>用户采用速率较低，并且不使用许多许可证&#39;。</p>
+<td><p><strong>问题：</strong>用户采用速率较低，许多许可证&#39;不使用。</p>
 <p><strong>要考虑的事项：</strong>客户可能不理解软件可以提供的价值。 他们需要帮助构想他们将其合并到一天中的方式，以简化他们已在执行的任务或实现新的工作效率。</p>
 <p><strong>要尝试的内容：</strong>案例研究、有关特定方案的用户感言、教程博客或视频。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
 <p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双策略&#39;来提高客户的整体专业技能，同时还可以提升一些可供客户使用的自助服务选项。</p>
+<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双重策略来提高客户&#39;的总体专业技能，同时还能提升一些可供客户使用的自助服务选项。</p>
 <p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
 </tr>
 </tbody>
