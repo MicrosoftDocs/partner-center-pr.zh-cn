@@ -1,6 +1,6 @@
 ---
-title: 分析 Azure 使用情况 | 合作伙伴中心
-ms.date: 11/13/2019
+title: 分析 Azure 使用情况以帮助发展业务
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。
@@ -10,15 +10,15 @@ ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722392"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907433"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>获取客户的 Azure 订阅使用情况数据
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>获取有关客户和 Azure 订阅的工作方式的数据
 
 **适用于**
 
@@ -28,7 +28,7 @@ ms.locfileid: "74722392"
 **相应的角色**
 
 - 全局管理员
-- 用户管理管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 
@@ -39,7 +39,7 @@ ms.locfileid: "74722392"
 
 我们跟踪下列指标：
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>总结
 
 - **Azure 订阅总销量**：指定时间段内销售的订阅数量  
 - **使用过的客户数**：指定时间段内使用过 Azure 的客户数量  

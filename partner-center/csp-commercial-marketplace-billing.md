@@ -1,22 +1,23 @@
 ---
-title: 商业应用商店产品的帐单 |合作伙伴中心
+title: 商业应用商店产品的帐单
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何针对从合作伙伴中心内的商业市场为客户购买的 ISV SaaS 产品或订阅付费。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅，产品，购买，Marketplace，第三方，ISV，计费，发票，协调，侦测文件
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240194"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908124"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>商业应用商店产品的帐单
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 
 **适用于**
 
@@ -26,7 +27,7 @@ ms.locfileid: "78240194"
 **相应的角色**
 
 - 全局管理员
-- 帐单管理员
+- 计费管理员
 
 作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心从商业应用商店中的 ISV 出版商那里购买基于许可证的 SaaS 产品。 完成此操作后，你可以访问这些类型采购的帐单。 计费周期从日历月的第一天开始，到日历月的最后一天结束。 发票在下个月的第8天可用。
 
@@ -43,7 +44,7 @@ CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解�
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/)。
 
-2. 在“合作伙伴中心”菜单中，选择“计费”。 
+2. 在“合作伙伴中心”菜单中，选择“计费”。  
 
     你将在帐单页的顶部看到两个选项卡：**定期**、**定期和一次性购买**。 每个选项卡允许您访问不同 marketplace 产品的发票和对帐（侦测）文件：
 

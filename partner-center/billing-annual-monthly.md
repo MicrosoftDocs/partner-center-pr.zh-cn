@@ -1,20 +1,22 @@
 ---
-title: 每月和每年计费差异 |合作伙伴中心
+title: 按月和按年计费的差异
 ms.topic: article
-ms.date: 11/25/2019
-Description: 了解合作伙伴中心中每月和每年的计费周期之间的差异。
+ms.date: 05/06/2020
+Description: 了解合作伙伴中心的每月和每年帐单的不同之处。 还介绍如何在不同计费类型之间切换以及切换的含义。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798595"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908249"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>按月和按年计费的差异
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>了解合作伙伴中心中每月和每年计费的区别
+
 
 **适用于**
 
@@ -133,7 +135,7 @@ ms.locfileid: "82798595"
 
 所有计费频率的取消策略都相同。
 
-对于年度计费，如果订阅在十二个月支付的第30天内取消，你将在下一个计费日期收到100% 的信用额度。 如果在12个月支付的期限30天后取消订阅，你将在下一个计费日期收到按比例的信用额度。
+对于年度计费，如果订阅在12个月支付期限的前30天内取消，你将在下一个计费日期收到100% 的信用额度。 如果在12个月支付的期限30天后取消订阅，你将在下一个计费日期收到按比例的信用额度。
 
 ### <a name="moving-subscriptions-between-partners"></a>在合作伙伴之间移动订阅
 
@@ -157,7 +159,7 @@ ms.locfileid: "82798595"
 
 按如下所示计算已取消的许可证或订阅的信用额度：
 
-**取消信用**= （（* * 每月价格 * * * 12）/365 \* ）已取消的许可证的**12 个月期限** \*中的天数。
+**取消信用**= （（* * 每月价格 * * * 12）/365 \* ）已取消的许可证的**12 个月期限** \*内的剩余天数。
 
 ## <a name="reconciliation-file"></a>对帐文件
 
@@ -187,7 +189,7 @@ ms.locfileid: "82798595"
 
 ### <a name="cancellation-of-annual-subscription"></a>取消年度订阅
 
-在取消每年计费订阅后，对帐文件将包含一个用于取消信用的行项。
+当取消每年计费的订阅时，对帐文件将包含一个用于取消信用的行项。
 
 如果取消在12个月期限的前30天内发生，则订阅将按100% 贷记。 如果取消发生在前 30 天后，则将按比例对订阅进行退款。
 

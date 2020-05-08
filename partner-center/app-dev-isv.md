@@ -1,7 +1,7 @@
 ---
-title: 适用于应用程序开发能力的一次性考试要求例外 |合作伙伴中心
+title: 应用程序开发能力考试豁免
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 对于具有以前的 ISV 资格认证的合作伙伴，了解如何为应用程序开发能力提供一次性考试需求豁免
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 胜任度，ISV，应用程序开发
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722352"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907484"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 
@@ -41,20 +42,20 @@ ms.locfileid: "74722352"
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>如何利用产品/服务
 
-1. 在仪表板上的 "合作伙伴中心" 菜单中，选择 "**胜任度**"。
+1. 在仪表板上的“合作伙伴中心”菜单中，选择“能力”  。
 2. 在可用的胜任度列表中，应用程序开发标记为 "已**完成**"。
 
-![isv 到 appdev](images/appdev.png)
+![ISV 到 appdev](images/appdev.png)
 
 3. 选择 "**应用程序开发**"。 你将看到你已获得一个替代，豁免公司无法满足测试要求。 
 
-4. 若要利用此产品/服务，请转到**成员资格提供**。 您可能需要根据您的能力购买或续订状态来支付能力，以完成该过程。 
+4. 若要使用此产品/服务，请转到“会员产品/服务”  。 您可能需要根据您的能力购买或续订状态来支付能力，以完成该过程。 
 
 此产品/服务可通过合作伙伴中心获得。
 
 如果你需要获取你的产品/服务的帮助，或有关于此产品/服务的资格的问题，请联系[合作伙伴支持](https://partner.microsoft.com/Support)部门。 
 
-## <a name="frequently-asked-questions"></a>常见问题解答
+## <a name="frequently-asked-questions"></a>常见问题
 
 **如何实现知道我的公司是否有资格提供此服务？**
 

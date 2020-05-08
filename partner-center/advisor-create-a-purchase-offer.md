@@ -1,25 +1,26 @@
 ---
 title: 创建购买产品/服务 |合作伙伴中心
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: 顾问可以在合作伙伴中心创建购买优惠
-author: XiaLi
-ms.author: v-xili35
+description: 了解经过授权的订阅顾问如何使用合作伙伴中心来创建购买产品/服务和自定义 URL，使其包含在 Office 365 试用邀请中。
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 顾问，office 365，购买
-ms.openlocfilehash: 1d7cf051da1189efff535eaa95749a8eab54ee6c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137222"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907439"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顾问：创建购买提议
 
 > [!NOTE]
-> 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。 
+> 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。
 
 将适用于 Office 365 的试用邀请发送到客户端后，可以通过创建和发送自定义的购买提议来满足客户端的需求。 如果你经过认证来提供委派管理，则可以向购买产品/服务添加一个选项，以允许你代表客户端管理帐户。
 
@@ -29,7 +30,7 @@ ms.locfileid: "79137222"
 
 ## <a name="to-create-a-purchase-offer"></a>创建购买提议
 
-1. 导航到**试用版，**  > **创建产品/服务**。
+1. 导航到**试用版和购买产品** > /服务**创建产品**/服务。
 
 2. 在 "**创建购买产品/服务**" 页上，选择要包括的购买优惠选项：
 
@@ -42,7 +43,7 @@ ms.locfileid: "79137222"
     - **许可证计数**：选择订阅时，请键入要包括在购买提议中的许可证数量。
     - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，客户端可以接受或不接受委派管理的购买提议。
 
-3. 单击 **“下一步”** 。
+3. 单击“下一步”。 
 
 4. 在 "**发送**" 页上，复制 "购买产品/服务" 信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义购买提议。
 

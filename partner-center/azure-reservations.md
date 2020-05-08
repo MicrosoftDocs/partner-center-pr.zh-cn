@@ -1,23 +1,23 @@
 ---
-title: 合作伙伴中心-Microsoft Azure 预订概述 |合作伙伴中心
+title: Microsoft Azure 预订销售客户
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解云解决方案提供商如何为使用合作伙伴中心、Azure 门户或合作伙伴中心 API 的客户购买、销售或管理 Azure 预订。
+Description: 作为云解决方案提供商，你可以购买、销售或管理客户的 Azure 保留。 使用合作伙伴中心、Azure 门户或合作伙伴中心 API。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买, Azure RI, Azure 预留实例
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205725"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908292"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>合作伙伴中心 - 销售 Microsoft Azure 预留
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作伙伴中心、Azure 门户或 Api 向客户销售 Microsoft Azure 预订
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 

@@ -1,20 +1,21 @@
 ---
-title: 为客户购买商业 marketplace 产品或产品/服务 |合作伙伴中心
+title: 购买商业市场优惠
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划合作伙伴如何使用合作伙伴中心市场从独立软件供应商（Isv）购买 SaaS 产品/服务。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅，marketplace，商业市场，第三方，ISV，SaaS 产品/服务，云解决方案提供商计划，购买产品/服务，购买订阅
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dd3facf79e0e33a6dfc35a162c444a13a19b256
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c740ae823670644cb1f81c0a667d1fb48fc873ae
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253795"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908083"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>在合作伙伴中心为客户购买商业 marketplace 产品
 
@@ -23,7 +24,7 @@ ms.locfileid: "74253795"
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
 - 管理员代理
@@ -43,9 +44,9 @@ ms.locfileid: "74253795"
 也可使用[合作伙伴中心 API](https://docs.microsoft.com/partner-center/develop/) 为客户创建商业市场订阅。 （有关使用合作伙伴中心 Api 的详细信息，请参阅[为商业 marketplace 产品创建订阅](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)。）
 
 >[!IMPORTANT]
-> 作为 CSP 计划中的合作伙伴，只能从合作伙伴中心内的 ISV 发布者购买**基于许可证的**SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何**基于许可证**的 SaaS 产品/服务，包括你有权访问的[独家产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要购买或管理其他商业市场，请参阅 Isv 提供的产品/服务（例如**基于使用情况**、按流量计费或基于消耗的产品/服务，包括 azure 应用程序、容器或 vm），你必须使用[azure 管理门户](https://portal.azure.com/)。 有关详细信息，请参阅以下主题。
+> 作为 CSP 计划中的合作伙伴，只能从合作伙伴中心内的 ISV 发布者购买**基于许可证的**SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何**基于许可证**的 SaaS 产品/服务，包括你有权访问的[独家产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要购买或管理其他商业市场，请参阅 Isv 提供的产品/服务（例如**基于使用情况**、按流量计费或基于消耗的产品/服务，包括 Azure 应用程序、容器或 vm），你必须使用[Azure 门户](https://portal.azure.com/)。 有关详细信息，请参阅以下主题。
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-management-portal"></a>在 Azure 管理门户中购买基于使用情况的订阅
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>在 Azure 门户中购买基于使用情况的订阅
 
 与第三方 ISV 发布者的基于许可证的 SaaS 订阅不同，基于使用情况的订阅首先要求客户拥有 Azure 订阅。 针对商业市场的计费，基于使用情况的资源属于客户的 Azure 订阅。 一旦你的客户拥有 Azure 订阅，CSP 计划中的合作伙伴便可按照以下步骤为其购买商业 marketplace 订阅：
 

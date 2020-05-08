@@ -1,22 +1,23 @@
 ---
-title: 客户帐户 | 合作伙伴中心
+title: 查看和管理客户帐户
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 在合作伙伴中心查找适用于经销商合作伙伴的资源。 这包括在销售订阅、帐单或产品/服务支持之前需要创建客户帐户。
+Description: 在合作伙伴中心查找适用于经销商合作伙伴的资源。 这包括在销售订阅、帐单或产品/服务支持之前创建客户帐户。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205765"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907944"
 ---
-# <a name="customer-accounts"></a>客户帐户
+# <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>合作伙伴中心的销售商合作伙伴的客户帐户设置和管理
 
 **适用于**
 

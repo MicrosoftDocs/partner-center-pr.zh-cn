@@ -1,22 +1,23 @@
 ---
-title: 为客户管理商业 marketplace 产品或产品/服务 |合作伙伴中心
+title: '& 产品/服务管理 marketplace 产品'
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用合作伙伴中心，了解云解决方案提供商如何管理从商业市场为客户购买的不同的第三方 ISV 产品。
-author: MicheleHope
-ms.author: v-mihope
+description: 使用合作伙伴中心，了解云解决方案提供商可以如何管理从商业市场为客户购买的第三方 ISV 产品/服务。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅，Marketplace，第三方，ISV，SaaS 服务，云解决方案提供商计划，管理产品/服务，管理订阅，许可证，取消订阅，座位，关闭自动续订，间接经销商 MPN ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114949"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908105"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>为客户管理商业 marketplace 产品
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>为客户管理商业 marketplace 产品和产品/服务
 
 **适用于**
 
@@ -57,7 +58,7 @@ ms.locfileid: "80114949"
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>分配许可证并代表客户激活订阅
 
-当你购买由商业应用商店中的独立软件供应商（ISV）出版商提供的软件即服务（SaaS）产品/服务（SaaS）产品/服务（SaaS）产品/服务面向.
+当你购买由商业应用商店中的独立软件供应商（ISV）出版商提供的软件即服务（SaaS）产品/服务（SaaS）产品/服务（
 
 发布者应为你提供一个个性化链接和一个用于标识特定购买的授权代码。
 
@@ -85,7 +86,7 @@ ms.locfileid: "80114949"
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>从 ISV 发布者取消基于许可证的 SaaS 订阅
 
-当你订阅由商业应用商店内的 ISV 发布者提供的基于许可证的 SaaS 产品时，你可以选择在其指定的取消期限内取消订阅。 此取消时间段根据你是具有每月订阅还是年度订阅而发生变化。 你还可以选择是否自动续订订阅。
+当你订阅由商业应用商店内的 ISV 发布者提供的基于许可证的 SaaS 产品时，你可以选择在其指定的取消期限内取消订阅。 此取消时间段根据你是具有每月订阅还是年度订阅而发生变化。 也可选择是否自动续订订阅。
 
 有关适用的取消期间、如何取消或如何自动续订订阅的详细信息，请参阅：
 

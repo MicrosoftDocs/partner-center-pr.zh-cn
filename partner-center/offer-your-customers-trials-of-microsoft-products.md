@@ -1,22 +1,22 @@
 ---
-title: 为客户提供 Microsoft 产品试用版 | 合作伙伴中心
+title: 为客户提供 Microsoft 产品的试用版
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 你的客户可以试用 Microsoft 订阅产品，为期 30 天。 像许多其他联机服务一样在目录中注册这些试验。
-author: brentserbus
-ms.author: brserbus
+description: 让客户试用 Microsoft 订阅产品30天。 在目录中注册这些免费试用，就像许多其他联机服务一样。
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112456"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907354"
 ---
-# <a name="offer-your-customers-trials-of-microsoft-products"></a>为客户提供 Microsoft 产品试用版
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>为客户授予为期30天的免费试用版 Microsoft 产品
 
 **适用于**
 
@@ -33,20 +33,20 @@ ms.locfileid: "80112456"
 
 可以在**客户**页上找到所有未完成的试用版产品/服务。 此页列出所有订阅，包括免费试用版和付费订阅。 （此功能目前在中国不可用。）
 
-每个客户都有权使用每个可用产品/服务的免费试用版。 例如，他们可以获取 Office 365 商业高级版的一个免费试用版和 Office 365 E3 的一个免费试用版。 但是，如果客户已拥有该产品/服务，则不能使用该产品/服务的免费试用版。
+每个客户都有权使用每个可用产品/服务的免费试用版。 例如，他们可以为 Microsoft 365 商业版标准版和 Office 365 E3 免费试用版获取一个免费试用版。 但是，如果客户已拥有该产品/服务，则不能使用该产品/服务的免费试用版。
 
 ### <a name="available-products"></a>可用产品
 
 以下产品提供免费试用版：
 
-- Office 365 商业高级版
+- Microsoft 365 商业版标准
 - Office 365 E3
 - 带有 PSTN 的 Office 365 E5
 - 没有 PSTN 的 Office 365 E5
 - 企业移动性和安全性 E5
 - Dynamics 365 客户参与度计划 1
 - Dynamics 365 Business Central
-- Microsoft 365 商业版
+- Microsoft 365 商业版高级
 
 我们提供这些产品的免费试用版，因为它们是最全面最热门的商业套餐。 将来，我们可能会增加其他套餐的免费试用版。
 
@@ -97,10 +97,10 @@ ms.locfileid: "80112456"
 
 |**到期**   |**兼容的小型企业产品**   |**兼容的企业产品**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Microsoft 团队商业云（用户启动）试用版   |Business Essentials，Business Premium，M365 Business   | F3 （以前为 F1），Office 365 for Enterprise （E1，E3 和 E5），M365 F1/F3，M365 Enterprise （E3）   |
+|Microsoft 团队商业云（用户启动）试用版   |Microsoft 365 商业版基本、Microsoft 365 商业版标准 Microsoft 365 商业版高级   | F3 （以前为 F1），Office 365 for Enterprise （E1，E3 和 E5），M365 F1/F3，M365 Enterprise （E3）   |
 
->[!Note] 
->上述产品/服务具有类似功能的类似服务计划，但产品/服务之间可能存在一些差异。 
+>[!NOTE]
+>上述产品/服务具有类似功能的类似服务计划，但产品/服务之间可能存在一些差异。
 
 ### <a name="expiring-offers"></a>即将过期
 

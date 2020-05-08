@@ -1,22 +1,23 @@
 ---
-title: 请求 Microsoft 的 SLA 信用额度 |合作伙伴中心
+title: 从 Microsoft 请求 SLA 信用额度
 ms.topic: article
-ms.date: 11/21/2019
-description: 如果客户遇到服务中断，请了解从 Microsoft 请求 SLA 信用的好处、限制和过程。
+ms.date: 04/28/2020
+description: 如果你的客户遇到服务中断，请了解从 Microsoft 请求服务级别协议（SLA）信用额度的好处、限制和程序。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943140"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907868"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>请求 Microsoft 的 SLA 信用额度 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>如何以及何时向 Microsoft 请求服务级别协议（SLA）信用额度
 
 如果你为客户提供的服务中断，你可以从 Microsoft 请求**服务级别协议（SLA）信用额度**。
 
@@ -30,7 +31,7 @@ Microsoft 的 SLA 信用取决于受影响的服务。 例如，如果你的客�
 
 *云解决方案提供商（CSP）合作伙伴必须在发生事件的月份后，按日历月结束时间提交声明和所有必需的信息。* 例如，如果事件在2月15日发生，则 Microsoft 必须在3月31日前收到声明和所有必需的信息。 最终客户和间接经销商无法提交 SLA 信用索赔;间接提供商或直接帐单合作伙伴必须代表他们提交声明。
 
-### <a name="required-information"></a>必要信息
+### <a name="required-information"></a>必需的信息
 
 向 Microsoft[提交 SLA 信用请求](#submit-sla-credit-request)之前，必须收集下列信息，以将其包括在支持票证中：
 
@@ -57,10 +58,10 @@ Microsoft 的 SLA 信用取决于受影响的服务。 例如，如果你的客�
 
 若要通过合作伙伴中心仪表板将 SLA 信用请求提交给 Microsoft，请执行以下操作：
 
-1. 登录到合作伙伴中心仪表板。
+1. 登录到合作伙伴中心面板。
 2. 在左侧菜单中，选择 "**服务请求**"，然后选择 "**合作伙伴支持请求**"。
 3. 在 "**合作伙伴请求**" 页上，选择 "**新建请求**"。
 4. 在 "**启动请求**" 页上，找到 " **CSP-客户、订单和订阅**" 一节。 在此部分中，选择 "**选择问题类型**"，然后选择 "**客户服务信用请求**"。
-5. 在 "**推荐的解决方案**" 页的 "**是否需要更多帮助？** " 下，选择 **"是"** 。
+5. 在 "**推荐的解决方案**" 页的 "**是否需要更多帮助？**" 下，选择 **"是"**。
 6. 在 "**详细信息**" 页上，填写 "**问题详细信息**" 部分。 在 "**详细信息**" 文本框中，确保输入先前收集的[所需信息](#required-information)。
 7. 选择 "**提交**" 以在 SLA 信用请求中发送。

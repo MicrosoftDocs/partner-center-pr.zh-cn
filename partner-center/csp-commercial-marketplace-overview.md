@@ -1,22 +1,23 @@
 ---
-title: 云解决方案提供商的商业市场概述 |合作伙伴中心
+title: 概述-CSP marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心，了解如何向 marketplace 中的独立软件供应商（Isv）销售客户订阅软件即服务（SaaS）产品/服务。
-author: MicheleHope
-ms.author: v-mihope
+description: 了解如何在 marketplace 中向客户的独立软件供应商（Isv）销售 "软件即服务" （SaaS）产品/服务。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅，Marketplace，第三方，ISV，SaaS，许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253785"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908094"
 ---
-# <a name="commercial-marketplace-overview"></a>商业市场概述
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心的商业市场概述
 
 **适用于**
 
@@ -41,7 +42,7 @@ ms.locfileid: "74253785"
 |:------------------------------------|:------------------|
 |了解如何查看或搜索可用产品/服务、定价、产品详细信息或发布者联系信息 | [发现产品](csp-commercial-marketplace-discover.md) | 
 |了解如何购买和部署产品/服务   | [购买优惠](csp-commercial-marketplace-purchase.md)   | 
-|了解如何取消或续订订阅或添加或删除座位  | [管理产品/服务](csp-commercial-marketplace-manage.md) |
+|了解如何取消或续订订阅或添加或删除座位  | [管理套餐](csp-commercial-marketplace-manage.md) |
 |了解计费如何适用于商业 marketplace 购买 | [了解帐单](csp-commercial-marketplace-billing.md) |
 |了解谁负责 ISV 购买哪些类型的支持 | [了解支持](csp-commercial-marketplace-support.md) |
 |了解有关商业应用商店中 CSP 合作伙伴和 Isv 的合同和责任 | [了解合同](csp-commercial-marketplace-contracting.md) |
@@ -68,7 +69,7 @@ ms.locfileid: "74253785"
 
 若要了解在何处完成基于许可证或基于使用的 ISV 产品/服务的特定市场活动，请参阅下表。
 
-|**适用于基于许可证的 SaaS 提供商**  |**用途**  |
+|**适用于基于许可证的 SaaS 提供商**  |**用法**  |
 |:------------------------------------|:------------------|
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
@@ -76,7 +77,7 @@ ms.locfileid: "74253785"
 |取消/续订提议订阅或添加/删除座位 | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |创建用户或管理权限  | ISV 发布者的系统或网站  |
 
-|**基于使用情况的 Isv 提供的产品/服务**  |**用途**  |
+|**基于使用情况的 Isv 提供的产品/服务**  |**用法**  |
 |:------------------------------------|:------------------|
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板、合作伙伴中心 Api 或 Azure 门户  |
 |购买产品/服务  | Azure 门户  |

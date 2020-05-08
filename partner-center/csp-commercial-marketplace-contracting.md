@@ -1,29 +1,30 @@
 ---
-title: 使用商业应用商店的云解决方案提供商合同 |合作伙伴中心
+title: 适用于商业应用商店的 CSP 合同
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解针对商业应用商店中的 CSP 合作伙伴购买的第三方 ISV 产品的订阅条款、条件和协定。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅，Marketplace，第三方，ISV，CSP 合作伙伴计划，合同，销售，购买，
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253775"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908127"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>与商业应用商店中的 CSP 合作伙伴活动关联的协定
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>适用于在商业市场中开展业务的 CSP 合作伙伴的合同
 
 **适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
 - 管理员代理
@@ -47,7 +48,7 @@ ms.locfileid: "74253775"
   
 Microsoft 不会接受法律责任在约束力方之间交付服务，也不会为约束力合作伙伴提供通过其商业平台建立法律条款的机制。 如果约束力合作伙伴需要其他法律条款，则他们将需要直接执行协议。
 
-## <a name="see-also"></a>请参阅
+## <a name="see-also"></a>另请参阅
 
-- [支持商业 marketplace 产品](csp-commercial-marketplace-support.md)
+- [对商业市场产品的支持](csp-commercial-marketplace-support.md)
 - [CSP 商业市场活动概述](csp-commercial-marketplace-overview.md)

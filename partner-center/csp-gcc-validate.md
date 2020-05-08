@@ -1,26 +1,27 @@
 ---
-title: Office 365 政府版 GCC 合作伙伴和客户资格标准 | 合作伙伴中心
+title: Office 365 政府版 GCC 合作伙伴和客户资格标准
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解直销合作伙伴（直接经销商、间接提供商）的步骤，以验证 Office 365 政府版的客户和客户的 CSP。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798465"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908052"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>适用于云解决方案提供商的 Office 365 政府版 GCC 合作伙伴和客户资格标准
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 政府版的 CSP 合作伙伴和客户资格标准-合作伙伴中心
 
 **适用于**
 
--  合作伙伴中心
--  云解决方案提供商合作伙伴
+- 合作伙伴中心
+- 云解决方案提供商合作伙伴
 
 **相应的角色**
 
@@ -31,11 +32,11 @@ ms.locfileid: "82798465"
 >[!NOTE]
 >下面概述的验证过程和标准特定于直接计费合作伙伴。 直接计费合作伙伴包括直接经销商和间接提供商。  如果你是间接经销商，请与你的间接提供商合作。
 
-如果你有兴趣让你的组织或客户组织获得批准以便出售适用于云解决方案提供商的 Office 365 政府版 GCC，请查看以下要求。
+如果你有兴趣为你的组织（或客户组织）批准适用于 CSP 的 Office 365 政府版，请查看以下要求。
 
-如果你是服务于美国联邦、州、地方或部落政府实体的合作伙伴，你可以获得批准。 若要验证你的组织资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的简短表单。
+如果你是服务于美国联邦、州、地方或部落政府实体的合作伙伴，你可以获得批准。 若要获得组织资格验证，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的简短窗体。
 
-如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。 若要让客户的资格获得资格，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短窗体。 
+如果你的客户是处理政府控制的数据的组织，或者是美国联邦、州、地方或部落政府实体，则你的客户可以获得批准。 若要获得客户的资格验证，请完成[此处](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的简短窗体。 
 
 -   你的组织必须[注册](https://partnercenter.microsoft.com/partner/cloud-solution-provider)云解决方案提供商计划，因为这是被批准出售适用于云解决方案提供商的 Office 365 政府版 GCC 的先决条件。
 -   适用于云解决方案提供商的 Office 365 政府版 GCC 的分步验证过程指南位于[此处](https://go.microsoft.com/fwlink/?linkid=2007323)。

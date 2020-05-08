@@ -1,7 +1,7 @@
 ---
-title: 加密挖掘活动的合作伙伴中心通知 |合作伙伴中心
+title: 加密挖掘活动的通知
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解在一个或多个 Azure 订阅上出现有关潜在的加密货币挖掘（或加密挖掘）的通知时，这意味着什么。
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: 加密挖掘，加密货币挖掘，安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722304"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908387"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 
@@ -54,13 +55,13 @@ ms.locfileid: "74722304"
 如果对通知有任何疑问或疑虑，你可以使用以下步骤打开支持请求。
 
 1.  在合作伙伴中心中，选择 "**支持**"，然后选择 "**合作伙伴中心请求**"。
-3.  选择**新建请求**。 
+3.  选择 "**新建请求**"。 
 4.  在**问题类型**下拉菜单中，选择**添加或管理客户**。
 5.  在**影响**下拉菜单中，选择**中等**。
 6.  在**标题**字段中，输入**加密挖掘通知**。
 7.  在**描述**字段中，输入受影响订阅的名称以及其他问题或疑虑。 
 8.  输入联系人信息。
-9.  选择**提交**。
+9.  选择“提交”。 
 
 
 

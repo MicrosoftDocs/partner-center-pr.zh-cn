@@ -1,22 +1,23 @@
 ---
-title: 在商业应用商店中发现产品/服务 |合作伙伴中心
+title: 发现产品/服务-商业应用商店
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 合作伙伴如何使用合作伙伴中心在 marketplace 中查看或搜索来自独立软件供应商（Isv）的 SaaS 产品/服务的定价。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅，marketplace，商业市场，第三方，ISV，SaaS 产品/服务，云解决方案提供商计划，CSP 计划，CSP 合作伙伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81873187"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908113"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>在商业应用商店中发现产品/服务和定价
+# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>在合作伙伴中心商用 marketplace 中发现产品/服务和定价
 
 **适用于**
 
@@ -28,7 +29,7 @@ ms.locfileid: "81873187"
 - 全局管理员
 - 管理员代理
 
-独立软件供应商（Isv）选择在商业市场中发布产品/服务时，他们还可以决定是否要在 CSP 计划中提供该产品/服务。 如果他们选择通过 CSP 计划销售该产品/服务，则 CSP 合作伙伴应在合作伙伴中心市场领域看到该产品/服务。 
+独立软件供应商（Isv）选择在商业市场中发布产品/服务时，他们还可以决定是否要在 CSP 计划中提供该产品/服务。 如果他们选择通过 CSP 计划销售该产品/服务，则 CSP 合作伙伴应在合作伙伴中心市场领域看到该产品/服务。
 
 如果 ISV 产品/服务未按预期显示在合作伙伴中心，原因可能是：
 

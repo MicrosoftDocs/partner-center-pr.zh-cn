@@ -1,7 +1,7 @@
 ---
-title: 云解决方案提供商区域授权租户合并 | 合作伙伴中心
+title: 云解决方案提供商区域授权租户合并
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用这些说明合并不同国家/地区的租户。 这包括迁移客户帐户和客户订阅的步骤。
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: 迁移客户, 预配, 租户帐户, 合并租户
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798445"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907991"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 区域授权租户合并的说明
 
 **适用于**
 
@@ -99,8 +100,6 @@ ms.locfileid: "82798445"
 
  >[!**注意**]挂起订阅可确保不会进行双重计费。
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>迁移 Azure 基于使用情况的订阅
 
-
-请注意，对于 Office 365 云解决方案提供商订阅，无需手动迁移 Azure 基于使用情况的云解决方案提供商订阅。 Microsoft Azure 支持可以迁移 Azure 订阅以及从 CSP 分销商帐户**过渡**到**到 csp 分销商帐户的所有**已部署服务或资源。 在此过渡期间，客户服务不会中断。
+Azure，基于使用情况的 CSP 订阅不需要像使用 Office 365 CSP 订阅那样手动迁移。 Microsoft Azure 支持可以迁移 Azure 订阅以及从 CSP 分销商帐户**过渡**到**到 csp 分销商帐户的所有**已部署服务或资源。 在此过渡期间，客户服务不会中断。
 
 1.  确保迁移需要 Azure 订阅的客户帐户已接受与新的 "**转换为**CSP" 帐户关联的协议。
 2.  合作伙伴向 Microsoft 通知哪些 Azure 订阅的客户帐户已准备好进行迁移，并提供这些客户的公司名称。
@@ -128,9 +126,9 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ### <a name="notes"></a>说明
 
--   从 CSP 帐户**转换**禁用订阅不会影响最终客户的服务，前提是该服务是在禁用之前从**转换为**CSP 帐户预配的。
+-   如果在禁用订阅之前从 "**转换为**csp" 帐户预配了服务，则通过从 CSP 帐户**转换**禁用订阅不会影响最终客户的服务。
 
--   订阅无法由客户使用，并且在暂停或取消时不会产生费用。
+-   订阅不能由客户使用，并且在挂起或取消时不会产生费用。
 
 -   当前无法将客户从“客户”列表中完全删除。
 

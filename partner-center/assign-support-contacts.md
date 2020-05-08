@@ -1,24 +1,24 @@
 ---
-title: 分配支持联系人 | 合作伙伴中心
+title: 为客户分配支持联系人
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何将经销商作为技术支持联系人分配给订阅 Microsoft 服务的客户。
+description: 了解如何将经销商作为技术支持联系人分配给已订阅 Microsoft 服务的客户。
 ms.assetid: 369DBE34-ABA2-40E6-BBDC-474C0CAD3A27
 author: LauraBrenner
 ms.author: labrenne
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722400"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907471"
 ---
-# <a name="assign-support-contacts"></a>分配支持联系人
+# <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>将分销商分配给客户的技术支持联系人
 
 **适用于**
 
@@ -30,7 +30,7 @@ ms.locfileid: "74722400"
 - 全局管理员
 - 支持人员代理
 - 销售代理
-- 用户管理管理员
+- “用户管理”管理员
 
 为客户设置 Microsoft 服务订阅时，你可能想要为指定的经销商分配这些产品的技术支持，而不是由你本人来提供支持。
 
@@ -43,7 +43,7 @@ ms.locfileid: "74722400"
 
 1.  首先[请求与指定的产品经销商建立关系](request-a-relationship-with-a-customer.md)。 与他们协商支持协议以便处理技术支持问题。
 
-2.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后选择 "客户"，然后选择订阅，例如 "Office 365 商业高级版"。
+2.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后选择 "客户"，然后选择 "Office 365 商业标准" 等订阅。
 
 3.  在**指定支持联系人**中，选择指定的产品经销商，然后单击**提交**。 
 
@@ -57,4 +57,4 @@ ms.locfileid: "74722400"
 
 ## <a name="related-topics"></a>相关主题
 
-[删除与客户的关系](remove-a-relationship.md)
+[删除与经销商或客户的关系](remove-a-relationship.md)

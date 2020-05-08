@@ -1,7 +1,7 @@
 ---
-title: 客户自我支持 | 合作伙伴中心
+title: 客户自我支持
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解客户在何时以及在何处可以执行自我支持来管理自己的帐户，以及何时应联系其云解决方案提供商合作伙伴。
@@ -10,23 +10,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客户自我支持, 自我支持,
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0176c1dc714435b032b1c0e7a59df5306435e86b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a1c15a75c638d557eace058d67723a86645c6e47
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798375"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907912"
 ---
-# <a name="customer-self-support"></a>客户自我支持
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>通过 Microsoft Office 365 管理中心或 Azure 门户的客户自助支持
 
 **适用于**
 
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
 
-
-客户可以登录自己的 Microsoft Office 365 管理中心或 Azure 管理门户，管理自己的帐户：
+客户可登录其自己的 Microsoft Office 365 管理中心或 Azure 门户来管理自己的帐户：
 
 -   在消息中心中查看产品内通讯和通知，如服务运行状况通知。
 

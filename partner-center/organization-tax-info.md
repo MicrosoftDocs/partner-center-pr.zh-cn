@@ -1,22 +1,22 @@
 ---
-title: 组织税收信息 | 合作伙伴中心
+title: 为商业税添加或提交 VAT ID
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 适用于企业的 Windows 应用商店购买的税收由你的企业地址确定。 位于以下国家/地区的企业可以提供其增值税编号或本地等效项：
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005026"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907322"
 ---
-# <a name="company-tax-information"></a>公司税务信息
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>公司税务信息以及如何为合作伙伴中心购买添加或提交 VAT Id
 
 **适用于**
 
@@ -25,7 +25,7 @@ ms.locfileid: "75005026"
 **相应的角色**
 -   全局管理员
 -   用户管理员
--   帐单管理员
+-   计费管理员
 -   管理员代理
 -   销售代理
 
@@ -36,7 +36,7 @@ ms.locfileid: "75005026"
 只有全局管理员、帐单管理员或管理代理才能编辑计费配置文件。
 
 1.  从**合作伙伴中心仪表板**中转到 "**设置**"，然后选择 "**计费配置文件**"。
-2.  在“财经数据”部分中，选择“更新”。
+2.  在“财经数据”**** 部分中，选择“更新”****。
 3.  在 "**公司税务 id** " 字段中，输入你的 VAT id 号。
 
 ## <a name="submit-vat-id-number"></a>提交 VAT ID 号

@@ -1,21 +1,22 @@
 ---
-title: 一次性计费方案，并选择定期购买 |合作伙伴中心
+title: 一次性 & 定期购买的帐单
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 description: 请参阅合作伙伴中心计费示例一次，并选择定期购买--在购买订阅时，添加更多订阅，添加或删除座位。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 计费，付款，一次购买，个定期购买，个订阅，座位
 ms.localizationpriority: medium
-ms.openlocfilehash: 7614721d4b10656681c177996f9b2cc3addd85f4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798525"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908202"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>一次性并选择定期购买计费方案
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>一次合作伙伴中心计费方案，并选择定期购买
 
 **相应的角色**
 

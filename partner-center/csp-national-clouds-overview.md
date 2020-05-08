@@ -1,7 +1,7 @@
 ---
-title: 申请在 Microsoft 国家云中销售 | 合作伙伴中心
+title: 申请在 Microsoft 国家云中销售
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商计划中的 Microsoft 合作伙伴如何向在受支持的国家/地区注册的客户进行销售。
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 国家云, 德国 Microsoft 云, Microsoft Cloud for US Government, 世纪互联, 中国 Microsoft 云
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798455"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908065"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>申请在 Microsoft 国家云中销售
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>适用于作为 CSP 计划的一部分在 Microsoft 国家标准云中销售
 
 除了向全球云解决方案提供商计划中的客户进行销售之外，合格的 Microsoft 合作伙伴还可以在三个单独的国家云中向客户销售云解决方案。 国家云是物理和逻辑网络隔离的 Microsoft 企业云服务实例，它们被限制在特定的国家/地区地理边界内，并由本地人员运营。 
 
@@ -36,7 +37,7 @@ Microsoft 可在国家云中提供以下服务：
 
     有关如何注册以及在 Microsoft Cloud for US Government 中向客户进行销售的信息，请参阅 [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
--   [**德国 Microsoft 云**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) 德国 Microsoft 云通过一种独特模式从德国数据中心提供 Azure、Office 365 和 Dynamics 365。 在此模式中，客户数据的访问权限由根据德国法律运营的独立德国数据受托人控制。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，并作为德国 Microsoft 云的独立数据受托人。 
+-   [**德国 Microsoft 云**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) 德国 Microsoft 云通过一种独特模式从德国数据中心提供 Azure、Office 365 和 Dynamics 365。 在此模式中，客户数据的访问权限由根据德国法律运营的独立德国数据受托人控制。 作为德国 Telekom 子公司的 T 系统国际 GmbH 充当 Microsoft 云德国的独立数据受信者。
 
     > [!IMPORTANT]  
     > 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。

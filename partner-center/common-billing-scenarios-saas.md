@@ -1,21 +1,22 @@
 ---
-title: 基于许可证的 SaaS 事务的常见计费方案 |合作伙伴中心
+title: 基于计费许可证的 SaaS 事务
 ms.topic: article
-ms.date: 03/26/2020
+ms.date: 05/05/2020
 description: 了解基于许可证的 SaaS 交易的合作伙伴中心的常见计费方案。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 计费，付款，一次购买，个定期购买，个订阅，座位
 ms.localizationpriority: medium
-ms.openlocfilehash: 18565c3390559fafefd1f32dac85ff0d2310deb8
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02a50f5be3c19f179014fd7db4e1418ba025e874
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798515"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908192"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>基于许可证的 SaaS 事务的计费方案
+# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>合作伙伴中心基于许可证的 SaaS 事务的常见计费方案
 
 **相应的角色**
 

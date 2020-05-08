@@ -1,7 +1,7 @@
 ---
-title: 通过云解决方案提供商销售本地软件 | 合作伙伴中心
+title: 通过云解决方案提供商销售本地软件
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何代表合作伙伴中心的客户购买、管理、销售和取消本地软件订阅。
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798435"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908034"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>通过云解决方案提供商销售本地软件
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商（CSP）计划出售本地软件
 
 **相应的角色**
 
