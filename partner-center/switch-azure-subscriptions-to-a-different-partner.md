@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205575"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194387"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
@@ -32,7 +32,7 @@ ms.locfileid: "82205575"
 
 >[!Note]  
 >目前，只有直接或间接提供程序可以传输订阅。
->对于与 Office 365、企业移动性套件或 Microsoft Dynamics CRM 订阅关联的云解决方案提供商订阅，不能更改合作伙伴。
+>不能更改与 Azure 计划、Office 365、企业移动性套件或 Microsoft Dynamics CRM 订阅关联的云解决方案提供商订阅的合作伙伴。
 
 **针对 Azure 订阅切换合作伙伴**
 
@@ -57,7 +57,7 @@ ms.locfileid: "82205575"
 
 3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
 
-   - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 "**帐户设置** &gt; " "**组织配置文件**"，并使用其中列出的**Microsoft ID**、**组织名称**和**地址**。
+   - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 "**帐户设置**" " &gt; **组织配置文件**"，并使用其中列出的**Microsoft ID**、**组织名称**和**地址**。
 
    - 客户的 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 "**客户**"，然后展开客户的列表以查看其**Microsoft ID**。
 
