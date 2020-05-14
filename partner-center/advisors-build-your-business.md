@@ -3,19 +3,18 @@ title: 添加具有 Office 365 试用产品/服务的客户端
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: 了解授权 Microsoft 顾问如何增长其 Office 365 订阅。 创建并向客户端发送 Office 365 试用邀请和购买优惠。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 顾问，office 365
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2a45e6fdbf64a888f2d8b6a934e14ad33f3647b6
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: ae1894f592ed066b521e217558b6b6c4142bc62c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907466"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362655"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>顾问：通过 Office 365 试用邀请和购买优惠构建客户群
 

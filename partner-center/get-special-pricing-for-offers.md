@@ -1,5 +1,5 @@
 ---
-title: 向特定行业销售 | 合作伙伴中心
+title: 向特定行业销售
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 064d8619f9c6d3247f43bc519aea5e0679ffabf3
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798205"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362595"
 ---
 # <a name="sell-to-specialized-industries"></a>向特定行业销售
 
@@ -36,39 +36,32 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育水平   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
 |Government   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
-|非营利组织  |无<br>必须具有非盈利的 Azure Active Directory 租户。<br>了解有关[非赢利特别优惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
-
+|非营利组织  |无<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解有关[非赢利特别优惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
 
-以下步骤仅适用于间接提供商和直接帐单合作伙伴。 间接经销商需要与间接提供商联系，以向合格的教育用户提供学术定价的产品/服务。 
+以下步骤仅适用于间接提供商和直接帐单合作伙伴。 间接经销商需要与间接提供商联系，以向合格的教育用户提供学术定价的产品/服务。
 
-1.  在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中，选择窗口右上角的齿轮图标以打开 "**帐户设置**"。
-2.  在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。
-3.  如果看不到 "**分销商资格**"，则尚未获授权购买任何特别优惠。
+1. 在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中，选择窗口右上角的齿轮图标以打开 "**帐户设置**"。
+
+2. 在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。
+
+3. 如果看不到 "**分销商资格**"，则尚未获授权购买任何特别优惠。
 
 ## <a name="check-the-customer-qualifications"></a>检查客户资格
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
-2.  在 customer 菜单中，选择 "**帐户**"。 在 "**公司信息**" 部分中，查找 "**特殊资格**"。
-3.  如果 "**特殊资格**" 设置为 "**无**"，但客户实际上符合该资格，则可以**更新**其详细信息以包含它们。
+1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
+
+2. 在 customer 菜单中，选择 "**帐户**"。 在 "**公司信息**" 部分中，查找 "**特殊资格**"。
+
+3. 如果 "**特殊资格**" 设置为 "**无**"，但客户实际上符合该资格，则可以**更新**其详细信息以包含它们。
 
 ## <a name="where-to-find-special-offers"></a>在哪里可以找到特价产品/服务
 
 你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在**新订阅**页的**目录**部分，选择特定行业以查看你可以销售的特价产品/服务。
 
-## <a name="see-also"></a>另请参阅
+## <a name="next-steps"></a>后续步骤
 
-[销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)
+- [销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)
 
-[适用于美国政府的 Microsoft 云合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
-
-
- 
-
- 
-
- 
-
-
-
+- [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)

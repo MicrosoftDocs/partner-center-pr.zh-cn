@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 订阅，Marketplace，第三方，ISV，CSP 合作伙伴计划，合同，销售，购买，
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908127"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362625"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>适用于在商业市场中开展业务的 CSP 合作伙伴的合同
 
@@ -48,7 +48,8 @@ ms.locfileid: "82908127"
   
 Microsoft 不会接受法律责任在约束力方之间交付服务，也不会为约束力合作伙伴提供通过其商业平台建立法律条款的机制。 如果约束力合作伙伴需要其他法律条款，则他们将需要直接执行协议。
 
-## <a name="see-also"></a>另请参阅
+## <a name="next-steps"></a>后续步骤
 
 - [对商业市场产品的支持](csp-commercial-marketplace-support.md)
+
 - [CSP 商业市场活动概述](csp-commercial-marketplace-overview.md)

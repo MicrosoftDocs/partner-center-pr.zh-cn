@@ -3,19 +3,18 @@ title: 创建购买提议
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: 了解经过授权的订阅顾问如何使用合作伙伴中心来创建购买产品/服务和自定义 URL，使其包含在 Office 365 试用邀请中。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 顾问，office 365，购买
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975108"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362675"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顾问：创建购买提议
 
@@ -26,11 +25,11 @@ ms.locfileid: "82975108"
 
 创建购买提议时，**创建购买服务**向导将为你创建一个自定义 URL。 该 URL 具有一个嵌入的代码，用于将您标识为订阅顾问。 此 URL 可用于一个或多个客户端。 通过电子邮件将 URL 发送到客户端。 或者，您可以在您的网站上发布 URL。 如果客户端接受该产品/服务，则与客户端的购买相关联。
 
-如果客户端需要不同数量的许可证，请向其发送新的产品/服务，也可以在购买订阅时更改许可证数量。 
+如果客户端需要不同数量的许可证，请向其发送新的产品/服务，也可以在购买订阅时更改许可证数量。
 
 ## <a name="to-create-a-purchase-offer"></a>创建购买提议
 
-1. 导航到**试用版和购买产品** > /服务**创建产品**/服务。
+1. 导航到**试用版和购买产品/** 服务  >  **创建产品**/服务。
 
 2. 在 "**创建购买产品/服务**" 页上，选择要包括的购买优惠选项：
 
@@ -50,7 +49,9 @@ ms.locfileid: "82975108"
     > [!NOTE]
     > 记下 "购买产品/服务"**摘要 ID**。 使用它来跟踪产品/服务。
 
-5. 你可以通过包含公司徽标、简介、结束语或其他信息来个性化该邮件。 将购买提议发送到客户端。
+5. 你可以通过包含公司徽标、简介、结束语或其他信息来个性化该邮件。
+
+    将购买提议发送到客户端。
 
 6. 自定义消息时，请考虑包含以下信息：
 

@@ -1,23 +1,23 @@
 ---
 title: 授予客户购买自己的服务的权限
+description: 了解 CSP 计划合作伙伴如何使客户能够购买自己的服务（如 Azure 保留），以便为其购买订阅。
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 CSP 计划合作伙伴如何使客户能够购买自己的服务（如 Azure 保留），以便为其购买订阅。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 订阅，自助服务购买，自助服务 RI，启用 RI，禁用 RI，自助服务，客户购买，客户权限，客户采购预订实例，客户购买 Azure 保留，启用自助服务，关闭自助服务
 ms.localizationpriority: medium
-ms.openlocfilehash: ee8f1221344ce2375aff63c52bbfd42350a29839
-ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "82255470"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362605"
 ---
-# <a name="learn-how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>了解如何授予客户购买自己的产品或服务的权限
+# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>如何向客户授予购买自己的产品或服务的权限
 
 **适用于**
 
@@ -46,13 +46,23 @@ CSP 计划中的合作伙伴通常使用合作伙伴中心及其商业市场为�
 在打开客户权限之前，请注意以下重要事项：
 
 - 默认情况下，会在合作伙伴中心中自动禁用（关闭）客户权限。
+
 - 在为客户打开（或关闭）权限之前，必须在合作伙伴中心为你分配 "管理员代理" 角色。
+
   分配有 "销售代理" 或 "技术支持" 代理角色的合作伙伴具有只读访问权限，并且不能打开或关闭客户权限。
+
 - 你可以为所选的任何客户打开（启用）权限。
+
 - 你可以使用合作伙伴中心仪表板或[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/manage-customers)打开（或关闭）客户权限。
-- 为特定客户启用（启用）权限后，你将负责为该客户所进行的任何后续购买付费。 如果客户想要交换、取消或续订已进行的购买，他们就不能这样做了。 他们需要询问你，作为合作伙伴，帮助他们交换、取消或续订这些购买内容。
+
+- 为特定客户启用（启用）权限后，你将负责为该客户所进行的任何后续购买付费。 如果客户想要交换、取消或续订已进行的购买（或者他们想要更改预订的初始范围），他们将无法自行完成此操作。 他们需要询问你，作为合作伙伴，帮助他们交换、取消和续订购买，或在以后对预订范围做出更改。  
+
 - 为特定客户启用权限后，你将**不**会收到客户对你的任何以后购买的通知。
+
 - 以后购买的客户将显示在合作伙伴中心，以及你所做的任何购买。 您可以在客户的**订单历史记录**页、其**预订**页或[**活动日志**](activity-logs.md)中找到这些购买内容。
+
+>[!NOTE]
+> 有关客户将支付的价格以及如何帮助客户管理其购买的信息，请参阅[帮助客户管理他们购买的预订](give-customers-permission.md#help-customers-manage-reservations-they-purchase)。
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>授予客户购买自己的 Azure 预订的权限
 
@@ -61,7 +71,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 现在，你可以选择代表你的客户购买 Azure 预订，因为你可能已经做了。 或者，你可以授予客户购买自己的 Azure 预订的权限。
 
 >[!NOTE]
-> 向客户授予购买自己的 Azure 预订的权限后，你可以帮助他们了解如何管理他们购买的任何预订。 例如，客户可能想知道如何优化保留的使用或如何更改保留的范围。 有关这些主题的详细信息，请客户阅读[Azure 资源的管理预订]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+> 向客户授予购买自己的 Azure 预订的权限后，可帮助他们管理他们购买的任何预订。 有关详细信息，请参阅[帮助客户管理他们购买的预订](give-customers-permission.md#help-customers-manage-reservations-they-purchase)。
 
 ### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>让客户购买自己的 Azure 预订
 
@@ -125,10 +135,33 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 7. 若要启用客户权限，请将此选项旁的开关移到 "**开**" 位置。 若要关闭客户权限，请将开关移到 "**关闭**" 位置。
 
 >[!NOTE]
-> 若要了解当你打开客户的权限来购买自己的 Azure 预订时，还会发生什么情况，请参阅[合作伙伴中心的客户权限概述](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)。 当你打开（或关闭）客户权限时，活动日志将记录每个操作。 （如果从 "合作伙伴中心" 仪表板顶部选择齿轮图标，则可以访问此日志）。 当你打开或关闭客户权限时，该操作将在活动日志中显示为 "**创建客户购买权限**" 或 "**删除客户购买权限**"。
+> 若要了解当你打开客户的权限来购买自己的 Azure 预订时，还会发生什么情况，请参阅[合作伙伴中心的客户权限概述](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)。
+>
+>当你打开（或关闭）客户权限时，活动日志将记录每个操作。 （如果从 "合作伙伴中心" 仪表板顶部选择齿轮图标，则可以访问此日志）。 当你打开或关闭客户权限时，该操作将在活动日志中显示为 "**创建客户购买权限**" 或 "**删除客户购买权限**"。
 
-## <a name="see-also"></a>请参阅
+## <a name="help-customers-manage-reservations-they-purchase"></a>帮助客户管理他们购买的预订
+
+一旦你向客户提供购买其自己的 Azure 预订的权限，你就可以帮助他们更好地管理他们购买的任何资源。 客户可以直接从[Azure 门户](https://portal.azure.com/)管理 Azure 预订的许多方面。 他们将需要你的帮助来管理他们在 CSP 订阅中购买的 Azure 保留部分的其他方面。  
+
+帮助客户更详细地了解如何管理 Azure 预订的这些方面：
+
+- 价格客户将支付 Azure 预订费用
+- 客户如何优化 Azure 预订的使用
+- 当客户购买具有共享作用域的预留时，会发生什么情况？
+- 如果客户想要更改、取消和续订预订，或更改其作用域，会发生什么情况？
+
+**价格客户将为其预留付费。** 你的客户将根据你先前为 CSP 合作伙伴计费帐户购买的订阅购买 Azure 预订。 客户根据此订阅购买的任何 Azure 预订的价格也由您设置。 此价格可能与客户在 Azure 门户中看到的 Web 直接价格不同。
+
+**客户如何优化预订的使用。** 一些客户可以从了解有关如何优化预订使用情况的详细信息，或者如何在购买过程中分配预订的初始范围。 有关详细信息，请客户阅读[Azure 资源的管理预订]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+
+**当客户购买具有共享作用域的预订时，会发生什么情况？** 当客户基于之前的 CSP 订阅购买保留并为该预订分配共享范围时，CSP 提供的任何折扣将应用于 CSP 合作伙伴为该客户购买的所有订阅的匹配使用情况。
+
+**如果客户想要交换、取消或续订已进行的购买，或更改保留的初始范围，应执行哪些操作？** 客户需要咨询合作伙伴来帮助他们更改保留的初始范围。 他们还需要合作伙伴的帮助来交换、取消或续订预订。 它们不能根据为 CSP 合作伙伴购买的订阅，使用预订来执行这些任务。
+
+## <a name="next-steps"></a>后续步骤
 
 - [代表你的客户购买 Azure 预订](azure-reservations-buying.md)
+
 - [合作伙伴中心-销售 Microsoft 预订](azure-reservations.md)
-- [代表客户管理 Azure 预订](azure-reservations-manage.md) 
+
+- [代表客户管理 Azure 预订](azure-reservations-manage.md)

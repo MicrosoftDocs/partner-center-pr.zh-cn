@@ -1,5 +1,5 @@
 ---
-title: 查看规划服务预订的资格要求 |合作伙伴中心
+title: 查看规划服务预订的资格要求
 ms.topic: article
 ms.date: 03/24/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: 预部署、计划、软件保障、预订、要求、资格、产品
 ms.localizationpriority: medium
-ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296434"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362445"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看规划服务预订的资格要求
 
@@ -34,14 +34,14 @@ ms.locfileid: "80296434"
 
 |**了解这些约定的资格要求**   |**请参阅此产品的产品介绍**  |
 |:------------------------------------|:------------------|
-| Windows 和 Office 部署规划<br> 移动生产力部署规划<br> 新式 IT 企业安全概念证明</br>  | [桌面部署规划服务（DDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| 升级 Microsoft Dynamics 365 以供客户参与<br> 迁移到 Microsoft Dynamics 365 以供客户参与<br> 升级适用于财务和运营的 Microsoft Dynamics 365</br>  | [Dynamics 部署规划服务（DYDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Windows 和 Office 部署规划<br/><br/> 移动生产力部署规划<br/><br/> 新式 IT 企业安全概念证明 | [桌面部署规划服务（DDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| 升级 Microsoft Dynamics 365 以供客户参与<br/><br/> 迁移到 Microsoft Dynamics 365 以供客户参与<br/><br/> 升级适用于财务和运营的 Microsoft Dynamics 365  | [Dynamics 部署规划服务（DYDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | 现代化 Windows Server 平台 | [私有云、管理和虚拟化规划服务（PVDPS）服务](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | SharePoint 部署规划   | [SharePoint 部署规划服务（SDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange 部署规划<br> Skype for Business 部署规划</br>  | [Skype for Business 和 Exchange 部署规划服务（EDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Exchange 部署规划<br/><br/> Skype for Business 部署规划  | [Skype for Business 和 Exchange 部署规划服务（EDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | 数据空间现代化  | [SQL Server 部署规划服务（SSDPS）服务](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>另请参阅
+## <a name="next-steps"></a>后续步骤
 
 - [软件保障计划服务工作流](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [软件保障规划服务常见问题解答](https://go.microsoft.com/fwlink/?linkid=2116077)

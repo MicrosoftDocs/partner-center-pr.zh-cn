@@ -3,24 +3,23 @@ title: 创建 Office 365 试用邀请
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: 了解合作伙伴如何为其客户端创建和发送试用邀请以试用 Office 365。 合作伙伴很多都是已获授权的订阅顾问。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 顾问，office 365，试用版
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907440"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362615"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365
 
 > [!NOTE]
-> 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。 
+> 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。
 
 你可以创建试用邀请并发送到你的客户端，以便他们可以试用 Office 365。 创建试用邀请时，"**创建试用邀请**" 向导将为你创建一个自定义 URL。 该 URL 具有一个嵌入的代码，用于将您标识为订阅顾问。 此 URL 可用于一个或多个客户端。 通过电子邮件将 URL 发送到客户端，或在其他文档中使用 URL。 该订阅可以包含一个或多个服务，具体取决于特定的套餐。 一次只能为一个试用订阅发送邀请。
 
@@ -28,7 +27,7 @@ ms.locfileid: "82907440"
 
 ## <a name="to-create-a-trial-invitation"></a>创建试用邀请
 
-1. 导航到**试用版和购买优惠** > **创建邀请**。
+1. 导航到**试用版和购买优惠**  >  **创建邀请**。
 
 2. 在 "**创建试用邀请**" 页上，选择要包括的试用邀请选项：
 
@@ -40,7 +39,7 @@ ms.locfileid: "82907440"
     - **试用订阅**：可以选择的试用订阅列表由客户所在的国家或地区的使用位置决定。
     - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，则客户端可以接受或不接受委派管理的试用邀请。 有关委派管理的详细信息，请参阅[提供委派管理](customers_revoke_admin_privileges.md)。
 
-3. 单击“下一步”。 
+3. 单击“下一步”  。
 
 4. 在**您的试用邀请**页面上，复制试用邀请信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义的试用邀请。
 

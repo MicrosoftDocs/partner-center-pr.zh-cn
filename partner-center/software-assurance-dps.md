@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 预部署、规划、软件保障
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296406"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362435"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 
@@ -87,7 +87,7 @@ ms.locfileid: "80296406"
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>完成参与并向客户提供可交付结果（现有合作伙伴）
 
-为了符合交付计划服务的条件，顾问必须已完成一个或多个技术评估或活动，才能获得订婚资格资格。 （若要了解有关所需的评估或考试的详细信息，请[查看规划服务预订的资格要求](software-assurance-dps-requirements.md)。） 
+为了符合交付计划服务的条件，顾问必须已完成一个或多个技术评估或活动，才能获得订婚资格资格。 （若要了解有关所需的评估或考试的详细信息，请[查看规划服务预订的资格要求](software-assurance-dps-requirements.md)。）
 
 在公司完成订婚并向客户提供最终完成的可交付成果后，你需要填写并提交联机完成报表。
 
@@ -103,7 +103,7 @@ ms.locfileid: "80296406"
 
 若要通过 SAVB 将发票提交给 Microsoft，请按照工作流[步骤 8](https://go.microsoft.com/fwlink/?linkid=2115983)中的说明进行操作。
 
-## <a name="see-also"></a>另请参阅
+## <a name="next-steps"></a>后续步骤
 
 - [软件保障计划服务工作流](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [软件保障规划服务常见问题解答](https://go.microsoft.com/fwlink/?linkid=2116077)

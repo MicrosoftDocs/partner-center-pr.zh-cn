@@ -1,29 +1,29 @@
 ---
-title: 创建、暂停或取消客户订阅 | 合作伙伴中心
+title: 创建、暂停或取消客户订阅
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解在合作伙伴中心创建客户记录后如何向目录中的产品销售客户订阅。
+description: 了解在合作伙伴中心创建客户记录后，如何将客户的订阅销售给目录中的产品。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 订阅，新建，添加订阅，暂停，取消，挂起，暂停，SaaS，许可证，ISV，第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114989"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362355"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
--  云解决方案提供商合作伙伴
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
+- 云解决方案提供商合作伙伴
 
 **相应的角色**
 
@@ -33,20 +33,20 @@ ms.locfileid: "80114989"
 - 支持人员代理
 - 销售代理
 
-在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。 这包括 Microsoft 发布的产品以及由第三方独立软件供应商（Isv）发布的软件即服务（SaaS）产品到[商业市场](https://azuremarketplace.microsoft.com/marketplace)。 
+在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。 这包括 Microsoft 发布的产品以及由第三方独立软件供应商（Isv）发布的软件即服务（SaaS）产品到[商业市场](https://azuremarketplace.microsoft.com/marketplace)。
 
-请注意，对于某些套餐，每个客户只能有一份订阅。 若要查看受限制的套餐列表，请访问合作伙伴中心定价和套餐页面。
+某些产品/服务仅限每个客户一个订阅。 若要查看受限制的套餐列表，请访问合作伙伴中心定价和套餐页面。
 
 >[!IMPORTANT]
 作为 CSP 计划中的合作伙伴，只能从合作伙伴中心内的 ISV 发布者购买**基于许可证的**SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何**基于许可证**的 SaaS 产品/服务，包括你有权访问的[独家产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要购买或管理其他商业市场，请参阅 Isv 提供的产品/服务（例如**基于使用情况**、按流量计费或基于消耗的产品/服务，包括 azure 应用程序、容器或 vm），你必须使用[azure 管理门户](https://portal.azure.com/)。 有关详细信息，请参阅[购买商业 marketplace 产品](csp-commercial-marketplace-purchase.md)。
 
 ## <a name="create-a-new-subscription"></a>创建新订阅
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
 
-3. 选择“添加订阅”。 "**联机服务**" 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
+3. 选择“添加订阅”****。 "**联机服务**" 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
 
 4. 若只要查看特定类型的订阅，请在可用筛选器中进行选择：
    - **发布者**：选择**microsoft**仅查看来自 microsoft 或**合作伙伴**的产品/服务，以查看由 isv 发布的商业 marketplace 产品。
@@ -58,7 +58,7 @@ ms.locfileid: "80114989"
     - 该客户已订阅该产品，只允许使用一个
 
     - 客户的订阅可能已挂起（在这种情况下，您可以重新激活订阅，而不是购买新订阅。）
-    
+
     - 对于 ISV SaaS 产品/服务，可能有几个原因无法购买产品/服务： ISV 可能不支持客户的计费国家或地区;ISV 可能已选择不通过 CSP 计划提供产品/服务;或者，ISV 可能已[仅向特定的 CSP](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)合作伙伴提供产品/服务。 ISV 产品/服务可能也不会通过合作伙伴中心事务（例如，容器或某些基于使用情况的产品/服务）。  
 
 6. 对于要添加的每个订阅，输入许可证数量（如果需要），并选择 "**添加到购物车**"。
@@ -73,8 +73,8 @@ ms.locfileid: "80114989"
 
     **对于 ISV SaaS （基于许可证）订阅：**
     - 你将收到 ISV 发布者网站的链接。 此链接应有助于你完成客户订阅的部署或帐户设置。 （请注意，你和你的客户都不会收到一封电子邮件，其中包含为此类型的 ISV 订阅设置/预配的说明。）
-    
-    - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 免费试用期结束后，订阅期限将开始，订阅将转换为 "已支付"。 然后，订阅将根据相同的计划自动续订。
+
+    - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 在免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，将根据相同的计划 autorenew 订阅。
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暂停或取消订阅
 
@@ -82,19 +82,19 @@ ms.locfileid: "80114989"
 
 ### <a name="suspend-a-subscription"></a>暂停订阅
 
-当你将订阅状态更改为“已暂停”时，用户将无法登录或访问服务。
+当你将订阅状态更改为“已暂停”**** 时，用户将无法登录或访问服务。
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
 
 3. 选择要管理的订阅。
 
-4. 在“状态”部分，选择“已暂停”。 然后**提交**更改。
+4. 在“状态”部分，选择“已暂停”   。 然后“提交”更改  。
 
 5. 除非在 90 天内或在 90 天加上帐户开具时间与第一个计费周期之间的天数内（最长 120 天）重新激活订阅，否则所有数据将被删除。
 
-暂停订阅后，你在“暂停”按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 有关详细信息，请参阅[有关新的计费功能的常见问题](faq-about-new-billing-features.md)。
+暂停订阅后，你在“暂停”**** 按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 有关详细信息，请参阅[有关新的计费功能的常见问题](faq-about-new-billing-features.md)。
 
 ### <a name="cancel-a-subscription"></a>取消订阅
 
@@ -117,15 +117,15 @@ ms.locfileid: "80114989"
 > [!NOTE]
 > 使用基于使用情况和计量的第三方 ISV 服务（例如，使用虚拟机或容器的服务）不适合返回。 基于使用情况的服务可以取消预配为取消方法。 由于在使用后费用会计费，因此这些服务没有资格获得退款。
 
-若要取消 ISV 发布者的基于许可证的 SaaS 订阅，请执行以下操作：
+若要从 ISV 发行商取消基于许可证的 SaaS 订阅，请执行以下操作：
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
 
 3. 找到要取消的订阅。
 
-4. 在 "**状态**" 列中，选择 "**取消**"。 然后**提交**更改。
+4. 在 "**状态**" 列中，选择 "**取消**"。 然后“提交”更改  。
 
 5. 如果出现一个对话框，请填写所有相关的详细信息，然后选择 "**提交**"。
 
@@ -140,22 +140,22 @@ ms.locfileid: "80114989"
 
 若要阻止有效的商业市场订阅自动续订：
 
-1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
 
-3.  选择 "**订阅**"。 这会列出已为客户购买的任何基于许可证的订阅。
+3. 选择 "**订阅**"。 这会列出已为客户购买的任何基于许可证的订阅。
 
-4.  在 "**订阅**" 列中，选择要修改的订阅。
+4. 在 "**订阅**" 列中，选择要修改的订阅。
 
-5. 在 "订阅详细信息" 页中，找到 "**状态**" 部分并取消选中 "**自动续订**" 框。 
+5. 在 "订阅详细信息" 页中，找到 "**状态**" 部分并取消选中 "**自动续订**" 框。
 
-6. 选择“提交”。
+6. 选择“提交”  。
 
-## <a name="see-also"></a>另请参阅
+## <a name="next-steps"></a>后续步骤
 
 - [为客户购买商业市场产品](csp-commercial-marketplace-purchase.md)
+
 - [为客户管理商业 marketplace 产品](csp-commercial-marketplace-manage.md)
+
 - [商业市场概述](csp-commercial-marketplace-overview.md)
-
-

@@ -1,5 +1,5 @@
 ---
-title: 了解 Microsoft 产品/服务的市场推广 |合作伙伴中心
+title: 了解 Microsoft 产品/服务的市场推广
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN，成员资格权益，成员资格，走向市场产品/服务市场，进入市场，金牌成员身份，银成员资格
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226203"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362715"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>利用 Microsoft 产品/服务探索市场推广
 
@@ -34,7 +34,6 @@ ms.locfileid: "80226203"
 
 >[!NOTE]
 >如果尚未成为 Microsoft 合作伙伴网络的成员，请在[Microsoft 合作伙伴网络站点](https://partner.microsoft.com/membership)上加入。
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>按成员资格级别提供的市场资源、产品/服务和计划
 
@@ -67,11 +66,11 @@ ms.locfileid: "80226203"
 
 1. 登录到合作伙伴中心[面板]( https://docs.microsoft.com/partner-center/)。
 
-2. 在左侧菜单中，选择 " **MPN**"。 然后，执行下列操作之一：
+2. 在左侧菜单中，选择 " **MPN**"。 然后执行以下操作之一：
 
-    - 选择 "**概述**"。 滚动到 "**快速链接**" 部分，然后选择 "**走向市场**" 选项卡。
+    - 选择“概述”。  滚动到 "**快速链接**" 部分，然后选择 "**走向市场**" 选项卡。
 
-      或者
+      或
 
     - 选择后跟**市场推广**的**权益**。
 
@@ -84,10 +83,10 @@ ms.locfileid: "80226203"
 >[!IMPORTANT]
 >你需要是全局管理员或 MPN 合作伙伴管理员，才能激活特定的投放市场服务并分配相关的市场营销联系人。 如果需要，可以根据[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明成为全局管理员（需要登录）。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
 
-#### <a name="see-also"></a>另请参阅
+## <a name="next-steps"></a>后续步骤
 
-[管理你的合作伙伴网络权益](manage-your-partner-network-benefits.md)
+- [管理你的合作伙伴网络权益](manage-your-partner-network-benefits.md)
 
-[购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
+- [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
 
-[了解胜任度](learn-about-competencies.md)
+- [了解胜任度](learn-about-competencies.md)
