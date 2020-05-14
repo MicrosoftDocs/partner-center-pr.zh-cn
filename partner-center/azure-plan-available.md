@@ -1,21 +1,19 @@
 ---
-title: Azure CSP 中提供的 Azure 服务 | 合作伙伴中心
+title: Azure CSP 中提供的 Azure 服务
+description: 本部分介绍了 Azure 云解决方案提供商 (CSP) 计划中可用的和不可用的 Azure 服务。
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 本部分介绍了 Azure 云解决方案提供商 (CSP) 计划中可用的和不可用的 Azure 服务。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024091"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369274"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Azure CSP 中提供的 Azure 服务
 
@@ -30,16 +28,16 @@ ms.locfileid: "79024091"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP 中提供的 Azure 服务
 
-本部分介绍了 Azure 云解决方案提供商 (CSP) 计划中可用的和不可用的 Azure 服务。 另外还介绍了 [Microsoft Azure 德国](https://azure.microsoft.com/overview/clouds/germany/)和 [Microsoft Azure 政府](https://azure.microsoft.com/overview/clouds/government/)这两个国家/地区云中的服务可用性。
+本文列出了 Azure 云解决方案提供商 (CSP) 计划中可用的 Azure 服务和不可用的 Azure 服务。 另外还介绍了 [Microsoft Azure 德国](https://azure.microsoft.com/overview/clouds/germany/)和 [Microsoft Azure 政府](https://azure.microsoft.com/overview/clouds/government/)这两个国家/地区云中的服务可用性。
 
 >[!Note]
 >[Azure 中国]( https://www.azure.cn/)在 Azure CSP 计划中不可用。
 
-### <a name="global-cloud"></a>全球云 
+## <a name="global-cloud"></a>全球云
 
 CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 Azure 资源管理器服务在 CSP 计划中不可用。  
 
-### <a name="csp-specific-service-configurations"></a>特定于 CSP 的服务配置
+## <a name="csp-specific-service-configurations"></a>特定于 CSP 的服务配置
 
 以下服务需要 CSP 中的特殊配置：
 
@@ -47,15 +45,15 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 - [Azure Active Directory 域服务](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure 时序见解](https://azure.microsoft.com/services/time-series-insights/) 仅客户租户中的用户可以访问其时序见解环境中的数据。 默认情况下，合作伙伴可以管理他们客户的时序见解环境，但如果合作伙伴需要访问其中的数据，他们则必须被添加到客户租户中。 
+- [Azure 时序见解](https://azure.microsoft.com/services/time-series-insights/) 仅客户租户中的用户可以访问其时序见解环境中的数据。 默认情况下，合作伙伴可以管理他们客户的时序见解环境，但如果合作伙伴需要访问其中的数据，他们则必须被添加到客户租户中。
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 现在可以从 Visual Studio Marketplace 中购买下面列出的项目，但第三方扩展除外。
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Visual Studio 订阅](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 为帮助你入门，我们创建了关于在 CSP 中[如何设置、购买和管理 Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) 的视频和文档。
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP 中的 Azure 市场项
+## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP 中的 Azure 市场项
 
 目前，并非所有 Azure 市场项在 Azure CSP 订阅中都可用。
 
@@ -71,12 +69,13 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 - 自带许可 (BYOL) 项：这些项可用。 [Azure 市场 BYOL 页](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)上提供了支持 BYOL 的 Azure 市场项的完整列表。
 
-- 即用即付第三方 Azure 市场项：如果提供程序已发布到 CSP 渠道，则可以使用这些项。 有关详细信息，请参阅[销售 Azure 市场产品的订阅](https://aka.ms/marketplaceincsp)。   
+- 即用即付第三方 Azure 市场项：如果提供程序已发布到 CSP 渠道，则可以使用这些项。 有关详细信息，请参阅[销售 Azure 市场产品的订阅](https://aka.ms/marketplaceincsp)。
 
 - Citrix XenApp Essentials：合作伙伴可以为 CSP 中的客户购买 XenApp Essentials。 有关详细信息，请参阅以下 Citrix 博客：[XenApp Essentials 发行版现可通过 Microsoft 云解决方案提供商渠道获取](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)。
 
-### <a name="national-clouds"></a>国家/地区云 
-下表显示了国家/地区云中适用于 CSP 的第一方 Azure 产品、服务和功能的定期更新列表。 
+## <a name="national-clouds"></a>国家/地区云
+
+下表显示了国家/地区云中适用于 CSP 的第一方 Azure 产品、服务和功能的定期更新列表。
 
 | Azure 产品、服务或功能 | 美国政府 | 德国 |
 | ------ | :-----------: | :-----------: |
@@ -187,7 +186,7 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 |  Azure Migrate  |    |    |
 |  管理组  |    |  
 
-### <a name="next-steps"></a>后续步骤
+## <a name="next-steps"></a>后续步骤
 
 - [了解](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview)适用于合作伙伴中心的 Azure 的功能。
 
