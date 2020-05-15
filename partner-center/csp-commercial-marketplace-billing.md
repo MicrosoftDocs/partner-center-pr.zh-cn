@@ -1,7 +1,7 @@
 ---
 title: 商业应用商店产品的帐单
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何针对从合作伙伴中心内的商业市场为客户购买的 ISV SaaS 产品或订阅付费。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 订阅，产品，购买，Marketplace，第三方，ISV，计费，发票，协调，侦测文件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908124"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394158"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 

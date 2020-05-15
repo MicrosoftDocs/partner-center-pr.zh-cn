@@ -2,7 +2,7 @@
 title: 授予客户购买自己的服务的权限
 description: 了解 CSP 计划合作伙伴如何使客户能够购买自己的服务（如 Azure 保留），以便为其购买订阅。
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 订阅，自助服务购买，自助服务 RI，启用 RI，禁用 RI，自助服务，客户购买，客户权限，客户采购预订实例，客户购买 Azure 保留，启用自助服务，关闭自助服务
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362605"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394138"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>如何向客户授予购买自己的产品或服务的权限
 
@@ -128,7 +128,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 
 5. 查找页面底部的 "**客户权限**" 区域。
 
-   ![客户权限帐户页](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="客户权限帐户页。" border="true":::
 
 6. 在 " **Azure 保留**" 下，找到 "**允许客户购买**" 选项。
 
@@ -152,7 +152,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 
 **价格客户将为其预留付费。** 你的客户将根据你先前为 CSP 合作伙伴计费帐户购买的订阅购买 Azure 预订。 客户根据此订阅购买的任何 Azure 预订的价格也由您设置。 此价格可能与客户在 Azure 门户中看到的 Web 直接价格不同。
 
-**客户如何优化预订的使用。** 一些客户可以从了解有关如何优化预订使用情况的详细信息，或者如何在购买过程中分配预订的初始范围。 有关详细信息，请客户阅读[Azure 资源的管理预订]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+**客户如何优化预订的使用。** 一些客户可以从了解有关如何优化预订使用情况的详细信息，或者如何在购买过程中分配预订的初始范围。 有关详细信息，请客户阅读[Azure 资源的管理预订](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
 
 **当客户购买具有共享作用域的预订时，会发生什么情况？** 当客户基于之前的 CSP 订阅购买保留并为该预订分配共享范围时，CSP 提供的任何折扣将应用于 CSP 合作伙伴为该客户购买的所有订阅的匹配使用情况。
 

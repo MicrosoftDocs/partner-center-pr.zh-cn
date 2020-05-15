@@ -1,21 +1,22 @@
 ---
-title: 创建、暂停或取消客户订阅
+title: 在合作伙伴中心创建客户订阅
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解在合作伙伴中心创建客户记录后，如何将客户的订阅销售给目录中的产品。
+description: 了解如何向 Microsoft 发布的产品以及第三方 Isv 发布的 SaaS 产品销售客户订阅。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: 订阅，新建，添加订阅，暂停，取消，挂起，暂停，SaaS，许可证，ISV，第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362355"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394144"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -37,12 +38,12 @@ ms.locfileid: "83362355"
 
 某些产品/服务仅限每个客户一个订阅。 若要查看受限制的套餐列表，请访问合作伙伴中心定价和套餐页面。
 
->[!IMPORTANT]
-作为 CSP 计划中的合作伙伴，只能从合作伙伴中心内的 ISV 发布者购买**基于许可证的**SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何**基于许可证**的 SaaS 产品/服务，包括你有权访问的[独家产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要购买或管理其他商业市场，请参阅 Isv 提供的产品/服务（例如**基于使用情况**、按流量计费或基于消耗的产品/服务，包括 azure 应用程序、容器或 vm），你必须使用[azure 管理门户](https://portal.azure.com/)。 有关详细信息，请参阅[购买商业 marketplace 产品](csp-commercial-marketplace-purchase.md)。
+> [!IMPORTANT]
+> 作为 CSP 计划中的合作伙伴，只能从合作伙伴中心内的 ISV 发布者购买**基于许可证的**SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何**基于许可证**的 SaaS 产品/服务，包括你有权访问的[独家产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要购买或管理其他商业市场，请参阅 Isv 提供的产品/服务（例如**基于使用情况**、按流量计费或基于消耗的产品/服务，包括 azure 应用程序、容器或 vm），你必须使用[azure 管理门户](https://portal.azure.com/)。 有关详细信息，请参阅[购买商业 marketplace 产品](csp-commercial-marketplace-purchase.md)。
 
 ## <a name="create-a-new-subscription"></a>创建新订阅
 
-1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
+1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
 
@@ -55,11 +56,11 @@ ms.locfileid: "83362355"
 
 5. 选择要为客户购买的产品订阅。 所看到的产品取决于客户段的类型（教育、政府等）和应用的筛选器。 Marketplace 上显示的某些产品/服务可能并不总是用于特定客户或特定的 CSP 合作伙伴。 这可能是因为：
 
-    - 该客户已订阅该产品，只允许使用一个
+   - 该客户已订阅该产品，只允许使用一个
 
-    - 客户的订阅可能已挂起（在这种情况下，您可以重新激活订阅，而不是购买新订阅。）
+   - 客户的订阅可能已挂起（在这种情况下，您可以重新激活订阅，而不是购买新订阅。）
 
-    - 对于 ISV SaaS 产品/服务，可能有几个原因无法购买产品/服务： ISV 可能不支持客户的计费国家或地区;ISV 可能已选择不通过 CSP 计划提供产品/服务;或者，ISV 可能已[仅向特定的 CSP](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)合作伙伴提供产品/服务。 ISV 产品/服务可能也不会通过合作伙伴中心事务（例如，容器或某些基于使用情况的产品/服务）。  
+   - 对于 ISV SaaS 产品/服务，可能有几个原因无法购买产品/服务： ISV 可能不支持客户的计费国家或地区;ISV 可能已选择不通过 CSP 计划提供产品/服务;或者，ISV 可能已[仅向特定的 CSP](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)合作伙伴提供产品/服务。 ISV 产品/服务可能也不会通过合作伙伴中心事务（例如，容器或某些基于使用情况的产品/服务）。  
 
 6. 对于要添加的每个订阅，输入许可证数量（如果需要），并选择 "**添加到购物车**"。
 

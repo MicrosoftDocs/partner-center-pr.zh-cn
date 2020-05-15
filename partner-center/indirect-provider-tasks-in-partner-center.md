@@ -1,19 +1,20 @@
 ---
 title: 与 CSP 中的间接经销商合作
+description: 作为间接提供程序或分发服务器，了解如何通过与间接经销商合作来进行扩展。 这包括你可以在合作伙伴中心执行的任务。
 ms.topic: article
-ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 作为间接提供商或分销商，了解如何通过与间接经销商合作来进行扩展。 这包括你可以在合作伙伴中心执行的任务。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 218b0d9f22bfe10aa0974b1b2db38008d0a48eaf
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.date: 02/04/2020
+ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362565"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394120"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -81,7 +82,7 @@ ms.locfileid: "83362565"
     > [!IMPORTANT]  
     >  你可以编辑电子邮件中的文本，但请确保包含该链接，因为它已针对你的合作伙伴中心帐户进行个性化。
 
-4. 经销商接受你的合作请求后，他们会出现在你的间接经销商列表中，你将能够：
+4. 经销商接受你的合作请求后，他们会出现在间接经销商列表中，然后你可以：
 
    - 代表他们添加新客户
 
@@ -99,8 +100,8 @@ ms.locfileid: "83362565"
 
 | **实现此目的** | **执行此操作** | **其中** |
 |   ------------------   |   -------   |   -----   |
-|使经销商可以管理客户的帐户，并具有管理其订阅的管理员权限 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
-|允许经销商管理一个 Azure 客户的帐户|添加新客户时将经销商与 Azure 客户帐户相关联|在 **Azure 服务门户**上，选择[用户设置](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)以授予间接经销商**租户所有者**权限|
+| 使经销商可以管理客户的帐户，并具有管理其订阅的管理员权限 | 添加新客户时将经销商与客户帐户相关联 | 在**新建客户**页面上 |
+| 允许经销商管理一个 Azure 客户的帐户|添加新客户时将经销商与 Azure 客户帐户相关联|在 **Azure 服务门户**上，选择[用户设置](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)以授予间接经销商**租户所有者**权限|
 | 给予经销商信用奖励 | 将经销商与（新的或现有的）订阅相关联 | 在**新建订阅**页面上 |
 | 委派经销商作为特定订阅的客户支持 | 从**指定支持联系人**列表中选择经销商 | 在订阅的详细信息页上：从 "**客户**" 页中选择 "客户"，然后从客户的 "**订阅**" 页中选择订阅 |
 
@@ -123,8 +124,9 @@ ms.locfileid: "83362565"
 5. 如果订单正确，请选择**提交**。 如果订单不正确，请选择**取消**以取消整个操作并重新开始。
 
 6. 在你提交订单之后，将会出现**确认**页面。 **设置信息**下面显示了管理员用户帐户名称和临时密码。 记下用户帐户名称和密码信息，以便你可以将其发送给新客户。
+
     > [!IMPORTANT]  
-    > 请确保记下 "用户帐户名" 和 "密码"，因为关闭此页后将无法再次访问此信息。
+    > 请确保记下 "用户帐户名" 和 "密码"，因为在关闭此页后，不能再次访问此信息。
 
 7. 选择“完成”  。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
 
