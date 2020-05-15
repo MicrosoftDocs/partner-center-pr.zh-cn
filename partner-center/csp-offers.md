@@ -1,22 +1,23 @@
 ---
-title: 云解决方案提供商计划中的合作伙伴套餐 | 合作伙伴中心
+title: 云解决方案提供商计划中的合作伙伴产品/服务
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解通过云解决方案提供商计划进行销售的合作伙伴可以使用的套餐。
+description: 作为云解决方案提供商计划合作伙伴，了解可以向客户销售的不断增加的 Microsoft 云服务和产品的目录。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
-ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722541"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362325"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴套餐
+# <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴产品/服务的概述
 
 **适用于**
 
@@ -39,31 +40,31 @@ ms.locfileid: "74722541"
 
 目前，你可以向 CSP 客户销售以下类型的产品和服务：
 
-- Azure 预订<br> 
+### <a name="azure-reservations"></a>Azure 预订
 
-    客户可以提前在 Azure 虚拟机上预留空间，预留期为 1 年或 3 年。<br>
-    
-    有关详细信息，请参阅[销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md)。
+   客户可以提前在 Azure 虚拟机上预留空间，预留期为 1 年或 3 年。
 
-- 软件<br>
+   有关详细信息，请参阅[销售 Microsoft Azure 虚拟机预留实例](azure-reservations.md)。
 
-    客户可以购买软件订阅（订阅 1 年或 3 年 Windows Server 和 SQL Server，以在 Azure 虚拟机预留实例上运行）。<br>
- 
-    有关详细信息，请参阅[通过 CSP 销售软件订阅](csp-software-subscriptions.md)。  
+### <a name="software"></a>软件
 
-- 在线服务<br>
+   客户可以购买软件订阅（订阅 1 年或 3 年 Windows Server 和 SQL Server，以在 Azure 虚拟机预留实例上运行）。
 
-    在线服务是目前所谓的“订阅”的新名称   。 为了更轻松地在一个地方订购多种类型的产品，我们已将“添加订阅”任务流集成到了“添加产品”任务流中。<br>
-    
-    有关详细信息，请参阅[客户订阅](customer-subscriptions.md)。
+   有关详细信息，请参阅[通过 CSP 销售软件订阅](csp-software-subscriptions.md)。  
 
-- 软件即服务 (SaaS) 和其他 [Azure 市场](https://azuremarketplace.microsoft.com/marketplace)产品<br>
+### <a name="online-services"></a>在线服务
 
-    可以销售独立软件供应商 (ISV) 提供的 SaaS 产品的订阅。 如果你只想查看“在线服务”中的 SaaS 套餐，请使用筛选器将“发行商”设置为“合作伙伴”。    此时会显示可为该客户购买的所有 SaaS 套餐。<br>
-    
-    还可以在**市场**页上找到有关这些产品的信息。 请注意，此页还包含有关必须从 Azure 门户（而不是合作伙伴中心）购买的其他产品类型的信息。<br>
+   在线服务是目前所谓的“订阅”的新名称   。 为了更轻松地在一个地方订购多种类型的产品，我们已将“添加订阅”任务流集成到了“添加产品”任务流中。
 
-    有关详细信息，请参阅[云解决方案提供商商业市场概述](CSP-commercial-marketplace-overview.md)
+   有关详细信息，请参阅[客户订阅](customer-subscriptions.md)。
+
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>软件即服务 (SaaS) 和其他 [Azure 市场](https://azuremarketplace.microsoft.com/marketplace)产品
+
+   可以销售独立软件供应商 (ISV) 提供的 SaaS 产品的订阅。 如果你只想查看“在线服务”中的 SaaS 套餐，请使用筛选器将“发行商”设置为“合作伙伴”。    此时会显示可为该客户购买的所有 SaaS 套餐。
+
+   还可以在**市场**页上找到有关这些产品的信息。 请注意，此页还包含有关必须从 Azure 门户（而不是合作伙伴中心）购买的其他产品类型的信息。
+
+   有关详细信息，请参阅[云解决方案提供商商业市场概述](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>添加产品页详细信息
 
@@ -81,14 +82,14 @@ ms.locfileid: "74722541"
 
 **类别** - 指定该产品支持的业务类型，以及是否提供试用版
 
-**查看 SKU、查看产品** - 选择此项可在“产品”和“SKU”列表之间切换。 “产品”分别列出每个产品；“SKU”列出产品组  
+**查看 SKU、查看产品** - 选择此项可在“产品”和“SKU”列表之间切换。 “产品”页面分别列出每个产品；“SKU”列出产品组   。
 
 ## <a name="buy-csp-offers"></a>购买 CSP 套餐
 
 若要代表你的 CSP 客户购买产品和服务，请选择客户所需的项，将其添加到购物车以创建订单，然后查看并提交订单。 下面描述了常规流程。 （有关特定产品类型的订单的详细信息，请参阅上面的链接。）
 
->[注意] 需在你的租户所在国家/地区和你的客户的租户所在国家/地区提供云解决方案提供商套餐。 
->例如，如果你的租户位于斯洛伐克，客户的租户位于德国，则不能向该客户销售 Dynamics 365 Business Central Premium，因为此套餐目前不在斯洛伐克提供。
+>[!Note]
+>需在你的租户所在国家/地区和你的客户的租户所在国家/地区提供云解决方案提供商套餐。 例如，如果你的租户位于斯洛伐克，客户的租户位于德国，则不能向该客户销售 Dynamics 365 Business Central Premium，因为此套餐目前不在斯洛伐克提供。
 
 1. 从“合作伙伴中心”菜单中选择“客户”，然后找到想要从你这里购买产品的客户。  
 
@@ -96,22 +97,18 @@ ms.locfileid: "74722541"
 
 3. 在“添加产品”页上，选择“Azure”、“在线服务”或“软件”。    
 
-4. 微调可用的筛选器以便更轻松地找到所需的产品。 若要查看提供的产品的完整列表，请将适用的筛选器设置为“任何”。  
+4. 微调可用的筛选器以便更轻松地找到所需的产品。 若要查看提供的产品的完整列表，请将适用的筛选器设置为“任何”。 
 
 5. 选择客户所需的产品，输入所需的数量，然后选择“添加到购物车”。 
 
 6. 重复步骤 4 和 5，直到将全部所需项添加到购物车。 选择“查看”以确认订单是否正确无误。   
 
-7. 在“查看订单”页上，检查或更改产品和数量，然后选择“购买”以购买这些产品。   
+7. 在“查看订单”页上，检查或更改产品和数量，然后选择“购买”以购买这些产品。  
 
-8. 订单详细信息（包括订单编号）将显示在下一页。 选择“完成”转到“订单历史记录”页。   
+8. 订单详细信息（包括订单编号）将显示在下一页。 选择“完成”转到“订单历史记录”页。  
 
-**了解详细信息** 
+## <a name="next-steps"></a>后续步骤
 
-若要了解计费流程的运作方式，请阅读[计费基础知识](https://docs.microsoft.com/partner-center/billing-basics)。
+有关计费流程的运作方式的信息，请参阅[计费基础知识](https://docs.microsoft.com/partner-center/billing-basics)。
 
-若要了解如何按 Azure 计划进行购买，请阅读[购买 Azure 计划](purchase-azure-plan.md)。
-
-## <a name="see-also"></a>另请参阅
-
-[云解决方案提供商商业市场概述](csp-commercial-marketplace-overview.md)
+若要了解如何按 Azure 计划进行购买，请参阅[购买 Azure 计划](purchase-azure-plan.md)。

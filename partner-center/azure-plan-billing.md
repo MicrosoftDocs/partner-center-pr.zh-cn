@@ -1,7 +1,7 @@
 ---
-title: Azure 计划计费 | 合作伙伴中心
+title: Azure 计划计费 - 发票和对帐文件
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何访问和理解与 Azure 计划计费相关的发票和对帐文件结构。
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240235"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908364"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
@@ -62,7 +63,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 ## <a name="understanding-usage-data"></a>了解使用情况数据 
 
-1. Azure 计划是使用情况的根或顶级容器。 所有使用情况都要关联回单个 Azure 计划。 
+1. Azure 计划是使用情况的根或顶级容器。 所有使用情况都要关联回单个 Azure 计划。
 
 2. 一个计划中将有一个或多个 Azure 订阅。 这些容器用于资源管理和部署。 
 
@@ -72,7 +73,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 5. 资源发出计量：计量是资源的消耗度量，一个资源可能会为多个计量发出使用情况。 计量由 ProductId、SKUId 和 AvailabilityId 标识。 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>订阅资源组和计量的层次结构
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>订阅资源组和计量的层次结构
 
 **Azure 帐户（租户）**
 

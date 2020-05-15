@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴中心帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理公司的档案、目录、银行和税务信息、角色、权限等。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798765"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859369"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798765"
 
 - 合作伙伴中心
 
-在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴中心创建帐户后，你或你的管理员需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 对于任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员，你公司的帐户还将包括其用户帐户。
+在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴中心创建帐户后，你需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 对于任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员，你公司的帐户还将包括其用户帐户。
+
+另请参阅 
+- [邀请员工加入合作伙伴中心](guide-to-migration.md)
+- [添加新用户](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>注册到的计划
 
 管理合作伙伴中心帐户所要做的很多工作与你注册到的特定计划以及你在合作伙伴中心中分配到的用户角色和权限有关。
 
-可以在合作伙伴中心轻松查看你有权访问哪些程序：
+要在合作伙伴中心中查看你有权访问哪些程序，请执行以下操作：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 2. 注意左侧的导航窗格。 与已注册的计划相关联的选项将会显示。
@@ -101,6 +105,7 @@ ms.locfileid: "82798765"
 |**要实现此目的，请执行以下操作**   |**阅读此文**   |
 |-----------------------|:-----------------------|
 |确保你公司的档案是最新的   |[更新你的合作伙伴个人资料](update-your-partner-profile.md)|
+|添加新用户|[创建用户帐户并分配权限](create-user-accounts-and-set-permissions.md)|
 |必须为公司内使用合作伙伴中心工作的每位员工分配角色。 每个角色都具备特定权限和任务。|[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)|
 |查看每个角色所需的权限|[为用户分配角色和权限](permissions-overview.md)
 |管理公司的位置|[管理合作伙伴帐户：位置](manage-locations.md)

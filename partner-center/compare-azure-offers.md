@@ -1,7 +1,7 @@
 ---
-title: 比较 Azure 套餐 | 合作伙伴中心
+title: 比较云解决方案提供商合作伙伴的 Azure 产品/服务
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 比较云解决方案提供商 (CSP) 计划中为合作伙伴提供的新 Microsoft 商务体验中的套餐之间的主要差异。
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021757"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908175"
 ---
-# <a name="compare-azure-offers"></a>比较 Azure 套餐
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>比较云解决方案提供商计划中 Azure 产品/服务之间的差异
 
 **相应的角色**
 
@@ -33,7 +34,7 @@ ms.locfileid: "76021757"
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |计费|每月一次|可变（取决于套餐）|最终客户|预付整个期限或 3 年期|每月或每年|
 |被许可人|最终客户|可变（取决于套餐）|最终客户| 最终客户|   最终客户|
-|覆盖期限|在取消之前一直有效|可变（取决于套餐）|参阅套餐说明|所有 Azure 预留项都有自己独一无二的覆盖期。    所有服务器订阅都有自己独一无二的覆盖期。|   其他基于座席的许可证将纳入现有的覆盖期|
+|覆盖期限|在取消之前一直有效|可变（取决于套餐）|参阅套餐说明|所有 Azure 预留项都有自己独一无二的覆盖期。 所有服务器订阅都有自己独一无二的覆盖期。|   其他基于座席的许可证将纳入现有的覆盖期|
 |自动续订|是|是|否| 否|是|
 |多币种|基于客户所在位置/货币开具发票|基于客户所在位置/货币开具发票|基于客户所在位置/货币开具发票|基于客户所在位置/货币开具发票|基于合作伙伴本币| 
 |发票和对帐文件|根据每种客户本币单独提供发票和对帐文件。  我们还会提供每日分类的使用情况文件（适用于计费和非计费部分） |根据每种客户本币单独提供发票和对帐文件|根据每种客户本币单独提供发票和对帐文件|根据每种客户本币单独提供发票和对帐文件|所有订单包含在一个发票和对帐文件上|

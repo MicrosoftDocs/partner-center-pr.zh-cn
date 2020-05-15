@@ -1,23 +1,24 @@
 ---
-title: 计费 | 合作伙伴中心
+title: 参考 - 合作伙伴中心计费文章
 ms.topic: article
-ms.date: 04/02/2020
+ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 合作伙伴中心的计费和税款主题列表，其中包括有关计费资源、发票、CSP 计费和税款的信息。
+Description: 了解合作伙伴中心的计费和税务主题。 信息涵盖计费资源、发票、云解决方案提供商计费和税款。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: high
-ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ef1f162d181fd4fa3f7c806cabb781ff6010a6dc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798575"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908236"
 ---
-# <a name="billing-and-taxes"></a>计费和税款
+# <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概述：合作伙伴中心的主要计费和税务文章
 
 **适用于**
 

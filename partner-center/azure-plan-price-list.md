@@ -1,23 +1,24 @@
 ---
-title: Azure 计划价目表 | 合作伙伴中心
+title: 云解决方案提供商合作伙伴的 Azure 计划价目表
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何使用合作伙伴中心查看 Azure 计划下的订阅价目表。
+description: 了解云解决方案提供商计划合作伙伴如何使用合作伙伴中心查看 Azure 计划下的订阅价目表。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76812639"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908326"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表 
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表
 
 **相应的角色**
 

@@ -1,19 +1,19 @@
 ---
 title: 准备从 Partner Membership Center 迁移到合作伙伴中心 | 合作伙伴中心
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在将业务从 PMC 迁移到合作伙伴中心之前，请先查看有用的信息和常见问题解答。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340095"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859358"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
@@ -33,49 +33,24 @@ Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形�
 
 工作帐户托管 Azure AD 用户及其相关信息 - 他们的密码、个人资料数据和权限等。 工作帐户还包含组、应用程序以及有关公司及其安全性的其他信息。 
 
+你的工作电子邮件属于你 Azure Active Directory 租户的一部分。 若要在合作伙伴中心中拥有帐户，你需要拥有 AAD 租户。 有关 Azure Active Directory 的详细信息，请参阅[在 Azure AD 中创建目录](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+
 在合作伙伴中心，你将使用工作电子邮件来登录你的帐户，而不是使用个人电子邮件。
 - 你的工作帐户：john@contoso.com
 - 你的个人帐户：John@outlook.com
 
-你的工作电子邮件属于你 Azure Active Directory 租户的一部分。 若要在合作伙伴中心中拥有帐户，你需要拥有 AAD 租户。 有关 Azure Active Directory 的详细信息，请参阅[在 Azure AD 中创建目录](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+**如果你有一个 Microsoft （例如 Office 365）的 AAD 租户并且还有适用于你的 CSP 业务的租户，你应该使用哪个帐户登录到合作伙伴中心？**
 
-**当你从 PMC 迁移到合作伙伴中心时，如果你有一个 Microsoft （例如 Office 365）的 AAD 租户并且还有适用于你的 CSP 业务的租户，你应该使用哪个帐户登录到合作伙伴中心？**
-
-可以使用 CSP 帐户或 MPN 工作电子邮件帐户登录到合作伙伴中心。 如果选择使用 CSP 工作电子邮件登录，面板上的左侧导航则将显示 MPN 和 CSP 计划信息。 如果使用 MPN Azure AD 租户工作电子邮件登录，则只会看到 MPN 计划信息。 MPN 和 CSP 之间的用户角色不同，因此，如果为 MPN 和 CSP 业务使用同一账户，请确保相应地分配角色用户。 有关用户角色的信息，请阅读[为用户分配角色和权限](permissions-overview.md)。
+可以使用 CSP 帐户或 MPN 工作电子邮件帐户登录到合作伙伴中心。 如果选择使用 CSP 工作电子邮件登录，面板上的左侧导航则将显示 MPN 和 CSP 计划信息。 如果使用 MPN Azure AD 租户工作电子邮件登录，则只会看到 MPN 计划信息。 
 
 **如果不想将现有的 Office 365 Azure AD 租户用于合作伙伴中心，则可以在从 PMC 迁移之前创建新租户。**
 
-可能有很多原因导致你不想使用现有的 Azure AD 租户来设置合作伙伴中心帐户。 在开始迁移到合作伙伴中心之前，请先转至 [Azure 门户](https://ms.portal.azure.com/#home)以创建新的 Azure AD 租户。 按照[在 Azure Active Directory 中创建新租户](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)中的指南进行操作。 创建了新租户后，在从 PMC 迁移到合作伙伴中心时，请使用此 AAD 租户来设置合作伙伴中心帐户。 只有全局管理员才能创建租户。 使用此新目录迁移到合作伙伴中心。
+可能有很多原因导致你不想使用现有的 Azure AD 租户来设置合作伙伴中心帐户。 在开始迁移到合作伙伴中心之前，请先转至 [Azure 门户](https://ms.portal.azure.com/#home)以创建新的 Azure AD 租户。 按照[在 Azure Active Directory 中创建新租户](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)中的指南进行操作。 使用新的 AAD 租户设置合作伙伴中心帐户。 只有全局管理员才能创建租户。 
 
-
-**AAD 全局管理员角色和 PMC MPN 全局管理员角色之间有什么区别？**
-
-这两个不同的角色具有不同的权限。 合作伙伴中心中的 AAD 租户全局管理员可以管理租户 - 添加或删除用户、提供并管理密码、角色和权限，并且有权在合作伙伴中心中访问公司的所有计划。 
-
-PMC 中的 MPN 全局管理员角色可以执行以下操作：
-
-- 查看和编辑与公司和公司所有位置相关的所有数据
-
--  添加全局或本地级别的管理员。  此外，全局管理员可以在任何位置向任何人员分配全局管理员访问权限，这将授予他们全局访问权限，无需考虑与他们关联的位置。
--  执行任何面向合作伙伴的 UI 函数，包括： 
-
--  添加/删除用户
-
- - 分配/删除角色 
-
- - 添加/删除/更新位置 
-
- - 购买资格/地图 
-
--  查看权益
-
-当 MPN 全局管理员移动到合作伙伴中心时，角色称为 MPN 合作伙伴管理员，其权限和任务与合作伙伴中心全局管理员不同。有关合作伙伴中心中角色和权限的详细信息，请参阅[为用户分配角色和权限](permissions-overview.md)。
 
 **用户角色，包括合作伙伴中心中的来宾用户角色**
 
 合作伙伴中心具有不同类型的角色，具体取决于需要完成的工作类型。 有属于 Azure AD 角色的全局管理员等角色。 某些角色特定于云服务提供商计划或奖励等计划，并且有特定于 MPN 的角色。 若要了解所有的合作伙伴中心角色，请参阅[为用户分配角色和权限](permissions-overview.md)。
-
-
 
 **当我用户的角色从 PMC 迁移到合作伙伴中心时会发生什么情况？**
 
@@ -92,12 +67,12 @@ PMC 中的 MPN 全局管理员角色可以执行以下操作：
 
 如果你使用相同的 Azure AD 租户将多个 MPN 帐户迁移到合作伙伴中心，系统将自动识别出来并要求你合并帐户。 这也适用于你有多个关联到同一 Azure AD 租户的域。 
 
-你仍然可以决定使用单独的 ADD 租户迁移到合作伙伴中心，但请注意，这会导致对你的资格进行单独评估并且会产生额外的购买成本。 
+你仍然可以决定使用单独的 ADD 租户迁移到合作伙伴中心，但请注意，这会导致对你的资格进行单独评估并且会产生额外的购买成本。 有关帐户合并的详细信息，请参阅[合并公司帐户](consolidate-accounts.md)
 
 **如果我有多个 ADD 租户和一个 MPN 帐户，是否可以在合作伙伴中心中链接它们？**
 
 是的，可以在合作伙伴中心中将多个 Azure AD 租户链接到一个合作伙伴中心帐户。
-在此处了解详细信息。 
+有关帐户合并的详细信息，请参阅[合并公司帐户](consolidate-accounts.md)
 
 **将多个 Azure AD 租户添加到一个合作伙伴中心帐户有什么限制吗？**
 
@@ -164,11 +139,11 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 不会，如果你迁移了帐户但没有合并位置，奖励计划则不会受到任何影响。 如果你的企业在 PMC 中有多个帐户，但你迁移到合作伙伴中心并决定合并到一个全局帐户时，不会对奖励造成任何损失，不过可能会稻城奖励付款出现延迟的情况。 如果不迁移所有涉及到奖励计划的 PMC 帐户，你可能会停止获得与这些帐户相绑定的奖励。
 
 
-**合作伙伴中心中的奖励用户角色是什么？** 
+**合作伙伴中心中的奖励角色是什么？** 
 
 合作伙伴中心中的奖励用户是基于位置的角色，并且包含奖励管理员和奖励用户。 有关这些角色可以执行的操作的详细信息，请参阅[为用户分配角色和权限](permissions-overview.md)。
 
-**是否可以在全局和本地级别处分配奖励用户？**
+**是否可以在全局和位置级别分配奖励管理员？**
 
  是的。 你可以将奖励管理员分配为所有位置的奖励管理员，或者每一位置可以有自己的奖励管理员。
 
@@ -178,11 +153,11 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 **就引荐而言，我们可以创建多少个业务配置文件？**
 
-你的公司可以按需创建任意数量的业务配置文件，用于完全代表你公司的兴趣。 在每一业务配置文件中，你可以列出多达五个位置，每国家/地区一个位置。 每一业务配置文件都可以接收每一相关位置的引荐。
+你的公司可以按需创建任意数量的业务配置文件，以完全代表你公司的兴趣。 在每一业务配置文件中，你可以列出多达五个位置，每国家/地区一个位置。 每一业务配置文件都可以接收每一相关位置的引荐。
 
 **引荐将如何分配，会出现什么更改？例如，如果我在某一市场中有一个全球公司并且在其他市场中有多个位置，引荐将如何分配？**
 
-引荐是根据客户定义的搜索参数分配的。 因此，无论你有一个还是多个位置，如果客户定义了一个所需位置并且你在此位置有满足其他参数的业务，那么引荐则将转至此位置。
+引荐是根据客户定义的搜索参数分配的。 无论你有一个还是多个位置，如果客户定义了一个所需位置并且你在此位置有满足其他参数的业务，那么引荐则将转至此位置。
 
 
 

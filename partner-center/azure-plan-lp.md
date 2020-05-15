@@ -1,7 +1,7 @@
 ---
-title: Azure 计划 | 合作伙伴中心
+title: Azure 计划 - 按即用即付费率购买 Azure
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 计划商务体验，以便以即用即付费率为客户购买 Azure 服务。 也了解新的安全要求。
@@ -10,14 +10,15 @@ ms.author: labrenne
 Keywords: Azure、Azure 计划、购买订阅、订阅
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7be0e8cd97a66742b1c2bfadbdb5edceb8a8d9c4
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1e5aeb04c7f37dfc777ece6b7190b8ae7e04ebe2
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76549662"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908356"
 ---
-# <a name="introduction-azure-plan"></a>简介：Azure 计划
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>简介：Azure 计划允许合作伙伴按即用即付费率为客户购买 Azure
 
 Microsoft 在合作伙伴中心引入了新的商务体验：Azure 计划。  使用此新商务体验，合作伙伴可以访问对签署了 Microsoft 客户协议的客户采用即用即付费率的客户的 Azure 服务。
 

@@ -1,23 +1,23 @@
 ---
-title: 计费概述 | 合作伙伴中心
+title: 合作伙伴中心计费概述
 ms.topic: article
-ms.date: 04/03/2020
-description: 了解合作伙伴中心的基本计费和发票信息。
+ms.date: 05/05/2020
+description: 了解合作伙伴中心中的云解决方案提供商合作伙伴的基本计费和发票信息。 包括如何向客户计费以及如何查找和阅读发票。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676813"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908245"
 ---
-# <a name="billing-overview"></a>计费概述
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>合作伙伴中心中的云解决方案提供商计划合作伙伴的计费概述 
 
 **适用于**
 

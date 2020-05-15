@@ -1,23 +1,24 @@
 ---
-title: 将许可证或服务添加到现有订阅 | 合作伙伴中心
+title: 升级客户订阅
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何升级或修改客户的订阅，例如添加更多许可证或席位，或使用其他服务迁移到其他版本。
+description: 了解如何升级或修改客户的订阅。 添加更多许可证、添加更多席位，或迁移到具有更多服务的不同版本。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: high
-ms.openlocfilehash: 01f0fedfad207f83cc5370ac60f19753040c9045
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798645"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975118"
 ---
-# <a name="add-licenses-or-services-to-an-existing-subscription"></a>将许可证或服务添加到现有订阅
+# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证、席位或更多服务
 
 **适用于**
 
@@ -32,7 +33,7 @@ ms.locfileid: "82798645"
 - 销售代理
 - 支持人员代理
 
-如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Office 365 商业版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Microsoft 365 商业应用版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
 ## <a href="" id="upgradesubscription"></a>
 
@@ -52,25 +53,25 @@ ms.locfileid: "82798645"
 </thead>
 <tbody>
 <tr class="odd">
-<td>Office 365 商业版</td>
+<td>Microsoft 365 商业应用版</td>
 <td><ul>
-<li>Office 365 商业高级版¹</li>
-<li>Office 365 专业增强版</li>
+<li>Microsoft 365 商业高级版¹</li>
+<li>Microsoft 365 企业应用版</li>
 <li>Office 365 企业版 E3</li>
 <li>Office 365 企业版 E5</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td>Office 365 商业高级版</td>
+<td>Microsoft 365 商业标准版</td>
 <td><ul>
 <li>Office 365 企业版 E3</li>
 <li>Office 365 企业版 E5</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Office 365 商业协作版</td>
+<td>Microsoft 365 商业基本版</td>
 <td><ul>
-<li>Office 365 商业高级版¹</li>
+<li>Microsoft 365 商业标准版¹</li>
 <li>Office 365 企业版 E1</li>
 <li>Office 365 企业版 E3</li>
 <li>Office 365 企业版 E5</li>
@@ -78,7 +79,7 @@ ms.locfileid: "82798645"
 </tr>
 <tr class="even">
 <td></td>
-<td><p>¹ Office 365 企业版（印度）和 Office 365 商业协作版（印度）可升级到 Office 365 商业高级版（印度），而非 Office 365 商业高级版。</p></td>
+<td><p>¹ Microsoft 365 商业应用版（印度）和 Microsoft 365 商业基本版（印度）可以升级为 Microsoft 365 商业标准版（印度），但不能升级为 Microsoft 365 商业标准版。</p></td>
 </tr>
 </tbody>
 </table>

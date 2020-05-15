@@ -1,7 +1,7 @@
 ---
-title: 通过云解决方案提供商销售软件订阅 | 合作伙伴中心
+title: 通过云解决方案提供商销售软件订阅
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商计划中的合作伙伴可以如何使用合作伙伴中心为客户购买、管理、销售和取消 Azure 预留实例和服务器订阅。
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Azure RI, Windows Server, SQL Server, 软件订阅, 取消订阅
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798425"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907954"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>通过云解决方案提供商销售软件订阅
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商 (CSP) 计划销售软件订阅
 
 **适用于**
 
@@ -28,13 +28,13 @@ ms.locfileid: "82798425"
 - 管理员代理
 - 全局管理员
 
-通过 Azure 预留实例以及 Server 订阅（Windows Server 和 SQL Server 订阅），云解决方案提供商计划中的合作伙伴可以更好地满足客户对成本效益更高的解决方案的快速增长的需求，从而为高度可预测的持久云工作负荷提供支持。 
+通过 Azure 预留实例以及 Server 订阅（Windows Server 和 SQL Server 订阅），云解决方案提供商计划中的合作伙伴可以更好地满足客户对成本效益更高的解决方案的快速增长的需求，从而为高度可预测的长期云工作负荷提供支持。 
 
-现在，可以通过利用 Azure 混合权益代表商业客户通过合作伙伴中心和 Azure 门户获取、预配和管理 Azure 预留实例和 Server 订阅。
+现在，可以通过利用 Azure 混合权益，代表商业客户通过合作伙伴中心和 Azure 门户获取、预配和管理 Azure 预留实例和 Server 订阅。
 
 Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值，可节省多达 40% 的虚拟机费用。 可以通过软件保障所涵盖的 Windows Server Datacenter 和 Standard Edition 许可证来使用此权益。 你可以转换或重新使用许可证以在 Azure 中运行 Windows Server 虚拟机，并支付较低的基本计算费率（例如 Linux 虚拟机费率），具体视版本而定。
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure 预留不可用市场
+## <a name="azure-reservations-unavailable-markets"></a>不可使用 Azure 预留的市场
 
 >[!IMPORTANT] 
 >Azure 预留在以下市场中不可用：   

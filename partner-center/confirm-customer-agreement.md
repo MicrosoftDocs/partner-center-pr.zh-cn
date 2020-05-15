@@ -1,22 +1,23 @@
 ---
-title: 确认客户接受 Microsoft 客户协议 | 合作伙伴中心
+title: 确认客户接受 Microsoft 客户协议
 ms.topic: article
-ms.date: 02/18/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解如何确认客户接受 Microsoft 客户协议。 为客户订购 Microsoft 产品和服务时，可能需要这样做。
+Description: 了解如何确认客户接受 Microsoft 客户协议。 为客户订购 Microsoft 产品和服务时，云解决方案提供商需要这样做。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
-ms.openlocfilehash: a40d5fa1d737dd679699db467ce8b3b1be81f84b
-ms.sourcegitcommit: 1125391fd9a1ded2a051968b3a280a10676ed8bb
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "82741057"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908166"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
 **适用于**
 

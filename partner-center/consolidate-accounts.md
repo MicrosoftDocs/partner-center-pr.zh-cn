@@ -1,23 +1,23 @@
 ---
-title: 合并公司帐户 | 合作伙伴中心
+title: 合并公司帐户
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何将 Partner Membership Center (PMC) 帐户合并到合作伙伴中心的一个帐户中。 此流程适用于从 PMC 迁移到合作伙伴中心。
+description: 了解如何将 Partner Membership Center (PMC) 帐户合并到合作伙伴中心的一个帐户中。 应用于从 PMC 到合作伙伴中心的迁移。
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226133"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908141"
 ---
-# <a name="consolidate-your-company-accounts"></a>合并公司帐户
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心时合并公司帐户
 
 **相应的角色**
 

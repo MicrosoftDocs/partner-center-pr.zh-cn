@@ -1,5 +1,5 @@
 ---
-title: Microsoft 合作伙伴网络会员 | 合作伙伴中心
+title: Microsoft 合作伙伴网络成员身份
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798835"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362735"
 ---
 # <a name="partner-with-microsoft"></a>与 Microsoft 合作
 
 **相应的角色**
--   全局管理员
--   MPN 合作伙伴管理员
--   用户管理员
--   管理员代理
+
+- 全局管理员
+- MPN 合作伙伴管理员
+- 用户管理员
+- 管理员代理
 
 加入 Microsoft 合作伙伴计划后，你将成为全球社区的一员，它会在你与吸引客户、推动业务增长所需的各种关系、见解、工具、资源和计划之间建立起联系。
 
-请参阅[为何选择 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)来详细了解与 Microsoft 合作可获得的权益。 
+请参阅[为何选择 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)来详细了解与 Microsoft 合作可获得的权益。
 
 ## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作伙伴网络
 
@@ -51,7 +52,7 @@ Action Pack 或初学者工具包提供软件和支持来构建基于 Microsoft 
 
 ### <a name="action-pack"></a>Action Pack
 
-Action Pack 为想要在云优先、移动优先领域中开始构建和发展其 Microsoft 实务的企业提供软件、支持和权益。 
+Action Pack 为想要在云优先、移动优先领域中开始构建和发展其 Microsoft 实务的企业提供软件、支持和权益。
 
 请查看以下资源详细了解 Action Pack：
 
@@ -82,5 +83,6 @@ Action Pack 为想要在云优先、移动优先领域中开始构建和发展�
 - [在合作伙伴中心管理 MPN 权益](manage-your-partner-network-benefits.md)
 - [核心要求](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>另请参阅
-- [发展 Microsoft 合作伙伴业务](grow-your-business.md)
+## <a name="next-steps"></a>后续步骤
+
+[发展 Microsoft 合作伙伴业务](grow-your-business.md)
