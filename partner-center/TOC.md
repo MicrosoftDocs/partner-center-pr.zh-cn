@@ -119,7 +119,7 @@
 ## [查看客户列表](see-your-customer-list.md)
 ## [查看客户活动日志](activity-logs.md)
 ## [更新客户帐户信息](update-customer-account-info.md)
-## [授予客户购买自己的服务的权限](give-customers-permission.md)
+## [让客户购买他们自己的服务](give-customers-permission.md)
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
@@ -196,6 +196,7 @@
 # [与其他合作伙伴合作](work-with-other-partners.md)
 ## [合作伙伴中心中的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
 ## [合作伙伴中心中的间接经销商任务](indirect-reseller-tasks-in-partner-center.md)
+## [支持的 CSP 合作伙伴关系](csp-supported-partner-relationships.md)
 ## [多渠道支持](multichannel.md)
 ## [多合作伙伴支持](multipartner.md)
 
