@@ -1,24 +1,24 @@
 ---
-title: 合作伙伴中心见解-概述仪表板 |合作伙伴中心
+title: 合作伙伴中心见解概述仪表板
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 确切了解您的工作效果，以及您可以在哪些方面改进您的销售和部署以及客户开发
+description: 查看有关使用许可证、订阅和 Azure 消耗的销售和部署、客户增长和收入增长情况的快照。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI，性能，客户成功，量化指标，
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631868"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795698"
 ---
-# <a name="overview-dashboard-reports"></a>概述仪表板报表 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作伙伴中心见解中提供的仪表板报表
  
 "合作伙伴中心概述" 仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入、许可证等。您可以在 "概述" 报表中直观显示以下图表。 
 
@@ -83,6 +83,6 @@ Azure 的每月趋势在所选日期范围内使用美国收入。 X 轴表示�
 
 ![许可证](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>了解详情
+## <a name="next-steps"></a>后续步骤
 
-有关其他合作伙伴中心见解仪表板和报表主题，请阅读[合作伙伴中心见解](partner-center-insights.md)
+- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。

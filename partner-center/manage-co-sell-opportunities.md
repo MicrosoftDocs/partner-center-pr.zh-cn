@@ -1,30 +1,30 @@
 ---
-title: 管理共同销售机会 |合作伙伴中心
+title: 管理联合销售机会
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为合格的 Microsoft 合作伙伴，你可以与 Microsoft 共同销售。 了解如何定义交易，邀请 Microsoft 协作，或查看已发送的交易。
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: 引用，共同销售，交易
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919834"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796034"
 ---
-# <a name="manage-co-sell-opportunities"></a>管理共同销售机会
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>管理合作伙伴中心的共同销售机会，以定义交易并更好地满足客户需求
 
 **适用于**
 
--  合作伙伴中心
--  引荐
--  与 Microsoft 联合销售
--  交易共享
+- 合作伙伴中心
+- 引荐
+- 与 Microsoft 联合销售
+- 交易共享
 
 **相应的角色**
 
@@ -65,7 +65,7 @@ ms.locfileid: "81919834"
 
 选择此特定交易的客户。 输入其位置，然后键入名称。 自动建议会根据搜索条件开始显示建议。 由于许多公司在同一位置有多个业务实体，你可能会看到多个结果。 如果不确定选择哪一种，可以确认哪个 D-N-S 号码属于您的客户。 请确保为你使用的客户选择完全匹配项。
 
-单击 **"选择客户**" 后，系统会提示输入联系人的姓名、电话号码和电子邮件地址，作为此交易的主要联系点。 这些详细信息是可选的，仅当你打算邀请 Microsoft 销售人员帮助你参与服务时，这些详细信息才是必需的。 选择“下一步”  。
+单击 **"选择客户**" 后，系统会提示输入联系人的姓名、电话号码和电子邮件地址，作为此交易的主要联系点。 这些详细信息是可选的，仅当你打算邀请 Microsoft 销售人员帮助你参与服务时，这些详细信息才是必需的。 选择“**下一步**”。
 
 > [!IMPORTANT]
 > 请确保已获得客户同意向 Microsoft 提供其联系信息，以应对交易。 Microsoft 可能会使用此信息直接与客户联系。

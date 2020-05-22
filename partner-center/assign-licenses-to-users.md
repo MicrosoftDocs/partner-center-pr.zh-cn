@@ -1,7 +1,7 @@
 ---
-title: 客户帐户的用户管理任务 | 合作伙伴中心
+title: 管理客户帐户中的用户
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
-ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798615"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795037"
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>客户帐户的用户管理任务
+# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作伙伴中心的客户帐户的用户管理任务
 
 **适用于**
 

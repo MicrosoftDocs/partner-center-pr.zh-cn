@@ -1,20 +1,21 @@
 ---
-title: 每日分级使用帐文件 |合作伙伴中心
+title: 每日分级的使用情况协调文件
 ms.topic: article
-ms.date: 01/14/2020
+ms.date: 05/15/2020
 description: 了解如何在合作伙伴中心读取每日分级使用情况协调文件。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
-ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2020
-ms.locfileid: "76021723"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795596"
 ---
-# <a name="daily-rated-usage-reconciliation-files"></a>每日分级的使用情况协调文件
+# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
 **适用于**
 
@@ -24,7 +25,7 @@ ms.locfileid: "76021723"
 **相应的角色**
 
 - 管理员代理
-- 帐单管理员
+- 计费管理员
 - 销售代理
 - 支持人员代理
 
@@ -32,17 +33,17 @@ ms.locfileid: "76021723"
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>每日分级使用帐文件中的字段
 
-| 列 | 描述 |
+| 列 | 说明 |
 | ------ | ----------- |
 | PartnerId | GUID 格式的合作伙伴标识符。 |
 | PartnerName | 合作伙伴名称。 |
 | CustomerId | GUID 格式的客户的唯一 Microsoft 标识符。 |
-| CustomerName | 在合作伙伴中心中报告的客户的组织名称。 *此列对于协调发票与系统信息非常重要。* |
+| CustomerName | 合作伙伴中心报告的客户的组织名称。 *此列对于协调发票与系统信息非常重要。* |
 | CustomerDomainName | 客户的域名。 |
 | CustomerCountry | 客户所在的国家/地区。 |
 | MpnId | CSP 合作伙伴的 MPN 标识符。 |
 | Tier2MpnId | 订阅的记录分销商的 MPN 标识符。 |
-| InvoiceNumber | 显示指定交易所在的发票号码。 |
+| InvoiceNumber | 指定交易显示时对应的发票号。 |
 | ProductId | 产品的标识符。 |
 | SkuId | 特定 SKU 的标识符。 |
 | AvailabilityId | 特定 SKU 可用性的标识符。 这表明 SKU 是否可在给定的国家/地区、货币、行业段等购买。 |
@@ -51,20 +52,20 @@ ms.locfileid: "76021723"
 | PublisherName | 发行者的名称。 |
 | PublisherId | GUID 格式的发布服务器的标识符。 |
 | SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 （这是与**OfferName**相同的字段）。 |
-| SubscriptionId | Microsoft 帐单平台中订阅的唯一标识符。 不用于对帐。 *此标识符不同于合作伙伴管理控制台上的**订阅 ID** 。* |
-| ChargeStartDate | 计费周期的开始日期（在显示以前的计费周期内先前 uncharged 的潜在使用情况数据的日期时除外）。 时间始终是一天的开始，即 0:00。 |
+| SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 不用于对帐。 *此标识符不同于合作伙伴管理控制台上的**订阅 ID** 。* |
+| ChargeStartDate | 计费周期的开始日期（在显示以前的计费周期内先前 uncharged 的潜在使用情况数据的日期时除外）。 该时间始终为一天的起点时间，即 0:00。 |
 | ChargeEndDate | 计费周期的结束日期（在显示以前的 biling 循环中先前 uncharged 的潜在使用情况数据的日期时除外）。 时间始终是一天的结束，即 23:59。 |
 | UsageDate | 服务使用日期。 |
 | MeterType | 计量器的类型。 |
-| 计量类别 | 使用的顶级服务。 |
-| 计量 ID | 所使用的计量的标识符。 |
+| MeterCategory | 用量对应的顶级服务。 |
+| MeterId | 所使用的计量的标识符。 |
 | MeterSubCategory | Azure 服务的类型，该类型可能会影响费率。 |
-| 计量名称 | 所使用的计量的度量单位。 |
+| MeterName | 所使用的计量的度量单位。 |
 | MeterRegion | 此列标识服务的区域内的数据中心的位置（该位置适用且人口密集）。 |
-| 单位 | 资源**名称**的单位。 |
+| 计价单位 | 资源**名称**的单位。 |
 | ResourceLocation | 计量器正在其中运行的数据中心。 |
 | ConsumedService | 使用的 Azure 平台服务。 |
-| ResourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
+| resourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
 | ResourceURI | 所使用资源的 URI。 |
 | ChargeType | 费用或调整的类型。  |
 | UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
@@ -76,8 +77,8 @@ ms.locfileid: "76021723"
 | PricingCurrency | 价目表中的货币。 |
 | ServiceInfo1 | 在给定日期预配和使用的服务总线连接数。 |
 | ServiceInfo2 | 捕获可选的服务特定元数据的旧字段。 |
-| 标记 | 表示由用户设置的 Azure 资源的逻辑组织。 |
-| AdditionalInfo | 其他列中未涵盖的任何其他信息。 |
+| Tags | 表示由用户设置的 Azure 资源的逻辑组织。 |
+| AdditionalInfo | 其他列中未包括的任何其他信息。 |
 | EffectiveUnitPrice | 按单位收费的实际值，包括任何折扣、获得的信用额度等。 |
 | PCToBCExchangeRate | 定价货币应用于计费货币的汇率。 |
 | PCToBCExchangeRateDate | 确定计费货币的定价货币的日期。 |

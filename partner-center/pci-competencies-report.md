@@ -1,24 +1,24 @@
 ---
-title: 合作伙伴中心见解-称职报告 |合作伙伴中心
+title: 合作伙伴中心见解胜任度报表
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请查看您的工作情况，并了解 Microsoft 的胜任度，以及可帮助您提供 Microsoft 解决方案的服务。
 ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，能力，优点，分析，报告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226183"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795653"
 ---
-# <a name="competencies-report"></a>胜任度报表
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取的胜任度报表
 
 **相应的角色**
 - 全局管理员
@@ -86,3 +86,6 @@ ms.locfileid: "80226183"
 
 ![资格历史记录](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>后续步骤
+
+- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。

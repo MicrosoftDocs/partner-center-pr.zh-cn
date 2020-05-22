@@ -1,21 +1,22 @@
 ---
-title: Microsoft Learn analytics |合作伙伴中心
+title: Microsoft Learn 分析
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 利用各个培训、已完成的模块、已完成的学习途径等数据，跟踪公司中的学员。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005101"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795933"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 分析报表
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analytics 报表显示公司中的学员的状态
 
 **相应的角色**
 -   全局管理员

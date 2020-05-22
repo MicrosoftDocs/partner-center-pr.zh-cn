@@ -1,26 +1,27 @@
 ---
-title: 合作伙伴中心见解-福利报表 |合作伙伴中心
+title: 合作伙伴中心见解权益报表
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你已获得哪些类型的 Microsoft 合作伙伴权益，以帮助拓展你的业务，提高效率并增强团队的技能。
 ms.assetid: ''
 keywords: PCI，性能，度量，优点，分析，报告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226193"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795725"
 ---
-# <a name="benefits-report"></a>权益报表
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的福利报表
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
@@ -71,7 +72,7 @@ ms.locfileid: "80226193"
 
 ![Visual Studio 订阅](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
-**技术优势**
+**技术权益**
 
 此图表显示在所选日期范围内授予的支持权益的每月趋势。
 
@@ -86,3 +87,7 @@ ms.locfileid: "80226193"
 从图表顶部的下拉列表中选择 "产品/服务" 产品/服务类别，以查看授予你的公司的选定投放市场服务的趋势。 图表中的列表示 "产品/服务" 产品/服务已激活。 "线条" 图代表了向公司授予的总体走向市场或服务。
 
 ![市场推广产品](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>后续步骤
+
+- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。

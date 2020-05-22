@@ -1,20 +1,21 @@
 ---
-title: 从合作伙伴管理员中心迁移到合作伙伴中心
+title: 从合作伙伴管理中心移动
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 从合作伙伴管理中心迁移到合作伙伴中心后，请了解如何管理成员身份、客户引用、奖励和云解决方案提供商计划（CSP）的所有其他方面。
+description: 当你从合作伙伴管理中心（PAC）迁移到合作伙伴中心时，请了解如何管理 CSP 计划成员身份、客户推荐、奖励等。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 管理员, PAC 功能
 ms.localizationpriority: medium
-ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1493ed93b70e8c716c339f8e93b471f181acb6af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004226"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795747"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>从合作伙伴管理员中心 (PAC) 迁移到合作伙伴中心
 
@@ -23,9 +24,9 @@ ms.locfileid: "75004226"
 - 合作伙伴管理员中心
 
 **相应的角色**
--   全局管理员
+- 全局管理员
 
-合作伙伴中心正在发展成为可管理与 Microsoft 以及与客户的合作关系的单一位置。 在合作伙伴中心，你可以管理成员资格、客户引荐、奖励以及云解决方案提供商 (CSP) 计划的所有其他方面。你可在合作伙伴中心中执行以前在 PAC 中所做的大多数工作，但某些功能或操作的运作方式有所不同。 
+合作伙伴中心正在发展成为可管理与 Microsoft 以及与客户的合作关系的单一位置。 在合作伙伴中心，你可以管理成员资格、客户引荐、奖励以及云解决方案提供商 (CSP) 计划的所有其他方面。你可在合作伙伴中心中执行以前在 PAC 中所做的大多数工作，但某些功能或操作的运作方式有所不同。
 
 
 |**操作**   |**PAC**   |**合作伙伴中心**   |
@@ -40,5 +41,5 @@ ms.locfileid: "75004226"
 |管理客户服务请求| 服务请求 -> 选择客户|"合作伙伴中心-> 服务请求-> 客户请求"-> 选择 "客户" 或 "将服务请求添加到**收藏夹**" 列表，方法是在客户请求视图中通过切换星形**选择 slideout，** 选择 "**支持请求**" 选项卡，然后直接跳到服务请求-或直接从**收藏夹**查看更新。|
 |查看你管理的 Microsoft Online Services 的运行状况|服务运行状况 -> 聚合运行状况|合作伙伴中心 -> 服务运行状况|
 
->重要提示<br>
+>重要<br>
 你将无法通过合作伙伴中心向客户发送付费和试用报价。 此外，若要在合作伙伴中心中搜索客户，请使用客户名称或使用与该客户建立合作伙伴关系时可用的客户域。

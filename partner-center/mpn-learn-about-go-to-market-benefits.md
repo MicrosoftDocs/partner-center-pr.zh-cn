@@ -1,20 +1,21 @@
 ---
 title: 了解 Microsoft 产品/服务的市场推广
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 产品/服务的投放市场，有助于加快投放市场的时间、生成潜在客户和扩展业务。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN，成员资格权益，成员资格，走向市场产品/服务市场，进入市场，金牌成员身份，银成员资格
 ms.localizationpriority: medium
-ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362715"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795818"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>利用 Microsoft 产品/服务探索市场推广
 

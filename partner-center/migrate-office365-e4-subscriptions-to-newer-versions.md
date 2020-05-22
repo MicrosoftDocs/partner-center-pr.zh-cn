@@ -1,19 +1,20 @@
 ---
-title: 将 Office 365 E4 订阅迁移到较新的 Office 365 版本 |合作伙伴中心
+title: 迁移 Office 365 E4 订阅
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起已停用。 了解如何将你的客户订阅迁移到较新版本的 Office 365。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798873"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795763"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -32,7 +33,7 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 当 E4 订阅结束时，它们将会被取消。 为了确保客户服务连续性，你应该将 E4 订阅快过期的客户过渡到下列支持的 SKU 选项。 建议将客户移动到订阅的每年结束日期之前的新订阅，以避免客户发生服务中断。 
 
 > [!NOTE]  
->  Office 365 企业版 E4 商业版和政府版 Sku 均已停用。
+> Office 365 企业版 E4 商业版和政府版 Sku 均已停用。
  
 在订阅的详细信息页面上，E4 订阅状态已从“[日期] 自动续订”更改为“[日期] 过期”。 
 
@@ -53,7 +54,7 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 - 选项 4：Office 365 企业版 E3
 
 
-| Feature | 选项 1 | 方法 2 | 选项 3 | 选项 4 |
+| 功能 | 选项 1 | 方法 2 | 选项 3 | 选项 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | 获取 Office 365 企业版 E4 中包含的所有功能？ | 是 | 是 | 是 | 否 |
 | 在 Office 365 中管理电话号码？ | 是 | 是 | 否 | 否 |
@@ -90,7 +91,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 3. 在**管理许可证**页面上，清除 **Office 365 企业版 E4** 许可证复选框，然后选择客户要迁移到的订阅的新服务计划。
 
-4. 选择“提交”。  确认页面列出了新的许可证分配。
+4. 选择“提交”  。 确认页面列出了新的许可证分配。
 
 5. 对其他任何需要重新分配许可证的客户用户继续执行相同的步骤。
 
@@ -102,7 +103,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 2. 在 "订阅详细信息" 页中，将订阅状态设置为 "已**挂起**"。
 
-3. 选择“提交”。 
+3. 选择“提交”  。
 
 旧订阅已暂停，新订阅将激活。 暂停的订阅在 120 天后将自动取消预配。 不会向客户收取旧订阅的任何额外成本。
 

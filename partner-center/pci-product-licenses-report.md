@@ -1,24 +1,24 @@
 ---
-title: 合作伙伴中心见解-产品许可证报表 |合作伙伴中心
+title: 合作伙伴中心见解-产品许可证
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解你的工作良好，以及你可以对你为客户销售或管理的授权（或基于座位的）云产品的改进。
+description: 请查看此产品许可证报表，并了解如何改进你为客户销售或管理的授权云产品。
 ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，云订阅，分析，报告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648008"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795667"
 ---
-# <a name="product-licenses-report"></a>产品许可证报表
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 
 **相应的角色**
 - 全局管理员
@@ -81,3 +81,7 @@ X 轴表示所选日期范围内的月份。 Y 轴表示添加的许可证计数
 此视图按产品和客户的国家/地区显示客户许可证的细分。 当你在 "**产品**饼图" 中选择产品时，相邻图表将显示按客户区域划分的许可证细分。
 
 ![许可证分发](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>后续步骤
+
+- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。

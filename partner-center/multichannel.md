@@ -1,22 +1,23 @@
 ---
-title: 在合作伙伴中心使用多通道选项
+title: 为客户提供多通道支持
 description: 在某些情况下，客户可能想要雇用你预配和支持他们在其他地方购买的订阅。
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362695"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795897"
 ---
-# <a name="multi-channel-support"></a>多渠道支持
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>多通道支持-使用其他合作伙伴支持在其他位置购买的客户订阅
 
 **适用于**
 

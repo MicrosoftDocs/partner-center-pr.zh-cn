@@ -1,23 +1,23 @@
 ---
-title: 管理潜在客户 |合作伙伴中心
+title: 管理潜在客户
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何响应引用、管理新的、现有的和存档的引用，并在将来获取更多的引用。
-author: vikramb
-ms.author: vikramb
+description: 使用合作伙伴中心来响应引用并管理新的、现有的和已存档的潜在客户和引用。 了解将来如何获取更多的推荐。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 引用，共同销售，交易
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919844"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796026"
 ---
-# <a name="manage-leads"></a>管理潜在顾客
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潜在顾客，如客户查询、市场营销合格的潜在顾客和销售资格主管
 
 **适用于**
 

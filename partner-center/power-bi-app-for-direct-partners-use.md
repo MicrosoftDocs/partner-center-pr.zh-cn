@@ -1,20 +1,21 @@
 ---
-title: 适用于 Power BI 的合作伙伴中心分析应用 | 合作伙伴中心
+title: 将合作伙伴中心分析用于 Power BI
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用适用于 Power BI（CSP 中的直接合作伙伴）的合作伙伴中心分析应用。
+description: 了解如何使用合作伙伴中心分析应用 Power BI （CSP 中的直接合作伙伴）查看你的业务数据。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bb5bb017e6f61b91020d4242228da3713e9ce4f8
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 684ddb00a0497e01fc0fff318000c4b17dd0ea53
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362375"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795865"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>使用适用于 Microsoft Power BI 的合作伙伴中心分析应用查看你的业务数据
 

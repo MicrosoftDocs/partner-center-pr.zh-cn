@@ -1,7 +1,7 @@
 ---
-title: 将问题上报给 Microsoft | 合作伙伴中心
+title: 将问题升级到 Microsoft
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
@@ -9,15 +9,15 @@ ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 716b090681663feba725d1cf268be2209cd15475
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d46c22852d8a4b994088919d98c92e328ef2cad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798335"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795148"
 ---
-# <a name="escalate-problems-to-microsoft"></a>将问题升级到 Microsoft
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>将问题上报给 Microsoft，并了解哪些问题更适用于 Microsoft 呈报  
 
 **适用于**
 

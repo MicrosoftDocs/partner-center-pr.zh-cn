@@ -1,22 +1,22 @@
 ---
-title: 将 Dynamics 365 和 Customer Engagement 计划从基本（合格的产品/服务）迁移到更新的版本 |合作伙伴中心
+title: 迁移合格的 Dynamics 365 订阅
 ms.topic: article
-ms.date: 12/12/2018
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在现有订阅过期之前购买新订阅，重新分配用户许可证，然后取消旧订阅。
+description: 了解如何在现有订阅过期之前从合格的基本 Dynamics 365 订阅迁移到新的订阅。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
+ms.custom: SEOMAY.20
 Keywords: Dynamics 365 产品/服务续订优惠，全新 Dynamics 365 Sku
-ms.openlocfilehash: 466f954af05a266fccba587007565e5d19d3af15
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cac5717a1f7b27537faa694dcf665a69a7226483
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004586"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795992"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>将 Dynamics 365 和客户参与度计划从基本（限定产品/服务）迁移到较新版本
 
@@ -31,7 +31,6 @@ ms.locfileid: "75004586"
 -   销售代理
 
 从2019年1月1日起生效，对于基本（合格的产品/服务）订阅，具有 Dynamics 365 的客户将无法再续订这些旧产品/服务。现有订阅将不会在过期时自动续订。 在订阅的详细信息页上，订阅状态将更改为 "在 [date] 上自动续订时过期时间为 [日期]"。 
-
 
 若要确保客户的连续性，应将具有过期订阅的人员转换为受支持的选项，如下所示。 建议将客户移动到订阅的每年结束日期之前的新订阅，以避免客户发生服务中断。
 
@@ -99,10 +98,10 @@ ms.locfileid: "75004586"
 你的客户现在将具有旧订阅和新订阅。 下一步是向客户的用户重新分配许可证。
 
 1. 从左侧导航栏中选择 "**客户**"，然后选择要移动的客户。
-2. 选择**用户和许可证**。
+2. 选择 "**用户和许可证**"。
 3. 若要为用户重新分配许可证，请选择该用户，然后选择 "**管理许可证**"。 
 4. 在 "**管理许可证**" 页上，清除 "基本（合格产品/服务）许可证的 Dynamics 365 for Sales/Customer Engagement 计划" 复选框，并为客户要移到的订阅选择新的服务计划。 
-5. 选择**提交**。 你将对需要新许可证的每个用户执行此操作。 
+5. 选择“提交”  。 你将对需要新许可证的每个用户执行此操作。 
 
 将许可证转移到新订阅后，可以取消旧订阅。 
 

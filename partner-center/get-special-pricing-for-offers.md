@@ -1,7 +1,7 @@
 ---
 title: 向特定行业销售
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解 Microsoft 对某些客户组（包括教育客户、非利润客户和政府用户）的特殊定价的定价。
@@ -9,14 +9,15 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362595"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795096"
 ---
-# <a name="sell-to-specialized-industries"></a>向特定行业销售
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>出售给专业行业，如教育、非盈利和政府用户
 
 **适用于**
 
@@ -34,8 +35,8 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 |**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育水平   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|Government   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|教育   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府机关   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
 |非营利组织  |无<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解有关[非赢利特别优惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格

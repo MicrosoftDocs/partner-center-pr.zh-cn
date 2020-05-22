@@ -1,24 +1,24 @@
 ---
-title: 合作伙伴中心见解-产品订阅报表 |合作伙伴中心
+title: 合作伙伴中心见解订阅报表
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你的工作效果，以及你可以在哪些方面改进你为客户销售或管理的云订阅。
 ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，云订阅，分析，报告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648048"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795912"
 ---
-# <a name="product-subscriptions-report"></a>产品订阅报表
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的产品订阅报表
 
 **相应的角色**
 - 全局管理员
@@ -94,7 +94,7 @@ ms.locfileid: "75648048"
 
 **订阅状态分发**
 
-此视图按订阅状态显示当前客户订阅的分布情况。 这包括以下订阅状态： "**活动**"、"**已禁用**"、"**取消预配**" **、"已** **打开**"、"**已关闭**" 和**其他**。
+此视图按订阅状态显示当前客户订阅的分布情况。 这包括以下订阅状态： "**活动**"、"**已禁用**"、"**取消预配**" **、"已****打开**"、"**已关闭**" 和**其他**。
 
 ![订阅状态分发](images/pci/pci_sub_report_sub_states_5.png)
 
@@ -108,3 +108,7 @@ ms.locfileid: "75648048"
 
 > [!NOTE]
  > 由 Sku 分解的订阅计数可能并不总是与该产品的总订阅数相匹配。 如果客户在同一产品订阅下购买了多个 Sku，则可能会发生这种情况。
+
+## <a name="next-steps"></a>后续步骤
+
+- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。

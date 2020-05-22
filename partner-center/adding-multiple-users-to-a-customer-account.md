@@ -1,23 +1,24 @@
 ---
-title: 为客户帐户创建多个用户 | 合作伙伴中心
+title: 为客户帐户添加多个用户
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 通过将逗号分隔值文件格式（.csv）中的数据文件上传到合作伙伴中心，了解如何一次性将多个用户添加到客户的帐户。
+description: 了解如何一次将多个用户添加到客户的帐户。 使用逗号分隔值（.csv）文件格式将数据文件上传到合作伙伴中心。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798625"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794905"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>将多个用户添加到客户帐户
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>向客户帐户添加多个用户-将数据文件上传到合作伙伴中心
 
 **适用于**
 
@@ -43,12 +44,11 @@ ms.locfileid: "82798625"
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **列名称** | **说明**                                                              | **限制**                             |
+| **列名** | **说明**                                                              | **限制**                             |
 | 名字      | 用户的名字（可选字段）                                           | 50 个字符的限制                         |
 | 姓氏       | 用户姓氏（可选字段）                                            | 50 个字符的限制                         |
 | 显示名称    | "合作伙伴中心" 中显示的名称（必填字段）                            | 50 个字符的限制                         |
-| 电子邮件
-           | 客户公司的用户业务电子邮件地址（必填字段）           | 每个用户的电子邮件地址必须唯一 |
+| 电子邮件           | 客户公司的用户业务电子邮件地址（必填字段）           | 每个用户的电子邮件地址必须唯一 |
 | 状态更新   | 用于指示是否成功创建了新用户记录 | \*\*留空\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>创建多个用户帐户
@@ -69,10 +69,10 @@ ms.locfileid: "82798625"
 
 7. 选择“验证”。 
 
-    **请注意**  ，大多数帐户创建错误是由数据文件问题引起的，其中包括缺少的信息、格式不正确的或重复的电子邮件地址，或者文件中的记录过多。
+    **注意**   大多数帐户创建错误都是由数据文件问题引起的，其中包括缺少的信息、格式不正确或重复的电子邮件地址，或者文件中的记录过多。
 
 8. 合作伙伴中心验证该文件后，选择新用户的地理**位置**。
-9. 选择“保存”  。
+9. 选择“保存” 。
 10. 下载用户的临时密码信息。
 
 **重要提示：** 确保现在就下载具有临时密码的文件，在后续步骤中将无法下载。 新用户必须使用新帐户的临时密码登录新帐户。

@@ -1,31 +1,31 @@
 ---
-title: 基于许可证的计费 |合作伙伴中心
+title: 基于许可证的计费
 ms.topic: article
-ms.date: 11/21/2019
-Description: 有关合作伙伴中心中基于许可证的计费的信息，在此情况下，将按许可证（不是许可证使用情况）计费。
+ms.date: 05/18/2020
+Description: 了解基于许可证的计费与基于使用情况的计费在合作伙伴中心的不同之处，包括按许可证计费的方式（不是许可证使用情况）。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费，付款，基于许可证，许可证
 ms.localizationpriority: medium
-ms.openlocfilehash: 7205d843c9eacbfe4ab1eb6975aa42f5609fb8be
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798885"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795789"
 ---
-# <a name="license-based-billing"></a>基于许可证的计费
+# <a name="license-based-billing-in-partner-center"></a>合作伙伴中心的基于许可证的帐单
 
 **适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
-**相应的角色**
--   全局管理员
--   用户管理员
--   计费管理员
--   管理员代理
+**适当的角色**-全局管理员
+- 用户管理员
+- 计费管理员
+- 管理员代理
 
 在需要**许可证**的合作伙伴中心购买产品或联机服务时，需要为购买的*每个许可证*付费。 *不会*按这些许可证的使用情况进行计费。 （有关基于使用情况的计费和其他计费类型的信息，请参阅[合作伙伴中心的计费类型](billing-different-types.md)。）
 
@@ -48,7 +48,7 @@ ms.locfileid: "82798885"
 
 ## <a name="license-cancellation"></a>许可证取消
 
-你可以在[许可期限](#license-term)内随时取消许可证。 但是，取消的月份会影响你为取消的许可证接收多少信用额度。
+你可以在[许可期限](#license-term)内随时取消许可证。 但是，取消的月份会影响你为已取消的许可证收到多少信用额度。
 
 如果在第1个月暂停订阅，则将贷记100%。
 
@@ -56,4 +56,14 @@ ms.locfileid: "82798885"
 
 ## <a name="license-renewal"></a>许可证续订
 
-所有基于许可证的订阅会在付费期限开始后自动续订12个月。
+所有基于许可证的订阅在付费期限开始后 autorenew 12 个月。
+
+## <a name="next-steps"></a>后续步骤
+
+- [合作伙伴中心计费概述](billing-basics.md)
+
+- [合作伙伴中心的计费类型](billing-different-types.md)
+
+- [按月和按年计费的差异](billing-annual-monthly.md)
+
+- [主帐单和税务文章](billing.md)

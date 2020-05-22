@@ -1,7 +1,7 @@
 ---
-title: 查看客户活动日志 | 合作伙伴中心
+title: 获取客户活动日志的见解
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何查看和导出活动日志，以获取有关客户帐户交易以及其他客户相关合作伙伴管理活动的见解。
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 活动日志, 订阅, 付款, 计费, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798655"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794968"
 ---
-# <a name="view-customer-activity-logs"></a>查看客户活动日志
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或导出客户活动日志以更深入了解客户交易
 
 **适用于**
 

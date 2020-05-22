@@ -1,24 +1,24 @@
 ---
-title: 合作伙伴中心见解-Azure 使用情况报告 |合作伙伴中心
+title: 合作伙伴中心见解 Azure 使用情况报表
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你的工作情况，以及你为客户销售或管理的 Azure 订阅的使用情况。
 ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，Azure 使用情况，订阅，分析，报告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648078"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795675"
 ---
-# <a name="azure-usage-report"></a>Azure 使用情况报表
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
 
 **相应的角色**
 - 全局管理员
@@ -74,3 +74,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 条形图显示了每月收入/使用小时趋势。 折线图显示了所选 Azure 服务级别/计量类别相对于上个月的增长趋势。
 
 ![Azure 使用情况](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>后续步骤
+
+- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。
