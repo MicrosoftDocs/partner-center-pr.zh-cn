@@ -83,6 +83,9 @@
 ### [管理业务配置文件](create-a-marketing-profile.md)
 ### [管理潜在客户](manage-leads.md)
 ### [管理联合销售机会](manage-co-sell-opportunities.md)
+### [用于 Dynamics 365 CRM 的联合销售连接器](dynamics-connector.md)
+### [用于 Salesforce CRM 的联合销售连接器](salesforce-connector.md)
+### [使用 Webhook API 在引荐中注册资源更改事件](referral-connector-webhooks.md)
 ### [注册交易](register-deals.md)
 ### [获取引荐见解](referral-insights.md)
 ### [分析业务资料](analyze-your-marketing-profile.md)
@@ -123,7 +126,7 @@
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
-# [云解决方案提供商产品/服务](csp-offers.md) 
+# [云解决方案提供商产品/服务](csp-offers.md)
 ## 商业市场
 ### [商业市场概述](csp-commercial-marketplace-overview.md)
 ### [发现市场产品/服务](csp-commercial-marketplace-discover.md)
