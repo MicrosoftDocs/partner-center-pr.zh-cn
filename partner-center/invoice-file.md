@@ -1,27 +1,29 @@
 ---
-title: 发票文件 |合作伙伴中心
+title: 了解计费发票中的字段
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: 了解发票文件中合作伙伴中心帐单的字段。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费，发票
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798895"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794863"
 ---
-# <a name="invoice-files"></a>发票文件
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作伙伴中心帐单发票-了解如何读取计费和一次性费用字段
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   计费管理员
--   支持人员代理
+
+- 全局管理员
+- 用户管理员
+- 计费管理员
+- 支持人员代理
 
 您可以使用下表来了解合作伙伴中心发票文件中的字段。
 
@@ -58,7 +60,7 @@ ms.locfileid: "82798895"
 
 | 字段 | 定义 |
 | ----- | ---------- |
-| Date | 购买的日期。 |
+| 日期 | 购买的日期。 |
 | 说明 | 产品名称。 |
 | 数量 | 购买的产品数量（如预留）。 |
 | 单价 | 每个产品的价格（如预留）。 |
