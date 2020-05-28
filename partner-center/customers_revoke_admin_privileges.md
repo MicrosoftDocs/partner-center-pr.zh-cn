@@ -1,22 +1,23 @@
 ---
-title: 客户将管理权限委派给合作伙伴 | 合作伙伴中心
+title: 获取客户的管理员权限
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何让客户将管理员权限委派给经销商或者删除相同的权限，以及如何使用这些权限。
+description: 获取代表客户管理其服务或订阅所需的权限。 了解如何授予、撤销和管理权限。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: 委派的管理员权限, 代表管理员, 删除权限, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340055"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394182"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>客户将管理权限委派给合作伙伴
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>获取管理客户服务或订阅的权限
 
 **适用于**
 
@@ -31,18 +32,18 @@ ms.locfileid: "78340055"
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 
-1.  选择“客户”，然后选择“请求经销商关系”。  
+1.  选择“客户”，然后选择“请求经销商关系”。 
 
 2.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，也可以将邮件复制到剪贴板，然后将它粘贴到电子邮件中。 
 
     >[!IMPORTANT]
     >你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 
     
-3.  完成此步骤后选择“完成”  。
+3.  完成此步骤后选择“完成”。
 
 4.  将电子邮件发送到客户。
 
-5.  客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。 
+5.  客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。
 
 6.  若要管理客户的帐户、服务、用户和许可证，请选择客户名称附近的向下箭头来展开他们的记录，然后选择要管理的服务的管理门户。
 
@@ -53,13 +54,13 @@ ms.locfileid: "78340055"
 
 1. 客户需要以全局管理员身份登录到 Office 365 管理门户。
 
-2. 选择“设置” > “合作伙伴关系”。  
+2. 选择“设置” > “合作伙伴关系”。 
 
-3. 在“合作伙伴关系”页上，客户可以看到与他们合作的合作伙伴列表，以及被授予他们租户的委派管理权限的合作伙伴。 
+3. 在“合作伙伴关系”页上，客户可以看到与他们合作的合作伙伴列表，以及被授予他们租户的委派管理权限的合作伙伴。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客户可以管理合作伙伴的委派管理员权限 
 
-客户可能决定从他们的租户删除你的委派管理员权限，但会出于订阅和许可续订目的保留与你的关系。 客户可以在 Office 365 管理中心的“合作伙伴关系”页面上管理他们 Office 365 帐户的权限。  在此页面上，客户可以：
+客户可能决定从他们的租户删除你的委派管理员权限，但会出于订阅和许可续订目的保留与你的关系。 客户可以在 Office 365 管理中心的“合作伙伴关系”页面上管理他们 Office 365 帐户的权限。 在此页面上，客户可以：
 
 - 查看他们已建立关系的合作伙伴以及哪些合作伙伴具有委派管理员权限
 
@@ -67,9 +68,9 @@ ms.locfileid: "78340055"
 
 删除合作伙伴的委派管理权限：
 
-1. 在“合作伙伴关系”页面上，选择目标合作伙伴。 
-2. 在详细信息窗格中，选择“删除委派管理员”。 
-3. 在确认窗格中，选择“删除”。 
+1. 在“合作伙伴关系”页面上，选择目标合作伙伴。
+2. 在详细信息窗格中，选择“删除委派管理员”。
+3. 在确认窗格中，选择“删除”。
 
 >[!IMPORTANT]  
 >针对合作伙伴的 Azure AD 角色分配是隐式的。 如果你尝试使用 Azure AD 门户/PowerShell/Graph 列出 Azure AD 角色的成员，将不会返回任何合作伙伴。 若要了解合作伙伴是否被分配了 Azure AD 角色，必须参阅 Office 365 管理门户中的合作伙伴关系页面来了解是否已向该合作伙伴授予了委派管理权限。

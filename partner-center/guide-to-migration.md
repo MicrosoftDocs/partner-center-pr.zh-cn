@@ -1,7 +1,7 @@
 ---
-title: 从 PMC 迁移到合作伙伴中心的指南
+title: 从 PMC 迁移到合作伙伴中心
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将你的公司从 Partner Membership Center (PMC) 迁移到合作伙伴中心。
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362395"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795831"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
@@ -42,7 +43,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 ### <a name="when-youre-ready"></a>准备就绪时
 
-在邀请信件中选择“开始”。  随后会转到合作伙伴中心登录页。
+在邀请信件中选择“开始”。 随后会转到合作伙伴中心登录页。
 
 ![入门](images/migration/getstarted.jpg)
 
@@ -55,11 +56,11 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 ![将公司信息告诉我们](images/migration/newtellusabout.png)
 
-验证或更新信息后，选择“接受并继续”。 
+验证或更新信息后，选择“接受并继续”。
 此页上的条款和条件与公司已在 PMC 中签署的协议**完全相同**。  
-然后，将开始创建 Azure AD 租户并提供工作帐户。
+此步骤将开始创建 Azure AD 租户并为你提供工作帐户。
 
-选择“接受并继续”还会执行以下操作： 
+选择“接受并继续”还会执行以下操作：
 
 - 将帐户连同其所有位置一起迁移到合作伙伴中心
 
@@ -89,7 +90,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>熟悉仪表板和合作伙伴中心
 
-全面浏览一下仪表板。 在仪表板中可以管理会员资格、添加企业档案供我们引荐、注册云解决方案提供商计划，并随时可以通过选择“仪表板”来查看与自己的业务相关的通知和套餐。  还可以管理奖励、在市场中购买套餐、注册市场投放服务，等等。  
+全面浏览一下仪表板。 在仪表板中可以管理会员资格、添加企业档案供我们引荐、注册云解决方案提供商计划，并随时可以通过选择“仪表板”来查看与自己的业务相关的通知和套餐。 还可以管理奖励、在市场中购买套餐、注册市场投放服务，等等。  
 
 ![全面浏览](images/migration/fre.png)
 

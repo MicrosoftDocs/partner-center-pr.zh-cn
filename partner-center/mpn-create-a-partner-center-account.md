@@ -1,21 +1,22 @@
 ---
-title: 创建合作伙伴中心帐户 | 合作伙伴中心
+title: 创建合作伙伴中心帐户
 ms.topic: article
-ms.date: 02/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft 合作伙伴网络成员需要创建合作伙伴中心帐户，才能管理其网络权益和能力，以及创建业务档案。
+description: 了解 Microsoft 合作伙伴网络成员如何创建业务配置文件和合作伙伴中心帐户，以便管理其网络权益和资格。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: fce9dd9d4d32dfa39d82d17f9758228a8781837f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798855"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795732"
 ---
-# <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
+# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务配置文件和合作伙伴中心帐户来管理网络权益和资格
 
 **相应的角色**
 
@@ -42,15 +43,15 @@ ms.locfileid: "82798855"
  
 ## <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
-1.  查看“欢迎”  页上的信息，然后选择“下一步”  。
+1.  查看“欢迎”页上的信息，然后选择“下一步”。
 
 2.  以全局管理员身份登录到贵公司的工作帐户。 如果不确定公司的工作帐户是什么，请参阅[公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
 
-    如果你知道贵公司有工作电子邮件帐户，请选择“登录”  。 在下一页上，输入贵公司工作帐户的全局管理员凭据。 
+    如果你知道贵公司有工作电子邮件帐户，请选择“登录”。 在下一页上，输入贵公司工作帐户的全局管理员凭据。 
 
-    如果公司没有工作帐户，请选择“创建一个”以立即设置一个工作帐户。  创建工作帐户后，使用刚刚创建的工作帐户的全局管理员凭据登录。
+    如果公司没有工作帐户，请选择“创建一个”以立即设置一个工作帐户。 创建工作帐户后，使用刚刚创建的工作帐户的全局管理员凭据登录。
 
-3.  提供或更新贵公司的法定企业档案和主要联系人信息，然后选择“立即注册”  。 
+3.  提供或更新贵公司的法定企业档案和主要联系人信息，然后选择“立即注册”。 
 
     主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（可以是你或贵公司中的其他人）。 我们还将使用此信息来验证此人是否在贵公司中工作以及是否已注册合作伙伴中心帐户。
 
@@ -61,9 +62,9 @@ ms.locfileid: "82798855"
 
 5.  验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-    a. 在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home**)中，选择“设置”  图标，然后选择“用户管理”  。  
+    a. 在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home**)中，选择“设置”图标，然后选择“用户管理”。  
 
-    b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择“管理员代理”  。 选择“更新”  。  
+    b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择“管理员代理”。 选择“更新”。  
 
 ## <a name="next-steps"></a>后续步骤
 

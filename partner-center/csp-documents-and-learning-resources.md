@@ -1,28 +1,29 @@
 ---
-title: 云解决方案提供商协议、价目表和产品/服务 | 合作伙伴中心
+title: 云解决方案提供商协议、价目表和产品/服务
 ms.topic: article
-ms.date: 02/03/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在本文中查找指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和套餐的链接。
+description: 查找指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: LauraBrenner
 ms.author: labrenne
 keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: high
-ms.openlocfilehash: 8e3b5c7a8718de446c3d09daa735f425d627648c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 25b703b5235410bce36d5a54b4b37ccf4621bb90
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798475"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795598"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 
 查看本文中的信息，了解参与 Microsoft 云解决方案提供商 (CSP) 计划的要求。
@@ -61,7 +62,7 @@ ms.locfileid: "82798475"
 
 ## <a name="pricing"></a>定价
 
-在可从“合作伙伴中心”  菜单访问的“定价和套餐”  页面中下载基于许可证、基于使用情况和一次性购买的定价详细信息。
+在可从“合作伙伴中心”菜单访问的“定价和套餐”页面中下载基于许可证、基于使用情况和一次性购买的定价详细信息。
 
 基于许可证的价目表按月更新，Microsoft 在其生效前 30 天发布新的定价。 基于许可证的服务的示例包括 Office 365、企业移动性套件和 Microsoft Dynamics CRM。 
 
@@ -69,12 +70,12 @@ ms.locfileid: "82798475"
 
 一次性购买定价也是动态的。 例如，一次性购买包括 Microsoft Azure 预订以及相应的 Windows Server 和 SQL 软件订阅。
 
-有关 Azure 市场套餐的定价信息，请转到合作伙伴中心左侧导航菜单中的“市场”。  选择一个产品，查看发布者、SKU 和定价方面的信息。 这些 Azure 市场产品的价格可能会频繁变化。 若要获取所有市场产品的当前定价信息，请选择“导出价目表”，以便生成一个包含所有定价数据的电子表格。  该信息每日进行更新，因此你可以尽量多查看。
+有关 Azure 市场套餐的定价信息，请转到合作伙伴中心左侧导航菜单中的“市场”。 选择一个产品，查看发布者、SKU 和定价方面的信息。 这些 Azure 市场产品的价格可能会频繁变化。 若要获取所有市场产品的当前定价信息，请选择“导出价目表”，以便生成一个包含所有定价数据的电子表格。 该信息每日进行更新，因此你可以尽量多查看。
 
 ## <a name="offers"></a>产品/服务
 
-作为云解决方案提供商计划中的合作伙伴，你可以销售很多 Microsoft 产品、服务和解决方案，包括 Office 365、企业移动性套件、Microsoft Dynamics 和 Microsoft Azure。 有关在这些产品系列中可销售哪些套餐的详细信息，请参阅可从“合作伙伴中心”  菜单访问的“定价和套餐”  页面上的云解决方案提供商套餐矩阵。 本文档按月更新。
+作为云解决方案提供商计划中的合作伙伴，你可以销售很多 Microsoft 产品、服务和解决方案，包括 Office 365、企业移动性套件、Microsoft Dynamics 和 Microsoft Azure。 有关在这些产品系列中可销售哪些套餐的详细信息，请参阅可从“合作伙伴中心”菜单访问的“定价和套餐”页面上的云解决方案提供商套餐矩阵。 本文档按月更新。
 
-对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在“定价和套餐”  页面上发布了云解决方案提供商计划中 Azure 服务的列表。
+对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在“定价和套餐”页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 
-若要了解独立软件供应商  (ISV) 发布的 Azure 市场套餐，请访问左侧导航菜单中的“市场”页面。  目前，只能在合作伙伴中心购买 SaaS（软件即服务）产品类型。 需要访问 Azure 门户才能获取其他类型的 Azure 市场套餐。
+若要了解独立软件供应商  (ISV) 发布的 Azure 市场套餐，请访问左侧导航菜单中的“市场”页面。 目前，只能在合作伙伴中心购买 SaaS（软件即服务）产品类型。 需要访问 Azure 门户才能获取其他类型的 Azure 市场套餐。

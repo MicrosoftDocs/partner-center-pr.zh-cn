@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴中心帐户 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心管理公司的档案、目录、银行和税务信息、角色、权限等。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859369"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795697"
 ---
 # <a name="manage-your-partner-center-account"></a>管理合作伙伴中心帐户
 
@@ -44,14 +44,14 @@ ms.locfileid: "82859369"
 
 ## <a name="account-management"></a>帐户管理
 
-目前，合作伙伴中心在两个不同的部分进行帐户管理：“合作伙伴设置”  和“开发人员设置”  。
+目前，合作伙伴中心在两个不同的部分进行帐户管理：“合作伙伴设置”和“开发人员设置”。
 
 >[!NOTE]
->若要访问“合作伙伴设置”  或  “开发人员设置”，需要登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，然后在屏幕右上角选择“设置”  选项（齿轮图标）。 然后，可以从下拉菜单中选择“合作伙伴设置”  或  “开发人员设置”。
+>若要访问“合作伙伴设置”或“开发人员设置”，需要登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，然后在屏幕右上角选择“设置”选项（齿轮图标）。 然后，可以从下拉菜单中选择“合作伙伴设置”或“开发人员设置”。
 
 ![帐户设置](images/accountsettings/account1.png)
 
-合作伙伴可以看到用于管理“合作伙伴设置”和/或“开发人员设置”的选项，具体取决于其公司是否已在这些计划中注册   。 仅当公司至少在一个与该设置关联的计划中注册时，设置选项才可用。
+合作伙伴可以看到用于管理“合作伙伴设置”和/或“开发人员设置”的选项，具体取决于其公司是否已在这些计划中注册 。 仅当公司至少在一个与该设置关联的计划中注册时，设置选项才可用。
 
 若要管理帐户设置，必须为涉及的计划选择适当的帐户设置选项。  
 
@@ -67,9 +67,17 @@ ms.locfileid: "82859369"
 |Office 应用商店|开发人员|
 |Edge 扩展|开发人员|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>“合作伙伴”和“开发人员”设置选项的差异
+## <a name="partner-and-developer-settings-options"></a>“合作伙伴设置”和“开发人员设置”选项
 
- “合作伙伴设置”选项将不同于“开发人员设置”  选项。 请参阅下面每组选项的示例屏幕截图。 如果有权访问其他计划，则可能还会看到不同于此处显示的屏幕截图示例的选项。
+### <a name="locate-your-mpn-id"></a>找到你的 MPN ID
+
+无论你是合作伙伴还是开发人员，都需要使用 MPN ID 来执行记录支持票证等任务。 如果你是开发人员，你的 MPN ID 位于“帐户设置”详细信息页。
+
+![MPN ID 位置](images/accountsettings/devmpnlocation.png)
+
+合作伙伴 MPN ID 位于“合作伙伴配置文件”页上。
+
+“合作伙伴设置”选项不同于“开发人员设置”选项。 请参阅下面每组选项的示例屏幕截图。 如果有权访问其他计划，则可能还会看到不同于此处显示的屏幕截图示例的选项。
 
 **“合作伙伴设置”选项**：
 
@@ -78,6 +86,7 @@ ms.locfileid: "82859369"
 **“开发人员设置”选项**：
 
 ![开发人员选项](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>在计划中注册
 
@@ -94,7 +103,7 @@ ms.locfileid: "82859369"
 
 ## <a name="the-account-picker"></a>帐户选取器
 
-可能有多个帐户。 如果有多个帐户，则会在左侧导航菜单中看到“帐户选取器”。 如果选择帐户选取器，则你所属的所有帐户都会显示为一个列表。 可以选择其中任何一个。在切换到该帐户后，会在其中看到与之相关的所有计划和信息。 如果看不到帐户选取器，则说明你是单个帐户的成员。
+可能有多个帐户。 如果有多个帐户，则会在左侧导航菜单中看到“帐户选取器”。 选择帐户选取器时，你所属的所有帐户会显示为一个列表。 可以选择其中任何一个。在切换到该帐户后，会在其中看到与之相关的所有计划和信息。 如果看不到帐户选取器，则说明你是单个帐户的成员。
 
 ![帐户选取器](images/accountsettings/accountpicker.png)
 

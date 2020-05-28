@@ -1,21 +1,22 @@
 ---
-title: 创建企业档案 | 合作伙伴中心
+title: 获取销售线索 - 创建业务配置文件
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何从 Microsoft 获取销售线索。 一个关键步骤是，在合作伙伴中心创建企业档案，从而使客户可以找到你。
+description: 了解如何从 Microsoft 获取销售线索。 一个关键方法是，在合作伙伴中心创建业务配置文件，从而使客户可以更轻松地找到你。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 企业档案, 营销档案
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722529"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795587"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>创建企业档案以从 Microsoft 取得商机
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>创建业务配置文件，以获取 Microsoft 销售线索并帮助客户找到你
 
 **适用于**
 
@@ -61,9 +62,9 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 针对你有权在其中开展业务的每个区域创建档案。 
 
-1. 从“合作伙伴中心”菜单中选择“引荐”&gt;“企业档案”&gt; 选择一个国家/地区 >“[创建企业档案](https://partnercenter.microsoft.com/pcv/publishing)”     。
+1. 从“合作伙伴中心”菜单中选择“引荐”&gt;“企业档案”&gt; 选择一个国家/地区 >“[创建企业档案](https://partnercenter.microsoft.com/pcv/publishing)”   。
 
-2. 在“创建企业档案”页上，选择一个地区，然后输入你的档案信息。 
+2. 在“创建企业档案”页上，选择一个地区，然后输入你的档案信息。
    > [!NOTE]  
    >  虽然合作伙伴中心支持多种语言，但诸如描述和自由格式标记之类的某些元素可能需要包含不同语言的文本，如本主题中所述。
 
@@ -148,5 +149,6 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 - 通过 Microsoft **获得资质标记**，以证明你擅长我们的产品。
 - 从赏识你的工作的客户那里**获得认可标记**。
 
-## <a name="related-topics"></a>相关主题
+## <a name="next-steps"></a>后续步骤
+
 [响应引荐](responding-to-referrals.md)

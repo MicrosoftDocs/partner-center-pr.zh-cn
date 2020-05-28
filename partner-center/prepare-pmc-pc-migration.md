@@ -1,27 +1,27 @@
 ---
-title: 准备从 Partner Membership Center 迁移到合作伙伴中心 | 合作伙伴中心
+title: 从 Partner Membership Center 迁移
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在将业务从 PMC 迁移到合作伙伴中心之前，请先查看有用的信息和常见问题解答。
+description: 在将业务从 Partner Membership Center 迁移到合作伙伴中心之前，请先查看有用的信息和常见问题解答。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859358"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795847"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
 **相应的角色**
--    全局管理员
--    用户管理员
--    销售代理
--    管理员代理
+- 全局管理员
+- 用户管理员
+- 销售代理
+- 管理员代理
 
 我们正在将成员资格管理从 Partner Membership Center (PMC) 迁移到合作伙伴中心- 管理与 Microsoft 的业务关系的单一目的地。 我们希望你迁移到合作伙伴中心后会尽可能实现轻松高效的管理。 我们确定了合作伙伴中心与 PMC 一些不同的部分，我们认为在你进行迁移之前需要了解这些部分并做好相应的准备。
 
@@ -123,7 +123,7 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
  **迁移到合作伙伴中心后如何查看 MCP 信息？**
 
-在面板的左侧导航栏中选择“资格”。  在“资格”页面中，你可以下载技能报告。  技能报告将列出合作伙伴中心中已获得了与资格相关的技能以及计划的用户。 如果你的用户获得了技能，但这些技能与你所围绕展开工作的资格无关，这些用户则不会在报告中列出。
+在面板的左侧导航栏中选择“资格”。 在“资格”页面中，你可以下载技能报告。 技能报告将列出合作伙伴中心中已获得了与资格相关的技能以及计划的用户。 如果你的用户获得了技能，但这些技能与你所围绕展开工作的资格无关，这些用户则不会在报告中列出。
 
 
  **合作伙伴中心中是否使用了客户证明？**

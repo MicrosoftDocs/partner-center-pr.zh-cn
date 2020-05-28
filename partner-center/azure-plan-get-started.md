@@ -1,29 +1,29 @@
 ---
-title: 转移到 Azure 计划 - 入门 | 合作伙伴中心
+title: 开始迁移到 Azure 计划
+description: 了解你和你的客户需要知道的有关使用 Azure 即用即付计划的信息，包括首要步骤、安全预防措施以及入门方式。
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 Azure 计划商务体验，以便以即用即付费率为客户购买 Azure 服务。 也了解新的安全要求。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure、Azure 计划、购买订阅、订阅
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681936"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394191"
 ---
-# <a name="move-to-azure-plan---get-started"></a>转移到 Azure 计划 - 入门
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>开始将即用即付费率与 Azure 计划配合使用
 
 Microsoft 在合作伙伴中心引入了新的商务体验。  使用此新商务体验，合作伙伴可以访问对签署了 Microsoft 客户协议的客户采用即用即付费率的客户的 Azure 服务。
 
 此计划简化了购买体验 - 可以在一个 Azure 计划中包含多个 Azure 订阅。 不再需要为每个 Azure 订阅单独提交订单。 在 Azure 的此新商务体验中，我们遵守全球一种定价的原则，使 CSP 合作伙伴能够以已发布的价格供应 Azure 产品。
 
-客户的数字变革要求需要合作伙伴提供新的技能。 许多客户希望合作伙伴提供的服务超越交易的价值，使其云旅程变得更平稳，同时帮助他们有效使用 Azure 服务。 Microsoft 合作伙伴在客户生命周期的各个阶段发挥着关键的作用。 此类合作伙伴服务在性质上不断发展，其中包括 Azure 资产监视、策略和监管、设置和配置精细调整、技术支持和其他各种服务。 它们要求合作伙伴非常熟悉客户的 Azure 环境，并能够对其管理的底层资源进行持续适当的监管和控制。 提供这种全天候云运营管理的计费合作伙伴有资格**赚取托管服务的返点**。
+客户的数字变革要求需要合作伙伴提供新的技能。 许多客户希望合作伙伴提供的服务超越交易的价值，使其云旅程变得更平稳，同时帮助他们有效使用 Azure 服务。 Microsoft 合作伙伴在客户生命周期的各个阶段发挥着关键的作用。 这些类型的合作伙伴服务实际上在不断发展，其中包括 Azure 资产监视、策略和监管、设置和配置精细调整、技术支持和其他各种服务。 它们要求合作伙伴非常熟悉客户的 Azure 环境，并能够对其管理的底层资源进行持续适当的监管和控制。 提供这种全天候云运营管理的计费合作伙伴有资格**赚取托管服务的返点**。
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>请确保客户已签署 Microsoft 客户协议
 
@@ -62,6 +62,8 @@ Microsoft 建议合作伙伴遵循通过 [Azure Active Directory Privileged Iden
 - [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
 
 - 合作伙伴中心仪表板价目表中提供了合作伙伴赚取的返点 (PEC) 的计算方式，以及有资格赚取合作伙伴返点的角色和所需权限（需要登录）。
+
+## <a name="next-steps"></a>后续步骤 
 
 - [如何确定合作伙伴赚取的返点 - 详细信息](partner-earned-credit-explanation.md)
 - [Azure 计划价目表说明](azure-plan-price-list.md)

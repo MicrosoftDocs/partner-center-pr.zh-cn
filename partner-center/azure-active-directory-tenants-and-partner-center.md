@@ -1,22 +1,23 @@
 ---
-title: 工作帐户与合作伙伴中心
+title: 链接工作帐户以访问合作伙伴中心
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解为何需要工作帐户来创建合作伙伴中心帐户。 检查你是否已有工作帐户。
+description: 创建将你的公司链接到合作伙伴中心帐户的工作帐户。 这使公司中的员工可以访问合作伙伴中心。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: 工作帐户, 电子邮件, 租户, Azure 租户, 创建帐户, 域名
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369264"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394221"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>公司的工作帐户与合作伙伴中心  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>创建将你的公司链接到合作伙伴中心帐户的工作帐户
 
 **适用于**
 
@@ -44,7 +45,7 @@ Microsoft 要求你将公司的工作帐户链接到你的新合作伙伴中心�
 
 如果你不确定公司是否有工作帐户，请遵循以下步骤进行检查。 如果你有有效的 Microsoft Azure 或 Office 365 订阅，则已经有了一个工作帐户。
 
-1. 登录 [Azure 门户](https://portal.azure.com)
+1. 登录 [Azure 门户](https://portal.azure.com)。
 
 2. 从菜单中选择“Azure Active Directory”，然后选择“域名”。
 

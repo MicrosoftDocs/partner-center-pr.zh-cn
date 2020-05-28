@@ -1,22 +1,23 @@
 ---
-title: 从 PMC 迁移到合作伙伴中心 | 合作伙伴中心
+title: 从 PMC 迁移到合作伙伴中心
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 PMC 和合作伙伴中心在续订、帐户结构、登录、用户角色和资格方面之间的差异和相似之处。
+description: 了解 PMC 和合作伙伴中心在续订、帐户结构、登录、用户角色和资格等方面之间的差异。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123305"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795756"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心
+# <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
 **相应的角色**
 -    全局管理员
@@ -68,7 +69,7 @@ ms.locfileid: "81123305"
 
 |**PMC**   |**合作伙伴中心**   |
 |-------------------------|:-------------------|
-|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料”   。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University  。
+|可以将同一 MCP ID 关联到多家公司。| 只能将一个 MCP ID 关联到一个合作伙伴中心帐户。 关联操作必须手动执行。 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料” 。 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 权益和 MSA
 

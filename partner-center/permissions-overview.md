@@ -1,27 +1,29 @@
 ---
-title: 分配用户角色和权限 | 合作伙伴中心
+title: 向用户分配角色和权限
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解哪些角色最适合管理商业交易、引荐、奖励或公司 MPN 成员资格的用户。
+description: 了解哪些角色最适合你所在公司的用户，这些用户在合作伙伴中心管理商业交易、引荐、奖励或 MPN 成员资格。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296391"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795885"
 ---
-# <a name="assign-users-roles-and-permissions"></a>为用户分配角色和权限
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 
 **相应的角色**
--    全局管理员
--    用户管理员
--    MPN 合作伙伴管理员
+
+- 全局管理员
+- 用户管理员
+- MPN 合作伙伴管理员
 
 你已设置合作伙伴档案，包括法定名称和地址、支持详细信息、税务豁免、银行信息和公司的主要联系人。 下一步：为用户设置密码和角色，使他们能够在合作伙伴中心开始与你合作。
 

@@ -1,23 +1,23 @@
 ---
-title: Microsoft 合作伙伴网络成员身份
+title: Microsoft 合作伙伴网络成员资格权益
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解与 Microsoft 合作的好处，包括 Microsoft Action Pack、资质，以及突显客户业务优势、将产品投放市场和销售解决方案所需的计划选项。
+description: 了解 Microsoft 提供的合作伙伴资格权益，包括 Microsoft Action Pack、资格，以及用于将产品投放市场和销售解决方案的计划选项。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362735"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795953"
 ---
-# <a name="partner-with-microsoft"></a>与 Microsoft 合作
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>与 Microsoft 合作 - 发现权益、如何帮助客户以及如何推动业务增长
 
 **相应的角色**
 
@@ -42,7 +42,7 @@ Action Pack 或初学者工具包提供软件和支持来构建基于 Microsoft 
 
 ### <a name="how-to-join"></a>如何加入
 
-若要加入 Microsoft 合作伙伴网络，请在 MPN 网站上转到[“会员”页](https://partner.microsoft.com/membership)，然后选择“注册”或“立即加入”。   
+若要加入 Microsoft 合作伙伴网络，请在 MPN 网站上转到[“会员”页](https://partner.microsoft.com/membership)，然后选择“注册”或“立即加入”。  
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>选择适合自己的 Microsoft 合作伙伴网络会员资格
 
