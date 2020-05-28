@@ -1,22 +1,22 @@
 ---
-title: 管理非支付、欺诈或滥用 |合作伙伴中心
+title: 管理拒不付款、欺诈或滥用
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解联机事务中涉及的各种风险以及管理和缓解这些风险的最佳实践，这一点很重要。
+description: 了解联机事务中涉及的各种风险以及用于管理和缓解这些风险的最佳实践，这一点很重要。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798795"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998443"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
@@ -26,10 +26,10 @@ ms.locfileid: "82798795"
 - Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   计费管理员
+- 全局管理员
+- 用户管理员
+- 管理员代理
+- 计费管理员
 
 你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此，*我们强烈建议您设置防欺诈防护和检测风险缓解*措施。
 
@@ -78,7 +78,7 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 
 - 尽可能与客户建立个人关系（例如，通过电话联系客户）。
 - 通过更好的方法（如使用信用报告机构或商业商业报表机构）验证客户的凭据和背景。
-- 在注册期间使用多重身份验证（如短信验证）来最大程度地减少对机器人帐户创建和购买的影响。
+- 在注册期间使用多重身份验证（如短信验证）来最大程度地减少对机器人帐户的创建和购买。
 - 使用服务（如数字标识服务）管理和跟踪标识。
 - 通过严格的信用卡欺诈检测系统对客户的财务强度进行评估。
 - 建立清晰的集合策略。 详细说明你的集合流程，以及何时对订阅的访问会受到非支付影响。 （你可以禁用访问或[暂停客户的](suspend-a-subscription.md)非付款订阅。）

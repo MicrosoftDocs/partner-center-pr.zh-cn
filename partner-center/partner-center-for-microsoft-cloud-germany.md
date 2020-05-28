@@ -1,49 +1,49 @@
 ---
-title: 德国 Microsoft 云合作伙伴中心 | 德国 Microsoft 云合作伙伴中心
+title: 德国 Microsoft 云合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 对于要向欧盟和欧洲自由贸易联盟国家/地区的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴来说，德国 Microsoft 云合作伙伴中心是其业务门户。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1f293a919b04b30ef8afdcadbc5a285698bb47b0
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b31b76da99659220dc43c9236a14c5f8362d5d77
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798755"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998373"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心
+# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Microsoft 云德国合作伙伴中心向欧盟 & EFTA 国家/地区的客户销售合作伙伴
 
 **适用于**
 
 -  德国 Microsoft 云合作伙伴中心
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   销售代理
--   计费管理员
 
-德国 Microsoft 云专为满足严格的德国数据保护要求而设计，并包含德国数据受托人，该受托人控制按照德国法律对客户数据进行物理和逻辑访问。 所有客户数据和以及对客户数据进行处理或控制访问的系统均位于德国数据中心。 在德国，这些数据中心之间的网络都是隔离且专用的。
+- 全局管理员
+- 用户管理员
+- 管理员代理
+- 销售代理
+- 计费管理员
 
-德国 Microsoft 云提供[Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)的单独实例，从德国数据中心提供。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
+德国 Microsoft 云专为满足严格的德国数据保护要求而设计，并包含德国数据受托人，该受托人控制按照德国法律对客户数据进行物理和逻辑访问。 所有客户数据以及处理或控制对客户数据的访问权限的系统位于德国数据中心。 这些数据中心之间的网络在德国内是独立的，并且是专用的。
+
+德国 Microsoft 云提供[Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)的单独实例，从德国的数据中心提供。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
 
 > [!IMPORTANT]
-
-> 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。 
-> 
+> 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。
+>
 > 前进后，新客户可选择使用当前可用的欧洲区域，或在德国可用时使用新区域。 有关详细信息，请参阅[Microsoft 提供德国的新数据中心提供的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>德国 Microsoft 云合作伙伴中心：在欧盟和欧洲自由贸易联盟内销售德国云解决方案
 
-注册德国 Microsoft 云的云解决方案提供商 (CSP) 后，你将使用合作伙伴中心向欧盟和欧洲自由贸易联盟国家/地区内的客户销售德国云特定的解决方案和服务。 
+注册德国 Microsoft 云的云解决方案提供商 (CSP) 后，你将使用合作伙伴中心向欧盟和欧洲自由贸易联盟国家/地区内的客户销售德国云特定的解决方案和服务。
 
-为遵守管理个人数据的收集和使用的德国法律法规以及重要的国际标准，使用特定服务门户管理以下合作伙伴中心任务。 
+为遵守管理个人数据的收集和使用的德国法律法规以及重要的国际标准，使用特定服务门户管理以下合作伙伴中心任务。
 
 功能 | 在何处完成任务
 :--- | :---
@@ -54,5 +54,4 @@ ms.locfileid: "82798755"
 
 
 有关管理用户和许可证的信息，请参阅[德国 Microsoft 云合作伙伴中心中的用户和许可证管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)。
-
 

@@ -1,34 +1,37 @@
 ---
-title: 美国政府 Microsoft 云合作伙伴中心 |美国政府 Microsoft 云合作伙伴中心
+title: Microsoft Cloud for US Government 合作伙伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 美国政府 Microsoft 云合作伙伴中心是想要为与美国政府机构开展合作的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴的业务门户。
+description: 此合作伙伴中心网站适用于向使用美国中的政府机构的客户提供 Microsoft 云解决方案的 Microsoft 合作伙伴。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798745"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998313"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 合作伙伴中心
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>适用于美国政府的 Microsoft 云合作伙伴中心支持对政府机构的合作伙伴产品/服务
 
 **适用于**
 
--  Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   管理员代理
--   销售代理
--   计费管理员
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求 
+- 全局管理员
+- 用户管理员
+- 管理员代理
+- 销售代理
+- 计费管理员
+
+
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求
 
 美国政府 Microsoft 云是专为美国政府从头开始设计的，可帮助美国联邦、州、本地或族群实体从一系列的 Microsoft 云计算服务中进行选择。 为了最大程度地满足公共部门客户的特定需求，Microsoft 已在数据中心中投入了大量资金，旨在满足数据保护与美国联邦和州政策、法规和要求的符合性要求。 美国政府 Microsoft 云合作伙伴中心允许合作伙伴将 Microsoft 云服务转售给这些客户。
 
@@ -45,7 +48,7 @@ ms.locfileid: "82798745"
 > [!NOTE]  
 > 在本文发表时，美国政府 Microsoft 云合作伙伴中心尚未提供下列合作伙伴中心功能（自发表以来，一些功能可能已添加到合作伙伴中心，此列表可能已过时）：
 
-- 寻找合作伙伴
+- 查找合作伙伴
 - 业务配置文件
 - 引荐
 - 请求与客户建立经销商关系（多渠道，多合作伙伴）
@@ -58,9 +61,9 @@ ms.locfileid: "82798745"
 
 以下合作伙伴中心任务通过使用美国政府 Microsoft 云的 Azure 管理门户进行管理： 
 
--   合作伙伴用户管理
--   客户用户和许可证管理
--   重置用户密码
+- 合作伙伴用户管理
+- 客户用户和许可证管理
+- 重置用户密码
 
 有关管理用户和许可证的信息，请参阅[美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)。
 

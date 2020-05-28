@@ -1,33 +1,35 @@
 ---
-title: 单时间计费，并选择定期收费 |合作伙伴中心
+title: 计费-一次性 & 选择定期计费
 ms.topic: article
-ms.date: 11/21/2019
-Description: 针对预设术语（每月和每年订阅）提前一次计费的信息，以及在合作伙伴中心选择定期收费（适用于 Microsoft 和第三方 ISV 产品）的计费。
+ms.date: 05/26/2020
+Description: 了解更多有关合作伙伴中心计费的详细信息，以便预先计费，为选择、定期收费付费。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费，一次性，定期，购买，收费，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798775"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998423"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和选择性定期费用的计费
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>一次计费，并在合作伙伴中心选择定期收费
+
 
 **适用于**
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   计费管理员
--   管理员代理
--   销售代理
+- 全局管理员
+- 用户管理员
+- 计费管理员
+- 管理员代理
+- 销售代理
 
-本主题介绍一次计费体验，并为 Microsoft 和第三方独立软件供应商（ISV）产品**选择定期收费**。 
+本文介绍一次计费体验，并为 Microsoft 和第三方独立软件供应商（ISV）产品**选择定期收费**。 
 
 **一次性计费**是为预设的条款提前购买软件订阅和 Azure 预订。 你可以购买一年或三年的条款。 然后，将按一次性总计对整个成本计费。
 
@@ -41,7 +43,7 @@ ms.locfileid: "82798775"
 > [!IMPORTANT]
 > [**基于许可证的订阅**](license-based-billing.md)和[**基于使用情况的订阅**](usage-based-billing.md)的定期收费的计费体验保持不变。
 
-订阅的**定期费用**（包括**基于许可证和基于使用情况的订阅**）是针对[**联机服务目录**](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有产品颁发的。 一些示例包括 Office 365、Microsoft 365、Azure Active Directory （Azure AD）、Azure （即用即付）、Dynamics 365 和 PowerBI Pro。
+订阅的**定期费用**（包括**基于许可证和基于使用情况的订阅**）是针对[**联机服务目录**](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有产品颁发的。 一些示例包括 Office 365、Microsoft 365、Azure Active Directory （Azure AD）、Azure （即用即付）、Dynamics 365 和 Power BI Pro。
 
 对于适用的订阅费用，**计费日期**是你创建合作伙伴中心帐户时选择的日期。 **计费周期**是在计费日期之前的月份。
 
