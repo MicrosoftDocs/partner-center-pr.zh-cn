@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 引用，webhook api，资源更改事件
 ms.localizationpriority: medium
-ms.openlocfilehash: a141776f1b591ebe41bb740051802b4b55cf36f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796203"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145081"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 注册资源更改事件
 
@@ -142,7 +142,7 @@ Webhook 现在可以侦听更改（创建和更新事件）。
 
 1. 在 CRM 中创建或更新引用并在伙伴中心同步时的引用同步：
 
-    a. 在 CRM 的 "**机会**" 部分中具有可见性的用户登录到 DYNAMICS 365 CRM 环境或 Salesforce CRM 环境。
+    a. 在 CRM 的 "**机会**" 部分中具有可见性的用户登录到 DYNAMICS 365 CRM 环境。
 
     b. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 

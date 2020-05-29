@@ -1,23 +1,23 @@
 ---
-title: 管理潜在客户
+title: 管理潜在客户 |合作伙伴中心
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用合作伙伴中心来响应引用并管理新的、现有的和已存档的潜在客户和引用。 了解将来如何获取更多的推荐。
-author: LauraBrenner
-ms.author: labrenne
+description: 了解如何响应引用、管理新的、现有的和存档的引用，并在将来获取更多的引用。
+author: vikramb
+ms.author: vikramb
 keywords: 引用，共同销售，交易
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796026"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145061"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潜在顾客，如客户查询、市场营销合格的潜在顾客和销售资格主管
+# <a name="manage-leads"></a>管理潜在顾客
 
 **适用于**
 
@@ -87,8 +87,19 @@ Microsoft 每年向其合作伙伴发送数百万个潜在顾客。 你可以从
 下面是一些提示，可帮助你获得更合适的推荐：
 
 - **在你的[业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中选择表示你的独特专长和业务模型的关键字和偏好设置**。 删除将生成你不感兴趣的引用的关键字。 如果你不想要处理特定规模的业务，请更新此首选项。
-- **在[业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中查看每个位置的联系信息**，确保你的团队收到传入警报。
+
+- **在[业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中查看每个位置的联系人信息**确保你的团队收到传入警报。
+
 - **快速响应引用**当你及时响应传入请求时，我们将增加你在未来的客户搜索结果中的可见性。 确保你的团队按照你的意图快速作出回应。
-- **审慎选择接受的交易**。 我们会监视你接受和拒绝的交易类型，并使用此信息帮助你查找类似的交易。 接受不太适合的交易不会改善搜索结果，可能会影响收到的潜在顾客的质量。
+
+- **Choosy 你接受的交易**我们会监视你接受和拒绝的交易类型，并使用此信息帮助你查找类似的交易。 接受不太适合的交易不会改善搜索结果，可能会影响收到的潜在顾客的质量。
+
 - **报告预计的交易量、关闭日期和交易的最终状态**（赢单或丢单）。 我们将使用此信息继续提供质量检索。
 
+## <a name="next-steps"></a>后续步骤
+
+- [管理联合销售机会](manage-co-sell-opportunities.md)
+
+- [获取 Dynamics 365 CRM 的共同销售连接器](connector-dynamics.md)
+
+- [获取 Salesforce CRM 的共同销售连接器](connector-salesforce.md)
