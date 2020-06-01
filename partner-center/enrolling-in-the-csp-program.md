@@ -1,22 +1,21 @@
 ---
-title: 注册到云解决方案提供商计划
+title: 注册云解决方案提供商计划 | 合作伙伴中心
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型 - 例如，间接经销商或直接帐单合作伙伴。
+description: 了解云解决方案提供商 (CSP) 计划中的不同销售模型，确定哪种模型最适合你的业务。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795166"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253924"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>注册到云解决方案提供商计划并建立可盈利的云解决方案业务
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
 **适用于**
 
@@ -42,7 +41,7 @@ ms.locfileid: "83795166"
 3. 在我们验证你的信息后，请接受 Microsoft 间接经销商协议条款。
 
 > [!IMPORTANT]  
-> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](https://partner.microsoft.com/pcv/announcements)）进行公布。
+> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>注册为间接经销商
 
