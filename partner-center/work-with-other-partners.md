@@ -8,12 +8,12 @@ description: 了解间接提供商如何与云解决方案提供商（CSP）计�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797575"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253934"
 ---
 # <a name="work-with-other-partners"></a>与其他合作伙伴合作
 
@@ -54,4 +54,4 @@ Microsoft 的国家云服务/产品中也提供多合作伙伴支持。
 Microsoft 的国家云产品/服务中也提供多渠道支持。
 
 > [!IMPORTANT]  
-> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](https://partner.microsoft.com/pcv/announcements)）进行公布。
+> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。
