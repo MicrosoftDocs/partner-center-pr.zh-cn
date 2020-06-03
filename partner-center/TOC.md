@@ -1,5 +1,7 @@
 # [关于 Microsoft 合作伙伴中心](index.yml)
 
+# [公告](announcements/TOC.md)
+
 # [合作伙伴网络成员身份](mpn-overview.md)
 ## [创建合作伙伴中心帐户](mpn-create-a-partner-center-account.md)
 ## [如何获取工作电子邮件地址](buy-email-domain.md)
