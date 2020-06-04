@@ -1,30 +1,30 @@
 ---
-title: 管理潜在客户 |合作伙伴中心
+title: 管理潜在客户
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何响应引用、管理新的、现有的和存档的引用，并在将来获取更多的引用。
-author: vikramb
-ms.author: vikramb
+description: 使用合作伙伴中心来响应引用并管理新的、现有的和已存档的潜在客户和引用。 了解将来如何获取更多的推荐。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 引用，共同销售，交易
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145061"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328328"
 ---
-# <a name="manage-leads"></a>管理潜在顾客
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潜在顾客，如客户查询、市场营销合格的潜在顾客和销售资格主管
 
 **适用于**
 
--  合作伙伴中心
--  引荐
--  Microsoft 解决方案提供商
--  业务配置文件
+- 合作伙伴中心
+- 引荐
+- Microsoft 解决方案提供商
+- 业务配置文件
 
 **相应的角色**
 

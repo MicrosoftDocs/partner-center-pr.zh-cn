@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 99f99b0b10630de60f3b6784d291b4e03cf8438a
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998313"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328188"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>适用于美国政府的 Microsoft 云合作伙伴中心支持对政府机构的合作伙伴产品/服务
 
@@ -29,7 +29,6 @@ ms.locfileid: "83998313"
 - 管理员代理
 - 销售代理
 - 计费管理员
-
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求
 
