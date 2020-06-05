@@ -1,29 +1,30 @@
 ---
-title: 销售商业市场产品的订阅 | 合作伙伴中心
+title: 销售商业 marketplace 订阅
 ms.topic: article
-ms.date: 11/17/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心，了解如何通过独立软件供应商（Isv）向市场发布的 SaaS 产品销售客户订阅。
-author: MicheleHope
-ms.author: v-mihope
+description: 在合作伙伴中心，了解如何向客户销售客户订阅，以通过独立软件供应商（Isv）发布到商业市场的 SaaS 产品。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 订阅, 市场, 第三方, ISV
 ms.localizationpriority: medium
-ms.openlocfilehash: 93a4547ba4361343b3c4cef05c7953e372ba627d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b18b0196b3aa8c3013fe7515b745277db7b55f21
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253082"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426016"
 ---
-# <a name="sell-subscriptions-to-commercial-marketplace-products"></a>销售商业市场产品的订阅
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>使用合作伙伴中心向商业 marketplace 产品销售客户订阅
 
 **适用于**
 
 - 合作伙伴中心
 - 云解决方案提供商合作伙伴
 
-作为 CSP 计划的合作伙伴，你可以使用合作伙伴中心向已通过独立软件供应商（Isv）发布到商业应用商店（[Microsoft AppSource](https://appsource.microsoft.com/)和[Azure Marketplace](https://azuremarketplace.microsoft.com/)）的软件即服务（SaaS）产品销售客户订阅。 
+作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心来向已通过独立软件供应商（Isv）发布到商业应用商店（[Microsoft AppSource](https://appsource.microsoft.com/)和[Azure Marketplace](https://azuremarketplace.microsoft.com/)）的软件即服务（SaaS）产品销售客户订阅。
 
 这样可以让你的业务脱颖而出并提供给客户解决其特定业务需求的软件捆绑包。 可以为这些市场 SaaS 产品管理许可证和订阅，就像为 Microsoft 产品管理一样。
 

@@ -1,28 +1,28 @@
 ---
-title: Microsoft 支持 | 合作伙伴中心
+title: Microsoft 支持
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 当你遇到 Microsoft 服务问题或合作伙伴中心问题时，可以向 Microsoft 反映以寻求帮助，并跟踪该问题直到它得到解决为止。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cc4b9ac8a371c63b44624431546dae359b9938db
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023470"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425887"
 ---
-# <a name="support-from-microsoft"></a>Microsoft 支持
+# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft 的支持-何时上报问题、如何报告问题，或如何检查服务运行状况
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
-
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 如果你遇到 Microsoft 服务问题或合作伙伴中心问题，可以向 Microsoft 反映以寻求帮助，并跟踪该问题直到它得到解决为止。
 

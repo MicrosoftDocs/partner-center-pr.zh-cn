@@ -1,7 +1,7 @@
 ---
 title: 将 Azure 订阅转移到另一个合作伙伴
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何帮助客户更改与该客户的 Azure 订阅关联的 CSP 计划合作伙伴。
@@ -9,14 +9,14 @@ ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
-ms.custom: SEOAPR.20
+ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
-ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
+ms.openlocfilehash: eddab485d222bb8d0c5aae7cd977b6c85a418051
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "83194387"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425891"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
