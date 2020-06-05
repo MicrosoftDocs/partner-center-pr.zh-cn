@@ -1,22 +1,23 @@
 ---
-title: 合作伙伴安全要求 | 合作伙伴中心
+title: 合作伙伴安全要求
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 介绍如何启用多重身份验证 (MFA) 以及如何采用安全应用程序模型框架，这些现在是合作伙伴所需的。
-author: isaiahwilliams
-ms.author: iswillia
+description: 合作伙伴要求简介，这些要求包括启用多重身份验证 (MFA) 和采用安全应用程序模型框架。
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77672797"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998263"
 ---
-# <a name="partner-security-requirements"></a>合作伙伴安全要求
+# <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>针对使用合作伙伴中心或合作伙伴中心 API 的合作伙伴的安全要求
 
 **适用于**
 
@@ -28,7 +29,8 @@ ms.locfileid: "77672797"
 - 所有顾问
 
 **相应的用户**
--   所有支持的用户，包括来宾用户
+
+- 所有支持的用户，包括来宾用户
 
 增强隐私保护和安全性是我们优先关注的事项。 我们知道，最好的防御措施是防患于未然，链条的强度取决于其最弱的一环。 因此，我们需要生态系统中的所有人都行动起来，确保将安全保护措施实施到位。 为了保护合作伙伴和客户，我们引入了一系列强制性安全要求，针对那些参与云解决方案提供商计划的顾问、控制面板供应商和合作伙伴。
 
@@ -40,7 +42,7 @@ ms.locfileid: "77672797"
 
 为了保护你和你的客户，我们要求合作伙伴立即采取以下措施：  
 
-1. **为合作伙伴租户中的所有用户帐户启用多重身份验证 (MFA)** 。 在登录到 Microsoft 商业云服务时，或者通过合作伙伴中心或 API 在云解决方案提供商处进行交易时，合作伙伴租户中的所有用户帐户必须接受多重身份验证 (MFA)。 
+1. **为合作伙伴租户中的所有用户帐户启用多重身份验证 (MFA)** 。 在登录到 Microsoft 商业云服务时，或者通过合作伙伴中心或 API 在云解决方案提供商计划中进行交易时，合作伙伴租户中的所有用户帐户必须接受多重身份验证 (MFA)。
 
 2. **采用安全应用程序模型框架**。 采用安全应用程序模型框架。 所有集成合作伙伴中心 API 的合作伙伴必须对任何应用 + 用户身份验证模型应用程序采用安全应用程序模型框架。
 
@@ -51,13 +53,13 @@ ms.locfileid: "77672797"
 
 ## <a name="actions-that-you-need-to-take"></a>需要采取的措施
 
-若要符合合作伙伴安全要求，你必须为合作伙伴租户中的每个用户帐户强制实施多重身份验证。 可以通过下述方式之一来实现这一点：
+若要符合合作伙伴安全要求，你必须为合作伙伴租户中的每个用户帐户强制实施多重身份验证。 可通过下述方法之一完成此操作：
 
 - 实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 
 - 为每个用户帐户购买 Azure Active Directory Premium。 有关详细信息，请参阅[规划基于云的 Azure 多重身份验证部署](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)。
 
-- 使用第三方解决方案为合作伙伴租户中的每个用户帐户强制实施多重身份验证。 请参阅[如何强制实施安全要求](#how-the-requirements-will-be-enforced)，更详细地了解如何确保解决方案会提供预期的信息。
+- 使用第三方解决方案为合作伙伴租户中的每个用户帐户强制实施多重身份验证。 要确保解决方案将提供预期的解决办法，请参阅[如何强制实施安全要求](#how-the-requirements-will-be-enforced)。
 
 > [!NOTE]
 > 虽然多重身份验证不是主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）的协议要求的，但我们仍强烈建议你履行这些安全要求。
@@ -66,13 +68,13 @@ ms.locfileid: "77672797"
 
 安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 启用安全默认值之前，请查看如何使用 Azure AD 为组织启用 MFA，并查看以下关键注意事项。
 
-- 基线策略在接下来的几个月仍然有效，但会在 2020 年 2 月末停用。
+- 基线策略在接下来的几个月仍然有效，但已在 2020 年 2 月末停用。
 
 - 已采用基线策略的合作伙伴需采取行动过渡到安全性默认设置。
 
 - 安全默认值是预览版基线策略的正式版替代品。 一旦合作伙伴启用了安全默认值，他们就不再能够启用基线策略。
 
-- 使用安全性默认设置时，所有策略都会一次性启用。 
+- 使用安全性默认设置时，所有策略都会一次性启用。
 
 - 对于使用[条件访问](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作伙伴，[安全默认值将不可用](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
 
@@ -91,7 +93,7 @@ ms.locfileid: "77672797"
 
 由于这些要求适用于合作伙伴租户中的所有用户帐户，因此需考虑多个事项以确保顺利进行部署，其中包括：确定 Azure Active Directory 中不能执行多重身份验证的用户帐户，以及组织所使用的不支持新式身份验证的应用程序和设备。
 
-建议在执行任何操作之前确定以下事项： 
+建议在执行任何操作之前确定以下事项：
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>你是否有不支持使用新式身份验证的应用程序或设备？
 
@@ -105,7 +107,7 @@ ms.locfileid: "77672797"
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>是否有策略阻止用户在工作时使用其移动设备？
 
-必须确定任何阻止员工在工作时使用移动设备的公司策略，因为它会影响你实现的具体的多重身份验证解决方案。 有的解决方案（例如通过实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)提供的解决方案）仅允许使用 Authenticator 应用进行验证。 如果组织的某项策略阻止使用移动设备，则应考虑以下选项之一：
+必须确定任何阻止员工在工作时使用移动设备的公司策略，因为它会影响你实现的具体的多重身份验证解决方案。 有的解决方案（例如通过实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)提供的解决方案）仅允许使用 Authenticator 应用进行验证。 如果组织的某项策略阻止使用移动设备，则请考虑以下选项之一：
 
 - 部署可以在安全系统上运行的基于时间的一次性密码 (TOTP) 应用程序
 
@@ -113,11 +115,11 @@ ms.locfileid: "77672797"
 
 - 为受影响的用户购买 [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) 许可证
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>你有什么样的利用用户凭据进行身份验证的自动化或集成？
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>你有哪种自动化或集成来利用用户凭据进行身份验证？
 
-由于此要求是对合作伙伴目录中的每位用户（包括服务帐户）强制实施 MFA，因此任何利用用户凭据进行身份验证的自动化或集成都会受影响。 因此，必须确定在这些情况下使用的是什么帐户。 下面是一个列表，其中包含应该考虑的应用程序或服务的示例：
+由于此要求是对合作伙伴目录中的每位用户（包括服务帐户）强制实施 MFA，因此任何利用用户凭据进行身份验证的自动化或集成都会受影响。 因此，必须确定在这些情况下使用的是什么帐户。 请查看以下列表，了解要考虑的示例应用程序或服务：
 
-- 控制面板，用于代表客户预配资源 
+- 控制面板，用于代表客户预配资源
 
 - 与任何用于客户发票（由于与 CSP 计划相关）和支持的平台的集成
 
@@ -127,13 +129,13 @@ ms.locfileid: "77672797"
 
 ## <a name="accessing-your-environment"></a>访问环境
 
-若要更好地了解哪个帐户或用户在进行身份验证时没有受到多重身份验证质询，建议查看登录活动。 可以通过 Azure Active Directory Premium 来利用登录报告。 有关详细信息，请参阅 [Azure Active Directory 门户中登录活动报告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果你没有 Azure Active Directory Premium 或正打算通过 PowerShell 获取此服务，则需要利用[合作伙伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模块中的 [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet。
+若要更好地了解哪个帐户或用户在进行身份验证时没有受到多重身份验证质询，建议查看登录活动。 可通过 Azure Active Directory Premium 利用登录报表。 有关详细信息，请参阅 [Azure Active Directory 门户中登录活动报告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果你没有 Azure Active Directory Premium 或正打算通过 PowerShell 获取此服务，则需要利用[合作伙伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模块中的 [Get-PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet。
 
 ## <a name="how-the-requirements-will-be-enforced"></a>将如何强制实施这些要求
 
 合作伙伴安全要求将先后由 Azure Active Directory 和合作伙伴中心强制实施，方法是：检查是否存在 MFA 声明，以便确定是否进行了多重身份验证。 从 2019 年 11 月 18 日开始，Microsoft 会激活针对合作伙伴租户的其他安全保护措施（以前称为“技术强制措施”）。 
 
-激活后，合作伙伴租户中的用户在执行任何管理员代表 (AOBO) 操作时都会被要求完成多重身份验证 (MFA)。 我们会继续将安全保护措施的范围扩大到其他方案和用户角色，但会提前通知合作伙伴。 有关详细信息，请参阅本文档（将会经常更新）。 尚未满足这些要求的合作伙伴应尽快实施这些措施，以免出现业务中断。 
+激活后，合作伙伴租户中的用户在执行任何管理员代表 (AOBO) 操作时都会被要求完成多重身份验证 (MFA)。 我们会继续将安全保护措施的范围扩大到其他方案和用户角色，但会提前通知合作伙伴。 有关详细信息，请参阅本文档（将经常更新）。 尚未满足这些要求的合作伙伴应尽快实施这些措施，以免出现业务中断。 
 
 如果使用 Azure 多重身份验证或 Azure AD 安全性默认设置，则不需执行任何其他操作。
 
@@ -144,9 +146,9 @@ ms.locfileid: "77672797"
 
 ## <a name="resources-and-support"></a>资源和支持
 
-下面是提供支持和示例代码的资源：
+请查看以下资源来获取支持和示例代码：
 
-- [合作伙伴中心安全指南组社区](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) - 这是一个在线社区，你可以在其中了解即将发生的事件并提问任何问题。
-- [Partner Center .NET Samples](https://github.com/microsoft/partner-center-dotnet-samples)（合作伙伴中心 .NET 示例） - 此 GitHub 存储库包含使用 .NET 开发的示例，用于演示如何实现安全应用程序模型框架。
-- [合作伙伴中心 Java 示例](https://github.com/microsoft/partner-center-java-samples) - 此 GitHub 存储库包含使用 Java 开发的示例，用于演示如何实现安全应用程序模型框架。
-- [合作伙伴中心 PowerShell - 多重身份验证](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) - 这是一篇详述如何使用 PowerShell 实现安全应用程序模型框架的文章。
+- [合作伙伴中心安全指导组社区](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)：合作伙伴中心安全指导组社区是一个网上社区，你可在这里了解即将发生的活动并就你可能遇到的任何问题提问。
+- [合作伙伴中心 .NET 示例](https://github.com/microsoft/partner-center-dotnet-samples)：这个 GitHub 存储库包含使用 .NET 开发的示例，用于演示如何实现安全应用程序模型框架。
+- [合作伙伴中心 Java 示例](https://github.com/microsoft/partner-center-java-samples)：这个 GitHub 存储库包含使用 Java 开发的示例，用于演示如何实现安全应用程序模型框架。
+- [合作伙伴中心 PowerShell - 多重身份验证](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)：这篇关于多重身份验证的文章详细介绍了如何使用 PowerShell 实现安全应用程序模型框架。

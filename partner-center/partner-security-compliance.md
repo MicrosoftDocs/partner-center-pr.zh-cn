@@ -1,6 +1,6 @@
 ---
-title: 合作伙伴安全要求状态 | 合作伙伴中心
-ms.date: 10/11/2019
+title: 合作伙伴安全要求状态
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解为了提高云解决方案提供商计划中的顾问、控制面板供应商以及合作伙伴的安全性而需满足的全新强制性要求。
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120388"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998293"
 ---
-# <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作伙伴安全要求状态 - 获得解答，查看关于当前状态的报表
 
 **适用于**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120388"
 - 所有顾问
 
 **相应的用户**
--    所有支持的用户，包括来宾用户
+- 所有支持的用户，包括来宾用户
 
 增强隐私保护和安全性是我们优先关注的事项。 我们知道，最好的防御措施是防患于未然，链条的强度取决于其最弱的一环。 因此，我们需要生态系统中的所有人都行动起来，确保将安全保护措施实施到位。 为了保护合作伙伴和客户，我们引入了一系列强制性安全要求，针对那些参与云解决方案提供商计划的顾问、控制面板供应商和合作伙伴。
 
@@ -73,7 +74,7 @@ ms.locfileid: "82120388"
 - 在剩余的 4 天里，这两名代理未执行任何操作。
 - 在 7 天内共执行了 10 项操作，其中，有 2 项操作是用户在已完成 MFA 验证的情况下执行的。 因此，指标显示 20%。
 
-使用“没有 MFA 的门户请求”  文件来了解哪些用户未进行 MFA 验证便已登录到合作伙伴中心仪表板，及其在报告时段内进行最后一次访问的时间。
+使用“没有 MFA 的门户请求”文件来了解哪些用户未进行 MFA 验证便已登录到合作伙伴中心仪表板，及其在报告时段内进行最后一次访问的时间。
 
 #### <a name="appuser-authentication"></a>应用+用户身份验证
 
@@ -88,8 +89,8 @@ ms.locfileid: "82120388"
 
 如果要了解哪些应用和用户活动导致此指标为非 100%，请使用文件：
 
--  “API 请求摘要”来了解应用程序的总体 MFA 状态。
--  “所有 API 请求”来了解租户的用户发出的每个 API 请求的详细信息，结果限制为最多 10000 个最新请求，以获得更好的下载体验。
+- “API 请求摘要”来了解应用程序的总体 MFA 状态。
+- “所有 API 请求”来了解租户的用户发出的每个 API 请求的详细信息，结果限制为最多 10000 个最新请求，以获得更好的下载体验。
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>如果 MFA 报告中的指标不是 100% 该怎么办
 

@@ -1,20 +1,21 @@
 ---
-title: 合作伙伴安全要求常见问题解答 | 合作伙伴中心
+title: 合作伙伴安全要求常见问题解答
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 关于合作伙伴安全要求的常见问题解答
-author: isaiahwilliams
-ms.author: iswillia
+description: 关于合作伙伴安全要求的常见问题，例如具体有哪些要求、合作伙伴应如何实施这些要求，以及你如何知道自己是否满足这些要求。
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529779"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998363"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -332,8 +333,9 @@ Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](ht
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>当我无法访问合作伙伴中心时，如何与支持部门取得联系？
 
-转到 [Microsoft 合作伙伴支持](https://partner.microsoft.com/support)，然后选择“显示所有支持选项”  。 你随即将看到用于联系 Microsoft 合作伙伴支持的可用选项。 这些选项包括用于呼叫支持人员的电话号码，以及用于与支持人员聊天的选项。 
+转到 [Microsoft 合作伙伴支持](https://partner.microsoft.com/support)，然后选择“显示所有支持选项”。 你随即将看到用于联系 Microsoft 合作伙伴支持的可用选项。 这些选项包括用于呼叫支持人员的电话号码，以及用于与支持人员聊天的选项。 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>在哪里可以找到常见技术问题的详细信息？
 
 可以在[此处](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)找到常见技术问题的信息。
+
