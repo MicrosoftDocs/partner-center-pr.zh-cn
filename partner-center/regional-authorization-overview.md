@@ -1,26 +1,26 @@
 ---
-title: CSP 全局市场 |合作伙伴中心
+title: CSP 全局市场
 ms.topic: article
-ms.date: 11/03/2018
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 根据公司的位置，查看可以销售 CSP 产品/服务的国家/地区和货币。
+description: 请参阅国家/地区和货币，根据公司的位置，你可以在其中销售 CSP 优惠。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: LauraBrenner
 ms.author: labrenne
 keywords: CSP 市场，区域，可在其中销售 CSP、CSP 产品、区域、销售云解决方案、全局 CSP
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 17b2b27b0a1398128f479c39566efd36377af692
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7d7d67bded18dfacd568d23e61d165de0be68f0f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798695"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467427"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>云解决方案提供商计划区域市场和货币
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
 
-公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。
+你公司的位置决定了你的市场。 市场包括可以销售云解决方案提供商（CSP）计划提供的区域和/或国家/地区。
 
 例如，如果你的公司位于美国，则可以在美国和美国外岛向客户销售 CSP 优惠。 如果你的公司位于巴西，则只能在巴西向客户销售 CSP 优惠。 如果你的公司位于非洲地区，你可以向非洲地区的所有18个国家/地区的客户销售 CSP 优惠。
 
@@ -35,9 +35,9 @@ ms.locfileid: "82798695"
 
 如果你的国家/地区不受支持，请使用 Office 管理员 URL 建立客户 CSP 关系。 
 
-- 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0。 将**partnertenantguid**替换为你的租户 ID。 
+- 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 将**partnertenantguid**替换为你的租户 ID。 
 
-- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid。 将**IRtenantguid**替换为你的租户 ID。 将**IRMPNID**替换为你的 MPN ID，并将**IPtenantguid**替换为间接提供商租户 ID。
+- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 将**IRtenantguid**替换为你的租户 ID。 将**IRMPNID**替换为你的 MPN ID，并将**IPtenantguid**替换为间接提供商租户 ID。
 
 ## <a name="africa-region-and-market"></a>非洲地区和市场
 
@@ -56,13 +56,13 @@ ms.locfileid: "82798695"
 | 乍得                     |   USD    |
 | 科摩罗                  |   USD    |
 | 刚果                    |   USD    |
-| 刚果（民主共和国）              |   USD    |
+| 刚果（金）              |   USD    |
 | 科特迪瓦            |          |
 | 吉布提                 |   USD    |
 | 赤道几内亚        |   USD    |
 | 厄立特里亚                  |   USD    |
 | 埃塞俄比亚                 |          |
-| 法属玻里尼西亚         |   USD    |
+| 法属波利尼西亚         |   USD    |
 | 加蓬                    |   USD    |
 | 冈比亚                   |   USD    |
 | 加纳                    |   USD    |
@@ -100,7 +100,7 @@ ms.locfileid: "82798695"
 
 | 国家/地区     | 货币 |
 | --------------     |:--------:|
-|  孟加拉        |   USD    |
+|  孟加拉国        |   USD    |
 |  不丹            |          |
 |  文莱 |   USD    |
 |  柬埔寨          |          |
@@ -127,8 +127,8 @@ ms.locfileid: "82798695"
 |  国家/地区        | 货币 |
 |  --------------        |:--------:|
 |  澳大利亚             |   AUD    |
-|  圣延岛      |   AUD    |
-|  科科斯群岛|   AUD   |
+|  圣诞岛      |   AUD    |
+|  科科斯（基林）群岛|   AUD   |
 |  库克群岛          |   AUD    |
 |  斐济                  |   AUD    |
 |  法属南部领地| AUD |
@@ -166,7 +166,7 @@ ms.locfileid: "82798695"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  Canada         |   CAD    |
+|  加拿大         |   CAD    |
 |  圣皮埃尔和密克隆岛|  CAD   |
 |
 
@@ -194,13 +194,13 @@ ms.locfileid: "82798695"
 |  直布罗陀      |   GBP    |
 |  希腊         |   EUR    |
 |  格陵兰      |          |
-|  格恩西岛       |   GBP    |
+|  根西岛       |   GBP    |
 |  匈牙利        |   EUR    |
 |  冰岛        |   EUR    |
 |  爱尔兰        |   EUR    |
-|  曼岛    |   GBP    |
+|  马恩岛    |   GBP    |
 |  意大利          |   EUR    |
-|  泽西         |   GBP    |
+|  泽西岛         |   GBP    |
 |  拉脱维亚         |   EUR    |
 |  列支敦士登  |   EUR    |
 |  立陶宛      |   EUR    |
@@ -256,15 +256,15 @@ ms.locfileid: "82798695"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  安圭拉岛       |   USD    |
+|  安圭拉       |   USD    |
 |  南极洲     |   USD    |
 |  安提瓜和巴布达| USD  |
 |  阿根廷      |   USD    |
-|  阿鲁巴岛          |   USD    |
+|  阿鲁巴          |   USD    |
 |  巴哈马        |   USD    |
 |  巴巴多斯       |   USD    |
 |  伯利兹         |   USD    |
-|  百慕大群岛        |   USD    |
+|  百慕大        |   USD    |
 |  玻利维亚        |   USD    |
 |  博内尔        |   USD    |
 |  英属维尔京群岛|USD|
@@ -272,15 +272,15 @@ ms.locfileid: "82798695"
 |  智利          |   USD    |
 |  哥伦比亚       |   USD    |
 |  哥斯达黎加     |   USD    |
-|  库拉索岛        |   USD    |
-|  多米尼加       |  USD     |
+|  库拉索        |   USD    |
+|  多米尼克       |  USD     |
 |  多米尼加共和国| USD   |
 |  厄瓜多尔        |   USD    |
 |  萨尔瓦多    |   USD    |
 |  福克兰群岛|  USD    |
 |  法属圭亚那  |   USD    |
 |  格林纳达        |   USD    |
-|  瓜德罗普岛     |          |
+|  瓜德罗普     |          |
 |  危地马拉      |   USD    |
 |  圭亚那         |   USD    |
 |  海地          |   USD    |
@@ -339,7 +339,7 @@ ms.locfileid: "82798695"
 |  莱索托        |   USD    |
 |  利比亚          |          |
 |  马其顿共和国|   |
-|  毛里塔尼亚     |   USD    |
+|  毛利塔尼亚     |   USD    |
 |  摩尔多瓦        |          |
 |  蒙古       |          |
 |  黑山     |          |
@@ -391,7 +391,7 @@ ms.locfileid: "82798695"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  中国台湾         |   TWD    |
+|  台湾         |   TWD    |
 |
 
 ## <a name="united-states-region-and-market"></a>美国地区和市场
@@ -400,6 +400,6 @@ ms.locfileid: "82798695"
 
 |  国家/地区       | 货币 |
 |  -------------        |:--------:|
-|  United States        |   USD    |
+|  美国        |   USD    |
 |  美国本土外小岛屿|   USD    |
 |

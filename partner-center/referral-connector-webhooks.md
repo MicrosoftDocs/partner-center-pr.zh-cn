@@ -1,23 +1,24 @@
 ---
 title: 使用 Webhook 获取资源更改事件
 ms.topic: article
-ms.date: 05/08/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用 Webhook Api 了解何时发生了引用资源更改
+description: 使用合作伙伴中心 Webhook Api 了解 Dynamics 365 CRM 或 Salesforce CRM 何时发生了引用资源更改。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 引用，webhook api，资源更改事件
 ms.localizationpriority: medium
-ms.openlocfilehash: 4eb8d03bb8230117457d2a0e27ef10382248008b
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452734"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467467"
 ---
-# <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 注册资源更改事件
+# <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>使用 Webhook Api 为 Dynamics 365 CRM 和 Salesforce CRM 注册资源更改事件
 
 ### <a name="appropriate-roles"></a>相应的角色
 

@@ -1,20 +1,21 @@
 ---
-title: 对帐文件费用类型 |合作伙伴中心
+title: 对帐文件费用类型
 ms.topic: article
-ms.date: 01/06/2020
-description: 合作伙伴中心对帐文件的费用类型（基于许可证、基于使用情况的和一次性）、信用额度和折扣。
+ms.date: 06/05/2020
+description: 了解合作伙伴中心对帐文件中的费用类型（例如，基于许可证、基于使用情况和一次性）、信用额度和折扣。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b18a2a7d53e2f9d35baac2412c1710c21d6d98eb
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716868"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467507"
 ---
-# <a name="understand-charge-types"></a>了解费用类型
+# <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>了解合作伙伴中心对帐文件中的不同费用类型
 
 **适用于**
 
@@ -24,7 +25,7 @@ ms.locfileid: "75716868"
 **相应的角色**
 
 - 管理员代理
-- 帐单管理员
+- 计费管理员
 - 全局管理员
 
 本主题介绍了发票部分与可能在对帐文件上的相关费用类型之间的映射。 发票提供费用的摘要。 你的对帐文件提供行项事务的详细细分，包括费用类型。 有关对帐文件的详细信息，请参阅[如何使用协调文件](use-the-reconciliation-files.md)。
@@ -56,7 +57,7 @@ ms.locfileid: "75716868"
 | 购买费用 | 使用月度帐单时的订阅费用类型。 |
 | 按比例计算续订时的费用 | 订阅续订时按比例计费。 |
 | 续订费用 | 续订订阅费用 |
-| 按比例计算激活时的费用 | 从激活 > 按比例计费，直到计费期结束。 |
+| 按比例计算激活时的费用 | 从激活中按比例计费，直到计费周期结束。 |
 
 ## <a name="one-time-charges"></a>一次性费用
 
@@ -67,10 +68,10 @@ ms.locfileid: "75716868"
 | “新建” | 创建新购买时使用。 |
 | addQuantity | 用于原始购买的退款和增加后的新数量。 |
 | removeQuantity | 用于原始购买的退款和减少后的新数量。 |
-| “取消” | 取消订阅时使用。 |
+| 取消 | 取消订阅时使用。 |
 | 转换 | 升级许可证时使用，但座位数保持不变。 |
 
-## <a name="usage-charges"></a>使用情况费用
+## <a name="usage-charges"></a>使用费
 
 若要将这些用量费用映射到发票，请将**PretaxCharges**列与基于使用情况的文件进行求和。
 
@@ -79,7 +80,7 @@ ms.locfileid: "75716868"
 | 评估取消时的使用费用 | 在已取消的情况下的访问使用费，针对当前计费周期的未付款使用量。 |
 | 评估当前周期的使用费用 | 当前计费周期的访问使用费。 |
 
-### <a name="credits"></a>退款额
+### <a name="credits"></a>信用
 
 若要将这些信用额度映射到发票：
 
@@ -99,7 +100,7 @@ ms.locfileid: "75716868"
 | 激活折扣 | 激活订阅后应用的折扣。 |
 | 周期折扣 | 应用在周期性费用上的折扣。 |
 | 续订折扣 | 续订订阅时应用的折扣。 |
-| 取消折扣 | 取消折扣后应用的费用。 |
+| 取消折扣 | 取消折扣时应用的费用。 |
 
 ### <a name="license-based-discounts"></a>基于许可证的折扣
 

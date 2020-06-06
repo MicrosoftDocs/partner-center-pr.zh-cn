@@ -1,8 +1,8 @@
 ---
-title: 了解帐单 |合作伙伴中心
+title: 如何读取帐单 & 侦测文件
 ms.topic: article
-ms.date: 04/03/2020
-description: 发票是当前每月期间的所有合作伙伴中心费用的摘要（跨计划、产品和客户）。
+ms.date: 06/05/2020
+description: 了解发票 & 协调文件。 你的帐单会在计划、产品和客户的每月期限内显示合作伙伴中心费用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798705"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467457"
 ---
-# <a name="understand-your-bill"></a>了解帐单
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>了解帐单和对帐文件-了解如何在合作伙伴中心查找这些文件
 
 **适用于**
 
@@ -35,21 +36,21 @@ ms.locfileid: "82798705"
 
 ## <a name="invoice-types"></a>发票类型
 
-Microsoft 将为任何基于许可证的收费（例如 Office 365）和基于使用情况的收费（例如 Azure）和一个单独的发票（如 Azure RI、Marketplace、Azure 计划等）颁发一个发票。 
+Microsoft 将为任何基于许可证的收费（例如 Office 365）和基于使用情况的收费（例如 Azure）和一个单独的发票（如 Azure RI、Marketplace 或 Azure 计划）发出一个发票。
 
-例如，应用于对象的  
+例如，  
 
 **方案 1 [单一货币]**：合作伙伴购买了145P 产品/服务和 O365 许可证，  
 
 - 合作伙伴将获得一个发票 PDF 和2个协调文件，涵盖 O365 和 Azure 的费用（145p）。  
 
-**方案 2 [单一货币]**：合作伙伴已购买 azure RI、Marketplace 和/或 azure 计划以及145p 购买。 
+**方案 2 [单一货币]**：合作伙伴已购买 azure RI、Marketplace 和/或 azure 计划以及145p 购买。
 
 - 合作伙伴将获得一个发票 PDF 和一个对帐文件，其中包含 Azure 费用（145p）。 
 
 - 合作伙伴将收到另一个发票 PDF 和对帐文件，其中包括对 Azure RI、Marketplace、Azure 计划收费。 
 
-**方案 3 [多币种]**：合作伙伴在克朗和 azure 计划中购买了 azure RI，还提供了 eur 的145p 购买。 
+**方案 3 [多币种]**：合作伙伴在克朗和 azure 计划中购买了 azure RI，还提供了 eur 的145p 购买。
 
 - 合作伙伴将收到一个发票 PDF 和一个对帐文件，其中包含克朗的 Azure RI 费用。 
 
@@ -77,7 +78,7 @@ Microsoft 将为任何基于许可证的收费（例如 Office 365）和基于�
 
 **一次性和定期计费发票**： azure RI、azure 计划、Marketplace 等服务的费用发票将于每个月不到8日后可用。  
 
-下面是发票 PDF 文档中的一些关键字段– 
+下面是发票 PDF 文档中的一些关键字段–
 
 **发票编号**：为各自计费期间生成的发票文档的唯一标识符。 
 
@@ -95,34 +96,6 @@ Microsoft 将为任何基于许可证的收费（例如 Office 365）和基于�
 
 有关发票文件中所有字段的详细说明（包括一次性费用的字段），请参阅 [发票文件字段](invoice-file.md)。 
 
-## <a name="understand-reconciliation-file"></a>了解协调文件 
+## <a name="understand-reconciliation-files"></a>了解协调文件
 
  对帐文件提供了向下钻取/详细说明收费的详细信息，可与发票 PDF 一起下载。 对帐文件包括可用于创建客户发票的客户标识符和订阅标识符。 有关侦测文件的更多详细信息，请参阅 [如何使用对帐文件](use-the-reconciliation-files.md)。 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

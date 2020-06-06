@@ -1,28 +1,28 @@
 ---
-title: 报告合作伙伴中心问题 | 合作伙伴中心
+title: 报告合作伙伴中心问题
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如何报告合作伙伴中心问题并为支持团队收集诊断信息。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023482"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467387"
 ---
-# <a name="report-problems-with-partner-center"></a>报告合作伙伴中心问题
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何报告合作伙伴中心的问题并提交任何日志或诊断信息
 
 **适用于**
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
-
 
 如果你发现问题或需要帮助合作伙伴中心，请联系合作伙伴中心支持部门。
 
@@ -34,16 +34,16 @@ ms.locfileid: "79023482"
 
 3. 查看 "**推荐的解决方案**" 页，了解可以帮助你解决问题的步骤或相关文档。
 
-4. 如果**建议的解决方案**解决了问题，则可以选择 **"返回到仪表板"** 。 如果仍需要帮助，可以继续并**提供问题详细信息**。
+4. 如果**建议的解决方案**解决了问题，则可以选择 **"返回到仪表板"**。 如果仍需要帮助，可以继续并**提供问题详细信息**。
 
-5. 完成**问题详细信息**，然后**提交**。 合作伙伴支持代表将与你保持联系。
+5. 完成**问题详细信息**，然后**提交**。 合作伙伴支持代表将跟进与你沟通。
 
 **发送诊断**
 
-如果在合作伙伴中心页面出现错误，系统可能会提示收集日志信息。 从页面顶部的下拉链接中选择**收集更多信息**，以打开客户端诊断工具。 此工具收集合作伙伴支持团队确定错误原因所需的信息。 
+如果在合作伙伴中心页面出现错误，系统可能会提示收集日志信息。 从页面顶部下拉的链接中选择 "**收集详细信息**" 以打开客户端诊断工具。 该工具收集合作伙伴支持团队在确定错误原因时所需的信息。 
 
 >[!NOTE]
->在 URL 中包含 **/pcv/** 的合作伙伴中心页上，你可以手动打开该工具来收集此信息。
+>在包含 URL 中的 **/pcv/** 的合作伙伴中心页面上，你可以手动打开工具来收集此信息。
 
 1. 转到有问题的页面。
 
@@ -54,7 +54,7 @@ ms.locfileid: "79023482"
 3. 请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。 
 
     >[!NOTE]
-    >在某些浏览器中，**预览**页面底部的**页面视图**部分可能显示为空。 这是正常的。
+    >在某些浏览器中，**预览**页面底部的**页面视图**部分可能显示为空。 这很正常。
 
 4. 按照屏幕上的说明保存文件。
 

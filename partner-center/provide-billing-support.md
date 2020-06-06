@@ -1,40 +1,43 @@
 ---
-title: 提供计费支持 | 合作伙伴中心
+title: 向客户提供计费支持
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 你与你的客户之间存在计费关系，并且完全支持任何来自客户的计费相关问题。
+description: 了解 CSP 计划合作伙伴需要的客户计费支持。 这包括拥有客户计费关系和回答计费问题。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3f0a190c7ff2215d32ca556613650a4780289481
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798725"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467487"
 ---
-# <a name="provide-billing-support"></a>提供计费支持
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>为你的客户提供计费支持，并帮助解答其计费问题
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   支持人员代理
--   计费管理员
--   销售代理
+- 全局管理员
+- 用户管理员
+- 支持人员代理
+- 计费管理员
+- 销售代理
 
 你与你的客户之间存在计费关系，你负责回答客户的计费相关问题。
 
--   你负责按时向 Microsoft 付款。
--   我们建议你与客户建立清晰的收集策略，并详细说明你的收集过程以及对客户订阅、服务或软件的访问权限何时会受到影响。
--   如有必要，你可以禁止你的客户访问未付款的产品。
+- 你负责按时向 Microsoft 付款。
+
+- 我们建议你与客户建立清晰的收集策略，并详细说明你的收集过程以及对客户订阅、服务或软件的访问权限何时会受到影响。
+
+- 如有必要，你可以禁止你的客户访问未付款的产品。
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft 合作伙伴支持指南
 
@@ -48,19 +51,20 @@ ms.locfileid: "82798725"
 合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
 
 - **商业**问题支持可用于云解决方案提供商计划中的所有合作伙伴
--   **技术**问题支持通过以下方式提供：
-    -   合作伙伴顶级支持（收费）
-    -   合作伙伴高级支持（收费）
-    -   签名云支持（包括金牌/银牌能力）
+
+- **技术**问题支持通过以下方式提供：
+
+  - 合作伙伴顶级支持（收费）
+  - 合作伙伴高级支持（收费）
+  - 签名云支持（包括金牌/银牌能力）
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 
 
-对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参考以下文档。
+对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详情，请参阅：
 
--   [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+- [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [通过云解决方案提供商销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+- [通过云解决方案提供商销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [通过云解决方案提供商销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [通过云解决方案提供商销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
-

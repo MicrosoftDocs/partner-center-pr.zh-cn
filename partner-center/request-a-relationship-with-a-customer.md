@@ -1,26 +1,26 @@
 ---
-title: 请求与客户建立关系 | 合作伙伴中心
+title: 请求与客户建立关系
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 请求建立关系用于多合作伙伴和多渠道方案。 如果客户删除了你委派的管理权限，并且你需要恢复它们才可以提供预配或支持，请求建立关系也十分有用。
+description: 为多合作伙伴、多通道方案请求与客户的关系，或者如果对客户的委派管理员权限需要还原，则为。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362705"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467367"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>在合作伙伴中心与客户联系
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求分销商关系
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
 
 如果要代表客户管理客户的服务或订阅，则必须向用户授予对该服务或订阅的管理员权限，并对 Microsoft 客户协议进行签名。
 
@@ -38,11 +38,11 @@ ms.locfileid: "83362705"
 
 3. 在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，也可以将邮件复制到剪贴板，然后将它粘贴到电子邮件中。
 
-   你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 完成此步骤后选择“完成”  。
+   你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 完成此步骤后选择“完成”。
 
 4. 将电子邮件发送到客户。
 
-5. 客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。 
+5. 客户接受你的邀请后，他们会出现在“客户”页面上，你将能够从中为客户预配和管理服务。
 
    > [!NOTE]
    > 如果客户尚未接受 Microsoft 客户协议，则在接受邀请时，系统将提示他们执行此操作。 

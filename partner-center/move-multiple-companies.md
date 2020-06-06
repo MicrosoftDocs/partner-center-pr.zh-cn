@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795784"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453184"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心移到合作伙伴中心（PMC）
 
@@ -42,13 +42,13 @@ ms.locfileid: "83795784"
 
 4. 选择公司和区域，然后保存。
 
-![现有帐户](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="现有帐户":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>你的公司在合作伙伴中心有一个帐户
 
 你会看到现有帐户和一个说明，该说明会告知你公司详细信息（你目前登录时使用的帐户）会合并到此帐户中。
 
-![合作伙伴中心的帐户](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="合作伙伴中心的帐户":::
 
 此屏幕显示已在合作伙伴中心创建的现有帐户的详细信息（名称和地址），以及主要联系人的详细信息。
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795784"
 
 这些详细信息基于 PMC 中的信息，将会进行验证，确保公司合法。
 
-![查看详细信息](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="查看详细信息":::
 
 如果要移动的帐户所在的国家或地区与现有帐户相同，你可以决定是要使用该地址，还是要添加另一地址。 如果你决定使用另一地址，则需对该地址进行验证。 如果你要使用同一地址，则系统会使用现有地址和主要联系人。
 
@@ -88,7 +88,7 @@ ms.locfileid: "83795784"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [从 PMC 迁移到合作伙伴中心](move-pmc-pc-map.md)
+- [从 PMC 移到合作伙伴中心](move-pmc-pc-map.md)
 - [创建用户帐户](create-user-accounts-and-set-permissions.md)
 - [为用户分配角色和权限](permissions-overview.md)
 - [管理成员身份计划](renew-mpn-offers.md)

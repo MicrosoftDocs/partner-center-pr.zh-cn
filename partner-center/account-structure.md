@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1be2bfe63f7a6a39198756e9ef48ee5c0597d33b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794990"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453284"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作伙伴中心为 MPN 合作伙伴提供两个级别的帐户
 
@@ -50,26 +50,6 @@ ms.locfileid: "83794990"
 - 所有位置帐户都处于同一级别，并且位于合作伙伴全局帐户下。
 - 帐户管理员可以添加或删除位置。
 
-![帐户结构](images/accountstructure.png)
+:::image type="content" source="images/accountstructure.png" alt-text="帐户结构" border="false":::
 
-有关管理位置的详细信息，请参阅[管理你的合作伙伴帐户：位置](manage-locations.md)。 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+有关管理位置的详细信息，请参阅[管理你的合作伙伴帐户：位置](manage-locations.md)。

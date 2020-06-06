@@ -1,60 +1,63 @@
 ---
-title: 代表客户报告问题 | 合作伙伴中心
+title: 代表客户报告问题
 ms.topic: article
-ms.date: 08/16/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 如果你的客户遇到了你无法解决的服务问题，并且该问题符合将问题上报给 Microsoft中所述的条件，请为他们提出支持票证。
+description: 了解将客户服务问题上报给 Microsoft 是有意义的，以及如何为其提供支持票证。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 服务请求, 服务票证, 支持, 支持权利, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: d3bd6fe2991f2f7b698cf12864be235c35dce55f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bf4dcadceeb6d16661faf0c458277f51833c55eb
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798685"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467377"
 ---
-# <a name="report-problems-on-behalf-of-a-customer"></a>代表客户报告问题
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
-
+- 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 如果你的客户遇到了你无法解决的服务问题，并且该问题符合[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
-1.  在“合作伙伴中心”**** 菜单中，选择“服务请求”****，然后选择“客户请求”****。 
+1. 在“合作伙伴中心”**** 菜单中，选择“服务请求”****，然后选择“客户请求”****。 
 
-2.  在“客户请求”页面上，搜索所需的客户。
+2. 在“客户请求”页面上，搜索所需的客户。
 
-3.  从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将会重定向到 Microsoft Azure 门户或 Office 365 管理员中心。
+3. 从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将被重定向到 Microsoft Azure 门户或 Office 365 管理中心。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > 如果需要在 Azure 中为客户创建服务请求，请注意：
 >
->- 若要在 Azure 中为客户创建服务请求，你的间接提供商必须授予你该客户的 Azure 帐户的访问权限。 这不同于代表 Office 365 客户进行管理。 
+>- 若要在 Azure 中为客户创建服务请求，你的间接提供商必须授予你该客户的 Azure 帐户的访问权限。 这不同于代表 Office 365 客户进行管理。
 >
 >- 合作伙伴中心的支持管理员不能在 Azure 服务门户中创建服务请求，而只能在 Azure 服务门户中创建支持组，为该组提供记录支持请求的权限。
 
-1. 选择 "**新建支持请求**"。
+1. 选择“新建支持请求”。
+
 2. 使用相应信息填写支持请求，然后选择“创建”****：
--   在支持请求的“基本信息”**** 部分，确保在“支持计划”**** 字段中选择“云解决方案提供商”****。
--   在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
+
+   - 在支持请求的“基本信息”**** 部分，确保在“支持计划”**** 字段中选择“云解决方案提供商”****。
+
+   - 在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
 
 3. 以后若要在 Microsoft Azure 门户中查看客户的服务请求，则选择“管理支持请求”即可。****
 
-如果没有某位客户的管理员权限，则可能需要为该客户创建支持请求。 这可能出现在下面的两种情况中： 
- 
--   你在首次建立关系时没有请求管理员权限。
--   你管理客户的 Azure 订阅，而不是其他人，这不需要你拥有管理权限。
+如果没有某位客户的管理员权限，则可能需要为该客户创建支持请求。 这可能出现在下面的两种情况中：
+
+- 你在首次建立关系时没有请求管理员权限。
+- 你管理客户的 Azure 订阅，而不是其他人，这不需要你拥有管理权限。
  
 不管什么情况，均可通过以下过程创建支持请求。 
 
@@ -70,12 +73,13 @@ ms.locfileid: "82798685"
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、企业移动性套件
 
 1. 在“创建服务请求”**** 部分，选择相应的支持主题类别。 可能需要选择 "**更多 ...** " 来查看其他主题。    
+
 2. 完成服务请求表单，然后选择“提交”****。
 
    > [!TIP]
    > 请确保其中包含的是你的联系人信息，而不是客户的。
 
-3. 稍后查看客户的服务请求，方法是：转到 Office 365 管理中心，然后选择“查看所有支持票证”****。
+3. 稍后，转到 Office 365 管理中心，然后选择 "**查看所有支持票证**"，查看客户的服务请求。
 
 ### <a name="support-for-commercial-marketplace-products"></a>对商业市场产品的支持
 
@@ -84,12 +88,14 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 若要查找 ISV 的联系人信息，请执行以下操作：
 
 1.  在“市场”页上，选择需要获取相关帮助的产品。****
+
 2.  在产品的页面上，你将找到支持联系人信息。 该信息可能属于下面的一个或多个类别：
+
     - 指向 ISV 的网站上的支持入口点的链接
-    - 支持部门的电子邮件 
+    - 支持部门的电子邮件
     - 支持部门的联系电话号码
 
-## <a name="faq"></a>FAQ
+## <a name="faq"></a>常见问题解答
 
 **哪些内容包含在支持权利中？**
 
@@ -105,9 +111,9 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 
 “技术中断-修复事件”的初始响应时间如下所示：****
 
--   严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
--   中等影响（严重性 B）：4 小时（中等损失或服务质量下降。 生产服务部分受到影响。）
--   轻微影响（严重性 C）：8 小时（轻微损失或服务质量下降。 服务仍可用或非生产服务受影响。）
+- 严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
+- 中等影响（严重性 B）：4 小时（中等损失或服务质量下降。 生产服务部分受到影响。）
+- 轻微影响（严重性 C）：8 小时（轻微损失或服务质量下降。 服务仍可用或非生产服务受影响。）
 
 初始响应时间仅适用于英语语言支持。 在营业时间提供本地语言支持。
 对于属于支持授权边界内但不认为是中断修复的事件，初始响应时间可能最多为一个工作日。
@@ -122,9 +128,9 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 
 你的云解决方案提供商计划支持权利不对你自己的合作伙伴订阅提供支持。因此，当创建涉及你自己的合作伙伴订阅的服务请求时，必须提供你的有效支持计划权利。 示例包括 MPN 合约 ID、Premier 或 Azure 支持计划。 请参阅 [Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
-**如果我登录 Office 365 管理中心门户但绕过合作伙伴中心，会发生什么？**
+**如果登录到 Office 365 管理中心门户并绕过合作伙伴中心，会发生什么情况？**
 
-如果你直接登录 Office 365 管理中心，你是在你自己的上下文中而不是客户的上下文中查看该中心。 因此，仅当你为自己的订阅创建服务请求时，才应该直接登录 Office 365 管理中心。
+如果直接登录到 Office 365 管理中心，你将在自己的上下文中查看中心，而不是客户的上下文。 因此，在为自己的订阅创建服务请求时，只应直接登录到 Office 365 管理中心。
 
 **如何获取更多 Dynamics 365 支持？**
 
@@ -133,6 +139,3 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 请联系 [Dynamics 支持人员](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
 请阅读 [Microsoft Dynamics 支持](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
-
-
-

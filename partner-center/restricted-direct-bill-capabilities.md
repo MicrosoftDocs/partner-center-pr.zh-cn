@@ -1,22 +1,23 @@
 ---
 title: 受限的直接计费功能
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 不符合新要求的直接帐单合作伙伴将具有直接帐单功能限制
+description: 了解 CSP 直接帐单合作伙伴要求，以及如何避免功能受到限制。 了解你的功能是否受到限制。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帐单，限制
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362425"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467227"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>受限的直接计费功能  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求  
 
 ## <a name="overview"></a>概述
 
@@ -42,22 +43,29 @@ ms.locfileid: "83362425"
 如果你的直接帐单功能受到限制，你将不能再为合作伙伴中心的客户购买新的购买。 此限制包括：
 
 - Azure 订阅
+
 - 基于座位的订阅
+
 - 将新的外接程序添加到现有的基于座位的订阅。
+
 - 为软件和预订产品（例如软件订阅、永久性软件和 Azure 保留虚拟机实例）进行一次性购买。
 
-你还不能使用 CSP 计划下的[azure 合作伙伴共享服务产品/服务](shared-services.md)购买新的 azure 订阅。
+还不能使用 CSP 计划下的[Azure 合作伙伴共享服务产品/服务](shared-services.md)购买新的 azure 订阅。
 
 现有的直接帐单订阅不受影响。 它们仍有效并且是 autorenewed 的。 在取消之前，你将继续直接向 Microsoft 收取费用。 你仍可通过以下方式管理现有订阅：
 
 - 挂起现有订阅
+
 - 调整现有基于座位的订阅的座位数
+
 - 调整现有加载项对订阅的座位数。 注意：不能将新的外接程序添加到现有订阅，因为它被视为新购买。
+
 - 部署新的 Azure 资源，并管理现有 Azure 订阅下的现有 Azure 资源。 这包括通过 Azure marketplace 和 Visual Studio 订阅提供的资源。
 
 除了新购买以外，还不能在合作伙伴中心访问以下直接帐单功能：
 
 - 不能创建新的客户租户。 "合作伙伴中心" 下的 "**客户**" 页下的 "**创建客户**" 选项将不可用。
+
 - 你无法为请求直接分销商关系的客户生成邀请。 合作伙伴中心的 "**客户**" 页下的 "**请求分销商关系**" 选项将不可用。
 
     >[!Note]

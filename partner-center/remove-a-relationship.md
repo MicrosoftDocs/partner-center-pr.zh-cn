@@ -1,22 +1,22 @@
 ---
 title: 删除与客户的分销商关系
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 直销合作伙伴可以如何从他们的列表中删除客户、删除委派的管理员权限以及停止支持或购买客户。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f8f26dee696580b9a171069bd2c4fcad9fcbef8d
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362725"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467417"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>如何删除客户的分销商关系
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>如何在合作伙伴中心删除与客户的分销商关系
 
 **适用于**
 
