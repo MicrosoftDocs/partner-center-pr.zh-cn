@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795667"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452878"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 
@@ -28,7 +28,7 @@ ms.locfileid: "83795667"
 
 产品许可证报表提供基于座位的云产品的许可证分析，如 O365、Dynamics、M365、Power BI 等。此处提供的分析与你为客户销售的或为你的客户管理的许可证的使用情况关联。 你可以从 "产品许可证" 报表查看以下部分。
 
-- 摘要
+- “摘要”
 - 许可证的地理分布
 - 许可证添加
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的许可证分发
@@ -54,7 +54,7 @@ ms.locfileid: "83795667"
 
 微图显示了所选日期范围内许可证计数的月间趋势。
 
-![许可证报表摘要](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="许可证报表摘要":::
 
 **许可证的地理分布**
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795667"
 
 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按下地图上的**Home**选项，恢复为默认视图。 将鼠标悬停在地图上，按客户的国家/地区查看当前许可证和活动许可证。 网格中的两个字段均可排序。
 
-![许可地域传播](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="许可地域传播":::
 
 **许可证添加**
 
@@ -74,14 +74,14 @@ ms.locfileid: "83795667"
 
 X 轴表示所选日期范围内的月份。 Y 轴表示添加的许可证计数。 若要缩小到特定时间段，请使用图表顶部的滑块。
 
-![许可证添加](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="许可证添加":::
 
 **许可证分发**
 
 此视图按产品和客户的国家/地区显示客户许可证的细分。 当你在 "**产品**饼图" 中选择产品时，相邻图表将显示按客户区域划分的许可证细分。
 
-![许可证分发](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="许可证分发":::
 
 ## <a name="next-steps"></a>后续步骤
 
-- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。
+有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。

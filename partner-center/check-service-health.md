@@ -11,12 +11,12 @@ ms.author: labrenne
 Keywords: 运行状况，服务运行状况，服务问题
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a6bba0be0bb8337d3da0536d10c4346b3f61894
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908222"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458373"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>检查服务运行状况，以了解客户报告潜在服务问题或服务中断的情况
 
@@ -31,21 +31,22 @@ ms.locfileid: "82908222"
 - 支持人员代理
 - 销售代理
 
-当客户遇到与某个服务有关的问题时，你可以做的第一件事是检查服务运行状况。
+当客户遇到与某个服务有关的问题时，你可以做的第一件事是检查服务运行状况。 
 
-**检查服务运行状况**
+## <a name="check-service-health"></a>检查服务运行状况
 
-1. 从 "**合作伙伴中心**" 菜单中，选择 "**服务运行状况**"。
+1. 从 "**客户" 列表**中选择有问题的**客户**。
 
-2. 你的所有服务都会显示出来，如果存在运行状况不良的服务，系统会发出提示。
+2. 从左侧菜单中选择 "**服务管理**"。 这将列出为客户设置的服务和每个服务的运行状况。 合作伙伴可以单击他们感兴趣的服务来获取详细信息。 
 
-在服务中断期间，随着我们不断努力解决问题，Microsoft 会提供定期更新。 查看这些更新的最佳方式是从合作伙伴中心的**通知中心**。 这些通知还会显示在 Microsoft Azure 门户或 Office 365 管理中心中。
+>[!NOTE] 
+> **服务管理**页上的服务运行状况链接会将 M365 管理中心或 Azure 门户作为**委派的管理员**。伙伴进入目标后，可在任一门户中导航到服务运行状况页面，以获取有关中断的详细信息。
+ 
+在服务中断期间，随着我们不断努力解决问题，Microsoft 会提供定期更新。 这些通知还会显示在 "Microsoft Azure 门户" 或 "Microsoft 365 管理中心"。
 
-如果在服务中断结束后问题仍然存在，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
+如果在服务中断结束后此问题仍然存在，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
+
+Microsoft 365 和 Microsoft Azure 提供[合作伙伴可用于检索实时服务运行状况](get-automated-service-notifications-with-our-apis.md)、消息中心通信和计划内维护事件的 api。
 
  
-
- 
-
-
 

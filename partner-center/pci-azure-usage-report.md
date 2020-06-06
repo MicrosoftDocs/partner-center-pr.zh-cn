@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795675"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453117"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
 
@@ -28,7 +28,7 @@ ms.locfileid: "83795675"
 
 Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包括按计量类别分类的 Azure 消耗收入和使用量。 你可以从 Azure 使用情况报表查看以下部分。
 
-- 摘要
+- “摘要”
 - 地域的 Azure 使用情况
 - Azure 利用率
 
@@ -55,7 +55,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 > [!NOTE]
  > 仅向已分配了执行报表查看器角色的用户显示 Azure 消耗收入（ACR）。
 
-![Azure 使用情况摘要](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 使用情况摘要":::
 
 **地域的 Azure 使用情况**
 
@@ -65,7 +65,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 选择映射上的 " **Home** " 选项以恢复到原始视图。
 
-![地域的 Azure 使用情况](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="地域的 Azure 使用情况":::
 
 **Azure 利用率**
 
@@ -73,7 +73,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 条形图显示了每月收入/使用小时趋势。 折线图显示了所选 Azure 服务级别/计量类别相对于上个月的增长趋势。
 
-![Azure 使用情况](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure 使用情况":::
 
 ## <a name="next-steps"></a>后续步骤
 

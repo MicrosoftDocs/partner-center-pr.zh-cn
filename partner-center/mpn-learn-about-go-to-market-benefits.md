@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN，成员资格权益，成员资格，走向市场产品/服务市场，进入市场，金牌成员身份，银成员资格
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328198"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458423"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>利用 Microsoft 产品/服务探索市场推广
 
@@ -65,7 +65,7 @@ ms.locfileid: "84328198"
 
 查看投放市场的产品/服务：
 
-1. 登录到合作伙伴中心[面板]( https://docs.microsoft.com/partner-center/)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 在左侧菜单中，选择 " **MPN**"。 然后执行以下操作之一：
 
@@ -90,4 +90,4 @@ ms.locfileid: "84328198"
 
 - [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
 
-- [了解胜任度](learn-about-competencies.md)
+- [了解资格](learn-about-competencies.md)

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205775"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453274"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 
@@ -54,13 +54,13 @@ ms.locfileid: "82205775"
 3. 从门户菜单中选择**虚拟机**，然后选择你想要为其购买预订的虚拟机。
 4. 在 VM 的详细信息页上，查找大小和区域信息（如下所示），并使用此信息在合作伙伴中心购买预订。  
 
-    ![详细信息页上的大小和区域信息](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="详细信息页上的大小和区域信息":::
 
 **使用 Microsoft Azure PowerShell 获取虚拟机大小信息**
 
 使用下图中的信息，以获取你想要为其购买预订的虚拟机的位置和大小。 
 
-![VM 位置和大小](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="VM 位置和大小":::
 
 **使用 Azure 资源管理器 (ARM) API 获取虚拟机大小信息**
 
@@ -70,7 +70,8 @@ ms.locfileid: "82205775"
 
 3. 此调用将返回 **vmSize** 和 **location** 的值，如下所示。
 
-    ![vmSize 值](images/usage3.png) ![位置值](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="vmSize 值":::
+    :::image type="content" source="images/usage4.png" alt-text="位置值":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>验证 Azure 虚拟机使用情况和预订折扣
 
@@ -110,7 +111,7 @@ ms.locfileid: "82205775"
 
 你可以使用 Azure 利用率 API 获取预定利用率数据，以验证客户是否获得了预订折扣并查看折扣应用于的 VM（虚拟机）。 将示例 A 与示例 B 进行比较，以了解如何验证客户的预订使用情况。
 
-![预订使用示例](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="预订使用示例":::
 
 - reservationId 标识用于将折扣应用于虚拟机的 Azure 预定。
 - consumptionMeter 是应用了预订折扣的虚拟机的 MeterId。

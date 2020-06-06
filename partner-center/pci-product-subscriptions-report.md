@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795912"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452770"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的产品订阅报表
 
@@ -30,7 +30,7 @@ ms.locfileid: "83795912"
 
 您可以从 "产品订阅" 报表中查看以下部分。
 
-- 摘要
+- “摘要”
 - 订阅的地理分布
 - 订阅添加/改动趋势
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的订阅分发
@@ -66,7 +66,7 @@ ms.locfileid: "83795912"
 
 - 按产品划分的订阅：按云产品对当前订阅计数的细分。
 
-![订阅报告摘要](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="订阅报告摘要":::
 
 **订阅的地理分布**
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795912"
 
 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按下地图上的**Home**选项，恢复到原始视图。 将鼠标悬停在地图上，以查看按国家/地区划分的所有订阅和活动订阅。 网格中的两个字段均可排序。
 
-![地域订阅](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="地域订阅":::
 
 **订阅添加/churns**
 
@@ -84,19 +84,19 @@ ms.locfileid: "83795912"
 
 堆积柱形图显示了该月的新的、现有的和改动的订阅的细分。 您可以重新生成与特定堆栈项分离的柱形图。 为此，请选择图例中的特定项。 您还可以利用图表顶部的滑块来缩小特定时间段。
 
-![订阅添加和 churns](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="订阅添加和 churns":::
 
 **订阅分发**
 
 此视图按 MPN 位置、客户细分市场、销售渠道/Azure 定价模型和归属类型（例如 DPOR、进行等）显示当前订阅的细目。 单击相应的选项卡，按这些类别查看细目。 若要生成包含特定项类别细目的饼图，请在图例中选择这些项目类别。
 
-![订阅分发](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="订阅分发":::
 
 **订阅状态分发**
 
 此视图按订阅状态显示当前客户订阅的分布情况。 这包括以下订阅状态： "**活动**"、"**已禁用**"、"**取消预配**" **、"已****打开**"、"**已关闭**" 和**其他**。
 
-![订阅状态分发](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="订阅状态分发":::
 
 **产品趋势**
 
@@ -104,7 +104,7 @@ ms.locfileid: "83795912"
 
 这两个饼图显示了当前客户订阅的细目分类。 第一个饼图按产品分解订阅。 第二个饼图按 Sku 或计划分解订阅。 当你在 "**按产品**分类的细分" 饼图中选择产品时，相邻饼图将显示 sku 对该产品的订阅的细分。
 
-![产品趋势](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="产品趋势":::
 
 > [!NOTE]
  > 由 Sku 分解的订阅计数可能并不总是与该产品的总订阅数相匹配。 如果客户在同一产品订阅下购买了多个 Sku，则可能会发生这种情况。

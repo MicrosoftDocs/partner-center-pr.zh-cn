@@ -1,7 +1,7 @@
 ---
-title: 多合作伙伴支持 |合作伙伴中心
+title: 多合作伙伴支持
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 客户可能希望与云解决方案提供商计划中专门提供不同服务的多个合作伙伴合作。
@@ -9,14 +9,15 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ecaadd62df076daac9fd3d516a5109730fbc32f
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253954"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458413"
 ---
-# <a name="multi-partner-support"></a>多合作伙伴支持
+# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>针对想要使用多个合作伙伴的客户的多合作伙伴支持
 
 **适用于**
 

@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 顾问，office 365，购买
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362675"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458363"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顾问：创建购买提议
 
@@ -42,7 +42,7 @@ ms.locfileid: "83362675"
     - **许可证计数**：选择订阅时，请键入要包括在购买提议中的许可证数量。
     - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，客户端可以接受或不接受委派管理的购买提议。
 
-3. 单击“下一步”  。
+3. 单击“下一步” 。
 
 4. 在 "**发送**" 页上，复制 "购买产品/服务" 信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义购买提议。
 
@@ -59,4 +59,4 @@ ms.locfileid: "83362675"
     - 让客户端知道他们将直接由 Microsoft 计费。
     - 告知客户端如何与服务或产品/服务相关的问题与你联系。
     - 让客户端知道它们控制购买的用户许可证的数量，并且在接受该产品/服务时可以更改许可证数量。
-    - 如果提供委派管理服务，说明它的含义以及你的责任是什么。 有关委派管理的详细信息，请参阅[提供委派管理](customers_revoke_admin_privileges.md)。
+    - 如果提供委派管理服务，说明它的含义以及你的责任是什么。 有关委派管理的详细信息，请参阅[提供委派管理](customers-revoke-admin-privileges.md)。

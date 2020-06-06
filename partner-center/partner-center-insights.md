@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328228"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453194"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
@@ -61,7 +61,7 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计
 
 **日期范围筛选器**：可在每个页面的右上角找到日期范围选择。 可以通过选择基于过去3、6或12个月的日期范围或通过选择自定义日期范围自定义 "概述" 页图形的输出。 选择的默认日期范围为12个月。 
 
-![简介地图](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="简介地图":::
 
 "**反馈" 按钮**：所有 Insights 报表中的每个图表/控件都结合了 "反馈" 按钮，以便您可以为报表功能提供实例反馈。 
 
@@ -74,7 +74,7 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计
 
 - 所选筛选器将显示在页面顶部。 
 
-![筛选器](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="筛选":::
 
 ### <a name="filters-definitions"></a>筛选器定义：
 

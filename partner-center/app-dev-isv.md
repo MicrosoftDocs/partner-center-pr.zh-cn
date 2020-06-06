@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 胜任度，ISV，应用程序开发
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907484"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452724"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 
@@ -45,7 +45,7 @@ ms.locfileid: "82907484"
 1. 在仪表板上的“合作伙伴中心”菜单中，选择“能力”  。
 2. 在可用的胜任度列表中，应用程序开发标记为 "已**完成**"。
 
-![ISV 到 appdev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV 到 appdev":::
 
 3. 选择 "**应用程序开发**"。 你将看到你已获得一个替代，豁免公司无法满足测试要求。 
 

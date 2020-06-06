@@ -119,7 +119,7 @@
 ## [添加新客户](add-a-new-customer.md)
 ## [要求与客户建立经销商关系](request-a-relationship-with-a-customer.md)
 ## [删除与客户的经销商关系](remove-a-relationship.md)
-## [客户向合作伙伴委托或撤消管理权限](customers_revoke_admin_privileges.md) 
+## [客户向合作伙伴委托或撤消管理权限](customers-revoke-admin-privileges.md) 
 ## [查看客户列表](see-your-customer-list.md)
 ## [查看客户活动日志](activity-logs.md)
 ## [更新客户帐户信息](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
-# [云解决方案提供商产品/服务](csp-offers.md) 
+# [云解决方案提供商产品/服务](csp-offers.md)
 ## 商业市场
 ### [商业市场概述](csp-commercial-marketplace-overview.md)
 ### [发现市场产品/服务](csp-commercial-marketplace-discover.md)

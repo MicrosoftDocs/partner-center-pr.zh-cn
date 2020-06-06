@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 顾问，office 365，试用版
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f8faddce7755a34687f0403b8ba27ea734d8018
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362615"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458353"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365
 
@@ -37,9 +37,9 @@ ms.locfileid: "83362615"
 
     - **使用位置**：选择客户端将使用服务的位置。
     - **试用订阅**：可以选择的试用订阅列表由客户所在的国家或地区的使用位置决定。
-    - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，则客户端可以接受或不接受委派管理的试用邀请。 有关委派管理的详细信息，请参阅[提供委派管理](customers_revoke_admin_privileges.md)。
+    - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，则客户端可以接受或不接受委派管理的试用邀请。 有关委派管理的详细信息，请参阅[提供委派管理](customers-revoke-admin-privileges.md)。
 
-3. 单击“下一步”  。
+3. 单击“下一步” 。
 
 4. 在**您的试用邀请**页面上，复制试用邀请信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义的试用邀请。
 

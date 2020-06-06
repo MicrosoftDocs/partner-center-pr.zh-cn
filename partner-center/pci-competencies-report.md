@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795653"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452957"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取的胜任度报表
 
@@ -43,7 +43,7 @@ ms.locfileid: "83795653"
 
 你可以从称职报表中查看以下部分：
 
-- 摘要
+- “摘要”
 - 胜任度指标分析
 - 资格历史记录
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795653"
 - 面临风险（明年）：当前**处于活动状态**但也存在下一年未达到要求的**风险**的能力计数。
 具有不符合下一年要求的风险的能力细分（按能力级别，如银/黄金，具有胜任度）。
 
-![胜任度摘要](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="胜任度摘要":::
 
 **胜任度指标分析**
 
@@ -75,7 +75,7 @@ ms.locfileid: "83795653"
 1. TTM 视图：这会枚举过去12个月（TTM）的合作伙伴性能。
 2. 周年年份视图：此项枚举从上周年周年日期到下周年纪念日的合作伙伴业绩。
 
-![胜任度指标分析](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="胜任度指标分析":::
 
 > [!NOTE]
  > 分析中并未涵盖所有指标。 目前，称职报告中不支持与学习和认证相关的指标。 在**活动**能力状态的指标分析中当前还不支持云 BUSINESS APPLICATIONS （CBA）能力。
@@ -84,7 +84,7 @@ ms.locfileid: "83795653"
 
 此视图显示了到目前为止已获得的所有胜任度的详细表格，其中包括资格级别和胜任度。
 
-![资格历史记录](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="资格历史记录":::
 
 ## <a name="next-steps"></a>后续步骤
 

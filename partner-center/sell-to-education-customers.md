@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 教育、特殊段
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426006"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453294"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户
 
@@ -41,15 +41,15 @@ ms.locfileid: "84426006"
 
 2. 选择 "**客户**"，然后选择 "**添加客户**"。 从 "**特殊条件**" 下拉列表中选择 "**教育**"。  根据需要填写帐户信息的其余部分。  有助于审核过程的关键字段包括：
 
-   - 公司名称：输入法律实体名称-审核必需的
-   - 国家/地区和地址行：输入完整的实体邮件地址–审核必需的
-   - 电子邮件地址：输入实体拥有的电子邮件，而不是审核所需的免费或 on.microsoft.com 的电子邮件
-   - 客户联系信息：这些详细信息将作为审核过程的一部分使用
-   - 主域名：用于创建客户的帐户和电子邮件地址。  选择类似于公司名称的名称，不含空格或特殊字符。  以后无法更改此名称。
+   - **公司名称**：输入法律实体名称-审核必需的
+   - **国家/地区和地址行**：输入完整的实体邮件地址–审核必需的
+   - **电子邮件地址**：输入实体拥有的电子邮件，而不是审核所需的免费或 on.microsoft.com 的电子邮件
+   - **客户联系信息**：这些详细信息将作为审核过程的一部分使用
+   - **主域名**：用于创建客户的帐户和电子邮件地址。  选择类似于公司名称的名称，不含空格或特殊字符。  以后无法更改此名称。
 
 3. 完成后，请选择 "**查看**"。
 
-![教育客户帐户](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客户帐户":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>确认教育客户的审核状态
 
@@ -58,15 +58,15 @@ ms.locfileid: "84426006"
 
 - 如果客户通过了审核：教育
 
-   ![教育审核成功](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育审核成功":::
 
 - 如果客户未通过审核：而不是教育客户
 
-   ![教育审核失败](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育审核失败":::
 
 - 如果客户未标记为教育客户： None
 
-   ![教育未标记](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="教育未标记":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>更正客户帐户信息并重新提交审核  
 
@@ -84,7 +84,7 @@ ms.locfileid: "84426006"
 
 4. 你将被重定向到你的浏览器的新选项卡上的 Office 365 管理中心。 可能会要求你登录凭据。
 
-5. 选择“设置”  。
+5. 选择“设置”。
 
 6. 选择屏幕顶部的 "**组织配置文件**" 选项卡，然后选择 "**组织信息**"。 你现在可以更新客户详细信息。
 
