@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 951bb05b9e818d86254f84c88bdebd30c1ecc9dc
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998263"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328148"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>针对使用合作伙伴中心或合作伙伴中心 API 的合作伙伴的安全要求
 

@@ -10,12 +10,12 @@ keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提�
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: b842566245eaf7a874535fd081da51424316d417
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998293"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328178"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作伙伴安全要求状态 - 获得解答，查看关于当前状态的报表
 

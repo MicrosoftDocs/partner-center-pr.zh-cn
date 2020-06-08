@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9241d5083ae2ad35c97efe47dfe764d0b9d5a216
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dad65d2237a4446bd6a555a600193e7885bc6f5e
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795026"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458333"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure 云解决方案提供商 (CSP) 计划中提供的 Azure 服务
 
@@ -32,7 +32,7 @@ ms.locfileid: "83795026"
 本文列出了 Azure 云解决方案提供商 (CSP) 计划中可用的 Azure 服务和不可用的 Azure 服务。 另外还介绍了 [Microsoft Azure 德国](https://azure.microsoft.com/overview/clouds/germany/)和 [Microsoft Azure 政府](https://azure.microsoft.com/overview/clouds/government/)这两个国家/地区云中的服务可用性。
 
 >[!Note]
->[Azure 中国]( https://www.azure.cn/)在 Azure CSP 计划中不可用。
+> [Azure 中国](https://www.azure.cn/)在 Azure CSP 计划中不可用。
 
 ## <a name="global-cloud"></a>全球云
 
