@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908326"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452604"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表
 
@@ -33,36 +33,35 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>参阅 Azure 计划定价中的订阅定价
 
-1. 在左侧的“合作伙伴中心”菜单中选择“销售”，然后选择“市场”。  
+1. 在左侧的“合作伙伴中心”菜单中选择“销售”，然后选择“市场”。 
 
 2. 在 Azure 计划定价下，选择需要其定价的国家/地区。
 
-3. 在“导出类型”旁边，选择“Azure 计划消耗定价”、“Azure 计划预留定价”或“外汇汇率”。     注意：“外汇汇率”不特定于国家/地区。 
+3. 在“导出类型”旁边，选择“Azure 计划消耗定价”、“Azure 计划预留定价”或“外汇汇率”。    注意：“外汇汇率”不特定于国家/地区。
 
-3. 在“定价日期”旁边选择所需的日期，例如“当前”。   
+4. 在“定价日期”旁边选择所需的日期，例如“当前”。 
 
+   :::image type="content" source="images/azure/pricingnew.png" alt-text="特定于国家/地区":::
 
-![特定于国家/地区](images/azure/pricingnew.png)
-
-注意：可以导出两个不同的价目表 -“Azure 计划定价”和“市场第三方定价”。 
+注意：可以导出两个不同的价目表 -“Azure 计划定价”和“市场第三方定价”。
 
 ## <a name="azure-price-list-specifics"></a>Azure 价目表具体信息
 
-- Azure 计划定价将在合作伙伴中心的“市场”页中的“销售”下提供。 
+- Azure 计划定价将在合作伙伴中心的“市场”页中的“销售”下提供。
 
 - 可以导出 Azure 计划消耗服务、Azure 预留项和外汇汇率的内容。
 
 - 导出选项包括：
 
-    - **当日定价**：包括当月 1 号到当前日期的所有计量项目和定价。 这包括新价格、更改的价格或已删除的价格。 所有价格具有生效开始日期和结束日期，以解释这些价格是新价格还是已删除的价格。
+  - **当日定价**：包括当月 1 号到当前日期的所有计量项目和定价。 这包括新价格、更改的价格或已删除的价格。 所有价格具有生效开始日期和结束日期，以解释这些价格是新价格还是已删除的价格。
 
-    - **上个月的定价**：按月下载每种类型的资源。 对于定价文件，这包括该月可用的所有计量项目。 如果在该月中途显示了新的计量项目，将显示一个具有生效日期的计量项目，该日期反映该计量项目的可用性。 与停用的价格相似，将显示一个结束日期用于描述该计量项目何时不再可用。
+  - **上个月的定价**：按月下载每种类型的资源。 对于定价文件，这包括该月可用的所有计量项目。 如果在该月中途显示了新的计量项目，将显示一个具有生效日期的计量项目，该日期反映该计量项目的可用性。 与停用的价格相似，将显示一个结束日期用于描述该计量项目何时不再可用。
 
-    - **外汇汇率**：外汇汇率在每月 1 号的前一天下午 6 点 (PST) 可供下载。 例如，如果你想要 11 月份的汇率，请在 10 月 31 日下载。 还会提供上个月的外汇汇率。
+  - **外汇汇率**：外汇汇率在每月 1 号的前一天下午 6 点 (PST) 可供下载。 例如，如果你想要 11 月份的汇率，请在 10 月 31 日下载。 还会提供上个月的外汇汇率。
 
 - 价目表中的价格是直接价格。 某些合作伙伴可能符合赚取返点的条件。 有关如何计算合作伙伴赚取的返点的信息，请阅读[如何计算和支付合作伙伴赚取的返点](partner-earned-credit-explanation.md)。
 
-- **符合条件的服务**：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务  。 注意，例外情况包括但不限于，Azure 计划消费定价表和 Azure 计划预留项“标记”列中标识为“第三方”的第三方产品。
+- **符合条件的服务**：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务。 注意，例外情况包括但不限于，Azure 计划消费定价表和 Azure 计划预留项“标记”列中标识为“第三方”的第三方产品。
 
 ## <a name="price-list-data"></a>价目表数据
 
@@ -91,7 +90,7 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure 计划的定价 API
 
-可以使用[定价 API](https://docs.microsoft.com/partner/develop/pricing) 以编程方式检索 Azure 计划对使用和预留项的定价。 还可以检索外汇汇率。 
+可以使用[定价 API](https://docs.microsoft.com/partner/develop/pricing) 以编程方式检索 Azure 计划对使用和预留项的定价。 还可以检索外汇汇率。
 
 定价 API 与其他合作伙伴中心 API 位于不同的终结点。 定价信息包括适用于 Azure 计划资源的计量定价（美元），以及适用于 Azure 计划订阅的预留项定价。
 

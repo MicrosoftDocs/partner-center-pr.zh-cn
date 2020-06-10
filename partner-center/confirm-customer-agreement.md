@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908166"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453264"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
@@ -33,7 +33,6 @@ ms.locfileid: "82908166"
 
 - 间接经销商、直接计费、间接提供商
 
-
 2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 请阅读间接经销商的其他[指南](indirect-reseller-tasks-in-partner-center.md)。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，这两个协议在云解决方案提供商计划中共存。 从 2020 年 2 月 1 日开始，Microsoft 客户协议替代了 Microsoft 云协议。
 
 客户有两个选项可用于接受 Microsoft 客户协议。 
@@ -44,7 +43,7 @@ ms.locfileid: "82908166"
 
 ## <a name="access-microsoft-customer-agreement-template"></a>访问 Microsoft 客户协议模板
 
-可以从[此处](https://aka.ms/customeragreement)手动下载最新版 Microsoft 客户协议模板。 Microsoft 客户协议特定于国家/地区。 在请求 Microsoft 客户协议模板时，请确保根据客户的位置选择正确的国家/地区。 
+可以从[此处](https://aka.ms/customeragreement)手动下载最新版 Microsoft 客户协议模板。 Microsoft 客户协议特定于国家/地区。 在请求 Microsoft 客户协议模板时，请确保根据客户的位置选择正确的国家/地区。
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>选项 1：在合作伙伴中心中确认客户已接受协议
 
@@ -54,45 +53,45 @@ ms.locfileid: "82908166"
 
 在合作伙伴中心创建新客户租户时，请按以下步骤确认客户接受了 Microsoft 客户协议。 必须是管理员代理或销售代理才能执行这些步骤。
 
-1. 选择“客户”  ，然后选择“新客户”  。
+1. 选择“客户”，然后选择“新客户”。
 
-2. 在“帐户信息”下，输入公司及其主要联系人的信息。 
+2. 在“帐户信息”下，输入公司及其主要联系人的信息。
 
-3. 在“Microsoft 协议”下，  选中相应的框来证明客户已接受 Microsoft 客户协议。 
+3. 在“Microsoft 协议”下，选中相应的框来证明客户已接受 Microsoft 客户协议。
 
-4. 在“协议接受日期”  下，输入相应的日期。 不能将此日期设置为未来日期。
+4. 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。
 
-5. 确保显示的主要用户联系人信息正确。 如果不正确，请选择“更新”  并输入接受该协议的人员的准确信息。
+5. 确保显示的主要用户联系人信息正确。 如果不正确，请选择“更新”并输入接受该协议的人员的准确信息。
 
-6. 选择“下一步”  继续创建客户租户。
+6. 选择“下一步”继续创建客户租户。
 
-![新客户](images/mca/newcustomeragreement.jpg)  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="新客户":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>确认现有客户接受了协议
 
 必须是管理员代理或销售代理才能执行此操作：
 
-1. 选择“客户”。  找到并选择客户。
+1. 选择“客户”。 找到并选择客户。
 
-2. 选择“帐户信息”。 
+2. 选择“帐户信息”。
 
-3. 在“Microsoft 客户协议”  下选择“更新”  。
+3. 在“Microsoft 客户协议”下选择“更新”。
 
-4. 输入已接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。 在“协议接受日期”  下，输入相应的日期。 不能将此日期设置为未来日期。
+4. 输入已接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。
 
-5. 选择“保存”，然后继续操作。 
+5. 选择“保存”，然后继续操作。
 
-![现有客户](images/mcua2-update2.png)
+   :::image type="content" source="images/mcua2-update2.png" alt-text="现有客户":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>检索客户接受协议的确认信息
 
 可以按下述步骤检索关于现有客户已接受 Microsoft 客户协议的确认信息。 必须是管理员代理或销售代理才能执行此操作。
 
-1. 选择“客户”  ，然后找到并选择要查看的客户。
+1. 选择“客户”，然后找到并选择要查看的客户。
 
-2. 选择“帐户信息”。 
+2. 选择“帐户信息”。
 
-3. 在“Microsoft 客户协议”  下，查看该客户是否提供过确认。
+3. 在“Microsoft 客户协议”下，查看该客户是否提供过确认。
 
 ## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>使用合作伙伴中心 API/SDK 确认客户接受协议
 
@@ -105,7 +104,6 @@ ms.locfileid: "82908166"
 - [获取客户接受 Microsoft 客户协议的确认](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [获取 Microsoft 客户协议模板的下载链接](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>选项 2：客户在 Microsoft 365 管理中心接受协议
 
@@ -124,17 +122,17 @@ ms.locfileid: "82908166"
 
 使用以下步骤在合作伙伴中心创建新客户，并邀请他们在 Microsoft 365 管理中心查看并接受 Microsoft 客户协议。
 
-1. 从合作伙伴中心的“客户”  选项卡中，选择“添加客户”。 
+1. 从合作伙伴中心的“客户”选项卡中，选择“添加客户”。
 
-2. 在“帐户信息”下的所有必填字段中输入新客户的信息，包括客户的公司名称和主要联系人。 
+2. 在“帐户信息”下的所有必填字段中输入新客户的信息，包括客户的公司名称和主要联系人。
 
-3. 在“客户协议”  下选择第一个选项，即“将要求客户在 Microsoft 365 管理中心接受 Microsoft 客户协议”。  完成页面上的所有其他必填字段。
+3. 在“客户协议”下选择第一个选项，即“将要求客户在 Microsoft 365 管理中心接受 Microsoft 客户协议”。 完成页面上的所有其他必填字段。
 
-4. 选择“下一步:  查看”，然后继续执行创建客户租户的步骤。 （注意：新客户在接受 Microsoft 客户协议之前无法进行新的购买。）  
+4. 选择“下一步:查看”，然后继续执行创建客户租户的步骤。 （注意：新客户在接受 Microsoft 客户协议之前无法进行新的购买。）  
 
-![创建新客户](images/mca/create-new-customer.jpg)
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="创建新客户":::
 
-5. 到达新客户工作流中的“确认”  屏幕后，保存客户凭据。 稍后需将这些凭据分配给客户。
+5. 到达新客户工作流中的“确认”屏幕后，保存客户凭据。 稍后需将这些凭据分配给客户。
 
 6. 在合作伙伴中心外部，创建并发送一封电子邮件，邀请客户在 Microsoft 365 管理中心接受 Microsoft 客户协议。 请确保电子邮件中包含以下项：
 
@@ -152,15 +150,15 @@ ms.locfileid: "82908166"
 
 通过以下步骤邀请新客户查看并接受经销商关系和 Microsoft 客户协议。 
 
-1. 从合作伙伴中心的“客户”选项卡中选择“请求建立经销商关系”链接。   
+1. 从合作伙伴中心的“客户”选项卡中选择“请求建立经销商关系”链接。  
 
 2. 系统会生成自动电子邮件模板，其中包括文本和参数化 URL，用于将客户定向到 Microsoft 365 管理中心。
 
-3. 可以自定义自动生成的电子邮件模板，然后选择“复制到剪贴板”或“在电子邮件中打开”。  
+3. 可以自定义自动生成的电子邮件模板，然后选择“复制到剪贴板”或“在电子邮件中打开”。 
 
 4. 使用此电子邮件模板邀请客户接受**经销商关系**请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
 
-![创建关系](images/mca/createrelationship.png)
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="创建关系":::
 
 5. 客户通过电子邮件接收邀请，并单击参数化 URL。 
 
@@ -170,10 +168,10 @@ ms.locfileid: "82908166"
 
 8. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-![接受协议](images/mca/accept.jpg)
+   :::image type="content" source="images/mca/accept.jpg" alt-text="接受协议":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀请现有客户查看并接受协议 
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀请现有客户查看并接受协议
 
 通过以下步骤邀请现有客户查看并接受 Microsoft 客户协议。 
 
@@ -187,7 +185,7 @@ ms.locfileid: "82908166"
 
 5. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-![客户](images/mca/customeraccept.png)
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="客户":::
 
 >[!NOTE]
 >在某些情况下，客户可能无法直接接受 Microsoft 客户协议。 若要详细了解这些情况，请参阅[需要代表客户证明的两种情况](attest-acceptance-customer-agreement.md)。

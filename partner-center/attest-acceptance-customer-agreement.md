@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板, 证明接受协议
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908405"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452714"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客户证明接受 Microsoft 客户协议
 
@@ -46,7 +46,7 @@ ms.locfileid: "82908405"
 
 **解决方法**：必须代表客户进行证明。
 
-![客户](images/mca/accept-scenario-1.png)
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="客户":::
 
 **情况 2**：现有客户已购买以下任何一项：产品/服务、软件和软件订阅、预留实例和 Azure 计划。 客户现在正在尝试通过新的合作伙伴进行新的购买。
 
@@ -54,4 +54,4 @@ ms.locfileid: "82908405"
 
 **解决方法**：必须代表客户进行证明。  
 
-![客户](images/mca/accept-scenario-2.png)
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="客户":::

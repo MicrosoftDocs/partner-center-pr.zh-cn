@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908342"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452624"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 计划中的订阅和资源
 
@@ -26,7 +26,7 @@ ms.locfileid: "82908342"
 
  合作伙伴可以使用通过基于角色的访问控制功能 (RBAC) 提供的不同选项，获取对客户在云解决方案提供商中的 Azure 资源的全天候操作控制和管理权限。 
 
-- 管理员代表 (AOBO) - 借助 [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)，在合作伙伴租户中具有“管理员代理”角色的任何用户将对你通过云解决方案提供商计划创建的 Azure 订阅拥有 RBAC 所有者访问权限  。
+- 管理员代表 (AOBO) - 借助 [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)，在合作伙伴租户中具有“管理员代理”角色的任何用户将对你通过云解决方案提供商计划创建的 Azure 订阅拥有 RBAC 所有者访问权限。
 
 - **Azure Lighthouse**：使用 AOBO 不能灵活地创建处理不同客户的不同组，或者为组或用户启用不同的角色。 使用 Azure Lighthouse 可将不同的组分配到不同的客户或角色。 由于用户将通过 Azure 委托的资源管理获取适当的访问级别，因此你可以减少具有“管理员代理”角色的用户数量（因此拥有完全 AOBO 访问权限）。 这有助于通过限制对客户资源的不必要访问权限来提高安全性。 此外，它还可以让你更灵活地大规模管理多个客户。 有关详细信息，请参阅 [Azure Lighthouse 和云解决方案提供商计划](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)。
 
@@ -57,15 +57,15 @@ Microsoft 建议为用户分配最低的权限，使他们能够履行自己的�
 
 1. 创建警报
 
-![Azure 警报](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 警报":::
 
 2. 选择希望警报执行的操作类型。例如，如果指定电子邮件，则发生任何角色分配删除操作时，你会收到一封通知电子邮件。
 
-![配置警报](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="配置警报":::
 
 ### <a name="aobo-removal"></a>AOBO 删除
 
-客户可以在 Azure 门户上的“访问控制”中管理对其订阅的访问权限。  在“角色分配”选项卡中，选择“删除访问权限”即可。   如果发生这种情况，你可以：
+客户可以在 Azure 门户上的“访问控制”中管理对其订阅的访问权限。 在“角色分配”选项卡中，选择“删除访问权限”即可。  如果发生这种情况，你可以：
 
 - 与客户沟通，看看是否可以恢复管理访问权限。
 - 使用通过[基于角色的访问控制 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) 提供的访问权限。

@@ -1,22 +1,20 @@
 ---
 title: 将客户从当前的 Azure 产品/服务迁移到 Azure 计划
 ms.topic: article
-ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商合作伙伴如何使用合作伙伴中心将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划下的 Azure 服务。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/04/2020
+ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908335"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452584"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划
 
@@ -41,47 +39,47 @@ ms.locfileid: "82908335"
 
 1. 选择适用于客户的 Azure 计划。
 
-2. 选择“将计费过渡到 Azure 计划”。 
+2. 选择“将计费过渡到 Azure 计划”。
 
-![过渡](images/azure/transition1.png)
+   :::image type="content" source="images/azure/transition1.png" alt-text="过渡":::
 
-3. 选择“继续” 
+3. 选择“继续”
 
-![过渡](images/azure/transition2.png)
+   :::image type="content" source="images/azure/transition2.png" alt-text="过渡":::
 
-客户将过渡到 Azure 计划。
+   客户将过渡到 Azure 计划。
 
-**过渡工作流会自动完成前提步骤**：
+   **过渡工作流会自动完成前提步骤**：
 
-- 购买 Azure 计划
-- Direct CSP 方案中每个客户有一个计划  
-- 每个分销商有一个计划  
+   - 购买 Azure 计划
+   - Direct CSP 方案中每个客户有一个计划  
+   - 每个分销商有一个计划  
 
-例如，某家合作伙伴购买了两个 Microsoft Azure 套餐，并在购买时包含了两个不同的 POR。 在这种情况下，过渡工作流将购买两个 Azure 计划（每个分销商有一个），并自动在 Azure 计划下映射相应的 Azure 订阅。  
+   例如，某家合作伙伴购买了两个 Microsoft Azure 套餐，并在购买时包含了两个不同的 POR。 在这种情况下，过渡工作流将购买两个 Azure 计划（每个分销商有一个），并自动映射到 Azure 计划下的相应 Azure 订阅。  
 
-**将 Azure 订阅映射到 Azure 计划**
+   **将 Azure 订阅映射到 Azure 计划**
 
-购买 Azure 计划后，我们的系统会将现有的 Azure 订阅映射到 Azure 计划。 可以在 Azure 门户以及合作伙伴中心查看进度。 
+   购买 Azure 计划后，我们的系统会将现有的 Azure 订阅映射到 Azure 计划。 可以在 Azure 门户以及合作伙伴中心查看进度。
 
-4. 返回到客户的合作伙伴中心“订阅”页，使用其本地货币更新其预算限制。  
+4. 返回到客户的合作伙伴中心“订阅”页，使用其本地货币更新其预算限制。
 
-![过渡](images/azure/transition3.png)
+   :::image type="content" source="images/azure/transition3.png" alt-text="过渡":::
 
->[!NOTE]
->在合作伙伴中心设置的预算不会传播到 Azure 门户。 还应在 Azure 门户中设置预算和警报。
+   >[!NOTE]
+   >在合作伙伴中心设置的预算不会传播到 Azure 门户。 还应在 Azure 门户中设置预算和警报。
 
-过渡到 Azure 计划后，不再可为此客户购买 Azure 订阅。 在 Azure 门户的 Azure 计划下创建订阅。
+   过渡到 Azure 计划后，不再可为此客户购买 Azure 订阅。 在 Azure 门户的 Azure 计划下创建订阅。
 
->[!NOTE]
-> 所有通过 RBAC 在 Azure 计划中购买的 Azure 订阅都将按当地货币定价和计费。 不会使用外汇汇率。
+   >[!NOTE]
+   > 所有通过 RBAC 在 Azure 计划下购买的 Azure 订阅都将按当地货币定价和计费。 不会使用外汇汇率。
 
 ### <a name="track-your-transition-details"></a>跟踪过渡详细信息
 
 可以在 Azure 门户以及合作伙伴中心跟踪过渡进度。
 
-![显示详细信息](images/azure/details1.png)
+:::image type="content" source="images/azure/details1.png" alt-text="显示详细信息":::
 
-**对合作伙伴计费的影响**
+### <a name="billing-impact-to-partners"></a>对合作伙伴的计费影响
 
 如果从现有的 CSP Azure 套餐过渡客户，将产生以下计费影响：
 
@@ -91,27 +89,26 @@ ms.locfileid: "82908335"
 
 若要将直接企业协议过渡到 CSP，并将服务器和云注册过渡到 Azure 服务，请阅读[获取 Microsoft 合作伙伴协议的 Azure 订阅计费所有权](https://docs.microsoft.com/azure/billing/mpa-request-ownership)
 
-**审核日志**：
+### <a name="audit-log"></a>审核日志
 
-若要核对计费，请查看“订阅”页上的“Microsoft Azure”(0145P) 订阅历史记录。  
+若要核对计费，请查看“订阅”页上的“Microsoft Azure”(0145P) 订阅历史记录。
 
 “Microsoft Azure”(0145P) 订阅由两个部分组成：
-1. 商务订阅 
+
+1. 商务订阅
 2. Azure 订阅（权利）
 
 过渡完成后，Azure 订阅将移到新的 Azure 计划下，商务订阅将会暂停，以便不再报告其使用情况。  
 
->[注意]：在 CSP 中购买 Microsoft Azure (0145P) 订阅时，商务订阅和 Azure 订阅（权利）具有相同的值。 仅当计费所有权发生更改或转移时，值才会不同。 
+>[!Note]
+>在 CSP 中购买 Microsoft Azure (0145P) 订阅时，商务订阅和 Azure 订阅（权利）具有相同的值。 仅当计费所有权发生更改或转移时，值才会不同。
 
-**转换问题**
+### <a name="transition-issues"></a>过渡问题
 
-转换期间预计不会发生任何问题。 但如果失败，我们将在过渡工作流本身中提供最新信息。 Azure 的使用不会受到干扰。  
+过渡期间预计不会发生任何问题。 但如果失败，我们将在过渡工作流本身中提供最新信息。 Azure 的使用不会受到干扰。  
 
 ## <a name="next-steps"></a>后续步骤
 
 - [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
 
 - [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
-
-
-

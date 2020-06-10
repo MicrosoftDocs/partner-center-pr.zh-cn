@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795831"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453234"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
@@ -45,7 +45,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 在邀请信件中选择“开始”。 随后会转到合作伙伴中心登录页。
 
-![入门](images/migration/getstarted.jpg)
+:::image type="content" source="images/migration/getstarted.jpg" alt-text="入门":::
 
 ## <a name="start-with-your-work-email"></a>从工作电子邮件开始
 
@@ -54,7 +54,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 >[!Note]
 >如果你是位于中国的合作伙伴并已同时注册 Microsoft 合作伙伴网络和云解决方案提供商 (CSP) 计划，则每个帐户都有一个单独的租户。 注册了云解决方案提供商计划的帐户将在国家云中进行管理，而 Microsoft 合作伙伴网络帐户将在全球云中进行管理。 无法链接这两个帐户。
 
-![将公司信息告诉我们](images/migration/newtellusabout.png)
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="将公司信息告诉我们":::
 
 验证或更新信息后，选择“接受并继续”。
 此页上的条款和条件与公司已在 PMC 中签署的协议**完全相同**。  
@@ -72,7 +72,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 创建新的 Azure AD 租户后，可以邀请员工登录到合作伙伴中心。
 
-![邀请员工](images/migration/invite.png)
+:::image type="content" source="images/migration/invite.png" alt-text="邀请员工":::
 
 如果你已使用现有的 AAD 租户登录，则员工的信息和权益也已同你一起迁移。 在这种情况下，请分配员工角色，以确定他们可在合作伙伴中心执行哪些操作。 注意：合作伙伴中心内的角色不同于 PMC 中的角色。 有关详细信息，请参阅[从 PMC 迁移到合作伙伴中心](move-pmc-pc-map.md)。
 
@@ -80,11 +80,11 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 如果 AAD 租户是新的，则暂时还没有为任何人分配全局管理员角色。若要成为全局管理员，需要验证域所有权。 可能需要求助域管理员来完成此操作。 请注意，尽管可以使用已购买的套餐，但在完成获取全局管理员角色的步骤之前，无法购买任何新套餐。
 
-![获取控制权](images/migration/takecontrol.png)
+:::image type="content" source="images/migration/takecontrol.png" alt-text="获取控制权":::
 
 选择“开始”后，将看到以下屏幕：
 
-![验证域所有权](images/migration/verifytxt.png)
+:::image type="content" source="images/migration/verifytxt.png" alt-text="验证域所有权":::
 
 网站中已填充域注册机构。 只有域所有者可以更新 DNS 文件，我们可以通过将该文本文件复制并添加到 DNS 记录，来验证你是否为所有者。 完成更新需要几分钟时间。 需要从合作伙伴中心注销，然后重新登录。 你的角色将更改为全局管理员。
 
@@ -92,7 +92,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 全面浏览一下仪表板。 在仪表板中可以管理会员资格、添加企业档案供我们引荐、注册云解决方案提供商计划，并随时可以通过选择“仪表板”来查看与自己的业务相关的通知和套餐。 还可以管理奖励、在市场中购买套餐、注册市场投放服务，等等。  
 
-![全面浏览](images/migration/fre.png)
+:::image type="content" source="images/migration/fre.png" alt-text="全面浏览":::
 
 ## <a name="next-steps"></a>后续步骤
 
