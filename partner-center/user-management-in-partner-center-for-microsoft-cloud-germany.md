@@ -1,19 +1,21 @@
 ---
-title: 德国 Microsoft 云合作伙伴中心中的用户和许可证管理 | 德国 Microsoft 云合作伙伴中心
+title: 用户和许可证管理
+titleSuffix: Microsoft Cloud Germany - Partner Center
+description: 了解如何以及在何处管理 Microsoft 云德国合作伙伴、客户和许可证以及密码重置的合作伙伴中心。
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何以及在何处管理 Microsoft 云德国合作伙伴、客户和许可证以及密码重置的合作伙伴中心。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797675"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603616"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -37,7 +39,7 @@ ms.locfileid: "82797675"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在德国 Microsoft 云的 Azure 门户中管理用户 
 
-如果你登录到德国 Microsoft 云的合作伙伴中心，可以打开德国 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果您需要直接登录到 Microsoft 云德国的 Azure 门户，请参阅[https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
+如果你登录到德国 Microsoft 云的合作伙伴中心，可以打开德国 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果您需要直接登录到 Microsoft 云德国的 Azure 门户，请参阅 [https://portal.microsoftazure.de](https://portal.microsoftazure.de) 。 
 
 在你已成功登录德国 Microsoft 云的 Azure 门户后，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 

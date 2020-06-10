@@ -1,5 +1,5 @@
 ---
-title: 升级你的 Microsoft 合作伙伴网络成员身份
+title: 升级 Microsoft 合作伙伴网络成员身份
 description: 通过将你的 MPN 成员身份升级到 Microsoft Action Pack 订阅成员身份或 Microsoft 称职，来享有独有权益。
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369254"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603876"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>升级你的 Microsoft 合作伙伴网络成员身份
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>升级 Microsoft 合作伙伴网络成员身份并浏览新产品/服务、计划和资源
 
 **适用于**
 
@@ -67,9 +68,9 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 6. 查看订单详细信息，并在准备好购买 Action Pack 时选择 "**购买**"。 你的信用卡将被立即收费。
 
-7. 然后订单获得确认。 选择“关闭”  。
+7. 然后订单获得确认。 选择“关闭”。
 
-每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。
+   每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>关闭 Action Pack 订阅自动续订
 
@@ -77,7 +78,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 2. 选择 **Microsoft Action Pack 订阅**以查看订阅详细信息。
 
-3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择“关闭自动续订”  。
+3. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择“关闭自动续订”。
 
 > [!NOTE]  
 > 如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
@@ -100,7 +101,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 8. 查看订单详细信息，并在准备好购买 Action Pack 时选择 "**购买**"。 你的信用卡将被立即收费。
 
-9. 然后订单获得确认。 选择“关闭”  。
+9. 然后订单获得确认。 选择“关闭”。
 
    每年在此日期你的 Action Pack 订阅都将自动续订。 你可以随时从你购买的产品/服务的列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。
 
@@ -108,13 +109,13 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 若要取消你的 Microsoft Action Pack 订阅，必须联系合作伙伴中心支持部门。
 
-1. 转到 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
+1. 转到[https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
 
-2. 选择“报告合作伙伴中心问题”，然后在下一页上选择“新建请求”   。
+2. 选择“报告合作伙伴中心问题”，然后在下一页上选择“新建请求” 。
 
-3. 展开“问题类型”列表并选择“合作伙伴发票、付款或对帐文件帮助”   。
+3. 展开“问题类型”列表并选择“合作伙伴发票、付款或对帐文件帮助” 。
 
-4. 填写完所需的信息，然后选择“提交”  。 合作伙伴中心支持团队将联系你以帮助你取消订阅。
+4. 填写完所需的信息，然后选择“提交”。 合作伙伴中心支持团队将联系你以帮助你取消订阅。
 
    若要查看服务请求的状态，请选择**服务请求 > 合作伙伴中心请求**，然后选择**打开**。 从列表中选择合适的服务请求。  
 

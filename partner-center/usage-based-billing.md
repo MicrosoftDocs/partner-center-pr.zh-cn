@@ -1,20 +1,21 @@
 ---
-title: 基于使用情况的计费 |合作伙伴中心
+title: 基于使用情况的计费
 ms.topic: article
-ms.date: 11/21/2019
-Description: 有关基于使用情况的计费的信息，请查看合作伙伴中心的每月使用费率。
+ms.date: 06/05/2020
+Description: 详细了解合作伙伴中心的基于使用情况的计费，按每月使用费率计费。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费，基于使用情况，使用情况
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797665"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603866"
 ---
-# <a name="usage-based-billing"></a>基于使用情况的计费
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>了解针对每月使用的即用即付服务的基于使用情况的计费
 
 - 合作伙伴中心
 - 云解决方案提供商计划中的合作伙伴
@@ -27,7 +28,7 @@ ms.locfileid: "82797665"
 
 仅**每月计费**适用于基于使用情况的产品。 有关每月计费的详细信息，请参阅[每月和每年计费差额](billing-annual-monthly.md)。
 
-基于使用情况的订阅按每月计费，在欠款形式中按**订阅周年日**计费。 例如，如果订阅周年日为第15天，则将在1月15日到1月14日的服务期间向你收费。 在2月15日到2月14日的服务期内，将再次向你收费。 
+基于使用情况的订阅按每月计费，在欠款形式中按**订阅周年日**计费。 例如，如果订阅周年日为第15天，则将在12月15日到1月14日的服务期间向你收费。 1月15日到2月14日的服务期将再次向你收费。
 
 ## <a name="usage-charges"></a>使用费
 

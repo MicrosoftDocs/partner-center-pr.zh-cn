@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN，发票，地图，免税，VAT，VAT ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795945"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633807"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作伙伴网络中的发票和税款
 
@@ -62,3 +62,8 @@ ms.locfileid: "83795945"
 
 3.  输入公司的 VAT ID，选择 "**添加**"，然后选择 "**下一步**"。 
 
+## <a name="next-steps"></a>后续步骤
+
+- [合作伙伴中心计费概述](billing-basics.md)
+
+- [为预缴税金贷记](withholding-tax-credit-form.md)

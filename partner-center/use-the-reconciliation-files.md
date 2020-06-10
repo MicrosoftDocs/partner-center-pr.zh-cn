@@ -1,24 +1,25 @@
 ---
-title: 使用对帐文件 |合作伙伴中心
+title: 使用你的对帐文件
 ms.topic: article
-ms.date: 11/21/2019
-description: 使用您的对帐文件来了解合作伙伴中心费用的详细行项视图。
+ms.date: 06/08/2020
+description: 了解合作伙伴中心中的对帐文件以及如何解释给定计费周期的详细的行项视图。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114959"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603796"
 ---
-# <a name="use-your-reconciliation-files"></a>使用你的对帐文件
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>了解如何读取伙伴中心对帐文件中的行项
 
-适用范围：
+适用于：
 
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
@@ -52,10 +53,10 @@ ms.locfileid: "80114959"
 1. 在 Microsoft Excel 中打开对帐文件（采用 .csv 格式）。
 2. 选择该文件中的第一列。
 3. 打开 "**将文本转换为列" 向导**。 在功能区上，选择 "**数据**"，然后选择 "**文本到列**"。
-4. 在向导中，选择 "**带分隔符的文件类型**"。 然后选择 "**下一步**"。
+4. 在向导中，选择 "**带分隔符的文件类型**"。 然后，选择“下一步”。
 5. 在 "**分隔符**" 字段中，选择 "**逗号**"。 （如果已选择**选项卡**，则可以选择此选项。）然后选择 "**下一步**"。
-6. 在 "**列数据格式**" 字段中，选择**Date： MDY**。 然后选择 "**下一步**"。
-7. 在 "**列数据格式**" 字段中，选择 "所有金额列的**文本**"。 然后选择 "**完成**"。
+6. 在 "**列数据格式**" 字段中，选择**Date： MDY**。 然后，选择“下一步”。
+7. 在 "**列数据格式**" 字段中，选择 "所有金额列的**文本**"。 然后选择“完成”。
 
 ## <a name="download-reconciliation-files-programmatically"></a>以编程方式下载对帐文件
 
@@ -72,7 +73,7 @@ ms.locfileid: "80114959"
 
 **间接模型**中的合作伙伴可以在基于许可证和基于使用情况的对帐文件中使用这些附加字段，按经销商对文件进行详细列举。
 
-| MPN ID | 说明 |
+| MPN ID | 描述 |
 | ------ | ----------- |
 | MPN ID | 云解决方案提供商（CSP）合作伙伴的 Microsoft 合作伙伴网络（MPN）标识符（直接或间接）。 |
 | [经销商 MPN ID](#reseller-mpn-id) | [订阅的记录分销商的 MPN 标识符](#reseller-mpn-id)。 此字段对应于 "合作伙伴中心" 中为特定订阅列出的分销商 ID。 仅显示在间接模型中合作伙伴的对帐文件上。 |
@@ -88,8 +89,8 @@ ms.locfileid: "80114959"
 查看或更新**经销商 MPN ID**：
 
 1. 登录到合作伙伴中心。
-2. 在合作伙伴中心菜单中，选择**客户**。
+2. 在 "合作伙伴中心" 菜单中，选择 "**客户**"。
 3. 从列表中选择客户。
 4. 在 customer 菜单中，选择 "**订阅**"。
 5. 从列表中选择订阅。
-6. 选择“更新”以更改“经销商 (MPN ID)”。
+6. 选择“更新”**** 以更改“经销商 (MPN ID)”****。

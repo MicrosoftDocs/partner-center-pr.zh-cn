@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453184"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603776"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心移到合作伙伴中心（PMC）
 
@@ -75,6 +75,7 @@ ms.locfileid: "84453184"
 验证公司信息，并根据需要进行编辑。  我们会根据这些详细信息将你的帐户迁移到合作伙伴中心，因此请确保这些详细信息正确。
 
 这些详细信息基于 PMC 中的信息，将会进行验证，确保公司合法。
+
 
 :::image type="content" source="images/migration/review.png" alt-text="查看详细信息":::
 

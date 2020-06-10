@@ -1,7 +1,7 @@
 ---
 title: 为客户购买 Microsoft Azure 预订
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908304"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603716"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
 
@@ -33,9 +33,9 @@ ms.locfileid: "82908304"
 - 销售代理
 - “用户管理”管理员
 
-## <a name="before-you-begin"></a>开始之前
+## <a name="before-you-begin"></a>在开始之前
 
-请先查看下面的重要信息，再代表客户购买 Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅 [授予客户购买其自己的 Azure 预订的权限] [授予客户-权限. md # 向客户授予-自行-Azure 保留]。）
+请先查看下面的重要信息，再代表客户购买 Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。）
 
 - 如果客户签署新的 Microsoft 客户协议（请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)），则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅[购买 Azure 计划](purchase-azure-plan.md)。
 
@@ -53,7 +53,7 @@ ms.locfileid: "82908304"
 
 - 如果客户需要将 Azure 订阅从直接方式或 EA 转移至云解决方案提供商计划，预订不会转移。
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure 预留不可用市场
+## <a name="azure-reservations-unavailable-markets"></a>不可使用 Azure 预留的市场
 
 >[!IMPORTANT] 
 >Azure 预留在以下市场中不可用：   

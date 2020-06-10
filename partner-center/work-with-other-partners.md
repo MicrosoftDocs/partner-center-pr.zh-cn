@@ -1,25 +1,26 @@
 ---
-title: 与其他合作伙伴合作 | 合作伙伴中心
+title: 与其他合作伙伴合作
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接提供商如何与云解决方案提供商（CSP）计划中的间接经销商合作，确定哪种角色适合你。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253934"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603836"
 ---
-# <a name="work-with-other-partners"></a>与其他合作伙伴合作
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>在合作伙伴中心使用其他合作伙伴的不同方法
 
 **适用于**
 
--  合作伙伴中心
+- 合作伙伴中心
 
 Microsoft 的云解决方案提供商（CSP）计划提供了一些机会，使合作伙伴能够以这些方式协同工作。
 
@@ -33,7 +34,7 @@ Microsoft 的云解决方案提供商（CSP）计划提供了一些机会，使�
 
 如果你是云解决方案提供商计划中认可的间接提供商，请参阅[与云解决方案提供商计划中的间接经销商合作](indirect-provider-tasks-in-partner-center.md)，以了解有关与间接经销商和客户联系的详细信息。 
 
-### <a name="indirect-resellers"></a>间接经销商 
+### <a name="indirect-resellers"></a>间接经销商
 
 间接经销商将与间接提供商合作，后者与 Microsoft 有直接关系并且具有用于提供客户支持和计费的基础结构。 通过与间接提供商合作，间接经销商可与经验丰富的技术提供商合作，以在不进行较大投资的情况下进入市场，并提供更广泛的一系列 Microsoft 解决方案。 
 
