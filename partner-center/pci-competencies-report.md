@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452957"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679354"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取的胜任度报表
 
@@ -48,7 +48,7 @@ ms.locfileid: "84452957"
 - 资格历史记录
 
  > [!NOTE]
- > 此报告可从合作伙伴中心见解（PCI）仪表板获得。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
+ > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
 
 **Summmary**
 

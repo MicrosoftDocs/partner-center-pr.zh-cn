@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907471"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678994"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>将分销商分配给客户的技术支持联系人
 
@@ -47,14 +47,12 @@ ms.locfileid: "82907471"
 
 3.  在**指定支持联系人**中，选择指定的产品经销商，然后单击**提交**。 
 
-    注意： 
-    
-    *  对于新订阅，指定的支持联系人默认为间接提供商。 你也可以将此提供商更改为具有委派管理员权限的间接经销商。
-    
-    *  如果你的经销商名称未出现在可用支持联系人列表中，请通过[请求建立关系](request-a-relationship-with-a-customer.md)来添加它们。 在建立关系后，它们应该会出现在列表中。  
+   >[!NOTE]  
+ >对于新订阅，指定的支持联系人默认为间接提供商。 你还可以将其更改为具有委派的管理员权限的间接经销商。    
+>如果经销商的名称未出现在可用支持联系人列表中，请通过[请求关系](request-a-relationship-with-a-customer.md)将它们添加到中。 在建立关系后，它们应该会出现在列表中。  
 
 4.  查看所做的更改是否正确，然后选择**关闭**。
 
-## <a name="related-topics"></a>相关主题
+## <a name="next-steps"></a>后续步骤
 
 [删除与经销商或客户的关系](remove-a-relationship.md)

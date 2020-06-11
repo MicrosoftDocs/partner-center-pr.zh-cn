@@ -9,12 +9,12 @@ ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 44f959f2bc0fff5c354dd7f6bf55e1afccf2398e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467367"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679404"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求分销商关系
 
@@ -26,11 +26,12 @@ ms.locfileid: "84467367"
 
 如果要建立与客户的分销商关系并仅管理预配的 Azure 订阅，则无需获得管理员权限。
 
-请注意，不请求权限的选项不适用于在美国政府或 Microsoft 云德国 Microsoft 云操作的合作伙伴。 若要了解详细信息，请参阅[客户将管理权限委托给合作伙伴](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)。
+>[!NOTE] 
+>不请求权限的选项不适用于在美国政府或 Microsoft 云德国 Microsoft 云操作的合作伙伴。 若要了解详细信息，请参阅[客户将管理权限委托给合作伙伴](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 
-请注意，你可以从你所在的国家或地区内请求与客户的分销商关系。
+你可以从你所在的国家或地区内请求与客户联系。
 
 1. 从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。   
 

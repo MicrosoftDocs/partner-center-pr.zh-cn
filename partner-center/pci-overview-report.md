@@ -11,18 +11,18 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0e96b928e5221f34e9a16d430e079d02882263d1
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452944"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679344"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作伙伴中心见解中提供的仪表板报表
  
-"合作伙伴中心概述" 仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入、许可证等。您可以在 "概述" 报表中直观显示以下图表。 
+Insights 概述仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入、许可证等。您可以在 "概述" 报表中直观显示以下图表。 
 
-- “摘要”  
+- 总结  
 - 客户、订阅和许可证的地理分布  
 - 客户增长趋势 
 - 订阅增长趋势 
@@ -39,7 +39,9 @@ ms.locfileid: "84452944"
  
 - Azure 消耗收入（ACR）：在选定的日期范围内，在所选日期范围内增长或拒绝使用特性化 ACR US $ 的总 Azure 使用收入（US $）。
 
-微图显示了 ACR US $ 的按月趋势，在所选日期范围内对你进行了说明： Azure 消耗收入（ACR）数据适用于已被分配了 Executive 报表查看器角色的用户 
+微图表显示了 ACR US $ 在所选日期范围内的按月趋势 
+>[!Note] 
+>已为其分配了 "执行报表查看器" 角色的用户可以使用 Azure 消耗收入（ACR）数据 
  
 - 订阅：由你销售或管理的云产品订阅总数（活动和非活动）。  
 在选定的日期范围内增长或拒绝订阅百分比微图显示在所选日期范围内的总订阅数趋势月数月。 
@@ -47,8 +49,7 @@ ms.locfileid: "84452944"
 - 活动订阅：基于产品遥测的活动使用情况的当前云产品订阅计数。 这不包括 Azure 订阅的所有试用订阅。  
 所选日期范围内活动订阅的增长百分比微图显示所选日期范围内活动订阅的月间趋势 
  
-- 部署的许可证：在所选时间段内部署在客户订阅中的所有云产品许可证的计数。  
-在选定的日期范围内增长或拒绝这些许可证的百分比在所选日期范围内，每月显示这些已分配许可证计数的月趋势。
+- 部署的许可证：在所选时间段内部署在客户订阅中的所有云产品许可证的计数。 在选定的日期范围内增长或拒绝这些许可证的百分比。 微图在所选日期范围内显示这些已分配许可证计数的月趋势。
 
 :::image type="content" source="images/pci/summary.png" alt-text="汇总许可证":::
 
@@ -72,8 +73,10 @@ ms.locfileid: "84452944"
 
 **Azure 使用收入增长趋势**
 
-Azure 的每月趋势在所选日期范围内使用美国收入。 X 轴表示所选日期范围内的月份，Y 轴表示当月使用的 Azure 已用收入总计。   
-**注意**：只有分配了 "执行报表查看者" 角色的用户才能看到 Azure 消耗收入（ACR）。 
+Azure 的每月趋势在所选日期范围内使用美国收入。 X 轴表示所选日期范围内的月份，Y 轴表示当月使用的 Azure 已用收入总计。
+   
+>[!Note] 
+>仅向已分配了执行报表查看器角色的用户显示 Azure 消耗收入（ACR）。 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure 消耗":::
 

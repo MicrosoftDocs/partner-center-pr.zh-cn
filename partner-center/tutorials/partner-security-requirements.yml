@@ -11,12 +11,12 @@ metadata:
   ms.author: isaiahwilliams
   author: iswillia
   ms.topic: tutorial
-  ms.openlocfilehash: 75211a49ba016ca7d75679d3cfac0a1116c5cf20
-  ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+  ms.openlocfilehash: 26c91899fa218041d3a98c565a789004471c5218
+  ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
   ms.translationtype: MT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 06/05/2020
-  ms.locfileid: "84453344"
+  ms.lasthandoff: 06/10/2020
+  ms.locfileid: "84679434"
 items:
 - title: 简介
   durationInMinutes: 5
@@ -150,4 +150,4 @@ items:
 
       :::image type="content" source="../images/security/baseline-security-verification-confirmed.png" alt-text="已通过其他安全验证":::
 
-    用户完成上述步骤后才能登录到他们尝试访问的 Microsoft 云服务。 请注意，在合作伙伴安全要求强制实施之前，系统将仅基于风险提示未被“对管理员要求 MFA”基线策略涵盖的用户进行 MFA。
+    用户完成上述步骤后才能登录到他们尝试访问的 Microsoft 云服务。 在实施合作伙伴安全要求之前，"*需要对管理员使用 mfa 的 mfa* " 基准策略未涵盖的用户将仅根据风险提示进行 mfa。

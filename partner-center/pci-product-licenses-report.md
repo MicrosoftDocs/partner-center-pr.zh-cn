@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 8da7e89ad498a81572d044bbb4526b6188c3bfbc
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452878"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679324"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 
@@ -28,13 +28,13 @@ ms.locfileid: "84452878"
 
 产品许可证报表提供基于座位的云产品的许可证分析，如 O365、Dynamics、M365、Power BI 等。此处提供的分析与你为客户销售的或为你的客户管理的许可证的使用情况关联。 你可以从 "产品许可证" 报表查看以下部分。
 
-- “摘要”
+- 总结
 - 许可证的地理分布
 - 许可证添加
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的许可证分发
 
  > [!NOTE]
- > 此报告可从合作伙伴中心见解（PCI）仪表板获得。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
+ > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
 
 **摘要**
 

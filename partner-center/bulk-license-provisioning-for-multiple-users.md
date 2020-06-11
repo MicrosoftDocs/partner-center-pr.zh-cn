@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 分配许可证，吊销许可证，分配给多个用户，
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798565"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679094"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤销许可证
 
@@ -74,9 +74,10 @@ ms.locfileid: "82798565"
 7. 通过选中每个产品的复选框，为用户选择多个产品。
     -   选择 "查看任何产品的**服务计划**"，查看并选择用户所需的服务计划。
 
-8. 选择“保存”  。 合作伙伴中心会打开一个**许可证更新**的确认页，其中列出了用户及其新的许可证。
+8. 选择“保存”。 合作伙伴中心会打开一个**许可证更新**的确认页，其中列出了用户及其新的许可证。
 
-**请注意**  ，某些 Microsoft 产品可能在某些位置不可用。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
+>[!NOTE]
+>某些 Microsoft 产品可能在某些位置不可用。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
 
 
 <a href="" id="revoking-licenses"></a>
@@ -96,8 +97,8 @@ ms.locfileid: "82798565"
 
 6. 在 "**分配和吊销许可证**" 下，清除分配给用户的产品对应的复选框。 例如，如果所有选定用户都拥有 Office 365 企业版许可证而你希望撤消这些许可证，请选中复选框以清除它。
 
-7. 选择“保存”  。
+7. 选择“保存”。
 
-## <a name="related-topics"></a>相关主题
+## <a name="next-steps"></a>后续步骤
 
 [将许可证分配给用户](assign-licenses-to-users.md)

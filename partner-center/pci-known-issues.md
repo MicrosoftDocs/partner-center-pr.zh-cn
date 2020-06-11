@@ -11,16 +11,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057a9f7dbf178b0cd91d171df002bb67a80ff935
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: b8f9a068cd4d2807f1fcf2202487e652738a8fbf
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795633"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679334"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>合作伙伴中心见解的已知问题
 
-这与查看或呈现与合作伙伴中心见解（PCI）关联的报告的任何已知问题相关。
+这与查看或呈现与见解关联的报告的任何已知问题相关。
 
 - 对于仅支持 CSP 的租户，没有启用 Insights 报告的支持方法。 只有有权访问 MPN 计划的租户可以访问这些报表。
 - 报表出现与 Internet Explorer 有关的问题。 它们适用于 Microsoft Edge 和其他浏览器。

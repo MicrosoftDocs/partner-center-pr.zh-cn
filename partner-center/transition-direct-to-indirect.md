@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接计费，过渡，间接经销商
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458403"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679444"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商
 
@@ -225,13 +225,11 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 ### <a name="pre-requisites"></a>先决条件
 
-使用此功能之前，请注意以下事项：
-
 - 此功能仅适用于使用现有直销合作伙伴租户完成间接经销商注册的过渡合作伙伴
 
 - 在传输与给定客户关联的订阅之前，过渡合作伙伴必须将客户转移到间接提供商。
 
-- 客户已[通过间接提供商接受了 Microsoft 客户协议](#microsoft-customer-agreement-acceptance)。
+- 客户必须已[通过间接提供商接受了 Microsoft 客户协议](#microsoft-customer-agreement-acceptance)。
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>如何过渡到间接经销商状态
 

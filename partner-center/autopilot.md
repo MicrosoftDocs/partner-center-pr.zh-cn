@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: autopilot，windows autopilot，microsoft autopilot，零接触部署，oobe，登录屏幕，现成
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1ce0852543c70555bdbbbffd8727876bda8aedef
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908384"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679184"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>使用新设备上的 Windows Autopilot 配置文件自定义客户全新体验
 
@@ -175,7 +175,8 @@ ms.locfileid: "82908384"
 
 > **{serialNumber},,, Microsoft Corporation，Surface 便携机**
 
-请注意，"制造商名称" 和 "设备型号" 区分大小写。
+>[!NOTE]
+> "制造商名称" 和 "设备型号" 区分大小写。
 
 如果你不知道要为制造商名称和设备型号放入哪个值，则可以在设备上运行此值以收集正确的值：
 

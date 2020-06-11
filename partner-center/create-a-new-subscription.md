@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: 订阅，新建，添加订阅，暂停，取消，挂起，暂停，SaaS，许可证，ISV，第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394144"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679054"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -73,7 +73,10 @@ ms.locfileid: "83394144"
     - 您可以通过从该客户的 "**订阅**" 页中选择订阅名称来查看或编辑该订阅。 在这里，可以选择附加许可证（如果有）、更改许可证数量，或者暂停订阅。
 
     **对于 ISV SaaS （基于许可证）订阅：**
-    - 你将收到 ISV 发布者网站的链接。 此链接应有助于你完成客户订阅的部署或帐户设置。 （请注意，你和你的客户都不会收到一封电子邮件，其中包含为此类型的 ISV 订阅设置/预配的说明。）
+    - 你将收到 ISV 发布者网站的链接。 此链接应有助于你完成客户订阅的部署或帐户设置。
+      
+    >[!NOTE]
+    > 你和你的客户都不会收到一封电子邮件，其中包含为此类型的 ISV 订阅设置/预配的说明。）
 
     - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 在免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，将根据相同的计划 autorenew 订阅。
 
@@ -145,13 +148,13 @@ ms.locfileid: "83394144"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
 
-3. 选择 "**订阅**"。 这会列出已为客户购买的任何基于许可证的订阅。
+3. 选择“订阅”。 这会列出已为客户购买的任何基于许可证的订阅。
 
 4. 在 "**订阅**" 列中，选择要修改的订阅。
 
 5. 在 "订阅详细信息" 页中，找到 "**状态**" 部分并取消选中 "**自动续订**" 框。
 
-6. 选择“提交”  。
+6. 选择“提交”。
 
 ## <a name="next-steps"></a>后续步骤
 

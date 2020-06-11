@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 475ad98a4abad12be2a1a4fe5ae2dc812013aca0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453044"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679364"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的福利报表
 
@@ -33,7 +33,7 @@ ms.locfileid: "84453044"
 
 可以在 "权益" 报表中可视化以下图表：
 
-- “摘要”
+- 总结
 - 已授予云服务
 - 软件产品
 - Visual Studio 订阅
@@ -41,7 +41,7 @@ ms.locfileid: "84453044"
 - 走向市场
 
  > [!NOTE]
- > 此报告可从合作伙伴中心见解（PCI）仪表板获得。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
+ > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
 
 **摘要**
 

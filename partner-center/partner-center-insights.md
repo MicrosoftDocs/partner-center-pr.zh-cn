@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467527"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679294"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
@@ -26,7 +26,7 @@ ms.locfileid: "84467527"
 - 主管人员报表查看器
 - 报表查看器
 
-## <a name="introduction"></a>简介
+## <a name="introduction"></a>介绍
 
 Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计划中注册的 Microsoft 商业合作伙伴提供的统一报表仪表板。 Insights 仪表板提供跨云产品（如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）的关键绩效指标（KPI）的360度视图。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
 
@@ -37,7 +37,7 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计
 全局管理员或帐户管理员可以向用户分配这些角色，并为整个公司或特定 MPN 位置分配这些角色。  
 
 >[!Note] 
->从2019年12月2日 MPN 管理员的用户将自动添加到公司范围的报表查看器角色。 他们能够以报表查看器的形式访问报表，全局管理员或帐户管理员无需执行任何显式操作。全局管理员或帐户管理员可以在必要时重写这些分配。 
+>从2020年1月20日 MPN 管理员的用户将自动添加到公司范围的报表查看器角色。 他们能够以报表查看器的形式访问报表，全局管理员或帐户管理员无需执行任何显式操作。全局管理员或帐户管理员可以在必要时重写这些分配。 
 
 ## <a name="reports-available"></a>可用报表
 
