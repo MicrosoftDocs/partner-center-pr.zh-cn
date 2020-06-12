@@ -60,6 +60,7 @@
 ## [合作伙伴中心内的帐户结构](account-structure.md)
 ## [验证域所有权](become-global-admin.md)
 ## [验证帐户信息](verification-responses.md)
+## [将你的合作伙伴帐户与其他合作伙伴帐户合并](merge-accounts.md)
 ## [更新你的合作伙伴个人资料](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [注册为控制面板供应商](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [自定义目录](customize-the-catalog.md)
 
 # [发展你的业务](grow-your-business.md)
-## [引荐](referrals.md)
+## [引荐概述](referrals.md)
+### [回应引荐](responding-to-referrals.md)
 ### [管理业务配置文件](create-a-marketing-profile.md)
 ### [管理潜在客户](manage-leads.md)
 ### [管理联合销售机会](manage-co-sell-opportunities.md)
@@ -175,6 +177,7 @@
 ### [将 Office 365 企业版 E4 订阅迁移到较新的 Office 365 版本](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本s](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
+### [将 Kaizala Pro 订阅迁移到 Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # 合作伙伴中心数据和分析
 ## [获取并分析业务数据](data-analysis-lp.md)
