@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 引用，webhook api，资源更改事件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43874556b5f3fd355f5c315bf06ca7daee0a699e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467467"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749181"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>使用 Webhook Api 为 Dynamics 365 CRM 和 Salesforce CRM 注册资源更改事件
 

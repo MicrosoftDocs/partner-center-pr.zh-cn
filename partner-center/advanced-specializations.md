@@ -1,23 +1,23 @@
 ---
 title: 获得高级专用化
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 高级专用化增强了合作伙伴目录中的业务配置文件。 了解如何根据金牌的能力获得高级专用化。
+description: 增强合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌/银能力一起获得。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 胜任度，黄金成员身份，mpn，地图，熟练程度，Microsoft 合作伙伴网络，网络成员身份，高级专用化
+keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825627"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749160"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>高级专用化如何帮助你的业务配置文件与客户建立联系
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>高级专用化帮助你的业务配置文件与客户建立联系
 
 通过高级专用化超越金牌资格。 高级专用化可帮助你在产品、解决方案领域或服务中展示经验证的可验证专业知识。 客户可以在合作伙伴目录的业务配置文件中查看金牌能力和高级专用化。 若要接收高级特殊化标记，你的业务必须符合一组已发布的条件，并由 Microsoft 进行验证。 [了解详细信息](https://partner.microsoft.com/membership/advanced-specialization)。
 
@@ -41,3 +41,6 @@ ms.locfileid: "83825627"
 
 - **Microsoft Azure 中的 Web 应用程序的现代化**确保客户在应用程序开发中取得成功，并熟悉内容管理系统。 他们可以专业地展示如何在 Microsoft Azure 中迁移和部署生产 Web 应用程序工作负荷、应用 DevOps 实践，以及管理应用程序服务。
 
+ ## <a name="next-steps"></a>后续步骤
+
+ 了解[金牌和银牌成员资格的 Microsoft 资格要求](learn-about-competencies.md)
