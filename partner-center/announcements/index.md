@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: e242a42c87c0d2f6679380e17cbf18898d212e51
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254328"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749090"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-| **类别** | **2020 年 5 月公告** | **已公布** |
-|---------|---------|:---------|
+| **类别** | **2020 年 6 月公告** | **已公布** |
+|---------|:---------|:---------|
+| 功能 | [计费频率从每年更改为每月](2020-june.md#4) | 6 月 17 日 |
+| 功能 | [媒体上更新云解决方案提供商的 Windows Server 软件订阅](2020-june.md#2) | 6 月 12 日 |
+| 产品/市场 | [新的和以停用的 Microsoft Dynamics 365 和 Power Platform 产品及服务](2020-june.md#1) | 6 月 11 日 |
+| 功能 | [在合作伙伴中心合并两个或多个公司帐户](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
+| **类别** | **2020 年 5 月公告** | **日期** |
 | 功能 | [教育版的“Microsoft 365 A3 – 无人参与的许可证”产品/服务更正](2020-may.md#5) | 5 月 28 日 |
 | 功能 | [活跃客户可通过云解决方案提供商 (CSP) 计划续订其增强计划 (EP) 并接收联机许可证](2020-may.md#4) | 5 月 26 日 |
 | 功能 | [美洲运营中心地址变更](2020-may.md#3) | 5 月 15 日 |
