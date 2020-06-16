@@ -1,7 +1,7 @@
 ---
-title: 向多个用户分配或撤消许可证 | 合作伙伴中心
+title: 向多个用户分配或撤销许可证
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用客户帐户同时向一个用户或多个用户分配或吊销许可证和服务。
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 分配许可证，吊销许可证，分配给多个用户，
 ms.localizationpriority: medium
-ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679094"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788685"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>向多个用户分配或撤销许可证
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>在客户帐户中同时为多个用户分配或吊销许可证
 
 **适用于**
 
@@ -74,7 +75,7 @@ ms.locfileid: "84679094"
 7. 通过选中每个产品的复选框，为用户选择多个产品。
     -   选择 "查看任何产品的**服务计划**"，查看并选择用户所需的服务计划。
 
-8. 选择“保存”。 合作伙伴中心会打开一个**许可证更新**的确认页，其中列出了用户及其新的许可证。
+8. 选择“保存” 。 合作伙伴中心会打开一个**许可证更新**的确认页，其中列出了用户及其新的许可证。
 
 >[!NOTE]
 >某些 Microsoft 产品可能在某些位置不可用。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
@@ -97,7 +98,7 @@ ms.locfileid: "84679094"
 
 6. 在 "**分配和吊销许可证**" 下，清除分配给用户的产品对应的复选框。 例如，如果所有选定用户都拥有 Office 365 企业版许可证而你希望撤消这些许可证，请选中复选框以清除它。
 
-7. 选择“保存”。
+7. 选择“保存” 。
 
 ## <a name="next-steps"></a>后续步骤
 

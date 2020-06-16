@@ -1,20 +1,21 @@
 ---
-title: 合作伙伴中心的软件保障培训凭证 (SATV) 计划 | 合作伙伴中心
+title: 软件保障培训凭证计划
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在软件保障培训计划中注册的详细信息，以便你可以获得向企业客户提供培训和规划的补偿。
+description: 了解如何注册软件保障培训凭证计划，以便你可以获得向企业客户提供培训和规划的补偿。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 培训凭证, 软件保障, 培训, 注册 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d961d7cd4a1a26d07991fea6080a4d5c1d1d28
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296412"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788791"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心的软件保障培训凭证 (SATV) 计划
 
@@ -39,13 +40,13 @@ ms.locfileid: "80296412"
 
 ## <a name="confirm-program-eligibility"></a>确认计划资格
 
-在注册 SATV 计划之前，必须先履行 Microsoft 合作伙伴网络学习选项的要求，后者替代 Microsoft Learning 能力。 了解如何开始[学习选项](https://partner.microsoft.com/membership/learning-partners)。
+在注册 SATV 计划之前，必须先完成“Microsoft 合作伙伴网络 Learning”选项的要求，此选项取代了 Microsoft Learning 资质。 了解如何开始[学习选择。](https://partner.microsoft.com/membership/learning-partners)
 
-你可以在合作伙伴中心验证你的公司是否享有适用的资格和评估要求。 按照 SATV 工作流的[步骤 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的说明，了解更多详细信息和屏幕截图。
+你可以在合作伙伴中心验证你的公司是否享有适用的资格和评估要求。 有关更多详细信息和屏幕截图，请按照 SATV 工作流[步骤 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明操作。
 
 ## <a name="enroll-in-the-training-program"></a>注册培训计划
 
-在你的公司满足资格要求并且你的计划参与者已通过了符合性培训课程后，你就可以签署软件保障培训凭证计划协议并进行注册。 确保查看所有[SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流[步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的说明完成合作伙伴中心的 SATV 注册过程。
+在公司满足资格要求并且计划参与者已通过符合性培训课程后，你就可以签署软件保障培训凭证计划协议并进行注册。 确保查看所有[SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流[步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的说明完成合作伙伴中心的 SATV 注册过程。
 
 
 ## <a name="confirm-course-eligibility"></a>确认课程资格
@@ -53,7 +54,7 @@ ms.locfileid: "80296412"
 
 ## <a name="have-customer-create-and-assign-voucher"></a>让客户创建并分配凭证
 
-在进行培训之前，你的客户必须先激活其 SATV 权益，然后将其分配给你的组织。 有关屏幕截图的详细说明，其中显示了客户必须采取哪些步骤才能创建凭据并将其分配给你，请参阅工作流的[步骤 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+在进行培训之前，你的客户必须先激活其 SATV 权益，然后将其分配给你的组织。 若要详细了解如何使用屏幕截图来创建凭据并将其分配给你，请参阅工作流的[步骤 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>验证并保留客户凭证
 

@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453254"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788771"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
@@ -29,7 +29,7 @@ ms.locfileid: "84453254"
 
 ## <a name="before-you-install---pre-requisites"></a>安装之前-必备组件
 
-|**本节**   |**详细信息**   |**链接**   |
+|**主题**   |**详细信息**   |**链接**   |
 |--------------|--------------------|------|
 |Microsoft 合作伙伴网络 ID |需要一个有效的 MPN ID|加入[MPN](https://partner.microsoft.com/)|
 |合作销售就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -227,18 +227,18 @@ Salesforce CRM 管理员用户需要创建一个单独的 CRM 部分。
 
 3. 从左侧导航栏中选择**字段 & 关系**
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="字段":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
 
 4. 将以下字段添加 **& 关系**表中：
 
    |**字段标签**   |**字段名称**|**Data type**|**作**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |审核|  Audit__c|长文本区域（100000）（显示第4行）||
-   |Microsoft 如何帮助？|H ow_can_Microsoft_help__c|列表|
-   |Products|Products-c|文本（255）||
-   |引荐 |  Referral_Identi fier__c|文本（100）（外部 ID）|是|
-   |引用链接|   Referral_Link__c_|URL （255）||
-   |与合作伙伴中部 t 同步|与合作伙伴同步-中心-c|Checkbox （默认未选中）||
+   |审核| Audit__c|长文本区域（100000）（显示第4行）||
+   |Microsoft 如何帮助？|How_can_Microsoft_help_c|列表|
+   |产品|Products_c|文本（255）||
+   |引荐 | Referral_Identfier_c|文本（100）（外部 ID）|是|
+   |引用链接| Referral_Link_c_|URL （255）||
+   |与合作伙伴中心同步|sync_with_partner_center_c|Checkbox （默认未选中）||
 
    * 选择列表值：
 

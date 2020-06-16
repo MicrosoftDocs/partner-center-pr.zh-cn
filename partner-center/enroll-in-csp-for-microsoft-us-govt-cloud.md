@@ -1,19 +1,21 @@
 ---
-title: 注册美国政府 Microsoft 云的云解决方案提供商计划 | 美国政府 Microsoft 云合作伙伴中心
+title: 注册到云解决方案提供商计划
 ms.topic: article
-ms.date: 11/27/2019
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在注册美国政府 Microsoft 云的云解决方案提供商计划前，请了解有关云解决方案提供商计划要求的详细信息。
+description: 了解需要为美国政府注册云解决方案提供商 Microsoft 云计划的合作伙伴的 CSP 计划要求。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798365"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788781"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -79,9 +81,9 @@ ms.locfileid: "82798365"
 
 2.  将管理员代理角色分配给你组织中的适当用户。 若要执行此操作，你需要将这些用户添加到内置 **AdminAgent** 组。 请参阅[管理 Azure Active Directory 中的一组成员](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)，了解有关如何执行此操作的信息。
  
-## <a name="connect-with-us"></a>联系我们
+## <a name="connect-with-us"></a>与我们联系
 
-- 有疑问？ 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
+- 是否有任何问题? 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 上加入我们 
 

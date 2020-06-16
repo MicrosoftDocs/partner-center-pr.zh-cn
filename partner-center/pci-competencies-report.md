@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679354"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776284"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取的胜任度报表
 
@@ -43,14 +43,14 @@ ms.locfileid: "84679354"
 
 你可以从称职报表中查看以下部分：
 
-- 总结
+- 摘要
 - 胜任度指标分析
 - 资格历史记录
 
  > [!NOTE]
  > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
 
-**Summmary**
+**摘要**
 
 "摘要" 视图在能力生命周期的所有阶段中显示每个能力级别（金色/白银）的能力计数。 能力生命周期的阶段包括：**已启动**、**合格**、**活动**和有**风险**。 示例：云能力要求分为两类：技能和性能。
 
