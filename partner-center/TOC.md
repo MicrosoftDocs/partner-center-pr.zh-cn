@@ -201,6 +201,7 @@
 ### [见解 - 能力报表](pci-competencies-report.md)
 ### [见解 - 权益报表](pci-benefits-report.md)
 ### [见解 - 已知问题](pci-known-issues.md)
+### [见解 - 下载报表](pci-download-reports.md)
 ## [合作伙伴贡献指示器](partner-contribution-indicators.md)
 ## [获取客户的 Azure 订阅使用情况数据](analyze-azure-usage.md)
 ## [分析间接经销商业绩](analyze-indirect-resellers.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749090"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788721"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -23,6 +23,7 @@ ms.locfileid: "84749090"
 | **类别** | **2020 年 6 月公告** | **已公布** |
 |---------|:---------|:---------|
 | 功能 | [计费频率从每年更改为每月](2020-june.md#4) | 6 月 17 日 |
+| 产品/市场 | [对 Microsoft 365 F1 的更改](2020-june.md#3) | 6 月 15 日 |
 | 功能 | [媒体上更新云解决方案提供商的 Windows Server 软件订阅](2020-june.md#2) | 6 月 12 日 |
 | 产品/市场 | [新的和以停用的 Microsoft Dynamics 365 和 Power Platform 产品及服务](2020-june.md#1) | 6 月 11 日 |
 | 功能 | [在合作伙伴中心合并两个或多个公司帐户](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
