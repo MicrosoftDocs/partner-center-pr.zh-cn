@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788801"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811577"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
@@ -57,7 +57,7 @@ ms.locfileid: "84788801"
 | SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 （这是与**OfferName**相同的字段）。 |
 | SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 不用于对帐。 *此标识符不同于合作伙伴管理控制台上的**订阅 ID** 。* |
 | ChargeStartDate | 计费周期的开始日期（在显示以前的计费周期内先前 uncharged 的潜在使用情况数据的日期时除外）。 该时间始终为一天的起点时间，即 0:00。 |
-| ChargeEndDate | 计费周期的结束日期（在显示以前的 biling 循环中先前 uncharged 的潜在使用情况数据的日期时除外）。 时间始终是一天的结束，即 23:59。 |
+| ChargeEndDate | 计费周期的结束日期（在显示以前的计费周期内先前 uncharged 的潜在使用情况数据的日期时除外）。 时间始终是一天的结束，即 23:59。 |
 | UsageDate | 服务使用日期。 |
 | MeterType | 计量器的类型。 |
 | MeterCategory | 用量对应的顶级服务。 |
@@ -68,7 +68,7 @@ ms.locfileid: "84788801"
 | 计价单位 | 资源**名称**的单位。 |
 | ResourceLocation | 计量器正在其中运行的数据中心。 |
 | ConsumedService | 使用的 Azure 平台服务。 |
-| resourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
+| ResourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
 | ResourceURI | 所使用资源的 URI。 |
 | ChargeType | 费用或调整的类型。  |
 | UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
@@ -88,3 +88,8 @@ ms.locfileid: "84788801"
 | EntitlementId | 表示 Azure 订阅 ID。 |
 | EntitlementDescription | 表示 Azure 订阅 ID 的名称。 |
 | PartnerEarnedCreditPercentage | 显示行项目的 PartnerEarnedCredit。 挣贷款将为0或15% |
+
+>[!NOTE]
+>每日评级使用情况通常需要24小时才会显示在合作伙伴中心或通过 API 访问。
+
+
