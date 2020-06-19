@@ -3,17 +3,16 @@ title: 对帐文件费用类型
 ms.topic: article
 ms.date: 06/05/2020
 description: 了解合作伙伴中心对帐文件中的费用类型（例如，基于许可证、基于使用情况和一次性）、信用额度和折扣。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a5c227748ba24001288ecbec0a5487d38033897
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 1ec4f4a483ecfd106f7ec41b85372e136524a046
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467507"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909105"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>了解合作伙伴中心对帐文件中的不同费用类型
 
@@ -65,7 +64,7 @@ ms.locfileid: "84467507"
 
 | 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
-| “新建” | 创建新购买时使用。 |
+| 新建 | 创建新购买时使用。 |
 | addQuantity | 用于原始购买的退款和增加后的新数量。 |
 | removeQuantity | 用于原始购买的退款和减少后的新数量。 |
 | 取消 | 取消订阅时使用。 |

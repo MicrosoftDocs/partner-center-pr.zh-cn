@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心见解-客户报表
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解提高业务的方式。 按地域、产品和其他属性查看特定客户趋势。
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 25659c32486629c8b19696c486bb89be54b9ad15
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452994"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909065"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>合作伙伴中心见解中的客户仪表板报表
 
@@ -24,7 +24,7 @@ ms.locfileid: "84452994"
  
 客户仪表板包含以下部分： 
 
-- 总结  
+- 摘要  
 - 客户的地理分布 
 - 客户添加/改动趋势 
 - 按合作伙伴地点、客户群、销售渠道、合作伙伴归属类型分类的客户分销 
@@ -42,16 +42,16 @@ ms.locfileid: "84452994"
 - 在所选日期范围内拒绝客户的百分比 
 - 微图按月显示客户在所选日期范围内计数的趋势
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="按产品的客户":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text=""客户摘要" 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
 
 **活动客户**：
 
-- 具有任何活动产品使用情况的客户的当前计数，例如任何云产品上的可用使用率。 
+- 具有任何活动产品使用情况的客户的当前计数，例如任何云产品上的可用使用率。
 - 在所选时间段内增长或拒绝活动客户百分比-微图显示在所选日期范围内活动客户数的月趋势。
 添加的客户：
 - 在选定时间段内添加的所有客户的计数。
-- 在选定的状态范围内添加的客户的增长或拒绝百分比 
-- 微图显示在所选日期范围内添加的客户的月趋势 
+- 在选定的状态范围内添加的客户的增长或拒绝百分比。
+- 微图显示了在所选日期范围内添加的客户的月趋势。
 
 **客户改动**：
 - 所选时间段内每个月改动的所有客户的计数。 如果客户不具有具有活动状态的单一订阅，则会被视为丢失。 
@@ -65,13 +65,13 @@ ms.locfileid: "84452994"
 
 在所选日期范围内，当前客户、当前活动客户和客户的计数是使用客户所在国家/地区进行地理映射的。 指标下显示的百分比表示该指标的该国家/地区的总贡献百分比。 您可以将鼠标悬停在地图上，以查看该国家/地区的活动、新客户总数。 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 通过选择地图上的 "**主页**" 按钮，还原到原始视图。 可对网格中的所有列进行排序。  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="按地理位置划分的客户":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="按地域列出的合作伙伴中心见解客户报表的屏幕截图显示世界地图和按区域列出的总计、添加和新客户的列表。":::
 
 **客户添加和 churns**
 
 细分为所选日期范围的新的、现有的和改动的客户趋势。 X 轴表示所选日期范围内的月份，Y 轴表示客户计数。 改动客户在 Y 轴的负比例上表示。 堆积柱形图显示了当月的新客户、现有客户和改动客户细分情况。 您可以通过在图例中选择特定的堆栈项来重新生成柱形图。 您可以在图表顶部利用滑块来放大到特定时间段。 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="客户丢失":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="使用条形图的合作伙伴中心见解客户报表的屏幕截图显示了在特定时间段内添加、丢失或改动的客户数。":::
 
 **客户分发**
 
@@ -81,19 +81,19 @@ ms.locfileid: "84452994"
 
 按产品和 Sku/计划对当前客户计数的细分。 选择 product 细分情况饼图中的产品，查看其旁边的图表中的 "Sku/计划" 细分情况。
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="按产品的客户":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="按产品列出的客户的屏幕截图显示两个放射图-一个按产品分类，另一个与客户按 SKU 细分。":::
 
 **客户分布趋势** 
 
 在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。 单击图表中的相应选项卡，按这些类别查看趋势。 X 轴表示所选日期范围的月份，Y 轴包含所选类别（选项卡选择）的客户计数。 您可以将鼠标悬停在图表列上以查看每个堆栈的细分情况值。 您可以在图表顶部利用滑块来放大到特定时间段。   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="客户分发":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text=""客户分发趋势" 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
 
 **活动客户**
 
 每月趋势图表比较了所选日期范围内的活动客户和客户总数。 列表示每个月的活动客户计数，行代表每个月的客户总数。 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="活动客户":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="合作伙伴中心见解活动客户报表显示一段时间内活动客户的条形图的屏幕截图。":::
 
 ## <a name="next-steps"></a>后续步骤
 

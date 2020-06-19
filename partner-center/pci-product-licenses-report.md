@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请查看此产品许可证报表，并了解如何改进你为客户销售或管理的授权云产品。
-ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，云订阅，分析，报告
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8da7e89ad498a81572d044bbb4526b6188c3bfbc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: b9fe76602d9a258f8e8766d29ebc3c4fb75bb1f8
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679324"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908615"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 
@@ -28,7 +27,7 @@ ms.locfileid: "84679324"
 
 产品许可证报表提供基于座位的云产品的许可证分析，如 O365、Dynamics、M365、Power BI 等。此处提供的分析与你为客户销售的或为你的客户管理的许可证的使用情况关联。 你可以从 "产品许可证" 报表查看以下部分。
 
-- 总结
+- 摘要
 - 许可证的地理分布
 - 许可证添加
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的许可证分发

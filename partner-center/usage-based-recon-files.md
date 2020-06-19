@@ -3,17 +3,16 @@ title: 基于使用情况的对帐文件
 ms.topic: article
 ms.date: 06/08/2020
 description: 了解合作伙伴中心的基于使用情况的对帐文件上的所有项目。 包含几个示例。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749209"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909115"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>了解基于使用情况的对帐文件及其在合作伙伴中心的特定字段
 
@@ -70,5 +69,5 @@ ms.locfileid: "84749209"
 | MeteredRegion | 标识区域中数据中心的位置（适用于此值适用和填充的服务）。 | *东亚*、*南东亚*、*北欧*、*西欧*、*美国中北部*、*美国中南部* |
 | MeteredService | 标识每个 Azure 服务使用情况（如果未在**ServiceName**列中明确标识）。 例如，数据传输将报告为 Microsoft Azure- **ServiceName**列中的*所有服务*。 | *Accesscontrol-namespace*， *CDN*，*计算*，*数据库*， *ServiceBus*，*存储* |
 | MeteredServiceType | **MeteredService**字段的副标题，提供 Azure 服务使用情况的其他说明。 | *路* |
-| 项目 | 客户为其服务实例定义的名称。 | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Project | 客户为其服务实例定义的名称。 | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | 在给定日期预配和使用的 Azure 服务总线连接的数量。 | *1.000000 连接/30 天*（如果在30天的时间内有单独预配的连接）、 *25 个连接/30 天–使用： 1.000000* （如果已预配25个 Service Bus 连接，并且在那一天使用了1个） |

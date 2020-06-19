@@ -3,17 +3,16 @@ title: 一次性和定期对帐文件
 ms.topic: article
 ms.date: 05/26/2020
 description: 了解合作伙伴中心一次性和定期对帐文件中每个字段或列的含义。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84bed4fac8984b3fc8757b8185da514c5d8212d6
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: a39962fb046b50497432e7e4fdabd020668702fe
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749200"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908665"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>合作伙伴中心的一次性和定期对帐文件
 

@@ -3,17 +3,16 @@ title: 基于许可证的对帐文件
 ms.topic: article
 ms.date: 05/18/2020
 description: 了解如何在合作伙伴中心读取基于许可证的对帐文件。 本文介绍了基于许可证的侦测文件中每个字段的含义。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86b3a099f6fe3948b9cb1ca707d43f776f66ca16
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795772"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909045"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>了解合作伙伴中心基于许可证的对帐文件中的字段
 

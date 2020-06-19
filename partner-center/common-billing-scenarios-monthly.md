@@ -3,18 +3,17 @@ title: 常见月度计费方案
 ms.topic: article
 ms.date: 05/13/2020
 description: 使用月度计费时合作伙伴中心的常见方案包括添加新订阅、更改许可证数量和暂停订阅。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 计费、付款、订单、使用情况、每月计费、订阅和对帐文件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9da060e1c8b0a9d2f0a5de0987ccb4ea1e167b7c
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795626"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908875"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>新订阅的每月计费方案、更改许可证金额或挂起的示例
 

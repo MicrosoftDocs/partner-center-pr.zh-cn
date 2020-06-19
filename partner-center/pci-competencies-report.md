@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请查看您的工作情况，并了解 Microsoft 的胜任度，以及可帮助您提供 Microsoft 解决方案的服务。
-ms.assetid: ''
 keywords: PCI，性能，量化，客户成功，能力，优点，分析，报告
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: e836a9d5c51796edf76844342fb9bc68fcfacd69
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776284"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909075"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取的胜任度报表
 

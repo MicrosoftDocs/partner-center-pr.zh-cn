@@ -5,17 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何计算 Azure 计划的合作伙伴获得信用（PEC）方面的情况。 这包括合作伙伴和间接提供商的资格要求。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 437d1bbd6a5ef3a18d149df2b533fdd2d0ed735d
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788731"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908895"
 ---
 # <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>如何为云解决方案提供商计划中的合作伙伴计算合作伙伴获得的信用额度（PEC）
 
