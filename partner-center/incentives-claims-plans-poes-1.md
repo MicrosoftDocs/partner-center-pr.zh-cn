@@ -5,16 +5,15 @@ ms.date: 06/12/2020
 description: 了解合作声明过程，包括截止时间、支付时间和执行证明（PoE）。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a0037e1acb7c21905b94d670bbbf8563d99e9a91
-ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
+ms.openlocfilehash: 9ca387b5f204345d74091de9dc92305b22ef824f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "84811701"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992118"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>合作声明、计划和 PoEs
 

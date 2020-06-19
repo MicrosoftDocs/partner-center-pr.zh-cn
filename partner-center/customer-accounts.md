@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 在合作伙伴中心查找适用于经销商合作伙伴的资源。 这包括在销售订阅、帐单或产品/服务支持之前创建客户帐户。
-ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 217685e3bf3941825470abddce7f5f84634f7ade
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e90661d2a6a0f1f3f25d6dfbf0ae3f0019815dfb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907944"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991402"
 ---
 # <a name="customer-account-setup-and-management-for-reseller-partners-in-partner-center"></a>合作伙伴中心的销售商合作伙伴的客户帐户设置和管理
 

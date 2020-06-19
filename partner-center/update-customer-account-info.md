@@ -5,17 +5,16 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心，了解如何更新客户的计费信息，或者如何更新公司的详细信息。
-ms.assetid: 7ECE7165-0B0D-4183-845F-9F7B62056207
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f1ad9fbefd5c89568dad02d79dd27ccae2b63472
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: efb862be225ca98cb9ec07eca4cc01e1839d70da
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603896"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991784"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>更新合作伙伴中心的客户帐户信息、公司详细信息和客户帐单信息
 

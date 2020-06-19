@@ -4,19 +4,18 @@ description: 浏览此合作伙伴中心统一报表仪表板。 了解如何在
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI，性能，客户成功，量化指标，报告数据
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: ecd244507b0a2ec1373bcb7954b4d5eb2d72c819
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679294"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991924"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
@@ -26,7 +25,7 @@ ms.locfileid: "84679294"
 - 主管人员报表查看器
 - 报表查看器
 
-## <a name="introduction"></a>介绍
+## <a name="introduction"></a>简介
 
 Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计划中注册的 Microsoft 商业合作伙伴提供的统一报表仪表板。 Insights 仪表板提供跨云产品（如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）的关键绩效指标（KPI）的360度视图。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
 

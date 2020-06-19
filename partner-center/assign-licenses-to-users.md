@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
-ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 3fb55e341692e38250c4e751cf73f3120604c15a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795037"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991035"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作伙伴中心的客户帐户的用户管理任务
 
@@ -48,7 +47,7 @@ ms.locfileid: "83795037"
 
 3. 在客户菜单中，选择“用户和许可证”****。
 
-4. 对于每个用户，请选择**添加订阅**，然后填写信息，包括权限和许可证。 单击“保存”以保存更改  。
+4. 对于每个用户，请选择**添加订阅**，然后填写信息，包括权限和许可证。 单击“保存”以保存更改。
 
 5. 请确保记录用户名和临时密码以发送给用户。
 

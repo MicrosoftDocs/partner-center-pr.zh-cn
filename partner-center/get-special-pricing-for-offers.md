@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解 Microsoft 对某些客户组（包括教育客户、非利润客户和政府用户）的特殊定价的定价。
-ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2e8b03925b29901ed68482242e6340ebd0155c76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467167"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991236"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>出售给专业行业，如教育、非盈利和政府用户
 
@@ -35,8 +34,8 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 |**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育水平   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|Government   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|教育   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府机关   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
 |非营利组织  |无<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解有关[非赢利特别优惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
@@ -75,7 +74,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 |:----------------------------|:---------------------------------|:------------------------------------------|
 | 商用 |商用 | 非利润、教育或政府社区云 |
 | 非利润 |商业、非利润 | 教育或政府社区云 |
-| 教育水平 |商业、教育 | 非盈利或政府社区云 |
+| 教育 |商业、教育 | 非盈利或政府社区云 |
 | 政府社区云 |政府社区云 | 非利润、教育或商业 |
 
 ## <a name="next-steps"></a>后续步骤

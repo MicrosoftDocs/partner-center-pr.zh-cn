@@ -5,18 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
 author: LauraBrenner
 ms.author: labrenne
 keywords: 教育、特殊段
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453294"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992175"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户
 

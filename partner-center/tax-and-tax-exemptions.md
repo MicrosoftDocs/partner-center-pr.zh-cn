@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: 对于 CSP 计划合作伙伴，了解每个地区的税收责任，如何提交 CSP 销售的免税，以及如何获取对税务问题的支持。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: LauraBrenner
 keywords: 税金，免税，vat，分销商，计费
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458293"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991795"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>在 CSP 计划中，按地区或国家/地区为你的国家/地区或国家/地区
 

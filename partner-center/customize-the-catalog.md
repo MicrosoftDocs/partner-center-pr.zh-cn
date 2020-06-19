@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何自定义 Microsoft 目录，以便更轻松地访问你的组织使用的合作伙伴产品或产品。
-ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa45de1d965f11beef993db3e1583c4cbc2ebae8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 293c7458f11f309609443a845c9d80de7512438c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907885"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991270"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>为你的组织提供最适合的产品/服务或产品自定义 Microsoft 目录
 
@@ -34,5 +33,5 @@ ms.locfileid: "82907885"
 
 **自定义目录**
 
-1.  请参阅合作伙伴中心菜单&gt; **销售** &gt; **目录**。
+1.  请参阅合作伙伴中心菜单 &gt; **销售** &gt; **目录**。
 2.  选择最多五个要在目录顶部显示的产品/服务。

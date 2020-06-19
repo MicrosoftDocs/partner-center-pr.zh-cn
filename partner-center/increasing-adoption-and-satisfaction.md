@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心使用度量值。 指标可显示企业是否在成长、客户如何使用其许可证，以及在何处集中投资。
-ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aef7142b94d446d149a4cb5930c422197347a0f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794875"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992115"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作伙伴中心的度量值提高采用和满意度
 
@@ -60,7 +59,7 @@ ms.locfileid: "83794875"
 
 - **使用率** = 活跃权利/权利总数
 
-   有时使用率会夸大或大于 100%。 这可能有以下几个原因：
+   有时使用率会夸大或大于 100%。 这可能是多种原因引起的：
 
    - 如果客户发生员工流动，并且许可证已转移到新用户。
 

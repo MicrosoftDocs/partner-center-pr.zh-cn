@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679304"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072419"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -29,7 +29,7 @@ ms.locfileid: "84679304"
 -   销售代理
 -   管理员代理
 
-## <a name="before-you-begin"></a>在开始之前
+## <a name="before-you-begin"></a>开始之前
 
 从以下可用 Power BI 应用列表中选择与你的业务最相关的应用程序：
 - [直接提供程序](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
@@ -62,7 +62,7 @@ ms.locfileid: "84679304"
 
 5. 在下一页上，输入你的 Power BI 用户名和密码，然后选择登录。
 
-6. 通过提供 workspacename 来安装工作区。
+6. 通过提供工作区名称安装工作区。
 
 7. 可以在 "应用" 部分中找到安装的模板应用。
 

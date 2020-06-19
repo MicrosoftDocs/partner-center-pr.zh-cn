@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何一次将多个用户添加到客户的帐户。 使用逗号分隔值（.csv）文件格式将数据文件上传到合作伙伴中心。
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794905"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991076"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>向客户帐户添加多个用户-将数据文件上传到合作伙伴中心
 
@@ -67,12 +66,12 @@ ms.locfileid: "83794905"
 
 6. 在文件选择器中，选择数据文件，然后选择 "**打开**"。
 
-7. 选择“验证”。 
+7. 选择“验证”。
 
     **注意**   大多数帐户创建错误都是由数据文件问题引起的，其中包括缺少的信息、格式不正确或重复的电子邮件地址，或者文件中的记录过多。
 
 8. 合作伙伴中心验证该文件后，选择新用户的地理**位置**。
-9. 选择“保存” 。
+9. 选择“保存”。
 10. 下载用户的临时密码信息。
 
 **重要提示：** 确保现在就下载具有临时密码的文件，在后续步骤中将无法下载。 新用户必须使用新帐户的临时密码登录新帐户。

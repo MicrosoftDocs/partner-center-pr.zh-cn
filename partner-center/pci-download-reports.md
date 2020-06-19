@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 合作伙伴中心见解，报表，下载报表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793173"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072450"
 ---
 # <a name="download-reports"></a>下载报表
 
@@ -37,7 +37,8 @@ ms.locfileid: "84793173"
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="生成的报表":::
 
->纪录只有那些作为 executive 报表查看者的用户可以下载报表。 有关基于角色的对 Insights 仪表板报表的访问的详细信息，请参阅[PCI 角色](pci-roles.md)。 
+>[!NOTE] 
+>只有那些作为 executive 报表查看者的用户可以下载报表。 有关基于角色的对 Insights 仪表板报表的访问的详细信息，请参阅[PCI 角色](pci-roles.md)。 
 
 ## <a name="available-reports"></a>可用报表
 

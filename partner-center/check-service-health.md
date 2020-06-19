@@ -5,18 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解在遇到服务问题时，如何使用合作伙伴中心来检查客户的服务运行状况。
-ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 运行状况，服务运行状况，服务问题
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54817a1288e4a4aebf75527907f0265e384ae839
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 345f85454b21eb339179f9f8bdf7bea376ce48ed
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458373"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991639"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>检查服务运行状况，以了解客户报告潜在服务问题或服务中断的情况
 
