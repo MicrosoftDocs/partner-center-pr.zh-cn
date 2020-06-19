@@ -24,6 +24,7 @@
 ## 优势
 ### [权益概述](manage-your-partner-network-benefits.md)
 ### [市场推广权益](mpn-learn-about-go-to-market-benefits.md)
+### [关于权益的常见问题解答](benefits-faq.md)
 ## [市场奖励](marketplace-rewards.md)
 ## [软件保障计划](software-assurance-lp.md)
 ### [合作伙伴中心中的软件保障培训凭证 (SATV) 计划](software-assurance-satv.md)
@@ -198,6 +199,7 @@
 ### [见解 - 产品订阅仪表板](pci-product-subscriptions-report.md)
 ### [见解 - 产品许可证仪表板](pci-product-licenses-report.md)
 ### [见解 - Azure 使用情况仪表板](pci-azure-usage-report.md)
+### [见解 - 培训仪表板](pci-training-dashboard.md)
 ### [见解 - 能力报表](pci-competencies-report.md)
 ### [见解 - 权益报表](pci-benefits-report.md)
 ### [见解 - 已知问题](pci-known-issues.md)
