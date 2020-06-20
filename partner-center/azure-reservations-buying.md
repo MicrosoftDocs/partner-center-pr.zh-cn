@@ -1,7 +1,7 @@
 ---
 title: 为客户购买 Microsoft Azure 预订
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 预订, 管理, 计费, 购买
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603716"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104109"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
 
@@ -33,7 +33,7 @@ ms.locfileid: "84603716"
 - 销售代理
 - “用户管理”管理员
 
-## <a name="before-you-begin"></a>在开始之前
+## <a name="before-you-begin"></a>开始之前
 
 请先查看下面的重要信息，再代表客户购买 Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。）
 
@@ -55,10 +55,12 @@ ms.locfileid: "84603716"
 
 ## <a name="azure-reservations-unavailable-markets"></a>不可使用 Azure 预留的市场
 
->[!IMPORTANT] 
->Azure 预留在以下市场中不可用：   
+> [!IMPORTANT]
+> Azure 预留在以下市场中不可用：   
 >  
-> | 不可用市场 | &nbsp; | &nbsp; |
+> **不可用市场（按字母顺序）**
+>
+> |A 到 Gi   | Gr 到 Pal  | Pap 到 Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 奥兰岛     | 格陵兰     | 巴布亚新几内亚     |
 > | 美属萨摩亚     | 格林纳达     | 皮特凯恩群岛     |
@@ -106,13 +108,13 @@ ms.locfileid: "84603716"
 
 2. 在 "**客户**" 页上，找到想要购买 Azure 预订的客户，然后选择向下箭头以展开客户的行。  
 
-3. 依次选择“添加产品”、“Azure”。   
+3. 依次选择“添加产品”、“Azure”。  
 
-    a. 从“细分市场”列表中选择该客户的细分市场。 
+    a. 从“细分市场”列表中选择该客户的细分市场。
 
     b. 从 "产品**类型**" 列表中选择 "**保留**"。
 
-    c. 从“预留项类型”列表中选择客户所需的预留项类型。 
+    c. 从“预留项类型”列表中选择客户所需的预留项类型。
 
 4. Azure 预订必须与有效的 Azure 订阅相关联。 从 "**客户订阅**" 列表中选择要向其添加 Azure 预订的客户的订阅。 
 
@@ -123,7 +125,7 @@ ms.locfileid: "84603716"
 
 6. 找到要购买的预订后，输入客户将在 "**数量**" 中所需的保留实例数，然后选择 "**添加到购物车**"。  
 
-7. 重复步骤5和步骤6，直到将所有必需的项添加到订单中。 选择“查看”以确认订单是否正确无误。   
+7. 重复步骤5和步骤6，直到将所有必需的项添加到订单中。 选择“查看”以确认订单是否正确无误。  
 
 8. 在**查看订单**页面上，可以： 
 
@@ -142,7 +144,7 @@ ms.locfileid: "84603716"
     - 如果 Azure 保留项支持计费计划选项，则可以从下拉菜单中选择 "按月计费频率"。 
     - 如果你的 Azure 保留不支持计费计划选项，则计费频率默认为一次性计费。 
 
-9. 选择**确认购买**以购买订购的商品。 订单的详细信息（包括订单号）将显示在 "**确认**" 页上。 选择“完成”转到“订单历史记录”页。   
+9. 选择**确认购买**以购买订购的商品。 订单的详细信息（包括订单号）将显示在 "**确认**" 页上。 选择“完成”转到“订单历史记录”页。  
 
 10. 若要在 Azure 门户中管理客户的预订，请在 "**客户**" 页上找到 "客户"，然后选择向下箭头以展开客户的行。 选择 " **Microsoft Azure 管理门户**" 以打开 Azure 门户中的客户记录。
 

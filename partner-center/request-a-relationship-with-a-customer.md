@@ -1,19 +1,19 @@
 ---
 title: 请求与客户建立关系
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 为多合作伙伴、多通道方案请求与客户的关系，或者如果对客户的委派管理员权限需要还原，则为。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992016"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104093"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求分销商关系
 
@@ -56,7 +56,7 @@ ms.locfileid: "84992016"
 
 接受来自云解决方案提供商合作伙伴的分销商关系邀请的客户体验由不同的面向客户的门户托管。 门户位置取决于客户是在 Microsoft 公有云还是国家云中：
 
-|  | 客户接受分销商关系邀请的位置 |
+|云客户的类型  | 客户接受分销商关系邀请的位置 |
 |---------|---------
 | 公有云中的客户 | Microsoft 365 管理中心 |
 | Microsoft 云德国合作伙伴中心的客户 | Microsoft Office 管理门户 |

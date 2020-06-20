@@ -2,19 +2,19 @@
 title: 为客户提供多通道支持
 description: 在某些情况下，客户可能想要雇用你预配和支持他们在其他地方购买的订阅。
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7cc155505846a0ccf57e01eea7cf090e1e52238
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991934"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104106"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>多通道支持-使用其他合作伙伴支持在其他位置购买的客户订阅
 
@@ -35,8 +35,8 @@ ms.locfileid: "84991934"
 
 - 从第三方购买了订阅，该第三方不在云解决方案提供商计划中，也不是 Microsoft 联合合作伙伴。 客户无法在云解决方案提供商计划中将现有的基于许可证的订阅切换到另一个合作伙伴-他们必须等到其订阅期限结束时，或在移动之前取消。
 
-| | |
-|---------|---------|
+|支持这些服务  | 执行此操作： |
+|:---------|:---------|
 |基于许可证的服务    | 若要为多渠道帐户提供支持，你必须向客户请求管理其订阅的权限。 有关详细信息，请参阅[请求与客户的分销商关系](request-a-relationship-with-a-customer.md)。   |
 |基于使用情况的服务     |  对于已通过其他渠道（例如，顾问、公开或 EA）获取 Microsoft Azure 订阅的客户，你需要在合作伙伴中心创建一个新的 Azure 订阅、手动输入订阅详细信息，然后取消个别服务或整个订阅。 Azure CSP 与不同的通道可以共存。<br/><br/> 对于已通过其他合作伙伴获取 Microsoft Azure 订阅的客户，举例来说，你可以将 Azure 服务切换为其他合作伙伴。  有关详细信息，请参阅[将 Azure 订阅切换到不同的合作伙伴](switch-azure-subscriptions-to-a-different-partner.md)。 |
 
