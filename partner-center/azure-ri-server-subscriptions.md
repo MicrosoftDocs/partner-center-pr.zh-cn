@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure，订阅，VM，预订，保留实例
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908281"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198625"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>获取、设置、& 管理客户的 Azure 保留 VM 实例（RI） + 服务器订阅
 
 适用于：
@@ -133,7 +131,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 
 其他有用的培训包括[合作伙伴大学上的 Azure 许可模块](https://aka.ms/azure_partner_licensing)。
 
-### <a name="operations"></a>操作
+### <a name="operations"></a>Operations
 
 - [新式商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（已更新）：涵盖重要策略和操作方面的综合指南，其中包含协议、按合作伙伴中心、发票、价目表详细信息、奖励、协调文件、API/SDK、沙箱和 Azure 合作伙伴共享服务等。
 - [现代产品/服务国家/地区可用性和客户货币矩阵](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

@@ -1,7 +1,7 @@
 ---
 title: 利用 Microsoft 的引用发展业务
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何创建业务配置文件，通过合作伙伴中心的 "引用" 功能生成销售线索，然后对这些引用做出响应。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 引荐, 业务配置文件, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467437"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198615"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ ms.locfileid: "84467437"
  发布你的业务配置文件后，你将开始通过合作伙伴中心的引荐功能接收销售线索。 请务必在要求的时间范围内对引荐作出回应以继续接收这些线索，最重要的是达成交易。 有关如何在合作伙伴中心管理销售线索的详细信息，请参阅[响应引荐](responding-to-referrals.md)。  
 
 一开始请观看此短视频：[优化业务配置文件](https://player.vimeo.com/video/252788046)。  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->
