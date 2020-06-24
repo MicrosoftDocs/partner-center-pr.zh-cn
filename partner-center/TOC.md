@@ -190,8 +190,9 @@
 ### [将 Kaizala Pro 订阅迁移到 Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # 合作伙伴中心数据和分析
-## [获取并分析业务数据](data-analysis-lp.md)
-## [适用于 Microsoft Power BI 的合作伙伴分析应用](power-bi-app-for-direct-partners.md)
+## [获取用户数据和分析功能](data-analysis-lp.md)
+## [使用合作伙伴中心内面向 Microsoft Power BI 的分析应用](power-bi-app-for-direct-partners.md)
+## [使用合作伙伴中心内面向 Microsoft Power BI 的分析应用](power-bi-app-for-direct-partners.md)
 ## [合作伙伴中心见解](partner-center-insights.md)
 ### [见解 - 概览仪表板](pci-overview-report.md)
 ### [见解 - 对见解仪表板的基于角色的访问控制](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [概述](partner-security-requirements.md)
 ## [对合作伙伴租户强制执行 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [要求状态](partner-security-compliance.md)
+## [实施合作伙伴安全要求](implement-security-requirements.md)
 ## [常见问题解答](partner-security-requirements-faq.md)
 
-# 教程
-## [实施合作伙伴安全要求](tutorials/partner-security-requirements.yml)
