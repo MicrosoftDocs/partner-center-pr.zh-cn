@@ -5,18 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何升级或修改客户的订阅。 添加更多许可证、添加更多席位，或迁移到具有更多服务的不同版本。
-ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975118"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991091"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证、席位或更多服务
 

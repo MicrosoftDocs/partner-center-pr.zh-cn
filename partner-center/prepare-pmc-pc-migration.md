@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328308"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749168"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
@@ -91,7 +91,7 @@ Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形�
 
 **Microsoft 能否为我迁移我的 MPN 成员资格？**
 
-不能。 Microsoft 无法帮助你将成员资格帐户移到合作伙伴中心。 你需要使用你的工作帐户（登录凭据）登录 PMC 来迁移你的帐户，以便开始进行迁移。 完成迁移帐户的步骤后，可以开始管理你的成员资格并向你的团队分配用户角色和权限，使他们可以访问权益并帮助管理成员资格。 Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励的银行/税务信息，以及 MCP 关联，包括 Partner University 访问权限。
+不能。 Microsoft 无法帮助你将成员资格帐户移到合作伙伴中心。 你需要使用你的工作帐户（登录凭据）登录 PMC 来迁移你的帐户，以便开始进行迁移。 完成迁移帐户的步骤后，可以开始管理你的成员资格并向你的团队分配用户角色和权限，使他们可以访问权益并帮助管理成员资格。 
 
 Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励的银行/税务信息，以及 MCP 关联，包括 Partner University 访问权限。
 

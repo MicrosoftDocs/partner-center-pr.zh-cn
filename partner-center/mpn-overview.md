@@ -1,7 +1,7 @@
 ---
 title: Microsoft 合作伙伴网络成员资格权益
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 提供的合作伙伴资格权益，包括 Microsoft Action Pack、资格，以及用于将产品投放市场和销售解决方案的计划选项。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795953"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198605"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>与 Microsoft 合作 - 发现权益、如何帮助客户以及如何推动业务增长
 
@@ -32,8 +32,6 @@ ms.locfileid: "83795953"
 
 ## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作伙伴网络
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
-
 Microsoft 合作伙伴网络提供齐全的产品，并提供各种计划选项来突显客户的业务优势、将产品投放市场和销售解决方案。 免费加入，然后借助 Microsoft Action Pack、初学者工具包来决定如何为合作投资，或展示资质。
 
 Action Pack 或初学者工具包提供软件和支持来构建基于 Microsoft 的解决方案，资质可向客户和其他合作伙伴展示你的公认的专长。
@@ -45,8 +43,6 @@ Action Pack 或初学者工具包提供软件和支持来构建基于 Microsoft 
 若要加入 Microsoft 合作伙伴网络，请在 MPN 网站上转到[“会员”页](https://partner.microsoft.com/membership)，然后选择“注册”或“立即加入”。  
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>选择适合自己的 Microsoft 合作伙伴网络会员资格
-
-<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
 若要实现目标，请参与适合你独特需求的计划级别，以获取更多权益，并与我们以及网络中的其他合作伙伴共同发展关系。
 

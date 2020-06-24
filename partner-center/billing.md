@@ -5,18 +5,17 @@ ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解合作伙伴中心的计费和税务主题。 信息涵盖计费资源、发票、云解决方案提供商计费和税款。
-ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: LauraBrenner
 ms.author: labrenne
 keywords: 计费, 付款, 订单, 取消, 订单管理, 拒不付款, 欺诈, 滥用, 税款, 免税, 对帐文件
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef1f162d181fd4fa3f7c806cabb781ff6010a6dc
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c29de1da1e3581e8aea02faa29ef1b804794b9c9
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908236"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84990972"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概述：合作伙伴中心的主要计费和税务文章
 
