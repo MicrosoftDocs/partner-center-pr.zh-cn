@@ -5,17 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 比较云解决方案提供商 (CSP) 计划中为合作伙伴提供的新 Microsoft 商务体验中的套餐之间的主要差异。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908175"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908735"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>比较云解决方案提供商计划中 Azure 产品/服务之间的差异
 

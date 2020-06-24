@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254034"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749127"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -191,7 +191,8 @@ _________________
 
 感谢你对你的合作伙伴和对确保生态系统以信任为基础运行所做的努力。
 
-注意：如果正在使用基线策略，且尚未转换到安全默认策略或[其他 MFA 实现选项](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，请尽快参考[此处的关键资源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)实现转换。
+>[!NOTE] 
+>如果正在使用基线策略，且尚未转换到安全默认策略或[其他 MFA 实现选项](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，请尽快参考[此处的关键资源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)实现转换。
 
 ### <a name="change-log"></a>更改日志
 
@@ -543,7 +544,7 @@ Dynamics Biz 应用和 Power Platform 产品/服务在 2020 年 4 月 1 日进�
 ### <a name="robotic-process-automation"></a>机器人流程自动化
 
 Microsoft 将于 2020 年 5 月 1 日将新的机器人流程自动化 (RPA) 产品/服务扩展到 Azure 教育计划。
-若要详细了解云解决方案提供商计划中授权教育合作伙伴计划的相关更改信息，请单击[此处](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)。 注意：这是指向合作伙伴中心现有集合的链接）。
+若要详细了解云解决方案提供商计划中授权教育合作伙伴计划的相关更改信息，请单击[此处](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)。 这是指向合作伙伴中心现有集合的链接）。
 
 请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的相关下载部分查看附加的 Dynamics 云解决方案提供商计划产品/服务更新 - 2020 年 5 月文件，了解新 SKU 相关信息。
 
