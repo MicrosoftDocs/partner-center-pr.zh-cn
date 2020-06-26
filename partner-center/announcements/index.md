@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/15/2020
-ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/24/2020
+ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
+ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788721"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "85346713"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "84788721"
 
 | **类别** | **2020 年 6 月公告** | **已公布** |
 |---------|:---------|:---------|
+| 功能 | [合作伙伴中心关系删除功能更新](2020-june.md#5) | 6 月 29 日 |
 | 功能 | [计费频率从每年更改为每月](2020-june.md#4) | 6 月 17 日 |
 | 产品/市场 | [对 Microsoft 365 F1 的更改](2020-june.md#3) | 6 月 15 日 |
 | 功能 | [媒体上更新云解决方案提供商的 Windows Server 软件订阅](2020-june.md#2) | 6 月 12 日 |
