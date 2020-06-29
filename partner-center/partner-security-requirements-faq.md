@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a0e318ccc7ea2ff3fa0d50fbc1514682ca9566a5
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 203afa3fd238222e902a06ac3c173876e185f025
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328268"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679265"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -208,11 +208,17 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>是否只需为合作伙伴中心 API/SDK 实现安全应用程序模型？
 
-对所有用户帐户强制实施多重身份验证会影响任何旨在以非交互方式运行的自动化或集成。 虽然根据合作伙伴安全要求，必须为合作伙伴中心 API 启用安全应用程序模型，但可以利用它来解决对自动化和集成进行双重身份验证的需求。 请注意，被访问的资源需要支持基于访问令牌的身份验证。
+对所有用户帐户强制实施多重身份验证会影响任何旨在以非交互方式运行的自动化或集成。 虽然根据合作伙伴安全要求，必须为合作伙伴中心 API 启用安全应用程序模型，但可以利用它来解决对自动化和集成进行双重身份验证的需求。 
+
+>[!Note] 
+>被访问的资源需要支持基于访问令牌的身份验证。
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>我使用 PowerShell 之类的自动化工具。 如何实现安全应用程序模型？
 
-如果你的自动化旨在以非交互方式运行并且依赖于用户凭据进行身份验证，则需实现安全应用程序模型。 请参阅[安全应用程序模型 | 合作伙伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)，获取有关如何实现此框架的指南。  请注意，并非所有自动化工具都提供使用访问令牌进行身份验证的功能。 如果不了解需要进行哪些更改，请在[合作伙伴中心安全指南](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)组中发布消息。 
+如果你的自动化旨在以非交互方式运行并且依赖于用户凭据进行身份验证，则需实现安全应用程序模型。 请参阅[安全应用程序模型 | 合作伙伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)，获取有关如何实现此框架的指南。  
+
+>[!Note] 
+>并非所有自动化工具都提供使用访问令牌进行身份验证的功能。 如果不了解需要进行哪些更改，请在[合作伙伴中心安全指南](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)组中发布消息。 
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>执行许可过程时，应用程序管理员应该提供哪些用户凭据？
 
@@ -238,7 +244,9 @@ CPV 必须与 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) 联系才能
 
 加入合作伙伴中心并注册应用程序以后即可访问合作伙伴中心 API。 如果你是新的 CPV，则将通过合作伙伴中心通知接收沙盒信息。 注册为 Microsoft CPV 并接受 CPV 协议以后，即可执行以下操作：
 
-1. 管理多租户应用程序（向 Azure 门户添加应用程序、在合作伙伴中心注册和取消注册应用程序）。 注意：CPV 必须在合作伙伴中心注册其应用程序，然后才会获得使用合作伙伴中心 API 的授权。 只是将应用程序添加到 Azure 门户并不会为 CPV 应用程序授予使用合作伙伴中心 API 的权限。
+1. 管理多租户应用程序（向 Azure 门户添加应用程序、在合作伙伴中心注册和取消注册应用程序）。 
+     >[!Note] 
+     >CPV 必须在合作伙伴中心注册其应用程序，然后才会获得使用合作伙伴中心 API 的授权。 只是将应用程序添加到 Azure 门户并不会为 CPV 应用程序授予使用合作伙伴中心 API 的权限。
 2. 查看和管理 CPV 配置文件。
 3. 查看和管理需访问 CPV 功能的用户。 CPV 可以拥有的唯一角色是全局管理员。
 

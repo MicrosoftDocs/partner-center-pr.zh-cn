@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 653b75c0ec9cafdc39506eb8da82eefe6d8709e7
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cf398f5671484548cc879fac28aae9e83a9c470c
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328208"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679266"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
@@ -62,11 +62,12 @@ ms.locfileid: "84328208"
 
 如果 PartnerEarnedCreditApplied 属性为 False，则表示关联的成本不满足所需的返点条件，或者购买的服务不符合合作伙伴赚取的返点条件。
 
-注意：通常情况下，服务的使用情况在 8-24 小时后才会出现在“成本管理”中，PEC 返点自访问时间起 48小时内显示在“Azure 成本管理”中。
+>[!NOTE] 
+>通常情况下，服务的使用情况在 8-24 小时后才会出现在“成本管理”中，PEC 额度自访问时间起 48 小时内显示在“Azure 成本管理”中。
 
 5. 还可以使用“分组依据和添加”筛选器功能按 PartnerEarnedCreditApplied 属性进行分组和筛选，从而深入分析享有 PEC 权益的成本以及没有应用 PEC 的成本 。
 
- **详细信息**
+## <a name="next-steps"></a>后续步骤
 
 - [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
 

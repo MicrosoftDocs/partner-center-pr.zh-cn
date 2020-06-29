@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 迁移, 移到合作伙伴中心
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453234"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679084"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
@@ -27,7 +27,7 @@ Microsoft 合作伙伴网站 partner.microsoft.com 是面向合作伙伴的统�
 
 Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Microsoft 合作伙伴网络会员管理过渡到合作伙伴中心。 本指南将描述在从 PMC 迁移到合作伙伴中心时期望会出现的情况，以此帮助你做好迁移准备。
 
->[!Note]
+>[!NOTE]
 >即使公司有多个帐户或在多个位置运营，迁移到合作伙伴中心的过程一开始也只会将一个帐户（你的第一个帐户）移到合作伙伴中心。
 
 ## <a name="get-started"></a>入门
@@ -51,7 +51,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 如果公司没有工作电子邮件和 AAD 租户，在合作伙伴中心登录过程中，我们可以帮助你设置一个。 如果尝试使用不属于工作电子邮件的电子邮件帐户（例如个人帐户）登录，网站会指示你提供有关公司的信息，以便我们可以设置 AAD 租户和工作电子邮件。 这些公司详细信息用于在合作伙伴中心完成帐户设置，因此请确保信息准确无误。
 
->[!Note]
+>[!NOTE]
 >如果你是位于中国的合作伙伴并已同时注册 Microsoft 合作伙伴网络和云解决方案提供商 (CSP) 计划，则每个帐户都有一个单独的租户。 注册了云解决方案提供商计划的帐户将在国家云中进行管理，而 Microsoft 合作伙伴网络帐户将在全球云中进行管理。 无法链接这两个帐户。
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="将公司信息告诉我们":::
@@ -74,11 +74,16 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 :::image type="content" source="images/migration/invite.png" alt-text="邀请员工":::
 
-如果你已使用现有的 AAD 租户登录，则员工的信息和权益也已同你一起迁移。 在这种情况下，请分配员工角色，以确定他们可在合作伙伴中心执行哪些操作。 注意：合作伙伴中心内的角色不同于 PMC 中的角色。 有关详细信息，请参阅[从 PMC 迁移到合作伙伴中心](move-pmc-pc-map.md)。
+如果你已使用现有的 AAD 租户登录，则员工的信息和权益也已同你一起迁移。 在这种情况下，请分配员工角色，以确定他们可在合作伙伴中心执行哪些操作。 
+
+>[!NOTE] 
+>合作伙伴中心内的角色不同于 PMC 中的角色。 有关详细信息，请参阅[从 PMC 迁移到合作伙伴中心](move-pmc-pc-map.md)。
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>验证域并成为全局管理员  
 
-如果 AAD 租户是新的，则暂时还没有为任何人分配全局管理员角色。若要成为全局管理员，需要验证域所有权。 可能需要求助域管理员来完成此操作。 请注意，尽管可以使用已购买的套餐，但在完成获取全局管理员角色的步骤之前，无法购买任何新套餐。
+如果 AAD 租户是新的，则暂时还没有为任何人分配全局管理员角色。若要成为全局管理员，需要验证域所有权。 可能需要求助域管理员来完成此操作。
+
+尽管可以使用已购买的产品/服务，但在完成分配全局管理员角色的步骤之前，无法购买任何新产品/服务。
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="获取控制权":::
 

@@ -11,16 +11,19 @@ Keywords: Azure, Azure 计划, 服务主体, Azure AD 应用程序
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76a65cd824c7c1af5242bea3af6069a466c9fa1c
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: d37fe2134d02063819abeb89e2f1b6a63e0ba505
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425996"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679384"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>在合作伙伴中心添加 Azure AD 应用程序（服务主体）
 
-在合作伙伴中心的“商业市场”计划中，现在可以将 Azure AD 应用程序（服务主体）添加为合作伙伴中心帐户中的用户。 （你之前可以在云合作伙伴门户或 CPP 帐户中执行此操作。 在你已迁移到合作伙伴中心后，CPP 帐户会是只读帐户。）请注意，服务主体与 Azure AD 应用程序同义。
+在合作伙伴中心的“商业市场”计划中，现在可以将 Azure AD 应用程序（服务主体）添加为合作伙伴中心帐户中的用户。 （你之前可以在云合作伙伴门户或 CPP 帐户中执行此操作。 在你已迁移到合作伙伴中心后，CPP 帐户会是只读帐户。）
+ 
+>[!Note] 
+>服务主体与 Azure AD 应用程序同义。
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>添加 Azure AD 应用程序（服务主体）
 

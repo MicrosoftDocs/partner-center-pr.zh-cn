@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用 Azure 计划，了解如何购买单个或多个 Azure 订阅和 Azure 预留，如何配置资源，以及如何查看或添加订阅。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467517"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909125"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>为客户购买 Azure 计划并按即用即付费率访问最新的 Azure 服务
 
@@ -78,7 +77,8 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 >[!Important] 
 >如果该客户没有有效的 Azure 计划，请选择“Azure”立即添加一个计划。 有关更多说明，请阅读[购买 Azure 预留项](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)。
 
-请注意，预留范围目前只能设置为“共享”。 
+>[!Note] 
+>预留范围目前只能设置为“共享”。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共享范围预留设置":::
 

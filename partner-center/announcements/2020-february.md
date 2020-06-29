@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253964"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749133"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -77,7 +77,10 @@ _________________
 
 合作伙伴可以使用合作伙伴中心仪表板中提供的新功能或通过[此新 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) 了解客户是否接受了新协议。
 
-自 2020 年 2 月 1 日起，合作伙伴需要确认其客户接受了 Microsoft 客户协议才能针对 Microsoft 公有云下所有区域中的任何 CSP 产品/服务新下订单。 在未确认客户已通过任一选项接受了 Microsoft 客户协议的情况下，CSP 合作伙伴将无法再新下订单，包括更改席位或续订现有购买。 注意：自动续订不受影响。
+自 2020 年 2 月 1 日起，合作伙伴需要确认其客户接受了 Microsoft 客户协议才能针对 Microsoft 公有云下所有区域中的任何 CSP 产品/服务新下订单。 在未确认客户已通过任一选项接受了 Microsoft 客户协议的情况下，CSP 合作伙伴将无法再新下订单，包括更改席位或续订现有购买。
+ 
+>[!Note] 
+>自动续订不受影响。
 
 ### <a name="next-steps"></a>后续步骤：
 
@@ -191,7 +194,9 @@ _________________
 间接提供商：
 
 - 向 Microsoft 云解决方案提供商计划的经销商告知有关此更改的信息（[使用此电子邮件模板](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)）。 如果经销商当前使用的是基线策略，请确保他们启用安全默认值。
-- 注意：Microsoft 还会直接与当前使用基线策略并具有合作伙伴中心联系人信息的经销商沟通。
+
+>[!Note] 
+>Microsoft 还会直接与当前使用基线策略并具有合作伙伴中心联系人信息的经销商沟通。
 
 如果对合作伙伴安全要求有任何疑问，请在[此处](https://aka.ms/security-requirements)查看其他资源。
 
@@ -274,9 +279,8 @@ _________________
 - 使合作伙伴能够在全新体验（Azure 计划）中检索受支持计费货币的每月汇率
 - 可检索当月或上个月的定价或汇率
 
-注意：
-
-- 这是特定于 Azure 计划定价的全新 API 资源。
+>[!Note] 
+>这是特定于 Azure 计划定价的全新 API 资源。
 - 现有 [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) 应仍适用于部署到先前 Azure 订阅（不属于 Azure 计划一部分）的现有 Azure 资源或预留。
 - 这些 API 与合作伙伴中心 API 位于不同的终结点（托管 API 的域）上。
 
@@ -345,7 +349,7 @@ _________________
 
 云解决方案提供商 (CSP) 计划中的新 [Microsoft 客户协议](https://www.microsoft.com/licensing/docs/customeragreement)在 2019 年 10 月生效后已替代现有的 Microsoft 云协议。 该客户协议是一个简化的新协议，为客户提供一致的购买条款，而无论客户选择何种购买方式。
 
-从 2020 年 2 月 1 日起，云解决方案提供商计划中的直接计费和间接提供商必须确认客户接受了 Microsoft 公有云下的任何云解决方案提供商计划产品/服务的 Microsoft 客户协议。 如果未确认客户接受新协议，合作伙伴将无法为客户提供新购买，包括更改席位、从该日期续订现有购买（注意：不会影响自动续订）。
+从 2020 年 2 月 1 日起，云解决方案提供商计划中的直接计费和间接提供商必须确认客户接受了 Microsoft 公有云下的任何云解决方案提供商计划产品/服务的 Microsoft 客户协议。 如果未确认客户接受新协议，合作伙伴将无法为客户提供新购买，包括更改席位、从该日期续订现有购买（自动续订不受影响）。
 
 合作伙伴可按照与向客户展示现有 Microsoft 云协议大致相同的方式来向客户展示新协议。 客户查看并接受该协议后，合作伙伴必须在合作伙伴中心确认客户接受了协议。 为支持新协议，已更新合作伙伴中心 Web 用户界面、API 和 .NET SDK。
 
@@ -357,10 +361,8 @@ _________________
 - 如果合作伙伴使用现有 Microsoft 云协议的 API，则需要使用[更新后的 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 修订其现有实现。
 - 为代理和经销商提供有关[新协议条款](https://www.microsoft.com/licensing/docs/customeragreement)以及向客户展示新协议并验证客户是否已接受新协议的培训。
 
-### <a name="note"></a>注意：
-
-- 客户还必须接受 Microsoft 客户协议才能通过[用于 Azure 的云解决方案提供商计划中的新商业体验](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)进行购买，该体验已于 2019 年 11 月推出。
-- 在 2020 财年第 1 季度，云解决方案提供商计划中的合作伙伴还可开始查看合作伙伴中心的其他选项，合作伙伴可以在合作伙伴中心邀请客户访问经过身份验证的 Microsoft 门户（Microsoft 365 管理中心），并让客户查看和签署 Microsoft 客户协议。
+>[!NOTE] 
+>客户还必须接受 Microsoft 客户协议才能通过[用于 Azure 的云解决方案提供商计划中的新商业体验](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)进行购买，该体验已于 2019 年 11 月推出。 在 2020 财年第 1 季度，云解决方案提供商计划中的合作伙伴还可开始查看合作伙伴中心的其他选项，合作伙伴可以在合作伙伴中心邀请客户访问经过身份验证的 Microsoft 门户（Microsoft 365 管理中心），并让客户查看和签署 Microsoft 客户协议。
 
 ### <a name="change-log"></a>更改日志：
 

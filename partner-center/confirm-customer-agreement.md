@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0d89c625375c203fe77556c47b6061faa293e1b0
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453264"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679104"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
@@ -128,7 +128,10 @@ ms.locfileid: "84453264"
 
 3. 在“客户协议”下选择第一个选项，即“将要求客户在 Microsoft 365 管理中心接受 Microsoft 客户协议”。 完成页面上的所有其他必填字段。
 
-4. 选择“下一步:查看”，然后继续执行创建客户租户的步骤。 （注意：新客户在接受 Microsoft 客户协议之前无法进行新的购买。）  
+4. 选择“下一步:查看”，然后继续执行创建客户租户的步骤。 
+
+>[!NOTE] 
+>新客户必须接受 Microsoft 客户协议才能进行新的购买。  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="创建新客户":::
 

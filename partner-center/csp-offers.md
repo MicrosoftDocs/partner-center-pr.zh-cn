@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 云解决方案提供商, 云解决方案提供商计划, CSP, 添加产品, 销售给客户, 合作伙伴套餐, 云解决方案提供商套餐, 基于云的服务, Azure, Office 365, Dynamics, 云解决方案提供商合作伙伴, 在云解决方案提供商计划中销售, Azure RI, Azure 虚拟机预留实例, Azure 预订, 在线服务, 订阅软件, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客户订阅
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467237"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679014"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴产品/服务的概述
 
@@ -62,9 +62,12 @@ ms.locfileid: "84467237"
 
    可以销售独立软件供应商 (ISV) 提供的 SaaS 产品的订阅。 如果你只想查看“在线服务”中的 SaaS 套餐，请使用筛选器将“发行商”设置为“合作伙伴”。   此时会显示可为该客户购买的所有 SaaS 套餐。
 
-   还可以在**市场**页上找到有关这些产品的信息。 请注意，此页还包含有关必须从 Azure 门户（而不是合作伙伴中心）购买的其他产品类型的信息。
+   还可以在**市场**页上找到有关这些产品的信息。
 
-   有关详细信息，请参阅[云解决方案提供商商业市场概述](CSP-commercial-marketplace-overview.md)
+>[!NOTE] 
+>此页还包含有关必须从 Azure 门户（而不是合作伙伴中心）购买的其他产品类型的信息。
+
+有关详细信息，请参阅[云解决方案提供商商业市场概述](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>添加产品页详细信息
 
@@ -88,7 +91,7 @@ ms.locfileid: "84467237"
 
 若要代表你的 CSP 客户购买产品和服务，请选择客户所需的项，将其添加到购物车以创建订单，然后查看并提交订单。 下面描述了常规流程。 （有关特定产品类型的订单的详细信息，请参阅上面的链接。）
 
->[!Note]
+>[!NOTE]
 >需在你的租户所在国家/地区和你的客户的租户所在国家/地区提供云解决方案提供商套餐。 例如，如果你的租户位于斯洛伐克，客户的租户位于德国，则不能向该客户销售 Dynamics 365 Business Central Premium，因为此套餐目前不在斯洛伐克提供。
 
 1. 从“合作伙伴中心”菜单中选择“客户”，然后找到想要从你这里购买产品的客户。 
@@ -110,6 +113,23 @@ ms.locfileid: "84467237"
 ## <a name="rules-for-special-segments"></a>针对特殊细分市场的规则
 
 某些基于许可证的产品/服务只能在特定条件下购买。 特殊细分市场产品/服务包括“教育”、“非营利”或“政府社区云”(GCC) 产品/服务。 有关这些购买条件的详细信息，请参阅[针对特殊细分市场的购买规则主题](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)。
+
+## <a name="troubleshooting-catalog-purchases"></a>排查目录购买问题
+
+在目录中找不到要查找的产品/服务可能有多种原因。 如果你找不到所需的产品/服务，请参阅以下内容。
+
+- **验证你的客户是否有资格**。 许多产品/服务都需要特殊资格才能销售给客户。 此类特殊细分市场包括“教育”、“非营利”以及“政府社区云”(GCC)。 在记录问题之前，请先验证是否已相应设置客户的资格。 可以通过在客户列表中单击客户并查看帐户来进行检查。 如果适用，此帐户可设置特殊资格。 如果尝试为没有资格的客户购买教育版，则在目录中看不到这些产品/服务。 有关为客户提供资格的详细信息，请参阅[特殊细分文档](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)。
+- **决定是尝试购买附加产品还是基本产品/服务**。 许多基于许可证的服务（例如 Microsoft 365 和 Dynamics 365）都支持通过目录购买基本产品/服务以及附加产品。 在目录中只能购买基本产品/服务。 若要购买附加产品，请确保先在目录中购买基本产品/服务，然后从客户列表中选择客户，再选择基本产品/服务的订阅。 附加产品可以应用于此管理订阅页上的基本产品/服务。 
+- **验证产品是否在你的市场中可用**。 许多产品和服务配置为仅销售给特定国家/地区的客户。 你可以在各种价目表文件中找到受支持的国家/地区列表。 基于许可证的服务支持的国家/地区位于“价格和产品/服务”页面的“产品/服务列表矩阵”中。
+- **验证产品/服务是否在价目表中提供**。 可用的产品/服务列表可能会逐月更改。 如果在目录中找不到产品/服务，请务必验证其是否在“销售”>“定价和产品/服务”页面的当前价目表中提供。
+
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>与在合作伙伴中心购买项目相关的建议文档
+
+- [合作伙伴中心中的“定价和产品/服务”](https://docs.microsoft.com/partner-center/pricing-and-offers)
+- [云解决方案提供商计划中的合作伙伴产品/服务的概述](https://docs.microsoft.com/partner-center/csp-offers)
+- [如何向教育客户销售产品/服务并创建教育客户](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [向教育、非营利和政府用户等特定行业销售](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [针对特殊细分的购买规则](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>后续步骤
 

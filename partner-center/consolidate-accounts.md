@@ -1,21 +1,20 @@
 ---
 title: 合并公司帐户
+description: 了解如何将 Partner Membership Center (PMC) 帐户合并到合作伙伴中心的一个帐户中。 应用于从 PMC 到合作伙伴中心的迁移。
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何将 Partner Membership Center (PMC) 帐户合并到合作伙伴中心的一个帐户中。 应用于从 PMC 到合作伙伴中心的迁移。
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908141"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908655"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心时合并公司帐户
 
@@ -40,10 +39,9 @@ ms.locfileid: "82908141"
 
 5. 合并帐户以后，你可能有资格获得更多的能力认可。 你现在可能还有资格参与其他奖励计划。
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>在合并帐户时会发生什么
 
-- 你无法在“公司详细信息”屏幕上更改详细信息。 这些详细信息归属于合作伙伴全局帐户。 
+- 你无法在“公司详细信息”屏幕上更改详细信息。 这些详细信息归属于合作伙伴全局帐户。
 
 - PMC 中的帐户将合并到合作伙伴全局帐户中。
 
@@ -64,4 +62,3 @@ ms.locfileid: "82908141"
 在合作伙伴中心，所有位置帐户会合并成一个全局帐户。 这意味着所有的市场推广套餐、计划和资质都会被合并。 其他权益工具包 (ABTK) 将不可用。 不过，你可以根据公司的需要组织营销资源、套餐、计划和资质的分发。 合并时，系统会提供一个扩展。 这个扩展使公司能够在额外的一年时间里，使用之前在 PMC 中使用的营销资源、套餐和计划。
 
 若要详细了解 PMC 和合作伙伴中心的差异，请阅读[从 PMC 迁移到合作伙伴中心](guide-to-migration.md)。
-

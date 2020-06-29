@@ -1,7 +1,7 @@
 ---
 title: 证明客户接受 Microsoft 客户协议
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解需要你代表客户证明接受 Microsoft 客户协议的情况。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板, 证明接受协议
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e24d602bc61391642814d78a22c7d7cb4ba5b0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452714"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909015"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客户证明接受 Microsoft 客户协议
 
@@ -46,7 +46,7 @@ ms.locfileid: "84452714"
 
 **解决方法**：必须代表客户进行证明。
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="客户":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Microsoft 365 管理中心页的屏幕截图，其中要求你与合作伙伴联系以确认接受 Microsoft 客户协议。":::
 
 **情况 2**：现有客户已购买以下任何一项：产品/服务、软件和软件订阅、预留实例和 Azure 计划。 客户现在正在尝试通过新的合作伙伴进行新的购买。
 
@@ -54,4 +54,4 @@ ms.locfileid: "84452714"
 
 **解决方法**：必须代表客户进行证明。  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="客户":::
+:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="授权合作伙伴页的屏幕截图，其中包含用于选择的“授权”选项 - 显示特定合作伙伴的详细信息、其关系及其管理员角色。":::

@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452584"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908955"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划
 
@@ -41,11 +41,11 @@ ms.locfileid: "84452584"
 
 2. 选择“将计费过渡到 Azure 计划”。
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="过渡":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="显示基于使用情况的订阅报告信息的屏幕截图，其中包含一个名为“将 Azure 订阅计费过渡到 Azure 计划”的可选选项。":::
 
 3. 选择“继续”
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="过渡":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="标题为“过渡到 Azure 计划”的对话框，其中包含有关过渡的含义以及两个用于选择的选项：“继续”或“取消”。":::
 
    客户将过渡到 Azure 计划。
 
@@ -63,7 +63,7 @@ ms.locfileid: "84452584"
 
 4. 返回到客户的合作伙伴中心“订阅”页，使用其本地货币更新其预算限制。
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="过渡":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="合作伙伴中心“订阅”页面的分部视图，其中已针对计费周期设置了预算限制（以本地货币形式）。":::
 
    >[!NOTE]
    >在合作伙伴中心设置的预算不会传播到 Azure 门户。 还应在 Azure 门户中设置预算和警报。
@@ -77,7 +77,7 @@ ms.locfileid: "84452584"
 
 可以在 Azure 门户以及合作伙伴中心跟踪过渡进度。
 
-:::image type="content" source="images/azure/details1.png" alt-text="显示详细信息":::
+:::image type="content" source="images/azure/details1.png" alt-text="显示包含每个订阅过渡详细信息列表的表的屏幕截图 - 包括订阅 ID、过渡日期和过渡状态。":::
 
 ### <a name="billing-impact-to-partners"></a>对合作伙伴的计费影响
 
@@ -100,12 +100,12 @@ ms.locfileid: "84452584"
 
 过渡完成后，Azure 订阅将移到新的 Azure 计划下，商务订阅将会暂停，以便不再报告其使用情况。  
 
->[!Note]
+>[!NOTE]
 >在 CSP 中购买 Microsoft Azure (0145P) 订阅时，商务订阅和 Azure 订阅（权利）具有相同的值。 仅当计费所有权发生更改或转移时，值才会不同。
 
 ### <a name="transition-issues"></a>过渡问题
 
-过渡期间预计不会发生任何问题。 但如果失败，我们将在过渡工作流本身中提供最新信息。 Azure 的使用不会受到干扰。  
+转换期间预计不会发生任何问题。 但如果失败，我们将在过渡工作流本身中提供最新信息。 Azure 的使用不会受到干扰。  
 
 ## <a name="next-steps"></a>后续步骤
 

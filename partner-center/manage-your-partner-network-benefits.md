@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作伙伴网络权益
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作伙伴网络 (MPN) 并使用合作伙伴中心来管理成员资格权益和优惠，从而帮助拓展业务。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, 会员权益, 会员资格
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f937316e01f20fb0f255d9af23328a200fb8445
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795998"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072411"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
@@ -85,25 +85,25 @@ ms.locfileid: "83795998"
 
 4. 对于要分配的每个订阅都重复此过程。 用户可以在 Visual Studio 门户中管理其订阅。
 
-    随时可以通过删除分配的用户，然后分配其他用户，来重新分配订阅。
+   随时可以通过删除分配的用户，然后分配其他用户，来重新分配订阅。
 
 ## <a name="manage-technical-benefits"></a>管理技术权益
 
 1. 选择“技术权益”可查看 Microsoft 技术权益列表。
 
-    技术权益可能包括 Microsoft 产品支持事件、合作伙伴咨询小时，以及技术售前和部署服务。
+   技术权益可能包括 Microsoft 产品支持事件、合作伙伴咨询小时，以及技术售前和部署服务。
 
 2. 找到要开始使用的订阅权益，然后选择所在行最右侧的向下箭头，展开该权益的详细信息。
 
 3. 若要激活支持权益，请为其分配用户。
 
-   a.  从列表中选择一个用户。 如果要分配的用户不在该列表中，可以在“帐户设置”中[添加新用户](create-user-accounts-and-set-permissions.md)。
+   a. 从列表中选择一个用户。 如果要分配的用户不在该列表中，可以在“帐户设置”中[添加新用户](create-user-accounts-and-set-permissions.md)。
 
-   b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。
+   b. 为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。
 
    作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的合作伙伴中心帐户电子邮件地址。 激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。
 
-   c.  输入备用电子邮件地址后，选择“分配用户”。
+   c. 输入备用电子邮件地址后，选择“分配用户”。
 
 4. 可以使用技术售前帮助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术帮助。 若要请求帮助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然后选择“提交请求”。
 
@@ -116,26 +116,26 @@ ms.locfileid: "83795998"
 
 1. 选择“权益”，然后选择“市场推广”，查看通过 Microsoft 计划获得的与市场推广相关联的套餐列表 。
 
-    [市场推广功能](mpn-learn-about-go-to-market-benefits.md)提供其他可能对你有用的营销资源、套餐、计划和帮助。 可用的套餐类型取决于具体的合作伙伴级别，以及你可能取得的任何资质。
+   [市场推广功能](mpn-learn-about-go-to-market-benefits.md)提供其他可能对你有用的营销资源、套餐、计划和帮助。 可用的套餐类型取决于具体的合作伙伴级别，以及你可能取得的任何资质。
 
 2. 若要激活任何市场推广套餐或计划，必须先分配一个公司营销联系人。 此联系人将收到有关现行市场推广套餐的跟进信件。
 
 3. 若要添加或更新营销联系人信息，请转到“市场推广”页的顶部，然后选择“添加”、“更新”或“更改”  。 现在请执行以下步骤：  
 
-    a.  从列表中选择一个用户。 如果要分配的用户不在该列表中，可以在“帐户设置”中[添加新用户](create-user-accounts-and-set-permissions.md)。
+   a. 从列表中选择一个用户。 如果要分配的用户不在该列表中，可以在“帐户设置”中[添加新用户](create-user-accounts-and-set-permissions.md)。
 
-    b.  为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。
+   b. 为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。
 
-    我们将向指定的营销联系人电子邮件地址发送有关使用市场推广套餐的说明。
+      我们将向指定的营销联系人电子邮件地址发送有关使用市场推广套餐的说明。
 
-    c.  请提供此营销联系人的联系电话和首选语言。 输入这些信息后，选择“分配用户”。
+   c.  请提供此营销联系人的联系电话和首选语言。 输入这些信息后，选择“分配用户”。
 
-4. 更新营销联系人后，找到要开始使用的市场推广套餐，然后选择所在行最右侧的向下箭头展开该套餐的详细信息。 列表将在“权益名称”下面显示每种可用的套餐类型（例如“银级核心”或“金级核心”） 。
+4. 更新营销联系人后，找到要开始使用的市场推广套餐，然后选择所在行最右侧的向下箭头展开该套餐的详细信息。 列表将在“权益名称”下显示每种可用的产品/服务类型（例如“银级核心”、“金级核心”或“ISV 联合销售就绪”）  。
 
 5. 选择“激活”以激活该套餐。
 
-> [!NOTE]
->向指定的营销联系人发送电子邮件说明和激活市场推广套餐可能需要几天的时间。 激活套餐后，“市场推广”页上会反映所做的更改。 在“状态”列中，你将看到该套餐已更改为“有效” 。 在“过期”列中，将看到套餐的过期日期。 在到期日期之前，你一直都可以使用此套餐。 详细了解可用的[不同类型的市场推广资源、套餐和计划](mpn-learn-about-go-to-market-benefits.md)。  
+   > [!NOTE]
+   >向指定的营销联系人发送电子邮件说明和激活市场推广套餐可能需要几天的时间。 激活套餐后，“市场推广”页上会反映所做的更改。 在“状态”列中，你将看到该套餐已更改为“有效” 。 在“过期”列中，将看到套餐的过期日期。 在到期日期之前，你一直都可以使用此套餐。 详细了解可用的[不同类型的市场推广资源、套餐和计划](mpn-learn-about-go-to-market-benefits.md)。  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>取消会员权益或套餐
 
@@ -143,8 +143,8 @@ ms.locfileid: "83795998"
 
 ## <a name="next-steps"></a>后续步骤
 
-[添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
+- [添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
 
-[购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
+- [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
 
-[了解 MPN 市场推广套餐和资源](mpn-learn-about-go-to-market-benefits.md)
+- [了解 MPN 市场推广套餐和资源](mpn-learn-about-go-to-market-benefits.md)

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 引荐, 分析, analytics, 指标, 转换
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467447"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679424"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作伙伴中心获取引荐见解，并了解引荐状况如何
 
@@ -39,13 +39,13 @@ ms.locfileid: "84467447"
   - **符合条件的营销**：通过 Microsoft 营销系统创建。
   - **符合条件的销售**：由 Microsoft 销售代理创建。
   - **不符合条件**：没有关联的质量衡量标准的引荐。
-- **引荐类型**：- 默认值为“全部”，但你可以选择将数据限制为“独立”引荐（需要直接配合客户来结案的引荐）或“共同销售”引荐（包括其他参与方的引荐，需要与这些参与方共同结案）。  
+  - **引荐类型**：- 默认值为“全部”，但你可以选择将数据限制为“独立”引荐（需要直接配合客户来结案的引荐）或“共同销售”引荐（包括其他参与方的引荐，需要与这些参与方共同结案）。  
 
 除非下面有说明，否则以下列出的所有图表中的信息将反映所选的日期范围和任何筛选器。 某些部分还允许应用其他筛选器，例如按特定的解决方案进行筛选。
 
 ## <a name="referrals-summary"></a>引荐摘要
 
-此图显示引荐绩效的概述。 请注意，只会对此图表应用日期范围筛选器；不会应用任何其他筛选器。 
+此图显示引荐绩效的概述。 仅对此图表应用日期范围筛选器；不会应用任何其他筛选器。 
 
 该图表显示所选时间段的引荐总数、成功的引荐数，以及总交易额（美元）。 展开该图表可显示更多数据，例如引荐源和引荐方向的细节。 
 

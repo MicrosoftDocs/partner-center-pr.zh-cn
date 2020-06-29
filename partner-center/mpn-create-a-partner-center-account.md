@@ -1,22 +1,22 @@
 ---
 title: 创建合作伙伴中心帐户
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解 Microsoft 合作伙伴网络成员如何创建业务配置文件和合作伙伴中心帐户，以便管理其网络权益和资格。
+description: 了解 Microsoft 合作伙伴网络成员如何创建合作伙伴中心帐户，以便管理其网络权益和资格。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795732"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603816"
 ---
-# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务配置文件和合作伙伴中心帐户来管理网络权益和资格
+# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务合作伙伴中心帐户来管理网络权益和资格
 
 **相应的角色**
 

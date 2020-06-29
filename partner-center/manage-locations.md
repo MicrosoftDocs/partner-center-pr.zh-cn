@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心，了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 合作伙伴帐户, 位置
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453204"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909055"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>在合作伙伴中心管理合作伙伴帐户位置并添加新位置
 
@@ -54,12 +54,12 @@ ms.locfileid: "84453204"
 
 1. 在“位置”页面上，检查位置列表以确保想作为法人的位置已被列出。 否则，请添加该位置。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="更新公司位置":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="合作伙伴中心“帐户位置”页面的屏幕截图，其中包含所有当前位置的列表。":::
 
 2. 选择“合作伙伴配置文件”，然后选择“更新法定公司配置文件” 
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="更新公司位置":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="显示合作伙伴中心帐户伙伴配置文件信息的屏幕截图，其中包含可选的更新选项。":::
 
 3. 选择区域和法人，并“提交”。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新公司位置":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新合作伙伴的法定公司配置文件的屏幕截图，其中显示了用于更新国家/地区和法人的下拉列表。":::

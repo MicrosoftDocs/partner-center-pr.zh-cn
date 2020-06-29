@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/01/2020
-ms.openlocfilehash: 4f682fc6435d6a0b29d727ded2d08fc934666020
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253994"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678924"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -104,7 +104,8 @@ _________________
 
 有关详细信息，请参阅[云解决方案提供商产品/服务](https://docs.microsoft.com/partner-center/csp-offers)页面。
 
-注意：转移仅支持基于许可证的订阅和 Azure 订阅。 你需要手动转移 Azure 计划和商业市场购买内容。 请注意，这涉及到对以下文档中所述的订阅进行取消和续订操作：[Azure 计划](https://docs.microsoft.com/partner-center/azure-plan-lp)和[商业市场](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 由于服务器订阅和 Azure 预留是一次性购买内容，因此不需要将它们转移到间接提供商租户。 有关详细信息，请参阅“云解决方案提供商产品/服务”页面。
+>[!NOTE] 
+>转移仅支持基于许可证的订阅和 Azure 订阅。 你需要手动转移 Azure 计划和商业市场购买内容。 请注意，这涉及到对以下文档中所述的订阅进行取消和续订操作：[Azure 计划](https://docs.microsoft.com/partner-center/azure-plan-lp)和[商业市场](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 由于服务器订阅和 Azure 预留是一次性购买内容，因此不需要将它们转移到间接提供商租户。 有关详细信息，请参阅“云解决方案提供商产品/服务”页面。
 
 ### <a name="additional-resources"></a>其他资源：
 
@@ -209,7 +210,8 @@ _________________
 -  要减少对合法条目的审核失败的调查延迟，请确保输入准确的客户数据，并尽可能完整。 不要输入测试/虚拟数据。
 -  查看“在合作伙伴中心创建教育客户”指南和“添加新客户”页面，了解在合作伙伴中心中创建新教育客户所需的内容。 下面的资源库中提供了这两个资源。
 
-**注意：** 现在，“在合作伙伴中心创建教育客户”指南包括关于如何更正客户信息以及在客户审核失败的情况下重新提交信息的分步说明。
+>[!NOTE] 
+>现在，“在合作伙伴中心创建教育客户”指南包括关于如何更正客户信息以及在客户审核失败的情况下重新提交信息的分步说明。
 
 **后续步骤/其他资源：**
 
@@ -218,7 +220,7 @@ _________________
 ### <a name="change-log"></a>更改日志：
 
 - 原始发布日期：2019 年 12 月 19 日
-- 如果有新的合作伙伴销售已删除了的教育产品/服务，请注意联系支持部门（不再需要）：2020 年 1 月 13 日
+- 如果删除了新的合作伙伴销售的教育产品/服务，请联系支持部门（不再需要）：2020 年 1 月 13 日
 - 新增了 2020 年 2 月更新：2020 年 2 月 10 日
 - 关于更正客户帐户信息以及重新提交信息以供审核的新功能的通知：2020 年 3 月 10 日
 
