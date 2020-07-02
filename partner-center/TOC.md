@@ -44,8 +44,9 @@
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
 ## [云解决方案提供商区域授权租户合并说明](csp-regional-authorization-tenant-consolidation.md)
-## [确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)
-### [何时代表客户证明已接受客户协议](attest-acceptance-customer-agreement.md)
+## [概述 - 确认客户已接受 Microsoft 客户协议的新方式](confirm-consent.md)
+## [如何确认客户已接受 Microsoft 客户协议](confirm-customer-agreement.md)
+## [何时代表客户证明已接受客户协议](attest-acceptance-customer-agreement.md)
 
 ## [适用于在国家/地区云中销售](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [注册交易](register-deals.md)
 ### [获取引荐见解](referral-insights.md)
 ### [分析业务资料](analyze-your-marketing-profile.md)
-## [奖励申请](claims-overview.md)
-### [创建和管理奖励申请](create-incentives-claims.md)
-### [奖励申请的核心要求](core-requirements.md)
-### [访问奖励付款页](incentives-unified-user-guide.md)
-### [查看奖励付款和计划](understand-incentive-payouts.md)
-### [使用 CPOR 模型创建客户关联](submit-osa-claim.md)
+## [奖励](claims-overview.md)
+### 即刻体验奖励
+#### [确定你的程序资格](incentives-determined-your-program-eligibility.md)
+#### [在合作伙伴中心创建和管理付款资料和税务资料](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [确认你的收益资格](incentives-confirm-your-earnings-eligibility.md)
+#### [查看奖励付款和计划](understand-incentive-payouts.md)
+#### [访问奖励付款页](incentives-unified-user-guide.md)
+### 计划和执行证明
+#### [创建计划](incentives-create-your-plan.md)
+#### [准备执行证明](incentives-prepare-your-proof-of-execution.md)
+### 奖励合作申请
+#### [创建和管理奖励合作申请](create-incentives-claims.md)
+#### [奖励合作申请的核心要求](core-requirements.md)
+#### [合作申请批准和付款的截止时间](incentives-managing-co-op-claims.md)
+### 奖励 CPOR 关联申请
+#### [使用 CPOR 模型创建客户关联](submit-osa-claim.md)
+#### [管理客户关联](incentives-manage-customer-associations.md)
+#### [客户关联问题](incentives-customer-association-issues.md)
+### [排查付款和收益问题](incentives-payment-issues.md)
 
 # [计费和税款](billing.md)
 ## [计费基础知识](billing-basics.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c29a1e466d441a9e498c576fb8f20a64fed3a074
-ms.sourcegitcommit: 1fa9ac175cfed992c655c9784081cb636bffc8b8
+ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "85346713"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678655"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "85346713"
 
 | **类别** | **2020 年 6 月公告** | **已公布** |
 |---------|:---------|:---------|
+| 产品/市场 | [现已推出适用于 CSP 合作伙伴的 Windows 7 第二年 ESU](2020-june.md#6) | 6 月 29 日 |
 | 功能 | [合作伙伴中心关系删除功能更新](2020-june.md#5) | 6 月 29 日 |
 | 功能 | [计费频率从每年更改为每月](2020-june.md#4) | 6 月 17 日 |
 | 产品/市场 | [对 Microsoft 365 F1 的更改](2020-june.md#3) | 6 月 15 日 |

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板, 证明接受协议
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909015"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678562"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客户证明接受 Microsoft 客户协议
 
@@ -54,4 +54,7 @@ ms.locfileid: "84909015"
 
 **解决方法**：必须代表客户进行证明。  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="授权合作伙伴页的屏幕截图，其中包含用于选择的“授权”选项 - 显示特定合作伙伴的详细信息、其关系及其管理员角色。":::
+## <a name="next-steps"></a>后续步骤
+
+- [如何在合作伙伴中心添加新客户记录](add-a-new-customer.md)
+- [简介：Azure 计划允许合作伙伴按即用即付费率为客户购买 Azure](azure-plan-lp.md)
