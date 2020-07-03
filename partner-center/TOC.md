@@ -95,7 +95,7 @@
 ### [注册交易](register-deals.md)
 ### [获取引荐见解](referral-insights.md)
 ### [分析业务资料](analyze-your-marketing-profile.md)
-## [奖励](claims-overview.md)
+## 奖励
 ### 即刻体验奖励
 #### [确定你的程序资格](incentives-determined-your-program-eligibility.md)
 #### [在合作伙伴中心创建和管理付款资料和税务资料](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [创建计划](incentives-create-your-plan.md)
 #### [准备执行证明](incentives-prepare-your-proof-of-execution.md)
 ### 奖励合作申请
+#### [奖励](claims-overview.md)
 #### [创建和管理奖励合作申请](create-incentives-claims.md)
 #### [奖励合作申请的核心要求](core-requirements.md)
 #### [合作申请批准和付款的截止时间](incentives-managing-co-op-claims.md)
