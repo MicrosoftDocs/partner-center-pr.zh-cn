@@ -1,7 +1,7 @@
 ---
 title: 适用于商业应用商店的 CSP 合同
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解针对商业应用商店中的 CSP 合作伙伴购买的第三方 ISV 产品的订阅条款、条件和协定。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 订阅，Marketplace，第三方，ISV，CSP 合作伙伴计划，合同，销售，购买，
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362625"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937621"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>适用于在商业市场中开展业务的 CSP 合作伙伴的合同
 
@@ -42,7 +42,7 @@ ms.locfileid: "83362625"
 
 有关在商业应用商店中管理 CSP 活动的术语的详细信息，请参阅：
 
-- [CSP 收视指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)**第5.7 节（第三方产品/服务）** 。 这提供了在 CSP 计划中控制合作伙伴销售 ISV 解决方案的条款。
+- 《 [CSP 收视指南》](https://go.microsoft.com/fwlink/p/?LinkId=617100)中的 **"第三方产品/服务" 一节**。 这提供了在 CSP 计划中控制合作伙伴销售 ISV 解决方案的条款。
 
 - **Microsoft 合作伙伴协议（MPA）** 将控制 CSP 计划，并替换现有的 MCRA 和 MCDA。 MPA 在[合作伙伴中心](https://partner.microsoft.com/pcv/dashboard/overview)提供，因此选择参与 CSP 计划的合作伙伴可以查看并接受该计划。
   

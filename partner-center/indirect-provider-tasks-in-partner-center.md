@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394120"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879378"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
@@ -105,6 +105,25 @@ ms.locfileid: "83394120"
 | 给予经销商信用奖励 | 将经销商与（新的或现有的）订阅相关联 | 在**新建订阅**页面上 |
 | 委派经销商作为特定订阅的客户支持 | 从**指定支持联系人**列表中选择经销商 | 在订阅的详细信息页上：从 "**客户**" 页中选择 "客户"，然后从客户的 "**订阅**" 页中选择订阅 |
 
+## <a name="remove-partnership-with-indirect-resellers"></a>与间接经销商一起删除合作关系
+
+若要删除与现有间接经销商的合作关系，请遵循以下步骤。 
+
+1. 在仪表板上的 "合作伙伴中心" 菜单中，选择 "**间接经销商**"。 
+
+2. 在 "**间接经销商**" 页上，选择 "**删除合作关系**"。 将显示一条消息，询问确认选择 "是" 以继续。
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="删除合作关系":::
+
+>[!IMPORTANT]
+>不会删除与间接分销商关联的客户。 授予的任何委派的管理员权限将保持不变。
+>你表示终止与合作伙伴的关系的决定是可靠的，出于合法的商业目的，以及与你的客户或合作伙伴达成一致，并且你同意在任何第三方声明中防御和保持 Microsoft 无害。
+>如果你的协议要求，你必须为你的客户或合作伙伴提供法律通知。 此工具不会向客户或合作伙伴生成通知。
+
+3. 所删除的合作关系的间接经销商将不会出现在列表中。
+根据访问和参与级别，你可能想要与间接的分销商以及有关此更改的最终客户交流。
+
+
 ## <a name="connect-with-customers"></a>与客户联系
 
 当你获得新客户时，你需要在合作伙伴中心为其创建帐户。 添加新的客户帐户时，可以指定特定经销商来管理帐户，并代表他们管理客户的订阅和服务。
@@ -128,7 +147,7 @@ ms.locfileid: "83394120"
     > [!IMPORTANT]  
     > 请确保记下 "用户帐户名" 和 "密码"，因为在关闭此页后，不能再次访问此信息。
 
-7. 选择“完成”  。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
+7. 选择“完成”。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>将新订阅添加到客户帐户
 

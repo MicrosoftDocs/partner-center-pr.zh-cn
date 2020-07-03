@@ -1,21 +1,21 @@
 ---
-title: 用户和许可证管理
+title: 用户许可证管理
 titleSuffix: Microsoft Cloud Germany - Partner Center
 description: 了解如何以及在何处管理 Microsoft 云德国合作伙伴、客户和许可证以及密码重置的合作伙伴中心。
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 48bd1e315c51c3884889e80d5d295402fc9fab84
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603616"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879206"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -54,7 +54,7 @@ ms.locfileid: "84603616"
 
 **相关主题**
 
--  [Microsoft Azure 德国](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
 

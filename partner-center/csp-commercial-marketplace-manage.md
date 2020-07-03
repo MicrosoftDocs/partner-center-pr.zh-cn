@@ -1,7 +1,7 @@
 ---
 title: '& 产品/服务管理 marketplace 产品'
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用合作伙伴中心，了解云解决方案提供商可以如何管理从商业市场为客户购买的第三方 ISV 产品/服务。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 订阅，Marketplace，第三方，ISV，SaaS 服务，云解决方案提供商计划，管理产品/服务，管理订阅，许可证，取消订阅，座位，关闭自动续订，间接经销商 MPN ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
+ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908105"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85937627"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>为客户管理商业 marketplace 产品和产品/服务
 
@@ -64,11 +64,14 @@ ms.locfileid: "82908105"
 
 1. 可以通过以下几种方式在 ISV 发布者那里找到此个性化链接：
 
-    - 你可以看到在购买 ISV SaaS 产品/服务后显示的 "确认" 页的链接。
+   - 你可以看到在购买 ISV SaaS 产品/服务后显示的 "确认" 页的链接。 若要在页面上找到此链接，请查找并选择 "**跳到发布者的网站**"。
 
-    - 可以从特定客户的订阅页查看链接。 此发布服务器链接显示在与为客户购买的 ISV 产品或订阅关联的行上。
+   - 可以从特定客户的订阅页查看链接。 此发布服务器链接显示在与为客户购买的 ISV 产品或订阅关联的行上。
 
-    - 可以[使用合作伙伴中心 api 检索链接](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)。
+   - 可以[使用合作伙伴中心 api 检索链接](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)。
+
+   > [!NOTE]
+   > 若要代表客户执行此操作，你可能需要复制个性化链接，并将其粘贴到专用浏览器中，并输入客户的凭据。
 
 2. 一旦你进入 ISV 发布者的站点或系统后，发布者将向你提供完成客户设置过程和预配或分配许可证所需执行的任何其他步骤。
 
