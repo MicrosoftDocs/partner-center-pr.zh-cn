@@ -1,7 +1,7 @@
 ---
-title: 获得高级专用化
+title: 获取高级专用化认证
 ms.topic: article
-ms.date: 06/11/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 增强合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌/银能力一起获得。
@@ -10,37 +10,49 @@ ms.author: labrenne
 keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
+ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749160"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85911273"
 ---
-# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a><span data-ttu-id="95015-105">高级专用化帮助你的业务配置文件与客户建立联系</span><span class="sxs-lookup"><span data-stu-id="95015-105">Advanced specializations help your business profile stand out to customers</span></span>
+# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a><span data-ttu-id="e3127-105">获得先进的专用化来展示专长并向客户</span><span class="sxs-lookup"><span data-stu-id="e3127-105">Earn an advanced specialization to showcase expertise and stand out to customers</span></span> 
 
-<span data-ttu-id="95015-106">通过高级专用化超越金牌资格。</span><span class="sxs-lookup"><span data-stu-id="95015-106">Go beyond your Gold competency with an advanced specialization.</span></span> <span data-ttu-id="95015-107">高级专用化可帮助你在产品、解决方案领域或服务中展示经验证的可验证专业知识。</span><span class="sxs-lookup"><span data-stu-id="95015-107">Advanced specializations help you showcase proven, verifiable expertise in a product, solution area, or service.</span></span> <span data-ttu-id="95015-108">客户可以在合作伙伴目录的业务配置文件中查看金牌能力和高级专用化。</span><span class="sxs-lookup"><span data-stu-id="95015-108">Customers can see both your Gold competency and your advanced specialization in your business profile on the partner directory.</span></span> <span data-ttu-id="95015-109">若要接收高级特殊化标记，你的业务必须符合一组已发布的条件，并由 Microsoft 进行验证。</span><span class="sxs-lookup"><span data-stu-id="95015-109">To receive an advanced specialization tag, your business must meet a set of published criteria and be validated by Microsoft.</span></span> <span data-ttu-id="95015-110">[了解详细信息](https://partner.microsoft.com/membership/advanced-specialization)。</span><span class="sxs-lookup"><span data-stu-id="95015-110">[Learn more](https://partner.microsoft.com/membership/advanced-specialization).</span></span>
+<span data-ttu-id="e3127-106">通过赚取高级特殊化来与客户进行区分。</span><span class="sxs-lookup"><span data-stu-id="e3127-106">Differentiate with customers by earning an advanced specialization.</span></span> <span data-ttu-id="e3127-107">高级专用化是一种在特定解决方案领域提供高保真服务的能力验证。</span><span class="sxs-lookup"><span data-stu-id="e3127-107">Advanced specializations are a validation of your ability to deliver high-fidelity services in a specific solution area.</span></span> <span data-ttu-id="e3127-108">客户将在你的业务配置文件的合作伙伴目录中看到你的高级专用化。</span><span class="sxs-lookup"><span data-stu-id="e3127-108">Customers will see your advanced specialization displayed on your business profile in the partner directory.</span></span> <span data-ttu-id="e3127-109">[了解详细信息](https://partner.microsoft.com/membership/advanced-specialization)。</span><span class="sxs-lookup"><span data-stu-id="e3127-109">[Learn more](https://partner.microsoft.com/membership/advanced-specialization).</span></span>
 
-## <a name="the-current-advanced-specializations"></a><span data-ttu-id="95015-111">当前高级专业</span><span class="sxs-lookup"><span data-stu-id="95015-111">The current advanced specializations</span></span>
+## <a name="use-partner-center-to-move-through-the-application-process"></a><span data-ttu-id="e3127-110">使用合作伙伴中心在应用程序进程中移动</span><span class="sxs-lookup"><span data-stu-id="e3127-110">Use Partner Center to move through the application process</span></span>
 
-- <span data-ttu-id="95015-112">**采用和更改管理**在提供采用和更改管理服务的同时，提供丰富的经验并获得经验证的成功，同时推动 Microsoft 365 的使用和组织更改。</span><span class="sxs-lookup"><span data-stu-id="95015-112">**Adoption and Change Management** Showcase your extensive experience and proven success in providing adoption and change management services while driving Microsoft 365 usage and organizational change.</span></span>
+<span data-ttu-id="e3127-111">若要获得高级特殊化，你的公司必须已获得调整的金牌能力，并满足其他要求。</span><span class="sxs-lookup"><span data-stu-id="e3127-111">To earn an advanced specialization, your company must have attained an aligned gold competency, and meet other requirements.</span></span> <span data-ttu-id="e3127-112">应用程序过程有两个步骤。</span><span class="sxs-lookup"><span data-stu-id="e3127-112">The application process has two steps.</span></span> <span data-ttu-id="e3127-113">首先，你的公司满足先决条件要求。</span><span class="sxs-lookup"><span data-stu-id="e3127-113">First, your company meets the prerequisite requirements.</span></span> <span data-ttu-id="e3127-114">其次，一旦满足了先决条件要求，就会启用 "**计划审核**" 按钮。</span><span class="sxs-lookup"><span data-stu-id="e3127-114">Second, once the prerequisite requirements are met, the **schedule audit** button is enabled.</span></span> <span data-ttu-id="e3127-115">然后，必须通过审核。</span><span class="sxs-lookup"><span data-stu-id="e3127-115">You must then pass the audit.</span></span> 
 
-- <span data-ttu-id="95015-113">**团队部署**为你的体验和经验证的成功部署 Microsoft 365 团队工作负载提供识别。</span><span class="sxs-lookup"><span data-stu-id="95015-113">**Teamwork Deployment** Earn recognition for your experience and proven success deploying Microsoft 365 Teamwork workloads.</span></span>
+## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a><span data-ttu-id="e3127-116">包含审核的高级特殊化要求：一个示例</span><span class="sxs-lookup"><span data-stu-id="e3127-116">Advanced specialization requirements that include an audit: an example</span></span>
 
-- <span data-ttu-id="95015-114">**为 Microsoft 团队打电话**在部署和管理 Microsoft 365 电话系统以推动客户的商业价值的同时，证明您的专业知识。</span><span class="sxs-lookup"><span data-stu-id="95015-114">**Calling for Microsoft Teams** Prove your expertise in deploying and managing Microsoft 365 Phone System to drive customer business value.</span></span>
+<span data-ttu-id="e3127-117">如果你对称为 " **Web 应用程序 Microsoft Azure 的现代化**" 的高级特殊化感兴趣，请从 "合作伙伴中心" 菜单中选择它。</span><span class="sxs-lookup"><span data-stu-id="e3127-117">If you are interested in the advanced specialization called **Modernization of Web Applications to Microsoft Azure**, select it from the Partner Center menu.</span></span> <span data-ttu-id="e3127-118">你将转到 "先决条件" 页。</span><span class="sxs-lookup"><span data-stu-id="e3127-118">You are taken to the prerequisites page.</span></span>
 
-- <span data-ttu-id="95015-115">**Azure 上的 SAP**在 Azure 解决方案上实施 SAP 时，您有深入的知识、丰富的经验和经验证的成功。</span><span class="sxs-lookup"><span data-stu-id="95015-115">**SAP on Azure** You have deep knowledge, extensive experience, and proven success in implementing SAP on Azure solutions.</span></span> 
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="先决条件":::
 
-- <span data-ttu-id="95015-116">**Windows Server 和 SQL Server 迁移到 Microsoft Azure**提供有关 Azure 中各种 SQL 迁移选项的指导，并演示有关迁移和优化 Windows Server 和基于 SQL Server 的工作负荷以 Microsoft Azure 的专业知识，从而阐明您的知识。</span><span class="sxs-lookup"><span data-stu-id="95015-116">**Windows Server and SQL Server Migration to Microsoft Azure** Demonstrate your depth of knowledge by providing guidance on the various SQL migration options within Azure, and demonstrate expertise in migrating and optimizing Windows Server and SQL Server-based workloads to Microsoft Azure.</span></span> 
 
-- <span data-ttu-id="95015-117">**Linux 和开源数据库迁移到 Microsoft Azure**演示了开源技术的技能，并演示了在将 Red Hat Enterprise Linux （RHEL）或 SUSE 虚拟机上运行的生产工作负荷和/或 MariaDB、PostgreSQL、MySQL、CassandraDB、MongoDB 数据库迁移到 Azure 的专业技能。</span><span class="sxs-lookup"><span data-stu-id="95015-117">**Linux and Open Source Database Migration to Microsoft Azure** Demonstrate you skill in open source technologies and demonstrates expertise in migrating and optimizing production workloads running on Red Hat Enterprise Linux (RHEL) or SUSE virtual machines and/or MariaDB, PostgreSQL, MySQL, CassandraDB, MongoDB databases to Azure.</span></span>
+<span data-ttu-id="e3127-120">在满足所有先决条件之前，状态将保持不变 **。**</span><span class="sxs-lookup"><span data-stu-id="e3127-120">Until you have met all the prerequisites, your status remains **Not started.**</span></span> <span data-ttu-id="e3127-121">满足先决条件后，"**计划审核**" 按钮处于启用状态。</span><span class="sxs-lookup"><span data-stu-id="e3127-121">When you have met the prerequisites, the **Schedule audit** button is enabled.</span></span> <span data-ttu-id="e3127-122">需要使用以下 Azure 高级专用化的第三方审核员完成审核：</span><span class="sxs-lookup"><span data-stu-id="e3127-122">You need to complete an audit with a third-party auditor for the following Azure advanced specializations:</span></span>
+ 
+- <span data-ttu-id="e3127-123">Windows Server 和 SQL Server 迁移到 Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e3127-123">Windows Server and SQL Server Migration to Microsoft Azure</span></span>
+- <span data-ttu-id="e3127-124">Linux 和开源数据库迁移到 Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e3127-124">Linux and Open Source Database Migration to Microsoft Azure</span></span>
+- <span data-ttu-id="e3127-125">数据仓库迁移到 Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e3127-125">Data Warehouse Migration to Microsoft Azure</span></span>
+- <span data-ttu-id="e3127-126">Microsoft Azure 上的 Kubernetes</span><span class="sxs-lookup"><span data-stu-id="e3127-126">Kubernetes on Microsoft Azure</span></span>
+- <span data-ttu-id="e3127-127">要 Microsoft Azure 的 Web 应用程序的现代化</span><span class="sxs-lookup"><span data-stu-id="e3127-127">Modernization of Web Applications to Microsoft Azure</span></span>
 
-- <span data-ttu-id="95015-118">**数据仓库迁移到 Microsoft Azure**你已成功将数据仓库从 Teradata、Netezza 或 Oracle Exadata 迁移到 Azure，并演示分析现有工作负荷、生成架构模型以及执行提取、转换和加载（ETL）操作以将数据迁移到基于云的数据仓库的专业经验。</span><span class="sxs-lookup"><span data-stu-id="95015-118">**Data Warehouse Migration to Microsoft Azure** You have deep experience successfully migrating data warehouses from Teradata, Netezza, or Oracle Exadata to Azure and demonstrates expertise in analyzing existing workloads, generating schema models and performing extract, transform, and load (ETL) operations to migrate data to cloud-based data warehouses.</span></span>
 
-- <span data-ttu-id="95015-119">**Microsoft Azure 上的 Kubernetes**使用 DevOps 做法实现 AKS 实现，并演示使用容器在云中部署和管理生产工作负荷的专业知识，并在 Microsoft Azure 中管理托管的 Kubernetes 环境。</span><span class="sxs-lookup"><span data-stu-id="95015-119">**Kubernetes on Microsoft Azure** You employ DevOps practices for AKS implementations and demonstrates expertise in deploying and managing production workloads in the cloud using containers and managing hosted Kubernetes environments in Microsoft Azure.</span></span>
+<span data-ttu-id="e3127-128">完成所有要求后，状态将为 "**活动**"。</span><span class="sxs-lookup"><span data-stu-id="e3127-128">When you have completed all the requirements, your status is **Active**.</span></span> <span data-ttu-id="e3127-129">"活动状态" 将自动启用**业务配置文件**上的标记，该标记对搜索 "[查找解决方案提供程序](https://www.microsoft.com/solution-providers/home)" 的所有客户可见。</span><span class="sxs-lookup"><span data-stu-id="e3127-129">Active status automatically enables a tag on your **Business profile** that is visible to all customers searching [Find a solution provider](https://www.microsoft.com/solution-providers/home).</span></span>
 
-- <span data-ttu-id="95015-120">**Microsoft Azure 中的 Web 应用程序的现代化**确保客户在应用程序开发中取得成功，并熟悉内容管理系统。</span><span class="sxs-lookup"><span data-stu-id="95015-120">**Modernization of Web Applications in Microsoft Azure** You ensure customer success in application development, and familiarity with content management systems.</span></span> <span data-ttu-id="95015-121">他们可以专业地展示如何在 Microsoft Azure 中迁移和部署生产 Web 应用程序工作负荷、应用 DevOps 实践，以及管理应用程序服务。</span><span class="sxs-lookup"><span data-stu-id="95015-121">Demonstrate expertise in migrating and deploying production web application workloads, applying DevOps practices, and managing application services in Microsoft Azure.</span></span>
+## <a name="prerequisites-that-include-customer-references-an-example"></a><span data-ttu-id="e3127-130">包括客户引用的先决条件：一个示例</span><span class="sxs-lookup"><span data-stu-id="e3127-130">Prerequisites that include customer references: an example</span></span>
 
- ## <a name="next-steps"></a><span data-ttu-id="95015-122">后续步骤</span><span class="sxs-lookup"><span data-stu-id="95015-122">Next steps</span></span>
+<span data-ttu-id="e3127-131">需要客户参考的高级特殊化的示例是**Microsoft 团队的会议和会议室**。</span><span class="sxs-lookup"><span data-stu-id="e3127-131">An example of an advanced specialization that requires customer references is **Meetings and Meeting Rooms for Microsoft Teams**.</span></span> <span data-ttu-id="e3127-132">除了金牌资格、认证和性能要求之外，您还必须提供三个客户参考，以演示您的部署和管理能力。</span><span class="sxs-lookup"><span data-stu-id="e3127-132">In addition to gold competency, certifications, and a performance requirement, you must provide three customer references that demonstrate your ability to deploy and manage.</span></span>
 
- <span data-ttu-id="95015-123">了解[金牌和银牌成员资格的 Microsoft 资格要求](learn-about-competencies.md)</span><span class="sxs-lookup"><span data-stu-id="95015-123">Learn about [Microsoft competency requirements for Gold and Silver membership](learn-about-competencies.md)</span></span>
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="先决条件":::
+
+<span data-ttu-id="e3127-134">在满足所有先决条件之前，状态将保持不变 **。**</span><span class="sxs-lookup"><span data-stu-id="e3127-134">Until you have met all the prerequisites, your status remains **Not started.**</span></span> <span data-ttu-id="e3127-135">完成所有要求后，状态将为 "**活动**"。</span><span class="sxs-lookup"><span data-stu-id="e3127-135">When you have completed all the requirements, your status is **Active**.</span></span> <span data-ttu-id="e3127-136">"活动状态" 将自动启用**业务配置文件**上的标记，该标记对搜索 "[查找解决方案提供程序](https://www.microsoft.com/solution-providers/home)" 的所有客户可见。</span><span class="sxs-lookup"><span data-stu-id="e3127-136">Active status automatically enables a tag on your **Business profile** that is visible to all customers searching [Find a solution provider](https://www.microsoft.com/solution-providers/home).</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="e3127-137">后续步骤</span><span class="sxs-lookup"><span data-stu-id="e3127-137">Next steps</span></span>
+
+- <span data-ttu-id="e3127-138">了解如何获取 microsoft 资格要求[microsoft 的金牌和银牌成员资格要求](learn-about-competencies.md)</span><span class="sxs-lookup"><span data-stu-id="e3127-138">Learn about attaining Microsoft competency requirements [Microsoft competency requirements for Gold and Silver membership](learn-about-competencies.md)</span></span>
+
+- <span data-ttu-id="e3127-139">了解[高级专用](https://partner.microsoft.com/membership/advanced-specialization)化。</span><span class="sxs-lookup"><span data-stu-id="e3127-139">Learn about [advanced specializations](https://partner.microsoft.com/membership/advanced-specialization).</span></span>
