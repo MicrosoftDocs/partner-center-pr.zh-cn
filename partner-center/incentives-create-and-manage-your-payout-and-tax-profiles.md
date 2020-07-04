@@ -1,19 +1,19 @@
 ---
-title: 在合作伙伴中心创建和管理支出和税务配置文件
+title: 在合作伙伴中心创建和管理付款资料和税务资料
 ms.topic: article
 ms.date: 06/29/2020
 description: 你必须先创建支出和税务配置文件，然后才能支付奖励。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: b7f99ff64b6cdabe8b59607e5820daf0909050f1
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719343"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949683"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>合作伙伴中心的支出和税务配置文件
 
@@ -29,7 +29,7 @@ ms.locfileid: "85719343"
 - 计费管理员
 - 全局管理员
 
-## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理支出和税务配置文件
+## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理付款资料和税务资料
 
 以下各节将引导你完成在合作伙伴中心创建和管理付款和税务配置文件的过程。
 
@@ -85,11 +85,11 @@ ms.locfileid: "85719343"
     **银行帐户位置：** 公司银行所在的国家/地区。
     **付款方式：** 首选付款方式适用于合作伙伴中心是电子银行传输。
 
-2. 选择“**下一页**”。
+2. 选择“下一步”。
 
 3. 在 "**银行帐户**" 页上，输入你的信息。 此页上显示的字段将因国家/地区而异。 
 
-4. 选择“**下一页**”。
+4. 选择“下一步”。
 
 5. 在 "**受益人**" 页上，输入适当的信息。 受益人是公司中的人员如果需要讨论你的帐户，则会联系到银行。
 
@@ -116,7 +116,7 @@ ms.locfileid: "85719343"
    - 如果你的公司仅合并到美国中，或者如果此配置文件适用于个人，请选择左侧的选项。 
    - 如果你的公司在美国外合并，则选择右侧的选项，然后从列表中选择你所在的国家/地区。
 
-3. 选择“**下一页**”。 
+3. 选择“下一步”。 
 
 4. 在 "**税状态**" 页上，输入所需信息，然后选择 "**下一步**"。 此页上的字段将因国家/地区而异。 详细信息。 
 
@@ -170,6 +170,6 @@ ms.locfileid: "85719343"
 
 当某一 MPN 位置参与其他奖励计划时，将重用为该 MPN 位置创建的税务配置文件并且会自动进行填充。 但是可能存在例外情况。 例如，新的奖励计划的付款规则可能需要其他的税务配置文件详细信息。  
 
-### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>我只能用我的 @onmicrosoft.com 域登录。 我该怎么办？
+### <a name="i-am-only-able-to-log-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>我只能用我的 @onmicrosoft.com 域登录。   应采取何种操作？
 
 请联系你的帐户管理员，将其他域添加到 AAD 帐户。

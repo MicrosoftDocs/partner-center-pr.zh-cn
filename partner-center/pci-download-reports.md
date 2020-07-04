@@ -5,17 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 浏览合作伙伴中心统一报表仪表板。
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 Keywords: 合作伙伴中心见解，报表，下载报表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072450"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948864"
 ---
 # <a name="download-reports"></a>下载报表
 
@@ -23,7 +23,7 @@ ms.locfileid: "85072450"
 - 主管人员报表查看器
 - 报表查看器
 
-## <a name="introduction"></a>简介
+## <a name="introduction"></a>介绍
 
 利用 "Insights" 仪表板中的 "下载报表" 中心，你可以导出以制表符分隔值（TSV）格式提供合作伙伴中心见解报表的原始数据集。 这使您可以根据业务需求对数据进行更深入的分析。
 

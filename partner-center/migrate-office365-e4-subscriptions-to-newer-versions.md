@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企业版 E4 版本自 2017 年 4 月 7 日起已停用。 了解如何将你的客户订阅迁移到较新版本的 Office 365。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795763"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949044"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
@@ -56,7 +56,7 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 
 | 功能 | 选项 1 | 方法 2 | 选项 3 | 选项 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| 获取 Office 365 企业版 E4 中包含的所有功能？ | 是 | 是 | 是 | 否 |
+| 获取 Office 365 企业版 E4 中包含的所有功能？ | 是 | 是 | 是 | No |
 | 在 Office 365 中管理电话号码？ | 是 | 是 | 否 | 否 |
 | 在本地和 Office 365（混合部署）中管理电话号码？ | 是 | 是 | 否 | 否 |
 | 选项用于添加 PSTN 语音通话套餐？ | 是 | 是 | 否 | 否 |
@@ -91,7 +91,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 3. 在**管理许可证**页面上，清除 **Office 365 企业版 E4** 许可证复选框，然后选择客户要迁移到的订阅的新服务计划。
 
-4. 选择“提交”  。 确认页面列出了新的许可证分配。
+4. 选择“提交”。 确认页面列出了新的许可证分配。
 
 5. 对其他任何需要重新分配许可证的客户用户继续执行相同的步骤。
 
@@ -103,7 +103,7 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 2. 在 "订阅详细信息" 页中，将订阅状态设置为 "已**挂起**"。
 
-3. 选择“提交”  。
+3. 选择“提交”。
 
 旧订阅已暂停，新订阅将激活。 暂停的订阅在 120 天后将自动取消预配。 不会向客户收取旧订阅的任何额外成本。
 

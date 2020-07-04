@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: MPN 合作伙伴可以在合作伙伴中心、合作伙伴全局帐户（PGA）和合作伙伴位置帐户（PLA）中了解两个帐户级别。
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28495c35235883ba36204105d06d5996b4101d9f
-ms.sourcegitcommit: acb8c982a6724797d2fcb4e0f01a31cfd1425126
+ms.openlocfilehash: 5aeb8daebbb27492981945573126733a0ccbcd35
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84977227"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947478"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作伙伴中心为 MPN 合作伙伴提供两个级别的帐户
 

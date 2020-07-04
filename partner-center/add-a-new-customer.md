@@ -5,19 +5,19 @@ ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心添加新的客户记录。 然后，你可以销售客户订阅、管理计费或提供客户支持。
-author: LauraBrenner
-ms.author: labrenne
+author: parthp
+ms.author: parthp
 keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fcfb35585dc145917614f4557465cb2661dd254a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991114"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947442"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作伙伴中心添加新的客户记录
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作伙伴中心添加新客户记录
 
 **适用于**
 
@@ -70,6 +70,6 @@ ms.locfileid: "84991114"
 
 ## <a name="next-steps"></a>后续步骤
 
-- 若要详细了解如何通过云解决方案提供商计划向客户销售产品，请参阅[云解决方案提供商计划中的合作伙伴产品/服务](csp-offers.md)。
+- 若要详细了解如何通过云解决方案提供商计划向客户销售产品，请参阅[云解决方案提供商计划中的合作伙伴产品/服务](csp-offers.md)
 
 - 有关将新客户关联到合作伙伴帐户的详细信息，请参阅[与客户联系](customer-accounts.md)。

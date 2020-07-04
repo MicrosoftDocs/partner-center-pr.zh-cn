@@ -5,21 +5,21 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划合作伙伴如何使用合作伙伴中心过渡到间接经销商。
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 ms.localizationpriority: medium
 keywords: 直接计费，过渡，间接经销商
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679444"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949216"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商
 
-**适用对象：**
+**适用于：**
 
 - 云解决方案提供商合作伙伴
 
@@ -95,7 +95,7 @@ ms.locfileid: "84679444"
 
 2. 选择“邀请新客户”  以邀请客户同时与你和间接提供商建立经销商关系。 提供商需要与客户建立分销商关系，因此，当客户想要购买新订阅或向现有订阅添加新许可证时，他们可以代表客户提交订单。
 
-3. 在下一页上，查看草稿电子邮件。 可以通过电子邮件打开草稿邮件，也可以将邮件复制到剪贴板，然后将其粘贴到电子邮件中。
+3. 在下一页上，查看电子邮件草稿。 可以通过电子邮件打开草稿邮件，也可以将邮件复制到剪贴板，然后将其粘贴到电子邮件中。
 
 4. 编辑电子邮件中的文本以说明所需内容，但请确保在个性化的同时将该链接连接到帐户和提供商的帐户。 然后选择“完成”****。
 
@@ -179,7 +179,7 @@ ms.locfileid: "84679444"
 
 4. 在弹出对话框中，选择要与客户建立分销商关系的**间接提供商**。
 
-5. 单击“保存并继续”  。
+5. 单击“保存并继续”。
 
 6. 验证所选的间接提供程序是否以**间接提供程序**显示。
 
@@ -195,7 +195,7 @@ ms.locfileid: "84679444"
 
     :::image type="content" source="images/direct/direct6.png" alt-text="邀请新客户":::
 
-3. 在下一页上，查看草稿电子邮件。 可以通过电子邮件打开草稿邮件，也可以将邮件复制到剪贴板，然后将其粘贴到电子邮件中。
+3. 在下一页上，查看电子邮件草稿。 可以通过电子邮件打开草稿邮件，也可以将邮件复制到剪贴板，然后将其粘贴到电子邮件中。
 
 4. 编辑电子邮件中的文本以说明所需内容，但请确保在个性化的同时将该链接连接到帐户和提供商的帐户。 然后选择“完成”****。
 
@@ -278,7 +278,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="创建传输请求":::
 
-8. 单击“创建”。
+8. 单击**创建**。
 
 9. "**订阅传输**" 下将显示一个有效的订阅传输请求。
 

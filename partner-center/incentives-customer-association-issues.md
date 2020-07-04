@@ -4,16 +4,16 @@ description: 了解如何解决在使用声明的记录合作伙伴（CPOR）客
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e5ad52e128aba9884fafea3900a3c03d31d4868f
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: cda0b9d29c351e5365a0ff291f66ee5e2fa91ae7
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719306"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949656"
 ---
 # <a name="customer-association-issues"></a>客户关联问题
 
@@ -62,9 +62,9 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 | 解决方案领域 | 活动 | 适用于 |
 | ------ | ----------- | ----------- |
 | 业务应用程序      | 前   | 如果你影响其对符合条件的产品的购买，并想要申请售前奖励，请选择此项。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
-|    |  使用情况  | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
+|    |  用法  | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
 |    | 收入关联   | 如果影响其对符合业务影响的产品，请选择此项。 此选项仅适用于收入协会，不适用于激励支付。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。   |
-| Microsoft 365   | 使用情况   | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 |
+| Microsoft 365   | 用法   | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 |
 
 ## <a name="which-mpn-do-i-choose"></a>我 MPN 选择哪一种？
 

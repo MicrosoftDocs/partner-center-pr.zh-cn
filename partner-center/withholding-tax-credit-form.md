@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 description: 请确保通过在合作伙伴中心创建预缴税金请求，为你的合作伙伴中心帐户贷记预缴税金。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: 预缴税金信用，税收信用，德语税务贷方形式，税务证书
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7fa10b20d7d7b3c89726fd08b3dd5dbaa1b89cbb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991658"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949574"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>如果你支付本地税务主管机构而不是 Microsoft，请确保为预缴税金贷记
 

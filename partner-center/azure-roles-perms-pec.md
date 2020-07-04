@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作伙伴可以获得合作伙伴获得的信用额度（PEC）的角色和权限。 这些角色不同于合作伙伴中心的角色。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f84f1998258b0187537bac61edba9c6465aeb8e
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: c0f4e99dab2c898564941e926fc6d754547d66c1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908975"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948259"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>符合合作伙伴获得的信用额度的角色和权限
 
@@ -28,7 +28,7 @@ ms.locfileid: "84908975"
 |所有者  |您可以管理所有内容，包括对资源的访问权限。|是|
 |参与者 |除授予资源访问权限外，你还可以管理所有内容。|是|
 |读取器|您可以查看所有内容，但不能进行任何更改|否|
-|ACRDelete|acr delete|是|
+|ACRDelete|acr 删除|是|
 |ACRImageSigner|ACR 映像签名程序|是|
 |ACRPull|acr 拉取|是|
 |AcrPush|acr 推送|是|

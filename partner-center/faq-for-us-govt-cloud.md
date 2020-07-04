@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 有关适用于美国政府的 Microsoft 云云解决方案提供商（CSP）计划，请参阅常见问题解答（FAQ）。
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ee7a0877a67c744ec77035017181aeaa458833c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 67bdaebcf87f147d45c87eda605559e41334b9a9
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798345"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947528"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 
@@ -21,7 +21,7 @@ ms.locfileid: "82798345"
 
 -  Microsoft Cloud for US Government 合作伙伴中心
 
-## <a name="frequently-asked-questions"></a>常见问题解答 
+## <a name="frequently-asked-questions"></a>常见问题 
 
 使用这些常见问题解答了解关于 Microsoft Cloud for US Government 云解决方案提供商 (CSP) 计划的详细信息。 你还可以联系你的帐户管理员以了解更多信息。 
 
@@ -37,11 +37,11 @@ ms.locfileid: "82798345"
 
 **客户定价是否与商业云解决方案提供商计划相同？**
 
-不能。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
+否。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
 
 **合作伙伴折扣模式是否相同？**
 
-可以。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴折扣模式与商业云解决方案提供商计划相同。
+是的。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴折扣模式与商业云解决方案提供商计划相同。
 
 **CSP 商业版是一个现有的合作伙伴计划。Microsoft 政府云的 CSP 计划有何不同？**
 
@@ -103,11 +103,11 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 
 **合作伙伴奖励机制是否有任何不同？**
 
-不能。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
+否。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
 
 **计费方式是否有任何变化？**
 
-不能。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
+否。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
 
 **在商业数据中心托管的数据是否可以迁移到 Microsoft Cloud for US Government？**
 

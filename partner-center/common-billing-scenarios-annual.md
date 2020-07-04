@@ -3,17 +3,17 @@ title: 年度计费-常见方案
 ms.topic: article
 ms.date: 05/05/2020
 description: 合作伙伴中心年度计费-添加新订阅时，请在计费日期、更改许可证数量或暂停/重新激活订阅之前添加许可证。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 447b8331e1d6e6e274915558e28ca59f50e8de09
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: ab6eabf44e5d3811721993e20b78e3038c80e828
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908885"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948044"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>合作伙伴中心的常见年度计费方案
 

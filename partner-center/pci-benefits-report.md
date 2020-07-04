@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你已获得哪些类型的 Microsoft 合作伙伴权益，以帮助拓展你的业务，提高效率并增强团队的技能。
 keywords: PCI，性能，度量，优点，分析，报告
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e43545e65d877debeb5b85713b5b900b4b49921
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908695"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949389"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的福利报表
 
@@ -32,7 +32,7 @@ ms.locfileid: "84908695"
 
 可以在 "权益" 报表中可视化以下图表：
 
-- 摘要
+- 总结
 - 已授予云服务
 - 软件产品
 - Visual Studio 订阅

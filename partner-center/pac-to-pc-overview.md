@@ -1,7 +1,7 @@
 ---
 title: 从合作伙伴管理中心移动
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 合作伙伴管理员中心功能正在向合作伙伴中心迁移。
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: PAC，Office 365 Advisor，顾问，联合合作伙伴，PAC 停用，PAC 停用
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 5c1c7fd216c96fec12d94c94d5fcf2367ce266ea
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998403"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879316"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作伙伴管理中心正在向合作伙伴中心迁移
 

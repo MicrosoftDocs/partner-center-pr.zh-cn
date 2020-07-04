@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何针对从合作伙伴中心内的商业市场为客户购买的 ISV SaaS 产品或订阅付费。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 订阅，产品，购买，Marketplace，第三方，ISV，计费，发票，协调，侦测文件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394158"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947819"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 
@@ -44,7 +44,7 @@ CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解�
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/)。
 
-2. 在“合作伙伴中心”菜单中，选择“计费”。  
+2. 在“合作伙伴中心”菜单中，选择“计费”。 
 
     你将在帐单页的顶部看到两个选项卡：**定期**、**定期和一次性购买**。 每个选项卡允许您访问不同 marketplace 产品的发票和对帐（侦测）文件：
 
@@ -73,7 +73,7 @@ CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解�
 
 - Azure 计划
 
-- Azure 预订
+- Azure 预留项
 
 - 其他基于订阅的软件（来自 Microsoft 或 ISV 发布者）
 

@@ -5,17 +5,17 @@ ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你在合作伙伴中心帐单页上看到的未分配付款。 了解如何将它们应用于发票。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 计费，付款，付款，未分配付款
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bcb23a338b4298982749f34341f60a392f4f8e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603606"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949585"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>管理合作伙伴中心帐单页上的未分配付款
 

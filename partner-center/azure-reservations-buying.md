@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: azure, 预订, 管理, 计费, 购买
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104109"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948324"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
 
@@ -33,7 +33,7 @@ ms.locfileid: "85104109"
 - 销售代理
 - “用户管理”管理员
 
-## <a name="before-you-begin"></a>开始之前
+## <a name="before-you-begin"></a>在开始之前
 
 请先查看下面的重要信息，再代表客户购买 Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。）
 
@@ -56,7 +56,7 @@ ms.locfileid: "85104109"
 ## <a name="azure-reservations-unavailable-markets"></a>不可使用 Azure 预留的市场
 
 > [!IMPORTANT]
-> Azure 预留在以下市场中不可用：   
+> Azure 预留在以下市场中不可用：  
 >  
 > **不可用市场（按字母顺序）**
 >

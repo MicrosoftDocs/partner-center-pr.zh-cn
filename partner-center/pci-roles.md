@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解查看合作伙伴中心见解报表所需的特定角色。 其中包括高级报表查看器和报表查看器的角色。
 keywords: PCI，性能，客户成功，量化指标，角色
-author: LauraBrenner
-ms.author: labrenne
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: aaa3552a7c0a3d15674ac0178fc98375b9cd1b0b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992069"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948725"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板的基于角色的访问控制
 

@@ -5,19 +5,19 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为合格的 Microsoft 合作伙伴，你可以与 Microsoft 共同销售。 了解如何定义预订、邀请 Microsoft 协作或查看已发送的预订。
-author: JnHs
+author: sroy
 ms.author: jenhayes
 keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721494"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948055"
 ---
-# <a name="co-sell-with-microsoft"></a>与 Microsoft 共同销售
+# <a name="co-sell-with-microsoft"></a>与 Microsoft 联合销售
 
 **适用于**
 

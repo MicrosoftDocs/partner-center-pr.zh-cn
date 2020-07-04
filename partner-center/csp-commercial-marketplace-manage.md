@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用合作伙伴中心，了解云解决方案提供商可以如何管理从商业市场为客户购买的第三方 ISV 产品/服务。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 订阅，Marketplace，第三方，ISV，SaaS 服务，云解决方案提供商计划，管理产品/服务，管理订阅，许可证，取消订阅，座位，关闭自动续订，间接经销商 MPN ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 484d99bda87ddcfa960b66f5b27a07d943fe1ebe
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937627"
+ms.locfileid: "85947753"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>为客户管理商业 marketplace 产品和产品/服务
 

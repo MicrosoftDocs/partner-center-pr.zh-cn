@@ -4,16 +4,16 @@ description: 了解管理声明的记录合作伙伴（CPOR）客户关联的重
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719308"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949502"
 ---
 # <a name="manage-customer-associations"></a>管理客户关联
 
@@ -52,7 +52,7 @@ ms.locfileid: "85719308"
 
 | 报销申请状态 | 出现在 |
 | ------ | ----------- | 
-|  正在编辑  | 已创建你的 CPOR 关联声明。 它将保持此状态，直到上传执行证明文档并提交声明以供审批。   |
+|  编辑  | 已创建你的 CPOR 关联声明。 它将保持此状态，直到上传执行证明文档并提交声明以供审批。   |
 |  已提交  | 合作伙伴已成功提交其 CPOR 关联声明，但 Microsoft 尚未开始审核过程。   |
 |  正在评审  | Microsoft 已开始验证你的 PoE 文档。 我们可能会与你联系以了解更多详细信息。 审查流程 SLA 为5个工作日。  |
 |  已拒绝  | 你的 PoE 不足，或者你没有在5个工作日内按照 PoE 审核指导原则进行响应，该声明已被拒绝。   |
@@ -69,17 +69,19 @@ ms.locfileid: "85719308"
 
 - 缺少产品 - PoE 不包含要求声明的产品或工作负载 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>将 CPOR 关联声明的状态争议
 
-若要争议 CPOR 关联声明的状态，请与[支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人员联系，并向支持团队提供以下信息：
+如果你的 CPOR 关联声明已拒绝，你将有30天的时间来对拒绝进行争议。 收到通知时，收到的电子邮件还会告诉你可以查看拒绝原因的位置，以及如何对其进行争议。  
 
-- MPN ID
-- 激励计划名称 
-- CPOR 关联声明 ID 
-- 产品-对于 Business Applications，请提供 Dynamics 产品和订阅。 对于 M365，请提供工作负载。 
-- 客户租户 ID
-- 问题详细信息
+如果已超过30天，但你仍想要对拒绝的声明进行争议，则需要提交新的关联（PoE）。 
+
+### <a name="to-dispute-a-rejected-claim"></a>对已拒绝的声明进行争议
+
+1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+2. 打开要对其进行争议的声明。
+3. 在 "声明" 页上，选择 "**争议**"。
+4. 输入业务理由，并/或已更新的 PoE，解释拒绝应很少见的原因。
+5. 添加完信息后，选择 "**争议**"。 我们的审阅者应在5个工作日内与你联系。
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>拒绝 CPOR 关联声明的原因
 

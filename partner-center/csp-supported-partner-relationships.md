@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中合作伙伴的不同合作伙伴关系和支持的交易方案。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: 间接分销商、间接提供商、直接帐单、直接帐单合作伙伴、云解决方案提供商计划、CSP 计划、CSP 合作伙伴、CSP 事务
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5da1cdd30563b57badd2aaec619c5e53ca93641
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83398332"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947635"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>了解合作伙伴如何与 CSP 计划中的其他合作伙伴协作
 

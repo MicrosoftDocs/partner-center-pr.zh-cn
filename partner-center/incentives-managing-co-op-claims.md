@@ -3,17 +3,17 @@ title: 管理合作声明
 description: 了解合作声明过程，包括截止时间、货币问题，以及如何对拒绝的合作声明进行争议。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719309"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949496"
 ---
 # <a name="manage-co-op-claims"></a>管理合作声明
 
@@ -27,7 +27,7 @@ ms.locfileid: "85719309"
 
 - 奖励管理员
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作申报批准和付款截止时间
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作申请批准和付款的截止时间
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>我的合作声明将在何时获得批准？
 

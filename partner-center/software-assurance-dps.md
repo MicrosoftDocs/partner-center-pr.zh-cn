@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在 Microsoft 规划服务预订中注册和限定，以便您可以向具有软件保障的客户提供培训和其他服务。
-author: LauraBrenner
-ms.author: labrenne
+author: mowrim
+ms.author: mowrim
 Keywords: 预部署、规划、软件保障
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29ceef8ab082e2520ea050f759711fd4d15beec0
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: bc18e4787194e8933aec95dfff278a7e8bb87f5d
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425926"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949598"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 
@@ -26,7 +26,7 @@ ms.locfileid: "84425926"
 
 作为已批准的规划服务合作伙伴，Microsoft 将为你提供适用于企业客户的预先部署规划计划。 参与此计划可帮助你吸引更多客户、成为其受信任的规划合作伙伴，并导致其他客户服务。
 
-## <a name="get-started"></a>开始使用
+## <a name="get-started"></a>入门
 
 如果你不熟悉软件保障规划服务，请执行以下所有步骤。 如果你已在计划服务程序中处于活动状态，请在下面的步骤4（4）开始每个新的参与。
 

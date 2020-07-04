@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 销售 Minecraft 教育版订阅，使其能够从 Microsoft 教育商店下载它们。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: 授权教育合作伙伴、教育、教育培训、学校
 ms.localizationpriority: medium
-ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004546"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949004"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
@@ -45,7 +45,7 @@ ms.locfileid: "75004546"
   
   3.  选择最适合你的需求的计费频率，然后在**目录**部分选择**教育**。
 
-  4.  选择你希望代表客户购买的我的世界订阅，并输入许可证编号。 选择**下一步: 审查**。
+  4.  选择你希望代表客户购买的我的世界订阅，并输入许可证编号。 在完成时选择“下一步:  查看”。
 
       >[!NOTE]
       >你将能够在合作伙伴中心查看和管理这些许可证。 你的客户将从 [Minecraft: Education Edition 详细信息页](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6)（必须登录到适用于教育的 Microsoft Store 才能看到此详细信息页）下的清单查看和管理这些许可证。 

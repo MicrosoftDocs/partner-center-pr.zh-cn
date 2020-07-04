@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 为多合作伙伴、多通道方案请求与客户的关系，或者如果对客户的委派管理员权限需要还原，则为。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104093"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949242"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求分销商关系
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求经销商关系
 
 **适用于**
 
@@ -34,9 +34,9 @@ ms.locfileid: "85104093"
 
 1. 从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。   
 
-2. 若要请求此客户的管理员权限，请选择 "**包括 Azure Active Directory 和 Office 365 的委派管理权限**"。 若要在不请求管理员权限的情况下建立关系，请清除此选项。
+2. 若要请求此客户的管理员权限，请选择 "**包括 Azure Active Directory 和 Office 365 的委派管理权限**"。 如果要建立关系但不请求管理员权限，请清除此选项。
 
-3. 在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，也可以将邮件复制到剪贴板，然后将它粘贴到电子邮件中。
+3. 在下一页上，查看电子邮件草稿。 可以在默认的电子邮件应用程序中打开邮件草稿，也可以将其复制到剪贴板，然后将其粘贴到电子邮件中。
 
    你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 完成此步骤后选择“完成”。
 

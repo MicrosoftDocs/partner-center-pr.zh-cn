@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 当你遇到 Microsoft 服务问题或合作伙伴中心问题时，可以向 Microsoft 反映以寻求帮助，并跟踪该问题直到它得到解决为止。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 99017a5374c8155564b3d784106ff5918423c548
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b359a3b70b767511f95e0c52bacacfc37e0d1aa6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992140"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949153"
 ---
 # <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft 的支持-何时上报问题、如何报告问题，或如何检查服务运行状况
 

@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解针对商业应用商店中的 CSP 合作伙伴购买的第三方 ISV 产品的订阅条款、条件和协定。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 订阅，Marketplace，第三方，ISV，CSP 合作伙伴计划，合同，销售，购买，
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f373c29fb52252014af262e530e364fe9f08782
-ms.sourcegitcommit: 49defc58454176078a185bcd8d31b01a2b74b882
+ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/03/2020
-ms.locfileid: "85937621"
+ms.locfileid: "85947788"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>适用于在商业市场中开展业务的 CSP 合作伙伴的合同
 

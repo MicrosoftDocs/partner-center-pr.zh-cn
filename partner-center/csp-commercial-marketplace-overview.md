@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在 marketplace 中向客户的独立软件供应商（Isv）销售 "软件即服务" （SaaS）产品/服务。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 订阅，Marketplace，第三方，ISV，SaaS，许可证
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908094"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947728"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心的商业市场概述
 
@@ -38,7 +38,7 @@ ms.locfileid: "82908094"
 
 如果你是 CSP 计划中的合作伙伴，你可能想要执行许多适用于 ISV 产品/服务的商业市场活动。 请参阅下表以了解有关每个活动的详细信息。
 
-|**如果要**  |**读取**   |
+|**如果你想要**  |**读取**   |
 |:------------------------------------|:------------------|
 |了解如何查看或搜索可用产品/服务、定价、产品详细信息或发布者联系信息 | [发现产品](csp-commercial-marketplace-discover.md) | 
 |了解如何购买和部署产品/服务   | [购买优惠](csp-commercial-marketplace-purchase.md)   | 
@@ -69,7 +69,7 @@ ms.locfileid: "82908094"
 
 若要了解在何处完成基于许可证或基于使用的 ISV 产品/服务的特定市场活动，请参阅下表。
 
-|**适用于基于许可证的 SaaS 提供商**  |**用法**  |
+|**适用于基于许可证的 SaaS 提供商**  |**使用**  |
 |:------------------------------------|:------------------|
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
@@ -77,7 +77,7 @@ ms.locfileid: "82908094"
 |取消/续订提议订阅或添加/删除座位 | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |创建用户或管理权限  | ISV 发布者的系统或网站  |
 
-|**基于使用情况的 Isv 提供的产品/服务**  |**用法**  |
+|**基于使用情况的 Isv 提供的产品/服务**  |**使用**  |
 |:------------------------------------|:------------------|
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板、合作伙伴中心 Api 或 Azure 门户  |
 |购买产品/服务  | Azure 门户  |

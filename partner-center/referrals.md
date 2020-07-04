@@ -5,20 +5,18 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何创建业务配置文件，通过合作伙伴中心的 "引用" 功能生成销售线索，然后对这些引用做出响应。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 引荐, 业务配置文件, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 7656b6cdf5c051abbd28420d228877da313503c5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198615"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949294"
 ---
-<!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
-
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>通过 Microsoft 的引荐来拓展业务
 
 **适用于**
