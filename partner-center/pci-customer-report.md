@@ -41,7 +41,7 @@ ms.locfileid: "85949369"
 - <span data-ttu-id="ceed7-120">在所选日期范围内拒绝客户的百分比</span><span class="sxs-lookup"><span data-stu-id="ceed7-120">Decline % of customers during the selected date range</span></span> 
 - <span data-ttu-id="ceed7-121">微图按月显示客户在所选日期范围内计数的趋势</span><span class="sxs-lookup"><span data-stu-id="ceed7-121">Micro chart presents month over month trend of customers count over the selected date range</span></span>
 
-  :::image type="content" source="images/pci/customerproduct.png" alt-text=""客户摘要" 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="客户摘要仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
 
 <span data-ttu-id="ceed7-123">**活动客户**：</span><span class="sxs-lookup"><span data-stu-id="ceed7-123">**Active Customers**:</span></span>
 
@@ -86,7 +86,7 @@ ms.locfileid: "85949369"
 
 <span data-ttu-id="ceed7-162">在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。</span><span class="sxs-lookup"><span data-stu-id="ceed7-162">Monthly trend of the distribution of your customers during the selected date range by markets, segments, your MPN locations and products they have acquired.</span></span> <span data-ttu-id="ceed7-163">单击图表中的相应选项卡，按这些类别查看趋势。</span><span class="sxs-lookup"><span data-stu-id="ceed7-163">Click on the respective tabs in the chart to view the trend by these categories.</span></span> <span data-ttu-id="ceed7-164">X 轴表示所选日期范围的月份，Y 轴包含所选类别（选项卡选择）的客户计数。</span><span class="sxs-lookup"><span data-stu-id="ceed7-164">X-axis represents the months for the date range you have selected, and Y-axis has the count of customers for the selected category (Tab selection).</span></span> <span data-ttu-id="ceed7-165">您可以将鼠标悬停在图表列上以查看每个堆栈的细分情况值。</span><span class="sxs-lookup"><span data-stu-id="ceed7-165">You can hover on the chart columns to view the values breakup of each stack.</span></span> <span data-ttu-id="ceed7-166">您可以在图表顶部利用滑块来放大到特定时间段。</span><span class="sxs-lookup"><span data-stu-id="ceed7-166">You can leverage slider on top of the chart to zoom in to a specific period.</span></span>   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text=""客户分发趋势" 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="客户分发趋势报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
 
 <span data-ttu-id="ceed7-168">**活动客户**</span><span class="sxs-lookup"><span data-stu-id="ceed7-168">**Active customers**</span></span>
 
