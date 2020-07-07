@@ -9,12 +9,11 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
-ms.translationtype: HT
+ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
+ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879091"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "86032485"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +21,7 @@ ms.locfileid: "85879091"
 
 | **类别** | **2020 年 7 月公告** | **已公布** |
 |---------|:---------|:---------|
+| 产品/市场 | [适用于 Teams 的新的 Microsoft 365 企业语音 SKU](2020-july.md#4) | 7 月 3 日 |
 | 产品/市场 | [新的和以停用的 Microsoft Dynamics 365 和 Power Platform 产品及服务](2020-july.md#3) | 7 月 1 日 |
 | 产品/市场 | [Microsoft 已结束 Microsoft Kaizala Pro 独立 SKU 的销售](2020-july.md#2) | 7 月 1 日 |
 | 功能 | [CSP 奖励计划延长到 2021 财年第 1 季度](2020-july.md#1) | 7 月 1 日 |
