@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心，了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 keywords: 合作伙伴帐户, 位置
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909055"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949663"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>在合作伙伴中心管理合作伙伴帐户位置并添加新位置
 

@@ -5,17 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解哪些角色最适合你所在公司的用户，这些用户在合作伙伴中心管理商业交易、引荐、奖励或 MPN 成员资格。
-author: LauraBrenner
-ms.author: labrenne
+author: hemas
+ms.author: hemas
 keywords: 角色, 权限, 管理员, 代理
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4f4ec3a1a14e6845f7b6079e286876d9bb1f3dd5
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795885"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948593"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 

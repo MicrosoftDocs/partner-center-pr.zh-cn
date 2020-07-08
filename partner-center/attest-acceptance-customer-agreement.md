@@ -5,17 +5,17 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解需要你代表客户证明接受 Microsoft 客户协议的情况。
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板, 证明接受协议
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: feb5d900e140e4c70b45572b1ea20ed37c4e49e3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678562"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948573"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客户证明接受 Microsoft 客户协议
 

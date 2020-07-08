@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作伙伴赚取的返点 (PEC) 如何提供简化的 Azure 统一定价、提供增值托管服务并帮助消除利润竞争。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1da426156e3204becb01c48142329c5985b3eb3e
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 878193903561768c3f837913be5b85cadf64658c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908995"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948931"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作伙伴赚取的返点 - 概要了解它如何在云解决方案提供商新的商务体验中发挥作用
 
