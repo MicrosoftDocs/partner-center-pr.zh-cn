@@ -9,29 +9,29 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d2e6f6bba4b095895db5cc7edc1d58daa0f210b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4af506399707f5efafae2fdf919ba7aee643fc67
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947615"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175825"
 ---
-# <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a><span data-ttu-id="b93d9-103">为你的组织提供最适合的产品/服务或产品自定义 Microsoft 目录</span><span class="sxs-lookup"><span data-stu-id="b93d9-103">Customize the Microsoft catalog with offers or products most-suited to your organization</span></span>
+# <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a><span data-ttu-id="6565f-103">为你的组织提供最适合的产品/服务或产品自定义 Microsoft 目录</span><span class="sxs-lookup"><span data-stu-id="6565f-103">Customize the Microsoft catalog with offers or products most-suited to your organization</span></span>
 
-<span data-ttu-id="b93d9-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="b93d9-104">**Applies to**</span></span>
+<span data-ttu-id="6565f-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="6565f-104">**Applies to**</span></span>
 
--  <span data-ttu-id="b93d9-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="b93d9-105">Partner Center</span></span>
--  <span data-ttu-id="b93d9-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="b93d9-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="6565f-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="6565f-105">Partner Center</span></span>
+- <span data-ttu-id="6565f-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="6565f-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="b93d9-107">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="b93d9-107">**Appropriate roles**</span></span>
+<span data-ttu-id="6565f-107">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="6565f-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="b93d9-108">管理员代理</span><span class="sxs-lookup"><span data-stu-id="b93d9-108">Admin agent</span></span>
-- <span data-ttu-id="b93d9-109">全局管理员</span><span class="sxs-lookup"><span data-stu-id="b93d9-109">Global admin</span></span>
-- <span data-ttu-id="b93d9-110">销售代理</span><span class="sxs-lookup"><span data-stu-id="b93d9-110">Sales agent</span></span>
+- <span data-ttu-id="6565f-108">管理员代理</span><span class="sxs-lookup"><span data-stu-id="6565f-108">Admin agent</span></span>
+- <span data-ttu-id="6565f-109">全局管理员</span><span class="sxs-lookup"><span data-stu-id="6565f-109">Global admin</span></span>
+- <span data-ttu-id="6565f-110">销售代理</span><span class="sxs-lookup"><span data-stu-id="6565f-110">Sales agent</span></span>
 
-<span data-ttu-id="b93d9-111">该目录列出你可向客户提供的 Microsoft 产品和加载项。</span><span class="sxs-lookup"><span data-stu-id="b93d9-111">The catalog lists Microsoft products and add-ons available for you to offer to customers.</span></span> <span data-ttu-id="b93d9-112">这些产品/服务按客户群（包括企业、小型企业和政府）进行分组。</span><span class="sxs-lookup"><span data-stu-id="b93d9-112">These offers are grouped by customer segment, including enterprise, small business, and government.</span></span> <span data-ttu-id="b93d9-113">为了便于访问你的组织使用最多的产品/服务或向你的销售代理展示新产品/服务，你可以将五个产品/服务固定到目录列表的顶部。</span><span class="sxs-lookup"><span data-stu-id="b93d9-113">To make it easier to access the offers that your organization uses the most or to showcase new offers to your sales agents, you can pin up to five offers to the top of the catalog list.</span></span>
+<span data-ttu-id="6565f-111">该目录列出你可向客户提供的 Microsoft 产品和加载项。</span><span class="sxs-lookup"><span data-stu-id="6565f-111">The catalog lists Microsoft products and add-ons available for you to offer to customers.</span></span> <span data-ttu-id="6565f-112">这些产品/服务按客户群（包括企业、小型企业和政府）进行分组。</span><span class="sxs-lookup"><span data-stu-id="6565f-112">These offers are grouped by customer segment, including enterprise, small business, and government.</span></span> <span data-ttu-id="6565f-113">为了便于访问你的组织使用最多的产品/服务或向你的销售代理展示新产品/服务，你可以将五个产品/服务固定到目录列表的顶部。</span><span class="sxs-lookup"><span data-stu-id="6565f-113">To make it easier to access the offers that your organization uses the most or to showcase new offers to your sales agents, you can pin up to five offers to the top of the catalog list.</span></span>
 
-<span data-ttu-id="b93d9-114">**自定义目录**</span><span class="sxs-lookup"><span data-stu-id="b93d9-114">**Customize the catalog**</span></span>
+## <a name="customize-the-catalog"></a><span data-ttu-id="6565f-114">自定义目录</span><span class="sxs-lookup"><span data-stu-id="6565f-114">Customize the catalog</span></span>
 
-1.  <span data-ttu-id="b93d9-115">请参阅合作伙伴中心菜单 &gt; **销售** &gt; **目录**。</span><span class="sxs-lookup"><span data-stu-id="b93d9-115">Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.</span></span>
-2.  <span data-ttu-id="b93d9-116">选择最多五个要在目录顶部显示的产品/服务。</span><span class="sxs-lookup"><span data-stu-id="b93d9-116">Choose up to five offers to show at the top of the catalog.</span></span>
+1. <span data-ttu-id="6565f-115">请参阅合作伙伴中心菜单 &gt; **销售** &gt; **目录**。</span><span class="sxs-lookup"><span data-stu-id="6565f-115">Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.</span></span>
+2. <span data-ttu-id="6565f-116">选择最多五个要在目录顶部显示的产品/服务。</span><span class="sxs-lookup"><span data-stu-id="6565f-116">Choose up to five offers to show at the top of the catalog.</span></span>
