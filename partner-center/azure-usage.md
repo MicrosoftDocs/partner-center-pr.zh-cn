@@ -1,21 +1,21 @@
 ---
-title: 为最大预订用量 Microsoft Azure VM 大小调整 |合作伙伴中心
+title: 为最大预留使用量调整 Azure VM 大小
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机（VM）大小调整为客户的计算需求。
+Description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机 (VM) 规模调整为客户的计算需求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453274"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175912"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 
@@ -25,9 +25,9 @@ ms.locfileid: "84453274"
 - Azure 门户
 - 云解决方案提供商计划中的合作伙伴
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>确定客户的 Azure 预留的 VM 大小 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>确定客户的 Azure 预留的 VM 大小
 
-代表你的客户购买 Microsoft Azure 预订时，你需要选择一个规模为满足客户计算需求的虚拟机（VM）。 你可以使用以下方法之一查找此信息：
+在代表客户购买 Microsoft Azure 预订时，你需要选择 (VM) 大小的虚拟机，以满足客户的计算需求。 你可以使用以下方法之一查找此信息：
 
 - Azure 使用率 API
 - Azure 门户
@@ -42,27 +42,31 @@ ms.locfileid: "84453274"
 >[!IMPORTANT]
 >若要正确识别要代表客户购买的虚拟机的类型和大小，你必须使用下述方法之一，因为合作伙伴中心对帐文件中未正确显示虚拟机系列类型。
 
-**使用 Azure 利用率 API 获取虚拟机大小信息**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>使用 Azure 利用率 API 获取虚拟机大小信息
 
 1. 使用 API 响应中 additionalInfo 的 ServiceType 属性值来标识要购买的虚拟机大小。
+
 2. 有关详细信息，请参阅在[合作伙伴中心 API](https://docs.microsoft.com/partner-center/develop/)中[获取客户的 Azure 利用率记录](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
-**使用 Microsoft Azure 门户获取虚拟机大小信息**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>使用 Microsoft Azure 门户获取虚拟机大小信息
 
 1. 在合作伙伴中心，请参阅 "**客户**" 页。
+
 2. 找到想要购买 Azure VM 预留的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户**" 以打开 Azure 门户中的客户记录。
+
 3. 从门户菜单中选择**虚拟机**，然后选择你想要为其购买预订的虚拟机。
+
 4. 在 VM 的详细信息页上，查找大小和区域信息（如下所示），并使用此信息在合作伙伴中心购买预订。  
 
-    :::image type="content" source="images/usage1.png" alt-text="详细信息页上的大小和区域信息":::
+   :::image type="content" source="images/usage1.png" alt-text="详细信息页上的大小和区域信息":::
 
-**使用 Microsoft Azure PowerShell 获取虚拟机大小信息**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>使用 Microsoft Azure PowerShell 获取虚拟机大小信息
 
 使用下图中的信息，以获取你想要为其购买预订的虚拟机的位置和大小。 
 
 :::image type="content" source="images/usage2.png" alt-text="VM 位置和大小":::
 
-**使用 Azure 资源管理器 (ARM) API 获取虚拟机大小信息**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>使用 Azure 资源管理器 (ARM) API 获取虚拟机大小信息
 
 1. 使用 ARMClient 或 ARM API，为你想要为其购买预订的虚拟机调用 ARM 客户端。
 

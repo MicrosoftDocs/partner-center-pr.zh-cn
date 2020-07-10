@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992115"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175890"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作伙伴中心的度量值提高采用和满意度
 
@@ -39,21 +39,31 @@ ms.locfileid: "84992115"
 
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 
+您可以查找单个客户的许可证和用户数据，也可以在整个公文包中查找。
 
-**对于单个客户**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>查找单个客户的许可证和用户数据
 
-- 从 "**合作伙伴中心**" 中选择 "**客户**"，选择一个客户，然后选择 " **customer insights**"。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-**跨产品组合**
+2. 从**合作伙伴中心**选择**客户**
 
-1.  在 "**合作伙伴中心**"，选择 "**分析**"。
-2.  通过选择**导出**选项，在整个客户集中下载部署和使用情况数据。
+3. 选择客户。
+
+4. 选择 " **Customer insights**"。
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>跨你的产品组合查找许可证和用户数据
+
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
+
+2. 选择 "**分析**"，然后从菜单上的任意 "分析" 选项中进行选择。
+
+3. 若要在整个客户集中下载部署和使用情况数据，请选择 "**导出** (向下箭头) " 选项。
 
 术语：
 
-- **权利：** 用户有权使用的许可证（不会因欺诈或非付费而挂起，也不会将其升级到不同的许可证，用户也不会将其取消）。
+- **权利**= 用户有权使用的许可证 (不会因欺诈或非支付而挂起，也不会将其升级到不同的许可证，用户也不会将其取消 ) 
 
-- **活动：** 如果订阅用户在最近 28 个日历日内为某个任务使用了此权利。
+- **Active** = 如果已订阅用户在过去28天的时间内使用了任务的权限。
 
 - **部署率** = 已分配的许可证/已出售的许可证
 
@@ -61,13 +71,13 @@ ms.locfileid: "84992115"
 
    有时使用率会夸大或大于 100%。 这可能是多种原因引起的：
 
-   - 如果客户发生员工流动，并且许可证已转移到新用户。
+  - 如果客户发生员工流动，并且许可证已转移到新用户。
 
-   - 如果客户针对一个 SKU 具有两个订阅，但其中一个订阅处于宽限期、禁用状态或撤销状态，两个订阅中的权利可能在 28 天期限内均识别为活跃使用，但只有一个订阅计入总数。
+  - 如果客户针对一个 SKU 具有两个订阅，但其中一个订阅处于宽限期、禁用状态或撤销状态，两个订阅中的权利可能在 28 天期限内均识别为活跃使用，但只有一个订阅计入总数。
 
-   - 如果客户具有试用版订阅，则计入活动，但订阅不计入权利总数。
+  - 如果客户具有试用版订阅，则计入活动，但订阅不计入权利总数。
 
-   - 如果某些客户使用 Yammer 的时间显著多于许可证授权他们使用的时间，这可能会使数据大幅扭曲。
+  - 如果某些客户使用 Yammer 的时间显著多于许可证授权他们使用的时间，这可能会使数据大幅扭曲。
 
 ## <a name="next-steps"></a>后续步骤
 
@@ -86,7 +96,7 @@ ms.locfileid: "84992115"
 <tr class="even">
 <td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
 <p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双重策略来提高客户&#39;的总体专业技能，同时还能提升一些可供客户使用的自助服务选项。</p>
+<p><strong>要尝试的操作：</strong>你可以使用一种双策略来提供培训 (人员或联机) ，以提高客户&#39;的总体专业知识，同时还可以提升可供客户使用的一些自助服务选项。</p>
 <p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
 </tr>
 </tbody>

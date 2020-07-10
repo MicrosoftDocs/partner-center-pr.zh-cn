@@ -10,12 +10,12 @@ ms.author: dineshvu
 keywords: Azure, Azure 订阅, 订阅, 分配订阅, 管理 azure 订阅
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948559"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175920"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>将 Azure 订阅分配给合作伙伴中心的客户
 
@@ -37,11 +37,12 @@ ms.locfileid: "85948559"
 
 6. 将用户添加到订阅之后，你可以为用户分配角色以及用户可以访问的特定帐户。
 
-**使客户能够管理他们的 Azure 订阅**
+## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>使客户能够管理他们的 Azure 订阅
 
 在为客户创建 Microsoft Azure 订阅后，可以让他们管理该订阅。 为此，需要登录到客户的 Microsoft Azure 管理门户。 
 
 1. 若要打开客户的 Azure 门户，请在客户列表中展开客户的列表或选择客户名称，然后选择 " **Microsoft Azure 管理门户**"。
+
    > [!NOTE]  
    > 如果系统提示你登录到 Azure 门户，则可能没有委派管理权限。 选择 "**请求关系**"，邀请客户将你标识为其记录的合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。
 
@@ -49,4 +50,8 @@ ms.locfileid: "85948559"
 
 3. 为客户的任何用户分配角色，以便他们可以在其订阅下创建和管理资源。
 
+## <a name="next-steps"></a>后续步骤
 
+- [CSP 合作伙伴如何向客户销售订阅](customer-subscriptions.md)
+
+- [如何获取管理客户服务或订阅的权限](customers-revoke-admin-privileges.md)

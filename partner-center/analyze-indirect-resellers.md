@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 使用分析来了解间接经销商的工作方式，以及可能需要更多关注的领域。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947412"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175971"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>使用分析来分析间接经销商的性能
 
@@ -35,6 +35,8 @@ ms.locfileid: "85947412"
 
 > [!NOTE]
 > 间接经销商分析仅适用于云解决方案提供商计划中的合作伙伴。
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>可以查看的经销商分析指标类型
 
 我们跟踪下列指标：
 
@@ -69,4 +71,6 @@ ms.locfileid: "85947412"
  - **订阅**：经销商已销售的订阅数  
  - **许可证**：经销商已销售的各种订阅的许可证总数  
   
-  
+## <a name="next-steps"></a>后续步骤
+
+- [分析订阅和许可证以帮助推动业务决策](analyze-subscriptions-licenses.md)

@@ -1,23 +1,23 @@
 ---
-title: 分析订阅和许可证 | 合作伙伴中心
-ms.date: 11/13/2019
+title: 分析订阅和许可证
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何使用 "订阅和许可证分析" 页中的指标来识别你的成功和需要更多关注的区域。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 业务数据
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948581"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175956"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>分析订阅和许可证 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析订阅和许可证以帮助你推动业务决策和新目标
 
 **适用于**
 
@@ -44,6 +44,8 @@ ms.locfileid: "85948581"
  - **Microsoft 365**：Microsoft 365 数据  
  - **Office 365**：Office 365 数据  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>可以查看的订阅和许可证指标的类型
 
 我们跟踪下列指标：
 
@@ -77,4 +79,6 @@ ms.locfileid: "85948581"
 **30 天内结束的试用版订阅**  
  - 已经开始、结束日期在 30 天内并且订阅没有关联付费开始日期的试用版的列表  
 
-  
+## <a name="next-steps"></a>后续步骤
+
+- [分析间接经销商的性能](analyze-indirect-resellers.md)
