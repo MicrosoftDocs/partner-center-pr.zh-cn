@@ -5,18 +5,18 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何恢复暂停的合作伙伴中心帐户、合作伙伴帐户被暂停的原因以及在暂停时如何使用帐户。
-author: LauraBrenner
-ms.author: labrenne
+author: kbangalore
+ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514480372d1717159f9dff6cb3b3b2e575c069b8
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991798"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219645"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>还原已暂停的合作伙伴中心帐户-了解发生此问题的原因和操作方法
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施
 
 本文介绍在合作伙伴中心帐户挂起的情况下该如何做。
 
@@ -27,7 +27,7 @@ ms.locfileid: "84991798"
 
 
 > [!IMPORTANT]  
-> 合作伙伴中心帐户被暂停时，你可继续管理现有部署、许可证和服务。 但是，在你的帐户再次处于良好状态之前，你将无法授权或转售新的许可证或服务。
+> 当你的合作伙伴中心帐户被挂起时，你可以继续管理现有部署、许可证和服务。 但是，在你的帐户再次处于正常状态之前，你将无法授权或转售新的许可证或服务。
 
 ## <a name="why-partner-center-accounts-are-suspended"></a>合作伙伴中心帐户被挂起的原因
 
@@ -35,7 +35,7 @@ ms.locfileid: "84991798"
 
 - 当前计费金额已逾期 60 天以上 
 - 检测到严重的帐户滥用情况
-- 当问题影响间接提供程序操作并对帐户产生负面影响时（仅限间接经销商）
+- 当问题影响间接提供程序操作并对帐户产生负面影响 (仅限间接经销商) 
 - 如果你的帐户配置文件处于失败或拒绝状态
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>如果帐户被挂起，需要做什么

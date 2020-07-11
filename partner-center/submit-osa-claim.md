@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 通过 CPOR （声明合作伙伴记录）模型创建客户关联。 有助于管理 Microsoft 365 和 Dynamics 365 客户的销售、使用情况、& 奖励。
-author: mallp
+description: 通过 CPOR (申报记录) 模型的合作伙伴创建客户关联。 有助于管理 Microsoft 365 和 Dynamics 365 客户的销售、使用情况、& 奖励。
+author: MalloryPrincipe
 ms.author: mallp
 keywords: 奖励理赔，合作索赔，合作基金，OSU，OSA，ISV，收入关联
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af39f3dbd4223f462807aaa9aa8eac4d7f9d2fe
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ded3850ea03626cd25571746cc9aa32231bd14bc
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949177"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265070"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>通过 CPOR 模型创建客户关联–用于 Microsoft 365 和 Dynamics 365 客户
 
@@ -23,7 +23,7 @@ ms.locfileid: "85949177"
 
 - 合作伙伴中心
 
-2019年10月1日，Microsoft 开始使用 "申报记录合作伙伴（CPOR）" 模型来管理与你的 Microsoft 365 和 Dynamics 365 客户相关的关联，这些客户与在线服务顾问（OSA）销售、在线服务使用（OSU）-Microsoft 365 和 OSU 应用程序奖励相关。
+2019年10月1日，Microsoft 开始使用 "CPOR 的申报合作伙伴" ("") 模型来管理与 Microsoft 365 和 Dynamics 365 客户相关的关联，这些客户与和 Dynamics 客户联系， (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU。
 
 提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
 
@@ -47,9 +47,9 @@ ms.locfileid: "85949177"
 
 - 你将为此声明创建**名称**
 
-- 你所申报的**产品**或工作负荷
+- **产品 () **或 () 你所申报的工作负荷
 
-- **执行证明（POE）**，如客户签署的工作声明。 你还可以下载要使用的 POE 模板。
+- ** (POE) 的执行证明**，如客户签署的工作声明。 你还可以下载要使用的 POE 模板。
 
 - 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**。 
 
@@ -59,7 +59,7 @@ ms.locfileid: "85949177"
 
 - 如果现有与 Dynamics 365 或 Power BI 客户的关联，则这些关联将保持有效，直到其订阅过期。
 
-- 一个客户可以有多个合作伙伴，但是每个工作负荷（对于 Microsoft 365 OSU）或订阅（对于 OSA 销售和 Business Applications OSU）只能与一个合作伙伴关联。
+- 一个客户可以具有多个合作伙伴，但每个工作负荷 (适用于 OSA 销售和 OSU Business Applications 的 Microsoft 365 OSU) 或订阅 (，) 只能与一个合作伙伴关联。
 
 ## <a name="create-a-customer-association"></a>创建客户关联
 
@@ -81,14 +81,14 @@ ms.locfileid: "85949177"
 
 6. 在 "**关联客户**" 页上输入相应信息，然后选择 "**创建声明**"。
 
-7. 选择与此客户关联关联的产品，然后选择 "**继续**"。
+7. 选择与此客户关联关联的产品 () ，然后选择 "**继续**"。
 
 8. 填写客户联系信息和你公司的联系信息。 所有字段都是必填字段。 
 
    >[!NOTE]
    >如果你的产品是 Dynamics 365，并且你选择的产品有多个订阅用于此特定客户，则还需要输入订阅 ID。
 
-9. 提供执行证明（POE）。 您可以将其拖到 "" 框，浏览到自己的支持文档，或通过选择 "**下载模板**" 来使用模板。 
+9.  (POE) 提供执行证明。 您可以将其拖到 "" 框，浏览到自己的支持文档，或通过选择 "**下载模板**" 来使用模板。 
 
 10. 根据需要添加并保存注释，然后选择 "**提交声明**"。 我们将向客户发送一封电子邮件，请求你的客户协会批准。
 

@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 希望在云解决方案提供商计划中的客户和合作伙伴之间发生客户通信的方式。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 keywords: 通讯, 客户通讯, 与 Microsoft 沟通
 ms.localizationpriority: medium
-ms.openlocfilehash: ba4a6da83678b4238a0c7ecc5836f875a3674277
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 60d0d2e5f46700de017e78684f0b8e18f91368b3
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991365"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219515"
 ---
 # <a name="customer-communication-from-microsoft"></a>来自 Microsoft 的客户通讯
 

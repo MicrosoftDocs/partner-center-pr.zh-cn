@@ -1,21 +1,20 @@
 ---
 title: 将 Azure 订阅转移到另一个合作伙伴
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何帮助客户更改与该客户的 Azure 订阅关联的 CSP 计划合作伙伴。
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: Azure 订阅, 切换合作伙伴, 更换合作伙伴, 获得新的合作伙伴, 其他合作伙伴
+description: 了解如何更改与客户的 Azure 订阅关联的云解决方案提供商计划合作伙伴。
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949091"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237967"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
@@ -25,7 +24,7 @@ ms.locfileid: "85949091"
 - Microsoft 全球云合作伙伴中心
 - 云解决方案提供商 (CSP) 计划中的合作伙伴
 
-本文介绍了客户如何将 Microsoft Azure 服务从一个云解决方案提供商（CSP）切换到另一个云解决方案提供商（CSP）。
+本文介绍了如何将 Microsoft Azure 服务从一个云解决方案提供商 (CSP) 切换到另一个云解决方案提供商。
 
 若要将客户的 Azure 服务或订阅切换到其他合作伙伴，请执行以下手动步骤。 合作伙伴和客户都需要完成这些步骤。
 
@@ -52,9 +51,9 @@ ms.locfileid: "85949091"
 
      在步骤2中，选择 "**最小影响**"，并选择**其他一般问题**作为问题类型。
 
-     下载[“CSP 订阅转让”表](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
+     下载[“CSP 订阅转让”表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
 
-3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
+3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
 
    - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 "**帐户设置**" " &gt; **组织配置文件**"，并使用其中列出的**Microsoft ID**、**组织名称**和**地址**。
 

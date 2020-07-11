@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6f42ae1d1fb6b496415b32fa4155aef829bdeb2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991263"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219595"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>将问题上报给 Microsoft，并了解哪些问题更适用于 Microsoft 呈报  
 
