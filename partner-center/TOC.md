@@ -252,6 +252,4 @@
 ## [概述](partner-security-requirements.md)
 ## [对合作伙伴租户强制执行 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [要求状态](partner-security-compliance.md)
-## [实施合作伙伴安全要求](implement-security-requirements.md)
 ## [常见问题解答](partner-security-requirements-faq.md)
-
