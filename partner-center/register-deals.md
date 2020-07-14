@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 当你注册在合作伙伴中心赢得的交易时，它可帮助 Microsoft 在将来提供更多机会。
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 交易注册
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467407"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302254"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>注册在合作伙伴中心赢得的交易，以便以后可以获得更多机会
 
@@ -59,12 +59,12 @@ ms.locfileid: "84467407"
 
 在“引荐”>“交易注册”>“需要采取操作”页面中，你将看到尚未注册或需要更新的新注册****。 你可以使用筛选器来仅显示“不完整”或“需要更新”的交易注册********。 “不完整”的交易注册是源自引荐但尚未注册的交易注册****。 “需要更新”的交易注册是已创建并已注册但需要你更新所提供的信息的交易注册****。
 
-### <a name="in-progress"></a>正在学习
+### <a name="in-progress"></a>正在进行
 
 在“引荐”>“交易注册”>“正在进行中”页面中，你将看到 Microsoft 正在审查的交易注册****。 如果我们需要其他信息，我们将使用你提供的“注册联系人”信息****。
 
 如果需要更新任何信息，我们可能会将交易注册移至“需要采取操作”页面****。
 
-### <a name="closed"></a>关闭
+### <a name="closed"></a>已解决
 
 在“引荐”>“交易注册”>“已关闭”页面中，你将看到 Microsoft 已成功注册并审查的交易****。 你可以使用筛选器来仅显示“已批准”或“已拒绝”的交易注册********。

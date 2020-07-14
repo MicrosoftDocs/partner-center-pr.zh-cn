@@ -1,21 +1,21 @@
 ---
 title: 为 Power BI 安装合作伙伴中心分析
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 按照本文中的步骤，安装和预览适用于 Power BI 的合作伙伴中心分析应用（对于 CSP 中的直接合作伙伴）。
+description: 按照本文中的步骤，安装和预览合作伙伴中心分析应用，以便在 CSP) 中为直接伙伴 Power BI (。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072419"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302324"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
@@ -32,11 +32,11 @@ ms.locfileid: "85072419"
 ## <a name="before-you-begin"></a>开始之前
 
 从以下可用 Power BI 应用列表中选择与你的业务最相关的应用程序：
-- [直接提供程序](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [直接提供程序](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [间接提供程序](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
+- [间接提供程序](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [间接经销商](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+- [间接经销商](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 安装合作伙伴中心分析应用预览版本之前，请确保你满足以下要求。
 
@@ -48,11 +48,11 @@ ms.locfileid: "85072419"
 
 - 你可以登录 Power BI。
 
-- 你可以使用 "全局管理员"、"管理代理" 或 "计费管理员" 身份登录到[你公司的 Azure Active Directory （Azure AD）租户](azure-active-directory-tenants-and-partner-center.md)。
+- 你可以使用 "全局管理员"、"管理员代理" 或 "计费管理员" 身份登录到[公司的 Azure Active Directory (Azure AD) 租户](azure-active-directory-tenants-and-partner-center.md)。
 
 ## <a name="to-install-the-app"></a>安装应用
 
-1. 在上一节中，单击给定的应用程序源链接（直接提供商/间接提供商/间接经销商）。
+1. 单击上一节中提供的 (直接提供程序/间接提供商/间接经销商) 上提供的应用程序源链接。
 
 2. 单击 "**立即获取**"。 
 

@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 将合作伙伴中心的推荐与 Salesforce CRM 同步
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991622"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302374"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
@@ -97,13 +97,13 @@ ms.locfileid: "84991622"
 
        :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="创建连接":::
 
-   3. 在右上角的搜索栏中搜索 "**合作伙伴中心引用（预览版）** "。
+   3. 在右上角的搜索栏中搜索 "**合作伙伴中心引用 (预览") ** 。
 
    4. 使用 "引用管理员" 凭据角色为合作伙伴中心用户创建连接。
 
    5. 接下来，使用 "引用管理员" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
 
-   6. 为 CRM 管理员用户 Common Data Service （当前环境）创建连接。
+   6. 为 CRM 管理员用户的 Common Data Service (当前环境) 创建连接。
 
 4. 若要将电源自动流与连接进行关联，请编辑每个电源自动流，以连接到 Common Data Service 和合作伙伴中心引用。 保存更改。
 
@@ -113,9 +113,9 @@ ms.locfileid: "84991622"
 
 合作伙伴中心 Webhook Api 允许你注册资源更改事件。 这些更改事件以 HTTP post 的形式发送到你的 url。
 
-1. 若要注册 url，请选择 "**合作伙伴中心 Webhook 注册" （有问必答预览版）** "电源自动流程"。
+1. 若要注册 url，请选择 "**合作伙伴中心 Webhook 注册 (内幕预览版") ** Power 自动流 "。
 
-2. 为（a）添加连接。具有引用管理员凭据的合作伙伴中心用户（b.）以下突出显示的合作伙伴中心事件
+2. 为 (a ) 合作伙伴中心用户添加连接， (b. ) 合作伙伴中心事件如下所示
 
    触发器
 
@@ -127,7 +127,7 @@ ms.locfileid: "84991622"
 
    若要启用合作伙伴中心 webhook 来侦听事件更改，请执行以下步骤：
 
-5. 选择 "**合作伙伴中心到 SALESFORCE CRM （有问必答预览版）**"。
+5. 选择 "**合作伙伴中心到 SALESFORCE CRM (内幕预览版") **。
 
 6. 选择 "**编辑**" 图标，然后选择 "**收到 HTTP 请求时**"。
 
@@ -135,7 +135,7 @@ ms.locfileid: "84991622"
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="复制 URL":::
 
-8. 现在，选择 "合作伙伴中心 Webhook 注册（有问必答预览版）" "电源自动流"，然后选择 "**运行**"。
+8. 现在，选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 "**运行**"。
 
 9. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 "**继续**"。
 
@@ -145,7 +145,7 @@ ms.locfileid: "84991622"
 
     2. **要注册的事件**： "引用已创建" 和 "引用已更新"
 
-    3. **覆盖现有触发器终结点（如果存在**）：是（这将覆盖任何现有终结点。）
+    3. **覆盖现有触发器终结点（如果存在**）：是 (这将覆盖任何现有终结点。 ) 
 
 11. 选择 "**运行**"，然后选择 "**完成"。**
 
@@ -161,15 +161,15 @@ Webhook 现在可以侦听以创建和更新事件。
 
 1. 若要自定义用于合作伙伴中心的创建或更新事件的字段以进行 CRM 引用同步，请执行以下操作：
 
-   1. 选择 "合作伙伴中心到 Salesforce CRM （有问必答预览版）"。
+   1. 选择 "合作伙伴中心到 Salesforce CRM (内幕预览版") 。
 
    2. 选择 "**编辑**" 以编辑/自定义电源自动流程。
 
-   3. 选择 **（作用域）同步潜在客户或机会**。
+   3. 选择 " ** (范围") 同步潜在客户或机会**。
 
 2. 若要为创建事件自定义 CRM 字段映射，请选择**新的共享机会，然后选择 "是"**。 选择 "**是"** ，然后**在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
 
-   1. 若要为更新事件自定义 CRM 字段映射，请单击 "（作用域）同步潜在客户或机会" 步骤。
+   1. 若要为更新事件自定义 CRM 字段映射，请单击步骤 " (范围) 同步潜在客户或机会"。
 
    2. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后**展开。  
 
@@ -179,9 +179,9 @@ Webhook 现在可以侦听以创建和更新事件。
 
    1. 选择 "**编辑**" 以编辑/自定义电源自动流程。
 
-   2. 选择 **（范围）同步机会**。
+   2. 选择** (范围) 同步机会**。
 
-   3. 若要为更新事件自定义 CRM 字段映射（基于字段映射指南），请选择 **"合作伙伴中心和 CRM 中的潜在顾客对象之间是否存在差异"，然后**。
+   3. 对于 "基于字段映射 (自定义 CRM 字段映射" 指南) 对于 "更新事件"，请选择 **"合作伙伴中心和 CRM 中的潜在顾客对象之间是否存在差异"，然后**。
 
    4. **如果是 "是"** ，请选择子步骤，然后展开 "**使用机会数据更新引用**" 步骤。
 
@@ -191,9 +191,9 @@ Webhook 现在可以侦听以创建和更新事件。
 
    1. 选择 "**编辑**" 以编辑/自定义电源自动流程。
 
-   2. 选择 **（作用域）同步引用。**
+   2. 选择 **) 同步引用 (范围。**
 
-   3. 若要为创建事件自定义 CRM 字段映射（基于字段映射指南），请选择 "**创建 Microsoft 引用**"。
+   3. 对于 "基于字段映射自定义 CRM 字段映射 (" 指南) 对于创建事件，请选择 "**创建 Microsoft 引用**"。
 
 您可以根据字段映射指南编辑此部分中的映射。
 
@@ -226,18 +226,18 @@ Salesforce CRM 管理员用户需要创建一个单独的 CRM 部分。
 
 3. 从左侧导航栏中选择**字段 & 关系**
 
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
+   :::image type="content" source="images/salesforce/fields1.png" alt-text="字段":::
 
 4. 将以下字段添加 **& 关系**表中：
 
    |**字段标签**   |**字段名称**|**Data type**|**作**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |审核| Audit__c|长文本区域（100000）（显示第4行）||
+   |审核| Audit__c|长文本区域 (100000) # B2 可见行 4) ||
    |Microsoft 如何帮助？|How_can_Microsoft_help_c|列表|
-   |产品|Products_c|文本（255）||
-   |引荐 | Referral_Identfier_c|文本（100）（外部 ID）|是|
-   |引用链接| Referral_Link_c_|URL （255）||
-   |与合作伙伴中心同步|sync_with_partner_center_c|Checkbox （默认未选中）||
+   |Products|Products_c|文本 (255) ||
+   |引荐 | Referral_Identfier_c|文本 (100) # B2 外部 ID) |是|
+   |引用链接| Referral_Link_c_|URL (255) ||
+   |与合作伙伴中心同步|sync_with_partner_center_c|复选框 (默认未选中) ||
 
    * 选择列表值：
 

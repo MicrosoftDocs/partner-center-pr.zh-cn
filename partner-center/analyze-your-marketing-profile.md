@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用 "业务配置文件见解" 页来查看您的目标客户和生成引用的关注程度。
-author: vikramb
+author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c648fbf98ff0af3f79d689cc2b22297bc1a5aa84
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948569"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302224"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析你的业务配置文件-查看你吸引目标客户和潜在推荐的程度
 <!-- 
@@ -40,9 +40,9 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 若要查看你的参考数据，请从 "合作伙伴中心" 菜单中转到 "**引用 > Business profile insights**"。 你的数据显示配置文件性能，分析趋势，以及识别需要执行操作的方面。
 
-在 "**业务配置文件见解**" 页面的顶部附近，可以选择要显示数据的时间段。 默认选择为**30D** （30天），但你可以选择将数据显示为3到6个月的时间。 所有区域的数据都包括在内。
+在 "**业务配置文件见解**" 页面的顶部附近，可以选择要显示数据的时间段。 默认选择为**30D** (30 天) ，但你可以选择将数据显示为3到6个月或6个月的数据。 所有区域的数据都包括在内。
 
-在你发布公司的[业务配置文件](create-a-marketing-profile.md)后，你将开始查看有关哪些客户找到你的个人资料、他们单击多长时间来了解详细信息的数据，以及他们向你发送信息请求的频率（RFIs）。 在优化业务配置文件时使用此数据，以生成更多的潜在客户和更相关的潜在顾客。
+在你发布公司的[业务配置文件](create-a-marketing-profile.md)后，你将开始查看有关哪些客户找到你的个人资料、他们单击多长时间以了解详细信息的数据，以及他们发送 (RFIs) 的信息的频率。 在优化业务配置文件时使用此数据，以生成更多的潜在客户和更相关的潜在顾客。
 
 **配置文件性能摘要**图表包括所选时间段的下列信息：
 
