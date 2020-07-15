@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接提供商如何与云解决方案提供商（CSP）计划中的间接经销商合作，确定哪种角色适合你。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 1089c2eeb419bbc826a3df433d3ed6c25273a7cc
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603836"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377191"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>在合作伙伴中心使用其他合作伙伴的不同方法
 

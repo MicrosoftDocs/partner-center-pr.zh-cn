@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/01/2020
-ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678934"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286605"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -52,7 +52,7 @@ _________________
 
 ### <a name="additional-resources"></a>其他资源
 
-- 合作伙伴库页面上的 CSP 计划资源：[面向俄罗斯的 CSP 合作伙伴推出 Windows Server 和 SQL Server 订阅](https://partner.microsoft.com/en-us/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- 合作伙伴库页面上的 CSP 计划资源：[面向俄罗斯的 CSP 合作伙伴推出 Windows Server 和 SQL Server 订阅](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [详细了解合作伙伴中心](https://docs.microsoft.com/partner-center/azure-plan-get-started)
 
 ### <a name="next-steps"></a>后续步骤
@@ -61,7 +61,7 @@ _________________
 
 ### <a name="questions"></a>有疑问？
 
-- 如需了解相关问题、查询或详细信息，请[联系支持人员](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)。
+- 如需了解相关问题、查询或详细信息，请[联系支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 _________________
 
@@ -329,7 +329,7 @@ Microsoft 于今日（2020 年 1 月 2 日）发布了 Dynamics 365 Power Virtua
 
 - 面向客户服务的 Dynamics 365 Virtual Agent
 
-请在[此处](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务 20-1-1”中查看详细的 SKU 信息。
+请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务 20-1-1”中查看详细的 SKU 信息。
 
 Biz 应用和 Power Platform
 
@@ -337,7 +337,7 @@ Biz 应用和 Power Platform
 
 - 针对现有 PowerApps 每应用套餐推出学生产品/服务
 
-请在[此处](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务 20-1-1”中查看详细的 SKU 信息。
+请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务 20-1-1”中查看详细的 SKU 信息。
 
 2020 年 2 月 1 日，将为 Biz 应用和 Power Platform 发布以下新产品/服务和更新产品/服务：
 
@@ -371,7 +371,7 @@ Customer Insights 许可证更新
 
 2020 年 2 月 1 日，Microsoft 将更改某些产品系列及产品/服务的名称，以使现有 Dynamics 365 和 Power Platform 产品/服务的命名与其他渠道和区域中使用的名称保持一致。
 
-请在[此处](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务名称更改 - 2020 年 2 月”中查看具体更改信息。
+请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务名称更改 - 2020 年 2 月”中查看具体更改信息。
 
 ### <a name="additional-resources"></a>其他资源
 
@@ -389,7 +389,7 @@ Customer Insights 许可证更新
 
 ### <a name="questions"></a>有疑问？
 
-- 若有与 Microsoft 操作高度相关的任何问题，请[联系支持人员](https://partner.microsoft.com/en-us/pcv/servicerequests/create)。
+- 若有与 Microsoft 操作高度相关的任何问题，请[联系支持人员](https://partner.microsoft.com/pcv/servicerequests/create)。
 
 ### <a name="change-log"></a>更改日志
 

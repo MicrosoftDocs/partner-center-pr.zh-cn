@@ -5,18 +5,18 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何代表合作伙伴中心的客户购买、管理、销售和取消本地软件订阅。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908034"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377598"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商（CSP）计划出售本地软件
 
@@ -44,14 +44,14 @@ ms.locfileid: "82908034"
 >[!NOTE]
 >必须是管理员代理才能获取密钥和下载文件。 
 
-1. 转到客户的详细信息页面，然后选择“软件”。  你将看到你已代表客户购买的所有软件的列表。 
-2.  展开要下载的产品。 在“选择产品”字段中，选择所需的“版本”、“语言”和“文件类型/操作系统”。     
-3.  选择“提交”以显示特定产品。  
-4.  选择“获取密钥和下载”。  
-5.  选择“下载”开始下载，或选择“复制链接”以复制链接并将它发送给客户。   
+1. 转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。 
+2.  展开要下载的产品。 在“选择产品”字段中，选择所需的“版本”、“语言”和“文件类型/操作系统”。    
+3.  选择“提交”以显示特定产品。 
+4.  选择“获取密钥和下载”。 
+5.  选择“下载”开始下载，或选择“复制链接”以复制链接并将它发送给客户。  
 
 >[!NOTE]
->此链接将在两周或 50 次下载后（以先到者为准）过期。 在链接过期后，请返回此页面并再次选择“获取密钥和下载”以启用另一轮两周或 50 次下载的有效期。  可以根据需要多次执行此操作。 
+>此链接将在两周或 50 次下载后（以先到者为准）过期。 在链接过期后，请返回此页面并再次选择“获取密钥和下载”以启用另一轮两周或 50 次下载的有效期。 可以根据需要多次执行此操作。 
 
 
 ## <a name="cancel-a-purchase"></a>取消购买
@@ -82,6 +82,6 @@ ms.locfileid: "82908034"
 
 7.  在 "**联系人**" 字段中，输入你的姓名、电子邮件地址和电话号码。 
 
-8.  如果出于任何原因需要附加文件，请选择“添加文件”。  此步骤是可选的。 
+8.  如果出于任何原因需要附加文件，请选择“添加文件”。 此步骤是可选的。 
 
 9.  完成后，选择“提交”。 

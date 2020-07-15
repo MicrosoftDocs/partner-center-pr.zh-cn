@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心使用度量值。 指标可显示企业是否在成长、客户如何使用其许可证，以及在何处集中投资。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175890"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377261"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作伙伴中心的度量值提高采用和满意度
 
@@ -57,11 +57,11 @@ ms.locfileid: "86175890"
 
 2. 选择 "**分析**"，然后从菜单上的任意 "分析" 选项中进行选择。
 
-3. 若要在整个客户集中下载部署和使用情况数据，请选择 "**导出** (向下箭头) " 选项。
+3. 若要跨整个客户集下载部署和使用情况数据，请选择 "**导出**（向下箭头）" 选项。
 
 术语：
 
-- **权利**= 用户有权使用的许可证 (不会因欺诈或非支付而挂起，也不会将其升级到不同的许可证，用户也不会将其取消 ) 
+- **权利**= 用户有权使用的许可证（不会因欺诈或非付费而挂起，也不会将其升级到不同的许可证，用户也不会将其取消）。
 
 - **Active** = 如果已订阅用户在过去28天的时间内使用了任务的权限。
 
@@ -96,7 +96,7 @@ ms.locfileid: "86175890"
 <tr class="even">
 <td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
 <p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>要尝试的操作：</strong>你可以使用一种双策略来提供培训 (人员或联机) ，以提高客户&#39;的总体专业知识，同时还可以提升可供客户使用的一些自助服务选项。</p>
+<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双重策略来提高客户&#39;的总体专业技能，同时还能提升一些可供客户使用的自助服务选项。</p>
 <p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
 </tr>
 </tbody>

@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 客户记录是最重要的信息资产。 了解如何在合作伙伴中心客户列表中查看、搜索、更新 & 导出信息。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b248a5614bc071068ee2e7a70906795c12f24a14
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992162"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377741"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>管理你的客户列表-搜索、更新或导出合作伙伴中心的客户
 

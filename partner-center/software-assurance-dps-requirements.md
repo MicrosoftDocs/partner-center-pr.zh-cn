@@ -5,17 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解公司可能想要向企业客户提供的每个软件保障规划服务的资格要求。
-author: mowrim
-ms.author: mowrim
+author: ArpithaKanuganti
+ms.author: v-arkanu
 Keywords: 预部署、计划、软件保障、预订、要求、资格、产品
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86e75059ace279bf3b6a6f78b3e77262792f84dc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949608"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390204"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看规划服务预订的资格要求
 

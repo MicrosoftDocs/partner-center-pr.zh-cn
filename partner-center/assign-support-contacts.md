@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何将经销商作为技术支持联系人分配给已订阅 Microsoft 服务的客户。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 帮助代理, 支持, 分配支持联系人, 指定的支持联系人
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 711ee7ac693402553c2afcad7f5387bf4d04ab6c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 481f8cdf0f2b1834bca12c2523e43c76765bae4b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84990978"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377671"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>将分销商分配给客户的技术支持联系人
 
@@ -54,4 +54,4 @@ ms.locfileid: "84990978"
 
 ## <a name="next-steps"></a>后续步骤
 
-[删除与经销商或客户的关系](remove-a-relationship.md)
+[删除与客户的关系](remove-a-relationship.md)

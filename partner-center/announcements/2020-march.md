@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678924"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286615"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -118,7 +118,7 @@ _________________
 
 **有疑问？**
 
-如需了解相关问题、查询或详细信息，请[联系支持人员](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)。
+如需了解相关问题、查询或详细信息，请[联系支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 _________________
 
@@ -148,7 +148,7 @@ _________________
 
 **新的入门级 SKU：** 新的入门级 SKU 将命名为 Microsoft 365 F1，为一线员工提供量身定制的价值，为所有员工提供更广泛的安全和身份价值。 此产品/服务包括 Teams、SharePoint Online、Yammer Enterprise、Stream、EMS E3 和对 Office Web/移动应用的只读访问权限。
 
-这些更改将为一线员工提供更好的价值，并使合作伙伴能够利用巨大的用户增长机会。 请单击[此处](http:/resources/collection/Microsoft-365-firstline-offer-updates#/)查看其它文档，详细了解价值主张和后续步骤。
+这些更改将为一线员工提供更好的价值，并使合作伙伴能够利用巨大的用户增长机会。 请单击[此处](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates)查看其它文档，详细了解价值主张和后续步骤。
 
 |**更改时间线**|**更改**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ _________________
 - 第一方机器人流程自动化 (RPA) 产品/服务
 - 适用于 RPA 产品/服务的新机器人产品
 
-请在[此处](https://partner.microsoft.com/en-us/pcv/.)名为“Dynamics 云解决方案提供商产品/服务更新 - 2020 年 3 月”的文件中查看具体更改信息
+请在[此处](https://partner.microsoft.com/pcv/.)名为“Dynamics 云解决方案提供商产品/服务更新 - 2020 年 3 月”的文件中查看具体更改信息
 
 ### <a name="additional-resources"></a>更多资源：
 
@@ -367,7 +367,7 @@ Microsoft 正在移除 Microsoft Defender 高级威胁防护 (MDATP) 中的 Wind
 
 **有疑问？**
 
-如果你有任何与 Microsoft 产品操作密切相关的疑问，请通过合作伙伴仪表板联系支持部门，网址为： https://partner.microsoft.com/en-us/pcv/servicerequests/create
+如果你有任何与 Microsoft 产品操作密切相关的疑问，请通过合作伙伴仪表板联系支持部门，网址为： https://partner.microsoft.com/pcv/servicerequests/create
 
 ### <a name="change-log"></a>更改日志
 

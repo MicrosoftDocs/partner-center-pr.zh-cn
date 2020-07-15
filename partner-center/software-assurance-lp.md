@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 注册软件保障计划以构建业务，并获得向企业客户提供培训和规划的补偿。
-author: LauraBrenner
-ms.author: labrenne
+author: mowree
+ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d56cc5791a81ff4ca5917ae0d0a942cf64177b48
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: ecc3aa2a5bb9059211b74f35ed43147e754bbf05
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425916"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390254"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>参与软件保障计划，包括培训凭证和规划服务
 

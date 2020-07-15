@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何一次将多个用户添加到客户的帐户。 使用逗号分隔值（.csv）文件格式将数据文件上传到合作伙伴中心。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: 批量上传, 将多个用户添加到客户帐户, 添加客户的用户, 批量上传客户的用户, 客户帐户, 客户用户, 用户
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104118"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377271"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>向客户帐户添加多个用户-将数据文件上传到合作伙伴中心
 
@@ -57,7 +57,7 @@ ms.locfileid: "85104118"
 
 2. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-3. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+3. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 4. 选择客户的 "**用户和许可证**" 选项卡，然后选择 "**上载用户**"。
 

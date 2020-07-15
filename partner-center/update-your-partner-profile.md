@@ -3,18 +3,18 @@ title: 验证合作伙伴配置文件
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何验证公司详细信息，例如主要联系人、地址和计划信息。 还可以更新法律和帐单地址。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.topic: conceptual
 ms.localizationpriority: high
-ms.date: 06/05/2020
+ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2534a13d2b24acd689a12476590f8f607c678e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991979"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286575"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作伙伴中心中验证合作伙伴配置文件信息
 
@@ -37,7 +37,7 @@ ms.locfileid: "84991979"
 2. 选择法定地址旁边的“更新”。 ""
 
 >[!Important]
->如果你是云解决方案提供商，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
+>如果你是云解决方案提供商，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
 3. 选择“提交”后，我们会对你的法定身份重新进行评估。你会收到另一封电子邮件，并且需要接受它。
 

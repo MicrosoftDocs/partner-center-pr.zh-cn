@@ -1,20 +1,21 @@
 ---
-title: 奖励合作声明 |合作伙伴中心
+title: 奖励合作申请
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在没有先决条件的情况下提交奖励声明来查看活动计划。
+description: 了解如何通过组织正确的文档、发票、语句和执行证明，为奖励提交成功的合作声明。
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948084"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377631"
 ---
 # <a name="incentives-co-op-claims-overview"></a>奖励合作申请概述
 

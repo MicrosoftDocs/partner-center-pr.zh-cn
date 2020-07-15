@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 获取代表客户管理其服务或订阅所需的权限。 了解如何授予、撤销和管理权限。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: 委派的管理员权限, 代表管理员, 删除权限, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198595"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377431"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>获取管理客户服务或订阅的权限
 
@@ -34,7 +34,7 @@ ms.locfileid: "85198595"
 
 1.  选择“客户”，然后选择“请求经销商关系”。 
 
-2.  在下一页上，查看草稿电子邮件。 你可以在默认电子邮件应用程序中打开草稿邮件，也可以将邮件复制到剪贴板，然后将它粘贴到电子邮件中。 
+2.  在下一页上，查看草稿电子邮件。 可以在默认的电子邮件应用程序中打开邮件草稿，也可以将其复制到剪贴板，然后将其粘贴到电子邮件中。 
 
     >[!IMPORTANT]
     >你可以编辑电子邮件中的文本，但请务必包括链接，因为它进行了个性化设置，可以将客户直接链接到你的帐户。 

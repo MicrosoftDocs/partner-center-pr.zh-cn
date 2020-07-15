@@ -3,17 +3,17 @@ title: 计费-一次性 & 选择定期计费
 ms.topic: article
 ms.date: 05/26/2020
 Description: 了解更多有关合作伙伴中心计费的详细信息，以便预先计费，为选择、定期收费付费。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 计费，一次性，定期，购买，收费，isv
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749146"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390244"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>一次计费，并在合作伙伴中心选择定期收费
 

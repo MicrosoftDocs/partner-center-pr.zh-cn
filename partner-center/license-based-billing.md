@@ -3,17 +3,17 @@ title: 基于许可证的计费
 ms.topic: article
 ms.date: 05/18/2020
 Description: 了解基于许可证的计费与基于使用情况的计费在合作伙伴中心的不同之处，包括按许可证计费的方式（不是许可证使用情况）。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 计费，付款，基于许可证，许可证
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2de61f21f28a3ce343edc68035d836a74f98870d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: b3f2e982d82731159b20014dbcc7ee10cf9f73b9
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795789"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377701"
 ---
 # <a name="license-based-billing-in-partner-center"></a>合作伙伴中心的基于许可证的帐单
 

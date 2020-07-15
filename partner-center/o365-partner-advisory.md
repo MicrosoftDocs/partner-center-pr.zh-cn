@@ -3,19 +3,19 @@ title: CSP 合作伙伴咨询-Microsoft 365 语音
 description: 了解某些国家/地区的 PSTN 服务以及可能应用和影响合作伙伴订单和开票的特殊税或法规要求。
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office，O365，PSTN 服务，税款，要求，发票，开票
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907364"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377791"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 合作伙伴咨询： Microsoft 365 商业版 CSP 计划中的语音
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 合作伙伴咨询：云解决方案提供商计划中的 Microsoft 365 商务语音
 
 **适用于**
 
@@ -38,7 +38,7 @@ ms.locfileid: "82907364"
 
 此外，CSP 发票还会显示以下脚注：
 
-* 显示的价格是音频会议和电话计划服务的收费。  任何适用的事务税款仅根据显示的金额（美国中的销售额除外）进行收费。  在美国，显示的价格是含税的，因为它包括呼叫计划和音频会议服务的费用，以及收取的税费和费用费用。  音频会议和调用计划服务由有权提供它们的 Microsoft 关联服务提供服务。  有关详细信息，请参阅[Microsoft 批量许可](https://go.microsoft.com/fwlink/?LinkId=690247)。
+* 显示的价格是音频会议和电话计划服务的收费。  任何适用的事务税款仅根据显示的金额（美国中的销售额除外）进行收费。  在美国，显示的价格是含税的，因为它包括呼叫计划和音频会议服务的费用，以及收取的税费和费用费用。  音频会议和调用计划服务由有权提供它们的 Microsoft 关联服务提供服务。  有关详细信息，请参阅 [Microsoft 批量授权](https://go.microsoft.com/fwlink/?LinkId=690247)。
 
 ## <a name="reconciliation-file-example"></a>协调文件示例
 

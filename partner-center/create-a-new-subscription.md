@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何向 Microsoft 发布的产品以及第三方 Isv 发布的 SaaS 产品销售客户订阅。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: 订阅，新建，添加订阅，暂停，取消，挂起，暂停，SaaS，许可证，ISV，第三方
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991486"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377592"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -44,7 +44,7 @@ ms.locfileid: "84991486"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3. 选择“添加订阅”****。 "**联机服务**" 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
 
@@ -89,7 +89,7 @@ ms.locfileid: "84991486"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3. 选择要管理的订阅。
 
@@ -124,7 +124,7 @@ ms.locfileid: "84991486"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3. 找到要取消的订阅。
 
@@ -139,13 +139,13 @@ ms.locfileid: "84991486"
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>选择是否自动续订商业市场订阅
 
-默认情况下，活动订阅会设置为在订阅期限到期后自动续订。 对于[商业市场产品的订阅](csp-commercial-marketplace-overview.md)，你可以选择不自动续订订阅。
+默认情况下，活动订阅设置为订阅期限过期时自动续订。 对于[商业 marketplace 产品订阅](csp-commercial-marketplace-overview.md)，你可以选择不自动续订订阅。
 
 若要阻止有效的商业市场订阅自动续订：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3. 选择“订阅”。 这会列出已为客户购买的任何基于许可证的订阅。
 

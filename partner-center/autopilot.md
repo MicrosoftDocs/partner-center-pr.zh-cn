@@ -5,17 +5,17 @@ ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 提供客户的新设备之前，可以使用 Windows Autopilot 配置文件自定义或预先配置设备的全新体验（OOBE）。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: autopilot，windows autopilot，microsoft autopilot，零接触部署，oobe，登录屏幕，现成
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3067b674b7784df34fba3de9cfaa5b44349b8c4
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 85750e58efb7f79612a666f556cddff27db28d76
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679184"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377661"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>使用新设备上的 Windows Autopilot 配置文件自定义客户全新体验
 

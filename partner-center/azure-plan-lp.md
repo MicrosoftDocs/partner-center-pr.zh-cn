@@ -1,7 +1,7 @@
 ---
 title: Azure 计划 - 按即用即付费率购买 Azure
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 计划商务体验，以便以即用即付费率为客户购买 Azure 服务。 也了解新的安全要求。
@@ -11,12 +11,12 @@ Keywords: Azure、Azure 计划、购买订阅、订阅
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c2638aea520500d6007495281226078a8acf7701
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948428"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286585"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>简介：Azure 计划允许合作伙伴按即用即付费率为客户购买 Azure
 
@@ -44,9 +44,5 @@ Microsoft 在合作伙伴中心引入了新的商务体验：Azure 计划。  �
 |管理客户在 Azure 计划中的订阅和资源|[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)|
 |了解如何查看 Azure 计划价目表   |[Azure 计划价目表说明](azure-plan-price-list.md)|
 |哪里提供 Azure 计划？|[Azure 计划的上市国家/地区完整列表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|若要查看如何计算合作伙伴赚取的返点，需登录到合作伙伴中心面板的价目表|[合作伙伴中心面板](https://partner.microsoft.com/en-us/dashboard/home)|
-|Azure 计划的计费|[Azure 计费](azure-plan-billing.md)| 
-
-
-
-
+|若要查看如何计算合作伙伴赚取的返点，需登录到合作伙伴中心面板的价目表|[合作伙伴中心面板](https://partner.microsoft.com/dashboard/home)|
+|Azure 计划的计费|[Azure 计费](azure-plan-billing.md)|

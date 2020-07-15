@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用客户帐户同时向一个用户或多个用户分配或吊销许可证和服务。
-author: dineshvu
-ms.author: dineshvu
+author: amitravat
+ms.author: amrava
 Keywords: 分配许可证，吊销许可证，分配给多个用户，
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6211bbca4fad5bf6a28c98a76a98a6be02d4fceb
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 8da5ffd66e717cf26aadc519fe0e5431067b25dd
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176008"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390574"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>在客户帐户中同时为多个用户分配或吊销许可证
 
@@ -46,7 +46,7 @@ ms.locfileid: "86176008"
 
 2. 选择 "**用户和许可证**"。
 
-3. 选中列表中两个或多个用户的复选框。  (若要选择当前页面上的所有用户，请选中 "**用户**" 列顶部的复选框。 ) 
+3. 选中列表中两个或多个用户的复选框。 （若要选择当前页面上的所有用户，请选中 "**用户**" 列顶部的复选框。）
 
     使用**第一个**、**上**一个、**下**一个和**最后**一个工具，可以在多个页面上查找并选择用户。
 
@@ -89,7 +89,7 @@ ms.locfileid: "86176008"
 
 2. 选择 "**用户和许可证**"。
 
-3. 选中列表中两个或多个用户的复选框。  (若要选择当前页面上的所有用户，请选中 "**用户**" 列顶部的复选框。 ) 
+3. 选中列表中两个或多个用户的复选框。 （若要选择当前页面上的所有用户，请选中 "**用户**" 列顶部的复选框。）
 
     逐页浏览**第一个**、**以前**的、**下**一个和**最后**一个工具，查找并选择其他用户。 可在多个页面上进行选择。
 

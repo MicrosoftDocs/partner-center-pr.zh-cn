@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为合格的 Microsoft 合作伙伴，你可以与 Microsoft 共同销售。 了解如何定义预订、邀请 Microsoft 协作或查看已发送的预订。
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948055"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390554"
 ---
 # <a name="co-sell-with-microsoft"></a>与 Microsoft 联合销售
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948055"
 作为合格的 Microsoft 合作伙伴，你有机会与 Microsoft 共同销售。 此协作可帮助你将解决方案推向市场、促进销售收入并确保客户取得成功。
 
 > [!IMPORTANT]
-> 若要与 Microsoft 共同销售，合作伙伴需要一个商业就绪的解决方案、一个共同的销售团队和一个强大的走向市场策略。 它们还必须满足特定的附加条件。 有关详细信息，请参阅[成为共同销售就绪](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
+> 若要与 Microsoft 进行联合销售，合作伙伴需要可供商用的解决方案、投入的销售团队和强大的上市策略。 它们还必须满足特定的附加条件。 有关详细信息，请参阅[成为共同销售就绪](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>邀请 Microsoft 在订婚上开展协作
 

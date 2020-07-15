@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3fb55e341692e38250c4e751cf73f3120604c15a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991035"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377681"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作伙伴中心的客户帐户的用户管理任务
 
@@ -43,7 +43,7 @@ ms.locfileid: "84991035"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3. 在客户菜单中，选择“用户和许可证”****。
 
@@ -63,7 +63,7 @@ ms.locfileid: "84991035"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3. 在客户菜单中，选择“用户和许可证”****。
 
@@ -80,7 +80,7 @@ ms.locfileid: "84991035"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。 
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
 3.  在客户菜单中，选择“用户和许可证”****。 从列表中选择用户。
 
