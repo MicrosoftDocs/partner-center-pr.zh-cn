@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作伙伴如何使用不同基于角色的访问控制 (RBAC) 选项来获得对客户 Azure 资源的操作控制和管理。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948439"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175949"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 计划中的订阅和资源
 
@@ -29,9 +29,9 @@ ms.locfileid: "85948439"
 
 - **Azure Lighthouse**：使用 AOBO 不能灵活地创建处理不同客户的不同组，或者为组或用户启用不同的角色。 使用 Azure Lighthouse 可将不同的组分配到不同的客户或角色。 由于用户将通过 Azure 委托的资源管理获取适当的访问级别，因此你可以减少具有“管理员代理”角色的用户数量（因此拥有完全 AOBO 访问权限）。 这有助于通过限制对客户资源的不必要访问权限来提高安全性。 此外，它还可以让你更灵活地大规模管理多个客户。 有关详细信息，请参阅 [Azure Lighthouse 和云解决方案提供商计划](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)。
 
--  **目录用户、来宾用户或[服务主体](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** ：可以通过将用户添加到客户目录，或者添加来宾用户并分配特定的 RBAC 角色，来委托对 CSP 订阅的精细访问权限。 
+-  **目录用户、来宾用户或[服务主体](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** ：可以通过将用户添加到客户目录，或者添加来宾用户并分配特定的 RBAC 角色，来委托对 CSP 订阅的精细访问权限。
 
-Microsoft 建议为用户分配最低的权限，使他们能够履行自己的职责即可，这是一种安全做法。 请参阅 [Azure Active Directory Privileged Identity Management 资源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)。 
+Microsoft 建议为用户分配最低的权限，使他们能够履行自己的职责即可，这是一种安全做法。 请参阅 [Azure Active Directory Privileged Identity Management 资源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)。
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>将合作伙伴 ID (MPN ID) 链接到用于管理客户 Azure 资源的凭据
 
@@ -56,28 +56,27 @@ Microsoft 建议为用户分配最低的权限，使他们能够履行自己的�
 
 1. 创建警报
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 警报":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 警报":::
 
 2. 选择希望警报执行的操作类型。例如，如果指定电子邮件，则发生任何角色分配删除操作时，你会收到一封通知电子邮件。
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="配置警报":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="配置警报":::
 
 ### <a name="aobo-removal"></a>AOBO 删除
 
 客户可以在 Azure 门户上的“访问控制”中管理对其订阅的访问权限。 在“角色分配”选项卡中，选择“删除访问权限”即可。  如果发生这种情况，你可以：
 
 - 与客户沟通，看看是否可以恢复管理访问权限。
+
 - 使用通过[基于角色的访问控制 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) 提供的访问权限。
+
 - 使用通过 [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) 提供的访问权限。
 
 基于角色的访问权限不同于管理员访问权限。 角色精确界定你可以和不可以执行的操作。 管理员访问权限更广泛。
 
 若要查看有资格赚取 PEC 的角色，请阅读[可赚取返点的合作伙伴的角色和权限](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)。
 
-
-
-
-**详细信息**
+## <a name="next-steps"></a>后续步骤
 
 - [撤销和恢复 Azure CSP 订阅的管理员权限](revoke-reinstate-csp.md)
 
