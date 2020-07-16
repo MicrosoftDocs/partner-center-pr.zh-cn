@@ -7,15 +7,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: 预缴税金信用，税收信用，德语税务贷方形式，税务证书
+keywords: 预缴税金信用，税收信用，德语税信用表，税务证书，信用额度
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949574"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405518"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>如果你支付本地税务主管机构而不是 Microsoft，请确保为预缴税金贷记
 
@@ -40,7 +40,7 @@ ms.locfileid: "85949574"
 
 2. 在左侧菜单中，选择 "**计费**"，然后单击 "**帐单历史记录**"。
 
-3. 单击 "**提交新**的"，将转到 "**新建税预缴请求**" 页。
+3. 单击 "**提交新**的"，将你转到 "**新建税务预缴请求**" 页。
 
    :::image type="content" source="images/wht1.png" alt-text="为发票提交新的预缴税金":::
 

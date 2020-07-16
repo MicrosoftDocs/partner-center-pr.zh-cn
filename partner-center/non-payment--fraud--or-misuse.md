@@ -1,21 +1,20 @@
 ---
 title: 管理拒不付款、欺诈或滥用
+description: 了解联机事务中涉及的各种风险以及用于管理和缓解这些风险的最佳实践，这一点很重要。
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解联机事务中涉及的各种风险以及用于管理和缓解这些风险的最佳实践，这一点很重要。
-keywords: 欺诈, 滥用, 可接受使用, 可接受使用策略, 拒不付款, 客户不支付帐单费用, 在线风险, 盗用服务, 滥用服务, 暂停订阅,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377801"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405558"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
@@ -87,7 +86,7 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 在购买后管理客户帐户的建议包括：
 
 - 实施一个过程来快速接收、查看、操作和响应 Microsoft 通知。
-- 与客户合作，在设置适当的监视阈值时了解云使用情况业务需求。 （例如，可以在合作伙伴中心[设置每月 Azure 支出预算](set-an-azure-spending-budget-for-your-customers.md)。 这样，便可以监视每月的客户使用情况，并在客户接近预算时收到通知。）
+- 与客户合作，在设置适当的监视阈值时了解云使用情况业务需求。 （例如，可以在合作伙伴中心[设置每月 Azure 支出预算](set-an-azure-spending-budget-for-your-customers.md)。 通过这种了解，你可以监视每月的客户使用情况，并在客户接近预算时收到通知。）
 - 定期监视[客户活动日志](activity-logs.md)以帮助及早检测欺诈行为。
 - 当检测到可疑活动时，请执行快速操作。
 - 不要首先实施风险缓解控制，避免向客户提供对订阅的完全管理访问权限。
@@ -100,4 +99,4 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 - 不要接受高风险支付方式（例如预付卡或存储的卡）。
 - 监视客户付款并应收帐款。 主动强制实施标准化的纠缠流程，以应付延期或非支付费用。
 
-有关可以降低在线风险的更多详细策略，请参阅[在线交易风险管理指南](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)。
+有关可以降低在线风险的更多详细策略，请参阅[在线交易风险管理指南](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)。

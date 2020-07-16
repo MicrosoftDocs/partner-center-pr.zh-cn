@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 比较云解决方案提供商 (CSP) 计划中为合作伙伴提供的新 Microsoft 商务体验中的套餐之间的主要差异。
-author: LauraBrenner
-ms.author: labrenne
+description: 比较云解决方案提供商 (CSP) 计划中为合作伙伴提供的新 Microsoft 商务体验中的产品/服务之间的主要差异。
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908735"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377621"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>比较云解决方案提供商计划中 Azure 产品/服务之间的差异
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908735"
 - 支持人员代理
 - 销售代理
 
-下表概述了可通过云解决方案提供商 (CSP) 计划（新 Microsoft 商务体验的一部分）提供的套餐之间的重要差异。
+本文介绍了云解决方案提供商 (CSP) 计划中 Azure 产品/服务之间的主要差异。
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Azure 产品/服务之间的主要差异概述
+
+下表概述了新的 Microsoft 商业体验中 CSP 计划产品/服务之间的主要差异。
 
 |**产品/服务**| **Azure 计划**|**第三方市场套餐**|**Azure 预留**|**通过 CSP 销售的服务器订阅**|**基于座席的套餐**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ ms.locfileid: "84908735"
 
 \* Microsoft 将在第四季度提供价目表 API，可在 Azure 计量价格中以编程方式进行实时访问。
 
-**详细信息**
+## <a name="next-steps"></a>后续步骤
 
 - [转移到 Azure 计划 - 入门](azure-plan-get-started.md)
 
 - [购买 Azure 计划](purchase-azure-plan.md)
 
 - [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
-
