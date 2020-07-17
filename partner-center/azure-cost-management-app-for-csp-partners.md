@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心注册 Cloudyn web 应用并使用它的密钥，以便可以使用该应用来跟踪客户的 Azure 使用情况和成本。
 author: aparnagkrishnan
 ms.author: aparnag
-Keywords: Azure 成本管理应用，管理成本，web 应用
-robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390444"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435906"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>使用适用于 CSP 合作伙伴的 Azure 成本管理应用跟踪客户的 Azure 使用情况和成本  
 
@@ -32,7 +30,7 @@ ms.locfileid: "86390444"
 
 [获取有关 Azure Cost Management 的详细信息](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
-## <a name="before-you-begin"></a>开始之前
+## <a name="before-you-begin"></a>准备阶段
 为能够使用 Azure Cost Management，请确保你满足以下要求：
 
 - 你是参与云解决方案提供商计划的合作伙伴。

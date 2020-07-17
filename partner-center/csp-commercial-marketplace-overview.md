@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何在 marketplace 中向客户的独立软件供应商（Isv）销售 "软件即服务" （SaaS）产品/服务。
 author: rbars
 ms.author: rbars
-keywords: 订阅，Marketplace，第三方，ISV，SaaS，许可证
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947728"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435066"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心的商业市场概述
 

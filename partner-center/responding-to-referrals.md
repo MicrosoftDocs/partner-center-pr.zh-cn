@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解合格的 Microsoft 合作伙伴如何应对引用，管理新的、现有的和存档的引用，并在将来获取更多的推荐。
 author: rajap-ms
 ms.author: rajap
-keywords: 引荐, RFI, 查找合作伙伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: f26e80d3850ca3fb227605d5c7582e729a95e00b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302244"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436596"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>响应引用并获得潜在的业务潜在顾客
 
@@ -33,7 +32,7 @@ ms.locfileid: "86302244"
 - 内部 Microsoft 销售和服务代理
 - 使用[解决方案提供商](https://www.microsoft.com/solution-providers/home)搜索工具进行的客户搜索****。
 
-当客户想要了解有关你的解决方案和服务的详细信息时，他们将通过提交 (RFI) 的信息请求与你联系。 你在特定于选定区域和位置的[业务配置文件](create-a-marketing-profile.md)中列出的联系人将收到一封系统生成的电子邮件。 你还可以转到“引荐”>“协定”>“收件箱”来查看合作伙伴中心中传入的信息请求****。
+当客户想要了解有关你的解决方案和服务的详细信息时，他们将通过提交有关信息的请求（RFI）与你联系。 你在特定于选定区域和位置的[业务配置文件](create-a-marketing-profile.md)中列出的联系人将收到一封系统生成的电子邮件。 你还可以转到“引荐”>“协定”>“收件箱”来查看合作伙伴中心中传入的信息请求****。
 
 客户通常会选择同时向多家公司发送相同的信息请求。 为了提高你成功的可能性，建议你在 24 小时或更短的时间内接受或拒绝新的协定引荐。
 
@@ -47,7 +46,7 @@ ms.locfileid: "86302244"
 
 - **拒绝**：选择要拒绝参与的原因，并添加要包含的任何注释，然后选择 "**关闭预订**"。 我们会将其存档为 "已**拒绝**"，并通知客户选择其他合作伙伴。
 
-如果在分配的时间段内没有响应 (目前14天) ，我们会将其存档为**过期**，并通知客户选择其他合作伙伴。
+如果在分配的时间段（目前为14天）内未响应，我们会将其存档为**过期**，并通知客户选择其他合作伙伴。
 
 > [!TIP]
 > 客户可以选择明确请求感兴趣的合作伙伴直接与他们联系。 如果是这种情况，你将在页面顶部看到一个带有火焰图标的提醒。 我们强烈建议你尽快与此客户联系，从而提高赢得此协定的机会。 72 小时后，引荐将继续处于活动状态，但图标和消息将发生更改。 如果你有兴趣了解此引荐的详情，仍应与客户联系。
@@ -81,3 +80,7 @@ ms.locfileid: "86302244"
 - **审慎选择接受的交易**。 我们将监视你接受或拒绝的交易类型，并使用此信息帮助你查找类似的交易。 接受不太适合的交易不会改善搜索结果，可能会影响收到的潜在顾客的质量。
 
 - **报告预计的交易量、关闭日期和交易的最终状态**（赢单或丢单）。 我们将使用此信息继续提供质量检索。
+
+## <a name="next-steps"></a>后续步骤
+
+-[管理潜在顾客](manage-leads.md)

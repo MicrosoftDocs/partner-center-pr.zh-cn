@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 了解如何以及何时将已过期 Skype for business Online 计划1订阅的特定客户迁移到新的 Office 365 版本。
 author: BrentSerbus
 ms.author: brserbus
-keywords: Skype for Business 计划, 停用 Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949615"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436556"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>将 Skype for Business Online Plan 1 订阅迁移到更新的 Office 365 版本
 

@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你的工作情况，以及你为客户销售或管理的 Azure 订阅的使用情况。
-keywords: PCI，性能，量化，客户成功，Azure 使用情况，订阅，分析，报告
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8938b490741c28f16a9bdc94cf25ddf60ff90edc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949371"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436716"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
 

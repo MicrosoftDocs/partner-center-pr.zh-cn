@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 了解如何管理客户的 Azure 保留，包括如何取消预订、交换预订或请求退款。
 author: amitravat
 ms.author: amrava
-keywords: azure，预订，管理，计费，购买，取消，exchange，提前终止费
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175895"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435756"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>为客户管理、取消、交换或退款 Microsoft Azure 预订
 
@@ -41,10 +40,10 @@ ms.locfileid: "86175895"
 
 3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-    | **Select**   | **收件人**    |
+    | **选择**   | **收件人**    |
     |:-----------------------------|:-----------------|
     | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
-    | **访问控制 (IAM)**   | 管理对客户预订信息的访问。|
+    | **访问控制（IAM）**   | 管理对客户预订信息的访问。|
     | **配置**   | 更改保留的作用域和/或与之关联的 Azure 订阅。    |
     | **属性**   | 查看预订的属性并将其复制到剪贴板中保留 ID 和预留订单 ID。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
     | **新建支持请求**    | 请求 Microsoft 支持人员提供帮助。   |
@@ -57,12 +56,12 @@ ms.locfileid: "86175895"
 
 ### <a name="how-cancellations-work"></a>如何取消
 
-客户可随时请求取消预留 (每年 $50000 的退款金额) 。 取消预订后，客户可以返回 Azure 预订的剩余月份数，以提前终止费。 剩余的按比例余额减去提前终止费，以使你的帐户获得退款。 
+客户可随时请求取消保留（每年 $50000 的退款量）。 取消预订后，客户可以返回 Azure 预订的剩余月份数，以提前终止费。 剩余的按比例余额减去提前终止费，以使你的帐户获得退款。 
 
 请参阅下面的 "取消详细信息和费用"。
 
 
-|**取消日期**<br>  (天)    |**使用情况**    |**额度**  |**提前终止**<br> 费用    |**退款 cap** | 
+|**取消日期**<br> 天数   |**使用情况**    |**额度**  |**提前终止**<br> 费用    |**退款 cap** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5个或更少                         | 否          | 100%       | 否                              | $50000 USD   |
 |5个或更少                         | 是         | 按比例  | 否                              | $50000 USD   |

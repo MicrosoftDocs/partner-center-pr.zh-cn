@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请查看此产品许可证报表，并了解如何改进你为客户销售或管理的授权云产品。
-keywords: PCI，性能，量化，客户成功，云订阅，分析，报告
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948800"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436656"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 

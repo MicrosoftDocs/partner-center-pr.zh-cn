@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 对于具有以前的 ISV 资格认证的合作伙伴，了解如何为应用程序开发能力提供一次性考试需求豁免
 author: LauraBrenner
 ms.author: labrenne
-keywords: 胜任度，ISV，应用程序开发
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 39fd6fea1845edbb520cfd9d9c6ebe985765716b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452724"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436076"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 
@@ -42,14 +41,14 @@ ms.locfileid: "84452724"
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>如何利用产品/服务
 
-1. 在仪表板上的“合作伙伴中心”菜单中，选择“能力”  。
+1. 在仪表板上的“合作伙伴中心”菜单中，选择“能力”。
 2. 在可用的胜任度列表中，应用程序开发标记为 "已**完成**"。
 
 :::image type="content" source="images/appdev.png" alt-text="ISV 到 appdev":::
 
 3. 选择 "**应用程序开发**"。 你将看到你已获得一个替代，豁免公司无法满足测试要求。 
 
-4. 若要使用此产品/服务，请转到“会员产品/服务”  。 您可能需要根据您的能力购买或续订状态来支付能力，以完成该过程。 
+4. 若要使用此产品/服务，请转到“会员产品/服务”。 您可能需要根据您的能力购买或续订状态来支付能力，以完成该过程。 
 
 此产品/服务可通过合作伙伴中心获得。
 

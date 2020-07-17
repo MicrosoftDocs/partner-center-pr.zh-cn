@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解 CSP 合作伙伴如何使用合作伙伴中心在 marketplace 中查看或搜索来自独立软件供应商（Isv）的 SaaS 产品/服务的定价。
 author: rbars
 ms.author: rbars
-keywords: 订阅，marketplace，商业市场，第三方，ISV，SaaS 产品/服务，云解决方案提供商计划，CSP 计划，CSP 合作伙伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947762"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435116"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>在合作伙伴中心商用 marketplace 中发现产品/服务和定价
 

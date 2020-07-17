@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 浏览合作伙伴中心培训面板。
 author: sroy
 ms.author: sroy
-Keywords: 合作伙伴中心见解，报表，下载报表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948665"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436646"
 ---
 # <a name="trainings-dashboard"></a>培训面板
 

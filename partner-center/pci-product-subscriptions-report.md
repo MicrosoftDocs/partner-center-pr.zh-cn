@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解你的工作效果，以及你可以在哪些方面改进你为客户销售或管理的云订阅。
-keywords: PCI，性能，量化，客户成功，云订阅，分析，报告
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948804"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436666"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的产品订阅报表
 

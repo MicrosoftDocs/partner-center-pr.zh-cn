@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何将 Azure 订阅分配给合作伙伴中心的客户，以及如何使客户能够管理自己的订阅。
 author: rbars
 ms.author: rbars
-keywords: Azure, Azure 订阅, 订阅, 分配订阅, 管理 azure 订阅
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9b9b2f1f62d06e8f6802535738c7ba08666ac56
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: cf69d3cc9b7f9034e357d0b85e7910c3fe9d98a6
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390484"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436006"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>将 Azure 订阅分配给合作伙伴中心的客户
 

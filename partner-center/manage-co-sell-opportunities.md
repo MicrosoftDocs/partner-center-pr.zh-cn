@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 作为合格的 Microsoft 合作伙伴，你可以与 Microsoft 共同销售。 了解如何定义交易，邀请 Microsoft 协作，或查看已发送的交易。
 author: sroy
 ms.author: sroy
-keywords: 引用，共同销售，交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949459"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434356"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>管理合作伙伴中心的共同销售机会，以定义交易并更好地满足客户需求
 
@@ -56,7 +55,7 @@ ms.locfileid: "85949459"
 ## <a name="creating-a-co-sell-opportunity"></a>创建共同销售机会 
 
 > [!IMPORTANT]
-> 若要与 Microsoft 共同销售，合作伙伴需要一个商业就绪的解决方案、一个共同的销售团队和一个强大的走向市场策略。 它们还必须满足特定的附加条件。 有关详细信息，请参阅[成为共同销售就绪](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
+> 若要与 Microsoft 进行联合销售，合作伙伴需要可供商用的解决方案、投入的销售团队和强大的上市策略。 它们还必须满足特定的附加条件。 有关详细信息，请参阅[成为共同销售就绪](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
 
 
 您可以创建两种类型的共同销售机会。 
@@ -65,7 +64,7 @@ ms.locfileid: "85949459"
 
 选择此特定交易的客户。 输入其位置，然后键入名称。 自动建议会根据搜索条件开始显示建议。 由于许多公司在同一位置有多个业务实体，你可能会看到多个结果。 如果不确定选择哪一种，可以确认哪个 D-N-S 号码属于您的客户。 请确保为你使用的客户选择完全匹配项。
 
-单击 **"选择客户**" 后，系统会提示输入联系人的姓名、电话号码和电子邮件地址，作为此交易的主要联系点。 这些详细信息是可选的，仅当你打算邀请 Microsoft 销售人员帮助你参与服务时，这些详细信息才是必需的。 选择“下一步”。
+单击 **"选择客户**" 后，系统会提示输入联系人的姓名、电话号码和电子邮件地址，作为此交易的主要联系点。 这些详细信息是可选的，仅当你打算邀请 Microsoft 销售人员帮助你参与服务时，这些详细信息才是必需的。 选择“**下一页**”。
 
 > [!IMPORTANT]
 > 请确保已获得客户同意向 Microsoft 提供其联系信息，以应对交易。 Microsoft 可能会使用此信息直接与客户联系。
@@ -81,7 +80,7 @@ ms.locfileid: "85949459"
 |**估计结束日期**| 必需| 您希望结束客户交易的截止日期。 |
 |**CRM ID**| 可选 | 用各自 CRM 中的机会 ID 标记处理跟踪目的。|
 |**市场营销活动 ID**| 可选 | 捕获导致交易的营销活动。 如果你标记了来自具有相同 ID 的市场活动的所有交易，则这一归档可帮助你跟踪某一市场活动的投资回报。|
-|**备注**| 可选 | 更新所有最新信息，为公司的其他员工提供对同一交易的其他员工的可见性，或者尝试了解该交易的当前状态。 你还可以使用它作为记录的通信，以便与你的公司在 Microsoft 卖方/其他合作伙伴之间进行讨论。|
+|备注| 可选 | 更新所有最新信息，为公司的其他员工提供对同一交易的其他员工的可见性，或者尝试了解该交易的当前状态。 你还可以使用它作为记录的通信，以便与你的公司在 Microsoft 卖方/其他合作伙伴之间进行讨论。|
 
 ### <a name="add-your-employees"></a>添加员工
 

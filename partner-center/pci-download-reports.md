@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 浏览合作伙伴中心统一报表仪表板。
 author: shthota77
 ms.author: shthota
-Keywords: 合作伙伴中心见解，报表，下载报表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948864"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436676"
 ---
 # <a name="download-reports"></a>下载报表
 
@@ -23,17 +22,17 @@ ms.locfileid: "85948864"
 - 主管人员报表查看器
 - 报表查看器
 
-## <a name="introduction"></a>介绍
+## <a name="introduction"></a>简介
 
 利用 "Insights" 仪表板中的 "下载报表" 中心，你可以导出以制表符分隔值（TSV）格式提供合作伙伴中心见解报表的原始数据集。 这使您可以根据业务需求对数据进行更深入的分析。
 
 生成报表后，报表将显示在 "**生成的报表**" 部分中，您可以使用 Microsoft Excel 等工具进行下载和分析。
 
-**新建报表**
+**创建新报表**
 
-若要生成报表，请首先从 "**选择报表**" 下拉端选择报表。 然后，从 "**选择日期范围**" 下拉列表中选择日期范围。 然后选择“生成”****。 该报表将以制表符分隔值（TSV）格式生成，并将在几分钟内可从 "**生成的报告**" 部分下载。 在过去14天内生成的报表将可供下载。
+若要生成报表，请首先从 "**选择报表**" 下拉端选择报表。 然后，从 "**选择日期范围**" 下拉列表中选择日期范围。 选择“生成”。 该报表将以制表符分隔值（TSV）格式生成，并将在几分钟内可从 "**生成的报告**" 部分下载。 在过去14天内生成的报表将可供下载。
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="新建报表":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="创建新报表":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="生成的报表":::
 

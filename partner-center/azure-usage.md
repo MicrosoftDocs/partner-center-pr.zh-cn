@@ -1,5 +1,5 @@
 ---
-title: 为最大预留使用量调整 Azure VM 大小
+title: 针对最大预留项使用率调整 Azure VM 的大小
 ms.topic: article
 ms.date: 07/08/2020
 ms.service: partner-dashboard
@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机（VM）大小调整为客户的计算需求。
 author: BillLinzbach
 ms.author: BillLi
-keywords: azure, 预订, 虚拟机, 管理, 利用率, 确定大小
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377651"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435736"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 

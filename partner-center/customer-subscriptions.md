@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何通过合作伙伴中心向客户销售订阅并对其进行管理。
 author: BillLinzbach
 ms.author: BillLi
-Keywords: 订阅，分配许可证，许可证，客户满意度，Azure 订阅
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb35353c84e35c3900b76676ed5cf1d908979fb3
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377441"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434756"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>CSP 计划合作伙伴如何向客户销售订阅
 

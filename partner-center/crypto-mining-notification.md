@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: 了解在一个或多个 Azure 订阅上出现有关潜在的加密货币挖掘（或加密挖掘）的通知时，这意味着什么。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: 加密挖掘，加密货币挖掘，安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947860"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435196"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 
@@ -73,6 +72,6 @@ ms.locfileid: "85947860"
 
 6. 在**描述**字段中，输入受影响订阅的名称以及其他问题或疑虑。
 
-7. 输入联系人信息。
+7. 输入联系信息。
 
 8. 选择“提交”。

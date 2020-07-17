@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解 Microsoft 希望在云解决方案提供商计划中的客户和合作伙伴之间发生客户通信的方式。
 author: brentserbus
 ms.author: brserbus
-keywords: 通讯, 客户通讯, 与 Microsoft 沟通
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d0b705f915959c1d6850452828323c2070b335f2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 9a36cbd8ceefda5e514ddf0e543daf78bc266285
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377461"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434866"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>成功与 Microsoft 进行客户通信的准则
 

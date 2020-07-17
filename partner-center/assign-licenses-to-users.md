@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
 author: BillLinzbach
 ms.author: BillLi
-Keywords: 客户管理，帐户，创建帐户，许可证，分配许可证，用户管理，密码，重置密码，更改密码
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377681"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435956"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作伙伴中心的客户帐户的用户管理任务
 

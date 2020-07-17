@@ -6,16 +6,15 @@ description: 解答有关 Azure、cloud、Visual Studio 和技术和支持权益
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
-keywords: 权益、到期、到期、续订、订阅、许可证、扩展
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 6050dc81a192d924ce9d1203ed435f8983bb1b26
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 9449778c184ab9e64abfd908fd5f8708f752f44a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072779"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435626"
 ---
 # <a name="benefits-faq"></a>关于权益的常见问题解答
 
@@ -80,7 +79,7 @@ ms.locfileid: "85072779"
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. 能否在我的客户帐户上激活许可证
 
-不需要。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
+否。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. 在 Azure 批量信用中分配用户时遇到问题。 我该怎么办
 

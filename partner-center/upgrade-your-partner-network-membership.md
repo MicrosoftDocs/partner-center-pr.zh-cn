@@ -10,12 +10,12 @@ robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603876"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436476"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>升级 Microsoft 合作伙伴网络成员身份并浏览新产品/服务、计划和资源
 
@@ -109,7 +109,7 @@ Microsoft 的合作伙伴计划提供了以下三个成员资格选项，其中�
 
 若要取消你的 Microsoft Action Pack 订阅，必须联系合作伙伴中心支持部门。
 
-1. 转到[https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
+1. 转到 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
 
 2. 选择“报告合作伙伴中心问题”，然后在下一页上选择“新建请求” 。
 

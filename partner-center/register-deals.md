@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 当你注册在合作伙伴中心赢得的交易时，它可帮助 Microsoft 在将来提供更多机会。
 author: rajap-ms
 ms.author: rajap
-keywords: 交易注册
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 7551d3d010bfb7a4bd96b425d0afbf16ab8ebb1d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302254"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434076"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>注册在合作伙伴中心赢得的交易，以便以后可以获得更多机会
 
@@ -59,7 +58,7 @@ ms.locfileid: "86302254"
 
 在“引荐”>“交易注册”>“需要采取操作”页面中，你将看到尚未注册或需要更新的新注册****。 你可以使用筛选器来仅显示“不完整”或“需要更新”的交易注册********。 “不完整”的交易注册是源自引荐但尚未注册的交易注册****。 “需要更新”的交易注册是已创建并已注册但需要你更新所提供的信息的交易注册****。
 
-### <a name="in-progress"></a>正在进行
+### <a name="in-progress"></a>正在学习
 
 在“引荐”>“交易注册”>“正在进行中”页面中，你将看到 Microsoft 正在审查的交易注册****。 如果我们需要其他信息，我们将使用你提供的“注册联系人”信息****。
 

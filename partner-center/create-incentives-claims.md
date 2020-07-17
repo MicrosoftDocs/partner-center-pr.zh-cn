@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: 了解如何从合作伙伴中心启动奖励合作声明。 你可以在“历史记录”中查看构建申请所涉及的所有活动。
 author: kim-davis
 ms.author: kimnich
-keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 18390bf51b2ef4be1233b04407c0ac2b62315063
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947841"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435226"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>创建和管理奖励申请
 

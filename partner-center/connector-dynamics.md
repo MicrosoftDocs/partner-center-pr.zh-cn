@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: 将合作伙伴中心的推荐与 Dynamics 365 CRM 同步
 author: sroy
 ms.author: sroy
-keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ec0a23afb9e98cc6604977a5a0489b1fc7c5e8a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948001"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435446"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -224,7 +223,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
    2. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="机会":::
+      商机
 
    3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 

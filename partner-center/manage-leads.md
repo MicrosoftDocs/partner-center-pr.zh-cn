@@ -7,17 +7,16 @@ ms.subservice: partnercenter-csp
 description: 使用合作伙伴中心来响应引用并管理新的、现有的和已存档的潜在客户和引用。 了解将来如何获取更多的推荐。
 author: sroy
 ms.author: sroy
-keywords: 引用，共同销售，交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949440"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434366"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潜在顾客，如客户查询、市场营销合格的潜在顾客和销售资格主管
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潜在顾客，如客户查询、符合市场营销的潜在顾客和符合销售的潜在顾客
 
 **适用于**
 

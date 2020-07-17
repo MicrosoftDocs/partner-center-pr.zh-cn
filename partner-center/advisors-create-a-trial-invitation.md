@@ -7,14 +7,13 @@ description: 了解合作伙伴如何为其客户端创建和发送试用邀请�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: 顾问，office 365，试用版
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9726fc9316f33cf35f91a7db60a64689bccc0617
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 04fb03ab49b68023898b44a9ec6ffad2b1f76a8e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458353"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436226"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365
 
@@ -39,7 +38,7 @@ ms.locfileid: "84458353"
     - **试用订阅**：可以选择的试用订阅列表由客户所在的国家或地区的使用位置决定。
     - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，则客户端可以接受或不接受委派管理的试用邀请。 有关委派管理的详细信息，请参阅[提供委派管理](customers-revoke-admin-privileges.md)。
 
-3. 单击“下一步” 。
+3. 单击“下一步”。
 
 4. 在**您的试用邀请**页面上，复制试用邀请信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义的试用邀请。
 

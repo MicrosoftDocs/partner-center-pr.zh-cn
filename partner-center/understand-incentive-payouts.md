@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: 使用这些页可以查看、管理和导出支付和收益详细信息，以及计划状态和完整事务历史记录。
 author: kim-davis
 ms.author: kimnich
-keywords: 奖励，付款，付款，激励计划，地点，计划状态
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cfbca13e9abb4bd474923cf7e9dabf6bb2ac85a2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377291"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436486"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理和导出激励计划的详细信息
 
@@ -108,14 +107,14 @@ ms.locfileid: "86377291"
 
 ## <a name="payment-status"></a>付款状态
 
-|**收入状态** |**原因** |**合作伙伴是否需要采取行动？**       |
+|**收入状态** |**在于** |**合作伙伴是否需要采取行动？**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |未处理        | 收入符合成为付款的条件。 按照激励计划的计划指南中的规定，它会在这种状态下度过“冷却”期。       |否        |
 |即将处理      |支付订单在处理付款之前生成待定内部评审。       |否       |
 |等待纳税发票      |您的纳税发票不完整或无效。          |必须更新纳税发票，才能收到付款         |
 |审查期间被拒绝        |付款在评审期间被拒绝。          |有关详细信息，请联系 Microsoft 支持人员         |
 |Failed        |由于 Microsoft 系统错误，付款失败。         |有关详细信息，请联系 Microsoft 支持部门         |
-|正在进行     |付款正在进行。         |否         |
+|正在学习     |付款正在进行。         |否         |
 |付款不正确        |付款 recouping 正在进行。          |否        |
 |已发送        |已将付款发送到银行。          |否       |
 |正在重新处理       |付款遇到 Microsoft 系统错误，正在重新处理。           |否         |

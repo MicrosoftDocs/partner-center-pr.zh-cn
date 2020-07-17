@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何通过组织正确的文档、发票、语句和执行证明，为奖励提交成功的合作声明。
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: 奖励申请, 合作申请, 合作资金
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377631"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435416"
 ---
 # <a name="incentives-co-op-claims-overview"></a>奖励合作申请概述
 

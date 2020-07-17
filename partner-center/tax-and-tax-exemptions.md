@@ -6,16 +6,15 @@ description: 对于 CSP 计划合作伙伴，了解每个地区的税收责任�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
-keywords: 税金，免税，vat，分销商，计费
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377371"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436416"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>在 CSP 计划中，按地区或国家/地区为你的国家/地区或国家/地区
 
@@ -36,7 +35,7 @@ ms.locfileid: "86377371"
 
 有关其他问题，请[在合作伙伴中心请求支持](#support)。
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>加拿大
 
 大多数经销商都不会免除 GST/HST/QST。 请咨询你的税务顾问，确定你是否符合豁免条件，以及你应向 Microsoft 提供哪些文档。
 
@@ -56,7 +55,7 @@ Microsoft 现在将标准 VAT 应用于南非合作伙伴购买的数字内容�
 
 Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理，则必须通过[向 Microsoft 发送 VAT ID 号](organization-tax-info.md)来更新合作伙伴计费配置文件。
 
-### <a name="united-states"></a>United States
+### <a name="united-states"></a>美国
 
 美国的所有经销商都需要在接受 Microsoft 经销商协议后 30 天内提供免增值税文档。 每个州都具有不同的转售免税证书。 请与税务顾问合作，确定与你的合法地址和注册州相关的内容。
 

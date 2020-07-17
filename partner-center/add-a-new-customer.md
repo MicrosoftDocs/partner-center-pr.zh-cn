@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心添加新的客户记录。 然后，你可以销售客户订阅、管理计费或提供客户支持。
 author: parthp
 ms.author: parthp
-keywords: 客户, 添加客户, 客户帐户, 合作伙伴中心上的客户帐户, 客户, 添加客户, 创建客户帐户
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c4486153c5b9a03b90102dd42460e61ad43ecbf8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947442"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436376"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作伙伴中心添加新客户记录
 

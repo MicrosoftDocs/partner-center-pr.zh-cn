@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: 请参阅合作伙伴中心计费示例一次，并选择定期购买--在购买订阅时，添加更多订阅，添加或删除座位。
 author: sodeb
 ms.author: sodeb
-Keywords: 计费，付款，一次购买，个定期购买，个订阅，座位
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d2ae1c543943b97ec961b166ae6c08c56e76cd6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947966"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435386"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>一次合作伙伴中心计费方案，并选择定期购买
 

@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: 订阅计费, 计费, 在合作伙伴中心计费, 合作伙伴中心计费, 阅读我的帐单, 发票, 合作伙伴中心发票, 云解决方案提供商发票, 我的帐单在哪里？
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949311"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436626"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>了解帐单和对帐文件-了解如何在合作伙伴中心查找这些文件
 

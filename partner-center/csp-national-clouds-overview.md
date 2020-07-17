@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商计划中的 Microsoft 合作伙伴如何向在受支持的国家/地区注册的客户进行销售。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 国家云, 德国 Microsoft 云, Microsoft Cloud for US Government, 世纪互联, 中国 Microsoft 云
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908065"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434946"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>适用于作为 CSP 计划的一部分在 Microsoft 国家标准云中销售
 

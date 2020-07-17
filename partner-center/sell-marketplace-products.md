@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 在合作伙伴中心，了解如何向客户销售客户订阅，以通过独立软件供应商（Isv）发布到商业市场的 SaaS 产品。
 author: BillLinzbach
 ms.author: BillLi
-keywords: 订阅, 市场, 第三方, ISV
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c862cbe8048881fd8fe223d9afae85c66e7104e
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a05e2cc968e96e429390ea63ecb6fe213ab2ca2c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390594"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436566"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>使用合作伙伴中心销售商业市场产品的客户订阅
 

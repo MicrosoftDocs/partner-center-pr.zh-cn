@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何代表合作伙伴中心的客户购买、管理、销售和取消本地软件订阅。
 author: BillLinzbach
 ms.author: BillLi
-keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377598"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434936"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商（CSP）计划出售本地软件
 
@@ -55,16 +53,17 @@ ms.locfileid: "86377598"
 
 
 ## <a name="cancel-a-purchase"></a>取消购买
+
 使用以下过程可取消购买。 取消完成后，将吊销软件密钥。 
 
 >[!NOTE]
 >只有管理员代理才能取消购买。 
 
 1.  在开始该过程之前，请确保你具有以下内容： 
-    -   客户租户 GUID 或域名
-    -   订单 ID 或订阅 ID
-    -   退款原因
-    -   请求的金额
+    - 客户租户 GUID 或域名
+    - 订单 ID 或订阅 ID
+    - 退款原因
+    - 请求的金额
 
 2.  在客户的详细信息页上，选择 "**软件**"。 你将看到你已购买的所有软件的列表。 
 

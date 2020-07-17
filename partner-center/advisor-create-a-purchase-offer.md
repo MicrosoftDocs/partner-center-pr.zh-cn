@@ -7,14 +7,13 @@ description: 了解经过授权的订阅顾问如何使用合作伙伴中心来�
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-keywords: 顾问，office 365，购买
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11aa00692ac3686aedaf069e11960919d1c4380
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947451"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436266"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顾问：创建购买提议
 
@@ -42,7 +41,7 @@ ms.locfileid: "85947451"
     - **许可证计数**：选择订阅时，请键入要包括在购买提议中的许可证数量。
     - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，客户端可以接受或不接受委派管理的购买提议。
 
-3. 单击 **“下一步”** 。
+3. 单击“下一步”。
 
 4. 在 "**发送**" 页上，复制 "购买产品/服务" 信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义购买提议。
 

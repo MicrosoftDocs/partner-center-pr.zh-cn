@@ -5,15 +5,14 @@ ms.date: 06/05/2020
 Description: 详细了解合作伙伴中心的基于使用情况的计费，按每月使用费率计费。
 author: sodeb
 ms.author: sodeb
-keywords: 计费，基于使用情况，使用情况
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e75e915d4728d021856b099b7c62434f6481254
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b3c3626bea685a8751ffcc5aa877fd95824e693
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949085"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436456"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>了解针对每月使用的即用即付服务的基于使用情况的计费
 

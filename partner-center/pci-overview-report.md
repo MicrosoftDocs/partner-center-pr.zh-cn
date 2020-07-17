@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 查看有关使用许可证、订阅和 Azure 消耗的销售和部署、客户增长和收入增长情况的快照。
-keywords: PCI，性能，客户成功，量化指标，
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948830"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436696"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作伙伴中心见解中提供的仪表板报表
  

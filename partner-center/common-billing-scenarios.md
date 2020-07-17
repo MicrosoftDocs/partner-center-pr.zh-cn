@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 在添加新订阅、调整许可证数量或取消订阅时，请浏览计费。 查看基于使用情况和许可证的订阅的不同之处。
 author: sodeb
 ms.author: sodeb
-Keywords: 计费，付款，订单，使用，基于许可证的计费，周年纪念日期，术语，取消，续订，价格公式，协调文件，侦测文件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947929"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435336"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>适用于合作伙伴中心的 CSP 计划合作伙伴的常见计费方案
 

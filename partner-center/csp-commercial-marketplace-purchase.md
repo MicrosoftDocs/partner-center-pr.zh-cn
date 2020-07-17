@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解 CSP 计划合作伙伴如何使用合作伙伴中心市场从独立软件供应商（Isv）购买 SaaS 产品/服务。
 author: rbars
 ms.author: rbars
-keywords: 订阅，marketplace，商业市场，第三方，ISV，SaaS 产品/服务，云解决方案提供商计划，购买产品/服务，购买订阅
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c711a937925cea8b1595fce1811142e4076b4d57
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947693"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435056"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>在合作伙伴中心为客户购买商业 marketplace 产品
 

@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解提高业务的方式。 按地域、产品和其他属性查看特定客户趋势。
-keywords: PCI，性能，客户成功，量化指标，
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949369"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434456"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>合作伙伴中心见解中的客户仪表板报表
 

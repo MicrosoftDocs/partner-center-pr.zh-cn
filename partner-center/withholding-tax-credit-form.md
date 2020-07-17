@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: 预缴税金信用，税收信用，德语税信用表，税务证书，信用额度
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: b4660db3b23f44a9b7bbf7bf238a03b271405bfe
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405518"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436446"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>如果你支付本地税务主管机构而不是 Microsoft，请确保为预缴税金贷记
 

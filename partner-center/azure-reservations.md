@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 作为云解决方案提供商，你可以购买、销售或管理客户的 Azure 保留。 使用合作伙伴中心、Azure 门户或合作伙伴中心 API。
 author: BillLinzbach
 ms.author: BillLi
-keywords: azure, 预订, 管理, 计费, 购买, Azure RI, Azure 预留实例
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 4524d810a036953e45fb94a72241734e02a2798f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377641"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435726"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作伙伴中心、Azure 门户或 Api 向客户销售 Microsoft Azure 预订
 

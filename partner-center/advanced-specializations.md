@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 增强合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌/银能力一起获得。
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390194"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436346"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>获得先进的专用化来展示专长并向客户 
 

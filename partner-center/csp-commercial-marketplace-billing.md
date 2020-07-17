@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何针对从合作伙伴中心内的商业市场为客户购买的 ISV SaaS 产品或订阅付费。
 author: rbars
 ms.author: rbars
-keywords: 订阅，产品，购买，Marketplace，第三方，ISV，计费，发票，协调，侦测文件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947819"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435136"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 

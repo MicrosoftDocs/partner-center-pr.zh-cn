@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 使用合作伙伴中心 Webhook Api 了解 Dynamics 365 CRM 或 Salesforce CRM 何时发生了引用资源更改。
 author: sroy
 ms.author: sroy
-keywords: 引用，webhook api，资源更改事件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ed7cad26af447302cb0ccd1d8d359ce6b7bbe87f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2335c06d9c410d44ed5f444574d9bc8fb3e48fc0
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949350"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434016"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>使用 Webhook Api 为 Dynamics 365 CRM 和 Salesforce CRM 注册资源更改事件
 
@@ -147,7 +146,7 @@ ms.locfileid: "85949350"
 
    2. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="机会":::
+      商机
 
    3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 

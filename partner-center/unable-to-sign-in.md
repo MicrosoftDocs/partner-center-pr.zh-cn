@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 如果你无法登录到合作伙伴中心，请了解要执行的操作-包括有关重置工作帐户密码或学校帐户密码的信息（如果你忘记了密码）。
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: 登录问题，忘记了密码，密码
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265045"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436506"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>如果无法登录到合作伙伴中心并需要重置密码
 

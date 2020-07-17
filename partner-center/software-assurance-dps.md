@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何在 Microsoft 规划服务预订中注册和限定，以便您可以向具有软件保障的客户提供培训和其他服务。
 author: mowree
 ms.author: mowrim
-Keywords: 预部署、规划、软件保障
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390324"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436536"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 

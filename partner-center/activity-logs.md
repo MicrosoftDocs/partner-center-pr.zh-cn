@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何查看和导出活动日志，以获取有关客户帐户交易以及其他客户相关合作伙伴管理活动的见解。
 author: dineshvu
 ms.author: dineshvu
-Keywords: 活动日志, 订阅, 付款, 计费, 交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176003"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436396"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或导出客户活动日志以更深入了解客户交易
 

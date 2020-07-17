@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 请参阅国家/地区和货币，根据公司的位置，你可以在其中销售 CSP 优惠。
 author: LauraBrenner
 ms.author: labrenne
-keywords: CSP 市场，区域，可在其中销售 CSP、CSP 产品、区域、销售云解决方案、全局 CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991824"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434166"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
 
@@ -263,7 +262,7 @@ ms.locfileid: "84991824"
 |  巴哈马        |   USD    |
 |  巴巴多斯       |   USD    |
 |  伯利兹         |   USD    |
-|  百慕大        |   USD    |
+|  百慕大群岛        |   USD    |
 |  玻利维亚        |   USD    |
 |  博内尔        |   USD    |
 |  英属维尔京群岛|USD|
@@ -294,7 +293,7 @@ ms.locfileid: "84991824"
 |  秘鲁           |   USD    |
 |  波多黎各    |   USD    |
 |  萨巴           |   USD    |
-|  圣巴泰勒米|  USD    |
+|  圣巴泰勒米岛|  USD    |
 |  圣基茨和尼维斯|    |
 |  圣卢西亚    |   USD    |
 |  法属圣马丁   |   USD    |
