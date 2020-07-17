@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 了解如何查看或下载你的 MPN 会员发票，如何为免税提供文件，以及如何向 Microsoft 发送 VAT ID 号。
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN，发票，地图，免税，VAT，VAT ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633807"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436756"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作伙伴网络中的发票和税款
 
@@ -39,7 +38,7 @@ ms.locfileid: "84633807"
 
 1.  使用工作帐户登录到[合作伙伴中心](https://partner.microsoft.com/dashboard/home)，并在左侧菜单中选择 " **MPN** "。
 
-4.  在下拉列表中，选择 "**成员资格**" "产品/服务" 以查看可供购买的产品/服务以及当前注册年份可用的发票。 若要查看以前年份的发票，请选择“过期”  。
+4.  在下拉列表中，选择 "**成员资格**" "产品/服务" 以查看可供购买的产品/服务以及当前注册年份可用的发票。 若要查看以前年份的发票，请选择“过期”。
 
 6.  选择所需发票，然后选择 "**下载发票**"。 
 

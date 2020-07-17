@@ -7,14 +7,13 @@ ms.subservice: partnercenter-csp
 description: 销售 Minecraft 教育版订阅，使其能够从 Microsoft 教育商店下载它们。
 author: BrentSerbus
 ms.author: brserbus
-keywords: 授权教育合作伙伴、教育、教育培训、学校
 ms.localizationpriority: medium
-ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949004"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436816"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
