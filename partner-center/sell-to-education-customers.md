@@ -7,98 +7,97 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
-keywords: 教育、特殊段
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 873a36bb38e97ab1b4721a95748aa06af6be5048
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25710920130fc78e220d000e552914c093f92706
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949239"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436576"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a><span data-ttu-id="4dcc5-104">如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户</span><span class="sxs-lookup"><span data-stu-id="4dcc5-104">How to sell offers to education customers & how to create an education customer in Partner Center</span></span>
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a><span data-ttu-id="3cb8c-103">如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户</span><span class="sxs-lookup"><span data-stu-id="3cb8c-103">How to sell offers to education customers & how to create an education customer in Partner Center</span></span>
 
-<span data-ttu-id="4dcc5-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="4dcc5-105">**Applies to**</span></span>
+<span data-ttu-id="3cb8c-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="3cb8c-104">**Applies to**</span></span>
 
-- <span data-ttu-id="4dcc5-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="4dcc5-106">Partner Center</span></span>
+- <span data-ttu-id="3cb8c-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="3cb8c-105">Partner Center</span></span>
 
-<span data-ttu-id="4dcc5-107">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="4dcc5-107">**Appropriate roles**</span></span>
+<span data-ttu-id="3cb8c-106">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="3cb8c-106">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="4dcc5-108">全局管理员</span><span class="sxs-lookup"><span data-stu-id="4dcc5-108">Global admin</span></span>
-- <span data-ttu-id="4dcc5-109">管理员代理</span><span class="sxs-lookup"><span data-stu-id="4dcc5-109">Admin agent</span></span>
-- <span data-ttu-id="4dcc5-110">销售代理</span><span class="sxs-lookup"><span data-stu-id="4dcc5-110">Sales agent</span></span>
+- <span data-ttu-id="3cb8c-107">全局管理员</span><span class="sxs-lookup"><span data-stu-id="3cb8c-107">Global admin</span></span>
+- <span data-ttu-id="3cb8c-108">管理员代理</span><span class="sxs-lookup"><span data-stu-id="3cb8c-108">Admin agent</span></span>
+- <span data-ttu-id="3cb8c-109">销售代理</span><span class="sxs-lookup"><span data-stu-id="3cb8c-109">Sales agent</span></span>
 
-## <a name="create-an-education-customer"></a><span data-ttu-id="4dcc5-111">创建教育客户</span><span class="sxs-lookup"><span data-stu-id="4dcc5-111">Create an education customer</span></span>
+## <a name="create-an-education-customer"></a><span data-ttu-id="3cb8c-110">创建教育客户</span><span class="sxs-lookup"><span data-stu-id="3cb8c-110">Create an education customer</span></span>
 
-<span data-ttu-id="4dcc5-112">本文介绍如何在合作伙伴中心创建教育客户，并向他们出售教育产品。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-112">This article explains how to create an education customer in Partner Center and sell education products to them.</span></span> <span data-ttu-id="4dcc5-113">还介绍了如何查看审核状态，并在必要时重新提交审核请求。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-113">It also covers how to view the vetting status and resubmit the vetting request if necessary.</span></span>
+<span data-ttu-id="3cb8c-111">本文介绍如何在合作伙伴中心创建教育客户，并向他们出售教育产品。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-111">This article explains how to create an education customer in Partner Center and sell education products to them.</span></span> <span data-ttu-id="3cb8c-112">还介绍了如何查看审核状态，并在必要时重新提交审核请求。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-112">It also covers how to view the vetting status and resubmit the vetting request if necessary.</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="4dcc5-114">Microsoft vets 了每个新创建的教育客户租户，以确保它们符合教育优惠。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-114">Microsoft vets each newly created education customer tenant to ensure they are qualified for education offers.</span></span>  <span data-ttu-id="4dcc5-115">请确保尽可能准确且完整地输入所需的信息，以防止在审核过程中发生延迟。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-115">Be sure you enter the required information as accurately and completely as possible to prevent delays in the vetting process.</span></span>
+> <span data-ttu-id="3cb8c-113">Microsoft vets 了每个新创建的教育客户租户，以确保它们符合教育优惠。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-113">Microsoft vets each newly created education customer tenant to ensure they are qualified for education offers.</span></span>  <span data-ttu-id="3cb8c-114">请确保尽可能准确且完整地输入所需的信息，以防止在审核过程中发生延迟。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-114">Be sure you enter the required information as accurately and completely as possible to prevent delays in the vetting process.</span></span>
 
-1. <span data-ttu-id="4dcc5-116">登录到合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-116">Sign in to Partner Center.</span></span>
+1. <span data-ttu-id="3cb8c-115">登录到合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-115">Sign in to Partner Center.</span></span>
 
-2. <span data-ttu-id="4dcc5-117">选择 "**客户**"，然后选择 "**添加客户**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-117">Select **Customers** and then select **Add a customer**.</span></span> <span data-ttu-id="4dcc5-118">从 "**特殊条件**" 下拉列表中选择 "**教育**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-118">Select **Education** from the **Special qualifications** dropdown.</span></span>  <span data-ttu-id="4dcc5-119">根据需要填写帐户信息的其余部分。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-119">Fill in the rest of the account information as required.</span></span>  <span data-ttu-id="4dcc5-120">有助于审核过程的关键字段包括：</span><span class="sxs-lookup"><span data-stu-id="4dcc5-120">Key fields that assist the vetting process include:</span></span>
+2. <span data-ttu-id="3cb8c-116">选择 "**客户**"，然后选择 "**添加客户**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-116">Select **Customers** and then select **Add a customer**.</span></span> <span data-ttu-id="3cb8c-117">从 "**特殊条件**" 下拉列表中选择 "**教育**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-117">Select **Education** from the **Special qualifications** dropdown.</span></span>  <span data-ttu-id="3cb8c-118">根据需要填写帐户信息的其余部分。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-118">Fill in the rest of the account information as required.</span></span>  <span data-ttu-id="3cb8c-119">有助于审核过程的关键字段包括：</span><span class="sxs-lookup"><span data-stu-id="3cb8c-119">Key fields that assist the vetting process include:</span></span>
 
-   - <span data-ttu-id="4dcc5-121">**公司名称**：输入法律实体名称-审核必需的</span><span class="sxs-lookup"><span data-stu-id="4dcc5-121">**Company name**: ENTER LEGAL ENTITY NAME - Required for vetting</span></span>
-   - <span data-ttu-id="4dcc5-122">**国家/地区和地址行**：输入完整的实体邮件地址–审核必需的</span><span class="sxs-lookup"><span data-stu-id="4dcc5-122">**Country/region and Address lines**: ENTER FULL ENTITY MAILING ADDRESS – required for vetting</span></span>
-   - <span data-ttu-id="4dcc5-123">**电子邮件地址**：输入实体拥有的电子邮件，而不是审核所需的免费或 on.microsoft.com 的电子邮件</span><span class="sxs-lookup"><span data-stu-id="4dcc5-123">**Email address**:  Enter the Entity owned email – not a free or on.microsoft.com email – required for vetting</span></span>
-   - <span data-ttu-id="4dcc5-124">**客户联系信息**：这些详细信息将作为审核过程的一部分使用</span><span class="sxs-lookup"><span data-stu-id="4dcc5-124">**Customer contact information**: these details will be used as part of the vetting process</span></span>
-   - <span data-ttu-id="4dcc5-125">**主域名**：用于创建客户的帐户和电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-125">**Primary domain name**:  Used to create customer's account and email addresses.</span></span>  <span data-ttu-id="4dcc5-126">选择类似于公司名称的名称，不含空格或特殊字符。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-126">Choose a name similar to the company name with no spaces or special characters.</span></span>  <span data-ttu-id="4dcc5-127">以后无法更改此名称。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-127">This name cannot be changed later.</span></span>
+   - <span data-ttu-id="3cb8c-120">**公司名称**：输入法律实体名称-审核必需的</span><span class="sxs-lookup"><span data-stu-id="3cb8c-120">**Company name**: ENTER LEGAL ENTITY NAME - Required for vetting</span></span>
+   - <span data-ttu-id="3cb8c-121">**国家/地区和地址行**：输入完整的实体邮件地址–审核必需的</span><span class="sxs-lookup"><span data-stu-id="3cb8c-121">**Country/region and Address lines**: ENTER FULL ENTITY MAILING ADDRESS – required for vetting</span></span>
+   - <span data-ttu-id="3cb8c-122">**电子邮件地址**：输入实体拥有的电子邮件，而不是审核所需的免费或 on.microsoft.com 的电子邮件</span><span class="sxs-lookup"><span data-stu-id="3cb8c-122">**Email address**:  Enter the Entity owned email – not a free or on.microsoft.com email – required for vetting</span></span>
+   - <span data-ttu-id="3cb8c-123">**客户联系信息**：这些详细信息将作为审核过程的一部分使用</span><span class="sxs-lookup"><span data-stu-id="3cb8c-123">**Customer contact information**: these details will be used as part of the vetting process</span></span>
+   - <span data-ttu-id="3cb8c-124">**主域名**：用于创建客户的帐户和电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-124">**Primary domain name**:  Used to create customer's account and email addresses.</span></span>  <span data-ttu-id="3cb8c-125">选择类似于公司名称的名称，不含空格或特殊字符。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-125">Choose a name similar to the company name with no spaces or special characters.</span></span>  <span data-ttu-id="3cb8c-126">以后无法更改此名称。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-126">This name cannot be changed later.</span></span>
 
-3. <span data-ttu-id="4dcc5-128">完成后，请选择 "**查看**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-128">When you're finished, select **Review**.</span></span>
+3. <span data-ttu-id="3cb8c-127">完成后，请选择 "**查看**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-127">When you're finished, select **Review**.</span></span>
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客户帐户":::
 
-### <a name="confirm-your-education-customers-vetting-status"></a><span data-ttu-id="4dcc5-130">确认教育客户的审核状态</span><span class="sxs-lookup"><span data-stu-id="4dcc5-130">Confirm your education customer's vetting status</span></span>
+### <a name="confirm-your-education-customers-vetting-status"></a><span data-ttu-id="3cb8c-129">确认教育客户的审核状态</span><span class="sxs-lookup"><span data-stu-id="3cb8c-129">Confirm your education customer's vetting status</span></span>
 
-<span data-ttu-id="4dcc5-131">在客户帐户页上，请参阅**特殊资格状态**。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-131">On the customer's Account page, see **Special qualification status**.</span></span>
-<span data-ttu-id="4dcc5-132">状态示例：</span><span class="sxs-lookup"><span data-stu-id="4dcc5-132">Status examples:</span></span>
+<span data-ttu-id="3cb8c-130">在客户帐户页上，请参阅**特殊资格状态**。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-130">On the customer's Account page, see **Special qualification status**.</span></span>
+<span data-ttu-id="3cb8c-131">状态示例：</span><span class="sxs-lookup"><span data-stu-id="3cb8c-131">Status examples:</span></span>
 
-- <span data-ttu-id="4dcc5-133">如果客户通过了审核：教育</span><span class="sxs-lookup"><span data-stu-id="4dcc5-133">If customer passed vetting:  Education</span></span>
+- <span data-ttu-id="3cb8c-132">如果客户通过了审核：教育</span><span class="sxs-lookup"><span data-stu-id="3cb8c-132">If customer passed vetting:  Education</span></span>
 
    :::image type="content" source="images/edupassedvetting.png" alt-text="教育审核成功":::
 
-- <span data-ttu-id="4dcc5-135">如果客户未通过审核：而不是教育客户</span><span class="sxs-lookup"><span data-stu-id="4dcc5-135">If customer did not pass vetting:  Not an education customer</span></span>
+- <span data-ttu-id="3cb8c-134">如果客户未通过审核：而不是教育客户</span><span class="sxs-lookup"><span data-stu-id="3cb8c-134">If customer did not pass vetting:  Not an education customer</span></span>
 
    :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育审核失败":::
 
-- <span data-ttu-id="4dcc5-137">如果客户未标记为教育客户： None</span><span class="sxs-lookup"><span data-stu-id="4dcc5-137">If customer was not tagged as an Education customer:  None</span></span>
+- <span data-ttu-id="3cb8c-136">如果客户未标记为教育客户： None</span><span class="sxs-lookup"><span data-stu-id="3cb8c-136">If customer was not tagged as an Education customer:  None</span></span>
 
    :::image type="content" source="images/edunottagged.png" alt-text="教育未标记":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a><span data-ttu-id="4dcc5-139">更正客户帐户信息并重新提交审核</span><span class="sxs-lookup"><span data-stu-id="4dcc5-139">Correct the customer account info and resubmit for vetting</span></span>  
+## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a><span data-ttu-id="3cb8c-138">更正客户帐户信息并重新提交审核</span><span class="sxs-lookup"><span data-stu-id="3cb8c-138">Correct the customer account info and resubmit for vetting</span></span>  
 
-<span data-ttu-id="4dcc5-140">如果客户未能通过初始审核，现在可以更正信息并重新提交。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-140">If your customer fails the initial vetting, you can now correct information and resubmit it.</span></span>
+<span data-ttu-id="3cb8c-139">如果客户未能通过初始审核，现在可以更正信息并重新提交。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-139">If your customer fails the initial vetting, you can now correct information and resubmit it.</span></span>
 
-### <a name="correct-the-customer-account-information"></a><span data-ttu-id="4dcc5-141">更正客户帐户信息</span><span class="sxs-lookup"><span data-stu-id="4dcc5-141">Correct the customer account information</span></span>
+### <a name="correct-the-customer-account-information"></a><span data-ttu-id="3cb8c-140">更正客户帐户信息</span><span class="sxs-lookup"><span data-stu-id="3cb8c-140">Correct the customer account information</span></span>
 
-<span data-ttu-id="4dcc5-142">您必须拥有全局管理员权限才能更新客户的信息。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-142">You must have Global admin privileges to update the customer's information.</span></span> <span data-ttu-id="4dcc5-143">你需要在 Office 365 门户上更新信息，因为此数据无法从合作伙伴中心门户更新。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-143">You update the info on the Office 365 portal because this data can't be updated from the Partner Center portal.</span></span>
+<span data-ttu-id="3cb8c-141">您必须拥有全局管理员权限才能更新客户的信息。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-141">You must have Global admin privileges to update the customer's information.</span></span> <span data-ttu-id="3cb8c-142">你需要在 Office 365 门户上更新信息，因为此数据无法从合作伙伴中心门户更新。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-142">You update the info on the Office 365 portal because this data can't be updated from the Partner Center portal.</span></span>
 
-1. <span data-ttu-id="4dcc5-144">在 "帐户" 页上，你将看到说明客户资格视为 "不是教育客户" 的信息。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-144">On the Account page, you will see information stating that the customer qualification is regarded as "Not an education customer".</span></span>
+1. <span data-ttu-id="3cb8c-143">在 "帐户" 页上，你将看到说明客户资格视为 "不是教育客户" 的信息。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-143">On the Account page, you will see information stating that the customer qualification is regarded as "Not an education customer".</span></span>
 
-2. <span data-ttu-id="4dcc5-145">刷新浏览器以重置页面。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-145">Refresh your browser to reset the page.</span></span> <span data-ttu-id="4dcc5-146">将会出现 "**更新**" 按钮和 "**特殊资格" 状态**设置为 "**无**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-146">There will be an **Update** button and **Special qualifications status** is set to **None**.</span></span>
+2. <span data-ttu-id="3cb8c-144">刷新浏览器以重置页面。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-144">Refresh your browser to reset the page.</span></span> <span data-ttu-id="3cb8c-145">将会出现 "**更新**" 按钮和 "**特殊资格" 状态**设置为 "**无**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-145">There will be an **Update** button and **Special qualifications status** is set to **None**.</span></span>
 
-3. <span data-ttu-id="4dcc5-147">选择“更新”。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-147">Select **Update**.</span></span> <span data-ttu-id="4dcc5-148">在 "**服务管理**" 页上，选择 " **Office 365**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-148">On the **Service Management** page, select **Office 365**.</span></span>
+3. <span data-ttu-id="3cb8c-146">选择“更新”。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-146">Select **Update**.</span></span> <span data-ttu-id="3cb8c-147">在 "**服务管理**" 页上，选择 " **Office 365**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-147">On the **Service Management** page, select **Office 365**.</span></span>
 
-4. <span data-ttu-id="4dcc5-149">你将被重定向到你的浏览器的新选项卡上的 Office 365 管理中心。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-149">You will be redirected to the Office 365 admin center on a new tab of your browser.</span></span> <span data-ttu-id="4dcc5-150">可能会要求你登录凭据。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-150">You may be requested to sign in with your credentials.</span></span>
+4. <span data-ttu-id="3cb8c-148">你将被重定向到你的浏览器的新选项卡上的 Office 365 管理中心。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-148">You will be redirected to the Office 365 admin center on a new tab of your browser.</span></span> <span data-ttu-id="3cb8c-149">可能会要求你登录凭据。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-149">You may be requested to sign in with your credentials.</span></span>
 
-5. <span data-ttu-id="4dcc5-151">选择“设置”。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-151">Select **Settings**.</span></span>
+5. <span data-ttu-id="3cb8c-150">选择“设置”。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-150">Select **Settings**.</span></span>
 
-6. <span data-ttu-id="4dcc5-152">选择屏幕顶部的 "**组织配置文件**" 选项卡，然后选择 "**组织信息**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-152">Select the **Organization profile** tab at the top of the screen and then **Organization information**.</span></span> <span data-ttu-id="4dcc5-153">你现在可以更新客户详细信息。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-153">You can now update the customer details.</span></span>
+6. <span data-ttu-id="3cb8c-151">选择屏幕顶部的 "**组织配置文件**" 选项卡，然后选择 "**组织信息**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-151">Select the **Organization profile** tab at the top of the screen and then **Organization information**.</span></span> <span data-ttu-id="3cb8c-152">你现在可以更新客户详细信息。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-152">You can now update the customer details.</span></span>
 
-7. <span data-ttu-id="4dcc5-154">选择侧栏底部的 "**保存更改**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-154">Select **Save changes** at the bottom of the sidebar.</span></span>  
+7. <span data-ttu-id="3cb8c-153">选择侧栏底部的 "**保存更改**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-153">Select **Save changes** at the bottom of the sidebar.</span></span>  
 
-### <a name="resubmit-for-revetting"></a><span data-ttu-id="4dcc5-155">重新提交以进行 revetting</span><span class="sxs-lookup"><span data-stu-id="4dcc5-155">Resubmit for revetting</span></span>
+### <a name="resubmit-for-revetting"></a><span data-ttu-id="3cb8c-154">重新提交以进行 revetting</span><span class="sxs-lookup"><span data-stu-id="3cb8c-154">Resubmit for revetting</span></span>
 
-1. <span data-ttu-id="4dcc5-156">导航到 "合作伙伴中心" 选项卡，然后导航到 "客户**帐户**" 页。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-156">Navigate to your Partner Center tab and to the customer **Account** page.</span></span> <span data-ttu-id="4dcc5-157">刷新浏览器。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-157">Refresh the browser.</span></span> <span data-ttu-id="4dcc5-158">并验证公司页面是否更新为新的信息。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-158">and verify that the Company page updated to the new information.</span></span> <span data-ttu-id="4dcc5-159">选择 "**更新**" 按钮，请求教育 revetting。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-159">Select **Update** button to request education revetting.</span></span>
+1. <span data-ttu-id="3cb8c-155">导航到 "合作伙伴中心" 选项卡，然后导航到 "客户**帐户**" 页。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-155">Navigate to your Partner Center tab and to the customer **Account** page.</span></span> <span data-ttu-id="3cb8c-156">刷新浏览器。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-156">Refresh the browser.</span></span> <span data-ttu-id="3cb8c-157">并验证公司页面是否更新为新的信息。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-157">and verify that the Company page updated to the new information.</span></span> <span data-ttu-id="3cb8c-158">选择 "**更新**" 按钮，请求教育 revetting。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-158">Select **Update** button to request education revetting.</span></span>
 
-2. <span data-ttu-id="4dcc5-160">如果更新的客户详细信息符合教育优惠，你将看到特殊的**资格**已更新为 "**教育**"。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-160">If the updated customer details are eligible for Education offers, you will see the **Special qualifications** updated to **Education**.</span></span> <span data-ttu-id="4dcc5-161">如果仍看**不到教育客户**，请联系支持人员进行手动验证。</span><span class="sxs-lookup"><span data-stu-id="4dcc5-161">If you still see **Not an Education Customer**, contact Support for manual verification.</span></span>
+2. <span data-ttu-id="3cb8c-159">如果更新的客户详细信息符合教育优惠，你将看到特殊的**资格**已更新为 "**教育**"。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-159">If the updated customer details are eligible for Education offers, you will see the **Special qualifications** updated to **Education**.</span></span> <span data-ttu-id="3cb8c-160">如果仍看**不到教育客户**，请联系支持人员进行手动验证。</span><span class="sxs-lookup"><span data-stu-id="3cb8c-160">If you still see **Not an Education Customer**, contact Support for manual verification.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="4dcc5-162">后续步骤</span><span class="sxs-lookup"><span data-stu-id="4dcc5-162">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="3cb8c-161">后续步骤</span><span class="sxs-lookup"><span data-stu-id="3cb8c-161">Next steps</span></span>
 
-- [<span data-ttu-id="4dcc5-163">向特定行业销售</span><span class="sxs-lookup"><span data-stu-id="4dcc5-163">Sell to specialized industries</span></span>](get-special-pricing-for-offers.md)
+- [<span data-ttu-id="3cb8c-162">向特定行业销售</span><span class="sxs-lookup"><span data-stu-id="3cb8c-162">Sell to specialized industries</span></span>](get-special-pricing-for-offers.md)
 
-- [<span data-ttu-id="4dcc5-164">添加新客户</span><span class="sxs-lookup"><span data-stu-id="4dcc5-164">Add a new customer</span></span>](add-a-new-customer.md)
+- [<span data-ttu-id="3cb8c-163">添加新客户</span><span class="sxs-lookup"><span data-stu-id="3cb8c-163">Add a new customer</span></span>](add-a-new-customer.md)
 
-- [<span data-ttu-id="4dcc5-165">销售 Minecraft：教育版教育客户订阅</span><span class="sxs-lookup"><span data-stu-id="4dcc5-165">Sell Minecraft: Education Edition subscriptions to education customers</span></span>](minecraft-subscriptions.md)
+- [<span data-ttu-id="3cb8c-164">销售 Minecraft：教育版教育客户订阅</span><span class="sxs-lookup"><span data-stu-id="3cb8c-164">Sell Minecraft: Education Edition subscriptions to education customers</span></span>](minecraft-subscriptions.md)
