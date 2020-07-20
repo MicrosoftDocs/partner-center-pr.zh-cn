@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
-ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86405548"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436066"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "86405548"
 
 | **类别** | **2020 年 7 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[合作伙伴中心中添加了针对 Insights 报告的新功能](2020-july.md#6)|7 月 16 日|
 |产品/市场|[云解决方案提供商计划中的永久软件](2020-july.md#5)|7 月 15 日|
 | 产品/市场 | [适用于 Teams 的新的 Microsoft 365 企业语音 SKU](2020-july.md#4) | 7 月 3 日 |
 | 产品/市场 | [新的和以停用的 Microsoft Dynamics 365 和 Power Platform 产品及服务](2020-july.md#3) | 7 月 1 日 |

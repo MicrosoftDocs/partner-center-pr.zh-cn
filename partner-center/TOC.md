@@ -42,6 +42,7 @@
 ## [受限的直接计费功能](restricted-direct-bill-capabilities.md)
 ## [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)
 ## [云解决方案提供商协议、价目表和产品/服务](csp-documents-and-learning-resources.md)
+## [用于 CSP 的 Cloudyn 提供的 Azure 成本管理](azure-cost-management-app-for-csp-partners.md)
 ## [云解决方案提供商区域市场和货币](regional-authorization-overview.md)
 ## [云解决方案提供商区域授权租户合并说明](csp-regional-authorization-tenant-consolidation.md)
 ## [概述 - 确认客户已接受 Microsoft 客户协议的新方式](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [合作伙伴中心的计费类型](billing-different-types.md)
 ## [了解帐单](read-your-bill.md)
 ## [使用对帐文件](use-the-reconciliation-files.md)
+## [对帐文件费用类型](recon-file-charge-types.md)
 ## [在合作伙伴中心阅读每日结算的使用量对帐文件](daily-rated-usage-recon-files.md)
 ## [基于许可证的对帐文件](license-based-recon-files.md)
 ## [常见计费方案](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本s](skype-retiring.md)
 ### [转移 Azure 订阅](switch-azure-subscriptions-to-a-different-partner.md)
 ### [将 Kaizala Pro 订阅迁移到 Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## 销售 Office 365 的顾问
+### [创建 Office 365 试用邀请](advisors-create-a-trial-invitation.md)
+### [通过 Office 365 试用提议增添客户](advisors-build-your-business.md)
+### [创建 Office 365 购买提议](advisor-create-a-purchase-offer.md)
 # 合作伙伴中心数据和分析
 ## [获取用户数据和分析功能](data-analysis-lp.md)
 ## [使用合作伙伴中心内面向 Microsoft Power BI 的分析应用](power-bi-app-for-direct-partners.md)
