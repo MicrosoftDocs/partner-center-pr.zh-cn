@@ -8,14 +8,13 @@ description: 获取代表客户管理其服务或订阅所需的权限。 了解
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
-keywords: 委派的管理员权限, 代表管理员, 删除权限, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377431"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434746"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>获取管理客户服务或订阅的权限
 

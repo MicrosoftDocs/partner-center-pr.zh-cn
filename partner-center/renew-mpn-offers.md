@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 续订 Microsoft Action Pack 和资格的 Microsoft 合作伙伴网络 (MPN) 产品/服务 - 续订时段开始于购买日期一周年后加一天。
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, Microsoft Action Pack, MAPS, 资质续订, 续订日期
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c980c7820efcb5eba5de88356587c27719d0ce14
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ab672c37c5bc707742bd7a28a54343b5a1b01aa9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467397"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434206"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>在续订时段内续订 Microsoft Action Pack 和资格的 MPN 产品/服务
 

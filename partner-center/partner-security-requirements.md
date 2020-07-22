@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 合作伙伴要求简介，这些要求包括启用多重身份验证 (MFA) 和采用安全应用程序模型框架。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43febea2a5eb78d983c620bcc6ec155ba49a7c5e
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 981163a710f3d220ce1031957f9ccdca3e544d60
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265092"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434006"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>针对使用合作伙伴中心或合作伙伴中心 API 的合作伙伴的安全要求
 

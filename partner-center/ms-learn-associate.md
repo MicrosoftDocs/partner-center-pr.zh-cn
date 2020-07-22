@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何将你的 MCP ID 关联到你的合作伙伴中心帐户，使你的公司能够查看你所参与的资格培训和学习路径。
 author: kbangalore
 ms.author: kiranban
-Keywords: 角色, 权限,添加用户, 分配角色, 管理员, 代理, MCP ID, Microsoft Learn
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c463e126501c6c70c84fb64f857171960f4941f
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 037af207d820ce5b38360c61a92c4aa28003ba15
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219575"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436746"
 ---
 # <a name="associate-your-microsoft-learn-account-to-your-partner-center-account"></a>将 Microsoft Learn 帐户关联到合作伙伴中心帐户
 

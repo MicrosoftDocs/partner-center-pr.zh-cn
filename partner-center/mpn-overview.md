@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 提供的合作伙伴资格权益，包括 Microsoft Action Pack、资格，以及用于将产品投放市场和销售解决方案的计划选项。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 合作伙伴, 合作, MPN, Microsoft 合作伙伴网络, action pack, MAPS, action pack 订阅, 权益, MPN 权益, 会员, 银级, 金级, 资质
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198605"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436776"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>与 Microsoft 合作 - 发现权益、如何帮助客户以及如何推动业务增长
 

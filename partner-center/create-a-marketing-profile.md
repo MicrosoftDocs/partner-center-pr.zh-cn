@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何从 Microsoft 获取销售线索。 一个关键方法是，在合作伙伴中心创建业务配置文件，从而使客户可以更轻松地找到你。
 author: rajap-ms
 ms.author: rajap
-keywords: Pinpoint, 引荐, 销售线索, C2PC, 公司档案, 推销你的公司, 寻找合作伙伴, 寻找解决方案提供商, 企业档案, 营销档案
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e45e3c00bc7dc3657af013bb7edf4cdffac64c9
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302384"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435266"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

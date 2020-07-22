@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何升级或修改客户的订阅。 添加更多许可证、添加更多席位，或迁移到具有更多服务的不同版本。
 author: BillLinzbach
 ms.author: BillLi
-keywords: 将许可证添加到现有订阅, 将席位添加到现有订阅, 修改订阅, 更改订阅, 为客户购买更多许可证
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377301"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436356"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证、席位或更多服务
 

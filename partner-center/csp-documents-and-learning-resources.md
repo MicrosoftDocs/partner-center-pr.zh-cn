@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 查找指向云解决方案提供商计划指南、合作伙伴协议、客户协议、价目表和产品/服务的链接。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 云解决方案提供商计划指南, 计划指南, 合作伙伴协议, 客户协议, 价目表, 优惠
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db194fb2566c5a474c6743e37deea6ee63ad247
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d3bdc0e2eb26f9841c4a40a9f3afb7a8c89e5795
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991408"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434956"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 

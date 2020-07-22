@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何通过满足资格要求来获得“黄金”和“白银”成员资格级别，从而获得精英 Microsoft 合作伙伴状态并吸引新客户。
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: 资质, 银级会员, 金级会员, mpn, MAPS, 能力, Microsoft 合作伙伴网络, 网络会员, 高级专业
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74ae0076f3e77e29cccd63d0206267020f462db9
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: d8c5bc3b22096d28ba546e2d9493aeaa110a571c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390634"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434426"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>有关 Microsoft 银级和金级会员资质与高级专业的信息
 
