@@ -6,16 +6,15 @@ ms.subservice: partnercenter-csp
 description: 了解为了提高云解决方案提供商计划中的顾问、控制面板供应商以及合作伙伴的安全性而需满足的全新强制性要求。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265167"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436726"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作伙伴安全要求状态 - 获得解答，查看关于当前状态的报表
 

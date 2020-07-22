@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 关于合作伙伴安全要求的常见问题，例如具体有哪些要求、合作伙伴应如何实施这些要求，以及你如何知道自己是否满足这些要求。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 云解决方案提供商, 云解决方案提供商计划, CSP, 控制面板供应商, CPV, 多重身份验证, MFA, 安全应用程序模型, 安全应用模型, 安全性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e58b17ccbde0cea2f6dfbf586b1e49c85da35a22
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265174"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434116"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 

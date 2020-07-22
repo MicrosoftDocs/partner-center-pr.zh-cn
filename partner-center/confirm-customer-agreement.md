@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 了解如何确认客户接受 Microsoft 客户协议。 为客户订购 Microsoft 产品和服务时，云解决方案提供商需要这样做。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: 客户, 许可, MCA, Microsoft 云协议, Microsoft 客户协议, 客户协议模板
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc809c693b74f2a7fc6a906c625efebb6678784e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9df7dadbf9d2e6d1cc685b888ea2ae18436c8abf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947953"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435426"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
@@ -153,11 +152,11 @@ ms.locfileid: "85947953"
 
 通过以下步骤邀请新客户查看并接受经销商关系和 Microsoft 客户协议。 
 
-1. 从合作伙伴中心的“客户”选项卡中选择“请求建立经销商关系”链接。  
+1. 从合作伙伴中心的“客户”选项卡中选择“请求建立经销商关系”链接。 
 
 2. 系统会生成自动电子邮件模板，其中包括文本和参数化 URL，用于将客户定向到 Microsoft 365 管理中心。
 
-3. 可以自定义自动生成的电子邮件模板，然后选择“复制到剪贴板”或“在电子邮件中打开”。 
+3. 可以自定义自动生成的电子邮件模板，然后选择“复制到剪贴板”或“在电子邮件中打开”。
 
 4. 使用此电子邮件模板邀请客户接受**经销商关系**请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
 

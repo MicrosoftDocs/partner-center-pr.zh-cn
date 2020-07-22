@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
-Keywords: 角色, 权限, 添加用户, 分配角色, 管理员, 代理
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: 9ec8e98f77d49e34b6747b0f580502e9df25a950
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265191"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435186"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>创建用户帐户并分配角色和权限
 
@@ -30,7 +29,7 @@ ms.locfileid: "86265191"
 
 ## <a name="add-a-new-user"></a>添加新用户
 
-1. 在合作伙伴中心右上角的“设置”图标中，选择“用户管理”。 
+1. 在合作伙伴中心右上角的“设置”图标中，选择“用户管理”。
 
 2. 选择“添加用户”。
 
@@ -50,7 +49,7 @@ ms.locfileid: "86265191"
 ### <a name="find-your-global-admin"></a>查找全局管理员
 
 有时，用户可能需要更改其角色，或者新用户可能需要特定的角色分配。  
-若要查找可以进行角色更改或将角色分配给新用户的全局管理员，请在合作伙伴中心右上角的“设置”图标中，选择“用户管理”并筛选全局管理员。  
+若要查找可以进行角色更改或将角色分配给新用户的全局管理员，请在合作伙伴中心右上角的“设置”图标中，选择“用户管理”并筛选全局管理员。 
 
 
 ### <a name="new-global-admin"></a>新的全局管理员

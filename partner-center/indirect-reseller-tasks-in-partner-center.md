@@ -8,15 +8,14 @@ description: 了解间接经销商如何与 Microsoft 间接提供商（或分�
 ms.prod: ''
 author: BillLinzbach
 ms.author: BillLi
-keywords: 间接经销商, 经销商, 间接提供商, 提供商, 合作关系, VAR, tier2, 第 2 层
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3ffc69804c90707f9e8691e56c64bc23e8c0daf5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377711"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434536"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在云解决方案提供商计划中与间接提供商合作
 
@@ -96,7 +95,7 @@ ms.locfileid: "86377711"
 
 9. 当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-   1. 在“合作伙伴中心”中，选择“设置”图标，然后选择“用户管理”。
+   1. 在“合作伙伴中心”  中，选择“设置”  图标，然后选择“用户管理”  。
 
    2. 从用户列表中选择你的名称。 然后选择“管理员代理”（如果它尚未处于选定状态）。 选择“更新”。
 
@@ -159,7 +158,7 @@ ms.locfileid: "86377711"
 
 #### <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 
-1. 从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。  
+1. 从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。
 
 2. 在下一页上，查看草稿电子邮件。 你可以在电子邮件中打开草稿邮件，或者可以将邮件复制到剪贴板并将其粘贴到电子邮件中。
 

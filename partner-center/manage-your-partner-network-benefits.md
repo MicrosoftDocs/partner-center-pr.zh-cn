@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作伙伴网络 (MPN) 并使用合作伙伴中心来管理成员资格权益和优惠，从而帮助拓展业务。
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, 会员权益, 会员资格
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 4f13dcd911da248b1674f2ded9c596f85857541a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072411"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434346"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
