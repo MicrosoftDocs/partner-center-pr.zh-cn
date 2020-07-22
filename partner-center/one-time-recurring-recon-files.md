@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a84a9bdf1e7366bed9e83f370703df5f44be1dfc
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390294"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875263"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>合作伙伴中心的一次性和定期对帐文件
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解在何处查找并下载特定于区域和语言的 Microsoft 客户协议版本供客户查看。
 author: LauraBrenner
 ms.author: labrenne
-keywords: Microsoft 客户协议, 客户协议模板, CSP 客户协议, Microsoft 客户协议, MCA, CSP, 通过 CSP 可以在哪里进行销售, CSP 国家和地区, 多种语言的CSP MCA, CSP 北美洲, CSP 中美洲, CSP 南美洲, CSP 加勒比地区, CSP Microsoft Cloud for US Government, CSP Microsoft Cloud Germany, CSP 中东地区, CSP 非洲, CSP 欧洲, CSP 亚洲, CSP 太平洋地区, CSP MCA
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9bd4bc77c6afcd1efcb112fc45328150c54d7413
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 6e60fca0fd8e190a54dbb4b768604c144dfa889f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198585"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436196"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>按区域和语言划分的 Microsoft 客户协议
 

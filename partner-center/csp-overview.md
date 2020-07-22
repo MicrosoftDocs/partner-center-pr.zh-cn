@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 详细了解云解决方案提供商计划中的优势和不同模式，以帮助你的企业通过新的客户和新的专业知识发展壮大。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 云解决方案提供商, CSP, 基于云的服务, Azure, Office 365, Dynamics, CSP 合作伙伴, 通过云解决方案提供商计划销售, 直接合作伙伴, 直接云解决方案提供商合作伙伴, 间接云解决方案提供商经销商, 直接云解决方案提供商, 间接云解决方案提供商, 直接模式, 间接模式, 间接经销商, 间接提供商, 提供商, 分销商, 云解决方案提供商计划
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c03aeea719e58dcdb30cb8404066fa13e16a7e
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362335"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434906"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>云解决方案提供商计划权益和不同的模型
 

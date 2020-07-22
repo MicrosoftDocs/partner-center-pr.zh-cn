@@ -1,7 +1,7 @@
 ---
 title: 提高采用率和满意度
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心使用度量值。 指标可显示企业是否在成长、客户如何使用其许可证，以及在何处集中投资。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377261"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875283"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作伙伴中心的度量值提高采用和满意度
 
@@ -35,7 +35,7 @@ ms.locfileid: "86377261"
 你可以通过云解决方案提供商计划查看所有客户的数据。 某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证。 在这种情况下，你将看到所有伙伴中的许可证总数。 若要仅查看你自己的许可证，请改为转到客户的订阅。
 
 > [!NOTE]  
->  目前，我们仅显示 Office 365 和 Dynamics 365 的数据。 将来，我们将会启用其他产品的数据。
+> 目前，我们仅显示 Office 365 和 Dynamics 365 的数据。 将来，我们将会启用其他产品的数据。
 
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 
@@ -81,23 +81,21 @@ ms.locfileid: "86377261"
 
 ## <a name="next-steps"></a>后续步骤
 
-如果你有很多帮助和操作方法问题，你的帐户中的采用号码会较低，或者你正在寻找追加销售机会，你可能需要考虑提供培训课程。 通过教授你的客户如何更好地使用他们购买的云解决方案软件，更有可能会提高工作效率和满意度并降低支持需求。
+如果你有很多帮助和操作方法问题，你的帐户中的采用号码会较低，或者你正在寻找销售机会，你可能需要考虑提供培训课程。 通过教授你的客户如何更好地使用他们购买的云解决方案软件，更有可能会提高工作效率和满意度并降低支持需求。
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>问题：</strong>用户采用速率较低，许多许可证&#39;不使用。</p>
-<p><strong>要考虑的事项：</strong>客户可能不理解软件可以提供的价值。 他们需要帮助构想他们将其合并到一天中的方式，以简化他们已在执行的任务或实现新的工作效率。</p>
-<p><strong>要尝试的内容：</strong>案例研究、有关特定方案的用户感言、教程博客或视频。</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>问题：</strong>存在大量有关帮助和操作说明问题的支持呼叫。</p>
-<p><strong>要考虑的事项：</strong>客户可能不熟悉软件、产品版本或他们的任务。</p>
-<p><strong>要尝试的操作：</strong>您可以使用一种提供培训（在个人或联机状态下）的双重策略来提高客户&#39;的总体专业技能，同时还能提升一些可供客户使用的自助服务选项。</p>
-<p>你可能希望重新设计支持站点，以便除支持联系人信息以外，还包含主题<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客户自我支持</a>中所述的自助服务选项。</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>考虑如何改进客户采用和使用情况-两个方案
+
+**问题**：用户采用速率较低，且未使用许多许可证。
+
+**需要考虑**的事项：客户可能无法理解软件可以提供的价值。 他们需要帮助构想他们将其合并到一天中的方式，以简化他们已在执行的任务或实现新的工作效率。
+
+**要尝试**的操作：案例研究、有关特定方案的用户褒奖、教程博客或视频。
+
+**问题**：对于帮助和操作方法问题，有大量的支持请求。
+
+**需要考虑**的事项：客户可能是软件、产品版本或其任务的新用户。
+
+**要尝试**的操作：你可以使用一种双策略来提供培训（以用户或在线方式），以提高客户的整体专业技能，同时还可以提升一些可供客户使用的自助服务选项。
+
+你可能需要重新设计你的支持站点，同时包含[客户自助支持](customer-self-support.md)中介绍的自助服务选项以及支持联系人信息。
+

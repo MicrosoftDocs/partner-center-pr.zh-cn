@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435246"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875223"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -77,6 +77,26 @@ ms.locfileid: "86435246"
     > 你和你的客户都不会收到一封电子邮件，其中包含为此类型的 ISV 订阅设置/预配的说明。）
 
     - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 在免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，将根据相同的计划 autorenew 订阅。
+   
+## <a name="update-subscriptions-with-add-ons"></a>用加载项更新订阅 
+
+若要购买外接程序，客户必须首先具有活动的基本订阅。  不能通过目录购买加载项。
+
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
+
+2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
+
+3. 选择要管理的订阅。
+
+4. 在 "**状态**" 部分下，是订阅的可用加载项列表。  
+
+5. 更新每个所需外接程序的许可证数量。 然后“提交”更改  。
+
+通过合作伙伴中心购买加载项的能力仅适用于 CSP 合作伙伴。
+仅根据基本要求和区域可用性显示符合条件的加载项。 有关定价和产品/服务的详细信息，请参阅云分销商产品列表。  暂停基本订阅还会挂起任何关联的外接程序。
+
+外接程序的开始日期将与基本订阅进行对齐，并在第一张发票中从 "费用开始日期" 和 "费用结束日期" 计算，按每收费。 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暂停或取消订阅
 
@@ -96,7 +116,7 @@ ms.locfileid: "86435246"
 
 5. 除非在 90 天内或在 90 天加上帐户开具时间与第一个计费周期之间的天数内（最长 120 天）重新激活订阅，否则所有数据将被删除。
 
-暂停订阅后，你在“暂停”**** 按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 有关详细信息，请参阅[有关新的计费功能的常见问题](faq-about-new-billing-features.md)。
+暂停订阅后，你在“暂停”**** 按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 
 
 ### <a name="cancel-a-subscription"></a>取消订阅
 
