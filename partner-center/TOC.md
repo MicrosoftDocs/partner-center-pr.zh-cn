@@ -177,6 +177,7 @@
 ### [将客户过渡到 Azure 计划](azure-plan-transition.md)
 ### [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
 ### [合作伙伴赚取的返点的计算与支付方式](partner-earned-credit-explanation.md)
+### [合作伙伴赚取的返点的角色和权限](azure-roles-perms-pec.md)
 ### [CSP 中的新商务体验 - Azure 计费](azure-plan-billing.md) 
 ### [Azure 的 CSP 新商务体验价目表](azure-plan-price-list.md)
 ### [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)

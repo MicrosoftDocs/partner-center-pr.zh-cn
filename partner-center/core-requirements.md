@@ -1,21 +1,20 @@
 ---
 title: 奖励合作申请的核心要求
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何挖掘合作伙伴的需求、获悉市场发展趋势，以及使合作伙伴为奖励计划中的活动做好充分准备。
 author: kim-davis
 ms.author: kimnich
-keywords: 奖励申请, 合作申请, 合作资金, 核心要求
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
+ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377611"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "86475542"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>奖励合作申请的核心要求
 
@@ -77,4 +76,7 @@ ms.locfileid: "86377611"
 
 
 
- 有关详细信息，请下载[合作伙伴奖励合作指南](https://assets.microsoft.com/coop-guidebook.pdf)（需要登录）
+ 有关详细信息，请下载[合作伙伴奖励合作指南](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)（需要登录）
+
+
+
