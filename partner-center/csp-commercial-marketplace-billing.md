@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435136"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943471"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 
@@ -47,7 +47,7 @@ CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解�
 
     你将在帐单页的顶部看到两个选项卡：**定期**、**定期和一次性购买**。 每个选项卡允许您访问不同 marketplace 产品的发票和对帐（侦测）文件：
 
-    - "**定期**" 选项卡：显示与 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、PowerBI Pro 和 Microsoft Azure 相关的订阅的发票和对帐文件。
+    - "**定期**" 选项卡：显示与 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro 和 Microsoft Azure 相关的订阅的发票和对帐文件。
 
     - **定期和一次性购买**选项卡：显示 azure 计划、azure 预订、软件和商业应用商店产品的发票和对帐文件。
   

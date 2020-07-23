@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bdb8e392761d02909ebca21c38d2f04a9dfeb60d
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ec1b58206b4947ceadd98942e8c8b982749b8645
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377411"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943454"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377411"
 - 销售代理
 - 支持人员代理
 
-本主题说明如何读取每日分级使用情况协调文件。
+本文介绍如何读取每日按比例使用帐文件。
 
 >[!NOTE]
 >每日评级使用情况通常需要24小时才会显示在合作伙伴中心，或通过 API 访问。
@@ -48,12 +48,12 @@ ms.locfileid: "86377411"
 | InvoiceNumber | 指定交易显示时对应的发票号。 |
 | ProductId | 产品的标识符。 |
 | SkuId | 特定 SKU 的标识符。 |
-| AvailabilityId | 特定 SKU 可用性的标识符。 这表明 SKU 是否可在给定的国家/地区、货币、行业段等购买。 |
+| AvailabilityId | 特定 SKU 可用性的标识符。 此列显示了 SKU 是否可用于给定国家/地区、货币、行业段等。 |
 | SkuName | 特定 SKU 的名称。 |
 | ProductName | 产品的名称。 |
 | PublisherName | 发行者的名称。 |
 | PublisherId | GUID 格式的发布服务器的标识符。 |
-| SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 （这是与**OfferName**相同的字段）。 |
+| SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 （此列是与**OfferName**相同的字段）。 |
 | SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 不用于对帐。 *此标识符不同于合作伙伴管理控制台上的**订阅 ID** 。* |
 | ChargeStartDate | 计费周期的开始日期（在显示以前的计费周期内先前 uncharged 的潜在使用情况数据的日期时除外）。 该时间始终为一天的起点时间，即 0:00。 |
 | ChargeEndDate | 计费周期的结束日期（在显示以前的计费周期内先前 uncharged 的潜在使用情况数据的日期时除外）。 时间始终是一天的结束，即 23:59。 |
@@ -63,11 +63,11 @@ ms.locfileid: "86377411"
 | MeterId | 所使用的计量的标识符。 |
 | MeterSubCategory | Azure 服务的类型，该类型可能会影响费率。 |
 | MeterName | 所使用的计量的度量单位。 |
-| MeterRegion | 此列标识服务的区域内的数据中心的位置（该位置适用且人口密集）。 |
-| 单位 | 资源**名称**的单位。 |
+| MeterRegion | 此列标识数据中心在区域中的位置，这些服务中的 MeterRegion 适用并已填充。 |
+| 计价单位 | 资源**名称**的单位。 |
 | ResourceLocation | 计量器正在其中运行的数据中心。 |
 | ConsumedService | 使用的 Azure 平台服务。 |
-| ResourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
+| resourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
 | ResourceURI | 所使用资源的 URI。 |
 | ChargeType | 费用或调整的类型。  |
 | UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
@@ -75,7 +75,7 @@ ms.locfileid: "86377411"
 | Unittype.pixel 度量 | 计量计量器的单位类型。  |
 | BillingPreTaxTotal | 税前的总帐单金额。 |
 | BillingCurrency | 客户的地理区域中的货币。 |
-| PricingPreTaxTotal | 添加税款之前的定价。 |
+| PricingPreTaxTotal | 添加税之前的定价。 |
 | PricingCurrency | 价目表中的货币。 |
 | ServiceInfo1 | 在给定日期预配和使用的服务总线连接数。 |
 | ServiceInfo2 | 捕获可选的服务特定元数据的旧字段。 |

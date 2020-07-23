@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436766"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943694"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
@@ -76,7 +76,7 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计
 
 ### <a name="filters-definitions"></a>筛选器定义：
 
-- 产品：组织销售/管理的所有 Microsoft 云产品列表，例如 O365、Azure、D365、EMS、PowerBI 等。
+- 产品：组织销售/管理的所有 Microsoft 云产品列表，例如 O365、Azure、D365、EMS、Power BI 等。
 - 客户市场：客户所在国家/地区列表
 - 合作伙伴归属：你的客户订阅的关联类型，例如，"记录" （DPOR）、"委派的管理员" 权限（分配）、"合作伙伴管理" 链接（PAL）等。 
 - 合作伙伴位置：组织的所有 MPN 位置的列表。

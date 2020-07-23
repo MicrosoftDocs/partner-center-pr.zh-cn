@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435196"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943494"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密货币挖掘活动的合作伙伴中心通知
 
@@ -54,7 +54,7 @@ ms.locfileid: "86435196"
 
 3. 如果需要找出创建订阅的人员，请查看合作伙伴中心活动日志。
 
-加密货币挖掘活动的检测基于试探法，可能不是 100% 准确。 请确保部署管理和监控系统，以防止欺诈或其他不允许的活动。 有关详细信息，请参阅[拒不付款、欺诈或滥用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
+加密货币挖掘活动的检测基于试探法，可能不是 100% 准确。 请确保部署管理和监控系统，以防止欺诈或其他不允许的活动。 有关详细信息，请参阅[拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md)。
 
 ## <a name="contact-support-if-needed"></a>如果需要，请联系支持人员
 

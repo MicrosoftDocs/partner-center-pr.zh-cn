@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5d4b25798b4ac3c4b2c2edb0d861fd7eb5097b4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436516"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943674"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>通过 CPOR 模型创建客户关联–用于 Microsoft 365 和 Dynamics 365 客户
 
@@ -30,9 +30,9 @@ ms.locfileid: "86436516"
 
 - 构成声明的实体的**MPN ID**
 
-- 客户的**域名**[查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- 客户的**域名**[查找此](find-customer-domain-name.md)
 
-- 客户的**目录 id**或**租户 id** [查找此](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+- 客户的**目录 id**或**租户 id** [查找此](find-customer-domain-name.md)
 
 - **解决方案区域**，如 Business Applications 或 Microsoft 365
 
@@ -66,9 +66,9 @@ ms.locfileid: "86436516"
 
 2. 在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
 
-3. 选择要与客户关联的合作伙伴位置的**MPN id** ，然后添加客户的域名和目录 ID。 [它们位于何处？](https://docs.microsoft.com/partner-center/find-customer-domain-name)
+3. 选择要与客户关联的合作伙伴位置的**MPN id** ，然后添加客户的域名和目录 ID。 [它们位于何处？](find-customer-domain-name.md)
 
-4. 选择“继续”。
+4. 选择**继续**。
 
 5. 选择**解决方案区域**和**活动**。 
 

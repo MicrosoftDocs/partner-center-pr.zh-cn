@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436536"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943684"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 
@@ -68,7 +68,7 @@ ms.locfileid: "86436536"
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>创建或更新公司的业务配置文件（新合作伙伴）
 
-最大程度地提高可能的客户。 按照[说明和指导](https://docs.microsoft.com/partner-center/create-a-marketing-profile)在合作伙伴中心内创建或更新公司的业务配置文件。
+最大程度地提高可能的客户。 按照[说明和指导](create-a-marketing-profile.md)在合作伙伴中心内创建或更新公司的业务配置文件。
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>客户创建和分配凭证（现有合作伙伴）
 

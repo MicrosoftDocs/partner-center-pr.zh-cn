@@ -8,12 +8,12 @@ description: 为多合作伙伴、多通道方案请求与客户的关系，或�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949242"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943714"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求经销商关系
 
@@ -26,13 +26,13 @@ ms.locfileid: "85949242"
 如果要建立与客户的分销商关系并仅管理预配的 Azure 订阅，则无需获得管理员权限。
 
 >[!NOTE] 
->不请求权限的选项不适用于在美国政府或 Microsoft 云德国 Microsoft 云操作的合作伙伴。 若要了解详细信息，请参阅[客户将管理权限委托给合作伙伴](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)。
+>不请求权限的选项不适用于在美国政府或 Microsoft 云德国 Microsoft 云操作的合作伙伴。 若要了解详细信息，请参阅[客户将管理权限委托给合作伙伴](customers-revoke-admin-privileges.md)。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 
 你可以从你所在的国家或地区内请求与客户联系。
 
-1. 从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。   
+1. 从“合作伙伴中心”菜单中选择“客户”，然后选择“请求经销商关系”。
 
 2. 若要请求此客户的管理员权限，请选择 "**包括 Azure Active Directory 和 Office 365 的委派管理权限**"。 如果要建立关系但不请求管理员权限，请清除此选项。
 
@@ -67,4 +67,4 @@ ms.locfileid: "85949242"
 
 - [分配支持联系人](assign-support-contacts.md)
 
-- [删除与经销商或客户的关系](remove-a-relationship.md)
+- [删除与客户的关系](remove-a-relationship.md)
