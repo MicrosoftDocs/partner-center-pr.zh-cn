@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377781"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875253"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>为客户购买 Azure 计划并按即用即付费率访问最新的 Azure 服务
 
@@ -32,7 +32,7 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 购买 Azure 计划的方式类似于购买任何其他订阅。 主要区别在于，在实际下单之前，需要确认客户已签署 Microsoft 客户协议。
 
-1. 选择“商务细分市场”并键入 **Microsoft Azure**  
+1. 选择“商务细分市场”并键入 **Microsoft Azure** 
 2. 在“Azure 计划”下选择“添加到购物车”
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="购买":::
@@ -47,7 +47,7 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 ### <a name="to-confirm"></a>确认 
 
-1. 在客户的“帐户”页上，选择“Microsoft 客户协议”旁边的“更新”    
+1. 在客户的“帐户”页上，选择“Microsoft 客户协议”旁边的“更新”  
 
 2. 填写客户所在公司接受 MCuA 的个人的相关信息。
 
@@ -55,7 +55,7 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 ## <a name="review-and-buy"></a>检查并购买
 
-返回“添加产品”页，可以看到已添加 Azure 计划。 选择“检查”以检查购买的内容，然后选择“购买”。  
+返回“添加产品”页，可以看到已添加 Azure 计划。 选择“检查”以检查购买的内容，然后选择“购买”。 
 
 >[!Note]
 >为客户购买 Azure 计划后，不再能够为该客户购买 Microsoft Azure (0145p)。 今后需要通过 Azure 计划来创建订阅。
@@ -66,10 +66,10 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 1. 在[仪表板](https://partner.microsoft.com/dashboard/)上的“合作伙伴中心”菜单中，选择“客户”。 找到想要购买 Azure 预留项的客户，然后选择向下箭头展开该客户对应的行。
 
-2. 依次选择“添加产品”、“Azure”。  
+2. 依次选择“添加产品”、“Azure”。 
 
    - 从“细分市场”列表中选择该客户的细分市场。
-   - 从“产品类型”列表中选择“预留项”。 
+   - 从“产品类型”列表中选择“预留项”。
    - 从“预留项类型”列表中选择客户所需的预留项类型。
 
 Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表中选择要将 Azure 预留项添加到的 Azure 计划。 
@@ -78,7 +78,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 >如果该客户没有有效的 Azure 计划，请选择“Azure”立即添加一个计划。 有关更多说明，请阅读[购买 Azure 预留项](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)。
 
 >[!Note] 
->预留范围目前只能设置为“共享”。 
+>在合作伙伴中心，预留范围目前只能设置为“共享”。 要选择单个订阅范围或从共享更新为单个订阅范围，请按照以下说明转到 Microsoft Azure 管理门户。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共享范围预留设置":::
 
@@ -90,7 +90,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
  
 ## <a name="view-azure-subscriptions-under-the-azure-plan"></a>查看 Azure 计划中的 Azure 订阅
 
-在“订阅”页中基于用量的部分，展开“Azure 计划”查看 Azure 计划中关联的 Azure 订阅。 
+在“订阅”页中基于用量的部分，展开“Azure 计划”查看 Azure 计划中关联的 Azure 订阅。
 
 :::image type="content" source="images/azure/addprods2.png" alt-text="查看 Azure 订阅列表"::: 
 
