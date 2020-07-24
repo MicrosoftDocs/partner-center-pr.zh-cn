@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 收集和创建必要的信息，为奖励计划生成成功的营销计划。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949673"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114181"
 ---
 # <a name="create-your-plan"></a>创建计划
 
@@ -46,7 +46,7 @@ ms.locfileid: "85949673"
 
 3. 在 "**程序**" 页上，找到计划的适当市场，然后选择 "**创建计划**"。 
 
-4. 在 "**新建计划**" 页上，填写必填字段。 **货币**是您希望计划反映的值。 **审阅者电子邮件**应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存”。
+4. 在 "**新建计划**" 页上，填写必填字段。 **货币**是您希望计划反映的值。 **审阅者电子邮件**应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存” 。
 
 5. 在计划的状态页上，查看显示的信息。 选择“编辑”以更新任何信息。
 

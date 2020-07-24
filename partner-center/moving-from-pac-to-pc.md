@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 当你从合作伙伴管理中心（PAC）迁移到合作伙伴中心时，请了解如何管理 CSP 计划成员身份、客户推荐、奖励等。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0af8cb253554f67edd1b53f01f2a440ae27939f1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1e06194bd83b5a2c9c2ed32ee32d4b4220a42dcf
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434336"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114732"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>从合作伙伴管理员中心 (PAC) 迁移到合作伙伴中心
 

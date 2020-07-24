@@ -5,16 +5,16 @@ ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 对于具有以前的 ISV 资格认证的合作伙伴，了解如何为应用程序开发能力提供一次性考试需求豁免
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39fd6fea1845edbb520cfd9d9c6ebe985765716b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: ed3fd024b415cba79684359e1f1f01f594164c34
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436076"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114796"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
 
@@ -54,7 +54,7 @@ ms.locfileid: "86436076"
 
 如果你需要获取你的产品/服务的帮助，或有关于此产品/服务的资格的问题，请联系[合作伙伴支持](https://partner.microsoft.com/Support)部门。 
 
-## <a name="frequently-asked-questions"></a>常见问题
+## <a name="frequently-asked-questions"></a>常见问题解答
 
 **如何实现知道我的公司是否有资格提供此服务？**
 

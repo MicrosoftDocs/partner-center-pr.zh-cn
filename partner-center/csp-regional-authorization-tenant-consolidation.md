@@ -5,17 +5,17 @@ ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用这些说明合并不同国家/地区的租户。 这包括迁移客户帐户和客户订阅的步骤。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46ba699bee0a7e4554042522528fdc6d2a18596a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434916"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114407"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并说明
 

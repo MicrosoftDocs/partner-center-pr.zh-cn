@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商计划中的 Microsoft 合作伙伴如何向在受支持的国家/地区注册的客户进行销售。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434946"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114336"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>适用于作为 CSP 计划的一部分在 Microsoft 国家标准云中销售
 

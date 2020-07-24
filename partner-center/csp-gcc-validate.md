@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解直销合作伙伴（直接经销商、间接提供商）的步骤，以验证 Office 365 政府版的客户和客户的 CSP。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908052"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114381"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>Office 365 政府版的 CSP 合作伙伴和客户资格标准-合作伙伴中心
 

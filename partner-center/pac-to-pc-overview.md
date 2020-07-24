@@ -5,16 +5,16 @@ ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 合作伙伴管理员中心功能正在向合作伙伴中心迁移。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a96375c26468c130ec14e41f83eb8a1d35daa58
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434156"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114513"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作伙伴管理中心正在向合作伙伴中心迁移
 
@@ -43,7 +43,6 @@ Office 365 合作伙伴管理中心（PAC）正在迁移到 Microsoft 合作伙�
 
 **顾问合作伙伴**（如果你未通过 CSP 进行事务处理且未使用 PAC 为客户提供试用/报价）在我们决定了你自动重定向到合作伙伴中心的时间线后，我们便会立即在此处公布。 
 
-
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即开始使用 Microsoft 合作伙伴中心！
 
 立即开始使用[Microsoft 合作伙伴中心](https://partnercenter.microsoft.com/)来完成从 PAC 的迁移。  将为用于 PAC 的合作伙伴中心使用相同的凭据。
@@ -51,4 +50,4 @@ Office 365 合作伙伴管理中心（PAC）正在迁移到 Microsoft 合作伙�
 > [!IMPORTANT]  
 > 在 PAC 中提供的某些功能和功能将无法在合作伙伴中心获得。
 
- 阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。  在 [Microsoft 合作伙伴中心帮助](https://docs.microsoft.com/partner-center/)中，可找到有关帐户管理、客户管理、许可证和订阅、定价和产品/服务等的其他信息。
+ 阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。 

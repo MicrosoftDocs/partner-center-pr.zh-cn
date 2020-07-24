@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在发布之前抢先试用合作伙伴中心的新功能，并告诉我们你的想法。 帮助塑造合作伙伴中心的未来！
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679394"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114844"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>试用新的合作伙伴中心功能，帮助发展合作伙伴中心
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679394"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>帮助塑造合作伙伴中心的未来！
 
-我们正在不断地向合作伙伴中心发布新的特性和功能，我们希望你提供反馈！ 
+我们正在不断地向合作伙伴中心发布新的特性和功能，我们希望你提供反馈！
 
 我们在面向全球合作伙伴中心社区发布这些新功能之前，邀请你先试用这些新功能，并分享你的想法。 查看[合作伙伴中心公告页面](announcements/index.md)，了解有关即将推出的功能的信息，以便你可以开始规划如何使用它们拓展你的业务。 在给定的时间，可以使用几种功能来测试驱动器。
 

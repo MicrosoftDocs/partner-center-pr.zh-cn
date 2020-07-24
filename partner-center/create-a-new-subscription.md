@@ -1,7 +1,7 @@
 ---
 title: 在合作伙伴中心创建客户订阅
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何向 Microsoft 发布的产品以及第三方 Isv 发布的 SaaS 产品销售客户订阅。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875223"
+ms.locfileid: "86949833"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -49,7 +49,7 @@ ms.locfileid: "86875223"
 
 4. 若只要查看特定类型的订阅，请在可用筛选器中进行选择：
    - **发布者**：选择**microsoft**仅查看来自 microsoft 或**合作伙伴**的产品/服务，以查看由 isv 发布的商业 marketplace 产品。
-   - **计费类型**：选择要使用的订阅计费类型： "**许可证**" 或 "**使用情况**"。 请参阅[关于新计费功能的常见问题解答](faq-about-new-billing-features.md)，了解如何决定是采用按月计费还是按年计费频率。
+   - **计费类型**：选择要使用的订阅计费类型： "**许可证**" 或 "**使用情况**"。 请参阅[基于许可证的计费](license-based-billing.md)，了解可帮助您决定每月和每年计费频率的信息。
    - **类别**：选择 "**企业**"、"**小企业**" 或 "**试用**"。 若要了解试用版订阅，请参阅[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)。
 
 5. 选择要为客户购买的产品订阅。 所看到的产品取决于客户段的类型（教育、政府等）和应用的筛选器。 Marketplace 上显示的某些产品/服务可能并不总是用于特定客户或特定的 CSP 合作伙伴。 这可能是因为：
@@ -76,7 +76,7 @@ ms.locfileid: "86875223"
     >[!NOTE]
     > 你和你的客户都不会收到一封电子邮件，其中包含为此类型的 ISV 订阅设置/预配的说明。）
 
-    - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 在免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，将根据相同的计划 autorenew 订阅。
+    - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 在免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，订阅将根据相同的计划自动续订。
    
 ## <a name="update-subscriptions-with-add-ons"></a>用加载项更新订阅 
 
@@ -92,10 +92,10 @@ ms.locfileid: "86875223"
 
 5. 更新每个所需外接程序的许可证数量。 然后“提交”更改  。
 
-通过合作伙伴中心购买加载项的能力仅适用于 CSP 合作伙伴。
+通过合作伙伴中心购买加载项的能力仅适用于直接帐单和间接提供商。
 仅根据基本要求和区域可用性显示符合条件的加载项。 有关定价和产品/服务的详细信息，请参阅云分销商产品列表。  暂停基本订阅还会挂起任何关联的外接程序。
 
-外接程序的开始日期将与基本订阅进行对齐，并在第一张发票中从 "费用开始日期" 和 "费用结束日期" 计算，按每收费。 
+外接程序的开始日期将与基本订阅进行对齐，并在第一张发票中从 "费用开始日期" 和 "费用结束日期" 计算，按每收费。 有关其他信息，请参阅[基于许可证的计费](license-based-billing.md)。
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暂停或取消订阅

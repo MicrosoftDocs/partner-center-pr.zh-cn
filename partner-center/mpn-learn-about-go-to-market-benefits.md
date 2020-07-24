@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 产品/服务的投放市场，有助于加快投放市场的时间、生成潜在客户和扩展业务。
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436786"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114644"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>利用 Microsoft 产品/服务探索市场推广
 
@@ -70,7 +70,7 @@ ms.locfileid: "86436786"
 
    - 选择“概述”。 滚动到 "**快速链接**" 部分，然后选择 "**走向市场**" 选项卡。
 
-     或
+     or
 
    - 选择后跟**市场推广**的**权益**。
 

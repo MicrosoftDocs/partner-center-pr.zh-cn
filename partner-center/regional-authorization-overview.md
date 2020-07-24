@@ -5,20 +5,20 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请参阅国家/地区和货币，根据公司的位置，你可以在其中销售 CSP 优惠。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434166"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114097"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
 
-你公司的位置决定了你的市场。 市场包括可以销售云解决方案提供商（CSP）计划提供的区域和/或国家/地区。
+公司的位置决定了市场。 市场包括可以销售云解决方案提供商（CSP）计划提供的区域和/或国家/地区。
 
 例如，如果你的公司位于美国，则可以在美国和美国外岛向客户销售 CSP 优惠。 如果你的公司位于巴西，则只能在巴西向客户销售 CSP 优惠。 如果你的公司位于非洲地区，你可以向非洲地区的所有18个国家/地区的客户销售 CSP 优惠。
 
@@ -54,13 +54,13 @@ ms.locfileid: "86434166"
 | 乍得                     |   USD    |
 | 科摩罗                  |   USD    |
 | 刚果                    |   USD    |
-| 刚果（金）              |   USD    |
+| 刚果（民主共和国）              |   USD    |
 | 科特迪瓦            |          |
 | 吉布提                 |   USD    |
 | 赤道几内亚        |   USD    |
 | 厄立特里亚                  |   USD    |
 | 埃塞俄比亚                 |          |
-| 法属波利尼西亚         |   USD    |
+| 法属玻里尼西亚         |   USD    |
 | 加蓬                    |   USD    |
 | 冈比亚                   |   USD    |
 | 加纳                    |   USD    |
@@ -125,8 +125,8 @@ ms.locfileid: "86434166"
 |  国家/地区        | 货币 |
 |  --------------        |:--------:|
 |  澳大利亚             |   AUD    |
-|  圣诞岛      |   AUD    |
-|  科科斯（基林）群岛|   AUD   |
+|  圣延岛      |   AUD    |
+|  科科斯群岛|   AUD   |
 |  库克群岛          |   AUD    |
 |  斐济                  |   AUD    |
 |  法属南部领地| AUD |
@@ -192,13 +192,13 @@ ms.locfileid: "86434166"
 |  直布罗陀      |   GBP    |
 |  希腊         |   EUR    |
 |  格陵兰      |          |
-|  根西岛       |   GBP    |
+|  格恩西岛       |   GBP    |
 |  匈牙利        |   EUR    |
 |  冰岛        |   EUR    |
 |  爱尔兰        |   EUR    |
-|  马恩岛    |   GBP    |
+|  曼岛    |   GBP    |
 |  意大利          |   EUR    |
-|  泽西岛         |   GBP    |
+|  泽西         |   GBP    |
 |  拉脱维亚         |   EUR    |
 |  列支敦士登  |   EUR    |
 |  立陶宛      |   EUR    |
@@ -254,11 +254,11 @@ ms.locfileid: "86434166"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  安圭拉       |   USD    |
+|  安圭拉岛       |   USD    |
 |  南极洲     |   USD    |
 |  安提瓜和巴布达| USD  |
 |  阿根廷      |   USD    |
-|  阿鲁巴          |   USD    |
+|  阿鲁巴岛          |   USD    |
 |  巴哈马        |   USD    |
 |  巴巴多斯       |   USD    |
 |  伯利兹         |   USD    |
@@ -271,14 +271,14 @@ ms.locfileid: "86434166"
 |  哥伦比亚       |   USD    |
 |  哥斯达黎加     |   USD    |
 |  库拉索        |   USD    |
-|  多米尼克       |  USD     |
+|  多米尼加       |  USD     |
 |  多米尼加共和国| USD   |
 |  厄瓜多尔        |   USD    |
 |  萨尔瓦多    |   USD    |
 |  福克兰群岛|  USD    |
 |  法属圭亚那  |   USD    |
 |  格林纳达        |   USD    |
-|  瓜德罗普     |          |
+|  瓜德罗普岛     |          |
 |  危地马拉      |   USD    |
 |  圭亚那         |   USD    |
 |  海地          |   USD    |
@@ -337,7 +337,7 @@ ms.locfileid: "86434166"
 |  莱索托        |   USD    |
 |  利比亚          |          |
 |  马其顿共和国|   |
-|  毛利塔尼亚     |   USD    |
+|  毛里塔尼亚     |   USD    |
 |  摩尔多瓦        |          |
 |  蒙古       |          |
 |  黑山     |          |

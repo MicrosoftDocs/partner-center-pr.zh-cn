@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解技术支持云解决方案提供商计划合作伙伴可以为其客户提供的类型。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6562778e9b3be1ddeaac1c3cfbe5bc1e82a268a
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219565"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114507"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技术支持以帮助客户配置、管理和使用其订阅
 
@@ -56,8 +56,8 @@ ms.locfileid: "86219565"
 
 - **技术**问题支持通过以下方式提供：
 
-  - 顶级支持合作伙伴 (收费) 
-  - 针对合作伙伴的高级支持 (基于费用的) 
+  - 合作伙伴顶级支持（基于费用）
+  - 对合作伙伴的高级支持（基于费用）
   - 签名云支持（包括金牌/银牌能力）
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 

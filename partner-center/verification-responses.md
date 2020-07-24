@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436436"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943814"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>注册新的合作伙伴中心计划时，请验证你的帐户信息
 
@@ -39,7 +39,7 @@ ms.locfileid: "86436436"
 |Microsoft Store   |业务验证确认注册公司是合法的业务实体，并且是用于注册的地址。|如果企业验证失败，则系统将要求主要联系人（通常是全局或帐户管理员）提供官方文档（如业务注册或税务注册证书或收据），该公司的国家/地区或市政府确认该公司有权使用该实体名称完成业务，并位于注册地址。 [创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->了解如何更新[法律业务配置文件（地址）](https://docs.microsoft.com/partner-center/update-your-partner-profile)。
+>了解如何更新[法律业务配置文件（地址）](update-your-partner-profile.md)。
 
 ## <a name="when-verification-concludes"></a>验证结束时间
 

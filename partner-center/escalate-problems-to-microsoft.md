@@ -1,20 +1,20 @@
 ---
 title: 将问题升级到 Microsoft
+description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 Microsoft 合作伙伴应为其客户解决的问题，以及可能需要升级到 Microsoft 的问题。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219595"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114158"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>将问题上报给 Microsoft，并了解哪些问题更适用于 Microsoft 呈报  
 
@@ -56,19 +56,12 @@ ms.locfileid: "86219595"
 
 5. 你将转到 Office 365 门户，你需要使用合作伙伴中心凭据进行登录。
 
-6. 从左侧菜单中选择**支持**、**新建服务请求**。
+6. 从左侧菜单中选择 "**支持**"、"**新建服务请求**"。
 
 7. 选择支持主题。
 
 >[!NOTE]
 >从合作伙伴中心仪表板开始，以便维护合作伙伴和客户之间的关系，这一点很重要。 
 
-
 有关代表客户报告问题的信息，请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
-
- 
-
- 
-
-
 
