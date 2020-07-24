@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 将多个公司从合作伙伴成员中心（PMC）迁移到合作伙伴中心并将其合并到合作伙伴全局帐户时应了解的内容。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434406"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114145"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心移到合作伙伴中心（PMC）
 
@@ -51,7 +51,7 @@ ms.locfileid: "86434406"
 
 此屏幕显示已在合作伙伴中心创建的现有帐户的详细信息（名称和地址），以及主要联系人的详细信息。
 
-选择“继续”。
+选择**继续**。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>在合并帐户时会发生什么
 

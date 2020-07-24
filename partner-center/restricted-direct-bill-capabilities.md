@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 直接帐单合作伙伴要求，以及如何避免功能受到限制。 了解你的功能是否受到限制。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 710c012af7ded851693eacef0e150bef897ef786
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436586"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87113978"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求  
 

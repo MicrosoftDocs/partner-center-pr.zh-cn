@@ -4,16 +4,16 @@ description: 了解管理声明的记录合作伙伴（CPOR）客户关联的重
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949502"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114784"
 ---
 # <a name="manage-customer-associations"></a>管理客户关联
 
@@ -42,7 +42,7 @@ ms.locfileid: "85949502"
 - 已提交：在 Microsoft 开始审批过程之前，它将处于 "已提交" 状态最多5个工作日。
 - 查看： Microsoft 提供了五个工作日，根据你提供的执行证明做出决定。
 - 需要合作伙伴操作：如果审阅者发送评论和请求其他信息，则需要5个工作日来做出响应。 应根据审阅者的 SLA 以及为 PoE 审阅者提供其他信息所需的时间量，在10天内在 CPOR 关联声明上做出决策。
-- 已批准：你的 CPOR 关联声明已获得批准。 在批准关联后，会向客户发送通知，让他们拒绝关联。 然后，客户将有7天的时间退出。经过此许可期限后，将发送该报销申请以评估激励计划的资格。
+- 已批准：你的 CPOR 关联声明已获得批准。 获得批准后，将向客户发送通知，让他们拒绝关联。 然后，客户将有7天的时间退出。经过此许可期限后，将发送该报销申请以评估激励计划的资格。
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>查看 CPOR 关联声明的状态
 
@@ -71,7 +71,7 @@ ms.locfileid: "85949502"
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>将 CPOR 关联声明的状态争议
 
-如果你的 CPOR 关联声明已拒绝，你将有30天的时间来对拒绝进行争议。 收到通知时，收到的电子邮件还会告诉你可以查看拒绝原因的位置，以及如何对其进行争议。  
+如果你的 CPOR 关联声明已拒绝，你将有30天的时间来对拒绝进行争议。 你会收到拒绝通知电子邮件，邮件中还会指出查看拒绝原因的位置以及如何对其提出异议。  
 
 如果已超过30天，但你仍想要对拒绝的声明进行争议，则需要提交新的关联（PoE）。 
 
@@ -81,17 +81,17 @@ ms.locfileid: "85949502"
 2. 打开要对其进行争议的声明。
 3. 在 "声明" 页上，选择 "**争议**"。
 4. 输入业务理由，并/或已更新的 PoE，解释拒绝应很少见的原因。
-5. 添加完信息后，选择 "**争议**"。 我们的审阅者应在5个工作日内与你联系。
+5. 添加完信息后，选择“提出异议”。 我们的审阅者应在5个工作日内与你联系。
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>拒绝 CPOR 关联声明的原因
 
 拒绝 CPOR 关联声明有三个主要原因。
 
-**合作伙伴请求：** 合作伙伴可以请求拒绝其关联。 当伙伴由于错误地使用错误的 MPN （CPOR）创建了一个错误的活动（例如 .。。 你选择了收入关联而不是提前销售），或者不能再与客户合作。
+**合作伙伴请求：** 合作伙伴可以请求拒绝其关联。 通常，当伙伴由于错误地使用错误的 MPN （CPOR）创建了一个不正确的活动（例如 .。。 你选择了收入关联而不是提前销售），或者不能再与客户合作。
 
 **客户拒绝：** 成功完成 CPOR 关联声明后，其状态将更改为 "已批准"，同时向客户提供拒绝关联许可的机会。 如果客户拒绝同意，则关联将遭到拒绝。
 
-**执行证明不足：** 每个 CPOR 关联都需要执行证明。 提交你的 CPOR 关联声明后，Microsoft 审阅者将需要长达5天的时间来查看你的 PoE，并使用你的声明中的注释部分来请求所需的任何其他信息。 如果信息不足，CPOR 关联声明将被拒绝。
+**执行证明不足：** 每个 CPOR 关联都需要执行证明。 提交你的 CPOR 关联声明后，Microsoft 审阅者将需要长达五天的时间来查看你的 PoE，并使用你的声明中的 "评论" 部分来请求所需的任何其他信息。 如果信息不足，CPOR 关联声明将被拒绝。
 
 拒绝的其他可能原因：
 

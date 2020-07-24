@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 你必须先创建支出和税务配置文件，然后才能支付奖励。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949683"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114086"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>合作伙伴中心的支出和税务配置文件
 
@@ -85,11 +85,11 @@ ms.locfileid: "85949683"
     **银行帐户位置：** 公司银行所在的国家/地区。
     **付款方式：** 首选付款方式适用于合作伙伴中心是电子银行传输。
 
-2. 选择“下一步”。
+2. 选择“**下一步**”。
 
 3. 在 "**银行帐户**" 页上，输入你的信息。 此页上显示的字段将因国家/地区而异。 
 
-4. 选择“下一步”。
+4. 选择“**下一步**”。
 
 5. 在 "**受益人**" 页上，输入适当的信息。 受益人是公司中的人员如果需要讨论你的帐户，则会联系到银行。
 
@@ -116,7 +116,7 @@ ms.locfileid: "85949683"
    - 如果你的公司仅合并到美国中，或者如果此配置文件适用于个人，请选择左侧的选项。 
    - 如果你的公司在美国外合并，则选择右侧的选项，然后从列表中选择你所在的国家/地区。
 
-3. 选择“下一步”。 
+3. 选择“**下一步**”。 
 
 4. 在 "**税状态**" 页上，输入所需信息，然后选择 "**下一步**"。 此页上的字段将因国家/地区而异。 详细信息。 
 

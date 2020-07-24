@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434366"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944474"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潜在顾客，如客户查询、符合市场营销的潜在顾客和符合销售的潜在顾客
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434366"
 
 Microsoft 每年向其合作伙伴发送数百万个潜在顾客。 你可以从 Microsoft 接收潜在客户并构建你的业务。 本部分将帮助你了解如何管理从 Microsoft 解决方案提供商页面收到的潜在客户，并对其进行操作。
 
-接收潜在顾客的先决条件是为公司[创建业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)。 你为公司创建的业务配置文件将帮助你在[Microsoft 解决方案提供商](https://www.microsoft.com/solution-providers/home)网页上查看潜在客户、其他合作伙伴和 microsoft 卖方。 你的业务配置文件信息与公司的成员身份信息（如资格数据和 Microsoft 的其他认可）结合在一起，以便在客户搜索要使用的合作伙伴时为其提供丰富的配置文件。 源自 Microsoft 解决方案提供商页上的配置文件列表的所有请求都可在左侧导航窗格中的 "**引用**" 选项卡下的 **"潜在顾客"** 部分中找到。 
+接收潜在顾客的先决条件是为公司[创建业务配置文件](create-a-marketing-profile.md)。 你为公司创建的业务配置文件将帮助你在[Microsoft 解决方案提供商](https://www.microsoft.com/solution-providers/home)网页上查看潜在客户、其他合作伙伴和 microsoft 卖方。 你的业务配置文件信息与公司的成员身份信息（如资格数据和 Microsoft 的其他认可）结合在一起，以便在客户搜索要使用的合作伙伴时为其提供丰富的配置文件。 源自 Microsoft 解决方案提供商页面上的配置文件列表的所有请求都可在左侧导航窗格中的 "**引用**" 选项卡下的 "**潜在顾客**" 部分获得。
 
 ## <a name="types-of-leads"></a>潜在客户类型
 
@@ -85,9 +85,9 @@ Microsoft 每年向其合作伙伴发送数百万个潜在顾客。 你可以从
 
 下面是一些提示，可帮助你获得更合适的推荐：
 
-- **在你的[业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中选择表示你的独特专长和业务模型的关键字和偏好设置**。 删除将生成你不感兴趣的引用的关键字。 如果你不想要处理特定规模的业务，请更新此首选项。
+- **在你的[业务配置文件](create-a-marketing-profile.md)中选择表示你的独特专长和业务模型的关键字和偏好设置**。 删除将生成你不感兴趣的引用的关键字。 如果你不想要处理特定规模的业务，请更新此首选项。
 
-- **在[业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中查看每个位置的联系人信息**确保你的团队收到传入警报。
+- **在[业务配置文件](create-a-marketing-profile.md)中查看每个位置的联系人信息**确保你的团队收到传入警报。
 
 - **快速响应引用**当你及时响应传入请求时，我们将增加你在未来的客户搜索结果中的可见性。 确保你的团队按照你的意图快速作出回应。
 

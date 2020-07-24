@@ -5,15 +5,15 @@ ms.date: 06/12/2020
 description: 了解合作声明过程，包括截止时间、支付时间和执行证明（PoE）。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 3796a22dc2239394672b7991f78eeafe487da032
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 0beb65febee607af403f04d69650018b471a3fde
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875233"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114821"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>合作声明、计划和 PoEs
 
@@ -86,7 +86,7 @@ ms.locfileid: "86875233"
 
 3. 在 "**程序**" 页上，找到计划的适当市场，然后选择 "**创建计划**"。
 
-4. 在 "**新建计划**" 页上，填写必填字段。 **货币**是您希望计划反映的值。 **审阅者电子邮件**应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存”。
+4. 在 "**新建计划**" 页上，填写必填字段。 **货币**是您希望计划反映的值。 **审阅者电子邮件**应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存” 。
 
 5. 在计划的状态页上，查看显示的信息。 选择“编辑”以更新任何信息。
 
@@ -159,7 +159,7 @@ ms.locfileid: "86875233"
     - **日期** 执行日期。 这必须介于市场活动的开始日期和市场活动结束日期之间。
     - **金额** 合作声明的量。
 
-7. 选择“保存”。
+7. 选择“保存” 。
 
 8. 在 "**新的执行声明证明**" 页上，输入必填字段。
 

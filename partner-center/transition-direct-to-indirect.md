@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436466"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944494"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商
 
@@ -204,7 +204,7 @@ ms.locfileid: "86436466"
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 客户协议接受
 
-Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所有客户（现有和新）都必须签署新的[Microsoft 客户协议](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 对于过渡客户，如果：
+Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所有客户（现有和新）都必须签署新的[Microsoft 客户协议](confirm-customer-agreement.md)。 对于过渡客户，如果：
 
 - **客户尚未接受 Microsoft 客户协议**
 
@@ -277,7 +277,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="创建传输请求":::
 
-8. 单击**创建**。
+8. 单击“创建”。
 
 9. "**订阅传输**" 下将显示一个有效的订阅传输请求。
 
@@ -347,7 +347,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 - **将不会在现有传输请求中反映对订阅的座位计数更改。** 创建包含现有订阅的传输请求后，应避免更新订阅的座位数量（或关联的加载项）。 如果这样做，新数量将不会在传输请求中反映出来。 在间接提供程序接受传输请求后，生成的订阅将具有旧的数量。 如果希望将新数量转移到间接提供程序，必须取消现有的传输请求并重新创建一个新的请求。
 
-- **并非所有购买都可以使用自助服务订阅传输来传输。** 目前只能使用此功能转移 O365 订阅和 Azure PAYG 订阅（BC-OP-NT-AZR-0145P）。 不支持其他购买内容，包括 Azure 计划、Azure 保留实例、基于字词的订阅和 Azure Marketplace 的 SaaS 订阅。 你将在提交传输请求页中看到无法传输订阅的原因。 若要传输这些订阅，你将需要[取消现有订阅](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription)，并通过间接提供程序为客户购买新的产品/服务。
+- **并非所有购买都可以使用自助服务订阅传输来传输。** 目前只能使用此功能转移 O365 订阅和 Azure PAYG 订阅（BC-OP-NT-AZR-0145P）。 不支持其他购买内容，包括 Azure 计划、Azure 保留实例、基于字词的订阅和 Azure Marketplace 的 SaaS 订阅。 你将在提交传输请求页中看到无法传输订阅的原因。 若要传输这些订阅，你将需要[取消现有订阅](create-a-new-subscription.md#suspend-or-cancel-a-subscription)，并通过间接提供程序为客户购买新的产品/服务。
 
 - **不能使用沙盒环境进行测试。**
 

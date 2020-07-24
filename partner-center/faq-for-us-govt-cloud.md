@@ -8,12 +8,12 @@ description: 有关适用于美国政府的 Microsoft 云云解决方案提供�
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: b35d178b17f6541f2ad3ec45190aff1c09e6dda6
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390534"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943904"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 
@@ -21,7 +21,7 @@ ms.locfileid: "86390534"
 
 -  Microsoft Cloud for US Government 合作伙伴中心
 
-## <a name="frequently-asked-questions"></a>常见问题 
+## <a name="frequently-asked-questions"></a>常见问题解答 
 
 使用这些常见问题解答了解关于 Microsoft Cloud for US Government 云解决方案提供商 (CSP) 计划的详细信息。 你还可以联系你的帐户管理员以了解更多信息。 
 
@@ -37,7 +37,7 @@ ms.locfileid: "86390534"
 
 **客户定价是否与商业云解决方案提供商计划相同？**
 
-错误。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
+否。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
 
 **合作伙伴折扣模式是否相同？**
 
@@ -103,11 +103,11 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 
 **合作伙伴奖励机制是否有任何不同？**
 
-错误。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
+否。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
 
 **计费方式是否有任何变化？**
 
-错误。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
+否。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
 
 **在商业数据中心托管的数据是否可以迁移到 Microsoft Cloud for US Government？**
 
@@ -165,7 +165,7 @@ Azure 政府云提供基于安全、隐私和控制、合规性和透明度等�
 
 **对于不适用于 Microsoft Cloud for US Government 云解决方案提供商计划的 API，是否有变通方法？**
 
-合作伙伴可以使用 Azure 门户、Azure AD PowerShell 或 Graph API 进行合作伙伴用户帐户管理。 有关其他技术信息，请参阅[通过政府云合作伙伴中心进行开发](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)。
+合作伙伴可以使用 Azure 门户、Azure AD PowerShell 或图形 API 进行合作伙伴用户帐户管理。 有关其他技术信息，请参阅[通过政府云合作伙伴中心进行开发](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)。
 
 **可以从何处了解详细信息？**
 

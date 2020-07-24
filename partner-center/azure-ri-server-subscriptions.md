@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435706"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943944"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>获取、设置、& 管理客户的 Azure 保留 VM 实例（RI） + 服务器订阅
 
@@ -103,7 +103,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 - [Azure 预订和 SQL 数据库的合作伙伴常见问题解答](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [远程桌面服务（RDS）客户端访问许可证（CAL）（公告）](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Azure 保留 VM 实例（Azure 门户）](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [服务器订阅](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [服务器订阅](csp-software-subscriptions.md)
 - [Azure 中的 SQL DB 概述](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [SQL DB 保留（Azure 门户）](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB （Azure 门户）](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
@@ -113,7 +113,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 - [Azure 上的 SUSE Linux](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Azure 上的 Linux](https://azure.microsoft.com/overview/linux-on-azure/)
 - [Azure 定价概述](https://azure.microsoft.com/pricing/)
-- [Azure 定价计算器](https://azure.microsoft.com/pricing/calculator)
+- [Azure 价格计算器](https://azure.microsoft.com/pricing/calculator)
 - [Azure Databricks 单位预订](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
 - CSP 价目表： " **Microsoft Azure 预订实例**" 和 "**软件订阅**价格列表" 均位于 "合作伙伴中心[定价 & 产品/服务](https://partner.microsoft.com/pcv/sales)" 页上。
 
@@ -130,7 +130,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 
 其他有用的培训包括[合作伙伴大学上的 Azure 许可模块](https://aka.ms/azure_partner_licensing)。
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>操作
 
 - [新式商务操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（已更新）：涵盖重要策略和操作方面的综合指南，其中包含协议、按合作伙伴中心、发票、价目表详细信息、奖励、协调文件、API/SDK、沙箱和 Azure 合作伙伴共享服务等。
 - [现代产品/服务国家/地区可用性和客户货币矩阵](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
