@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436066"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949853"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "86436066"
 
 | **类别** | **2020 年 7 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[针对 2021 财年加强对符合条件的 Microsoft 商业市场产品/服务的云解决方案提供商 (CSP) 激励](2020-July.md#7)|7 月 22 日|
 |功能|[合作伙伴中心中添加了针对 Insights 报告的新功能](2020-july.md#6)|7 月 16 日|
 |产品/市场|[云解决方案提供商计划中的永久软件](2020-july.md#5)|7 月 15 日|
 | 产品/市场 | [适用于 Teams 的新的 Microsoft 365 企业语音 SKU](2020-july.md#4) | 7 月 3 日 |
@@ -35,7 +36,7 @@ ms.locfileid: "86436066"
 | 产品/市场 | [对 Microsoft 365 F1 的更改](2020-june.md#3) | 6 月 15 日 |
 | 功能 | [媒体上更新云解决方案提供商的 Windows Server 软件订阅](2020-june.md#2) | 6 月 12 日 |
 | 产品/市场 | [新的和以停用的 Microsoft Dynamics 365 和 Power Platform 产品及服务](2020-june.md#1) | 6 月 11 日 |
-| 功能 | [在合作伙伴中心合并两个或多个公司帐户](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
+| 功能 | [在合作伙伴中心合并两个或多个公司帐户](../merge-accounts.md) | 6 月 9 日 |
 | **类别** | **2020 年 5 月公告** | **日期** |
 | 功能 | [教育版的“Microsoft 365 A3 – 无人参与的许可证”产品/服务更正](2020-may.md#5) | 5 月 28 日 |
 | 功能 | [活跃客户可通过云解决方案提供商 (CSP) 计划续订其增强计划 (EP) 并接收联机许可证](2020-may.md#4) | 5 月 26 日 |
