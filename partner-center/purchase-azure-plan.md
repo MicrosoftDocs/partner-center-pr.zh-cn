@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875253"
+ms.locfileid: "86943524"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>为客户购买 Azure 计划并按即用即付费率访问最新的 Azure 服务
 
@@ -37,7 +37,7 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="购买":::
 
-合作伙伴必须确认客户已查看并接受 Microsoft 客户协议条款。 有关合作伙伴如何确保客户接受协议条款的详细信息，请阅读[确认客户接受 Microsoft 客户协议](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 [资源库](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中提供了其他资源。
+合作伙伴必须确认客户已查看并接受 Microsoft 客户协议条款。 有关合作伙伴如何确保客户接受协议条款的详细信息，请阅读[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。 [资源库](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中提供了其他资源。
 
 要进行确认，有以下两种方法： 
 
@@ -75,9 +75,9 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表中选择要将 Azure 预留项添加到的 Azure 计划。 
 
 >[!Important] 
->如果该客户没有有效的 Azure 计划，请选择“Azure”立即添加一个计划。 有关更多说明，请阅读[购买 Azure 预留项](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)。
+>如果该客户没有有效的 Azure 计划，请选择“Azure”立即添加一个计划。 有关更多说明，请阅读[购买 Azure 预留项](azure-reservations-buying.md#purchase-azure-reservations)。
 
->[!Note] 
+>[!Note]
 >在合作伙伴中心，预留范围目前只能设置为“共享”。 要选择单个订阅范围或从共享更新为单个订阅范围，请按照以下说明转到 Microsoft Azure 管理门户。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共享范围预留设置":::

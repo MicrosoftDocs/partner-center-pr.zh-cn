@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286615"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943974"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -102,14 +102,14 @@ _________________
 
 为此，我们提供了将客户的 CSP 订阅从直接计费租户转换到间接提供商租户的新功能。 这一新功能将简化直接计费合作伙伴转换到间接经销商的这一过程，有助于加速计划内的企业发展。
 
-有关详细信息，请参阅[云解决方案提供商产品/服务](https://docs.microsoft.com/partner-center/csp-offers)页面。
+有关详细信息，请参阅[云解决方案提供商产品/服务](../csp-offers.md)页面。
 
 >[!NOTE] 
->转移仅支持基于许可证的订阅和 Azure 订阅。 你需要手动转移 Azure 计划和商业市场购买内容。 请注意，这涉及到对以下文档中所述的订阅进行取消和续订操作：[Azure 计划](https://docs.microsoft.com/partner-center/azure-plan-lp)和[商业市场](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 由于服务器订阅和 Azure 预留是一次性购买内容，因此不需要将它们转移到间接提供商租户。 有关详细信息，请参阅“云解决方案提供商产品/服务”页面。
+>转移仅支持基于许可证的订阅和 Azure 订阅。 你需要手动转移 Azure 计划和商业市场购买内容。 请注意，这涉及到对以下文档中所述的订阅进行取消和续订操作：[Azure 计划](../azure-plan-lp.md)和[商业市场](../csp-commercial-marketplace-manage.md)。 由于服务器订阅和 Azure 预留是一次性购买内容，因此不需要将它们转移到间接提供商租户。 有关详细信息，请参阅“云解决方案提供商产品/服务”页面。
 
 ### <a name="additional-resources"></a>其他资源：
 
-- [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider)帮助文章
+- [从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider)帮助文章
 - [直接计费合作伙伴到间接经销商](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>后续步骤

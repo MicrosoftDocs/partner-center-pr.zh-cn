@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型 - 例如，间接经销商或直接帐单合作伙伴。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20f8332b5f1ea3df7862c252c2b0eb777df4141e
-ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
+ms.openlocfilehash: 640ce63495a0894ecdba328fdc52992d0d0ea712
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84262861"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114288"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>注册到云解决方案提供商计划并建立可盈利的云解决方案业务
 

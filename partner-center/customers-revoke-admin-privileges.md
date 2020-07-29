@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434746"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943504"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>获取管理客户服务或订阅的权限
 
@@ -106,7 +106,7 @@ ms.locfileid: "86434746"
 
 - 你无法管理客户通过适用于企业的 Microsoft Store、适用于教育的 Microsoft Store 或 Microsoft Intune 门户添加的设备。
 
-若要详细了解 Autopilot，请参阅[使用 Windows Autopilot 简化设备设置](https://docs.microsoft.com/partner-center/autopilot)。
+若要详细了解 Autopilot，请参阅[使用 Windows Autopilot 简化设备设置](autopilot.md)。
 
 >[!IMPORTANT]  
 >合作伙伴中心内当前的 Autopilot 管理体验可能会继续发生改变。 在本文发布之时，我们正在考虑以下更改：

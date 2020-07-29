@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 详细了解云解决方案提供商计划中的优势和不同模式，以帮助你的企业通过新的客户和新的专业知识发展壮大。
-author: LauraBrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434906"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114324"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>云解决方案提供商计划权益和不同的模型
 

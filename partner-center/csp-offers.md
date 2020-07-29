@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434556"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943924"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴产品/服务的概述
 
@@ -117,21 +117,21 @@ ms.locfileid: "86434556"
 
 在目录中找不到要查找的产品/服务可能有多种原因。 如果你找不到所需的产品/服务，请参阅以下内容。
 
-- **验证你的客户是否有资格**。 许多套餐只能向具有特殊资格的客户销售。 这些特殊细分市场包括教育、非营利或政府社区云 (GCC)。 在记录问题之前，首先验证是否已相应设置客户的资格。 这一点可以通过单击客户列表中的相关客户并查看帐户来进行检查。 如果适用，此帐户应该已设置特殊资格。 如果尝试为没有资格的客户购买教育版，则在目录中看不到这些产品/服务。 有关为客户提供资格的详细信息，请参阅[特殊细分文档](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)。
+- **验证你的客户是否有资格**。 许多套餐只能向具有特殊资格的客户销售。 这些特殊细分市场包括教育、非营利或政府社区云 (GCC)。 在记录问题之前，首先验证是否已相应设置客户的资格。 这一点可以通过单击客户列表中的相关客户并查看帐户来进行检查。 如果适用，此帐户应该已设置特殊资格。 如果尝试为没有资格的客户购买教育版，则在目录中看不到这些产品/服务。 有关为客户提供资格的详细信息，请参阅[特殊细分文档](get-special-pricing-for-offers.md)。
 - **决定是尝试购买附加产品还是基本产品/服务**。 许多基于许可证的服务（如 Microsoft 365 和 Dynamics 365）都支持基本套餐和加载项的目录购买。 只能在目录中购买基本套餐。 若要购买加载项，务必先在目录中购买基本套餐，然后从客户列表中选择客户，并选择针对基本套餐的订阅。 加载项可以应用于此“管理订阅”页上的基本套餐。 
 - **验证你所在的市场是否提供相关产品**。 许多产品和服务都配置为仅销售给特定国家/地区的客户。 你可以在各种价目表文件中找到受支持国家/地区的列表。 “定价和套餐”页的“套餐列表”矩阵中列出了支持基于许可证的服务的国家/地区。
 - **验证价目表中是否提供套餐**。 可用套餐列表每月都可能发生变化。 如果在目录中找不到产品/服务，请务必验证其是否在“销售”>“定价和产品/服务”页面的当前价目表中提供。
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>与在合作伙伴中心购买项目相关的建议文档
 
-- [合作伙伴中心中的“定价和产品/服务”](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [云解决方案提供商计划中的合作伙伴套餐的概述](https://docs.microsoft.com/partner-center/csp-offers)
-- [如何向教育客户销售套餐并创建教育客户](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [向特定行业销售，如教育、非营利和政府用户](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [针对特殊细分的购买规则](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [合作伙伴中心中的“定价和产品/服务”](pricing-and-offers.md)
+- [云解决方案提供商计划中的合作伙伴套餐的概述](csp-offers.md)
+- [如何向教育客户销售套餐并创建教育客户](sell-to-education-customers.md)
+- [向特定行业销售，如教育、非营利和政府用户](get-special-pricing-for-offers.md)
+- [针对特殊细分的购买规则](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>后续步骤
 
-有关计费流程的运作方式的信息，请参阅[计费基础知识](https://docs.microsoft.com/partner-center/billing-basics)。
+有关计费流程的运作方式的信息，请参阅[计费基础知识](billing-basics.md)。
 
 若要了解如何按 Azure 计划进行购买，请参阅[购买 Azure 计划](purchase-azure-plan.md)。

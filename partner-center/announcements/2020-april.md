@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749127"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944444"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -48,7 +48,7 @@ _________________
 
 这些促销将取代当前的 Office 365 E1 试用版产品/服务，并在以下方面有所不同：
 
-- 合作伙伴将利用 CSP 促销来对年度 Office 365 E1 或 Microsoft 365 商业基础版 SKU 进行交易，该促销在前 6 个月提供 100% 的折扣，而不是为期 6 个月的唯一的试用 SKU。 [了解有关 CSP 促销的详细信息](https://docs.microsoft.com/partner-center/promotions)。
+- 合作伙伴将利用 CSP 促销来对年度 Office 365 E1 或 Microsoft 365 商业基础版 SKU 进行交易，该促销在前 6 个月提供 100% 的折扣，而不是为期 6 个月的唯一的试用 SKU。 [了解有关 CSP 促销的详细信息](../promotions.md)。
 - 订购将严格限制为“仅限新客户”，而不是 Office 365 E1 试用版（仅通过书面策略来限制为新客户）。 查看 [Microsoft 合作伙伴常见问题解答](https://aka.ms/CSPCOVIDPromo)，了解详细信息。
 - 对于 SMB 客户，本次促销中将包含 Microsoft 365 商业基础版。 这可确保合作伙伴能够使用 Microsoft 365 商业版帮助席位不到 300 的客户使用适当的产品系列。
 当前获得 Office 365 E1 试用版授权（2020 年 5 月 4 日前可用）的客户仍将处于其当前计划中；此更改仅会影响新客户。
@@ -106,7 +106,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 利用此
 ### <a name="next-steps"></a>后续步骤
 
 1. 开始帮助客户使用新功能购买自己的 Azure 预订。
-2. [查看此集合中的可用资源](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)，其中提供了相关详细信息，包括[技术文档](https://docs.microsoft.com/partner-center/give-customers-permission)、合作伙伴体验浏览和客户体验浏览。
+2. [查看此集合中的可用资源](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)，其中提供了相关详细信息，包括[技术文档](../give-customers-permission.md)、合作伙伴体验浏览和客户体验浏览。
 
 _________________
 
@@ -168,7 +168,7 @@ _________________
 
 最近，我们已成功为所有合作伙伴租户完成了针对“管理员代表”(AOBO) 功能的安全保护措施激活操作，旨在保护其业务和客户免受身份盗窃相关事件的侵害。
 
-为了进一步帮助合作伙伴和客户，从 2020 年 5 月 1 日起，我们将开始为云解决方案提供商计划中的合作伙伴中心交易激活安全措施。 激活附加的安全保护措施意味着，合作伙伴需要使用多重身份验证 (MFA) 才能在云解决方案提供商计划中完成涉及合作伙伴中心用户体验或 API 的事务，其目的是防止未经授权的访问以及保护其客户和租户免受与身份盗窃相关的安全事件的侵害。 请访问[此处](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa)了解更多详细信息。
+为了进一步帮助合作伙伴和客户，从 2020 年 5 月 1 日起，我们将开始为云解决方案提供商计划中的合作伙伴中心交易激活安全措施。 激活附加的安全保护措施意味着，合作伙伴需要使用多重身份验证 (MFA) 才能在云解决方案提供商计划中完成涉及合作伙伴中心用户体验或 API 的事务，其目的是防止未经授权的访问以及保护其客户和租户免受与身份盗窃相关的安全事件的侵害。 请访问[此处](../partner-security-requirements-mandating-mfa.md)了解更多详细信息。
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -181,9 +181,9 @@ _________________
 
 查看这些资源以帮助实施安全要求。
 
-- 查看用于实施合作伙伴安全要求的[分步指南](https://docs.microsoft.com/partner-center/partner-security-requirements)。
-- 参阅有关合作伙伴安全要求的[常见问题](https://docs.microsoft.com/partner-center/partner-security-requirements-faq)和解答。
-- 查看[安全要求状态检查指南](https://docs.microsoft.com/partner-center/partner-security-compliance)。
+- 查看用于实施合作伙伴安全要求的[分步指南](../partner-security-requirements.md)。
+- 参阅有关合作伙伴安全要求的[常见问题](../partner-security-requirements-faq.md)和解答。
+- 查看[安全要求状态检查指南](../partner-security-compliance.md)。
 - 在[实施合作伙伴安全要求](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)集合中访问其他资源。
 - 将[合作伙伴中心安全指导社区小组](https://aka.ms/MPCSecurityGuidance)加入书签。
 
@@ -192,7 +192,7 @@ _________________
 感谢你对你的合作伙伴和对确保生态系统以信任为基础运行所做的努力。
 
 >[!NOTE] 
->如果正在使用基线策略，且尚未转换到安全默认策略或[其他 MFA 实现选项](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，请尽快参考[此处的关键资源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)实现转换。
+>如果正在使用基线策略，且尚未转换到安全默认策略或[其他 MFA 实现选项](..\partner-security-requirements.md#actions-that-you-need-to-take)，请尽快参考[此处的关键资源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)实现转换。
 
 ### <a name="change-log"></a>更改日志
 

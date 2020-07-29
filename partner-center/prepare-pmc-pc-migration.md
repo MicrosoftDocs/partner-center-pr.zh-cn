@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在将业务从 Partner Membership Center 迁移到合作伙伴中心之前，请先查看有用的信息和常见问题解答。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749168"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114567"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
@@ -55,7 +55,7 @@ Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形�
 
 **当我用户的角色从 PMC 迁移到合作伙伴中心时会发生什么情况？**
 
-除了 MPN 全局管理员或执行迁移的主要计划联系人外，PMC 中的所有用户将失去他们的管理员角色。 完成迁移的个人需要在合作伙伴中心中分配角色。 合作伙伴中心中的角色不同于 PMC 中的角色。 若要详细了解合作伙伴中心中的用户角色，请参阅 [为用户分配角色和权限](permissions-overview.md 以及[从 PMC 迁移到合作伙伴中心](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)。
+除了 MPN 全局管理员或执行迁移的主要计划联系人外，PMC 中的所有用户将失去他们的管理员角色。 完成迁移的个人需要在合作伙伴中心中分配角色。 合作伙伴中心中的角色不同于 PMC 中的角色。 若要详细了解合作伙伴中心中的用户角色，请参阅 [为用户分配角色和权限](permissions-overview.md 以及[从 PMC 迁移到合作伙伴中心](move-pmc-pc-map.md#user-roles)。
 
 
 **我的公司配置文件和我的业务配置文件之间有什么区别？**
