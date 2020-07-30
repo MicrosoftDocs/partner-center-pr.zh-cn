@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436506"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365743"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>如果无法登录到合作伙伴中心并需要重置密码
+
+**相应的角色**
+
+- 合作伙伴中心用户
 
 如果因忘记了密码而无法登录到合作伙伴中心，则需致电支持人员。 可以在[业务产品支持](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_)中找到相应的电话号码。 
 
@@ -24,7 +28,7 @@ ms.locfileid: "86436506"
 
 重置工作帐户密码后，你将能够访问合作伙伴中心。 
 
-## <a name="see-more"></a>查看详细信息
+## <a name="next-steps"></a>后续步骤
 
 - [验证帐户信息](verification-responses.md)
 - [重置我的密码](reset-my-pasword.md)

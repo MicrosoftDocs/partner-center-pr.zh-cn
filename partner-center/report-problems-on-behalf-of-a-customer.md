@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解将客户服务问题上报给 Microsoft 是有意义的，以及如何为其提供支持票证。
+description: 了解何时将客户服务问题上报给 Microsoft，以及如何提交支持票证。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecca066e5d637b780a0ede23ffc2cab69ef0afc7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114051"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389136"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -23,7 +23,7 @@ ms.locfileid: "87114051"
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
-如果你的客户遇到了你无法解决的服务问题，并且该问题符合[将问题上报给 Microsoft](escalate-problems-to-microsoft.md)中所述的条件，请为他们提出支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
+如果客户遇到了无法解决的服务问题，并且满足[向 Microsoft 上报问题](escalate-problems-to-microsoft.md)中所述的条件，则可以为他们提供支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。 
 
 ## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
@@ -32,6 +32,9 @@ ms.locfileid: "87114051"
 2. 在“客户请求”页面上，搜索所需的客户。
 
 3. 从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将被重定向到 Microsoft Azure 门户或 Office 365 管理中心。
+
+>[!NOTE]
+>支持操作合作伙伴在 CSP 中约束力 Dynamics 365 需要维护对合作伙伴（ASfP）计划或更高版本的高级支持的支持协议。 此支持协议是代表 CSP 客户提交 Dynamics 365 事件所必需的。 [了解](https://partner.microsoft.com/support/partnersupport)有关支持协议选项的详细信息。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -52,10 +55,10 @@ ms.locfileid: "87114051"
 
 3. 以后若要在 Microsoft Azure 门户中查看客户的服务请求，则选择“管理支持请求”即可。****
 
-如果没有某位客户的管理员权限，则可能需要为该客户创建支持请求。 这可能出现在下面的两种情况中：
+如果你没有该客户的管理员权限，则你可能需要为客户创建支持请求。 这可能出现在下面的两种情况中：
 
-- 你在首次建立关系时没有请求管理员权限。
-- 你管理客户的 Azure 订阅，而不是其他人，这不需要你拥有管理权限。
+- 第一次建立关系时，您没有请求管理员权限。
+- 你只管理客户的 Azure 订阅，因此你没有管理权限。
  
 不管什么情况，均可通过以下过程创建支持请求。 
 
@@ -70,7 +73,7 @@ ms.locfileid: "87114051"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、企业移动性套件
 
-1. 在“创建服务请求”**** 部分，选择相应的支持主题类别。 可能需要选择 "**更多 ...** " 来查看其他主题。    
+1. 在 "**创建服务请求**" 部分中，选择相应的支持类别。 可能需要选择 "**更多 ...** " 才能查看其他文章。
 
 2. 完成服务请求表单，然后选择“提交”****。
 
@@ -81,25 +84,25 @@ ms.locfileid: "87114051"
 
 ### <a name="support-for-commercial-marketplace-products"></a>对商业市场产品的支持
 
-Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的独立软件供应商（ISV）联系以获得支持。
+Microsoft 不为商业 marketplace 产品提供产品支持。 需要与发布产品的独立软件供应商（ISV）联系以获得支持。
 
 若要查找 ISV 的联系人信息，请执行以下操作：
 
 1.  在“市场”页上，选择需要获取相关帮助的产品。****
 
-2.  在产品的页面上，你将找到支持联系人信息。 该信息可能属于下面的一个或多个类别：
+2.  在产品的页面上，你将找到支持联系人信息。 这可能是以下一个或多个选项：
 
     - 指向 ISV 的网站上的支持入口点的链接
     - 支持部门的电子邮件
     - 支持部门的联系电话号码
 
-## <a name="faq"></a>常见问题
+## <a name="faq"></a>常见问题解答
 
 **哪些内容包含在支持权利中？**
 
-服务请求应通过合作伙伴中心进行归档，并且适用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企业移动性套件。 作为参与云解决方案提供商计划的合作伙伴，你的主要问题会得到优先响应。
+应通过合作伙伴中心来归档服务请求。 它们适用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企业移动性套件。 作为参与云解决方案提供商计划的合作伙伴，你的主要问题会得到优先响应。
 
-对你自己的合作伙伴租户的支持并不作为云解决方案提供商支持优势的一部分包含在内。 但是，Office 365、Microsoft Dynamics CRM Online 和企业移动性套件不会针对合作伙伴或客户收取单独的支持订阅费用。 Azure 会收取一定费用，但如果你享有签名云支持或其他 Microsoft 合作伙伴网络 (MPN) 优势，你可以使用这些支付该费用。
+CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，Office 365、Microsoft Dynamics CRM Online 和企业移动性套件不对合作伙伴或客户收取单独的支持订阅费用。 Azure 会向你收取费用，但如果你有资格享受签名云支持或其他 Microsoft 合作伙伴网络（MPN）权益，你可以使用这些权益来支付费用。
 
 此权益适用于所有参与云解决方案提供商计划（不管是付费计划还是免费试用计划）的合作伙伴。 帐单和订阅管理支持也作为此程序包的免费组件包含在内。
 
@@ -107,28 +110,28 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 
 我们的初始响应时间取决于已提交事件的严重性。 提交服务请求时，问题的严重性将由业务影响指示确定。
 
-“技术中断-修复事件”的初始响应时间如下所示：****
+**技术中断修复事件**的初始响应时间：
 
 - 严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
-- 中等影响（严重性 B）：4 小时（中等损失或服务质量下降。 生产服务部分受到影响。）
-- 轻微影响（严重性 C）：8 小时（轻微损失或服务质量下降。 服务仍可用或非生产服务受影响。）
+- 中等影响（严重性 B）：四小时（服务的持续丢失或降低）。 部分受影响的生产服务。）
+- 最小影响（严重性 C）：8小时（服务的最小丢失或降低）。 服务仍处于可用或非生产服务。）
 
 初始响应时间仅适用于英语语言支持。 在营业时间提供本地语言支持。
-对于属于支持授权边界内但不认为是中断修复的事件，初始响应时间可能最多为一个工作日。
+对于落在支持权利边界内的事件，但不视为中断修复事件，初始响应时间可能会长达一天。
 
 **是否可以通过电话提交服务请求？**
 
-不可以，未针对此计划提供电话支持。
+不，此程序不提供电话支持。
 
 **如果我登录 Azure 门户但绕过合作伙伴中心，会发生什么？**
 
-如果你直接登录到 Microsoft Azure 门户，你是在你自己的上下文中而不是客户的上下文中查看该中心。 因此，在为你自己的订阅创建服务申请时，应直接登录 Microsoft Azure 门户。
+如果直接登录到 Microsoft Azure 门户，则可以在自己的上下文中查看中心，而不是客户的上下文。 这就是为什么你只应在为自己的订阅创建服务请求时直接登录到 Microsoft Azure 门户。
 
-你的云解决方案提供商计划支持权利不对你自己的合作伙伴订阅提供支持。因此，当创建涉及你自己的合作伙伴订阅的服务请求时，必须提供你的有效支持计划权利。 示例包括 MPN 合约 ID、Premier 或 Azure 支持计划。 请参阅 [Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
+你的 CSP 计划支持权限不提供对你自己的合作伙伴订阅的支持。 因此，在创建涉及你自己的合作伙伴订阅的服务请求时，需要提供有效的支持计划权利。 示例包括 MPN 合同 ID、高级版或 Azure 支持计划。 有关详细信息，请参阅[Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
 **如果登录到 Office 365 管理中心门户并绕过合作伙伴中心，会发生什么情况？**
 
-如果直接登录到 Office 365 管理中心，你将在自己的上下文中查看中心，而不是客户的上下文。 因此，在为自己的订阅创建服务请求时，只应直接登录到 Office 365 管理中心。
+如果直接登录到 Office 365 管理中心，你将在自己的上下文中查看中心，而不是客户的上下文。 这就是你在为自己的订阅创建服务请求时，只应直接登录到 Office 365 管理中心的原因。
 
 **如何获取更多 Dynamics 365 支持？**
 
@@ -137,3 +140,8 @@ Microsoft 不对商业市场产品提供产品支持。 需要与发布产品的
 请联系 [Dynamics 支持人员](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
 请阅读 [Microsoft Dynamics 支持](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
+
+## <a name="next-steps"></a>后续步骤
+
+- [向你的客户提供支持](customer-support.md)
+- [检查服务运行状况](check-service-health.md)

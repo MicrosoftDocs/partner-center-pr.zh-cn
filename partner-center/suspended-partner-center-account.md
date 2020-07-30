@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219645"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365733"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施
 
@@ -24,6 +24,10 @@ ms.locfileid: "86219645"
 
 -  合作伙伴中心
 -  Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+
+- 全局管理员
 
 
 > [!IMPORTANT]  
@@ -35,7 +39,7 @@ ms.locfileid: "86219645"
 
 - 当前计费金额已逾期 60 天以上 
 - 检测到严重的帐户滥用情况
-- 当问题影响间接提供程序操作并对帐户产生负面影响 (仅限间接经销商) 
+- 当问题影响间接提供程序操作并对帐户产生负面影响时（仅限间接经销商）
 - 如果你的帐户配置文件处于失败或拒绝状态
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>如果帐户被挂起，需要做什么

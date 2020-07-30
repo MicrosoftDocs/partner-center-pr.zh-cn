@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943814"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365723"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>注册新的合作伙伴中心计划时，请验证你的帐户信息
 
-在合作伙伴中心注册新计划时，Microsoft 会验证你提供的帐户注册信息，例如公司名称、公司地址和主要联系人详细信息。 在此过程中，Microsoft 可能会向主要联系人发送电子邮件，以告知状态并请求其他验证文档。
+**相应的角色**
+
+- 全局管理员
+- MPN 帐户管理员
+
+当你在合作伙伴中心注册新计划时，Microsoft 会验证你提供的帐户注册信息，如公司名称、公司地址和主要联系人详细信息。 在此过程中，Microsoft 可能会向主要联系人发送电子邮件，以告知状态并请求其他验证文档。
 
 >[!NOTE]
 >若要确保收到电子邮件，请务必将 Microsoft.com 中的电子邮件标记为 "安全" 域，并检查垃圾邮件文件夹。

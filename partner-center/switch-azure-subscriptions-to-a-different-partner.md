@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237967"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412433"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
@@ -24,7 +24,7 @@ ms.locfileid: "86237967"
 - Microsoft 全球云合作伙伴中心
 - 云解决方案提供商 (CSP) 计划中的合作伙伴
 
-本文介绍了如何将 Microsoft Azure 服务从一个云解决方案提供商 (CSP) 切换到另一个云解决方案提供商。
+本文介绍了客户如何将 Microsoft Azure 服务从一个云解决方案提供商（CSP）切换到另一个云解决方案提供商（CSP）。
 
 若要将客户的 Azure 服务或订阅切换到其他合作伙伴，请执行以下手动步骤。 合作伙伴和客户都需要完成这些步骤。
 
@@ -32,7 +32,7 @@ ms.locfileid: "86237967"
 >目前，只有直接或间接提供程序可以传输订阅。
 >不能更改与 Azure 计划、Office 365、企业移动性套件或 Microsoft Dynamics CRM 订阅关联的云解决方案提供商订阅的合作伙伴。
 
-**针对 Azure 订阅切换合作伙伴**
+## <a name="switch-partners-for-azure-subscriptions"></a>针对 Azure 订阅切换合作伙伴
 
 1. 若要将 Azure 订阅转移给新合作伙伴，则必须由客户发起该过程，然后以书面形式与当前记录的合作伙伴进行联系。
 
@@ -84,20 +84,27 @@ ms.locfileid: "86237967"
    - 在帐户上添加新的合作伙伴作为经销商：
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     若要查找 customerDomainName：在 "合作伙伴中心" 菜单中，选择 "**客户**"。 从客户列表中选择客户。 在 customer 菜单中，选择 "**帐户**"，并使用**域名**。
+     >[!NOTE]
+     > 客户的**租户 id**显示在合作伙伴中心中作为客户的**Microsoft id**。 若要查找特定客户的 Microsoft ID （租户 ID），请登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。 然后从菜单中选择 "**客户**"。 找到列表上的客户。 选择向下箭头以展开客户的列表。 你将看到有关客户*域名*和客户的**Microsoft ID**的信息。 在 PowerShell commandlet 中使用16位**MICROSOFT ID** 。
 
    - 查看帐户上的角色，包括以前的云解决方案提供商合作伙伴：
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. 删除已过期的访问权限
 
    - 在 "合作伙伴中心" 菜单中，选择 "**客户**"。
-   - 展开客户的列表，然后选择 "**查看订阅**"。
-   - 在 customer 菜单中，选择 "**服务管理**"。
+   - 找到列表上的客户。 选择（双击）其公司名称。 这将打开 "客户**订阅**" 页。
+   - 在 "客户详细信息" 菜单中，选择 "**服务管理**"。
    - 在 " **Microsoft Azure**" 下，单击链接以中转到**Microsoft Azure 管理门户**。
+
+## <a name="next-steps"></a>后续步骤
+
+- 下载[“CSP 订阅转让”表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
+- 了解[多合作伙伴支持](multipartner.md)。
+- 了解[多通道支持](multichannel.md)。
