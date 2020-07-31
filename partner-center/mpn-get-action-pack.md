@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何购买 Microsoft Action Pack 订阅并开始使用 Action Pack 权益。 另请了解如何续订、取消、查看账单，等等。
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436796"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114690"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>购买或续订 Microsoft Action Pack 订阅或白银和黄金资格
 
@@ -32,7 +32,7 @@ ms.locfileid: "86436796"
 - 管理员代理
 - 销售代理
 
-现在，Microsoft 合作伙伴网络 (MPN) 的成员可以从合作伙伴中心[仪表板](https://docs.microsoft.com/partner-center/)中购买或续订权益产品/服务。 此类产品/服务包括 Microsoft Action Pack 订阅和白银与黄金资格。
+现在，Microsoft 合作伙伴网络 (MPN.md) 的成员可以从合作伙伴中心[面板]()中购买或续订权益产品/服务。 此类产品/服务包括 Microsoft Action Pack 订阅和白银与黄金资格。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次购买 Microsoft Action Pack
 

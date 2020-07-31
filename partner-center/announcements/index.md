@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949853"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330114"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,7 +22,9 @@ ms.locfileid: "86949853"
 
 | **类别** | **2020 年 7 月公告** | **已公布** |
 |---------|:---------|:---------|
-|功能|[针对 2021 财年加强对符合条件的 Microsoft 商业市场产品/服务的云解决方案提供商 (CSP) 激励](2020-July.md#7)|7 月 22 日|
+|功能|[即将对合作伙伴中心 API 的更改](2020-july.md#9)|7 月 28 日|
+|功能|[.NET Standard 上的 SDK 版本 v1.16.1-preview](2020-july.md#8)|7 月 21 日|
+|功能|[针对 2021 财年加强对符合条件的 Microsoft 商业市场产品/服务的云解决方案提供商 (CSP) 激励](2020-july.md#7)|7 月 22 日|
 |功能|[合作伙伴中心中添加了针对 Insights 报告的新功能](2020-july.md#6)|7 月 16 日|
 |产品/市场|[云解决方案提供商计划中的永久软件](2020-july.md#5)|7 月 15 日|
 | 产品/市场 | [适用于 Teams 的新的 Microsoft 365 企业语音 SKU](2020-july.md#4) | 7 月 3 日 |

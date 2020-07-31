@@ -15,6 +15,7 @@
 ### [将多个公司迁移到合作伙伴中心的指南](move-multiple-companies.md)
 ### [整合公司](consolidate-accounts.md)
 
+
 ## 会员优惠
 ### [Action Pack](mpn-get-action-pack.md)
 ### [续订你的产品/服务](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [验证域所有权](become-global-admin.md)
 ## [验证帐户信息](verification-responses.md)
 ## [将你的合作伙伴帐户与其他合作伙伴帐户合并](merge-accounts.md)
+## [将其他 Azure AD 租户与你的合作伙伴中心帐户关联](multi-tenant-account.md)
 ## [更新你的合作伙伴个人资料](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [注册为控制面板供应商](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### 即刻体验奖励
 #### [确定你的程序资格](incentives-determined-your-program-eligibility.md)
 #### [在合作伙伴中心创建和管理付款资料和税务资料](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [关于奖励付款和税务资料的常见问题解答](incentives-payout-tax-profile-faqs.md)
 #### [确认你的收益资格](incentives-confirm-your-earnings-eligibility.md)
 #### [查看奖励付款和计划](understand-incentive-payouts.md)
 #### [访问奖励付款页](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [计费发票 - 阅读计费和一次性费用字段](invoice-file.md)
 ### [基于许可证的计费](license-based-billing.md)
 ### [基于许可证的 SaaS 订阅的方案](common-billing-scenarios-saas.md)
+
+## [查看数字签名 - 合作伙伴中心（印度）](digital-signature.md)
+
 ## [税务和免税](tax-and-tax-exemptions.md)
 ### [公司增值税信息](organization-tax-info.md)
 ### [确保为预缴税金进行贷记](withholding-tax-credit-form.md)

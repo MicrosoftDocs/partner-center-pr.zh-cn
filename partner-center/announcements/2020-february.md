@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749133"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944434"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -70,7 +70,7 @@ _________________
 
 合作伙伴现在可以邀请新客户和现有客户在经过身份验证的 Microsoft 门户（Microsoft 365 管理中心）中直接查看并接受 Microsoft 客户协议。
 
-这意味着[合作伙伴现在可采用两种选项](https://docs.microsoft.com/partner-center/confirm-customer-agreement)来向他们的客户展示 Microsoft 客户协议：
+这意味着[合作伙伴现在可采用两种选项](../confirm-customer-agreement.md)来向他们的客户展示 Microsoft 客户协议：
 
 - **选项 1：** 合作伙伴可按照与以前向客户展示 Microsoft 云协议大致相同的方式来向客户展示新的 Microsoft 客户协议。 在客户查看并接受该协议后，合作伙伴必须证明客户接受了 Microsoft 的协议。 合作伙伴中心仪表板、合作伙伴中心 API 和 .NET SDK 已得到了更新，支持合作伙伴确认客户是否按此方式接受了 Microsoft 客户协议。
 - **选项 2（新功能）：** 合作伙伴可以邀请客户在经过身份验证的 Microsoft 门户（Microsoft 365 管理中心）中查看和签署该协议。 此选项可以简化协议管理、加快实现速度并且减少合作伙伴的工作量，因为客户在 Microsoft 365 管理中心中直接接受协议后，管理中心即可确认条款的批准。
@@ -130,7 +130,7 @@ _________________
 
 产品/服务：Microsoft 365 电话系统 - 试用虚拟用户产品/服务 ID：`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-以下产品/服务可用，但不在产品/服务列表矩阵中。请参阅之前于 2020 年 1 月提供的产品/服务列表矩阵，了解产品/服务矩阵的详细信息。
+这些产品/服务可用，但未在产品/服务列表矩阵中列出。 有关产品/服务矩阵的详细信息，请参阅 2020 年 1 月以前的产品/服务列表矩阵。
 
 产品/服务：对 Dynamics 365 Unified Operations 的 Pro Direct 支持产品/服务 ID：`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,7 +175,7 @@ _________________
 
 ### <a name="key-considerations"></a>关键注意事项
 
-安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 查看[如何通过 Azure AD 为你的组织启用 MFA](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) 和以下主要注意事项：
+安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](../partner-security-requirements.md#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 查看[如何通过 Azure AD 为你的组织启用 MFA](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) 和以下主要注意事项：
 
 - 对于使用[条件访问](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作伙伴，安全默认值将不可用。
 - 安全默认值强制执行所有策略，包括管理员所需的 MFA 策略、最终用户保护策略以及服务管理所需的 MFA。
@@ -288,7 +288,7 @@ _________________
 
 - 查看[开发人员文档](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
 - 使用[新的 API](https://docs.microsoft.com/partner/develop/pricing) 实现自动化流程
-- 参阅 [Azure 计划定价文档](https://docs.microsoft.com/partner-center/azure-plan-price-list)以了解定价相关的问题。
+- 参阅 [Azure 计划定价文档](../azure-plan-price-list.md)以了解定价相关的问题。
 - [详细了解 Azure 计划以及 CSP 中全新的商业体验](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>更改日志
@@ -324,7 +324,7 @@ _________________
 
 ### <a name="additional-resources"></a>更多资源：
 
-- 请参阅[在合作伙伴中心中创建支持请求](https://docs.microsoft.com/partner-center/report-problems-with-partner-center)以了解更多信息。
+- 请参阅[在合作伙伴中心中创建支持请求](../report-problems-with-partner-center.md)以了解更多信息。
 
 ### <a name="change-log"></a>更改日志
 
@@ -357,8 +357,8 @@ _________________
 
 ### <a name="next-steps"></a>后续步骤
 
-- 使用合作伙伴中心 [Web 用户界面或 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 确认客户接受协议。
-- 如果合作伙伴使用现有 Microsoft 云协议的 API，则需要使用[更新后的 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 修订其现有实现。
+- 使用合作伙伴中心 [Web 用户界面或 API](../confirm-customer-agreement.md) 确认客户接受协议。
+- 如果合作伙伴使用现有 Microsoft 云协议的 API，则需要使用[更新后的 API](../confirm-customer-agreement.md) 修订其现有实现。
 - 为代理和经销商提供有关[新协议条款](https://www.microsoft.com/licensing/docs/customeragreement)以及向客户展示新协议并验证客户是否已接受新协议的培训。
 
 >[!NOTE] 

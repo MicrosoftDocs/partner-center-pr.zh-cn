@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434116"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943555"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -40,9 +40,9 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 
 不遵循这些安全做法的合作伙伴可能无法在 CSP 计划中进行交易，也不能使用委托管理权限来管理客户租户。
 
-### <a name="does-this-apply-to-all-geographies"></a>这是否适用于所有地区？
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>安全要求是否适用于所有地理区域？
 
-是的，这适用于所有地区。 强烈建议所有通过主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）进行事务处理的合作伙伴立即行动起来，履行这些安全要求。 但是，这些合作伙伴不是必须满足在 8 月 1 日生效的这些新安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
+是，安全要求适用于所有地理区域。 强烈建议所有通过主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）进行事务处理的合作伙伴立即行动起来，履行这些安全要求。 但是，这些合作伙伴不是必须满足在 8 月 1 日生效的这些新安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>是否可以让某个帐户例外？
 
@@ -52,12 +52,12 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 
 需完成以下步骤
 
-- 你需要满足[合作伙伴安全要求](https://docs.microsoft.com/partner-center/partner-security-requirements)中列出的所有要求
+- 你需要满足[合作伙伴安全要求](partner-security-requirements.md)中列出的所有要求
 - 需要确保合作伙伴租户中的所有用户帐户都已实施多重身份验证。
 
 为帮助确定可执行操作的关键区域，我们提供了 [安全要求状态](https://partner.microsoft.com/pcv/security/compliance)报告，你可通过合作伙伴中心获取此报告。
 
-有关状态报告的详细信息，请参阅[合作伙伴安全要求状态](https://docs.microsoft.com/partner-center/partner-security-compliance)。
+有关状态报告的详细信息，请参阅[合作伙伴安全要求状态](partner-security-compliance.md)。
 
 ## <a name="required-actions"></a>必需的措施
 
@@ -89,7 +89,7 @@ CSP 计划中的所有合作伙伴（直接计费合作伙伴、间接提供商�
 
     如果你使用的是控制面板，请与供应商协商采用安全应用程序模型框架的事宜。
 
-    控制面板供应商必须以控制面板供应商身份[加入](https://docs.microsoft.com/partner-center/enroll-as-cpv)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
+    控制面板供应商必须以控制面板供应商身份[加入](enroll-as-cpv.md)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
 
 ## <a name="multi-factor-authentication"></a>多重身份验证
 
@@ -124,9 +124,9 @@ Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免
 
 直接计费云解决方案提供商合作伙伴必须为其合作伙伴租户中的每个用户强制实施 MFA。
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>我是间接经销商，只通过分销商进行交易。 我是否仍然需要这样做？
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>我是间接经销商，只通过分销商进行交易。 我是否仍然需要启用 MFA？
 
-所有间接经销商都必须为其合作伙伴租户中的每个用户强制实施 MFA。 这是间接经销商必须执行的操作。
+所有间接经销商都必须为其合作伙伴租户中的每个用户强制实施 MFA。 间接经销商必须启用 MFA。
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>我不使用合作伙伴中心 API。 我是否仍然需要进行 MFA？
 
@@ -152,7 +152,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 否。不是必须为客户的 Azure AD 租户中的每个用户强制实施 MFA。 不过，建议你与每个客户协商确定如何才能最好地保护其用户。
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>是否有用户可以不遵守此要求？
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>是否有用户可以不遵守 MFA 要求？
 
 否。合作伙伴租户中的每个用户（包括服务帐户）都必须使用 MFA 进行身份验证。
 
@@ -162,7 +162,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>如何配置紧急访问（不受限）帐户？
 
-最佳做法是创建一两个紧急访问帐户，防止自己被意外锁定在 Azure AD 租户外。 根据合作伙伴安全要求，每个用户都必须使用 MFA 进行身份验证。 这意味着你需要修改紧急访问帐户的定义。 它可以是利用第三方解决方案进行 MFA 的帐户。
+最佳做法是创建一两个紧急访问帐户，防止自己被意外锁定在 Azure AD 租户外。 根据合作伙伴安全要求，每个用户都必须使用 MFA 进行身份验证。 此要求意味着你需要修改紧急访问帐户的定义。 它可以是利用第三方解决方案进行 MFA 的帐户。
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>如果我使用第三方解决方案，是否必须使用 Active Directory 联合身份验证服务 (ADFS)？
 
@@ -174,7 +174,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>是否可以使用条件访问来满足 MFA 要求？
 
-是的，可以使用条件访问为合作伙伴租户中的每个用户（包括服务帐户）强制实施 MFA。 但是，考虑到合作伙伴会有很高的特权，因此我们需要确保在每位用户每次进行身份验证时都对其进行 MFA 质询。 这意味着，你将无法使用条件访问的那些规避 MFA 要求的功能。
+是的，可以使用条件访问为合作伙伴租户中的每个用户（包括服务帐户）强制实施 MFA。 但是，考虑到合作伙伴会有很高的特权，因此我们需要确保在每位用户每次进行身份验证时都对其进行 MFA 质询。 这意味着，如果条件访问的某些功能需要规避 MFA 要求，你就无法使用它们。
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Azure AD Connect 使用的服务帐户是否会受合作伙伴安全要求的影响？
 
@@ -203,11 +203,11 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 如果你使用的是控制面板，则需与供应商协商采用安全应用程序模型框架的事宜。
 
-控制面板供应商必须以控制面板供应商身份[加入](https://docs.microsoft.com/partner-center/enroll-as-cpv)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
+控制面板供应商必须以控制面板供应商身份[加入](enroll-as-cpv.md)合作伙伴中心并立即开始实施此要求。 请参阅[合作伙伴中心：安全应用程序模型框架](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制面板供应商必须接受并管理云解决方案提供商合作伙伴的许可而非凭据，并清除所有现有的云解决方案提供商合作伙伴的凭据。
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>是否只需为合作伙伴中心 API/SDK 实现安全应用程序模型？
 
-对所有用户帐户强制实施多重身份验证会影响任何旨在以非交互方式运行的自动化或集成。 虽然根据合作伙伴安全要求，必须为合作伙伴中心 API 启用安全应用程序模型，但可以利用它来解决对自动化和集成进行双重身份验证的需求。 
+对所有用户帐户强制实施多重身份验证会影响任何旨在以非交互方式运行的自动化或集成。 虽然根据合作伙伴安全要求，必须为合作伙伴中心 API 启用安全应用程序模型，但可以利用它来解决对自动化和集成进行双重身份验证的需求。
 
 >[!Note] 
 >被访问的资源需要支持基于访问令牌的身份验证。
@@ -221,7 +221,7 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>执行许可过程时，应用程序管理员应该提供哪些用户凭据？
 
-建议使用一个所分配的特权最少的服务帐户。 就合作伙伴中心 API 来说，这意味着你应该使用一个被分配为“销售代理”或“管理员代理”角色的帐户。
+建议使用一个所分配的特权最少的服务帐户。 就合作伙伴中心 API 来说，你应该使用分配有“销售代理”或“管理员代理”角色的帐户。
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>为何应用程序管理员在执行许可过程时不应该提供全局管理员用户凭据？
 
@@ -237,17 +237,20 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>我是 CPV。 如何注册？
 
-若要注册为控制面板供应商 (CPV)，请按[此处](https://docs.microsoft.com/partner-center/enroll-as-cpv)提供的指南操作。
+若要注册为控制面板供应商 (CPV)，请按[此处](enroll-as-cpv.md)提供的指南操作。
 
 CPV 必须与 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) 联系才能收到注册链接，并需要提供一位与 CPV 有业务关系或了解其业务的 Microsoft 员工发起人。 例如，合作伙伴开发经理 (PDM)。
 
 加入合作伙伴中心并注册应用程序以后即可访问合作伙伴中心 API。 如果你是新的 CPV，则将通过合作伙伴中心通知接收沙盒信息。 注册为 Microsoft CPV 并接受 CPV 协议以后，即可执行以下操作：
 
-1. 管理多租户应用程序（向 Azure 门户添加应用程序、在合作伙伴中心注册和取消注册应用程序）。 
-     >[!Note] 
-     >CPV 必须在合作伙伴中心注册其应用程序，然后才会获得使用合作伙伴中心 API 的授权。 只是将应用程序添加到 Azure 门户并不会为 CPV 应用程序授予使用合作伙伴中心 API 的权限。
-2. 查看和管理 CPV 配置文件。
-3. 查看和管理需访问 CPV 功能的用户。 CPV 可以拥有的唯一角色是全局管理员。
+1. 管理多租户应用程序（向 Azure 门户添加应用程序、在合作伙伴中心注册和取消注册应用程序）。
+
+   >[!Note]
+   >CPV 必须在合作伙伴中心注册其应用程序，然后才会获得使用合作伙伴中心 API 的授权。 只是将应用程序添加到 Azure 门户并不会为 CPV 应用程序授予使用合作伙伴中心 API 的权限。
+
+1. 查看和管理 CPV 配置文件。
+
+1. 查看和管理需访问 CPV 功能的用户。 CPV 只能具有“全局管理员”角色。
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>我使用合作伙伴中心 SDK。 SDK 是否会自动采用安全应用程序模型？
 
@@ -255,7 +258,7 @@ CPV 必须与 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) 联系才能
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>对于有未启用 MFA 的帐户的安全应用程序模型，我是否可以生成一个刷新令牌？
 
-是的，可以使用未强制实施 MFA 的帐户来生成刷新令牌。 但是，你不应该这样做，因为使用未启用 MFA 的帐户生成的任何令牌都无法访问资源，这是 MFA 的要求。
+是的，可以使用未强制实施 MFA 的帐户来生成刷新令牌。 但是，你不应该这样做， 因为使用未启用 MFA 的帐户生成的任何令牌都无法访问资源，这是 MFA 的要求。
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>如果我们启用 MFA，我的应用程序应该如何获取访问令牌？
 
@@ -315,7 +318,7 @@ Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](ht
 
 ### <a name="how-to-get-started"></a>如何开始使用
 
-- [合作伙伴安全要求：分步指南](https://docs.microsoft.com/partner-center/partner-security-requirements)。
+- [合作伙伴安全要求：分步指南](partner-security-requirements.md)。
 - 请将你的问题和反馈发布到此[合作伙伴中心安全指南组](https://aka.ms/MPCSecurityGuidance)。
 - 参加即将召开的 Partner Office Hours 和网络研讨会。 请[在此处查看详细的计划和资源](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)。
 
@@ -340,9 +343,8 @@ Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](ht
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>当我无法访问合作伙伴中心时，如何与支持部门取得联系？
 
-转到 [Microsoft 合作伙伴支持](https://partner.microsoft.com/support)，然后选择“显示所有支持选项”。 你随即将看到用于联系 Microsoft 合作伙伴支持的可用选项。 这些选项包括用于呼叫支持人员的电话号码，以及用于与支持人员聊天的选项。 
+转到 [Microsoft 合作伙伴支持](https://partner.microsoft.com/support)，然后选择“显示所有支持选项”。 随即将显示用于联系 Microsoft 合作伙伴支持人员的可用选项，包括用于呼叫支持人员的电话号码以及与支持人员聊天的选项。
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>在哪里可以找到常见技术问题的详细信息？
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>在哪里可以找到常见技术问题的详细信息？
 
-可以在[此处](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)找到常见技术问题的信息。
-
+有关常见技术问题的信息，请参阅[针对使用合作伙伴中心或合作伙伴中心 API 的合作伙伴安全要求](partner-security-requirements.md)

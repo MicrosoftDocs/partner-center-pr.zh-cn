@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265235"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365773"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
 **适用于**
 
 - 合作伙伴中心
+ 
+**相应的角色**
+
+- 全局管理员
+- MPN 帐户管理员
 
 在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 在合作伙伴中心创建帐户后，你需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 对于任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员，你公司的帐户还将包括其用户帐户。
 
@@ -94,7 +99,7 @@ ms.locfileid: "86265235"
 
 - [商业市场计划](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [MPN 计划](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [云解决方案提供商计划](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [云解决方案提供商计划](enrolling-in-the-csp-program.md)
 - [Office 应用商店](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 若要了解有关如何在合作伙伴中心计划中注册的详细信息，请参阅[合作伙伴网络资源](https://partner.microsoft.com/)。

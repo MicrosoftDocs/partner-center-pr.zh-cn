@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286605"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944004"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -53,11 +53,11 @@ _________________
 ### <a name="additional-resources"></a>其他资源
 
 - 合作伙伴库页面上的 CSP 计划资源：[面向俄罗斯的 CSP 合作伙伴推出 Windows Server 和 SQL Server 订阅](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [详细了解合作伙伴中心](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [详细了解合作伙伴中心](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>后续步骤
 
-- 请与贵组织以及客户共享这些信息。
+- 与贵组织以及客户共享这些信息。
 
 ### <a name="questions"></a>有疑问？
 
@@ -76,7 +76,7 @@ _________________
 
 ### <a name="summary"></a>摘要
 
-从 2020 年 1 月 7 日起，Microsoft 在 GCC 中引入了适用于 Microsoft 365 F1 的会议室和会议附加设备。 请查看价目表以了解详细信息。
+从 2020 年 1 月 7 日起，Microsoft 在 GCC 中引入了适用于 Microsoft 365 F1 的会议室和会议附加设备。 查看价目表以了解详细信息。
 
 ### <a name="impacted-audience"></a>影响受众
 
@@ -102,7 +102,7 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 
 ### <a name="next-steps"></a>后续步骤
 
-请熟悉价目表的内容，并与你组织中所有合适的联系人（尤其是销售团队）共享此信息。
+熟悉价目表的内容，并与你组织中所有合适的联系人（尤其是销售团队）共享此信息。
 
 ### <a name="questions"></a>有疑问？
 
@@ -125,29 +125,29 @@ _________________
 
 ### <a name="summary"></a>摘要
 
-2020 年 1 月 14 日，Microsoft 向美国的商业云客户推出了 Power BI 的自助式购买、订阅和许可证管理功能。   2020 年 1 月 28 日，这些功能便可用于美国区域的 Power Apps 和 Power Automate。
+2020 年 1 月 14 日，Microsoft 向美国的商业云客户推出了 Power BI 的自助式购买、订阅和许可证管理功能。 2020 年 1 月 28 日，这些功能便可用于美国区域的 Power Apps 和 Power Automate。
 
 随后在 2020 财年第 3 季度中，我们将向其他若干国家/地区的商业客户推出适用于 Power Platform 的自助式购买。 在我们发布到这些国家/地区后，我们将更新客户常见问题解答文档来反映其可用性。 客户常见问题解答包括下面所述的就绪情况资源。 请在接下来的几个月中经常查看此信息。
 
 查看资源库中的所有资源（请参阅下面的“其他资源”），进一步了解有关自助式购买的详细信息，包括实现 PowerShell 的说明（如果客户想选择退出自助式购买）。
 
- 现推出 PowerShell 脚本，IT 管理员可根据不同的产品使用该脚本来控制（打开或关闭）自助购买功能。 有关技术文档，请参阅下面的“其他资源”部分。
+现推出 PowerShell 脚本，IT 管理员可根据不同的产品使用该脚本来控制（打开或关闭）自助购买功能。 有关技术文档，请参阅下面的“其他资源”部分。
 
 更新：过去一周，我们一直在留意你对于我们在 Power Platform 产品中推出自助购买功能的反馈。 非常感谢你提供宝贵意见！ 根据反馈，我们调整了方法，以便更好地满足组织内部 IT 管理员和最终用户的需求。 我们对套餐进行了以下更改：
 
 - 自 11 月 19 日起，我们将为 IT 管理员提供一种方法，让他们可根据不同的产品通过 PowerShell 来关闭自助购买功能。 有关更多详细信息，敬请期待！
-- 为留出更多时间来对这一更改做好准备，我们更新了 Power Platform 产品自助购买功能的发布日期，定于 1 月 14 日率先在 Power BI 中面向所有商业云客户推出该项功能。 有关 PowerApps 和 Power Automate 的更多详细信息，敬请期待！
+- 为留出更多时间来对这一更改做好准备，我们更新了 Power Platform 产品自助购买功能的发布日期，定于 1 月 14 日率先在 Power BI 中面向所有商业云客户推出该项功能。 有关 Power Apps 和 Power Automate 的更多详细信息，敬请期待！
 
 再次感谢你花时间提供反馈。 我们期待继续合作，从而帮助你的组织实现更多目标。
 
 随着全球开始数字转型，最终用户和业务单位会越来越多地自主采用并购买按需式软件即服务解决方案。 我们正在推出自助购买功能，以确保用户能够购买一对多许可证，从而在创建自己的解决方案方面为部门、团队或整个企业提供更大的灵活性和自由度。
 
-我们将分阶段在 Microsoft Power Platform 产品（Power BI、PowerApps、Power Automate）中推出此项功能：
+我们将分阶段在 Microsoft Power Platform 产品（Power BI、Power Apps、Power Automate）中推出此项功能：
 
 - 我们将于 1 月 14 率先在 Power BI 中推出自助购买功能。
 - 首先面向美国客户推出，然后扩展到其他地理区域。
 - 目前，政府、非营利组织或教育客户无法使用此功能。
-- 有关 PowerApps 和 Power Automate 的详细信息，敬请期待！
+- 有关 Power Apps 和 Power Automate 的详细信息，敬请期待！
 
 合作伙伴可通过构建跨 Azure 和 Power Platform 的解决方案，从自助购买功能中获益。 具有管理访问权限的合作伙伴将在 Microsoft 365 管理中心内看到个人的 Power Platform 购买，并可将其视为云解决方案的销售线索。 例如，注意到工作组采用 Power BI 的合作伙伴将有机会构建并销售从 Azure SQL 数据库或其他业务应用程序中提取数据的高级 Power BI 仪表板。 随着自助购买方式在组织内迅速传播，合作伙伴还可将 Power Platform 销售范围扩展到核心 IT。
 
@@ -229,7 +229,7 @@ Microsoft 客户协议是一个简化的购买协议，为客户提供一致的�
 
 - 在 2020 年 1 月 31 日之前确认新 Microsoft 客户协议的接受情况。
 - 为代理和经销商提供有关新协议条款以及向客户展示新协议并验证客户是否已接受新协议的培训。 间接提供商需要与间接经销商进行合作来验证客户的接受情况。
-- 使用 API 的直接计费和间接提供商需要使用[更新的 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 更新现有实现以适应新的 Microsoft 客户协议。
+- 使用 API 的直接计费和间接提供商需要使用[更新的 API](../confirm-customer-agreement.md) 更新现有实现以适应新的 Microsoft 客户协议。
 - 直接计费和间接提供商还可以使用合作中心 Web UI 来确认客户的接受情况。
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>合作伙伴可以在 [CSP 库页面](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)上查看可用内容，一些其他资源包括：
@@ -288,7 +288,7 @@ _________________
 
 - 产品/服务：每个应用计划的 PowerApps（学生）产品/服务 ID：e1f379e8-cf22-4a7d-97fd-dcf9d62fc132
 
-以下产品/服务已错误地从 1 月的价目表中删除，但仍然可用；请查阅 12 月的价目表，了解其定价。 计划将以下产品/服务添加到下个月的价目表中：
+以下产品/服务已错误地从 1 月的价目表中删除，但仍然可用；查阅 12 月的价目表，了解其定价。 计划将以下产品/服务添加到下个月的价目表中：
 
 - Office 365 A1 教职员版（适用于设备）产品/服务 ID：`0757d14e-7c57-456f-8dab-47d164f2ff1f`
 - Office 365 A1 学生版（适用于设备）产品/服务 ID：`bae285a9-d56b-4384-b02f-38adc61a6f12`
@@ -329,7 +329,7 @@ Microsoft 于今日（2020 年 1 月 2 日）发布了 Dynamics 365 Power Virtua
 
 - 面向客户服务的 Dynamics 365 Virtual Agent
 
-请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务 20-1-1”中查看详细的 SKU 信息。
+请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics CSP 产品/服务 20-1-1”中查看详细的 SKU 信息。
 
 Biz 应用和 Power Platform
 
@@ -337,7 +337,7 @@ Biz 应用和 Power Platform
 
 - 针对现有 PowerApps 每应用套餐推出学生产品/服务
 
-请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务 20-1-1”中查看详细的 SKU 信息。
+请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics CSP 产品/服务 20-1-1”中查看详细的 SKU 信息。
 
 2020 年 2 月 1 日，将为 Biz 应用和 Power Platform 发布以下新产品/服务和更新产品/服务：
 
@@ -369,9 +369,9 @@ Customer Insights 许可证更新
 
 待定的 SKU 信息
 
-2020 年 2 月 1 日，Microsoft 将更改某些产品系列及产品/服务的名称，以使现有 Dynamics 365 和 Power Platform 产品/服务的命名与其他渠道和区域中使用的名称保持一致。
+2020 年 2 月 1 日，Microsoft 将更改某些产品系列及产品/服务的名称，使现有 Dynamics 365 和 Power Platform 产品/服务的命名与其他渠道和区域中使用的名称保持一致。
 
-请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics 云解决方案提供商产品/服务名称更改 - 2020 年 2 月”中查看具体更改信息。
+请在[此处](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的文件“Dynamics CSP 产品/服务名称更改 - 2020 年 2 月”中查看具体更改信息。
 
 ### <a name="additional-resources"></a>其他资源
 
@@ -379,12 +379,12 @@ Customer Insights 许可证更新
 - [混合现实应用指南主页](https://dynamics.microsoft.com/mixed-reality/guides/)
 - [Biz 应用欺诈主页](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
 - [Power Platform 产品主页](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [2020 财年 PowerApps 和 Flow 许可更新](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [2020 财年 Power Apps 和 Flow 许可更新](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 许可](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>后续步骤
 
-- 请与贵组织中的相应联系人共享这些信息。
+- 请与贵组织中的相应联系人共享此信息。
 - 如果想更深入地探究许可更新和价值主张，请熟悉“附加资源”部分和 PartnerSource 上的准备内容。
 
 ### <a name="questions"></a>有疑问？
