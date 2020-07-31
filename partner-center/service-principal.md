@@ -9,32 +9,44 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7d75c5c7311feaa3ca53139f2abf2702035b1069
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436426"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365753"
 ---
-# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a><span data-ttu-id="a8577-104">在合作伙伴中心添加 Azure AD 应用程序（服务主体）</span><span class="sxs-lookup"><span data-stu-id="a8577-104">Add an Azure AD application (service principal) in Partner Center</span></span>
+# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a><span data-ttu-id="976d2-104">在合作伙伴中心添加 Azure AD 应用程序（服务主体）</span><span class="sxs-lookup"><span data-stu-id="976d2-104">Add an Azure AD application (service principal) in Partner Center</span></span>
 
-<span data-ttu-id="a8577-105">在合作伙伴中心的“商业市场”计划中，现在可以将 Azure AD 应用程序（服务主体）添加为合作伙伴中心帐户中的用户。</span><span class="sxs-lookup"><span data-stu-id="a8577-105">In the Commercial Marketplace program in Partner Center, you are now able to add an Azure AD application (service principal) as a user in your Partner Center account.</span></span> <span data-ttu-id="a8577-106">（你之前可以在云合作伙伴门户或 CPP 帐户中执行此操作。</span><span class="sxs-lookup"><span data-stu-id="a8577-106">(You were able to do so previously in your Cloud Partner Portal, or CPP, account.</span></span> <span data-ttu-id="a8577-107">在你已迁移到合作伙伴中心后，CPP 帐户会是只读帐户。）</span><span class="sxs-lookup"><span data-stu-id="a8577-107">Now that you have migrated to Partner Center, the CPP account is read-only.)</span></span>
+<span data-ttu-id="976d2-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="976d2-105">**Applies to**</span></span>
+
+- <span data-ttu-id="976d2-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="976d2-106">Partner Center</span></span>
+
+<span data-ttu-id="976d2-107">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="976d2-107">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="976d2-108">全局管理员</span><span class="sxs-lookup"><span data-stu-id="976d2-108">Global admin</span></span>
+
+<span data-ttu-id="976d2-109">在合作伙伴中心的“商业市场”计划中，现在可以将 Azure AD 应用程序（服务主体）添加为合作伙伴中心帐户中的用户。</span><span class="sxs-lookup"><span data-stu-id="976d2-109">In the Commercial Marketplace program in Partner Center, you are now able to add an Azure AD application (service principal) as a user in your Partner Center account.</span></span> <span data-ttu-id="976d2-110">（你之前可以在云合作伙伴门户或 CPP 帐户中执行此操作。</span><span class="sxs-lookup"><span data-stu-id="976d2-110">(You were able to do so previously in your Cloud Partner Portal, or CPP, account.</span></span> <span data-ttu-id="976d2-111">在你已迁移到合作伙伴中心后，CPP 帐户会是只读帐户。）</span><span class="sxs-lookup"><span data-stu-id="976d2-111">Now that you have migrated to Partner Center, the CPP account is read-only.)</span></span>
  
 >[!Note] 
-><span data-ttu-id="a8577-108">服务主体与 Azure AD 应用程序同义。</span><span class="sxs-lookup"><span data-stu-id="a8577-108">Service principal is synonymous with Azure AD application.</span></span>
+><span data-ttu-id="976d2-112">服务主体与 Azure AD 应用程序同义。</span><span class="sxs-lookup"><span data-stu-id="976d2-112">Service principal is synonymous with Azure AD application.</span></span>
 
-## <a name="add-an-azure-ad-application-service-principal"></a><span data-ttu-id="a8577-109">添加 Azure AD 应用程序（服务主体）</span><span class="sxs-lookup"><span data-stu-id="a8577-109">Add an Azure AD application (service principal)</span></span>
+## <a name="add-an-azure-ad-application-service-principal"></a><span data-ttu-id="976d2-113">添加 Azure AD 应用程序（服务主体）</span><span class="sxs-lookup"><span data-stu-id="976d2-113">Add an Azure AD application (service principal)</span></span>
 
-1. <span data-ttu-id="a8577-110">从合作伙伴中心面板中，选择“设置”，然后选择“开发人员设置”。</span><span class="sxs-lookup"><span data-stu-id="a8577-110">From the Partner Center dashboard, select **Settings** and then select **Developer settings**.</span></span>
+1. <span data-ttu-id="976d2-114">从合作伙伴中心面板中，选择“设置”，然后选择“开发人员设置”。</span><span class="sxs-lookup"><span data-stu-id="976d2-114">From the Partner Center dashboard, select **Settings** and then select **Developer settings**.</span></span>
 
-2. <span data-ttu-id="a8577-111">选择“用户”，然后选择“添加 Azure AD 应用程序”。</span><span class="sxs-lookup"><span data-stu-id="a8577-111">Select **Users** and then select **Add Azure AD Applications**.</span></span>
+2. <span data-ttu-id="976d2-115">选择“用户”，然后选择“添加 Azure AD 应用程序”。</span><span class="sxs-lookup"><span data-stu-id="976d2-115">Select **Users** and then select **Add Azure AD Applications**.</span></span>
 
-3. <span data-ttu-id="a8577-112">选择现有的 Azure AD 应用程序，或者新建一个。</span><span class="sxs-lookup"><span data-stu-id="a8577-112">Select an existing Azure AD application or create a new one.</span></span>
+3. <span data-ttu-id="976d2-116">选择现有的 Azure AD 应用程序，或者新建一个。</span><span class="sxs-lookup"><span data-stu-id="976d2-116">Select an existing Azure AD application or create a new one.</span></span>
 
-4. <span data-ttu-id="a8577-113">如果要新建 Azure AD 应用程序，请提供以下信息：</span><span class="sxs-lookup"><span data-stu-id="a8577-113">If you create a new Azure AD Application, include the following information:</span></span>  
+4. <span data-ttu-id="976d2-117">如果要新建 Azure AD 应用程序，请提供以下信息：</span><span class="sxs-lookup"><span data-stu-id="976d2-117">If you create a new Azure AD Application, include the following information:</span></span>  
 
-   - <span data-ttu-id="a8577-114">**回复 URL**：用户为了使用 Azure AD 应用程序而可登录的 URL。</span><span class="sxs-lookup"><span data-stu-id="a8577-114">**Reply URL**: The URL where users can sign in to use your Azure AD application.</span></span>
+   - <span data-ttu-id="976d2-118">**回复 URL**：用户为了使用 Azure AD 应用程序而可登录的 URL。</span><span class="sxs-lookup"><span data-stu-id="976d2-118">**Reply URL**: The URL where users can sign in to use your Azure AD application.</span></span>
 
-   - <span data-ttu-id="a8577-115">**应用 ID URI**：Azure AD 应用程序在向 Azure AD 发送单一登录请求时显示的该应用程序的逻辑标识符。</span><span class="sxs-lookup"><span data-stu-id="a8577-115">**App ID URI**: A logical identifier for the Azure AD application that is presented when it sends a single sign-on request to Azure AD.</span></span>
+   - <span data-ttu-id="976d2-119">**应用 ID URI**：Azure AD 应用程序在向 Azure AD 发送单一登录请求时显示的该应用程序的逻辑标识符。</span><span class="sxs-lookup"><span data-stu-id="976d2-119">**App ID URI**: A logical identifier for the Azure AD application that is presented when it sends a single sign-on request to Azure AD.</span></span>
 
-   - <span data-ttu-id="a8577-116">**安全角色**：角色“管理者”（与 CPP 中的“所有者”角色相同）和“开发人员”（与 CPP 中的“参与者”角色相同）适用于合作伙伴中心的“商业市场”计划，并且可与此 Azure AD 应用程序相关联。</span><span class="sxs-lookup"><span data-stu-id="a8577-116">**Security roles**: The roles **Manager** (the same as  ‘Owner’ role in CPP) and **Developer** (the same as ‘Contributor’ role in CPP) apply to the Commercial Marketplace program in Partner Center, and they can be associated with this Azure AD Application.</span></span>  
+   - <span data-ttu-id="976d2-120">**安全角色**：角色“管理者”（与 CPP 中的“所有者”角色相同）和“开发人员”（与 CPP 中的“参与者”角色相同）适用于合作伙伴中心的“商业市场”计划，并且可与此 Azure AD 应用程序相关联。</span><span class="sxs-lookup"><span data-stu-id="976d2-120">**Security roles**: The roles **Manager** (the same as  ‘Owner’ role in CPP) and **Developer** (the same as ‘Contributor’ role in CPP) apply to the Commercial Marketplace program in Partner Center, and they can be associated with this Azure AD Application.</span></span>  
+
+## <a name="next-steps"></a><span data-ttu-id="976d2-121">后续步骤</span><span class="sxs-lookup"><span data-stu-id="976d2-121">Next steps</span></span>
+
+- [<span data-ttu-id="976d2-122">合作伙伴中心内的商业市场概述</span><span class="sxs-lookup"><span data-stu-id="976d2-122">Overview of the commercial marketplace in Partner Center</span></span>](csp-commercial-marketplace-overview.md)
