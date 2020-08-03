@@ -149,7 +149,6 @@
 
 # [与客户联系](customer-accounts.md)
 ## [添加新客户](add-a-new-customer.md)
-## [查找客户域名和目录 ID](find-customer-domain-name.md)
 ## [要求与客户建立经销商关系](request-a-relationship-with-a-customer.md)
 ## [删除与客户的经销商关系](remove-a-relationship.md)
 ## [客户向合作伙伴委托或撤消管理权限](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [通过 Office 365 试用提议增添客户](advisors-build-your-business.md)
 ### [创建 Office 365 购买提议](advisor-create-a-purchase-offer.md)
 # 合作伙伴中心数据和分析
+
 ## [获取用户数据和分析功能](data-analysis-lp.md)
-## [使用合作伙伴中心内面向 Microsoft Power BI 的分析应用](power-bi-app-for-direct-partners.md)
-## [使用合作伙伴中心内面向 Microsoft Power BI 的分析应用](power-bi-app-for-direct-partners.md)
+## 适用于 Power BI 的合作伙伴中心分析应用
+### [适用于 Power BI 的合作伙伴中心分析应用简介](power-bi-app-for-direct-partners.md)
+### [安装适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners-install.md)
+### [使用适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners-use.md)
 ## [合作伙伴中心见解](partner-center-insights.md)
 ### [见解 - 概览仪表板](pci-overview-report.md)
 ### [见解 - 对见解仪表板的基于角色的访问控制](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [分析间接经销商业绩](analyze-indirect-resellers.md)
 ## [分析订阅和许可证](analyze-subscriptions-licenses.md)
 ## [Microsoft Learn 分析](ms-learn-analytics.md)
-## [适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners-use.md)
-## [安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners-install.md)
 
 # [与其他合作伙伴合作](work-with-other-partners.md)
 ## [合作伙伴中心中的间接提供商任务](indirect-provider-tasks-in-partner-center.md)
