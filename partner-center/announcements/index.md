@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330114"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479080"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "87330114"
 
 | **类别** | **2020 年 7 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[对企业语音和音频会议扩展拨号发布事项的更改](2020-july.md#10)|7 月 31 日|
 |功能|[即将对合作伙伴中心 API 的更改](2020-july.md#9)|7 月 28 日|
 |功能|[.NET Standard 上的 SDK 版本 v1.16.1-preview](2020-july.md#8)|7 月 21 日|
 |功能|[针对 2021 财年加强对符合条件的 Microsoft 商业市场产品/服务的云解决方案提供商 (CSP) 激励](2020-july.md#7)|7 月 22 日|
