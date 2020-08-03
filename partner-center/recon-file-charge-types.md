@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444781"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479110"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>了解合作伙伴中心对帐文件中的不同费用类型
 
@@ -52,8 +52,7 @@ ms.locfileid: "87444781"
 | 按比例计算取消时的费用 | 取消时，未使用的服务部分按比例退款。 |
 | 转换远离当前产品/服务的按比例计算费用 | 从当前月度订阅转换为年度订阅后按比例计费。 |
 | 转换为新产品/服务时的按比例计算费用 | 将月度订阅转换为新年度订阅后按比例计费。 |
-| 按比例计算购买时的费用 | 使用年度计费时的订阅费用类型。 |
-| 购买费用 | 使用月度帐单时的订阅费用类型。 |
+| 按比例计算购买时的费用 | 使用月度或年度计费时的订阅费用类型。 |
 | 按比例计算续订时的费用 | 订阅续订时按比例计费。 |
 | 续订费用 | 续订订阅费用 |
 | 按比例计算激活时的费用 | 从激活中按比例计费，直到计费周期结束。 |
@@ -79,7 +78,7 @@ ms.locfileid: "87444781"
 | 评估取消时的使用费用 | 在已取消的情况下的访问使用费，针对当前计费周期的未付款使用量。 |
 | 评估当前周期的使用费用 | 当前计费周期的访问使用费。 |
 
-### <a name="credits"></a>信用
+### <a name="credits"></a>致谢
 
 若要将这些信用额度映射到发票：
 
