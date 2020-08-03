@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434526"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444950"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作伙伴中心帐单发票-了解如何读取计费和一次性费用字段
 
@@ -37,7 +37,7 @@ ms.locfileid: "86434526"
 | 基于许可证的费用 | 已购买的基于使用情况的许可证的按月或每年收费，服务提前向你收费。 此数字是基于许可证的对帐文件中的**小计**列（列**T**）中所有费用的总和。 |
 | 基于使用情况的费用 | 你的 Azure 使用情况。 这包括在计费期间启用并使用的新服务或应用程序。 此数字是基于使用情况的对帐文件中**PretaxCharges**列（列**Z**）的所有费用的总和。 |
 | 折扣 | 客户从订阅的标准价格接收的折扣。 此数量显示为*固定数量*，而不是按单位或许可证的价格显示。 |
-| 信用 | 对订阅所做更改的信用额度或调整（例如，座位增加或减少）。 |
+| 信用 | 对订阅所做更改的信用额度或调整（例如，许可证增加或减少）。 |
 | 小计 | 税前总额以及不含税的费用和退款。 |
 | 税款 | 当前费用的总税款，从发票第2页开始的**详细信息**部分中汇总。 此数字是基于使用情况的对帐文件中**TaxAmount**列（列**AA**）的所有费用的总和，以及基于许可证的对帐文件中的**税款**列（列**U**）。 |
 | 其他退款 | 不含税的退款。 |
@@ -59,7 +59,7 @@ ms.locfileid: "86434526"
 | 字段 | 定义 |
 | ----- | ---------- |
 | Date | 购买的日期。 |
-| 说明 | 产品名称。 |
+| 描述 | 产品名称。 |
 | 数量 | 购买的产品数量（如预留）。 |
 | 单价 | 每个产品的价格（如预留）。 |
 | 折扣 | 任何适用的折扣。 |

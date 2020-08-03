@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c6985b475a2aa2c6083d447a8d219c8640d58fcc
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435086"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444607"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>为客户管理商业 marketplace 产品和产品/服务
 
@@ -44,7 +44,7 @@ ms.locfileid: "86435086"
 
     - 更改订阅昵称
 
-    - 在订阅中添加/减少座位数（许可证）
+    - 添加/减少订阅中的许可证数量
 
     - 取消订阅
 

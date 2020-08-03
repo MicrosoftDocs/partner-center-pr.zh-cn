@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436626"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444985"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>了解帐单和对帐文件-了解如何在合作伙伴中心查找这些文件
 
@@ -88,7 +88,7 @@ Microsoft 将为任何基于许可证的收费（例如 Office 365）和基于�
 
 **费用**：按计费币种计算各自计费期间的到期金额。 
 
-**信用额度**：信用（如 SLA），或对订阅所做更改的调整（例如，座位增加或减少）。 
+**信用额度**：信用（如 SLA）或对订阅所做更改的调整（例如，许可证增加或减少）。 
 
 **付款说明**：描述如何根据你所在的区域为发票付费。 付款时，请始终确保包含发票号。 
 

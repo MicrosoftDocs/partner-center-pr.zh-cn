@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949562"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468328"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>了解如何读取伙伴中心对帐文件中的行项
 
@@ -23,7 +23,7 @@ ms.locfileid: "85949562"
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
-你可以从合作伙伴中心下载你的对帐文件，以获取计费周期中每个费用的详细的行项目视图。 行项详细信息包括每个客户的订阅的费用，以及详细事件（例如，将座位添加到订阅）。
+你可以从合作伙伴中心下载你的对帐文件，以获取计费周期中每个费用的详细的行项目视图。 行项详细信息包括每个客户的订阅的费用，以及详细事件（例如，将许可证添加到订阅中）。
 
 适当的角色：
 
@@ -36,7 +36,6 @@ ms.locfileid: "85949562"
 
 - [基于许可证的对帐文件字段](license-based-recon-files.md)
 - [基于使用情况的对帐文件字段](usage-based-recon-files.md)
-- [一次性和重复的对帐文件字段](one-time-recurring-recon-files.md)
 - [每日分级使用情况协调文件字段](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>了解对帐文件中的费用类型

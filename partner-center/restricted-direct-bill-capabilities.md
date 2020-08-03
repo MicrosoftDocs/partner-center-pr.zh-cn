@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113978"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444768"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求  
 
@@ -43,9 +43,9 @@ ms.locfileid: "87113978"
 
 - Azure 订阅
 
-- 基于座位的订阅
+- 基于许可证的订阅
 
-- 将新的外接程序添加到现有的基于座位的订阅。
+- 将新的外接程序添加到现有的基于许可证的订阅。
 
 - 为软件和预订产品（例如软件订阅、永久性软件和 Azure 保留虚拟机实例）进行一次性购买。
 
@@ -55,9 +55,9 @@ ms.locfileid: "87113978"
 
 - 挂起现有订阅
 
-- 调整现有基于座位的订阅的座位数
+- 调整现有基于许可证的订阅的许可证计数
 
-- 调整现有加载项对订阅的座位数。 
+- 调整订阅的现有加载项的许可证计数。 
  
     >[!Note] 
     >不能将新的外接程序添加到现有订阅，因为它被视为新购买。

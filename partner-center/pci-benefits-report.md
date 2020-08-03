@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8be96bffd34cef4beb4f53f23266a389a9c9d0f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436706"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444891"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的福利报表
 
@@ -31,7 +31,7 @@ ms.locfileid: "86436706"
 
 可以在 "权益" 报表中可视化以下图表：
 
-- 总结
+- 摘要
 - 已授予云服务
 - 软件产品
 - Visual Studio 订阅
@@ -41,7 +41,7 @@ ms.locfileid: "86436706"
  > [!NOTE]
  > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
 
-## <a name="summary"></a>总结
+## <a name="summary"></a>摘要
 
 "摘要" 部分介绍了授权软件、云服务（非 Azure）、Visual Studio 订阅、技术支持和某些投放市场服务或产品/服务的条款。
 
@@ -66,7 +66,7 @@ ms.locfileid: "86436706"
 
 此图显示了针对在所选日期范围内分配的订阅激活的 Visual Studio 订阅的每月趋势。
 
-选择图表顶部的选项卡，以查看作为权益获得的特定 Visual Studio 订阅的趋势。 图表中的列表示订阅使用的座位数。 线条图表示为订阅分配的总座位。
+选择图表顶部的选项卡，以查看作为权益获得的特定 Visual Studio 订阅的趋势。 图表中的列表示订阅使用的许可证。 "线条" 图表示为订阅分配的总体许可证。
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio 订阅":::
 

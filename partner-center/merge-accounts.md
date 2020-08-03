@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265208"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444956"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>将你的合作伙伴帐户与其他合作伙伴帐户合并
 
@@ -23,7 +23,7 @@ ms.locfileid: "86265208"
 
 ## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>当两个合作伙伴选择合并其合作伙伴中心帐户时，会发生什么情况
 
-- 发起合并的合作伙伴组织将是 (PGA) 的合作伙伴全局帐户。
+- 发起合并的合作伙伴组织将是合作伙伴全局帐户（PGA）。
 
 - 受邀组织的 PGA 会成为开始公司的位置。
 
@@ -45,7 +45,7 @@ ms.locfileid: "86265208"
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果受邀将合作伙伴中心帐户与其他合作伙伴中心帐户合并，会出现什么情况
 
-如果你决定接受合并帐户的邀请：·你的 MPN ID (s) 和位置将合并到受邀伙伴帐户的 PGA 中。
+如果你决定接受合并帐户的邀请：·你的 MPN ID 和位置将合并到受邀伙伴帐户的 PGA 中。
 
 - 用户会将其角色完整地加入合并的帐户。
 
@@ -53,7 +53,7 @@ ms.locfileid: "86265208"
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>了解合作伙伴选择合并帐户时对计划和优势的影响
 
-- 所有现有称职都 (金牌/银) 、购买 (如 Microsoft Action Pack) ，以及相关的好处是在合并过程中保留的。 如果两家公司都具有相同的能力，但其中一家是金牌，而另一家是金牌，而另一家公司的合作能力是最高的。 
+- 在合并过程中，会保留所有现有能力（金/银）、购买（如 Microsoft Action Pack）以及相关权益。 如果两家公司都具有相同的能力，但其中一家是金牌，而另一家是金牌，而另一家公司的合作能力是最高的。 
 
 - Microsoft Action Pack 的最高周年日将在合并后保留。 例如，如果公司1的周年日为2020年6月1日 Action Pack 续订，公司2的周年 Action Pack 续订日期为10月2020，则 Microsoft 将使用10月2020日作为已合并公司的新周年日。
 
@@ -65,7 +65,7 @@ ms.locfileid: "86265208"
 
   - 资格：合作伙伴公司将会获得一个核心权益包，它与最高的实现相关联，另外还会获得特定于胜任度的特定福利。
 
-- 所有权益受[Microsoft 合作伙伴网络收益使用指南](https://aka.ms/partner-benefits-use-guide)的限制。 例如：激活的 O365 E3 令牌在激活后的十二个 (12) 个月内可用。 为租户上的座位激活令牌后，可能不会将这些座位移到另一个租户。
+- 所有权益受[Microsoft 合作伙伴网络收益使用指南](https://aka.ms/partner-benefits-use-guide)的限制。 例如：激活的 O365 E3 令牌在激活后的十二（12）个月内有效。 为租户上的许可证激活令牌后，不能将这些许可证移动到其他租户。
 
 - 这两个公司的 MCP ID 关联将保留并与 PGA MPN ID 相关联。
 

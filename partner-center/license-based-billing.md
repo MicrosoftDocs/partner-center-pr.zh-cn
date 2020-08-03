@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434376"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468341"
 ---
 # <a name="license-based-billing-in-partner-center"></a>合作伙伴中心的基于许可证的帐单
 
@@ -30,7 +30,7 @@ ms.locfileid: "86434376"
 
 ## <a name="license-billing-frequency"></a>许可证计费频率
 
-你可以选择按月（**每月计费**）或每年一次（**每年计费**）向许可证收费。 有关**计费频率**的详细信息，请参阅[每月和每年计费差额](billing-annual-monthly.md)。
+你可以选择按月（**每月计费**）或每年一次（**每年计费**）向许可证收费。 
 
 ## <a name="billing-date-for-licenses"></a>许可证的计费日期
 
@@ -55,14 +55,12 @@ ms.locfileid: "86434376"
 
 ## <a name="license-renewal"></a>许可证续订
 
-所有基于许可证的订阅在付费期限开始后 autorenew 12 个月。
+所有基于许可证的订阅会在付费期限开始后自动续订12个月。
 
 ## <a name="next-steps"></a>后续步骤
 
 - [合作伙伴中心计费概述](billing-basics.md)
 
 - [合作伙伴中心的计费类型](billing-different-types.md)
-
-- [按月和按年计费的差异](billing-annual-monthly.md)
 
 - [主帐单和税务文章](billing.md)

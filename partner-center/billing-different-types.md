@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b83116bf4b32754c1a8f270136f44e9120f034b5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435586"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468515"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>合作伙伴中心的计费类型-包括基于许可证、基于使用情况和一次性计费
 
@@ -34,8 +34,6 @@ ms.locfileid: "86435586"
 根据你代表客户购买的产品、解决方案和服务，将为合作伙伴中心购买付费。 计费类型如下所示：
 
 - [**基于许可证的计费**](license-based-billing.md)，按许可证计费（而不是许可证使用情况）。
-- [**基于使用情况的计费**](usage-based-billing.md)，按每月使用费率计费。
-- [**一次计费，并选择定期收费**](one-time-and-recurring-billing.md)，你可以在其中提前为 Microsoft 和第三方 ISV 产品付费。
 - 基于许可证的 SaaS 事务计费（请参阅[**SaaS 计费的常见计费方案**](common-billing-scenarios-saas.md)）。
 
 根据为客户购买的具体产品类型，你可能会有不同的计费周期，并且我们可能会在同一月内的不同日期向你收费。

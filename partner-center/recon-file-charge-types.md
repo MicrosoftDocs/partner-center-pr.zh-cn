@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949301"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444781"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>了解合作伙伴中心对帐文件中的不同费用类型
 
@@ -45,10 +45,10 @@ ms.locfileid: "85949301"
 | 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
 | 激活费用 | 客户在购买后使用订阅时向客户收取的费用。 |
-| 取消费用 | 当关联的座位发生变化时，将向客户退还按比例计费。 |
-| 取消实例按比例计算 | 按月订阅的客户在同一月内暂停订阅并更改关联座位时，按比例计费。 |
+| 取消费用 | 更改关联的许可证时，将向客户退还按比例计费。 |
+| 取消实例按比例计算 | 按月订阅的客户在同一月内暂停订阅并更改关联许可证时，按比例计费。 |
 | 周期费用 | 订阅的定期收费。 |
-| 周期实例按比例计算 | 相关座位发生变化时，从客户评估的按比例计费。 |
+| 周期实例按比例计算 | 更改关联的许可证时，从客户评估的按比例计费。 |
 | 按比例计算取消时的费用 | 取消时，未使用的服务部分按比例退款。 |
 | 转换远离当前产品/服务的按比例计算费用 | 从当前月度订阅转换为年度订阅后按比例计费。 |
 | 转换为新产品/服务时的按比例计算费用 | 将月度订阅转换为新年度订阅后按比例计费。 |
@@ -68,7 +68,7 @@ ms.locfileid: "85949301"
 | addQuantity | 用于原始购买的退款和增加后的新数量。 |
 | removeQuantity | 用于原始购买的退款和减少后的新数量。 |
 | 取消 | 取消订阅时使用。 |
-| 转换 | 升级许可证时使用，但座位数保持不变。 |
+| 转换 | 升级许可证时使用，但许可证数量保持不变。 |
 
 ## <a name="usage-charges"></a>使用费
 

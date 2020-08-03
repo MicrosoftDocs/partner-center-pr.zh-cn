@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377221"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444557"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>将基于许可证的客户从 & 合作伙伴的其他渠道迁移到云解决方案提供商计划
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377221"
 
 1. 从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择 "**请求分销商关系**"。 若要为多渠道帐户提供支持，你应该执行相同的操作。
 
-2. 客户接受你的邀请后，你将能够为客户预配所需的订阅和座位（例如，客户之前购买的相同 Office 365 产品/服务）。
+2. 客户接受你的邀请后，你将能够为客户预配所需的订阅和许可证（例如，客户之前购买的相同 Office 365 产品/服务）。
 
 3. 客户可以允许原始订阅过期或取消。 但是，由于已取消的订阅不会有任何退款，因此最好等到订阅接近于自然到期日期。
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377771"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444907"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>为客户授予为期30天的免费试用版 Microsoft 产品
 
@@ -45,9 +45,9 @@ ms.locfileid: "86377771"
 
 ## <a name="licenses-for-free-trial-offers"></a>免费试用版许可证
 
-所有免费试用版均提供25个许可证。 你无法在试用期间更改此数字。 无法在免费试用版中添加或删除座位。 将试用版转换为付费订阅后，你可以向订阅添加其他许可证。
+所有免费试用版均提供25个许可证。 你无法在试用期间更改此数字。 不能在免费试用版中添加或删除许可证。 将试用版转换为付费订阅后，你可以向订阅添加其他许可证。
 
-应将试用许可证和座位分配给用户，方法与分配付费服务许可证的方式相同。
+应将试用许可证分配给用户，方法与分配付费服务许可证的方式相同。
 
 ## <a name="sign-customers-up-for-trials"></a>为客户注册试用版
 

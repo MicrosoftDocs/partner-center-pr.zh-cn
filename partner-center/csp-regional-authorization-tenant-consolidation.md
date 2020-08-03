@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114407"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444926"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并说明
 
@@ -29,12 +29,12 @@ ms.locfileid: "87114407"
 - 全局管理员
 - 管理员代理
 
-\[某些信息与预发布的产品相关，这些信息可能会在正式发布之前进行重大修改。 对于此处提供的信息，Microsoft 不提供任何明示或暗示的担保。\]
+\[某些信息与预发布的产品相关，这些信息可能会在正式发布之前进行重大修改。 对于此处提供的信息，Microsoft 不作任何明示或暗示的担保。\]
 
 你可以整合业务的租户。 使用这些说明合并不同国家/地区的租户。
 
 >[!NOTE]  
->你必须知道要从中转换的帐户中每个客户的所有预配订阅和座位数。 在迁移过程中，将在新的中心 CSP 帐户下重新设置这些相同的相同订阅和相同的订阅。 使用导出列表功能，帮助创建移动至集中租户的客户列表。  合并完成后，将无法还原到以前的租户状态。 还可能需要客户操作。
+>您必须知道要从中转换的帐户中每个客户的所有预配订阅和许可证计数。 在迁移过程中，将重新预配在新的中心 CSP 帐户下具有相同许可证计数的相同订阅。 使用导出列表功能，帮助创建移动至集中租户的客户列表。  合并完成后，将无法还原到以前的租户状态。 还可能需要客户操作。
 
 ## <a name="prepare-for-migration"></a>准备迁移
 
@@ -66,7 +66,7 @@ ms.locfileid: "87114407"
 
 4. 选择“添加订阅”****。
 
-5. 在目录中添加正确的订阅和席位计数。 验证从合作伙伴帐户**转换**中提供的信息。
+5. 从目录中添加正确的订阅和许可证计数。 验证从合作伙伴帐户**转换**中提供的信息。
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="客户列表":::
 

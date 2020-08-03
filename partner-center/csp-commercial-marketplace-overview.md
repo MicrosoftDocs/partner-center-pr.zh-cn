@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435066"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444935"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心的商业市场概述
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心内的商业市场概述
 
 **适用于**
 
@@ -37,11 +37,11 @@ ms.locfileid: "86435066"
 
 如果你是 CSP 计划中的合作伙伴，你可能想要执行许多适用于 ISV 产品/服务的商业市场活动。 请参阅下表以了解有关每个活动的详细信息。
 
-|**如果你想要**  |**读取**   |
+|**如果要**  |**读取**   |
 |:------------------------------------|:------------------|
 |了解如何查看或搜索可用产品/服务、定价、产品详细信息或发布者联系信息 | [发现产品](csp-commercial-marketplace-discover.md) | 
 |了解如何购买和部署产品/服务   | [购买优惠](csp-commercial-marketplace-purchase.md)   | 
-|了解如何取消或续订订阅或添加或删除座位  | [管理套餐](csp-commercial-marketplace-manage.md) |
+|了解如何取消或续订订阅或添加或删除许可证  | [管理套餐](csp-commercial-marketplace-manage.md) |
 |了解计费如何适用于商业 marketplace 购买 | [了解帐单](csp-commercial-marketplace-billing.md) |
 |了解谁负责 ISV 购买哪些类型的支持 | [了解支持](csp-commercial-marketplace-support.md) |
 |了解有关商业应用商店中 CSP 合作伙伴和 Isv 的合同和责任 | [了解合同](csp-commercial-marketplace-contracting.md) |
@@ -73,7 +73,7 @@ ms.locfileid: "86435066"
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |部署购买的产品/服务（帐户设置、软件管理或客户的 AAD 租户中的部署）  | ISV 发布者的系统或网站  |
-|取消/续订提议订阅或添加/删除座位 | 合作伙伴中心仪表板或合作伙伴中心 Api  |
+|取消/续订提议订阅或添加/删除许可证 | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |创建用户或管理权限  | ISV 发布者的系统或网站  |
 
 |**基于使用情况的 Isv 提供的产品/服务**  |**使用**  |
@@ -81,7 +81,7 @@ ms.locfileid: "86435066"
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板、合作伙伴中心 Api 或 Azure 门户  |
 |购买产品/服务  | Azure 门户  |
 |部署购买的产品/服务（帐户设置、软件管理或客户的 AAD 租户中的部署）  | Azure 门户  |
-|取消/续订提议订阅或添加/删除座位 | Azure 门户  |
+|取消/续订提议订阅或添加/删除许可证 | Azure 门户  |
 |创建用户或管理权限  | Azure 门户  |
 
 ## <a name="next-steps"></a>后续步骤

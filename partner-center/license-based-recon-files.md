@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377691"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444921"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>了解合作伙伴中心基于许可证的对帐文件中的字段
 
@@ -46,11 +46,11 @@ ms.locfileid: "86377691"
 | OfferName | 客户购买的服务产品的名称，如价目表中所定义。 | *Microsoft Office 365（计划 E3）* |
 | SubscriptionStartDate | 订阅的开始日期。 该时间始终为一天的起点时间，即 0:00。 此字段设置为提交订单后的那一天。 与**subscription.subscriptionenddate**结合使用以确定：客户是否仍在订阅的第一年内，或者是否已续订了下一年的订阅。 | *2/1/2019 0:00* |
 | SubscriptionEndDate | 订阅结束日期。 该时间始终为一天的起点时间，即 0:00。 *12 个月 + 开始日期之后的**x**天*，以与合作伙伴的计费日期或*从续订日期起12个月*的时间一致。 续订时，价格将更新为当前价目表。 自动续订之前可能需要与客户进行通信。 | *2/1/2019 0:00* |
-| ChargeStartDate | 费用的开始日。 该时间始终为一天的起点时间，即 0:00。 用于在客户更改座位号码时计算每日费用（*pro 每*费用）。 | *2/1/2019 0:00* |
-| ChargeEndDate | 费用的结束日。 时间始终是一天的结束，即 23:59。 用于在客户更改座位号码时计算每日费用（*pro 每*费用）。 | *2/28/2019 23:59* |
+| ChargeStartDate | 费用的开始日。 该时间始终为一天的起点时间，即 0:00。 用于在客户更改许可证编号时计算每日费用（*pro 每*费用）。 | *2/1/2019 0:00* |
+| ChargeEndDate | 费用的结束日。 时间始终是一天的结束，即 23:59。 用于在客户更改许可证编号时计算每日费用（*pro 每*费用）。 | *2/28/2019 23:59* |
 | ChargeType | 费用或调整的[类型](recon-file-charge-types.md)。 | 请参阅[费用类型](recon-file-charge-types.md)。 |
-| UnitPrice | 购买时公布在价目表中的每一席位的价格。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *6.82* |
-| 数量 | 席位的数量。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *2* |
+| UnitPrice | 购买时在 pricelist 中发布的每个许可证的价格。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *6.82* |
+| 数量 | 许可证数量。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *2* |
 | 金额 | 数量的总价。 用于检查量计算是否与你为客户计算此值的方式匹配。 | *13.32* |
 | TotalOtherDiscount | 适用于这些费用的折扣金额。 资格或地图随附的产品许可证，或符合激励条件的新订阅，还将在此列中包含折扣金额。 | *2.32* |
 | 小计 | 税前总额。 检查小计是否与预期的总计匹配（如果是折扣）。 | *11* |

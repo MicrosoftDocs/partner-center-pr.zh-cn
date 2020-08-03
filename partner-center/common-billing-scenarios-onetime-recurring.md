@@ -2,17 +2,17 @@
 title: 一次性 & 定期购买的帐单
 ms.topic: article
 ms.date: 05/05/2020
-description: 请参阅合作伙伴中心计费示例一次，并选择定期购买--在购买订阅时，添加更多订阅，添加或删除座位。
+description: 请参阅合作伙伴中心计费示例一次，并选择定期购买--在购买订阅时，添加更多订阅，添加或删除许可证。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5349a78b788c060999c98440edf962a64cb43112
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435386"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468391"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>一次合作伙伴中心计费方案，并选择定期购买
 
@@ -23,9 +23,9 @@ ms.locfileid: "86435386"
 - 支持人员代理
 - 销售代理
 
-这些示例[通用计费方案](common-billing-scenarios.md)适用于[一次，并在合作伙伴中心选择定期收费](one-time-and-recurring-billing.md)。
+这些是[常见的计费方案](common-billing-scenarios.md)。 
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>购买订阅并在同一天添加座位
+## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>购买订阅并在同一天添加许可证
 
 在场景 1 中，你于 6 月 11 日以 4 美元的单价购买了一个订阅。 在同一天的晚些时候，你以相同的价格又购买了相同的订阅。
 
@@ -57,9 +57,9 @@ ms.locfileid: "86435386"
 |2019/6/12     | 2019/6/10    |2019/7/09        |4 美元        |1        | -3.87 美元       |addQuantity           |
 |2019/6/12     | 2019/6/10    |2019/7/09        |4 美元        | 2      |7.74 美元       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>购买订阅并在同一天删除座位
+## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>购买订阅并在同一天删除许可证
 
-在场景 3 中，你于 6 月 11 日以 4 美元的单价购买了同一产品的两个订阅。 在同一天的晚些时候，你删除了一个席位。  
+在场景 3 中，你于 6 月 11 日以 4 美元的单价购买了同一产品的两个订阅。 稍后，你将删除一个许可证。  
 
 对帐文件将包含以下内容：
 
@@ -73,9 +73,9 @@ ms.locfileid: "86435386"
 |2019/6/11     | 2019/6/10    |2019/7/09        |4 美元        |2        | -8 美元       |removeQuantity           |
 |2019/6/11     | 2019/6/10    |2019/7/09        |4 美元        | 1      |4 美元         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>购买订阅并稍后删除座位
+## <a name="purchase-a-subscription-and-remove-licenses-later"></a>以后购买订阅并删除许可证
 
-在场景 4 中，你于 6 月 11 日以 4 美元的单价购买了 2 个订阅，然后在 6 月 12 日删除了一个席位。
+在方案4中，你在6月11日购买2个订阅，单价为 $4，6月12日你删除了一个许可证。
 
 对帐文件将包含以下内容：
 

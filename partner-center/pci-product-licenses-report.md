@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 请查看此产品许可证报表，并了解如何改进你为客户销售或管理的授权云产品。
+description: 查看此产品许可证报表，了解如何通过为客户销售或管理的基于许可的云产品来改进。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436656"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444842"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 
@@ -24,9 +24,9 @@ ms.locfileid: "86436656"
 - 报表查看器
 - Executive 报表查看器
 
-产品许可证报表提供基于座位的云产品的许可证分析，如 O365、Dynamics、M365、Power BI 等。此处提供的分析与你为客户销售的或为你的客户管理的许可证的使用情况关联。 你可以从 "产品许可证" 报表查看以下部分。
+产品许可证报表提供基于许可证的云产品的许可证分析，如 O365、Dynamics、M365、Power BI 等。此处提供的分析与你为客户销售的或为你的客户管理的许可证的使用情况关联。 你可以从 "产品许可证" 报表查看以下部分。
 
-- 总结
+- 摘要
 - 许可证的地理分布
 - 许可证添加
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的许可证分发
@@ -38,7 +38,7 @@ ms.locfileid: "86436656"
 
 "摘要" 部分提供了与销售、部署和使用的云产品许可证关联的关键绩效指标（Kpi）的快照视图。 这可帮助你跟踪针对销售给客户的许可证的活动使用情况。
 
-- 许可证：针对基于座位的云产品（例如 O365、Dynamics、M365、Power BI 等）销售或管理的所有许可证的当前计数。这些许可证在所选日期范围内的增长百分比或拒绝百分比。
+- 许可证：为基于许可证的云产品（例如 O365、Dynamics、M365、Power BI 等）销售或管理的所有许可证的当前计数。这些许可证在所选日期范围内的增长百分比或拒绝百分比。
 
 微图显示了所选日期范围内许可证计数的月间趋势
 

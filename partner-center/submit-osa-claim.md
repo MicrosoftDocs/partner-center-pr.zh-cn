@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943674"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468339"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>通过 CPOR 模型创建客户关联–用于 Microsoft 365 和 Dynamics 365 客户
 
@@ -30,9 +30,9 @@ ms.locfileid: "86943674"
 
 - 构成声明的实体的**MPN ID**
 
-- 客户的**域名**[查找此](find-customer-domain-name.md)
+- 客户的**域名**[查找此](find-domain-name.md)
 
-- 客户的**目录 id**或**租户 id** [查找此](find-customer-domain-name.md)
+- 客户的**目录 id**或**租户 id** [查找此](find-domain-name.md)
 
 - **解决方案区域**，如 Business Applications 或 Microsoft 365
 
@@ -66,9 +66,9 @@ ms.locfileid: "86943674"
 
 2. 在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
 
-3. 选择要与客户关联的合作伙伴位置的**MPN id** ，然后添加客户的域名和目录 ID。 [它们位于何处？](find-customer-domain-name.md)
+3. 选择要与客户关联的合作伙伴位置的 MPN ID，然后添加客户的域名和目录 ID。 [查找此](find-domain-name.md)
 
-4. 选择**继续**。
+4. 选择“继续”。
 
 5. 选择**解决方案区域**和**活动**。 
 
@@ -76,7 +76,7 @@ ms.locfileid: "86943674"
    >
    >如果选择 "Business Applications"，请选择 "**使用情况" 和/或 "提前销售**" 或 "**收入关联**"，然后选择 "**继续**"。 
 
-   >如果选择 "收入关联"，系统将提示你输入与下面所列信息稍有不同的信息。
+   >如果选择“收入关联”，系统将提示你输入与下面所列信息稍有不同的信息。
 
 6. 在 "**关联客户**" 页上输入相应信息，然后选择 "**创建声明**"。
 
@@ -87,13 +87,13 @@ ms.locfileid: "86943674"
    >[!NOTE]
    >如果你的产品是 Dynamics 365，并且你选择的产品有多个订阅用于此特定客户，则还需要输入订阅 ID。
 
-9. 提供执行证明（POE）。 您可以将其拖到 "" 框，浏览到自己的支持文档，或通过选择 "**下载模板**" 来使用模板。 
+9. 提供执行证明 (POE)。 可以将其拖到框中，浏览找到自己的支持性文档，或通过选择“下载模板”来使用模板。 
 
-10. 根据需要添加并保存注释，然后选择 "**提交声明**"。 我们将向客户发送一封电子邮件，请求你的客户协会批准。
+10. 根据需要添加并保存注释，然后选择“提交声明”。 我们将向客户发送一封电子邮件，请求批准客户关联。
 
    >[!NOTE]
    >提交客户关联后，不能对其进行编辑。
 
-"**状态**" 字段中将显示客户关联的状态。
+客户关联的状态显示在“状态”字段中。
 
-选择 "**历史记录**" 以查看客户关联的历史记录。
+选择“历史记录”查看客户关联的历史记录。
