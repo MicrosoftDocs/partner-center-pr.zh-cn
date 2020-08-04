@@ -3,48 +3,57 @@ title: 创建 Office 365 试用邀请
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解合作伙伴如何为其客户端创建和发送试用邀请以试用 Office 365。 合作伙伴很多都是已获授权的订阅顾问。
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120031"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526993"
 ---
-# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a><span data-ttu-id="8b583-104">顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365</span><span class="sxs-lookup"><span data-stu-id="8b583-104">Advisors: Create and send a trial invitation for clients to try Office 365</span></span>
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a><span data-ttu-id="c67d0-104">顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365</span><span class="sxs-lookup"><span data-stu-id="c67d0-104">Advisors: Create and send a trial invitation for clients to try Office 365</span></span>
+
+<span data-ttu-id="c67d0-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="c67d0-105">**Applies to**</span></span>
+
+- <span data-ttu-id="c67d0-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="c67d0-106">Partner Center</span></span>
+ 
+<span data-ttu-id="c67d0-107">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="c67d0-107">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="c67d0-108">顾问</span><span class="sxs-lookup"><span data-stu-id="c67d0-108">Advisors</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="8b583-105">此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="8b583-105">This feature is available only to Microsoft Partners who are authorized subscription advisors.</span></span>
+> <span data-ttu-id="c67d0-109">此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="c67d0-109">This feature is available only to Microsoft Partners who are authorized subscription advisors.</span></span>
 
-<span data-ttu-id="8b583-106">你可以创建试用邀请并发送到你的客户端，以便他们可以试用 Office 365。</span><span class="sxs-lookup"><span data-stu-id="8b583-106">You can create and send trial invitations to your clients so they can try out Office 365.</span></span> <span data-ttu-id="8b583-107">创建试用邀请时，"**创建试用邀请**" 向导将为你创建一个自定义 URL。</span><span class="sxs-lookup"><span data-stu-id="8b583-107">When you create a trial invitation, the **Create trial invitation** wizard creates a custom URL for you.</span></span> <span data-ttu-id="8b583-108">该 URL 具有一个嵌入的代码，用于将您标识为订阅顾问。</span><span class="sxs-lookup"><span data-stu-id="8b583-108">The URL has an embedded code that identifies you as the subscription advisor.</span></span> <span data-ttu-id="8b583-109">此 URL 可用于一个或多个客户端。</span><span class="sxs-lookup"><span data-stu-id="8b583-109">You can use this URL for one or many clients.</span></span> <span data-ttu-id="8b583-110">通过电子邮件将 URL 发送到客户端，或在其他文档中使用 URL。</span><span class="sxs-lookup"><span data-stu-id="8b583-110">Send the URL to your client in an email or use the URL in other documents.</span></span> <span data-ttu-id="8b583-111">该订阅可以包含一个或多个服务，具体取决于特定的套餐。</span><span class="sxs-lookup"><span data-stu-id="8b583-111">The subscription can contain one or more services, depending on the particular offer.</span></span> <span data-ttu-id="8b583-112">一次只能为一个试用订阅发送邀请。</span><span class="sxs-lookup"><span data-stu-id="8b583-112">An invitation can be sent for only one trial subscription at a time.</span></span>
+<span data-ttu-id="c67d0-110">你可以创建试用邀请并发送到你的客户端，以便他们可以试用 Office 365。</span><span class="sxs-lookup"><span data-stu-id="c67d0-110">You can create and send trial invitations to your clients so they can try out Office 365.</span></span> <span data-ttu-id="c67d0-111">创建试用邀请时，"**创建试用邀请**" 向导将为你创建一个自定义 URL。</span><span class="sxs-lookup"><span data-stu-id="c67d0-111">When you create a trial invitation, the **Create trial invitation** wizard creates a custom URL for you.</span></span> <span data-ttu-id="c67d0-112">该 URL 具有一个嵌入的代码，用于将您标识为订阅顾问。</span><span class="sxs-lookup"><span data-stu-id="c67d0-112">The URL has an embedded code that identifies you as the subscription advisor.</span></span> <span data-ttu-id="c67d0-113">此 URL 可用于一个或多个客户端。</span><span class="sxs-lookup"><span data-stu-id="c67d0-113">You can use this URL for one or many clients.</span></span> <span data-ttu-id="c67d0-114">通过电子邮件将 URL 发送到客户端，或在其他文档中使用 URL。</span><span class="sxs-lookup"><span data-stu-id="c67d0-114">Send the URL to your client in an email or use the URL in other documents.</span></span> <span data-ttu-id="c67d0-115">该订阅可以包含一个或多个服务，具体取决于特定的套餐。</span><span class="sxs-lookup"><span data-stu-id="c67d0-115">The subscription can contain one or more services, depending on the particular offer.</span></span> <span data-ttu-id="c67d0-116">一次只能为一个试用订阅发送邀请。</span><span class="sxs-lookup"><span data-stu-id="c67d0-116">An invitation can be sent for only one trial subscription at a time.</span></span>
 
-<span data-ttu-id="8b583-113">如果你经过认证来提供委派管理，则可以向试用邀请添加一个选项，以允许你代表客户端管理帐户。</span><span class="sxs-lookup"><span data-stu-id="8b583-113">If you're certified to offer delegated administration, you can add an option to the trial invitation that allows you to administer the account on behalf of your client.</span></span> <span data-ttu-id="8b583-114">这样，客户端就可以更轻松地试用 Office 365。</span><span class="sxs-lookup"><span data-stu-id="8b583-114">This makes it easier for your client to try out Office 365.</span></span>
+<span data-ttu-id="c67d0-117">如果你经过认证来提供委派管理，则可以向试用邀请添加一个选项，以允许你代表客户端管理帐户。</span><span class="sxs-lookup"><span data-stu-id="c67d0-117">If you're certified to offer delegated administration, you can add an option to the trial invitation that allows you to administer the account on behalf of your client.</span></span> <span data-ttu-id="c67d0-118">这样，客户端就可以更轻松地试用 Office 365。</span><span class="sxs-lookup"><span data-stu-id="c67d0-118">This makes it easier for your client to try out Office 365.</span></span>
 
-## <a name="to-create-a-trial-invitation"></a><span data-ttu-id="8b583-115">创建试用邀请</span><span class="sxs-lookup"><span data-stu-id="8b583-115">To create a trial invitation</span></span>
+## <a name="to-create-a-trial-invitation"></a><span data-ttu-id="c67d0-119">创建试用邀请</span><span class="sxs-lookup"><span data-stu-id="c67d0-119">To create a trial invitation</span></span>
 
-1. <span data-ttu-id="8b583-116">导航到**试用版和购买优惠**  >  **创建邀请**。</span><span class="sxs-lookup"><span data-stu-id="8b583-116">Navigate to **Trials and purchase offers** > **Create invitations**.</span></span>
+1. <span data-ttu-id="c67d0-120">导航到**试用版和购买优惠**  >  **创建邀请**。</span><span class="sxs-lookup"><span data-stu-id="c67d0-120">Navigate to **Trials and purchase offers** > **Create invitations**.</span></span>
 
-2. <span data-ttu-id="8b583-117">在 "**创建试用邀请**" 页上，选择要包括的试用邀请选项：</span><span class="sxs-lookup"><span data-stu-id="8b583-117">On the **Create trial invitation** page, select the trial invitation options that you want to include:</span></span>
+2. <span data-ttu-id="c67d0-121">在 "**创建试用邀请**" 页上，选择要包括的试用邀请选项：</span><span class="sxs-lookup"><span data-stu-id="c67d0-121">On the **Create trial invitation** page, select the trial invitation options that you want to include:</span></span>
 
-    - <span data-ttu-id="8b583-118">**合作伙伴办公室**：如果你的公司有多个办公地点，请选择要与此试用邀请关联的办公地点。</span><span class="sxs-lookup"><span data-stu-id="8b583-118">**Partner office**: If your company has multiple offices, choose the office that you want to associate with this trial invitation.</span></span>
+    - <span data-ttu-id="c67d0-122">**合作伙伴办公室**：如果你的公司有多个办公地点，请选择要与此试用邀请关联的办公地点。</span><span class="sxs-lookup"><span data-stu-id="c67d0-122">**Partner office**: If your company has multiple offices, choose the office that you want to associate with this trial invitation.</span></span>
 
-        <span data-ttu-id="8b583-119">若要添加合作伙伴办公室位置，请参阅[添加位置](manage-locations.md)。</span><span class="sxs-lookup"><span data-stu-id="8b583-119">To add partner office locations, see [Add a location](manage-locations.md).</span></span> <span data-ttu-id="8b583-120">新办公地点在创建后可能需要长达24小时才会显示在 "合作伙伴办公室" 列表中。</span><span class="sxs-lookup"><span data-stu-id="8b583-120">New office locations may require up to 24 hours after they were created to appear in the Partner office list.</span></span>
+        <span data-ttu-id="c67d0-123">若要添加合作伙伴办公室位置，请参阅[添加位置](manage-locations.md)。</span><span class="sxs-lookup"><span data-stu-id="c67d0-123">To add partner office locations, see [Add a location](manage-locations.md).</span></span> <span data-ttu-id="c67d0-124">新办公地点在创建后可能需要长达24小时才会显示在 "合作伙伴办公室" 列表中。</span><span class="sxs-lookup"><span data-stu-id="c67d0-124">New office locations may require up to 24 hours after they were created to appear in the Partner office list.</span></span>
 
-    - <span data-ttu-id="8b583-121">**使用位置**：选择客户端将使用服务的位置。</span><span class="sxs-lookup"><span data-stu-id="8b583-121">**Usage location**: Choose the location where your client will use the services.</span></span>
-    - <span data-ttu-id="8b583-122">**试用订阅**：可以选择的试用订阅列表由客户所在的国家或地区的使用位置决定。</span><span class="sxs-lookup"><span data-stu-id="8b583-122">**Trial subscriptions**: The list of trial subscriptions that you can choose is determined by the usage location of your client's country or region.</span></span>
-    - <span data-ttu-id="8b583-123">**委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。</span><span class="sxs-lookup"><span data-stu-id="8b583-123">**Delegated administration**: This option is only available to partners who are certified to offer delegated administration.</span></span> <span data-ttu-id="8b583-124">如果要提供客户端委托管理，请选择此选项。</span><span class="sxs-lookup"><span data-stu-id="8b583-124">Choose this option if you want to offer your client delegated administration.</span></span> <span data-ttu-id="8b583-125">如果执行此操作，则客户端可以接受或不接受委派管理的试用邀请。</span><span class="sxs-lookup"><span data-stu-id="8b583-125">If you do, your client can accept the trial invitation with or without acceptance of delegated administration.</span></span> <span data-ttu-id="8b583-126">有关委派管理的详细信息，请参阅[提供委派管理](customers-revoke-admin-privileges.md)。</span><span class="sxs-lookup"><span data-stu-id="8b583-126">For more information about delegated administration, see [Offer delegated administration](customers-revoke-admin-privileges.md).</span></span>
+    - <span data-ttu-id="c67d0-125">**使用位置**：选择客户端将使用服务的位置。</span><span class="sxs-lookup"><span data-stu-id="c67d0-125">**Usage location**: Choose the location where your client will use the services.</span></span>
+    - <span data-ttu-id="c67d0-126">**试用订阅**：可以选择的试用订阅列表由客户所在的国家或地区的使用位置决定。</span><span class="sxs-lookup"><span data-stu-id="c67d0-126">**Trial subscriptions**: The list of trial subscriptions that you can choose is determined by the usage location of your client's country or region.</span></span>
+    - <span data-ttu-id="c67d0-127">**委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。</span><span class="sxs-lookup"><span data-stu-id="c67d0-127">**Delegated administration**: This option is only available to partners who are certified to offer delegated administration.</span></span> <span data-ttu-id="c67d0-128">如果要提供客户端委托管理，请选择此选项。</span><span class="sxs-lookup"><span data-stu-id="c67d0-128">Choose this option if you want to offer your client delegated administration.</span></span> <span data-ttu-id="c67d0-129">如果执行此操作，则客户端可以接受或不接受委派管理的试用邀请。</span><span class="sxs-lookup"><span data-stu-id="c67d0-129">If you do, your client can accept the trial invitation with or without acceptance of delegated administration.</span></span> <span data-ttu-id="c67d0-130">有关委派管理的详细信息，请参阅[提供委派管理](customers-revoke-admin-privileges.md)。</span><span class="sxs-lookup"><span data-stu-id="c67d0-130">For more information about delegated administration, see [Offer delegated administration](customers-revoke-admin-privileges.md).</span></span>
 
-3. <span data-ttu-id="8b583-127">单击“下一步”。</span><span class="sxs-lookup"><span data-stu-id="8b583-127">Click **Next**.</span></span>
+3. <span data-ttu-id="c67d0-131">单击“下一步”。</span><span class="sxs-lookup"><span data-stu-id="c67d0-131">Click **Next**.</span></span>
 
-4. <span data-ttu-id="8b583-128">在**您的试用邀请**页面上，复制试用邀请信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义的试用邀请。</span><span class="sxs-lookup"><span data-stu-id="8b583-128">On the**Your trial invitation** page, copy the trial invitation information and URL, and then paste it into an email, a document, or a webpage to create a customized trial invitation.</span></span>
+4. <span data-ttu-id="c67d0-132">在**您的试用邀请**页面上，复制试用邀请信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义的试用邀请。</span><span class="sxs-lookup"><span data-stu-id="c67d0-132">On the**Your trial invitation** page, copy the trial invitation information and URL, and then paste it into an email, a document, or a webpage to create a customized trial invitation.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="8b583-129">记下试用邀请**摘要 ID**。</span><span class="sxs-lookup"><span data-stu-id="8b583-129">Make a note of the Trial invitation **summary ID**.</span></span> <span data-ttu-id="8b583-130">使用此 ID 跟踪产品/服务。</span><span class="sxs-lookup"><span data-stu-id="8b583-130">Use this ID to track the offer.</span></span>
+    > <span data-ttu-id="c67d0-133">记下试用邀请**摘要 ID**。</span><span class="sxs-lookup"><span data-stu-id="c67d0-133">Make a note of the Trial invitation **summary ID**.</span></span> <span data-ttu-id="c67d0-134">使用此 ID 跟踪产品/服务。</span><span class="sxs-lookup"><span data-stu-id="c67d0-134">Use this ID to track the offer.</span></span>
 
-5. <span data-ttu-id="8b583-131">通过包含公司徽标、简介、结束语或其他信息来个性化您的消息。</span><span class="sxs-lookup"><span data-stu-id="8b583-131">Personalize your message by including your company logo, introduction, closing remarks, or other information.</span></span>
+5. <span data-ttu-id="c67d0-135">通过包含公司徽标、简介、结束语或其他信息来个性化您的消息。</span><span class="sxs-lookup"><span data-stu-id="c67d0-135">Personalize your message by including your company logo, introduction, closing remarks, or other information.</span></span>
 
-6. <span data-ttu-id="8b583-132">将试用邀请发送给客户端。</span><span class="sxs-lookup"><span data-stu-id="8b583-132">Send the trial invitation to your client.</span></span>
+6. <span data-ttu-id="c67d0-136">将试用邀请发送给客户端。</span><span class="sxs-lookup"><span data-stu-id="c67d0-136">Send the trial invitation to your client.</span></span>
