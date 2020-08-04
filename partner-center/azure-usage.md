@@ -1,6 +1,6 @@
 ---
 title: 针对最大预留项使用率调整 Azure VM 的大小
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 706021c39e136954d3791856da12c828cbdf6389
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435736"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527443"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 

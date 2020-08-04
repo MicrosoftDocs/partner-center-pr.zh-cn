@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436176"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526943"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>获取有关客户和 Azure 订阅的工作方式的数据
 
@@ -32,12 +32,14 @@ ms.locfileid: "86436176"
 
 数据推动业务决策。 使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
+若要获取**Azure 使用情况**，请登录到合作伙伴中心[仪表板](https:/partner.microsoft.com/dashboard)。 从 "合作伙伴中心" 菜单中选择 "**分析**"，然后选择 " **Azure 使用情况**"。
+
 > [!NOTE]
 > Azure 使用情况分析仅适用于云解决方案提供商计划中的合作伙伴。
 
 我们跟踪下列指标：
 
-## <a name="summary"></a>总结
+## <a name="summary"></a>摘要
 
 - **Azure 订阅总销量**：指定时间段内销售的订阅数量  
 - **使用过的客户数**：指定时间段内使用过 Azure 的客户数量  
@@ -67,3 +69,7 @@ ms.locfileid: "86436176"
 ## <a name="azure-subscription-retention"></a>Azure 订阅保留
 
 - 续订的订阅数量。
+
+ ## <a name="next-steps"></a>后续步骤
+
+- [为客户购买 Azure 计划 & 按现用现付费率访问最新的 Azure 服务](purchase-azure-plan.md)

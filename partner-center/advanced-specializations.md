@@ -3,18 +3,18 @@ title: 获取高级专用化认证
 ms.topic: article
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 增强合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌/银能力一起获得。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436346"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527013"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>获得先进的专用化来展示专长并向客户 
 

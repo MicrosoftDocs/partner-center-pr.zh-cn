@@ -1,6 +1,6 @@
 ---
 title: 管理客户的 Azure 保留
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435756"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527453"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>为客户管理、取消、交换或退款 Microsoft Azure 预订
 
@@ -40,7 +40,7 @@ ms.locfileid: "86435756"
 
 3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-    | **选择**   | **收件人**    |
+    | **选择**   | **To**    |
     |:-----------------------------|:-----------------|
     | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
     | **访问控制（IAM）**   | 管理对客户预订信息的访问。|

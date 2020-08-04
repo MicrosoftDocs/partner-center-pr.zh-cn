@@ -3,19 +3,28 @@ title: 创建 Office 365 试用邀请
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解合作伙伴如何为其客户端创建和发送试用邀请以试用 Office 365。 合作伙伴很多都是已获授权的订阅顾问。
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120031"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526993"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365
+
+**适用于**
+
+- 合作伙伴中心
+ 
+**相应的角色**
+
+- 顾问
 
 > [!NOTE]
 > 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。

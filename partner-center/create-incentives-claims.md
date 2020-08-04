@@ -1,6 +1,6 @@
 ---
 title: 创建和管理激励声明 |合作伙伴中心
-ms.topic: article
+ms.topic: how-to
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 431b4fa095ecf87f1174d8c5570463bd3f79f21b
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114862"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527790"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>创建和管理奖励申请
 
@@ -33,11 +33,11 @@ ms.locfileid: "87114862"
 
 2.  如果已有正在进行的申请，则“申请概述”页面会显示有关现有申请的状态以及已批准资金、已申请资金和总额的信息。
 
-3.  若要创建新申请，请选择**创建申请**。
+3.  若要创建新声明，请选择 "**创建声明**"。
 
-4.  填写初始窗体并选择 "**创建声明**" 后，会转到 "声明详细信息" 页，您可以在其中添加发票、CSR、证明文档和指标。 如果需要，你还可以添加其他信息。
+4.  填写初始窗体并选择 "**创建声明**" 后，会转到 "声明详细信息" 页，您可以在其中添加发票、CSR、证明文档和指标。 如果需要，还可以添加其他信息。
 
-申请详细信息页面允许你请求组织中的其他人将文档上传到此表单。 对于你上传的每个支持文档，你都可以提供说明性详细信息。 
+可以通过“声明详细信息”页请求组织中的其他人将文档上传到窗体。 对于上传的每个支持文档，可以提供详细信息进行说明。 
 
 ### <a name="manage-your-claims"></a>管理你的申请
 

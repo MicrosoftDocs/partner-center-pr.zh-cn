@@ -1,21 +1,31 @@
 ---
-title: 创建购买提议
+title: 顾问-创建购买提议
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 05/17/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解经过授权的订阅顾问如何使用合作伙伴中心来创建购买产品/服务和自定义 URL，使其包含在 Office 365 试用邀请中。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436266"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526983"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顾问：创建购买提议
+
+**适用于**
+
+- 合作伙伴中心
+ 
+**相应的角色**
+
+- 顾问
+
 
 > [!NOTE]
 > 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。

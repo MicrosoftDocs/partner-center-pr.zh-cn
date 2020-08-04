@@ -1,6 +1,6 @@
 ---
 title: Dynamics 365 CRM 合作伙伴中心的共同销售连接器
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: 将合作伙伴中心的推荐与 Dynamics 365 CRM 同步
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b7124ef2db99e4b6e79ed71c2998973ee3ef126
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435446"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527573"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -111,7 +111,7 @@ ms.locfileid: "86435446"
 
 2. 为（a）添加连接。具有引用管理员凭据的合作伙伴中心用户（b.）以下突出显示的合作伙伴中心事件
 
-   触发器
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="触发器":::
 
 3. 进行这些更新后，你将看到
 

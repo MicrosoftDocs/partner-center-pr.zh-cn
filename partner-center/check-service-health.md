@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114810"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527583"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>检查服务运行状况，以了解客户报告潜在服务问题或服务中断的情况
 
@@ -42,9 +42,11 @@ ms.locfileid: "87114810"
  
 在服务中断期间，随着我们不断努力解决问题，Microsoft 会提供定期更新。 这些通知还会显示在 "Microsoft Azure 门户" 或 "Microsoft 365 管理中心"。
 
-如果在服务中断结束后此问题仍然存在，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
+## <a name="next-steps"></a>后续步骤 
 
-Microsoft 365 和 Microsoft Azure 提供[合作伙伴可用于检索实时服务运行状况](get-automated-service-notifications-with-our-apis.md)、消息中心通信和计划内维护事件的 api。
+- 如果在服务中断结束后此问题仍然存在，请提交服务请求。 请参阅[代表客户报告问题](report-problems-on-behalf-of-a-customer.md)。
+
+- Microsoft 365 和 Microsoft Azure 提供[合作伙伴可用于检索实时服务运行状况](get-automated-service-notifications-with-our-apis.md)、消息中心通信和计划内维护事件的 api。
 
  
 

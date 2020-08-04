@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468515"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527603"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>合作伙伴中心的计费类型-包括基于许可证、基于使用情况和一次性计费
 
@@ -39,3 +39,7 @@ ms.locfileid: "87468515"
 根据为客户购买的具体产品类型，你可能会有不同的计费周期，并且我们可能会在同一月内的不同日期向你收费。
 
 如果已选择按月计费，或已购买按月计费的基于使用情况的产品，则每月计费日期是在合作伙伴中心创建 CSP 帐户时所选月份的日期。 成功创建了 CSP 帐户后，Microsoft 将发送一封包含帐单日期的确认电子邮件。 创建后，不能更改此日期。
+
+## <a name="next-steps"></a>后续步骤
+
+- [了解帐单和对帐文件-了解如何在合作伙伴中心查找这些文件](read-your-bill.md)

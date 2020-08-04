@@ -1,6 +1,6 @@
 ---
 title: 向多个用户分配或撤销许可证
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435566"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527393"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>在客户帐户中同时为多个用户分配或吊销许可证
 
@@ -34,11 +34,6 @@ ms.locfileid: "86435566"
 
 合作伙伴中心将跟踪并显示所有客户拥有的许可权利。
 
-以下部分介绍了如何：
-- [向多个用户分配许可证](#assign-licenses-to-groups)
-- [撤消用户的许可证分配](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>向多个用户分配许可证
 
 1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择一个客户。
@@ -81,7 +76,6 @@ ms.locfileid: "86435566"
 >[!NOTE]
 >某些 Microsoft 产品可能在某些位置不可用。 其他产品依赖于其他产品或服务，或者无法一起分配给同一用户。 保存后，确认页面列出成功分配许可证的所有用户结果和分配许可证中出现的任何错误。
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>撤消用户的许可证分配
 
 1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择一个客户。
