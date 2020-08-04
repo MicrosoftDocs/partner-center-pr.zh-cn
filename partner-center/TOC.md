@@ -156,7 +156,8 @@
 ## [查看客户活动日志](activity-logs.md)
 ## [更新客户帐户信息](update-customer-account-info.md)
 ## [让客户购买他们自己的服务](give-customers-permission.md)
-## [为客户创建多个用户](adding-multiple-users-to-a-customer-account.md)
+## [如何为客户添加多个用户](adding-multiple-users-to-a-customer-account.md)
+## [为客户帐户导入多个用户的文件的必填字段](file-customer-users.md)
 ## [分配支持联系人](assign-support-contacts.md)
 
 # [云解决方案提供商产品/服务](csp-offers.md)
