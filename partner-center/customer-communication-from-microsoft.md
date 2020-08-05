@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: f4c98445345e5e668de2172ab5e922cfb81aa7a8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7b4e244a090b401afe2b0c86a532f5ecc6b5a154
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114353"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545828"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>成功与 Microsoft 进行客户通信的准则
 
@@ -28,3 +28,7 @@ ms.locfileid: "87114353"
 Microsoft 可能会就有关服务事件或其他操作信息与客户直接通讯。
 
 对于与 Microsoft 已存在现有商业关系的客户，Microsoft 将针对非云解决方案提供商产品和服务与客户直接通讯。
+
+## <a name="next-steps"></a>后续步骤
+
+- [通过 Microsoft Office 365 管理中心或 Azure 门户的客户自助支持](customer-self-support.md)

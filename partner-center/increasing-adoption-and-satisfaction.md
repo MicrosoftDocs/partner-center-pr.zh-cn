@@ -1,6 +1,6 @@
 ---
 title: 提高采用率和满意度
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875283"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545928"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作伙伴中心的度量值提高采用和满意度
 
@@ -57,11 +57,11 @@ ms.locfileid: "86875283"
 
 2. 选择 "**分析**"，然后从菜单上的任意 "分析" 选项中进行选择。
 
-3. 若要跨整个客户集下载部署和使用情况数据，请选择 "**导出**（向下箭头）" 选项。
+3. 若要在整个客户集中下载部署和使用情况数据，请选择 "**导出** (向下箭头) " 选项。
 
 术语：
 
-- **权利**= 用户有权使用的许可证（不会因欺诈或非付费而挂起，也不会将其升级到不同的许可证，用户也不会将其取消）。
+- **权利**= 用户有权使用的许可证 (不会因欺诈或非支付而挂起，也不会将其升级到不同的许可证，用户也不会将其取消 ) 
 
 - **Active** = 如果已订阅用户在过去28天的时间内使用了任务的权限。
 
@@ -95,7 +95,7 @@ ms.locfileid: "86875283"
 
 **需要考虑**的事项：客户可能是软件、产品版本或其任务的新用户。
 
-**要尝试**的操作：你可以使用一种双策略来提供培训（以用户或在线方式），以提高客户的整体专业技能，同时还可以提升一些可供客户使用的自助服务选项。
+**要尝试**的操作：你可以使用一种双策略来提供培训 (人员或联机) ，以提高客户的整体专业技能，同时还可提升一些可供客户使用的自助服务选项。
 
 你可能需要重新设计你的支持站点，同时包含[客户自助支持](customer-self-support.md)中介绍的自助服务选项以及支持联系人信息。
 

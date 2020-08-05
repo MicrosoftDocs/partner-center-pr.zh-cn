@@ -1,6 +1,6 @@
 ---
 title: 数字签名功能
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 36ec53708a26b71f96da27978976c4bcf65db906
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: 2509068cc035dda1dc8494a7989bd375a45c6f26
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330159"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545658"
 ---
 # <a name="view-digitally-signed-invoices"></a>查看数字签名发票
 
@@ -24,7 +24,7 @@ ms.locfileid: "87330159"
 - 合作伙伴中心印度
 
 
-印度的合作伙伴现在可以看到，Microsoft 已对发票进行数字签名。 必须使用 Adobe Acrobat 读者文档云（DC）来查看签名。
+印度的合作伙伴现在可以看到，Microsoft 已对发票进行数字签名。 必须使用 Adobe Acrobat Reader Document Cloud (DC) 来查看签名。
 
 ## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>如何查看和确保有效的数字签名
 

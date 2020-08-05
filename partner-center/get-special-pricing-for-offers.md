@@ -1,6 +1,6 @@
 ---
 title: 向特定行业销售
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947402"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545528"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>向特定行业销售，如教育、非营利和政府用户
 
@@ -34,9 +34,9 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 |**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育   |None   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府机关   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   None|
-|非营利组织  |None<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解有关[非赢利特别优惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
+|教育   |无   | 必须是[符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府机关   |若要销售 Azure，请使用[MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|非营利组织  |无<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解[非盈利特惠套餐](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过[Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register)注册以获得资格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
 
@@ -62,9 +62,9 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 ## <a name="purchase-rules-for-special-segments"></a>针对特殊细分市场的购买规则
 
-如果客户满足某些条件，则合作伙伴只能向客户销售特别优惠。 
+合作伙伴只有满足特定条件才能向客户销售特惠套餐。 
 
-- 仅当客户授权为教育机构时，才能购买教育优惠。 教育客户只能接收教育和商业促销活动，而不能接收非利润和政府社区云（GCC）。
+- 仅当客户授权为教育机构时，才能购买教育优惠。 教育客户只能接收教育版和商业用品，而不能接收非盈利和政府社区云 (GCC) 。
 - 合作伙伴只能为 GCC 客户购买 GCC 订阅。 客户拥有 GCC 订阅后，合作伙伴将无法购买商业、教育或非利润订阅。 
 - 合作伙伴只能为非利润客户购买商业或非盈利订阅。 合作伙伴无法为非利润客户购买 GCC 或教育订阅。
 

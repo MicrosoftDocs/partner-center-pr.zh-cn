@@ -1,19 +1,19 @@
 ---
 title: 准备执行证明
-description: 了解执行证明（PoE）、时间线、查看状态和提交指南的重要性。
+description: 了解 (PoE) 、时间线、查看状态和提交指南的执行证明的重要性。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114748"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545938"
 ---
 # <a name="prepare-your-proof-of-execution"></a>准备执行证明
 
@@ -21,7 +21,7 @@ ms.locfileid: "87114748"
 
 - 合作伙伴中心
 
-在支付奖励工作之前，必须提交详细的执行证明（PoE）。 本文将指导你完成创建有效执行证明的过程。
+在支付奖励工作之前，必须 (PoE) 提交详细的执行证明。 本文将指导你完成创建有效执行证明的过程。
 
 适当的角色：
 
@@ -75,7 +75,7 @@ ms.locfileid: "87114748"
    下面是你的合作声明 PoE 的各种可能状态。
 
    - 已提交
-   - 在 "评审" 下（提交 PoE 后，Microsoft 将在该月的最后一天之前完成评审。）
+   - 在 "查看" 下 (Microsoft 将在提交 PoE 后，在该月的最后一天之前完成其审阅。 ) 
    - 必需的操作
    - 正在编辑
    - 已批准

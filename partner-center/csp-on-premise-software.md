@@ -1,6 +1,6 @@
 ---
 title: 通过云解决方案提供商销售本地软件
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434936"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545608"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商（CSP）计划出售本地软件
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商出售本地软件 (CSP) 计划
 
 **相应的角色**
 
@@ -43,10 +43,10 @@ ms.locfileid: "86434936"
 >必须是管理员代理才能获取密钥和下载文件。 
 
 1. 转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。 
-2.  展开要下载的产品。 在“选择产品”字段中，选择所需的“版本”、“语言”和“文件类型/操作系统”。    
+2.  展开要下载的产品。 在“选择产品”字段中，选择所需的“版本”、“语言”和“文件类型/操作系统”。 
 3.  选择“提交”以显示特定产品。 
 4.  选择“获取密钥和下载”。 
-5.  选择“下载”开始下载，或选择“复制链接”以复制链接并将它发送给客户。  
+5.  选择“下载”开始下载，或选择“复制链接”以复制链接并将它发送给客户。 
 
 >[!NOTE]
 >此链接将在两周或 50 次下载后（以先到者为准）过期。 在链接过期后，请返回此页面并再次选择“获取密钥和下载”以启用另一轮两周或 50 次下载的有效期。 可以根据需要多次执行此操作。 

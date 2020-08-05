@@ -1,21 +1,21 @@
 ---
 title: 在合作伙伴中心创建和管理付款资料和税务资料
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: 你必须先创建支出和税务配置文件，然后才能支付奖励。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114086"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546038"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>合作伙伴中心的支出和税务配置文件
+# <a name="payout-and-tax-profiles-in-partner-center"></a>合作伙伴中心中的付款和税务配置文件
 
 适用于：
 
@@ -38,7 +38,7 @@ ms.locfileid: "87114086"
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>访问合作伙伴中心的支出和税务部分
 
-1. 使用 AAD 帐户（公司帐户）登录到合作伙伴中心，或使用适当的电子邮件地址（如果已分配）登录。 
+1. 使用 AAD 帐户登录到合作伙伴中心 (公司帐户) 或适当的电子邮件地址（如果已分配）。 
 
    - 可以在一个 AAD 帐户中注册多个域。 请与全局管理员联系，以确定与哪些域相关联。
    - 如果只能用 **@onmicrosoft.com** 域登录，请与帐户管理员联系，将其他域添加到 AAD 帐户。

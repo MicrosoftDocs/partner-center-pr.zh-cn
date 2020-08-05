@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/29/2020
 description: 收集和创建必要的信息，为奖励计划生成成功的营销计划。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114181"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546018"
 ---
 # <a name="create-your-plan"></a>创建计划
 

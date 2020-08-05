@@ -1,6 +1,6 @@
 ---
 title: 注册云解决方案提供商计划
-ms.topic: article
+ms.topic: how-to
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 67dd4823e5167fb0e0ece692e873cd8cde7013ea
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7ca8db8e2910b4825aab7bda27dfe61dbcd4ca9a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947534"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545858"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -31,7 +31,7 @@ ms.locfileid: "85947534"
 
 美国政府 Microsoft 云提供了 Microsoft Azure 的私有、专用和单独实例，符合美国政府的数据安全、隐私和合规性方面的要求。 贵公司必须满足 Microsoft 的有关加入美国政府 Microsoft 云的 CSP 计划的资格要求。 有关详细信息，请参阅[美国政府 Microsoft 云合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-## <a name="before-you-begin"></a>在开始之前
+## <a name="before-you-begin"></a>开始之前
 
 在你可以注册加入美国政府 Microsoft 云的 CSP 计划之前，我们需要验证贵公司是否满足向美国政府实体进行销售的要求。 开始注册过程之前，请填写 [Microsoft 政府云验证表单](https://azuregov.microsoft.com/csp)，以便我们验证贵公司的资格。 在验证了贵公司的资格后，我们将向你提供特定于美国政府 Microsoft 云的 Azure Active Directory (Azure AD) 租户。  
 
@@ -83,7 +83,7 @@ ms.locfileid: "85947534"
  
 ## <a name="connect-with-us"></a>与我们联系
 
-- 有疑问？ 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
+- 是否有任何问题? 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 上加入我们 
 

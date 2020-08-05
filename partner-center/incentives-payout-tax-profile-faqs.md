@@ -1,21 +1,21 @@
 ---
-title: 奖励支出和税务概况常见问题
+title: 关于奖励付款和税务资料的常见问题解答
 ms.topic: article
 ms.date: 07/21/2020
 description: 有关激励支出和税务配置文件的常见问题。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264224"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545908"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>奖励支出和税务概况常见问题
+# <a name="incentives-payout-and-tax-profile-faqs"></a>关于奖励付款和税务资料的常见问题解答
 
 适用于：
 
@@ -71,4 +71,4 @@ ms.locfileid: "87264224"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [合作伙伴中心的支出和税务配置文件](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [合作伙伴中心中的付款和税务配置文件](incentives-create-and-manage-your-payout-and-tax-profiles.md)

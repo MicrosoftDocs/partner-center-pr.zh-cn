@@ -1,6 +1,6 @@
 ---
 title: 云解决方案提供商区域授权租户合并
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444926"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545648"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并说明
 
@@ -38,13 +38,13 @@ ms.locfileid: "87444926"
 
 ## <a name="prepare-for-migration"></a>准备迁移
 
-- 使用**转换**帐户（将转换为新帐户的帐户）登录到**合作伙伴中心**，并查看为这些客户设置的所有客户和所有服务。
+- 使用过渡帐户登录到**合作伙伴中心** (你**将转换为**新帐户) ，并查看为这些客户预配的所有客户和所有服务。
 
 - 从此帐户中注销。
 
 ## <a name="migrate-customer-accounts"></a>迁移客户帐户
 
-1. 利用**过渡**（新）帐户（你要将客户转换成的帐户）登录到**合作伙伴中心**。
+1. 通过**转换** (新的) 帐户 (要将客户过渡到) 中的帐户登录到**合作伙伴中心**。
 
 2. 选择“客户”。
 
@@ -117,7 +117,7 @@ ms.locfileid: "87444926"
    >[!Note]
    > 禁用客户的订阅后，不会在 "客户" 列表中更改客户的外观。 目前不可选择从列表中删除客户。 合作伙伴应避免向这些客户添加从将来**过渡**到这些客户的订阅。
 
-6. 为所有客户下的所有订阅重复这些步骤，以避免将来**从**帐户进行收费。 合作伙伴将收到带有取消日期和计费周期最后一天之间未使用天数的信用的最终发票。 最终计费周期后不会再生成任何发票。
+6. 为所有客户下的所有订阅重复这些步骤，以停止**从**帐户 () 的将来的收费。 合作伙伴将收到带有取消日期和计费周期最后一天之间未使用天数的信用的最终发票。 最终计费周期后不会再生成任何发票。
 
 ### <a name="additional-information"></a>其他信息
 

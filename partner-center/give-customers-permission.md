@@ -1,7 +1,7 @@
 ---
 title: 让客户在 CSP 中购买自己的服务
 description: 了解 CSP 计划合作伙伴如何允许客户购买其自己的服务（如 Azure 保留），以用于为合作伙伴中心购买的订阅。
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86a3be3b80ff274bb609490f86706178fe3d19d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3327ad560d38de042f42baf1f0a2daedda5d4ecf
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434596"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545638"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>向客户授予合作伙伴中心的权限，以购买自己的产品或服务
 
@@ -28,33 +28,33 @@ ms.locfileid: "86434596"
 - 管理员代理
 - 销售代理
 
-本文介绍了云解决方案提供商（CSP）计划中的合作伙伴如何向客户提供购买一些自己的服务或资源的权限。
+本文介绍云解决方案提供商中的合作伙伴 (CSP) 计划如何向客户提供购买一些自己的服务或资源的权限。
 
 CSP 计划中的合作伙伴通常使用合作伙伴中心及其商业市场为客户购买解决方案和服务。 然后，合作伙伴允许一些客户直接从 Azure 门户预配这些服务。
 
-下面是一个示例。 假设你为合作伙伴中心的客户购买 Azure 计划订阅。 然后，你决定将其他资源或服务代表客户添加到该订阅。 在这种情况下，你可以向客户的订阅添加 Azure 保留项（例如，添加预留的虚拟机实例）。 然后，你可以允许客户在 Azure 门户中进一步预配 Azure 预订资源。
+下面是一个示例。 假设你为合作伙伴中心的客户购买 Azure 计划订阅。 然后，你决定将其他资源或服务代表客户添加到该订阅。 在这种情况下，你可以向客户的订阅添加 Azure 保留 (例如，将预留的虚拟机实例添加) 。 然后，你可以允许客户在 Azure 门户中进一步预配 Azure 预订资源。
 
-现在，通过 "**客户权限**" 功能，你可以向客户提供 Azure 资源的更多自助服务选项。 通过为客户启用权限，你可以让客户购买自己的资源（例如，购买自己的 Azure 预订）。  
+现在，通过 "**客户权限**" 功能，你可以向客户提供 Azure 资源的更多自助服务选项。 通过为客户启用权限，你可以让客户购买自己的资源， (例如购买自己的 Azure 预订) 。  
 
 ## <a name="overview-of-customer-permissions-in-partner-center"></a>合作伙伴中心的客户权限概述
 
-使用 "客户**帐户**" 页可以打开（或关闭）客户权限。 目前，此功能支持：
+使用 "客户**帐户**" 页打开 (或关闭) 客户权限。 目前，此功能支持：
 
 - **Azure 保留：** 如果启用此权限，则客户可以为你为其购买的特定 Azure 订阅购买自己的 Azure 预订。
 
 在打开客户权限之前，请注意以下重要事项：
 
-- 默认情况下，会在合作伙伴中心中自动禁用（关闭）客户权限。
+- 默认情况下， (关闭合作伙伴中心) ，将自动禁用客户权限。
 
-- 在为客户打开（或关闭）权限之前，必须在合作伙伴中心为你分配 "管理员代理" 角色。
+- 你必须在合作伙伴中心为你分配 "管理员代理" 角色，然后才能打开 (或关闭客户的) 权限。
 
   分配有 "销售代理" 或 "技术支持" 代理角色的合作伙伴具有只读访问权限，并且不能打开或关闭客户权限。
 
-- 你可以为所选的任何客户打开（启用）权限。
+- 您可以打开 (为您选择的任何客户启用) 权限。
 
-- 你可以使用合作伙伴中心仪表板或[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/manage-customers)打开（或关闭）客户权限。
+- 你可以使用合作伙伴中心仪表板或[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/manage-customers)打开 (或关闭) 客户权限。
 
-- 为特定客户启用（启用）权限后，你将负责为该客户所进行的任何后续购买付费。 如果客户想要交换、取消或续订已进行的购买（或者他们想要更改预订的初始范围），他们将无法自行完成此操作。 他们需要询问你，作为合作伙伴，帮助他们交换、取消和续订购买，或在以后对预订范围做出更改。  
+- 开启 (为特定客户启用) 权限后，你将负责为该客户所进行的任何后续购买付费。 如果客户想要交换、取消或续订已 (的购买，或者他们想要更改预订) 的初始范围，他们将不能这样做。 他们需要询问你，作为合作伙伴，帮助他们交换、取消和续订购买，或在以后对预订范围做出更改。  
 
 - 为特定客户启用权限后，你将**不**会收到客户对你的任何以后购买的通知。
 
@@ -78,7 +78,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 
 2. 验证是否已为客户分配此订阅的**所有者**角色。
 
-3. 启用客户权限（启用**此功能）** 以购买自己的 Azure 预订。
+3. 启用客户权限 (**在) 上**启用此功能，以购买自己的 Azure 预订。
 
 每个步骤如下所示。
 
@@ -92,7 +92,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 
 ### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>验证是否在 Azure 中为客户分配了正确的角色
 
-验证客户是否有现有 Azure 订阅后，还需要验证与客户关联的密钥用户是否已被分配了正确的 Azure 订阅**所有者**角色。 这是基于角色的访问（RBAC），客户需要为你购买的 Azure 订阅购买 Azure 保留项。
+验证客户是否有现有 Azure 订阅后，还需要验证与客户关联的密钥用户是否已被分配了正确的 Azure 订阅**所有者**角色。 这是基于角色的访问 (RBAC) 客户需要为你购买的 Azure 订阅购买 Azure 保留项。
 
 某些合作伙伴可能已将 "**所有者**" 角色分配给想要主动管理和预配自己的 Azure 资源的客户。 如果已为客户分配了 "**所有者**状态" 以管理为其购买的以前的订阅，则可以跳过此步骤。  
 
@@ -113,9 +113,9 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 
 ### <a name="turn-on-or-turn-off-customer-permissions-to-purchase-their-own-azure-reservations"></a>启用或禁用客户权限以购买自己的 Azure 保留
 
-验证客户是否有现有的 Azure 订阅，并为用户分配了该订阅的**所有者**角色后，便可以打开（启用）客户权限。 你还可以使用这些步骤来关闭（禁用）客户权限。 你可以使用合作伙伴中心仪表板或[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/manage-customers)启用或禁用客户权限。
+验证客户是否有现有的 Azure 订阅，并为用户分配了该订阅的**所有者**角色后，便可以打开 (启用) 客户权限。 你还可以使用这些步骤关闭 (禁用) 客户权限。 你可以使用合作伙伴中心仪表板或[合作伙伴中心 api](https://docs.microsoft.com/partner-center/develop/manage-customers)启用或禁用客户权限。
 
-若要在合作伙伴中心打开（或关闭）客户权限：
+若要打开 (或关闭合作伙伴中心) 客户权限：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
@@ -136,7 +136,7 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 >[!NOTE]
 > 若要了解当你打开客户的权限来购买自己的 Azure 预订时，还会发生什么情况，请参阅[合作伙伴中心的客户权限概述](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)。
 >
->当你打开（或关闭）客户权限时，活动日志将记录每个操作。 （如果从 "合作伙伴中心" 仪表板顶部选择齿轮图标，则可以访问此日志）。 当你打开或关闭客户权限时，该操作将在活动日志中显示为 "**创建客户购买权限**" 或 "**删除客户购买权限**"。
+>打开 (或关闭) 客户权限时，活动日志会记录每个操作。 从 "合作伙伴中心" 仪表板) 顶部选择齿轮图标时， (可以访问此日志。 当你打开或关闭客户权限时，该操作将在活动日志中显示为 "**创建客户购买权限**" 或 "**删除客户购买权限**"。
 
 ## <a name="help-customers-manage-reservations-they-purchase"></a>帮助客户管理他们购买的预订
 

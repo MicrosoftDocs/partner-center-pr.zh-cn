@@ -1,19 +1,19 @@
 ---
 title: 管理客户关联
-description: 了解管理声明的记录合作伙伴（CPOR）客户关联的重要流程和时间线。
+description: 了解管理声明的记录 (CPOR) 客户关联的重要过程和时间线。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114784"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545988"
 ---
 # <a name="manage-customer-associations"></a>管理客户关联
 
@@ -21,7 +21,7 @@ ms.locfileid: "87114784"
 
 - 合作伙伴中心
 
-已声明的记录合作伙伴（CPOR）适用于合作伙伴，以将自己关联到他们要影响其使用或购买 Microsoft 产品的最终客户。 目前，CPOR 平台支持 Business Applications 和 Microsoft 365 产品。 合作伙伴使用此关联方法来深入了解客户的业绩，通过 OSU 和 OSA 计划获得奖励款项，并将收入协会作为业务影响者获得。  
+已声明的记录 (CPOR) 平台合作伙伴可用于合作伙伴将自己关联到他们要影响其使用或购买 Microsoft 产品的最终客户。 目前，CPOR 平台支持 Business Applications 和 Microsoft 365 产品。 合作伙伴使用此关联方法来深入了解客户的业绩，通过 OSU 和 OSA 计划获得奖励款项，并将收入协会作为业务影响者获得。  
 
 适当的角色：
 
@@ -52,7 +52,7 @@ ms.locfileid: "87114784"
 
 | 报销申请状态 | 出现在 |
 | ------ | ----------- | 
-|  编辑  | 已创建你的 CPOR 关联声明。 它将保持此状态，直到上传执行证明文档并提交声明以供审批。   |
+|  正在编辑  | 已创建你的 CPOR 关联声明。 它将保持此状态，直到上传执行证明文档并提交声明以供审批。   |
 |  已提交  | 合作伙伴已成功提交其 CPOR 关联声明，但 Microsoft 尚未开始审核过程。   |
 |  正在评审  | Microsoft 已开始验证你的 PoE 文档。 我们可能会与你联系以了解更多详细信息。 审查流程 SLA 为5个工作日。  |
 |  已拒绝  | 你的 PoE 不足，或者你没有在5个工作日内按照 PoE 审核指导原则进行响应，该声明已被拒绝。   |
@@ -73,7 +73,7 @@ ms.locfileid: "87114784"
 
 如果你的 CPOR 关联声明已拒绝，你将有30天的时间来对拒绝进行争议。 你会收到拒绝通知电子邮件，邮件中还会指出查看拒绝原因的位置以及如何对其提出异议。  
 
-如果已超过30天，但你仍想要对拒绝的声明进行争议，则需要提交新的关联（PoE）。 
+如果已超过30天，但你仍想对拒绝的声明进行争议，则需要提交新的关联 (PoE) 的更新证明。 
 
 ### <a name="to-dispute-a-rejected-claim"></a>对已拒绝的声明进行争议
 
@@ -87,7 +87,7 @@ ms.locfileid: "87114784"
 
 拒绝 CPOR 关联声明有三个主要原因。
 
-**合作伙伴请求：** 合作伙伴可以请求拒绝其关联。 通常，当伙伴由于错误地使用错误的 MPN （CPOR）创建了一个不正确的活动（例如 .。。 你选择了收入关联而不是提前销售），或者不能再与客户合作。
+**合作伙伴请求：** 合作伙伴可以请求拒绝其关联。 通常，当伙伴由于错误地使用错误的 MPN （CPOR）创建了一个不正确的活动 ( 你选择了收入关联而不是售前) ，或者不能再与客户合作。
 
 **客户拒绝：** 成功完成 CPOR 关联声明后，其状态将更改为 "已批准"，同时向客户提供拒绝关联许可的机会。 如果客户拒绝同意，则关联将遭到拒绝。
 

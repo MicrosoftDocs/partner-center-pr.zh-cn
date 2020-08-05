@@ -1,19 +1,19 @@
 ---
 title: 客户关联问题
-description: 了解如何解决在使用声明的记录合作伙伴（CPOR）客户关联时遇到的问题。
-ms.topic: article
+description: 了解如何解决在使用声称的记录 (CPOR) 客户关联的合作伙伴时遇到的问题。
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114530"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546008"
 ---
 # <a name="customer-association-issues"></a>客户关联问题
 
@@ -31,11 +31,11 @@ ms.locfileid: "87114530"
 
 ## <a name="domain-tenant-mismatch"></a>域-租户不匹配
 
-在声明的记录合作伙伴（CPOR）关联声明流中，系统将要求你提供客户租户 ID 和子域。 如果收到指出不匹配的错误，请与客户联系以确保具有正确的详细信息。
+在请求的记录合作伙伴 (CPOR) 关联声明流中，系统将要求你提供客户租户 ID 和子域。 如果收到指出不匹配的错误，请与客户联系以确保具有正确的详细信息。
 
 ## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>CPOR 关联声明流中的订阅错误
 
-在 CPOR 关联声明流中，系统可能会要求你通过 Business Applications （Dynamics 365）为你要尝试声明的产品提供订阅。 我们要求提供订阅，因为我们要动态检查产品和订阅是否属于所申请的租户。 我们还检查订阅是否处于活动/已宽限状态。
+在 CPOR 关联声明流中，系统可能会要求你通过 Business Applications (Dynamics 365) 为你试图声明的产品提供订阅。 我们要求提供订阅，因为我们要动态检查产品和订阅是否属于所申请的租户。 我们还检查订阅是否处于活动/已宽限状态。
 
 如果收到错误，则可能是由于以下几个原因：
 
@@ -62,9 +62,9 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 | 解决方案领域 | 活动 | 适用于 |
 | ------ | ----------- | ----------- |
 | 业务应用程序      | 前   | 如果你影响其对符合条件的产品的购买，并想要申请售前奖励，请选择此项。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
-|    |  用法  | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
+|    |  使用情况  | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
 |    | 收入关联   | 如果影响其对符合业务影响的产品，请选择此项。 此选项仅适用于收入协会，不适用于激励支付。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。   |
-| Microsoft 365   | 用法   | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 |
+| Microsoft 365   | 使用情况   | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 |
 
 ## <a name="which-mpn-do-i-choose"></a>我 MPN 选择哪一种？
 
@@ -80,7 +80,7 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 
 ## <a name="competing-claims"></a>竞争声明
 
-如果要为已与另一个合作伙伴关联的客户及其产品创建 CPOR 关联声明，则声明将通过仲裁：
+如果要为客户创建 CPOR 关联声明，并为已与另一个合作伙伴关联的产品 () ，则声明将通过仲裁：
 
 1. 创建新的客户关联后，Microsoft 将验证关联的详细信息以及提供的执行证明，以确保其准确性。
 
