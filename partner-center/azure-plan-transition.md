@@ -1,6 +1,6 @@
 ---
 title: 将客户从当前的 Azure 产品/服务迁移到 Azure 计划
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解云解决方案提供商合作伙伴如何使用合作伙伴中心将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划下的 Azure 服务。
@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: a2a378107f5a376c78779066c62e8098ae1cdef8
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390344"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527503"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划
 

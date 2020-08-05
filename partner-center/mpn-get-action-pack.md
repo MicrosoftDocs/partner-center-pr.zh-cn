@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114690"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389126"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>购买或续订 Microsoft Action Pack 订阅或白银和黄金资格
 
@@ -32,7 +32,7 @@ ms.locfileid: "87114690"
 - 管理员代理
 - 销售代理
 
-现在，Microsoft 合作伙伴网络 (MPN.md) 的成员可以从合作伙伴中心[面板]()中购买或续订权益产品/服务。 此类产品/服务包括 Microsoft Action Pack 订阅和白银与黄金资格。
+现在，Microsoft 合作伙伴网络 (MPN.md) 的成员可以从合作伙伴中心[面板](https://partner.microsoft.com/dashboard)中购买或续订权益产品/服务。 此类产品/服务包括 Microsoft Action Pack 订阅和白银与黄金资格。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次购买 Microsoft Action Pack
 

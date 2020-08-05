@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943555"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444894"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -55,7 +55,7 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 - 你需要满足[合作伙伴安全要求](partner-security-requirements.md)中列出的所有要求
 - 需要确保合作伙伴租户中的所有用户帐户都已实施多重身份验证。
 
-为帮助确定可执行操作的关键区域，我们提供了 [安全要求状态](https://partner.microsoft.com/pcv/security/compliance)报告，你可通过合作伙伴中心获取此报告。
+为帮助确定可执行操作的关键区域，我们提供了 [安全要求状态](https://partner.microsoft.com/commerce/security/compliance)报告，你可通过合作伙伴中心获取此报告。
 
 有关状态报告的详细信息，请参阅[合作伙伴安全要求状态](partner-security-compliance.md)。
 

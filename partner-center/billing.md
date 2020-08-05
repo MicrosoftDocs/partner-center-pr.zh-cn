@@ -3,18 +3,18 @@ title: 参考 - 合作伙伴中心计费文章
 ms.topic: article
 ms.date: 04/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 Description: 了解合作伙伴中心的计费和税务主题。 信息涵盖计费资源、发票、云解决方案提供商计费和税款。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df4e6932ba1b551403143f154ea1202109369ddb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435576"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527403"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概述：合作伙伴中心的主要计费和税务文章
 
@@ -34,7 +34,6 @@ ms.locfileid: "86435576"
 | ----- | ----------- |
 | [计费基础知识](billing-basics.md) | 合作伙伴中心计费的基础知识（包括付款、发票和对帐文件）。 |
 | [计费类型](billing-different-types.md) | 合作伙伴中心的不同类型计费的说明。 |
-| [按月和按年计费的差异](billing-annual-monthly.md) | 按月和按年计费频率之间的差异的说明。 |
 | [了解帐单](read-your-bill.md) | 如何阅读和了解合作伙伴中心帐单。 |
 | [免费试用](offer-your-customers-trials-of-microsoft-products.md) | 如何向客户提供免费试用版，以及如何对这些试用版进行计费。 |
 | [对帐文件](use-the-reconciliation-files.md) | 如何阅读和使用对帐文件，以便了解明细项目。 |

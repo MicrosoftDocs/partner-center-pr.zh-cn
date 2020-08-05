@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944444"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433900"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -174,7 +174,7 @@ _________________
 
 - 如果尚未激活建议的安全要求来保护租户和用户，请立即执行此操作以保持合规性，并避免在云解决方案提供商计划中管理客户或处理事务时发生业务中断。 不实施安全要求的合作伙伴在参与云解决方案提供商计划时将面临安全风险。
 - 间接提供商必须为其自己的公司实施这些安全要求，并与经销商合作，确保他们也使用此电子邮件目标实施了这些要求。 我们还会通过电子邮件直接与经销商联系。
-- 请访问[合作伙伴中心安全要求状态页](https://partner.microsoft.com/pcv/security/compliance)，确认自己的进度和要采取的关键操作。 与全局管理员协作，为每个租户定期检查安全要求的进度。
+- 请访问[合作伙伴中心安全要求状态页](https://partner.microsoft.com/commerce/security/compliance)，确认自己的进度和要采取的关键操作。 与全局管理员协作，为每个租户定期检查安全要求的进度。
 - 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询控制面板供应商。
 
 ### <a name="additional-resources"></a>其他资源
