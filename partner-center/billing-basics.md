@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435606"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468525"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>合作伙伴中心中的云解决方案提供商计划合作伙伴的计费概述 
 
@@ -49,7 +49,7 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 
 ### <a name="billing-types"></a>计费类型
 
-合作伙伴中心的计费类型包括“基于许可证的计费”、“基于使用情况的计费”和“一次性计费”    。 有关详细信息，请参阅[合作伙伴中心中计费类型](billing-different-types.md)的完整说明。
+合作伙伴中心的计费类型包括“基于许可证的计费”、“基于使用情况的计费”和“一次性计费”    。 
 
 ### <a name="billing-currency"></a>计费货币
 

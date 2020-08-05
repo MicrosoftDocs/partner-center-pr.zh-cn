@@ -9,26 +9,28 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479080"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545538"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-| **类别** | **2020 年 7 月公告** | **已公布** |
+| **类别** | 2020 年 8 月公告 | **已公布** |
 |---------|:---------|:---------|
-|功能|[对企业语音和音频会议扩展拨号发布事项的更改](2020-july.md#10)|7 月 31 日|
+|产品/市场|[全新 Dynamics 365 Sales 高级捆绑产品/服务](2020-august.md#2)|8 月 3 日|
+|产品/市场|[宣布推出 Visio 计划 1 和计划 2 试用套餐](2020-august.md#1)|8 月 3 日|
+| **类别** | **2020 年 7 月公告** | **日期** |
+|产品/市场|[对企业语音和音频会议扩展拨号发布事项的更改](2020-july.md#10)|7 月 31 日|
 |功能|[即将对合作伙伴中心 API 的更改](2020-july.md#9)|7 月 28 日|
 |功能|[.NET Standard 上的 SDK 版本 v1.16.1-preview](2020-july.md#8)|7 月 21 日|
 |功能|[针对 2021 财年加强对符合条件的 Microsoft 商业市场产品/服务的云解决方案提供商 (CSP) 激励](2020-july.md#7)|7 月 22 日|
 |功能|[合作伙伴中心中添加了针对 Insights 报告的新功能](2020-july.md#6)|7 月 16 日|
 |产品/市场|[云解决方案提供商计划中的永久软件](2020-july.md#5)|7 月 15 日|
-| 产品/市场 | [适用于 Teams 的新的 Microsoft 365 企业语音 SKU](2020-july.md#4) | 7 月 3 日 |
 | 产品/市场 | [新的和以停用的 Microsoft Dynamics 365 和 Power Platform 产品及服务](2020-july.md#3) | 7 月 1 日 |
 | 产品/市场 | [Microsoft 已结束 Microsoft Kaizala Pro 独立 SKU 的销售](2020-july.md#2) | 7 月 1 日 |
 | 功能 | [CSP 奖励计划延长到 2021 财年第 1 季度](2020-july.md#1) | 7 月 1 日 |
