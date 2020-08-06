@@ -1,6 +1,6 @@
 ---
 title: 管理客户列表
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377741"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811257"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>管理你的客户列表-搜索、更新或导出合作伙伴中心的客户
 
@@ -39,7 +39,7 @@ ms.locfileid: "86377741"
 2.  若要搜索某个客户，请在搜索框中输入客户名称或域名。
 3.  选择客户行末尾的**向下箭头**，查看其 Microsoft ID 及其关联的订阅和服务快速链接。
 4.  在客户的**帐单邮寄地址**信息下面，更新公司名称。 当你保存新值后，它将会反映在客户列表中。 此操作只会更改帐单邮寄地址中的公司名称和客户列表值。 其他位置均不会反映此项更改。
-<sup>1</sup>
+
 ## <a name="export-your-customer-list"></a>导出客户列表
 
 1. 从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。
@@ -55,7 +55,7 @@ ms.locfileid: "86377741"
     默认情况下，合作伙伴中心将导出整个客户列表，无需考虑长度。 还可按公司名称或域来搜索客户列表，并导出数据子集。
 
 3. 如果是间接提供商，可按间接经销商筛选客户列表。 选择列表中的**按间接经销商筛选**，然后选择经销商。
-<sup>1</sup>
+
 
 ## <a name="export-customer-subscription-information"></a>导出客户订阅信息
 

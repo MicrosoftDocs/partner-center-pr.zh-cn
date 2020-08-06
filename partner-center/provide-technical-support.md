@@ -3,18 +3,18 @@ title: 向客户提供技术支持
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: 了解技术支持云解决方案提供商计划合作伙伴可以为其客户提供的类型。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114507"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87810907"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技术支持以帮助客户配置、管理和使用其订阅
 
@@ -56,13 +56,13 @@ ms.locfileid: "87114507"
 
 - **技术**问题支持通过以下方式提供：
 
-  - 合作伙伴顶级支持（基于费用）
-  - 对合作伙伴的高级支持（基于费用）
+  - 顶级支持合作伙伴 (收费) 
+  - 针对合作伙伴的高级支持 (基于费用的) 
   - 签名云支持（包括金牌/银牌能力）
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 
 
-对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参阅：
+对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详情，请参阅：
 
 - [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

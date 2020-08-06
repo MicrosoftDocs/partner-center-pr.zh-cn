@@ -1,6 +1,6 @@
 ---
 title: 为客户设置 Azure 支出预算
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 description: 了解如何为客户设置或删除每月 Azure 支出预算，同时查看 Azure 支出数据并设置与预算相关的通知。
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a52fa8d490ad43cc1e4f331b1a335004a07c83bd
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377731"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811247"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>为合作伙伴中心的客户设置、检查或删除每月 Azure 支出预算
 
@@ -26,9 +26,9 @@ ms.locfileid: "86377731"
 可以在合作伙伴中心[为客户设置每月 Azure 支出预算](#set-azure-spending-budget)。 这可以帮助客户管理其 Azure 支出。 此选项可让你将客户的 Azure 支出与当月的预算进行比较。 它还可帮助你的客户为其 Azure 支出预算，使每月帐单不会超过预期。
 
 > [!NOTE]  
-> 此功能在生产（TIP）帐户中的沙盒或测试中不可用。
+> 此功能在生产 (TIP) 帐户中不提供沙盒或测试。
 
-[为客户设置 Azure 支出预算](#set-azure-spending-budget)后，还可以通过以下方式查看客户使用情况。 这些选项可帮助你找出配置错误的服务或可能会导致欺诈的异常趋势。 然后，你可以与客户合作来确定根本原因并管理成本。 如果需要，还可以[将客户的预算更改](#set-azure-spending-budget)为较高的金额。
+[为客户 () 设置 Azure 支出预算](#set-azure-spending-budget)后，还可以通过以下方式查看客户使用情况。 这些选项可帮助你找出配置错误的服务或可能会导致欺诈的异常趋势。 然后，你可以与客户 () ，以确定根本原因并管理成本。 如果需要，还可以[将客户的预算更改](#set-azure-spending-budget)为较高的金额。
 
 - [检查当前 Azure 支出](#check-current-azure-spending)
 
@@ -36,13 +36,13 @@ ms.locfileid: "86377731"
 
 - [查看基于使用情况的订阅的按服务列出的费用](#itemized-costs-by-service)
 
-你还可以随时删除客户的[Azure 支出预算](#remove-azure-spending-budget)。
+你还可以随时删除客户 () 的[Azure 支出预算](#remove-azure-spending-budget)。
 
 ## <a name="azure-spending-data"></a>Azure 支出数据
 
 Azure 支出数据是一个*估计值*，*实际计费金额可能会有所不同*。 此数据的值*不会反映*税金、信用额度、调整或可能适用的其他费用。
 
-支出数据*每天刷新一次*。 你的客户可以继续使用 Azure 服务和资源（并向其收费），除非你在 Azure 门户中更改其帐户设置。
+支出数据*每天刷新一次*。 你的客户可以继续使用 (，并向) Azure 服务和资源收费，除非你在 Azure 门户中更改其帐户设置。
 
 ## <a name="set-azure-spending-budget"></a>设置 Azure 支出预算
 
@@ -52,7 +52,7 @@ Azure 支出数据是一个*估计值*，*实际计费金额可能会有所不�
 
 2. 在 " **CSP**" 下的左侧菜单中，选择 " **Azure 支出**"。
 
-3. 在 " **Azure 支出**" 页的 "**具有 Microsoft Azure 订阅的客户**" 下，选择要为其设置预算的客户。
+3. 在 " **Azure 支出**" 页的 "**具有 Microsoft Azure 订阅的客户**" 下，选择要为其设置预算的客户 () 。
 
 4. 为 "**月度预算**" 输入一个值。
 
@@ -74,13 +74,13 @@ Azure 支出数据是一个*估计值*，*实际计费金额可能会有所不�
 
 ## <a name="remove-azure-spending-budget"></a>删除 Azure 支出预算
 
-你可以在合作伙伴中心为你的客户*删除每月 Azure 支出预算*：
+可以在合作伙伴中心为客户 () *删除每月 Azure 支出预算*：
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
 2. 在 " **CSP**" 下的左侧菜单中，选择 " **Azure 支出**"。
 
-3. 在 " **Azure 支出**" 页的 "**具有 Microsoft Azure 订阅的客户**" 下，选择要删除其预算的客户。
+3. 在 " **Azure 支出**" 页的 "**具有 Microsoft Azure 订阅的客户**" 下，选择要删除其预算的客户 () 。
 
 4. 选择 "**删除预算**"。
 
@@ -110,7 +110,7 @@ Azure 支出数据是一个*估计值*，*实际计费金额可能会有所不�
 
 ## <a name="itemized-costs-by-service"></a>按服务列出的成本
 
-可以*按服务查看基于使用情况的订阅的详细成本（和估计使用率）*：
+你可以*查看 (和估计使用情况) 按服务使用基于使用情况的订阅的详细成本*：
 
 1. 登录到合作伙伴中心。
 

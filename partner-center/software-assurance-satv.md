@@ -3,18 +3,18 @@ title: 软件保障培训凭证计划
 ms.topic: article
 ms.date: 06/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 了解如何注册软件保障培训凭证计划，以便你可以获得向企业客户提供培训和规划的补偿。
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436526"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811197"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心的软件保障培训凭证 (SATV) 计划
 
@@ -24,7 +24,7 @@ ms.locfileid: "86436526"
 
 ## <a name="get-started"></a>入门
 
-如果你不熟悉软件保障培训服务，请执行以下所有步骤。 如果您已在训练凭证计划中处于活动状态，请从下面的步骤四（4）开始。 
+如果你不熟悉软件保障培训服务，请执行以下所有步骤。 如果你已在培训凭证计划中活动，请从下面的步骤 4 (4) 开始。 
 
 1. 确认计划资格
 2. 注册培训计划
@@ -61,7 +61,7 @@ ms.locfileid: "86436526"
 
 ## <a name="deliver-training-and-activate-product"></a>提供培训并激活产品
 
-保留凭证以后，即可向客户提供培训。 请参阅培训活动的工作流[步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) ，了解如何激活和购买 Microsoft 官方课件（MOC）、考试和 Microsoft 课程证书凭证（LaaS）以获取 MOOC 课程。
+保留凭证以后，即可向客户提供培训。 请参阅 MOOC 课程 (LaaS) 的培训订婚指导原则和说明，了解如何激活和购买 Microsoft 官方课件 () MOC 的工作流的[步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
 
 ## <a name="redeem-voucher"></a>兑换凭证
 
@@ -76,6 +76,6 @@ ms.locfileid: "86436526"
 
 另请参阅：
 
-- [软件保障培训凭证（SATV）工作流](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
-- [软件保障培训凭证（SATV）常见问题解答](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [软件保障培训凭证（SATV）策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [软件保障培训 (SATV) 工作流的培训](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [软件保障培训 (SATV) 常见问题](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [软件保障培训 (SATV) 策略的培训](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

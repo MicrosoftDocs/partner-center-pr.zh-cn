@@ -1,6 +1,6 @@
 ---
 title: 管理未分配付款
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bddf0482e20817f9087a3610104652dabdef72c4
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436496"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811117"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>管理合作伙伴中心帐单页上的未分配付款
 
@@ -28,7 +28,7 @@ ms.locfileid: "86436496"
 
 1. [登录到合作伙伴中心面板](https://partner.microsoft.com/dashboard/home)。
 
-2. 在左侧菜单中，选择“计费”。 
+2. 在左侧菜单中，选择“计费”。
 
 3. 在 "帐单" 页上，找到 "**未分配的付款**" 部分。 
 

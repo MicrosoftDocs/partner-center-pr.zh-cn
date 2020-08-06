@@ -1,6 +1,6 @@
 ---
 title: 代表客户报告问题
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389136"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811317"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -34,7 +34,7 @@ ms.locfileid: "87389136"
 3. 从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将被重定向到 Microsoft Azure 门户或 Office 365 管理中心。
 
 >[!NOTE]
->支持操作合作伙伴在 CSP 中约束力 Dynamics 365 需要维护对合作伙伴（ASfP）计划或更高版本的高级支持的支持协议。 此支持协议是代表 CSP 客户提交 Dynamics 365 事件所必需的。 [了解](https://partner.microsoft.com/support/partnersupport)有关支持协议选项的详细信息。
+>在 CSP 中，支持运营合作伙伴约束力 Dynamics 365 需要维护对合作伙伴 (ASfP) 计划或更高版本的高级支持的支持协议。 此支持协议是代表 CSP 客户提交 Dynamics 365 事件所必需的。 [了解](https://partner.microsoft.com/support/partnersupport)有关支持协议选项的详细信息。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -84,7 +84,7 @@ ms.locfileid: "87389136"
 
 ### <a name="support-for-commercial-marketplace-products"></a>对商业市场产品的支持
 
-Microsoft 不为商业 marketplace 产品提供产品支持。 需要与发布产品的独立软件供应商（ISV）联系以获得支持。
+Microsoft 不为商业 marketplace 产品提供产品支持。 你需要与发布产品的独立软件供应商 (ISV) 联系以获取支持。
 
 若要查找 ISV 的联系人信息，请执行以下操作：
 
@@ -102,7 +102,7 @@ Microsoft 不为商业 marketplace 产品提供产品支持。 需要与发布�
 
 应通过合作伙伴中心来归档服务请求。 它们适用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企业移动性套件。 作为参与云解决方案提供商计划的合作伙伴，你的主要问题会得到优先响应。
 
-CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，Office 365、Microsoft Dynamics CRM Online 和企业移动性套件不对合作伙伴或客户收取单独的支持订阅费用。 Azure 会向你收取费用，但如果你有资格享受签名云支持或其他 Microsoft 合作伙伴网络（MPN）权益，你可以使用这些权益来支付费用。
+CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，Office 365、Microsoft Dynamics CRM Online 和企业移动性套件不对合作伙伴或客户收取单独的支持订阅费用。 Azure 会向你收取费用，但如果你有资格享受签名云支持或其他 Microsoft 合作伙伴网络 (MPN) 权益，你可以使用这些费用来支付费用。
 
 此权益适用于所有参与云解决方案提供商计划（不管是付费计划还是免费试用计划）的合作伙伴。 帐单和订阅管理支持也作为此程序包的免费组件包含在内。
 
@@ -113,8 +113,8 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 **技术中断修复事件**的初始响应时间：
 
 - 严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
-- 中等影响（严重性 B）：四小时（服务的持续丢失或降低）。 部分受影响的生产服务。）
-- 最小影响（严重性 C）：8小时（服务的最小丢失或降低）。 服务仍处于可用或非生产服务。）
+- 中等影响 (严重性 B) ：四小时， (服务的适中丢失或降级。 生产服务受到部分影响。 ) 
+- 最小影响 (严重级别 C) ：8小时， (最小丢失或服务降级。 服务仍处于可用或非生产服务。 ) 
 
 初始响应时间仅适用于英语语言支持。 在营业时间提供本地语言支持。
 对于落在支持权利边界内的事件，但不视为中断修复事件，初始响应时间可能会长达一天。

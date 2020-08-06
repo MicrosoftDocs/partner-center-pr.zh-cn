@@ -1,6 +1,6 @@
 ---
 title: 请求与客户建立关系
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: 为多合作伙伴、多通道方案请求与客户的关系，或�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943714"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811297"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求经销商关系
 

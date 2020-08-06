@@ -1,6 +1,6 @@
 ---
 title: 将直接帐单合作伙伴切换到间接经销商
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,16 +9,16 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444994"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811187"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商
 
-**适用于：**
+**适用对象：**
 
 - 云解决方案提供商合作伙伴
 
@@ -110,7 +110,7 @@ ms.locfileid: "87444994"
 
 你可以用不同的方式管理直接帐单客户和间接经销商客户。
 
-### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>直接向客户收费（你不会以间接经销商身份执行的操作）
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>直接向客户收费 (你不会作为间接经销商) 
 
 - 为产品创建订单
 - 管理 Azure 预留项
@@ -172,7 +172,7 @@ ms.locfileid: "87444994"
 
 2. 在 "**客户" 页**上，选择现有客户，并单击其 "**快速链接**" 图标以展开客户的 "摘要" 视图。
 
-3. 在 "**间接提供商**" 下，单击 "**在间接提供商上传输客户**"。
+3. 在**间接提供程序 (s) **下，单击 "**在间接提供程序上传输客户**"。
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="将客户转移到间接提供商":::
 
@@ -180,7 +180,7 @@ ms.locfileid: "87444994"
 
 5. 单击“保存并继续”。
 
-6. 验证所选的间接提供程序是否以**间接提供程序**显示。
+6. 验证所选的间接提供程序是否以**间接提供程序 (s) **显示。
 
     :::image type="content" source="images/direct/direct5-2.png" alt-text="列出的间接提供程序":::
 
@@ -236,7 +236,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 - 过渡伙伴会创建订阅传输请求。 请求中包含一个或多个与同一客户关联的现有订阅，并将其发送到间接提供程序。
 
-- 间接提供程序查看并接受（或拒绝）传输请求。
+- 间接提供程序查看并接受 (或拒绝) 传输请求。
 
 - 间接提供程序验证传输请求是否已完成。
 
@@ -263,7 +263,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 2. 在 "**客户**" 页上，选择目标客户，并单击 "快速链接" 图标以展开客户的 "摘要" 视图。
 
-3. 在 "**间接提供程序**" 下，确认列出了预期的间接提供程序。
+3. 在 "**间接提供程序 (s) **" 下，确认列出了预期的间接提供程序。
 
 4. 单击 "**查看订阅**"。
 
@@ -277,7 +277,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="创建传输请求":::
 
-8. 单击 **“创建”** 。
+8. 单击“创建”。
 
 9. "**订阅传输**" 下将显示一个有效的订阅传输请求。
 
@@ -293,7 +293,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 2. 在 "**客户**" 页上，选择目标客户，并单击其 "快速链接" 图标以展开客户的 "摘要" 视图。
 
-3. 在 "**间接经销商**" 下，确认已列出过渡伙伴。
+3. 在 "**间接经销商 (s) **下，确认已列出过渡伙伴。
 
 4. 单击 "**查看订阅**"。
 
@@ -303,7 +303,7 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 6. 在 "**订阅传输**" 下，单击要查看的传输请求。
 
-7. 根据需要单击 "**接受**（或**拒绝**）"。
+7. 根据需要单击 "**接受** (或**拒绝**) 。
 
     :::image type="content" source="images/direct/direct12.png" alt-text="接受传输请求":::
 
@@ -329,25 +329,25 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 5. 验证传输请求是否已标记为已**完成**。
 
-6. 验证 "**订阅**" 页中的订阅是否不再显示为活动状态：
+6. 验证 **"订阅" 页中** () 的订阅不再显示为活动状态：
 
-   1. 如果这是 Azure 订阅（BC-OP-NT-AZR-0145P），则它将不再列出。
+   1. 如果这是 Azure 订阅 (0145P) ，它将不再列出。
 
-   2. 如果这是基于许可证的订阅（Office 365，Dynamics，Intune），则它将以 "已**挂起**" 状态列出。
+   2. 如果这是基于许可证的订阅 (Office 365，Dynamics，Intune) ，它将以 "已**挂起**" 状态列出。
 
    :::image type="content" source="images/direct/direct13.png" alt-text="订阅已挂起":::
 
 ### <a name="considerations"></a>注意事项
 
-- **传输后，订阅 ID 将不同。** 如果是 Azure 订阅（BC-OP-NT-AZR-0145P），则它还将具有 Azure 订阅 ID，该 ID 将从以前的所有者保留，并将显示在 Azure 管理门户中。
+- **传输后，订阅 ID 将不同。** 如果它是 Azure 订阅 (BC-OP-NT-AZR-0145P) ，另外，它将具有 Azure 订阅 ID，该 ID 将从以前的所有者保留，并将显示在 Azure 管理门户中。
 
 - **多个传输请求无法引用同一订阅。** 创建了包含现有订阅的传输请求后，在取消第一个传输请求之前，你无法创建包含同一订阅的其他传输请求。
 
 - **基于许可证的订阅的外接程序必须与其基本订阅一起传输。** 创建传输请求时，如果使用一个或多个加载项选择现有订阅，则该加载项将自动包含在传输请求中。
 
-- **现有传输请求中不会反映对订阅的许可证计数更改。** 创建包含现有订阅的传输请求后，应避免更新订阅（或关联的加载项）的许可证数量。 如果这样做，新数量将不会在传输请求中反映出来。 在间接提供程序接受传输请求后，生成的订阅将具有旧的数量。 如果希望将新数量转移到间接提供程序，必须取消现有的传输请求并重新创建一个新的请求。
+- **现有传输请求中不会反映对订阅的许可证计数更改。** 创建包含现有订阅的传输请求后，应避免更新订阅 (或关联的加载项) 的许可证数量。 如果这样做，新数量将不会在传输请求中反映出来。 在间接提供程序接受传输请求后，生成的订阅将具有旧的数量。 如果希望将新数量转移到间接提供程序，必须取消现有的传输请求并重新创建一个新的请求。
 
-- **并非所有购买都可以使用自助服务订阅传输来传输。** 目前只能使用此功能转移 O365 订阅和 Azure PAYG 订阅（BC-OP-NT-AZR-0145P）。 不支持其他购买内容，包括 Azure 计划、Azure 保留实例、基于字词的订阅和 Azure Marketplace 的 SaaS 订阅。 你将在提交传输请求页中看到无法传输订阅的原因。 若要传输这些订阅，你将需要[取消现有订阅](create-a-new-subscription.md#suspend-or-cancel-a-subscription)，并通过间接提供程序为客户购买新的产品/服务。
+- **并非所有购买都可以使用自助服务订阅传输来传输。** 目前，只能使用此功能)  (BC-OP-NT-AZR-0145P 传输 O365 订阅和 Azure PAYG 订阅。 不支持其他购买内容，包括 Azure 计划、Azure 保留实例、基于字词的订阅和 Azure Marketplace 的 SaaS 订阅。 你将在提交传输请求页中看到无法传输订阅的原因。 若要传输这些订阅，你将需要[取消现有订阅](create-a-new-subscription.md#suspend-or-cancel-a-subscription)，并通过间接提供程序为客户购买新的产品/服务。
 
 - **不能使用沙盒环境进行测试。**
 

@@ -1,6 +1,6 @@
 ---
 title: 重置用户密码
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf6c77652b517b6ce6a6a7eba2a6c5675e7080c1
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: c05e8e4e7fe7e8a7677669e0dcbb7ee3cab08be9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365763"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811287"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>在合作伙伴中心重置用户的密码
 
@@ -27,7 +27,7 @@ ms.locfileid: "87365763"
 - 全局管理员
 
 > [!NOTE]  
-> 如果已在 Microsoft 云德国的云解决方案提供商（CSP）计划中注册，请参阅[德国 Microsoft 云德国的合作伙伴中心的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)，以获取有关重置用户密码的信息。
+> 如果在 Microsoft 云德国 (CSP) 计划中注册了云解决方案提供商，请参阅[Microsoft 云德国合作伙伴中心的用户管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)，以获取有关重置用户密码的信息。
 
 如果用户忘记了密码，请为他们分配一个临时密码。 他们可以在下次登录合作伙伴中心时使用它。
 
