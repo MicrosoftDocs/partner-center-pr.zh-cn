@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545538"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811157"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "87545538"
 
 | **类别** | 2020 年 8 月公告 | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[现已推出新的 Microsoft Teams 高级通信 SKU](2020-august.md#4)|8 月 4 日|
+|产品/市场|[9 月即将推出面向教育服务器的 Microsoft Defender 高级威胁防护 (ATP)](2020-august.md#3)|8 月 4 日|
 |产品/市场|[全新 Dynamics 365 Sales 高级捆绑产品/服务](2020-august.md#2)|8 月 3 日|
 |产品/市场|[宣布推出 Visio 计划 1 和计划 2 试用套餐](2020-august.md#1)|8 月 3 日|
 | **类别** | **2020 年 7 月公告** | **日期** |
