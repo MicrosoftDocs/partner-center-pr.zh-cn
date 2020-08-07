@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何升级或修改客户的订阅。 添加更多许可证、添加更多席位，或迁移到具有更多服务的不同版本。
+description: 了解如何升级或修改客户的订阅。 添加更多许可证，或迁移到具有更多服务的不同版本。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436356"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468776"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证、席位或更多服务
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证或更多服务
 
 **适用于**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436356"
 - 销售代理
 - 支持人员代理
 
-如果你的客户需要的席位多于其当前订阅所能提供的席位，或需要附带其他服务的不同版本，你可以升级该订阅。 有关更多详细信息，请参阅[切换到不同的 Microsoft 365 商业应用版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。 有关详细信息，请参阅[切换到不同的 Microsoft 365 商业应用版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
-## <a name="upgrades-supported-in-the-csp-program"></a>CSP 计划支持的升级<a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>CSP 计划支持的升级<a id="upgradesubscription"></a>
 
 云解决方案提供商支持以下升级：
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>产品/服务</th>
-<th>可用升级</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Microsoft 365 商业应用版</td>
-<td><ul>
-<li>Microsoft 365 商业高级版¹</li>
-<li>Microsoft 365 企业应用版</li>
-<li>Office 365 企业版 E3</li>
-<li>Office 365 企业版 E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 商业标准版</td>
-<td><ul>
-<li>Office 365 企业版 E3</li>
-<li>Office 365 企业版 E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 商业基本版</td>
-<td><ul>
-<li>Microsoft 365 商业标准版¹</li>
-<li>Office 365 企业版 E1</li>
-<li>Office 365 企业版 E3</li>
-<li>Office 365 企业版 E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ Microsoft 365 商业应用版（印度）和 Microsoft 365 商业基本版（印度）可以升级为 Microsoft 365 商业标准版（印度），但不能升级为 Microsoft 365 商业标准版。</p></td>
-</tr>
-</tbody>
-</table>
+| 产品/服务 | 可用升级|
+|---:|:---|
+| Microsoft 365 商业应用版   | - Microsoft 365 商业高级版¹ <br/>  - Microsoft 365 企业应用版 <br/> - Office 365 企业版 E3 <br/> - Office 365 企业版 E5 <br/> |
+| Microsoft 365 商业标准版    | - Office 365 企业版 E3 <br/> - Office 365 企业版 E5 <br/> |
+| Microsoft 365 商业基本版 | - Microsoft 365 商业标准版¹ <br/> - Office 365 企业版 E1 <br/> - Office 365 企业版 E3<br/> - Office 365 企业版 E5 <br/> |
+
+¹ Microsoft 365 商业应用版（印度）和 Microsoft 365 商业基本版（印度）可以升级为 Microsoft 365 商业标准版（印度），但不能升级为 Microsoft 365 商业标准版。
+
+
+## <a name="conditions"></a>条件
 
 如果以下这些条件适用，可升级订阅：
 
@@ -93,7 +60,7 @@ ms.locfileid: "86436356"
 
 在后两种情况下，客户可能已经从其他合作伙伴或其他渠道购买了这些订阅或服务，除非他们先取消已购买的现有订阅或服务，否则他们将无法通过你进行购买。 有关详细信息，请参阅[多渠道](multichannel.md)。
 
-有关将对计费产生的影响的详细信息，请参阅[常见计费方案](common-billing-scenarios.md)中有关取消订阅和添加新订阅的详细信息。
+有关对计费产生的影响的详细信息，请参阅[常见计费方案](common-billing-scenarios.md)中有关取消订阅和添加新订阅的内容。
 
 ## <a name="upgrade-a-subscription"></a>升级订阅
 

@@ -1,7 +1,7 @@
 ---
 title: 恢复 Azure CSP 的管理员权限
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何帮助客户恢复合作伙伴的管理员权限，使合作伙伴能够帮助管理客户的 Azure CSP 订阅。
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949251"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412423"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢复客户的 Azure CSP 订阅的管理员权限  
 
@@ -49,7 +49,7 @@ ms.locfileid: "85949251"
 
 你的客户需要将管理员代理组添加为 Azure CSP 订阅的所有者。
 
-1. 使用 PowerShell 控制台或 PowerShell 集成脚本环境 (ISE)。 确保已安装 AzureRM 和 AzureAD 模块。
+1. 使用 PowerShell 控制台或 PowerShell 集成脚本环境 (ISE)。 确保已安装 AzureAD 模块。
 
 2. 连接到 Azure AD 租户。
 
@@ -62,24 +62,19 @@ ms.locfileid: "85949251"
    ```powershell
    Get-AzureADGroup
    ```
-
-   :::image type="content" source="images/azure/revoke5.png" alt-text="管理员代理组":::
-
    在客户公司中具有 Azure CSP 订阅所有者访问权限的用户执行以下步骤。
 
-4. 具有 Azure CSP 订阅所有者访问权限的用户使用其凭据登录到 Azure 资源管理器。
+4. 具有 Azure CSP 订阅所有者访问权限的用户使用其凭据登录到 Azure。
 
    ```powershell
-   Login-AzureRMAccount
+   Connect-AzAccount
    ```
 
 5. 然后，她可以将管理员代理组作为所有者添加到 CSP Azure 订阅中。
 
     ```powershell
-    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
     ```
-
-   :::image type="content" source="images/azure/revoke6.png" alt-text="管理员代理所有者":::
 
 ## <a name="next-steps"></a>后续步骤
 

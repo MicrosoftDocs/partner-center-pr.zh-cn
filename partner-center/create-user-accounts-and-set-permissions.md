@@ -3,18 +3,18 @@ title: 创建用户帐户并分配角色
 description: 必须先为每个员工分配一个角色，然后他们才能访问合作伙伴中心。 了解如何创建用户帐户、分配角色和设置权限。
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435186"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527733"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>创建用户帐户并分配角色和权限
 
@@ -102,3 +102,7 @@ ms.locfileid: "86435186"
 1. 在合作伙伴中心面板中，选择面板右上角的“我的帐户”图标，然后选择“我的个人资料” 。
 
 2. 在“我的 Learning”下方，可以关联你的 Microsoft Learning 帐户，还可以将你的 Microsoft 帐户连接到 Partner University。
+
+## <a name="next-steps"></a>后续步骤
+
+- [为需要在合作伙伴中心工作的公司用户分配用户角色和权限](permissions-overview.md)

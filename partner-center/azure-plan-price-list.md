@@ -1,6 +1,6 @@
 ---
 title: 云解决方案提供商合作伙伴的 Azure 计划价目表
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6beb9dfe12eb50a1c6185ac251c19c089f760978
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435786"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527553"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表
 
@@ -88,7 +88,19 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 |MeterType|计量类型|
 |标记|项的属性，对于 Azure 计划定价，此字段为 Azure，或 Azure 和预留项（具体而言，是预留项）|
 
-可以从 [Azure 计划定价和市场页](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)导出 Azure 计划的价目表
+可以从[“定价和产品/服务”页面](https://partner.microsoft.com/dashboard/sell/pricingandoffers)导出 Azure 计划的价目表。
+
+## <a name="tiered-pricing"></a>分层定价
+
+某些 Azure 计划使用服务支持分层定价。 合作伙伴可以在 Azure 计划价目表中找到这些产品和 sku。 合作伙伴可以借助在定价层范围列中具有值的项来理解基于使用情况的价格。 在以下示例的样本数据中可以看到，我们有一个具有三个定价层的产品 sku。
+
+|**ProductId**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
+|DDD123456ABC|01AB|.50|100001|9223372036854780000|
+|DDD123456ABC|01AB|.80|101|100000|
+|DDD123456ABC|01AB|1|1|100|
+
+在此示例中，如果使用了 101 个单位，费用为 100.80。 前 100 个单位的价格为每个 1，接下来的那个单位按 .80 收费。
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure 计划的定价 API
 
@@ -99,6 +111,6 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 此 API 还允许合作伙伴检索每月的汇率，因为 Azure 计划定价仅限美元。 可以使用这些 API 检索当月或以前的月份的定价和外汇汇率。
 
 >[!NOTE]
-> 定价 API 特定于 Azure 计划定价。 仍应使用发布到合作伙伴中心的“定价和套餐”页中的现有 RateCard API 和价目表，了解部署到非 Azure 计划订阅的 Azure 资源或预留项。 Azure 计划定价 API 不支持基于软件、市场或席位的定价，例如 Microsoft 365 或 Dynamics 365。
+> 定价 API 特定于 Azure 计划定价。 仍应使用发布到合作伙伴中心的“定价和套餐”页中的现有 RateCard API 和价目表，了解部署到非 Azure 计划订阅的 Azure 资源或预留项。 Azure 计划定价 API 不支持基于软件、市场或许可证的定价，例如 Microsoft 365 或 Dynamics 365。
 
 有关 Azure 计划定价和外汇汇率 API 的详细信息，请参阅完整的[定价 API 文档](https://docs.microsoft.com/partner/develop/pricing)。

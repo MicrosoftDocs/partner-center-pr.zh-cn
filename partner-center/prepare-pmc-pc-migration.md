@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114567"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433895"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
@@ -117,7 +117,6 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 虽然来宾用户可以由 MPN 管理员或全局管理员分配基于使用情况的 Visual Studio 订阅，但来宾用户不能使用其 MSA 登录合作伙伴中心。 不过，来宾用户可以登录 Azure 和 Visual Studio，以便验证和使用分配给他们的权益。
 
-
  **我们应如何管理 MCP 关联和 Partner University 访问权限？**
 
  从 PMC 迁移的 MCP 关联不会有什么更改。 然而，需要在合作伙伴中心将迁移到合作伙伴中心后的任何新员工进行关联。 你所有针对现有用户的 Partner University 权限将保留，不过，任何新员工都应该访问[培训中心](https://partner.microsoft.com/training)获取有关如何获取对 Partner University 的访问权限的信息。
@@ -137,7 +136,9 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 **奖励计划是否会因迁移到合作伙伴中心而受到影响？**
 
-不会，如果你迁移了帐户但没有合并位置，奖励计划则不会受到任何影响。 如果你的企业在 PMC 中有多个帐户，但你迁移到合作伙伴中心并决定合并到一个全局帐户时，不会对奖励造成任何损失，不过可能会稻城奖励付款出现延迟的情况。 如果不迁移所有涉及到奖励计划的 PMC 帐户，你可能会停止获得与这些帐户相绑定的奖励。
+不会，如果你迁移了帐户但没有合并位置，奖励计划则不会受到任何影响。 如果你的企业在 PMC 中有多个帐户，但你迁移到合作伙伴中心并决定合并到一个全局帐户时，不会对奖励造成任何损失，不过可能会稻城奖励付款出现延迟的情况。 
+
+如果不迁移所有涉及到奖励计划的 PMC 帐户，你可能会停止获得与这些帐户相绑定的奖励。
 
 
 **合作伙伴中心中的奖励角色是什么？** 
@@ -160,7 +161,12 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 引荐是根据客户定义的搜索参数分配的。 无论你有一个还是多个位置，如果客户定义了一个所需位置并且你在此位置有满足其他参数的业务，那么引荐则将转至此位置。
 
+**我要从俄罗斯境内迁移到合作伙伴中心。我收到有关 Web Direct 的错误消息。我如何继续进行迁移？**
 
+如果你在加入 Web Direct 计划时收到一条错误消息，应执行以下操作：
+
+1. 登录到 portal.Azure.com，然后创建一个新 Azure AD 租户。 有关详细信息，请参阅[新建 Azure AD 租户](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)。
+1. 创建新的 Azure AD 租户后，可使用它从 Partner Membership Center 迁移到合作伙伴中心，或者在合作伙伴中心注册为全新成员。
 
 
 
