@@ -1,20 +1,20 @@
 ---
 title: 针对最大预留项使用率调整 Azure VM 的大小
 ms.topic: how-to
-ms.date: 07/08/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机（VM）大小调整为客户的计算需求。
+Description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机 (VM) 规模调整为客户的计算需求。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527443"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900117"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 
@@ -23,10 +23,13 @@ ms.locfileid: "87527443"
 - 合作伙伴中心
 - Azure 门户
 - 云解决方案提供商计划中的合作伙伴
+ 
+> [!NOTE]
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读[此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>确定客户的 Azure 预留的 VM 大小
 
-代表你的客户购买 Microsoft Azure 预订时，你需要选择一个规模为满足客户计算需求的虚拟机（VM）。 你可以使用以下方法之一查找此信息：
+在代表客户购买 Microsoft Azure 预订时，你需要选择 (VM) 大小的虚拟机，以满足客户的计算需求。 你可以使用以下方法之一查找此信息：
 
 - Azure 使用率 API
 - Azure 门户

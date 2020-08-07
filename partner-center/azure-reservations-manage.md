@@ -1,7 +1,7 @@
 ---
 title: 管理客户的 Azure 保留
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何管理客户的 Azure 保留，包括如何取消预订、交换预订或请求退款。
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527453"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900076"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>为客户管理、取消、交换或退款 Microsoft Azure 预订
 
@@ -32,6 +32,9 @@ ms.locfileid: "87527453"
 - 销售代理
 - “用户管理”管理员
 
+> [!NOTE]
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读[此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+
 若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
 
 1. 若要开始，请从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择要管理其预留的客户。 
@@ -40,10 +43,10 @@ ms.locfileid: "87527453"
 
 3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-    | **选择**   | **To**    |
+    | **选择**   | **收件人**    |
     |:-----------------------------|:-----------------|
     | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
-    | **访问控制（IAM）**   | 管理对客户预订信息的访问。|
+    | ** (IAM) 的访问控制**   | 管理对客户预订信息的访问。|
     | **配置**   | 更改保留的作用域和/或与之关联的 Azure 订阅。    |
     | **属性**   | 查看预订的属性并将其复制到剪贴板中保留 ID 和预留订单 ID。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
     | **新建支持请求**    | 请求 Microsoft 支持人员提供帮助。   |
@@ -56,12 +59,12 @@ ms.locfileid: "87527453"
 
 ### <a name="how-cancellations-work"></a>如何取消
 
-客户可随时请求取消保留（每年 $50000 的退款量）。 取消预订后，客户可以返回 Azure 预订的剩余月份数，以提前终止费。 剩余的按比例余额减去提前终止费，以使你的帐户获得退款。 
+客户可随时请求取消预留 (每年 $50000 的退款金额) 。 取消预订后，客户可以返回 Azure 预订的剩余月份数，以提前终止费。 剩余的按比例余额减去提前终止费，以使你的帐户获得退款。 
 
 请参阅下面的 "取消详细信息和费用"。
 
 
-|**取消日期**<br> 天数   |**使用情况**    |**额度**  |**提前终止**<br> 费用    |**退款 cap** | 
+|**取消日期**<br>  (天)    |**使用情况**    |**额度**  |**提前终止**<br> 费用    |**退款 cap** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5个或更少                         | 否          | 100%       | 否                              | $50000 USD   |
 |5个或更少                         | 是         | 按比例  | 否                              | $50000 USD   |

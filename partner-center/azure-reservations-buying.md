@@ -1,7 +1,7 @@
 ---
 title: 为客户购买 Microsoft Azure 预订
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435766"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900106"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
 
@@ -31,12 +31,15 @@ ms.locfileid: "86435766"
 - 支持人员代理
 - 销售代理
 - “用户管理”管理员
+ 
+> [!NOTE]
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读[此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
-## <a name="before-you-begin"></a>准备阶段
+## <a name="before-you-begin"></a>开始之前
 
-请先查看下面的重要信息，再代表客户购买 Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。）
+请先查看下面的重要信息，再代表客户购买 Azure 预订。  (你希望客户能够从为他们购买的以前的 Azure 订阅购买自己的 Azure 预订吗？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。 ) 
 
-- 如果客户签署新的 Microsoft 客户协议（请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)），则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅[购买 Azure 计划](purchase-azure-plan.md)。
+- 如果客户签署新的 Microsoft 客户协议 (请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)) ，则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅[购买 Azure 计划](purchase-azure-plan.md)。
 
 - 客户必须已经拥有有效的 Azure 订阅，然后你才能代表他们购买预订
   
@@ -46,7 +49,7 @@ ms.locfileid: "86435766"
 
 - 销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
 
-- 如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则会从你选择的 Azure CSP 订阅继承记录合作伙伴（间接经销商）。
+- 如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则 (间接经销商) 的记录合作伙伴将从你选择的 Azure CSP 订阅继承。
 
 - 无法在购买后更改 Azure 预订的记录合作伙伴。 您可以取消现有预订，并使用新的记录合作伙伴购买新预订。
 
@@ -101,13 +104,13 @@ ms.locfileid: "86435766"
 
 ## <a name="purchase-azure-reservations"></a>购买 Azure 预留项
 
-按照以下步骤在合作伙伴中心购买 Microsoft Azure 预订。 （是否希望客户可以从为他们购买的以前的 Azure 订阅购买自己的 Azure 保留？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)。）
+按照以下步骤在合作伙伴中心购买 Microsoft Azure 预订。  (你希望客户能够从为他们购买的以前的 Azure 订阅购买自己的 Azure 预订吗？ 请参阅[授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)。 ) 
 
 1. 从 "合作伙伴中心" 菜单中选择 "**客户**"。  
 
 2. 在 "**客户**" 页上，找到想要购买 Azure 预订的客户，然后选择向下箭头以展开客户的行。  
 
-3. 依次选择“添加产品”、“Azure”。  
+3. 依次选择“添加产品”、“Azure”。 
 
     a. 从“细分市场”列表中选择该客户的细分市场。
 
@@ -122,7 +125,7 @@ ms.locfileid: "86435766"
 
 5. 使用筛选器查找满足客户要求的虚拟机上的 Azure 保留项。  
 
-6. 找到要购买的预订后，输入客户将在 "**数量**" 中所需的保留实例数，然后选择 "**添加到购物车**"。  
+6. 找到要购买)  (的预订后，输入客户在**数量**中所需的保留实例数，然后选择 "**添加到购物车**"。  
 
 7. 重复步骤5和步骤6，直到将所有必需的项添加到订单中。 选择“查看”以确认订单是否正确无误。  
 
