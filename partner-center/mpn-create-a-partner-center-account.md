@@ -1,7 +1,7 @@
 ---
 title: 创建合作伙伴中心帐户
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作伙伴网络成员如何创建合作伙伴中心帐户，以便管理其网络权益和资格。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114718"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998399"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务合作伙伴中心帐户来管理网络权益和资格
 
@@ -65,6 +65,45 @@ ms.locfileid: "87114718"
     a. 在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home**)中，选择“设置”图标，然后选择“用户管理”。  
 
     b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择“管理员代理”。 选择“更新”。  
+
+## <a name="view-mpn-account-details"></a>查看 MPN 帐户详细信息
+
+创建合作伙伴中心帐户后，可以返回到合作伙伴中心来查看不同的帐户详细信息。 其中许多信息都显示在合作伙伴中心[面板](https://partner.microsoft.com/dashboard)的**合作伙伴简介**页面上。
+
+此类详细信息包括：
+
+- 公司的法定实体简介
+
+- 关于你的 MPN ID 的信息
+
+- 与注册的 Microsoft 计划关联的当前协议的链接
+
+  例如，如果已在 MPN 计划中注册，将看到当前 Microsoft 合作伙伴网络协议的链接。 如果你已在其他合作伙伴计划（如云解决方案提供商 (CSP) 计划）中注册，还可以看到其他协议的链接，例如 Microsoft 合作伙伴协议。 
+
+  > [!NOTE]
+  > 如果要查看、访问或下载协议，或者检查签名日期，那么查看这些类型的链接可能会很有用。
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>如何查看帐户详细信息或查看和下载 MPN 协议
+
+请遵循以下步骤操作，查看帐户详细信息或查看和下载 MPN 协议：
+
+1. 使用工作帐户的用户名和密码登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
+
+2. 此时将出现“概述”页。 （如果看不到“概述”页，请从左侧导航菜单中选择“概述”。）
+
+3. 选择仪表板右上角的齿轮图标，然后选择“合作伙伴设置”。 这会转到“合作伙伴简介”页。
+
+4. 在“合作伙伴简介”页上，将看到不同的区域。 其中包括“法定实体简介”区域和“计划信息”区域 。
+
+5. 在“计划信息”下，找到“MPN 计划状态”字段 。 此时将显示 Microsoft 合作伙伴网络协议的链接。 它还说明了计划中的当前状态。
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="显示“合作伙伴简介”页上的“计划信息”区域的图像，其中包含一个红色框，突出显示了此区域中的“MPN 计划状态”字段及其与 Microsoft 合作伙伴网络协议的关联链接。":::
+
+6. 若要查看或下载此协议，请选择“Microsoft 合作伙伴网络协议”。  
+
+> [!NOTE]
+> 如果你在云解决方案提供商 (CSP) 计划中注册，还可以使用上述步骤来查看或下载其他已注册计划的其他协议，例如 Microsoft 合作伙伴协议。
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114053"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998396"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>在续订时段内续订 Microsoft Action Pack 和资格的 MPN 产品/服务
 
@@ -40,11 +40,13 @@ Microsoft Action Pack 和能力是为 Microsoft 合作伙伴网络成员提供�
 
 ## <a name="responding-to-covid-19"></a>用于应对新冠肺炎疫情的措施：
 
-为了帮助你专注于为客户提供支持，如果你的周年日日期介于 2020 年 1 月 1 日到 6 月 30 日之间，我们会将现有的一项或多项能力延长到下一个周年日日期，即 2021 年的那个周年日。 你的能力续订提醒将因此更新，以体现此新产品/服务。 
+帮助你专注于支持你的客户： 
+
+- 如果你的周年日日期介于 2020 年 7 月 1 日到 12 月 31 日之间，我们会将现有的一项或多项能力延长到下一个周年日日期，即 2021 年的那个周年日。 你的能力续订提醒将因此更新，以体现此新产品/服务。 
 
 - 如果你的能力即将需要续订，你会在合作伙伴中心看到你的需求已经得到满足。 若要续订，你将需要于续订时段内，在“会员产品/服务”页上支付能力费用。 
 
-- 如果已经错过了续订时段，可以通过在“会员产品/服务”页上支付费用，重新激活能力并重新获得资源和权益。 此延长信息的有效期至 2020 年 6 月 30 日。   
+- 如果已经错过了续订时段，可以通过在“会员产品/服务”页上支付费用，重新激活能力并重新获得资源和权益。此延期在 2020 年 12 月 31 日前有效。
 
 ### <a name="how-to-view-this-information"></a>如何查看此信息
 

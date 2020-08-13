@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389126"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998373"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>购买或续订 Microsoft Action Pack 订阅或白银和黄金资格
 
@@ -72,6 +72,13 @@ ms.locfileid: "87389126"
 
 每年在此日期你的 Action Pack 订阅都将自动续订。 可以随时从你的“已购买”套餐列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
 
+### <a name="update-your-bill-to-address"></a>更新帐单地址
+
+在续订或购买 Action Pack 的过程中，你有机会验证你的帐单地址。
+
+ 1. 选择“提交”后，可以查看购买的详细信息。 如果你需要更新地址，请选择“更新”。
+  
+ 1. 在“合作伙伴简介”页上，更新地址。
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>关闭 Action Pack 订阅自动续订
 

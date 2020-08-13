@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434316"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839182"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 
@@ -46,6 +46,7 @@ ms.locfileid: "86434316"
 ||*    查看所有合作伙伴档案
 ||*    查看、创建和管理合作伙伴用户  |
 |计费管理员 | - 查看、创建和管理帐单、发票与对帐文件|
+||*    查看定价
 |默认用户|  查看“我的个人资料”   |
 |管理员代理 | *    客户管理
 ||*    将设备列表添加到合作伙伴中心
@@ -62,6 +63,7 @@ ms.locfileid: "86434316"
 ||*    订阅管理
 ||*    查看支持票证
 ||*    请求与客户建立关系
+||*    查看定价和套餐
 ||*    管理潜在顾客
 ||*    查看客户协议
 ||*    注册增值经销商|

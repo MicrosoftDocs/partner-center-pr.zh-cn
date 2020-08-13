@@ -9,18 +9,98 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/03/2020
-ms.openlocfilehash: ec9dc4110e4cd0d980142d012a570b84c864f14a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546683"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811097"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
 本页详述了 Microsoft 合作伙伴中心 2020 年 8 月公告。
 
 2020 公告：[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7月](2020-july.md) | 8 月
+
+________________
+
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>现已推出新的 Microsoft Teams 高级通信 SKU
+### <a name="categories"></a>类别
+
+- 日期:2020-08-04
+- 产品/市场
+
+### <a name="summary"></a>摘要
+
+2020 年 8 月 1 日推出了新的 Microsoft Teams 高级通信加载项 SKU。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+新的 Microsoft Teams 高级通信加载项的定价为每用户每月 12 美元。 可以在包含 Microsoft Teams 的任何其他 Microsoft 365 套件基础上购买该加载项 SKU。 除了用于 IT 管理的高级工具外，高级通信还提供一组新的用于大型会议、通信策略和集成的功能。 
+
+#### <a name="advanced-communications-features"></a>高级通信功能
+
+已在推出时发布
+- 直播活动仅限 2 万名参加者（50 人并发，16 小时）
+- 符合性录制集成 (ISV) 
+- 联系中心解决方案集成 (ISV) 
+
+已在 2020 日历年晚些时候发布
+- 1,000 人的交互式 Teams 会议 
+- 1,000 名参加者的交互式会议，可支持多达 20,000 人的“仅限观看”会议体验。 
+- 自定义品牌的会议厅
+- 其他自定义项、工具和通信增强功能将在整个日历年内陆续添加到该 SKU
+
+#### <a name="offer-details"></a>产品/服务详细信息
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |高级通信|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
+   |面向教职员工的高级通信|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |面向学生的高级通信|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
+
+#### <a name="frequently-asked-questions"></a>常见问题
+
+- **什么是高级通信？** 这种新的 Microsoft Teams 加载项使客户能够进一步增强其通信体验。 可以在具有相关订阅的任何 Microsoft 365 SKU 的基础上购买该加载项。
+- **它的费用是多少？** 商用 ERP 的定价是每用户每月 12 美元。 
+- **哪些客户可以购买该加载项？** 商业、全球商业公共部门、教育和非营利组织。
+- **如何购买它？** 可以通过 EA/EAS、EES、CSP 或 Web Direct 购买该加载项。
+- **它在何处销售？** 它可以在所有当前市场中销售。
+- **先决条件是什么？** 任何包含 Microsoft Teams 的 Microsoft 365/Office 365 套件。
+
+### <a name="next-steps"></a>后续步骤
+
+- 与组织中的相关联系人共享此信息，并了解追加销售和交叉销售机会。 查看 [Teams 合作伙伴指南](https://aka.ms/teamscallingmeetingsguide)的“资源”部分。
+
+________________
+
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>9 月即将推出面向教育服务器的 Microsoft Defender 高级威胁防护 (ATP)
+### <a name="categories"></a>类别
+
+- 日期:2020-08-04
+- 产品/市场
+
+### <a name="impacted-audience"></a>影响受众
+
+参与 CSP 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+面向教育服务器的 Microsoft Defender 高级威胁防护 (ATP) 将于 2020 年 9 月 1 日在云解决方案提供商 (CSP) 计划中推出。
+
+#### <a name="product-details"></a>产品详细信息
+
+- 产品/服务名称：用于教育服务器的 Microsoft Defender ATP
+- Offer ID: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
+
+### <a name="next-steps"></a>后续步骤
+
+- 请与贵组织中的相应联系人共享此信息。
+- 有关产品的详细信息，请阅读 [Microsoft Defender ATP 文档](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)。
 
 ________________
 
