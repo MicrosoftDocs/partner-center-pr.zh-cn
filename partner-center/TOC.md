@@ -102,6 +102,7 @@
 ### [分析业务资料](analyze-your-marketing-profile.md)
 ## 奖励
 ### 即刻体验奖励
+#### [入门](incentives-get-started-intro.md)
 #### [确定你的程序资格](incentives-determined-your-program-eligibility.md)
 #### [在合作伙伴中心创建和管理付款资料和税务资料](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [关于奖励付款和税务资料的常见问题解答](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [查看奖励付款和计划](understand-incentive-payouts.md)
 #### [访问奖励付款页](incentives-unified-user-guide.md)
 ### 计划和执行证明
+#### [关于计划和 PoE](incentives-plans-proofs-intro.md)
 #### [创建计划](incentives-create-your-plan.md)
 #### [准备执行证明](incentives-prepare-your-proof-of-execution.md)
 ### 奖励合作申请
-#### [奖励](claims-overview.md)
+#### [关于合作申请](claims-overview.md)
 #### [创建和管理奖励合作申请](create-incentives-claims.md)
 #### [奖励合作申请的核心要求](core-requirements.md)
 #### [合作申请批准和付款的截止时间](incentives-managing-co-op-claims.md)
 ### 奖励 CPOR 关联申请
+#### [关于 CPOR 关联](incentives-customer-associations-intro.md)
 #### [使用 CPOR 模型创建客户关联](submit-osa-claim.md)
 #### [管理客户关联](incentives-manage-customer-associations.md)
 #### [客户关联问题](incentives-customer-association-issues.md)
