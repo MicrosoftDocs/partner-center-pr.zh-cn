@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9be334b02576927231b9cdde1114ce013ed1018b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436716"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239065"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
 
@@ -26,7 +26,7 @@ ms.locfileid: "86436716"
 
 Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包括按计量类别分类的 Azure 消耗收入和使用量。 你可以从 Azure 使用情况报表查看以下部分。
 
-- 总结
+- 摘要
 - 地域的 Azure 使用情况
 - Azure 利用率
 
@@ -35,7 +35,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 **摘要**
 
-"摘要" 部分提供了与为客户销售或管理的 Azure 订阅相关的关键性能指标（Kpi）的快照视图。  
+"摘要" 部分显示关键绩效指标的快照视图，这些指标与为客户销售或管理的 Azure 订阅相关 (Kpi) 。  
 
 - Azure 订阅：在所选日期范围内销售或拒绝 azure 订阅的当前计数。
 
@@ -45,22 +45,22 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 微图显示了所选日期范围内 Azure 活动订阅计数的月月趋势。
 
-- Azure 消耗收入（ACR）：在所选日期范围内对你进行了控制的 Azure 已用收入总计（US $）。
+- Azure 消耗收入 (ACR) ：在所选日期范围内， (US $) 的 Azure 消耗总收入。
 在选定的日期范围内，特性化 ACR US $ 的增长或拒绝百分比。 
 
 微图显示了 ACR US $ 对所选时间段的按月趋势
 
 
 > [!NOTE]
- > 仅向已分配了执行报表查看器角色的用户显示 Azure 消耗收入（ACR）。
+ >  (ACR) 的 Azure 使用收入将仅对已分配有执行报表查看器角色的用户可见。
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 使用情况摘要":::
 
 **地域的 Azure 使用情况**
 
-"**按地理位置列出的 azure 使用率**" 视图显示了 azure 使用收入（ACR US $）或所有或所选 azure 服务级别/计量类别的使用时间的地理分布。 地图上较亮的颜色表示较小的值，而较暗的颜色表示较高的值。 您可以在网格中搜索并选择国家/地区以缩放到 
+**Azure 使用量（按地理位置**）视图显示 azure 消费收入的地理分布 (ACR US $) 或所有或选定的 Azure 服务级别/计量类别的使用时间（小时）。 地图上较亮的颜色表示较小的值，而较暗的颜色表示较高的值。 您可以在网格中搜索并选择国家/地区以缩放到 
 
-"**国家/地区**" 表中显示了在其中生成 Azure 使用情况事件的国家/地区的数量。
+" **国家/地区** " 表中显示了在其中生成 Azure 使用情况事件的国家/地区的数量。
 
 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 选择映射上的 " **Home** " 选项以恢复到原始视图。
 
@@ -76,4 +76,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 ## <a name="next-steps"></a>后续步骤
 
-- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。
+- 有关更多报表，请参阅 [合作伙伴中心见解](partner-center-insights.md)。
+
+>[!NOTE] 
+> 你可以从见解仪表板中的 "下载报表" 部分下载此报表的原始数据。 [了解详细信息](pci-download-reports.md) 

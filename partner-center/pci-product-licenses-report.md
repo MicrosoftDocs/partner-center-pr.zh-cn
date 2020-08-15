@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444842"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239045"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
 
@@ -36,7 +36,7 @@ ms.locfileid: "87444842"
 
 **摘要**
 
-"摘要" 部分提供了与销售、部署和使用的云产品许可证关联的关键绩效指标（Kpi）的快照视图。 这可帮助你跟踪针对销售给客户的许可证的活动使用情况。
+"摘要" 部分提供了一个快照，其中包含与销售、部署和使用的云产品许可证关联的关键绩效指标 (Kpi) 。 这可帮助你跟踪针对销售给客户的许可证的活动使用情况。
 
 - 许可证：为基于许可证的云产品（例如 O365、Dynamics、M365、Power BI 等）销售或管理的所有许可证的当前计数。这些许可证在所选日期范围内的增长百分比或拒绝百分比。
 
@@ -56,11 +56,11 @@ ms.locfileid: "87444842"
 
 **许可证的地理分布**
 
-**许可证地理**范围视图显示当前许可证和客户市场活动许可证的地理分布。 （**当前**许可证计数还包括未分配的许可证。）
+**许可证地理**范围视图显示当前许可证和客户市场活动许可证的地理分布。  (**当前** 许可证计数还包括未分配的许可证。 ) 
 
-**国家/地区数量**表示有当前和活动客户许可证的国家/地区的总数。
+**国家/地区数量** 表示有当前和活动客户许可证的国家/地区的总数。
 
-您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按下地图上的**Home**选项，恢复为默认视图。 将鼠标悬停在地图上，按客户的国家/地区查看当前许可证和活动许可证。 网格中的两个字段均可排序。
+您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按下地图上的 **Home** 选项，恢复为默认视图。 将鼠标悬停在地图上，按客户的国家/地区查看当前许可证和活动许可证。 网格中的两个字段均可排序。
 
 :::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="许可地域传播":::
 
@@ -76,10 +76,13 @@ X 轴表示所选日期范围内的月份。 Y 轴表示添加的许可证计数
 
 **许可证分发**
 
-此视图按产品和客户的国家/地区显示客户许可证的细分。 当你在 "**产品**饼图" 中选择产品时，相邻图表将显示按客户区域划分的许可证细分。
+此视图按产品和客户的国家/地区显示客户许可证的细分。 当你在 " **产品** 饼图" 中选择产品时，相邻图表将显示按客户区域划分的许可证细分。
 
 :::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="许可证分发":::
 
 ## <a name="next-steps"></a>后续步骤
 
-有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。
+有关更多报表，请参阅 [合作伙伴中心见解](partner-center-insights.md)。
+
+>[!NOTE] 
+> 你可以从见解仪表板中的 "下载报表" 部分下载此报表的原始数据。 [了解详细信息](pci-download-reports.md)
