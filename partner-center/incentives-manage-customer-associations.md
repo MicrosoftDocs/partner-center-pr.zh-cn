@@ -4,16 +4,16 @@ description: 了解管理声明的记录 (CPOR) 客户关联的重要过程和�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: how-to
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545988"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303172"
 ---
 # <a name="manage-customer-associations"></a>管理客户关联
 
@@ -33,7 +33,7 @@ ms.locfileid: "87545988"
 
 如果已进行 CPOR 关联声明，并已获得批准，则现在与客户关联。 这并不意味着批准的奖励收益或付出的比率。 激励计划指南概述了根据批准的声明支付奖励的资格要求。
 
-可以在[Microsoft 合作伙伴网络](https://aka.ms/partnerincentives)中找到奖励收视指南。
+可以在 [Microsoft 合作伙伴网络](https://aka.ms/partnerincentives)中找到奖励收视指南。
 
 如果你的 CPOR 关联声明已获批准并且符合激励条件，则可以在 "收益和支出" 报表中验证订阅或租户 ID。 
 
@@ -46,7 +46,7 @@ ms.locfileid: "87545988"
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>查看 CPOR 关联声明的状态
 
-你可以使用 "[客户关联" 仪表板](https://partner.microsoft.com/dashboard/incentives/claims/associations)随时查看 CPOR 关联声明的状态。
+你可以使用 " [客户关联" 仪表板](https://partner.microsoft.com/dashboard/incentives/claims/associations)随时查看 CPOR 关联声明的状态。
 
 下面是状态及其含义：
 
@@ -79,7 +79,7 @@ ms.locfileid: "87545988"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 2. 打开要对其进行争议的声明。
-3. 在 "声明" 页上，选择 "**争议**"。
+3. 在 "声明" 页上，选择 " **争议**"。
 4. 输入业务理由，并/或已更新的 PoE，解释拒绝应很少见的原因。
 5. 添加完信息后，选择“提出异议”。 我们的审阅者应在5个工作日内与你联系。
 
@@ -121,4 +121,4 @@ ms.locfileid: "87545988"
 
 ## <a name="view-claim-history"></a>查看声明历史记录
 
-在 CPOR 关联声明中，在右上角有一个 "**历史记录**" 按钮，可用于查看从合作伙伴和审阅者角度对此声明执行的所有更改、注释和操作。
+在 CPOR 关联声明中，在右上角有一个 " **历史记录** " 按钮，可用于查看从合作伙伴和审阅者角度对此声明执行的所有更改、注释和操作。

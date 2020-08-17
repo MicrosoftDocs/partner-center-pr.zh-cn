@@ -4,16 +4,16 @@ description: 了解如何解决在使用声称的记录 (CPOR) 客户关联的�
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546008"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303253"
 ---
 # <a name="customer-association-issues"></a>客户关联问题
 
@@ -48,11 +48,11 @@ ms.locfileid: "87546008"
 
 如果对订阅准确性有疑问，请与客户合作，确保订阅正确并使用正确的租户 ID。
 
-如果此路由尚未解决你的问题，请联系[支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+如果此路由尚未解决你的问题，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
 ## <a name="when-subscriptions-will-be-available-to-claim"></a>订阅将可用于声明
 
-在为订阅申报时，如果尚未预配订阅，你将会收到错误。 客户需要执行几个步骤，以便 CPOR 平台可以选择订阅并使其可供声明使用。 如果你在尝试声明订阅时收到错误，请与你的客户联系，以确保它已预配，并且你所申报的订阅是正确的。 如果已创建此路由，请联系[支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+在为订阅申报时，如果尚未预配订阅，你将会收到错误。 客户需要执行几个步骤，以便 CPOR 平台可以选择订阅并使其可供声明使用。 如果你在尝试声明订阅时收到错误，请与你的客户联系，以确保它已预配，并且你所申报的订阅是正确的。 如果已创建此路由，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
 ## <a name="which-activity-do-i-choose"></a>我应选择哪种活动？
 
@@ -72,7 +72,7 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 
 如果你不知道要使用哪种 MPN，请联系你的全局管理员。
 
-如果你想要使用的 MPN 未注册，你可以在[激励概述选项卡](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)中对其进行管理。
+如果你想要使用的 MPN 未注册，你可以在 [激励概述选项卡](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)中对其进行管理。
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>选择产品与输入订阅
 
@@ -88,7 +88,7 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 
 3. 可能会从两个伙伴请求其他信息，这可能会导致延迟处理您的关联请求。
 
-4. 你_的 CPOR_关联声明仍将在五个工作日内查看，但其状态可能会持续很长一段时间。 当 Microsoft 与当前拥有产品/工作负载的合作伙伴合作时，可能会发生这种情况。 如果出现这种情况，你将在声明的 "评论" 部分中收到通知。 
+4. 你 _的 CPOR_ 关联声明仍将在五个工作日内查看，但其状态可能会持续很长一段时间。 当 Microsoft 与当前拥有产品/工作负载的合作伙伴合作时，可能会发生这种情况。 如果出现这种情况，你将在声明的 "评论" 部分中收到通知。 
 
 >[!IMPORTANT]
 >如果我们需要其他信息来验证你的 CPOR 关联 PoE，我们将通过 CPOR 关联声明评论部分与你联系。

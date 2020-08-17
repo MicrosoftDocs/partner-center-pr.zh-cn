@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 收集和创建必要的信息，为奖励计划生成成功的营销计划。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546018"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303243"
 ---
 # <a name="create-your-plan"></a>创建计划
 
@@ -44,15 +44,15 @@ ms.locfileid: "87546018"
 
 2. 在左侧导航栏的“奖励”下，选择“计划”，然后选择你的计划 。 
 
-3. 在 "**程序**" 页上，找到计划的适当市场，然后选择 "**创建计划**"。 
+3. 在 " **程序** " 页上，找到计划的适当市场，然后选择 " **创建计划**"。 
 
-4. 在 "**新建计划**" 页上，填写必填字段。 **货币**是您希望计划反映的值。 **审阅者电子邮件**应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存” 。
+4. 在 " **新建计划** " 页上，填写必填字段。 **货币** 是您希望计划反映的值。 **审阅者电子邮件** 应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存” 。
 
 5. 在计划的状态页上，查看显示的信息。 选择“编辑”以更新任何信息。
 
-6. 如果此页上的信息正确，请选择 "**新建市场活动**"。
+6. 如果此页上的信息正确，请选择 " **新建市场活动**"。
 
-7. 完成 "**新建活动**" 页上的必填字段，然后选择 "**保存**"。
+7. 完成 " **新建活动** " 页上的必填字段，然后选择 " **保存**"。
 
 8. 在状态页上，选择“新建活动”。 
 

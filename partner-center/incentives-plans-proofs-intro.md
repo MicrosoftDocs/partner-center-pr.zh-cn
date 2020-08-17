@@ -4,16 +4,16 @@ description: 了解激励所需的关键文档，包括激励的合作声明计�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4b65252b48d9be0c26600721427f9a95ea2266be
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88110552"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303133"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>使用这些资源来帮助你创建激励计划和执行证明
 
@@ -36,13 +36,13 @@ ms.locfileid: "88110552"
 
 ## <a name="what-is-an-incentives-co-op-claims-plan"></a>什么是激励合作声明计划？
 
-奖励合作声明计划介绍了营销活动、活动以及使程序取得成功所需的其他详细信息。 一旦你创建了此计划，你就可以将其提交给 Microsoft 进行审批。 详细了解如何[创建计划](incentives-create-your-plan.md)。
+奖励合作声明计划介绍了营销活动、活动以及使程序取得成功所需的其他详细信息。 一旦你创建了此计划，你就可以将其提交给 Microsoft 进行审批。 详细了解如何 [创建计划](incentives-create-your-plan.md)。
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>什么是 (PoE) 的执行证明？
 
 为奖励工作付费后，必须将详细的执行证明 (PoE) 提交给 Microsoft。 你的 PoE 可能包含有关任何相关市场活动、奖励活动发生的日期、所申请的数量等的详细信息。 
 
-详细了解如何[准备执行证明](incentives-prepare-your-proof-of-execution.md)。
+详细了解如何 [准备执行证明](incentives-prepare-your-proof-of-execution.md)。
 
 ## <a name="incentives-document-resources"></a>激励文档资源
 
@@ -55,6 +55,6 @@ ms.locfileid: "88110552"
 
 ## <a name="next-steps"></a>后续步骤
 
-- 了解如何[创建自己的计划](incentives-create-your-plan.md)
+- 了解如何 [创建自己的计划](incentives-create-your-plan.md)
 - 了解有关激励合作[声明过程](claims-overview.md)的详细信息
-- 了解[使用 CPOR 模型的激励客户关联](submit-osa-claim.md)
+- 了解 [使用 CPOR 模型的激励客户关联](submit-osa-claim.md)
