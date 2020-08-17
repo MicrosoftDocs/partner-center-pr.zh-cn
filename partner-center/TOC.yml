@@ -41,7 +41,7 @@
       href: advanced-specializations.md
     - name: 成为 Azure 专家 MSP
       href: azure-expert-msp.md
-    - name: 优势
+    - name: 优点
       items:
         - name: 权益概述
           href: manage-your-partner-network-benefits.md
@@ -276,7 +276,7 @@
       items:
         - name: 公司增值税信息
           href: organization-tax-info.md
-        - name: 确保你因预缴税金而获得免税
+        - name: 接收预扣税额度
           href: withholding-tax-credit-form.md
         - name: Office 365 合作伙伴咨询：云解决方案提供商计划中的 Microsoft 365 商务语音
           href: o365-partner-advisory.md
@@ -458,6 +458,8 @@
           href: pci-azure-usage-report.md
         - name: 见解 - 培训仪表板
           href: pci-training-dashboard.md
+        - name: Insights - Microsoft Learn 分析
+          href: ms-learn-analytics.md
         - name: 见解 - 能力报表
           href: pci-competencies-report.md
         - name: 见解 - 权益报表
