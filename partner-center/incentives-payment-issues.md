@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 了解如何解决缺失或不正确的收益、资格问题，以及如何协调奖励收益等问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6c56fe41d6a12a2e6337dba5bc611124eeaf3429
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545918"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303153"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>排查付款和收益问题
 
@@ -33,11 +33,11 @@ ms.locfileid: "87545918"
 
 ## <a name="how-long-does-it-take-for-microsoft-to-approve-my-pending-payout-andor-tax-profiles"></a>Microsoft 批准待处理付款和/或税务配置文件需要多长时间？
 
-验证最多可能需要 48 小时。 在此期间，“概述”页面上的配置文件状态将显示为“正在验证注册”。 完成此过程后，状态将显示为 "已**注册**" （如果成功）或 "**需要操作–更新付款" 和/或 "税务详细信息**" （如有必要）。
+验证最多可能需要 48 小时。 在此期间，“概述”页面上的配置文件状态将显示为“正在验证注册”。 完成此过程后，状态将显示为 "已 **注册** " （如果成功）或 " **需要操作–更新付款" 和/或 "税务详细信息** " （如有必要）。
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>如何得知我是否正确填写了付款和税务配置文件？
 
-注册状态显示在“概述”页面上。 完成配置文件的创建后，状态将为 "**正在验证注册**"。 验证你的信息后，你的状态将更改为 "已**注册**"。 这表示付款和税务配置文件以及注册已成功完成。
+注册状态显示在“概述”页面上。 完成配置文件的创建后，状态将为 " **正在验证注册**"。 验证你的信息后，你的状态将更改为 "已 **注册**"。 这表示付款和税务配置文件以及注册已成功完成。
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>为什么需要更新税务配置文件才能将其用于新的激励计划？
 
@@ -56,21 +56,21 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
   **检查您的资格**
 
-  1. 登录合作伙伴中心：[合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
+  1. 登录合作伙伴中心： [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
   
   2. 向下滚动到程序的文档。
   
-  3. 选择所需的文档链接，然后查看**合作伙伴资格**和**合格收入规则**部分。
+  3. 选择所需的文档链接，然后查看 **合作伙伴资格** 和 **合格收入规则**部分。
 
 - **你的付款配置文件可能不完整。** 奖励收益开始日期将是你满足所有资格要求（包括加入时需要填写付款和税务详细信息）的当月的第一天。 对于填写付款和税务信息之前的几个月，你将不会获得任何收益。 例如，如果你在 2020 年 4 月满足了所有要求，则收益开始日期为 2020 年 4 月 1 日。
 - **您可能有一个未完成的操作**。  这可能是由于奖励没有得到处理，因为你有待处理的未完成操作。
 
   **查看未完成的操作**
 
-  1. 登录合作伙伴中心：[合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
-  2. 打开 "**事务历史记录**" 页。 查看此页中的字段，以查看要完成的任何未完成的操作，如**待定税务配置文件**、**挂起的付款配置文件**或**待定的税务发票提交**。
+  1. 登录合作伙伴中心： [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
+  2. 打开 " **事务历史记录** " 页。 查看此页中的字段，以查看要完成的任何未完成的操作，如 **待定税务配置文件**、 **挂起的付款配置文件**或 **待定的税务发票提交**。
 
-如果这些操作没有帮助，但你的付款仍缺失或不正确，请联系[支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+如果这些操作没有帮助，但你的付款仍缺失或不正确，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>为什么我的合作申请款项采用了两种不同的货币支付？
 
@@ -88,7 +88,7 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 - **你的付款配置文件可能不完整。**  奖励收益开始日期将是你满足所有资格要求（包括加入时需要填写付款和税务详细信息）的当月的第一天。 对于填写付款和税务信息之前的几个月，你将不会获得任何收益。 例如，如果你在 2020 年 4 月满足了所有要求，则收益开始日期为 2020 年 4 月 1 日。
 
-如果你已经完成了符合性要求，其中包含有关时间的支出和税务详细信息，但仍找不到收入，请联系[支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+如果你已经完成了符合性要求，其中包含有关时间的支出和税务详细信息，但仍找不到收入，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
 ## <a name="my-earnings-are-missing-or-incorrect"></a>我的收入缺失或不正确
 
@@ -98,7 +98,7 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 - **可能存在差异。**  如果你具备合作伙伴资格且符合合格的收益规则，但所看到的收益仍然错误，请参阅[如何识别收益和付款差异](https://support.microsoft.com/help/4534675)，了解获取所有收益和相应交易的步骤。
 
-如果这些操作无法提供帮助，但仍找不到利润或仍认为收入不正确，请与[支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门联系。
+如果这些操作无法提供帮助，但仍找不到利润或仍认为收入不正确，请与 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门联系。
 
 ## <a name="how-do-i-reconcile-my-earnings"></a>如何实现协调我的收入？
 
@@ -120,4 +120,4 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 2. 登录后，向下滚动以访问感兴趣的计划的文档，然后单击文档链接以查看相应的计划。
 
-3. 在文档中，请参阅**计划结构和速率**部分。
+3. 在文档中，请参阅 **计划结构和速率**部分。

@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何访问适用于独立软件供应商的 Windows 应用和游戏、MPN 激励和商业 Marketplace 支付的费用信息。
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 88d8f0e4045f37401c66da96784772aa4038ab96
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 5ae7f13f7373370789c9db35d546e90b3d32b9db
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114735"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303113"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>访问 Windows 应用和游戏的付款页面、MPN 激励和商业市场支付
 
@@ -28,8 +28,10 @@ ms.locfileid: "87114735"
 
 适用于你的支出帮助信息取决于你使用的是哪个合作伙伴计划。 若要查看适用于你的页面，请在下面选择相应的链接：
 
-- 有关 Windows 应用和游戏付款的详细说明，请参阅 Windows 开发人员文档中的 "[支出摘要](https://docs.microsoft.com/windows/uwp/publish/payout-summary)"。
+- 有关 Windows 应用和游戏付款的详细说明，请参阅 Windows 开发人员文档中的 " [支出摘要](https://docs.microsoft.com/windows/uwp/publish/payout-summary) "。
 
-- 对于 Microsoft 合作伙伴网络（MPN）激励付款，请参阅 MPN 激励文档中的[查看激励付款信息](understand-incentive-payouts.md)。
+- 有关 Microsoft 合作伙伴网络 (MPN) 激励付款，请参阅 MPN 激励文档中的 [查看激励付款信息](understand-incentive-payouts.md) 。
 
-- 有关适用于独立软件供应商（Isv）的商业 Marketplace 支付的信息，请参阅[商业市场费用摘要](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary)。
+## <a name="next-steps"></a>后续步骤
+
+- 有关适用于独立软件供应商的商业 Marketplace 支付 (Isv) 的信息，请参阅 [商业市场费用摘要](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary)。
