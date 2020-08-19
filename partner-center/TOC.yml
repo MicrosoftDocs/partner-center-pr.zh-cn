@@ -171,8 +171,6 @@
     - name: 引荐概述
       href: referrals.md
       items:
-        - name: 回应引荐
-          href: responding-to-referrals.md
         - name: 管理业务配置文件
           href: create-a-marketing-profile.md
         - name: 管理潜在客户
@@ -193,8 +191,12 @@
       items:
         - name: 即刻体验奖励
           items:
+            - name: 常见问题
+              href: incentives-faq.md
             - name: 入门
               href: incentives-get-started-intro.md
+            - name: 注册参与奖励计划
+              href: incentives-enroll.md
             - name: 确定你的程序资格
               href: incentives-determined-your-program-eligibility.md
             - name: 在合作伙伴中心创建和管理付款资料和税务资料
