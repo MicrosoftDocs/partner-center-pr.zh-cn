@@ -9,14 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecc7d73734ab0d5312293f7ab8335bda76eea6e6
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
+ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811337"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "88584676"
 ---
-# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>如何在合作伙伴中心删除与客户的分销商关系
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>如何在合作伙伴中心移除与客户的经销商关系
 
 **适用于**
 
@@ -24,12 +24,12 @@ ms.locfileid: "87811337"
 
 本文介绍如何在合作伙伴中心删除与客户的分销商关系。
 
-直接合作伙伴：如果你不再与某一客户交易，可以在合作伙伴中心删除关系。
+直接伙伴或间接提供商：如果你不再与客户约束力，可以删除合作伙伴中心的关系。
 
-删除关系具有以下结果：
+删除关系会出现以下结果：
 
 - 从你在合作伙伴中心的客户列表中删除相应客户
-- 从客户的[可用客户支持联系人列表](assign-support-contacts.md)中将你删除
+- 将你从你的客户的 [可用支持联系人列表](assign-support-contacts.md) 中删除
 - 删除你对相应客户的委派管理员权限
 - 阻止你为客户进行未来购买
 
@@ -39,9 +39,9 @@ ms.locfileid: "87811337"
 
 1. **暂停任何活动订阅。**
 
-   1. 从合作伙伴中心，前往 "**客户**" 并选择一个客户
+   1. 从合作伙伴中心，前往 " **客户** " 并选择一个客户
 
-   2. 在 "**订阅**" 下，选择订阅。
+   2. 在 " **订阅**" 下，选择订阅。
 
    3. 选择**挂起**的
 
@@ -49,14 +49,14 @@ ms.locfileid: "87811337"
 
 2. **删除合作伙伴中心的关系：**
 
-   a. 从合作伙伴中心，前往 "**客户**" 并选择一个客户。
+   a. 从合作伙伴中心，前往 " **客户** " 并选择一个客户。
 
    b. 选择“帐户”。
 
-   c. 选择 "**删除分销商关系**"。
+   c. 选择 " **删除分销商关系**"。
 
    > [!NOTE]
-   > 如果任何订阅仍处于活动状态，则 "**删除分销商关系**" 链接将处于非活动状态。
+   > 如果任何订阅仍处于活动状态，则 " **删除分销商关系** " 链接将处于非活动状态。
 
 ## <a name="next-steps"></a>后续步骤
 
