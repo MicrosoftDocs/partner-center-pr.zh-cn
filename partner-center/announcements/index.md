@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220202"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303283"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "88220202"
 
 | **类别** | 2020 年 8 月公告 | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[更新到 Microsoft 365 语音促销](2020-august.md#7)|8 月 14 日|
 |功能|[.NET Standard 上的 SDK 版本 v1.16.1](2020-august.md#6)|8 月 12 日|
 |功能|[即将推出自助购买 Microsoft Project 和 Microsoft Visio 的服务](2020-august.md#5)|8 月 12 日|
 |产品/市场|[现已推出新的 Microsoft Teams 高级通信 SKU](2020-august.md#4)|8 月 4 日|
