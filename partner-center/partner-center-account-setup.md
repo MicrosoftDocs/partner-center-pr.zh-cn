@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365773"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215576"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
@@ -118,6 +118,7 @@ ms.locfileid: "87365773"
 |-----------------------|:-----------------------|
 |确保你公司的档案是最新的   |[更新你的合作伙伴个人资料](update-your-partner-profile.md)|
 |添加新用户|[创建用户帐户并分配权限](create-user-accounts-and-set-permissions.md)|
+|查找验证的状态|[验证帐户信息](verification-responses.md)|
 |必须为公司内使用合作伙伴中心工作的每位员工分配角色。 每个角色都具备特定权限和任务。|[创建用户帐户和设置权限](create-user-accounts-and-set-permissions.md)|
 |查看每个角色所需的权限|[为用户分配角色和权限](permissions-overview.md)
 |管理公司的位置|[管理合作伙伴帐户：位置](manage-locations.md)
@@ -127,3 +128,4 @@ ms.locfileid: "87365773"
 |务必推广公司，以便客户能够找到你   |[创建业务资料](create-a-marketing-profile.md)|
 |整理目录，以便最重要的产品位于列表顶部   |[自定义目录](customize-the-catalog.md)|
 |关注当前定价和套餐的最新消息   |[定价和套餐](pricing-and-offers.md)|
+|API：验证合作伙伴 MPN ID|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
