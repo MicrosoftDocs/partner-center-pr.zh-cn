@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811317"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781829"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -23,7 +23,11 @@ ms.locfileid: "87811317"
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
-如果客户遇到了无法解决的服务问题，并且满足[向 Microsoft 上报问题](escalate-problems-to-microsoft.md)中所述的条件，则可以为他们提供支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。 
+**相应的角色**
+
+- 间接提供商
+
+如果你的客户遇到了无法解决的服务问题，并满足 [向 Microsoft 上报问题](escalate-problems-to-microsoft.md)中所述的条件，则你的间接提供商可以为他们提供支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
@@ -34,14 +38,14 @@ ms.locfileid: "87811317"
 3. 从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将被重定向到 Microsoft Azure 门户或 Office 365 管理中心。
 
 >[!NOTE]
->在 CSP 中，支持运营合作伙伴约束力 Dynamics 365 需要维护对合作伙伴 (ASfP) 计划或更高版本的高级支持的支持协议。 此支持协议是代表 CSP 客户提交 Dynamics 365 事件所必需的。 [了解](https://partner.microsoft.com/support/partnersupport)有关支持协议选项的详细信息。
+>在 CSP 中，支持运营合作伙伴约束力 Dynamics 365 需要维护对合作伙伴 (ASfP) 计划或更高版本的高级支持的支持协议。 此支持协议是代表 CSP 客户提交 Dynamics 365 事件所必需的。 [了解](https://partner.microsoft.com/support/partnersupport) 有关支持协议选项的详细信息。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > 如果需要在 Azure 中为客户创建服务请求，请注意：
 >
->- 若要在 Azure 中为客户创建服务请求，你的间接提供商必须授予你该客户的 Azure 帐户的访问权限。 这不同于代表 Office 365 客户进行管理。
+>- 为了使你作为间接经销商，为你的客户在 Azure 中创建服务请求，你的间接提供商必须授予你对客户的 Azure 帐户的访问权限。 这不同于代表 Office 365 客户进行管理。
 >
 >- 合作伙伴中心的支持管理员不能在 Azure 服务门户中创建服务请求，而只能在 Azure 服务门户中创建支持组，为该组提供记录支持请求的权限。
 
@@ -73,14 +77,14 @@ ms.locfileid: "87811317"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、企业移动性套件
 
-1. 在 "**创建服务请求**" 部分中，选择相应的支持类别。 可能需要选择 "**更多 ...** " 才能查看其他文章。
+1. 在 " **创建服务请求** " 部分中，选择相应的支持类别。 可能需要选择 " **更多 ...** " 才能查看其他文章。
 
 2. 完成服务请求表单，然后选择“提交”****。
 
    > [!TIP]
    > 请确保其中包含的是你的联系人信息，而不是客户的。
 
-3. 稍后，转到 Office 365 管理中心，然后选择 "**查看所有支持票证**"，查看客户的服务请求。
+3. 稍后，转到 Office 365 管理中心，然后选择 " **查看所有支持票证**"，查看客户的服务请求。
 
 ### <a name="support-for-commercial-marketplace-products"></a>对商业市场产品的支持
 
@@ -127,7 +131,7 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 
 如果直接登录到 Microsoft Azure 门户，则可以在自己的上下文中查看中心，而不是客户的上下文。 这就是为什么你只应在为自己的订阅创建服务请求时直接登录到 Microsoft Azure 门户。
 
-你的 CSP 计划支持权限不提供对你自己的合作伙伴订阅的支持。 因此，在创建涉及你自己的合作伙伴订阅的服务请求时，需要提供有效的支持计划权利。 示例包括 MPN 合同 ID、高级版或 Azure 支持计划。 有关详细信息，请参阅[Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
+你的 CSP 计划支持权限不提供对你自己的合作伙伴订阅的支持。 因此，在创建涉及你自己的合作伙伴订阅的服务请求时，需要提供有效的支持计划权利。 示例包括 MPN 合同 ID、高级版或 Azure 支持计划。 有关详细信息，请参阅 [Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
 **如果登录到 Office 365 管理中心门户并绕过合作伙伴中心，会发生什么情况？**
 
