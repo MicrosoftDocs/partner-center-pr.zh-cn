@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560215"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799822"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理和导出激励计划的详细信息
 
@@ -144,7 +144,7 @@ ms.locfileid: "88560215"
 |即将处理      |支付订单在处理付款之前生成待定内部评审。       |否       |
 |等待纳税发票      |您的纳税发票不完整或无效。          |必须更新纳税发票，才能收到付款         |
 |审查期间被拒绝        |付款在评审期间被拒绝。          |有关详细信息，请联系 Microsoft 支持人员         |
-|已失败        |由于 Microsoft 系统错误，付款失败。         |有关详细信息，请联系 Microsoft 支持部门         |
+|失败        |由于 Microsoft 系统错误，付款失败。         |有关详细信息，请联系 Microsoft 支持部门         |
 |正在学习     |付款正在进行。         |否         |
 |付款不正确        |付款 recouping 正在进行。          |否        |
 |已发送        |已将付款发送到银行。          |否       |
@@ -198,6 +198,14 @@ ms.locfileid: "88560215"
 
 |**列名**   |**说明**   |
 |------------------|:-------------------------------------|
+| AR 相容性 | 当合作伙伴不按时支付 Microsoft 发票时，减少收入的调整 |
+| 合作翻转 | 将共同市场收入转移到其他期间或将合作收入转换为折扣的调整 |
+| Ops 调整 Microsoft 不正确计算器 | 更正计算错误的调整 |
+| Ops 调整 Microsoft 错误注册 | 与注册相关的计算错误的调整 |
+| 策略例外 | 替代程序规则的调整  |
+| Ops 调整 | 更正 Microsoft 系统计算错误的调整 |
+| 上期收益 | 当前收入期间之外的收入调整 |
+|  (订阅的合作伙伴映射) MCI/CSP | 纠正订阅不一致的调整 |
 |customerId   |客户标识符   |
 |customerName   |事务客户名称   |
 |earningAmount   |按原始交易币种的收入金额   |
