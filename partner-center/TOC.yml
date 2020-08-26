@@ -9,6 +9,8 @@
       href: mpn-create-a-partner-center-account.md
     - name: 获取工作电子邮件地址
       href: buy-email-domain.md
+    - name: 帐户设置疑难解答
+      href: troubleshoot-account-sign-n.md
     - name: 迁移到合作伙伴中心
       items:
         - name: 从 PAC 迁移 - 概述
@@ -35,6 +37,8 @@
           href: mpn-get-action-pack.md
         - name: 续订套餐
           href: renew-mpn-offers.md
+        - name: 查找你的 MPN 权益
+          href: mpn-find-benefits.md
     - name: 资质
       href: learn-about-competencies.md
     - name: 高级专业
