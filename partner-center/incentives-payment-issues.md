@@ -1,31 +1,32 @@
 ---
 title: 排查付款和收益问题
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: 了解如何解决缺失或不正确的收益、资格问题，以及如何协调奖励收益等问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303153"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893463"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>排查付款和收益问题
 
-适用于：
+**适用**于：
 
 - 合作伙伴中心
 
-本文将帮助你解决激励计划中的任何收益或付款问题。 涉及的主题包括付款时间、检查收入资格以及正确设置支出和税务配置文件的重要性。
-
-适当的角色：
+**适当的角色**：
 
 - 奖励管理员
+
+
+本文将帮助你解决激励计划中的任何收益或付款问题。 涉及的主题包括付款时间、检查收入资格以及正确设置支出和税务配置文件的重要性。
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>谁可以创建或更新组织的支出和税务配置文件？
 
@@ -37,7 +38,7 @@ ms.locfileid: "88303153"
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>如何得知我是否正确填写了付款和税务配置文件？
 
-注册状态显示在“概述”页面上。 完成配置文件的创建后，状态将为 " **正在验证注册**"。 验证你的信息后，你的状态将更改为 "已 **注册**"。 这表示付款和税务配置文件以及注册已成功完成。
+注册状态显示在“概述”页面上。 完成配置文件的创建后，状态将为 " **正在验证注册**"。 验证你的信息后，你的状态将更改为 "已 **注册**"。 此状态表示你的支出和税务配置文件以及你的注册已成功完成。
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>为什么需要更新税务配置文件才能将其用于新的激励计划？
 
@@ -96,7 +97,32 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 - **你可能没有满足相应要求。**  请检查你是否具备[资格](#my-payment-is-missing-or-incorrect)以及是否符合所需奖励的合格收益规则。
 
-- **可能存在差异。**  如果你具备合作伙伴资格且符合合格的收益规则，但所看到的收益仍然错误，请参阅[如何识别收益和付款差异](https://support.microsoft.com/help/4534675)，了解获取所有收益和相应交易的步骤。
+- **可能存在差异。**  如果你同时满足合作伙伴资格和符合条件的收入规则并且仍显示错误收益，以下信息可能会帮助你检索数据。
+ 
+通过单击合作伙伴中心导航栏上的 "**支出**" 图标，可以通过**交易历史记录**或合作伙伴中心的**付款**来查看收入。 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="事务信息":::
+
+交易历史记录视图中的每月收益量可能与特定月份收到的付款金额不符。 这是因为对未来的支付期进行了重新计算和调整。
+
+例如，9月2019日处理的2019年9月收益的调整将不会反映在9月2019的收入金额中;但是，在收到九月2019年9月的付款时，它将包括9月2019的调整时间。
+在这种情况下，您需要下载事务详细信息，以获得您的付款中包含的所有收益的完整视图。  此外，您还可以导航到 "付款" 视图以下载每个付款的交易。
+
+### <a name="transaction-history"></a>交易历史记录
+
+此视图允许您按月、按状态和交易详细信息以及每个交易的付款状态查看收入和付款趋势。 只有已为其分配了激励用户或管理员角色的程序和 MPN ID 的数据才可见。
+
+### <a name="payments"></a>支付
+
+此视图允许查看所有程序和 MPN ID 的付款。 只有已为其分配了激励用户或管理员角色的程序和 MPN ID 的数据才可见。 在此视图中，可以下载汇款或者按付款查看交易详细信息。 
+
+向下滚动到 "付款" 部分 **列表** ，按行查看付款信息，并按本地货币列出收入和付款金额。 单击 " **付款汇款** " 以下载汇款信。 单击 " **查看** " 以打开新选项卡，并查看特定付款的事务级别详细信息。 
+
+若要将事务详细信息导出到 Excel，请单击 " **开始下载** "，然后单击 " **导出数据**"。 注意：所有选定的筛选器将应用于导出的数据。 状态更改为 "已完成" 后，可以单击 "下载"，然后按照提示导出详细的事务报表。 如果状态在五分钟内未更新，请刷新页面。 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>收入和付款缺失或不正确
+
+如果找不到付款或事务详细信息，请检查是否应用了正确的筛选器。 某些程序名称已更改，这可能需要 (多个选择，例如 CSP 1T 直销合作伙伴、CSP 直销合作伙伴) 。
 
 如果这些操作无法提供帮助，但仍找不到利润或仍认为收入不正确，请与 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门联系。
 
@@ -110,8 +136,6 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 3. 验证你是否满足要求。  请检查你是否具备[资格](#my-payment-is-missing-or-incorrect)以及是否符合所需奖励的合格收益规则。
 
-4. 确定是否存在差异。  如果你具备合作伙伴资格且符合合格的收益规则，但所看到的收益仍然错误，请参阅[如何识别收入和付款差异](https://support.microsoft.com/help/4534675)，了解获取所有收益和相应交易的步骤。
-
 如果这些操作没有帮助，且你的收益仍未对帐，请联系[支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
 ## <a name="where-can-i-find-my-rates"></a>在哪里可以找到我的费率？
@@ -121,3 +145,7 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 2. 登录后，向下滚动以访问感兴趣的计划的文档，然后单击文档链接以查看相应的计划。
 
 3. 在文档中，请参阅 **计划结构和速率**部分。
+
+## <a name="next-steps"></a>后续步骤
+
+- [管理合作声明](incentives-managing-co-op-claims.md)
