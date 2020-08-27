@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527733"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846927"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>创建用户帐户并分配角色和权限
 
@@ -45,14 +45,28 @@ ms.locfileid: "87527733"
 
 用户将需要使用其用户名和临时密码来登录合作伙伴中心。 当用户首次登录到合作伙伴中心时，系统会提示他们更改密码。 
 
+## <a name="find-the-role-youve-been-assigned"></a>查找已分配的角色
 
-### <a name="find-your-global-admin"></a>查找全局管理员
+如果全局管理员没有告诉你，你可以通过执行以下操作来了解你在合作伙伴中心具有哪些角色：
+
+1. 登录到合作伙伴中心 [面板]https://partner.microsoft.com/dashboard/home).
+
+1. 选择“帐户设置”图标，然后选择“我的配置文件” 。
+ 
+1. 选择“角色和权限”选项卡。你将看到你的角色和权限。
+ 
+
+>[!Note]
+>如果在登录时看不到程序，则通常意味着你无权使用该程序。 例如，如果在登录时看不到“奖励”页，则你没有奖励权限。 全局管理员可以向你授予所需的权限。
+
+
+## <a name="find-your-global-admin"></a>查找全局管理员
 
 有时，用户可能需要更改其角色，或者新用户可能需要特定的角色分配。  
-若要查找可以进行角色更改或将角色分配给新用户的全局管理员，请在合作伙伴中心右上角的“设置”图标中，选择“用户管理”并筛选全局管理员。 
+若要查找可以进行角色更改或将角色分配给新用户的全局管理员，请从合作伙伴中心右上角的“帐户设置”图标，选择“用户管理”并筛选全局管理员，或者可以转到“我的配置文件”，选择“角色和权限”并查看可帮助你提升权限的不同管理员的列表   。 
 
 
-### <a name="new-global-admin"></a>新的全局管理员
+## <a name="new-global-admin"></a>新的全局管理员
 
 如果全局管理员离开组织，而其他人需要接替此角色，那么你可以向 Azure 或 Office 365 团队提交票证。 有关如何执行此操作的信息，请选择以下选项之一。
 

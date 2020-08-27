@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998396"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846917"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>在续订时段内续订 Microsoft Action Pack 和资格的 MPN 产品/服务
 
-**适用于**
+### <a name="applies-to"></a>适用于
 
 - 合作伙伴中心
 
-Microsoft Action Pack 和能力是为 Microsoft 合作伙伴网络成员提供的产品/服务，需要每年续订。 续订时段开始于购买日期一周年后加一天。 例如，如果你在 2018 年 9 月 1 日购买了 Microsoft Action Pack，则你的续订时段开始于 2019 年 9 月 2 日。 可以在合作伙伴中心续订 Microsoft Action Pack 和能力。 在“会员产品/服务”下，可以找到购买的产品/服务，并可以在“续订开始日期”列下找到该产品/服务的周年日日期。 Microsoft 合作伙伴网络本身的会员不需要每年续订。 
+Microsoft Action Pack 与金牌和饮品能力是为 Microsoft 合作伙伴网络成员提供的产品/服务，需要每年续订。 续订时段开始于购买日期一周年后加一天。 例如，如果你在 2018 年 9 月 1 日购买了 Microsoft Action Pack，则你的续订时段开始于 2019 年 9 月 2 日。 可以在合作伙伴中心续订 Microsoft Action Pack 和能力。 在“会员产品/服务”下，可以找到购买的产品/服务，并可以在“续订开始日期”列下找到该产品/服务的周年日日期。 Microsoft 合作伙伴网络本身的会员不需要每年续订。 
 
 若要了解详细信息，请选择下面的相应链接： 
 
@@ -48,14 +48,15 @@ Microsoft Action Pack 和能力是为 Microsoft 合作伙伴网络成员提供�
 
 - 如果已经错过了续订时段，可以通过在“会员产品/服务”页上支付费用，重新激活能力并重新获得资源和权益。此延期在 2020 年 12 月 31 日前有效。
 
-### <a name="how-to-view-this-information"></a>如何查看此信息
+### <a name="how-to-view-competency-renewal-information"></a>如何查看能力续订信息
 
 1. 在仪表板上的“合作伙伴中心”菜单中，选择“能力”。  
 
 2. 在显示的能力列表中，你的能力应被标记为“完成”。  
 
-3. 选择能力名称。 你会看到一条通知，告知你在下一个续订日期之前，不再需要满足要求。   
+3. 选择一个能力。 你会看到一条通知，告知你在下一个续订日期之前，不再需要满足要求。
 
 4. 若要使用此产品/服务，请转到“会员产品/服务”。 根据你的能力购买或续订状态，你可能需要支付能力费用来完成这个过程。 
 
 若要享受延长服务，必须将会员资格从 Partner Membership Center (PMC) 转到合作伙伴中心，以便续订能力并支付费用。 如果你尚未转移会员资格，请立即[了解详细信息](prepare-pmc-pc-migration.md) 并 [进行转移](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。  
+
