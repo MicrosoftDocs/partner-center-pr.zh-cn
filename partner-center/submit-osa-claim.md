@@ -1,7 +1,7 @@
 ---
 title: 通过 CPOR 模型创建客户关联
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 08/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 通过 CPOR (申报记录) 模型的合作伙伴创建客户关联。 有助于管理 Microsoft 365 和 Dynamics 365 客户的销售、使用情况、& 奖励。
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: d5c71bf5c5461abaa7d86a19711ad941e0e8a4ff
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811177"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942549"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>通过 CPOR 模型创建客户关联–用于 Microsoft 365 和 Dynamics 365 客户
 
@@ -24,6 +24,8 @@ ms.locfileid: "87811177"
 
 2019年10月1日，Microsoft 开始使用 "CPOR 的申报合作伙伴" ("") 模型来管理与 Microsoft 365 和 Dynamics 365 客户相关的关联，这些客户与和 Dynamics 客户联系， (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU。
 
+>[!重要说明：] 客户关联 (CPOR) 声明仅适用于在线服务咨询 (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU 应用程序奖励计划。 如果要为其他程序（如云解决方案提供商、托管分销商、托管或 Surface）提交合作声明，请参阅此处所述的合作声明过程。
+
 提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
 
 你将需要以下信息来完成声明：
@@ -32,25 +34,25 @@ ms.locfileid: "87811177"
 
 - 客户的**域名**[查找此](find-domain-name.md)
 
-- 客户的**目录 id**或**租户 id** [查找此](find-domain-name.md)
+- 客户的 **目录 id** 或 **租户 id** [查找此](find-domain-name.md)
 
 - **解决方案区域**，如 Business Applications 或 Microsoft 365
 
-- 已执行的**活动**和要进行的声明的类型，例如售前、使用情况或收入关联
+- 已执行的 **活动** 和要进行的声明的类型，例如售前、使用情况或收入关联
 
-- 你的客户的**联系人姓名**、标题和电子邮件地址
+- 你的客户的 **联系人姓名**、标题和电子邮件地址
 
-- 对于 Dynamics 365，还需要提供客户的**技术联系人**姓名、职务和电子邮件地址
+- 对于 Dynamics 365，还需要提供客户的 **技术联系人** 姓名、职务和电子邮件地址
 
-- 自己公司的**联系人姓名**和电子邮件地址
+- 自己公司的 **联系人姓名** 和电子邮件地址
 
 - 你将为此声明创建**名称**
 
 - **产品 () **或 () 你所申报的工作负荷
 
-- ** (POE) 的执行证明**，如客户签署的工作声明。 你还可以下载要使用的 POE 模板。
+- ** (POE) 的执行证明 **，如客户签署的工作声明。 你还可以下载要使用的 POE 模板。
 
-- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、**客户名称**和**ISV 产品/解决方案的名称**。 
+- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、 **客户名称**和 **ISV 产品/解决方案的名称**。 
 
 还应了解以下要点：
 
@@ -62,7 +64,7 @@ ms.locfileid: "87811177"
 
 ## <a name="create-a-customer-association"></a>创建客户关联
 
-1. 在 "合作伙伴中心" 仪表板中的 "**激励**" 下，选择 "**概述**"，然后选择 "**客户关联**"。 
+1. 在 "合作伙伴中心" 仪表板中的 " **激励**" 下，选择 " **概述**"，然后选择 " **客户关联**"。 
 
 2. 在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
 
@@ -70,17 +72,17 @@ ms.locfileid: "87811177"
 
 4. 选择“继续”。
 
-5. 选择**解决方案区域**和**活动**。 
+5. 选择 **解决方案区域** 和 **活动**。 
 
    >[!Note]
    >
-   >如果选择 "Business Applications"，请选择 "**使用情况" 和/或 "提前销售**" 或 "**收入关联**"，然后选择 "**继续**"。 
+   >如果选择 "Business Applications"，请选择 " **使用情况" 和/或 "提前销售**" 或 " **收入关联**"，然后选择 " **继续**"。 
 
    >如果选择“收入关联”，系统将提示你输入与下面所列信息稍有不同的信息。
 
-6. 在 "**关联客户**" 页上输入相应信息，然后选择 "**创建声明**"。
+6. 在 " **关联客户** " 页上输入相应信息，然后选择 " **创建声明**"。
 
-7. 选择与此客户关联关联的产品 () ，然后选择 "**继续**"。
+7. 选择与此客户关联关联的产品 () ，然后选择 " **继续**"。
 
 8. 填写客户联系信息和你公司的联系信息。 所有字段都是必填字段。 
 
