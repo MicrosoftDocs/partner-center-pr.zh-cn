@@ -483,8 +483,11 @@
     - name: 分析订阅和许可证
       href: analyze-subscriptions-licenses.md
 - name: 与其他合作伙伴合作
-  href: work-with-other-partners.md
   items:
+    - name: 查找合作伙伴
+      href: find-a-partner.md
+    - name: 与其他合作伙伴合作
+      href: work-with-other-partners.md
     - name: 合作伙伴中心的间接提供商任务
       href: indirect-provider-tasks-in-partner-center.md
     - name: 合作伙伴中心的间接经销商任务
@@ -519,6 +522,10 @@
       href: customer-self-support.md
     - name: 将问题升级到 Microsoft
       href: escalate-problems-to-microsoft.md
+- name: 其他支持资源
+  items:
+    - name: 许可资源
+      href: support-resources-licensing.md
 - name: 安全要求
   items:
     - name: 概述
