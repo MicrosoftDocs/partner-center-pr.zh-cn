@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436116"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220685"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析订阅和许可证以帮助你推动业务决策和新目标
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436116"
 
 数据推动业务决策。 使用**订阅和许可证分析**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
-> [!NOTE]
-> 订阅许可证分析仅适用于云解决方案提供商计划中的合作伙伴。
+**CSP TTM 年收入 (usd) **：此指标表示 (USD 的累计 CSP，USD 的收入) ，可用于合作伙伴位置帐户的 TTM (，以及与此 CSP 帐户关联) PGA (的合作伙伴全局帐户。 如果具有其他 PGA 的其他 CSP 帐户，则必须登录到每个帐户，才能查看相应的聚合 TTM 收入。  单击 "下载详细信息" 链接以获取 TTM 收入的细分 (USD) 每个 MPN ID。
 
-
-此报告可根据以下产品进行透视：
+报表的其余部分可基于以下产品进行透视：
 
  - **Dynamics 365**：Dynamics 365 数据  
  - **EMS**：企业管理服务数据  

@@ -1,5 +1,5 @@
 ---
-title: 客户关联问题
+title: 奖励的客户关联问题
 description: 了解如何解决在使用声称的记录 (CPOR) 客户关联的合作伙伴时遇到的问题。
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303253"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220615"
 ---
-# <a name="customer-association-issues"></a>客户关联问题
+# <a name="incentives-customer-association-issues"></a>奖励的客户关联问题
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
 
-以下内容将帮助你解决在使用客户关联时可能出现的问题。
-
-适当的角色：
+**相应的角色：**
 
 - 计费管理员
 - 全局管理员
 - 奖励管理员
+
+以下内容将帮助你解决在使用客户关联时可能出现的问题。
 
 ## <a name="domain-tenant-mismatch"></a>域-租户不匹配
 
@@ -72,7 +72,7 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 
 如果你不知道要使用哪种 MPN，请联系你的全局管理员。
 
-如果你想要使用的 MPN 未注册，你可以在 [激励概述选项卡](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)中对其进行管理。
+如果要使用的 MPN 未注册，可以在 " [激励概述" 选项卡](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) 中进行管理， (登录所需) 。
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>选择产品与输入订阅
 
@@ -91,4 +91,8 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 4. 你 _的 CPOR_ 关联声明仍将在五个工作日内查看，但其状态可能会持续很长一段时间。 当 Microsoft 与当前拥有产品/工作负载的合作伙伴合作时，可能会发生这种情况。 如果出现这种情况，你将在声明的 "评论" 部分中收到通知。 
 
 >[!IMPORTANT]
->如果我们需要其他信息来验证你的 CPOR 关联 PoE，我们将通过 CPOR 关联声明评论部分与你联系。
+>如果我们需要其他信息来验证 CPOR (PoE) 的关联执行证明，我们将通过 CPOR 关联声明评论部分与你联系。
+
+## <a name="next-steps"></a>后续步骤
+
+- [即刻体验奖励](incentives-get-started-intro.md)

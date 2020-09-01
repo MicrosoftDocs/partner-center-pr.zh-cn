@@ -9,12 +9,12 @@ ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998360"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220695"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>使用分析来分析间接经销商的性能
 
@@ -69,6 +69,18 @@ ms.locfileid: "87998360"
  - **位置**：间接经销商运营所在的市场  
  - **订阅**：经销商已销售的订阅数  
  - **许可证**：经销商已销售的各种订阅的许可证总数  
+
+**MPA 签名状态**
+
+本部分提供 CSP 间接经销商的 MPA 签名状态的状态。
+
+ - **经销商名称**： CSP 间接经销商的名称
+ - **MPN id**：间接分销商的 MPN id
+ - **区域**：间接经销商的工作区域
+ - **MPN 审核状态**：间接分销商的审核状态
+ - **MPA 签名状态**：间接经销商的 mpa 签名状态
+
+单击图表中的 "下载" 图标，下载具有其他维度的 MPA 签名状态数据
   
 ## <a name="next-steps"></a>后续步骤
 

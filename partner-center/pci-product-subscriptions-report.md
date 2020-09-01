@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f26384f408f7644d577940e22ea43a197c41164f
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239055"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220325"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的产品订阅报表
 
@@ -28,7 +28,7 @@ ms.locfileid: "88239055"
 
 您可以从 "产品订阅" 报表中查看以下部分。
 
-- 摘要
+- “摘要”
 - 订阅的地理分布
 - 订阅添加/改动趋势
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的订阅分发
@@ -36,37 +36,39 @@ ms.locfileid: "88239055"
 - 产品趋势
 
  > [!NOTE]
- > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
+ > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
 
-**摘要**
+## <a name="summary"></a>“摘要”
 
 "摘要" 部分显示关键绩效指标的快照视图， (Kpi 与为客户销售或管理的订阅相关的) 。  
 
-- 订阅：你销售或管理的云产品订阅的当前计数。
-所选日期范围内的订阅增长或拒绝百分比。
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="订阅报告摘要":::
 
-微图显示在所选日期范围内订阅计数的月月趋势。
+有关摘要的每个部分的详细信息，请参阅下文。
 
-- 活动订阅：基于产品遥测的活动使用情况的当前云产品订阅计数。 这不包括 Azure 订阅的所有试用订阅。
-所选时间段内活动订阅的增长百分比或拒绝百分比。
+- 订阅：
+  - 你销售或管理的云产品订阅的当前计数。
+  - 所选日期范围内的订阅增长或拒绝百分比。
+  - 微图显示在所选日期范围内订阅计数的月月趋势。
 
-微图显示在所选日期范围内活动订阅的每月月趋势。
+- 活动订阅：
+  - 基于产品遥测的活动使用情况的当前云产品订阅计数。 这不包括 Azure 订阅的所有试用订阅。
+  - 所选时间段内活动订阅的增长百分比或拒绝百分比。
+  - 微图显示在所选日期范围内活动订阅的每月月趋势。
 
-- 添加的订阅：在所选日期范围内 (销售或管理) 添加的客户订阅总数。 新订阅的状态为 " **活动** " 或 "已 **续订** "，被计为添加的订阅。
-与第一个完整月份相比，最后一个完整月份中添加的订阅百分比增长或拒绝。
+- 添加的订阅：
+  - 所选日期范围内 (销售或管理) 添加的客户订阅总数。 新订阅的状态为 " **活动** " 或 "已 **续订** "，被计为添加的订阅。
+  - 与第一个完整月份相比，最后一个完整月份中添加的订阅百分比增长或拒绝。
+  - 微图显示在所选日期范围内添加的订阅的每月趋势。
 
-微图显示在所选日期范围内添加的订阅的每月趋势。
-
-- 订阅改动：在所选日期范围内改动的客户订阅总数。 在该月中状态为 **取消预配** 或 **挂起** 的订阅将计为改动订阅。  
-所选日期范围内改动的订阅百分比。
-
-微图显示了在所选日期范围内改动订阅的每月趋势。
+- 订阅改动：
+  - 所选日期范围内改动的客户订阅总数。 在该月中状态为 **取消预配** 或 **挂起** 的订阅将计为改动订阅。  
+  - 所选日期范围内改动的订阅百分比。
+  - 微图显示了在所选日期范围内改动订阅的每月趋势。
 
 - 按产品划分的订阅：按云产品对当前订阅计数的细分。
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="订阅报告摘要":::
-
-**订阅的地理分布**
+## <a name="geographical-spread-of-subscriptions"></a>订阅的地理分布
 
 " **按地理位置** 划分的订阅" 视图显示按客户市场列出的订阅总数的地理分布。 订阅总数包括销售的订阅和活动订阅。
 
@@ -76,7 +78,7 @@ ms.locfileid: "88239055"
 
 :::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="地域订阅":::
 
-**订阅添加/churns**
+## <a name="subscription-addschurns"></a>订阅添加/churns
 
 此视图显示订阅的趋势。 这些将分解为所选日期范围 (新的、现有的改动) 的不同类别。 X 轴表示所选日期范围内的月份。 Y 轴表示订阅计数。 改动订阅在 Y 轴的负刻度上表示。 
 
@@ -84,19 +86,19 @@ ms.locfileid: "88239055"
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="订阅添加和 churns":::
 
-**订阅分发**
+## <a name="subscription-distribution"></a>订阅分发
 
 此视图按 MPN 位置、客户细分市场、销售渠道/Azure 定价模型和归属类型 (（例如 DPOR、) 等）来提供当前订阅的细分。 单击相应的选项卡，按这些类别查看细目。 若要生成包含特定项类别细目的饼图，请在图例中选择这些项目类别。
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="订阅分发":::
 
-**订阅状态分发**
+## <a name="subscription-state-distribution"></a>订阅状态分发
 
 此视图按订阅状态显示当前客户订阅的分布情况。 这包括以下订阅状态： "**活动**"、"**已禁用**"、"**取消预配**" **、"已****打开**"、"**已关闭**" 和**其他**。
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="订阅状态分发":::
 
-**产品趋势**
+## <a name="products-trend"></a>产品趋势
 
 此视图显示一个条形图和两个饼图。 条形图显示了按商业产品（如 Azure、Office、Dynamics 等）细分的订阅的每月趋势。
 

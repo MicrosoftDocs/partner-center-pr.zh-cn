@@ -1,25 +1,31 @@
 ---
 title: 激励常见问题
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Microsoft 激励常见问题
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88426990"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220585"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>有关激励的常见问题
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
+
+**相应的角色：**
+
+- 奖励管理员
+
+- 奖励用户
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>是否需要是全局管理员才能注册激励？
 
@@ -42,3 +48,7 @@ ms.locfileid: "88426990"
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>如果在注册过程中收到错误消息或需要帮助，应联系谁？
 
 如果在仪表板的 "激励" 部分中遇到任何问题，则可以使用联机支持服务–请参阅支持选项 (？ 图标) 在右上方。
+
+## <a name="next-steps"></a>后续步骤
+
+- [即刻体验奖励](incentives-get-started-intro.md)

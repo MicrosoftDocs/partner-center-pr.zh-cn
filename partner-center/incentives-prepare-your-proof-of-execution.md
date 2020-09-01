@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303293"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220775"
 ---
 # <a name="prepare-your-proof-of-execution"></a>准备执行证明
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
 
-在支付奖励工作之前，必须 (PoE) 提交详细的执行证明。 本文将指导你完成创建有效执行证明的过程。
-
-适当的角色：
+**相应的角色：**
 
 - 奖励管理员
+
+在支付奖励工作之前，必须 (PoE) 提交详细的执行证明。 本文将指导你完成创建有效执行证明的过程。
 
 ## <a name="how-to-submit-a-poe"></a>如何提交 PoE
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303293"
 
 4. 在 " **市场活动** " 部分中，找到所需的活动。
 
-5. 在 " **执行证明** " 列中，选择 " **添加 POE**"。
+5. 在 " **执行证明** " 列中，选择 " **添加 PoE**"。
 
 6. 在 " **新的执行证明" 页**上，输入必填字段。
 
@@ -45,7 +45,7 @@ ms.locfileid: "88303293"
    - **日期**  执行日期。 此日期必须介于市场活动开始日期和市场活动结束日期之间。
    - **金额**  合作声明的量。
 
-7. 选择“保存” 。
+7. 选择“保存”  。
 
 8. 在 " **新的执行声明证明** " 页上，输入必填字段。
 
@@ -62,7 +62,7 @@ ms.locfileid: "88303293"
 
 11. 如果需要，还可以上传 **校对文档** 。 在 " **校对文档** " 字段中，选择 " **拖动或浏览要上传的文件**"。 如果选择 "校对文档"，则必须添加说明性注释。 添加注释后，请选择“保存”。
 
-12. 提交 POE 之前，请输入任何最终评论，然后选择 " **提交声明**"。
+12. 提交 PoE 之前，请输入任何最终评论，然后选择 " **提交声明**"。
 
 ## <a name="view-the-status-of-a-poe"></a>查看 PoE 的状态
 
@@ -80,3 +80,7 @@ ms.locfileid: "88303293"
    - 正在编辑
    - 已批准
    - 已拒绝
+
+## <a name="next-steps"></a>后续步骤：
+
+- [即刻体验奖励](incentives-get-started-intro.md)

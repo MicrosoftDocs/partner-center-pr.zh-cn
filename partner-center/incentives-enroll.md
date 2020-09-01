@@ -1,25 +1,29 @@
 ---
-title: 注册激励计划
+title: 注册参与奖励计划
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: 注册奖励计划，并为用户管理分配必要的角色。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eae4baa3cfd49692c6b672c45ec30c8384449975
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88426991"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220595"
 ---
-# <a name="enroll-in-the-incentives-program"></a>注册激励计划
+# <a name="enroll-in-the-incentives-program"></a>注册参与奖励计划
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
+
+**相应的角色：**
+
+- 奖励管理员
 
 >[!NOTE]
 >必须先完成合作伙伴成员中心到合作伙伴中心的 [迁移](prepare-pmc-pc-migration.md)，然后才能注册激励计划。
@@ -32,7 +36,7 @@ ms.locfileid: "88426991"
 
 ## <a name="user-management"></a>用户管理
 
-若要注册激励计划，全局管理员或帐户管理员需要设置您的公司用户。 他们必须分配激励管理员 () 并授予激励用户权限。 有关合作伙伴帐户、角色和权限的信息，请参阅 [管理合作伙伴中心帐户](partner-center-account-setup.md)。 全局管理员还可以通过 Azure Active Directory (AAD) 设置公司用户。
+若要注册激励计划，全局管理员或帐户管理员需要设置您的公司用户。 他们必须分配激励管理员 () 并授予激励用户权限。 有关合作伙伴帐户、角色和权限的信息，请参阅 [管理合作伙伴中心帐户](partner-center-account-setup.md)。 全局管理员还可以通过 Azure Active Directory (Azure AD) 设置公司用户。
 
 一旦你的组织有资格获得激励，Microsoft 将向全局管理员、帐户管理员和激励管理员发送邀请。
 
@@ -43,7 +47,7 @@ ms.locfileid: "88426991"
 
 当你的组织有资格获得激励后，Microsoft 会向符合条件的 MPNLocationID 的 MPN 管理员发送邀请，以启动该过程。 此电子邮件将从 **Microsoft 合作伙伴中心**发送，并将具有主题 **合作伙伴激励注册邀请**。 打开邀请，然后选择 " **开始**"。
 
-你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，管理员仍可以通过转到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)中的 "用户管理" 来启动该过程。
+你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，管理员仍可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) 并选择 " **用户管理**" 来启动该过程。
 
 ## <a name="expiration-and-renewal"></a>过期和续订
 

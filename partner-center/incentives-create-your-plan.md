@@ -1,33 +1,33 @@
 ---
-title: 创建计划
+title: 创建激励计划
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/31/2020
 description: 收集和创建必要的信息，为奖励计划生成成功的营销计划。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70740341211f5386882e7be05ce9cb921f0be8dd
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303243"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220625"
 ---
-# <a name="create-your-plan"></a>创建计划
+# <a name="create-your-incentives-plan"></a>创建激励计划
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
 
-合作声明计划是一系列营销活动、活动和其他详细信息，介绍如何使您的程序取得成功。 创建计划后，将其提交给 Microsoft 进行审批。 
-
-适当的角色：
+**相应的角色：**
 
 - 奖励管理员
 - 计费管理员
 - 全局管理员
+
+合作声明计划是一系列营销活动、活动和其他详细信息，介绍如何使您的程序取得成功。 创建计划后，将其提交给 Microsoft 进行审批。
 
 ## <a name="create-your-incentives-plan"></a>创建激励计划
 
@@ -46,7 +46,7 @@ ms.locfileid: "88303243"
 
 3. 在 " **程序** " 页上，找到计划的适当市场，然后选择 " **创建计划**"。 
 
-4. 在 " **新建计划** " 页上，填写必填字段。 **货币** 是您希望计划反映的值。 **审阅者电子邮件** 应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存” 。
+4. 在 " **新建计划** " 页上，填写必填字段。 **货币** 是您希望计划反映的值。 **审阅者电子邮件** 应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存”  。
 
 5. 在计划的状态页上，查看显示的信息。 选择“编辑”以更新任何信息。
 
@@ -93,3 +93,7 @@ Microsoft 将根据你的收益和计划的限额每月向你付款。 款项会
 例如，如果你的计划获批的限额为 $10,000，假设你在 4 月赚了 $5,000，那么你将在 5 月 15 日收到 $5,000。
 
 在同一计划下，如果你在 4 月赚了 $15,000，那么你将在 5 月 15 日收到 $10,000，因为 $10,000 是你的计划的限额。 若要收到更多的款项，需要提高下个月计划的限额。
+
+## <a name="next-steps"></a>后续步骤
+
+- [准备执行证明](incentives-prepare-your-proof-of-execution.md)

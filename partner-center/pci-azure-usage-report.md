@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239065"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220725"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
 
@@ -26,14 +26,14 @@ ms.locfileid: "88239065"
 
 Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包括按计量类别分类的 Azure 消耗收入和使用量。 你可以从 Azure 使用情况报表查看以下部分。
 
-- 摘要
+- “摘要”
 - 地域的 Azure 使用情况
 - Azure 利用率
 
  > [!NOTE]
- > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
+ > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
 
-**摘要**
+## <a name="summary"></a>“摘要”
 
 "摘要" 部分显示关键绩效指标的快照视图，这些指标与为客户销售或管理的 Azure 订阅相关 (Kpi) 。  
 
@@ -56,7 +56,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 使用情况摘要":::
 
-**地域的 Azure 使用情况**
+## <a name="azure-usage-by-geography"></a>地域的 Azure 使用情况
 
 **Azure 使用量（按地理位置**）视图显示 azure 消费收入的地理分布 (ACR US $) 或所有或选定的 Azure 服务级别/计量类别的使用时间（小时）。 地图上较亮的颜色表示较小的值，而较暗的颜色表示较高的值。 您可以在网格中搜索并选择国家/地区以缩放到 
 
@@ -66,7 +66,7 @@ Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="地域的 Azure 使用情况":::
 
-**Azure 利用率**
+## <a name="azure-utilization"></a>Azure 利用率
 
 此视图显示所选 Azure 服务级别/计量类别的每月 Azure 消耗收入或使用时间趋势。 
 

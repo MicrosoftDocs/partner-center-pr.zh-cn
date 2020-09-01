@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9118745b19d48d572378df0b32035c9de4d62c99
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949535"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220086"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -26,7 +26,7 @@ ms.locfileid: "85949535"
 > [!IMPORTANT]
 > 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。
 >  
-> 前进后，新客户可选择使用当前可用的欧洲区域，或在德国可用时使用新区域。 有关详细信息，请参阅[Microsoft 提供德国的新数据中心提供的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
+> 前进后，新客户可选择使用当前可用的欧洲区域，或在德国可用时使用新区域。 有关详细信息，请参阅 [Microsoft 提供德国的新数据中心提供的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
 为了遵守管理收集和使用个人数据的德国法律法规以及重要的国际标准，在德国 Microsoft 云合作伙伴中心中尚未提供以下用户和许可证管理功能。 但是，可以在德国 Microsoft 云的 Azure 门户或 Office 365 管理中心添加和管理用户和许可证。
 
@@ -44,7 +44,7 @@ ms.locfileid: "85949535"
 在你已成功登录德国 Microsoft 云的 Azure 门户后，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
 
 > [!NOTE]  
-> 选择以下链接将转到其他网站。 
+> 选择以下链接将转到其他网站。
 
 -  [将新用户添加到 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
@@ -52,10 +52,7 @@ ms.locfileid: "85949535"
 
 -  [在 Azure Active Directory 中重置用户的密码](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-**相关主题**
+## <a name="next-steps"></a>后续步骤
 
 -  [Microsoft Azure Germany](https://azure.microsoft.com/global-infrastructure/germany/)
-
 -  [德国 Microsoft 云合作伙伴中心](partner-center-for-microsoft-cloud-germany.md)
-
-

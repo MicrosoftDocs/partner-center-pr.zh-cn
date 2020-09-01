@@ -1,19 +1,19 @@
 ---
 title: 排查付款和收益问题
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: 了解如何解决缺失或不正确的收益、资格问题，以及如何协调奖励收益等问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893463"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220785"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>排查付款和收益问题
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893463"
 **适当的角色**：
 
 - 奖励管理员
-
 
 本文将帮助你解决激励计划中的任何收益或付款问题。 涉及的主题包括付款时间、检查收入资格以及正确设置支出和税务配置文件的重要性。
 
@@ -57,18 +56,20 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
   **检查您的资格**
 
-  1. 登录合作伙伴中心： [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
-  
+  1. 登录 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
+
   2. 向下滚动到程序的文档。
   
-  3. 选择所需的文档链接，然后查看 **合作伙伴资格** 和 **合格收入规则**部分。
+  3. 选择所需的文档链接，然后查看各个部分 
+
+**合作伙伴资格** 和 **符合条件的收入规则**。
 
 - **你的付款配置文件可能不完整。** 奖励收益开始日期将是你满足所有资格要求（包括加入时需要填写付款和税务详细信息）的当月的第一天。 对于填写付款和税务信息之前的几个月，你将不会获得任何收益。 例如，如果你在 2020 年 4 月满足了所有要求，则收益开始日期为 2020 年 4 月 1 日。
 - **您可能有一个未完成的操作**。  这可能是由于奖励没有得到处理，因为你有待处理的未完成操作。
 
   **查看未完成的操作**
 
-  1. 登录合作伙伴中心： [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
+  1. 登录 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
   2. 打开 " **事务历史记录** " 页。 查看此页中的字段，以查看要完成的任何未完成的操作，如 **待定税务配置文件**、 **挂起的付款配置文件**或 **待定的税务发票提交**。
 
 如果这些操作没有帮助，但你的付款仍缺失或不正确，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
@@ -112,7 +113,7 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 此视图允许您按月、按状态和交易详细信息以及每个交易的付款状态查看收入和付款趋势。 只有已为其分配了激励用户或管理员角色的程序和 MPN ID 的数据才可见。
 
-### <a name="payments"></a>支付
+### <a name="payments"></a>付款
 
 此视图允许查看所有程序和 MPN ID 的付款。 只有已为其分配了激励用户或管理员角色的程序和 MPN ID 的数据才可见。 在此视图中，可以下载汇款或者按付款查看交易详细信息。 
 
@@ -140,9 +141,9 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 ## <a name="where-can-i-find-my-rates"></a>在哪里可以找到我的费率？
 
-1. 转到[合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)并登录。
+1. 登录 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
 
-2. 登录后，向下滚动以访问感兴趣的计划的文档，然后单击文档链接以查看相应的计划。
+2. 向下滚动以访问感兴趣的程序的文档，并单击相应程序的文档链接。
 
 3. 在文档中，请参阅 **计划结构和速率**部分。
 

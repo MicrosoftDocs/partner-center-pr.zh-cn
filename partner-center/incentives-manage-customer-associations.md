@@ -1,5 +1,5 @@
 ---
-title: 管理客户关联
+title: 管理激励客户关联
 description: 了解管理声明的记录 (CPOR) 客户关联的重要过程和时间线。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,27 +7,27 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: 6a98d14bbbe614d0d57a3d1032b93b8cd43119e1
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303172"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220575"
 ---
-# <a name="manage-customer-associations"></a>管理客户关联
+# <a name="manage-incentives-customer-associations"></a>管理激励客户关联
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
 
-已声明的记录 (CPOR) 平台合作伙伴可用于合作伙伴将自己关联到他们要影响其使用或购买 Microsoft 产品的最终客户。 目前，CPOR 平台支持 Business Applications 和 Microsoft 365 产品。 合作伙伴使用此关联方法来深入了解客户的业绩，通过 OSU 和 OSA 计划获得奖励款项，并将收入协会作为业务影响者获得。  
-
-适当的角色：
+**相应的角色：**
 
 - 计费管理员
 - 全局管理员
 - 奖励管理员
+
+已声明的记录 (CPOR) 平台合作伙伴可用于合作伙伴将自己关联到他们要影响其使用或购买 Microsoft 产品的最终客户。 目前，CPOR 平台支持 Business Applications 和 Microsoft 365 产品。 合作伙伴使用此关联方法来深入了解客户的业绩，通过 OSU 和 OSA 计划获得奖励款项，并将收入协会作为业务影响者获得。  
 
 ## <a name="how-your-cpor-association-claim-relates-to-incentives"></a>你的 CPOR 关联声明如何与激励相关
 
@@ -41,12 +41,12 @@ ms.locfileid: "88303172"
 
 - 已提交：在 Microsoft 开始审批过程之前，它将处于 "已提交" 状态最多5个工作日。
 - 查看： Microsoft 提供了五个工作日，根据你提供的执行证明做出决定。
-- 需要合作伙伴操作：如果审阅者发送评论和请求其他信息，则需要5个工作日来做出响应。 应根据审阅者的 SLA 以及为 PoE 审阅者提供其他信息所需的时间量，在10天内在 CPOR 关联声明上做出决策。
+- 需要合作伙伴操作：如果审阅者发送评论和请求其他信息，则需要5个工作日来做出响应。 应根据审阅者的 SLA 在10天内在 CPOR 关联声明上做出决策，并使用其他信息提供 (执行证明) 审阅者所需的时间量。
 - 已批准：你的 CPOR 关联声明已获得批准。 获得批准后，将向客户发送通知，让他们拒绝关联。 然后，客户将有7天的时间退出。经过此许可期限后，将发送该报销申请以评估激励计划的资格。
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>查看 CPOR 关联声明的状态
 
-你可以使用 " [客户关联" 仪表板](https://partner.microsoft.com/dashboard/incentives/claims/associations)随时查看 CPOR 关联声明的状态。
+你可以使用 " [客户关联" 仪表板](https://partner.microsoft.com/dashboard/incentives/claims/associations) (登录所需的) ，随时查看 CPOR 关联声明的状态。
 
 下面是状态及其含义：
 
@@ -98,7 +98,7 @@ ms.locfileid: "88303172"
 - PoE 上缺少客户许可
 - 缺少产品
 - 无合作伙伴响应
-- PoE 不可用 
+- PoE 不可用
 
 ## <a name="edit-your-cpor-association-claim"></a>编辑 CPOR 关联声明
 
@@ -122,3 +122,7 @@ ms.locfileid: "88303172"
 ## <a name="view-claim-history"></a>查看声明历史记录
 
 在 CPOR 关联声明中，在右上角有一个 " **历史记录** " 按钮，可用于查看从合作伙伴和审阅者角度对此声明执行的所有更改、注释和操作。
+
+## <a name="next-steps"></a>后续步骤
+
+- [即刻体验奖励](incentives-get-started-intro.md)

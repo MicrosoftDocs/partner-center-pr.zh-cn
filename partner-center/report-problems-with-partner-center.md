@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040753"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220245"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何报告合作伙伴中心的问题并提交任何日志或诊断信息
 
@@ -29,7 +29,7 @@ ms.locfileid: "89040753"
 
 所有记录在合作伙伴中心的用户都可以创建合作伙伴支持请求。 用户仅可查看他们在登录合作伙伴中心后提交的支持请求。
 
-**报告合作伙伴中心的问题**
+## <a name="report-a-problem-with-the-partner-center"></a>报告合作伙伴中心的问题
 
 1. 在 **合作伙伴中心** 仪表板中，选择 " **支持** "，然后选择 " **合作伙伴支持请求**"。
 
@@ -41,7 +41,7 @@ ms.locfileid: "89040753"
 
 5. 完成 **问题详细信息** ，然后 **提交**。 合作伙伴支持代表将跟进与你沟通。
 
-**发送诊断**
+## <a name="send-diagnostics"></a>发送诊断
 
 如果在合作伙伴中心页面出现错误，系统可能会提示收集日志信息。 从页面顶部下拉的链接中选择 " **收集详细信息** " 以打开客户端诊断工具。 该工具收集合作伙伴支持团队在确定错误原因时所需的信息。 
 
@@ -54,7 +54,7 @@ ms.locfileid: "89040753"
 
 你可以预览诊断信息，然后将它保存到某个文件，你可以将此文件附加到支持请求中。 要向我们发送信息：
 
-3. 请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。 
+3. 请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。
 
     >[!NOTE]
     >在某些浏览器中，**预览**页面底部的**页面视图**部分可能显示为空。 这很正常。

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781829"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220175"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -100,9 +100,11 @@ Microsoft 不为商业 marketplace 产品提供产品支持。 你需要与发�
     - 支持部门的电子邮件
     - 支持部门的联系电话号码
 
-## <a name="faq"></a>FAQ
+## <a name="faq"></a>常见问题
 
-**哪些内容包含在支持权利中？**
+请参阅以下信息，了解有关你可能代表客户提交的服务请求的常见问题。 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>哪些内容作为支持权利的一部分包含在内？
 
 应通过合作伙伴中心来归档服务请求。 它们适用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企业移动性套件。 作为参与云解决方案提供商计划的合作伙伴，你的主要问题会得到优先响应。
 
@@ -110,7 +112,7 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 
 此权益适用于所有参与云解决方案提供商计划（不管是付费计划还是免费试用计划）的合作伙伴。 帐单和订阅管理支持也作为此程序包的免费组件包含在内。
 
-**我多快才能得到初始响应？**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>我多快才能获得初始响应？
 
 我们的初始响应时间取决于已提交事件的严重性。 提交服务请求时，问题的严重性将由业务影响指示确定。
 
@@ -123,21 +125,21 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 初始响应时间仅适用于英语语言支持。 在营业时间提供本地语言支持。
 对于落在支持权利边界内的事件，但不视为中断修复事件，初始响应时间可能会长达一天。
 
-**是否可以通过电话提交服务请求？**
+### <a name="can-i-submit-a-service-request-by-phone"></a>是否可以通过电话提交服务请求？
 
 不，此程序不提供电话支持。
 
-**如果我登录 Azure 门户但绕过合作伙伴中心，会发生什么？**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>如果我登录 Azure 门户但绕过合作伙伴中心，会发生什么？
 
 如果直接登录到 Microsoft Azure 门户，则可以在自己的上下文中查看中心，而不是客户的上下文。 这就是为什么你只应在为自己的订阅创建服务请求时直接登录到 Microsoft Azure 门户。
 
 你的 CSP 计划支持权限不提供对你自己的合作伙伴订阅的支持。 因此，在创建涉及你自己的合作伙伴订阅的服务请求时，需要提供有效的支持计划权利。 示例包括 MPN 合同 ID、高级版或 Azure 支持计划。 有关详细信息，请参阅 [Azure 支持常见问题](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
-**如果登录到 Office 365 管理中心门户并绕过合作伙伴中心，会发生什么情况？**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>如果登录到 Office 365 管理中心门户并绕过合作伙伴中心，会发生什么情况？
 
 如果直接登录到 Office 365 管理中心，你将在自己的上下文中查看中心，而不是客户的上下文。 这就是你在为自己的订阅创建服务请求时，只应直接登录到 Office 365 管理中心的原因。
 
-**如何获取更多 Dynamics 365 支持？**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>如何获取更多 Dynamics 365 支持？
 
 如果遇到与以下问题相关的问题： Dynamics 365 计划订阅、许可、计费、财务 & 操作、Dynamics 365 产品许可证或需要进一步的技术支持：
  

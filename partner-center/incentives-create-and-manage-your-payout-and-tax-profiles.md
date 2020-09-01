@@ -1,33 +1,33 @@
 ---
 title: 在合作伙伴中心创建和管理付款资料和税务资料
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: 你必须先创建支出和税务配置文件，然后才能支付奖励。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303273"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220795"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>合作伙伴中心中的付款和税务配置文件
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
 
-必须首先通过将有效的付款和税务配置文件与奖励计划和 MPN 位置相关联来完成注册，然后才能收到针对特定 MPN 位置的奖励计划的付款。 Microsoft 将使用此付款和税务配置文件来发放款项。 根据具体的奖励计划规则，你可以使用电子银行转帐或贷方通知单来接收付款。 
-
-适当的角色：
+**相应的角色：**
 
 - 奖励管理员
 - 计费管理员
 - 全局管理员
+
+必须首先通过将有效的付款和税务配置文件与奖励计划和 MPN 位置相关联来完成注册，然后才能收到针对特定 MPN 位置的奖励计划的付款。 Microsoft 将使用此付款和税务配置文件来发放款项。 根据具体的奖励计划规则，你可以使用电子银行转帐或贷方通知单来接收付款。 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>角色、货币和其他 Microsoft 程序
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303273"
 
 您必须是一种激励管理员，才能输入银行和税务信息以进行激励支付。 如果你是 MPN/帐户管理员，则可以将自己和/或同事分配为奖励管理员。
 
-如果需要请求激励管理员权限，请联系 MPN 管理员或全局管理员。你可以在 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)中找出你的公司中有哪些角色。 在右上角的 " **设置** " 图标中，选择 " **用户管理** "，然后在 "全局管理员" 上筛选。
+如果需要请求激励管理员权限，请联系 MPN 管理员或全局管理员。你可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)来找出你的公司中的谁有这些角色。 在右上角的 " **设置** " 图标中，选择 " **用户管理** "，然后在 "全局管理员" 上筛选。
 
 奖励，用户可以查看激励收益和支付详细信息和报告，但不能编辑银行和税务详细信息。
 
@@ -58,11 +58,11 @@ ms.locfileid: "88303273"
 以下各节将引导你完成在合作伙伴中心创建和管理付款和税务配置文件的过程。
 
 >[!IMPORTANT]
->您必须是激励管理员才能在合作伙伴中心创建或管理付款配置文件。 奖励角色必须分配给每个激励计划下的每个 MPN 位置。 有关如何在合作伙伴中心添加激励管理员的详细信息，请参阅 [如何在合作伙伴中心添加激励用户或管理员](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center)。
+>您必须是激励管理员才能在合作伙伴中心创建或管理付款配置文件。 奖励角色必须分配给每个激励计划下的每个 MPN 位置。 有关如何在合作伙伴中心添加激励管理员的详细信息，请参阅 [创建用户帐户](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)。
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>访问合作伙伴中心的支出和税务部分
 
-1. 使用 Azure Active Directory (登录到合作伙伴中心 Azure AD) 帐户 (公司帐户) ，或使用相应的电子邮件地址（如果已分配）。 
+1. 使用你的 Azure Active Directory (Azure AD) 帐户 (公司帐户) ，或使用适当的电子邮件地址（如果已分配）登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) 。
 
    - 可以在一个 Azure AD 帐户中注册多个域。 请与全局管理员联系，以确定与哪些域相关联。
    - 如果只能用 @onmicrosoft.com 域登录，请与帐户管理员联系，将其他域添加到 Azure AD 帐户中。
@@ -74,7 +74,7 @@ ms.locfileid: "88303273"
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>将支出和税务配置文件分配给单个计划
 
-1. 在 "合作伙伴中心"，选择齿轮图标以打开 " **设置** " 菜单。 
+1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)，并选择齿轮图标以打开 " **设置** " 菜单。 
 
 2. 选择 " **合作伙伴设置**"，展开 " **支出和税务" 部分**，然后选择 " **分配**"。 
    

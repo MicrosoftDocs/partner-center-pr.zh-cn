@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303193"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220535"
 ---
 # <a name="manage-co-op-claims"></a>管理合作声明
 
-适用于：
+**适用对象：**
 
 - 合作伙伴中心
 
-以下内容提供了管理合作声明的信息，包括时间线和规则，以及如何对拒绝的合作声明进行争议。
-
-适当的角色：
+**相应的角色：**
 
 - 奖励管理员
+
+以下内容提供了管理合作声明的信息，包括时间线和规则，以及如何对拒绝的合作声明进行争议。
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作申请批准和付款的截止时间
 
@@ -72,3 +72,7 @@ ms.locfileid: "88303193"
 4. 在页面底部，选择“异议”。
 
 合作申请验证团队将在五个工作日内审查申请。 在此期间，状态将显示为“有争议”。 我们可能会与你联系，要求你提供其他信息。 审查完成后，验证团队会将状态更新为“已批准”、“已拒绝”或“需要合作伙伴执行操作”  。
+
+## <a name="next-steps"></a>后续步骤
+
+- [即刻体验奖励](incentives-get-started-intro.md)
