@@ -58,7 +58,7 @@ ms.locfileid: "89056184"
 
 - 公司的 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 可以授予你访问 "引用" 选项卡的权限。若要查找帐户管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 选择左侧导航栏中第二级的 "用户管理" 页。 单击显示页面右上方的 "所有用户" 的下拉箭头，然后更改为 "帐户管理员"。 然后，该页将显示所有帐户管理员及其各自的电子邮件 Id。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 "伙伴设置" 用户管理页中的 "帐户管理员" 的图像。":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 伙伴设置 用户管理页中的 帐户管理员 的图像。":::
 
 - 在左侧导航窗格中转到 "引用" 选项卡，并检查是否可以访问这些页面。
 
@@ -138,7 +138,7 @@ ms.locfileid: "89056184"
 
 ### <a name="user-management-in-psc-and-partner-center"></a>PSC 和合作伙伴中心的用户管理
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 "帐户设置" 视图中的 "合作伙伴中心用户管理"。":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 帐户设置 视图中的 合作伙伴中心用户管理。":::
 
 ### <a name="user-role-assignment-in-psc-and-partner-center"></a>PSC 和合作伙伴中心的用户角色分配
 
