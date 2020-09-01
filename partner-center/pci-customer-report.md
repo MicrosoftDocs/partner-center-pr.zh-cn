@@ -34,7 +34,7 @@ ms.locfileid: "89220495"
 
 <span data-ttu-id="2adfa-115">"摘要" 部分提供了与客户相关的各种 Kpi 的快照视图，例如客户、活动客户、订阅、添加的客户、客户改动和每个产品的客户。</span><span class="sxs-lookup"><span data-stu-id="2adfa-115">The summary section presents a snapshot view of various KPIs related to your customers such as customers, active customers, subscriptions, customers added, customers churned, and customers by each product.</span></span> <span data-ttu-id="2adfa-116">页面级筛选器适用于每个部分。</span><span class="sxs-lookup"><span data-stu-id="2adfa-116">Page level filters are applicable for each section.</span></span>
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text=""客户摘要" 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
+:::image type="content" source="images/pci/customerproduct.png" alt-text="客户摘要 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
 
 ### <a name="customers"></a><span data-ttu-id="2adfa-118">客户</span><span class="sxs-lookup"><span data-stu-id="2adfa-118">Customers</span></span>
 
@@ -89,7 +89,7 @@ ms.locfileid: "89220495"
 
 <span data-ttu-id="2adfa-162">在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。</span><span class="sxs-lookup"><span data-stu-id="2adfa-162">Monthly trend of the distribution of your customers during the selected date range by markets, segments, your MPN locations and products they have acquired.</span></span> <span data-ttu-id="2adfa-163">单击图表中的相应选项卡，按这些类别查看趋势。</span><span class="sxs-lookup"><span data-stu-id="2adfa-163">Click on the respective tabs in the chart to view the trend by these categories.</span></span> <span data-ttu-id="2adfa-164">X 轴表示所选日期范围的月份，Y 轴包含所选类别 (选项卡选择) 的客户计数。</span><span class="sxs-lookup"><span data-stu-id="2adfa-164">X-axis represents the months for the date range you have selected, and Y-axis has the count of customers for the selected category (Tab selection).</span></span> <span data-ttu-id="2adfa-165">您可以将鼠标悬停在图表列上以查看每个堆栈的细分情况值。</span><span class="sxs-lookup"><span data-stu-id="2adfa-165">You can hover on the chart columns to view the values breakup of each stack.</span></span> <span data-ttu-id="2adfa-166">您可以在图表顶部利用滑块来放大到特定时间段。</span><span class="sxs-lookup"><span data-stu-id="2adfa-166">You can leverage slider on top of the chart to zoom in to a specific period.</span></span>   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text=""客户分发趋势" 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="客户分发趋势 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
 
 ## <a name="active-customers"></a><span data-ttu-id="2adfa-168">活动客户</span><span class="sxs-lookup"><span data-stu-id="2adfa-168">Active customers</span></span>
 
