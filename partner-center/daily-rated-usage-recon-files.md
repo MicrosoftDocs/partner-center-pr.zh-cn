@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274976"
+ms.locfileid: "89281309"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
@@ -73,9 +73,9 @@ ms.locfileid: "89274976"
 | UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | 数量 | 许可证数量。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | Unittype.pixel 度量 | 计量计量器的单位类型。  |
-| BillingPreTaxTotal | 税前的总帐单金额。 |
+| BillingPreTaxTotal | 税前的总帐单金额。<br/> _**BillingPreTaxTotal** = 楼层 ( # A1 [ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ] ) ，2) _ |
 | BillingCurrency | 客户的地理区域中的货币。 |
-| PricingPreTaxTotal | 添加税之前的定价。 <br/> _**PricingPreTaxTotal** = 楼层 ( # A1 [ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ] ) ，2) _ |
+| PricingPreTaxTotal | 添加税之前的定价。 |
 | PricingCurrency | 价目表中的货币。 |
 | ServiceInfo1 | 在给定日期预配和使用的服务总线连接数。 |
 | ServiceInfo2 | 捕获可选的服务特定元数据的旧字段。 |
