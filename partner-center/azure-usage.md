@@ -1,20 +1,20 @@
 ---
 title: 针对最大预留项使用率调整 Azure VM 的大小
+description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机 (VM) 规模调整为客户的计算需求。
 ms.topic: how-to
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机 (VM) 规模调整为客户的计算需求。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: ba24376bad1d04fcbc9f02d442f0cba7e6354bd3
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900117"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367091"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 
@@ -25,7 +25,7 @@ ms.locfileid: "87900117"
 - 云解决方案提供商计划中的合作伙伴
  
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读[此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>确定客户的 Azure 预留的 VM 大小
 
@@ -52,9 +52,9 @@ ms.locfileid: "87900117"
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>使用 Microsoft Azure 门户获取虚拟机大小信息
 
-1. 在合作伙伴中心，请参阅 "**客户**" 页。
+1. 在合作伙伴中心，请参阅 " **客户** " 页。
 
-2. 找到想要购买 Azure VM 预留的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户**" 以打开 Azure 门户中的客户记录。
+2. 找到想要购买 Azure VM 预留的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
 
 3. 从门户菜单中选择**虚拟机**，然后选择你想要为其购买预订的虚拟机。
 
@@ -95,11 +95,11 @@ ms.locfileid: "87900117"
 
 ### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>验证客户在 Microsoft Azure 门户
 
-1. 在合作伙伴中心，请参阅 "**客户**" 页。
+1. 在合作伙伴中心，请参阅 " **客户** " 页。
 
-2. 查找其预订折扣和使用情况要验证的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户**" 以打开 Azure 门户中的客户记录。
+2. 查找其预订折扣和使用情况要验证的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
 3. 从门户菜单中选择**预订**，然后选择想要检查其使用情况的预订。
-4. 在 "**概述**" 页上，检查预订的 "使用率" 图，其中显示了已将预订应用到虚拟机的数量。
+4. 在 " **概述** " 页上，检查预订的 "使用率" 图，其中显示了已将预订应用到虚拟机的数量。
 
     >[!NOTE]
     >利用率数据最多可能会延迟 8 小时。

@@ -1,20 +1,20 @@
 ---
 title: 管理客户的 Azure 保留
+description: 了解如何管理客户的 Azure 保留，包括如何取消预订、交换预订或请求退款。
 ms.topic: how-to
-ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解如何管理客户的 Azure 保留，包括如何取消预订、交换预订或请求退款。
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
-ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
+ms.date: 08/06/2020
+ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "87900076"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366871"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>为客户管理、取消、交换或退款 Microsoft Azure 预订
 
@@ -33,20 +33,20 @@ ms.locfileid: "87900076"
 - “用户管理”管理员
 
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读[此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
 若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
 
-1. 若要开始，请从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择要管理其预留的客户。 
+1. 若要开始，请从 "合作伙伴中心" 菜单中选择 " **客户** "，然后选择要管理其预留的客户。 
 
-2. 在客户的详细信息页面菜单上，选择 " **Azure 保留**"，然后选择要管理的特定预订。  
+2. 在客户的详细信息页面菜单上，选择 " **Azure 保留** "，然后选择要管理的特定预订。  
 
-3. 在 "**操作**" 下，选择 "**管理**" 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
+3. 在 " **操作**" 下，选择 " **管理** " 以前往 Azure 门户中的客户预订记录。 在预订详细信息页面上，执行以下步骤来完成任务。  
 
-    | **选择**   | **收件人**    |
+    | **Select**   | **收件人**    |
     |:-----------------------------|:-----------------|
     | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
-    | ** (IAM) 的访问控制**   | 管理对客户预订信息的访问。|
+    | ** (IAM) 的访问控制 **   | 管理对客户预订信息的访问。|
     | **配置**   | 更改保留的作用域和/或与之关联的 Azure 订阅。    |
     | **属性**   | 查看预订的属性并将其复制到剪贴板中保留 ID 和预留订单 ID。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
     | **新建支持请求**    | 请求 Microsoft 支持人员提供帮助。   |
@@ -82,13 +82,13 @@ ms.locfileid: "87900076"
 若要为代表客户的退款或 exchange 提供支持请求，请选择 "合作伙伴中心" 中的 "客户和预订"，然后在 Azure 门户中创建支持请求。 
 
 >[!NOTE]
->Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户的保留**属性**页上找到此信息。
+>Microsoft 支持代理可能会要求你提供预订 ID 和预订订单 ID。 你可以在 Azure 门户的保留 **属性** 页上找到此信息。
 
-1. 若要开始，请从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择要退款的客户。 
+1. 若要开始，请从 "合作伙伴中心" 菜单中选择 " **客户** "，然后选择要退款的客户。 
 
-2. 在客户的详细信息页上，选择 " **Azure 预订**"，然后选择客户希望获得退款的特定预订。  
+2. 在客户的详细信息页上，选择 " **Azure 预订** "，然后选择客户希望获得退款的特定预订。  
 
-3. 在 "**操作**" 下，选择 "**退款**" 以前往 Azure 门户中的客户预订记录，并启动支持请求。  
+3. 在 " **操作**" 下，选择 " **退款** " 以前往 Azure 门户中的客户预订记录，并启动支持请求。  
 
 4. 在**新建支持请求**页上，请按照以下步骤来请求退款。 执行每个步骤后选择**下一步**。 
 

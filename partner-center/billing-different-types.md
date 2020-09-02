@@ -1,20 +1,20 @@
 ---
 title: 合作伙伴中心的计费类型
+description: 了解你可能会在合作伙伴中心看到的不同计费类型、计费周期和计费日期。
 ms.topic: article
-ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解你可能会在合作伙伴中心看到的不同计费类型、计费周期和计费日期。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/13/2020
+ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527603"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367041"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>合作伙伴中心的计费类型-包括基于许可证、基于使用情况和一次性计费
 
@@ -33,8 +33,8 @@ ms.locfileid: "87527603"
 
 根据你代表客户购买的产品、解决方案和服务，将为合作伙伴中心购买付费。 计费类型如下所示：
 
-- [**基于许可证的计费**](license-based-billing.md)，按许可证计费（而不是许可证使用情况）。
-- 基于许可证的 SaaS 事务计费（请参阅[**SaaS 计费的常见计费方案**](common-billing-scenarios-saas.md)）。
+- [**基于许可证的计费**](license-based-billing.md)，按许可证 (不按许可证使用情况计费) 。
+- 基于许可证的 SaaS 交易计费 (查看 [**SaaS 计费) 的常见计费方案**](common-billing-scenarios-saas.md) 。
 
 根据为客户购买的具体产品类型，你可能会有不同的计费周期，并且我们可能会在同一月内的不同日期向你收费。
 

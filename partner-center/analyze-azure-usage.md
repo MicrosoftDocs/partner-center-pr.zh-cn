@@ -1,20 +1,20 @@
 ---
 title: 分析 Azure 使用情况以帮助发展业务
-ms.date: 05/01/2020
+description: 了解如何使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解如何使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/01/2020
+ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526943"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367441"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>获取有关客户和 Azure 订阅的工作方式的数据
 
@@ -32,7 +32,7 @@ ms.locfileid: "87526943"
 
 数据推动业务决策。 使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
-若要获取**Azure 使用情况**，请登录到合作伙伴中心[仪表板](https:/partner.microsoft.com/dashboard)。 从 "合作伙伴中心" 菜单中选择 "**分析**"，然后选择 " **Azure 使用情况**"。
+若要获取 **Azure 使用情况**，请登录到合作伙伴中心 [仪表板](https:/partner.microsoft.com/dashboard)。 从 "合作伙伴中心" 菜单中选择 " **分析** "，然后选择 " **Azure 使用情况**"。
 
 > [!NOTE]
 > Azure 使用情况分析仅适用于云解决方案提供商计划中的合作伙伴。
