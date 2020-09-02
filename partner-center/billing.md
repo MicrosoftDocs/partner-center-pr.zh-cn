@@ -1,20 +1,20 @@
 ---
 title: 参考 - 合作伙伴中心计费文章
+description: 了解合作伙伴中心的计费和税务主题。 信息涵盖计费资源、发票、云解决方案提供商计费和税款。
 ms.topic: article
-ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-Description: 了解合作伙伴中心的计费和税务主题。 信息涵盖计费资源、发票、云解决方案提供商计费和税款。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 04/05/2020
+ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527403"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274996"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概述：合作伙伴中心的主要计费和税务文章
 
@@ -40,7 +40,7 @@ ms.locfileid: "87527403"
 | [常见计费方案](common-billing-scenarios.md) | 如何理解常见的合作伙伴中心计费方案（适用于按月和按年计费，以及一次性和定期购买的计费）。 |
 | [税收义务和豁免](tax-and-tax-exemptions.md) | 合作伙伴中心销售的税收义务和税收豁免的说明。 |
 | [Azure 支出预算](set-an-azure-spending-budget-for-your-customers.md) | 如何为客户设置 Azure 支出预算。 |
-| [拒不付款、欺诈或滥用](non-payment--fraud--or-misuse.md) | 如何在合作伙伴中心管理客户的拒不付款、欺诈或滥用。 |
+| [拒不付款、欺诈或滥用](non-payment-fraud-misuse.md) | 如何在合作伙伴中心管理客户的拒不付款、欺诈或滥用。 |
 | [针对服务中断请求 SLA 额度补偿](request-credit.md) | 当存在服务中断时，如何为客户从 Microsoft 请求 SLA 额度补偿。 |
 
 如果你正在寻找合作伙伴中心 API 计费信息和资源，请参阅[开发人员计费文档](https://docs.microsoft.com/partner-center/develop/manage-billing)。

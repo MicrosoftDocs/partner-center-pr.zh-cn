@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390604"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220505"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作伙伴赚取的返点 - 概要了解它如何在云解决方案提供商新的商务体验中发挥作用
 
@@ -73,11 +73,8 @@ ms.locfileid: "86390604"
 >[!Note]
 >客户可以选择删除已授予合作伙伴的任何访问权限。 合作伙伴不应仅仅出于赚取 Microsoft 返点的目的而强迫客户为其分配相应的访问权限 - 不遵守这一要求可能会导致失去赚取返点的资格。
 
-**详细信息**
+## <a name="next-steps"></a>后续步骤
 
 - [合作伙伴赚取的返点的计算与支付方式](partner-earned-credit-explanation.md)
-
 - [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
-
 - [Azure CSP 新商务体验的价目表](azure-plan-price-list.md)
-
