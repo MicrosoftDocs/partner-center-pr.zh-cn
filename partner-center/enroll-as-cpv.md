@@ -1,48 +1,48 @@
 ---
 title: 注册为控制面板供应商
+description: 了解如何在合作伙伴中心 (CPV) 注册为控制面板供应商。
 ms.topic: article
-ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解如何在合作伙伴中心 (CPV) 注册为控制面板供应商。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6258f54120e0a40f94ad74a76821c4222eb0ef4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.date: 05/20/2020
+ms.openlocfilehash: 79d46b306795c1261fb8e9af45e7c102b9e79601
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545888"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366731"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a><span data-ttu-id="4e8af-103">注册为控制面板供应商，帮助集成 CSP 合作伙伴系统和合作伙伴中心 Api</span><span class="sxs-lookup"><span data-stu-id="4e8af-103">Enroll as a Control Panel Vendor to help integrate CSP partner systems with Partner Center APIs</span></span>
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a><span data-ttu-id="17385-103">注册为控制面板供应商，帮助集成 CSP 合作伙伴系统和合作伙伴中心 Api</span><span class="sxs-lookup"><span data-stu-id="17385-103">Enroll as a Control Panel Vendor to help integrate CSP partner systems with Partner Center APIs</span></span>
 
-<span data-ttu-id="4e8af-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="4e8af-104">**Applies to**</span></span>
+<span data-ttu-id="17385-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="17385-104">**Applies to**</span></span>
 
-- <span data-ttu-id="4e8af-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="4e8af-105">Partner Center</span></span>
+- <span data-ttu-id="17385-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="17385-105">Partner Center</span></span>
 
-<span data-ttu-id="4e8af-106">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="4e8af-106">**Appropriate roles**</span></span>
+<span data-ttu-id="17385-106">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="17385-106">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="4e8af-107">全局管理员</span><span class="sxs-lookup"><span data-stu-id="4e8af-107">Global admin</span></span>
+- <span data-ttu-id="17385-107">全局管理员</span><span class="sxs-lookup"><span data-stu-id="17385-107">Global admin</span></span>
 
-<span data-ttu-id="4e8af-108">控制面板供应商 (CPV) 是一家独立软件供应商，可开发云解决方案提供商 (CSP) 合作伙伴所使用的应用程序，使其能够将其系统与合作伙伴中心 Api 集成。</span><span class="sxs-lookup"><span data-stu-id="4e8af-108">A Control Panel Vendor (CPV) is an independent software vendor that develops applications for use by Cloud Solution Provider (CSP) partners to enable them to integrate their systems with Partner Center APIs.</span></span> <span data-ttu-id="4e8af-109">控制面板供应商不是可直接访问合作伙伴中心仪表板或合作伙伴中心 Api 的 CSP 合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="4e8af-109">A Control Panel vendor is not a CSP Partner with direct access to the Partner Center dashboard or Partner Center APIs.</span></span>
+<span data-ttu-id="17385-108">控制面板供应商 (CPV) 是一家独立软件供应商，可开发云解决方案提供商 (CSP) 合作伙伴所使用的应用程序，使其能够将其系统与合作伙伴中心 Api 集成。</span><span class="sxs-lookup"><span data-stu-id="17385-108">A Control Panel Vendor (CPV) is an independent software vendor that develops applications for use by Cloud Solution Provider (CSP) partners to enable them to integrate their systems with Partner Center APIs.</span></span> <span data-ttu-id="17385-109">控制面板供应商不是可直接访问合作伙伴中心仪表板或合作伙伴中心 Api 的 CSP 合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="17385-109">A Control Panel vendor is not a CSP Partner with direct access to the Partner Center dashboard or Partner Center APIs.</span></span>
 
-<span data-ttu-id="4e8af-110">无论你是 (CPV) 的新控制面板供应商，还是想要与 Microsoft 合作伙伴合作的新 CPV，Microsoft 现在都要求你注册合作伙伴中心，以便注册应用程序并支持云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="4e8af-110">Whether you are a current Control Panel Vendor (CPV) or a new CPV who wants to work with Microsoft partners, Microsoft now requires you to enroll in Partner Center in order to register your applications and support Cloud Solution Provider partners.</span></span> <span data-ttu-id="4e8af-111">若要创建帐户，CPV 合作伙伴可以使用现有的 CSP 合作伙伴租户或现有的 CPV 租户，也可以在载入过程中创建新租户。</span><span class="sxs-lookup"><span data-stu-id="4e8af-111">To create an account, a CPV partner can either use an existing CSP partner tenant, or existing CPV tenant or can create a new tenant as part of onboarding process.</span></span> <span data-ttu-id="4e8af-112">如果 CPV 合作伙伴选择使用现有的 CSP 租户，则他们将需要创建单独的多租户应用程序，并将其注册到合作伙伴中心进行 CPV 活动。</span><span class="sxs-lookup"><span data-stu-id="4e8af-112">If the CPV partner chooses to use the existing CSP tenant, then they'll need to create separate multi-tenant applications and register them in Partner Center for CPV activities.</span></span> <span data-ttu-id="4e8af-113">无法将应用程序注册为 CSP 和 CPV 应用程序。</span><span class="sxs-lookup"><span data-stu-id="4e8af-113">An application can't be registered as both a CSP and CPV application.</span></span> <span data-ttu-id="4e8af-114">在合作伙伴中心注册并注册应用程序后，你将有权访问合作伙伴中心 Api。</span><span class="sxs-lookup"><span data-stu-id="4e8af-114">After you have enrolled in Partner Center and registered your applications, you will have access to the Partner Center APIs.</span></span>  <span data-ttu-id="4e8af-115">Microsoft 将通过合作伙伴中心通知与你联系，其中包含沙盒信息。</span><span class="sxs-lookup"><span data-stu-id="4e8af-115">Microsoft will contact you via a Partner Center notification with your sandbox information.</span></span> <span data-ttu-id="4e8af-116">如果已有沙盒帐户，请继续使用它。</span><span class="sxs-lookup"><span data-stu-id="4e8af-116">If you already have a sandbox account, continue using it.</span></span> <span data-ttu-id="4e8af-117">不需要新的沙盒。</span><span class="sxs-lookup"><span data-stu-id="4e8af-117">You won't need a new sandbox.</span></span>
+<span data-ttu-id="17385-110">无论你是 (CPV) 的新控制面板供应商，还是想要与 Microsoft 合作伙伴合作的新 CPV，Microsoft 现在都要求你注册合作伙伴中心，以便注册应用程序并支持云解决方案提供商合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="17385-110">Whether you are a current Control Panel Vendor (CPV) or a new CPV who wants to work with Microsoft partners, Microsoft now requires you to enroll in Partner Center in order to register your applications and support Cloud Solution Provider partners.</span></span> <span data-ttu-id="17385-111">若要创建帐户，CPV 合作伙伴可以使用现有的 CSP 合作伙伴租户或现有的 CPV 租户，也可以在载入过程中创建新租户。</span><span class="sxs-lookup"><span data-stu-id="17385-111">To create an account, a CPV partner can either use an existing CSP partner tenant, or existing CPV tenant or can create a new tenant as part of onboarding process.</span></span> <span data-ttu-id="17385-112">如果 CPV 合作伙伴选择使用现有的 CSP 租户，则他们将需要创建单独的多租户应用程序，并将其注册到合作伙伴中心进行 CPV 活动。</span><span class="sxs-lookup"><span data-stu-id="17385-112">If the CPV partner chooses to use the existing CSP tenant, then they'll need to create separate multi-tenant applications and register them in Partner Center for CPV activities.</span></span> <span data-ttu-id="17385-113">无法将应用程序注册为 CSP 和 CPV 应用程序。</span><span class="sxs-lookup"><span data-stu-id="17385-113">An application can't be registered as both a CSP and CPV application.</span></span> <span data-ttu-id="17385-114">在合作伙伴中心注册并注册应用程序后，你将有权访问合作伙伴中心 Api。</span><span class="sxs-lookup"><span data-stu-id="17385-114">After you have enrolled in Partner Center and registered your applications, you will have access to the Partner Center APIs.</span></span>  <span data-ttu-id="17385-115">Microsoft 将通过合作伙伴中心通知与你联系，其中包含沙盒信息。</span><span class="sxs-lookup"><span data-stu-id="17385-115">Microsoft will contact you via a Partner Center notification with your sandbox information.</span></span> <span data-ttu-id="17385-116">如果已有沙盒帐户，请继续使用它。</span><span class="sxs-lookup"><span data-stu-id="17385-116">If you already have a sandbox account, continue using it.</span></span> <span data-ttu-id="17385-117">不需要新的沙盒。</span><span class="sxs-lookup"><span data-stu-id="17385-117">You won't need a new sandbox.</span></span>
 
-<span data-ttu-id="4e8af-118">查看[Microsoft 控制面板供应商协议](https://go.microsoft.com/fwlink/?linkid=2055198)</span><span class="sxs-lookup"><span data-stu-id="4e8af-118">Review the [Microsoft Control Panel Vendor agreement](https://go.microsoft.com/fwlink/?linkid=2055198)</span></span>
+<span data-ttu-id="17385-118">查看 [Microsoft 控制面板供应商协议](https://go.microsoft.com/fwlink/?linkid=2055198)</span><span class="sxs-lookup"><span data-stu-id="17385-118">Review the [Microsoft Control Panel Vendor agreement](https://go.microsoft.com/fwlink/?linkid=2055198)</span></span>
 
 
-## <a name="working-in-partner-center"></a><span data-ttu-id="4e8af-119">在合作伙伴中心内工作</span><span class="sxs-lookup"><span data-stu-id="4e8af-119">Working in Partner Center</span></span>
-<span data-ttu-id="4e8af-120">注册到合作伙伴中心 CPV 经验并接受 CPV 协议后，可以：</span><span class="sxs-lookup"><span data-stu-id="4e8af-120">Once you have enrolled in the Partner Center CPV experience and accepted the CPV agreement, you can:</span></span>
+## <a name="working-in-partner-center"></a><span data-ttu-id="17385-119">在合作伙伴中心内工作</span><span class="sxs-lookup"><span data-stu-id="17385-119">Working in Partner Center</span></span>
+<span data-ttu-id="17385-120">注册到合作伙伴中心 CPV 经验并接受 CPV 协议后，可以：</span><span class="sxs-lookup"><span data-stu-id="17385-120">Once you have enrolled in the Partner Center CPV experience and accepted the CPV agreement, you can:</span></span>
 
-- <span data-ttu-id="4e8af-121">管理多租户应用程序 (将应用程序添加到合作伙伴中心) 中 Azure 门户、注册和注销应用程序。</span><span class="sxs-lookup"><span data-stu-id="4e8af-121">Manage multi-tenant applications (add applications to Azure portal, register, and unregister applications in Partner Center).</span></span>
+- <span data-ttu-id="17385-121">管理多租户应用程序 (将应用程序添加到合作伙伴中心) 中 Azure 门户、注册和注销应用程序。</span><span class="sxs-lookup"><span data-stu-id="17385-121">Manage multi-tenant applications (add applications to Azure portal, register, and unregister applications in Partner Center).</span></span>
 
     >[!Note] 
-    ><span data-ttu-id="4e8af-122">CPVs 必须在合作伙伴中心注册其应用程序，才能获得合作伙伴中心 Api 的授权。</span><span class="sxs-lookup"><span data-stu-id="4e8af-122">CPVs must register their applications in Partner Center in order to get authorized for Partner Center APIs.</span></span> <span data-ttu-id="4e8af-123">只是将应用程序添加到 Azure 门户并不会为 CPV 应用程序授予使用合作伙伴中心 API 的权限。</span><span class="sxs-lookup"><span data-stu-id="4e8af-123">Adding applications to the Azure portal alone does not authorize CPV applications for Partner Center APIs.</span></span> 
+    ><span data-ttu-id="17385-122">CPVs 必须在合作伙伴中心注册其应用程序，才能获得合作伙伴中心 Api 的授权。</span><span class="sxs-lookup"><span data-stu-id="17385-122">CPVs must register their applications in Partner Center in order to get authorized for Partner Center APIs.</span></span> <span data-ttu-id="17385-123">只是将应用程序添加到 Azure 门户并不会为 CPV 应用程序授予使用合作伙伴中心 API 的权限。</span><span class="sxs-lookup"><span data-stu-id="17385-123">Adding applications to the Azure portal alone does not authorize CPV applications for Partner Center APIs.</span></span> 
 
-- <span data-ttu-id="4e8af-124">查看和管理 CPV 档案。</span><span class="sxs-lookup"><span data-stu-id="4e8af-124">View and manage your CPV profile</span></span> 
+- <span data-ttu-id="17385-124">查看和管理 CPV 档案。</span><span class="sxs-lookup"><span data-stu-id="17385-124">View and manage your CPV profile</span></span> 
 
-- <span data-ttu-id="4e8af-125">查看和管理需访问 CPV 功能的用户。</span><span class="sxs-lookup"><span data-stu-id="4e8af-125">View and manage your users who need access to CPV capabilities.</span></span> <span data-ttu-id="4e8af-126">全局管理员是 CPV 可以拥有的唯一角色。</span><span class="sxs-lookup"><span data-stu-id="4e8af-126">Global admin is the only role a CPV can have.</span></span>
+- <span data-ttu-id="17385-125">查看和管理需访问 CPV 功能的用户。</span><span class="sxs-lookup"><span data-stu-id="17385-125">View and manage your users who need access to CPV capabilities.</span></span> <span data-ttu-id="17385-126">全局管理员是 CPV 可以拥有的唯一角色。</span><span class="sxs-lookup"><span data-stu-id="17385-126">Global admin is the only role a CPV can have.</span></span>
 
 
