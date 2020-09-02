@@ -1,7 +1,7 @@
 ---
 title: 规划服务预订的资格
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解公司可能想要向企业客户提供的每个软件保障规划服务的资格要求。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711819"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286492"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看规划服务预订的资格要求
 
@@ -31,9 +31,6 @@ ms.locfileid: "88711819"
 ## <a name="learn-more-about-each-engagement"></a>了解有关每个参与的详细信息
 
 每个计划服务参与都有其自己的特定资格要求以及其允许的最大持续时间。
-
-> [!NOTE]
-> 在交付特定的计划服务之前，必须满足不同类型的能力要求。 首先，需要满足在规划服务产品中注册的最低能力要求。 然后，公司还必须满足与交付特定类型的 engagement 相关的能力要求。
 
 若要详细了解这些特定于订婚的资格要求，请参阅下表。
 
