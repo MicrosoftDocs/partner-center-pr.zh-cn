@@ -187,6 +187,8 @@
           href: connector-dynamics.md
         - name: 用于 Salesforce CRM 的联合销售连接器 – 概述
           href: connector-salesforce.md
+        - name: 迁移自合作伙伴销售连接 (PSC) 的合作伙伴联合销售
+          href: psc-to-pc.md
         - name: 注册交易
           href: register-deals.md
         - name: 获取引荐见解
@@ -293,7 +295,7 @@
     - name: 为客户设置 Azure 费用预算
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 管理拒不付款、欺诈或滥用
-      href: non-payment--fraud--or-misuse.md
+      href: non-payment-fraud-misuse.md
     - name: 管理未分配付款
       href: unallocated-payment.md
 - name: 与客户联系
@@ -458,6 +460,8 @@
           href: pci-roles.md
         - name: 见解 - 客户仪表板
           href: pci-customer-report.md
+        - name: 见解 - 经销商业绩仪表板
+          href: pci-resellers-performance.md
         - name: 见解 - 产品订阅仪表板
           href: pci-product-subscriptions-report.md
         - name: 见解 - 产品许可证仪表板
