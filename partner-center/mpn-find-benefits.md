@@ -1,7 +1,7 @@
 ---
 title: 查找你的权益
 ms.topic: how-to
-ms.date: 08/27/2020
+ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何在合作伙伴中心仪表板中查找 MPN 权益。
@@ -9,19 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220756"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427114"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>找到你的 Microsoft 合作伙伴网络权益 
-
-本文介绍了 Microsoft 合作伙伴网络 (MPN 的成员) 在合作伙伴中心仪表板中如何查找其 MPN 权益。 此信息包括如何查找你公司的特定产品支持 Id，如合同 ID 和访问 ID （与技术优势相关）。
-
->[!NOTE]
-> 如果 Microsoft 合作伙伴网络的成员资格仍处于伙伴成员中心 (PMC) ，可能需要联系合作伙伴前端等其他资源，以帮助你查看或激活特定权益。 有关详细信息，请参阅 [合作伙伴中心之外的激活技术权益](partner-membership-center-tech-benefits-activate.md)。
 
 ### <a name="applies-to"></a>适用于
 
@@ -32,7 +27,14 @@ ms.locfileid: "89220756"
 - MPN 合作伙伴管理员
 - 全局管理员
 
-作为 Microsoft 合作伙伴网络 (MPN) 成员，你的公司有权访问有助于拓展业务的许多好处。 若要了解这些优点：
+本文介绍了 Microsoft 合作伙伴网络 (MPN 的成员) 在合作伙伴中心仪表板中如何查找其 MPN 权益。 此信息包括如何查找你公司的特定产品支持 Id，如合同 ID 和访问 ID （与技术优势相关）。
+
+>[!NOTE]
+> 如果 Microsoft 合作伙伴网络的成员资格仍处于伙伴成员中心 (PMC) ，可能需要联系合作伙伴前端等其他资源，以帮助你查看或激活特定权益。 有关详细信息，请参阅 [合作伙伴中心之外的激活技术权益](partner-membership-center-tech-benefits-activate.md)。
+
+## <a name="find-your-mpn-benefits-in-partner-center"></a>在合作伙伴中心查找你的 MPN 权益
+
+作为 Microsoft 合作伙伴网络成员，你的公司有权访问有助于拓展业务的许多好处。 若要了解这些优点：
 
 1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)，选择 " **MPN**"，然后选择 " **权益**"。
 
@@ -60,7 +62,7 @@ ms.locfileid: "89220756"
 为了获得技术优势，你将看到 Microsoft 产品支持 Id，如合作伙伴中心的 **访问 id** 和 **合同 id** 。
 
 >[!NOTE]
-> 如果 Microsoft 合作伙伴网络的成员资格仍处于伙伴成员中心 (PMC) ，并且尚未迁移到合作伙伴中心，则需要联系合作伙伴前端来激活技术权益或接收你的支持访问 ID 和合同 ID。
+> 如果 Microsoft 合作伙伴网络的成员资格仍处于伙伴成员中心 (PMC) ，并且尚未迁移到合作伙伴中心，则需要 [联系合作伙伴前端](partner-membership-center-tech-benefits-activate.md) 来激活技术权益或接收你的支持访问 ID 和合同 id。
 
  请按照以下步骤在合作伙伴中心查看此信息：
 
