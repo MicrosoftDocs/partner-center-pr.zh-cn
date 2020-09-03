@@ -9,19 +9,24 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: b34cfc1448ba97d663b8dc89f424905775f9766c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303283"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286501"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-| **类别** | 2020 年 8 月公告 | **已公布** |
+| **类别** | **2020 年 9 月公告** | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[即将推出新的 Microsoft Dynamics 365 产品/服务](2020-september.md#3)|9 月 1 日|
+|产品/市场|[Office 365 通话套餐将于 2020 年 10 月 1 日在新的市场中推出](2020-september.md#2)|9 月 1 日|
+|产品/市场|[面向教育服务器的 Microsoft Defender 高级威胁防护 (ATP) 现已推出](2020-september.md#1)|9 月 1 日|
+| **类别** | 2020 年 8 月公告 | **日期** |
+|功能|[适用于教育客户验证流程的合作伙伴中心 API 更新和用户界面改进](2020-august.md#8)|8 月 31 日|
 |产品/市场|[更新到 Microsoft 365 语音促销](2020-august.md#7)|8 月 14 日|
 |功能|[.NET Standard 上的 SDK 版本 v1.16.1](2020-august.md#6)|8 月 12 日|
 |功能|[即将推出自助购买 Microsoft Project 和 Microsoft Visio 的服务](2020-august.md#5)|8 月 12 日|
