@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303053"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274985"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
 本页详述了 Microsoft 合作伙伴中心 2020 年 8 月公告。
 
 2020 公告：[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7月](2020-july.md) | 8 月
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>面向教育客户验证流程的合作伙伴中心 API 更新和用户界面改进功能
+
+### <a name="categories"></a>类别
+
+- 日期:2020-08-31
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+通过云解决方案提供商 (CSP) 计划销售学术产品/服务的合作伙伴 
+
+### <a name="summary"></a>总结
+
+Microsoft 值得信赖，我们致力于在云解决方案提供商计划中为交易学术产品/服务提供合规、安全且可靠的客户验证方法。 作为此承诺的一部分，我们将在本会计年度第二季度 (FY21 Q2) 推出合作伙伴中心 API 和用户界面改进功能，这将增加客户审核流程的透明度和可见性，确保能够输入更准确的数据，从而提高客户审查的成功率。 
+
+#### <a name="partner-center-enhancements"></a>合作伙伴中心增强功能
+
+- 新的 GET 和 POST 资格 API，可支持准确的数据输入并改进 Microsoft 的教育客户验证流程。
+- 用户界面增强功能，可支持准确的数据输入并改进 Microsoft 的教育客户验证流程。
+
+#### <a name="testing"></a>测试
+
+合作伙伴将有机会从 10 月开始测试这些增强功能。 我们强烈建议你利用此次机会更好地了解成功进行客户审核所需的 API 和数据输入。 我们将很快提供更多关于具体时间和参与方式的详细信息。 在 FY21 Q2 结束之前，将停用现有的合作伙伴中心 API，届时，所有合作伙伴都需要转换为使用新的合作伙伴中心 API。
+
+#### <a name="library-and-museum-customers"></a>图书馆和博物馆客户
+
+除了上述增强功能，我们还很高兴地宣布，在 FY21 Q2，我们将为图书馆和博物馆客户启用学术定价产品/服务，以扩展可与之交易 CSP 产品/服务的教育客户。
+
+Microsoft 保留审查任何客户或推荐客户是否属于合格教育用户的权利。 有关完整详细信息，请参阅[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
+
+### <a name="next-stepsadditional-resources"></a>后续步骤/其他资源
+
+- 在操作就绪资源中查看新的合作伙伴中心用户界面和 API 更改：[合作伙伴中心教育客户验证流程增强功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- 确保组织熟悉[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
+- 请与组织内的相应团队和经销商共享此信息，以帮助他们为这些更改做好准备。
+- 关注 10 月测试机会的更新，我们将提供有关具体时间和参与方式的详细信息。
 
 ________________
 

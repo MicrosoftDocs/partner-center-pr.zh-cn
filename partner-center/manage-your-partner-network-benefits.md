@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作伙伴网络权益
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作伙伴网络 (MPN) 并使用合作伙伴中心来管理成员资格权益和优惠，从而帮助拓展业务。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120004"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220745"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
@@ -41,9 +41,11 @@ ms.locfileid: "87120004"
 >[!IMPORTANT]
 >尽管无需是组织中的全局管理员即可购买权益，但只有全局管理员才能为员工分配权益。 如果需要，可以根据[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明成为全局管理员（需要登录）。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
 
-权益套餐涵盖已授权软件、云服务、Visual Studio 订阅和支持服务的分配。 权益套餐还可能涵盖某些市场推广资源、套餐和计划。 可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
+权益套餐涵盖已授权软件、云服务、Visual Studio 订阅和技术支持的分配。 权益套餐还可能涵盖某些市场推广资源、产品/服务和市场相关计划。 可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 
-若要查看和管理所有会员权益，请转到[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。 或者，可以登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，从左侧菜单中选择“[权益选项]”，然后选择显示的任何权益选项。  
+要查看和管理所有会员权益，请转到[“权益”页面](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。 或者，可以登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，从左侧菜单中选择“[权益选项]”，然后选择显示的任何权益选项。  
+
+要激活最多权益或下载相关软件密钥等，合作伙伴中心通常需要分配了全局管理员或 MPN 合作伙伴管理员角色的人员。如果看不到任何权益或无法激活权益，请咨询合作伙伴中心全局管理员以确保拥有正确的权限。 [详细了解合作伙伴中心角色](permissions-overview.md)。
 
 ## <a name="manage-software-benefits"></a>管理软件权益
 
@@ -88,23 +90,27 @@ ms.locfileid: "87120004"
 
 ## <a name="manage-technical-benefits"></a>管理技术权益
 
-1. 选择“技术权益”可查看 Microsoft 技术权益列表。
+本部分介绍如何在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中激活和管理技术支持权益。 但是，如果 Microsoft 合作伙伴网络成员身份仍处于 Partner Membership Center (PMC)，则需要联系合作伙伴一线人员等其他资源，帮助激活技术权益。 请参阅[在合作伙伴中心外激活技术权益](partner-membership-center-tech-benefits-activate.md)。
 
-   技术权益可能包括 Microsoft 产品支持事件、合作伙伴咨询小时，以及技术售前和部署服务。
+要查看合作伙伴中心的技术权益，请执行以下操作：
 
-2. 找到要开始使用的订阅权益，然后选择所在行最右侧的向下箭头，展开该权益的详细信息。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-3. 若要激活支持权益，请为其分配用户。
+2. 选择“权益”，然后在左侧导航菜单中选择“技术权益” 。 此时会显示“技术权益”页面，其中列出了可用于任何黄金、白银或 Microsoft Action Pack 资格的技术支持权益。
 
-   a. 从列表中选择一个用户。 如果要分配的用户不在该列表中，可以在“帐户设置”中[添加新用户](create-user-accounts-and-set-permissions.md)。
+   如果看不到这些选项或“技术权益”页面，则可能没有在合作伙伴中心分配正确的[用户角色](permissions-overview.md)。 请联系合作伙伴中心全局管理员以获取访问权限。
 
-   b. 为用户提供一个电子邮件地址，该电子邮件地址不同于与公司合作伙伴中心帐户关联的电子邮件地址。
+3. 展开权益列表。 要开始使用特定的支持权益，需要在第一次使用时执行以下操作：
 
-   作为一项安全措施，我们会通过电子邮件将有关访问 Microsoft 产品支持的说明发送到此电子邮件地址，此外还会发送到用户的合作伙伴中心帐户电子邮件地址。 激活此权益并通过电子邮件将说明发送给分配的用户可能需要几天时间。
+   - **激活技术权益。** 展开权益的详细信息后，选择“激活”。 需要几天时间来处理激活请求。
 
-   c. 输入备用电子邮件地址后，选择“分配用户”。
+   - **查看并共享产品支持访问 ID 和合同 ID。** 处理激活请求后，下一次扩展该技术权益时将显示有关访问 ID 和合同 ID 的详细信息 。 当你首次提交某些产品或服务类型的支持请求时，你或你公司的用户可能需要共享此信息。
 
-4. 可以使用技术售前帮助或咨询小时权益在云和混合解决方案的售前、设计、部署和应用开发阶段请求技术帮助。 若要请求帮助，请填写[请求表单](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然后选择“提交请求”。
+4. 激活后，可以使用不同技术支持类型的技术权益。 要提交这些服务类型的技术支持请求，请阅读“技术权益”页面上的详细说明：
+
+   - 代表客户请求云产品支持
+   - 请求本地产品支持
+   - 请求技术预售和部署服务或[咨询时间](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
 
 ## <a name="manage-go-to-market-offers"></a>管理市场推广套餐
 

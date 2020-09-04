@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
+ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811107"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89304974"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作伙伴中心中验证合作伙伴配置文件信息
 
@@ -25,7 +25,7 @@ ms.locfileid: "87811107"
 
 在首次以全局管理员身份登录到合作伙伴中心时，应确认你所有的公司详细信息是否正确。 包括主要联系人、法定公司名称和地址，以及计划信息。 如果公司有多个位置，请查看位置数据以确保其准确性。 作为全局管理员、帐务管理员或管理员代理，你也可以查看并更新帐务和税务信息。
 
-合作伙伴配置文件包含法定公司信息、主要联系人名称和电子邮件、公司参与的计划，以及现在合并到法定公司名下的其他公司（如果适用）。
+合作伙伴配置文件包含法定公司信息、主要联系人名称和电子邮件、公司参与的计划，以及现在合并到法定公司名下的其他公司（如果适用）。 请确保法人资料中的公司名称和地址没有拼写错误和缩写，并且与正式的公司商业注册记录完全一致。 如果以个体经营者的身份运营，则需要将公司名称用作法人名称。
 
 1. 转到“设置”，然后选择“合作伙伴配置文件”。
 
@@ -39,7 +39,7 @@ ms.locfileid: "87811107"
 
 1. 转到“设置”，然后选择“合作伙伴配置文件”。 
 
-2. 选择法定地址旁边的“更新”。 ""
+2. 选择法定地址旁边的“更新”。 
 
 >[!Important]
 >如果你是云解决方案提供商，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
