@@ -9,21 +9,18 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 207a6013f11ab795bf46e184a4e98379e3ef3301
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
+ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281331"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89471464"
 ---
 # <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
 **适用于**
 
-- 引荐
-- 与 Microsoft 联合销售
-- PSC 用户帐户设置
-- 合作伙伴销售连接 (PSC) 用户 
+- 合作伙伴中心
 
 **相应的角色**
 
@@ -33,7 +30,7 @@ ms.locfileid: "89281331"
 -  (PSC) 管理员的合作伙伴销售连接
 - 合作伙伴销售连接 (PSC) 交易经理
 
-如你所知，你的公司将无法访问 PSC，2020年12月31日。 你将找到要创建共同销售交易所需的所有内容，管理你的交易，并对 Microsoft 卖方发送到合作伙伴中心的交易进行操作。 但有一些区别，以下指南可帮助你将过渡过渡到合作伙伴中心。
+如你所知，你的公司将无法访问 PSC，2020年12月31日。 不过，你会发现你要创建共同销售交易所要做的一切，管理你的交易，并对 Microsoft 卖方发送到合作伙伴中心的交易进行操作。 但有一些区别，以下指南可帮助你将过渡过渡到合作伙伴中心。
 
 >[!Important]
 > 如果你在此处看到有关迁移的关于迁移的横幅，就是正确的位置。 本指南不适用于在 PSC 中管理其交易 (SA) 和 OEM IOT 合作伙伴。
@@ -43,14 +40,14 @@ ms.locfileid: "89281331"
 ### <a name="if-you-are-psc-admin"></a>如果你是 PSC 管理员
 
 - 需要使用工作电子邮件登录到 [合作伙伴中心](https://partner.microsoft.com/)。
-- 通过合作伙伴中心 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant)的帮助设置你的帐户。
+- 通过合作伙伴中心 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview)的帮助设置你的帐户。
 - 阅读本文档，了解如何在合作伙伴中心共同销售。
-- 在合作伙伴中心设置用户帐户，使其 (管理员、交易经理和卖方角色) 的所有 PSC 用户，并为他们分配 [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 角色。
+- 在合作伙伴中心设置用户帐户，使其 (管理员、交易经理和卖方角色) 的所有 PSC 用户，并为他们分配 [引用管理员角色](https://docs.microsoft.com/partner-center/permissions-overview)。
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>如果是 PSC 交易经理或卖方
 
 - 需要使用工作电子邮件登录到 [合作伙伴中心](https://partner.microsoft.com/)。
-- 如果你使用的是 PSC 中的非工作帐户，或者你的工作电子邮件与合作伙伴组织的公司不同，请联系你的 PSC 管理员以获取帐户设置帮助。
+- 如果你使用的是 PSC 中的非工作帐户，或者你的工作电子邮件与合作伙伴公司的公司不同，请联系你的 PSC 管理员以获取帐户设置帮助。
 - 如果你的合作伙伴中心帐户设置完成，而不考虑你用来登录到 PSC 的帐户，请咨询你的 PSC 管理员。
 - 验证你是否有权访问 "合作伙伴中心" 和 "引用" 部分。
 - 阅读本文档，了解合作伙伴中心的工作流和变化。
@@ -59,7 +56,7 @@ ms.locfileid: "89281331"
 
 如果看不到 "引用" 选项卡：
 
-- 公司的 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 可以授予你访问 "引用" 选项卡的权限。若要查找帐户管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 选择左侧导航栏中第二级的 "用户管理" 页。 单击显示页面右上方的 "所有用户" 的下拉箭头，然后更改为 "帐户管理员"。 然后，该页将显示所有帐户管理员及其各自的电子邮件 Id。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
+- 贵公司的 [全局管理员](https://docs.microsoft.com/partner-center/permissions-overview) 可授予你访问 "引用" 选项卡的权限。若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 选择左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。 然后，该页将显示具有各自电子邮件 Id 的所有全局管理员。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
 
 >[!Important]
 > 如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 角色。 如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " 角色。 另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。
@@ -69,7 +66,7 @@ ms.locfileid: "89281331"
 - 在左侧导航窗格中转到 "引用" 选项卡，并检查是否可以访问这些页面。
 
 >[!Note]
-> 您可能必须注销伙伴中心，然后重新登录才能刷新您的凭据以访问引用页面。
+> 您可能必须从合作伙伴中心注销并重新登录，以便刷新您的凭据以访问引用页面。
 
 在合作伙伴中心设置帐户后，
 
@@ -111,7 +108,7 @@ ms.locfileid: "89281331"
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC 和合作伙伴中心字段映射
 
-本部分将帮助你了解 PSC 与合作伙伴中心之间的准确的属性映射。 与 "合作伙伴中心共同销售机会" 一节中的相关视图相比，PSC 中的每个屏幕。 
+本部分介绍了 PSC 与合作伙伴中心之间的确切属性映射。 与 "合作伙伴中心共同销售机会" 一节中的相关视图相比，PSC 中的每个屏幕。 
 
 >[!Note]
 >按照 PSC 屏幕截图中的黄色气泡上的数字，在 "合作伙伴中心" 中找到等效的属性。 红色气泡表明 "存档" 在 "合作伙伴中心" 中不可用。
@@ -224,7 +221,7 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 
 你的 Pdm 不能直接访问合作伙伴中心，这与 PSC 不同。 有多个选项可用于启用该功能，如下所述。
 
-- OCP Insights-如果 Pdm 只是查看 & 相关的交易进度，则可以使用 OCP Insights 门户获取组织视图。 这是一个内部工具，仅适用于 Pdm 和用户。 请注意，不能将 OCP 见解提供给公司的用户。
+- OCP Insights-如果 Pdm 只是查看 & 相关的交易进度，则可以使用 OCP Insights 门户获取组织视图。 这是一个内部工具，仅适用于 Pdm。 请注意，不能将 OCP 见解提供给公司的用户。
 - 合作伙伴中心的来宾用户-可以 @microsoft.com 在合作伙伴中心添加 PDM 帐户作为来宾用户，并向其分配引用管理员角色，以便他们可以查看和操作引用。
 - 在租户中创建 [新用户](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) -可以在自己的租户中创建新用户，并与 PDM 共享这些详细信息，以便他们可以查看和处理与帐户中的其他引用用户类似的引用。
 
