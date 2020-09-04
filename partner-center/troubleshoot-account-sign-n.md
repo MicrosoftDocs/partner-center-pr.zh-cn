@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1d850663224469f24d5d4442e33cc17c1bb6704
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
+ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220235"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89443583"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>帐户设置或 MPN 续订问题的疑难解答
 
@@ -31,13 +31,15 @@ ms.locfileid: "89220235"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果要从合作伙伴成员中心进行迁移并且无法编辑任何公司信息字段，会发生什么情况
 
-如果你的公司已在合作伙伴中心（ (说 CSP 帐户) ）中存在，则会出现这种情况–你将显示一个只读屏幕，该屏幕将显示有关你的公司的所有信息，因为它存在于合作伙伴中心。
+如果你的公司已在合作伙伴中心（ (说 CSP 帐户) ）中存在，则将显示一个只读屏幕，该屏幕将显示有关你公司的所有信息，因为它存在于合作伙伴中心。
 
-你无法更改此屏幕上的详细信息。 这是由设计决定的，而不是错误。
+无法更改此屏幕上的详细信息。 这是由设计决定的，而不是错误。
 
 选择 " **接受** 并 **继续** " 继续。
 
-## <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>你正在尝试注册或从合作伙伴成员中心迁移，但收到了一条错误消息，指出 IT 部门已关闭 " **注册合作伙伴中心**"。
+
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部门已关闭 **合作伙伴中心的注册**，
+
 
 你会看到此消息，因为已禁用病毒用户或在 Azure AD 租户上禁用病毒注册。 Azure AD 帐户的全局管理员可以通过运行以下 PowerShell 命令来启用所需的功能：
 
@@ -51,11 +53,13 @@ ms.locfileid: "89220235"
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 "告诉我们公司的情况" 屏幕上，收到 "出现错误" 错误
 
-如果你在公司电话号码中无意中使用特殊字符、空格或国家/地区代码，则通常会发生这种情况。 在 "电话号码" 字段中输入的值最多只能包含10个字符。
+如果你无意中在公司电话号码中使用特殊字符、空格或国家/地区代码，则会出现此错误消息。 在 "电话号码" 字段中输入的值最多只能包含10个字符。
 
-## <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>你正在尝试通过信用卡完成购买，但你收到一条错误消息，指出 "你的订单已被拒绝。 请验证你的信息
 
-你应始终插入与信用卡相对应的地址，而不是与你的法律实体对应的地址。 此外，请确保邮政编码正确，并对应于所使用的地址。
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>你的信用卡购买将收到一条错误消息，指出 "你的订单已被拒绝。 请验证你的信息
+
+
+始终使用与您的信用卡相对应的地址，而不是您的法律实体。 此外，请确保邮政编码正确，并对应于所使用的地址。
 
 ## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>要从脱机支付切换到联机付款方式 
 
@@ -68,3 +72,8 @@ ms.locfileid: "89220235"
 2. 选择 **取消顺序**
 
 3. 将显示一个确认窗口，您必须确认才能取消初始订单。
+
+## <a name="next-steps"></a>后续步骤
+
+- [管理合作伙伴中心帐户](partner-center-account-setup.md)
+- [如何读取帐单和侦测文件](read-your-bill.md)
