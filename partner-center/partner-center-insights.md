@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943694"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490625"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
@@ -26,11 +26,11 @@ ms.locfileid: "86943694"
 
 ## <a name="introduction"></a>简介
 
-Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计划中注册的 Microsoft 商业合作伙伴提供的统一报表仪表板。 Insights 仪表板提供跨云产品（如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）的关键绩效指标（KPI）的360度视图。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
+Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络 (MPN) 程序注册的 Microsoft 商业合作伙伴提供的统一报表仪表板。 Insights 仪表板提供了360度的关键绩效指标视图 (KPI) 跨云产品（例如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>对见解仪表板的基于角色的访问控制
 
-合作伙伴中心中有两个专门用于访问 Insights 的新角色：**报表查看器**和**报表查看器**。 执行报表查看器角色中的用户可以访问所有报表数据集，而报表查看器角色中的用户将无法访问敏感数据集，例如收入和客户/员工个人数据。 
+合作伙伴中心中有两个专门用于访问 Insights 的新角色： **报表查看器** 和 **报表查看器**。 执行报表查看器角色中的用户可以访问所有报表数据集，而报表查看器角色中的用户将无法访问敏感数据集，例如收入和客户/员工个人数据。 
 
 全局管理员或帐户管理员可以向用户分配这些角色，并为整个公司或特定 MPN 位置分配这些角色。  
 
@@ -45,7 +45,7 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计
 
 **客户**：客户报表显示客户获取数据、活动客户等客户的分析。
 
-**产品-订阅**：订阅报告显示云订阅（如 O365、Azure、Dynamics 等）的获取和使用情况分析
+**产品-订阅**：订阅报表显示云订阅的获取和使用情况分析 (例如 O365、Azure、Dynamics 等 ) 
 
 **产品许可证**： "许可证" 仪表板提供基于许可证的云产品的许可证分析，如 O365、Dynamics、Power BI 等。
 
@@ -68,17 +68,17 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络（MPN）计
 
 - 所选筛选器将适用于页面上的所有图表和指标，包括摘要部分。 如果筛选器条件中包含任何数据，则筛选器项将可用。 
 
-- 每个筛选器列表的默认选择是 "**全部**"。 例如，如果尚未在 "产品" 筛选器中选择特定产品，则默认选择将为 "所有产品"。
+- 每个筛选器列表的默认选择是 " **全部**"。 例如，如果尚未在 "产品" 筛选器中选择特定产品，则默认选择将为 "所有产品"。
 
 - 所选筛选器将显示在页面顶部。 
 
-:::image type="content" source="images/pci/filters.png" alt-text="筛选":::
+:::image type="content" source="images/pci/filters.png" alt-text="部分屏幕截图显示应用的筛选器栏，其中包含产品、客户市场、合作伙伴归属和销售渠道的筛选器选择。":::
 
 ### <a name="filters-definitions"></a>筛选器定义：
 
 - 产品：组织销售/管理的所有 Microsoft 云产品列表，例如 O365、Azure、D365、EMS、Power BI 等。
 - 客户市场：客户所在国家/地区列表
-- 合作伙伴归属：你的客户订阅的关联类型，例如，"记录" （DPOR）、"委派的管理员" 权限（分配）、"合作伙伴管理" 链接（PAL）等。 
+- 合作伙伴归属：你的客户订阅的关联类型（例如，记录的数字伙伴 (DPOR) 、委派的管理员权限 (将) 、合作伙伴管理链接 (PAL) 等。 
 - 合作伙伴位置：组织的所有 MPN 位置的列表。
 - 销售渠道：你通过其购买/预配产品和服务的所有销售渠道/定价，即 CSP、EA、CSP 间接、直接、顾问、开放、其他
 - Customer segment：跨合作伙伴客户群的客户细分列表。

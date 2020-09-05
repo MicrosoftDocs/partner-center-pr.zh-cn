@@ -9,24 +9,24 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a9df2b6f67ca4e825da2c273c82d7cd46763f1b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436636"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490605"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板的基于角色的访问控制
 
 Insights 仪表板使用合作伙伴中心中的两个新角色来管理员工对报表的访问-Executive 报表查看器和报表查看器。  Executive 报表查看器角色中的用户可以访问所有报表数据集，而报表查看器角色中的用户将无法访问敏感数据集，例如收入和客户/员工个人数据。  
 
-与其他合作伙伴中心角色一样，全局管理员或帐户管理员可以在用户管理页上将用户分配到这些角色。 这些角色可以在整个公司或特定 MPN 位置上适用。 分配给特定 MPN 位置的角色限制用户仅查看与所选 MPN 位置关联的报表数据。 合作伙伴可以从以下视图中选择一个或多个位置。
+与其他合作伙伴中心角色一样，全局管理员或帐户管理员可以在用户管理页上将用户分配到这些角色。 角色可适用于整个公司或)  (特定的 MPN 位置。 为特定 MPN 位置分配的角色 (") 限制用户仅查看与所选 MPN 位置 () 关联的报表数据。 合作伙伴可以从以下视图中选择一个或多个位置。
 
-:::image type="content" source="images/pci/roles.png" alt-text="角色":::
+:::image type="content" source="images/pci/roles.png" alt-text="显示报表查看器和执行报表查看器的特定于位置的合作伙伴中心 Insights 角色设置。":::
 
 >[!Note]
-> 在2020年1月20日 MPN 管理员的用户将自动添加到该租户的所有位置的公司范围的**Executive 报表查看器**角色。 因此，这些用户可以将报表作为 Executive 报表查看器访问，而不需要全局管理员或帐户管理员进行任何显式操作。全局管理员和帐户管理员可以覆盖这些用户的自动分配的角色，进一步增加或限制其功能。
+> 在2020年1月20日 MPN 管理员的用户将自动添加到该租户的所有位置的公司范围的 **Executive 报表查看器** 角色。 因此，这些用户可以将报表作为 Executive 报表查看器访问，而不需要全局管理员或帐户管理员进行任何显式操作。全局管理员和帐户管理员可以覆盖这些用户的自动分配的角色，进一步增加或限制其功能。
 
 ## <a name="next-steps"></a>后续步骤
 
-- 详细了解[合作伙伴中心见解](partner-center-insights.md)及其各种报告。
+- 详细了解 [合作伙伴中心见解](partner-center-insights.md) 及其各种报告。

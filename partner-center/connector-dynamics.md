@@ -8,12 +8,12 @@ description: 将合作伙伴中心的推荐与 Dynamics 365 CRM 同步
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cbdefb46691bf10ca1525190729a056f222ee90
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527573"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490665"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -28,37 +28,37 @@ ms.locfileid: "87527573"
 
 ## <a name="before-you-install---pre-requisites"></a>安装之前-必备组件
 
-|**主题**   |**详细信息**   |**链接**   |
+|**本节**   |**详细信息**   |**链接**   |
 |--------------|--------------------|------|
-|Microsoft 合作伙伴网络 ID |需要一个有效的 MPN ID|加入[MPN](https://partner.microsoft.com/)|
+|Microsoft 合作伙伴网络 ID |需要一个有效的 MPN ID|加入 [MPN](https://partner.microsoft.com/)|
 |做好就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |合作伙伴中心帐户|与合作伙伴中心租户关联的 MPN ID 必须与共同销售解决方案关联的 MPN ID 相同。 在部署连接器之前，请确认你可以在合作伙伴中心门户中看到共同销售的引用。|[管理帐户](create-user-accounts-and-set-permissions.md)|
 |合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 用户角色是系统管理员或系统定制员|[在 Dynamics 365 中分配角色](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Power 自动化 Flow 帐户|CRM 系统管理员或系统定制员的有效[电源自动完成](https://flow.microsoft.com)帐户。 在安装之前，该用户至少应登录到一次[电源](https://flow.microsoft.com)。|
+|Power 自动化 Flow 帐户|CRM 系统管理员或系统定制员的有效 [电源自动完成](https://flow.microsoft.com) 帐户。 在安装之前，该用户至少应登录到一次 [电源](https://flow.microsoft.com) 。|
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>为 Dynamics 365 安装合作伙伴中心引用同步（电源自动化解决方案）
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安装适用于 Dynamics 365 (Power 自动化解决方案的合作伙伴中心引用同步) 
 
-1. 请继续[执行 "电源自动](https://flow.microsoft.com)"，并选择右上角的 "**环境**"。 此步骤将显示可用的 CRM 实例。
+1. 请继续 [执行 "电源自动](https://flow.microsoft.com) "，并选择右上角的 " **环境** "。 此步骤将显示可用的 CRM 实例。
 
 2. 从右上角的下拉菜单中选择相应的 CRM 实例。
 
-3. 选择左侧导航栏上的 "**解决方案**"。
+3. 选择左侧导航栏上的 " **解决方案** "。
 
-4. 单击顶部菜单上的 "**打开 AppSource** " 链接。
+4. 单击顶部菜单上的 " **打开 AppSource** " 链接。
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="打开 AppSource":::
 
-5. 在弹出屏幕中搜索**Dynamics365 的合作伙伴中心引用连接器**。  
+5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
 
-6. 单击 "**立即获取**" 按钮，然后**继续**。
+6. 单击 " **立即获取** " 按钮，然后 **继续**。
 
-7. 这将打开一个页面，可以在其中选择要安装应用程序的 CRM （Dynamics 365）环境。  同意条款和条件。
+7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
 
-8. 然后，你将转到 "**管理你的解决方案**" 页。  通过使用页面底部的箭头按钮，导航到 "合作伙伴中心引用"。 **计划的安装**应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
+8. 然后，你将转到 " **管理你的解决方案** " 页。  通过使用页面底部的箭头按钮，导航到 "合作伙伴中心引用"。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
 
-9. 安装完成后，导航回 "[自动启动](https://flow.microsoft.com)"，并从左侧导航区域中选择 "**解决方案**"。 请注意，"解决方案" 列表中提供了**Dynamics 365 的合作伙伴中心引用同步**。
+9. 安装完成后，导航回 " [自动启动](https://flow.microsoft.com) "，并从左侧导航区域中选择 " **解决方案** "。 请注意，"解决方案" 列表中提供了 **Dynamics 365 的合作伙伴中心引用同步** 。
 
-10. 选择**Dynamics 365 的伙伴中心引用同步**。 可以使用以下功能自动执行流和实体：
+10. 选择 **Dynamics 365 的伙伴中心引用同步**。 可以使用以下功能自动执行流和实体：
 
     :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="可用 CRM":::
 
@@ -73,9 +73,9 @@ ms.locfileid: "87527573"
 
 ## <a name="configure-the-solution"></a>配置解决方案
 
-1. 在 CRM 实例中安装解决方案后，请导航回 "[电源自动](https://flow.microsoft.com/)"。
+1. 在 CRM 实例中安装解决方案后，请导航回 " [电源自动](https://flow.microsoft.com/)"。
 
-2. 在右上角的 "**环境**" 下拉位置，选择安装了 Power 自动解决方案的 CRM 实例。
+2. 在右上角的 " **环境** " 下拉位置，选择安装了 Power 自动解决方案的 CRM 实例。
 
 3. 需要创建关联三个用户帐户的连接：
 
@@ -85,31 +85,31 @@ ms.locfileid: "87527573"
 
    - CRM 管理员，并在解决方案中自动执行流处理。
 
-      1. 从左侧导航栏中选择 "**连接**"，然后从列表中选择 "合作伙伴中心引用" 解决方案。
+      1. 从左侧导航栏中选择 " **连接** "，然后从列表中选择 "合作伙伴中心引用" 解决方案。
 
-      2. 通过单击 "**创建连接**" 创建连接。
+      2. 通过单击 " **创建连接**" 创建连接。
 
          :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="创建连接":::
 
-      3. 在右上角的搜索栏中搜索 "**合作伙伴中心引用（预览版）** "。
+      3. 在右上角的搜索栏中搜索 " **合作伙伴中心引用 (预览") ** 。
 
       4. 使用 "引用管理员" 凭据角色为合作伙伴中心用户创建连接。
 
       5. 接下来，使用 "引用管理员" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
 
-      6. 为 CRM 管理员用户 Common Data Service （当前环境）创建连接。
+      6. 为 CRM 管理员用户的 Common Data Service (当前环境) 创建连接。
 
 4. 若要将电源自动流与连接进行关联，请编辑每个电源自动流，以连接到 Common Data Service 和合作伙伴中心引用。 保存更改。
 
-5. **启用**自动流功能。
+5. **启用** 自动流功能。
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 注册资源更改事件
 
 合作伙伴中心 Webhook Api 允许你注册资源更改事件。 这些更改事件以 HTTP post 的形式发送到你的 url。
 
-1. 若要注册 url，请选择 "**合作伙伴中心 Webhook 注册" （有问必答预览版）** "电源自动流程"。
+1. 若要注册 url，请选择 " **合作伙伴中心 Webhook 注册 (内幕预览版") ** Power 自动流 "。
 
-2. 为（a）添加连接。具有引用管理员凭据的合作伙伴中心用户（b.）以下突出显示的合作伙伴中心事件
+2. 为 (a ) 合作伙伴中心用户添加连接， (b. ) 合作伙伴中心事件如下所示
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="触发器":::
 
@@ -121,17 +121,17 @@ ms.locfileid: "87527573"
 
    若要启用合作伙伴中心 webhook 来侦听事件更改，请执行以下步骤：
 
-5. 选择 "**合作伙伴中心到 Dynamics 365 （有问必答预览版）**"。
+5. 选择 " **合作伙伴中心到 Dynamics 365 (预览体验预览") **。
 
-6. 选择 "**编辑**" 图标，然后选择 "**收到 HTTP 请求时**"。
+6. 选择 " **编辑** " 图标，然后选择 " **收到 HTTP 请求时**"。
 
-7. 选择**复制**图标以复制提供的 HTTP POST URL。
+7. 选择 **复制** 图标以复制提供的 HTTP POST URL。
 
    :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="复制 URL":::
 
-8. 现在，选择 "合作伙伴中心 Webhook 注册（有问必答预览版）" "电源自动流"，然后选择 "**运行**"。
+8. 现在，选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
 
-9. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 "**继续**"。
+9. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 " **继续**"。
 
 10. 输入以下详细信息：
 
@@ -139,9 +139,9 @@ ms.locfileid: "87527573"
 
     2. **要注册的事件**： "引用已创建" 和 "引用已更新"
 
-    3. **覆盖现有触发器终结点（如果存在**）：是（这将覆盖任何现有终结点。）
+    3. **覆盖现有触发器终结点（如果存在**）：是 (这将覆盖任何现有终结点。 ) 
 
-11. 选择 "**运行**"，然后选择 "**完成"。**
+11. 选择 " **运行** "，然后选择 " **完成"。**
 
 Webhook 现在可以侦听以创建和更新事件。
 
@@ -155,15 +155,15 @@ Webhook 现在可以侦听以创建和更新事件。
 
 1. 若要自定义用于合作伙伴中心的创建或更新事件的字段以进行 CRM 引用同步，请执行以下操作： 
 
-    a. 选择 "合作伙伴中心到 Dynamics 365 （有问必答预览版）" 或 "合作伙伴中心到 Salesforce" （有问必答预览版）。
+    a. 选择 "合作伙伴中心到 Dynamics 365 (预览体验预览") 或 "合作伙伴中心到 Salesforce (内幕预览版) "。
 
-    b. 选择 "**编辑**" 以编辑/自定义电源自动流程。
+    b. 选择 " **编辑** " 以编辑/自定义电源自动流程。
 
-    c. 选择 **（作用域）同步潜在客户或机会**。
+    c. 选择 " ** (范围") 同步潜在客户或机会**。
 
-2. 若要为创建事件自定义 CRM 字段映射（基于字段映射指南），请选择 "**如果是新的共享机会"，然后选择 "是"**。 **如果是**，请选择 "子步骤"，然后**在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
+2. 若要基于字段映射自定义 CRM 字段映射 (请) 对于 "创建事件"，选择 " **如果是新的共享机会"，然后选择 "是**"。 **如果是**，请选择 "子步骤"，然后**在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
 
-    d. 若要为更新事件自定义 CRM 字段映射（基于字段映射指南），请单击 "（作用域）同步潜在客户或机会" 步骤。
+    d. 对于 "基于字段映射 (自定义 CRM 字段映射" 指南) 对于 "更新事件"，请单击步骤 " (范围) 同步潜在顾客或机会"。
 
     e. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后**展开。  
 
@@ -171,9 +171,9 @@ Webhook 现在可以侦听以创建和更新事件。
 
 3. 为更新事件自定义 CRM 到 PC 引用同步的字段：
 
-    a. 选择 "**编辑**" 以编辑/自定义电源自动流程。
+    a. 选择 " **编辑**  " 以编辑/自定义电源自动流程。
 
-    b. 选择 **（范围）同步机会**。
+    b. 选择 ** (范围) 同步机会**。
 
     c. 若要为更新事件自定义 CRM 字段映射，请选择 **"合作伙伴中心和 CRM 中的潜在顾客对象之间是否存在差异"，然后**。 
 
@@ -183,11 +183,11 @@ Webhook 现在可以侦听以创建和更新事件。
 
 4. 为创建事件自定义 CRM 到 PC 引用同步的字段？
 
-   a. 选择 "**编辑**" 以编辑/自定义电源自动流程。
+   a. 选择 " **编辑**  " 以编辑/自定义电源自动流程。
 
-   b. 选择 **（作用域）同步引用。**
+   b. 选择 **) 同步引用 (范围。**
 
-   c. 若要为创建事件自定义 CRM 字段映射（基于字段映射指南），请选择 "**创建 Microsoft 引用**"。
+   c. 对于 "基于字段映射自定义 CRM 字段映射 (" 指南) 对于创建事件，请选择 " **创建 Microsoft 引用**"。
 
    您可以根据字段映射指南编辑此部分中的映射。
 
@@ -199,7 +199,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
 若要跨伙伴中心和 Dynamics 365 CRM 同步引用，Power 自动化解决方案可以清晰地划分 Microsoft 特定的引用字段。 此标识使你的卖方团队能够确定他们要与 Microsoft 共享哪些推荐以共同销售。
 
-一组自定义字段作为 "**机会**" 实体的一部分提供。 CRM 管理用户需要使用**机会**自定义字段创建一个单独的 CRM 部分。
+一组自定义字段作为 " **机会** " 实体的一部分提供。 CRM 管理用户需要使用 **机会** 自定义字段创建一个单独的 CRM 部分。
 
 以下自定义字段应为 CRM 部分的一部分：
 
@@ -219,11 +219,11 @@ Webhook 现在可以侦听以创建和更新事件。
 
 1. 在 CRM 中创建或更新引用并在伙伴中心同步时的引用同步：
 
-   1. 在 CRM 的 "**机会**" 部分中具有可见性的用户登录到 DYNAMICS 365 CRM 环境。
+   1. 在 CRM 的 " **机会** " 部分中具有可见性的用户登录到 DYNAMICS 365 CRM 环境。
 
    2. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 
-      商机
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 "示例机会" 部分。":::
 
    3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 
@@ -231,11 +231,11 @@ Webhook 现在可以侦听以创建和更新事件。
 
       - **Microsoft Help 如何？**：选择以下各项：
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="帮助选择":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 "示例机会" 部分，其中显示了一个名为 "Microsoft 如何帮助" 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
 
       - **产品**：产品的解决方案 id
 
-   4. 一旦在 Dynamics 365 中创建了商机，并将 "**伙伴中心同步**" 选项设置为 **"是"**，请等待10分钟，然后登录到合作伙伴中心帐户。 你的引用将与 Dynamics 365 同步。
+   4. 一旦在 Dynamics 365 中创建了商机，并将 " **伙伴中心同步** " 选项设置为 **"是"**，请等待10分钟，然后登录到合作伙伴中心帐户。 你的引用将与 Dynamics 365 同步。
 
    5. 同样，如果将 "与合作伙伴中心同步" 选项设置为 "是"，则在 Dynamics 365 CRM 中更新此机会时，所做的更改将在你的合作伙伴中心帐户中同步。
 
@@ -243,15 +243,15 @@ Webhook 现在可以侦听以创建和更新事件。
 
 2. 引用同步在 Microsoft 合作伙伴中心创建或更新引用并在 Dynamics 365 环境中同步时的同步：
 
-   1. 登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home)。
+   1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)。
 
-   2. 从左侧菜单中选择 "**引用**"。
+   2. 从左侧菜单中选择 " **引用** "。
 
    3. 单击 "新建交易" 选项，从合作伙伴中心创建新的联销售引用。
 
    4. 登录到 Dynamics 365 CRM 环境。
 
-   5. 导航到 "**开放式机会**"。 现在，在 Microsoft 合作伙伴中心创建的引用同步到 Dynamics 365 CRM 中。
+   5. 导航到 " **开放式机会**"。 现在，在 Microsoft 合作伙伴中心创建的引用同步到 Dynamics 365 CRM 中。
 
    6. 选择同步的引用时，将填充卡片视图详细信息。
 

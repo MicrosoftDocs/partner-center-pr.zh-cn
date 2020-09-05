@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942559"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490615"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>获得先进的专用化来展示专长并向客户 
 
@@ -28,7 +28,7 @@ ms.locfileid: "88942559"
 
 如果你对称为 " **Web 应用程序 Microsoft Azure 的现代化**" 的高级特殊化感兴趣，请从 "合作伙伴中心" 菜单中选择它。 你将转到 "先决条件" 页。
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="必备条件":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="示例必备页面显示了获得活动金牌云平台资格认证的要求。":::
 
 
 在满足所有先决条件之前，状态将保持不变 **。** 满足先决条件后，" **计划审核** " 按钮处于启用状态。 需要使用以下 Azure 高级专用化的第三方审核员完成审核：
@@ -47,7 +47,7 @@ ms.locfileid: "88942559"
 
 需要客户参考的高级特殊化的示例是 **Microsoft 团队的会议和会议室**。 除了金牌资格、认证和性能要求之外，您还必须提供三个客户参考，以演示您的部署和管理能力。
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="必备条件":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="需要客户参考的高级专用专用必备页面示例。":::
 
 在满足所有先决条件之前，状态将保持不变 **。** 完成所有要求后，状态将为 " **活动**"。 "活动状态" 将自动启用 **业务配置文件** 上的标记，该标记对搜索 " [查找解决方案提供程序](https://www.microsoft.com/solution-providers/home)" 的所有客户可见。
 

@@ -1,22 +1,22 @@
 ---
-title: '用于从合作伙伴销售连接 (PSC) 迁移到合作伙伴中心 (PC 的合作伙伴的推荐 101) '
+title: '从合作伙伴销售连接 (PSC) '
 ms.topic: article
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 作为合格的 Microsoft 合作伙伴，你可以与 Microsoft 共同销售。 了解如何定义交易，邀请 Microsoft 协作，或查看已发送的交易。
+description: 了解 Microsoft 合作伙伴如何从合作伙伴销售连接 (PSC) 迁移到合作伙伴中心，以及如何创建或管理 Microsoft 卖方发送的交易。
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0b577049eb86eece7d9a461cf831e25c22bf2ee
-ms.sourcegitcommit: 77f9b20b5e74e87999ae3d6d7651c93ca5b08128
+ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/04/2020
-ms.locfileid: "89471464"
+ms.locfileid: "89490655"
 ---
-# <a name="guide-to-co-selling-in-partner-centerpc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
+# <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
 **适用于**
 
