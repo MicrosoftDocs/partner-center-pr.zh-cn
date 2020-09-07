@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 847b586fdb3e7b2361042c18ad9f9f0ae3203a62
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286501"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427094"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "89286501"
 
 | **类别** | **2020 年 9 月公告** | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[增强的激励支持体验和票证创建过程](2020-september.md#4)|9 月 2 日|
 |产品/市场|[即将推出新的 Microsoft Dynamics 365 产品/服务](2020-september.md#3)|9 月 1 日|
 |产品/市场|[Office 365 通话套餐将于 2020 年 10 月 1 日在新的市场中推出](2020-september.md#2)|9 月 1 日|
 |产品/市场|[面向教育服务器的 Microsoft Defender 高级威胁防护 (ATP) 现已推出](2020-september.md#1)|9 月 1 日|
