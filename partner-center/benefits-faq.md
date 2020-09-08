@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: dbedfdb2001966a78f1453ee45615ab9418d968a
-ms.sourcegitcommit: 9ad926be9f5d245b307bc7d3975ff3973dba3161
+ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
+ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2020
-ms.locfileid: "88188434"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "89551638"
 ---
 # <a name="benefits-faq"></a>关于权益的常见问题解答
 
@@ -73,7 +73,7 @@ ms.locfileid: "88188434"
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>问： 能否在我的客户帐户上激活许可证
 
-否。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
+不是。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>问： 在 Azure 批量信用中分配用户时遇到问题。 我该怎么办
 
@@ -94,6 +94,8 @@ ms.locfileid: "88188434"
 4. 将所需的用户分配给可用的现有 Visual Studio 订阅。
 
 分配订阅后，用户需要登录到 Visual Studio 来管理它。
+
+注意：分配给合作伙伴中心的 Visual Studio 订阅的用户在原始分配90天后无法删除
 
 ## <a name="technical-benefits-and-support"></a>技术优势和支持
 
