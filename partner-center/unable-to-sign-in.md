@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b237e3de6318b139812f168e0436daedcb96ac5
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 475251477ac6b505f76b1175dff158db732e4794
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811167"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614136"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>如果无法登录到合作伙伴中心并需要重置密码
 
@@ -22,9 +22,9 @@ ms.locfileid: "87811167"
 
 - 合作伙伴中心用户
 
-如果你忘记了密码，但无法登录到合作伙伴中心，则需要联系支持人员。 在[支持业务产品](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_)时查找相应的联系人。 
+如果你忘记了密码，但无法登录到合作伙伴中心，则需要联系支持人员。 在 [支持业务产品](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)时查找相应的联系人。 
 
-有关如何重置密码和重新获得工作帐户访问权限的不同方法，请阅读[使用安全信息重置工作或学校密码](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)。
+有关如何重置密码和重新获得工作帐户访问权限的不同方法，请阅读 [使用安全信息重置工作或学校密码](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)。
 
 重置工作帐户密码后，你将能够访问合作伙伴中心。 
 
