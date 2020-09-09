@@ -1,7 +1,7 @@
 ---
 title: 关于权益的常见问题解答
 ms.topic: article
-ms.date: 06/17/2020
+ms.date: 09/08/2020
 description: 解答有关 Azure、cloud、Visual Studio 和技术和支持权益的权益过期、续订和激活许可证的问题
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
-ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
+ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "89551638"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564727"
 ---
 # <a name="benefits-faq"></a>关于权益的常见问题解答
 
@@ -95,7 +95,8 @@ ms.locfileid: "89551638"
 
 分配订阅后，用户需要登录到 Visual Studio 来管理它。
 
-注意：分配给合作伙伴中心的 Visual Studio 订阅的用户在原始分配90天后无法删除
+>[!Note]
+> 在原始分配之后90天内，无法删除分配给合作伙伴中心的 Visual Studio 订阅的用户。
 
 ## <a name="technical-benefits-and-support"></a>技术优势和支持
 
