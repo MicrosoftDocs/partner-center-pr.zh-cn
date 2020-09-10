@@ -163,6 +163,8 @@
       href: reset-my-pasword.md
     - name: 如果无法登录到合作伙伴中心
       href: unable-to-sign-in.md
+    - name: 如果你的 Microsoft 合作伙伴网络 (MPN) 计划的管理员从公司离职，该怎么办？
+      href: no-mpn-admin.md
 - name: 管理合作伙伴中心帐户 - 业务
   items:
     - name: 添加 Azure 合作伙伴共享服务
