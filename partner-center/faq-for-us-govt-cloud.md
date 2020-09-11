@@ -1,25 +1,25 @@
 ---
-title: Microsoft Cloud for US Government 合作伙伴中心常见问题解答 | Microsoft Cloud for US Government 合作伙伴中心常见问题解答
+title: 常见问题-合作伙伴中心-美国政府 Microsoft 云
+description: 有关云解决方案提供商的常见问题解答)  (常见问题的答案，请参阅美国政府 (CSP) Microsoft 云计划。
 ms.topic: article
-ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 有关云解决方案提供商的常见问题解答)  (常见问题的答案，请参阅美国政府 (CSP) Microsoft 云计划。
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: fbb9e7888456b1b7f9ce600fda6c7d6aad28edc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 11/20/2019
+ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
+ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220645"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "90026265"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 
 **适用于**
 
--  Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 ## <a name="general-questions"></a>一般问题
 
@@ -39,7 +39,7 @@ ms.locfileid: "89220645"
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>合作伙伴折扣模式是否相同？
 
-是。 适用于美国政府的 Microsoft 云 CSP 计划的合作伙伴折扣模型与用于 CSP 商用的合作伙伴折扣模型相同。
+是的。 适用于美国政府的 Microsoft 云 CSP 计划的合作伙伴折扣模型与用于 CSP 商用的合作伙伴折扣模型相同。
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>商业云解决方案提供商计划是现有的合作伙伴计划。 Microsoft 政府云 CSP 计划有何不同之处？
 
@@ -49,7 +49,7 @@ Microsoft 政府云 CSP 计划与商业 CSP 之间存在以下不同点：
 
 - 加入：合作伙伴需要从商业云解决方案提供商计划单独加入 Microsoft Cloud for US Government 云解决方案提供商计划。
 
-- 产品可用性： Microsoft 政府云的 CSP 计划中提供了 Azure 政府版和基于许可证的服务，如 Office 365、企业移动性 + 安全性和 Dynamics 365。 
+- 产品可用性： Microsoft 政府云的 CSP 计划中提供了 Azure 政府版和基于许可证的服务，如 Office 365、企业移动性 + 安全性和 Dynamics 365。
 
 - 合同：Microsoft 云经销商协议 (MCRA) 已经更新，以体现独特的政府条款。
 
@@ -166,7 +166,7 @@ Azure 政府云提供基于安全、隐私和控制、合规性和透明度等�
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>如果我仍有问题，应去哪里咨询？
 
-联系你的帐户管理员以了解更多信息。 此外，还可加入 [Azure 政府云解决方案提供商](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all)专用 Yammer 组。
+联系你的帐户管理员以了解更多信息。 此外，还可加入 [Azure 政府云解决方案提供商](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)专用 Yammer 组。
 
 ## <a name="next-steps"></a>后续步骤
 
