@@ -61,7 +61,7 @@ ms.locfileid: "89490655"
 >[!Important]
 > <span data-ttu-id="6e91b-136">如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 角色。</span><span class="sxs-lookup"><span data-stu-id="6e91b-136">If your role is only managing users in PSC, you can get your the [account admin](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) role in Partner Center.</span></span> <span data-ttu-id="6e91b-137">如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " 角色。</span><span class="sxs-lookup"><span data-stu-id="6e91b-137">If your role also includes managing co-sell opportunities, you should get [referrals admin](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) role.</span></span> <span data-ttu-id="6e91b-138">另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。</span><span class="sxs-lookup"><span data-stu-id="6e91b-138">Also, nominate one change management lead among the PSC admins to work with the Partner Center account admin instead of all the PSC admins reaching out to the account admins in PC individually.</span></span>
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 "合作伙伴设置" 用户管理页中的 "帐户管理员" 的图像。":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 合作伙伴设置 用户管理页中的 帐户管理员 的图像。":::
 
 - <span data-ttu-id="6e91b-140">在左侧导航窗格中转到 "引用" 选项卡，并检查是否可以访问这些页面。</span><span class="sxs-lookup"><span data-stu-id="6e91b-140">Go to Referrals tab in the left navigation pane and check if you can access the pages.</span></span>
 
@@ -144,7 +144,7 @@ ms.locfileid: "89490655"
 
 <span data-ttu-id="6e91b-241">**PSC 和合作伙伴中心的用户管理**</span><span class="sxs-lookup"><span data-stu-id="6e91b-241">**User management in PSC and Partner Center**</span></span>
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 "帐户设置" 视图中的 "合作伙伴中心用户管理"。":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 帐户设置 视图中的 合作伙伴中心用户管理。":::
 
 <span data-ttu-id="6e91b-243">**PSC 和合作伙伴中心的用户角色分配**</span><span class="sxs-lookup"><span data-stu-id="6e91b-243">**User role assignment in PSC and Partner Center**</span></span>
 
@@ -163,7 +163,7 @@ ms.locfileid: "89490655"
 
 <span data-ttu-id="6e91b-251">您可以与 "无法访问" 页上列出的管理员联系，以获取分配的角色。</span><span class="sxs-lookup"><span data-stu-id="6e91b-251">You can contact your admins listed on the “No access” page to get the roles assigned.</span></span> <span data-ttu-id="6e91b-252">在 "引用" 部分下，你将需要 "[引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" 角色才能读取和写入权限。</span><span class="sxs-lookup"><span data-stu-id="6e91b-252">You will need “[referral admin](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)” role for read and write permission under the referrals section.</span></span> <span data-ttu-id="6e91b-253">如果你只管理业务配置文件，则在合作伙伴中心需要 "业务配置文件管理员" 角色。</span><span class="sxs-lookup"><span data-stu-id="6e91b-253">If you are managing only business profiles, then you will need “Business profile admin” role in partner center.</span></span>
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 "无访问体验" 的图像。":::
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 无访问体验 的图像。":::
 
 <span data-ttu-id="6e91b-255">**Q2.谁有权访问合作伙伴中心的 "引用" 部分？**</span><span class="sxs-lookup"><span data-stu-id="6e91b-255">**Q2. Who can grant me access to the Referrals section in Partner Center?**</span></span>
 
