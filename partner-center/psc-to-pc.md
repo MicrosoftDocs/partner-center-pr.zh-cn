@@ -61,7 +61,7 @@ ms.locfileid: "89490655"
 >[!Important]
 > 如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 角色。 如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " 角色。 另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 "合作伙伴设置" 用户管理页中的 "帐户管理员" 的图像。":::
+ :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 合作伙伴设置 用户管理页中的 帐户管理员 的图像。":::
 
 - 在左侧导航窗格中转到 "引用" 选项卡，并检查是否可以访问这些页面。
 
@@ -144,7 +144,7 @@ ms.locfileid: "89490655"
 
 **PSC 和合作伙伴中心的用户管理**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 "帐户设置" 视图中的 "合作伙伴中心用户管理"。":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 帐户设置 视图中的 合作伙伴中心用户管理。":::
 
 **PSC 和合作伙伴中心的用户角色分配**
 
@@ -163,7 +163,7 @@ ms.locfileid: "89490655"
 
 您可以与 "无法访问" 页上列出的管理员联系，以获取分配的角色。 在 "引用" 部分下，你将需要 "[引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" 角色才能读取和写入权限。 如果你只管理业务配置文件，则在合作伙伴中心需要 "业务配置文件管理员" 角色。
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 "无访问体验" 的图像。":::
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 无访问体验 的图像。":::
 
 **Q2.谁有权访问合作伙伴中心的 "引用" 部分？**
 
