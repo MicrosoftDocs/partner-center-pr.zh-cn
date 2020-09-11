@@ -38,7 +38,7 @@ ms.locfileid: "89490645"
 
 3. 单击该签名。 将显示表明有效性的证书。
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="具有 "已授权签字字段和签名验证状态" 对话框的已签名发票，其中包含详细信息，签名属性选项，取消选项。"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="具有 已授权签字字段和签名验证状态 对话框的已签名发票，其中包含详细信息，签名属性选项，取消选项。"::: 
 
 4. 选择 " **签名属性** " 以查看有关签名有效性的详细信息。
 
@@ -46,7 +46,7 @@ ms.locfileid: "89490645"
 
 4. 你还可以确保证书路径正确，并且该证书是受信任的证书。
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text=""证书查看器" 对话框显示多个选项卡，其中包含有关证书及其整个颁发链的详细信息。":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="证书查看器 对话框显示多个选项卡，其中包含有关证书及其整个颁发链的详细信息。":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>有关发票和数字签名的其他信息
 
