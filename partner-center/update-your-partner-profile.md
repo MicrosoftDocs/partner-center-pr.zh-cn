@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304974"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490635"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作伙伴中心中验证合作伙伴配置文件信息
 
@@ -55,6 +55,17 @@ ms.locfileid: "89304974"
 2. 接下来转到“合作伙伴配置文件”，选择“更新法定公司配置文件”。
 
 3. 选择要用作法定公司的位置和公司，然后选择“保存”。
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>更新与 CSP 帐户关联的 MPN ID
+
+若要更新与 CSP 帐户关联的 MPN ID：
+
+1. 登录到合作伙伴中心面板。
+1. 从“帐户设置”中选择“合作伙伴资料” 。
+1. 在“关联的 MPNID”旁边，选择“更新” 。
+1. 选择“继续”。 
+1. 添加你的 MPN ID。
+
 
 ## <a name="update-your-billing-address"></a>更新账单邮寄地址
 

@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作伙伴网络权益
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作伙伴网络 (MPN) 并使用合作伙伴中心来管理成员资格权益和优惠，从而帮助拓展业务。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220745"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427084"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
@@ -69,7 +69,7 @@ ms.locfileid: "89220745"
 
 2. 找到要开始使用的订阅或产品，然后选择所在行最右侧的向下箭头，展开该订阅或产品的详细信息。
 
-3. 若要激活基于 Microsoft Azure 用量的订阅，请将你自己指定为用户。 转到 Microsoft Azure 门户以管理订阅。
+3. 若要激活基于 Microsoft Azure 用量的订阅，请将你自己指定为用户。 转到 Microsoft Azure 门户管理订阅。
 
    若要激活基于许可证的订阅，请选择“获取密钥”以复制产品许可密钥，然后根据任何特殊说明来激活订阅。  
 
@@ -106,12 +106,23 @@ ms.locfileid: "89220745"
 
    - **查看并共享产品支持访问 ID 和合同 ID。** 处理激活请求后，下一次扩展该技术权益时将显示有关访问 ID 和合同 ID 的详细信息 。 当你首次提交某些产品或服务类型的支持请求时，你或你公司的用户可能需要共享此信息。
 
-4. 激活后，可以使用不同技术支持类型的技术权益。 要提交这些服务类型的技术支持请求，请阅读“技术权益”页面上的详细说明：
+4. 激活后，可以使用不同技术支持类型的技术权益。 若要针对以下服务提交技术支持请求，请阅读“技术权益”页面上的详细说明。 另请参阅下面的详细信息。
 
-   - 代表客户请求云产品支持
-   - 请求本地产品支持
-   - 请求技术预售和部署服务或[咨询时间](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+   合作伙伴中心的“技术权益”页面上详细介绍了下列技术支持类型：
 
+   **技术支持（中断复原）。** 如果功能中断或者某些内容没有按预期工作（例如当你收到错误消息时），请使用此类型的技术支持。 下面是一些指导：
+
+   - 仅针对具备 Gold/Silver competency 的合作伙伴（不适用于 Action Pack 订阅者）：请对云产品使用签名产品支持 。
+
+   - 对于 Action Pack 和 Gold/Silver competency 合作伙伴：请对最新本地产品（仅限当前版本和历史版本）使用 Microsoft 产品支持 。
+
+     >[!NOTE]
+     > 对本地、Azure（非 CSP）和 Dynamics 动态发出技术支持请求时，需要提供访问 ID 和合同 ID。 今后若要查找你的访问 ID 和合同 ID，也可阅读[查找你的权益](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)。
+  
+   **技术预售和部署服务。**  对有关技术销售或部署的咨询或建议使用此类型的支持。 可直接通过[合作伙伴中心](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)请求这些服务。
+
+   - 对于 Action Pack 和 Gold/Silver competency 合作伙伴，请对云和混合解决方案使用技术预售和部署服务。
+  
 ## <a name="manage-go-to-market-offers"></a>管理市场推广套餐
 
 **执行此任务所需的相应角色：**
