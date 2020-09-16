@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444894"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614164"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -214,7 +214,7 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>我使用 PowerShell 之类的自动化工具。 如何实现安全应用程序模型？
 
-如果你的自动化旨在以非交互方式运行并且依赖于用户凭据进行身份验证，则需实现安全应用程序模型。 请参阅[安全应用程序模型 | 合作伙伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5)，获取有关如何实现此框架的指南。  
+如果你的自动化旨在以非交互方式运行并且依赖于用户凭据进行身份验证，则需实现安全应用程序模型。 请参阅[安全应用程序模型 | 合作伙伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)，获取有关如何实现此框架的指南。  
 
 >[!Note] 
 >并非所有自动化工具都提供使用访问令牌进行身份验证的功能。 如果不了解需要进行哪些更改，请在[合作伙伴中心安全指南](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)组中发布消息。 
@@ -292,7 +292,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 为了验证访问资源的帐户是否已受到多重身份验证的质询，我们需要检查[身份验证方法引用](https://tools.ietf.org/html/rfc8176)声明，查看其中是否列出了 MFA。 某些第三方解决方案不会发出此声明，或者不包含 MFA 值。 如果缺少该声明或者未列出 MFA 值，则无法确定身份验证的帐户是否受到了多重身份验证的质询。 需要咨询第三方解决方案的供应商，以确定需要采取哪些措施来使解决方案发出身份验证方法引用声明。
 
-如果你不确定自己的第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)。
+如果你不确定自己的第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 为客户提供支持，该怎么办？
 
