@@ -1,22 +1,22 @@
 ---
-title: 通过 CPOR 模型创建客户关联
+title: 创建客户关联
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 通过 CPOR (申报记录) 模型的合作伙伴创建客户关联。 有助于管理 Microsoft 365 和 Dynamics 365 客户的销售、使用情况、& 奖励。
+description: 创建与申报 (CPOR) 型号的客户关联。 有助于管理 Microsoft 365 和 Dynamics 365 客户的销售、使用情况、& 奖励。
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220365"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714351"
 ---
-# <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>通过 CPOR 模型创建客户关联–用于 Microsoft 365 和 Dynamics 365 客户
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>针对 Microsoft 365 和 Dynamics 365，通过声明的记录 (CPOR) 模型的客户关联
 
 **适用于**
 
@@ -75,7 +75,7 @@ ms.locfileid: "89220365"
 
 4. 选择要与客户关联的合作伙伴位置的 MPN ID，然后添加客户的域名和目录 ID。 [查找此](find-domain-name.md)
 
-5. 选择“继续”。 
+5. 选择“继续”。
 
 6. 选择 **解决方案区域** 和 **活动**。 
 

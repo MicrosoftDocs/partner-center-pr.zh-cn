@@ -1,21 +1,21 @@
 ---
 title: 排查付款和收益问题
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: 了解如何解决缺失或不正确的收益、资格问题，以及如何协调奖励收益等问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 02d6aaf05abfed993d7fcb24f74b5303417b7636
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220785"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714411"
 ---
-# <a name="troubleshooting-payments-and-earnings-issues"></a>排查付款和收益问题
+# <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>排除缺少付款、收入错误和其他问题
 
 **适用**于：
 

@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220535"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714421"
 ---
-# <a name="manage-co-op-claims"></a>管理合作声明
+# <a name="manage-incentives-co-op-claims"></a>管理激励合作声明
 
 **适用对象：**
 

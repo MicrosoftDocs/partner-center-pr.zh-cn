@@ -1,5 +1,5 @@
 ---
-title: 概述-激励计划 & POE
+title: 计划和执行证明概述
 description: 了解激励所需的关键文档，包括激励的合作声明计划和 (PoE) 的详细执行证明。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/10/2020
-ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 09/11/2020
+ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303133"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714391"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>使用这些资源来帮助你创建激励计划和执行证明
 

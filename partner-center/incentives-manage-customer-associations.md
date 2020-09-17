@@ -1,5 +1,5 @@
 ---
-title: 管理激励客户关联
+title: 奖励客户关联
 description: 了解管理声明的记录 (CPOR) 客户关联的重要过程和时间线。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220575"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714431"
 ---
 # <a name="manage-incentives-customer-associations"></a>管理激励客户关联
 

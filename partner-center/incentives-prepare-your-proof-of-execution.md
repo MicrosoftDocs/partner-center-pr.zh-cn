@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220775"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714381"
 ---
-# <a name="prepare-your-proof-of-execution"></a>准备执行证明
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>创建和提交 (PoE 的奖励证明的文档) 
 
 **适用对象：**
 
@@ -45,7 +45,7 @@ ms.locfileid: "89220775"
    - **日期**  执行日期。 此日期必须介于市场活动开始日期和市场活动结束日期之间。
    - **金额**  合作声明的量。
 
-7. 选择“保存”  。
+7. 选择“保存”。
 
 8. 在 " **新的执行声明证明** " 页上，输入必填字段。
 

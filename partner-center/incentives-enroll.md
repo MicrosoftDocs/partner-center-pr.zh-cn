@@ -1,21 +1,21 @@
 ---
-title: 注册参与奖励计划
+title: 奖励注册
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: 注册奖励计划，并为用户管理分配必要的角色。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220595"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714441"
 ---
-# <a name="enroll-in-the-incentives-program"></a>注册参与奖励计划
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>激励计划中的注册和用户管理
 
 **适用对象：**
 
@@ -55,4 +55,4 @@ ms.locfileid: "89220595"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [确定你的程序资格](incentives-determined-your-program-eligibility.md)
+- [确定计划资格](incentives-determined-your-program-eligibility.md)
