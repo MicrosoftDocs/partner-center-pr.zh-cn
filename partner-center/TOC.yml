@@ -203,54 +203,72 @@
       items:
         - name: 即刻体验奖励
           items:
-            - name: 常见问题
+            - name: 奖励常见问题解答
               href: incentives-faq.md
-            - name: 入门
+            - name: 即刻体验奖励
               href: incentives-get-started-intro.md
-            - name: 注册参与奖励计划
+            - name: 奖励的 10 大要素
+              href: incentives-ten-essentials.md
+            - name: 注册以获取奖励
               href: incentives-enroll.md
-            - name: 确定你的程序资格
+            - name: 检查计划资格
               href: incentives-determined-your-program-eligibility.md
-            - name: 在合作伙伴中心创建和管理付款资料和税务资料
+              displayName: incentives
+            - name: 了解付款资料和税务资料
               href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-            - name: 关于奖励付款和税务资料的常见问题解答
+              displayName: incentives
+            - name: 付款资料和税务资料常见问题解答
               href: incentives-payout-tax-profile-faqs.md
-            - name: 确认你的收益资格
+              displayName: incentives
+            - name: 检查收益资格
               href: incentives-confirm-your-earnings-eligibility.md
-            - name: 查看奖励付款和计划
+              displayName: incentives
+            - name: 查看付款和计划
               href: understand-incentive-payouts.md
-            - name: 访问奖励付款页
+              displayName: incentives
+            - name: 访问付款页面
               href: incentives-unified-user-guide.md
+              displayName: incentives
         - name: 计划和执行证明
           items:
-            - name: 关于计划和 PoE
+            - name: 了解计划和 PoE
               href: incentives-plans-proofs-intro.md
+              displayName: 'incentives, proof of execution, proofs of execution'
             - name: 创建计划
               href: incentives-create-your-plan.md
-            - name: 准备执行证明
+              displayName: incentives
+            - name: 创建执行证明
               href: incentives-prepare-your-proof-of-execution.md
+              displayName: incentives
         - name: 奖励合作申请
           items:
-            - name: 关于合作申请
+            - name: 奖励合作申请
               href: claims-overview.md
-            - name: 创建和管理奖励合作申请
+              displayName: incentives
+            - name: 管理合作声明
               href: create-incentives-claims.md
-            - name: 奖励合作申请的核心要求
+              displayName: incentives
+            - name: 查看核心要求
               href: core-requirements.md
-            - name: 合作申请批准和付款的截止时间
+              displayName: incentives
+            - name: 合作申请批准和截止时间
               href: incentives-managing-co-op-claims.md
+              displayName: incentives
         - name: 奖励 CPOR 关联申请
           items:
-            - name: 关于 CPOR 关联
+            - name: 了解 CPOR 关联
               href: incentives-customer-associations-intro.md
-            - name: 使用 CPOR 模型创建客户关联
+            - name: 创建客户关联
               href: submit-osa-claim.md
             - name: 管理客户关联
               href: incentives-manage-customer-associations.md
+              displayName: incentives
             - name: 客户关联问题
               href: incentives-customer-association-issues.md
+              displayName: incentives
         - name: 排查付款和收益问题
           href: incentives-payment-issues.md
+          displayName: incentives
 - name: 计费和税款
   href: billing.md
   items:
@@ -292,8 +310,8 @@
           href: organization-tax-info.md
         - name: 接收预扣税额度
           href: withholding-tax-credit-form.md
-        - name: Office 365 合作伙伴咨询：云解决方案提供商计划中的 Microsoft 365 商务语音
-          href: o365-partner-advisory.md
+        - name: 地区税务 - 语音服务
+          href: tax-and-fees-voice-services.md
     - name: 从 Microsoft 请求 SLA 信用额度
       href: request-credit.md
     - name: 为客户设置 Azure 费用预算
@@ -536,6 +554,8 @@
   items:
     - name: 许可资源
       href: support-resources-licensing.md
+    - name: 查找 ID 和域名
+      href: find-ids-and-domain-names.md
 - name: 安全要求
   items:
     - name: 概述

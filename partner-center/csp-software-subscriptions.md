@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545838"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614153"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商 (CSP) 计划销售软件订阅
 
@@ -116,7 +116,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>可通过 Microsoft 365 管理中心为客户提供服务器订阅下载和许可证密钥 
 
-客户将能够从 Microsoft 365 管理中心获取云解决方案提供商服务器订阅许可证密钥和下载。 若要查看其云解决方案提供商服务器订阅许可证密钥和下载，客户必须转到“Microsoft 365 管理中心”>“计费”> 你的产品 >“软件选项卡”。有关详细信息，请参阅[“计费”下的“软件选项卡”](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions)。  
+客户将能够从 Microsoft 365 管理中心获取云解决方案提供商服务器订阅许可证密钥和下载。 若要查看其云解决方案提供商服务器订阅许可证密钥和下载，客户必须转到“Microsoft 365 管理中心”>“计费”> 你的产品 >“软件选项卡”。有关详细信息，请参阅[“计费”下的“软件选项卡”](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)。  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>查看软件密钥访问和软件下载的活动
 
