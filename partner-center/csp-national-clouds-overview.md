@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f7b29b39cbc4a991accd6821a6b6cd037ccfc54
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114336"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000381"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>适用于作为 CSP 计划的一部分在 Microsoft 国家标准云中销售
 
@@ -41,11 +41,11 @@ Microsoft 可在国家云中提供以下服务：
     > [!IMPORTANT]  
     > 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。
     >  
-    > 前进后，新客户可选择使用当前可用的欧洲区域，或在德国可用时使用新区域。 有关详细信息，请参阅[Microsoft 提供德国的新数据中心提供的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
+    > 前进后，新客户可选择使用当前可用的欧洲区域，或在德国可用时使用新区域。 有关详细信息，请参阅 [Microsoft 提供德国的新数据中心提供的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 
     
 -   [**由中国世纪互联运营的 Azure 和 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft 通过与上海蓝云网络科技有限公司（世纪互联）的独特合作伙伴关系在中国提供云服务，该公司是北京世纪互联宽带数据中心有限公司的全资子公司。世纪互联是中国最大的运营商中立 Internet 数据中心、托管、托管网络和云计算基础结构服务提供商。 
 
     Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营、提供和管理 Microsoft 云服务的交付。 通过授权 Microsoft 技术，世纪互联可以提供 Azure 和 Office 365 服务，并运营将数据保存在中华人民共和国的 Azure 和 Office 365 数据中心。 世纪互联还提供订阅和计费服务以及支持。
 
-    有关如何注册以及在中国世纪互联运营的 Azure 和 Office 365 中向客户进行销售的信息，请参阅[由世纪互联运营的合作伙伴中心](https://msdn.microsoft.com/partner-china/index)。 
+    有关如何注册以及在中国世纪互联运营的 Azure 和 Office 365 中向客户进行销售的信息，请参阅[由世纪互联运营的合作伙伴中心](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))。

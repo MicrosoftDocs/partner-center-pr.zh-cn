@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8611c2de0310880fee1e665077026de003f30dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114133"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000451"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>将 Api 用于 Azure Insights & Office 365 服务通信的自动服务通知
 
@@ -33,13 +33,11 @@ Office 365 和 Microsoft Azure 各提供一个合作伙伴可用于检索实时�
 
 以下 API 适用于你的开发人员：
 
-[Office 365 服务通信 API](https://go.microsoft.com/fwlink/p/?LinkId=616899)
+[Office 365 服务通信 API](/office/office-365-management-api/office-365-service-communications-api-reference)
 
-Azure Insights REST API：[代码](https://go.microsoft.com/fwlink/p/?LinkId=617299)和[API 参考](https://go.microsoft.com/fwlink/p/?LinkId=617300)
+
+Azure Insights REST [API 参考](/rest/api/monitor/)
 
  
 
  
-
-
-

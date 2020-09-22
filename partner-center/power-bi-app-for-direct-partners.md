@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302304"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000011"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>适用于 Power BI () CSP 中的直销合作伙伴的合作伙伴中心分析应用概述和常见问题解答
 
@@ -55,8 +55,8 @@ ms.locfileid: "86302304"
 | --- | ---------- |
 | 此应用需要花费多少成本？ | 此应用本身是免费的。 要预览此应用，你可以[注册免费 Power BI 服务](https://go.microsoft.com/fwlink/p/?linkid=845347)并用它自定义仪表板和报告。 要允许贵公司的其他人员使用此应用，你需要 Microsoft Power BI 专业版或 Microsoft Power BI 高级版的活动订阅。 |
 | 谁可以连接到合作伙伴中心分析应用？ | 此版本的应用专为云解决方案提供商计划中的直接合作伙伴（第 1 层）设计。 如果你直接与 Microsoft 以及客户开展业务，你就是直接合作伙伴。 若要安装此应用，你必须是企业帐户的全局管理员、管理员代理或计费管理员。 |
-| 我是间接提供商，我可以使用该应用吗？ | 是。 你的全局管理员、管理员代理或帐单管理员可以安装该应用并查看你的直接客户的相关数据。 将来的版本可能还会包含允许你查看你的间接经销商的相关数据的功能。 |
-| 如何了解有关将来版本的信息？ | 可通过合作伙伴中心早期采用者计划获取公告和预览版本。 你还可以通过早期采用者计划共享你的反馈。 如果尚未参与该计划，请学习如何加入。 请参阅[加入合作伙伴中心 API 和 SDK 早期](https://docs.microsoft.com/partner-center/develop/early-adopter-program)采用者计划。  |
+| 我是间接提供商，我可以使用该应用吗？ | 是的。 你的全局管理员、管理员代理或帐单管理员可以安装该应用并查看你的直接客户的相关数据。 将来的版本可能还会包含允许你查看你的间接经销商的相关数据的功能。 |
+| 如何了解有关将来版本的信息？ | 可通过合作伙伴中心早期采用者计划获取公告和预览版本。 你还可以通过早期采用者计划共享你的反馈。 如果尚未参与该计划，请学习如何加入。 请参阅 [加入合作伙伴中心 API 和 SDK 早期](/partner-center/develop/early-adopter-program)采用者计划。  |
 | 什么人可以在应用中自定义仪表板和报告？ | 只有安装应用的全局管理员、管理员代理或帐单管理员可以在 Power BI Web 接口中自定义仪表板或创建新报告。 |
 | 什么人可以在应用中查看仪表板和报告？ | 安装了该应用程序的全局管理员、管理员代理或计费管理员可以与任何具有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的活动订阅的用户共享该应用的数据。 |
 | 可以用该应用跨位置查看多个 Azure AD 租户的数据吗？ | 使用此版本只能查看你的全局管理员或管理员代理所登录的 Azure AD 租户的数据。 | 

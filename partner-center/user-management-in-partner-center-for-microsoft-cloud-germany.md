@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220086"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000621"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
@@ -46,11 +46,11 @@ ms.locfileid: "89220086"
 > [!NOTE]  
 > 选择以下链接将转到其他网站。
 
--  [将新用户添加到 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [将新用户添加到 Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [在 Azure Active Directory 中向用户分配管理员角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [在 Azure Active Directory 中向用户分配管理员角色](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [在 Azure Active Directory 中重置用户的密码](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [在 Azure Active Directory 中重置用户的密码](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>后续步骤
 

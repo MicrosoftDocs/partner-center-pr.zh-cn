@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811127"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000631"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>将基于许可证的客户从 & 合作伙伴的其他渠道迁移到云解决方案提供商计划
 
@@ -26,7 +26,7 @@ ms.locfileid: "87811127"
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>将客户的基于许可证的订阅移动到云解决方案提供商计划 (CSP) 
 
-1. 从 "合作伙伴中心" 菜单中选择 "**客户**"，然后选择 "**请求分销商关系**"。 若要为多渠道帐户提供支持，你应该执行相同的操作。
+1. 从 "合作伙伴中心" 菜单中选择 " **客户** "，然后选择 " **请求分销商关系**"。 若要为多渠道帐户提供支持，你应该执行相同的操作。
 
 2. 客户接受你的邀请后，你将能够为客户 (提供所需的订阅和许可证，例如，客户以前) 的相同 Office 365 产品/服务。
 
@@ -34,7 +34,7 @@ ms.locfileid: "87811127"
 
 
    >[!NOTE]
-   >如果客户通过 Microsoft 365 (M365) 管理门户购买，则可以获得信用额度 (例如，通过 Microsoft) 按月或按年计费。 直接从 Microsoft 购买的订阅的信用额度由**M365 计费支持**处理。 请参阅 M365 指导如何[取消 M365 订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。 如果已为客户委派管理权限，则可以代表客户联系 M65 支持人员。 如果没有，请要求客户直接联系 M365 支持人员，以了解他们有资格享受多少信用额度，以及如何为他们提供此信用额度。 阅读有关[委派的管理员权限](customers-revoke-admin-privileges.md)的信息。
+   >如果客户通过 Microsoft 365 (M365) 管理门户购买，则可以获得信用额度 (例如，通过 Microsoft) 按月或按年计费。 直接从 Microsoft 购买的订阅的信用额度由 **M365 计费支持**处理。 请参阅 M365 指导如何 [取消 M365 订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。 如果已为客户委派管理权限，则可以代表客户联系 M65 支持人员。 如果没有，请要求客户直接联系 M365 支持人员，以了解他们有资格享受多少信用额度，以及如何为他们提供此信用额度。 阅读有关 [委派的管理员权限](customers-revoke-admin-privileges.md)的信息。
 
 
 4. 然后客户将继续使用你预配的订阅而不会发生中断。

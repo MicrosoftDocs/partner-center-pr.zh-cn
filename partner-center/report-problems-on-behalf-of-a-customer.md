@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220175"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999781"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -143,7 +143,7 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 
 如果遇到与以下问题相关的问题： Dynamics 365 计划订阅、许可、计费、财务 & 操作、Dynamics 365 产品许可证或需要进一步的技术支持：
  
-请联系 [Dynamics 支持人员](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
+请联系 [Dynamics 支持人员](/dynamics365/customer-engagement/admin/contact-technical-support)
 
 请阅读 [Microsoft Dynamics 支持](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 

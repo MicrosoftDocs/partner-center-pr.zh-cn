@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367011"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000261"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
 
@@ -33,9 +33,9 @@ ms.locfileid: "89367011"
 - “用户管理”管理员
  
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
 
-## <a name="before-you-begin"></a>在开始之前
+## <a name="before-you-begin"></a>开始之前
 
 请先查看下面的重要信息，再代表客户购买 Azure 预订。  (你希望客户能够从为他们购买的以前的 Azure 订阅购买自己的 Azure 预订吗？ 请参阅 [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。 ) 
 
@@ -136,7 +136,7 @@ ms.locfileid: "89367011"
     - 选择预订的作用域。 预订的范围可以包含一个订阅或多个订阅（共享范围）。 如果将预留范围限定于单个订阅，则预订折扣仅应用于此订阅。 如果选择 "共享"，则预订折扣将应用到客户的计费上下文内的任何订阅。 
 
       >[!NOTE] 
-      >如果选择将预订的范围限制为单个 Azure 订阅，可能需要增加订阅的 vCPU 配额。 若要增加订阅的 vCPU 配额，需要在 Azure 门户中创建支持请求。 按照 [本主题中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 的说明创建请求。 
+      >如果选择将预订的范围限制为单个 Azure 订阅，可能需要增加订阅的 vCPU 配额。 若要增加订阅的 vCPU 配额，需要在 Azure 门户中创建支持请求。 按照 [本主题中](/azure/azure-supportability/resource-manager-core-quotas-request) 的说明创建请求。 
 
       >[!NOTE]   
       >如果客户位于 Azure 计划下，则 **范围**  将设置为 " **共享**"。 
@@ -156,5 +156,5 @@ ms.locfileid: "89367011"
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
 |管理合作伙伴中心的 Azure 保留 | [管理合作伙伴中心的 Azure 保留](azure-reservations-manage.md)
 |确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](/partner-center/develop/purchase-azure-reservations)   |
 |授予客户购买自己的 Azure 预订的权限  | [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)  |

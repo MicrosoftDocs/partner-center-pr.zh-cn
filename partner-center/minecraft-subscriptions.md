@@ -8,12 +8,12 @@ description: 销售 Minecraft 教育版订阅，使其能够从 Microsoft 教育
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 98094096de41f20df6f381687984ea3ee1a7c334
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436816"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000061"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
@@ -27,7 +27,7 @@ ms.locfileid: "86436816"
 -   销售代理
 -   管理员代理
 
-与教育机构合作的合作伙伴可以向他们提供 **Minecraft: Education Edition** 订阅。 你可以在合作伙伴中心代表客户购买订阅，然后客户从[Microsoft Store 获取教育](https://educationstore.microsoft.com)。 
+与教育机构合作的合作伙伴可以向他们提供 **Minecraft: Education Edition** 订阅。 你可以在合作伙伴中心代表客户购买订阅，然后客户从 [Microsoft Store 获取教育](https://educationstore.microsoft.com)。 
 
 >[!IMPORTANT]
 >若要向教育行业客户销售教育产品/服务，你必须在云解决方案提供商 (CSP) 计划中注册并且是[授权的教育经销商 (AEP)](https://www.mepn.com)。 而且，你的客户必须是[合格的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。  
@@ -36,9 +36,9 @@ ms.locfileid: "86436816"
 ## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>代表你的客户购买 **Minecraft: Education Edition**
 
 按照以下步骤在[合作伙伴中心](https://partnercenter.microsoft.com/pcv/dashboard/overview
-)购买**Minecraft：教育版**订阅（需要登录）：
+)购买**Minecraft：教育版**订阅 (登录所需) ：
 
-  1.  从 "合作伙伴中心" 菜单中选择 "**客户**"。
+  1.  从 "合作伙伴中心" 菜单中选择 " **客户** "。
   
   2.  从客户列表中选择教育行业客户，然后选择**添加订阅**。
   
@@ -53,9 +53,7 @@ ms.locfileid: "86436816"
 
   6.  成功购买订阅后，将教育行业客户定向到[适用于教育的 Microsoft Store](https://educationstore.microsoft.com) 上的清单，以便客户下载软件、分发许可证。
 
-      如果你的客户需要有关向用户分发软件许可证的更多信息，可以[在此处了解更多信息](https://docs.microsoft.com/education/windows/school-get-minecraft#distribute-minecraft)。  
+      如果你的客户需要有关向用户分发软件许可证的更多信息，可以[在此处了解更多信息](/education/windows/school-get-minecraft#distribute-minecraft)。  
   
-      如果你的客户不熟悉适用于教育的 Microsoft Store，可以在[此概述页](https://docs.microsoft.com/microsoft-store/windows-store-for-business-overview)了解更多相关信息。  
-
-      
+      如果你的客户不熟悉适用于教育的 Microsoft Store，可以在[此概述页](/microsoft-store/windows-store-for-business-overview)了解更多相关信息。  
 

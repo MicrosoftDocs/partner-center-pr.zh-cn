@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848259"
+ms.locfileid: "90999341"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -40,12 +40,12 @@ ms.locfileid: "90848259"
 ### <a name="if-you-are-psc-admin"></a>如果你是 PSC 管理员
 
 - 需要使用工作电子邮件登录到 [合作伙伴中心](https://partner.microsoft.com/)。
-- 通过合作伙伴中心 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview)的帮助设置你的帐户。
+- 通过合作伙伴中心 [帐户管理员](permissions-overview.md)的帮助设置你的帐户。
 - 阅读本文档，了解如何在合作伙伴中心共同销售。
-- 在合作伙伴中心设置用户帐户，使其 (管理员、交易经理和卖方角色) 的所有 PSC 用户，并为他们分配 [引用管理员角色](https://docs.microsoft.com/partner-center/permissions-overview)。
+- 在合作伙伴中心设置用户帐户，使其 (管理员、交易经理和卖方角色) 的所有 PSC 用户，并为他们分配 [引用管理员角色](permissions-overview.md)。
 
 >[!Important]
-> 请确保在 "合作伙伴中心" 中的 MPN 位置列表中提供了 PSC 横幅中所示的 MPN ID。 可以通过转到 "帐户设置" 和 "位置" 来验证合作伙伴中心中的 "帐户设置" 和 "[位置](https://docs.microsoft.com/partner-center/manage-locations)"，以查找与合作伙伴中心帐户关联的所有 MPNs 列表。
+> 请确保在 "合作伙伴中心" 中的 MPN 位置列表中提供了 PSC 横幅中所示的 MPN ID。 可以通过转到 "帐户设置" 和 "位置" 来验证合作伙伴中心中的 "帐户设置" 和 "[位置](manage-locations.md)"，以查找与合作伙伴中心帐户关联的所有 MPNs 列表。
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="显示 PSC 横幅的图像，合作伙伴可在其中找到 MPN ID。":::
 
@@ -61,10 +61,10 @@ ms.locfileid: "90848259"
 
 如果看不到 "引用" 选项卡：
 
-- 贵公司的 [全局管理员](https://docs.microsoft.com/partner-center/permissions-overview) 可授予你访问 "引用" 选项卡的权限。若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 选择左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。 然后，该页将显示具有各自电子邮件 Id 的所有全局管理员。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
+- 贵公司的 [全局管理员](permissions-overview.md) 可授予你访问 "引用" 选项卡的权限。若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 选择左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。 然后，该页将显示具有各自电子邮件 Id 的所有全局管理员。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
 
 >[!Important]
-> 如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 角色。 如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " 角色。 另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。
+> 如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](permissions-overview.md#manage-referrals) " 角色。 另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 "合作伙伴设置" 用户管理页中的 "帐户管理员" 的图像。":::
 
@@ -76,9 +76,9 @@ ms.locfileid: "90848259"
 在合作伙伴中心设置帐户后，
 
 - 下一步，邀请 PSC 中具有角色 "交易经理" 或 "卖方" 的所有用户作为下一步。
-- 帮助你使用引用访问权限的 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 可以邀请所有用户。
-- 邀请用户时，要求帐户管理员将 " [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) " 角色分配给他们。
-- 一些 PSC 用户可能使用的是非工作帐户，或者使用的是合作伙伴中心以外的域中的帐户。 所有此类用户都需要使用附加到 Azure AD 租户的工作帐户登录到合作伙伴中心。 你的 [全局管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 可对此有帮助。 若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 单击左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。
+- 帮助你使用引用访问权限的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 可以邀请所有用户。
+- 邀请用户时，要求帐户管理员将 " [引用管理员](permissions-overview.md#manage-referrals) " 角色分配给他们。
+- 一些 PSC 用户可能使用的是非工作帐户，或者使用的是合作伙伴中心以外的域中的帐户。 所有此类用户都需要使用附加到 Azure AD 租户的工作帐户登录到合作伙伴中心。 你的 [全局管理员](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 可对此有帮助。 若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 单击左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。
 - 全局管理员可以在 Azure AD 租户中创建新的用户帐户，也可以为来宾用户分配对其他域帐户用户的访问权限。
 - 为所有 PSC 交易经理和用户设置帐户后，他们需要登录到合作伙伴中心，在左侧导航栏中转到 "引用" 选项卡，然后检查以确保他们可以看到 "引用" 页面。
 
@@ -100,16 +100,16 @@ ms.locfileid: "90848259"
 
 |**方案**|**合作伙伴销售连接**|**合作伙伴中心**|
 |-----|:-----|:-----|
-|用户角色|PSC 具有管理员、交易经理和卖方角色。|PC 仅具有 [引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 角色，该角色提供所有交易的读取和写入权限。|
-|邀请 Microsoft 共同销售交易|由 Microsoft 卖方发起，伙伴没有明确的 ask。|如果某个交易需要 Microsoft 卖方帮助，合作伙伴将不得不发出 [显式请求](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 。 Microsoft 卖方可以选择拒绝该请求。|
+|用户角色|PSC 具有管理员、交易经理和卖方角色。|PC 仅具有 [引用管理员](permissions-overview.md#manage-referrals) 角色，该角色提供所有交易的读取和写入权限。|
+|邀请 Microsoft 共同销售交易|由 Microsoft 卖方发起，伙伴没有明确的 ask。|如果某个交易需要 Microsoft 卖方帮助，合作伙伴将不得不发出 [显式请求](manage-co-sell-opportunities.md#add-solutions) 。 Microsoft 卖方可以选择拒绝该请求。|
 |Expiry|没有交易到期的概念。|如果合作伙伴不接受合作伙伴的入站交易，则该交易将在14天后过期。 对于合作伙伴出站交易，如果 Microsoft 卖方在14天内不执行此操作，则可以将其转入过期状态。|
 |Microsoft 卖方详细信息|一旦创建了交易就会立即可见。|仅当卖方明确接受合作伙伴共同销售的邀请时，才会与合作伙伴共享 Microsoft 卖方详细信息。|
-|[专用管道](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|不可用。|合作伙伴无需向 Microsoft 卖方提供可见性即可共享其管道。|
-|解决方案|仅属于一个价目表的解决方案可以添加到交易中。|合作伙伴可以添加属于以下列表的 [解决方案](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 。 a) 自己的解决方案 b) Microsoft 第一方目录的解决方案， (类似于 PSC 中的交易交易角色) 和 c) 来自其他第三方合作伙伴的共同销售解决方案 (类似于 PSC) 中的 ISV 交易角色。|
+|[专用管道](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|不可用。|合作伙伴无需向 Microsoft 卖方提供可见性即可共享其管道。|
+|解决方案|仅属于一个价目表的解决方案可以添加到交易中。|合作伙伴可以添加属于以下列表的 [解决方案](manage-co-sell-opportunities.md#add-solutions) 。 a) 自己的解决方案 b) Microsoft 第一方目录的解决方案， (类似于 PSC 中的交易交易角色) 和 c) 来自其他第三方合作伙伴的共同销售解决方案 (类似于 PSC) 中的 ISV 交易角色。|
 |交易分配|只有分配的卖方才能查看和处理交易。|团队成员可以添加到交易来指定处理交易的人员，而不会阻止其他引用管理员查看或操作这些交易。|
-|客户组织|自由格式的文本输入。|只需键入几个字符，就可以针对[D&B 数据库](https://www.dnb.com/)搜索[customer 组织](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)。 合法名称和地址是根据选择自动填充的。|
+|客户组织|自由格式的文本输入。|只需键入几个字符，就可以针对[D&B 数据库](https://www.dnb.com/)搜索[customer 组织](manage-co-sell-opportunities.md#select-your-customer)。 合法名称和地址是根据选择自动填充的。|
 |客户联系人|不是必需的。|对于专用管道共享，不是必需的。 如果邀请 Microsoft 卖方加入共同销售请求，则需要此项。|
-|公共 API|不可用。|用于以编程方式管理合作伙伴中心引用的[公共 API](https://docs.microsoft.com/partner/develop/referrals) 。|
+|公共 API|不可用。|用于以编程方式管理合作伙伴中心引用的[公共 API](/partner/develop/referrals) 。|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC 和合作伙伴中心字段映射
 
@@ -166,13 +166,13 @@ ms.locfileid: "90848259"
 
 **第.如果我没有访问合作伙伴中心的权限，我该怎么办？**
 
-您可以与 "无法访问" 页上列出的管理员联系，以获取分配的角色。 在 "引用" 部分下，你将需要 "[引用管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)" 角色才能读取和写入权限。 如果你只管理业务配置文件，则在合作伙伴中心需要 "业务配置文件管理员" 角色。
+您可以与 "无法访问" 页上列出的管理员联系，以获取分配的角色。 在 "引用" 部分下，你将需要 "[引用管理员](permissions-overview.md#manage-referrals)" 角色才能读取和写入权限。 如果你只管理业务配置文件，则在合作伙伴中心需要 "业务配置文件管理员" 角色。
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 "无访问体验" 的图像。":::
 
 **Q2.谁有权访问合作伙伴中心的 "引用" 部分？**
 
-你的 [帐户管理员](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 可以授予你访问 "引用" 选项卡的权限。若要查找帐户管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 单击左侧导航栏中第二级的 "用户管理" 页。 单击显示页面右上方的 "所有用户" 的下拉箭头，然后更改为 "帐户管理员"。 然后，该页将显示所有帐户管理员及其各自的电子邮件 Id。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
+你的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 可以授予你访问 "引用" 选项卡的权限。若要查找帐户管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 单击左侧导航栏中第二级的 "用户管理" 页。 单击显示页面右上方的 "所有用户" 的下拉箭头，然后更改为 "帐户管理员"。 然后，该页将显示所有帐户管理员及其各自的电子邮件 Id。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
 
 **又.对于我们的帐户，"+ 新建交易" 按钮将灰显。如何开始创建交易？**
 
@@ -192,7 +192,7 @@ ms.locfileid: "90848259"
 
 **问题7.如何在使交易成为赢后进行注册？**
 
-如果交易符合以下条件，则会显示一个弹出窗口，用于开始 [交易注册](https://docs.microsoft.com/partner-center/register-deals)。
+如果交易符合以下条件，则会显示一个弹出窗口，用于开始 [交易注册](./register-deals.md)。
 
 - 有一种激励资格解决方案附加到交易。
 - Microsoft 卖方邀请参加交易，或邀请参加交易。
@@ -204,11 +204,11 @@ ms.locfileid: "90848259"
 
 **Q9.是否要求添加客户组织？**
 
-是的，在合作伙伴中心，添加 [客户组织](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) 是必需的。 首先，搜索客户所在位置的位置。 根据所拥有的详细信息，您可以指定具体的建筑物名称，也可以只是给出城市细节。 组织搜索将提取与你输入的名称相匹配的所有法律实体，这样你就不必输入任何地址详细信息。 系统会根据所选组织自动填充所有详细信息。
+是的，在合作伙伴中心，添加 [客户组织](./manage-co-sell-opportunities.md#select-your-customer) 是必需的。 首先，搜索客户所在位置的位置。 根据所拥有的详细信息，您可以指定具体的建筑物名称，也可以只是给出城市细节。 组织搜索将提取与你输入的名称相匹配的所有法律实体，这样你就不必输入任何地址详细信息。 系统会根据所选组织自动填充所有详细信息。
 
 **Q10.客户联系详细信息是否是必需的？**
 
-取决于要创建的 [交易类型](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) 。 如果你只是共享你的管道，而不需要 Microsoft 销售组织的任何帮助，则可以选择不为客户联系详细信息。 如果你正在积极地从 Microsoft 卖方寻求帮助，你将需要提供客户联系详细信息。 在合作伙伴中心创建共同销售请求之前，你应该获得客户的明确同意。
+取决于要创建的 [交易类型](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) 。 如果你只是共享你的管道，而不需要 Microsoft 销售组织的任何帮助，则可以选择不为客户联系详细信息。 如果你正在积极地从 Microsoft 卖方寻求帮助，你将需要提供客户联系详细信息。 在合作伙伴中心创建共同销售请求之前，你应该获得客户的明确同意。
 
 **Q11.可以向交易添加多少个解决方案？**
 
@@ -228,7 +228,7 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 
 - OCP Insights-如果 Pdm 只是查看 & 相关的交易进度，则可以使用 OCP Insights 门户获取组织视图。 这是一个内部工具，仅适用于 Pdm。 请注意，不能将 OCP 见解提供给公司的用户。
 - 合作伙伴中心的来宾用户-可以 @microsoft.com 在合作伙伴中心添加 PDM 帐户作为来宾用户，并向其分配引用管理员角色，以便他们可以查看和操作引用。
-- 在租户中创建 [新用户](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) -可以在自己的租户中创建新用户，并与 PDM 共享这些详细信息，以便他们可以查看和处理与帐户中的其他引用用户类似的引用。
+- 在租户中创建 [新用户](./create-user-accounts-and-set-permissions.md#add-a-new-user) -可以在自己的租户中创建新用户，并与 PDM 共享这些详细信息，以便他们可以查看和处理与帐户中的其他引用用户类似的引用。
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>帮助你在合作伙伴中心创建和管理你的交易的资源
 
@@ -236,15 +236,15 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 
 |**要实现此目的，请执行以下操作**   |**阅读此文**   |
 |-----------------------|:-----------------------|
-|了解 "共同销售机会" 页中的选项卡和导航|[导航共同销售部分](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|从 D&B 列表选择客户组织 |[选择客户](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|修改 "交易详细信息" 部分中的字段|[交易详细信息](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|将公司员工添加到交易团队|[添加员工](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|响应共同销售交易|[管理共同销售交易](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|注册在合作伙伴中心赢得的交易 |[注册新交易](https://docs.microsoft.com/partner-center/register-deals)
-|获取参考见解并了解你的引用的工作方式 |[引荐见解](https://docs.microsoft.com/partner-center/referral-insights)
-|创建和管理业务配置文件|[管理业务配置文件](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|管理业务配置文件的潜在客户 |[管理潜在客户](https://docs.microsoft.com/partner-center/manage-leads)|
+|了解 "共同销售机会" 页中的选项卡和导航|[导航共同销售部分](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|从 D&B 列表选择客户组织 |[选择客户](./manage-co-sell-opportunities.md#select-your-customer)|
+|修改 "交易详细信息" 部分中的字段|[交易详细信息](./manage-co-sell-opportunities.md#deal-details)|
+|将团队成员添加到交易团队|[添加员工](./manage-co-sell-opportunities.md#add-team-members)|
+|响应共同销售交易|[管理共同销售交易](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|注册在合作伙伴中心赢得的交易 |[注册新交易](./register-deals.md)
+|获取参考见解并了解你的引用的工作方式 |[引荐见解](./referral-insights.md)
+|创建和管理业务配置文件|[管理业务配置文件](./create-a-marketing-profile.md)
+|管理业务配置文件的潜在客户 |[管理潜在客户](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>其他资源
 

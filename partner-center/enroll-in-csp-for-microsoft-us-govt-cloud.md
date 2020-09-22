@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 06/30/2020
-ms.openlocfilehash: 12ddd290f22fc672ca2fb0c911567ca7419d88b0
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026275"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999911"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -31,7 +31,7 @@ ms.locfileid: "90026275"
 
 美国政府 Microsoft 云提供了 Microsoft Azure 的私有、专用和单独实例，符合美国政府的数据安全、隐私和合规性方面的要求。 贵公司必须满足 Microsoft 的有关加入美国政府 Microsoft 云的 CSP 计划的资格要求。 有关详细信息，请参阅[美国政府 Microsoft 云合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-## <a name="before-you-begin"></a>准备阶段
+## <a name="before-you-begin"></a>开始之前
 
 在你可以注册加入美国政府 Microsoft 云的 CSP 计划之前，我们需要验证贵公司是否满足向美国政府实体进行销售的要求。 开始注册过程之前，请填写 [Microsoft 政府云验证表单](https://azuregov.microsoft.com/csp)，以便我们验证贵公司的资格。 在验证了贵公司的资格后，我们将向你提供特定于美国政府 Microsoft 云的 Azure Active Directory (Azure AD) 租户。  
 
@@ -76,7 +76,7 @@ ms.locfileid: "90026275"
 
 1. 登录到 Microsoft Azure 管理门户，网址为 [https://portal.azure.us/](https://portal.azure.us/) 。
 
-2. 将管理员代理角色分配给你组织中的适当用户。 若要执行此操作，你需要将这些用户添加到内置 **AdminAgent** 组。 请参阅[管理 Azure Active Directory 中的一组成员](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)，了解有关如何执行此操作的信息。
+2. 将管理员代理角色分配给你组织中的适当用户。 若要执行此操作，你需要将这些用户添加到内置 **AdminAgent** 组。 请参阅[管理 Azure Active Directory 中的一组成员](/azure/active-directory/active-directory-groups-members-azure-portal)，了解有关如何执行此操作的信息。
 
 ## <a name="connect-with-us"></a>与我们联系
 

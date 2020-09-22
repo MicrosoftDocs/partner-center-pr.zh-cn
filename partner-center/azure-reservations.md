@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 7f6ca7aa7dddbd9e32690928ee8d48afa5071b14
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367031"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000231"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作伙伴中心、Azure 门户或 Api 向客户销售 Microsoft Azure 预订
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367031"
 - “用户管理”管理员
 
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
 
 CSP 计划中的合作伙伴可以为其客户提供 Microsoft Azure 预订。 如果客户预先预订空间，可以节省大量成本。 Azure 保留通过以下方式为客户提供简单和灵活性：
 
@@ -56,9 +56,9 @@ Azure 预订可通过以下方式吸引客户：
 
 |**有关以下方面的信息**   |**阅读此文**    |
 |:-----------------------------|:-----------------|
-| 适用于你的客户的 Azure 预订文档 | [什么是 Azure 预留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| 适用于你的客户的 Azure 预订文档 | [什么是 Azure 预留？](/azure/billing/billing-save-compute-costs-reservations)
 |在合作伙伴中心为客户购买 Azure 保留   |[购买 Azure 预订](azure-reservations-buying.md)
 |管理合作伙伴中心的 Azure 保留 | [管理合作伙伴中心的 Azure 保留](azure-reservations-manage.md)
 |确定正确的 VM 大小并验证客户 VM 使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](/partner-center/develop/purchase-azure-reservations)   |
 |为客户提供从 CSP 订阅购买自己的 Azure 预订的权限。 | [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)   |

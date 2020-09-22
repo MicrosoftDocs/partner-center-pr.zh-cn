@@ -8,14 +8,14 @@ description: 作为 Microsoft 合作伙伴，你可能会对使用不同的 Micr
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040996"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999751"
 ---
-# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft 合作伙伴的授权资源指南 
+# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>面向 Microsoft 合作伙伴的许可资源指南 
 
 **适用于**
 
@@ -48,7 +48,7 @@ ms.locfileid: "89040996"
 |了解有关批量许可的详细信息 (VL) 并获得特定解决方案的许可  | [Microsoft 许可-产品和解决方案](https://www.microsoft.com/licensing/default) |
 |了解批量许可培训和资源，可帮助提供 VL 定价、报价、协议、产品激活和其他工具  | [Microsoft 合作伙伴网络培训和资源](https://partner.microsoft.com/licensing/training-and-resources) |
 |探索 **获取许可** 许可培训模块  | [获取许可准备](https://www.getlicensingready.com/)  |
-|阅读有关可帮助你设计和向大型组织提供 Microsoft 授权解决方案的许可考试， * (考试将11:59 于2021年1月31日，年1月31日停用) *  | [考试70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|阅读有关可帮助你设计和向大型组织提供 Microsoft 授权解决方案的许可考试， * (考试将11:59 于2021年1月31日，年1月31日停用) *  | [考试70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>特定于计划的许可条款和协议
 
@@ -84,7 +84,7 @@ ms.locfileid: "89040996"
 |*若要查看此仪表板，请在*"合作伙伴中心" 仪表板中查看 csp 计划的定价和产品/服务 ()   |[Csp 定价并提供概述](pricing-and-offers.md) 或 [CSP 文档和资源](csp-documents-and-learning-resources.md) |
 |探索营销材料，帮助客户交易  | [MPN 合作伙伴就绪材料](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |为客户的交易或在线案例获取 Microsoft 技术售销售和部署服务帮助  | [技术售销售和部署服务概述](https://partner.microsoft.com/training/technical-presales-deployment-services) 或 [支持概述](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|了解如何激活开放许可 Microsoft Azure   | [用于打开程序的联机服务激活常见问题](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|了解如何激活开放许可 Microsoft Azure   | [用于打开程序的联机服务激活常见问题](/licensing/online-service-activation-faq)  |
 |如何以及何时为发生中断影响的客户计算和请求 SLA 信用额度  | [请求服务中断的 SLA 信用额度](request-credit.md)   |
 |从 Microsoft 合作伙伴社区获得帮助  | [Microsoft 合作伙伴社区论坛](https://www.microsoftpartnercommunity.com)  |
 

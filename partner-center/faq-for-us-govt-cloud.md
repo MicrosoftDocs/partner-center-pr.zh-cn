@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026265"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000551"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 
@@ -35,7 +35,7 @@ ms.locfileid: "90026265"
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>客户定价是否与商业云解决方案提供商计划相同？
 
-否。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
+不是。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>合作伙伴折扣模式是否相同？
 
@@ -53,7 +53,7 @@ Microsoft 政府云 CSP 计划与商业 CSP 之间存在以下不同点：
 
 - 合同：Microsoft 云经销商协议 (MCRA) 已经更新，以体现独特的政府条款。
 
-- 合作伙伴中心功能：为了满足监管和合规要求，将不会为美国政府 Microsoft 云 CSP 计划启用合作伙伴中心的某些功能。 合作伙伴可以改用 Azure Active Directory (Azure AD) 或 [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) 来执行与用户和组管理相关的任务。 支持多通道和多伙伴方案的关系请求功能将在适用于美国政府 Microsoft 云的 CSP 上提供基于许可证的服务后启动。
+- 合作伙伴中心功能：为了满足监管和合规要求，将不会为美国政府 Microsoft 云 CSP 计划启用合作伙伴中心的某些功能。 合作伙伴可以改用 Azure Active Directory (Azure AD) 或 [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) 来执行与用户和组管理相关的任务。 支持多通道和多伙伴方案的关系请求功能将在适用于美国政府 Microsoft 云的 CSP 上提供基于许可证的服务后启动。
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>我还不是云解决方案提供商合作伙伴。 那么我可以在哪里找到有关如何成为云解决方案提供商合作伙伴的详细信息？
 
@@ -97,15 +97,15 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>我是现有合作伙伴。 我需要做些什么，才能销售美国政府 Microsoft 云？
 
-合作伙伴需要加入美国政府 Microsoft 云 CSP 计划，以达到监管和合规要求。 （Microsoft Cloud for US Government 的加入与商业云解决方案提供商计划的加入相互独立。）加入后，你可以在 Microsoft Cloud for US Government 内创建客户并交易产品或服务。 如果要使用 API，请参阅 [Microsoft 国家云合作伙伴中心开发](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)。
+合作伙伴需要加入美国政府 Microsoft 云 CSP 计划，以达到监管和合规要求。 （Microsoft Cloud for US Government 的加入与商业云解决方案提供商计划的加入相互独立。）加入后，你可以在 Microsoft Cloud for US Government 内创建客户并交易产品或服务。 如果要使用 API，请参阅 [Microsoft 国家云合作伙伴中心开发](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)。
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>合作伙伴奖励机制是否有任何不同？
 
-否。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
+不是。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
 
 ### <a name="are-there-any-changes-to-billing"></a>计费方式是否有任何变化？
 
-否。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
+不是。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>对于在商业数据中心托管的数据，是否可以更改为美国政府的 Microsoft 云？
 
@@ -123,11 +123,11 @@ Azure 政府云提供基于安全、隐私和控制、合规性和透明度等�
 
 ### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>我需要怎么做才能借助美国政府 Microsoft 云 CSP 计划进行开发？
 
-有关通过美国政府 Microsoft 云合作伙伴中心进行开发的详细信息，请参阅[通过 Microsoft 政府云合作伙伴中心进行开发](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)。
+有关通过美国政府 Microsoft 云合作伙伴中心进行开发的详细信息，请参阅[通过 Microsoft 政府云合作伙伴中心进行开发](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)。
 
 ### <a name="are-there-any-differences-in-apis"></a>API 是否有任何不同？
 
-美国政府 Microsoft 云 CSP 计划的 API 和集成要求与商业 CSP 完全相同。 有关 Microsoft Cloud for US Government 中的终结点的详细信息，请参阅[合作伙伴中心 REST URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)。
+美国政府 Microsoft 云 CSP 计划的 API 和集成要求与商业 CSP 完全相同。 有关 Microsoft Cloud for US Government 中的终结点的详细信息，请参阅[合作伙伴中心 REST URL](/partner-center/develop/partner-center-rest-urls)。
 
 >[!NOTE]
 >CREST API 不适用于 Microsoft Cloud for US Government 云解决方案提供商计划。 CSP 中正逐渐弃用此类 API，因此其不适用于美国政府 Microsoft 云。 为符合监管和合规要求，美国政府 Microsoft 云 CSP 计划将不提供以下 API。
@@ -162,7 +162,7 @@ Azure 政府云提供基于安全、隐私和控制、合规性和透明度等�
 
 - [了解有关 CSP 的信息](https://partner.microsoft.com/cloud-solution-provider)
 
-- [了解如何通过美国政府 Microsoft 云合作伙伴中心进行开发](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
+- [了解如何通过美国政府 Microsoft 云合作伙伴中心进行开发](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>如果我仍有问题，应去哪里咨询？
 

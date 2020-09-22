@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280505"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999291"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
@@ -79,7 +79,7 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 - 在注册期间使用多重身份验证 (如 SMS 验证) ，以最大程度地减少向机器人帐户创建和购买的风险。
 - 使用服务 (例如数字标识服务) 管理和跟踪标识。
 - 通过严格的信用卡欺诈检测系统对客户的财务强度进行评估。
-- 建立清晰的集合策略。 详细说明你的集合流程，以及何时对订阅的访问会受到非支付影响。  (你可以禁用访问或 [暂停客户的](suspend-a-subscription.md) 非付款订阅。 ) 
+- 建立清晰的集合策略。 详细说明你的集合流程，以及何时对订阅的访问会受到非支付影响。  (你可以禁用访问或 [暂停客户的](create-a-new-subscription.md#suspend-a-subscription) 非付款订阅。 ) 
 
 ### <a name="managing-customer-accounts"></a>管理客户帐户
 

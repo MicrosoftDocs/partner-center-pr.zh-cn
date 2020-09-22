@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 3b972090c376399dfc474d74b8be5b03330ea0c1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714401"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999301"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>有关激励支出和税务配置文件的常见问题
 
@@ -39,7 +39,7 @@ ms.locfileid: "90714401"
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>如何提供/更新付款和/或税务详细信息？
 
-有关如何更新合作伙伴中心的付款和税务详细信息的详细信息，请参阅 [在合作伙伴中心创建和管理支出和税务配置文件](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md)。
+有关如何更新合作伙伴中心的付款和税务详细信息的详细信息，请参阅 [在合作伙伴中心创建和管理支出和税务配置文件](./incentives-create-and-manage-your-payout-and-tax-profiles.md)。
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>为什么在分配付款和税务配置文件时看不到注册？
 

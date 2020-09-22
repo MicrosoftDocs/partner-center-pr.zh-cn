@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将多个公司从合作伙伴成员中心（PMC）迁移到合作伙伴中心并将其合并到合作伙伴全局帐户时应了解的内容。
+description: 从合作伙伴成员中心将多个公司 (PMC) 迁移到合作伙伴中心并将其合并到合作伙伴全局帐户时，需要了解的内容。
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114145"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000071"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心移到合作伙伴中心（PMC）
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心迁移到合作伙伴中心 (PMC) 
 
 **相应的角色**
 
@@ -25,7 +25,7 @@ ms.locfileid: "87114145"
 - 管理员代理
 - 销售代理
 
-将公司帐户从 PMC 移到合作伙伴中心时，可能会移动多个帐户。 在合作伙伴中心，这些帐户会合并成一个全局帐户 (PGA)。 您移动的第一个帐户将被视为合作伙伴全局帐户，所有后续帐户将合并为第一个帐户作为位置。 从公司总部的 PMC 帐户开始移动。 有关详细信息，请参阅[从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)或观看此简短[的视频多位置帐户](https://vimeo.com/290335248)。
+将公司帐户从 PMC 移到合作伙伴中心时，可能会移动多个帐户。 在合作伙伴中心，这些帐户会合并成一个全局帐户 (PGA)。 您移动的第一个帐户将被视为合作伙伴全局帐户，所有后续帐户将合并为第一个帐户作为位置。 从公司总部的 PMC 帐户开始移动。 有关详细信息，请参阅 [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md) 或观看此简短 [的视频多位置帐户](https://vimeo.com/290335248)。
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>将其他帐户移到合作伙伴中心
 
@@ -51,7 +51,7 @@ ms.locfileid: "87114145"
 
 此屏幕显示已在合作伙伴中心创建的现有帐户的详细信息（名称和地址），以及主要联系人的详细信息。
 
-选择**继续**。
+选择“继续”。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>在合并帐户时会发生什么
 
@@ -65,7 +65,7 @@ ms.locfileid: "87114145"
 
 - 在此合并过程中，所有 MPN ID 都会保留
 
-- 在合并过程中，你的所有现有能力（金/银）、购买（地图/金/银）以及相关优势都将保留
+- 所有现有能力都 (金牌/银) 、购买 (地图/金/银) ，并在合并过程中保留相关权益
 
 - 系统会将你（使用工作电子邮件 ID 登录的用户）作为 MPN 管理员和帐户管理员自动添加到现有合作伙伴中心帐户中，让你可以根据需要管理帐户
 
@@ -93,4 +93,4 @@ ms.locfileid: "87114145"
 - [为用户分配角色和权限](permissions-overview.md)
 - [管理成员身份计划](renew-mpn-offers.md)
 - [创建公司的业务配置文件](create-a-marketing-profile.md)
-- [通过引荐与客户联系](responding-to-referrals.md)
+- [通过引荐与客户联系](manage-leads.md)

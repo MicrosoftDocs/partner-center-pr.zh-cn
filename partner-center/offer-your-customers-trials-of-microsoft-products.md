@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444907"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999211"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>为客户授予为期30天的免费试用版 Microsoft 产品
 
@@ -31,7 +31,7 @@ ms.locfileid: "87444907"
 
 ## <a name="available-trial-offers"></a>可用试用优惠
 
-可以在**客户**页上找到所有未完成的试用版产品/服务。 此页列出所有订阅，包括免费试用版和付费订阅。 （此功能目前在中国不可用。）
+可以在 **客户** 页上找到所有未完成的试用版产品/服务。 此页列出所有订阅，包括免费试用版和付费订阅。  (此功能目前在中国不可用。 ) 
 
 每个客户都有权使用每个可用产品/服务的免费试用版。 例如，他们可以为 Microsoft 365 商业版标准版和 Office 365 E3 免费试用版获取一个免费试用版。 但是，如果客户已拥有该产品/服务，则不能使用该产品/服务的免费试用版。
 
@@ -39,9 +39,9 @@ ms.locfileid: "87444907"
 
 免费试用版适用于基于 licesen 的更为全面的产品/服务。 每月可能会引入新的试用版产品/服务。
 
-合作伙伴可以在合作伙伴中心的 "**定价和优惠**" 页上找到每月价目表中的试用版。 试用版产品/服务的 "价目表"**辅助许可证类型**列中列出了 "试用"。
+合作伙伴可以在合作伙伴中心的 " **定价和优惠** " 页上找到每月价目表中的试用版。 试用版产品/服务的 "价目表" **辅助许可证类型** 列中列出了 "试用"。
 
-目前，政府产品/服务、教育产品/服务或附加产品/服务没有**免费试用**版。
+目前，政府产品/服务、教育产品/服务或附加产品/服务没有 **免费试用** 版。
 
 ## <a name="licenses-for-free-trial-offers"></a>免费试用版许可证
 
@@ -53,18 +53,18 @@ ms.locfileid: "87444907"
 
 在合作伙伴中心获取客户的试用版：
 
-1. 从合作伙伴中心**销售**，中转到 "**目录**"。 
+1. 从合作伙伴中心 **销售** ，中转到 " **目录**"。 
 2. 进入目录，在**计费频率**中单击**试用版产品/服务**。 这将仅显示免费试用版，不显示其他非免费的产品/服务。 试用版将显示在目录中的**试用版**选项卡内。
 3. 选择你想要提供的免费试用版，然后选择**提交**。 所有试用版均为30天，在此期间不会计费。 你还可以在试用期内随时将其转换为付费订阅。
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>将试用版转换为付费订阅
 
-免费试用版不会自动转换为付费订阅。 三十天后，必须将免费试用版转换为付费订阅，否则它将[过期](#expiring-offers)。 免费试用版无法扩展。
+免费试用版不会自动转换为付费订阅。 三十天后，必须将免费试用版转换为付费订阅，否则它将 [过期](#expiring-offers)。 免费试用版无法扩展。
 
-你需要自己将试用版转换为付费订阅。 可以[使用合作伙伴中心](#convert-trials-using-partner-center)或[合作伙伴中心 api](#convert-trials-using-apis)来实现此目的。
+你需要自己将试用版转换为付费订阅。 可以 [使用合作伙伴中心](#convert-trials-using-partner-center) 或 [合作伙伴中心 api](#convert-trials-using-apis)来实现此目的。
 
 > [!NOTE]
-> 不能将云解决方案提供商（CSP）计划的客户免费试用版转换为其他程序租户（如 EA、Open 或 MOSP）。
+> 云解决方案提供商的免费试用版 (CSP) 程序不能转换为其他程序租户 (例如 EA、Open 或 MOSP) 。
 
 ### <a name="convert-trials-using-partner-center"></a>使用合作伙伴中心转换试用版
 
@@ -79,8 +79,8 @@ ms.locfileid: "87444907"
 
 可能需要更改 Api，以适应免费试用版到付费订阅的转换。 有关详细信息，请参阅以下开发人员文档：
 
-- [将试用版订阅转换为付费版订阅](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [获取试用版转换产品/服务的列表](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [将试用版订阅转换为付费版订阅](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [获取试用版转换产品/服务的列表](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>无转换的试验
 
@@ -88,7 +88,7 @@ ms.locfileid: "87444907"
 
 |**试用**   |**兼容的小型企业产品**   |**兼容的企业产品**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Microsoft 团队商业云（用户启动）试用版   |Microsoft 365 商业版基本、Microsoft 365 商业版标准 Microsoft 365 商业版高级   | F3 （以前为 F1），Office 365 for Enterprise （E1，E3 和 E5），M365 F1/F3，M365 Enterprise （E3）   |
+|Microsoft 团队商业云 (用户启动) 试用版   |Microsoft 365 商业版基本、Microsoft 365 商业版标准 Microsoft 365 商业版高级   | F3 (以前的 F1) ，Office 365 for Enterprise (E1、E3 和 E5) 、M365 F1/F3、M365 Enterprise (E3)    |
 
 >[!NOTE]
 >上述产品/服务具有类似功能的类似服务计划，但产品/服务之间可能存在一些差异。

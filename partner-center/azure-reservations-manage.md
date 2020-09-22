@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366871"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000251"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>为客户管理、取消、交换或退款 Microsoft Azure 预订
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366871"
 - “用户管理”管理员
 
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
 
 若要在购买后管理客户的 Azure 预订，请选择要在合作伙伴中心管理的客户和预订，然后在 Azure 门户中对预订进行更改。
 
@@ -45,8 +45,8 @@ ms.locfileid: "89366871"
 
     | **Select**   | **收件人**    |
     |:-----------------------------|:-----------------|
-    | **概述**   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
-    | ** (IAM) 的访问控制 **   | 管理对客户预订信息的访问。|
+    | 概述   | 查看客户预订的详细信息，包括到期日期、范围和利用率数据。 **注意** 选择**退款**可以创建一个按比例退款的支持请求。 选择**兑换**可以创建一个兑换未使用部分的预订期限的支持请求。  
+    | **访问控制 (IAM)**   | 管理对客户预订信息的访问。|
     | **配置**   | 更改保留的作用域和/或与之关联的 Azure 订阅。    |
     | **属性**   | 查看预订的属性并将其复制到剪贴板中保留 ID 和预留订单 ID。 **注意** 当你代表客户请求支持时，支持人员可能会要求你提供预订 ID 和预订订单 ID。    |
     | **新建支持请求**    | 请求 Microsoft 支持人员提供帮助。   |
@@ -107,6 +107,5 @@ ms.locfileid: "89366871"
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
 |在合作伙伴中心为客户购买 Azure 保留   | [购买 Azure 预订](azure-reservations-buying.md) |
 |确定正确的虚拟机大小，然后确认客户虚拟机使用情况   | [针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
-|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](/partner-center/develop/purchase-azure-reservations)   |
 |为客户提供从为他们购买的订阅购买自己的 Azure 预订的权限。 | [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)   |
-

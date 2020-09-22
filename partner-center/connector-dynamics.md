@@ -8,12 +8,12 @@ description: 将合作伙伴中心的推荐与 Dynamics 365 CRM 同步
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490665"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000491"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -28,12 +28,12 @@ ms.locfileid: "89490665"
 
 ## <a name="before-you-install---pre-requisites"></a>安装之前-必备组件
 
-|**本节**   |**详细信息**   |**链接**   |
+|**主题**   |**详细信息**   |**链接**   |
 |--------------|--------------------|------|
 |Microsoft 合作伙伴网络 ID |需要一个有效的 MPN ID|加入 [MPN](https://partner.microsoft.com/)|
 |做好就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |合作伙伴中心帐户|与合作伙伴中心租户关联的 MPN ID 必须与共同销售解决方案关联的 MPN ID 相同。 在部署连接器之前，请确认你可以在合作伙伴中心门户中看到共同销售的引用。|[管理帐户](create-user-accounts-and-set-permissions.md)|
-|合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 用户角色是系统管理员或系统定制员|[在 Dynamics 365 中分配角色](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 用户角色是系统管理员或系统定制员|[在 Dynamics 365 中分配角色](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Power 自动化 Flow 帐户|CRM 系统管理员或系统定制员的有效 [电源自动完成](https://flow.microsoft.com) 帐户。 在安装之前，该用户至少应登录到一次 [电源](https://flow.microsoft.com) 。|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安装适用于 Dynamics 365 (Power 自动化解决方案的合作伙伴中心引用同步) 
@@ -223,7 +223,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
    2. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 示例机会 部分。":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 "示例机会" 部分。":::
 
    3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 
@@ -231,7 +231,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
       - **Microsoft Help 如何？**：选择以下各项：
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 "示例机会" 部分，其中显示了一个名为 Microsoft 如何帮助 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 "示例机会" 部分，其中显示了一个名为 "Microsoft 如何帮助" 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
 
       - **产品**：产品的解决方案 id
 
@@ -261,6 +261,6 @@ Webhook 现在可以侦听以创建和更新事件。
 
 - [管理联合销售机会](manage-co-sell-opportunities.md)
 
-- [有关 Microsoft Power 自动化平台的详细信息？](https://docs.microsoft.com/power-automate/)
+- [有关 Microsoft Power 自动化平台的详细信息？](/power-automate/)
 
-- [合作伙伴中心 Webhook](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [合作伙伴中心 Webhook](/partner-center/develop/partner-center-webhooks)

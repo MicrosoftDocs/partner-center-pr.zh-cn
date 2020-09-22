@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714491"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999311"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理激励支出和税务配置文件
 
@@ -58,7 +58,7 @@ ms.locfileid: "90714491"
 以下各节将引导你完成在合作伙伴中心创建和管理付款和税务配置文件的过程。
 
 >[!IMPORTANT]
->您必须是激励管理员才能在合作伙伴中心创建或管理付款配置文件。 奖励角色必须分配给每个激励计划下的每个 MPN 位置。 有关如何在合作伙伴中心添加激励管理员的详细信息，请参阅 [创建用户帐户](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)。
+>您必须是激励管理员才能在合作伙伴中心创建或管理付款配置文件。 奖励角色必须分配给每个激励计划下的每个 MPN 位置。 有关如何在合作伙伴中心添加激励管理员的详细信息，请参阅 [创建用户帐户](create-user-accounts-and-set-permissions.md)。
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>访问合作伙伴中心的支出和税务部分
 

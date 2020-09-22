@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b363f68fadf29024def3488dbe1ccbb334ea1907
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947656"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000391"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
@@ -50,8 +50,7 @@ ms.locfileid: "85947656"
 
 产品资源：
 
-- [Office 365 政府版服务说明](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 政府版服务说明](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 信任中心](https://www.microsoft.com/TrustCenter/)
 - [Microsoft 服务信任门户](https://aka.ms/STP)
-
