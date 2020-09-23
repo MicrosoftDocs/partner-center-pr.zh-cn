@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026440"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007391"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商业市场中获得付款
 
 下面是有关针对产品/服务、附加产品和广告收益获得付款的重要信息。
 
 > [!IMPORTANT]
-> 需要先[设置付款帐户，并填写所需纳税表单](marketplace-payout-account-setup.md)，然后你才能在商业市场中通过产品/服务销售获得资金。
+> 需要先[设置付款帐户，并填写所需纳税表单](/azure/marketplace/marketplace-payout-account-setup)，然后你才能在商业市场中通过产品/服务销售获得资金。
 
 ## <a name="store-fee"></a>应用商店费用
 

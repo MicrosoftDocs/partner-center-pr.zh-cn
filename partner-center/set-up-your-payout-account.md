@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026435"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007401"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
 
@@ -28,7 +28,7 @@ ms.locfileid: "90026435"
 - [设置付款帐户](#payout-account)
 
 > [!NOTE]
-> 若要详细了解如何以及何时收到产品/服务付款，请参阅[收取付款](marketplace-payout-account-setup.md)。
+> 若要详细了解如何以及何时收到产品/服务付款，请参阅[收取付款](/azure/marketplace/marketplace-payout-account-setup)。
 
 ## <a name="tax-forms"></a>纳税表单
 
@@ -131,7 +131,7 @@ ms.locfileid: "90026435"
 3. 你的付款配置文件将与其状态一起列出。 找到要编辑的配置文件，然后单击最右侧的“编辑”
 
 > [!IMPORTANT]
-> 更改付款帐户可能会推迟付款（最多一个付款周期）。 出现此推迟的原因是我们需要验证帐户更改，正如首次设置付款帐户时我们会进行验证。 帐户通过验证后，仍会收到全额款项；当前付款周期应得的任何付款将添加到下一个付款周期。 有关更多信息，请参阅[收取付款](marketplace-payout-account-setup.md)。
+> 更改付款帐户可能会推迟付款（最多一个付款周期）。 出现此推迟的原因是我们需要验证帐户更改，正如首次设置付款帐户时我们会进行验证。 帐户通过验证后，仍会收到全额款项；当前付款周期应得的任何付款将添加到下一个付款周期。 有关更多信息，请参阅[收取付款](/azure/marketplace/marketplace-payout-account-setup)。
 
 ### <a name="paypal-info"></a>PayPal 信息
 

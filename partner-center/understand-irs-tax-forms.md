@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026431"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007469"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
 
@@ -27,7 +27,7 @@ ms.locfileid: "90026431"
 |1042-S | 与你收到的应缴纳美国预扣税的付款金额相关 | 打印窗体将在 **3 月 15**日或之前显示为邮戳，.pdf 副本将在合作伙伴中心 (的伙伴中心 **开发人员设置** 中提供，同时按 **比率和税务 > 支出和税务配置文件**)   |
 
 > [!NOTE]
-> 用于 IRS 纳税窗体的地址来自你的 [税务模板](marketplace-payout-account-setup.md)中的地址。 如果你的地址已更改，请确保更新你的 **税务配置文件**中的地址。
+> 用于 IRS 纳税窗体的地址来自你的 [税务模板](/azure/marketplace/marketplace-payout-account-setup)中的地址。 如果你的地址已更改，请确保更新你的 **税务配置文件**中的地址。
 
 税务窗体将从以下地址发送给你：
 
@@ -63,7 +63,7 @@ ms.locfileid: "90026431"
   <tr> 
      <td valign="top">(i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的<b>付款金额至少为 10 美元</b>。<br>
 <br>
-<b>OR</b><br>
+<b>或者</b><br>
 <br>
 在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) </td>
     <td valign="top"><b>1099-MISC</b> :<br>付款方：Microsoft Corporation<br>EIN： * * * * * * 4442<br><br><b>重要说明</b>：无论从 Microsoft 收到的付款金额如何，某些业务实体都不会收到 1099-MISC 窗体。  有关详细信息，请咨询税务专业人士。</td>
