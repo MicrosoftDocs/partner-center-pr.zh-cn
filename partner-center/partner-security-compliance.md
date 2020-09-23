@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220195"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999831"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作伙伴安全要求状态 - 获得解答，查看关于当前状态的报表
 
@@ -37,7 +37,7 @@ ms.locfileid: "89220195"
 我们需要确保每位用户在每次身份验证时都回应 MFA 质询。 可以通过下述方式之一来完成此体验：
 
 - 实施 Azure AD Premium，确保对每位用户强制实施 MFA
-- 实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- 实施 [Azure AD 安全性默认设置](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - 实施第三方解决方案，确保对每位用户强制实施 MFA
 
 ## <a name="partner-security-requirements-status"></a>合作伙伴安全要求状态
@@ -53,10 +53,10 @@ ms.locfileid: "89220195"
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>云解决方案提供商租户上的 MFA 配置
 
-此指标与每日捕获并报告的云解决方案提供商租户上的 MFA 配置相关。 它使用这些 [MFA 选项](https://aka.ms/partner-mfa-get-started)中的任意一个来度量强制实施了 MFA 的已启用用户帐户的百分比。 例如：
+此指标与每日捕获并报告的云解决方案提供商租户上的 MFA 配置相关。 它使用这些 [MFA 选项](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)中的任意一个来度量强制实施了 MFA 的已启用用户帐户的百分比。 例如：
 
 - Contoso 是一个云解决方案提供商合作伙伴，其租户中有 110 个用户帐户，这些用户帐户中有 10 个处于禁用状态。 
-- 在剩余的 100 个用户帐户中，有 90 个已使用提供的 [MFA 选项](https://aka.ms/partner-mfa-get-started)强制实施了 MFA。 因此，该指标显示 90%。 
+- 在剩余的 100 个用户帐户中，有 90 个已使用提供的 [MFA 选项](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)强制实施了 MFA。 因此，该指标显示 90%。 
 
 ### <a name="partner-center-activities-with-mfa"></a>在实施了 MFA 的情况下进行的合作伙伴中心活动
 
@@ -127,7 +127,7 @@ ms.locfileid: "89220195"
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>确定哪些用户在未完成 MFA 的情况下登录到了合作伙伴中心
 
-确定哪些用户在未完成 MFA 验证的情况下登录到了合作伙伴中心，并根据当前的 MFA 实施方案对其进行验证，可能会有帮助。 可以使用 [Azure AD 登录报告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)来确定用户是否已完成 MFA 验证。 Azure AD 登录报告目前仅适用于订阅了 Azure AD Premium 或任何包含 Azure AD Premium 的 O365 SKU（例如 EMS）的合作伙伴。
+确定哪些用户在未完成 MFA 验证的情况下登录到了合作伙伴中心，并根据当前的 MFA 实施方案对其进行验证，可能会有帮助。 可以使用 [Azure AD 登录报告](/azure/active-directory/reports-monitoring/concept-sign-ins)来确定用户是否已完成 MFA 验证。 Azure AD 登录报告目前仅适用于订阅了 Azure AD Premium 或任何包含 Azure AD Premium 的 O365 SKU（例如 EMS）的合作伙伴。
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -12,12 +12,12 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 07/10/2020
-  ms.openlocfilehash: 767ecd96c8899970fe4ff6d777d6316f8ff3bc76
-  ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+  ms.openlocfilehash: d6f28cfaa18742a5667a524e19b8c774329d1515
+  ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 07/13/2020
-  ms.locfileid: "86286645"
+  ms.lasthandoff: 09/22/2020
+  ms.locfileid: "91000141"
 highlightedContent:
   items:
   - title: 了解重要的合作伙伴中心更新
@@ -28,13 +28,13 @@ highlightedContent:
     url: manage-your-partner-network-benefits.md
   - title: 加入 API 和 SDK 早期采用者计划
     itemType: deploy
-    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+    url: /partner-center/develop/early-adopter-program
   - title: 获取高级专用化认证
     itemType: whats-new
     url: advanced-specializations.md
   - title: ISV 合作伙伴 - 创建产品/服务并将其发布到市场、AppSource 和云解决方案提供商分销商渠道
     itemType: whats-new
-    url: https://docs.microsoft.com/azure/marketplace/
+    url: /azure/marketplace/
   - title: 合作伙伴安全要求常见问题解答
     itemType: overview
     url: partner-security-requirements-faq.md
@@ -137,7 +137,7 @@ additionalContent:
       url: https://partner.microsoft.com/membership
     - title: 合作伙伴中心 API 和 SDK 参考
       summary: 使用合作伙伴中心 SDK 可管理客户、订阅和订单数据。
-      url: https://docs.microsoft.com/partner-center/develop/
+      url: /partner-center/develop/
     - title: 管理市场奖励
       summary: 市场奖励通过营销、销售和技术优势为你的产品/服务提供针对性的支持。
       url: marketplace-rewards.md
@@ -146,24 +146,24 @@ additionalContent:
     - title: 计费和成本管理
       links:
       - text: 开始使用 Microsoft 合作伙伴协议计费帐户
-        url: https://docs.microsoft.com/azure/billing/mpa-overview
+        url: /azure/billing/mpa-overview
       - text: 开始使用 Azure 成本管理
-        url: https://docs.microsoft.com/azure/cost-management/get-started-partners
+        url: /azure/cost-management/get-started-partners
       - text: 创建更多 Azure 订阅
-        url: https://docs.microsoft.com/azure/billing/billing-create-subscription
+        url: /azure/billing/billing-create-subscription
       - text: 以编程方式创建 Azure 订阅
-        url: https://docs.microsoft.com/azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
+        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
       - text: 查看更多 >
-        url: https://docs.microsoft.com/azure/billing/
+        url: /azure/billing/
     - title: Azure Lighthouse
       links:
       - text: 启用跨租户管理体验
-        url: https://docs.microsoft.com/azure/lighthouse/concepts/cross-tenant-management-experience
+        url: /azure/lighthouse/concepts/cross-tenant-management-experience
       - text: 云解决方案提供商注意事项
-        url: https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider
+        url: /azure/lighthouse/concepts/cloud-solution-provider
       - text: 载入客户以进行 Azure 委托资源管理
-        url: https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer
+        url: /azure/lighthouse/how-to/onboard-customer
       - text: 发布托管服务产品
-        url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
+        url: /azure/lighthouse/how-to/publish-managed-services-offers
       - text: 查看更多 >
-        url: https://docs.microsoft.com/azure/lighthouse/
+        url: /azure/lighthouse/

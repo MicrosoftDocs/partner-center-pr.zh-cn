@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114895"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000561"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
@@ -108,6 +108,6 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 - [创建公司的业务配置文件](create-a-marketing-profile.md)
 
-- [通过引荐与客户联系](responding-to-referrals.md)
+- [通过引荐与客户联系](manage-leads.md)
 
 - [将多个公司从 PMC 迁移到合作伙伴中心的指南](move-multiple-companies.md)

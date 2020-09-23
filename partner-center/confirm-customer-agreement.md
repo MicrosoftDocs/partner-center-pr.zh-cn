@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367281"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000541"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
@@ -96,13 +96,13 @@ ms.locfileid: "89367281"
 
 可以使用合作伙伴中心 API/SDK 确认客户接受 Microsoft 客户协议。 有关 API/SDK 的详细信息，请参阅：
 
-- [获取 Microsoft 客户协议的协议元数据](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [获取 Microsoft 客户协议的协议元数据](/partner-center/develop/get-customer-agreement-metadata)
 
-- [确认客户接受 Microsoft 客户协议](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [确认客户接受 Microsoft 客户协议](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [获取客户接受 Microsoft 客户协议的确认](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [获取客户接受 Microsoft 客户协议的确认](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [获取 Microsoft 客户协议模板的下载链接](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [获取 Microsoft 客户协议模板的下载链接](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>选项 2：客户在 Microsoft 365 管理中心接受协议
 
@@ -115,7 +115,7 @@ ms.locfileid: "89367281"
 - 邀请现有客户查看并接受协议。
 
 >[!NOTE]
-> 可以使用[合作伙伴中心 API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) 来获取客户直接接受 Microsoft 客户协议的状态。  
+> 可以使用[合作伙伴中心 API/SDK](/partner-center/develop/get-direct-sign-status-of-customer-agreement) 来获取客户直接接受 Microsoft 客户协议的状态。  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>创建一个新客户，并邀请该客户查看并接受协议
 

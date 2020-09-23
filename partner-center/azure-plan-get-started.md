@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943954"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000571"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>开始将即用即付费率与 Azure 计划配合使用
 
@@ -45,12 +45,12 @@ Microsoft 在合作伙伴中心引入了新的商务体验。  使用此新商�
 考虑到合作伙伴会有很高的特权，因此我们需要确保在每位用户每次进行身份验证时都对其进行 MFA 质询。 可以通过下述方式之一来实现这一点：
 
 - 实施 Azure AD Premium，确保对每位用户强制实施多重身份验证 (MFA)
-- 实施 [Azure AD 安全性默认设置](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- 实施 [Azure AD 安全性默认设置](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - 实现第三方解决方案，确保为每位用户强制实施 MFA
 
 从 2019 年 8 月 1 日开始，所有合作伙伴都必须对其合作伙伴租户中的所有用户（包括服务帐户）强制实施多重身份验证。 有关这些安全要求的详细信息，请参阅[合作伙伴安全要求](partner-security-requirements.md)。
 
-Microsoft 建议合作伙伴遵循通过 [Azure Active Directory Privileged Identity Management 资源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)实现的最佳做法来积极使用 RBAC。
+Microsoft 建议合作伙伴遵循通过 [Azure Active Directory Privileged Identity Management 资源](/azure/active-directory/privileged-identity-management/pim-configure)实现的最佳做法来积极使用 RBAC。
 
 ## <a name="read-more-about-the-azure-plan"></a>详细了解 Azure 计划
 

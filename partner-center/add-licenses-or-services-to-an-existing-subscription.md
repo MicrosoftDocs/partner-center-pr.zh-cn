@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468776"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999671"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证或更多服务
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468776"
 - 销售代理
 - 支持人员代理
 
-如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。 有关详细信息，请参阅[切换到不同的 Microsoft 365 商业应用版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果你的客户需要的许可证多于其当前订阅所能提供的许可证，或需要附带其他服务的不同版本，你可以升级该订阅。 有关详细信息，请参阅[切换到不同的 Microsoft 365 商业应用版计划](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)。
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP 计划支持的升级<a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ ms.locfileid: "87468776"
 
 3. 选择新的产品/服务，然后选择“提交”。
 
-4. 针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心会提供受影响的帐户和服务列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4. 针对某些服务，可能需要进行额外操作才可以对一些用户帐户进行转移。 如果是这样，合作伙伴中心会提供受影响的帐户和服务列表。 有关帮助，请参阅知识库文章[切换 Office 365 计划期间重新分配许可证时遇到的问题](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)。
+
 
 ## <a name="next-steps"></a>后续步骤
 
-- [切换到其他 Microsoft 365 商业版计划](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [切换到其他 Microsoft 365 商业版计划](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [请求委派的管理员权限](request-a-relationship-with-a-customer.md)
 

@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220385"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999981"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
@@ -36,7 +36,7 @@ Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形�
 
 工作帐户托管 Azure AD 用户及其相关信息 - 他们的密码、个人资料数据和权限等。 工作帐户还包含组、应用程序以及有关公司及其安全性的其他信息。 
 
-你的工作电子邮件属于你 Azure Active Directory 租户的一部分。 若要在合作伙伴中心中拥有帐户，你需要拥有 AAD 租户。 有关 Azure Active Directory 的详细信息，请参阅[在 Azure AD 中创建目录](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+你的工作电子邮件属于你 Azure Active Directory 租户的一部分。 若要在合作伙伴中心中拥有帐户，你需要拥有 AAD 租户。 有关 Azure Active Directory 的详细信息，请参阅[在 Azure AD 中创建目录](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
 
 在合作伙伴中心，你将使用工作电子邮件来登录你的帐户，而不是使用个人电子邮件。
 
@@ -49,7 +49,7 @@ Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形�
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>如果不想将现有的 Office 365 Azure AD 租户用于合作伙伴中心，则可以在从 PMC 迁移之前创建新租户。
 
-可能有很多原因导致你不想使用现有的 Azure AD 租户来设置合作伙伴中心帐户。 在开始迁移到合作伙伴中心之前，请先转至 [Azure 门户](https://ms.portal.azure.com/#home)以创建新的 Azure AD 租户。 按照[在 Azure Active Directory 中创建新租户](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)中的指南进行操作。 使用新的 AAD 租户设置合作伙伴中心帐户。 只有全局管理员才能创建租户。 
+可能有很多原因导致你不想使用现有的 Azure AD 租户来设置合作伙伴中心帐户。 在开始迁移到合作伙伴中心之前，请先转至 [Azure 门户](https://ms.portal.azure.com/#home)以创建新的 Azure AD 租户。 按照[在 Azure Active Directory 中创建新租户](/azure/active-directory/develop/quickstart-create-new-tenant)中的指南进行操作。 使用新的 AAD 租户设置合作伙伴中心帐户。 只有全局管理员才能创建租户。 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>用户角色，包括合作伙伴中心中的来宾用户角色
 
@@ -132,7 +132,7 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>记录合作伙伴关联是否将迁移到合作伙伴中心？
 
-是的，记录合作伙伴不会有任何更改。 了解[将合作伙伴 ID 链接到客户](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)的详细信息。
+是的，记录合作伙伴不会有任何更改。 了解[将合作伙伴 ID 链接到客户](/azure/billing/billing-partner-admin-link-started)的详细信息。
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>奖励计划是否会因迁移到合作伙伴中心而受到影响？
 
@@ -164,6 +164,6 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 如果你在加入 Web Direct 计划时收到一条错误消息，应执行以下操作：
 
-1. 登录到 portal.Azure.com，然后创建一个新 Azure AD 租户。 有关详细信息，请参阅[新建 Azure AD 租户](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)。
+1. 登录到 portal.Azure.com，然后创建一个新 Azure AD 租户。 有关详细信息，请参阅[新建 Azure AD 租户](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)。
 
 2. 创建新的 Azure AD 租户后，可使用它从 Partner Membership Center 迁移到合作伙伴中心，或者在合作伙伴中心注册为全新成员。

@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614164"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999801"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
 
@@ -73,19 +73,19 @@ CSP 计划中的所有合作伙伴（直接计费合作伙伴、间接提供商�
 
     - 间接提供商若要加入合作伙伴中心（如果尚未加入），则需与间接经销商展开合作，并要求自己的经销商满足这些要求。
     - Azure MFA 是通过 Azure AD 安全默认设置免费提供给合作伙伴租户中所有用户的，唯一的验证方法是使用支持基于时间的一次性密码 (TOTP) 的身份验证器应用程序。
-    - 如果需要其他验证方法（例如电话呼叫或短信），可以通过 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 使用这些方法。
+    - 如果需要其他验证方法（例如电话呼叫或短信），可以通过 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 使用这些方法。
     - 在访问 Microsoft 商业云服务时，合作伙伴也可以对每个帐户使用第三方 MFA 解决方案。
 
 2. **采用安全应用程序模型框架**
 
-    所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。 否则可能会因 MFA 部署而造成中断。 以下资源提供有关如何采用此模型的概述和指南。
+    所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。 否则可能会因 MFA 部署而造成中断。 以下资源提供有关如何采用此模型的概述和指南。
 
-    - [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+    - [安全应用程序模型概述](/partner-center/develop/enable-secure-app-model)
     - [合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-    - [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-    - [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+    - [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+    - [合作伙伴中心身份验证文档](/partner-center/develop/partner-center-authentication)
+    - [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](/powershell/partnercenter/multi-factor-auth)
 
     如果你使用的是控制面板，请与供应商协商采用安全应用程序模型框架的事宜。
 
@@ -103,14 +103,14 @@ MFA 是一种安全机制，单个用户可以使用该机制通过多个必需�
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>启用 MFA 的费用是多少？
 
-Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免费提供 MFA。 通过此版 MFA 提供的唯一验证选项是身份验证器应用程序。 如果需要电话呼叫或短信，则需购买 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) 许可证。 也可利用第三方解决方案为你合作伙伴租户中的每名用户提供 MFA - 在这种情况下，你需要负责确保强制实施 MFA 解决方案并且确保你是合规的。
+Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免费提供 MFA。 通过此版 MFA 提供的唯一验证选项是身份验证器应用程序。 如果需要电话呼叫或短信，则需购买 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 许可证。 也可利用第三方解决方案为你合作伙伴租户中的每名用户提供 MFA - 在这种情况下，你需要负责确保强制实施 MFA 解决方案并且确保你是合规的。
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>如果已经有了 MFA 解决方案，我需要采取什么措施？
 
 根据这些安全要求，合作伙伴租户中的用户在访问 Microsoft 商业云服务时必须使用 MFA 进行身份验证。 可以使用第三方解决方案来履行这些要求。 Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Directory 的验证测试。 若要测试产品的互操作性，请参阅这些[准则](https://www.microsoft.com/download/details.aspx?id=56843)。
 
 > [!IMPORTANT]
-> 如果使用的是第三方解决方案，请务必验证该解决方案是否会发出包含 MFA 值的身份验证方法引用 (AMR) 声明。 若要详细了解如何验证第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。
+> 如果使用的是第三方解决方案，请务必验证该解决方案是否会发出包含 MFA 值的身份验证方法引用 (AMR) 声明。 若要详细了解如何验证第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](/powershell/partnercenter/test-partner-security-requirements)。
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>我使用多个合作伙伴租户进行交易。 我是否需要对其都进行 MFA？
 
@@ -138,7 +138,7 @@ Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免
 
 Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Directory 的验证测试。 若要测试产品的互操作性，请参阅这些[准则](https://www.microsoft.com/download/details.aspx?id=56843)。
 
-有关详细信息，请参阅 [Azure AD 联合身份验证兼容性列表](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility)。
+有关详细信息，请参阅 [Azure AD 联合身份验证兼容性列表](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)。
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>如何在集成沙盒中测试 MFA？
 
@@ -184,7 +184,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>谁应该采用安全应用程序模型来满足这些要求？
 
-Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身份验证的云解决方案提供商 (CSP) 合作伙伴和控制面板供应商 (CPV) 进行身份验证。 有关详细信息，请参阅[安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。
+Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身份验证的云解决方案提供商 (CSP) 合作伙伴和控制面板供应商 (CPV) 进行身份验证。 有关详细信息，请参阅[安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。
 
 ### <a name="what-is-the-secure-application-model"></a>安全应用程序模型是什么？
 
@@ -192,14 +192,14 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>如何实现安全应用程序模型？
 
-所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。 否则可能会因 MFA 部署而造成中断。 以下资源提供有关如何采用此模型的概述和指南。
+所有使用任意 API（例如，Azure 资源管理器、Microsoft Graph、合作伙伴中心 API，等等）开发了自定义集成或使用 PowerShell 之类的工具实施了自定义自动化的合作伙伴必须采用[安全应用程序模型框架](/partner-center/develop/enable-secure-app-model)，以便集成 Microsoft 云服务。 否则可能会因 MFA 部署而造成中断。 以下资源提供有关如何采用此模型的概述和指南。
 
-- [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [安全应用程序模型概述](/partner-center/develop/enable-secure-app-model)
 - [合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [合作伙伴中心身份验证文档](/partner-center/develop/partner-center-authentication)
+- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](/powershell/partnercenter/multi-factor-auth)
 
 如果你使用的是控制面板，则需与供应商协商采用安全应用程序模型框架的事宜。
 
@@ -214,7 +214,7 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>我使用 PowerShell 之类的自动化工具。 如何实现安全应用程序模型？
 
-如果你的自动化旨在以非交互方式运行并且依赖于用户凭据进行身份验证，则需实现安全应用程序模型。 请参阅[安全应用程序模型 | 合作伙伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)，获取有关如何实现此框架的指南。  
+如果你的自动化旨在以非交互方式运行并且依赖于用户凭据进行身份验证，则需实现安全应用程序模型。 请参阅[安全应用程序模型 | 合作伙伴中心 PowerShell](/powershell/partnercenter/multi-factor-auth)，获取有关如何实现此框架的指南。  
 
 >[!Note] 
 >并非所有自动化工具都提供使用访问令牌进行身份验证的功能。 如果不了解需要进行哪些更改，请在[合作伙伴中心安全指南](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)组中发布消息。 
@@ -292,7 +292,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 为了验证访问资源的帐户是否已受到多重身份验证的质询，我们需要检查[身份验证方法引用](https://tools.ietf.org/html/rfc8176)声明，查看其中是否列出了 MFA。 某些第三方解决方案不会发出此声明，或者不包含 MFA 值。 如果缺少该声明或者未列出 MFA 值，则无法确定身份验证的帐户是否受到了多重身份验证的质询。 需要咨询第三方解决方案的供应商，以确定需要采取哪些措施来使解决方案发出身份验证方法引用声明。
 
-如果你不确定自己的第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。
+如果你不确定自己的第三方解决方案是否发出所需的声明，请参阅[测试合作伙伴安全要求](/powershell/partnercenter/test-partner-security-requirements)。
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 为客户提供支持，该怎么办？
 
@@ -302,7 +302,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 ### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>如何从基线策略过渡到安全默认设置或其他 MFA 解决方案？
 
-Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)为“安全默认设置”，这是一组适用于你和你客户的更全面的保护策略。 [安全默认设置](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)有助于保护组织免受与身份盗窃相关的安全攻击。
+Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)为“安全默认设置”，这是一组适用于你和你客户的更全面的保护策略。 [安全默认设置](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)有助于保护组织免受与身份盗窃相关的安全攻击。
 
 如果你尚未从基线策略过渡到安全默认设置策略或[其他 MFA 实现选项](partner-security-requirements.md#actions-that-you-need-to-take)，你的多重身份验证 (MFA) 实现则会因基线策略的停用而被删除。 你合作伙伴租户中执行受 MFA 保护的操作的任何用户将被要求完成 MFA 验证。 在[此处](partner-security-requirements-mandating-mfa.md)查看更多详细的指南。
 若要保持合规性并最大程度地减少中断，请执行以下操作之一：
@@ -324,12 +324,12 @@ Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](ht
 
 ### <a name="resources-for-adopting-secure-application-model"></a>采用安全应用程序模型的资源
 
-- [安全应用程序模型概述](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)
+- [安全应用程序模型概述](/partner-center/develop/enable-secure-app-model)
 - [合作伙伴中心：安全应用程序模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/)
-- [合作伙伴中心身份验证文档](https://docs.microsoft.com/partner-center/develop/partner-center-authentication)
-- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 .NET 示例代码](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+- [云解决方案提供商计划中的合作伙伴：用于启用安全应用程序模型的 Java 示例代码](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+- [合作伙伴中心身份验证文档](/partner-center/develop/partner-center-authentication)
+- [合作伙伴中心 PowerShell 多重身份验证 (MFA) 文档](/powershell/partnercenter/multi-factor-auth)
 
 ## <a name="support"></a>支持
 

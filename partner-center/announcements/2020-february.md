@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: afcbfcfb2b303acb15774e7f6019164e34b8e6ae
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944434"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999611"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -75,7 +75,7 @@ _________________
 - **选项 1：** 合作伙伴可按照与以前向客户展示 Microsoft 云协议大致相同的方式来向客户展示新的 Microsoft 客户协议。 在客户查看并接受该协议后，合作伙伴必须证明客户接受了 Microsoft 的协议。 合作伙伴中心仪表板、合作伙伴中心 API 和 .NET SDK 已得到了更新，支持合作伙伴确认客户是否按此方式接受了 Microsoft 客户协议。
 - **选项 2（新功能）：** 合作伙伴可以邀请客户在经过身份验证的 Microsoft 门户（Microsoft 365 管理中心）中查看和签署该协议。 此选项可以简化协议管理、加快实现速度并且减少合作伙伴的工作量，因为客户在 Microsoft 365 管理中心中直接接受协议后，管理中心即可确认条款的批准。
 
-合作伙伴可以使用合作伙伴中心仪表板中提供的新功能或通过[此新 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) 了解客户是否接受了新协议。
+合作伙伴可以使用合作伙伴中心仪表板中提供的新功能或通过[此新 API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) 了解客户是否接受了新协议。
 
 自 2020 年 2 月 1 日起，合作伙伴需要确认其客户接受了 Microsoft 客户协议才能针对 Microsoft 公有云下所有区域中的任何 CSP 产品/服务新下订单。 在未确认客户已通过任一选项接受了 Microsoft 客户协议的情况下，CSP 合作伙伴将无法再新下订单，包括更改席位或续订现有购买。
  
@@ -98,7 +98,7 @@ _________________
 ### <a name="change-log"></a>更改日志：
 
 - 2020 年 2 月 11 日：发布初始公告
-- 2020 年 2 月 25 日：更新公告以包含用于获取客户直接接受状态的[此新 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement) 的内容。
+- 2020 年 2 月 25 日：更新公告以包含用于获取客户直接接受状态的[此新 API](/partner-center/develop/get-direct-sign-status-of-customer-agreement) 的内容。
 
 _________________
 
@@ -169,27 +169,27 @@ _________________
 
 ### <a name="summary"></a>摘要：
 
-这是关于[强制性合作伙伴安全要求](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)的重要更新。 自 2020 年 2 月 29 日起生效，Azure Active Directory (Azure AD)[“基线”策略将被删除](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)，并由“安全默认值”代替，这是一套更全面的保护策略，可供你和你的客户使用。 Azure AD 中的安全默认值可通过预配置的安全设置帮助保护组织防范常见攻击。
+这是关于[强制性合作伙伴安全要求](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)的重要更新。 自 2020 年 2 月 29 日起生效，Azure Active Directory (Azure AD)[“基线”策略将被删除](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)，并由“安全默认值”代替，这是一套更全面的保护策略，可供你和你的客户使用。 Azure AD 中的安全默认值可通过预配置的安全设置帮助保护组织防范常见攻击。
 
 我们的系统表明你的组织目前使用的是基线策略，尚未转换到安全默认值。 如果未在 2 月 29 日前转换到安全默认值，你将失去合作伙伴租户中通过基线策略启用的多重身份验证 (MFA)。请尽快“启用安全默认值”，从而避免任何业务中断。
 
 ### <a name="key-considerations"></a>关键注意事项
 
-安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](../partner-security-requirements.md#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 查看[如何通过 Azure AD 为你的组织启用 MFA](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) 和以下主要注意事项：
+安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](../partner-security-requirements.md#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 查看[如何通过 Azure AD 为你的组织启用 MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) 和以下主要注意事项：
 
-- 对于使用[条件访问](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作伙伴，安全默认值将不可用。
+- 对于使用[条件访问](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作伙伴，安全默认值将不可用。
 - 安全默认值强制执行所有策略，包括管理员所需的 MFA 策略、最终用户保护策略以及服务管理所需的 MFA。
 - 目前不会对合作伙伴强制实施阻止旧身份验证。 但是，由于大多数与已泄露标识相关的事件都来自于使用旧身份验证的登录尝试，因此建议合作伙伴脱离这些早期协议。
 - 安全默认值会自动排除 Azure AD Connect 同步帐户。
-- 安全默认值是预览版[基线策略](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)的正式版替代品。 一旦合作伙伴启用了安全默认值，他们就不再能够启用基线策略。
+- 安全默认值是预览版[基线策略](/azure/active-directory/conditional-access/concept-baseline-protection)的正式版替代品。 一旦合作伙伴启用了安全默认值，他们就不再能够启用基线策略。
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>安全默认值的后续步骤和资源
 
 当前正在使用基线策略的合作伙伴：
 
-- 详细了解[安全默认值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)和[为组织启用 MFA](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)。
+- 详细了解[安全默认值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)和[为组织启用 MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)。
 - 规划从基线策略转换为安全默认值的相关事宜。
-- 请尽快为每一合作伙伴租户[启用安全默认值（单击即可）](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)。 如果安全默认值不能满足你的需求，请考虑其他选项。
+- 请尽快为每一合作伙伴租户[启用安全默认值（单击即可）](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults)。 如果安全默认值不能满足你的需求，请考虑其他选项。
 
 间接提供商：
 
@@ -270,7 +270,7 @@ _________________
 
 [用于 Azure 的云解决方案提供商计划中的新商业体验](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/)简化了购买和销售体验，有助于吸引更多客户并提高利润率。
 
- 作为全新体验的一部分，我们非常高兴地宣布推出[新的定价 API](https://docs.microsoft.com/partner/develop/pricing)，可以编程方式检索“使用量和预留的 Azure 计划定价”以及针对 Microsoft 支持的计费货币的“汇率指数” 。 凭借新的定价 API，合作伙伴可以自动执行和简化检索定价信息的流程。
+ 作为全新体验的一部分，我们非常高兴地宣布推出[新的定价 API](/partner/develop/pricing)，可以编程方式检索“使用量和预留的 Azure 计划定价”以及针对 Microsoft 支持的计费货币的“汇率指数” 。 凭借新的定价 API，合作伙伴可以自动执行和简化检索定价信息的流程。
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>新的定价 API 提供以下功能：
 
@@ -281,13 +281,13 @@ _________________
 
 >[!Note] 
 >这是特定于 Azure 计划定价的全新 API 资源。
-- 现有 [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure) 应仍适用于部署到先前 Azure 订阅（不属于 Azure 计划一部分）的现有 Azure 资源或预留。
+- 现有 [RateCard API](/partner-center/develop/get-prices-for-microsoft-azure) 应仍适用于部署到先前 Azure 订阅（不属于 Azure 计划一部分）的现有 Azure 资源或预留。
 - 这些 API 与合作伙伴中心 API 位于不同的终结点（托管 API 的域）上。
 
 ### <a name="partner-next-steps-and-resources"></a>适用于合作伙伴的后续步骤和资源：
 
 - 查看[开发人员文档](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
-- 使用[新的 API](https://docs.microsoft.com/partner/develop/pricing) 实现自动化流程
+- 使用[新的 API](/partner/develop/pricing) 实现自动化流程
 - 参阅 [Azure 计划定价文档](../azure-plan-price-list.md)以了解定价相关的问题。
 - [详细了解 Azure 计划以及 CSP 中全新的商业体验](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 

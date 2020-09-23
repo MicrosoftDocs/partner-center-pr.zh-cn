@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
-ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
+ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87433900"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999631"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -283,7 +283,7 @@ Microsoft 针对服务器（本地服务器和 Azure 中的服务器）上的终
 ### <a name="additional-resources"></a>其他资源
 
 - 有关更多信息，请访问 [Microsoft Defender 高级威胁防护](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp)页面。
-- 有关 Azure 安全中心的详细信息，请参阅 [Azure 安全中心文档](https://docs.microsoft.com/azure/security-center/)。
+- 有关 Azure 安全中心的详细信息，请参阅 [Azure 安全中心文档](/azure/security-center/)。
 
 ### <a name="questions"></a>有疑问？
 
@@ -761,7 +761,7 @@ _________________
 ### <a name="actions-for-indirect-providers"></a>间接提供商需要执行的操作
 1. 通知组织中的主要利益干系人查看 Microsoft 合作伙伴协议。
 2. 使用全局管理员凭据在[合作伙伴中心的云解决方案提供商概述页面](https://partner.microsoft.com/pcv/dashboard/overview)上接受 Microsoft 合作伙伴协议。
-3. 使用 [API 来验证你的间接经销商的签署状态](https://docs.microsoft.com/partner-center/develop/verify-indirect-reseller-mpa-status)。
+3. 使用 [API 来验证你的间接经销商的签署状态](/partner-center/develop/verify-indirect-reseller-mpa-status)。
 4. 帮助你的间接经销商完成以下操作。
 
 可以通过[此处](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)的 CSP 库页面获取更多信息和资源。

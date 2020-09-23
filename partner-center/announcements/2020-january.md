@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220221"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999581"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -97,8 +97,8 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 ### <a name="additional-resources"></a>其他资源
 
 - [Microsoft 365 政府版本产品页面](https://www.microsoft.com/microsoft-365/government/)
-- [Docs 上 GCC-High 页面中的 Teams](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [在 Microsoft Teams 中设置会议室](https://docs.microsoft.com/microsoftteams/room-systems/)
+- [Docs 上 GCC-High 页面中的 Teams](/MicrosoftTeams/plan-for-government-gcc-high)
+- [在 Microsoft Teams 中设置会议室](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -377,8 +377,8 @@ Customer Insights 许可证更新
 
 - [Dynamics 365 主页](https://dynamics.microsoft.com/)
 - [混合现实应用指南主页](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Biz 应用欺诈主页](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [Power Platform 产品主页](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [Biz 应用欺诈主页](/dynamics365/fraud-protection/overview)
+- [Power Platform 产品主页](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [2020 财年 Power Apps 和 Flow 许可更新](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 许可](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 

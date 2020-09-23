@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390394"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999271"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure 云解决方案提供商 (CSP) 计划中提供的 Azure 服务
 
@@ -42,9 +42,9 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 以下服务需要 CSP 中的特殊配置：
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Azure Active Directory 域服务](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Azure Active Directory 域服务](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 - [Xamarin University 培训](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-为帮助你入门，我们创建了关于在 CSP 中[如何设置、购买和管理 Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) 的视频和文档。
+为帮助你入门，我们创建了关于在 CSP 中[如何设置、购买和管理 Azure DevOps](/vsts/billing/csp/set-up-csp-customer) 的视频和文档。
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP 中的 Azure 市场项
 
@@ -70,7 +70,7 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 - 自带许可 (BYOL) 项：这些项可用。 [Azure 市场 BYOL 页](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)上提供了支持 BYOL 的 Azure 市场项的完整列表。
 
-- 即用即付第三方 Azure 市场项：如果提供程序已发布到 CSP 渠道，则可以使用这些项。 有关详细信息，请参阅[销售 Azure 市场产品的订阅](https://aka.ms/marketplaceincsp)。
+- 即用即付第三方 Azure 市场项：如果提供程序已发布到 CSP 渠道，则可以使用这些项。 有关详细信息，请参阅[销售 Azure 市场产品的订阅](csp-commercial-marketplace-overview.md)。
 
 - Citrix XenApp Essentials：合作伙伴可以为 CSP 中的客户购买 XenApp Essentials。 有关详细信息，请参阅以下 Citrix 博客：[XenApp Essentials 发行版现可通过 Microsoft 云解决方案提供商渠道获取](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)。
 
@@ -189,6 +189,6 @@ CSP 计划中提供了基于 Azure 资源管理器模型的所有服务。  非 
 
 ## <a name="next-steps"></a>后续步骤
 
-- [了解](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview)适用于合作伙伴中心的 Azure 的功能。
+- [了解](/azure/cloud-solution-provider/overview/partner-center-overview)适用于合作伙伴中心的 Azure 的功能。
 
-- 在 Azure CSP 中[创建](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer)第一个客户，并部署 Azure 服务。
+- 在 Azure CSP 中[创建](/azure/cloud-solution-provider/customer-management/create-new-customer)第一个客户，并部署 Azure 服务。

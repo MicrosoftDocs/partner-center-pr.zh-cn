@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614130"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999621"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
@@ -136,7 +136,7 @@ ________________
 
 你将能够向个人和团队提供你的服务，而无需通过集中的 IT 购买流程获取必要的许可证。 基于 Microsoft 365 和 Power Platform 集成方案，你的服务可以跨 Project 和 Visio。 
 
-通过 Microsoft Inspire 大会的[通过 Microsoft Visio 和 Power Platform 重新构建和重新构思业务](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)研讨会，详细了解 Visio 和 Power Platform 解决方案为合作伙伴带来的机会。 有关详细信息，请访问[自助服务管理指南](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)。
+通过 Microsoft Inspire 大会的[通过 Microsoft Visio 和 Power Platform 重新构建和重新构思业务](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)研讨会，详细了解 Visio 和 Power Platform 解决方案为合作伙伴带来的机会。 有关详细信息，请访问[自助服务管理指南](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)。
 
 #### <a name="additional-resources"></a>其他资源
 
@@ -221,7 +221,7 @@ ________________
 ### <a name="next-steps"></a>后续步骤
 
 - 请与贵组织中的相应联系人共享此信息。
-- 有关产品的详细信息，请阅读 [Microsoft Defender ATP 文档](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)。
+- 有关产品的详细信息，请阅读 [Microsoft Defender ATP 文档](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)。
 
 ________________
 

@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998399"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999351"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务合作伙伴中心帐户来管理网络权益和资格
 
@@ -117,4 +117,4 @@ ms.locfileid: "87998399"
 
 -   [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
 
--   [从 Microsoft 获取销售线索并进行管理](responding-to-referrals.md)
+-   [从 Microsoft 获取销售线索并进行管理](manage-leads.md)

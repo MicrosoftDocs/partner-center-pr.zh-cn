@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: bcc6534995a7550f0f09d1da2d52cbf676b66c40
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527503"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000331"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划
 
@@ -87,7 +87,7 @@ ms.locfileid: "87527503"
 
 - 如果你对现有 CSP 订阅拥有管理员访问权限，则在迁移该订阅时继续拥有访问权限。
 
-若要将直接企业协议过渡到 CSP，并将服务器和云注册过渡到 Azure 服务，请阅读[获取 Microsoft 合作伙伴协议的 Azure 订阅计费所有权](https://docs.microsoft.com/azure/billing/mpa-request-ownership)
+若要将直接企业协议过渡到 CSP，并将服务器和云注册过渡到 Azure 服务，请阅读[获取 Microsoft 合作伙伴协议的 Azure 订阅计费所有权](/azure/billing/mpa-request-ownership)
 
 ### <a name="audit-log"></a>审核日志
 

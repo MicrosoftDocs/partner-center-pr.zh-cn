@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435266"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000441"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 ## <a name="improve-the-visibility-of-your-profile"></a>提高档案的可见性 
 
-- **[快速响应请求](responding-to-referrals.md)** 。 当你收到客户引荐时，更快的响应可以在未来客户的搜索页上产生更好的结果。
+- **[快速响应请求](manage-leads.md)** 。 当你收到客户引荐时，更快的响应可以在未来客户的搜索页上产生更好的结果。
+
 - **精心挑选标记**。  最好是减少标记以便最贴切地代表公司的套餐、解决方案、价值主张以及可始终如一地证明成功的独特优势。  这将在未来的搜索结果中获益。
 - 通过 Microsoft **获得资质标记**，以证明你擅长我们的产品。
 - 从赏识你的工作的客户那里**获得认可标记**。
 
 ## <a name="next-steps"></a>后续步骤
 
-[响应引荐](responding-to-referrals.md)
+[响应引荐](manage-leads.md)
