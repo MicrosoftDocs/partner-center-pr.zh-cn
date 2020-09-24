@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
-ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
+ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87412433"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206319"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
@@ -24,7 +24,7 @@ ms.locfileid: "87412433"
 - Microsoft 全球云合作伙伴中心
 - 云解决方案提供商 (CSP) 计划中的合作伙伴
 
-本文介绍了客户如何将 Microsoft Azure 服务从一个云解决方案提供商（CSP）切换到另一个云解决方案提供商（CSP）。
+本文介绍了如何将 Microsoft Azure 服务从一个云解决方案提供商 (CSP) 切换到另一个云解决方案提供商。
 
 若要将客户的 Azure 服务或订阅切换到其他合作伙伴，请执行以下手动步骤。 合作伙伴和客户都需要完成这些步骤。
 
@@ -43,23 +43,23 @@ ms.locfileid: "87412433"
 
    通过合作伙伴中心创建 Azure 服务票证以请求订阅传输：
 
-   - 从 "合作伙伴中心" 菜单中，选择 "**客户**"，从列表中选择你的客户，然后选择 "**服务管理**"。 在 "**支持票证**" 部分下，选择 "**新票证**" 下拉列表，然后选择 " **Microsoft Azure**"。
+   - 从 "合作伙伴中心" 菜单中，选择 " **客户**"，从列表中选择你的客户，然后选择 " **服务管理**"。 在 " **支持票证** " 部分下，选择 " **新票证** " 下拉列表，然后选择 " **Microsoft Azure**"。
 
-   - 在[Azure 门户](https://portal.azure.com)中，选择 "**新建支持请求**"。
+   - 在 [Azure 门户](https://portal.azure.com)中，选择 " **新建支持请求**"。
 
-     在步骤1中，选择 "**订阅管理**" 作为 "问题类型"，指定要传输的订阅 ID，然后选择 "**云解决方案提供商**" 作为支持计划。
+     在步骤1中，选择 " **订阅管理** " 作为 "问题类型"，指定要传输的订阅 ID，然后选择 " **云解决方案提供商** " 作为支持计划。
 
-     在步骤2中，选择 "**最小影响**"，并选择**其他一般问题**作为问题类型。
+     在步骤2中，选择 " **最小影响** "，并选择 **其他一般问题** 作为问题类型。
 
      下载[“CSP 订阅转让”表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
 
 3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)、对其进行签名，然后将它发送给客户。 若要填写表单，需要以下信息：
 
-   - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 "**帐户设置**" " &gt; **组织配置文件**"，并使用其中列出的**Microsoft ID**、**组织名称**和**地址**。
+   - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 " **帐户设置**" " &gt; **组织配置文件**"，并使用其中列出的 **Microsoft ID**、 **组织名称**和 **地址** 。
 
-   - 客户的 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 "**客户**"，然后展开客户的列表以查看其**Microsoft ID**。
+   - 客户的 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 " **客户**"，然后展开客户的列表以查看其 **Microsoft ID**。
 
-   - 要转移的订阅 ID。 在展开的客户列表中，选择 "**查看订阅**"，然后展开所选订阅以查看**订阅 ID**。
+   - 要转移的订阅 ID。 在展开的客户列表中，选择 " **查看订阅**"，然后展开所选订阅以查看 **订阅 ID**。
 
    >[!Note]
    >转移订阅将导致两个订阅 ID，你将在被转移的订阅的**编辑订阅**页上看到它们：**1**-“合作伙伴中心订阅 ID”用于计费目的。 **2**- 原始“Azure 订阅 ID”仍保留，将显示在合作伙伴中心和 Azure 管理门户中。 此 ID 将显示在你的对帐文件中。  **记录支持票证时，你需要使用这两个 ID。**
@@ -75,7 +75,7 @@ ms.locfileid: "87412433"
 
 5. 当前合作伙伴：
 
-   请确保此窗体包含合作伙伴管理员的联系信息。 Microsoft 支持部门将与这两个管理员联系以验证传输。 请确保具有所有三个签名。 然后，使用 "**文件上传**" 选项将完成的窗体附加到现有的服务请求。 Microsoft 支持工程师将在8个工作时间内返回给你，以验证接收和完成情况。
+   请确保此窗体包含合作伙伴管理员的联系信息。 Microsoft 支持部门将与这两个管理员联系以验证传输。 请确保具有所有三个签名。 然后，使用 " **文件上传** " 选项将完成的窗体附加到现有的服务请求。 Microsoft 支持工程师将在8个工作时间内返回给你，以验证接收和完成情况。
 
 6. 新合作伙伴：
 
@@ -88,7 +88,7 @@ ms.locfileid: "87412433"
      ```
 
      >[!NOTE]
-     > 客户的**租户 id**显示在合作伙伴中心中作为客户的**Microsoft id**。 若要查找特定客户的 Microsoft ID （租户 ID），请登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)。 然后从菜单中选择 "**客户**"。 找到列表上的客户。 选择向下箭头以展开客户的列表。 你将看到有关客户*域名*和客户的**Microsoft ID**的信息。 在 PowerShell commandlet 中使用16位**MICROSOFT ID** 。
+     > 客户的 **租户 id** 显示在合作伙伴中心中作为客户的 **Microsoft id**。 若要查找特定客户的 Microsoft ID (租户 ID) ，请登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。 然后从菜单中选择 " **客户** "。 找到列表上的客户。 选择向下箭头以展开客户的列表。 你将看到有关客户 *域名* 和客户的 **Microsoft ID**的信息。 在 PowerShell commandlet 中使用16位 **MICROSOFT ID** 。
 
    - 查看帐户上的角色，包括以前的云解决方案提供商合作伙伴：
 
@@ -98,13 +98,14 @@ ms.locfileid: "87412433"
 
 7. 删除已过期的访问权限
 
-   - 在 "合作伙伴中心" 菜单中，选择 "**客户**"。
-   - 找到列表上的客户。 选择（双击）其公司名称。 这将打开 "客户**订阅**" 页。
-   - 在 "客户详细信息" 菜单中，选择 "**服务管理**"。
-   - 在 " **Microsoft Azure**" 下，单击链接以中转到**Microsoft Azure 管理门户**。
+   - 在 "合作伙伴中心" 菜单中，选择 " **客户**"。
+   - 找到列表上的客户。 选择 (双击其公司名称) 。 这将打开 "客户 **订阅** " 页。
+   - 在 "客户详细信息" 菜单中，选择 " **服务管理**"。
+   - 在 " **Microsoft Azure**" 下，单击链接以中转到 **Microsoft Azure 管理门户**。
 
 ## <a name="next-steps"></a>后续步骤
 
 - 下载[“CSP 订阅转让”表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
-- 了解[多合作伙伴支持](multipartner.md)。
-- 了解[多通道支持](multichannel.md)。
+- [多合作伙伴支持](multipartner.md)。
+- [多通道支持](multichannel.md)。
+- [转移 Azure 订阅](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
