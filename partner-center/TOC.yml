@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: 用于 Salesforce CRM 的联合销售连接器 – 概述
           href: connector-salesforce.md
+        - name: 联合销售引荐连接器疑难解答
+          href: connectors-troubleshoot.md
         - name: 迁移自合作伙伴销售连接 (PSC) 的合作伙伴联合销售
           href: psc-to-pc.md
         - name: 注册交易
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: 基于许可证的 SaaS 订阅的方案
           href: common-billing-scenarios-saas.md
+        - name: 市场产品/服务计费
+          href: csp-commercial-marketplace-billing.md
+        - name: 已付费 - 市场
+          href: marketplace-get-paid.md
     - name: 查看数字签名 - 合作伙伴中心（印度）
       href: digital-signature.md
     - name: 税务和免税
@@ -308,12 +314,20 @@
       items:
         - name: 公司增值税信息
           href: organization-tax-info.md
+        - name: 合作伙伴中心注册中的增值税 (VAT) 信息
+          href: vat-info.md
         - name: 接收预扣税额度
           href: withholding-tax-credit-form.md
         - name: 地区税务 - 语音服务
           href: tax-and-fees-voice-services.md
-    - name: 从 Microsoft 请求 SLA 信用额度
-      href: request-credit.md
+        - name: 商业市场发布者的税务详细信息
+          href: tax-details-marketplace.md
+        - name: 了解 Microsoft 发出的 IRS 税单
+          href: understand-irs-tax-forms.md
+        - name: 设置付款帐户和纳税表单
+          href: set-up-your-payout-account.md
+        - name: 从 Microsoft 请求 SLA 信用额度
+          href: request-credit.md
     - name: 为客户设置 Azure 费用预算
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 管理拒不付款、欺诈或滥用
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: 管理市场产品/服务
           href: csp-commercial-marketplace-manage.md
-        - name: 市场产品/服务计费
-          href: csp-commercial-marketplace-billing.md
         - name: 对市场产品/服务的支持
           href: csp-commercial-marketplace-support.md
         - name: 适用于市场购买的合同
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: 将基于许可证的服务客户移到云服务提供商计划中
           href: transition-seat-based-services.md
-        - name: '销售 Minecraft: Education Edition 订阅'
+        - name: 销售《我的世界》教育版订阅
           href: minecraft-subscriptions.md
         - name: 向特定行业销售
           href: Get-special-pricing-for-offers.md
