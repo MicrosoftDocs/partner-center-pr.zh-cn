@@ -418,6 +418,8 @@
           href: azure-plan-manage.md
         - name: 恢复 Azure CSP 订阅的管理员权限
           href: revoke-reinstate-csp.md
+        - name: 转移 Azure 订阅
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: 软件订阅
       href: csp-software-subscriptions.md
     - name: 通过云解决方案提供商计划销售本地软件
@@ -463,8 +465,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: 将 Skype for Business Online Plan 1 迁移到更新的 Office 365 版本
           href: skype-retiring.md
-        - name: 转移 Azure 订阅
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: 将 Kaizala Pro 订阅迁移到 Microsoft 365
           href: migrate-kaizala-pro-partner.md
     - name: 销售 Office 365 的顾问
