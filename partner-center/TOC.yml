@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: 基于许可证的 SaaS 订阅的方案
           href: common-billing-scenarios-saas.md
+    - name: 市场计费和付款方案
+      items:
         - name: 市场产品/服务计费
           href: csp-commercial-marketplace-billing.md
         - name: 已付费 - 市场

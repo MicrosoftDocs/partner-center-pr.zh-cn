@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 24bd05fd5f860c0c7938a831f023740afd32c5b1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
+ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999451"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "91110665"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "90999451"
 
 | **类别** | **2020 年 9 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[合作伙伴中心见解 - 供你了解自己与 Microsoft 业务往来情况的独一报告资源。](2020-september.md#10)|9 月 23 日|
 |产品/市场|[宣布正式发布 Azure SQL Edge](2020-september.md#9)|9 月 22 日|
 |功能|[将于 2020 年 9 月 30 日发布对云解决方案提供商 O365 使用情况 API 和云解决方案提供商许可证使用情况报告的更改。](2020-september.md#8)|9 月 17 日|
 |功能|[间接经销商 MPA 更新。MPA API 用户需要执行的操作及新 MPA 报告](2020-september.md#7)|9 月 16 日|
