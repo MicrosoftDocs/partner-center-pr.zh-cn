@@ -1,7 +1,7 @@
 ---
-title: 奖励合作申请的核心要求
+title: 关于奖励的核心要求
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何挖掘合作伙伴的需求、获悉市场发展趋势，以及使合作伙伴为奖励计划中的活动做好充分准备。
@@ -9,14 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220665"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714311"
 ---
-# <a name="incentives-co-op-claims-core-requirements"></a>奖励合作申请的核心要求
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>关于奖励计划中的活动的核心要求
 
 **适用于**
 

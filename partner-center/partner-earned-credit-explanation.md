@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564688"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999861"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
@@ -44,7 +44,7 @@ ms.locfileid: "89564688"
 
 - 可赚取 PEC 的最低级别为 Azure 资源级别。 如果合作伙伴在订阅或资源组级别拥有有效的访问权限，则他们可以赚取该角色直到更高一级实体的资源的 PEC。  
 
-- [Azure 成本管理](https://go.microsoft.com/fwlink/?linkid=2106482)中也提供了 PEC 详细信息
+- [Azure 成本管理](/azure/cost-management-billing/costs/get-started-partners)中也提供了 PEC 详细信息
 
 ## <a name="azure-cost-management"></a>Azure 成本管理
 
@@ -78,4 +78,3 @@ ms.locfileid: "89564688"
 - [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
 
 - [撤销或恢复 Azure CSP 订阅的管理员权限](revoke-reinstate-csp.md)
-
