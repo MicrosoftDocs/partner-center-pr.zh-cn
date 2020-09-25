@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007391"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248895"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商业市场中获得付款
 
@@ -30,11 +30,11 @@ ms.locfileid: "91007391"
 
 ## <a name="payout-reporting"></a>付款报告
 
-可以在[合作伙伴中心](https://partner.microsoft.com/dashboard)的“付款摘要”中访问有关付款信息的详细信息以及下载报表。 有关此处显示的信息以及我们如何对你的收益资金进行分类的详细信息，请参阅[付款摘要概述](/azure/marketplace/payout-summary-overview)。
+可以在[合作伙伴中心](https://partner.microsoft.com/dashboard)的“付款摘要”中访问有关付款信息的详细信息以及下载报表。 若要详细了解此处显示的信息以及我们如何对所获得的资金进行分类，请参阅增加 [帐单](payout-statement.md)。
 
 ## <a name="payout-time-frame"></a>付款期限
 
-付款按月进行（前提是已满足适用的付款阈值，并且没有按如下所述暂停付款）。 我们通常会在给定月份的 15 日前发送该月应付的任何付款。 请注意，付款通常需要 3 到 10 个额外工作日才能到达你的付款帐户。 有关详细信息，请参阅[付款阈值、方法和期限](/azure/marketplace/payment-thresholds-methods-timeframes)。
+付款按月进行（前提是已满足适用的付款阈值，并且没有按如下所述暂停付款）。 我们通常会在给定月份的 15 日前发送该月应付的任何付款。 请注意，付款通常需要 3 到 10 个额外工作日才能到达你的付款帐户。 有关详细信息，请参阅[付款阈值、方法和期限](payment-thresholds-methods-timeframes.md)。
 
 ## <a name="payout-hold-status"></a>付款暂停状态
 

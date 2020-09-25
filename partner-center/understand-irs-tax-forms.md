@@ -5,19 +5,19 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.date: 09/24/2020
+ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007469"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248905"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
 
-根据你所在位置以及收到的销售额和/或付款金额，你每年可能会从 Microsoft 收到一份或多份税单。 Microsoft 需要发出这些表单并呈报美国国税局 (IRS)。
+你可能会收到来自 Microsoft 每年的一个或多个税务表格。 这取决于您所在的位置以及您收到的销售或付款的数量。 Microsoft 需要发出这些表单并呈报美国国税局 (IRS)。
 
-下面，我们将详细解释这些表单，包括谁将收到它们，以及何时提供。
+本文详细介绍了这些形式，包括谁将接收这些表单以及何时提供。
 
 ## <a name="types-of-tax-forms"></a>税单的类型
 
@@ -42,8 +42,8 @@ ms.locfileid: "91007469"
 
 | 业务组         | 法律实体          | 地址                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows、Office、Azure | Microsoft 爱尔兰的 microsoft 爱尔兰运营限制 (，由 microsoft corporation 通过 microsoft 爱尔兰担任 Microsoft Corporation 的合格中介)  | 一个 Microsoft 地方<br>南部 &nbsp; 县 &nbsp; 企业 &nbsp; 公园<br>Leopardstown，都柏林18爱尔兰|
-| 广告\*          | Microsoft 爱尔兰运营限制 (付款由 microsoft Online Inc. 进行，作为 Microsoft Online Inc. 的支出代理。 )  | 一个 Microsoft 地方<br>南部 &nbsp; 县 &nbsp; 企业 &nbsp; 公园<br>Leopardstown，都柏林18爱尔兰 |
+| Windows、Office、Azure | Microsoft 爱尔兰的 microsoft 爱尔兰运营限制 (，由 microsoft corporation 通过 microsoft 爱尔兰担任 Microsoft Corporation 的合格中介)  | 一个 Microsoft 地方<br>南部县企业公园<br>Leopardstown，都柏林18，D18 P521，爱尔兰|
+| 广告          | Microsoft 爱尔兰运营限制 (付款由 microsoft Online Inc. 进行，作为 Microsoft Online Inc. 的支出代理。 )  | 一个 Microsoft 地方<br>南部县& 企业公园<br>Leopardstown，都柏林18，D18 P521，爱尔兰 |
 | 广告            | Microsoft Online Inc。 | 6880 Sierra Center Parkway<br>Reno、NV 98511 USA |
 
 >[!NOTE]
@@ -51,81 +51,26 @@ ms.locfileid: "91007469"
 
 ## <a name="for-developers-located-in-the-united-states"></a>针对位于美国的开发人员
 
-<table>
-  <tr>
-     <th>如果我是销售付费应用的美国开发人员 </th>
-     <th> 我应该收到此表单</th>
-  </tr>
-  <tr> 
-     <td valign="top">在适用的纳税年度中，我<b>销售了 200 多个应用</b>，总购买金额<b>超过 20,000 美元</b>（<b>未</b>计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。</td>
-    <td valign="top"><b>1099-K</b>：<br>归档方：Microsoft Corporation<br>EIN： * * * * * * 4442<br><br><b>重要提示</b>：窗体 1099-K 包含 <b>总购买</b> 量，而不是支付给你的款项。</td>
-  </tr>
-  <tr> 
-     <td valign="top">(i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的<b>付款金额至少为 10 美元</b>。<br>
-<br>
-<b>或者</b><br>
-<br>
-在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) </td>
-    <td valign="top"><b>1099-MISC</b> :<br>付款方：Microsoft Corporation<br>EIN： * * * * * * 4442<br><br><b>重要说明</b>：无论从 Microsoft 收到的付款金额如何，某些业务实体都不会收到 1099-MISC 窗体。  有关详细信息，请咨询税务专业人士。</td>
-  </tr>
-  <tr>
-    <td valign="top">以上内容都不适用。</td>
-    <td valign="top">无</td>
-  </tr>
-  <tr>
-    <td valign="top">&nbsp;</td>
-    <td valign="top">&nbsp;</td>
-  </tr>
-  <tr>
-     <th>如果我是一个在应用程序中销售广告的美国开发人员 .。。 </th>
-     <th> 我应该收到此表单</th>
-  </tr>
-  <tr> 
-     <td valign="top">在适用的纳税年度中，我从应用内广告收到的付款金额<b>至少为 600 美元</b></td>
-    <td valign="top"><b>1099-MISC</b> :<br>付款方：Microsoft Online Inc<br>EIN： * * * * * * 0505<br><br><b>重要说明</b>：无论从 Microsoft 收到的付款金额如何，某些业务实体都不会收到 1099-MISC 窗体。  有关详细信息，请咨询税务专业人士。</td>
-  </tr>
-  <tr> 
-     <td valign="top">在适用的纳税年度中，我从应用内广告收到的付款金额<b>不足 600 美元</b></td>
-     <td valign="top">无</td>
-  </tr>
-</table>
+| 如果我是一个销售付费应用程序美国开发人员 .。。   | 我应该会收到以下形式： |
+|------------------------|-----------------------|
+| 在适用的纳税年度中，我**销售了 200 多个应用**，总购买金额**超过 20,000 美元**（**未**计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。| **1099-K：**<br/>归档方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 1099-K 表单包含**总购买**金额，而不是你收到的付款金额。| 
+| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的**付款金额至少为 10 美元**。<br/><br/>**OR**<br/><br/>在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) | **1099-杂项：**<br/>付款方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。| 
+| 以上内容都不适用。| 无 |
+| <br/><br/>**如果我是一个在应用程序中销售广告的美国开发人员 .。。** |<br/><br/>**我应该会收到以下形式：** |
+|在适用的税收年份，我收到的广告中的广告的 **费用至少为 $600** 。 | **1099-杂项：**<br/>付款方：Microsoft Online Inc<br/>EIN： \* \* \* \* \* 0505<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。 |
+| 对于应用中的广告，从适用的税务年份开始，收到的广告 **不到 $600** 。 | 无 |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>针对位于美国以外的开发人员
 
-<table>
-  <tr>
-    <td valign="top"><b>我收到了 Microsoft 的窗体 1042-S。它的作用是什么？</b></td>
-    <td valign="top">因为我们向你支付了应向美国税务机构申报并已预扣税的收入，所以 Microsoft 向你提供了一份或多份 1042-S 表单。  1042-S 表单用于这种申报要求。</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>我应该如何处理这些表单？</b></td>
-    <td valign="top">一般来说，你不需要采取具体的操作。 如果你想向当地税务机构申请任何形式的税收抵免，则 1042-S 表单可能对你很有用。  你可以咨询自己的税务顾问，了解有关此主题的更多信息。</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>我已经填写了 W8 表单，为什么我收到的付款中仍然预扣了税款？</b></td>
-    <td valign="top">如果以下情况之一，将会预扣税款：<br>
-     1. 未正确完成 W8 的税务条约部分，或<br>
-     2. 你所在国家/地区的国家/地区不具有美国的退税。<br><br>你可以随时访问合作伙伴中心以提交更新的 W8 表单。<br><br><b>注意</b>：并非所有收入都受预缴税金的限制。</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>我提交了包含有效条约信息的更新的 W8 表单。Microsoft 是否可以向我退款已预扣的税费？</b></td>
-    <td valign="top">一旦税款被代扣，就无法退还。 你可以咨询自己的税务顾问，讨论你是否可以针对这些税收申请当地减免，或者是否可以向 IRS 申请退款。</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>在 1042-S 表单中申报哪些销售？</b></td>
-    <td valign="top">只需申报与<b>位于美国且被归类为税款代扣对象的买家</b>进行的销售。  所有其他销售均视为无需申报。</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>为什么我在一个信封中收到了 3 份同样的 1042-S 表单？</b></td>
-    <td valign="top">IRS 法规要求提供三份表单：
-<ul>
-<li>一份用于收件人的记录</li>
-<li>一份用于呈报美国联邦报税表（如适用）</li>
-<li>一份用于呈报美国州报税表（如适用）</li>
-</ul></td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **我收到了 Microsoft 的窗体 1042-S。它的作用是什么？** | 因为我们向你支付了应向美国税务机构申报并已预扣税的收入，所以 Microsoft 向你提供了一份或多份 1042-S 表单。  1042-S 表单用于这种申报要求。 | 
+| **我应该如何处理这些表单？** | 一般来说，你不需要采取具体的操作。 如果你想向当地税务机构申请任何形式的税收抵免，则 1042-S 表单可能对你很有用。  请咨询自己的税务顾问，以获取有关本主题的详细信息。 | 
+| **我已经填写了 W8 表单，为什么我收到的付款中仍然预扣了税款？** | 如果以下情况之一，将会预扣税款：<ol><li>你没有正确填写 W8 的税务协定部分。</li><li>你居住的国家/地区没有与美国签署税务协定。</li></ol><br/>你可以随时访问合作伙伴中心以提交更新的 W8 表单。<br/><br/> **注意：** 并非所有收入都受预缴税金的限制。 | 
+| **我提交了包含有效条约信息的更新的 W8 表单。Microsoft 是否可以向我退款已预扣的税费？** | 一旦税款被代扣，就无法退还。 联系你的税务顾问，以讨论你是否可以声明这些税收的本地信用额度，或者是否可以从 IRS 获得退款。 | 
+| **在 1042-S 表单中申报哪些销售？** | 只需申报与**位于美国且被归类为税款代扣对象的买家**进行的销售。  所有其他销售均视为无需申报。 | 
+| **为什么在一个信封中获得了同一窗体1042的三个副本？** | IRS 法规要求提供三份表单：<ul><li>一份用于收件人的记录</li><li>一份用于呈报美国联邦报税表（如适用）</li><li>一份用于呈报美国州报税表（如适用）</li></ul> |
 
 > [!NOTE]
-> 如果你有其他问题或与 **IRS 纳税形式**相关的问题，请创建 [支持票证](https://developer.microsoft.com/windows/support)。 Microsoft 无法回答与你的具体税务情况相关的问题；对于这些问题，请向税务专业人士寻求建议。
+> 如果你有其他问题或与 **IRS 税务表格**相关的问题，请在合作伙伴中心仪表板中转到 " [帮助和支持](https://partner.microsoft.com/dashboard/support/) "。 Microsoft 无法回答与你的具体税务情况相关的问题；对于这些问题，请向税务专业人士寻求建议。
