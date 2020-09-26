@@ -8,12 +8,12 @@ description: 将合作伙伴中心的推荐与 Salesforce CRM 同步
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000591"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372812"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
@@ -36,6 +36,39 @@ ms.locfileid: "91000591"
 |合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM 用户角色是系统管理员或系统定制员|[在 Salesforce CRM 中分配角色](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Power 自动化 Flow 帐户|CRM 系统管理员或系统定制员的有效 [电源自动完成](https://flow.microsoft.com) 帐户。 在安装之前，该用户至少应登录到一次 [电源](https://flow.microsoft.com) 。|
+
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>为 Microsoft 自定义字段安装 Salesforce 包 
+
+若要跨合作伙伴中心和 Salesforce CRM 同步检索，自动解决解决方案需要清楚地识别 Microsoft 特定的引用字段。 此分界为合作伙伴卖方团队提供了决定他们要与 Microsoft 共享以共同销售的推荐的功能。
+
+1. 在 Salesforce 中，激活 **注释** 并将其添加到机会相关列表。 
+[引用](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+
+2. 按照以下步骤激活 **机会团队** ： 
+    - 在安装程序中，使用 " **快速查找** " 框定位机会团队设置。
+    - 根据需要定义设置。
+[引用](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+
+3. 在 Salesforce 中，使用下面的包安装程序安装自定义字段和对象。
+  
+请访问 [此处](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) ，将包安装到任何公司：
+
+
+注意：如果要安装到沙盒，则必须将 URL 的初始部分替换为 http://test.salesforce.com
+
+4. 在 Salesforce 中，将 Microsoft 解决方案添加到 **机会** 相关列表。 添加后，单击 **扳手** 图标并更新属性
+
+## <a name="best-practice-test-before-you-go-live"></a>最佳做法：在上线之前进行测试
+
+在生产环境中安装、配置和自定义电源自动解决方案之前，请确保在过渡 CRM 实例上测试解决方案。
+
+- 在过渡环境/CRM 实例上安装 Microsoft Power 自动解决方案解决方案。
+
+- 制作解决方案的副本，并在过渡环境中运行配置并对流自定义执行自动操作。
+
+- 在过渡/CRM 实例上测试解决方案。
+
+- 成功后，将作为托管解决方案导入到生产实例。
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>为 Salesforce CRM 安装合作伙伴中心引用同步
 
@@ -65,49 +98,56 @@ ms.locfileid: "91000591"
 
 10. **为 Salesforce 选择合作伙伴中心引用同步**。 可以使用以下功能自动执行流和实体：
 
-    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Salesforce 流":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce 流":::
 
-## <a name="best-practice-test-before-you-go-live"></a>最佳做法：在上线之前进行测试
 
-在生产环境中安装、配置和自定义电源自动解决方案之前，请确保在过渡 CRM 实例上测试解决方案。
-
-- 在过渡环境/CRM 实例上安装 Microsoft Power 自动解决方案解决方案。
-
-- 制作解决方案的副本，并在过渡环境中运行配置并对流自定义执行自动操作。
-
-- 在过渡/CRM 实例上测试解决方案。
-
-- 成功后，将作为托管解决方案导入到生产实例。
 
 ## <a name="configure-the-solution"></a>配置解决方案
 
 1. 在 CRM 实例中安装解决方案后，请导航回 " [电源自动](https://flow.microsoft.com/)"。
 
 2. 在右上角的 " **环境** " 下拉位置，选择安装了 Power 自动解决方案的 CRM 实例。
-
 3. 你将需要创建关联三个用户帐户的连接：
+    - 具有引用管理员凭据的合作伙伴中心用户
+    - 合作伙伴中心事件
+    - CRM 管理员，并在解决方案中自动执行流处理。
+4. 从左侧导航栏中选择 " **连接** "，然后从列表中选择 "合作伙伴中心引用" 解决方案。
 
-   - 具有引用管理员凭据的合作伙伴中心用户
-   - 合作伙伴中心事件
-   - CRM 管理员，并在解决方案中自动执行流处理。
+5. 通过单击 " **创建连接**" 创建连接。
 
-   1. 从左侧导航栏中选择 " **连接** "，然后从列表中选择 "合作伙伴中心引用" 解决方案。
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="创建连接":::
 
-   2. 通过单击 " **创建连接**" 创建连接。
+- 在右上角的搜索栏中搜索 "合作伙伴中心引用 (预览") 。
 
-       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="创建连接":::
+- 使用 "引用管理员" 凭据角色为合作伙伴中心用户创建连接。
 
-   3. 在右上角的搜索栏中搜索 " **合作伙伴中心引用 (预览") ** 。
+-  接下来，使用 "引用管理员" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
 
-   4. 使用 "引用管理员" 凭据角色为合作伙伴中心用户创建连接。
+- 为 CRM 管理员用户的 Common Data Service (当前环境) 创建连接。
 
-   5. 接下来，使用 "引用管理员" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
+-  添加所有连接后，你的环境中应会显示以下连接：
 
-   6. 为 CRM 管理员用户的 Common Data Service (当前环境) 创建连接。
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="观察连接":::
 
-4. 若要将电源自动流与连接进行关联，请编辑每个电源自动流，以连接到 Common Data Service 和合作伙伴中心引用。 保存更改。
+### <a name="edit-the-connections"></a>编辑连接
 
-5. **打开** "自动执行流" 功能。
+1. 返回 "解决方案" 页，选择 " **默认解决方案**"。  通过单击 "**全部**" ** (预览) 选择 "连接引用**"。
+ 
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="开始连接器编辑":::
+
+2. 通过选择三个点图标，逐个编辑每个连接。 添加相关连接。
+
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="编辑连接器":::
+
+3. 按以下顺序打开流：
+
+-  (内幕预览版) 合作伙伴中心 Webhook 注册
+- 创建向合作伙伴中心 (内幕预览版的共同销售推荐-Salesforce) 
+- 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
+- 合作伙伴中心到 Salesforce (预览体验) 
+- Salesforce 到合作伙伴中心 (预览体验) 
+- 合作机会到合作伙伴中心 (预览体验) 
+- Salesforce Microsoft 解决方案到合作伙伴中心 (预览体验) 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 注册资源更改事件
 
@@ -196,27 +236,6 @@ Webhook 现在可以侦听以创建和更新事件。
    3. 对于 "基于字段映射自定义 CRM 字段映射 (" 指南) 对于创建事件，请选择 " **创建 Microsoft 引用**"。
 
 您可以根据字段映射指南编辑此部分中的映射。
-
-## <a name="create-separate-section-in-salesforce-crm-opportunity-layout"></a>在 Salesforce CRM 机会布局中创建单独的部分
-
-若要跨合作伙伴中心和 Salesforce CRM 同步检索，自动解决解决方案需要明确界定特定于 Microsoft 的引用字段。 这使您的卖方团队能够确定他们要与 Microsoft 共享哪些推荐以共同销售。
-
-一组自定义字段作为 Salesforce CRM **商机** 实体的合作伙伴中心引用同步的一部分提供。 CRM 管理用户需要使用 **机会** 自定义字段创建一个单独的 CRM 部分。
-Salesforce CRM 管理员用户需要创建一个单独的 CRM 部分。
-
-以下自定义字段应为 CRM 部分的一部分：
-
-- **与合作伙伴中心同步**：是否要将此机会与 Microsoft 合作伙伴中心同步
-
-- **引用标识符**： Microsoft 合作伙伴中心引用的只读标识符字段
-
-- **引用链接**：指向 Microsoft 合作伙伴中心中的引用的只读链接
-
-- **Microsoft 如何帮助？** Microsoft 提供的有关引用的帮助
-
-- **产品**：与此机会关联的产品列表
-
-- **Audit**：用于与 Microsoft 合作伙伴中心引用同步的只读审核记录
 
 ### <a name="set-up-fields-and-relationships"></a>设置字段和关系
 
@@ -321,8 +340,6 @@ Salesforce CRM 管理员用户需要创建一个单独的 CRM 部分。
     6. 选择同步的引用时，将填充卡片视图详细信息。
 
 ## <a name="next-steps"></a>后续步骤
-
-- [有关 Microsoft Power 自动化平台的详细信息？](/-automate/)
 
 - [管理潜在客户](manage-leads.md)
 
