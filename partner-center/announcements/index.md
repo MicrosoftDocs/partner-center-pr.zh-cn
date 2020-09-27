@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
-ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
+ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "91110665"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206289"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "91110665"
 
 | **类别** | **2020 年 9 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[.NET Standard v1.16.2 上的SDK 版本](2020-september.md#11)|9 月 22 日|
 |功能|[合作伙伴中心见解 - 供你了解自己与 Microsoft 业务往来情况的独一报告资源。](2020-september.md#10)|9 月 23 日|
 |产品/市场|[宣布正式发布 Azure SQL Edge](2020-september.md#9)|9 月 22 日|
 |功能|[将于 2020 年 9 月 30 日发布对云解决方案提供商 O365 使用情况 API 和云解决方案提供商许可证使用情况报告的更改。](2020-september.md#8)|9 月 17 日|

@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: 基于许可证的计费
           href: license-based-billing.md
+        - name: 移动运营商结算
+          href: mobile-operator-billing.md
         - name: 基于许可证的 SaaS 订阅的方案
           href: common-billing-scenarios-saas.md
     - name: 市场计费和付款方案
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: 已付费 - 市场
           href: marketplace-get-paid.md
+        - name: 付款策略详细信息
+          href: payout-policy-details.md
+        - name: 付款阈值、方法和时间范围
+          href: payment-thresholds-methods-timeframes.md
+        - name: 付款对账单
+          href: payout-statement.md
+        - name: 市场付款常见问题解答
+          href: payout-faq.md
     - name: 查看数字签名 - 合作伙伴中心（印度）
       href: digital-signature.md
     - name: 税务和免税
