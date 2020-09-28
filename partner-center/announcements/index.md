@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206289"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372787"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "91206289"
 
 | **类别** | **2020 年 9 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[即将推出俄罗斯联邦法律 VAT 更改](2020-september.md#12)|9 月 25 日|
 |功能|[.NET Standard v1.16.2 上的SDK 版本](2020-september.md#11)|9 月 22 日|
 |功能|[合作伙伴中心见解 - 供你了解自己与 Microsoft 业务往来情况的独一报告资源。](2020-september.md#10)|9 月 23 日|
 |产品/市场|[宣布正式发布 Azure SQL Edge](2020-september.md#9)|9 月 22 日|
