@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372787"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422323"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "91372787"
 
 | **类别** | **2020 年 9 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[适合 Azure 计划的在合作伙伴之间过渡时使用的新的订阅过渡工具的可用性](2020-september.md#15)|9 月 28 日|
+|功能|[测试更新：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面改进功能](2020-september.md#14)|9 月 28 日|
+|功能|[更新 - CSP O365 使用情况 API 和 CSP 许可证使用情况报告](2020-september.md#13)|9 月 29 日|
 |功能|[即将推出俄罗斯联邦法律 VAT 更改](2020-september.md#12)|9 月 25 日|
 |功能|[.NET Standard v1.16.2 上的SDK 版本](2020-september.md#11)|9 月 22 日|
 |功能|[合作伙伴中心见解 - 供你了解自己与 Microsoft 业务往来情况的独一报告资源。](2020-september.md#10)|9 月 23 日|
