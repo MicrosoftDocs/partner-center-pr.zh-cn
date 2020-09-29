@@ -223,7 +223,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
    2. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 "示例机会" 部分。":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 示例机会 部分。":::
 
    3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 
@@ -231,7 +231,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
       - **Microsoft Help 如何？**：选择以下各项：
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 "示例机会" 部分，其中显示了一个名为 "Microsoft 如何帮助" 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 示例机会 部分，其中显示了一个名为 Microsoft 如何帮助 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
 
       - **产品**：产品的解决方案 id
 
