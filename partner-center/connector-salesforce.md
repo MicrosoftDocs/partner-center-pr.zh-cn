@@ -8,12 +8,12 @@ description: 将合作伙伴中心的推荐与 Salesforce CRM 同步
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372812"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422443"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
@@ -237,45 +237,6 @@ Webhook 现在可以侦听以创建和更新事件。
 
 您可以根据字段映射指南编辑此部分中的映射。
 
-### <a name="set-up-fields-and-relationships"></a>设置字段和关系
-
-1. 登录到 Salesforce 帐户，然后再进入 " **机会**"。
-
-2. 单击 " **设置** " 和 " **编辑对象** " 选项以添加所需的字段。
-
-3. 从左侧导航栏中选择**字段 & 关系**
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="Fields":::
-
-4. 将以下字段添加 **& 关系** 表中：
-
-   |**字段标签**   |**字段名称**|**Data type**|**作**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |审核| Audit__c|长文本区域 (100000) # B2 可见行 4) ||
-   |Microsoft 如何帮助？|How_can_Microsoft_help_c|列表|
-   |产品|Products_c|文本 (255) ||
-   |引荐 | Referral_Identfier_c|文本 (100) # B2 外部 ID) |是|
-   |引用链接| Referral_Link_c_|URL (255) ||
-   |与合作伙伴中心同步|sync_with_partner_center_c|复选框 (默认未选中) ||
-
-   * 选择列表值：
-
-   - 特定于工作负荷的价值主张
-   - 客户技术体系结构
-   - 概念证明或演示
-   - 报价单或许可
-   - 销售客户成功后
-   - 常规或其他
-
-5. 字段将在 **& 关系的字段**下创建
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="已创建字段":::
-
-6. 在 "机会布局" 中，创建一个单独的部分，其中包含上面列出的字段。
-
-   - 此部分应该适用于机会布局中的卖方
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="合作伙伴中心字段布局":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>端到端双向共同销售引用同步
 

@@ -1,5 +1,5 @@
 ---
-title: 共同销售引用连接器疑难解答
+title: 联合销售引荐连接器疑难解答
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: 有关如何排查共同销售连接器问题的常见问题解答�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002945"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422333"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>共同销售引用连接器疑难解答
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>联合销售引荐连接器疑难解答
 
 **适用对象：**
 
@@ -104,27 +104,28 @@ Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其�
 
 5. 如果共同销售的检索连接器的流不 (打开) ，你应该怎么办？
 
-    A. 在 "自动启动" 中，需要按以下顺序编辑流，并将其更新为使用各自的连接：
+A. 在 "自动启动" 中，需要按以下顺序编辑流，并将其更新为使用各自的连接：
 
-    -  (内幕预览版) 合作伙伴中心 Webhook 注册
-    - 创建向合作伙伴中心 (内幕预览版的共同销售推荐-Salesforce) 
-    - 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
-    - 合作伙伴中心到 Salesforce (预览体验) 
-    - Salesforce 到合作伙伴中心 (预览体验) 
-    - 合作机会到合作伙伴中心 (预览体验) 
-    - Salesforce Microsoft 解决方案到合作伙伴中心 (预览体验) 
+-  (内幕预览版) 合作伙伴中心 Webhook 注册
+- 创建向合作伙伴中心 (内幕预览版的共同销售推荐-Salesforce) 
+- 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
+- 合作伙伴中心到 Salesforce (预览体验) 
+- Salesforce 到合作伙伴中心 (预览体验) 
+- 合作机会到合作伙伴中心 (预览体验) 
+- Salesforce Microsoft 解决方案到合作伙伴中心 (预览体验) 
 
-    B. 对于每个 flow，选择 " **仅运行用户** " 选项。 选择 " **使用连接** ，而不是 **由仅运行用户提供**"。  
+ B. 对于每个 flow，选择 " **仅运行用户** " 选项。 选择 " **使用连接** ，而不是 **由仅运行用户提供**"。  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="激活流":::
 
+
 C. 激活以下所述的流：
 
-- 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
+ - 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
 
 - Salesforce 到合作伙伴中心 (预览体验) 
 
-
+    
 D. 激活所有剩余流。
 
 E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合作伙伴中心的第一个操作**到 Salesforce**流的**http url** 。 选择 **要注册的事件** 下的所有四个选项，然后选择 **"是"** 进行覆盖。
