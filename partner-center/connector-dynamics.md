@@ -223,7 +223,7 @@ ms.locfileid: "91000491"
 
    2. <span data-ttu-id="bce83-261">在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在</span><span class="sxs-lookup"><span data-stu-id="bce83-261">Ensure that the following section is present when you create a “New Opportunity” in Dynamics 365 environment</span></span>
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 "示例机会" 部分。":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 示例机会 部分。":::
 
    3. <span data-ttu-id="bce83-263">若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：</span><span class="sxs-lookup"><span data-stu-id="bce83-263">To synchronize this opportunity with Microsoft Partner Center, ensure that you set the following fields in the card view:</span></span>
 
@@ -231,7 +231,7 @@ ms.locfileid: "91000491"
 
       - <span data-ttu-id="bce83-265">**Microsoft Help 如何？**：选择以下各项：</span><span class="sxs-lookup"><span data-stu-id="bce83-265">**How can Microsoft help?**: Select from the following:</span></span>
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 "示例机会" 部分，其中显示了一个名为 "Microsoft 如何帮助" 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 示例机会 部分，其中显示了一个名为 Microsoft 如何帮助 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
 
       - <span data-ttu-id="bce83-267">**产品**：产品的解决方案 id</span><span class="sxs-lookup"><span data-stu-id="bce83-267">**Products**: Solution IDs of the product</span></span>
 
