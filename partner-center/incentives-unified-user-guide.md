@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 了解如何访问适用于独立软件供应商的 Windows 应用和游戏、MPN 激励和商业 Marketplace 支付的费用信息。
+description: 了解如何访问适用于独立软件供应商的 Windows 应用和游戏、MPN 激励和商业 marketplace 支付的费用信息。
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 28ad3a9eef770793c1412623aba2bd1d1972c8aa
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999881"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591068"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>访问 Windows 应用和游戏的付款页面、MPN 激励和商业市场支付
 
@@ -35,4 +35,4 @@ ms.locfileid: "90999881"
 
 ## <a name="next-steps"></a>后续步骤
 
-- 有关适用于独立软件供应商的商业 Marketplace 支付 (Isv) 的信息，请参阅 [商业市场费用摘要](/azure/marketplace/partner-center-portal/payout-summary)。
+- 有关适用于独立软件供应商的商业 marketplace 支付 (Isv) 的信息，请参阅 [支出报表](payout-statement.md)。

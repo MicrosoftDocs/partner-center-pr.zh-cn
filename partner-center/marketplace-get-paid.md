@@ -1,49 +1,52 @@
 ---
-title: 在 Microsoft 商业市场中获得付款
-description: 了解如何在 Microsoft 商业市场中获得收益付款。
+title: 在商业市场中获得付款
+description: 了解如何在商业市场-Azure Marketplace 中接收收入支付。
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 06/09/2020
+ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248895"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591069"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商业市场中获得付款
 
-下面是有关针对产品/服务、附加产品和广告收益获得付款的重要信息。
+本文包含有关接收产品/服务、外接程序和广告收入的付款的重要信息。 它汇总了费用策略、获得付费之前所需的步骤以及对帐单概述。
 
-> [!IMPORTANT]
-> 需要先[设置付款帐户，并填写所需纳税表单](/azure/marketplace/marketplace-payout-account-setup)，然后你才能在商业市场中通过产品/服务销售获得资金。
+## <a name="commercial-marketplace-payout-policies-and-agreements"></a>商业市场支出政策和协议
 
-## <a name="store-fee"></a>应用商店费用
+付费要求遵守协议和支出政策。
 
-[注册开发人员帐户](https://go.microsoft.com/fwlink/p/?LinkID=615100)时，你会接受 [Microsoft Azure 市场发行者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)。 本协议说明你与 Microsoft 之间的关系，因为它与在商业市场中销售产品/服务有关，其中包括 Microsoft 对进行的每次销售所收取的应用商店费用。
+- [Microsoft Azure 市场发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)：获得付费之前，必须接受此发布者协议。 本协议介绍你与 Microsoft 之间的关系，因为它与商业应用商店中的卖方产品/服务有关，其中包括 Microsoft 对每个销售所收取的存储费用。
+- [支出策略](payout-policy-details.md) 显示包括支付计划和付款方式的费用支付政策。 策略还介绍了客户非付款过程。
+- [税收详细](tax-details-marketplace.md) 说明了在 Microsoft [发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)下价格选择和税务责任的税务注意事项。
+- **商店费用** 在发布者协议中正式定义。 商店费用适用于由商业应用商店收集的所有产品/服务（包括外接程序）。
+- 每月支付一次**支付** (前提是已满足支付阈值) 。 我们通常会在该月的第15天的给定月份内发送任何付款。 支付费用通常需要3到10个额外的工作日内才能联系到你的帐户。 有关详细信息，请参阅[付款阈值、方法和期限](payment-thresholds-methods-timeframes.md)。
 
-费用在 [Microsoft Azure 市场发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)中进行正式定义。 如果有任何问题，可始终查看该文档。
+## <a name="prerequisite-steps-before-getting-paid"></a>获得付费之前的先决条件步骤
 
-应用商店费用适用于由商业市场收集的所有产品/服务销售（包括附加产品）。
+在第一次获得付费之前，必须设置您的费用科目并完成必需的银行和税务表。 在银行和税务窗体中，你将为预缴税金提供首选支付方法和税务形式。 必须填写银行和税务表格才能支付费用。 有关详细信息，请参阅 [设置你的帐户和税务表](set-up-your-payout-account.md)。
 
-## <a name="payout-reporting"></a>付款报告
+### <a name="payout-hold-status"></a>付款暂停状态
 
-可以在[合作伙伴中心](https://partner.microsoft.com/dashboard)的“付款摘要”中访问有关付款信息的详细信息以及下载报表。 若要详细了解此处显示的信息以及我们如何对所获得的资金进行分类，请参阅增加 [帐单](payout-statement.md)。
+默认情况下，我们将按如上所述按月发送付款。 不过，你可以选择将你的付款放在某个程序上，并且 Microsoft 不会向你的帐户发放你的付款。 如果选择将付款置于保持状态，我们将继续在 **付款** 页中记录任何收入。 但是，在删除暂停状态之前，我们不会向你的帐户发送任何付款。
 
-## <a name="payout-time-frame"></a>付款期限
+若要暂停付款，请转到“帐户设置”。 在“付款和税务”下的“付款和税务配置文件分配”部分中，找到要对其暂停付款的计划。 选中 " **保持我的付款** " 复选框，以保留此计划的付款。 你可以随时更改你的支出保留状态，但你的决定会影响下一次的月额度。 例如，如果要暂停四月付款，请确保在三月底之前将付款暂停状态设置为“打开”。
 
-付款按月进行（前提是已满足适用的付款阈值，并且没有按如下所述暂停付款）。 我们通常会在给定月份的 15 日前发送该月应付的任何付款。 请注意，付款通常需要 3 到 10 个额外工作日才能到达你的付款帐户。 有关详细信息，请参阅[付款阈值、方法和期限](payment-thresholds-methods-timeframes.md)。
+将 "支出保留" 状态设置为 **"打开**" 后，该程序的所有付款都将处于暂停状态，直到清除此复选**框。** 当你执行此操作时，你将在下一个每月费用周期内包含 (前提是已满足支付阈值) 。 如果你已有付款，但想要在6月生成付出的比率，请在 "可能" **结束之前清除** 复选框。
 
-## <a name="payout-hold-status"></a>付款暂停状态
+>[!Note]
+> 付出的支出状态适用于每个节目，分别 (Microsoft Store、广告、Azure Marketplace 等) 上。 如果要对所有程序进行支付，请分别在每个节目上保存付款。
 
-默认情况下，我们将按如上所述按月发送付款。 但是，可以选择暂停每个计划的付款，这将阻止我们向你的帐户发送付款。 如果选择暂停付款，我们将继续记录你所获得的任何收入，并提供“付款摘要”中的详细信息。 但是，在删除暂停状态之前，我们不会向你的帐户发送任何付款。
+## <a name="payout-statements"></a>支出声明
 
-若要暂停付款，请转到“开发人员设置”。 在“付款和税务”下的“付款和税务配置文件分配”部分中，找到要对其暂停付款的计划。 单击“暂停我的付款”复选框以暂停此计划的付款。 可以随时更改付款暂停状态，但请注意，你的决策将影响下一次每月付款。 例如，如果要暂停四月付款，请确保在三月底之前将付款暂停状态设置为“打开”。
+支出报表显示你在交易历史记录中的产品/服务和外接程序的销售收入。 你还可以查看付款详细信息，并以 tsv 或 csv 格式下载报表。 若 [要详细](payout-statement.md) 了解如何访问支出报表和交易记录和付款报表的详细信息，请参阅费用报表。 此外，还可以使用 [合作伙伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts) 来系统地拉取支出报表。
 
-将付款暂停状态设置为“打开”后，此计划的所有付款都将处于暂停状态，直到将滑块切换回“关闭” 。 执行此操作时，将在下一次每月付款周期中生效（前提是已满足任何适用的付款阈值）。 例如，如果已暂停付款，但想要在六月生成付款，请确保在五月底之前将付款暂停状态切换为“关闭”。
+## <a name="next-steps"></a>后续步骤
 
-> [!NOTE]
-> “付款暂停状态”会分别应用于每个计划（Microsoft Store、广告、Azure 市场等）。 如果希望对所有计划暂停付款，则必须分别对每个计划暂停付款。
-
+- [合作伙伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts)
+- [市场付款常见问题解答](payout-faq.md)
