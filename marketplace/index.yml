@@ -1,0 +1,24 @@
+### YamlMime:Landing
+title: 欢迎查看 Microsoft 市场客户文档
+summary: 了解如何在我们的线上商店中查找和购买 Microsoft 合作伙伴提供的解决方案、应用程序和服务。
+metadata:
+  title: 欢迎查看 Microsoft 市场客户文档
+  description: 了解如何在我们的线上商店中查找和购买 Microsoft 合作伙伴提供的解决方案、应用程序和服务。
+  ms.service: marketplace
+  ms.topic: landing-page
+  author: dsindona
+  ms.author: dsindona
+  ms.date: 09/18/2020
+  ms.openlocfilehash: 5b460081359f1997eb433a69631708d7e116ce38
+  ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+  ms.translationtype: HT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 09/19/2020
+  ms.locfileid: "91429234"
+landingContent:
+- title: Azure 专用市场（预览版）
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: 创建和管理 Azure 专用市场
+      url: create-manage-private-azure-marketplace.md
