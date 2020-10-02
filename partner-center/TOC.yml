@@ -71,9 +71,7 @@
             - name: 资格要求
               href: software-assurance-dps-requirements.md
     - name: 发票和税款
-      items:
-        - name: MPN 中的发票和税款
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: 试用新功能
       href: test-drive-new-features.md
 - name: 云解决方案提供商 (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: 基于许可证的 SaaS 订阅的方案
           href: common-billing-scenarios-saas.md
-    - name: 市场计费和付款方案
-      items:
-        - name: 市场产品/服务计费
-          href: csp-commercial-marketplace-billing.md
-        - name: 已付费 - 市场
-          href: marketplace-get-paid.md
-        - name: 付款策略详细信息
-          href: payout-policy-details.md
-        - name: 付款阈值、方法和时间范围
-          href: payment-thresholds-methods-timeframes.md
-        - name: 付款对账单
-          href: payout-statement.md
-        - name: 市场付款常见问题解答
-          href: payout-faq.md
+    - name: 市场产品/服务计费
+      href: csp-commercial-marketplace-billing.md
     - name: 查看数字签名 - 合作伙伴中心（印度）
       href: digital-signature.md
     - name: 税务和免税
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: 为客户设置 Azure 费用预算
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: 收取付款
+  items:
     - name: 管理拒不付款、欺诈或滥用
       href: non-payment-fraud-misuse.md
     - name: 管理未分配付款
       href: unallocated-payment.md
+    - name: 商业市场付款
+      items:
+        - name: 已付费 - 市场
+          href: marketplace-get-paid.md
+        - name: 付款策略详细信息
+          href: payout-policy-details.md
+        - name: 付款阈值、方法和时间范围
+          href: payment-thresholds-methods-timeframes.md
+        - name: 付款对账单
+          href: payout-statement.md
+        - name: 支出常见问题解答
+          href: payout-faq.md
 - name: 与客户联系
   href: customer-accounts.md
   items:
