@@ -5,13 +5,13 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 09/24/2020
-ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/30/2020
+ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248905"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663908"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
 
@@ -63,14 +63,15 @@ ms.locfileid: "91248905"
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>针对位于美国以外的开发人员
 
+
 | | |
 |---|---|
 | **我收到了 Microsoft 的窗体 1042-S。它的作用是什么？** | 因为我们向你支付了应向美国税务机构申报并已预扣税的收入，所以 Microsoft 向你提供了一份或多份 1042-S 表单。  1042-S 表单用于这种申报要求。 | 
 | **我应该如何处理这些表单？** | 一般来说，你不需要采取具体的操作。 如果你想向当地税务机构申请任何形式的税收抵免，则 1042-S 表单可能对你很有用。  请咨询自己的税务顾问，以获取有关本主题的详细信息。 | 
-| **我已经填写了 W8 表单，为什么我收到的付款中仍然预扣了税款？** | 如果以下情况之一，将会预扣税款：<ol><li>你没有正确填写 W8 的税务协定部分。</li><li>你居住的国家/地区没有与美国签署税务协定。</li></ol><br/>你可以随时访问合作伙伴中心以提交更新的 W8 表单。<br/><br/> **注意：** 并非所有收入都受预缴税金的限制。 | 
+| **我已经填写了 W8 表单，为什么我收到的付款中仍然预扣了税款？** | 如果以下情况之一，将会预扣税款：<br/><br/>1. 未正确完成 W8 的税务条约部分，或 <br/>2. 你所在的国家/地区不具有美国的退税。<br/><br/>你可以随时访问合作伙伴中心以提交更新的 W8 表单。<br/><br/> **注意：** 并非所有收入都受预缴税金的限制。 | 
 | **我提交了包含有效条约信息的更新的 W8 表单。Microsoft 是否可以向我退款已预扣的税费？** | 一旦税款被代扣，就无法退还。 联系你的税务顾问，以讨论你是否可以声明这些税收的本地信用额度，或者是否可以从 IRS 获得退款。 | 
 | **在 1042-S 表单中申报哪些销售？** | 只需申报与**位于美国且被归类为税款代扣对象的买家**进行的销售。  所有其他销售均视为无需申报。 | 
-| **为什么在一个信封中获得了同一窗体1042的三个副本？** | IRS 法规要求提供三份表单：<ul><li>一份用于收件人的记录</li><li>一份用于呈报美国联邦报税表（如适用）</li><li>一份用于呈报美国州报税表（如适用）</li></ul> |
+| **为什么在一个信封中获得了同一窗体1042的三个副本？** | IRS 法规要求提供三份表单：<br/><br/>-一个用于接收方记录<br/>-一种用于美国联邦税务返还 (（如果适用）) <br/>-一种用于美国州税务返还 (（如果适用）)  |
 
 > [!NOTE]
 > 如果你有其他问题或与 **IRS 税务表格**相关的问题，请在合作伙伴中心仪表板中转到 " [帮助和支持](https://partner.microsoft.com/dashboard/support/) "。 Microsoft 无法回答与你的具体税务情况相关的问题；对于这些问题，请向税务专业人士寻求建议。

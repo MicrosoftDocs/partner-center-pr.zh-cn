@@ -1,7 +1,7 @@
 ---
 title: 管理激励合作声明
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何从合作伙伴中心启动奖励合作声明。 你可以在“历史记录”中查看构建申请所涉及的所有活动。
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1af4620d040931ebbc263339fbfe37c1f26d0123
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714131"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663788"
 ---
 # <a name="create-and-manage-an-incentives-co-op-claim"></a>创建和管理激励合作声明
 
@@ -32,13 +32,15 @@ ms.locfileid: "90714131"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 选择 " **激励** " 选项卡，然后选择 " **声明**"。
+2. 选择 " **激励** " 选项卡，然后选择 " **计划管理**"。
 
-3. 如果已有正在进行的申请，则“申请概述”页面会显示有关现有申请的状态以及已批准资金、已申请资金和总额的信息。
+3. 选择 " **合作管理**"。
 
-4. 若要创建新声明，请选择 " **创建声明**"。
+4. 如果已有正在进行的申请，则“申请概述”页面会显示有关现有申请的状态以及已批准资金、已申请资金和总额的信息。
 
-5. 填写初始窗体并选择 " **创建声明**" 后，会转到 "声明详细信息" 页，您可以在其中添加发票、CSR、证明文档和指标。 如果需要，还可以添加其他信息。
+5. 若要创建新声明，请选择 " **创建声明**"。
+
+6. 填写初始窗体并选择 " **创建声明**" 后，会转到 "声明详细信息" 页，您可以在其中添加发票、CSR、证明文档和指标。 如果需要，还可以添加其他信息。
 
 可以通过“声明详细信息”页请求组织中的其他人将文档上传到窗体。 对于上传的每个支持文档，可以提供详细信息进行说明。 
 
@@ -48,7 +50,7 @@ ms.locfileid: "90714131"
 
 除非审核人员请求提供其他信息，否则你在提交申请后无法对其进行编辑。
 
-有关详细信息，请参阅[合作伙伴奖励合作指南](https://assets.microsoft.com/coop-guidebook.pdf)
+有关详细信息，请参阅 [合作伙伴奖励合作 Guidebook](https://assetsprod.microsoft.com/co-op-guidebook.pdf)。
 
 ## <a name="next-steps"></a>后续步骤
 

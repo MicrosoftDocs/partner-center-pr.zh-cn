@@ -1,17 +1,17 @@
 ---
-title: 合作伙伴中心注册中增值 (增值税) 信息
+title: 合作伙伴中心注册中的增值税 (VAT) 信息
 description: 如果需要在合作伙伴中心注册过程中提供 VAT ID 号，此信息可帮助你入门。
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: 7e4f6778d14166dfe30a608d06dc75d953442c70
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026434"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663878"
 ---
 # <a name="vat-info"></a>VAT 信息
 
@@ -30,222 +30,36 @@ ms.locfileid: "90026434"
 
 请注意，Microsoft 不提供税务建议，下表仅作为指导提供。 如果本指南不足以向 Microsoft 提供 VAT 号，则应咨询当地的税务主管机构以获取最新更改。
 
-<table Responsive="true">
-<tr><th>国家/地区</th><th>VAT 信息</th></tr>
-<tr><td data-th="Country/region">奥地利
-</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：1 个字母和 8 个数字</li>
-<li>国家/地区代码：AT</li>
-<li>示例：U12345678</li>
-<li>注意：第一个字符将始终为“U”
-</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">比利时</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：10 个数字</li>
-<li>国家/地区代码：BE</li>
-<li>示例：1234567890</li>
-<li>注意：2007 年 1 月 1 日之前的 9 个数字</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">保加利亚</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个或 10 个数字</li>
-<li>国家/地区代码：BG</li>
-<li>示例：123456789 或 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">克罗地亚</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：2 个字母和 11 个数字</li>
-<li>国家/地区代码：HR</li>
-<li>示例：HR12345678901</li>
-<li>注意：开头的字符将始终为“HR”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">塞浦路斯</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：2 个字母和 8 个数字和 1 个字母</li>
-<li>国家/地区代码：CY</li>
-<li>示例：12345678、123456789 或 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">捷克</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：8 个、9 个或 10 个数字</li>
-<li>国家/地区代码：CZ</li>
-<li>示例：12345678、123456789 或 0123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">丹麦</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：8 个数字</li>
-<li>国家/地区代码：DK</li>
-<li>示例：12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">爱沙尼亚</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个数字</li>
-<li>国家/地区代码：EE</li>
-<li>示例：123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">芬兰</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：数字</li>
-<li>国家/地区代码：FI</li>
-<li>示例：12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">法国</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：11 个数字</li>
-<li>国家/地区代码：FR</li>
-<li>示例：12345678901、X1234567890、1X123456789 或 XX123456789</li>
-<li>注意：除了 I 或 Q 作为第一个字符或第二个字符，或者作为第一个字符和第二个字符之外，可以包含任何字母字符，之后跟随 9 个数字。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">德国</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个数字</li>
-<li>国家/地区代码：DE</li>
-<li>示例：123456789</li>
-<li>注意：必须是 9 位“Umsatzsteur Identifikationnummer”(Ust ID Nr.)</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">希腊</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个数字</li>
-<li>国家/地区代码：EL、GR</li>
-<li>示例：123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">匈牙利</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：8 个数字</li>
-<li>国家/地区代码：HU</li>
-<li>示例：12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">爱尔兰</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：8 个数字</li>
-<li>国家/地区代码：IE</li>
-<li>示例：1234567X 或 1X34567X</li>
-<li>注意：包含 1 个或 2 个字母字符：最后一个或第二个和最后一个</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">意大利</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：11 个数字</li>
-<li>国家/地区代码：IT</li>
-<li>示例：12345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">拉脱维亚</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：11 个数字</li>
-<li>国家/地区代码：LV</li>
-<li>示例：01234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">立陶宛</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个或 12 个数字</li>
-<li>国家/地区代码：LT</li>
-<li>示例：123456789 或 012345678901</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">卢森堡</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：8 个数字</li>
-<li>国家/地区代码：LU</li>
-<li>示例：12345678</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">马耳他</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：2 个字母和 8 个数字</li>
-<li>国家/地区代码：MT</li>
-<li>示例：MT12345678</li>
-<li>注意：开头的字符将始终为“MT”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">荷兰</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：11 个数字和 1 个字母</li>
-<li>国家/地区代码：NL</li>
-<li>示例：123456789B01</li>
-<li>注意：第 10 个字符始终为“B”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">波兰</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：10 个数字</li>
-<li>国家/地区代码：PL</li>
-<li>示例：1234567890</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">葡萄牙</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个数字</li>
-<li>国家/地区代码：PT</li>
-<li>示例：123456789</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">罗马尼亚</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：2 个字母和 8-10 个数字</li>
-<li>国家/地区代码：RO</li>
-<li>示例：RO12345678、RO123456789 或 RO1234567890</li>
-<li>注意：开头的字符将始终为“RO”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">斯洛伐克</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：10 个数字</li>
-<li>国家/地区代码：SK</li>
-<li>示例：1234567890</li>
-<li>注意：开头的字符将始终为“SI”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">斯洛文尼亚</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：2 个字母和 8 个数字</li>
-<li>国家/地区代码：SI</li>
-<li>示例：SI12345678</li>
-<li>注意：开头的字符将始终为“SI”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">西班牙</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个数字</li>
-<li>国家/地区代码：ES</li>
-<li>示例：X12345678、12345678X 或 X1234567X</li>
-<li>注意：包含 1 个或 2 个字母：第一个、最后一个或第一个和最后一个。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">瑞典</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：12 个数字</li>
-<li>国家/地区代码：SE</li>
-<li>示例：123456789001</li>
-<li>注意：最后两个字符必须为“01”。</li>
-</ul>
-</td></tr>
-<tr><td data-th="Country/region">英国</td><td data-th="VAT info">
-<ul>
-<li>VAT 号码格式：9 个或 12 个数字</li>
-<li>国家/地区代码：GB</li>
-<li>示例：123456789 或 123456789001</li>
-<li>注意：通常为 9 个数字，但如果该数字表示某个组织的子公司，则为 12 个数字。</li>
-</ul>
-</td></tr>
-</table>
-
+|国家/地区 | VAT 信息 |
+|:------------|:----------|
+|奥地利  |-VAT 数字格式：1个字母和8个数字<br/>-国家/地区代码：<br/>-示例： U12345678<br/>-注意：第一个字符将始终为 "U"。 |
+|比利时  |-VAT 数字格式：10位数字<br/>-国家/地区代码：<br/>-例如：1234567890<br/>-注意：2007年1月1日之前的9位数字。 |
+| 保加利亚  |-VAT 数字格式：9或10位数字<br/>-国家/地区代码： BG<br/>-例如：123456789或0123456789 |
+| 克罗地亚 |-VAT 数字格式：2个字母和11个数字<br/>-国家/地区代码： HR<br/>-示例： HR12345678901<br/>-注意：首个字符将始终为 "HR"。 |
+|塞浦路斯 |-VAT 数字格式：2个字母、8个数字和1个字母<br/>-国家/地区代码： CY<br/>-例如：12345678、123456789或0123456789 |
+|捷克 |-VAT 数字格式：8、9或10位数字<br/>-国家/地区代码： CZ<br/>-例如：12345678、123456789或0123456789 |
+| 丹麦 |-VAT 数字格式：8位<br/>-国家/地区代码：深色<br/>-例如：12345678<br/> |
+|爱沙尼亚 |-VAT 数字格式：9位数<br/>-国家/地区代码： EE<br/>-例如：123456789<br/> |
+|芬兰 |-VAT 数字格式：数字<br/>-国家/地区代码： FI<br/>-例如：12345678 |
+|法国 |-VAT 数字格式：11位数<br/>-国家/地区代码： FR<br/>-例如：12345678901、X1234567890、1X123456789 或 XX123456789<br/>-注意：可包含除 I 或 Q 之外的任何字母字符作为第一个或第二个字符，或包含第一个和第二个字符，后跟9位数。 |
+|德国 |-VAT 数字格式：9位数<br/>-国家/地区代码： DE<br/>-例如：123456789<br/>-注意：必须是9位数的 "Umsatzsteur Identifikationnummer" (Ust ID Nr。 )  |
+|希腊 |-VAT 数字格式：9位数<br/>-国家/地区代码： EL、GR<br/>-例如：123456789 |
+|匈牙利 |-VAT 数字格式：8位<br/>-国家/地区代码： HU<br/>-例如：12345678 |
+|爱尔兰 |-VAT 数字格式：8位<br/>-国家/地区代码： IE<br/>-示例：1234567X 或1X34567X<br/>-注意：包含1个或2个字母字符：最后一个或第二个或最后一个。 |
+|意大利 |-VAT 数字格式：11位数<br/>-国家/地区代码：<br/>-例如：12345678901 |
+|拉脱维亚 |-VAT 数字格式：11位数<br/>-国家/地区代码： LV<br/>-例如：01234567890 |
+|立陶宛 |-VAT 数字格式：9或12位数字<br/>-国家/地区代码： LT<br/>-例如：123456789或012345678901 |
+|卢森堡 |-VAT 数字格式：8位<br/>-国家/地区代码： LU<br/>-例如：12345678 |
+|马耳他 |-VAT 数字格式：2个字母和8个数字<br/>-国家/地区代码： MT</br>-示例： MT12345678<br/>-注意：首个字符将始终为 "MT"。 |
+|荷兰 |-VAT 数字格式：11位和1号<br/>-国家/地区代码： NL<br/>-示例：123456789B01<br/>-注意：第10个字符始终为 "B"。 |
+|波兰 |-VAT 数字格式：10位数字<br/>-国家/地区代码： PL<br/>-例如：1234567890 |
+|葡萄牙 |-VAT 数字格式：9位数<br/>-国家/地区代码： PT<br/>-例如：123456789 |
+|罗马尼亚 |-VAT 数字格式：2个字母和8-10 位数<br/>-国家/地区代码： RO<br/>-示例： RO12345678、RO123456789 或 RO1234567890<br/>-注意：首个字符将始终为 "RO" |
+|斯洛伐克 |-VAT 数字格式：10位数字<br/>-国家/地区代码： SK<br/>-例如：1234567890<br/>-注意：首个字符将始终为 "SI"。 |
+|斯洛文尼亚 |-VAT 数字格式：2个字母和8个数字<br/>-国家/地区代码： SI<br/>-示例： SI12345678<br/>-注意：首个字符将始终为 "SI"。 |
+|西班牙 |-VAT 数字格式：9位数<br/>-国家/地区代码： ES<br/>-示例： X12345678、12345678X 或 X1234567X<br/>-注意：包含1或2个字母： first、last 或 first 和 last。 |
+|瑞典 |-VAT 数字格式：12位数<br/>-国家/地区代码： SE<br/>-例如：123456789001<br/>-注意：最后两个字符必须是 "01"。 |
+|英国 |-VAT 数字格式：9或12位数字<br/>-国家/地区代码： GB<br/>-例如：123456789或123456789001<br/>-注意：通常为9位数字，但如果数字表示组内的子公司，则为12位数。 |
 ## <a name="next-steps"></a>后续步骤
 
 - [公司税务信息以及如何为合作伙伴中心购买添加或提交 VAT Id](organization-tax-info.md)
