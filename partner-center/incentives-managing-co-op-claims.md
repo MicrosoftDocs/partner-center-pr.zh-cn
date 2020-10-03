@@ -7,72 +7,74 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714421"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663868"
 ---
-# <a name="manage-incentives-co-op-claims"></a><span data-ttu-id="bf0a3-103">管理激励合作声明</span><span class="sxs-lookup"><span data-stu-id="bf0a3-103">Manage incentives co-op claims</span></span>
+# <a name="manage-incentives-co-op-claims"></a><span data-ttu-id="32bcb-103">管理激励合作声明</span><span class="sxs-lookup"><span data-stu-id="32bcb-103">Manage incentives co-op claims</span></span>
 
-<span data-ttu-id="bf0a3-104">**适用对象：**</span><span class="sxs-lookup"><span data-stu-id="bf0a3-104">**Applies to:**</span></span>
+<span data-ttu-id="32bcb-104">**适用对象：**</span><span class="sxs-lookup"><span data-stu-id="32bcb-104">**Applies to:**</span></span>
 
-- <span data-ttu-id="bf0a3-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="bf0a3-105">Partner Center</span></span>
+- <span data-ttu-id="32bcb-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="32bcb-105">Partner Center</span></span>
 
-<span data-ttu-id="bf0a3-106">**相应的角色：**</span><span class="sxs-lookup"><span data-stu-id="bf0a3-106">**Appropriate roles:**</span></span>
+<span data-ttu-id="32bcb-106">**相应的角色：**</span><span class="sxs-lookup"><span data-stu-id="32bcb-106">**Appropriate roles:**</span></span>
 
-- <span data-ttu-id="bf0a3-107">奖励管理员</span><span class="sxs-lookup"><span data-stu-id="bf0a3-107">Incentives admin</span></span>
+- <span data-ttu-id="32bcb-107">奖励管理员</span><span class="sxs-lookup"><span data-stu-id="32bcb-107">Incentives admin</span></span>
 
-<span data-ttu-id="bf0a3-108">以下内容提供了管理合作声明的信息，包括时间线和规则，以及如何对拒绝的合作声明进行争议。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-108">The following content gives you information to manage co-op claims, including timelines, rules, and how to dispute a rejected co-op claim.</span></span>
+<span data-ttu-id="32bcb-108">以下内容提供了管理合作声明的信息，包括时间线和规则，以及如何对拒绝的合作声明进行争议。</span><span class="sxs-lookup"><span data-stu-id="32bcb-108">The following content gives you information to manage co-op claims, including timelines, rules, and how to dispute a rejected co-op claim.</span></span>
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a><span data-ttu-id="bf0a3-109">合作申请批准和付款的截止时间</span><span class="sxs-lookup"><span data-stu-id="bf0a3-109">Co-op claims approval and payment deadlines</span></span>
+## <a name="co-op-claims-approval-and-payment-deadlines"></a><span data-ttu-id="32bcb-109">合作申请批准和付款的截止时间</span><span class="sxs-lookup"><span data-stu-id="32bcb-109">Co-op claims approval and payment deadlines</span></span>
 
-### <a name="when-will-my-co-op-claim-be-approved"></a><span data-ttu-id="bf0a3-110">我的合作声明将在何时获得批准？</span><span class="sxs-lookup"><span data-stu-id="bf0a3-110">When will my co-op claim be approved?</span></span>
+### <a name="when-will-my-co-op-claim-be-approved"></a><span data-ttu-id="32bcb-110">我的合作声明将在何时获得批准？</span><span class="sxs-lookup"><span data-stu-id="32bcb-110">When will my co-op claim be approved?</span></span>
 
-<span data-ttu-id="bf0a3-111">提交合作声明后，请在两个工作日内查看。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-111">Co-op claims are reviewed within two business days after they've been submitted.</span></span> <span data-ttu-id="bf0a3-112">一旦被视为有效，它们将被设置为 "已批准" 状态。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-112">Once they're deemed valid, they'll be set to Approved status.</span></span>  
+<span data-ttu-id="32bcb-111">提交合作声明后，请在两个工作日内查看。</span><span class="sxs-lookup"><span data-stu-id="32bcb-111">Co-op claims are reviewed within two business days after they've been submitted.</span></span> <span data-ttu-id="32bcb-112">一旦被视为有效，它们将被设置为 "已批准" 状态。</span><span class="sxs-lookup"><span data-stu-id="32bcb-112">Once they're deemed valid, they'll be set to Approved status.</span></span>  
 
-<span data-ttu-id="bf0a3-113">下面是你的合作声明的各种可能状态。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-113">The following are the various possible statuses for your co-op claims.</span></span>
+<span data-ttu-id="32bcb-113">下面是你的合作声明的各种可能状态。</span><span class="sxs-lookup"><span data-stu-id="32bcb-113">The following are the various possible statuses for your co-op claims.</span></span>
 
-- <span data-ttu-id="bf0a3-114">已提交</span><span class="sxs-lookup"><span data-stu-id="bf0a3-114">Submitted</span></span>
-- <span data-ttu-id="bf0a3-115">正在评审</span><span class="sxs-lookup"><span data-stu-id="bf0a3-115">Under review</span></span>
-  - <span data-ttu-id="bf0a3-116">Microsoft 将在提交的声明的两个工作日内完成评审。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-116">Microsoft will complete its review within two business days of the claim being submitted.</span></span> <span data-ttu-id="bf0a3-117">如果状态为 "查看时间超过两天"，请与 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门联系。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-117">If your status is under review for longer than two days, contact [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).</span></span>
-- <span data-ttu-id="bf0a3-118">必需的操作</span><span class="sxs-lookup"><span data-stu-id="bf0a3-118">Action required</span></span>
-- <span data-ttu-id="bf0a3-119">正在编辑</span><span class="sxs-lookup"><span data-stu-id="bf0a3-119">Editing</span></span>
-- <span data-ttu-id="bf0a3-120">已批准</span><span class="sxs-lookup"><span data-stu-id="bf0a3-120">Approved</span></span>
-- <span data-ttu-id="bf0a3-121">已拒绝</span><span class="sxs-lookup"><span data-stu-id="bf0a3-121">Rejected</span></span>
+- <span data-ttu-id="32bcb-114">已提交</span><span class="sxs-lookup"><span data-stu-id="32bcb-114">Submitted</span></span>
+- <span data-ttu-id="32bcb-115">正在评审</span><span class="sxs-lookup"><span data-stu-id="32bcb-115">Under review</span></span>
+  - <span data-ttu-id="32bcb-116">Microsoft 将在提交的声明的两个工作日内完成评审。</span><span class="sxs-lookup"><span data-stu-id="32bcb-116">Microsoft will complete its review within two business days of the claim being submitted.</span></span> <span data-ttu-id="32bcb-117">如果状态为 "查看时间超过两天"，请与 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门联系。</span><span class="sxs-lookup"><span data-stu-id="32bcb-117">If your status is under review for longer than two days, contact [Support](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives).</span></span>
+- <span data-ttu-id="32bcb-118">必需的操作</span><span class="sxs-lookup"><span data-stu-id="32bcb-118">Action required</span></span>
+- <span data-ttu-id="32bcb-119">正在编辑</span><span class="sxs-lookup"><span data-stu-id="32bcb-119">Editing</span></span>
+- <span data-ttu-id="32bcb-120">已批准</span><span class="sxs-lookup"><span data-stu-id="32bcb-120">Approved</span></span>
+- <span data-ttu-id="32bcb-121">已拒绝</span><span class="sxs-lookup"><span data-stu-id="32bcb-121">Rejected</span></span>
 
-## <a name="co-op-claim-payments"></a><span data-ttu-id="bf0a3-122">合作索赔支付</span><span class="sxs-lookup"><span data-stu-id="bf0a3-122">Co-op claim payments</span></span>
+## <a name="co-op-claim-payments"></a><span data-ttu-id="32bcb-122">合作索赔支付</span><span class="sxs-lookup"><span data-stu-id="32bcb-122">Co-op claim payments</span></span>
 
-### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a><span data-ttu-id="bf0a3-123">我何时将获得批准的合作申请的款项？</span><span class="sxs-lookup"><span data-stu-id="bf0a3-123">When will I get the payment for the approved co-op claim?</span></span>
+### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a><span data-ttu-id="32bcb-123">我何时将获得批准的合作申请的款项？</span><span class="sxs-lookup"><span data-stu-id="32bcb-123">When will I get the payment for the approved co-op claim?</span></span>
 
-<span data-ttu-id="bf0a3-124">款项将在批准日期后的 45 个工作日内支付。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-124">Payments will be made within 45 business days of the approval date.</span></span> <span data-ttu-id="bf0a3-125">如果计划需要税务发票，款项将在税务发票获得批准后的 30 天内支付 。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-125">If the program needs a tax invoice, payments will be made within 30 days after tax invoice is approved.</span></span>
+<span data-ttu-id="32bcb-124">款项将在批准日期后的 45 个工作日内支付。</span><span class="sxs-lookup"><span data-stu-id="32bcb-124">Payments will be made within 45 business days of the approval date.</span></span> <span data-ttu-id="32bcb-125">如果计划需要税务发票，款项将在税务发票获得批准后的 30 天内支付 。</span><span class="sxs-lookup"><span data-stu-id="32bcb-125">If the program needs a tax invoice, payments will be made within 30 days after tax invoice is approved.</span></span>
 
-### <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a><span data-ttu-id="bf0a3-126">为什么我的合作申请款项采用了两种不同的货币支付？</span><span class="sxs-lookup"><span data-stu-id="bf0a3-126">Why are my co-op claim payments made in two different currencies?</span></span>
+### <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a><span data-ttu-id="32bcb-126">为什么我的合作申请款项采用了两种不同的货币支付？</span><span class="sxs-lookup"><span data-stu-id="32bcb-126">Why are my co-op claim payments made in two different currencies?</span></span>
 
-<span data-ttu-id="bf0a3-127">在合作资金是从不同的 Microsoft 实体赚取的情况下，款项会以每一实体的当地货币支付。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-127">When co-op funds are earned from different Microsoft entities, payments are made in the local currency of each respective entity.</span></span>  
+<span data-ttu-id="32bcb-127">在合作资金是从不同的 Microsoft 实体赚取的情况下，款项会以每一实体的当地货币支付。</span><span class="sxs-lookup"><span data-stu-id="32bcb-127">When co-op funds are earned from different Microsoft entities, payments are made in the local currency of each respective entity.</span></span>  
 
-### <a name="why-was-i-paid-in-a-currency-other-than-my-co-op-claim-currency"></a><span data-ttu-id="bf0a3-128">为什么我的款项是以合作申请货币以外的货币支付的？</span><span class="sxs-lookup"><span data-stu-id="bf0a3-128">Why was I paid in a currency other than my co-op claim currency?</span></span>
+### <a name="why-was-i-paid-in-a-currency-other-than-my-co-op-claim-currency"></a><span data-ttu-id="32bcb-128">为什么我的款项是以合作申请货币以外的货币支付的？</span><span class="sxs-lookup"><span data-stu-id="32bcb-128">Why was I paid in a currency other than my co-op claim currency?</span></span>
 
-<span data-ttu-id="bf0a3-129">每一激励计划都有在设置期间创建的一个银行配置文件。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-129">Every incentive program has a bank profile that was created during setup.</span></span> <span data-ttu-id="bf0a3-130">该配置文件中指定的货币是付款所采用的货币。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-130">The currency specified in that profile is the currency in which you’ll be paid.</span></span>
+<span data-ttu-id="32bcb-129">每一激励计划都有在设置期间创建的一个银行配置文件。</span><span class="sxs-lookup"><span data-stu-id="32bcb-129">Every incentive program has a bank profile that was created during setup.</span></span> <span data-ttu-id="32bcb-130">该配置文件中指定的货币是付款所采用的货币。</span><span class="sxs-lookup"><span data-stu-id="32bcb-130">The currency specified in that profile is the currency in which you’ll be paid.</span></span>
 
-## <a name="rejected-co-op-claims"></a><span data-ttu-id="bf0a3-131">拒绝了合作声明</span><span class="sxs-lookup"><span data-stu-id="bf0a3-131">Rejected co-op claims</span></span>
+## <a name="rejected-co-op-claims"></a><span data-ttu-id="32bcb-131">拒绝了合作声明</span><span class="sxs-lookup"><span data-stu-id="32bcb-131">Rejected co-op claims</span></span>
 
-<span data-ttu-id="bf0a3-132">如果你为合作申请提供的材料被认为不足，申请将遭到拒绝。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-132">If the materials you provided with your co-op claim are determined to be insufficient, it will be rejected.</span></span> <span data-ttu-id="bf0a3-133">可以在合作申请页面的“历史记录”字段中查看拒绝原因。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-133">You can view the reasons for the rejection in the **History** field of your co-op claims page.</span></span> <span data-ttu-id="bf0a3-134">若要争议拒绝，请使用以下过程：</span><span class="sxs-lookup"><span data-stu-id="bf0a3-134">To dispute the rejection, use the following procedure:</span></span>
+<span data-ttu-id="32bcb-132">如果你为合作申请提供的材料被认为不足，申请将遭到拒绝。</span><span class="sxs-lookup"><span data-stu-id="32bcb-132">If the materials you provided with your co-op claim are determined to be insufficient, it will be rejected.</span></span> <span data-ttu-id="32bcb-133">可以在合作申请页面的“历史记录”字段中查看拒绝原因。</span><span class="sxs-lookup"><span data-stu-id="32bcb-133">You can view the reasons for the rejection in the **History** field of your co-op claims page.</span></span> <span data-ttu-id="32bcb-134">若要争议拒绝，请使用以下过程：</span><span class="sxs-lookup"><span data-stu-id="32bcb-134">To dispute the rejection, use the following procedure:</span></span>
 
-### <a name="dispute-a-rejected-co-op-claim"></a><span data-ttu-id="bf0a3-135">对遭到拒绝的合作申请提出异议</span><span class="sxs-lookup"><span data-stu-id="bf0a3-135">Dispute a rejected co-op claim</span></span>
+### <a name="dispute-a-rejected-co-op-claim"></a><span data-ttu-id="32bcb-135">对遭到拒绝的合作申请提出异议</span><span class="sxs-lookup"><span data-stu-id="32bcb-135">Dispute a rejected co-op claim</span></span>
 
-1. <span data-ttu-id="bf0a3-136">登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-136">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+1. <span data-ttu-id="32bcb-136">登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。</span><span class="sxs-lookup"><span data-stu-id="32bcb-136">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
 
-2. <span data-ttu-id="bf0a3-137">在“奖励”下，选择“合作申请” 。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-137">Under **Incentives**, select **Co-op claims**.</span></span>
+2. <span data-ttu-id="32bcb-137">在 **激励**下，选择 " **计划管理**"。</span><span class="sxs-lookup"><span data-stu-id="32bcb-137">Under **Incentives**, select **Plans management**.</span></span>
 
-3. <span data-ttu-id="bf0a3-138">选择要提出异议的合作申请。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-138">Select the co-op claim you want to dispute.</span></span> <span data-ttu-id="bf0a3-139">此时将打开 "合作声明" 页。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-139">The co-op claim page opens.</span></span>
+3. <span data-ttu-id="32bcb-138">选择 " **合作管理**"。</span><span class="sxs-lookup"><span data-stu-id="32bcb-138">Select **Co-op management**.</span></span>
 
-4. <span data-ttu-id="bf0a3-140">在页面底部，选择“异议”。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-140">At the bottom of the page, select **Dispute**.</span></span>
+4. <span data-ttu-id="32bcb-139">选择要提出异议的合作申请。</span><span class="sxs-lookup"><span data-stu-id="32bcb-139">Select the co-op claim you want to dispute.</span></span> <span data-ttu-id="32bcb-140">此时将打开 "合作声明" 页。</span><span class="sxs-lookup"><span data-stu-id="32bcb-140">The co-op claim page opens.</span></span>
 
-<span data-ttu-id="bf0a3-141">合作申请验证团队将在五个工作日内审查申请。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-141">The co-op claims validation team will review the claim within five business days.</span></span> <span data-ttu-id="bf0a3-142">在此期间，状态将显示为“有争议”。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-142">During this time, the status will show as **Disputed**.</span></span> <span data-ttu-id="bf0a3-143">我们可能会与你联系，要求你提供其他信息。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-143">We may contact you to request additional information.</span></span> <span data-ttu-id="bf0a3-144">审查完成后，验证团队会将状态更新为“已批准”、“已拒绝”或“需要合作伙伴执行操作”  。</span><span class="sxs-lookup"><span data-stu-id="bf0a3-144">When the review is complete, the validation team will update the status to either **Approved**, **Rejected**, or **Partner Action Required**.</span></span>
+5. <span data-ttu-id="32bcb-141">在页面底部，选择“异议”。</span><span class="sxs-lookup"><span data-stu-id="32bcb-141">At the bottom of the page, select **Dispute**.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="bf0a3-145">后续步骤</span><span class="sxs-lookup"><span data-stu-id="bf0a3-145">Next steps</span></span>
+<span data-ttu-id="32bcb-142">合作申请验证团队将在五个工作日内审查申请。</span><span class="sxs-lookup"><span data-stu-id="32bcb-142">The co-op claims validation team will review the claim within five business days.</span></span> <span data-ttu-id="32bcb-143">在此期间，状态将显示为“有争议”。</span><span class="sxs-lookup"><span data-stu-id="32bcb-143">During this time, the status will show as **Disputed**.</span></span> <span data-ttu-id="32bcb-144">我们可能会与你联系，要求你提供其他信息。</span><span class="sxs-lookup"><span data-stu-id="32bcb-144">We may contact you to request additional information.</span></span> <span data-ttu-id="32bcb-145">审查完成后，验证团队会将状态更新为“已批准”、“已拒绝”或“需要合作伙伴执行操作”  。</span><span class="sxs-lookup"><span data-stu-id="32bcb-145">When the review is complete, the validation team will update the status to either **Approved**, **Rejected**, or **Partner Action Required**.</span></span>
 
-- [<span data-ttu-id="bf0a3-146">即刻体验奖励</span><span class="sxs-lookup"><span data-stu-id="bf0a3-146">Getting started with incentives</span></span>](incentives-get-started-intro.md)
+## <a name="next-steps"></a><span data-ttu-id="32bcb-146">后续步骤</span><span class="sxs-lookup"><span data-stu-id="32bcb-146">Next steps</span></span>
+
+- [<span data-ttu-id="32bcb-147">即刻体验奖励</span><span class="sxs-lookup"><span data-stu-id="32bcb-147">Getting started with incentives</span></span>](incentives-get-started-intro.md)
