@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
-ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
+ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "91625140"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663808"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -23,7 +23,7 @@ ms.locfileid: "91625140"
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
 |产品/市场|[Windows 7 第 2 年扩展安全更新 (ESU) 现可供云解决方案提供商 (CSP) 合作伙伴使用](2020-october.md#3)|10 月 1 日|
-|产品/市场|[Office 365 通话套餐现在于新市场中推出](2020-october.md#2)|10 月 1 日|
+|产品/市场|[新的 SKU 将 Project Cortex 等内容的强大功能带给客户](2020-october.md#2)|10 月 1 日|
 |功能|[会计年度 2021 (FY21) 云解决方案提供商 (CSP) 激励计划公告](2020-october.md#1)|10 月 1 日|
 | **类别** | **2020 年 9 月公告** | **日期** |
 |功能|[合作伙伴中心软件许可证密钥和下载履行通知](2020-september.md#17)|9 月 30 日|
