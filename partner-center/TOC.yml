@@ -42,11 +42,13 @@
         - name: 查找你的 MPN 权益
           href: mpn-find-benefits.md
     - name: 资质
-      href: learn-about-competencies.md
+      items:
+        - name: 了解资格
+          href: learn-about-competencies.md
+        - name: 应用开发资格豁免
+          href: app-dev-isv.md
     - name: 高级专业
       href: advanced-specializations.md
-    - name: 一次应用程序开发能力考试要求豁免
-      href: app-dev-isv.md
     - name: 成为 Azure 专家 MSP
       href: azure-expert-msp.md
     - name: 优点
@@ -123,152 +125,159 @@
         - name: 美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: 管理合作伙伴中心帐户
-  href: partner-center-account-setup.md
   items:
-    - name: 工作帐户与合作伙伴中心
-      href: azure-active-directory-tenants-and-partner-center.md
-    - name: 合作伙伴中心内的帐户结构
-      href: account-structure.md
-    - name: 验证域所有权
-      href: become-global-admin.md
-    - name: 验证帐户信息
-      href: verification-responses.md
-    - name: 将你的合作伙伴帐户与其他合作伙伴帐户合并
-      href: merge-accounts.md
-    - name: 将其他 Azure AD 租户与你的合作伙伴中心帐户关联
-      href: multi-tenant-account.md
-    - name: 更新你的合作伙伴个人资料
-      href: update-your-partner-profile.md
-    - name: 位置
-      href: manage-locations.md
-    - name: 注册为控制面板供应商
-      href: enroll-as-cpv.md
-    - name: 恢复暂停的合作伙伴中心帐户
-      href: suspended-partner-center-account.md
-    - name: 添加 Azure AD 应用程序
-      href: service-principal.md
-    - name: 将 Microsoft Learn 帐户关联到合作伙伴中心
-      href: ms-learn-associate.md
-- name: 管理合作伙伴中心帐户 - 用户
+    - name: 常规帐户管理
+      items:
+        - name: 关于你的帐户
+          href: partner-center-account-setup.md
+        - name: 关于帐户结构
+          href: account-structure.md
+        - name: 链接工作帐户
+          href: azure-active-directory-tenants-and-partner-center.md
+        - name: 验证域所有权
+          href: become-global-admin.md
+        - name: 验证帐户信息
+          href: verification-responses.md
+        - name: 合并合作伙伴帐户
+          href: merge-accounts.md
+        - name: 添加更多 Azure AD 租户
+          href: multi-tenant-account.md
+        - name: 更新你的合作伙伴个人资料
+          href: update-your-partner-profile.md
+        - name: 管理位置
+          href: manage-locations.md
+        - name: 成为控制面板供应商
+          href: enroll-as-cpv.md
+        - name: 还原暂停的帐户
+          href: suspended-partner-center-account.md
+        - name: 添加 Azure AD 应用程序
+          href: service-principal.md
+        - name: 关联 Learn 帐户
+          href: ms-learn-associate.md
+    - name: 管理用户
+      items:
+        - name: 创建用户帐户
+          href: create-user-accounts-and-set-permissions.md
+        - name: 向用户分配角色
+          href: permissions-overview.md
+        - name: 成为控制面板供应商
+          href: enroll-as-cpv.md
+        - name: 重置用户密码
+          href: reset-a-user-password.md
+        - name: 重置我的密码
+          href: reset-my-pasword.md
+        - name: 用户无法登录
+          href: unable-to-sign-in.md
+        - name: 用户没有 MPN 管理员
+          href: no-mpn-admin.md
+    - name: 管理业务
+      items:
+        - name: Azure 合作伙伴共享服务
+          href: shared-services.md
+        - name: 定价和产品/服务
+          href: pricing-and-offers.md
+        - name: 自定义目录
+          href: customize-the-catalog.md
+- name: 引荐
   items:
-    - name: 创建用户帐户
-      href: create-user-accounts-and-set-permissions.md
-    - name: 为用户分配角色和权限
-      href: permissions-overview.md
-    - name: 注册为控制面板供应商
-      href: enroll-as-cpv.md
-    - name: 重置用户密码
-      href: reset-a-user-password.md
-    - name: 重置我的密码
-      href: reset-my-pasword.md
-    - name: 如果无法登录到合作伙伴中心
-      href: unable-to-sign-in.md
-    - name: 如果你的 Microsoft 合作伙伴网络 (MPN) 计划的管理员从公司离职，该怎么办？
-      href: no-mpn-admin.md
-- name: 管理合作伙伴中心帐户 - 业务
-  items:
-    - name: 添加 Azure 合作伙伴共享服务
-      href: shared-services.md
-    - name: 定价和套餐
-      href: pricing-and-offers.md
-    - name: 自定义目录
-      href: customize-the-catalog.md
-- name: 拓展业务
-  href: grow-your-business.md
-  items:
+    - name: 如何拓展业务
+      href: grow-your-business.md
     - name: 引荐概述
       href: referrals.md
+    - name: 管理业务配置文件
+      href: create-a-marketing-profile.md
+    - name: 管理潜在客户
+      href: manage-leads.md
+    - name: 管理联合销售机会
       items:
-        - name: 管理业务配置文件
-          href: create-a-marketing-profile.md
-        - name: 管理潜在客户
-          href: manage-leads.md
-        - name: 管理联合销售机会
+        - name: 关于联合销售潜在顾客
           href: manage-co-sell-opportunities.md
-        - name: 用于 Dynamics 365 CRM 的联合销售连接器 – 概述
-          href: connector-dynamics.md
-        - name: 用于 Salesforce CRM 的联合销售连接器 – 概述
-          href: connector-salesforce.md
-        - name: 联合销售引荐连接器疑难解答
+        - name: 使用联合销售 CRM 连接器
+          items:
+            - name: 面向 Dynamics 365
+              href: connector-dynamics.md
+            - name: 面向 Salesforce
+              href: connector-salesforce.md
+        - name: 连接器疑难解答
           href: connectors-troubleshoot.md
-        - name: 迁移自合作伙伴销售连接 (PSC) 的合作伙伴联合销售
+        - name: 联合销售 - PSC 到 PC 的迁移
           href: psc-to-pc.md
-        - name: 注册交易
-          href: register-deals.md
-        - name: 获取引荐见解
-          href: referral-insights.md
-        - name: 分析业务资料
-          href: analyze-your-marketing-profile.md
-    - name: 奖励
+    - name: 注册交易
+      href: register-deals.md
+    - name: 获取引荐见解
+      href: referral-insights.md
+    - name: 分析业务资料
+      href: analyze-your-marketing-profile.md
+- name: 奖励
+  items:
+    - name: 即刻体验奖励
       items:
+        - name: 奖励常见问题解答
+          href: incentives-faq.md
         - name: 即刻体验奖励
-          items:
-            - name: 奖励常见问题解答
-              href: incentives-faq.md
-            - name: 即刻体验奖励
-              href: incentives-get-started-intro.md
-            - name: 奖励的 10 大要素
-              href: incentives-ten-essentials.md
-            - name: 注册以获取奖励
-              href: incentives-enroll.md
-            - name: 检查计划资格
-              href: incentives-determined-your-program-eligibility.md
-              displayName: incentives
-            - name: 了解付款资料和税务资料
-              href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-              displayName: incentives
-            - name: 付款资料和税务资料常见问题解答
-              href: incentives-payout-tax-profile-faqs.md
-              displayName: incentives
-            - name: 检查收益资格
-              href: incentives-confirm-your-earnings-eligibility.md
-              displayName: incentives
-            - name: 查看付款和计划
-              href: understand-incentive-payouts.md
-              displayName: incentives
-            - name: 访问付款页面
-              href: incentives-unified-user-guide.md
-              displayName: incentives
-        - name: 计划和执行证明
-          items:
-            - name: 了解计划和 PoE
-              href: incentives-plans-proofs-intro.md
-              displayName: 'incentives, proof of execution, proofs of execution'
-            - name: 创建计划
-              href: incentives-create-your-plan.md
-              displayName: incentives
-            - name: 创建执行证明
-              href: incentives-prepare-your-proof-of-execution.md
-              displayName: incentives
-        - name: 奖励合作申请
-          items:
-            - name: 奖励合作申请
-              href: claims-overview.md
-              displayName: incentives
-            - name: 管理合作声明
-              href: create-incentives-claims.md
-              displayName: incentives
-            - name: 查看核心要求
-              href: core-requirements.md
-              displayName: incentives
-            - name: 合作申请批准和截止时间
-              href: incentives-managing-co-op-claims.md
-              displayName: incentives
-        - name: 奖励 CPOR 关联申请
-          items:
-            - name: 了解 CPOR 关联
-              href: incentives-customer-associations-intro.md
-            - name: 创建客户关联
-              href: submit-osa-claim.md
-            - name: 管理客户关联
-              href: incentives-manage-customer-associations.md
-              displayName: incentives
-            - name: 客户关联问题
-              href: incentives-customer-association-issues.md
-              displayName: incentives
-        - name: 排查付款和收益问题
-          href: incentives-payment-issues.md
+          href: incentives-get-started-intro.md
+        - name: 奖励的 10 大要素
+          href: incentives-ten-essentials.md
+        - name: 注册以获取奖励
+          href: incentives-enroll.md
+        - name: 检查计划资格
+          href: incentives-determined-your-program-eligibility.md
           displayName: incentives
+        - name: 了解付款资料和税务资料
+          href: incentives-create-and-manage-your-payout-and-tax-profiles.md
+          displayName: incentives
+        - name: 付款资料和税务资料常见问题解答
+          href: incentives-payout-tax-profile-faqs.md
+          displayName: incentives
+        - name: 检查收益资格
+          href: incentives-confirm-your-earnings-eligibility.md
+          displayName: incentives
+        - name: 查看付款和计划
+          href: understand-incentive-payouts.md
+          displayName: incentives
+        - name: 访问付款页面
+          href: incentives-unified-user-guide.md
+          displayName: incentives
+    - name: 计划和执行证明
+      items:
+        - name: 了解计划和 PoE
+          href: incentives-plans-proofs-intro.md
+          displayName: 'incentives, proof of execution, proofs of execution'
+        - name: 创建计划
+          href: incentives-create-your-plan.md
+          displayName: incentives
+        - name: 创建执行证明
+          href: incentives-prepare-your-proof-of-execution.md
+          displayName: incentives
+    - name: 奖励合作申请
+      items:
+        - name: 奖励合作申请
+          href: claims-overview.md
+          displayName: incentives
+        - name: 管理合作声明
+          href: create-incentives-claims.md
+          displayName: incentives
+        - name: 查看核心要求
+          href: core-requirements.md
+          displayName: incentives
+        - name: 合作申请批准和截止时间
+          href: incentives-managing-co-op-claims.md
+          displayName: incentives
+    - name: 奖励 CPOR 关联申请
+      items:
+        - name: 了解 CPOR 关联
+          href: incentives-customer-associations-intro.md
+        - name: 创建客户关联
+          href: submit-osa-claim.md
+        - name: 管理客户关联
+          href: incentives-manage-customer-associations.md
+          displayName: incentives
+        - name: 客户关联问题
+          href: incentives-customer-association-issues.md
+          displayName: incentives
+    - name: 付款和收益疑难解答
+      href: incentives-payment-issues.md
+      displayName: incentives
 - name: 计费和税款
   href: billing.md
   items:
@@ -282,7 +291,7 @@
       href: use-the-reconciliation-files.md
     - name: 对帐文件费用类型
       href: recon-file-charge-types.md
-    - name: 在合作伙伴中心阅读每日结算的使用量对帐文件
+    - name: 每日额定使用量对帐文件
       href: daily-rated-usage-recon-files.md
     - name: 基于许可证的对帐文件
       href: license-based-recon-files.md
@@ -365,9 +374,9 @@
       href: update-customer-account-info.md
     - name: 让客户购买他们自己的服务
       href: give-customers-permission.md
-    - name: 如何为客户添加多个用户
+    - name: 为一位客户添加多个用户
       href: adding-multiple-users-to-a-customer-account.md
-    - name: 为客户帐户导入多个用户的文件的必填字段
+    - name: 导入多个用户
       href: file-customer-users.md
     - name: 分配支持联系人
       href: assign-support-contacts.md
@@ -487,64 +496,69 @@
           href: advisor-create-a-purchase-offer.md
 - name: 合作伙伴中心数据和分析
   items:
-    - name: 获取用户数据和分析功能
+    - name: 访问用户数据和分析
       href: data-analysis-lp.md
-    - name: 适用于 Power BI 的合作伙伴中心分析应用
+    - name: 适用于 Power BI 的分析应用
       items:
-        - name: 适用于 Power BI 的合作伙伴中心分析应用简介
+        - name: 分析应用简介
           href: power-bi-app-for-direct-partners.md
-        - name: 安装适用于 Power BI 的合作伙伴中心分析应用
+        - name: 安装分析应用
           href: power-bi-app-for-direct-partners-install.md
-        - name: 使用适用于 Power BI 的合作伙伴中心分析应用
+        - name: 使用分析应用
           href: power-bi-app-for-direct-partners-use.md
-    - name: 合作伙伴中心见解
-      href: partner-center-insights.md
+    - name: 合作伙伴中心见解 (PCI)
       items:
-        - name: 见解 - 概览仪表板
-          href: pci-overview-report.md
-        - name: 见解 - 对见解仪表板的基于角色的访问控制
+        - name: 关于见解
+          href: partner-center-insights.md
+        - name: 基于见解角色的访问
           href: pci-roles.md
-        - name: 见解 - 客户仪表板
-          href: pci-customer-report.md
-        - name: 见解 - 经销商业绩仪表板
-          href: pci-resellers-performance.md
-        - name: 见解 - 产品订阅仪表板
-          href: pci-product-subscriptions-report.md
-        - name: 见解 - 产品许可证仪表板
-          href: pci-product-licenses-report.md
-        - name: 见解 - Azure 使用情况仪表板
-          href: pci-azure-usage-report.md
-        - name: 见解 - 培训仪表板
-          href: pci-training-dashboard.md
-        - name: Insights - Microsoft Learn 分析
-          href: ms-learn-analytics.md
-        - name: 见解 - 能力报表
-          href: pci-competencies-report.md
-        - name: 见解 - 权益报表
-          href: pci-benefits-report.md
-        - name: 见解 - CloudAscent 倾向报表
-          href: pci-customer-opportunities.md
-        - name: 见解 - 已知问题
+        - name: 见解报告
+          items:
+            - name: Azure 使用情况
+              href: pci-azure-usage-report.md
+            - name: 优点
+              href: pci-benefits-report.md
+            - name: CloudAscent 倾向
+              href: pci-customer-opportunities.md
+            - name: 资质
+              href: pci-competencies-report.md
+            - name: 客户
+              href: pci-customer-report.md
+            - name: Microsoft Learn 分析
+              href: ms-learn-analytics.md
+            - name: 概述
+              href: pci-overview-report.md
+            - name: 产品许可证
+              href: pci-product-licenses-report.md
+            - name: 产品订阅
+              href: pci-product-subscriptions-report.md
+            - name: 经销商业绩
+              href: pci-resellers-performance.md
+            - name: 培训
+              href: pci-training-dashboard.md
+        - name: 已知问题
           href: pci-known-issues.md
-        - name: 见解 - 下载报表
+        - name: 下载见解报告
           href: pci-download-reports.md
     - name: 合作伙伴贡献指示器
       href: partner-contribution-indicators.md
-    - name: 获取客户的 Azure 订阅使用情况数据
-      href: analyze-azure-usage.md
-    - name: 分析间接经销商业绩
-      href: analyze-indirect-resellers.md
-    - name: 分析订阅和许可证
-      href: analyze-subscriptions-licenses.md
+    - name: 分析其他数据
+      items:
+        - name: 客户 Azure 使用情况
+          href: analyze-azure-usage.md
+        - name: 间接经销商业绩
+          href: analyze-indirect-resellers.md
+        - name: 订阅和许可证
+          href: analyze-subscriptions-licenses.md
 - name: 与其他合作伙伴合作
   items:
     - name: 查找合作伙伴
       href: find-a-partner.md
     - name: 与其他合作伙伴合作
       href: work-with-other-partners.md
-    - name: 合作伙伴中心的间接提供商任务
+    - name: 间接提供商任务
       href: indirect-provider-tasks-in-partner-center.md
-    - name: 合作伙伴中心的间接经销商任务
+    - name: 间接经销商任务
       href: indirect-reseller-tasks-in-partner-center.md
     - name: 支持的 CSP 合作伙伴关系
       href: csp-supported-partner-relationships.md
