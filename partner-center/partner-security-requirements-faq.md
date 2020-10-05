@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999801"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406360"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
+
+**适用于**
+
+- 合作伙伴中心
 
 **相应的用户**
 
 - 所有支持的用户，包括来宾用户
 
-本文包含[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题解答。
-
 ## <a name="partner-security-requirements"></a>合作伙伴安全要求
+
+本文包含[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题解答。
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>什么是合作伙伴安全要求以及合作伙伴为什么应实施它？
 
@@ -32,7 +36,7 @@ ms.locfileid: "90999801"
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>关键的时间线和里程碑有哪些？
 
-与这些安全要求相关的条款已于 2019 年囊括到了 Microsoft 合作伙伴协议中。 为了保持参与 CSP 计划的合规性，你将需要尽快实施这些安全要求。
+与这些安全要求相关的条款（包括时间线和里程碑）已于 2019 年包含在 [Microsoft 合作伙伴协议](microsoft-partner-agreement.md)中。 为了保持参与 CSP 计划的合规性，你将需要尽快实施这些安全要求。
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>如果我没有实施这些合作伙伴安全要求会发生什么情况？
 
@@ -50,9 +54,9 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何才能知道自己是否满足合作伙伴安全要求？
 
-需完成以下步骤
+你需要完成以下步骤：
 
-- 你需要满足[合作伙伴安全要求](partner-security-requirements.md)中列出的所有要求
+- 你需要满足[合作伙伴安全要求](partner-security-requirements.md)中列出的所有要求。
 - 需要确保合作伙伴租户中的所有用户帐户都已实施多重身份验证。
 
 为帮助确定可执行操作的关键区域，我们提供了 [安全要求状态](https://partner.microsoft.com/commerce/security/compliance)报告，你可通过合作伙伴中心获取此报告。
@@ -98,8 +102,8 @@ CSP 计划中的所有合作伙伴（直接计费合作伙伴、间接提供商�
 MFA 是一种安全机制，单个用户可以使用该机制通过多个必需的安全和验证过程进行身份验证。 该方法需要使用下列身份验证方式中的两种或更多种来发挥作用：
 
 - 您知道的信息（通常为密码）
-- 您拥有的东西（不易被复制的受信任设备，如电话）
-- 你的特征（生物识别）
+- 用户具有的某样东西（无法轻易复制的可信设备，如电话）
+- 自身的特征（生物辨识系统）
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>启用 MFA 的费用是多少？
 
@@ -114,7 +118,7 @@ Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>我使用多个合作伙伴租户进行交易。 我是否需要对其都进行 MFA？
 
-是的，你需要对每个与 CSP 计划或顾问计划相关联的 Azure Active Directory 租户强制实施 MFA。 若要购买 Azure Active Directory Premium 许可证，则必须为每个 Azure Active Directory 租户中的用户购买一个许可证。
+是的，你需要对每个与 CSP 计划或顾问计划相关联的 Azure Active Directory 租户强制实施 MFA。 若要购买 Azure Active Directory Premium 许可证，则必须为每个 Azure Active Directory 租户中的用户购买一个 Azure Active Directory 许可证。 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>是否需要为合作伙伴租户中的每个用户帐户强制实施 MFA？
 
@@ -225,7 +229,7 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>为何应用程序管理员在执行许可过程时不应该提供全局管理员用户凭据？
 
-最佳做法是使用最低特权标识，这样可以降低风险。 建议不要使用具有全局管理员特权的帐户，因为这样会使提供的权限超出所需的权限。
+最佳做法是使用最低权限的标识。  这会降低风险。 建议不要使用具有全局管理员特权的帐户，因为这样会使提供的权限超出所需的权限。
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>我是云解决方案提供商合作伙伴。 我如何才能知道我的控制面板供应商 (CPV) 是否正在实现解决方案？
 
@@ -296,7 +300,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 为客户提供支持，该怎么办？
 
-合作伙伴安全要求的技术实施将会检查身份验证的帐户是否已受到多重身份验证的质询。 如果该帐户未受到质询，系统则会将你重定向到登录页面并且会再次提示你进行身份验证。 请在此[为合作伙伴租户强制执行多重身份验证 (MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 文档中查看更多的详细体验和指南。 如果你的域不是联合域，那么在成功完成身份验证后，系统会提示你设置多重身份验证。 设置完成后，你就可以使用 AOBO 对客户进行管理。 如果你的域是联合域，则需要确保帐户受到多重身份验证的质询。
+合作伙伴安全要求的技术实施将会检查身份验证的帐户是否已受到多重身份验证的质询。 如果该帐户未受到质询，系统则会将你重定向到登录页面并且会再次提示你进行身份验证。 请在此[为合作伙伴租户强制执行多重身份验证 (MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 文档中查看其他体验和指南。 如果你的域不是联合域，那么在成功完成身份验证后，系统会提示你设置多重身份验证。 设置完成后，你就可以使用 AOBO 对客户进行管理。 如果你的域是联合域，则需要确保帐户受到多重身份验证的质询。
 
 ## <a name="security-defaults-transition"></a>安全默认设置过渡
 
@@ -341,9 +345,11 @@ Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](/a
 
 可以通过 MPN 权益获取 Azure Active Directory 的技术产品支持选项。 能够访问活动 ASfP 或 PSfP 订阅的合作伙伴可以咨询相关的帐户管理员 (SAM/TAM)，这样可以最好地了解可用选项。
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>当我无法访问合作伙伴中心时，如何与支持部门取得联系？
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>如果我无法再访问合作伙伴中心，那么该如何联系支持部门？
 
-转到 [Microsoft 合作伙伴支持](https://partner.microsoft.com/support)，然后选择“显示所有支持选项”。 随即将显示用于联系 Microsoft 合作伙伴支持人员的可用选项，包括用于呼叫支持人员的电话号码以及与支持人员聊天的选项。
+如果你由于 MFA 问题失去访问权限，请联系你租户的全局管理员。 你的内部 IT 部门将能够告诉你全局管理员是谁。 
+
+如果你忘记了密码，请阅读[无法登录](unable-to-sign-in.md)来获得帮助。
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>在哪里可以找到常见技术问题的详细信息？
 
