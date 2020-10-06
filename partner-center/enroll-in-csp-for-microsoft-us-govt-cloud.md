@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999911"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763357"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
@@ -65,7 +65,7 @@ ms.locfileid: "90999911"
 
 1. 使用申请批准电子邮件中提供的链接登录到美国政府 Microsoft 云合作伙伴中心。
 
-2. 在**协议**页上，阅读相关条款，如果你同意，请选择**接受并继续操作**，以数字方式签署[美国政府 Microsoft 云经销商协议](https://go.microsoft.com/fwlink/p/?linkid=843364)。 创建你的帐户可能需要几个小时。 从美国政府 Microsoft 云合作伙伴中心注销，稍后重新登录。
+2. 在 " **协议** " 页上，阅读条款，如果同意，请选择 " **接受" 并继续** 对美国政府 Microsoft 云的分销商协议进行数字签名。 创建你的帐户可能需要几个小时。 你可以为美国政府的 Microsoft 云注销合作伙伴中心，然后在以后重新登录。
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>第 4 步 - 将用户分配给 Microsoft Azure 美国政府 Microsoft 云管理门户中的管理员代理角色
 
