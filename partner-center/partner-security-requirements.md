@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴安全要求
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 合作伙伴要求简介，这些要求包括启用多重身份验证 (MFA) 和采用安全应用程序模型框架。
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000021"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763345"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>针对使用合作伙伴中心或合作伙伴中心 API 的合作伙伴的安全要求
 
@@ -100,7 +100,7 @@ ms.locfileid: "91000021"
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>你是否有用户使用通过与合作伙伴租户相关联的许可证获得的 Office 365？
 
-在实现任何解决方案之前，建议你确定合作伙伴租户中的用户所使用的 Microsoft Office 版本。 在采取任何行动之前，请参阅 [Office 365 部署的多重身份验证计划](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)。 用户可能会在使用 Outlook 之类的应用程序时遇到连接问题。 在强制实施多重身份验证之前，必须确保使用的是 Outlook 2013 SP1 或更高版本，且组织已启用新式身份验证。 有关详细信息，请参阅[在 Exchange Online 中启用新式身份验证](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+在实现任何解决方案之前，建议你确定合作伙伴租户中的用户所使用的 Microsoft Office 版本。 用户可能会在使用 Outlook 之类的应用程序时遇到连接问题。 在强制实施多重身份验证之前，必须确保使用的是 Outlook 2013 SP1 或更高版本，且组织已启用新式身份验证。 有关详细信息，请参阅[在 Exchange Online 中启用新式身份验证](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
 
 若要为任何运行 Windows 且已安装 Microsoft Office 2013 的设备启用新式身份验证，需创建两个注册表项。 请参阅[在 Windows 设备上启用适用于 Office 2013 的新式身份验证](/office365/admin/security-and-compliance/enable-modern-authentication)。
 
