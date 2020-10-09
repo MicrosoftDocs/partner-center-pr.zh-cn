@@ -1,7 +1,7 @@
 ---
 title: 注册到云解决方案提供商计划
 ms.topic: how-to
-ms.date: 05/18/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型 - 例如，间接经销商或直接帐单合作伙伴。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545818"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763336"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>注册到云解决方案提供商计划并建立可盈利的云解决方案业务
 
@@ -30,7 +30,7 @@ ms.locfileid: "87545818"
 
 对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想被迫管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
 
-若要注册云解决方案提供商计划，首先需要一个 MPN ID。 没有 ID？ 请在[此处](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)加入计划。
+若要注册云解决方案提供商计划，首先需要一个 MPN ID。 没有 ID？ 请在[此处](https://partner.microsoft.com/)加入计划。
 
 若要完成 CSP 申请，需要提供 MPN ID，填写企业地址、银行信息，以及充当合作伙伴中心管理员的员工的工作电子邮件地址。
 
@@ -96,4 +96,5 @@ ms.locfileid: "87545818"
 ## <a name="csp-regional-markets-and-currencies"></a>云解决方案提供商区域市场和货币
 
 公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。 有关市场位置和货币，请参阅[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
+请务必阅读[添加新的 MPN ID 位置](manage-locations.md)一文。
 

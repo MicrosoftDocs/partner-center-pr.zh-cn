@@ -1,42 +1,60 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: 在合作伙伴中心，了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
+ms.subservice: partnercenter-mpn
+description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436866"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663889"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>在合作伙伴中心管理合作伙伴帐户位置并添加新位置
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
+
+**适用于**
+
+- 合作伙伴中心
 
 **相应的角色**
-- 全局管理员
-- 用户管理员
-- 计费管理员
-- 管理员代理
-- 销售代理
 
-位置 MPN ID 标识了公司的每一特定位置。 可以使用位置 MPN ID 注册奖励计划来进行云解决方案提供商 (CSP) 业务交易，以及添加新订阅和进行其他业务交易。 公司 MPN ID 用于非交易性活动，例如支持请求。
+- 全局管理员
+- 帐户管理员
+
+位置 MPN ID 标识了公司的每一特定位置。 可以使用位置 MPN ID 注册奖励计划、进行云解决方案提供商 (CSP) 业务交易以及其他业务交易。 全局 MPN ID 用于非交易性活动，例如支持请求。
 
 ## <a name="the-following-is-a-typical-scenario"></a>下面是一个典型方案：
 
-某一合作伙伴公司可能有 CSP 业务和出版业务。 其 CSP 业务可能位于多个区域，而他们的出版业务可能位于其他一些区域。他们注册的法定公司有一个 MPN ID，用于管理所有非交易性业务，例如添加用户或记录支持请求。
+Contoso 的合作伙伴全局帐户 (PGA) 位置位于英国。 这是其注册的合法业务，它具有一个用于管理所有非交易性业务的 MPN ID。 Contoso 在英国、法国和美国的其他位置也具有相当于子公司或部门的合作伙伴位置帐户 (PLA)。 在 MPN 帐户结构中，这些 PLA 表示为唯一位置 MPN ID。 PLA 用于交易性业务，例如 CSP 或奖励计划。 付款与特定位置相关。 
 
+>[!NOTE]
+>CSP 租户与 MPN 位置 ID 之间存在 1 对 1 关系。
 
-他们的每一位置都有一个 MPN ID，用于交易性业务，例如 CSP 或奖励计划。 付款与特定位置相关。
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="MPN 位置的结构":::
 
-用户可能具有跨位置的角色。 例如，奖励管理员可能有适用于所有欧洲位置的角色。
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>为 CSP 业务添加新位置的先决条件
 
-## <a name="to-add-a-location"></a>添加位置
+若要添加新的 CSP 业务位置，需要满足以下先决条件：
+
+1. 必须在要开展业务的国家/地区具有 MPN ID。
+
+1. 你需要在尚未注册 CSP 的业务区域中具有一个新的 Azure AD 租户。 在注册 CSP 时创建此租户。
+ 
+3. 使用新的 AAD 租户注册在该区域注册 CSP 计划。
+提供法定的公司详细信息，包括合法的公司名称、地址、主要联系人详细信息。 此帐户将经过验证，因此请确保添加有效的信息。
+
+>[!NOTE] 
+ >请记住，使用新的凭据登录新的 Azure AD 租户 。 不要使用现有凭据，因为合作伙伴中心会将你识别为已经拥有帐户。
+
+4. 接受 Microsoft 合作伙伴协议并激活帐户。
+
+## <a name="add-a-location"></a>添加位置
 
 1. 从“设置”图标中选择“合作伙伴设置”。 
 
@@ -49,16 +67,20 @@ ms.locfileid: "86436866"
 > [!NOTE]
 > 一旦将某一位置添加到合作伙伴中心后，就不能再删除它了。
 
-## <a name="change-legal-headquarters-location"></a>更改法定总部位置
+## <a name="change-global-partner-account-location"></a>更改全局合作伙伴帐户位置
 
 1. 在“位置”页面上，检查位置列表以确保想作为法人的位置已被列出。 否则，请添加该位置。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="合作伙伴中心“帐户位置”页面的屏幕截图，其中包含所有当前位置的列表。":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 位置的结构":::
 
 2. 选择“合作伙伴配置文件”，然后选择“更新法定公司配置文件” 
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="显示合作伙伴中心帐户伙伴配置文件信息的屏幕截图，其中包含可选的更新选项。":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 位置的结构":::
 
 3. 选择区域和法人，并“提交”。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新合作伙伴的法定公司配置文件的屏幕截图，其中显示了用于更新国家/地区和法人的下拉列表。":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 位置的结构":::
+
+## <a name="next-steps"></a>后续步骤
+
+- 了解[验证过程](verification-responses.md)。
