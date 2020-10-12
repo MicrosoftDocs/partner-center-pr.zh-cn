@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114832"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899225"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>按区域和语言划分的 Microsoft 客户协议
 
@@ -127,11 +127,11 @@ Microsoft 客户协议因区域而异，并以多种语言提供。 在以下列
     
     在德国，刑法（第 203 条）和职业行为规范要求对某些客户关系保密，例如病人和医生的关系，以及律师和客户的关系。 这些职业人群必须确保进行职业保密。 这些职业和其他职业的人员在从云解决方案提供商处购买基于云的服务时，云服务提供商必须与客户达成书面协议，确保进行职业保密。
 
-    如果你在德国开展业务，则除了 Microsoft 云协议，还可能需要向客户提供该职业保密修订协议。
+    如果你在德国开展业务，则除了 Microsoft 客户协议，还可能需要向客户提供这份职业保密修订协议。
 
-  - [德国 Microsoft 云协议职业保密修订条款（英文）](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+  - [德国 Microsoft 云协议职业保密修订条款（英文）](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou)
 
-  - [德国 Microsoft 云协议职业保密修订条款（德文）](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+  - [德国 Microsoft 云协议职业保密修订条款（德文）](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29)
 
 - 直布罗陀：[英语](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 希腊：[英语](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[希腊语](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
