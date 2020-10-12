@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772250"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844671"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "91772250"
 
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[Azure 市场中的简化 Azure 应用体验](2020-october.md#8)|10 月 7 日|
 |产品/市场|[Microsoft Teams Rooms 高级 SKU 发布](2020-october.md#7)|10 月 5 日|
 |产品/市场|[ 通话套餐现在于新市场中推出](2020-october.md#6)|10 月 2 日|
 |产品/市场|[即将推出 Microsoft Teams 高级通信的促销活动](2020-october.md#5)|10 月 2 日|
