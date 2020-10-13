@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/05/2020
-ms.openlocfilehash: 36577ea1c64a75802602613628e5ff59fa9e6eb4
-ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
+ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91772253"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844661"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
 本页详述了 Microsoft 合作伙伴中心 2020 年 10 月公告。
 
 2020 公告：[3月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
+
+________________
+
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Azure 市场中的简化 Azure 应用体验
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-07
+- 功能
+ 
+### <a name="summary"></a>摘要 
+
+最近针对所有 Azure 应用程序修改了 Azure 门户用户体验 (UX)。 这是一项针对期望内容和后续步骤的更新，面向的是独立软件供应商 (ISV)。
+
+### <a name="impacted-audience"></a>影响受众
+
+所有发布 Azure 应用的 ISV
+
+### <a name="details"></a>详细信息
+
+我们简化了 Azure 门户中针对 Azure 应用的 UX。
+
+你收到此电子邮件是因为你已在 Azure 市场中发布或已注册要发布 Azure 应用程序（解决方案模板和托管应用）。
+
+我们对 [Azure 门户](https://ms.portal.azure.com/)做了一些更改，目的是改进用户使用和管理 Azure 应用程序的方式。 请查看和更新你的客户文档与参考资料，确保它们反映了这一新体验。
+下面是 Azure 门户中的新增功能：
+
+- 灵活的导航；通过它，你无需完成上一部分即可在任何部分查看、编辑和保存信息。
+- 没有多个嵌套级别的新的整页视图。
+- 用于标记和整理 Azure 资源的新功能。 有关标记的详细信息，请参阅[使用标记来整理 Azure 资源](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)。
+
+如果对这些更改抱有疑问，请联系我们的[支持团队](https://aka.ms/marketplacepublishersupport)。
+
+### <a name="next-steps"></a>后续步骤
+
+请查看和更新你的客户文档与参考资料，确保它们反映了这一新体验。
 
 ________________
 
@@ -203,7 +239,7 @@ Microsoft Teams 和任何 Microsoft 365/Office 365 套件。
 - 查看 [Teams 合作伙伴指南](https://aka.ms/teamscallingmeetingsguide)的“资源”部分。
 - 可以在 [博客](https://www.microsoft.com/microsoft-365/blog/2020/09/08/3-deals-meeting-calling-experiences-microsoft-teams/) 或 [Office 365 合作伙伴 yammer 组](https://www.yammer.com/office365partners/)中找到有关 Microsoft Teams 促销优惠的其他信息。
 
-## <a name="questions"></a>是否有任何问题?
+### <a name="questions"></a>是否有任何问题?
 
 如有关于这些产品/服务的任何疑问，请联系 Microsoft 客户团队中的代表或支持人员。
 
