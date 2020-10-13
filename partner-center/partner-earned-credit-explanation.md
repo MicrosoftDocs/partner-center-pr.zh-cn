@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3ceb2ded6e52083ad0d74a411026558fbce2f642
+ms.sourcegitcommit: 883c332a10f51b41b72c2f3fe08bb9593b569d28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999861"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91852582"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
@@ -40,7 +40,7 @@ ms.locfileid: "90999861"
 
 - 符合条件的服务：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务。 合作伙伴赚取的赠金不适用于在 Azure 计划消费定价表的“标记”列中被标识为“第三方”的第三方产品、Azure 计划预留项、市场定价表中的产品以及 [Azure 现成虚拟机](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/) 。
 
-- PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中查看。 合作伙伴（间接提供商或间接经销商）必须拥有全天 (24x7) 的访问权限，才可确保赚取 PEC。  
+- PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中查看。 合作伙伴（间接提供商或间接经销商）必须拥有全天 (24x7) 的访问权限，才可确保赚取 PEC。 PEC 根据所管理的 Azure 资产每日计算一次。 给定计费周期（月份）的 PEC 不超过 15%。 如果合作伙伴针对所有符合条件的资源（访问范围）保留持久性特权访问一整月（范围跨度），他们将获得完整 15% 的 PEC。 范围和跨度变小将导致当月 PEC 比率变低。 无论是否应用了 PEC，针对 Azure 资产，每天都会显示按每日计费的使用量文件。 合作伙伴还可注册接收警报，以检测持久性特权访问是否有变化。
 
 - 可赚取 PEC 的最低级别为 Azure 资源级别。 如果合作伙伴在订阅或资源组级别拥有有效的访问权限，则他们可以赚取该角色直到更高一级实体的资源的 PEC。  
 
