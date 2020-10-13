@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422313"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980238"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
@@ -115,5 +115,4 @@ ms.locfileid: "91422313"
 
 - [多合作伙伴支持](multipartner.md)。
 - [多通道支持](multichannel.md)。
-- [转移 Azure 订阅](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
-
+- [转移 Azure 订阅](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

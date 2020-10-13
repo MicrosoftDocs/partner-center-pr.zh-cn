@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422544"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980258"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>将客户的 Azure 计划订阅转移到不同的合作伙伴
 
@@ -37,7 +37,7 @@ ms.locfileid: "91422544"
 - 当前合作伙伴提供的 Azure 服务的 CSP 定价将不会转换  
 - 客户的支持责任将转向未来的合作伙伴
 - 计费和开具发票会在传输时移到未来合作伙伴
-- Azure 基于角色的访问控制 (RBAC) 不受传输影响
+- Azure Role-Based 访问控制 (RBAC) 不受传输影响
 - 默认情况下，将不会向未来伙伴授予 (AOBO) 的管理员
 - 只要产品通过 Marketplace 资格检查，就会传输第三方 marketplace 产品。
     - 无特殊折扣或区域限制
@@ -71,50 +71,37 @@ ms.locfileid: "91422544"
 3.  选择 " **传输请求** " 部分。
 4.  从 " **传输请求" 部分**中，选择 " **添加新请求**"。
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="传输部分":::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="传输部分&quot;:::
 
-5.  完成 " **新建传输请求** " 窗体。
+5.  完成 &quot; **新建传输请求** " 窗体。
 
 6.  选择**发送传输请求**  >  **发送**。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="完成传输请求窗体":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="传输部分&quot;:::
+
+5.  完成 &quot; **新建传输请求** ":::
 
 7.  查看传输请求确认
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="查看挂起的传输":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="传输部分&quot;:::
 
-    >[!Note]
-    >只有在传输请求状态为 "挂起" 时，才能通过选择右上角的 " **取消请求** " 来取消传输请求。 传输请求状态为 "正在进行" 或 "完成" 后，将无法取消取消。
+5.  完成 &quot; **新建传输请求** " 后，将无法取消取消。
 
 ## <a name="current-partner-tasks-to-be-completed"></a>当前要完成的合作伙伴任务
 
 客户的当前合作伙伴的管理员代理将收到一封电子邮件，指出其客户正在请求传输其订阅：
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="审阅":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="传输部分&quot;:::
 
-查看并接受合作伙伴中心的传输请求窗体，以完成订阅转移。
+5.  完成 &quot; **新建传输请求** " 下的所选**传输请求 ID**展开传输信息。
 
->[!Note]  
->如果当前合作伙伴在30天内没有执行任何操作，则该请求将过期，将来的合作伙伴将拥有来创建新的传输请求。
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="传输部分&quot;:::
 
-1.  选择电子邮件中的 " **查看传输请求** " 或
-1.  从 "合作伙伴中心" 菜单中，选择 " **客户**"，然后选择代表其提交了传输请求的客户。
-2.  从 "客户" 菜单中选择 " **订阅**"。
-3.  选择 " **传输请求** " 部分。
-4.  通过选择 "**接收的请求**" 下的所选**传输请求 ID**展开传输信息。
+5.  完成 &quot; **新建传输请求** " 完成传输过程。
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="源审阅传输请求":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="传输部分&quot;:::
 
-5.  查看传输请求。 选择要传输的请求的 Azure 订阅。
-
->[!Note]  
-> 请注意，在继续操作之前，你将无法再访问所选订阅。
-> 不会向你开具发票以便进一步使用。
-> Azure 预订不会与订阅一起传输。
-
-6.  然后选择 " **接受并传输** " 完成传输过程。
-
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="选择要在 Azure 计划下传输的订阅":::
+5.  完成 &quot; **新建传输请求** ":::
 
 7.  查看传输接受确认。
 
@@ -132,9 +119,9 @@ ms.locfileid: "91422544"
 
 - 因此，重要的是，您的客户必须删除其以前合作伙伴的 Azure RBAC 访问权限，并为新合作伙伴添加访问权限。 有关提供新访问权限的客户的详细信息，请参阅 [什么是 AZURE RBAC)  (azure 基于角色的访问控制？](/azure/role-based-access-control/overview) 若要详细了解你的客户如何删除以前合作伙伴的 RBAC 访问权限，请参阅 [删除角色分配](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)。
 
-- 此外，不会 [代表 (AOBO) ](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 访问订阅来自动获取管理员。 若要使合作伙伴自行管理客户的 Azure 订阅，AOBO 是必需的。 有关 Azure 特权的详细信息，请参阅 [获取管理客户服务或订阅的权限。](/partner-center/customers-revoke-admin-privileges)
+- 此外，不会 [代表 (AOBO) ](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 访问订阅来自动获取管理员。 若要使合作伙伴自行管理客户的 Azure 订阅，AOBO 是必需的。 有关 Azure 特权的详细信息，请参阅 [获取管理客户服务或订阅的权限。](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>后续步骤：
 
 - [ (Azure RBAC) ](/azure/role-based-access-control/overview)
-- [获取管理客户服务或订阅的权限。](/partner-center/customers-revoke-admin-privileges)
+- [获取管理客户服务或订阅的权限。](./customers-revoke-admin-privileges.md)
