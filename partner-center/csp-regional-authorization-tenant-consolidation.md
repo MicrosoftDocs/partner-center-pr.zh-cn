@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000371"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006780"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并说明
 
@@ -68,15 +68,15 @@ ms.locfileid: "91000371"
 
 5. 从目录中添加正确的订阅和许可证计数。 验证从合作伙伴帐户 **转换** 中提供的信息。
 
-   :::image type="content" source="images/regionalcustomer2.png" alt-text="客户列表":::
+   :::image type="content" source="images/regionalcustomer2.png" alt-text="客户列表&quot;:::
 
-6. 单击 " **提交"。**
+6. 单击 &quot; **提交&quot;。**
 
    现在，服务将提供给客户，从 **过渡到** 合作伙伴帐户。
 
 7. 重复这些步骤，迁移所有其他客户的订阅。
 
-在继续下一节之前，请确保在 "**过渡到**合作伙伴帐户" 下重新设置了 "从合作伙伴帐户**转换**" 下的所有客户订阅。
+在继续下一节之前，请确保在 &quot;**过渡到**合作伙伴帐户&quot; 下重新设置了 &quot;从合作伙伴帐户**转换**" 下的所有客户订阅。
 
 > [!NOTE]
 > 合作伙伴必须在合作伙伴中心的合作伙伴租户帐户 **之间** 暂停订阅，这一天在合作伙伴中心转换 **为** 合作伙伴租户帐户时，会将这些订阅转换并设置为，以确保不会发生双重计费。 由于不能正确禁用 **从订阅转换** 而产生的任何费用重叠，因此会拒绝支持请求。
@@ -148,4 +148,4 @@ ms.locfileid: "91000371"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [合作伙伴中心内针对经销商合作伙伴的客户帐户设置和管理](customer-accounts.md)
+- [云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币](regional-authorization-overview.md)
