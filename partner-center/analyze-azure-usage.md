@@ -1,6 +1,6 @@
 ---
 title: 分析 Azure 使用情况以帮助发展业务
-description: 了解如何使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。
+description: 了解如何使用合作伙伴中心获取有关客户的 Azure 订阅的使用情况的数据。 数据包括销售的订阅、有风险的订阅和正在使用的订阅。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367441"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031880"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>获取有关客户和 Azure 订阅的工作方式的数据
 

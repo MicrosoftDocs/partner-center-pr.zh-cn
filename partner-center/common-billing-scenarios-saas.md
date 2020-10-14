@@ -2,17 +2,17 @@
 title: 基于计费许可证的 SaaS 事务
 ms.topic: article
 ms.date: 05/05/2020
-description: 了解基于许可证的 SaaS 交易的合作伙伴中心的常见计费方案。
+description: 了解合作伙伴中心的常见计费方案，它们适用于基于许可证的软件即服务 (SaaS) 事务。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d65d23057ea0354fc77b1cc8a9c7fb16a343b3ee
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444570"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031340"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>合作伙伴中心基于许可证的 SaaS 事务的常见计费方案
 
@@ -24,13 +24,13 @@ ms.locfileid: "87444570"
 - 销售代理
 
 
-这些示例[通用计费方案](common-billing-scenarios.md)适用于合作伙伴中心的基于许可证的软件即服务（SaaS）订阅。
+这些示例 [通用计费方案](common-billing-scenarios.md) 适用于合作伙伴中心的基于许可证的软件即服务 (SaaS) 订阅。
 
 ## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>将免费试用版 SaaS 订阅转换为付费订阅
 
 此方案介绍了基于许可证的免费试用 SaaS 订阅的续订计费。 续订将在免费试用期结束时将免费试用版转换为付费订阅。
 
-在此示例中，你在6月10日购买了基于许可证的 SaaS （软件即服务）订阅的免费试用版。 当免费试用期结束时，此免费试用版会自动续订为付费订阅。
+在此示例中，你在6月10日购买了基于许可证的 SaaS (软件即服务) 订阅。 当免费试用期结束时，此免费试用版会自动续订为付费订阅。
 
 侦测文件将包含以下费用：
 
@@ -51,20 +51,20 @@ ms.locfileid: "87444570"
 | 购买日期 | 收费开始日期 | 收费结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 11 | $0 | 新建 | 免费试用 |
-| 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 11 | $0 | 取消 | 免费试用 |
+| 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 11 | $0 | Cancel | 免费试用 |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>将自定义计量 SaaS 订阅转换为其他 SKU
 
-此方案描述如何在同一日期将自定义计量 SaaS 订阅从一个库存单位（SKU）转换为同一产品的另一 SKU。
+此方案描述如何在同一日期将自定义计量 SaaS 订阅从一个库存 (SKU) 转换为同一产品的另一 SKU。
 
-在此方案中，你在某个产品下购买了一 SKU （银），并将其转换为同一日期下该产品下的其他可用 SKU （铜牌）。
+在此方案中，你在某个产品下购买了一个 SKU (银) ，并将其转换为同一日期下该产品下的另一个可用 SKU (铜牌) 。
 
 侦测文件将包含以下费用：
 
 | 购买日期 | SKU | 收费开始日期 | 收费结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | $20 | 新建 | 自定义计量 SaaS 订阅 |
-| 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 转换 | 自定义计量 SaaS 订阅的按比例 rebill |
+| 2019/06/10 | 银卡 | 2019/06/10 | 2019/06/10 | $20 | 1 | $20 | 新建 | 自定义计量 SaaS 订阅 |
+| 2019/06/10 | 银卡 | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 转换 | 自定义计量 SaaS 订阅的按比例 rebill |
 | 2019/06/10 | Bronze | 2019/06/10 | 2019/06/10 | $10 | 1 | $10 | 转换 | 自定义计量 SaaS 订阅 |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>在同一日期购买并取消 customer 指标 SaaS 订阅

@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006841"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032080"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户
 
@@ -51,7 +51,7 @@ ms.locfileid: "92006841"
 
 ### <a name="confirm-your-education-customers-verification-status"></a>确认教育客户的验证状态
 
-在客户帐户页上，请参阅 **特殊资格状态**。
+在客户 **帐户** 页上，请参阅 **特殊资格状态**。
 状态示例：
 
 - 如果客户通过验证：教育
@@ -90,7 +90,7 @@ ms.locfileid: "92006841"
 
 ### <a name="resubmit-for-verification"></a>重新提交以进行验证
 
-1. 导航到 "合作伙伴中心" 选项卡，然后导航到 "客户 **帐户** " 页。 刷新浏览器。 并验证公司页面是否更新为新的信息。 选择 " **更新** " 按钮，请求教育重新验证。
+1. 导航到 "合作伙伴中心" 选项卡，然后导航到 "客户 **帐户** " 页。 刷新浏览器并验证公司页面是否更新为新的信息。 选择 " **更新** " 按钮，请求教育重新验证。
 
 2. 如果更新的客户详细信息符合教育优惠，你将看到特殊的 **资格** 已更新为 " **教育**"。 如果仍看 **不到教育客户**，请联系支持人员进行手动验证。
 

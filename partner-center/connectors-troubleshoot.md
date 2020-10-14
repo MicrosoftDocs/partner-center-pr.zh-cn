@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 有关如何排查共同销售连接器问题的常见问题解答。
+description: 了解有关使用共同销售连接器的常见问题的解答。 阅读有关如何排查共同销售连接器问题的常见问题解答。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844651"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031260"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>联合销售引荐连接器疑难解答
 

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作伙伴现在可以对发票进行数字签名
+description: 了解印度合作伙伴中心合作伙伴如何能够查看数字签名发票，并接收在合作伙伴中心创建的订单发票的数字副本。
 author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8679146bc628514fb6b4885ee18651c2676fb18b
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490645"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031950"
 ---
 # <a name="view-digitally-signed-invoices"></a>查看数字签名发票
 
@@ -38,15 +38,13 @@ ms.locfileid: "89490645"
 
 3. 单击该签名。 将显示表明有效性的证书。
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="具有 已授权签字字段和签名验证状态 对话框的已签名发票，其中包含详细信息，签名属性选项，取消选项。"::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。" 以查看有关签名有效性的详细信息。
 
-4. 选择 " **签名属性** " 以查看有关签名有效性的详细信息。
-
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="签名属性详细信息视图显示有关对文档进行签名的人员、位置、验证过程和签名者的证书的信息。"::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。"::: 
 
 4. 你还可以确保证书路径正确，并且该证书是受信任的证书。
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="证书查看器 对话框显示多个选项卡，其中包含有关证书及其整个颁发链的详细信息。":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>有关发票和数字签名的其他信息
 

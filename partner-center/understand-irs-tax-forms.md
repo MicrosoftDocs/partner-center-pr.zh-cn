@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663908"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032030"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
 
@@ -54,7 +54,7 @@ ms.locfileid: "91663908"
 | 如果我是一个销售付费应用程序美国开发人员 .。。   | 我应该会收到以下形式： |
 |------------------------|-----------------------|
 | 在适用的纳税年度中，我**销售了 200 多个应用**，总购买金额**超过 20,000 美元**（**未**计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。| **1099-K：**<br/>归档方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 1099-K 表单包含**总购买**金额，而不是你收到的付款金额。| 
-| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的**付款金额至少为 10 美元**。<br/><br/>**OR**<br/><br/>在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) | **1099-杂项：**<br/>付款方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。| 
+| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的**付款金额至少为 10 美元**。<br/><br/>**或者**<br/><br/>在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) | **1099-杂项：**<br/>付款方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。| 
 | 以上内容都不适用。| 无 |
 | <br/><br/>**如果我是一个在应用程序中销售广告的美国开发人员 .。。** |<br/><br/>**我应该会收到以下形式：** |
 |在适用的税收年份，我收到的广告中的广告的 **费用至少为 $600** 。 | **1099-杂项：**<br/>付款方：Microsoft Online Inc<br/>EIN： \* \* \* \* \* 0505<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。 |
@@ -75,3 +75,7 @@ ms.locfileid: "91663908"
 
 > [!NOTE]
 > 如果你有其他问题或与 **IRS 税务表格**相关的问题，请在合作伙伴中心仪表板中转到 " [帮助和支持](https://partner.microsoft.com/dashboard/support/) "。 Microsoft 无法回答与你的具体税务情况相关的问题；对于这些问题，请向税务专业人士寻求建议。
+
+## <a name="next-steps"></a>后续步骤
+
+- [在商业市场中获得付款](marketplace-get-paid.md)

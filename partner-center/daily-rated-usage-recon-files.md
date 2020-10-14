@@ -2,17 +2,17 @@
 title: 每日分级的使用情况协调文件
 ms.topic: article
 ms.date: 06/12/2020
-description: 了解如何在合作伙伴中心读取每日分级使用情况协调文件。
+description: 了解如何在合作伙伴中心读取每日分级使用情况协调文件。 包含侦测文件中特定字段的说明。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281309"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031960"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
@@ -60,7 +60,7 @@ ms.locfileid: "89281309"
 | UsageDate | 服务使用日期。 |
 | MeterType | 计量器的类型。 |
 | MeterCategory | 用量对应的顶级服务。 |
-| 计量 ID | 所使用的计量的标识符。 |
+| MeterId | 所使用的计量的标识符。 |
 | MeterSubCategory | Azure 服务的类型，该类型可能会影响费率。 |
 | MeterName | 所使用的计量的度量单位。 |
 | MeterRegion | 此列标识数据中心在区域中的位置，这些服务中的 MeterRegion 适用并已填充。 |
@@ -70,7 +70,7 @@ ms.locfileid: "89281309"
 | ResourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
 | ResourceURI | 所使用资源的 URI。 |
 | ChargeType | 费用或调整的类型。  |
-| UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
+| 单价 | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | 数量 | 许可证数量。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | Unittype.pixel 度量 | 计量计量器的单位类型。  |
 | BillingPreTaxTotal | 税前的总帐单金额。<br/> _**BillingPreTaxTotal** = 楼层 ( # A1 [ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ] ) ，2) _ |
@@ -79,7 +79,7 @@ ms.locfileid: "89281309"
 | PricingCurrency | 价目表中的货币。 |
 | ServiceInfo1 | 在给定日期预配和使用的服务总线连接数。 |
 | ServiceInfo2 | 捕获可选的服务特定元数据的旧字段。 |
-| 标记 | 表示由用户设置的 Azure 资源的逻辑组织。 |
+| Tags | 表示由用户设置的 Azure 资源的逻辑组织。 |
 | AdditionalInfo | 其他列中未包括的任何其他信息。 |
 | EffectiveUnitPrice | 按单位收费的实际值，包括任何折扣、获得的信用额度等。 |
 | PCToBCExchangeRate | 定价货币应用于计费货币的汇率。 |
