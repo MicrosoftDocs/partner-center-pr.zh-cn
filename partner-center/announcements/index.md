@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844671"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081366"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "91844671"
 
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[2020 年 11 月更新：联机服务和软件通道授权指南](2020-october.md#11)|10 月 14 日|
+|产品/市场|[为非营利性组织引入 Introducing Microsoft 365 商务语音](2020-october.md#10)|10 月 12 日|
+|产品/市场|[现推出 Microsoft 365 语音会议功能促销，且即将推出 Microsoft 365 商务语音](2020-october.md#9)|10 月 9 日|
 |功能|[Azure 市场中的简化 Azure 应用体验](2020-october.md#8)|10 月 7 日|
 |产品/市场|[Microsoft Teams Rooms 高级 SKU 发布](2020-october.md#7)|10 月 5 日|
 |产品/市场|[ 通话套餐现在于新市场中推出](2020-october.md#6)|10 月 2 日|

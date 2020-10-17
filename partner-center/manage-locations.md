@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4435227cdd5d777d11c79bf4adc63471ad925e9
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
+ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006858"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92100767"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
 
@@ -54,7 +54,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
 
 4. 接受 Microsoft 合作伙伴协议并激活帐户。
 
-## <a name="add-a-location"></a>添加位置
+## <a name="add-an-mpn-location"></a>添加 MPN 位置
 
 1. 使用合作伙伴中心的 MPN 帐户登录。 MPN 帐户应具有全局管理员或帐户管理员权限。 
 
