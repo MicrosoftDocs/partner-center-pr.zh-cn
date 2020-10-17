@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: 向用户分配角色
           href: permissions-overview.md
+        - name: 查找你的角色
+          href: find-your-role.md
         - name: 成为控制面板供应商
           href: enroll-as-cpv.md
         - name: 重置用户密码
@@ -356,8 +358,9 @@
         - name: 支出常见问题解答
           href: payout-faq.md
 - name: 与客户联系
-  href: customer-accounts.md
   items:
+    - name: 与客户联系
+      href: connect-with-your-customers.md
     - name: 添加新客户
       href: add-a-new-customer.md
     - name: 请求经销商与客户的关系
