@@ -1,17 +1,17 @@
 ---
 title: 将你的合作伙伴帐户与其他合作伙伴帐户合并
-description: 作为合作伙伴中心活动的 Microsoft 合作伙伴的公司可以合并其帐户。
+description: 了解如何在合作伙伴中心为作为合作伙伴中心的活动 Microsoft 合作伙伴的公司合并合作伙伴帐户。
 ms.topic: article
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 6c2ac5560b77528766a4d0aa068f231e0aa0bc99
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444956"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175180"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>将你的合作伙伴帐户与其他合作伙伴帐户合并
 
@@ -23,7 +23,7 @@ ms.locfileid: "87444956"
 
 ## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>当两个合作伙伴选择合并其合作伙伴中心帐户时，会发生什么情况
 
-- 发起合并的合作伙伴组织将是合作伙伴全局帐户（PGA）。
+- 发起合并的合作伙伴组织将是 (PGA) 的合作伙伴全局帐户。
 
 - 受邀组织的 PGA 会成为开始公司的位置。
 
@@ -45,7 +45,7 @@ ms.locfileid: "87444956"
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果受邀将合作伙伴中心帐户与其他合作伙伴中心帐户合并，会出现什么情况
 
-如果你决定接受合并帐户的邀请：·你的 MPN ID 和位置将合并到受邀伙伴帐户的 PGA 中。
+如果你决定接受合并帐户的邀请：·你的 MPN ID (s) 和位置将合并到受邀伙伴帐户的 PGA 中。
 
 - 用户会将其角色完整地加入合并的帐户。
 
@@ -53,7 +53,7 @@ ms.locfileid: "87444956"
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>了解合作伙伴选择合并帐户时对计划和优势的影响
 
-- 在合并过程中，会保留所有现有能力（金/银）、购买（如 Microsoft Action Pack）以及相关权益。 如果两家公司都具有相同的能力，但其中一家是金牌，而另一家是金牌，而另一家公司的合作能力是最高的。 
+- 所有现有称职都 (金牌/银) 、购买 (如 Microsoft Action Pack) ，以及相关的好处是在合并过程中保留的。 如果两家公司都具有相同的能力，但其中一家是金牌，而另一家是金牌，而另一家公司的合作能力是最高的。 
 
 - Microsoft Action Pack 的最高周年日将在合并后保留。 例如，如果公司1的周年日为2020年6月1日 Action Pack 续订，公司2的周年 Action Pack 续订日期为10月2020，则 Microsoft 将使用10月2020日作为已合并公司的新周年日。
 
@@ -65,7 +65,7 @@ ms.locfileid: "87444956"
 
   - 资格：合作伙伴公司将会获得一个核心权益包，它与最高的实现相关联，另外还会获得特定于胜任度的特定福利。
 
-- 所有权益受[Microsoft 合作伙伴网络收益使用指南](https://aka.ms/partner-benefits-use-guide)的限制。 例如：激活的 O365 E3 令牌在激活后的十二（12）个月内有效。 为租户上的许可证激活令牌后，不能将这些许可证移动到其他租户。
+- 所有权益受 [Microsoft 合作伙伴网络收益使用指南](https://aka.ms/partner-benefits-use-guide)的限制。 例如：激活的 O365 E3 令牌在激活后的十二个 (12) 个月内可用。 为租户上的许可证激活令牌后，不能将这些许可证移动到其他租户。
 
 - 这两个公司的 MCP ID 关联将保留并与 PGA MPN ID 相关联。
 
@@ -80,15 +80,15 @@ ms.locfileid: "87444956"
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>邀请公司使用合作伙伴中心帐户合并其合作伙伴中心帐户
 
 >[!Note]
->若要执行帐户合并，你必须是公司的**帐户管理员**。
+>若要执行帐户合并，你必须是公司的 **帐户管理员** 。
 
-1. 从 "合作伙伴中心" 仪表板中选择 "**设置**"。 
+1. 从 "合作伙伴中心" 仪表板中选择 " **设置** "。 
 
-2. 选择 "**帐户合并**"。
+2. 选择 " **帐户合并**"。
 
-3. 添加要邀请的帐户的**合作伙伴配置文件**中的 MPN ID，并将其与你合并。 必须使用其合作伙伴全局 MPN ID。 不能使用 location MPN ID。
+3. 添加要邀请的帐户的 **合作伙伴配置文件** 中的 MPN ID，并将其与你合并。 必须使用其合作伙伴全局 MPN ID。 不能使用 location MPN ID。
 
-4. 当你选择 "**合并**" 时，邀请将发送给合作伙伴公司。 当他们接受你的请求时，你可以在合作伙伴中心内启动帐户合并。 如果公司拒绝请求合并帐户，则他们可以解释拒绝请求的原因。 "**合并历史记录**" 下提供了所有帐户合并的列表。
+4. 当你选择 " **合并**" 时，邀请将发送给合作伙伴公司。 当他们接受你的请求时，你可以在合作伙伴中心内启动帐户合并。 如果公司拒绝请求合并帐户，则他们可以解释拒绝请求的原因。 " **合并历史记录**" 下提供了所有帐户合并的列表。
 
 ## <a name="next-steps"></a>后续步骤
 

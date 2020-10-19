@@ -1,17 +1,17 @@
 ---
 title: 在商业市场中获得付款
-description: 了解如何在商业市场-Azure Marketplace 中接收收入支付。
+description: 了解如何在商业市场-Azure Marketplace 中接收收益支付。 包括支出策略、付出的支出状态和付出的支出。
 ms.service: marketplace
 ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591069"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175217"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商业市场中获得付款
 
@@ -42,7 +42,7 @@ ms.locfileid: "91591069"
 >[!Note]
 > 付出的支出状态适用于每个节目，分别 (Microsoft Store、广告、Azure Marketplace 等) 上。 如果要对所有程序进行支付，请分别在每个节目上保存付款。
 
-## <a name="payout-statements"></a>支出声明
+## <a name="payout-statements"></a>付款对账单
 
 支出报表显示你在交易历史记录中的产品/服务和外接程序的销售收入。 你还可以查看付款详细信息，并以 tsv 或 csv 格式下载报表。 若 [要详细](payout-statement.md) 了解如何访问支出报表和交易记录和付款报表的详细信息，请参阅费用报表。 此外，还可以使用 [合作伙伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts) 来系统地拉取支出报表。
 

@@ -2,18 +2,18 @@
 title: 确认收益资格
 ms.topic: how-to
 ms.date: 09/11/2020
-description: 请确保您有资格创建收益并支付激励计划。
+description: 请确保你有资格创建收益并在激励计划中付费。 查看合作伙伴中心的收入资格和收入规则。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70941e11abae1846132acc28169daa4c9153b36a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 82d1db0175a8038d0297eddd8f86dfba26bb8401
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714501"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175113"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>确认奖励收益资格
 

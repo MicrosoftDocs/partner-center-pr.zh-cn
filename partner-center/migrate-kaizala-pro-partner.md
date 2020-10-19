@@ -1,18 +1,18 @@
 ---
 title: 将 Kaizala Pro 订阅迁移到 Microsoft365
-description: 了解如何将 Kaizala Pro 订阅迁移到 Microsoft365 或 Office 365 版本。
+description: 了解如何将 Kaizala Pro 订阅迁移到 Microsoft365 或 Office 365 版本。 阅读本文，了解有关如何转换客户的详细信息。
 ms.topic: article
 ms.service: partner-dashboard
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 842f4c0f88eec370821fa05c40cfadeee7fee12a
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84611233"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175171"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>将 Kaizala Pro 独立订阅迁移到 Microsoft365 或 Office 365 版本
 
@@ -20,7 +20,7 @@ ms.locfileid: "84611233"
 
 若要确保客户的连续性，应将 Kaizala Pro 独立订阅过期的客户转换为受支持的 SKU 选项，如下所示。 建议将客户移动到订阅的每年结束日期之前的新订阅，以避免客户发生服务中断。
 
-如果使用 API （CREST 或合作者中心），可以通过评估订阅的结束日期，并将 "自动续订" 属性设置为 false，来发现过期订阅 `auto renew = False` 。
+如果使用 API ("CREST" 或 "合作伙伴中心") ，则可以通过评估订阅的结束日期以及将 "自动续订" 属性设置为 "false：" 来发现过期订阅 `auto renew = False` 。
 
 E4 订阅将 `auto renew=False` 在2020年7月1日设置为。 你可以随时将客户移到新计划中。
 
@@ -30,11 +30,11 @@ E4 订阅将 `auto renew=False` 在2020年7月1日设置为。 你可以随时�
 
 - [**适用于企业的 Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)，包括：  
    - Microsoft 365 商业基本版
-   - Microsoft 365 商业版标准
+   - Microsoft 365 商业标准版
    - Microsoft 365 商业高级版
     
 - [**Microsoft 365 前端**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)，包括：
-   - Microsoft 365 F3 （以前 Microsoft 365 F1）和 Office 365 F3
+   - Microsoft 365 F3（以前为 Microsoft 365 F1）和 Office 365 F3
     
 - [**适用于企业的 Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)，包括： 
    - Office 365 E1
@@ -61,7 +61,7 @@ C. 取消旧订阅
 
 ### <a name="a-purchase-the-new-subscription"></a>A. 购买新订阅
 
-1. 若要购买新的订阅，请从 "**合作伙伴中心**" 菜单中选择 "**客户**"，选择要移动的客户，然后选择 "**添加订阅**"。
+1. 若要购买新的订阅，请从 " **合作伙伴中心** " 菜单中选择 " **客户**"，选择要移动的客户，然后选择 " **添加订阅**"。
 
 2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。
 
@@ -69,11 +69,11 @@ C. 取消旧订阅
 
 ### <a name="b-reassign-current-user-licenses"></a>B. 重新分配当前用户许可证
 
-1. 若要重新分配客户的用户许可证，请在 "**合作伙伴中心**" 菜单中选择 "**客户**"，选择要移动的客户，然后选择 "**用户和许可证**"。 此时将打开客户的 "用户和许可证" 页。
+1. 若要重新分配客户的用户许可证，请在 " **合作伙伴中心** " 菜单中选择 " **客户**"，选择要移动的客户，然后选择 " **用户和许可证**"。 此时将打开客户的 "用户和许可证" 页。
 
-2. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择 "**管理许可证**"。
+2. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择 " **管理许可证**"。
 
-3. 在 "**管理许可证**" 页上，清除 "Kaizala Pro 独立许可" 复选框，并为客户要移到的订阅选择新的服务计划。
+3. 在 " **管理许可证** " 页上，清除 "Kaizala Pro 独立许可" 复选框，并为客户要移到的订阅选择新的服务计划。
 
 4.  选择“提交”。 确认页面列出了新的许可证分配。 继续对需要许可证分配的其他用户执行相同过程。
 
@@ -81,7 +81,7 @@ C. 取消旧订阅
 
 在将用户许可证移动至新服务后，可安全取消该客户级别的已停用订阅。
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 选择要取消其订阅的客户。
+1.  从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 选择要取消其订阅的客户。
 
 2.  在订阅详细信息页面中，将订阅设置为**已暂停**。
 

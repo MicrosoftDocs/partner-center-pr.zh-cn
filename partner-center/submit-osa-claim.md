@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 创建与申报 (CPOR) 型号的客户关联。 有助于管理 Microsoft 365 和 Dynamics 365 客户的销售、使用情况、& 奖励。
+description: 创建与申报 (CPOR) 型号的客户关联。 有助于管理 Microsoft 365 & Dynamics 365 客户的销售、使用情况、奖励。
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714351"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174992"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>针对 Microsoft 365 和 Dynamics 365，通过声明的记录 (CPOR) 模型的客户关联
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714351"
 
 - 奖励管理员
 
-2019年10月1日，Microsoft 开始使用 "CPOR 的申报合作伙伴" ("") 模型来管理与 Microsoft 365 和 Dynamics 365 客户相关的关联，这些客户与和 Dynamics 客户联系， (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU。
+2019年10月1日，Microsoft 开始使用 (CPOR) 模型的 "申报合作伙伴" 来管理与 Microsoft 365 和 Dynamics 365 客户相关的关联，和 Dynamics 客户与在线服务顾问联系) ， ("
 
 >[!Important]
-> 客户关联 (CPOR) 声明仅适用于在线服务咨询 (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU 应用程序奖励计划。 如果要为其他程序（如云解决方案提供商、托管分销商、托管或 Surface）提交合作声明，请参阅此处所述的合作声明过程。 <br><br>提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
+> 客户关联 (CPOR) 声明仅适用于在线服务咨询 (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU-Business 应用程序奖励计划。 如果要为其他程序（如云解决方案提供商、托管分销商、托管或 Surface）提交合作声明，请参阅此处所述的合作声明过程。 <br><br>提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
 
 你将需要以下信息来完成声明：
 
@@ -63,7 +63,7 @@ ms.locfileid: "90714351"
 
 - 如果现有与 Dynamics 365 或 Power BI 客户的关联，则这些关联将保持有效，直到其订阅过期。
 
-- 一个客户可以具有多个合作伙伴，但每个工作负荷 (适用于 OSA 销售和 OSU Business Applications 的 Microsoft 365 OSU) 或订阅 (，) 只能与一个合作伙伴关联。
+- 一个客户可以具有多个合作伙伴，但每个工作负荷 (适用于 OSA-Sell 和 OSU-Business 应用程序的 OSU-Microsoft 365) 或订阅 (，) 只能与一个合作伙伴关联。
 
 ## <a name="create-a-customer-association"></a>创建客户关联
 

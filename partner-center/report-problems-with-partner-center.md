@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如何报告合作伙伴中心问题并为支持团队收集诊断信息。
+description: 了解如何报告合作伙伴中心的问题以及如何为合作伙伴支持团队收集诊断信息。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220245"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175229"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何报告合作伙伴中心的问题并提交任何日志或诊断信息
 

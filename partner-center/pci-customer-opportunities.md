@@ -1,6 +1,6 @@
 ---
 title: 合作伙伴中心见解-CloudAscent 电网报告
-description: 了解合作伙伴中心仪表板中的 CloudAscent 电网报表。
+description: 了解合作伙伴中心的 CloudAscent 电网报表。 包括有关客户电网购买 Microsoft 产品的信息。
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811322"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175281"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>合作伙伴中心仪表板中提供的 CloudAscent 电网报表
 
@@ -40,14 +40,14 @@ ms.locfileid: "90811322"
 
    我们定义了顶层非托管方法：
 
-   - **基于的顶级非托管用户**–包括有300或更多员工的帐户。 基于用户的帐户是首次购买或扩展基于用户的订阅产品（如 M365、D365 或 Surface）的理想目标。
+   - **基于的顶级非托管用户**–包括有300或更多员工的帐户。 User-Based 帐户是首次购买或扩展基于用户的订阅产品（如 M365、D365 或 Surface）的理想目标。
    - **基于顶级非托管计算** –包括 Azure 可能大于 $ 10k 的帐户。 基于计算的帐户包括现有 Azure。 将来可能需要购买 Azure，但可能会有 Azure 大于 $ 10k 的帐户。
 
 2. **中型企业** 包括有25到300名员工的现有客户和客户帐户。
 
 3. **小型企业** 包含25个以上员工的所有剩余企业。
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="SMC 类型的客户。":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="客户机会概述仪表板的屏幕截图。":::
 
 **排名靠前的非托管** 和 **中型企业** Subsegments 为 microsoft 和 microsoft 合作伙伴 (LTV) 客户提供高生存期值。 因此，它们是在此段中推动增长的领导领域。 在这两个 subsegments 中，我们更好地定位了 M365、盈利和 D365/Azure 业务线 (LOB) 应用中的套接字，并为 Microsoft 实现了高 LTV。
 
@@ -55,7 +55,7 @@ ms.locfileid: "90811322"
 
 以下屏幕截图表示市场的三个 SMB Subsegments 和优化路由。 CloudAscent 优先处理所有顶级非托管和中型企业帐户的分析、评分和建模。
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="SMB subsegments 的屏幕截图。":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="客户机会概述仪表板的屏幕截图。":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent 机器学习
 
@@ -67,7 +67,7 @@ SMB 使用机器学习技术来推动顶级非托管和中型业务领域中的�
 
 - **优化**：机器学习系统通过每月使用事务数据并按季度对订阅数据进行优化，来优化模型。  使用 win/丢失数据，机器学习调整算法，并通过将群集建议与在 MSX 中操作的机会进行比较来验证模型是否按预期方式工作。
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="SMB 机器学习的屏幕截图。":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="客户机会概述仪表板的屏幕截图。":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent 电网
 
@@ -91,9 +91,9 @@ SMB 使用机器学习技术来推动顶级非托管和中型业务领域中的�
 
    - 意向评分每月更新一次。
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB 预测模型。":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="客户机会概述仪表板的屏幕截图。":::
 
-3. 群集功能
+3. 群集
 
    用于拟合和意向的信号合并为聚类分析分数。 CloudAscent 有四个分类：
 
@@ -121,15 +121,13 @@ SMB 使用机器学习技术来推动顶级非托管和中型业务领域中的�
 
       4. 最后，这些分段组构成了分类。  例如，A1、A2、A3、A4 窗体。
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="CloudAscent 模型。":::
-
-   对于这些客户，我们建议以 "立即行动" 为目标并评估客户。
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="客户机会概述仪表板的屏幕截图。" 为目标并评估客户。
 
 ## <a name="cloudascent-products--models"></a>CloudAscent Products & 型号
 
 下图提供了 CloudAscent 中的每个电网模型的视图：
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent 电网模型。":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="客户机会概述仪表板的屏幕截图。":::
 
 空白模型由现有 Microsoft 客户的预测构成，这些客户没有产品和/或不是网络的新客户。
 

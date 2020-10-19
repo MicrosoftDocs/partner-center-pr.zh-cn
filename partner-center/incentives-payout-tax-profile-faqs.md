@@ -2,18 +2,18 @@
 title: 关于奖励付款和税务资料的常见问题解答
 ms.topic: article
 ms.date: 09/11/2020
-description: 有关激励支出和税务配置文件的常见问题。
+description: 有关激励支出和税务配置文件的常见问题。 问题包括无法查看支出和税务配置文件的原因，以及如何处理这些配置文件。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999301"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175338"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>有关激励支出和税务配置文件的常见问题
 

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 浏览合作伙伴中心统一报表仪表板。
+description: 了解如何从合作伙伴中心统一报表仪表板和合作伙伴中心见解报表下载和导出数据。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100757"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175277"
 ---
-# <a name="download-reports"></a>下载报表
+# <a name="download-reports"></a>下载报告
 
 **相应的角色**
 - 主管人员报表查看器

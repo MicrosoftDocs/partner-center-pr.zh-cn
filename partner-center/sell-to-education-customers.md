@@ -1,6 +1,6 @@
 ---
 title: 如何向教育客户销售产品/服务
-description: 了解如何创建教育客户并向合作伙伴中心销售优惠。
+description: 了解如何创建教育客户并向合作伙伴中心销售优惠。 包括确认教育客户的验证状态。
 ms.topic: how-to
 ms.date: 10/06/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032080"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175071"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户
 

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 排查合作伙伴中心的注册问题
+description: 排查试图注册伙伴中心时遇到的问题。 通过支付方法、忘记密码等解决问题。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000611"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174847"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>帐户设置或 MPN 续订问题的疑难解答
 
@@ -31,7 +31,7 @@ ms.locfileid: "91000611"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果要从合作伙伴成员中心进行迁移并且无法编辑任何公司信息字段，会发生什么情况
 
-如果你的公司已在合作伙伴中心（ (说 CSP 帐户) ）中存在，则将显示一个只读屏幕，该屏幕将显示有关你公司的所有信息，因为它存在于合作伙伴中心。
+如果你的公司已在合作伙伴中心中存在， (说 CSP 帐户) ，你会看到一个只读屏幕。 此屏幕将显示在合作伙伴中心存在的有关公司的所有信息。
 
 无法更改此屏幕上的详细信息。 这是由设计决定的，而不是错误。
 
@@ -40,8 +40,7 @@ ms.locfileid: "91000611"
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部门已关闭 **合作伙伴中心的注册**，
 
-
-你会看到此消息，因为已禁用病毒用户或在 Azure AD 租户上禁用病毒注册。 Azure AD 帐户的全局管理员可以通过运行以下 PowerShell 命令来启用所需的功能：
+你会看到此消息，因为已禁用病毒用户，或者是因为 Azure AD 租户上禁用了病毒注册。 Azure AD 帐户的全局管理员可以通过运行以下 PowerShell 命令来启用所需的功能：
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -49,9 +48,9 @@ ms.locfileid: "91000611"
 
 ## <a name="you-forgot-your-password"></a>你忘记了密码
 
-如果忘记了密码，请在登录页面上选择 " **无法访问帐户？** " 链接，以重置密码，或要求全局管理员为你分配新凭据。
+如果忘记了密码，请在登录页上选择 " **无法访问帐户？** " 链接。 此选项可让你重置密码或请求全局管理员为你分配新凭据。
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 "告诉我们公司的情况" 屏幕上，收到 "出现错误" 错误
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>在 "告诉我们你的公司" visualbasicwinappprojectscriptonlyviewbutton 上，你会收到 "出现错误" 错误
 
 如果你无意中在公司电话号码中使用特殊字符、空格或国家/地区代码，则会出现此错误消息。 在 "电话号码" 字段中输入的值最多只能包含10个字符。
 

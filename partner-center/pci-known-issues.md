@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解与合作伙伴中心见解（PCI）报表关联的任何已知问题。
+description: 阅读与合作伙伴中心见解关联的任何已知问题 (PCI) 报表。 信息可能包括已知呈现问题或报告限制。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54f381fcd296b4e526cc4bcd9e977c34b6599c2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436856"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175254"
 ---
 # <a name="known-issues-with-partner-center-insights"></a>合作伙伴中心见解的已知问题
 
@@ -26,4 +26,4 @@ ms.locfileid: "86436856"
 
 ## <a name="next-steps"></a>后续步骤
 
-- 详细了解[合作伙伴中心见解](partner-center-insights.md)。
+- 详细了解 [合作伙伴中心见解](partner-center-insights.md)。

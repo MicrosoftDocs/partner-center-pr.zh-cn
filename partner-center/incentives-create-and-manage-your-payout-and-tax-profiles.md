@@ -2,18 +2,18 @@
 title: 合作伙伴中心中的付款和税务配置文件
 ms.topic: how-to
 ms.date: 09/11/2020
-description: 创建并管理你的支出和税务配置文件，以便你可以为奖励工作付费。
+description: 创建并管理你的支出和税务配置文件，以便你可以为奖励工作付费。 包括创建、管理和使用不同的配置文件。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999311"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175357"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理激励支出和税务配置文件
 

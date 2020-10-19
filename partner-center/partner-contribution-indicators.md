@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解7个关键合作伙伴贡献指标 (PCI) ，其中展示了如何利用 Dynamics 365 客户参与或 Dynamics 365 财务和运营。
+description: 了解7个合作伙伴贡献指标 (PCI) ，其中展示了如何利用 Dynamics 365 客户参与或 Dynamics 365 财务和运营。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714281"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175020"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作伙伴贡献指标 (PCI) 显示对客户成功的7个关键衡量标准的合作伙伴影响
 
@@ -89,7 +89,7 @@ PCI 分数确定资格资格，如下所示：
 |客户成功-每月活动用户增长  | 25磅 |
 
 下图提供了快速、直观的参考。
-:::image type="content" source="images/pci/perfnew.png" alt-text="显示一个图表，该图表具有7个 (PCI) 的每个合作伙伴贡献指标的最大分数。" border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="显示 PCI 得分以实现银或金牌资格。" border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>每个 PCI 指标的阈值
 
@@ -111,7 +111,7 @@ PCI 分数确定资格资格，如下所示：
 | PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：功能顾问 | 功能指示器：功能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：每月活动用户增长率 |
 |---|---|---|---|---|---|---|---|
 | **最大分数** | 10点 | 10点 | 15磅 | 15磅 | 5磅 | 20磅 | 25磅 |
-| **各种** | $300000 | 10点 | 10点 | *\* 请参阅说明* | 5磅 | 5磅 | 25% |
+| **各种** | 300,000 美元 | 10点 | 10点 | *\* 请参阅说明* | 5磅 | 5磅 | 25% |
 | **各种** | $150000 | 5磅 | 5磅 |*\* 请参阅说明* | 2个点 | 1点 | 25% |
 
 *\* 注意：根据基准顾问数量，增长目标会有所不同。有关增长目标，请参阅 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 。*
@@ -122,7 +122,7 @@ PCI 分数确定资格资格，如下所示：
 | PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：功能顾问 | 功能指示器：功能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：每月活动用户增长率 |
 |---|---|---|---|---|---|---|---|
 | **最大分数** | 10点 | 10点 | 15磅 | 15磅 | 5磅 | 20磅 | 25磅 |
-| **各种** | $300000 | 3磅 | 15磅 | *\* 请参阅说明* | 5磅 | 3磅 | 25% |
+| **各种** | 300,000 美元 | 3磅 | 15磅 | *\* 请参阅说明* | 5磅 | 3磅 | 25% |
 | **各种** | $150000 | 1点 | 5磅 |*\* 请参阅说明* | 2个点 | 1点 | 25% |
 
 *\* 注意：根据基准顾问数量，增长目标会有所不同。有关增长目标，请参阅 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 。*
@@ -313,7 +313,7 @@ Net customer 添加的性能指标和 [本文前面所述](partner-contribution-
 
 有关使用此区域的详细信息，请参阅本文末尾的资源和视频集合。
 
-   :::image type="content" source="images/pci/howto.png" alt-text="如何阅读图表":::
+   :::image type="content" source="images/pci/howto.png" alt-text="显示 PCI 得分以实现银或金牌资格。":::
 
 ## <a name="next-steps"></a>后续步骤
 

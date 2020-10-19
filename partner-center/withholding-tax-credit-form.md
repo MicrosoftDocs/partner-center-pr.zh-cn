@@ -2,19 +2,19 @@
 title: 为预缴税金贷记
 ms.topic: article
 ms.date: 06/05/2020
-description: 在你的合作伙伴中心帐户上接收有关预缴税金的信用额度
+description: 在你的合作伙伴中心帐户上接收减税的信用额度。 信息包括提交预缴税金请求的步骤。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98318b193691ebb50011a66c9caadd2f1ac61e8d
-ms.sourcegitcommit: d407cdf36ddb634cf209579797b08fd81cf453ea
+ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/15/2020
-ms.locfileid: "88251266"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174930"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>在你的合作伙伴中心帐户上接收有关预缴税金的信用额度
 
@@ -45,9 +45,7 @@ ms.locfileid: "88251266"
 
 4. 查看发票详细信息，以确保提交正确发票的请求。
 
-   :::image type="content" source="images/wht2.png" alt-text="为发票完成预缴税金详细信息":::
-
-5. 在 " **预缴税金详细信息**" 下输入 "预缴 total"。 "预缴 total" 是预期的贷记量。
+   :::image type="content" source="images/wht2.png" alt-text="为发票提交新的预缴税金" 是预期的贷记量。
 
 6. **附加** 税务证书。 你将需要在预缴税金请求中包含**预缴税金证书**的**数字副本**。 当你向本地税务主管机构支付税费时，你将收到本证书。 预缴税金证书中的发票税额必须与纳税预缴请求中的总金额匹配。
 

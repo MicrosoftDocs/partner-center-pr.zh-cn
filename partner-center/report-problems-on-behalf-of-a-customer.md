@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解何时将客户服务问题上报给 Microsoft，以及如何提交支持票证。
+description: 了解何时将客户服务问题上报给 Microsoft，以及如何为不同类型的 Microsoft 服务提交支持票证。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999781"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175081"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -100,7 +100,7 @@ Microsoft 不为商业 marketplace 产品提供产品支持。 你需要与发�
     - 支持部门的电子邮件
     - 支持部门的联系电话号码
 
-## <a name="faq"></a>常见问题
+## <a name="faq"></a>常见问题解答
 
 请参阅以下信息，了解有关你可能代表客户提交的服务请求的常见问题。 
 
