@@ -9,14 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52f123f06da283036fa7758afd335768323594e4
-ms.sourcegitcommit: c47213f585b3cbc12ba0f7251fb44d1412815130
+ms.openlocfilehash: 4b8d849de6987e107c327d2fd2dcf892fae5a3f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "91952373"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198033"
 ---
-# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>管理合作伙伴中心的共同销售机会，以定义交易并更好地满足客户需求
+# <a name="manage-co-sell-opportunities-in-partner-center"></a>管理合作伙伴中心的共同销售机会
 
 **适用于**
 

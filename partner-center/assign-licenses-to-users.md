@@ -1,22 +1,22 @@
 ---
-title: 管理客户帐户中的用户
+title: 管理客户帐户的用户和用户许可证
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何为客户创建用户帐户、添加或删除用户许可证、重置用户密码、删除用户帐户或还原用户帐户。
+description: 了解如何在合作伙伴中心为你的客户管理用户，例如创建用户帐户、添加或删除用户许可证、重置用户密码、删除或还原用户帐户。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527673"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198013"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作伙伴中心的客户帐户的用户管理任务
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客户帐户的用户和用户许可证
 
 **适用于**
 
@@ -58,7 +58,7 @@ ms.locfileid: "87527673"
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>为客户添加或删除用户许可证
 
-以下步骤适用于在 Microsoft 产品中添加或删除用户许可证。 若要在商业应用商店中添加或删除基于许可证的 SaaS 订阅的用户许可证，请参阅[添加或删除 SaaS 订阅的许可证](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
+以下步骤适用于在 Microsoft 产品中添加或删除用户许可证。 若要在商业应用商店中添加或删除基于许可证的 SaaS 订阅的用户许可证，请参阅 [添加或删除 SaaS 订阅的许可证](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
@@ -66,12 +66,12 @@ ms.locfileid: "87527673"
 
 3. 在客户菜单中，选择“用户和许可证”****。
 
-4. 从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新的许可证，并且你想要将其分配给尚不具备这些许可证的用户，则可以使用**筛选用户依据 ...** 选项来查找适当的组。
+4. 从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新的许可证，并且你想要将其分配给尚不具备这些许可证的用户，则可以使用 **筛选用户依据 ...** 选项来查找适当的组。
 
-5. 选择 "**管理许可证**"。 进行更改，并**保存**。
+5. 选择 " **管理许可证**"。 进行更改，并 **保存**。
 
 > [!NOTE]
-> 对于[Azure Marketplace 产品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，许可证分配和激活是通过发布产品的独立软件供应商（ISV）来管理的。
+> 对于 [Azure Marketplace 产品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，许可证分配和激活通过独立的软件供应商进行管理 (ISV) 发布产品。
 
 <a href="" id="resetpassword"></a>
 
@@ -83,7 +83,7 @@ ms.locfileid: "87527673"
 
 3.  在客户菜单中，选择“用户和许可证”****。 从列表中选择用户。
 
-4.  在屏幕底部，选择 "**重置密码**"。 
+4.  在屏幕底部，选择 " **重置密码**"。 
 
 5.  将新的临时密码发送给用户。
 
@@ -91,7 +91,7 @@ ms.locfileid: "87527673"
 
 ## <a name="delete-user-accounts-for-a-customer"></a>为客户删除用户帐户
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"。 从列表中选择客户。
+1.  从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 从列表中选择客户。
 
 2.  在客户菜单中，选择“用户和许可证”****。 从列表中选择用户。
 
@@ -103,15 +103,15 @@ ms.locfileid: "87527673"
 
 ## <a name="restore-deleted-user-accounts"></a>还原删除的用户帐户
 
-1.  从 "**合作伙伴中心**" 菜单中，选择 "**客户**"，然后从列表中选择客户。
+1.  从 " **合作伙伴中心** " 菜单中，选择 " **客户**"，然后从列表中选择客户。
 
-2.  选择 "**用户和许可证**"。
+2.  选择 " **用户和许可证**"。
 
 3.  选择**已删除的用户 ( )**，当存在可以还原的已删除用户时，应读取 **(1)** 或更大。
 
-4.  选择一个或多个已删除用户的复选框，然后选择 "**还原**"。
+4.  选择一个或多个已删除用户的复选框，然后选择 " **还原**"。
 
-    所有选定的用户帐户将重新出现在 "**用户和许可证**" 页中。
+    所有选定的用户帐户将重新出现在 " **用户和许可证** " 页中。
 
 ## <a name="related-topics"></a>相关主题
 

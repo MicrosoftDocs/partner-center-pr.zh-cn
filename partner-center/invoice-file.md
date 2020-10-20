@@ -1,5 +1,5 @@
 ---
-title: 了解计费发票中的字段
+title: 了解合作伙伴中心帐单发票
 ms.topic: article
 ms.date: 05/18/2020
 description: 了解发票文件中合作伙伴中心帐单的字段。信息包括所有发票字段和一次性费用字段的字段和定义。
@@ -7,14 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175336"
+ms.locfileid: "92198003"
 ---
-# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作伙伴中心帐单发票-了解如何读取计费和一次性费用字段
+# <a name="understand-partner-center-billing-invoice-fields"></a>了解合作伙伴中心帐单发票字段
 
 **相应的角色**
 
