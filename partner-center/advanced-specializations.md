@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 增强合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌/银能力一起获得。
+description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌和银能力结合在一起。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100747"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198073"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>获得先进的专用化来展示专长并向客户 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>获得先进的专用化来展示专长
 
 许多合作伙伴在关键领域获得 [黄金能力](learn-about-competencies.md) ，接下来，来赢得一项高级专业。
 

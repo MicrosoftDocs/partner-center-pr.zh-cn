@@ -1,7 +1,7 @@
 ---
 title: 查看激励和计划详细信息
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 使用这些页可以查看、管理和导出支付和收益详细信息，以及计划状态和完整事务历史记录。
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406340"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198083"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理和导出激励计划的详细信息
 
@@ -76,7 +76,7 @@ ms.locfileid: "91406340"
 >请参阅下表以了解有关 " **状态** " 列中显示的不同注册状态的详细信息。
 
 
-| **Status**         | **出现在** |
+| **状态**         | **出现在** |
 |:------------------------------------|:------------------|
 | 必需的操作  | 合作伙伴已接受邀请来注册激励计划，但可能需要更新银行或税务信息。 有关后续步骤的详细信息，请参阅 " **所需操作** " 列，或者在合作伙伴中心更新银行或税务信息的链接。 |
 | 已中断  | 奖励系统中不再提供特定激励计划。 |
@@ -144,7 +144,7 @@ ms.locfileid: "91406340"
 |即将处理      |支付订单在处理付款之前生成待定内部评审。       |否       |
 |等待纳税发票      |您的纳税发票不完整或无效。          |必须更新纳税发票，才能收到付款         |
 |审查期间被拒绝        |付款在评审期间被拒绝。          |有关详细信息，请联系 Microsoft 支持人员         |
-|Failed        |由于 Microsoft 系统错误，付款失败。         |有关详细信息，请联系 Microsoft 支持部门         |
+|已失败        |由于 Microsoft 系统错误，付款失败。         |有关详细信息，请联系 Microsoft 支持部门         |
 |正在学习     |付款正在进行。         |否         |
 |付款不正确        |付款 recouping 正在进行。          |否        |
 |已发送        |已将付款发送到银行。          |否       |
@@ -198,17 +198,23 @@ ms.locfileid: "91406340"
 >- **lastPaymentCurrency**  接收最新付款的货币，当前登录伙伴的所有 MPNs 都具有访问权限。 如果未收到付款，则上一付款币种为美元。
 >- **earningAmountInLastPaymentCurrency**  采用上一付款币种的收入金额。
 
+下表列出了调整的原因代码及其说明。
+
+|**原因代码**   |**说明**   |
+|------------------|:-------------------------------------|
+| AR 相容性 | 当合作伙伴不按时支付 Microsoft 发票时，可减少收入的调整。 |
+| 合作翻转 | 将共同市场收入转移到另一期的调整，或将共同市场收入转换为折扣。 |
+| Ops 调整 | 更正 Microsoft 系统计算错误的调整。 |
+| Ops 调整 Microsoft 不正确计算器 | 更正计算错误的调整。 |
+| Ops 调整 Microsoft 错误注册 | 与注册相关的计算错误调整。 |
+|  (订阅的合作伙伴映射) MCI/CSP | 纠正订阅不一致的调整。 |
+| 策略例外 | 替代程序规则的调整。  |
+| 上期收益 | 当前收益期之外的收入调整。 |
+
+下表列出了 "事务历史记录下载" 页上显示的字段及其说明。
 
 |**列名**   |**说明**   |
 |------------------|:-------------------------------------|
-| AR 相容性 | 当合作伙伴不按时支付 Microsoft 发票时，减少收入的调整 |
-| 合作翻转 | 将共同市场收入转移到其他期间或将合作收入转换为折扣的调整 |
-| Ops 调整 Microsoft 不正确计算器 | 更正计算错误的调整 |
-| Ops 调整 Microsoft 错误注册 | 与注册相关的计算错误的调整 |
-| 策略例外 | 替代程序规则的调整  |
-| Ops 调整 | 更正 Microsoft 系统计算错误的调整 |
-| 上期收益 | 当前收入期间之外的收入调整 |
-|  (订阅的合作伙伴映射) MCI/CSP | 纠正订阅不一致的调整 |
 |customerId   |客户标识符   |
 |customerName   |事务客户名称   |
 |earningAmount   |按原始交易币种的收入金额   |
