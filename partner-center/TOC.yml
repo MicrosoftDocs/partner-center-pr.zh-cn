@@ -1,10 +1,11 @@
-- name: 关于 Microsoft 合作伙伴中心
+- name: Microsoft 合作伙伴中心文档
   href: index.yml
 - name: 公告
   href: announcements/TOC.md
 - name: 合作伙伴网络成员身份
-  href: mpn-overview.md
   items:
+    - name: 与 Microsoft 合作
+      href: mpn-overview.md
     - name: 创建合作伙伴中心帐户
       href: mpn-create-a-partner-center-account.md
     - name: 获取工作电子邮件地址
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: 云解决方案提供商区域授权租户合并说明
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: 概述 - 确认客户已接受 Microsoft 客户协议的新方式
+    - name: 更新方法以确认接受 Microsoft 客户协议
       href: confirm-consent.md
-    - name: 如何确认客户已接受 Microsoft 客户协议
+    - name: 确认接受 Microsoft 客户协议
       href: confirm-customer-agreement.md
     - name: 何时代表客户证明已接受客户协议
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: Office 365 政府版 GCC 合作伙伴和客户资格标准
           href: csp-gcc-validate.md
-        - name: 德国 Microsoft 云合作伙伴中心中的用户和许可证管理
+        - name: 德国 Microsoft 云的用户和许可证管理
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: 美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
+        - name: 美国政府 Microsoft 云的用户和许可证管理
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: 管理合作伙伴中心帐户
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: 引荐
   items:
-    - name: 如何拓展业务
+    - name: 拓展业务
       href: grow-your-business.md
     - name: 引荐概述
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: 创建执行证明
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: 将纳税发票作为 PoE 提交
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: 奖励合作申请
       items:
         - name: 奖励合作申请
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: 一次性和选择性定期费用的方案
           href: common-billing-scenarios-onetime-recurring.md
-        - name: 计费发票 - 阅读计费和一次性费用字段
+        - name: 了解帐单发票
           href: invoice-file.md
         - name: 基于许可证的计费
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: 接收预扣税额度
           href: withholding-tax-credit-form.md
-        - name: 地区税务 - 语音服务
+        - name: 语音服务的地区税务
           href: tax-and-fees-voice-services.md
         - name: 商业市场发布者的税务详细信息
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: 删除与客户的经销商关系
       href: remove-a-relationship.md
-    - name: 客户向合作伙伴委托或撤消管理权限
+    - name: 从客户那里获取委派管理权限
       href: customers-revoke-admin-privileges.md
     - name: 查看客户列表
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Azure 计划
       href: azure-plan-lp.md
       items:
-        - name: Azure 计划 - 入门
+        - name: Azure 计划概述
           href: azure-plan-get-started.md
         - name: 购买 Azure 计划
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: 将客户过渡到 Azure 计划
           href: azure-plan-transition.md
-        - name: 合作伙伴赚取的返点 - 概述
+        - name: 合作伙伴赚取的返点
           href: partner-earned-credit.md
         - name: 合作伙伴赚取的返点的计算与支付方式
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: 在合作伙伴中心分配 Azure 订阅
           href: assign-azure-subscriptions.md
-        - name: 将许可证分配给用户
+        - name: 管理用户和许可证
           href: assign-licenses-to-users.md
         - name: 将许可证或服务添加到现有订阅
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: 向多个用户分配或撤销许可证
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: 将基于许可证的服务客户移到云服务提供商计划中
+        - name: 将基于许可证的服务客户移动到 CSP 计划
           href: transition-seat-based-services.md
         - name: 销售《我的世界》教育版订阅
           href: minecraft-subscriptions.md
