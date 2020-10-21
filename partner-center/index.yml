@@ -1,168 +1,113 @@
-### YamlMime:Hub
+### YamlMime:Landing
 title: 合作伙伴中心文档
 summary: 合作伙伴中心是你通过 Microsoft 合作伙伴网络 (MPN)、云解决方案提供商 (CSP) 计划等等来发展业务的地方。
-brand: windows
 metadata:
   title: 合作伙伴中心文档
   description: 合作伙伴中心是你通过 Microsoft 合作伙伴网络 (MPN)、云解决方案提供商 (CSP) 计划等等来发展业务的地方。
   ms.service: partner-dashboard
   ms.subservice: partnercenter-csp
-  ms.topic: hub-page
+  ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 09/25/2020
-  ms.openlocfilehash: 43c84bcb7cd5d919d93300a37fbc77bf4bb9a2a6
-  ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/13/2020
-  ms.locfileid: "92006868"
-highlightedContent:
-  items:
-  - title: 了解重要的合作伙伴中心更新
-    itemType: whats-new
-    url: announcements/index.md
-  - title: 管理 Microsoft 合作伙伴网络会员权益和产品/服务
-    itemType: get-started
-    url: manage-your-partner-network-benefits.md
-  - title: 加入 API 和 SDK 早期采用者计划
-    itemType: deploy
-    url: /partner-center/develop/early-adopter-program
-  - title: 获取高级专用化认证
-    itemType: whats-new
-    url: advanced-specializations.md
-  - title: ISV 合作伙伴 - 创建产品/服务并将其发布到市场、AppSource 和云解决方案提供商分销商渠道
-    itemType: whats-new
-    url: /azure/marketplace/
-  - title: 合作伙伴安全要求常见问题解答
-    itemType: overview
-    url: partner-security-requirements-faq.md
-  - title: 合作伙伴中心内的全新商务体验 – Azure 计划
-    itemType: whats-new
-    url: azure-plan-lp.md
-conceptualContent:
-  title: 在合作伙伴中心内工作
-  items:
-  - title: 登录和管理帐户
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92198043"
+landingContent:
+- title: 开始使用合作伙伴中心
+  linkLists:
+  - linkListType: get-started
     links:
-    - url: mpn-create-a-partner-center-account.md
-      itemType: how-to-guide
-      text: 创建合作伙伴中心帐户
-    - url: manage-locations.md
-      itemType: how-to-guide
-      text: 管理公司位置
-    - url: azure-plan-get-started.md
-      itemType: how-to-guide
-      text: 开始将即用即付费率与 Azure 计划配合使用
-    footerLink:
-      url: partner-center-account-setup.md
-      text: 查看详细信息
-  - title: 与客户联系
+    - text: 合作伙伴中心公告
+      url: announcements/index.md
+    - text: 与 Microsoft 合作
+      url: mpn-overview.md
+    - text: 创建合作伙伴中心帐户
+      url: mpn-create-a-partner-center-account.md
+    - text: 管理 MPN 成员资格权益和优惠
+      url: manage-your-partner-network-benefits.md
+    - text: 了解资格
+      url: learn-about-competencies.md
+- title: 拓展业务
+  linkLists:
+  - linkListType: concept
     links:
-    - url: confirm-customer-agreement.md
-      itemType: how-to-guide
-      text: 新 Microsoft 客户协议
-    - url: assign-licenses-to-users.md
-      itemType: how-to-guide
-      text: 管理客户许可证
-    - url: see-your-customer-list.md
-      itemType: how-to-guide
-      text: 查看客户列表
-    footerLink:
+    - text: 与客户联系
       url: connect-with-your-customers.md
-      text: 查看详细信息
-  - title: 拓展业务
+    - text: 云解决方案提供商 (CSP) 计划
+      url: csp-overview.md
+    - text: 获取客户引荐数
+      url: manage-leads.md
+    - text: 奖励计划
+      url: incentives-get-started-intro.md
+    - text: 管理联合销售机会
+      url: manage-co-sell-opportunities.md
+    - text: 获取高级专用化认证
+      url: advanced-specializations.md
+- title: 关键概念和任务
+  linkLists:
+  - linkListType: concept
     links:
-    - url: referrals.md
-      itemType: how-to-guide
-      text: 引荐和业务档案
-    - url: manage-leads.md
-      itemType: how-to-guide
-      text: 管理潜在客户，例如客户询盘、营销团队确认的潜在客户和销售团队确认的潜在客户
-    - url: manage-co-sell-opportunities.md
-      itemType: how-to-guide
-      text: 管理联合销售机会
-    footerLink:
-      url: grow-your-business.md
-      text: 查看详细信息
-  - title: 了解计费和税
-    links:
-    - url: billing-basics.md
-      itemType: how-to-guide
-      text: 计费基础知识
-    - url: read-your-bill.md
-      itemType: how-to-guide
-      text: 阅读帐单
-    - url: tax-and-tax-exemptions.md
-      itemType: how-to-guide
-      text: 税和免税
-    footerLink:
-      url: billing.md
-      text: 查看详细信息
-  - title: 分析业务数据
-    links:
-    - url: partner-contribution-indicators.md
-      itemType: how-to-guide
-      text: 合作伙伴贡献指示器
-    - url: analyze-azure-usage.md
-      itemType: how-to-guide
-      text: 客户 Azure 使用情况数据
-    - url: analyze-indirect-resellers.md
-      itemType: how-to-guide
-      text: 间接经销商业绩
-    footerLink:
-      url: data-analysis-lp.md
-      text: 查看详细信息
-  - title: 获取和提供支持
-    links:
-    - url: customer-support.md
-      itemType: how-to-guide
-      text: 向客户提供支持
-    - url: check-service-health.md
-      itemType: how-to-guide
-      text: 检查服务运行状况
-    - url: report-problems-with-partner-center.md
-      itemType: how-to-guide
-      text: 报告合作伙伴中心问题
-    footerLink:
+    - text: 合作伙伴中心安全要求
+      url: partner-security-requirements.md
+    - text: 创建业务资料
+      url: create-a-marketing-profile.md
+    - text: Azure 计划简介
+      url: azure-plan-lp.md
+    - text: 获取 Microsoft 支持
       url: support-from-microsoft.md
-      text: 查看详细信息
-additionalContent:
-  sections:
-  - title: 关键任务和工具
-    items:
-    - title: 还不是合作伙伴？ 立即加入 Microsoft 合作伙伴网络。
-      summary: 与 Microsoft 生态系统建立联系。
-      url: https://partner.microsoft.com/membership
-    - title: 合作伙伴中心 API 和 SDK 参考
-      summary: 使用合作伙伴中心 SDK 可管理客户、订阅和订单数据。
-      url: /partner-center/develop/
-    - title: 管理市场奖励
-      summary: 市场奖励通过营销、销售和技术优势为你的产品/服务提供针对性的支持。
-      url: marketplace-rewards.md
-  - title: 使用 Azure 门户
-    items:
-    - title: 计费和成本管理
-      links:
-      - text: 开始使用 Microsoft 合作伙伴协议计费帐户
-        url: /azure/billing/mpa-overview
-      - text: 开始使用 Azure 成本管理
-        url: /azure/cost-management/get-started-partners
-      - text: 创建更多 Azure 订阅
-        url: /azure/billing/billing-create-subscription
-      - text: 以编程方式创建 Azure 订阅
-        url: /azure/azure-resource-manager/programmatically-create-subscription?tabs=rest
-      - text: 查看更多 >
-        url: /azure/billing/
-    - title: Azure Lighthouse
-      links:
-      - text: 启用跨租户管理体验
-        url: /azure/lighthouse/concepts/cross-tenant-management-experience
-      - text: 云解决方案提供商注意事项
-        url: /azure/lighthouse/concepts/cloud-solution-provider
-      - text: 载入客户以进行 Azure 委托资源管理
-        url: /azure/lighthouse/how-to/onboard-customer
-      - text: 发布托管服务产品
-        url: /azure/lighthouse/how-to/publish-managed-services-offers
-      - text: 查看更多 >
-        url: /azure/lighthouse/
+  - linkListType: how-to-guide
+    links:
+    - text: 管理 MPN 帐户位置
+      url: manage-locations.md
+    - text: 续订 MPN 产品/服务
+      url: renew-mpn-offers.md
+    - text: 查找你的 MPN 权益
+      url: mpn-find-benefits.md
+    - text: 查找你的角色
+      url: find-your-role.md
+- title: 帐户和计费
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: 管理合作伙伴中心帐户
+      url: partner-center-account-setup.md
+    - text: 向用户分配角色和权限
+      url: permissions-overview.md
+    - text: 管理用户和用户许可证
+      url: assign-licenses-to-users.md
+    - text: 计费基础知识
+      url: billing-basics.md
+    - text: 设置付款帐户和纳税表单
+      url: set-up-your-payout-account.md
+    - text: 了解帐单
+      url: read-your-bill.md
+- title: 开发人员资源
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: 加入合作伙伴中心 API 和 SDK 早期采用者计划
+      url: /partner-center/develop/early-adopter-program
+    - text: 合作伙伴中心开发人员文档
+      url: /partner-center/develop
+    - text: 合作伙伴中心 REST API 参考
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: 合作伙伴中心 .NET API 参考
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: 用于 Java 的合作伙伴中心 SDK
+      url: /java/partnercenter/overview
+    - text: 合作伙伴中心 PowerShell
+      url: /powershell/partnercenter/overview
+- title: 在商业市场中销售 (ISV)
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: 商业市场文档
+      url: /azure/marketplace
+    - text: 什么是 Microsoft 商业市场？
+      url: /azure/marketplace/overview
+    - text: 确定发布选项
+      url: /azure/marketplace/determine-your-listing-type

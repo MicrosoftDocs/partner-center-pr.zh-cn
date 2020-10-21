@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832110"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006812"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 
@@ -52,7 +52,7 @@ ms.locfileid: "90832110"
 ||*    创建合作伙伴中心的支持票证
 ||*    查看你创建的合作伙伴支持票证
 |默认用户|  查看“我的个人资料”   |[重置密码](reset-my-pasword.md)
-|管理员代理 | *    客户管理|[合作伙伴中心内针对经销商合作伙伴的客户帐户设置和管理](customer-accounts.md)
+|管理员代理 | *    客户管理|[与客户联系](connect-with-your-customers.md)
 ||*    将设备列表添加到合作伙伴中心
 ||*    创建配置文件并将其应用到设备
 ||*    订阅管理

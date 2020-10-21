@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999261"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197993"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
@@ -53,7 +53,7 @@ ms.locfileid: "90999261"
 >[!NOTE]
 >若要访问“合作伙伴设置”或“开发人员设置”，需要登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，然后在屏幕右上角选择“设置”选项（齿轮图标）。 然后，可以从下拉菜单中选择“合作伙伴设置”或“开发人员设置”。
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="帐户设置":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="已注册计划的菜单":::
 
 合作伙伴可以看到用于管理“合作伙伴设置”和/或“开发人员设置”的选项，具体取决于其公司是否已在这些计划中注册 。 仅当公司至少在一个与该设置关联的计划中注册时，设置选项才可用。
 
@@ -85,11 +85,11 @@ ms.locfileid: "90999261"
 
 **“合作伙伴设置”选项**：
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="合作伙伴选项":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="已注册计划的菜单":::
 
 **“开发人员设置”选项**：
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="开发人员选项":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="已注册计划的菜单":::
 
 ## <a name="enrolling-in-programs"></a>在计划中注册
 
@@ -108,7 +108,7 @@ ms.locfileid: "90999261"
 
 可能有多个帐户。 如果有多个帐户，则会在左侧导航菜单中看到“帐户选取器”。 如果选择帐户选取器，则你所属的所有帐户都会显示为一个列表。 可以选择其中任何一个。在切换到该帐户后，会在其中看到与之相关的所有计划和信息。 如果看不到帐户选取器，则说明你是单个帐户的成员。
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="帐户选取器":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="已注册计划的菜单":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>用于帮助你管理合作伙伴中心帐户的其他资源
 
