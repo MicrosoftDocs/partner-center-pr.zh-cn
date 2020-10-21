@@ -10,13 +10,13 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90012769"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333799"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>适用于应用程序开发能力的一次性考试要求例外
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>一次应用程序开发能力考试要求豁免
 
 **相应的角色**
 
@@ -52,7 +52,7 @@ ms.locfileid: "90012769"
 
 如果你需要获取你的产品/服务的帮助，或有关于此产品/服务的资格的问题，请联系 [合作伙伴支持](https://partner.microsoft.com/Support)部门。 
 
-## <a name="frequently-asked-questions"></a>常见问题
+## <a name="frequently-asked-questions"></a>常见问题解答
 
 **如何实现知道我的公司是否有资格提供此服务？**
 
