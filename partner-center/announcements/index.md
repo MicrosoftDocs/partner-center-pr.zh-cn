@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081366"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352863"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "92081366"
 
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[Microsoft 365 商务语音优惠更新](2020-october.md#12)|10 月 16 日|
 |功能|[2020 年 11 月更新：联机服务和软件通道授权指南](2020-october.md#11)|10 月 14 日|
 |产品/市场|[为非营利性组织引入 Introducing Microsoft 365 商务语音](2020-october.md#10)|10 月 12 日|
 |产品/市场|[现推出 Microsoft 365 语音会议功能促销，且即将推出 Microsoft 365 商务语音](2020-october.md#9)|10 月 9 日|
