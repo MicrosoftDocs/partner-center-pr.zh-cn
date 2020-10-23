@@ -1,6 +1,6 @@
 ---
 title: 2020 年 9 月公告
-description: Microsoft 合作伙伴中心 2020 年 9 月公告
+description: Microsoft 合作伙伴中心 2020 年 9 月公告，如新功能、促销、产品/服务、市场或对现有产品/服务的更改。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591117"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031550"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -46,7 +46,7 @@ Microsoft 365 管理中心增强了所购软件的安全交付，让客户能够
 
 ### <a name="next-steps"></a>后续步骤
 
-- 若要详细了解 Microsoft 365 管理中心软件，可查看[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)。
+- 若要详细了解 Microsoft 365 管理中心软件，可查看[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)。
 
 - 与组织中的相关团队分享此更新。
 
@@ -183,17 +183,17 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易学术产品/
 
 ### <a name="details"></a>详细信息
 
-这是对 2020 年 9 月 17 日发布的[合作伙伴中心公告](https://docs.microsoft.com/partner-center/announcements/2020-september#8)的更新。 我们将进行更新，确保 API 更新向后兼容，从而保证无需你执行任何集成更改。 
+这是对 2020 年 9 月 17 日发布的[合作伙伴中心公告](#8)的更新。 我们将进行更新，确保 API 更新向后兼容，从而保证无需你执行任何集成更改。 
 
 如前面宣布的，CSP O365 使用指标将于 2020 年 9 月 30 日开始进行更新。 
 
 借助此项更改，将更新通过以下 CSP 许可证使用情况 API 提供的指标的定义： 
 
-1. [许可证使用情况信息 API](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information)。
+1. [许可证使用情况信息 API](/partner-center/develop/get-licenses-usage-information)。
 
-2. [客户许可证使用情况信息 API](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information)。
+2. [客户许可证使用情况信息 API](/partner-center/develop/get-customer-licenses-usage-information)。
 
-3.  [合作伙伴许可证使用情况信息 API](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information)。
+3.  [合作伙伴许可证使用情况信息 API](/partner-center/develop/get-partner-licenses-usage-information)。
 
 下面列出了已更新的定义。 API 架构没有更改，因此无需新的集成。 
 
@@ -260,19 +260,19 @@ Microsoft 合作伙伴网络中的所有合作伙伴组织。
 
 ### <a name="what-is-insights"></a>“见解”仪表板的作用是什么？
 
-通过合作伙伴中心的“见解”仪表板，可跨云产品（如 Office 365、Azure、Dynamics 365）和许可模式（如云解决方案提供商 (CSP) 和企业协议 (EA)）获取合作伙伴组织关键绩效指标 (KPI) 的 360 度统一视图。 我们会不断添加新功能，并且所有报告都支持[导出原始数据](https://docs.microsoft.com/partner-center/pci-download-reports)，让你能够根据自身的业务需求执行即席数据分析。 通过[执行报告查看者和报告查看者](https://docs.microsoft.com/partner-center/pci-roles)这两个合作伙伴中心报告角色，可更好地管理组织中对见解的访问权限和使用情况。
+通过合作伙伴中心的“见解”仪表板，可跨云产品（如 Office 365、Azure、Dynamics 365）和许可模式（如云解决方案提供商 (CSP) 和企业协议 (EA)）获取合作伙伴组织关键绩效指标 (KPI) 的 360 度统一视图。 我们会不断添加新功能，并且所有报告都支持[导出原始数据](../pci-download-reports.md)，让你能够根据自身的业务需求执行即席数据分析。 通过[执行报告查看者和报告查看者](../pci-roles.md)这两个合作伙伴中心报告角色，可更好地管理组织中对见解的访问权限和使用情况。
 
 最近添加的报告：
 
-- [经销商绩效报告和数据导出](https://docs.microsoft.com/partner-center/pci-resellers-performance)：简要介绍了 CSP 间接提供商及其各种间接经销商的绩效。
+- [经销商绩效报告和数据导出](../pci-resellers-performance.md)：简要介绍了 CSP 间接提供商及其各种间接经销商的绩效。
 
-- [客户机会报告和数据导出](https://docs.microsoft.com/partner-center/pci-customer-opportunities)：简要介绍了客户在购买 Microsoft 产品时的偏好。
+- [客户机会报告和数据导出](../pci-customer-opportunities.md)：简要介绍了客户在购买 Microsoft 产品时的偏好。
 
-有关见解中提供的报告的完整列表，请查看[此处](https://docs.microsoft.com/partner-center/partner-center-insights)。
+有关见解中提供的报告的完整列表，请查看[此处](../partner-center-insights.md)。
 
 ### <a name="next-steps"></a>后续步骤：
 
-- 请经常查看[合作伙伴中心见解页面](https://docs.microsoft.com/partner-center/partner-center-insights)，了解报告更新和增强功能。
+- 请经常查看[合作伙伴中心见解页面](../partner-center-insights.md)，了解报告更新和增强功能。
 
 - 我们鼓励你探索这些新功能，并使用“见解”选项卡中提供的内嵌反馈工具分享你的反馈。
 

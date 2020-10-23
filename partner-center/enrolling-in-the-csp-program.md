@@ -1,22 +1,22 @@
 ---
 title: 注册到云解决方案提供商计划
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型 - 例如，间接经销商或直接帐单合作伙伴。
+description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型，例如，间接经销商或直接计费合作伙伴。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763336"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198093"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>注册到云解决方案提供商计划并建立可盈利的云解决方案业务
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
 **适用于**
 
@@ -64,7 +64,7 @@ ms.locfileid: "91763336"
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>注册为直接计费合作伙伴
 
-作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2018 年 8 月 31 起，我们已更新直接计费合作伙伴的注册要求。 这些新要求将帮助你利用合适的云解决方案提供商注册模式加速业务发展，并利用增值服务和支持增强客户关系。 
+作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2018 年 8 月 31 起，我们已更新直接计费合作伙伴的注册要求。 这些新要求将帮助你利用合适的云解决方案提供商注册模式加速业务发展，并利用增值服务和支持增强客户关系。
 
 ### <a name="minimum-requirements"></a>最低要求
 
@@ -96,5 +96,8 @@ ms.locfileid: "91763336"
 ## <a name="csp-regional-markets-and-currencies"></a>云解决方案提供商区域市场和货币
 
 公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。 有关市场位置和货币，请参阅[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
-请务必阅读[添加新的 MPN ID 位置](manage-locations.md)一文。
+请务必阅读[为 CSP 业务添加新位置的先决条件](manage-locations.md)。
 
+## <a name="next-steps"></a>后续步骤
+
+- [了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)](microsoft-partner-agreement.md)

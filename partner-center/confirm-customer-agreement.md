@@ -1,6 +1,6 @@
 ---
 title: 确认客户接受 Microsoft 客户协议
-description: 了解如何确认客户接受 Microsoft 客户协议。 为客户订购 Microsoft 产品和服务时，云解决方案提供商需要这样做。
+description: 了解如何确认客户接受 Microsoft 客户协议。 云解决方案提供商 (CSP) 计划参与者需要这样做才能为客户订购 Microsoft 产品和服务。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000541"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198053"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
@@ -28,11 +28,7 @@ ms.locfileid: "91000541"
 - 管理员代理
 - 销售代理
 
-**适当的合作伙伴类型**
-
-- 间接经销商、直接计费、间接提供商
-
-2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 请阅读间接经销商的其他[指南](indirect-reseller-tasks-in-partner-center.md)。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，这两个协议在云解决方案提供商计划中共存。 从 2020 年 2 月 1 日开始，Microsoft 客户协议替代了 Microsoft 云协议。
+2019 年 10 月 1 日，Microsoft 推出了针对 CSP 计划的 Microsoft 客户协议，替代 Microsoft 云协议。 请阅读间接经销商的其他[指南](indirect-reseller-tasks-in-partner-center.md)。 为了方便合作伙伴迁移到新协议，在 2020 年 1 月 31 日之前，这两个协议在 CSP 计划中共存。 从 2020 年 2 月 1 日开始，Microsoft 客户协议替代了 Microsoft 云协议。
 
 客户有两个选项可用于接受 Microsoft 客户协议。 
 
@@ -80,7 +76,7 @@ ms.locfileid: "91000541"
 
 5. 选择“保存”，然后继续操作。
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="现有客户":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="新客户":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>检索客户接受协议的确认信息
 
@@ -132,7 +128,7 @@ ms.locfileid: "91000541"
 >[!NOTE] 
 >新客户必须接受 Microsoft 客户协议才能进行新的购买。  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="创建新客户":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新客户":::
 
 5. 到达新客户工作流中的“确认”屏幕后，保存客户凭据。 稍后需将这些凭据分配给客户。
 
@@ -160,7 +156,7 @@ ms.locfileid: "91000541"
 
 4. 使用此电子邮件模板邀请客户接受**经销商关系**请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="创建关系":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="新客户":::
 
 5. 客户通过电子邮件接收邀请，并单击参数化 URL。 
 
@@ -170,7 +166,7 @@ ms.locfileid: "91000541"
 
 8. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="接受协议":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="新客户":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀请现有客户查看并接受协议
@@ -187,7 +183,7 @@ ms.locfileid: "91000541"
 
 5. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="客户":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="新客户":::
 
 >[!NOTE]
 >在某些情况下，客户可能无法直接接受 Microsoft 客户协议。 若要详细了解这些情况，请参阅[需要代表客户证明的两种情况](attest-acceptance-customer-agreement.md)。
@@ -196,7 +192,7 @@ ms.locfileid: "91000541"
 
 | 日期 | 里程碑 | 详细信息 |
 |------------|------------|--------------------------------|
-|2019 年 8 月 1 日|在沙盒中提供 UX 预览版|合作伙伴可以在云解决方案提供商沙盒环境中使用合作伙伴中心面板确认客户接受 Microsoft 客户协议。 有权访问 CSP 沙盒环境的合作伙伴可以预览用户体验更改。 无权访问沙盒的合作伙伴可以在本主题中了解这些更改。|
+|2019 年 8 月 1 日| 在沙盒中提供 UX 预览版| 合作伙伴可以在云解决方案提供商沙盒环境中使用合作伙伴中心面板确认客户接受 Microsoft 客户协议。 有权访问 CSP 沙盒环境的合作伙伴可以预览用户体验更改。 无权访问沙盒的合作伙伴可以在本主题中了解这些更改。|
 |2019 年 9 月 3 日|在沙盒中提供 API 预览版。|合作伙伴可以在云解决方案提供商沙盒环境中使用合作伙伴中心 API 确认客户接受 Microsoft 客户协议。 API 合作伙伴可以利用此机会预览 API 更改，并开始使用 API 集成为新协议提供支持。|
 |2019 年 9 月 20 日|在沙盒中提供 .NET SDK 预览版。|合作伙伴可以在云解决方案提供商沙盒环境中使用合作伙伴中心 .NET SDK 来确认客户接受 Microsoft 客户协议。 API 合作伙伴可以利用此机会预览 .NET SDK 更改，并开始使用 API 集成为新协议提供支持。|
 |2019 年 10 月 1 日|在生产环境中提供 Microsoft 客户协议|Microsoft 推出针对云解决方案提供商计划的 Microsoft 客户协议，替代 Microsoft 云协议。 合作伙伴可以在生产环境中使用合作伙伴中心面板和 API 确认客户接受 Microsoft 客户协议。 Microsoft 云协议在云解决方案提供商合作伙伴计划中仍受支持。 不过，我们建议合作伙伴着手迁移到 Microsoft 客户协议。 进行新的购买以及对现有订阅进行许可证计数更改时，都会要求合作伙伴确认 Microsoft 客户协议或 Microsoft 云协议。 某些新的套餐（例如，新的 Azure 计划）会要求确认 Microsoft 客户协议。|

@@ -1,6 +1,6 @@
 ---
 title: 2020 年 10 月公告
-description: Microsoft 合作伙伴中心 2020 年 10 月公告
+description: Microsoft 合作伙伴中心 2020 年 10 月公告，如新功能、促销、产品/服务、市场或对现有产品/服务的更改。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,19 +8,134 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/05/2020
-ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.date: 10/14/2020
+ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
+ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844661"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92098476"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
 本页详述了 Microsoft 合作伙伴中心 2020 年 10 月公告。
 
 2020 公告：[3月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
+
+
+________________
+
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020 年 11 月更新：联机服务和软件渠道授权指南
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-14
+- 功能
+ 
+### <a name="summary"></a>摘要 
+MPA 授权指南的更新。
+
+### <a name="impacted-audience"></a>影响受众
+
+直接计费、间接提供商和参与云解决方案提供商 (CSP) 计划的多层合作伙伴。
+
+### <a name="details"></a>详细信息
+根据“联机服务和软件通道授权”小节，在你的 Microsoft 合作伙伴协议中标题为“更改通知”的“指南更改”部分下，Microsoft 特此通知“联机服务和软件通道授权指南”正在更新，更新后的指南在[此处提供](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf)。 此更新自本通知发出之日起 30 天内生效，无需执行任何其他操作。
+
+### <a name="next-steps"></a>后续步骤
+无需任何操作。 这只是一个通知。
+
+________________
+
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>为非营利性组织推出 Microsoft 365 商务语音
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-12
+- 产品/市场
+ 
+### <a name="summary"></a>摘要 
+
+2020 年 11 月 1 日，Microsoft 将为非营利性组织推出新的 Microsoft 365 商务语音 SKU。
+
+### <a name="impacted-audience"></a>影响受众
+
+直接提供商、间接提供商和间接经销商
+
+### <a name="details"></a>详细信息
+
+2020 年 11 月 1 日，Microsoft 将推出新的商务语音 SKU。 完整套件将在加拿大、英国和美国提供。 商务语音（不含通话套餐）将在所有其他市场提供。 
+
+Microsoft 365 商务语音是一种面向中小型企业的基于云的电话系统，内置于 Office 365 中。 将商务语音添加到客户的 Office 365 订阅中，便可在单个应用程序（即 Microsoft Teams）中提供一个集通话、聊天和会议于一体的通信和协作解决方案。
+
+有关定价详细信息，请参阅价目表。  
+
+美国客户应注意，Microsoft 365 商务语音（非营利性组织员工定价）价目表中的预览版产品/服务 ID 信息不正确。 合作伙伴中心于 10 月中旬更新了通信，促销产品/服务 ID 现在可用。 定价正确。
+
+可将 Microsoft 365 商务语音添加到以下订阅，最多供 300 名用户使用： 
+- Office 365：商业协作版、商业高级版、A1、E1、A3 和 E3  
+- Microsoft 365：商业、A3 和 E3
+
+### <a name="next-steps"></a>后续步骤
+
+- 熟悉预览版价目表的内容，并与贵组织中所有合适的联系人共享此信息。
+- 查看云解决方案提供商 (CSP) 计划更新资源库中的所有准备材料：[中小型企业推出 Microsoft 365 商务语音](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)。
+
+________________
+
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>现推出 Microsoft 365 音频会议功能的云解决方案提供商 (CSP) 促销，且将于 2020 年 11 月 1 日 推出 Microsoft 365 商务语音
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-09
+- 产品/市场
+
+### <a name="impacted-audience"></a>影响受众
+
+通过 CSP 计划进行交易的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft 将为合作伙伴推出两种新的 CSP 促销，以推动合作伙伴采用 Teams 作为会议解决方案。 这两种促销都有助于更顺利地将音频会议添加到 Microsoft 365 许可证，从而为客户提供 Microsoft 365 和 Teams 作为会议和通话解决方案的全部价值。
+从 2020 年 10 月 1 日到 2021 年 3 月 31 日，客户可以将 Microsoft 365 音频会议作为加载项 SKU 添加到 Microsoft 365 订阅，免费使用 12 个月。
+
+#### <a name="offer-details"></a>产品/服务详细信息
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 音频会议采用促销|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+
+从 2020 年 11 月 1 日到 2021 年 4 月 30 日，含通话套餐的 Microsoft 365 商务语音和不含通话套餐的 Microsoft 365 商务语音的新订阅和续订都将享受折扣定价。 含通话套餐的 Microsoft 365 商务语音将享有 12 个月的 25% 折扣，不含通话套餐的 Microsoft 365 商务语音将享有 12 个月的 33% 折扣。
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 商务语音采用促销|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 商务语音采用促销|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 商务语音采用促销|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
+   |Microsoft 365 商务语音（不含通话套餐）采用促销|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 商务语音（不含通话套餐）采用促销|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 商务语音（不含通话套餐）采用促销|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Microsoft 365 商务语音（不含通话套餐）（美国）采用促销|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   
+这些促销活动适用于以下客户：
+- 全新客户租户
+- 在 CSP、Web Direct 或任何其他 Microsoft 商业渠道上没有任何商务语音或音频会议许可证的有效订阅或最近（过去 30 天内）取消的订阅的现有客户租户
+
+#### <a name="additional-resources"></a>其他资源
+
+- 请访问 [Microsoft 365 商务语音合作伙伴页](https://www.microsoft.com/microsoft-365/partners/businessvoice)，详细了解商务语音。 
+- 请参阅 Microsoft 365 中的音频会议，详细了解[音频会议功能](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)。
+- 若要详细了解这些促销，请参阅[相关合作伙伴常见问题解答](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)。
+
+### <a name="next-steps"></a>后续步骤
+
+- 熟悉这些会议和通话促销机会，并与贵组织中所有合适的联系人共享此信息。
+- 将这些优惠合并到 Microsoft 365 销售促销中。
+- 让客户了解将商务语音或音频会议添加到 Teams 的价值。
+
+### <a name="questions"></a>是否有任何问题?
+
+如有关于这些产品/服务的任何疑问，请联系 Microsoft 帐户团队中的代表或支持人员。
 
 ________________
 
@@ -142,10 +257,10 @@ Microsoft 很高兴地宣布， Microsoft 通话套餐将在以下新市场中�
 
 ### <a name="details"></a>详细信息
 
-Microsoft 很高兴地宣布，从 2020 年 10 月 1 日起，Microsoft 通话套餐将在以下新市场中推出：奥地利、丹麦、意大利、葡萄牙、瑞典和瑞士。 新的地区可用性已通过企业协议 (EA) 或企业协议订阅 (EAS)、教育解决方案合约 (EES)、Web Direct 和 CSP 在商业、全球公共部门、非盈利和政府社区云中启动。 
- 
-所有 Microsoft 通话套餐功能都可用于 Microsoft 的国内和国际通话套餐，包括每个用户每月 120、240 和 1,200 分钟 (p/u/m) 国内套餐，以及含 1,200 分钟国内通话 p/u/m 和 600 分钟国际通话 p/u/m 的国际套餐。 
- 
+Microsoft 很高兴地宣布，从 2020 年 10 月 1 日起，Microsoft 通话套餐将在以下新市场中推出：奥地利、丹麦、意大利、葡萄牙、瑞典和瑞士。 新的地区可用性已通过企业协议 (EA) 或企业协议订阅 (EAS)、教育解决方案合约 (EES)、Web Direct 和 CSP 在商业、全球公共部门、非盈利和政府社区云中启动。
+
+所有 Microsoft 通话套餐功能都可用于 Microsoft 的国内和国际通话套餐，包括每个用户每月 120、240 和 1,200 分钟 (p/u/m) 国内套餐，以及含 1,200 分钟国内通话 p/u/m 和 600 分钟国际通话 p/u/m 的国际套餐。
+
 Microsoft 通话套餐之前在以下市场中提供：比利时、加拿大、法国、德国、爱尔兰、荷兰、波多黎各（渠道可用性仅限于 EA 和 EES）、西班牙、英国和美国（澳大利亚和日本的第三方通话套餐可用）。
 
 #### <a name="offer-details"></a>产品/服务详细信息
@@ -290,8 +405,8 @@ ________________
 
 #### <a name="additional-resources"></a>其他资源
 
-- [Windows 7 支持常见问题解答页面](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7 支持和 Microsoft 365 应用](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 支持常见问题解答页面](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 支持和 Microsoft 365 应用](/deployoffice/endofsupport/windows-7-support)
 - [资源库](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
 ### <a name="next-steps"></a>后续步骤
