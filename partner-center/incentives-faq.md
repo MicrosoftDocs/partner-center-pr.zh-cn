@@ -1,54 +1,84 @@
 ---
 title: 激励常见问题
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 10/22/2020
 description: Microsoft 激励的常见问题。 本文包含有关用户角色、如何注册以及如何处理错误消息的问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 9fca257d84c090a3d76807c703bae99449b79cdd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 468ad99771aabfd42960e43e0a711e10eddc62f0
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175206"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523592"
 ---
-# <a name="frequently-asked-questions-on-incentives"></a><span data-ttu-id="53597-104">有关激励的常见问题</span><span class="sxs-lookup"><span data-stu-id="53597-104">Frequently asked questions on Incentives</span></span>
+# <a name="frequently-asked-questions-on-incentives"></a><span data-ttu-id="a771a-104">有关激励的常见问题</span><span class="sxs-lookup"><span data-stu-id="a771a-104">Frequently asked questions on Incentives</span></span>
 
-<span data-ttu-id="53597-105">**适用对象：**</span><span class="sxs-lookup"><span data-stu-id="53597-105">**Applies to:**</span></span>
+<span data-ttu-id="a771a-105">**适用对象：**</span><span class="sxs-lookup"><span data-stu-id="a771a-105">**Applies to:**</span></span>
 
-- <span data-ttu-id="53597-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="53597-106">Partner Center</span></span>
+- <span data-ttu-id="a771a-106">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="a771a-106">Partner Center</span></span>
 
-<span data-ttu-id="53597-107">**相应的角色：**</span><span class="sxs-lookup"><span data-stu-id="53597-107">**Appropriate roles:**</span></span>
+<span data-ttu-id="a771a-107">**相应的角色：**</span><span class="sxs-lookup"><span data-stu-id="a771a-107">**Appropriate roles:**</span></span>
 
-- <span data-ttu-id="53597-108">奖励管理员</span><span class="sxs-lookup"><span data-stu-id="53597-108">Incentives admin</span></span>
+- <span data-ttu-id="a771a-108">奖励管理员</span><span class="sxs-lookup"><span data-stu-id="a771a-108">Incentives admin</span></span>
 
-- <span data-ttu-id="53597-109">奖励用户</span><span class="sxs-lookup"><span data-stu-id="53597-109">Incentives user</span></span>
+- <span data-ttu-id="a771a-109">奖励用户</span><span class="sxs-lookup"><span data-stu-id="a771a-109">Incentives user</span></span>
 
-## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a><span data-ttu-id="53597-110">是否需要是全局管理员才能注册激励？</span><span class="sxs-lookup"><span data-stu-id="53597-110">Do I need to be the Global Admin to enroll in incentives?</span></span>
+## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a><span data-ttu-id="a771a-110">是否需要是全局管理员才能注册激励？</span><span class="sxs-lookup"><span data-stu-id="a771a-110">Do I need to be the Global Admin to enroll in incentives?</span></span>
 
-<span data-ttu-id="53597-111">它不需要是全局管理员。MPN 管理员可以邀请其他用户注册，以使其成为激励管理员，而全局管理员可以设置新的用户帐户。</span><span class="sxs-lookup"><span data-stu-id="53597-111">It is not required to be the Global Admin. The MPN Admin can invite other users to register if required to become the Incentives Admin, whereas the Global Admin can set up new user accounts.</span></span> <span data-ttu-id="53597-112">若要通过此工具管理公司的奖励，无需成为全局管理员。有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="53597-112">To manage your company’s incentives through the tool, you do not need to be the Global Admin. For more information regarding roles and permissions, see the [Permissions overview](permissions-overview.md).</span></span>
+<span data-ttu-id="a771a-111">它不需要是全局管理员。MPN 管理员可以邀请其他用户注册，以使其成为激励管理员，而全局管理员可以设置新的用户帐户。</span><span class="sxs-lookup"><span data-stu-id="a771a-111">It is not required to be the Global Admin. The MPN Admin can invite other users to register if required to become the Incentives Admin, whereas the Global Admin can set up new user accounts.</span></span> <span data-ttu-id="a771a-112">若要通过此工具管理公司的奖励，无需成为全局管理员。有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="a771a-112">To manage your company’s incentives through the tool, you do not need to be the Global Admin. For more information regarding roles and permissions, see the [Permissions overview](permissions-overview.md).</span></span>
 
-## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network"></a><span data-ttu-id="53597-113">如果我发现公司已是 Microsoft 合作伙伴网络的成员，我该怎么办？</span><span class="sxs-lookup"><span data-stu-id="53597-113">What do I need to do if I find my company is already a member of the Microsoft Partner Network?</span></span>
+## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network"></a><span data-ttu-id="a771a-113">如果我发现公司已是 Microsoft 合作伙伴网络的成员，我该怎么办？</span><span class="sxs-lookup"><span data-stu-id="a771a-113">What do I need to do if I find my company is already a member of the Microsoft Partner Network?</span></span>
 
-<span data-ttu-id="53597-114">如果你尝试加入 MPN，并且你的公司已是成员，则它将识别该域并将你关联到现有帐户。</span><span class="sxs-lookup"><span data-stu-id="53597-114">If you try to join MPN and your company is already a member, it will recognize the domain and associate you to the existing account already.</span></span> <span data-ttu-id="53597-115">这可能是使用同一电子邮件域的同一公司或相关公司，也可能是同一 Azure 活动目录 (Azure AD) 管理多个域。</span><span class="sxs-lookup"><span data-stu-id="53597-115">This may be the same company or a related company using the same email domain, or the same Azure Activity Directory (Azure AD) to manage multiple domains.</span></span>
+<span data-ttu-id="a771a-114">如果你尝试加入 MPN，并且你的公司已是成员，则它将识别该域并将你关联到现有帐户。</span><span class="sxs-lookup"><span data-stu-id="a771a-114">If you try to join MPN and your company is already a member, it will recognize the domain and associate you to the existing account already.</span></span> <span data-ttu-id="a771a-115">这可能是使用同一电子邮件域的同一公司或相关公司，也可能是同一 Azure 活动目录 (Azure AD) 管理多个域。</span><span class="sxs-lookup"><span data-stu-id="a771a-115">This may be the same company or a related company using the same email domain, or the same Azure Activity Directory (Azure AD) to manage multiple domains.</span></span>
 
-<span data-ttu-id="53597-116">你可以从 "合作伙伴配置文件" 页中确定主要联系人。</span><span class="sxs-lookup"><span data-stu-id="53597-116">You can identify the Primary Contact from the Partner Profile Page.</span></span> <span data-ttu-id="53597-117">如果你的位置是 MPNHQ 位置，你只需设置所需的权限来管理奖励。</span><span class="sxs-lookup"><span data-stu-id="53597-117">If your location is the MPNHQ location, you just need to be set up with the required permissions to manage incentives.</span></span> <span data-ttu-id="53597-118">有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="53597-118">For more information regarding roles and permissions, see the [Permissions overview](permissions-overview.md).</span></span>
+<span data-ttu-id="a771a-116">你可以从 "合作伙伴配置文件" 页中确定主要联系人。</span><span class="sxs-lookup"><span data-stu-id="a771a-116">You can identify the Primary Contact from the Partner Profile Page.</span></span> <span data-ttu-id="a771a-117">如果你的位置是 MPNHQ 位置，你只需设置所需的权限来管理奖励。</span><span class="sxs-lookup"><span data-stu-id="a771a-117">If your location is the MPNHQ location, you just need to be set up with the required permissions to manage incentives.</span></span> <span data-ttu-id="a771a-118">有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="a771a-118">For more information regarding roles and permissions, see the [Permissions overview](permissions-overview.md).</span></span>
 
-<span data-ttu-id="53597-119">如果你不在与 MPNHQ 位置相同的国家/地区，请参阅有关此方案的详细信息，请参阅 [多国帐户的说明](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 。</span><span class="sxs-lookup"><span data-stu-id="53597-119">If you are not located in the same country as the MPNHQ location, refer to the [Instructions for Multi-national accounts](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) for more details on this scenario.</span></span>
+<span data-ttu-id="a771a-119">如果你不在与 MPNHQ 位置相同的国家/地区，请参阅有关此方案的详细信息，请参阅 [多国帐户的说明](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 。</span><span class="sxs-lookup"><span data-stu-id="a771a-119">If you are not located in the same country as the MPNHQ location, refer to the [Instructions for Multi-national accounts](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) for more details on this scenario.</span></span>
 
-## <a name="what-user-roles-are-available"></a><span data-ttu-id="53597-120">可用的用户角色有哪些？</span><span class="sxs-lookup"><span data-stu-id="53597-120">What user roles are available?</span></span>
+## <a name="what-user-roles-are-available"></a><span data-ttu-id="a771a-120">可用的用户角色有哪些？</span><span class="sxs-lookup"><span data-stu-id="a771a-120">What user roles are available?</span></span>
 
-<span data-ttu-id="53597-121">默认情况下，将公司加入 MPN 的人员成为主要联系人和 MPN 管理员。</span><span class="sxs-lookup"><span data-stu-id="53597-121">The person who joins the company to the MPN becomes the Primary Contact and MPN Admin by default.</span></span> <span data-ttu-id="53597-122">管理员可以在门户上邀请和管理用户。</span><span class="sxs-lookup"><span data-stu-id="53597-122">The Admin can invite and manage users on the portal.</span></span> <span data-ttu-id="53597-123">有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="53597-123">For more information regarding roles and permissions, see the [Permissions overview](permissions-overview.md).</span></span>
+<span data-ttu-id="a771a-121">默认情况下，将公司加入 MPN 的人员成为主要联系人和 MPN 管理员。</span><span class="sxs-lookup"><span data-stu-id="a771a-121">The person who joins the company to the MPN becomes the Primary Contact and MPN Admin by default.</span></span> <span data-ttu-id="a771a-122">管理员可以在门户上邀请和管理用户。</span><span class="sxs-lookup"><span data-stu-id="a771a-122">The Admin can invite and manage users on the portal.</span></span> <span data-ttu-id="a771a-123">有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="a771a-123">For more information regarding roles and permissions, see the [Permissions overview](permissions-overview.md).</span></span>
 
-<span data-ttu-id="53597-124">奖励的关键角色是激励管理员和奖励用户。</span><span class="sxs-lookup"><span data-stu-id="53597-124">The key roles for incentives are Incentives Admin and Incentives User.</span></span> <span data-ttu-id="53597-125">奖励管理员将管理合作伙伴的银行详细信息。</span><span class="sxs-lookup"><span data-stu-id="53597-125">The Incentives Admin will manage the bank details for the partner.</span></span> <span data-ttu-id="53597-126">激励用户可以在该工具中查看报表，以查看支付的内容和每个付款的细目，但无法查看或编辑银行详细信息。</span><span class="sxs-lookup"><span data-stu-id="53597-126">The Incentive User can view reports in the tool to see what was paid, and the breakdown of each payment, but cannot view or edit bank details.</span></span> <span data-ttu-id="53597-127">请注意，在邀请合作伙伴注册奖励之前，这些角色将不可用于选择。</span><span class="sxs-lookup"><span data-stu-id="53597-127">Note, these roles will not be available for selection until the Partner is invited to enroll for incentives.</span></span> <span data-ttu-id="53597-128">这两个角色可以应用于 HQ 下的所有位置。</span><span class="sxs-lookup"><span data-stu-id="53597-128">Both roles can apply to all locations under the HQ.</span></span>
+<span data-ttu-id="a771a-124">奖励的关键角色是激励管理员和奖励用户。</span><span class="sxs-lookup"><span data-stu-id="a771a-124">The key roles for incentives are Incentives Admin and Incentives User.</span></span> <span data-ttu-id="a771a-125">奖励管理员将管理合作伙伴的银行详细信息。</span><span class="sxs-lookup"><span data-stu-id="a771a-125">The Incentives Admin will manage the bank details for the partner.</span></span> <span data-ttu-id="a771a-126">激励用户可以在该工具中查看报表，以查看支付的内容和每个付款的细目，但无法查看或编辑银行详细信息。</span><span class="sxs-lookup"><span data-stu-id="a771a-126">The Incentive User can view reports in the tool to see what was paid, and the breakdown of each payment, but cannot view or edit bank details.</span></span> <span data-ttu-id="a771a-127">有关激励管理员和激励用户的角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="a771a-127">For more information on the roles and permissions of the incentive admin and incentive users, see the [Permissions overview](permissions-overview.md).</span></span> <span data-ttu-id="a771a-128">请注意，在邀请合作伙伴注册奖励之前，这些角色将不可用于选择。</span><span class="sxs-lookup"><span data-stu-id="a771a-128">Note, these roles will not be available for selection until the Partner is invited to enroll for incentives.</span></span> <span data-ttu-id="a771a-129">这两个角色可以应用于 HQ 下的所有位置。</span><span class="sxs-lookup"><span data-stu-id="a771a-129">Both roles can apply to all locations under the HQ.</span></span>
 
-## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a><span data-ttu-id="53597-129">如果在注册过程中收到错误消息或需要帮助，应联系谁？</span><span class="sxs-lookup"><span data-stu-id="53597-129">Who should I contact if I get an error message or need help during the enrollment process?</span></span>
+## <a name="how-can-i-find-out-who-has-admin-rights-for-my-company"></a><span data-ttu-id="a771a-130">如何查明谁拥有公司的管理员权限？</span><span class="sxs-lookup"><span data-stu-id="a771a-130">How can I find out who has admin rights for my company?</span></span>
 
-<span data-ttu-id="53597-130">如果在仪表板的 "激励" 部分中遇到任何问题，则可以使用联机支持服务–请参阅支持选项 (？</span><span class="sxs-lookup"><span data-stu-id="53597-130">There is an online support service if you encounter any issue within the Incentives section of the Dashboard – see the support option (?</span></span> <span data-ttu-id="53597-131">图标) 在右上方。</span><span class="sxs-lookup"><span data-stu-id="53597-131">Icon) in the top right.</span></span>
+<span data-ttu-id="a771a-131">你可以在公司中了解谁拥有全局管理员角色或 MPN 帐户管理员角色。</span><span class="sxs-lookup"><span data-stu-id="a771a-131">You can find out who has the role of global admin or MPN account admin in your company.</span></span> <span data-ttu-id="a771a-132">有关详细信息，请参阅 [查找你的角色](/partner-center/find-your-role.md)。</span><span class="sxs-lookup"><span data-stu-id="a771a-132">For more information, see [Find your role](/partner-center/find-your-role.md).</span></span>  
 
-## <a name="next-steps"></a><span data-ttu-id="53597-132">后续步骤</span><span class="sxs-lookup"><span data-stu-id="53597-132">Next steps</span></span>
+## <a name="i-cant-access-incentives-using-my-credentials"></a><span data-ttu-id="a771a-133">我无法使用我的凭据访问奖励。</span><span class="sxs-lookup"><span data-stu-id="a771a-133">I can’t access incentives using my credentials.</span></span>
 
-- [<span data-ttu-id="53597-133">即刻体验奖励</span><span class="sxs-lookup"><span data-stu-id="53597-133">Getting started with incentives</span></span>](incentives-get-started-intro.md)
+<span data-ttu-id="a771a-134">缺少访问权限的最可能原因是在合作伙伴中心未适当设置您的权限。</span><span class="sxs-lookup"><span data-stu-id="a771a-134">The most likely reason for lack of access is that your permissions are not appropriately set up in Partner Center.</span></span> <span data-ttu-id="a771a-135">使用以下过程，请参阅修复此问题。</span><span class="sxs-lookup"><span data-stu-id="a771a-135">Use the following procedure see fix this.</span></span>
+
+1. <span data-ttu-id="a771a-136">使用 Azure AD 租户凭据登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) ， (你的工作凭据) "。</span><span class="sxs-lookup"><span data-stu-id="a771a-136">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/) with your Azure AD tenant credentials (your work credentials).</span></span> <span data-ttu-id="a771a-137">如果你无法登录，请联系你的公司的全局管理员。</span><span class="sxs-lookup"><span data-stu-id="a771a-137">If you are unable to  sign in, contact your company’s global administrator.</span></span>
+
+2. <span data-ttu-id="a771a-138">登录时，如果系统提示你从 **工作帐户** 或 **个人帐户**中进行选择，请选择 " **工作帐户**"。</span><span class="sxs-lookup"><span data-stu-id="a771a-138">When signing in, if you’re prompted to select from your **Work account** or **Personal account**, select **Work account**.</span></span>
+
+3. <span data-ttu-id="a771a-139">在 "合作伙伴中心" 菜单上，选择 " **激励**"，然后选择 " **概述**"。</span><span class="sxs-lookup"><span data-stu-id="a771a-139">On the Partner Center menu, select **Incentives**, and then select **Overview**.</span></span> <span data-ttu-id="a771a-140">如果你没有激励管理员权限，则会显示你公司的所有全局管理员和帐户管理员的联系信息。</span><span class="sxs-lookup"><span data-stu-id="a771a-140">If you don’t have Incentive admin permissions,  you’ll be shown the contact information for all global and account admins of your company.</span></span> <span data-ttu-id="a771a-141">请与这些管理员之一联系，为所需的 MPN Id 和激励计划获取激励角色。</span><span class="sxs-lookup"><span data-stu-id="a771a-141">Contact one of these admins to obtain the incentive role for the required MPN IDs and incentive programs.</span></span>
+
+4. <span data-ttu-id="a771a-142">如果你已拥有激励管理员角色，你将看到你的公司的注册，其中包含你有权访问的 MPN Id 和激励计划。</span><span class="sxs-lookup"><span data-stu-id="a771a-142">If you already have an incentive admin role, you’ll see the enrollments for your company for the MPN IDs and incentive programs for which you have access.</span></span>
+ 
+## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a><span data-ttu-id="a771a-143">奖励概述页中缺少一些注册。</span><span class="sxs-lookup"><span data-stu-id="a771a-143">Some enrollments are missing from the incentives overview page.</span></span>
+
+<span data-ttu-id="a771a-144">如果在激励 **概述** 页上看到的注册次数少于预期，则可以执行以下操作。</span><span class="sxs-lookup"><span data-stu-id="a771a-144">If you see fewer enrollments than you expected on the incentives **Overview** page, you can do the following.</span></span>
+
+1. <span data-ttu-id="a771a-145">登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。</span><span class="sxs-lookup"><span data-stu-id="a771a-145">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/).</span></span>
+
+2. <span data-ttu-id="a771a-146">在 " **设置**" 下，选择 " [用户管理](https://partner.microsoft.com/pcv/users)"。</span><span class="sxs-lookup"><span data-stu-id="a771a-146">Under **Settings**, select [User Management](https://partner.microsoft.com/pcv/users).</span></span>
+
+3. <span data-ttu-id="a771a-147">选择您的名称以查看您的权限。</span><span class="sxs-lookup"><span data-stu-id="a771a-147">Select your name to see your permissions.</span></span> 
+
+<span data-ttu-id="a771a-148">如果需要更改你的角色或权限，请参阅你的公司的全局或帐户管理员。</span><span class="sxs-lookup"><span data-stu-id="a771a-148">If you need to change your role or permissions, see your company’s global or account admin.</span></span>
+
+<span data-ttu-id="a771a-149">请注意，此页仅显示与 Azure AD 租户相关联 (PGA) 的伙伴全局帐户关联的注册。</span><span class="sxs-lookup"><span data-stu-id="a771a-149">Note that this page will only display enrollments that are associated with the Partner Global Account (PGA) associated with the Azure AD tenant.</span></span> <span data-ttu-id="a771a-150">如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。</span><span class="sxs-lookup"><span data-stu-id="a771a-150">If your company has more than one PGA, you’ll need to have different credentials for each one.</span></span>
+
+## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a><span data-ttu-id="a771a-151">如果在注册过程中收到错误消息或需要帮助，应联系谁？</span><span class="sxs-lookup"><span data-stu-id="a771a-151">Who should I contact if I get an error message or need help during the enrollment process?</span></span>
+
+<span data-ttu-id="a771a-152">如果在仪表板的 "激励" 部分中遇到任何问题，则可以使用联机支持服务–请参阅支持选项 (？</span><span class="sxs-lookup"><span data-stu-id="a771a-152">There is an online support service if you encounter any issue within the Incentives section of the Dashboard – see the support option (?</span></span> <span data-ttu-id="a771a-153">图标) 在右上方。</span><span class="sxs-lookup"><span data-stu-id="a771a-153">Icon) in the top right.</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="a771a-154">后续步骤</span><span class="sxs-lookup"><span data-stu-id="a771a-154">Next steps</span></span>
+
+- [<span data-ttu-id="a771a-155">即刻体验奖励</span><span class="sxs-lookup"><span data-stu-id="a771a-155">Getting started with incentives</span></span>](incentives-get-started-intro.md)
