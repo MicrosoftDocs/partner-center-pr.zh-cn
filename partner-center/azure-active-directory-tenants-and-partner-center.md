@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 创建将你的公司链接到合作伙伴中心帐户的工作帐户。 这使公司中的员工可以访问合作伙伴中心。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: 工作帐户, 电子邮件, 租户, Azure 租户, 创建帐户, 域名
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394221"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333820"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>创建将你的公司链接到合作伙伴中心帐户的工作帐户
 
@@ -61,7 +60,7 @@ Microsoft 要求你将公司的工作帐户链接到你的新合作伙伴中心�
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="是否有工作帐户，或者是否需要创建一个工作帐户？":::
 
-有关在 Azure AD 中添加域的详细信息，请参阅[在 Azure AD 中添加或关联域](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+有关在 Azure AD 中添加域的详细信息，请参阅[在 Azure AD 中添加或关联域](/azure/active-directory/active-directory-add-domain)
 
 ## <a name="about-microsoft-azure"></a>关于 Microsoft Azure
 
