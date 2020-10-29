@@ -6,8 +6,10 @@
   items:
     - name: 与 Microsoft 合作
       href: mpn-overview.md
+      displayName: mpn
     - name: 创建合作伙伴中心帐户
       href: mpn-create-a-partner-center-account.md
+      displayName: mpn
     - name: 获取工作电子邮件地址
       href: buy-email-domain.md
     - name: 帐户设置疑难解答
@@ -24,6 +26,7 @@
       items:
         - name: 准备从 PMC 迁移
           href: prepare-pmc-pc-migration.md
+          displayName: 'role, roles, ro, mpn'
         - name: 从 PMC 迁移的指南
           href: guide-to-migration.md
         - name: 比较 PMC 和 PC
@@ -34,34 +37,44 @@
           href: consolidate-accounts.md
         - name: 激活 PMC 的权益
           href: partner-membership-center-tech-benefits-activate.md
+          displayName: mpn
     - name: 会员优惠
       items:
         - name: Action Pack
           href: mpn-get-action-pack.md
+          displayName: 'renew, mpn'
         - name: 续订套餐
           href: renew-mpn-offers.md
+          displayName: mpn
         - name: 查找你的 MPN 权益
           href: mpn-find-benefits.md
+          displayName: mpn
     - name: 资质
       items:
         - name: 了解资格
           href: learn-about-competencies.md
+          displayName: mpn
         - name: 关于能力的常见问题解答
           href: competencies-faq.md
+          displayName: 'renew, mpn'
         - name: 应用开发资格豁免
           href: app-dev-isv.md
     - name: 高级专业
       href: advanced-specializations.md
+      displayName: mpn
     - name: 成为 Azure 专家 MSP
       href: azure-expert-msp.md
     - name: 优点
       items:
         - name: 权益概述
           href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: 市场推广权益
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
         - name: 关于权益的常见问题解答
           href: benefits-faq.md
+          displayName: 'renew, license, mpn'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 软件保障
@@ -77,35 +90,47 @@
               href: software-assurance-dps-requirements.md
     - name: 发票和税款
       href: mpn-view-print-maps-invoice.md
+      displayName: 'invoice, mpn'
     - name: 试用新功能
       href: test-drive-new-features.md
 - name: 云解决方案提供商 (CSP)
   href: csp-overview.md
+  displayName: csp
   items:
     - name: 注册云解决方案提供商计划
       href: enrolling-in-the-csp-program.md
+      displayName: 'indirect, reseller, csp'
     - name: Microsoft 合作伙伴协议 - CSP
       href: microsoft-partner-agreement.md
+      displayName: 'csp, mpn'
     - name: CSP 直接合作伙伴要求
       href: direct-partner-new-requirements.md
+      displayName: 'indirect, reseller, csp'
     - name: Microsoft 客户协议（按区域和语言排列）
       href: agreements.md
+      displayName: 'regio, region'
     - name: 受限的直接计费访问权限
       href: restricted-direct-bill-capabilities.md
+      displayName: 'indirect, reseller'
     - name: 将 CSP 直接计费切换到间接经销商
       href: transition-direct-to-indirect.md
+      displayName: csp
     - name: CSP 协议、价目表和产品/服务
       href: csp-documents-and-learning-resources.md
+      displayName: csp
     - name: 用于 CSP 的 Cloudyn 提供的 Azure 成本管理
       href: azure-cost-management-app-for-csp-partners.md
     - name: CSP 区域市场和货币
       href: regional-authorization-overview.md
+      displayName: 'regio, region, csp'
     - name: 云解决方案提供商区域授权租户合并说明
       href: csp-regional-authorization-tenant-consolidation.md
+      displayName: 'regio, region, csp'
     - name: 更新方法以确认接受 Microsoft 客户协议
       href: confirm-consent.md
     - name: 确认接受 Microsoft 客户协议
       href: confirm-customer-agreement.md
+      displayName: csp
     - name: 何时代表客户证明已接受客户协议
       href: attest-acceptance-customer-agreement.md
     - name: 适用于在国家/地区云中销售
@@ -115,12 +140,15 @@
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: 常见问题解答 - Microsoft Cloud for US Government
           href: faq-for-us-govt-cloud.md
+          displayName: csp
         - name: 德国 Microsoft 云合作伙伴中心
           href: partner-center-for-microsoft-cloud-germany.md
         - name: 为 Microsoft Cloud for US Government 注册云解决方案提供商
           href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+          displayName: csp
         - name: 出售适用于云解决方案提供商的 Office 365 政府版 GCC
           href: csp-gcc-overview.md
+          displayName: csp
         - name: Office 365 政府版 GCC 合作伙伴和客户资格标准
           href: csp-gcc-validate.md
         - name: 德国 Microsoft 云的用户和许可证管理
@@ -133,8 +161,10 @@
       items:
         - name: 关于你的帐户
           href: partner-center-account-setup.md
+          displayName: 'mpn, csp'
         - name: 关于帐户结构
           href: account-structure.md
+          displayName: mpn
         - name: 链接工作帐户
           href: azure-active-directory-tenants-and-partner-center.md
         - name: 验证域所有权
@@ -143,14 +173,18 @@
           href: verification-responses.md
         - name: 合并合作伙伴帐户
           href: merge-accounts.md
+          displayName: 'mpn, renew'
         - name: 添加更多 Azure AD 租户
           href: multi-tenant-account.md
         - name: 更新你的合作伙伴个人资料
           href: update-your-partner-profile.md
+          displayName: mpn
         - name: 管理位置
           href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: 成为控制面板供应商
           href: enroll-as-cpv.md
+          displayName: csp
         - name: 还原暂停的帐户
           href: suspended-partner-center-account.md
         - name: 添加 Azure AD 应用程序
@@ -163,8 +197,10 @@
           href: create-user-accounts-and-set-permissions.md
         - name: 向用户分配角色
           href: permissions-overview.md
+          displayName: 'role, ro, roles, mpn'
         - name: 查找你的角色
           href: find-your-role.md
+          displayName: 'role, roles, ro'
         - name: 成为控制面板供应商
           href: enroll-as-cpv.md
         - name: 重置用户密码
@@ -175,16 +211,20 @@
           href: unable-to-sign-in.md
         - name: 用户没有 MPN 管理员
           href: no-mpn-admin.md
+          displayName: mpn
     - name: 管理业务
       items:
         - name: Azure 合作伙伴共享服务
           href: shared-services.md
+          displayName: csp
         - name: 定价和产品/服务
           href: pricing-and-offers.md
+          displayName: csp
 - name: 引荐
   items:
     - name: 拓展业务
       href: grow-your-business.md
+      displayName: 'trial, csp'
     - name: 引荐概述
       href: referrals.md
     - name: 管理业务配置文件
@@ -205,18 +245,21 @@
           href: connectors-troubleshoot.md
         - name: 联合销售 - PSC 到 PC 的迁移
           href: psc-to-pc.md
+          displayName: mpn
     - name: 注册交易
       href: register-deals.md
     - name: 获取引荐见解
       href: referral-insights.md
     - name: 分析业务资料
       href: analyze-your-marketing-profile.md
+      displayName: mpn
 - name: 奖励
   items:
     - name: 即刻体验奖励
       items:
         - name: 奖励常见问题解答
           href: incentives-faq.md
+          displayName: mpn
         - name: 即刻体验奖励
           href: incentives-get-started-intro.md
         - name: 奖励的 10 大要素
@@ -237,7 +280,7 @@
           displayName: incentives
         - name: 查看付款和计划
           href: understand-incentive-payouts.md
-          displayName: incentives
+          displayName: 'mpn, incentives'
         - name: 访问付款页面
           href: incentives-unified-user-guide.md
           displayName: incentives
@@ -254,7 +297,7 @@
           displayName: incentives
         - name: 将纳税发票作为 PoE 提交
           href: incentives-tax-invoice-poe.md
-          displayName: incentives
+          displayName: 'incentives, invoice'
     - name: 奖励合作申请
       items:
         - name: 奖励合作申请
@@ -280,29 +323,35 @@
           displayName: incentives
         - name: 客户关联问题
           href: incentives-customer-association-issues.md
-          displayName: incentives
+          displayName: 'incentives, mpn'
     - name: 付款和收益疑难解答
       href: incentives-payment-issues.md
       displayName: incentives
 - name: 计费和税款
   href: billing.md
+  displayName: trial
   items:
     - name: 计费基础知识
       href: billing-basics.md
+      displayName: invoice
     - name: 合作伙伴中心的计费类型
       href: billing-different-types.md
     - name: 了解帐单
       href: read-your-bill.md
+      displayName: invoice
     - name: 使用对帐文件
       href: use-the-reconciliation-files.md
+      displayName: 'reseller, mpn'
     - name: 对帐文件费用类型
       href: recon-file-charge-types.md
+      displayName: 'cancel, invoice'
     - name: 每日额定使用量对帐文件
       href: daily-rated-usage-recon-files.md
     - name: 基于许可证的对帐文件
       href: license-based-recon-files.md
     - name: 常见计费方案
       href: common-billing-scenarios.md
+      displayName: 'trial, subscription'
       items:
         - name: 月度计费方案
           href: common-billing-scenarios-monthly.md
@@ -312,37 +361,47 @@
           href: common-billing-scenarios-onetime-recurring.md
         - name: 了解帐单发票
           href: invoice-file.md
+          displayName: invoice
         - name: 基于许可证的计费
           href: license-based-billing.md
         - name: 移动运营商结算
           href: mobile-operator-billing.md
         - name: 基于许可证的 SaaS 订阅的方案
           href: common-billing-scenarios-saas.md
+          displayName: cancel
     - name: 市场产品/服务计费
       href: csp-commercial-marketplace-billing.md
+      displayName: 'invoice, csp'
     - name: 查看数字签名 - 合作伙伴中心（印度）
       href: digital-signature.md
+      displayName: invoice
     - name: 税务和免税
       href: tax-and-tax-exemptions.md
+      displayName: 'region, regio'
       items:
         - name: 公司增值税信息
           href: organization-tax-info.md
         - name: 合作伙伴中心注册中的增值税 (VAT) 信息
           href: vat-info.md
+          displayName: 'region, regio'
         - name: 接收预扣税额度
           href: withholding-tax-credit-form.md
         - name: 语音服务的地区税务
           href: tax-and-fees-voice-services.md
+          displayName: 'csp, regio, region'
         - name: 商业市场发布者的税务详细信息
           href: tax-details-marketplace.md
+          displayName: 'region, regio, reseller'
         - name: 了解 Microsoft 发出的 IRS 税单
           href: understand-irs-tax-forms.md
         - name: 设置付款帐户和纳税表单
           href: set-up-your-payout-account.md
+          displayName: 'region, regio'
         - name: 从 Microsoft 请求 SLA 信用额度
           href: request-credit.md
     - name: 为客户设置 Azure 费用预算
       href: set-an-azure-spending-budget-for-your-customers.md
+      displayName: csp
 - name: 收取付款
   items:
     - name: 管理拒不付款、欺诈或滥用
@@ -359,12 +418,14 @@
           href: payment-thresholds-methods-timeframes.md
         - name: 付款对账单
           href: payout-statement.md
+          displayName: invoice
         - name: 支出常见问题解答
           href: payout-faq.md
 - name: 与客户联系
   items:
     - name: 与客户联系
       href: connect-with-your-customers.md
+      displayName: 'indirect, reseller'
     - name: 添加新客户
       href: add-a-new-customer.md
     - name: 请求经销商与客户的关系
@@ -375,35 +436,44 @@
       href: customers-revoke-admin-privileges.md
     - name: 查看客户列表
       href: see-your-customer-list.md
+      displayName: reseller
     - name: 查看客户活动日志
       href: activity-logs.md
     - name: 更新客户帐户信息
       href: update-customer-account-info.md
     - name: 让客户购买他们自己的服务
       href: give-customers-permission.md
+      displayName: csp
     - name: 为一位客户添加多个用户
       href: adding-multiple-users-to-a-customer-account.md
     - name: 导入多个用户
       href: file-customer-users.md
     - name: 分配支持联系人
       href: assign-support-contacts.md
+      displayName: 'indirect, reseller'
 - name: 云解决方案提供商套餐
   href: csp-offers.md
+  displayName: csp
   items:
     - name: 商业市场
       items:
         - name: 商业市场概述
           href: csp-commercial-marketplace-overview.md
+          displayName: csp
         - name: 发现市场产品/服务
           href: csp-commercial-marketplace-discover.md
+          displayName: csp
         - name: 购买市场产品/服务
           href: csp-commercial-marketplace-purchase.md
+          displayName: csp
         - name: 独立软件供应商的市场专供产品/服务
           href: isv-opt-in.md
         - name: 管理市场产品/服务
           href: csp-commercial-marketplace-manage.md
+          displayName: 'cancel, renew'
         - name: 对市场产品/服务的支持
           href: csp-commercial-marketplace-support.md
+          displayName: csp
         - name: 适用于市场购买的合同
           href: csp-commercial-marketplace-contracting.md
     - name: Azure 预留项
@@ -415,10 +485,13 @@
           href: azure-reservations-buying.md
         - name: 代表客户管理 Microsoft Azure 预订
           href: azure-reservations-manage.md
+          displayName: cancel
         - name: Azure 虚拟机预留实例 (RI) 和服务器订阅
           href: azure-ri-server-subscriptions.md
+          displayName: csp
     - name: Azure CSP 中提供的 Azure 服务
       href: azure-plan-available.md
+      displayName: csp
     - name: Azure 计划
       href: azure-plan-lp.md
       items:
@@ -428,39 +501,53 @@
           href: purchase-azure-plan.md
         - name: 比较 Azure 套餐
           href: compare-azure-offers.md
+          displayName: 'csp, invoice'
         - name: 将客户过渡到 Azure 计划
           href: azure-plan-transition.md
+          displayName: csp
         - name: 合作伙伴赚取的返点
           href: partner-earned-credit.md
+          displayName: csp
         - name: 合作伙伴赚取的返点的计算与支付方式
           href: partner-earned-credit-explanation.md
+          displayName: csp
         - name: 合作伙伴赚取的返点的角色和权限
           href: azure-roles-perms-pec.md
+          displayName: 'role, roles, ro'
         - name: CSP 中的新商务体验 - Azure 计费
           href: azure-plan-billing.md
+          displayName: invoice
         - name: Azure 的 CSP 新商务体验价目表
           href: azure-plan-price-list.md
         - name: 管理 Azure 计划中的订阅和资源
           href: azure-plan-manage.md
+          displayName: csp
         - name: 恢复 Azure CSP 订阅的管理员权限
           href: revoke-reinstate-csp.md
+          displayName: csp
         - name: 转移 Azure 订阅
           href: switch-azure-subscriptions-to-a-different-partner.md
+          displayName: csp
     - name: 软件订阅
       href: csp-software-subscriptions.md
+      displayName: 'subscription, cancel'
     - name: 通过云解决方案提供商计划销售本地软件
       href: csp-on-premise-software.md
+      displayName: 'cancel, csp'
     - name: 在线服务（订阅）
       href: customer-subscriptions.md
+      displayName: csp
       items:
         - name: 创建、暂停或取消客户订阅
           href: create-a-new-subscription.md
+          displayName: 'trial, renew, cancel, csp'
         - name: 使用促销吸引新客户
           href: promotions.md
         - name: 为客户提供 Microsoft 产品试用版
           href: offer-your-customers-trials-of-microsoft-products.md
         - name: 销售商业市场产品的订阅
           href: sell-marketplace-products.md
+          displayName: csp
         - name: 在合作伙伴中心分配 Azure 订阅
           href: assign-azure-subscriptions.md
         - name: 管理用户和许可证
@@ -517,6 +604,7 @@
       items:
         - name: 关于见解
           href: partner-center-insights.md
+          displayName: mpn
         - name: 基于见解角色的访问
           href: pci-roles.md
         - name: 见解报告
@@ -541,6 +629,7 @@
               href: pci-product-subscriptions-report.md
             - name: 经销商业绩
               href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
             - name: 培训
               href: pci-training-dashboard.md
         - name: 已知问题
@@ -549,30 +638,39 @@
           href: pci-download-reports.md
     - name: 合作伙伴贡献指示器
       href: partner-contribution-indicators.md
+      displayName: mpn
     - name: 分析其他数据
       items:
         - name: 客户 Azure 使用情况
           href: analyze-azure-usage.md
         - name: 间接经销商业绩
           href: analyze-indirect-resellers.md
+          displayName: 'indirect, reseller, subscription'
         - name: 订阅和许可证
           href: analyze-subscriptions-licenses.md
+          displayName: 'subscription, license, trial'
 - name: 与其他合作伙伴合作
   items:
     - name: 查找合作伙伴
       href: find-a-partner.md
+      displayName: csp
     - name: 与其他合作伙伴合作
       href: work-with-other-partners.md
+      displayName: 'indirect, reseller, csp'
     - name: 间接提供商任务
       href: indirect-provider-tasks-in-partner-center.md
+      displayName: 'indirect, reseller, csp'
     - name: 间接经销商任务
       href: indirect-reseller-tasks-in-partner-center.md
+      displayName: 'indirect, reseller, csp'
     - name: 支持的 CSP 合作伙伴关系
       href: csp-supported-partner-relationships.md
+      displayName: 'indirect, reseller, csp'
     - name: 多渠道支持
       href: multichannel.md
     - name: 多合作伙伴支持
       href: multipartner.md
+      displayName: csp
 - name: 获取 Microsoft 支持
   href: support-from-microsoft.md
   items:
@@ -584,13 +682,16 @@
       href: get-automated-service-notifications-with-our-apis.md
 - name: 向你的客户提供支持
   href: customer-support.md
+  displayName: csp
   items:
     - name: 检查服务运行状况
       href: check-service-health.md
     - name: 提供计费支持
       href: provide-billing-support.md
+      displayName: csp
     - name: 提供技术支持
       href: provide-technical-support.md
+      displayName: csp
     - name: 来自 Microsoft 的客户通讯
       href: customer-communication-from-microsoft.md
     - name: 客户自我支持
@@ -601,17 +702,23 @@
   items:
     - name: 许可资源
       href: support-resources-licensing.md
+      displayName: 'mpn, csp'
     - name: 查找 ID 和域名
       href: find-ids-and-domain-names.md
+      displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: 安全要求
   items:
     - name: 概述
       href: partner-security-requirements.md
     - name: 对合作伙伴租户强制执行 MFA
       href: partner-security-requirements-mandating-mfa.md
+      displayName: csp
     - name: 使用多重身份验证来设置用户
       href: mfa-for-users.md
+      displayName: csp
     - name: 要求状态
       href: partner-security-compliance.md
+      displayName: csp
     - name: 常见问题
       href: partner-security-requirements-faq.md
+      displayName: 'sandbox, csp'
