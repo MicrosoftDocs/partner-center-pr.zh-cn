@@ -46,6 +46,8 @@
       items:
         - name: 了解资格
           href: learn-about-competencies.md
+        - name: 关于能力的常见问题解答
+          href: competencies-faq.md
         - name: 应用开发资格豁免
           href: app-dev-isv.md
     - name: 高级专业

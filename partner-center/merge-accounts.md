@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175180"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795825"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>将你的合作伙伴帐户与其他合作伙伴帐户合并
 
@@ -84,12 +84,32 @@ ms.locfileid: "92175180"
 
 1. 从 "合作伙伴中心" 仪表板中选择 " **设置** "。 
 
-2. 选择 " **帐户合并**"。
+2. 选择 " **帐户合并** "。
 
 3. 添加要邀请的帐户的 **合作伙伴配置文件** 中的 MPN ID，并将其与你合并。 必须使用其合作伙伴全局 MPN ID。 不能使用 location MPN ID。
 
-4. 当你选择 " **合并**" 时，邀请将发送给合作伙伴公司。 当他们接受你的请求时，你可以在合作伙伴中心内启动帐户合并。 如果公司拒绝请求合并帐户，则他们可以解释拒绝请求的原因。 " **合并历史记录**" 下提供了所有帐户合并的列表。
+4. 当你选择 " **合并** " 时，邀请将发送给合作伙伴公司。 当他们接受你的请求时，你可以在合作伙伴中心内启动帐户合并。 如果公司拒绝请求合并帐户，则他们可以解释拒绝请求的原因。 " **合并历史记录** " 下提供了所有帐户合并的列表。
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>合并帐户的两个公司的示例
 
+1. Contoso 
+
+    a. [全局 MPN id 为 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ，一个从属[位置 MPN id 为 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)。
+  
+    b. Azure AD 租户 = @contoso.com
+ 
+    c. 1月1日过期的金牌资格，2020
+2. Fabricam.com
+ 
+    a.  全局 MPN ID 3333333 和2个下属位置 MPN Id 4444444 和5555555
+
+    b.  AAD 租户 = @fabricam.com
+
+    c.  两个黄金能力，12月 1 2020 日过期
+3.  Contoso 购买 Fabricam.com，转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求
+4.  Fabricam.com 登录到合作伙伴中心，并转到 Contoso 在步骤 #3 中所执行的同一页面，以批准 Contoso 的请求。
+5.  Contoso 查看此同一页面上的合并的详细信息，并向帐户合并提供确认。
+    
 ## <a name="next-steps"></a>后续步骤
 
 - [为用户分配角色和权限](permissions-overview.md)

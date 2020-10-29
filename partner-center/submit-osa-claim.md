@@ -1,7 +1,7 @@
 ---
 title: 创建客户关联
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 创建与申报 (CPOR) 型号的客户关联。 有助于管理 Microsoft 365 & Dynamics 365 客户的销售、使用情况、奖励。
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174992"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917241"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>针对 Microsoft 365 和 Dynamics 365，通过声明的记录 (CPOR) 模型的客户关联
 
@@ -33,29 +33,29 @@ ms.locfileid: "92174992"
 
 你将需要以下信息来完成声明：
 
-- 构成声明的实体的**MPN ID**
+- 构成声明的实体的 **MPN ID**
 
-- 客户的**域名**[查找此](find-domain-name.md)
+- 客户的 **域名**[查找此](find-ids-and-domain-names.md)
 
-- 客户的 **目录 id** 或 **租户 id** [查找此](find-domain-name.md)
+- 客户的 **目录 id** 或 **租户 id** [查找此](find-ids-and-domain-names.md)
 
-- **解决方案区域**，如 Business Applications 或 Microsoft 365
+- **解决方案区域** ，如 Business Applications 或 Microsoft 365
 
 - 已执行的 **活动** 和要进行的声明的类型，例如售前、使用情况或收入关联
 
-- 你的客户的 **联系人姓名**、标题和电子邮件地址
+- 你的客户的 **联系人姓名** 、标题和电子邮件地址
 
 - 对于 Dynamics 365，还需要提供客户的 **技术联系人** 姓名、职务和电子邮件地址
 
 - 自己公司的 **联系人姓名** 和电子邮件地址
 
-- 你将为此声明创建**名称**
+- 你将为此声明创建 **名称**
 
-- **产品 () **或 () 你所申报的工作负荷
+- **产品 ()** 或 () 你所申报的工作负荷
 
-- ** (PoE) 的执行证明 **，如客户签署的工作声明。 你还可以下载要使用的 PoE 模板。
+- **(PoE) 的执行证明** ，如客户签署的工作声明。 你还可以下载要使用的 PoE 模板。
 
-- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、 **客户名称**和 **ISV 产品/解决方案的名称**。 
+- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称** 、 **客户名称** 和 **ISV 产品/解决方案的名称** 。 
 
 还应了解以下要点：
 
@@ -69,24 +69,24 @@ ms.locfileid: "92174992"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 选择 " **激励** " 选项卡，选择 " **概述**"，然后选择 " **客户关联**"。
+2. 选择 " **激励** " 选项卡，选择 " **概述** "，然后选择 " **客户关联** "。
 
-3. 在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
+3. 在 "客户关联" 页的顶部，选择 " **+ 客户关联** "。
 
-4. 选择要与客户关联的合作伙伴位置的 MPN ID，然后添加客户的域名和目录 ID。 [查找此](find-domain-name.md)
+4. 选择要与客户关联的合作伙伴位置的 MPN ID，然后添加客户的域名和目录 ID。 [查找此](find-ids-and-domain-names.md)
 
 5. 选择“继续”。
 
-6. 选择 **解决方案区域** 和 **活动**。 
+6. 选择 **解决方案区域** 和 **活动** 。 
 
    >[!Note]
    >
-   >如果选择 "Business Applications"，请选择 " **使用情况" 和/或 "提前销售**" 或 " **收入关联**"，然后选择 " **继续**"。 
+   >如果选择 "Business Applications"，请选择 " **使用情况" 和/或 "提前销售** " 或 " **收入关联** "，然后选择 " **继续** "。 
    <br><br>如果选择“收入关联”，系统将提示你输入与下面所列信息稍有不同的信息。
 
-7. 在 " **关联客户** " 页上输入相应信息，然后选择 " **创建声明**"。
+7. 在 " **关联客户** " 页上输入相应信息，然后选择 " **创建声明** "。
 
-8. 选择与此客户关联关联的产品 () ，然后选择 " **继续**"。
+8. 选择与此客户关联关联的产品 () ，然后选择 " **继续** "。
 
 9. 填写客户联系信息和你公司的联系信息。 所有字段都是必填字段。 
 

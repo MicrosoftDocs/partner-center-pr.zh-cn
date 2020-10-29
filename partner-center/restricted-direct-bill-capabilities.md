@@ -1,7 +1,7 @@
 ---
 title: 受限的直接计费功能
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 直接帐单合作伙伴要求，以及如何避免功能受到限制。 了解你的功能是否受到限制。
@@ -9,33 +9,33 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444768"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795759"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求  
 
 ## <a name="overview"></a>概述
 
-直销合作伙伴必须满足 CSP 直销合作伙伴计划中保留的新[要求](direct-partner-new-requirements.md)。 否则，他们直接计费功能的访问权限最终将受到限制并且无法再执行某些特定任务，例如为他们的客户进行新的购买。
+直销合作伙伴必须满足 CSP 直销合作伙伴计划中保留的新 [要求](direct-partner-new-requirements.md) 。 否则，他们直接计费功能的访问权限最终将受到限制并且无法再执行某些特定任务，例如为他们的客户进行新的购买。
 
 > [!Note]
-> 如果直接帐单合作伙伴不满足 CSP 直销合作伙伴计划的新要求，Microsoft 将会在其直接帐单功能受到限制时得到通知。 这适用于所有直销合作伙伴，无论他们是否选择[从直接帐单合作伙伴过渡到间接经销商](transition-direct-to-indirect.md)。  
+> 如果直接帐单合作伙伴不满足 CSP 直销合作伙伴计划的新要求，Microsoft 将会在其直接帐单功能受到限制时得到通知。 这适用于所有直销合作伙伴，无论他们是否选择 [从直接帐单合作伙伴过渡到间接经销商](transition-direct-to-indirect.md) 。  
 
 ## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>如何判断您的直接帐单功能是否受到限制
 
 若要确认是否限制了从直接帐单合作伙伴租户到直接计费功能的访问权限，请执行以下步骤。
 
-1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
 
-2. 中转到 "**合作伙伴设置**" "  ->  **合作伙伴配置文件**"。
+2. 中转到 " **合作伙伴设置** " "  ->  **合作伙伴配置文件** "。
 
-3. 在 "**程序信息**" 下，查找**Microsoft 云解决方案提供程序状态**。
+3. 在 " **程序信息** " 下，查找 **Microsoft 云解决方案提供程序状态** 。
 
-4. 如果程序状态的值为 "**受限**"，则表示直接帐单合作伙伴租户对直接帐单功能的访问受到限制。
+4. 如果程序状态的值为 " **受限** "，则表示直接帐单合作伙伴租户对直接帐单功能的访问受到限制。
 
 ## <a name="affected-direct-bill-capabilities"></a>受影响的直接计费功能
 
@@ -47,11 +47,11 @@ ms.locfileid: "87444768"
 
 - 将新的外接程序添加到现有的基于许可证的订阅。
 
-- 为软件和预订产品（例如软件订阅、永久性软件和 Azure 保留虚拟机实例）进行一次性购买。
+- 将软件和预订产品的一次性购买 (例如，软件订阅、永久性软件和 Azure 保留虚拟机实例) 。
 
-还不能使用 CSP 计划下的[Azure 合作伙伴共享服务产品/服务](shared-services.md)购买新的 azure 订阅。
+还不能使用 CSP 计划下的 [Azure 合作伙伴共享服务产品/服务](shared-services.md) 购买新的 azure 订阅。
 
-现有的直接帐单订阅不受影响。 它们仍有效并且是 autorenewed 的。 在取消之前，你将继续直接向 Microsoft 收取费用。 你仍可通过以下方式管理现有订阅：
+现有的直接帐单订阅不受影响。 它们保持有效并且自动续订。 在取消之前，你将继续直接向 Microsoft 收取费用。 你仍可通过以下方式管理现有订阅：
 
 - 挂起现有订阅
 
@@ -66,9 +66,9 @@ ms.locfileid: "87444768"
 
 除了新购买以外，还不能在合作伙伴中心访问以下直接帐单功能：
 
-- 不能创建新的客户租户。 "合作伙伴中心" 下的 "**客户**" 页下的 "**创建客户**" 选项将不可用。
+- 不能创建新的客户租户。 "合作伙伴中心" 下的 " **客户** " 页下的 " **创建客户** " 选项将不可用。
 
-- 你无法为请求直接分销商关系的客户生成邀请。 合作伙伴中心的 "**客户**" 页下的 "**请求分销商关系**" 选项将不可用。
+- 你无法为请求直接分销商关系的客户生成邀请。 合作伙伴中心的 " **客户** " 页下的 " **请求分销商关系** " 选项将不可用。
 
     >[!NOTE]
     >作为从直销伙伴过渡到间接经销商的一部分，如果你已将直接帐单合作伙伴租户注册为间接经销商，则可以为请求间接经销商关系的客户生成邀请。

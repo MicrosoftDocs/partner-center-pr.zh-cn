@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 9a44adc0f4150f4cbb21c4b0e332c4958559443f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ff697bec18c59957d8be7d5ec8ad09edb364b6bb
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031710"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795791"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -317,7 +317,7 @@ _________________
 
 - [Dynamics 365 主页](https://dynamics.microsoft.com/)
 - [混合现实应用指南主页](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Biz 应用欺诈主页](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing//docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [Biz 应用欺诈主页](/dynamics365/fraud-protection/overview)
 - [2020 财年 PowerApps 和 Flow 许可更新](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 许可](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 - [Dynamics 365 和 Power Platform – 可用性、数据位置、语言和本地化内容](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)

@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197993"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333929"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
@@ -42,7 +42,7 @@ ms.locfileid: "92197993"
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 2. 注意左侧的导航窗格。 与已注册的计划相关联的选项将会显示。
 
-下面是一个示例。 假设用户有权在合作伙伴中心仪表板中访问三个计划：**MPN** 计划、**引荐**计划和**商业市场**计划。 当用户登录到合作伙伴中心仪表板时，他们会在屏幕的左侧看到这三个计划。
+下面是一个示例。 假设用户有权在合作伙伴中心仪表板中访问三个计划： **MPN** 计划、 **引荐** 计划和 **商业市场** 计划。 当用户登录到合作伙伴中心仪表板时，他们会在屏幕的左侧看到这三个计划。
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="已注册计划的菜单":::
 
@@ -83,11 +83,11 @@ ms.locfileid: "92197993"
 
 “合作伙伴设置”选项将不同于“开发人员设置”选项。 请参阅下面每组选项的示例屏幕截图。 如果有权访问其他计划，则可能还会看到不同于此处显示的屏幕截图示例的选项。
 
-**“合作伙伴设置”选项**：
+**“合作伙伴设置”选项** ：
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="已注册计划的菜单":::
 
-**“开发人员设置”选项**：
+**“开发人员设置”选项** ：
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="已注册计划的菜单":::
 
@@ -126,6 +126,5 @@ ms.locfileid: "92197993"
 |以控制面板供应商的身份注册到合作伙伴中心|[以控制面板供应商的身份注册到合作伙伴中心](enroll-as-cpv.md)|
 |将 Microsoft Learn 帐户关联到合作伙伴中心|[将 Microsoft Learn 帐户关联到合作伙伴中心](ms-learn-associate.md)|
 |务必推广公司，以便客户能够找到你   |[创建业务资料](create-a-marketing-profile.md)|
-|整理目录，以便最重要的产品位于列表顶部   |[自定义目录](customize-the-catalog.md)|
 |关注当前定价和套餐的最新消息   |[定价和套餐](pricing-and-offers.md)|
-|API：验证合作伙伴 MPN ID|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API：验证合作伙伴 MPN ID|[验证合作伙伴 MPN ID](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

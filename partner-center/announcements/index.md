@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352863"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749696"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "92352863"
 
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[在云解决方案提供商 (CSP) 计划中引入针对 Direct Bill Partner 要求的业绩标准](2020-october.md#13)|10 月 27 日|
 |产品/市场|[Microsoft 365 商务语音优惠更新](2020-october.md#12)|10 月 16 日|
 |功能|[2020 年 11 月更新：联机服务和软件通道授权指南](2020-october.md#11)|10 月 14 日|
 |产品/市场|[为非营利性组织引入 Introducing Microsoft 365 商务语音](2020-october.md#10)|10 月 12 日|
