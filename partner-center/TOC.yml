@@ -295,9 +295,6 @@
         - name: 创建执行证明
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: 将纳税发票作为 PoE 提交
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: 奖励合作申请
       items:
         - name: 奖励合作申请
