@@ -564,6 +564,8 @@
           href: Get-special-pricing-for-offers.md
         - name: 向教育客户销售
           href: sell-to-education-customers.md
+        - name: 将 Windows 10 家庭版升级到教育版
+          href: upgrade-windows-to-education.md
         - name: 提高采用率和满意度
           href: increasing-adoption-and-satisfaction.md
         - name: 利用 Windows Autopilot 简化设备设置
