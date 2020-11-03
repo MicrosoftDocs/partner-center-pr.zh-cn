@@ -1,7 +1,7 @@
 ---
 title: 在云解决方案提供商计划中与间接提供商合作
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接经销商如何与 Microsoft 间接提供商（或分销商）合作，以便在客户支持和计费方面获得帮助。
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006826"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795842"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在云解决方案提供商计划中与间接提供商合作
 
+**适用于**
+
+- 合作伙伴中心
+
 **相应的角色**
 
-- 全局管理员
-- 用户管理员
-- 管理员代理
+
+- 所有有兴趣注册云解决方案提供商计划的 Microsoft 合作伙伴
 
 
 对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想被迫管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
@@ -47,7 +50,7 @@ ms.locfileid: "92006826"
 
 ### <a name="before-you-begin"></a>开始之前
 
-如果不熟悉云解决方案提供商计划，则需作为间接经销商注册到该计划中。 然后，需要在合作伙伴中心创建帐户。 为此，你需要在注册过程中提供以下信息。 在开始之前，你可能需要几分钟时间收集这些信息：
+从 2020 年 10 月起，所有新加入 CSP 的 Microsoft 合作伙伴都会在 CSP 计划中注册为间接经销商。 然后，需要在合作伙伴中心创建帐户。 为此，需要在注册过程中提供以下信息。 在开始之前，你可能需要几分钟时间收集这些信息：
 
 - **你的工作帐户的全局管理员凭据**
 
@@ -65,7 +68,7 @@ ms.locfileid: "92006826"
 
 ### <a name="get-started"></a>入门
 
-1. 若要开始此过程，请访问[欢迎页面](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)进行注册。
+1. 要开始注册过程，请转到[欢迎页](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)进行注册。
 
 2. 查看“欢迎”页面，以确保你具有注册所需的信息，然后选择“下一步”。
 
@@ -79,7 +82,7 @@ ms.locfileid: "92006826"
 
 6. 输入 Partner Membership Center 帐户的密码，然后选择“登录”。
 
-7. 选择具有已链接到你的激励、成员资格权益和能力的 MPN ID 的公司档案。 接下来，我们可以将此信息移到合作伙伴中心帐户。 选择**继续**。
+7. 选择具有已链接到你的激励、成员资格权益和能力的 MPN ID 的公司档案。 接下来，我们可以将此信息移到合作伙伴中心帐户。 选择 **继续** 。
 
    如果此页面上未列出你想要使用的 MPN ID，请选择“取消”，并使用你想要使用的公司档案的用户名和密码重新登录。
 
@@ -98,6 +101,16 @@ ms.locfileid: "92006826"
    1. 在“合作伙伴中心”中，选择“设置”图标，然后选择“用户管理”。
 
    2. 从用户列表中选择你的名称。 然后选择“管理员代理”（如果它尚未处于选定状态）。 选择“更新”。
+
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>所有间接经销商都需要签署 Microsoft 合作伙伴协议
+
+1.  如果你尚未从 Partner Membership Center 迁移到合作伙伴中心，请立即迁移。 如需有关迁移到合作伙伴中心的帮助，请阅读[从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)。 
+
+2.  如果你有合作伙伴中心成员身份帐户，仍需要正式注册云解决方案提供商计划。 要检查成员身份状态，请转到[合作伙伴个人资料](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)并确认帐户类型。 然后[以间接经销商的身份注册 CSP](enrolling-in-the-csp-program.md)。 以间接经销商的身份注册后，[请接受来自间接提供商的 CSP 关系请求](indirect-reseller-tasks-in-partner-center.md)。
+
+3.  如果你之前已经以间接经销商的身份注册了合作伙伴中心，请使用全局管理员凭据在[合作伙伴中心仪表板概述](https://partner.microsoft.com/pcv/dashboard/overview)上接受 Microsoft 合作伙伴协议。 在合作伙伴个人资料的“计划信息”部分中，确认你已签署 Microsoft 合作伙伴协议。 此外，你还会在 CSP 概述页上看到一条确认横幅通知。 
+
+:::image type="content" source="images/mpagreen.png" alt-text="指示已接受协议的绿色横幅":::
 
 
 ## <a name="connect-with-an-indirect-provider"></a>与间接提供商联系
@@ -128,6 +141,8 @@ ms.locfileid: "92006826"
 
 
 ## <a name="next-steps"></a>后续步骤
+
+- [帐户验证过程](verification-responses.md)
 
 - [管理合作伙伴中心帐户](partner-center-account-setup.md)
 

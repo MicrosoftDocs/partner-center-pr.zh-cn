@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663868"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133144"
 ---
 # <a name="manage-incentives-co-op-claims"></a>管理激励合作声明
 
@@ -65,13 +65,11 @@ ms.locfileid: "91663868"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在 **激励**下，选择 " **计划管理**"。
+2. 在 **激励** 下，选择 " **合作管理** "。
 
-3. 选择 " **合作管理**"。
+3. 选择要提出异议的合作申请。 此时将打开 "合作声明" 页。
 
-4. 选择要提出异议的合作申请。 此时将打开 "合作声明" 页。
-
-5. 在页面底部，选择“异议”。
+4. 在页面底部，选择“异议”。
 
 合作申请验证团队将在五个工作日内审查申请。 在此期间，状态将显示为“有争议”。 我们可能会与你联系，要求你提供其他信息。 审查完成后，验证团队会将状态更新为“已批准”、“已拒绝”或“需要合作伙伴执行操作”  。
 

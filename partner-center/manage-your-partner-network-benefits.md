@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作伙伴网络权益
-ms.topic: article
-ms.date: 09/03/2020
+ms.topic: how-to
+ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作伙伴网络 (MPN) 并使用合作伙伴中心来管理成员资格权益和优惠，从而帮助拓展业务。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427084"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523582"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
@@ -39,7 +39,7 @@ ms.locfileid: "89427084"
 购买会员权益套餐后，需要获取软件密钥并为员工分配许可证、订阅和其他权益，然后即可开始使用这些权益。
 
 >[!IMPORTANT]
->尽管无需是组织中的全局管理员即可购买权益，但只有全局管理员才能为员工分配权益。 如果需要，可以根据[**权益**页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明成为全局管理员（需要登录）。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
+>尽管无需是组织中的全局管理员即可购买权益，但只有全局管理员才能为员工分配权益。 如果需要，可以根据 [**权益** 页](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的说明成为全局管理员（需要登录）。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
 
 权益套餐涵盖已授权软件、云服务、Visual Studio 订阅和技术支持的分配。 权益套餐还可能涵盖某些市场推广资源、产品/服务和市场相关计划。 可以在 [Microsoft 合作伙伴网络](https://partner.microsoft.com/membership/internal-use-software)站点上获取 Action Pack 订阅详细信息。  
 
@@ -86,7 +86,8 @@ ms.locfileid: "89427084"
 
 4. 对于要分配的每个订阅都重复此过程。 用户可以在 Visual Studio 门户中管理其订阅。
 
-   随时可以通过删除分配的用户，然后分配其他用户，来重新分配订阅。
+   >[!Note]
+   >如果距原始分配时间已经过去 90 天，Visual studio 订阅管理员可以将订阅从一个订阅者重新分配给另一个订阅者。 有关其他信息，请阅读 [Microsoft 合作伙伴计划指南](https://aka.ms/partner-benefits-use-guide)。
 
 ## <a name="manage-technical-benefits"></a>管理技术权益
 

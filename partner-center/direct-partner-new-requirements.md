@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366851"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795758"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
@@ -32,9 +32,10 @@ ms.locfileid: "89366851"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |你所在办公地点的活动 Microsoft 合作伙伴网络 (MPN) ID。    |
 |**认可**   |代表组织接受和签署法律协议的授权。|
+|**收入**|从 2021 年 1 月起，注册为直接计费合作伙伴的合作伙伴需要在过去 12 个月内，在合作伙伴全局帐户级别达到至少 30 万美元的云解决方案提供商计划收入。| 
 |**支持**   |向客户提供一级云产品支持的能力。 <br/>Microsoft 支持计划（合作伙伴高级支持 (ASfP) 或合作伙伴顶级支持 (PSfP)），具体取决于你的需求。 [比较支持计划](https://partner.microsoft.com/support/partnersupport)。<br/> 重要：在购买支持计划之前必须通过信用检查。 如果通过了信用检查，我们会向你发送电子邮件。 |
 |**托管服务**   |至少一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加[托管服务](https://partner.microsoft.com/business-opportunities/managed-services-provider)的更多信息。|
-|**应收帐款** |用于管理客户计费和预配的已就绪组织基础架构。
+|**应收帐款** |用于管理客户计费和预配的已就绪组织基础架构。|
 
 ### <a name="verify-direct-bill-eligibility"></a>验证直接计费资格
 

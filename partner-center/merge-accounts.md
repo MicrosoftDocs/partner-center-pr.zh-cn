@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795825"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189741"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>将你的合作伙伴帐户与其他合作伙伴帐户合并
 
@@ -98,18 +98,28 @@ ms.locfileid: "92795825"
   
     b. Azure AD 租户 = @contoso.com
  
-    c. 1月1日过期的金牌资格，2020
+    c. 2020年10月1日过期的金牌资格
 2. Fabricam.com
  
     a.  全局 MPN ID 3333333 和2个下属位置 MPN Id 4444444 和5555555
 
-    b.  AAD 租户 = @fabricam.com
+    b.  Azure AD 租户 = @fabricam.com
 
-    c.  两个黄金能力，12月 1 2020 日过期
-3.  Contoso 购买 Fabricam.com，转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求
+    c.  2020年12月1日过期的两个黄金胜任度
+3.  Contoso 购买 Fabricam.com，转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求。
 4.  Fabricam.com 登录到合作伙伴中心，并转到 Contoso 在步骤 #3 中所执行的同一页面，以批准 Contoso 的请求。
 5.  Contoso 查看此同一页面上的合并的详细信息，并向帐户合并提供确认。
+6.  合并后，公司帐户将显示为：
+
+    a.  名为 Contoso、全局 MPN ID 为1111111、4个下属位置 MPN Id 为2222222、3333333、4444444和5555555的公司
     
+    b.  它将具有两个 Azure AD 租户 (@contoso.com + @fabricam.com) ，可以访问同一合作伙伴中心帐户
+    
+    c.  它将具有两个能力权益包，其中一个包在10月 1 2020 日过期，另一个在 2020 12 月1日过期。 他们将能够在2020年12月1日作为单一能力权益包续订。 续订后，Contoso 将保留所有三项能力，即使它们只能维护单个权益包。
+    
+7.  Contoso 的管理员将继续为用户管理合作伙伴中心角色 @contoso.com 。 Fabricam.com 的管理员将继续为用户管理合作伙伴中心角色 @fabricam.com 。 Contoso 的管理员只能管理 Fabricam.com 的用户，前提是他们被邀请为 Fabricam.com 的租户中的来宾。
+8.  Contoso 可以决定忽略 @fabricam.com 租户，并 @contoso.com 通过新的角色和权限重新发出 fabricam.com 员工的新凭据。
+
 ## <a name="next-steps"></a>后续步骤
 
 - [为用户分配角色和权限](permissions-overview.md)

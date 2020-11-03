@@ -1,7 +1,7 @@
 ---
 title: 奖励合作和索赔概述
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何通过组织正确的文档、发票、语句和执行证明，为奖励提交成功的合作声明。
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848217"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133076"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>获得协作营销资金
 
@@ -34,13 +34,16 @@ ms.locfileid: "90848217"
 可在 [合作基金资源](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) 页面上了解详细信息。
 
 >[!Important]
->合作声明不适用于在线服务咨询 (OSA) 销售、在线服务使用情况 (OSU) -Microsoft 365 和 OSU 应用程序激励计划。 若要提交其中某个程序的声明，请参阅 [使用 CPOR 模型创建客户 associearation](submit-osa-claim.md)。
+>合作声明不适用于在线服务咨询 (OSA) 销售、在线服务使用 (OSU) -Microsoft 365 和 OSU-Business 应用程序奖励计划。 若要提交其中某个程序的声明，请参阅 [使用 CPOR 模型创建客户 associearation](submit-osa-claim.md)。
 
 ## <a name="how-co-op-funds-are-calculated"></a>如何计算合作基金
 
 Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格的激励收入。 您将使用您的单个计划的现有开单步调来接收折扣部分，而 Microsoft 将会将激励收益的合作部分累积。
 
 可以在激励计划指南中了解有关 "向外扩展" 和 "拆分百分比" 的详细信息。 使用 [此过程](incentives-determined-your-program-eligibility.md) 来访问收视指南。
+
+>[!NOTE]
+>如果你的合作收入低于共同收益期内的阈值，则在本半期结束时，合作收益将转换为折扣。 有关更多详细信息或要确定阈值金额，请参阅激励计划指南。
 
 ## <a name="when-to-claim-your-funds"></a>何时宣称你的资金
 
@@ -49,7 +52,7 @@ Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格
 - H1 是会计年7月1日至12月31日的前半部分。
 - H2 是会计年度的第二半部分（1月1日-6 月30日）。
 
-六个月期间，在此期间，你的收益将成为你的收入 **期间**。 在以下六个月的 **使用期限内**，必须在某个时间点使用这些收入。 如果使用期限结束时未使用收入，则会使。 **申报期**是六个月期间，你可以在此期间为激励计划活动报销补偿。
+六个月期间，在此期间，你的收益将成为你的收入 **期间** 。 在以下六个月的 **使用期限内** ，必须在某个时间点使用这些收入。 如果使用期限结束时未使用收入，则会使。 **申报期** 是六个月期间，你可以在此期间为激励计划活动报销补偿。
 
 下表显示了不同的收入、使用情况和申报期限。 除非另有说明，否则句点将从第一个月的第一天到上个月的最后一天。
 
@@ -65,11 +68,11 @@ Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格
 
 以下资源将帮助你开始使用合作声明。
 
-| 要执行此操作 | 阅读本文 |
+| 任务 | 阅读本文 |
 | ------ | ----------- |
 | 提交声明 |  [创建和管理激励计划合作声明](create-incentives-claims.md)  |
 | 管理提交的声明 | [创建和管理激励计划合作声明](create-incentives-claims.md)    |
-| 了解活动声明的核心要求 | [激励计划中的活动的核心要求](core-requirements.md)   |
+| 了解活动声明的核心要求 | [关于奖励计划中的活动的核心要求](core-requirements.md)   |
 | 查看激励计划的详细信息 | [合作伙伴奖励合作指南](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | 创建客户关联并提交声明 | [使用 CPOR 模型创建客户关联](submit-osa-claim.md)   |
 

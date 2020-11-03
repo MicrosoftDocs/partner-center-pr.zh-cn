@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749696"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917206"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,7 +22,9 @@ ms.locfileid: "92749696"
 
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[更新的云解决方案提供商 (CSP) 数字体验现已推出](2020-october.md#15)|10 月 28 日|
 |功能|[在云解决方案提供商 (CSP) 计划中引入针对 Direct Bill Partner 要求的业绩标准](2020-october.md#13)|10 月 27 日|
+|产品/市场|[2020 年 10 月云解决方案提供商 (CSP) 软件订阅价目表更新](2020-october.md#14)|10 月 26 日|
 |产品/市场|[Microsoft 365 商务语音优惠更新](2020-october.md#12)|10 月 16 日|
 |功能|[2020 年 11 月更新：联机服务和软件通道授权指南](2020-october.md#11)|10 月 14 日|
 |产品/市场|[为非营利性组织引入 Introducing Microsoft 365 商务语音](2020-october.md#10)|10 月 12 日|
@@ -45,7 +47,7 @@ ms.locfileid: "92749696"
 |功能|[.NET Standard v1.16.2 上的SDK 版本](2020-september.md#11)|9 月 22 日|
 |功能|[合作伙伴中心见解 - 供你了解自己与 Microsoft 业务往来情况的独一报告资源。](2020-september.md#10)|9 月 23 日|
 |产品/市场|[宣布正式发布 Azure SQL Edge](2020-september.md#9)|9 月 22 日|
-|功能|[将于 2020 年 9 月 30 日发布对云解决方案提供商 O365 使用情况 API 和云解决方案提供商许可证使用情况报告的更改。](2020-september.md#8)|9 月 17 日|
+|功能|[将于 2020 年 9 月 30 日发布对 CSP O365 使用情况 API 和 CSP 许可证使用情况报告的更改。](2020-september.md#8)|9 月 17 日|
 |功能|[间接经销商 MPA 更新。MPA API 用户需要执行的操作及新 MPA 报告](2020-september.md#7)|9 月 16 日|
 |产品/市场|[现可自助购买 Microsoft Project 和 Microsoft Visio](2020-september.md#6)|9 月 15 日|
 |产品/市场|[新的 SKU 将 Project Cortex 等内容的强大功能带给客户](2020-september.md#5)|9 月 8 日|

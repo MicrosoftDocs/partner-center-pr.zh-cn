@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
-ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92098476"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795801"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
@@ -22,7 +22,115 @@ ms.locfileid: "92098476"
 
 2020 公告：[3月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
+________________________________
 
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>在云解决方案提供商 (CSP) 计划中引入针对直接计费合作伙伴要求的业绩标准
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-27
+- 功能
+ 
+### <a name="summary"></a>摘要
+
+我们将在云解决方案提供商计划的直接计费合作伙伴要求中引入业绩标准。
+
+### <a name="impacted-audience"></a>影响受众
+
+云解决方案提供商计划中的直接计费合作伙伴。
+
+### <a name="details"></a>详细信息
+
+发展和优化 Microsoft 云解决方案提供商计划是我们为合作伙伴和客户提供新商务体验之旅的一个重要组成部分。 因此，我们将持续改进该计划，以满足客户不断变化的需求，并为合作伙伴提供最高效且最具盈利能力的体验。
+
+今天，我们将分享一些即将对云解决方案提供商计划中的直接计费合作伙伴要求进行的更改。
+
+首先，我们将在直接计费合作伙伴要求中引入业绩标准。 如果合作伙伴想要在云解决方案提供商计划中注册为直接计费合作伙伴，则其必须在[要求的支持合同](https://partner.microsoft.com/support/partnersupport)续订日期之前的 12 个月内达到 30 万美元的云解决方案提供商计划收入。
+
+此业绩标准将于 2021 年 1 月对当前直接计费合作伙伴生效，而你需要在合作伙伴支持计划续订日期之前满足要求。
+
+如果你无法或不愿意满足更新的直接计费合作伙伴要求，则需要在云解决方案提供商计划中重新注册为间接经销商。 
+
+这项新的收入要求可帮助云解决方案提供商计划中的合作伙伴按照更明确的业绩标准，通过适当的模型开发更具盈利能力的业务，并专注于向客户提供更大的价值，同时减少基础结构和运营开销。
+
+其次，早在 2018 年 8 月，我们便更新了直接计费合作伙伴要求，为合作伙伴购买符合条件的合作伙伴支持计划制定了新标准。 我们将再次强调这一要求对于云解决方案提供商计划中所有直接计费合作伙伴的重要性。
+
+### <a name="direct-bill-partner-requirements"></a>直接计费合作伙伴要求
+
+查看[更新的直接计费合作伙伴要求](../direct-partner-new-requirements.md#minimum-requirements)和建议，评估如何在云解决方案提供商计划中使用适当的模型开发和扩展更具盈利能力的业务：
+
+1. 新的收入业绩要求
+
+从 2021 年 1 月开始，目前已在云解决方案提供商计划中注册为直接计费合作伙伴的现有合作伙伴需要满足新的业绩标准。 你需要在下一个合作伙伴支持计划续订日期之前满足这些要求。 可按照[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)查看过去 12 个月在合作伙伴中心的收入。
+
+自 2020 年 10 月起，在云解决方案提供商计划中注册的新合作伙伴最初将注册为间接经销商。 他们必须在过去 12 个月内达到至少 30 万美元的 CSP 收入。 可按照[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)查看过去 12 个月在合作伙伴中心的收入。 
+
+2. 支持合同要求 
+
+通过购买以下两个支持合同选项之一来扩展支持功能：  
+
+   - Microsoft 合作伙伴高级支持 (ASfP)：一对一的优先云支持  
+   - Microsoft 合作伙伴顶级支持 (PSfP)：访问主动服务的完整目录、全天候的升级中断/修复支持以及跨云、混合和本地方案的技术帐户管理。 
+
+比较[支持合同选项](https://partner.microsoft.com/support/partnersupport)以购买符合条件的计划。
+
+### <a name="direct-bill-partner-recommendations"></a>直接计费合作伙伴建议
+
+**演示主要功能**
+
+为了帮助确保你已做好准备并了解支持直接计费计划所需的基础结构，我们提供了一些额外建议。 展示你至少提供一项托管服务、IP 服务或客户解决方案应用程序。 合作伙伴应在 Microsoft 云服务的基础上增添价值，而不只是直接转售我们的服务。 这是合作伙伴进入市场策略的重要组成部分。 [详细了解](https://partner.microsoft.com/solutions/managed-services)如何添加托管服务。 建议满足最低的基础结构功能，例如计费和预配。 
+
+CSP 计划中不满足新要求的直接计费合作伙伴需要在 Microsoft 合作伙伴网络的计划中重新注册为间接经销商。 [详细了解](../transition-direct-to-indirect.md)如何从直接计费合作伙伴转变为间接经销商。  
+
+### <a name="next-steps"></a>后续步骤
+
+- 查看[更新的直接计费合作伙伴要求](../direct-partner-new-requirements.md#minimum-requirements)。
+- 查看 [Microsoft 合作伙伴网站上的运营资源库](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)中的常见问题解答和其他信息。
+- 如果间接经销商选项更适合你的业务需求，请查找[要合作的间接提供商](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)。
+________________________________
+
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 商务语音产品/服务更新
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-16
+- 产品/市场
+ 
+### <a name="summary"></a>摘要
+
+11 月价目表预览版中的产品/服务 ID 不正确。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+我们最近分享了有关 11 月即将推出的新产品/服务的公告：[面向非营利性组织的 Microsoft 365 商务语音](#10)和 [Microsoft 365 商务语音](#9)。
+
+
+这些公告中的几个产品/服务 ID 已更正。 预计这些已更正的产品/服务 ID 将在未来几周公布的 11 月价目表更新中发布。
+
+#### <a name="correct-offer-ids"></a>正确的产品/服务 ID
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 商务语音采用促销（仅限美国）|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 商务语音（非营利性组织员工定价）|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+
+#### <a name="incorrect-offer-ids"></a>错误的产品/服务 ID
+
+应忽略以下 11 月价目表预览版产品/服务 ID 信息。 
+
+   |**产品/服务名称**|**产品/服务 ID**|
+   |-------------------|:------|
+   |Microsoft 365 商务语音采用促销（仅限美国）|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 商务语音（非营利性组织员工定价）|ae54a18d-3472-473a-9b21-9831b8e658f3|
+
+### <a name="next-steps"></a>后续步骤
+
+- 熟悉预览版价目表的内容，并与贵组织中所有合适的联系人共享此信息。
+- 查看 CSP 计划更新资源库[为中小型企业推出 Microsoft 365 商务语音](https://partner.microsoft.com/resources/collection/m365-voice-smb)中的所有准备材料。
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020 年 11 月更新：联机服务和软件渠道授权指南
@@ -124,7 +232,7 @@ Microsoft 将为合作伙伴推出两种新的 CSP 促销，以推动合作伙�
 #### <a name="additional-resources"></a>其他资源
 
 - 请访问 [Microsoft 365 商务语音合作伙伴页](https://www.microsoft.com/microsoft-365/partners/businessvoice)，详细了解商务语音。 
-- 请参阅 Microsoft 365 中的音频会议，详细了解[音频会议功能](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)。
+- 请参阅 Microsoft 365 中的音频会议，详细了解[音频会议功能](/microsoftteams/audio-conferencing-in-office-365)。
 - 若要详细了解这些促销，请参阅[相关合作伙伴常见问题解答](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)。
 
 ### <a name="next-steps"></a>后续步骤
@@ -165,7 +273,7 @@ ________________
 
 - 灵活的导航；通过它，你无需完成上一部分即可在任何部分查看、编辑和保存信息。
 - 没有多个嵌套级别的新的整页视图。
-- 用于标记和整理 Azure 资源的新功能。 有关标记的详细信息，请参阅[使用标记来整理 Azure 资源](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)。
+- 用于标记和整理 Azure 资源的新功能。 有关标记的详细信息，请参阅[使用标记来整理 Azure 资源](/azure/azure-resource-manager/management/tag-resources)。
 
 如果对这些更改抱有疑问，请联系我们的[支持团队](https://aka.ms/marketplacepublishersupport)。
 
@@ -382,7 +490,7 @@ ________________
 
 - 查看 [Dynamics CSP 产品/服务 - 2020 年 11 月](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel 文档中的“Project Operations”选项卡，了解产品/服务 ID 详细信息。
 - 有关详细信息，请访问 [Microsoft Dynamics 365 Customer Voice 主页](https://dynamics.microsoft.com/customer-voice/overview/)。
-- 查看 9 月 [Dynamics 新产品/服务公告](https://docs.microsoft.com/partner-center/announcements/2020-september#3)。
+- 查看 9 月 [Dynamics 新产品/服务公告](2020-september.md#3)。
 
 ________________
 

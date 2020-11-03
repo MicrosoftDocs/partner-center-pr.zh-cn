@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴安全要求
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 合作伙伴要求简介，这些要求包括启用多重身份验证 (MFA) 和采用安全应用程序模型框架。
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763345"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680385"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>针对使用合作伙伴中心或合作伙伴中心 API 的合作伙伴的安全要求
 
@@ -43,7 +43,7 @@ ms.locfileid: "91763345"
 
 1. **为合作伙伴租户中的所有用户帐户启用多重身份验证 (MFA)** 。 在登录到 Microsoft 商业云服务时，或者通过合作伙伴中心或 API 在云解决方案提供商计划中进行交易时，合作伙伴租户中的所有用户帐户必须接受多重身份验证 (MFA)。
 
-2. **采用安全应用程序模型框架**。 采用安全应用程序模型框架。 所有集成合作伙伴中心 API 的合作伙伴必须对任何应用 + 用户身份验证模型应用程序采用安全应用程序模型框架。
+2. **采用安全应用程序模型框架** 。 采用安全应用程序模型框架。 所有集成合作伙伴中心 API 的合作伙伴必须对任何应用 + 用户身份验证模型应用程序采用安全应用程序模型框架。
 
     > [!IMPORTANT]
     > 强烈建议合作伙伴实现安全应用程序模型，以便集成 Microsoft API（例如 Azure 资源管理器、Microsoft Graph）或利用自动化（例如使用用户凭据的 PowerShell），避免在强制实施 MFA 时出现任何中断。
@@ -58,7 +58,7 @@ ms.locfileid: "91763345"
 
 - 为每个用户帐户购买 Azure Active Directory Premium。 有关详细信息，请参阅[规划基于云的 Azure 多重身份验证部署](/azure/active-directory/authentication/howto-mfa-getstarted)。
 
-- 使用第三方解决方案为合作伙伴租户中的每个用户帐户强制实施多重身份验证。 要确保解决方案将提供预期的解决办法，请参阅[如何强制实施安全要求](#how-the-requirements-will-be-enforced)。
+- 使用第三方解决方案为合作伙伴租户中的每个用户帐户强制实施多重身份验证。 要确保解决方案将提供预期的解决办法，请参阅[如何强制实施安全要求](#how-the-requirements-are-enforced)。
 
 > [!NOTE]
 > 虽然多重身份验证不是主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）的协议要求的，但我们仍强烈建议你履行这些安全要求。
@@ -92,7 +92,7 @@ ms.locfileid: "91763345"
 
 由于这些要求适用于合作伙伴租户中的所有用户帐户，因此需考虑多个事项以确保顺利进行部署，其中包括：确定 Azure Active Directory 中不能执行多重身份验证的用户帐户，以及组织所使用的不支持新式身份验证的应用程序和设备。
 
-建议在执行任何操作之前确定以下事项：
+建议在执行任何操作之前完成以下验证： 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>你是否有不支持使用新式身份验证的应用程序或设备？
 
@@ -100,9 +100,9 @@ ms.locfileid: "91763345"
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>你是否有用户使用通过与合作伙伴租户相关联的许可证获得的 Office 365？
 
-在实现任何解决方案之前，建议你确定合作伙伴租户中的用户所使用的 Microsoft Office 版本。 用户可能会在使用 Outlook 之类的应用程序时遇到连接问题。 在强制实施多重身份验证之前，必须确保使用的是 Outlook 2013 SP1 或更高版本，且组织已启用新式身份验证。 有关详细信息，请参阅[在 Exchange Online 中启用新式身份验证](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+在实现任何解决方案之前，建议你确定合作伙伴租户中的用户所使用的 Microsoft Office 版本。 用户可能会在使用 Outlook 之类的应用程序时遇到连接问题。 在强制实施多重身份验证之前，必须确保使用的是 Outlook 2013 SP1 或更高版本，且组织已启用新式身份验证。 有关详细信息，请参阅[在 Exchange Online 中启用新式身份验证](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。 
 
-若要为任何运行 Windows 且已安装 Microsoft Office 2013 的设备启用新式身份验证，需创建两个注册表项。 请参阅[在 Windows 设备上启用适用于 Office 2013 的新式身份验证](/office365/admin/security-and-compliance/enable-modern-authentication)。
+要为任何运行 Windows 且已安装 Microsoft Office 2013 的设备启用新式身份验证，需创建两个注册表项。 请参阅[在 Windows 设备上启用适用于 Office 2013 的新式身份验证](/office365/admin/security-and-compliance/enable-modern-authentication)。
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>是否有策略阻止用户在工作时使用其移动设备？
 
@@ -128,17 +128,19 @@ ms.locfileid: "91763345"
 
 ## <a name="accessing-your-environment"></a>访问环境
 
-若要更好地了解哪个帐户或用户在进行身份验证时没有受到多重身份验证质询，建议查看登录活动。 可通过 Azure Active Directory Premium 利用登录报表。 有关详细信息，请参阅 [Azure Active Directory 门户中登录活动报告](/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果你没有 Azure Active Directory Premium 或正打算通过 PowerShell 获取此服务，则需要利用[合作伙伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模块中的 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet。
+若要更好地了解哪个帐户或用户在进行身份验证时没有受到多重身份验证质询，建议查看登录活动。 可通过 Azure Active Directory Premium 利用登录报表。 有关此主题的详细信息，请参阅 [Azure Active Directory 门户中的登录活动报告](/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果你没有 Azure Active Directory Premium 或正打算通过 PowerShell 获取此登录活动，则需要利用[合作伙伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模块中的 [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet。
 
-## <a name="how-the-requirements-will-be-enforced"></a>将如何强制实施这些要求
+## <a name="how-the-requirements-are-enforced"></a>如何强制实施这些要求
 
-合作伙伴安全要求将先后由 Azure Active Directory 和合作伙伴中心强制实施，方法是：检查是否存在 MFA 声明，以便确定是否进行了多重身份验证。 从 2019 年 11 月 18 日开始，Microsoft 会激活针对合作伙伴租户的其他安全保护措施（以前称为“技术强制措施”）。 
+合作伙伴安全要求先后由 Azure Active Directory 和合作伙伴中心强制实施，方法是：检查是否存在 MFA 声明，以便确定是否进行了多重身份验证。 从 2019 年 11 月 18 日开始，Microsoft 激活了针对合作伙伴租户的其他安全保护措施（以前称为“技术强制措施”）。
 
-激活后，合作伙伴租户中的用户在执行任何管理员代表 (AOBO) 操作时都会被要求完成多重身份验证 (MFA)。 我们会继续将安全保护措施的范围扩大到其他方案和用户角色，但会提前通知合作伙伴。 有关详细信息，请参阅本文档（将经常更新）。 尚未满足这些要求的合作伙伴应尽快实施这些措施，以免出现业务中断。 
+激活后，合作伙伴租户中的用户在执行任何管理员代表 (AOBO) 操作、访问合作伙伴中心门户或调用合作伙伴中心 API 时都会被要求完成多重身份验证 (MFA)。 有关更多详细信息，请参阅[为合作伙伴租户强制执行多重身份验证 (MFA)](partner-security-requirements-mandating-mfa.md)。 
+
+尚未满足这些要求的合作伙伴应尽快实施这些措施，以免出现业务中断。 
 
 如果使用 Azure 多重身份验证或 Azure AD 安全性默认设置，则不需执行任何其他操作。
 
-使用第三方多重身份验证解决方案时，可能会出现 MFA 声明未发出的情况。 如果缺少该声明，则 Azure Active Directory 无法确定身份验证请求是否受到了多重身份验证的质询。 若要了解如何验证解决方案是否发出了预期的声明，请阅读[测试合作伙伴安全要求](/powershell/partnercenter/test-partner-security-requirements)。 
+如果使用的是第三方多重身份验证解决方案，可能会出现 MFA 声明未发出的情况。 如果缺少该声明，则 Azure Active Directory 无法确定身份验证请求是否受到了多重身份验证的质询。 若要了解如何验证解决方案是否发出了预期的声明，请阅读[测试合作伙伴安全要求](/powershell/partnercenter/test-partner-security-requirements)。 
 
 > [!IMPORTANT]
 > 如果第三方解决方案未发出预期的声明，则需咨询开发该解决方案的供应商，以确定应该采取哪些措施。
