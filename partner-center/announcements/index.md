@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917206"
+ms.locfileid: "93027884"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "92917206"
 
 | **类别** | **2020 年 10 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[合格的云解决方案提供商 (CSP) 教育客户先可使用 Windows 10 教育版升级](2020-october.md#16)|10 月 28 日|
 |功能|[更新的云解决方案提供商 (CSP) 数字体验现已推出](2020-october.md#15)|10 月 28 日|
 |功能|[在云解决方案提供商 (CSP) 计划中引入针对 Direct Bill Partner 要求的业绩标准](2020-october.md#13)|10 月 27 日|
 |产品/市场|[2020 年 10 月云解决方案提供商 (CSP) 软件订阅价目表更新](2020-october.md#14)|10 月 26 日|
