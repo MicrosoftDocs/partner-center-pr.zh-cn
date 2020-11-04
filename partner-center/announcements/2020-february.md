@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031780"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132838"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -175,7 +175,7 @@ _________________
 
 ### <a name="key-considerations"></a>关键注意事项
 
-安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](../partner-security-requirements.md#actions-that-you-need-to-take)之一。 它提供基本的安全级别，无需额外付费即可启用。 查看[如何通过 Azure AD 为你的组织启用 MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) 和以下主要注意事项：
+安全默认值策略是合作伙伴可以根据业务需求选择为安全要求实现 MFA 的[选项](../partner-security-requirements.md#implementing-multi-factor-authentication)之一。 它提供基本的安全级别，无需额外付费即可启用。 查看[如何通过 Azure AD 为你的组织启用 MFA](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) 和以下主要注意事项：
 
 - 对于使用[条件访问](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作伙伴，安全默认值将不可用。
 - 安全默认值强制执行所有策略，包括管理员所需的 MFA 策略、最终用户保护策略以及服务管理所需的 MFA。

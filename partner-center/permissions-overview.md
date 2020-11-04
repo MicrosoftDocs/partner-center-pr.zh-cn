@@ -1,7 +1,7 @@
 ---
 title: 向用户分配角色和权限
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解哪些角色最适合你所在公司的用户，这些用户在合作伙伴中心管理商业交易、引荐、奖励或 MPN 成员资格。
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006812"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133025"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 
@@ -97,8 +97,6 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴使用的应用，使�
 |**来宾用户**   | **角色**|
 |---------------------------|:--------------------|
 ||MPN 合作伙伴管理员|
-||帐户管理员|
-||奖励管理员|
 ||企业档案管理员|
 ||引荐管理员|
 

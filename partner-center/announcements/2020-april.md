@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031840"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132986"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -192,7 +192,7 @@ _________________
 感谢你对你的合作伙伴和对确保生态系统以信任为基础运行所做的努力。
 
 >[!NOTE] 
->如果正在使用基线策略，且尚未转换到安全默认策略或[其他 MFA 实现选项](..\partner-security-requirements.md#actions-that-you-need-to-take)，请尽快参考[此处的关键资源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)实现转换。
+>如果正在使用基线策略，且尚未转换到安全默认策略或[其他 MFA 实现选项](..\partner-security-requirements.md#implementing-multi-factor-authentication)，请尽快参考[此处的关键资源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)实现转换。
 
 ### <a name="change-log"></a>更改日志
 
@@ -741,7 +741,7 @@ _________________
 ### <a name="impacted-audience"></a>影响受众
 所有云解决方案提供商计划合作伙伴。
 
-**2020 年 4 月 1 日更新**截至 2020 年 1 月 31 日，云解决方案提供商 (CSP) 计划中的所有合作伙伴都应接受针对他们所有交易 CSP 租户的协议。 之前，我们传递的信息是协议的下一个实施阶段将从 2020 年 4 月开始。  然而，为了防止对业务造成任何中断，我们已决定将下一个阶段的实施延长至 2020 年 4 月之后进行。 我们收到了来自一些云解决方案提供商合作伙伴的反馈，他们在接受 MPA 时遇到了问题。 基于这些情况，我们正努力保障 Microsoft 资源已做好为这些接受协议时遇到困难的合作伙伴提供支持的准备。
+**2020 年 4 月 1 日更新** 截至 2020 年 1 月 31 日，云解决方案提供商 (CSP) 计划中的所有合作伙伴都应接受针对他们所有交易 CSP 租户的协议。 之前，我们传递的信息是协议的下一个实施阶段将从 2020 年 4 月开始。  然而，为了防止对业务造成任何中断，我们已决定将下一个阶段的实施延长至 2020 年 4 月之后进行。 我们收到了来自一些云解决方案提供商合作伙伴的反馈，他们在接受 MPA 时遇到了问题。 基于这些情况，我们正努力保障 Microsoft 资源已做好为这些接受协议时遇到困难的合作伙伴提供支持的准备。
 
 ### <a name="summary"></a>摘要
 截至 2020 年 1 月 31 日，云解决方案提供商计划中的所有合作伙伴（包括间接经销商）都应接受 Microsoft 合作伙伴协议，从而确保能够继续开发新客户或为 CSP 计划中的现有客户新下订单。 CSP 计划中的所有合作伙伴现在必须接受 Microsoft 合作伙伴协议。
