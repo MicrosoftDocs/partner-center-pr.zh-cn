@@ -1,18 +1,17 @@
 ---
 title: 在 Azure 门户中创建和管理专用 Azure Marketplace
 description: 了解如何创建和管理专用 Azure Marketplace (预览) 在 Azure 门户中。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429303"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414852"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 门户中创建和管理私有 Azure Marketplace (预览) 
 
@@ -32,7 +31,7 @@ ms.locfileid: "91429303"
 >[!IMPORTANT]
 > 只有分配有 Marketplace 管理员角色的 IT 管理员才能访问专用 Azure Marketplace 管理。
 
-### <a name="prerequisites"></a>必备条件
+### <a name="prerequisites"></a>先决条件
 
 必须满足这些先决条件，然后才能将 Marketplace 管理员角色分配给租户范围内的用户：
 
@@ -130,46 +129,42 @@ Assign-MarketplaceAdminRole
 ## <a name="create-private-azure-marketplace"></a>创建专用 Azure Marketplace
 
 1. 登录 [Azure 门户](https://portal.azure.com/)。
-2. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
+2. 选择 " **所有服务** "，然后选择 " **Marketplace** "。
 
-   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 门户主窗口。&quot;:::
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 门户主窗口。":::
 
 3. 从左侧的选项中选择 " **专用 Marketplace** "。
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure 门户主窗口。&quot;:::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="在 Azure 门户主窗口上选择 &quot;专用 Marketplace&quot;。":::
 
-3. 从左侧的选项中选择 " 创建专用 Azure Marketplace (你只需) 完成此操作。
+4. 选择 " **开始** 使用" 创建专用 Azure Marketplace (你只需) 完成此操作。
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure 门户主窗口。&quot;:::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="选择 Azure 门户主窗口上的 &quot;开始&quot;。":::
 
-3. 从左侧的选项中选择 " **管理 marketplace** "。
+    如果此租户已存在专用 Azure Marketplace，则默认情况下将选择 " **管理 marketplace** "。
 
 5. 完成后，你将拥有一个空且已禁用的专用 Azure Marketplace。
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Azure 门户主窗口。&quot;:::
-
-3. 从左侧的选项中选择 ":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="空的专用 Azure Marketplace 屏幕。":::
 
 ## <a name="add-items-from-gallery"></a>从库中添加项
 
 项是产品/服务和计划的组合。 你可以在 "管理应用商店" 页中搜索和添加项。
 
-1. 选择 " **添加项**"。
+1. 选择 " **添加项** "。
 
 2. 浏览 **库** ，或使用搜索字段查找所需的项。
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Azure 门户主窗口。&quot;:::
-
-3. 从左侧的选项中选择 ":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="浏览库或使用搜索字段。":::
 
 3. 默认情况下，在添加新产品/服务时，所有当前计划将添加到 "允许列表"。 若要在添加选定项之前修改计划选择，请在产品的磁贴中选择下拉菜单，并更新所需的计划。
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Azure 门户主窗口。&quot;:::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="更新所需的计划。":::
 
-3. 从左侧的选项中选择 " **完成** "。
+4. 做出选择后，请选择左下角的 " **完成** "。
 
 >[!Note]
-> 将**项目添加**到 Marketplace 仅适用于非 Microsoft 产品/服务。 默认情况下允许 Microsoft 产品/服务。
+> 将 **项目添加** 到 Marketplace 仅适用于非 Microsoft 产品/服务。 默认情况下允许 Microsoft 产品/服务。
 
 ## <a name="edit-item-plans"></a>编辑项计划
 
@@ -178,28 +173,26 @@ Assign-MarketplaceAdminRole
 1. 在 " **计划** " 列中，查看该项的下拉菜单中的可用计划。
 2. 选中或清除相应的复选框，以选择要对用户提供哪些计划。
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Azure 门户主窗口。&quot;:::
-
-3. 从左侧的选项中选择 ":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="选中或清除所需项的复选框。":::
 
 > [!NOTE]
 > 每个服务都需要至少选择一个计划才能进行更新。 若要删除与产品/服务相关的所有计划，请删除整个提议 (参阅下一部分) 。
 
 ## <a name="delete-offers"></a>删除产品/服务
 
-在 "管理应用商店" 页上，选中 "产品/服务名称" 旁边的复选框 (参阅上方的屏幕) 并选择 " **删除项目**"。
+在 "管理应用商店" 页上，选中 "产品/服务名称" 旁边的复选框 (参阅上方的屏幕) 并选择 " **删除项目** "。
 
 ## <a name="enabledisable-private-azure-marketplace"></a>启用/禁用专用 Azure Marketplace
 
 在 "管理应用商店" 页上，你将看到其中一个横幅，其中显示了专用 Azure Marketplace 的当前状态：
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Azure 门户主窗口。&quot;:::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="禁用状态横幅":::
 
-3. 从左侧的选项中选择 ":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="启用状态横幅":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Azure 门户主窗口。&quot;:::
+你可以根据需要启用或禁用专用 Azure Marketplace。
 
-3. 从左侧的选项中选择 " 启用。
+1. 如果已禁用，请选择 " **启用专用 Marketplace** " 启用。
 2. 如果已启用，请选择 **禁用专用 Marketplace** 禁用。
 
 ## <a name="browsing-private-azure-marketplace"></a>浏览私有 Azure Marketplace
@@ -211,9 +204,7 @@ Assign-MarketplaceAdminRole
 
 用户可以筛选不允许使用的产品/服务：
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Azure 门户主窗口。&quot;:::
-
-3. 从左侧的选项中选择 ":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="筛选选项。":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>在专用 Azure Marketplace 中购买或部署
 
@@ -221,18 +212,16 @@ Assign-MarketplaceAdminRole
 
 - 当用户选择允许的计划时，将启用 " **创建** " 按钮：
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Azure 门户主窗口。&quot;:::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="提供横幅说明可以创建一个计划。":::
 
-3. 从左侧的选项中选择 " 按钮。
+- 如果用户选择了不允许的计划，则会出现一个横幅，指出不允许该计划，并且禁用了 " **创建** " 按钮。
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Azure 门户主窗口。&quot;:::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="提供横幅指出，无法创建计划。":::
 
-3. 从左侧的选项中选择 " 按钮：
+- 如果产品计划选择未出现在 "产品详细信息" 页中，但管理员批准了一个或多个计划，则标题会说明允许哪些计划，并启用了 " **创建** " 按钮：
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Azure 门户主窗口。&quot;:::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="提供横幅指出，可以创建计划并显示可用计划。":::
 
-3. 从左侧的选项中选择 ":::
-
-## <a name="contact-support"></a>联系支持人员
+## <a name="contact-support"></a>联系支持
 
 有关 Azure Marketplace 支持，请访问 [Microsoft 问答&](/answers/products/)。 
