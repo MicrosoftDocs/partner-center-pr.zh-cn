@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795801"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132821"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
@@ -22,7 +22,134 @@ ms.locfileid: "92795801"
 
 2020 公告：[3月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
-________________________________
+______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server 软件订阅功能更新
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-29
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+此前购买了 Windows Server 标准软件订阅的云解决方案提供商 (CSP) 合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft 于 2020 年 10 月 30 日宣布针对 Windows Server 软件订阅向 CSP 发布一项新的功能更新。 此更新包括 Windows Server 软件订阅产品：Windows Server Standard 版本 20H2（CSP 产品 ID：DG7GMGF0DVT9）。 该产品现在可以使用已更新的下载文件。 合作伙伴可以选择下载最新的文件以获取新功能。
+
+### <a name="next-steps"></a>后续步骤
+
+- 请与贵组织中的相应联系人共享这些信息。
+- 查看 [Windows Server 版本 20H2 文档](/windows/release-information/status-windows-10-20h2)
+
+________________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>合格的云解决方案提供商 (CSP) 教育版客户现可使用 Windows 10 教育版升级
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-28
+- 功能
+
+### <a name="summary"></a>摘要
+
+CSP 合作伙伴如果已为其教育版客户购买了 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅，则现在可以帮助他们将 Windows 10 家庭版设备升级到 Windows 10 教育版。
+
+### <a name="impacted-audience"></a>影响受众
+
+已为其教育版客户购买 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅的 CSP 合作伙伴
+
+### <a name="details"></a>详细信息
+
+从 2020 年 11 月 1 日起，购买了 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅的 CSP 可以帮助他们的教育版客户从 Windows 10 家庭版升级到 Windows 10 教育版，教育版专为课堂和远程学习而设计。
+
+从 2020 年 11 月 1 日开始，Windows 10 家庭版将成为通过 Microsoft 云协议（通过 CSP）许可的教育版客户的合格操作系统。 此资格到目前为止只在批量许可 (VL) 教育计划中提供，是通过 Microsoft 365 管理门户支持启用的。 
+
+#### <a name="how-the-upgrade-process-works"></a>升级过程的工作原理
+
+CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级。 Microsoft 支持将审查请求以确保你的客户符合资格；一旦请求获得批准，他们将向客户提供 Windows 10 专业教育版密钥。
+
+客户安装密钥且设备通过 Azure Active Directory (AAD) 加入租户域后，设备将自动升级到 Windows 10 教育版（订阅）。   
+
+有关如何升级客户的详细信息，请参阅[分步指南和常见问题解答主题](../upgrade-windows-to-education.md)。
+
+### <a name="next-steps"></a>后续步骤
+
+- 通知符合资格的客户并指导他们逐步完成流程。
+- 与组织中的相关人员共享此信息。  
+
+________________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>更新的云解决方案提供商 (CSP) 数字体验现已推出
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-28
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+云解决方案提供商合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft 致力于帮助我们的合作伙伴最大限度地发挥他们的潜力，构建创新的解决方案，并在 Microsoft 合作伙伴网络中推动更多客户取得成功。 云解决方案提供商 (CSP) 计划是我们发展最快的计划之一，有超过 90,000 家公司参与其中。
+为了推动云解决方案提供商计划中合作伙伴的业务增长，我们正在 Microsoft 合作伙伴网络网站上推出更新的云解决方案计划 (CSP) 数字体验，并提供新的 CSP 指南。 这种改进的体验和新的资源将有助于合作伙伴在 CSP 计划中发掘新的机会，并更有效地发展其业务。
+
+这种新的数字体验将包括：
+
+- 更新的 CSP 数字体验，有助于加快合作伙伴的业务增长：更新的 CSP 页面提供了一种精简的体验，引导合作伙伴完成注册、构建实践、进入市场和销售的过程。 合作伙伴可以通过销售演练市场营销活动和进入市场的资源增加他们的收入机会。 其他集成资源有助于合作伙伴在 CSP 计划中保持更新状态并轻松开展业务。
+- 新的云解决方案提供商计划指南，有助于合作伙伴发掘新的机会：本分步指南为合作伙伴提供了如何通过该计划加速云业务增长和扩大收入机会的指导。
+- 解决方案工作区中的 CSP 计划内容：解决方案工作区是一种数字体验，可为你提供按需资源的单一目的地，从而将你的想法更快地推向市场。 现在，服务提供商可以在解决方案工作区中找到特定于 CSP 计划的内容和资源。
+
+### <a name="additional-resources"></a>其他资源
+
+- 请访问[更新的 CSP 页面](https://aka.ms/CSP) 
+- 请参阅[新的 CSP 计划指南](https://aka.ms/cspguidebook)，了解更多有关增长机会的信息
+- 开始使用解决方案工作区来构建实践并简化步骤
+- 利用销售演练资源开展更多市场营销活动 
+- 请鼓励你的同事访问 CSP 页面并在你的组织中共享上述资源。 如果你是间接提供商，请与你的间接经销商共享资源。
+
+________________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>2020 年 10 月云解决方案提供商 (CSP) 软件订阅价目表更新
+
+### <a name="categories"></a>类别
+
+- 日期:2020-10-26
+- 产品/市场
+ 
+### <a name="summary"></a>摘要
+
+2020 年 10 月的软件订阅价目表已更新。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+2020 年 10 月的软件订阅价目表已更新，包括之前省略的两种产品。
+
+2020 年 10 月已推出 [Windows 7 第二年 ESU](#3)。 第二年定价现可在软件订阅价目表中找到。
+- 产品 ID：DG7GMGF0FL73
+- SKU ID：0003
+
+[Azure SQL Edge](2020-september.md#9) 已于 2020 年 9 月底发布。 现已在当前合作伙伴中心价格表中提供。 
+- 产品 ID：DG7GMGF0GJC2
+
+通过登录合作伙伴中心并导航到“销售/套餐和定价”，可以获得所有 CSP 合作伙伴中心的价目表。
+
+### <a name="additional-resources"></a>其他资源
+
+- [Windows 7 支持常见问题解答页面](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 支持和 Microsoft 365 应用](/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 ESU 资源库](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Azure SQL Edge 站点](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>在云解决方案提供商 (CSP) 计划中引入针对直接计费合作伙伴要求的业绩标准
 

@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/29/2020
+ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795758"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045384"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
@@ -24,27 +24,26 @@ ms.locfileid: "92795758"
 
 ## <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
 
-作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2018 年 8 月 31 起，我们已更新直接计费合作伙伴的注册要求。 这些新要求将帮助你通过适当的云解决方案提供商注册模型加快业务增长。 它们还将帮助你通过增值服务和支持来增强你的客户关系。
+作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2020 年 10 月 27 日起，我们已更新直接计费合作伙伴的注册要求。 这些要求将有助于你利用合适的云解决方案提供商模式加速业务发展，并利用增值服务和支持增强客户关系。  
 
 ### <a name="minimum-requirements"></a>最低要求
 
-|**要求**|                             |
+|**要求**|                |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN ID**   |你所在办公地点的活动 Microsoft 合作伙伴网络 (MPN) ID。    |
+|**MPN ID**   |Microsoft 合作伙伴网络中的有效成员资格以及适用于销售所在地的 MPN ID。   |
 |**认可**   |代表组织接受和签署法律协议的授权。|
-|**收入**|从 2021 年 1 月起，注册为直接计费合作伙伴的合作伙伴需要在过去 12 个月内，在合作伙伴全局帐户级别达到至少 30 万美元的云解决方案提供商计划收入。| 
-|**支持**   |向客户提供一级云产品支持的能力。 <br/>Microsoft 支持计划（合作伙伴高级支持 (ASfP) 或合作伙伴顶级支持 (PSfP)），具体取决于你的需求。 [比较支持计划](https://partner.microsoft.com/support/partnersupport)。<br/> 重要：在购买支持计划之前必须通过信用检查。 如果通过了信用检查，我们会向你发送电子邮件。 |
-|**托管服务**   |至少一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加[托管服务](https://partner.microsoft.com/business-opportunities/managed-services-provider)的更多信息。|
+|**支持**   |向客户提供一级云产品支持的能力。 <br/>Microsoft 支持计划（合作伙伴高级支持 (ASfP) 或合作伙伴顶级支持 (PSfP)），具体取决于你的需求。 [比较支持计划](https://partner.microsoft.com/support/partnersupport)。<br/>重要：在购买支持计划之前必须通过信用检查。 如果通过了信用检查，我们会向你发送电子邮件。 |
+|**收入要求**|作为间接经销商，必须在过去 12 个月内达到至少 30 万美元的云解决方案提供商计划年收入。 合作伙伴可查看过去 12 个月在合作伙伴中心的收入。<br/>Microsoft 将审查并验证构成你过去 12 个月内 30 万美元收入的销售额，并可能要求你提供附加信息。 30 万美元的收入要求是根据云收入计算的，其中不包括 CSP 中的永久软件。|
 |**应收帐款** |用于管理客户计费和预配的已就绪组织基础架构。|
+|建议|             |
+|**托管服务**   |至少一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加[托管服务](https://partner.microsoft.com/business-opportunities/managed-services-provider)的更多信息。|
+
 
 ### <a name="verify-direct-bill-eligibility"></a>验证直接计费资格
 
-如果你尚未执行此操作，请查看上述最低要求，确保可以满足这些要求，然后完成[云解决方案提供商调查表](https://partner.microsoft.com/cloud-solution-provider/assessment)。
+在你确认自己满足以直接计费合作伙伴身份注册的最低要求后，可以转到[注册表单](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)。
 
-我们将使用你对表单中问题的回答，来帮助确定你是否有资格以直接计费合作伙伴的身份注册 CSP 计划。
-
-在我们确认贵公司已满足以直接计费合作伙伴身份注册的资格要求，并且你已完成注册申请后，我们将审查并验证你在注册过程中提供的企业信息。 在审查过程中，我们将检查贵公司的信用。 如果贵公司通过了信用检查，我们将通过电子邮件告诉你。
-
+在我们确认贵公司满足以直接计费合作伙伴身份注册的资格要求后，你即已完成注册申请，接下来，我们将审查并验证你在注册过程中提供的企业信息。 在审查过程中，我们将检查贵公司的信用。 如果贵公司通过了信用检查，我们将通过电子邮件告诉你。
 >[!IMPORTANT]
 >完成公司信用检查可能需要几天或更长时间。 在此期间，请务必不要购买 Microsoft 支持计划。 仅当我们通知你已通过信用检查后，才购买 Microsoft 支持计划。
 
@@ -55,6 +54,9 @@ ms.locfileid: "92795758"
 如果决定要从直接计费业务迁移到间接经销商业务，有一些步骤需要执行。 若要详细了解过渡，请参阅[从云解决方案提供商 (CSP) 计划直接合作伙伴过渡到云解决方案提供商计划间接经销商](transition-direct-to-indirect.md)。
 
 ## <a name="next-steps"></a>后续步骤
+
+- [直接计费合作伙伴新收入要求](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

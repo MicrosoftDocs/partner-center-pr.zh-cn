@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406360"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133042"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>关于合作伙伴安全要求的常见问题解答
+# <a name="common-questions-about-partner-security-requirements"></a>合作伙伴安全要求的常见问题
 
 **适用于**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406360"
 
 - 所有支持的用户，包括来宾用户
 
-## <a name="partner-security-requirements"></a>合作伙伴安全要求
 
-本文包含[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题解答。
+本文回答了有关[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题。
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>什么是合作伙伴安全要求以及合作伙伴为什么应实施它？
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>什么是合作伙伴安全要求？合作伙伴为什么应实施它们？
 
-提供更大力度的持续性安全和隐私保护是我们的首要任务，并且我们会继续帮助合作伙伴保护他们的客户和租户。 我们不断看到各种主要与身份泄露事件相关的安全攻击，其方法越来越复杂，其数量越来越多。 为了通过整体防御策略来阻止安全攻击，预防性的控制至关重要，因此我们于 2019 年引入了[强制性安全要求](partner-security-requirements.md)。 参与云解决方案提供商 (CSP) 计划的所有合作伙伴、控制面板供应商和顾问应实施这些要求以保持合规性。
+提供更大力度的持续性安全和隐私保护是我们的首要任务，并且我们会继续帮助合作伙伴保护他们的客户和租户。 我们不断看到各种主要与身份泄露事件相关的安全攻击，其方法越来越复杂，其数量越来越多。 为了通过整体防御策略来阻止安全攻击，预防性的控制至关重要，因此我们于 2019 年引入了[强制性安全要求](partner-security-requirements.md)。 参与云解决方案提供商 (CSP) 计划的所有合作伙伴、控制面板供应商和顾问必须实施这些要求以保持合规性。
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>关键的时间线和里程碑有哪些？
 
-与这些安全要求相关的条款（包括时间线和里程碑）已于 2019 年包含在 [Microsoft 合作伙伴协议](microsoft-partner-agreement.md)中。 为了保持参与 CSP 计划的合规性，你将需要尽快实施这些安全要求。
+与这些安全要求相关的条款（包括时间线和里程碑）已包含在 [Microsoft 合作伙伴协议](microsoft-partner-agreement.md)中。 为了保持参与 CSP 计划的合规性，你将需要尽快实施这些安全要求。
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>如果我没有实施这些合作伙伴安全要求会发生什么情况？
 
@@ -46,11 +45,11 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>安全要求是否适用于所有地理区域？
 
-是，安全要求适用于所有地理区域。 强烈建议所有通过主权云（世纪互联、Microsoft Cloud for US Government、德国 Microsoft 云）进行事务处理的合作伙伴立即行动起来，履行这些安全要求。 但是，这些合作伙伴不是必须满足在 8 月 1 日生效的这些新安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
+是，安全要求适用于所有地理区域。 强烈建议所有通过主权云（Microsoft Cloud for US Government、德国 Microsoft 云）处理事务的合作伙伴立即行动起来，履行这些安全要求。 但是，这些合作伙伴目前并不需要满足这些安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>是否可以让某个帐户例外？
 
-否，对于强制实施 MFA 这一要求，任何用户帐户都不能例外。 考虑到合作伙伴会有很高的特权，因此 Microsoft 合作伙伴协议要求针对合作伙伴租户中的每个用户帐户强制实施多重身份验证。
+否，对于强制实施多重身份验证 (MFA) 这一要求，任何用户帐户都不能例外。 考虑到合作伙伴会有很高的特权，因此 Microsoft 合作伙伴协议要求针对合作伙伴租户中的每个用户帐户强制实施多重身份验证。
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何才能知道自己是否满足合作伙伴安全要求？
 
@@ -59,7 +58,7 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 - 你需要满足[合作伙伴安全要求](partner-security-requirements.md)中列出的所有要求。
 - 需要确保合作伙伴租户中的所有用户帐户都已实施多重身份验证。
 
-为帮助确定可执行操作的关键区域，我们提供了 [安全要求状态](https://partner.microsoft.com/commerce/security/compliance)报告，你可通过合作伙伴中心获取此报告。
+为了帮助确定你可以采取行动的关键领域，我们提供了[安全要求状态报告](https://partner.microsoft.com/commerce/security/compliance)，该报告可通过合作伙伴中心获得。
 
 有关状态报告的详细信息，请参阅[合作伙伴安全要求状态](partner-security-compliance.md)。
 
@@ -308,7 +307,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 Azure Active Directory (Azure AD)[“基线”策略将被删除并被替换](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)为“安全默认设置”，这是一组适用于你和你客户的更全面的保护策略。 [安全默认设置](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)有助于保护组织免受与身份盗窃相关的安全攻击。
 
-如果你尚未从基线策略过渡到安全默认设置策略或[其他 MFA 实现选项](partner-security-requirements.md#actions-that-you-need-to-take)，你的多重身份验证 (MFA) 实现则会因基线策略的停用而被删除。 你合作伙伴租户中执行受 MFA 保护的操作的任何用户将被要求完成 MFA 验证。 在[此处](partner-security-requirements-mandating-mfa.md)查看更多详细的指南。
+如果你尚未从基线策略过渡到安全默认设置策略或[其他 MFA 实现选项](partner-security-requirements.md#implementing-multi-factor-authentication)，你的多重身份验证 (MFA) 实现则会因基线策略的停用而被删除。 你合作伙伴租户中执行受 MFA 保护的操作的任何用户将被要求完成 MFA 验证。 在[此处](partner-security-requirements-mandating-mfa.md)查看更多详细的指南。
 若要保持合规性并最大程度地减少中断，请执行以下操作之一：
 
 - 过渡到安全默认设置

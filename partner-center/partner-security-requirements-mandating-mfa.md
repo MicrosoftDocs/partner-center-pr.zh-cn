@@ -1,7 +1,7 @@
 ---
-title: 对合作伙伴租户强制执行 MFA
+title: 为合作伙伴租户强制执行多重身份验证 (MFA)
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解对合作伙伴租户强制执行 MFA 将如何有助于保护对客户资源的访问。 包括示例方案。
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680397"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133095"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>为合作伙伴租户强制执行多重身份验证 (MFA)
 
 **适用于**
 
 - 云解决方案提供商计划中的所有合作伙伴
-  - 直接计费
-  - 间接提供商
-  - 间接经销商
+- 所有控制面板供应商
 - 所有顾问
 
 **受影响的角色**
@@ -34,18 +32,15 @@ ms.locfileid: "92680397"
 - 帐务管理员
 - 全局管理员
 
-此功能的目的是帮助合作伙伴保护他们对客户资源的访问，防止凭据遭到泄露。
-合作伙伴需要为其合作伙伴租户中的所有用户帐户（包括来宾用户）强制执行多重身份验证 (MFA)。由于存在此功能，因此将针对以下方面强制这些合作伙伴角色完成 MFA 验证：
+本文提供了在合作伙伴中心强制执行多重身份验证 (MFA) 的详细示例和指导。 此功能的目的是帮助合作伙伴保护他们对客户资源的访问，防止凭据遭到泄露。 合作伙伴必须为其合作伙伴租户中的所有用户帐户（包括来宾用户）强制实施 MFA。 将针对以下方面强制这些用户完成 MFA 验证：
 
 - [合作伙伴中心仪表板](#partner-center-dashboard)
 - [合作伙伴中心 API](#partner-center-api)
 - [合作伙伴委派的管理](#partner-delegated-administration)
 
-提供更大力度的持续性安全和隐私保护是我们的首要任务，并且我们会继续帮助合作伙伴保护他们的客户和租户。 参与云解决方案提供商 (CSP) 计划的所有合作伙伴、控制面板供应商 (CPV) 和顾问应实施[合作伙伴安全要求](partner-security-requirements.md)以保持合规性。
+提供更大力度的持续性安全和隐私保护是我们的首要任务，并且我们会继续帮助合作伙伴保护他们的客户和租户。 参与云解决方案提供商 (CSP) 计划的所有合作伙伴、控制面板供应商 (CPV) 和顾问都应实施[合作伙伴安全要求](partner-security-requirements.md)以保持合规性。
 
-为了帮助合作伙伴保护其业务和客户免受身份盗用相关事件的影响，我们为合作伙伴租户激活了额外的安全保护措施，通过强制执行多重身份验证 (MFA) 来防止未经授权的访问，从而帮助合作伙伴确保其租户和客户安全。 
-
-本文档向合作伙伴提供了关于激活安全保护措施的详细体验和指南。
+为帮助合作伙伴保护其业务和客户免受身份盗用和未经授权的访问，我们为合作伙伴租户激活了额外的安全保护措施，以强制执行并验证 MFA。 
 
 ## <a name="partner-center-dashboard"></a>合作伙伴中心面板
 
@@ -55,12 +50,7 @@ ms.locfileid: "92680397"
 - “支持”>“客户请求”选项卡下的所有页面，例如通过 https://partner.microsoft.com/dashboard/support/csp/customers/* 访问的页面
 - 计费页面
 
-如果你要尝试访问任一这些页面并且之前尚未完成 MFA 验证，则需要执行此操作。
-
-> [!NOTE]
-> 合作伙伴中心的其他页面（例如“概览”页面、“服务运行状况状态”检查页面）将不会受到 MFA 的保护。
-
-以下用户类型有权访问这些受 MFA 保护的页面，因此会受到此功能的影响
+下表显示了哪些用户类型有权访问这些受 MFA 保护的页面（因此会受到此功能的影响）。
 
 
 | 受 MFA 保护的页面       | 管理员代理      |  销售代理     |   支持人员代理     | 全局管理员      |  帐务管理员     | 
@@ -69,9 +59,11 @@ ms.locfileid: "92680397"
 | “支持”>“客户请求”选项卡下的所有页面     | x      |       |    x   |       |       |
 | 计费页面     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>演示验证工作原理的示例
+如果你要尝试访问任一这些页面并且之前尚未完成 MFA 验证，则需要执行此操作。 合作伙伴中心的其他页面（例如“概览”页面、“服务运行状况状态”检查页面）不需要 MFA。
 
-为了说明验证的工作原理，请考虑以下两个示例。
+## <a name="verification-examples"></a>验证示例
+
+为了说明验证在合作伙伴中心面板的工作原理，我们列举了以下示例。
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>示例 1：合作伙伴已实现 Azure AD MFA
 
@@ -108,16 +100,16 @@ ms.locfileid: "92680397"
 6. John 尝试访问合作伙伴中心中任一受 MFA 保护的页面。 由于 John 未完成 MFA 验证，因此，合作伙伴中心将 John 重定向到 Azure AD 以完成 MFA 验证。 由于 John 已注册了 MFA，因此这次只要求他完成 MFA 验证即可。
 
 > [!NOTE]
->操作：公司管理员现在应通过合作伙伴中心建议的任一[选项](partner-security-requirements.md#actions-that-you-need-to-take)实现 MFA。
+>操作：公司管理员有[三个选项](partner-security-requirements.md#implementing-multi-factor-authentication)来实现 MFA。
 
 ## <a name="partner-center-api"></a>合作伙伴中心 API
 
-合作伙伴中心 API 同时支持“仅应用”身份验证和应用+用户身份验证。 
+合作伙伴中心 API 同时支持“仅应用”身份验证和“应用+用户”身份验证。 
 
 使用应用+用户身份验证时，合作伙伴中心将要求进行 MFA 验证。 更具体地说，当合作伙伴应用程序想将 API 请求发送到合作伙伴中心时，它必须在请求的授权标头中包含一个访问令牌。 
 
 > [!NOTE]
->[安全应用程序模型](/partner-center/develop/enable-secure-app-model)是一种安全且可缩放的框架，用于在你调用合作伙伴中心 API 时通过 Microsoft Azure MFA 体系结构对 CSP 合作伙伴和 CPV 进行身份验证；你需要在对你的租户启用 MFA 之前实现它。 
+>[安全应用程序模型框架](/partner-center/develop/enable-secure-app-model)是一种可缩放的框架，用于在你调用合作伙伴中心 API 时通过 Microsoft Azure MFA 体系结构对 CSP 合作伙伴和 CPV 进行身份验证。 在对租户启用 MFA 之前，需要实现此框架。 
 
 当合作伙伴中心收到带有使用“应用+用户”身份验证获得的访问令牌的 API 请求时，合作伙伴中心 API 将检查身份验证方法引用 (AMR) 声明中是否存在“MFA”值 。 你可以使用 JWT 解码器来验证访问令牌是否包含所需的身份验证方法引用 (AMR) 值：
 
@@ -163,17 +155,17 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 ## <a name="partner-delegated-administration"></a>合作伙伴委派的管理
 
-### <a name="using-service-portals"></a>使用服务门户
-
 合作伙伴帐户（包括管理员代理和支持人员代理）可以使用他们的合作伙伴委派管理员权限来通过 Microsoft Online Services 门户、命令行接口 (CLI) 和 API（使用的是“应用+用户”身份验证）管理客户资源。
 
-当使用“合作伙伴委派管理员权限(代表管理员)”来访问 Microsoft Online Services 门户时，这些门户中的众多门户都需要合作伙伴帐户以相互方式与设置为身份验证上下文的客户 Azure Active Directory 租户进行身份验证 - 合作伙伴帐户需要登录客户租户。
+### <a name="using-service-portals"></a>使用服务门户
 
-当 Azure Active Directory 收到此类身份验证请求时，它将要求合作伙伴帐户完成 MFA 验证。 可以使用两种用户体验，具体取决于合作伙伴帐户是托管标识还是联合身份标识：
+当使用“合作伙伴委派管理员权限(代表管理员)”来访问 Microsoft Online Services 门户时，这些门户中的许多门户都需要合作伙伴帐户以交互方式与设置为身份验证上下文的客户 Azure AD 租户进行身份验证 - 合作伙伴帐户需要登录客户租户。
 
-- 如果合作伙伴帐户是托管标识，Azure Active Directory 将直接提示用户完成 MFA 验证。 如果合作伙伴帐户之前尚未通过 Azure Active Directory 注册 MFA，系统则将要求用户首先[完成 MFA 注册](#mfa-registration-experience)。
+当 Azure AD 收到此类身份验证请求时，它将要求合作伙伴帐户完成 MFA 验证。 可以使用两种用户体验，具体取决于合作伙伴帐户是托管标识还是联合身份标识：
 
-- 如果合作伙伴帐户是联合身份标识，体验则取决于合作伙伴管理员在 Azure Active Directory 中配置联合验证的方式。 在 Azure Active Directory 中设置联合验证时，合作伙伴管理员可以向 Azure Active Directory 指示联合身份验证标识提供程序是否支持 MFA。 如果支持，Azure Active Directory 会将用户重定向到联合身份验证标识提供程序以完成 MFA 验证。 否则，Azure Active Directory 将直接提示用户完成 MFA 验证。 如果合作伙伴帐户之前尚未通过 Azure Active Directory 注册 MFA，系统则将要求用户首先[完成 MFA 注册](#mfa-registration-experience)。
+- 如果合作伙伴帐户是托管标识，Azure AD 将直接提示用户完成 MFA 验证。 如果合作伙伴帐户之前尚未通过 Azure AD 注册 MFA，系统将要求用户首先[完成 MFA 注册](#mfa-registration-experience)。
+
+- 如果合作伙伴帐户是联合身份标识，体验将取决于合作伙伴管理员在 Azure AD 中配置联合验证的方式。 在 Azure AD 中设置联合验证时，合作伙伴管理员可以向 Azure AD 指示联合身份验证标识提供程序是否支持 MFA。 如果支持，Azure AD 会将用户重定向到联合身份验证标识提供程序以完成 MFA 验证。 否则，Azure AD 将直接提示用户完成 MFA 验证。 如果合作伙伴帐户之前尚未通过 Azure AD 注册 MFA，系统将要求用户首先[完成 MFA 注册](#mfa-registration-experience)。
 
 整体体验与最终客户租户为它的管理员实现了 MFA 的方案类似。 例如，客户租户启用了 [Azure AD 安全默认设置](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，这要求具有管理权限的所有帐户通过 MFA 验证登录到客户租户，包括管理员代理和支持人员代理。 出于测试目的，合作伙伴可以在客户租户中启用 [Azure AD 安全默认设置](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，然后尝试使用合作伙伴委派的管理权限来访问客户租户。
 
@@ -202,19 +194,13 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 单击“下一步”后，系统将要求用户从验证方法列表中进行选择。
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 注册步骤 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 注册步骤 2":::
 
 成功注册后，用户需要根据所选择的验证完成 MFA 验证。
-
-## <a name="request-for-technical-exception"></a>请求技术例外
-
-如果合作伙伴遇到与 Microsoft Online Services 相关的技术问题并且没有可行的解决方案或暂时解决方法，他们可以申请技术例外以取消 MFA 验证。 在执行此操作之前，请查看以下部分：
-
-- [合作伙伴报告的常见问题列表](#list-of-common-issues-reported-by-partners)
-- [如何提交请求技术例外](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>合作伙伴报告的常见问题列表
-在申请技术例外之前，请查看由其他合作伙伴报告的常见问题列表以了解这些问题是否是请求技术例外的有效理由。
+## <a name="list-of-common-issues"></a>常见问题列表
+
+在申请 MFA 要求的[技术例外](#how-to-submit-a-request-for-technical-exception)之前，请查看由其他合作伙伴报告的常见问题列表以了解你的请求是否有效。
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>问题 1：合作伙伴需要更多的时间来为他们的合作伙伴代理实现 MFA
 合作伙伴尚未为他们的合作伙伴代理实现 MFA 或者正在实现过程中，这些代理需要使用合作伙伴委派的管理权限来访问 Microsoft Online Services 门户以管理客户资源。 合作伙伴需要更多的时间来完成 MFA 实现。 此问题能否成为请求技术例外的有效理由？
@@ -261,7 +247,9 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 你正在使用或计划使用的第三方 MFA 解决方案的采购订单。
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>如何提交请求技术例外
+## <a name="how-to-submit-a-request-for-technical-exception"></a>如何提交请求技术例外
+
+如果合作伙伴遇到与 Microsoft Online Services 相关的技术问题并且没有可行的解决方案或暂时解决方法，他们可以申请技术例外以取消 MFA 验证。 在此之前，请查看上一节中的[常见问题列表](#list-of-common-issues)。
 
 提交请求技术例外：
 
@@ -274,3 +262,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 4. 提供提交技术例外服务请求所需的详细信息，然后单击“提交”。
 
 Microsoft 可能在最长三个工作日的时间内响应技术例外请求。
+
+## <a name="next-steps"></a>后续步骤
+
+ - [合作伙伴安全要求状态](partner-security-compliance.md)
