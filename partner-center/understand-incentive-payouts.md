@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244057"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360048"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理和导出激励计划的详细信息
 
@@ -139,7 +139,7 @@ ms.locfileid: "93244057"
 
 -  (在 " **付费** " 选项卡和 " **挂起** " 选项卡上) " [合作伙伴中心" 仪表板](https://partner.microsoft.com/dashboard/)。  
 
-- 你的付款报表位于你的 [付款下载导出页](/partner-center/understand-incentive-payouts#payment-download-export)上。 
+- 你的付款报表位于你的 [付款下载导出页](#payment-download-export)上。 
 
 #### <a name="if-your-submission-is-rejected"></a>如果拒绝提交
 

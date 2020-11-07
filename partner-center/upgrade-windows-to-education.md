@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028768"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94359997"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>将 Windows 10 家庭客户升级到 Windows 10 教育版
 
@@ -31,13 +31,13 @@ ms.locfileid: "93028768"
 
 从2020年11月1日起，已购买 Microsoft 365 A3 或 A5 或 Windows 10 企业版 A3 或 A5 订阅的 Csp 可帮助其教育客户从 Windows 10 家庭版升级到 Windows 10 教育版，这适用于教室和远程学习。
 
-从2020年11月1日起，Windows 10 家庭版将成为通过 Microsoft 云协议 (通过 CSP) 许可的教育客户的合格操作系统。 这种符合性，除非现在已通过 Microsoft 365 管理门户支持启用批量许可 (VL) 教育计划。 
+从 2020 年 11 月 1 日开始，Windows 10 家庭版将成为通过 Microsoft 云协议（通过 CSP）许可的教育版客户的合格操作系统。 此资格到目前为止只在批量许可 (VL) 教育计划中提供，是通过 Microsoft 365 管理门户支持启用的。 
 
-## <a name="how-the-upgrade-process-works"></a>升级过程的工作方式
+## <a name="how-the-upgrade-process-works"></a>升级过程的工作原理
 
-CSP 合作伙伴可以通过代表其提交支持请求来帮助客户升级。 Microsoft 支持部门将检查请求，以确保客户有资格：批准请求后，支持人员会向合作伙伴提供 Windows 10 专业版教育密钥，然后将其提供给客户。
+CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级。 Microsoft 支持部门将检查请求，以确保客户有资格：批准请求后，支持人员会向合作伙伴提供 Windows 10 专业版教育密钥，然后将其提供给客户。
 
-当客户安装密钥并且设备通过 Azure Active Directory (AAD) 加入到租户域时，该设备将自动升级到 Windows 10 教育 (订阅) 。   
+客户安装密钥且设备通过 Azure Active Directory (AAD) 加入租户域后，设备将自动升级到 Windows 10 教育版（订阅）。   
 
 ## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>客户获取 Windows 10 教育的循序渐进过程
 
@@ -100,4 +100,4 @@ Windows 10 教育升级基于客户的活动 Microsoft 365 A3/A5 或 Windows 10 
 通过以下链接了解更多信息：
 
 - [Windows 教育功能](https://www.microsoft.com/education/products/windows/features)
-- [Windows 教育中心](https://docs.microsoft.com/education/windows/)
+- [Windows 教育中心](/education/windows/)
