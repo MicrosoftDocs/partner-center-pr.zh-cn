@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327257"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333906"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,10 +22,12 @@ ms.locfileid: "93327257"
 
 | **类别** | **2020 年 11 月公告** | **已公布** |
 |---------|:---------|:---------|
-|产品/市场|[合格的云解决方案提供商 (CSP) 教育客户先可使用 Windows 10 教育版升级](2020-november.md#4)|11 月 2 日|
-|产品/市场|[更新的云解决方案提供商 (CSP) 数字体验现已推出；2020 年 10 月云解决方案提供商 (CSP) 软件订阅价目表更新](2020-november.md#3)|11 月 2 日|
-|产品/市场|[2020 年 10 月云解决方案提供商 (CSP) 软件订阅价目表更新](2020-november.md#2)|11 月 2 日|
-|产品/市场|[在云解决方案提供商 (CSP) 计划中引入针对 Direct Bill Partner 要求的业绩标准](2020-november.md#1)|11 月 2 日|
+|功能|[扩展运营准备库上的商业许可合作伙伴内容](2020-november.md#6)|11 月 2 日|
+|产品/市场|[Microsoft Teams Rooms 高级 SKU 发布](2020-november.md#5)|11 月 2 日|
+|产品/市场|[即将推出适用于政府社区云 (GCC) 的新 Microsoft Teams 高级通信 SKU](2020-november.md#4)|11 月 2 日|
+|产品/市场|[Dynamics 365：最新发布和即将推出的新产品/服务](2020-november.md#3)|11 月 2 日|
+|产品/市场|[为非营利性组织推出 Microsoft 365 商务语音](2020-november.md#2)|11 月 2 日|
+|产品/市场|[现推出 Microsoft 365 商务语音的云解决方案提供商 (CSP) 促销](2020-november.md#1)|11 月 2 日|
 | **类别** | **2020 年 10 月公告** | **日期** |
 |功能|[Windows Server 软件订阅功能更新](2020-october.md#17)|10 月 29 日|
 |功能|[合格的云解决方案提供商 (CSP) 教育客户先可使用 Windows 10 教育版升级](2020-october.md#16)|10 月 28 日|
