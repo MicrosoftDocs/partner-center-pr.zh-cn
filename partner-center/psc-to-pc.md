@@ -1,20 +1,20 @@
 ---
 title: '从合作伙伴销售连接 (PSC) '
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: 了解 Microsoft 合作伙伴如何从合作伙伴销售连接 (PSC) 迁移到合作伙伴中心，以及如何创建或管理 Microsoft 卖方发送的交易。
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999341"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381421"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -30,7 +30,7 @@ ms.locfileid: "90999341"
 -  (PSC) 管理员的合作伙伴销售连接
 - 合作伙伴销售连接 (PSC) 交易经理
 
-如你所知，你的公司将无法访问 PSC，2020年12月31日。 不过，你会发现你要创建共同销售交易所要做的一切，管理你的交易，并对 Microsoft 卖方发送到合作伙伴中心的交易进行操作。 但有一些区别，以下指南可帮助你将过渡过渡到合作伙伴中心。
+如你所知，你的公司将无法访问 PSC，2021年3月31日。 不过，你会发现你要创建共同销售交易所要做的一切，管理你的交易，并对 Microsoft 卖方发送到合作伙伴中心的交易进行操作。 但有一些区别，以下指南可帮助你将过渡过渡到合作伙伴中心。
 
 >[!Important]
 > 如果你在此处看到有关迁移的关于迁移的横幅，就是正确的位置。 本指南不适用于在 PSC 中管理其交易 (SA) 和 OEM IOT 合作伙伴。
@@ -47,7 +47,7 @@ ms.locfileid: "90999341"
 >[!Important]
 > 请确保在 "合作伙伴中心" 中的 MPN 位置列表中提供了 PSC 横幅中所示的 MPN ID。 可以通过转到 "帐户设置" 和 "位置" 来验证合作伙伴中心中的 "帐户设置" 和 "[位置](manage-locations.md)"，以查找与合作伙伴中心帐户关联的所有 MPNs 列表。
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="显示 PSC 横幅的图像，合作伙伴可在其中找到 MPN ID。":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="显示 PSC 横幅的图像，合作伙伴可在其中找到 MPN ID。":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>如果是 PSC 交易经理或卖方
 
@@ -63,26 +63,55 @@ ms.locfileid: "90999341"
 
 - 贵公司的 [全局管理员](permissions-overview.md) 可授予你访问 "引用" 选项卡的权限。若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 选择左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。 然后，该页将显示具有各自电子邮件 Id 的所有全局管理员。 请与他们联系以获取工作帐户的 "引用管理员" 访问权限。
 
->[!Important]
-> 如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](permissions-overview.md#manage-referrals) " 角色。 另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。
+  >[!Important]
+  > 如果你的角色仅管理 PSC 中的用户，你可以在合作伙伴中心获得 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 如果你的角色还包括管理共同销售机会，你应该获得 " [引用管理员](permissions-overview.md#manage-referrals) " 角色。 另外，还提名了一项更改管理线索，以与合作伙伴中心帐户管理员合作，而不是由所有 PSC 管理员单独使用。
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 合作伙伴设置 用户管理页中的 帐户管理员 的图像。":::
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="显示 &quot;合作伙伴设置&quot; 用户管理页中的 &quot;帐户管理员&quot; 的图像。":::
 
 - 在左侧导航窗格中转到 "引用" 选项卡，并检查是否可以访问这些页面。
 
+  >[!Note]
+  > 您可能必须从合作伙伴中心注销并重新登录，以便刷新您的凭据以访问引用页面。
+
+## <a name="user-migration"></a>用户迁移
+
+在合作伙伴中心设置帐户后，使用 "共同销售机会" 页中的 "用户迁移向导" 将合作伙伴中心角色自动分配给公司的员工。
+
 >[!Note]
-> 您可能必须从合作伙伴中心注销并重新登录，以便刷新您的凭据以访问引用页面。
+> 用户迁移只能由公司的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 执行。 如果你没有帐户管理员角色，请使用用户迁移向导查找可帮助设置用户帐户的帐户管理员。 用户迁移功能将从2020年11月16日开始推出。
 
-在合作伙伴中心设置帐户后，
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="显示用户迁移向导的映像。":::
 
-- 下一步，邀请 PSC 中具有角色 "交易经理" 或 "卖方" 的所有用户作为下一步。
-- 帮助你使用引用访问权限的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 可以邀请所有用户。
-- 邀请用户时，要求帐户管理员将 " [引用管理员](permissions-overview.md#manage-referrals) " 角色分配给他们。
-- 一些 PSC 用户可能使用的是非工作帐户，或者使用的是合作伙伴中心以外的域中的帐户。 所有此类用户都需要使用附加到 Azure AD 租户的工作帐户登录到合作伙伴中心。 你的 [全局管理员](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 可对此有帮助。 若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 单击左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。
-- 全局管理员可以在 Azure AD 租户中创建新的用户帐户，也可以为来宾用户分配对其他域帐户用户的访问权限。
-- 为所有 PSC 交易经理和用户设置帐户后，他们需要登录到合作伙伴中心，在左侧导航栏中转到 "引用" 选项卡，然后检查以确保他们可以看到 "引用" 页面。
+帐户管理员将在 "参考指南" 旁边的 "共同销售机会" 页中获取 PSC 用户迁移向导链接。 用户可以通过单击该链接启动用户迁移。 此操作可执行多次，直到公司要迁移的所有用户都在合作伙伴中心分配了适当的角色。
+
+用户迁移表具有以下详细信息
+
+- 用户帐户-员工的电子邮件 ID
+- PSC 合作伙伴帐户-员工与 PSC 关联的帐户
+- PSC 用户角色-在 PSC 中分配给的三个角色之一。
+- PC MPN location-用户将获得相关 PC 角色的位置。 PSC 合作伙伴帐户 MPN 用于在伙伴中心查找要分配权限的等效 MPN 位置。 整个组织表示 vOrg MPN ID。
+- PC 用户角色-根据用户的 PSC 用户角色为员工分配角色。 PSC 中的管理员将被分配到 PC 中的 "引用管理员" 角色。 卖方将在 PC 中分配 "引用用户" 角色。 若要详细了解 PC 角色以及具有这些角色的用户可在[合作伙伴中心执行](permissions-overview.md#manage-referrals)的操作
+- PC AAD 租户-在合作伙伴中心将用户分配到的租户
+- 状态-迁移状态有三个可能的状态
+    - 未迁移-用户未分配任何电脑引用角色
+    - 已迁移-已成功迁移用户，并已分配相关角色，如下表所示
+    - 错误-由于出现一些错误，无法完成迁移
+
+迁移可能会失败，并会导致以下解决方案所提供的某些条件出错
+
+1. PSC 用户可能在使用非工作帐户。
+
+2. PSC 用户使用的帐户可能不同于你在合作伙伴中心使用的域。
+
+   - 若要解决与方案1和2相关的错误，所有此类用户都需要使用附加到 Azure AD 租户的工作帐户登录到合作伙伴中心。 你的 [全局管理员](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 可对此有帮助。 若要查找全局管理员，请从合作伙伴中心右上方的齿轮图标中转到 "合作伙伴设置"。 单击左侧导航栏中第二级的 "用户管理" 页。 单击页面右上方的 "所有用户" 下拉箭头，然后更改为 "全局管理员"。 全局管理员可以在 Azure AD 租户中创建新的用户帐户，也可以为来宾用户分配对其他域帐户用户的访问权限。 为所有 PSC 交易经理和用户设置帐户后，他们需要登录到合作伙伴中心，在左侧导航栏中转到 "引用" 选项卡，然后检查以确保他们可以看到 "引用" 页面。
+
+3. 用户已在合作伙伴中心分配了引用角色。
+    - 可以在帐户设置的 "用户管理" 页中验证用户的现有角色，并根据需要修改该角色。
+
+完成用户迁移后，请使用以下指南来决定迁移策略： 
 
 如果你的公司具有 PDM-当你的合作伙伴中心帐户已设置并且你的用户已移动并拥有角色和权限时，你可以将共同销售活动移动到合作伙伴中心。 通知 PDM 进行切换，而不是等到迁移完成截止时间，这会使所有新交易都流动到合作伙伴中心。
+
 >[!Note]
 >一旦您进行了此项切换，您将只能采取 PSC 中现有的活动交易。 您既不能创建新的交易，也不能从 PSC 的 Microsoft 卖方获得任何交易。
 
@@ -128,7 +157,7 @@ ms.locfileid: "90999341"
 - 交易角色不是 PC 中的必填字段。 它既不显示也不在任何工作流中捕获。 它基于添加到交易中的解决方案在 Microsoft 卖方端自动派生。
 - 上次修改日期不显示在 PC 的 "参考详细信息" 页上。 合作伙伴可以使用排序功能根据上一次更新的日期对交易进行排序。
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="此图像显示合作伙伴销售连接 (PSC) 网格视图和合作伙伴中心交易视图之间的字段映射。":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="此图像显示合作伙伴销售连接 (PSC) 网格视图和合作伙伴中心交易视图之间的字段映射。":::
 
 **PSC 和合作伙伴中心的交易详细信息视图**
 
@@ -141,26 +170,26 @@ ms.locfileid: "90999341"
 >[!Note]
 >不能编辑标记为赢单或丢失的任何交易。 在将交易转到其中一种终端状态时要格外小心。
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 交易详细信息视图和合作伙伴中心交易详细信息视图。":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 交易详细信息视图和合作伙伴中心交易详细信息视图。":::
 
 **PSC "添加产品" 视图和合作伙伴中心的 "添加解决方案" 视图**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 添加产品视图和合作伙伴中心添加解决方案视图。":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 添加产品视图和合作伙伴中心添加解决方案视图。":::
 
 **PSC 和合作伙伴中心的用户管理**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 帐户设置 视图中的 合作伙伴中心用户管理。":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="显示合作伙伴销售连接 (PSC 之间的字段映射的图像) 用户管理主页和 &quot;帐户设置&quot; 视图中的 &quot;合作伙伴中心用户管理&quot;。":::
 
 **PSC 和合作伙伴中心的用户角色分配**
 
 - PSC 管理员的等效角色是合作伙伴中心的帐户管理员角色。
 - 合作伙伴中心中只有一个角色，共同销售交易管理是推荐管理员角色。
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="此图像显示合作伙伴销售连接 (PSC) 角色分配视图和合作伙伴中心角色分配视图之间的字段映射。":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="此图像显示合作伙伴销售连接 (PSC) 角色分配视图和合作伙伴中心角色分配视图之间的字段映射。":::
 
 **PSC 和合作伙伴中心的通知**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="显示合作伙伴销售连接 (PSC 之间的映射的图像) 通知和合作伙伴中心通知视图。":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="显示合作伙伴销售连接 (PSC 之间的映射的图像) 通知和合作伙伴中心通知视图。":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>从 PSC 迁移到合作伙伴中心-常见问题
 
@@ -168,7 +197,7 @@ ms.locfileid: "90999341"
 
 您可以与 "无法访问" 页上列出的管理员联系，以获取分配的角色。 在 "引用" 部分下，你将需要 "[引用管理员](permissions-overview.md#manage-referrals)" 角色才能读取和写入权限。 如果你只管理业务配置文件，则在合作伙伴中心需要 "业务配置文件管理员" 角色。
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 无访问体验 的图像。":::
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="显示合作伙伴中心的 &quot;无访问体验&quot; 的图像。":::
 
 **Q2.谁有权访问合作伙伴中心的 "引用" 部分？**
 
@@ -246,7 +275,9 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 |创建和管理业务配置文件|[管理业务配置文件](./create-a-marketing-profile.md)
 |管理业务配置文件的潜在客户 |[管理潜在客户](./manage-leads.md)|
 
-## <a name="additional-resources"></a>其他资源
+## <a name="next-steps"></a>后续步骤
+
+请遵循以下其他资源：
 
 - [合作伙伴销售连接到合作伙伴中心工作簿](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -工作簿，通过合作伙伴中心与合作伙伴销售连接将合作伙伴的销售流程和角色与新的销售流程进行协调。
 - [合作伙伴中心共同销售操作指南](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -通过合作伙伴中心识别运营模型以管理潜在客户或共同销售机会并注册交易的指导。

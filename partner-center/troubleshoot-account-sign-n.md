@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174847"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381403"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>帐户设置或 MPN 续订问题的疑难解答
 
@@ -38,7 +38,7 @@ ms.locfileid: "92174847"
 选择 " **接受** 并 **继续** " 继续。
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部门已关闭 **合作伙伴中心的注册**，
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部门已关闭 **合作伙伴中心的注册** ，
 
 你会看到此消息，因为已禁用病毒用户，或者是因为 Azure AD 租户上禁用了病毒注册。 Azure AD 帐户的全局管理员可以通过运行以下 PowerShell 命令来启用所需的功能：
 
@@ -50,7 +50,7 @@ ms.locfileid: "92174847"
 
 如果忘记了密码，请在登录页上选择 " **无法访问帐户？** " 链接。 此选项可让你重置密码或请求全局管理员为你分配新凭据。
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>在 "告诉我们你的公司" visualbasicwinappprojectscriptonlyviewbutton 上，你会收到 "出现错误" 错误
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 "告诉我们你的公司" 屏幕上，你会看到 "出现错误" 错误
 
 如果你无意中在公司电话号码中使用特殊字符、空格或国家/地区代码，则会出现此错误消息。 在 "电话号码" 字段中输入的值最多只能包含10个字符。
 
