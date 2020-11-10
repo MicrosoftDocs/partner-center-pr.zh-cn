@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980258"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433337"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>将客户的 Azure 计划订阅转移到不同的合作伙伴
 
-## <a name="applies-to"></a>适用于
+**相应的角色**
 
 - 云解决方案提供商 (CSP) 计划中的合作伙伴
 
@@ -66,42 +66,55 @@ ms.locfileid: "91980258"
 
 未来的订阅合作伙伴需要从合作伙伴中心完成一个传输请求表单，请求订阅转让：
 
-1.  从 "合作伙伴中心" 菜单中，选择 " **客户**"，然后选择要代表其完成传输请求表单的客户。
-2.  从 "客户" 菜单中选择 " **订阅**"。
+1.  从 "合作伙伴中心" 菜单中，选择 " **客户** "，然后选择要代表其完成传输请求表单的客户。
+2.  从 "客户" 菜单中选择 " **订阅** "。
 3.  选择 " **传输请求** " 部分。
-4.  从 " **传输请求" 部分**中，选择 " **添加新请求**"。
+4.  从 " **传输请求" 部分** 中，选择 " **添加新请求** "。
 
-    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="传输部分&quot;:::
+    :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="传输部分":::
 
-5.  完成 &quot; **新建传输请求** " 窗体。
+5.  完成 " **新建传输请求** " 窗体。
 
-6.  选择**发送传输请求**  >  **发送**。
+6.  选择 **发送传输请求**  >  **发送** 。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="传输部分&quot;:::
-
-5.  完成 &quot; **新建传输请求** ":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="完成传输请求窗体":::
 
 7.  查看传输请求确认
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="传输部分&quot;:::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="查看挂起的传输":::
 
-5.  完成 &quot; **新建传输请求** " 后，将无法取消取消。
+    >[!Note]
+    >只有在传输请求状态为 "挂起" 时，才能通过选择右上角的 " **取消请求** " 来取消传输请求。 传输请求状态为 "正在进行" 或 "完成" 后，将无法取消取消。
 
 ## <a name="current-partner-tasks-to-be-completed"></a>当前要完成的合作伙伴任务
 
 客户的当前合作伙伴的管理员代理将收到一封电子邮件，指出其客户正在请求传输其订阅：
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="传输部分&quot;:::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="审阅":::
 
-5.  完成 &quot; **新建传输请求** " 下的所选**传输请求 ID**展开传输信息。
+查看并接受合作伙伴中心的传输请求窗体，以完成订阅转移。
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="传输部分&quot;:::
+>[!Note]  
+>如果当前合作伙伴在30天内没有执行任何操作，则该请求将过期，将来的合作伙伴将拥有来创建新的传输请求。
 
-5.  完成 &quot; **新建传输请求** " 完成传输过程。
+1.  选择电子邮件中的 " **查看传输请求** " 或
+1.  从 "合作伙伴中心" 菜单中，选择 " **客户** "，然后选择代表其提交了传输请求的客户。
+2.  从 "客户" 菜单中选择 " **订阅** "。
+3.  选择 " **传输请求** " 部分。
+4.  通过选择 " **接收的请求** " 下的所选 **传输请求 ID** 展开传输信息。
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="传输部分&quot;:::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="源审阅传输请求":::
 
-5.  完成 &quot; **新建传输请求** ":::
+5.  查看传输请求。 选择要传输的请求的 Azure 订阅。
+
+>[!Note]  
+> 请注意，在继续操作之前，你将无法再访问所选订阅。
+> 不会向你开具发票以便进一步使用。
+> Azure 预订不会与订阅一起传输。
+
+6.  然后选择 " **接受并传输** " 完成传输过程。
+
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="选择要在 Azure 计划下传输的订阅":::
 
 7.  查看传输接受确认。
 
