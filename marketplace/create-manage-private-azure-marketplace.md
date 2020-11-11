@@ -3,15 +3,15 @@ title: 在 Azure 门户中创建和管理专用 Azure Marketplace
 description: 了解如何创建和管理专用 Azure Marketplace (预览) 在 Azure 门户中。
 ms.prod: marketplace-customer
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: msjogarrig
+ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
-ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
+ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "93414852"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487697"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 门户中创建和管理私有 Azure Marketplace (预览) 
 
@@ -128,7 +128,7 @@ Assign-MarketplaceAdminRole
 
 ## <a name="create-private-azure-marketplace"></a>创建专用 Azure Marketplace
 
-1. 登录 [Azure 门户](https://portal.azure.com/)。
+1. 登录到 [Azure 门户](https://portal.azure.com/)。
 2. 选择 " **所有服务** "，然后选择 " **Marketplace** "。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 门户主窗口。":::
@@ -222,6 +222,6 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="提供横幅指出，可以创建计划并显示可用计划。":::
 
-## <a name="contact-support"></a>联系支持
+## <a name="contact-support"></a>联系支持人员
 
 有关 Azure Marketplace 支持，请访问 [Microsoft 问答&](/answers/products/)。 

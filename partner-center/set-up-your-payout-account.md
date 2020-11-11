@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007401"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488120"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
 
@@ -28,7 +28,7 @@ ms.locfileid: "91007401"
 - [设置付款帐户](#payout-account)
 
 > [!NOTE]
-> 若要详细了解如何以及何时收到产品/服务付款，请参阅[收取付款](/azure/marketplace/marketplace-payout-account-setup)。
+> 若要详细了解你将如何以及何时支付你的产品/服务，请参阅 [在商业市场中付费](marketplace-get-paid.md)。
 
 ## <a name="tax-forms"></a>纳税表单
 
@@ -77,11 +77,11 @@ ms.locfileid: "91007401"
 付款帐户是将销售收款发送到的银行帐户。 你可以查看在“配置文件”页上输入的所有付款帐户。
 
 > [!NOTE]
-> 在某些市场中，PayPal 可用作你的付款帐户。 若要了解特定市场是否支持 PayPal，请参阅下面的[付款阈值、方式和时间范围](/azure/marketplace/payment-thresholds-methods-timeframes)以及 [PayPal 信息](#paypal-info)，以了解更多详细信息。
+> 在某些市场中，PayPal 可用作你的付款帐户。 若要了解特定市场是否支持 PayPal，请参阅下面的[付款阈值、方式和时间范围](payment-thresholds-methods-timeframes.md)以及 [PayPal 信息](#paypal-info)，以了解更多详细信息。
 
 ### <a name="create-a-payment-profile"></a>创建付款配置文件
 
-1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置**"。
+1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置** "。
 2. 在“付款和税务”标题下，选择“付款和税务配置文件分配”。
 
     > [!NOTE]
@@ -131,20 +131,20 @@ ms.locfileid: "91007401"
 3. 你的付款配置文件将与其状态一起列出。 找到要编辑的配置文件，然后单击最右侧的“编辑”
 
 > [!IMPORTANT]
-> 更改付款帐户可能会推迟付款（最多一个付款周期）。 出现此推迟的原因是我们需要验证帐户更改，正如首次设置付款帐户时我们会进行验证。 帐户通过验证后，仍会收到全额款项；当前付款周期应得的任何付款将添加到下一个付款周期。 有关更多信息，请参阅[收取付款](/azure/marketplace/marketplace-payout-account-setup)。
+> 更改付款帐户可能会推迟付款（最多一个付款周期）。 出现此推迟的原因是我们需要验证帐户更改，正如首次设置付款帐户时我们会进行验证。 帐户通过验证后，仍会收到全额款项；当前付款周期应得的任何付款将添加到下一个付款周期。 有关详细信息，请参阅 [在商业市场中付费](marketplace-get-paid.md)。
 
 ### <a name="paypal-info"></a>PayPal 信息
 
 在“选择国家和地区”中，可以通过输入 PayPal 信息来创建付款帐户。 但是，在将 PayPal 选为付款帐户选项之前：
 
-- 检查[付款阈值、方式和时间](/azure/marketplace/payment-thresholds-methods-timeframes)，确认 PayPal 是否为你所在国家或地区支持的付款方式。
+- 检查[付款阈值、方式和时间](payment-thresholds-methods-timeframes.md)，确认 PayPal 是否为你所在国家或地区支持的付款方式。
 - 查看以下常见问题解答。 PayPal 可能并不是最佳的付款帐户选项，银行帐户可能是首选，取决于你的具体情况。
 
 有关使用 PayPal 作为付款方式的常见问题：
 
 - **需要哪些 PayPal 设置才能收款？** 确保 PayPal 帐户不会阻止 eCheck 付款。 此设置在 PayPal 的“收款首选项”页中进行管理。 有关更多信息，请参阅 [PayPal 的帐户设置页](https://go.microsoft.com/fwlink/p/?linkid=513139)。
 
-- **在我的国家/地区是否支持？** 请参阅[付款阈值、方式和时间范围](/azure/marketplace/payment-thresholds-methods-timeframes)，了解哪些国家/地区支持 PayPal 支付。
+- **在我的国家/地区是否支持？** 请参阅[付款阈值、方式和时间范围](payment-thresholds-methods-timeframes.md)，了解哪些国家/地区支持 PayPal 支付。
 
 - **我的 PayPal 帐户是否需要在与合作伙伴中心帐户相同的国家/地区进行注册？** 不是。 设置 PayPal 帐户时，可以接受默认配置。 你不应在其他国家/地区和货币方面遇到任何问题，除非你已禁止使用某些货币付款。 此设置在 PayPal 的“收款首选项”页中进行管理。
 
@@ -205,4 +205,4 @@ Form-R 是巴基斯坦银行法规要求提交的表单。 它用于指示从国
 
 ## <a name="next-steps"></a>后续步骤
 
-[商业市场计费](/azure/marketplace/billing-details)
+[在商业市场中获得付款](marketplace-get-paid.md)
