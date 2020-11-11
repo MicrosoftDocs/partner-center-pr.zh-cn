@@ -324,6 +324,25 @@
     - name: 付款和收益疑难解答
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: 在渠道奖励平台 (CHIP) 中工作
+      items:
+        - name: 导航 CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: 向 CHIP 帐户添加用户
+          href: chip-users.md
+        - name: 在 CHIP 中查看收益
+          href: chip-earnings.md
+        - name: 在 CHIP 中检查付款状态
+          href: chip-payment-status.md
+        - name: 找到协议的桌面设备计数和费用级别
+          href: chip-locate-agreement.md
+        - name: 解决方案评估资格
+          href: chip-solution-assessment.md
+        - name: 解决方案评估付款状态
+          href: chip-solution-assessment-payment.md
+        - name: 访问 CHIP 时出现问题
+          href: chip-access-trouble.md
 - name: 计费和税款
   href: billing.md
   displayName: trial
