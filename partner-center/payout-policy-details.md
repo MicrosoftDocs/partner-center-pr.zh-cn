@@ -4,15 +4,15 @@ description: 了解与商业 marketplace 支出策略相关的详细信息，包
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381386"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531981"
 ---
 # <a name="payout-schedules-and-policy-details"></a>付出计划和策略详细信息
 
@@ -70,10 +70,10 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 | --- | --- | --- |
 | 示例付出日期 | 10/15/2020 | 已标记为 "在事务历史记录中 **发送** " 和 "支出" 面板中 |
 | <font color="red">如果客户不向 Microsoft 付款</font> | 12/2/2020 –12/5/2020 | 无更改，如上所述 |
-| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | 无 |
-| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | 无 |
+| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | None |
+| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | None |
 | 发布者通知写入可能 | 1/7/2021 | 发送给发布者的电子邮件通知，其客户尚未发送付款。 包括交易记录 ID 和美元金额。 |
-| 客户收到终止通知 | 2/1/2021 | 无 |
+| 客户收到终止通知 | 2/1/2021 | None |
 | 收集过程结束/资金已写出 | 2/15/2021 | 发送给发布者的电子邮件通知已写出。 包括交易记录 ID 和美元金额。 |
 | 扣减支出 | 2021/3/1 | 发布者将在合作伙伴中心支出报表中看到消极事务 |
 | 预扣支出 | 3/15/2021 | 未来的付款将显示在合作伙伴中心支出报表中。 在余额不再为负值之前，发布者将不会收到支付。  |

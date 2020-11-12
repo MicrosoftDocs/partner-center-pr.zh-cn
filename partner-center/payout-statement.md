@@ -4,19 +4,19 @@ description: 了解费用报表和摘要，以及如何查看和导出商业应�
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335652"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532049"
 ---
-# <a name="payout-statements"></a>支出报表
+# <a name="payout-statements"></a>支出声明
 
-**付出的比率声明**概括介绍了通过商业市场销售的产品/服务的付款。 它显示了收入的事务性历史记录，估计了下一笔付款，并显示了付款趋势。 您还可以下载事务历史记录和付款声明。 本文介绍了如何访问你的支出报表，以及合作伙伴中心可访问的不同的支出页和下载。
+**付出的比率声明** 概括介绍了通过商业市场销售的产品/服务的付款。 它显示了收入的事务性历史记录，估计了下一笔付款，并显示了付款趋势。 您还可以下载事务历史记录和付款声明。 本文介绍了如何访问你的支出报表，以及合作伙伴中心可访问的不同的支出页和下载。
 
 ## <a name="roles-and-permissions"></a>角色和权限
 
@@ -72,8 +72,8 @@ ms.locfileid: "91335652"
 - **总金额** –净收入金额。 在商业应用商店中，这意味着在扣除标准 marketplace 费用之后。
 - **状态** –有三个选项：
     - **即将推出** –收入处于挂起的冷却期内。
-    - 已**处理**–收入已准备好进行下一次付款。
-    - 已**发送**–已支付收入。
+    - 已 **处理** –收入已准备好进行下一次付款。
+    - 已 **发送** –已支付收入。
 - **估计的付款月** –预计收入应支付的月份。
 
 事务满足付出的比率后，就会显示收益交易。 若要了解你可能会遇到或意外收益的原因，请参阅 [有关商业 marketplace 付款的常见问题](payout-faq.md#why-are-my-earnings-missing)。
@@ -180,13 +180,13 @@ ms.locfileid: "91335652"
 
 ### <a name="payments-list"></a>付款列表
 
-**付款表的列表**显示支付和待定支付。 您可以下载 PDF 格式的服务费用税务信息，并查看给定付款的赢利详细信息。
+**付款表的列表** 显示支付和待定支付。 您可以下载 PDF 格式的服务费用税务信息，并查看给定付款的赢利详细信息。
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="导出事务历史记录":::
 
 - **付费** –所有付款均已成功发送。 在下拉菜单中选择要筛选的年份，以筛选该年中发布的付款。
 - **挂起** –即将进行的付款。
-- **服务费税 (PDF 窗体) ** –可用于支付服务费用。 服务费税以 **其他税款**显示。
+- **服务费税 (PDF 窗体)** –可用于支付服务费用。 服务费税以 **其他税款** 显示。
 - **查看** –重定向到交易记录，其中包含付款中包含的收益列表。
 
 若要了解你可能会遇到或意外收益的原因，请参阅 [有关商业 marketplace 付款的常见问题](payout-faq.md#why-are-my-earnings-missing)。
@@ -201,7 +201,7 @@ ms.locfileid: "91335652"
 | 即将处理 | 支付订单在处理付款之前生成待定内部评审。 | 否 |
 | 等待纳税发票 | 您的纳税发票不完整或无效。 | 必须更新纳税发票，才能收到付款 |
 | 审查期间被拒绝 | 付款在评审期间被拒绝。 | 有关详细信息，请联系 Microsoft 支持人员 |
-| Failed | 由于 Microsoft 系统错误，付款失败。 | 有关详细信息，请联系 Microsoft 支持部门 |
+| 失败 | 由于 Microsoft 系统错误，付款失败。 | 有关详细信息，请联系 Microsoft 支持部门 |
 | 正在学习 | 付款正在进行。 | 否 |
 | 付款不正确 | 付款 recouping 正在进行。 | 否 |
 | 已发送 | 已将付款发送到银行。 | 否 |
@@ -238,7 +238,7 @@ ms.locfileid: "91335652"
 
 ## <a name="export-data"></a>导出数据
 
-" **导出数据** " 页不会自行刷新。 你可能需要手动刷新此页，才能看到最新数据。 从三个选项卡中进行选择，导出 **事务历史记录**、 **付款**、 **交易汇总**或 **历史记录语句**。
+" **导出数据** " 页不会自行刷新。 你可能需要手动刷新此页，才能看到最新数据。 从三个选项卡中进行选择，导出 **事务历史记录** 、 **付款** 、 **交易汇总** 或 **历史记录语句** 。
 
 筛选器可能会导致 " **无数据** " 错误。 如果将默认时间段保留为三个月的时间，然后从超出该时间段的收入中选择付款 ID，则可能会发生这种情况。 如果发生这种情况，请扩展时间段，然后重试。
 
@@ -248,7 +248,7 @@ ms.locfileid: "91335652"
 
 ### <a name="historical-statements"></a>历史对帐单
 
-**导出数据**摘要还提供对历史语句的访问。
+**导出数据** 摘要还提供对历史语句的访问。
 
 > [!NOTE]
 > 历史语句是快照，不会刷新。 如果需要，请联系 [支持人员](https://partner.microsoft.com/support/v2/?stage=1) 并请求最新的数据。
@@ -297,6 +297,6 @@ ms.locfileid: "91335652"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [合作伙伴支出 API](https://apidocs.microsoft.com/services/partnerpayouts)
+- [合作伙伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [付款策略详细信息](payout-policy-details.md)
 - 有关计费支持，请联系商业市场[发布者支持](https://partner.microsoft.com/support/v2/?stage=1)。

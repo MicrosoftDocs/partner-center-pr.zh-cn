@@ -4,15 +4,15 @@ description: 获取有关商业应用商店中付款的常见问题的解答。 
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175296"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532015"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>有关商业 marketplace 付款的常见问题
 
@@ -32,7 +32,7 @@ ms.locfileid: "92175296"
 - 按国家/地区检查减税责任。 在税款由 Microsoft 负责的国家/地区，Microsoft 将从发布者收入中收集并扣除税款。 对账单中显示的交易金额为税后金额。 请参阅[税项详细信息](tax-details-marketplace.md)。
 - SaaS 和 IaaS 产品/服务的折扣率为10%，而不是标准20%，而收入率为90%。 此促销在 2021 年 6 月 30 日之前有效。
 
-**进一步阅读**： [商业市场出版商协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出政策详细信息](payout-policy-details.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)、 [在商业市场中支付的](marketplace-get-paid.md)费用 [详细信息、费用详细信息](tax-details-marketplace.md)、费用 [报表](payout-statement.md)和 [商业 marketplace 分析中的订单仪表板](/azure/marketplace/partner-center-portal/orders-dashboard)
+**进一步阅读** ： [商业市场出版商协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出政策详细信息](payout-policy-details.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)、 [在商业市场中支付的](marketplace-get-paid.md)费用 [详细信息、费用详细信息](tax-details-marketplace.md)、费用 [报表](payout-statement.md)和 [商业 marketplace 分析中的订单仪表板](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>收入对帐
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>如何在分析中将付款对账单与订单或使用情况报表进行对帐？
@@ -47,7 +47,7 @@ ms.locfileid: "92175296"
 - 对于企业客户，发布者收益显示在采购订单日期之后的1-2 天内。
 - 对于非企业客户，发布者收益在收到客户付款后的1-2 天内显示。
 
-**进一步阅读**：[商业 marketplace 分析中的](/azure/marketplace/partner-center-portal/orders-dashboard)[支出报表](payout-statement.md)和订单仪表板
+**进一步阅读** ： [商业 marketplace 分析中的](/azure/marketplace/partner-center-portal/orders-dashboard)[支出报表](payout-statement.md)和订单仪表板
 
 ## <a name="payout-policies"></a>付款策略
 
@@ -60,18 +60,18 @@ ms.locfileid: "92175296"
 - 当你的收入处于未处理状态之后，你可以检查将处理你的收入以进行付款的月份的到期日期。 支付准备就绪后，你的收益状态将更改为 "已处理"。  Microsoft 将在每个到期月份的 15 号之前发放付款。
 - 对于信用卡支付的订单，Microsoft 保留30天的付款，直到收益得到成熟。
 
- **进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出详细信息](payout-policy-details.md)、 [税务详细信息](tax-details-marketplace.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)
+ **进一步阅读** ： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出详细信息](payout-policy-details.md)、 [税务详细信息](tax-details-marketplace.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>付款和调整
 
 #### <a name="why-is-my-payment-missing"></a>为何我的付款缺失？
 
-- 确保在 "[概述" 页](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)上，您的支出状态和税务配置文件状态显示为*有效*。
+- 确保在 " [概述" 页](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)上，您的支出状态和税务配置文件状态显示为 *有效* 。
 - 你可能未满足付款的最小阈值。 收入必须至少为 50 美元才能获得付款。
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>如何实现将我的帐户设置为不接收支付？
-你可以在费用 [配置文件](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)中保留付款;只需选中 " **保存**"。 在你发布保留期之前，Microsoft 会向你收取费用。
+你可以在费用 [配置文件](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)中保留付款;只需选中 " **保存** "。 在你发布保留期之前，Microsoft 会向你收取费用。
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>为什么我收到的货币与购买货币不同？
 
@@ -81,7 +81,7 @@ ms.locfileid: "92175296"
 
 付款调整是用于容纳补偿调整（例如系统问题）的付款更正。 在付款对账单中，原因代码会指定调整原因。 它们不用于直接与各个交易进行对帐。
 
-**进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出详细信息](payout-policy-details.md)、 [税务详细信息](tax-details-marketplace.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)
+**进一步阅读** ： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出详细信息](payout-policy-details.md)、 [税务详细信息](tax-details-marketplace.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>税款
 
@@ -95,7 +95,7 @@ ms.locfileid: "92175296"
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何下载 PDF 格式的预缴税金表单？
 
-依次转到“付款支付”和“付款列表”部分。 付款旁边会显示预缴税金表单的链接。
+依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>在哪里可以找到年末纳税表单？
 
@@ -104,16 +104,16 @@ ms.locfileid: "92175296"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>如何查找某个交易的预缴税金？
 预缴税金适用于提交了 W-9 表单的美国发布者。 预缴税金是按照每月付款计算的。
 
-**进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)， [详细信息策略详细信息](payout-policy-details.md)
+**进一步阅读** ： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)， [详细信息策略详细信息](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>对帐单访问权限
 
 #### <a name="how-do-i-access-a-payout-statement"></a>如何访问付款对账单？
 
 1. 请检查你的角色。 你必须具有“财务参与者”或“帐户所有者”角色才能访问付款对账单 。
-2. 在右上方导航中，选择 " **支出** " 图标以查看支出报表。 选择 " **事务历史记录**"、" **付款**" 和 " **下载**"。
+2. 在右上方导航中，选择 " **支出** " 图标以查看支出报表。 选择 " **事务历史记录** "、" **付款** " 和 " **下载** "。
 
-**进一步阅读**： [支出角色和权限](payout-statement.md#roles-and-permissions)， [付出额外帐单](payout-statement.md) 
+**进一步阅读** ： [支出角色和权限](payout-statement.md#roles-and-permissions)， [付出额外帐单](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>支出报表报表
 
@@ -125,9 +125,9 @@ ms.locfileid: "92175296"
 
 这会显示 "未处理"、"已处理" 或 "已发送" 收入。
 
-- 未**处理–收入**在到期日之前处于保管期内。
-- 已**处理**–收入已成熟，并已准备好每月支付。 支付每月15号发布。
-- 已**发送**–付款已成功地根据你的支出配置文件发布到银行。
+- 未 **处理–收入** 在到期日之前处于保管期内。
+- 已 **处理** –收入已成熟，并已准备好每月支付。 支付每月15号发布。
+- 已 **发送** –付款已成功地根据你的支出配置文件发布到银行。
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>如何下载服务费用纳税表单？
 
@@ -135,13 +135,13 @@ ms.locfileid: "92175296"
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何实现下载 PDF 格式的预缴税金窗体？
 
-依次转到“付款支付”和“付款列表”部分。 付款旁边会显示预缴税金表单的链接。
+依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>在哪里可以找到年末纳税表单？
 
 请转到[“配置文件”页](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)以查看你的年末纳税表单。
 
-**进一步阅读**： [支出报表](payout-statement.md)、 [事务历史记录下载](payout-statement.md#transaction-history-download)
+**进一步阅读** ： [支出报表](payout-statement.md)、 [事务历史记录下载](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>历史对帐单
 
@@ -149,7 +149,7 @@ ms.locfileid: "92175296"
 
 历史对账单会显示截止到 2019 年 10 月的付款数据的快照。 遗憾的是，此处的支出信息不会刷新。 若要接收最新信息，请提交最新数据的支持票证。
 
-**进一步阅读**： [支出报表](payout-statement.md)、 [事务历史记录下载](payout-statement.md#transaction-history-download)
+**进一步阅读** ： [支出报表](payout-statement.md)、 [事务历史记录下载](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>支出导出 API
 
