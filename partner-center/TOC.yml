@@ -338,9 +338,11 @@
         - name: 找到协议的桌面设备计数和费用级别
           href: chip-locate-agreement.md
         - name: 解决方案评估资格
-          href: chip-solution-assessment.md
+          href: chip-solutions-assessment-eligible.md
         - name: 解决方案评估付款状态
           href: chip-solution-assessment-payment.md
+        - name: 解决方案评估常见问题解答
+          href: chip-faq.md
         - name: 访问 CHIP 时出现问题
           href: chip-access-trouble.md
 - name: 计费和税款
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: 基于许可证的对帐文件
       href: license-based-recon-files.md
+    - name: 一次性购买 CSP 对帐文件
+      href: modern-invoice-reconciliation-file.md
+    - name: 有效单价计算
+      href: effective-unit-price-calculation.md
     - name: 常见计费方案
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
