@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333906"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488115"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "94333906"
 
 | **类别** | **2020 年 11 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[现提供测试：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面 (UI) 改进功能](2020-november.md#7)|11 月 10 日|
 |功能|[扩展运营准备库上的商业许可合作伙伴内容](2020-november.md#6)|11 月 2 日|
 |产品/市场|[Microsoft Teams Rooms 高级 SKU 发布](2020-november.md#5)|11 月 2 日|
 |产品/市场|[即将推出适用于政府社区云 (GCC) 的新 Microsoft Teams 高级通信 SKU](2020-november.md#4)|11 月 2 日|
@@ -29,6 +30,7 @@ ms.locfileid: "94333906"
 |产品/市场|[为非营利性组织推出 Microsoft 365 商务语音](2020-november.md#2)|11 月 2 日|
 |产品/市场|[现推出 Microsoft 365 商务语音的云解决方案提供商 (CSP) 促销](2020-november.md#1)|11 月 2 日|
 | **类别** | **2020 年 10 月公告** | **日期** |
+|产品/市场|[通话套餐扩展更正](2020-october.md#18)|10 月 29 日|
 |功能|[Windows Server 软件订阅功能更新](2020-october.md#17)|10 月 29 日|
 |功能|[合格的云解决方案提供商 (CSP) 教育客户先可使用 Windows 10 教育版升级](2020-october.md#16)|10 月 28 日|
 |功能|[更新的云解决方案提供商 (CSP) 数字体验现已推出](2020-october.md#15)|10 月 28 日|

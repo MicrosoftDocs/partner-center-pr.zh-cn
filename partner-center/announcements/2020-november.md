@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327486"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488096"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -23,6 +23,147 @@ ms.locfileid: "93327486"
 2020 公告：[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>现提供测试：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面 (UI) 改进功能
+
+### <a name="categories"></a>类别
+
+- 日期：2020-11-10
+- 功能 | 促使提高效率和规模
+
+### <a name="impacted-audience"></a>影响受众
+
+通过云解决方案提供商 (CSP) 计划销售学术产品/服务的合作伙伴。
+
+### <a name="summary"></a>总结
+
+现提供测试，测试对象是面向教育客户验证流程的合作伙伴中心 API 更新和用户界面 (UI) 改进功能。
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易学术产品/服务提供合规、安全且可靠的客户验证方法。 在该过程中，我们于今年第二季度 (FY21 Q2) 引入合作伙伴中心 API 和 UI 改进功能。 有了这些增强功能，你将可清晰、深入地查看客户验证过程，还可输入更准确的数据，这将推动改进后的客户验证成功。
+
+**合作伙伴中心增强功能**
+
+- 新的 GET 和 POST 资格 API，可支持准确的数据输入并改进 Microsoft 的教育客户验证流程。
+
+- UI 增强功能，可支持准确的数据输入并改进 Microsoft 的教育客户验证流程。
+
+测试：
+
+为了更好地了解成功客户验证所需的 API 和数据输入，自 2020 年 10 月开始，合作伙伴将测试这些增强功能。 我们将很快提供更多关于具体时间和参与方式的详细信息。 现有合作伙伴中心 API 将在 2021 年第二季度结束前停用。 届时，你将需要已经过渡到新的合作伙伴中心 API。
+
+   - 现提供测试：合作伙伴测试日期为 2020 年 10 月 2 日至 12 月 2 日。 要参与的合作伙伴应下载合作伙伴中心教育客户测试指南，了解如何做好准备、如何注册以及测试阶段应执行哪些操作。
+
+**图书馆和博物馆客户**
+
+除了上述增强功能，我们还很高兴地宣布，在 2021 年第二季度，我们将为图书馆和博物馆客户启用学术定价产品/服务，以扩展可与之交易 CSP 产品/服务的教育客户。
+
+Microsoft 保留审查任何客户或推荐客户是否属于合格教育用户的权利。 有关完整详细信息，请参阅[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
+
+## <a name="next-steps"></a>后续步骤
+
+请查看新的合作伙伴中心 UI 和 API 更改，并查看[合作伙伴中心教育客户验证过程增强功能内容呢集合](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)中的测试指南
+
+• 注册参与测试。 （有关详细信息，请参阅[测试指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)。） 
+
+• 确保组织熟悉[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
+
+• 与组织内的相应团队和经销商共享此信息，帮助他们为这些更改做好准备。
+
+
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>扩展运营准备库上的商业许可合作伙伴内容
+
+### <a name="categories"></a>类别
+
+- 日期:2020-11-5
+- 功能
+
+### <a name="summary"></a>摘要
+
+从 2020 年 11 月 5 日开始，还可在运营准备库上查看来自 Partner University 的商业许可合作伙伴内容。
+
+### <a name="impacted-audience"></a>影响受众
+
+商业合作伙伴
+
+### <a name="details"></a>详细信息
+
+从 2020 年 11 月 5 日开始，还可在运营准备库上查看来自 Partner University 的商业许可合作伙伴内容。 这将来自 Partner University. 的经久不衰的商业许可合作伙伴内容与运营准备库上已存在的运营和商业许可合作伙伴发布内容合并在了一起。 因此，这将为合作伙伴提供更顺畅的就绪体验。 下列集合已添加到运营准备库中：
+
+- [Microsoft Azure - 产品/服务和许可](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [商业许可 - CSP 聚焦通话](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [商业许可 - 许可更新通话](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>后续步骤
+
+请与贵组织中的相应联系人共享这些信息。
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams 会议室高级 SKU 发布
+
+### <a name="categories"></a>类别
+
+- 日期:2020-11-3
+- 产品/市场
+
+### <a name="summary"></a>摘要
+
+现可通过云解决方案提供商 (CSP) 计划对 Microsoft Teams 使用 Microsoft Teams 会议室高级 SKU。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+新的用于 Microsoft Teams 会议室的 Microsoft Teams 会议室高级 SKU 现已可供通过你购买 CSP 的客户使用，费用为每台设备每月 50 美元。 Microsoft Teams 会议室高级 SKU 是 Microsoft Teams 会议室标准 SKU（之前称为会议室许可证）的备选项。 该 SKU 包含标准产品/服务中提供的所有内容，例如 Microsoft Teams、Skype for Business Online 和 Intune 管理所必需的许可证。 此产品/服务还支持公共交换电话网络 (PSTN) 集成所需的电话系统，并支持音频会议（若可用）。 
+
+借助高级版产品/服务，客户可访问新发布的 Microsoft Teams 会议室托管服务，在该服务中，专家会代表客户处理会议室的管理和运营。 这项基于云的 IT 管理和监视服务可确保 Microsoft Teams 会议室设备及其外围设备是最新状态且是安全的。 该服务还将主动监视和管理这些设备，确保优化环境来提供卓越的室内体验。
+
+#### <a name="released-at-launch"></a>已在推出时发布
+
+   |****|**Microsoft Teams 会议室标准版，每台设备每月 15 美元**|**Microsoft Teams 会议室高级版，每台设备每月 50 美元**|
+   |-------------------|:------|:------|
+   |Skype for Business|是| |
+   |Microsoft Teams|是|是|
+   |电话系统|是|是|
+   |音频会议|是|是|
+   |Microsoft Intune|是|是|
+   | |Microsoft Teams 会议室标准版，每台设备每月 15 美元|Microsoft Teams 会议室高级版，每台设备每月 50 美元|
+   |Microsoft Teams 会议室托管服务| |是|
+   |全球可用性|是|在特选市场推出|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams 会议室托管服务
+
+- 主动管理：对会议室系统的 24x7x365 不间断管理（包括修补、配置管理等）。
+• 实时监视和根本原因分析：监视和检测，并在需要时由 Microsoft 与客户协调推动安排的事件管理响应。 通过移动应用可随时接收警报。
+- 托管式更新：管理和交付应用程序、Windows 知识库和硬件更新。
+- 安全威胁防护：通过 Microsoft Defender 高级威胁防护提供的安全威胁防护。
+- 客户支持：通过我们的专用服务运营中心实现 24x7x365 不间断票证支持，并为非自动化服务案例提供协助事件修正。 精细的基于角色的访问控制。
+- 见解和建议：跨客户的聚合见解，以及有关会议室运行状况、空闲情况、使用情况、在线会议和事件趋势的报告。
+
+#### <a name="offer-details"></a>产品/服务详细信息
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |Teams 会议室高级版|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams 会议室高级版（美国和加拿大）|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams 会议室高级版（教职员工）|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>后续步骤
+
+- 若要熟悉新产品/服务及其在各地区的可用性，请访问[常见问题解答(FAQ)]()。
+- 熟悉新产品/服务及其在各地区的可用性。 
+- 若要详细了解 Microsoft 会议室及相关产品/服务，请参阅 [Microsoft Team 会议室](https://rooms.microsoft.com/)。
+- 使用 [Teams 合作伙伴指南](https://aka.ms/teamscallingmeetingsguide)开发 Teams 会议室实践，并创建可共同销售的产品/服务。
+- 若要详细了解产品解决方案和服务，请查看 [Microsoft Teams 会议室常见问题解答](https://aka.ms/PartnerMTRFAQ)。 
+- 与组织中所有适当的联系人共享此信息，并了解追加销售和交叉销售机会。
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>即将推出适用于政府社区云 (GCC) 的新 Microsoft Teams 高级通信 SKU
 
@@ -41,7 +182,7 @@ GCC 中新 Microsoft Teams 高级通信加载项 SKU 将于 2020 年 11 月 1 �
 
 ### <a name="details"></a>详细信息
 
-GCC 中新 Microsoft Teams 高级通信加载项的定价为每用户每月 12 美元。 可以在包含 Microsoft Teams 的任何其他 Microsoft 365 套件基础上购买该加载项 SKU。 高级通信提供一组新的用于大型会议、通信策略、集成和 IT 管理的高级工具的功能。 
+GCC 中新 Microsoft Teams 高级通信加载项的定价为每用户每月 12 美元。 可以在包含 Microsoft Teams 的任何其他 Microsoft 365 套件基础上购买该加载项 SKU。 高级通信提供一组新的功能用于大型会议、通信策略、集成和 IT 管理的高级工具。 
 
 #### <a name="offer-details"></a>产品/服务详细信息
 
