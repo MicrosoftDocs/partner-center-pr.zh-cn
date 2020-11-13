@@ -3,3 +3,7 @@
   items:
     - name: 创建 Azure 专用市场
       href: create-manage-private-azure-marketplace.md
+- name: 参考
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
