@@ -1,19 +1,19 @@
 ---
 title: 奖励注册
 ms.topic: how-to
-ms.date: 09/25/2020
+ms.date: 11/12/2020
 description: 注册奖励计划，并为用户管理分配必要的角色。 本文介绍了注册过程。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 067ad9370da6a6deeaeac7b24e606fe0bcd555a9
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175197"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626008"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>激励计划中的注册和用户管理
 
@@ -41,13 +41,15 @@ ms.locfileid: "92175197"
 一旦你的组织有资格获得激励，Microsoft 将向帐户管理员和激励管理员发送邀请。
 
 >[!NOTE]
->只有激励管理员才能注册激励计划。 如果你的位置没有激励管理员，则全局管理员和帐户管理员必须分配一个。 必须为 MPN Id 位置分配激励管理员。 全局管理员或帐户管理员也可以被指定为激励管理员。
+>只有激励管理员才能注册激励计划。 如果你的位置没有激励管理员，则全局管理员和帐户管理员必须分配一个。 必须为 MPN Id 位置分配激励管理员。 全局管理员或帐户管理员也可以被指定为激励管理员。 若要了解有关不同角色的详细信息，请参阅 [管理奖励](permissions-overview.md#manage-incentives)。
 
 ## <a name="enrollment-process"></a>注册过程
 
-一旦你的组织有资格获得激励，Microsoft 将向符合条件的 MPNLocationID 的激励管理员发送邀请，以开始注册过程。 此电子邮件将从 **Microsoft 合作伙伴中心**发送，并将具有主题 **合作伙伴激励注册邀请**。 打开邀请，然后选择 " **开始**"。
+一旦你的组织有资格获得激励，Microsoft 将向符合条件的 MPNLocationID 的激励管理员发送邀请，以开始注册过程。 此电子邮件将从 **Microsoft 合作伙伴中心** 发送，并将具有主题 **合作伙伴激励注册邀请** 。 打开邀请，然后选择 " **开始** "。
 
-你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，激励管理员仍可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) 并选择 " **用户管理**" 来启动该过程。
+你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，激励管理员仍可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)，并在左侧导航栏中选择 " **激励** " 下的 " **概述** " 来完成此过程。 选择 " **注册** "，然后填写计划的支出和税务配置文件。
+
+仅当 Microsoft 验证你为注册提供的支出和税务配置文件时，才会将注册视为已完成。
 
 某些激励计划没有资格条件，并已公开给所有合作伙伴。 激励管理员将在激励概述页上看到这些程序的邀请，前提是他们具有相关激励计划和 MPN 的权限。 Microsoft 不会向这些程序发送电子邮件邀请。
 
@@ -55,7 +57,7 @@ ms.locfileid: "92175197"
 
 ## <a name="expiration-and-renewal"></a>过期和续订
 
-奖励注册将在会计年度结束时到期。 但是，只要你仍拥有有效协议的符合条件，Microsoft 就会将奖励注册转送到下一个会计年度。 你不必执行任何操作。
+奖励注册将在会计年度结束时到期。 但是，只要你仍拥有有效协议的符合条件，Microsoft 就会将奖励注册转送到下一个会计年度。 您无需执行任何操作，只要激励计划所需的支出和税务信息按照激励计划的规则完成。
 
 ## <a name="next-steps"></a>后续步骤
 

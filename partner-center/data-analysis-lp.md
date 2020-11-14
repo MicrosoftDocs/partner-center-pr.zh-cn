@@ -1,7 +1,7 @@
 ---
-title: 为 customer insights 使用分析
+title: 使用订阅见解分析
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作伙伴中心使用分析来更好地了解你的业务，以及你的客户如何使用你购买的许可证。
@@ -9,50 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434736"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626060"
 ---
-# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>使用分析来了解有关客户许可证使用的详细信息以及如何帮助满足其需求
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>使用分析了解有关订阅收入的详细信息
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
-- MPN 合作伙伴
-- 云解决方案提供商计划中的合作伙伴
-
-**适当的角色**
-
+- 全局管理员
 - MPN 合作伙伴管理员
 
-规划各种方式来发展 CSP 业务，包括了解客户使用其 Microsoft 产品的方式。 合作伙伴中心中有多个用于收集数据的选项，可以收集有关你的业务的数据，还可以收集你的客户是否在使用以及如何使用所购买的许可证的数据。 如果你处于云解决方案提供商直接模式中，则有机会安装并使用适用于 Power BI 的合作伙伴中心分析应用，来收集其他数据。
+规划各种方式来发展 CSP 业务，包括了解客户使用其 Microsoft 产品的方式。 合作伙伴中心中有多个用于收集数据的选项，可以收集有关你的业务的数据，还可以收集你的客户是否在使用以及如何使用所购买的许可证的数据。 如果你使用的是 CSP 直接模式，则还可以安装并使用合作伙伴中心分析应用，以便 Power BI 收集额外数据。
 
-## <a name="access-to-user-analytics"></a>访问用户 analytics
+## <a name="access-to-the-subscription-analytics"></a>访问订阅分析
 
-在合作伙伴中心，只有 MPN 合作伙伴管理员才有权访问用户分析。 如果公司中的某人需要此访问权限（例如，计费管理员），可以通过向该用户分配 MPN 合作伙伴管理员角色来授予此访问权限。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
+1. 在 "合作伙伴中心" 菜单中，选择 " **分析** "，然后选择 " **订阅分析** "。
+
+1. 在页面顶部会显示尾随的十二个月的 CSP 收入
+
+:::image type="content" source="images/analytics/subscription1.png" alt-text="订阅屏幕":::
+
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>尾随 Twelve-Month (TTM) CSP 收入
+
+尾随12个月的 CSP 收入代表合作伙伴全局帐户级别的在 USD 中的尾随云解决方案提供商计划收入。 数据将在每月的第8个刷新，以显示到上个月之前的12个月的尾随收入。 例如，在2020年9月9日，你应该可以看到 TTM 的固定时间段9月2019日到8月2020日。
+
+合作伙伴中心显示的收入按十二个月的固定时间间隔计算，不能修改为更短的时间范围。
+
+若要查看合作伙伴位置帐户级别的收入细目：
+
+- 选择 "下载详细信息" 链接并下载一个 tsv 文件，其中显示了所有位置的 TTM 收入。
 
 >[!NOTE] 
->若要授予访问权限，你必须是 MPN 合作伙伴管理员。
+>在 tsv 文件中跨 MPN Id 汇总单独的 TTM 收入数字可能看起来比你在合作伙伴中心显示的总体 TTM 收入大。 这是因为在下载的文件中，可能会为具有多个合作伙伴归属的订阅计算收入。
 
-**向合作伙伴中心的用户分析授予访问权限** 
+## <a name="subscription-summary"></a>订阅摘要
 
-1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
+屏幕的下半部分显示订阅摘要。 使用以下筛选器来查看必要的订阅详细信息：  
 
-2. 从 "合作伙伴中心" 菜单上的 "合作伙伴中心**用户管理**" 页上，使用 "搜索" 框查找需要访问的用户。
-2.  在搜索结果中，选择人员的名称以打开 "**用户详细信息**" 页。
-3.  在 "**角色和权限**" 下，选择 " **MPN 合作伙伴管理员**"，然后选择 "**更新**"。
+1. **持续时间** ：可以选择查看订阅摘要 
+
+- 30D –最近30天
+- 3M –最近3个月
+- 6分钟–最近6个月
+- 12M –最近12个月
+
+2. **产品类型** ：
+ 
+- Office 365
+- Microsoft 365
+- Dynamics 365
+- EMS
+
+应用这些筛选器不会影响此报告顶部的 TTM 收入指标。
+
 
  
-## <a name="access-data-in-partner-center"></a>访问合作伙伴中心的数据
+## <a name="next-steps"></a>后续步骤
 
-|**若要获取相关数据**   |**请下载以下内容**   |**阅读此文**   | **适用于**    |
-|---------------------|:-----------------------|:---------------|:--------------|
-|客户在如何使用他们购买的许可证   |合作伙伴中心的部署和使用情况数据 => 产品分析   |[提高采用率和满意度](increasing-adoption-and-satisfaction.md)|云解决方案提供商合作伙伴|
-|与订阅有关的客户活动   |活动日志   |[查看客户活动日志](activity-logs.md)|云解决方案提供商合作伙伴   |
-|客户群增长、使用情况、Azure 使用信息等   |适用于 Power BI 的合作伙伴中心应用   |[适用于 Power BI 的合作伙伴中心 Analytics 应用（CSP 中的直接合作伙伴）](power-bi-app-for-direct-partners.md)|云解决方案提供商直接合作伙伴|
+- [分析你的客户如何使用他们所购买的许可证](increasing-adoption-and-satisfaction.md)  
+- [查看客户活动日志](activity-logs.md)
+- [适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners.md)
 
 
 
