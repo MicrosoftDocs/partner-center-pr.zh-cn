@@ -1,7 +1,7 @@
 ---
 title: 获取高级专用化认证
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌和银能力结合在一起。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198073"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691378"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>获得先进的专用化来展示专长
 
@@ -32,24 +32,25 @@ ms.locfileid: "92198073"
 您可以通过两个主要的专业领域获得高级专用化：
 
 - Azure
-- 新式工作场所和安全性
+- 新式工作和安全性
 
 **Azure** 高级专用化包括：
 
-- Windows Server 和 SQL Server 迁移到 Microsoft Azure 
-- Microsoft Windows 虚拟桌面
-- Linux 和开源数据库迁移到 Microsoft Azure
-- Microsoft Azure 上的 Kubernetes
 - 数据仓库迁移到 Microsoft Azure
-- Microsoft Azure 上的 SAP
+- Microsoft Azure 上的 Kubernetes
+- Linux 和开源数据库迁移到 Microsoft Azure
+- Microsoft Windows 虚拟桌面
 - 要 Microsoft Azure 的 Web 应用程序的现代化
+- Microsoft Azure 上的 SAP
+- Windows Server 和 SQL Server 迁移到 Microsoft Azure
  
-**新式工作区和安全性** 高级专用化包括：
+**新式工作和安全** 高级专用化包括：
 
-- Microsoft 团队的会议和会议室
 - 采用和更改管理
-- 团队部署
 - 为 Microsoft 团队打电话
+- Microsoft 团队的会议和会议室
+- 团队部署
+- 标识和访问管理
 - 威胁防护
  
 > [!NOTE]
@@ -79,33 +80,35 @@ ms.locfileid: "92198073"
 
 需要使用以下 Azure 高级专用化的第三方审核员完成审核：
 
-- Windows Server 和 SQL Server 迁移到 Microsoft Azure
-- Linux 和开源数据库迁移到 Microsoft Azure
 - 数据仓库迁移到 Microsoft Azure
 - Microsoft Azure 上的 Kubernetes
-- 要 Microsoft Azure 的 Web 应用程序的现代化
+- Linux 和开源数据库迁移到 Microsoft Azure
 - Microsoft Windows 虚拟桌面
+- 要 Microsoft Azure 的 Web 应用程序的现代化
+- Windows Server 和 SQL Server 迁移到 Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>合作伙伴中心的审核示例
 
 如果你对称为 " **Web 应用程序 Microsoft Azure 的现代化**" 的高级特殊化感兴趣，请从 "合作伙伴中心" 菜单中选择它。 你将转到 "先决条件" 页。
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="示例必备页面显示了获得活动金牌云平台资格认证的要求。&quot;:::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="示例必备页面显示了获得活动金牌云平台资格认证的要求。":::
 
 在满足所有先决条件之前，状态将保持 **不变。**
-满足先决条件后，&quot; **计划审核** &quot; 按钮将启用。
+满足先决条件后，" **计划审核** " 按钮将启用。
 
-完成所有要求后，状态将更改为 &quot; **活动**&quot;。 &quot;活动状态" 会自动在你的 **业务配置文件**上启用高级专用化标记。 此配置文件对所有尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)客户可见。
+完成所有要求后，状态将更改为 " **活动**"。 "活动状态" 会自动在你的 **业务配置文件** 上启用高级专用化标记。 此配置文件对所有尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)客户可见。
 
 ## <a name="prerequisites-that-include-customer-references---an-example"></a>包括客户引用的先决条件-一个示例
 
 你需要以下高级专用化的客户参考：
 
-- Azure 上的 SAP
+
 - 采用和更改管理
-- 团队部署
 - 为 Microsoft 团队打电话
 - 会议和会议室
+- Azure 上的 SAP
+- 团队部署
+- 标识和访问管理
 - 威胁防护
 
 ### <a name="customer-reference-example-in-partner-center"></a>合作伙伴中心的客户参考示例
@@ -114,12 +117,9 @@ ms.locfileid: "92198073"
 
 除了金牌资格、认证和性能要求之外，您还必须提供三个客户参考，以演示您的部署和管理能力。
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="示例必备页面显示了获得活动金牌云平台资格认证的要求。&quot;:::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="需要客户参考的高级专用专用必备页面示例。":::
 
-在满足所有先决条件之前，状态将保持 **不变。**
-满足先决条件后，&quot; **计划审核** &quot; 按钮将启用。
-
-完成所有要求后，状态将更改为 &quot; **活动**&quot;。 &quot;活动状态" 会自动在你的 **业务配置文件**上启用高级专用化标记。 此配置文件对所有尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)客户可见。
+在满足所有先决条件之前，状态将保持 **不变。** 完成所有要求后，状态将更改为 " **活动**"。 "活动状态" 会自动在你的 **业务配置文件** 上启用高级专用化标记。 此配置文件对所有尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)客户可见。
 
 ## <a name="next-steps"></a>后续步骤
 

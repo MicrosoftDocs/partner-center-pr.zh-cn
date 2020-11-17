@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: 合作伙伴中心数据和分析
   items:
-    - name: 访问用户数据和分析
+    - name: 访问订阅数据和分析
       href: data-analysis-lp.md
     - name: 适用于 Power BI 的分析应用
       items:
@@ -628,7 +628,7 @@
       items:
         - name: 关于见解
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: 基于见解角色的访问
           href: pci-roles.md
         - name: 见解报告
