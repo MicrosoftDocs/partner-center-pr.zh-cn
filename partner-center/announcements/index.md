@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488115"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691310"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "94488115"
 
 | **类别** | **2020 年 11 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[EU/EFTA 针对新商务套餐的合作伙伴计费货币更改](2020-november.md#10)|11 月 17 日|
+|功能|[对合作伙伴中心 API 的 API 限制](2020-november.md#9)|11 月 17 日|
+|功能|[由于重复的 MCA 请求导致的 409 错误](2020-november.md#8)|11 月 16 日|
 |功能|[现提供测试：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面 (UI) 改进功能](2020-november.md#7)|11 月 10 日|
 |功能|[扩展运营准备库上的商业许可合作伙伴内容](2020-november.md#6)|11 月 2 日|
 |产品/市场|[Microsoft Teams Rooms 高级 SKU 发布](2020-november.md#5)|11 月 2 日|
