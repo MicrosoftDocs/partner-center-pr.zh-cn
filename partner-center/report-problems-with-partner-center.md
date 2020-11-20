@@ -1,20 +1,20 @@
 ---
 title: 报告合作伙伴中心问题
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 了解如何报告合作伙伴中心的问题以及如何为合作伙伴支持团队收集诊断信息。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567063"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983329"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何报告合作伙伴中心的问题并提交任何日志或诊断信息
 
@@ -23,23 +23,21 @@ ms.locfileid: "94567063"
 - 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
-如果你发现问题或需要帮助合作伙伴中心，请联系合作伙伴中心支持部门。
-
-**用户角色**
+**相应的角色**
 
 所有记录在合作伙伴中心的用户都可以创建合作伙伴支持请求。 用户仅可查看他们在登录合作伙伴中心后提交的支持请求。
 
 ## <a name="report-a-problem-with-the-partner-center"></a>报告合作伙伴中心的问题
 
-1. 在 **合作伙伴中心** 仪表板中，选择 " **支持** "，然后选择 " **合作伙伴支持请求** "。
+1. 在 **合作伙伴中心** 仪表板中，选择 " **支持** "，然后选择 " **合作伙伴支持请求**"。
 
-2. 选择 " **新建请求** "，然后搜索最能描述你的问题的 "问题类型"。 选择 "问题类型" 和 " **查看解决方案** "。
+2. 选择 " **新建请求** "，然后搜索最能描述你的问题的 "问题类型"。 选择 "问题类型" 和 " **查看解决方案**"。
 
 3. 查看 " **推荐的解决方案** " 页，了解可以帮助你解决问题的步骤或相关文档。
 
-4. 如果 **建议的解决方案** 解决了问题，则可以选择 **"返回到仪表板"** 。 如果仍需要帮助，可以继续并 **提供问题详细信息** 。
+4. 如果 **建议的解决方案** 解决了问题，则可以选择 **"返回到仪表板"**。 如果仍需要帮助，可以继续并 **提供问题详细信息**。
 
-5. 完成 **问题详细信息** ，然后 **提交** 。 合作伙伴支持代表将跟进与你沟通。
+5. 完成 **问题详细信息** ，然后 **提交**。 合作伙伴支持代表将跟进与你沟通。
 
 ## <a name="schedule-a-support-appointment"></a>计划支持约会 
 
@@ -59,6 +57,12 @@ ms.locfileid: "94567063"
 
 :::image type="content" source="images/support/ticket3.png" alt-text="日期和时间":::
 
+## <a name="hours-of-operation"></a>营业时间
+
+**合作伙伴支持**
+
+:::image type="content" source="images/support/hoop.png" alt-text="支持的操作时间":::
+
 ## <a name="send-diagnostics"></a>发送诊断
 
 如果在合作伙伴中心页面出现错误，系统可能会提示收集日志信息。 从页面顶部下拉的链接中选择 " **收集详细信息** " 以打开客户端诊断工具。 该工具收集合作伙伴支持团队在确定错误原因时所需的信息。 
@@ -75,7 +79,7 @@ ms.locfileid: "94567063"
 3. 请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。
 
     >[!NOTE]
-    >在某些浏览器中， **预览** 页面底部的 **页面视图** 部分可能显示为空。 这很正常。
+    >在某些浏览器中，**预览** 页面底部的 **页面视图** 部分可能显示为空。 这很正常。
 
 4. 按照屏幕上的说明保存文件。
 
