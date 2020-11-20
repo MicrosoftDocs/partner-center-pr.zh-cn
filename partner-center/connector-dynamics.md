@@ -8,12 +8,12 @@ description: 将合作伙伴中心中的引用同步到 Dynamics 365 CRM 的共�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031330"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947719"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -46,31 +46,21 @@ ms.locfileid: "92031330"
 
 4. 单击顶部菜单上的 " **打开 AppSource** " 链接。
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="打开 AppSource":::
 
 5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
 
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
+6. 单击 " **立即获取** " 按钮，然后 **继续**。
 
 7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
 
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
+8. 然后，你将转到 " **管理你的解决方案** " 页。  通过使用页面底部的箭头按钮，导航到 "合作伙伴中心引用"。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
 
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案" 列表中提供了 **Dynamics 365 的合作伙伴中心引用同步** 。
+9. 安装完成后，导航回 " [自动启动](https://flow.microsoft.com) "，并从左侧导航区域中选择 " **解决方案** "。 请注意，"解决方案" 列表中提供了 **Dynamics 365 的合作伙伴中心引用同步** 。
 
 10. 选择 **Dynamics 365 的伙伴中心引用同步**。 可以使用以下功能自动执行流和实体：
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
-
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
-
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
-
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
-
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="可用 CRM":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>最佳做法：在上线之前进行测试
 
@@ -84,6 +74,7 @@ ms.locfileid: "92031330"
 ## <a name="configure-the-solution"></a>配置解决方案
 
 1. 在 CRM 实例中安装解决方案后，请导航回 " [电源自动](https://flow.microsoft.com/)"。
+
 
 2. 在右上角的 " **环境** " 下拉位置，选择安装了 Power 自动解决方案的 CRM 实例。
 
@@ -99,71 +90,80 @@ ms.locfileid: "92031330"
 
       2. 通过单击 " **创建连接**" 创建连接。
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="打开 AppSource&quot;:::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="创建连接":::
 
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
+      3. 在右上角的搜索栏中搜索 " **合作伙伴中心引用 (预览")** 。
 
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
+      4. 使用 "引用管理员" 凭据角色为合作伙伴中心用户创建连接。
 
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
-
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
-
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
+      5. 接下来，使用 "引用管理员" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
 
       6. 为 CRM 管理员用户的 Common Data Service (当前环境) 创建连接。
+       
+     
+      7. 添加所有连接后，你的环境中应会显示以下连接：
 
-4. 若要将电源自动流与连接进行关联，请编辑每个电源自动流，以连接到 Common Data Service 和合作伙伴中心引用。 保存更改。
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="连接":::
+   
+## <a name="edit-the-connections"></a>编辑连接
 
-5. **启用** 自动流功能。
+1. 返回 " **解决方案** " 页，选择 " **默认解决方案**"。 通过单击 "**全部**" **(预览) 选择 "连接引用**"。
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="“连接”":::
+
+2. 通过选择三个点图标，逐个编辑每个连接。 添加相关连接。
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="列出的连接"::: 
+
+3.  按以下顺序打开流：
+-  (内幕预览版) 合作伙伴中心 Webhook 注册
+- 创建共同销售引用– Dynamics 365 到合作伙伴中心 (预览体验中心) 
+- 合作伙伴中心 Microsoft 共同销售对 Dynamics 365 (预览体验的引用更新) 
+- 合作伙伴中心到 Dynamics 365 (预览体验体验) 
+- Dynamics 365 到合作伙伴中心 (预览体验) 
+- Dynamics 365 到合作伙伴中心 (有问必答预览版的机会) 
+- Dynamics 365 的 Microsoft 解决方案到合作伙伴中心 (预览体验) 
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 注册资源更改事件
 
 合作伙伴中心 Webhook Api 允许你注册资源更改事件。 这些更改事件以 HTTP post 的形式发送到你的 url。
 
-1. 若要注册 url，请选择 " **合作伙伴中心 Webhook 注册 (内幕预览版") ** Power 自动流 "。
+1. 若要注册 url，请选择 " **合作伙伴中心 Webhook 注册 (内幕预览版")** Power 自动流 "。
 
 2. 为 (a ) 合作伙伴中心用户添加连接， (b. ) 合作伙伴中心事件如下所示
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
-
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
-
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
-
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
-
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="触发器":::
 
 3. 进行这些更新后，你将看到
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
+4. 保存更改，然后选择 **"打开"**。
 
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
+   若要启用合作伙伴中心 webhook 来侦听事件更改，请执行以下步骤：
 
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
+5. 选择 " **合作伙伴中心到 Dynamics 365 (预览体验预览")**。
 
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
-
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案" **收到 HTTP 请求时**"。
+6. 选择 " **编辑** " 图标，然后选择 " **收到 HTTP 请求时**"。
 
 7. 选择 **复制** 图标以复制提供的 HTTP POST URL。
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="复制 URL":::
 
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
+8. 现在，选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
 
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
+9. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 " **继续**"。
 
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
+10. 输入以下详细信息：
 
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
+    1. **Http 触发器终结点**：从前面的步骤中复制的 URL
 
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案" **完成"。**
+    2. **要注册的事件**： "引用已创建" 和 "引用已更新"
+
+    3. **覆盖现有触发器终结点（如果存在**）：是 (这将覆盖任何现有终结点。 ) 
+
+11. 选择 " **运行** "，然后选择 " **完成"。**
 
 Webhook 现在可以侦听以创建和更新事件。
 
@@ -181,13 +181,13 @@ Webhook 现在可以侦听以创建和更新事件。
 
     b. 选择 " **编辑** " 以编辑/自定义电源自动流程。
 
-    c. 选择 " ** (范围") 同步潜在客户或机会**。
+    c. 选择 " **(范围") 同步潜在客户或机会**。
 
-2. 若要基于字段映射自定义 CRM 字段映射 (请) 对于 "创建事件"，选择 " **如果是新的共享机会"，然后选择 "是**"。 **如果是**，请选择 "子步骤"，然后**在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
+2. 若要基于字段映射自定义 CRM 字段映射 (请) 对于 "创建事件"，选择 " **如果是新的共享机会"，然后选择 "是**"。 **如果是**，请选择 "子步骤"，然后 **在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
 
     d. 对于 "基于字段映射 (自定义 CRM 字段映射" 指南) 对于 "更新事件"，请单击步骤 " (范围) 同步潜在顾客或机会"。
 
-    e. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后**展开。  
+    e. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后** 展开。  
 
     f. **如果是，则选择 "是"** ，然后选择 "**更新现有机会**
 
@@ -195,7 +195,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
     a. 选择 " **编辑**  " 以编辑/自定义电源自动流程。
 
-    b. 选择 ** (范围) 同步机会**。
+    b. 选择 **(范围) 同步机会**。
 
     c. 若要为更新事件自定义 CRM 字段映射，请选择 **"合作伙伴中心和 CRM 中的潜在顾客对象之间是否存在差异"，然后**。 
 
@@ -212,6 +212,16 @@ Webhook 现在可以侦听以创建和更新事件。
    c. 对于 "基于字段映射自定义 CRM 字段映射 (" 指南) 对于创建事件，请选择 " **创建 Microsoft 引用**"。
 
    您可以根据字段映射指南编辑此部分中的映射。
+
+创建了两个环境变量：
+
+- 复选标记：表示是否需要除了在合作伙伴中心与 Dynamics 365 CRM 之间同步双向的商机以外，是否需要复选标记图标。
+
+- 仅同步共同销售机会：指示是否只同步共同销售机会。
+
+您可以选择编辑环境变量的默认值。
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="默认值的编辑框":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>端到端双向共同销售引用同步
 
@@ -237,6 +247,12 @@ Webhook 现在可以侦听以创建和更新事件。
 
 - **Audit**：与合作伙伴中心引用同步的只读审核记录
 
+更新 Dynamics 365 CRM 中的机会窗体，使其包含 "产品解决方案" 字段。
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="机会窗体":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alt-text}":::
+
 ### <a name="scenarios"></a>各种
 
 1. 在 CRM 中创建或更新引用并在伙伴中心同步时的引用同步：
@@ -245,17 +261,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
    2. 在 Dynamics 365 环境中创建 "新机会" 时，请确保以下部分存在
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
-
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
-
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
-
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
-
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="显示 Dynamics 365 中的 Microsoft 合作伙伴中心信息的 &quot;示例机会&quot; 部分。":::
 
    3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 
@@ -263,17 +269,27 @@ Webhook 现在可以侦听以创建和更新事件。
 
       - **Microsoft Help 如何？**：选择以下各项：
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="打开 AppSource&quot;:::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 &quot;示例机会&quot; 部分，其中显示了一个名为 &quot;Microsoft 如何帮助&quot; 的字段旁边的 Microsoft 合作伙伴中心帮助选项？":::
 
-5. 在弹出屏幕中搜索 **Dynamics365 的合作伙伴中心引用连接器** 。  
+      - **产品**：产品的解决方案 id
 
-6. 单击 &quot; **立即获取** &quot; 按钮，然后 **继续**。
+   4. 一旦在 Dynamics 365 中创建了商机，并将 " **伙伴中心同步** " 选项设置为 **"是"**，请等待10分钟，然后登录到合作伙伴中心帐户。 你的引用将与 Dynamics 365 同步。
 
-7. 这将打开一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。  同意条款和条件。
+   5. 同样，如果将 "与合作伙伴中心同步" 选项设置为 "是"，则在 Dynamics 365 CRM 中更新此机会时，所做的更改将在你的合作伙伴中心帐户中同步。
 
-8. 然后，你将转到 &quot; **管理你的解决方案** &quot; 页。  通过使用页面底部的箭头按钮，导航到 &quot;合作伙伴中心引用&quot;。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。 
+   6. 与合作伙伴中心成功同步的机会将用 Dynamics 365 中的✔图标标识。
 
-9. 安装完成后，导航回 &quot; [自动启动](https://flow.microsoft.com) &quot;，并从左侧导航区域中选择 &quot; **解决方案** &quot;。 请注意，&quot;解决方案" **开放式机会**"。 现在，在 Microsoft 合作伙伴中心创建的引用同步到 Dynamics 365 CRM 中。
+2. 引用同步在 Microsoft 合作伙伴中心创建或更新引用并在 Dynamics 365 环境中同步时的同步：
+
+   1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)。
+
+   2. 从左侧菜单中选择 " **引用** "。
+
+   3. 单击 "新建交易" 选项，从合作伙伴中心创建新的联销售引用。
+
+   4. 登录到 Dynamics 365 CRM 环境。
+
+   5. 导航到 " **开放式机会**"。 现在，在 Microsoft 合作伙伴中心创建的引用同步到 Dynamics 365 CRM 中。
 
    6. 选择同步的引用时，将填充卡片视图详细信息。
 

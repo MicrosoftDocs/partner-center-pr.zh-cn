@@ -8,12 +8,12 @@ description: 将合作伙伴中心的推荐与 Salesforce CRM 同步。 然后�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031460"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947845"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
@@ -80,25 +80,25 @@ ms.locfileid: "92031460"
 
 4. 单击顶部菜单上的 " **打开 AppSource** " 链接。
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="打开 AppSource":::
 
 5. 在弹出屏幕中搜索 Salesforce 的 " **合作伙伴中心引用连接器** "。  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-5. 在弹出屏幕中搜索 Salesforce 的 " 按钮，然后 **继续**。
+6. 单击 " **立即获取** " 按钮，然后 **继续**。
 
 7. 这将打开可在其中选择要安装应用程序的 Salesforce CRM 环境的页面。  同意条款和条件。
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="可用 CRM":::
 
-5. 在弹出屏幕中搜索 Salesforce 的 " 列表中提供了 **Salesforce 的合作伙伴中心引用同步** 。
+8. 然后，你将转到 " **管理你的解决方案** " 页。  通过使用页面底部的箭头按钮，导航到 "合作伙伴中心引用"。 **计划的安装** 应显示在合作伙伴中心引用解决方案旁边。 安装将需要10-15 分钟。
+
+9. 安装完成后，导航回 " [自动启动](https://flow.microsoft.com) "，并从左侧导航区域中选择 " **解决方案** "。 请注意，"解决方案" 列表中提供了 **Salesforce 的合作伙伴中心引用同步** 。
 
 10. **为 Salesforce 选择合作伙伴中心引用同步**。 可以使用以下功能自动执行流和实体：
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 Salesforce 的 ":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce 流":::
 
 
 
@@ -115,31 +115,29 @@ ms.locfileid: "92031460"
 
 5. 通过单击 " **创建连接**" 创建连接。
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="打开 AppSource&quot;:::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="创建连接":::
 
-5. 在弹出屏幕中搜索 Salesforce 的 " 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
+- 在右上角的搜索栏中搜索 "合作伙伴中心引用 (预览") 。
 
-- 为 CRM 管理员用户的 Common Data Service (当前环境) 创建连接。
+- 使用 "引用管理员" 凭据角色为合作伙伴中心用户创建连接。
+
+-  接下来，使用 "引用管理员" 的凭据为合作伙伴中心用户创建合作伙伴中心事件连接。
+
+- 为 CRM 管理员用户创建 Salesforce 连接。
 
 -  添加所有连接后，你的环境中应会显示以下连接：
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 Salesforce 的 ":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="观察连接":::
 
 ### <a name="edit-the-connections"></a>编辑连接
 
-1. 返回 "解决方案" 页，选择 " **默认解决方案**"。  通过单击 "**全部**" ** (预览) 选择 "连接引用**"。
+1. 返回 "解决方案" 页，选择 " **默认解决方案**"。  通过单击 "**全部**" **(预览) 选择 "连接引用**"。
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 Salesforce 的 ":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="开始连接器编辑":::
 
 2. 通过选择三个点图标，逐个编辑每个连接。 添加相关连接。
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 Salesforce 的 ":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="编辑连接器":::
 
 3. 按以下顺序打开流：
 
@@ -155,25 +153,41 @@ ms.locfileid: "92031460"
 
 合作伙伴中心 Webhook Api 允许你注册资源更改事件。 这些更改事件以 HTTP post 的形式发送到你的 url。
 
-1. 若要注册 url，请选择 " **合作伙伴中心 Webhook 注册 (内幕预览版") ** Power 自动流 "。
+1. 若要注册 url，请选择 " **合作伙伴中心 Webhook 注册 (内幕预览版")** Power 自动流 "。
 
 2. 为 (a ) 合作伙伴中心用户添加连接， (b. ) 合作伙伴中心事件如下所示
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="打开 AppSource&quot;:::
-
-5. 在弹出屏幕中搜索 Salesforce 的 ":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="触发器":::
 
 3. 进行这些更新后，你将看到
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-5. 在弹出屏幕中搜索 Salesforce 的 " **收到 HTTP 请求时**"。
+4. 保存更改，然后选择 **"打开"**。
+
+   若要启用合作伙伴中心 webhook 来侦听事件更改，请执行以下步骤：
+
+5. 选择 " **合作伙伴中心到 SALESFORCE CRM (内幕预览版")**。
+
+6. 选择 " **编辑** " 图标，然后选择 " **收到 HTTP 请求时**"。
 
 7. 选择 **复制** 图标以复制提供的 HTTP POST URL。
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="打开 AppSource&quot;:::
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="复制 URL":::
 
-5. 在弹出屏幕中搜索 Salesforce 的 " **完成"。**
+8. 现在，选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
+
+9. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 " **继续**"。
+
+10. 输入以下详细信息：
+
+    1. **Http 触发器终结点**：从前面的步骤中复制的 URL
+
+    2. **要注册的事件**： "引用已创建" 和 "引用已更新"
+
+    3. **覆盖现有触发器终结点（如果存在**）：是 (这将覆盖任何现有终结点。 ) 
+
+11. 选择 " **运行** "，然后选择 " **完成"。**
 
 Webhook 现在可以侦听以创建和更新事件。
 
@@ -191,13 +205,13 @@ Webhook 现在可以侦听以创建和更新事件。
 
    2. 选择 " **编辑** " 以编辑/自定义电源自动流程。
 
-   3. 选择 " ** (范围") 同步潜在客户或机会**。
+   3. 选择 " **(范围") 同步潜在客户或机会**。
 
 2. 若要为创建事件自定义 CRM 字段映射，请选择 **新的共享机会，然后选择 "是"**。 选择 " **是"** ，然后 **在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
 
    1. 若要为更新事件自定义 CRM 字段映射，请单击步骤 " (范围) 同步潜在客户或机会"。
 
-   2. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后**展开。  
+   2. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后** 展开。  
 
    3. **如果是，则选择 "是"** ，然后选择 "**更新现有机会**
 
@@ -205,7 +219,7 @@ Webhook 现在可以侦听以创建和更新事件。
 
    1. 选择 " **编辑**  " 以编辑/自定义电源自动流程。
 
-   2. 选择 ** (范围) 同步机会**。
+   2. 选择 **(范围) 同步机会**。
 
    3. 对于 "基于字段映射 (自定义 CRM 字段映射" 指南) 对于 "更新事件"，请选择 **"合作伙伴中心和 CRM 中的潜在顾客对象之间是否存在差异"，然后**。
 
@@ -256,13 +270,33 @@ Webhook 现在可以侦听以创建和更新事件。
 
    2. 在 Salesforce CRM 环境中创建 "新机会" 时，请确保以下部分存在
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="打开 AppSource&quot;:::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce 环境":::
 
-5. 在弹出屏幕中搜索 Salesforce 的 " **开放式机会**"。 Microsoft 合作伙伴中心中创建的引用现已在 Salesforce CRM 中同步。
+   3. 若要将此机会与 Microsoft 合作伙伴中心同步，请确保在卡片视图中设置以下字段：
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="打开 AppSource&quot;:::
+       - "与合作伙伴中心同步"：是
+       - "Microsoft help 怎样？"：从以下选项中进行选择：
+       - 产品：产品的解决方案 Id
 
-5. 在弹出屏幕中搜索 Salesforce 的 ":::
+   4. 将 "机会  **与合作伙伴中心同步** " 选项设置为 **"是"** 后，请等待10分钟，登录到合作伙伴中心帐户。 你的引用将与 Salesforce CRM 同步。
+
+   5. 当 "与合作伙伴中心同步" 选项设置为 "是" 时，如果您更新了 Salesforce CRM 中的机会，则这些更改将与合作伙伴中心帐户同步。
+
+   6. 与合作伙伴中心成功同步的机会将用 Salesforce CRM 中的✔图标标识。
+
+2. 引用同步在 Microsoft 合作伙伴中心创建或更新引用并在 Salesforce CRM 环境中同步时的同步：
+
+    1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)。
+
+    2. 从左侧菜单中选择 " **引用** "。
+
+    3. 单击 "新建交易" 选项，从合作伙伴中心创建新的联销售引用。
+
+    4. 登录到 Salesforce CRM 环境。
+
+    5. 导航到 " **开放式机会**"。 Microsoft 合作伙伴中心中创建的引用现已在 Salesforce CRM 中同步。
+
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce 机会屏幕":::
 
     6. 选择同步的引用时，将填充卡片视图详细信息。
 

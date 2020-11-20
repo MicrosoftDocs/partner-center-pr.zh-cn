@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531981"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947658"
 ---
 # <a name="payout-schedules-and-policy-details"></a>付出计划和策略详细信息
 
@@ -32,9 +32,9 @@ ms.locfileid: "94531981"
 | --- | --- | --- | --- |
 | 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
 | 已创建采购订单 | 确定总用量、总事务数 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
-| 创建 ISV 支出收益 | 确定机构费和支出收益 | 在付出的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
-| 准备支出 | 收益已准备好每月支付 | 在支出表的事务历史记录中标记为即将推出 | **第3个月 (第一周)** |
-| **付款日期** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用声明的 "付款" 部分** | **第3个月 (不晚于 15)** |
+| 创建 ISV 支出收益 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
+| 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第3个月 (第一周)** |
+| **付款日期** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第3个月 (不晚于 15)** |
 | 按客户付款的发票 | Microsoft 收集客户的付款 | 没有变化 | **第4个月到第12个月** |
 |
 
@@ -48,10 +48,10 @@ ms.locfileid: "94531981"
 | --- | --- | --- | --- |
 | 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
 | 按客户付款的发票 | 确定总用量、总事务值和客户支付开票 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
-| 创建 ISV 支出收益 | 确定机构费和支出收益 | 在付出的交易历史记录中被标记为未处理 | **第2个月** |
-| 30天的保留期 | 确保资金收集、可能的收费和退款请求 | 在付出的交易历史记录中被标记为未处理 | **第3个月** |
-| 准备支出 | 收益已准备好每月支付 | 在支出表的事务历史记录中标记为即将推出 | **第4个月的第一周** |
-| **付款日期** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用声明的 "付款" 部分** | **第4个月 (不晚于 15)** |
+| 创建 ISV 支出收益 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第2个月** |
+| 30天的保留期 | 确保资金收集、可能的收费和退款请求 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月** |
+| 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第4个月 (第一周)** |
+| **付款日期** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第4个月 (不晚于 15)** |
 |
 
 \* 付出日期为太平洋标准时间 (PST) 。
@@ -70,10 +70,10 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 | --- | --- | --- |
 | 示例付出日期 | 10/15/2020 | 已标记为 "在事务历史记录中 **发送** " 和 "支出" 面板中 |
 | <font color="red">如果客户不向 Microsoft 付款</font> | 12/2/2020 –12/5/2020 | 无更改，如上所述 |
-| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | None |
-| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | None |
+| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | 无 |
+| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | 无 |
 | 发布者通知写入可能 | 1/7/2021 | 发送给发布者的电子邮件通知，其客户尚未发送付款。 包括交易记录 ID 和美元金额。 |
-| 客户收到终止通知 | 2/1/2021 | None |
+| 客户收到终止通知 | 2/1/2021 | 无 |
 | 收集过程结束/资金已写出 | 2/15/2021 | 发送给发布者的电子邮件通知已写出。 包括交易记录 ID 和美元金额。 |
 | 扣减支出 | 2021/3/1 | 发布者将在合作伙伴中心支出报表中看到消极事务 |
 | 预扣支出 | 3/15/2021 | 未来的付款将显示在合作伙伴中心支出报表中。 在余额不再为负值之前，发布者将不会收到支付。  |
@@ -97,4 +97,4 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 
 ## <a name="next-steps"></a>后续步骤
 
-了解 [税务详细信息](tax-details-marketplace.md)。
+- [税项详细信息](tax-details-marketplace.md)
