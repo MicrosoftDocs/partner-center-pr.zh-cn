@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92198043"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983311"
 landingContent:
 - title: 开始使用合作伙伴中心
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: 了解帐单
       url: read-your-bill.md
-- title: 开发人员资源
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: 加入合作伙伴中心 API 和 SDK 早期采用者计划
-      url: /partner-center/develop/early-adopter-program
-    - text: 合作伙伴中心开发人员文档
-      url: /partner-center/develop
-    - text: 合作伙伴中心 REST API 参考
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: 合作伙伴中心 .NET API 参考
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: 用于 Java 的合作伙伴中心 SDK
-      url: /java/partnercenter/overview
-    - text: 合作伙伴中心 PowerShell
-      url: /powershell/partnercenter/overview
 - title: 在商业市场中销售 (ISV)
   linkLists:
   - linkListType: concept
