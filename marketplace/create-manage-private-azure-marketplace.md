@@ -2,16 +2,16 @@
 title: 在 Azure 门户中创建和管理专用 Azure Marketplace
 description: 了解如何创建和管理专用 Azure Marketplace (预览) 在 Azure 门户中。
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487697"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006933"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 门户中创建和管理私有 Azure Marketplace (预览) 
 
@@ -37,8 +37,8 @@ ms.locfileid: "94487697"
 
 - 你有权访问 **全局管理员** 用户。
 - 租户至少有一个订阅 (可以是任何类型) 。
-- 对于在步骤2中选择的订阅，将为全局管理员用户分配 " **参与者** " 角色或更高级别。
-- 全局管理员用户已将访问权限设置为 **"是"** (参阅 " [提升-访问全局-管理](/azure/role-based-access-control/elevate-access-global-admin)) "。
+- 为全局管理员用户分配所选订阅的 " **参与者** " 角色或更高级别。
+- 全局管理员用户已将访问权限设置为 **"是"** (参阅 " [提升访问权限以管理所有 Azure 订阅和管理组](/azure/role-based-access-control/elevate-access-global-admin) ") 。
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>向 PowerShell 分配 Marketplace 管理员角色
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -128,8 +127,8 @@ Assign-MarketplaceAdminRole
 
 ## <a name="create-private-azure-marketplace"></a>创建专用 Azure Marketplace
 
-1. 登录到 [Azure 门户](https://portal.azure.com/)。
-2. 选择 " **所有服务** "，然后选择 " **Marketplace** "。
+1. 登录 [Azure 门户](https://portal.azure.com/)。
+2. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 门户主窗口。":::
 
@@ -151,7 +150,7 @@ Assign-MarketplaceAdminRole
 
 项是产品/服务和计划的组合。 你可以在 "管理应用商店" 页中搜索和添加项。
 
-1. 选择 " **添加项** "。
+1. 选择 " **添加项**"。
 
 2. 浏览 **库** ，或使用搜索字段查找所需的项。
 
@@ -180,7 +179,7 @@ Assign-MarketplaceAdminRole
 
 ## <a name="delete-offers"></a>删除产品/服务
 
-在 "管理应用商店" 页上，选中 "产品/服务名称" 旁边的复选框 (参阅上方的屏幕) 并选择 " **删除项目** "。
+在 "管理应用商店" 页上，选中 "产品/服务名称" 旁边的复选框 (参阅上方的屏幕) 并选择 " **删除项目**"。
 
 ## <a name="enabledisable-private-azure-marketplace"></a>启用/禁用专用 Azure Marketplace
 
