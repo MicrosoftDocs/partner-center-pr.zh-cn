@@ -1,8 +1,11 @@
 - name: Microsoft 市场客户文档
   href: index.yml
+- name: Azure 市场
   items:
     - name: 创建 Azure 专用市场
       href: create-manage-private-azure-marketplace.md
+    - name: Azure 市场合作伙伴集成
+      href: partner-integrations.md
 - name: 参考
   items:
     - name: Azure PowerShell
