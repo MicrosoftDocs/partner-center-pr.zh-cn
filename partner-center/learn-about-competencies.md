@@ -1,7 +1,7 @@
 ---
 title: Microsoft 黄金、白银资格要求
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何通过满足资格要求来获得黄金和白银成员资格级别，从而获得精英 Microsoft 合作伙伴状态并吸引新客户。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100717"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691327"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>通过获得 Microsoft 资格来突显你的业务优势
 
@@ -65,6 +65,10 @@ ms.locfileid: "92100717"
 
 - 了解如何通过将黄金资格与一个或多个[高级专业化](advanced-specializations.md)配对来进一步展示你的专长。
 
-- 了解资格随附的特定[进入市场权益](mpn-learn-about-go-to-market-benefits.md)。
+- 了解资格随附的特定[进入市场资源](mpn-learn-about-go-to-market-benefits.md)。
 
 - 详细了解[相关的发票和税款](mpn-view-print-maps-invoice.md)。
+
+- 查看合作伙伴中心见解[资格报告](pci-competencies-report.md)，其中显示了你当前的资格状态。
+
+- 获取有关资格的[常见问题解答](competencies-faq.md)的答案。

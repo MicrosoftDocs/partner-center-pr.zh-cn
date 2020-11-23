@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488096"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691293"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -23,6 +23,128 @@ ms.locfileid: "94488096"
 2020 公告：[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA 针对新商务产品/服务的合作伙伴计费货币更改。  
+
+### <a name="categories"></a>类别
+- 日期：2020-11-17
+- 功能
+
+### <a name="impacted-audience"></a>影响受众  
+
+在 EU/EFTA 区域中通过云解决方案提供商计划进行交易的合作伙伴 
+
+### <a name="summary"></a>总结 
+
+在欧盟 (EU)/欧洲自由贸易联盟 (EFTA) 区域，参与云解决方案提供商计划的所有新的商务产品/服务都将使用合作伙伴计费位置，而不是客户计费位置。 这意味着 Microsoft 将根据合作伙伴位置所用货币，而不是根据其客户位置所用货币对这些合作伙伴进行计费。 这将分为两个阶段完成： 
+
+- **第 1 阶段：在 CSP 中购买新的商务产品/服务的新客户**
+
+从 2021 年 1 月开始，对于有新客户购买新的商务产品/服务的合作伙伴，我们将按照合作伙伴位置所用货币对这些购买项进行计费。 对于当前有客户已在 CSP 中购买新的商务产品/服务的合作伙伴，我们在该阶段将继续按照客户计费位置所用的货币对他们进行计费。 
+
+ 
+
+- **第 2 阶段：2021 年 1 月之前在 CSP 中购买过新的商务产品/服务的现有客户** 
+
+在第 1 阶段之后且在 2021 历年期间，对于当前有客户已于 2021 年 1 月之前在 CSP 中购买新的商务产品/服务的合作伙伴，Microsoft 会将他们的商务产品/服务的计费从客户位置所用货币过渡到合作伙伴位置所用货币。 我们将在实施此项更改之前，提前通知合作伙伴。  
+
+>[注意] 此更改将只影响合作伙伴计费货币，不影响 CSP 中新商务产品/服务的定价。 
+
+在此更改范围内的新的商务产品/服务包括：云解决方案提供商计划中属于 Azure 计划、Azure 预留、服务器订阅、永久性软件和 Microsoft 云解决方案提供商计划购买项的 Azure 订阅。
+
+### <a name="partner-benefits"></a>合作伙伴权益  
+
+- 对于新的商业体验，此项更改将降低 EU/EFTA 区域中用多种货币开票所带来的复杂程度和开销。  
+
+- 合作伙伴将收到一张用单一货币显示的合并发票，不再就每个客户位置所用货币单独收到一张发票。 
+
+- 激励付款将与合作伙伴发票采用同一种货币。
+
+- 合作伙伴将注意到因多种货币开票而带来的计费复杂性得到了降低，这将节省当前对帐户对帐所涉及的时间和资源。 
+
+- 对于尚未采用新的商务产品/服务的合作伙伴，此更改与之前的合作伙伴计费模型保持一致，使合作伙伴能够更轻松地过渡到 CSP 中心的商业体验。 
+
+### <a name="resources"></a>资源 
+
+有关此主题的信息，请查看 Microsoft 合作伙伴网站上的[运营库](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ 。  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>针对调用合作伙伴中心 API 的合作伙伴的 API 限制
+
+### <a name="categories"></a>类别
+
+- 日期：2020-11-17
+- 功能
+
+### <a name="summary"></a>摘要
+
+Microsoft 将向调用合作伙伴中心 API 的合作伙伴进行 API 限制，目的是给定时段内实现更一致的性能。
+
+### <a name="impacted-audience"></a>影响受众
+
+通过云解决方案提供商计划进行交易的合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。 该项限制约束了特定时段内对某服务的请求数，以防止过度使用资源。 超出限制阈值时，合作伙伴中心将在一段时间内限制来自该客户端的任何后续请求。  
+
+### <a name="partner-benefits"></a>合作伙伴权益 
+
+合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制将使所有合作伙伴都保持最佳性能和可靠性。 它可确保停机时间最短。 通过减少大量请求，我们可确保所有合作伙伴获得一致的性能。 
+
+
+### <a name="apis-to-be-throttled"></a>要接受限制的 API
+
+|**操作**|**合作伙伴中心文档**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[获取客户的所有订阅](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[根据 ID 获取订阅](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders||[获取客户的所有订单](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[按 ID 获取订单](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[获取订阅预配状态](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理订单和订阅](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[获取订阅的加载项列表](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[获取订阅的 Azure 权利列表](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[获取订阅注册状态](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[获取客户的所有转让](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[获取产品升级状态](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[获取试用版转换产品/服务的列表](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+此公告旨在让合作伙伴提早注意到即将进行的更改，从而让他们能够做好准备。 我们强烈建议合作伙伴熟悉这些 API 并考虑使用活动日志 API 来提高效率和避免限制。 有关此功能的更多信息，请在 [API 限制指南](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)中查看详情。 
+
+### <a name="next-steps"></a>后续步骤
+
+查看 [API 限制指南](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)并执行必要的步骤。 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>由于 MCA 请求重复而导致的 409 错误
+
+### <a name="categories"></a>类别
+
+- 日期：2020-11-16
+- 功能
+
+### <a name="context"></a>上下文
+
+- 在今年 2 月份，合作伙伴被要求注册 Microsoft 客户协议 (MCuA)。 这是从之前的 Microsoft 云协议 (MCA) 的迁移。 
+- 作为此项更改的一部分，合作伙伴被要求纳入协议类型参数，如[此处](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)所述。
+
+### <a name="what-happened-next"></a>接下来发生的情况：
+
+- 并非所有合作伙伴都在其实现中包含了参数请求。 Microsoft 将 MCA 退回给了这些合作伙伴。
+- 合作伙伴随后将签字请求重新发送给客户，并将 MCA 重新发送给了 Microsoft。 
+- 重复请求影响了 Microsoft 向合作伙伴提供服务的能力。
+- 在 2020 年 9 月，我们通过 Yammer 在多个论坛中向合作伙伴发送了通知，要求他们修复参数。 Microsoft 没法再接受重复请求，这些合作伙伴会收到 409 错误。
+
+>[注意] 这不是针对合作伙伴的新的合同/API 更改。
+
+- 在 10 月份，我们与为解决问题而重复请求次数最多的合作伙伴密切合作。
+- 目前，我们提醒合作伙伴，并且将向排名前 10 的违规者发送个人电子邮件，来要求他们审阅自己的请求并与我们联系，以便我们可帮助他们测试和解决问题。
+- 在 2020 年 11 月 10 日，我们已停止接受重复请求，未更正参数的合作伙伴会收到 409 错误。
+- 从那以后，我们收回了“不接受重复请求”的更改。 
+- 但在 2021 年 1 月 14 日，我们又将不再接受重复请求。 这使合作伙伴有更多时间对自己的操作进行任何调整。 我们已从一位合作伙伴那里收到通知，他们计划在 11 月 16 日部署更新，届时我们将与他们密切合作。
+- 我们要求合作伙伴与我们联系，以便我们可将其租户添加到有更改的流程上来帮助他们进行测试，让他们能够确保自己的解决方案按预期工作。
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>现提供测试：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面 (UI) 改进功能

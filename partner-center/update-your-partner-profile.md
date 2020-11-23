@@ -1,20 +1,20 @@
 ---
 title: 验证合作伙伴配置文件
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 了解如何验证公司详细信息，例如主要联系人、地址和计划信息。 还可以更新法律和帐单地址。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490635"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625991"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作伙伴中心中验证合作伙伴配置文件信息
 
@@ -69,9 +69,17 @@ ms.locfileid: "89490635"
 
 ## <a name="update-your-billing-address"></a>更新账单邮寄地址
 
-如果你是全局管理员、帐务管理员或管理员代理，则可在“账单配置文件”中更改显示在发票上的地址。 但是，不能更改发票上的公司名称，因为发票系统存在限制。
+如果你是全局管理员、计费管理员或管理员代理，那么你可更新：
 
- 
+- 发票上的“计费对象信息”中显示的地址
+- 你的 PO 编号
+
+但无法更改：
+ 
+- 公司名称
+- 国家/地区
+- 计费日期
+ 
 ## <a name="next-steps"></a>后续步骤
 
 - [管理位置](manage-locations.md)
