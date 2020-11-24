@@ -1,11 +1,35 @@
 - name: Microsoft 市场客户文档
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: 关于 Microsoft AppSource
+      href: appsource-overview.md
+    - name: 购买 AppSource 上的软件
+      href: purchase-software-appsource.md
 - name: Azure 市场
   items:
-    - name: 创建 Azure 专用市场
+    - name: 关于 Azure 市场
+      href: azure-marketplace-overview.md
+    - name: 购买
+      href: azure-purchasing-invoicing.md
+    - name: 计费和开票
+      href: billing-invoicing.md
+    - name: 专用产品/服务
+      href: private-offers.md
+    - name: 订阅转让资格
+      href: transfer-eligibility.md
+    - name: 创建和管理 Azure 专用市场
       href: create-manage-private-azure-marketplace.md
     - name: Azure 市场合作伙伴集成
       href: partner-integrations.md
+- name: 常规资源
+  items:
+    - name: 退款策略
+      href: refund-policies.md
+    - name: 法律协定
+      href: legal-contracts.md
+    - name: 获取支持
+      href: get-support.md
 - name: 参考
   items:
     - name: Azure PowerShell
