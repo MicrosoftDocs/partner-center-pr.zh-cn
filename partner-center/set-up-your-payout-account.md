@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488120"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514752"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
 
@@ -44,7 +44,7 @@ ms.locfileid: "94488120"
 > [!IMPORTANT]
 > 不同的国家和地区具有不同的税务要求。 应付税款的确切金额取决于销售产品/服务所在的国家和地区。 请参阅 [Microsoft Azure 市场发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)，以找出 Microsoft 代表你向哪个国家/地区缴纳销售和使用税。 在其他国家/地区中，根据你的注册位置，可能需要对销售的产品/服务缴纳销售和使用税，并直接支付给本地税收机构。 此外，你收到的应用销售收款还可以作为收入进行纳税。 我们强烈建议联系你所在国家或地区最能帮助你的相关机构，确定与自己的商业市场活动相关的正确税务信息。
 
-1. 在[合作伙伴中心](https://partner.microsoft.com/dashboard)，选择右上角的“帐户设置”图标，然后选择“开发人员设置”。
+1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置**"。
 
 2. 在左侧导航菜单中，选择“付款和税务”，然后选择“付款和税款分配”。
 
@@ -81,7 +81,7 @@ ms.locfileid: "94488120"
 
 ### <a name="create-a-payment-profile"></a>创建付款配置文件
 
-1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置** "。
+1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置**"。
 2. 在“付款和税务”标题下，选择“付款和税务配置文件分配”。
 
     > [!NOTE]
@@ -124,7 +124,7 @@ ms.locfileid: "94488120"
 
 如果需要更改或更正任何错误信息，可以编辑现有的付款配置文件。
 
-1. 在[合作伙伴中心](https://partner.microsoft.com/dashboard)，选择右上角的“设置”齿轮图标，然后选择“开发人员设置”。
+1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 "  **帐户设置**"。
 
 2. 在“付款和税务”标题下，选择“付款和税务配置文件”。
 

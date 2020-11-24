@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007119"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514769"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace 计费和开票
 
@@ -57,7 +57,7 @@ Azure Marketplace 产品/服务的定价和计费价格如下：
 - 如果你的付款方式是信用卡，则在购买预订后，你将立即开票。 此发票将与月度发票分离。
 - 如果支付方式为支票/在线，此购买将包含在月度 Marketplace 发票上。
 
-系统会为 Microsoft 在线服务计划 (MOSP)、Microsoft 客户协议 (MCA) 和 Microsoft 合作伙伴协议 (MPA) 计费帐户创建发票。 发票基于计费帐户类型生成。 在 [计费周期](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)结束后，Azure Marketplace 会向你收取几天的费用。 Azure Marketplace、预订和专色 Vm 的发票是围绕该 [月的第9天](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)生成的。 其中显示了上个月的相关费用。 例如，如果用户在3月1日购买了预订，而另一个预订于3月30日，则4月的单个发票包含预订。
+系统会为 Microsoft 在线服务计划 (MOSP)、Microsoft 客户协议 (MCA) 和 Microsoft 合作伙伴协议 (MPA) 计费帐户创建发票。 发票基于计费帐户类型生成。 在计费周期结束后，Azure Marketplace 会向你收取几天的费用。 Azure Marketplace、预订和专色 Vm 的发票是围绕该 [月的第9天](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)生成的。 其中显示了上个月的相关费用。 例如，如果用户在3月1日购买了预订，而另一个预订于3月30日，则4月的单个发票包含预订。
 
 有关发票的详细信息，请参阅 [了解 Azure 外部服务费用](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)。
 
