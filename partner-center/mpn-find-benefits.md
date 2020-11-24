@@ -1,7 +1,7 @@
 ---
 title: 查找你的权益
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何在合作伙伴中心仪表板中查找 MPN 权益。 包括有关如何查找你的访问 ID 和合同 ID 以获得技术优势的信息。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175318"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812838"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>找到你的 Microsoft 合作伙伴网络权益 
 
@@ -74,7 +74,7 @@ ms.locfileid: "92175318"
 
    应会看到分配给此权益的特定产品支持 **合同 id** 和 **访问 ID** 。  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="扩展的权益":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="示例金牌核心资格支持技术权益，其中显示了 Microsoft 产品支持 Id，如合同 ID 和访问 ID":::
 
    > [!NOTE]
    > 跟踪这些支持 Id。 某些系统可能会在你首次 (或你的公司的用户之一) 记录与特定技术权益关联的支持请求。 公司的所有用户都可能使用相同的访问 ID 和合同 ID。
@@ -83,7 +83,7 @@ ms.locfileid: "92175318"
 
 若要了解 Microsoft Action Pack、银色和/或金牌提供的权益，请参阅以下资源：
 
-- [Microsoft Action Pack 合作伙伴的许可证表](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Microsoft Action Pack 合作伙伴的许可证表](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [资格合作伙伴的许可表](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
