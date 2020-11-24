@@ -6,21 +6,51 @@ metadata:
   description: 了解如何在我们的线上商店中查找和购买 Microsoft 合作伙伴提供的解决方案、应用程序和服务。
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845248"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006916"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 什么是 Microsoft AppSource？
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: 购买 Microsoft AppSource 上的软件
+      url: purchase-software-appsource.md
 - title: Azure 市场
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: 什么是 Azure 市场？
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: 计费和开票
+      url: billing-invoicing.md
+    - text: 订阅转让资格
+      url: transfer-eligibility.md
+    - text: Azure 市场合作伙伴集成
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: 创建和管理专用 Azure 市场（预览版）
       url: create-manage-private-azure-marketplace.md
-    - text: Azure 市场合作伙伴集成
-      url: partner-integrations.md
+- title: 常见方案
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: 退款策略
+      url: refund-policies.md
+    - text: 法律协定
+      url: legal-contracts.md
+    - text: 获取支持
+      url: get-support.md
