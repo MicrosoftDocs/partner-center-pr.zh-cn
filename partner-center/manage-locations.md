@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100767"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514787"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
 
@@ -58,9 +58,9 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
 
 1. 使用合作伙伴中心的 MPN 帐户登录。 MPN 帐户应具有全局管理员或帐户管理员权限。 
 
-1. 从“设置”图标中选择“合作伙伴设置”。 
+1. 从“设置”图标中选择“组织设置”。 
 
-2. 选择“位置”。
+2. 选择“法人实体”，然后选择“地点” 。
 
 3. 选择“添加位置”，然后插入要添加到公司的位置的地址详细信息以及该位置的主要联系人。
 
@@ -69,18 +69,15 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
 
 ## <a name="change-global-partner-account-location"></a>更改全局合作伙伴帐户位置
 
-1. 在“[位置](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)”页面上，检查位置列表，确保其中已列出你希望作为法人实体的位置。 否则，请添加该位置。
+1. 在“[营业地点](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)”上，检查位置列表，确保其中已列出你希望作为法人实体的位置。 否则，请添加该位置。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 位置的结构":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="合作伙伴中心“帐户位置”页面的屏幕截图，其中包含所有当前位置的列表。":::
 
-2. 选择“合作伙伴配置文件”，然后选择“更新法定公司配置文件” 
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 位置的结构":::
-
+2. 选择“法人实体”，然后选择“更新法定公司资料” 
+  
 3. 选择区域和法人，并“提交”。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 位置的结构":::
-
+  
 ## <a name="next-steps"></a>后续步骤
 
 - 了解[验证过程](verification-responses.md)。
