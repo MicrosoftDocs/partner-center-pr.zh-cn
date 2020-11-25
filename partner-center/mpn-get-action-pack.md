@@ -1,7 +1,7 @@
 ---
 title: 购买或续订 Microsoft Action Pack 产品/服务
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何购买 Microsoft Action Pack 订阅并开始使用 Action Pack 权益。 另请了解如何续订、取消、查看账单，等等。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998373"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812854"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>购买或续订 Microsoft Action Pack 订阅或白银和黄金资格
 
@@ -52,25 +52,25 @@ ms.locfileid: "87998373"
 ### <a name="check-your-renewal-eligibility"></a>检查续订资格
 
 >[!IMPORTANT]
->如果你受邀在合作伙伴中心续订订阅，请注意，我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。       
->可以在[**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页查找订阅的到期日期（需要登录）。 当你有资格在合作伙伴中心续订时，请按照以下步骤操作。  
+>如果你受邀在合作伙伴中心续订订阅，请注意，我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。
+>可以在 [**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页查找订阅的到期日期（需要登录）。 当你有资格在合作伙伴中心续订时，请按照以下步骤操作。  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>在合作伙伴中心续订 Microsoft Action Pack 订阅
 
-1. 转到[**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。 找到“Microsoft Action Pack 订阅”磁贴。  
+1. 转到 [**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。 找到“Microsoft Action Pack 订阅”磁贴。  
 
 2. 选择“续订订阅”，然后选择付款方式。 可以使用信用卡或通过电子银行转账进行支付。
 
     >[!NOTE]
     >如果“续订订阅”未显示或者灰显，则表明你还没有资格续订 Action Pack 订阅。 我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。  
 
-3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 如果通过电子银行转账支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择“提交”。 
-     
+3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 如果通过电子银行转账支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择“提交”。
+
 4. 查看订单详细信息，然后在准备好购买 Action Pack 时选择“购买”。 将立即从你的信用卡中收费。
 
 5. 然后订单获得确认。 选择“关闭”。
 
-每年在此日期你的 Action Pack 订阅都将自动续订。 可以随时从你的“已购买”套餐列表中关闭自动续订；但是，你将无法重新打开自动续订订阅功能，直到你再次续订订阅为止。 
+每年在此日期你的 Action Pack 订阅都将自动续订。
 
 ### <a name="update-your-bill-to-address"></a>更新帐单地址
 
@@ -80,21 +80,11 @@ ms.locfileid: "87998373"
   
  1. 在“合作伙伴简介”页上，更新地址。
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>关闭 Action Pack 订阅自动续订
-
-1. 转到[**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。  选择“Microsoft Action Pack 订阅”以查看订阅详细信息。 
-
-2. 如果你不希望每年自动续订你的 Action Pack 订阅，请选择“关闭自动续订”。 
-
-    >[!NOTE]
-    >如果你关闭自动订阅续订，则你将无法重新打开此功能，直到你再次续订订阅为止。 我们将在你的订阅到期之前提醒你续订。
-
-
 ## <a name="cancel-your-action-pack-subscription"></a>取消 Action Pack 订阅
 
 若要取消你的 Microsoft Action Pack 订阅，你可能需要联系合作伙伴支持部门。
 
-1. 转到[**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。 选择“Microsoft Action Pack 订阅”以查看订阅详细信息。 
+1. 转到 [**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。 选择“Microsoft Action Pack 订阅”以查看订阅详细信息。 
 
 3. 选择“取消订阅”。 按照说明创建支持请求。 
 
@@ -110,7 +100,7 @@ ms.locfileid: "87998373"
 
 ## <a name="download-your-action-pack-invoice"></a>下载 Action Pack 发票
 
-1. 转到[**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。 选择“Microsoft Action Pack 订阅”以查看订阅详细信息。 
+1. 转到 [**会员套餐**](https://partnercenter.microsoft.com/pcv/partnership/offers)页。 选择“Microsoft Action Pack 订阅”以查看订阅详细信息。 
 
 3. 选择“下载发票”。
  

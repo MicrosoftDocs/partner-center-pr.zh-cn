@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031550"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878794"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -46,7 +46,7 @@ Microsoft 365 管理中心增强了所购软件的安全交付，让客户能够
 
 ### <a name="next-steps"></a>后续步骤
 
-- 若要详细了解 Microsoft 365 管理中心软件，可查看[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)。
+- 若要详细了解 Microsoft 365 管理中心软件，可查看[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)。
 
 - 与组织中的相关团队分享此更新。
 
