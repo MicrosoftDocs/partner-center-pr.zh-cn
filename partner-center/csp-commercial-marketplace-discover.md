@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000411"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038841"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>在合作伙伴中心商用 marketplace 中发现产品/服务和定价
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>在合作伙伴中心商业市场中发现产品/服务和定价
 
 **适用于**
 
@@ -32,17 +32,17 @@ ms.locfileid: "91000411"
 
 如果 ISV 产品/服务未按预期显示在合作伙伴中心，原因可能是：
 
-- ISV 决定不通过 CSP 计划出售产品/服务。 例如，某些 ISV 产品可能已在商业市场 (的其他区域中提供，例如 [Microsoft AppSource](https://appsource.microsoft.com/) 和 [Azure Marketplace](https://azuremarketplace.microsoft.com/)) ，但不会显示在合作伙伴中心市场中的 csp。
+- ISV 决定不通过 CSP 计划出售产品/服务。 例如，某些 ISV 产品可能已在商业市场 (的其他区域中提供，例如 [Microsoft AppSource](https://appsource.microsoft.com/) 和 [Azure Marketplace](https://azuremarketplace.microsoft.com/)) ，但可能不会在合作伙伴中心 marketplace 中的 CSP 计划中显示为合作伙伴。
 
 - ISV 决定为仅选择数量的 CSP 合作伙伴提供产品/服务。 有关专用产品/服务的详细信息，请参阅本帮助主题后面的。
 
-- 产品/服务类型可能无法通过合作伙伴中心或 Azure 门户 (例如容器或某些基于使用情况的提供) 。
+- 产品/服务类型可能无法通过合作伙伴中心或 Azure 门户 (例如容器或某些基于使用情况的产品/服务的) 。
 
 - 此 ISV 产品/服务可能不支持关联客户 (s) 的计费国家/地区。
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>在合作伙伴中心查看 Marketplace 产品/服务
 
-若要查看 CSP 计划中的可用商业 marketplace 产品/服务： 
+若要查看 CSP 计划中的可用商业 marketplace 产品/服务：
 
 1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)，然后从左侧导航菜单中选择 " **CSP** "。
 
@@ -80,7 +80,7 @@ CSP 计划合作伙伴还可以使用 Api 返回符合条件的产品列表。 �
 
 2. 选择 " **销售**"，然后选择 " **定价" 和 "产品/服务**"。
 
-3. 向下滚动到 " **marketplace** " 部分，选择一个位置并下载 **Marketplace 定价**。 这会生成一个电子表格，其中包含 ISV 发布者提供的 SaaS 和基于许可证的产品/服务的最新定价数据。 此处还可能会显示一些 Azure 应用程序定价。 此信息每日更新，因此，你可以在选择时查看其最新价格。
+3. 向下滚动到 " **marketplace** " 部分，选择一个位置并下载 **Marketplace 定价**。 这会生成一个电子表格，其中包含来自 ISV 发布者提供的 SaaS、基于许可证的产品/服务和计量服务的最新定价数据。 此处还可能会显示一些 Azure 应用程序定价。 此信息每日更新，因此，你可以在选择时查看其最新价格。
 
 4. 如果 ISV 产品包含免费试用期，则电子表格将为该产品显示两行：
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c3cfc2a6576029a8fdfb902a7b3889b4ea6c628
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000521"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038874"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -36,8 +36,8 @@ ms.locfileid: "91000521"
 
 某些产品/服务仅限每个客户一个订阅。 若要查看受限制的套餐列表，请访问合作伙伴中心定价和套餐页面。
 
-> [!IMPORTANT]
-> 作为 CSP 计划中的合作伙伴，只能从合作伙伴中心内的 ISV 发布者购买 **基于许可证的** SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何 **基于许可证** 的 SaaS 产品/服务，包括你有权访问的 [独家产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) 。 若要购买或管理其他商用 marketplace，请从 Isv (（例如 **基于使用情况**、按流量计费或基于消耗的产品/服务，其中涉及 azure 应用程序、容器或 vm) ，你必须使用 [azure 管理门户](https://portal.azure.com/)。 有关详细信息，请参阅 [购买商业 marketplace 产品](csp-commercial-marketplace-purchase.md)。
+>[!IMPORTANT]
+> 作为 CSP 计划中的合作伙伴，你可以从合作伙伴中心内的 ISV 出版商处购买 **基于许可证** 或 **计量** 的 SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何 **基于许可证** 或 **按流量计费** 的 SaaS 产品/服务，包括你有权访问的 [专有产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) 。 若要购买或管理其他商用 marketplace，请参阅基于使用情况的产品/服务（包括 Azure 应用程序、容器或 Vm) 的基于使用情况的产品/服务），你必须使用 [Azure 门户](https://portal.azure.com/) (。
 
 ## <a name="create-a-new-subscription"></a>创建新订阅
 
@@ -45,7 +45,7 @@ ms.locfileid: "91000521"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 选择“添加订阅”****。 " **联机服务** " 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
+3. 选择“添加订阅”。 " **联机服务** " 选项卡将显示所有可用的 Marketplace SaaS 产品/服务。
 
 4. 若只要查看特定类型的订阅，请在可用筛选器中进行选择：
    - **发布者**：选择 **microsoft** 仅查看来自 microsoft 或 **合作伙伴** 的产品/服务，以查看由 isv 发布的商业 marketplace 产品。
@@ -70,7 +70,7 @@ ms.locfileid: "91000521"
 
     - 您可以通过从该客户的 " **订阅** " 页中选择订阅名称来查看或编辑该订阅。 在这里，可以选择附加许可证（如果有）、更改许可证数量，或者暂停订阅。
 
-    **对于 ISV SaaS (基于许可证的) 订阅：**
+    **对于 ISV SaaS (基于许可证并按流量计费) 订阅：**
     - 你将收到 ISV 发布者网站的链接。 此链接应有助于你完成客户订阅的部署或帐户设置。
       
     >[!NOTE]
@@ -104,7 +104,7 @@ ms.locfileid: "91000521"
 
 ### <a name="suspend-a-subscription"></a>暂停订阅
 
-当你将订阅状态更改为“已暂停”**** 时，用户将无法登录或访问服务。
+当你将订阅状态更改为“已暂停”时，用户将无法登录或访问服务。
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
@@ -116,7 +116,7 @@ ms.locfileid: "91000521"
 
 5. 除非在 90 天内或在 90 天加上帐户开具时间与第一个计费周期之间的天数内（最长 120 天）重新激活订阅，否则所有数据将被删除。
 
-暂停订阅后，你在“暂停”**** 按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 
+暂停订阅后，你在“暂停”按钮下看到的日期即是在不重新激活订阅的情况下，该订阅的自动过期日期。 
 
 ### <a name="cancel-a-subscription"></a>取消订阅
 

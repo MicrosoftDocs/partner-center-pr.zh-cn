@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000401"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038823"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心内的商业市场概述
 
@@ -68,7 +68,7 @@ ms.locfileid: "91000401"
 
 若要了解在何处完成基于许可证或基于使用的 ISV 产品/服务的特定市场活动，请参阅下表。
 
-|**适用于基于许可证的 SaaS 提供商**  |**使用**  |
+|**适用于 Isv 的基于许可证或计量的 SaaS 服务**  |**使用**  |
 |:------------------------------------|:------------------|
 |发现或搜索可用的产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
 |购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
