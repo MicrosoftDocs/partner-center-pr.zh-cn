@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92523582"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932832"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
@@ -63,15 +63,34 @@ ms.locfileid: "92523582"
 
    d. 单击链接下载并安装软件安装包。
 
-## <a name="manage-cloud-services-benefits"></a>管理云服务权益
+## <a name="azure-and-cloud-products"></a>Azure 和云产品
 
-1. 选择“云”可查看基于云的服务的订阅列表。
+“Azure 和云产品”选项卡显示预配的基于使用情况的订阅（Azure 额度）和基于许可证的订阅（例如 Office 365）、每种产品的许可证数量、预配的权益产品的产品/服务类型、权益类型（核心权益或增量权益）以及权益的到期日期。
 
-2. 找到要开始使用的订阅或产品，然后选择所在行最右侧的向下箭头，展开该订阅或产品的详细信息。
+:::image type="content" source="images/benefits/azuretab.png" alt-text="“Azure 和云产品”选项卡":::
 
-3. 若要激活基于 Microsoft Azure 用量的订阅，请将你自己指定为用户。 转到 Microsoft Azure 门户管理订阅。
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>基于使用情况的订阅 - Microsoft Azure 额度
 
-   若要激活基于许可证的订阅，请选择“获取密钥”以复制产品许可密钥，然后根据任何特殊说明来激活订阅。  
+可以接收两种基于使用情况的订阅，具体取决于你的 MPN 合作伙伴身份有效的产品/服务类型（MAPS、银和/或金）的每月额度或批量额度。
+
+可以通过以下方式进行预配：
+
+- 每月 100 美元（或等值的本国货币）的 Azure 每月额度或/和
+- 每年 6000 美元、12000 美元或/和 13000 美元（或它们分别等值的本国货币）的 Azure 批量额度
+
+若要在合作伙伴中心激活 Microsoft Azure 订阅，请将访问权限分配给在 Azure Active Directory 中创建了用户条目的公司内的用户（包括来宾用户）。
+对于每月 100 美元（或等值的本国货币）的 Azure 每月额度，可以按需在此订阅中添加或删除用户。 
+
+对于 Azure 批量（每年）额度，“删除”选项在合作伙伴中心不可用，但可以在有效期内将批量额度转让给其他人。 Azure 批量（每年）额度订阅不能与其他许可、预付费或额度优惠（即 Microsoft 企业协议、云解决方案合作伙伴、Azure in Open、Azure Pass、Action Pack 等）结合使用。
+
+## <a name="license-based-subscriptions"></a>基于许可证的订阅
+
+在“Azure 和云产品”选项卡的基于许可证的订阅部分中，可以找到需要产品激活密钥的所有云产品（例如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD Basic、Power BI 等），这些产品根据你的 MPN 合作伙伴身份有效的产品/服务类型（MAPS、银或金）提供。
+
+若要激活基于许可证的订阅，请单击与感兴趣的产品相对应的下拉符号，并阅读有关如何兑换密钥的说明。 阅读说明后，选择可将你重定向到门户的链接，以便兑换密钥以及产品的已分配密钥。
+
+>[!IMPORTANT]
+>请注意，兑换密钥后，就无法再次兑换同一密钥，因此请确保你清楚是需要添加更多许可证（席位）还是延长结束日期。 如果选择添加更多许可证而非延长结束日期，则系统将提供不超过 12 个月的有效订阅。 请确保使用正确的凭据登录，在正确的租户上激活密钥。
 
 ## <a name="manage-visual-studio-subscriptions"></a>管理 Visual Studio 订阅
 

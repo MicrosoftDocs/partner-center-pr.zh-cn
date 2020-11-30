@@ -1,22 +1,22 @@
 ---
-title: 验证合作伙伴配置文件
+title: 验证组织资料
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-csp
 description: 了解如何验证公司详细信息，例如主要联系人、地址和计划信息。 还可以更新法律和帐单地址。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/13/2020
+ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94625991"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514701"
 ---
-# <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作伙伴中心中验证合作伙伴配置文件信息
+# <a name="verify-your-organization-profile-information-in-partner-center"></a>在合作伙伴中心中验证组织资料
 
 **相应的角色**
 
@@ -27,60 +27,65 @@ ms.locfileid: "94625991"
 
 合作伙伴配置文件包含法定公司信息、主要联系人名称和电子邮件、公司参与的计划，以及现在合并到法定公司名下的其他公司（如果适用）。 请确保法人资料中的公司名称和地址没有拼写错误和缩写，并且与正式的公司商业注册记录完全一致。 如果以个体经营者的身份运营，则需要将公司名称用作法人名称。
 
-1. 转到“设置”，然后选择“合作伙伴配置文件”。
+1. 转到“设置”，然后选择“帐户设置” 。
+ 
+1. 选择“组织资料”。 
 
 2. 查看“法定公司配置文件”、“主要联系人信息”和“计划信息”。
 
-如果已将其他公司合并到法定公司名下，则也可在此页面上查看其信息。
+如果已将其他公司合并到法定公司名下，则也可查看其信息。 
 
 ## <a name="update-your-legal-business-profile"></a>更新法定公司配置文件
 
 现在可以在合作伙伴中心更新法定地址。
 
-1. 转到“设置”，然后选择“合作伙伴配置文件”。 
+1. 转到“设置”，然后选择“组织资料” 
 
-2. 选择法定地址旁边的“更新”。 
+
+2. 选择“法人”，然后选择要使用的法定公司资料。
 
 >[!Important]
->如果你是云解决方案提供商，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
+>如果你是云解决方案提供商 (CSP) 合作伙伴，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果审核状态为“已授权”，则无法在合作伙伴中心更新法定公司名称。 你将需要[创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
-3. 选择“提交”后，我们会对你的法定身份重新进行评估。你会收到另一封电子邮件，并且需要接受它。
+3. 选择“提交”后，我们会对你的法定身份重新进行评估。你将收到另一封电子邮件，并且需要接受它。
 
 ## <a name="update-your-mpn-global-business-account"></a>更新 MPN 全球企业帐户
 
-如果在从 Partner Membership Center 迁移到合作伙伴中心的过程中，系统将错误的公司确定为法定公司，你可以将其更改为正确的公司。
+如果在从 Partner Membership Center 迁移到合作伙伴中心的过程中，系统将错误的公司确定为法定公司，你可以将其更改为正确的法定公司。
 
-1. 从“帐户设置”转到“位置”，确保要用作法定公司的公司位于列表中。 否则，可以添加该公司。 选择“添加位置”。
+1. 在“帐户设置”中，转到“组织资料”，然后转到“法人”  。
 
-2. 接下来转到“合作伙伴配置文件”，选择“更新法定公司配置文件”。
+1.  向下滚动到“位置”，并确保要用作法定公司的公司位于列表中。 否则，可以添加该公司。 选择“添加位置”。 添加位置详细信息，然后选择“保存”。
 
-3. 选择要用作法定公司的位置和公司，然后选择“保存”。
+2. 接下来滚动到“更新法定公司资料”。
+
+3. 你将看到刚刚添加的位置。 选择该位置和要用作法定公司的公司，然后选择“保存”。
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>更新与 CSP 帐户关联的 MPN ID
 
 若要更新与 CSP 帐户关联的 MPN ID：
 
 1. 登录到合作伙伴中心面板。
-1. 从“帐户设置”中选择“合作伙伴资料” 。
+ 
+1. 从“帐户设置”中选择“组织资料” 。
+
 1. 在“关联的 MPNID”旁边，选择“更新” 。
+ 
 1. 选择“继续”。 
+ 
 1. 添加你的 MPN ID。
 
 
 ## <a name="update-your-billing-address"></a>更新账单邮寄地址
 
-如果你是全局管理员、计费管理员或管理员代理，那么你可更新：
+如果你是全局管理员、计费管理员或管理员代理，则可以更改发票上“付款和税务资料”中显示的地址。 但是，不能更改发票上的公司名称，因为发票系统存在限制。
 
-- 发票上的“计费对象信息”中显示的地址
-- 你的 PO 编号
-
-但无法更改：
- 
-- 公司名称
-- 国家/地区
-- 计费日期
- 
 ## <a name="next-steps"></a>后续步骤
 
-- [管理位置](manage-locations.md)
+
+- [检查验证状态](verification-responses.md)
+ 
+- [管理 MPN 位置](manage-locations.md)
+
+
 

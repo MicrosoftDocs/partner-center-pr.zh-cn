@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691293"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514735"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -23,6 +23,219 @@ ms.locfileid: "94691293"
 2020 公告：[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>引入在合作伙伴中心通过按使用量计费的方式购买 SaaS 产品/服务的功能 
+
+### <a name="categories"></a>类别
+
+- 日期:2020-11-24
+- 功能
+
+## <a name="summary"></a>摘要
+
+Microsoft 正在向云解决方案提供商计划中的合作伙伴引入在合作伙伴中心通过按使用量计费的方式购买 SaaS 产品/服务功能。 
+
+### <a name="impacted-audience"></a>影响受众
+
+所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间接提供商和直接计费合作伙伴）引入在合作伙伴中心通过 [使用量计费的方式](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) 购买 SaaS 产品/服务的功能。 如今，云解决方案提供商计划的合作伙伴可以通过 Azure 门户查看 SaaS 服务/产品以及 [通过按使用量计费的方式进行购买](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)。 借助这种新体验，合作伙伴可以通过合作伙伴中心的 CSP 商城和 API 购买这些产品/服务，方式与购买其他 SaaS 产品/服务类型一样。 
+
+### <a name="next-steps"></a>后续步骤
+
+请与贵公司中的相应联系人共享这些信息。
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>全新的统一帐户管理体验
+
+### <a name="categories"></a>类别
+
+- 日期:2020-11-18
+- 功能
+
+## <a name="summary"></a>摘要
+
+从 11 月 18 日开始，合作伙伴中心将开始推出新的帐户管理体验，从而改进合作伙伴的用户体验。 合作伙伴现在可以通过“设置”->“帐户设置”来管理所有计划的帐户。
+
+### <a name="impacted-audience"></a>影响受众
+
+所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+帐户管理的主要变化是，将以前在商业计划（Microsoft 合作伙伴网络、云解决方案提供商、引荐等）中注册的合作伙伴的单独“合作伙伴设置”视图和在开发人员计划（商业市场、Windows 和 Xbox 等）中注册的合作伙伴的“开发人员设置”视图集成到统一的“帐户设置”视图  。
+
+### <a name="entry-point"></a>入口点
+
+登录合作伙伴中心面板，选择“设置”图标，然后单击“帐户设置” ****  。 现在不必在合作伙伴和开发人员之间进行选择，因为所有配置文件和设置现已合并。
+
+### <a name="left-navigation-hierarchy"></a>左侧导航层次结构
+
+- 组织资料
+   - 法务 - 管理法定公司资料、合作伙伴资料和公司位置。
+   - 租户 - 在此处跟踪有关 Azure AD 租户（商业和开发人员）的所有信息。
+   - 标识符 - 贵公司的合作伙伴中心标识 - MPNID、publisherId 等。
+- 用户管理 - 管理用户，并从一个位置为其分配商业和开发人员角色。 还可以在此处管理组和 Azure AD 应用程序。
+
+### <a name="next-steps"></a>后续步骤
+
+请与贵公司中的相应联系人共享这些信息。
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>适用于中端市场的 Office 365 E1 促销活动（LATAM、APAC 和印度）
+
+### <a name="categories"></a>类别
+- 日期：2020-11-18
+- 产品/市场
+
+### <a name="summary"></a>摘要
+我们将为中端市场推出新的 Office 365 E1 促销活动，仅适用于 LATAM、印度和 APAC 地区的新兴市场（不包括 APAC 地区的已开发市场）。
+
+### <a name="impacted-audience"></a>影响受众
+在上面列出的参与市场中，所有合作伙伴都通过云解决方案提供商 (CSP) 计划进行交易。
+
+### <a name="details"></a>详细信息
+该促销活动包含针对 Office 365 E1 for CSP 给予 30% 的优惠。 它将于 2020 年 12 月 1 日启动，持续 6 个月，直到 2020 年 5 月 31 日终止。 此促销活动仅适用于 MW 云新手且拥有超过 500 个席位的客户。 请注意，这仅适用于 LATAM、印度和 APAC 地区的新兴市场，以便能够过渡到云。 
+
+#### <a name="offer-details"></a>产品/服务详细信息
+
+   |**产品/服务名称**|**产品/服务 ID**|
+   |-------------------|:------|
+   |适用于中端市场的 Office 365 E1 促销活动|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>后续步骤
+这将在 12 月 1 日提供，同时，请与（参与地区）组织内的所有相关联系人共享此信息。 开始与尚不在参与区域的云中的客户互动。 
+
+### <a name="questions"></a>存在疑问？
+如需了解问题、查询或详细信息，请联系[合作伙伴中心支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>合作伙伴中心 API 更新和用户界面 (UI) 增强功能，可增强特定国家/地区的客户筛选
+
+### <a name="categories"></a>类别
+
+- 日期：2020-11-17
+- 功能 | 增强的客户筛选
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的直接计费合作伙伴或间接提供商在以下国家/地区拥有新客户或现有客户：
+
+- 亚美尼亚 (AM)
+- 阿塞拜疆 (AZ)
+- 白俄罗斯 (BY)
+- 匈牙利 (HU)
+- 哈萨克斯坦 (KZ)
+- 吉尔吉斯坦 (KG)
+- 摩尔多瓦 (MD)
+- 俄罗斯 (RU)
+- 塔吉克斯坦 (TJ)
+- 乌兹别克斯坦 (UZ)
+- 乌克兰 (UA)
+
+### <a name="summary"></a>总结
+
+Microsoft 围绕合规业务做法为客户和合作伙伴践行以下持续承诺：当合作伙伴下一次尝试更新现有客户订阅或创建合作伙伴时，现在将要求在某些国家/地区拥有客户的一些合作伙伴完成一些有关这些客户的数据的其他字段。 
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 作为这项工作的一部分，我们引入了合作伙伴中心 API 和 UI 增强功能，这些功能将影响符合以下所有条件的合作伙伴： 
+
+- 合作伙伴与 Microsoft 有直接计费关系（例如直接计费合作伙伴或间接提供商）；
+
+- 合作伙伴与以下国家/地区的新客户或现有客户开展业务：亚美尼亚 (AM)、阿塞拜疆 (AZ)、白俄罗斯 (BY)、匈牙利 (HU)、哈萨克斯坦 (KZ)、吉尔吉斯斯坦 (KG)、摩尔多瓦 (MD)、俄罗斯 (RU)、塔吉克斯坦 (TJ)、乌兹别克斯坦 (UZ) 和乌克兰 (UA) 
+
+对于在这些国家/地区拥有客户的此类合作伙伴，现在将要求合作伙伴在下次尝试为客户更新或创建订阅时提交特定客户的合法标识符（也称为客户的组织 INN）和客户的电话号码  。 这些合作伙伴现在还可以选择为客户输入可选的“中间名”。
+
+### <a name="partner-center-enhancements"></a>合作伙伴中心增强功能
+
+- 合作伙伴中心 UI 增强功能，可改进特定国家/地区客户的验证
+
+- 新的 API，用于支持改进特定国家/地区客户的验证
+
+**对“合作伙伴中心 UI - 客户帐户”页面的更改**
+
+“合作伙伴中心客户帐户”页面已更新，如下所示：
+
+1. **组织 INN**（也称为合法标识符）。 现在，特定国家/地区的客户需要填写此字段。 
+
+   > [!NOTE]
+   > 只能使用字母数字字符输入数据，不能包含任何连字符、特殊字符或空格。 合作伙伴将需要与这些国家/地区的客户联系人协作，确认客户的合法标识符状态，例如纳税人标识号或 INN 号码。 有关特定国家/地区的详细信息，请参阅下表。  
+
+2. **中间名。** 此字段对于所有客户都是可选字段。 如果知道客户的中间名或名字的缩写，那么合作伙伴可以在此处输入。
+
+3. **电话号码。** 此字段以前是可选字段，但现在对于特定国家/地区的客户是必填字段。  
+
+特定于国家/地区的组织 INN（合法标识符）字段要求如下所示。
+
+| 国家/地区 | A14 区域 | ISO 国家/地区代码 | 字段字符要求 | 特定国家/地区的母语字段名 | 英语翻译或注释 |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| 亚美尼亚 | CEE      | AM               | 8 或 10 位数         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/公共服务编号                     |
+| 阿塞拜疆| CEE      | AZ               | 7 或 10 位数         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| 白俄罗斯 | CEE      | BY               | 9 位数         | :::no-loc text="УНП"::: | UNP（表示纳税人标识号）                    |
+| 匈牙利 | CEE      | HU               | 10 或 11 位数         | :::no-loc text="TIN"::: | TIN（纳税人标识号）                     |
+| 哈萨克斯坦 | CEE      | KZ              | 12 位数         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| 吉尔吉斯斯坦 | CEE      | KG               | 14 位数         | :::no-loc text="ИНН"::: | UNN/公共服务编号                     |
+| 摩尔多瓦  | CEE        | MD               | 6、7、8 或 13 位数         | :::no-loc text="IDNO/IDNP"::: | 分配给法人的唯一状态标识号 (IDNO) 也会作为财务代码构成。 \"信息和通信技术部在政府开放数据门户 (data.gov.md) 上发布的关于在摩尔多瓦共和国注册的公司的国家法务部登记表。\"                    |
+| 俄罗斯 | CEE      | RU               | 9、10 或 12 位数         | :::no-loc text="ИНН"::: | INN                     |
+| 塔吉克斯坦 | CEE      | TJ               | 9、10 或 12 位数     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| 乌兹别克斯坦 | CEE     | UZ               | 9 位数                 | :::no-loc text="INN":::         | INN                               |
+| 乌克兰   | CEE      | UA               | 8、10 或 12 位数      | :::no-loc text="EGRPOU/EDRPOU":::        | 法人识别码                             | 
+
+**对合作伙伴中心 API 的更改**
+
+将对合作伙伴中心 API 进行以下协定更改。 这些更改仅限于前面提到的在上述国家/地区管理客户帐户的合作伙伴。
+
+> [!NOTE]
+> 如果你是使用来自合作伙伴中心的 JSON 响应的严格解释的合作伙伴且最终未完成更新，则可能会受到这些更改的影响。 不建议将 JSON 与合作伙伴中心 API 集成。
+
+| 对 REST 资源的更新 | 相关合作伙伴中心文档 |
+|---------------------------|-----------------------|
+| 新的必填字段：organizationRegistrationNumber | - [创建客户](/partner-center/develop/create-a-customer#company-profile)<br/>- [为间接经销商创建客户](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [客户资源](/partner-center/develop/customer-resources#customercompanyprofile) |
+| 更新后的字段现在为必填项：PhoneNumber<br/>可选字段：middleName | - [实用工具资源](/partner-center/develop/utility-resources#address) |
+| 新 BadRequest REST 错误代码：600002、600049、600050、600051 | - [合作伙伴中心 REST 错误代码](/partner-center/develop/error-codes#error-codes) |
+
+建议的客户外部合同：
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>EU/EFTA 针对新商务产品/服务的合作伙伴计费货币更改。  
 
 ### <a name="categories"></a>类别
@@ -146,8 +359,16 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 - 我们要求合作伙伴与我们联系，以便我们可将其租户添加到有更改的流程上来帮助他们进行测试，让他们能够确保自己的解决方案按预期工作。
 
 
+### <a name="next-steps-for-partners"></a>合作伙伴的后续步骤
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>现提供测试：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面 (UI) 改进功能
+- 查看这些新的合作伙伴中心 UI 和 API 更改。 下次尝试在这些国家/地区之一创建客户订阅或更新相应客户的现有订阅时，请检查客户的帐户信息，确保已将数据添加到相应客户的两个新的必填字段中：组织 INN（合法标识符）和电话号码。 可以通过合作伙伴中心[面板](https://partner.microsoft.com/dashboard)或通过合作伙伴中心 [API](/partner-center/develop/create-a-customer#company-profile) 来更新此信息。
+
+- 请与组织内的相应团队共享此信息，帮助他们为这些更改做好准备。
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>现提供测试：面向教育客户验证流程的合作伙伴中心 API 和用户界面 (UI) 改进功能
 
 ### <a name="categories"></a>类别
 
