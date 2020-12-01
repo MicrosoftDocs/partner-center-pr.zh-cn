@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031880"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354218"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>获取有关客户和 Azure 订阅的工作方式的数据
 
@@ -30,16 +30,16 @@ ms.locfileid: "92031880"
 - 管理员代理
 - 销售代理
 
-数据推动业务决策。 使用 **Azure 使用情况**页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
+数据推动业务决策。 使用 **Azure 使用情况** 页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
-若要获取 **Azure 使用情况**，请登录到合作伙伴中心 [仪表板](https:/partner.microsoft.com/dashboard)。 从 "合作伙伴中心" 菜单中选择 " **分析** "，然后选择 " **Azure 使用情况**"。
+若要获取 **Azure 使用情况**，请登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。 从 "合作伙伴中心" 菜单中选择 " **分析** "，然后选择 " **Azure 使用情况**"。
 
 > [!NOTE]
 > Azure 使用情况分析仅适用于云解决方案提供商计划中的合作伙伴。
 
 我们跟踪下列指标：
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>总结
 
 - **Azure 订阅总销量**：指定时间段内销售的订阅数量  
 - **使用过的客户数**：指定时间段内使用过 Azure 的客户数量  
