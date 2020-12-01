@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360065"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439240"
 ---
 # <a name="locate-important-ids-for-a-user"></a>为用户找到重要 Id
 
@@ -31,7 +31,7 @@ ms.locfileid: "94360065"
 按照以下步骤在 Azure 门户中查找 Azure AD 租户 ID 或主域名。  (如果要以编程方式查找租户 ID，请参阅 [使用 PowerShell 或 CLI 查找租户 id](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)。 ) 
 
 > [!NOTE]
-> 租户 ID 在不同的应用程序或资源中可以被称为不同的名称。 例如，租户 ID 可能称为目录 ID，Azure Active Directory (Azure AD) 租户、Microsoft ID 或某些报表，甚至是 *tenantguid* 。
+> 租户 ID 在不同的应用程序或资源中可以被称为不同的名称。 例如，租户 ID 可能称为目录 ID，Azure Active Directory (Azure AD) 租户、Microsoft ID 或某些报表，甚至是 *tenantguid*。
 
 1. 登录 [Azure 门户](https://portal.azure.com/)。
 
@@ -43,7 +43,7 @@ ms.locfileid: "94360065"
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="显示具有两个突出显示的字段、租户 ID 和主域名的 &quot;概述&quot; 页。":::
 
-4. 您可以通过其他一些方式在 Azure 门户中找到租户 ID。 从菜单中选择“Azure Active Directory”。 然后，找到菜单上的 " **管理** " 部分，然后选择 " **属性** "。
+4. 您可以通过其他一些方式在 Azure 门户中找到租户 ID。 从菜单中选择“Azure Active Directory”。 然后，找到菜单上的 " **管理** " 部分，然后选择 " **属性**"。
 
    "属性" 页还显示用户的关联租户 ID。
 
@@ -57,7 +57,7 @@ ms.locfileid: "94360065"
 
 2. 从菜单中选择“Azure Active Directory”。
 
-3. 找到菜单上的 " **管理** " 部分，然后选择 " **用户** "。
+3. 找到菜单上的 " **管理** " 部分，然后选择 " **用户**"。
 
       :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="显示 Azure Active Directory 菜单，其中突出显示了 &quot;用户&quot; 选项。":::
 
@@ -78,3 +78,4 @@ ms.locfileid: "94360065"
 - [通过 PowerShell 或 CLI 以编程方式查找租户 ID](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [详细了解 Azure Active Directory 中的用户配置文件](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [了解合作伙伴可以如何查看或导出合作伙伴中心的客户详细信息](see-your-customer-list.md)
+

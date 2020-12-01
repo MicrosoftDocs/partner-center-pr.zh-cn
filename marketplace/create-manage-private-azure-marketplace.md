@@ -1,17 +1,17 @@
 ---
 title: 在 Azure 门户中创建和管理专用 Azure Marketplace
-description: 了解如何创建和管理专用 Azure Marketplace (预览) 在 Azure 门户中。
+description: 了解如何创建和管理专用 Azure Marketplace (预览) 在 Azure 门户中。 专用 Azure Marketplace (预览版) 使管理员可以控制其用户可以使用的第三方解决方案。
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006933"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439258"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 门户中创建和管理私有 Azure Marketplace (预览) 
 
@@ -19,7 +19,7 @@ ms.locfileid: "95006933"
 
 作为 Marketplace 管理员 (分配的角色) ，你将从一个禁用且空的私有存储开始，你可以在其中添加已批准的产品/服务和计划。 本文介绍如何为用户创建、管理和启用专用 Azure Marketplace。
 
-说明：
+注意：
 
 - Azure Marketplace 专用于租户级别，因此租户下的所有用户都将看到相同的特选列表。
 - 所有 Microsoft 解决方案都将自动添加到专用 Azure Marketplace。
@@ -221,6 +221,6 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="提供横幅指出，可以创建计划并显示可用计划。":::
 
-## <a name="contact-support"></a>联系支持人员
+## <a name="contact-support"></a>联系支持
 
 有关 Azure Marketplace 支持，请访问 [Microsoft 问答&](/answers/products/)。 

@@ -1,22 +1,22 @@
 ---
-title: 获取高级专用化认证
+title: 了解高级专用化
 ms.topic: article
-ms.date: 11/16/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解如何将高级专用化与金牌和银能力结合在一起。
+description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解可与现有金牌和银牌能力一起获得的高级专用化。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 385071811241009aa2eba26378e4f6aca5a28b99
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691378"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439144"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>获得先进的专用化来展示专长
+# <a name="earn-an-advanced-specialization-to-showcase-your-expertise"></a>获得一种高级特殊化来展示您的专业技能
 
 许多合作伙伴在关键领域获得 [黄金能力](learn-about-competencies.md) ，接下来，来赢得一项高级专业。
 
@@ -25,14 +25,15 @@ ms.locfileid: "94691378"
 高级专用化还能让你向客户区分。 一旦您获得了一项高级特殊化，客户就可以在您的业务配置文件的合作伙伴目录中看到您的金牌能力和高级专用化。
 
 > [!NOTE]
-> 若要详细了解高级专用化和特定要求的优点，请参阅 [Microsoft 合作伙伴网络高级专用](https://partner.microsoft.com/membership/advanced-specialization)化。
+> 若要详细了解高级专用化的优势及其特定要求，请参阅 [Microsoft 合作伙伴网络高级专用](https://partner.microsoft.com/membership/advanced-specialization)化。
 
 ## <a name="advanced-specialization-areas"></a>高级专用化区域
 
-您可以通过两个主要的专业领域获得高级专用化：
+你可以在多个主要的专业领域获得高级专用化：
 
 - Azure
-- 新式工作和安全性
+- 新式工作
+- 安全性
 
 **Azure** 高级专用化包括：
 
@@ -43,88 +44,28 @@ ms.locfileid: "94691378"
 - 要 Microsoft Azure 的 Web 应用程序的现代化
 - Microsoft Azure 上的 SAP
 - Windows Server 和 SQL Server 迁移到 Microsoft Azure
- 
-**新式工作和安全** 高级专用化包括：
+
+**新式工作** 高级专用化包括：
 
 - 采用和更改管理
 - 为 Microsoft 团队打电话
 - Microsoft 团队的会议和会议室
 - 团队部署
+
+**安全** 高级专用化包括：
+
 - 标识和访问管理
 - 威胁防护
- 
+
 > [!NOTE]
-> 若要了解有关任何专用化的详细信息，请参阅 [Microsoft 合作伙伴网络高级专用](https://partner.microsoft.com/membership/advanced-specialization)化。
-
-## <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-current-status"></a>使用合作伙伴中心应用于高级专用化并检查其当前状态
-
-若要为高级特殊化提供资格，需要完成重要步骤、要求和 Microsoft 验证。 在合作伙伴中心仪表板内提供了很多该过程。
-
-若要从合作伙伴中心访问此区域，请执行以下操作：
-
-1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
-
-2. 在 "合作伙伴中心" 菜单的 "MPN" 部分下，选择 " **高级**"。 菜单将展开以显示可供你使用的所有高级专用化。
-
-3. 若要查看详细信息，请选择高级专用化的名称。 你将看到具体的要求和步骤、当前状态以及指向更多步骤或资源的链接。
-
-所有高级专用化都要求您获得一个调整后的金牌资格以及其他先决条件：
-
-- 除了自己的先决条件外，某些高级专用化还需要你传递 *计划的审核*。
-
-  如果需要计划审核，请参阅特定合作伙伴中心高级特殊化详细信息页。 满足其他先决条件后，你将能够在此页上选择 " **计划审核** " 按钮。  (查看需要审核的高级专用化的 [列表和示例](advanced-specializations.md#advanced-specialization-requirements-that-include-an-audit---an-example) ) 
-
-- 除了自己的先决条件外，某些高级专用化还需要你提供 *客户参考*。  (查看需要客户参考的高级专用化的 [列表和示例](advanced-specializations.md#prerequisites-that-include-customer-references---an-example) ) 
-
-## <a name="advanced-specialization-requirements-that-include-an-audit---an-example"></a>包含审核的高级特殊化要求-一个示例
-
-需要使用以下 Azure 高级专用化的第三方审核员完成审核：
-
-- 数据仓库迁移到 Microsoft Azure
-- Microsoft Azure 上的 Kubernetes
-- Linux 和开源数据库迁移到 Microsoft Azure
-- Microsoft Windows 虚拟桌面
-- 要 Microsoft Azure 的 Web 应用程序的现代化
-- Windows Server 和 SQL Server 迁移到 Microsoft Azure
-
-### <a name="audit-example-in-partner-center"></a>合作伙伴中心的审核示例
-
-如果你对称为 " **Web 应用程序 Microsoft Azure 的现代化**" 的高级特殊化感兴趣，请从 "合作伙伴中心" 菜单中选择它。 你将转到 "先决条件" 页。
-
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="示例必备页面显示了获得活动金牌云平台资格认证的要求。":::
-
-在满足所有先决条件之前，状态将保持 **不变。**
-满足先决条件后，" **计划审核** " 按钮将启用。
-
-完成所有要求后，状态将更改为 " **活动**"。 "活动状态" 会自动在你的 **业务配置文件** 上启用高级专用化标记。 此配置文件对所有尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)客户可见。
-
-## <a name="prerequisites-that-include-customer-references---an-example"></a>包括客户引用的先决条件-一个示例
-
-你需要以下高级专用化的客户参考：
-
-
-- 采用和更改管理
-- 为 Microsoft 团队打电话
-- 会议和会议室
-- Azure 上的 SAP
-- 团队部署
-- 标识和访问管理
-- 威胁防护
-
-### <a name="customer-reference-example-in-partner-center"></a>合作伙伴中心的客户参考示例
-
-需要客户参考的高级特殊化的示例是 **Microsoft 团队的会议和会议室**。
-
-除了金牌资格、认证和性能要求之外，您还必须提供三个客户参考，以演示您的部署和管理能力。
-
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="需要客户参考的高级专用专用必备页面示例。":::
-
-在满足所有先决条件之前，状态将保持 **不变。** 完成所有要求后，状态将更改为 " **活动**"。 "活动状态" 会自动在你的 **业务配置文件** 上启用高级专用化标记。 此配置文件对所有尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)客户可见。
+> 若要了解每个高级专用化及其先决条件和要求，请参阅 [Microsoft 合作伙伴网络高级专用](https://partner.microsoft.com/membership/advanced-specialization)化。 然后，当你准备好申请高级专用化并检查进度时，请进入合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。 若要详细了解如何访问合作伙伴中心的此区域，请参阅 [适用于高级专用化](advanced-specializations-apply.md)。
 
 ## <a name="next-steps"></a>后续步骤
 
-- 详细了解 [高级专用](https://partner.microsoft.com/membership/advanced-specialization)化。
+- 使用合作伙伴中心[申请并检查高级专用](advanced-specializations-apply.md)化的状态
 
-- 了解如何获取 [Microsoft 银色或金牌成员资格能力](learn-about-competencies.md)。
+- 详细了解 [高级专用化、其优点和独特要求](https://partner.microsoft.com/membership/advanced-specialization)
 
-- 了解 [Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)。
+- 了解如何获取 [Microsoft 银色或金牌成员资格能力](learn-about-competencies.md)
+
+- 了解[Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)的详细信息
