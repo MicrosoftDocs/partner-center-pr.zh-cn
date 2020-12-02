@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947658"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513275"
 ---
 # <a name="payout-schedules-and-policy-details"></a>付出计划和策略详细信息
 
@@ -31,16 +31,18 @@ ms.locfileid: "94947658"
 | 事件 | 说明 | 报告可见性 | 时机 |
 | --- | --- | --- | --- |
 | 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
-| 已创建采购订单 | 确定总用量、总事务数 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
-| 创建 ISV 支出收益 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
+| Microsoft 计算计费金额 | 确定总用量、总事务数 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
+| 已发布比率 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
 | 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第3个月 (第一周)** |
-| **付款日期** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第3个月 (不晚于 15)** |
+| **已发送支出** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第3个月 (不晚于 15)** |
 | 按客户付款的发票 | Microsoft 收集客户的付款 | 没有变化 | **第4个月到第12个月** |
 |
 
 \* 付出日期为太平洋标准时间 (PST) 。
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>使用信用卡或发票付费的客户
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="企业协议客户的付款时间线。":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>具有信用卡或发票的交易 (选中/线路) 
 
 使用信用卡或月度发票的所有购买都有30天的保留期，以确保从客户那里收集资金。
 
@@ -48,13 +50,15 @@ ms.locfileid: "94947658"
 | --- | --- | --- | --- |
 | 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
 | 按客户付款的发票 | 确定总用量、总事务值和客户支付开票 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
-| 创建 ISV 支出收益 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第2个月** |
-| 30天的保留期 | 确保资金收集、可能的收费和退款请求 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月** |
+| 已发布比率 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第2个月** |
+| 30天的保留期 | 确保资金收集、可能的退款和退款请求 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月** |
 | 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第4个月 (第一周)** |
-| **付款日期** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第4个月 (不晚于 15)** |
+| **已发送支出** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第4个月 (不晚于 15)** |
 |
 
 \* 付出日期为太平洋标准时间 (PST) 。
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="信用卡和发票客户的付款时间线。":::
 
 ## <a name="process-for-customer-non-payment"></a>客户非付款过程
 
