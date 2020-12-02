@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527413"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474234"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或导出客户活动日志以更深入了解客户交易
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
-- 云解决方案提供商计划合作伙伴
 
 **相应的角色**
 
@@ -41,11 +35,11 @@ ms.locfileid: "87527413"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从“帐户设置”菜单中，选择“活动日志”。********
+2. 从“帐户设置”菜单中，选择“活动日志”。
 
-3. 在“从”**** 和“至”**** 字段中选择活动日志时段。 活动日志导出默认定向最近月份。
+3. 在“从”和“至”字段中选择活动日志时段。 活动日志导出默认定向最近月份。
 
-   每个活动日志均提供指向列出客户“订阅”**** 页的链接。
+   每个活动日志均提供指向列出客户“订阅”页的链接。
 
    选择任意活动日志的向下箭头，查看关于所记录操作的详细信息。 单个活动日志可显示大量数据，例如多个产品订购。
 
@@ -55,7 +49,7 @@ ms.locfileid: "87527413"
    - **操作** - 客户执行的操作，例如“创建了一个引荐”；
    - **合作伙伴用户** - 与活动关联的合作伙伴。
 
-5. 选择“导出日志”****，将客户订阅数据转换为 .csv 文件，并将其下载到计算机上的默认下载文件夹。
+5. 选择“导出日志”，将客户订阅数据转换为 .csv 文件，并将其下载到计算机上的默认下载文件夹。
 
 ## <a name="next-steps"></a>后续步骤
 

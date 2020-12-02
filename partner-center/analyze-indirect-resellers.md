@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367351"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474047"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>使用分析来分析间接经销商的性能
-
-**适用于**
-
-- 合作伙伴中心
-- 云解决方案提供商计划合作伙伴
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>使用分析来分析间接经销商的性能
 
 **相应的角色**
 
 - 全局管理员
 - “用户管理”管理员
-- 管理员代理
-- 销售代理
 
-数据推动业务决策。 使用**经销商分析**页面的指标来确定你的成功、你的间接经销商的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
+
+数据推动业务决策。 使用 **经销商分析** 页面的指标来确定你的成功、你的间接经销商的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
 > [!NOTE]
-> 间接经销商分析仅适用于云解决方案提供商计划中的合作伙伴。
+> 间接经销商分析仅适用于云解决方案提供商计划中的间接提供商。
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>可以查看的经销商分析指标类型
 

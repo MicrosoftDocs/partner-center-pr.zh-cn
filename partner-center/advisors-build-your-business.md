@@ -9,27 +9,24 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527003"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474166"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>顾问：通过 Office 365 试用邀请和购买优惠构建客户群
 
-**适用于**
 
-- 合作伙伴中心
- 
 **相应的角色**
 
 - 顾问
 
 
-作为授权的 Microsoft 顾问，**合作伙伴中心**为你提供了一个机会，使你能够发展客户群，并与客户端建立持久的关系。 通过合作伙伴中心，你可以发送客户端试用邀请和购买优惠，并向他们提供委派的管理服务，具体取决于你有权提供的服务。
+作为授权的 Microsoft 顾问， **合作伙伴中心** 为你提供了一个机会，使你能够发展客户群，并与客户端建立持久的关系。 通过合作伙伴中心，你可以发送客户端试用邀请和购买优惠，并向他们提供委派的管理服务，具体取决于你有权提供的服务。
 
-当你登录到合作伙伴中心时，请访问**试用和购买优惠**，你将看到一些可帮助你拓展业务的工具和任务。
+当你登录到合作伙伴中心时，请访问 **试用和购买优惠**，你将看到一些可帮助你拓展业务的工具和任务。
 
 ## <a name="create-and-send-trial-invitations"></a>创建和发送试用邀请
 
@@ -41,7 +38,7 @@ ms.locfileid: "87527003"
 如果已通过认证来提供委派管理，则可以向试用邀请添加一个选项，以允许你代表客户管理订阅。 这使客户可以更轻松地试用 Office 365。
 
 创建试用邀请时，将为你创建一个自定义 URL。 该 URL 具有一个嵌入的代码，用于将您标识为订阅顾问。 可以将此 URL 用于一个客户或多个客户。 你可以通过电子邮件将该 URL 发送给客户，或将其发布到你的网站上。
-有关试用邀请的详细信息，请参阅[创建试用邀请](advisors-create-a-trial-invitation.md)。
+有关试用邀请的详细信息，请参阅 [创建试用邀请](advisors-create-a-trial-invitation.md)。
 
 ## <a name="create-and-send-purchase-offers"></a>创建和发送购买优惠
 
@@ -54,4 +51,6 @@ ms.locfileid: "87527003"
 
 如果客户需要不同数量的许可证，请向其发送新的产品/服务，也可以在购买订阅时更改许可证数量。
 
-有关购买产品/服务的详细信息，请参阅[创建购买优惠](advisor-create-a-purchase-offer.md)。
+## <a name="next-steps"></a>后续步骤
+
+有关购买产品/服务的详细信息，请参阅 [创建购买优惠](advisor-create-a-purchase-offer.md)。

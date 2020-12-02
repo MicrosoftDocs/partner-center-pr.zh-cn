@@ -9,30 +9,31 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02bd7ca573be4b0b61da546f66c6102fbc752c2d
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 8cac2a6edc9199befeae940ed271c3236440c260
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527683"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96473945"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>将 Azure 订阅分配给合作伙伴中心的客户
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
+- 全局管理员
+- 销售代理
 
 ## <a name="assign-azure-subscriptions-to-your-customers"></a>向客户分配 Azure 订阅
 
 1. 从 "**合作伙伴中心**" 菜单中选择 "**客户**"，并找到要管理的客户。
 
-2. 选择行末尾的向下键以展开客户记录，然后选择 **Microsoft Azure 管理门户**。 你将被定向到[Azure 门户](https://portal.azure.com/)，你可以在其中管理客户的订阅。
+2. 选择行末尾的向下键以展开客户记录，然后选择 **Microsoft Azure 管理门户**。 你将被定向到 [Azure 门户](https://portal.azure.com/) ，你可以在其中管理客户的订阅。
 
-3. 在 Azure 门户中，选择 "**订阅**"。
+3. 在 Azure 门户中，选择 " **订阅**"。
 
-4. 选择你想要分配的订阅，然后选择**访问控制**。
+4. 选择你想要分配的订阅，然后选择 **访问控制**。
 
-5. 选择**添加**以将用户添加至订阅。 
+5. 选择 **添加** 以将用户添加至订阅。 
 
 6. 将用户添加到订阅之后，你可以为用户分配角色以及用户可以访问的特定帐户。
 
@@ -43,7 +44,7 @@ ms.locfileid: "87527683"
 1. 若要打开客户的 Azure 门户，请在客户列表中展开客户的列表或选择客户名称，然后选择 " **Microsoft Azure 管理门户**"。
 
    > [!NOTE]  
-   > 如果系统提示你登录到 Azure 门户，则可能没有委派管理权限。 选择 "**请求关系**"，邀请客户将你标识为其记录的合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。
+   > 如果系统提示你登录到 Azure 门户，则可能没有委派管理权限。 选择 " **请求关系** "，邀请客户将你标识为其记录的合作伙伴。 在客户接受你的邀请后，会自动向你授予委托管理权限。
 
 2. 在 Azure 门户中，打开客户的 "订阅" 列表并选择客户的 Azure 订阅。
 

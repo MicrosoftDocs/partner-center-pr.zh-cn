@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006721"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474251"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作伙伴中心添加新客户记录
 
-**适用于**
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
-- 云解决方案提供商计划合作伙伴
 
 **相应的角色**
 
@@ -31,10 +26,10 @@ ms.locfileid: "92006721"
 - 管理员代理
 - 销售代理
 
-本文介绍如何将新客户添加到合作伙伴中心的客户列表。 在销售订阅、管理计费或向客户提供支持之前，请执行以下步骤。
+本文介绍如何将新客户添加到合作伙伴中心的客户列表。 在销售订阅、管理计费或向客户提供支持之前，需要执行这些步骤。
 
 >[!NOTE]
->对于现有客户（包括那些已在合作伙伴中心通过 [多通道](multichannel.md) 或 [Multipartner](multipartner.md) 应用记录的客户），您可以 [请求与他们建立关系](request-a-relationship-with-a-customer.md)，而不是按照此处的步骤进行操作。
+>对于现有客户（包括那些已在合作伙伴中心通过 [多通道](multichannel.md) 或 [Multipartner](multipartner.md) 方案进行了客户记录的客户），需要 [与他们建立关系](request-a-relationship-with-a-customer.md)，而不是按照此处的步骤进行操作。
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>在合作伙伴中心添加新客户
 
