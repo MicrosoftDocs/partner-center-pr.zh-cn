@@ -2,6 +2,8 @@
   href: index.yml
 - name: 公告
   href: announcements/TOC.md
+- name: 关于合作伙伴中心
+  href: overview.md
 - name: 合作伙伴网络成员身份
   items:
     - name: 与 Microsoft 合作
@@ -60,8 +62,13 @@
         - name: 应用开发资格豁免
           href: app-dev-isv.md
     - name: 高级专业
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: 展示你的专业知识
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: 应用或检查状态
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: 成为 Azure 专家 MSP
       href: azure-expert-msp.md
     - name: 优点
