@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999431"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534977"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>使用新设备上的 Windows Autopilot 配置文件自定义客户全新体验
-
-**适用于**
-
-- CSP 直接帐单合作伙伴、间接提供商和间接经销商
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>在新设备上使用 Windows Autopilot 配置文件自定义客户的全新安装体验
 
 **相应的角色**
 
@@ -31,7 +27,7 @@ ms.locfileid: "90999431"
 
 如果你管理客户设备，你可能需要为客户的用户自定义 (OOBE) 的全新体验。 在将设备交付给客户并将新的配置文件应用于客户已购买的设备之前，可以使用 Windows Autopilot 配置文件预先配置新设备。 
 
-请注意，Oem 已经开始在 Autopilot 设备框之外添加发货标签，该标签显示设备的 **产品密钥 ID (PKID) **。  这一维的可读条形码为下游合作伙伴提供了一种方法，用于注册 Autopilot 的设备，而无需取消) 设备的 (，并通过替代方法获取设备 ID。
+请注意，Oem 已经开始在 Autopilot 设备框之外添加发货标签，该标签显示设备的 **产品密钥 ID (PKID)**。  这一维的可读条形码为下游合作伙伴提供了一种方法，用于注册 Autopilot 的设备，而无需取消) 设备的 (，并通过替代方法获取设备 ID。
 
 本文介绍如何创建 Autopilot 配置文件并将其应用于合作伙伴中心的设备。
 
@@ -56,11 +52,11 @@ ms.locfileid: "90999431"
 
 以下配置文件和设备管理权限和限制适用：
 
-- 即使客户已删除合作伙伴的委派管理权限，CSP 合作伙伴也可以继续管理与其拥有分销商关系的现有客户的 Autopilot 配置文件。
+- 即使客户已删除合作伙伴的委派管理权限，CSP 合作伙伴也可以继续管理与其有经销商关系的现有客户的 Autopilot 配置文件。
 
-- 你可以管理已添加的客户的现有设备。
+- 你可以管理已添加的客户的现有设备，
 
-- 你无法管理客户已上传到 Microsoft Store for Business 或 Microsoft Intune 门户的设备。
+- 但无法管理客户已上传到适用于企业的 Microsoft Store 或 Microsoft Intune 门户的设备。
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>在合作伙伴中心创建和管理 Autopilot 配置文件
 
@@ -90,7 +86,7 @@ ms.locfileid: "90999431"
        >[!IMPORTANT] 
        >请参阅下面的 [Windows AUTOPILOT EULA 消除](#windows-autopilot-eula-dismissal) ，以了解有关在 Windows 安装过程中跳过 EULA 页面的重要信息。
 
-5. 完成后选择**提交**。
+5. 完成后选择 **提交**。
 
 ### <a name="apply-an-autopilot-profile-to-customer-devices"></a>将 Autopilot 配置文件应用到客户设备
 
@@ -149,11 +145,11 @@ ms.locfileid: "90999431"
 
 - 此元组仅适用于 (4k 哈希的较新设备，例如) ，不支持 (RS2 和之前的设备) 的128b 哈希。
 
-- 元组注册区分大小写，因此文件中的数据必须与 OEM 提供商)  (硬件提供程序提供的名称 ***完全*** 匹配。
+- 元组注册区分大小写，因此文件中的数据必须与 OEM 提供商提供的型号和制造商名称 **_完全_* 相同 * (硬件提供程序) 。
 
 按照以下说明将设备添加到合作伙伴中心的客户帐户。
 
-1. 从 "合作伙伴中心" 菜单中选择 " **客户** "，然后选择要管理其设备的客户。
+1. 从 "合作伙伴中心" 菜单中选择 ""，然后选择要管理其设备 *的客户。*
 
 2. 在客户的详细信息页上，选择 " **设备**"。
 
@@ -166,7 +162,7 @@ ms.locfileid: "90999431"
 
 5. 上传 .csv 文件，然后选择 " **保存**"。
 
-如果在尝试上传 .csv 文件时收到错误消息，请检查该文件的格式。 您只能使用此列顺序) 或 Windows 产品 ID 中的硬件哈希、OEM 名称、序列号和型号 (。 你还可以使用 " **添加设备** " 下的链接中提供的示例 .csv 文件来创建设备列表。
+如果在尝试上传 .csv 文件时收到错误消息，请检查该文件的格式。 可以仅使用硬件哈希，也可使用 OEM 名称、序列号和型号（按列顺序），还可使用 Windows 产品 ID。 你还可以使用 " **添加设备** " 下的链接中提供的示例 .csv 文件来创建设备列表。
 
 .Csv 文件应如下所示：
 

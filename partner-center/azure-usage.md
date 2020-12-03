@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000181"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534941"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
-- Azure 门户
-- 云解决方案提供商计划中的合作伙伴
+- 管理员代理
+- 销售代理
+
+本文介绍如何在购买 Microsoft Azure 预订时，将虚拟机 (VM) 规模调整为客户的计算需求。
  
 > [!NOTE]
 > 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
@@ -56,7 +57,7 @@ ms.locfileid: "91000181"
 
 2. 找到想要购买 Azure VM 预留的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
 
-3. 从门户菜单中选择**虚拟机**，然后选择你想要为其购买预订的虚拟机。
+3. 从门户菜单中选择 **虚拟机**，然后选择你想要为其购买预订的虚拟机。
 
 4. 在 VM 的详细信息页上，查找大小和区域信息（如下所示），并使用此信息在合作伙伴中心购买预订。  
 
@@ -98,7 +99,7 @@ ms.locfileid: "91000181"
 1. 在合作伙伴中心，请参阅 " **客户** " 页。
 
 2. 查找其预订折扣和使用情况要验证的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
-3. 从门户菜单中选择**预订**，然后选择想要检查其使用情况的预订。
+3. 从门户菜单中选择 **预订**，然后选择想要检查其使用情况的预订。
 4. 在 " **概述** " 页上，检查预订的 "使用率" 图，其中显示了已将预订应用到虚拟机的数量。
 
     >[!NOTE]
@@ -128,7 +129,7 @@ ms.locfileid: "91000181"
 >[!IMPORTANT]
 >软件（如 Microsoft Windows Server）成本目前未包含在虚拟机预定的价格中，并且在订单记录和发票上显示为单独的行项目。 但是，如果客户拥有 Azure 混合使用权益，则不会应用软件成本。 有关详细信息，请参阅[预留实例中不包含 Windows 软件成本](/azure/billing/billing-reserved-instance-windows-software-costs)。  
 
-## <a name="azure-reservations-resources"></a>Azure 预订资源
+## <a name="next-steps"></a>后续步骤
 
 |**有关以下方面的信息**   |**阅读此文**    |
 |:-----------------------------|:-----------------|

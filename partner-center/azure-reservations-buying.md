@@ -1,7 +1,7 @@
 ---
 title: 为客户购买 Microsoft Azure 预订
 description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。 还列出了 Azure 保留不可用的市场。
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031250"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534601"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft Azure 门户
-- 云解决方案提供商计划中的合作伙伴
 
 **相应的角色**
 
@@ -31,11 +25,13 @@ ms.locfileid: "92031250"
 - 支持人员代理
 - 销售代理
 - “用户管理”管理员
+
+本文介绍如何在合作伙伴中心代表客户购买或购买 Azure 预订。 它还标识了 Azure 保留不可用的市场。
  
 > [!NOTE]
 > 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
 
-## <a name="before-you-begin"></a>开始之前
+## <a name="before-you-begin"></a>在开始之前
 
 请先查看下面的重要信息，再代表客户购买 Azure 预订。  (你希望客户能够从为他们购买的以前的 Azure 订阅购买自己的 Azure 预订吗？ 请参阅 [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。 ) 
 
@@ -114,7 +110,7 @@ ms.locfileid: "92031250"
 
     a. 从“细分市场”列表中选择该客户的细分市场。
 
-    b. 从 "产品**类型**" 列表中选择 "**保留**"。
+    b. 从 "产品 **类型**" 列表中选择 "**保留**"。
 
     c. 从“预留项类型”列表中选择客户所需的预留项类型。
 
@@ -129,7 +125,7 @@ ms.locfileid: "92031250"
 
 7. 重复步骤5和步骤6，直到将所有必需的项添加到订单中。 选择“查看”以确认订单是否正确无误。  
 
-8. 在**查看订单**页面上，可以： 
+8. 在 **查看订单** 页面上，可以： 
 
     - 验证或更改预留实例数量。
 
@@ -146,11 +142,12 @@ ms.locfileid: "92031250"
     - 如果 Azure 保留项支持计费计划选项，则可以从下拉菜单中选择 "按月计费频率"。 
     - 如果你的 Azure 保留不支持计费计划选项，则计费频率默认为一次性计费。 
 
-9. 选择**确认购买**以购买订购的商品。 订单的详细信息（包括订单号）将显示在 " **确认** " 页上。 选择“完成”转到“订单历史记录”页。  
+9. 选择 **确认购买** 以购买订购的商品。 订单的详细信息（包括订单号）将显示在 " **确认** " 页上。 选择“完成”转到“订单历史记录”页。  
 
 10. 若要在 Azure 门户中管理客户的预订，请在 " **客户** " 页上找到 "客户"，然后选择向下箭头以展开客户的行。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
 
-## <a name="azure-reservations-resources"></a>Azure 预订资源
+## <a name="next-steps"></a>后续步骤
+
 |**有关以下方面的信息**   |**阅读此文**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |

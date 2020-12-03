@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90011737"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534584"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>符合合作伙伴获得的信用额度的角色和权限
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>获得合作伙伴获得信用额度所需的角色和权限
 
 以下角色映射到用于确定合作伙伴是否有资格获得合作伙伴获得信用额度的权限级别。
 
@@ -25,7 +25,7 @@ ms.locfileid: "90011737"
 
 |**角色**   |**说明**   |**可用 PEC**   |
 |-----------------|:------------------|:--------------|
-|“所有者”  |您可以管理所有内容，包括对资源的访问权限。|是|
+|所有者  |您可以管理所有内容，包括对资源的访问权限。|是|
 |参与者 |除授予资源访问权限外，你还可以管理所有内容。|是|
 |读者|您可以查看所有内容，但不能进行任何更改|否|
 |ACRDelete|acr 删除|是|
@@ -133,7 +133,7 @@ SQL Server 参与者 | 允许管理 SQL 服务器和数据库，但不允许访�
 存储 Blob 数据读取者 | 读取和列出 Azure 存储容器和 Blob。 若要了解需要对给定的数据执行哪些操作，请参阅用于调用 Blob 和队列数据操作的权限。 | 否 | 
 存储 Blob 委托者 | 获取用户委托密钥，该密钥随后可用于为使用 Azure AD 凭据签名的容器或 Blob 创建共享访问签名。 有关详细信息，请参阅创建用户委托 SAS。 | 是 | 
 存储文件数据 SMB 共享参与者 | 允许通过 SMB 在 Azure 存储文件共享中进行读取、写入和删除访问 | 是 | 
-存储文件数据 SMB 共享提升参与者 | 允许通过 SMB 在 Azure 存储文件共享中进行读取、写入、删除和修改 NTFS 权限的访问 | 是 | 
+存储文件数据 SMB 共享特权参与者 | 允许通过 SMB 在 Azure 存储文件共享中进行读取、写入、删除和修改 NTFS 权限的访问 | 是 | 
 存储文件数据 SMB 共享读取者 | 允许通过 SMB 对 Azure 文件共享进行读取访问 | 否 | 
 存储队列数据参与者 | 读取、写入和删除 Azure 存储队列和队列消息。 若要了解需要对给定的数据执行哪些操作，请参阅用于调用 Blob 和队列数据操作的权限。 | 是 | 
 存储队列数据消息处理器 | 速览、检索和删除 Azure 存储队列中的消息。 若要了解需要对给定的数据执行哪些操作，请参阅用于调用 Blob 和队列数据操作的权限。 | 是 | 
@@ -147,3 +147,7 @@ SQL Server 参与者 | 允许管理 SQL 服务器和数据库，但不允许访�
 虚拟机用户登录 | 在门户中查看虚拟机并以普通用户身份登录。 | 是 | 
 Web 计划参与者 | 允许管理网站的 Web 计划，但不允许访问这些计划。 | 是 | 
 网站参与者 | 允许你管理不 (web 计划) 的网站，但不允许你访问这些网站 | 是 |
+
+## <a name="next-steps"></a>后续步骤
+
+- [合作伙伴赚取的返点 - 概要了解它如何在云解决方案提供商新的商务体验中发挥作用](partner-earned-credit.md)

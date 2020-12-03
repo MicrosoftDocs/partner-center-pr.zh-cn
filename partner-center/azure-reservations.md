@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000231"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534890"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作伙伴中心、Azure 门户或 Api 向客户销售 Microsoft Azure 预订
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft Azure 门户
-- 云解决方案提供商计划中的合作伙伴
 
 **相应的角色**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000231"
 - 销售代理
 - “用户管理”管理员
 
+作为云解决方案提供商计划中的合作伙伴 (CSP) ，你可以购买、销售或管理客户的 Azure 保留。 使用合作伙伴中心、Azure 门户或合作伙伴中心 API。
+
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
+> 本文仅适用于 CSP 中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
 
 CSP 计划中的合作伙伴可以为其客户提供 Microsoft Azure 预订。 如果客户预先预订空间，可以节省大量成本。 Azure 保留通过以下方式为客户提供简单和灵活性：
 
