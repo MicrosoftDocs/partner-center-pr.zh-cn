@@ -1,20 +1,20 @@
 ---
-title: 有效单位价格计算
+title: 有效单价计算
 ms.topic: how-to
 ms.date: 11/10/2020
-description: 了解有效价格单位及其计算方式。 包括一个示例计算。
+description: 了解有效单价及其计算方式。 本文还包括一个示例计算。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498556"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556321"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 计划消耗量的有效单位价格计算
 
@@ -35,7 +35,7 @@ ms.locfileid: "94498556"
 如果你不知道计量器是否使用分层定价，请使用以下过程来了解。 
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
-2. 选择 " **销售** "，选择 **定价和产品/服务** ，然后选择 " **Azure 计划定价** "。
+2. 选择 " **销售**"，选择 **定价和产品/服务**，然后选择 " **Azure 计划定价**"。
 3. 按 ID 查找计量器，然后下载定价数据。 
 
 ## <a name="sample-calculation"></a>示例计算

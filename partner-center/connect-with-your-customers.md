@@ -1,6 +1,6 @@
 ---
 title: 与客户联系
-description: 了解如何作为间接经销商与新客户和现有客户联系
+description: 如果你是 CSP 计划中的间接经销商，本文将帮助你与新客户和现有客户联系。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92010684"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556304"
 ---
 # <a name="connect-with-customers"></a>与客户联系
 
@@ -60,7 +60,7 @@ ms.locfileid: "92010684"
 
 若要代表客户管理客户的订阅和服务，你需要与他们建立经销商关系。 若要允许间接提供商代表你的客户提交订单，间接提供商还必须与他们建立经销商关系。
 
-要获取管理员权限来管理新客户的订阅和服务，**以及**允许你的间接提供商代表他们提交新订单，你可以邀请该客户与你和你的间接提供商同时建立经销商关系。
+要获取管理员权限来管理新客户的订阅和服务，**以及** 允许你的间接提供商代表他们提交新订单，你可以邀请该客户与你和你的间接提供商同时建立经销商关系。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>邀请客户与你和你的间接提供商同时建立分销商关系
 
