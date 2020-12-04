@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132986"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439138"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -30,8 +30,8 @@ _________________
 
 - 日期:2020-04-30
 - 键入：功能
-- 状态：即将推出
-- [了解详细信息](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>摘要
 
@@ -49,7 +49,7 @@ _________________
 这些促销将取代当前的 Office 365 E1 试用版产品/服务，并在以下方面有所不同：
 
 - 合作伙伴将利用 CSP 促销来对年度 Office 365 E1 或 Microsoft 365 商业基础版 SKU 进行交易，该促销在前 6 个月提供 100% 的折扣，而不是为期 6 个月的唯一的试用 SKU。 [了解有关 CSP 促销的详细信息](../promotions.md)。
-- 订购将严格限制为“仅限新客户”，而不是 Office 365 E1 试用版（仅通过书面策略来限制为新客户）。 查看 [Microsoft 合作伙伴常见问题解答](https://aka.ms/CSPCOVIDPromo)，了解详细信息。
+- 订购将严格限制为“仅限新客户”，而不是 Office 365 E1 试用版（仅通过书面策略来限制为新客户）。 
 - 对于 SMB 客户，本次促销中将包含 Microsoft 365 商业基础版。 这可确保合作伙伴能够使用 Microsoft 365 商业版帮助席位不到 300 的客户使用适当的产品系列。
 当前获得 Office 365 E1 试用版授权（2020 年 5 月 4 日前可用）的客户仍将处于其当前计划中；此更改仅会影响新客户。
 
@@ -58,12 +58,13 @@ _________________
 符合本次促销条件的新客户包括：
 
 1. 全新客户租户
-2. 符合以下条件的现有客户：对于 [Microsoft 合作伙伴常见问题解答 (FAQ) 指南](https://aka.ms/CSPCOVIDPromo)中定义的任何产品，其租户中没有当前已付费或最近取消（最近 30 天之内）的订阅。
+2. 符合以下条件的现有客户：对于 Microsoft 合作伙伴常见问题解答 (FAQ) 指南中定义的任何产品，其租户中没有当前已付费或最近取消（最近 30 天内）的订阅
 
+ 
 ### <a name="additional-resources"></a>其他资源
 
 - 访问[合作伙伴远程办公资源中心](https://www.microsoft.com/microsoft-365/partners/remotework)，了解有关安全远程办公的详细信息。
-- 有关这些更改的详细信息，请参阅[相关合作伙伴常见问题解答](https://aka.ms/CSPCOVIDPromo)。
+
 
 ### <a name="next-steps"></a>后续步骤
 

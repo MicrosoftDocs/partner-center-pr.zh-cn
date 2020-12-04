@@ -1,20 +1,20 @@
 ---
 title: 注册到云解决方案提供商计划
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型，例如，间接经销商或直接计费合作伙伴。
+description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型，例如间接经销商或直接计费合作伙伴。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045385"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322077"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
@@ -42,7 +42,7 @@ ms.locfileid: "93045385"
 3. 在我们验证你的信息后，请接受 Microsoft 间接经销商协议条款。
 
 > [!IMPORTANT]  
-> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。
+> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 此限制仅适用于用于执行云解决方案提供商交易的租户。 将非云解决方案提供商租户用于其公司用途的云解决方案提供商合作伙伴可从另一个云解决方案提供商合作伙伴那里购买联机服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>注册为间接经销商
 
@@ -60,7 +60,7 @@ ms.locfileid: "93045385"
 
 如果你尚未与提供商（也称为分销商）合作，则可以[搜索官方 Microsoft 提供商的列表](https://partnercenter.microsoft.com/partner/find-a-provider)以查找一个提供商。
 
-若要详细了解作为间接经销商参与 CSP 计划需要些什么，请参阅 [Microsoft 合作伙伴网络网站](https://partner.microsoft.com/)上的[以间接经销商的身份开始](https://partner.microsoft.com/cloud-solution-provider/whats-required)。 
+若要详细了解作为间接经销商参与 CSP 计划需要些什么，请参阅 [Microsoft 合作伙伴网络网站](https://partner.microsoft.com/)上的[以间接经销商的身份开始](https://partner.microsoft.com/cloud-solution-provider/whats-required)。
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>注册为直接计费合作伙伴
 
@@ -99,4 +99,4 @@ ms.locfileid: "93045385"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)](microsoft-partner-agreement.md)
+[了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)](microsoft-partner-agreement.md)

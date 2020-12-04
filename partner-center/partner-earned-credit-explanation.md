@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴赚取的托管服务返点
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何计算和支付 Microsoft 合作伙伴赚取的托管服务返点 (PEC)，以及如何确保你有资格赚取它们。
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175310"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474302"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
@@ -38,7 +38,13 @@ ms.locfileid: "92175310"
 
 - PEC 与云解决方案提供商中由合作伙伴管理的客户 Azure 资产的计费（可收费）消耗量相关联。 PEC 仅适用于 CSP 中由 Microsoft 计费的合作伙伴（间接提供商和直接计费合作伙伴）。 
 
-- 符合条件的服务：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务。 合作伙伴赚取的赠金不适用于在 Azure 计划消费定价表的“标记”列中被标识为“第三方”的第三方产品、Azure 计划预留项、市场定价表中的产品以及 [Azure 现成虚拟机](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/) 。
+- 符合条件的服务：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务。 
+
+- 不符合条件的服务：合作伙伴赚取的返点不可用于以下内容：
+    - Azure 计划预留
+    - 在 Azure 计划消耗价格的“标记”列中被识别为“第三方”的第三方产品    
+    - 市场价格列表中的产品
+   - [Azure 现成虚拟机](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中查看。 合作伙伴（间接提供商或间接经销商）必须拥有全天 (24x7) 的访问权限，才可确保赚取 PEC。 PEC 根据所管理的 Azure 资产每日计算一次。 给定计费周期（月份）的 PEC 不超过 15%。 如果合作伙伴针对所有符合条件的资源（访问范围）保留持久性特权访问一整月（范围跨度），他们将获得完整 15% 的 PEC。 范围和跨度变小将导致当月 PEC 比率变低。 无论是否应用了 PEC，针对 Azure 资产，每天都会显示按每日计费的使用量文件。 合作伙伴还可注册接收警报，以检测持久性特权访问是否有变化。
 

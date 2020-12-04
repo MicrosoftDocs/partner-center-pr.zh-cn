@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514735"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439089"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -30,7 +30,7 @@ ______________
 - 日期:2020-11-24
 - 功能
 
-## <a name="summary"></a>摘要
+### <a name="summary"></a>摘要
 
 Microsoft 正在向云解决方案提供商计划中的合作伙伴引入在合作伙伴中心通过按使用量计费的方式购买 SaaS 产品/服务功能。 
 
@@ -46,8 +46,7 @@ Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间�
 
 请与贵公司中的相应联系人共享这些信息。
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>全新的统一帐户管理体验
 
@@ -56,7 +55,7 @@ Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间�
 - 日期:2020-11-18
 - 功能
 
-## <a name="summary"></a>摘要
+### <a name="summary"></a>摘要
 
 从 11 月 18 日开始，合作伙伴中心将开始推出新的帐户管理体验，从而改进合作伙伴的用户体验。 合作伙伴现在可以通过“设置”->“帐户设置”来管理所有计划的帐户。
 
@@ -84,8 +83,7 @@ Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间�
 
 请与贵公司中的相应联系人共享这些信息。
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>适用于中端市场的 Office 365 E1 促销活动（LATAM、APAC 和印度）
 
@@ -113,6 +111,7 @@ Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间�
 
 ### <a name="questions"></a>存在疑问？
 如需了解问题、查询或详细信息，请联系[合作伙伴中心支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>合作伙伴中心 API 更新和用户界面 (UI) 增强功能，可增强特定国家/地区的客户筛选
@@ -254,8 +253,6 @@ public class Address
 
 从 2021 年 1 月开始，对于有新客户购买新的商务产品/服务的合作伙伴，我们将按照合作伙伴位置所用货币对这些购买项进行计费。 对于当前有客户已在 CSP 中购买新的商务产品/服务的合作伙伴，我们在该阶段将继续按照客户计费位置所用的货币对他们进行计费。 
 
- 
-
 - **第 2 阶段：2021 年 1 月之前在 CSP 中购买过新的商务产品/服务的现有客户** 
 
 在第 1 阶段之后且在 2021 历年期间，对于当前有客户已于 2021 年 1 月之前在 CSP 中购买新的商务产品/服务的合作伙伴，Microsoft 会将他们的商务产品/服务的计费从客户位置所用货币过渡到合作伙伴位置所用货币。 我们将在实施此项更改之前，提前通知合作伙伴。  
@@ -279,6 +276,8 @@ public class Address
 ### <a name="resources"></a>资源 
 
 有关此主题的信息，请查看 Microsoft 合作伙伴网站上的[运营库](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ 。  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>针对调用合作伙伴中心 API 的合作伙伴的 API 限制
 
@@ -310,7 +309,7 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[获取客户的所有订阅](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[根据 ID 获取订阅](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[获取客户的所有订单](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders||[获取客户的所有订单](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[按 ID 获取订单](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[获取订阅预配状态](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理订单和订阅](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 
 查看 [API 限制指南](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)并执行必要的步骤。 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>由于 MCA 请求重复而导致的 409 错误
 
@@ -365,8 +364,7 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 
 - 请与组织内的相应团队共享此信息，帮助他们为这些更改做好准备。
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>现提供测试：面向教育客户验证流程的合作伙伴中心 API 和用户界面 (UI) 改进功能
 
@@ -405,17 +403,17 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易学术产品/
 
 Microsoft 保留审查任何客户或推荐客户是否属于合格教育用户的权利。 有关完整详细信息，请参阅[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
 
-## <a name="next-steps"></a>后续步骤
+### <a name="next-steps"></a>后续步骤
 
-请查看新的合作伙伴中心 UI 和 API 更改，并查看[合作伙伴中心教育客户验证过程增强功能内容呢集合](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)中的测试指南
+- 请查看新的合作伙伴中心 UI 和 API 更改，并查看[合作伙伴中心教育客户验证过程增强功能内容呢集合](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)中的测试指南
 
-• 注册参与测试。 （有关详细信息，请参阅[测试指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)。） 
+- 注册参与测试。 （有关详细信息，请参阅[测试指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)。） 
 
-• 确保组织熟悉[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
+- 确保组织熟悉[学术合格教育用户要求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
 
-• 与组织内的相应团队和经销商共享此信息，帮助他们为这些更改做好准备。
+- 与组织内的相应团队和经销商共享此信息，帮助他们为这些更改做好准备。
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>扩展运营准备库上的商业许可合作伙伴内容
 
@@ -483,7 +481,7 @@ ________________
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams 会议室托管服务
 
 - 主动管理：对会议室系统的 24x7x365 不间断管理（包括修补、配置管理等）。
-• 实时监视和根本原因分析：监视和检测，并在需要时由 Microsoft 与客户协调推动安排的事件管理响应。 通过移动应用可随时接收警报。
+- 实时监视和根本原因分析：监视和检测，并在需要时由 Microsoft 与客户协调推动安排的事件管理响应。 通过移动应用可随时接收警报。
 - 托管式更新：管理和交付应用程序、Windows 知识库和硬件更新。
 - 安全威胁防护：通过 Microsoft Defender 高级威胁防护提供的安全威胁防护。
 - 客户支持：通过我们的专用服务运营中心实现 24x7x365 不间断票证支持，并为非自动化服务案例提供协助事件修正。 精细的基于角色的访问控制。

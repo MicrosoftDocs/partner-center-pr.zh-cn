@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999671"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474217"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>向客户的订阅添加许可证或更多服务
-
-**适用于**
-
-- 合作伙伴中心
-- 云解决方案提供商计划合作伙伴
 
 **相应的角色**
 
@@ -35,7 +30,7 @@ ms.locfileid: "90999671"
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP 计划支持的升级<a id="upgradesubscription"></a>
 
-云解决方案提供商支持以下升级：
+云解决方案提供商计划支持以下升级：
 
 | 产品/服务 | 可用升级|
 |---:|:---|
