@@ -1,22 +1,22 @@
 ---
-title: 找到协议的 "桌面计数" 和 "费用" 级别
+title: 在芯片中查找桌面计数，收费级别
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 其中，是芯片中的桌面计数和费用级别信息。
+description: 了解如何使用渠道奖励平台 (芯片) 查找协议的桌面计数和费用级别信息。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418063"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570546"
 ---
-# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>找到协议的 "桌面计数" 和 "费用" 级别
+# <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>找到协议的桌面设备计数和费用级别
 
 您可以下载到 Excel，该文件提供有关桌面计数和费用级别的协议详细信息。
 

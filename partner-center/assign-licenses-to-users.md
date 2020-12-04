@@ -1,22 +1,22 @@
 ---
-title: 管理客户帐户的用户和用户许可证
+title: 为客户帐户管理用户
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作伙伴中心为你的客户管理用户，例如创建用户帐户、添加或删除用户许可证、重置用户密码、删除或还原用户帐户。
+description: 在合作伙伴中心为你的客户管理用户-创建用户帐户、添加或删除用户许可证、重置密码、删除或还原用户帐户。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474064"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570733"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客户帐户的用户和用户许可证
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客户帐户的用户和用户许可证 
 
 **相应的角色**
 
@@ -76,21 +76,21 @@ ms.locfileid: "96474064"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3.  在客户菜单中，选择“用户和许可证”。 从列表中选择用户。
+3. 在客户菜单中，选择“用户和许可证”。 从列表中选择用户。
 
-4.  在屏幕底部，选择 " **重置密码**"。 
+4. 在屏幕底部，选择 " **重置密码**"。 
 
-5.  将新的临时密码发送给用户。
+5. 将新的临时密码发送给用户。
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>为客户删除用户帐户
 
-1.  从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 从列表中选择客户。
+1. 从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 从列表中选择客户。
 
-2.  在客户菜单中，选择“用户和许可证”。 从列表中选择用户。
+2. 在客户菜单中，选择“用户和许可证”。 从列表中选择用户。
 
-3.  在屏幕底部选择“删除用户帐户”。
+3. 在屏幕底部选择“删除用户帐户”。
 
 如果需要还原此帐户，可在客户的 **用户和许可证** 列表的 **已删除用户** 选项卡中找到它。 你有 30 天的时间还原已删除的用户。
 
@@ -98,19 +98,18 @@ ms.locfileid: "96474064"
 
 ## <a name="restore-deleted-user-accounts"></a>还原删除的用户帐户
 
-1.  从 " **合作伙伴中心** " 菜单中，选择 " **客户**"，然后从列表中选择客户。
+1. 从 " **合作伙伴中心** " 菜单中，选择 " **客户**"，然后从列表中选择客户。
 
-2.  选择 " **用户和许可证**"。
+2. 选择 " **用户和许可证**"。
 
-3.  选择 **已删除的用户 ( )**，当存在可以还原的已删除用户时，应读取 **(1)** 或更大。
+3. 选择 **已删除的用户 ( )**，当存在可以还原的已删除用户时，应读取 **(1)** 或更大。
 
-4.  选择一个或多个已删除用户的复选框，然后选择 " **还原**"。
+4. 选择一个或多个已删除用户的复选框，然后选择 " **还原**"。
 
     所有选定的用户帐户将重新出现在 " **用户和许可证** " 页中。
 
-## <a name="related-topics"></a>相关主题
+## <a name="next-steps"></a>后续步骤
 
+- [向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
 
-[向多个用户分配或撤消许可证](bulk-license-provisioning-for-multiple-users.md)
-
-[为客户帐户创建多个用户](adding-multiple-users-to-a-customer-account.md)
+- [为客户帐户创建多个用户](adding-multiple-users-to-a-customer-account.md)

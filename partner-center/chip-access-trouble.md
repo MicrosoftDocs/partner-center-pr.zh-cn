@@ -1,22 +1,22 @@
 ---
-title: 访问芯片时出现问题
+title: 访问 CHIP 时出现问题
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 访问芯片时遇到问题时的准则
+description: 阅读这些准则，以帮助你解决使用通道激励平台 (芯片) 工具时遇到的问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d25a04119490c0f7d67c733beb3d3b6931f72bb0
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418062"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570597"
 ---
-# <a name="trouble-accessing-chip"></a>访问芯片时出现问题
+# <a name="troubleshoot-issues-with-accessing-chip"></a>排查访问芯片问题
 
 **相应的角色**
 
@@ -29,10 +29,10 @@ ms.locfileid: "94418062"
 
 如果你是主要联系人或 PPA (主要的程序管理员) ，则你应该有权访问芯片，因为注册的所有通知都将发送到当前主要联系人或 PPA (主计划管理员) 。 此访问将在初始注册时间段后继续。
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-have-had-access-previously"></a>故障排除步骤，以帮助访问芯片（如果你以前有访问权限）
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>故障排除步骤，以帮助访问芯片（如果你之前访问）
 
 1. 清除所有 cookie 并在专用浏览器中打开芯片。
-1. 单击浏览器中的 " **兼容性视图设置** "。 芯片应该已在 Microsoft.com 下列出，否则，请添加该网站。
+1. 在浏览器中选择 " **兼容性视图设置** "。 芯片应该已在 Microsoft.com 下列出，否则，请添加该网站。
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -2,21 +2,21 @@
 title: Solution Assessment Incentives 常见问题解答
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 有关解决方案评估的常见问题的解答
+description: 了解通道激励平台 (芯片) 中有关解决方案评估的常见问题的解答。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447227"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570444"
 ---
-# <a name="solution-assessment-incentives-faq"></a>解决方案评估激励常见问题
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>解决方案评估激励平台 (芯片的常见问题解答)  
 
 查找以下常见问题的解答。
 
@@ -37,7 +37,7 @@ ms.locfileid: "94447227"
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>已在芯片中批准我的交易状态。 为什么尚未支付？
 
-除交易状态外，还必须在芯片中批准 POE 状态，然后才能提交此机会以进行支付。 请在芯片中查看你的机会，以确保 POE 已通过芯片中的 POE 验证团队上传和批准。 若要查看 POE 状态，请登录到芯片，然后选择 " **我需要 ...** " 中的 " **搜索** "。 来访问这些模板。 输入 " **机会 ID** " 并选择 " **搜索** "。 在搜索结果中，选择 POE 下的 "编辑" 超链接。 在结果页中，滚动到 "审阅" 部分以查看 POE 状态。 如果 POE 团队已请求 POE 上的其他信息，请查看 "注释" 字段。
+除交易状态外，还必须在芯片中批准 POE 状态，然后才能提交此机会以进行支付。 请在芯片中查看你的机会，以确保 POE 已通过芯片中的 POE 验证团队上传和批准。 若要查看 POE 状态，请登录到芯片，然后选择 "**我需要 ...** " 中的 "**搜索**"。 来访问这些模板。 输入 " **机会 ID** " 并选择 " **搜索**"。 在搜索结果中，选择 POE 下的 "编辑" 超链接。 在结果页中，滚动到 "审阅" 部分以查看 POE 状态。 如果 POE 团队已请求 POE 上的其他信息，请查看 "注释" 字段。
 
 ## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>为何我的机会不会收到里程碑1的任何付款？
 

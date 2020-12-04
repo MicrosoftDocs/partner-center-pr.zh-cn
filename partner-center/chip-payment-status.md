@@ -1,22 +1,22 @@
 ---
-title: 检查芯片中的付款状态
+title: 在 CHIP 中检查付款状态
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 了解如何检查芯片中的付款状态。
+description: 了解如何使用渠道奖励平台 (芯片) 检查付款状态。 请注意，芯片将在2021结束后停用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e86030c16405808d3b4036e313e8970c495382e
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418065"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570529"
 ---
-# <a name="check-payment-status-in-chip"></a>检查芯片中的付款状态
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>在渠道激励平台 (芯片) 中检查付款状态
 
 **相应的角色**
 
@@ -33,7 +33,7 @@ ms.locfileid: "94418065"
  
 1. 选择芯片主屏幕上的 " **企业** " 或 " **SPLAR** 程序" 链接以打开仪表板。 "仪表板" 是 "摘要" 屏幕，适用于所有收益和付款。
  
-1. 若要下载收入、付款或计算的完整详细信息，请从 " **选择** " 下拉列表中选择 " **导出到 Excel** "。
+1. 若要下载收入、付款或计算的完整详细信息，请从 "**选择**" 下拉列表中选择 "**导出到 Excel** "。
 
 ## <a name="next-steps"></a>后续步骤
 

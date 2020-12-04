@@ -1,22 +1,22 @@
 ---
-title: 查看芯片中的收入
+title: 在 CHIP 中查看收益
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 查看芯片中收入的准则
+description: 了解如何在渠道激励平台 (芯片) 工具中查看奖励陈述和收益。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418064"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570495"
 ---
-# <a name="view-earnings-in-chip"></a>查看芯片中的收入
+# <a name="view-earnings-using-the-chip-tool"></a>使用芯片工具查看收入
 
 可以通过渠道奖励平台工具 (芯片) 来访问奖励声明。
 
@@ -41,4 +41,4 @@ ms.locfileid: "94418064"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [检查芯片中的付款状态](chip-payment-status.md)
+- [在 CHIP 中检查付款状态](chip-payment-status.md)
