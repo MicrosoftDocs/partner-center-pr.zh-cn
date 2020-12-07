@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932763"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570750"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-| **类别** | **2020 年 11 月公告** | **已公布** |
+| **类别** | **2020 年 12 月公告** | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[即将推出含通话套餐的美国 Microsoft 365 商务语音产品/服务的更新](2020-december.md#2)|12 月 3 日|
+|功能|[现已上线：面向教育客户验证流程的合作伙伴中心 API 更新和用户界面改进功能](2020-december.md#1)|12 月 3 日|
+| **类别** | **2020 年 11 月公告** | **已公布** |
 |功能|[全新的统一帐户管理体验](2020-november.md#13)|11 月 18 日|
 |产品/市场|[用于中端市场促销的 Office 365 E1（LATAM、APAC 和印度）](2020-november.md#12)|11 月 18 日|
 |功能|[合作伙伴中心 API 更新和用户界面 (UI) 增强功能，可增强特定国家/地区的客户筛选](2020-november.md#11)|11 月 17 日|
