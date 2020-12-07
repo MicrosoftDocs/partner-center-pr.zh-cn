@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663878"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755633"
 ---
-# <a name="vat-info"></a>VAT 信息
+# <a name="value-added-tax-vat-information"></a>增值税) 信息的增值 (
 
 **适用对象：**
 
@@ -25,6 +25,24 @@ ms.locfileid: "91663878"
 ## <a name="understanding-vat-numbers"></a>了解 VAT 号码
 
 增值税 (VAT) 号码是一种在欧盟 (EU) 国家或地区使用的标识符。 有关详细信息，请参阅欧盟的官方 [VIES 站点](http://ec.europa.eu/taxation_customs/vies/vieshome.do)。
+
+## <a name="location-specific-vat-information"></a>特定于位置的增值税信息
+
+以下详细信息对以下列出的国家或地区是唯一的。
+
+### <a name="european-union"></a>欧盟
+
+在欧盟成员国中，合作伙伴必须提供有效 VAT ID 号码才能进行逆向征税并生成正确帐单。 VAT 号码必须接受为有效号码。
+
+Microsoft 不支持信用和重新帐单。 在销售任何订阅之前，必须在合作伙伴中心 [注册 VAT ID 号](organization-tax-info.md) 。
+
+### <a name="south-africa"></a>南非
+
+Microsoft 现在将标准 VAT 应用于南非合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理，则必须通过 [向 Microsoft 发送 VAT ID 号](organization-tax-info.md)来更新合作伙伴计费配置文件。
+
+### <a name="turkey"></a>土耳其
+
+Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买的数字内容和服务。 若要从发票中排除增值税并自行管理，则必须通过 [向 Microsoft 发送 VAT ID 号](organization-tax-info.md)来更新合作伙伴计费配置文件。
 
 ## <a name="accepted-formats-for-vat-numbers"></a>接受的 VAT 号码格式
 
