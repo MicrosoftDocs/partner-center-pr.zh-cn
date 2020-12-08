@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612781"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776895"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -66,22 +66,22 @@ ms.locfileid: "96612781"
   >[!Note]
   > 您可能必须从合作伙伴中心注销并重新登录，以便刷新您的凭据以访问引用页面。
 
-如果在 "合作伙伴中心" 菜单或 "与引用相关的页面" 中看不到 " **引用** " 选项，请联系你的公司的 [全局管理员](permissions-overview.md) ，并请求他们为你授予对 " **引用** " 选项和相关区域的访问权限。 
+如果在 "合作伙伴中心" 菜单或 "与引用相关的页面" 中看不到 " **引用** " 选项，请与公司的 [帐户管理员](permissions-overview.md) 联系，让他们向你授予对 " **引用** " 选项和相关区域的访问权限。
 
-查找公司的全局管理员：
+查找公司的帐户管理员：
 
 1. 从 "合作伙伴中心" 仪表板右上角的齿轮图标中选择 " **帐户设置** "。
 
-1. 从二级的左侧导航菜单中选择 " **用户管理** "。 
+1. 从二级的左侧导航菜单中选择 " **用户管理** "。
 
-1. 在用户列表的顶部，选择 " **筛选器** " 下拉菜单。 将选项更改为 **全局管理员**。
+1. 在用户列表的顶部，选择 " **筛选器** " 下拉菜单。 将选项更改为 **帐户管理员**。
 
-   页面将显示所有全局管理员及其各自的电子邮件地址。 通过电子邮件发送其中一项，并要求他们为你的工作帐户分配 "引用管理员" 角色。
+   该页将显示所有帐户管理员及其各自的电子邮件地址。 通过电子邮件发送其中一项，并要求他们为你的工作帐户分配 "引用管理员" 角色。
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="显示 &quot;合作伙伴设置&quot; 用户管理页中的 &quot;帐户管理员&quot; 的图像。":::
 
 >[!Important]
->- 如果你的角色仅涉及在 PSC 中管理用户，则要求你的公司的全局管理员向你分配合作伙伴中心的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 
+>- 如果你的角色仅涉及管理 PSC 中的用户，则要求公司的帐户管理员向你分配合作伙伴中心的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 
 >- 如果你的角色还包括管理共同销售机会，则要求分配有 " [引用管理员](permissions-overview.md#manage-referrals) " 角色。
 > - 最好还是在 PSC 管理员中提名一项变更管理线索。 这样做将阻止所有 PSC 管理员必须单独联系到合作伙伴中心帐户管理员。 改为使用合作伙伴中心帐户管理员的主要人员可以使用更改管理线索。
 
@@ -129,7 +129,7 @@ ms.locfileid: "96612781"
 
 完成用户迁移后，请使用以下指南来决定迁移策略：
 
-如果你的公司具有 PDM-当你的合作伙伴中心帐户已设置并且你的用户已移动并拥有角色和权限时，你可以将共同销售活动移动到合作伙伴中心。 通知 PDM 进行切换，而不是等到迁移完成截止时间，这会使所有新交易都流动到合作伙伴中心。
+如果你的公司具有合作伙伴开发经理 (PDM) -当你的合作伙伴中心帐户已设置并且你的用户已移动并拥有角色和权限时，你可以将共同销售活动移到合作伙伴中心。 通知 PDM 进行切换，而不是等到迁移完成截止时间，这会使所有新交易都流动到合作伙伴中心。
 
 >[!Note]
 >一旦您进行了此项切换，您将只能采取 PSC 中现有的活动交易。 您既不能创建新的交易，也不能从 PSC 的 Microsoft 卖方获得任何交易。
@@ -137,7 +137,7 @@ ms.locfileid: "96612781"
 如果你的公司没有 PDM，请确保所有用户帐户均已设置并由所有用户进行验证。 当你可以在合作伙伴中心开始共同销售时，会通过电子邮件通知你的相关电子邮件和有关准确日期的版权。 请记住，你仍需要管理 PSC 中现有的活动交易。
 
 >[!Important]
->活动交易不会迁移到 PC。 在2020年12月31日之前，请先关闭并注册交易。
+>活动交易不会迁移到 PC。 在2021年3月31日之前，请关闭并注册交易。
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>PSC 管理员、PSC 交易经理和 PSC 卖方的后续步骤
 
@@ -263,7 +263,7 @@ ms.locfileid: "96612781"
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-谁有权访问 "合作伙伴中心" 中的 "引用" 部分？
 
-你的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company)可以授予你访问 "引用" 选项卡的权限。若要查找全局管理员，请从合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)右上角的齿轮图标中选择 "**帐户设置**"。 然后，从第二层的左侧导航栏中选择 " **用户管理** "。 在用户列表的顶部，选择 " **筛选器** " 下拉菜单，并将选项更改为 " **全局管理员**"。页面将显示所有全局管理员及其各自的电子邮件地址。 要求其中一个用户为你的工作帐户分配 "引用管理员" 角色。
+你的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company)可以授予你访问 "引用" 选项卡的权限。若要查找帐户管理员，请从 "合作伙伴中心"[仪表板](https://partner.microsoft.com/dashboard)右上角的齿轮图标中选择 "**帐户设置**"。 然后，从第二层的左侧导航栏中选择 " **用户管理** "。 在用户列表的顶部，选择 " **筛选器** " 下拉菜单，并将选项更改为 " **帐户管理员**"。该页将显示所有帐户管理员及其各自的电子邮件地址。 要求其中一个用户为你的工作帐户分配 "引用管理员" 角色。
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-对于我们的帐户，"+ 新建交易" 按钮将灰显。 如何开始创建交易？
 
