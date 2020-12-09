@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000321"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534720"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表
 
@@ -114,3 +114,7 @@ CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 �
 > 定价 API 特定于 Azure 计划定价。 仍应使用发布到合作伙伴中心的“定价和套餐”页中的现有 RateCard API 和价目表，了解部署到非 Azure 计划订阅的 Azure 资源或预留项。 Azure 计划定价 API 不支持基于软件、市场或许可证的定价，例如 Microsoft 365 或 Dynamics 365。
 
 有关 Azure 计划定价和外汇汇率 API 的详细信息，请参阅完整的[定价 API 文档](/partner/develop/pricing)。
+
+## <a name="next-steps"></a>后续步骤
+
+- [管理 Azure 计划中的订阅和资源](azure-plan-manage.md)

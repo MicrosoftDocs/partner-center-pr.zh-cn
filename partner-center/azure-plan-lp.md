@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998380"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534737"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>简介：Azure 计划允许合作伙伴按即用即付费率为客户购买 Azure
+
+**相应的角色**
+
+- 管理员代理
+- 销售代理
+- 全局管理员
 
 Microsoft 在合作伙伴中心引入了新的商务体验：Azure 计划。  使用此新商务体验，合作伙伴可以访问对签署了 Microsoft 客户协议的客户采用即用即付费率的客户的 Azure 服务。
 
@@ -30,14 +36,14 @@ Microsoft 在合作伙伴中心引入了新的商务体验：Azure 计划。  �
 >从 2020 年 2 月 1 日开始，我们会从云解决方案提供商计划中删除现有 Microsoft 云协议。 从那一时间开始，所有其他产品/服务（包括 Microsoft 365、Dynamics 365 和现有 Azure）都需要合作伙伴确认（证明）客户接受新的 Microsoft 客户协议。 云解决方案提供商中的合作伙伴将无法在没有 Microsoft 客户协议证明的情况下为客户进行订购。 有关完整详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
 
 
-## <a name="learn-about-the-azure-plan"></a>了解 Azure 计划
+## <a name="next-steps"></a>后续步骤
 
 |**要实现此目的，请执行以下操作**   |**阅读此文**   |
 |------------------|---------------------|
 |开始迁移到 Azure 计划|[转移到 Azure 计划 - 入门](azure-plan-get-started.md)
 |将客户从 PAYG 过渡到 Azure 计划|[将客户过渡到 Azure 计划](azure-plan-transition.md)|
 |为客户购买 Azure 计划|[购买 Azure 计划](purchase-azure-plan.md)|
-|提供全天候云运营管理的计费合作伙伴有资格**赚取托管服务的返点**。|[合作伙伴赚取的返点 - 概述](partner-earned-credit.md)和[如何确定合作伙伴赚取的返点 - 详细信息](partner-earned-credit-explanation.md)|
+|提供全天候云运营管理的计费合作伙伴有资格 **赚取托管服务的返点**。|[合作伙伴赚取的返点 - 概述](partner-earned-credit.md)和[如何确定合作伙伴赚取的返点 - 详细信息](partner-earned-credit-explanation.md)|
 |请参阅对 Azure 套餐类型的并列比较|[比较 Azure 套餐](compare-azure-offers.md)|
 |管理客户在 Azure 计划中的订阅和资源|[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)|
 |了解如何查看 Azure 计划价目表   |[Azure 计划价目表说明](azure-plan-price-list.md)|

@@ -9,20 +9,26 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000571"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534907"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>开始将即用即付费率与 Azure 计划配合使用
+
+**相应的角色**
+
+- 管理员代理
+- 销售代理
+
 
 Microsoft 在合作伙伴中心引入了新的商务体验。  使用此新商务体验，合作伙伴可以访问对签署了 Microsoft 客户协议的客户采用即用即付费率的客户的 Azure 服务。
 
 此计划简化了购买体验 - 可以在一个 Azure 计划中包含多个 Azure 订阅。 不再需要为每个 Azure 订阅单独提交订单。 在 Azure 的此新商务体验中，我们遵守全球一种定价的原则，使 CSP 合作伙伴能够以已发布的价格供应 Azure 产品。
 
-客户的数字变革要求需要合作伙伴提供新的技能。 许多客户希望合作伙伴提供的服务超越交易的价值，使其云旅程变得更平稳，同时帮助他们有效使用 Azure 服务。 Microsoft 合作伙伴在客户生命周期的各个阶段发挥着关键的作用。 这些类型的合作伙伴服务实际上在不断发展，其中包括 Azure 资产监视、策略和监管、设置和配置精细调整、技术支持和其他各种服务。 它们要求合作伙伴非常熟悉客户的 Azure 环境，并能够对其管理的底层资源进行持续适当的监管和控制。 提供这种全天候云运营管理的计费合作伙伴有资格**赚取托管服务的返点**。
+客户的数字变革要求需要合作伙伴提供新的技能。 许多客户希望合作伙伴提供的服务超越交易的价值，使其云旅程变得更平稳，同时帮助他们有效使用 Azure 服务。 Microsoft 合作伙伴在客户生命周期的各个阶段发挥着关键的作用。 这些类型的合作伙伴服务实际上在不断发展，其中包括 Azure 资产监视、策略和监管、设置和配置精细调整、技术支持和其他各种服务。 它们要求合作伙伴非常熟悉客户的 Azure 环境，并能够对其管理的底层资源进行持续适当的监管和控制。 提供这种全天候云运营管理的计费合作伙伴有资格 **赚取托管服务的返点**。
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>请确保客户已签署 Microsoft 客户协议
 

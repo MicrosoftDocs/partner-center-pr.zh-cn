@@ -1,7 +1,7 @@
 ---
 title: 证明客户接受 Microsoft 客户协议
 description: 了解需要你代表客户证明接受 Microsoft 客户协议的情况。
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367331"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534771"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客户证明接受 Microsoft 客户协议
 
-**适用于**
-
-- 合作伙伴中心
-- Microsoft 365 管理中心
 
 **相应的角色**
 
+- 全局管理员
 - 管理员代理
-- 销售代理
-
-**适当的合作伙伴类型**
-
-- 间接经销商、直接计费、间接提供商
+- 支持人员代理
 
 本文介绍你可能需要代表客户证明客户接受 Microsoft 客户协议的某些情况。
 
