@@ -9,33 +9,33 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114097"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926655"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
 
-公司的位置决定了市场。 市场包括可以销售云解决方案提供商（CSP）计划提供的区域和/或国家/地区。
+公司的位置决定了市场。 市场包括区域和/或国家/地区，你可以在其中销售云解决方案提供商 (CSP) 计划产品。
 
 例如，如果你的公司位于美国，则可以在美国和美国外岛向客户销售 CSP 优惠。 如果你的公司位于巴西，则只能在巴西向客户销售 CSP 优惠。 如果你的公司位于非洲地区，你可以向非洲地区的所有18个国家/地区的客户销售 CSP 优惠。
 
-在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 你可以在[此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
+在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 你可以在 [此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
 
 >[!IMPORTANT]
 > 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
 
-若要确定可在其中销售 CSP 产品/服务的位置，请在以下列表之一中查找公司的位置。 您必须具有要在其中销售的位置的活动 Microsoft 合作伙伴网络（MPN） ID。  
+若要确定可在其中销售 CSP 产品/服务的位置，请在以下列表之一中查找公司的位置。 您必须具有活动 Microsoft 合作伙伴网络 (MPN) ID 才能获得要在其中进行销售的位置。  
 
 ## <a name="for-unsupported-countries"></a>对于不支持的国家/地区
 
 如果你的国家/地区不受支持，请使用 Office 管理员 URL 建立客户 CSP 关系。 
 
-- 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 将**partnertenantguid**替换为你的租户 ID。 
+- 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 将 **partnertenantguid** 替换为你的租户 ID。 
 
-- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 将**IRtenantguid**替换为你的租户 ID。 将**IRMPNID**替换为你的 MPN ID，并将**IPtenantguid**替换为间接提供商租户 ID。
+- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 将 **IRtenantguid** 替换为你的租户 ID。 将 **IRMPNID** 替换为你的 MPN ID，并将 **IPtenantguid** 替换为间接提供商租户 ID。
 
 ## <a name="africa-region-and-market"></a>非洲地区和市场
 
@@ -43,24 +43,24 @@ ms.locfileid: "87114097"
 
 | 国家/地区           | 货币 |
 | ------------------------ |:--------:|
-| 安哥拉                   |          |
+| 安哥拉                   |   USD    |
 | 贝宁                    |   USD    |
-| 博茨瓦纳                 |          |
+| 博茨瓦纳                 |   USD    |
 | 布基纳法索             |   USD    |
 | 布隆迪                  |   USD    |
 | 喀麦隆                 |   USD    |
-| 佛得角               |          |
+| 佛得角               |   USD    |
 | 中非共和国 |   USD    |
 | 乍得                     |   USD    |
 | 科摩罗                  |   USD    |
 | 刚果                    |   USD    |
-| 刚果（民主共和国）              |   USD    |
-| 科特迪瓦            |          |
+| 刚果（金）              |   USD    |
+| 科特迪瓦            |   USD    |
 | 吉布提                 |   USD    |
 | 赤道几内亚        |   USD    |
 | 厄立特里亚                  |   USD    |
-| 埃塞俄比亚                 |          |
-| 法属玻里尼西亚         |   USD    |
+| 埃塞俄比亚                 |   USD    |
+| 法属波利尼西亚         |   USD    |
 | 加蓬                    |   USD    |
 | 冈比亚                   |   USD    |
 | 加纳                    |   USD    |
@@ -80,7 +80,7 @@ ms.locfileid: "87114097"
 | 留尼汪                  |   USD    |
 | 卢旺达                   |   USD    |
 | 圣多美和普林西比    |   USD    |
-| 塞内加尔                  |          |
+| 塞内加尔                  |   USD    |
 | 塞舌尔               |   USD    |
 | 塞拉利昂             |   USD    |
 | 索马里                  |   USD    |
@@ -88,8 +88,8 @@ ms.locfileid: "87114097"
 | 圣赫勒拿-阿森松-特里斯坦达库尼亚|    USD   |
 | 坦桑尼亚                 |   USD    |
 | 多哥                     |   USD    |
-| 乌干达                   |          |
-| 赞比亚                   |          |
+| 乌干达                   |   USD    |
+| 赞比亚                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>亚洲和太平洋地区及市场
@@ -99,17 +99,17 @@ ms.locfileid: "87114097"
 | 国家/地区     | 货币 |
 | --------------     |:--------:|
 |  孟加拉国        |   USD    |
-|  不丹            |          |
+|  不丹            |   USD    |
 |  文莱 |   USD    |
-|  柬埔寨          |          |
+|  柬埔寨          |   USD    |
 |  香港特别行政区         |   USD    |
 |  印度尼西亚         |   USD    |
-|  老挝              |          |
+|  老挝              |   USD    |
 |  中国澳门             |   USD    |
 |  马来西亚          |   USD    |
-|  马尔代夫          |          |
-|  缅甸           |          |
-|  尼泊尔             |          |
+|  马尔代夫          |   USD    |
+|  缅甸           |   USD    |
+|  尼泊尔             |   USD    |
 |  菲律宾       |   USD    |
 |  新加坡         |   USD    |
 |  斯里兰卡         |   USD    |
@@ -125,8 +125,8 @@ ms.locfileid: "87114097"
 |  国家/地区        | 货币 |
 |  --------------        |:--------:|
 |  澳大利亚             |   AUD    |
-|  圣延岛      |   AUD    |
-|  科科斯群岛|   AUD   |
+|  圣诞岛      |   AUD    |
+|  科科斯（基林）群岛|   AUD   |
 |  库克群岛          |   AUD    |
 |  斐济                  |   AUD    |
 |  法属南部领地| AUD |
@@ -179,9 +179,9 @@ ms.locfileid: "87114097"
 |  奥地利        |   EUR    |
 |  比利时        |   EUR    |
 |  布韦岛  |   EUR    |
-|  保加利亚       |          |
+|  保加利亚       |   EUR    |
 |  克罗地亚        |   EUR    |
-|  塞浦路斯         |          |
+|  塞浦路斯         |   EUR    |
 |  捷克共和国 |   EUR    |
 |  丹麦        |   DKK    |
 |  爱沙尼亚        |   EUR    |
@@ -191,20 +191,20 @@ ms.locfileid: "87114097"
 |  德国        |   EUR    |
 |  直布罗陀      |   GBP    |
 |  希腊         |   EUR    |
-|  格陵兰      |          |
-|  格恩西岛       |   GBP    |
+|  格陵兰      |   EUR    |
+|  根西岛       |   GBP    |
 |  匈牙利        |   EUR    |
 |  冰岛        |   EUR    |
 |  爱尔兰        |   EUR    |
-|  曼岛    |   GBP    |
+|  马恩岛    |   GBP    |
 |  意大利          |   EUR    |
-|  泽西         |   GBP    |
+|  泽西岛         |   GBP    |
 |  拉脱维亚         |   EUR    |
 |  列支敦士登  |   EUR    |
 |  立陶宛      |   EUR    |
 |  卢森堡     |   EUR    |
-|  马耳他          |          |
-|  摩纳哥         |          |
+|  马耳他          |   EUR    |
+|  摩纳哥         |   EUR    |
 |  荷兰    |   EUR    |
 |  挪威         |   NOK    |
 |  波兰         |   EUR    |
@@ -254,11 +254,11 @@ ms.locfileid: "87114097"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  安圭拉岛       |   USD    |
+|  安圭拉       |   USD    |
 |  南极洲     |   USD    |
 |  安提瓜和巴布达| USD  |
 |  阿根廷      |   USD    |
-|  阿鲁巴岛          |   USD    |
+|  阿鲁巴          |   USD    |
 |  巴哈马        |   USD    |
 |  巴巴多斯       |   USD    |
 |  伯利兹         |   USD    |
@@ -271,20 +271,20 @@ ms.locfileid: "87114097"
 |  哥伦比亚       |   USD    |
 |  哥斯达黎加     |   USD    |
 |  库拉索        |   USD    |
-|  多米尼加       |  USD     |
+|  多米尼克       |  USD     |
 |  多米尼加共和国| USD   |
 |  厄瓜多尔        |   USD    |
 |  萨尔瓦多    |   USD    |
 |  福克兰群岛|  USD    |
 |  法属圭亚那  |   USD    |
 |  格林纳达        |   USD    |
-|  瓜德罗普岛     |          |
+|  瓜德罗普     |   USD    |
 |  危地马拉      |   USD    |
 |  圭亚那         |   USD    |
 |  海地          |   USD    |
 |  洪都拉斯       |   USD    |
 |  牙买加        |   USD    |
-|  马提尼克     |          |
+|  马提尼克     |   USD    |
 |  墨西哥         |   USD    |
 |  蒙特塞拉特     |   USD    |
 |  尼加拉瓜      |   USD    |
@@ -315,9 +315,9 @@ ms.locfileid: "87114097"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  阿富汗    |          |
+|  阿富汗    |   USD    |
 |  阿尔巴尼亚        |   USD    |
-|  阿尔及利亚        |          |
+|  阿尔及利亚        |   USD    |
 |  亚美尼亚        |   USD    |
 |  阿塞拜疆     |   USD    |
 |  巴林        |   USD    |
@@ -328,21 +328,21 @@ ms.locfileid: "87114097"
 |  格鲁吉亚        |   USD    |
 |  伊拉克           |   USD    |
 |  以色列         |   USD    |
-|  约旦         |          |
+|  约旦         |   USD    |
 |  哈萨克斯坦     |   USD    |
 |  科索沃         |   USD    |
 |  科威特         |   USD    |
 |  吉尔吉斯斯坦     |   USD    |
 |  黎巴嫩        |   USD    |
 |  莱索托        |   USD    |
-|  利比亚          |          |
+|  利比亚          |   USD    |
 |  马其顿共和国|   |
-|  毛里塔尼亚     |   USD    |
-|  摩尔多瓦        |          |
-|  蒙古       |          |
-|  黑山     |          |
+|  毛利塔尼亚     |   USD    |
+|  摩尔多瓦        |   USD    |
+|  蒙古       |   USD    |
+|  黑山     |   USD    |
 |  摩洛哥        |   USD    |
-|  莫桑比克     |          |
+|  莫桑比克     |   USD    |
 |  阿曼           |   USD    |
 |  巴基斯坦       |   USD    |
 |  巴勒斯坦占领区 |        |
@@ -351,15 +351,15 @@ ms.locfileid: "87114097"
 |  塞尔维亚         |   USD    |
 |  南非   |   USD    |
 |  斯威士兰      |   USD    |
-|  塔吉克斯坦     |          |
+|  塔吉克斯坦     |   USD    |
 |  突尼斯        |   USD    |
 |  土耳其         |   USD    |
-|  土库曼斯坦   |          |
+|  土库曼斯坦   |   USD    |
 |  乌克兰        |   USD    |
 |  阿拉伯联合酋长国| USD |
-|  乌兹别克斯坦     |          |
+|  乌兹别克斯坦     |   USD    |
 |  也门          |   USD    |
-|  津巴布韦       |          |
+|  津巴布韦       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>新西兰地区和市场

@@ -1,7 +1,7 @@
 ---
 title: 软件保障培训凭证计划
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何注册软件保障培训凭证计划，以便你可以获得向企业客户提供培训和规划的补偿。
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811197"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926609"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作伙伴中心的软件保障培训凭证 (SATV) 计划
 
@@ -39,40 +39,40 @@ ms.locfileid: "87811197"
 
 ## <a name="confirm-program-eligibility"></a>确认计划资格
 
-在注册 SATV 计划之前，必须先完成“Microsoft 合作伙伴网络 Learning”选项的要求，此选项取代了 Microsoft Learning 资质。 了解如何开始[学习选择。](https://partner.microsoft.com/membership/learning-partners)
+在注册 SATV 计划之前，必须先完成“Microsoft 合作伙伴网络 Learning”选项的要求，此选项取代了 Microsoft Learning 资质。 了解如何开始 [学习选择。](https://partner.microsoft.com/membership/learning-partners)
 
 你可以在合作伙伴中心验证你的公司是否享有适用的资格和评估要求。 有关更多详细信息和屏幕截图，请按照 SATV 工作流[步骤 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明操作。
 
 ## <a name="enroll-in-the-training-program"></a>注册培训计划
 
-在公司满足资格要求并且计划参与者已通过符合性培训课程后，你就可以签署软件保障培训凭证计划协议并进行注册。 确保查看所有[SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流[步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的说明完成合作伙伴中心的 SATV 注册过程。
+公司满足资格要求后，便可以签署软件保障培训凭证计划协议并进行注册。 确保查看所有 [SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流 [步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明完成合作伙伴中心的 SATV 注册过程。
 
 
 ## <a name="confirm-course-eligibility"></a>确认课程资格
-注册 SATV 计划以后，合作伙伴就可以针对符合 SATV 资格的课程提供培训讲座，客户可以使用其培训凭证参加这些讲座。 符合条件的课程在[SATV 课程资格目录](https://savl-catalog.microsoft.com/)中列出。 查看工作流的[步骤 3](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) ，了解哪些类型的课程 SATV 了资格。
+注册 SATV 计划以后，合作伙伴就可以针对符合 SATV 资格的课程提供培训讲座，客户可以使用其培训凭证参加这些讲座。 符合条件的课程列在 SATV 课程资格目录中。 查看工作流的 [第3步](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) ，了解哪些类型的课程是 SATV 或获得课程资格目录的链接。
 
 ## <a name="have-customer-create-and-assign-voucher"></a>让客户创建并分配凭证
 
-在进行培训之前，你的客户必须先激活其 SATV 权益，然后将其分配给你的组织。 若要详细了解如何使用屏幕截图来创建凭据并将其分配给你，请参阅工作流的[步骤 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+在进行培训之前，你的客户必须先激活其 SATV 权益，然后将其分配给你的组织。 若要详细了解如何使用屏幕截图来创建凭据并将其分配给你，请参阅工作流的 [步骤 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>验证并保留客户凭证
 
-你现在可以保留并兑换凭证，开始培训客户。 公司的 MPN 管理员有权访问合作伙伴中心的凭证管理工具，并可以添加需要在该工具中工作的用户。 有关验证和预留凭证的说明，请参阅工作流的[步骤 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+你现在可以保留并兑换凭证，开始培训客户。 公司的 MPN 管理员有权访问合作伙伴中心的凭证管理工具，并可以添加需要在该工具中工作的用户。 有关验证和预留凭证的说明，请参阅工作流的 [步骤 5](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
 
 ## <a name="deliver-training-and-activate-product"></a>提供培训并激活产品
 
-保留凭证以后，即可向客户提供培训。 请参阅 MOOC 课程 (LaaS) 的培训订婚指导原则和说明，了解如何激活和购买 Microsoft 官方课件 () MOC 的工作流的[步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+保留凭证以后，即可向客户提供培训。 请参阅 MOOC 课程 (LaaS) 的培训订婚指导原则和说明，了解如何激活和购买 Microsoft 官方课件 () MOC 的工作流的 [步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
 
 ## <a name="redeem-voucher"></a>兑换凭证
 
-完成培训后，必须兑换凭证。 按照工作流[步骤 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的说明进行操作，以确保满足所有要求，以便可以请求支付。 
+完成培训后，必须兑换凭证。 按照工作流 [步骤 7](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明进行操作，以确保满足所有要求，以便可以请求支付。 
 
 
 ## <a name="request-payment-from-microsoft"></a>请求 Microsoft 付款
 
-付款通过软件保障凭证权益 (SAVB) 在线支付工具处理。 按照工作流的[步骤 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的说明，通过 SAVB 将发票提交给 Microsoft。 
+付款通过软件保障凭证权益 (SAVB) 在线支付工具处理。 按照工作流的 [步骤 8](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明，通过 SAVB 将发票提交给 Microsoft。 
 
-有关其他信息，请阅读[FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)并查看[SATV 计划策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)。
+有关其他信息，请阅读 [FAQ](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) 并查看 [SATV 计划策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)。
 
 另请参阅：
 
