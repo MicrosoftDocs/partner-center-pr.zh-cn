@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468525"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570699"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>合作伙伴中心中的云解决方案提供商计划合作伙伴的计费概述 
-
-**适用于**
-
-- 合作伙伴中心
-- 云解决方案提供商 (CSP) 计划中的合作伙伴
 
 **相应的角色**
 
@@ -31,13 +26,16 @@ ms.locfileid: "87468525"
 - 支持人员代理
 - 销售代理
 
+本文提供了合作伙伴中心内 CSP 合作伙伴的基本计费和发票信息，包括如何向客户计费以及如何查找和阅读发票。
+
+
 ## <a name="find-your-bill"></a>查找帐单
 
 查找帐单：
 
-1. [登录到合作伙伴中心面板](https://partner.microsoft.com/dashboard/home)。
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
 
-2. 在左侧菜单中，选择“计费”。
+2. 在合作伙伴中心菜单中，选择“计费”。
 
 3. 在“计费”页面上，可以下载最新的帐单或者在“计费历史记录”部分中下载之前的帐单。
 
@@ -45,7 +43,7 @@ ms.locfileid: "87468525"
 
 Microsoft 对你如何处理你自己的发票没有任何要求。
 
-若要确定客户的使用情况，请[查看你的对帐文件](#find-your-bill)。 可以使用客户名称和其他相关字段来确定使用情况。
+若要确定客户的使用情况，请查看[对帐文件](#find-your-bill)。 可以使用客户名称和其他相关字段来确定使用情况。
 
 ### <a name="billing-types"></a>计费类型
 
@@ -75,11 +73,11 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 2. 在左侧菜单中，选择“销售”，然后选择“定价和产品/服务”。
 3. 在“定价和产品/服务”页面上，你可以查看 6 个月的价目表（包括当月）和预览价目表（如果适用）。
 
-**基于许可证**的价格在订阅期限内是有保证的，此期限通常为自购买日期起的 12 个月。 
+**基于许可证** 的价格在订阅期限内是有保证的，此期限通常为自购买日期起的 12 个月。 
 
-**基于使用情况**的价格每月可发生变化。
+**基于使用情况** 的价格每月可发生变化。
 
-**产品、服务和软件订阅的价格**在订阅持续时间内是有保证的。 但是，当你续订时，价格可能会发生变化。
+**产品、服务和软件订阅的价格** 在订阅持续时间内是有保证的。 但是，当你续订时，价格可能会发生变化。
 
 应用额度或调整后，可在下一张计费发票上看到“调整”和拖欠的“额度”。
 
@@ -173,3 +171,8 @@ Microsoft 不会对取消基于许可证的服务收取提前终止费。
 - 在发票生成后应用了退税。 你可以请求支付额度或重新计费，退回的税费会退回到原始发票。 对于退款来说也是如此。 你可以请求支付额度或对原始发票进行重新计费，然后获得退款。
 
 对于所有一次性和定期交易，在你请求支付额度或重新计费时，Microsoft 可以开具额度说明  。 发放额度后会取消发票。 
+
+## <a name="next-steps"></a>后续步骤
+
+- [理解帐单和对帐文件](read-your-bill.md)
+- [CSP 计划合作伙伴的常见计费方案](common-billing-scenarios.md)

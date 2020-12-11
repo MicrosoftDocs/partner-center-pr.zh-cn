@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000601"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534924"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 计划中的订阅和资源
 
-将客户过渡到 Azure 计划时，默认你会获得 Azure 中的特权管理员权限（由管理员代表授予的订阅所有者权限）。
+**相应的角色**
+
+- 管理员代理
+
+
+本文介绍了 CSP 合作伙伴如何使用不同的基于角色的访问控制 (RBAC) 选项对客户的 Azure 资源进行操作控制和管理。 将客户过渡到 Azure 计划时，默认你会获得 Azure 中的特权管理员权限（由管理员代表授予的订阅所有者权限）。
 
  > [!NOTE]
  > 客户可以在订阅、资源组或工作负荷级别删除 Azure 订阅的管理员权限。 
@@ -29,7 +34,7 @@ ms.locfileid: "91000601"
 
 - **Azure Lighthouse**：使用 AOBO 不能灵活地创建处理不同客户的不同组，或者为组或用户启用不同的角色。 使用 Azure Lighthouse 可将不同的组分配到不同的客户或角色。 由于用户将通过 Azure 委托的资源管理获取适当的访问级别，因此你可以减少具有“管理员代理”角色的用户数量（因此拥有完全 AOBO 访问权限）。 这有助于通过限制对客户资源的不必要访问权限来提高安全性。 此外，它还可以让你更灵活地大规模管理多个客户。 有关详细信息，请参阅 [Azure Lighthouse 和云解决方案提供商计划](/azure/lighthouse/concepts/cloud-solution-provider)。
 
--  **目录用户、来宾用户或[服务主体](/azure/active-directory/develop/app-objects-and-service-principals)** ：可以通过将用户添加到客户目录，或者添加来宾用户并分配特定的 RBAC 角色，来委托对 CSP 订阅的精细访问权限。
+- **目录用户、来宾用户或 [服务主体](/azure/active-directory/develop/app-objects-and-service-principals)** ：可以通过将用户添加到客户目录，或者添加来宾用户并分配特定的 RBAC 角色，来委托对 CSP 订阅的精细访问权限。
 
 Microsoft 建议为用户分配最低的权限，使他们能够履行自己的职责即可，这是一种安全做法。 请参阅 [Azure Active Directory Privileged Identity Management 资源](/azure/active-directory/privileged-identity-management/pim-configure)。
 

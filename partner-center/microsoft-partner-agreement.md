@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92155348"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869327"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -30,6 +30,8 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>验证你的 MPN ID 是否处于活跃状态并已迁移到合作伙伴中心
 
+1. 如果你尚未将 MPN 帐户从 Partner Membership Center (PMC) 迁移到合作伙伴中心，则需要[将 MPN 帐户迁移到合作伙伴中心](move-pmc-pc-map.md)。 迁移后，完成其余步骤。 
+
 1. 用你的 MPN 帐户凭据登录到合作伙伴中心。
  
 1. 在“设置”中选择[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)。
@@ -38,14 +40,16 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
  
 1. 如果 MPN 计划状态为“已拒绝”或“搁置”，则帐户验证已失败 。 请阅读[验证过程](verification-responses.md)，了解如何解决验证问题。
 
-1. 如果你看不到 MPN 帐户状态，或尚未将 MPN 帐户从 Partner Membership Center (PMC) 迁移到合作伙伴中心，则需要[将 MPN 帐户迁移到合作伙伴中心](move-pmc-pc-map.md)。
+
 
 >[!NOTE]
 >你的 MPN ID 帐户凭据可能与你的 CSP 帐户凭据不同。
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>确认你已注册为 CSP 间接经销商
 
-1. 用你的 CSP 帐户凭据登录到合作伙伴中心。
+1. 如果你尚未在合作伙伴中心注册为 [CSP 间接经销商](enrolling-in-the-csp-program.md)，则需要先注册。 在合作伙伴中心注册为 CSP 间接经销商后，完成其余步骤。
+
+1. 使用 CSP 全局管理员帐户凭据登录到合作伙伴中心。
 
 1. 在“设置”中选择[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
 
@@ -57,7 +61,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
  
 1. 如果“间接经销商”状态为“已拒绝”，则帐户验证已失败 。 请阅读[验证过程](verification-responses.md)，了解如何解决验证问题。
 
-1. 如果你之前已经以间接经销商的身份加入了合作伙伴中心，请使用全局管理员凭据在合作伙伴中心仪表板概述上接受 Microsoft 合作伙伴协议。 你可从[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)“计划信息”或 CSP 概述页上的横幅通知来确认是否已签署 Microsoft 合作伙伴协议。
+1. 如果你之前已经以间接经销商身份迁移到合作伙伴中心，请使用全局管理员凭据在合作伙伴中心仪表板概述页面上接受 Microsoft 合作伙伴协议。 你可从[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)“计划信息”或 CSP 概述页上的横幅通知来确认是否已签署 Microsoft 合作伙伴协议。
 
 请记得接受你的间接提供商的 CSP 关系请求。
 
@@ -65,23 +69,23 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 若要查看是否已签署了 MPA，请执行以下操作：
 
-1. 你公司的全局管理员可以登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
+ 作为公司的全局管理员，请转到 [CSP 概述](https://partner.microsoft.com/pcv/dashboard/overview)页面，查看是否有通知你已接受 MPA 的绿色横幅。
 
-2. 请转到“CSP 概述”并查看是否有通知你已接受 MPA 的绿色横幅。
  
 :::image type="content" source="images/mpagreen.png" alt-text="显示接受 MPA 的绿色横幅":::
 
 >[!NOTE]
 >只有公司的全局管理员才能查看并签署 MPA。 如果你不是全局管理员，则需要让全局管理员来验证 MPA。
 
-## <a name="microsoft-customer-agreement"></a>Microsoft 客户协议
 
-对于云解决方案提供商而言，需要客户接受 Microsoft 客户协议才能通过 Azure 计划购买 Azure 服务，并且才能使用 2020 年 1 月 31 日后购买的 CSP 的所有其他产品/服务。 有关详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
+## <a name="downloadable-step-by-step-guides"></a>可下载的分步指南
 
+1. [从 PMC 迁移到合作伙伴中心，并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [加入成为 MPN 成员并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [验证 Microsoft 合作伙伴协议的接受状态](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>后续步骤
 
-- [从 PMC 迁移到合作伙伴中心，并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [加入成为 MPN 成员并签署 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [验证 Microsoft 合作伙伴协议的接受状态](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)

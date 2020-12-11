@@ -1,7 +1,7 @@
 ---
 title: 成为公司的全局管理员
 ms.topic: how-to
-ms.date: 10/02/2020
+ms.date: 12/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 若要在合作伙伴中心工作，必须首先验证你的域所有权。 了解如何执行此操作，以及如何成为可以添加用户的全局管理员。
@@ -9,32 +9,22 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663798"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570716"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>验证域所有权以成为全局管理员 
 
-**适用对象：**
-
-- 合作伙伴中心
 
 **相应的角色**
 
 - 全局管理员
 - 帐户管理员
 
-公司首次在合作伙伴中心内创建帐户时，可能尚未为其员工分配开始工作所需的角色。  要在合作伙伴中心操作的每个人都需要分配有某种角色（包括权限）。  
-
-## <a name="find-the-companys-global-admin"></a>查找公司的全局管理员
-
-1. 在合作伙伴中心右上角的“设置”图标中，选择“用户管理” 。
-
-1. 在搜索框中筛选全局管理员。 此操作会显示公司中全局管理员的列表。 如果你的公司还没有全局管理员，请按照以下说明进行操作。
-
+若要在合作伙伴中心工作，必须首先验证你的域所有权，并成为公司的全局管理员。 此外，只有成为全局管理员才能为员工分配开始工作所需的角色。  要在合作伙伴中心操作的每个人都需要分配有某种角色（包括权限）。  
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>验证域所有权以成为合作伙伴中心的全局管理员
 
@@ -60,6 +50,12 @@ ms.locfileid: "91663798"
 - 计费
 - 查看、创建和管理合作伙伴用户
 - 购买和管理云服务
+
+## <a name="find-the-companys-global-admin"></a>查找公司的全局管理员
+
+1. 在合作伙伴中心右上角的“设置”图标中，选择“用户管理” 。
+
+1. 在搜索框中筛选全局管理员。 此操作会显示公司中全局管理员的列表。 如果你的公司还没有全局管理员，请按照以下说明进行操作。
 
 ## <a name="next-steps"></a>后续步骤
 

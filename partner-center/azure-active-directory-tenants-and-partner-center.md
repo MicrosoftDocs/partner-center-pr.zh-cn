@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333820"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534788"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>创建将你的公司链接到合作伙伴中心帐户的工作帐户
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -71,3 +67,8 @@ Microsoft Azure 是一个公有云平台，公司可以使用该平台在 Micros
 Azure 工作帐户是公司在 Azure 公有云中的专用独立虚拟表示形式，它是在订阅 Microsoft 云服务（如 Azure、Microsoft Intune 或 Office 365）时创建的。
 
 工作帐户托管 Azure AD 用户及其相关信息 - 其密码、个人资料数据、权限等。 工作帐户还包含组、应用程序以及有关公司及其安全性的其他信息。
+
+## <a name="next-steps"></a>后续步骤
+
+- [管理合作伙伴中心帐户](partner-center-account-setup.md)
+- [跟踪验证状态](verification-responses.md)

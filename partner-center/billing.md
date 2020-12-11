@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000151"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570631"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概述：合作伙伴中心的主要计费和税务文章
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000151"
 - 计费管理员
 - 全局管理员
 - 销售代理
+
+本文提供了一些链接，这些链接中包含有关合作伙伴中心计费和税款主题的信息，包括计费资源、发票、CSP 计费和税款。
+
 
 | 主题 | 说明 |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000151"
 | [针对服务中断请求 SLA 额度补偿](request-credit.md) | 当存在服务中断时，如何为客户从 Microsoft 请求 SLA 额度补偿。 |
 
 如果你正在寻找合作伙伴中心 API 计费信息和资源，请参阅[开发人员计费文档](/partner-center/develop/manage-billing)。
+
+## <a name="next-steps"></a>后续步骤
+
+- [在商业市场中获得付款](marketplace-get-paid.md)

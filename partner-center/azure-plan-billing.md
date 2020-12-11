@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92334013"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534686"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
-**相应的角色：**
+**相应的角色**
 
 - 管理员代理
 - 计费管理员
 - 全局管理员
 
-Azure 计划中的计费是一个简化的计费体验，它使用一致的单一计费日期和基于日历月份的计费周期。
+本文介绍了如何访问和理解与 Azure 计划计费相关的发票和对帐文件结构。 Azure 计划中的计费是一个简化的计费体验，它使用一致的单一计费日期和基于日历月份的计费周期。
 
 ## <a name="summary-of-billing-essentials"></a>计费概要
 
-- **发票日期** ：发票和对帐文件将在 8 号（UTC 午夜）在合作伙伴中心仪表板/API 中提供。
+- **发票日期**：发票和对帐文件将在 8 号（UTC 午夜）在合作伙伴中心仪表板/API 中提供。
 
-- **发票计费周期** ：发票计费周期与日历月份相一致，例如 10/1 - 10/31、11/1 - 11/30。
+- **发票计费周期**：发票计费周期与日历月份相一致，例如 10/1 - 10/31、11/1 - 11/30。
 
-- **费用服务周期** ：费用与日历月份相一致。 例如，如果计费合作伙伴在 10/15 通过 Azure 计划添加了 Azure 服务，而客户在 10/15 开始使用 Azure 服务，则计费合作伙伴将在 11/8 收到客户在服务周期 10/15 - 10/31 的使用费发票/对帐文件。 在 12/8 生成的下个月发票包含服务周期 11/1 - 11/31 的所有费用。
+- **费用服务周期**：费用与日历月份相一致。 例如，如果计费合作伙伴在 10/15 通过 Azure 计划添加了 Azure 服务，而客户在 10/15 开始使用 Azure 服务，则计费合作伙伴将在 11/8 收到客户在服务周期 10/15 - 10/31 的使用费发票/对帐文件。 在 12/8 生成的下个月发票包含服务周期 11/1 - 11/31 的所有费用。
 
-- **发票付款期限** ：净 60 天。
+- **发票付款期限**：净 60 天。
 
-- **发票货币** ：继续按客户所在国家/地区的指定货币对合作伙伴计费。 例如，如果计费合作伙伴位于爱尔兰，而客户位于英国、挪威和德国，则计费合作伙伴将收到英镑、挪威克朗和欧元货币的发票/对帐文件。
+- **发票货币**：继续按客户所在国家/地区的指定货币对合作伙伴计费。 例如，如果计费合作伙伴位于爱尔兰，而客户位于英国、挪威和德国，则计费合作伙伴将收到英镑、挪威克朗和欧元货币的发票/对帐文件。
 
-- **合作伙伴奖励** ：从发票月份结束时间起的 45 天付费。
+- **合作伙伴奖励**：从发票月份结束时间起的 45 天付费。
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>访问发票和对帐文件
 
@@ -106,7 +106,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 5. 查看发票对帐文件和每日分类的使用情况文件，以了解更多计费详细信息。
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="计费":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="发票":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>阅读发票对帐文件
 
@@ -134,7 +134,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
   - 计量项目在 7/8 - 7/31 符合 **合作伙伴赚取的托管服务返点** 条件（请注意，有效单价为零售价减去合作伙伴获取的返点）。
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="计费":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="对帐 2":::
 
 ## <a name="invoice-in-customer-currency"></a>采用客户货币的发票
 
@@ -142,7 +142,7 @@ Azure 计划中的计费是一个简化的计费体验，它使用一致的单�
 
 Microsoft 将使用 Thomson Reuters 来确定外汇汇率，以此确定定价货币与计费货币之间的兑换率。 外汇汇率将在月份最后一日的前一天刷新，然后将会应用。
 
-**示例** ：服务周期 8 月 1 日 - 8 月 31 日的使用费将按 7 月 31 日发布的外汇汇率计费。 这些费用将显示在 9 月份的发票上，该发票的最后一页将注明外汇汇率。
+**示例**：服务周期 8 月 1 日 - 8 月 31 日的使用费将按 7 月 31 日发布的外汇汇率计费。 这些费用将显示在 9 月份的发票上，该发票的最后一页将注明外汇汇率。
 
 ## <a name="azure-reservations"></a>Azure 预订
 
@@ -160,7 +160,7 @@ Microsoft 将使用 Thomson Reuters 来确定外汇汇率，以此确定定价�
 
 由于通过 Azure 计划销售的 Azure 服务的计费模型是付后使用，因此，为了避免帐单超过预期，合作伙伴可以应用每月预算并跟踪用量百分比。 一次可对一个或多个客户应用预算。 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="计费":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Azure 支出":::
 
 ## <a name="next-steps"></a>后续步骤
 

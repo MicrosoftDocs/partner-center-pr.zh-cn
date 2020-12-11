@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999351"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570784"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务合作伙伴中心帐户来管理网络权益和资格
 
@@ -25,21 +25,25 @@ ms.locfileid: "90999351"
 
 贵组织必须是 Microsoft 合作伙伴网络的成员，然后才能在合作伙伴中心创建帐户。 如果你不是该网络的成员，可以[立即加入](https://partner.microsoft.com/commercial#)。 在创建合作伙伴中心帐户后，请观看此短视频：[探索仪表板](https://vimeo.com/290338211)。
 
-## <a name="before-you-begin"></a>开始之前
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>在创建合作伙伴中心帐户之前获取工作电子邮件地址
+
+公司需要购买电子邮件域，这样你才能为员工创建工作电子邮件地址。 请与 IT 部门合作购买电子邮件域，因为这是一个技术流程。 请使用新电子邮件创建 Azure AD 租户及合作伙伴中心帐户。
+
+## <a name="get-started"></a>入门
 
 若要在合作伙伴中心创建帐户，需要准备好以下信息。 在开始之前，你可能需要几分钟时间收集这些信息：
 
--   全局管理员工作电子邮件。
+- 全局管理员工作电子邮件。
 
--   如果你不确定公司的工作帐户是什么，请参阅[公司工作帐户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。如果公司没有工作帐户，可以在创建帐户过程中创建一个工作帐户。 
+- 如果你不确定公司的工作帐户是什么，请参阅[公司工作帐户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。如果公司没有工作帐户，可以在创建帐户过程中创建一个工作帐户。 
 
--   公司的法定实体名称和地址。  
+- 公司的法定实体名称和地址。  
 
--   签署法律协议的权限。 确保你有权代表公司签署法律协议，因为在注册过程中会要求你签署法律协议。
+- 签署法律协议的权限。 确保你有权代表公司签署法律协议，因为在注册过程中会要求你签署法律协议。
 
--   你想要其作为主要联系人的人员的姓名和企业电子邮件。 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
+- 你想要其作为主要联系人的人员的姓名和企业电子邮件。 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
 
-我们将在帐户创建过程中验证此信息。 
+我们将在帐户创建过程中验证此信息。 有关验证流程的信息，请参阅[帐户验证](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
 
@@ -68,7 +72,7 @@ ms.locfileid: "90999351"
 
 ## <a name="view-mpn-account-details"></a>查看 MPN 帐户详细信息
 
-创建合作伙伴中心帐户后，可以返回到合作伙伴中心来查看不同的帐户详细信息。 其中许多信息都显示在合作伙伴中心[面板](https://partner.microsoft.com/dashboard)的**合作伙伴简介**页面上。
+创建合作伙伴中心帐户后，可以返回到合作伙伴中心来查看不同的帐户详细信息。 其中许多信息都显示在合作伙伴中心 [面板](https://partner.microsoft.com/dashboard)的 **合作伙伴简介** 页面上。
 
 此类详细信息包括：
 

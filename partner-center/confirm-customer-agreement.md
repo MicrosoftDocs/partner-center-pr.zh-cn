@@ -1,6 +1,6 @@
 ---
 title: 确认客户接受 Microsoft 客户协议
-description: 了解如何确认客户接受 Microsoft 客户协议。 云解决方案提供商 (CSP) 计划参与者需要这样做才能为客户订购 Microsoft 产品和服务。
+description: 云解决方案提供商 (CSP) 合作伙伴在为客户订购 Microsoft 服务之前，需要确认客户接受 Microsoft 客户协议。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198053"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570563"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>确认客户接受云解决方案提供商合作伙伴计划中的 Microsoft 客户协议
 
@@ -54,7 +54,7 @@ ms.locfileid: "92198053"
 
 3. 在“Microsoft 协议”下，选中相应的框来证明客户已接受 Microsoft 客户协议。
 
-4. 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。
+4. 在“协议接受日期”  下，输入相应的日期。 不能将此日期设置为未来日期。
 
 5. 确保显示的主要用户联系人信息正确。 如果不正确，请选择“更新”并输入接受该协议的人员的准确信息。
 
@@ -68,15 +68,15 @@ ms.locfileid: "92198053"
 
 1. 选择“客户”。 找到并选择客户。
 
-2. 选择“帐户信息”。
+2. 选择“帐户信息”。 
 
 3. 在“Microsoft 客户协议”下选择“更新”。
 
-4. 输入已接受协议的人员的**名字**、**姓氏**、**电子邮件地址**和**电话号码**（可选）。 在“协议接受日期”下，输入相应的日期。 不能将此日期设置为未来日期。
+4. 输入已接受协议的人员的 **名字**、**姓氏**、**电子邮件地址** 和 **电话号码**（可选）。 在“协议接受日期”  下，输入相应的日期。 不能将此日期设置为未来日期。
 
 5. 选择“保存”，然后继续操作。
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="新客户":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="现有客户":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>检索客户接受协议的确认信息
 
@@ -84,7 +84,7 @@ ms.locfileid: "92198053"
 
 1. 选择“客户”，然后找到并选择要查看的客户。
 
-2. 选择“帐户信息”。
+2. 选择“帐户信息”。 
 
 3. 在“Microsoft 客户协议”下，查看该客户是否提供过确认。
 
@@ -128,7 +128,7 @@ ms.locfileid: "92198053"
 >[!NOTE] 
 >新客户必须接受 Microsoft 客户协议才能进行新的购买。  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新客户":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="创建新客户":::
 
 5. 到达新客户工作流中的“确认”屏幕后，保存客户凭据。 稍后需将这些凭据分配给客户。
 
@@ -154,19 +154,19 @@ ms.locfileid: "92198053"
 
 3. 可以自定义自动生成的电子邮件模板，然后选择“复制到剪贴板”或“在电子邮件中打开”。
 
-4. 使用此电子邮件模板邀请客户接受**经销商关系**请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
+4. 使用此电子邮件模板邀请客户接受 **经销商关系** 请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="新客户":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="创建关系":::
 
 5. 客户通过电子邮件接收邀请，并单击参数化 URL。 
 
 6. 客户使用电子邮件中合作伙伴提供的凭据登录 Microsoft 365 管理中心。
 
-7. 客户选中用于接受**经销商关系**和 **Microsoft 客户协议**的复选框。 
+7. 客户选中用于接受 **经销商关系** 和 **Microsoft 客户协议** 的复选框。 
 
 8. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="新客户":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="接受协议":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀请现有客户查看并接受协议
@@ -183,7 +183,7 @@ ms.locfileid: "92198053"
 
 5. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="新客户":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="客户":::
 
 >[!NOTE]
 >在某些情况下，客户可能无法直接接受 Microsoft 客户协议。 若要详细了解这些情况，请参阅[需要代表客户证明的两种情况](attest-acceptance-customer-agreement.md)。

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解 Microsoft 合作伙伴网络 (MPN) 权益，包括 Microsoft Action Pack、资格，以及用于将产品投放市场和销售解决方案的计划选项。
+description: 了解 Microsoft 合作伙伴网络 (MPN) 权益，例如 Microsoft Action Pack、资格或用于将产品投放市场和销售解决方案的计划选项。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197983"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556372"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>与 Microsoft 合作并发现成员资格权益
 

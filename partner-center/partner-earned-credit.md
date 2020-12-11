@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220505"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556389"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作伙伴赚取的返点 - 概要了解它如何在云解决方案提供商新的商务体验中发挥作用
 
@@ -32,7 +32,7 @@ ms.locfileid: "89220505"
 
 客户的数字转换需求正在改变合作伙伴提供的价值性质。 很多客户都期待合作伙伴能提供超越双方交易的服务。 此类服务可帮助他们顺利进行云之旅并有效地利用 Azure 服务。 这些服务在不断增加，其中包括 Azure 资产监视、策略和管理、设置和配置精细调整、技术支持以及其他各种服务。 
 
-这些服务要求合作伙伴十分熟悉客户的 Azure 环境，并能够对其管理的底层资源进行持续适当的监管和控制。 提供全天候云运营管理活动的计费合作伙伴对于他们为客户监管和控制的 Azure 资产，有资格获得**合作伙伴赚取的托管服务返点**。
+这些服务要求合作伙伴十分熟悉客户的 Azure 环境，并能够对其管理的底层资源进行持续适当的监管和控制。 提供全天候云运营管理活动的计费合作伙伴对于他们为客户监管和控制的 Azure 资产，有资格获得 **合作伙伴赚取的托管服务返点**。
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>面向合作伙伴和客户的合作伙伴赚取的返点的优势

@@ -1,7 +1,7 @@
 ---
 title: 获取客户的管理员权限
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 获取代表客户管理其服务或订阅所需的权限。 了解如何授予、撤销和管理权限。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545898"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534873"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>获取管理客户服务或订阅的权限
 
@@ -47,7 +47,7 @@ ms.locfileid: "87545898"
 6.  若要管理客户的帐户、服务、用户和许可证，请选择客户名称附近的向下箭头来展开他们的记录，然后选择要管理的服务的管理门户。
 
 >[!IMPORTANT]  
->客户可以在服务的管理门户中重新分配或删除管理员权限。 但是，除非并且直到你与客户重新达成协议，否则即使在客户重新分配或删除管理员权限之后，你仍然要负责提供客户支持并遵守“云经销商协议”的条款。 在这种情况下，如果客户需要帮助，请联系 Microsoft 支持部门以代表客户打开服务请求。
+>客户可以在服务的管理门户中重新分配或删除管理员权限。 但是，你需要通知客户删除你的管理员权限，这意味着你将无法再代表他们向 Microsoft 创建服务请求。 在与客户重新协商协议之前，你将无法再代表他们创建这些类型的服务请求。
 
 客户可以在 Office 365 管理门户中查找哪些合作伙伴具有他们租户的管理员权限。 若要实现此目的，请执行以下操作：
 

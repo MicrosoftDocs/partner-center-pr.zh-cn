@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000331"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534805"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000331"
 - 销售代理
 - “用户管理”管理员
 
-间接提供商和直接计费合作伙伴可以转换到 Azure 的 Microsoft 云服务提供商计划 (CSP) 中提供的新商务体验。 （间接经销商需通过其间接提供商才能实现此转换。）然后，客户可以通过简便的方式来购买云服务，无论是从合作伙伴、Microsoft 经销商还是直接在 Web 上购买。
+本文介绍了 CSP 合作伙伴如何使用合作伙伴中心将客户从现有 CSP Azure 产品/服务迁移到 Azure 计划下的 Azure 服务。 间接提供商和直接计费合作伙伴可以转换到 Azure 的 Microsoft 云服务提供商计划 (CSP) 中提供的新商务体验。 （间接经销商需通过其间接提供商才能实现此转换。）然后，客户可以通过简便的方式来购买云服务，无论是从合作伙伴、Microsoft 经销商还是直接在 Web 上购买。
 
-转换功能仅适用于要转换到 Azure 新商务体验且已签署 Microsoft 客户协议的客户，而不适用于 CSP 中的其他套餐（例如 Office 365 或 Dynamics 365）。
+过渡功能仅适用于要过渡到 Azure 新商务体验且已签署 Microsoft 客户协议的客户， 而不适用于 CSP 中的其他产品/服务（例如 Office 365 或 Dynamics 365）。
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>将现有的 CSP 套餐过渡到 Azure 计划
 
@@ -55,7 +55,7 @@ ms.locfileid: "91000331"
    - Direct CSP 方案中每个客户有一个计划  
    - 每个分销商有一个计划  
 
-   例如，某家合作伙伴购买了两个 Microsoft Azure 套餐，并在购买时包含了两个不同的 POR。 在这种情况下，过渡工作流将购买两个 Azure 计划（每个分销商有一个），并自动映射到 Azure 计划下的相应 Azure 订阅。  
+   例如，某家合作伙伴购买了两个 Microsoft Azure 套餐，并在购买时包含了两个不同的 POR。 在这种情况下，过渡工作流将购买两个 Azure 计划（每个经销商一个），并自动映射到 Azure 计划下的相应 Azure 订阅。  
 
    **将 Azure 订阅映射到 Azure 计划**
 
