@@ -8,18 +8,17 @@ description: 了解有关使用共同销售连接器的常见问题的解答。 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031260"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354536"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>联合销售引荐连接器疑难解答
 
 **适用对象：**
 
-- 合作伙伴中心
 - Dynamics 365 CRM
 - Salesforce CRM
 
@@ -80,7 +79,7 @@ Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其�
 
 3. 如果在 Power 自动化平台中激活合作伙伴中心到 CRM 流时收到以下错误，该怎么办？
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="需要登录的错误消息":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="需要更新的错误消息":::
 
 请遵循以下故障排除步骤：
 
@@ -95,13 +94,40 @@ Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其�
 - 选择每个流并分别对其进行编辑。
 - 展开流中的所有步骤 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="需要登录的错误消息":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="需要连接的步骤":::
 
 - 选择显示警告图标的步骤，要求关联连接，然后添加连接。 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="需要登录的错误消息" **使用连接** ，而不是 **由仅运行用户提供**"。  
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="逐步骤编辑流":::
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="需要登录的错误消息" **运行**"。 提供从合作伙伴中心的第一个操作**到 Salesforce**流的**http url** 。 选择 **要注册的事件** 下的所有四个选项，然后选择 **"是"** 进行覆盖。
+
+5. 如果共同销售引用连接器解决方案的流未打开，应该怎么办？
+
+A. 在 "自动启动" 中，需要按以下顺序编辑流，并将其更新为使用正确的连接：
+
+-  (内幕预览版) 合作伙伴中心 Webhook 注册
+- 创建向合作伙伴中心 (内幕预览版的共同销售推荐-Salesforce) 
+- 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
+- 合作伙伴中心到 Salesforce (预览体验) 
+- Salesforce 到合作伙伴中心 (预览体验) 
+- 合作机会到合作伙伴中心 (预览体验) 
+- Salesforce Microsoft 解决方案到合作伙伴中心 (预览体验) 
+
+ B. 对于每个 flow，选择 " **仅运行用户** " 选项。 选择 " **使用连接** ，而不是 **由仅运行用户提供**"。  
+
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="激活流":::
+
+
+C. 激活以下所述的流：
+
+ - 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
+
+- Salesforce 到合作伙伴中心 (预览体验) 
+
+    
+D. 激活所有剩余流。
+
+E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合作伙伴中心的第一个操作 **到 Salesforce** 流的 **http url** 。 选择 **要注册的事件** 下的所有四个选项，然后选择 **"是"** 进行覆盖。
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>有关运行/维护的问题和解答
 
@@ -113,7 +139,15 @@ Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其�
  
 若要确定引用同步的状态，请选择 " **审核**"。 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="需要登录的错误消息" 时，需要客户联系信息。
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="如何同步引用":::
+
+确保满足以下条件：
+
+- 解决方案 ID 作为机会的一部分提供。
+
+- 需要两个字母的国家/地区代码。
+
+- 为此机会选择了 "Microsoft 帮助" 时，需要客户联系信息。
 
 3. 如何确保引用会双向同步？
 
@@ -121,7 +155,53 @@ Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其�
 
 - 合作伙伴卖方需要确保客户在 CRM 部分启用了 **与合作伙伴中心的同步** 选项。
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="需要登录的错误消息" 或 "丢失"。
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="确保已启用同步":::
+
+- 卖方需要在确认潜在客户时提供收入和结束日期。
+
+- 如果在共同销售机会的 **创建** 或 **更新** 阶段提供 CRM ID，但 crm 中找不到具有该 id 的潜在顾客机会，则将忽略 update 或 create。
+
+- 确保在 Salesforce 环境中配置了参考货币字段。 
+
+4. 如果连接器断开连接并且错过了引用同步，应该怎么做。 
+
+下面是一些你可以尝试的选项：
+
+- 通过引用管理员角色检查伙伴中心用户的用户名或密码是否已过期。
+
+- 您可以使用未同步的机会，进行次要更新，并观察引用是否已同步。
+
+- 如果流已运行并失败，请选择该流，并重新提交失败的运行。
+
+5. 收到拒绝访问错误后，应该怎么办？
+
+请确保存在适当的角色
+
+- 合作伙伴中心卖方的引用管理员角色 
+ 
+- CRM 实例上的系统管理员或系统定制员角色
+
+- 确保自动将流量帐户用户登录 https://flow.microsoft.com 至少一次
+
+6. 如果在创建共同销售机会时看到 **客户帐户国家/地区代码** 缺失，你应该怎么办？
+
+需要将 ISO 双字母国家/地区代码添加到 CRM 中的客户帐户。
+
+7. 如果在创建共同销售机会时看到 **需要解决方案 ID** 的错误，该怎么办？
+
+若要创建共同销售引用，你需要一个 Microsoft 共同销售好的解决方案。 
+
+8. 当你看到在合作伙伴中心创建的共同销售机会（即使没有流错误）时，你应该怎么办：
+
+请执行以下操作：
+
+- 在合作伙伴中心创建新的共同销售交易后，请检查是否调用了 "合作伙伴中心到 Dynamics 365" 流 (它可能会) 调用多次。
+
+- 如果调用了流，请检查所有调用的流，并识别将更新 CRM 的流运行。 你可以执行这些操作，并验证其是否更新了 CRM 或遇到了问题。
+
+- 请查看合作伙伴中心的 *新交易**，查看其是否已用 CRM ID 填充。
+
+- 请确保在合作伙伴中心，交易不会意外地被视为 "赢单" 或 "丢失"。
 
 ## <a name="next-steps"></a>后续步骤
 

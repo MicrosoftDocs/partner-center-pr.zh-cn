@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447226"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354467"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>解决方案评估奖励计划的资格要求
+
+**相应的角色**
+
+- 主要联系人或计划管理员
 
 如果合作伙伴具有活动的 MPN 成员资格和活动白银或金牌 MPN 资格，则 FY20 中解决方案评估激励计划中处于活动状态且已注册状态的合作伙伴将继续享有奖励。 每年都要审核合作伙伴资格资格。 如果已建立的合作伙伴在当前年份中没有完成资格和参与要求，则将在下一年度评审中删除它们。 所有新合作伙伴都是通过本地解决方案评估专家 (SAS) 在其区域中载入的。 SAS 将根据合作伙伴公司中的技能和专业知识以及 SAS 支持的子公司的业务需求，确定要载入的合作伙伴。
 

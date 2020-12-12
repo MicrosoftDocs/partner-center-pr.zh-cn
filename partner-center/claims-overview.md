@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133076"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354502"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>获得协作营销资金
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -52,7 +48,7 @@ Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格
 - H1 是会计年7月1日至12月31日的前半部分。
 - H2 是会计年度的第二半部分（1月1日-6 月30日）。
 
-六个月期间，在此期间，你的收益将成为你的收入 **期间** 。 在以下六个月的 **使用期限内** ，必须在某个时间点使用这些收入。 如果使用期限结束时未使用收入，则会使。 **申报期** 是六个月期间，你可以在此期间为激励计划活动报销补偿。
+六个月期间，在此期间，你的收益将成为你的收入 **期间**。 在以下六个月的 **使用期限内**，必须在某个时间点使用这些收入。 如果使用期限结束时未使用收入，则会使。 **申报期** 是六个月期间，你可以在此期间为激励计划活动报销补偿。
 
 下表显示了不同的收入、使用情况和申报期限。 除非另有说明，否则句点将从第一个月的第一天到上个月的最后一天。
 
@@ -68,7 +64,7 @@ Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格
 
 以下资源将帮助你开始使用合作声明。
 
-| 任务 | 阅读本文 |
+| 要执行此操作 | 阅读本文 |
 | ------ | ----------- |
 | 提交声明 |  [创建和管理激励计划合作声明](create-incentives-claims.md)  |
 | 管理提交的声明 | [创建和管理激励计划合作声明](create-incentives-claims.md)    |

@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570478"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354451"
 ---
 # <a name="competencies---frequently-asked-questions"></a>称职-常见问题
 
-适用于：
+**相应的角色**
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
-- Microsoft 合作伙伴网络中的合作伙伴 (MPN) 程序
+- MPN 合作伙伴管理员
 
 本文解答有关与达到 Microsoft 合作伙伴网络资格相关的考试、认证和软件优势的一般问题。
 

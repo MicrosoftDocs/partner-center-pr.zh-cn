@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570376"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354587"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>在芯片上查找解决方案评估机会状态
+
+**相应的角色**
+
+- 主要联系人或计划管理员
 
 合作伙伴可以在芯片上查看解决方案评估机会状态。
 
