@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175081"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153139"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -31,11 +31,13 @@ ms.locfileid: "92175081"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>提交客户服务请求
 
-1. 在“合作伙伴中心”**** 菜单中，选择“服务请求”****，然后选择“客户请求”****。 
+1. 在 CSP 下的 "合作伙伴中心" 菜单中，选择 "**客户**"
 
-2. 在“客户请求”页面上，搜索所需的客户。
+2. 在 "客户" 页上，选择或搜索你想要的客户
+    
+3. 从 "客户" 菜单中，选择 "**服务请求**"
 
-3. 从“新建请求”**** 下拉菜单中，选择“Azure”**** 或“Office 365、Dynamics 365、企业移动性套件”****。 你将被重定向到 Microsoft Azure 门户或 Office 365 管理中心。
+4. 从“新建请求”下拉菜单中，选择“Azure”或“Office 365、Dynamics 365、企业移动性套件”。 你将被重定向到 Microsoft Azure 门户或 Office 365 管理中心。
 
 >[!NOTE]
 >在 CSP 中，支持运营合作伙伴约束力 Dynamics 365 需要维护对合作伙伴 (ASfP) 计划或更高版本的高级支持的支持协议。 此支持协议是代表 CSP 客户提交 Dynamics 365 事件所必需的。 [了解](https://partner.microsoft.com/support/partnersupport) 有关支持协议选项的详细信息。
@@ -51,13 +53,13 @@ ms.locfileid: "92175081"
 
 1. 选择“新建支持请求”。
 
-2. 使用相应信息填写支持请求，然后选择“创建”****：
+2. 使用相应信息填写支持请求，然后选择“创建”：
 
-   - 在支持请求的“基本信息”**** 部分，确保在“支持计划”**** 字段中选择“云解决方案提供商”****。
+   - 在支持请求的“基本信息”部分，确保在“支持计划”字段中选择“云解决方案提供商”。
 
-   - 在支持请求的**联系人**信息部分中，输入你的信息，而不是你的客户的信息。
+   - 在支持请求的 **联系人** 信息部分中，输入你的信息，而不是你的客户的信息。
 
-3. 以后若要在 Microsoft Azure 门户中查看客户的服务请求，则选择“管理支持请求”即可。****
+3. 以后若要在 Microsoft Azure 门户中查看客户的服务请求，则选择“管理支持请求”即可。
 
 如果你没有该客户的管理员权限，则你可能需要为客户创建支持请求。 这可能出现在下面的两种情况中：
 
@@ -72,14 +74,14 @@ ms.locfileid: "92175081"
 
 3. 选择需要支持的 Azure 订阅。
 
-4. 选择“新建支持请求”，然后按提示创建请求。**** 
+4. 选择“新建支持请求”，然后按提示创建请求。 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、企业移动性套件
 
 1. 在 " **创建服务请求** " 部分中，选择相应的支持类别。 可能需要选择 " **更多 ...** " 才能查看其他文章。
 
-2. 完成服务请求表单，然后选择“提交”****。
+2. 完成服务请求表单，然后选择“提交”。
 
    > [!TIP]
    > 请确保其中包含的是你的联系人信息，而不是客户的。
@@ -92,7 +94,7 @@ Microsoft 不为商业 marketplace 产品提供产品支持。 你需要与发�
 
 若要查找 ISV 的联系人信息，请执行以下操作：
 
-1.  在“市场”页上，选择需要获取相关帮助的产品。****
+1.  在“市场”页上，选择需要获取相关帮助的产品。
 
 2.  在产品的页面上，你将找到支持联系人信息。 这可能是以下一个或多个选项：
 
@@ -116,7 +118,7 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 
 我们的初始响应时间取决于已提交事件的严重性。 提交服务请求时，问题的严重性将由业务影响指示确定。
 
-**技术中断修复事件**的初始响应时间：
+**技术中断修复事件** 的初始响应时间：
 
 - 严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
 - 中等影响 (严重性 B) ：四小时， (服务的适中丢失或降级。 生产服务受到部分影响。 ) 
