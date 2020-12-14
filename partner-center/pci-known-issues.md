@@ -9,21 +9,49 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f098058f5ddd00de9633633d9bcc0fdd8502e538
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
+ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175254"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "97389299"
 ---
-# <a name="known-issues-with-partner-center-insights"></a><span data-ttu-id="f9acf-104">合作伙伴中心见解的已知问题</span><span class="sxs-lookup"><span data-stu-id="f9acf-104">Known issues with Partner Center Insights</span></span>
+# <a name="partner-insights--frequently-asked-questions"></a><span data-ttu-id="f1d31-104">合作伙伴见解-常见问题</span><span class="sxs-lookup"><span data-stu-id="f1d31-104">Partner Insights – Frequently Asked Questions</span></span>
 
-<span data-ttu-id="f9acf-105">这与查看或呈现与见解关联的报告的任何已知问题相关。</span><span class="sxs-lookup"><span data-stu-id="f9acf-105">This relates to any known issues viewing or rendering reports associated with Insights.</span></span>
+<span data-ttu-id="f1d31-105">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="f1d31-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="f1d31-106">报表查看器</span><span class="sxs-lookup"><span data-stu-id="f1d31-106">Report viewer</span></span>
+- <span data-ttu-id="f1d31-107">主管人员报表查看器</span><span class="sxs-lookup"><span data-stu-id="f1d31-107">Executive report viewer</span></span>
 
-- <span data-ttu-id="f9acf-106">对于仅支持 CSP 的租户，没有启用 Insights 报告的支持方法。</span><span class="sxs-lookup"><span data-stu-id="f9acf-106">There is no supported way to enable the Insights reports for CSP-only tenants.</span></span> <span data-ttu-id="f9acf-107">只有有权访问 MPN 计划的租户可以访问这些报表。</span><span class="sxs-lookup"><span data-stu-id="f9acf-107">Only tenants with access to the MPN program can access these reports.</span></span>
-- <span data-ttu-id="f9acf-108">报表出现与 Internet Explorer 有关的问题。</span><span class="sxs-lookup"><span data-stu-id="f9acf-108">The reports have rendering issues with Internet Explorer.</span></span> <span data-ttu-id="f9acf-109">它们适用于 Microsoft Edge 和其他浏览器。</span><span class="sxs-lookup"><span data-stu-id="f9acf-109">They work well with Microsoft Edge and other browsers.</span></span>
-- <span data-ttu-id="f9acf-110">由于上游数据问题，云业务应用程序的性能数据不完整。</span><span class="sxs-lookup"><span data-stu-id="f9acf-110">The performance data for Cloud Business Application competency is incomplete due to an upstream data issue.</span></span>
+<span data-ttu-id="f1d31-108">这与查看或呈现与见解关联的报告的任何已知问题相关。</span><span class="sxs-lookup"><span data-stu-id="f1d31-108">This relates to any known issues viewing or rendering reports associated with Insights.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="f9acf-111">后续步骤</span><span class="sxs-lookup"><span data-stu-id="f9acf-111">Next steps</span></span>
+<span data-ttu-id="f1d31-109">问： **我在合作伙伴中心帐户中看不到 "Insights 中心") 。我该怎么办？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-109">Q) **I don’t see the Insights hub in my Partner Center account. What should I do?**</span></span>
 
-- <span data-ttu-id="f9acf-112">详细了解 [合作伙伴中心见解](partner-center-insights.md)。</span><span class="sxs-lookup"><span data-stu-id="f9acf-112">Learn more about [Partner Center Insights](partner-center-insights.md).</span></span>
+<span data-ttu-id="f1d31-110">) 确保你已登录到组织的 MPN 帐户。</span><span class="sxs-lookup"><span data-stu-id="f1d31-110">A) Make sure you have logged in into the MPN account for your organization.</span></span> <span data-ttu-id="f1d31-111">不能从 CSP 帐户访问 Insights 仪表板。</span><span class="sxs-lookup"><span data-stu-id="f1d31-111">You cannot access the Insights dashboard from your CSP account.</span></span> <span data-ttu-id="f1d31-112">此外，请确保你的全局管理员已提供报表查看器或执行报表查看器角色访问权限。 有关角色的详细信息，请参阅 [此文](https://docs.microsoft.com/partner-center/pci-roles)。</span><span class="sxs-lookup"><span data-stu-id="f1d31-112">Also ensure that you have been provided Report Viewer or Executive Report Viewer role access by your Global Admin.  For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="f1d31-113">问) ： **我在我的报表中看不到 (ACR) 数据的计费收入或 Azure 消耗收入。为什么要这样做呢？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-113">Q) **I am unable to see Billed Revenue or Azure Consumed Revenue (ACR) data in my reports. Why is that?**</span></span>
+
+<span data-ttu-id="f1d31-114">) 计费的收入和 ACR 数据仅适用于执行报表查看者的用户。</span><span class="sxs-lookup"><span data-stu-id="f1d31-114">A) Billed Revenue and ACR data is available only to users who are Executive Report Viewers.</span></span>  <span data-ttu-id="f1d31-115">有关角色的详细信息，请参阅 [此文](https://docs.microsoft.com/partner-center/pci-roles)。</span><span class="sxs-lookup"><span data-stu-id="f1d31-115">For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="f1d31-116">问) ： **我在我的报表中看不到 (ACR) 数据的计费收入或 Azure 消耗收入。为什么要这样做呢？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-116">Q) **I am unable to see Billed Revenue or Azure Consumed Revenue (ACR) data in my reports. Why is that?**</span></span>
+
+<span data-ttu-id="f1d31-117">) 计费的收入和 ACR 数据仅适用于执行报表查看者的用户。</span><span class="sxs-lookup"><span data-stu-id="f1d31-117">A) Billed Revenue and ACR data is available only to users who are Executive Report Viewers.</span></span> <span data-ttu-id="f1d31-118">有关角色的详细信息，请参阅 [此文](https://docs.microsoft.com/partner-center/pci-roles)。</span><span class="sxs-lookup"><span data-stu-id="f1d31-118">For more information about roles, see [this article](https://docs.microsoft.com/partner-center/pci-roles).</span></span>
+
+<span data-ttu-id="f1d31-119">问) **报告给我的客户的国家/地区似乎不正确。为什么要这样做呢？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-119">Q) **The country reported for my customer seems to be incorrect. Why is that?**</span></span>
+
+<span data-ttu-id="f1d31-120">一个) 客户所在国家/地区的客户所在的国家/地区。</span><span class="sxs-lookup"><span data-stu-id="f1d31-120">A) The customer country is derived from the country of the Global parent organization of that customer.</span></span> <span data-ttu-id="f1d31-121">此国家/地区可能不同于你可能已进行事务处理的客户所在的国家/地区。</span><span class="sxs-lookup"><span data-stu-id="f1d31-121">This country might be different from the country of the customer with whom you might have transacted.</span></span> <span data-ttu-id="f1d31-122">因此，客户报告的国家/地区可能不同于您预期的国家/地区。</span><span class="sxs-lookup"><span data-stu-id="f1d31-122">Hence the customer reported country might be different from what you expect it to be.</span></span>
+
+<span data-ttu-id="f1d31-123">问) **我看到报表中的一些客户名称被模糊处理。是否应为？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-123">Q) **I see a few customer names are obfuscated in the reports. Is it expected?**</span></span>
+
+<span data-ttu-id="f1d31-124">由于合规性原因，为某些订阅对) 客户名称进行了模糊处理。</span><span class="sxs-lookup"><span data-stu-id="f1d31-124">A) Customer names are obfuscated for certain subscriptions because of compliance reasons.</span></span> <span data-ttu-id="f1d31-125">不过，客户 TPID 可用，可以使用它来查找客户的名称。</span><span class="sxs-lookup"><span data-stu-id="f1d31-125">However, the customer TPID is available and you can use that look up customer names from it.</span></span>
+
+<span data-ttu-id="f1d31-126">问) **报告的典型延迟是多少？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-126">Q) **What is the typical latency of the reports?**</span></span>
+
+<span data-ttu-id="f1d31-127">每日刷新一次) 订阅和客户数据，并报告一周内的数据延迟。</span><span class="sxs-lookup"><span data-stu-id="f1d31-127">A) Subscriptions and Customers data is refreshed daily and data is reported with a one week latency.</span></span> <span data-ttu-id="f1d31-128">报告 Azure 使用情况数据的延迟为一周。</span><span class="sxs-lookup"><span data-stu-id="f1d31-128">Azure usage data is reported with a one week latency.</span></span> <span data-ttu-id="f1d31-129">报告 Office365、团队、Dynamic365、EMS 和 Power BI 使用情况数据的时间延迟为一个月。</span><span class="sxs-lookup"><span data-stu-id="f1d31-129">Office365, Teams, Dynamic365, EMS, and Power BI usage data is reported with a one month latency.</span></span>
+
+<span data-ttu-id="f1d31-130">问： **报表在 Internet Explorer 中未呈现，这是否是预期的) ？**</span><span class="sxs-lookup"><span data-stu-id="f1d31-130">Q) **The reports are not rendering in Internet Explorer – is that expected?**</span></span>
+
+<span data-ttu-id="f1d31-131">) 报表在 Internet Explorer 中呈现问题。</span><span class="sxs-lookup"><span data-stu-id="f1d31-131">A)  The reports have rendering issues with Internet Explorer.</span></span> <span data-ttu-id="f1d31-132">它们适用于 Microsoft Edge 和其他浏览器。</span><span class="sxs-lookup"><span data-stu-id="f1d31-132">They work well with Microsoft Edge and other browsers.</span></span>
+
+<span data-ttu-id="f1d31-133">后续步骤</span><span class="sxs-lookup"><span data-stu-id="f1d31-133">**Next steps**</span></span>
+
+- <span data-ttu-id="f1d31-134">详细了解 [合作伙伴中心见解](partner-center-insights.md)。</span><span class="sxs-lookup"><span data-stu-id="f1d31-134">Learn more about [Partner Center Insights](partner-center-insights.md).</span></span>
