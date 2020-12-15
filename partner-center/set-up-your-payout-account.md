@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514752"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492681"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
+
+**相应的角色：**
+
+- 帐户管理员
+- 全局管理员
 
 若要在商业市场中通过产品/服务销售获得资金，你需要在[合作伙伴中心](https://partner.microsoft.com/dashboard)设置付款帐户，并填写所需纳税表单。
 
@@ -32,19 +37,16 @@ ms.locfileid: "95514752"
 
 ## <a name="tax-forms"></a>纳税表单
 
-### <a name="fill-out-your-tax-forms"></a>填写纳税表单
+你可以在合作伙伴中心的 " **支出和税务** " 页中管理你的税务配置文件和税务表。 你的组织的权限将决定你所看到的配置文件和信息。
 
-首先，你需要创建一个税务配置文件并将其分配给你所参与的计划。 完成以下步骤即可商业市场创建“税务配置文件”：
+### <a name="create-or-update-your-tax-profile"></a>创建或更新你的税务配置文件
 
-- 指定居住地或国籍所属的国家/地区。
-- 填写相应的纳税表单。
-
-可以在合作伙伴中心以电子方式完成和提交你的纳税表单；在大多数情况下，无需打印和邮寄任何表单。
+首先，你需要创建一个税务配置文件并将其分配给你所参与的计划。 使用以下步骤在合作伙伴中心创建或更新 *税务配置文件* 。 你可以在合作伙伴中心仪表板中以电子方式完成和提交你的税务表格;大多数情况下，无需打印和邮寄任何形式。
 
 > [!IMPORTANT]
 > 不同的国家和地区具有不同的税务要求。 应付税款的确切金额取决于销售产品/服务所在的国家和地区。 请参阅 [Microsoft Azure 市场发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)，以找出 Microsoft 代表你向哪个国家/地区缴纳销售和使用税。 在其他国家/地区中，根据你的注册位置，可能需要对销售的产品/服务缴纳销售和使用税，并直接支付给本地税收机构。 此外，你收到的应用销售收款还可以作为收入进行纳税。 我们强烈建议联系你所在国家或地区最能帮助你的相关机构，确定与自己的商业市场活动相关的正确税务信息。
 
-1. 在 " [合作伙伴中心](https://partner.microsoft.com/dashboard)" 中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置**"。
+1. 在 " [合作伙伴中心" 仪表板](https://partner.microsoft.com/dashboard)中，选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置**"。
 
 2. 在左侧导航菜单中，选择“付款和税务”，然后选择“付款和税款分配”。
 

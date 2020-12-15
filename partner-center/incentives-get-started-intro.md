@@ -8,14 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303163"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492596"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>使用这些资源帮助你开始激励
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>使用这些资源来帮助你立即体验激励
 
 **适用于**
 
@@ -44,13 +44,13 @@ ms.locfileid: "88303163"
 
 |  **要实现此目的，请执行以下操作**  |  **阅读此文**  |
 |--------------|-----------|
-| 了解如何在激励计划中注册 | [注册激励计划](incentives-enroll.md)  |
-| 了解奖励能否满足特定激励计划的符合性要求 | [确定你的程序资格](incentives-determined-your-program-eligibility.md)  |
+| 了解如何在激励计划中注册 | [注册参与奖励计划](incentives-enroll.md)  |
+| 了解奖励能否满足特定激励计划的符合性要求 | [确定计划资格](incentives-determined-your-program-eligibility.md)  |
 | 找到并提供 Microsoft 要求的数据，然后才能获得奖励付款 | [在合作伙伴中心创建和管理付款资料和税务资料](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
-| 确认你已提供有资格获得奖励收益所需的所有详细信息 | [确认你的收益资格](incentives-confirm-your-earnings-eligibility.md)  |
-| 查看激励计划的所有数据和报表 | [查看奖励付款和计划](understand-incentive-payouts.md)  |
-| 访问特定于计划的激励付款页面 | [访问奖励付款页](incentives-unified-user-guide.md)  |
+| 确认你已提供有资格获得奖励收益所需的所有详细信息 | [确认收益资格](incentives-confirm-your-earnings-eligibility.md)  |
+| 查看激励计划的所有数据和报表 | [查看激励计划和付款](understand-incentive-payouts.md)  |
+| 访问特定于计划的激励付款页面 | [访问支出报表](payout-statement.md)  |
 
 ## <a name="next-steps"></a>后续步骤
 
-[确定你的程序资格](incentives-determined-your-program-eligibility.md)
+[确定计划资格](incentives-determined-your-program-eligibility.md)

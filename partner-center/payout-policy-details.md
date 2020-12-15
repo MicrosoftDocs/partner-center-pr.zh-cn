@@ -1,22 +1,27 @@
 ---
-title: 付出计划和策略详细信息-Azure marketplace
-description: 了解与商业 marketplace 支出策略相关的详细信息，包括计划和 recoupment。
+title: 付出计划和流程
+description: 了解付款和事务，例如适用于商业市场和其他交易的付款计划和 recoupment 过程。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/06/2020
-ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
-ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
+ms.date: 11/25/2020
+ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96513275"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492664"
 ---
-# <a name="payout-schedules-and-policy-details"></a>付出计划和策略详细信息
+# <a name="payout-schedules-and-processes"></a>付出计划和流程
 
-本文介绍了 Microsoft 的付出费用计划、费用计划、在何处查找付出的状态，以及客户的非付款流程。
+**相应的角色：**
+
+- 帐户管理员
+- 全局管理员
+
+本文介绍了 Microsoft 的付款计划，在何处可以找到费用的状态，以及客户非付款过程。
 
 ## <a name="payment-schedules"></a>付款计划
 
@@ -90,7 +95,7 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 通常，我们会在该月的第15天，在给定的月份中发送任何付款，但支付该费用需要额外的时间。 天数取决于我们为帐户使用的付款方式，如下所述。
 
 > [!NOTE]
-> 下面显示的日期大致为近似值;任何支付可能需要更长或更短的时间来联系你的帐户。
+> 下面显示的日期大致为近似值;任何支付可能需要更多或更少的时间才能联系到你的帐户。
 
 | 付款方式     | 到达付款帐户的天数     |
 |--------------------|--------------------------------------------|

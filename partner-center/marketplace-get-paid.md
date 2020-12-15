@@ -1,23 +1,28 @@
 ---
-title: 在商业市场中获得付款
-description: 了解如何在商业市场-Azure Marketplace 中接收收益支付。 包括支出策略、付出的支出状态和付出的支出。
+title: 在合作伙伴中心付费
+description: 了解如何以 Microsoft 合作伙伴的形式接收收入付款，例如通过商业 marketplace 产品/服务、激励计划和云解决方案提供商计划。 包括支出策略、付出的支出状态和付出的支出。
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514718"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492443"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>在商业市场中获得付款
+# <a name="getting-paid-in-partner-center"></a>在合作伙伴中心付费
+
+**相应的角色：**
+
+- 帐户管理员
+- 全局管理员
 
 本文包含有关接收产品/服务、外接程序和广告收入的付款的重要信息。 它汇总了费用策略、获得付费之前所需的步骤以及对帐单概述。
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>商业市场支出政策和协议
+## <a name="payout-policies-and-agreements"></a>支出政策和协议
 
 付费要求遵守协议和支出政策。
 
@@ -49,4 +54,4 @@ ms.locfileid: "95514718"
 ## <a name="next-steps"></a>后续步骤
 
 - [合作伙伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts)
-- [市场付款常见问题解答](payout-faq.md)
+- [支出常见问题解答](payout-faq.md)
