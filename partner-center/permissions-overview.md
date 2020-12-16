@@ -8,13 +8,13 @@ description: 了解哪些角色最适合你所在公司的用户，这些用户�
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.custom: SEOMAY.20, contperf-fy21q1
+ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670144"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492698"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 

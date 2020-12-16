@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333910"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354604"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户已接受 Microsoft 客户协议的已更新方法
 
-**适用于**
-
--  合作伙伴中心
 
 **相应的角色**
 
@@ -82,7 +79,7 @@ ms.locfileid: "92333910"
 
 5. 输入提供接受的用户的详细信息。
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="公司信息":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="添加接受日期":::
 
    默认情况下，将显示主要联系人用户信息。 如果此信息不正确，请选择“更新”，然后输入接受协议的人员的“名字”、“姓氏”、“电子邮件地址”和*“电话号码”（可选）。     
 
@@ -98,7 +95,7 @@ ms.locfileid: "92333910"
 
 3. 在“Microsoft 客户协议”下，选择“更新”。  
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="公司信息":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Update":::
 
 4. 输入接受协议的用户的“名字”、“姓氏”、“电子邮件地址”和“电话号码”（可选）。    
 

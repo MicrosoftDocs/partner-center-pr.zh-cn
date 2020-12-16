@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527810"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354519"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心时合并公司帐户
 
@@ -62,3 +62,9 @@ ms.locfileid: "87527810"
 在合作伙伴中心，所有位置帐户会合并成一个全局帐户。 这意味着所有的市场推广套餐、计划和资质都会被合并。 其他权益工具包 (ABTK) 将不可用。 不过，你可以根据公司的需要组织营销资源、套餐、计划和资质的分发。 合并时，系统会提供一个扩展。 这个扩展使公司能够在额外的一年时间里，使用之前在 PMC 中使用的营销资源、套餐和计划。
 
 若要详细了解 PMC 和合作伙伴中心的差异，请阅读[从 PMC 迁移到合作伙伴中心](guide-to-migration.md)。
+
+## <a name="next-steps"></a>后续步骤
+
+- [管理合作伙伴中心帐户](partner-center-account-setup.md)
+
+- [管理位置](manage-locations.md)
