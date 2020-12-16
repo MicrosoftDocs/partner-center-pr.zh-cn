@@ -1,7 +1,7 @@
 ---
 title: 关于权益的常见问题解答
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: 解答有关 Azure、cloud、Visual Studio 和技术和支持权益的权益过期、续订和激活许可证的问题
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570682"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514686"
 ---
 # <a name="benefits-faq"></a>关于权益的常见问题解答
 
@@ -75,7 +75,7 @@ ms.locfileid: "96570682"
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>问： 能否在我的客户帐户上激活许可证
 
-否。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
+不是。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>问： 在 Azure 批量信用中分配用户时遇到问题。 我该怎么办
 
@@ -98,7 +98,7 @@ ms.locfileid: "96570682"
 分配订阅后，用户需要登录到 Visual Studio 来管理它。
 
 >[!Note]
-> Visual Studio 订阅可能会在原始分配后90天重新分配给另一个订阅者。
+> 如果在原始分配时间之后超过90天，则 Visual Studio 订阅可能会从一个订阅服务器重新分配到另一个订阅服务器。
 
 ## <a name="technical-benefits-and-support"></a>技术优势和支持
 
