@@ -1,7 +1,7 @@
 ---
 title: 管理联合销售机会
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为合格的 Microsoft 合作伙伴，你可以与 Microsoft 共同销售。 了解如何定义交易，邀请 Microsoft 协作，或查看已发送的交易。
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417262"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622195"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>管理合作伙伴中心的共同销售机会
 
@@ -44,13 +44,19 @@ ms.locfileid: "95417262"
 
 ## <a name="navigating-the-co-sell-section"></a>导航共同销售部分
 
-共同销售部分中有三个顶级选项卡。
+若要访问共同销售部分，请执行以下步骤：
 
-**入站** –此选项卡中提供了从 Microsoft 卖方向合作伙伴发送的用于协作销售的所有机会。
+1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。
 
-**出站** –此选项卡中提供合作伙伴创建的所有商机。合作伙伴可以创建三个不同类别的机会-共同销售、私有和合作伙伴到合作伙伴。
+2. 从左侧导航菜单中选择 " **引用**"，然后选择 " **共同销售" 机会**。
 
-**收藏夹** –入站或出站销售机会选项卡中标记为收藏的机会将显示在此选项卡中。在列表视图中单击机会上的心形图标，将任何商机标记为收藏。 只需再次单击相同的图标即可从收藏夹中删除此机会。
+   此部分中将显示三个顶级选项卡：
+
+   - **入站** –此选项卡中提供了从 Microsoft 卖方向合作伙伴发送的用于协作销售的所有机会。
+
+   - **出站** –此选项卡中提供合作伙伴创建的所有商机。合作伙伴可以创建三个不同类别的机会-共同销售、私有和合作伙伴到合作伙伴。
+
+   - **收藏夹** –入站或出站销售机会选项卡中标记为收藏的机会将显示在此选项卡中。在列表视图中单击机会上的心形图标，将任何商机标记为收藏。 只需再次单击相同的图标即可从收藏夹中删除此机会。
 
 ## <a name="creating-a-co-sell-opportunity"></a>创建共同销售机会
 
@@ -80,7 +86,7 @@ ms.locfileid: "95417262"
 |**估计结束日期**| 必需| 您希望结束客户交易的截止日期。 |
 |**CRM ID**| 可选 | 用各自 CRM 中的机会 ID 标记处理跟踪目的。|
 |**市场营销活动 ID**| 可选 | 捕获导致交易的营销活动。 如果你标记了来自具有相同 ID 的市场活动的所有交易，则这一归档可帮助你跟踪某一市场活动的投资回报。|
-|**说明**| 可选 | 更新所有最新信息，为公司的其他员工提供对同一交易的其他员工的可见性，或者尝试了解该交易的当前状态。 你还可以使用它作为记录的通信，以便与你的公司在 Microsoft 卖方/其他合作伙伴之间进行讨论。|
+|**备注**| 可选 | 更新所有最新信息，为公司的其他员工提供对同一交易的其他员工的可见性，或者尝试了解该交易的当前状态。 你还可以使用它作为记录的通信，以便与你的公司在 Microsoft 卖方/其他合作伙伴之间进行讨论。|
 
 ### <a name="add-team-members"></a>添加团队成员
 
@@ -197,7 +203,7 @@ ms.locfileid: "95417262"
 
 下表显示了在这一交易阶段可以邀请的人员的组合。
 
-|**原始交易类型**|**谁可以受邀**|**说明**|
+|**原始交易类型**|**谁可以受邀**|**备注**|
 |-----|:-----|:-----|
 |专用|Microsoft 和/或其他合作伙伴|如果邀请 Microsoft，则会将此交易升级到共同销售。|
 |共同销售|其他合作伙伴|只有公司发起交易时，才可以邀请其他合作伙伴。 无法在 "入站" 选项卡中邀请合作伙伴进行交易。|
