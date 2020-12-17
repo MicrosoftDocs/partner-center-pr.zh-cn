@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556440"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011514"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
@@ -41,9 +41,19 @@ ms.locfileid: "96556440"
 
 无论你是合作伙伴还是开发人员，都请使用 MPN ID 来执行记录支持票证等任务。 MPN ID 可在“法务信息”页面上找到。 也可以在“标识资料”上找到它。
 
+## <a name="account-settings---partners-resellers"></a>帐户设置 - 合作伙伴、经销商
+
+当你选择“设置”图标并打开“帐户设置”菜单时，如果你的公司加入了云解决方案提供商计划，则默认视图为“法务信息”，其中会显示两个选项卡，即“合作伙伴”和“经销商”。     每个选项卡都包含业务各方面的信息。
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="菜单显示了“合作伙伴”和“经销商”选项卡":::
+
+“合作伙伴”选项卡将包括所有法定业务信息，例如公司已注册的法定名称和地址，以及主要联系人和业务位置。 “分销商”选项卡适用于开展 CSP 业务的合作伙伴，其中包括“客户支持资料”。
+
+如果你的公司未参与 CSP，则默认视图将仅显示“合作伙伴”选项卡，其中包括“客户支持资料”。 
+
 ## <a name="organization-profile"></a>组织资料
 
-使用这些页面来管理法定公司资料、合作伙伴资料和公司位置等区域。 选择“法务”或“租户”等选项卡（下面将详细介绍）来编辑此区域 。 选择你感兴趣的计划（MPN、CSP 或商业市场）的选项卡，查看你的信息和审查状态。
+可使用这些页面管理业务的深层领域，包括法定业务资料、合作伙伴资料和租户。 单独管理每个区域。 它们如下所述。 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="“法务信息”菜单。":::
 

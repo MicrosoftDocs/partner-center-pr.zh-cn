@@ -1,27 +1,23 @@
 ---
 title: 在云解决方案提供商计划中与间接提供商合作
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接经销商如何与 Microsoft 间接提供商（或分销商）合作，以便在客户支持和计费方面获得帮助。
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795842"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514736"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在云解决方案提供商计划中与间接提供商合作
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -72,33 +68,22 @@ ms.locfileid: "92795842"
 
 2. 查看“欢迎”页面，以确保你具有注册所需的信息，然后选择“下一步”。
 
-3. 使用你的工作帐户登录。 选择“登录”，然后输入你用于以全局管理员身份登录 Office 365、Microsoft Azure 或 Microsoft Dynamics CRM 的用户名和密码。
+3. 使用你的工作帐户（即你用于以全局管理员身份登录 Office 365、Microsoft Azure 或 Microsoft Dynamics CRM 的用户名和密码）登录。 如果没有工作帐户，则选择“创建一个”，立即设置一个工作帐户。 创建了工作帐户后，使用新帐户的全局管理员凭据登录。
 
-   如果没有工作帐户，则选择“创建一个”，立即设置一个工作帐户。 创建了工作帐户后，使用新帐户的全局管理员凭据登录。
-
-4. 查看有关如何将你的 Microsoft 合作伙伴网络 ID (MPN ID) 与你的新合作伙伴中心帐户相关联的信息。 我们需要将贵公司的 MPN ID 与你的新合作伙伴中心帐户关联，以便你可以在合作伙伴中心管理你的成员身份权益和奖励。 选择“登录”。
-
-5. 输入你登录到 Partner Membership Center (PMC) 站点所使用的用户名。 Partner Membership Center 站点是你当前管理 Microsoft 合作伙伴帐户的位置。 登录到 Partner Membership Center 后，我们可以检索你的 MPN ID，并将其与你的新合作伙伴中心帐户相关联。 选择“下一步”。
-
-6. 输入 Partner Membership Center 帐户的密码，然后选择“登录”。
-
-7. 选择具有已链接到你的激励、成员资格权益和能力的 MPN ID 的公司档案。 接下来，我们可以将此信息移到合作伙伴中心帐户。 选择 **继续** 。
-
-   如果此页面上未列出你想要使用的 MPN ID，请选择“取消”，并使用你想要使用的公司档案的用户名和密码重新登录。
 
    > [!IMPORTANT]  
    > 选择与有效公司档案（与 Azure AD 租户位于同一国家/地区）关联的 MPN ID。
 
-8. 提供或更新贵公司的法定企业档案、主要联系人信息和客户支持信息。 选择“立即注册”。
+4. 提供或更新贵公司的法定企业档案、主要联系人信息和客户支持信息。 （若要查找你的法定业务信息，请选择“组织资料”，然后选择“法务信息” 。）选择“立即注册”。
 
-   主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员。 主要联系人可以是你，也可以是贵公司中的其他人。 注意：我们不接受来自 Gmail、Yahoo! Mail、iCloud Mail、AOL Mail 或 Outlook Mail 等基于 Web 的电子邮件服务的电子邮件地址。
+   主要联系人是你的公司员工，我们可以就你的应用程序与其联系。 这个人可以是你，也可以是公司中的其他人。 注意：我们不接受来自 Gmail、Yahoo! Mail、iCloud Mail、AOL Mail 或 Outlook Mail 等基于 Web 的电子邮件服务的电子邮件地址。
 
    > [!IMPORTANT]  
    > 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。 我们将通过电子邮件将注册状态更新发送给主要联系人。
 
-9. 当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
+5. 当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
-   1. 在“合作伙伴中心”中，选择“设置”图标，然后选择“用户管理”。
+   1. 在合作伙伴中心仪表板中，选择“设置”图标，然后在“帐户设置”下选择“用户管理”。  
 
    2. 从用户列表中选择你的名称。 然后选择“管理员代理”（如果它尚未处于选定状态）。 选择“更新”。
 
@@ -138,6 +123,10 @@ ms.locfileid: "92795842"
 
    > [!IMPORTANT]  
    > 你的间接提供商需要与你的客户建立经销商关系以代表其提交订单。
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>你的在其中开展业务在的 CSP 国家/地区和 CSP 区域
+
+作为 CSP 间接经销商，你的法定业务地址决定了你可以合作的间接提供商，以及你可以在其中开展 CSP 业务的区域。 若要了解详细信息，请参阅[可用于销售 CSP 的云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
 
 
 ## <a name="next-steps"></a>后续步骤

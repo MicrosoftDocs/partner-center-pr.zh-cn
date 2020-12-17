@@ -1,7 +1,7 @@
 ---
 title: 适用于云解决方案提供商的 Microsoft 合作伙伴协议 (MPA)
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 云解决方案提供商合作伙伴要求，以便签署并验证此统一的、以数字方式接受的 Microsoft 合作伙伴协议 (MPA)。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869327"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514762"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -27,6 +27,9 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 所有云解决方案提供商计划合作伙伴（包括间接提供商、间接经销商和直接计费合作伙伴）都可以在合作伙伴中心以联机方式签署 MPA。 在政府云中运营的直接计费和间接提供商合作伙伴也可以从合作伙伴中心内签署 MPA。
 
 若要继续参与云解决方案提供商计划，需要在 2020 年 1月31 日前签署 Microsoft 合作伙伴协议。 合作伙伴中心将提醒你现在可以轻松地从合作伙伴中心内签署协议。
+
+>[!NOTE]
+>在你的公司开展 CSP 业务的每个 CSP 区域中，都必须签署一次 MPA。 详细了解 [CSP 区域](regional-authorization-overview.md) 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>验证你的 MPN ID 是否处于活跃状态并已迁移到合作伙伴中心
 
@@ -53,7 +56,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 1. 在“设置”中选择[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
 
-1. 查看“计划信息”部分。 如果信息未显示“间接经销商”状态，则需[注册为间接经销商](https://partner.microsoft.com/cloud-solution-provider/whats-required)。
+1. 查看“计划信息”部分。 如果信息未显示“间接经销商”状态，则需[注册为间接经销商](indirect-reseller-tasks-in-partner-center.md)。
 
 1. 如果“间接经销商”状态为“活跃”，则你是合作伙伴中心的活跃间接分销商 。
  
@@ -78,13 +81,13 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 >只有公司的全局管理员才能查看并签署 MPA。 如果你不是全局管理员，则需要让全局管理员来验证 MPA。
 
 
-## <a name="downloadable-step-by-step-guides"></a>可下载的分步指南
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>下载适用于你目前状况的分布指南
 
-1. [从 PMC 迁移到合作伙伴中心，并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. 如果要将 MPN 帐户从 PMC 迁移到合作伙伴中心：[从 PMC 迁移到合作伙伴中心，并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [加入成为 MPN 成员并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. 如果要在合作伙伴中心注册为 CSP Indirect Reseller：[加入成为 MPN 成员并签署 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [验证 Microsoft 合作伙伴协议的接受状态](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. 完成上述步骤 1 和/或步骤 2 后，在合作伙伴中心验证 MPA 状态：[验证 Microsoft 合作伙伴协议的接受状态](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>后续步骤
 

@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811327"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011496"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢复客户的 Azure CSP 订阅的管理员权限  
 
@@ -47,7 +47,7 @@ ms.locfileid: "87811327"
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>将管理员代理组添加为 Azure CSP 订阅的所有者
 
-你的客户需要将管理员代理组添加为 Azure CSP 订阅的所有者。
+你的客户需要将管理员代理组添加为 Azure CSP 订阅、资源组或资源的所有者。 
 
 1. 使用 PowerShell 控制台或 PowerShell 集成脚本环境 (ISE)。 确保已安装 AzureAD 模块。
 
@@ -67,13 +67,20 @@ ms.locfileid: "87811327"
 4. 具有 Azure CSP 订阅所有者访问权限的用户使用其凭据登录到 Azure。
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. 然后，她可以将管理员代理组作为所有者添加到 CSP Azure 订阅中。
+5. 然后，她可以在作用域参数中应用正确的资源 URI，以便将管理代理组作为所有者添加到 CSP Azure 订阅、资源组或资源。 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>后续步骤

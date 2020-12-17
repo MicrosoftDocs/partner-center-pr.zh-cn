@@ -1,7 +1,7 @@
 ---
 title: 购买或续订 Microsoft Action Pack 产品/服务
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何购买 Microsoft Action Pack 订阅并开始使用 Action Pack 权益。 另请了解如何续订、取消、查看账单，等等。
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812854"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514729"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>购买或续订 Microsoft Action Pack 订阅或白银和黄金资格
 
-**适用于**
-
-- 合作伙伴中心
-- Partner Membership Center
-- MPN 计划合作伙伴
 
 **相应的角色**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812854"
 - 用户管理员
 - MPN 合作伙伴管理员
 - 管理员代理
-- 销售代理
 
-现在，Microsoft 合作伙伴网络 (MPN.md) 的成员可以从合作伙伴中心[面板](https://partner.microsoft.com/dashboard)中购买或续订权益产品/服务。 此类产品/服务包括 Microsoft Action Pack 订阅和白银与黄金资格。
+
+在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中，Microsoft 合作伙伴网络 (MPN) 成员可以购买或续订权益套餐，包括 Microsoft Action Pack 订阅以及白银资格和黄金资格。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次购买 Microsoft Action Pack
 
-如果你不熟悉如何与 Microsoft 合作，第一步是加入 Microsoft 合作伙伴网络。 如果你还不是合作伙伴网络的成员，请转到网络合作伙伴站点的[成员身份页](https://partner.microsoft.com/membership)并在准备好注册时选择“立即加入”。 
+如果你不熟悉如何与 Microsoft 合作，第一步是加入 Microsoft 合作伙伴网络。 如要加入 MPN，请转到网络合作伙伴站点的[成员身份页](https://partner.microsoft.com/membership)，并在准备好注册时选择“立即加入”。
 
 成功加入合作伙伴网络后，请按照[合作伙伴网站上的说明](https://partner.microsoft.com/membership/action-pack)购买第一个 Action Pack 订阅（需要登录）。 
 
@@ -62,7 +57,7 @@ ms.locfileid: "95812854"
 2. 选择“续订订阅”，然后选择付款方式。 可以使用信用卡或通过电子银行转账进行支付。
 
     >[!NOTE]
-    >如果“续订订阅”未显示或者灰显，则表明你还没有资格续订 Action Pack 订阅。 我们已经更改了续订时段策略，你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。  
+    >如果“续订订阅”未显示或者灰显，则表明你还没有资格续订 Action Pack 订阅。 我们更改了续订时段策略，因此你只能在订阅过期后续订。 例如，如果你的订阅于 6 月 22 日过期，从 6 月 23 起，你可以在 30 天内续订。  
 
 3. 如果使用信用卡支付，请按照说明添加你的信用卡信息。 如果通过电子银行转账支付，请提供联系人姓名、电话号码和电子邮件地址，然后选择“提交”。
 
@@ -70,15 +65,13 @@ ms.locfileid: "95812854"
 
 5. 然后订单获得确认。 选择“关闭”。
 
-每年在此日期你的 Action Pack 订阅都将自动续订。
-
 ### <a name="update-your-bill-to-address"></a>更新帐单地址
 
 在续订或购买 Action Pack 的过程中，你有机会验证你的帐单地址。
 
  1. 选择“提交”后，可以查看购买的详细信息。 如果你需要更新地址，请选择“更新”。
   
- 1. 在“合作伙伴简介”页上，更新地址。
+ 1. 在“法务资料”页上，更新你的地址。
 
 ## <a name="cancel-your-action-pack-subscription"></a>取消 Action Pack 订阅
 
@@ -115,6 +108,3 @@ ms.locfileid: "95812854"
 -   [添加用户并为其分配权限](create-user-accounts-and-set-permissions.md)
 
 -   [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
-
-
-

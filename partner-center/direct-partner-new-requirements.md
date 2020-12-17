@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/29/2020
-ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.date: 12/15/2020
+ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360014"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514707"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
@@ -57,7 +57,6 @@ ms.locfileid: "94360014"
 
 - [直接计费合作伙伴新收入要求](./announcements/2020-october.md#13)
  
-
 - [成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [直接计费到间接经销商的常见问题解答](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [CSP 中直接帐单合作伙伴要求的新性能标准](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
