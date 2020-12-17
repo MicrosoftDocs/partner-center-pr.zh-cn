@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指示器
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解7个合作伙伴贡献指标 (PCI) ，其中展示了如何利用 Dynamics 365 客户参与或 Dynamics 365 财务和运营。
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344385"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636035"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作伙伴贡献指标 (PCI) 显示对客户成功的7个关键衡量标准的合作伙伴影响
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作伙伴贡献指标 (PCI) 显示合作伙伴对客户成功的 7 个关键衡量标准的影响
 
 本文介绍了7个关键合作伙伴贡献指标 (PCI) ，用于评估合作伙伴在达到或维护云 Business Applications (CBA) MPN 能力方面的进展情况。
 
@@ -42,23 +42,23 @@ PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提�
 
 *性能指标：*
 
-1. **净新收入** ：所有 Microsoft Dynamics 365 产品销售渠道的新收入。  (有关此指标的详细信息，请参阅 [净新收入的定义](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)) 
+1. **净新收入**：所有 Microsoft Dynamics 365 产品销售渠道的新收入。  (有关此指标的详细信息，请参阅 [净新收入的定义](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)) 
 
-2. **Net customer 添加** ：跨所有销售渠道获得的针对 Dynamics 365 的网络客户。  (有关此指标的详细信息，请参阅 [net customer 的定义添加](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)。 ) 
+2. **Net customer 添加**：跨所有销售渠道获得的针对 Dynamics 365 的网络客户。  (有关此指标的详细信息，请参阅 [net customer 的定义添加](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)。 ) 
 
 *功能指示器：*
 
-3. **功能顾问** ：持有当前活动的功能顾问的个人数量关联 Dynamics 365 的认证。  (有关此指标的详细信息，请参阅 [函数顾问定义](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)。 ) 
+3. **功能顾问**：持有当前活动的功能顾问的个人数量关联 Dynamics 365 的认证。  (有关此指标的详细信息，请参阅 [函数顾问定义](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)。 ) 
 
-4. **功能顾问的增长** ：功能顾问关联的数量增长。  现在，将在2020年10月1日拍摄 PCI 中功能顾问增长指标的基线快照。  (有关此指标的详细信息，请参阅 [功能顾问增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)) 
+4. **功能顾问的增长**：功能顾问关联的数量增长。 有几个选项可用于获取此指标的要点。 一个选项需要在2020年10月1日创建 PCI 中的功能顾问增长指标的基线快照。  (有关用于获取此指标的点的所有选项的详细信息，请参阅 [功能顾问增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)) 
 
-5. **开发人员** ：持有当前活动的开发人员的个人数量关联 Dynamics 365 的认证。  (有关此指标的详细信息，请参阅 [开发人员定义](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)。 ) 
+5. **开发人员**：持有当前活动的开发人员的个人数量关联 Dynamics 365 的认证。  (有关此指标的详细信息，请参阅 [开发人员定义](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)。 ) 
 
 *客户成功指标：*
 
-6. **新的大型部署** ：过去12个月内跨越高使用量阈值的生产租户的数量。  (有关此指标的详细信息，请参阅 [新的大型部署的定义](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
+6. **新的大型部署**：过去12个月内跨越高使用量阈值的生产租户的数量。  (有关此指标的详细信息，请参阅 [新的大型部署的定义](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
 
-7. **每月活动用户增长率** ：过去12个月内，每个客户在每月活动用户的增长。  (有关此指标的详细信息，请参阅 [每月活动用户增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)) 
+7. **每月活动用户增长率**：过去12个月内，每个客户在每月活动用户的增长。  (有关此指标的详细信息，请参阅 [每月活动用户增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)) 
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 分数如何影响资格资格
 为每个已获得的指标授予点，产生单数字 PCI 分数。 最多可以有100个点。 
@@ -93,17 +93,17 @@ PCI 分数确定资格资格，如下所示：
 
 ## <a name="thresholds-for-each-pci-metric"></a>每个 PCI 指标的阈值
 
-每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于客户参与以及财务和操作路径，以便达到云 Business Applications 资格。 对于在开发市场上运营的合作伙伴与在开发市场上专门操作的合作伙伴，阈值也有所不同。 根据 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)， **开发** 或 **开发** 国家/地区的市场分类。
+每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于客户参与以及财务和操作路径，以便达到云 Business Applications 资格。 对于在开发市场上运营的合作伙伴与在开发市场上专门操作的合作伙伴，阈值也有所不同。 根据 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)，**开发** 或 **开发** 国家/地区的市场分类。
 
 每个指标间的分数被记录在一起，为客户参与和财务和运营产生不同的 PCI 分数。 此分数将每月更新一次。
 
 合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 对于所有指标（功能顾问增长除外），都可以获得部分分数。
+
 例如，在净新收入 $150000 的开发市场合作伙伴将获得最大10个 ($ 150000/$ 300000) 。
 
 有关详细信息，请参阅下表：
 - [表1。客户参与阈值](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [表2：财务和运营阈值](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [表3：功能顾问的增长](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>表1客户参与阈值
 
@@ -114,7 +114,7 @@ PCI 分数确定资格资格，如下所示：
 | **各种** | 300,000 美元 | 10 | 10 | *\* 请参阅说明* | 5 | 5 | 25% |
 | **各种** | $150000 | 5  | 5  |*\* 请参阅说明* | 2 | 1 | 25% |
 
-*\* 注意：根据基准顾问数量，增长目标会有所不同。有关增长目标，请参阅 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 。*
+*\* 注意：根据基线顾问数和合作伙伴用于获取点的特定选项，增长目标会有所不同。若要详细了解用于获取点或每个选项的特定增长目标的选项，请参阅 [功能顾问增长定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>表2财务和运营阈值
 
@@ -125,19 +125,7 @@ PCI 分数确定资格资格，如下所示：
 | **各种** | 300,000 美元 | 3 | 15 | *\* 请参阅说明* | 5  | 3 | 25% |
 | **各种** | $150000 | 1 | 5 |*\* 请参阅说明* | 2 | 1 | 25% |
 
-*\* 注意：根据基准顾问数量，增长目标会有所不同。有关增长目标，请参阅 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 。*
-
-### <a name="table-3-functional-consultant-growth"></a>表3功能顾问的增长
-
->[!NOTE]
-> 下表显示了一个 **开发** 和 **开发** 列，其中包含的功能顾问基线需要有资格获得积分。 基线快照日期将在10月1日（2020）。
-
-
-| 各种 | 各种 | 获得全部15个点所需的增长 *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30-49 | 15-24 | 25% |
-| 50 及以上 | 25及以上 | 15% |
+*\* 注意：根据基线顾问数和合作伙伴用于获取点的特定选项，增长目标会有所不同。若要详细了解用于获取点或每个选项的特定增长目标的选项，请参阅 [功能顾问增长定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI 指标的详细定义
 
@@ -208,13 +196,30 @@ Net customer 添加的性能指标和 [本文前面所述](partner-contribution-
 
 - 功能顾问定义为持有当前活动的功能顾问关联认证的个人数量，如客户参与功能顾问认证或财务和运营功能顾问认证。
 
-- 客户参与功能顾问认证要求单个人员通过： MB-200 **和** 以下之一： mb-210、mb-220、mb-230、mb-240 或 MB6-898。
+- 客户参与功能顾问认证要求个人通过：
+  - MB-200 \* 或 PL-200<br/>
+  **以及** 以下一项考试：
+  - MB-210，MB-220，MB-230，MB-240 或 MB6-898 \* \* 。
 
-- 财务和运营功能顾问认证要求个体通过： MB-300 **和** 以下之一： mb-310、mb-320、mb-330、MB6-897 或 MB6-898。
+- 财务和运营功能顾问认证要求个人通过：
+  - MB-300<br/>
+  **以及** 以下一项考试：
+  - MB-310，MB-320，MB-330，MB-897 \* \* 或 MB6-898 \* \* 。
+
+> [!NOTE]
+> 用星号标记 () 的考试 \* 将在未来几个月内停用或替换。 有关具体详细信息，请参阅以下内容：
+>
+> - \*在2020年12月31日停用单个星号 () 的考试。 2020年12月31日停用的考试仍有资格获得资格，并可续订到2021年12月31日（如果在其停用之前）。
+> - \* \* 在2021年1月31日开始停用两个星号 () 的考试。 2021年1月31日在年1月31日停用的考试仍有资格获得资格，并在2022结束之前进行续订。
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI 指标 #4 的定义-功能顾问的增长
 
-功能顾问的增长是一项功能指示器和 [本文前面所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七个关键合作伙伴贡献指标之一。 下面是有关如何定义功能顾问增长指示器以及如何计算此类别的点的详细信息：
+功能顾问的增长是一项功能指示器和 [本文前面所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七个关键合作伙伴贡献指标之一。 合作伙伴可以使用以下两个选项之一来实现 (15 或0点) 的全部或无点可用于此指标。 不会对部分内容进行奖励。 
+
+下面是有关如何定义功能顾问增长指示器以及如何计算此类别的点的详细信息。
+
+**选择一项以获取点：**
 
 - 功能顾问的增长定义为自基线快照以来，已认证的功能顾问关联数的增长。 基线快照日期将在10月1日（2020）。
 
@@ -224,7 +229,19 @@ Net customer 添加的性能指标和 [本文前面所述](partner-contribution-
 
 - 为了满足要点要求，你必须至少具有 **15** 个功能顾问与开发的市场合作伙伴关联，而在创建基准快照时，还必须至少具有 **5** 个适用于开发市场合作伙伴的顾问。
 
-- **不会对部分内容进行奖励。** 基线快照最上方的增长必须满足或超过表3中所示的阈值 [。功能顾问的增长](partner-contribution-indicators.md#table-3-functional-consultant-growth)。
+- **不会对部分内容进行奖励。** 基线快照之上的增长必须满足或超过下表中所示的阈值。 该表显示了一个 **开发** 和 **开发** 列，其中包含的功能顾问基线需要有资格获得积分。
+
+  | 各种 | 各种 | 获得全部15个点所需的增长 *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30-49 | 15-24 | 25% |
+  | 50 及以上 | 25及以上 | 15% |
+
+**选择两个以获取点：**
+
+- 开发的市场合作伙伴可以为其首个基于 PCI 的 CBA 周年，验证50或更多功能顾问的时间。  (开发市场合作伙伴可以为其首个基于 PCI 的 CBA 周年验证25个或更多的功能顾问。 ) 
+
+- 如果你达到此阈值，则将从该日期起24个月内，你将收到全15点。 这实际上意味着，对于两个 CBA 周年纪念，你将获得最多的功能顾问增长。
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI 指标 #5 开发人员的定义
 
@@ -234,9 +251,21 @@ Net customer 添加的性能指标和 [本文前面所述](partner-contribution-
 
 - 开发人员指标的要点基于当月快照，最多可有5个点。
 
-- 客户参与开发人员在同时传递 MB-200 **和** 以下之一时获得信用额度： mb-400 或 MB2-716。
+- 客户参与开发人员通过以下操作获得信用额度：
+  - PL-400<br/>**or**
+  - MB-200 \* **和** 以下一项考试：
+    - MB-400 \* 或 MB2-716\*\*
 
-- 当财务和运营开发人员同时传递 MB-300 **和** 以下之一时，它们会获得信用额度： mb-500 或 MB6-894。
+- 财务和运营开发人员通过以下操作获得信用额度：
+  - MB-300<br/>
+  **以及** 以下一项考试：
+  - MB-500 或 MB-894\*\*
+
+> [!NOTE]
+> 用星号标记 () 的考试 \* 将在未来几个月内停用或替换。 有关具体详细信息，请参阅以下内容：
+>
+> - \*在2020年12月31日停用单个星号 () 的考试。 2020年12月31日停用的考试仍有资格获得资格，并可续订到2021年12月31日（如果在其停用之前）。
+> - \* \* 在2021年1月31日开始停用两个星号 () 的考试。 2021年1月31日在年1月31日停用的考试仍有资格获得资格，并在2022结束之前进行续订。
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI 指标的定义 #6-新的大型部署
 
@@ -300,12 +329,12 @@ Net customer 添加的性能指标和 [本文前面所述](partner-contribution-
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从导航菜单中选择 " **CSP** "，然后选择 " **合作伙伴贡献指标** "。 
+2. 从导航菜单中选择 " **CSP** "，然后选择 " **合作伙伴贡献指标**"。 
 
    应会看到具有关联图表的 "合作伙伴贡献指标" 仪表板。
 
    > [!NOTE]
-   > 如果看不到这些选项，请尝试从菜单中选择 " **MPN** "，然后选择 " **合作伙伴贡献指标** "。 如果仍找不到这些选项，则可能没有在合作伙伴中心分配适当的用户角色。 请联系你的合作伙伴中心全局管理员或 MPN 合作伙伴管理员获取帮助。
+   > 如果看不到这些选项，请尝试从菜单中选择 " **MPN** "，然后选择 " **合作伙伴贡献指标**"。 如果仍找不到这些选项，则可能没有在合作伙伴中心分配适当的用户角色。 请联系你的合作伙伴中心全局管理员或 MPN 合作伙伴管理员获取帮助。
 
 ### <a name="read-the-charts"></a>阅读图表
 
