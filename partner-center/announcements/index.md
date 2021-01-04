@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622178"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666734"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,11 @@ ms.locfileid: "97622178"
 
 | **类别** | **2020 年 12 月公告** | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[CSP 中的永久性软件：新产品和地理位置](2020-december.md#10)|12 月 17 日|
+|发展你的业务|[政府、学术和非盈利：继续开放许可证计划更改和云解决方案提供商演变](2020-december.md#9)|12 月 17 日|
+|产品/市场|[对云解决方案提供商 (CSP) 客户加入要求的更改](2020-december.md#8)|12 月 17 日|
+|发展你的业务|[提醒：云解决方案提供商 (CSP) 计划中的永久性软件将自 2021 年 1 月起广泛提供](2020-december.md#7)|12 月 17 日|
+|功能|[联机服务和软件渠道授权指南](2020-december.md#6)|12 月 17 日|
 |产品/市场|[现推出 Power Apps 促销优惠](2020-december.md#5)|12 月 16 日|
 |功能|[.NET Standard 上的 SDK 版本 (v1.16.3)](2020-december.md#4)|12 月 8 日|
 |产品/市场|[2020 年 12 月基于许可证的价目表发行说明](2020-december.md#3)|12 月 8 日|
