@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007134"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771686"
 ---
 # <a name="what-is-microsoft-appsource"></a>什么是 Microsoft AppSource？
 
 Microsoft AppSource 是一种在线商店，其中包含由行业领先的软件提供商构建的数千个业务应用程序和服务。 你可以使用 AppSource 查找、试用、购买和部署可帮助你运营业务的商业软件和服务。
 
-AppSource 目录包括 "软件即服务" (SaaS) 应用程序、为 Microsoft Azure、Dynamics 365、Microsoft 365、Power BI、电源应用和咨询服务构建的 Microsoft 合作伙伴的解决方案。 可以在中访问 AppSource 产品目录 [https://appsource.microsoft.com](https://appsource.microsoft.com) ，还可以通过 Microsoft 365、Dynamics 365 和 Microsoft Power Platform 中的产品内体验。 来自 AppSource 的解决方案还可以从 Microsoft 经销商在云解决方案提供商计划中获得。
+AppSource 目录包括 "软件即服务" (SaaS) 应用程序、为 Microsoft Azure、Dynamics 365、Microsoft 365、Power BI、电源应用和咨询服务构建的 Microsoft 合作伙伴的解决方案。 在 [https://appsource.microsoft.com](https://appsource.microsoft.com) Microsoft 365、Dynamics 365 和 Microsoft Power Platform 的产品中，或通过产品内体验访问 AppSource 产品目录。 来自 AppSource 的解决方案还可以从 Microsoft 经销商在云解决方案提供商计划中获得。
 
 ## <a name="find-what-you-need-on-appsource"></a>在 AppSource 上找到所需内容
 
@@ -44,11 +44,15 @@ AppSource 中的每个产品都已根据特定条件进行了认证。 我们仍
 
 ## <a name="terms-and-conditions"></a>条款和条件
 
-软件供应商定义价格、最终用户许可协议和隐私策略。 AppSource 上的每个产品/服务都包含发布者的许可协议和隐私策略的链接。 确认这些协议，并有机会查看这些协议，这是购买流程的一部分。 有关详细信息，请参阅 [法律合同](legal-contracts.md) 。
+软件供应商定义价格、最终用户许可协议和隐私策略。 AppSource 上的每个产品/服务都包含发布者的许可协议和隐私策略的链接。 查看和确认这些协议是购买流程的一部分。 有关详细信息，请参阅 [法律协定](legal-contracts.md)。
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>发现 SaaS 和 M365 集成应用
+
+我们的合作伙伴可以在 SaaS 和 M365 集成的应用之间进行链接。 这样，你就可以在获取链接的 SaaS 应用时下载和使用集成的应用。 在这种情况下，搜索结果可能只返回 SaaS 应用，其中显示了其附带的集成应用的图标。 你可以在每个的产品详细信息页上的 SaaS 应用和集成应用之间导航。 如果 SaaS 应用需要购买，请参阅 [如何购买 saas 产品/服务 Microsoft AppSource](purchase-software-appsource.md)。
 
 ## <a name="find-ratings-and-reviews"></a>查找评级和评论
 
-在每个列表页上，你将找到来自其他客户的评级和评论。 评级使用5星级，每个产品/服务的平均评级显示在每个产品/服务卡上。 逐字检查也可用，以便您可以了解其他客户的经验。 购买解决方案后，还可以进行评级和审查，以帮助其他客户做出决定。
+在每个列表页上，你将找到来自其他客户的评级和评论。 分级使用五星刻度，每个产品/服务卡上显示平均评分。 逐字检查也可用，以便您可以了解其他客户的经验。 购买解决方案后，还可以进行评级和审查，以帮助其他客户做出决定。
 
 ## <a name="next-steps"></a>后续步骤
 

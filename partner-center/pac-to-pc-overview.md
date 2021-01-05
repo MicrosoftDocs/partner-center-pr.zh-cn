@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174901"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720826"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作伙伴管理中心正在向合作伙伴中心迁移
 
@@ -41,13 +41,10 @@ Office 365 合作伙伴管理中心 (PAC) 正在迁移到 Microsoft 合作伙伴
 
 - 云解决方案提供商合作伙伴：如果你是 CSP 合作伙伴，我们将自动重定向到2018年4月起的合作伙伴中心。
 
-- 如果你不通过 CSP 进行处理，并使用 PAC 为你的客户提供试验/quote，则顾问合作伙伴 () ：在我们决定自动重定向到合作伙伴中心的时间线后，我们会在此处公布。
+- 如果你不通过 CSP 进行处理，并使用 PAC 为你的) 客户提供试用/询价，则顾问合作伙伴 (：如果你是顾问合作伙伴，我们将自动重定向到2020年6月开始的合作伙伴中心。
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即开始使用 Microsoft 合作伙伴中心！
 
 立即开始使用 [Microsoft 合作伙伴中心](https://partnercenter.microsoft.com/) 来完成从 PAC 的迁移。  将为用于 PAC 的合作伙伴中心使用相同的凭据。
 
-> [!IMPORTANT]  
-> 在 PAC 中提供的某些功能和功能将无法在合作伙伴中心获得。
-
- 阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。 
+阅读[并排比较](moving-from-pac-to-pc.md)，以了解和熟悉这些变动。

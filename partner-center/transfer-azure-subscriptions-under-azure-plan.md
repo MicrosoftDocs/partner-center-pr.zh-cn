@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433337"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893200"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>将客户的 Azure 计划订阅转移到不同的合作伙伴
 
@@ -49,7 +49,7 @@ ms.locfileid: "94433337"
 
 - 客户根据当前的 CSP 合作伙伴的转换意图
 - 将来的 CSP 合作伙伴与客户合作，以确保可满足客户需求
-- 未来的 CSP 合作伙伴在转换开始之前与客户建立关系  
+- 将来的 CSP 合作伙伴与客户建立关系，并在转换开始之前购买 Azure 计划  
 - 客户必须向 Microsoft 客户协议签署未来的 CSP 合作伙伴
 - 将来的 CSP 合作伙伴必须已签署 Microsoft 合作伙伴协议，才能使用此工具
 
@@ -66,16 +66,16 @@ ms.locfileid: "94433337"
 
 未来的订阅合作伙伴需要从合作伙伴中心完成一个传输请求表单，请求订阅转让：
 
-1.  从 "合作伙伴中心" 菜单中，选择 " **客户** "，然后选择要代表其完成传输请求表单的客户。
-2.  从 "客户" 菜单中选择 " **订阅** "。
+1.  从 "合作伙伴中心" 菜单中，选择 " **客户**"，然后选择要代表其完成传输请求表单的客户。
+2.  从 "客户" 菜单中选择 " **订阅**"。
 3.  选择 " **传输请求** " 部分。
-4.  从 " **传输请求" 部分** 中，选择 " **添加新请求** "。
+4.  从 " **传输请求" 部分** 中，选择 " **添加新请求**"。
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="传输部分":::
 
 5.  完成 " **新建传输请求** " 窗体。
 
-6.  选择 **发送传输请求**  >  **发送** 。
+6.  选择 **发送传输请求**  >  **发送**。
 
     :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="完成传输请求窗体":::
 
@@ -90,7 +90,7 @@ ms.locfileid: "94433337"
 
 客户的当前合作伙伴的管理员代理将收到一封电子邮件，指出其客户正在请求传输其订阅：
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="审阅":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="检查":::
 
 查看并接受合作伙伴中心的传输请求窗体，以完成订阅转移。
 
@@ -98,10 +98,10 @@ ms.locfileid: "94433337"
 >如果当前合作伙伴在30天内没有执行任何操作，则该请求将过期，将来的合作伙伴将拥有来创建新的传输请求。
 
 1.  选择电子邮件中的 " **查看传输请求** " 或
-1.  从 "合作伙伴中心" 菜单中，选择 " **客户** "，然后选择代表其提交了传输请求的客户。
-2.  从 "客户" 菜单中选择 " **订阅** "。
+1.  从 "合作伙伴中心" 菜单中，选择 " **客户**"，然后选择代表其提交了传输请求的客户。
+2.  从 "客户" 菜单中选择 " **订阅**"。
 3.  选择 " **传输请求** " 部分。
-4.  通过选择 " **接收的请求** " 下的所选 **传输请求 ID** 展开传输信息。
+4.  通过选择 "**接收的请求**" 下的所选 **传输请求 ID** 展开传输信息。
 
 :::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="源审阅传输请求":::
 
