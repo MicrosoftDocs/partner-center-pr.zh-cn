@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776895"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916841"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -320,6 +320,20 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 - OCP Insights-如果 Pdm 只是查看与它们相关的交易和进度，则他们可以使用 OCP Insights 门户获取组织视图。 这是一个内部工具，仅适用于 Pdm。 请注意，不能将 OCP 见解提供给公司的用户。
 - 合作伙伴中心的来宾用户-可以 @microsoft.com 在合作伙伴中心添加 PDM 帐户作为来宾用户，并向其分配引用管理员角色，以便他们可以查看和操作引用。
 - 在租户中创建 [新用户](./create-user-accounts-and-set-permissions.md#add-a-new-user) -可以在自己的租户中创建新用户，并与 PDM 共享这些详细信息，以便他们可以查看和处理与帐户中的其他引用用户类似的引用。
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>如果你在 PSC 中的帐户未与无效的 MPN 关联，则查找正确的 MPN ID
+
+如果你在这里看到的是 PSC 中提到 "PSC 无效 MPN ID 关联问题" 的横幅，就是正确的地方。
+
+首先，按照以下步骤查找正确的 MPN ID
+
+- 登录到合作伙伴中心帐户
+- 使用 [帐户设置文档](./partner-center-account-setup.md#locate-your-mpn-id) 中提供的指南查找 MPN ID。
+
+下一步，
+
+- 如果有 PDM，请要求他们使用合作伙伴中心帐户中正确的 MPN ID 更正你的 MPN ID。
+- 如果没有 PDM，请向 PSC 横幅中提供的地址发送一封电子邮件，其中包含 psc 横幅中所示的 PSC 帐户信息以及合作伙伴中心帐户中正确的 MPN ID。
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>帮助你在合作伙伴中心创建和管理你的交易的资源
 

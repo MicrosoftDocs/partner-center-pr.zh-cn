@@ -2,25 +2,22 @@
 title: 如何向教育客户销售产品/服务
 description: 了解如何创建教育客户并向合作伙伴中心销售优惠。 包括确认教育客户的验证状态。
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 12/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175071"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916866"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品/服务 & 如何在合作伙伴中心创建教育客户
+# <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品以及如何在合作伙伴中心创建教育客户
 
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -49,6 +46,10 @@ ms.locfileid: "92175071"
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客户帐户":::
 
+4. 确认 **检查** 后，如果提交的信息有效，你将收到 **InReview** 状态。 
+
+    :::image type="content" source="images/edu/create-review.png" alt-text="审查教育客户帐户"lightbox="images/edu/create-review-expanded.png":::
+
 ### <a name="confirm-your-education-customers-verification-status"></a>确认教育客户的验证状态
 
 在客户 **帐户** 页上，请参阅 **特殊资格状态**。
@@ -56,15 +57,19 @@ ms.locfileid: "92175071"
 
 - 如果客户通过验证：教育
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="教育客户帐户":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育验证成功":::
 
 - 如果客户未通过验证：不是教育客户
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育客户帐户":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="教育验证失败" lightbox="images/edu/fail-reason-expanded.png":::
 
 - 如果客户未标记为教育客户： None
 
-   :::image type="content" source="images/edunottagged.png" alt-text="教育客户帐户":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="教育客户未标记为这样" lightbox="images/edu/account-one-expanded.png":::
+
+- 如果客户以教育客户身份审查：审查
+
+    :::image type="content" source="images/edu/in-review.png" alt-text="教育客户正在评审" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>更正客户帐户信息并重新提交以进行验证
 
@@ -78,11 +83,11 @@ ms.locfileid: "92175071"
 
 2. 刷新浏览器以重置页面。 将会出现 " **更新** " 按钮和 " **特殊资格" 状态** 设置为 " **无**"。
 
-3. 选择“更新”  。 在 " **服务管理** " 页上，选择 " **Office 365**"。
+3. 选择“更新”。 在 " **服务管理** " 页上，选择 " **Office 365**"。
 
 4. 你将被重定向到你的浏览器的新选项卡上的 Office 365 管理中心。 可能会要求你登录凭据。
 
-5. 选择“设置”  。
+5. 选择“设置”。
 
 6. 选择屏幕顶部的 " **组织配置文件** " 选项卡，然后选择 " **组织信息**"。 你现在可以更新客户详细信息。
 
