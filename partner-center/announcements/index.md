@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666734"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736524"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,7 +22,10 @@ ms.locfileid: "97666734"
 
 | **类别** | **2020 年 12 月公告** | **已公布** |
 |---------|:---------|:---------|
-|产品/市场|[CSP 中的永久性软件：新产品和地理位置](2020-december.md#10)|12 月 17 日|
+|产品|[FY21 H1 使用期未使用的渠道奖励合作营销资金（合作资金）将转存到 H2 使用期](2020-december.md#13)|12 月 22 日|
+|功能|[针对签署 Microsoft 合作伙伴协议 (MPA) 的合作伙伴，DocuSign 将于 2021 年迁移到 Adobe Sign](2020-december.md#12)|12 月 22 日|
+|产品/市场|[2021 年 1 月定价和目录计划](2020-december.md#11)|12 月 22 日|
+|功能|[Internet Explorer 11 和 Microsoft Edge 旧版公告的 Microsoft 365 应用和服务支持](2020-december.md#10)|12 月 21 日|
 |发展你的业务|[政府、学术和非盈利：继续开放许可证计划更改和云解决方案提供商演变](2020-december.md#9)|12 月 17 日|
 |产品/市场|[对云解决方案提供商 (CSP) 客户加入要求的更改](2020-december.md#8)|12 月 17 日|
 |发展你的业务|[提醒：云解决方案提供商 (CSP) 计划中的永久性软件将自 2021 年 1 月起广泛提供](2020-december.md#7)|12 月 17 日|

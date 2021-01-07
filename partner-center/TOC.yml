@@ -301,6 +301,9 @@
         - name: 奖励合作申请
           href: claims-overview.md
           displayName: incentives
+        - name: 查看可用的合作资金
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: 管理合作声明
           href: create-incentives-claims.md
           displayName: incentives

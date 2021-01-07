@@ -1,19 +1,19 @@
 ---
 title: Salesforce CRM 合作伙伴中心的共同销售连接器
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 将合作伙伴中心的推荐与 Salesforce CRM 同步。 然后，卖方可以在 CRM 系统中与 Microsoft 进行共同销售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947845"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960945"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
@@ -51,7 +51,7 @@ ms.locfileid: "94947845"
 
 3. 在 Salesforce 中，使用下面的包安装程序安装自定义字段和对象。
   
-请访问 [此处](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) ，将包安装到任何公司：
+请访问 [此处](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) ，将包安装到任何公司。
 
 
 注意：如果要安装到沙盒，则必须将 URL 的初始部分替换为 http://test.salesforce.com
