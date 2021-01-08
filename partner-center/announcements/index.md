@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736524"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916807"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-| **类别** | **2020 年 12 月公告** | **已公布** |
+| **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[将于 2021 年 2 月底弃用并停用教育客户验证过程的现有 GET 和 PUT 资格 API](2021-january.md#2)|1 月 5 日|
+|产品/市场|[2021 年 2 月 Dynamics 365 服务](2021-january.md#1)|1 月 4 日|
+| **类别** | **2020 年 12 月公告** | **已公布** |
 |产品|[FY21 H1 使用期未使用的渠道奖励合作营销资金（合作资金）将转存到 H2 使用期](2020-december.md#13)|12 月 22 日|
 |功能|[针对签署 Microsoft 合作伙伴协议 (MPA) 的合作伙伴，DocuSign 将于 2021 年迁移到 Adobe Sign](2020-december.md#12)|12 月 22 日|
 |产品/市场|[2021 年 1 月定价和目录计划](2020-december.md#11)|12 月 22 日|

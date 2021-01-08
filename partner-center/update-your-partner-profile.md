@@ -6,15 +6,15 @@ description: 了解如何验证公司详细信息，例如主要联系人、地�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514701"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666785"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>在合作伙伴中心中验证组织资料
 
@@ -27,7 +27,7 @@ ms.locfileid: "95514701"
 
 合作伙伴配置文件包含法定公司信息、主要联系人名称和电子邮件、公司参与的计划，以及现在合并到法定公司名下的其他公司（如果适用）。 请确保法人资料中的公司名称和地址没有拼写错误和缩写，并且与正式的公司商业注册记录完全一致。 如果以个体经营者的身份运营，则需要将公司名称用作法人名称。
 
-1. 转到“设置”，然后选择“帐户设置” 。
+1. 转到“设置”图标，然后选择“帐户设置” 。
  
 1. 选择“组织资料”。 
 
@@ -65,15 +65,11 @@ ms.locfileid: "95514701"
 
 若要更新与 CSP 帐户关联的 MPN ID：
 
-1. 登录到合作伙伴中心面板。
+1. 登录到合作伙伴中心面板，然后选择“设置”。
  
-1. 从“帐户设置”中选择“组织资料” 。
+1. 从“帐户设置”中选择“标识符” 。
 
-1. 在“关联的 MPNID”旁边，选择“更新” 。
- 
-1. 选择“继续”。 
- 
-1. 添加你的 MPN ID。
+1. 在 CSP 部分下，使用“更新”链接更新与 CSP 帐户关联的 MPN ID 。 
 
 
 ## <a name="update-your-billing-address"></a>更新账单邮寄地址

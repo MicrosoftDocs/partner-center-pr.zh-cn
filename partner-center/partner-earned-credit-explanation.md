@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴赚取的托管服务返点
 ms.topic: article
-ms.date: 11/30/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何计算和支付 Microsoft 合作伙伴赚取的托管服务返点 (PEC)，以及如何确保你有资格赚取它们。
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474302"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622161"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
@@ -30,27 +30,29 @@ ms.locfileid: "96474302"
 
 另请参阅[恢复 Azure CSP 订阅的管理员权限](revoke-reinstate-csp.md)
 
-## <a name="important-eligibility-and-calculation-information"></a>重要的资格和计算信息
+## <a name="eligibility"></a>资格
 
-- 合作伙伴应已签署有效的 MPN 协议并具有有效的 RBAC 角色，才能赚取 Azure 资产管理工作的返点。 
+必须满足以下要求才能收到合作伙伴赚取的返点 (PEC)： 
 
-- 对于间接提供商及其间接经销商，如果间接提供商或/和间接经销商为云解决方案提供商中的客户 Azure 资源提供全天候运营控制和管理，则间接提供商有资格赚取 PEC。
+- 你应已签署有效的 MPN 协议并具有有效的基于角色的访问控制 (RBAC) 角色，才能收到为你管理的 Azure 资产赚取的返点。
 
-- PEC 与云解决方案提供商中由合作伙伴管理的客户 Azure 资产的计费（可收费）消耗量相关联。 PEC 仅适用于 CSP 中由 Microsoft 计费的合作伙伴（间接提供商和直接计费合作伙伴）。 
+- 你必须对客户的 CSP 中的 Azure 资源具有全天候运营控制和管理权限。 这意味着，你必须对客户的 Azure 订阅、Azure 资源组和 Azure 资源具有管理员权限。 对于间接提供商及其间接经销商，如果间接提供商或间接经销商，或者这两者都具有此运营控制，则间接提供商有资格赚取 PEC。 如需了解详细信息，请参阅[恢复 Azure CSP 订阅的管理员权限](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)。
 
-- 符合条件的服务：合作伙伴赚取的返点适用于 Azure 计划消费定价（合作伙伴可从 [Azure 计划定价](https://partner.microsoft.com/commerce/sales)页将其导出）中列出的服务。 
+- 除了上述要求，合作伙伴赚取的返点仅适用于 Azure 计划消费定价中列出的服务，可从[Azure 计划定价](https://partner.microsoft.com/commerce/sales)页面导出此定价。
 
-- 不符合条件的服务：合作伙伴赚取的返点不可用于以下内容：
+- PEC 并不适用于以下服务：
     - Azure 计划预留
-    - 在 Azure 计划消耗价格的“标记”列中被识别为“第三方”的第三方产品    
+    - 在 Azure 计划消费定价的“标记”列中被识别为“第三方”的第三方产品
     - 市场价格列表中的产品
-   - [Azure 现成虚拟机](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
+    - [Azure 现成虚拟机](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中查看。 合作伙伴（间接提供商或间接经销商）必须拥有全天 (24x7) 的访问权限，才可确保赚取 PEC。 PEC 根据所管理的 Azure 资产每日计算一次。 给定计费周期（月份）的 PEC 不超过 15%。 如果合作伙伴针对所有符合条件的资源（访问范围）保留持久性特权访问一整月（范围跨度），他们将获得完整 15% 的 PEC。 范围和跨度变小将导致当月 PEC 比率变低。 无论是否应用了 PEC，针对 Azure 资产，每天都会显示按每日计费的使用量文件。 合作伙伴还可注册接收警报，以检测持久性特权访问是否有变化。
+- 可赚取 PEC 的最低级别为 Azure 资源级别。 如果你在订阅或资源组级别拥有有效的访问权限，则每个资源（包括更高一级的实体）都可以赚取 PEC。
 
-- 可赚取 PEC 的最低级别为 Azure 资源级别。 如果合作伙伴在订阅或资源组级别拥有有效的访问权限，则他们可以赚取该角色直到更高一级实体的资源的 PEC。  
+- 有关 PEC 的详细信息，请参阅 [Azure 成本管理](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners)页面。
 
-- [Azure 成本管理](/azure/cost-management-billing/costs/get-started-partners)中也提供了 PEC 详细信息
+### <a name="calculation"></a>计算
+
+PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中查看。 合作伙伴（间接提供商或间接经销商）必须拥有全天 (24x7) 的访问权限，才可确保赚取 PEC。 PEC 根据所管理的 Azure 资产每日计算一次。 给定计费周期（月份）的 PEC 不超过 15%。 如果合作伙伴针对所有符合条件的资源（访问范围）保留持久性特权访问一整月（范围跨度），他们将赚取全部 PEC (15%)。 范围和跨度变小将导致当月 PEC 比率变低。 无论是否应用了 PEC，针对 Azure 资产，每天都会显示按每日计费的使用量文件。 合作伙伴还可以注册接收警报，以监视对持久性特权访问的更改。
 
 ## <a name="azure-cost-management"></a>Azure 成本管理
 
@@ -66,10 +68,10 @@ ms.locfileid: "96474302"
 
 4. 在数据透视图的下拉菜单中选择 PartnerEarnedCreditApplied，以查看应用了 PEC 的成本。 如果 PartnerEarnedCreditApplied 属性为 True，则表示关联的成本享有合作伙伴赚取的返点的权益。 
 
-如果 PartnerEarnedCreditApplied 属性为 False，则表示关联的成本不满足所需的返点条件，或者购买的服务不符合合作伙伴赚取的返点条件。
+   如果 PartnerEarnedCreditApplied 属性为 False，则表示关联的成本不满足所需的返点条件，或者购买的服务不符合合作伙伴赚取的返点条件。
 
->[!NOTE] 
->通常情况下，服务的使用情况在 8-24 小时后才会出现在“成本管理”中，PEC 额度自访问时间起 48 小时内显示在“Azure 成本管理”中。
+   >[!NOTE] 
+   >通常情况下，服务的使用情况在 8-24 小时后才会出现在“成本管理”中，PEC 额度自访问时间起 48 小时内显示在“Azure 成本管理”中。
 
 5. 还可以使用“分组依据和添加”筛选器功能按 PartnerEarnedCreditApplied 属性进行分组和筛选，从而深入分析享有 PEC 权益的成本以及没有应用 PEC 的成本 。
 
