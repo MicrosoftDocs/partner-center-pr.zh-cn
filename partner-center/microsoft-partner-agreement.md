@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514762"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916824"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -50,7 +50,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>确认你已注册为 CSP 间接经销商
 
-1. 如果你尚未在合作伙伴中心注册为 [CSP 间接经销商](enrolling-in-the-csp-program.md)，则需要先注册。 在合作伙伴中心注册为 CSP 间接经销商后，完成其余步骤。
+1. 如果你尚未在合作伙伴中心注册为 [CSP Indirect Reseller](indirect-reseller-tasks-in-partner-center.md)，则需要先注册。 在合作伙伴中心注册为 CSP 间接经销商后，完成其余步骤。
 
 1. 使用 CSP 全局管理员帐户凭据登录到合作伙伴中心。
 
