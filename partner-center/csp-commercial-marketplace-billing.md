@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000421"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979526"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 
-**适用于**
-
-- 合作伙伴中心
-- 云解决方案提供商计划中的合作伙伴
 
 **相应的角色**
 
@@ -95,7 +91,7 @@ CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解�
 
 ### <a name="tips-on-reading-your-reconciliation-file"></a>有关读取对帐文件的提示
 
-**定期和一次性采购**对帐文件包含多个列，其中包含映射到发票中的费用的其他详细信息。 **PublisherName**列显示购买是来自 Microsoft 还是第三方 ISV 发布者。
+**定期和一次性采购** 对帐文件包含多个列，其中包含映射到发票中的费用的其他详细信息。 **PublisherName** 列显示购买是来自 Microsoft 还是第三方 ISV 发布者。
 
 对帐文件的某些费用可能会显示为 $0。 这可能是由于 ISV "免费试用版" 产品/服务 (通常为30或60天) 或自带许可提供。
 

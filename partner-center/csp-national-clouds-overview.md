@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000381"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979560"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>适用于作为 CSP 计划的一部分在 Microsoft 国家标准云中销售
+
+**适用于**
+
+- Microsoft 政府云合作伙伴中心
+- Microsoft 云德国的合作伙伴中心
+
+
+**相应的角色**
+
+- 全局管理员
 
 除了向全球云解决方案提供商计划中的客户进行销售之外，合格的 Microsoft 合作伙伴还可以在三个单独的国家云中向客户销售云解决方案。 国家云是物理和逻辑网络隔离的 Microsoft 企业云服务实例，它们被限制在特定的国家/地区地理边界内，并由本地人员运营。 
 
@@ -24,7 +34,7 @@ ms.locfileid: "91000381"
 
 Microsoft 可在国家云中提供以下服务：
 
--   Microsoft Azure 范围内服务提供超大规模的计算、存储、网络和身份管理。 Azure 按照政府要求的安全、隐私、控制、合规性和透明度级别来保护云中的数据。
+-   Microsoft Azure 作用域内服务提供超大规模计算、存储、网络和标识管理。 Azure 按照政府要求的安全、隐私、控制、合规性和透明度级别来保护云中的数据。
 
 -   Microsoft Dynamics 365 是基于云的客户关系管理 (CRM) 解决方案，可以为政府工作人员提供数据报告、建模和工作流，同时提供可限制访问敏感数据的安全功能。
 
@@ -49,3 +59,7 @@ Microsoft 可在国家云中提供以下服务：
     Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营、提供和管理 Microsoft 云服务的交付。 通过授权 Microsoft 技术，世纪互联可以提供 Azure 和 Office 365 服务，并运营将数据保存在中华人民共和国的 Azure 和 Office 365 数据中心。 世纪互联还提供订阅和计费服务以及支持。
 
     有关如何注册以及在中国世纪互联运营的 Azure 和 Office 365 中向客户进行销售的信息，请参阅[由世纪互联运营的合作伙伴中心](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))。
+
+## <a name="next-steps"></a>后续步骤
+
+- [有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答](faq-for-us-govt-cloud.md)

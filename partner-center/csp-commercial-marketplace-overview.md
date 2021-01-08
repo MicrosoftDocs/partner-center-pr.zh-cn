@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038823"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979441"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心内的商业市场概述
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
-- 云解决方案提供商计划中的合作伙伴
+- 全局管理员
 
 作为云解决方案提供商提供的合作伙伴 (CSP) 计划允许您将 Microsoft 产品以及由第三方独立软件供应商发布的解决方案（ (Isv) ）捆绑在一起。 以这种方式捆绑解决方案使您能够更好地为最终客户提供服务并发展您的 CSP 服务业务。
 
