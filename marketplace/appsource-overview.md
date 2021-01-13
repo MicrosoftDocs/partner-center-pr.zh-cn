@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771686"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146381"
 ---
 # <a name="what-is-microsoft-appsource"></a>什么是 Microsoft AppSource？
 
@@ -48,7 +48,18 @@ AppSource 中的每个产品都已根据特定条件进行了认证。 我们仍
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>发现 SaaS 和 M365 集成应用
 
-我们的合作伙伴可以在 SaaS 和 M365 集成的应用之间进行链接。 这样，你就可以在获取链接的 SaaS 应用时下载和使用集成的应用。 在这种情况下，搜索结果可能只返回 SaaS 应用，其中显示了其附带的集成应用的图标。 你可以在每个的产品详细信息页上的 SaaS 应用和集成应用之间导航。 如果 SaaS 应用需要购买，请参阅 [如何购买 saas 产品/服务 Microsoft AppSource](purchase-software-appsource.md)。
+我们的合作伙伴可以在 SaaS 应用程序与 Microsoft 365 的相应加载项之间进行链接。 这样，当你获取与外接程序链接的 SaaS 应用时，你可以从特定 Microsoft 365 服务或产品下载并使用加载项。
+
+在这种情况下，搜索结果可能只返回 saas 应用产品卡上带有对应外接程序产品图标的 SaaS 应用。 可以在 SaaS 应用程序和集成应用的产品详细信息页面之间导航。
+
+如果要查找独立外接程序，可以通过以下方式之一找到它们：
+
+- 访问 [AppSource 产品目录](https://appsource.microsoft.com/marketplace/apps/)，然后在左侧导航栏中的 " **产品** " 下，选择 **Microsoft 365**"。 从 " **Microsoft 365** 下显示的产品列表中，选择所需产品的框。
+- 或者选择 "SaaS 应用程序产品卡" 中的 "外接程序" 产品图标，以跳到已从搜索显示中隐藏的特定外接程序。
+
+如果 SaaS 应用需要购买，请参阅 [如何购买 saas 产品/服务 Microsoft AppSource](purchase-software-appsource.md)。
+
+Microsoft 365 管理员用户可以在单一位置部署 SaaS 和外接程序。 若要了解详细信息，请参阅 [测试和部署 Microsoft 365 应用-Microsoft 365 管理员](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)。
 
 ## <a name="find-ratings-and-reviews"></a>查找评级和评论
 
