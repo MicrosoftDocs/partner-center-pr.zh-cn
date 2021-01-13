@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514707"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105522"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
-**适用于**
+**相应的角色**
 
-- 云解决方案提供商计划中的直接计费合作伙伴
+- 全局管理员
 
 ## <a name="enroll-as-a-direct-partner"></a>注册为直接合作伙伴
 
-作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2020 年 10 月 27 日起，我们已更新直接计费合作伙伴的注册要求。 这些要求将有助于你利用合适的云解决方案提供商模式加速业务发展，并利用增值服务和支持增强客户关系。  
+作为直接计费合作伙伴，你与客户和 Microsoft 之间存在端到端的关系。 从 2020 年 10 月 27 日起，我们已更新直接计费合作伙伴的注册要求。 这些要求将有助于你利用合适的云解决方案提供商模式加速业务发展，并利用增值服务和支持增强客户关系。  
 
 ### <a name="minimum-requirements"></a>最低要求
 

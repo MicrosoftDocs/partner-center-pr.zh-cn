@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040984"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062427"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "98040984"
 
 | **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
+|产品/市场|[印度卢比商业定价更新](2021-january.md#6)|1 月 8 日|
+|产品/市场|[2021 年 2 月 1 日通话套餐和电话系统更新](2021-january.md#5)|1 月 8 日|
 |产品/市场|[2021 年 1 月基于许可证的价格列表更新](2021-january.md#4)|1 月 8 日|
 |新式工作区|[EU/EFTA 针对新商务套餐的合作伙伴计费货币更改](2021-january.md#3)|1 月 7 日|
 |功能|[将于 2021 年 2 月底弃用并停用教育客户验证过程的现有 GET 和 PUT 资格 API](2021-january.md#2)|1 月 5 日|
