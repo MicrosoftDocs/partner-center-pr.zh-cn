@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389299"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182318"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>合作伙伴见解-常见问题
 
@@ -26,15 +26,15 @@ ms.locfileid: "97389299"
 
 问： **我在合作伙伴中心帐户中看不到 "Insights 中心") 。我该怎么办？**
 
-) 确保你已登录到组织的 MPN 帐户。 不能从 CSP 帐户访问 Insights 仪表板。 此外，请确保你的全局管理员已提供报表查看器或执行报表查看器角色访问权限。 有关角色的详细信息，请参阅 [此文](https://docs.microsoft.com/partner-center/pci-roles)。
+) 确保你已登录到组织的 MPN 帐户。 不能从 CSP 帐户访问 Insights 仪表板。 此外，请确保你的全局管理员已提供报表查看器或执行报表查看器角色访问权限。 有关角色的详细信息，请参阅 [此文](./pci-roles.md)。
 
 问) ： **我在我的报表中看不到 (ACR) 数据的计费收入或 Azure 消耗收入。为什么要这样做呢？**
 
-) 计费的收入和 ACR 数据仅适用于执行报表查看者的用户。  有关角色的详细信息，请参阅 [此文](https://docs.microsoft.com/partner-center/pci-roles)。
+) 计费的收入和 ACR 数据仅适用于执行报表查看者的用户。  有关角色的详细信息，请参阅 [此文](./pci-roles.md)。
 
 问) ： **我在我的报表中看不到 (ACR) 数据的计费收入或 Azure 消耗收入。为什么要这样做呢？**
 
-) 计费的收入和 ACR 数据仅适用于执行报表查看者的用户。 有关角色的详细信息，请参阅 [此文](https://docs.microsoft.com/partner-center/pci-roles)。
+) 计费的收入和 ACR 数据仅适用于执行报表查看者的用户。 有关角色的详细信息，请参阅 [此文](./pci-roles.md)。
 
 问) **报告给我的客户的国家/地区似乎不正确。为什么要这样做呢？**
 

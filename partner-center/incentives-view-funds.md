@@ -1,5 +1,5 @@
 ---
-title: 查看可用的合作基金
+title: 查看可用的合作资金
 ms.topic: article
 ms.date: 01/03/2021
 description: 了解如何查看您的挣、宣称和剩余的合作基金，查看到期日期并协调不一致的金额。
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864320"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182505"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>查看可用的挣、报销和剩余的合作基金
 
@@ -34,7 +34,7 @@ ms.locfileid: "97864320"
 
 4. 若要查看所选时间段内提交的所有声明，请滚动到页面底部。
 
-如果您认为在 "摘要" 中显示的数量存在差异，则可以从上一期下载交易报告。 此报表可帮助您确定所选使用时间段的合作基金量。 若要下载事务报表，或验证提交的声明以确保剩余的合作基金金额准确，请参阅 [事务历史记录](/partner-center/payout-statement#transaction-history)。
+如果您认为在 "摘要" 中显示的数量存在差异，则可以从上一期下载交易报告。 此报表可帮助您确定所选使用时间段的合作基金量。 若要下载事务报表，或验证提交的声明以确保剩余的合作基金金额准确，请参阅 [事务历史记录](./payout-statement.md#transaction-history)。
 
 如果仍有问题协调金额，或者某些合作基金未显示，可以打开支持票证。 为此，请选择页面右上角的问号图标，然后选择 " **激励**"。
 

@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007133"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182522"
 ---
 # <a name="what-is-azure-marketplace"></a>什么是 Azure 市场？
 
@@ -59,11 +59,11 @@ Azure Marketplace 中的每个列表都支持下列一项或多项操作：
 - 信用卡
 - 与现有的 Microsoft 采购协议 (发票) 
 
-Azure Marketplace 购买会自动添加到 Azure 帐单，并按与帐户关联的付款方式收费。 有关关联不同付款帐户的帮助，请参阅在 **Azure 外部费用** 主题中 [查看计费帐户类型](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type)。
+Azure Marketplace 购买会自动添加到 Azure 帐单，并按与帐户关联的付款方式收费。 有关关联不同付款帐户的帮助，请参阅在 **Azure 外部费用** 主题中 [查看计费帐户类型](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type)。
 
 ## <a name="certification-and-security"></a>认证和安全
 
-Azure Marketplace 中提供的每个产品都已根据特定条件进行了认证。 我们仍鼓励您仔细检查每个产品以确保它满足组织的独特要求。 若要了解我们针对每种产品/服务类型查看的认证策略，请参阅商业市场 [认证策略](https://docs.microsoft.com/legal/marketplace/certification-policies)。
+Azure Marketplace 中提供的每个产品都已根据特定条件进行了认证。 我们仍鼓励您仔细检查每个产品以确保它满足组织的独特要求。 若要了解我们针对每种产品/服务类型查看的认证策略，请参阅商业市场 [认证策略](/legal/marketplace/certification-policies)。
 
 ## <a name="terms-and-conditions"></a>条款和条件
 

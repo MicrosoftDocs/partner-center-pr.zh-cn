@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691344"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182488"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>获取、预配、& 为客户 (RI) + 服务器订阅中管理 Azure 保留 VM 实例
 
@@ -47,7 +47,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 
 由于有说服力的定价和无与伦比的部署灵活性，客户在选择 Azure 预留时将看到最佳的总体价值。
 
-- 请参阅 Azure 门户上的 [购买预留](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) 。
+- 请参阅 Azure 门户上的 [购买预留](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) 。
 
 - 请参阅 " **AZURE RI CSP** " 的 " **Microsoft Azure 预订实例** " 类别下的 " [定价和产品/服务](https://partner.microsoft.com/dashboard/sell/pricingandoffers) " 一类
 
@@ -69,24 +69,24 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 
 1. 查看并了解 [合作伙伴中心的新商务操作指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)。
 
-2. 了解 [合作伙伴中心 API (API/SDK) ](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)中 Azure 保留和服务器订阅的更新。
+2. 了解 [合作伙伴中心 API (API/SDK) ](/partner-center/develop/purchase-azure-reserved-vm-instances)中 Azure 保留和服务器订阅的更新。
 
 
 ### <a name="sales-readiness"></a>销售准备情况
 
 - [远程桌面服务 (RDS) 客户端访问许可证 (CAL)  (公告) ](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure 保留 VM 实例 (Azure 门户) ](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure 保留 VM 实例 (Azure 门户) ](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [服务器订阅](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [服务器订阅](./csp-software-subscriptions.md)
 
-- [SQL DB 保留 (Azure 门户) ](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB 保留 (Azure 门户) ](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure 门户) ](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure 门户) ](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL 托管实例 (Azure 门户) ](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL 托管实例 (Azure 门户) ](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE 和 Red Hat Enterprise Linux (Azure 门户) ](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE 和 Red Hat Enterprise Linux (Azure 门户) ](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Azure 上的 Red Hat Linux](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 
 - [Azure 定价计算器](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks 单位预订](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks 单位预订](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>培训
@@ -114,7 +114,7 @@ Azure 预订为客户提供了一系列计算解决方案的灵活性，包括�
 
 - CSP 中的 Azure 预订概述 (可能为 2018) 
 
-## <a name="operations"></a>Operations
+## <a name="operations"></a>操作
 
 [合作伙伴中心新的商业运营指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)：涵盖重要策略和操作方面的综合指南，其中包含协议、按合作伙伴中心、发票、价目表详细信息、奖励、协调文件、API/SDK、沙箱和 Azure 合作伙伴共享服务等。
 

@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105540"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182421"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>在合作伙伴中心帐户中添加和管理多个租户
 
@@ -22,6 +22,7 @@ ms.locfileid: "98105540"
 **相应的角色**
 
 - 全局管理员
+- 帐户管理员
 
 可以通过此功能管理公司的多个租户，并将其合并到合作伙伴中心帐户中。 出于许多原因，你可能需要在合作伙伴中心帐户中管理多个 Azure AD 租户。 例如：
 
