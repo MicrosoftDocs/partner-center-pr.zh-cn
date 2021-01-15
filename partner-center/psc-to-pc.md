@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950580"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215945"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950580"
 -  (PSC) 管理员的合作伙伴销售连接
 - 合作伙伴销售连接 (PSC) 交易经理
 
-本文介绍从合作伙伴销售连接到合作伙伴中心的合作伙伴迁移，以便他们能够继续在合作伙伴中心创建和管理共同销售交易。
+本文为从合作伙伴销售连接迁移到合作伙伴中心的合作伙伴提供了指导，使他们能够继续在合作伙伴中心创建和管理共同销售交易。
 
 正如您所知，在2021年3月31日之后，您的公司将失去访问 PSC 的权限。 不过，您仍可以在合作伙伴中心找到要执行的所有操作，例如创建共同销售交易、管理您的交易，以及通过 Microsoft 卖方发送给您的交易。
 
@@ -353,7 +353,6 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 
 ## <a name="next-steps"></a>后续步骤
 
-请遵循以下其他资源：
 
 - [合作伙伴销售连接到合作伙伴中心工作簿](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -工作簿，通过合作伙伴中心与合作伙伴销售连接将合作伙伴的销售流程和角色与新的销售流程进行协调。
 - [合作伙伴中心共同销售操作指南](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -通过合作伙伴中心识别运营模型以管理潜在客户或共同销售机会并注册交易的指导。

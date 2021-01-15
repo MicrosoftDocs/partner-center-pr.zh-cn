@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949325"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215928"
 ---
-# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>为你的客户提供计费支持，并帮助解答其计费问题
+# <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>为客户提供计费支持并帮助解答计费问题
 
-**适用于**
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
+
 - 全局管理员
 - 用户管理员
 - 支持人员代理
 - 计费管理员
 - 销售代理
 
-你与你的客户之间存在计费关系，你负责回答客户的计费相关问题。
+你拥有与客户的计费关系，并负责回答你的客户可能遇到的与计费相关的问题。
 
-- 你负责按时向 Microsoft 付款。
+- 你负责向 Microsoft 付款。
 
 - 我们建议你与客户建立清晰的收集策略，并详细说明你的收集过程以及对客户订阅、服务或软件的访问权限何时会受到影响。
 
@@ -49,9 +46,9 @@ ms.locfileid: "85949325"
 
 合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
 
-- **商业**问题支持可用于云解决方案提供商计划中的所有合作伙伴
+- **商业** 问题支持可用于云解决方案提供商计划中的所有合作伙伴
 
-- **技术**问题支持通过以下方式提供：
+- **技术** 问题支持通过以下方式提供：
 
   - 合作伙伴顶级支持（收费）
   - 合作伙伴高级支持（收费）
@@ -59,11 +56,14 @@ ms.locfileid: "85949325"
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 
 
-对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详情，请参阅：
+对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参见:
 
 - [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [通过云解决方案提供商销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [通过云解决方案提供商销售的 Office 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>后续步骤
+
+- [提供技术支持](provide-technical-support.md)

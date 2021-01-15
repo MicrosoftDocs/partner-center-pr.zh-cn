@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302283"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215741"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>使用适用于 Microsoft Power BI 的合作伙伴中心分析应用查看你的业务数据
 
-**适用于**
 
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -62,7 +60,7 @@ ms.locfileid: "86302283"
 
 - **新客户(最近 30 天)**：最近 30 天内购买至少一个订阅的新客户
 
-- ** (过去30天) 的改动**：不含任何 "活动"、"宽限期" 或 "已禁用" 订阅的客户
+- **(过去30天) 的改动**：不含任何 "活动"、"宽限期" 或 "已禁用" 订阅的客户
 
 - **新客户(最近 24 小时)**：最近 24 小时内购买至少一个订阅的新客户
 
