@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916824"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105505"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -54,7 +54,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 1. 使用 CSP 全局管理员帐户凭据登录到合作伙伴中心。
 
-1. 在“设置”中选择[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
+1. 从“设置”中，选择“帐户设置”，然后选择[合作伙伴个人资料](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) 。
 
 1. 查看“计划信息”部分。 如果信息未显示“间接经销商”状态，则需[注册为间接经销商](indirect-reseller-tasks-in-partner-center.md)。
 
@@ -80,6 +80,10 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 >[!NOTE]
 >只有公司的全局管理员才能查看并签署 MPA。 如果你不是全局管理员，则需要让全局管理员来验证 MPA。
 
+还可以从“帐户设置”中选择“协议”，查看是否已为协议签名 。
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="MPA 已签名的指示":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>下载适用于你目前状况的分布指南
 
@@ -91,4 +95,4 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
  
 ## <a name="next-steps"></a>后续步骤
 
-- [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
+- [注册云解决方案提供商计划](indirect-reseller-tasks-in-partner-center.md)

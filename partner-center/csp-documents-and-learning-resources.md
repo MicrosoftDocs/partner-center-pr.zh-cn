@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120051"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979686"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
@@ -77,3 +77,8 @@ ms.locfileid: "87120051"
 对于使用 Crest Usage Record API 的云解决方案提供商合作伙伴，Microsoft 还在“定价和套餐”页面上发布了云解决方案提供商计划中 Azure 服务的列表。
 
 若要了解独立软件供应商  (ISV) 发布的 Azure 市场套餐，请访问左侧导航菜单中的“市场”页面。 目前，只能在合作伙伴中心购买 SaaS（软件即服务）产品类型。 需要访问 Azure 门户才能获取其他类型的 Azure 市场套餐。
+
+## <a name="next-steps"></a>后续步骤
+
+- [详细了解 Microsoft 合作伙伴协议](microsoft-partner-agreement.md)
+- [注册云解决方案提供商计划](enrolling-in-the-csp-program.md)
