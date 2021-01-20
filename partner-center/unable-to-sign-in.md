@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9458c2dc320851877f77d8a142974715f1b2521
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000581"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584194"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>如果无法登录到合作伙伴中心并需要重置密码
 
@@ -23,6 +23,8 @@ ms.locfileid: "91000581"
 - 合作伙伴中心用户
 
 如果你忘记了密码，但无法登录到合作伙伴中心，则需要联系支持人员。 在 [支持业务产品](/microsoft-365/admin/contact-support-for-business-products)时查找相应的联系人。 
+
+如果你是 MPN 合作伙伴或 CSP 间接经销商，则可以要求间接提供商为你在 Azure AD 租户上创建新的全局管理员，或者使用其委派的管理员权限创建新密码。 
 
 有关如何重置密码和重新获得工作帐户访问权限的不同方法，请阅读 [使用安全信息重置工作或学校密码](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)。
 

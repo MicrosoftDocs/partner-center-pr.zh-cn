@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182471"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584205"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 购买
 
@@ -60,6 +60,20 @@ Microsoft 允许你通过计费配置文件以 Azure 订阅管理员的身份来
 你可以在 Azure 成本管理下的成本分析工具上查看你的 Azure 市场费用和发票。
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="使用 Azure 成本管理获取所购买产品的见解。":::
+
+## <a name="purchase-validation-checks"></a>购买验证检查
+
+出于不同的原因，通过 Azure Marketplace 购买产品/服务可能会失败。 使用命令行界面 (适用于购买的 CLI) 更有可能会导致错误，因为你可能尝试购买在 Azure Marketplace 中不可用或不可见的产品/服务。 下面是可能导致购买失败的检查：
+
+1. 订阅属于企业协议 (EA) ，EA 管理员已禁用 Azure Marketplace 购买。
+1. EA 管理员只为免费产品/服务启用购买，产品/服务是付费产品/服务。
+1. 在 marketplace 中找不到该产品/服务。
+1. 独立软件供应商 (ISV) 至少在你的所在地区停止销售该产品/服务。
+1. 你使用的订阅属于该产品/服务不可用的区域中的计费帐户。
+1. 订阅/计费帐户未与有效付款方式关联 (例如有效的信用卡) 。
+1. 订阅属于云解决方案提供商 (CSP) 并且 ISV 拒绝通过 CSP 进行销售。
+1. 为订阅启用了专用市场，产品/服务不在允许的产品/服务列表中。
+1. 产品/服务是特定客户的专用/预览，订阅不在允许的客户列表中。
 
 ## <a name="next-steps"></a>后续步骤
 
