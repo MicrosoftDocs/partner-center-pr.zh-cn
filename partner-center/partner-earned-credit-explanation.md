@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622161"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182403"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
@@ -36,7 +36,7 @@ ms.locfileid: "97622161"
 
 - 你应已签署有效的 MPN 协议并具有有效的基于角色的访问控制 (RBAC) 角色，才能收到为你管理的 Azure 资产赚取的返点。
 
-- 你必须对客户的 CSP 中的 Azure 资源具有全天候运营控制和管理权限。 这意味着，你必须对客户的 Azure 订阅、Azure 资源组和 Azure 资源具有管理员权限。 对于间接提供商及其间接经销商，如果间接提供商或间接经销商，或者这两者都具有此运营控制，则间接提供商有资格赚取 PEC。 如需了解详细信息，请参阅[恢复 Azure CSP 订阅的管理员权限](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)。
+- 你必须对客户的 CSP 中的 Azure 资源具有全天候运营控制和管理权限。 这意味着，你必须对客户的 Azure 订阅、Azure 资源组和 Azure 资源具有管理员权限。 对于间接提供商及其间接经销商，如果间接提供商或间接经销商，或者这两者都具有此运营控制，则间接提供商有资格赚取 PEC。 如需了解详细信息，请参阅[恢复 Azure CSP 订阅的管理员权限](./revoke-reinstate-csp.md)。
 
 - 除了上述要求，合作伙伴赚取的返点仅适用于 Azure 计划消费定价中列出的服务，可从[Azure 计划定价](https://partner.microsoft.com/commerce/sales)页面导出此定价。
 
@@ -48,7 +48,7 @@ ms.locfileid: "97622161"
 
 - 可赚取 PEC 的最低级别为 Azure 资源级别。 如果你在订阅或资源组级别拥有有效的访问权限，则每个资源（包括更高一级的实体）都可以赚取 PEC。
 
-- 有关 PEC 的详细信息，请参阅 [Azure 成本管理](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners)页面。
+- 有关 PEC 的详细信息，请参阅 [Azure 成本管理](/azure/cost-management-billing/costs/get-started-partners)页面。
 
 ### <a name="calculation"></a>计算
 

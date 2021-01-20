@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578282"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182369"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>使用多重身份验证来设置用户
 
@@ -39,11 +39,10 @@ ms.locfileid: "97578282"
 :::image type="content" source="images/MFA/securityverification.png" alt-text="指定如何验证":::
 
 >[!NOTE]
->可以强制用户使用 MFA，方法是使用与上面相同的步骤，并选择“强制执行” 。 若要了解详细信息，请参阅[启用每用户 Azure 多重身份验证来保护登录事件](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates)。 
+>可以强制用户使用 MFA，方法是使用与上面相同的步骤，并选择“强制执行” 。 若要了解详细信息，请参阅[启用每用户 Azure 多重身份验证来保护登录事件](/azure/active-directory/authentication/howto-mfa-userstates)。 
 
 所有用户的初始状态都为“已禁用” **** 。 将用户注册到每用户 Azure 多重身份验证中后，用户状态更改为“已启用” **** 。 当已启用的用户登录并完成注册过程后，其状态更改为“已强制执行” **** 。 
 
 ## <a name="next-steps"></a>后续步骤
 
 - [向用户分配角色和权限](permissions-overview.md)
-

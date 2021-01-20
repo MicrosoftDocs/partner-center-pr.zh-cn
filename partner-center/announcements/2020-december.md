@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736528"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182556"
 ---
 # <a name="december-2020-announcements"></a>2020 年 12 月公告
 
@@ -152,7 +152,7 @@ IT 管理员、IT 决策者、首席信息官和最终用户
 **更改的影响**
 
 - 从 2020 年 11 月 30 日起，客户不再能够通过 Internet Explorer 11 连接到 Microsoft Teams Web 应用。 Microsoft 相信，当客户使用[新版 Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3) 时，他们将能够最大程度地利用 Microsoft 365 和新式浏览器的最佳提现。
-- 在 2021 年 3 月 9 日之后，为 Microsoft Edge 旧版创建的应用和网站将继续在新版 Microsoft Edge 中运行，但如果出现兼容性问题，[应用保证承诺](https://aka.ms/appassure)将提供支持。
+- 在 2021 年 3 月 9 日之后，为 Microsoft Edge 旧版创建的应用和网站将继续在新版 Microsoft Edge 中运行，但如果出现兼容性问题，[应用保证承诺](/fasttrack/products-and-capabilities#app-assure)将提供支持。
 - 在 2021 年 8 月 17 日之后，客户会被降级，或者无法通过 Internet Explorer 11 连接到 Microsoft 365 应用和服务。 Microsoft 相信，当客户使用[新版 Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3) 时，他们将能够最大程度地利用 Microsoft 365 和新式浏览器的最佳提现。
 
 ### <a name="next-steps"></a>后续步骤
@@ -280,7 +280,7 @@ ______________
 
 - 将在合作伙伴中心重新发布 CSP 永久性软件价目表。 可在[“销售”>“定价和产品/服务”](https://partnercenter.microsoft.com/pcv/sales)页面的“软件”部分查找此信息，其中还包含附加产品和服务区域。 有关完整的详细信息，请参阅[此处](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)。
 
-- 合作伙伴中心软件和许可证密钥履行功能将被停用（请参阅[公告](https://docs.microsoft.com/partner-center/announcements/2020-september#17)），合作伙伴将只能使用 Microsoft 365 管理中心来实现此目的。 这将确保为客户提供超级安全和高效的体验。 若要详细了解 Microsoft 365 管理中心软件，可查看[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)。
+- 合作伙伴中心软件和许可证密钥履行功能将被停用（请参阅[公告](./2020-september.md#17)），合作伙伴将只能使用 Microsoft 365 管理中心来实现此目的。 这将确保为客户提供超级安全和高效的体验。 若要详细了解 Microsoft 365 管理中心软件，可查看[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)。
 
 ### <a name="perpetual-software-in-csp"></a>CSP 中的永久性软件
 
@@ -292,7 +292,7 @@ ______________
 
 - 在 2021 年 1 月 19 日添加的 [CSP 永久性软件产品和服务区域](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 
-- Microsoft 365 管理中心[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 管理中心[概述](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[常见任务](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)和[许可证密钥履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - [为云解决方案提供商计划中的合作伙伴拓展机会](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)（合作伙伴公告）
 
@@ -573,4 +573,4 @@ Microsoft 保留审查任何客户或推荐客户是否属于合格教育用户�
 
 - 2020 年 11 月 10 日：提醒注册参加测试 
 
-- 2020 年 12 月 3 日：API 更新上线 
+- 2020 年 12 月 3 日：API 更新上线

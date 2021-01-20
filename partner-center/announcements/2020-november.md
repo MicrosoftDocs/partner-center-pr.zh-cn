@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439089"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182539"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -40,7 +40,7 @@ Microsoft 正在向云解决方案提供商计划中的合作伙伴引入在合�
 
 ### <a name="details"></a>详细信息
 
-Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间接提供商和直接计费合作伙伴）引入在合作伙伴中心通过 [使用量计费的方式](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) 购买 SaaS 产品/服务的功能。 如今，云解决方案提供商计划的合作伙伴可以通过 Azure 门户查看 SaaS 服务/产品以及 [通过按使用量计费的方式进行购买](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)。 借助这种新体验，合作伙伴可以通过合作伙伴中心的 CSP 商城和 API 购买这些产品/服务，方式与购买其他 SaaS 产品/服务类型一样。 
+Microsoft 正在向云解决方案提供商计划中的合作伙伴（包括间接提供商和直接计费合作伙伴）引入在合作伙伴中心通过 [使用量计费的方式](/azure/marketplace/partner-center-portal/saas-metered-billing) 购买 SaaS 产品/服务的功能。 如今，云解决方案提供商计划的合作伙伴可以通过 Azure 门户查看 SaaS 服务/产品以及 [通过按使用量计费的方式进行购买](../csp-commercial-marketplace-purchase.md)。 借助这种新体验，合作伙伴可以通过合作伙伴中心的 CSP 商城和 API 购买这些产品/服务，方式与购买其他 SaaS 产品/服务类型一样。 
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -309,23 +309,23 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[获取客户的所有订阅](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[根据 ID 获取订阅](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[获取客户的所有订单](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[按 ID 获取订单](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[获取订阅预配状态](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理订单和订阅](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[获取订阅的加载项列表](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[获取订阅的 Azure 权利列表](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[获取订阅注册状态](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[获取客户的所有转让](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[获取产品升级状态](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[获取试用版转换产品/服务的列表](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[获取客户的所有订单](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[按 ID 获取订单](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[获取订阅预配状态](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理订单和订阅](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[获取订阅的加载项列表](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[获取订阅的 Azure 权利列表](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[获取订阅注册状态](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[获取客户的所有转让](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[获取产品升级状态](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[获取试用版转换产品/服务的列表](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-此公告旨在让合作伙伴提早注意到即将进行的更改，从而让他们能够做好准备。 我们强烈建议合作伙伴熟悉这些 API 并考虑使用活动日志 API 来提高效率和避免限制。 有关此功能的更多信息，请在 [API 限制指南](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)中查看详情。 
+此公告旨在让合作伙伴提早注意到即将进行的更改，从而让他们能够做好准备。 我们强烈建议合作伙伴熟悉这些 API 并考虑使用活动日志 API 来提高效率和避免限制。 有关此功能的更多信息，请在 [API 限制指南](/partner-center/develop/api-throttling-guidance)中查看详情。 
 
 ### <a name="next-steps"></a>后续步骤
 
-查看 [API 限制指南](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)并执行必要的步骤。 
+查看 [API 限制指南](/partner-center/develop/api-throttling-guidance)并执行必要的步骤。 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>上下文
 
 - 在今年 2 月份，合作伙伴被要求注册 Microsoft 客户协议 (MCuA)。 这是从之前的 Microsoft 云协议 (MCA) 的迁移。 
-- 作为此项更改的一部分，合作伙伴被要求纳入协议类型参数，如[此处](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)所述。
+- 作为此项更改的一部分，合作伙伴被要求纳入协议类型参数，如[此处](/partner-center/develop/get-confirmation-of-customer-agreement)所述。
 
 ### <a name="what-happened-next"></a>接下来发生的情况：
 

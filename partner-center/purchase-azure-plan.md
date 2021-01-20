@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87810897"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215894"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>为客户购买 Azure 计划并按即用即付费率访问最新的 Azure 服务
 
@@ -26,6 +26,7 @@ ms.locfileid: "87810897"
 根据 Microsoft 客户协议为客户购买 Azure 计划时，可以访问采用即用即付费率的最新 Azure 服务的完整目录。 CSP 合作伙伴现在可以访问正式发布的 Azure 服务。 合作伙伴可以在一个 Azure 计划中包含多个 Azure 订阅。 
 
 ## <a name="countryregion-availability"></a>上市国家/地区
+
 Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 查看这些[国家/地区](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)的完整列表。 
 
 ## <a name="how-to-purchase-azure-plan"></a>如何购买 Azure 计划
@@ -99,7 +100,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 
 将在 Azure 门户中为客户添加订阅并配置资源。 还可以按工作负荷或项目来区分客户的环境。 可以通过 [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) 和 Azure 门户管理订阅。 
 
-若要管理客户的资源和订阅，需要拥有**管理员代表** (AOBO) 特权。 有关管理访问权限的信息，请阅读[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
+若要管理客户的资源和订阅，需要拥有 **管理员代表** (AOBO) 特权。 有关管理访问权限的信息，请阅读[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)
 
 ## <a name="next-steps"></a>后续步骤
 
