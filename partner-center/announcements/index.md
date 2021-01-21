@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: bc85c2537201c3fab95541798932fe1be0a9a231
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560487"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571646"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "98560487"
 
 | **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
+|发展你的业务|[云解决方案提供商计划的永久软件现已正式发布](2021-january.md#11)|1 月 19 日|
+|发展你的业务|[提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制](2021-january.md#10)|1 月 19 日|
 |产品/市场|[2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI)](2021-january.md#9)|1 月 15 日|
 |功能|[针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign](2021-january.md#8)|1 月 15 日|
 |产品/市场|[挪威克朗商业定价更新](2021-january.md#7)|1 月 14 日|
