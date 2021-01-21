@@ -1,7 +1,7 @@
 ---
 title: 了解高级专用化
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解可与现有金牌和银牌能力一起获得的高级专用化。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204013"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658393"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>获得一种高级特殊化来展示您的经验证的功能
 
@@ -45,6 +45,7 @@ Microsoft 针对合作伙伴可以获得的相关 [黄金胜任度](learn-about-
 
 **Azure** 高级专用化包括：
 
+- Microsoft Azure 上的分析
 - 数据仓库到 Microsoft Azure 的迁移
 - Microsoft Azure 上的 Kubernetes
 - Linux 和开源数据库迁移到 Microsoft Azure

@@ -1,7 +1,7 @@
 ---
 title: 适用于高级专用化
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解如何使用合作伙伴中心申请并获得高级专用化。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440038"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658410"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>使用合作伙伴中心应用于高级专用化并检查其状态
 
@@ -60,20 +60,21 @@ ms.locfileid: "96440038"
 
 需要对第三方审核员进行审核的高级专用化包括：
 
-- 数据仓库迁移到 Microsoft Azure
+- Microsoft Azure 上的分析
+- 数据仓库到 Microsoft Azure 的迁移
 - Microsoft Azure 上的 Kubernetes
-- Linux 和开源数据库迁移到 Microsoft Azure
+- Linux 和开源数据库到 Microsoft Azure 的迁移
 - Microsoft Windows 虚拟桌面
-- 要 Microsoft Azure 的 Web 应用程序的现代化
-- Windows Server 和 SQL Server 迁移到 Microsoft Azure
+- Web 应用程序到 Microsoft Azure 的现代化
+- Windows Server 和 SQL Server 到 Microsoft Azure 的迁移
 
 需要客户参考的高级专用化包括：
 
-- 采用和更改管理
-- 为 Microsoft 团队打电话
+- 采用和变更管理
+- 调用 Microsoft Teams
 - Microsoft 团队的会议和会议室
 - Azure 上的 SAP
-- 团队部署
+- 团队合作部署
 - 标识和访问管理
 - 威胁防护
 
