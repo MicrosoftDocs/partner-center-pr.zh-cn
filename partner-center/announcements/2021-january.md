@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062444"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571663"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -23,6 +23,207 @@ ms.locfileid: "98062444"
 2021 公告：1 月
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
+
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a>云解决方案提供商计划的永久性软件现已正式发布
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-19
+- 发展你的业务
+
+### <a name="impacted-audience"></a>影响受众
+
+所有云解决方案提供商计划合作伙伴
+
+### <a name="details"></a>详细信息
+
+正如今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我们非常高兴地通知你商业永久性软件许可证现已正式发布，供所有 CSP 合作伙伴销售。 合作伙伴中心 CSP 永久性软件价目表已重新发布，现在包括新增的产品和地理位置。
+
+另请注意，从今天开始，合作伙伴中心软件和许可证密钥履行功能已停用，今后合作伙伴和客户应使用 Microsoft 365 管理中心来实现此目的。
+请参阅下面的详细信息和后续步骤。
+
+### <a name="next-steps"></a>后续步骤
+
+- 在合作伙伴中心[定价和产品/服务](https://partnercenter.microsoft.com/en-us/pcv/sales)页面的“软件”部分，下载 CSP 永久性软件价目表 。 可在[此处](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新添加的产品和地理位置的列表。
+- 查看[“Microsoft 365 管理中心永久性软件和产品许可证密钥下载操作”一文](https://go.microsoft.com/fwlink/p/?linkid=2152525)，并在客户准备下载软件和许可证密钥时，与其分享此文。
+- 查看[云解决方案提供商计划中的永久性软件](https://partner.microsoft.com/resources/collection/software-in-csp#/)就绪性材料。 请使用此[就绪性地图](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)快速找到适合你的角色的信息。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> 提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制 
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-19
+- 发展你的业务
+
+### <a name="summary"></a>总结
+
+Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴  
+
+### <a name="details"></a>详细信息
+
+从 2021 年 2 月起，Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。 该项限制约束某个时段内对某服务的请求数，以防止过度使用资源。 超出限制阈值时，合作伙伴中心会在一段时间内限制来自该客户端的任何后续请求。
+  
+合作伙伴权益：合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制将使所有合作伙伴都保持最佳性能和可靠性。  
+
+- 该项限制可确保停机时间最短。
+- 该项限制可减少大容量请求的数量，有助于确保所有合作伙伴的性能一致。
+
+**要受限制的 API：**
+
+| Operation | 合作伙伴中心文档 |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [根据 ID 获取订阅](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [获取所有客户订单](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [按 ID 获取订单](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [获取订阅预配状态](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [管理订单和订阅](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [获取订阅的加载项列表](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [获取订阅的 Azure 权利列表](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [获取订阅注册状态](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [获取客户的所有转让](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [获取产品升级状态](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [获取试用版转换产品/服务的列表](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+我们强烈建议合作伙伴考虑使用活动日志 API 来提高效率和避免限制。 如需详细了解此功能，请在 [此处](/partner-center/develop/api-throttling-guidance)查看详细信息。  
+
+### <a name="next-steps"></a>后续步骤
+
+查看本主题的 [资源](/partner-center/develop/api-throttling-guidance) ，并采取必要的步骤。  
+
+_____________
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI) 
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-15
+- 产品/市场
+
+### <a name="summary"></a>摘要
+
+若干 Microsoft 365 功能发布将包含在 1 月的价目表预览中，并将于 2021 年 2 月 1 日提供。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[适用于政府的 Microsoft 365 G5 合规性组件 SKU](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+我们将为政府社区云 (GCC) 和 GCC High 客户推出三个新的组件产品/服务（将从 2021 年 2 月 1 日起发布）。 这些 SKU 将等效于现已在商业版中提供的 Microsoft 365 E5 信息保护和管控、M365 E5 内部风险管理和 Microsoft 365 E5 电子数据展示和审核。 
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |适用于 GCC 的 Microsoft 365 E5 信息保护和管控|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |适用于 GCC 的 Microsoft 365 E5 电子数据展示和审核|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |适用于 GCC 的 Microsoft 365 E5 内部风险管理|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |适用于 GCC 的 Microsoft 365 E5 信息保护和 DLP（加载项）|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[10 年审核日志保留加载项](/microsoft-365/compliance/)
+
+以 Microsoft 365 E5 为先决条件的加载项使客户能够将数据保存 10 年。 
+
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |适用于 EDU 的 10 年审核日志保留加载项|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10 年审核日志保留加载项|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>一线员工加载项
+
+从 2021 年 2 月 1 日开始，客户可以为一线员工购买三个新的安全性和合规性程序化产品/服务（作为 [Microsoft 365 F1 和 F3 SKU](https://www.microsoft.com/microsoft-365/firstline-workers) 的加载项）。
+
+这些程序化产品/服务将取代当前的[安全性和合规性](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx)提升（该提升将于 2021 年2 月 28 日到期）。 与当前的提升不同，F5 加载项使客户在一线员工不断增加的情况下具有更强的预测能力。
+
+   
+   |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 安全性|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5 合规性|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 安全性和合规性|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>后续步骤
+
+查看价目表预览，并与组织中相关的利益干系人共享。 有关详细信息，请访问 [Microsoft 安全性与合规性 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance)。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果对这些产品/服务有任何进一步的问题，请访问相关的 Yammer 社区。 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign 
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-15
+- 功能
+
+### <a name="summary"></a>摘要
+
+Microsoft 会将所有电子签名处理从 DocuSign 转移到 Adobe Sign。
+
+### <a name="impacted-audience"></a>影响受众
+
+MPA 下的现有直接和间接云解决方案提供商 (CSP) 合作伙伴。 乌克兰、俄罗斯和哈萨克斯坦的合作伙伴需要每年以物理方式或电子方式对 Rider 进行重新签名。
+
+### <a name="details"></a>详细信息
+
+2021 年 2 月，Microsoft 会针对 CSP 合作伙伴将所有电子签名处理从 DocuSign 转移到 Adobe Sign。 
+
+你也希望实现顺利的转移。 迁移后，每当需要你的电子签名时，你都将收到一封来自 adobesign@adobesign.com（而不是 DocuSign）的电子邮件。 此电子邮件将提供一个指向你将需要签名的 Adobe Sign 网页的链接。 Microsoft 合作伙伴将不必重新签署现有协议，只需签署未来的渠道协议。 
+
+可在[资源库](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 签名请求电子邮件的示例。 
+
+**如果要获得最佳体验，请确保执行以下操作：**
+
+1. 将 adobesign@adobesign.com 添加到安全发件人列表，以避免来自此帐户的电子邮件直接进入垃圾邮件文件夹。
+2. 与 IT 部门协作，以执行以下操作：
+   - 将 adobesign@adobesign.com 电子邮件地址添加到安全发件人列表中，确保它未包含在任何预先建立的钓鱼规则中。
+   - 更新现有安全策略，确保所有必要的收件人都可以对你的 Adobe Sign 企业许可证下的文档签名。
+
+Adobe Sign 是 Microsoft 首选的电子签名解决方案 (ESS)。 转移到 Adobe Sign 可确保一个安全、有效的电子签名体验，为客户和合作伙伴创造更大的价值。
+
+如需详细了解如何以电子方式对文档和电子签名委托签名，请参阅以下教程： 
+- [以电子方式对文档签名 |Adobe Sign 教程](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [委托他人对文档签名 | Adobe Sign 教程](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>后续步骤
+
+请与贵组织中的相应利益干系人共享此信息。
+
+### <a name="questions"></a>是否有任何问题?
+
+如有任何疑问，请使用[呼叫日志记录工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或通过 [Explore MS](https://www.explore.ms/) 联系区域运营中心。 请严格按照标准 CLT 流程操作，以便我们可尽快处理你的查询。
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>挪威克朗商业定价更新 
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-14
+- 产品/市场
+
+### <a name="impacted-audience"></a>影响受众
+
+使用挪威克朗的云解决方案提供商合作伙伴。
+
+### <a name="details"></a>详细信息
+
+从 2021 年 3 月 1 日起，商业本地软件和联机服务的挪威克朗价格将改变，以便与该区域的通行定价水平重新保持一致。
+完整公告仅向 Microsoft 合作伙伴提供。 [登录以访问完整公告](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf)。
 
 _____________ 
 

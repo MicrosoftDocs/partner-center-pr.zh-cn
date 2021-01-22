@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴中心帐户
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何使用合作伙伴中心来管理公司的档案、银行和税务信息、角色、权限等。
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011514"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235964"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
-**相应的角色** - 全局管理员、MPN 管理员
+**相应的角色** - 全局管理员
+- MPN 帐户管理员
 
 在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 创建帐户后，你需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 对于任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员，你公司的帐户还将包括其用户帐户。
 
@@ -60,6 +61,10 @@ ms.locfileid: "97011514"
 ### <a name="legal-info"></a>法务信息
 
 首次加入合作伙伴中心时，贵公司会与 Microsoft 一起经历验证过程。 可在“法务信息”页面上跟踪验证状态。 它将显示主要联系人和主要法务联系人，其中 Microsoft 将就合作伙伴问题与前者联系，而后者是管理法务信息和状态的人员。 你公司的所有业务位置均会列出，且可在此处添加。
+
+### <a name="primary-contact-email"></a>主要联系人电子邮件
+
+我们将使用主要联系人电子邮件向你告知帐户验证情况。 请确保你提供的主要联系人电子邮件是被定期管理和查看的电子邮件。  
 
 详细了解[验证和帐户信息](verification-responses.md)。
 
@@ -122,9 +127,9 @@ ms.locfileid: "97011514"
 
 要了解有关注册某些合作伙伴中心计划的信息，请参阅以下部分列表：
 
-- [商业市场计划](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [商业市场计划](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft 合作伙伴网络成员资格权益](mpn-overview.md)
-- [云解决方案提供商计划](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [云解决方案提供商计划](./enrolling-in-the-csp-program.md)
 - [Office 应用商店](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 若要了解有关如何在合作伙伴中心计划中注册的详细信息，请参阅[合作伙伴网络资源](https://partner.microsoft.com/)。
