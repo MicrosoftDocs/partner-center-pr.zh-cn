@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571646"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685899"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "98571646"
 
 | **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[CSP 中与适用于 Azure 的 CSP 中的新商业体验相关的 Azure 套餐可用性更改](2021-january.md#12)|1 月 21 日|
 |发展你的业务|[云解决方案提供商计划的永久软件现已正式发布](2021-january.md#11)|1 月 19 日|
 |发展你的业务|[提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制](2021-january.md#10)|1 月 19 日|
 |产品/市场|[2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI)](2021-january.md#9)|1 月 15 日|
