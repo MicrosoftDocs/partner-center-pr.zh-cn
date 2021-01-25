@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685899"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717839"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "98685899"
 
 | **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
+|功能|[合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型](2021-january.md#13)|1 月 25 日|
 |功能|[CSP 中与适用于 Azure 的 CSP 中的新商业体验相关的 Azure 套餐可用性更改](2021-january.md#12)|1 月 21 日|
 |发展你的业务|[云解决方案提供商计划的永久软件现已正式发布](2021-january.md#11)|1 月 19 日|
 |发展你的业务|[提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制](2021-january.md#10)|1 月 19 日|
