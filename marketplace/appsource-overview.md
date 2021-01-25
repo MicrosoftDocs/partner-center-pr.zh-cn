@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166692"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759867"
 ---
 # <a name="what-is-microsoft-appsource"></a>什么是 Microsoft AppSource？
 
@@ -46,7 +46,7 @@ AppSource 中的每个产品都已根据特定条件进行了认证。 我们仍
 
 软件供应商定义价格、最终用户许可协议和隐私策略。 AppSource 上的每个产品/服务都包含发布者的许可协议和隐私策略的链接。 查看和确认这些协议是购买流程的一部分。 有关详细信息，请参阅 [法律协定](legal-contracts.md)。
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>发现 SaaS 和 M365 集成应用
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>发现 SaaS 和 Microsoft 365 集成应用
 
 我们的合作伙伴可以在 SaaS 应用程序与 Microsoft 365 的相应加载项之间进行链接。 这样，当你获取与外接程序链接的 SaaS 应用时，你可以从特定 Microsoft 365 服务或产品下载并使用加载项。
 
