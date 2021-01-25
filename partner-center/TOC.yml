@@ -110,6 +110,9 @@
     - name: Microsoft 合作伙伴协议 - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 间接提供商可如何帮助其经销商采用 MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: CSP 直接合作伙伴要求
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
