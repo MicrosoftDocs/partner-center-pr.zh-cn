@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514787"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773423"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
 
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -38,7 +35,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 位置的结构":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>为 CSP 业务添加新位置的先决条件
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>为 CSP 业务添加新帐户位置的先决条件
 
 若要添加新的 CSP 业务位置，需要满足以下先决条件：
 
