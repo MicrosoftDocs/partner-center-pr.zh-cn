@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指标-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作伙伴贡献指标 (PCI) 合作伙伴需要满足才能获得小型和中型云解决方案资格。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204108"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861421"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>使用合作伙伴贡献指标来实现中小型云解决方案资格
 
@@ -157,11 +157,10 @@ PCI 分数确定资格资格，如下所示：
 - 净新收入定义为适用于所有销售渠道的净新计费收入，用于限定 Dynamics 365 产品。
 - 净新收入会在尾随12个月内汇总，最大收益为10点。
 - 净新收入的点按计费减去信用额度计算，在12个月内聚合。
-- 净新收入是根据以下符合以下条件的产品来计算的：客户参与途径、财务和操作途径：
+- 净新收入是根据以下符合资格的产品的任意组合计算的：
   - Dynamics 365 客户订婚资格产品包括：销售、市场营销、客户服务、现场服务、Project server、计划1、自动化、市场营销、Microsoft 关系销售
-  - 金融和运营资格产品包括：业务中心、容量和存储、财务和运营 (包括欺诈保护、运营、零售、HR、计划 2) 、混合现实、团队成员
-  - Dynamics 365 Business Central
-
+  - 金融和运营资格产品包括： Dynamics 365 Business Central、容量和存储、财务和运营 (包括欺诈保护、运营、零售、HR、计划 2) 、混合现实、团队成员
+  
 - 销售渠道包括企业协议 (EA) 、云解决方案提供商 (CSP) 和 Web Direct。
 - 仅限企业协议收入：此收入包含协议第一年的收入。 第二年和第三年的经常性收入不包括在内。
 

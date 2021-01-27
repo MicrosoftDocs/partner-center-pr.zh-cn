@@ -1,20 +1,20 @@
 ---
-title: 付出计划和流程
+title: 付款计划和流程
 description: 了解付款和事务，例如适用于商业市场和其他交易的付款计划和 recoupment 过程。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492664"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861404"
 ---
-# <a name="payout-schedules-and-processes"></a>付出计划和流程
+# <a name="payout-schedules-and-processes"></a>付款计划和流程
 
 **相应的角色：**
 
@@ -37,6 +37,7 @@ ms.locfileid: "97492664"
 | --- | --- | --- | --- |
 | 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
 | Microsoft 计算计费金额 | 确定总用量、总事务数 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
+| 按客户付款的发票 | Microsoft 收集客户的付款 | 没有变化 | **第2个月** |
 | 已发布比率 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
 | 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第3个月 (第一周)** |
 | **已发送支出** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第3个月 (不晚于 15)** |
@@ -79,10 +80,10 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 | --- | --- | --- |
 | 示例付出日期 | 10/15/2020 | 已标记为 "在事务历史记录中 **发送** " 和 "支出" 面板中 |
 | <font color="red">如果客户不向 Microsoft 付款</font> | 12/2/2020 –12/5/2020 | 无更改，如上所述 |
-| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | 无 |
-| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | 无 |
+| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | None |
+| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | None |
 | 发布者通知写入可能 | 1/7/2021 | 发送给发布者的电子邮件通知，其客户尚未发送付款。 包括交易记录 ID 和美元金额。 |
-| 客户收到终止通知 | 2/1/2021 | 无 |
+| 客户收到终止通知 | 2/1/2021 | None |
 | 收集过程结束/资金已写出 | 2/15/2021 | 发送给发布者的电子邮件通知已写出。 包括交易记录 ID 和美元金额。 |
 | 扣减支出 | 2021/3/1 | 发布者将在合作伙伴中心支出报表中看到消极事务 |
 | 预扣支出 | 3/15/2021 | 未来的付款将显示在合作伙伴中心支出报表中。 在余额不再为负值之前，发布者将不会收到支付。  |
