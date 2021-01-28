@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773423"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925040"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
 
@@ -35,45 +35,51 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 位置的结构":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>为 CSP 业务添加新帐户位置的先决条件
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>为 CSP 业务添加新帐户的先决条件
 
-若要添加新的 CSP 业务位置，需要满足以下先决条件：
+若要添加新的 CSP 业务帐户，请先确保满足先决条件。
 
-1. 必须在要开展业务的国家/地区具有 MPN ID。
-
-1. 你需要在尚未注册 CSP 的[业务区域](regional-authorization-overview.md)中具有一个新的 Azure AD 租户。 在注册 CSP 时创建此租户。
- 
-3. 使用新的 AAD 租户注册在该区域注册 CSP 计划。
-提供法定的公司详细信息，包括合法的公司名称、地址、主要联系人详细信息。 此帐户将经过验证，因此请确保添加有效的信息。
+1. 必须在要开展 CSP 业务的国家/地区具有 MPN ID。 若要创建新的 MPN 位置，请阅读下面的“添加 MPN 位置”。
+  
+1. 若要创建新的 CSP Indirect Reseller 注册，请阅读[与间接提供商合作](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >请记住，使用新的凭据登录新的 Azure AD 租户 。 不要使用现有凭据，因为合作伙伴中心会将你识别为已经拥有帐户。
+ >请记得使用新凭据登录新的 CSP 帐户 。 不要使用现有凭据，因为合作伙伴中心会将你识别为已经拥有帐户。
 
-4. 接受 Microsoft 合作伙伴协议并激活帐户。
+2. 接受 Microsoft 合作伙伴协议并激活帐户。
 
 ## <a name="add-an-mpn-location"></a>添加 MPN 位置
 
-1. 使用合作伙伴中心的 MPN 帐户登录。 MPN 帐户应具有全局管理员或帐户管理员权限。 
+1. 在合作伙伴中心使用 MPN 帐户进行登录。 （你的 MPN 凭据可能与 CSP 凭据不同）。 MPN 帐户应具有全局管理员或帐户管理员权限。 
 
-1. 从“设置”图标中选择“组织设置”。 
+1. 从设置图标中，选择“帐户设置”，然后选择“组织资料”  。
 
-2. 选择“法人实体”，然后选择“地点” 。
+2. 选择“法务”，然后在“合作伙伴”选项卡上选择“业务位置”，然后单击“添加位置”   。
 
-3. 选择“添加位置”，然后插入要添加到公司的位置的地址详细信息以及该位置的主要联系人。
+3. 提供必需的详细信息，包括你想要添加到你的公司的位置的业务名称、地址和联系人。
+ 
+1. 单击“添加位置”。 这将为新位置创建一个新的 MPN ID，你可用它来进行 CSP 交易和激励。
+
+:::image type="content" source="images/legal-biz.png" alt-text="添加新的法定公司":::
 
 > [!NOTE]
 > 一旦将某一位置添加到合作伙伴中心后，就不能再删除它了。 如果已使用正确的 MPN ID 登录，则会在合作伙伴中心的左侧菜单中看到 MPN。
 
-## <a name="change-global-partner-account-location"></a>更改全局合作伙伴帐户位置
+## <a name="change-country-of-partner-global-account"></a>更改合作伙伴全球帐户所在国家/地区 
 
-1. 在“[营业地点](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)”上，检查位置列表，确保其中已列出你希望作为法人实体的位置。 否则，请添加该位置。
+1. 在合作伙伴中心使用 MPN 帐户进行登录。 （你的 MPN 凭据可能与 CSP 凭据不同）。 MPN 帐户应具有全局管理员或帐户管理员权限。 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="合作伙伴中心“帐户位置”页面的屏幕截图，其中包含所有当前位置的列表。":::
+2. 在“合作伙伴”选项卡上，转到“业务位置”，然后检查位置列表，确保已列出你想用作法律实体的位置 。 
+ 
+1. 若要添加位置，请单击“添加位置”，然后在弹出窗口中，提供必需的详细信息，包括你想要添加到你的公司的位置的业务名称、地址和主要联系人。 
+ 
+1. 选择“国家/地区”下拉列表旁边的“更改国家/地区”，然后按照步骤操作 。 
 
-2. 选择“法人实体”，然后选择“更新法定公司资料” 
-  
-3. 选择区域和法人，并“提交”。
+:::image type="content" source="images/lbp.png" alt-text="法定公司资料数据弹出窗口":::
 
+5. 单击“保存”。
+
+6. MPN 全球帐户所在国家/地区将更改为新的法定国家/地区。
   
 ## <a name="next-steps"></a>后续步骤
 
