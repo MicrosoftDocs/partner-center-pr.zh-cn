@@ -1,5 +1,5 @@
 ---
-title: 付款和税务配置文件常见问题
+title: 付款资料和税务资料常见问题解答
 description: 获取有关合作伙伴中心的付款和税务详细信息的常见问题的解答。 包括有关收入为何与预期不同的解答。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492579"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924909"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>有关付款和税款的常见问题
 
@@ -128,10 +128,6 @@ ms.locfileid: "97492579"
 
 依次转到“付款支付”和“付款列表”部分。 对于具有服务费用税的付款，将显示指向服务费用纳税表单的链接。
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何下载 PDF 格式的预缴税金表单？
-
-依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>在哪里可以找到年末纳税表单？
 
 请转到[“配置文件”页](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)以查看你的年末纳税表单。
@@ -170,7 +166,7 @@ ms.locfileid: "97492579"
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何实现下载 PDF 格式的预缴税金窗体？
 
-依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。
+依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。 预缴税金表格仅适用于所选激励计划，而不适用于商业市场付出的比率。
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>在哪里可以找到年末纳税表单？
 
