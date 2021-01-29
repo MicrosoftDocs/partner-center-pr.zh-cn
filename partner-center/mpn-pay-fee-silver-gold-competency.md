@@ -1,19 +1,19 @@
 ---
 title: 支付 MPN 能力的费用
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: 了解如何支付费用或更新与获取或续订一个或多个银或金牌资格相关的支付详情。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921050"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042678"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>如何支付与银或金牌资格相关的费用
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921050"
 本文介绍如何和何时支付与获得银或金牌 Microsoft 合作伙伴网络资格相关的费用。 本文还介绍了如何更改首选付款方式方法，如何取消订单，以及如何在从银转到金牌资格时获得25% 的费用折扣。
 
 > [!NOTE]
-> 若要详细了解获取银或金牌资格、特定能力及其独特要求的好处，请参阅 [Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)。 还可以查看 Microsoft 合作伙伴网络 [用于胜任的许可证表]，详细了解每个可用能力的权益。
+> 若要详细了解获取银或金牌资格、特定能力及其独特要求的好处，请参阅 [Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)。 你还可以查看 Microsoft 合作伙伴网络 [许可证表以获得](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 相关能力，详细了解每个可用能力的权益。
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>满足能力要求并支付费用
 
@@ -43,7 +43,7 @@ ms.locfileid: "98921050"
 
 2. 从导航菜单中选择 " [成员资格](https://partner.microsoft.com/dashboard/mpn/offers) "。 
 
-3. 在 " **产品/服务可供购买**" 下，找到与特定资格关联的银色成员资格 * * 磁贴或 **金牌成员身份** 磁贴。 
+3. 在 " **产品/服务可供购买**" 下，查找与你的特定资格关联的 **银成员身份** 磁贴或 **金牌成员身份** 磁贴。 
 
 4. 选择位于特定银色或金牌成员身份磁贴右下方的 " **订阅** " 选项。
 
@@ -54,7 +54,7 @@ ms.locfileid: "98921050"
 
 4. 在 " **购买详细信息** " 页上，查看并确认详细信息。
 
-    (了解有关更新 [公司的 **税务 ID** 信息](https://docs.microsoft.com/partner-center/organization-tax-info) 或公司的 [**帐单到** 公司地址](https://docs.microsoft.com/partner-center/mpn-get-action-pack)的详细信息。
+    (了解有关更新 [公司的 **税务 ID** 信息](https://docs.microsoft.com/partner-center/organization-tax-info) 或公司的 [**帐单到** 公司地址](https://docs.microsoft.com/partner-center/mpn-get-action-pack)的详细信息。 ) 
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="成员资格提供购买详细信息页和付款首选项。" border="false":::
 
@@ -130,7 +130,7 @@ ms.locfileid: "98921050"
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="&quot;详细信息&quot; 页，其中包含用于上传每个购买的产品/服务的可选择选项的详细信息。" border="false":::
 
-1. 填写与最近的电子资金转帐交易相关的其他字段的信息，例如 **支付日期**、* 支付给帐号 * * 和 **交易/引用 no。**
+1. 完成与最近的电子资金转帐交易相关的其他字段的信息，例如 **支付日期**、 **支付给帐号** 和 **交易/引用 no**。
 
   可能会出现一条绿色消息，告诉你请求已成功完成。
 
