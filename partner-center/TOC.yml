@@ -51,6 +51,9 @@
         - name: 查找你的 MPN 权益
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: 支付资格费用
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: 资质
       items:
         - name: 了解资格

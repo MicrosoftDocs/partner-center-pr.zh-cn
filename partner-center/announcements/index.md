@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717839"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924927"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,17 +22,18 @@ ms.locfileid: "98717839"
 
 | **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
-|功能|[合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型](2021-january.md#13)|1 月 25 日|
-|功能|[CSP 中与适用于 Azure 的 CSP 中的新商业体验相关的 Azure 套餐可用性更改](2021-january.md#12)|1 月 21 日|
-|发展你的业务|[云解决方案提供商计划的永久软件现已正式发布](2021-january.md#11)|1 月 19 日|
-|发展你的业务|[提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制](2021-january.md#10)|1 月 19 日|
-|产品/市场|[2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI)](2021-january.md#9)|1 月 15 日|
-|功能|[针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign](2021-january.md#8)|1 月 15 日|
-|产品/市场|[挪威克朗商业定价更新](2021-january.md#7)|1 月 14 日|
-|产品/市场|[印度卢比商业定价更新](2021-january.md#6)|1 月 8 日|
-|产品/市场|[2021 年 2 月 1 日通话套餐和电话系统更新](2021-january.md#5)|1 月 8 日|
-|产品/市场|[2021 年 1 月基于许可证的价格列表更新](2021-january.md#4)|1 月 8 日|
-|新式工作区|[EU/EFTA 针对新商务套餐的合作伙伴计费货币更改](2021-january.md#3)|1 月 7 日|
+|新式工作区|[EU/EFTA 针对新商务套餐的合作伙伴计费货币更改](2021-january.md#14)|1 月 27 日|
+|功能|[Microsoft 合作伙伴协议 (MPA) - 间接经销商更新和新的常见问题解答](2021-january.md#13)|1 月 27 日|
+|功能|[合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型](2021-january.md#12)|1 月 25 日|
+|功能|[CSP 中与适用于 Azure 的 CSP 中的新商业体验相关的 Azure 套餐可用性更改](2021-january.md#11)|1 月 21 日|
+|发展你的业务|[云解决方案提供商计划的永久软件现已正式发布](2021-january.md#10)|1 月 19 日|
+|发展你的业务|[提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制](2021-january.md#9)|1 月 19 日|
+|产品/市场|[2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI)](2021-january.md#8)|1 月 15 日|
+|功能|[针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign](2021-january.md#7)|1 月 15 日|
+|产品/市场|[挪威克朗商业定价更新](2021-january.md#6)|1 月 14 日|
+|产品/市场|[印度卢比商业定价更新](2021-january.md#5)|1 月 8 日|
+|产品/市场|[2021 年 2 月 1 日通话套餐和电话系统更新](2021-january.md#4)|1 月 8 日|
+|产品/市场|[2021 年 1 月基于许可证的价格列表更新](2021-january.md#3)|1 月 8 日|
 |功能|[将于 2021 年 2 月底弃用并停用教育客户验证过程的现有 GET 和 PUT 资格 API](2021-january.md#2)|1 月 5 日|
 |产品/市场|[2021 年 2 月 Dynamics 365 服务](2021-january.md#1)|1 月 4 日|
 | **类别** | **2020 年 12 月公告** | **已公布** |
