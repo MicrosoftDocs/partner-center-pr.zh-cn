@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571663"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717822"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -23,6 +23,124 @@ ms.locfileid: "98571663"
 2021 公告：1 月
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> 合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-25
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+所有云解决方案提供商计划合作伙伴
+
+### <a name="details"></a>详细信息
+
+正如今天公告所示，我们很高兴地通知你，我们已经在合作伙伴中心活动日志中公开了两种新的操作类型，以便在客户批准或删除委托的管理员关系后向合作伙伴提供可见性。
+
+下面是新的操作类型：
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>后续步骤
+
+- 当 DAP 被客户批准以及被客户终止时，利用新的操作类型来跟踪事件。  
+- [获取合作伙伴中心活动的记录 - 合作伙伴中心应用开发者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [审核资源 - 合作伙伴中心应用开发者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>是否有任何问题?
+
+如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> 云解决方案提供商中与云解决方案提供商中的新 Azure 商业体验相关的 Azure 产品/服务可用性更改
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-21
+- 功能
+ 
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴。
+
+### <a name="details"></a>详细信息：
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Azure in CSP 的新商业体验
+
+新 Microsoft 商业体验将为客户创建一致且简化的购买体验，并使他们实现数字化转型，可以更灵活地选择购买方式和购买地点。 无论客户决定使用哪种渠道与 Microsoft 进行交易，合作伙伴在客户的云之旅中都发挥重要作用。 更新后的商业平台和模型在完全推出后，可以使合作伙伴通过针对大型企业客户以及中小型公司的销售活动参与其中，并将为合作伙伴提供拓展其参与范围的机会，以帮助客户取得成功。
+
+云解决方案提供商计划中的新 Azure 商业体验可为合作伙伴提供更多构建和交付托管服务的机会，进一步扩大客户群并帮助客户实现数字化转型。
+
+新商业体验具有以下优势：
+
+- 使用 Azure 计划简化 Azure 购买过程。
+- 跨渠道实现更好的定价一致性。 根据客户和合作伙伴的反馈，云解决方案提供商计划中的新 Azure 体验将使用单一价格表（以美元为单位），从而为全球范围内的客户和合作伙伴提供一致定价。
+- 通过为客户提供适当的管控、客户体验和策略相结合的工具，将客户迁移到云解决方案提供商计划中的新 Azure 体验，从而减少客户购买障碍。
+- 使合作伙伴能够利用 Azure Lighthouse 和 Azure 成本管理等功能更高效地管理其客户。 
+- 扩展对 Azure 市场的访问。
+
+随着向新 Azure 商业体验的不断扩展，我们启用了转换工具，以适应客户不断变化的业务需求的方式增强了管理 Azure 的灵活性，并帮助客户顺利地使用云解决方案提供商计划中的新 Azure 产品/服务。 查看有关云解决方案提供商计划中用于支持客户 Azure 订阅转换的现有工具的概述。
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>云解决方案提供商计划中的新 Azure 产品/服务（Azure 计划）
+
+使用新的商业体验，合作伙伴可以通过 Azure 计划，根据 Microsoft 客户协议的客户即用即付费率访问 Azure 服务。 此计划通过支持在 Azure 计划中创建多个 Azure 订阅来简化购买体验。 无需在合作伙伴中心为每个 Azure 订阅提交单独的订单。
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中针对以前的 Azure 产品/服务可用性的更改
+
+我们宣布在云解决方案提供商计划（Azure 计划）中推出新的 Azure 产品/服务后，我们已将以下内容告知合作伙伴：以前的 Azure 产品/服务和平台在一段时间内继续可用，与此同时，新的 Azure 体验也可用，在对以前的 Azure 产品/服务进行任何更改之前，我们将提前六个月通知合作伙伴。
+
+尽管云解决方案提供商计划（Azure 计划）中的新 Azure 产品/服务为合作伙伴提供更好的体验，但我们希望给合作伙伴一些时间，以便他们将新的 Azure 功能与他们的服务结合起来，并将其客户转换到新的体验。
+
+以前的 Azure 产品/服务将会发生三个阶段的更改。 现在，我们将分享有关这三个阶段的详细信息。
+
+#### <a name="three-phases"></a>三个阶段
+
+**阶段 1 - 从 2021 年 7 月 21 日开始**
+
+在阶段 1 中，所有新的 Azure 云解决方案提供商计划业务都将使用新的 Azure 计划产品/服务。 以下准则将适用：
+
+- 对于云解决方案提供商计划中合作伙伴和客户之间的所有现有经销商关系，如果客户已经购买以前的 Azure 产品/服务，则合作伙伴可以继续进行交易，并且客户可以继续通过该合作伙伴购买以前的 Azure 产品/服务。
+- 不再向在云解决方案提供商中交易的全新合作伙伴提供以前的 Azure 产品/服务
+- 不再向通过云解决方案提供商中的合作伙伴进行购买的全新客户提供以前的 Azure 产品/服务
+- 对于所有新的经销商关系或新的客户购买，合作伙伴只能针对新的 Azure 产品/服务（Azure 计划）进行交易
+- 对于合作伙伴和客户之间的所有现有经销商关系，如果客户之前从未购买过 Azure，则合作伙伴只能进行交易，并且客户只能通过该合作伙伴购买新的 Azure 产品/服务。
+
+**阶段 2 - 在日历年 2022 年期间**
+
+在阶段 2（从日历年 2022 年的某个时间开始）中，奖励和合作伙伴利润机会将从以前的 Azure 产品/服务中移除。 我们会提前 6 个月将阶段 2 的开始日期告知合作伙伴。
+
+**阶段 3 - 日期待定**
+
+在阶段 3 中，以前的 Azure 产品/服务的所有剩余客户都将迁移到云解决方案提供商计划（Azure 计划）中的新 Azure 产品/服务。 与前几个阶段一样，我们会提前 6 个月将阶段 3 的开始日期告知合作伙伴。
+
+#### <a name="partner-earned-credit-pec"></a>合作伙伴赚取的返点 (PEC)
+
+借助新商业体验，合作伙伴通过合作伙伴赚取的返点模式不断获得针对其提供的差异化增值服务的认可。 合作伙伴赚取的返点用于奖励致力于通过可产生可持续盈利能力的增值服务帮助客户取得成功的合作伙伴。
+
+### <a name="next-steps"></a>后续步骤：
+
+强烈建议合作伙伴熟悉以下资源：
+
+#### <a name="partner-earned-credit-pec"></a>合作伙伴赚取的返点 (PEC)
+
+- [了解合作伙伴赚取的返点（指南）(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [合作伙伴赚取的返点 - 概述 | 合作伙伴中心 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [合作伙伴赚取的托管服务的返点 - 合作伙伴中心 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [合作伙伴赚取的返点的角色、权限 - 合作伙伴中心 | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Azure in CSP 模块中的关于合作伙伴赚取的返点的按需培训模块 (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>新商业体验
+
+- [合作伙伴资源库：云解决方案提供商中的新 Azure 商业体验](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>是否有任何问题?
+
+若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a>云解决方案提供商计划的永久性软件现已正式发布
@@ -40,12 +158,11 @@ ________________
 
 正如今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我们非常高兴地通知你商业永久性软件许可证现已正式发布，供所有 CSP 合作伙伴销售。 合作伙伴中心 CSP 永久性软件价目表已重新发布，现在包括新增的产品和地理位置。
 
-另请注意，从今天开始，合作伙伴中心软件和许可证密钥履行功能已停用，今后合作伙伴和客户应使用 Microsoft 365 管理中心来实现此目的。
-请参阅下面的详细信息和后续步骤。
+另请注意，从今天开始，合作伙伴中心软件和许可证密钥履行功能已停用，今后合作伙伴应指示客户使用 Microsoft 365 管理中心来实现此目的。 请参阅下面的详细信息和后续步骤。
 
 ### <a name="next-steps"></a>后续步骤
 
-- 在合作伙伴中心[定价和产品/服务](https://partnercenter.microsoft.com/en-us/pcv/sales)页面的“软件”部分，下载 CSP 永久性软件价目表 。 可在[此处](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新添加的产品和地理位置的列表。
+- 在合作伙伴中心[定价和产品/服务](https://partnercenter.microsoft.com/pcv/sales)页面的“软件”部分，下载 CSP 永久性软件价目表 。 可在[此处](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新添加的产品和地理位置的列表。
 - 查看[“Microsoft 365 管理中心永久性软件和产品许可证密钥下载操作”一文](https://go.microsoft.com/fwlink/p/?linkid=2152525)，并在客户准备下载软件和许可证密钥时，与其分享此文。
 - 查看[云解决方案提供商计划中的永久性软件](https://partner.microsoft.com/resources/collection/software-in-csp#/)就绪性材料。 请使用此[就绪性地图](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)快速找到适合你的角色的信息。
 
@@ -431,7 +548,7 @@ Microsoft 宣布将于 2021 年 2 月推出以下新的 Dynamics 365 服务更�
 
 2021 年 2 月 1 日，Microsoft 将创建包含一千次响应权利的新“额外响应”服务，以取代包含两千个调查响应的现有服务，后者将于 2021 年 2 月 1 日停止销售。
 
-请参阅 [Dynamics CSP 服务 - 2021 年 2 月Excel 文档](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的“Customer Voice 额外响应”，以了解 SKU 详细信息。 请参阅 [Microsoft Dynamics 365 Customer Voice 主页](https://dynamics.microsoft.com/en-us/customer-voice/overview/)以了解详细信息。
+请参阅 [Dynamics CSP 服务 - 2021 年 2 月Excel 文档](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的“Customer Voice 额外响应”，以了解 SKU 详细信息。 请参阅 [Microsoft Dynamics 365 Customer Voice 主页](https://dynamics.microsoft.com/customer-voice/overview/)以了解详细信息。
 
 **Dynamics 365 Customer Service Insights 生命周期结束**
 

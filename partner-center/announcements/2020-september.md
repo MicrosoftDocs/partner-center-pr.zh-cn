@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878794"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705005"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>详细信息
 
-现在，合作伙伴可使用合作伙伴中心或 Microsoft 365 管理中心来处理 CSP 软件订单的软件下载和许可证密钥履行事务。 截至 2021 年 1 月 19 日，合作伙伴中心软件和许可证密钥履行功能将被停用，合作伙伴将只能使用 Microsoft 365 管理中心来执行该操作 。 合作伙伴中心内的“客户软件”页面将包含一个指向 Microsoft 365 管理中心的“深层链接”，你可在这里获得客户许可证和软件下载。 这有助于为客户提供超级安全和高效的体验。
+现在，合作伙伴可使用合作伙伴中心或 Microsoft 365 管理中心来处理 CSP 软件订单的软件下载和许可证密钥履行事务。 截至 2021 年 1 月 19 日，合作伙伴中心软件和许可证密钥履行功能将被停用，合作伙伴将指示客户只能使用 Microsoft 365 管理中心来实现此目的 。 合作伙伴中心内的“客户软件”页面将包含一个指向 Microsoft 365 管理中心的“深层链接”，你可在这里指示客户获得客户许可证和软件下载。 这有助于为客户提供超级安全和高效的体验。
 
 软件许可证密钥和下载链接是非常宝贵且受到强烈热捧的知识产权资产。 如果遭到泄露，其激活限制可能很快就被会耗尽，导致出现负面的客户和合作伙伴体验。 因此，合作伙伴有必要使用最安全的技术和最佳做法来帮助保护这些宝贵的资产和他们的客户。
 

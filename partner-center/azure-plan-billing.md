@@ -1,7 +1,7 @@
 ---
 title: Azure 计划计费 - 发票和对帐文件
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何访问和理解与 Azure 计划计费相关的发票和对帐文件结构。
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534686"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658427"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商务体验 - Azure 计费 
 
@@ -140,9 +140,7 @@ ms.locfileid: "96534686"
 
 通过 Azure 计划销售的 Azure 服务按美元定价，并按客户所在国家/地区指定的货币计费。 如果计费货币不是美元，则发票的最后一页上会显示使用的外汇汇率 (FX)。 外汇汇率每月确定，并应用于随后的发票。 有关国家/地区货币的完整列表，请查看[新商务套餐在各个国家/地区的上市情况和客户货币矩阵](https://go.microsoft.com/fwlink/?linkid=2112354)。
 
-Microsoft 将使用 Thomson Reuters 来确定外汇汇率，以此确定定价货币与计费货币之间的兑换率。 外汇汇率将在月份最后一日的前一天刷新，然后将会应用。
-
-**示例**：服务周期 8 月 1 日 - 8 月 31 日的使用费将按 7 月 31 日发布的外汇汇率计费。 这些费用将显示在 9 月份的发票上，该发票的最后一页将注明外汇汇率。
+Microsoft 按照伦敦证券交易所汇率进行转换。 我们采用的汇率是伦敦证券交易所当月最后一个交易日的最后一秒捕获的汇率。 外汇汇率将在月份最后一日的前一天刷新，然后将会应用。
 
 ## <a name="azure-reservations"></a>Azure 预订
 

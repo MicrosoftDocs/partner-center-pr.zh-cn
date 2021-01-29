@@ -1,29 +1,27 @@
 ---
 title: 在云解决方案提供商计划中与间接提供商合作
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接经销商如何与 Microsoft 间接提供商（或分销商）合作，以便在客户支持和计费方面获得帮助。
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636018"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773444"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在云解决方案提供商计划中与间接提供商合作
 
 **相应的角色**
 
-
-- 所有有兴趣注册云解决方案提供商计划的 Microsoft 合作伙伴
-
+- 全局管理员
 
 对基于云的解决方案和服务的需求在快速增长，这为各种规模的 Microsoft 合作伙伴发展有利可图的云解决方案业务提供了许多机会。 准备进入市场但不想被迫管理多个供应商或可能未部署端到端客户关系管理基础结构的合作伙伴可以作为间接经销商注册 Microsoft 的云解决方案提供商 (CSP) 计划。
 
@@ -80,12 +78,11 @@ ms.locfileid: "97636018"
 
 5. 将 MPN ID 关联到 Azure ID 租户。
 
-    1. 从“帐户设置”中选择“标识符” 。
-
-    1. 在 CSP 部分下，使用“更新”链接更新与 CSP 帐户关联的 MPN ID 。 
- 
+    1. 使用你的 MPN 帐户登录。 转到“设置” -> “帐户设置” -> “组织资料” -> “标识符”   。 查看你的 MPN ID，然后选择一个与你的云解决方案提供商帐户所在国家/地区相同的 MPN ID。 换句话说，云解决方案提供商帐户和关联的 MPN ID 必须位于同一国家/地区。
+    
+     
  > [!IMPORTANT]  
-   > 选择与有效公司档案（与 Azure AD 租户位于同一国家/地区）关联的 MPN ID。
+   > 选择与云解决方案提供商帐户位于相同国家/地区的 MPN ID。
 
 6. 当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
@@ -146,5 +143,5 @@ ms.locfileid: "97636018"
 - [创建业务资料](create-a-marketing-profile.md)
 
 - [了解验证过程](verification-responses.md)
- 
+
 - [请参阅直接计费合作伙伴要求](direct-partner-new-requirements.md)
