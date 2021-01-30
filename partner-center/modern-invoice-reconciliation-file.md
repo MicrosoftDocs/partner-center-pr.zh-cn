@@ -1,19 +1,19 @@
 ---
 title: 用于 CSP 一次性购买的侦测文件字段
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: 了解 "合作伙伴中心" 中的 CSP 一次性采购对帐文件中的所有项目，包括示例值。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182573"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098799"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性采购对帐文件字段
 
@@ -64,6 +64,9 @@ ms.locfileid: "98182573"
 | PCToBCExchangeRateDate | 确定计费货币的定价货币的日期。 | *2020/9/30* |
 | MeterDescription | 计量说明。  | *表-存储 (GB/月) 的 LRS 数据* |
 | ReservationOrderId | 预订订单 Id。 | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>可在一次性购买侦测文件中协调 Azure 消耗。 若要执行此操作，请在每日按比例使用侦测文件并搜索 SubscriptionID。 这将显示与 Azure 计划 ID 关联的所有成本。 你的 Azure 订阅将显示为 "EntitlementID"。
 
 ## <a name="next-steps"></a>后续步骤
 
