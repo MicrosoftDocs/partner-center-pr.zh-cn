@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925040"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098884"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
 
@@ -47,6 +47,20 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
  >请记得使用新凭据登录新的 CSP 帐户 。 不要使用现有凭据，因为合作伙伴中心会将你识别为已经拥有帐户。
 
 2. 接受 Microsoft 合作伙伴协议并激活帐户。
+
+## <a name="view-your-mpn-locations"></a>查看 MPN 位置
+
+1. 使用 MPN 帐户凭据登录合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home)。 （MPN 凭据可能与 CSP 凭据不同） 
+ 
+1. 从“设置”图标中，依次选择“帐户设置”、“组织资料”和“法务”   。 
+
+1. 在“合作伙伴”选项卡中，验证确保没有横幅错误消息要求你修复从 PMC 迁移的位置。 如果有错误消息，请按照说明修复这些位置。 
+
+3. 如果没有错误消息，请从“设置”中依次选择“帐户设置”、“组织资料”和“标识符”   。
+
+4. 找到类型为“位置”且与此 CSP 帐户所在国家/地区匹配的 MPN ID，然后用它在下面进行搜索并完成关联。
+
+5. 如果找不到与要使用的 CSP 帐户匹配的位置 MPN ID，可添加一个新位置，它将创建新的 MPN ID。 请查看下面的“添加 MPN 位置”。
 
 ## <a name="add-an-mpn-location"></a>添加 MPN 位置
 

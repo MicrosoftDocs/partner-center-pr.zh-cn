@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/27/2021
-ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924927"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042695"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,7 +22,8 @@ ms.locfileid: "98924927"
 
 | **类别** | **2021 年 1 月公告** | **已公布** |
 |---------|:---------|:---------|
-|新式工作区|[EU/EFTA 针对新商务套餐的合作伙伴计费货币更改](2021-january.md#14)|1 月 27 日|
+|新式工作区|[第 1 阶段现已开始：EU/EFTA 和 UK 针对新商务产品/服务的合作伙伴计费货币更改](2021-january.md#15)|1 月 28 日|
+|新式工作区|[对云解决方案提供商 (CSP) 客户加入要求的更改](2021-january.md#14)|1 月 28 日|
 |功能|[Microsoft 合作伙伴协议 (MPA) - 间接经销商更新和新的常见问题解答](2021-january.md#13)|1 月 27 日|
 |功能|[合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型](2021-january.md#12)|1 月 25 日|
 |功能|[CSP 中与适用于 Azure 的 CSP 中的新商业体验相关的 Azure 套餐可用性更改](2021-january.md#11)|1 月 21 日|
