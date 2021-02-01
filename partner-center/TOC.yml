@@ -84,7 +84,10 @@
           displayName: mpn
         - name: 关于权益的常见问题解答
           href: benefits-faq.md
-          displayName: 'renew, license, mpn'
+          displayName: 'renew, license,'
+        - name: Azure 和云权益
+          href: mpn-benefits-azure-cloud.md
+          displayname: 'activate, azure license, mpn, renew'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 软件保障
