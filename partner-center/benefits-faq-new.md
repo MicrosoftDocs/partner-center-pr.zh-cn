@@ -1,7 +1,7 @@
 ---
 title: Microsoft 合作伙伴网络权益常见问题解答
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: 关于 Microsoft 合作伙伴网络权益的策略的问题的解答。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349505"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552404"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft 合作伙伴网络权益常见问题解答
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349505"
 
 - MPN 合作伙伴管理员
 
-
 以下文章解答了一些主要问题 Microsoft 合作伙伴网络 (MPN) 合作伙伴对其 MPN 成员资格权益、胜任度和产品许可证的了解。
+
+## <a name="responding-to-covid-19"></a>响应 COVID-19
+
+**问：** **我们的胜任度日期即将推出，我们由于与 COVID-19 相关的影响而无法满足胜任度要求。我们该做什么？**
+
+A. 如果你的胜任度日期介于2021年1月1日和6月30日之间，我们将通过2022的下周年周年日 Business Applications 资格) ，扩展你的现有资格或胜任 (。 你将不需要满足考试或性能要求，但仍需支付能力费。有关详细信息，请参阅我们的 [博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
 
 ## <a name="membership"></a>Membership
 
@@ -92,7 +97,7 @@ ms.locfileid: "97349505"
 
 **问：如果我们决定不续订我们的资格或 Microsoft Action Pack，是否仍可使用本地软件产品许可证？**
 
-答：不是。 胜任度和 Microsoft Action Pack 附带的本地软件产品许可证不是永久性的。
+答：否。 胜任度和 Microsoft Action Pack 附带的本地软件产品许可证不是永久性的。
 你有权使用这些许可证，只需在你的成员资格内使用。 如果你选择不续订胜任度或 Action Pack，你将需要通过商业许可获取许可权限或卸载通过 Microsoft 合作伙伴网络获取的任何本地软件。
 
 有关其他信息，请访问 Microsoft 合作伙伴计划指南 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
@@ -140,18 +145,7 @@ A. 通过合作伙伴全局帐户在合作伙伴中心完成胜任度和 Action 
 
 A. 如果需要，你可以前往 [合作伙伴中心的支持部分](https://partner.microsoft.com/support) ，以获取可能有帮助的资源的链接，或与我们的合作伙伴支持团队合作。
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>COVID-19 的偏移影响的资格扩展
-
-**问： Microsoft 是否向面向困难的合作伙伴提供帮助？**
-
-答：对于在2020年7月1日至12月31日之间具有胜任度日期的合作伙伴，我们将通过2021的下周年日开始扩展合作伙伴的现有资格或能力。 合作伙伴将收到一个续订提醒，以反映此新产品/服务。 合作伙伴必须在30天的续订期内支付其能力费。
-
-**问：如果合作伙伴错过了30天的续订期，该怎么办？**
-
-答：合作伙伴可以通过在合作伙伴中心的 "成员资格" 服务页上支付费用，在其周年周年日后的30天内支付费用，重新激活其能力并重新获得对资源和权益的访问权限。 如果合作伙伴错过了30天的宽限期，则他们应该通过合作伙伴中心提交支持票证，指出在30天续订期到期后，要向其授予 COVID 替代的请求的详细信息。
-
-有关其他信息，请阅读 [续订 MPN 产品/服务](renew-mpn-offers.md)。
-
 ## <a name="next-steps"></a>后续步骤
 
-- [找到你的 Microsoft 合作伙伴网络权益](mpn-find-benefits.md) 
+- [找到你的 Microsoft 合作伙伴网络权益](mpn-find-benefits.md)
+- [续订 MPN 提议](renew-mpn-offers.md)
