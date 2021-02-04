@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: 应用开发资格豁免
           href: app-dev-isv.md
+        - name: 使用技能报告
+          href: mpn-skills-report.md
     - name: 高级专业
       items:
         - name: 展示你的专业知识
