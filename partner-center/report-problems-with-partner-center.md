@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983329"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530657"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何报告合作伙伴中心的问题并提交任何日志或诊断信息
 
@@ -53,7 +53,7 @@ ms.locfileid: "94983329"
 
 2. 合作伙伴中心将检查支持人员的日历是否可用。
 
-1. 当你计划约会时，合作伙伴中心会向你发送一个日历邀请，其中包含有关支持人员将如何与你联系的信息，因此你可以在自己的工作日历上跟踪此约会。
+1. 当你计划约会时，合作伙伴中心会向你发送一个日历邀请，其中包含有关支持人员将如何与你联系的信息，因此你可以在自己的工作日历上跟踪此约会。  虽然此功能仍处于预览状态，但电子邮件和日历邀请将采用英语，但拥护者将能够以创建票证时所选的语言支持。
 
 :::image type="content" source="images/support/ticket3.png" alt-text="日期和时间":::
 

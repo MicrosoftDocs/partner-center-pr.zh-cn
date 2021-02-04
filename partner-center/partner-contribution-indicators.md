@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指标-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解7个合作伙伴贡献指标 (PCI) ，其中显示了合作伙伴如何获取银色或金牌云 Business Applications 能力。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204064"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530810"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来实现云 Business Applications 资格
 
@@ -125,7 +125,7 @@ PCI 分数确定资格资格，如下所示：
 | PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：功能顾问 | 功能指示器：功能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：每月活动用户增长率 |
 |---|---|---|---|---|---|---|---|
 | **最大分数** | 10点 | 10点 | 15磅 | 15磅 | 5磅 | 20磅 | 25磅 |
-| **各种** | 300,000 美元 | 10 | 10 | *\* 请参阅说明* | 5 | 5 | 25% |
+| **各种** | 300,000 美元 | 10 | 15 | *\* 请参阅说明* | 5 | 5 | 25% |
 | **各种** | $150000 | 5  | 5  |*\* 请参阅说明* | 2 | 1 | 25% |
 
 *\* 注意：根据基线顾问数和合作伙伴用于获取点的特定选项，增长目标会有所不同。若要详细了解用于获取点或每个选项的特定增长目标的选项，请参阅 [功能顾问增长定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*

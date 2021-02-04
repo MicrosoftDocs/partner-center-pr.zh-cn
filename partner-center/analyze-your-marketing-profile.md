@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776767"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530827"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析潜在客户-了解目标客户和潜在的推荐
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析潜在顾客 - 了解吸引目标客户的程度和潜在的推荐
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **相应的角色**
 
 - 引荐管理员
-
-**适用于**
-
-- Marketplace 主管
-- 合格的潜在顾客
 
 引用中 "**分析**" 部分下的 "**潜在顾客**" 页可让你查看引用的执行情况。 请定期查看这些指标，以识别趋势或需要关注的领域，并推动业务目标的实现。
 
@@ -115,3 +110,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > 若要查看共同销售机会的执行情况，请查看 [共同销售机会见解页](referral-insights.md)。
+
+## <a name="next-steps"></a>后续步骤
+
+- [管理潜在顾客](manage-leads.md)
