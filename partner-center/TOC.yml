@@ -118,6 +118,9 @@
     - name: Microsoft 合作伙伴协议 - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 管理位置
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: 间接提供商可如何帮助其经销商采用 MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: 更新你的合作伙伴个人资料
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: 管理位置
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: 成为控制面板供应商
           href: enroll-as-cpv.md
           displayName: csp
