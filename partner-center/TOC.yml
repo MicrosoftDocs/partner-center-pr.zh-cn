@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Microsoft 客户协议（按区域和语言排列）
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: 受限的直接计费访问权限
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
