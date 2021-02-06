@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795759"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623977"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求  
 
@@ -29,13 +29,13 @@ ms.locfileid: "92795759"
 
 若要确认是否限制了从直接帐单合作伙伴租户到直接计费功能的访问权限，请执行以下步骤。
 
-1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到[合作伙伴中心面板](https://partner.microsoft.com/dashboard)。
 
-2. 中转到 " **合作伙伴设置** " "  ->  **合作伙伴配置文件** "。
+2. 中转到 "**帐户设置**" "  ->  **法律配置文件**"。
 
-3. 在 " **程序信息** " 下，查找 **Microsoft 云解决方案提供程序状态** 。
+3. 在 " **程序信息**" 下，查找 **Microsoft 云解决方案提供程序状态**。
 
-4. 如果程序状态的值为 " **受限** "，则表示直接帐单合作伙伴租户对直接帐单功能的访问受到限制。
+4. 如果程序状态的值为 " **受限**"，则表示直接帐单合作伙伴租户对直接帐单功能的访问受到限制。
 
 ## <a name="affected-direct-bill-capabilities"></a>受影响的直接计费功能
 
@@ -62,13 +62,13 @@ ms.locfileid: "92795759"
     >[!Note] 
     >不能将新的外接程序添加到现有订阅，因为它被视为新购买。
 
-- 部署新的 Azure 资源，并管理现有 Azure 订阅下的现有 Azure 资源。 这包括通过 Azure marketplace 和 Visual Studio 订阅提供的资源。
+- 部署新的 Azure 资源，并管理现有 Azure 订阅下的现有 Azure 资源。 这包括通过 Azure Marketplace 和 Visual Studio 订阅提供的资源。
 
 除了新购买以外，还不能在合作伙伴中心访问以下直接帐单功能：
 
-- 不能创建新的客户租户。 "合作伙伴中心" 下的 " **客户** " 页下的 " **创建客户** " 选项将不可用。
+- 不能创建新的客户租户。 "合作伙伴中心" 下的 "**客户**" 页下的 "**创建客户**" 选项将不可用。
 
-- 你无法为请求直接分销商关系的客户生成邀请。 合作伙伴中心的 " **客户** " 页下的 " **请求分销商关系** " 选项将不可用。
+- 你无法为请求直接分销商关系的客户生成邀请。 合作伙伴中心的 "**客户**" 页下的 "**请求分销商关系**" 选项将不可用。
 
     >[!NOTE]
     >作为从直销伙伴过渡到间接经销商的一部分，如果你已将直接帐单合作伙伴租户注册为间接经销商，则可以为请求间接经销商关系的客户生成邀请。

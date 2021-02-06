@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133059"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624215"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>有关激励的常见问题
-
-**适用对象：**
-
-- 合作伙伴中心
 
 **相应的角色：**
 
@@ -29,13 +25,13 @@ ms.locfileid: "93133059"
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>是否需要是全局管理员才能注册激励？
 
-没有。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
+不能。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
 
 ## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>如果我发现公司已是 Microsoft 合作伙伴网络 (MPN) 的成员，我该怎么办？
 
 如果你尝试加入 MPN，并且你的公司已是成员，则 MPN 将识别该域并将你关联到现有帐户。 现有帐户可能是同一公司或使用同一电子邮件域的相关公司，也可能是同一 Azure 活动目录 (Azure AD) 管理多个域。
 
-你可以从 "合作伙伴配置文件" 页中确定主要联系人。 如果你的位置是 MPNHQ 位置，你只需设置所需的权限来管理奖励。 有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。
+你可以从 "法律配置文件" 页中确定主要联系人。 如果你的位置是 MPNHQ 位置，你只需设置所需的权限来管理奖励。 有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。
 
 如果你不在与 MPNHQ 位置相同的国家/地区，请参阅有关此方案的详细信息，请参阅 [多国帐户的说明](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 。
 
@@ -51,9 +47,9 @@ ms.locfileid: "93133059"
 
 若要查找可以进行角色更改或将角色分配给新用户的全局管理员或帐户管理员，请执行以下操作：
 
-1. 从合作伙伴中心右上方的 "帐户设置" 图标中，选择 " **用户管理** "。
+1. 从合作伙伴中心右上方的 "帐户设置" 图标中，选择 " **用户管理**"。
 2. **全局管理员** 或 **帐户管理员** 进行筛选。
-3. 你还可以访问 **"我的配置文件** "，选择 " **角色和权限** "，并查看可帮助你提升权限的不同管理员的列表。
+3. 你还可以访问 **"我的配置文件**"，选择 " **角色和权限** "，并查看可帮助你提升权限的不同管理员的列表。
  
 有关详细信息，请参阅 [查找你的角色](find-your-role.md)。  
 
@@ -63,9 +59,9 @@ ms.locfileid: "93133059"
 
 1. 使用 Azure AD 租户凭据登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) ， (你的工作凭据) "。 如果你无法登录，请联系你的公司的全局管理员。
 
-2. 登录时，如果系统提示你从 **工作帐户** 或 **个人帐户** 中进行选择，请选择 " **工作帐户** "。
+2. 登录时，如果系统提示你从 **工作帐户** 或 **个人帐户** 中进行选择，请选择 " **工作帐户**"。
 
-3. 在 "合作伙伴中心" 菜单上，选择 " **激励** "，然后选择 " **概述** "。 如果你没有奖励管理员或奖励用户权限，则会显示你公司的所有全局管理员和帐户管理员的联系信息。 请与这些管理员之一联系，为所需的 MPN Id 和激励计划获取激励角色。
+3. 在 "合作伙伴中心" 菜单上，选择 " **激励**"，然后选择 " **概述**"。 如果你没有奖励管理员或奖励用户权限，则会显示你公司的所有全局管理员和帐户管理员的联系信息。 请与这些管理员之一联系，为所需的 MPN Id 和激励计划获取激励角色。
 
 4. 如果你已有奖励管理员角色，你将看到你的公司的注册，其中包含你有权访问的 MPN Id 和激励计划。
 
@@ -75,7 +71,7 @@ ms.locfileid: "93133059"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在 " **设置** " 下，选择 " [用户管理](https://partner.microsoft.com/pcv/users)"。
+2. 在 " **设置**" 下，选择 " [用户管理](https://partner.microsoft.com/pcv/users)"。
 
 3. 选择您的名称以查看您的权限。
 

@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492460"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624232"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理激励支出和税务配置文件
 
-**适用对象：**
-
-- 合作伙伴中心
 
 **相应的角色：**
 
@@ -64,7 +61,7 @@ ms.locfileid: "97492460"
    - 如果只能用 @onmicrosoft.com 域登录，请与帐户管理员联系，将其他域添加到 Azure AD 帐户中。
    - 如果系统提示你选择 **工作或学校帐户** 或 **个人帐户**，请选择 " **工作或学校帐户**"。
 
-2. 选择齿轮图标以打开 " **设置** " 菜单，然后选择 " **合作伙伴设置**"。
+2. 选择齿轮图标以打开 " **设置** " 菜单，然后选择 " **帐户设置**"。
 
 3. 在 " **帐户设置** " 菜单中，选择 " **支出和税金**"。 
 
@@ -72,7 +69,7 @@ ms.locfileid: "97492460"
 
 1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)，并选择齿轮图标以打开 " **设置** " 菜单。 
 
-2. 选择 " **合作伙伴设置**"，展开 " **支出和税务" 部分**，然后选择 " **分配**"。 
+2. 选择 " **帐户设置**"，展开 " **支出和税务" 部分**，然后选择 " **支出和税务配置文件分配**"。 
    
    将显示你的程序列表。 选择程序旁边的箭头以查看配置文件详细信息。 
 
@@ -105,11 +102,11 @@ ms.locfileid: "97492460"
     **银行帐户位置：** 公司银行所在的国家/地区。
     **付款方式：** 合作伙伴中心的首选付款方式是电子银行传输。
 
-2. 选择“下一步”  。
+2. 选择“**下一页**”。
 
 3. 在 " **银行帐户** " 页上，输入你的信息。 此页上显示的字段将因国家/地区而异。 
 
-4. 选择“下一步”  。
+4. 选择“**下一页**”。
 
 5. 在 " **受益人** " 页上，输入适当的信息。 受益人是公司中的人员如果需要讨论你的帐户，则会联系到银行。
 
@@ -136,7 +133,7 @@ ms.locfileid: "97492460"
    - 如果你的公司仅合并到美国中，或者如果此配置文件适用于个人，请选择左侧的选项。
    - 如果你的公司在美国外合并，则选择右侧的选项，然后从列表中选择你所在的国家/地区。
 
-3. 选择“下一步”  。 
+3. 选择“**下一页**”。 
 
 4. 在 " **税状态** " 页上，输入所需信息，然后选择 " **下一步**"。 此页上的字段将因国家/地区而异。 详细信息。 
 

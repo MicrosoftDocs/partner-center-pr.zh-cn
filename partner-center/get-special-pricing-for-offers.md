@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367171"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624045"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>向特定行业销售，如教育、非营利和政府用户
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -44,7 +40,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 1. 在合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)中，选择窗口右上角的齿轮图标以打开 " **帐户设置**"。
 
-2. 在你的**合作伙伴配置文件**的**计划信息**部分中，查找**经销商资格**。
+2. 在 **法律配置文件** 的 " **程序信息** " 部分中，查找 " **经销商资格**"。
 
 3. 如果看不到 " **分销商资格**"，则尚未获授权购买任何特别优惠。
 
@@ -58,7 +54,7 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 ## <a name="where-to-find-special-offers"></a>在哪里可以找到特价产品/服务
 
-你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在**新订阅**页的**目录**部分，选择特定行业以查看你可以销售的特价产品/服务。
+你和你的客户符合特价产品/服务计划的资格要求后，按照步骤[添加订阅](create-a-new-subscription.md)。 在 **新订阅** 页的 **目录** 部分，选择特定行业以查看你可以销售的特价产品/服务。
 
 ## <a name="purchase-rules-for-special-segments"></a>针对特殊细分市场的购买规则
 
