@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042695"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552416"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-| **类别** | **2021 年 1 月公告** | **已公布** |
+|**类别**|**2021 年 2 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新](2021-february.md#3)|2 月 4 日|
+|功能|[针对合作伙伴中心内推荐模块的新更新](2021-february.md#2)|2 月 4 日|
+|新式工作区|[将于 2021 年 2 月 25 日之前对教育客户验证过程弃用并停用 PUT 资格 API，并于 2021 年 5 月 4 日之前对 GET 资格进行弃用和停用](2021-february.md#1)|2 月 4 日|
+| **类别** | **2021 年 1 月公告** | **已公布** |
 |新式工作区|[第 1 阶段现已开始：EU/EFTA 和 UK 针对新商务产品/服务的合作伙伴计费货币更改](2021-january.md#15)|1 月 28 日|
 |新式工作区|[对云解决方案提供商 (CSP) 客户加入要求的更改](2021-january.md#14)|1 月 28 日|
 |功能|[Microsoft 合作伙伴协议 (MPA) - 间接经销商更新和新的常见问题解答](2021-january.md#13)|1 月 27 日|

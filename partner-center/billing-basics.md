@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴中心计费概述
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: 了解合作伙伴中心中的云解决方案提供商合作伙伴的基本计费和发票信息。 包括如何向客户计费以及如何查找和阅读发票。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570699"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042712"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>合作伙伴中心中的云解决方案提供商计划合作伙伴的计费概述 
 
@@ -53,7 +53,7 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 
 **基于许可证的计费和基于使用情况的计费**：我们将以你所在国家或地区的货币向你收取产品的费用。 无论你向其销售产品的客户位于何处，我们将以相同的方式向你收取费用。
 
-**一次性计费**：将基于客户的货币生成你的帐单。 这意味着，如果你是与使用不同的可结算货币的客户进行交易的合作伙伴，那么你将收到每种客户货币类型的发票。 阅读关于[一次性计费和定期计费](azure-plan-billing.md)的更多信息。 
+**一次性计费**：从 2021 年 1 月 28 日开始，对于欧盟/欧洲自由贸易联盟和英国地区的合作伙伴，如果有新客户和现有 CSP 客户首次购买新商务优惠，并且其租户是在 2020 年 5 月 11 日之前创建的，则将以合作伙伴所在地货币对这些购买计费。  位于欧盟/欧洲自由贸易联盟和英国地区以外的合作伙伴将继续以合作伙伴所在地货币计费。 阅读关于[一次性计费和定期计费](azure-plan-billing.md)的更多信息。 
 
 ## <a name="invoices"></a>发票
 
@@ -86,6 +86,8 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 付款期限为净 60 天。 必须在发票截止日期之前（计费时期后的 60 天）支付发票费用，否则，你的帐户将成为拖欠费用的帐户，这可能会影响到你的 CSP 注册状态。 
 
 你可以在付清逾期未付款项后重新获得被暂停帐户的完整功能。
+
+提供正确的账单信息后，付款将在 5 个工作日内显示在合作伙伴中心的账单页面中。
 
 ### <a name="taxes-and-vat"></a>税款和增值税
 

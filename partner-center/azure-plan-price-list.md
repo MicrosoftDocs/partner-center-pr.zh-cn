@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534720"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924959"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure 的 CSP 新商务体验价目表
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534720"
 - 销售代理
 - “用户管理”管理员
 
-CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 价目表在实时准确的文件中动态传送，仅以美元显示价格。 但是，计费是按客户所在国家/地区支持的货币进行的。 有关客户所在国家/地区的货币计费的详细信息，请阅读 [Azure 计划 - 计费](azure-plan-billing.md)。
+CSP 中的新 Azure 商务体验的价目表将在合作伙伴中心发布。 价目表在实时准确的文件中动态传送，仅以美元显示价格。 从 2021 年 1 月 28 日开始，对于欧盟/欧洲自由贸易联盟和英国地区的合作伙伴，如果有新客户和现有 CSP 客户首次购买新商务优惠，并且其租户是在 2020 年 5 月 11 日之前创建的，则将以合作伙伴所在地货币对这些购买计费。  位于欧盟/欧洲自由贸易联盟和英国地区以外的合作伙伴将继续以合作伙伴所在地货币计费，具体请参阅 [Azure 计划 - 计费](azure-plan-billing.md)。
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>参阅 Azure 计划定价中的订阅定价
 
