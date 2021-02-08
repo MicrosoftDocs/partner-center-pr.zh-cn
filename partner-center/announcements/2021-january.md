@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/28/2021
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717822"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098867"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -24,8 +24,166 @@ ms.locfileid: "98717822"
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> 第 1 阶段现已开始：EU/EFTA 和 UK 针对新商务产品/服务的合作伙伴计费货币更改
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-28
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+- 在 EU/EFTA 和 UK 通过云解决方案提供商计划进行交易的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+在欧盟 (EU)/欧洲自由贸易联盟 (EFTA) 和英国 (UK)，参与云解决方案提供商计划的所有新的商务产品/服务都将使用合作伙伴计费位置，而不是客户计费位置。 照此，Microsoft 将根据合作伙伴位置所用货币，而不是根据其客户位置所用货币对这些合作伙伴进行计费。 这些更改将分两个阶段完成：
+
+**第 1 阶段**：
+
+- 在 CSP 中购买新商务产品/服务的新客户
+
+- 现有客户首次购买新的商务产品/服务 - 其租户于 2020 年 5 月 11 日之前创建
+
+从 2021 年 1 月 28 日开始，如果合作伙伴有全新客户购买新商务产品/服务，或者有现有客户（其租户于 2020 年 5 月 11 日之前创建）首次购买新商务产品/服务，便将以合作伙伴位置所用货币计费  
+
+对于当前有客户已在 CSP 中购买新的商务产品/服务的合作伙伴，我们在该阶段将继续按照客户计费位置所用的货币对他们进行计费。 此外，合作伙伴的现有客户（其租户于 2020 年 5 月 11 日或之后创建）在首次购买新商务产品/服务时，将继续以该客户的货币计费。
+
+**第 2 阶段**：
+
+- 第 1 阶段之前已在 CSP 中购买过新的商务产品/服务的现有客户
+- 现有客户首次购买新的商务产品/服务 - 其租户于 2020 年 5 月 11 日或之后创建
+
+在第 1 阶段之后且在 2021 日历年期间，如果合作伙伴有当前客户已于第 1 阶段之前在 CSP 中购买新的商务产品/服务，以及合作伙伴有客户于 2020 年 5 月 11 日之前创建其租户，Microsoft 会将他们的商务产品/服务的计费从客户位置所用货币过渡到合作伙伴位置所用货币。 我们在实施此项更改之前，将提前通知合作伙伴。
+
+第 2 阶段之后，EU/EFTA 和 UK 的合作伙伴将按合作伙伴位置所用货币为所有客户和所有 CSP 购买计费。
+
+>[!NOTE]
+>此更改将只影响合作伙伴计费货币，不影响 CSP 中新商务产品/服务的定价。 在此更改范围内的新的商务产品/服务包括：云解决方案提供商计划中属于 Azure 计划、Azure 预留、服务器订阅、永久性软件和 Microsoft 云解决方案提供商计划购买项的 Azure 订阅。
+
+### <a name="partner-benefits"></a>合作伙伴权益
+
+对于新的商业体验，此项更改将简化 EU/EFTA 和 UK 中使用多种货币开票的过程并降低开销。
+
+- 合作伙伴将收到一张用单一货币显示的合并发票，不再就每个客户位置所用货币单独收到一张发票
+- 激励付款将与合作伙伴发票采用同一种货币
+- 合作伙伴将注意到因多种货币开票而带来的计费复杂性得到了降低，这将节省当前对帐户对帐所涉及的时间和资源
+- 对于尚未采用新的商务产品/服务的合作伙伴，此更改与之前的合作伙伴计费模型保持一致，使合作伙伴能够更轻松地过渡到 CSP 中心的商业体验
+
+### <a name="next-steps"></a>后续步骤
+
+有关此主题的信息，请查看 Microsoft 合作伙伴网站上的[运营库](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/)（需要登录）。  
+
+### <a name="questions"></a>是否有任何问题?
+
+若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)（需要登录）。
+
+### <a name="change-log"></a>更改日志
+
+- 2020 年 11 月 17 日：初始发布
+- 2021 年 1 月 7 日：第 1 阶段和第 2 阶段中包含的其他方案
+- 2021 年 1 月 28 日： 
+    -    宣布第 1 阶段现已开始 
+    -    说明了尽管 UK 未包含在 EU/EFTA 中，但它是 [Microsoft 欧洲地区和市场](https://docs.microsoft.com/partner-center/regional-authorization-overview)的一部分，将会受到影响
+
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> 合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> 对云解决方案提供商 (CSP) 客户加入要求的更改
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-28
+- 增强的安全性和合规性
+
+### <a name="impacted-audience"></a>影响受众
+
+CSP 直接计费合作伙伴和间接提供商，他们在下一节中列出的国家/地区具有新客户或现有客户。
+
+### <a name="summary"></a>总结
+
+我们承诺帮助合作伙伴和客户在相互信任的基础上开展业务，在此过程中，我们将请求其他客户信息，从 2021 年 3 月底生效。
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 2021 年 3 月底，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，这些增强功能将影响同时满足以下两个条件的合作伙伴：
+
+1. 合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。
+2. 合作伙伴与以下国家/地区的新客户或现有客户开展业务：
+    - 泰国
+    - 越南
+    - 土耳其
+    - 波兰
+    - 南非
+    - 印度
+    - 巴西
+    - 伊拉克
+    - 缅甸
+    - 南苏丹
+    - 沙特阿拉伯
+    - 阿拉伯联合酋长国
+    - 委内瑞拉
+
+满足条件的合作伙伴必须在加入新客户或修改现有客户详细信息时，提交该客户的法律标识码（也称为客户的组织 INN）和电话号码  。 这些合作伙伴还可以为客户输入可选的中间名。
+
+与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。
+
+- 亚美尼亚
+- 阿塞拜疆
+- 白俄罗斯
+- 匈牙利
+- 哈萨克斯坦
+- 吉尔吉斯斯坦
+- 摩尔多瓦
+- 俄罗斯
+- 塔吉克斯坦
+- 乌克兰
+- 乌兹别克斯坦
+
+与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月底输入客户的法律识别码、电话号码和中间名（可选）详细信息  。
+
+### <a name="next-steps"></a>后续步骤
+
+- 有关更详细的指南，请查看专门的[合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)（需要登录）中的技术文档和常见问题。
+- 准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。 API/SDK 将可用于测试。
+- 请确保在加入新客户或修改现有客户详细信息时提交其他数据。
+- 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果你有任何与法律识别码（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。
+
+如果需要 Microsoft 的运营支持，请[创建服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)（需要登录）。
+
+________________
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft 合作伙伴协议 (MPA) - 间接经销商更新和新的常见问题解答 
+
+### <a name="categories"></a>类别
+
+- 日期:2021-01-27
+- 功能
+ 
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有间接经销商和间接提供商。
+
+### <a name="details"></a>详细信息
+
+正在针对间接经销商实施 Microsoft 合作伙伴协议 (MPA)。 为了向提供商和经销商提供进一步的支持，我们已听取你的反馈，并已将有关如何接受 MPA 的常见问题合并了到新的[常见问题页面](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)中。
+
+### <a name="next-steps"></a>后续步骤
+
+**间接经销商：** 如果你尚未接受 MPA，请查看 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)，并按照[此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南操作以接受 MPA。
+
+**间接提供商：** 请与间接经销商联系，并使用 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)以及[此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南为其提供支持。
+
+### <a name="questions"></a>是否有任何问题?
+
+若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> 合作伙伴中心审核日志更改，现包含两个适合 DAP 的新的操作类型
 
 ### <a name="categories"></a>类别
 
@@ -57,7 +215,7 @@ ________________
 如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> 云解决方案提供商中与云解决方案提供商中的新 Azure 商业体验相关的 Azure 产品/服务可用性更改
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> 云解决方案提供商中与云解决方案提供商中的新 Azure 商业体验相关的 Azure 产品/服务可用性更改
 
 ### <a name="categories"></a>类别
 
@@ -143,7 +301,7 @@ ________________
 若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a>云解决方案提供商计划的永久性软件现已正式发布
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a>云解决方案提供商计划的永久性软件现已正式发布
 
 ### <a name="categories"></a>类别
 
@@ -171,7 +329,7 @@ ________________
 如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> 提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> 提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制 
 
 ### <a name="categories"></a>类别
 
@@ -220,7 +378,7 @@ Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI) 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>2021 年 2 月 1 日即将发布安全性、合规性和标识 (SCI) 
 
 ### <a name="categories"></a>类别
 
@@ -280,7 +438,7 @@ _____________
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign 
 
 ### <a name="categories"></a>类别
 
@@ -326,7 +484,7 @@ Adobe Sign 是 Microsoft 首选的电子签名解决方案 (ESS)。 转移到 Ad
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>挪威克朗商业定价更新 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>挪威克朗商业定价更新 
 
 ### <a name="categories"></a>类别
 
@@ -344,7 +502,7 @@ _____________
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>印度卢比商业定价更新 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>印度卢比商业定价更新 
 
 ### <a name="categories"></a>类别
 
@@ -363,7 +521,7 @@ Microsoft 正对印度卢比价目表进行更改，以使印度和亚洲区域�
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>2021 年 2 月 1 日通话套餐和电话系统更新
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>2021 年 2 月 1 日通话套餐和电话系统更新
 
 ### <a name="categories"></a>类别
 
@@ -403,7 +561,7 @@ Microsoft 365 E1、E3 和 E5 产品/服务的该项附加捆绑产品/服务将�
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>2021 年 1 月基于许可证的价格列表更新 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>2021 年 1 月基于许可证的价格列表更新 
 
 ### <a name="categories"></a>类别
 
@@ -438,69 +596,6 @@ _____________
 
 - 合作伙伴应从合作伙伴中心下载最新的价目表文件，以获取更正后的 1 月和 2 月价格。 
 - 1 月结束之前，在 1 月 1 日至 1 月 6 日这期间购买订阅的受影响租户的全球管理员将通过合作伙伴中心电子邮件收到通知。 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a>EU/EFTA 针对新商务产品/服务的合作伙伴计费货币更改
-
-### <a name="categories"></a>类别
-
-- 日期:2021-01-07
-- 功能
-
-### <a name="impacted-audience"></a>影响受众
-
-- 在 EU/EFTA 区域中通过云解决方案提供商计划进行交易的所有合作伙伴 
-
-### <a name="details"></a>详细信息
-
-在欧盟 (EU)/欧洲自由贸易联盟 (EFTA) 区域，参与云解决方案提供商计划的所有新的商务产品/服务都将使用合作伙伴计费位置，而不是客户计费位置。 照此，Microsoft 将根据合作伙伴位置所用货币，而不是根据其客户位置所用货币对这些合作伙伴进行计费。 这些更改将分两个阶段完成：
-
-**第 1 阶段**：
-
-- 在 CSP 中购买新商务产品/服务的新客户
-
-- 现有客户首次购买新的商务产品/服务 - 其租户于 2020 年 5 月 11 日之前创建
-
-从 2021 年 1 月 28 日开始，如果合作伙伴有全新客户购买新商务产品/服务，或者有现有客户（其租户于 2020 年 5 月 11 日之前创建）首次购买新商务产品/服务，便将以合作伙伴位置所用货币计费  
-
-对于当前有客户已在 CSP 中购买新的商务产品/服务的合作伙伴，我们在该阶段将继续按照客户计费位置所用的货币对他们进行计费。 此外，合作伙伴的现有客户（其租户于 2020 年 5 月 11 日或之后创建）在首次购买新商务产品/服务时，将继续以该客户的货币计费。
-
-**第 2 阶段**：
-
-- 第 1 阶段之前已在 CSP 中购买过新的商务产品/服务的现有客户
-- 现有客户首次购买新的商务产品/服务 - 其租户于 2020 年 5 月 11 日或之后创建
-
-在第 1 阶段之后且在 2021 日历年期间，如果合作伙伴有当前客户已于第 1 阶段之前在 CSP 中购买新的商务产品/服务，以及合作伙伴有客户于 2020 年 5 月 11 日之前创建其租户，Microsoft 会将他们的商务产品/服务的计费从客户位置所用货币过渡到合作伙伴位置所用货币。 我们在实施此项更改之前，将提前通知合作伙伴。
-
-第 2 阶段之后，EU/EFTA 区域中的合作伙伴将按合作伙伴位置所用货币为所有客户和所有 CSP 购买计费。
-
->[!NOTE]
->此更改将只影响合作伙伴计费货币，不影响 CSP 中新商务产品/服务的定价。 在此更改范围内的新的商务产品/服务包括：云解决方案提供商计划中属于 Azure 计划、Azure 预留、服务器订阅、永久性软件和 Microsoft 云解决方案提供商计划购买项的 Azure 订阅。
-
-
-### <a name="partner-benefits"></a>合作伙伴权益
-
-对于新的商业体验，此项更改将降低 EU/EFTA 区域中用多种货币开票所带来的复杂程度和开销。
-
-- 合作伙伴将收到一张用单一货币显示的合并发票，不再就每个客户位置所用货币单独收到一张发票
-- 激励付款将与合作伙伴发票采用同一种货币
-- 合作伙伴将注意到因多种货币开票而带来的计费复杂性得到了降低，这将节省当前对帐户对帐所涉及的时间和资源
-- 对于尚未采用新的商务产品/服务的合作伙伴，此更改与之前的合作伙伴计费模型保持一致，使合作伙伴能够更轻松地过渡到 CSP 中心的商业体验
-
-### <a name="next-steps"></a>后续步骤
-
-有关此主题的信息，请查看 Microsoft 合作伙伴网站上的[运营库](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/)（需要登录）。  
-
-### <a name="questions"></a>是否有任何问题?
-
-若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)（需要登录）。
-
-### <a name="change-log"></a>更改日志
-
-- 2020 年 11 月 17 日：初始发布
-- 2021 年 1 月 7 日：第 1 阶段和第 2 阶段中包含的其他方案
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>将于 2021 年 2 月底弃用并停用教育客户验证过程的现有 GET 和 PUT 资格 API

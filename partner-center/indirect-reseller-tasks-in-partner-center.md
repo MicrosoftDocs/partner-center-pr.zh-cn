@@ -1,7 +1,7 @@
 ---
 title: 在云解决方案提供商计划中与间接提供商合作
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解间接经销商如何与 Microsoft 间接提供商（或分销商）合作，以便在客户支持和计费方面获得帮助。
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
+ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773444"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99065465"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在云解决方案提供商计划中与间接提供商合作
 
@@ -76,30 +76,38 @@ ms.locfileid: "98773444"
    > [!IMPORTANT]  
    > 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。 我们将通过电子邮件将注册状态更新发送给主要联系人。
 
-5. 将 MPN ID 关联到 Azure ID 租户。
+5. 将 MPN ID 关联到 CSP 帐户。 CSP 帐户和关联的 MPN ID 必须位于同一国家/地区，并且 MPN ID 必须在合作伙伴中心内。
+  
 
-    1. 使用你的 MPN 帐户登录。 转到“设置” -> “帐户设置” -> “组织资料” -> “标识符”   。 查看你的 MPN ID，然后选择一个与你的云解决方案提供商帐户所在国家/地区相同的 MPN ID。 换句话说，云解决方案提供商帐户和关联的 MPN ID 必须位于同一国家/地区。
-    
-     
+   a. 使用“MPN”帐户凭据（MPN 凭据可能与 CSP 凭据不同）登录到合作伙伴中心。
+   
+   b. 转到“设置” -> “帐户设置” -> “组织资料” -> “标识符”   。
+ 
+    c. 找到类型为“位置”且与此 CSP 帐户所在国家/地区匹配的 MPN ID。 
+
+    d. 如果找不到与要使用的 CSP 帐户匹配的位置 MPN ID，可添加一个新位置，它将创建新的 MPN ID。 要了解详细信息，请参阅[管理位置](manage-locations.md)。
+
+    e. 你可以暂时推迟此步骤，但在将 MPN ID 与 CSP 帐户成功关联之前，你将无法签署 Microsoft 合作伙伴协议 (MPA) 或在 CSP 中进行交易。
+
  > [!IMPORTANT]  
-   > 选择与云解决方案提供商帐户位于相同国家/地区的 MPN ID。
+ > 选择合作伙伴中心中提供的 MPN ID（应在 CSP 帐户所在的同一国家/地区内），并确保 MPN ID 在合作伙伴中心内。
 
-6. 当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
+6. 在 Microsoft 完成你的注册验证（需要 3-5 个工作日）后，请使用全局管理员凭据在[合作伙伴中心面板概述](https://partner.microsoft.com/pcv/dashboard/overview)中签署 Microsoft 合作伙伴协议。 若要在签署 Microsoft 合作伙伴协议之前查看和下载该协议，请单击 Microsoft 合作伙伴协议链接，如下所示。  如果帐户在 5 个工作日后仍无法通过验证，请阅读[帐户验证过程](verification-responses.md)。
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="新的 MPA 协议位置":::
+
+ 
+7. 在合作伙伴个人资料的“计划信息”部分中，确认你已签署 Microsoft 合作伙伴协议。 此外，你还会在 CSP 概述页上看到一条确认横幅通知。 
+
+:::image type="content" source="images/mpagreen.png" alt-text="指示已接受协议的绿色横幅":::
+
+
+8. 当你的合作伙伴中心帐户可以使用时，请验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
 
    1. 在合作伙伴中心仪表板中，选择“设置”图标，然后在“帐户设置”下选择“用户管理”。  
 
    2. 从用户列表中选择你的名称。 然后选择“管理员代理”（如果它尚未处于选定状态）。 选择“更新”。
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>所有间接经销商都需要签署 Microsoft 合作伙伴协议
-
-1.  如果你尚未从 Partner Membership Center 迁移到合作伙伴中心，请立即迁移。 如需有关迁移到合作伙伴中心的帮助，请阅读[从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md)。 
-
-2.  如果你有合作伙伴中心成员身份帐户，仍需要正式注册云解决方案提供商计划。 要检查成员身份状态，请转到[合作伙伴个人资料](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)并确认帐户类型。 然后[以间接经销商的身份注册 CSP](enrolling-in-the-csp-program.md)。 以间接经销商的身份注册后，[请接受来自间接提供商的 CSP 关系请求](indirect-reseller-tasks-in-partner-center.md)。
-
-3.  如果你之前已经以间接经销商的身份注册了合作伙伴中心，请使用全局管理员凭据在[合作伙伴中心仪表板概述](https://partner.microsoft.com/pcv/dashboard/overview)上接受 Microsoft 合作伙伴协议。 在合作伙伴个人资料的“计划信息”部分中，确认你已签署 Microsoft 合作伙伴协议。 此外，你还会在 CSP 概述页上看到一条确认横幅通知。 
-
-:::image type="content" source="images/mpagreen.png" alt-text="指示已接受协议的绿色横幅":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>与间接提供商联系
 
@@ -145,3 +153,4 @@ ms.locfileid: "98773444"
 - [了解验证过程](verification-responses.md)
 
 - [请参阅直接计费合作伙伴要求](direct-partner-new-requirements.md)
+- [Microsoft 合作伙伴协议](microsoft-partner-agreement.md)
