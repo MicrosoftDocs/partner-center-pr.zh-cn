@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098884"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624266"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理 MPN 帐户位置并添加新位置
 
@@ -47,6 +47,8 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
  >请记得使用新凭据登录新的 CSP 帐户 。 不要使用现有凭据，因为合作伙伴中心会将你识别为已经拥有帐户。
 
 2. 接受 Microsoft 合作伙伴协议并激活帐户。
+
+1. 如果要注册为直接计费合作伙伴，请阅读[直接计费合作伙伴要求](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>查看 MPN 位置
 
