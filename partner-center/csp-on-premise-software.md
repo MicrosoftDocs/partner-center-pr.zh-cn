@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098850"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834813"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商出售本地软件 (CSP) 计划
 
@@ -37,18 +37,18 @@ ms.locfileid: "99098850"
 
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
-购买软件后，客户需要下载软件。 请使用下面的过程执行此操作。
+在你购买软件后，客户需要下载该软件。 请使用下面的过程执行此操作。
 
 >[!NOTE]
->必须是管理员代理才能获取密钥和下载文件。
+>你必须是管理员代理才能获取密钥和下载链接。
 
 1. 转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。
-2. 从 " **链接到软件产品密钥** " 复制 "深层链接" 并下载并与客户共享该链接。 当他们选择此链接时，他们将被重定向到 Microsoft 管理中心以下载并获取其产品密钥。
+2. 从“软件产品密钥与下载链接”复制“深层链接”，并与客户共享该链接。 当他们选择此链接时，将被重定向到 Microsoft 管理中心，以下载并获取其产品密钥。
 
 >[!NOTE]
->只有客户可以在 Microsoft 管理中心中看到产品密钥和下载信息。 合作伙伴无法查看此信息。
+>只有客户可以在 Microsoft 管理中心中查看产品密钥和下载信息。 合作伙伴无法查看这些信息。
 
-如果你或你的客户想要了解有关下载许可证密钥的详细信息，请参阅 [下载软件和产品许可证密钥](https://go.microsoft.com/fwlink/p/?linkid=2152525)。
+如果你或你的客户想要了解有关如何下载许可证密钥的详细信息，请参阅[下载软件和产品许可证密钥](https://go.microsoft.com/fwlink/p/?linkid=2152525)。
 
 ## <a name="cancel-a-purchase"></a>取消购买
 

@@ -1,19 +1,19 @@
 ---
 title: 激励常见问题
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Microsoft 激励的常见问题。 本文包含有关用户角色、如何注册以及如何处理错误消息的问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624215"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835061"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>有关激励的常见问题
 
@@ -25,7 +25,7 @@ ms.locfileid: "99624215"
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>是否需要是全局管理员才能注册激励？
 
-不能。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
+否。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
 
 ## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>如果我发现公司已是 Microsoft 合作伙伴网络 (MPN) 的成员，我该怎么办？
 
@@ -67,17 +67,11 @@ ms.locfileid: "99624215"
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>奖励概述页中缺少一些注册。
 
-如果在激励 **概述** 页上看到的注册次数少于预期，则可以执行以下操作。
+如果已收到或已注册了一个不能在仪表板中看到的激励计划，则应仔细检查是否具有适当的访问权限。 只有具有 "激励用户" 或 "激励管理员" 角色的用户才能看到该计划。 请参阅 [查找你的角色](https://docs.microsoft.com/partner-center/find-your-role)。
 
-1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+如果需要更改角色或权限，请与公司的全局管理员或帐户管理员联系。若要了解这些人员的身份，请阅读 [查找你的全局管理员](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)。
 
-2. 在 " **设置**" 下，选择 " [用户管理](https://partner.microsoft.com/pcv/users)"。
-
-3. 选择您的名称以查看您的权限。
-
-如果需要更改你的角色或权限，请参阅你的公司的全局或帐户管理员。
-
-请注意，此页仅显示与 Azure AD 租户相关联 (PGA) 的伙伴全局帐户关联的注册。 如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。
+请注意，"概述" 页仅显示与 Azure AD 租户关联 (PGA) 相关联的 "注册"。 如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>如果在注册过程中收到错误消息或需要帮助，应联系谁？
 
