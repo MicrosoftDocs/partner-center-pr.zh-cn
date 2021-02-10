@@ -59,6 +59,9 @@
         - name: 了解资格
           href: learn-about-competencies.md
           displayName: mpn
+        - name: 注册为学习合作伙伴
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: 关于能力的常见问题解答
           href: competencies-faq.md
           displayName: 'renew, mpn'
