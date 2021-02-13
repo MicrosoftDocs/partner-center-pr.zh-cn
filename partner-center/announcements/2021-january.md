@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098867"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974750"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -174,9 +174,9 @@ ________________
 
 ### <a name="next-steps"></a>后续步骤
 
-**间接经销商：** 如果你尚未接受 MPA，请查看 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)，并按照[此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南操作以接受 MPA。
+**间接经销商：** 如果你尚未接受 MPA，请查看 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)，并按照 [此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南操作以接受 MPA。
 
-**间接提供商：** 请与间接经销商联系，并使用 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)以及[此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南为其提供支持。
+**间接提供商：** 请与间接经销商联系，并使用 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)以及 [此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南为其提供支持。
 
 ### <a name="questions"></a>是否有任何问题?
 
@@ -587,8 +587,8 @@ _____________
 
 受影响的货币： 
 
-- Microsoft 365 E3 价格问题仅限于以下货币：JPY（日元）、GBP（英镑）、EUR（欧元）、AUD（澳大利亚元）。 
-- Microsoft 365 商业基础版问题仅限于 USD（美元）。 
+- Microsoft 365 E3 价格问题仅限于以下货币：日元 (JPY)、英镑 (GBP)、欧元 (EUR)、澳大利亚元 (AUD)。 
+- Microsoft 365 商业基础版问题仅限于美元 (USD)。 
 
 合作伙伴应参考当前可用的 1 月和 2 月预览价目表，了解正确价格。 
 

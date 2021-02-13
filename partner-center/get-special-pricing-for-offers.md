@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624045"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281270"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>向特定行业销售，如教育、非营利和政府用户
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624045"
 - 管理员代理
 - 销售代理
 
-Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型企业和政府实体）提供特殊的降价。 你和你的客户必须同时具备资格才能够为他们提供特价。 
+Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型企业和政府实体）提供特殊的降价。 你和你的客户必须同时具备资格才能够为他们提供特价。 这些特价优惠目前 **仅适用于基于许可证的服务** ，例如 Microsoft 365、Dynamics、Intune 等。它不适用于其他类型 (软件订阅、永久性软件或 Azure 产品) 。
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>向特定行业销售的要求
 

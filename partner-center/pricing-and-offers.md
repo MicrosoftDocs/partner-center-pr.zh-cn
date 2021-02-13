@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979815"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281283"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、企业移动性套件、Azure 等的定价和优惠
 
@@ -82,14 +82,14 @@ ms.locfileid: "97979815"
 
 ## <a name="pricing-and-special-segments"></a>定价和特殊细分市场
 
-CSP 为特殊市场领域提供某些服务，例如，教育、非利润和政府社区云。 并非所有服务都在每个通道中可用。 没有任何段默认为我们称为 "商业" 段的内容。 所有基于许可证的定价都可在 "定价和优惠" 页上基于许可证的价格列表中找到。 当登录到已启用 Azure 政府版的 CSP 租户时，可以在基于使用情况的价目表中获得 Azure 政府版定价。
+CSP 为特殊市场领域提供某些服务，例如，教育、非利润和政府社区云。 并非所有服务都在每个通道中可用。 没有任何段默认为我们称为 "商业" 段的内容。 所有基于许可证的定价都可在 "定价和优惠" 页上基于许可证的价格列表中找到。 当登录到已启用 Azure 政府版的 CSP 租户时，可以在基于使用情况的价目表中获得 Azure 政府版定价。 软件订阅和永久性软件尚不支持这些特殊段。
 
 |**段**   |**谁需要限定**   |**合作伙伴资格资格客户**|**启用的产品类型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |教育|客户|不，客户资格将由 Microsoft 执行 |仅基于许可证|
 |非利润|客户|不，客户在合作伙伴中心以外的资格|仅基于许可证|
 |政府社区云 (GCC)|合作伙伴和客户|启用 GCC 后，合作伙伴可以创建 GCC 客户| 仅基于许可证|
-|Azure Government|Partner|限定后，伙伴在特定于 Azure 政府的 CSP 租户中运行|Azure 资源|
+|Azure Government|合作伙伴|限定后，伙伴在特定于 Azure 政府的 CSP 租户中运行|Azure 资源|
 
 合作伙伴边距、标价与预计零售价格之间的差异，可能因细分市场而异。 通常，教育和非利润往往会降低或不降低 CSP 合作伙伴的利润。 有关准确值，请参阅基于许可证的价格列表。 
 

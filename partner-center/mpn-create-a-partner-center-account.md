@@ -1,7 +1,7 @@
 ---
-title: 创建合作伙伴中心帐户
+title: 在合作伙伴中心创建 MPN 帐户
 ms.topic: article
-ms.date: 01/07/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作伙伴网络成员如何创建合作伙伴中心帐户，以便管理其网络权益和资格。
@@ -9,109 +9,68 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979730"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013684"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>创建业务合作伙伴中心帐户来管理网络权益和资格
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>在合作伙伴中心创建 MPN 帐户以管理网络权益和资格
 
-**相应的角色**
 
-- 全局管理员
-- 管理员代理
+如果不熟悉 Microsoft 合作伙伴网络 (MPN) 并且没有 MPN ID，则可以按照[注册说明](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)来开始注册。
 
-贵组织必须是 Microsoft 合作伙伴网络的成员，然后才能在合作伙伴中心创建帐户。 如果你不是该网络的成员，可以[立即加入](https://partner.microsoft.com/commercial#)。 在创建合作伙伴中心帐户后，请观看此短视频：[探索仪表板](https://vimeo.com/290338211)。
+## <a name="prerequisites"></a>先决条件 
 
-## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>在创建合作伙伴中心帐户之前获取工作电子邮件地址
+准备好在合作伙伴中心创建帐户后，还需要准备好以下各项才能入门。  在开始之前，你可能需要几分钟时间收集这些信息：
 
-公司需要购买电子邮件域，这样你才能为员工创建工作电子邮件地址。 请与 IT 部门合作购买电子邮件域，因为这是一个技术流程。 请使用新电子邮件创建 Azure AD 租户及合作伙伴中心帐户。
-
-## <a name="get-started"></a>入门
-
-若要在合作伙伴中心创建帐户，需要准备好以下信息。 在开始之前，你可能需要几分钟时间收集这些信息：
-
-- 全局管理员工作电子邮件。
-
-- 如果你不确定公司的工作帐户是什么，请参阅[公司工作帐户和合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。如果公司没有工作帐户，可以在创建帐户过程中创建一个工作帐户。 
-
-- 公司的法定实体名称和地址。  
+- 公司工作电子邮件或 Office 365 工作帐户。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md) 
+ 
+- 公司的法定实体名称和地址。
 
 - 签署法律协议的权限。 确保你有权代表公司签署法律协议，因为在注册过程中会要求你签署法律协议。
 
-- 你想要其作为主要联系人的人员的姓名和企业电子邮件。 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
+- 你想要其作为主要联系人的人员的姓名和企业电子邮件。 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以验证电子邮件地址，确保该电子邮件地址属于贵公司。 在主要联系人验证电子邮件地址后，我们将继续审查提供的信息。 验证通常需要 3-5 个工作日。 
 
-我们将在帐户创建过程中验证此信息。 有关验证流程的信息，请参阅[帐户验证](verification-responses.md)
- 
-## <a name="create-a-partner-center-account"></a>创建合作伙伴中心帐户
+- 有关验证流程的信息，请参阅[帐户验证](verification-responses.md)。
 
-1.  查看“欢迎”页上的信息，然后选择“下一步”。
+>[!NOTE]
+>如果 Microsoft 合作伙伴网络成员身份仍在伙伴成员中心 (PMC)，则需要将你的帐户立即迁移到合作伙伴中心。 下载[迁移的分步指南](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)。
 
-2.  以全局管理员身份登录到贵公司的工作帐户。 如果不确定公司的工作帐户是什么，请参阅[公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。
+## <a name="get-started"></a>入门
 
-    如果你知道贵公司有工作电子邮件帐户，请选择“登录”。 在下一页上，输入贵公司工作帐户的全局管理员凭据。 
+1. 首先使用公司提供的工作电子邮件，如 you@yourcompanyname.com。
+ 
+    a.  电子邮件地址必须有效并且你可以访问，因为我们会发送验证码以继续后续操作。
 
-    如果公司没有工作帐户，请选择“创建一个”以立即设置一个工作帐户。 创建工作帐户后，使用刚刚创建的工作帐户的全局管理员凭据登录。
+    b.  电子邮件地址不应包含类似于“info”、“admin”、“email@.”的词。或者“marketing@..”。因为这些词不受支持。
 
-3.  提供或更新公司的法定实体简介。
+    c.  若要购买 MAPS 或管理胜任度，你需要通过验证你的域和成为管理员来升级此帐户。 
 
-    可以查找公司简介或手动输入公司信息。 如果公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
+2. 你可以使用 Office 365 工作帐户（例如 you@contoso.onmicrosoft.com）登录。
 
-4. 提供公司信息后，输入主要联系人信息，然后选择“立即注册”。
+   >[!NOTE]
+   > 不能使用现有的 CSP 帐户凭据注册 MPN。
 
-    主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（可以是你或贵公司中的其他人）。 我们还将使用此信息来验证此人是否在贵公司中工作以及是否已注册合作伙伴中心帐户。
+3. 提供贵公司的法律业务细节。
 
-    > [!IMPORTANT]  
-    > 为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以确认：(1) 他或她已注册合作伙伴中心帐户，并且 (2) 该电子邮件地址属于贵公司。 在主要联系人确认其电子邮件地址后，我们将继续审查你所提供的信息。
+可以查找公司简介或手动输入公司信息。 如果公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
 
-5.  阅读并接受 Microsoft 合作伙伴网络协议中的条款和条件。 
+提供公司信息后，输入主要联系人信息，然后选择“立即注册”。
+主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（可以是你或贵公司中的其他人）。
 
-6.  验证是否已将你添加到了管理员代理组中。 若要完成你的帐户设置，包括添加其他用户，你必须具有管理员代理权限。 按照以下步骤查看或更新你的权限：
+>[!IMPORTANT]
+>为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以验证电子邮件地址，确保该电子邮件地址属于贵公司。 在主要联系人验证电子邮件地址后，我们将继续审查你提供的信息。 验证通常需要 3-5 个工作日。 
 
-    a. 在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home**)中，选择“设置”图标，然后选择“用户管理”。  
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>如何查看帐户详细信息或查看和下载 MPN 协议
 
-    b. 如果还没有选择管理员代理，请从用户列表中选择你的姓名，然后选择“管理员代理”。 选择“更新”。  
+用你的 MPN 凭据登录到合作伙伴中心。 选择[合作伙伴资料](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)，查看公司的法律详细信息、验证状态、MPN ID，并根据需要创建新的 MPN 位置。 
 
-## <a name="view-mpn-account-details"></a>查看 MPN 帐户详细信息
+还可以使用以下屏幕截图中显示的左侧菜单链接查看 MPN ID 等其他重要信息，管理 MPN 位置和查看 Microsoft 合作伙伴协议。
 
-创建合作伙伴中心帐户后，可以返回到合作伙伴中心来查看不同的帐户详细信息。 其中许多信息都显示在合作伙伴中心 [面板](https://partner.microsoft.com/dashboard)的 **合作伙伴简介** 页面上。
+:::image type="content" source="images/mpn-new.png" alt-text="合作伙伴资料":::
 
-此类详细信息包括：
-
-- 公司的法定实体简介
-
-- 关于你的 MPN ID 的信息
-
-- 与注册的 Microsoft 计划关联的当前协议的链接
-
-  例如，如果已在 MPN 计划中注册，将看到当前 Microsoft 合作伙伴网络协议的链接。 如果你已在其他合作伙伴计划（如云解决方案提供商 (CSP) 计划）中注册，还可以看到其他协议的链接，例如 Microsoft 合作伙伴协议。 
-
-  > [!NOTE]
-  > 如果要查看、访问或下载协议，或者检查签名日期，那么查看这些类型的链接可能会很有用。
-
-### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>如何查看帐户详细信息或查看和下载 MPN 协议
-
-请遵循以下步骤操作，查看帐户详细信息或查看和下载 MPN 协议：
-
-1. 使用工作帐户的用户名和密码登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
-
-2. 此时将出现“概述”页。 （如果看不到“概述”页，请从左侧导航菜单中选择“概述”。）
-
-3. 选择仪表板右上角的齿轮图标，然后选择“合作伙伴设置”。 这会转到“合作伙伴简介”页。
-
-4. 在“合作伙伴简介”页上，将看到不同的区域。 其中包括“法定实体简介”区域和“计划信息”区域 。
-
-5. 在“计划信息”下，找到“MPN 计划状态”字段 。 此时将显示 Microsoft 合作伙伴网络协议的链接。 它还说明了计划中的当前状态。
-
-
-   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="显示“合作伙伴简介”页上的“计划信息”区域的图像，其中包含一个红色框，突出显示了此区域中的“MPN 计划状态”字段及其与 Microsoft 合作伙伴网络协议的关联链接。":::
-
-6. 若要查看或下载此协议，请选择“Microsoft 合作伙伴网络协议”。  
-
-> [!NOTE]
-> 如果你在云解决方案提供商 (CSP) 计划中注册，还可以使用上述步骤来查看或下载其他已注册计划的其他协议，例如 Microsoft 合作伙伴协议。
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588744"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281341"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -158,7 +158,7 @@ ms.locfileid: "99588744"
     - 预估交易结算日期
     - 合作伙伴说明
 
-你可以使用 PSC 中的批量下载和上传功能来清理所有符合条件的交易的数据。
+您可以使用 PSC 中的批量下载和上传功能来添加所有符合条件的交易所缺少的所有详细信息。
 
 >[!Note]
 > 即使未满足上述先决条件，交易迁移仍将成功。 但是，如果 "合作伙伴中心" 中任何上述必选字段不可用，则无法更改该交易的状态。 然后，必须输入合作伙伴中心内的交易中缺少的所有必需信息，才能开始使用。 **强烈建议在将其迁移到合作伙伴中心之前，清除 PSC 中的合格交易。**
@@ -178,9 +178,9 @@ ms.locfileid: "99588744"
 4. **Psc 交易 ID** -用于交易的 psc 中的唯一标识符。
 5. **错误** -指示在迁移特定交易时是否出现任何错误。
 
-已成功迁移的所有交易在 PSC 中都不可见。 你可以处理 PC 中的已迁移交易。 对于共同销售交易，不会更改与 Microsoft 卖方的交互。
+已成功迁移的所有交易在 PSC 中都不可见。 您可以继续处理 PC 中的已迁移交易，包括完成交易注册。 对于共同销售交易，不会更改与 Microsoft 卖方的交互。
 
-从 PSC 迁移的交易将基于交易来源在入站和出站选项卡中提供。 所有合作伙伴创建的交易将在 "出站" 选项卡中提供，Microsoft 启动的交易将在合作伙伴中心的 "入站" 选项卡中提供。 迁移后将创建两种类型的交易。
+从 PSC 迁移的交易将基于交易来源在入站和出站选项卡中提供。 公司共享的所有交易都将在 "出站" 选项卡中提供，Microsoft 启动的交易将在合作伙伴中心的 "入站" 选项卡中提供。 迁移后将创建两种类型的交易。
 
 1. **共同销售的交易** -在 PSC 中标记为共同销售的交易将创建为合作伙伴中心的共同销售交易。
 2. **合作伙伴打头阵的交易** -未标记为共同销售的交易将创建为合作伙伴中心的伙伴 led 交易。 以合作伙伴为主导的交易对 Microsoft 卖方可见，并可升级到在到达终端状态 (赢得、丢失) 之前共同销售交易。 此外，如果交易中有符合激励条件的解决方案，则合作伙伴 led 的交易将符合交易注册条件。
@@ -386,12 +386,20 @@ PSC 中的机会 ID 与 PC 中的交易 ID 相同。 您可以在打开任何交
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>如果你在 PSC 中的帐户未与有效的 MPN 相关联，则查找正确的 MPN ID
 
-如果你在这里看到的是 PSC 中提到 "PSC 无效 MPN ID 关联问题" 的横幅，就是正确的地方。
+如果你在这里看到的是 PSC 中提到 "PSC 无效 MPN ID 关联问题" 的横幅，就是正确的地方。 由于以下原因，你的帐户可能已链接到无效的 MPN ID
+
+- 你的公司没有合作伙伴中心帐户。
+- PDM 在将你的 PSC 帐户链接到合作伙伴中心帐户 (MPNID) 的内部系统中输入帐户的 MPN ID 时出错。
+- 你的公司没有完成从合作伙伴成员中心的迁移 (PMC) 到 PC。
 
 首先，按照以下步骤查找正确的 MPN ID
 
 - 登录到合作伙伴中心帐户
 - 使用 [帐户设置文档](./partner-center-account-setup.md#locate-your-mpn-id) 中提供的指南查找 MPN ID。
+
+下面是一个屏幕截图，显示你可以在其中找到合作伙伴中心 MPN ID 的确切位置
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="显示合作伙伴可在其中找到其 MPN ID 的帐户设置的图像。"  lightbox="images/pscmigration/findingMPNID.png":::
 
 下一步，
 

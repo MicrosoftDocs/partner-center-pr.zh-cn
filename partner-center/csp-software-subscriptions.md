@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098833"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834850"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商 (CSP) 计划销售软件订阅
 
@@ -95,7 +95,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 在你购买软件后，客户需要下载该软件。 请使用下面的过程执行此操作。
 
 >[!NOTE]
->必须是管理员代理才能获取密钥和下载文件。
+>必须是管理员代理才能获取密钥和下载文件链接。
 
 1. 转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。
 2. 从“软件产品密钥与下载链接”复制“深层链接”，并与客户共享该链接。 当他们选择此链接时，将被重定向到 Microsoft 管理中心，以下载并获取其产品密钥。

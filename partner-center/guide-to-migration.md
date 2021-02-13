@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175245"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624181"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>从 PMC 迁移到合作伙伴中心的指南
 
@@ -53,10 +53,10 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 >[!NOTE]
 >如果你是位于中国的合作伙伴并已同时注册 Microsoft 合作伙伴网络和云解决方案提供商 (CSP) 计划，则每个帐户都有一个单独的租户。 注册了云解决方案提供商计划的帐户将在国家云中进行管理，而 Microsoft 合作伙伴网络帐户将在全球云中进行管理。 无法链接这两个帐户。
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="入门":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="将公司信息告诉我们":::
 
 验证或更新信息后，选择“接受并继续”。
-此页上的条款和条件与公司已在 PMC 中签署的协议**完全相同**。  
+此页上的条款和条件与公司已在 PMC 中签署的协议 **完全相同**。  
 此步骤将开始创建 Azure AD 租户并为你提供工作帐户。
 
 选择“接受并继续”还会执行以下操作：
@@ -71,7 +71,7 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 创建新的 Azure AD 租户后，可以邀请员工登录到合作伙伴中心。
 
-:::image type="content" source="images/migration/invite.png" alt-text="入门":::
+:::image type="content" source="images/migration/invite.png" alt-text="邀请员工":::
 
 如果你已使用现有的 AAD 租户登录，则员工的信息和权益也已同你一起迁移。 在这种情况下，请分配员工角色，以确定他们可在合作伙伴中心执行哪些操作。 
 
@@ -84,11 +84,11 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 尽管可以使用已购买的产品/服务，但在完成分配全局管理员角色的步骤之前，无法购买任何新产品/服务。
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="入门":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="获取控制权":::
 
 选择“开始”后，将看到以下屏幕：
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="入门":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="验证域所有权":::
 
 网站中已填充域注册机构。 只有域所有者可以更新 DNS 文件，我们可以通过将该文本文件复制并添加到 DNS 记录，来验证你是否为所有者。 完成更新需要几分钟时间。 需要从合作伙伴中心注销，然后重新登录。 你的角色将更改为全局管理员。
 
@@ -96,11 +96,11 @@ Partner Membership Center (PMC) 即将停用。 我们已邀请贵公司将 Micr
 
 全面浏览一下仪表板。 在仪表板中可以管理会员资格、添加企业档案供我们引荐、注册云解决方案提供商计划，并随时可以通过选择“仪表板”来查看与自己的业务相关的通知和套餐。 还可以管理奖励、在市场中购买套餐、注册市场投放服务，等等。  
 
-:::image type="content" source="images/migration/fre.png" alt-text="入门":::
+:::image type="content" source="images/migration/fre.png" alt-text="全面浏览":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>签署 Microsoft 合作伙伴协议
 
-如果你是一名间接经销商，则在设置合作伙伴中心帐户时，你仍需要正式注册云解决方案提供商计划。 若要检查成员身份状态，请转到[合作伙伴个人资料](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)并确认帐户类型。 然后，以[间接经销商](enrolling-in-the-csp-program.md)的身份注册 CSP。
+如果你是一名间接经销商，则在设置合作伙伴中心帐户时，你仍需要正式注册云解决方案提供商计划。 要检查成员身份状态，请转到[法律资料](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)并确认帐户类型。 然后，以[间接经销商](enrolling-in-the-csp-program.md)的身份注册 CSP。
 
  以间接经销商的身份注册后，请接受[间接供应商的 CSP 关系请求](indirect-reseller-tasks-in-partner-center.md)。
 

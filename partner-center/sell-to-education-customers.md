@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916866"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281302"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品以及如何在合作伙伴中心创建教育客户
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916866"
 
 ## <a name="create-an-education-customer"></a>创建教育客户
 
-本文介绍如何在合作伙伴中心创建教育客户，并向他们出售教育产品。 还介绍了如何查看验证状态并在必要时重新提交验证请求。
+本文介绍如何在合作伙伴中心创建教育客户，并向他们出售教育产品。 还介绍了如何查看验证状态并在必要时重新提交验证请求。 教育优惠目前 **仅适用于基于许可证的服务** ，例如 Microsoft 365、Dynamics、Intune 等。它不适用于其他类型 (软件订阅、永久性软件或 Azure 产品) 。
 
 > [!IMPORTANT]
 > Microsoft 将验证每个新创建的教育客户租户，以确保它们符合教育优惠。  请确保尽可能准确且完整地输入所需的信息，以防止在验证过程中出现延迟。

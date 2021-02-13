@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 992dd7f9901efd0176395fb626e4048d5229e82b
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 94df138eb94d79fb0e472744f19337ad536eb90d
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980238"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281263"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
@@ -53,20 +53,20 @@ ms.locfileid: "91980238"
    
    5. 在步骤2中，选择 " **最小影响** "，并选择 **其他一般问题** 作为问题类型。
    
-   6. 下载[“CSP 订阅转让”表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
+   6. 下载[“CSP 订阅转让”表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)。
 
-3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)、对其进行签名，然后将它发送给客户。 
+3. 订阅的合作伙伴：填写[云解决方案提供商订阅转移表单](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)、对其进行签名，然后将它发送给客户。 
 
    若要填写表单，需要以下信息：
 
-   - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 " **帐户设置**" " &gt; **组织配置文件**"，并使用其中列出的 **Microsoft ID**、 **组织名称**和 **地址** 。
+   - 当前合作伙伴的联系人信息和 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 " **帐户设置**" " &gt; **组织配置文件**"，并使用其中列出的 **Microsoft ID**、 **组织名称** 和 **地址** 。
 
    - 客户的 Microsoft ID。 在 "合作伙伴中心" 菜单中，选择 " **客户**"，然后展开客户的列表以查看其 **Microsoft ID**。
 
    - 要转移的订阅 ID。 在展开的客户列表中，选择 " **查看订阅**"，然后展开所选订阅以查看 **订阅 ID**。
 
    >[!Note]
-   >转移订阅将导致两个订阅 ID，你将在被转移的订阅的**编辑订阅**页上看到它们：**1**-“合作伙伴中心订阅 ID”用于计费目的。 **2**- 原始“Azure 订阅 ID”仍保留，将显示在合作伙伴中心和 Azure 管理门户中。 此 ID 将显示在你的对帐文件中。  **记录支持票证时，你需要使用这两个 ID。**
+   >转移订阅将导致两个订阅 ID，你将在被转移的订阅的 **编辑订阅** 页上看到它们：**1**-“合作伙伴中心订阅 ID”用于计费目的。 **2**- 原始“Azure 订阅 ID”仍保留，将显示在合作伙伴中心和 Azure 管理门户中。 此 ID 将显示在你的对帐文件中。  **记录支持票证时，你需要使用这两个 ID。**
 
 4. 订阅的客户和新合作伙伴：
 
@@ -92,7 +92,7 @@ ms.locfileid: "91980238"
      ```
 
      >[!NOTE]
-     > 客户的 **租户 id** 显示在合作伙伴中心中作为客户的 **Microsoft id**。 若要查找特定客户的 Microsoft ID (租户 ID) ，请登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。 然后从菜单中选择 " **客户** "。 找到列表上的客户。 选择向下箭头以展开客户的列表。 你将看到有关客户 *域名* 和客户的 **Microsoft ID**的信息。 在 PowerShell commandlet 中使用16位 **MICROSOFT ID** 。
+     > 客户的 **租户 id** 显示在合作伙伴中心中作为客户的 **Microsoft id**。 若要查找特定客户的 Microsoft ID (租户 ID) ，请登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。 然后从菜单中选择 " **客户** "。 找到列表上的客户。 选择向下箭头以展开客户的列表。 你将看到有关客户 *域名* 和客户的 **Microsoft ID** 的信息。 在 PowerShell commandlet 中使用16位 **MICROSOFT ID** 。
 
    - 查看帐户上的角色，包括以前的云解决方案提供商合作伙伴：
 

@@ -9,7 +9,7 @@
     - name: 与 Microsoft 合作
       href: mpn-overview.md
       displayName: mpn
-    - name: 创建合作伙伴中心帐户
+    - name: 在合作伙伴中心创建 MPN 帐户
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: 获取工作电子邮件地址
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: 续订套餐
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: 请求退款
+          href: mpn-refund-request.md
           displayName: mpn
         - name: 查找你的 MPN 权益
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: 市场推广权益
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: MPN 合作伙伴演示
+          href: mpn-demos.md
           displayName: mpn
         - name: 关于权益的常见问题解答
           href: benefits-faq.md

@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132957"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624147"
 ---
 # <a name="security-requirements-status-report"></a>安全要求状态报告
 
-**适用于**
-
-- 云解决方案提供商计划中的所有合作伙伴
-- 所有控制面板供应商
-- 所有顾问
-
-**相应的用户**
-- 所有支持的用户，包括来宾用户
+**相应的角色**
+- 控制面板供应商
+- 全局管理员
 
 本文介绍合作伙伴中心中的安全要求状态报告。 该报告提供有关合作伙伴租户中用户进行多重身份验证 (MFA) 的[合作伙伴安全要求](partner-security-requirements.md)的合规性指标。
 
-要在[合作伙伴中心](https://partner.microsoft.com/dashboard)访问此报告，请转到“设置” > 合作伙伴设置” > “安全要求状态”  。 该报告每天更新，反映过去七天的登录数据。
+要在[合作伙伴中心](https://partner.microsoft.com/dashboard)访问此报告，请转到“设置” > 帐户设置” > “安全要求状态”  。 该报告每天更新，反映过去七天的登录数据。
 
 >[!NOTE]
 >只有合作伙伴中心才支持安全要求状态报告。 Microsoft Cloud for US Government 或 Microsoft Cloud Germany 不提供此报告。 强烈建议所有通过主权云（Microsoft Cloud for US Government、德国 Microsoft 云）处理事务的合作伙伴立即履行这些安全要求。 但是，这些合作伙伴目前并不需要满足新的安全要求。 Microsoft 会在以后更详细地说明如何强制实施这些针对主权云的安全要求。
@@ -107,7 +102,7 @@ ms.locfileid: "93132957"
 
 如果使用第三方 MFA 解决方案，请确定如何将它与 Azure AD 集成。 一般情况下，有两种方法：联合与自定义控制：
 
-* **标识联合** - 当 Azure AD 收到身份验证请求时，Azure AD 会将用户重定向到联合的标识提供者进行身份验证。 身份验证成功后，联合的标识提供者会将用户重定向回到 Azure AD，并提供一个 SAML 令牌。 为使 Azure AD 能够识别到该用户在对联合的标识提供者进行身份验证时已完成 MFA 验证，该 SAML 令牌必须包含 *authenticationmethodsreferences*  声明（值为 *multipleauthn* ）。 检查联合的标识提供者是否支持发出此类声明。 如果是，请检查联合的标识提供者是否已配置为提供此项支持。 如果缺少声明，Azure AD（因而也还有合作伙伴中心）将不知道用户已完成 MFA 验证，并且缺少声明可能会导致该指标无法达到 100%。
+* **标识联合** - 当 Azure AD 收到身份验证请求时，Azure AD 会将用户重定向到联合的标识提供者进行身份验证。 身份验证成功后，联合的标识提供者会将用户重定向回到 Azure AD，并提供一个 SAML 令牌。 为使 Azure AD 能够识别到该用户在对联合的标识提供者进行身份验证时已完成 MFA 验证，该 SAML 令牌必须包含 *authenticationmethodsreferences*  声明（值为 *multipleauthn*）。 检查联合的标识提供者是否支持发出此类声明。 如果是，请检查联合的标识提供者是否已配置为提供此项支持。 如果缺少声明，Azure AD（因而也还有合作伙伴中心）将不知道用户已完成 MFA 验证，并且缺少声明可能会导致该指标无法达到 100%。
 
 * **自定义控制** - Azure AD 自定义控制不能用来确定用户是否已通过第三方 MFA 解决方案完成了 MFA 验证。 因此，对于 Azure AD（因而也包括合作伙伴中心）而言，通过自定义控制完成 MFA 验证的任何用户始终看上去并未完成 MFA 验证。 如果可能，我们建议在与 Azure AD 集成时改用标识联合，而不要使用自定义控制。
 
