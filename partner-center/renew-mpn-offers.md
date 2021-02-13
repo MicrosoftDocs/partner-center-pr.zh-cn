@@ -1,62 +1,52 @@
 ---
 title: 续订 MPN 产品/服务
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 续订 Microsoft Action Pack 和资格的 Microsoft 合作伙伴网络 (MPN) 产品/服务 - 续订时段开始于购买日期一周年后加一天。
+description: 续订 Microsoft 合作伙伴网络 (MPN) 产品/服务以获得胜任资格和高级专用化 - 续订时段开始于购买日期一周年后加一天。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846917"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624130"
 ---
-# <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a><span data-ttu-id="0d552-103">在续订时段内续订 Microsoft Action Pack 和资格的 MPN 产品/服务</span><span class="sxs-lookup"><span data-stu-id="0d552-103">Renew your MPN offers for Microsoft Action Pack and competencies during the renewal window</span></span>
+# <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a><span data-ttu-id="22612-103">在续订时段内续订 MPN 产品/服务以获得胜任资格和高级专用化</span><span class="sxs-lookup"><span data-stu-id="22612-103">Renew your MPN offers for competencies and advanced specializations during the renewal window</span></span>
 
-### <a name="applies-to"></a><span data-ttu-id="0d552-104">适用于</span><span class="sxs-lookup"><span data-stu-id="0d552-104">Applies to</span></span>
+### <a name="applies-to"></a><span data-ttu-id="22612-104">适用于</span><span class="sxs-lookup"><span data-stu-id="22612-104">Applies to</span></span>
 
-- <span data-ttu-id="0d552-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="0d552-105">Partner Center</span></span>
+- <span data-ttu-id="22612-105">合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="22612-105">Partner Center</span></span>
 
-<span data-ttu-id="0d552-106">Microsoft Action Pack 与金牌和饮品能力是为 Microsoft 合作伙伴网络成员提供的产品/服务，需要每年续订。</span><span class="sxs-lookup"><span data-stu-id="0d552-106">The Microsoft Action Pack and silver and gold competencies are offers for members of the Microsoft Partner Network that require annual renewal.</span></span> <span data-ttu-id="0d552-107">续订时段开始于购买日期一周年后加一天。</span><span class="sxs-lookup"><span data-stu-id="0d552-107">Your renewal window begins on the anniversary of your purchase date plus one day.</span></span> <span data-ttu-id="0d552-108">例如，如果你在 2018 年 9 月 1 日购买了 Microsoft Action Pack，则你的续订时段开始于 2019 年 9 月 2 日。</span><span class="sxs-lookup"><span data-stu-id="0d552-108">For example, if you purchased the Microsoft Action Pack on September 1, 2018, your renewal window begins on September 2, 2019.</span></span> <span data-ttu-id="0d552-109">可以在合作伙伴中心续订 Microsoft Action Pack 和能力。</span><span class="sxs-lookup"><span data-stu-id="0d552-109">You can renew Microsoft Action Pack and competencies in Partner Center.</span></span> <span data-ttu-id="0d552-110">在“会员产品/服务”下，可以找到购买的产品/服务，并可以在“续订开始日期”列下找到该产品/服务的周年日日期。</span><span class="sxs-lookup"><span data-stu-id="0d552-110">Under Membership offers, you'll find your purchased offers and can locate the anniversary date for your offers under the renewal start date column.</span></span> <span data-ttu-id="0d552-111">Microsoft 合作伙伴网络本身的会员不需要每年续订。</span><span class="sxs-lookup"><span data-stu-id="0d552-111">Membership in the Microsoft Partner Network itself does not require an annual renewal.</span></span> 
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><span data-ttu-id="22612-106">新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新</span><span class="sxs-lookup"><span data-stu-id="22612-106">Responding to COVID-19: Microsoft Partner Network update</span></span>
 
-<span data-ttu-id="0d552-112">若要了解详细信息，请选择下面的相应链接：</span><span class="sxs-lookup"><span data-stu-id="0d552-112">To learn more, select the appropriate link below:</span></span> 
+<span data-ttu-id="22612-107">Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。</span><span class="sxs-lookup"><span data-stu-id="22612-107">Microsoft is offering competency extension (with the exception of the Cloud Business Applications competency) and advanced specialization extension for partners with anniversary dates (AD) between January 1, 2021 and June 30, 2021.</span></span> <span data-ttu-id="22612-108">有关详细信息，请查看我们的[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。</span><span class="sxs-lookup"><span data-stu-id="22612-108">Please review our [partner blog post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) for more information.</span></span>
 
-- [<span data-ttu-id="0d552-113">能力</span><span class="sxs-lookup"><span data-stu-id="0d552-113">Competencies</span></span>](learn-about-competencies.md)
+## <a name="renewal-reminders"></a><span data-ttu-id="22612-109">续订提醒</span><span class="sxs-lookup"><span data-stu-id="22612-109">Renewal reminders</span></span>
 
-- [<span data-ttu-id="0d552-114">Microsoft Action Pack</span><span class="sxs-lookup"><span data-stu-id="0d552-114">Microsoft Action Pack</span></span>](mpn-get-action-pack.md)
+<span data-ttu-id="22612-110">可在周年日期后的 30 天内续订。</span><span class="sxs-lookup"><span data-stu-id="22612-110">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="22612-111">在此期间你的权益持续有效。</span><span class="sxs-lookup"><span data-stu-id="22612-111">Your benefits continue during that time.</span></span> <span data-ttu-id="22612-112">在周年日期之前的十五天时，Microsoft 将提醒你即将满一周年。</span><span class="sxs-lookup"><span data-stu-id="22612-112">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="22612-113">你将在周年日期之后的 23 天时收到另一个提醒。</span><span class="sxs-lookup"><span data-stu-id="22612-113">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="22612-114">当你在该周年日期加 30 天的时段内续订时，你的权益保持不变。</span><span class="sxs-lookup"><span data-stu-id="22612-114">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="22612-115">如果你未在续订时段内续订，将失去你的权益和能力。</span><span class="sxs-lookup"><span data-stu-id="22612-115">If you don't renew within your renewal window, you'll lose your benefits and competencies.</span></span>
 
-- [<span data-ttu-id="0d552-115">如何管理权益</span><span class="sxs-lookup"><span data-stu-id="0d552-115">How to manage your benefits</span></span>](manage-your-partner-network-benefits.md)
+<span data-ttu-id="22612-116">如果在续订时段内续订，你的新周年日日期将为当前周年日后的 365 天。</span><span class="sxs-lookup"><span data-stu-id="22612-116">When you renew during the renewal window, your new anniversary date will be 365 days after your current anniversary.</span></span>
 
-## <a name="renewal-reminders"></a><span data-ttu-id="0d552-116">续订提醒</span><span class="sxs-lookup"><span data-stu-id="0d552-116">Renewal reminders</span></span> 
+### <a name="how-to-view-competency-renewal-information"></a><span data-ttu-id="22612-117">如何查看能力续订信息</span><span class="sxs-lookup"><span data-stu-id="22612-117">How to view competency renewal information</span></span>
 
-<span data-ttu-id="0d552-117">可在周年日期后的 30 天内续订。</span><span class="sxs-lookup"><span data-stu-id="0d552-117">You have 30 days after your anniversary date to renew.</span></span> <span data-ttu-id="0d552-118">在此期间你的权益持续有效。</span><span class="sxs-lookup"><span data-stu-id="0d552-118">Your benefits continue during that time.</span></span> <span data-ttu-id="0d552-119">在周年日期之前的十五天时，Microsoft 将提醒你即将满一周年。</span><span class="sxs-lookup"><span data-stu-id="0d552-119">Fifteen days before your anniversary date, Microsoft will remind you of your upcoming anniversary.</span></span> <span data-ttu-id="0d552-120">你将在周年日期之后的 23 天时收到另一个提醒。</span><span class="sxs-lookup"><span data-stu-id="0d552-120">You will receive another reminder 23 days after your anniversary date.</span></span> <span data-ttu-id="0d552-121">当你在该周年日期加 30 天的时段内续订时，你的权益保持不变。</span><span class="sxs-lookup"><span data-stu-id="0d552-121">When you renew during that anniversary plus 30-day window, your benefits remain intact.</span></span> <span data-ttu-id="0d552-122">如果你未在续订时段内续订，将失去你的权益和能力。</span><span class="sxs-lookup"><span data-stu-id="0d552-122">If you don't renew within your renewal window, you'll lose your benefits and competencies.</span></span>
+1. <span data-ttu-id="22612-118">在仪表板上的“合作伙伴中心”菜单中，选择“能力”。</span><span class="sxs-lookup"><span data-stu-id="22612-118">From the Partner Center menu on your dashboard, select **Competencies**.</span></span>  
 
-<span data-ttu-id="0d552-123">如果在续订时段内续订，你的新周年日日期将为当前周年日后的 365 天。</span><span class="sxs-lookup"><span data-stu-id="0d552-123">When you renew during the renewal window, your new anniversary date will be 365 days after your current anniversary.</span></span>
+2. <span data-ttu-id="22612-119">在显示的能力列表中，你的能力应被标记为“完成”。</span><span class="sxs-lookup"><span data-stu-id="22612-119">In the list of competencies that are available, your competencies should be marked as Complete.</span></span>  
 
-## <a name="responding-to-covid-19"></a><span data-ttu-id="0d552-124">用于应对新冠肺炎疫情的措施：</span><span class="sxs-lookup"><span data-stu-id="0d552-124">Responding to COVID-19:</span></span>
+3. <span data-ttu-id="22612-120">选择一个能力。</span><span class="sxs-lookup"><span data-stu-id="22612-120">Select one of your competencies.</span></span> <span data-ttu-id="22612-121">你会看到一条通知，告知你在下一个续订日期之前，不再需要满足要求。</span><span class="sxs-lookup"><span data-stu-id="22612-121">You'll see a notice that you have been given an exemption from meeting the requirements until your next renewal date.</span></span>
 
-<span data-ttu-id="0d552-125">帮助你专注于支持你的客户：</span><span class="sxs-lookup"><span data-stu-id="0d552-125">To help you focus on supporting your customers:</span></span> 
+4. <span data-ttu-id="22612-122">若要使用此产品/服务，请转到“会员产品/服务”。</span><span class="sxs-lookup"><span data-stu-id="22612-122">To take advantage of this offer, go to **Membership offers**.</span></span> <span data-ttu-id="22612-123">根据你的能力购买或续订状态，你可能需要支付能力费用来完成这个过程。</span><span class="sxs-lookup"><span data-stu-id="22612-123">You may need to pay the competency fee to complete the process, depending on your competency purchase or renewal status.</span></span>
 
-- <span data-ttu-id="0d552-126">如果你的周年日日期介于 2020 年 7 月 1 日到 12 月 31 日之间，我们会将现有的一项或多项能力延长到下一个周年日日期，即 2021 年的那个周年日。</span><span class="sxs-lookup"><span data-stu-id="0d552-126">**if your competency anniversary date is between July 1 and December 31, 2020**, we are extending your existing competency or competencies through your next anniversary date in 2021.</span></span> <span data-ttu-id="0d552-127">你的能力续订提醒将因此更新，以体现此新产品/服务。</span><span class="sxs-lookup"><span data-stu-id="0d552-127">Your competency renewal reminders will be updated to reflect this new offer.</span></span> 
+<span data-ttu-id="22612-124">若要享受延长服务，必须将会员资格从 Partner Membership Center (PMC) 转到合作伙伴中心，以便续订能力并支付费用。</span><span class="sxs-lookup"><span data-stu-id="22612-124">To take advantage of the extension, you must have moved your membership from Partner Membership Center (PMC) to Partner Center to renew your competency and pay the fee.</span></span> <span data-ttu-id="22612-125">如果你尚未转移会员资格，请立即[了解详细信息](prepare-pmc-pc-migration.md) 并 [进行转移](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。</span><span class="sxs-lookup"><span data-stu-id="22612-125">If you have not moved your membership, [learn more](prepare-pmc-pc-migration.md) and [make the transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) today.</span></span>  
 
-- <span data-ttu-id="0d552-128">如果你的能力即将需要续订，你会在合作伙伴中心看到你的需求已经得到满足。</span><span class="sxs-lookup"><span data-stu-id="0d552-128">**If your competency is coming up for renewal**, you'll see in Partner Center that your requirements have been met.</span></span> <span data-ttu-id="0d552-129">若要续订，你将需要于续订时段内，在“会员产品/服务”页上支付能力费用。</span><span class="sxs-lookup"><span data-stu-id="0d552-129">To renew, you'll need to pay your competency fee within your renewal window on the Membership offers page.</span></span> 
+## <a name="next-steps"></a><span data-ttu-id="22612-126">后续步骤</span><span class="sxs-lookup"><span data-stu-id="22612-126">Next steps</span></span>
 
-- <span data-ttu-id="0d552-130">如果已经错过了续订时段，可以通过在“会员产品/服务”页上支付费用，重新激活能力并重新获得资源和权益。此延期在 2020 年 12 月 31 日前有效。</span><span class="sxs-lookup"><span data-stu-id="0d552-130">**If you've already missed your renewal window**, you can reactivate your competency and regain access to resources and benefits by paying your fee on the Membership offers page.This extension is available until December 31, 2020.</span></span>
+- [<span data-ttu-id="22612-127">能力</span><span class="sxs-lookup"><span data-stu-id="22612-127">Competencies</span></span>](learn-about-competencies.md)
 
-### <a name="how-to-view-competency-renewal-information"></a><span data-ttu-id="0d552-131">如何查看能力续订信息</span><span class="sxs-lookup"><span data-stu-id="0d552-131">How to view competency renewal information</span></span>
-
-1. <span data-ttu-id="0d552-132">在仪表板上的“合作伙伴中心”菜单中，选择“能力”。</span><span class="sxs-lookup"><span data-stu-id="0d552-132">From the Partner Center menu on your dashboard, select **Competencies**.</span></span>  
-
-2. <span data-ttu-id="0d552-133">在显示的能力列表中，你的能力应被标记为“完成”。</span><span class="sxs-lookup"><span data-stu-id="0d552-133">In the list of competencies that are available, your competencies should be marked as Complete.</span></span>  
-
-3. <span data-ttu-id="0d552-134">选择一个能力。</span><span class="sxs-lookup"><span data-stu-id="0d552-134">Select one of your competencies.</span></span> <span data-ttu-id="0d552-135">你会看到一条通知，告知你在下一个续订日期之前，不再需要满足要求。</span><span class="sxs-lookup"><span data-stu-id="0d552-135">You'll see a notice that you have been given an exemption from meeting the requirements until your next renewal date.</span></span>
-
-4. <span data-ttu-id="0d552-136">若要使用此产品/服务，请转到“会员产品/服务”。</span><span class="sxs-lookup"><span data-stu-id="0d552-136">To take advantage of this offer, go to **Membership offers**.</span></span> <span data-ttu-id="0d552-137">根据你的能力购买或续订状态，你可能需要支付能力费用来完成这个过程。</span><span class="sxs-lookup"><span data-stu-id="0d552-137">You may need to pay the competency fee to complete the process, depending on your competency purchase or renewal status.</span></span> 
-
-<span data-ttu-id="0d552-138">若要享受延长服务，必须将会员资格从 Partner Membership Center (PMC) 转到合作伙伴中心，以便续订能力并支付费用。</span><span class="sxs-lookup"><span data-stu-id="0d552-138">To take advantage of the extension, you must have moved your membership from Partner Membership Center (PMC) to Partner Center to renew your competency and pay the fee.</span></span> <span data-ttu-id="0d552-139">如果你尚未转移会员资格，请立即[了解详细信息](prepare-pmc-pc-migration.md) 并 [进行转移](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。</span><span class="sxs-lookup"><span data-stu-id="0d552-139">If you have not moved your membership, [learn more](prepare-pmc-pc-migration.md) and [make the transition](https://partners.microsoft.com/partnerprogram/Welcome.aspx) today.</span></span>  
+- [<span data-ttu-id="22612-128">如何管理权益</span><span class="sxs-lookup"><span data-stu-id="22612-128">How to manage your benefits</span></span>](manage-your-partner-network-benefits.md)
 
