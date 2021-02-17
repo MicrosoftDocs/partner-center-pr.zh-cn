@@ -127,9 +127,6 @@
     - name: Microsoft 合作伙伴协议 - CSP
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: 管理位置
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: 间接提供商可如何帮助其经销商采用 MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: 链接工作帐户
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: 管理位置
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: 验证域所有权
           href: become-global-admin.md
         - name: 验证帐户信息
@@ -262,6 +262,8 @@
       items:
         - name: 关于联合销售潜在顾客
           href: manage-co-sell-opportunities.md
+        - name: 批量操作
+          href: bulk-operations.md
         - name: 使用联合销售 CRM 连接器
           items:
             - name: 面向 Dynamics 365

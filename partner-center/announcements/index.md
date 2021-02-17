@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588727"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490149"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "99588727"
 
 |**类别**|**2021 年 2 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[Microsoft Viva 主题简介](2021-february.md#7)|2 月 12 日|
+|产品/市场|[Microsoft 365 E3 价格即将于 2021 年 3 月更改](2021-february.md#6)|2 月 11 日|
+|产品/市场|[基于许可证的预览版价目表已针对挪威克朗更新](2021-february.md#5)|2 月 10 日|
 |功能|[高级评估（合规性管理器的加载项）将于 2021 年 3 月 1 日推出](2021-february.md#4)|2 月 5 日|
 |功能|[新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新](2021-february.md#3)|2 月 4 日|
 |功能|[针对合作伙伴中心内推荐模块的新更新](2021-february.md#2)|2 月 4 日|
