@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974750"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541008"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -348,7 +348,9 @@ Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合
 
 从 2021 年 2 月起，Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。 该项限制约束某个时段内对某服务的请求数，以防止过度使用资源。 超出限制阈值时，合作伙伴中心会在一段时间内限制来自该客户端的任何后续请求。
   
-合作伙伴权益：合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制将使所有合作伙伴都保持最佳性能和可靠性。  
+合作伙伴权益：
+
+合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制将使所有合作伙伴都保持最佳性能和可靠性。  
 
 - 该项限制可确保停机时间最短。
 - 该项限制可减少大容量请求的数量，有助于确保所有合作伙伴的性能一致。
