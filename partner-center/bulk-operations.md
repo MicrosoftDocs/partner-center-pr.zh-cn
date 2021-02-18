@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334568"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645633"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>使用逗号分隔的值（ (CSV) 文件）进行联销售机会的批量操作
 
@@ -71,7 +71,7 @@ ms.locfileid: "100334568"
 客户所在城市|是|客户组织所在的城市。|Redmond
 客户所在的州/省|否|客户组织所在的省/市/自治区。|Washington
 客户邮政编码|否|客户组织所在区域的邮政编码。|98052
-客户所在国家/地区|是|客户组织所在的国家/地区。 使用 [此处]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的三个字母国家/地区代码。|USA
+客户所在国家/地区|是|客户组织所在的国家/地区。 使用 [此处]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的两个字母国家/地区代码。|US
 Customer D-U-N-S ID|否|尝试提取客户组织的 DUNS ID。 这将有助于更快地与 Microsoft 端的客户组织进行匹配，有助于更快地分配卖方。 你可以从此 [网站](https://www.dnb.com/duns-number/lookup.html)免费获取 DUNS ID。|81466849
 客户联系人名字|依赖的对象|只有在需要 Microsoft 帮助时，名字才是必需的。 客户组织中处理此交易的主要联系人的名字。|John
 客户联系人姓氏|依赖的对象|姓氏仅在需要 Microsoft 帮助时才是必需的。 客户组织的主要联系人的姓氏正在处理此交易。|客户
@@ -87,7 +87,7 @@ Microsoft 引用状态|依赖的对象|指示发送给 Microsoft 寻求帮助的
 估计结束日期|是|以 MM/DD/YYYY 格式基于与客户的初始会话的交易的估计结束日期。 <br/> **日期应为 UTC 时区。"合作伙伴中心 UI" 中显示的所有日期均基于本地化时区。如果要查看在 UTC 时区中提供日期的引用，则合作伙伴中心 UI 可能会有 +/-1 天的差异。**|1/30/2020
 CRM ID|否|CRM 系统中此特定引用的标识符（如果有）。 这是一个自由格式的文本输入字段。|34234324-sdfsdf-345345-sfd
 市场营销活动 ID|否|此字段指示市场营销活动，该活动导致此特定引用。 通常用于 ROI 计算|BingSummer2020
-说明|否|指示与引用相关的更新的详细说明|这是一个示例说明
+备注|否|指示与引用相关的更新的详细说明|这是一个示例说明
 Microsoft 帮助是必需的？|是|这是为了指出是否希望 Microsoft 帮助你建立此共同销售请求|是
 Microsoft 有哪些特定帮助？|依赖的对象|Microsoft 可以通过六种不同的方法之一来帮助你。 仅当你选择 "否" 时，此问题才适用。 " <br/> **根据以下选项输入一个数字** <br/><br/> **1**-特定于工作负荷的价值主张  <br/> **2**-客户技术体系结构  <br/> **3**-概念证明/Demo  <br/> **4**-引号和许可  <br/> **5**-销售后客户成功  <br/> **6**-常规或其他|1|
 与 Microsoft 销售团队共享|是|这是为了指出是否要与 Microsoft 销售团队共享交易的详细信息。 仅当你选择 "否" 时，此问题才适用。 "|是

@@ -1,7 +1,7 @@
 ---
 title: 间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议-常见问题
 ms.topic: article
-ms.date: 02/04/2021
+ms.date: 02/17/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 有关 Microsoft 合作伙伴协议的关键问题答案
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624283"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645888"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>间接提供商如何帮助其间接经销商接受 (MPA 的 Microsoft 合作伙伴协议) 
 
@@ -117,7 +117,7 @@ ms.locfileid: "99624283"
 
 •[管理合作伙伴帐户中的位置](manage-locations.md)
 
-如果出现问题，请从合作伙伴中心内提出 [支持票证](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) 。 
+如果遇到问题，请从合作伙伴中心内提出 [支持票证](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) 。 
 
 
 #### <a name="i-dont-know-which-mpn-id-to-use-while-enrolling-into-csp-indirect-reseller-program"></a>在注册到 CSP 间接经销商计划中时，我不知道要使用哪个 MPN ID？
@@ -126,7 +126,7 @@ ms.locfileid: "99624283"
 
 #### <a name="how-do-i-check-which-mpn-id-is-associated-with-my-csp-account"></a>如何实现检查与 CSP 帐户关联的 MPN ID？
 
-**答案** 登录到你的 CSP 间接经销商帐户。 中转到 "**设置**" "  ->  **帐户设置**" "  ->  **组织配置文件**  ->  **标识符**"。 在页面的 CSP 区域下，关联的 **MPN id** 是与 csp 帐户关联的 MPN id，应将其提供给你的间接提供程序以获取 csp 事务。 
+**答案** 登录到你的 CSP 间接经销商帐户。 转到“设置” -> “帐户设置” -> “组织资料” -> “标识符”   。 在页面的 CSP 区域下，关联的 **MPN id** 是与 csp 帐户关联的 MPN id，应将其提供给你的间接提供程序以获取 csp 事务。 
 
 #### <a name="how-can-i-view-all-my-mpn-ids"></a>如何查看我的所有 MPN Id？
 
@@ -142,22 +142,22 @@ ms.locfileid: "99624283"
 
 #### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>为什么无法将我的 MPN ID 关联到我的租户？
 
-**答案**  如果无法将 MPN ID 关联到租户，并且看到了错误，则意味着 MPN ID 和租户不在同一国家/地区。 要使关联正常工作，它们必须位于同一国家/地区。 这是因为 Microsoft 奖励按国家/地区和 MPN ID 级别付费。 例如，如果在法国拥有 CSP 帐户，则在华北还需要 MPN location (MPN) ID，才能获得付费奖励。 英国的 MPN ID 尽管它们处于相同的 CSP 区域，但不起作用。 
+**答案**  如果无法将 MPN ID 关联到租户，并且看到了错误，则意味着 MPN ID 和租户不在同一国家/地区。 要使关联正常工作，它们必须位于同一国家/地区。 此要求的原因是，Microsoft 奖励按国家/地区和 MPN ID 级别付费。 例如，如果在法国拥有 CSP 帐户，则在华北还需要 MPN location (MPN) ID，才能获得付费奖励。 英国的 MPN ID 尽管它们处于相同的 CSP 区域，但不起作用。 
 
 若要解决此问题，请在与 CSP 国家/地区相同的国家/地区创建 MPN 位置。 详细了解如何 [管理 MPN 位置](manage-locations.md)。
 
 #### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>我在法国有一个 CSP 间接经销商帐户。 是否可以与德国的间接提供商合作？
 
-**答案** 是的。 一旦 CSP 区域中的 CSP 间接经销商帐户处于活动状态，就可以使用同一帐户在整个区域中完成业务。 了解 [CSP 区域](regional-authorization-overview.md)的详细信息。
+**答案** 是的。 如果 CSP 间接经销商帐户在 CSP 区域中处于活动状态，则可以使用同一帐户在整个区域中完成业务。 了解 [CSP 区域](regional-authorization-overview.md)的详细信息。
 
 #### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>我是美国的间接经销商。 能否与英国的间接提供商合作？
 
 **答案** 不。 CSP 是一个区域程序。 间接经销商和间接提供商的 CSP 帐户必须位于同一 CSP 区域才能完成业务。 若要解决此问题，需要在欧洲区域创建一个新的 CSP 帐户，并在与 CSP 帐户所在国家/地区相同的国家/地区创建一个 MPN 位置，然后接受来自间接提供商的关系请求。 例如，你可以在法国创建一个 CSP 间接经销商帐户，在华北创建 MPN 位置，然后接受来自法国或 CSP 欧洲地区的任何其他国家/地区的间接提供商提供的邀请。
 
-#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>合作伙伴中心是否可以有1个以上的 MPN 和 CSP 帐户？
+#### <a name="can-i-have-more-than-one-mpn-and-csp-accounts-in-partner-center"></a>合作伙伴中心是否可以有多个 MPN 和 CSP 帐户？
 
-**答案** 你只能有一个 MPN 帐户 (登录) ，以及一个或多个 CSP 帐户 (登录) ，具体取决于你的公司的业务的 CSP 区域。 例如，你可以将美国 (HQ) 中的 MPN 帐户与美国 (子公司) 、英国 (子公司) 和澳大利亚 (子公司) 中的位置配合使用。
-你可以在美国使用一个 CSP 帐户 (Office 365 工作帐户) ，该帐户与你的 MPN 帐户具有相同的登录凭据。 可以在英国使用第二个 CSP 帐户 具有不同的登录凭据来管理欧洲地区的 CSP 企业，而第三个凭据具有不同的登录凭据，来自其他两个凭据以管理澳大利亚的 CSP 企业。
+**答案** 你只能有一个 MPN 帐户 (登录) ，以及一个或多个 CSP 帐户 (登录) 具体取决于你的公司的业务的 CSP 区域。 例如，你可以将美国 (HQ) 中的 MPN 帐户与美国 (子公司) 、英国 (子公司) 和澳大利亚 (子公司) 中的位置配合使用。
+在美国，你可以使用一个 CSP 帐户 (Office 365 工作帐户) ，该帐户具有与你的 MPN 帐户相同的登录凭据。 可以在英国使用第二个 CSP 帐户 它具有不同的登录凭据来管理欧洲地区的 CSP 企业，而第三个凭据具有不同的登录凭据，来自其他两个，用于管理澳大利亚的 CSP 企业。
 
 所有三个 CSP 帐户都必须与 MPN ID 位置帐户相关联，以便在这些子公司中进行业务和赢得奖励。 MPN 胜任度和权益只能由 MPN 帐户进行管理。
 
@@ -169,9 +169,9 @@ ms.locfileid: "99624283"
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>我想要将我的 MPN 帐户从合作伙伴成员中心迁移到合作伙伴中心。 如何执行此操作？ 我不知道谁是 PMC 的 MPN 管理员，如何迁移？ 
 
-**答案** 下载有关如何将 [MPN 从 PMC 迁移到 PC](guide-to-migration.md)的循序渐进指南。 它有多个指向迁移 hep 的链接。 https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx"
+**答案** 下载有关如何将 [MPN 从 PMC 迁移到 PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)的循序渐进指南。
 
-迁移 MPN 帐户后，请了解有关如何对 MPA 进行签名的详细信息，请参阅 [microsoft 合作伙伴协议] 9microsoft # 下载-----------) -------------------------------------
+迁移你的 MPN 帐户后，请了解有关如何对 MPA 进行签名的详细信息，请参阅 [microsoft 合作伙伴协议](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process)。
 
 如果出现问题，请从合作伙伴中心内提出 [支持票证](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 。
 
@@ -204,11 +204,11 @@ ms.locfileid: "99624283"
 
 #### <a name="i-enrolled-in-mpn-program--csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-seems-to-be-stuck-in-the-pending-state-what-should-i-do"></a>我在 MPN program/CSP 间接经销商计划中注册，但合法的业务配置文件验证状态似乎仍处于挂起状态。 应采取何种操作？
 
-**答案**  如果 CSP 在5个以上的工作日内为你的 CSP 提供 **暂挂的资格** ，请单击 " [合作伙伴中心支持](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)"，从合作伙伴中心内提出支持票证。
+**答案**  如果 CSP 在5个以上的工作日内，你的 CSP 间接经销商合法业务配置文件处于 **待定的资格** 状态，请单击 " [合作伙伴中心支持](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)"，从合作伙伴中心获得支持票证。
 
 :::image type="content" source="images/pending.png" alt-text="状态为挂起":::
 
-## <a name="question-about-working-in-partner-center"></a>有关在合作伙伴中心工作的问题
+## <a name="questions-about-working-in-partner-center"></a>合作伙伴中心的问题
 
 #### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>我不知道合作伙伴中心管理员是谁可以接受 MPA？
 
