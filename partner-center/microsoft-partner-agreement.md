@@ -1,7 +1,7 @@
 ---
 title: 适用于云解决方案提供商的 Microsoft 合作伙伴协议 (MPA)
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 云解决方案提供商合作伙伴要求，以便签署并验证此统一的、以数字方式接受的 Microsoft 合作伙伴协议 (MPA)。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773475"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281327"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -34,6 +34,8 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>验证你的 MPN ID 是否处于活跃状态并已迁移到合作伙伴中心
 
 1. 如果你尚未将 MPN 帐户从 Partner Membership Center (PMC) 迁移到合作伙伴中心，则需要[将 MPN 帐户迁移到合作伙伴中心](move-pmc-pc-map.md)。 迁移后，完成其余步骤。 
+
+1. 如果你没有 MPN 帐户或 ID，需要先加入 Microsoft 合作伙伴网络计划。 [了解如何加入 MPN](mpn-create-a-partner-center-account.md)。
 
 1. 用你的 MPN 帐户凭据登录到合作伙伴中心。
  
@@ -103,7 +105,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 1. 如果要将 MPN 帐户从 PMC 迁移到合作伙伴中心：[从 PMC 迁移到合作伙伴中心，并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. 如果要在合作伙伴中心注册为 CSP Indirect Reseller：[加入成为 MPN 成员并签署 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. 如果要在合作伙伴中心注册 CSP Indirect Reseller：[加入成为 MPN 成员并接受 Microsoft 合作伙伴协议](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. 完成上述步骤 1 和/或步骤 2 后，在合作伙伴中心验证 MPA 状态：[验证 Microsoft 合作伙伴协议的接受状态](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  

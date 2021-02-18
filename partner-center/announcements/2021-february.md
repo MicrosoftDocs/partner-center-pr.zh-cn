@@ -9,16 +9,208 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624164"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540992"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月公告
 
 本页详述了 Microsoft 合作伙伴中心 2021 年 2 月的公告。
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> 现已上线：针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign
+
+### <a name="categories"></a>类别
+
+- 日期:2021-02-16
+- 功能
+
+### <a name="summary"></a>摘要
+
+Microsoft 会将所有电子签名处理从 DocuSign 转移到 Adobe Sign。
+
+### <a name="impacted-audience"></a>影响受众
+
+MPA 下的现有直接和间接云解决方案提供商 (CSP) 合作伙伴。
+
+### <a name="details"></a>详细信息
+
+2021 年 2 月，Microsoft 会针对 CSP 合作伙伴将所有电子签名处理从 DocuSign 转移到 Adobe Sign。
+
+你也希望实现顺利的转移。 迁移后，每当需要你的电子签名时，你都将收到一封来自 adobesign@adobesign.com（而不是 DocuSign）的电子邮件。 此电子邮件将提供一个指向你将需要签名的 Adobe Sign 网页的链接。 Microsoft 合作伙伴将不必重新签署现有协议，只需签署未来的渠道协议。 乌克兰、俄罗斯和哈萨克斯坦的合作伙伴需要每年以物理方式或电子方式对 Rider 进行重新签名。
+
+可在[资源库](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 签名请求电子邮件的示例。
+
+如果要获得最佳体验，请确保执行以下操作：
+
+1. 将 adobesign@adobesign.com 添加到安全发件人列表，以避免来自此帐户的电子邮件直接进入垃圾邮件文件夹。
+2. 与 IT 部门协作，以执行以下操作：
+    - 将 adobesign@adobesign.com 电子邮件地址添加到安全发件人列表中，确保它未包含在任何预先建立的钓鱼规则中。
+    - 更新现有安全策略，确保所有必要的收件人都可以对你的 Adobe Sign 企业许可证下的文档签名。
+
+可在 [Adobe Sign 迁移合作伙伴页](https://aka.ms/eSignature/External)上找到与载入、功能和业务流程相关的资源。
+
+Adobe Sign 是 Microsoft 首选的电子签名解决方案 (ESS)。 转移到 Adobe Sign 可确保一个安全、有效的电子签名体验，为客户和合作伙伴创造更大的价值。
+
+如需详细了解如何以电子方式对文档和电子签名委托签名，请参阅以下教程：
+
+- [以电子方式对文档签名 |Adobe Sign 教程](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [委托他人对文档签名 | Adobe Sign 教程](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>后续步骤
+
+请与贵组织中的相应利益干系人共享此信息。
+
+### <a name="questions"></a>是否有任何问题?
+
+如有任何疑问，请使用[呼叫日志记录工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或通过 [Explore MS](https://www.explore.ms/) 联系区域运营中心。 请严格按照标准 CLT 流程操作，以便我们可尽快处理你的查询。
+
+### <a name="change-log"></a>更改日志
+
+- 2021 年 1 月 15 日：原始发布 
+- 2021 年 2 月 16 日：现已上线，新资源：Adobe Sign 迁移合作伙伴页 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> 提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制
+
+### <a name="categories"></a>类别
+
+- 日期:2021-02-16
+- 发展你的业务
+
+### <a name="summary"></a>总结
+
+Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴  
+
+### <a name="details"></a>详细信息
+
+从 2021 年 2 月起，Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。 该项限制约束某个时段内对某服务的请求数，以防止过度使用资源。 超出限制阈值时，合作伙伴中心会在一段时间内限制来自该客户端的任何后续请求。
+
+合作伙伴权益：
+
+合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制可帮助所有合作伙伴都保持最佳性能和可靠性。  
+
+- 该项限制可确保停机时间最短。
+- 该项限制可减少大容量请求的数量，有助于确保所有合作伙伴的性能一致。
+
+**要受限制的 API：**
+
+| Operation | 合作伙伴中心文档 |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [根据 ID 获取订阅](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [获取所有客户订单](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [按 ID 获取订单](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [获取订阅预配状态](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [管理订单和订阅](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [获取订阅的加载项列表](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [获取订阅的 Azure 权利列表](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [获取订阅注册状态](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [获取客户的所有转让](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [获取产品升级状态](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [获取试用版转换产品/服务的列表](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+我们强烈建议合作伙伴考虑使用活动日志 API 来提高效率和避免限制。 如需详细了解此功能，请在 [此处](/partner-center/develop/api-throttling-guidance)查看详细信息。  
+
+### <a name="next-steps"></a>后续步骤
+
+查看本主题的 [资源](/partner-center/develop/api-throttling-guidance) ，并采取必要的步骤。  
+
+_______________
+
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Microsoft Viva 主题简介
+
+### <a name="categories"></a>类别
+
+- 日期:2021 年 2 月 12 日
+- 功能
+
+### <a name="affected-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft Viva 主题应用人工智能 (AI) 来识别组织中的知识和专业技能，并将其组织为共享主题，例如产品、客户或项目。 通过沉浸式主题卡和主题页，你可以在团队、项目和文档的上下文中方便地学习知识。 AI 和人类共同提升知识，并在你每天使用的应用中呈现它们。 
+
+用户必须获得以下其中一项许可才能访问 Viva 主题：   
+- Microsoft 365 F1、F3、E3、A3、E5 或 A5 
+- Office 365 F3、E1、A1、E3、A3、E5 或 A5 
+- Microsoft 365 商业基础版、标准版或高级版 
+- SharePoint K、计划 1 或 计划 2 
+
+产品/服务详细信息
+
+2 月 1 日发布的价目表中包含具有这些产品/服务名称的“主题体验”。  3 月 1 日更新价目表后，这些产品/服务名称讲更新到“Viva 主题”下。
+
+|**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
+|------------------|:--------------------|:------------------|
+|Viva 主题|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|面向教职员工的 Viva 主题|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
+|面向学生的 Viva 主题|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
+
+### <a name="next-steps"></a>后续步骤
+
+- 查看有关本主题的资源，并与组织内部的相关利益干系人共享此信息。  
+- 可以在 [Viva 主题资源中心](https://resources.techcommunity.microsoft.com/viva-topics)找到详细信息。
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 E3 价格即将于 2021 年 3 月更改
+
+### <a name="categories"></a>类别
+
+- 日期:2021 年 2 月 11 日
+- 产品/市场
+
+### <a name="affected-audience"></a>影响受众
+
+通过云解决方案提供商 (CSP) 计划以 EUR、AUD、GBP 和 JPY 交易的所有合作伙伴。
+
+### <a name="details"></a>详细信息
+
+2021 年 3 月的基于许可证的预览版价目表已更新，以反应 Microsoft 365 E3 的价格变化。 下方列出了受影响的产品/服务和货币。 
+ 
+产品/服务名称：Microsoft 365 E3 产品/服务 ID：2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 材料 ID：AAA-35638
+
+这些 Microsoft 365 E3 价格更新仅限于以下货币：JPY（日元）、GBP（英镑）、EUR（欧元）、AUD（澳大利亚元）。 3 月文件中还有其他价格变化，合作伙伴应获取最新预览版以查看其他预期的更改。
+
+### <a name="next-steps"></a>后续步骤
+
+合作伙伴应从合作伙伴中心下载最新的价目表文件，以获取最新的 3 月价格。 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>基于许可证的预览版价目表已针对挪威克朗更新
+
+### <a name="categories"></a>类别
+
+- 日期:2021 年 2 月 10 日
+- 产品/市场
+
+### <a name="affected-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有合作伙伴
+
+### <a name="summary"></a>摘要
+
+更新了基于许可证的预览版价目表，以反应预期于 2021 年 3 月 1 日推出的挪威克朗定价。
+
+### <a name="details"></a>详细信息
+
+此前发布的基于许可证的 3 月价目表中不包含 3 月的外汇汇率变化。 此文件已更新，以反映预期的挪威克朗价格变化。 合作伙伴应获取最新预览版定价文件，以查看预期 2021 年 3 月 1 日推出的这些更改。 这些更改仅适用于挪威克朗货币定价。
+
+### <a name="next-steps"></a>后续步骤
+
+合作伙伴应下载当前价目表预览文件，以查看预期在 2021 年 3 月 1 日推出的更改。
 
 _______________
 
@@ -26,7 +218,7 @@ _______________
 
 ### <a name="categories"></a>类别
 
-- 日期:2021-02-05
+- 日期:2021 年 2 月 5 日
 - 功能
 
 ### <a name="affected-audience"></a>影响受众
@@ -61,7 +253,7 @@ _________________________________________________________
 
 ### <a name="categories"></a>类别
 
-- 日期:2021-02-04
+- 日期:2021 年 2 月 4 日
 - 功能
 
 ### <a name="impacted-audience"></a>影响受众
@@ -76,7 +268,7 @@ ________________
 
 ### <a name="categories"></a>类别
 
-- 日期:2021-02-03
+- 日期:2021 年 2 月 5 日
 - 功能
  
 ### <a name="impacted-audience"></a>影响受众
@@ -111,14 +303,14 @@ ________________
 
 如果需要使用任何新功能方面的帮助，请查看知识库中的[“推荐”部分](https://docs.microsoft.com/partner-center/referrals)，或[联合体验库](https://aka.ms/CoSellExperience)中提供的支持指南材料（需要登录）。
 
-若要获得更多支持，你可以[通过我们的合作伙伴支持团队开具工单](https://partner.microsoft.com/support/?stage=1)。
+你可以[通过我们的合作伙伴支持团队开具工单](https://partner.microsoft.com/support/?stage=1)。
 
 ________________
 ## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> 2021 年 2 月 25 日之前将弃用并停用教育客户验证过程的 PUT 资格 API，2021 年 5 月 4 日之前将弃用并停用 GET 资格 API。
 
 ### <a name="categories"></a>类别
 
-- 日期:2021-02-04
+- 日期:2021 年 2 月 4 日
 - 功能
 
 ### <a name="impacted-audience"></a>影响受众
@@ -131,7 +323,7 @@ ________________
 
 ### <a name="next-steps"></a>后续步骤
 
-- 如果尚未更新到新的 API，请执行此操作，以便及时成功改换
+- 请更新到新的 API，以便及时成功转换
 - 请参阅新的合作伙伴中心 API 更改，以及操作就绪资源指南：[合作伙伴中心教育客户验证流程增强功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - 请与组织内的相应团队和经销商共享此信息，以帮助他们为这些更改做好准备。
 
