@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540975"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756142"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,11 @@ ms.locfileid: "100540975"
 
 |**类别**|**2021 年 2 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[PUT 资格 API 已停用，GET 则将在 5 月停用](2021-february.md#14)|2 月 25 日|
+|功能|[使用合作伙伴中心批量操作功能大规模共享联合销售交易](2021-february.md#13)|2 月 25 日|
+|功能|[使用新的交易迁移功能，从 Partner Sales Connect (PSC) 迁移交易](2021-february.md#12)|2 月 25 日|
+|功能|[增加了合作伙伴主导的联合销售交易的灵活性](2021-february.md#11)|2 月 25 日|
+|功能|[对云解决方案提供商 (CSP) 客户加入的更改](2021-february.md#10)|2 月 25 日|
 |功能|[现已上线：针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign](2021-february.md#9)|2 月 16 日|
 |发展你的业务|[提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制](2021-february.md#8)|2 月 16 日|
 |功能|[Microsoft Viva 主题简介](2021-february.md#7)|2 月 12 日|

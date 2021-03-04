@@ -99,6 +99,11 @@
         - name: Azure 和云权益
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Visual Studio 权益
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: 技术预售和部署权益
+          href: technical-benefits.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 软件保障
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: 从 Microsoft 请求 SLA 信用额度
           href: request-credit.md
+        - name: 税务政策如何影响付款
+          href: tax-policies-affect-payout.md
     - name: 为客户设置 Azure 费用预算
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp
