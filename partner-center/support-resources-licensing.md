@@ -1,25 +1,22 @@
 ---
 title: Microsoft 授权资源
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 作为 Microsoft 合作伙伴，你可能会对使用不同的 Microsoft 许可计划有疑问。 本文提供了可帮助的资源。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999751"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756809"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>面向 Microsoft 合作伙伴的许可资源指南 
 
-**适用于**
-
-- Microsoft MPN 合作伙伴、CSP 合作伙伴和其他人
 
 本文共享可帮助回答合作伙伴许可问题的资源。
 
@@ -32,7 +29,7 @@ ms.locfileid: "90999751"
 > [!NOTE]
 > 如果你需要有关更详细的许可问题的帮助或客户报价，请从 (CSP 计划的许可计划的间接提供程序) 或你的程序分发服务器开始。 它们通常是特定许可证问题的最初步联系点，或者是有关创建客户报价、SKU 购买或先决条件的问题。 如果你没有为你提供此角色的合作伙伴，请参阅 [查找合作伙伴](find-a-partner.md) 查找一个。
 >
-> 你还可以联系 Microsoft 联系人以利用授权专家的内部团队。 如果你没有特定的 Microsoft 联系人，请在支持页的 "**问题**" 字段中转到[合作伙伴支持](https://partner.microsoft.com/support/v2/?stage=1)并键入**授权**。 在这里，你可以了解其他可供你使用的授权支持资源。 如果仍需要帮助，还可以记录支持票证来帮助回答特定的许可证问题，或帮助你查找正确的产品 SKU。
+> 你还可以联系 Microsoft 联系人以利用授权专家的内部团队。 如果你没有特定的 Microsoft 联系人，请在支持页的 "**问题**" 字段中转到 [合作伙伴支持](https://partner.microsoft.com/support/v2/?stage=1)并键入 **授权**。 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>有关许可和许可培训的一般资源
 
@@ -43,12 +40,12 @@ ms.locfileid: "90999751"
 
 |要执行此操作  | 阅读本文  |
 |:------------------|:--------------- |
-|将 CSP 计划许可证与其他许可模式进行比较 * (高级概述) * | 请参阅 [CSP 注册页](https://partner.microsoft.com/licensing/)。 向下滚动，直到看到 "将 *CSP 与其他许可模型进行比较*" 部分。  |
-|将 Microsoft 云服务和本地软件的不同合作伙伴许可协议与 * (详细视图) *  | [Microsoft 许可协议](https://partner.microsoft.com/licensing/licensing-agreements)  |
+|将 CSP 计划许可证与其他许可模式进行比较 *(高级概述)* | 请参阅 [CSP 注册页](https://partner.microsoft.com/licensing/)。 向下滚动，直到看到 "将 *CSP 与其他许可模型进行比较*" 部分。  |
+|将 Microsoft 云服务和本地软件的不同合作伙伴许可协议与 *(详细视图)*  | [Microsoft 许可协议](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |了解有关批量许可的详细信息 (VL) 并获得特定解决方案的许可  | [Microsoft 许可-产品和解决方案](https://www.microsoft.com/licensing/default) |
 |了解批量许可培训和资源，可帮助提供 VL 定价、报价、协议、产品激活和其他工具  | [Microsoft 合作伙伴网络培训和资源](https://partner.microsoft.com/licensing/training-and-resources) |
 |探索 **获取许可** 许可培训模块  | [获取许可准备](https://www.getlicensingready.com/)  |
-|阅读有关可帮助你设计和向大型组织提供 Microsoft 授权解决方案的许可考试， * (考试将11:59 于2021年1月31日，年1月31日停用) *  | [考试70-705](/learn/certifications/exams/70-705) |
+|阅读有关可帮助你设计和向大型组织提供 Microsoft 授权解决方案的许可考试， *(考试将11:59 于2021年1月31日，年1月31日停用)*  | [考试70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>特定于计划的许可条款和协议
 
@@ -60,7 +57,7 @@ ms.locfileid: "90999751"
 |详细了解软件保障计划和关联的许可证，以及付款和凭证的工作方式。  | [软件保障概述](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) 或 [软件保障权益和要求](software-assurance-lp.md) |
 |查看有关 MPN 内部使用权利或权益的详细信息。  | [Microsoft 合作伙伴网络计划指南](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
 |查找 OEM 合作伙伴材料，如预安装工具包或培训。  | [Microsoft 设备合作伙伴中心](https://devicepartner.microsoft.com/)  |
-|解答 OEM 客户或零售客户的使用问题 (也称为) 完全打包的产品或 FPP 客户。 这适用于其软件由 Microsoft 或计算机制造商授权给他们的客户。 * (这些条款不适用于批量许可计划中的客户。 ) *  | [零售 (FPP) 使用条款](https://www.microsoft.com/useterms)  |
+|解答 OEM 客户或零售客户的使用问题 (也称为) 完全打包的产品或 FPP 客户。 这适用于其软件由 Microsoft 或计算机制造商授权给他们的客户。 *(这些条款不适用于批量许可计划中的客户。 )*  | [零售 (FPP) 使用条款](https://www.microsoft.com/useterms)  |
 
 ## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>与许可证履行或融资选项关联的资源
 

@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM 合作伙伴中心的共同销售连接器
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 将合作伙伴中心中的引用与 Dynamics 365 CRM 的共同销售连接器同步。 然后，卖方可以在 CRM 系统中与 Microsoft 进行共同销售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645681"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756801"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -31,11 +31,11 @@ ms.locfileid: "100645681"
 |**主题**   |**详细信息**   |**链接**   |
 |--------------|--------------------|------|
 |Microsoft 合作伙伴网络 ID |需要一个有效的 MPN ID|加入 [MPN](https://partner.microsoft.com/)|
-|做好就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|合作销售就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |合作伙伴中心帐户|与合作伙伴中心租户关联的 MPN ID 必须与共同销售解决方案关联的 MPN ID 相同。 在部署连接器之前，请确认你可以在合作伙伴中心门户中看到共同销售的引用。|[管理帐户](create-user-accounts-and-set-permissions.md)|
 |合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|CRM 用户角色是系统管理员或系统定制员|[在 Dynamics 365 中分配角色](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Power 自动化 Flow 帐户|创建新的生产环境，其中包含用于测试/过渡和生产的数据库。 如果你有包含数据库的现有生产环境，则可以重复使用它。 要安装连接器解决方案的用户需要具有对此环境的电源自动许可证和访问权限。可以通过单击 "解决方案" [下的 "](https://flow.microsoft.com/) 查看历史记录"，来监视进度并获得更多详细信息。|[创建或管理环境](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Power 自动化 Flow 帐户|创建新的生产环境，其中包含用于测试/过渡和生产的数据库。 如果你有包含数据库的现有生产环境，则可以重复使用它。 要安装连接器解决方案的用户需要具有对此环境的电源自动许可证和访问权限。可以通过单击 "解决方案" [下的 "](https://flow.microsoft.com/) 查看历史记录"，来监视进度并获得更多详细信息。|[创建或管理环境](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安装适用于 Dynamics 365 (Power 自动化解决方案的合作伙伴中心引用同步) 
 
@@ -110,7 +110,7 @@ ms.locfileid: "100645681"
 
 1. 返回 " **解决方案** " 页，选择 " **默认解决方案**"。 通过单击 "**全部**" **(预览) 选择 "连接引用**"。
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="“连接”":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="编辑连接":::
 
 2. 通过选择三个点图标，逐个编辑每个连接。 添加相关连接。
 
@@ -141,9 +141,9 @@ ms.locfileid: "100645681"
 
 3. 选择 **复制** 图标以复制提供的 HTTP POST URL。
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="复制 URL":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="使用 webhook 注册资源更改":::
 
-4. 现在，选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
+4. 选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
 
 5. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 " **继续**"。
 
@@ -205,7 +205,7 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
 
 3. 更新 **当前值** (不要使用 **新值** 选项更新默认值) 并提供值。 值必须与变量的数据类型相匹配，例如 Yes/No 数据类型将接受 Yes 或 No 值。
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="默认值的编辑框":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="更新环境变量":::
 
 - 端到端双向共同销售引用同步
 

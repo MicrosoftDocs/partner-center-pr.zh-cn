@@ -1,7 +1,7 @@
 ---
 title: 代表客户报告问题
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解何时将客户服务问题上报给 Microsoft，以及如何为不同类型的 Microsoft 服务提交支持票证。
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153139"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756433"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -146,8 +146,6 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 如果遇到与以下问题相关的问题： Dynamics 365 计划订阅、许可、计费、财务 & 操作、Dynamics 365 产品许可证或需要进一步的技术支持：
  
 请联系 [Dynamics 支持人员](/dynamics365/customer-engagement/admin/contact-technical-support)
-
-请阅读 [Microsoft Dynamics 支持](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
 ## <a name="next-steps"></a>后续步骤
 

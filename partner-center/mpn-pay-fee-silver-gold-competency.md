@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042678"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757391"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>如何支付与银或金牌资格相关的费用
 
@@ -37,7 +37,7 @@ ms.locfileid: "99042678"
 
 - 您已经满足了实现特定银或金牌能力的 [要求](https://partner.microsoft.com/membership/competencies) 。
 
-- 已为你分配了 " [全局管理员" 或 "MPN" 合作伙伴管理员](https://docs.microsoft.com/partner-center/permissions-overview)角色中心角色。如果你是没有这些角色之一的来宾用户，你将被拒绝访问下面所述的某些合作伙伴中心页面。 如果发生这种情况，请 [与全局管理员联系](https://docs.microsoft.com/partner-center/find-your-role) ，要求他们为你分配适当的角色。 
+- 已为你分配了 " [全局管理员" 或 "MPN" 合作伙伴管理员](./permissions-overview.md)角色中心角色。如果你是没有这些角色之一的来宾用户，你将被拒绝访问下面所述的某些合作伙伴中心页面。 如果发生这种情况，请 [与全局管理员联系](./find-your-role.md) ，要求他们为你分配适当的角色。 
 
 1. 使用组织的工作帐户凭据登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。
 
@@ -54,7 +54,7 @@ ms.locfileid: "99042678"
 
 4. 在 " **购买详细信息** " 页上，查看并确认详细信息。
 
-    (了解有关更新 [公司的 **税务 ID** 信息](https://docs.microsoft.com/partner-center/organization-tax-info) 或公司的 [**帐单到** 公司地址](https://docs.microsoft.com/partner-center/mpn-get-action-pack)的详细信息。 ) 
+    (了解有关更新 [公司的 **税务 ID** 信息](./organization-tax-info.md) 或公司的 [**帐单到** 公司地址](./mpn-get-action-pack.md)的详细信息。 ) 
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="成员资格提供购买详细信息页和付款首选项。" border="false":::
 

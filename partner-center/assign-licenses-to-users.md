@@ -1,7 +1,7 @@
 ---
 title: 为客户帐户管理用户
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心为你的客户管理用户-创建用户帐户、添加或删除用户许可证、重置密码、删除或还原用户帐户。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570733"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756084"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客户帐户的用户和用户许可证 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570733"
 你可以在客户的帐户中创建和删除新用户。 你还可以还原以前在删除30天内删除的一个或多个用户帐户。 用户之前分配的订阅也将还原（假设之前的分配可用）。
 
 为客户购买新的订阅时，客户应为你提供一个列表，其中列出了需要帐户的所有用户、用户权限以及每个用户需要的服务。  
+
+>[!NOTE]
+>"**客户**" 选项卡的 "**用户和许可证**" 部分显示了在特定客户的租户中创建的所有用户，其中包括具有从其他 CSP 合作伙伴或其他采购渠道购买的许可证的用户。
 
 可以一次[将订阅分配给多个用户](bulk-license-provisioning-for-multiple-users.md)，方法是使用 [Excel 兼容的 .csv 电子表格文件](adding-multiple-users-to-a-customer-account.md)导入这些名称。
 

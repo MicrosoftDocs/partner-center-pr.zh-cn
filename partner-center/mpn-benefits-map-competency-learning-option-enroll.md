@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975657"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756140"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>使用合作伙伴中心注册为 Microsoft 学习合作伙伴
 
@@ -40,7 +40,7 @@ ms.locfileid: "99975657"
 
 **COVID-19 更新**
 
-Microsoft 提供了资格扩展 (除了云 Business Applications 资格) 和高级专用化扩展外，在2021年1月1日到到6月 2021 30 日之间 (AD) 的合作伙伴。 有关详细信息，请查看我们的 [合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) 。
+Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。 有关详细信息，请查看我们的[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
 
 若要及时了解学习计划公告，请 [阅读我们的博客](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) ，查看我们的 [学习合作伙伴 Yammer 页面](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)。 你还可以在我们的 [学习资源页](https://partner.microsoft.com/marketing/learning-resources#/)上查找节目文档和每月社区呼叫记录。
 
@@ -115,7 +115,7 @@ KPI 报表每月的第几个月更新一次。 学习计划续订资格是根据
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>Q. 为什么我不会在学习合作伙伴目录中显示为 Microsoft 学习合作伙伴？
 
-我们可能需要将你添加到 [学习合作伙伴目录](https://docs.microsoft.com/learn/certifications/partners)。 然后，可以从 "学习合作伙伴目录" 页链接到您的网站。
+我们可能需要将你添加到 [学习合作伙伴目录](/learn/certifications/partners)。 然后，可以从 "学习合作伙伴目录" 页链接到您的网站。
 
 这是一个手动过程，在第三周内仅每月提交一次。 后续更新将在下个月的第一周结束时可见。 若要帮助解决此问题，请联系 [合作伙伴前端支持](https://partner.microsoft.com/support)。 准备提供以下详细信息：
 

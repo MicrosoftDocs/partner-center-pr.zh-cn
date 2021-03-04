@@ -9,18 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492715"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755864"
 ---
 # <a name="view-your-incentives-program-details"></a>查看奖励计划详细信息
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
@@ -37,7 +33,7 @@ ms.locfileid: "97492715"
 
 ## <a name="access-the-incentives-overview-page"></a>访问奖励概述页
 
-1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
+1. 登录到[合作伙伴中心面板](https://partner.microsoft.com/dashboard)。
 1. 选择 " **激励**"，然后从菜单中选择 " **概述** "。
 1. 在页面顶部查看“收益和付款摘要”，并在下表中查看更多详细信息。 还可以对随附的表进行排序、分组和扩展：
 
@@ -76,4 +72,5 @@ ms.locfileid: "97492715"
 你还可以使用 [合作伙伴支出 API](https://apidocs.microsoft.com/services/partnerpayouts) 来连接并直接获取支出交易和付款数据。 有关详细信息，请参阅 [付出](payout-statement.md) 进一步的了解。
 
 ## <a name="next-steps"></a>后续步骤
-- [付款对账单](payout-statement.md)
+
+- [支出声明](payout-statement.md)

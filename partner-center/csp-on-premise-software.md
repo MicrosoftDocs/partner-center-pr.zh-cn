@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834813"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756054"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商出售本地软件 (CSP) 计划
 
@@ -40,7 +40,7 @@ ms.locfileid: "99834813"
 在你购买软件后，客户需要下载该软件。 请使用下面的过程执行此操作。
 
 >[!NOTE]
->你必须是管理员代理才能获取密钥和下载链接。
+>必须是管理员代理才能获取密钥和下载文件链接。
 
 1. 转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。
 2. 从“软件产品密钥与下载链接”复制“深层链接”，并与客户共享该链接。 当他们选择此链接时，将被重定向到 Microsoft 管理中心，以下载并获取其产品密钥。
@@ -48,7 +48,7 @@ ms.locfileid: "99834813"
 >[!NOTE]
 >只有客户可以在 Microsoft 管理中心中查看产品密钥和下载信息。 合作伙伴无法查看这些信息。
 
-如果你或你的客户想要了解有关如何下载许可证密钥的详细信息，请参阅[下载软件和产品许可证密钥](https://go.microsoft.com/fwlink/p/?linkid=2152525)。
+如果你或你的客户想要了解有关如何下载许可证密钥的详细信息，请参阅[下载软件和产品许可证密钥](/microsoft-365/admin/setup/download-software-licenses-csp)。
 
 ## <a name="cancel-a-purchase"></a>取消购买
 

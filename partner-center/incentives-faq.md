@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99835061"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756707"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>有关激励的常见问题
 
@@ -67,9 +67,9 @@ ms.locfileid: "99835061"
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>奖励概述页中缺少一些注册。
 
-如果已收到或已注册了一个不能在仪表板中看到的激励计划，则应仔细检查是否具有适当的访问权限。 只有具有 "激励用户" 或 "激励管理员" 角色的用户才能看到该计划。 请参阅 [查找你的角色](https://docs.microsoft.com/partner-center/find-your-role)。
+如果已收到或已注册了一个不能在仪表板中看到的激励计划，则应仔细检查是否具有适当的访问权限。 只有具有 "激励用户" 或 "激励管理员" 角色的用户才能看到该计划。 请参阅 [查找你的角色](./find-your-role.md)。
 
-如果需要更改角色或权限，请与公司的全局管理员或帐户管理员联系。若要了解这些人员的身份，请阅读 [查找你的全局管理员](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)。
+如果需要更改角色或权限，请与公司的全局管理员或帐户管理员联系。若要了解这些人员的身份，请阅读 [查找你的全局管理员](./find-your-role.md#find-your-global-admin)。
 
 请注意，"概述" 页仅显示与 Azure AD 租户关联 (PGA) 相关联的 "注册"。 如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。
 

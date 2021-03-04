@@ -1,19 +1,19 @@
 ---
 title: 合作伙伴中心中的付款和税务配置文件
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: 创建并管理你的支出和税务配置文件，以便你可以为奖励工作付费。 包括创建、管理和使用不同的配置文件。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624232"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756596"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理激励支出和税务配置文件
 
@@ -86,10 +86,22 @@ ms.locfileid: "99624232"
 
     >[!NOTE]
     >付款方式的可用性取决于激励计划的规则。
+
+    - 如果你的位置 MPN ID 由本地 Microsoft 子公司支付给特定激励计划，并允许 LRD (有限的风险分销商) 贷项通知单作为付款方式，则将使用 LRD 信用说明支付方法预填充你的付款配置文件。 在相应激励计划和位置 MPN ID 的 "LRD 贷方通知单支付方法" 行上，你将看到 "需要 **确认** " 或 " **验证** " 作为 "付款配置文件" 部分中的状态。
+    
+       选择 " **需要验证** "，确认并验证与 "位置 MPN" 和 "付款方式" 相关联的 CSP 租户 ID 详细信息，以接收贷方便笺支付。 在 " **贷方注释详细信息** " 对话框中，查看并验证提供的 CSP 租户 ID 和详细信息是否正确。 如果显示了多个租户 ID，请仔细选择要接收付款的 CSP 租户 ID。 接下来，选择 " **确认** " 以确认你的公司详细信息正确，并且应将激励付款应用于所选的 CSP 租户 ID。
+ 
+      如果状态显示为 "已 **确认**"，则 CSP 租户 ID 的分配已完成，无需执行其他操作。 你仍可以选择 "已确认" 来查看分配的详细信息。
+   
+      如果国家/地区要求合作伙伴显式请求应用免税，则在激励计划和位置 MPN 的税务分析部分中，将会有一个用于应用税务申报旁边的免税的选项。 如果选中此框，则会将免税权益应用到激励贷方注释。 
+   
+      目前，此支付方法仅适用于 Microsoft 商业激励计划的澳大利亚、新西兰和加拿大合作伙伴。 如果你是注册了 MCI 计划的这三个国家/地区的直接帐单合作伙伴或间接提供商，但没有看到 LRD 贷方注释作为可用的付款方式，请确认你的租户 ID 与相关的合作伙伴 MPN 位置帐户关联。 有关此内容的详细信息，请参阅 [如何更新组织配置文件](update-your-partner-profile.md)。
+
     
 5. 选择 **货币**。
 
 6. 完成所有付款字段后，选择 " **提交**"。
+
 
 ## <a name="create-your-bank-profile"></a>创建银行配置文件
 

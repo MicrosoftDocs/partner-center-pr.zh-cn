@@ -1,5 +1,5 @@
 ---
-title: 付款对账单
+title: 支出声明
 description: 了解更多的报表和摘要，以及如何从 Microsoft 合作伙伴中心查看和导出支付数据
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
@@ -7,14 +7,14 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492630"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756172"
 ---
-# <a name="payout-statements"></a>付款对账单
+# <a name="payout-statements"></a>支出声明
 
 **相应的角色：**
 
@@ -99,11 +99,11 @@ ms.locfileid: "97492630"
 
 下表显示了估计的付款月示例。
 
-| 月份 | 数量 |
+| 月份 | 金额 |
 | ------ | :-----------: |
 |  09月2020 |  $7273.99   |
 |  Oct-2020 | $8692.30  |
-|  11月-2020 | $107.89  |
+|  2020 年 11 月 | $107.89  |
 
 由于各种原因，预估金额可能因实际数量而异：
 
@@ -138,7 +138,7 @@ ms.locfileid: "97492630"
 | claimId | 索赔的唯一标识符 | 激励 - 仅某些计划 |
 | customerCountry | 客户所在国家/地区 | marketplaces |
 | customerEmail |  |  |
-| customerName | 始终为空白 | 激励计划仅 (例外： OEM) 和市场 |
+| customerName | 可能为空 | 激励计划仅 (例外： OEM) 和市场。 对于 CSP 事务，市场将显示 CSP 的名称 |
 | customerTenantId |  |  |
 | distributorId | 分销商标识符 | 激励 - 仅某些计划 |
 | distributorName | 分销商名称 | 激励 - 仅某些计划 |
@@ -263,8 +263,8 @@ ms.locfileid: "97492630"
 | 即将处理 | 支付订单在处理付款之前生成待定内部评审。 | 否 |
 | 等待纳税发票 | 您的纳税发票不完整或无效。 | 必须更新纳税发票，才能收到付款 |
 | 审查期间被拒绝 | 付款在评审期间被拒绝。 | 有关详细信息，请联系 Microsoft 支持人员 |
-| 失败 | 由于 Microsoft 系统错误，付款失败。 | 有关详细信息，请联系 Microsoft 支持部门 |
-| 正在进行 | 付款正在进行。 | 否 |
+| 已失败 | 由于 Microsoft 系统错误，付款失败。 | 有关详细信息，请联系 Microsoft 支持部门 |
+| 正在学习 | 付款正在进行。 | 否 |
 | 付款不正确 | 付款 recouping 正在进行。 | 否 |
 | 已发送 | 已将付款发送到银行。 | 否 |
 | 正在重新处理 | 付款遇到 Microsoft 系统错误，正在重新处理。 | 否 |

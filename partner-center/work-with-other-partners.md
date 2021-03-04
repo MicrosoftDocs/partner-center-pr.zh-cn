@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ae635b77acc82ea705f3405d1c15aa7d02684dd
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 944f02af414a2865cadf94cd4fbf41c2555e066b
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322094"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755705"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>在合作伙伴中心使用其他合作伙伴的不同方法
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
+- 帐户管理员
 
 Microsoft 的云解决方案提供商 (CSP) 计划为合作伙伴提供了通过这些方式协同工作的机会。
 
@@ -55,4 +55,4 @@ Microsoft 的国家云服务/产品中也提供多合作伙伴支持。
 Microsoft 的国家云产品/服务中也提供多渠道支持。
 
 > [!IMPORTANT]  
-> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 此限制仅适用于用于执行云解决方案提供商交易的租户。 将非 CSP 租户用于公司使用情况的 CSP 合作伙伴可以从其他 CSP 合作伙伴那里购买联机服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。
+> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 此限制仅适用于用于执行云解决方案提供商交易的租户。 将非云解决方案提供商租户用于其公司用途的云解决方案提供商合作伙伴可从另一个云解决方案提供商合作伙伴那里购买联机服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。

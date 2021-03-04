@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281341"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756180"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281341"
 
 本文为从合作伙伴销售连接迁移到合作伙伴中心的合作伙伴提供了指导，使他们能够继续在合作伙伴中心创建和管理共同销售交易。
 
-正如您所知，在2021年3月31日之后，您的公司将失去访问 PSC 的权限。 不过，您仍可以在合作伙伴中心找到要执行的所有操作，例如创建共同销售交易、管理您的交易，以及通过 Microsoft 卖方发送给您的交易。
-
-但会有不同之处。 以下指南可帮助你更顺利、更简单地过渡到合作伙伴中心。
+>[!Note]
+> 如果你在此处看到有关迁移的关于迁移的横幅，就是正确的位置。 本指南不适用于解决方案评估 (SA) 和 OEM 授权业务合作伙伴在 PSC 中管理其交易。
 
 >[!Important]
-> 如果你在此处看到有关迁移的关于迁移的横幅，就是正确的位置。 本指南不适用于在 PSC 中管理其交易 (SA) 和 OEM IOT 合作伙伴。
+> 从5月1日开始2021，你的公司将无法在 PSC 中创建或编辑交易。 **你仍可以使用 PSC 中的批量导出功能下载现有的交易数据。此日期之后，你还可以将 [未结交易](psc-to-pc.md#psc-deals-migration) 从 PSC 迁移到合作伙伴中心。** <br><br> 如果正在使用的交易涉及到包含 IP 共同销售激励资格的解决方案，则有两个选择： <br><br> 1. 在 2021 4 月30日之前，将交易标记为赢单并完成 PSC 注册。 <br> 2. [将交易迁移](psc-to-pc.md#psc-deals-migration) 到合作伙伴中心，以便你可以获得更多的时间来处理交易和开始交易。
+
+如您所知， **在2021年5月31日之后，公司将无法访问 PSC**。 不过，您仍可以在合作伙伴中心找到要执行的所有操作，例如创建共同销售交易、管理您的交易，以及通过 Microsoft 卖方发送给您的交易。
+
+但会有不同之处。 以下指南可帮助你更顺利、更简单地过渡到合作伙伴中心。
 
 ## <a name="before-you-move-things-you-need-to-know"></a>在移动之前，你需要知道
 
@@ -90,7 +93,7 @@ ms.locfileid: "100281341"
 在合作伙伴中心设置帐户后，使用 "共同销售机会" 页中的 "用户迁移向导" 将合作伙伴中心角色自动分配给公司的员工。
 
 >[!Note]
-> 用户迁移只能由公司的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 执行。 如果你没有帐户管理员角色，请使用 "用户迁移向导" 查找可帮助设置用户帐户的帐户管理员。 用户迁移功能将在2020年11月18日开始推出。
+> 用户迁移只能由公司的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 执行。 如果你没有帐户管理员角色，请使用 "用户迁移向导" 查找可帮助设置用户帐户的帐户管理员。
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="显示用户迁移向导的映像。":::
 
@@ -135,7 +138,7 @@ ms.locfileid: "100281341"
 
 **符合迁移条件**
 
-只有某些交易有资格从 PSC 迁移到 PC。 此迁移向导旨在帮助合作伙伴将自己的交易带入合作伙伴中心，在这种情况下，他们仍会积极地与客户合作来完成交易。 **只有处于打开状态且具有有效的合作伙伴帐户详细信息的交易 (有效的 MPN ID) 并且不会进行交易注册，才能进行迁移。**
+只有某些交易有资格从 PSC 迁移到 PC。 此迁移向导旨在帮助合作伙伴将自己的交易带入合作伙伴中心，在这种情况下，他们仍会积极地与客户合作来完成交易。 **仅从2020年1月1日创建的处于打开状态的交易，具有有效的合作伙伴帐户详细信息 (有效的 MPN ID) 并且未进行交易注册有资格进行迁移。**
 
 **不符合迁移条件**
 
@@ -200,7 +203,7 @@ ms.locfileid: "100281341"
 如果你的公司没有 PDM，请确保所有用户帐户均已设置并由所有用户进行验证。 当你可以在合作伙伴中心开始共同销售时，会通过电子邮件通知你的相关电子邮件和有关准确日期的版权。 请记住，你仍需要管理 PSC 中现有的活动交易。
 
 >[!Important]
->活动交易不会迁移到 PC。 在2021年3月31日之前，请关闭并注册交易。
+> 在2021年4月30日之前，将注册标记为 "赢的交易"。
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>PSC 管理员、PSC 交易经理和 PSC 卖方的后续步骤
 

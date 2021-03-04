@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755633"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755745"
 ---
 # <a name="value-added-tax-vat-information"></a>增值税) 信息的增值 (
 
-**适用对象：**
+**相应的角色**
 
-- 合作伙伴中心
-- 商业市场
+- 帐户管理员
+
 
 如果在合作伙伴中心注册过程中要求你提供 VAT ID 号，以下是一些入门信息。
 
@@ -78,6 +78,7 @@ Microsoft 现在将标准 VAT 应用于以土耳其方式由合作伙伴购买�
 |西班牙 |-VAT 数字格式：9位数<br/>-国家/地区代码： ES<br/>-示例： X12345678、12345678X 或 X1234567X<br/>-注意：包含1或2个字母： first、last 或 first 和 last。 |
 |瑞典 |-VAT 数字格式：12位数<br/>-国家/地区代码： SE<br/>-例如：123456789001<br/>-注意：最后两个字符必须是 "01"。 |
 |英国 |-VAT 数字格式：9或12位数字<br/>-国家/地区代码： GB<br/>-例如：123456789或123456789001<br/>-注意：通常为9位数字，但如果数字表示组内的子公司，则为12位数。 |
+
 ## <a name="next-steps"></a>后续步骤
 
 - [公司税务信息以及如何为合作伙伴中心购买添加或提交 VAT Id](organization-tax-info.md)

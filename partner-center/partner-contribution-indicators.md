@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指标-CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解7个合作伙伴贡献指标 (PCI) ，其中显示了合作伙伴如何获取银色或金牌云 Business Applications 能力。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530810"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756556"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来实现云 Business Applications 资格
 
@@ -155,7 +155,7 @@ PCI 分数确定资格资格，如下所示：
 - 你是属于该客户租户的付费订阅 (CPOR) 的声明合作伙伴
 - 你是属于该客户租户的付费订阅 (DPOR) 的数字合作伙伴
 
-如果合作伙伴通过 Dynamics 365 [Online Services 顾问](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA 与订阅级别的客户建立关联，则合作伙伴将成为 CPOR，) 激励或 Dynamics 365 [在线服务使用](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) 激励。
+如果合作伙伴通过 Dynamics 365 Online Services 顾问 (OSA 与订阅级别的客户建立关联，则合作伙伴将成为 CPOR，) 激励或 Dynamics 365 在线服务使用 (OSU) 激励。 若要了解详细信息，请参阅 [了解 CPOR 关联](incentives-customer-associations-intro.md)。
 
 合作伙伴成为 DPOR 的前提是在产品的订阅级别建立了与客户的关联。
 
