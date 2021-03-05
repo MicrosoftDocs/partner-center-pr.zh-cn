@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756142"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029927"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-|**类别**|**2021 年 2 月公告**|**已公布**|
+|**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[Microsoft 通用打印功能现已在部分套件中可用](2021-march.md#1)|3 月 3 日|
+|**类别**|**2021 年 2 月公告**|**已公布**|
 |功能|[PUT 资格 API 已停用，GET 则将在 5 月停用](2021-february.md#14)|2 月 25 日|
 |功能|[使用合作伙伴中心批量操作功能大规模共享联合销售交易](2021-february.md#13)|2 月 25 日|
 |功能|[使用新的交易迁移功能，从 Partner Sales Connect (PSC) 迁移交易](2021-february.md#12)|2 月 25 日|
