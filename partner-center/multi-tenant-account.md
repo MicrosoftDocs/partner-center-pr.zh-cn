@@ -1,80 +1,81 @@
 ---
-title: 向合作伙伴中心帐户添加其他租户
+title: 将租户添加到合作伙伴中心帐户
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作伙伴中心帐户中添加、合并或管理多个 Azure AD 租户。 进一步了解你可能想要执行的一些原因。
+description: 了解如何在合作伙伴中心帐户中添加、合并或管理多个 Azure AD 租户，并了解可能需要执行此操作的原因。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182421"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124799"
 ---
-# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a><span data-ttu-id="82513-104">在合作伙伴中心帐户中添加和管理多个租户</span><span class="sxs-lookup"><span data-stu-id="82513-104">Add and manage multiple tenants in your Partner Center account</span></span>
+# <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a><span data-ttu-id="a6d90-103">在合作伙伴中心帐户中添加和管理多个租户</span><span class="sxs-lookup"><span data-stu-id="a6d90-103">Add and manage multiple tenants in your Partner Center account</span></span>
 
 
-<span data-ttu-id="82513-105">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="82513-105">**Appropriate roles**</span></span>
+<span data-ttu-id="a6d90-104">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="a6d90-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="82513-106">全局管理员</span><span class="sxs-lookup"><span data-stu-id="82513-106">Global admin</span></span>
-- <span data-ttu-id="82513-107">帐户管理员</span><span class="sxs-lookup"><span data-stu-id="82513-107">Account admin</span></span>
+- <span data-ttu-id="a6d90-105">全局管理员</span><span class="sxs-lookup"><span data-stu-id="a6d90-105">Global admin</span></span>
+- <span data-ttu-id="a6d90-106">帐户管理员</span><span class="sxs-lookup"><span data-stu-id="a6d90-106">Account admin</span></span>
 
-<span data-ttu-id="82513-108">可以通过此功能管理公司的多个租户，并将其合并到合作伙伴中心帐户中。</span><span class="sxs-lookup"><span data-stu-id="82513-108">This feature allows you to manage multiple tenants for your company and to consolidate them into your Partner Center account.</span></span> <span data-ttu-id="82513-109">出于许多原因，你可能需要在合作伙伴中心帐户中管理多个 Azure AD 租户。</span><span class="sxs-lookup"><span data-stu-id="82513-109">There are many reasons why you may need to manage multiple Azure AD tenants in your Partner Center account.</span></span> <span data-ttu-id="82513-110">例如：</span><span class="sxs-lookup"><span data-stu-id="82513-110">For example:</span></span>
+<span data-ttu-id="a6d90-107">本文介绍如何将多个 Azure Active Directory (Azure AD) 租户合并为你的公司，然后在你的合作伙伴中心帐户中添加和管理它们。</span><span class="sxs-lookup"><span data-stu-id="a6d90-107">This article discusses how to consolidate multiple Azure Active Directory (Azure AD) tenants for your company and then add and manage them in your Partner Center account.</span></span> <span data-ttu-id="a6d90-108">这样做的原因有很多。</span><span class="sxs-lookup"><span data-stu-id="a6d90-108">There are many reasons to do so.</span></span> <span data-ttu-id="a6d90-109">例如：</span><span class="sxs-lookup"><span data-stu-id="a6d90-109">For example:</span></span>
 
-- <span data-ttu-id="82513-111">你的公司可能会购买其他公司，你希望新公司的员工能够使用合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="82513-111">Your company may purchase another company, and you want the employees in the new company to be able to use Partner Center.</span></span> <span data-ttu-id="82513-112">但是，您希望两个公司保持独立。</span><span class="sxs-lookup"><span data-stu-id="82513-112">However, you want the two companies to remain separate.</span></span> <span data-ttu-id="82513-113">在这种情况下，可将新公司的 Azure AD 租户与合作伙伴全局帐户 (PGA) 相关联。</span><span class="sxs-lookup"><span data-stu-id="82513-113">In this case, you'd associate the new company's Azure AD tenant with your Partner global account (PGA).</span></span> <span data-ttu-id="82513-114">这种关联使得两家公司的用户都可以在合作伙伴中心工作。</span><span class="sxs-lookup"><span data-stu-id="82513-114">This association would enable users in both companies to work in Partner Center.</span></span>
+- <span data-ttu-id="a6d90-110">假设你的公司 Contoso 收购了另一家公司 Fabrikam。</span><span class="sxs-lookup"><span data-stu-id="a6d90-110">Let's say your company, Contoso, has acquired another company, Fabrikam.</span></span> <span data-ttu-id="a6d90-111">您希望两家公司保持独立，但您希望新员工能够使用合作伙伴中心。</span><span class="sxs-lookup"><span data-stu-id="a6d90-111">You want the two companies to remain separate, but you want the new employees to be able to use Partner Center.</span></span> <span data-ttu-id="a6d90-112">在这种情况下，可将新公司的 Azure AD 租户与合作伙伴全局帐户 (PGA) 相关联。</span><span class="sxs-lookup"><span data-stu-id="a6d90-112">In this case, you associate the new company's Azure AD tenant with your Partner global account (PGA).</span></span> <span data-ttu-id="a6d90-113">这种关联使得两家公司的用户都可以在合作伙伴中心工作。</span><span class="sxs-lookup"><span data-stu-id="a6d90-113">This association enables users in both companies to work in Partner Center.</span></span>
 
-- <span data-ttu-id="82513-115">如果有多个租户运行你的业务 (例如，contoso.com、contoso.uk、contoso.in) 你可以使用多租户将它们与相同的 PC 帐户关联。</span><span class="sxs-lookup"><span data-stu-id="82513-115">If you have more than one tenant to run your business (e.g. contoso.com, contoso.uk, contoso.in) you can use multi-tenancy to tie them under the same PC account.</span></span>
+- <span data-ttu-id="a6d90-114">如果你运行的业务包含多个租户 (例如， *contoso.com*、 *contoso.uk* 和 *contoso.in*) ，则可以使用多租户将它们分组到相同的 PC 帐户中。</span><span class="sxs-lookup"><span data-stu-id="a6d90-114">If you run your business with more than one tenant (for example, *contoso.com*, *contoso.uk*, and *contoso.in*), you can use multitenancy to group them in the same PC account.</span></span>
 
-- <span data-ttu-id="82513-116">合并和收购要求使用多个租户 (例如，如果 Contoso 获取 Fabrikam，则需要能够同时使用 Constoso.com 和 Fabrikam.com 各自的租户) 。</span><span class="sxs-lookup"><span data-stu-id="82513-116">Mergers and acquisitions requires you to work with more than one tenant (e.g. If Contoso acquires Fabrikam, you would need to be able to use both Constoso.com and Fabrikam.com respective tenants).</span></span>
+- <span data-ttu-id="a6d90-115">如果合并和收购指导原则要求你使用两家公司的租户，则应同时使用 *constoso.com* 和 *fabrikam.com* 租户。</span><span class="sxs-lookup"><span data-stu-id="a6d90-115">If mergers and acquisitions guidelines require you to work with tenants of both companies, you would use both the *constoso.com* and *fabrikam.com* tenants.</span></span>
 
-- <span data-ttu-id="82513-117">任何租户的用户都需要能够：</span><span class="sxs-lookup"><span data-stu-id="82513-117">Users from any of the tenants would need to be able to:</span></span>
-    1.  <span data-ttu-id="82513-118">访问合作伙伴中心进行培训、数字下载、MCP 关联</span><span class="sxs-lookup"><span data-stu-id="82513-118">Access Partner Center for training, digital downloads, MCP association</span></span>
-    2.  <span data-ttu-id="82513-119">分配合作伙伴中心角色，如 MPN 管理员、奖励管理员等。</span><span class="sxs-lookup"><span data-stu-id="82513-119">Be assigned Partner Center roles like MPN Admin, Incentives Admin etc.</span></span>
+- <span data-ttu-id="a6d90-116">任何租户的用户都需要能够：</span><span class="sxs-lookup"><span data-stu-id="a6d90-116">Users of any of the tenants need to be able to:</span></span>
+    * <span data-ttu-id="a6d90-117">访问合作伙伴中心，了解培训、数字下载或 Microsoft 认证专家 (MCP) 关联。</span><span class="sxs-lookup"><span data-stu-id="a6d90-117">Access Partner Center for training, digital downloads, or Microsoft Certified Professional (MCP) association.</span></span>
+    * <span data-ttu-id="a6d90-118">将 Microsoft 合作伙伴网络 (MPN) 管理员或奖励 admin）分配给合作伙伴中心角色。</span><span class="sxs-lookup"><span data-stu-id="a6d90-118">Be assigned Partner Center roles such as Microsoft Partner Network (MPN) admin or incentives admin.</span></span>
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a><span data-ttu-id="a6d90-119">向你的帐户添加 Azure AD 租户</span><span class="sxs-lookup"><span data-stu-id="a6d90-119">Add an Azure AD tenant to your account</span></span>
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a><span data-ttu-id="82513-120">向你的帐户添加另一个 Azure AD 租户</span><span class="sxs-lookup"><span data-stu-id="82513-120">Add another Azure AD tenant to your account</span></span>
+1. <span data-ttu-id="a6d90-120">以全局管理员身份登录到 [Microsoft 合作伙伴中心](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="a6d90-120">Sign in as global admin to [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span></span>
 
-1. <span data-ttu-id="82513-121">作为全局管理员登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="82513-121">As the global admin, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
-1. <span data-ttu-id="82513-122">从 " **设置** " 图标中，选择 " **帐户设置** "，然后选择 " **租户**"。</span><span class="sxs-lookup"><span data-stu-id="82513-122">From the **Settings** icon, select **Account settings** and then select **Tenants**.</span></span>
+1. <span data-ttu-id="a6d90-121">在右上方，选择 " **设置**"，选择 " **帐户设置**"，然后选择 " **租户**"。</span><span class="sxs-lookup"><span data-stu-id="a6d90-121">At the upper right, select **Settings**, select **Account settings**, and then select **Tenants**.</span></span>
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="关联租户"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="&quot;Azure AD 配置文件&quot; 窗格上的 &quot;关联&quot; 按钮的屏幕截图。"::: 
 
-3. <span data-ttu-id="82513-124">选择 " **关联其他 AD 租户** " 并指示要关联的租户。</span><span class="sxs-lookup"><span data-stu-id="82513-124">Select **Associate another AD tenant** and indicate the tenant you want to associate.</span></span>
+1. <span data-ttu-id="a6d90-123">选择 " **关联**"，然后指定要关联的租户。</span><span class="sxs-lookup"><span data-stu-id="a6d90-123">Select **Associate**, and then indicate the tenant you want to associate.</span></span>
 
-1. <span data-ttu-id="82513-125">以全局管理员身份登录到要关联的租户，并确认关联。</span><span class="sxs-lookup"><span data-stu-id="82513-125">As global admin, sign into the tenant you want to associate and confirm the association.</span></span> 
+1. <span data-ttu-id="a6d90-124">在提示符下，以全局管理员身份登录到要关联的租户，然后选择 " **确认**"。</span><span class="sxs-lookup"><span data-stu-id="a6d90-124">At the prompt, sign in as global admin to the tenant you want to associate, and then select **Confirm**.</span></span> 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="确认关联租户"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="&quot;确认新 Azure AD 关联&quot; 窗格上的 &quot;确认&quot; 按钮的屏幕截图。"::: 
 
-5. <span data-ttu-id="82513-127">确认后，你将看到 **全部设置** 通知。</span><span class="sxs-lookup"><span data-stu-id="82513-127">After you confirm, you will see an **All set** notice.</span></span>  <span data-ttu-id="82513-128">选择 " **返回到租户管理** "，你会看到列出的新添加的租户。</span><span class="sxs-lookup"><span data-stu-id="82513-128">Select **Return to tenant management** and you'll see the newly added tenant listed.</span></span> 
+   <span data-ttu-id="a6d90-126">确认关联后，将显示 " **所有设置** " 消息。</span><span class="sxs-lookup"><span data-stu-id="a6d90-126">After you've confirmed the association, an **All set** message is displayed.</span></span> <span data-ttu-id="a6d90-127">若要查看新添加的租户，请选择 " **返回到租户管理**"。</span><span class="sxs-lookup"><span data-stu-id="a6d90-127">To view the newly added tenant, select **Return to tenant management**.</span></span> 
  
-
 >[!NOTE]
-><span data-ttu-id="82513-129">如果某个租户已与另一个合作伙伴中心帐户关联，则无法将其关联到该帐户。</span><span class="sxs-lookup"><span data-stu-id="82513-129">You can't associate a tenant to an account if it is already associated to another Partner Center account.</span></span>
+><span data-ttu-id="a6d90-128">如果某个租户已与另一个合作伙伴中心帐户相关联，则无法将其与该帐户相关联。</span><span class="sxs-lookup"><span data-stu-id="a6d90-128">You can't associate a tenant with an account if it's already associated with another Partner Center account.</span></span>
 
 
-## <a name="remove-a-tenant-from-your-account"></a><span data-ttu-id="82513-130">从帐户中删除租户</span><span class="sxs-lookup"><span data-stu-id="82513-130">Remove a tenant from your account</span></span>
+## <a name="remove-a-tenant-from-your-account"></a><span data-ttu-id="a6d90-129">从帐户中删除租户</span><span class="sxs-lookup"><span data-stu-id="a6d90-129">Remove a tenant from your account</span></span>
  
-1. <span data-ttu-id="82513-131">作为全局管理员登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="82513-131">As the global admin, sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="a6d90-130">以全局管理员身份登录到 [Microsoft 合作伙伴中心](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="a6d90-130">Sign in as global admin to [Microsoft Partner Center](https://partner.microsoft.com/dashboard).</span></span>
 
-1. <span data-ttu-id="82513-132">从 " **设置** " 图标中，选择 " **帐户设置** -> 租户"，然后单击 " **合作伙伴** " 选项卡。</span><span class="sxs-lookup"><span data-stu-id="82513-132">From the **Settings** icon, select **Account settings** -> Tenants and click on the **Partner** tab.</span></span>
+1. <span data-ttu-id="a6d90-131">在右上方，选择 " **设置** " 图标，然后选择 " **帐户设置**"。</span><span class="sxs-lookup"><span data-stu-id="a6d90-131">At the upper right, select the **Settings** icon, and then select **Account settings**.</span></span>
+
+1. <span data-ttu-id="a6d90-132">在左侧窗格中，选择 " **租户**"。</span><span class="sxs-lookup"><span data-stu-id="a6d90-132">On the left pane, select **Tenants**.</span></span> <span data-ttu-id="a6d90-133">在 " **管理 Azure AD 租户**" 下，选择 " **合作伙伴** " 选项卡。</span><span class="sxs-lookup"><span data-stu-id="a6d90-133">Under **Manage Azure AD tenants**, select the **Partner** tab.</span></span>
  
-3. <span data-ttu-id="82513-133">对于要取消关联的租户，单击 " **删除** "。</span><span class="sxs-lookup"><span data-stu-id="82513-133">Click **Remove** for the tenant you want to dissociate.</span></span>
+1. <span data-ttu-id="a6d90-134">选择要删除其关联的租户旁边的 " **删除** "。</span><span class="sxs-lookup"><span data-stu-id="a6d90-134">Select **Remove** next to the tenant whose association you want to remove.</span></span>
 
-4. <span data-ttu-id="82513-134">租户取消关联是指租户上的用户将不再有权访问合作伙伴中心帐户，这可能会影响你的胜任度。</span><span class="sxs-lookup"><span data-stu-id="82513-134">Dissociating a tenant means that the users on that tenant will no longer have access to the Partner Center account, and this could have an impact on your competencies.</span></span> 
+   :::image type="content" source="images/disassociate.png" alt-text="当前租户关联及其删除链接的屏幕截图。":::
 
-<span data-ttu-id="82513-135">对于所有关联的租户，" **删除** " 按钮是启用的，主要租户和当前登录到的租户除外。</span><span class="sxs-lookup"><span data-stu-id="82513-135">The **Remove** button is enabled for all associated tenants, except the primary tenant and the tenant which you are currently signed into.</span></span>
+   <span data-ttu-id="a6d90-136">如前面的屏幕截图所示，为所有关联的租户启用了 " **删除** " 链接，但主要租户和当前登录到的租户除外。</span><span class="sxs-lookup"><span data-stu-id="a6d90-136">As shown in the preceding screenshot, the **Remove** links are enabled for all associated tenants, except for the primary tenant and the tenant that you're currently signed in to.</span></span> 
 
-:::image type="content" source="images/disassociate.png" alt-text="带有 &quot;删除&quot; 按钮的租户":::
- 
+   > [!NOTE]   
+   > <span data-ttu-id="a6d90-137">当你删除某个租户时，该租户上的用户将不再有权访问合作伙伴中心帐户，并且删除操作可能会影响你的能力。</span><span class="sxs-lookup"><span data-stu-id="a6d90-137">When you remove a tenant, the users on that tenant no longer have access to the Partner Center account, and the removal might have an impact on your competencies.</span></span> 
 
-## <a name="next-steps"></a><span data-ttu-id="82513-137">后续步骤</span><span class="sxs-lookup"><span data-stu-id="82513-137">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="a6d90-138">后续步骤</span><span class="sxs-lookup"><span data-stu-id="a6d90-138">Next steps</span></span>
 
-- [<span data-ttu-id="82513-138">添加用户</span><span class="sxs-lookup"><span data-stu-id="82513-138">Add users</span></span>](create-user-accounts-and-set-permissions.md)
+- [<span data-ttu-id="a6d90-139">创建用户帐户</span><span class="sxs-lookup"><span data-stu-id="a6d90-139">Create user accounts</span></span>](create-user-accounts-and-set-permissions.md)
 
 
 
