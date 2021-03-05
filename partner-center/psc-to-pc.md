@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756180"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124816"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -32,9 +32,9 @@ ms.locfileid: "101756180"
 > 如果你在此处看到有关迁移的关于迁移的横幅，就是正确的位置。 本指南不适用于解决方案评估 (SA) 和 OEM 授权业务合作伙伴在 PSC 中管理其交易。
 
 >[!Important]
-> 从5月1日开始2021，你的公司将无法在 PSC 中创建或编辑交易。 **你仍可以使用 PSC 中的批量导出功能下载现有的交易数据。此日期之后，你还可以将 [未结交易](psc-to-pc.md#psc-deals-migration) 从 PSC 迁移到合作伙伴中心。** <br><br> 如果正在使用的交易涉及到包含 IP 共同销售激励资格的解决方案，则有两个选择： <br><br> 1. 在 2021 4 月30日之前，将交易标记为赢单并完成 PSC 注册。 <br> 2. [将交易迁移](psc-to-pc.md#psc-deals-migration) 到合作伙伴中心，以便你可以获得更多的时间来处理交易和开始交易。
+> 2021年4月1日起，你的公司将无法在 PSC 中创建或编辑交易。 **你仍可以使用 PSC 中的批量导出功能下载现有的交易数据。此日期之后，你还可以将 [未结交易](psc-to-pc.md#psc-deals-migration) 从 PSC 迁移到合作伙伴中心。** <br><br> 如果正在使用的交易涉及到包含 IP 共同销售激励资格的解决方案，则有两个选择： <br><br> 1. 在2021年3月31日前，将交易标记为 "赢单" 和 "完成交易注册"。 <br> 2. [将交易迁移](psc-to-pc.md#psc-deals-migration) 到合作伙伴中心，以便你可以获得更多的时间来处理交易和开始交易。
 
-如您所知， **在2021年5月31日之后，公司将无法访问 PSC**。 不过，您仍可以在合作伙伴中心找到要执行的所有操作，例如创建共同销售交易、管理您的交易，以及通过 Microsoft 卖方发送给您的交易。
+如您所知， **在2021年4月30日之后，公司将无法访问 PSC**。 不过，您仍可以在合作伙伴中心找到要执行的所有操作，例如创建共同销售交易、管理您的交易，以及通过 Microsoft 卖方发送给您的交易。
 
 但会有不同之处。 以下指南可帮助你更顺利、更简单地过渡到合作伙伴中心。
 

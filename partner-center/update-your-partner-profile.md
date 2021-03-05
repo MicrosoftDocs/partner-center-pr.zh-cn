@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755792"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124765"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>在合作伙伴中心验证公司配置文件信息
 
@@ -69,7 +69,7 @@ ms.locfileid: "101755792"
 
 若要更新与 CSP 帐户关联的 MPN ID：
 
-1. 使用 CSP 帐户凭据以全局管理员身份登录到合作伙伴中心[仪表板](https://partner.microsoft.com/en-us/dashboard/home)，然后选择“设置”。 （MPN 凭据可能与 CSP 凭据不同。）
+1. 使用 CSP 帐户凭据以全局管理员身份登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home)，然后选择“设置”。 （MPN 凭据可能与 CSP 凭据不同。）
  
 1. 从“帐户设置”中选择“标识符” 。
 
@@ -87,4 +87,3 @@ ms.locfileid: "101755792"
 - [检查验证状态](verification-responses.md)
 
 - [管理 MPN 位置](manage-locations.md)
-
