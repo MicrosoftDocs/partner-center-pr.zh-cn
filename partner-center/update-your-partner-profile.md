@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124765"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220255"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>在合作伙伴中心验证公司配置文件信息
 
@@ -54,8 +54,7 @@ ms.locfileid: "102124765"
 1. 选择“提交”后，我们会对你的法定身份重新进行评估。你将收到另一封电子邮件，并且需要接受它。
 
 >[!Important]
->如果你是云解决方案提供商 (CSP) 合作伙伴，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果未加入到云解决方案提供商计划，则可以更改与法定地址相关联的国家/地区。 如果验证状态为“已授权”，则直接计费合作伙伴和间接提供商不能更改公司法定名称。 如果需要更改名称，则需要[创建支持工单](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
-
+>如果你是云解决方案提供商 (CSP) 合作伙伴，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果验证状态为“已授权”，则直接计费合作伙伴和间接提供商不能更改公司法定名称。 如果需要更改名称，则需要[创建支持工单](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
 
 ## <a name="update-your-mpn-global-business-account"></a>更新 MPN 全球企业帐户

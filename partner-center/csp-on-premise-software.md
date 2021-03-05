@@ -1,7 +1,7 @@
 ---
-title: 通过云解决方案提供商销售本地软件
+title: 通过 CSP 销售本地软件
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 计划中的合作伙伴如何代表合作伙伴中心的客户购买、管理、销售和取消本地软件订阅。
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756054"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220238"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商出售本地软件 (CSP) 计划
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商出售本地软件 (CSP) 计划
 
 **相应的角色**
 
 - 管理员代理
 - 全局管理员
 
-云解决方案提供商计划中的本地软件通过在围绕云的计划中引入本地软件来支持顺利过渡到云。  这一新服务可帮助将增值合作伙伴带到每一个购买场景，因为它们提供一个平台来交易所有 Microsoft 产品。 作为云解决方案提供商，除了 Open、EA 以及当前正在使用的其他计划外，现在还可以通过合作伙伴中心来销售本地软件。 CSP 中的本地软件是一项新的销售计划，并不旨在取代 Microsoft 的任何其他批量许可计划。 
+CSP 中的本地软件支持通过在以云为中心的程序中引入本地软件来平稳地转换到云。  这一新服务可帮助将增值合作伙伴带到每一个购买场景，因为它们提供一个平台来交易所有 Microsoft 产品。 作为 CSP，你现在可以通过合作伙伴中心销售本地软件，以及当前使用的开放、EA 和其他节目。  
  
-虽然可通过本地软件许可选项确保总体客户价值最佳，但我们也使业务模型成为合作伙伴友好的。 云解决方案提供商计划中本地软件的直接许可意味着成本可预测性和简化的销售过程。 这种新业务模式便于为客户采购、管理本地软件并为其定价，使你能够专注于通过 IT 管理增值解决方案的扩展组合来赢得业务。 
-
->[!NOTE]
->当前仅向有限的合作伙伴推出本地软件。 若要确定你是否具有资格，请查看你的 Microsoft 联系人。 
-
+虽然可通过本地软件许可选项确保总体客户价值最佳，但我们也将业务模型设为合作伙伴更友好的。 CSP 中的本地软件直接许可意味着可预测成本，并为你简化销售过程。 利用这一新的业务模型，你可以轻松地为客户购买、管理和定价本地软件，使你能够将重点放在一个扩展的 IT 管理增值解决方案组合上。
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>代表客户购买软件订阅
 
@@ -37,18 +33,16 @@ ms.locfileid: "101756054"
 
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
-在你购买软件后，客户需要下载该软件。 请使用下面的过程执行此操作。
+购买软件后，你或你的客户需要下载它。 请使用下面的过程执行此操作。
 
 >[!NOTE]
 >必须是管理员代理才能获取密钥和下载文件链接。
 
 1. 转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。
-2. 从“软件产品密钥与下载链接”复制“深层链接”，并与客户共享该链接。 当他们选择此链接时，将被重定向到 Microsoft 管理中心，以下载并获取其产品密钥。
+2. 按照 [合作伙伴操作指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) 中的说明，代表客户完成软件购买。
 
 >[!NOTE]
 >只有客户可以在 Microsoft 管理中心中查看产品密钥和下载信息。 合作伙伴无法查看这些信息。
-
-如果你或你的客户想要了解有关如何下载许可证密钥的详细信息，请参阅[下载软件和产品许可证密钥](/microsoft-365/admin/setup/download-software-licenses-csp)。
 
 ## <a name="cancel-a-purchase"></a>取消购买
 
