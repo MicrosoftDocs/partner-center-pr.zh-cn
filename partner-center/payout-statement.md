@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756172"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185343"
 ---
 # <a name="payout-statements"></a>支出声明
 
@@ -56,8 +56,7 @@ ms.locfileid: "101756172"
 
 ## <a name="transaction-history"></a>交易历史记录
 
-" **事务历史记录** " 页显示您在过去36个月内收入和估计的下一次支付的收入和报酬趋势。 还可以从此部分下载事务详细信息。
-
+" **事务历史记录** " 页显示您在过去36个月内收入和估计的下一次支付的收入和报酬趋势。 还可以从此部分下载事务详细信息。<br><br>此报告显示符合支出条件的所有收益，包括尚未发送的付款。 当 ISV 已在合作伙伴中心完成了所有银行和税务信息，已获得 >$50，ISV 帐户处于活动状态，并且客户已按 (为 EA 交易计费，) 或者 (为非 EA 交易) 收到付款时，收入有资格付出的费用。
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="事务概述。":::
 
@@ -99,7 +98,7 @@ ms.locfileid: "101756172"
 
 下表显示了估计的付款月示例。
 
-| 月份 | 金额 |
+| Month | 金额 |
 | ------ | :-----------: |
 |  09月2020 |  $7273.99   |
 |  Oct-2020 | $8692.30  |

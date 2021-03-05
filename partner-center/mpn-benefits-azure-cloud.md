@@ -9,20 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056556"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185326"
 ---
 # <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>了解合作伙伴中心的 Azure 和云产品权益领域
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
-- 管理员代理
 - MPN 合作伙伴管理员
 
 本文介绍合作伙伴中心内可供合作伙伴使用的特定 Azure 和云权益。 你还将了解如何激活特定类型的 Azure 和云订阅。

@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: c273de275ed2821b9441be69fd29b931992a1982
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758431"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185292"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a>浏览技术售销售和部署服务 (TPD) 权益
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>浏览技术售销售和部署服务 (TPD)  
 
 ## <a name="develop-your-technical-know-how"></a>开发您的技术知识-如何
 
@@ -39,7 +39,7 @@ ms.locfileid: "101758431"
 
 使用任何 MPN 关联的用户帐户登录，以 **[创建技术售销售和部署服务 (TPD) 请求](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** (不需要) 的技术权益激活。
 
-  :::image type="content" source="images/technical-benefits.png" alt-text="技术售销售和部署权益" border="false":::
+  :::image type="content" source="images/technical-benefits.png" alt-text="技术预售和部署权益" border="false":::
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>提交技术售前和部署服务请求 
 
