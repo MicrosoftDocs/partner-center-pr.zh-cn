@@ -1,7 +1,7 @@
 ---
 title: 区域税费和税款例外
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: 对于 CSP 计划合作伙伴，了解每个地区的税收责任，如何提交 CSP 销售的免税，以及如何获取对税务问题的支持。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755582"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247672"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>在 CSP 计划中，按地区或国家/地区为你的国家/地区或国家/地区
 
-适用于：
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
 
 云解决方案提供商 (CSP) 计划是一个侧重于产品合作伙伴转售的销售渠道。 因此，Microsoft 不会始终需要为合作伙伴发票支付销售税。 这些规则依国家和/或地区的不同而异。 您可以查看 [特定于国家/地区的特定于国家/地区的详细信息](#country-and-region-tax-details)。
 
@@ -33,7 +29,6 @@ ms.locfileid: "96755582"
 
 如果你位于其他国家/地区，则请参阅 [其他地区的信息](#other-regions)。
 
-有关其他问题，请 [在合作伙伴中心请求支持](#support)。
 
 ### <a name="canada"></a>加拿大
 
@@ -41,7 +36,7 @@ ms.locfileid: "96755582"
 
 对于 BC PST 例外，如所述，将免税视为豁免。 提供 BC PST#，或填写完整并已签名的“一般免税证书”。
 
-### <a name="united-states"></a>美国
+### <a name="united-states"></a>United States
 
 美国的所有经销商都需要在接受 Microsoft 经销商协议后 30 天内提供免增值税文档。 每个州都具有不同的转售免税证书。 请与税务顾问合作，确定与你的合法地址和注册州相关的内容。
 

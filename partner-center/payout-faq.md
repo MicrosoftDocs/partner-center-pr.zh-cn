@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924909"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247653"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>有关付款和税款的常见问题
 
@@ -63,7 +63,14 @@ ms.locfileid: "98924909"
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>税配置文件已过期。 如何修复此问题？
 
-使用 [创建或更新税务配置文件](set-up-your-payout-account.md#create-or-update-your-tax-profile) 中的步骤来更新你的税务配置文件。 在 " **税务配置文件** " 页上，您可以在 " **到期日期** " 列中查看已过期或即将过期的配置文件。 
+如果税务模板已过期或即将过期，则意味着你向 Microsoft 提供的税务格式需要更新。 使用以下步骤更新你的税务配置文件：
+
+1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)，并选择齿轮图标以打开 " **设置** " 菜单。
+2. 选择 " **帐户设置**"，展开 " **支出和税务** " 部分，然后选择 " **支出和税务** 配置文件"。
+3. 选择 **税务** 配置文件
+4. 检查列 **到期日期** 并导航到过期的或即将过期的税务配置文件。
+5. 选择 " **编辑** " 以启动税务配置文件编辑过程。
+6. 在 "税额" 部分中提供更新的详细信息。
 
 ## <a name="earnings-incorrect-or-missing"></a>收入不正确或缺失
 
