@@ -102,8 +102,12 @@
         - name: Visual Studio 权益
           href: mpn-benefits-visual-studio.md
           displayname: 'visual studio, mpn, activate'
-        - name: 技术预售和部署权益
+        - name: 技术售前和部署服务
           href: technical-benefits.md
+          displayname: 'TPD, presales, deployment, technical'
+        - name: 技术权益
+          href: mpn-benefits-technical-support.md
+          displayname: 'support, incidents, technical'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 软件保障
