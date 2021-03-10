@@ -8,12 +8,12 @@ description: 将合作伙伴中心中的引用与 Dynamics 365 CRM 的共同销�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756801"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532023"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -104,7 +104,7 @@ ms.locfileid: "101756801"
      
       7. 添加所有连接后，你的环境中应会显示以下连接：
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="连接":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="连接":::
    
 ## <a name="edit-the-connections"></a>编辑连接
 
@@ -141,7 +141,7 @@ ms.locfileid: "101756801"
 
 3. 选择 **复制** 图标以复制提供的 HTTP POST URL。
 
- :::image type="content" source="images/webhook-video.gif" alt-text="使用 webhook 注册资源更改":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="使用 webhook 注册资源更改":::
 
 4. 选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
 
@@ -205,7 +205,7 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
 
 3. 更新 **当前值** (不要使用 **新值** 选项更新默认值) 并提供值。 值必须与变量的数据类型相匹配，例如 Yes/No 数据类型将接受 Yes 或 No 值。
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="更新环境变量":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="更新环境变量":::
 
 - 端到端双向共同销售引用同步
 
