@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492698"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756462"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 
@@ -128,9 +128,6 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴使用的应用，使�
 ||*    查看你创建的合作伙伴支持票证
 
 ## <a name="manage-referrals"></a>管理引荐
-
-> [!Note]
->将自 2020 年 11 月 18 开始推出新的引荐用户角色。 现有的引荐管理员将保留其对整个公司有效的引荐管理员角色。
 
 |**Role** | **你可以执行的操作**|**了解详细信息**
 |------------------------------|:-------------------------|---|

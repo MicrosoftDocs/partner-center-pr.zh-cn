@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755819"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022734"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>将一些教育客户从 Windows 10 家庭版升级到 Windows 10 教育版
 
 **相应的角色**
 
 - 管理员代理
-- 支持人员代理
+- 计费管理员
 
 ## <a name="overview"></a>概述
 
@@ -57,7 +57,7 @@ CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级�
 
 - **标题：** Windows 10 家庭版到 Windows 10 教育升级产品密钥
 - **说明：** 请求 [insert number] 键，以便升级到 Windows 10 教育版。  (注意，请求的密钥数不得大于 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅许可证。 ) 客户的订阅 ID [为其 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅插入客户订阅 ID GUID。]
-- **联系号码：** 这将预填充;查看以确认或更新。
+- **联系号码：** 这将被预先填充;查看以确认或更新。
 - **电子邮件：** 这会被预先填充，并且应该是用作 Microsoft 门户管理员的电子邮件， (全局管理员或仅计费管理员) 。
 - **首选联系方法**：选择 **电话号码** 或 **计划回拨**。
 
@@ -92,8 +92,9 @@ CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级�
 **是否有截止时间与支持部门联系并接收升级密钥？**
 Windows 10 教育升级基于客户的活动 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 许可订阅。 如果客户不扩展或续订订阅，则升级资格也将结束。
 
+## <a name="next-steps"></a>后续步骤
+
 **合作伙伴可以在哪里了解有关 Windows 10 教育的详细信息？**
-通过以下链接了解更多信息：
 
 - [Windows 教育功能](https://www.microsoft.com/education/products/windows/features)
 - [Windows 教育中心](/education/windows/)

@@ -1,7 +1,7 @@
 ---
 title: 使用你的对帐文件
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 03/10/2021
 description: 了解合作伙伴中心中的对帐文件以及如何解释给定计费周期的详细的行项视图。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755783"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022768"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>了解如何读取伙伴中心对帐文件中的行项
-
-适用于：
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
 
@@ -72,7 +67,7 @@ ms.locfileid: "101755783"
 
 **间接模型** 中的合作伙伴可以在基于许可证和基于使用情况的对帐文件中使用这些附加字段，按经销商对文件进行详细列举。
 
-| MPN ID | 说明 |
+| MPN ID | 描述 |
 | ------ | ----------- |
 | MPN ID | Microsoft 合作伙伴网络 (MPN) 云解决方案提供程序的标识符 (CSP) 直接或间接 (。 |
 | [经销商 MPN ID](#reseller-mpn-id) | [订阅的记录分销商的 MPN 标识符](#reseller-mpn-id)。 此字段对应于 "合作伙伴中心" 中为特定订阅列出的分销商 ID。 仅显示在间接模型中合作伙伴的对帐文件上。 |

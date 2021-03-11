@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755864"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022802"
 ---
 # <a name="view-your-incentives-program-details"></a>查看奖励计划详细信息
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755864"
 
 - 激励管理员
 - 奖励用户
-- 激励只读查看器
 - 全局管理员
 - MPN 合作伙伴管理员
 
-本文介绍了如何访问 " **我的激励概述** " 页，其中显示了激励计划的总体状态以及每个位置的每个程序的状态。 它还提供不同的注册状态。 
+本文介绍了 " **我的奖励概述** " 页，其中显示了激励计划的总体状态以及每个位置的每个程序的状态。 它还提供不同的注册状态。
 
 >[!NOTE]
 >若要详细了解合作伙伴中心的奖励和激励功能，请参阅)  (登录所需的 [合作伙伴投资和奖励](https://partner.microsoft.com/membership/partner-incentives) 。

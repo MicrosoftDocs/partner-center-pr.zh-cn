@@ -1,7 +1,7 @@
 ---
 title: 获取引荐见解
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心定期检查引荐见解数据，了解要处理的趋势或有待改进的方面，从而帮助你实现业务目标。
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422355"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756487"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作伙伴中心获取引荐见解，并了解引荐状况如何
 
@@ -59,13 +59,13 @@ ms.locfileid: "91422355"
 
 本部分显示一种视觉指示器，它显示你的交易在其生命周期内是如何从一种状态移到另一种状态的。 你可根据交易量查看整个生命周交易额（美元）。 第一部分标记有状态和交易类型，它按类型直观显示交易量或交易额。 还有一个名为“历史引荐”的部分，它显示你对其采取了操作（在为报告所选的时间段内接受/拒绝或将其标记为“已获得”/“已失去”）的交易。 可应用筛选器，在交易的生命周期中跨各个阶段查看交易的进度。
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="显示引荐转化漏斗图的图像。":::
 
 ## <a name="deals-by-geography"></a>按地理位置列出的交易
 
 本部分显示了产生交易的国家/地区，以及每个国家/地区的详细信息。 有一个表视图显示了每个国家/地区的交易详细信息，还有一个地图视图显示了所有国家/地区。 你可在表中单击特定国家/地区，或单击地图视图，缩放定位到特定国家/地区。
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="显示引荐的地理分布情况的图像。":::
 
 ## <a name="deals-by-solutions"></a>按解决方案列出的交易
 
@@ -77,13 +77,13 @@ ms.locfileid: "91422355"
 
 表中显示了其中包含解决方案的全部交易、相应的状态（例如已获得交易、已失去交易、交易已过期），以及已获得和已失去的总交易额（美元）。 表的右侧还有一个交易趋势图，其中根据所选的解决方案显示总交易数和已获交易额（美元）。 默认选择是“所有解决方案”。
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="显示解决方案绩效的图像。":::
 
 ## <a name="declined--lost-reasons"></a>拒绝和损失原因
 
 本部分将帮助你分析交易为何要被你的公司标记为“已拒绝”或“已失去” 。 这些表述中的选项与你的卖方在结束交易并将交易标记为“已拒绝”或“已失去”时选择的原因相同。
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="显示合作伙伴在拒绝交易或将交易标记为“已失去”时选择的原因的图像。":::
 
 ## <a name="comparison-charts"></a>比较图
 
@@ -96,13 +96,13 @@ ms.locfileid: "91422355"
 
 如果选择交易类型，则可比较联合销售机会和私人交易方面的引荐表现情况。 对于市场和解决方案，可最多选择 3 个不同的选项来比较它们的表现情况。 第一个图是条形图，它将根据主透视（已获得的交易量或交易额）显示数据和月度环比趋势。 条形图右侧还有一个饼图，它显示同一数据的分布情况百分比。
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="显示比较部分的图像。":::
 
 ## <a name="raw-data-table"></a>原始数据表
 
 下表中有与联合销售机会相关的所有原始数据，它将帮助你快速导出数据来进行你想要执行的任何详细或自定义分析。
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="显示引荐的原始数据表的图像。":::
 
 ## <a name="no-data"></a>无数据
 
@@ -114,10 +114,10 @@ ms.locfileid: "91422355"
 - 没有与你应用的筛选器相匹配的记录。 尝试重置筛选器。
 - 分析报告中机会状态更改域机会状态更新之间存在延迟。 请在 24 小时后查看报告。
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="显示联合销售机会分析摘要卡的图像。":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="显示引荐没有数据可视化的图像。":::
 
 > [!NOTE]
-> “引荐见解”页仅显示在合作伙伴中心内生成的引荐的数据。 它不显示通过 [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) 或任何其他机制生成的引荐的数据。
+> “引荐见解”页仅显示在合作伙伴中心内生成的引荐的数据。 它不显示通过 [Partner Sales Connect](psc-to-pc.md) 或任何其他机制生成的引荐的数据。
 
 > [!TIP]
 > 若要了解你的企业档案在[查找解决方案提供商](https://www.microsoft.com/solution-providers/home)体验中的表现，请查看[企业档案见解页](analyze-your-marketing-profile.md)。

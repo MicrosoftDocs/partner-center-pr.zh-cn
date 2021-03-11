@@ -1,7 +1,7 @@
 ---
 title: 奖励合作和索赔概述
 ms.topic: article
-ms.date: 10/29/2020
+ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何通过组织正确的文档、发票、语句和执行证明，为奖励提交成功的合作声明。
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354502"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022700"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>获得协作营销资金
 
@@ -54,10 +54,10 @@ Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格
 
 |  如果你的赢利/应计期为  |会计半年期为  |  使用期限为  |  申报期为  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**7月-12 月2020**| FY20 H1  |  Jan-2021 年6月  |  15 2021 年2月16日  |
-|**Jan-2021 年6月** |  FY20 H2  |  7月-12 月2021  |  8月 16 2021-2 月 15 2022  |
-|**7月-12 月2021**|  FY21 H1  |  Jan-2022 年6月  |  15 2022 年2月16日  |
-|**Jan-2022 年6月** |  FY21 H2  |  7月-12 月2022  |  8月 16 2022-2 月 15 2023  |
+|**7月-12 月2020**| FY21 H1  |  Jan-2021 年6月  |  15 2021 年2月16日  |
+|**Jan-2021 年6月** |  FY21 H2  |  7月-12 月2021  |  8月 16 2021-2 月 15 2022  |
+|**7月-12 月2021**|  FY22 H1  |  Jan-2022 年6月  |  15 2022 年2月16日  |
+|**Jan-2022 年6月** |  FY22 H2  |  7月-12 月2022  |  8月 16 2022-2 月 15 2023  |
 
 >[!NOTE]
 >Microsoft 保留 (PoE) 文档请求原始执行证明的权利。 你应将所有原始文档保留在活动日期之后24个月内。

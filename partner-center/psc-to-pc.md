@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124816"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770256"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作伙伴中心 (PC) 中的共同销售指南，适用于从合作伙伴销售连接 (PSC 迁移的合作伙伴) 
 
@@ -81,7 +81,7 @@ ms.locfileid: "102124816"
 
    该页将显示所有帐户管理员及其各自的电子邮件地址。 通过电子邮件发送其中一项，并要求他们为你的工作帐户分配 "引用管理员" 角色。
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="显示 &quot;合作伙伴设置&quot; 用户管理页中的 &quot;帐户管理员&quot; 的图像。":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="显示 &quot;合作伙伴设置&quot; 用户管理页中的 &quot;帐户管理员&quot; 的图像。":::
 
 >[!Important]
 >- 如果你的角色仅涉及管理 PSC 中的用户，则要求公司的帐户管理员向你分配合作伙伴中心的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 
@@ -95,7 +95,7 @@ ms.locfileid: "102124816"
 >[!Note]
 > 用户迁移只能由公司的 [帐户管理员](permissions-overview.md#manage-mpn-membership-and-your-company) 执行。 如果你没有帐户管理员角色，请使用 "用户迁移向导" 查找可帮助设置用户帐户的帐户管理员。
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="显示用户迁移向导的映像。":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="显示用户迁移向导的映像。":::
 
 帐户管理员将在 "参考指南" 旁边的 "共同销售机会" 页中看到 "PSC 用户迁移向导" 链接。 用户可以通过选择链接启动用户迁移。 若要启动用户迁移，管理员可以选择链接。 它们可以多次执行此用户迁移步骤，直到在合作伙伴中心向所有用户分配了适当的角色。
 

@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251043"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619369"
 ---
 # <a name="mpn-benefits---software"></a>MPN 权益-软件
 
@@ -33,7 +33,7 @@ ms.locfileid: "102251043"
 
 如果产品需要安装产品密钥，则在安装过程中，系统将提示您输入产品密钥。 你可以从 "合作伙伴中心" 中的相同窗格中获取要下载的软件版本。
 
-**Windows server** 和客户端 **操作系统** 以及 **所有 Microsoft Office 客户端应用程序** 都需要产品激活。 并非所有产品都需要激活产品。
+**Windows Server** 和客户端 **操作系统** 以及 **所有 Microsoft Office 客户端应用程序** 都需要产品激活。 并非所有产品都需要激活产品。
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="MPN 上提供的软件产品权益。" border="false":::
 

@@ -7,19 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755765"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022751"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>了解基于使用情况的对帐文件及其在合作伙伴中心的特定字段
-
-适用于：
-
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
 
@@ -32,7 +27,7 @@ ms.locfileid: "101755765"
 
 以下字段说明已使用的服务和费率。
 
-| 列 | 说明 | 示例值 (s)  |
+| 列 | 描述 | 示例值 (s)  |
 | ------ | ----------- | ------------ |
 | PartnerId | 采用 GUID 格式的合作伙伴标识符。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | 合作伙伴名称。 | *Contoso，有限公司。* |

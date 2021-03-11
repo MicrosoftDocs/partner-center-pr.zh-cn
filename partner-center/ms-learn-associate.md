@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9feeb3e40b2113e787dc80baa5ff1f807dc8df04
-ms.sourcegitcommit: 80b703dc10892b5c2140785dd2fc22bbffd887c1
+ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "99224292"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756570"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>将 Microsoft 认证配置文件 ID (MCID) 关联到 Microsoft 合作伙伴网络 (MPN) 帐户，或取消两者之间的关联
 
@@ -82,6 +82,6 @@ ms.locfileid: "99224292"
 
 ## <a name="next-steps"></a>后续步骤
 
-- [用户角色和权限](https://docs.microsoft.com/partner-center/permissions-overview)
+- [用户角色和权限](./permissions-overview.md)
 - [能力](https://partner.microsoft.com/membership/competencies)
 - [Microsoft Learn 分析报告显示贵公司学员的状态](ms-learn-analytics.md)

@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354604"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029910"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户已接受 Microsoft 客户协议的已更新方法
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>确认客户接受 Microsoft 客户协议
 
 
 **相应的角色**
@@ -30,8 +30,6 @@ ms.locfileid: "97354604"
 > * 德国 Microsoft 云合作伙伴中心
 > * Microsoft Cloud for US Government 合作伙伴中心
 
->[!NOTE]
->从 2020 年 1 月 31 日起，所有客户（无论是现有客户还是新客户）都必须签署新的 Microsoft 客户协议。 若要了解详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
 
 作为合作伙伴，你需要在为客户订购 Microsoft 产品和服务之前确认该客户接受了 Microsoft 客户协议。 为了更好地帮助合作伙伴满足合规性要求，Microsoft 要求合作伙伴通过提供有关接受协议人员的以下详细信息来确认接受协议：
 
@@ -46,6 +44,9 @@ ms.locfileid: "97354604"
 - 接受日期
 
 直接计费合作伙伴和间接提供商在通过合作伙伴中心或合作伙伴中心 API 进行交易时必须确认客户接受了 Microsoft 客户协议。 “确认”为必选项。 
+
+>[!NOTE]
+>从 2020 年 1 月 31 日起，所有客户（无论是现有客户还是新客户）都必须签署新的 Microsoft 客户协议。 若要了解详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。
 
 如果没有为给定客户提供确认：
 

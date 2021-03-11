@@ -1,38 +1,38 @@
 ---
-title: 通过引用中的 excel 文件进行批量操作
+title: 通过引用中的 Excel/CSV 文件批量导出和导入共同销售商机
+description: 了解如何在合作伙伴中心使用 Excel (CSV) 文件下载、创建或更新共同销售商机
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何使用 excel 文件下载、创建或更新共同销售商机
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756061"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619386"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>使用逗号分隔的值（ (CSV) 文件）进行联销售机会的批量操作
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>使用逗号分隔的值（ (CSV) 文件）进行联销售机会的批量操作
 
 **相应的角色**
 
 - 引荐管理员
 - 引荐用户
 
-合作伙伴中心的批量操作有助于公司导出和导入共同销售的商机数据。 导航到 "共同销售机会" 页，找到页面标题横幅右上方的 "导入和导出" 链接。 具有 " **引用管理员** " 和 " **引用" 用户** 权限的用户可以使用此功能。
+合作伙伴中心的批量操作有助于公司导出和导入共同销售的商机数据。 导航到 " **共同销售机会** " 页，找到页面标题横幅右上方的 " **导入** 和 **导出** " 链接。 具有 " **引用管理员** " 和 " **引用" 用户** 权限的用户可以使用此功能。
 
 > [!IMPORTANT]
 > 通过批量导入完成的创建/更新操作不可逆。 在修改或创建大量记录时，请小心。 创建交易后只能修改字段的子集。 **一旦任何交易到达终端状态（如拒绝/过期/赢/丢失），就不允许执行任何操作。**
 
-## <a name="exporting-co-sell-opportunities"></a>导出共同销售机会
+## <a name="export-co-sell-opportunities"></a>出口共同销售机会
 
-下面是导出功能的详细信息
+以下信息描述了导出功能：
 
-- 单击 "导出" 按钮可导出 **最多5000条记录** 。
+- 单击 "**导出**" 按钮可导出 **最多5000条记录**。
 - 下载的交易将基于您的访问级别。 引用管理员和引用用户可能会根据其作用域获取不同的结果，并将其包含为交易中的团队成员。 了解有关 [引用权限](permissions-overview.md#manage-referrals)的详细信息。
 - 导出函数将在 "共同销售机会" 页和已应用的筛选器中考虑当前选项卡。
 - 将生成一个 CSV 文件，其中包含基于应用的筛选器的所有数据。
@@ -40,7 +40,7 @@ ms.locfileid: "101756061"
 - 你不必等待下载操作完成。 即使导航到合作伙伴中心的其他页面，该文件也会在导出功能完成后立即下载。
 - 您可以重复使用已下载的文件来修改交易详细信息并上传以更新任何记录。
 
-## <a name="importing-co-sell-opportunities"></a>导入共同销售机会
+## <a name="import-co-sell-opportunities"></a>导入共同销售机会
 
 - 您可以使用导入功能创建或更新 **最多1000个记录** 。
 - 可以通过从合作伙伴中心的 "导入" 页下载模板从头开始生成模板。
@@ -87,7 +87,7 @@ Microsoft 引用状态|依赖的对象|指示发送给 Microsoft 寻求帮助的
 估计结束日期|是|以 MM/DD/YYYY 格式基于与客户的初始会话的交易的估计结束日期。 <br/> **日期应为 UTC 时区。"合作伙伴中心 UI" 中显示的所有日期均基于本地化时区。如果要查看在 UTC 时区中提供日期的引用，则合作伙伴中心 UI 可能会有 +/-1 天的差异。**|1/30/2020
 CRM ID|否|CRM 系统中此特定引用的标识符（如果有）。 这是一个自由格式的文本输入字段。|34234324-sdfsdf-345345-sfd
 市场营销活动 ID|否|此字段指示市场营销活动，该活动导致此特定引用。 通常用于 ROI 计算|BingSummer2020
-说明|否|指示与引用相关的更新的详细说明|这是一个示例说明
+注意|否|指示与引用相关的更新的详细说明|这是一个示例说明
 Microsoft 帮助是必需的？|是|这是为了指出是否希望 Microsoft 帮助你建立此共同销售请求|是
 Microsoft 有哪些特定帮助？|依赖的对象|Microsoft 可以通过六种不同的方法之一来帮助你。 仅当你选择 "否" 时，此问题才适用。 " <br/> **根据以下选项输入一个数字** <br/><br/> **1**-特定于工作负荷的价值主张  <br/> **2**-客户技术体系结构  <br/> **3**-概念证明/Demo  <br/> **4**-引号和许可  <br/> **5**-销售后客户成功  <br/> **6**-常规或其他|1|
 与 Microsoft 销售团队共享|是|这是为了指出是否要与 Microsoft 销售团队共享交易的详细信息。 仅当你选择 "否" 时，此问题才适用。 "|是
@@ -95,3 +95,10 @@ Microsoft 说明|否|Microsoft 的任何特定说明（如果需要 Microsoft �
 同意共享客户/合作伙伴联系人|是|同意共享客户联系详细信息，以及公司员工与正在处理交易的人员联系详细信息。 **如果对此列选择 "否"，则不会创建或更新交易。** |是
 解决方案 1|是|解决方案 ID (所需的) 、输入交易值 (可选) 。 你可以在 [此处](https://en.wikipedia.org/wiki/ISO_4217)找到货币代码，sku 价格 (可选) 和 (可选的 sku 数量)   |SOL-1234-PQRS、USD、10、100
 团队成员1|是|各自团队成员的名字、姓氏、移动电话号码和电子邮件 ID。| Bob，Partner，999999， Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>后续步骤
+
+你可以使用这些合作伙伴中心共同销售连接器与 Microsoft 在 CRM 系统中共同销售。
+
+- [用于 Dynamics 365 CRM 的共同销售连接器–概述](connector-dynamics.md)
+- [用于 Salesforce CRM 的联合销售连接器 – 概述](connector-salesforce.md)

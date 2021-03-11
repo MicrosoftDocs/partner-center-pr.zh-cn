@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM 合作伙伴中心的共同销售连接器
+description: 将合作伙伴中心中的引用与 Dynamics 365 CRM 的共同销售连接器同步。 然后，卖方可以在 CRM 系统中与 Microsoft 进行共同销售。
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将合作伙伴中心中的引用与 Dynamics 365 CRM 的共同销售连接器同步。 然后，卖方可以在 CRM 系统中与 Microsoft 进行共同销售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532023"
+ms.locfileid: "102619403"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>用于 Dynamics 365 CRM 的共同销售连接器–概述
 
@@ -88,7 +88,7 @@ ms.locfileid: "102532023"
 
    - CRM 管理员，并在解决方案中自动执行流处理。
 
-      1. 从左侧导航栏中选择 " **连接** "，然后从列表中选择 "合作伙伴中心引用" 解决方案。
+      1. 从左侧导航栏中选择 " **连接** "，然后从列表中选择 " **合作伙伴中心引用** " 解决方案。
 
       2. 通过单击 " **创建连接**" 创建连接。
 
@@ -110,11 +110,11 @@ ms.locfileid: "102532023"
 
 1. 返回 " **解决方案** " 页，选择 " **默认解决方案**"。 通过单击 "**全部**" **(预览) 选择 "连接引用**"。
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="编辑连接":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="编辑连接":::
 
 2. 通过选择三个点图标，逐个编辑每个连接。 添加相关连接。
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="列出的连接"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="列出的连接"::: 
 
 3.  返回到 "解决方案" 页，为 Dynamics 365 选择 "合作伙伴中心引用同步"，然后单击以下序列中每个流旁边的三个点图标，打开流。 如果在打开流时遇到任何问题，请参阅 [自定义步骤](connector-dynamics.md#customize-synchronization-steps) 和 [故障排除步骤](connectors-troubleshoot.md)。 
 
@@ -171,19 +171,19 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
 
 - 交易价值：默认情况下，来自合作伙伴中心的交易值将与 CRM 中的 **estimatedvalue** 同步。 如果 CRM 中有不同的字段要从中同步值，请执行以下操作：
 
-    a.    在 Dynamics 365 环境变量中，用 CRM 的字段名称更新交易值字段名称。 请注意，应提供字段名称，而不是其显示名称。
+  a. 在 Dynamics 365 环境变量中，用 CRM 的字段名称更新交易值字段名称。 请注意，应提供字段名称，而不是其显示名称。
 
-    b.    编辑 **[自定义] 创建或获取 Dynamics 365 flow 的详细信息**  ，并导航到 crm 中的 " **创建或更新** 机会" 和 "更新" " **创建新机会** 并 **更新现有机会** 操作"，将 **DealValue** 值分配到 CRM 中的正确字段。 同时，从 "**估计收入**" 字段中删除 **DealValue 分配**。
+  b. 编辑 **[自定义] 创建或获取 Dynamics 365 flow 的详细信息**  ，并导航到 crm 中的 " **创建或更新** 机会" 和 "更新" " **创建新机会** 并 **更新现有机会** 操作"，将 **DealValue** 值分配到 CRM 中的正确字段。 同时，从 "**估计收入**" 字段中删除 **DealValue 分配**。
 
 - 客户帐户国家/地区代码：创建新引用时，必须提供两个字母的国家/地区代码 (ISO 3166) 。 默认情况下，国家/地区代码将同步到 CRM 中的帐户 address1_country 字段。 如果 CRM 中的 "国家/地区代码" 字段不同，则：
 
-   a.    对于包含两个字母代码的帐户的非查找国家/地区代码字段：
+   a. 对于包含两个字母代码的帐户的非查找国家/地区代码字段：
 
    - 用 CRM 的字段名称更新 Dynamics 365 环境变量中的客户帐户国家/地区代码字段名称。 请注意，应提供字段名称，而不是其显示名称。
 
    - 编辑 **[自定义] 创建或获取 Dynamics 365 流中的详细信息**  ，并导航到 "创建或获取 crm 中的客户帐户" 操作，以将国家/地区值分配到 crm 中的正确字段。 同时，从地址1：国家/地区字段中删除国家/地区值分配。
 
-   b.    对于帐户中的基于查找的国家/地区代码字段：
+   b. 对于帐户中的基于查找的国家/地区代码字段：
 
    - 在帐户中添加新的自定义字段并使用两个字母的国家/地区代码自动填充它 (ISO 3166) 基于基于查找的字段中选择的值，反之亦然。
 
@@ -205,7 +205,7 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
 
 3. 更新 **当前值** (不要使用 **新值** 选项更新默认值) 并提供值。 值必须与变量的数据类型相匹配，例如 Yes/No 数据类型将接受 Yes 或 No 值。
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="更新环境变量":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="更新环境变量":::
 
 - 端到端双向共同销售引用同步
 
@@ -242,13 +242,11 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alt-text}":::
 
-
-
 - 添加 Microsoft 解决方案后，你可以预先填充联合销售就绪解决方案的详细信息，以便你的卖方不必添加它们。 若要添加新的解决方案详细信息，请前往 CRM 中的 Microsoft 解决方案详细信息对象，然后单击 " **添加记录** " 添加一个条目或使用 **Excel 上传** 添加多个条目。
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="解决方案详细信息":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="解决方案详细信息":::
 
-### <a name="scenarios"></a>各种
+### <a name="scenarios"></a>方案：
 
 1. 在 CRM 中创建或更新引用并在伙伴中心同步时的引用同步：
 
@@ -265,6 +263,7 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
          :::image type="content" source="images/dynamic-3a.png" alt-text="如何在卡片视图中获取相应的字段":::
 
       - **客户联系人**：若要创建共同销售引用，请将客户联系人添加到机会。
+
       - **与合作伙伴中心同步**：是
 
       - Microsoft 解决方案：若要与 Microsoft 共享引用，请向商机添加有效的合作销售就绪或 Microsoft 解决方案。
