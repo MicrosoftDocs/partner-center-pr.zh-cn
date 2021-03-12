@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220264"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619420"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "102220264"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[将 Azure 的云解决方案提供商 (CSP) 计划中新推出的商业体验扩展到俄罗斯](2021-march.md#5)|3 月 10 日|
 |功能|[合作伙伴中心软件许可证密钥和下载履行](2021-march.md#4)|3 月 5 日|
 |功能|[将交易从 Partner Sales Connect (PSC) 迁移到合作伙伴中心](2021-march.md#3)|3 月 5 日|
 |功能|[将于 2021 年 4 月 1 日推出的新增 Microsoft Dynamics 365 产品和优惠](2021-march.md#2)|3 月 4 日|
