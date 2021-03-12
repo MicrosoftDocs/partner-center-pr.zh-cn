@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570631"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756724"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概述：合作伙伴中心的主要计费和税务文章
 
@@ -25,7 +25,7 @@ ms.locfileid: "96570631"
 - 全局管理员
 - 销售代理
 
-本文提供了一些链接，这些链接中包含有关合作伙伴中心计费和税款主题的信息，包括计费资源、发票、CSP 计费和税款。
+本文提供了一些链接，可通过它们了解合作伙伴中心计费和税务主题，包括计费资源、发票、CSP 计费和税务。
 
 
 | 主题 | 说明 |

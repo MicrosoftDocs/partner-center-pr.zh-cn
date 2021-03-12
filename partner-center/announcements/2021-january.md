@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 03/08/2021
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541008"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514113"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -86,7 +86,7 @@ _____________
 - 2021 年 1 月 7 日：第 1 阶段和第 2 阶段中包含的其他方案
 - 2021 年 1 月 28 日： 
     -    宣布第 1 阶段现已开始 
-    -    说明了尽管 UK 未包含在 EU/EFTA 中，但它是 [Microsoft 欧洲地区和市场](https://docs.microsoft.com/partner-center/regional-authorization-overview)的一部分，将会受到影响
+    -    说明了尽管 UK 未包含在 EU/EFTA 中，但它是 [Microsoft 欧洲地区和市场](../regional-authorization-overview.md)的一部分，将会受到影响
 
 
 ________________
@@ -170,13 +170,13 @@ ________________
 
 ### <a name="details"></a>详细信息
 
-正在针对间接经销商实施 Microsoft 合作伙伴协议 (MPA)。 为了向提供商和经销商提供进一步的支持，我们已听取你的反馈，并已将有关如何接受 MPA 的常见问题合并了到新的[常见问题页面](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)中。
+正在针对间接经销商实施 Microsoft 合作伙伴协议 (MPA)。 为了向提供商和经销商提供进一步的支持，我们已听取你的反馈，并已将有关如何接受 MPA 的常见问题合并了到新的[常见问题页面](../mpa-indirect-provider-faq.md)中。
 
 ### <a name="next-steps"></a>后续步骤
 
-**间接经销商：** 如果你尚未接受 MPA，请查看 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)，并按照 [此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南操作以接受 MPA。
+**间接经销商：** 如果你尚未接受 MPA，请查看 [MPA 常见问题解答](../mpa-indirect-provider-faq.md)，并按照 [此处](../microsoft-partner-agreement.md)提供的分步指南操作以接受 MPA。
 
-**间接提供商：** 请与间接经销商联系，并使用 [MPA 常见问题解答](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)以及 [此处](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的分步指南为其提供支持。
+**间接提供商：** 请与间接经销商联系，并使用 [MPA 常见问题解答](../mpa-indirect-provider-faq.md)以及 [此处](../microsoft-partner-agreement.md)提供的分步指南为其提供支持。
 
 ### <a name="questions"></a>是否有任何问题?
 
@@ -207,8 +207,8 @@ ________________
 ### <a name="next-steps"></a>后续步骤
 
 - 当 DAP 被客户批准以及被客户终止时，利用新的操作类型来跟踪事件。  
-- [获取合作伙伴中心活动的记录 - 合作伙伴中心应用开发者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [审核资源 - 合作伙伴中心应用开发者 | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [获取合作伙伴中心活动的记录 - 合作伙伴中心应用开发者 | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [审核资源 - 合作伙伴中心应用开发者 | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>是否有任何问题?
 
@@ -287,9 +287,9 @@ ________________
 #### <a name="partner-earned-credit-pec"></a>合作伙伴赚取的返点 (PEC)
 
 - [了解合作伙伴赚取的返点（指南）(microsoft.com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [合作伙伴赚取的返点 - 概述 | 合作伙伴中心 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [合作伙伴赚取的托管服务的返点 - 合作伙伴中心 | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [合作伙伴赚取的返点的角色、权限 - 合作伙伴中心 | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [合作伙伴赚取的返点 - 概述 | 合作伙伴中心 | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [合作伙伴赚取的托管服务的返点 - 合作伙伴中心 | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [合作伙伴赚取的返点的角色、权限 - 合作伙伴中心 | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Azure in CSP 模块中的关于合作伙伴赚取的返点的按需培训模块 (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>新商业体验
@@ -314,6 +314,9 @@ ________________
 
 ### <a name="details"></a>详细信息
 
+>[!NOTE]
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+
 正如今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我们非常高兴地通知你商业永久性软件许可证现已正式发布，供所有 CSP 合作伙伴销售。 合作伙伴中心 CSP 永久性软件价目表已重新发布，现在包括新增的产品和地理位置。
 
 另请注意，从今天开始，合作伙伴中心软件和许可证密钥履行功能已停用，今后合作伙伴应指示客户使用 Microsoft 365 管理中心来实现此目的。 请参阅下面的详细信息和后续步骤。
@@ -321,12 +324,18 @@ ________________
 ### <a name="next-steps"></a>后续步骤
 
 - 在合作伙伴中心[定价和产品/服务](https://partnercenter.microsoft.com/pcv/sales)页面的“软件”部分，下载 CSP 永久性软件价目表 。 可在[此处](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新添加的产品和地理位置的列表。
-- 查看[“Microsoft 365 管理中心永久性软件和产品许可证密钥下载操作”一文](https://go.microsoft.com/fwlink/p/?linkid=2152525)，并在客户准备下载软件和许可证密钥时，与其分享此文。
+- 查看[“Microsoft 365 管理中心永久性软件和产品许可证密钥下载操作”一文](/microsoft-365/admin/setup/download-software-licenses-csp)，并在客户准备下载软件和许可证密钥时，与其分享此文。
 - 查看[云解决方案提供商计划中的永久性软件](https://partner.microsoft.com/resources/collection/software-in-csp#/)就绪性材料。 请使用此[就绪性地图](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)快速找到适合你的角色的信息。
 
 ### <a name="questions"></a>是否有任何问题?
 
 如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
+
+### <a name="change-log"></a>更改日志：
+
+- 2021 年 1 月 19 日：初始发布 
+
+- 2021 年 3 月 5 日：在顶部添加了有关合作伙伴中心软件和许可证密钥履行功能的注释
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a> 提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制 

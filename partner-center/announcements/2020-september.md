@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705005"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514079"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -36,6 +36,9 @@ ________________
 
 ### <a name="details"></a>详细信息
 
+>[!NOTE]
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+
 现在，合作伙伴可使用合作伙伴中心或 Microsoft 365 管理中心来处理 CSP 软件订单的软件下载和许可证密钥履行事务。 截至 2021 年 1 月 19 日，合作伙伴中心软件和许可证密钥履行功能将被停用，合作伙伴将指示客户只能使用 Microsoft 365 管理中心来实现此目的 。 合作伙伴中心内的“客户软件”页面将包含一个指向 Microsoft 365 管理中心的“深层链接”，你可在这里指示客户获得客户许可证和软件下载。 这有助于为客户提供超级安全和高效的体验。
 
 软件许可证密钥和下载链接是非常宝贵且受到强烈热捧的知识产权资产。 如果遭到泄露，其激活限制可能很快就被会耗尽，导致出现负面的客户和合作伙伴体验。 因此，合作伙伴有必要使用最安全的技术和最佳做法来帮助保护这些宝贵的资产和他们的客户。
@@ -54,6 +57,12 @@ Microsoft 365 管理中心增强了所购软件的安全交付，让客户能够
 
 若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
+### <a name="change-log"></a>更改日志：
+
+- 2020 年 9 月 30 日：初始发布 
+
+- 2021 年 3 月 5 日：在顶部添加了有关合作伙伴中心软件和许可证密钥履行功能的注释。
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>云解决方案提供商 (CSP) 计划演进和开放式许可计划变更：实现更卓越的合作伙伴和客户体验
 
@@ -68,6 +77,9 @@ CSP 和开放式计划中的所有合作伙伴
 
 ### <a name="details"></a>详细信息
 
+>[!NOTE]
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+
 Microsoft CSP 计划的参与人数呈指数增长，已有超过 90,000 家公司加入。 这是我们针对中小型企业和更小型的采用新商业体验的公司客户而推出的主要合作伙伴销售计划。 基于这一发展势头，我们今天宣布将在 CSP 计划中扩展面向合作伙伴的机会。 有关详细信息，可查看[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)。
 
 ### <a name="next-steps"></a>后续步骤
@@ -80,6 +92,11 @@ Microsoft CSP 计划的参与人数呈指数增长，已有超过 90,000 家公�
 
 若有与此通知相关的问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
+### <a name="change-log"></a>更改日志：
+
+- 2020 年 9 月 30 日：初始发布。
+
+- 2021 年 3 月 5 日：在顶部添加了有关合作伙伴中心软件和许可证密钥履行功能的注释。
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>适合 Azure 计划的在合作伙伴之间过渡时使用的新的订阅过渡工具的可用性 

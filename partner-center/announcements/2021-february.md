@@ -6,19 +6,211 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom:
+- announcement
+- references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540992"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124782"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月公告
 
 本页详述了 Microsoft 合作伙伴中心 2021 年 2 月的公告。
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a>PUT 资格 API 已停用，GET 则将在 5 月停用
+
+### <a name="categories"></a>类别
+
+- 日期：2021 年 2月 25 日
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+使用合作伙伴中心 API，通过云解决方案提供商计划销售学术、非盈利和 GCC 产品/服务的合作伙伴
+
+### <a name="details"></a>详细信息
+
+本公告是对 [12 月发布的合作伙伴中心增强功能](2020-december.md#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 PUT 资格 API 已停用，且 GET 资格 API 将在 2021 年 5 月 4 日之前停用。 出现此情况后，你将需要过渡到使用新的 POST 合作伙伴中心 API 才能购买教育产品/服务。 同样地，你将需要使用新的 GET 资格 API 来购买已预获资格的非营利型和 GCC 产品/服务。
+
+### <a name="next-steps"></a>后续步骤
+
+- 请更新到新的 API，以便及时成功转换
+- 请参阅新的合作伙伴中心 API 更改，以及操作就绪资源指南：[合作伙伴中心教育客户验证流程增强功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- 请与经销商和组织中的相应团队分享此信息，帮助他们为这些更改做好准备
+
+### <a name="questions"></a>是否有任何问题?
+
+若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+### <a name="change-log"></a>更改日志
+
+- 二月：更新了停用 GET 和 PUT 资格的时间线
+- 一月：提醒即将开始弃用 GET 和 PUT 资格
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a>使用合作伙伴中心批量操作功能大规模共享联合销售交易
+
+### <a name="categories"></a>类别
+
+- 日期：2021-02-25
+- 增强的安全性和合规性
+
+### <a name="impacted-audience"></a>影响受众
+
+合作伙伴中心的合作伙伴联合销售
+
+### <a name="summary"></a>总结
+
+联合销售的合作伙伴现可使用合作伙伴中心 CSV 文件批量操作功能大规模地导入和导出销售机会。
+
+### <a name="details"></a>详细信息
+
+联合销售的合作伙伴现可使用合作伙伴中心 CSV 文件批量操作功能大规模地导入和导出销售机会。 这将统一你的推荐共享体验，并确保在从 Partner Sales Connect 迁移时业务不中断。 它也是在合作伙伴中心 API 中的投资的另一种选择。
+
+有关完整详细信息，请查看下一部分提到的文章。 
+
+### <a name="next-steps"></a>后续步骤
+
+若要详细了解批量操作功能，请阅读[使用逗号分隔值 (CSV) 文件针对联合销售机会的批量操作](https://docs.microsoft.com/partner-center/bulk-operations)。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>使用新的交易迁移功能从 Partner Sales Connect (PSC) 迁移交易
+
+### <a name="categories"></a>类别
+
+- 日期：2021-02-25
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+在 PSC 中具有交易的合作伙伴
+
+### <a name="summary"></a>总结
+
+在 Partner Sales Connect (PSC) 中具有交易的合作伙伴可使用交易迁移功能来迁移其联合销售交易，从而使用合作伙伴中心新推出的联合销售体验。
+
+### <a name="details"></a>详细信息
+
+在 PSC 中具有交易的合作伙伴现可使用交易迁移功能将其联合销售交易迁移到合作伙伴中心，从而加快迁移速度来使用合作伙伴中心新推出的联合销售体验。
+
+有关完整详细信息，请查看下一部分提到的文章。
+
+### <a name="next-steps"></a>后续步骤
+
+若要详细了解交易迁移功能，请查看[合作伙伴中心 (PC) 针对从 Partner Sales Connect (PSC) 迁移的合作伙伴的联合销售指南](https://docs.microsoft.com/partner-center/psc-to-pc)中的“PSC 交易迁移”部分。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>增加了合作伙伴主导的联合销售交易的灵活性
+
+### <a name="categories"></a>类别
+
+- 日期：2021-02-25
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+具有支持联合销售的解决方案的合作伙伴
+
+### <a name="summary"></a>总结
+
+合作伙伴现在创建合作伙伴主导的联合销售交易后，可邀请 Microsoft 买家来将此交易变为一个协作销售活动。
+
+### <a name="details"></a>详细信息
+
+现在，合作伙伴在创建合作伙伴主导的联合销售交易后，可邀请 Microsoft 买家来将此交易变为一个协作销售活动。 在合作伙伴明确寻求 Microsoft 买家帮助之前，交易的详细信息将不与 Microsoft 销售团队共享。 此方案还有资格参与 Microsoft 卖家激励计划。
+
+请注意，在交易达成之前，随时都可升级合作伙伴主导的联合销售交易来激活联合销售。
+
+有关完整详细信息，请查看下一部分提到的文章。
+
+### <a name="next-steps"></a>后续步骤
+
+若要了解详细信息，请查看我们关于[在合作伙伴中心管理联合销售机会](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)的指导。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> 对云解决方案提供商 (CSP) 客户加入要求的更改
+
+### <a name="categories"></a>类别
+
+- 日期：2021-02-25
+- 增强的安全性和合规性
+
+### <a name="impacted-audience"></a>影响受众
+
+CSP 直接计费合作伙伴和间接提供商，他们在下一节中列出的国家/地区具有新客户或现有客户。
+
+### <a name="summary"></a>总结
+
+我们承诺帮助合作伙伴和客户在相互信任的基础上开展业务，在此过程中，我们将请求其他客户信息，从 2021 年 5 月 25 日生效。
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 在 2021 年 5 月 25 日，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，它们将影响同时满足以下两个条件的合作伙伴：
+
+1. 合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。
+2. 合作伙伴与以下国家/地区的新客户或现有客户开展业务：
+    - 泰国
+    - 越南
+    - 土耳其
+    - 波兰
+    - 南非
+    - 印度
+    - 巴西
+    - 伊拉克
+    - 缅甸
+    - 南苏丹
+    - 沙特阿拉伯
+    - 阿拉伯联合酋长国
+    - 委内瑞拉
+
+满足条件的合作伙伴必须在加入新客户或修改现有客户详细信息时，提交该客户的法律标识码（也称为客户的组织 INN）和电话号码  。 这些合作伙伴还可以为客户输入可选的中间名。
+
+与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。
+
+- 亚美尼亚
+- 阿塞拜疆
+- 白俄罗斯
+- 匈牙利
+- 哈萨克斯坦
+- 吉尔吉斯斯坦
+- 摩尔多瓦
+- 俄罗斯
+- 塔吉克斯坦
+- 乌克兰
+- 乌兹别克斯坦
+
+与世界上其他国家/地区的客户合作的合作伙伴可在 2021 年 5 月 25 日输入客户的法律识别码、电话号码和中间名（可选）详细信息  。
+
+### <a name="next-steps"></a>后续步骤
+
+- 有关更详细的指南，请查看专门的[合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)（需要登录）中的技术文档和常见问题。
+- 准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。 API/SDK 将可用于测试。
+- 请确保在加入新客户或修改现有客户详细信息时提交其他数据。
+- 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果你有任何与法律识别码（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。
+
+如果需要 Microsoft 的运营支持，请[创建服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)（需要登录）。
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> 现已上线：针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign
@@ -245,7 +437,7 @@ _______________
 查看本主题的以下资源，并与组织内部的相关利益干系人共享此信息。   
 
 - [Microsoft 365 E5 安全性和合规性](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [在 Microsoft 合规性管理器中生成和管理评估](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [在 Microsoft 合规性管理器中生成和管理评估](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -285,23 +477,23 @@ ________________
 
 #### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>所有合作伙伴使用合作伙伴中心内的“推荐”模块  
 
-- [创建新的 SMB 连接](https://docs.microsoft.com/partner-center/connect-with-your-customers)：与 Microsoft 销售商联合销售和合作，获取与 SMB 客户相关的入站机会。
+- [创建新的 SMB 连接](../connect-with-your-customers.md)：与 Microsoft 销售商联合销售和合作，获取与 SMB 客户相关的入站机会。
 
-- [展开推荐权限](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)：根据你是否希望用户拥有管理员权限（访问所有联合销售机会）或用户权限（访问用户的特定联合销售机会）来分配用户的推荐权限。
+- [展开推荐权限](../permissions-overview.md#manage-referrals)：根据你是否希望用户拥有管理员权限（访问所有联合销售机会）或用户权限（访问用户的特定联合销售机会）来分配用户的推荐权限。
 
-- [Partner Sales Connect 用户迁移](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration)：将现有 Partner Sales Connect 用户权限与相应的合作伙伴中心推荐管理员权限和推荐用户权限对应，然后将新权限批量应用于用户。 查看[权限文档](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)了解有关推荐管理的详细信息。  
+- [Partner Sales Connect 用户迁移](../psc-to-pc.md#user-migration)：将现有 Partner Sales Connect 用户权限与相应的合作伙伴中心推荐管理员权限和推荐用户权限对应，然后将新权限批量应用于用户。 查看[权限文档](../permissions-overview.md#manage-referrals)了解有关推荐管理的详细信息。  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>具有联合销售就绪产品/服务的合作伙伴
 
-- [与其他合作伙伴联合销售](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)：邀请强大合作伙伴生态系统中的其他合作伙伴与你联合销售，并允许接触其他客户受众。  
+- [与其他合作伙伴联合销售](../manage-co-sell-opportunities.md)：邀请强大合作伙伴生态系统中的其他合作伙伴与你联合销售，并允许接触其他客户受众。  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>在商业市场中具有使用 Azure 奖励资格解决方案的可交易产品/服务
 
-- [使用自动交易注册](https://docs.microsoft.com/partner-center/register-deals)：通过选中复选框“这笔交易已通过或将通过 Azure 市场或 AppSource 进行”，注册可交易的 Microsoft 商业市场 Azure 产品/服务，节省时间并确保准确性。 只要你的交易日期正确，交易注册的信息将直接从 Microsoft 商业市场中提取。
+- [使用自动交易注册](../register-deals.md)：通过选中复选框“这笔交易已通过或将通过 Azure 市场或 AppSource 进行”，注册可交易的 Microsoft 商业市场 Azure 产品/服务，节省时间并确保准确性。 只要你的交易日期正确，交易注册的信息将直接从 Microsoft 商业市场中提取。
 
 ### <a name="questions"></a>存在疑问？
 
-如果需要使用任何新功能方面的帮助，请查看知识库中的[“推荐”部分](https://docs.microsoft.com/partner-center/referrals)，或[联合体验库](https://aka.ms/CoSellExperience)中提供的支持指南材料（需要登录）。
+如果需要使用任何新功能方面的帮助，请查看知识库中的[“推荐”部分](../referrals.md)，或[联合体验库](https://aka.ms/CoSellExperience)中提供的支持指南材料（需要登录）。
 
 你可以[通过我们的合作伙伴支持团队开具工单](https://partner.microsoft.com/support/?stage=1)。
 
@@ -319,7 +511,7 @@ ________________
 
 ### <a name="details"></a>详细信息
 
-本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 PUT 资格 API 合作伙伴中心 API 将于 2021 年 2 月 25 日停用，2021 年 5 月 4 日将停用 GET 资格 API。 此时，为了能够购买教育产品/服务，你需要改用新的 POST 合作伙伴中心 API，为了能够购买预获资格的非利润和 GCC 产品/服务，你需要改用新的 GET 资格 API。
+本公告是对 [12 月发布的合作伙伴中心增强功能](./2020-december.md#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 PUT 资格 API 合作伙伴中心 API 将于 2021 年 2 月 25 日停用，2021 年 5 月 4 日将停用 GET 资格 API。 此时，为了能够购买教育产品/服务，你需要改用新的 POST 合作伙伴中心 API，为了能够购买预获资格的非利润和 GCC 产品/服务，你需要改用新的 GET 资格 API。
 
 ### <a name="next-steps"></a>后续步骤
 

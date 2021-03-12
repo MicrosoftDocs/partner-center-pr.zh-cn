@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182539"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756401"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -98,7 +98,7 @@ ______________
 在上面列出的参与市场中，所有合作伙伴都通过云解决方案提供商 (CSP) 计划进行交易。
 
 ### <a name="details"></a>详细信息
-该促销活动包含针对 Office 365 E1 for CSP 给予 30% 的优惠。 它将于 2020 年 12 月 1 日启动，持续 6 个月，直到 2020 年 5 月 31 日终止。 此促销活动仅适用于 MW 云新手且拥有超过 500 个席位的客户。 请注意，这仅适用于 LATAM、印度和 APAC 地区的新兴市场，以便能够过渡到云。 
+该促销活动包含针对 Office 365 E1 for CSP 给予 30% 的优惠。 它于 2020 年 12 月 1 日启动，持续 6 个月，直到 2021 年 5 月 31 日为止。 此促销活动仅适用于 MW 云新手且拥有超过 500 个席位的客户。 请注意，这仅适用于 LATAM、印度和 APAC 地区的新兴市场，以便能够过渡到云。 
 
 #### <a name="offer-details"></a>产品/服务详细信息
 

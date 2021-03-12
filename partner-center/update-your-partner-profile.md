@@ -6,17 +6,17 @@ description: 了解如何验证公司详细信息，例如主要联系人、地�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/03/2021
+ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220255"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770237"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a>在合作伙伴中心验证公司配置文件信息
+# <a name="verify-or-update-your-company-profile-information"></a>验证或更新你的公司资料信息 
 
 **相应的角色**
 
@@ -26,7 +26,6 @@ ms.locfileid: "102220255"
 在首次以全局管理员身份登录到合作伙伴中心时，应确认你所有的公司详细信息是否正确。 包括主要联系人、法定公司名称和地址，以及计划信息。 如果公司有多个位置，请查看位置数据以确保其准确性。 作为全局管理员、帐务管理员或管理员代理，你也可以查看并更新帐务和税务信息。
 
 合作伙伴配置文件包含法定公司信息、主要联系人名称和电子邮件、公司参与的计划，以及现在合并到法定公司名下的其他公司（如果适用）。 请确保法人资料中的公司名称和地址没有拼写错误和缩写，并且与正式的公司商业注册记录完全一致。 如果以个体经营者的身份运营，则需要将公司名称用作法人名称。
-
 
 
 ## <a name="locate-the-legal-business-profile"></a>找到公司法定资料
@@ -39,22 +38,37 @@ ms.locfileid: "102220255"
 
 如果已将其他公司合并到法定公司名下，则也可查看其信息。 
 
-## <a name="update-your-legal-business-profile"></a>更新法定公司配置文件
+## <a name="update-your-legal-business-profile"></a>更新法定公司配置文件 
 
-在合作伙伴中心更新法定地址。
+在合作伙伴中心更新你的法定公司名称或地址。
 
 >[!Important]
 >- 对于 MPN 帐户，全局管理员和帐户管理员都可以更新公司法定名称。
 >- 对于 CSP 间接经销商帐户，只有全局管理员才可更新公司法定名称。 
+>- 如果帐户验证状态为“已授权”，则直接计费合作伙伴和间接提供商不能更改其公司的法定名称。 如需更改名称，必须创建[支持票证](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
-1. 转到“设置”，然后选择“组织资料” 。
 
-2. 选择“法人”，然后选择要使用的法定公司资料。
+
+1. 转到“设置”和“帐户设置”，然后选择“组织资料”  。
+
+2. 选择“法人”，然后选择要更新的法定公司资料（合作伙伴或经销商）。
+
+1. 单击公司名称/地址旁边的“更新”，然后更改详细信息。
  
-1. 选择“提交”后，我们会对你的法定身份重新进行评估。你将收到另一封电子邮件，并且需要接受它。
+1. 选择“提交”后，系统将重新评估你的法定标识。
+
+1. 如果验证失败，请了解如何[解决问题](verification-responses.md)。
 
 >[!Important]
->如果你是云解决方案提供商 (CSP) 合作伙伴，那么你不能更改与法定地址相关联的国家/地区。法定地址所在的国家/地区已绑定到租户和服务以及你开展业务时所使用的货币。 如果验证状态为“已授权”，则直接计费合作伙伴和间接提供商不能更改公司法定名称。 如果需要更改名称，则需要[创建支持工单](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
+>如果你是云解决方案提供商 (CSP) 合作伙伴，则无法更改与你的法定地址关联的国家/地区。 法定地址所在的国家/地区已绑定到你租户和服务，还已绑定到你开展业务时所使用的货币。 若要了解 MPN 国家/地区更新，请阅读 [MPN 国家/地区更新](manage-locations.md#change-country-of-partner-global-account)。
+
+
+### <a name="who-can-update-legal-business-name-and-when"></a>谁在何时可更新法定公司名称
+
+|Program|**谁可更新公司名称**|**当状态为 (status) 时，可更新该名称**|**允许**|
+|---------------------|:-------------------------------|:------------|:-----------------|
+MPN|全局管理员；帐户管理员|已授权；待定；已拒绝| 然后用户才能访问|
+|CSP：间接经销商|全局管理员|已授权；待定；已拒绝| 然后用户才能访问|
 
 
 ## <a name="update-your-mpn-global-business-account"></a>更新 MPN 全球企业帐户
@@ -78,7 +92,6 @@ ms.locfileid: "102220255"
 ## <a name="update-your-csp-legal-billing-address"></a>更新 CSP 合法帐单邮寄地址
 
 如果你是全局管理员、计费管理员或管理员代理，则可以更改发票上“付款和税务资料”中显示的地址。 但是，不能更改发票上的公司名称，因为发票系统存在限制。
-
 
 
 ## <a name="next-steps"></a>后续步骤

@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指标-CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解7个合作伙伴贡献指标 (PCI) ，其中显示了合作伙伴如何获取银色或金牌云 Business Applications 能力。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756556"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193641"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来实现云 Business Applications 资格
 
@@ -274,11 +274,11 @@ Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-sco
 
 - **不会对部分内容进行奖励。** 基线快照之上的增长必须满足或超过下表中所示的阈值。 该表显示了一个 **开发** 和 **开发** 列，其中包含的功能顾问基线需要有资格获得积分。
 
-  | 各种 | 各种 | 获得全部15个点所需的增长 *
+  | 各种 | 各种 | 获得全部15个点所需的增长
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30-49 | 15-24 | 25% |
-  | 50 及以上 | 25及以上 | 15% |
+  | 50 及以上 | 25及以上 | 请参阅下面的选项 |
 
 **选择两个以获取点：**
 
