@@ -1,17 +1,17 @@
 ---
 title: Azure Marketplace 客户的计费和开票
 description: 本文介绍了有关计费和开票 Azure Marketplace 客户的常见问题。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514769"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412601"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace 计费和开票
 

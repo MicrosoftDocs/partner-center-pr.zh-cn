@@ -1,17 +1,17 @@
 ---
 title: Azure 市场概述
 description: 了解 Azure Marketplace 在线商店以及如何查找和试用软件和解决方案。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182522"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412584"
 ---
 # <a name="what-is-azure-marketplace"></a>什么是 Azure 市场？
 

@@ -1,17 +1,17 @@
 ---
 title: 如何购买 SaaS 产品/服务 Microsoft AppSource
 description: 了解如何从 Microsoft AppSource 上的 Microsoft 合作伙伴购买软件即服务 (SaaS) 应用。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 2d5e406e159d0d919dbf8b3542e636376cffacf6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007117"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412686"
 ---
 # <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>如何购买 Microsoft AppSource 上的 SaaS 应用
 

@@ -1,17 +1,17 @@
 ---
 title: Microsoft AppSource 概述
 description: 了解 Microsoft AppSource 在线商店以及您如何查找和广泛的软件和解决方案目录。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
-ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
+ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "98759867"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412516"
 ---
 # <a name="what-is-microsoft-appsource"></a>什么是 Microsoft AppSource？
 

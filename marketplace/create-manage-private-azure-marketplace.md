@@ -1,17 +1,17 @@
 ---
 title: 在 Azure 门户中创建和管理专用 Azure Marketplace
 description: 了解如何创建和管理专用 Azure Marketplace (预览) 在 Azure 门户中。 专用 Azure Marketplace (预览版) 使管理员可以控制其用户可以使用的第三方解决方案。
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 73b9137728fba93704d9b0cb2bc93a3f6498bd90
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757073"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412703"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>在 Azure 门户中创建和管理专用 Azure Marketplace
 
@@ -40,7 +40,7 @@ ms.locfileid: "101757073"
 
 ### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>使用访问控制 (IAM 分配 Marketplace 管理员角色) 
 
-1. 登录 [Azure 门户](https://portal.azure.com/)。
+1. 登录到 [Azure 门户](https://portal.azure.com/)。
 1. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 1. 从左侧菜单中选择 " **专用 Marketplace** "。
 
@@ -153,7 +153,7 @@ Assign-MarketplaceAdminRole
 
 ## <a name="create-private-azure-marketplace"></a>创建专用 Azure Marketplace
 
-1. 登录 [Azure 门户](https://portal.azure.com/)。
+1. 登录到 [Azure 门户](https://portal.azure.com/)。
 2. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="显示 Azure 门户主窗口。":::
