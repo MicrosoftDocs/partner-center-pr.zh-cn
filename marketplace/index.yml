@@ -4,17 +4,17 @@ summary: 了解如何在我们的线上商店中查找和购买 Microsoft 合作
 metadata:
   title: 欢迎查看 Microsoft 市场客户文档
   description: 了解如何在我们的线上商店中查找和购买 Microsoft 合作伙伴提供的解决方案、应用程序和服务。
-  ms.service: marketplace
+  ms.service: marketplace-customer
   ms.topic: landing-page
   author: JasonWHowell
   ms.author: jasonh
-  ms.date: 11/17/2020
-  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
-  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+  ms.date: 03/12/2021
+  ms.openlocfilehash: febc75e7dde3441ba96436a85b713d8a03796f21
+  ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
   ms.translationtype: HT
   ms.contentlocale: zh-CN
-  ms.lasthandoff: 11/21/2020
-  ms.locfileid: "95006916"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "103412533"
 landingContent:
 - title: Microsoft AppSource
   linkLists:
