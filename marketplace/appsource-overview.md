@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412516"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486850"
 ---
 # <a name="what-is-microsoft-appsource"></a>什么是 Microsoft AppSource？
 
@@ -21,13 +22,25 @@ AppSource 目录包括 "软件即服务" (SaaS) 应用程序、为 Microsoft Azu
 
 ## <a name="find-what-you-need-on-appsource"></a>在 AppSource 上找到所需内容
 
-AppSource 提供简单的搜索和筛选选项，可帮助你快速找到所需内容。 使用页面顶部的搜索栏查找按供应商、产品名称或关键字列出的解决方案。 使用页面顶部附近的筛选器，可以根据免费试用版或试用版驱动器的可用性缩小结果范围，定价模型 (免费或付费) 和分级。
+AppSource 提供了简单的搜索和筛选选项，可帮助你快速找到要查找的内容。 使用页面顶部的 **搜索** 栏查找按供应商、产品名称或关键字列出的解决方案。
 
-最左侧的窗格使你可以基于产品类型、类别和行业列表来筛选结果。 AppSource 产品类型基于产品（如 Microsoft 365 和电源应用）。 类别基于业务功能，例如协作和市场营销。 你还可以从行业列表中进行选择，例如农业和制造。
+[![显示 Microsoft Appsource 登陆页面。](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+浏览 [应用库](https://appsource.microsoft.com/marketplace/apps)时，使用页面顶部附近的筛选器，根据免费试用版或试用版驱动器的可用性缩小结果范围，定价模型 (免费或付费) 以及客户评级。
+
+最左侧的窗格使你可以基于产品类型、类别和行业列表来筛选结果。 AppSource 产品类型基于产品，如 Microsoft 365、Dynamics 365 和 Power Platform。 类别基于业务功能，例如销售、协作或市场营销。 你还可以从行业列表中进行选择，如金融服务、医疗保健和分发。
+
+## <a name="microsoft-preferred-solutions"></a>Microsoft 首选解决方案
+
+搜索或筛选目录时，结果可能包含 Microsoft 首选解决方案，这些解决方案通过位于应用卡右下角或产品详细信息页上的徽章的首选解决方案徽标进行标识。
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="显示 AppSource 首选提供程序徽章。":::
+
+首选解决方案由 Microsoft 专家团队选择，并由 Microsoft 合作伙伴发布，具有深入、行之有效的专业技能和功能，以满足类别、行业或行业纵向的特定客户需求。
 
 ## <a name="take-action-on-a-listing"></a>对列表执行操作
 
-从 _应用程序结果_ 中选择应用程序时，将显示该应用程序的 "列表" 页。 AppSource 中的每个列表都支持以下一个或多个列表选项：
+从 *应用结果* 中选择应用，以查看该应用的 "列表" 页。 通过选择以下一项或多项来对列表执行操作：
 
 - **立即获取**：立即购买解决方案。
 - **测试驱动器**：浏览特选演示。 测试驱动器不使用你的生产数据或环境，但允许你确定解决方案是否满足你的业务需求。
