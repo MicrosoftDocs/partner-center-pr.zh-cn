@@ -1,5 +1,5 @@
 ---
-title: 报告合作伙伴中心问题
+title: 合作伙伴中心门户请求和诊断工具
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530657"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582030"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何报告合作伙伴中心的问题并提交任何日志或诊断信息
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>合作伙伴中心门户请求和诊断工具
 
 **适用于**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530657"
 **相应的角色**
 
 所有记录在合作伙伴中心的用户都可以创建合作伙伴支持请求。 用户仅可查看他们在登录合作伙伴中心后提交的支持请求。
+如果你发现问题或需要有关合作伙伴中心门户错误的帮助，请联系合作伙伴中心支持。 发送诊断以使问题更快修复。
 
 ## <a name="report-a-problem-with-the-partner-center"></a>报告合作伙伴中心的问题
 
