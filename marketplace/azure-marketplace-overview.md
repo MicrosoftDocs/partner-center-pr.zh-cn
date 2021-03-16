@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412584"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486903"
 ---
 # <a name="what-is-azure-marketplace"></a>什么是 Azure 市场？
 
-Azure Marketplace 是一个在线商店，其中包含由业界领先的技术公司构建的数千个 IT 软件应用程序和服务。 在 Azure Marketplace 中，可以查找、试用、购买和部署构建新解决方案和管理云基础结构所需的软件和服务。 该目录包括不同行业和技术领域的解决方案、免费试用版，以及 Microsoft 合作伙伴提供的服务。
+[Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) 是一个在线商店，其中包含由业界领先的技术公司构建的数千个 IT 软件应用程序和服务。 在 Azure Marketplace 中，可以查找、试用、购买和部署构建新解决方案和管理云基础结构所需的软件和服务。 该目录包括不同行业和技术领域的解决方案、免费试用版，以及 Microsoft 合作伙伴提供的服务。
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>在 Azure Marketplace 中查找所需内容
 
-按名称搜索目录或浏览类别（例如分析、安全性、网络、存储和 DevOps）。 Azure Marketplace 利用各种定价选项和多种部署方法，简化了软件采购和 IT 管理 () ，为你提供满足独特业务需求的灵活性。 它还通过标准协定协议、合并的计费和开票以及集中式订阅管理来简化采购。
+Azure Marketplace 提供了简单的搜索和筛选选项，可帮助你快速找到要查找的内容。 使用页面顶部的搜索栏查找按供应商、产品名称或关键字列出的解决方案。
 
-可以通过在线商店和 Azure 门户获取 Azure Marketplace 目录。  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="显示 Azure Marketplace 的主要窗口，你可以在其中选择是否要浏览应用或咨询服务。":::
 
-### <a name="search-the-online-store"></a>搜索在线商店
+浏览应用库时，请使用顶部的筛选器来根据免费试用版或试用版驱动器、操作系统、发布者、定价模型或产品类型的可用性缩小结果范围。
 
-访问 [在线商店](https://azuremarketplace.microsoft.com/) ，并在顶部选择是否浏览 **应用** 或 **咨询服务**。 此处购买的应用将部署到 Azure Marketplace。
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="在 Azure Marketplace 窗口的顶部显示筛选器。":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="在 Azure Marketplace 中，选择 &quot;确定&quot; 以浏览应用或咨询服务。":::
+使用最左侧的窗格可以按类别筛选目录，例如分析、安全性、网络、存储和 DevOps。 选择一个类别以查看其可用子类别。
 
-使用屏幕顶部的 "搜索栏" 或页面上方的 "产品类别" 页面向下移动 (未显示) ，以找出适合您需求的完美工具。
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="显示具有子类别的类别。":::
 
-咨询服务仅适用于在线商店，而不是 Azure 门户。
+Azure Marketplace 利用各种定价选项和多种部署方法，简化了软件采购和 IT 管理 () ，为你提供满足独特业务需求的灵活性。 它还通过标准协定协议、合并的计费和开票以及集中式订阅管理来简化采购。 可以通过在线商店和 Azure 门户获取 Azure Marketplace 目录。
 
-### <a name="search-in-the-azure-portal"></a>在 Azure 门户中搜索
+## <a name="microsoft-preferred-solutions"></a>Microsoft 首选解决方案
+
+搜索或筛选目录时，结果可能包含 Microsoft 首选解决方案，这些解决方案通过位于应用卡右下角或产品详细信息页上的徽章的首选解决方案徽标进行标识。
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="显示 Azure Marketplace 首选提供程序徽章。":::
+
+首选解决方案由 Microsoft 专家团队选择，并由 Microsoft 合作伙伴发布，具有深入、行之有效的专业技能和功能，以满足类别、行业或行业纵向的特定客户需求。
+
+## <a name="search-in-the-azure-portal"></a>在 Azure 门户中搜索
 
 在 Azure 门户中，选择 " **+ 创建资源** " 或搜索 "marketplace"。 然后浏览左侧的类别或使用搜索栏，其中包含筛选器函数。
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="在 Azure 门户中选择应用。":::
 
+咨询服务仅适用于在线商店，而不是 Azure 门户。
+
 ## <a name="take-action-on-a-listing"></a>对列表执行操作
 
-Azure Marketplace 中的每个列表都支持下列一项或多项操作：
+通过选择以下一项或多项来对列表执行操作：
 
 - **立即获取** –立即购买解决方案。
 - **测试驱动器** -探索特选演示。 测试驱动器无需任何配置。 它们允许你确定解决方案是否满足你的业务需求，而无需使用生产数据或环境。
