@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: 12c9ad9975be4be725d7b8c2fda77b0fdaa66887
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705039"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102514096"
 ---
 # <a name="december-2020-announcements"></a>2020 年 12 月公告
 
@@ -274,6 +274,9 @@ ______________
 
 ### <a name="details"></a>详细信息
 
+>[!NOTE]
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+
 请注意，从 2021 年 1 月 19 日起，已注册 CSP 计划的所有合作伙伴都可以销售商业永久性软件许可证，以便通过 CSP 进行本地部署。 此更新为客户提供了许可灵活性，让他们可以轻松实现数字化转型。
 
 以下事件也将在同一日期发生：
@@ -301,6 +304,12 @@ ______________
 ### <a name="questions"></a>是否有任何问题?
 
 如果对这些产品/服务有任何进一步的问题，请访问相关的 Yammer 社区。
+
+### <a name="change-log"></a>更改日志：
+
+- 2020 年 12 月 17 日：初始发布 
+
+- 2021 年 3 月 5 日：在顶部添加了有关合作伙伴中心软件和许可证密钥履行功能的注释。
 
 ______________
 
