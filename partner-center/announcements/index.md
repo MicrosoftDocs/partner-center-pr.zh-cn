@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/11/2021
-ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.date: 03/12/2021
+ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
+ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193607"
+ms.lasthandoff: 03/15/2021
+ms.locfileid: "103481010"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "103193607"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[云解决方案提供商 (CSP) 计划演进和开放式许可计划变更更新](2021-march.md#8)|3 月 15 日|
+|发展你的业务|[对上一公告的更新：高级评估，合规性管理器加载项](2021-march.md#7)|3 月 15 日|
 |功能|[将解决方案从 One Commercial Partner (OCP) 进入市场 (GTM) 迁移到t Microsoft 商业市场](2021-march.md#6)|3 月 12 日|
 |功能|[将 Azure 的云解决方案提供商 (CSP) 计划中新推出的商业体验扩展到俄罗斯](2021-march.md#5)|3 月 10 日|
 |功能|[合作伙伴中心软件许可证密钥和下载履行](2021-march.md#4)|3 月 5 日|
