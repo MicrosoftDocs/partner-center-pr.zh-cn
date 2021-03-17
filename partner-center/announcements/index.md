@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: bbc4d02d4834a4bb13f7c58de709b74ce09e1f4d
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103481010"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570169"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "103481010"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|促使提高效率和规模|[通过合作伙伴中心更新法定公司名称](2021-march.md#9)|3 月 16 日|
 |功能|[云解决方案提供商 (CSP) 计划演进和开放式许可计划变更更新](2021-march.md#8)|3 月 15 日|
 |发展你的业务|[对上一公告的更新：高级评估，合规性管理器加载项](2021-march.md#7)|3 月 15 日|
 |功能|[将解决方案从 One Commercial Partner (OCP) 进入市场 (GTM) 迁移到t Microsoft 商业市场](2021-march.md#6)|3 月 12 日|
