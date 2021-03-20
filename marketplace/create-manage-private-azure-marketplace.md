@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412703"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712760"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>在 Azure 门户中创建和管理专用 Azure Marketplace
 
@@ -21,7 +21,7 @@ ms.locfileid: "103412703"
 
 > [!NOTE]
 > - Azure Marketplace 专用于租户级别，因此租户下的所有用户都将看到相同的特选列表。
-> - 所有 Microsoft 解决方案 (包括 [认可的 Linux 分发](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) 自动添加到专用 Azure Marketplace。
+> - 所有 Microsoft 解决方案 (包括 [认可的 Linux 分发](/azure/virtual-machines/linux/endorsed-distros)) 自动添加到专用 Azure Marketplace。
 
 ## <a name="assign-the-marketplace-admin-role"></a>分配 Marketplace 管理员角色
 
@@ -30,7 +30,7 @@ ms.locfileid: "103412703"
 >[!IMPORTANT]
 > 只有分配有 Marketplace 管理员角色的 IT 管理员才能访问专用 Azure Marketplace 管理。
 
-### <a name="prerequisites"></a>先决条件
+### <a name="prerequisites"></a>必备条件
 
 在将 Marketplace 管理员角色分配给租户范围内的用户之前，需要满足以下先决条件：
 
@@ -40,7 +40,7 @@ ms.locfileid: "103412703"
 
 ### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>使用访问控制 (IAM 分配 Marketplace 管理员角色) 
 
-1. 登录到 [Azure 门户](https://portal.azure.com/)。
+1. 登录 [Azure 门户](https://portal.azure.com/)。
 1. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 1. 从左侧菜单中选择 " **专用 Marketplace** "。
 
@@ -153,7 +153,7 @@ Assign-MarketplaceAdminRole
 
 ## <a name="create-private-azure-marketplace"></a>创建专用 Azure Marketplace
 
-1. 登录到 [Azure 门户](https://portal.azure.com/)。
+1. 登录 [Azure 门户](https://portal.azure.com/)。
 2. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="显示 Azure 门户主窗口。":::
@@ -187,7 +187,7 @@ Assign-MarketplaceAdminRole
 4. 做出选择后，请选择左下角的 " **完成** "。
 
 >[!Note]
-> 将 **项目添加** 到 Marketplace 仅适用于非 Microsoft 产品/服务。 包括 [认可的 Linux 分发](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) (的 Microsoft 解决方案) 将被标记为 "默认情况下获得批准"，并且不能在私有 Marketplace 中进行管理。
+> 将 **项目添加** 到 Marketplace 仅适用于非 Microsoft 产品/服务。 包括 [认可的 Linux 分发](/azure/virtual-machines/linux/endorsed-distros) (的 Microsoft 解决方案) 将被标记为 "默认情况下获得批准"，并且不能在私有 Marketplace 中进行管理。
 
 ## <a name="edit-items-plans"></a>编辑项的计划
 
@@ -249,7 +249,7 @@ Assign-MarketplaceAdminRole
 启用专用 Azure Marketplace 后，用户将看到 Marketplace 管理员批准了哪些计划。
 
 - 绿色 **批准** 通知表示已批准的合作伙伴 (非 Microsoft) 提议。
-- 已 **批准** 的蓝色通知表示 Microsoft 产品/服务 (包括已批准的 [认可的 Linux 分发](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)) 。
+- 已 **批准** 的蓝色通知表示 Microsoft 产品/服务 (包括已批准的 [认可的 Linux 分发](/azure/virtual-machines/linux/endorsed-distros)) 。
 
 用户可以筛选不是批准的产品/服务：
 
@@ -304,7 +304,7 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="演示如何限制 E A 门户中的服务。":::
 
-2. 创建 Azure 策略以仅允许特定 Vm。 有关如何对 Windows Vm 强制执行策略的详细信息，请参阅 [使用 Azure 资源管理器将策略应用于 Windows vm](https://docs.microsoft.com/azure/virtual-machines/windows/policy)。
+2. 创建 Azure 策略以仅允许特定 Vm。 有关如何对 Windows Vm 强制执行策略的详细信息，请参阅 [使用 Azure 资源管理器将策略应用于 Windows vm](/azure/virtual-machines/windows/policy)。
 
 私有 Azure Marketplace 可以更灵活地限制和允许特定的产品/服务和计划。 即使在尝试部署第三方服务之前，它也会通知最终用户在 marketplace 库中的部署是否可用。 若要允许部署第三方服务，请在 EA 门户和 Azure 门户中将 "Azure Marketplace" 设置为 "开/启用"。
 
@@ -314,7 +314,7 @@ Assign-MarketplaceAdminRole
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>专用产品/服务和专用 Azure Marketplace 之间的区别是什么？
 
-通过 **专用产品/服务** ，发布者可以创建仅对目标客户可见的计划。 这样，他们就可以将自定义解决方案与协商定价、私有条款和条件以及专用配置私下共享。 有关详细信息，请参阅 [商业应用商店中的专用产品/服务](https://docs.microsoft.com/azure/marketplace/private-offers)。
+通过 **专用产品/服务** ，发布者可以创建仅对目标客户可见的计划。 这样，他们就可以将自定义解决方案与协商定价、私有条款和条件以及专用配置私下共享。 有关详细信息，请参阅 [商业应用商店中的专用产品/服务](/azure/marketplace/private-offers)。
 
 Azure 门户中的 **私有 Azure Marketplace** 使管理员能够预先批准其用户可以部署的第三方解决方案。 通过专用的 Azure Marketplace，用户可以通过查找、购买和部署符合要求的产品/服务来享受 Azure Marketplace 的权益。 若要在私有 Marketplace 中管理基于订阅的专用产品/服务，Marketplace 管理员在特定订阅上必须至少具有 "读取" 角色。
 
@@ -326,16 +326,16 @@ Azure 门户中的 **私有 Azure Marketplace** 使管理员能够预先批准�
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>能否在专用 Azure Marketplace 中包含自定义映像？
 
-否。 通过专用 Azure Marketplace，任何 IT 管理员都可从全球 Azure Marketplace 管理和组织第三方解决方案。 由于自定义映像不在全球 Azure Marketplace 上，因此 IT 管理员无法选择自定义映像。 如果要共享自定义映像，请使用 [共享映像库](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)。
+不是。 通过专用 Azure Marketplace，任何 IT 管理员都可从全球 Azure Marketplace 管理和组织第三方解决方案。 由于自定义映像不在全球 Azure Marketplace 上，因此 IT 管理员无法选择自定义映像。 如果要共享自定义映像，请使用 [共享映像库](/azure/virtual-machines/shared-image-galleries)。
 
-1.  ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli)、 [POWERSHELL](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell))  (SIG) 创建共享图像库的分步指南。
-2. 在 SIG 中创建映像定义。 客户应为 "OS-状态" 字段选择 " **通用化** "。  ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)) 。
-3.  ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)) 将托管映像引入共享映像库。
-4. SIG VM 映像将驻留在一个订阅中。 若要使其可用于其他订阅，请使用 ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants)、 [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)) 的应用注册。
+1.  ([CLI](/azure/virtual-machines/shared-images-cli)、 [POWERSHELL](/azure/virtual-machines/shared-images-powershell))  (SIG) 创建共享图像库的分步指南。
+2. 在 SIG 中创建映像定义。 客户应为 "OS-状态" 字段选择 " **通用化** "。  ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)) 。
+3.  ([CLI](/azure/virtual-machines/image-version-managed-image-cli)、 [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)) 将托管映像引入共享映像库。
+4. SIG VM 映像将驻留在一个订阅中。 若要使其可用于其他订阅，请使用 ([CLI](/azure/virtual-machines/linux/share-images-across-tenants)、 [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)) 的应用注册。
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>为什么尽管发布商不是 Microsoft，也会看到一些 **默认情况下已批准** 的产品？
 
-Microsoft 支持 Azure 中的 Linux 和开源技术。 Azure 支持[认可的 Linux 分发](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)版，并在虚拟机中集成了价格。 由于 Azure Linux 代理已预安装在 Azure Marketplace 上，因此将其视为 Microsoft 产品/服务。 由于 Microsoft 产品/服务默认已获批准，因此无法在专用 Azure Marketplace 中管理认可的 Linux 分发版，默认情况下已获得批准。
+Microsoft 支持 Azure 中的 Linux 和开源技术。 Azure 支持[认可的 Linux 分发](/azure/virtual-machines/linux/endorsed-distros)版，并在虚拟机中集成了价格。 由于 Azure Linux 代理已预安装在 Azure Marketplace 上，因此将其视为 Microsoft 产品/服务。 由于 Microsoft 产品/服务默认已获批准，因此无法在专用 Azure Marketplace 中管理认可的 Linux 分发版，默认情况下已获得批准。
 
 ## <a name="contact-support"></a>联系支持人员
 

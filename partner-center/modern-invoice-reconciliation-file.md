@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098799"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712250"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性采购对帐文件字段
 
@@ -28,7 +28,7 @@ ms.locfileid: "99098799"
 | CustomerId | GUID 格式的客户的唯一 Microsoft 标识符。 | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | 合作伙伴中心报告的客户的组织名称。 此列对于协调发票与系统信息非常重要。 | *Johnny 新式的 DE2* |
 | CustomerDomainName | 客户的域名。 | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | 你的客户所在的国家/地区。 查看你所在地区的完整 [国家/地区列表](./regional-authorization-overview.md) 。  | *取消* |
+| CustomerCountry | 你的客户所在的国家/地区。 查看你所在地区的完整 [国家/地区列表](./regional-authorization-overview.md) 。  | *DE* |
 | InvoiceNumber | 与该对帐文件关联的发票号。  | *G002297372* |
 | MpnId | CSP 合作伙伴的 MPN 标识符。 有关详细信息，请参阅 [如何按合作伙伴列举](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *6034453* |
 | ResellerMpnId | 订阅的记录分销商的 MPN 标识符。 | *6048879* |
@@ -64,6 +64,7 @@ ms.locfileid: "99098799"
 | PCToBCExchangeRateDate | 确定计费货币的定价货币的日期。 | *2020/9/30* |
 | MeterDescription | 计量说明。  | *表-存储 (GB/月) 的 LRS 数据* |
 | ReservationOrderId | 预订订单 Id。 | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | 信用说明。 | *Azure 消费信用额度* |
 
 >[!NOTE]
 >可在一次性购买侦测文件中协调 Azure 消耗。 若要执行此操作，请在每日按比例使用侦测文件并搜索 SubscriptionID。 这将显示与 Azure 计划 ID 关联的所有成本。 你的 Azure 订阅将显示为 "EntitlementID"。

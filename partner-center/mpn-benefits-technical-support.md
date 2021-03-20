@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102186645"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712896"
 ---
 # <a name="technical-support-benefits"></a>技术支持权益
 
@@ -58,12 +58,10 @@ ms.locfileid: "102186645"
 作为 Microsoft 合作伙伴网络成员身份的一部分，合作伙伴有资格获得以下技术支持
 
 
-|                           技术支持                          |  Action Pack |                                      银资格                                      |                                        金牌资格                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Microsoft 产品支持<br>对于最近的本地 <br>仅产品 | 10个事件 | 15个事件                                                                                | 20个事件                                                                                  |   |
-| 签名云支持<br>仅适用于云产品                   |              | 云能力：<br>无限制<br>         <br>其他能力：<br>5个事件         | 云能力：<br>无限制<br>          <br>其他能力：<br>10个事件   
-
-
+| 技术支持 |  Action Pack | 银资格 | 金牌资格 |
+|:---:|:---:|:---:|:---:|
+| Microsoft 产品支持<br>对于最近的本地 <br>仅产品 | 10个事件 | 15个事件  | 20个事件 |
+| 签名云支持<br>仅适用于云产品 |  | 云能力：<br>无限制<br><br>其他能力：<br>5个事件  | 云能力：<br>无限制<br>          <br>其他能力：<br>10个事件  |
 
 * 云能力包括：安全能力、云 Business Applications、云平台、云生产力、企业移动性管理、小型和中型云解决方案。
 

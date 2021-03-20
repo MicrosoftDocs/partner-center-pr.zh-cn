@@ -1,25 +1,21 @@
 ---
 title: 奖励计划资格
-description: 请确保激励计划符合条件，以便可以付费。 此过程包括检查收视指南中的资格。
+description: 请确保已满足激励计划的资格要求。 此过程包括检查收视指南中的资格。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 03/16/2021
+ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175221"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712149"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>确定奖励计划的资格
-
-**适用**于：
-
-- 合作伙伴中心
 
 **适当的角色**：
 
@@ -40,7 +36,11 @@ ms.locfileid: "92175221"
 
 3. 选择所需的程序。
 
-4. 在“计划详细信息”字段中，选择“计划指南” 。
+4. 在 " **状态** " 字段中，选择 " **资格要求**"。
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="屏幕截图是激励要求的示例。":::
+
+5. 你需要完成所有未选中的区域，才能实现资格。 每个奖励计划都有其自己的一套要求。
 
 ## <a name="next-steps"></a>后续步骤
 

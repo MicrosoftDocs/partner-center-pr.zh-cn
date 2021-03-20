@@ -4,15 +4,17 @@ ms.topic: article
 ms.date: 06/08/2020
 description: 了解合作伙伴中心的基于使用情况的对帐文件上的所有项目。 包含几个示例。
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 403b2704c600f21fc06576e679ff538a74ae5046
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022751"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712964"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>了解基于使用情况的对帐文件及其在合作伙伴中心的特定字段
 
@@ -27,7 +29,7 @@ ms.locfileid: "103022751"
 
 以下字段说明已使用的服务和费率。
 
-| 列 | 描述 | 示例值 (s)  |
+| 列 | 说明 | 示例值 (s)  |
 | ------ | ----------- | ------------ |
 | PartnerId | 采用 GUID 格式的合作伙伴标识符。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | 合作伙伴名称。 | *Contoso，有限公司。* |

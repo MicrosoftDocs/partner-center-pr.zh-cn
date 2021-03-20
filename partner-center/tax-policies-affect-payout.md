@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 3630824c839ccd9f54f3e8e5199a573b5824bb91
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758432"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712947"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>税务策略如何影响 Azure Marketplace 的支出
 
@@ -47,7 +47,7 @@ Microsoft 商业市场的全球覆盖范围。 交易跨边框发生，并且根
 
 **方案 C** -在发布者管理的税务国家/地区内发生的、不在客户上施加预缴税金的交易。 客户无需支付任何费用，这是发布者支付所有适用税款的义务。
 
-若要详细了解特定于国家/地区的定价 (例如，要抵消即将到来的纳税) 请参阅 [适用于商业应用商店产品的计划和定价](https://docs.microsoft.com/azure/marketplace/plans-pricing#custom-prices)。
+若要详细了解特定于国家/地区的定价 (例如，要抵消即将到来的纳税) 请参阅 [适用于商业应用商店产品的计划和定价](/azure/marketplace/plans-pricing#custom-prices)。
 
 :::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="显示用于处理方案 C 的工作流。":::
 
@@ -77,5 +77,5 @@ Microsoft 商业市场的全球覆盖范围。 交易跨边框发生，并且根
 
 ## <a name="next-steps"></a>后续步骤
 
-- [发布者常见问题](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide)
-- [创建付款和税务配置文件的说明](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile)
+- [发布者常见问题](/azure/marketplace/marketplace-faq-publisher-guide)
+- [创建付款和税务配置文件的说明](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

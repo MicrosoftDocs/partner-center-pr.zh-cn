@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619386"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712183"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>使用逗号分隔的值（ (CSV) 文件）进行联销售机会的批量操作
 
@@ -71,13 +71,13 @@ ms.locfileid: "102619386"
 客户所在城市|是|客户组织所在的城市。|Redmond
 客户所在的州/省|否|客户组织所在的省/市/自治区。|Washington
 客户邮政编码|否|客户组织所在区域的邮政编码。|98052
-客户所在国家/地区|是|客户组织所在的国家/地区。 使用 [此处]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的两个字母国家/地区代码。|美国
+客户所在国家/地区|是|客户组织所在的国家/地区。 使用 [此处]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的两个字母国家/地区代码。|US
 Customer D-U-N-S ID|否|尝试提取客户组织的 DUNS ID。 这将有助于更快地与 Microsoft 端的客户组织进行匹配，有助于更快地分配卖方。 你可以从此 [网站](https://www.dnb.com/duns-number/lookup.html)免费获取 DUNS ID。|81466849
 客户联系人名字|依赖的对象|只有在需要 Microsoft 帮助时，名字才是必需的。 客户组织中处理此交易的主要联系人的名字。|John
 客户联系人姓氏|依赖的对象|姓氏仅在需要 Microsoft 帮助时才是必需的。 客户组织的主要联系人的姓氏正在处理此交易。|客户
 客户联系人电话号码|依赖的对象|只有在需要 Microsoft 帮助时，电话号码才是必需的。 客户组织的主要联系人的电话号码。|9999999999
 客户联系人电子邮件地址|依赖的对象|电子邮件地址仅在需要 Microsoft 帮助时才是必需的。 客户组织的主要联系人电子邮件地址。|john.customer@contoso.com
-合作伙伴推荐状态|是|指示公司观点的交易状态。 如果您尝试创建或修改引用，则是必需的。 如果要尝试创建新交易，请使用 " **新建** "。 [此处](/partner/develop/referral-resources#referralstatus)记录了接受的值。|可用
+合作伙伴推荐状态|是|指示公司观点的交易状态。 如果您尝试创建或修改引用，则是必需的。 如果要尝试创建新交易，请使用 " **新建** "。 [此处](/partner/develop/referral-resources#referralstatus)记录了接受的值。|活动
 合作伙伴引用子状态|是|指示交易的确切状态。 如果尝试创建新交易，请使用 "已 **接受** "。 如果要修改现有引用，也需要使用此方法。 [此处](/partner/develop/referral-resources#referralsubstatus)记录了接受的值。|已接受
 Microsoft 引用状态|依赖的对象|指示发送给 Microsoft 寻求帮助的共同销售请求的状态。 此字段为只读字段。 导入数据时对该字段所做的任何更改都将被忽略。| 挂起的
 已拒绝/丢失原因|依赖的对象| 仅当你要将字段的子状态更改为 "已拒绝" 或 "丢失" 时，才需要提供此信息。 否则，你可以忽略此列。 <br/> **根据以下选项输入一个数字** <br/><br/> **1**-项目预算不够  <br/> **2**-客户未响应  <br/> **3**-客户选择其他供应商  <br/> **4** -不满足客户要求  <br/> **5** -不是客户 <br/> **6**-建议的时间行太短 <br/> **7** -报告为滥用、垃圾邮件或网络钓鱼 <br/> **8** -其他 |6|
@@ -87,9 +87,9 @@ Microsoft 引用状态|依赖的对象|指示发送给 Microsoft 寻求帮助的
 估计结束日期|是|以 MM/DD/YYYY 格式基于与客户的初始会话的交易的估计结束日期。 <br/> **日期应为 UTC 时区。"合作伙伴中心 UI" 中显示的所有日期均基于本地化时区。如果要查看在 UTC 时区中提供日期的引用，则合作伙伴中心 UI 可能会有 +/-1 天的差异。**|1/30/2020
 CRM ID|否|CRM 系统中此特定引用的标识符（如果有）。 这是一个自由格式的文本输入字段。|34234324-sdfsdf-345345-sfd
 市场营销活动 ID|否|此字段指示市场营销活动，该活动导致此特定引用。 通常用于 ROI 计算|BingSummer2020
-注意|否|指示与引用相关的更新的详细说明|这是一个示例说明
+备注|否|指示与引用相关的更新的详细说明|这是一个示例说明
 Microsoft 帮助是必需的？|是|这是为了指出是否希望 Microsoft 帮助你建立此共同销售请求|是
-Microsoft 有哪些特定帮助？|依赖的对象|Microsoft 可以通过六种不同的方法之一来帮助你。 仅当你选择 "否" 时，此问题才适用。 " <br/> **根据以下选项输入一个数字** <br/><br/> **1**-特定于工作负荷的价值主张  <br/> **2**-客户技术体系结构  <br/> **3**-概念证明/Demo  <br/> **4**-引号和许可  <br/> **5**-销售后客户成功  <br/> **6**-常规或其他|1|
+Microsoft 有哪些特定帮助？|依赖的对象|Microsoft 可以通过六种不同的方法之一来帮助你。 仅当你选择 "是" 作为问题 "Microsoft help required" 时，此设置才适用。 " <br/> **根据以下选项输入一个数字** <br/><br/> **1**-特定于工作负荷的价值主张  <br/> **2**-客户技术体系结构  <br/> **3**-概念证明/Demo  <br/> **4**-引号和许可  <br/> **5**-销售后客户成功  <br/> **6**-常规或其他|1|
 与 Microsoft 销售团队共享|是|这是为了指出是否要与 Microsoft 销售团队共享交易的详细信息。 仅当你选择 "否" 时，此问题才适用。 "|是
 Microsoft 说明|否|Microsoft 的任何特定说明（如果需要 Microsoft 的帮助）|需要为 Contoso 客户提供 POC 的帮助
 同意共享客户/合作伙伴联系人|是|同意共享客户联系详细信息，以及公司员工与正在处理交易的人员联系详细信息。 **如果对此列选择 "否"，则不会创建或更新交易。** |是

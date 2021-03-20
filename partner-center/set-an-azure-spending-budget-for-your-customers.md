@@ -1,7 +1,7 @@
 ---
 title: 为客户设置 Azure 支出预算
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 03/17/2021
 description: 了解如何为客户设置或删除每月 Azure 支出预算，同时查看 Azure 支出数据并设置与预算相关的通知。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e311af31bbce65ed38c20df12243d325c7a63d04
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96438977"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712743"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>为合作伙伴中心的客户设置、检查或删除每月 Azure 支出预算
 
-适用于：
+**相应的角色**
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
+- 管理员代理
 
 可以在合作伙伴中心 [为客户设置每月 Azure 支出预算](#set-azure-spending-budget) 。 这可以帮助客户管理其 Azure 支出。 此选项可让你将客户的 Azure 支出与当月的预算进行比较。 它还可帮助你的客户为其 Azure 支出预算，使每月帐单不会超过预期。
 
@@ -48,7 +47,7 @@ Azure 支出数据是一个 *估计值* ， *实际计费金额可能会有所�
 
 可以为合作伙伴中心内的多个客户 *设置每月 Azure 支出预算* ：
 
-1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+1. 登录到[合作伙伴中心面板](https://partner.microsoft.com/dashboard/)。
 
 2. 在 " **CSP**" 下的左侧菜单中，选择 " **Azure 支出**"。
 
@@ -76,7 +75,7 @@ Azure 支出数据是一个 *估计值* ， *实际计费金额可能会有所�
 
 可以在合作伙伴中心为客户 () *删除每月 Azure 支出预算* ：
 
-1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+1. 登录到[合作伙伴中心面板](https://partner.microsoft.com/dashboard/)。
 
 2. 在 " **CSP**" 下的左侧菜单中，选择 " **Azure 支出**"。
 
@@ -88,7 +87,7 @@ Azure 支出数据是一个 *估计值* ， *实际计费金额可能会有所�
 
 你可以随时 *跟踪客户的当前 Azure 支出和月度预算* ：
 
-1. 登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
+1. 登录到[合作伙伴中心面板](https://partner.microsoft.com/dashboard/)。
 
 2. 在 " **CSP**" 下的左侧菜单中，选择 " **Azure 支出**"。
 
@@ -126,3 +125,8 @@ Azure 支出数据是一个 *估计值* ， *实际计费金额可能会有所�
 4. 在客户的 " **订阅** " 页的 " **基于使用情况的订阅**" 下，选择 **订阅** 的名称。
 
 5. 在订阅页上，你可以查看按服务划分的 **详细成本** ，以及当月的 **预估使用量** 。
+
+
+## <a name="next-steps"></a>后续步骤
+
+- [CSP 中的新商务体验 - Azure 计费](azure-plan-billing.md)

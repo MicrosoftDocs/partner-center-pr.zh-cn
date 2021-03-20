@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031960"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712233"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
@@ -60,26 +60,26 @@ ms.locfileid: "92031960"
 | UsageDate | 服务使用日期。 |
 | MeterType | 计量器的类型。 |
 | MeterCategory | 用量对应的顶级服务。 |
-| MeterId | 所使用的计量的标识符。 |
+| 计量 ID | 所使用的计量的标识符。 |
 | MeterSubCategory | Azure 服务的类型，该类型可能会影响费率。 |
 | MeterName | 所使用的计量的度量单位。 |
 | MeterRegion | 此列标识数据中心在区域中的位置，这些服务中的 MeterRegion 适用并已填充。 |
-| 单位 | 资源 **名称**的单位。 |
+| 计价单位 | 资源 **名称** 的单位。 |
 | ResourceLocation | 计量器正在其中运行的数据中心。 |
 | ConsumedService | 使用的 Azure 平台服务。 |
 | ResourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
 | ResourceURI | 所使用资源的 URI。 |
 | ChargeType | 费用或调整的类型。  |
-| 单价 | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
+| UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | 数量 | 许可证数量。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | Unittype.pixel 度量 | 计量计量器的单位类型。  |
-| BillingPreTaxTotal | 税前的总帐单金额。<br/> _**BillingPreTaxTotal** = 楼层 ( # A1 [ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ] ) ，2) _ |
+| BillingPreTaxTotal | 税前的总帐单金额。<br/> _**BillingPreTaxTotal** = 楼层 ( ( [ @EffectiveUnitPrice ]*[ @Quantity*] [] @PCToBCExchangeRate ) ，2)_ |
 | BillingCurrency | 客户的地理区域中的货币。 |
 | PricingPreTaxTotal | 添加税之前的定价。 |
 | PricingCurrency | 价目表中的货币。 |
 | ServiceInfo1 | 在给定日期预配和使用的服务总线连接数。 |
 | ServiceInfo2 | 捕获可选的服务特定元数据的旧字段。 |
-| Tags | 表示由用户设置的 Azure 资源的逻辑组织。 |
+| 标记 | 表示由用户设置的 Azure 资源的逻辑组织。 |
 | AdditionalInfo | 其他列中未包括的任何其他信息。 |
 | EffectiveUnitPrice | 按单位收费的实际值，包括任何折扣、获得的信用额度等。 |
 | PCToBCExchangeRate | 定价货币应用于计费货币的汇率。 |
@@ -87,7 +87,8 @@ ms.locfileid: "92031960"
 | EntitlementId | 表示 Azure 订阅 ID。 |
 | EntitlementDescription | 表示 Azure 订阅 ID 的名称。 |
 | PartnerEarnedCreditPercentage | 显示行项目的 PartnerEarnedCredit。 挣贷款将为0或15% |
-
+| CreditPercentage | 显示 Azure 消耗信用额度。 获得的信用额度为0或100%。 |
+| CreditType | 信用的类型。 例如， **应用 Azure 额度。** |
 >[!NOTE]
 >每日评级使用情况通常需要24小时才会显示在合作伙伴中心或通过 API 访问。
 

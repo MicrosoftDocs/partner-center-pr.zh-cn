@@ -4,14 +4,16 @@ description: 了解 Microsoft 发出的税单，包括谁将收到它们，以�
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487867"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712811"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
 
@@ -23,8 +25,8 @@ ms.locfileid: "94487867"
 
 | IRS 税单 | 说明 | 可用性 |
 |--------------|-------------|--------------|
-|1099-MISC、1099-K | 与你参与 Microsoft 市场的销售活动和/或收到的付款金额相关 | 打印窗体在 **1 月 31** 日或之前将有邮戳，.pdf 副本将在 [合作伙伴](https://partner.microsoft.com/dashboard) 中心 (的伙伴中心 **帐户设置** 中提供，同时按 **比率和税务 > 支出和税务配置文件** )  |
-|1042-S | 与你收到的应缴纳美国预扣税的付款金额相关 | 打印窗体将在 **3 月 15** 日或之前显示为邮戳，.pdf 副本将在合作伙伴中心 (的伙伴中心 **开发人员设置** 中提供，同时按 **比率和税务 > 支出和税务配置文件** )   |
+|1099-MISC、1099-K | 与你参与 Microsoft 市场的销售活动和/或收到的付款金额相关 | 打印窗体在 **1 月 31** 日或之前将有邮戳，.pdf 副本将在 [合作伙伴](https://partner.microsoft.com/dashboard) 中心 (的伙伴中心 **帐户设置** 中提供，同时按 **比率和税务 > 支出和税务配置文件**)  |
+|1042-S | 与你收到的应缴纳美国预扣税的付款金额相关 | 打印窗体将在 **3 月 15** 日或之前显示为邮戳，.pdf 副本将在合作伙伴中心 (的伙伴中心 **开发人员设置** 中提供，同时按 **比率和税务 > 支出和税务配置文件**)   |
 
 > [!NOTE]
 > 当您 [设置您的帐户和纳税形式](set-up-your-payout-account.md)时，在 IRS 纳税窗体上使用的地址来自您的税务配置文件中的地址。 如果你的地址已更改，请确保更新你的 **税务配置文件** 中的地址。
@@ -53,18 +55,18 @@ ms.locfileid: "94487867"
 
 | 如果我是一个销售付费应用程序美国开发人员 .。。   | 我应该会收到以下形式： |
 |------------------------|-----------------------|
-| 在适用的纳税年度中，我 **销售了 200 多个应用** ，总购买金额 **超过 20,000 美元** （ **未** 计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。| **1099-K：**<br/>归档方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 1099-K 表单包含 **总购买** 金额，而不是你收到的付款金额。| 
-| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的 **付款金额至少为 10 美元** 。<br/><br/>**或者**<br/><br/>在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) | **1099-杂项：**<br/>付款方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。| 
-| 以上内容都不适用。| None |
+| 在适用的纳税年度中，我 **销售了 200 多个应用**，总购买金额 **超过 20,000 美元**（**未** 计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。| **1099-K：**<br/>归档方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 1099-K 表单包含 **总购买** 金额，而不是你收到的付款金额。| 
+| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的 **付款金额至少为 10 美元**。<br/><br/>**或者**<br/><br/>在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) | **1099-杂项：**<br/>付款方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。| 
+| 以上内容都不适用。| 无 |
 | <br/><br/>**如果我是一个在应用程序中销售广告的美国开发人员 .。。** |<br/><br/>**我应该会收到以下形式：** |
 |在适用的税收年份，我收到的广告中的广告的 **费用至少为 $600** 。 | **1099-杂项：**<br/>付款方：Microsoft Online Inc<br/>EIN： \* \* \* \* \* 0505<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。 |
-| 对于应用中的广告，从适用的税务年份开始，收到的广告 **不到 $600** 。 | None |
+| 对于应用中的广告，从适用的税务年份开始，收到的广告 **不到 $600** 。 | 无 |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>针对位于美国以外的开发人员
 
 
-| | |
+| **问题** | **答案** |
 |---|---|
 | **我收到了 Microsoft 的窗体 1042-S。它的作用是什么？** | 因为我们向你支付了应向美国税务机构申报并已预扣税的收入，所以 Microsoft 向你提供了一份或多份 1042-S 表单。  1042-S 表单用于这种申报要求。 | 
 | **我应该如何处理这些表单？** | 一般来说，你不需要采取具体的操作。 如果你想向当地税务机构申请任何形式的税收抵免，则 1042-S 表单可能对你很有用。  请咨询自己的税务顾问，以获取有关本主题的详细信息。 | 
