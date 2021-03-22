@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474268"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768663"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作伙伴中心为 MPN 合作伙伴提供两个级别的帐户
 
@@ -40,7 +40,7 @@ ms.locfileid: "96474268"
 您的 PGA 下可能有更多的业务位置。 每个位置都有其自己的 MPN ID 或合作伙伴位置帐户 (PLA) 。 在激励计划中，使用 location MPN ID 进行交易业务和注册。
 
 - 每个合作伙伴位置帐户都可以有自己的法律地址和主要联系人。 位置还可与全局帐户或其他位置共享合法地址。
-- 从 "**设置** 位置" 查看合作伙伴位置帐户的列表  ->  **Locations**。
+- 从 "**设置** 位置" 查看合作伙伴位置帐户的列表  ->  。
 - 所有位置帐户都处于同一级别，并且位于合作伙伴全局帐户下。
 - 帐户管理员可以添加位置。
 
