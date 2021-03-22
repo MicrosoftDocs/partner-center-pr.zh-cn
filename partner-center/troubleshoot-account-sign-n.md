@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756750"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768697"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>帐户设置或 MPN 续订问题的疑难解答
 
@@ -28,7 +28,7 @@ ms.locfileid: "101756750"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果要从合作伙伴成员中心进行迁移并且无法编辑任何公司信息字段，会发生什么情况
 
-如果你的公司已在合作伙伴中心中存在， (说 CSP 帐户) ，你会看到一个只读屏幕。 此屏幕将显示在合作伙伴中心存在的有关公司的所有信息。
+如果你的公司已在合作伙伴中心中存在 (例如，) CSP 帐户–你将会看到一个只读屏幕。 此屏幕将显示在合作伙伴中心存在的有关公司的所有信息。
 
 无法更改此屏幕上的详细信息。 这是由设计决定的，而不是错误。
 
@@ -41,7 +41,7 @@ ms.locfileid: "101756750"
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
-有关详细信息，请阅读 [自助注册](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+有关详细信息，请阅读 [自助服务注册](/azure/active-directory/users-groups-roles/directory-self-service-signup)。
 
 ## <a name="you-forgot-your-password"></a>你忘记了密码
 

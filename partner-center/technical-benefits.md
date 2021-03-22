@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/24/2021
-ms.openlocfilehash: b3f62bb6d6d48e9dbcdcb906041a1653de436606
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022785"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768714"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>浏览技术售销售和部署服务 (TPD)  
 
@@ -30,7 +30,7 @@ ms.locfileid: "103022785"
 
 - 金牌合作伙伴和银合作伙伴接收无限制的售销售帮助。 
 
-- 网络成员可购买 [Action Pack](https://partner.microsoft.com/membership/action-pack) 来接收5个通知小时  
+- 网络成员可购买 [Action Pack](https://partner.microsoft.com/membership/action-pack) 来接收5个通知小时。  
 
 |     产品/服务类型    | 通知小时数 |   技术售销售   |
 |:-----------------:|:------------------------:|:----------------------:|
@@ -46,7 +46,7 @@ ms.locfileid: "103022785"
 
 你的技术售销售和部署服务 (TPD) 权益自动激活，并可用于所有与 MPN 关联的用户。 
 
-查看合作伙伴中心的技术权益
+若要查看合作伙伴中心的技术权益：
 
 1. 用 MPN 关联的帐户登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。 
 

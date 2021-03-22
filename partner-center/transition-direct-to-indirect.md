@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624300"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768748"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>从云解决方案提供商 (CSP) 计划直接计费合作伙伴过渡到云解决方案提供商计划间接经销商
 
@@ -34,7 +34,7 @@ ms.locfileid: "99624300"
 
 2. 以要过渡到间接经销商的直接帐单租户的全局管理员身份登录到合作伙伴中心。
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="概述":::
+   概述
 
 3. 查看有关注册窗体的合作伙伴详细信息。
 
@@ -127,9 +127,9 @@ ms.locfileid: "99624300"
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>确定作为直销合作伙伴获得的客户
 
-1. 选择 **客户**
+1. 选择“客户”。
 
-2. 选择要查看其详细信息的客户
+2. 选择要查看其详细信息的客户。
 
 3. 如果此客户是你作为直销合作伙伴获得的客户，你将看到 **添加** 或 **查看产品** 的选项，你将看到其订阅。
 
@@ -162,7 +162,7 @@ ms.locfileid: "99624300"
 
 - 你的间接提供程序将不会提供给客户租户的 [委派管理权限](customers-revoke-admin-privileges.md) 。 如果间接提供商需要委派的管理权限，则必须改为向客户发送间接经销商邀请。
 
-- 建立分销商关系后，间接提供商将在 [M365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/partners) 和 [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business)中的 "合作伙伴关系" 页下显示为客户的 CSP 合作伙伴。
+- 建立分销商关系后，在 [Microsoft 365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/partners) 和 [Microsoft Store for Business](/microsoft-store/work-with-partner-microsoft-store-business)的 "合作伙伴关系" 页下，间接提供商将显示为客户的 CSP 合作伙伴。
 
     > [!IMPORTANT]
     > 若要避免混淆和误解，你的合作伙伴协议会合同形式不必，以便在使用关系扩展功能建立现有直销客户和间接提供商之间的分销商关系之前通知并获得直接帐单客户的同意。
@@ -223,9 +223,9 @@ Microsoft 云协议在2020年1月31日之前有效。 在此日期之后，所�
 
 在 "CSP 间接模型" 下，间接经销商与 Microsoft 没有计费关系。 相反，间接经销商通过其间接提供商获取其客户的订阅。 从直销伙伴过渡到间接经销商时，需要将你的现有订阅作为直接帐单合作伙伴传送到间接提供商。 你可以使用合作伙伴中心仪表板中提供的自助订阅转移功能来执行此操作。
 
-### <a name="pre-requisites"></a>先决条件
+### <a name="prerequisites"></a>先决条件
 
-- 此功能仅适用于使用现有直销合作伙伴租户完成间接经销商注册的过渡合作伙伴
+- 此功能仅适用于使用现有直销合作伙伴租户完成间接经销商注册的合作伙伴。
 
 - 在传输与给定客户关联的订阅之前，过渡合作伙伴必须将客户转移到间接提供商。
 

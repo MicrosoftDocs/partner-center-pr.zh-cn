@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000631"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768680"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>将基于许可证的客户从 & 合作伙伴的其他渠道迁移到云解决方案提供商计划
-
-**适用于**
-
-- 合作伙伴中心
 
 如果你的客户希望聘请多个合作伙伴、将订阅转给其他合作伙伴或管理在其他地方购买的订阅，你可以手动移动它们。 你还可以通过其他渠道将客户移动到合作伙伴中心。
 
@@ -34,7 +30,7 @@ ms.locfileid: "91000631"
 
 
    >[!NOTE]
-   >如果客户通过 Microsoft 365 (M365) 管理门户购买，则可以获得信用额度 (例如，通过 Microsoft) 按月或按年计费。 直接从 Microsoft 购买的订阅的信用额度由 **M365 计费支持**处理。 请参阅 M365 指导如何 [取消 M365 订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。 如果已为客户委派管理权限，则可以代表客户联系 M65 支持人员。 如果没有，请要求客户直接联系 M365 支持人员，以了解他们有资格享受多少信用额度，以及如何为他们提供此信用额度。 阅读有关 [委派的管理员权限](customers-revoke-admin-privileges.md)的信息。
+   >如果客户通过 Microsoft 365 (M365) 管理门户购买，则可以获得信用额度 (例如，通过 Microsoft) 按月或按年计费。 直接从 Microsoft 购买的订阅的信用额度由 **M365 计费支持** 处理。 请参阅 M365 指导如何 [取消 M365 订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。 如果已为客户委派管理权限，则可以代表客户联系 M65 支持人员。 如果没有，请要求客户直接联系 M365 支持人员，以了解他们有资格享受多少信用额度，以及如何为他们提供此信用额度。 阅读有关 [委派的管理员权限](customers-revoke-admin-privileges.md)的信息。
 
 
 4. 然后客户将继续使用你预配的订阅而不会发生中断。
