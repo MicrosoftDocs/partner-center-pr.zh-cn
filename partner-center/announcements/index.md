@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570169"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712284"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "103570169"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[CSP 商业市场产品/服务以及 2021 财年 CSP 奖励措施（针对符合条件的产品/服务）](2021-march.md#12)|3 月 18 日|
+|功能|[Power BI Premium 产品/服务命名和先决条件更新](2021-march.md#11)|3 月 18 日|
+|产品/市场|[Microsoft 365 F3 的 3 月价格更新](2021-march.md#10)|3 月 16 日|
 |促使提高效率和规模|[通过合作伙伴中心更新法定公司名称](2021-march.md#9)|3 月 16 日|
 |功能|[云解决方案提供商 (CSP) 计划演进和开放式许可计划变更更新](2021-march.md#8)|3 月 15 日|
 |发展你的业务|[对上一公告的更新：高级评估，合规性管理器加载项](2021-march.md#7)|3 月 15 日|
