@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴中心帐户
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何使用合作伙伴中心来管理公司的档案、银行和税务信息、角色、权限等。
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235964"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486986"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
@@ -26,7 +26,7 @@ ms.locfileid: "98235964"
 另请参考[邀请员工加入合作伙伴中心](guide-to-migration.md)和[添加新用户](create-user-accounts-and-set-permissions.md)文章。
 
 >[!NOTE]
->“帐户设置”菜单将根据你加入的计划而发生更改。 例如，如果你是云解决方案提供商 (CSP) 计划的合作伙伴，则可以从“帐户”设置管理 Azure 共享服务。
+>“帐户设置”菜单将根据你加入的计划而发生更改。 例如，如果你是已加入云解决方案提供商 (CSP) 计划的合作伙伴，那么你可通过“帐户”设置管理 Azure 共享服务。
 
 ## <a name="account-management"></a>帐户管理
 
@@ -51,6 +51,20 @@ ms.locfileid: "98235964"
 “合作伙伴”选项卡将包括所有法定业务信息，例如公司已注册的法定名称和地址，以及主要联系人和业务位置。 “分销商”选项卡适用于开展 CSP 业务的合作伙伴，其中包括“客户支持资料”。
 
 如果你的公司未参与 CSP，则默认视图将仅显示“合作伙伴”选项卡，其中包括“客户支持资料”。 
+
+### <a name="when-you-are-in-more-than-one-account"></a>当你在多个帐户中时
+
+可能有多个帐户。 可检查左侧导航菜单中是否有“帐户选取器”，查看你是否属于多个帐户。
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="标识帐户选取器":::
+
+如果看不到帐户选取器，则你仅属于一个帐户。 
+
+单击该选取器时，会以列表形式显示包含你的所有帐户。 然后，你可单击其中任一帐户并切换到该帐户。 之后的所有内容都显示在该帐户的上下文中。  
+
+在下例中，已登录用户包含在 3 个突出显示的帐户中。 该用户可单击帐户，在这些帐户之间进行切换。
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="包含你的帐户":::
 
 ## <a name="organization-profile"></a>组织资料
 
@@ -90,7 +104,7 @@ ms.locfileid: "98235964"
 
 ## <a name="user-management"></a>用户管理
 
-在合作伙伴中心的工作内容以及可更新或查看的区域根据你的角色及该角色具有的权限来决定。 例如，如果你不是奖励计划管理员，虽然可以查看数据，但无法在“奖励”页面上进行任何更改。
+在合作伙伴中心的工作内容以及可更新或查看的区域根据你的角色及该角色具有的权限来决定。 例如，如果你不是奖励计划管理员，虽然可以查看数据，但无法在“奖励”页面上进行任何更改。 详细了解[角色和权限](permissions-overview.md)
 
 ### <a name="update-preferred-email"></a>更新首选电子邮件
 

@@ -8,17 +8,188 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220289"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570186"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 3 月公告。
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a>通过合作伙伴中心更新法定公司名称
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-16
+- 促使提高效率和规模
+
+### <a name="summary"></a>总结
+
+从 2021 年 3 月起，Microsoft 合作伙伴网络 (MPN) 合作伙伴和云解决方案提供商 (CSP) 间接经销商可通过合作伙伴中心更新其法定公司名称。
+
+### <a name="impacted-audience"></a>影响受众
+
+MPN 合作伙伴和 CSP 间接经销商（不适用于 CSP 直接计费合作伙伴）
+
+### <a name="details"></a>详细信息
+
+从 2021 年 3 月起，MPN 合作伙伴和 CSP 间接经销商可在合作伙伴中心通过兼容的自助服务方式更新其法定公司名称。 借助这项新功能，合作伙伴将无需再提交合作伙伴中心支持票证来更新其公司名称。 这样可以在合作伙伴执行这些活动时节省大量时间。
+
+请按照以下步骤更新法定公司名称：
+
+1. 全局管理员或帐户管理员需要登录合作伙伴中心，并导航到[帐户设置](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)。
+
+2. 使用法定公司名称。
+
+3. 保存更新后的名称后，Microsoft 将验证所提供的信息。 验证可能要等待 5 至 7 天。
+
+4. 验证完成后，更新的法定名称将与合作伙伴租户关联。
+
+5. 如果验证状态更改为“已拒绝”，请查看[验证帐户信息](https://docs.microsoft.com/partner-center/verification-responses)来解决此问题。
+
+>[!NOTE]
+>请确保法定公司资料中的公司名称没有拼写错误和缩写，并且与正式的公司商业注册记录完全一致。 若要详细了解如何更新组织资料，请查看[验证组织资料](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile)。
+
+### <a name="next-steps"></a>后续步骤
+
+在组织中分享此信息，以便相应团队可查看和更新其流程。
+
+### <a name="questions"></a>有疑问？
+
+如需了解相关问题、查询或详细信息，请[联系支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
+
+________________
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a>云解决方案提供商 (CSP) 计划演进和开放式许可计划变更更新
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-15
+- 功能
+
+### <a name="summary"></a>摘要
+
+除了开放式许可计划出现变更，云解决方案提供商 (CSP) 也将增添新的商业和公共领域永久性软件产品。
+
+### <a name="impacted-audience"></a>影响受众
+
+通过开放式许可计划销售的商业分销商和托管经销商，以及交易永久性软件的所有 CSP 合作伙伴
+
+### <a name="details"></a>详细信息
+
+在 2020 年 9 月，Microsoft 就其数字转型之旅[宣布了](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)一系列的措施，目的是将机会扩大给已加入 CSP 计划的合作伙伴，这些机会包括合作伙伴本地软件的可用性。 借助这些变更，合作伙伴可利用 CSP 中的软件许可证发展自身业务并扩大触达范围，在如今以云为先的世界里摆正自己的定位来争取成功。 它们还帮助客户过渡到云中，并为合作伙伴提供客户混合云环境所需的灵活性。
+
+在这次数字转型的延续中，我们宣布进行以下变更：
+
+- 2021 年 7 月 1 日：不向开放式许可计划价目表添加任何新的 SKU、产品或促销。
+
+- 2021 年 7 月 7 日：将向 CSP 永久性软件价目表添加两款商业产品/服务（Get Genuine Windows 和 Visual Studio Professional）和公共领域产品/服务（政府、教育和非营利性组织 - 具体查看[公告](https://docs.microsoft.com/partner-center/announcements/2020-december#9)）。  可在合作伙伴中心的[“销售”>“定价与产品”](https://partnercenter.microsoft.com/pcv/sales)的“软件”部分找到价目表，且该表格将在该日期重新发布。
+
+有关 CSP 计划演进和开放式许可计划变更的完整详细信息，请查看下面的后续步骤。
+
+### <a name="next-steps"></a>后续步骤：
+
+- CSP 计划演进：请查看[云解决方案提供商计划中的永久性软件](https://partner.microsoft.com/resources/collection/software-in-csp#/)就绪性资料。 请使用此[就绪性地图](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)快速找到适合你的角色的信息。
+
+- 开放式许可计划变更：请查看 [CSP 计划演进和开放式许可计划变更](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)就绪性资料。 请使用此[就绪性地图](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf)快速找到适合你的角色的信息。
+
+### <a name="questions"></a>问题
+
+如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
+
+_______________
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>对上一公告的更新：高级评估，合规性管理器加载项
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-15
+- 拓展业务
+
+### <a name="summary"></a>总结
+
+不得在价目表中列出试用版产品/服务，这些内容将被删除。
+
+### <a name="impacted-audience"></a>影响受众
+
+通过云解决方案提供商交易的合作伙伴
+
+### <a name="details"></a>详细信息
+
+价目表中不得包含试用版产品/服务。 这些内容将从 2021 年 5 月 1 日的价目表中删除。
+
+如需最初公告，请查看[此处](https://docs.microsoft.com/partner-center/announcements/2021-february#4)。
+
+### <a name="additional-resources"></a>其他资源
+
+- [Microsoft 365 E5 安全性和合规性](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+
+- [在 Microsoft 合规性管理器中生成和管理评估 - Microsoft 365 合规性 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+
+### <a name="next-steps"></a>后续步骤
+
+查看有关本主题的资源，并与组织内部的相关利益干系人共享此信息。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果对这些产品/服务有疑问，请查看相关的 Yammer 社区。
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a>将解决方案从 One Commercial Partner (OCP) 进入市场 (GTM) 迁移到 Microsoft 商业市场
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-12
+- 功能
+
+### <a name="summary"></a>摘要
+
+从 2021 年 3 月 29 日开始，你将开始体验功能受限的 One Commercial Partner (OCP) 进入市场 (GTM) 功能。 建议你将解决方案迁移到合作伙伴中心的商业市场。
+
+### <a name="impacted-audience"></a>影响受众
+
+在 OCP GTM 中联合销售解决方案的组织
+
+### <a name="details"></a>详细信息
+
+在 2020 年 12 月，我们开始了从 Microsoft OCP GTM 工具迁移到合作伙伴中心的 Microsoft 商业市场的旅程。 这次过渡扩展了商业市场的能力，你可在这里向数百万名客户展示你的解决方案、与其他 Microsoft 和合作伙伴卖方相互分享销售机会，并联手销售创新的解决方案。
+
+本次过渡的下一里程碑举措将在 2021 年 3 月 29 日实施。 届时，你将开始体验功能受限的 OCP GTM 功能，其中某些方面变为只供查看。 如果你当前正在 OCP GTM 中联合销售解决方案，建议你将解决方案迁移到商业市场来利用该市场中的功能并简化你的发布体验。 
+
+移到商业市场后，合作伙伴中心就成为了获取联合销售发布体验的主要位置。 在这里，你可通过与我们对 Microsoft 产品使用的一样的通道和产品内体验将你的解决方案推广给我们共同的客户，从而继续发展你的业务。 [详细了解商业市场](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)。
+
+### <a name="next-steps"></a>后续步骤
+
+- 如果你尚未移动解决方案，请按照[过渡指南](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration)中详述的说明或查看[视频分步教程](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4)，来完成各项迁移活动并开始在商业市场发布你的解决方案。
+
+- 如果对 OCP GTM 中的受限功能体验存有疑问，请查看[在 Microsoft 商业市场中发布内容的联合销售要求常见问题解答](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf)。 （请查看“从 2021 年 3 月 29 日起推出 OCP GTM 受限功能”部分。）
+
+### <a name="questions"></a>是否有任何问题?
+
+如有任何疑问或需要更多信息，请联系[支持人员](https://partner.microsoft.com/support/?stage=1) 。
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>将 Azure 的云解决方案提供商 (CSP) 计划中新推出的商业体验扩展到俄罗斯
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-10
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+参与云解决方案提供商 (CSP) 计划的所有俄罗斯的合作伙伴。
+
+### <a name="details"></a>详细信息
+
+我们很高兴宣布，从 2021 年 3 月 10 日起在俄罗斯的 CSP for Azure 中推出新的商业体验。 此体验将简化和改进客户购买及使用 Azure 服务的方式。 通过它，已加入 CSP 计划的合作伙伴可查看各销售活动中 Azure 定价的一致视图、获取美元定价（它可确保全球价格一致）、确保计费日期一致并访问 Azure 成本管理功能。
+
+### <a name="next-steps"></a>后续步骤
+
+提供了有多项资源，它们引入了新的 Azure 商业体验并提供其他信息。 有关最新的常见问题解答、宣传资料和视频等内容，可查看 [CSP 计划更新资源库](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/).。
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>合作伙伴中心软件许可证密钥和下载履行

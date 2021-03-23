@@ -1,7 +1,7 @@
 ---
 title: 在合作伙伴中心创建 MPN 帐户
 ms.topic: article
-ms.date: 02/08/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作伙伴网络成员如何创建合作伙伴中心帐户，以便管理其网络权益和资格。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100013684"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570203"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>在合作伙伴中心创建 MPN 帐户以管理网络权益和资格
 
@@ -23,7 +23,7 @@ ms.locfileid: "100013684"
 
 ## <a name="prerequisites"></a>先决条件 
 
-准备好在合作伙伴中心创建帐户后，还需要准备好以下各项才能入门。  在开始之前，你可能需要几分钟时间收集这些信息：
+准备好在合作伙伴中心创建帐户后，还需要备好以下各项。  在开始之前，你可能需要几分钟时间收集这些信息：
 
 - 公司工作电子邮件或 Office 365 工作帐户。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md) 
  
@@ -40,7 +40,8 @@ ms.locfileid: "100013684"
 
 ## <a name="get-started"></a>入门
 
-1. 首先使用公司提供的工作电子邮件，如 you@yourcompanyname.com。
+1. 在[入门](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)页面，使用贵公司向你提供的工作电子邮件地址（例如 you@yourcompanyname.com）开始操作。
+
  
     a.  电子邮件地址必须有效并且你可以访问，因为我们会发送验证码以继续后续操作。
 
@@ -55,7 +56,7 @@ ms.locfileid: "100013684"
 
 3. 提供贵公司的法律业务细节。
 
-可以查找公司简介或手动输入公司信息。 如果公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
+可以查找公司简介或手动输入公司信息。 如果贵公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
 
 提供公司信息后，输入主要联系人信息，然后选择“立即注册”。
 主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（可以是你或贵公司中的其他人）。
