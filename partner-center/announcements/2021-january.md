@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: 2dd1563aab9d2505932bf35a9f1fe7ef22c1be28
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514113"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712454"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -315,7 +315,7 @@ ________________
 ### <a name="details"></a>详细信息
 
 >[!NOTE]
->由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](./2021-march.md#4)。
 
 正如今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我们非常高兴地通知你商业永久性软件许可证现已正式发布，供所有 CSP 合作伙伴销售。 合作伙伴中心 CSP 永久性软件价目表已重新发布，现在包括新增的产品和地理位置。
 

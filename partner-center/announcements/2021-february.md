@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124782"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712471"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月公告
 
@@ -77,7 +77,7 @@ ________________
 
 ### <a name="next-steps"></a>后续步骤
 
-若要详细了解批量操作功能，请阅读[使用逗号分隔值 (CSV) 文件针对联合销售机会的批量操作](https://docs.microsoft.com/partner-center/bulk-operations)。
+若要详细了解批量操作功能，请阅读[使用逗号分隔值 (CSV) 文件针对联合销售机会的批量操作](../bulk-operations.md)。
 
 ### <a name="questions"></a>是否有任何问题?
 
@@ -107,7 +107,7 @@ ________________
 
 ### <a name="next-steps"></a>后续步骤
 
-若要详细了解交易迁移功能，请查看[合作伙伴中心 (PC) 针对从 Partner Sales Connect (PSC) 迁移的合作伙伴的联合销售指南](https://docs.microsoft.com/partner-center/psc-to-pc)中的“PSC 交易迁移”部分。
+若要详细了解交易迁移功能，请查看[合作伙伴中心 (PC) 针对从 Partner Sales Connect (PSC) 迁移的合作伙伴的联合销售指南](../psc-to-pc.md)中的“PSC 交易迁移”部分。
 
 ### <a name="questions"></a>是否有任何问题?
 
@@ -139,7 +139,7 @@ ________________
 
 ### <a name="next-steps"></a>后续步骤
 
-若要了解详细信息，请查看我们关于[在合作伙伴中心管理联合销售机会](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)的指导。
+若要了解详细信息，请查看我们关于[在合作伙伴中心管理联合销售机会](../manage-co-sell-opportunities.md)的指导。
 
 ### <a name="questions"></a>是否有任何问题?
 

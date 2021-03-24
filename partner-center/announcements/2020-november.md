@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756401"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712522"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -305,11 +305,11 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 
 ### <a name="apis-to-be-throttled"></a>要接受限制的 API
 
-|**操作**|**合作伙伴中心文档**|
+| **操作** | **合作伙伴中心文档** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[获取客户的所有订阅](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[根据 ID 获取订阅](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[获取客户的所有订单](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders|[获取客户的所有订单](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[按 ID 获取订单](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[获取订阅预配状态](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理订单和订阅](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[获取订阅注册状态](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/customers/{customer-tenant-id}/transfers|[获取客户的所有转让](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[获取产品升级状态](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[获取试用版转换产品/服务的列表](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[获取试用版转换产品/服务的列表](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 此公告旨在让合作伙伴提早注意到即将进行的更改，从而让他们能够做好准备。 我们强烈建议合作伙伴熟悉这些 API 并考虑使用活动日志 API 来提高效率和避免限制。 有关此功能的更多信息，请在 [API 限制指南](/partner-center/develop/api-throttling-guidance)中查看详情。 

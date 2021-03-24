@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514079"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712505"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -37,7 +37,7 @@ ________________
 ### <a name="details"></a>详细信息
 
 >[!NOTE]
->由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](./2021-march.md#4)。
 
 现在，合作伙伴可使用合作伙伴中心或 Microsoft 365 管理中心来处理 CSP 软件订单的软件下载和许可证密钥履行事务。 截至 2021 年 1 月 19 日，合作伙伴中心软件和许可证密钥履行功能将被停用，合作伙伴将指示客户只能使用 Microsoft 365 管理中心来实现此目的 。 合作伙伴中心内的“客户软件”页面将包含一个指向 Microsoft 365 管理中心的“深层链接”，你可在这里指示客户获得客户许可证和软件下载。 这有助于为客户提供超级安全和高效的体验。
 
@@ -78,7 +78,7 @@ CSP 和开放式计划中的所有合作伙伴
 ### <a name="details"></a>详细信息
 
 >[!NOTE]
->由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+>由于合作伙伴反馈，我们将恢复合作伙伴中心履行功能，你可为永久性和服务器订阅软件订单获取软件和许可证密钥。 此功能会还原到其之前的状态，然后在 2021 年 1 月 19 日被移除。 有关详细信息，请查看 [2021 年 3 月公告](./2021-march.md#4)。
 
 Microsoft CSP 计划的参与人数呈指数增长，已有超过 90,000 家公司加入。 这是我们针对中小型企业和更小型的采用新商业体验的公司客户而推出的主要合作伙伴销售计划。 基于这一发展势头，我们今天宣布将在 CSP 计划中扩展面向合作伙伴的机会。 有关详细信息，可查看[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)。
 

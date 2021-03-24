@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022717"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712794"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>将 Microsoft 认证配置文件 ID (MCID) 关联到 Microsoft 合作伙伴网络 (MPN) 帐户，或取消两者之间的关联
 
@@ -48,7 +48,7 @@ ms.locfileid: "103022717"
 >如果 Microsoft Learning 帐户凭据与 Partner University 帐户凭据相同，请选择“使用 email@address 关联 Microsoft Learning 帐户”。
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>下载技能报告（Microsoft 认证列表）
-如果你需要详细信息，任何全局管理员或 MPN 合作伙伴管理员都可从合作伙伴中心访问和下载技能报告。 [了解详细信息](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data)。
+如果你需要详细信息，任何全局管理员或 MPN 合作伙伴管理员都可从合作伙伴中心访问和下载技能报告。 [了解详细信息](./mpn-skills-report.md#view-skills-report-data)。
 
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>关于关联帐户的常见问题

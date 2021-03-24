@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105522"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712200"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
@@ -28,7 +28,7 @@ ms.locfileid: "98105522"
 
 ### <a name="minimum-requirements"></a>最低要求
 
-|**要求**|                |
+|**要求**|  **说明**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN ID**   |Microsoft 合作伙伴网络中的有效成员资格以及适用于销售所在地的 MPN ID。   |
 |**认可**   |代表组织接受和签署法律协议的授权。|
