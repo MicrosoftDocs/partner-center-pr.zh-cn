@@ -9,18 +9,14 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367621"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028411"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>将 Skype for Business Online Plan 1 订阅迁移到更新的 Office 365 版本
-
-**适用于**
-
-- 合作伙伴中心
 
 Skype for Business Online 计划1将停用，在2018年8月1日生效。 该日期之后，客户将无法再购买新的 Skype for Business Plan 1 订阅，现有订阅在过期后不会自动续订且不会提供订阅选项。 在订阅的详细信息页面上，Skype for Business Online Plan 1 订阅状态已从“[日期] 自动续订”更改为“[日期] 过期”。  
 
@@ -56,25 +52,25 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 ### <a name="migrate-your-customers-to-new-plans"></a>将你的客户迁移至新计划
 
-1. 若要购买新的订阅，请从 " **合作伙伴中心" 菜单**中选择 " **客户**"，选择要移动的客户，然后选择 " **添加订阅**"。
+1. 若要购买新的订阅，请从 " **合作伙伴中心" 菜单** 中选择 " **客户**"，选择要移动的客户，然后选择 " **添加订阅**"。
 
-2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。 
+2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择 **提交**。 
 
 你的客户现在应具有新订阅和新订阅，旧的 Skype for Business Online 计划1订阅和新的 "目标" 订阅，例如，选项 1-Office 365 企业 F1。
 
 3. 若要重新分配客户的用户许可证，请在 " **合作伙伴中心** " 菜单中选择 " **客户**"，选择要移动的客户，然后选择 " **用户和许可证**"。 此时将打开客户的 "用户和许可证" 页。
 
-4. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择**管理许可证**。
+4. 若要重新分配用户许可证，请选择要重新分配的用户，然后选择 **管理许可证**。
 
-5. 在**管理许可证**页面上，清除 Skype for Business Online Plan 1 许可证复选框，然后选择客户要迁移到的订阅的新服务计划。
+5. 在 **管理许可证** 页面上，清除 Skype for Business Online Plan 1 许可证复选框，然后选择客户要迁移到的订阅的新服务计划。
 
-6. 选择“提交”。  确认页面列出了新的许可证分配。 继续对需要许可证分配的其他用户执行相同过程。
+6. 选择“提交”。 确认页面列出了新的许可证分配。 继续对需要许可证分配的其他用户执行相同过程。
 
 在将用户许可证移动至新服务后，可安全取消该客户级别的已停用订阅。
 
 7. 从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 选择要取消其订阅的客户。
 
-8. 在订阅详细信息页面中，将订阅设置为**已暂停**。
+8. 在订阅详细信息页面中，将订阅设置为 **已暂停**。
 
 9. 选择 " **提交"。**
 

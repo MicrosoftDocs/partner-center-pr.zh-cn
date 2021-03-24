@@ -9,16 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926638"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028212"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
 - MPN 合作伙伴管理员

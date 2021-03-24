@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b37e1ffef291defec0cba03aa9306f7bc82f5cd9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999961"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028445"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>使用合作伙伴中心销售商业市场产品的客户订阅
-
-**适用于**
-
-- 合作伙伴中心
-- 云解决方案提供商合作伙伴
 
 作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心来销售客户订阅的软件即服务 (SaaS) 产品，该产品已发布到商业市场 ([Microsoft AppSource](https://appsource.microsoft.com/) 和 [Azure marketplace](https://azuremarketplace.microsoft.com/)) Isv (的独立软件供应商。
 

@@ -9,24 +9,21 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917241"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028309"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>针对 Microsoft 365 和 Dynamics 365，通过声明的记录 (CPOR) 模型的客户关联
 
-**适用于**
 
-- 合作伙伴中心
-
-**相应的角色：**
+**相应的角色**
 
 - 奖励管理员
 
-2019年10月1日，Microsoft 开始使用 (CPOR) 模型的 "申报合作伙伴" 来管理与 Microsoft 365 和 Dynamics 365 客户相关的关联，和 Dynamics 客户与在线服务顾问联系) ， ("
+2019年10月1日，Microsoft 开始使用 "CPOR 的申报合作伙伴" ("") 模型来管理与 Microsoft 365 和 Dynamics 365 客户之间的关联，和 Dynamics 客户与在线服务咨询) 相关， ("
 
 >[!Important]
 > 客户关联 (CPOR) 声明仅适用于在线服务咨询 (OSA) 销售、在线服务使用 (OSU) Microsoft 365 和 OSU-Business 应用程序奖励计划。 如果要为其他程序（如云解决方案提供商、托管分销商、托管或 Surface）提交合作声明，请参阅此处所述的合作声明过程。 <br><br>提交声明时，Microsoft 将对其进行验证。 此时，我们可能会要求你提供详细信息。 我们还将通知客户你的关联请求。 客户需要5个工作日来选择退出。如果未选择退出，则与此特定租户和工作负荷的关联将为官方。 此时，你将可以访问客户的使用情况数据。 
@@ -39,11 +36,11 @@ ms.locfileid: "92917241"
 
 - 客户的 **目录 id** 或 **租户 id** [查找此](find-ids-and-domain-names.md)
 
-- **解决方案区域** ，如 Business Applications 或 Microsoft 365
+- **解决方案区域**，如 Business Applications 或 Microsoft 365
 
 - 已执行的 **活动** 和要进行的声明的类型，例如售前、使用情况或收入关联
 
-- 你的客户的 **联系人姓名** 、标题和电子邮件地址
+- 你的客户的 **联系人姓名**、标题和电子邮件地址
 
 - 对于 Dynamics 365，还需要提供客户的 **技术联系人** 姓名、职务和电子邮件地址
 
@@ -53,9 +50,9 @@ ms.locfileid: "92917241"
 
 - **产品 ()** 或 () 你所申报的工作负荷
 
-- **(PoE) 的执行证明** ，如客户签署的工作声明。 你还可以下载要使用的 PoE 模板。
+- **(PoE) 的执行证明**，如客户签署的工作声明。 你还可以下载要使用的 PoE 模板。
 
-- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称** 、 **客户名称** 和 **ISV 产品/解决方案的名称** 。 
+- 仅适用于申报收入关联的合作伙伴： **Dynamics 解决方案卖方名称**、 **客户名称** 和 **ISV 产品/解决方案的名称**。 
 
 还应了解以下要点：
 
@@ -69,24 +66,24 @@ ms.locfileid: "92917241"
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 选择 " **激励** " 选项卡，选择 " **概述** "，然后选择 " **客户关联** "。
+2. 选择 " **激励** " 选项卡，选择 " **概述**"，然后选择 " **客户关联**"。
 
-3. 在 "客户关联" 页的顶部，选择 " **+ 客户关联** "。
+3. 在 "客户关联" 页的顶部，选择 " **+ 客户关联**"。
 
 4. 选择要与客户关联的合作伙伴位置的 MPN ID，然后添加客户的域名和目录 ID。 [查找此](find-ids-and-domain-names.md)
 
 5. 选择“继续”。
 
-6. 选择 **解决方案区域** 和 **活动** 。 
+6. 选择 **解决方案区域** 和 **活动**。 
 
    >[!Note]
    >
-   >如果选择 "Business Applications"，请选择 " **使用情况" 和/或 "提前销售** " 或 " **收入关联** "，然后选择 " **继续** "。 
+   >如果选择 "Business Applications"，请选择 " **使用情况" 和/或 "提前销售**" 或 " **收入关联**"，然后选择 " **继续**"。 
    <br><br>如果选择“收入关联”，系统将提示你输入与下面所列信息稍有不同的信息。
 
-7. 在 " **关联客户** " 页上输入相应信息，然后选择 " **创建声明** "。
+7. 在 " **关联客户** " 页上输入相应信息，然后选择 " **创建声明**"。
 
-8. 选择与此客户关联关联的产品 () ，然后选择 " **继续** "。
+8. 选择与此客户关联关联的产品 () ，然后选择 " **继续**"。
 
 9. 填写客户联系信息和你公司的联系信息。 所有字段都是必填字段。 
 

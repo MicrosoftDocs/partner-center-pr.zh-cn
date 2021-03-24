@@ -2,20 +2,21 @@
 title: 设置付款帐户和纳税表单 - Microsoft 商业市场
 description: 若要在商业市场中通过产品/服务销售获得资金，请了解如何设置付款帐户，并填写所需纳税表单。
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492681"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028428"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
 
-**相应的角色：**
+**相应的角色**
 
 - 帐户管理员
 - 全局管理员
@@ -54,7 +55,7 @@ ms.locfileid: "97492681"
 
 4. 如果要使用现有税务配置文件，请从下拉列表中进行选择。 否则，请选择“创建新的配置文件”并按“提交”。 你将转到税务配置文件页。
 
-5. 单击“编辑”按钮以编辑你的纳税信息。
+5. 选择 " **编辑** " 按钮以编辑你的税务信息。
 
 6. 选择相应的单选按钮，并在出现提示时选择你所在的国家/地区。 此步骤确定将用于对你的帐户付款的 Microsoft 业务实体。
 
@@ -91,7 +92,7 @@ ms.locfileid: "97492681"
 
 3. 选择要配置的付款方式。
 
-4. 选择现有付款配置文件，或者单击“创建新的付款配置文件”为所选付款方式创建新的配置文件。
+4. 选择现有的付款配置文件，或选择 " **创建新的付款配置文件** "，为所选的付款方式创建新的配置文件。
 
 ### <a name="create-a-bank-based-payment-profile"></a>创建基于银行的付款配置文件
 
@@ -111,7 +112,7 @@ ms.locfileid: "97492681"
 
 5. 你将需要为你参与的每个计划选择一个付款配置文件，但多个计划可以使用同一个配置文件。
 
-6. 单击“提交”，保存所做的更改。
+6. 选择 "提交" 以保存所做的更改。
 
    > [!NOTE]
    > Microsoft 可能需要最多 48 小时来验证配置文件中的信息。 完成此过程后，“验证状态”将显示“完成”
@@ -130,7 +131,7 @@ ms.locfileid: "97492681"
 
 2. 在“付款和税务”标题下，选择“付款和税务配置文件”。
 
-3. 你的付款配置文件将与其状态一起列出。 找到要编辑的配置文件，然后单击最右侧的“编辑”
+3. 你的付款配置文件将与其状态一起列出。 找到要编辑的配置文件，并选择最右侧的 " **编辑** "
 
 > [!IMPORTANT]
 > 更改付款帐户可能会推迟付款（最多一个付款周期）。 出现此推迟的原因是我们需要验证帐户更改，正如首次设置付款帐户时我们会进行验证。 帐户通过验证后，仍会收到全额款项；当前付款周期应得的任何付款将添加到下一个付款周期。 有关详细信息，请参阅 [在商业市场中付费](marketplace-get-paid.md)。
@@ -203,7 +204,7 @@ Form-R 是巴基斯坦银行法规要求提交的表单。 它用于指示从国
 3. 提供收款人详细信息。
 4. 返回“配置文件分配”页，选择你希望我们在付款时使用的货币。
 5. 你将需要为你参与的每个计划选择一个付款配置文件，但多个计划可以使用同一个配置文件。
-6. 单击“提交”，保存所做的更改。
+6. 选择 "提交" 以保存所做的更改。
 
 ## <a name="next-steps"></a>后续步骤
 
