@@ -111,6 +111,8 @@
         - name: 技术权益
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
+        - name: 使用徽标生成器创建徽标
+          href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 软件保障
