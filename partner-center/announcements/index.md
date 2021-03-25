@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712284"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880746"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "104712284"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|产品/市场|[更正了 2021 年 3 月 1 日永久性软件价目表](2021-march.md#14)|3 月 23 日|
+|功能|[.NET Standard 上的 SDK 版本 (v1.17.0)](2021-march.md#13)|3 月 23 日|
 |功能|[CSP 商业市场产品/服务以及 2021 财年 CSP 奖励措施（针对符合条件的产品/服务）](2021-march.md#12)|3 月 18 日|
 |功能|[Power BI Premium 产品/服务命名和先决条件更新](2021-march.md#11)|3 月 18 日|
 |产品/市场|[Microsoft 365 F3 的 3 月价格更新](2021-march.md#10)|3 月 16 日|
