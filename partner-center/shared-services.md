@@ -9,16 +9,15 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: a59cf0b271a0ccf5fd5a1d8e3e85ff43818a3801
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247709"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028275"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>添加 Azure 合作伙伴共享服务，以便合作伙伴可以购买 Azure 订阅供自己使用
 
- 
 **相应的角色**
 
 - 全局管理员
@@ -59,7 +58,7 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure 合作伙伴共享服务定价
 
-若要查看 Azure 合作伙伴共享服务的新定价文件，请前往 **销售**  >  **定价和产品**/服务，并选择当月的价格列表。 在接下来的几周内，还将发布特定费率卡 API。
+若要查看 Azure 合作伙伴共享服务的新定价文件，请前往 **销售**  >  **定价和产品**/服务，并选择本月的价格列表。 在接下来的几周内，还将发布特定费率卡 API。
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 产品和 Azure 合作伙伴共享服务
 

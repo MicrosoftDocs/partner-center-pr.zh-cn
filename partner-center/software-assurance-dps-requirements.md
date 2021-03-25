@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89286492"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028258"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看规划服务预订的资格要求
 
-**适当的角色**
+**相应的角色**
 
 - 全局管理员
 - MPN 合作伙伴管理员
 
-本主题将帮助你了解你需要满足的资格要求，你的公司才能注册或交付 Microsoft 的软件保障规划服务。
+本文将帮助你了解你需要满足的资格要求，你的公司才能注册或交付 Microsoft 的软件保障规划服务。
 
 >[!NOTE]
 > 除了满足规划服务产品的资格要求之外，还必须执行一些其他步骤，然后才能交付软件保障规划服务。 有关所需的所有步骤的概述，请参阅 [合作伙伴中心的软件保障计划服务](software-assurance-dps.md)。

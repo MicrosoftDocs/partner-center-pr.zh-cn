@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645650"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028292"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
 **适用于**
 
-- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 - Microsoft 全球云合作伙伴中心
-- 云解决方案提供商 (CSP) 计划中的合作伙伴
 
 本文介绍了如何将 Microsoft Azure 服务从一个云解决方案提供商 (CSP) 切换到另一个云解决方案提供商。
 
@@ -43,7 +42,7 @@ ms.locfileid: "100645650"
 
    通过合作伙伴中心创建 Azure 服务票证以请求订阅传输：
 
-   1. 从 "合作伙伴中心" 菜单中，选择 " **客户**"，从列表中选择你的客户，然后选择 " **服务管理**"。 
+   1. 从 "合作伙伴中心" 菜单中，选择 " **客户**"，从列表中选择你的客户，然后选择 " **服务管理**"。
 
    2. 在 " **支持票证** " 部分下，选择 " **新票证** " 下拉列表，然后选择 " **Microsoft Azure**"。
    
@@ -100,12 +99,12 @@ ms.locfileid: "100645650"
      Get-AzRoleAssignment
      ```
 
-7. 删除已过期的访问权限
+7. 删除过时的访问权限：
 
    - 在 "合作伙伴中心" 菜单中，选择 " **客户**"。
-   - 找到列表上的客户。 选择 (双击其公司名称) 。 这将打开 "客户 **订阅** " 页。
+   - 找到列表上的客户。 选择 (双击其公司名称) 。 此操作将打开 "客户 **订阅** " 页。
    - 在 "客户详细信息" 菜单中，选择 " **服务管理**"。
-   - 在 " **Microsoft Azure**" 下，单击链接以中转到 **Microsoft Azure 管理门户**。
+   - 在 " **Microsoft Azure**" 下，选择要前往 **Microsoft Azure 管理门户** 的链接。
 
 ## <a name="next-steps"></a>后续步骤
 

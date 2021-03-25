@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365733"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028241"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施
 
@@ -22,8 +22,7 @@ ms.locfileid: "87365733"
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 
 **相应的角色**
 
@@ -37,23 +36,23 @@ ms.locfileid: "87365733"
 
 由于以下原因之一，Microsoft 将暂停合作伙伴中心帐户：
 
-- 当前计费金额已逾期 60 天以上 
+- 当前计费金额已逾期 60 天以上
 - 检测到严重的帐户滥用情况
-- 当问题影响间接提供程序操作并对帐户产生负面影响时（仅限间接经销商）
+- 当问题影响间接提供程序操作并对帐户产生负面影响 (仅限间接经销商) 
 - 如果你的帐户配置文件处于失败或拒绝状态
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>如果帐户被挂起，需要做什么
 
-如果你知道你的帐户是最新的，请检查你的[合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)设置，以确认你的活动信息已完成。 
+如果你知道你的帐户是最新的，请检查你的 [合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) 设置，以确认你的活动信息已完成。 
 
 如果你不确定你的帐户是否是最新的，请从 "**合作伙伴中心**" 菜单中选择 "**计费**" 以查看你的帐单。 该计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。
 
-如果你的帐户逾期，请按照账单上的说明安排付款，然后提交支持请求以请求恢复你的帐户。 
+如果帐户已过期，请按照帐单上的说明进行付款，并提交支持请求以恢复帐户。 
 
-有关重新激活帐户的更多帮助，请联系[支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)。
+有关重新激活帐户的更多帮助，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)。
 
 ## <a name="next-steps"></a>后续步骤
 
 - [验证合作伙伴配置文件](update-your-partner-profile.md)
 
-- [注册新的合作伙伴中心计划时，请验证你的帐户信息](verification-responses.md)
+- [注册加入新的合作伙伴中心计划时验证你的帐户信息](verification-responses.md)
