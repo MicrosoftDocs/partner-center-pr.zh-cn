@@ -9,42 +9,38 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216858aff2ecbb5eb11c739db0a0a7ad6ee390f1
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564767"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548931"
 ---
 # <a name="reset-my-password"></a>重置我的密码
-
-**适用于**
-
-- 合作伙伴中心
  
 **相应的角色**
 
 - 全局管理员
-- 合作伙伴中心用户
+- 所有对合作伙伴中心感兴趣的合作伙伴
 
 
 如果忘记了合作伙伴中心密码，可以对其进行重置。
 
 ## <a name="to-reset-your-partner-center-password"></a>重置合作伙伴中心密码
 
-全局管理员必须设置自己重置密码的功能。  (如果你的全局管理员尚未设置此设置，你将需要让他们为 [你重置密码](reset-a-user-password.md)。 ) 
+若要使用此方法，你的全局管理员必须已设置你自己重置密码的功能。  (如果全局管理员未完成此功能，请要求他们为 [你重置密码](reset-a-user-password.md)。 ) 
 
 1. 在 **登录** 屏幕上，选择 **"无法访问帐户？"** ，然后选择 " **下一步**"。
 
 2. 选择 " **工作或学校帐户**"。
 
-3. 接下来，要求你输入用户 ID 和图片或音频中的字符。 然后，选择“下一步”。
+3. 输入用户 ID 和图片或音频中的字符。 然后，选择“下一步”。
 
 4. 设置新密码。
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>如果全局管理员离开了公司
 
-如果你的全局管理员离开了你的公司或已移到另一个角色，但你需要添加一个新的全局管理员，则必须在 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/commercial#/)上记录服务请求。 如果请求者能够提供必要的个人身份信息并提供有关公司的其他信息，则支持代理可以请求将用户提升为全局管理员。 
+如果全局管理员离开了你的公司或移动到另一个角色，但你需要添加一个新的全局管理员，则必须在 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/commercial#/)上记录服务请求。 如果请求者可以提供必需的个人标识信息，并提供有关公司的其他信息，则支持代理可以请求将用户提升为全局管理员。 
 
 ## <a name="next-steps"></a>后续步骤
 

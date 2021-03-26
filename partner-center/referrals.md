@@ -9,20 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999131"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549203"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>通过 Microsoft 的引荐来拓展业务
 
-**适用于**
-
-- 合作伙伴中心
-
-许多客户在寻找合格的专家来帮助实现 Microsoft 技术和业务解决方案。 我们在 Microsoft 经常通过营销活动以及内部 Microsoft 销售代理收到客户的直接帮助请求。 客户还使用[**查找解决方案提供商**经验](https://www.microsoft.com/solution-providers/search)来查找可以帮助他们满足其业务需求的公司。 
+许多客户在寻找合格的专家来帮助实现 Microsoft 技术和业务解决方案。 我们在 Microsoft 经常通过营销活动以及内部 Microsoft 销售代理收到客户的直接帮助请求。 客户还使用 [**查找解决方案提供商** 经验](https://www.microsoft.com/solution-providers/search)来查找可以帮助他们满足其业务需求的公司。 
 
 我们希望你与需要你的解决方案和专长的客户联系。 你从我们这里开始获取销售线索所能采取的最重要的步骤是[创建业务配置文件](create-a-marketing-profile.md)，展示贵公司的套餐、解决方案和专长。 你的业务配置文件将列在客户和内部 Microsoft 销售代理搜索合格合作伙伴所在的所有位置。 
 

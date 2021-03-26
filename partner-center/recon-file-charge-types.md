@@ -2,24 +2,25 @@
 title: 对帐文件费用类型
 ms.topic: article
 ms.date: 06/05/2020
-description: 了解合作伙伴中心对帐文件中的费用类型（例如，基于许可证、基于使用情况和一次性）、信用额度和折扣。
+description: 了解合作伙伴中心对帐文件中的费用类型 (例如，基于许可证、基于使用情况以及一次性) 、信用额度和折扣。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87479110"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549220"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>了解合作伙伴中心对帐文件中的不同费用类型
 
 **适用于**
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 
 **相应的角色**
 
@@ -27,12 +28,12 @@ ms.locfileid: "87479110"
 - 计费管理员
 - 全局管理员
 
-本主题介绍了发票部分与可能在对帐文件上的相关费用类型之间的映射。 发票提供费用的摘要。 你的对帐文件提供行项事务的详细细分，包括费用类型。 有关对帐文件的详细信息，请参阅[如何使用协调文件](use-the-reconciliation-files.md)。
+本文介绍了发票部分与你的对帐文件上可能的相关费用类型之间的映射。 发票提供费用的摘要。 你的对帐文件提供行项事务的详细细分，包括费用类型。 有关对帐文件的详细信息，请参阅 [如何使用协调文件](use-the-reconciliation-files.md)。
 
-[基于使用情况的对帐文件](usage-based-recon-files.md)和[基于许可证的对帐文件](license-based-recon-files.md)只显示与使用相关的事务和费用（单位消耗和相关费用）。
+[基于使用情况的对帐文件](usage-based-recon-files.md)和[基于许可证的对帐文件](license-based-recon-files.md)只显示与使用量相关的事务，并 () 消耗的单位和相关费用的费用。
 
 > [!NOTE]
-> 在发票上作为**调整**显示的一次性信用额度、折扣或退款不显示在对帐文件中。
+> 在发票上作为 **调整** 显示的一次性信用额度、折扣或退款不显示在对帐文件中。
 
 ## <a name="map-charge-types-to-invoice-charges"></a>将费用类型映射到发票费用
 
@@ -40,9 +41,9 @@ ms.locfileid: "87479110"
 
 ## <a name="license-based-charges"></a>基于许可证的费用
 
-若要将这些基于许可证的费用映射到发票，请对基于许可证的文件中的 "**金额**" 列求和。
+若要将这些基于许可证的费用映射到发票，请对基于许可证的文件中的 " **金额** " 列求和。
 
-| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
+| 对帐文件中 ChargeType 列 (收费说明)  | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
 | 激活费用 | 客户在购买后使用订阅时向客户收取的费用。 |
 | 取消费用 | 更改关联的许可证时，将向客户退还按比例计费。 |
@@ -59,9 +60,9 @@ ms.locfileid: "87479110"
 
 ## <a name="one-time-charges"></a>一次性费用
 
-若要将这些一次性费用映射到你的发票，请对基于许可证的文件中的 "**金额**" 列求和。
+若要将这些一次性费用映射到你的发票，请对基于许可证的文件中的 " **金额** " 列求和。
 
-| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
+| 对帐文件中 ChargeType 列 (收费说明)  | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
 | 新建 | 创建新购买时使用。 |
 | addQuantity | 用于原始购买的退款和增加后的新数量。 |
@@ -71,29 +72,29 @@ ms.locfileid: "87479110"
 
 ## <a name="usage-charges"></a>使用费
 
-若要将这些用量费用映射到发票，请将**PretaxCharges**列与基于使用情况的文件进行求和。
+若要将这些用量费用映射到发票，请将 **PretaxCharges** 列与基于使用情况的文件进行求和。
 
-| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
+| 对帐文件中 ChargeType 列 (收费说明)  | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
 | 评估取消时的使用费用 | 在已取消的情况下的访问使用费，针对当前计费周期的未付款使用量。 |
 | 评估当前周期的使用费用 | 当前计费周期的访问使用费。 |
 
-### <a name="credits"></a>致谢
+### <a name="credits"></a>信用
 
 若要将这些信用额度映射到发票：
 
-- 对基于许可证的文件中的**TotalForCustomer**求和。
-- 在基于使用情况的文件中对**PostTaxTotal**列求和。
+- 对基于许可证的文件中的 **TotalForCustomer** 求和。
+- 在基于使用情况的文件中对 **PostTaxTotal** 列求和。
 
-| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
+| 对帐文件中 ChargeType 列 (收费说明)  | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
 | 偏移行项 | 对某个行项的部分或全部退款，包括税款。 |
 
 ### <a name="usage-based-discounts"></a>基于使用情况的折扣
 
-若要将基于使用情况的折扣映射到发票，请对基于使用情况的文件中的**PretaxCharges**列求和。
+若要将基于使用情况的折扣映射到发票，请对基于使用情况的文件中的 **PretaxCharges** 列求和。
 
-| 费用说明（对帐文件中的 ChargeType 列） | 收费说明 |
+| 对帐文件中 ChargeType 列 (收费说明)  | 收费说明 |
 | ------------------------------------------------------------- | ------------------ |
 | 激活折扣 | 激活订阅后应用的折扣。 |
 | 周期折扣 | 应用在周期性费用上的折扣。 |
@@ -102,6 +103,6 @@ ms.locfileid: "87479110"
 
 ### <a name="license-based-discounts"></a>基于许可证的折扣
 
-若要将基于许可证的折扣映射到发票，请对基于许可证的文件中的**TotalOtherDiscount**列求和。
+若要将基于许可证的折扣映射到发票，请对基于许可证的文件中的 **TotalOtherDiscount** 列求和。
 
 *基于许可证的折扣可以应用于多种费用类型。*

@@ -8,18 +8,14 @@ description: 为多合作伙伴、多通道方案请求与客户的关系，或�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007411"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548965"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求经销商关系
-
-**适用于**
-
-- 合作伙伴中心
 
 如果要代表客户管理客户的服务或订阅，则必须向用户授予对该服务或订阅的管理员权限，并对 Microsoft 客户协议进行签名。
 

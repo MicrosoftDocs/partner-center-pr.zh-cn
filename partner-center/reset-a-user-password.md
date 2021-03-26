@@ -9,19 +9,15 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be44a0f67258989e4a55d6d34a93019712b341b
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: cf3514d394dc49efb967632baa277df94bbfdfbd
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220225"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548982"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>在合作伙伴中心重置用户的密码
 
-**适用于**
-
-- 合作伙伴中心
- 
 **相应的角色**
 
 - 全局管理员
@@ -33,13 +29,13 @@ ms.locfileid: "89220225"
 
 ## <a name="reset-a-user-password-as-an-admin"></a>以管理员身份重置用户密码
 
-1. 转到**设置** &gt; **用户管理**。
+1. 转到 **设置** &gt; **用户管理**。
 
 2. 从列表中选择一个用户。
 
 3. 选择页面底部的 " **重置密码**"。
 
-4. 你将看到一个确认屏幕，其中包含新登录的临时密码。 您必须复制此项并将其发送到新用户-离开屏幕后无法访问。 首次登录时，系统将提示用户更新密码。
+4. 你将看到一个包含临时密码的确认屏幕。 复制临时密码并将其发送到新用户-离开屏幕后，将无法访问临时密码。 用户首次登录时，系统将提示他们更新其密码。
 
 ## <a name="next-steps"></a>后续步骤
 

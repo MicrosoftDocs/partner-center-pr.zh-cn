@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756433"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549050"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
 **适用于**
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 
 **相应的角色**
 
@@ -104,7 +103,7 @@ Microsoft 不为商业 marketplace 产品提供产品支持。 你需要与发�
 
 ## <a name="faq"></a>常见问题解答
 
-请参阅以下信息，了解有关你可能代表客户提交的服务请求的常见问题。 
+请参阅以下常见问题，其中介绍了你可能代表客户提交的服务请求。 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>哪些内容作为支持权利的一部分包含在内？
 
@@ -120,9 +119,9 @@ CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，
 
 **技术中断修复事件** 的初始响应时间：
 
-- 严重影响（严重性 A）：2 小时（重大损失或服务质量下降。 生产服务关闭。）
-- 中等影响 (严重性 B) ：四小时， (服务的适中丢失或降级。 生产服务受到部分影响。 ) 
-- 最小影响 (严重级别 C) ：8小时， (最小丢失或服务降级。 服务仍处于可用或非生产服务。 ) 
+- 严重影响 (严重性 A) ：两小时， (严重丢失或服务降级。 生产服务关闭。）
+- 中等影响 (严重性 B) ：四个小时， (服务的适中丢失或降级。 生产服务受到部分影响。 ) 
+- 最小影响 (严重性 C) ：8小时， (服务的最小丢失或下降。 服务仍处于可用或非生产服务。 ) 
 
 初始响应时间仅适用于英语语言支持。 在营业时间提供本地语言支持。
 对于落在支持权利边界内的事件，但不视为中断修复事件，初始响应时间可能会长达一天。

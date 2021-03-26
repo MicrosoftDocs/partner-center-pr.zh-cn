@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/2/2021
-ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 3/22/2021
+ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185343"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549237"
 ---
 # <a name="payout-statements"></a>支出声明
 
@@ -98,7 +98,7 @@ ms.locfileid: "102185343"
 
 下表显示了估计的付款月示例。
 
-| Month | 金额 |
+| 月份 | 金额 |
 | ------ | :-----------: |
 |  09月2020 |  $7273.99   |
 |  Oct-2020 | $8692.30  |
@@ -169,7 +169,7 @@ ms.locfileid: "102185343"
 | participantName | 收入合作伙伴的名称 | All |
 | partnerCountryCode | 收入合作伙伴所在的位置/国家/地区 | All |
 | partNumber | 始终为空白 | 某些激励计划和市场 |
-| paymentId | 付款的唯一标识符。 此编号通常显示在银行对帐单中 | 仅适用于 SAP 付款 |
+| paymentId | 用于将事务报表中的所有事务与付款报表中的特定付款关联的唯一标识符 | 全部 |
 | paymentStatus | 付款状态 | All |
 | paymentStatusDescription | 付款状态的易记说明 | All |
 | productId | 唯一产品标识符 | marketplaces |
@@ -262,7 +262,7 @@ ms.locfileid: "102185343"
 | 即将处理 | 支付订单在处理付款之前生成待定内部评审。 | 否 |
 | 等待纳税发票 | 您的纳税发票不完整或无效。 | 必须更新纳税发票，才能收到付款 |
 | 审查期间被拒绝 | 付款在评审期间被拒绝。 | 有关详细信息，请联系 Microsoft 支持人员 |
-| 已失败 | 由于 Microsoft 系统错误，付款失败。 | 有关详细信息，请联系 Microsoft 支持部门 |
+| 失败 | 由于 Microsoft 系统错误，付款失败。 | 有关详细信息，请联系 Microsoft 支持部门 |
 | 正在学习 | 付款正在进行。 | 否 |
 | 付款不正确 | 付款 recouping 正在进行。 | 否 |
 | 已发送 | 已将付款发送到银行。 | 否 |
@@ -324,7 +324,7 @@ ms.locfileid: "102185343"
 
 下表说明了历史语句中的每一列。
 
-| 字段名称 | 说明 |
+| 字段名 | 说明 |
 | --- | --- |
 | 收入来源 | 收入来源，取决于发生交易的位置，如 Microsoft Store、Windows Phone 应用商店、Microsoft Store 8 或广告 |
 | 订单 ID | 唯一订单标识符。 使用此 ID，可以识别购买交易及其各自的非购买交易（如退款或退单）。 两者具有相同的订单 ID。 此外，如果有一种计费方法用于单个购买，则可以链接采购交易。 |

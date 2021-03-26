@@ -9,21 +9,22 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582030"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549169"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>合作伙伴中心门户请求和诊断工具
 
 **适用于**
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 
 **相应的角色**
+
+- 所有对合作伙伴中心感兴趣的合作伙伴
 
 所有记录在合作伙伴中心的用户都可以创建合作伙伴支持请求。 用户仅可查看他们在登录合作伙伴中心后提交的支持请求。
 如果你发现问题或需要有关合作伙伴中心门户错误的帮助，请联系合作伙伴中心支持。 发送诊断以使问题更快修复。
@@ -77,7 +78,7 @@ ms.locfileid: "103582030"
 
 你可以预览诊断信息，然后将它保存到某个文件，你可以将此文件附加到支持请求中。 要向我们发送信息：
 
-3. 请在发送文件前查看其中的信息，因为它可能包含你要删除的个人身份信息。
+3. 在发送文件之前查看文件中的信息，因为它可以包含你可能想要删除的个人数据。
 
     >[!NOTE]
     >在某些浏览器中，**预览** 页面底部的 **页面视图** 部分可能显示为空。 这很正常。
