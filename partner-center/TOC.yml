@@ -167,13 +167,9 @@
     - name: 云解决方案提供商区域授权租户合并说明
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: 更新方法以确认接受 Microsoft 客户协议
-      href: confirm-consent.md
-    - name: 确认接受 Microsoft 客户协议
+    - name: 如何确认客户已接受 Microsoft 客户协议
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: 何时代表客户证明已接受客户协议
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: 适用于在国家/地区云中销售
       href: csp-national-clouds-overview.md
       items:

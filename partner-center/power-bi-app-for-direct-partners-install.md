@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215843"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633686"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安装并预览适用于 Microsoft Power BI 的合作伙伴中心分析应用
 
 
 **相应的角色**
--   全局管理员
--   用户管理员
--   销售代理
--   管理员代理
 
-## <a name="before-you-begin"></a>在开始之前
+- 全局管理员
+- “用户管理”管理员
+- 销售代理
+- 管理员代理
+
+## <a name="before-you-begin"></a>准备阶段
 
 从以下可用 Power BI 应用列表中选择与你的业务最相关的应用程序：
+
 - [直接提供程序](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [间接提供程序](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ ms.locfileid: "98215843"
 
 ## <a name="to-install-the-app"></a>安装应用
 
-1. 单击上一节中提供的 (直接提供程序/间接提供商/间接经销商) 上提供的应用程序源链接。
+1. 在上一节中，选择 (直接提供商/间接提供商/间接经销商) 提供的 "应用程序源" 链接。
 
-2. 单击 " **立即获取**"。 
+2. 选择“立即获取”  。 
 
-3. 单击 " **继续**" 即表示同意条款和条件。
+3. 选择 " **继续**" 即表示同意条款和条件。
 
 4. 在已拥有帐户?下选择 **登录**。
 
-5. 在下一页上，输入你的 Power BI 用户名和密码，然后选择登录。
+5. 在下一页上，输入你的 Power BI 用户名和密码，然后选择 **登录**。
 
 6. 通过提供工作区名称安装工作区。
 
 7. 可以在 "应用" 部分中找到安装的模板应用。
 
-8. 单击 "应用"，然后选择已安装的应用。
+8. 选择 " **应用** "，然后选择已安装的应用。
 
 9. 新应用屏幕入门会打开。
 
-10. 若要连接到数据，请单击 " **连接**"。
+10. 若要连接到数据，请选择 " **连接**"。
 
 11. 在 " **连接到合作伙伴中心分析** " 弹出窗口上，验证 **身份验证方法** 是否设置为 " **oAuth2** "，或者从列表中选择 " **oAuth2** " （如果不是）。 
 

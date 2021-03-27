@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7488720bf0028dcccd86ee51b18d2a42b753e76
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215826"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633839"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技术支持以帮助客户配置、管理和使用其订阅
 
@@ -22,7 +22,7 @@ ms.locfileid: "98215826"
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 支持人员代理
 - 管理员代理
 
@@ -45,9 +45,9 @@ ms.locfileid: "98215826"
 
 在云解决方案提供商模型中交易的合作伙伴是受其客户信任的顾问，拥有端到端关系，包括当其客户有疑问或问题时提供的支持。 通过支持触点合作伙伴可以进一步了解客户及其业务，从而发现能够驱动价值的新的服务和解决方案。
 
-为了满足支持要求，合作伙伴可以通过其他实体转售支持，他们可能会将其全部或部分支持结构外包，并且/或者它们可能会设置一个结构以直接提供支持。  合作伙伴可对向客户提供的全部或部分支持收取费用。 合作伙伴应向其客户明确说明将提供的支持、服务时间和联系方式，以及定价（如果对支持收费）。 
+为了满足支持要求，合作伙伴可以通过其他实体转售支持，他们可能会将其全部或部分支持结构外包，并且/或者它们可能会设置一个结构以直接提供支持。  合作伙伴可对向客户提供的全部或部分支持收取费用。 合作伙伴应向客户阐明他们所提供的支持、服务时间和联系方法，以及定价 (如果) 支持。 
 
-合作伙伴需要接收来自客户的传入支持请求，将问题诊断到合作伙伴的最佳能力，然后解决基线支持边界范围内的问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
+合作伙伴必须接收来自客户的传入支持请求，将问题诊断到合作伙伴的最优秀能力，然后解决基线支持边界范围内的问题。 如果合作伙伴不能解决问题，他们可以通过以下支持方式向 Microsoft 上报问题：
 
 - **商业** 问题支持可用于云解决方案提供商计划中的所有合作伙伴
 

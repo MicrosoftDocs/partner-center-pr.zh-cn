@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 244cb852728d47360cf8ecd1d1e9ccb641466b1d
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: f5bdb166562593b970f40c23921dc80b2a1cb8ad
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215741"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633856"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>使用适用于 Microsoft Power BI 的合作伙伴中心分析应用查看你的业务数据
 
@@ -24,7 +24,7 @@ ms.locfileid: "98215741"
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 销售代理
 - 管理员代理
 
@@ -48,7 +48,7 @@ ms.locfileid: "98215741"
 
 - 任何估算成本都是税前计费/发票数据，都不具有法律约束力。 估算成本只应用于数据洞察。
 
-- 客户信息是以订阅为基础的。 你最近创建帐户但尚无订阅的任何客户都不计算在内。
+- 客户信息是以订阅为基础的。 您最近创建帐户的任何客户，但没有订阅的客户不包括在计数中。
 
 - 估算成本基于最新费率卡，而它又基于 CSP 定价。
 

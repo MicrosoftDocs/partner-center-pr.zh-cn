@@ -1,7 +1,7 @@
 ---
 title: 使用你的对帐文件
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: 了解合作伙伴中心中的对帐文件以及如何解释给定计费周期的详细的行项视图。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022768"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633890"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>了解如何读取伙伴中心对帐文件中的行项
 
@@ -56,6 +56,27 @@ ms.locfileid: "103022768"
 
 协调文件可能非常大，有时很难下载。 若要以编程方式下载对帐文件，请参阅 [获取发票行项](/partner-center/develop/get-invoiceline-items)。
 
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>如果文件超出 Excel 中的行限制
+
+如果能够下载并不在 Microsoft Excel 中打开对帐文件，这可能意味着该文件包含的行数超过了 Excel 所允许的数目。 如果发生这种情况，可以使用以下任一过程打开文件。
+
+### <a name="open-a-recon-file-in-power-bi"></a>在 Power BI 中打开侦测文件
+
+1. 按常规方式下载协调文件。
+2. 下载、安装和打开 Power BI 的实例。
+3. 在 Power BI **主页** "选项卡上，选择" **获取数据**"。
+4. 在 **公共数据源** 列表中，选择 " **Text/CSV**"。
+5. 出现提示时，打开侦测文件。
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>在 Excel 数据透视表中打开侦测文件
+
+1. 按常规方式下载协调文件。
+2. 在 Microsoft Excel 中打开新文件。
+3. 在 " **数据** " 选项卡上，选择 " **获取数据**"，选择 " **从文件**"，然后选择 " **文本/CSV**"。
+4. 出现提示时，打开侦测文件。 你的数据将会显示。
+5. 在 " **加载** " 下拉菜单中，选择 " **加载到**"，然后选择 **"确定"**。
+6. 在 " **导入数据** " 对话框中，选择 " **数据透视表** " 以打开文件。
+
 ## <a name="map-taxes-or-vat"></a>映射税金或 VAT
 
 若要将增值税或销售税 (增值税) 映射到发票：
@@ -67,7 +88,7 @@ ms.locfileid: "103022768"
 
 **间接模型** 中的合作伙伴可以在基于许可证和基于使用情况的对帐文件中使用这些附加字段，按经销商对文件进行详细列举。
 
-| MPN ID | 描述 |
+| MPN ID | 说明 |
 | ------ | ----------- |
 | MPN ID | Microsoft 合作伙伴网络 (MPN) 云解决方案提供程序的标识符 (CSP) 直接或间接 (。 |
 | [经销商 MPN ID](#reseller-mpn-id) | [订阅的记录分销商的 MPN 标识符](#reseller-mpn-id)。 此字段对应于 "合作伙伴中心" 中为特定订阅列出的分销商 ID。 仅显示在间接模型中合作伙伴的对帐文件上。 |
