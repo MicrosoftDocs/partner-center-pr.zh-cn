@@ -1,7 +1,7 @@
 ---
 title: 适用于云解决方案提供商的 Microsoft 合作伙伴协议 (MPA)
 ms.topic: how-to
-ms.date: 02/11/2021
+ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Microsoft 云解决方案提供商合作伙伴要求，以便签署并验证此统一的、以数字方式接受的 Microsoft 合作伙伴协议 (MPA)。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281327"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880797"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -110,5 +110,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 3. 完成上述步骤 1 和/或步骤 2 后，在合作伙伴中心验证 MPA 状态：[验证 Microsoft 合作伙伴协议的接受状态](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>后续步骤
+
+- [间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议 - 常见问题解答](mpa-indirect-provider-faq.md)
 
 - [注册云解决方案提供商计划](indirect-reseller-tasks-in-partner-center.md)

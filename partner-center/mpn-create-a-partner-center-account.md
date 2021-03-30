@@ -1,7 +1,7 @@
 ---
 title: 在合作伙伴中心创建 MPN 帐户
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作伙伴网络成员如何创建合作伙伴中心帐户，以便管理其网络权益和资格。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570203"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712913"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>在合作伙伴中心创建 MPN 帐户以管理网络权益和资格
 
@@ -43,11 +43,11 @@ ms.locfileid: "103570203"
 1. 在[入门](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)页面，使用贵公司向你提供的工作电子邮件地址（例如 you@yourcompanyname.com）开始操作。
 
  
-    a.  电子邮件地址必须有效并且你可以访问，因为我们会发送验证码以继续后续操作。
+    a.  电子邮件地址必须有效并且你可以访问，因为我们会向该电子邮件地址发送验证码以继续后续操作。
 
-    b.  电子邮件地址不应包含类似于“info”、“admin”、“email@.”的词。或者“marketing@..”。因为这些词不受支持。
+    b.  电子邮件地址不应包含类似于“info”、“admin”、“email@.” 或“marketing@...”的词，这些地址格式不受支持。
 
-    c.  若要购买 MAPS 或管理胜任度，你需要通过验证你的域和成为管理员来升级此帐户。 
+    c.  若要购买 MAPS 或管理胜任度，你需要通过[验证你的域](become-global-admin.md)和成为管理员来升级此帐户。 
 
 2. 你可以使用 Office 365 工作帐户（例如 you@contoso.onmicrosoft.com）登录。
 
@@ -58,8 +58,11 @@ ms.locfileid: "103570203"
 
 可以查找公司简介或手动输入公司信息。 如果贵公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
 
-提供公司信息后，输入主要联系人信息，然后选择“立即注册”。
-主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（可以是你或贵公司中的其他人）。
+如果你的公司位于亚美尼亚、匈牙利、吉尔吉斯斯坦、摩尔多瓦、乌兹别克斯坦或俄罗斯，并且你手动输入了地址，我们将验证你的地址。      如果你输入地址与验证的地址不同，建议使用验证的地址。 这可确保地址的元素根据该国家/地区的邮政机构定义标准化，格式正确且可送达。  
+
+提供公司信息后，输入主要联系人信息。 主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（此联系人可以是你或贵公司中的其他人）。
+
+4. 选择“立即注册”。
 
 >[!IMPORTANT]
 >为了帮助保证贵公司的安全和隐私，我们将向你的主要联系人发送电子邮件以验证电子邮件地址，确保该电子邮件地址属于贵公司。 在主要联系人验证电子邮件地址后，我们将继续审查你提供的信息。 验证通常需要 3-5 个工作日。 
@@ -75,14 +78,14 @@ ms.locfileid: "103570203"
 
 ## <a name="next-steps"></a>后续步骤
 
--   [添加帐户用户并为其分配权限](create-user-accounts-and-set-permissions.md)
+-  [添加帐户用户并为其分配权限](create-user-accounts-and-set-permissions.md)
 
--   [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
+-  [购买或续订 Microsoft Action Pack 订阅](mpn-get-action-pack.md)
 
--   [管理你的成员身份权益](manage-your-partner-network-benefits.md)
+-  [管理你的成员身份权益](manage-your-partner-network-benefits.md)
 
--   [了解有关金牌和银牌成员身份的能力要求](https://partner.microsoft.com/membership/competencies)
+-  [了解有关金牌和银牌成员身份的能力要求](https://partner.microsoft.com/membership/competencies)
 
--   [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
+-  [创建业务配置文件以从 Microsoft 获取销售线索](create-a-marketing-profile.md)
 
--   [从 Microsoft 获取销售线索并进行管理](manage-leads.md)
+-  [从 Microsoft 获取销售线索并进行管理](manage-leads.md)

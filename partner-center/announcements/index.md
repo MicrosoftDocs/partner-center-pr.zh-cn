@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: 669bf079b095cff1c7198aa63dc900453bbd745a
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880746"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549033"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "104880746"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|产品/服务/新式工作区|[Microsoft 操作：引入产品发布日历](2021-march.md#16)|3 月 25 日|
+|功能|[CSP 客户加入要求变更](2021-march.md#15)|3 月 25 日|
 |产品/市场|[更正了 2021 年 3 月 1 日永久性软件价目表](2021-march.md#14)|3 月 23 日|
 |功能|[.NET Standard 上的 SDK 版本 (v1.17.0)](2021-march.md#13)|3 月 23 日|
 |功能|[CSP 商业市场产品/服务以及 2021 财年 CSP 奖励措施（针对符合条件的产品/服务）](2021-march.md#12)|3 月 18 日|

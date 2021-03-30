@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633890"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730071"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>了解如何读取伙伴中心对帐文件中的行项
 
@@ -76,6 +76,15 @@ ms.locfileid: "105633890"
 4. 出现提示时，打开侦测文件。 你的数据将会显示。
 5. 在 " **加载** " 下拉菜单中，选择 " **加载到**"，然后选择 **"确定"**。
 6. 在 " **导入数据** " 对话框中，选择 " **数据透视表** " 以打开文件。
+
+## <a name="negative-amount-displayed"></a>显示负金额
+
+你可能会在对帐文件中看到负值。 这可能是由以下原因之一导致的：
+
+- 你最近取消或减少了许可证数量
+- 你已收到 (SLA) 或 Azure 使用情况的服务许可协议信用额度
+
+若要获取有关此事务的详细信息，请在对帐文件中查看其费用类型属性。
 
 ## <a name="map-taxes-or-vat"></a>映射税金或 VAT
 

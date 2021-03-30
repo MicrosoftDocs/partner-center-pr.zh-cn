@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: d93a94ce1171770d76617a9ec8bed9a1dd96d287
-ms.sourcegitcommit: 1aeabd40513f06809cb111131b4e6bc188975ce6
+ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99065465"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880780"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在云解决方案提供商计划中与间接提供商合作
 
@@ -142,6 +142,10 @@ ms.locfileid: "99065465"
 
 ## <a name="next-steps"></a>后续步骤
 
+- [间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议 - 常见问题解答](mpa-indirect-provider-faq.md)
+
+- [Microsoft 合作伙伴协议](microsoft-partner-agreement.md)
+
 - [帐户验证过程](verification-responses.md)
 
 - [管理合作伙伴中心帐户](partner-center-account-setup.md)
@@ -153,4 +157,4 @@ ms.locfileid: "99065465"
 - [了解验证过程](verification-responses.md)
 
 - [请参阅直接计费合作伙伴要求](direct-partner-new-requirements.md)
-- [Microsoft 合作伙伴协议](microsoft-partner-agreement.md)
+

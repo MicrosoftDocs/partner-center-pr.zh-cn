@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴中心帐户
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何使用合作伙伴中心来管理公司的档案、银行和税务信息、角色、权限等。
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486986"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712830"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
 **相应的角色** - 全局管理员
 - MPN 帐户管理员
 
-在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 创建帐户后，你需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 对于任何将使用合作伙伴中心添加或管理客户、销售订阅、处理计费和开票、创建企业简介、管理引荐、使用奖励计划以及提供支持的人员，你公司的帐户还将包括其用户帐户。
+在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 创建帐户后，你需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 你的公司帐户还将包括团队中将使用合作伙伴中心的任何人的用户帐户。 他们可能会做的工作包括添加或管理客户、销售订阅、使用计费和开票、创建公司资料、管理引荐、使用激励计划、提供支持等。
 
 另请参考[邀请员工加入合作伙伴中心](guide-to-migration.md)和[添加新用户](create-user-accounts-and-set-permissions.md)文章。
 
@@ -30,7 +30,7 @@ ms.locfileid: "103486986"
 
 ## <a name="account-management"></a>帐户管理
 
-若要在合作伙伴中心访问所有合作伙伴（商业和开发人员）的“帐户”管理，请登录合作伙伴中心[面板](https://partner.microsoft.com/dashboard)，选择屏幕右上角的“设置”选项（齿轮图标），然后选择“帐户设置” 。 无需再在合作伙伴设置与开发人员设置之间进行选择，因为所有配置文件和设置现都已合并。
+对于所有商业和开发人员合作伙伴，要在合作伙伴中心访问“帐户管理”，都要登录合作伙伴中心[面板](https://partner.microsoft.com/dashboard) ，选择屏幕右上角的“设置”（齿轮图标），然后选择“帐户设置”。 现在不再需要在合作伙伴和开发人员设置之间进行选择。 现已合并所有配置文件和设置。
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="“设置”图标":::
 
@@ -56,7 +56,7 @@ ms.locfileid: "103486986"
 
 可能有多个帐户。 可检查左侧导航菜单中是否有“帐户选取器”，查看你是否属于多个帐户。
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="标识帐户选取器":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="标识帐户选取器":::
 
 如果看不到帐户选取器，则你仅属于一个帐户。 
 
@@ -64,7 +64,7 @@ ms.locfileid: "103486986"
 
 在下例中，已登录用户包含在 3 个突出显示的帐户中。 该用户可单击帐户，在这些帐户之间进行切换。
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="包含你的帐户":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="包含你的帐户":::
 
 ## <a name="organization-profile"></a>组织资料
 
@@ -74,11 +74,17 @@ ms.locfileid: "103486986"
 
 ### <a name="legal-info"></a>法务信息
 
-首次加入合作伙伴中心时，贵公司会与 Microsoft 一起经历验证过程。 可在“法务信息”页面上跟踪验证状态。 它将显示主要联系人和主要法务联系人，其中 Microsoft 将就合作伙伴问题与前者联系，而后者是管理法务信息和状态的人员。 你公司的所有业务位置均会列出，且可在此处添加。
+首次加入合作伙伴中心时，贵公司会与 Microsoft 一起经历验证过程。 可在“法务信息”页面上跟踪验证状态。 它将显示主要联系人和主要法务联系人，其中 Microsoft 将就合作伙伴问题与前者联系，而后者是管理法务信息和状态的人员。 你公司的所有业务位置均会列出，且可在此处添加。 
+
+### <a name="provide-your-companys-legal-business-details"></a>提供贵公司的法定公司详细信息
+
+可以查找公司简介或手动输入公司信息。 如果贵公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
+
+如果你的公司位于亚美尼亚、匈牙利、吉尔吉斯斯坦、摩尔多瓦、乌兹别克斯坦或俄罗斯，并且你手动输入了地址，我们将验证你的地址。      如果你输入地址与验证的地址不同，建议使用验证的地址。 验证可确保该地址准确且可送达。
 
 ### <a name="primary-contact-email"></a>主要联系人电子邮件
 
-我们将使用主要联系人电子邮件向你告知帐户验证情况。 请确保你提供的主要联系人电子邮件是被定期管理和查看的电子邮件。  
+我们将使用主要联系人电子邮件向你告知帐户验证情况。 请确保你提供的主要联系人电子邮件是会定期管理和查看的电子邮件。  
 
 详细了解[验证和帐户信息](verification-responses.md)。
 

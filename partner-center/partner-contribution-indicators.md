@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指标-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解7个合作伙伴贡献指标 (PCI) ，其中显示了合作伙伴如何获取银色或金牌云 Business Applications 能力。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193641"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730257"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来实现云 Business Applications 资格
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193641"
 - 帐户管理员
 
 本文介绍了7个关键合作伙伴贡献指标 (PCI) ，用于评估合作伙伴获得或留住银或金牌云 Business Applications 胜任度的进度。
+
+可以在 "合作伙伴贡献" 仪表板上查看 PCI 进度。 数据将在每月的第20天更新，其中包含上个月的数据。 例如，二月份的数据将于3月20日发布。
 
 > [!NOTE]
 > 了解合作伙伴如何使用一组不同的合作伙伴贡献指标指标，通过云 Business Applications SMB 选项获得银或金牌小型和中型云解决方案资格。 有关详细信息，请参阅 [使用小型和中型云解决方案资格认证的合作伙伴贡献指标](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)。 你还可以 [阅读](https://partner.microsoft.com/membership/competencies) 有关能力及其要求的详细信息。
@@ -109,6 +111,20 @@ PCI 分数确定资格资格，如下所示：
 
 每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于用于获取云 Business Applications 资格的客户参与和财务和操作路径。 对于在开发市场上运营的合作伙伴与在开发市场上专门操作的合作伙伴，阈值也有所不同。 根据 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)，**开发** 或 **开发** 国家/地区的市场分类。
 
+请注意，4度量值是基于合作伙伴经营业务的位置来度量的，而不是 MPN 位置的注册位置。 这意味着，在开发市场上注册的合作伙伴（其客户从开发市场开始）需要满足开发的国家/地区的 PCI 分数。
+
+下表显示了按指标应用的位置。
+
+| 指标名称 | 位置 |
+|:-------|:--------|
+| 净新收入 | 客户位置 |
+| Net customer 添加 | 客户位置 |
+| 功能顾问 | 合作伙伴位置 |
+| 开发人员 | 合作伙伴位置 |
+| 功能顾问增长 | 合作伙伴位置 |
+| MAU 增长 | 客户位置 |
+| 新大型部署 | 客户位置 |
+
 每个指标间的分数被记录在一起，为客户参与和财务和运营产生不同的 PCI 分数。 此分数将每月更新一次。
 
 合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 对于所有指标（功能顾问增长除外），都可以获得部分分数。
@@ -160,7 +176,7 @@ PCI 分数确定资格资格，如下所示：
 合作伙伴成为 DPOR 的前提是在产品的订阅级别建立了与客户的关联。
 
 > [!NOTE]
-> 当给定的客户订阅中同时存在 CPOR 和 DPOR 时，CPOR 将获得与该订阅关联的相关 PCI 指标的信用额度。 如果关联是通过 OSA 关联的，则 CPOR 将获得净新收入的信用额度，而 Net customer 将会增加。 如果通过 OSU 进行关联，则 CPOR 将接收新部署的信用额度和每月活动用户的增长。
+> 当给定的客户订阅中同时存在 CPOR 和 DPOR 时，CPOR 将获得与该订阅关联的相关 PCI 指标的信用额度。 如果关联是通过 OSA (收入报销) ，CPOR 将获得净收入的额度，并增加净客户。 如果关联是通过 OSU (使用声明) ，则 CPOR 将接收新部署的信用额度和每月活动用户的增长。 售前声明不符合 PCI 的要求。
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>此资格认证的详细 PCI 指标定义
 
@@ -324,9 +340,10 @@ Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-sco
   
    (有关开发和开发市场的详细信息，请参阅这些 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)。 ) 
 
-- 如果租户为，则将租户视为超过每月活动用户阈值： 
+- 如果租户为，则将租户视为超过每月活动用户阈值：
 
-  - 低于指定的阈值12个月前， *然后*
+  - 低于指定的阈值12个月前， **然后**
+
   - 在后续11个月内至少超过此阈值一次。
 
 - 每月活动用户在租户级别进行计数，并只在租户下的付费订阅上求和。
