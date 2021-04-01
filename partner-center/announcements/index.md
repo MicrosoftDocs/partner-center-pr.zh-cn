@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/22/2021
-ms.openlocfilehash: e2cba4baf497fb51ecd05c01f10e67632bb05c39
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549033"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730053"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "105549033"
 
 |**类别**|**2021 年 3 月公告**|**已公布**|
 |---------|:---------|:---------|
+|产品/服务/新式工作区|[新的 Exchange 管理中心 (EAC) 体验](2021-march.md#17)|3 月 29 日|
 |产品/服务/新式工作区|[Microsoft 操作：引入产品发布日历](2021-march.md#16)|3 月 25 日|
 |功能|[CSP 客户加入要求变更](2021-march.md#15)|3 月 25 日|
 |产品/市场|[更正了 2021 年 3 月 1 日永久性软件价目表](2021-march.md#14)|3 月 23 日|
