@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714391"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179167"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>使用这些资源来帮助你创建激励计划和执行证明
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft 合作伙伴网络中的合作伙伴 (MPN) 
 
 **相应的角色**
 
@@ -40,7 +35,7 @@ ms.locfileid: "90714391"
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>什么是 (PoE) 的执行证明？
 
-为奖励工作付费后，必须将详细的执行证明 (PoE) 提交给 Microsoft。 你的 PoE 可能包含有关任何相关市场活动、奖励活动发生的日期、所申请的数量等的详细信息。 
+为奖励工作付费后，必须将详细的执行证明 (PoE) 提交给 Microsoft。 您的 PoE 可能包含有关任何相关市场活动的详细信息、激励活动发生的日期和申请的数量。 
 
 详细了解如何 [准备执行证明](incentives-prepare-your-proof-of-execution.md)。
 

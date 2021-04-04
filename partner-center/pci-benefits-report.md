@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444891"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087002"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的福利报表
 
@@ -23,15 +23,15 @@ ms.locfileid: "87444891"
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
-作为 Microsoft 合作伙伴，你可以访问使用最新技术和创新的主机权益，以帮助你增强团队的技能，提高效率并发展你的业务。 权益包包括：许可软件、云服务、Visual Studio 订阅和支持的分配。 这些包还可以包含某些进入市场的资源、产品/服务和计划。 "权益" 报表显示在所选日期范围内访问的权益的趋势及其利用率。
+作为 Microsoft 合作伙伴，你可以访问使用最新技术和创新的主机权益，以帮助你增强团队的技能，提高效率并发展你的业务。 权益包包括：许可软件、云服务、Visual Studio 订阅和支持的分配。 这些包还可以包含某些进入市场的资源、产品/服务和计划。 权益报表显示了在所选日期范围内访问的权益的趋势。
 
 :::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="权益页面概述":::
 
 可以在 "权益" 报表中可视化以下图表：
 
-- 摘要
+- 总结
 - 已授予云服务
 - 软件产品
 - Visual Studio 订阅
@@ -39,20 +39,20 @@ ms.locfileid: "87444891"
 - 走向市场
 
  > [!NOTE]
- > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅公司的全局管理员。此报表中特定类型的数据也可能仅对具有 Executive 报表查看器权限的用户可用。
+ > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>总结
 
-"摘要" 部分介绍了授权软件、云服务（非 Azure）、Visual Studio 订阅、技术支持和某些投放市场服务或产品/服务的条款。
+"摘要" 部分介绍了授权软件、云服务 (非 Azure) 、Visual Studio 订阅、技术支持和某些投放市场服务或产品/服务的条款。
 
-示例： Microsoft 合作伙伴网络（MPN）成员身份合作伙伴有资格获得本地产品和云产品的技术支持。 如果合作伙伴获得银资格，则会向其授予针对内部产品15次事件的技术支持。 他们可以根据需要使用此支持。 
+示例： Microsoft 合作伙伴网络 (MPN) 成员身份合作伙伴有资格获得本地产品和云产品的技术支持。 如果合作伙伴获得银资格，则会向其授予针对内部产品15次事件的技术支持。 他们可以根据需要使用此支持。 
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="权益摘要":::
 
 ## <a name="cloud-services-granted"></a>已授予云服务
 
 此图表显示所选云服务的基于许可证的订阅的所选日期范围内所选许可证的每月趋势。
-从 "**服务**" 选项卡中选择云服务，以查看特定云服务的图表。 "线条" 图表示授予您的公司的总体许可证。
+从 " **服务** " 选项卡中选择云服务，以查看特定云服务的图表。 "线条" 图表示授予您的公司的总体许可证。
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="已授予云服务":::
 
@@ -66,7 +66,7 @@ ms.locfileid: "87444891"
 
 此图显示了针对在所选日期范围内分配的订阅激活的 Visual Studio 订阅的每月趋势。
 
-选择图表顶部的选项卡，以查看作为权益获得的特定 Visual Studio 订阅的趋势。 图表中的列表示订阅使用的许可证。 "线条" 图表示为订阅分配的总体许可证。
+选择图表顶部的选项卡，以查看你作为权益获得的特定 Visual Studio 订阅的趋势。 图表中的列表示订阅使用的许可证。 "线条" 图表示为订阅分配的总体许可证。
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio 订阅":::
 
@@ -88,4 +88,4 @@ ms.locfileid: "87444891"
 
 ## <a name="next-steps"></a>后续步骤
 
-- 有关更多报表，请参阅[合作伙伴中心见解](partner-center-insights.md)。
+- 有关更多报表，请参阅 [合作伙伴中心见解](partner-center-insights.md)。

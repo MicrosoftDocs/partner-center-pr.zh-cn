@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834877"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179507"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>排除缺少付款、收入错误和其他问题
 
-**适用** 于：
-
-- 合作伙伴中心
-
-**适当的角色**：
+**相应的角色**
 
 - 奖励管理员
 
@@ -122,7 +118,7 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="事务信息":::
 
-交易历史记录视图中的每月收益量可能与特定月份收到的付款金额不符。 这是因为对未来的支付期进行了重新计算和调整。
+交易历史记录视图中的每月收益量可能与特定月份收到的付款金额不符。 这是因为在未来的支付期内进行了重新计算和调整。
 
 例如，9月2019日处理的2019年9月收益的调整将不会反映在9月2019的收入金额中;但是，在收到九月2019年9月的付款时，它将包括9月2019的调整时间。
 
@@ -141,11 +137,11 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 | 按行查看付款信息，包括以当地货币表示的收入和付款金额  | 查看 **付款列表** 字段   |
 | 下载汇款函   |  选择 **支付汇款**  |
 | 查看特定付款的事务级别详细信息 |  选择 **视图**  |
-| 将事务详细信息导出到 Excel  |  选择 " **开始下载**"，然后单击 " **导出数据**"。 请注意，所有选定的筛选器将应用于导出的数据。 状态更改为 "已完成" 后，选择 " **下载** "，然后按照提示导出详细的事务报表。 如果状态在五分钟内未更新，请刷新页面。  |
+| 将事务详细信息导出到 Excel  |  选择 " **开始下载**"，然后选择 " **导出数据**"。 所有选定的筛选器将应用于导出的数据。 状态更改为 "已完成" 后，选择 " **下载** "，然后按照提示导出详细的事务报表。 如果状态在五分钟内未更新，请刷新页面。  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>收入和付款缺失或不正确
 
-如果找不到付款或事务详细信息，请检查是否应用了正确的筛选器。 请注意，由于某些程序名称已更改 (例如，CSP 1T 直销伙伴现在为 CSP 直销合作伙伴) ，你可能需要使用多个选择。
+如果找不到付款或事务详细信息，请检查是否应用了正确的筛选器。 由于某些程序名称已更改 (例如，CSP 1T 直销伙伴现在为 CSP 直销合作伙伴) ，你可能需要使用多个选择。
 
 如果仍找不到收入或认为显示的收入不正确，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 

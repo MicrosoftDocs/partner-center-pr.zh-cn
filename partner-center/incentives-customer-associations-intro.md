@@ -1,6 +1,6 @@
 ---
 title: CPOR 关联概述
-description: 阅读有关需要将客户与特定奖励计划相关联的合作伙伴资源， (CPOR) 模型的申报合作伙伴。
+description: 阅读有关需要通过 CPOR) 模型的申报 (合作伙伴将客户关联到特定奖励计划的合作伙伴的资源。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 6e420f4aa5353126c705c42836052d340ede6504
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 24c439d1c90663130e1676e8ceb6d503be5ea30d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714461"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179184"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>使用这些资源来为特定奖励计划建立客户关联声明
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft 合作伙伴网络中的合作伙伴 (MPN) 
 
 **相应的角色**
 
@@ -29,7 +24,7 @@ ms.locfileid: "90714461"
 
 本文为满足以下条件的 Microsoft 合作伙伴共享资源：
 
-- 你属于以下 Microsoft 激励计划：在线服务咨询 (OSA) 销售;联机服务使用 (OSU) -Microsoft 365;OSU-业务应用程序奖励。
+- 你是以下 Microsoft 激励计划的一部分：联机服务咨询 (OSA) 销售、在线服务使用情况 (OSU) -Microsoft 365 和 OSU-Business 应用程序奖励。
 
 - 与 Microsoft 365 或 Dynamics 365 客户合作，希望在上述激励计划中引用或声明其中的某些工作。
 
@@ -39,7 +34,7 @@ ms.locfileid: "90714461"
 
 Microsoft 现在使用记录 (CPOR) 模型的申报合作伙伴来管理与 Microsoft 365 和 Dynamics 365 客户之间的关联。
 
-此模型适用于与以下奖励计划中的客户合作：在线服务咨询 (OSA) 销售;联机服务使用 (OSU) -Microsoft 365;OSU-业务应用程序奖励。
+此模型适用于你与以下奖励计划中的客户合作：在线服务咨询 (OSA) 销售、在线服务使用情况 (OSU) -Microsoft 365 和 OSU-Business 应用程序奖励。
 
 Microsoft 验证所有激励声明。
 

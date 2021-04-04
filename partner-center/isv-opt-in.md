@@ -4,30 +4,30 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解独立软件供应商如何 (ISV) 使特定的产品/服务具有排他性并仅适用于特定的 CSP 合作伙伴。
+description: 了解独立软件供应商如何 (Isv) 使特定的产品/服务具有排他性并仅适用于特定的 CSP 合作伙伴。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000111"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179456"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>独立软件供应商的市场专供产品/服务
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 
-独立软件供应商 (ISV) 可以选择提供仅适用于特定 CSP 合作伙伴的专用产品/服务。
+独立软件供应商 (ISV) 可以提供仅适用于特定 CSP 合作伙伴的专用产品/服务。
 
-CSP 合作伙伴可以在合作伙伴中心商用 marketplace 中查看所有 ISV 产品/服务。 但标记为 **独占**的产品/服务只能由 ISV 选择的特定合作伙伴购买。 如果产品/服务未标记为 " **专用**"，则所有合作伙伴都可购买。
+CSP 合作伙伴可以在合作伙伴中心商用 marketplace 中查看所有 ISV 产品/服务。 但标记为 **独占** 的产品/服务只能由 ISV 选择的特定合作伙伴购买。 如果产品/服务未标记为 " **专用**"，则所有合作伙伴都可购买。
 
 ISV 标识的特定 CSP 合作伙伴可以：
 

@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 405f7603639a3d460a307fab467872550487e936
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712149"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179202"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>确定奖励计划的资格
 
-**适当的角色**：
+**相应的角色**
 
 - 全局管理员
 - 奖励管理员
@@ -40,7 +40,7 @@ ms.locfileid: "104712149"
 
    :::image type="content" source="images/incentives/eligibility.png" alt-text="屏幕截图是激励要求的示例。":::
 
-5. 你需要完成所有未选中的区域，才能实现资格。 每个奖励计划都有其自己的一套要求。
+5. 完成未选中的所有区域以满足资格。 每个奖励计划都有其自己的一套要求。
 
 ## <a name="next-steps"></a>后续步骤
 

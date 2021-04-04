@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714431"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179473"
 ---
 # <a name="manage-incentives-customer-associations"></a>管理激励客户关联
 
-**适用对象：**
-
-- 合作伙伴中心
-
-**相应的角色：**
+**相应的角色**
 
 - 计费管理员
 - 全局管理员
@@ -87,7 +83,7 @@ ms.locfileid: "90714431"
 
 拒绝 CPOR 关联声明有三个主要原因。
 
-**合作伙伴请求：** 合作伙伴可以请求拒绝其关联。 通常，当伙伴由于错误地使用错误的 MPN （CPOR）创建了一个不正确的活动 ( 你选择了收入关联而不是售前) ，或者不能再与客户合作。
+**合作伙伴请求：** 合作伙伴可以请求拒绝其关联。 通常，当伙伴由于错误地使用错误的 MPN （CPOR）创建了一个不正确的，选择了不正确的活动 (例如，你选择了收入关联而不是售前) ，或者不能再与客户一起使用时，通常使用此基本原理。
 
 **客户拒绝：** 成功完成 CPOR 关联声明后，其状态将更改为 "已批准"，同时向客户提供拒绝关联许可的机会。 如果客户拒绝同意，则关联将遭到拒绝。
 

@@ -8,24 +8,23 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756707"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179490"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>有关激励的常见问题
 
-**相应的角色：**
+**相应的角色**
 
 - 奖励管理员
-
 - 奖励用户
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>是否需要是全局管理员才能注册激励？
 
-否。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
+不知道。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
 
 ## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>如果我发现公司已是 Microsoft 合作伙伴网络 (MPN) 的成员，我该怎么办？
 
@@ -55,7 +54,7 @@ ms.locfileid: "101756707"
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>我无法使用我的凭据访问奖励。
 
-看不到激励的原因可能是您没有正确的权限。 使用以下过程，请参阅修复此问题。
+看不到激励的原因可能是您没有正确的权限。 使用以下过程来解决此问题。
 
 1. 使用 Azure AD 租户凭据登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) ， (你的工作凭据) "。 如果你无法登录，请联系你的公司的全局管理员。
 
@@ -71,7 +70,7 @@ ms.locfileid: "101756707"
 
 如果需要更改角色或权限，请与公司的全局管理员或帐户管理员联系。若要了解这些人员的身份，请阅读 [查找你的全局管理员](./find-your-role.md#find-your-global-admin)。
 
-请注意，"概述" 页仅显示与 Azure AD 租户关联 (PGA) 相关联的 "注册"。 如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。
+"概述" 页仅显示与 Azure AD 租户相关联 (PGA) 的伙伴全局帐户关联的注册。 如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>如果在注册过程中收到错误消息或需要帮助，应联系谁？
 

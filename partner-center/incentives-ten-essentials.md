@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714552"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179099"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>与激励合作的十大要素
-
-**适用于**
-
-- 合作伙伴中心
-- Microsoft 合作伙伴网络中的合作伙伴 (MPN) 
 
 **相应的角色**
 
@@ -49,7 +44,7 @@ Microsoft 激励计划是一项功能强大的工具，它为客户提供与 Mic
 
 ## <a name="5-review-the-incentives-faq"></a>5. 查看激励常见问题
 
-在提问之前获得常见问题的答案。 我们经常通过使用 Microsoft 支持部门中的信息以及与合作伙伴的直接通信来更新奖励常见问题解答。 可在 [此处](incentives-faq.md)查看常见问题解答。
+在提问之前获得常见问题的答案。 我们经常通过使用 Microsoft 支持部门的信息和与合作伙伴的直接通信来更新奖励常见问题。 可在 [此处](incentives-faq.md)查看常见问题解答。
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. 确认您的程序资格
 

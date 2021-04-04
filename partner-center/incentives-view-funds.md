@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182505"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179422"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>查看可用的挣、报销和剩余的合作基金
 
-**相应的角色：**
+**相应的角色**
 
 - 奖励管理员
 - 奖励用户

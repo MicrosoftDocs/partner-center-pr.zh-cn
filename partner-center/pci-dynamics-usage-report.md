@@ -8,20 +8,21 @@ description: 了解你的工作情况，并了解你为客户销售或管理的 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146588"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086917"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Dynamics 用量报告
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
 Dynamics usage 报表为你为客户销售或管理的 Dynamics 365 订阅提供使用数据。 你可以从 dynamics usage 报表查看以下部分。
 
@@ -38,11 +39,11 @@ Dynamics usage 报表为你为客户销售或管理的 Dynamics 365 订阅提供
 
 "摘要" 部分提供了与你为客户销售或管理的 Dynamics usage 订阅相关的关键指标的快照视图。  
 
-- 可用席位数：在所选时间范围内销售的许可证总数。
+- 可用座位：在所选时间范围内销售的许可证总数。
 
    微图显示了所选日期范围内可用座位数的月月趋势。
 
-- 分配的席位数：在所选时间范围内分配的许可证总数。
+- 分配的座位：在所选时间范围内分配的许可证总数。
 
    微图显示所选日期范围内已分配座位数的月月趋势。
 

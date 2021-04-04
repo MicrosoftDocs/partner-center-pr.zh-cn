@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626008"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179131"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>激励计划中的注册和用户管理
 
-**适用对象：**
-
-- 合作伙伴中心
-
-**相应的角色：**
+**相应的角色**
 
 - 奖励管理员
 
@@ -45,9 +41,9 @@ ms.locfileid: "94626008"
 
 ## <a name="enrollment-process"></a>注册过程
 
-一旦你的组织有资格获得激励，Microsoft 将向符合条件的 MPNLocationID 的激励管理员发送邀请，以开始注册过程。 此电子邮件将从 **Microsoft 合作伙伴中心** 发送，并将具有主题 **合作伙伴激励注册邀请** 。 打开邀请，然后选择 " **开始** "。
+一旦你的组织有资格获得激励，Microsoft 将向符合条件的 MPNLocationID 的激励管理员发送邀请，以开始注册过程。 此电子邮件将从 **Microsoft 合作伙伴中心** 发送，并将具有主题 **合作伙伴激励注册邀请**。 打开邀请，然后选择 " **开始**"。
 
-你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，激励管理员仍可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)，并在左侧导航栏中选择 " **激励** " 下的 " **概述** " 来完成此过程。 选择 " **注册** "，然后填写计划的支出和税务配置文件。
+你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，激励管理员仍可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)，并在左侧导航栏中选择 "**激励**" 下的 "**概述**" 来完成此过程。 选择 " **注册**"，然后填写计划的支出和税务配置文件。
 
 仅当 Microsoft 验证你为注册提供的支出和税务配置文件时，才会将注册视为已完成。
 

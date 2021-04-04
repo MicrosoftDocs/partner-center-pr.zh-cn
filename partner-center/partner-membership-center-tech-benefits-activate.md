@@ -9,24 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee7ca469619e548dc59db390566d19a1b1c8cc24
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89224702"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087104"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>激活合作伙伴中心外 Microsoft 合作伙伴网络技术权益
 
+
+**相应的角色**
+
+- 所有合作伙伴中心用户
+
 本文适用于仍使用合作伙伴成员中心 (PMC) Microsoft 合作伙伴网络 (MPN) 成员。 这些成员需要帮助在当前 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)之外激活某些 MPN 成员资格权益，如技术优势。
-
-### <a name="applies-to"></a>适用于
-
-- 合作伙伴成员中心用户
-
-### <a name="appropriate-roles"></a>相应的角色
-
-- 使用伙伴成员中心的 MPN 合作伙伴 (PMC) 
 
 许多 Microsoft 合作伙伴网络 (MPN) 成员已 [从合作伙伴成员中心迁移到合作伙伴中心](prepare-pmc-pc-migration.md) ，以帮助管理其用户、客户和 MPN 权益。
 

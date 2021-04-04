@@ -1,22 +1,22 @@
 ---
 title: 支出声明
 description: 了解更多的报表和摘要，以及如何从 Microsoft 合作伙伴中心查看和导出支付数据
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549237"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087087"
 ---
 # <a name="payout-statements"></a>支出声明
 
-**相应的角色：**
+**相应的角色**
 
 - 帐户管理员
 - 全局管理员
@@ -69,11 +69,11 @@ ms.locfileid: "105549237"
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="页面右上角的搜索筛选器。":::
 
-若要查看关于收入的更多详情，请选择页面右侧的向下箭头。 这样做将显示杠杆、收入量、产品和客户。 如果出于某种原因，此数据无法使用，但你需要访问它，请与支持人员联系。 如果收益是调整的结果，而不是交易，则不会显示 "产品" 和 "客户" 字段。
+若要查看关于收入的更多详情，请选择页面右侧的向下箭头。 这样做将显示杠杆、收入量、产品和客户。 如果出于某种原因，此数据无法使用，但你需要访问它，请与支持人员联系。 如果收益是调整的结果，而不是交易的，则不会显示 "产品" 和 "客户" 字段。
 
 ### <a name="transaction-history-summary"></a>事务历史记录摘要
 
-这会显示收益详细信息，包括产品销售收入、状态和估计付款月的收入来源。
+此视图显示收益详细信息，包括产品销售收入、状态和估计付款月的收入来源。
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="事务历史记录。":::
 
@@ -98,7 +98,7 @@ ms.locfileid: "105549237"
 
 下表显示了估计的付款月示例。
 
-| 月份 | 金额 |
+| Month | 金额 |
 | ------ | :-----------: |
 |  09月2020 |  $7273.99   |
 |  Oct-2020 | $8692.30  |
@@ -116,7 +116,7 @@ ms.locfileid: "105549237"
 - 你的税务模板必须是最新的
 - 你的收入必须达到或超过收视指南中定义的最小收入阈值。
 - 保持期付出：如果在 "配置文件分配" 页上选择 "保留我的付款" 选项。
-- 支出检测不可用：付款或/和税配置文件未完成。
+- 支出检测不可用：付款或/和税务配置文件未完成。
 
 ### <a name="transaction-history-download"></a>事务历史记录下载
 

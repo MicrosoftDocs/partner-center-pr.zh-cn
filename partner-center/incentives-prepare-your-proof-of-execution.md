@@ -8,20 +8,16 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: d0e5dca008f73a13fb25e9322c492a053037e633
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714381"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179439"
 ---
 # <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>创建和提交 (PoE 的奖励证明的文档) 
 
-**适用对象：**
-
-- 合作伙伴中心
-
-**相应的角色：**
+**相应的角色**
 
 - 奖励管理员
 
@@ -39,7 +35,7 @@ ms.locfileid: "90714381"
 
 5. 在 " **执行证明** " 列中，选择 " **添加 PoE**"。
 
-6. 在 " **新的执行证明" 页**上，输入必填字段。
+6. 在 " **新的执行证明" 页** 上，输入必填字段。
 
    - **名称**  合作声明的友好名称。
    - **日期**  执行日期。 此日期必须介于市场活动开始日期和市场活动结束日期之间。
@@ -81,6 +77,6 @@ ms.locfileid: "90714381"
    - 已批准
    - 已拒绝
 
-## <a name="next-steps"></a>后续步骤：
+## <a name="next-steps"></a>后续步骤
 
 - [即刻体验奖励](incentives-get-started-intro.md)

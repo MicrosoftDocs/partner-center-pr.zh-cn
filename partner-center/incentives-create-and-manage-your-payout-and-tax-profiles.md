@@ -8,17 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5079649746d673ea4dee40264afe4ea61671a9a2
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756596"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179524"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作伙伴中心创建和管理激励支出和税务配置文件
 
-
-**相应的角色：**
+**相应的角色**
 
 - 奖励管理员
 - 帐户管理员
@@ -114,11 +113,11 @@ ms.locfileid: "101756596"
     **银行帐户位置：** 公司银行所在的国家/地区。
     **付款方式：** 合作伙伴中心的首选付款方式是电子银行传输。
 
-2. 选择“**下一页**”。
+2. 选择“**下一步**”。
 
 3. 在 " **银行帐户** " 页上，输入你的信息。 此页上显示的字段将因国家/地区而异。 
 
-4. 选择“**下一页**”。
+4. 选择“**下一步**”。
 
 5. 在 " **受益人** " 页上，输入适当的信息。 受益人是公司中的人员如果需要讨论你的帐户，则会联系到银行。
 
@@ -145,7 +144,7 @@ ms.locfileid: "101756596"
    - 如果你的公司仅合并到美国中，或者如果此配置文件适用于个人，请选择左侧的选项。
    - 如果你的公司在美国外合并，则选择右侧的选项，然后从列表中选择你所在的国家/地区。
 
-3. 选择“**下一页**”。 
+3. 选择“**下一步**”。 
 
 4. 在 " **税状态** " 页上，输入所需信息，然后选择 " **下一步**"。 此页上的字段将因国家/地区而异。 详细信息。 
 

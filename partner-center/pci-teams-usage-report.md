@@ -8,20 +8,21 @@ description: 了解你的工作良好，以及你可以在哪些方面提高你�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146586"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086713"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的团队使用情况报表
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
 "团队使用情况" 报表显示与你为客户销售或管理的团队工作负荷相关的指标。 你可以从 "团队使用情况" 报表查看以下部分。
 
@@ -51,19 +52,19 @@ ms.locfileid: "98146586"
 
 ## <a name="conversations-trend"></a>会话趋势
 
-会话趋势描述了团队会议、呼叫和电话系统的每月趋势以及平均会议持续时间（分钟）。
+"会话趋势" 报表显示团队会议、呼叫和电话系统的月趋势以及平均会议持续时间（分钟）。
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="团队使用情况对话趋势":::
 
 ## <a name="teams-usage-by-workloads"></a>工作负荷的团队使用情况
 
-工作负荷的团队使用情况描述按工作负荷拆分的团队的桌面、移动和 web 用户的月度拆分。
+工作负荷的团队使用情况报表显示按工作负荷拆分的团队的桌面、移动和 web 用户的月度拆分。
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="工作负荷的团队使用情况":::
 
 ## <a name="top-customers-by-usage"></a>使用排名靠前的客户
 
-使用排名靠前的客户描述了在团队会议、呼叫和电话系统以及第三方应用方面使用顶级客户的情况。
+"使用情况排名靠前的客户" 报表显示团队会议、呼叫和电话系统和第三方应用的排名靠前的客户的使用情况。
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="使用排名靠前的客户":::
 

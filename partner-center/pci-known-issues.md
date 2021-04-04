@@ -9,20 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182318"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086866"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>合作伙伴见解-常见问题
 
 **相应的角色**
+
 - 报表查看器
 - 主管人员报表查看器
 
-这与查看或呈现与见解关联的报告的任何已知问题相关。
+本文介绍查看或呈现与见解关联的报表的已知问题。
 
 问： **我在合作伙伴中心帐户中看不到 "Insights 中心") 。我该怎么办？**
 

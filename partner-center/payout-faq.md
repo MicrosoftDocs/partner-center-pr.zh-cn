@@ -1,28 +1,28 @@
 ---
 title: 付款资料和税务资料常见问题解答
 description: 获取有关合作伙伴中心的付款和税务详细信息的常见问题的解答。 包括有关收入为何与预期不同的解答。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247653"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087036"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>有关付款和税款的常见问题
 
-**适当的角色**：
+**相应的角色**
 
 - 帐户管理员
 - 全局管理员
 - 奖励管理员
 
-本文解答了有关合作伙伴中心的付款和税务详细信息的常见问题。所涉及的主题包括付款时间、检查收入资格以及正确设置支出和税务配置文件的重要性。
+本文解答了有关合作伙伴中心的付款和税务详细信息的常见问题。 涉及的主题包括付款时间、检查收入资格以及正确设置支出和税务配置文件的重要性。
 
 ## <a name="profile-management"></a>配置文件管理
 
@@ -40,9 +40,9 @@ ms.locfileid: "102247653"
 
 这可能是因为你没有适当的权限，或者你使用不具有这些权限的帐户登录。 例如，只有 MPN 位置的激励管理员可以创建或管理支出和税务配置文件。 请与你的组织管理员联系，以管理银行和税务的权限。
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>我只能用我的 @onmicrosoft.com 域登录。 应采取何种操作？
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>我只能用我的 @onmicrosoft.com 域登录。   应采取何种操作？
 
-请联系你的帐户管理员，将其他域添加到 AAD 帐户。
+请联系你的帐户管理员，将更多域添加到 AAD 帐户。
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>我的组织正在参与多个计划。 我是否需要多次提供我的付款和税务配置文件？
 
@@ -61,7 +61,7 @@ ms.locfileid: "102247653"
 
 公司负责确保激励管理员的角色（具有编辑此信息的权限）仅提供给相应的员工。
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>税配置文件已过期。 如何修复此问题？
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>税配置文件已过期。 如何实现修复更新？
 
 如果税务模板已过期或即将过期，则意味着你向 Microsoft 提供的税务格式需要更新。 使用以下步骤更新你的税务配置文件：
 
@@ -83,7 +83,7 @@ ms.locfileid: "102247653"
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>为什么收入金额不同于我的预期？
 
 - 如果订单已部分支付给客户，则您的收入金额将基于扣除费用和相应税款后的部分支付金额。
-- 按国家/地区检查减税责任。 在税款由 Microsoft 负责的国家/地区，Microsoft 将从发布者收入中收集并扣除税款。 对账单中显示的交易金额为税后金额。 请参阅[税项详细信息](tax-details-marketplace.md)。
+- 按国家/地区检查减税责任。 在税务由 Microsoft 负责的国家/地区，Microsoft 将从出版商收益中收集并 deducts 税款。 对账单中显示的交易金额为税后金额。 请参阅[税项详细信息](tax-details-marketplace.md)。
 - SaaS 和 IaaS 产品/服务的折扣率为10%，而不是标准20%，而收入率为90%。 此促销在 2021 年 6 月 30 日之前有效。
 
 **进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出策略详细信息](payout-policy-details.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)、 [付费](marketplace-get-paid.md)、 [税务详细信息](tax-details-marketplace.md)、额外 [帐单](payout-statement.md)
@@ -113,7 +113,7 @@ ms.locfileid: "102247653"
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>如何实现将我的帐户设置为不接收支付？
-你可以在费用 [配置文件](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)中保留付款;只需选中 " **保存**"。 在你发布保留期之前，Microsoft 会向你收取费用。
+您可以在费用 [配置文件](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)中保存付款。 要执行此操作，请选中 " **保留** "，Microsoft 将在你释放保留期之前为你支付款项。
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>为什么我收到的货币与购买货币不同？
 
@@ -121,7 +121,7 @@ ms.locfileid: "102247653"
 
 #### <a name="how-do-i-reconcile-adjustments"></a>如何对调整进行对帐？
 
-付款调整是用于容纳补偿调整（例如系统问题）的付款更正。 在付款对账单中，原因代码会指定调整原因。 它们不用于直接与各个交易进行对帐。
+付款调整是用于容纳补偿调整（例如系统问题）的付款更正。 在支出语句中，ReasonCode 指定调整的原因。 这并不是要直接与单独的事务进行协调。
 
 **进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出详细信息](payout-policy-details.md)、 [税务详细信息](tax-details-marketplace.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ ms.locfileid: "102247653"
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>如何查找当前的代理费和付款比率？
 
-- 检查商业市场发布者协议。 标准代理费为 20%。 SaaS Co-Sell 符合条件的事务的折扣费用为10%。 检查是否有任何促销代理费的公告。
+- 检查商业市场发布者协议。 标准代理费为 20%。 SaaS 共同销售符合条件的交易的折扣费用为10%。 检查是否有任何促销代理费的公告。
 - 在您的费用声明中，收益率指定给定交易的实际付出费率。
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>在收入出现在我的对账单上后，多长时间可以收到 Microsoft 的付款？
