@@ -4,48 +4,48 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解独立软件供应商如何 (ISV) 使特定的产品/服务具有排他性并仅适用于特定的 CSP 合作伙伴。
+description: 了解独立软件供应商如何 (Isv) 使特定的产品/服务具有排他性并仅适用于特定的 CSP 合作伙伴。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000111"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179456"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a><span data-ttu-id="e5ae2-103">独立软件供应商的市场专供产品/服务</span><span class="sxs-lookup"><span data-stu-id="e5ae2-103">Marketplace exclusive offers from Independent Software Vendors</span></span>
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a><span data-ttu-id="3f9ca-103">独立软件供应商的市场专供产品/服务</span><span class="sxs-lookup"><span data-stu-id="3f9ca-103">Marketplace exclusive offers from Independent Software Vendors</span></span>
 
-<span data-ttu-id="e5ae2-104">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="e5ae2-104">**Appropriate roles**</span></span>
+<span data-ttu-id="3f9ca-104">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="3f9ca-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="e5ae2-105">全局管理员</span><span class="sxs-lookup"><span data-stu-id="e5ae2-105">Global admin</span></span>
-- <span data-ttu-id="e5ae2-106">用户管理员</span><span class="sxs-lookup"><span data-stu-id="e5ae2-106">User admin</span></span>
-- <span data-ttu-id="e5ae2-107">管理员代理</span><span class="sxs-lookup"><span data-stu-id="e5ae2-107">Admin agent</span></span>
-- <span data-ttu-id="e5ae2-108">销售代理</span><span class="sxs-lookup"><span data-stu-id="e5ae2-108">Sales agent</span></span>
+- <span data-ttu-id="3f9ca-105">全局管理员</span><span class="sxs-lookup"><span data-stu-id="3f9ca-105">Global admin</span></span>
+- <span data-ttu-id="3f9ca-106">“用户管理”管理员</span><span class="sxs-lookup"><span data-stu-id="3f9ca-106">User management admin</span></span>
+- <span data-ttu-id="3f9ca-107">管理员代理</span><span class="sxs-lookup"><span data-stu-id="3f9ca-107">Admin agent</span></span>
+- <span data-ttu-id="3f9ca-108">销售代理</span><span class="sxs-lookup"><span data-stu-id="3f9ca-108">Sales agent</span></span>
 
-<span data-ttu-id="e5ae2-109">独立软件供应商 (ISV) 可以选择提供仅适用于特定 CSP 合作伙伴的专用产品/服务。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-109">An Independent Software Vendor (ISV) has the option to make exclusive offers that are only available to certain CSP partners.</span></span>
+<span data-ttu-id="3f9ca-109">独立软件供应商 (ISV) 可以提供仅适用于特定 CSP 合作伙伴的专用产品/服务。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-109">An Independent Software Vendor (ISV) can make exclusive offers that are only available to certain CSP partners.</span></span>
 
-<span data-ttu-id="e5ae2-110">CSP 合作伙伴可以在合作伙伴中心商用 marketplace 中查看所有 ISV 产品/服务。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-110">CSP partners can view all ISV offers in the Partner Center commercial marketplace.</span></span> <span data-ttu-id="e5ae2-111">但标记为 **独占**的产品/服务只能由 ISV 选择的特定合作伙伴购买。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-111">Offers marked **Exclusive**, however, can only be purchased by specific partners selected by the ISV.</span></span> <span data-ttu-id="e5ae2-112">如果产品/服务未标记为 " **专用**"，则所有合作伙伴都可购买。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-112">If an offer is not marked **Exclusive**, all partners can purchase it.</span></span>
+<span data-ttu-id="3f9ca-110">CSP 合作伙伴可以在合作伙伴中心商用 marketplace 中查看所有 ISV 产品/服务。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-110">CSP partners can view all ISV offers in the Partner Center commercial marketplace.</span></span> <span data-ttu-id="3f9ca-111">但标记为 **独占** 的产品/服务只能由 ISV 选择的特定合作伙伴购买。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-111">Offers marked **Exclusive**, however, can only be purchased by specific partners selected by the ISV.</span></span> <span data-ttu-id="3f9ca-112">如果产品/服务未标记为 " **专用**"，则所有合作伙伴都可购买。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-112">If an offer is not marked **Exclusive**, all partners can purchase it.</span></span>
 
-<span data-ttu-id="e5ae2-113">ISV 标识的特定 CSP 合作伙伴可以：</span><span class="sxs-lookup"><span data-stu-id="e5ae2-113">Specific CSP partners identified by an ISV can:</span></span>
+<span data-ttu-id="3f9ca-113">ISV 标识的特定 CSP 合作伙伴可以：</span><span class="sxs-lookup"><span data-stu-id="3f9ca-113">Specific CSP partners identified by an ISV can:</span></span>
 
-- <span data-ttu-id="e5ae2-114">通过合作伙伴中心商业应用商店购买该 ISV 提供的专用产品/服务</span><span class="sxs-lookup"><span data-stu-id="e5ae2-114">Purchase exclusive offers from that ISV through the Partner Center commercial marketplace</span></span>
-- <span data-ttu-id="e5ae2-115">导出价目表</span><span class="sxs-lookup"><span data-stu-id="e5ae2-115">Export price list</span></span>
+- <span data-ttu-id="3f9ca-114">通过合作伙伴中心商业应用商店购买该 ISV 提供的专用产品/服务</span><span class="sxs-lookup"><span data-stu-id="3f9ca-114">Purchase exclusive offers from that ISV through the Partner Center commercial marketplace</span></span>
+- <span data-ttu-id="3f9ca-115">导出价目表</span><span class="sxs-lookup"><span data-stu-id="3f9ca-115">Export price list</span></span>
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="e5ae2-116">如何获取对专用产品/服务的访问权限？</span><span class="sxs-lookup"><span data-stu-id="e5ae2-116">How do you gain access to exclusive offers?</span></span>
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="3f9ca-116">如何获取对专用产品/服务的访问权限？</span><span class="sxs-lookup"><span data-stu-id="3f9ca-116">How do you gain access to exclusive offers?</span></span>
 
-<span data-ttu-id="e5ae2-117">当 ISV 在 Marketplace 发布产品/服务时，他们有机会指示可以购买的产品/服务。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-117">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span>
+<span data-ttu-id="3f9ca-117">当 ISV 在 Marketplace 发布产品/服务时，他们有机会指示可以购买的产品/服务。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-117">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span>
 
-<span data-ttu-id="e5ae2-118">其选项为：</span><span class="sxs-lookup"><span data-stu-id="e5ae2-118">Their options are:</span></span>
+<span data-ttu-id="3f9ca-118">其选项为：</span><span class="sxs-lookup"><span data-stu-id="3f9ca-118">Their options are:</span></span>
 
-- <span data-ttu-id="e5ae2-119">所有 CSP 合作伙伴都可以购买</span><span class="sxs-lookup"><span data-stu-id="e5ae2-119">All CSP partners can purchase</span></span>
-- <span data-ttu-id="e5ae2-120">确定哪些合作伙伴可以购买</span><span class="sxs-lookup"><span data-stu-id="e5ae2-120">Determine which partners can purchase</span></span>
-- <span data-ttu-id="e5ae2-121">不可用于 CSP 合作伙伴</span><span class="sxs-lookup"><span data-stu-id="e5ae2-121">Not available to CSP partners</span></span>
+- <span data-ttu-id="3f9ca-119">所有 CSP 合作伙伴都可以购买</span><span class="sxs-lookup"><span data-stu-id="3f9ca-119">All CSP partners can purchase</span></span>
+- <span data-ttu-id="3f9ca-120">确定哪些合作伙伴可以购买</span><span class="sxs-lookup"><span data-stu-id="3f9ca-120">Determine which partners can purchase</span></span>
+- <span data-ttu-id="3f9ca-121">不可用于 CSP 合作伙伴</span><span class="sxs-lookup"><span data-stu-id="3f9ca-121">Not available to CSP partners</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="e5ae2-122">后续步骤</span><span class="sxs-lookup"><span data-stu-id="e5ae2-122">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="3f9ca-122">后续步骤</span><span class="sxs-lookup"><span data-stu-id="3f9ca-122">Next steps</span></span>
 
-- <span data-ttu-id="e5ae2-123">若要了解有关商业应用商店中的 ISV 体验的详细信息，请参阅 [云解决方案提供商](/azure/marketplace/cloud-solution-providers)。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-123">To learn more about the ISV experience in the commercial marketplace, read [Cloud Solution Providers](/azure/marketplace/cloud-solution-providers).</span></span>
+- <span data-ttu-id="3f9ca-123">若要了解有关商业应用商店中的 ISV 体验的详细信息，请参阅 [云解决方案提供商](/azure/marketplace/cloud-solution-providers)。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-123">To learn more about the ISV experience in the commercial marketplace, read [Cloud Solution Providers](/azure/marketplace/cloud-solution-providers).</span></span>
 
-- <span data-ttu-id="e5ae2-124">有关商业应用商店的详细信息，请阅读 [云解决方案提供商的商业市场概述](csp-commercial-marketplace-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="e5ae2-124">For more information on the commercial marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
+- <span data-ttu-id="3f9ca-124">有关商业应用商店的详细信息，请阅读 [云解决方案提供商的商业市场概述](csp-commercial-marketplace-overview.md)。</span><span class="sxs-lookup"><span data-stu-id="3f9ca-124">For more information on the commercial marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>
