@@ -9,26 +9,27 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220325"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086186"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中提供的产品订阅报表
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
-"产品订阅" 报表显示已销售的或为客户管理的云订阅的分析。 这是特定于产品的报表，其中包括与云产品（如 Office 365、Azure、Dynamics 等）关联的订阅的性能。
+"产品订阅" 报表显示已销售的或为客户管理的云订阅的分析。 这是特定于产品的报表，包括与云产品（如 Office 365、Azure、Dynamics 等）相关联的订阅的性能。
 
 您可以从 "产品订阅" 报表中查看以下部分。
 
-- “摘要”
+- 总结
 - 订阅的地理分布
 - 订阅添加/改动趋势
 - 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的订阅分发
@@ -38,13 +39,13 @@ ms.locfileid: "89220325"
  > [!NOTE]
  > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
 
-## <a name="summary"></a>“摘要”
+## <a name="summary"></a>总结
 
 "摘要" 部分显示关键绩效指标的快照视图， (Kpi 与为客户销售或管理的订阅相关的) 。  
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="订阅报告摘要":::
 
-有关摘要的每个部分的详细信息，请参阅下文。
+有关摘要的每个部分的详细信息，请参阅以下内容：
 
 - 订阅：
   - 你销售或管理的云产品订阅的当前计数。
@@ -70,7 +71,7 @@ ms.locfileid: "89220325"
 
 ## <a name="geographical-spread-of-subscriptions"></a>订阅的地理分布
 
-" **按地理位置** 划分的订阅" 视图显示按客户市场列出的订阅总数的地理分布。 订阅总数包括销售的订阅和活动订阅。
+**按地理位置** 排列的订阅显示了按客户市场划分的所有订阅的地理分布。 订阅总数包括销售的订阅和活动订阅。
 
 " **国家/地区/区域数量** " 表显示了订阅的总国家/地区，以及每个国家/地区的总和活动订阅。
 
@@ -82,19 +83,19 @@ ms.locfileid: "89220325"
 
 此视图显示订阅的趋势。 这些将分解为所选日期范围 (新的、现有的改动) 的不同类别。 X 轴表示所选日期范围内的月份。 Y 轴表示订阅计数。 改动订阅在 Y 轴的负刻度上表示。 
 
-堆积柱形图显示了该月的新的、现有的和改动的订阅的细分。 您可以重新生成与特定堆栈项分离的柱形图。 为此，请选择图例中的特定项。 您还可以利用图表顶部的滑块来缩小特定时间段。
+堆积柱形图显示了该月的新的、现有的和改动的订阅的细分。 您可以重新生成与特定堆栈项分离的柱形图。 为此，请选择图例中的特定项。 您还可以使用图表顶部的滑块来缩小特定时间段。
 
 :::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="订阅添加和 churns":::
 
 ## <a name="subscription-distribution"></a>订阅分发
 
-此视图按 MPN 位置、客户细分市场、销售渠道/Azure 定价模型和归属类型 (（例如 DPOR、) 等）来提供当前订阅的细分。 单击相应的选项卡，按这些类别查看细目。 若要生成包含特定项类别细目的饼图，请在图例中选择这些项目类别。
+此视图按 MPN 位置、客户细分市场、销售渠道/Azure 定价模型以及归属类型 (（例如，DPOR、一起和其他) ）来细分当前订阅。 选择相应的选项卡，按这些类别查看细目。 若要生成包含特定项类别细目的饼图，请在图例中选择这些项目类别。
 
 :::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="订阅分发":::
 
 ## <a name="subscription-state-distribution"></a>订阅状态分发
 
-此视图按订阅状态显示当前客户订阅的分布情况。 这包括以下订阅状态： "**活动**"、"**已禁用**"、"**取消预配**" **、"已****打开**"、"**已关闭**" 和**其他**。
+此视图按订阅状态显示当前客户订阅的分布情况。 这包括以下订阅状态： "**活动**"、"**已禁用**"、"**取消预配**" **、"已****打开**"、"**已关闭**" 和 **其他**。
 
 :::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="订阅状态分发":::
 

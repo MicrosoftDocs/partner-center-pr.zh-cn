@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712896"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133023"
 ---
 # <a name="technical-support-benefits"></a>技术支持权益
 
 **相应的角色**
--   全局管理员 
--   MPN 合作伙伴管理员 
--   管理员代理 
+
+- 全局管理员
+- MPN 合作伙伴管理员
+- 管理员代理
 
 ## <a name="overview"></a>概述
 
@@ -38,11 +39,11 @@ ms.locfileid: "104712896"
 2. 展开左侧导航菜单中的 "权益"，然后选择 " **技术优势**"。 此时会显示 "技术优势" 页，其中列出了金牌、银或 Microsoft Action Pack 成员资格提供的技术支持权益。 
 
     > [!NOTE]
-    >如果你没有活动的成员资格，你将看到消息 "似乎你还没有任何权益"。 如果你的公司具有活动的成员资格，但你看不到它们，则可能是使用错误的帐户登录的。 若要检查你的帐户，请单击页面右上方的 " **帐户** " 图标，然后单击 " (如果需要) ，再单击" **以其他帐户登录** "。
+    >如果你没有活动的成员资格，你将看到消息 "似乎你还没有任何权益"。 如果你的公司具有活动的成员资格，但你看不到它们，则可能是使用错误的帐户登录的。 若要检查你的帐户，请选择页面右上方的 " **帐户** " 图标，然后选择 " **以其他帐户登录** " (如果需要) 。
 
 3. 若要开始使用 Microsoft 产品支持或签名产品支持，您需要激活权益。 成功激活后将显示访问 ID 和合同 ID。 
 
-    -   若要激活权益，请单击 "激活" 按钮。 用于激活的用户帐户需要 "全局管理员" 或 "MPN" 伙伴管理员角色。 需要几天时间来处理激活请求。 
+    -   若要激活权益，请选择 "激活" 按钮。 用于激活的用户帐户需要 "全局管理员" 或 "MPN" 伙伴管理员角色。 需要几天时间来处理激活请求。 
 
     - 当显示访问 ID 和合同 ID 时，可以使用 Microsoft 产品支持和签名产品支持 (金牌和银牌成员) 。 
 
@@ -73,7 +74,7 @@ ms.locfileid: "104712896"
 
 如果用户帐户具有访问 ID 和合同 ID，则 (AAD 或 MSA) 的任何用户帐户都可以使用适用于本地产品的技术支持
 
-单击 " [支持企业](https://support.serviceshub.microsoft.com/supportforbusiness/create) "，为本地产品创建支持请求。
+选择 " [支持企业](https://support.serviceshub.microsoft.com/supportforbusiness/create) "，为本地产品创建支持请求。
 
 ## <a name="signature-cloud-support-cloud-only"></a>仅限 cloud (的签名云支持) 
 
@@ -83,13 +84,13 @@ ms.locfileid: "104712896"
 
 创建 Azure 请求的 CSP 合作伙伴可以使用 "云解决方案提供商" 支持计划，而无需添加支持合同。
 
-具有 **管理员代理** 角色的用户可在左侧导航菜单中选择 "CSP" 下的 " [客户](https://partner.microsoft.com/commerce/customers/list) "，选择 " **服务管理**"，然后单击 " **新建请求**"。  当你选择相关工作负荷时，将打开特定于工作负荷的门户，并添加支持合同并创建请求。
+具有 **管理员代理** 角色的用户可在左侧导航菜单中选择 "CSP" 下的 " [客户](https://partner.microsoft.com/commerce/customers/list) "，选择 " **服务管理**"，然后选择 " **新建请求**"。  当你选择相关工作负荷时，将打开特定于工作负荷的门户，并添加支持合同并创建请求。
 
 ## <a name="partner-support-plans"></a>合作伙伴支持计划
 
 你可以从 Microsoft 获得付费支持，其中包括技术支持和一系列额外服务选项。 
 
-对于合作伙伴特定计划，可以 [比较合作伙伴支持计划](https://partner.microsoft.com/support/partnersupport) 或参阅下面的内容：
+对于合作伙伴特定的计划，可以 [比较合作伙伴支持计划](https://partner.microsoft.com/support/partnersupport) 或参阅下面的内容：
 
 - [合作伙伴顶级支持](https://partner.microsoft.com/support/microsoft-services-premier-support) -Microsoft 提供的最高级别技术支持
 - [对合作伙伴的高级支持](https://partner.microsoft.com/support/advanced-cloud-support) -仅限云产品

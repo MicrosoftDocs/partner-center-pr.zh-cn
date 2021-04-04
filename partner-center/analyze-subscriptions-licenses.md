@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474081"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103785"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析订阅和许可证以帮助你推动业务决策和新目标
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474081"
 数据推动业务决策。 使用 **订阅和许可证分析** 页面中的指标来确定你的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。
 
 **CSP TTM 年收入 (usd)**：此指标表示 (USD 的累计 CSP，USD 的收入) ，可用于合作伙伴位置帐户的 TTM (，以及与此 CSP 帐户关联) PGA (的合作伙伴全局帐户。 如果具有其他 PGA 的其他 CSP 帐户，则必须登录到每个帐户，才能查看相应的聚合 TTM 收入。  单击 "下载详细信息" 链接以获取 TTM 收入的细分 (USD) 每个 MPN ID。
+
+>[!NOTE]
+>商业上的本地货币 (传统商业 FX) 在美国的 +/-5% 范围内进行管理。 旧的商业汇率 (FX) 不同于 Azure 在新式商务体验中使用的计费 FX 费率。 新式商务计费机制基于 Microsoft P&L 费率， (从国库券的数据源) 的 Reuters FX 费率。 传统的 Commerce FX 费率是 Microsoft 机密。
+
 
 报表的其余部分可基于以下产品进行透视：
 
@@ -82,6 +86,8 @@ ms.locfileid: "96474081"
 **30 天内结束的试用版订阅**  
 
  - 已经开始、结束日期在 30 天内并且订阅没有关联付费开始日期的试用版的列表  
+
+
 
 ## <a name="next-steps"></a>后续步骤
 

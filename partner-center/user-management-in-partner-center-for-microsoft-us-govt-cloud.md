@@ -1,6 +1,6 @@
 ---
 title: 用户和许可证管理
-titleSuffix: Microsoft Cloud for US Government - Partner Center
+titleSuffix: Microsoft Government Cloud - Partner Center
 description: 了解如何以及在何处管理美国政府合作伙伴、客户和许可证的合作伙伴 Microsoft 云中心，以及密码重置。
 ms.topic: article
 ms.date: 03/15/2019
@@ -10,14 +10,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2f1a4ce2ed1ea4ed21de68454a123458120edfd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 0fce25dc07f5cd07138cde2619cdf0989cd17251
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712930"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086560"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
+# <a name="user-and-license-management-in-partner-center-for-government-microsoft-cloud"></a>政府 Microsoft 云合作伙伴中心的用户和许可证管理
 
 **适用于**
 
@@ -29,9 +29,9 @@ ms.locfileid: "104712930"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在美国政府 Microsoft 云的 Azure 门户中管理用户
 
-如果你登录到美国政府 Microsoft 云合作伙伴中心，可以打开美国政府 Microsoft 云的 Azure 门户而无需再次登录。 但是，如果需要直接登录到 Microsoft Cloud for US Government 的 Azure 门户，请转到 (https://portal.azure.us/)，然后使用 Microsoft Cloud for US Government 的 Azure AD 租户的全球管理员凭凭证据登录。
+如果你已登录到用于美国政府的 Microsoft 云合作伙伴中心，则可以打开 Microsoft 政府云 Azure 门户，而无需再次登录。 但是，如果你需要直接登录 Microsoft 政府云的 Azure 门户，请参阅 (并使用适用于 https://portal.azure.us/) Microsoft 政府云的 Azure AD 租户的全局管理员凭据进行登录。
 
-在你已成功登录美国政府 Microsoft 云的 Azure 门户，打开 Azure Active Directory (Azure AD) 概述页，然后按照这些主题中的说明操作：
+成功登录 Microsoft 政府云的 Azure 门户后，打开 Azure Active Directory (Azure AD) 概述 "页，然后按照以下主题中的说明进行操作：
 
 > [!NOTE]  
 > 选择以下链接将转到其他网站。 
@@ -44,6 +44,6 @@ ms.locfileid: "104712930"
 
 **相关主题**
 
--  [**Microsoft Cloud for US Government 合作伙伴中心**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft 政府云合作伙伴中心**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**注册美国政府 Microsoft 云的云解决方案提供商计划**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**注册 Microsoft 政府云的云解决方案提供商计划**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

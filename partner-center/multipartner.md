@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322111"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132258"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>针对想要使用多个合作伙伴的客户的多合作伙伴支持
 
 **适用于**
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 销售代理
 
 如果客户想要使用多个合作伙伴，则合作伙伴中心的多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
@@ -46,4 +45,4 @@ Azure CSP 租户可包含来自不同 CSP 合作伙伴的其他 Azure 订阅。
 - 更改订阅的记录合作伙伴
 
 > [!IMPORTANT]  
-> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 此限制仅适用于用于执行云解决方案提供商交易的租户。 将非 CSP 租户用于公司使用情况的 CSP 合作伙伴可以从其他 CSP 合作伙伴那里购买联机服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。
+> 目前，CSP 计划中的合作伙伴无法向 CSP 计划中其他合作伙伴经销在线服务。 此限制仅适用于用于执行云解决方案提供商交易的租户。 将非云解决方案提供商租户用于其公司用途的云解决方案提供商合作伙伴可从另一个云解决方案提供商合作伙伴那里购买联机服务。 Microsoft 持续评估所有计划的策略和功能。 有关功能发布或策略更改的任何新闻都将通过常见通讯渠道（包括[合作伙伴中心通告](announcements/index.md)）进行公布。

@@ -9,27 +9,27 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999291"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132343"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
 适用于：
 
-- 合作伙伴中心
-- Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft 政府云合作伙伴中心
 
 **相应的角色**
+
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - 计费管理员
 
-你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此， *我们强烈建议您设置防欺诈防护和检测风险缓解*措施。
+你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此， *我们强烈建议您设置防欺诈防护和检测风险缓解* 措施。
 
 若要避免和/或应对欺诈活动或滥用问题，请务必了解潜在风险并制定可以降低风险的策略和做法。
 

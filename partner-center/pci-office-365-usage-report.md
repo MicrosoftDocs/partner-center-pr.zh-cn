@@ -8,20 +8,21 @@ description: 了解你的工作情况，以及你为客户销售或管理的 Off
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146590"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086304"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Office 365 使用情况报告
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
 Office 365 使用情况报表为你为客户销售或管理的 Office 365 订阅提供使用情况数据。 可以从 Office 365 使用情况报表查看以下部分。
 

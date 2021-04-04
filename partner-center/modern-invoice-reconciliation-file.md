@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712250"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103768"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性采购对帐文件字段
 
@@ -40,7 +40,7 @@ ms.locfileid: "104712250"
 | SkuName | SKU 名称。 | *表-LRS* |
 | ProductName | 产品名称。 | *表* |
 | ChargeType | 费用或调整的 [类型](./recon-file-charge-types.md) 。 | *新建* |
-| UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *0.045* |
+| 单价 | 在购买时价格列表中发布的每个许可证的价格。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *0.045* |
 | 数量 | 许可证数量。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *1* |
 | 小计 | 税前总额。 小计应等于可计费的数量乘以有效单价。 | *0* |
 | TaxTotal | 税费。 基于市场的税务规则和特定情况。 | *0* |
@@ -51,8 +51,8 @@ ms.locfileid: "104712250"
 | PublisherId | 合作伙伴中心用来标识发布者的唯一标识符。 | *\N\N* |
 | SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 此列是与 OfferName 相同的字段。 | *Azure 计划* |
 | SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 不用于对帐。 请注意，此标识符不同于合作伙伴管理控制台上的订阅 ID。 | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | 合作伙伴中心收取订阅费用的日期。 如果使用年度计费条款和每月计费计划购买订阅，则在第一个对帐文件中，这是购买订阅的那一天。 从下一个对帐文件开始，将按30天递增。 | *9/1/2020* |
-| ChargeEndDate | 订阅的计费周期的结束日期。 如果使用年度计费条款和每月计费计划购买订阅，则在第一个对帐文件中，这是购买订阅后的30天。 从下一个对帐文件开始，将按30天递增。 | *2020/9/30* |
+| ChargeStartDate | 订阅的计费周期的开始日期。 | *9/1/2020* |
+| ChargeEndDate | 订阅的计费周期的结束日期。 | *2020/9/30* |
 | TermAndBillingCycle | 在购买时继续订阅的持续时间。 | *存储 (GB/月) 的数据* |
 | EffectiveUnitPrice | 计算计费周期成本的按比例分配的单位价格。 折扣、计费日的调整和其他因素确定了有效单位价格。 有关详细信息，请参阅 [有效单位价格计算](./effective-unit-price-calculation.md)。  | *0.03825* |
 | Unittype.pixel 度量 | 计量计量器的单位类型。 | *1 GB/月* |

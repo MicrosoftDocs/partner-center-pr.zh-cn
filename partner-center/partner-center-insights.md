@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490625"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086577"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
 **相应的角色**
+
 - 全局管理员
 - 帐户管理员
 - 主管人员报表查看器
@@ -26,7 +27,7 @@ ms.locfileid: "89490625"
 
 ## <a name="introduction"></a>简介
 
-Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络 (MPN) 程序注册的 Microsoft 商业合作伙伴提供的统一报表仪表板。 Insights 仪表板提供了360度的关键绩效指标视图 (KPI) 跨云产品（例如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
+Insights 仪表板是合作伙伴中心的统一报表仪表板，适用于在 Microsoft 合作伙伴网络 (MPN) 程序中注册的 Microsoft 商业合作伙伴。 Insights 仪表板提供了360度的关键绩效指标视图 (KPI) 跨云产品（例如 Office、Azure、Dynamics 和许可模式，如 CSP 和 EA）。 它公开了一组丰富的 KPI 报表，可帮助你为组织做出数据驱动的决策。 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>对见解仪表板的基于角色的访问控制
 
@@ -78,7 +79,7 @@ Insights 是在合作伙伴中心为在 Microsoft 合作伙伴网络 (MPN) 程�
 
 - 产品：组织销售/管理的所有 Microsoft 云产品列表，例如 O365、Azure、D365、EMS、Power BI 等。
 - 客户市场：客户所在国家/地区列表
-- 合作伙伴归属：你的客户订阅的关联类型（例如，记录的数字伙伴 (DPOR) 、委派的管理员权限 (将) 、合作伙伴管理链接 (PAL) 等。 
+- 合作伙伴归属：你的客户订阅的关联类型（例如，记录的数字伙伴 (DPOR) 、委派的管理员权限 (结合) 和合作伙伴管理链接 (PAL) 。 
 - 合作伙伴位置：组织的所有 MPN 位置的列表。
 - 销售渠道：你通过其购买/预配产品和服务的所有销售渠道/定价，即 CSP、EA、CSP 间接、直接、顾问、开放、其他
 - Customer segment：跨合作伙伴客户群的客户细分列表。

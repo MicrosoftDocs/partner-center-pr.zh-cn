@@ -8,21 +8,21 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 458f055dc55d6026ec042c4c40766635d229c08b
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082929"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132581"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>面向 MPN 合作伙伴的演示-Microsoft 365、Dynamics 365、团队等
 
-**适当的角色**：
+**相应的角色**
 
 - MPN 合作伙伴管理员
 - 帐户管理员
 
-Microsoft 合作伙伴网络为银、黄金和 Action Pack 合作伙伴提供多种演示。
+Microsoft 合作伙伴网络 (MPN) 为银、黄金和 Action Pack 合作伙伴提供多种演示。
 
 ## <a name="access-mpn-demos"></a>访问 MPN 演示
 

@@ -1,19 +1,19 @@
 ---
 title: 移动运营商计费-Microsoft Store
 description: Microsoft Store 提供移动运营商计费作为支持此功能的移动运营商支付方法。
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: windows 10, uwp, 移动运营商, 移动结算, 移动运营商结算
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335643"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178810"
 ---
 # <a name="mobile-operator-billing"></a>移动运营商结算
 
@@ -34,18 +34,20 @@ Microsoft Store 为运行 Windows 10 的设备、运行 Windows 10 移动版的�
 | 澳大利亚            | Optus                                                   |
 | 奥地利              | A1 Telekom，Hutchison 3G 奥地利，T-Mobile/远程  |
 | 比利时              | Base、Proximus                                          |
-| Canada               | Telus                                                   |
-| 捷克              | T-Mobile                                                |
+| 加拿大               | Telus                                                   |
+| 捷克              | T-Mobile、Vodafone、O2                                  |
 | 丹麦              | 3、TDC / YouSee、Telenor、Telia                         |
 | 芬兰              | DNA、Elisa                                              |
 | 法国               | 橙色                                                  |
 | 德国              | O2、Telekom Deutschland、Vodafone                       |
 | 匈牙利              | Telenor                                                 |
-| 意大利                | Tre、风                                               |
+| 意大利                | Tre、风、Vodafone                                     |
+| 韩国                | SK 电信                                              |
 | 马来西亚             | Digi                                                    |
-| 荷兰          | KPN / Telfort                                           |
+| 荷兰          | KPN/Telfort、Vodafone                                 |
 | 挪威               | Telenor/Talkmore、Telia/OneCall                     |
-| 波兰               | 橙色，播放                                            |
+| 波兰               | 橙色，播放，T-移动                                  |
+| 沙特阿拉伯         | STC                                                     |
 | 新加坡            | M1 受限，StarHub                                     |
 | 斯洛伐克             | Slovak Telekom                                          |
 | 南非         | Vodacom                                                 |
@@ -55,5 +57,5 @@ Microsoft Store 为运行 Windows 10 的设备、运行 Windows 10 移动版的�
 | 台湾               | FarEasTone                                              |
 | 土耳其               | Turkcell                                                |
 | 阿拉伯联合酋长国 | Etisalat                                                |
-| United States        | Sprint、Verizon                                         |
-| 英国       | 3 UK，EE，O2，Vodaphone                                 |
+| 美国        | Sprint、Verizon                                         |
+| 英国       | 3 UK，EE，O2，Vodafone                                 |

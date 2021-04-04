@@ -1,21 +1,22 @@
 ---
 title: 在合作伙伴中心付费
 description: 了解如何以 Microsoft 合作伙伴的形式接收收入付款，例如通过商业 marketplace 产品/服务、激励计划和云解决方案提供商计划。 包括支出策略、付出的支出状态和付出的支出。
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492443"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133074"
 ---
 # <a name="getting-paid-in-partner-center"></a>在合作伙伴中心付费
 
-**相应的角色：**
+**相应的角色**
 
 - 帐户管理员
 - 全局管理员
@@ -30,7 +31,7 @@ ms.locfileid: "97492443"
 - [支出策略](payout-policy-details.md) 显示包括支付计划和付款方式的费用支付政策。 策略还介绍了客户非付款过程。
 - [税收详细](tax-details-marketplace.md) 说明了在 Microsoft [发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)下价格选择和税务责任的税务注意事项。
 - **商店费用** 在发布者协议中正式定义。 商店费用适用于由商业应用商店收集的所有产品/服务（包括外接程序）。
-- 每月支付一次 **支付** (前提是已满足支付阈值) 。 我们通常会在该月的第15天的给定月份内发送任何付款。 支付费用通常需要3到10个额外的工作日内才能联系到你的帐户。 有关详细信息，请参阅[付款阈值、方法和期限](payment-thresholds-methods-timeframes.md)。
+- 每月支付一次 **支付** (前提是已满足支付阈值) 。 我们通常会在指定月份内按该月的第15天发送任何付款。 支付费用通常需要3到10个额外的工作日内才能联系到你的帐户。 有关详细信息，请参阅[付款阈值、方法和期限](payment-thresholds-methods-timeframes.md)。
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>获得付费之前的先决条件步骤
 
@@ -38,7 +39,7 @@ ms.locfileid: "97492443"
 
 ### <a name="payout-hold-status"></a>付款暂停状态
 
-默认情况下，我们将按如上所述按月发送付款。 不过，你可以选择将你的付款放在某个程序上，并且 Microsoft 不会向你的帐户发放你的付款。 如果选择将付款置于保持状态，我们将继续在 **付款** 页中记录任何收入。 但是，在删除暂停状态之前，我们不会向你的帐户发送任何付款。
+默认情况下，我们将按如上所述按月发送付款。 但是，你可以将付款用于程序保留，Microsoft 将不会向你的帐户发放你的付款。 如果选择将付款置于保持状态，我们将继续在 **付款** 页中记录任何收入。 但是，在删除暂停状态之前，我们不会向你的帐户发送任何付款。
 
 若要按保留付款，请选择右上角的 " **设置** " 齿轮图标，然后选择 " **帐户设置**"。 在左侧菜单中选择 " **支出和税金** "，然后在 " **支出和税务配置文件分配** " 部分中找到要为其保留付款的计划。 选中 " **保持我的付款** " 复选框，以保留此计划的付款。 你可以随时更改你的支出保留状态，但你的决定会影响下一次的月额度。 例如，如果要暂停四月付款，请确保在三月底之前将付款暂停状态设置为“打开”。
 
@@ -47,7 +48,7 @@ ms.locfileid: "97492443"
 >[!Note]
 > 付出的支出状态适用于每个节目，分别 (Microsoft Store、广告、Azure Marketplace 等) 上。 如果要对所有程序进行支付，请分别在每个节目上保存付款。
 
-## <a name="payout-statements"></a>付款对账单
+## <a name="payout-statements"></a>支出声明
 
 支出报表显示你在交易历史记录中的产品/服务和外接程序的销售收入。 你还可以查看付款详细信息，并以 tsv 或 csv 格式下载报表。 若 [要详细](payout-statement.md) 了解如何访问支出报表和交易记录和付款报表的详细信息，请参阅费用报表。 此外，还可以使用 [合作伙伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts) 来系统地拉取支出报表。
 

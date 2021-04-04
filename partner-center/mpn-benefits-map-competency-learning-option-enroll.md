@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756140"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133040"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>使用合作伙伴中心注册为 Microsoft 学习合作伙伴
 
 **相应的角色**
 
 - MPN 合作伙伴管理员
-- MPN 帐户管理员
+- 帐户管理员
 
 本文介绍了 Microsoft 合作伙伴网络中的合作伙伴可以在学习伙伴计划中注册的各种方式。
 
@@ -50,7 +50,7 @@ Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 
 
 Learning Action Pack 支持需要为课件 marketplace 提供培训服务、产品/服务或折扣的合作伙伴，并为帮助合作伙伴在各种 Microsoft 产品线中获得专家提供好处。
 
-非学习合作伙伴可以按全价购买课件，仅供内部培训。 如果你想要交付组织外的内容，则需要一个 Microsoft 认证培训师 (1 MCT) ，并且必须注册学习 Action Pack。
+非学习合作伙伴可以按全价购买课件，仅供内部培训。 如果你想要交付组织之外的内容，则需要一个 Microsoft 认证培训师 (一个 MCT) ，并且必须注册学习 Action Pack。
 
 到达所需的 Kpi 后，可以完成附加要求，并选择升级到银/金牌学习选项。
 
@@ -89,7 +89,7 @@ Learning Action Pack 支持需要为课件 marketplace 提供培训服务、产�
 
 ### <a name="q-do-i-need-to-submit-a-business-application-plan-in-partner-center-to-enroll-in-a-learning-option"></a>Q. 是否需要在合作伙伴中心提交业务应用程序计划以注册学习选项？
 
-否。 在合作伙伴中心，业务应用程序计划无需通过学习选项获得资格。 你确实需要满足注册第一年的学习 Kpi。
+不知道。 在合作伙伴中心，业务应用程序计划无需通过学习选项获得资格。 你确实需要满足注册第一年的学习 Kpi。
 
 ### <a name="q-if-i-am-a-net-new-partner-and-decide-to-buy-courseware-trainings-or-certifications-before-applying-for-the-learning-option-will-the-kpis-be-recognized-by-partner-center-automatically"></a>问：如果我是一家新的合作伙伴，并决定购买课件、培训或认证，然后再申请学习选项，则合作伙伴中心是否会自动识别这些 Kpi？
 
@@ -109,7 +109,7 @@ Learning Action Pack 支持需要为课件 marketplace 提供培训服务、产�
 
 KPI 报表每月的第几个月更新一次。 学习计划续订资格是根据你的周年纪念日期为在前12个月的性能活动中获得的 Kpi 进行度量。 例如，从2020年1月15日开始，将在年1月2019到12月2019的时间段内显示 KPI 数据。 如果发票日期为2020年1月，则相应的 Kpi 将从2019年2月15日开始可见。 **订单确认和合作伙伴报表将不被接受。** 仅接受实际发票。
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>Q. 为期一天的培训是否等同于1个 KPI？
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>Q. 为期一天的培训是否等同于一个 KPI？
 
 会议 KPI 与定型持续时间无关。 若要详细了解如何测量 Kpi，请查看 [学习合作伙伴注册指南](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)中的性能示例。
 

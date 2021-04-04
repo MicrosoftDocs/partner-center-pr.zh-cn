@@ -9,22 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
-ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
+ms.openlocfilehash: c266d3e271cd114bd771f17280e1390fb5f765d3
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97720826"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086492"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作伙伴管理中心正在向合作伙伴中心迁移
 
-**适用于**
-
-- 合作伙伴中心
-
 **相应的角色**
+
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 

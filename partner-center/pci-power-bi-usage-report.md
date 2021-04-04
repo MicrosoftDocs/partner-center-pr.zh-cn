@@ -8,20 +8,21 @@ description: 了解你的工作情况，以及你可以在哪些方面提高你�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146591"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086288"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Power BI 使用情况报告
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
 Power BI 使用情况报表为你为客户销售或管理的 Power BI 订阅提供使用情况数据。 可以从 Power BI 使用情况报表查看以下部分。
 
@@ -38,11 +39,11 @@ Power BI 使用情况报表为你为客户销售或管理的 Power BI 订阅提�
 
 "摘要" 部分提供了与你为客户销售或管理 Power BI 使用订阅相关的关键指标的快照视图。 
 
-- 可用席位数：在所选时间范围内销售的许可证总数。
+- 可用座位：在所选时间范围内销售的许可证总数。
 
    微图显示了所选日期范围内可用座位数的月月趋势。
 
-- 分配的席位数：在所选时间范围内分配的许可证总数。
+- 分配的座位：在所选时间范围内分配的许可证总数。
 
    微图显示所选日期范围内已分配座位数的月月趋势。
 

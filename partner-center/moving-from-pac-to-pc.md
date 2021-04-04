@@ -9,23 +9,20 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a7ed3ad04846b1e222d3827488a8ac188653cac
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 064235ebdfee1e85a95908cf7a03f8e6fc676b00
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869276"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132598"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>从合作伙伴管理员中心 (PAC) 迁移到合作伙伴中心
 
-**适用于**
-- 合作伙伴中心
-- 合作伙伴管理员中心
-
 **相应的角色**
+
 - 全局管理员
 
-合作伙伴中心正在发展成为可管理与 Microsoft 以及与客户的合作关系的单一位置。 在合作伙伴中心，你可以管理成员资格、客户引荐、奖励以及云解决方案提供商 (CSP) 计划的所有其他方面。你可在合作伙伴中心中执行以前在 PAC 中所做的大多数工作，但某些功能或操作的运作方式有所不同。
+合作伙伴中心正在发展成为可管理与 Microsoft 以及与客户的合作关系的单一位置。 在合作伙伴中心，你可以 (CSP) 管理成员身份、客户引用、奖励和云解决方案提供商计划的所有其他方面。 尽管某些功能或操作将采用不同的工作方式，但你可以在合作伙伴中心完成 PAC 中的大部分工作。
 
 
 |**操作**   |**PAC**   |**合作伙伴中心**   |

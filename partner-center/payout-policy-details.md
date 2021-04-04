@@ -1,22 +1,22 @@
 ---
 title: 付款计划和流程
 description: 了解付款和事务，例如适用于商业市场和其他交易的付款计划和 recoupment 过程。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756846"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086169"
 ---
 # <a name="payout-schedules-and-processes"></a>付款计划和流程
 
-**相应的角色：**
+**相应的角色**
 
 - 帐户管理员
 - 全局管理员
@@ -67,13 +67,13 @@ ms.locfileid: "101756846"
 
 ## <a name="process-for-customer-non-payment"></a>客户非付款过程
 
-在极少数情况下，Microsoft 无法收集客户对其商业市场购买的付款。 当客户无法根据其计费计划向 Microsoft 付款时，我们开始进行集合过程。 此过程大约需要四个月的时间，并涉及与 Microsoft 的持久通信。 如果此过程结束时未收到付款，则 Microsoft 会将资金作为 uncollectable 写出。
+在极少数情况下，Microsoft 无法收集客户对其商业市场购买的付款。 当客户无法根据其计费计划向 Microsoft 付款时，我们开始进行集合过程。 此过程大约需要四个月的时间，并涉及与 Microsoft 的持久通信。 如果此过程结束后未收到付款，则 Microsoft 会将资金作为 uncollectable 写出。
 
 根据此处所述的支出过程，Microsoft 可能已向发布者支付了资金， (你) 最终 uncollectable 的。 因此，我们有一个流程来协调这些金额。 为了确保你的 (已收到) 付款可能会对你发出警报，你将在客户处于收款过程中时收到通知，并且可能会写出采购。
 
 Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1) Microsoft 可以从未来的付款中减去未支付的金额;例如，如果付款中的 $1000 被视为 uncollectable 并写出，则将来的付款将被预扣到 $1000 恢复，或者 (2) Microsoft 可能会请求支付任何未收集金额的退款或发票出版商。
 
-下面是一个示例计划：
+下面的计划是一个示例：
 
 | 事件 | 估计日期 * | 合作伙伴可见性 |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>支付给支出帐户的付款天数
 
-通常，我们会在该月的第15天，在给定的月份中发送任何付款，但支付该费用需要额外的时间。 天数取决于我们为帐户使用的付款方式，如下所述。
+通常，我们会在该月的第15天，在给定的月份发送任何付款，但支付该费用需要另一段时间才能联系到你的帐户。 天数取决于我们为帐户使用的付款方式，如下所述。
 
 > [!NOTE]
 > 下面显示的日期大致为近似值;任何支付可能需要更多或更少的时间才能联系到你的帐户。

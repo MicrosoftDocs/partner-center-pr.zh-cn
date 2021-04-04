@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000071"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132649"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心迁移到合作伙伴中心 (PMC) 
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 
@@ -33,11 +33,11 @@ ms.locfileid: "91000071"
 
 迁移后，如果你发现错误的公司帐户被指定为法律企业，则可以更改该规定。
 
-1. 转到“合作伙伴配置文件”。****
+1. 转到“合作伙伴配置文件”。
 
 2. 请确保你想要指定为法律企业的位置位于你的位置列表中。 否则，请添加该位置。
 
-3. 选择“更新法定公司配置文件”。****
+3. 选择“更新法定公司配置文件”。
 
 4. 选择公司和区域，然后保存。
 
@@ -80,7 +80,7 @@ ms.locfileid: "91000071"
 
 如果要移动的帐户所在的国家或地区与现有帐户相同，你可以决定是要使用该地址，还是要添加另一地址。 如果你决定使用另一地址，则需对该地址进行验证。 如果你要使用同一地址，则系统会使用现有地址和主要联系人。
 
-验证/编辑此屏幕上的信息以后，请单击“提交”，系统就会合并你的帐户。
+验证/编辑此屏幕上的信息后，选择 " **提交** "，你的帐户将合并。
 
 ## <a name="partner-profile"></a>合作伙伴配置文件
 

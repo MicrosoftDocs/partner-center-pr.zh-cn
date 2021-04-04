@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92333809"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132309"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analytics 报表显示公司中的学员的状态
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn 分析报告显示贵公司学员的状态
 
 **相应的角色**
--   全局管理员
--   MPN 合作伙伴管理员
+
+- 全局管理员
+- MPN 合作伙伴管理员
 
 Microsoft Learn 报表提供了有关公司中的学员的信息，其中包括他们完成的模块以及他们所在的学习路径。 该报表显示每个单独学习器的状态。 贵公司的全局管理员和 MPN 管理员可以查看数据。
 
@@ -89,7 +90,7 @@ Microsoft Learn 报表提供了有关公司中的学员的信息，其中包括�
 
 **学习路径选项卡**   
 
-此选项卡包含在公司中由前5个模块名称完成的学习路径细目分类;学习路径映射到的产品;以及与此学习路径相关的角色。  
+此选项卡包含在公司中按前5个模块名称完成的学习路径细目分类;学习路径映射到的产品;以及与此学习路径相关的角色。  
 
 - 学习路径完成环形图：按名称) 汇总部分中显示的学习路径完成明细 (计数。
 
@@ -101,7 +102,7 @@ Microsoft Learn 报表提供了有关公司中的学员的信息，其中包括�
 
 这列出了公司中训练有素的用户，并详细介绍了其已完成的模块和学习路径。
 
-Microsoft Learn 使用用户对象 ID 标识学员。 在 " **模块" 选项卡**下，所有学习器都按完成的模块进行排序。 它们显示 Microsoft Learn 用户名、对象 ID 和模块计数。 可以使用用户名进行搜索。 
+Microsoft Learn 使用用户对象 ID 标识学员。 在 " **模块" 选项卡** 下，所有学习器都按完成的模块进行排序。 它们显示 Microsoft Learn 用户名、对象 ID 和模块计数。 可以使用用户名进行搜索。 
 
 在 " **学习路径" 选项卡** 下，按学习路径完成的所有学习路径都将显示为 "学习器显示名称"、"对象 ID" 和 "模块计数"。
 
@@ -131,7 +132,7 @@ Microsoft Learn 使用用户对象 ID 标识学员。 在 " **模块" 选项卡*
 
 3. 在此报表中，是否可以看到使用 MSA 帐户登录到 Microsoft Learn 的所有公司用户？
 
-目前，实现此目的的最佳方式是将这些用户添加到 Azure AD 租户并将其添加到合作伙伴中心，以便他们可以通过合作伙伴中心的 **"我的个人资料"** 关联他们的 Microsoft Learn 帐户。 
+目前，最佳方法是将这些用户添加到 Azure AD 租户，然后将其添加到合作伙伴中心，以便他们可以通过合作伙伴中心的 **"我的个人资料"** 关联他们的 Microsoft Learn 帐户。 
 
 对于仅使用 MSA 帐户进行培训的用户，在不久的将来，Microsoft Learn 团队将能够将其工作电子邮件关联到其 Microsoft Learn 配置文件。 
 

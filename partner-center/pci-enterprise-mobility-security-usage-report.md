@@ -8,20 +8,21 @@ description: 了解你的工作情况，以及你可以在哪些方面提高你�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146592"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086271"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取企业移动性 + 安全性使用情况报告
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
 企业移动性 + 安全性使用情况报表为你为客户销售或管理的企业移动性 + 安全性订阅提供使用情况数据。 可以从企业移动性 + 安全性使用情况报表查看以下部分。
 
@@ -42,7 +43,7 @@ ms.locfileid: "98146592"
 
    微图显示了所选日期范围内新订阅的月月趋势。
 
-- 可用席位数：在所选时间范围内销售的许可证总数。
+- 可用座位：在所选时间范围内销售的许可证总数。
 
    微图显示在所选日期范围内可用座位数的月月趋势。
 

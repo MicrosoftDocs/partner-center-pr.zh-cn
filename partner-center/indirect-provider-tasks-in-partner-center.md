@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880763"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178946"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>与云解决方案提供商计划中的间接经销商合作
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - 销售代理
 
 面对如此复杂且瞬息万变的技术市场，客户希望技术解决方案可以给他们带来竞争优势。 在这样的环境下，合作伙伴投资于合作伙伴之间的参与活动以扩大产品/服务范围并使客户能够做更多工作，这是有意义的。
 
-新经销商正在进入市场，并想方设法向其市场和区域之外的客户提供他们的解决方案。 作为公认的技术提供商，你完全有能力为他们开拓市场。 通过云解决方案提供商提供的间接经销商 (CSP) 计划与其他合作伙伴连接，将新的解决方案带入市场，并使客户的云服务的采用。
+新经销商正在进入市场，并想方设法向其市场和区域之外的客户提供他们的解决方案。 作为一家已建立的技术提供商，您可以很好地定位到市场。 通过云解决方案提供商提供的间接经销商 (CSP) 计划与其他合作伙伴连接，将新的解决方案带入市场，并使客户的云服务的采用。
 
 在间接提供商-经销商（双层）模型中，你可以与间接经销商合作以向客户提供 Microsoft 云解决方案。 你可以直接从 Microsoft 购买产品和订阅，然后通过你的经销商向客户提供这些解决方案。
 
@@ -45,7 +45,7 @@ ms.locfileid: "104880763"
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>合作伙伴中心的间接提供商任务
 
-完成以下步骤以与间接经销商和客户建立关系并对关系进行管理。 以下更详细地描述了第 2 步和第 3 步。
+完成以下步骤以与间接经销商和客户建立关系并对关系进行管理。 下面更详细地介绍了步骤2和3。
 
 1. 在 [Microsoft 的官方间接提供商列表](https://partnercenter.microsoft.com/partner/find-a-provider)中查看公司的个人资料。
 
@@ -111,7 +111,7 @@ ms.locfileid: "104880763"
 
 1. 在仪表板上的 "合作伙伴中心" 菜单中，选择 " **间接经销商**"。 
 
-2. 在 " **间接经销商** " 页上，选择 " **删除合作关系**"。 将显示一条消息，询问确认选择 "是" 以继续。
+2. 在 " **间接经销商** " 页上，选择 " **删除合作关系**"。 将显示一条消息，要求确认。 若要继续，请选择 **"是"**。
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="删除合作关系":::
 
@@ -147,11 +147,11 @@ ms.locfileid: "104880763"
     > [!IMPORTANT]  
     > 请确保记下 "用户帐户名" 和 "密码"，因为在关闭此页后，不能再次访问此信息。
 
-7. 选择“完成”  。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
+7. 选择“完成”。 新客户将出现在与间接经销商相关联的客户列表中。 分销商现在拥有客户帐户信息和订阅的管理员访问权限，可以代表客户管理订阅。
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>将新订阅添加到客户帐户
 
-如果客户想要购买新订阅、升级现有订阅或购买其他许可证，请通过 M365 门户在客户帐户中进行这些更改。 无法在 Azure 门户中执行此操作。
+如果客户想要购买新订阅、升级现有订阅或购买其他许可证，你可以通过 Microsoft 365 门户在客户帐户中进行这些更改。 无法在 Azure 门户中执行此操作。
 
 1. 从 "**合作伙伴中心**" 菜单中选择 "**客户**"。
 
@@ -171,7 +171,7 @@ ms.locfileid: "104880763"
 
 查找有关 Microsoft 合作伙伴协议的问题的答案
 
-- [间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议-常见问题](mpa-indirect-provider-faq.md)
+- [间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议 - 常见问题解答](mpa-indirect-provider-faq.md)
 
 有关管理客户帐户和订阅的详细信息，请参阅：
 

@@ -8,16 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: eb92824bf3fc7a2d93435ca89fc70ca303957d1a
-ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
+ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "100082928"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132904"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>申请 MPN 权益的退款
 
-**相应的角色：**
+**相应的角色**
 
 - MPN 合作伙伴管理员
 - 帐户管理员

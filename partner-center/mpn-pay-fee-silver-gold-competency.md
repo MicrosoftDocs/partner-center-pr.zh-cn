@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757391"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132479"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>如何支付与银或金牌资格相关的费用
 
 **相应的角色**
 
 - MPN 合作伙伴管理员
-- MPN 帐户管理员
+- 帐户管理员
 
 本文介绍如何和何时支付与获得银或金牌 Microsoft 合作伙伴网络资格相关的费用。 本文还介绍了如何更改首选付款方式方法，如何取消订单，以及如何在从银转到金牌资格时获得25% 的费用折扣。
 

@@ -9,20 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 2ad3e686c90c286465911e8d01d12686d2c6ad15
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812838"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132972"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>找到你的 Microsoft 合作伙伴网络权益 
 
-### <a name="applies-to"></a>适用于
-
-- 合作伙伴中心
-
-### <a name="appropriate-roles"></a>相应的角色
+**相应的角色**
 
 - MPN 合作伙伴管理员
 - 全局管理员

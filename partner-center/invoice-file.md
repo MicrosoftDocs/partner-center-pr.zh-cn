@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: 了解发票文件中合作伙伴中心帐单的字段。 包括所有发票字段和一次性费用字段的字段和定义。
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556287"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178895"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>了解合作伙伴中心帐单发票字段
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 计费管理员
 - 支持人员代理
 
@@ -33,7 +35,7 @@ ms.locfileid: "96556287"
 | ----- | ---------- |
 | 美国 FEIN | 联邦雇主识别码 (FEIN) 。 这是美国的联邦税务标识符编号。 |
 | 客户编号 | 你的客户编号。 |
-| 帐单邮寄地址 | 我们发送发票的地址。 你可以在合作伙伴中心帐单配置文件中更改公司名称和/或地址。 |
+| 帐单邮寄地址 | 我们发送发票的地址。 你可以在合作伙伴中心帐单配置文件中更改公司名称和地址。 |
 | 基于许可证的费用 | 已购买的基于使用情况的许可证的按月或每年收费，服务提前向你收费。 此数字是基于许可证的对帐文件中 (列 **T**) 的 **分类汇总** 列中所有费用的总和。 |
 | 基于使用情况的费用 | 你的 Azure 使用情况。 这包括在计费期间启用并使用的新服务或应用程序。 此数字是基于使用情况的对帐文件中 **PretaxCharges** 列 (列 **Z**) 的所有费用的总和。 |
 | 折扣 | 客户从订阅的标准价格接收的折扣。 此数量显示为 *固定数量*，而不是按单位或许可证的价格显示。 |
@@ -59,10 +61,10 @@ ms.locfileid: "96556287"
 | 字段 | 定义 |
 | ----- | ---------- |
 | Date | 购买的日期。 |
-| 描述 | 产品名称。 |
+| 说明 | 产品名称。 |
 | 数量 | 采购)  (的产品数。 |
 | 单价 | 按产品定价 (如预订) 。 |
 | 折扣 | 任何适用的折扣。 |
-| 税前金额 | 税前购物小计。 |
+| 税前金额 | 税前采购的小计。 |
 | 销售税 | 税额。 |
 | 总计 | 要支付的总金额。 |

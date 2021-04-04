@@ -4,42 +4,44 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解你的工作情况，以及你为客户销售或管理的 Azure 订阅的使用情况。
+description: 了解你的工作良好，以及你可以在何处改进你为客户销售或管理的 Azure 订阅的使用情况。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220725"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086203"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
 
 **相应的角色**
+
 - 全局管理员
 - 管理员代理
 - 报表查看器
-- Executive 报表查看器
+- 主管人员报表查看器
 
-Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 这包括按计量类别分类的 Azure 消耗收入和使用量。 你可以从 Azure 使用情况报表查看以下部分。
+Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 此报告包括按计量器分类分类的 Azure 消耗收入和使用量。 你可以从 Azure 使用情况报表查看以下部分。
 
-- “摘要”
+- 总结
 - 地域的 Azure 使用情况
 - Azure 利用率
 
  > [!NOTE]
  > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
 
-## <a name="summary"></a>“摘要”
+## <a name="summary"></a>总结
 
 "摘要" 部分显示关键绩效指标的快照视图，这些指标与为客户销售或管理的 Azure 订阅相关 (Kpi) 。  
 
-- Azure 订阅：在所选日期范围内销售或拒绝 azure 订阅的当前计数。
+- Azure 订阅：由你销售或管理的 Azure 客户订阅的当前计数。
+在所选日期范围内增长或拒绝这些 Azure 订阅的百分比。
 
-微图显示所选日期范围内 Azure 订阅计数的月月趋势
+微图显示了所选日期范围内 Azure 订阅计数的月月趋势。
 - 有效的 Azure 订阅：过去30天内已售出或管理的 Azure 订阅的当前计数。
 在选定的日期范围内增长或拒绝这些订阅的百分比。
 

@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175277"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086220"
 ---
 # <a name="download-reports"></a>下载报告
 
 **相应的角色**
+
 - 主管人员报表查看器
 - 报表查看器
 
@@ -30,11 +31,11 @@ ms.locfileid: "92175277"
 
 **创建新报表**
 
-若要生成报表，请首先从 " **选择报表** " 下拉端选择报表。 然后，从 " **选择日期范围** " 下拉列表中选择日期范围。 选择“生成”。 报表将以制表符分隔的值生成 (TSV) 格式，并将在几分钟内可从 **生成的报告** 部分下载。 在过去14天内生成的报表将可供下载。
+若要生成报表，请首先从 " **选择报表** " 下拉端选择报表。 然后，从 " **选择日期范围** " 下拉列表中选择日期范围。 然后选择“生成”  。 报表将以制表符分隔的值生成 (TSV) 格式，并将在几分钟内可从 **生成的报告** 部分下载。 在过去14天内生成的报表将可供下载。
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="创建新报表":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="创建新报表":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="生成的报表":::
 
 >[!NOTE] 
 >只有那些作为 executive 报表查看者的用户可以下载报表。 有关基于角色的对 Insights 仪表板报表的访问的详细信息，请参阅 [PCI 角色](pci-roles.md)。 
@@ -43,7 +44,7 @@ ms.locfileid: "92175277"
 
 以下报表可供下载：
 
-**合作伙伴配置文件** 提供与合作伙伴相关的详细信息。 报表中提供了详细信息，如合作伙伴 ID、合作伙伴姓名、合作伙伴市县、合作伙伴国家/地区等。 对于此报表，不会有任何聚合或 lookback 适用。
+**合作伙伴配置文件** 提供与合作伙伴相关的详细信息。 报表中提供了详细信息，如合作伙伴 ID、合作伙伴姓名、合作伙伴市县和合作伙伴所在国家/地区。 对于此报表，不会有任何聚合或 lookback 适用。
 
 **客户详细信息** 提供合作伙伴关联的客户的详细信息。 它还提供关键指标，如销售的许可证、聚合的 ACR 等。 报表按月进行聚合。
 

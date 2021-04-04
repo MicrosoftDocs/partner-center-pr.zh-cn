@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104909277"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132394"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>如何使用徽标生成器创建合作伙伴徽标、认证信或奖励
 
 **相应的角色**
 
-- 有兴趣了解徽标生成器的详细信息的所有合作伙伴中心用户
+- 有兴趣了解徽标生成器的详细信息的所有合作伙伴
 
 获得银或金牌能力的价值是您可以与客户进行区分的机会。 一种徽标，可用于销售和市场营销材料，而合作伙伴中心的业务配置文件可用于展示您所获得的能力或能力。 
 
@@ -28,7 +28,7 @@ ms.locfileid: "104909277"
 
 ## <a name="what-is-available-in-logo-builder"></a>徽标生成器中提供的内容
 
-徽标生成器中适用于公司的内容与 Microsoft 合作伙伴网络 (MPN) 成员身份对齐。 MPN 成员身份更改（如获得新的资格）所需的更改最长需要24小时。  
+徽标生成器中的公司可用徽标与 Microsoft 合作伙伴网络 (MPN) 成员身份对齐。 MPN 成员身份更改（如获得新的资格）所需的更改最长需要24小时。
 
 可以在徽标生成器中创建的资产包括：
 

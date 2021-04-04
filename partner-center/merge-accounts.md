@@ -2,20 +2,22 @@
 title: 将你的合作伙伴帐户与其他合作伙伴帐户合并
 description: 了解如何在合作伙伴中心为作为合作伙伴中心的活动 Microsoft 合作伙伴的公司合并合作伙伴帐户。
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182590"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133057"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>将你的合作伙伴帐户与其他合作伙伴帐户合并
 
-**适用角色**
+**相应的角色**
 
 - 帐户管理员
 
@@ -65,7 +67,7 @@ ms.locfileid: "98182590"
 
   - 资格：合作伙伴公司将会获得一个核心权益包，它与最高的实现相关联，另外还会获得特定于胜任度的特定福利。
 
-- 所有权益受 [Microsoft 合作伙伴网络收益使用指南](https://aka.ms/partner-benefits-use-guide)的限制。 例如：激活的 O365 E3 令牌在激活后的十二个 (12) 个月内可用。 为租户上的许可证激活令牌后，不能将这些许可证移动到其他租户。
+- 所有权益受 [Microsoft 合作伙伴网络收益使用指南](https://aka.ms/partner-benefits-use-guide)的限制。 例如：激活的 O365 E3 令牌在激活后12个月即可正常运行。 为租户上的许可证激活令牌后，不能将这些许可证移动到其他租户。
 
 - 这两个公司的 MCP ID 关联将保留并与 PGA MPN ID 相关联。
 
@@ -77,7 +79,7 @@ ms.locfileid: "98182590"
 
 - 所有软件保障凭证都将跨两个帐户进行保留。 
 
-- 不会影响 DPOR 或 PAL 关联。 任何关联的收入份额都将开始流入新的合作伙伴全局帐户
+- DPOR 或 PAL 关联不起作用。 任何关联的收入份额都将开始流入新的合作伙伴全局帐户
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>邀请公司使用合作伙伴中心帐户合并其合作伙伴中心帐户
 
@@ -88,43 +90,43 @@ ms.locfileid: "98182590"
 
 2. 选择 " **帐户合并**"。
 
-3. 添加要邀请的帐户的 **合作伙伴配置文件** 中的 MPN ID，并将其与你合并。 必须使用其合作伙伴全局 MPN ID。 不能使用 location MPN ID。
+3. 添加你要邀请其与你合并的帐户的 **合作伙伴配置文件** 中的 MPN ID。 必须使用其合作伙伴全局 MPN ID。 不能使用 location MPN ID。
 
 4. 当你选择 " **合并**" 时，邀请将发送给合作伙伴公司。 当他们接受你的请求时，你可以在合作伙伴中心内启动帐户合并。 如果公司拒绝请求合并帐户，则他们可以解释拒绝请求的原因。 " **合并历史记录**" 下提供了所有帐户合并的列表。
  
 ### <a name="example-of-two-companies-merging-accounts"></a>合并帐户的两个公司的示例
 
-1. Contoso 
+1. Contoso，有限公司 
 
     a. [全局 MPN id 为 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ，一个从属[位置 MPN id 为 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)。
   
     b. Azure AD 租户 = @contoso.com
  
     c. 2020年10月1日过期的金牌资格
-2. Fabricam.com
+2. Fabrikam，Inc。
  
     a.  全局 MPN ID 3333333 和2个下属位置 MPN Id 4444444 和5555555
 
-    b.  Azure AD 租户 = @fabricam.com
+    b.  Azure AD 租户 = @fabrikam.com
 
     c.  2020年12月1日过期的两个黄金胜任度
-3.  Contoso 购买 Fabricam.com，转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求。
-4.  Fabricam.com 登录到合作伙伴中心，并转到 Contoso 在步骤 #3 中所执行的同一页面，以批准 Contoso 的请求。
+3.  Contoso 购买 Fabrikam，转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求。
+4.  Fabrikam 登录到合作伙伴中心，并转到 Contoso 在步骤 #3 中所执行的同一页面，以批准 Contoso 的请求。
 5.  Contoso 查看此同一页面上的合并的详细信息，并向帐户合并提供确认。
 6.  合并后，公司帐户将显示为：
 
     a.  名为 Contoso、全局 MPN ID 为1111111、4个下属位置 MPN Id 为2222222、3333333、4444444和5555555的公司
     
-    b.  它将具有两个 Azure AD 租户 (@contoso.com + @fabricam.com) ，可以访问同一合作伙伴中心帐户
+    b.  它将具有两个 Azure AD 租户 (@contoso.com + @fabrikam.com) ，可以访问同一合作伙伴中心帐户
     
     c.  它将具有两个能力权益包，其中一个包在10月 1 2020 日过期，另一个在 2020 12 月1日过期。 他们将能够在2020年12月1日作为单一能力权益包续订。 续订后，Contoso 将保留所有三项能力，即使它们只能维护单个权益包。
     
-7.  Contoso 的管理员将继续为用户管理合作伙伴中心角色 @contoso.com 。 Fabricam.com 的管理员将继续为用户管理合作伙伴中心角色 @fabricam.com 。 Contoso 的管理员只能管理 Fabricam.com 的用户，前提是他们被邀请为 Fabricam.com 的租户中的来宾。
-8.  Contoso 可以决定忽略 @fabricam.com 租户，并 @contoso.com 通过新的角色和权限重新发出 fabricam.com 员工的新凭据。
+7.  Contoso 的管理员将继续为用户管理合作伙伴中心角色 @contoso.com 。 Fabrikam 的管理员将继续为用户管理合作伙伴中心角色 @fabrikam.com 。 Contoso 的管理员只能管理 Fabrikam 的用户，前提是这些用户被邀请为 Fabrikam 的客户加入 Fabrikam 的租户。
+8.  Contoso 可以决定忽略 @fabrikam.com 租户，然后 @contoso.com 用新的角色和权限重新颁发 Fabrikam 员工的新凭据。
 
 ## <a name="next-steps"></a>后续步骤
 
-- [分配用户角色和权限](permissions-overview.md)
+- [为用户分配角色和权限](permissions-overview.md)
 
 - [验证合作伙伴配置文件信息](update-your-partner-profile.md)
 
