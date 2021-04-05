@@ -1,7 +1,7 @@
 ---
 title: 有效单价计算
 ms.topic: how-to
-ms.date: 11/10/2020
+ms.date: 04/02/2021
 description: 了解有效单价及其计算方式。 本文还包括一个示例计算。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556321"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374378"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 计划消耗量的有效单位价格计算
 
@@ -53,9 +53,9 @@ ms.locfileid: "96556321"
 - **有效单价** = BCU/BC
 
 >[!NOTE]
->注意：此示例中的计量器没有定价层。
+>此示例中的计量器没有定价层。 折扣百分比和其他调整中的有效单位价格系数。
 
-| Date | BCU (计费消耗单位)  | BC (计费成本)  | 有效单价 |
+| 日期 | BCU (计费消耗单位)  | BC (计费成本)  | 有效单价 |
 | ------ | ----------- | ----------- | ----------- |  
 | 3-8 月 | 29 | 21.39 | 0.737586206896552 |
 | 10-8 月 | 210.950039 | 155.63 | 0.737757626107858 |
