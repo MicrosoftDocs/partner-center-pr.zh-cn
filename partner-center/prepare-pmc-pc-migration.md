@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999981"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633872"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
 **相应的角色**
+
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 销售代理
 - 管理员代理
 
@@ -120,7 +121,7 @@ Microsoft 将自动迁移当前的资格、权益、位置信息、用于奖励�
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>我们应如何管理 MCP 关联和 Partner University 访问权限？
 
-从 PMC 迁移的 MCP 关联不会有什么更改。 然而，需要在合作伙伴中心将迁移到合作伙伴中心后的任何新员工进行关联。 你所有针对现有用户的 Partner University 权限将保留，不过，任何新员工都应该访问[培训中心](https://partner.microsoft.com/training)获取有关如何获取对 Partner University 的访问权限的信息。
+从 PMC 迁移的 MCP 关联不会有什么更改。 然而，需要在合作伙伴中心将迁移到合作伙伴中心后的任何员工进行关联。 你所有针对现有用户的 Partner University 权限将保留，不过，任何新员工都应该访问[培训中心](https://partner.microsoft.com/training)获取有关如何获取对 Partner University 的访问权限的信息。
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>迁移到合作伙伴中心后如何查看 MCP 信息？
 

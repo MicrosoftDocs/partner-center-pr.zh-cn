@@ -9,18 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624130"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549101"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>在续订时段内续订 MPN 产品/服务以获得胜任资格和高级专用化
-
-### <a name="applies-to"></a>适用于
-
-- 合作伙伴中心
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新
 

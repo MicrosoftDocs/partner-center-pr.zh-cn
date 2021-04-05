@@ -93,6 +93,8 @@
         - name: MPN 合作伙伴演示
           href: mpn-demos.md
           displayName: mpn
+        - name: 权益策略和使用情况 - 常见问题解答
+          href: benefits-faq-new.md
         - name: 关于权益的常见问题解答
           href: benefits-faq.md
           displayName: 'renew, license,'
