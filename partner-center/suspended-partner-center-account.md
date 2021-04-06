@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028241"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441551"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施
 
@@ -22,7 +22,7 @@ ms.locfileid: "105028241"
 
 **适用于**
 
-- Microsoft 政府云合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
 

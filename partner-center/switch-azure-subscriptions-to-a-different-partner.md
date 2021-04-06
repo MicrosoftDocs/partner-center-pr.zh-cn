@@ -9,19 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028292"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441908"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何将客户的 Azure 订阅转让给另一个合作伙伴
 
 **适用于**
 
-- Microsoft 政府云合作伙伴中心
-- Microsoft 全球云合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 本文介绍了如何将 Microsoft Azure 服务从一个云解决方案提供商 (CSP) 切换到另一个云解决方案提供商。
 

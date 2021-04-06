@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90594453"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441483"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>区域税收，公共交换电话网络的法规 (PTSN) 服务
 
-**适用于**
-
-- 合作伙伴中心
-- Office 365 合作伙伴约束力 Microsoft 365 语音产品
-
 **相应的角色**
--    全局管理员
--    用户管理员
--    管理员代理
+
+- 全局管理员
+- 用户管理员
+- 管理员代理
 
 某些司法辖区中 (PSTN) 服务的公共交换电话网络可能会受到特殊的税务和法规要求，这些要求可能会影响合作伙伴订单和发票。 在美国中，包括波多黎各、包含音频会议、呼叫计划和通信信用额度的 PSTN 服务，受特殊的税务和法规要求。 在美国和波多黎各中，Microsoft 价格的 PSTN 服务以税收包含。  唯一的 PSTN 税和法规将影响 Office 365 合作伙伴约束力 Microsoft 365 语音产品。  如果合作伙伴标记了 Microsoft PSTN 服务的价格，则可能有责任计算和汇寄 PSTN 税款和费用。
 

@@ -3,22 +3,23 @@ title: 每日分级的使用情况协调文件
 ms.topic: article
 ms.date: 06/12/2020
 description: 了解如何在合作伙伴中心读取每日分级使用情况协调文件。 包含侦测文件中特定字段的说明。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712233"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441891"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>了解如何在合作伙伴中心读取每日分级使用情况协调文件
 
 **适用于**
 
-- 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
@@ -70,7 +71,7 @@ ms.locfileid: "104712233"
 | ResourceGroup | 表示一个容器，用于保存 Azure 解决方案的相关资源。 |
 | ResourceURI | 所使用资源的 URI。 |
 | ChargeType | 费用或调整的类型。  |
-| UnitPrice | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
+| 单价 | 在购买时价格列表中发布的每个许可证的价格。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | 数量 | 许可证数量。 请确保此价格与在协调期间存储在计费系统中的信息相匹配。 |
 | Unittype.pixel 度量 | 计量计量器的单位类型。  |
 | BillingPreTaxTotal | 税前的总帐单金额。<br/> _**BillingPreTaxTotal** = 楼层 ( ( [ @EffectiveUnitPrice ]*[ @Quantity*] [] @PCToBCExchangeRate ) ，2)_ |
@@ -79,7 +80,7 @@ ms.locfileid: "104712233"
 | PricingCurrency | 价目表中的货币。 |
 | ServiceInfo1 | 在给定日期预配和使用的服务总线连接数。 |
 | ServiceInfo2 | 捕获可选的服务特定元数据的旧字段。 |
-| 标记 | 表示由用户设置的 Azure 资源的逻辑组织。 |
+| Tags | 表示由用户设置的 Azure 资源的逻辑组织。 |
 | AdditionalInfo | 其他列中未包括的任何其他信息。 |
 | EffectiveUnitPrice | 按单位收费的实际值，包括任何折扣、获得的信用额度等。 |
 | PCToBCExchangeRate | 定价货币应用于计费货币的汇率。 |

@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000551"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441466"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答
 
@@ -27,15 +27,15 @@ ms.locfileid: "91000551"
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 是什么？
 
-针对美国政府而全新设计的政府 Microsoft 云允许美国境内的公共部门客户（大到联邦机构，小到镇政府）从一系列云计算服务中进行选择。 为了更好地满足客户的特定需求，Microsoft 已在数据中心中进行了重大投资，并专门满足美国联邦和州政策、法规和要求。
+针对美国政府而全新设计的美国政府 Microsoft 云允许美国境内的公共部门客户（从大型联邦机构到小型镇政府）从广泛的云计算服务中进行选择。 为了更好地满足客户的特定需求，Microsoft 已在数据中心中进行了重大投资，并专门满足美国联邦和州政策、法规和要求。
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>谁有资格参与 Microsoft Cloud for US Government 云解决方案提供商计划？
 
-位于美国境内，为美国联邦、州和地方政府实体提供政务能力服务的合作伙伴有资格参加 Microsoft 政府云的云解决方案提供商计划。 Microsoft 实施严格的合作伙伴资格验证程序，合作伙伴须通过验证方可访问 Microsoft 政府云。 若要取得资格，合作伙伴需要提供其与政府客户之间的合作关系证明。 美国政府 Microsoft 云 CSP 计划的注册流程已经过强化，以捕获更多数据来执行验证。 证明类型可以包括但不限于政府合同号和政府客户出具的担保函。
+在其政府版中为美国联邦、州和地方政府实体提供服务的美国合作伙伴有资格获得适用于美国政府 Microsoft 云的 CSP 计划。 Microsoft 提供了严格的验证计划，以确定合作伙伴可以访问美国政府 Microsoft 云之前的资格。 若要取得资格，合作伙伴需要提供其与政府客户之间的合作关系证明。 美国政府 Microsoft 云 CSP 计划的注册流程已经过强化，以捕获更多数据来执行验证。 证明类型可以包括但不限于政府合同号和政府客户出具的担保函。
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>客户定价是否与商业云解决方案提供商计划相同？
 
-不是。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
+否。 提供 Microsoft Cloud for US Government 的独特价值所需的额外成本会反映到定价中。
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>合作伙伴折扣模式是否相同？
 
@@ -43,13 +43,13 @@ ms.locfileid: "91000551"
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>商业云解决方案提供商计划是现有的合作伙伴计划。 Microsoft 政府云 CSP 计划有何不同之处？
 
-Microsoft 政府云 CSP 计划与商业 CSP 之间存在以下不同点：
+适用于美国政府的 Microsoft 云 CSP 计划与 CSP 商业版在以下方面有所不同：
 
-- 资格：Microsoft 政府云 CSP 计划仅面向位于美国境内，为美国联邦、州和地方政府实体提供政务能力服务的合作伙伴。 Microsoft 实施一套合作伙伴资格验证程序，合作伙伴须通过验证方可访问美国政府云。
+- 资格：适用于美国政府的 Microsoft 云 CSP 计划仅适用于在其政府容量中为美国联邦、州和地方政府实体提供服务的美国合作伙伴。 Microsoft 实施一套合作伙伴资格验证程序，合作伙伴须通过验证方可访问美国政府云。
 
 - 加入：合作伙伴需要从商业云解决方案提供商计划单独加入 Microsoft Cloud for US Government 云解决方案提供商计划。
 
-- 产品可用性： Microsoft 政府云的 CSP 计划中提供了 Azure 政府版和基于许可证的服务，如 Office 365、企业移动性 + 安全性和 Dynamics 365。
+- 产品可用性： Azure 政府版和基于许可证的服务（如 Office 365、企业移动性 + 安全性和 Dynamics 365）在适用于美国政府的 Microsoft 云 CSP 计划中提供。
 
 - 合同：Microsoft 云经销商协议 (MCRA) 已经更新，以体现独特的政府条款。
 
@@ -71,7 +71,7 @@ MCRA 授权合作伙伴通过 CSP 进行转售。 加入美国政府 Microsoft �
 
 - 其中包含 Microsoft 客户协议 (Microsoft 客户协议) 必须将其加入到在 CSP 及其客户之间输入到每个合同中的美国政府云服务。
 
-*Microsoft 客户协议 (在 MCRA 中显示为展示形式) *
+*Microsoft 客户协议 (在 MCRA 中显示为展示形式)*
 
 CSP 需要将附件 A 并入其与购买美国政府 Microsoft 云的客户之间签订的政府合同。 此协议在合作伙伴中心发布，提供英文版。
 
@@ -93,7 +93,7 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>销售美国政府 Microsoft 云需要具备哪些资格？
 
-销售 Microsoft 政府云 CSP 计划所需的资格标准与商业 CSP 的资格标准相同，且同时对直接合作伙伴和间接经销商开放。 如果你已被批准成为商业 CSP 的间接经销商，则不需要再指定为 Microsoft 政府云 CSP 计划的间接经销商。
+为美国政府的 Microsoft 云销售 CSP 计划的限定条件与用于 CSP 商业客户和间接经销商的资格标准相同。 如果已获批准成为适用于 CSP 的间接经销商，则无需将其重新命名为适用于适用于美国政府的 CSP Microsoft 云计划的间接经销商。
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>我是现有合作伙伴。 我需要做些什么，才能销售美国政府 Microsoft 云？
 
@@ -101,11 +101,11 @@ Microsoft 云分销商协议 (MCDA) 授权分销商通过云解决方案提供�
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>合作伙伴奖励机制是否有任何不同？
 
-不是。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
+否。 Microsoft Cloud for US Government 云解决方案提供商计划的合作伙伴奖励机制与商业云解决方案提供商计划的合作伙伴奖励机制相同。 若要了解有关合作伙伴奖励机制的详细信息，请登录 [Microsoft 合作伙伴网络门户](https://partner.microsoft.com/membership/partner-incentives)。
 
 ### <a name="are-there-any-changes-to-billing"></a>计费方式是否有任何变化？
 
-不是。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
+否。 Microsoft Cloud for US Government 云解决方案提供商计划的计费标准和要求与商业云解决方案提供商计划的计费标准和要求相同。 若要了解有关计费方式的详细信息，请查看 [Microsoft 合作伙伴网络](https://partner.microsoft.com/cloud-solution-provider/resources)上的资源。
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>对于在商业数据中心托管的数据，是否可以更改为美国政府的 Microsoft 云？
 

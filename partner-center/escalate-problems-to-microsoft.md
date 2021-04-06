@@ -9,18 +9,17 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 77695d061c9ce42f32c95abfd8475064991954f9
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545848"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441840"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>将问题上报给 Microsoft，并了解哪些问题更适用于 Microsoft 呈报  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>将问题报告给 Microsoft 并了解哪些问题更适合进行报告  
 
 **适用于**
 
-- 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
@@ -48,15 +47,15 @@ ms.locfileid: "87545848"
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从 "合作伙伴中心" 菜单中，选择 "**客户**"，然后选择需要支持的客户。
+2. 从 "合作伙伴中心" 菜单中，选择 " **客户**"，然后选择需要支持的客户。
 
-3. 选择**服务管理**，然后选择**服务请求**。
+3. 选择 **服务管理**，然后选择 **服务请求**。
 
-4. 选择**新建请求**，然后选择 **Microsoft Office 365**。
+4. 选择 **新建请求**，然后选择 **Microsoft Office 365**。
 
 5. 你将转到 Office 365 门户，你需要使用合作伙伴中心凭据进行登录。
 
-6. 从左侧菜单中选择 "**支持**"、"**新建服务请求**"。
+6. 从左侧菜单中选择 " **支持**"、" **新建服务请求** "。
 
 7. 选择支持主题。
 

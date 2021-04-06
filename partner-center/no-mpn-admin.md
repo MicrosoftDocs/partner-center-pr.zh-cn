@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999331"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441993"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>如果你的 MPN 计划的唯一管理员离开了公司怎么办？
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
+- MPN 合作伙伴管理员
+- 帐户管理员
+- 全局管理员
 
 下面的文章将指导你完成 MPN 管理员离开公司时要执行的操作的三个典型方案。
 

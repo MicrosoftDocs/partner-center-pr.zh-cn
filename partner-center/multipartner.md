@@ -9,18 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132258"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441789"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>针对想要使用多个合作伙伴的客户的多合作伙伴支持
 
 **适用于**
 
-- Microsoft 政府云合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
 
