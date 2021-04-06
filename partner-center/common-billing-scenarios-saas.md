@@ -2,17 +2,19 @@
 title: 基于计费许可证的 SaaS 事务
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解合作伙伴中心的常见计费方案，它们适用于基于许可证的软件即服务 (SaaS) 事务。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d63e8345bf127cb91f1812193b1f0311cd569b3
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031340"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502457"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>合作伙伴中心基于许可证的 SaaS 事务的常见计费方案
 
@@ -51,7 +53,7 @@ ms.locfileid: "92031340"
 | 购买日期 | 收费开始日期 | 收费结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 11 | $0 | 新建 | 免费试用 |
-| 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 11 | $0 | Cancel | 免费试用 |
+| 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 11 | $0 | 取消 | 免费试用 |
 
 ## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>将自定义计量 SaaS 订阅转换为其他 SKU
 
@@ -63,8 +65,8 @@ ms.locfileid: "92031340"
 
 | 购买日期 | SKU | 收费开始日期 | 收费结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 2019/06/10 | 银卡 | 2019/06/10 | 2019/06/10 | $20 | 1 | $20 | 新建 | 自定义计量 SaaS 订阅 |
-| 2019/06/10 | 银卡 | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 转换 | 自定义计量 SaaS 订阅的按比例 rebill |
+| 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | $20 | 新建 | 自定义计量 SaaS 订阅 |
+| 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 转换 | 自定义计量 SaaS 订阅的按比例 rebill |
 | 2019/06/10 | Bronze | 2019/06/10 | 2019/06/10 | $10 | 1 | $10 | 转换 | 自定义计量 SaaS 订阅 |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>在同一日期购买并取消 customer 指标 SaaS 订阅

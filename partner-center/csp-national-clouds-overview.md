@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979560"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502895"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>适用于作为 CSP 计划的一部分在 Microsoft 国家标准云中销售
 
 **适用于**
 
-- Microsoft 政府云合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 - Microsoft 云德国的合作伙伴中心
-
 
 **相应的角色**
 
 - 全局管理员
 
-除了向全球云解决方案提供商计划中的客户进行销售之外，合格的 Microsoft 合作伙伴还可以在三个单独的国家云中向客户销售云解决方案。 国家云是物理和逻辑网络隔离的 Microsoft 企业云服务实例，它们被限制在特定的国家/地区地理边界内，并由本地人员运营。 
+除了向全球云解决方案提供商计划中的客户进行销售之外，合格的 Microsoft 合作伙伴还可以在三个单独的国家云中向客户销售云解决方案。 国家云是物理和逻辑网络隔离的 Microsoft 企业云服务实例，它们被限制在特定的国家/地区地理边界内，并由本地人员运营。
 
 有关 Microsoft 国家云产品/服务的详细信息，请参阅 [Microsoft 国家云](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud)。
 
@@ -56,7 +55,7 @@ Microsoft 可在国家云中提供以下服务：
     
 -   [**由中国世纪互联运营的 Azure 和 Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft 通过与上海蓝云网络科技有限公司（世纪互联）的独特合作伙伴关系在中国提供云服务，该公司是北京世纪互联宽带数据中心有限公司的全资子公司。世纪互联是中国最大的运营商中立 Internet 数据中心、托管、托管网络和云计算基础结构服务提供商。 
 
-    Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营、提供和管理 Microsoft 云服务的交付。 通过授权 Microsoft 技术，世纪互联可以提供 Azure 和 Office 365 服务，并运营将数据保存在中华人民共和国的 Azure 和 Office 365 数据中心。 世纪互联还提供订阅和计费服务以及支持。
+    Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营、提供和管理 Microsoft 云服务的交付。 通过授权 Microsoft 技术，世纪互联可以提供 Azure 和 Office 365 服务，并运营将数据保存在中华人民共和国的 Azure 和 Office 365 数据中心。 世纪还提供订阅和计费服务以及支持。
 
     有关如何注册以及在中国世纪互联运营的 Azure 和 Office 365 中向客户进行销售的信息，请参阅[由世纪互联运营的合作伙伴中心](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))。
 

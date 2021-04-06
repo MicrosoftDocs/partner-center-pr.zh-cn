@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何向 Microsoft 发布的产品以及第三方 Isv 发布的 SaaS 产品销售客户订阅。
+description: 了解如何为 Microsoft 发布的产品以及第三方 Isv 发布的 SaaS 产品向客户销售订阅。
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038874"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502929"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
 **适用于**
 
-- 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
-- 云解决方案提供商合作伙伴
 
 **相应的角色**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038874"
 - 支持人员代理
 - 销售代理
 
-在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。 这包括 Microsoft 发布的产品以及作为服务的软件 (SaaS) 产品由第三方独立软件供应商发布， (Isv) 到 [商业市场](https://azuremarketplace.microsoft.com/marketplace)。
+在合作伙伴中心中创建客户的记录后，你可以向他们销售目录中产品的订阅。 这包括由 Microsoft 提供的产品和软件即服务 (SaaS) 产品，这些产品由第三方独立软件供应商发布， (Isv) 到 [商业市场](https://azuremarketplace.microsoft.com/marketplace)。
 
 某些产品/服务仅限每个客户一个订阅。 若要查看受限制的套餐列表，请访问合作伙伴中心定价和套餐页面。
 
@@ -80,7 +78,7 @@ ms.locfileid: "96038874"
    
 ## <a name="update-subscriptions-with-add-ons"></a>更新具有加载项的订阅 
 
-要购买加载项，客户必须首先具有活动基础订阅。  无法通过目录购买加载项。
+若要购买外接程序，客户必须首先具有活动的基本订阅。  无法通过目录购买加载项。
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
@@ -93,7 +91,7 @@ ms.locfileid: "96038874"
 5. 更新每个所需外接程序的许可证数量。 然后“提交”更改  。
 
 通过合作伙伴中心购买加载项的能力仅适用于直接帐单和间接提供商。
-仅根据基本要求和区域可用性显示符合条件的加载项。 有关定价和产品/服务的更多信息，请参阅云经销商产品/服务矩阵。  暂停基本订阅也将暂停任何关联的加载项。
+仅根据基本要求和区域可用性显示符合条件的加载项。 有关定价和产品/服务的详细信息，请参阅云分销商优惠矩阵。 暂停基本订阅也将暂停任何关联的加载项。
 
 加载项的开始日期与基本订阅保持一致，费用根据费用开始日期和费用结束日期计算，在第一张发票中按比例计费。 有关其他信息，请参阅 [基于许可证的计费](license-based-billing.md)。
 
@@ -120,7 +118,7 @@ ms.locfileid: "96038874"
 
 ### <a name="cancel-a-subscription"></a>取消订阅
 
-你可以选择从合作伙伴中心 [商业市场](csp-commercial-marketplace-overview.md)中的第三方 ISV 发布者处取消基于许可证的 SaaS 订阅。 只要你在取消期限内取消，你就会获得全额退款。
+你可以在合作伙伴中心的 " [商用 marketplace](csp-commercial-marketplace-overview.md)" 中取消第三方 ISV 发布者的基于许可证的 SaaS 订阅。 只要你在取消期限内取消，你就会获得全额退款。
 
 对于按月计费的 ISV 产品/服务：
 
@@ -166,13 +164,13 @@ ms.locfileid: "96038874"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 选择 **订阅**。 这会列出已为客户购买的任何基于许可证的订阅。
+3. 选择“订阅”。 这会列出已为客户购买的任何基于许可证的订阅。
 
 4. 在 " **订阅** " 列中，选择要修改的订阅。
 
 5. 在 "订阅详细信息" 页中，找到 " **状态** " 部分并取消选中 " **自动续订** " 框。
 
-6. 选择“提交”。 
+6. 选择“提交”。
 
 ## <a name="next-steps"></a>后续步骤
 
