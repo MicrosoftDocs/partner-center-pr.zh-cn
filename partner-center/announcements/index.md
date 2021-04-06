@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730053"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280847"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-|**类别**|**2021 年 3 月公告**|**已公布**|
+|**类别**|**2021 年 4 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[对云解决方案提供商 (CSP) 客户加入要求的更改](2021-april.md#2)|4 月 2 日|
+|功能|[查看本月的产品发布和套餐](2021-april.md#1)|4 月 1 日|
+|**类别**|**2021 年 3 月公告**|**已公布**|
+|功能|[已更新的 CSP 客户地址验证 API 现可用于测试](2021-march.md#18)|3 月 31 日|
 |产品/服务/新式工作区|[新的 Exchange 管理中心 (EAC) 体验](2021-march.md#17)|3 月 29 日|
 |产品/服务/新式工作区|[Microsoft 操作：引入产品发布日历](2021-march.md#16)|3 月 25 日|
 |功能|[CSP 客户加入要求变更](2021-march.md#15)|3 月 25 日|
