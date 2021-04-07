@@ -9,18 +9,17 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979686"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502878"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
 **适用于**
 
-- 合作伙伴中心
 - Microsoft Cloud for US Government 合作伙伴中心
 
 

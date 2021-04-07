@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005905"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441315"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>管理 MPN 帐户位置并添加（删除）位置
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005905"
 
 位置 MPN ID 标识了公司的每一特定位置。 可以使用位置 MPN ID 注册奖励计划、进行云解决方案提供商 (CSP) 业务交易以及其他业务交易。 全局 MPN ID 用于非交易性活动，例如支持请求。
 
-## <a name="the-following-is-a-typical-scenario"></a>下面是一个典型方案：
+## <a name="the-following-scenario-is-typical"></a>以下为典型场景：
 
-Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合法业务，它具有一个用于管理所有非交易性业务的全局 MPN ID。 Contoso 在英国、法国和美国的其他位置也具有相当于子公司或部门的合作伙伴位置帐户 (PLA)。 在 MPN 帐户结构中，这些 PLA 表示为唯一位置 MPN ID。 PLA 用于交易性业务，例如 CSP 或奖励计划。 付款与特定位置相关。 
+Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合法业务，它具有一个用于管理所有非交易性业务的全局 MPN ID。 Contoso 在英国、法国和美国的其他位置也具有相当于子公司或部门的合作伙伴位置帐户 (PLA)。 在 MPN 帐户结构中，这些 PLA 表示为唯一位置 MPN ID。 PLA 用于交易性业务，例如 CSP 或奖励计划。 付款与特定位置相关。 
 
 >[!NOTE]
 >CSP 租户与 MPN 位置 ID 之间存在 1 对 1 关系。
@@ -56,13 +56,32 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
  
 1. 从“设置”图标中，依次选择“帐户设置”、“组织资料”和“法务”   。 
 
-1. 在“合作伙伴”选项卡中，验证确保没有横幅错误消息要求你修复从 PMC 迁移的位置。 如果有错误消息，请按照说明修复这些位置。 
+1. 在“合作伙伴”选项卡中，验证确保没有横幅错误消息要求你修复从 PMC 迁移的位置。  如果位置未在 PMC 中正确设置，并且尚未转换为 PC，则需要更新这些位置。
 
-3. 如果没有错误消息，请从“设置”中依次选择“帐户设置”、“组织资料”和“标识符”   。
+:::image type="content" source="images/locations/location-two.png" alt-text="截图演示如何更新位置。":::
+ 
+4.  在“查看 PMC 位置”屏幕上，选择“更新” 。
+更新以下字段：
 
-4. 找到类型为“位置”且与此 CSP 帐户所在国家/地区匹配的 MPN ID，然后用它在下面进行搜索并完成关联。
+- “名称”字段：确保公司位置的名称正确。 如果显示重复错误，请尝试进行更改，例如将“Contoso”更改为“Contoso, Inc”。
 
-5. 如果找不到与要使用的 CSP 帐户匹配的位置 MPN ID，可添加一个新位置，它将创建新的 MPN ID。 请查看下面的“添加 MPN 位置”。
+- “法律实体”字段：确保已选择该位置所绑定到的法律实体
+
+- “地址行 1”和“地址行 2”字段：确保地址正确
+
+- “城市和省/直辖市/自治区”字段：确保城市和省/市/自治区之间的组合是正确的。 在某些国家/地区可以应用用于选择省/直辖市/自治区的下拉菜单，在其他国家/地区则需要手动插入该字段。
+
+- “邮政编码”字段：确保“邮政编码”字段与指定的国家/地区、区域、城市或地址匹配。
+
+- “主要联系人信息”字段：确保已填写“名字”和“姓氏”字段，并且所指示的电子邮件地址是工作电子邮件地址，而不是个人电子邮件地址（例如，@outlook.com、@live.com 等）
+
+- “电话号码”字段：确保电话号码不包含特殊字符、空格或国家/地区代码。 “电话号码”字段中输入的值将始终包含最多 10 个字符。
+
+5. 如果没有错误消息，请从“设置”中依次选择“帐户设置”、“组织资料”和“标识符”   。
+
+6. 找到类型为“位置”且与此 CSP 帐户所在国家/地区匹配的 MPN ID，然后用它完成关联。
+
+7. 如果找不到与要使用的 CSP 帐户匹配的位置 MPN ID，可添加一个新位置，它将创建新的 MPN ID。 请查看下面的“添加 MPN 位置”。
 
 ## <a name="add-an-mpn-location"></a>添加 MPN 位置
 
@@ -81,9 +100,10 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 这是其注册的合�
 > [!NOTE]
 > 一旦将某一位置添加到合作伙伴中心后，就不能再删除它了。 如果已使用正确的 MPN ID 登录，则会在合作伙伴中心的左侧菜单中看到 MPN。
 
+
 ## <a name="delete-a-location"></a>删除位置
 
-若要从帐户中删除某个位置，需要联系[合作伙伴支持](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)人员。 请确保了解此操作的影响。 无法检索已删除的位置，并且将不再为你的公司识别或激活任何绑定到该特定 MPN id 的内容。
+若要从帐户中删除某个位置，需要联系[合作伙伴支持人员](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)。 请确保了解此操作的影响。 无法检索已删除的位置，并且将不再为你的公司识别或激活任何绑定到该特定 MPN id 的内容。
 
 ## <a name="change-country-of-partner-global-account"></a>更改合作伙伴全球帐户所在国家/地区 
 
