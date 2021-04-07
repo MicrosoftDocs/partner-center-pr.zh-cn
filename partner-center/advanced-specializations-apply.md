@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658410"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557777"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>使用合作伙伴中心应用于高级专用化并检查其状态
 
 **相应的角色**
 
 - 全局管理员
-- MPN 帐户管理员
+- 帐户管理员
 
 本文介绍如何使用合作伙伴中心仪表板来申请 [高级专用化](advanced-specializations.md)、检查进度并完成必要的步骤和验证。 你还将看到使用合作伙伴中心实现某些需要审核或客户引用的高级专用化的示例。
 

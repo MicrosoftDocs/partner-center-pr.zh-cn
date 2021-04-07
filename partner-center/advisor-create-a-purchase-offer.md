@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474132"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557743"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顾问：创建购买提议
 
@@ -48,7 +48,7 @@ ms.locfileid: "96474132"
     - **许可证计数**：选择订阅时，请键入要包括在购买提议中的许可证数量。
     - **委派管理**：此选项仅适用于经过认证的合作伙伴提供委派管理。 如果要提供客户端委托管理，请选择此选项。 如果执行此操作，客户端可以接受或不接受委派管理的购买提议。
 
-3. 单击“下一步”  。
+3. 选择“下一步”  。
 
 4. 在 " **发送** " 页上，复制 "购买产品/服务" 信息和 URL，然后将其粘贴到电子邮件、文档或网页中，以创建自定义购买提议。
 

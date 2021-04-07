@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658393"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557760"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>获得一种高级特殊化来展示您的经验证的功能
 
 **相应的角色**
 
 - 全局管理员
-- MPN 帐户管理员
+- 帐户管理员
 
-Microsoft 针对合作伙伴可以获得的相关 [黄金胜任度](learn-about-competencies.md) 构建高级专用化。 获得金牌能力及其相关的高级专用化，使合作伙伴能够进一步区分其功能。
+Microsoft 高级专用化基于合作伙伴可以获得的相关 [黄金胜任度](learn-about-competencies.md) 。 获得金牌能力及其相关的高级专用化，使合作伙伴能够进一步区分其功能。
 
 若要获得高级专用化，合作伙伴通常必须满足苛刻的要求，例如获取客户引用、进行第三方审核、证实相关技能集的实现，并满足特定的其他性能指标。
 

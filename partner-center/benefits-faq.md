@@ -9,25 +9,25 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514686"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557692"
 ---
 # <a name="benefits-faq"></a>关于权益的常见问题解答
 
 **相应的角色**
 
-- MPN 管理员
+- MPN 合作伙伴管理员
 
 本文介绍了有关 Microsoft 合作伙伴网络 (MPN) 优点的许多常见问题。
 
 
 ## <a name="general-questions"></a>一般问题
 
-### <a name="q-what-does-benefit-expiry-date-mean"></a>问： "收益到期日期" 的含义是什么
+### <a name="q-what-does-benefit-expiry-date-mean"></a>Q. "收益到期日期" 的含义是什么
 
 权益到期日期表示激活权益的最后日期。
 
@@ -40,7 +40,7 @@ ms.locfileid: "97514686"
 >[!NOTE]
 >如果有一些权益需要用户分配 (如 Visual Studio 订阅) ，可以在注册续订日期后的30天内激活并使用这些权益。
 
-### <a name="q-how-do-i-renew-my-benefits"></a>问： 如何实现续订我的权益
+### <a name="q-how-do-i-renew-my-benefits"></a>Q. 如何实现续订我的权益
 
 使用以下过程来续订权益：
 
@@ -54,17 +54,17 @@ ms.locfileid: "97514686"
 
 如果你想要的权益不可用，则需要续订你的合作伙伴中心成员身份，然后重复上述过程。
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>问： 我收到通知我订阅即将过期的通知-我该怎么办
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Q. 我收到通知我订阅即将过期的通知-我该怎么办
 
 登录到生成了通知的云门户，查看现有订阅的到期日期 () ，然后将许可证添加到过期订阅或扩展现有订阅。
 
-### <a name="q-when-can-i-renew-my-membership"></a>问： 何时可以续订成员身份
+### <a name="q-when-can-i-renew-my-membership"></a>Q. 何时可以续订成员身份
 
 在续订开始日期之后的任何日期，都可以续订现有成员资格。
 
 ## <a name="azure-and-cloud-activation-benefits"></a>Azure 和云激活权益
 
-### <a name="q-how-does-adding-extendingrenewing-licenses-work-on-azure"></a>问： 如何在 Azure 上添加、扩展/续订许可证
+### <a name="q-how-does-adding-extendingrenewing-licenses-work-on-azure"></a>Q. 如何在 Azure 上添加、扩展/续订许可证
 
 添加许可证时，会增加现有订阅的许可证总数。
 
@@ -73,17 +73,17 @@ ms.locfileid: "97514686"
 >[!IMPORTANT]
 >如果选择在现有订阅上添加许可证，则订阅将在12个月内过期，具体取决于现有许可证和已添加许可证的数量。 兑换密钥后，不能再次兑换。 在兑换密钥之前，请确保了解是否需要添加许可证或续订/扩展订阅。
 
-### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>问： 能否在我的客户帐户上激活许可证
+### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. 能否在我的客户帐户上激活许可证
 
 不是。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
 
-### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>问： 在 Azure 批量信用中分配用户时遇到问题。 我该怎么办
+### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. 在 Azure 批量信用中分配用户时遇到问题。 我该怎么办
 
 不能将 Azure 批量信贷优惠与其他产品组合。 如果用户分配不起作用，则这可能意味着你想要分配的用户已在使用其他许可、预付款或信用优惠，如 Microsoft 企业协议、云解决方案合作伙伴、Azure 开放许可、Azure Pass、Action Pack 等。如果用户未订阅其中的任何协议或计划，并且仍无法分配，请联系 Microsoft 支持部门。
 
 ## <a name="visual-studio-benefits"></a>Visual Studio 权益
 
-### <a name="q-how-does-visual-studio-activation-work-in-partner-center"></a>问： Visual Studio 在合作伙伴中心的激活方式
+### <a name="q-how-does-visual-studio-activation-work-in-partner-center"></a>Q. Visual Studio 在合作伙伴中心的激活方式
 
 可以通过执行以下步骤，将订阅分配给伙伴中心或 Azure Active Directory (AAD) 租户中的用户管理列表中的任何人：
 
@@ -102,7 +102,7 @@ ms.locfileid: "97514686"
 
 ## <a name="technical-benefits-and-support"></a>技术优势和支持
 
-### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>问： 我无法安装从合作伙伴中心下载的软件。 如何实现获取帮助
+### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>Q. 我无法安装从合作伙伴中心下载的软件。 如何实现获取帮助
 
 安装、激活以及其他与产品相关的帮助通过 Microsoft 支持部门提供。 若要获取帮助，请执行以下步骤：
 

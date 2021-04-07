@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474166"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557726"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>顾问：通过 Office 365 试用邀请和购买优惠构建客户群
 
@@ -45,7 +45,7 @@ ms.locfileid: "96474166"
 > [!NOTE]
 > 此功能仅适用于已获授权的订阅顾问的 Microsoft 合作伙伴。
 
-你将试用邀请发送给客户后，后面跟着一个购买提议。 您可以自定义产品/服务，使其包含您的客户所需的特定服务以及正确的用户许可证数量。 如果已通过认证来提供委派管理，则可以向购买产品/服务添加一个选项，以允许你代表客户管理订阅。
+你将试用邀请发送给客户后，后面跟着一个购买提议。 您可以自定义产品/服务，使其包含您的客户需要的特定服务以及正确的用户许可证数量。 如果已通过认证来提供委派管理，则可以向购买产品/服务添加一个选项，以允许你代表客户管理订阅。
 
 创建购买提议时，将为你创建一个自定义 URL。 该 URL 具有一个嵌入的代码，用于将您标识为订阅顾问。 此 URL 可用于一个或多个客户。 通过电子邮件将该 URL 发送给你的客户，或将其发布到你的网站。
 
