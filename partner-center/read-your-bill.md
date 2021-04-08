@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215809"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964351"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>了解帐单和对帐文件-了解如何在合作伙伴中心查找这些文件
 
@@ -28,11 +28,25 @@ ms.locfileid: "98215809"
 
 你的 **发票****汇总了你的所有合作伙伴中心费用** (整个计划、所有产品和所有客户) 。 
 
+## <a name="find-your-bill-and-reconciliation-file"></a>查找帐单和对帐文件 
+
+你可以在合作伙伴中心的仪表板的 "帐单" 页上找到你的发票。 您还可以在此页上找到您的帐单历史记录、支出趋势和协调文件。 
+
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。 
+
+2. 在左侧菜单中，选择 " **计费**"。 
+
+3. 在“计费状态”页面上，选择某一发票或对帐文件以查看更多详细信息。 
+
+您可以在页面顶部的 "帐户余额" 下，找到指向最新发票的链接。 
+
+您可以在 "帐单历史记录" 部分中找到以前的发票。 选择相应的年份，然后选择适当的计费周期旁的下拉箭头。 选择 "发票 (" 旁边的链接) 下载该时间段的发票。 
+
 ## <a name="invoice-types"></a>发票类型
 
 Microsoft 将为任何基于许可证的 (收费（例如 Office 365) 和基于使用情况的收费 (，例如 azure) ）和一个单独的发票（如 Azure RI、Marketplace 或 Azure 计划 (）发布一张发票。
 
-例如，应用于对象的  
+例如，  
 
 **方案 1 [单一货币]**：合作伙伴购买了145P 产品/服务和 O365 许可证，  
 
@@ -52,19 +66,6 @@ Microsoft 将为任何基于许可证的 (收费（例如 Office 365) 和基于�
 
 - 合作伙伴将收到另一个发票 PDF 和一个对帐文件，其中包含145p 产品在 EUR (或合作伙伴计费货币) 的收费。 
 
-## <a name="find-your-bill"></a>查找帐单 
-
-你可以在合作伙伴中心的仪表板的 "帐单" 页上找到你的发票。 您还可以在此页上找到您的帐单历史记录、支出趋势和协调文件。 
-
-1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。 
-
-2. 在左侧菜单中，选择 " **计费**"。 
-
-3. 在 "帐单" 页上，选择要下载的发票。 
-
-您可以在页面顶部的 "帐户余额" 下，找到指向最新发票的链接。 
-
-您可以在 "帐单历史记录" 部分中找到以前的发票。 选择相应的年份，然后选择适当的计费周期旁的下拉箭头。 选择 "发票 (" 旁边的链接) 下载该时间段的发票。 
 
 ## <a name="understanding-invoice-pdf"></a>了解发票 PDF 
 

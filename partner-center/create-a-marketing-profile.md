@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570152"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964384"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>创建业务配置文件，以获取 Microsoft 销售线索并帮助客户找到你
 
@@ -84,16 +84,7 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 搜索中使用的其他标记：
 
--  **资质标记** 是用于展示公司能力的所获名称。
--  **认可标记** 可在 Microsoft 或与你合作的客户认可你的工作时获得。
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>让 Microsoft 认可我的专长领域
-
-建议选择此设置。 
-
-当你通过合作伙伴中心证明成功吸引了客户，或者参与其他 Microsoft 认证或计划时，我们将针对为取得该成功做出贡献的你的特定产品、服务和行业自动添加认可。 认可是搜索结果中的重要因素。
-
-如果你为某些产品提供了服务，但你不想在档案中显示它们，则可以取消选中此框并手动管理你的档案。 客户将看不到这些认可，但你以后可以随时将认可添加回你的档案。
+- **资质标记** 是用于展示公司能力的所获名称。
 
 ### <a name="customer-preferences"></a>客户首选项
 
@@ -121,13 +112,12 @@ Microsoft 每年通过营销、销售和服务工作吸引了数百万客户。 
 
 发布档案后 24 小时内，[查找解决方案提供商](https://www.microsoft.com/solution-providers/home)搜索中会显示更新。
 
-## <a name="improve-the-visibility-of-your-profile"></a>提高档案的可见性 
+## <a name="improve-the-visibility-of-your-profile"></a>提高档案的可见性
 
 - **[快速响应请求](manage-leads.md)** 。 当你收到客户引荐时，更快的响应可以在未来客户的搜索页上产生更好的结果。
 
 - **精心挑选标记**。  最好是减少标记以便最贴切地代表公司的套餐、解决方案、价值主张以及可始终如一地证明成功的独特优势。  这将在未来的搜索结果中获益。
 - 通过 Microsoft **获得资质标记**，以证明你擅长我们的产品。
-- 从赏识你的工作的客户那里 **获得认可标记**。
 
 ## <a name="next-steps"></a>后续步骤
 

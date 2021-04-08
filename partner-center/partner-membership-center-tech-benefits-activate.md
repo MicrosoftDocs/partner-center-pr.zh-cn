@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e769758e14f48f6f7deb9dfe3354fa377a559c87
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087104"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964436"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>激活合作伙伴中心外 Microsoft 合作伙伴网络技术权益
 
@@ -33,7 +33,7 @@ ms.locfileid: "106087104"
 
 如果你是 PMC 用户，请参阅此表，了解有关如何激活你的技术权益的帮助。
 
- (如果你已有一个具有全局管理员或 MPN 合作伙伴管理员访问权限的合作伙伴中心帐户，请参阅 [管理你的技术权益](manage-your-partner-network-benefits.md#manage-technical-benefits)。 ) 
+ (如果你已有一个具有 "全局管理员" 或 "MPN 合作伙伴管理员" 访问权限的合作伙伴中心帐户，请参阅 [管理你的技术权益](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
 
 |对于此区域  | 联系人 |
 |:--------|:------------|

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502440"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964398"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>适用于合作伙伴中心的 CSP 计划合作伙伴的常见计费方案
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502440"
 - 销售代理
 
 这些文章解释了在添加新订阅、调整订阅的许可证数量或取消订阅后，应在帐单上看到的内容。 其他 [合作伙伴中心计费类型](billing-different-types.md)（例如基于使用情况和基于许可证的订阅）以不同方式计费。
+
+
+## <a name="change-billing-frequency"></a>更改计费频率
+
+计费频率是在订单级别进行更改的，并且在更改频率后，修改后的计费周期将应用于该订单内的所有订阅。 
+
+为客户更改在线服务的计费频率：
+
+1. [登录到合作伙伴中心面板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择“客户”。
+3. 选择要为其更改订阅计费频率的客户。
+4. 在客户的“订阅”页面上，选择要更改的订阅。
+5. 在“详细信息”页面上的“计费频率”下，选择“按月”或“按年”。 你将看到一个确认页面，其中包含与更改计费频率相关的重要信息，以及要更改的订阅的列表。
+6. 选择“确定”进行更改（或“取消”以撤消更改）。
+
+## <a name="billing-scenarios"></a>计费方案
 
 | 计费类型 | 涵盖的方案 |
 | --------------- | ----------------- |
