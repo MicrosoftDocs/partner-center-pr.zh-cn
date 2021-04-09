@@ -1,31 +1,43 @@
 ---
-title: 软件保障规划服务
+title: 软件保障规划服务停用
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何在 Microsoft 规划服务预订中注册和限定，以便您可以向具有软件保障的客户提供培训和其他服务。
+description: Microsoft 规划服务即将停用。
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028212"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024987"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>合作伙伴中心的软件保障规划服务
+# <a name="software-assurance-planning-services-retirement"></a>软件保障规划服务停用
 
 **相应的角色**
 
 - 全局管理员
 - MPN 合作伙伴管理员
 
-作为已批准的规划服务合作伙伴，Microsoft 将为你提供适用于企业客户的预先部署规划计划。 参与此计划可帮助你吸引更多客户、成为其受信任的规划合作伙伴，并导致其他客户服务。
 
-## <a name="get-started"></a>入门
+计划服务将从软件保障权益中完全停用，但客户可继续与合作伙伴合作，使用规划服务天数进行预订，同时这些凭证才有效。 这是导致计划停用的重要日期： 
+
+- 2020年2月1日：已停用计划服务云服务。  
+- 2020年2月1日：无法再将定型凭证转换为规划服务天数。  
+- 2021年2月1日：客户不再产生规划服务权益。 
+- 2021年6月30日：客户创建/分配规划服务凭证的最后一天。 所有剩余的规划服务天数将从2021年7月1日删除。
+- 2022年1月1日：合作伙伴兑换计划服务凭证的最后一天。 合作伙伴将在兑换之后60天，以完成支付请求过程。  
+
+>[!NOTE]
+>不会更改凭证生命周期。 创建/分配凭证后，在凭证过期之前的180天内必须完成凭证预订、客户接洽和凭证兑换。  有关规划服务程序停用的详细信息，请参阅 [此处](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 的常见问题解答，了解 (登录所需的详细信息) 。  请将任何问题指引给你的区域合作伙伴支持团队： [EMEA 合作伙伴支持](mailto:savoucher@msdirectservices.com); [一般合作伙伴支持](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>2021年6月30日之前
+
+### <a name="get-started"></a>入门
 
 如果你不熟悉软件保障规划服务，请执行以下所有步骤。 如果你已在计划服务程序中处于活动状态 () ，请在下面的步骤 4 () 4 中开始每个新的参与。
 
@@ -62,8 +74,6 @@ ms.locfileid: "105028212"
 
 首先，请确保查看所有 [规划服务计划策略](https://go.microsoft.com/fwlink/?linkid=2115984)。 然后，按照工作流 [步骤 2](https://go.microsoft.com/fwlink/?linkid=2115983) 中的说明完成合作伙伴中心的规划服务注册过程。
 
->[!NOTE]
-> 需要续订要求，并在每年的计划服务程序中重新注册。
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>创建或更新公司的业务配置文件 (新的合作伙伴) 
 
