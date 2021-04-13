@@ -390,8 +390,6 @@
     - name: 计费基础知识
       href: billing-basics.md
       displayName: invoice
-    - name: 合作伙伴中心的计费类型
-      href: billing-different-types.md
     - name: 了解帐单
       href: read-your-bill.md
       displayName: invoice
