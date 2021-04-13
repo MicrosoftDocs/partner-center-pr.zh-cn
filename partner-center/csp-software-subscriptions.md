@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475188"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502546"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商 (CSP) 计划销售软件订阅
-
-**适用于**
-
-- 云解决方案提供商
 
 **相应的角色**
 
 - 管理员代理
 - 全局管理员
 
-通过 Azure 预留实例以及 Server 订阅（Windows Server 和 SQL Server 订阅），云解决方案提供商计划中的合作伙伴可以更好地满足客户对成本效益更高的解决方案的快速增长的需求，从而为高度可预测的长期云工作负载提供支持。 
+通过 Azure 预留实例以及 Server 订阅（Windows Server 和 SQL Server 订阅），云解决方案提供商计划中的合作伙伴可以更好地满足客户对成本效益更高的解决方案的快速增长的需求，从而为高度可预测的长期云工作负荷提供支持。 
 
 现在，可以通过利用 Azure 混合权益，代表商业客户通过合作伙伴中心和 Azure 门户获取、预配和管理 Azure 预留实例和 Server 订阅。
 
@@ -101,7 +97,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 2. 选择产品版本、语言和位数，然后选择“获取密钥和下载”   。 
 
-3. 选择“获取密钥”，此时弹出对话框中将显示 32 位产品密钥，你可复制该密钥并将其发送给客户。 
+3. 选择“获取密钥”会弹出一个对话框，其中显示 32 位的产品密钥，你可复制该密钥并将其发送给客户。 
 
 4. 选择“下载”来下载位数。 
 
@@ -114,7 +110,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>可通过 Microsoft 365 管理中心为客户提供服务器订阅下载和许可证密钥 
 
-客户将能够从 Microsoft 365 管理中心获取云解决方案提供商服务器订阅许可证密钥和下载。 若要查看其云解决方案提供商服务器订阅许可证密钥和下载，客户必须转到“Microsoft 365 管理中心”>“计费”> 你的产品 >“软件选项卡”。有关详细信息，请参阅[“计费”下的“软件选项卡”](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)。  
+客户将能够从 Microsoft 365 管理中心获取云解决方案提供商服务器订阅许可证密钥和下载。 若要查看其 CSP 服务器订阅许可证密钥和下载，客户必须转到“Microsoft 365 管理中心”>“计费”>“你的产品”>“软件选项卡”。有关详细信息，请参阅[“计费”下的“软件选项卡”](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)。  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>查看软件密钥访问和软件下载的活动
 

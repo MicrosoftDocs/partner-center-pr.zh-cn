@@ -8,16 +8,16 @@ description: 使用合作伙伴中心与 Microsoft 和你的客户进行业务�
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582642"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132241"
 ---
 # <a name="what-is-partner-center"></a>什么是合作伙伴中心？
 
-##### <a name="appropriate-roles"></a>相应的角色
+**相应的角色**
 
 - 对合作伙伴中心感兴趣的所有合作伙伴
 
@@ -53,7 +53,7 @@ ms.locfileid: "103582642"
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>与 Microsoft 和其他合作伙伴联合销售
 
-联合销售是合作伙伴与 Microsoft 和其他合作伙伴共同销售的途径，可带来协作共赢的销售效果和积极的客户成果。 通过联合销售，你可利用 Microsoft 全球品牌、销售团队、需求挖掘能力和商业市场在世界各地触达新的客户。 与我们及其他合作伙伴联手共同销售。 在[管理合作销售机会](manage-co-sell-opportunities.md)中了解详细信息。
+联合销售是合作伙伴与 Microsoft 和其他合作伙伴共同销售的途径，可带来协作共赢的销售效果和积极的客户成果。 通过联合销售，你可使用 Microsoft 全球品牌、销售团队、需求挖掘能力和商业市场在世界各地触达新的客户。 与我们及其他合作伙伴联手共同销售。 在[管理合作销售机会](manage-co-sell-opportunities.md)中了解详细信息。
 
 ## <a name="manage-customer-software-needs"></a>管理客户软件需求
 

@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880797"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441262"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880797"
 
 Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的、以数字方式接受的合作伙伴协议。 Microsoft 合作伙伴协议包含一组核心的永久性条款，用于帮助 Microsoft、合作伙伴和客户支持数据隐私和安全性、促进合规性以及鼓励正确的商业实践。
 
-所有云解决方案提供商计划合作伙伴（包括间接提供商、间接经销商和直接计费合作伙伴）都可以在合作伙伴中心以联机方式签署 MPA。 在政府云中运营的直接计费和间接提供商合作伙伴也可以从合作伙伴中心内签署 MPA。
+所有云解决方案提供商计划合作伙伴（包括间接提供商、间接经销商和直接计费合作伙伴）都可以在合作伙伴中心以联机方式签署 MPA。 在 Microsoft Cloud for US Government 中运营的直接计费和间接提供商合作伙伴也可以从合作伙伴中心内签署 MPA。
 
 若要继续参与云解决方案提供商计划，需要在 2020 年 1月31 日前签署 Microsoft 合作伙伴协议。 合作伙伴中心将提醒你现在可以轻松地从合作伙伴中心内签署协议。
 
@@ -60,7 +60,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 1. 查看“计划信息”部分。 如果信息未显示“间接经销商”状态，则需[注册为间接经销商](indirect-reseller-tasks-in-partner-center.md)。
 
-1. 如果“间接经销商”状态为“活跃”，则你是合作伙伴中心的活跃间接分销商 。
+1. 如果“间接经销商”状态为“活跃”，则你是合作伙伴中心的活跃间接经销商 。
  
 4. 如果“间接经销商”状态为“合格”，则转到[仪表板概述](https://partner.microsoft.com/pcv/dashboard/overview)接受 MPA 以激活帐户  。
  
@@ -75,7 +75,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 1. 使用 CSP Indirect Reseller 帐户登录合作伙伴中心。 你必须是全局管理员。
 1. 转到[云解决方案提供商概述](https://partner.microsoft.com/pcv/dashboard/overview)页面。  如果没有看到“接受并继续”或告知你已签署 MPA 的绿色横幅，则表明你没有签署 MPA 的恰当角色。 请与全局管理员联系以签署 MPA。
 
-1. 若要在签署 Microsoft 合作伙伴协议之前查看和下载该协议，请单击 Microsoft 合作伙伴协议链接，如下所示。
+1. 若要在签署 Microsoft 合作伙伴协议之前查看和下载该协议，请选择 Microsoft 合作伙伴协议链接，如下所示。
 
 :::image type="content" source="images/agreement-three.png" alt-text="新的 MPA 协议位置":::
 
@@ -88,7 +88,7 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 若要查看是否已签署了 MPA，请执行以下操作：
 
- 作为公司的全局管理员，请转到 [CSP 概述](https://partner.microsoft.com/pcv/dashboard/overview)页面，查看是否有通知你已接受 MPA 的绿色横幅。
+ 作为公司的全局管理员，请转到 [CSP 概述](https://partner.microsoft.com/pcv/dashboard/overview)页，查看是否有通知你已接受 MPA 的绿色横幅。
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="显示接受 MPA 的绿色横幅":::

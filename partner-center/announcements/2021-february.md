@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/02/2021
+ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712471"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280898"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月公告
 
@@ -150,23 +150,25 @@ ________________
 
 ### <a name="categories"></a>类别
 
-- 日期：2021-02-25
+- 日期：2021-04-02
 - 增强的安全性和合规性
-
-### <a name="impacted-audience"></a>影响受众
-
-CSP 直接计费合作伙伴和间接提供商，他们在下一节中列出的国家/地区具有新客户或现有客户。
 
 ### <a name="summary"></a>总结
 
-我们承诺帮助合作伙伴和客户在相互信任的基础上开展业务，在此过程中，我们将请求其他客户信息，从 2021 年 5 月 25 日生效。
+我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将请求其他客户信息，从 2021 年 3 月 25 日生效。
+
+### <a name="impacted-audience"></a>影响受众
+
+CSP 商直接计费合作伙伴和间接提供商，他们在下一节中列出的国家/地区具有新客户或现有客户
 
 ### <a name="details"></a>详细信息
 
 Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 在 2021 年 5 月 25 日，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，它们将影响同时满足以下两个条件的合作伙伴：
 
 1. 合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。
+
 2. 合作伙伴与以下国家/地区的新客户或现有客户开展业务：
+
     - 泰国
     - 越南
     - 土耳其
@@ -181,7 +183,9 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅�
     - 阿拉伯联合酋长国
     - 委内瑞拉
 
-满足条件的合作伙伴必须在加入新客户或修改现有客户详细信息时，提交该客户的法律标识码（也称为客户的组织 INN）和电话号码  。 这些合作伙伴还可以为客户输入可选的中间名。
+满足条件的合作伙伴必须在其下一次更新或为客户创建订阅时提交该客户的公司注册 ID（也称为客户的组织 INN）和电话号码。 这些合作伙伴还可以为客户输入可选的中间名。
+
+请注意，在添加公司注册 ID 时，应使用企业纳税人标识号，而不是客户的个人 ID。
 
 与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。
 
@@ -197,20 +201,35 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅�
 - 乌克兰
 - 乌兹别克斯坦
 
-与世界上其他国家/地区的客户合作的合作伙伴可在 2021 年 5 月 25 日输入客户的法律识别码、电话号码和中间名（可选）详细信息  。
+与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月底输入客户的公司注册 ID、电话号码和中间名（可选）详细信息。
 
 ### <a name="next-steps"></a>后续步骤
 
-- 有关更详细的指南，请查看专门的[合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)（需要登录）中的技术文档和常见问题。
+- 有关更详细的指南，请查看专门的[合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)中的技术文档和常见问题。
 - 准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。 API/SDK 将可用于测试。
 - 请确保在加入新客户或修改现有客户详细信息时提交其他数据。
 - 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
 
 ### <a name="questions"></a>是否有任何问题?
 
-如果你有任何与法律识别码（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。
+如果你有任何与公司注册 ID（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。
 
-如果需要 Microsoft 的运营支持，请[创建服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)（需要登录）。
+如果需要 Microsoft 运营方面的支持，请创建[服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
+
+### <a name="change-log"></a>更改日志：
+
+2020 年 12 月 17 日：初始发布
+
+2021 年 1 月 28 日：重新发布无更改
+
+2021 年 2 月 25 日：公布具体发布日期
+
+2021 年 4 月 2 日：更新包括下列各项：
+
+- 提供了发布日期
+- 组织 INN 的标题已更新为公司注册 ID 
+- 添加了注释以提供对公司注册 ID 的说明
+
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> 现已上线：针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign
@@ -377,7 +396,7 @@ _______________
 
 ### <a name="next-steps"></a>后续步骤
 
-合作伙伴应从合作伙伴中心下载最新的价目表文件，以获取最新的 3 月价格。 
+合作伙伴应从合作伙伴中心下载最新的价目表文件，以获取最新的 3 月价格。
 
 _______________
 

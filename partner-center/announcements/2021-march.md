@@ -8,17 +8,293 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 04/02/2021
+ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
+ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880729"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "106374377"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 3 月公告。
+
+________________
+## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>已更新的 CSP 客户地址验证 API 现可用于测试
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-31
+- 功能
+
+### <a name="summary"></a>摘要
+
+我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将邀请世界各地的合作伙伴测试对 ValidateAddress API 的更改。
+
+### <a name="impacted-audience"></a>影响受众
+
+新建客户地址详细信息或更新现有客户地址详细信息的所有 CSP 直接计费合作伙伴和间接提供商
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户地址验证提交方法。 今天（2021 年 3 月 31 日）我们引入了对 ValidateAddress API 的更改，我们想邀请你在推出这些更改（2021 年 6 月）之前对其进行测试。 
+
+请注意，这些更改仅影响 ValidateAddress API。 CreateCustomer 和 UpdateBillingProfile 这两个 API 不受影响。
+
+响应将返回以下某个状态消息：
+
+| 状态 | 说明 | 返回的建议地址数 |
+|----------|-------------|-------------------|
+| VerifiedShippable | 地址已经过验证且可送达。 | Single |
+| 已验证 | 已验证地址。 | Single |
+| InteractionRequired | 建议的地址发生了重大更改，需要用户确认。 | Single |
+| StreetPartial | 地址中给出的街道信息不完整，需要更多信息。 | 多个 - 最多 3 个|
+| PremisesPartial | 给出的场所信息（楼栋号、房号等）不完整，需要更多信息。 | 多个 - 最多 3 个 |
+| 多个 | 地址中有多个字段不完整（也可能包括 StreetPartial 和 PremisesPartial）。 | 多个 - 最多 3 个 |
+| 无 | 地址错误。 | 无 |
+| NotValidated | 无法通过验证过程发送地址。  | 无 |
+
+提交地址供 ValidateAddress API 验证后，会返回以下响应架构：
+
+```csharp
+
+// <summary>
+/// Object represents the address validation response.
+/// </summary>
+
+public class AddressValidationResponse
+{
+   /// <summary>
+   /// Gets or sets the original address
+   /// </summary>
+   /// <value>
+   /// Original Address
+   /// </value>
+   public Address OriginalAddress { get; set; }
+
+   /// <summary>
+   /// Gets or sets the suggested addresses
+   /// </summary>
+   /// <value>
+   /// Suggested Addresses
+   /// </value>
+   public List<Address> SuggestedAddresses { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation status
+   /// </summary>
+   /// <value>
+   /// Status
+   /// </value>
+   public string Status { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation message
+   /// </summary>
+   /// <value>
+   /// Validation Message
+   /// </value>
+   public string ValidationMessage { get; set; }
+   ```
+
+查看此示例响应。 请注意，对于美国，如果你仅输入 5 位邮政编码，响应将为邮政编码行返回额外的 4 位后缀。
+
+```csharp
+
+"suggested_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Microsoft Way",
+    "postal_Code": "98052-8300"
+},
+"original_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Micro Way",
+    "postal_Code": "98052"
+},
+"status":  "InteractionRequired",
+"validation_message": "Address field invalid for property: ‘Street’"
+}
+```
+
+### <a name="next-steps"></a>后续步骤
+
+- 与我们的行业专家 (SME) Ali Khaki 分享你的沙盒租户 ID，以加入外部测试，这样你可以开始准备更新。
+
+- 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果在 Microsoft 运营方面有任何疑问或需要支持，请联系你的合作伙伴 Yammer 支持组。
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>新的 Exchange 管理中心 (EAC) 体验
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-29
+- 功能
+
+### <a name="summary"></a>摘要
+
+从 2021 年 4 月 27 日开始，Exchange 管理中心 (EAC) 将推出一种将提高用户日常工作效率的新体验。
+
+### <a name="impacted-audience"></a>影响受众
+
+通过合作伙伴中心访问 Exchange 的委派管理员
+
+### <a name="details"></a>详细信息
+
+从 2021 年 4 月 27 日起，通过合作伙伴中心导航到 Exchange 的合作伙伴会被重定向到新的 EAC。
+
+此新体验当前以预览版的形式提供，管理员可提供选择经典 EAC 右上角的切换开关来激活此体验。 他们还可以选择所有页面上显示的“立即试用”横幅导航到新的 EAC。
+
+新 EAC 的优点包括：
+
+- 添加了与邮件流相关的问题的见解、报告和警报机制。 
+
+- 个性化的面板，便于提高工作效率。
+
+为了帮助你浏览新体验，“培训和指南”部分提供了有关新 EAC 体验的视频。 这些视频简要介绍如何最好地使用新门户。
+
+>[!NOTE]
+>进行此更改后，不会弃用经典 EAC 体验。 我们在实施任何更改之前，会提前很久通知用户。
+
+### <a name="next-steps"></a>后续步骤
+
+- 查看[有关本主题的资源](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)，你可以在其中查看新体验的屏幕截图。
+
+- 请与贵组织中的相应利益干系人共享此信息。 
+
+### <a name="questions"></a>是否有任何问题?
+
+如果对这些更改有任何问题，请访问相关的 Yammer 社区。
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft 运营：引入产品发布日历
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-25
+- 产品/服务 | 新式工作区
+
+### <a name="summary"></a>总结
+
+为了响应合作伙伴反馈，Microsoft 运营部将简化产品发布通信。
+
+### <a name="impacted-audience"></a>影响受众
+
+云解决方案提供商 (CSP) 合作伙伴
+
+### <a name="details"></a>详细信息
+
+Microsoft 致力于不断改进合作伙伴体验。 我们从你那里得到的反馈是，你已经收到了太多来自 Microsoft 的信息，包括重复的产品发布公告。
+
+根据你的反馈，Microsoft 已简化了新产品/服务和现有产品/服务的产品发布准备体验。
+
+现在，我们将为你提供一个产品发布月度视图，该视图发布在运营准备资源库中。 此月度[产品发布日历视图](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)将替代运营准备资源库和合作伙伴中心公告中的各个产品发布通信。
+
+你还可以从[社区集合](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)、[日历视图](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)和 [CSP 新闻稿](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)访问此[产品发布日历](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)。 当我们在运营准备资源库中发布每个月的产品发布日历及公告时，会向你发送通知。
+
+你仍可以在价目表预览、价目表更改日志以及产品博客、许可指南和产品营销页中找到有关新产品/服务和现有产品/服务的信息。
+
+此更改将适用于以下产品的发布：
+
+- 本地 Dynamics
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- 服务器  
+- 工具
+- Teams 和 Telco
+
+我们将继续为需要运营准备详细情况的产品发布发送具体公告。
+
+### <a name="next-steps"></a>后续步骤
+
+查看有关本主题的资源，并与组织内部的相关利益干系人共享此信息。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果对这些产品/服务有任何进一步的问题，请访问相关的 Yammer 社区。
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>CSP 客户加入要求变更
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-25
+- 功能
+
+### <a name="summary"></a>摘要
+
+我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将请求其他客户信息，从 2021 年 3 月 25 日生效。
+
+### <a name="impacted-audience"></a>影响受众
+
+云解决方案提供商 (CSP) 直接计费合作伙伴和间接提供商，他们拥有位于下一节所列国家/地区的新客户或现有客户
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 在 2021 年 5 月 25 日，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，它们将影响同时满足以下两个条件的合作伙伴：
+
+1. 合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。
+
+2. 合作伙伴与以下国家/地区的新客户或现有客户开展业务：
+
+    - 泰国
+    - 越南
+    - 土耳其
+    - 波兰
+    - 南非
+    - 印度
+    - 巴西
+    - 伊拉克
+    - 缅甸
+    - 南苏丹
+    - 沙特阿拉伯
+    - 阿拉伯联合酋长国
+    - 委内瑞拉
+
+满足条件的合作伙伴必须在加入新客户或修改现有客户详细信息时，提交该客户的公司注册 ID（也称为客户的组织 INN）和电话号码  。 这些合作伙伴还可以为客户输入可选的中间名。
+
+请注意，在添加公司注册 ID 时，应使用企业纳税人标识号，而不是客户的个人 ID。
+
+与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。
+
+- 亚美尼亚
+- 阿塞拜疆
+- 白俄罗斯
+- 匈牙利
+- 哈萨克斯坦
+- 吉尔吉斯斯坦
+- 摩尔多瓦
+- 俄罗斯
+- 塔吉克斯坦
+- 乌克兰
+- 乌兹别克斯坦
+
+与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月 25 日输入客户的公司注册 ID、电话号码和中间名（可选）详细信息  。
+
+### <a name="next-steps"></a>后续步骤
+
+- 有关更详细的指南，请查看[专门的合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)中的技术文档和常见问题。
+
+- 准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。 API/SDK 将可用于测试。
+
+- 请确保在加入新客户或修改现有客户详细信息时提交其他数据。
+
+- 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果你有任何与法律识别码（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。
+
+如果需要与 Microsoft 运营有关的支持，请[创建服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>更正了 2021 年 3 月 1 日永久性软件价目表

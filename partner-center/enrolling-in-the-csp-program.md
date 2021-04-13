@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712267"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441806"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
-
-**适用于**
-
-- 合作伙伴中心  
 
 **相应的角色**
 
@@ -73,7 +69,7 @@ ms.locfileid: "104712267"
 |**MPN ID**   |Microsoft 合作伙伴网络中的有效成员资格以及适用于销售所在地的 MPN ID。    |
 |**认可**   |代表组织接受和签署法律协议的授权。|
 |**支持**   |向客户提供一级云产品支持的能力。 <br>Microsoft 支持计划（合作伙伴高级支持 (ASfP) 或合作伙伴顶级支持 (PSfP)），具体取决于你的需求。 [比较支持计划](https://partner.microsoft.com/support/partnersupport)。<br> 重要：在购买支持计划之前必须通过信用检查。 如果通过了信用检查，我们会向你发送电子邮件。 |
-|**收入要求**|作为间接经销商，必须在过去 12 个月内达到至少 30 万美元的云解决方案提供商计划年收入。 合作伙伴可查看过去 12 个月在合作伙伴中心的收入。<br/>Microsoft 将审查并验证构成你过去 12 个月内 30 万美元收入的销售额，并可能要求你提供附加信息。 30 万美元的收入要求是根据云收入计算的，其中不包括 CSP 中的永久软件。|
+|**收入要求**|作为间接经销商，必须在过去 12 个月内达到至少 30 万美元的云解决方案提供商计划年收入。 合作伙伴可查看过去 12 个月在合作伙伴中心的收入。<br/>Microsoft 将审查并验证构成你过去 12 个月内 30 万美元收入的销售，并可能要求你提供额外的信息。 30 万美元的收入要求是根据云收入计算的，其中不包括 CSP 中的永久软件。|
 |**应收帐款** |用于管理客户计费和预配的已就绪组织基础架构。|
 |建议|             |
 |**托管服务**   |至少一项托管服务、IP 服务或客户解决方案应用程序。 了解有关添加[托管服务](https://partner.microsoft.com/business-opportunities/managed-services-provider)的更多信息。|

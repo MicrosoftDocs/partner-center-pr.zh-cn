@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 02/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何使用技能报告确保公司保持最新实现的能力。
+description: 了解如何使用技能报告确保公司在始终拥有最新的能力。
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474245"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132428"
 ---
 # <a name="using-the-skills-report"></a>使用技能报告
 
@@ -59,9 +59,9 @@ ms.locfileid: "99474245"
 
 1. 使用具有相应合作伙伴中心角色的用户帐户，登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 2. 从左侧导航菜单中，依次选择“MPN”和“能力” 。
-3. 在“能力”页的右上角找到以下选项：“能力绩效报告”和“下载技能报告” 。 你可以选择在合作伙伴中心用户界面内查看技能报告数据，也可以通过下载的电子表格进行查看。
+3. 在“能力”页的右上角找到以下选项：“职能绩效报告”和“下载技能报告” 。 你可以选择在合作伙伴中心用户界面内查看技能报告数据，也可以通过下载的电子表格进行查看。
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="合作伙伴中心“能力”页面，右上角突出显示了两个选项。" border="true":::
-   - 若要查看易于阅读的技能报告数据，请选择“能力绩效报告”，然后在“能力报告”页的左上角选择“用户技能数据” 。 
+   - 若要查看易于阅读的技能报告数据，请选择“职能绩效报告”，然后在“能力报告”页的左上角选择“用户技能数据” 。 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="合作伙伴中心“能力报告”页面，左上角显示了“用户技能数据”选项。" border="true":::
    - 若要以电子表格格式下载报告，请选择“下载技能报告”。 下载并打开文件后，你将看到一个表，其中包含每个用户的技能的相关详细信息。 “关联到 PMC”和“关联到 PC”列指示用户的技能是否已关联到其之前的 Partner Membership Center (PMC) 帐户及其合作伙伴中心 (PC) 帐户 。 如果仍有用户在 PMC 中运行，请参阅后面的 PMC 用户部分。
    

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: f550a1b145a4de7a6ecd13dd42241b059da55533
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374410"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266446"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "106374410"
 
 |**类别**|**2021 年 4 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[提醒：于 2021 年 4 月 4 日弃用 GET 资格](2021-april.md#4)|4 月 9 日|
 |功能|[对 CSP 中新的商业 PDF 发票使用新格式](2021-april.md#3)|4 月 5 日|
 |功能|[对云解决方案提供商 (CSP) 客户加入要求的更改](2021-april.md#2)|4 月 2 日|
 |功能|[查看本月的产品发布和套餐](2021-april.md#1)|4 月 1 日|

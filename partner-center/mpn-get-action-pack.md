@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514729"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132292"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>购买或续订 Microsoft Action Pack 订阅或白银和黄金资格
 
@@ -22,12 +22,12 @@ ms.locfileid: "97514729"
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - MPN 合作伙伴管理员
 - 管理员代理
 
 
-在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中，Microsoft 合作伙伴网络 (MPN) 成员可以购买或续订权益套餐，包括 Microsoft Action Pack 订阅以及白银资格和黄金资格。
+在合作伙伴中心[面板](https://partner.microsoft.com/dashboard)中，Microsoft 合作伙伴网络 (MPN) 成员可以购买或续订权益套餐，包括 Microsoft Action Pack 订阅以及白银资格和黄金资格。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次购买 Microsoft Action Pack
 

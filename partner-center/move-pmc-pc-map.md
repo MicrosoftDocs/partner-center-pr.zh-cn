@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436806"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132989"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
 **相应的角色**
--    全局管理员
+
+- 全局管理员
 
 为了让你能够轻松地与我们开展业务，我们建立了一个网站（合作伙伴中心），方便大家参与。 你会发现，在 Partner Membership Center (PMC) 中做的事情都能够在合作伙伴中心的仪表板中完成。 
 
-你还可以执行更多操作，全都不需离开这个网站即可完成。 不过，部分术语和功能看起来可能有所不同。 为了消除一开始不知道相关内容所在位置和功能的疑虑，请务必在面板中浏览一下网站内容。
+你还可以在不离开这个网站的情况下完成更多操作。 不过，部分术语和功能看起来可能有所不同。 若要了解在何处执行某些任务以及哪些功能可用，你应该在面板中浏览一下网站内容。
 
 下表呈现了 PMC 与合作伙伴中心的一些差异。
 
@@ -43,7 +44,7 @@ ms.locfileid: "86436806"
 
 |**PMC**   |**合作伙伴中心**|
 |----------------------|:-----------------------------|
-|可以使用 Microsoft 帐户 (MSA) 或个人帐户凭据 joe@outlook.com|你必须使用你的工作帐户凭据 (joe@joescompany.com)。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。|
+|可以使用 Microsoft 帐户 (MSA) 或个人帐户凭据 joe@outlook.com|你必须使用你的工作帐户凭据（例如 joe@joescompany.com）。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。|
 
 ## <a name="user-roles"></a>用户角色
 
@@ -61,7 +62,7 @@ ms.locfileid: "86436806"
 |可以使用其他权益工具包 (ABTK)，直到其在 2018 年停用为止。|没有 ABTK；一个公司一个 MAPS；一个公司一个银牌能力；一个公司一个金牌能力|
 ||只要你还没有 MAPS，就可以购买它。 是否拥有 MAPS 与能力不挂钩。  
 |在合作伙伴数字下载 (PDD) 位置访问权益 |所有权益都在合作伙伴中心访问|
-|能力和权益分布在多个位置|所有位置的能力和权益在公司 (PGA) 级别合并，并保留到周年日期那一天。 到那时候，你需要在公司级别进行购买或续订。 性能和技能以及能力在全局进行聚合|
+|能力和权益分布在多个位置|所有位置的能力和权益在公司 (PGA) 级别合并，并保留到周年日期那一天。 到那时候，你需要在公司级别进行购买或续订。 性能、技能和能力是在全球范围聚合的|
 |软件保障凭证是通过凭证验证和兑换 (VVR) 工具索取的|现在可以在合作伙伴中心访问和管理软件保障培训凭证 (SATV) 和/或已部署规划服务 (DPS)。  旧版 VVR 工具将在 2019 年 10 月 1 日停用。  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>将 MCP ID 关联到合作伙伴中心

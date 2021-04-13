@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534873"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502491"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>获取管理客户服务或订阅的权限
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
 - 管理员代理
 - 销售代理
 
-若要代表客户管理客户的服务或订阅，客户必须授予你对该服务的管理员权限。 若要从客户处获取管理员权限，请通过电子邮件向他们发送经销商关系请求。 在客户批准你的请求后，你可以登录到该服务的门户并代表客户管理该服务。 
+若要代表客户管理客户的服务或订阅，客户必须授予你对该服务的管理员权限。 若要从客户处获取管理员权限，请通过电子邮件向他们发送经销商关系请求。 在客户批准你的请求后，你可以登录到该服务的管理门户并代表客户管理该服务。 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀请客户与你建立经销商关系
 

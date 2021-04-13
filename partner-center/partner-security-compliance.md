@@ -9,17 +9,17 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624147"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086543"
 ---
 # <a name="security-requirements-status-report"></a>安全要求状态报告
 
 **相应的角色**
-- 控制面板供应商
+- CPV 管理员
 - 全局管理员
 
 本文介绍合作伙伴中心中的安全要求状态报告。 该报告提供有关合作伙伴租户中用户进行多重身份验证 (MFA) 的[合作伙伴安全要求](partner-security-requirements.md)的合规性指标。
@@ -53,7 +53,7 @@ ms.locfileid: "99624147"
 - 在第二天，John 在未完成 MFA 验证的情况下登录到了合作伙伴中心仪表板，并执行了 5 项操作。
 - 在第三天，Jane 在完成 MFA 验证的情况下登录到了合作伙伴中心仪表板，并执行了 2 项操作。
 - 在剩余的 4 天里，这两名代理未执行任何操作。
-- 在 7 天内共执行了 10 项操作，其中，有 2 项操作是用户在已完成 MFA 验证的情况下执行的。 因此，指标显示 20%。
+- 在 7 天内共执行了 10 项操作，其中有 2 项是用户在已完成 MFA 验证的情况下执行的。 因此，指标显示 20%。
 
 使用“没有 MFA 的门户请求”文件来了解哪些用户未进行 MFA 验证便已登录到合作伙伴中心仪表板，及其在报告时段内进行最后一次访问的时间。
 
@@ -82,7 +82,7 @@ ms.locfileid: "99624147"
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>对合作伙伴租户实施 MFA
 
-你需要对合作伙伴租户实施 MFA 才能实现合规性。 有关如何实施 MFA 的详细信息，请参阅[使用合作伙伴中心或合作伙伴中心 API 的安全要求](partner-security-requirements.md)。
+你必须对合作伙伴租户实施 MFA 才能实现合规性。 有关如何实施 MFA 的详细信息，请参阅[使用合作伙伴中心或合作伙伴中心 API 的安全要求](partner-security-requirements.md)。
 
 >[!NOTE]
 > MFA 指标是每日计算的，并会将过去 7 天内执行的操作考虑在内。 如果你只是最近才对合作伙伴租户完成了 MFA 的实施，指标可能尚未显示 100%。

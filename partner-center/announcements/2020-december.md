@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712539"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280915"
 ---
 # <a name="december-2020-announcements"></a>2020 年 12 月公告
 
@@ -189,15 +189,14 @@ ____________
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>对云解决方案提供商 (CSP) 客户加入要求的更改
-
 ### <a name="categories"></a>Categories
 
-- 日期:2020-12-17
+- 日期：2021-04-02
 - 产品/市场
- 
+
 ### <a name="summary"></a>摘要
 
-作为我们对帮助合作伙伴和客户基于信任开展业务的承诺的一部分，我们将请求其他客户信息，从 2021 年 3 月底生效。
+我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将请求其他客户信息，从 2021 年 3 月 25 日生效。
 
 ### <a name="impacted-audience"></a>影响受众
 
@@ -205,11 +204,12 @@ CSP 商直接计费合作伙伴和间接提供商，他们在下一节中列出�
 
 ### <a name="details"></a>详细信息
 
-Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 2021 年 3 月底，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，这些增强功能将影响同时满足以下两个条件的合作伙伴：
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。 在 2021 年 5 月 25 日，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，它们将影响同时满足以下两个条件的合作伙伴：
 
 1. 合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。
 
 2. 合作伙伴与以下国家/地区的新客户或现有客户开展业务：
+
     - 泰国
     - 越南
     - 土耳其
@@ -224,7 +224,9 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅�
     - 阿拉伯联合酋长国
     - 委内瑞拉
 
-满足条件的合作伙伴必须在其下一次更新或为客户创建订阅时提交该客户的法律识别码（也称为客户的组织 INN）和电话号码  。 这些合作伙伴还可以为客户输入可选的中间名。
+满足条件的合作伙伴必须在其下一次更新或为客户创建订阅时提交该客户的公司注册 ID（也称为客户的组织 INN）和电话号码。 这些合作伙伴还可以为客户输入可选的中间名。
+
+请注意，在添加公司注册 ID 时，应使用企业纳税人标识号，而不是客户的个人 ID。
 
 与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。
 
@@ -240,7 +242,7 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅�
 - 乌克兰
 - 乌兹别克斯坦
 
-与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月底输入客户的法律识别码、电话号码和中间名（可选）详细信息  。
+与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月底输入客户的公司注册 ID、电话号码和中间名（可选）详细信息。
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -251,9 +253,19 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅�
 
 ### <a name="questions"></a>是否有任何问题?
 
-如果你有任何与法律识别码（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。 
+如果你有任何与公司注册 ID（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。 Microsoft 无法提供有关税务事宜的指导。
 
-如果需要与 Microsoft 的运营支持，请[创建服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
+如果需要 Microsoft 运营方面的支持，请创建[服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
+
+### <a name="change-log"></a>更改日志：
+
+2020 年 12 月 17 日：初始发布
+
+4 月 2 日更新：
+
+- 提供了发布日期
+- 组织 INN 的标题已更新为公司注册 ID
+- 添加了注释以提供对公司注册 ID 的说明
 
 ______________
 

@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623994"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087121"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作伙伴赚取的返点的计算与支付方式
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - 计费管理员
 - 销售代理
 
-合作伙伴赚取的托管服务返点 (PEC) 是对合作伙伴为客户的部分或整个 Azure 环境提供全天候 IT 运营控制和管理所做努力给予的认可和奖励。 默认情况下，在云解决方案提供商中，合作伙伴对客户订阅拥有必要的访问权限，以便能够对订阅中的资源进行全天候的运营管理和控制。 下一部分将会介绍客户为交易合作伙伴预配访问权限的其他方法。 每月发票金额是合作伙伴赚取的返点净额。 合作伙伴可以在其每月对帐文件中查看 PEC 详细信息。 有关客户可为交易合作伙伴预配访问权限的其他方法，请参阅[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)。
+合作伙伴赚取的托管服务返点 (PEC) 是对合作伙伴为客户的部分或整个 Azure 环境提供全天候 IT 运营控制和管理所做努力给予的认可和奖励。 默认情况下，在云解决方案提供商中，合作伙伴对客户订阅拥有必要的访问权限，以便能够对订阅中的资源进行全天候的运营管理和控制。 下一个部分介绍客户为交易合作伙伴预配访问权限的其他方法。 每月发票金额是合作伙伴赚取的返点净额。 合作伙伴可以在其每月对帐文件中查看 PEC 详细信息。 有关客户可为交易合作伙伴预配访问权限的其他方法，请参阅[管理 Azure 计划中的订阅和资源](azure-plan-manage.md)。
 
 另请参阅[恢复 Azure CSP 订阅的管理员权限](revoke-reinstate-csp.md)
 
@@ -66,7 +66,7 @@ PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中�
 
    成本分析视图将显示计费帐户的成本，即以你支付给 Microsoft 的价格购买和使用的所有服务的成本。
 
-4. 在数据透视图的下拉菜单中选择 PartnerEarnedCreditApplied，以查看应用了 PEC 的成本。 如果 PartnerEarnedCreditApplied 属性为 True，则表示关联的成本享有合作伙伴赚取的返点的权益。 
+4. 在数据透视图的下拉列表中选择 PartnerEarnedCreditApplied，以查看应用了 PEC 的成本。 如果 PartnerEarnedCreditApplied 属性为 True，则表示关联的成本享有合作伙伴赚取的返点的权益。 
 
    如果 PartnerEarnedCreditApplied 属性为 False，则表示关联的成本不满足所需的返点条件，或者购买的服务不符合合作伙伴赚取的返点条件。
 
@@ -79,7 +79,7 @@ PEC 每日计算，可在每日使用情况文件和每月发票对帐文件中�
 
 - [合作伙伴赚取的返点 - 概述](partner-earned-credit.md)
 
-- 在可通过合作伙伴中心仪表板访问（需要登录）的价目表中，提供了合作伙伴赚取的返点的计算方式的详细示例。
+- 在可通过合作伙伴中心面板访问（需要登录）的价目表中，提供了合作伙伴赚取的返点的计算方式的详细示例。
 
 - [转移到 Azure 计划 - 入门](azure-plan-get-started.md)
 

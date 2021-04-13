@@ -9,23 +9,18 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: f2bf6823fdd976632fb8ad9c8f11ce99835d76a5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133042"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087070"
 ---
 # <a name="common-questions-about-partner-security-requirements"></a>合作伙伴安全要求的常见问题
 
-**适用于**
+**相应的角色**
 
-- 合作伙伴中心
-
-**相应的用户**
-
-- 所有支持的用户，包括来宾用户
-
+- 所有合作伙伴中心用户
 
 本文回答了有关[合作伙伴安全要求](partner-security-requirements.md)的一些常见问题。
 
@@ -53,7 +48,7 @@ Microsoft 合作伙伴协议要求你为用户帐户强制实施多重身份验�
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何才能知道自己是否满足合作伙伴安全要求？
 
-你需要完成以下步骤：
+完成以下步骤：
 
 - 你需要满足[合作伙伴安全要求](partner-security-requirements.md)中列出的所有要求。
 - 需要确保合作伙伴租户中的所有用户帐户都已实施多重身份验证。
@@ -98,7 +93,7 @@ CSP 计划中的所有合作伙伴（直接计费合作伙伴、间接提供商�
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>什么是多重身份验证 (MFA)？
 
-MFA 是一种安全机制，单个用户可以使用该机制通过多个必需的安全和验证过程进行身份验证。 该方法需要使用下列身份验证方式中的两种或更多种来发挥作用：
+MFA 是一种安全机制，用于通过多个必需的安全和验证过程验证个人的身份。 该方法需要使用下列身份验证方式中的两种或更多种来发挥作用：
 
 - 您知道的信息（通常为密码）
 - 用户具有的某样东西（无法轻易复制的可信设备，如电话）
@@ -106,7 +101,7 @@ MFA 是一种安全机制，单个用户可以使用该机制通过多个必需�
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>启用 MFA 的费用是多少？
 
-Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免费提供 MFA。 通过此版 MFA 提供的唯一验证选项是身份验证器应用程序。 如果需要电话呼叫或短信，则需购买 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 许可证。 也可利用第三方解决方案为你合作伙伴租户中的每名用户提供 MFA - 在这种情况下，你需要负责确保强制实施 MFA 解决方案并且确保你是合规的。
+Microsoft 允许用户实施 Azure AD 安全性默认设置，以这种方式免费提供 MFA。 使用此版 MFA 提供的唯一验证选项是身份验证器应用程序。 如果需要电话呼叫或短信，则需购买 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 许可证。 也可利用第三方解决方案为你合作伙伴租户中的每名用户提供 MFA - 在这种情况下，你需要负责确保强制实施 MFA 解决方案并且确保你是合规的。
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>如果已经有了 MFA 解决方案，我需要采取什么措施？
 
@@ -145,7 +140,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>如何在集成沙盒中测试 MFA？
 
-应该启用 Azure AD 安全性默认设置功能，也可利用某个使用联合身份验证的第三方解决方案。
+应该启用 Azure AD 安全默认值功能，也可使用某个使用联合的第三方解决方案。
 
 ### <a name="will-enabling-mfa-affect-how-i-interact-with-my-customers-tenant"></a>启用 MFA 是否会影响我与客户的租户交互？
 
@@ -165,7 +160,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>如何配置紧急访问（不受限）帐户？
 
-最佳做法是创建一两个紧急访问帐户，防止自己被意外锁定在 Azure AD 租户外。 根据合作伙伴安全要求，每个用户都必须使用 MFA 进行身份验证。 此要求意味着你需要修改紧急访问帐户的定义。 它可以是利用第三方解决方案进行 MFA 的帐户。
+最佳做法是创建一两个紧急访问帐户，防止自己被意外锁定在 Azure AD 租户外。 根据合作伙伴安全要求，每个用户都必须使用 MFA 进行身份验证。 此要求意味着你需要修改紧急访问帐户的定义。 它可以是使用第三方解决方案进行 MFA 的帐户。
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>如果我使用第三方解决方案，是否必须使用 Active Directory 联合身份验证服务 (ADFS)？
 
@@ -177,7 +172,7 @@ Microsoft 不再向独立的标识提供者提供是否符合 Azure Active Direc
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>是否可以使用条件访问来满足 MFA 要求？
 
-是的，可以使用条件访问为合作伙伴租户中的每个用户（包括服务帐户）强制实施 MFA。 但是，考虑到合作伙伴会有很高的特权，因此我们需要确保在每位用户每次进行身份验证时都对其进行 MFA 质询。 这意味着，如果条件访问的某些功能需要规避 MFA 要求，你就无法使用它们。
+是的，可以使用条件访问为合作伙伴租户中的每个用户（包括服务帐户）强制实施 MFA。 但是，考虑到合作伙伴会有很高的特权，因此我们需要确保在每位用户每次进行身份验证时都对其进行 MFA 质询。 这意味着，如果条件访问功能需要规避 MFA 要求，你就无法使用它。
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>Azure AD Connect 使用的服务帐户是否会受合作伙伴安全要求的影响？
 
@@ -210,7 +205,7 @@ Microsoft 引入了一个安全且可缩放的框架，用于对使用多重身�
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>是否只需为合作伙伴中心 API/SDK 实现安全应用程序模型？
 
-对所有用户帐户强制实施多重身份验证会影响任何旨在以非交互方式运行的自动化或集成。 虽然根据合作伙伴安全要求，必须为合作伙伴中心 API 启用安全应用程序模型，但可以利用它来解决对自动化和集成进行双重身份验证的需求。
+对所有用户帐户强制实施多重身份验证会影响任何旨在以非交互方式运行的自动化或集成。 虽然根据合作伙伴安全要求，必须为合作伙伴中心 API 启用安全应用程序模型，但可以使用它来解决对自动化和集成进行双重身份验证的需求。
 
 >[!Note] 
 >被访问的资源需要支持基于访问令牌的身份验证。
@@ -299,7 +294,7 @@ CPV 需在与其注册（以 CPV 身份）相关联的租户中创建 Azure Acti
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 为客户提供支持，该怎么办？
 
-合作伙伴安全要求的技术实施将会检查身份验证的帐户是否已受到多重身份验证的质询。 如果该帐户未受到质询，系统则会将你重定向到登录页面并且会再次提示你进行身份验证。 请在此[为合作伙伴租户强制执行多重身份验证 (MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 文档中查看其他体验和指南。 如果你的域不是联合域，那么在成功完成身份验证后，系统会提示你设置多重身份验证。 设置完成后，你就可以使用 AOBO 对客户进行管理。 如果你的域是联合域，则需要确保帐户受到多重身份验证的质询。
+合作伙伴安全要求的技术实施将会检查身份验证的帐户是否已受到多重身份验证的质询。 如果该帐户未受到质询，系统会将你重定向到登录页面并且会再次提示你进行身份验证。 请在此[为合作伙伴租户强制执行多重身份验证 (MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 文档中查看其他体验和指南。 如果你的域不是联合域，那么在成功完成身份验证后，系统会提示你设置多重身份验证。 设置完成后，你就可以使用 AOBO 对客户进行管理。 如果你的域是联合域，则需要确保帐户受到多重身份验证的质询。
 
 ## <a name="security-defaults-transition"></a>安全默认设置过渡
 

@@ -9,27 +9,21 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133095"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086356"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>为合作伙伴租户强制执行多重身份验证 (MFA)
 
-**适用于**
-
-- 云解决方案提供商计划中的所有合作伙伴
-- 所有控制面板供应商
-- 所有顾问
-
-**受影响的角色**
+**相应的角色**
 
 - 管理员代理
 - 销售代理
 - 支持人员代理
-- 帐务管理员
+- 计费管理员
 - 全局管理员
 
 本文提供了在合作伙伴中心强制执行多重身份验证 (MFA) 的详细示例和指导。 此功能的目的是帮助合作伙伴保护他们对客户资源的访问，防止凭据遭到泄露。 合作伙伴必须为其合作伙伴租户中的所有用户帐户（包括来宾用户）强制实施 MFA。 将针对以下方面强制这些用户完成 MFA 验证：
@@ -151,7 +145,7 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-当使用“仅应用”身份验证时，支持“仅应用”身份验证的 API 将继续运行，而无需 MFA。
+当使用“仅应用”身份验证时，支持“仅应用”身份验证的 API 将持续运行，而无需 MFA。
 
 ## <a name="partner-delegated-administration"></a>合作伙伴委派的管理
 
@@ -174,7 +168,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 ### <a name="using-service-apis"></a>使用服务 API
 
-某些 Microsoft Online Services API（例如 Azure 资源管理器、Azure AD Graph 和 Microsoft Graph等）支持合作伙伴使用合作伙伴委派的管理员权限以编程方式管理客户资源。 若要通过这些 API 来利用合作伙伴委派的管理员权限，合作伙伴应用程序必须在 API 请求授权标头中包含访问令牌，此访问令牌是让合作伙伴用户帐户通过 Azure AD 与设置为身份验证上下文的客户 Azure AD 进行身份验证所获取的。 合作伙伴应用程序要求合作伙伴用户帐户登录客户租户。
+某些 Microsoft Online Services API（例如 Azure 资源管理器、Azure AD Graph 和 Microsoft Graph等）支持合作伙伴使用合作伙伴委派的管理员权限以编程方式管理客户资源。 若要通过这些 API 来使用合作伙伴委派的管理员权限，合作伙伴应用程序必须在 API 请求授权标头中包含访问令牌，此访问令牌是让合作伙伴用户帐户通过 Azure AD 进行身份验证（将客户 Azure AD 设置为身份验证上下文）所获取的。 合作伙伴应用程序要求合作伙伴用户帐户登录客户租户。
 
 当 Azure AD 收到此类身份验证请求时，Azure AD 将要求合作伙伴用户帐户完成 MFA 验证。 如果合作伙伴用户帐户之前尚未注册 MFA，系统将提示此用户帐户首先完成 MFA 注册。
 
@@ -205,7 +199,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>问题 1：合作伙伴需要更多的时间来为他们的合作伙伴代理实现 MFA
 合作伙伴尚未为他们的合作伙伴代理实现 MFA 或者正在实现过程中，这些代理需要使用合作伙伴委派的管理权限来访问 Microsoft Online Services 门户以管理客户资源。 合作伙伴需要更多的时间来完成 MFA 实现。 此问题能否成为请求技术例外的有效理由？
 
-**答案** ：不能。 合作伙伴需要制定计划来为他们的用户实现 MFA，从而避免中断。
+**答案**：不能。 合作伙伴需要制定计划来为他们的用户实现 MFA，从而避免中断。
 
 > [!NOTE]
 > 即使合作伙伴尚未为他们的合作伙伴代理实现 MFA，合作伙伴代理仍然可以使用合作伙伴委派的管理权限来访问 Microsoft Online Services 门户，只要在登录到客户租户期间出现提示时他们可以完成 MFA 注册和 MFA 验证。 完成 MFA 注册不会自动为用户启用 MFA。
@@ -213,23 +207,23 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>问题 2：合作伙伴尚未为未使用委派管理员权限的用户帐户实现 MFA
 某一合作伙伴在他们的合作伙伴租户中拥有用户，这些用户不需要使用合作伙伴委派的管理权限来访问 Microsoft Online Services 门户以管理客户资源。 合作伙伴正在为这些用户实现 MFA，需要更多的时间才能完成。 此问题能否成为请求技术例外的有效理由？
 
-**答案** ：不能。 由于这些用户帐户不使用合作伙伴委派的管理权限来管理客户资源，因此他们将不需要登录到客户租户。 他们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证的影响。
+**答案**：不能。 由于这些用户帐户不使用合作伙伴委派的管理权限来管理客户资源，因此他们将不需要登录到客户租户。 他们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证的影响。
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>问题 3：合作伙伴尚未为用户服务帐户实现 MFA
 某一合作伙伴在他们的合作伙伴租户中拥有一些用户帐户，这些帐户由设备作为服务帐户使用。 这些是低特权帐户，这些帐户不需要使用合作伙伴委派的管理权限来访问合作伙伴中心或 Microsoft Online Services 门户以管理客户资源。 此问题能否成为请求技术例外的有效理由？
 
-**答案** ：不能。 由于这些用户帐户不使用合作伙伴委派的管理权限来管理客户资源，因此他们将不需要登录到客户租户。 他们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证的影响。
+**答案**：不能。 由于这些用户帐户不使用合作伙伴委派的管理权限来管理客户资源，因此他们将不需要登录到客户租户。 他们不受 Azure AD 要求在登录到客户租户期间进行 MFA 验证的影响。
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>问题 4：合作伙伴无法使用 MS Authenticator 应用来实现 MFA
 合作伙伴具有“清理办公桌”政策，不允许员工将个人移动设备带到工作区。 在无法使用个人移动设备的情况下，员工无法安装 MS Authenticator 应用，这是 Azure AD 安全默认设置支持的唯一 MFA 验证。 此问题能否成为请求技术例外的有效理由？
 
-**答案** ：不能，这不是请求技术例外的有效理由。 合作伙伴应考虑以下替代方法，使他们的员工仍然可以在访问合作伙伴中心时完成 MFA 验证：
+**答案**：不能，这不是请求技术例外的有效理由。 合作伙伴应考虑以下替代方法，使他们的员工仍然可以在访问合作伙伴中心时完成 MFA 验证：
 - 合作伙伴还可以注册 Azure AD Premium 或第三方 MFA 解决方案（与 Azure AD 兼容），此类解决方案可以提供其他验证方法。
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>问题 5：由于使用的是旧式身份验证协议，合作伙伴无法实现 MFA
 某一合作伙伴的某些合作伙伴代理仍然在使用旧式身份验证协议，这与 MFA 不兼容。 例如，用户仍然在使用 Outlook 2010，此程序基于的是旧式身份验证协议。 为这些合作伙伴代理启用 MFA 将中断旧式身份验证协议的使用。
 
-**答案** ：不能，这不是请求技术例外的有效理由。 由于潜在的安全隐患问题，强烈建议合作伙伴避免使用旧式身份协议，因为不能通过 MFA 验证来保护这些协议并且这些协议更容易出现凭据泄露的问题。 如果无法避免使用旧式身份验证协议，合作伙伴应考虑注册支持使用应用程序密码的 Azure AD Premium。 应用程序密码是系统生成的一次性密码，通常比人为生成的密码更强。 通过使用应用程序密码，合作伙伴可以为他们的用户实现 MFA，同时回退到仅适用于旧式身份验证协议的应用程序密码。
+**答案**：不能，这不是请求技术例外的有效理由。 由于潜在的安全隐患问题，强烈建议合作伙伴避免使用旧式身份协议，因为不能通过 MFA 验证来保护这些协议并且这些协议更容易出现凭据泄露的问题。 如果无法避免使用旧式身份验证协议，合作伙伴应考虑注册支持使用应用程序密码的 Azure AD Premium。 应用程序密码是系统生成的一次性密码，通常比人为生成的密码更强。 通过使用应用程序密码，合作伙伴可以为他们的用户实现 MFA，同时回退到仅适用于旧式身份验证协议的应用程序密码。
 
 阅读[基本身份验证和 Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) 的相关文章以了解关于支持 Outlook 的旧式身份验证的最新计划，同时关注 [Exchange 团队博客](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)以获取最新的资讯。 
 
@@ -239,7 +233,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>问题 6：合作伙伴实现了 Azure AD 无法识别的第三方 MFA
 合作伙伴使用第三方 MFA 解决方案为他们的用户实现了 MFA。 但是，合作伙伴无法正确配置第三方 MFA 解决方案来中继至在用户身份验证期间已完成 MFA 验证的 Azure AD。 这能否成为请求技术例外的有效理由？
 
-**答案** ：能，此问题可能会被认为是请求技术例外的有效理由。 提交请求技术例外时，请与第三方 MFA 解决方案提供商确认无法配置此 MFA 解决方案来将 authenticationmethodsreferences 声明（带有值 multipleauthn）传递给 Azure AD，以此来指示在用户身份验证期间已完成 MFA 验证 。 提交请求技术例外时，必须提供所用的第三方 MFA 解决方案的详细信息，指出集成方法（例如通过联合身份验证或使用 Azure AD 自定义控制），并在技术例外请求中提供以下信息作为支持文档：
+**答案**：能，此问题可能会被认为是请求技术例外的有效理由。 提交请求技术例外时，请与第三方 MFA 解决方案提供商确认无法配置此 MFA 解决方案来将 authenticationmethodsreferences 声明（带有值 multipleauthn）传递给 Azure AD，以此来指示在用户身份验证期间已完成 MFA 验证 。 提交请求技术例外时，必须提供所用的第三方 MFA 解决方案的详细信息，指出集成方法（例如通过联合身份验证或使用 Azure AD 自定义控制），并在技术例外请求中提供以下信息作为支持文档：
 
 - 第三方 MFA 配置。
 
@@ -255,11 +249,11 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 1. 以全局管理员或管理员代理的身份登录到合作伙伴中心。
 
-2. 通过导航到“支持” > “合作伙伴支持请求”并单击“新请求”来创建新的合作伙伴服务请求。  
+2. 通过导航到“支持” > “合作伙伴支持请求”并选择“新建请求”来创建新的合作伙伴服务请求  。
 
 3. 在搜索框中搜索“MFA - 请求例外”；或从“类别”中选择“CSP”，然后从“主题”中选择“帐户、加入、访问”，接着从子主题中选择“MFA - 请求例外”，再选择“下一步”    。
 
-4. 提供提交技术例外服务请求所需的详细信息，然后单击“提交”。
+4. 提供提交技术例外服务请求所需的详细信息，然后选择“提交”。
 
 Microsoft 可能在最长三个工作日的时间内响应技术例外请求。
 
