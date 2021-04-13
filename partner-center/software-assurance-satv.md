@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024970"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266480"
 ---
 # <a name="training-vouchers-program-retirement"></a>培训凭证计划停用
 
@@ -29,7 +29,7 @@ ms.locfileid: "107024970"
 >[!NOTE]
 >不会更改凭证生命周期。 创建/分配凭证后，必须在180天内完成凭证预留、培训会话和凭证兑换，然后才会到期。  有关定型凭证停用的详细信息，请参阅 [此处](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 的常见问题解答，了解 (登录所需的详细信息) 。  请参阅培训权益产品目录中的 SATV 资格培训课程的完整列表。  请将任何问题指引给你的区域合作伙伴支持团队： [EMEA 合作伙伴支持](mailto:savoucher@msdirectservices.com); [一般合作伙伴支持](https://partner.microsoft.com/dashboard/support/servicerequests)。
 
-## <a name="until-june-30-2021"></a>2021年6月30日之前
+
 
 ### <a name="get-started"></a>入门
 

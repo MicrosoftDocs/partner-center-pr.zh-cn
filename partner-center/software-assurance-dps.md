@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024987"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266497"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>软件保障规划服务停用
 
@@ -35,7 +35,6 @@ ms.locfileid: "107024987"
 >[!NOTE]
 >不会更改凭证生命周期。 创建/分配凭证后，在凭证过期之前的180天内必须完成凭证预订、客户接洽和凭证兑换。  有关规划服务程序停用的详细信息，请参阅 [此处](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 的常见问题解答，了解 (登录所需的详细信息) 。  请将任何问题指引给你的区域合作伙伴支持团队： [EMEA 合作伙伴支持](mailto:savoucher@msdirectservices.com); [一般合作伙伴支持](https://partner.microsoft.com/dashboard/support/servicerequests)
 
-## <a name="until-june-30-2021"></a>2021年6月30日之前
 
 ### <a name="get-started"></a>入门
 

@@ -12,8 +12,6 @@
     - name: 在合作伙伴中心创建 MPN 帐户
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: 获取工作电子邮件地址
-      href: buy-email-domain.md
     - name: 帐户设置疑难解答
       href: troubleshoot-account-sign-n.md
     - name: 迁移到合作伙伴中心
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: 重置我的密码
           href: reset-my-pasword.md
-        - name: 用户无法登录
+        - name: 排查登录问题
           href: unable-to-sign-in.md
         - name: 用户没有 MPN 管理员
           href: no-mpn-admin.md
