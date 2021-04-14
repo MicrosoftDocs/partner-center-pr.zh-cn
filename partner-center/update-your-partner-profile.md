@@ -6,15 +6,15 @@ description: 了解如何验证公司详细信息，例如主要联系人、地�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712590"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315859"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>验证或更新你的公司资料信息 
 
@@ -92,6 +92,17 @@ MPN|全局管理员；帐户管理员|已授权；待定；已拒绝| 然后用�
 ## <a name="update-your-csp-legal-billing-address"></a>更新 CSP 合法帐单邮寄地址
 
 如果你是全局管理员、计费管理员或管理员代理，则可以更改发票上“付款和税务资料”中显示的地址。 但是，不能更改发票上的公司名称，因为发票系统存在限制。
+
+:::image type="content" source="images/billing-profile.png" alt-text="添加了账单信息的区域的屏幕截图":::
+
+|字段  |**说明**|  
+|---------------------|:------------------|
+|收票公司名称|CSP 发票上“账单寄往地址”信息中显示的公司名称。  此内容在合作伙伴中心内不可编辑。  若要更新，请创建支持工单。|
+|账单寄往地址|CSP 发票上显示的账单寄往地址。 可从[计费对象信息](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)进行更新。|
+|收票联系人|CSP 帐户的账单联系人详细信息（名字、姓氏、主要号码）。  可从[计费对象信息](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)进行更新。|
+|PO 编号|合作伙伴发票上显示的采购订单编号。  可从[计费对象信息](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)进行更新。|
+|公司税号|某些国家/地区的公司可以提供其[增值税 (VAT) 号或本地等效税号](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)。 若要更新你的税号/增值税号，你必须是全局管理员、帐单管理员或管理员代理。|
+|计费货币|CSP 帐户的计费货币由 CSP 帐户的法定国家/地区决定。  创建 CSP 帐户后，便不能更改计费货币。|
 
 
 ## <a name="next-steps"></a>后续步骤

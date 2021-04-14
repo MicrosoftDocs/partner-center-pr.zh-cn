@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502861"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964334"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>云解决方案提供商计划中的合作伙伴产品/服务的概述
 
@@ -105,6 +105,15 @@ ms.locfileid: "106502861"
 
 8. 订单详细信息（包括订单编号）将显示在下一页。 选择“完成”转到“订单历史记录”页。 
 
+### <a name="customer-order-history"></a>客户订单历史记录
+
+查看客户的订单历史记录：
+
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
+2. 在左侧菜单中，选择“客户”。
+3. 在“客户”页面上，找到要查看其订单历史记录的客户。 选择向下箭头以展开客户的记录。
+4. 选择“查看订单”以显示客户的订单历史记录。
+ 
 ## <a name="rules-for-special-segments"></a>针对特殊细分市场的规则
 
 某些基于许可证的产品/服务只能在特定条件下购买。 特殊细分市场产品/服务包括“教育”、“非营利”或“政府社区云”(GCC) 产品/服务。 有关这些购买条件的详细信息，请参阅[针对特殊细分市场的购买规则主题](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)。
