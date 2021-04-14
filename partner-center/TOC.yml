@@ -14,14 +14,6 @@
       displayName: mpn
     - name: 帐户设置疑难解答
       href: troubleshoot-account-sign-n.md
-    - name: 迁移到合作伙伴中心
-      items:
-        - name: 从 PAC 迁移 - 概述
-          href: pac-to-pc-overview.md
-        - name: 比较 PAC 和 PC 中的任务
-          href: moving-from-pac-to-pc.md
-        - name: 在 PC 中执行 PAC 任务
-          href: o365-partner-admin-center-to-partner-center.md
     - name: 从 PMC 迁移
       items:
         - name: 准备从 PMC 迁移
@@ -159,8 +151,6 @@
     - name: CSP 协议、价目表和产品/服务
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: 用于 CSP 的 Cloudyn 提供的 Azure 成本管理
-      href: azure-cost-management-app-for-csp-partners.md
     - name: CSP 区域市场和货币
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
