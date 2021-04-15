@@ -10,17 +10,51 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 2cd791425fd30d18b8db5f999eb773fc0e2f37e6
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.date: 04/08/2021
+ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374427"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266514"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 4 月公告。
+
+________________
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>提醒：于 2021 年 5 月 4 日弃用 GET 资格
+
+### <a name="categories"></a>类别
+
+- 日期：2021-04-09
+- 功能
+
+### <a name="impacted-audience"></a>影响受众
+
+使用合作伙伴中心 API，通过云解决方案提供商计划销售学术、非盈利和政府社区云 (GCC) 产品/服务的合作伙伴
+
+### <a name="details"></a>详细信息
+
+本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格 API 将在 2021 年 5 月 4 日之前停用。 届时，在购买教育产品/服务时，你需要改用新的 POST 合作伙伴中心 API，而若要购买预获资格的非营利和 GCC 产品/服务，你需要改用新的 GET 资格 API。
+
+### <a name="next-steps"></a>后续步骤
+
+- 请更新到新的 API，以便及时成功转换。
+
+- 请查看新的合作伙伴中心 API 更改，阅读操作就绪资源指南：[合作伙伴中心教育客户验证过程增强](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。
+
+- 请与经销商和组织中的相应团队分享此信息，帮助他们为这些更改做好准备。
+
+### <a name="questions"></a>是否有任何问题?
+
+若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+### <a name="change-log"></a>更改日志
+
+- 4 月：提醒即将弃用 GET 资格 
+- 二月：更新了停用 GET 和 PUT 资格的时间线
+- 一月：提醒即将开始弃用 GET 和 PUT 资格
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>对 CSP 中新的商务 PDF 发票使用新格式

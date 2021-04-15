@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132275"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315892"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
@@ -42,7 +42,7 @@ ms.locfileid: "106132275"
 
 ### <a name="locate-your-mpn-id"></a>找到你的 MPN ID
 
-无论你是合作伙伴还是开发人员，都请使用 MPN ID 来执行记录支持票证等任务。 MPN ID 可在“法务信息”页面上找到。 也可以在“标识资料”上找到它。
+无论你是合作伙伴还是开发人员，都请使用 MPN ID 来执行记录支持票证等任务。 可在“法务信息”页面上找到 MPN ID。 也可以在“标识资料”上找到它。
 
 ## <a name="account-settings---partners-resellers"></a>帐户设置 - 合作伙伴、经销商
 

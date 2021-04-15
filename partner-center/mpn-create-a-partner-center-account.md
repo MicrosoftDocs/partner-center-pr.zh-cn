@@ -1,7 +1,7 @@
 ---
 title: 在合作伙伴中心创建 MPN 帐户
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作伙伴网络成员如何创建合作伙伴中心帐户，以便管理其网络权益和资格。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712913"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266531"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>在合作伙伴中心创建 MPN 帐户以管理网络权益和资格
 
@@ -25,7 +25,7 @@ ms.locfileid: "104712913"
 
 准备好在合作伙伴中心创建帐户后，还需要备好以下各项。  在开始之前，你可能需要几分钟时间收集这些信息：
 
-- 公司工作电子邮件或 Office 365 工作帐户。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md) 
+- 公司工作电子邮件或 Office 365 工作帐户。 公司需要购买电子邮件域，这样你才能为员工创建工作电子邮件地址。 有关详细信息，请阅读[你的公司工作帐户与合作伙伴中心](azure-active-directory-tenants-and-partner-center.md)。 
  
 - 公司的法定实体名称和地址。
 

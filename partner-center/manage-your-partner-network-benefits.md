@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932832"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133091"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
-
-**适用于**
-
-- 合作伙伴中心
 
 **相应的角色**
 
 - 全局管理员
-- 用户管理员
+- “用户管理”管理员
 - 管理员代理
 - MPN 合作伙伴管理员
 
@@ -45,7 +41,7 @@ ms.locfileid: "94932832"
 
 要查看和管理所有会员权益，请转到[“权益”页面](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登录）。 或者，可以登录到合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)，从左侧菜单中选择“[权益选项]”，然后选择显示的任何权益选项。  
 
-要激活最多权益或下载相关软件密钥等，合作伙伴中心通常需要分配了全局管理员或 MPN 合作伙伴管理员角色的人员。如果看不到任何权益或无法激活权益，请咨询合作伙伴中心全局管理员以确保拥有正确的权限。 [详细了解合作伙伴中心角色](permissions-overview.md)。
+要激活最多权益或下载相关的软件密钥，合作伙伴中心通常需要向某人分配全局管理员或 MPN 合作伙伴管理员角色。如果看不到任何权益或无法激活权益，请咨询合作伙伴中心全局管理员，来确保你拥有正确的权限。 [详细了解合作伙伴中心角色](permissions-overview.md)。
 
 ## <a name="manage-software-benefits"></a>管理软件权益
 
@@ -76,18 +72,18 @@ ms.locfileid: "94932832"
 可以通过以下方式进行预配：
 
 - 每月 100 美元（或等值的本国货币）的 Azure 每月额度或/和
-- 每年 6000 美元、12000 美元或/和 13000 美元（或它们分别等值的本国货币）的 Azure 批量额度
+- 每年 6,000 美元、12,000 美元和/或 13,000 美元（或其等值的本国货币）的 Azure 批量额度
 
 若要在合作伙伴中心激活 Microsoft Azure 订阅，请将访问权限分配给在 Azure Active Directory 中创建了用户条目的公司内的用户（包括来宾用户）。
 对于每月 100 美元（或等值的本国货币）的 Azure 每月额度，可以按需在此订阅中添加或删除用户。 
 
-对于 Azure 批量（每年）额度，“删除”选项在合作伙伴中心不可用，但可以在有效期内将批量额度转让给其他人。 Azure 批量（每年）额度订阅不能与其他许可、预付费或额度优惠（即 Microsoft 企业协议、云解决方案合作伙伴、Azure in Open、Azure Pass、Action Pack 等）结合使用。
+对于 Azure 批量（每年）额度，合作伙伴中心没有“删除”选项，但你可在注册年份将批量额度转让给其他人。 Azure 批量（每年）额度订阅不能与其他许可、预付费或额度优惠（即 Microsoft 企业协议、云解决方案合作伙伴、Azure in Open、Azure Pass、Action Pack 等）结合使用。
 
 ## <a name="license-based-subscriptions"></a>基于许可证的订阅
 
-在“Azure 和云产品”选项卡的基于许可证的订阅部分中，可以找到需要产品激活密钥的所有云产品（例如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD Basic、Power BI 等），这些产品根据你的 MPN 合作伙伴身份有效的产品/服务类型（MAPS、银或金）提供。
+“Azure 和云产品”选项卡的基于许可证的订阅部分列出了需要用产品密钥激活的所有云产品，包括 Microsoft Office 365、Microsoft Dynamics、Microsoft Intune、Azure AD 基本版和 Power BI。 你作为 MPN 合作伙伴可享受的优惠类型（MAPS、银牌服务或金牌服务）决定了列出的具体产品。
 
-若要激活基于许可证的订阅，请单击与感兴趣的产品相对应的下拉符号，并阅读有关如何兑换密钥的说明。 阅读说明后，选择可将你重定向到门户的链接，以便兑换密钥以及产品的已分配密钥。
+若要激活基于许可证的订阅，请单击与感兴趣的产品相对应的下拉符号，并阅读有关如何兑换密钥的说明。 阅读说明后，选择可将你重定向到门户的链接，以兑换密钥和分配给你的产品的密钥。
 
 >[!IMPORTANT]
 >请注意，兑换密钥后，就无法再次兑换同一密钥，因此请确保你清楚是需要添加更多许可证（席位）还是延长结束日期。 如果选择添加更多许可证而非延长结束日期，则系统将提供不超过 12 个月的有效订阅。 请确保使用正确的凭据登录，在正确的租户上激活密钥。

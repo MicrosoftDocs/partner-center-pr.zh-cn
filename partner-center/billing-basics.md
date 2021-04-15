@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042712"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964368"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>合作伙伴中心中的云解决方案提供商计划合作伙伴的计费概述 
 
@@ -67,11 +67,7 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 
 价目表是按月更新的。 我们将提前一 (1) 个月提供预览价目表。
 
-查看价目表：
-
-1. [登录到合作伙伴中心面板](https://partner.microsoft.com/dashboard/home)。
-2. 在左侧菜单中，选择“销售”，然后选择“定价和产品/服务”。
-3. 在“定价和产品/服务”页面上，你可以查看 6 个月的价目表（包括当月）和预览价目表（如果适用）。
+若要查看最新的云解决方案提供商计划和产品/服务，请在合作伙伴门户仪表板中，转到“销售”>“定价和产品/服务”。 对于不同类型的可用产品，你将找到单独的价目表。 可在“定价和产品/服务”页面上查看以下价目表：
 
 **基于许可证** 的价格在订阅期限内是有保证的，此期限通常为自购买日期起的 12 个月。 
 
@@ -99,19 +95,6 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 
 可以通过本地税务局或税务顾问查找进一步的税务详细信息。
 
-### <a name="change-billing-frequency"></a>更改计费频率
-
-计费频率是在订单级别进行更改的，并且在更改频率后，修改后的计费周期将应用于该订单内的所有订阅。 
-
-为客户更改在线服务的计费频率：
-
-1. [登录到合作伙伴中心面板](https://partner.microsoft.com/dashboard/home)。
-2. 在左侧菜单中，选择“客户”。
-3. 选择要为其更改订阅计费频率的客户。
-4. 在客户的“订阅”页面上，选择要更改的订阅。
-5. 在“详细信息”页面上的“计费频率”下，选择“按月”或“按年”。 你将看到一个确认页面，其中包含与更改计费频率相关的重要信息，以及要更改的订阅的列表。
-6. 选择“确定”进行更改（或“取消”以撤消更改）。
-
 ### <a name="adjustmentscreditscancellations"></a>调整/信用/取消
 
 对于周期中取消，取消基于许可证的服务的额度是针对未使用天数（以及许可证减少数）按比例计算的，计算公式为：
@@ -121,6 +104,7 @@ Microsoft 对你如何处理你自己的发票没有任何要求。
 Microsoft 不会对取消基于许可证的服务收取提前终止费。
 
 ### <a name="billing-rules"></a>计费规则
+
 目前有两种类型的计费频率：按年和按月。  
 按使用量计费的服务费率可能在发票周期内更改。
 
@@ -146,24 +130,6 @@ Microsoft 不会对取消基于许可证的服务收取提前终止费。
 
 - 你收到的发票将仅包含当月应计的费用。 
 
-## <a name="manage-one-time-billing"></a>管理一次性计费
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>计费状态、发票和对帐文件
-
-查看你当前的计费状态、发票和对帐文件：
-
-1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
-2. 在左侧菜单中，选择“计费”，然后选择“定期和一次性购买”   。
-3. 在“计费状态”页面上，选择某一发票或对帐文件以查看更多详细信息。
-
-### <a name="customer-order-history"></a>客户订单历史记录
-
-查看客户的订单历史记录：
-
-1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
-2. 在左侧菜单中，选择“客户”。
-3. 在“客户”页面上，找到要查看其订单历史记录的客户。 选择向下箭头以展开客户的记录。
-4. 选择“查看订单”以显示客户的订单历史记录。
 
 ### <a name="credit-notes"></a>额度说明
 
@@ -178,3 +144,6 @@ Microsoft 不会对取消基于许可证的服务收取提前终止费。
 
 - [理解帐单和对帐文件](read-your-bill.md)
 - [CSP 计划合作伙伴的常见计费方案](common-billing-scenarios.md)
+- [更改计费频率](common-billing-scenarios.md)
+- [客户订单历史记录](csp-offers.md) 
+- [定价和套餐](pricing-and-offers.md)
