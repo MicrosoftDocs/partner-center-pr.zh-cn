@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374378"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528560"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 计划消耗量的有效单位价格计算
 
@@ -53,7 +53,9 @@ ms.locfileid: "106374378"
 - **有效单价** = BCU/BC
 
 >[!NOTE]
->此示例中的计量器没有定价层。 折扣百分比和其他调整中的有效单位价格系数。
+
+>注意：在此示例中，此指标没有按定价百分比或其他价格计算的有效单位价格系数。
+
 
 | 日期 | BCU (计费消耗单位)  | BC (计费成本)  | 有效单价 |
 | ------ | ----------- | ----------- | ----------- |  

@@ -1,7 +1,7 @@
 ---
 title: CSP 全局市场
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 请参阅国家/地区和货币，根据公司的位置，你可以在其中销售 CSP 优惠。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926655"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528609"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
 
@@ -24,10 +24,15 @@ ms.locfileid: "96926655"
 
 在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 你可以在 [此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
 
+## <a name="azure-plan-for-csp-region-availability"></a>Azure 计划 CSP 区域可用性  
+
+适用于 csp 的 azure 计划在比用于 CSP 的 Azure 软件更少的区域中提供。  请参阅  [购买 azure 计划](purchase-azure-plan.md) 以查看 azure 计划的区域可用性的最新更新。 
+
 >[!IMPORTANT]
 > 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
 
 若要确定可在其中销售 CSP 产品/服务的位置，请在以下列表之一中查找公司的位置。 您必须具有活动 Microsoft 合作伙伴网络 (MPN) ID 才能获得要在其中进行销售的位置。  
+
 
 ## <a name="for-unsupported-countries"></a>对于不支持的国家/地区
 
