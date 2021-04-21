@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584198"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728940"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "107584198"
 
 |**类别**|**2021 年 4 月公告**|**已公布**|
 |---------|:---------|:---------|
+|发展你的业务|[开放许可计划：将经销商转换到云解决方案提供商 (CSP) 计划](2021-april.md#7)|4 月 19 日|
 |功能|[现已推出：全球促销就绪指南](2021-april.md#6)|4 月 16 日|
 |社区：邀请和提醒|[4 月云解决方案提供商 (CSP) 社区更新和提醒](2021-april.md#5)|4 月 16 日|
 |功能|[提醒：于 2021 年 4 月 4 日弃用 GET 资格](2021-april.md#4)|4 月 9 日|

@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 6a03d06b858f2932621dc0e50a571a17708be3bc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
+ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086631"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "107742114"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>了解技术预售和部署服务 (TPD) 
 
@@ -41,6 +41,18 @@ ms.locfileid: "106086631"
 使用任何与 MPN 关联的用户帐户登可[创建技术预售和部署服务 (TPD) 请求](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)（不需要激活技术权益）。
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="技术预售和部署权益" :::
+
+## <a name="in-scope-products-and-services"></a>范围内产品和服务
+
+以下产品和服务在技术售前和部署服务的范围内：
+- **Microsoft 365**：所有 Microsoft Office 365 组件，例如 Microsoft Teams、Exchange Online、SharePoint Online、OneDrive、Yammer、Project Online、Skype For Business Server 2019、企业移动性 + 安全性、Microsoft Intune、Azure Active Directory、Azure 信息保护
+  - *超出范围：仅限本地 Office 服务器 – Exchange 和 SharePoint*
+- **业务应用程序**：Microsoft Dynamics 365（在线版）、Microsoft Power Platform（Power Apps、Power Automate、Power BI）
+  - *超出范围：仅 Dynamics 365、GP、SL、AX、NAV 的本地版本*
+- **Microsoft Azure**：所有 Microsoft Azure 解决方案和相关服务，如基础结构即服务、平台即服务、数据平台、BI 分析、认知服务、Azure 机器学习、Azure Stack
+- **Windows Server**：主流支持的 Windows Server（由 **[产品生命周期](https://docs.microsoft.com/lifecycle/policies/fixed)** 管理）
+  - 如果与云或混合方案相关，则 System Center 包括相关产品（如 SCCM）
+- **Windows 10**：Windows 10 操作系统、设备、通用应用
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>提交技术预售和部署服务请求 
 
