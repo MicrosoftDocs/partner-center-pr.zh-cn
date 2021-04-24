@@ -446,7 +446,7 @@ _______________
 
 ### <a name="details"></a>详细信息
 
-高级评估是合规性管理器的可选加载项，可帮助客户遵守管理数据收集和使用的国家、地区和行业特定要求。 Office 365 E5、A5 和 G5 以及 Microsoft 365 E5、A5 和 G5 客户可以预订高级评估。
+高级评估是合规性管理器的可选加载项，可帮助客户遵守用于管理数据收集和使用的国家、地区和行业特定要求。 Office 365 E5、A5 和 G5 以及 Microsoft 365 E5、A5 和 G5 客户可以预订高级评估。
 
 |**产品/服务名称**|**产品/服务 ID**|**材料 ID**|
 |------------------|:--------------------|:------------------|
@@ -479,7 +479,7 @@ _________________________________________________________
 
 Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。 有关详细信息，请查看我们的[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
 ________________
-## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> 针对合作伙伴中心内“推荐”模块的新更新
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> 针对合作伙伴中心内“推荐”模块的更新
 
 ### <a name="categories"></a>类别
 
@@ -489,7 +489,7 @@ ________________
 ### <a name="impacted-audience"></a>影响受众
 
 - 具有联合销售就绪产品/服务的合作伙伴
-- 在商业市场中具有使用 Azure 奖励资格解决方案的可交易产品/服务
+- 在商业市场中具有可交易产品/服务且使用 Azure 奖励资格解决方案的合作伙伴
 - 合作伙伴中心内使用“推荐”模块的所有合作伙伴。
 
 ### <a name="details"></a>详细信息
@@ -510,7 +510,7 @@ ________________
 
 - [与其他合作伙伴联合销售](../manage-co-sell-opportunities.md)：邀请强大合作伙伴生态系统中的其他合作伙伴与你联合销售，并允许接触其他客户受众。  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>在商业市场中具有使用 Azure 奖励资格解决方案的可交易产品/服务
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>在商业市场中具有可交易产品/服务且使用 Azure 奖励资格解决方案的合作伙伴
 
 - [使用自动交易注册](../register-deals.md)：通过选中复选框“这笔交易已通过或将通过 Azure 市场或 AppSource 进行”，注册可交易的 Microsoft 商业市场 Azure 产品/服务，节省时间并确保准确性。 只要你的交易日期正确，交易注册的信息将直接从 Microsoft 商业市场中提取。
 

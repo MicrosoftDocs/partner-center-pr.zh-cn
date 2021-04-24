@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
-ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
+ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
+ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "107894054"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107927741"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>商业市场发布者的税务详细信息
 
@@ -36,7 +36,7 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 
 ### <a name="publisherdeveloper-managed-countries"></a>发布者/开发人员托管的国家/地区： 
 
-|   |    |    |   |
+| 国家/地区 |  (继续) 的国家/地区 |  (继续) 的国家/地区 |  (继续) 的国家/地区 |
 |---------------|:------------------|:--------|:----------|
 |美属维尔京群岛|刚果（金）|泽西岛|诺福克岛|
 |阿富汗|库克群岛|约旦|北马其顿|
@@ -72,14 +72,14 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 |中非共和国|赫德岛 & 麦克唐纳群岛|瑙鲁|
 |乍得|洪都拉斯|尼泊尔|
 |圣诞岛|伊拉克|尼加拉瓜|
-|科科斯 (奇林) 群岛|以色列|尼日尔|
+|科科斯（基林）群岛|以色列|尼日尔|
 |科摩罗|牙买加|尼日利亚|
 |刚果|日本|纽埃|
 
 
 ### <a name="microsoft-managed-countries"></a>Microsoft 托管的国家/地区
 
-| | |  |  |
+| 国家/地区 |  (继续) 的国家/地区 |  (继续) 的国家/地区 |  (继续) 的国家/地区 |
 |---------|-----------|--------|----|
 |亚美尼亚|芬兰|卢森堡|新加坡|
 |奥地利|法国|马来西亚|斯洛伐克|
@@ -120,7 +120,7 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 |----------------|-----------------------------|-----------------------|
 |澳大利亚|服务费税|服务费税|
 |加拿大|服务费税|服务费税|
-|墨西哥|不适用|服务费税|
+|墨西哥|空值|服务费税|
 |新西兰|服务费税|服务费税|
 |新加坡|服务费税|服务费税|
 
