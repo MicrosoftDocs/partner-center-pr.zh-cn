@@ -18,535 +18,535 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "107266463"
 ---
-# <a name="february-2021-announcements"></a><span data-ttu-id="2e815-103">2021 年 2 月公告</span><span class="sxs-lookup"><span data-stu-id="2e815-103">February 2021 announcements</span></span>
+# <a name="february-2021-announcements"></a><span data-ttu-id="61bb5-103">2021 年 2 月公告</span><span class="sxs-lookup"><span data-stu-id="61bb5-103">February 2021 announcements</span></span>
 
-<span data-ttu-id="2e815-104">本页详述了 Microsoft 合作伙伴中心 2021 年 2 月的公告。</span><span class="sxs-lookup"><span data-stu-id="2e815-104">This page details the announcements for Microsoft Partner Center for February 2021.</span></span>
-
-________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a><span data-ttu-id="2e815-105">提醒：于 2021 年 5 月 4 日弃用 GET 资格</span><span class="sxs-lookup"><span data-stu-id="2e815-105">Reminder: Deprecation of GET qualification on May 4, 2021</span></span>
-
-### <a name="categories"></a><span data-ttu-id="2e815-106">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-106">Categories</span></span>
-
-- <span data-ttu-id="2e815-107">日期：2021-04-09</span><span class="sxs-lookup"><span data-stu-id="2e815-107">Date: 2021-04-09</span></span>
-- <span data-ttu-id="2e815-108">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-108">Capabilities</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-109">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-109">Impacted audience</span></span>
-
-<span data-ttu-id="2e815-110">使用合作伙伴中心 API，通过云解决方案提供商计划销售学术、非盈利和政府社区云 (GCC) 产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-110">Partners selling Academic, Nonprofit, and Government Community Cloud (GCC) offers through the Cloud Solution Provider program using the Partner Center API</span></span>
-
-### <a name="details"></a><span data-ttu-id="2e815-111">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-111">Details</span></span>
-
-<span data-ttu-id="2e815-112">本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。</span><span class="sxs-lookup"><span data-stu-id="2e815-112">This announcement is a follow-up to the Partner Center [enhancements released in December](https://docs.microsoft.com/partner-center/announcements/2020-december#1).</span></span> <span data-ttu-id="2e815-113">此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格 API 将在 2021 年 5 月 4 日之前停用。</span><span class="sxs-lookup"><span data-stu-id="2e815-113">As part of that release, new GET and POST Qualifications APIs were deployed and, as a result, the existing GET qualification will be retired by May 4, 2021.</span></span> <span data-ttu-id="2e815-114">届时，在购买教育产品/服务时，你需要改用新的 POST 合作伙伴中心 API，而若要购买预获资格的非营利和 GCC 产品/服务，你需要改用新的 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="2e815-114">By that time, you’ll need to have transitioned to using the new POST Partner Center APIs in purchase Education offers, and the new GET qualifications API to purchase prequalified Nonprofit and GCC offers.</span></span>
-
-### <a name="next-steps"></a><span data-ttu-id="2e815-115">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-115">Next steps</span></span>
-
-- <span data-ttu-id="2e815-116">请更新到新的 API，以便及时成功转换。</span><span class="sxs-lookup"><span data-stu-id="2e815-116">Update to the new APIs for a successful and timely transition.</span></span>
-
-- <span data-ttu-id="2e815-117">请查看新的合作伙伴中心 API 更改，阅读操作就绪资源指南：[合作伙伴中心教育客户验证过程增强](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。</span><span class="sxs-lookup"><span data-stu-id="2e815-117">Review the new Partner Center API changes and Guide in the Operations Readiness resources: [Partner Center Education customer validation process enhancements](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).</span></span>
-
-- <span data-ttu-id="2e815-118">请与经销商和组织中的相应团队分享此信息，帮助他们为这些更改做好准备。</span><span class="sxs-lookup"><span data-stu-id="2e815-118">Share this information with the appropriate teams within your organization and with your resellers to help them prepare for these changes.</span></span>
-
-### <a name="questions"></a><span data-ttu-id="2e815-119">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-119">Questions?</span></span>
-
-<span data-ttu-id="2e815-120">若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。</span><span class="sxs-lookup"><span data-stu-id="2e815-120">For any questions related to this notification, contact [Partner Center support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).</span></span>
-
-### <a name="change-log"></a><span data-ttu-id="2e815-121">更改日志</span><span class="sxs-lookup"><span data-stu-id="2e815-121">Change log</span></span>
-
-- <span data-ttu-id="2e815-122">4 月：提醒即将弃用 GET 资格</span><span class="sxs-lookup"><span data-stu-id="2e815-122">April: Reminder of upcoming deprecation of GET qualification</span></span> 
-- <span data-ttu-id="2e815-123">二月：更新了停用 GET 和 PUT 资格的时间线</span><span class="sxs-lookup"><span data-stu-id="2e815-123">February: Updated timelines for deprecation of GET & PUT qualifications</span></span>
-- <span data-ttu-id="2e815-124">一月：提醒即将开始弃用 GET 和 PUT 资格</span><span class="sxs-lookup"><span data-stu-id="2e815-124">January: Reminder of upcoming deprecations of GET & PUT qualifications</span></span>
-
+<span data-ttu-id="61bb5-104">本页详述了 Microsoft 合作伙伴中心 2021 年 2 月的公告。</span><span class="sxs-lookup"><span data-stu-id="61bb5-104">This page details the announcements for Microsoft Partner Center for February 2021.</span></span>
 
 ________________
-## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a><span data-ttu-id="2e815-125">使用合作伙伴中心批量操作功能大规模共享联合销售交易</span><span class="sxs-lookup"><span data-stu-id="2e815-125">Share co-sell deals at scale using the Partner Center bulk operations capability</span></span>
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a><span data-ttu-id="61bb5-105">提醒：于 2021 年 5 月 4 日弃用 GET 资格</span><span class="sxs-lookup"><span data-stu-id="61bb5-105">Reminder: Deprecation of GET qualification on May 4, 2021</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-126">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-126">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-106">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-106">Categories</span></span>
 
-- <span data-ttu-id="2e815-127">日期：2021-02-25</span><span class="sxs-lookup"><span data-stu-id="2e815-127">Date: 2021-02-25</span></span>
-- <span data-ttu-id="2e815-128">增强的安全性和合规性</span><span class="sxs-lookup"><span data-stu-id="2e815-128">Enhanced Security and Compliance</span></span>
+- <span data-ttu-id="61bb5-107">日期：2021-04-09</span><span class="sxs-lookup"><span data-stu-id="61bb5-107">Date: 2021-04-09</span></span>
+- <span data-ttu-id="61bb5-108">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-108">Capabilities</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-129">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-129">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-109">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-109">Impacted audience</span></span>
 
-<span data-ttu-id="2e815-130">合作伙伴中心的合作伙伴联合销售</span><span class="sxs-lookup"><span data-stu-id="2e815-130">Partners co-selling in Partner Center</span></span>
+<span data-ttu-id="61bb5-110">使用合作伙伴中心 API，通过云解决方案提供商计划销售学术、非盈利和政府社区云 (GCC) 产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-110">Partners selling Academic, Nonprofit, and Government Community Cloud (GCC) offers through the Cloud Solution Provider program using the Partner Center API</span></span>
 
-### <a name="summary"></a><span data-ttu-id="2e815-131">总结</span><span class="sxs-lookup"><span data-stu-id="2e815-131">Summary</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-111">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-111">Details</span></span>
 
-<span data-ttu-id="2e815-132">联合销售的合作伙伴现可使用合作伙伴中心 CSV 文件批量操作功能大规模地导入和导出销售机会。</span><span class="sxs-lookup"><span data-stu-id="2e815-132">Co-selling partners can now export and import opportunities at scale using the new Partner Center CSV file bulk operations feature.</span></span>
+<span data-ttu-id="61bb5-112">本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。</span><span class="sxs-lookup"><span data-stu-id="61bb5-112">This announcement is a follow-up to the Partner Center [enhancements released in December](https://docs.microsoft.com/partner-center/announcements/2020-december#1).</span></span> <span data-ttu-id="61bb5-113">此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格 API 将在 2021 年 5 月 4 日之前停用。</span><span class="sxs-lookup"><span data-stu-id="61bb5-113">As part of that release, new GET and POST Qualifications APIs were deployed and, as a result, the existing GET qualification will be retired by May 4, 2021.</span></span> <span data-ttu-id="61bb5-114">届时，在购买教育产品/服务时，你需要改用新的 POST 合作伙伴中心 API，而若要购买预获资格的非营利和 GCC 产品/服务，你需要改用新的 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="61bb5-114">By that time, you’ll need to have transitioned to using the new POST Partner Center APIs in purchase Education offers, and the new GET qualifications API to purchase prequalified Nonprofit and GCC offers.</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-133">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-133">Details</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-115">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-115">Next steps</span></span>
 
-<span data-ttu-id="2e815-134">联合销售的合作伙伴现可使用合作伙伴中心 CSV 文件批量操作功能大规模地导入和导出销售机会。</span><span class="sxs-lookup"><span data-stu-id="2e815-134">Co-selling partners can now export and import opportunities at scale using the new Partner Center CSV file bulk operations feature.</span></span> <span data-ttu-id="2e815-135">这将统一你的推荐共享体验，并确保在从 Partner Sales Connect 迁移时业务不中断。</span><span class="sxs-lookup"><span data-stu-id="2e815-135">This will unify your referral sharing experience and ensure business continuity when moving from Partner Sales Connect.</span></span> <span data-ttu-id="2e815-136">它也是在合作伙伴中心 API 中的投资的另一种选择。</span><span class="sxs-lookup"><span data-stu-id="2e815-136">It’s also an alternative to investment in the Partner Center API.</span></span>
+- <span data-ttu-id="61bb5-116">请更新到新的 API，以便及时成功转换。</span><span class="sxs-lookup"><span data-stu-id="61bb5-116">Update to the new APIs for a successful and timely transition.</span></span>
 
-<span data-ttu-id="2e815-137">有关完整详细信息，请查看下一部分提到的文章。</span><span class="sxs-lookup"><span data-stu-id="2e815-137">See the article mentioned in the next section for full details.</span></span> 
+- <span data-ttu-id="61bb5-117">请查看新的合作伙伴中心 API 更改，阅读操作就绪资源指南：[合作伙伴中心教育客户验证过程增强](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-117">Review the new Partner Center API changes and Guide in the Operations Readiness resources: [Partner Center Education customer validation process enhancements](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-138">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-138">Next steps</span></span>
+- <span data-ttu-id="61bb5-118">请与经销商和组织中的相应团队分享此信息，帮助他们为这些更改做好准备。</span><span class="sxs-lookup"><span data-stu-id="61bb5-118">Share this information with the appropriate teams within your organization and with your resellers to help them prepare for these changes.</span></span>
 
-<span data-ttu-id="2e815-139">若要详细了解批量操作功能，请阅读[使用逗号分隔值 (CSV) 文件针对联合销售机会的批量操作](../bulk-operations.md)。</span><span class="sxs-lookup"><span data-stu-id="2e815-139">Learn more about the bulk operations capability by reading [Bulk operations for co-sell opportunities using comma-separated value (CSV) files](../bulk-operations.md).</span></span>
+### <a name="questions"></a><span data-ttu-id="61bb5-119">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-119">Questions?</span></span>
 
-### <a name="questions"></a><span data-ttu-id="2e815-140">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-140">Questions?</span></span>
+<span data-ttu-id="61bb5-120">若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-120">For any questions related to this notification, contact [Partner Center support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).</span></span>
 
-<span data-ttu-id="2e815-141">如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="2e815-141">Contact [Support](https://partner.microsoft.com/support/?stage=1) if you have any further questions.</span></span>
+### <a name="change-log"></a><span data-ttu-id="61bb5-121">更改日志</span><span class="sxs-lookup"><span data-stu-id="61bb5-121">Change log</span></span>
 
-________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a><span data-ttu-id="2e815-142">使用新的交易迁移功能从 Partner Sales Connect (PSC) 迁移交易</span><span class="sxs-lookup"><span data-stu-id="2e815-142">Migrate your deals from Partner Sales Connect (PSC) using the new deal migration feature</span></span>
-
-### <a name="categories"></a><span data-ttu-id="2e815-143">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-143">Categories</span></span>
-
-- <span data-ttu-id="2e815-144">日期：2021-02-25</span><span class="sxs-lookup"><span data-stu-id="2e815-144">Date: 2021-02-25</span></span>
-- <span data-ttu-id="2e815-145">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-145">Capabilities</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-146">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-146">Impacted audience</span></span>
-
-<span data-ttu-id="2e815-147">在 PSC 中具有交易的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-147">Partners with deals in PSC</span></span>
-
-### <a name="summary"></a><span data-ttu-id="2e815-148">总结</span><span class="sxs-lookup"><span data-stu-id="2e815-148">Summary</span></span>
-
-<span data-ttu-id="2e815-149">在 Partner Sales Connect (PSC) 中具有交易的合作伙伴可使用交易迁移功能来迁移其联合销售交易，从而使用合作伙伴中心新推出的联合销售体验。</span><span class="sxs-lookup"><span data-stu-id="2e815-149">Partners with deals in Partner Sales Connect (PSC) can take advantage of the new co-sell experience inside Partner Center by migrating their co-sell deals using the deal migration feature.</span></span>
-
-### <a name="details"></a><span data-ttu-id="2e815-150">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-150">Details</span></span>
-
-<span data-ttu-id="2e815-151">在 PSC 中具有交易的合作伙伴现可使用交易迁移功能将其联合销售交易迁移到合作伙伴中心，从而加快迁移速度来使用合作伙伴中心新推出的联合销售体验。</span><span class="sxs-lookup"><span data-stu-id="2e815-151">Partners with deals in PSC can now move faster to take advantage of the new co-sell experience inside Partner Center and eliminate working across two platforms by migrating their co-sell deals to Partner Center using the deal migration feature.</span></span>
-
-<span data-ttu-id="2e815-152">有关完整详细信息，请查看下一部分提到的文章。</span><span class="sxs-lookup"><span data-stu-id="2e815-152">See the article mentioned in the next section for full details.</span></span>
-
-### <a name="next-steps"></a><span data-ttu-id="2e815-153">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-153">Next steps</span></span>
-
-<span data-ttu-id="2e815-154">若要详细了解交易迁移功能，请查看[合作伙伴中心 (PC) 针对从 Partner Sales Connect (PSC) 迁移的合作伙伴的联合销售指南](../psc-to-pc.md)中的“PSC 交易迁移”部分。</span><span class="sxs-lookup"><span data-stu-id="2e815-154">Learn more about the deal migration feature by reviewing the **PSC deals migration** section in the [Guide to co-selling in Partner Center (PC) for partners migrating from Partner Sales Connect (PSC)](../psc-to-pc.md).</span></span>
-
-### <a name="questions"></a><span data-ttu-id="2e815-155">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-155">Questions?</span></span>
-
-<span data-ttu-id="2e815-156">如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="2e815-156">Contact [Support](https://partner.microsoft.com/support/?stage=1) if you have any further questions.</span></span>
-
-________________
-## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a><span data-ttu-id="2e815-157">增加了合作伙伴主导的联合销售交易的灵活性</span><span class="sxs-lookup"><span data-stu-id="2e815-157">Increased flexibility with partner-led co-sell deals</span></span>
-
-### <a name="categories"></a><span data-ttu-id="2e815-158">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-158">Categories</span></span>
-
-- <span data-ttu-id="2e815-159">日期：2021-02-25</span><span class="sxs-lookup"><span data-stu-id="2e815-159">Date: 2021-02-25</span></span>
-- <span data-ttu-id="2e815-160">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-160">Capabilities</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-161">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-161">Impacted audience</span></span>
-
-<span data-ttu-id="2e815-162">具有支持联合销售的解决方案的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-162">Partners with co-sell ready solutions</span></span>
-
-### <a name="summary"></a><span data-ttu-id="2e815-163">总结</span><span class="sxs-lookup"><span data-stu-id="2e815-163">Summary</span></span>
-
-<span data-ttu-id="2e815-164">合作伙伴现在创建合作伙伴主导的联合销售交易后，可邀请 Microsoft 买家来将此交易变为一个协作销售活动。</span><span class="sxs-lookup"><span data-stu-id="2e815-164">Partners can now invite Microsoft sellers after creating a partner-led co-sell deal to make it a collaborative selling activity.</span></span>
-
-### <a name="details"></a><span data-ttu-id="2e815-165">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-165">Details</span></span>
-
-<span data-ttu-id="2e815-166">现在，合作伙伴在创建合作伙伴主导的联合销售交易后，可邀请 Microsoft 买家来将此交易变为一个协作销售活动。</span><span class="sxs-lookup"><span data-stu-id="2e815-166">Partners now have the option to invite Microsoft sellers after creating a partner-led co-sell deal to make it a collaborative selling activity.</span></span> <span data-ttu-id="2e815-167">在合作伙伴明确寻求 Microsoft 买家帮助之前，交易的详细信息将不与 Microsoft 销售团队共享。</span><span class="sxs-lookup"><span data-stu-id="2e815-167">The details of the deal are not shared with the Microsoft sales team until the partner explicitly seeks Microsoft seller help.</span></span> <span data-ttu-id="2e815-168">此方案还有资格参与 Microsoft 卖家激励计划。</span><span class="sxs-lookup"><span data-stu-id="2e815-168">This scenario is also eligible for the Microsoft seller incentive.</span></span>
-
-<span data-ttu-id="2e815-169">请注意，在交易达成之前，随时都可升级合作伙伴主导的联合销售交易来激活联合销售。</span><span class="sxs-lookup"><span data-stu-id="2e815-169">Note that partner-led co-sell deals can be upgraded to active co-sell at any point prior to deal closure.</span></span>
-
-<span data-ttu-id="2e815-170">有关完整详细信息，请查看下一部分提到的文章。</span><span class="sxs-lookup"><span data-stu-id="2e815-170">See the article mentioned in the next section for full details.</span></span>
-
-### <a name="next-steps"></a><span data-ttu-id="2e815-171">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-171">Next steps</span></span>
-
-<span data-ttu-id="2e815-172">若要了解详细信息，请查看我们关于[在合作伙伴中心管理联合销售机会](../manage-co-sell-opportunities.md)的指导。</span><span class="sxs-lookup"><span data-stu-id="2e815-172">Learn more by viewing our guide to [managing co-sell opportunities in Partner Center](../manage-co-sell-opportunities.md).</span></span>
-
-### <a name="questions"></a><span data-ttu-id="2e815-173">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-173">Questions?</span></span>
-
-<span data-ttu-id="2e815-174">如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="2e815-174">Contact [Support](https://partner.microsoft.com/support/?stage=1) if you have any further questions.</span></span>
-
-________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> <span data-ttu-id="2e815-175">对云解决方案提供商 (CSP) 客户加入要求的更改</span><span class="sxs-lookup"><span data-stu-id="2e815-175">Changes to the Cloud Solution Provider (CSP) customer onboarding requirements</span></span>
-
-### <a name="categories"></a><span data-ttu-id="2e815-176">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-176">Categories</span></span>
-
-- <span data-ttu-id="2e815-177">日期：2021-04-02</span><span class="sxs-lookup"><span data-stu-id="2e815-177">Date: 2021-04-02</span></span>
-- <span data-ttu-id="2e815-178">增强的安全性和合规性</span><span class="sxs-lookup"><span data-stu-id="2e815-178">Enhanced Security and Compliance</span></span>
-
-### <a name="summary"></a><span data-ttu-id="2e815-179">总结</span><span class="sxs-lookup"><span data-stu-id="2e815-179">Summary</span></span>
-
-<span data-ttu-id="2e815-180">我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将请求其他客户信息，从 2021 年 3 月 25 日生效。</span><span class="sxs-lookup"><span data-stu-id="2e815-180">As part of our commitment to help partners and customers run their business based on trust, we will request additional customer information, effective March 25, 2021.</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-181">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-181">Impacted audience</span></span>
-
-<span data-ttu-id="2e815-182">CSP 商直接计费合作伙伴和间接提供商，他们在下一节中列出的国家/地区具有新客户或现有客户</span><span class="sxs-lookup"><span data-stu-id="2e815-182">CSP direct bill partners and indirect providers who have new or existing customers in the countries listed in the next section</span></span>
-
-### <a name="details"></a><span data-ttu-id="2e815-183">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-183">Details</span></span>
-
-<span data-ttu-id="2e815-184">Microsoft 值得信赖。</span><span class="sxs-lookup"><span data-stu-id="2e815-184">Microsoft runs on trust.</span></span> <span data-ttu-id="2e815-185">我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。</span><span class="sxs-lookup"><span data-stu-id="2e815-185">We’re committed to providing a compliant, safe, and secure method of customer validation for transacting customer subscriptions in the CSP program.</span></span> <span data-ttu-id="2e815-186">在 2021 年 5 月 25 日，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，它们将影响同时满足以下两个条件的合作伙伴：</span><span class="sxs-lookup"><span data-stu-id="2e815-186">On March 25, 2021, we will be introducing Partner Center API and user interface (UI) enhancements that will affect partners who meet both of the following criteria:</span></span>
-
-1. <span data-ttu-id="2e815-187">合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。</span><span class="sxs-lookup"><span data-stu-id="2e815-187">The partner has a direct billing relationship with Microsoft (which means that the partner is either a direct bill partner or an indirect provider).</span></span>
-
-2. <span data-ttu-id="2e815-188">合作伙伴与以下国家/地区的新客户或现有客户开展业务：</span><span class="sxs-lookup"><span data-stu-id="2e815-188">The partner does business with new or existing customers in the following countries:</span></span>
-
-    - <span data-ttu-id="2e815-189">泰国</span><span class="sxs-lookup"><span data-stu-id="2e815-189">Thailand</span></span>
-    - <span data-ttu-id="2e815-190">越南</span><span class="sxs-lookup"><span data-stu-id="2e815-190">Vietnam</span></span>
-    - <span data-ttu-id="2e815-191">土耳其</span><span class="sxs-lookup"><span data-stu-id="2e815-191">Turkey</span></span>
-    - <span data-ttu-id="2e815-192">波兰</span><span class="sxs-lookup"><span data-stu-id="2e815-192">Poland</span></span>
-    - <span data-ttu-id="2e815-193">南非</span><span class="sxs-lookup"><span data-stu-id="2e815-193">South Africa</span></span>
-    - <span data-ttu-id="2e815-194">印度</span><span class="sxs-lookup"><span data-stu-id="2e815-194">India</span></span>
-    - <span data-ttu-id="2e815-195">巴西</span><span class="sxs-lookup"><span data-stu-id="2e815-195">Brazil</span></span>
-    - <span data-ttu-id="2e815-196">伊拉克</span><span class="sxs-lookup"><span data-stu-id="2e815-196">Iraq</span></span>
-    - <span data-ttu-id="2e815-197">缅甸</span><span class="sxs-lookup"><span data-stu-id="2e815-197">Myanmar</span></span>
-    - <span data-ttu-id="2e815-198">南苏丹</span><span class="sxs-lookup"><span data-stu-id="2e815-198">South Sudan</span></span>
-    - <span data-ttu-id="2e815-199">沙特阿拉伯</span><span class="sxs-lookup"><span data-stu-id="2e815-199">Saudi Arabia</span></span>
-    - <span data-ttu-id="2e815-200">阿拉伯联合酋长国</span><span class="sxs-lookup"><span data-stu-id="2e815-200">United Arab Emirates</span></span>
-    - <span data-ttu-id="2e815-201">委内瑞拉</span><span class="sxs-lookup"><span data-stu-id="2e815-201">Venezuela</span></span>
-
-<span data-ttu-id="2e815-202">满足条件的合作伙伴必须在其下一次更新或为客户创建订阅时提交该客户的公司注册 ID（也称为客户的组织 INN）和电话号码。</span><span class="sxs-lookup"><span data-stu-id="2e815-202">Partners who meet the criteria will have to submit a customer's company registration ID (also known as the customer's organization INN) and phone number when they next update or create a subscription for that customer.</span></span> <span data-ttu-id="2e815-203">这些合作伙伴还可以为客户输入可选的中间名。</span><span class="sxs-lookup"><span data-stu-id="2e815-203">These partners can also enter an optional middle name for the customer.</span></span>
-
-<span data-ttu-id="2e815-204">请注意，在添加公司注册 ID 时，应使用企业纳税人标识号，而不是客户的个人 ID。</span><span class="sxs-lookup"><span data-stu-id="2e815-204">Note that when you add your company registration ID you should use your business tax ID and not the customer personal ID.</span></span>
-
-<span data-ttu-id="2e815-205">与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。</span><span class="sxs-lookup"><span data-stu-id="2e815-205">Partners who do business with new or existing customers in the following countries have already been onboarded with a previous release in November 2020.</span></span>
-
-- <span data-ttu-id="2e815-206">亚美尼亚</span><span class="sxs-lookup"><span data-stu-id="2e815-206">Armenia</span></span>
-- <span data-ttu-id="2e815-207">阿塞拜疆</span><span class="sxs-lookup"><span data-stu-id="2e815-207">Azerbaijan</span></span>
-- <span data-ttu-id="2e815-208">白俄罗斯</span><span class="sxs-lookup"><span data-stu-id="2e815-208">Belarus</span></span>
-- <span data-ttu-id="2e815-209">匈牙利</span><span class="sxs-lookup"><span data-stu-id="2e815-209">Hungary</span></span>
-- <span data-ttu-id="2e815-210">哈萨克斯坦</span><span class="sxs-lookup"><span data-stu-id="2e815-210">Kazakhstan</span></span>
-- <span data-ttu-id="2e815-211">吉尔吉斯斯坦</span><span class="sxs-lookup"><span data-stu-id="2e815-211">Kyrgyzstan</span></span>
-- <span data-ttu-id="2e815-212">摩尔多瓦</span><span class="sxs-lookup"><span data-stu-id="2e815-212">Moldova</span></span>
-- <span data-ttu-id="2e815-213">俄罗斯</span><span class="sxs-lookup"><span data-stu-id="2e815-213">Russia</span></span>
-- <span data-ttu-id="2e815-214">塔吉克斯坦</span><span class="sxs-lookup"><span data-stu-id="2e815-214">Tajikistan</span></span>
-- <span data-ttu-id="2e815-215">乌克兰</span><span class="sxs-lookup"><span data-stu-id="2e815-215">Ukraine</span></span>
-- <span data-ttu-id="2e815-216">乌兹别克斯坦</span><span class="sxs-lookup"><span data-stu-id="2e815-216">Uzbekistan</span></span>
-
-<span data-ttu-id="2e815-217">与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月底输入客户的公司注册 ID、电话号码和中间名（可选）详细信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-217">Partners with customers in the rest of the world will have the ability at the end of March 2021 to enter the company registration ID, phone number, and middle name for customers as optional details.</span></span>
-
-### <a name="next-steps"></a><span data-ttu-id="2e815-218">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-218">Next steps</span></span>
-
-- <span data-ttu-id="2e815-219">有关更详细的指南，请查看专门的[合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)中的技术文档和常见问题。</span><span class="sxs-lookup"><span data-stu-id="2e815-219">Review the technical documentation and frequently asked questions in the dedicated [partner collection](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) for more detailed guidance.</span></span>
-- <span data-ttu-id="2e815-220">准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。</span><span class="sxs-lookup"><span data-stu-id="2e815-220">Prepare to incorporate the changes using Partner Center API and web user experience.</span></span> <span data-ttu-id="2e815-221">API/SDK 将可用于测试。</span><span class="sxs-lookup"><span data-stu-id="2e815-221">API/SDKs will be available for testing.</span></span>
-- <span data-ttu-id="2e815-222">请确保在加入新客户或修改现有客户详细信息时提交其他数据。</span><span class="sxs-lookup"><span data-stu-id="2e815-222">Make sure to submit the additional data when onboarding new customers or modifying existing customer details.</span></span>
-- <span data-ttu-id="2e815-223">如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。</span><span class="sxs-lookup"><span data-stu-id="2e815-223">If you’re using a control panel vendor (CPV) solution, consult your CPV.</span></span>
-
-### <a name="questions"></a><span data-ttu-id="2e815-224">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-224">Questions?</span></span>
-
-<span data-ttu-id="2e815-225">如果你有任何与公司注册 ID（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。</span><span class="sxs-lookup"><span data-stu-id="2e815-225">Contact your tax advisor or local tax office if you have any questions related to the company registration ID (also called INN or TIN).</span></span> <span data-ttu-id="2e815-226">Microsoft 无法提供有关税务事宜的指导。</span><span class="sxs-lookup"><span data-stu-id="2e815-226">Microsoft cannot provide guidance on tax matters.</span></span>
-
-<span data-ttu-id="2e815-227">如果需要 Microsoft 运营方面的支持，请创建[服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。</span><span class="sxs-lookup"><span data-stu-id="2e815-227">If you need support with your operations with Microsoft, open a [service request](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).</span></span>
-
-### <a name="change-log"></a><span data-ttu-id="2e815-228">更改日志：</span><span class="sxs-lookup"><span data-stu-id="2e815-228">Change log:</span></span>
-
-<span data-ttu-id="2e815-229">2020 年 12 月 17 日：初始发布</span><span class="sxs-lookup"><span data-stu-id="2e815-229">December 17, 2020: Original publication</span></span>
-
-<span data-ttu-id="2e815-230">2021 年 1 月 28 日：重新发布无更改</span><span class="sxs-lookup"><span data-stu-id="2e815-230">January 28, 2021: Republication no changes</span></span>
-
-<span data-ttu-id="2e815-231">2021 年 2 月 25 日：公布具体发布日期</span><span class="sxs-lookup"><span data-stu-id="2e815-231">February 25, 2021: Specific Launch Date announced</span></span>
-
-<span data-ttu-id="2e815-232">2021 年 4 月 2 日：更新包括下列各项：</span><span class="sxs-lookup"><span data-stu-id="2e815-232">April 2, 2021: Updates include the following:</span></span>
-
-- <span data-ttu-id="2e815-233">提供了发布日期</span><span class="sxs-lookup"><span data-stu-id="2e815-233">Launch Date provided</span></span>
-- <span data-ttu-id="2e815-234">组织 INN 的标题已更新为公司注册 ID</span><span class="sxs-lookup"><span data-stu-id="2e815-234">Title for Organization INN was updated to Company Registration ID</span></span> 
-- <span data-ttu-id="2e815-235">添加了注释以提供对公司注册 ID 的说明</span><span class="sxs-lookup"><span data-stu-id="2e815-235">Note added to provide clarification for Company Registration ID</span></span>
+- <span data-ttu-id="61bb5-122">4 月：提醒即将弃用 GET 资格</span><span class="sxs-lookup"><span data-stu-id="61bb5-122">April: Reminder of upcoming deprecation of GET qualification</span></span> 
+- <span data-ttu-id="61bb5-123">二月：更新了停用 GET 和 PUT 资格的时间线</span><span class="sxs-lookup"><span data-stu-id="61bb5-123">February: Updated timelines for deprecation of GET & PUT qualifications</span></span>
+- <span data-ttu-id="61bb5-124">一月：提醒即将开始弃用 GET 和 PUT 资格</span><span class="sxs-lookup"><span data-stu-id="61bb5-124">January: Reminder of upcoming deprecations of GET & PUT qualifications</span></span>
 
 
 ________________
-## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> <span data-ttu-id="2e815-236">现已上线：针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign</span><span class="sxs-lookup"><span data-stu-id="2e815-236">Now Live: DocuSign migration to Adobe Sign for partners under Microsoft Partner Agreements (MPAs)</span></span>
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a><span data-ttu-id="61bb5-125">使用合作伙伴中心批量操作功能大规模共享联合销售交易</span><span class="sxs-lookup"><span data-stu-id="61bb5-125">Share co-sell deals at scale using the Partner Center bulk operations capability</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-237">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-237">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-126">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-126">Categories</span></span>
 
-- <span data-ttu-id="2e815-238">日期:2021-02-16</span><span class="sxs-lookup"><span data-stu-id="2e815-238">Date: 2021-02-16</span></span>
-- <span data-ttu-id="2e815-239">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-239">Capabilities</span></span>
+- <span data-ttu-id="61bb5-127">日期：2021-02-25</span><span class="sxs-lookup"><span data-stu-id="61bb5-127">Date: 2021-02-25</span></span>
+- <span data-ttu-id="61bb5-128">增强的安全性和合规性</span><span class="sxs-lookup"><span data-stu-id="61bb5-128">Enhanced Security and Compliance</span></span>
 
-### <a name="summary"></a><span data-ttu-id="2e815-240">摘要</span><span class="sxs-lookup"><span data-stu-id="2e815-240">Summary</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-129">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-129">Impacted audience</span></span>
 
-<span data-ttu-id="2e815-241">Microsoft 会将所有电子签名处理从 DocuSign 转移到 Adobe Sign。</span><span class="sxs-lookup"><span data-stu-id="2e815-241">Microsoft will be transitioning all electronic signature processing from DocuSign to Adobe Sign.</span></span>
+<span data-ttu-id="61bb5-130">合作伙伴中心的合作伙伴联合销售</span><span class="sxs-lookup"><span data-stu-id="61bb5-130">Partners co-selling in Partner Center</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-242">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-242">Impacted audience</span></span>
+### <a name="summary"></a><span data-ttu-id="61bb5-131">总结</span><span class="sxs-lookup"><span data-stu-id="61bb5-131">Summary</span></span>
 
-<span data-ttu-id="2e815-243">MPA 下的现有直接和间接云解决方案提供商 (CSP) 合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="2e815-243">Existing direct and indirect Cloud Solution Provider (CSP) partners under MPA.</span></span>
+<span data-ttu-id="61bb5-132">联合销售的合作伙伴现可使用合作伙伴中心 CSV 文件批量操作功能大规模地导入和导出销售机会。</span><span class="sxs-lookup"><span data-stu-id="61bb5-132">Co-selling partners can now export and import opportunities at scale using the new Partner Center CSV file bulk operations feature.</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-244">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-244">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-133">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-133">Details</span></span>
 
-<span data-ttu-id="2e815-245">2021 年 2 月，Microsoft 会针对 CSP 合作伙伴将所有电子签名处理从 DocuSign 转移到 Adobe Sign。</span><span class="sxs-lookup"><span data-stu-id="2e815-245">In February 2021, Microsoft will begin transitioning all electronic signature processing from DocuSign to Adobe Sign for CSP partners.</span></span>
+<span data-ttu-id="61bb5-134">联合销售的合作伙伴现可使用合作伙伴中心 CSV 文件批量操作功能大规模地导入和导出销售机会。</span><span class="sxs-lookup"><span data-stu-id="61bb5-134">Co-selling partners can now export and import opportunities at scale using the new Partner Center CSV file bulk operations feature.</span></span> <span data-ttu-id="61bb5-135">这将统一你的推荐共享体验，并确保在从 Partner Sales Connect 迁移时业务不中断。</span><span class="sxs-lookup"><span data-stu-id="61bb5-135">This will unify your referral sharing experience and ensure business continuity when moving from Partner Sales Connect.</span></span> <span data-ttu-id="61bb5-136">它也是在合作伙伴中心 API 中的投资的另一种选择。</span><span class="sxs-lookup"><span data-stu-id="61bb5-136">It’s also an alternative to investment in the Partner Center API.</span></span>
 
-<span data-ttu-id="2e815-246">你也希望实现顺利的转移。</span><span class="sxs-lookup"><span data-stu-id="2e815-246">You should expect a smooth transition.</span></span> <span data-ttu-id="2e815-247">迁移后，每当需要你的电子签名时，你都将收到一封来自 adobesign@adobesign.com（而不是 DocuSign）的电子邮件。</span><span class="sxs-lookup"><span data-stu-id="2e815-247">Upon migration, you will receive an email from adobesign@adobesign.com, instead of DocuSign, whenever your electronic signature is required.</span></span> <span data-ttu-id="2e815-248">此电子邮件将提供一个指向你将需要签名的 Adobe Sign 网页的链接。</span><span class="sxs-lookup"><span data-stu-id="2e815-248">This email will provide you with a link to the Adobe Sign web page where you will need to sign.</span></span> <span data-ttu-id="2e815-249">Microsoft 合作伙伴将不必重新签署现有协议，只需签署未来的渠道协议。</span><span class="sxs-lookup"><span data-stu-id="2e815-249">Microsoft partners will not have to re-sign existing agreements, only future Channel Agreements.</span></span> <span data-ttu-id="2e815-250">乌克兰、俄罗斯和哈萨克斯坦的合作伙伴需要每年以物理方式或电子方式对 Rider 进行重新签名。</span><span class="sxs-lookup"><span data-stu-id="2e815-250">Partners in Ukraine, Russia, and Kazakhstan will be required to physically or electronically re-sign the Rider annually.</span></span>
+<span data-ttu-id="61bb5-137">有关完整详细信息，请查看下一部分提到的文章。</span><span class="sxs-lookup"><span data-stu-id="61bb5-137">See the article mentioned in the next section for full details.</span></span> 
 
-<span data-ttu-id="2e815-251">可在[资源库](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 签名请求电子邮件的示例。</span><span class="sxs-lookup"><span data-stu-id="2e815-251">You can find an example of an Adobe Sign signature request email in [the resource gallery](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-138">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-138">Next steps</span></span>
 
-<span data-ttu-id="2e815-252">如果要获得最佳体验，请确保执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="2e815-252">For the best experience, make sure to do the following:</span></span>
+<span data-ttu-id="61bb5-139">若要详细了解批量操作功能，请阅读[使用逗号分隔值 (CSV) 文件针对联合销售机会的批量操作](../bulk-operations.md)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-139">Learn more about the bulk operations capability by reading [Bulk operations for co-sell opportunities using comma-separated value (CSV) files](../bulk-operations.md).</span></span>
 
-1. <span data-ttu-id="2e815-253">将 adobesign@adobesign.com 添加到安全发件人列表，以避免来自此帐户的电子邮件直接进入垃圾邮件文件夹。</span><span class="sxs-lookup"><span data-stu-id="2e815-253">Add adobesign@adobesign.com to your safe senders list to avoid emails from this account going directly into your junk email folder.</span></span>
-2. <span data-ttu-id="2e815-254">与 IT 部门协作，以执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="2e815-254">Work with your IT department to:</span></span>
-    - <span data-ttu-id="2e815-255">将 adobesign@adobesign.com 电子邮件地址添加到安全发件人列表中，确保它未包含在任何预先建立的钓鱼规则中。</span><span class="sxs-lookup"><span data-stu-id="2e815-255">Add the adobesign@adobesign.com email address to their safe senders list to ensure that it’s not included in any pre-established phishing rule.</span></span>
-    - <span data-ttu-id="2e815-256">更新现有安全策略，确保所有必要的收件人都可以对你的 Adobe Sign 企业许可证下的文档签名。</span><span class="sxs-lookup"><span data-stu-id="2e815-256">Update existing security policies to ensure that all required recipients can sign documentation under your Adobe Sign enterprise license.</span></span>
+### <a name="questions"></a><span data-ttu-id="61bb5-140">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-140">Questions?</span></span>
 
-<span data-ttu-id="2e815-257">可在 [Adobe Sign 迁移合作伙伴页](https://aka.ms/eSignature/External)上找到与载入、功能和业务流程相关的资源。</span><span class="sxs-lookup"><span data-stu-id="2e815-257">Resources pertaining to onboarding, functionality and business process questions can be found on the [Adobe Sign Migration Partner Page](https://aka.ms/eSignature/External).</span></span>
+<span data-ttu-id="61bb5-141">如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-141">Contact [Support](https://partner.microsoft.com/support/?stage=1) if you have any further questions.</span></span>
 
-<span data-ttu-id="2e815-258">Adobe Sign 是 Microsoft 首选的电子签名解决方案 (ESS)。</span><span class="sxs-lookup"><span data-stu-id="2e815-258">Adobe Sign is Microsoft’s preferred Electronic Signature Solution (ESS).</span></span> <span data-ttu-id="2e815-259">转移到 Adobe Sign 可确保一个安全、有效的电子签名体验，为客户和合作伙伴创造更大的价值。</span><span class="sxs-lookup"><span data-stu-id="2e815-259">The transition to Adobe Sign will ensure a secure and efficient electronic signature experience that will deliver greater value to our customers and partners.</span></span>
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a><span data-ttu-id="61bb5-142">使用新的交易迁移功能从 Partner Sales Connect (PSC) 迁移交易</span><span class="sxs-lookup"><span data-stu-id="61bb5-142">Migrate your deals from Partner Sales Connect (PSC) using the new deal migration feature</span></span>
 
-<span data-ttu-id="2e815-260">如需详细了解如何以电子方式对文档和电子签名委托签名，请参阅以下教程：</span><span class="sxs-lookup"><span data-stu-id="2e815-260">For additional information on how to electronically sign documents and electronic signature delegation, refer to the following tutorials:</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-143">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-143">Categories</span></span>
 
-- [<span data-ttu-id="2e815-261">以电子方式对文档签名 |Adobe Sign 教程</span><span class="sxs-lookup"><span data-stu-id="2e815-261">Electronically sign a document | Adobe Sign tutorials</span></span>](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [<span data-ttu-id="2e815-262">委托他人对文档签名 | Adobe Sign 教程</span><span class="sxs-lookup"><span data-stu-id="2e815-262">Delegate someone else to sign a document | Adobe Sign tutorials</span></span>](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+- <span data-ttu-id="61bb5-144">日期：2021-02-25</span><span class="sxs-lookup"><span data-stu-id="61bb5-144">Date: 2021-02-25</span></span>
+- <span data-ttu-id="61bb5-145">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-145">Capabilities</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-263">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-263">Next steps</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-146">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-146">Impacted audience</span></span>
 
-<span data-ttu-id="2e815-264">请与贵组织中的相应利益干系人共享此信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-264">Share this information with the appropriate stakeholders in your organization.</span></span>
+<span data-ttu-id="61bb5-147">在 PSC 中具有交易的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-147">Partners with deals in PSC</span></span>
 
-### <a name="questions"></a><span data-ttu-id="2e815-265">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-265">Questions?</span></span>
+### <a name="summary"></a><span data-ttu-id="61bb5-148">总结</span><span class="sxs-lookup"><span data-stu-id="61bb5-148">Summary</span></span>
 
-<span data-ttu-id="2e815-266">如有任何疑问，请使用[呼叫日志记录工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或通过 [Explore MS](https://www.explore.ms/) 联系区域运营中心。</span><span class="sxs-lookup"><span data-stu-id="2e815-266">If you have any questions, contact your Regional Operations Center using the [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) or at [Explore MS](https://www.explore.ms/).</span></span> <span data-ttu-id="2e815-267">请严格按照标准 CLT 流程操作，以便我们可尽快处理你的查询。</span><span class="sxs-lookup"><span data-stu-id="2e815-267">Follow the standard CLT process closely so that we can resolve your query as quickly as possible.</span></span>
+<span data-ttu-id="61bb5-149">在 Partner Sales Connect (PSC) 中具有交易的合作伙伴可使用交易迁移功能来迁移其联合销售交易，从而使用合作伙伴中心新推出的联合销售体验。</span><span class="sxs-lookup"><span data-stu-id="61bb5-149">Partners with deals in Partner Sales Connect (PSC) can take advantage of the new co-sell experience inside Partner Center by migrating their co-sell deals using the deal migration feature.</span></span>
 
-### <a name="change-log"></a><span data-ttu-id="2e815-268">更改日志</span><span class="sxs-lookup"><span data-stu-id="2e815-268">Change Log</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-150">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-150">Details</span></span>
 
-- <span data-ttu-id="2e815-269">2021 年 1 月 15 日：原始发布</span><span class="sxs-lookup"><span data-stu-id="2e815-269">January 15, 2021: original publication</span></span> 
-- <span data-ttu-id="2e815-270">2021 年 2 月 16 日：现已上线，新资源：Adobe Sign 迁移合作伙伴页</span><span class="sxs-lookup"><span data-stu-id="2e815-270">February 16, 2021: Now live, New Resource: Adobe Sign Migration Partner Page</span></span> 
+<span data-ttu-id="61bb5-151">在 PSC 中具有交易的合作伙伴现可使用交易迁移功能将其联合销售交易迁移到合作伙伴中心，从而加快迁移速度来使用合作伙伴中心新推出的联合销售体验。</span><span class="sxs-lookup"><span data-stu-id="61bb5-151">Partners with deals in PSC can now move faster to take advantage of the new co-sell experience inside Partner Center and eliminate working across two platforms by migrating their co-sell deals to Partner Center using the deal migration feature.</span></span>
+
+<span data-ttu-id="61bb5-152">有关完整详细信息，请查看下一部分提到的文章。</span><span class="sxs-lookup"><span data-stu-id="61bb5-152">See the article mentioned in the next section for full details.</span></span>
+
+### <a name="next-steps"></a><span data-ttu-id="61bb5-153">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-153">Next steps</span></span>
+
+<span data-ttu-id="61bb5-154">若要详细了解交易迁移功能，请查看[合作伙伴中心 (PC) 针对从 Partner Sales Connect (PSC) 迁移的合作伙伴的联合销售指南](../psc-to-pc.md)中的“PSC 交易迁移”部分。</span><span class="sxs-lookup"><span data-stu-id="61bb5-154">Learn more about the deal migration feature by reviewing the **PSC deals migration** section in the [Guide to co-selling in Partner Center (PC) for partners migrating from Partner Sales Connect (PSC)](../psc-to-pc.md).</span></span>
+
+### <a name="questions"></a><span data-ttu-id="61bb5-155">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-155">Questions?</span></span>
+
+<span data-ttu-id="61bb5-156">如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-156">Contact [Support](https://partner.microsoft.com/support/?stage=1) if you have any further questions.</span></span>
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a><span data-ttu-id="61bb5-157">增加了合作伙伴主导的联合销售交易的灵活性</span><span class="sxs-lookup"><span data-stu-id="61bb5-157">Increased flexibility with partner-led co-sell deals</span></span>
+
+### <a name="categories"></a><span data-ttu-id="61bb5-158">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-158">Categories</span></span>
+
+- <span data-ttu-id="61bb5-159">日期：2021-02-25</span><span class="sxs-lookup"><span data-stu-id="61bb5-159">Date: 2021-02-25</span></span>
+- <span data-ttu-id="61bb5-160">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-160">Capabilities</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-161">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-161">Impacted audience</span></span>
+
+<span data-ttu-id="61bb5-162">具有支持联合销售的解决方案的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-162">Partners with co-sell ready solutions</span></span>
+
+### <a name="summary"></a><span data-ttu-id="61bb5-163">总结</span><span class="sxs-lookup"><span data-stu-id="61bb5-163">Summary</span></span>
+
+<span data-ttu-id="61bb5-164">合作伙伴现在创建合作伙伴主导的联合销售交易后，可邀请 Microsoft 买家来将此交易变为一个协作销售活动。</span><span class="sxs-lookup"><span data-stu-id="61bb5-164">Partners can now invite Microsoft sellers after creating a partner-led co-sell deal to make it a collaborative selling activity.</span></span>
+
+### <a name="details"></a><span data-ttu-id="61bb5-165">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-165">Details</span></span>
+
+<span data-ttu-id="61bb5-166">现在，合作伙伴在创建合作伙伴主导的联合销售交易后，可邀请 Microsoft 买家来将此交易变为一个协作销售活动。</span><span class="sxs-lookup"><span data-stu-id="61bb5-166">Partners now have the option to invite Microsoft sellers after creating a partner-led co-sell deal to make it a collaborative selling activity.</span></span> <span data-ttu-id="61bb5-167">在合作伙伴明确寻求 Microsoft 买家帮助之前，交易的详细信息将不与 Microsoft 销售团队共享。</span><span class="sxs-lookup"><span data-stu-id="61bb5-167">The details of the deal are not shared with the Microsoft sales team until the partner explicitly seeks Microsoft seller help.</span></span> <span data-ttu-id="61bb5-168">此方案还有资格参与 Microsoft 卖家激励计划。</span><span class="sxs-lookup"><span data-stu-id="61bb5-168">This scenario is also eligible for the Microsoft seller incentive.</span></span>
+
+<span data-ttu-id="61bb5-169">请注意，在交易达成之前，随时都可升级合作伙伴主导的联合销售交易来激活联合销售。</span><span class="sxs-lookup"><span data-stu-id="61bb5-169">Note that partner-led co-sell deals can be upgraded to active co-sell at any point prior to deal closure.</span></span>
+
+<span data-ttu-id="61bb5-170">有关完整详细信息，请查看下一部分提到的文章。</span><span class="sxs-lookup"><span data-stu-id="61bb5-170">See the article mentioned in the next section for full details.</span></span>
+
+### <a name="next-steps"></a><span data-ttu-id="61bb5-171">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-171">Next steps</span></span>
+
+<span data-ttu-id="61bb5-172">若要了解详细信息，请查看我们关于[在合作伙伴中心管理联合销售机会](../manage-co-sell-opportunities.md)的指导。</span><span class="sxs-lookup"><span data-stu-id="61bb5-172">Learn more by viewing our guide to [managing co-sell opportunities in Partner Center](../manage-co-sell-opportunities.md).</span></span>
+
+### <a name="questions"></a><span data-ttu-id="61bb5-173">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-173">Questions?</span></span>
+
+<span data-ttu-id="61bb5-174">如果还有其他问题，请联系[支持部门](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-174">Contact [Support](https://partner.microsoft.com/support/?stage=1) if you have any further questions.</span></span>
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> <span data-ttu-id="61bb5-175">对云解决方案提供商 (CSP) 客户加入要求的更改</span><span class="sxs-lookup"><span data-stu-id="61bb5-175">Changes to the Cloud Solution Provider (CSP) customer onboarding requirements</span></span>
+
+### <a name="categories"></a><span data-ttu-id="61bb5-176">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-176">Categories</span></span>
+
+- <span data-ttu-id="61bb5-177">日期：2021-04-02</span><span class="sxs-lookup"><span data-stu-id="61bb5-177">Date: 2021-04-02</span></span>
+- <span data-ttu-id="61bb5-178">增强的安全性和合规性</span><span class="sxs-lookup"><span data-stu-id="61bb5-178">Enhanced Security and Compliance</span></span>
+
+### <a name="summary"></a><span data-ttu-id="61bb5-179">总结</span><span class="sxs-lookup"><span data-stu-id="61bb5-179">Summary</span></span>
+
+<span data-ttu-id="61bb5-180">我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将请求其他客户信息，从 2021 年 3 月 25 日生效。</span><span class="sxs-lookup"><span data-stu-id="61bb5-180">As part of our commitment to help partners and customers run their business based on trust, we will request additional customer information, effective March 25, 2021.</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-181">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-181">Impacted audience</span></span>
+
+<span data-ttu-id="61bb5-182">CSP 商直接计费合作伙伴和间接提供商，他们在下一节中列出的国家/地区具有新客户或现有客户</span><span class="sxs-lookup"><span data-stu-id="61bb5-182">CSP direct bill partners and indirect providers who have new or existing customers in the countries listed in the next section</span></span>
+
+### <a name="details"></a><span data-ttu-id="61bb5-183">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-183">Details</span></span>
+
+<span data-ttu-id="61bb5-184">Microsoft 值得信赖。</span><span class="sxs-lookup"><span data-stu-id="61bb5-184">Microsoft runs on trust.</span></span> <span data-ttu-id="61bb5-185">我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户验证方法。</span><span class="sxs-lookup"><span data-stu-id="61bb5-185">We’re committed to providing a compliant, safe, and secure method of customer validation for transacting customer subscriptions in the CSP program.</span></span> <span data-ttu-id="61bb5-186">在 2021 年 5 月 25 日，我们将引入合作伙伴中心 API 和用户界面 (UI) 增强功能，它们将影响同时满足以下两个条件的合作伙伴：</span><span class="sxs-lookup"><span data-stu-id="61bb5-186">On March 25, 2021, we will be introducing Partner Center API and user interface (UI) enhancements that will affect partners who meet both of the following criteria:</span></span>
+
+1. <span data-ttu-id="61bb5-187">合作伙伴与 Microsoft 有直接计费关系（这意味着合作伙伴是直接计费合作伙伴或间接提供商）。</span><span class="sxs-lookup"><span data-stu-id="61bb5-187">The partner has a direct billing relationship with Microsoft (which means that the partner is either a direct bill partner or an indirect provider).</span></span>
+
+2. <span data-ttu-id="61bb5-188">合作伙伴与以下国家/地区的新客户或现有客户开展业务：</span><span class="sxs-lookup"><span data-stu-id="61bb5-188">The partner does business with new or existing customers in the following countries:</span></span>
+
+    - <span data-ttu-id="61bb5-189">泰国</span><span class="sxs-lookup"><span data-stu-id="61bb5-189">Thailand</span></span>
+    - <span data-ttu-id="61bb5-190">越南</span><span class="sxs-lookup"><span data-stu-id="61bb5-190">Vietnam</span></span>
+    - <span data-ttu-id="61bb5-191">土耳其</span><span class="sxs-lookup"><span data-stu-id="61bb5-191">Turkey</span></span>
+    - <span data-ttu-id="61bb5-192">波兰</span><span class="sxs-lookup"><span data-stu-id="61bb5-192">Poland</span></span>
+    - <span data-ttu-id="61bb5-193">南非</span><span class="sxs-lookup"><span data-stu-id="61bb5-193">South Africa</span></span>
+    - <span data-ttu-id="61bb5-194">印度</span><span class="sxs-lookup"><span data-stu-id="61bb5-194">India</span></span>
+    - <span data-ttu-id="61bb5-195">巴西</span><span class="sxs-lookup"><span data-stu-id="61bb5-195">Brazil</span></span>
+    - <span data-ttu-id="61bb5-196">伊拉克</span><span class="sxs-lookup"><span data-stu-id="61bb5-196">Iraq</span></span>
+    - <span data-ttu-id="61bb5-197">缅甸</span><span class="sxs-lookup"><span data-stu-id="61bb5-197">Myanmar</span></span>
+    - <span data-ttu-id="61bb5-198">南苏丹</span><span class="sxs-lookup"><span data-stu-id="61bb5-198">South Sudan</span></span>
+    - <span data-ttu-id="61bb5-199">沙特阿拉伯</span><span class="sxs-lookup"><span data-stu-id="61bb5-199">Saudi Arabia</span></span>
+    - <span data-ttu-id="61bb5-200">阿拉伯联合酋长国</span><span class="sxs-lookup"><span data-stu-id="61bb5-200">United Arab Emirates</span></span>
+    - <span data-ttu-id="61bb5-201">委内瑞拉</span><span class="sxs-lookup"><span data-stu-id="61bb5-201">Venezuela</span></span>
+
+<span data-ttu-id="61bb5-202">满足条件的合作伙伴必须在其下一次更新或为客户创建订阅时提交该客户的公司注册 ID（也称为客户的组织 INN）和电话号码。</span><span class="sxs-lookup"><span data-stu-id="61bb5-202">Partners who meet the criteria will have to submit a customer's company registration ID (also known as the customer's organization INN) and phone number when they next update or create a subscription for that customer.</span></span> <span data-ttu-id="61bb5-203">这些合作伙伴还可以为客户输入可选的中间名。</span><span class="sxs-lookup"><span data-stu-id="61bb5-203">These partners can also enter an optional middle name for the customer.</span></span>
+
+<span data-ttu-id="61bb5-204">请注意，在添加公司注册 ID 时，应使用企业纳税人标识号，而不是客户的个人 ID。</span><span class="sxs-lookup"><span data-stu-id="61bb5-204">Note that when you add your company registration ID you should use your business tax ID and not the customer personal ID.</span></span>
+
+<span data-ttu-id="61bb5-205">与以下国家/地区的新客户和现有客户合作的合作伙伴已加入 2020 年 11 月的以前版本中。</span><span class="sxs-lookup"><span data-stu-id="61bb5-205">Partners who do business with new or existing customers in the following countries have already been onboarded with a previous release in November 2020.</span></span>
+
+- <span data-ttu-id="61bb5-206">亚美尼亚</span><span class="sxs-lookup"><span data-stu-id="61bb5-206">Armenia</span></span>
+- <span data-ttu-id="61bb5-207">阿塞拜疆</span><span class="sxs-lookup"><span data-stu-id="61bb5-207">Azerbaijan</span></span>
+- <span data-ttu-id="61bb5-208">白俄罗斯</span><span class="sxs-lookup"><span data-stu-id="61bb5-208">Belarus</span></span>
+- <span data-ttu-id="61bb5-209">匈牙利</span><span class="sxs-lookup"><span data-stu-id="61bb5-209">Hungary</span></span>
+- <span data-ttu-id="61bb5-210">哈萨克斯坦</span><span class="sxs-lookup"><span data-stu-id="61bb5-210">Kazakhstan</span></span>
+- <span data-ttu-id="61bb5-211">吉尔吉斯斯坦</span><span class="sxs-lookup"><span data-stu-id="61bb5-211">Kyrgyzstan</span></span>
+- <span data-ttu-id="61bb5-212">摩尔多瓦</span><span class="sxs-lookup"><span data-stu-id="61bb5-212">Moldova</span></span>
+- <span data-ttu-id="61bb5-213">俄罗斯</span><span class="sxs-lookup"><span data-stu-id="61bb5-213">Russia</span></span>
+- <span data-ttu-id="61bb5-214">塔吉克斯坦</span><span class="sxs-lookup"><span data-stu-id="61bb5-214">Tajikistan</span></span>
+- <span data-ttu-id="61bb5-215">乌克兰</span><span class="sxs-lookup"><span data-stu-id="61bb5-215">Ukraine</span></span>
+- <span data-ttu-id="61bb5-216">乌兹别克斯坦</span><span class="sxs-lookup"><span data-stu-id="61bb5-216">Uzbekistan</span></span>
+
+<span data-ttu-id="61bb5-217">与世界上其他国家/地区的客户合作的合作伙伴可以在 2021 年 3 月底输入客户的公司注册 ID、电话号码和中间名（可选）详细信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-217">Partners with customers in the rest of the world will have the ability at the end of March 2021 to enter the company registration ID, phone number, and middle name for customers as optional details.</span></span>
+
+### <a name="next-steps"></a><span data-ttu-id="61bb5-218">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-218">Next steps</span></span>
+
+- <span data-ttu-id="61bb5-219">有关更详细的指南，请查看专门的[合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)中的技术文档和常见问题。</span><span class="sxs-lookup"><span data-stu-id="61bb5-219">Review the technical documentation and frequently asked questions in the dedicated [partner collection](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) for more detailed guidance.</span></span>
+- <span data-ttu-id="61bb5-220">准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。</span><span class="sxs-lookup"><span data-stu-id="61bb5-220">Prepare to incorporate the changes using Partner Center API and web user experience.</span></span> <span data-ttu-id="61bb5-221">API/SDK 将可用于测试。</span><span class="sxs-lookup"><span data-stu-id="61bb5-221">API/SDKs will be available for testing.</span></span>
+- <span data-ttu-id="61bb5-222">请确保在加入新客户或修改现有客户详细信息时提交其他数据。</span><span class="sxs-lookup"><span data-stu-id="61bb5-222">Make sure to submit the additional data when onboarding new customers or modifying existing customer details.</span></span>
+- <span data-ttu-id="61bb5-223">如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。</span><span class="sxs-lookup"><span data-stu-id="61bb5-223">If you’re using a control panel vendor (CPV) solution, consult your CPV.</span></span>
+
+### <a name="questions"></a><span data-ttu-id="61bb5-224">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-224">Questions?</span></span>
+
+<span data-ttu-id="61bb5-225">如果你有任何与公司注册 ID（也称为 INN 或 TIN）相关的问题，请与你的税务顾问或当地税务局联系。</span><span class="sxs-lookup"><span data-stu-id="61bb5-225">Contact your tax advisor or local tax office if you have any questions related to the company registration ID (also called INN or TIN).</span></span> <span data-ttu-id="61bb5-226">Microsoft 无法提供有关税务事宜的指导。</span><span class="sxs-lookup"><span data-stu-id="61bb5-226">Microsoft cannot provide guidance on tax matters.</span></span>
+
+<span data-ttu-id="61bb5-227">如果需要 Microsoft 运营方面的支持，请创建[服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-227">If you need support with your operations with Microsoft, open a [service request](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).</span></span>
+
+### <a name="change-log"></a><span data-ttu-id="61bb5-228">更改日志：</span><span class="sxs-lookup"><span data-stu-id="61bb5-228">Change log:</span></span>
+
+<span data-ttu-id="61bb5-229">2020 年 12 月 17 日：初始发布</span><span class="sxs-lookup"><span data-stu-id="61bb5-229">December 17, 2020: Original publication</span></span>
+
+<span data-ttu-id="61bb5-230">2021 年 1 月 28 日：重新发布无更改</span><span class="sxs-lookup"><span data-stu-id="61bb5-230">January 28, 2021: Republication no changes</span></span>
+
+<span data-ttu-id="61bb5-231">2021 年 2 月 25 日：公布具体发布日期</span><span class="sxs-lookup"><span data-stu-id="61bb5-231">February 25, 2021: Specific Launch Date announced</span></span>
+
+<span data-ttu-id="61bb5-232">2021 年 4 月 2 日：更新包括下列各项：</span><span class="sxs-lookup"><span data-stu-id="61bb5-232">April 2, 2021: Updates include the following:</span></span>
+
+- <span data-ttu-id="61bb5-233">提供了发布日期</span><span class="sxs-lookup"><span data-stu-id="61bb5-233">Launch Date provided</span></span>
+- <span data-ttu-id="61bb5-234">组织 INN 的标题已更新为公司注册 ID</span><span class="sxs-lookup"><span data-stu-id="61bb5-234">Title for Organization INN was updated to Company Registration ID</span></span> 
+- <span data-ttu-id="61bb5-235">添加了注释以提供对公司注册 ID 的说明</span><span class="sxs-lookup"><span data-stu-id="61bb5-235">Note added to provide clarification for Company Registration ID</span></span>
+
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> <span data-ttu-id="61bb5-236">现已上线：针对 Microsoft 合作伙伴协议 (MPA) 下的合作伙伴将 DocuSign 迁移到 Adobe Sign</span><span class="sxs-lookup"><span data-stu-id="61bb5-236">Now Live: DocuSign migration to Adobe Sign for partners under Microsoft Partner Agreements (MPAs)</span></span>
+
+### <a name="categories"></a><span data-ttu-id="61bb5-237">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-237">Categories</span></span>
+
+- <span data-ttu-id="61bb5-238">日期:2021-02-16</span><span class="sxs-lookup"><span data-stu-id="61bb5-238">Date: 2021-02-16</span></span>
+- <span data-ttu-id="61bb5-239">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-239">Capabilities</span></span>
+
+### <a name="summary"></a><span data-ttu-id="61bb5-240">摘要</span><span class="sxs-lookup"><span data-stu-id="61bb5-240">Summary</span></span>
+
+<span data-ttu-id="61bb5-241">Microsoft 会将所有电子签名处理从 DocuSign 转移到 Adobe Sign。</span><span class="sxs-lookup"><span data-stu-id="61bb5-241">Microsoft will be transitioning all electronic signature processing from DocuSign to Adobe Sign.</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-242">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-242">Impacted audience</span></span>
+
+<span data-ttu-id="61bb5-243">MPA 下的现有直接和间接云解决方案提供商 (CSP) 合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="61bb5-243">Existing direct and indirect Cloud Solution Provider (CSP) partners under MPA.</span></span>
+
+### <a name="details"></a><span data-ttu-id="61bb5-244">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-244">Details</span></span>
+
+<span data-ttu-id="61bb5-245">2021 年 2 月，Microsoft 会针对 CSP 合作伙伴将所有电子签名处理从 DocuSign 转移到 Adobe Sign。</span><span class="sxs-lookup"><span data-stu-id="61bb5-245">In February 2021, Microsoft will begin transitioning all electronic signature processing from DocuSign to Adobe Sign for CSP partners.</span></span>
+
+<span data-ttu-id="61bb5-246">你也希望实现顺利的转移。</span><span class="sxs-lookup"><span data-stu-id="61bb5-246">You should expect a smooth transition.</span></span> <span data-ttu-id="61bb5-247">迁移后，每当需要你的电子签名时，你都将收到一封来自 adobesign@adobesign.com（而不是 DocuSign）的电子邮件。</span><span class="sxs-lookup"><span data-stu-id="61bb5-247">Upon migration, you will receive an email from adobesign@adobesign.com, instead of DocuSign, whenever your electronic signature is required.</span></span> <span data-ttu-id="61bb5-248">此电子邮件将提供一个指向你将需要签名的 Adobe Sign 网页的链接。</span><span class="sxs-lookup"><span data-stu-id="61bb5-248">This email will provide you with a link to the Adobe Sign web page where you will need to sign.</span></span> <span data-ttu-id="61bb5-249">Microsoft 合作伙伴将不必重新签署现有协议，只需签署未来的渠道协议。</span><span class="sxs-lookup"><span data-stu-id="61bb5-249">Microsoft partners will not have to re-sign existing agreements, only future Channel Agreements.</span></span> <span data-ttu-id="61bb5-250">乌克兰、俄罗斯和哈萨克斯坦的合作伙伴需要每年以物理方式或电子方式对 Rider 进行重新签名。</span><span class="sxs-lookup"><span data-stu-id="61bb5-250">Partners in Ukraine, Russia, and Kazakhstan will be required to physically or electronically re-sign the Rider annually.</span></span>
+
+<span data-ttu-id="61bb5-251">可在[资源库](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 签名请求电子邮件的示例。</span><span class="sxs-lookup"><span data-stu-id="61bb5-251">You can find an example of an Adobe Sign signature request email in [the resource gallery](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).</span></span>
+
+<span data-ttu-id="61bb5-252">如果要获得最佳体验，请确保执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="61bb5-252">For the best experience, make sure to do the following:</span></span>
+
+1. <span data-ttu-id="61bb5-253">将 adobesign@adobesign.com 添加到安全发件人列表，以避免来自此帐户的电子邮件直接进入垃圾邮件文件夹。</span><span class="sxs-lookup"><span data-stu-id="61bb5-253">Add adobesign@adobesign.com to your safe senders list to avoid emails from this account going directly into your junk email folder.</span></span>
+2. <span data-ttu-id="61bb5-254">与 IT 部门协作，以执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="61bb5-254">Work with your IT department to:</span></span>
+    - <span data-ttu-id="61bb5-255">将 adobesign@adobesign.com 电子邮件地址添加到安全发件人列表中，确保它未包含在任何预先建立的钓鱼规则中。</span><span class="sxs-lookup"><span data-stu-id="61bb5-255">Add the adobesign@adobesign.com email address to their safe senders list to ensure that it’s not included in any pre-established phishing rule.</span></span>
+    - <span data-ttu-id="61bb5-256">更新现有安全策略，确保所有必要的收件人都可以对你的 Adobe Sign 企业许可证下的文档签名。</span><span class="sxs-lookup"><span data-stu-id="61bb5-256">Update existing security policies to ensure that all required recipients can sign documentation under your Adobe Sign enterprise license.</span></span>
+
+<span data-ttu-id="61bb5-257">可在 [Adobe Sign 迁移合作伙伴页](https://aka.ms/eSignature/External)上找到与载入、功能和业务流程相关的资源。</span><span class="sxs-lookup"><span data-stu-id="61bb5-257">Resources pertaining to onboarding, functionality and business process questions can be found on the [Adobe Sign Migration Partner Page](https://aka.ms/eSignature/External).</span></span>
+
+<span data-ttu-id="61bb5-258">Adobe Sign 是 Microsoft 首选的电子签名解决方案 (ESS)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-258">Adobe Sign is Microsoft’s preferred Electronic Signature Solution (ESS).</span></span> <span data-ttu-id="61bb5-259">转移到 Adobe Sign 可确保一个安全、有效的电子签名体验，为客户和合作伙伴创造更大的价值。</span><span class="sxs-lookup"><span data-stu-id="61bb5-259">The transition to Adobe Sign will ensure a secure and efficient electronic signature experience that will deliver greater value to our customers and partners.</span></span>
+
+<span data-ttu-id="61bb5-260">如需详细了解如何以电子方式对文档和电子签名委托签名，请参阅以下教程：</span><span class="sxs-lookup"><span data-stu-id="61bb5-260">For additional information on how to electronically sign documents and electronic signature delegation, refer to the following tutorials:</span></span>
+
+- [<span data-ttu-id="61bb5-261">以电子方式对文档签名 |Adobe Sign 教程</span><span class="sxs-lookup"><span data-stu-id="61bb5-261">Electronically sign a document | Adobe Sign tutorials</span></span>](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [<span data-ttu-id="61bb5-262">委托他人对文档签名 | Adobe Sign 教程</span><span class="sxs-lookup"><span data-stu-id="61bb5-262">Delegate someone else to sign a document | Adobe Sign tutorials</span></span>](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a><span data-ttu-id="61bb5-263">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-263">Next steps</span></span>
+
+<span data-ttu-id="61bb5-264">请与贵组织中的相应利益干系人共享此信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-264">Share this information with the appropriate stakeholders in your organization.</span></span>
+
+### <a name="questions"></a><span data-ttu-id="61bb5-265">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-265">Questions?</span></span>
+
+<span data-ttu-id="61bb5-266">如有任何疑问，请使用[呼叫日志记录工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或通过 [Explore MS](https://www.explore.ms/) 联系区域运营中心。</span><span class="sxs-lookup"><span data-stu-id="61bb5-266">If you have any questions, contact your Regional Operations Center using the [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) or at [Explore MS](https://www.explore.ms/).</span></span> <span data-ttu-id="61bb5-267">请严格按照标准 CLT 流程操作，以便我们可尽快处理你的查询。</span><span class="sxs-lookup"><span data-stu-id="61bb5-267">Follow the standard CLT process closely so that we can resolve your query as quickly as possible.</span></span>
+
+### <a name="change-log"></a><span data-ttu-id="61bb5-268">更改日志</span><span class="sxs-lookup"><span data-stu-id="61bb5-268">Change Log</span></span>
+
+- <span data-ttu-id="61bb5-269">2021 年 1 月 15 日：原始发布</span><span class="sxs-lookup"><span data-stu-id="61bb5-269">January 15, 2021: original publication</span></span> 
+- <span data-ttu-id="61bb5-270">2021 年 2 月 16 日：现已上线，新资源：Adobe Sign 迁移合作伙伴页</span><span class="sxs-lookup"><span data-stu-id="61bb5-270">February 16, 2021: Now live, New Resource: Adobe Sign Migration Partner Page</span></span> 
 
 _____________
 
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> <span data-ttu-id="2e815-271">提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制</span><span class="sxs-lookup"><span data-stu-id="2e815-271">Reminder: Introducing API throttling to partners calling Partner Center APIs</span></span>
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> <span data-ttu-id="61bb5-271">提醒：推出针对调用合作伙伴中心 API 的合作伙伴的 API 限制</span><span class="sxs-lookup"><span data-stu-id="61bb5-271">Reminder: Introducing API throttling to partners calling Partner Center APIs</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-272">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-272">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-272">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-272">Categories</span></span>
 
-- <span data-ttu-id="2e815-273">日期:2021-02-16</span><span class="sxs-lookup"><span data-stu-id="2e815-273">Date: 2021-02-16</span></span>
-- <span data-ttu-id="2e815-274">发展你的业务</span><span class="sxs-lookup"><span data-stu-id="2e815-274">Grow your Business</span></span>
+- <span data-ttu-id="61bb5-273">日期:2021-02-16</span><span class="sxs-lookup"><span data-stu-id="61bb5-273">Date: 2021-02-16</span></span>
+- <span data-ttu-id="61bb5-274">发展你的业务</span><span class="sxs-lookup"><span data-stu-id="61bb5-274">Grow your Business</span></span>
 
-### <a name="summary"></a><span data-ttu-id="2e815-275">总结</span><span class="sxs-lookup"><span data-stu-id="2e815-275">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="61bb5-275">总结</span><span class="sxs-lookup"><span data-stu-id="61bb5-275">Summary</span></span>
 
-<span data-ttu-id="2e815-276">Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。</span><span class="sxs-lookup"><span data-stu-id="2e815-276">Microsoft will be implementing API throttling to allow a more consistent performance within a time span for partners calling the Partner Center APIs.</span></span>
+<span data-ttu-id="61bb5-276">Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。</span><span class="sxs-lookup"><span data-stu-id="61bb5-276">Microsoft will be implementing API throttling to allow a more consistent performance within a time span for partners calling the Partner Center APIs.</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-277">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-277">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-277">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-277">Impacted audience</span></span>
 
-<span data-ttu-id="2e815-278">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-278">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>  
+<span data-ttu-id="61bb5-278">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-278">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>  
 
-### <a name="details"></a><span data-ttu-id="2e815-279">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-279">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-279">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-279">Details</span></span>
 
-<span data-ttu-id="2e815-280">从 2021 年 2 月起，Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。</span><span class="sxs-lookup"><span data-stu-id="2e815-280">Beginning in February 2021, Microsoft will be implementing API throttling to allow a more consistent performance within a time span for partners calling the Partner Center APIs.</span></span><span data-ttu-id="2e815-281"> 该项限制约束某个时段内对某服务的请求数，以防止过度使用资源。</span><span class="sxs-lookup"><span data-stu-id="2e815-281"> Throttling limits the number of requests to a service in a time span to prevent overuse of resources.</span></span><span data-ttu-id="2e815-282"> 超出限制阈值时，合作伙伴中心会在一段时间内限制来自该客户端的任何后续请求。</span><span class="sxs-lookup"><span data-stu-id="2e815-282"> When a throttling threshold is exceeded, Partner Center limits any further requests from that client for a period of time.</span></span>
+<span data-ttu-id="61bb5-280">从 2021 年 2 月起，Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合作伙伴在一段时间中拥有更一致的性能。</span><span class="sxs-lookup"><span data-stu-id="61bb5-280">Beginning in February 2021, Microsoft will be implementing API throttling to allow a more consistent performance within a time span for partners calling the Partner Center APIs.</span></span><span data-ttu-id="61bb5-281"> 该项限制约束某个时段内对某服务的请求数，以防止过度使用资源。</span><span class="sxs-lookup"><span data-stu-id="61bb5-281"> Throttling limits the number of requests to a service in a time span to prevent overuse of resources.</span></span><span data-ttu-id="61bb5-282"> 超出限制阈值时，合作伙伴中心会在一段时间内限制来自该客户端的任何后续请求。</span><span class="sxs-lookup"><span data-stu-id="61bb5-282"> When a throttling threshold is exceeded, Partner Center limits any further requests from that client for a period of time.</span></span>
 
-<span data-ttu-id="2e815-283">合作伙伴权益：</span><span class="sxs-lookup"><span data-stu-id="2e815-283">**Partner benefits:**</span></span>
+<span data-ttu-id="61bb5-283">合作伙伴权益：</span><span class="sxs-lookup"><span data-stu-id="61bb5-283">**Partner benefits:**</span></span>
 
-<span data-ttu-id="2e815-284">合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制可帮助所有合作伙伴都保持最佳性能和可靠性。</span><span class="sxs-lookup"><span data-stu-id="2e815-284">Partner Center is designed to handle a high volume of requests, but if an overwhelming number of requests are made by a few partners, throttling will help maintain optimal performance and reliability for all partners.</span></span>  
+<span data-ttu-id="61bb5-284">合作伙伴中心旨在处理大量请求，但如果其中绝大多数的请求由少数几个合作伙伴发出，那么限制可帮助所有合作伙伴都保持最佳性能和可靠性。</span><span class="sxs-lookup"><span data-stu-id="61bb5-284">Partner Center is designed to handle a high volume of requests, but if an overwhelming number of requests are made by a few partners, throttling will help maintain optimal performance and reliability for all partners.</span></span>  
 
-- <span data-ttu-id="2e815-285">该项限制可确保停机时间最短。</span><span class="sxs-lookup"><span data-stu-id="2e815-285">Throttling ensures minimal downtime.</span></span>
-- <span data-ttu-id="2e815-286">该项限制可减少大容量请求的数量，有助于确保所有合作伙伴的性能一致。</span><span class="sxs-lookup"><span data-stu-id="2e815-286">Throttling reduces the number of high-volume requests, helping to ensure a consistent performance for all partners.</span></span>
+- <span data-ttu-id="61bb5-285">该项限制可确保停机时间最短。</span><span class="sxs-lookup"><span data-stu-id="61bb5-285">Throttling ensures minimal downtime.</span></span>
+- <span data-ttu-id="61bb5-286">该项限制可减少大容量请求的数量，有助于确保所有合作伙伴的性能一致。</span><span class="sxs-lookup"><span data-stu-id="61bb5-286">Throttling reduces the number of high-volume requests, helping to ensure a consistent performance for all partners.</span></span>
 
-<span data-ttu-id="2e815-287">**要受限制的 API：**</span><span class="sxs-lookup"><span data-stu-id="2e815-287">**APIs to be throttled:**</span></span>
+<span data-ttu-id="61bb5-287">**要受限制的 API：**</span><span class="sxs-lookup"><span data-stu-id="61bb5-287">**APIs to be throttled:**</span></span>
 
-| <span data-ttu-id="2e815-288">Operation</span><span class="sxs-lookup"><span data-stu-id="2e815-288">Operation</span></span> | <span data-ttu-id="2e815-289">合作伙伴中心文档</span><span class="sxs-lookup"><span data-stu-id="2e815-289">Partner Center documentation</span></span> |
+| <span data-ttu-id="61bb5-288">Operation</span><span class="sxs-lookup"><span data-stu-id="61bb5-288">Operation</span></span> | <span data-ttu-id="61bb5-289">合作伙伴中心文档</span><span class="sxs-lookup"><span data-stu-id="61bb5-289">Partner Center documentation</span></span> |
 | ------ | ------- |
-|<span data-ttu-id="2e815-290">{baseURL}/v1/customers/{customer_id}/subscriptions</span><span class="sxs-lookup"><span data-stu-id="2e815-290">{baseURL}/v1/customers/{customer_id}/subscriptions</span></span>  | [<span data-ttu-id="2e815-291">获取客户的所有订阅</span><span class="sxs-lookup"><span data-stu-id="2e815-291">Get-all-of-a-customer-s-subscriptions</span></span>](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
-|<span data-ttu-id="2e815-292">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span><span class="sxs-lookup"><span data-stu-id="2e815-292">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span></span>  | [<span data-ttu-id="2e815-293">根据 ID 获取订阅</span><span class="sxs-lookup"><span data-stu-id="2e815-293">Get a subscription by ID</span></span>](/partner-center/develop/get-a-subscription-by-id) |
-|<span data-ttu-id="2e815-294">{baseURL}/v1/customers/{customer_id}/orders</span><span class="sxs-lookup"><span data-stu-id="2e815-294">{baseURL}/v1/customers/{customer_id}/orders</span></span>  | [<span data-ttu-id="2e815-295">获取所有客户订单</span><span class="sxs-lookup"><span data-stu-id="2e815-295">Get all customer orders</span></span>](/partner-center/develop/get-all-of-a-customer-s-orders) |
-|<span data-ttu-id="2e815-296">{baseURL}/v1/customers/{customer_id}/orders/{order_id}</span><span class="sxs-lookup"><span data-stu-id="2e815-296">{baseURL}/v1/customers/{customer_id}/orders/{order_id}</span></span>  | [<span data-ttu-id="2e815-297">按 ID 获取订单</span><span class="sxs-lookup"><span data-stu-id="2e815-297">Get an order by ID</span></span>](/partner-center/develop/get-an-order-by-id) |
-|<span data-ttu-id="2e815-298">{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus</span><span class="sxs-lookup"><span data-stu-id="2e815-298">{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus</span></span>  | [<span data-ttu-id="2e815-299">获取订阅预配状态</span><span class="sxs-lookup"><span data-stu-id="2e815-299">Get subscription provisioning status</span></span>](/partner-center/develop/get-subscription-provisioning-status) |
-|<span data-ttu-id="2e815-300">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span><span class="sxs-lookup"><span data-stu-id="2e815-300">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span></span>  | [<span data-ttu-id="2e815-301">管理订单和订阅</span><span class="sxs-lookup"><span data-stu-id="2e815-301">Manage orders and manage a subscription</span></span>](/partner-center/develop/manage-orders#manage-a-subscription) |
-|<span data-ttu-id="2e815-302">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons</span><span class="sxs-lookup"><span data-stu-id="2e815-302">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons</span></span>  | [<span data-ttu-id="2e815-303">获取订阅的加载项列表</span><span class="sxs-lookup"><span data-stu-id="2e815-303">Get a list of add-ons for a subscription</span></span>](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
-|<span data-ttu-id="2e815-304">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements</span><span class="sxs-lookup"><span data-stu-id="2e815-304">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements</span></span> | [<span data-ttu-id="2e815-305">获取订阅的 Azure 权利列表</span><span class="sxs-lookup"><span data-stu-id="2e815-305">Get a list of Azure entitlements for a subscription</span></span>](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
-|<span data-ttu-id="2e815-306">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus</span><span class="sxs-lookup"><span data-stu-id="2e815-306">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus</span></span>  | [<span data-ttu-id="2e815-307">获取订阅注册状态</span><span class="sxs-lookup"><span data-stu-id="2e815-307">Get subscription registration status</span></span>](/partner-center/develop/get-subscription-registration-status) |
-|<span data-ttu-id="2e815-308">{baseURL}/v1/customers/{customer-tenant-id}/transfers</span><span class="sxs-lookup"><span data-stu-id="2e815-308">{baseURL}/v1/customers/{customer-tenant-id}/transfers</span></span>  | [<span data-ttu-id="2e815-309">获取客户的所有转让</span><span class="sxs-lookup"><span data-stu-id="2e815-309">Get all of a customer's transfers</span></span>](/partner-center/develop/get-all-of-a-customer-s-transfers) |
-|<span data-ttu-id="2e815-310">{baseURL}/v1/productUpgrades/{upgrade-id}/status</span><span class="sxs-lookup"><span data-stu-id="2e815-310">{baseURL}/v1/productUpgrades/{upgrade-id}/status</span></span>  | [<span data-ttu-id="2e815-311">获取产品升级状态</span><span class="sxs-lookup"><span data-stu-id="2e815-311">Get product upgrade status</span></span>](/partner-center/develop/get-product-upgrade-status) |
-|<span data-ttu-id="2e815-312">{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions</span><span class="sxs-lookup"><span data-stu-id="2e815-312">{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions</span></span>   | [<span data-ttu-id="2e815-313">获取试用版转换产品/服务的列表</span><span class="sxs-lookup"><span data-stu-id="2e815-313">Get a list of trial conversion offers</span></span>](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+|<span data-ttu-id="61bb5-290">{baseURL}/v1/customers/{customer_id}/subscriptions</span><span class="sxs-lookup"><span data-stu-id="61bb5-290">{baseURL}/v1/customers/{customer_id}/subscriptions</span></span>  | [<span data-ttu-id="61bb5-291">获取客户的所有订阅</span><span class="sxs-lookup"><span data-stu-id="61bb5-291">Get-all-of-a-customer-s-subscriptions</span></span>](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|<span data-ttu-id="61bb5-292">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span><span class="sxs-lookup"><span data-stu-id="61bb5-292">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span></span>  | [<span data-ttu-id="61bb5-293">根据 ID 获取订阅</span><span class="sxs-lookup"><span data-stu-id="61bb5-293">Get a subscription by ID</span></span>](/partner-center/develop/get-a-subscription-by-id) |
+|<span data-ttu-id="61bb5-294">{baseURL}/v1/customers/{customer_id}/orders</span><span class="sxs-lookup"><span data-stu-id="61bb5-294">{baseURL}/v1/customers/{customer_id}/orders</span></span>  | [<span data-ttu-id="61bb5-295">获取所有客户订单</span><span class="sxs-lookup"><span data-stu-id="61bb5-295">Get all customer orders</span></span>](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|<span data-ttu-id="61bb5-296">{baseURL}/v1/customers/{customer_id}/orders/{order_id}</span><span class="sxs-lookup"><span data-stu-id="61bb5-296">{baseURL}/v1/customers/{customer_id}/orders/{order_id}</span></span>  | [<span data-ttu-id="61bb5-297">按 ID 获取订单</span><span class="sxs-lookup"><span data-stu-id="61bb5-297">Get an order by ID</span></span>](/partner-center/develop/get-an-order-by-id) |
+|<span data-ttu-id="61bb5-298">{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus</span><span class="sxs-lookup"><span data-stu-id="61bb5-298">{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus</span></span>  | [<span data-ttu-id="61bb5-299">获取订阅预配状态</span><span class="sxs-lookup"><span data-stu-id="61bb5-299">Get subscription provisioning status</span></span>](/partner-center/develop/get-subscription-provisioning-status) |
+|<span data-ttu-id="61bb5-300">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span><span class="sxs-lookup"><span data-stu-id="61bb5-300">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span></span>  | [<span data-ttu-id="61bb5-301">管理订单和订阅</span><span class="sxs-lookup"><span data-stu-id="61bb5-301">Manage orders and manage a subscription</span></span>](/partner-center/develop/manage-orders#manage-a-subscription) |
+|<span data-ttu-id="61bb5-302">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons</span><span class="sxs-lookup"><span data-stu-id="61bb5-302">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons</span></span>  | [<span data-ttu-id="61bb5-303">获取订阅的加载项列表</span><span class="sxs-lookup"><span data-stu-id="61bb5-303">Get a list of add-ons for a subscription</span></span>](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|<span data-ttu-id="61bb5-304">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements</span><span class="sxs-lookup"><span data-stu-id="61bb5-304">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements</span></span> | [<span data-ttu-id="61bb5-305">获取订阅的 Azure 权利列表</span><span class="sxs-lookup"><span data-stu-id="61bb5-305">Get a list of Azure entitlements for a subscription</span></span>](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|<span data-ttu-id="61bb5-306">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus</span><span class="sxs-lookup"><span data-stu-id="61bb5-306">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus</span></span>  | [<span data-ttu-id="61bb5-307">获取订阅注册状态</span><span class="sxs-lookup"><span data-stu-id="61bb5-307">Get subscription registration status</span></span>](/partner-center/develop/get-subscription-registration-status) |
+|<span data-ttu-id="61bb5-308">{baseURL}/v1/customers/{customer-tenant-id}/transfers</span><span class="sxs-lookup"><span data-stu-id="61bb5-308">{baseURL}/v1/customers/{customer-tenant-id}/transfers</span></span>  | [<span data-ttu-id="61bb5-309">获取客户的所有转让</span><span class="sxs-lookup"><span data-stu-id="61bb5-309">Get all of a customer's transfers</span></span>](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|<span data-ttu-id="61bb5-310">{baseURL}/v1/productUpgrades/{upgrade-id}/status</span><span class="sxs-lookup"><span data-stu-id="61bb5-310">{baseURL}/v1/productUpgrades/{upgrade-id}/status</span></span>  | [<span data-ttu-id="61bb5-311">获取产品升级状态</span><span class="sxs-lookup"><span data-stu-id="61bb5-311">Get product upgrade status</span></span>](/partner-center/develop/get-product-upgrade-status) |
+|<span data-ttu-id="61bb5-312">{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions</span><span class="sxs-lookup"><span data-stu-id="61bb5-312">{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions</span></span>   | [<span data-ttu-id="61bb5-313">获取试用版转换产品/服务的列表</span><span class="sxs-lookup"><span data-stu-id="61bb5-313">Get a list of trial conversion offers</span></span>](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
  
-<span data-ttu-id="2e815-314">我们强烈建议合作伙伴考虑使用活动日志 API 来提高效率和避免限制。</span><span class="sxs-lookup"><span data-stu-id="2e815-314">We highly recommend that partners consider using the activity log API for more efficiency and to avoid throttling.</span></span><span data-ttu-id="2e815-315"> 如需详细了解此功能，请在 [此处](/partner-center/develop/api-throttling-guidance)查看详细信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-315"> For more information on this feature, refer to the details [here](/partner-center/develop/api-throttling-guidance).</span></span>  
+<span data-ttu-id="61bb5-314">我们强烈建议合作伙伴考虑使用活动日志 API 来提高效率和避免限制。</span><span class="sxs-lookup"><span data-stu-id="61bb5-314">We highly recommend that partners consider using the activity log API for more efficiency and to avoid throttling.</span></span><span data-ttu-id="61bb5-315"> 如需详细了解此功能，请在 [此处](/partner-center/develop/api-throttling-guidance)查看详细信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-315"> For more information on this feature, refer to the details [here](/partner-center/develop/api-throttling-guidance).</span></span>  
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-316">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-316">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-316">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-316">Next steps</span></span>
 
-<span data-ttu-id="2e815-317">查看本主题的 [资源](/partner-center/develop/api-throttling-guidance) ，并采取必要的步骤。</span><span class="sxs-lookup"><span data-stu-id="2e815-317">Review the [resources](/partner-center/develop/api-throttling-guidance) for this topic and take the necessary steps.</span></span>  
+<span data-ttu-id="61bb5-317">查看本主题的 [资源](/partner-center/develop/api-throttling-guidance) ，并采取必要的步骤。</span><span class="sxs-lookup"><span data-stu-id="61bb5-317">Review the [resources](/partner-center/develop/api-throttling-guidance) for this topic and take the necessary steps.</span></span>  
 
 _______________
 
-## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a><span data-ttu-id="2e815-318">Microsoft Viva 主题简介</span><span class="sxs-lookup"><span data-stu-id="2e815-318">Introducing Microsoft Viva Topics</span></span>
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a><span data-ttu-id="61bb5-318">Microsoft Viva 主题简介</span><span class="sxs-lookup"><span data-stu-id="61bb5-318">Introducing Microsoft Viva Topics</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-319">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-319">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-319">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-319">Categories</span></span>
 
-- <span data-ttu-id="2e815-320">日期:2021 年 2 月 12 日</span><span class="sxs-lookup"><span data-stu-id="2e815-320">Date: February 12, 2021</span></span>
-- <span data-ttu-id="2e815-321">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-321">Capabilities</span></span>
+- <span data-ttu-id="61bb5-320">日期:2021 年 2 月 12 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-320">Date: February 12, 2021</span></span>
+- <span data-ttu-id="61bb5-321">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-321">Capabilities</span></span>
 
-### <a name="affected-audience"></a><span data-ttu-id="2e815-322">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-322">Affected audience</span></span>
+### <a name="affected-audience"></a><span data-ttu-id="61bb5-322">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-322">Affected audience</span></span>
 
-<span data-ttu-id="2e815-323">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-323">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
+<span data-ttu-id="61bb5-323">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-323">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-324">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-324">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-324">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-324">Details</span></span>
 
-<span data-ttu-id="2e815-325">Microsoft Viva 主题应用人工智能 (AI) 来识别组织中的知识和专业技能，并将其组织为共享主题，例如产品、客户或项目。</span><span class="sxs-lookup"><span data-stu-id="2e815-325">Microsoft Viva Topics applies artificial intelligence (AI) to identify knowledge and expertise from across your organization and curate it into shared topics such as products, customers, or projects.</span></span> <span data-ttu-id="2e815-326">通过沉浸式主题卡和主题页，你可以在团队、项目和文档的上下文中方便地学习知识。</span><span class="sxs-lookup"><span data-stu-id="2e815-326">With immersive topic cards and topic pages, knowledge finds you in the context of your teams, projects, and documents.</span></span> <span data-ttu-id="2e815-327">AI 和人类共同提升知识，并在你每天使用的应用中呈现它们。</span><span class="sxs-lookup"><span data-stu-id="2e815-327">AI and humans work together to improve knowledge and surface it in the apps that you use every day.</span></span> 
+<span data-ttu-id="61bb5-325">Microsoft Viva 主题应用人工智能 (AI) 来识别组织中的知识和专业技能，并将其组织为共享主题，例如产品、客户或项目。</span><span class="sxs-lookup"><span data-stu-id="61bb5-325">Microsoft Viva Topics applies artificial intelligence (AI) to identify knowledge and expertise from across your organization and curate it into shared topics such as products, customers, or projects.</span></span> <span data-ttu-id="61bb5-326">通过沉浸式主题卡和主题页，你可以在团队、项目和文档的上下文中方便地学习知识。</span><span class="sxs-lookup"><span data-stu-id="61bb5-326">With immersive topic cards and topic pages, knowledge finds you in the context of your teams, projects, and documents.</span></span> <span data-ttu-id="61bb5-327">AI 和人类共同提升知识，并在你每天使用的应用中呈现它们。</span><span class="sxs-lookup"><span data-stu-id="61bb5-327">AI and humans work together to improve knowledge and surface it in the apps that you use every day.</span></span> 
 
-<span data-ttu-id="2e815-328">用户必须获得以下其中一项许可才能访问 Viva 主题：</span><span class="sxs-lookup"><span data-stu-id="2e815-328">Users must be licensed with one of the following to be eligible for Viva Topics:</span></span>   
-- <span data-ttu-id="2e815-329">Microsoft 365 F1、F3、E3、A3、E5 或 A5</span><span class="sxs-lookup"><span data-stu-id="2e815-329">Microsoft 365 F1, F3, E3, A3, E5, or A5</span></span> 
-- <span data-ttu-id="2e815-330">Office 365 F3、E1、A1、E3、A3、E5 或 A5</span><span class="sxs-lookup"><span data-stu-id="2e815-330">Office 365 F3, E1, A1, E3, A3, E5, or A5</span></span> 
-- <span data-ttu-id="2e815-331">Microsoft 365 商业基础版、标准版或高级版</span><span class="sxs-lookup"><span data-stu-id="2e815-331">Microsoft 365 Business Basic, Standard, or Premium</span></span> 
-- <span data-ttu-id="2e815-332">SharePoint K、计划 1 或 计划 2</span><span class="sxs-lookup"><span data-stu-id="2e815-332">SharePoint K, Plan 1, or Plan2</span></span> 
+<span data-ttu-id="61bb5-328">用户必须获得以下其中一项许可才能访问 Viva 主题：</span><span class="sxs-lookup"><span data-stu-id="61bb5-328">Users must be licensed with one of the following to be eligible for Viva Topics:</span></span>   
+- <span data-ttu-id="61bb5-329">Microsoft 365 F1、F3、E3、A3、E5 或 A5</span><span class="sxs-lookup"><span data-stu-id="61bb5-329">Microsoft 365 F1, F3, E3, A3, E5, or A5</span></span> 
+- <span data-ttu-id="61bb5-330">Office 365 F3、E1、A1、E3、A3、E5 或 A5</span><span class="sxs-lookup"><span data-stu-id="61bb5-330">Office 365 F3, E1, A1, E3, A3, E5, or A5</span></span> 
+- <span data-ttu-id="61bb5-331">Microsoft 365 商业基础版、标准版或高级版</span><span class="sxs-lookup"><span data-stu-id="61bb5-331">Microsoft 365 Business Basic, Standard, or Premium</span></span> 
+- <span data-ttu-id="61bb5-332">SharePoint K、计划 1 或 计划 2</span><span class="sxs-lookup"><span data-stu-id="61bb5-332">SharePoint K, Plan 1, or Plan2</span></span> 
 
-<span data-ttu-id="2e815-333">产品/服务详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-333">**Offer Details**</span></span>
+<span data-ttu-id="61bb5-333">产品/服务详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-333">**Offer Details**</span></span>
 
-<span data-ttu-id="2e815-334">2 月 1 日发布的价目表中包含具有这些产品/服务名称的“主题体验”。</span><span class="sxs-lookup"><span data-stu-id="2e815-334">These offers will have "Topic Experiences" in their offer names in the February 1 price lists.</span></span> <span data-ttu-id="2e815-335"> 3 月 1 日更新价目表后，这些产品/服务名称讲更新到“Viva 主题”下。</span><span class="sxs-lookup"><span data-stu-id="2e815-335"> These offer names will be updated with "Viva Topics" when the price lists are updated on March 1.</span></span>
+<span data-ttu-id="61bb5-334">2 月 1 日发布的价目表中包含具有这些产品/服务名称的“主题体验”。</span><span class="sxs-lookup"><span data-stu-id="61bb5-334">These offers will have "Topic Experiences" in their offer names in the February 1 price lists.</span></span> <span data-ttu-id="61bb5-335"> 3 月 1 日更新价目表后，这些产品/服务名称讲更新到“Viva 主题”下。</span><span class="sxs-lookup"><span data-stu-id="61bb5-335"> These offer names will be updated with "Viva Topics" when the price lists are updated on March 1.</span></span>
 
-|<span data-ttu-id="2e815-336">**产品/服务名称**</span><span class="sxs-lookup"><span data-stu-id="2e815-336">**Offer name**</span></span>|<span data-ttu-id="2e815-337">**产品/服务 ID**</span><span class="sxs-lookup"><span data-stu-id="2e815-337">**Offer ID**</span></span>|<span data-ttu-id="2e815-338">**材料 ID**</span><span class="sxs-lookup"><span data-stu-id="2e815-338">**Material ID**</span></span>|
+|<span data-ttu-id="61bb5-336">**产品/服务名称**</span><span class="sxs-lookup"><span data-stu-id="61bb5-336">**Offer name**</span></span>|<span data-ttu-id="61bb5-337">**产品/服务 ID**</span><span class="sxs-lookup"><span data-stu-id="61bb5-337">**Offer ID**</span></span>|<span data-ttu-id="61bb5-338">**材料 ID**</span><span class="sxs-lookup"><span data-stu-id="61bb5-338">**Material ID**</span></span>|
 |------------------|:--------------------|:------------------|
-|<span data-ttu-id="2e815-339">Viva 主题</span><span class="sxs-lookup"><span data-stu-id="2e815-339">Viva Topics</span></span>|<span data-ttu-id="2e815-340">b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a</span><span class="sxs-lookup"><span data-stu-id="2e815-340">b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a</span></span>|<span data-ttu-id="2e815-341">1JV-00005</span><span class="sxs-lookup"><span data-stu-id="2e815-341">1JV-00005</span></span>|
-|<span data-ttu-id="2e815-342">面向教职员工的 Viva 主题</span><span class="sxs-lookup"><span data-stu-id="2e815-342">Viva Topics for faculty</span></span>|<span data-ttu-id="2e815-343">8c930d38-db61-4afa-83f9-77c595c5cdfc</span><span class="sxs-lookup"><span data-stu-id="2e815-343">8c930d38-db61-4afa-83f9-77c595c5cdfc</span></span>|<span data-ttu-id="2e815-344">1TK-00006</span><span class="sxs-lookup"><span data-stu-id="2e815-344">1TK-00006</span></span>|
-|<span data-ttu-id="2e815-345">面向学生的 Viva 主题</span><span class="sxs-lookup"><span data-stu-id="2e815-345">Viva Topics for students</span></span>|<span data-ttu-id="2e815-346">5de461d5-8ccc-4a8e-98ae-58a3ad400a57</span><span class="sxs-lookup"><span data-stu-id="2e815-346">5de461d5-8ccc-4a8e-98ae-58a3ad400a57</span></span>|<span data-ttu-id="2e815-347">1TK-00007</span><span class="sxs-lookup"><span data-stu-id="2e815-347">1TK-00007</span></span>|
+|<span data-ttu-id="61bb5-339">Viva 主题</span><span class="sxs-lookup"><span data-stu-id="61bb5-339">Viva Topics</span></span>|<span data-ttu-id="61bb5-340">b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a</span><span class="sxs-lookup"><span data-stu-id="61bb5-340">b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a</span></span>|<span data-ttu-id="61bb5-341">1JV-00005</span><span class="sxs-lookup"><span data-stu-id="61bb5-341">1JV-00005</span></span>|
+|<span data-ttu-id="61bb5-342">面向教职员工的 Viva 主题</span><span class="sxs-lookup"><span data-stu-id="61bb5-342">Viva Topics for faculty</span></span>|<span data-ttu-id="61bb5-343">8c930d38-db61-4afa-83f9-77c595c5cdfc</span><span class="sxs-lookup"><span data-stu-id="61bb5-343">8c930d38-db61-4afa-83f9-77c595c5cdfc</span></span>|<span data-ttu-id="61bb5-344">1TK-00006</span><span class="sxs-lookup"><span data-stu-id="61bb5-344">1TK-00006</span></span>|
+|<span data-ttu-id="61bb5-345">面向学生的 Viva 主题</span><span class="sxs-lookup"><span data-stu-id="61bb5-345">Viva Topics for students</span></span>|<span data-ttu-id="61bb5-346">5de461d5-8ccc-4a8e-98ae-58a3ad400a57</span><span class="sxs-lookup"><span data-stu-id="61bb5-346">5de461d5-8ccc-4a8e-98ae-58a3ad400a57</span></span>|<span data-ttu-id="61bb5-347">1TK-00007</span><span class="sxs-lookup"><span data-stu-id="61bb5-347">1TK-00007</span></span>|
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-348">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-348">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-348">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-348">Next steps</span></span>
 
-- <span data-ttu-id="2e815-349">查看有关本主题的资源，并与组织内部的相关利益干系人共享此信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-349">Review the resources for this topic and share this information with the appropriate stakeholders in your organization.</span></span>  
-- <span data-ttu-id="2e815-350">可以在 [Viva 主题资源中心](https://resources.techcommunity.microsoft.com/viva-topics)找到详细信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-350">You can find more information in the [Viva Topics resource center](https://resources.techcommunity.microsoft.com/viva-topics).</span></span>
+- <span data-ttu-id="61bb5-349">查看有关本主题的资源，并与组织内部的相关利益干系人共享此信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-349">Review the resources for this topic and share this information with the appropriate stakeholders in your organization.</span></span>  
+- <span data-ttu-id="61bb5-350">可以在 [Viva 主题资源中心](https://resources.techcommunity.microsoft.com/viva-topics)找到详细信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-350">You can find more information in the [Viva Topics resource center](https://resources.techcommunity.microsoft.com/viva-topics).</span></span>
 
 _______________
 
-## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a><span data-ttu-id="2e815-351">Microsoft 365 E3 价格即将于 2021 年 3 月更改</span><span class="sxs-lookup"><span data-stu-id="2e815-351">Microsoft 365 E3 price changes coming for March 2021</span></span>
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a><span data-ttu-id="61bb5-351">Microsoft 365 E3 价格即将于 2021 年 3 月更改</span><span class="sxs-lookup"><span data-stu-id="61bb5-351">Microsoft 365 E3 price changes coming for March 2021</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-352">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-352">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-352">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-352">Categories</span></span>
 
-- <span data-ttu-id="2e815-353">日期:2021 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="2e815-353">Date: February 11, 2021</span></span>
-- <span data-ttu-id="2e815-354">产品/市场</span><span class="sxs-lookup"><span data-stu-id="2e815-354">Offers/Markets</span></span>
+- <span data-ttu-id="61bb5-353">日期:2021 年 2 月 11 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-353">Date: February 11, 2021</span></span>
+- <span data-ttu-id="61bb5-354">产品/市场</span><span class="sxs-lookup"><span data-stu-id="61bb5-354">Offers/Markets</span></span>
 
-### <a name="affected-audience"></a><span data-ttu-id="2e815-355">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-355">Affected audience</span></span>
+### <a name="affected-audience"></a><span data-ttu-id="61bb5-355">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-355">Affected audience</span></span>
 
-<span data-ttu-id="2e815-356">通过云解决方案提供商 (CSP) 计划以 EUR、AUD、GBP 和 JPY 交易的所有合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="2e815-356">All partners transacting through the Cloud Solution Provider (CSP) program in EUR, AUD, GBP, and JPY.</span></span>
+<span data-ttu-id="61bb5-356">通过云解决方案提供商 (CSP) 计划以 EUR、AUD、GBP 和 JPY 交易的所有合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="61bb5-356">All partners transacting through the Cloud Solution Provider (CSP) program in EUR, AUD, GBP, and JPY.</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-357">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-357">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-357">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-357">Details</span></span>
 
-<span data-ttu-id="2e815-358">2021 年 3 月的基于许可证的预览版价目表已更新，以反应 Microsoft 365 E3 的价格变化。</span><span class="sxs-lookup"><span data-stu-id="2e815-358">The license-based preview price list for March 2021 has been updated to include the price changes for Microsoft 365 E3.</span></span> <span data-ttu-id="2e815-359">下方列出了受影响的产品/服务和货币。</span><span class="sxs-lookup"><span data-stu-id="2e815-359">The impacted offer and currencies are listed below.</span></span> 
+<span data-ttu-id="61bb5-358">2021 年 3 月的基于许可证的预览版价目表已更新，以反应 Microsoft 365 E3 的价格变化。</span><span class="sxs-lookup"><span data-stu-id="61bb5-358">The license-based preview price list for March 2021 has been updated to include the price changes for Microsoft 365 E3.</span></span> <span data-ttu-id="61bb5-359">下方列出了受影响的产品/服务和货币。</span><span class="sxs-lookup"><span data-stu-id="61bb5-359">The impacted offer and currencies are listed below.</span></span> 
  
-<span data-ttu-id="2e815-360">产品/服务名称：Microsoft 365 E3 产品/服务 ID：2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 材料 ID：AAA-35638</span><span class="sxs-lookup"><span data-stu-id="2e815-360">Offer name: Microsoft 365 E3 Offer ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material ID: AAA-35638</span></span>
+<span data-ttu-id="61bb5-360">产品/服务名称：Microsoft 365 E3 产品/服务 ID：2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 材料 ID：AAA-35638</span><span class="sxs-lookup"><span data-stu-id="61bb5-360">Offer name: Microsoft 365 E3 Offer ID: 2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 Material ID: AAA-35638</span></span>
 
-<span data-ttu-id="2e815-361">这些 Microsoft 365 E3 价格更新仅限于以下货币：JPY（日元）、GBP（英镑）、EUR（欧元）、AUD（澳大利亚元）。</span><span class="sxs-lookup"><span data-stu-id="2e815-361">These Microsoft 365 E3 price updates are limited to only these currencies: JPY (Japanese Yen), GBP (Great British Pound), EUR (European Union), AUD (Australian Dollar).</span></span> <span data-ttu-id="2e815-362">3 月文件中还有其他价格变化，合作伙伴应获取最新预览版以查看其他预期的更改。</span><span class="sxs-lookup"><span data-stu-id="2e815-362">There are other price changes in the March file and partners should get the latest preview to view the other expected changes.</span></span>
+<span data-ttu-id="61bb5-361">这些 Microsoft 365 E3 价格更新仅限于以下货币：JPY（日元）、GBP（英镑）、EUR（欧元）、AUD（澳大利亚元）。</span><span class="sxs-lookup"><span data-stu-id="61bb5-361">These Microsoft 365 E3 price updates are limited to only these currencies: JPY (Japanese Yen), GBP (Great British Pound), EUR (European Union), AUD (Australian Dollar).</span></span> <span data-ttu-id="61bb5-362">3 月文件中还有其他价格变化，合作伙伴应获取最新预览版以查看其他预期的更改。</span><span class="sxs-lookup"><span data-stu-id="61bb5-362">There are other price changes in the March file and partners should get the latest preview to view the other expected changes.</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-363">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-363">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-363">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-363">Next steps</span></span>
 
-<span data-ttu-id="2e815-364">合作伙伴应从合作伙伴中心下载最新的价目表文件，以获取最新的 3 月价格。</span><span class="sxs-lookup"><span data-stu-id="2e815-364">Partners should download the latest price list files from the Partner Center to get the latest March prices.</span></span>
-
-_______________
-
-## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a><span data-ttu-id="2e815-365">基于许可证的预览版价目表已针对挪威克朗更新</span><span class="sxs-lookup"><span data-stu-id="2e815-365">License-based preview price list updated for Norwegian krone</span></span>
-
-### <a name="categories"></a><span data-ttu-id="2e815-366">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-366">Categories</span></span>
-
-- <span data-ttu-id="2e815-367">日期:2021 年 2 月 10 日</span><span class="sxs-lookup"><span data-stu-id="2e815-367">Date: February 10, 2021</span></span>
-- <span data-ttu-id="2e815-368">产品/市场</span><span class="sxs-lookup"><span data-stu-id="2e815-368">Offers/Markets</span></span>
-
-### <a name="affected-audience"></a><span data-ttu-id="2e815-369">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-369">Affected audience</span></span>
-
-<span data-ttu-id="2e815-370">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-370">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
-
-### <a name="summary"></a><span data-ttu-id="2e815-371">摘要</span><span class="sxs-lookup"><span data-stu-id="2e815-371">Summary</span></span>
-
-<span data-ttu-id="2e815-372">更新了基于许可证的预览版价目表，以反应预期于 2021 年 3 月 1 日推出的挪威克朗定价。</span><span class="sxs-lookup"><span data-stu-id="2e815-372">License-based preview price list has been updated for Norwegian krone pricing expected for March 1, 2021.</span></span>
-
-### <a name="details"></a><span data-ttu-id="2e815-373">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-373">Details</span></span>
-
-<span data-ttu-id="2e815-374">此前发布的基于许可证的 3 月价目表中不包含 3 月的外汇汇率变化。</span><span class="sxs-lookup"><span data-stu-id="2e815-374">FX rate changes for March were not included in the previous March license-based price lists.</span></span> <span data-ttu-id="2e815-375">此文件已更新，以反映预期的挪威克朗价格变化。</span><span class="sxs-lookup"><span data-stu-id="2e815-375">This file has been updated to reflect the expected Norwegian krone price changes.</span></span> <span data-ttu-id="2e815-376">合作伙伴应获取最新预览版定价文件，以查看预期 2021 年 3 月 1 日推出的这些更改。</span><span class="sxs-lookup"><span data-stu-id="2e815-376">Partners should get the latest current preview pricing file to see these changes expected for March 1, 2021.</span></span> <span data-ttu-id="2e815-377">这些更改仅适用于挪威克朗货币定价。</span><span class="sxs-lookup"><span data-stu-id="2e815-377">These changes are only for Norwegian krone currency pricing.</span></span>
-
-### <a name="next-steps"></a><span data-ttu-id="2e815-378">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-378">Next steps</span></span>
-
-<span data-ttu-id="2e815-379">合作伙伴应下载当前价目表预览文件，以查看预期在 2021 年 3 月 1 日推出的更改。</span><span class="sxs-lookup"><span data-stu-id="2e815-379">Partners should download the current price list preview file for expected changes for March 1, 2021.</span></span>
+<span data-ttu-id="61bb5-364">合作伙伴应从合作伙伴中心下载最新的价目表文件，以获取最新的 3 月价格。</span><span class="sxs-lookup"><span data-stu-id="61bb5-364">Partners should download the latest price list files from the Partner Center to get the latest March prices.</span></span>
 
 _______________
 
-## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a><span data-ttu-id="2e815-380">高级评估（合规性管理器的加载项）将于 2021 年 3 月 1 日推出</span><span class="sxs-lookup"><span data-stu-id="2e815-380">Premium assessments, an add-on to Compliance Manager, is coming on March 1, 2021</span></span>
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a><span data-ttu-id="61bb5-365">基于许可证的预览版价目表已针对挪威克朗更新</span><span class="sxs-lookup"><span data-stu-id="61bb5-365">License-based preview price list updated for Norwegian krone</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-381">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-381">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-366">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-366">Categories</span></span>
 
-- <span data-ttu-id="2e815-382">日期:2021 年 2 月 5 日</span><span class="sxs-lookup"><span data-stu-id="2e815-382">Date: February 5, 2021</span></span>
-- <span data-ttu-id="2e815-383">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-383">Capabilities</span></span>
+- <span data-ttu-id="61bb5-367">日期:2021 年 2 月 10 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-367">Date: February 10, 2021</span></span>
+- <span data-ttu-id="61bb5-368">产品/市场</span><span class="sxs-lookup"><span data-stu-id="61bb5-368">Offers/Markets</span></span>
 
-### <a name="affected-audience"></a><span data-ttu-id="2e815-384">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-384">Affected audience</span></span>
+### <a name="affected-audience"></a><span data-ttu-id="61bb5-369">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-369">Affected audience</span></span>
 
-<span data-ttu-id="2e815-385">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-385">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
+<span data-ttu-id="61bb5-370">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-370">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
 
-### <a name="summary"></a><span data-ttu-id="2e815-386">摘要</span><span class="sxs-lookup"><span data-stu-id="2e815-386">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="61bb5-371">摘要</span><span class="sxs-lookup"><span data-stu-id="61bb5-371">Summary</span></span>
 
-<span data-ttu-id="2e815-387">高级评估将包含在 2 月的价目表预览中，并将于 2021 年 3 月 1 日提供。</span><span class="sxs-lookup"><span data-stu-id="2e815-387">Premium assessments will be included in the price list preview in February and will be available from March 1, 2021.</span></span>
+<span data-ttu-id="61bb5-372">更新了基于许可证的预览版价目表，以反应预期于 2021 年 3 月 1 日推出的挪威克朗定价。</span><span class="sxs-lookup"><span data-stu-id="61bb5-372">License-based preview price list has been updated for Norwegian krone pricing expected for March 1, 2021.</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-388">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-388">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-373">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-373">Details</span></span>
 
-<span data-ttu-id="2e815-389">高级评估是合规性管理器的可选加载项，可帮助客户遵守管理数据收集和使用的国家、地区和行业特定要求。</span><span class="sxs-lookup"><span data-stu-id="2e815-389">Premium assessments are an optional add-on to Compliance Manager and can help customers comply with national, regional, and industry-specific requirements that govern the collection and use of data.</span></span> <span data-ttu-id="2e815-390">Office 365 E5、A5 和 G5 以及 Microsoft 365 E5、A5 和 G5 客户可以预订高级评估。</span><span class="sxs-lookup"><span data-stu-id="2e815-390">Premium assessments are reserved for Office 365 E5, A5, and G5, and Microsoft 365 E5, A5, and G5 customers.</span></span>
+<span data-ttu-id="61bb5-374">此前发布的基于许可证的 3 月价目表中不包含 3 月的外汇汇率变化。</span><span class="sxs-lookup"><span data-stu-id="61bb5-374">FX rate changes for March were not included in the previous March license-based price lists.</span></span> <span data-ttu-id="61bb5-375">此文件已更新，以反映预期的挪威克朗价格变化。</span><span class="sxs-lookup"><span data-stu-id="61bb5-375">This file has been updated to reflect the expected Norwegian krone price changes.</span></span> <span data-ttu-id="61bb5-376">合作伙伴应获取最新预览版定价文件，以查看预期 2021 年 3 月 1 日推出的这些更改。</span><span class="sxs-lookup"><span data-stu-id="61bb5-376">Partners should get the latest current preview pricing file to see these changes expected for March 1, 2021.</span></span> <span data-ttu-id="61bb5-377">这些更改仅适用于挪威克朗货币定价。</span><span class="sxs-lookup"><span data-stu-id="61bb5-377">These changes are only for Norwegian krone currency pricing.</span></span>
 
-|<span data-ttu-id="2e815-391">**产品/服务名称**</span><span class="sxs-lookup"><span data-stu-id="2e815-391">**Offer name**</span></span>|<span data-ttu-id="2e815-392">**产品/服务 ID**</span><span class="sxs-lookup"><span data-stu-id="2e815-392">**Offer ID**</span></span>|<span data-ttu-id="2e815-393">**材料 ID**</span><span class="sxs-lookup"><span data-stu-id="2e815-393">**Material ID**</span></span>|
+### <a name="next-steps"></a><span data-ttu-id="61bb5-378">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-378">Next steps</span></span>
+
+<span data-ttu-id="61bb5-379">合作伙伴应下载当前价目表预览文件，以查看预期在 2021 年 3 月 1 日推出的更改。</span><span class="sxs-lookup"><span data-stu-id="61bb5-379">Partners should download the current price list preview file for expected changes for March 1, 2021.</span></span>
+
+_______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a><span data-ttu-id="61bb5-380">高级评估（合规性管理器的加载项）将于 2021 年 3 月 1 日推出</span><span class="sxs-lookup"><span data-stu-id="61bb5-380">Premium assessments, an add-on to Compliance Manager, is coming on March 1, 2021</span></span>
+
+### <a name="categories"></a><span data-ttu-id="61bb5-381">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-381">Categories</span></span>
+
+- <span data-ttu-id="61bb5-382">日期:2021 年 2 月 5 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-382">Date: February 5, 2021</span></span>
+- <span data-ttu-id="61bb5-383">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-383">Capabilities</span></span>
+
+### <a name="affected-audience"></a><span data-ttu-id="61bb5-384">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-384">Affected audience</span></span>
+
+<span data-ttu-id="61bb5-385">参与云解决方案提供商 (CSP) 计划的所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-385">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
+
+### <a name="summary"></a><span data-ttu-id="61bb5-386">摘要</span><span class="sxs-lookup"><span data-stu-id="61bb5-386">Summary</span></span>
+
+<span data-ttu-id="61bb5-387">高级评估将包含在 2 月的价目表预览中，并将于 2021 年 3 月 1 日提供。</span><span class="sxs-lookup"><span data-stu-id="61bb5-387">Premium assessments will be included in the price list preview in February and will be available from March 1, 2021.</span></span>
+
+### <a name="details"></a><span data-ttu-id="61bb5-388">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-388">Details</span></span>
+
+<span data-ttu-id="61bb5-389">高级评估是合规性管理器的可选加载项，可帮助客户遵守用于管理数据收集和使用的国家、地区和行业特定要求。</span><span class="sxs-lookup"><span data-stu-id="61bb5-389">Premium assessments are an optional add-on to Compliance Manager and can help customers comply with national, regional, and industry-specific requirements that govern the collection and use of data.</span></span> <span data-ttu-id="61bb5-390">Office 365 E5、A5 和 G5 以及 Microsoft 365 E5、A5 和 G5 客户可以预订高级评估。</span><span class="sxs-lookup"><span data-stu-id="61bb5-390">Premium assessments are reserved for Office 365 E5, A5, and G5, and Microsoft 365 E5, A5, and G5 customers.</span></span>
+
+|<span data-ttu-id="61bb5-391">**产品/服务名称**</span><span class="sxs-lookup"><span data-stu-id="61bb5-391">**Offer name**</span></span>|<span data-ttu-id="61bb5-392">**产品/服务 ID**</span><span class="sxs-lookup"><span data-stu-id="61bb5-392">**Offer ID**</span></span>|<span data-ttu-id="61bb5-393">**材料 ID**</span><span class="sxs-lookup"><span data-stu-id="61bb5-393">**Material ID**</span></span>|
 |------------------|:--------------------|:------------------|
-|<span data-ttu-id="2e815-394">CSP - 公司 - 加载项</span><span class="sxs-lookup"><span data-stu-id="2e815-394">CSP - Corp - Addon</span></span>|[<span data-ttu-id="2e815-395">76be61a7-2c03-4b3e-8330-63b11bd904ed</span><span class="sxs-lookup"><span data-stu-id="2e815-395">76be61a7-2c03-4b3e-8330-63b11bd904ed</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|<span data-ttu-id="2e815-396">8JA-00003</span><span class="sxs-lookup"><span data-stu-id="2e815-396">8JA-00003</span></span>|
-|<span data-ttu-id="2e815-397">CSP - 公司 - 试用版</span><span class="sxs-lookup"><span data-stu-id="2e815-397">CSP - Corp - Trial</span></span>|[<span data-ttu-id="2e815-398">f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4</span><span class="sxs-lookup"><span data-stu-id="2e815-398">f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|<span data-ttu-id="2e815-399">8JA-00004</span><span class="sxs-lookup"><span data-stu-id="2e815-399">8JA-00004</span></span>|
-|<span data-ttu-id="2e815-400">CSP - 教育 - 教师 - 加载项</span><span class="sxs-lookup"><span data-stu-id="2e815-400">CSP - Educational - Faculty - Addon</span></span>|[<span data-ttu-id="2e815-401">fa7f5773-063a-48cf-b3e2-de509ea1262f</span><span class="sxs-lookup"><span data-stu-id="2e815-401">fa7f5773-063a-48cf-b3e2-de509ea1262f</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|<span data-ttu-id="2e815-402">8JB-00003</span><span class="sxs-lookup"><span data-stu-id="2e815-402">8JB-00003</span></span>|
-|<span data-ttu-id="2e815-403">CSP - 教育 - 教师 - 试用版</span><span class="sxs-lookup"><span data-stu-id="2e815-403">CSP - Educational - Faculty - Trial</span></span>|[<span data-ttu-id="2e815-404">828cecbd-8728-4339-b0c2-51e009a67d88</span><span class="sxs-lookup"><span data-stu-id="2e815-404">828cecbd-8728-4339-b0c2-51e009a67d88</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|<span data-ttu-id="2e815-405">8JB-00004</span><span class="sxs-lookup"><span data-stu-id="2e815-405">8JB-00004</span></span>|
+|<span data-ttu-id="61bb5-394">CSP - 公司 - 加载项</span><span class="sxs-lookup"><span data-stu-id="61bb5-394">CSP - Corp - Addon</span></span>|[<span data-ttu-id="61bb5-395">76be61a7-2c03-4b3e-8330-63b11bd904ed</span><span class="sxs-lookup"><span data-stu-id="61bb5-395">76be61a7-2c03-4b3e-8330-63b11bd904ed</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|<span data-ttu-id="61bb5-396">8JA-00003</span><span class="sxs-lookup"><span data-stu-id="61bb5-396">8JA-00003</span></span>|
+|<span data-ttu-id="61bb5-397">CSP - 公司 - 试用版</span><span class="sxs-lookup"><span data-stu-id="61bb5-397">CSP - Corp - Trial</span></span>|[<span data-ttu-id="61bb5-398">f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4</span><span class="sxs-lookup"><span data-stu-id="61bb5-398">f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|<span data-ttu-id="61bb5-399">8JA-00004</span><span class="sxs-lookup"><span data-stu-id="61bb5-399">8JA-00004</span></span>|
+|<span data-ttu-id="61bb5-400">CSP - 教育 - 教师 - 加载项</span><span class="sxs-lookup"><span data-stu-id="61bb5-400">CSP - Educational - Faculty - Addon</span></span>|[<span data-ttu-id="61bb5-401">fa7f5773-063a-48cf-b3e2-de509ea1262f</span><span class="sxs-lookup"><span data-stu-id="61bb5-401">fa7f5773-063a-48cf-b3e2-de509ea1262f</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|<span data-ttu-id="61bb5-402">8JB-00003</span><span class="sxs-lookup"><span data-stu-id="61bb5-402">8JB-00003</span></span>|
+|<span data-ttu-id="61bb5-403">CSP - 教育 - 教师 - 试用版</span><span class="sxs-lookup"><span data-stu-id="61bb5-403">CSP - Educational - Faculty - Trial</span></span>|[<span data-ttu-id="61bb5-404">828cecbd-8728-4339-b0c2-51e009a67d88</span><span class="sxs-lookup"><span data-stu-id="61bb5-404">828cecbd-8728-4339-b0c2-51e009a67d88</span></span>](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|<span data-ttu-id="61bb5-405">8JB-00004</span><span class="sxs-lookup"><span data-stu-id="61bb5-405">8JB-00004</span></span>|
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-406">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-406">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-406">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-406">Next steps</span></span>
 
-<span data-ttu-id="2e815-407">查看本主题的以下资源，并与组织内部的相关利益干系人共享此信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-407">Review the following resources for this topic and share the information with the appropriate stakeholders in your organization.</span></span>   
+<span data-ttu-id="61bb5-407">查看本主题的以下资源，并与组织内部的相关利益干系人共享此信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-407">Review the following resources for this topic and share the information with the appropriate stakeholders in your organization.</span></span>   
 
-- [<span data-ttu-id="2e815-408">Microsoft 365 E5 安全性和合规性</span><span class="sxs-lookup"><span data-stu-id="2e815-408">Microsoft 365 E5 security and compliance</span></span>](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [<span data-ttu-id="2e815-409">在 Microsoft 合规性管理器中生成和管理评估</span><span class="sxs-lookup"><span data-stu-id="2e815-409">Build and manage assessments in Microsoft Compliance Manager</span></span>](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
+- [<span data-ttu-id="61bb5-408">Microsoft 365 E5 安全性和合规性</span><span class="sxs-lookup"><span data-stu-id="61bb5-408">Microsoft 365 E5 security and compliance</span></span>](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [<span data-ttu-id="61bb5-409">在 Microsoft 合规性管理器中生成和管理评估</span><span class="sxs-lookup"><span data-stu-id="61bb5-409">Build and manage assessments in Microsoft Compliance Manager</span></span>](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
-## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> <span data-ttu-id="2e815-410">新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新</span><span class="sxs-lookup"><span data-stu-id="2e815-410">Responding to COVID-19: Microsoft Partner Network update</span></span>
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> <span data-ttu-id="61bb5-410">新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新</span><span class="sxs-lookup"><span data-stu-id="61bb5-410">Responding to COVID-19: Microsoft Partner Network update</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-411">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-411">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-411">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-411">Categories</span></span>
 
-- <span data-ttu-id="2e815-412">日期:2021 年 2 月 4 日</span><span class="sxs-lookup"><span data-stu-id="2e815-412">Date: February 4, 2021</span></span>
-- <span data-ttu-id="2e815-413">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-413">Capabilities</span></span>
+- <span data-ttu-id="61bb5-412">日期:2021 年 2 月 4 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-412">Date: February 4, 2021</span></span>
+- <span data-ttu-id="61bb5-413">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-413">Capabilities</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-414">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-414">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-414">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-414">Impacted audience</span></span>
 
-<span data-ttu-id="2e815-415">所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-415">All partners</span></span>
+<span data-ttu-id="61bb5-415">所有合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-415">All partners</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-416">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-416">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-416">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-416">Details</span></span>
 
-<span data-ttu-id="2e815-417">Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。</span><span class="sxs-lookup"><span data-stu-id="2e815-417">Microsoft is offering competency extension (except for the Cloud Business Applications competency) and advanced specialization extension for partners with anniversary dates (AD) between January 1, 2021 and June 30, 2021.</span></span> <span data-ttu-id="2e815-418">有关详细信息，请查看我们的[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。</span><span class="sxs-lookup"><span data-stu-id="2e815-418">Review our [partner blog post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) for more information.</span></span>
+<span data-ttu-id="61bb5-417">Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。</span><span class="sxs-lookup"><span data-stu-id="61bb5-417">Microsoft is offering competency extension (except for the Cloud Business Applications competency) and advanced specialization extension for partners with anniversary dates (AD) between January 1, 2021 and June 30, 2021.</span></span> <span data-ttu-id="61bb5-418">有关详细信息，请查看我们的[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-418">Review our [partner blog post](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) for more information.</span></span>
 ________________
-## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> <span data-ttu-id="2e815-419">针对合作伙伴中心内“推荐”模块的新更新</span><span class="sxs-lookup"><span data-stu-id="2e815-419">New updates to the Referrals module in Partner Center</span></span>
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> <span data-ttu-id="61bb5-419">针对合作伙伴中心内“推荐”模块的更新</span><span class="sxs-lookup"><span data-stu-id="61bb5-419">New updates to the Referrals module in Partner Center</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-420">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-420">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-420">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-420">Categories</span></span>
 
-- <span data-ttu-id="2e815-421">日期:2021 年 2 月 5 日</span><span class="sxs-lookup"><span data-stu-id="2e815-421">Date: February 5, 2021</span></span>
-- <span data-ttu-id="2e815-422">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-422">Capabilities</span></span>
+- <span data-ttu-id="61bb5-421">日期:2021 年 2 月 5 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-421">Date: February 5, 2021</span></span>
+- <span data-ttu-id="61bb5-422">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-422">Capabilities</span></span>
  
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-423">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-423">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-423">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-423">Impacted audience</span></span>
 
-- <span data-ttu-id="2e815-424">具有联合销售就绪产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-424">Partners with Co-sell Ready offers</span></span>
-- <span data-ttu-id="2e815-425">在商业市场中具有使用 Azure 奖励资格解决方案的可交易产品/服务</span><span class="sxs-lookup"><span data-stu-id="2e815-425">Partners with a transactable offer using an Azure incentive-eligible solution in the commercial marketplace</span></span>
-- <span data-ttu-id="2e815-426">合作伙伴中心内使用“推荐”模块的所有合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="2e815-426">All partners using the Referrals module in Partner Center.</span></span>
+- <span data-ttu-id="61bb5-424">具有联合销售就绪产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-424">Partners with Co-sell Ready offers</span></span>
+- <span data-ttu-id="61bb5-425">在商业市场中具有可交易产品/服务且使用 Azure 奖励资格解决方案的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-425">Partners with a transactable offer using an Azure incentive-eligible solution in the commercial marketplace</span></span>
+- <span data-ttu-id="61bb5-426">合作伙伴中心内使用“推荐”模块的所有合作伙伴。</span><span class="sxs-lookup"><span data-stu-id="61bb5-426">All partners using the Referrals module in Partner Center.</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-427">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-427">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-427">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-427">Details</span></span>
 
-<span data-ttu-id="2e815-428">随着进入新的一年，我们将增加功能，以增强和丰富合作伙伴中心的联合销售体验。</span><span class="sxs-lookup"><span data-stu-id="2e815-428">As we move into the new year, we’re adding capabilities to enhance and enrich the co-sell experience in Partner Center.</span></span> <span data-ttu-id="2e815-429">这些新功能将帮助你加快交易速度、增加销售商机会并帮助你更好地扩展业务。</span><span class="sxs-lookup"><span data-stu-id="2e815-429">These new features will help you to accelerate deal velocity, extend seller access, and help you better scale your business.</span></span> <span data-ttu-id="2e815-430">在“推荐”模块中引入的这些新功能将帮助你通过其他 Microsoft 合作伙伴或 Microsoft 销售商接触更多的客户，同时在一个位置管理你与 Microsoft 的管道。</span><span class="sxs-lookup"><span data-stu-id="2e815-430">Introduced in the Referrals module, these new additions will help you reach more customers through other Microsoft partners or Microsoft sellers, all while managing your pipeline with Microsoft in one location.</span></span>  
+<span data-ttu-id="61bb5-428">随着进入新的一年，我们将增加功能，以增强和丰富合作伙伴中心的联合销售体验。</span><span class="sxs-lookup"><span data-stu-id="61bb5-428">As we move into the new year, we’re adding capabilities to enhance and enrich the co-sell experience in Partner Center.</span></span> <span data-ttu-id="61bb5-429">这些新功能将帮助你加快交易速度、增加销售商机会并帮助你更好地扩展业务。</span><span class="sxs-lookup"><span data-stu-id="61bb5-429">These new features will help you to accelerate deal velocity, extend seller access, and help you better scale your business.</span></span> <span data-ttu-id="61bb5-430">在“推荐”模块中引入的这些新功能将帮助你通过其他 Microsoft 合作伙伴或 Microsoft 销售商接触更多的客户，同时在一个位置管理你与 Microsoft 的管道。</span><span class="sxs-lookup"><span data-stu-id="61bb5-430">Introduced in the Referrals module, these new additions will help you reach more customers through other Microsoft partners or Microsoft sellers, all while managing your pipeline with Microsoft in one location.</span></span>  
 
-<span data-ttu-id="2e815-431">下面是合作伙伴中心“推荐”模块中的新增内容：</span><span class="sxs-lookup"><span data-stu-id="2e815-431">Here’s what’s new in the Partner Center Referrals module:</span></span>
+<span data-ttu-id="61bb5-431">下面是合作伙伴中心“推荐”模块中的新增内容：</span><span class="sxs-lookup"><span data-stu-id="61bb5-431">Here’s what’s new in the Partner Center Referrals module:</span></span>
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a><span data-ttu-id="2e815-432">所有合作伙伴使用合作伙伴中心内的“推荐”模块</span><span class="sxs-lookup"><span data-stu-id="2e815-432">All partners using the Referrals module in Partner Center</span></span>  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a><span data-ttu-id="61bb5-432">所有合作伙伴使用合作伙伴中心内的“推荐”模块</span><span class="sxs-lookup"><span data-stu-id="61bb5-432">All partners using the Referrals module in Partner Center</span></span>  
 
-- <span data-ttu-id="2e815-433">[创建新的 SMB 连接](../connect-with-your-customers.md)：与 Microsoft 销售商联合销售和合作，获取与 SMB 客户相关的入站机会。</span><span class="sxs-lookup"><span data-stu-id="2e815-433">[Create new SMB connections](../connect-with-your-customers.md): Co-sell and work with Microsoft sellers to gain inbound opportunities related to SMB customers.</span></span>
+- <span data-ttu-id="61bb5-433">[创建新的 SMB 连接](../connect-with-your-customers.md)：与 Microsoft 销售商联合销售和合作，获取与 SMB 客户相关的入站机会。</span><span class="sxs-lookup"><span data-stu-id="61bb5-433">[Create new SMB connections](../connect-with-your-customers.md): Co-sell and work with Microsoft sellers to gain inbound opportunities related to SMB customers.</span></span>
 
-- <span data-ttu-id="2e815-434">[展开推荐权限](../permissions-overview.md#manage-referrals)：根据你是否希望用户拥有管理员权限（访问所有联合销售机会）或用户权限（访问用户的特定联合销售机会）来分配用户的推荐权限。</span><span class="sxs-lookup"><span data-stu-id="2e815-434">[Expand referral permissions](../permissions-overview.md#manage-referrals): Assign users’ referral permissions based on whether you want them to have - admin permissions (access to all co-sell opportunities) or user permissions (access to the user’s specific co-sell opportunities).</span></span>
+- <span data-ttu-id="61bb5-434">[展开推荐权限](../permissions-overview.md#manage-referrals)：根据你是否希望用户拥有管理员权限（访问所有联合销售机会）或用户权限（访问用户的特定联合销售机会）来分配用户的推荐权限。</span><span class="sxs-lookup"><span data-stu-id="61bb5-434">[Expand referral permissions](../permissions-overview.md#manage-referrals): Assign users’ referral permissions based on whether you want them to have - admin permissions (access to all co-sell opportunities) or user permissions (access to the user’s specific co-sell opportunities).</span></span>
 
-- <span data-ttu-id="2e815-435">[Partner Sales Connect 用户迁移](../psc-to-pc.md#user-migration)：将现有 Partner Sales Connect 用户权限与相应的合作伙伴中心推荐管理员权限和推荐用户权限对应，然后将新权限批量应用于用户。</span><span class="sxs-lookup"><span data-stu-id="2e815-435">[Partner Sales Connect user migration](../psc-to-pc.md#user-migration): Map existing Partner Sales Connect user permissions to the corresponding Partner Center Referral admin and referral user permissions, and then mass apply the new permissions to users.</span></span> <span data-ttu-id="2e815-436">查看[权限文档](../permissions-overview.md#manage-referrals)了解有关推荐管理的详细信息。</span><span class="sxs-lookup"><span data-stu-id="2e815-436">Review [referral permissions documentation](../permissions-overview.md#manage-referrals) to learn more about referrals management.</span></span>  
+- <span data-ttu-id="61bb5-435">[Partner Sales Connect 用户迁移](../psc-to-pc.md#user-migration)：将现有 Partner Sales Connect 用户权限与相应的合作伙伴中心推荐管理员权限和推荐用户权限对应，然后将新权限批量应用于用户。</span><span class="sxs-lookup"><span data-stu-id="61bb5-435">[Partner Sales Connect user migration](../psc-to-pc.md#user-migration): Map existing Partner Sales Connect user permissions to the corresponding Partner Center Referral admin and referral user permissions, and then mass apply the new permissions to users.</span></span> <span data-ttu-id="61bb5-436">查看[权限文档](../permissions-overview.md#manage-referrals)了解有关推荐管理的详细信息。</span><span class="sxs-lookup"><span data-stu-id="61bb5-436">Review [referral permissions documentation](../permissions-overview.md#manage-referrals) to learn more about referrals management.</span></span>  
 
-#### <a name="partners-with-co-sell-ready-offers"></a><span data-ttu-id="2e815-437">具有联合销售就绪产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-437">Partners with Co-sell Ready offers</span></span>
+#### <a name="partners-with-co-sell-ready-offers"></a><span data-ttu-id="61bb5-437">具有联合销售就绪产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-437">Partners with Co-sell Ready offers</span></span>
 
-- <span data-ttu-id="2e815-438">[与其他合作伙伴联合销售](../manage-co-sell-opportunities.md)：邀请强大合作伙伴生态系统中的其他合作伙伴与你联合销售，并允许接触其他客户受众。</span><span class="sxs-lookup"><span data-stu-id="2e815-438">[Co-sell with other partners](../manage-co-sell-opportunities.md): Invite another partner from our powerful partner ecosystem to co-sell with you and unlock access to more customer audiences.</span></span>  
+- <span data-ttu-id="61bb5-438">[与其他合作伙伴联合销售](../manage-co-sell-opportunities.md)：邀请强大合作伙伴生态系统中的其他合作伙伴与你联合销售，并允许接触其他客户受众。</span><span class="sxs-lookup"><span data-stu-id="61bb5-438">[Co-sell with other partners](../manage-co-sell-opportunities.md): Invite another partner from our powerful partner ecosystem to co-sell with you and unlock access to more customer audiences.</span></span>  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a><span data-ttu-id="2e815-439">在商业市场中具有使用 Azure 奖励资格解决方案的可交易产品/服务</span><span class="sxs-lookup"><span data-stu-id="2e815-439">Partners with a transactable offer using an Azure incentive-eligible solution in the commercial marketplace</span></span>
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a><span data-ttu-id="61bb5-439">在商业市场中具有可交易产品/服务且使用 Azure 奖励资格解决方案的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-439">Partners with a transactable offer using an Azure incentive-eligible solution in the commercial marketplace</span></span>
 
-- <span data-ttu-id="2e815-440">[使用自动交易注册](../register-deals.md)：通过选中复选框“这笔交易已通过或将通过 Azure 市场或 AppSource 进行”，注册可交易的 Microsoft 商业市场 Azure 产品/服务，节省时间并确保准确性。</span><span class="sxs-lookup"><span data-stu-id="2e815-440">[Use auto deal registration](../register-deals.md): Save time and ensure accuracy by registering transactable Microsoft Commercial Marketplace Azure offers using the check box, “This deal/win has been or will be transacted through Azure Marketplace or AppSource.”</span></span> <span data-ttu-id="2e815-441">只要你的交易日期正确，交易注册的信息将直接从 Microsoft 商业市场中提取。</span><span class="sxs-lookup"><span data-stu-id="2e815-441">So long as your transaction date is correct, the information for deal registration will be pulled directly from the Microsoft commercial marketplace.</span></span>
+- <span data-ttu-id="61bb5-440">[使用自动交易注册](../register-deals.md)：通过选中复选框“这笔交易已通过或将通过 Azure 市场或 AppSource 进行”，注册可交易的 Microsoft 商业市场 Azure 产品/服务，节省时间并确保准确性。</span><span class="sxs-lookup"><span data-stu-id="61bb5-440">[Use auto deal registration](../register-deals.md): Save time and ensure accuracy by registering transactable Microsoft Commercial Marketplace Azure offers using the check box, “This deal/win has been or will be transacted through Azure Marketplace or AppSource.”</span></span> <span data-ttu-id="61bb5-441">只要你的交易日期正确，交易注册的信息将直接从 Microsoft 商业市场中提取。</span><span class="sxs-lookup"><span data-stu-id="61bb5-441">So long as your transaction date is correct, the information for deal registration will be pulled directly from the Microsoft commercial marketplace.</span></span>
 
-### <a name="questions"></a><span data-ttu-id="2e815-442">存在疑问？</span><span class="sxs-lookup"><span data-stu-id="2e815-442">Questions?</span></span>
+### <a name="questions"></a><span data-ttu-id="61bb5-442">存在疑问？</span><span class="sxs-lookup"><span data-stu-id="61bb5-442">Questions?</span></span>
 
-<span data-ttu-id="2e815-443">如果需要使用任何新功能方面的帮助，请查看知识库中的[“推荐”部分](../referrals.md)，或[联合体验库](https://aka.ms/CoSellExperience)中提供的支持指南材料（需要登录）。</span><span class="sxs-lookup"><span data-stu-id="2e815-443">If you need help with using any of the new features, check out the [Referrals section](../referrals.md) in our knowledge base or our how-to support materials available in our [Co-sell experience gallery](https://aka.ms/CoSellExperience) (sign-in required).</span></span>
+<span data-ttu-id="61bb5-443">如果需要使用任何新功能方面的帮助，请查看知识库中的[“推荐”部分](../referrals.md)，或[联合体验库](https://aka.ms/CoSellExperience)中提供的支持指南材料（需要登录）。</span><span class="sxs-lookup"><span data-stu-id="61bb5-443">If you need help with using any of the new features, check out the [Referrals section](../referrals.md) in our knowledge base or our how-to support materials available in our [Co-sell experience gallery](https://aka.ms/CoSellExperience) (sign-in required).</span></span>
 
-<span data-ttu-id="2e815-444">你可以[通过我们的合作伙伴支持团队开具工单](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="2e815-444">You can [open a ticket with our Partner Support team](https://partner.microsoft.com/support/?stage=1) for support.</span></span>
+<span data-ttu-id="61bb5-444">你可以[通过我们的合作伙伴支持团队开具工单](https://partner.microsoft.com/support/?stage=1)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-444">You can [open a ticket with our Partner Support team](https://partner.microsoft.com/support/?stage=1) for support.</span></span>
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> <span data-ttu-id="2e815-445">2021 年 2 月 25 日之前将弃用并停用教育客户验证过程的 PUT 资格 API，2021 年 5 月 4 日之前将弃用并停用 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="2e815-445">Deprecation and retirement of PUT Qualification APIs for the Education customer validation process by February 25, 2021 and GET qualification by May 4, 2021.</span></span>
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> <span data-ttu-id="61bb5-445">2021 年 2 月 25 日之前将弃用并停用教育客户验证过程的 PUT 资格 API，2021 年 5 月 4 日之前将弃用并停用 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="61bb5-445">Deprecation and retirement of PUT Qualification APIs for the Education customer validation process by February 25, 2021 and GET qualification by May 4, 2021.</span></span>
 
-### <a name="categories"></a><span data-ttu-id="2e815-446">类别</span><span class="sxs-lookup"><span data-stu-id="2e815-446">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="61bb5-446">类别</span><span class="sxs-lookup"><span data-stu-id="61bb5-446">Categories</span></span>
 
-- <span data-ttu-id="2e815-447">日期:2021 年 2 月 4 日</span><span class="sxs-lookup"><span data-stu-id="2e815-447">Date: February 4, 2021</span></span>
-- <span data-ttu-id="2e815-448">功能</span><span class="sxs-lookup"><span data-stu-id="2e815-448">Capabilities</span></span>
+- <span data-ttu-id="61bb5-447">日期:2021 年 2 月 4 日</span><span class="sxs-lookup"><span data-stu-id="61bb5-447">Date: February 4, 2021</span></span>
+- <span data-ttu-id="61bb5-448">功能</span><span class="sxs-lookup"><span data-stu-id="61bb5-448">Capabilities</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="2e815-449">影响受众</span><span class="sxs-lookup"><span data-stu-id="2e815-449">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="61bb5-449">影响受众</span><span class="sxs-lookup"><span data-stu-id="61bb5-449">Impacted audience</span></span>
 
-<span data-ttu-id="2e815-450">使用合作伙伴中心 API，通过云解决方案提供商计划销售学术、非盈利和 GCC 产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="2e815-450">Partners selling Academic, Non-Profit, and GCC offers through the Cloud Solution Provider program using the Partner Center API</span></span>
+<span data-ttu-id="61bb5-450">使用合作伙伴中心 API，通过云解决方案提供商计划销售学术、非盈利和 GCC 产品/服务的合作伙伴</span><span class="sxs-lookup"><span data-stu-id="61bb5-450">Partners selling Academic, Non-Profit, and GCC offers through the Cloud Solution Provider program using the Partner Center API</span></span>
 
-### <a name="details"></a><span data-ttu-id="2e815-451">详细信息</span><span class="sxs-lookup"><span data-stu-id="2e815-451">Details</span></span>
+### <a name="details"></a><span data-ttu-id="61bb5-451">详细信息</span><span class="sxs-lookup"><span data-stu-id="61bb5-451">Details</span></span>
 
-<span data-ttu-id="2e815-452">本公告是对 [12 月发布的合作伙伴中心增强功能](./2020-december.md#1)的跟进。</span><span class="sxs-lookup"><span data-stu-id="2e815-452">This announcement is a follow-up to the Partner Center [enhancements released in December](./2020-december.md#1).</span></span> <span data-ttu-id="2e815-453">此版本部署了新的 GET 和 POST 资格 API，因此现有 PUT 资格 API 合作伙伴中心 API 将于 2021 年 2 月 25 日停用，2021 年 5 月 4 日将停用 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="2e815-453">As part of that release, new GET and POST Qualifications APIs were deployed, and as a result **the existing PUT Qualification APIs Partner Center APIs will retire by February 25, 2021 and GET qualification by May 4, 2021**.</span></span> <span data-ttu-id="2e815-454">此时，为了能够购买教育产品/服务，你需要改用新的 POST 合作伙伴中心 API，为了能够购买预获资格的非利润和 GCC 产品/服务，你需要改用新的 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="2e815-454">At that time, you will need to have transitioned to using the new POST Partner Center APIs in order to be able to purchase Education offers and the new GET qualifications API to purchase pre-qualified Non-profit and GCC offers.</span></span>
+<span data-ttu-id="61bb5-452">本公告是对 [12 月发布的合作伙伴中心增强功能](./2020-december.md#1)的跟进。</span><span class="sxs-lookup"><span data-stu-id="61bb5-452">This announcement is a follow-up to the Partner Center [enhancements released in December](./2020-december.md#1).</span></span> <span data-ttu-id="61bb5-453">此版本部署了新的 GET 和 POST 资格 API，因此现有 PUT 资格 API 合作伙伴中心 API 将于 2021 年 2 月 25 日停用，2021 年 5 月 4 日将停用 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="61bb5-453">As part of that release, new GET and POST Qualifications APIs were deployed, and as a result **the existing PUT Qualification APIs Partner Center APIs will retire by February 25, 2021 and GET qualification by May 4, 2021**.</span></span> <span data-ttu-id="61bb5-454">此时，为了能够购买教育产品/服务，你需要改用新的 POST 合作伙伴中心 API，为了能够购买预获资格的非利润和 GCC 产品/服务，你需要改用新的 GET 资格 API。</span><span class="sxs-lookup"><span data-stu-id="61bb5-454">At that time, you will need to have transitioned to using the new POST Partner Center APIs in order to be able to purchase Education offers and the new GET qualifications API to purchase pre-qualified Non-profit and GCC offers.</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="2e815-455">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2e815-455">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="61bb5-455">后续步骤</span><span class="sxs-lookup"><span data-stu-id="61bb5-455">Next steps</span></span>
 
-- <span data-ttu-id="2e815-456">请更新到新的 API，以便及时成功转换</span><span class="sxs-lookup"><span data-stu-id="2e815-456">**Update to the new APIs** for a successful and timely transition</span></span>
-- <span data-ttu-id="2e815-457">请参阅新的合作伙伴中心 API 更改，以及操作就绪资源指南：[合作伙伴中心教育客户验证流程增强功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)</span><span class="sxs-lookup"><span data-stu-id="2e815-457">**Review the new Partner Center API changes and Guide** in the Operations Readiness resources: [Partner Center Education customer validation process enhancements](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)</span></span>
-- <span data-ttu-id="2e815-458">请与组织内的相应团队和经销商共享此信息，以帮助他们为这些更改做好准备。</span><span class="sxs-lookup"><span data-stu-id="2e815-458">**Share this information with the appropriate teams** within your organization, and with your resellers, to help them prepare for these changes.</span></span>
+- <span data-ttu-id="61bb5-456">请更新到新的 API，以便及时成功转换</span><span class="sxs-lookup"><span data-stu-id="61bb5-456">**Update to the new APIs** for a successful and timely transition</span></span>
+- <span data-ttu-id="61bb5-457">请参阅新的合作伙伴中心 API 更改，以及操作就绪资源指南：[合作伙伴中心教育客户验证流程增强功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)</span><span class="sxs-lookup"><span data-stu-id="61bb5-457">**Review the new Partner Center API changes and Guide** in the Operations Readiness resources: [Partner Center Education customer validation process enhancements](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)</span></span>
+- <span data-ttu-id="61bb5-458">请与组织内的相应团队和经销商共享此信息，以帮助他们为这些更改做好准备。</span><span class="sxs-lookup"><span data-stu-id="61bb5-458">**Share this information with the appropriate teams** within your organization, and with your resellers, to help them prepare for these changes.</span></span>
 
-### <a name="questions"></a><span data-ttu-id="2e815-459">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="2e815-459">Questions?</span></span>
+### <a name="questions"></a><span data-ttu-id="61bb5-459">是否有任何问题?</span><span class="sxs-lookup"><span data-stu-id="61bb5-459">Questions?</span></span>
 
-<span data-ttu-id="2e815-460">若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。</span><span class="sxs-lookup"><span data-stu-id="2e815-460">For any questions related to this notification contact [Partner Center support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).</span></span>
+<span data-ttu-id="61bb5-460">若有与此通知相关的任何问题，请联系[合作伙伴中心支持部门](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。</span><span class="sxs-lookup"><span data-stu-id="61bb5-460">For any questions related to this notification contact [Partner Center support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals).</span></span>
 
-### <a name="change-log"></a><span data-ttu-id="2e815-461">更改日志</span><span class="sxs-lookup"><span data-stu-id="2e815-461">Change log</span></span>
+### <a name="change-log"></a><span data-ttu-id="61bb5-461">更改日志</span><span class="sxs-lookup"><span data-stu-id="61bb5-461">Change log</span></span>
 
-- <span data-ttu-id="2e815-462">二月：更新了停用 GET 和 PUT 资格的时间线</span><span class="sxs-lookup"><span data-stu-id="2e815-462">February: Updated timelines for deprecation of GET & PUT qualifications</span></span>
-- <span data-ttu-id="2e815-463">一月：提醒即将开始弃用 GET 和 PUT 资格</span><span class="sxs-lookup"><span data-stu-id="2e815-463">January: Reminder of upcoming deprecations of GET & PUT qualifications</span></span>
+- <span data-ttu-id="61bb5-462">二月：更新了停用 GET 和 PUT 资格的时间线</span><span class="sxs-lookup"><span data-stu-id="61bb5-462">February: Updated timelines for deprecation of GET & PUT qualifications</span></span>
+- <span data-ttu-id="61bb5-463">一月：提醒即将开始弃用 GET 和 PUT 资格</span><span class="sxs-lookup"><span data-stu-id="61bb5-463">January: Reminder of upcoming deprecations of GET & PUT qualifications</span></span>
