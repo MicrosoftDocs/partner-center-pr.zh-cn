@@ -9,50 +9,49 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441551"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002818"
 ---
-# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a><span data-ttu-id="2b0e3-103">还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施</span><span class="sxs-lookup"><span data-stu-id="2b0e3-103">Restore a suspended Partner Center account - learn why it happens and what to do about it</span></span>
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a><span data-ttu-id="5a351-103">还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施</span><span class="sxs-lookup"><span data-stu-id="5a351-103">Restore a suspended Partner Center account - learn why it happens and what to do about it</span></span>
 
-<span data-ttu-id="2b0e3-104">本文介绍在合作伙伴中心帐户挂起的情况下该如何做。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-104">This article explains what to do if your Partner Center account is suspended.</span></span>
+<span data-ttu-id="5a351-104">**适用于**</span><span class="sxs-lookup"><span data-stu-id="5a351-104">**Applies to**</span></span>
 
-<span data-ttu-id="2b0e3-105">**适用于**</span><span class="sxs-lookup"><span data-stu-id="2b0e3-105">**Applies to**</span></span>
+- <span data-ttu-id="5a351-105">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="5a351-105">Partner Center for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="2b0e3-106">Microsoft Cloud for US Government 合作伙伴中心</span><span class="sxs-lookup"><span data-stu-id="2b0e3-106">Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="5a351-106">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="5a351-106">**Appropriate roles**</span></span>
 
-<span data-ttu-id="2b0e3-107">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="2b0e3-107">**Appropriate roles**</span></span>
+- <span data-ttu-id="5a351-107">全局管理员</span><span class="sxs-lookup"><span data-stu-id="5a351-107">Global admin</span></span>
 
-- <span data-ttu-id="2b0e3-108">全局管理员</span><span class="sxs-lookup"><span data-stu-id="2b0e3-108">Global admin</span></span>
-
+<span data-ttu-id="5a351-108">本文介绍在合作伙伴中心帐户挂起的情况下该如何做。</span><span class="sxs-lookup"><span data-stu-id="5a351-108">This article explains what to do if your Partner Center account is suspended.</span></span>
 
 > [!IMPORTANT]  
-> <span data-ttu-id="2b0e3-109">当你的合作伙伴中心帐户被挂起时，你可以继续管理现有部署、许可证和服务。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-109">While your Partner Center account is suspended, you can continue to manage your existing deployments, licenses, and services.</span></span> <span data-ttu-id="2b0e3-110">但是，在你的帐户再次处于正常状态之前，你将无法授权或转售新的许可证或服务。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-110">However, you won't be able to authorize or resell new licenses or services until your account is in good standing again.</span></span>
+> <span data-ttu-id="5a351-109">当你的合作伙伴中心帐户被挂起时，你可以继续管理现有部署、许可证和服务。</span><span class="sxs-lookup"><span data-stu-id="5a351-109">While your Partner Center account is suspended, you can continue to manage your existing deployments, licenses, and services.</span></span> <span data-ttu-id="5a351-110">但是，在你的帐户再次处于正常状态之前，你将无法授权或转售新的许可证或服务。</span><span class="sxs-lookup"><span data-stu-id="5a351-110">However, you won't be able to authorize or resell new licenses or services until your account is in good standing again.</span></span>
 
-## <a name="why-partner-center-accounts-are-suspended"></a><span data-ttu-id="2b0e3-111">合作伙伴中心帐户被挂起的原因</span><span class="sxs-lookup"><span data-stu-id="2b0e3-111">Why Partner Center accounts are suspended</span></span>
+## <a name="why-partner-center-accounts-are-suspended"></a><span data-ttu-id="5a351-111">合作伙伴中心帐户被挂起的原因</span><span class="sxs-lookup"><span data-stu-id="5a351-111">Why Partner Center accounts are suspended</span></span>
 
-<span data-ttu-id="2b0e3-112">由于以下原因之一，Microsoft 将暂停合作伙伴中心帐户：</span><span class="sxs-lookup"><span data-stu-id="2b0e3-112">Microsoft will suspend a Partner Center account for one of the following reasons:</span></span>
+<span data-ttu-id="5a351-112">由于以下原因之一，Microsoft 将暂停合作伙伴中心帐户：</span><span class="sxs-lookup"><span data-stu-id="5a351-112">Microsoft will suspend a Partner Center account for one of the following reasons:</span></span>
 
-- <span data-ttu-id="2b0e3-113">当前计费金额已逾期 60 天以上</span><span class="sxs-lookup"><span data-stu-id="2b0e3-113">When the current billing amount is more than 60 days overdue</span></span>
-- <span data-ttu-id="2b0e3-114">检测到严重的帐户滥用情况</span><span class="sxs-lookup"><span data-stu-id="2b0e3-114">When significant account abuse is detected</span></span>
-- <span data-ttu-id="2b0e3-115">当问题影响间接提供程序操作并对帐户产生负面影响 (仅限间接经销商) </span><span class="sxs-lookup"><span data-stu-id="2b0e3-115">When issues affect Indirect provider operations and negatively impact your account (Indirect resellers only)</span></span>
-- <span data-ttu-id="2b0e3-116">如果你的帐户配置文件处于失败或拒绝状态</span><span class="sxs-lookup"><span data-stu-id="2b0e3-116">When your account profile is in a failed or rejected state</span></span>
+- <span data-ttu-id="5a351-113">当前计费金额已逾期 60 天以上</span><span class="sxs-lookup"><span data-stu-id="5a351-113">When the current billing amount is more than 60 days overdue</span></span>
+- <span data-ttu-id="5a351-114">检测到严重的帐户滥用情况</span><span class="sxs-lookup"><span data-stu-id="5a351-114">When significant account abuse is detected</span></span>
+- <span data-ttu-id="5a351-115">当问题影响间接提供程序操作并对帐户产生负面影响 (仅限间接经销商) </span><span class="sxs-lookup"><span data-stu-id="5a351-115">When issues affect Indirect provider operations and negatively impact your account (Indirect resellers only)</span></span>
+- <span data-ttu-id="5a351-116">如果你的帐户配置文件处于失败或拒绝状态</span><span class="sxs-lookup"><span data-stu-id="5a351-116">When your account profile is in a failed or rejected state</span></span>
 
-## <a name="what-to-do-if-your-account-is-suspended"></a><span data-ttu-id="2b0e3-117">如果帐户被挂起，需要做什么</span><span class="sxs-lookup"><span data-stu-id="2b0e3-117">What to do if your account is suspended</span></span>
+## <a name="what-to-do-if-your-account-is-suspended"></a><span data-ttu-id="5a351-117">如果帐户被挂起，需要做什么</span><span class="sxs-lookup"><span data-stu-id="5a351-117">What to do if your account is suspended</span></span>
 
-<span data-ttu-id="2b0e3-118">如果你知道你的帐户是最新的，请检查你的 [合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) 设置，以确认你的活动信息已完成。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-118">If you know that your account is current, check your [Partner profile](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) settings to confirm your active information is complete.</span></span> 
+<span data-ttu-id="5a351-118">如果你知道你的帐户是最新的，请检查你的 [合作伙伴配置文件](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) 设置，以确认你的活动信息已完成。</span><span class="sxs-lookup"><span data-stu-id="5a351-118">If you know that your account is current, check your [Partner profile](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) settings to confirm your active information is complete.</span></span> 
 
-<span data-ttu-id="2b0e3-119">如果你不确定你的帐户是否是最新的，请从 "**合作伙伴中心**" 菜单中选择 "**计费**" 以查看你的帐单。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-119">If you're not sure whether your account is current, select **Billing** from the **Partner Center** menu to check your bill.</span></span> <span data-ttu-id="2b0e3-120">该计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-120">The billing page shows your billing history and trends, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.</span></span>
+<span data-ttu-id="5a351-119">如果你不确定你的帐户是否是最新的，请从 "**合作伙伴中心**" 菜单中选择 "**计费**" 以查看你的帐单。</span><span class="sxs-lookup"><span data-stu-id="5a351-119">If you're not sure whether your account is current, select **Billing** from the **Partner Center** menu to check your bill.</span></span> <span data-ttu-id="5a351-120">该计费页显示你的计费历史记录和趋势、当前月份的结欠余额、指向发票和对帐文件的链接，以及你的最新付款。</span><span class="sxs-lookup"><span data-stu-id="5a351-120">The billing page shows your billing history and trends, the balance due for the current month, links to your invoice and reconciliation files, and your most recent payment.</span></span>
 
-<span data-ttu-id="2b0e3-121">如果帐户已过期，请按照帐单上的说明进行付款，并提交支持请求以恢复帐户。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-121">If your account is overdue, follow the instructions on your bill to arrange payment and then submit a support request to reinstate your account.</span></span> 
+<span data-ttu-id="5a351-121">如果帐户已过期，请按照帐单上的说明进行付款，并提交支持请求以恢复帐户。</span><span class="sxs-lookup"><span data-stu-id="5a351-121">If your account is overdue, follow the instructions on your bill to arrange payment and then submit a support request to reinstate your account.</span></span> 
 
-<span data-ttu-id="2b0e3-122">有关重新激活帐户的更多帮助，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)。</span><span class="sxs-lookup"><span data-stu-id="2b0e3-122">For additional assistance in reactivating your account, contact [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).</span></span>
+<span data-ttu-id="5a351-122">有关重新激活帐户的更多帮助，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)。</span><span class="sxs-lookup"><span data-stu-id="5a351-122">For additional assistance in reactivating your account, contact [Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="2b0e3-123">后续步骤</span><span class="sxs-lookup"><span data-stu-id="2b0e3-123">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="5a351-123">后续步骤</span><span class="sxs-lookup"><span data-stu-id="5a351-123">Next steps</span></span>
 
-- [<span data-ttu-id="2b0e3-124">验证合作伙伴配置文件</span><span class="sxs-lookup"><span data-stu-id="2b0e3-124">Verify your partner profile</span></span>](update-your-partner-profile.md)
+- [<span data-ttu-id="5a351-124">验证合作伙伴配置文件</span><span class="sxs-lookup"><span data-stu-id="5a351-124">Verify your partner profile</span></span>](update-your-partner-profile.md)
 
-- [<span data-ttu-id="2b0e3-125">注册加入新的合作伙伴中心计划时验证你的帐户信息</span><span class="sxs-lookup"><span data-stu-id="2b0e3-125">Verify your account information when you enroll in a new Partner Center program</span></span>](verification-responses.md)
+- [<span data-ttu-id="5a351-125">注册加入新的合作伙伴中心计划时验证你的帐户信息</span><span class="sxs-lookup"><span data-stu-id="5a351-125">Verify your account information when you enroll in a new Partner Center program</span></span>](verification-responses.md)
