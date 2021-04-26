@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441551"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002818"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>还原已挂起的合作伙伴中心帐户 - 了解发生此问题的原因以及对此所采取的措施
-
-本文介绍在合作伙伴中心帐户挂起的情况下该如何做。
 
 **适用于**
 
@@ -28,6 +26,7 @@ ms.locfileid: "106441551"
 
 - 全局管理员
 
+本文介绍在合作伙伴中心帐户挂起的情况下该如何做。
 
 > [!IMPORTANT]  
 > 当你的合作伙伴中心帐户被挂起时，你可以继续管理现有部署、许可证和服务。 但是，在你的帐户再次处于正常状态之前，你将无法授权或转售新的许可证或服务。

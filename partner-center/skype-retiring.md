@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028411"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002852"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>将 Skype for Business Online Plan 1 订阅迁移到更新的 Office 365 版本
+
+**相应的角色**
+
+- 销售代理
 
 Skype for Business Online 计划1将停用，在2018年8月1日生效。 该日期之后，客户将无法再购买新的 Skype for Business Plan 1 订阅，现有订阅在过期后不会自动续订且不会提供订阅选项。 在订阅的详细信息页面上，Skype for Business Online Plan 1 订阅状态已从“[日期] 自动续订”更改为“[日期] 过期”。  
 
@@ -76,3 +80,8 @@ Microsoft 不断向我们的合作伙伴提供新产品和服务。 在这些情
 
 旧订阅已暂停，新订阅将激活。 暂停的订阅在 120 天后将自动取消预配。 不会向客户收取旧订阅的任何额外成本。
 
+## <a name="next-steps"></a>后续步骤
+
+- [顾问：创建并发送试用版邀请，以便客户端尝试使用 Office 365](advisors-create-a-trial-invitation.md)
+- [顾问：通过 Office 365 试用邀请和购买优惠构建客户群](advisors-build-your-business.md)
+- [顾问：创建购买提议](advisor-create-a-purchase-offer.md)

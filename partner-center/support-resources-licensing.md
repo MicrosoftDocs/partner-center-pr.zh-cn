@@ -8,15 +8,18 @@ description: 作为 Microsoft 合作伙伴，你可能会对使用不同的 Micr
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756809"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002887"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>面向 Microsoft 合作伙伴的许可资源指南 
 
+**相应的角色**
+
+- 帮助代理
 
 本文共享可帮助回答合作伙伴许可问题的资源。
 
@@ -94,6 +97,6 @@ ms.locfileid: "101756809"
 ## <a name="next-steps"></a>后续步骤
 
 - [查看更多支持资源](https://partner.microsoft.com/support/?stage=1)
-- [查找合作伙伴](find-a-partner.md)
+- [寻找合作伙伴](find-a-partner.md)
 - [了解或注册 MPN 程序](https://partner.microsoft.com/membership)
 - [了解或注册 CSP 计划](https://partner.microsoft.com/membership/cloud-solution-provider)
