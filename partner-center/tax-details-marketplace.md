@@ -5,13 +5,13 @@ ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/16/2021
-ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
-ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
+ms.date: 04/26/2021
+ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107927741"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067376"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>商业市场发布者的税务详细信息
 
@@ -50,11 +50,11 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 |安提瓜 & 巴布达|埃及|莱索托|赞比亚|
 |阿鲁巴|萨尔瓦多|利比里亚|乌拉圭|
 |阿塞拜疆|赤道几内亚|利比亚|
-|孟加拉|厄立特里亚|中国澳门 |
+|孟加拉国|厄立特里亚|中国澳门 |
 |巴巴多斯|埃塞俄比亚|马达加斯加|
 |伯利兹|福克兰群岛|马拉维|
 |贝宁|法罗群岛|马尔代夫|
-|百慕大群岛|斐济|马里|
+|百慕大|斐济|马里|
 |不丹|加蓬|马绍尔群岛|
 |玻利维亚|加纳|Martinque|
 |博内尔|格鲁吉亚|毛利塔尼亚|
@@ -120,10 +120,43 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 |----------------|-----------------------------|-----------------------|
 |澳大利亚|服务费税|服务费税|
 |加拿大|服务费税|服务费税|
-|墨西哥|空值|服务费税|
+|墨西哥|不适用|服务费税|
 |新西兰|服务费税|服务费税|
 |新加坡|服务费税|服务费税|
 
+## <a name="commercial-marketplace-payout-scenarios"></a>商业市场支出方案
+
+### <a name="end-customer-taxation"></a>最终客户纳税
+
+- 方案1：客户在发布方托管的国家/地区购买产品/服务
+
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="显示发布者支付方式的图表。":::
+
+- 方案二：在 Microsoft 管理的国家/地区购买的客户提供 (发行者国家/地区无关) 
+
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="显示 Microsoft 托管的国家/地区的税务的图表":::
+
+- 方案3：外地发布者向位于 Microsoft 托管国家/地区的欧盟 VAT 注册客户进行交叉边框销售
+
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="显示欧盟-VAT 如何影响税金的图表"::: 
+
+- 方案4：外国出版商向位于 Microsoft 托管的国家/地区的客户进行国内销售，或向瑞士的客户进行非国内销售
+
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="显示增值税处理方式的图表":::
+
+- 方案5：在 Microsoft 托管的国家购买国家/地区购买的客户提供的商店服务费用
+
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="显示商店服务费用如何影响税金的图表":::
+
+### <a name="withholding-tax"></a>预扣税
+
+- 方案一：外部发布方 (，无适用于税务配置文件的任何适用的税务条约权益) 向美国客户销售。 
+
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="显示预缴税金不含税率的图表":::
+
+- 方案二：外国发布方 (适用于税务配置文件的适用税务条约权益到零% 费率) 使用条约向我们的客户进行销售。 
+
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="显示预缴税金与税率的图表":::
 
 ## <a name="next-steps"></a>后续步骤
 
