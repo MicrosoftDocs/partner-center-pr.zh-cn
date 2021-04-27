@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103819"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018146"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>如何以及何时向 Microsoft (SLA 请求服务级别协议) 信用额度
 
-如果提供给客户的服务发生服务中断，你可以从 Microsoft 请求 **服务级别协议 (SLA) 信用额度** 。
+**相应的角色**
+
+- 管理员代理
+- 全局管理员
+
+如果提供给客户的服务发生服务中断，则可以 **(SLA 请求服务级别协议) 信用额度** 。
 
 ## <a name="sla-credit-calculation"></a>SLA 信用计算
 
@@ -51,7 +56,7 @@ Microsoft 的 SLA 信用取决于) 受影响的服务 (。 例如，如果你的
 - 受影响的用户的 () 数量和位置 (（如果适用）) 
 - 尝试在发生事件时解决事件
 - 受影响客户请求支持并随后信用的电子邮件
-- 有关解决服务影响的客户联系信息的支持票证编号和详细信息
+- 有关解决服务影响的客户联系人的支持票证编号和详细信息
 
 
 #### <a name="outage-incident-identifier"></a>停机事件标识符
@@ -63,7 +68,7 @@ Microsoft 的 SLA 信用取决于) 受影响的服务 (。 例如，如果你的
 | EX | Exchange Online |
 | FO | Exchange Online 保护 |
 | SB | Skype for Business Online (以前称为 Lync Online)  |
-| (OS) | Office 订阅 |
+| OS | Office 订阅 |
 | PB | Power BI for Office 365 |
 | SP | SharePoint Online |
 | 4EN-YA-P0U | Yammer 企业 |

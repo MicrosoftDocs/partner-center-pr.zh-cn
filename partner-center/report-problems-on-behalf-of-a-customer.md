@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441942"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018112"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客户报告服务问题-包括何时以及如何执行此操作
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441942"
 
 **相应的角色**
 
-- 间接提供商
+- 全局管理员
 
 如果你的客户遇到了无法解决的服务问题，并满足 [向 Microsoft 上报问题](escalate-problems-to-microsoft.md)中所述的条件，则你的间接提供商可以为他们提供支持票证。 此过程也可用于反映计费问题或争议以及欺诈担忧。
 
@@ -109,7 +109,7 @@ Microsoft 不为商业 marketplace 产品提供产品支持。 你需要与发�
 
 应通过合作伙伴中心来归档服务请求。 它们适用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企业移动性套件。 作为参与云解决方案提供商计划的合作伙伴，你的主要问题会得到优先响应。
 
-CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，Office 365、Microsoft Dynamics CRM Online 和企业移动性套件不对合作伙伴或客户收取单独的支持订阅费用。 Azure 会向你收取费用，但如果你有资格享受签名云支持或其他 Microsoft 合作伙伴网络 (MPN) 权益，你可以使用这些费用来支付费用。
+CSP 支持权益不包括对你自己的合作伙伴租户的支持。 但是，Office 365、Microsoft Dynamics CRM Online 和企业移动性套件不对合作伙伴或客户收取单独的支持订阅费用。 Azure 会向你收取费用，但如果你有权签名云支持或其他 Microsoft 合作伙伴网络 (MPN) 权益，你可以使用这些权益来支付费用。
 
 此权益适用于所有参与云解决方案提供商计划（不管是付费计划还是免费试用计划）的合作伙伴。 帐单和订阅管理支持也作为此程序包的免费组件包含在内。
 

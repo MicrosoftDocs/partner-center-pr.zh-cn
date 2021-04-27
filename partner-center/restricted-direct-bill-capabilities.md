@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623977"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018061"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求
+
+**相应的角色**
+
+- 全局管理员
 
 ## <a name="overview"></a>概述
 
@@ -58,8 +62,8 @@ ms.locfileid: "99623977"
 - 调整现有基于许可证的订阅的许可证计数
 
 - 调整订阅的现有加载项的许可证计数。 
- 
-    >[!Note] 
+
+    >[!Note]
     >不能将新的外接程序添加到现有订阅，因为它被视为新购买。
 
 - 部署新的 Azure 资源，并管理现有 Azure 订阅下的现有 Azure 资源。 这包括通过 Azure Marketplace 和 Visual Studio 订阅提供的资源。
@@ -73,7 +77,7 @@ ms.locfileid: "99623977"
     >[!NOTE]
     >作为从直销伙伴过渡到间接经销商的一部分，如果你已将直接帐单合作伙伴租户注册为间接经销商，则可以为请求间接经销商关系的客户生成邀请。
 
-- 无法创建新的沙盒租户。 每个直销合作伙伴租户都可以创建一个沙箱租户，用于直接计费 API 集成。 如果你以前未创建过此帐户，则在直接获得帐单合作伙伴功能限制后，不允许这样做。  
+- 无法创建新的沙盒租户。 每个直销合作伙伴租户均可为直接计费 API 集成创建一个沙盒租户。 如果你以前未创建过，则在你的直接帐单合作伙伴功能受到限制后，将不允许你这样做。  
 
 ## <a name="next-steps"></a>后续步骤
 

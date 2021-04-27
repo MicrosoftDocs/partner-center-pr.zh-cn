@@ -9,14 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 133df7a2e6fdcf9aad48d3937b04dac33c93122a
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: d6ff07d2c54d006478b290ad53c024a55dea4e18
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549084"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018095"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>如何在合作伙伴中心移除与客户的经销商关系
+
+**相应的角色**
+
+- 全局管理员
 
 本文介绍如何在合作伙伴中心删除与客户的分销商关系。
 
