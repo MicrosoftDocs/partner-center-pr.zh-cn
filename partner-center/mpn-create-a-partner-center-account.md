@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266531"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120794"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>在合作伙伴中心创建 MPN 帐户以管理网络权益和资格
 
+**相应的角色**
+
+- MPN 合作伙伴管理员
 
 如果不熟悉 Microsoft 合作伙伴网络 (MPN) 并且没有 MPN ID，则可以按照[注册说明](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)来开始注册。
 
@@ -58,7 +61,7 @@ ms.locfileid: "107266531"
 
 可以查找公司简介或手动输入公司信息。 如果贵公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 注册，请使用 DUNS ID 查找公司信息。 如果要自行提供公司详细信息，请选择“手动”。
 
-如果你的公司位于亚美尼亚、匈牙利、吉尔吉斯斯坦、摩尔多瓦、乌兹别克斯坦或俄罗斯，并且你手动输入了地址，我们将验证你的地址。      如果你输入地址与验证的地址不同，建议使用验证的地址。 这可确保地址的元素根据该国家/地区的邮政机构定义标准化，格式正确且可送达。  
+如果你的公司位于亚美尼亚、匈牙利、吉尔吉斯斯坦、摩尔多瓦、乌兹别克斯坦或俄罗斯，并且你手动输入了地址，我们将验证你的地址。      如果你输入的地址与验证的地址不同，建议使用验证的地址。 这可确保地址的元素根据该国家/地区的邮政机构定义标准化，格式正确且可送达。  
 
 提供公司信息后，输入主要联系人信息。 主要联系人应是贵公司中我们可以就应用程序事宜与之联系的人员（此联系人可以是你或贵公司中的其他人）。
 
