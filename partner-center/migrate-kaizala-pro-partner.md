@@ -1,20 +1,25 @@
 ---
-title: 将 Kaizala Pro 订阅迁移到 Microsoft365
-description: 了解如何将 Kaizala Pro 订阅迁移到 Microsoft365 或 Office 365 版本。 阅读本文，了解有关如何转换客户的详细信息。
+title: 将 Kaizala Pro 订阅迁移到 Microsoft 365
+description: 了解如何将 Kaizala Pro 订阅迁移到 Microsoft 365 或 Office 365 版本。 阅读本文，了解有关如何转换客户的详细信息。
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175171"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172398"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>将 Kaizala Pro 独立订阅迁移到 Microsoft365 或 Office 365 版本
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>将 Kaizala Pro 独立订阅迁移到 Microsoft 365 或 Office 365 版本
+
+**相应的角色**
+
+- 销售代理
 
 2020年7月1日生效，Microsoft 正在结束 Kaizala Pro 独立服务的销售。 在此日期后，客户将无法再购买新的 Kaizala Pro 订阅，现有的 Kaizala Pro 订阅将不会在过期时自动续订。
 
@@ -63,7 +68,7 @@ C. 取消旧订阅
 
 1. 若要购买新的订阅，请从 " **合作伙伴中心** " 菜单中选择 " **客户**"，选择要移动的客户，然后选择 " **添加订阅**"。
 
-2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择**提交**。
+2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择 **提交**。
 
 你的客户现在应具有新订阅和新订阅，旧的 Kaizala Pro 独立订阅和新的 "目标" 订阅，例如，选项 1-Office 365 企业版 F1。
 
@@ -83,7 +88,7 @@ C. 取消旧订阅
 
 1.  从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 选择要取消其订阅的客户。
 
-2.  在订阅详细信息页面中，将订阅设置为**已暂停**。
+2.  在订阅详细信息页面中，将订阅设置为 **已暂停**。
 
 3.  选择“提交”。
 

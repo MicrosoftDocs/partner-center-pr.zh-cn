@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120743"
+ms.locfileid: "108172417"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>注册在合作伙伴中心赢得的交易，以便以后可以获得更多机会
+
+**相应的角色**
+
+- 引荐管理员
 
 你可以通过提供合同的其他相关信息在合作伙伴中心中注册赢得的交易。 这些信息可以帮助我们未来为你提供更多机会。
 

@@ -8,18 +8,18 @@ description: 作为 Microsoft 合作伙伴，你可能会有关于如何帮助�
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b056d21fd1581c9fa478f720addec0c1d4c3c87
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: df7ae61a88852d6ef2e4c1cb210b689a20235d0c
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040999"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172330"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>查找合作伙伴或解决方案提供商，回答有关程序、许可或客户交易的问题 
 
-**适用于**
+**相应的角色**
 
-- Microsoft MPN 合作伙伴、CSP 合作伙伴和其他人
+- 所有 Microsoft 合作伙伴
 
 本文介绍了 Microsoft 合作伙伴如何查找其他合作伙伴，他们可以利用 Microsoft 产品和服务来帮助他们和客户成功。
 
@@ -39,7 +39,7 @@ Microsoft 合作伙伴生态系统中有多种类型的合作伙伴或分销商�
 
 |要执行此操作  | 阅读本文  |
 |:------------------|:--------------- |
-|查找 CSP 间接提供程序 * (适用于尚未分配间接提供程序的 csp 间接经销商) * | [Microsoft 合作伙伴网络间接提供程序搜索页](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
+|查找 CSP 间接提供程序 *(适用于尚未分配间接提供程序的 csp 间接经销商)* | [Microsoft 合作伙伴网络间接提供程序搜索页](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |查找批量许可计划解决方案提供商或分发服务器  | [Microsoft 解决方案提供程序搜索页](https://www.microsoft.com/solution-providers/home)  |
 |查找 Microsoft 授权的 OEM 通道分发服务器  | [Microsoft 设备合作伙伴中心 OEM 搜索页](https://devicepartner.microsoft.com/connect/distributor)  |
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964436"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172177"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>激活合作伙伴中心外 Microsoft 合作伙伴网络技术权益
 
@@ -27,7 +27,7 @@ ms.locfileid: "106964436"
 
 许多 Microsoft 合作伙伴网络 (MPN) 成员已 [从合作伙伴成员中心迁移到合作伙伴中心](prepare-pmc-pc-migration.md) ，以帮助管理其用户、客户和 MPN 权益。
 
-但是，如果 MPN 的成员资格仍处于伙伴成员中心 (PMC) ，则可能需要帮助你激活一些 MPN 权益。
+如果你的 MPN 成员资格仍处于伙伴成员中心 (PMC) ，你将需要帮助你激活一些 MPN 权益。
 
 ## <a name="activate-technical-benefits-by-region"></a>按区域激活技术权益
 
@@ -43,7 +43,7 @@ ms.locfileid: "106964436"
 |澳大利亚、新西兰和台湾  | [合作伙伴前端支持](https://partner.microsoft.com/support?issueid=300-0042)  |
 |亚太和更大的中国  | 技术支持  |
 
-\***仅适用于欧洲、中东和非洲的合作伙伴：** 电子邮件 Regform 时，包括：合作伙伴 ID、MPN 关联的电子邮件地址、名称、公司名称、电话、城市和国家/地区。 使用 Regform 帮助创建或激活支持协定。 如果存在其他与 MPN 相关的问题，请联系 [合作伙伴前端支持](https://partner.microsoft.com/support?issueid=300-0042)。
+\***仅适用于欧洲、中东和非洲 (EMEA) 的合作伙伴：** 电子邮件 Regform 时，包括：合作伙伴 ID、MPN 关联的电子邮件地址、名称、公司名称、电话、城市和国家/地区。 使用 Regform 帮助创建或激活支持协定。 如果存在其他与 MPN 相关的问题，请联系 [合作伙伴前端支持](https://partner.microsoft.com/support?issueid=300-0042)。
 
 激活权益后，与贵公司核心权益关联的程序联系人将收到该权益的产品支持 Id。 这些 Id 将包括 **访问 ID** 和 **合同 id**。 
 
