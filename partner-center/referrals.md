@@ -9,14 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549203"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120722"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>通过 Microsoft 的引荐来拓展业务
+
+**相应的角色**
+
+- 引荐管理员
 
 许多客户在寻找合格的专家来帮助实现 Microsoft 技术和业务解决方案。 我们在 Microsoft 经常通过营销活动以及内部 Microsoft 销售代理收到客户的直接帮助请求。 客户还使用 [**查找解决方案提供商** 经验](https://www.microsoft.com/solution-providers/search)来查找可以帮助他们满足其业务需求的公司。 
 

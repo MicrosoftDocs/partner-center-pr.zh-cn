@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549186"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120743"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>注册在合作伙伴中心赢得的交易，以便以后可以获得更多机会
 
@@ -37,9 +37,9 @@ ms.locfileid: "105549186"
 - **解决方案值**：将用于交易的云解决方案的总价值。 请务必将与软件和维护费用相关的所有成本包含在内，但不包含可偿还的物料、非定期的自定义费用或由 Microsoft 支付的直接关联的云解决方案提供商许可证费。
 - **部署于**：选择 " **Azure** " 或 " **其他**"。
 - **解决方案将部署到何处？**：选择 **客户租户** 或 **合作伙伴租户**。
-- **合同开始日期**：合同开始的日期。
-- **合同结束日期**：如果合同将于特定日期结束，则选择 " **具有结束日期** 并提供该日期"。 否则，请选择“永久”。
-- **合同签名日期**：由组织和客户签署最终合同的日期。
+- **合同开始日期**：合同开始的日期。 对于即用即付 (PAYG) 交易，使用第一张发票的日期。
+- **合同结束日期**：如果合同将于特定日期结束，则选择 " **具有结束日期** 并提供该日期"。 如果协定没有特定的结束日期，请选择 " **永久**"。 对于即用即付 (PAYG) 交易，使用最后一个或最新的发票日期。
+- **合同签名日期**：由组织和客户签署最终合同的日期。 对于即用即付 (PAYG) 交易，使用第一张发票的日期。
 - **注册联系人**：你的组织中的人员的 **名字**、 **姓氏**、 **电话号码** 和 **电子邮件** ，如果我们需要更多有关此处提供的信息的详细信息，我们可以联系。
 
 完成此页面的所有部分后，选择“注册”。 交易注册随即将移到“正在进行中”的页面。 Microsoft 随后将审查你提供的信息。

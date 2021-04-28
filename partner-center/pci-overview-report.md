@@ -9,31 +9,38 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91075e8aab1759904a1549dd38bee6fb886c1c65
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220485"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120811"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作伙伴中心见解中提供的仪表板报表
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>简要介绍合作伙伴中心见解内提供的仪表板报表
  
-Insights 概述仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入、许可证等。您可以在 "概述" 报表中直观显示以下图表。
+**相应的角色**
 
-- “摘要”  
+- 全局管理员
+- 管理员代理
+- 报表查看器
+- 主管人员报表查看器
+
+Insights 概述仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入和许可证。 您可以在 "概述" 报表中直观显示以下图表。
+
+- 总结  
 - 客户、订阅和许可证的地理分布  
 - 客户增长趋势 
 - 订阅增长趋势 
 - Azure 使用收入增长趋势 
 - 许可证增长趋势 
 
-## <a name="summary"></a>“摘要”
+## <a name="summary"></a>总结
 
 此摘要包括有关客户、Azure 消耗收入 (ACR) 、销售订阅、活动订阅和部署的许可证的信息。 
 
 :::image type="content" source="images/pci/summary.png" alt-text="汇总许可证":::
 
-有关摘要的每个部分的详细信息，请参阅下文。
+下面是有关摘要的每个部分的详细信息。
 
 ### <a name="customers"></a>客户
 
@@ -45,7 +52,7 @@ Insights 概述仪表板提供关键绩效指标的快照视图，例如客户�
 
 ### <a name="azure-consumed-revenue-acr"></a>Azure 消耗收入 (ACR) 
 
-摘要上的 **Azure 消耗收入 (ACR) ** 部分包括：
+摘要上的 **Azure 消耗收入 (ACR)** 部分包括：
 
 - 在 US $) 中，Azure 消耗的总收入 (在所选日期范围内。
 - 在所选日期范围内，属性化 ACR (在 US $) 增长或拒绝百分比。
@@ -80,7 +87,7 @@ Insights 概述仪表板提供关键绩效指标的快照视图，例如客户�
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>客户、订阅和许可证的地理分布
 
-此视图是按客户所在国家/地区的客户、订阅和许可证的地理分布。 单击 "其他" 选项卡可查看地图上的每个见解。 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按地图上的 "主页" 按钮，还原到原始视图。 单击每个选项卡 (例如 "客户"、"订阅") 显示每个国家/地区的指标值以及该国家/地区的总百分比。  
+此视图是按客户所在国家/地区的客户、订阅和许可证的地理分布。 选择不同的选项卡，查看地图上的每个见解。 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按地图上的 "主页" 按钮，还原到原始视图。 单击每个选项卡 (例如，"客户"、"订阅") 显示每个国家/地区的指标值以及该国家/地区的总百分比。  
 
 :::image type="content" source="images/pci/geosummary.png" alt-text="地理汇总":::
 

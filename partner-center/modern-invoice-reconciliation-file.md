@@ -8,14 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103768"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120709"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性采购对帐文件字段
+
+**相应的角色**
+
+- 帐户管理员
+- 计费代理
 
 ## <a name="using-the-recon-file"></a>使用侦测文件
 下表提供了针对 CSP 一次性购买的对帐文件中的字段的说明和示例值。
@@ -48,7 +53,7 @@ ms.locfileid: "106103768"
 | 货币 | 你的帐单在客户货币的上下文中生成。 这意味着，如果你是与使用不同的可结算货币的客户进行交易的合作伙伴，那么你将收到每种客户货币类型的发票。  | *EUR* |
 | PriceAdjustmentDescription | 单位价格调整的原因。 这是主要原因，但并不局限于确定有效单价。 | *["15.0% 合作伙伴获得的服务信用额度"]* |
 | PublisherName | 产品发布者。  | *Microsoft* |
-| PublisherId | 合作伙伴中心用来标识发布者的唯一标识符。 | *\N\N* |
+| PublisherId | 合作伙伴中心用来标识发布者的唯一标识符。 | *NA* |
 | SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。 此列是与 OfferName 相同的字段。 | *Azure 计划* |
 | SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 不用于对帐。 请注意，此标识符不同于合作伙伴管理控制台上的订阅 ID。 | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
 | ChargeStartDate | 订阅的计费周期的开始日期。 | *9/1/2020* |
@@ -58,12 +63,12 @@ ms.locfileid: "106103768"
 | Unittype.pixel 度量 | 计量计量器的单位类型。 | *1 GB/月* |
 | AlternateId | 引用的订单行项的备用 ID。 | *6dc5c039750a* |
 | BillableQuantity | 要计费的总数量。  | *0.005001* |
-| BillingFrequency | 在购买时选择的计费计划。 | *\N\N*  |
+| BillingFrequency | 在购买时选择的计费计划。 | *NA*  |
 | PricingCurrency | 价目表中的货币。 | *USD* |
 | PCToBCExchangeRate | 定价货币应用于计费货币的汇率。 | *0.846202666* |
 | PCToBCExchangeRateDate | 确定计费货币的定价货币的日期。 | *2020/9/30* |
 | MeterDescription | 计量说明。  | *表-存储 (GB/月) 的 LRS 数据* |
-| ReservationOrderId | 预订订单 Id。 | *E21A6344E398FFC1C4D7...* |
+| ReservationOrderId | 预订订单 ID。 | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | 信用说明。 | *Azure 消费信用额度* |
 
 >[!NOTE]

@@ -9,20 +9,27 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220495"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120828"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>合作伙伴中心见解中的客户仪表板报表
 
-客户仪表板显示已获取云产品（如 Office、Azure、Dynamics 等）的客户的数据，你或使用它来部署和管理其租户中的这些产品。 
+**相应的角色**
+
+- 全局管理员
+- 管理员代理
+- 报表查看器
+- 主管人员报表查看器
+
+客户仪表板显示你的客户的数据，这些客户已获得 Office、Azure、Dynamics 等云产品，或者你可以使用它在其租户中部署和管理这些产品。 
  
 客户仪表板包含以下部分： 
 
-- “摘要”  
+- 总结  
 - 客户的地理分布 
 - 客户添加/改动趋势 
 - 按合作伙伴地点、客户群、销售渠道、合作伙伴归属类型分类的客户分销 
@@ -30,11 +37,11 @@ ms.locfileid: "89220495"
 - 按合作伙伴地点、客户群、定价模型、合作伙伴归属类型分类的客户分布趋势 
 - 活动客户趋势 
 
-## <a name="summary"></a>“摘要”
+## <a name="summary"></a>总结
 
 "摘要" 部分提供了与客户相关的各种 Kpi 的快照视图，例如客户、活动客户、订阅、添加的客户、客户改动和每个产品的客户。 页面级筛选器适用于每个部分。
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="客户摘要 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
+:::image type="content" source="images/pci/customerproduct.png" alt-text="&quot;客户摘要&quot; 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
 
 ### <a name="customers"></a>客户
 
@@ -56,7 +63,7 @@ ms.locfileid: "89220495"
 
 ### <a name="customers-churned"></a>客户改动
 - 所选时间段内每个月改动的所有客户的计数。 如果客户不具有具有活动状态的单一订阅，则会被视为丢失。 
-- 所选日期范围内改动的客户百分比 
+- 所选日期范围内改动的客户的百分比 
 - 微图显示了改动在所选时间段内的客户的月趋势 
  
 ### <a name="customers-by-products"></a>按产品的客户
@@ -77,7 +84,7 @@ ms.locfileid: "89220495"
 
 ## <a name="customer-distribution"></a>客户分发
 
-你的 MPN 位置、客户细分市场、销售渠道/Azure 定价模型和归属类型 (（例如 DPOR、) ）的当前客户的细分。 单击图表上方的各个选项卡，按这些类别查看细目。 通过选择/取消选择特定维度，可以通过选择图例项来重新生成图表。 
+你的当前客户通过你的 MPN 位置、客户细分市场、销售渠道/Azure 定价模型以及归属)  (的细分。 选择图表上方的各个选项卡，按这些类别查看细目。 通过选择/取消选择特定维度，可以通过选择图例项来重新生成图表。 
 
 ## <a name="customers-by-products"></a>按产品的客户
 
@@ -87,9 +94,9 @@ ms.locfileid: "89220495"
 
 ## <a name="customer-distribution-trend"></a>客户分布趋势 
 
-在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。 单击图表中的相应选项卡，按这些类别查看趋势。 X 轴表示所选日期范围的月份，Y 轴包含所选类别 (选项卡选择) 的客户计数。 您可以将鼠标悬停在图表列上以查看每个堆栈的细分情况值。 您可以在图表顶部利用滑块来放大到特定时间段。   
+在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。 选择图表中的各个选项卡以查看这些类别的趋势。 X 轴表示所选日期范围的月份，Y 轴包含所选类别 (选项卡选择) 的客户计数。 您可以将鼠标悬停在图表列上以查看每个堆栈的细分情况值。 您可以在图表顶部利用滑块来放大到特定时间段。   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="客户分发趋势 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="&quot;客户分发趋势&quot; 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
 
 ## <a name="active-customers"></a>活动客户
 

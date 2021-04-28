@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528609"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120760"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
+
+**相应的角色**
+
+- 全局管理员
 
 公司的位置决定了市场。 市场包括区域和/或国家/地区，你可以在其中销售云解决方案提供商 (CSP) 计划产品。
 
@@ -26,7 +30,7 @@ ms.locfileid: "107528609"
 
 ## <a name="azure-plan-for-csp-region-availability"></a>Azure 计划 CSP 区域可用性  
 
-适用于 csp 的 azure 计划在比用于 CSP 的 Azure 软件更少的区域中提供。  请参阅  [购买 azure 计划](purchase-azure-plan.md) 以查看 azure 计划的区域可用性的最新更新。 
+用于 csp 的 Azure 计划在比用于 CSP 的 Azure 软件更少的区域中提供。 有关 Azure 计划的区域可用性的最新更新，请参阅 [购买 azure 计划](purchase-azure-plan.md)。
 
 >[!IMPORTANT]
 > 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。

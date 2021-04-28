@@ -9,14 +9,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490605"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120777"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板的基于角色的访问控制
+
+**相应的角色**
+
+- 全局管理员
+- 管理员代理
+- 报表查看器
+- 主管人员报表查看器
 
 Insights 仪表板使用合作伙伴中心中的两个新角色来管理员工对报表的访问-Executive 报表查看器和报表查看器。  Executive 报表查看器角色中的用户可以访问所有报表数据集，而报表查看器角色中的用户将无法访问敏感数据集，例如收入和客户/员工个人数据。  
 
