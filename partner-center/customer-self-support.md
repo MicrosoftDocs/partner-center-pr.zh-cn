@@ -9,33 +9,36 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114346"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284173"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>通过 Microsoft Office 365 管理中心或 Azure 门户的客户自助支持
 
 **适用于**
 
--  合作伙伴中心
--  Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
+
+**相应的角色**
+
+- 支持人员代理
 
 客户可登录其自己的 Microsoft Office 365 管理中心或 Azure 门户来管理自己的帐户：
 
--   在消息中心中查看产品内通讯和通知，如服务运行状况通知。
+- 在消息中心中查看产品内通讯和通知，如服务运行状况通知。
 
--   执行所有服务配置和管理任务，就像它们是直接通过 Microsoft 购买的。 这包括配置 Exchange Online、SharePoint Online、Skype for Business 或他们购买的其他服务。
+- 执行所有服务配置和管理任务，就像它们是直接通过 Microsoft 购买的。 这些任务包括配置 Exchange Online、SharePoint Online、Skype for Business 或他们购买的其他服务。
 
 若要购买其他订阅或取消其订阅，客户应联系他们的云解决方案提供商合作伙伴。 客户不能直接通过 Microsoft 更改他们自己的订阅。
 
 当客户需要有关产品的帮助时，他们可以在[支持](https://partnercenter.microsoft.com/partner/support)中查找产品资源。 我们鼓励合作伙伴首先将其客户指引向这些资源。
 
- 
+ 
 
- 
+ 
 
 
 

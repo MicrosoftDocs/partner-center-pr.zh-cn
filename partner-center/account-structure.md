@@ -9,33 +9,31 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768663"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284156"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作伙伴中心为 MPN 合作伙伴提供两个级别的帐户
-
 
 **相应的角色**
 
 - 帐户管理员
-- 企业档案管理员
-
+- 全局管理员
 
 你的公司在合作伙伴中心有两个级别的帐户。
 
-## <a name="the-top-level-is-the-partner-global-account-pga"></a>顶层是 (PGA) 的合作伙伴全局帐户。
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>顶级帐户是 (PGA 的合作伙伴全局帐户) 
 
 - 合作伙伴全局帐户包含公司的法律企业地址和主要联系人。 
-- 从 "**设置**  ->  " "**组织配置文件**"-"**法律配置** 文件" 查看合作伙伴全局帐户的详细信息。
+- 从 "**设置**" "  >  **组织配置文件**" "  >  **法律配置文件**" 查看合作伙伴全局帐户的详细信息。
 - 详细信息还将包含合作伙伴全局帐户 MPN ID。 
 - PGA 是公司的父项，并不用于与激励计划或云解决方案提供商相关联。 
 - 应将位置用于此类关联。
 
-## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>第二级帐户是名为 "伙伴位置帐户" (PLA) 的位置帐户。
+## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>第二级帐户是名为 "合作伙伴位置帐户" (PLA 的位置帐户) 
 
 您的 PGA 下可能有更多的业务位置。 每个位置都有其自己的 MPN ID 或合作伙伴位置帐户 (PLA) 。 在激励计划中，使用 location MPN ID 进行交易业务和注册。
 

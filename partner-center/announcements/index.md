@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/22/2021
-ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
-ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
+ms.date: 04/27/2021
+ms.openlocfilehash: 935aef8dd3b19462c162911c893a49c3d6c7d337
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107917610"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172415"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "107917610"
 
 |**类别**|**2021 年 4 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[合作伙伴中心 API Swagger 文档的新位置](2021-april.md#9)|4 月 26 日|
 |功能|[云解决方案提供商 (CSP) 软件重现期策略和下载链接到期通知](2021-april.md#8)|4 月 21 日|
 |发展你的业务|[开放许可计划：将经销商转换到云解决方案提供商 (CSP) 计划](2021-april.md#7)|4 月 19 日|
 |功能|[现已推出：全球促销就绪指南](2021-april.md#6)|4 月 16 日|

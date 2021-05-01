@@ -9,14 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768680"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284445"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>将基于许可证的客户从 & 合作伙伴的其他渠道迁移到云解决方案提供商计划
+
+**相应的角色**
+
+- 帐户管理员
+- 销售代理
+- 计费代理
 
 如果你的客户希望聘请多个合作伙伴、将订阅转给其他合作伙伴或管理在其他地方购买的订阅，你可以手动移动它们。 你还可以通过其他渠道将客户移动到合作伙伴中心。
 

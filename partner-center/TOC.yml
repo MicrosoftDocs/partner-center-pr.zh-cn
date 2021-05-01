@@ -151,6 +151,8 @@
     - name: CSP 协议、价目表和产品/服务
       href: csp-documents-and-learning-resources.md
       displayName: csp
+    - name: 注册 ID 号信息
+      href: reg-number-id.md
     - name: CSP 区域市场和货币
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'

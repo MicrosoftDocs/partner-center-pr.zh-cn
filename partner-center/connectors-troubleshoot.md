@@ -8,16 +8,16 @@ description: 了解有关使用共同销售连接器的常见问题的解答。 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354536"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284207"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>联合销售引荐连接器疑难解答
 
-**适用对象：**
+**适用于**
 
 - Dynamics 365 CRM
 - Salesforce CRM
@@ -39,7 +39,7 @@ ms.locfileid: "97354536"
 
 3. 合作伙伴卖方是否需要特殊角色才能在合作伙伴中心工作？
  
-必须为合作伙伴卖方分配 "引用管理员" 角色。 有关详细信息，请参阅以下 [权限概述) # B1 创建用户帐户) 。
+必须为合作伙伴卖方分配 "引用管理员" 角色。 有关详细信息，请参阅 [权限概述](create-user-accounts-and-set-permissions.md)。
 
 4. 需要首先在 CRM 环境中设置哪些字段？ 
 
@@ -131,7 +131,7 @@ E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合�
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>有关运行/维护的问题和解答
 
-1. 如果在自动执行流程的过程中出现故障，如何排查问题？
+1. 如何排查电源自动流执行过程中的故障？
 
 若要确保电源自动流按预期运行，并在执行过程中排除故障，请参阅 [修复流故障](/power-automate/fix-flow-failures)。
 
@@ -163,7 +163,7 @@ E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合�
 
 - 确保在 Salesforce 环境中配置了参考货币字段。 
 
-4. 如果连接器断开连接并且错过了引用同步，应该怎么做。 
+4. 如果连接器断开连接并且错过了引用同步，应该怎么办？
 
 下面是一些你可以尝试的选项：
 
@@ -191,7 +191,7 @@ E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合�
 
 若要创建共同销售引用，你需要一个 Microsoft 共同销售好的解决方案。 
 
-8. 当你看到在合作伙伴中心创建的共同销售机会（即使没有流错误）时，你应该怎么办：
+8. 当你看到在合作伙伴中心创建的共同销售机会（即使没有流错误）时，应该怎么办？
 
 请执行以下操作：
 
@@ -199,9 +199,9 @@ E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合�
 
 - 如果调用了流，请检查所有调用的流，并识别将更新 CRM 的流运行。 你可以执行这些操作，并验证其是否更新了 CRM 或遇到了问题。
 
-- 请查看合作伙伴中心的 *新交易**，查看其是否已用 CRM ID 填充。
+- 检查合作伙伴中心的 **新交易** ，查看其是否已用 CRM ID 填充。
 
-- 请确保在合作伙伴中心，交易不会意外地被视为 "赢单" 或 "丢失"。
+- 请确保交易不会因合作伙伴 **中心的****赢单** 而意外地结束。
 
 ## <a name="next-steps"></a>后续步骤
 

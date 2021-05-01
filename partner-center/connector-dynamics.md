@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768765"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284326"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>用于 Dynamics 365 CRM 概述的共同销售连接器
 
-### <a name="appropriate-roles"></a>相应的角色
+**相应的角色**
 
 - 引荐管理员
 - CRM 上的系统管理员或系统定制员
@@ -33,7 +33,7 @@ ms.locfileid: "104768765"
 |**主题**   |**详细信息**   |**链接**   |
 |--------------|--------------------|------|
 |Microsoft 合作伙伴网络 (MPN) ID |需要一个有效的 MPN ID。|[加入合作伙伴网络](https://partner.microsoft.com/)|
-|合作销售就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)|
+|已做好联合销售准备|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)|
 |合作伙伴中心帐户|与合作伙伴中心租户关联的 MPN ID 必须与共同销售解决方案关联的 MPN ID 相同。 在部署连接器之前，请确认你可以在合作伙伴中心门户中看到共同销售的引用。|[管理帐户](create-user-accounts-and-set-permissions.md)|
 |合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员。|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)|
 |Dynamics 365 CRM|CRM 用户角色是系统管理员或系统定制员。|[在 Dynamics 365 中分配角色](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
@@ -67,7 +67,7 @@ ms.locfileid: "104768765"
 
 ## <a name="test-before-you-go-live"></a>投入之前测试
 
-在生产环境中安装、配置和自定义电源自动解决方案之前，请确保在过渡 CRM 实例上测试解决方案。 你需要：
+在生产环境中安装、配置和自定义电源自动解决方案之前，请确保在过渡 CRM 实例上测试解决方案。 你将需要：
 
 - 在过渡环境 CRM 实例上安装电源自动化解决方案。
 - 在过渡环境中配置和自定义电源自动化解决方案。
@@ -110,7 +110,7 @@ ms.locfileid: "104768765"
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="显示编辑连接的屏幕截图。":::
 
-1. 通过选择省略号图标逐个编辑每个连接。 添加相关连接。
+1. 通过选择省略号图标，分别编辑每个连接。 添加相关连接。
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="显示连接的屏幕截图。":::
 

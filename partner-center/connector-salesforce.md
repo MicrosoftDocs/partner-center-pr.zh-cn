@@ -8,16 +8,16 @@ description: 将合作伙伴中心的推荐与 Salesforce CRM 同步。 然后�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960945"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284377"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>用于 Salesforce CRM 的联合销售连接器 – 概述
 
-### <a name="appropriate-roles"></a>相应的角色
+**相应的角色**
 
 - 引荐管理员
 - CRM 上的系统管理员或系统定制员
@@ -31,7 +31,7 @@ ms.locfileid: "97960945"
 |**主题**   |**详细信息**   |**链接**   |
 |--------------|--------------------|------|
 |Microsoft 合作伙伴网络 ID |需要一个有效的 MPN ID|加入 [MPN](https://partner.microsoft.com/)|
-|合作销售就绪|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|已做好联合销售准备|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |合作伙伴中心帐户|与合作伙伴中心租户关联的 MPN ID 必须与共同销售解决方案关联的 MPN ID 相同。 在部署连接器之前，请确认你可以在合作伙伴中心门户中看到共同销售的引用。|[管理帐户](create-user-accounts-and-set-permissions.md)|
 |合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM 用户角色是系统管理员或系统定制员|[在 Salesforce CRM 中分配角色](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
@@ -39,7 +39,7 @@ ms.locfileid: "97960945"
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>为 Microsoft 自定义字段安装 Salesforce 包 
 
-若要跨合作伙伴中心和 Salesforce CRM 同步检索，自动解决解决方案需要清楚地识别 Microsoft 特定的引用字段。 此分界为合作伙伴卖方团队提供了决定他们要与 Microsoft 共享以共同销售的推荐的功能。
+若要跨合作伙伴中心和 Salesforce CRM 同步检索，自动解决解决方案需要清楚地识别特定于 Microsoft 的引用字段。 此分界为合作伙伴卖方团队提供了决定他们要与 Microsoft 共享以共同销售的推荐的功能。
 
 1. 在 Salesforce 中，激活 **注释** 并将其添加到机会相关列表。 
 [引用](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
@@ -49,14 +49,12 @@ ms.locfileid: "97960945"
     - 根据需要定义设置。
 [引用](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. 在 Salesforce 中，使用下面的包安装程序安装自定义字段和对象。
-  
-请访问 [此处](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) ，将包安装到任何公司。
+3. 在 Salesforce 中，使用 [包安装程序](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV)安装自定义字段和对象。 使用此可将包安装到任何公司。
 
+>[!NOTE]
+>如果要安装到沙盒，则必须将 URL 的初始部分替换为 http://test.salesforce.com
 
-注意：如果要安装到沙盒，则必须将 URL 的初始部分替换为 http://test.salesforce.com
-
-4. 在 Salesforce 中，将 Microsoft 解决方案添加到 **机会** 相关列表。 添加后，单击 **扳手** 图标并更新属性
+4. 在 Salesforce 中，将 Microsoft 解决方案添加到 **机会** 相关列表。 添加后，选择 **扳手** 图标并更新属性
 
 ## <a name="best-practice-test-before-you-go-live"></a>最佳做法：在上线之前进行测试
 
@@ -78,7 +76,7 @@ ms.locfileid: "97960945"
 
 3. 选择左侧导航栏上的 " **解决方案** "。
 
-4. 单击顶部菜单上的 " **打开 AppSource** " 链接。
+4. 在顶部菜单中选择 " **打开 AppSource** " 链接。
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="打开 AppSource":::
 
@@ -86,7 +84,7 @@ ms.locfileid: "97960945"
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. 单击 " **立即获取** " 按钮，然后 **继续**。
+6. 选择 " **立即获取** " 按钮，然后 **继续**。
 
 7. 这将打开可在其中选择要安装应用程序的 Salesforce CRM 环境的页面。  同意条款和条件。
 
@@ -135,7 +133,7 @@ ms.locfileid: "97960945"
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="开始连接器编辑":::
 
-2. 通过选择三个点图标，逐个编辑每个连接。 添加相关连接。
+2. 通过选择三个点图标，分别编辑每个连接。 添加相关连接。
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="编辑连接器":::
 
@@ -177,7 +175,7 @@ ms.locfileid: "97960945"
 
 8. 现在，选择 "合作伙伴中心 Webhook 注册 (内幕预览版") "Power 自动流"，然后选择 " **运行**"。
 
-9. 确保在右侧窗格中打开 "运行流" 窗口，然后单击 " **继续**"。
+9. 确保在右侧窗格中打开 "运行流" 窗口，并选择 " **继续**"。
 
 10. 输入以下详细信息：
 
@@ -209,9 +207,9 @@ Webhook 现在可以侦听以创建和更新事件。
 
 2. 若要为创建事件自定义 CRM 字段映射，请选择 **新的共享机会，然后选择 "是"**。 选择 " **是"** ，然后 **在 CRM 中展开 "创建新机会**"。 您可以使用字段映射指南来编辑此部分中的映射。
 
-   1. 若要为更新事件自定义 CRM 字段映射，请单击步骤 " (范围) 同步潜在客户或机会"。
+   1. 若要为更新事件自定义 CRM 字段映射，请选择步骤 " (范围) 同步潜在客户或机会"。
 
-   2. **如果是对机会的更新，** 请选择 "是"。 **如果是 "是"** ，请选择 "子步骤"，然后展开 "**如果伙伴中心和 CRM 中的机会对象之间存在差异"，然后** 展开。  
+   2. **如果是对机会的更新，** 请选择 "是"。 选择 " **是"** ，然后展开 " **如果合作伙伴中心和 CRM 中的机会对象之间的差异"，然后** 展开。  
 
    3. **如果是，则选择 "是"** ，然后选择 "**更新现有机会**
 

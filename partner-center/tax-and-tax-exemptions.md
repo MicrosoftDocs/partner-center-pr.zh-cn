@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247672"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284462"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>在 CSP 计划中，按地区或国家/地区为你的国家/地区或国家/地区
 
+**相应的角色**
+
+- 全局管理员
 
 云解决方案提供商 (CSP) 计划是一个侧重于产品合作伙伴转售的销售渠道。 因此，Microsoft 不会始终需要为合作伙伴发票支付销售税。 这些规则依国家和/或地区的不同而异。 您可以查看 [特定于国家/地区的特定于国家/地区的详细信息](#country-and-region-tax-details)。
 
@@ -36,9 +39,9 @@ ms.locfileid: "102247672"
 
 对于 BC PST 例外，如所述，将免税视为豁免。 提供 BC PST#，或填写完整并已签名的“一般免税证书”。
 
-### <a name="united-states"></a>United States
+### <a name="united-states"></a>美国
 
-美国的所有经销商都需要在接受 Microsoft 经销商协议后 30 天内提供免增值税文档。 每个州都具有不同的转售免税证书。 请与税务顾问合作，确定与你的合法地址和注册州相关的内容。
+美国的所有经销商都需要在接受 Microsoft 经销商协议后 30 天内提供免增值税文档。 每个州都具有不同的转售免税证书。 使用你的税务顾问来确定与你的法律地址和注册状态相关的内容。
 
 这可能包括经销豁免证书，这些证书可跨多个状态进行，如 " *优化销售* " 和 " *使用豁免的税务协议证书* " 或 " *MTC 统一销售 & 使用免税证书*"。
 

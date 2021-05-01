@@ -9,18 +9,20 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
-ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
+ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97893200"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284496"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>将客户的 Azure 计划订阅转移到不同的合作伙伴
 
 **相应的角色**
 
-- 云解决方案提供商 (CSP) 计划中的合作伙伴
+- 帐户管理员
+- 销售代理
+- 计费代理
 
 本文介绍了客户如何在 Azure 计划下从一个云解决方案提供商 (CSP) 切换到另一个云解决方案。
 
@@ -42,7 +44,7 @@ ms.locfileid: "97893200"
 - 只要产品通过 Marketplace 资格检查，就会传输第三方 marketplace 产品。
     - 无特殊折扣或区域限制
     - 产品不是基于订阅的
-    - 将来的合作伙伴应与发布者合作，以确保它们位于产品的允许列表中
+    - 将来的合作伙伴应与发布者合作，以确保它们位于产品部署的允许列表
     - 如果未满足所有这些条件，则应取消应用商店产品、已转让的 Azure 订阅，然后重新购买具有新合作伙伴的 Marketplace 产品
 
 **先决条件：**
@@ -90,7 +92,7 @@ ms.locfileid: "97893200"
 
 客户的当前合作伙伴的管理员代理将收到一封电子邮件，指出其客户正在请求传输其订阅：
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="检查":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="审校":::
 
 查看并接受合作伙伴中心的传输请求窗体，以完成订阅转移。
 

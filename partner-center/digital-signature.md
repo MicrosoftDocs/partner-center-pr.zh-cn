@@ -9,20 +9,24 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031950"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284292"
 ---
 # <a name="view-digitally-signed-invoices"></a>查看数字签名发票
 
 **适用于**
 
-- 合作伙伴中心
 - 合作伙伴中心印度
 
+**相应的角色**
+
+- 帐户管理员
+- 计费代理
+- 销售代理
 
 印度的合作伙伴现在可以看到，Microsoft 已对发票进行数字签名。 必须使用 Adobe Acrobat Reader Document Cloud (DC) 来查看签名。
 
@@ -36,15 +40,17 @@ ms.locfileid: "92031950"
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。":::
 
-3. 单击该签名。 将显示表明有效性的证书。
+3. 选择签名。 将显示表明有效性的证书。
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。" 以查看有关签名有效性的详细信息。
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="具有 &quot;已授权签字字段和签名验证状态&quot; 对话框的已签名发票，其中包含详细信息，签名属性选项，取消选项。"::: 
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。"::: 
+4. 选择 " **签名属性** " 以查看有关签名有效性的详细信息。
+
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="签名属性详细信息视图显示有关对文档进行签名的人员、位置、验证过程和签名者的证书的信息。"::: 
 
 4. 你还可以确保证书路径正确，并且该证书是受信任的证书。
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="带有有效签名通知横幅的示例发票，其中显示绿色的复选标记签名和短语（已签名，所有签名都有效）。":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="&quot;证书查看器&quot; 对话框显示多个选项卡，其中包含有关证书及其整个颁发链的详细信息。":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>有关发票和数字签名的其他信息
 

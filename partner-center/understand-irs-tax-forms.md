@@ -8,14 +8,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712811"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284428"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
+
+**相应的角色**
+
+- 全局管理员
 
 你可能会收到来自 Microsoft 每年的一个或多个税务表格。 这取决于您所在的位置以及您收到的销售或付款的数量。 Microsoft 需要发出这些表单并呈报美国国税局 (IRS)。
 
@@ -69,7 +73,7 @@ ms.locfileid: "104712811"
 | **问题** | **答案** |
 |---|---|
 | **我收到了 Microsoft 的窗体 1042-S。它的作用是什么？** | 因为我们向你支付了应向美国税务机构申报并已预扣税的收入，所以 Microsoft 向你提供了一份或多份 1042-S 表单。  1042-S 表单用于这种申报要求。 | 
-| **我应该如何处理这些表单？** | 一般来说，你不需要采取具体的操作。 如果你想向当地税务机构申请任何形式的税收抵免，则 1042-S 表单可能对你很有用。  请咨询自己的税务顾问，以获取有关本主题的详细信息。 | 
+| **我应该如何处理这些表单？** | 一般来说，你不需要采取具体的操作。 如果你想向当地税务机构申请任何形式的税收抵免，则 1042-S 表单可能对你很有用。  请咨询自己的税务顾问，获取有关此主题的详细信息。 | 
 | **我已经填写了 W8 表单，为什么我收到的付款中仍然预扣了税款？** | 如果以下情况之一，将会预扣税款：<br/><br/>1. 未正确完成 W8 的税务条约部分，或 <br/>2. 你所在的国家/地区不具有美国的退税。<br/><br/>你可以随时访问合作伙伴中心以提交更新的 W8 表单。<br/><br/> **注意：** 并非所有收入都受预缴税金的限制。 | 
 | **我提交了包含有效条约信息的更新的 W8 表单。Microsoft 是否可以向我退款已预扣的税费？** | 一旦税款被代扣，就无法退还。 联系你的税务顾问，以讨论你是否可以声明这些税收的本地信用额度，或者是否可以从 IRS 获得退款。 | 
 | **在 1042-S 表单中申报哪些销售？** | 只需申报与 **位于美国且被归类为税款代扣对象的买家** 进行的销售。  所有其他销售均视为无需申报。 | 

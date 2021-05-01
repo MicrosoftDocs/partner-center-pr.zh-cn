@@ -9,14 +9,18 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: 3aacafcbf839ad2e862ef968ca0b2f132c55a825
-ms.sourcegitcommit: 7d1396a832517d5d8dddc45ca29481aac9b8dde5
+ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "107742114"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284479"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>了解技术预售和部署服务 (TPD) 
+
+**相应的角色**
+
+- MPN 合作伙伴管理员
 
 了解你所获得的技术预售和部署服务的 Microsoft 合作伙伴网络 (MPN) 权益，包括咨询、预售协助、咨询时间等。
 
