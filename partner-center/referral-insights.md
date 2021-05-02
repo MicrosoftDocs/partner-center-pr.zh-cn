@@ -9,21 +9,25 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549254"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120845"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作伙伴中心获取引荐见解，并了解引荐状况如何
+
+**相应的角色**
+
+- 引荐管理员
 
 通过引荐中“分析”部分下的“联合销售机会”页面，可查看你的引荐表现如何 。 请定期查看这些指标，以识别趋势或需要关注的领域，并推动业务目标的实现。
 
 若要查看联合销售机会见解数据，请从合作伙伴中心菜单，转到“引荐”>“分析”>“联合销售机会”。
 
 > [!Important]
-> 交易类型筛选器已预先应用了“联合销售”类型，该类型被选择用于所有数据。 若要分析与私人交易相关的数据，请删除此筛选器。
+> 交易类型筛选器已预先应用了“联合销售”类型，该类型被选择用于所有数据。 若要分析与私人交易和合作伙伴引荐交易相关的数据，请删除此筛选器。
 
 ## <a name="apply-filters"></a>应用筛选器
 
@@ -33,10 +37,10 @@ ms.locfileid: "105549254"
 
 - **客户名称**：默认值为“全部”，但你可限制仅查看所选的一名或多名客户的数据。
 - **国家/地区**：默认值为“全部”，但你可限制仅查看所选的一个或多个国家/地区的客户的数据。
-- **交易类型**：默认值为“全部”，但你可限制根据所选信息仅查看联合销售机会或私人交易的数据。
+- **交易类型**：默认值为“联合销售”，但可以选择“全部”，也可以根据你的选择限制仅查看私人交易或合作伙伴引荐交易的数据。
 - **交易方向**：默认值为“全部”，但你可选择限制仅查看“传入”引荐（收到的引荐）或“传出”引荐（发送的引荐）的数据  。
 - **解决方案名称**：默认值为“全部”，但你可选择限制仅查看包含你所选的一个或多个解决方案的引荐的数据。
-- **状态**：默认值为“全部”，但你可选择限制仅查看包含所选的一个或多个引荐状态类型（例如“已接受”、“已拒绝”、“已过期”、“已失去”和“已获得”）的引荐的数据。
+- **状态**：默认值为“全部”，但你可选择限制仅查看包含所选的一个或多个引荐状态类型（例如“已创建”、“已接受”、“已拒绝”、“已过期”、“已失去”和“已获得”）的引荐的数据。
 
 除非下面有说明，否则以下列出的所有图表中的信息将反映所选的日期范围和任何筛选器。 某些部分还允许应用额外筛选器，例如按特定的解决方案进行筛选。
 
@@ -52,19 +56,27 @@ ms.locfileid: "105549254"
 
 ## <a name="conversion-funnel"></a>转化漏斗图
 
-本部分显示一种视觉指示器，它显示你的交易在其生命周期内是如何从一种状态移到另一种状态的。 你可根据交易量查看整个生命周交易额（美元）。 第一部分标记有状态和交易类型，它按类型直观显示交易量或交易额。 还有一个名为“历史引荐”的部分，它显示你对其采取了操作（在为报告所选的时间段内接受/拒绝或将其标记为“已获得”/“已失去”）的交易。 可应用筛选器，在交易的生命周期中跨各个阶段查看交易的进度。
+本部分显示一种视觉指示器，它显示你的交易在其生命周期内是如何从一种状态移到另一种状态的。 你可以根据交易量查看整个生命周并根据这个部分的主透视查看交易额（美元）。 第一部分标记有状态和交易类型，它按类型直观显示交易量或交易额。 还有一个名为“历史引荐”的部分，它显示你对其采取了操作（在为报告所选的时间段内接受/拒绝或将其标记为“已获得”/“已失去”）的交易。 可应用筛选器，在交易的生命周期中跨各个阶段查看交易的进度。
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="显示引荐转化漏斗图的图像。":::
+联合销售的入站交易可以合并为“已接受”、“已拒绝”或“已过期”，因为合作伙伴必须接受或拒绝入站联合销售交易。
+
+:::image type="content" source="images/referrals/inbound.png" alt-text="图片显示入站引荐的状态。":::
+
+如果合作伙伴创建了伙伴引荐、私人和联合销售出站交易，则这些类型的交易会合并为“已创建”。
+
+:::image type="content" source="images/referrals/outbound.png" alt-text="图片显示出站引荐的状态。":::
+
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="显示引荐转化漏斗图的图像。":::
 
 ## <a name="deals-by-geography"></a>按地理位置列出的交易
 
 本部分显示了产生交易的国家/地区，以及每个国家/地区的详细信息。 有一个表视图显示了每个国家/地区的交易详细信息，还有一个地图视图显示了所有国家/地区。 可选择表中的特定国家/地区，或选择地图视图，缩放定位到特定国家/地区。
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="显示引荐的地理分布情况的图像。":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="显示引荐的地理分布情况的图像。":::
 
 ## <a name="deals-by-solutions"></a>按解决方案列出的交易
 
-在此图表中，可查看哪些解决方案正在促成大部分引荐和最高的交易额。 该表有两个透视：“联合销售”和“私人”。
+在此图表中，可查看哪些解决方案正在促成大部分引荐和最高的交易额。 表具有三种透视：联合销售、合作伙伴引荐和私人。
 根据你的透视选择，你可查看按解决方案聚合的交易绩效。
 
 > [!NOTE]
@@ -72,7 +84,7 @@ ms.locfileid: "105549254"
 
 表中显示了其中包含解决方案的全部交易、相应的状态（例如已获得交易、已失去交易、交易已过期），以及已获得和已失去的总交易额（美元）。 表的右侧还有一个交易趋势图，其中根据所选的解决方案显示总交易数和已获交易额（美元）。 默认选择是“所有解决方案”。
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="显示解决方案绩效的图像。":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="显示解决方案绩效的图像。":::
 
 ## <a name="declined--lost-reasons"></a>拒绝和损失原因
 
@@ -89,9 +101,9 @@ ms.locfileid: "105549254"
 - 市场
 - 解决方案
 
-如果选择了交易类型，则可比较联合销售机会和私人交易方面的引荐表现情况。 对于市场和解决方案，可最多选择 3 个不同的选项来比较它们的表现情况。 第一个图是条形图，它将根据主透视（已获得的交易量或交易额）显示数据和月度环比趋势。 条形图右侧还有一个饼图，它显示同一数据的分布情况百分比。
+如果选择了交易类型，则可比较联合销售机会、合作伙伴引荐交易和私人交易方面的引荐表现情况。 对于市场和解决方案，可最多选择 3 个不同的选项来比较它们的表现情况。 第一个图是条形图，它将根据主透视（已获得的交易量或交易额）显示数据和月度环比趋势。 条形图右侧还有一个饼图，它显示同一数据的分布情况百分比。
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="显示比较部分的图像。":::
+:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="显示比较部分的图像。":::
 
 ## <a name="raw-data-table"></a>原始数据表
 

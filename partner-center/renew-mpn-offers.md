@@ -9,18 +9,22 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c0386d6cbaba1094659c76a3bd274d88e4fe948
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 779f785899039765ba4a9da42d3e6bb4a828976d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549101"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018078"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>在续订时段内续订 MPN 产品/服务以获得胜任资格和高级专用化
 
+**相应的角色**
+
+- MPN 合作伙伴管理员
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>新冠肺炎疫情应对措施：Microsoft 合作伙伴网络更新
 
-Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。 有关详细信息，请查看我们的[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
+Microsoft 为届满一年之日 (AD) 在 2021 年 1 月 1 日和 2021 年 6 月 30 日之间的合作伙伴提供了胜任资格扩展（云业务应用程序资格除外）和高级专用化扩展。 有关详细信息，请参阅[合作伙伴博客文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
 
 ## <a name="renewal-reminders"></a>续订提醒
 

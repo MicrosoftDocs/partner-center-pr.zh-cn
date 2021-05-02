@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728923"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823378"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 4 月公告。
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>云解决方案提供商 (CSP) 软件退货期政策和下载链接有效期通知
+
+### <a name="categories"></a>类别
+
+- 日期：2021-04-21
+- 功能
+
+### <a name="summary"></a>摘要
+
+CSP 软件退货期政策和下载链接有效期发生了更改。
+
+### <a name="impacted-audience"></a>影响受众
+
+在 CSP 中购买永久性软件或软件订阅产品/服务的合作伙伴
+
+### <a name="details"></a>详细信息
+
+请注意以下关于通过合作伙伴中心购买永久性软件和软件订阅的重要通知：
+
+#### <a name="software-return-period-policy"></a>软件退货期政策
+
+按照 Microsoft 合作伙伴协议 (MPA) 的规定，从 2021 年 6 月 1 日起，CSP 中的软件产品/服务的退货期将从下单日期后的 60 天更改下单日期后的 30 天。
+
+在提交软件产品/服务的订单后，合作伙伴将有 30 天的时间来提交对该订单的任何修改：
+
+- 任何在 30 天退货期内退回的永久性软件许可证将获得已付购买价格的全额退款。
+
+- 任何在 30 天退货期内退回的软件订购产品将获得已付购买价格的相应比例的退款。
+
+为了跟进我们在 2020 年 12 月和 2021 年 4 月向所有 CSP 合作伙伴发出的关于退货期和其他 MPA 更新的电子邮件，我们发布了此消息。 请参考这些通知，全面详细地了解有关影响 MPA 的更改。
+
+#### <a name="software-download-link-expiry"></a>软件下载链接有效期
+
+从 2021 年 6 月 3 日起，通过合作伙伴中心购买的永久性软件和软件订阅产品的软件下载链接将有一个有效期，从首次下载后的 5 天内有效。 在 2021 年 6 月 3 日之前购买，以及在 2021 年 6 月 3 日当天或以后购买均可适用此有效期。
+
+### <a name="next-steps"></a>后续步骤
+
+查看 [CSP 退货期和下载链接有效期常见问题解答](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)，并向组织中的所有相应团队通知这些更改：
+
+### <a name="questions"></a>是否有任何问题?
+
+如果对这些产品/服务有疑问，请查看相关的 Yammer 社区。
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>开放许可计划：将经销商转换到云解决方案提供商 (CSP) 计划

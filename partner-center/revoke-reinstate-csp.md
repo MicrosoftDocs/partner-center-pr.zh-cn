@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315841"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018181"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢复客户的 Azure CSP 订阅的管理员权限  
 
-**适用角色**
+**相应的角色**
 
 - 全局管理员
 - 管理员代理
@@ -29,7 +29,7 @@ ms.locfileid: "107315841"
 
 在 CSP 中，有两种级别的 Azure 管理员权限。
 
-**租户级管理员权限**（委派的管理员权限）- 云解决方案提供商合作伙伴在与客户建立云解决方案提供商分销商关系时获得这些权限。 委派的管理员权限使解决方案提供商合作伙伴可访问其客户的租户，从而能够执行管理职能，例如添加/管理用户、重置密码和管理用户许可证。
+**租户级管理员权限**（委派的管理员权限）- 云解决方案提供商合作伙伴在与客户建立云解决方案提供商分销商关系时获得这些权限。 借助委派的管理员权限，解决方案提供商合作伙伴可访问其客户的租户，从而能够执行管理职能，例如添加/管理用户、重置密码和管理用户许可证。
 
 **订阅级管理员权限** - 云解决方案提供商合作伙伴在为其客户创建 Azure 云解决方案提供商订阅时获取这些权限。 如果具有这些权限，CSP 合作伙伴便可以完全访问这些订阅，从而能够预配和管理 Azure 资源。
 
@@ -39,7 +39,7 @@ ms.locfileid: "107315841"
 
 1. 登录合作伙伴中心仪表板，然后在合作伙伴中心菜单选择“客户”。
 
-2. 选择合作中的客户，并请求分销商关系。 这会生成一个链接，该链接指向具有租户管理员权限的客户。
+2. 选择合作中的客户，并请求分销商关系。 此操作会生成一个链接，该链接指向具有租户管理员权限的客户。
 
 3. 该客户需要选择链接并批准分销商关系请求。
 
@@ -79,7 +79,7 @@ ms.locfileid: "107315841"
     ```
 
 
-如果需要在资源组级别或资源级别（而不是订阅范围）授予所有者角色权限，可执行以下命令：
+如果要在资源组级别或资源级别（而不是订阅范围）授予所有者角色权限，可执行以下命令：
 
 
 ```powershell

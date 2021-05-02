@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712794"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067501"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>将 Microsoft 认证配置文件 ID (MCID) 关联到 Microsoft 合作伙伴网络 (MPN) 帐户，或取消两者之间的关联
 
@@ -73,9 +73,9 @@ ms.locfileid: "104712794"
 
 管理员首先应验证所使用的电子邮件地址，然后与向其提供了帐户信息的用户联系。
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>用户尝试将其 MCP Learning 帐户与其合作伙伴中心的个人资料相关联，并收到一条消息，指示其关联受到限制。
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>用户尝试将其 MCP Learning 帐户与其合作伙伴中心的个人资料相关联，并收到一条消息，指示其关联受到限制。 例如，“你试图与一个伙伴组织关联。 但我们要求两次关联之间要有 30 天的时间。 你下一次可进行关联的日期是 XXX”
 
-为了防止滥用，每年允许的 MCP 个人关联数有限。 每位用户都可以在其个人资料中检查日期，查看何时可以开始新的关联。 如果用户在该日期之后进行关联时遇到问题，应联系支持人员。  
+为了防止滥用，一个 MCP 的个人每年可以关联 3 次，每次关联之间有 30 天的冷却期，从开始关联时算起。 每位用户都可以在其个人资料中检查日期，查看何时可以开始新的关联。 如果用户在该日期之后进行关联时遇到问题，应联系支持人员。  
 
 ## <a name="how-to-get-support"></a>如何获得支持
 
