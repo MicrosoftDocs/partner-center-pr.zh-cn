@@ -514,6 +514,9 @@
         - name: 购买市场产品/服务
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
+        - name: 管理市场产品/服务中的许可
+          href: csp-commercial-marketplace-licensing.md
+          displayName: csp
         - name: 独立软件供应商的市场专供产品/服务
           href: isv-opt-in.md
         - name: 管理市场产品/服务
