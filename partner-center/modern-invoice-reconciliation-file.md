@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120709"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702784"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性采购对帐文件字段
 
@@ -38,7 +38,7 @@ ms.locfileid: "108120709"
 | MpnId | CSP 合作伙伴的 MPN 标识符。 有关详细信息，请参阅 [如何按合作伙伴列举](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *6034453* |
 | ResellerMpnId | 订阅的记录分销商的 MPN 标识符。 | *6048879* |
 | OrderId | 订单在 Microsoft 计费平台中的唯一标识符。 在联系支持人员时，确定订单可能会很有用。 不用于对帐。 | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | 订单的放置日期。 | *10/3/2020* |
+| OrderDate | 下订单的日期（UTC）。 | *10/3/2020* |
 | ProductId | 产品的唯一标识符。 | *DZH318Z0BNZ5* |
 | SkuId | SKU 唯一标识符。 | *006G* |
 | AvailabilityId | 可用性唯一标识符。 | *DZH318Z08B80* |

@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374377"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328060"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 3 月公告。
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>已更新的 CSP 客户地址验证 API 现可用于测试
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>就绪情况：对云解决方案提供商 (CSP) 客户地址验证 API 的更改将于 6 月上线；测试功能现已可用
 
 ### <a name="categories"></a>类别
 
-- 日期：2021-03-31
-- 功能
+- 日期：2021-04-30
+- 就绪
 
-### <a name="summary"></a>摘要
+### <a name="summary"></a>总结
 
-我们承诺帮助合作伙伴和客户在相互信任的基础上开展其业务，在此过程中，我们将邀请世界各地的合作伙伴测试对 ValidateAddress API 的更改。
+为帮助合作伙伴和客户在相互信任的基础上开展其业务，我们将邀请世界各地的合作伙伴测试对验证地址 API 的更改。
 
 ### <a name="impacted-audience"></a>影响受众
 
-新建客户地址详细信息或更新现有客户地址详细信息的所有 CSP 直接计费合作伙伴和间接提供商
+新建客户地址详细信息或更新现有客户地址详细信息的 CSP 直接计费合作伙伴和间接提供商。
 
 ### <a name="details"></a>详细信息
 
-Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户地址验证提交方法。 今天（2021 年 3 月 31 日）我们引入了对 ValidateAddress API 的更改，我们想邀请你在推出这些更改（2021 年 6 月）之前对其进行测试。 
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户地址验证方法。 从 2021 年 3 月 31 日开始，我们引入了对验证地址 API 的更改，我们已邀请合作伙伴在推出这些更改（2021 年 6 月）之前对其进行测试。
 
-请注意，这些更改仅影响 ValidateAddress API。 CreateCustomer 和 UpdateBillingProfile 这两个 API 不受影响。
+更改仅影响验证地址 API。 创建客户和更新计费配置文件 API 不受影响。
 
 响应将返回以下某个状态消息：
 
-| 状态 | 说明 | 返回的建议地址数 |
-|----------|-------------|-------------------|
-| VerifiedShippable | 地址已经过验证且可送达。 | Single |
-| 已验证 | 已验证地址。 | Single |
-| InteractionRequired | 建议的地址发生了重大更改，需要用户确认。 | Single |
-| StreetPartial | 地址中给出的街道信息不完整，需要更多信息。 | 多个 - 最多 3 个|
-| PremisesPartial | 给出的场所信息（楼栋号、房号等）不完整，需要更多信息。 | 多个 - 最多 3 个 |
-| 多个 | 地址中有多个字段不完整（也可能包括 StreetPartial 和 PremisesPartial）。 | 多个 - 最多 3 个 |
-| 无 | 地址错误。 | 无 |
-| NotValidated | 无法通过验证过程发送地址。  | 无 |
+| 状态     | 说明 |    返回的建议地址数 |
+|-------|---------------|-------------------|
+|Verified shippable | 地址已经过验证且可送达。 | Single |
+|已验证 | 已验证地址。 | Single |
+|Interaction required | 建议的地址发生了重大更改，需要用户确认。 | Single |
+|Street partial | 地址中给出的街道信息不完整，需要更多信息。 | 多个 - 最多 3 个 |
+|Premises partial | 给出的场所信息（楼栋号、房号等）不完整，需要更多信息。 | 多个 - 最多 3 个 |
+|多个 | 地址中有多个字段不完整（也可能包括 street partial 和 premises partial）。 | 多个 - 最多 3 个 |
+|无 | 地址错误。 | 无 |
+|未验证 | 无法通过验证过程发送地址。 | 无 |
 
-提交地址供 ValidateAddress API 验证后，会返回以下响应架构：
+美国邮政编码将返回额外 4 个数字 + 连字符，例如 12345-6789。
+
+提交地址供验证地址 API 验证后，会返回以下响应架构：
 
 ```csharp
 
@@ -103,18 +104,18 @@ public class AddressValidationResponse
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ public class AddressValidationResponse
 
 ### <a name="next-steps"></a>后续步骤
 
-- 与我们的行业专家 (SME) Ali Khaki 分享你的沙盒租户 ID，以加入外部测试，这样你可以开始准备更新。
+- 与行业专家 Ali Khaki 分享你的沙盒租户 ID，以加入外部测试，这样你便可以开始准备更新。
 
 - 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
 
 ### <a name="questions"></a>是否有任何问题?
 
-如果在 Microsoft 运营方面有任何疑问或需要支持，请联系你的合作伙伴 Yammer 支持组。
+如果在 Microsoft 运营方面需要支持，请联系你的合作伙伴 Yammer 支持组。
+
+### <a name="change-log"></a>更改日志：
+
+- 2020 年 3 月 31 日：原始发布日期
+
+- 2021 年 4 月 30 日：示例响应和邮政编码详细信息更新
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>新的 Exchange 管理中心 (EAC) 体验

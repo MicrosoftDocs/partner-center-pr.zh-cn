@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028428"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702801"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
 
@@ -145,7 +145,7 @@ ms.locfileid: "105028428"
 
 有关使用 PayPal 作为付款方式的常见问题：
 
-- **需要哪些 PayPal 设置才能收款？** 确保 PayPal 帐户不会阻止 eCheck 付款。 此设置在 PayPal 的“收款首选项”页中进行管理。 有关更多信息，请参阅 [PayPal 的帐户设置页](https://go.microsoft.com/fwlink/p/?linkid=513139)。
+- **需要哪些 PayPal 设置才能收款？** 确保 PayPal 帐户不会阻止 eCheck 付款。 此设置在 PayPal 的“收款首选项”页中进行管理。 有关更多信息，请参阅 [PayPal 的帐户设置页](https://go.microsoft.com/fwlink/?linkid=2162542)。
 
 - **在我的国家/地区是否支持？** 请参阅[付款阈值、方式和时间范围](payment-thresholds-methods-timeframes.md)，了解哪些国家/地区支持 PayPal 支付。
 

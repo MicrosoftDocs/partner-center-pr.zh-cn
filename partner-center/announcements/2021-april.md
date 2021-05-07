@@ -10,17 +10,96 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823378"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328043"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 4 月公告。
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>就绪情况：更新的 CSP 客户地址验证 API 将于 6 月上线；测试功能现已可用
+
+### <a name="categories"></a>类别
+
+- 日期：2021-04-30
+- 就绪
+
+### <a name="summary"></a>总结
+
+为帮助合作伙伴和客户在相互信任的基础上开展其业务，我们将邀请世界各地的合作伙伴测试对验证地址 API 的更改。
+
+### <a name="impacted-audience"></a>影响受众
+
+新建客户地址详细信息或更新现有客户地址详细信息的 CSP 直接计费合作伙伴和间接提供商
+
+### <a name="details"></a>详细信息
+
+Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅提供合规、安全且可靠的客户地址验证方法。 从 2021 年 3 月 31 日起，我们已向验证地址 API 中引入更改。 我们邀请合作伙伴在上线之前（2021 年 6 月底）测试该 API。 
+
+请注意，这些更改仅影响验证地址 API。 创建客户和更新计费配置文件 API 不受影响。 尽管建议的地址目前不需要与创建客户 API 结合使用，但强烈建议这样做。
+
+响应将返回以下某个状态消息：
+
+| 状态     | 说明 |    返回的建议地址数 |
+|-------|---------------|-------------------|
+|Verified shippable | 地址已经过验证且可送达。 | Single |
+|已验证 | 已验证地址。 | Single |
+|Interaction required | 建议的地址发生了重大更改，需要用户确认。 | Single |
+|Street partial | 地址中给出的街道信息不完整，需要更多信息。 | 多个 - 最多 3 个 |
+|Premises partial | 给出的场所信息（楼栋号、房号等）不完整，需要更多信息。 | 多个 - 最多 3 个 |
+|多个 | 地址中有多个字段不完整（也可能包括 street partial 和 premises partial）。 | 多个 - 最多 3 个 |
+|无 | 地址错误。 | 无 |
+|未验证 | 无法通过验证过程发送地址。 | 无 |
+
+美国邮政编码将返回额外 4 个数字 + 连字符，例如 12345-6789。
+
+### <a name="next-steps"></a>后续步骤
+
+- 有关更详细的指南，请查看[专门的合作伙伴集锦](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)中的技术文档和常见问题。
+- 准备使用合作伙伴中心 API 和 Web 用户体验来整合更改。 
+- 与行业专家 Ali Khaki 分享你的沙盒租户 ID，以加入外部测试，这样你便可以开始准备更新。 
+- 如果正在使用控制面板供应商 (CPV) 解决方案，请咨询 CPV。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果在 Microsoft 运营方面需要支持，请联系你的合作伙伴 Yammer 支持组或创建[服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>合作伙伴中心 API Swagger 文档的新位置
+
+### <a name="categories"></a>类别
+
+- 日期：2021-04-26
+- 功能
+
+### <a name="summary"></a>摘要
+
+合作伙伴中心 API Swagger 文档已从[以前的 Swagger 文档网站](https://apidocs.microsoft.com/services/partnercenter)迁移到[新 Swagger 文档网站](https://docs.microsoft.com/rest/api/partner-center-rest/)。
+
+### <a name="impacted-audience"></a>影响受众
+
+使用合作伙伴中心 API 且参与云解决方案提供商 (CSP) 计划的直接计费合作伙伴和间接提供商
+
+### <a name="details"></a>详细信息
+
+从 2021 年 4 月 26 日起，合作伙伴中心 API Swagger 文档（包括 Rest API 内容）在[新站点](https://docs.microsoft.com/rest/api/partner-center-rest/)提供。 几周后，旧站点将无法访问。
+
+### <a name="benefits"></a>好处
+
+合作伙伴中心 API Swagger 文档将提供“试看”功能。 使用此功能需要拥有持有者令牌，可以按照[合作伙伴中心身份验证](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)中列出的步骤生成该令牌。
+
+### <a name="next-steps"></a>后续步骤
+
+在组织中分享此信息，以便相应团队可查看和更新其流程。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果对这些产品/服务有疑问，请查看相关的 Yammer 社区。
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>云解决方案提供商 (CSP) 软件退货期政策和下载链接有效期通知

@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284496"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702716"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>将客户的 Azure 计划订阅转移到不同的合作伙伴
 
@@ -44,7 +44,7 @@ ms.locfileid: "108284496"
 - 只要产品通过 Marketplace 资格检查，就会传输第三方 marketplace 产品。
     - 无特殊折扣或区域限制
     - 产品不是基于订阅的
-    - 将来的合作伙伴应与发布者合作，以确保它们位于产品部署的允许列表
+    - 将来的合作伙伴应与发布者合作，以确保它们位于产品部署的允许列表中
     - 如果未满足所有这些条件，则应取消应用商店产品、已转让的 Azure 订阅，然后重新购买具有新合作伙伴的 Marketplace 产品
 
 **先决条件：**
@@ -130,6 +130,7 @@ ms.locfileid: "108284496"
 >对于间接提供程序：请通知间接经销商已接受传输请求。
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>管理已传输的客户订阅
+
 - 在转换期间，使用 Azure 基于角色的访问控制 (RBAC) 为现有用户、组或服务主体分配的访问权限不受影响。 Azure [ RBAC) ](/azure/role-based-access-control/overview) 的基于角色的访问控制 (可帮助你的客户管理有权访问 Azure 资源的人员、他们可以使用这些资源执行哪些操作，以及他们有权访问哪些区域。 作为新合作伙伴，你不会在订阅转让后向你的客户的资源提供任何 RBAC 访问权限。 你的客户的上一个合作伙伴将保留其 RBAC 访问权限。 与客户合作，了解谁有权了解他们的订阅以及如何进行任何所需的更改。
 
 - 因此，重要的是，您的客户必须删除其以前合作伙伴的 Azure RBAC 访问权限，并为新合作伙伴添加访问权限。 有关提供新访问权限的客户的详细信息，请参阅 [什么是 AZURE RBAC)  (azure 基于角色的访问控制？](/azure/role-based-access-control/overview) 若要详细了解你的客户如何删除以前合作伙伴的 RBAC 访问权限，请参阅 [删除角色分配](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)。

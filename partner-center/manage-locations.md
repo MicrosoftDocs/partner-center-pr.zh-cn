@@ -1,7 +1,7 @@
 ---
 title: 管理合作伙伴帐户中的位置
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何添加新位置，以及位置 MPN ID 如何用于奖励计划、CSP 业务、订阅和其他交易。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441315"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702886"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>管理 MPN 帐户位置并添加（删除）位置
 
@@ -50,7 +50,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
 
 1. 如果要注册为直接计费合作伙伴，请阅读[直接计费合作伙伴要求](direct-partner-new-requirements.md)
 
-## <a name="view-your-mpn-locations"></a>查看 MPN 位置
+## <a name="view-and-update-your-mpn-locations"></a>查看和更新 MPN 位置
 
 1. 使用 MPN 帐户凭据登录合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard/home)。 （MPN 凭据可能与 CSP 凭据不同） 
  
@@ -100,6 +100,37 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
 > [!NOTE]
 > 一旦将某一位置添加到合作伙伴中心后，就不能再删除它了。 如果已使用正确的 MPN ID 登录，则会在合作伙伴中心的左侧菜单中看到 MPN。
 
+## <a name="add-the-registration-number-id"></a>添加注册号 ID
+
+如果你是间接提供商、直接计费合作伙伴或间接经销商，并且与以下国家/地区的新客户和现有客户开展业务，则需要为你的企业提供注册 ID 号。 如果你开展业务的国家/地区未在下面列出，则不必提供注册 ID。
+
+- 亚美尼亚 
+- 阿塞拜疆 
+- 白俄罗斯 
+- 巴西 
+- 匈牙利 
+- 印度 
+- 伊拉克 
+- 哈萨克斯坦 
+- 吉尔吉斯斯坦 
+- 摩尔多瓦 
+- 缅甸 
+- 波兰 
+- 俄罗斯 
+- 沙特阿拉伯 
+- 南非 
+- 南苏丹  
+- 塔吉克斯坦 
+- 泰国
+- 土耳其 
+- 乌克兰 
+- 阿拉伯联合酋长国 
+- 乌兹别克斯坦 
+- 委内瑞拉
+- 越南 
+
+
+有关详细信息，请参阅[注册 ID 号信息](reg-number-id.md)
 
 ## <a name="delete-a-location"></a>删除位置
 

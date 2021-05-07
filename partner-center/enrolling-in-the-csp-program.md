@@ -1,7 +1,7 @@
 ---
 title: 注册到云解决方案提供商计划
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何注册到最适合你的业务的云解决方案提供商 (CSP) 计划销售模型，例如间接经销商或直接计费合作伙伴。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441806"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213374"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>注册云解决方案提供商计划
 
@@ -92,6 +92,38 @@ ms.locfileid: "106441806"
 
 公司的位置决定了市场。 市场包括可以销售 CSP 套餐的区域和/或国家（地区）。 有关市场位置和货币，请参阅[云解决方案提供商计划区域市场和货币](regional-authorization-overview.md)。
 请务必阅读[为 CSP 业务添加新位置的先决条件](manage-locations.md)。
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>提供特定国家/地区的合作伙伴注册 ID 号
+
+如果你是间接提供商、直接计费合作伙伴或间接经销商，并且与以下国家/地区的新客户和现有客户开展业务，则需要为你的企业提供注册 ID 号。 如果你开展业务的国家/地区未在下面列出，则不必提供注册 ID。
+
+- 亚美尼亚 
+- 阿塞拜疆 
+- 白俄罗斯 
+- 巴西 
+- 匈牙利 
+- 印度 
+- 伊拉克 
+- 哈萨克斯坦 
+- 吉尔吉斯斯坦 
+- 摩尔多瓦 
+- 缅甸 
+- 波兰 
+- 俄罗斯 
+- 沙特阿拉伯 
+- 南非 
+- 南苏丹  
+- 塔吉克斯坦 
+- 泰国
+- 土耳其 
+- 乌克兰 
+- 阿拉伯联合酋长国 
+- 乌兹别克斯坦 
+- 委内瑞拉
+- 越南 
+
+
+有关详细信息，请参阅[注册 ID 号信息](reg-number-id.md)
 
 ## <a name="next-steps"></a>后续步骤
 

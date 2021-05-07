@@ -6,13 +6,13 @@ ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 03/05/2021
-ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.date: 05/06/2021
+ms.openlocfilehash: 74d62a794d95cbf7a5170ddbcfe474cc61fbf9b3
+ms.sourcegitcommit: 5780fab794d7a48c64ce27eeabd7a39d56706e9c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087036"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "109240510"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>有关付款和税款的常见问题
 
@@ -40,63 +40,65 @@ ms.locfileid: "106087036"
 
 这可能是因为你没有适当的权限，或者你使用不具有这些权限的帐户登录。 例如，只有 MPN 位置的激励管理员可以创建或管理支出和税务配置文件。 请与你的组织管理员联系，以管理银行和税务的权限。
 
-#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>我只能用我的 @onmicrosoft.com 域登录。   应采取何种操作？
+#### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>我只能用我的 @onmicrosoft.com 域登录。 应采取何种操作？
 
 请联系你的帐户管理员，将更多域添加到 AAD 帐户。
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>我的组织正在参与多个计划。 我是否需要多次提供我的付款和税务配置文件？
 
-这取决于组织的需求。 付款配置文件是在组织级别创建的，它允许将同一银行配置文件分配到组织内的多个 MPN ID 和计划。 在大多数情况下，可以重复使用现有的配置文件或创建新的配置文件。
+这取决于组织的需求。 付款配置文件是在组织级别创建的，它允许将同一银行配置文件分配到组织内的多个 MPN ID 和计划。 在大多数情况下，可以重复使用现有配置文件或创建新配置文件。
 
 但可能也有例外，例如将银行配置文件应用于不同的国家或地区时，因为当地银行或税务规定可能会适用。
 
-当同一个 MPN 位置参与另一个程序时，将重新使用为 MPN 位置创建的税配置文件，并自动填充。 但是可能存在例外情况。 例如，新的奖励计划的付款规则可能需要其他的税务配置文件详细信息。
+当同一 MPN 位置参与另一个计划时，为 MPN 位置创建的税务配置文件将重复使用并自动填充。 但是可能存在例外情况。 例如，新的奖励计划的付款规则可能需要其他的税务配置文件详细信息。
 
-#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>能否对 Microsoft 中的所有激励计划使用同一银行和税务详细信息？
+#### <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>我能否对 Microsoft 的所有奖励计划使用相同的银行和税务详细信息？
 
-如果你的公司邀请了多个程序，则可以为所有程序使用相同的付款帐户，也可以选择为不同的程序使用不同的付款帐户。
+如果你的公司受邀参加多个计划，你可以针对所有计划使用相同的付款帐户，也可以选择为不同的计划使用不同的付款帐户。
 
 
-#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft 如何保证银行信息确实是公司的信息，而不是员工的个人银行帐户？
+#### <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft 如何确保银行信息确实是公司的银行信息，而不是员工的个人银行帐户？
 
-公司负责确保激励管理员的角色（具有编辑此信息的权限）仅提供给相应的员工。
+公司负责确保仅向适当的员工授予奖励管理员（有权编辑此信息）的角色。
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>税配置文件已过期。 如何实现修复更新？
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>我的税务配置文件已过期。 如何实现更新它？
 
-如果税务模板已过期或即将过期，则意味着你向 Microsoft 提供的税务格式需要更新。 使用以下步骤更新你的税务配置文件：
+如果税务配置文件已过期或即将过期，则意味着需要更新提供给 Microsoft 的税务表单。 使用以下步骤更新税务配置文件：
 
-1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)，并选择齿轮图标以打开 " **设置** " 菜单。
-2. 选择 " **帐户设置**"，展开 " **支出和税务** " 部分，然后选择 " **支出和税务** 配置文件"。
-3. 选择 **税务** 配置文件
-4. 检查列 **到期日期** 并导航到过期的或即将过期的税务配置文件。
-5. 选择 " **编辑** " 以启动税务配置文件编辑过程。
-6. 在 "税额" 部分中提供更新的详细信息。
+1. 登录到仪表板 [合作伙伴中心，然后选择](https://partner.microsoft.com/dashboard/home)齿轮图标以打开"设置 **"** 菜单。
+2. 选择 **"帐户设置**"，展开" **付款和税务"** 部分，然后选择" **付款和税务配置文件** "。
+3. 选择 **"税务配置文件** "
+4. 检查" **到期日期"列** 并导航到已过期或即将过期的税务配置文件。
+5. 选择 **"** 编辑"以启动税务配置文件编辑过程。
+6. 在"税务表单"部分中，提供更新后的详细信息。
 
-## <a name="earnings-incorrect-or-missing"></a>收入不正确或缺失
+## <a name="earnings-incorrect-or-missing"></a>收益不正确或缺失
 
 #### <a name="why-are-my-earnings-missing"></a>为何我的收入缺失？
 
 - 客户订单可能还不符合付款条件。 对于非企业客户订单，Microsoft 必须先收到客户付款，然后发布者才能获得收入。 对于企业客户订单，你的收入将在采购订单日期之后的 1-2 天内提供。 请在[订单报表](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)中验证订单状态。
 - 交易历史记录报表中可能不显示 2019 年 7 月之前的交易的收入。 请在[付款下载](https://partner.microsoft.com/dashboard/payouts/reports/incentiveexport)中检查历史对账单。
-- 检查 [付出的时间范围](payment-thresholds-methods-timeframes.md) 并了解你的收入应出现在付出的时间范围内。
+- 检查 [付款周期的时间范围](payment-thresholds-methods-timeframes.md) ，并了解你的收益应在付款对账单中出现的时间。
 
-#### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>为什么收入金额不同于我的预期？
+#### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>为什么我的收益金额与预期不同？
 
-- 如果订单已部分支付给客户，则您的收入金额将基于扣除费用和相应税款后的部分支付金额。
+- 如果订单由客户部分付款，则收入金额将基于减去费用及相应税款后的部分支付金额。
 - 按国家/地区检查减税责任。 在税务由 Microsoft 负责的国家/地区，Microsoft 将从出版商收益中收集并 deducts 税款。 对账单中显示的交易金额为税后金额。 请参阅[税项详细信息](tax-details-marketplace.md)。
-- SaaS 和 IaaS 产品/服务的折扣率为10%，而不是标准20%，而收入率为90%。 此促销在 2021 年 6 月 30 日之前有效。
+- SaaS 和 IaaS 产品/服务的折扣率为10%，而不是标准20%，而收入率为90%。 这是 IP Co-Sell 要求。 此促销在 2021 年 6 月 30 日之前有效。 
 
 **进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、 [支出策略详细信息](payout-policy-details.md)、 [支付阈值、方法和时间范围](payment-thresholds-methods-timeframes.md)、 [付费](marketplace-get-paid.md)、 [税务详细信息](tax-details-marketplace.md)、额外 [帐单](payout-statement.md)
 
 ## <a name="earnings-reconciliation"></a>收入对帐
 
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>如何在分析中将付款对账单与订单或使用情况报表进行对帐？
+
 使用 "记录订单" 和 "使用情况报告" 的 "对事务历史记录进行支出" 报表中显示的 AssetID、订单 ID 和行项 ID 使用以下映射：
 
 - Payout Transaction History.AssetID = order.OrderID
 - Payout Transaction History.OrderID & LineItem = Usage.UsageReferenceID [OrderID:LineItemID]
 
 ### <a name="how-do-i-know-when-to-expect-payments-for-my-customer-orders"></a>如何知道何时会有客户订单付款？
+
 - 首先，使用 assetID，检查 [订单报表](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/order)中的客户订单。
 - 在客户 [报表](https://partner.microsoft.com/dashboard/commercial-marketplace/analytics/customer)中检查客户的客户渠道。
 - 对于企业客户，发布者收益显示在采购订单日期之后的1-2 天内。
@@ -142,54 +144,54 @@ ms.locfileid: "106087036"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>如何查找某个交易的预缴税金？
 预缴税金适用于提交了 W-9 表单的美国发布者。 预缴税金是按照每月付款计算的。
 
-**进一步阅读**： [商业 Marketplace 发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)， [详细信息策略详细信息](payout-policy-details.md)
+**进一步阅读**[：商业市场发布者协议](https://go.microsoft.com/fwlink/p/?LinkID=699560)、[付款策略详细信息](payout-policy-details.md)
 
-## <a name="payout-statement-access"></a>对帐单访问权限
+## <a name="payout-statement-access"></a>付款对账单访问权限
 
 #### <a name="how-do-i-access-a-payout-statement"></a>如何访问付款对账单？
 
 1. 请检查你的角色。 你必须具有“财务参与者”或“帐户所有者”角色才能访问付款对账单 。
-2. 在右上方导航中，选择 " **支出** " 图标以查看支出报表。 选择 " **事务历史记录**"、" **付款**" 和 " **下载**"。
+2. 在右上角导航栏中，选择" **付款** "图标以查看付款对账单。 在"事务 **历史记录"、"****付款"和**"下载 **"之间选择**。
 
-**进一步阅读**： [支出角色和权限](payout-statement.md#roles-and-permissions)， [付出额外帐单](payout-statement.md) 
+**进一步** 阅读 [：付款角色和权限、](payout-statement.md#roles-and-permissions)[付款对帐单](payout-statement.md) 
 
-## <a name="payout-statement-report"></a>支出报表报表
+## <a name="payout-statement-report"></a>付款对账单报表
 
 #### <a name="what-does-each-field-in-the-transaction-download-mean"></a>交易下载内容中的每个字段是什么意思？
 
-有关属性及其 [含义的详细列表，请参阅](payout-statement.md) 详细说明。
+有关 [属性](payout-statement.md) 及其含义的详细列表，请参阅付款对帐单。
 
 #### <a name="what-is-earning-status"></a>什么是收入状态？
 
-这会显示 "未处理"、"已处理" 或 "已发送" 收入。
+这会将收益显示为未处理、已处理或已发送。
 
-- 未 **处理–收入** 在到期日之前处于保管期内。
-- 已 **处理**–收入已成熟，并已准备好每月支付。 支付每月15号发布。
-- 已 **发送**–付款已成功地根据你的支出配置文件发布到银行。
+- **未处理** - 收益在托管期内，直到到期日期。
+- **已** 处理 - 收益已到期，并准备每月付款。 付款在每月的 15 号前释放。
+- **已** 发送 - 付款已根据付款配置文件成功释放给银行。
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>如何下载服务费用纳税表单？
 
 依次转到“付款支付”和“付款列表”部分。 对于具有服务费用税的付款，将显示指向服务费用纳税表单的链接。
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何实现下载 PDF 格式的预缴税金窗体？
+#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何实现 PDF 下载预扣税表单？
 
-依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。 预缴税金表格仅适用于所选激励计划，而不适用于商业市场付出的比率。
+依次转到“付款支付”和“付款列表”部分。 付款旁边将显示预缴税金表单的链接。 预扣税表仅适用于选定的奖励计划，而仅适用于商业市场付款。
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>在哪里可以找到年末纳税表单？
 
 请转到[“配置文件”页](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)以查看你的年末纳税表单。
 
-**进一步阅读**： [支出报表](payout-statement.md)、 [事务历史记录下载](payout-statement.md#transaction-history-download)
+**进一步阅读**[：付款对帐单](payout-statement.md)、[交易历史记录下载](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>历史对帐单
 
-#### <a name="how-do-i-view-historical-information"></a>如何实现查看历史信息？
+#### <a name="how-do-i-view-historical-information"></a>如何实现历史信息？
 
-历史对账单会显示截止到 2019 年 10 月的付款数据的快照。 遗憾的是，此处的支出信息不会刷新。 若要接收最新信息，请提交最新数据的支持票证。
+历史对账单会显示截止到 2019 年 10 月的付款数据的快照。 遗憾的是，此处的付款信息不会刷新。 若要接收最新信息，请提交最新数据的支持票证。
 
-**进一步阅读**： [支出报表](payout-statement.md)、 [事务历史记录下载](payout-statement.md#transaction-history-download)
+**进一步阅读**[：付款对帐单](payout-statement.md)、[交易历史记录下载](payout-statement.md#transaction-history-download)
 
-## <a name="payout-export-api"></a>支出导出 API
+## <a name="payout-export-api"></a>付款导出 API
 
 #### <a name="how-do-i-download-payout-data"></a>如何下载付款数据？
 

@@ -1,7 +1,7 @@
 ---
 title: 获取引荐见解
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作伙伴中心定期检查引荐见解数据，了解要处理的趋势或有待改进的方面，从而帮助你实现业务目标。
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120845"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328077"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作伙伴中心获取引荐见解，并了解引荐状况如何
 
@@ -94,8 +94,7 @@ ms.locfileid: "108120845"
 
 ## <a name="comparison-charts"></a>比较图
 
-比较部分将帮助你根据透视（单位为美元）中已获得的交易量和交易额的多个维度，对与引荐相关的数据进行比较。
-可选择 3 个维度来比较数据，它们是
+比较部分将帮助你根据透视（单位为美元）中已获得的交易量和交易额的多个维度，对与引荐相关的数据进行比较。 可选择 3 个维度来比较数据，它们是：
 
 - 交易类型
 - 市场
@@ -128,3 +127,8 @@ ms.locfileid: "108120845"
 
 > [!TIP]
 > 若要了解你的企业档案在[查找解决方案提供商](https://www.microsoft.com/solution-providers/home)体验中的表现，请查看[企业档案见解页](analyze-your-marketing-profile.md)。
+
+## <a name="next-steps"></a>后续步骤
+
+- [借助 Microsoft 引荐拓展业务](referrals.md)
+- [分析潜在客户](analyze-your-marketing-profile.md)

@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441279"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702903"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>了解合作伙伴中心基于许可证的对帐文件中的字段
 
@@ -46,8 +46,8 @@ ms.locfileid: "106441279"
 | OfferId | 唯一产品标识符。 标准产品/服务标识符，如价目表中所定义。 *此值与价目表中的 **产品 ID** 不匹配。请参阅 **DurableOfferID** 。* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | 价目表中定义的唯一持久性提议标识符。 *此值与价目表中的 **产品 ID** 匹配。* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | 客户购买的服务产品的名称，如价目表中所定义。 | *Microsoft Office 365（计划 E3）* |
-| SubscriptionStartDate | 订阅的开始日期。 该时间始终为一天的起点时间，即 0:00。 此字段设置为提交订单后的那一天。 与 **subscription.subscriptionenddate** 一起使用以确定：如果客户仍在订阅的第一年内，或在下一年已续订订阅。 | *2/1/2019 0:00* |
-| SubscriptionEndDate | 订阅结束日期。 该时间始终为一天的起点时间，即 0:00。 *12 个月 + 开始日期之后的 **x** 天*，以与合作伙伴的计费日期或 *从续订日期起12个月* 的时间一致。 续订时，价格将更新为当前价目表。 自动续订之前可能需要与客户进行通信。 | *2/1/2019 0:00* |
+| SubscriptionStartDate | UTC 格式的订阅开始日期。 该时间始终为一天的起点时间，即 0:00。 此字段设置为提交订单后的那一天。 与 **subscription.subscriptionenddate** 一起使用以确定：如果客户仍在订阅的第一年内，或在下一年已续订订阅。 | *2/1/2019 0:00* |
+| SubscriptionEndDate | UTC 格式的订阅结束日期。 该时间始终为一天的起点时间，即 0:00。 *12 个月 + 开始日期之后的 **x** 天*，以与合作伙伴的计费日期或 *从续订日期起12个月* 的时间一致。 续订时，价格将更新为当前价目表。 自动续订之前可能需要与客户进行通信。 | *2/1/2019 0:00* |
 | ChargeStartDate | 费用的开始日。 该时间始终为一天的起点时间，即 0:00。 用于计算 (*pro 每* 费用) 客户更改许可证编号时的每日费用。 | *2/1/2019 0:00* |
 | ChargeEndDate | 费用的结束日。 时间始终是一天的结束，即 23:59。 用于计算 (*pro 每* 费用) 客户更改许可证编号时的每日费用。 | *2/28/2019 23:59* |
 | ChargeType | 费用或调整的 [类型](recon-file-charge-types.md) 。 | 请参阅 [费用类型](recon-file-charge-types.md)。 |

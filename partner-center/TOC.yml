@@ -30,8 +30,11 @@
         - name: 激活 PMC 的权益
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: 会员优惠
+    - name: 成员身份权益
       items:
+        - name: 权益概述
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Action Pack
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: 查找你的 MPN 权益
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: 支付资格费用
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: 资质
+        - name: 权益策略和使用情况 - 常见问题解答
+          href: benefits-faq-new.md
+        - name: 关于权益的常见问题解答
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: 查看或下载 MPN 发票
+          href: mpn-view-print-maps-invoice.md
+    - name: 可用权益
       items:
-        - name: 了解资格
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: 注册为学习合作伙伴
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: 关于能力的常见问题解答
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: 应用开发资格豁免
-          href: app-dev-isv.md
-        - name: 使用技能报告
-          href: mpn-skills-report.md
-    - name: 高级专业
-      items:
-        - name: 展示你的专业知识
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: 应用或检查状态
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: 成为 Azure 专家 MSP
-      href: azure-expert-msp.md
-    - name: 优点
-      items:
-        - name: 权益概述
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: 市场推广权益
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: MPN 合作伙伴演示
           href: mpn-demos.md
           displayName: mpn
-        - name: 权益策略和使用情况 - 常见问题解答
-          href: benefits-faq-new.md
-        - name: 关于权益的常见问题解答
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure 和云权益
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: 资格要求
               href: software-assurance-dps-requirements.md
-    - name: 发票和税款
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: 试用新功能
-      href: test-drive-new-features.md
+    - name: 资质
+      items:
+        - name: 了解资格
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: 注册为学习合作伙伴
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: 关于能力的常见问题解答
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: 支付资格费用
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: 应用开发资格豁免
+          href: app-dev-isv.md
+        - name: 使用技能报告
+          href: mpn-skills-report.md
+    - name: 高级专业
+      items:
+        - name: 展示你的专业知识
+          href: advanced-specializations.md
+        - name: 应用或检查状态
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: 成为 Azure 专家 MSP
+      href: azure-expert-msp.md
 - name: 云解决方案提供商 (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: Microsoft 客户协议（按区域和语言排列）
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: 受限的直接计费访问权限
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: 转移 Azure 订阅
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: 将客户的 Azure 计划订阅转移到其他合作伙伴
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: 软件订阅
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

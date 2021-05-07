@@ -8,20 +8,27 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: b6b16a8453d9e93e2600c53bedcef7dc29c14e16
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.date: 05/05/2021
+ms.openlocfilehash: 1aad6d1384e7043f13ad5f023d06f5e7fa1301e5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328026"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702767"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
 了解重要的合作伙伴中心更新。 我们会经常更新此信息，因此请务必经常回来查看！
 
-|**类别**|**2021 年 4 月公告**|**已公布**|
+|**类别**|**2021 年 5 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[更新：计划程序产品启动已延迟](2021-may.md#6)|5 月 5 日|
+|功能|[CSP 永久性软件即将向中国推出](2021-may.md#5)|5 月 5 日|
+|功能|[最后提醒：于 2021 年 5 月 6 日弃用 GET 资格](2021-may.md#4)|5 月 4 日|
+|产品/市场|[对 2021 年 5 月 1 日的基于许可的服务价目表的更正](2021-may.md#3)|5 月 4 日|
+|功能|[国有实体资格公告](2021-may.md#2)|5 月 4 日|
+| 产品或服务/业务应用程序|[查看本月的产品发布和套餐](2021-may.md#1)|5 月 3 日|
+|**类别**|**2021 年 4 月公告**|**已公布**|
 |就绪|[更新的 CSP 客户地址验证 API 将于 6 月上线；测试功能现已可用](2021-april.md#10)|4 月 30 日|
 |功能|[合作伙伴中心 API Swagger 文档的新位置](2021-april.md#9)|4 月 26 日|
 |功能|[云解决方案提供商 (CSP) 软件重现期策略和下载链接到期通知](2021-april.md#8)|4 月 21 日|
