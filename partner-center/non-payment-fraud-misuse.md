@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441857"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686290"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
-适用于：
+**适用于**
 
 - Microsoft Cloud for US Government 合作伙伴中心
 
@@ -66,30 +66,30 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 - 针对在线欺诈的新兴市场和/或高风险区域
 - 使用不良参与者自动创建和购买帐户
 
-## <a name="managing-online-risk"></a>管理在线风险
+## <a name="managing-online-risk"></a>管理联机风险
 
-你可以使用以下建议来帮助你制定策略和做法，以降低你的客户关系生命周期内的联机事务风险的暴露程度。
+可以使用以下建议来帮助制定策略和做法，以减少在客户关系生命周期中遭受联机事务风险的风险。
 
 ### <a name="onboarding-new-customers"></a>加入新客户
 
-在加入新客户时降低在线风险的建议包括：
+加入新客户时降低联机风险的建议包括：
 
-- 例如，与客户建立个人关系 (例如，通过电话) 与客户联系。
-- 通过更好的方法来验证客户的凭据和背景 (如使用信用报告机构或商业商业报表机构) 。
-- 在注册期间使用多重身份验证 (如 SMS 验证) ，以最大程度地减少向机器人帐户创建和购买的风险。
-- 使用服务 (例如数字标识服务) 管理和跟踪标识。
-- 通过严格的信用卡欺诈检测系统对客户的财务强度进行评估。
-- 建立清晰的集合策略。 详细说明你的集合流程，以及何时对订阅的访问会受到非支付影响。  (你可以禁用访问或 [暂停客户的](create-a-new-subscription.md#suspend-a-subscription) 非付款订阅。 ) 
+- 在可能的情况下与客户建立 (关系，例如，通过电话呼叫) 。
+- 通过更好的方法验证客户的凭据和背景， (如使用信用机构或商业商业报表) 。
+- 使用多重身份验证 (例如注册期间) 短信验证功能，以最大程度地减少创建和购买机器人帐户的风险。
+- 使用数字标识服务等服务 (和跟踪标识) 。
+- 通过严格的信用卡欺诈检测系统评估客户的财务能力。
+- 建立明确的集合策略。 详细说明你的集合过程以及何时对订阅的访问将受非付款的影响。  (可以禁用访问或 [暂停](create-a-new-subscription.md#suspend-a-subscription) 客户的非付款订阅。) 
 
 ### <a name="managing-customer-accounts"></a>管理客户帐户
 
-在购买后管理客户帐户的建议包括：
+有关在购买后管理客户帐户的建议包括：
 
-- 实施一个过程来快速接收、查看、操作和响应 Microsoft 通知。
-- 与客户合作，在设置适当的监视阈值时了解云使用情况业务需求。 例如，可以在合作伙伴中心 [设置每月 Azure 支出预算](set-an-azure-spending-budget-for-your-customers.md) ， (例如。 通过这种了解，你可以监视当月的客户使用情况，并在客户接近预算时收到通知。 ) 
-- 定期监视 [客户活动日志](activity-logs.md) 以帮助及早检测欺诈行为。
-- 当检测到可疑活动时，请执行快速操作。
-- 不要首先实施风险缓解控制，避免向客户提供对订阅的完全管理访问权限。
+- 实施一个快速接收、查看、处理和响应 Microsoft 通知的过程。
+- 与客户合作，了解其云使用情况业务需求，同时设置适当的监视阈值。  (例如，可以在门户中设置每月 [Azure](set-an-azure-spending-budget-for-your-customers.md) 支出合作伙伴中心。 通过这种了解，可以监视当月的客户使用情况，并当客户接近其预算时收到通知。) 
+- 定期 [监视客户](activity-logs.md) 活动日志，以帮助尽早检测欺诈。
+- 检测到可疑活动时快速采取措施。
+- 避免在未先实施风险缓解控制的情况下为客户提供对订阅的完全管理访问权限。
 
 ### <a name="managing-customer-billing"></a>管理客户帐单
 

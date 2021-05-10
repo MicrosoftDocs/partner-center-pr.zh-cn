@@ -9,18 +9,18 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 2c44581b1c2d7fcf2e4a10de9194a8c7288791a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172262"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686137"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>为你的客户提供不同类型的支持
 
 **适用于**
 
--  Microsoft Cloud for US Government 合作伙伴中心
+- Microsoft Cloud for US Government 合作伙伴中心
 
 **相应的角色**
 
@@ -44,7 +44,7 @@ CSP 客户无法自行创建支持票证。 他们需要与你联系以获得支
 
   - [签名云支持](manage-your-partner-network-benefits.md) (包含金牌或银能力的 MPN 权益，仅适用于云产品) 
 
-  -  (金牌、银或 Microsoft Action Pack 合作伙伴的 MPN 权益附带的[产品支持事件](manage-your-partner-network-benefits.md)，仅适用于最近的本地产品) 
+  - [产品支持事件](manage-your-partner-network-benefits.md) (金级、白银级或 Microsoft Action Pack 合作伙伴的 MPN 权益中，仅适用于最新本地) 
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 
 
@@ -54,4 +54,4 @@ CSP 客户无法自行创建支持票证。 他们需要与你联系以获得支
 
 - [通过云解决方案提供商销售的 Azure 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [Microsoft Office 365 通过 CSP 销售的订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Microsoft Office CSP 销售的 365 个订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)

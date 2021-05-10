@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768697"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686256"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>帐户设置或 MPN 续订问题的疑难解答
 
@@ -22,7 +22,7 @@ ms.locfileid: "104768697"
 **相应的角色**
 
 - 全局管理员
-- MPN 合作伙伴管理员 
+- MPN 合作伙伴管理员
  
 下面是有关在设置合作伙伴中心帐户时出现的常见问题的一些建议。
 
@@ -49,27 +49,27 @@ ms.locfileid: "104768697"
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 "告诉我们你的公司" 屏幕上，你会看到 "出现错误" 错误
 
-如果你无意中在公司电话号码中使用特殊字符、空格或国家/地区代码，则会出现此错误消息。 在 "电话号码" 字段中输入的值最多只能包含10个字符。
+如果无意中在公司电话号码中使用了特殊字符、空格或国家/地区代码，通常会显示此错误消息。 在"电话号码"字段中输入的值最多只能包含 10 个字符。
 
 
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>你的信用卡购买将收到一条错误消息，指出 "你的订单已被拒绝。 请验证你的信息
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>信用卡购买收到一条错误消息，指出"你的订单被拒绝。 请验证你的信息"
 
 
-始终使用与您的信用卡相对应的地址，而不是您的法律实体。 此外，请确保邮政编码正确，并对应于所使用的地址。
+始终使用与信用卡相对应的地址，而不是法定实体。 此外，请确保邮政编码正确，并对应于你使用的地址。
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>要从脱机支付切换到联机付款方式 
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>你想要从脱机付款切换到联机付款方式 
 
-您将需要使用首选付款方式取消原始订单和重新购买。
+需要取消原始订单，然后使用首选付款方式重新购买。
 
-若要取消订单：
+取消订单：
 
-1. 在仪表板中选择 " **成员资格产品** " 选项卡。
+1. 在 **仪表板中选择** "成员资格产品/服务"选项卡。
 
-2. 选择 **取消顺序**
+2. 选择 **"取消订单"**
 
-3. 将显示一个确认窗口，您必须确认才能取消初始订单。
+3. 将出现一个确认窗口，必须确认才能取消初始订单。
 
 ## <a name="next-steps"></a>后续步骤
 
 - [管理合作伙伴中心帐户](partner-center-account-setup.md)
-- [如何读取帐单和侦测文件](read-your-bill.md)
+- [如何读取帐单和对帐文件](read-your-bill.md)

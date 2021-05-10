@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492647"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686188"
 ---
 # <a name="connect-with-customers"></a>与客户联系
 
 
- **相应的角色**
+**相应的角色**
 
 - 全局管理员
 - 管理员代理
