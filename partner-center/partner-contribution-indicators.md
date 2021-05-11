@@ -1,22 +1,22 @@
 ---
-title: 合作伙伴贡献指标-CBA
+title: 合作伙伴贡献指标 - CBA
 ms.topic: article
 ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解7个合作伙伴贡献指标 (PCI) ，其中显示了合作伙伴如何获取银色或金牌云 Business Applications 能力。
+description: 了解 PCI (7 个合作伙伴贡献) 指标，这些指标向合作伙伴展示如何获得银级或金级云Business Applications资格。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730257"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740363"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来实现云 Business Applications 资格
+# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来获得云业务应用程序能力
 
 **相应的角色**
 
@@ -24,30 +24,30 @@ ms.locfileid: "105730257"
 - MPN 合作伙伴管理员
 - 帐户管理员
 
-本文介绍了7个关键合作伙伴贡献指标 (PCI) ，用于评估合作伙伴获得或留住银或金牌云 Business Applications 胜任度的进度。
+本文介绍 PCI (的七个关键合作伙伴贡献) 指标，这些指标用于评估合作伙伴在获得或保留银级或金级云Business Applications的进度。
 
-可以在 "合作伙伴贡献" 仪表板上查看 PCI 进度。 数据将在每月的第20天更新，其中包含上个月的数据。 例如，二月份的数据将于3月20日发布。
+可以在合作伙伴贡献仪表板上查看 PCI 进度。 数据在每月 20 日更新，并包含上个月的数据。 例如，2 月数据将在 3 月 20 日发布。
 
 > [!NOTE]
-> 了解合作伙伴如何使用一组不同的合作伙伴贡献指标指标，通过云 Business Applications SMB 选项获得银或金牌小型和中型云解决方案资格。 有关详细信息，请参阅 [使用小型和中型云解决方案资格认证的合作伙伴贡献指标](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)。 你还可以 [阅读](https://partner.microsoft.com/membership/competencies) 有关能力及其要求的详细信息。
+> 了解合作伙伴如何使用一组不同的合作伙伴贡献指标指标，通过 Cloud Business Applications SMB 选项获得银级或金级小型和中型市场云解决方案资格。 有关详细信息，请参阅 [将合作伙伴贡献指标用于小型和中型市场云解决方案能力](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)。 还可以 [详细了解能力](https://partner.microsoft.com/membership/competencies) 及其要求。
 
-本文包括以下内容的相关信息：
+本文包含以下相关信息：
 
-- [每个 PCI 指标的评分方式](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)
+- [如何评分每个 PCI 指示器](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)
 
-- [每个 PCI 指标的阈值](partner-contribution-indicators.md#thresholds-for-each-pci-metric-for-this-competency)
+- [每个 PCI 指示器的阈值](partner-contribution-indicators.md#thresholds-for-each-pci-metric-for-this-competency)
 
 - [每个 PCI 指示器的详细定义](partner-contribution-indicators.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- 如何在合作伙伴中心[访问和阅读](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators)PCI 图表
+- [如何在 合作伙伴中心](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators) 中访问和读取 PCI 图表
 
-## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>此资格认证的合作伙伴贡献指标概述
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>此能力的合作伙伴贡献指标概述
 
-合作伙伴贡献指标为合作伙伴提供了一项整体衡量能力，使合作伙伴能够获得成功的客户成果，进而在市场上实现或保留银或金牌云 Business Applications 胜任度。
+合作伙伴贡献指标提供合作伙伴在推动成功客户成果方面的影响的整体度量，因此当合作伙伴获得或保留银级或金级云Business Applications优势时，在市场中具有更大的差异。
 
-通过 PCI，合作伙伴获得客户成功的关键衡量措施的信用额度，如成功的部署和日益增加的使用量。 他们需要继续投资并扩大其技术能力。
+借助 PCI，合作伙伴将获得客户成功的关键指标（例如成功部署和增加使用量）的额度。 他们希望继续投资并横向扩展其技术功能。
 
-例如，当合作伙伴在关键指标中达到一定程度的影响时，合作伙伴可以获得 (或保留) 银或金牌云 Business Applications 能力。
+例如，当合作伙伴在关键指标方面达到特定级别的影响时，合作伙伴可以达到 (或保留) 银云或黄金云Business Applications资格。
 
 > [!NOTE]
 > 若要了解有关获取能力的好处的详细信息，请参阅 [Microsoft 合作伙伴胜任度](https://partner.microsoft.com/membership/competencies)。
@@ -72,29 +72,29 @@ PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提�
 
 *客户成功指标：*
 
-6. **新的大型部署**：过去12个月内跨越高使用量阈值的生产租户的数量。  (有关此指标的详细信息，请参阅 [新的大型部署的定义](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
+6. **新的大型部署**：过去12个月内跨越高使用量阈值的生产租户的数量。  (有关此指标的详细信息，请参阅 [新大型部署](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)的定义 .) 
 
-7. **每月活动用户增长率**：过去12个月内，每个客户在每月活动用户的增长。  (有关此指标的详细信息，请参阅 [每月活动用户增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)) 
+7. **月度活跃用户增长**：过去 12 个月内所有客户每月活跃用户的增长。  (有关此指标的详细信息，请参阅 [每月活跃](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)用户增长的定义 .) 
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 分数如何影响资格资格
-为每个已获得的指标授予点，产生单数字 PCI 分数。 最多可以有100个点。 
+将针对每个实现的指示器授予分数，从而产生单数 PCI 分数。 最大点数为 100。 
 
-PCI 分数确定资格资格，如下所示：
+PCI 分数确定资格，如下所示：
 
 |如果 PCI 分数为  | 你  |
 |:----------------------|:-----------------|
-|1-59 点  | **不** 符合银或金牌资格 |
-|60-79 点  | 满足银色能力的要求  |
-|80-100 点  | 满足金牌资格的要求
+|1-59 个点  | **不符合** 白银或黄金资格 |
+|60-79 分  | 满足银牌资格的要求  |
+|80-100 分  | 满足黄金资格的要求
 
-下图提供了快速、直观的参考。
-:::image type="content" source="images/pcinew1.png" alt-text="显示 PCI 得分以实现银或金牌资格。" border="false":::
+下图提供了一个快速的视觉参考。
+:::image type="content" source="images/pcinew1.png" alt-text="显示实现银级或金级资格的 PCI 分数。" border="false":::
 
-### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>每个指标可以实现的最大 PCI 胜任度分数
+### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>可以针对每个指示器实现的最大 PCI 资格分数
 
-每个指示器都带有添加到总数中的分数。 以下是云 Business Applications 资格的每个指标的最大分数：
+每个指示器都提供添加到总计的分数。 下面是 Cloud Business Applications 能力的每个指标的最高分数：
 
-|对于此指标 | 此能力的最高分为  |
+|对于此指示器 | 此能力的最高分为  |
 |:------------|:--------------:|
 |性能-净新收入  | 10点  |
 |性能-Net customer 添加  | 10点  |
@@ -109,36 +109,36 @@ PCI 分数确定资格资格，如下所示：
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>此资格的每个 PCI 指标的阈值
 
-每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于用于获取云 Business Applications 资格的客户参与和财务和操作路径。 对于在开发市场上运营的合作伙伴与在开发市场上专门操作的合作伙伴，阈值也有所不同。 根据 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)，**开发** 或 **开发** 国家/地区的市场分类。
+每个 PCI 指标都有 Microsoft 设置的阈值，达到此阈值你的公司就可以获得最高分数。 这些阈值不同于用于获取云 Business Applications 资格的客户参与和财务和操作路径。 对于在开发市场上运营的合作伙伴与在开发市场上专门操作的合作伙伴，阈值也有所不同。 **国家**/**地区** 开发或开发市场分类基于Microsoft 合作伙伴网络 [定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)。
 
-请注意，4度量值是基于合作伙伴经营业务的位置来度量的，而不是 MPN 位置的注册位置。 这意味着，在开发市场上注册的合作伙伴（其客户从开发市场开始）需要满足开发的国家/地区的 PCI 分数。
+请注意，4 个指标根据合作伙伴的业务位置（而不是 MPN 位置的注册位置）进行度量。 这意味着，在开发市场中注册的合作伙伴（其客户来自开发市场）需要满足已开发国家/地区 PCI 分数。
 
 下表显示了按指标应用的位置。
 
 | 指标名称 | 位置 |
 |:-------|:--------|
 | 净新收入 | 客户位置 |
-| Net customer 添加 | 客户位置 |
-| 功能顾问 | 合作伙伴位置 |
+| 净客户添加 | 客户位置 |
+| 职能顾问 | 合作伙伴位置 |
 | 开发人员 | 合作伙伴位置 |
 | 功能顾问增长 | 合作伙伴位置 |
 | MAU 增长 | 客户位置 |
 | 新大型部署 | 客户位置 |
 
-每个指标间的分数被记录在一起，为客户参与和财务和运营产生不同的 PCI 分数。 此分数将每月更新一次。
+每个指标中的分数都是为了为客户参与度、财务和运营生成不同的 PCI 分数。 此分数将每月更新一次。
 
-合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 对于所有指标（功能顾问增长除外），都可以获得部分分数。
+合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 除功能顾问增长外，所有指标都可以赚取部分分数。
 
-例如，在净新收入 $150000 的开发市场合作伙伴将获得最大10个 ($ 150000/$ 300000) 。
+例如，Net New Revenue 中收入为 $150，000 的已开发市场合作伙伴将获得最多 10 分的一半 ($150，000/$300，000) 。
 
 有关详细信息，请参阅下表：
-- [表1。客户参与阈值](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
-- [表2：财务和运营阈值](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
+- [表 1。客户参与阈值](partner-contribution-indicators.md#table-1-customer-engagement-thresholds-for-this-competency)
+- [表 2。财务和运营阈值](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds-for-this-competency)
 
-### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>表1此资格认证的客户参与阈值
+### <a name="table-1-customer-engagement-thresholds-for-this-competency"></a>表 1 此资格的客户参与阈值
 
 
-| PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：功能顾问 | 功能指示器：功能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：每月活动用户增长率 |
+| PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：职能顾问 | 功能指标：职能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：每月活动用户增长率 |
 |---|---|---|---|---|---|---|---|
 | **最大分数** | 10点 | 10点 | 15磅 | 15磅 | 5磅 | 20磅 | 25磅 |
 | **各种** | 300,000 美元 | 10 | 15 | *\* 请参阅说明* | 5 | 5 | 25% |
@@ -149,13 +149,13 @@ PCI 分数确定资格资格，如下所示：
 ### <a name="table-2-finance-and-operations-thresholds-for-this-competency"></a>表2此资格的财务和运营阈值
 
 
-| PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：功能顾问 | 功能指示器：功能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：每月活动用户增长率 |
+| PCI 指标 | 性能指标：净新收入 | 性能指标：新客户添加 | 功能指示器：职能顾问 | 功能指标：职能顾问增长 | 功能指示器：开发人员 | 客户成功指标：新的大型部署 | 客户成功指标：月度活跃用户增长 |
 |---|---|---|---|---|---|---|---|
-| **最大分数** | 10点 | 10点 | 15磅 | 15磅 | 5磅 | 20磅 | 25磅 |
-| **各种** | 300,000 美元 | 3 | 15 | *\* 请参阅说明* | 5  | 3 | 25% |
-| **各种** | $150000 | 1 | 5 |*\* 请参阅说明* | 2 | 1 | 25% |
+| **最大点数** | 10 个点 | 10 个点 | 15 分 | 15 分 | 5 个点 | 20 个点 | 25 分 |
+| **开发** | 300,000 美元 | 3 | 15 | *\* 请参阅备注* | 5  | 3 | 25% |
+| **发展** | $150，000 | 1 | 5 |*\* 请参阅备注* | 2 | 1 | 25% |
 
-*\* 注意：根据基线顾问数和合作伙伴用于获取点的特定选项，增长目标会有所不同。若要详细了解用于获取点或每个选项的特定增长目标的选项，请参阅 [功能顾问增长定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
+*\* 注意：增长目标因基线顾问数量和合作伙伴用于获取点的特定选项而不同。若要详细了解获取点的选项或每个选项的特定增长目标，请参阅 [功能顾问增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
 
 ## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>为客户接收 PCI 信用的先决条件
 
@@ -188,33 +188,33 @@ PCI 分数确定资格资格，如下所示：
 - [Net customer 的定义添加](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
 - [功能顾问的定义](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
 - [功能顾问的发展定义](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
-- [面向开发人员的定义](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
+- [开发人员定义](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
 - [新大型部署的定义](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
-- [每月活动用户增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
+- [每月活跃用户增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
-### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI 指标定义 #1-净新收入
+### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI 指标定义#1 - 净新收入
 
-净新收入是 [性能指标](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的点按以下方式为云 Business Applications 胜任度计算：
+净新收入是一 [个性能指标](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的分数根据云Business Applications计算，如下所示：
 
-- 净新收入定义为适用于所有销售渠道的净新计费收入，用于限定 Dynamics 365 产品。
-- 净新收入会在尾随12个月内汇总，最大收益为10点。
-- 净新收入的点按计费减去信用额度计算，在12个月内聚合。
-- 净新收入根据以下符合资格的产品计算：
-  - 客户参与资格产品包括：销售、客户服务、现场服务、项目服务自动化、市场营销、Microsoft 关系销售、计划1、人才和企业团队成员。
-  - 金融和运营资格产品包括：统一的操作、财务、供应链管理、零售、商业、计划2、混合现实、人才和企业团队成员。
+- 净新收入定义为所有销售渠道中符合条件的 Dynamics 365 产品的新计费净收入。
+- 净新收入在 12 个月的最后一个月内汇总，最大可能收入为 10 分。
+- 净新收入点数的计算方式为计费减去额度，并聚合 12 个月。
+- 净新收入根据以下符合条件的产品计算：
+  - 符合客户参与条件的产品包括：销售、客户服务、现场服务、项目服务自动化、营销、Microsoft 关系销售、计划 1、人才和企业团队成员。
+  - 符合财务和运营资格的产品包括：统一运营、财务、供应链管理、零售、商务、计划 2、混合现实、人才和企业团队成员。
 
-- 销售渠道包括企业协议 (EA) 、云解决方案提供商 (CSP) 和 Web Direct。
-- 仅限企业协议收入：此收入包含协议第一年的收入。 第二年和第三年的经常性收入不包括在内。
+- 销售渠道包括 企业协议 (EA) 、云解决方案提供商 (CSP) 和 Web Direct。
+- 对于企业协议收入：此收入包括协议第一年的收入。 第二年和第三年的经常性收入不包括在内。
 
-### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI 指标 #2 的定义-Net customer 添加
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI 指标定义#2 - Net 客户添加
 
-Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的点按以下方式为云 Business Applications 胜任度计算：
+净客户添加是 [一个性能指标](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的分数根据云Business Applications计算，如下所示：
 
-- Net customer 添加在尾随12个月的期限内求和，最大可能收益为10点。 
+- 净客户添加数在 12 个月的最后一个期间汇总，最大可能收益为 10 个点。 
 
-- 所有销售渠道都添加了网络客户。 
+- 跨所有销售渠道添加净客户。 
 
-- Net customer 添加的点按每月计算，因为客户添加了减去丢失的客户，并在12个月内进行聚合。 
+- 净客户添加的点数按月计算，因为添加的客户减去客户丢失，并聚合超过 12 个月。 
 
 - 在这些情况下，将定义 **客户添加** 内容：客户在上个月的所有订阅中都没有付费座位，但当月有至少一个付费座位。
 
@@ -242,34 +242,34 @@ Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-sco
   
   - 与客户关联的所有合作伙伴在客户丢失时将失去新客户的信用额度。
   
-  - 随后，通过旧订阅或新订阅与同一个客户关联的任何合作伙伴将为该客户提供新的客户信用额度。
+  - 随后通过旧订阅或新订阅与同一客户关联的任何合作伙伴都将获得该客户的新增额度。
   
   **当客户已直接与 Microsoft 合作时：**
 
-   - 如果客户已直接与 Microsoft 合作并且满足新的客户添加条件，则在随后通过旧订阅或新订阅与同一个客户关联的合作伙伴将无法获得新客户为该客户增加的信用额度。
+   - 如果客户已直接与 Microsoft 合作，并且已满足新的客户添加条件，则随后通过旧订阅或新订阅与同一客户关联的合作伙伴将不会获得该客户的新客户添加额度。
 
-### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI 指标 #3 功能顾问的定义
+### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI 指标定义#3 - 职能顾问
 
-功能顾问是一种 [功能指示器](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的点按以下方式为云 Business Applications 胜任度计算：
+职能顾问是一项 [功能指示器](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的分数根据云Business Applications计算，如下所示：
 
-- 功能顾问指示器点基于当月快照，最大可能收益为15点。
+- 职能顾问指示器点基于当前月份快照，最大可能收益为 15 个点。
 
-- 功能顾问定义为持有当前活动的功能顾问关联认证的个人数量，如客户参与功能顾问认证或财务和运营功能顾问认证。
+- 职能顾问定义为拥有当前有效的 功能顾问 关联认证（例如客户参与功能顾问认证或财务和运营功能顾问认证）的数量。
 
 - 客户参与功能顾问认证要求个人通过：
   - MB-200 \* 或 PL-200<br/>
-  **以及** 以下一项考试：
-  - MB-210，MB-220，MB-230，MB-240 或 MB6-898 \* \* 。
+  **和** 以下考试之一：
+  - MB-210、MB-220、MB-230、MB-240 或 MB6-898。 \* \*
 
 - 财务和运营功能顾问认证要求个人通过：
   - MB-300<br/>
-  **以及** 以下一项考试：
-  - MB-310，MB-320，MB-330，MB-897 \* \* 或 MB6-898 \* \* 。
+  **和** 以下考试之一：
+  - MB-310、MB-320、MB-330、MB-897 \* \* 或 MB6-898。 \* \*
 
 > [!NOTE]
-> 用星号标记 () 的考试 \* 将在未来几个月内停用或替换。 有关具体详细信息，请参阅以下内容：
+> 标有星号的考试 () 将停用或替换这些 \* 考试。 有关特定详细信息，请参阅下文：
 >
-> - \*在2020年12月31日停用了 () 的单个星号标记的考试。 2020年12月31日停用的考试仍有资格获得资格，并可续订到2021年12月31日（如果在其停用之前）。
+> - 标记为单一星号的考试 \* () 2020 年 12 月 31 日停用。 2020 年 12 月 31 日停用的考试在 2021 年 12 月 31 日之前仍符合资格认证和续订资格，如果在停用之前参加，
 > - \* \* 在2021年1月31日开始停用两个星号 () 的考试。 2021年1月31日在年1月31日停用的考试仍有资格获得资格，并在2022结束之前进行续订。
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI 指标 #4 的定义-功能顾问的增长
@@ -294,28 +294,28 @@ Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-sco
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | 35% |
   | 30-49 | 15-24 | 25% |
-  | 50 及以上 | 25及以上 | 请参阅下面的选项 |
+  | 50 及以上 | 25 及以上 | 请参阅下面的选项 |
 
-**选择两个以获取点：**
+**获取点的选项 2：**
 
-- 开发的市场合作伙伴50可以为其第一个基于 PCI 的云 Business Applications 胜任度。  (开发市场合作伙伴可以为首个基于 PCI 的云 Business Applications 胜任度提供25个或更多的功能顾问。 ) 
+- 已开发的市场合作伙伴可以在第一个基于 PCI 的云客户资格周年Business Applications认证 50 个或多个职能顾问。  (开发市场合作伙伴可以针对其第一个基于 PCI 的云Business Applications认证 25 个或多个职能顾问。) 
 
-- 如果你达到此阈值，则将从该日期起24个月内，你将收到全15点。 这实际上意味着，对于两个云 Business Applications 胜任度周年纪念，你将获得最多的功能顾问增长。
+- 如果达到此阈值，则自该日期起 24 个月内功能顾问 15 个点。 这实际上意味着你将获得两个云功能顾问能力周年的 Business Applications分数。
 
-### <a name="definitions-for-pci-metric-5---developers"></a>PCI 指标 #5 开发人员的定义
+### <a name="definitions-for-pci-metric-5---developers"></a>PCI 指标定义#5 - 开发人员
 
-开发人员是一个 [功能指示器](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的点按以下方式为云 Business Applications 胜任度计算：
+开发人员是一 [项功能指示器](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的分数根据云Business Applications计算，如下所示：
 
-- 开发人员定义为拥有当前活动的开发人员关联认证的个体的数目。
+- 开发人员定义为拥有当前有效的开发人员助理认证的个人数量。
 
-- 开发人员指标的要点基于当月快照，最多可有5个点。
+- 开发人员分数指示器基于当前月份快照，最多提供 5 个点。
 
-- 客户参与开发人员通过以下操作获得信用额度：
+- 客户参与开发人员在通过时获得额度：
   - PL-400<br/>**or**
-  - MB-200 \* **和** 以下一项考试：
+  - MB-200 \* **和** 以下考试之一：
     - MB-400 \* 或 MB2-716\*\*
 
-- 财务和运营开发人员通过以下操作获得信用额度：
+- 财务和运营开发人员通过：
   - MB-300<br/>
   **以及** 以下一项考试：
   - MB-500 或 MB-894\*\*
@@ -342,38 +342,38 @@ Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-sco
 
 - 如果租户为，则将租户视为超过每月活动用户阈值：
 
-  - 低于指定的阈值12个月前， **然后**
+  - 低于 12 个月之前指定的阈值 **，**
 
-  - 在后续11个月内至少超过此阈值一次。
+  - 在随后的 11 个月内至少超过该阈值一次。
 
-- 每月活动用户在租户级别进行计数，并只在租户下的付费订阅上求和。
-
-- 单月活动用户数在每月结束时计算。
-
-- 合作伙伴在订阅级别关联到租户。 订阅将映射到以下内容：符合客户参与产品的产品或财务和操作产品：
-  - 客户参与资格产品包括：销售、客户服务、现场服务、项目服务自动化、市场营销、Microsoft 关系销售、计划1、人才和企业团队成员。
-  - 金融和运营资格产品包括：统一的操作、财务、供应链管理、零售、商业、计划2、混合现实、人才和企业团队成员。
-- 所有与租户中任何付费订阅关联的合作伙伴将获得该租户中的所有客户参与或财务和操作生产实例的信用额度。
-
-### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>PCI 指标的定义 #7-每月活动用户增长
-
-每月活动用户增长是 [客户成功指标](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的点按以下方式为云 Business Applications 胜任度计算：
-
-- 每月活动用户增长率定义为过去12个月内整个客户群中每月活动用户的增长。 
-
-- 每月活动用户在租户级别进行计数，并只在租户下的付费订阅上求和。
-
-- 每月活动用户增长指标将当前月份与12个月前的基线进行比较。 最多有25个点数。
+- 每月的活动用户在租户级别进行计数，并仅对租户下的付费订阅进行汇总。
 
 - 单月活动用户数在每月结束时计算。
 
-- 每月活动用户增长的定义不同于客户参与与财务和操作路径，以及在 *开发* 市场与 *开发* 市场上合作的合作伙伴：
+- 合作伙伴在订阅级别与租户相关联。 订阅映射到符合客户参与资格的以下产品或财务和运营产品：
+  - 符合客户参与条件的产品包括：销售、客户服务、现场服务、项目服务自动化、营销、Microsoft 关系销售、计划 1、人才和企业团队成员。
+  - 符合财务和运营资格的产品包括：统一运营、财务、供应链管理、零售、商务、计划 2、混合现实、人才和企业团队成员。
+- 与租户下的任何付费订阅关联的所有合作伙伴都将获得该租户下的所有 Customer Engagement 或 Finance and Operations 生产实例的额度。
+
+### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>PCI 指标定义#7 - 每月活跃用户增长
+
+月度活跃用户增长是客户 [成功指标](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指标的分数根据云Business Applications计算，如下所示：
+
+- 月度活跃用户增长定义为过去 12 个月内整个客户群中月度活跃用户的增长。 
+
+- 每月的活动用户在租户级别进行计数，并仅对租户下的付费订阅进行汇总。
+
+- 月度活跃用户增长指标将当前月份与 12 个月之前基线进行比较。 最多提供 25 个点。
+
+- 单月活动用户数在每月结束时计算。
+
+- 每月活跃用户增长的定义不同，适用于客户参与与财务和运营渠道，以及开发市场与开发市场中 *运营的合作伙伴*： 
 
   - 要使客户参与有资格获得积分，开发的市场合作伙伴必须至少具有 **250** 每月活动用户的基准，开发市场合作伙伴在12个月之前的整个客户中必须有 **150** 个每月活动用户的基准。
 
   - 要使财务和运营有资格获得积分，开发的市场合作伙伴必须至少具有 **100** 每月活动用户的基准，开发市场合作伙伴在12个月之前的整个客户群中必须有 **50** 个每月活动用户的基准。
   
-   (有关开发和开发市场的详细信息，请参阅这些 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf.)
+   (有关开发和开发市场的详细信息，请参阅这些 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)。
 
 - 合作伙伴在订阅级别关联到租户。 订阅将映射到合格的客户参与产品，或者用于确认财务和运营产品。
 
@@ -400,4 +400,4 @@ Net customer 添加是 [性能指标](partner-contribution-indicators.md#pci-sco
 
 ## <a name="next-steps"></a>后续步骤
 
-查看有关获得金牌或银牌云 Business Applications 资格的更多 PCI [培训视频和信息性资源](https://partner.microsoft.com/asset/collection/pci-learn#/) 。
+观看更多 PCI [培训视频和有关](https://partner.microsoft.com/asset/collection/pci-learn#/) 获得金级或银级云Business Applications资源。
