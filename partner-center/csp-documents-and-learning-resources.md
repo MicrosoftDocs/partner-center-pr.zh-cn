@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502878"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686222"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>云解决方案提供商计划指南、协议、价目表和套餐
 
@@ -22,6 +22,10 @@ ms.locfileid: "106502878"
 
 - Microsoft Cloud for US Government 合作伙伴中心
 
+**相应的角色**
+
+- 全局管理员
+- 管理员代理
 
 查看本文中的信息，了解参与 Microsoft 云解决方案提供商 (CSP) 计划的要求。
 

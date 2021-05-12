@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2021
-ms.openlocfilehash: 9f0292efc6646e4abd85a6fab1e53ac9e139a915
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.openlocfilehash: bd081c190b3bccb151c2c0cd5e470ad869eb78dd
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280830"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740295"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -383,7 +383,7 @@ Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合
 
 | Operation | 合作伙伴中心文档 |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [根据 ID 获取订阅](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [获取所有客户订单](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [按 ID 获取订单](/partner-center/develop/get-an-order-by-id) |

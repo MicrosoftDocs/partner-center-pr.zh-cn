@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266463"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740329"
 ---
 # <a name="february-2021-announcements"></a>2021 年 2 月公告
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>详细信息
 
-本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格 API 将在 2021 年 5 月 4 日之前停用。 届时，在购买教育产品/服务时，你需要改用新的 POST 合作伙伴中心 API，而若要购买预获资格的非营利和 GCC 产品/服务，你需要改用新的 GET 资格 API。
+本公告是对 [12 月发布的合作伙伴中心增强功能](2020-december.md#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格 API 将在 2021 年 5 月 4 日之前停用。 届时，在购买教育产品/服务时，你需要改用新的 POST 合作伙伴中心 API，而若要购买预获资格的非营利和 GCC 产品/服务，你需要改用新的 GET 资格 API。
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -320,7 +320,7 @@ Microsoft 将实施 API 限制，目的是使调用合作伙伴中心 API 的合
 
 | Operation | 合作伙伴中心文档 |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [根据 ID 获取订阅](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/customers/{customer_id}/orders  | [获取所有客户订单](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [按 ID 获取订单](/partner-center/develop/get-an-order-by-id) |

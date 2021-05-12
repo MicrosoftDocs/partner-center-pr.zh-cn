@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528589"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740312"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>注册为云解决方案提供商直接计费合作伙伴的要求
 
@@ -61,4 +61,4 @@ ms.locfileid: "107528589"
  
 - [成为间接经销商的其他信息](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [CSP 中直接帐单合作伙伴要求的新性能标准](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- [CSP 中直接帐单合作伙伴要求的新性能标准](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
