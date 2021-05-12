@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/07/2021
-ms.openlocfilehash: 0263522eed42dbbdd11dc43f6aed490ce61b261d
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
+ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630128"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109712509"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "109630128"
 
 |**类别**|**2021 年 5 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[合作伙伴主导的联合销售交易分析](2021-may.md#9)|5 月 10 日|
+|功能|[托管和 SPLA 经销商奖励计划已延长至 2021 年 9 月 30 日](2021-may.md#8)|5 月 7 日|
+|功能|[在合作伙伴中心内可使用默认银行配置文件功能进行奖励注册](2021-may.md#7)|5 月 7 日|
 |功能|[更新：计划程序产品启动已延迟](2021-may.md#6)|5 月 5 日|
 |功能|[CSP 永久性软件即将向中国推出](2021-may.md#5)|5 月 5 日|
 |功能|[最后提醒：于 2021 年 5 月 6 日弃用 GET 资格](2021-may.md#4)|5 月 4 日|

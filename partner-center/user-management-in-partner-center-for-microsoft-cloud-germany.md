@@ -10,23 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 3889d0af73cfc683f1d45737a136a8e0c5a42656
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284513"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794966"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>德国 Microsoft 云合作伙伴中心中的用户和许可证管理
 
-**适用于**
+**适用** 于：合作伙伴中心 |Microsoft 云德国的合作伙伴中心
 
-- 德国 Microsoft 云合作伙伴中心
-
-**相应的角色**
-
-- 全局管理员
-- 帐户管理员
+**适当的角色**：全局管理员 |帐户管理员
 
 > [!IMPORTANT]
 > 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。

@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712556"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794881"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>在合作伙伴中心使用其他合作伙伴的不同方法
 
-**相应的角色**
-
-- 帐户管理员
+**适当的角色**：帐户管理员
 
 Microsoft 的云解决方案提供商 (CSP) 计划为合作伙伴提供了通过这些方式协同工作的机会。
 

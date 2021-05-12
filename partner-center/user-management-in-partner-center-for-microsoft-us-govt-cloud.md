@@ -10,22 +10,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb0a1f221f9dd7e938fb43334543801c94c3181
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: ddbc4415dc7ccf524f5e9618b2e787bc4ddb9926
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441449"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794932"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美国政府 Microsoft 云合作伙伴中心中的用户和许可证管理
 
-**适用于**
+**适用** 于：合作伙伴中心 |适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
-
-**相应的角色**
-
-- 全局管理员
+**适当的角色**：全局管理员
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在美国政府 Microsoft 云的 Azure 门户中管理用户
 

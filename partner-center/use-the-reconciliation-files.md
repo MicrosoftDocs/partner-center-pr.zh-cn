@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730071"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794949"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>了解如何读取伙伴中心对帐文件中的行项
 
-**相应的角色**
-
-- 计费管理员
-- 全局管理员
+**适当的角色**：计费管理员 |全局管理员
 
 你可以从合作伙伴中心下载你的对帐文件，以获取计费周期中每个费用的详细的行项目视图。 行项详细信息包括每个客户的订阅的费用，以及详细事件 (例如，将许可证添加到订阅) 。
 
@@ -48,38 +45,38 @@ ms.locfileid: "105730071"
 2. 选择该文件中的第一列。
 3. 打开 " **将文本转换为列" 向导**。 在功能区上，选择 " **数据**"，然后选择 " **文本到列**"。
 4. 在向导中，选择 " **带分隔符的文件类型**"。 然后，选择“下一步”  。
-5. 在 " **分隔符** " 字段中，选择 " **逗号**"。  (如果已选择 **选项卡** ，则可以选择此选项。 ) 然后选择 " **下一步**"。
-6. 在 " **列数据格式** " 字段中，选择 **Date： MDY**。 然后，选择“下一步”  。
-7. 在 " **列数据格式** " 字段中，选择 "所有金额列的 **文本** "。 然后选择“完成”。
+5. 在"**分隔符"字段中**，选择"**逗号"。**  (**选项卡** 已选中，可以将此选项保留为选中状态。) ，然后选择"下一 **步"。**
+6. 在"**列数据格式"字段中**，选择 **"日期：MDY"。** 然后，选择“下一步”  。
+7. 在" **列数据格式"字段中** ， **选择"所有金额** 列的文本"。 然后选择“完成”。
 
 ## <a name="download-reconciliation-files-programmatically"></a>以编程方式下载对帐文件
 
-协调文件可能非常大，有时很难下载。 若要以编程方式下载对帐文件，请参阅 [获取发票行项](/partner-center/develop/get-invoiceline-items)。
+对帐文件可能非常大，有时难以下载。 若要以编程方式下载对帐文件，请参阅 [获取发票行项](/partner-center/develop/get-invoiceline-items)。
 
 ## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>如果文件超出 Excel 中的行限制
 
-如果能够下载并不在 Microsoft Excel 中打开对帐文件，这可能意味着该文件包含的行数超过了 Excel 所允许的数目。 如果发生这种情况，可以使用以下任一过程打开文件。
+如果能够下载对帐文件，但没有在 Microsoft Excel 中打开它，这可能意味着该文件包含的行数超过了 Excel 允许的行数。 如果发生这种情况，可以使用以下任一过程打开文件。
 
-### <a name="open-a-recon-file-in-power-bi"></a>在 Power BI 中打开侦测文件
+### <a name="open-a-recon-file-in-power-bi"></a>在 Power BI
 
-1. 按常规方式下载协调文件。
-2. 下载、安装和打开 Power BI 的实例。
-3. 在 Power BI **主页** "选项卡上，选择" **获取数据**"。
-4. 在 **公共数据源** 列表中，选择 " **Text/CSV**"。
-5. 出现提示时，打开侦测文件。
+1. 像平时一样下载对帐文件。
+2. 下载、安装并打开 Power BI。
+3. 在 **"Power BI"选项卡上**，选择"**获取数据"。**
+4. 在"常见 **数据源"列表中，选择**"**文本/CSV"。**
+5. 系统提示时，打开 recon 文件。
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>在 Excel 数据透视表中打开侦测文件
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>在 Excel 透视表中打开 recon 文件
 
-1. 按常规方式下载协调文件。
+1. 像平时一样下载对帐文件。
 2. 在 Microsoft Excel 中打开新文件。
-3. 在 " **数据** " 选项卡上，选择 " **获取数据**"，选择 " **从文件**"，然后选择 " **文本/CSV**"。
+3. 在"**数据"** 选项卡上，**选择"获取数据**"，选择"**从文件"，** 然后选择"**文本/CSV"。**
 4. 出现提示时，打开侦测文件。 你的数据将会显示。
 5. 在 " **加载** " 下拉菜单中，选择 " **加载到**"，然后选择 **"确定"**。
 6. 在 " **导入数据** " 对话框中，选择 " **数据透视表** " 以打开文件。
 
 ## <a name="negative-amount-displayed"></a>显示负金额
 
-你可能会在对帐文件中看到负值。 这可能是由以下原因之一导致的：
+你可能会在对帐文件中看到负值。 此问题的原因如下：
 
 - 你最近取消或减少了许可证数量
 - 你已收到 (SLA) 或 Azure 使用情况的服务许可协议信用额度
@@ -110,15 +107,15 @@ ms.locfileid: "105730071"
 
 如果 CSP 合作伙伴删除了 **经销商 MPN ID**，此值将设置为 *-1*。
 
-查看或更新 **经销商 MPN ID**：
+查看或更新经销商 **MPN ID：**
 
 1. 登录到合作伙伴中心。
-2. 在 "合作伙伴中心" 菜单中，选择 " **客户**"。
+2. 在"合作伙伴中心菜单中，选择"客户 **"。**
 3. 从列表中选择客户。
-4. 在 customer 菜单中，选择 " **订阅**"。
+4. 在客户菜单中，选择"**订阅"。**
 5. 从列表中选择订阅。
 6. 选择“更新”以更改“经销商 (MPN ID)”。
 
 ## <a name="next-steps"></a>后续步骤
 
-- [如何读取帐单 & 侦测文件](read-your-bill.md) 
+- [如何读取帐单&对帐文件](read-your-bill.md) 
