@@ -119,45 +119,40 @@
           displayName: mpn
     - name: 成为 Azure 专家 MSP
       href: azure-expert-msp.md
-- name: 云解决方案提供商 (CSP)
+- name: 云解决方案提供商计划 (CSP)
   href: csp-overview.md
   displayName: csp
   items:
     - name: 注册云解决方案提供商计划
       href: enrolling-in-the-csp-program.md
       displayName: 'indirect, reseller, csp'
-    - name: Microsoft 合作伙伴协议 - CSP
-      href: microsoft-partner-agreement.md
-      displayName: 'csp, mpn'
-    - name: 间接提供商可如何帮助其经销商采用 MPA
-      href: mpa-indirect-provider-faq.md
-      displayName: 'csp, mpa, indirect, provider'
     - name: CSP 直接合作伙伴要求
       href: direct-partner-new-requirements.md
-      displayName: 'indirect, reseller, csp'
-    - name: Microsoft 客户协议（按区域和语言排列）
-      href: agreements.md
-      displayName: 'region, MPA'
     - name: 受限的直接计费访问权限
       href: restricted-direct-bill-capabilities.md
-      displayName: 'indirect, reseller'
+      displayName: 'indirect, reseller, direct'
     - name: 将 CSP 直接计费切换到间接经销商
       href: transition-direct-to-indirect.md
       displayName: csp
+- name: CSP 协议
+  href: microsoft-partner-agreement.md
+  items:
+    - name: 间接提供商可如何帮助其经销商采用 MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: CSP 协议、价目表和产品/服务
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: 注册 ID 号信息
-      href: reg-number-id.md
+    - name: Microsoft 客户协议（按区域和语言排列）
+      href: agreements.md
+    - name: 如何确认客户已接受 Microsoft 客户协议
+      href: confirm-customer-agreement.md
     - name: CSP 区域市场和货币
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
     - name: 云解决方案提供商区域授权租户合并说明
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: 如何确认客户已接受 Microsoft 客户协议
-      href: confirm-customer-agreement.md
-      displayName: 'csp, agreement'
     - name: 适用于在国家/地区云中销售
       href: csp-national-clouds-overview.md
       items:
@@ -207,6 +202,8 @@
         - name: 更新你的合作伙伴个人资料
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: 注册 ID 号信息
+          href: reg-number-id.md
         - name: 成为控制面板供应商
           href: enroll-as-cpv.md
           displayName: csp

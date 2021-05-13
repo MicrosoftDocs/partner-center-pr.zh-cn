@@ -9,25 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686290"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818654"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>合作伙伴中心中管理拒不付款、欺诈或误用
 
-**适用于**
+**适用** 于：合作伙伴中心 |适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
-
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 计费管理员
+**适当的角色**：全局管理员 |用户管理管理员 |管理代理 |计费管理员
 
 你对客户的欺诈性购买和/或客户对所购服务拒不付款的行为负有财务责任。 因此， *我们强烈建议您设置防欺诈防护和检测风险缓解* 措施。
 
@@ -63,8 +56,8 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 - 不在 person ( "不存在信用卡" 事务中发生的事务) 
 - 虚假身份
 - 在接收初始付款之前预配和使用的服务
-- 针对在线欺诈的新兴市场和/或高风险区域
-- 使用不良参与者自动创建和购买帐户
+- 在线欺诈的新兴市场和/或高风险区域
+- 由不良参与者自动创建和购买帐户
 
 ## <a name="managing-online-risk"></a>管理联机风险
 
@@ -88,8 +81,8 @@ Microsoft 的可接受使用策略违反的示例可能包括：
 - 实施一个快速接收、查看、处理和响应 Microsoft 通知的过程。
 - 与客户合作，了解其云使用情况业务需求，同时设置适当的监视阈值。  (例如，可以在门户中设置每月 [Azure](set-an-azure-spending-budget-for-your-customers.md) 支出合作伙伴中心。 通过这种了解，可以监视当月的客户使用情况，并当客户接近其预算时收到通知。) 
 - 定期 [监视客户](activity-logs.md) 活动日志，以帮助尽早检测欺诈。
-- 检测到可疑活动时快速采取措施。
-- 避免在未先实施风险缓解控制的情况下为客户提供对订阅的完全管理访问权限。
+- 当检测到可疑活动时，请执行快速操作。
+- 不要首先实施风险缓解控制，避免向客户提供对订阅的完全管理访问权限。
 
 ### <a name="managing-customer-billing"></a>管理客户帐单
 

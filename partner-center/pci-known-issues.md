@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ca9a00c5eafcbc155df20b08269cefd93c14d3
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086866"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855210"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>合作伙伴见解-常见问题
 
-**相应的角色**
-
-- 报表查看器
-- 主管人员报表查看器
+**适当的角色**：报表查看器 |Executive 报表查看器
 
 本文介绍查看或呈现与见解关联的报表的已知问题。
 
@@ -41,18 +38,18 @@ ms.locfileid: "106086866"
 
 一个) 客户所在国家/地区的客户所在的国家/地区。 此国家/地区可能不同于你可能已进行事务处理的客户所在的国家/地区。 因此，客户报告的国家/地区可能不同于您预期的国家/地区。
 
-问) **我看到报表中的一些客户名称被模糊处理。是否应为？**
+问) 报告中模糊了一些客户 **名称。这是预期结果吗？**
 
-由于合规性原因，为某些订阅对) 客户名称进行了模糊处理。 不过，客户 TPID 可用，可以使用它来查找客户的名称。
+由于) ，某些订阅会模糊处理客户名称。 但是，客户 TPID 可用，可以使用它查找客户名称。
 
-问) **报告的典型延迟是多少？**
+问) **报表的典型延迟是什么？**
 
-每日刷新一次) 订阅和客户数据，并报告一周内的数据延迟。 报告 Azure 使用情况数据的延迟为一周。 报告 Office365、团队、Dynamic365、EMS 和 Power BI 使用情况数据的时间延迟为一个月。
+每天) 订阅和客户数据刷新一次，并报告延迟为一周的数据。 报告 Azure 使用情况数据时，延迟为一周。 Office365、Teams、Dynamic365、EMS Power BI使用情况数据以一个月的延迟进行报告。
 
-问： **报表在 Internet Explorer 中未呈现，这是否是预期的) ？**
+问) **报表未在Internet Explorer中呈现 - 这是预期的吗？**
 
-) 报表在 Internet Explorer 中呈现问题。 它们适用于 Microsoft Edge 和其他浏览器。
+一) 报表的呈现问题Internet Explorer。 它们非常Microsoft Edge和其他浏览器。
 
 后续步骤
 
-- 详细了解 [合作伙伴中心见解](partner-center-insights.md)。
+- 详细了解 合作伙伴中心[Insights。](partner-center-insights.md)

@@ -4,48 +4,44 @@ ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何报告合作伙伴中心的问题以及如何为合作伙伴支持团队收集诊断信息。
+description: 了解如何报告合作伙伴支持合作伙伴中心问题以及如何收集合作伙伴支持团队的诊断信息。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441636"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855601"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>合作伙伴中心门户请求和诊断工具
 
-**适用于**
+**适用于 ：** 合作伙伴中心 |合作伙伴中心Microsoft Cloud for US Government
 
-- Microsoft Cloud for US Government 合作伙伴中心
+**适当的角色**：对角色感兴趣的所有合作伙伴中心
 
-**相应的角色**
+所有已登录合作伙伴中心用户都可以创建合作伙伴支持请求。 用户只能查看他们在登录到 合作伙伴中心 后提交的支持合作伙伴中心。
+如果合作伙伴中心门户错误或需要帮助，请联系 合作伙伴中心 支持部门。 发送诊断，以便更快地解决问题。
 
-- 所有对合作伙伴中心感兴趣的合作伙伴
+## <a name="report-a-problem-with-the-partner-center"></a>报告问题合作伙伴中心
 
-所有记录在合作伙伴中心的用户都可以创建合作伙伴支持请求。 用户仅可查看他们在登录合作伙伴中心后提交的支持请求。
-如果你发现问题或需要有关合作伙伴中心门户错误的帮助，请联系合作伙伴中心支持。 发送诊断以使问题更快修复。
+1. 在仪表板 **合作伙伴中心，** 选择"**支持"，** 然后选择"**合作伙伴支持请求"。**
 
-## <a name="report-a-problem-with-the-partner-center"></a>报告合作伙伴中心的问题
+2. 选择 **"新建** 请求"，然后搜索最能描述问题的问题类型。 选择问题类型和"**查看解决方案"。**
 
-1. 在 **合作伙伴中心** 仪表板中，选择 " **支持** "，然后选择 " **合作伙伴支持请求**"。
+3. 查看 **"建议的解决方案** "页，查看可帮助你解决问题的步骤或相关文档。
 
-2. 选择 " **新建请求** "，然后搜索最能描述你的问题的 "问题类型"。 选择 "问题类型" 和 " **查看解决方案**"。
+4. 如果 **"建议的解决方案** "解决了你的问题，可以选择 **返回到仪表板**。 如果仍然需要帮助，可以继续并提供 **问题详细信息**。
 
-3. 查看 " **推荐的解决方案** " 页，了解可以帮助你解决问题的步骤或相关文档。
+5. 完成问题 **详细信息，** 然后 **提交**。 合作伙伴支持代表将跟进与你沟通。
 
-4. 如果 **建议的解决方案** 解决了问题，则可以选择 **"返回到仪表板"**。 如果仍需要帮助，可以继续并 **提供问题详细信息**。
+## <a name="schedule-a-support-appointment"></a>安排支持约会 
 
-5. 完成 **问题详细信息** ，然后 **提交**。 合作伙伴支持代表将跟进与你沟通。
+**当前处于预览状态*
 
-## <a name="schedule-a-support-appointment"></a>计划支持约会 
-
-**目前处于预览阶段*
-
-如果你的问题需要与支持人员交流，你可以从你的票证详细信息计划约会。
+如果问题需要与支持人员对话，可以从票证详细信息中安排约会。
 
 :::image type="content" source="images/support/ticket.png" alt-text="计划支持约会":::
 

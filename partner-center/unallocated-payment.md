@@ -9,19 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3920cbdc52a844477aacac9c7ac2122c14edeba
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 018416585ea141d4842ec0787b59fd7e214c9999
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755805"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818620"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>管理合作伙伴中心帐单页上的未分配付款
 
-**相应的角色**
-
-- 计费管理员
-- 帐户管理员
+**适当的角色**：计费管理员 |帐户管理员
 
 偶尔，你可能会在帐单页上看到未分配的付款。 未分配的付款是指你向 Microsoft 支付的尚未应用于特定发票的付款。
 

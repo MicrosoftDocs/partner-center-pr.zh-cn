@@ -1,63 +1,60 @@
 ---
-title: 将 Windows 10 家庭版升级到 Windows 10 教育版
+title: 将Windows 10 家庭版升级到 Windows 10 教育版
 ms.topic: article
 ms.date: 10/28/2020
-description: 了解云解决方案提供商如何 (CSP) 合作伙伴如何从 Windows 10 家庭版升级到 Windows 10 教育版的部分教育客户
+description: 了解如何云解决方案提供商 (CSP) 合作伙伴将一些教育客户从 Windows 10 家庭版 升级到 Windows 10 教育版
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022734"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818688"
 ---
-# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>将一些教育客户从 Windows 10 家庭版升级到 Windows 10 教育版
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>将某些教育客户从 Windows 10 家庭版 升级到 Windows 10 教育版
 
-**相应的角色**
-
-- 管理员代理
-- 计费管理员
+**适当的角色**：管理员代理|计费管理员
 
 ## <a name="overview"></a>概述
 
-从2020年11月1日起，已购买 Microsoft 365 A3 或 A5 或 Windows 10 企业版 A3 或 A5 订阅的 Csp 可帮助其教育客户从 Windows 10 家庭版升级到 Windows 10 教育版，这适用于教室和远程学习。
+从 2020 年 11 月 1 日开始，已购买 Microsoft 365 A3、A5 或 Windows 10 企业版 A3 或 A5 订阅的 CSP 可以帮助其教育客户从 Windows 10 家庭版 升级到 Windows 10 教育版，这是专为课堂和远程学习而设计的。
 
 从 2020 年 11 月 1 日开始，Windows 10 家庭版将成为通过 Microsoft 云协议（通过 CSP）许可的教育版客户的合格操作系统。 此资格到目前为止只在批量许可 (VL) 教育计划中提供，是通过 Microsoft 365 管理门户支持启用的。 
 
 ## <a name="how-the-upgrade-process-works"></a>升级过程的工作原理
 
-CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级。 Microsoft 支持部门将检查请求，以确保客户有资格：批准请求后，支持人员会向合作伙伴提供 Windows 10 专业版教育密钥，然后将其提供给客户。
+CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级。 Microsoft 支持评审请求以确保客户符合条件;请求获得批准后，支持人员将Windows 10 专业教育版密钥给合作伙伴，然后该合作伙伴可以为客户提供该密钥。
 
 客户安装密钥且设备通过 Azure Active Directory (AAD) 加入租户域后，设备将自动升级到 Windows 10 教育版（订阅）。   
 
-## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>客户获取 Windows 10 教育的循序渐进过程
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>客户获取产品/服务Windows 10 教育版
 
-合作伙伴应创建支持请求并获取支持中的密钥。 合作伙伴然后与客户共享这些密钥。
+合作伙伴应创建支持请求，然后从支持获取密钥。 然后，合作伙伴与客户共享这些密钥。
 
-### <a name="partners--how-to-get-the-keys"></a>合作伙伴–如何获取密钥：
+### <a name="partners--how-to-get-the-keys"></a>合作伙伴 - 如何获取密钥：
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
 
-2. 从 "合作伙伴中心" 菜单中，选择 " **客户**"，然后选择需要支持的客户。
+2. 在"合作伙伴中心"菜单中， **选择"客户"，** 然后选择需要支持的客户。
 
 3. 选择 **服务管理**，然后选择 **服务请求**。
 
-4. 选择 " **新建请求** "，然后选择 " **Office 365 和企业移动性套件**"。
+4. 选择 **"新建请求**"，然后选择 **"Office 365 和企业移动性套件"。**
 
-5. 你将转到 Office 365 门户，你需要使用合作伙伴中心凭据进行登录。
+5. 你将访问 Office 365 门户，需要使用该凭据合作伙伴中心登录。
 
-6. 从左侧菜单中选择 **"支持"、"新建服务请求"** 。
+6. 从 **左侧菜单中选择"支持"-"** 新建服务请求"。
 
-7. 在支持请求中包括以下详细信息：
+7. 在详细信息中包括以下支持请求：
 
-- **标题：** Windows 10 家庭版到 Windows 10 教育升级产品密钥
-- **说明：** 请求 [insert number] 键，以便升级到 Windows 10 教育版。  (注意，请求的密钥数不得大于 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅许可证。 ) 客户的订阅 ID [为其 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅插入客户订阅 ID GUID。]
-- **联系号码：** 这将被预先填充;查看以确认或更新。
+- **标题：** Windows 10 家庭版Windows 10 教育版升级产品密钥
+- **说明：** 请求 [插入数字] 键以启用到 Windows 10 教育版。  (请注意，请求的密钥数不得大于 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅许可证。) 客户的订阅 ID [插入客户的订阅 ID GUID 作为 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅。]
+- **联系人号码：** 这将预先填充;查看以确认或更新。
 - **电子邮件：** 这会被预先填充，并且应该是用作 Microsoft 门户管理员的电子邮件， (全局管理员或仅计费管理员) 。
 - **首选联系方法**：选择 **电话号码** 或 **计划回拨**。
 
@@ -84,17 +81,17 @@ CSP 合作伙伴可以代表客户提交支持请求，从而帮助客户升级�
 不是，VL 客户通过注册教育解决方案 (EES) ，为教育解决方案打开价值订阅 (OVS-ES) ，School 应该进入 [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) 下载产品和密钥。 
 
 **我的客户需要的密钥超过最初请求的数量。如何获取它们？**
-你可以为客户的 Windows 10 家庭设备提交额外的密钥支持请求。 跨多个请求的总数量不应大于其 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 订阅的总活动许可证。
+你可以为客户的 Windows 10 家庭设备提交额外的密钥支持请求。 多个请求的总数量不应大于其 A3/A5 或 Microsoft 365 A3/A5 订阅Windows 10 企业版许可证总数。
 
-**我的客户要购买更多 Windows 10 家庭设备。能否获得更多升级？**
-教育客户应考虑使用低成本的 Windows 10 教育设备，这 [是我们的未来](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) 计划，无需升级 Windows 10 家庭设备。 如果他们购买了更多 Windows 10 家庭设备，合作伙伴必须通过 Microsoft 管理门户提交新的支持请求。
+**我的客户即将购买更多Windows 10 家庭版设备。他们能否获得更多升级？**
+教育客户应考虑通过我们的Windows 10 教育版计划Shape the Future低成本的设备，并且无需升级Windows 10 家庭版[](https://www.microsoft.com/education/products/windows/shapethefuture.aspx)设备。 如果他们购买的设备Windows 10 家庭版，合作伙伴必须通过 Microsoft 管理门户提交新的支持请求。
 
-**是否有截止时间与支持部门联系并接收升级密钥？**
-Windows 10 教育升级基于客户的活动 Microsoft 365 A3/A5 或 Windows 10 企业版 A3/A5 许可订阅。 如果客户不扩展或续订订阅，则升级资格也将结束。
+**何时联系支持部门并接收升级密钥是否有截止时间？**
+此Windows 10 教育版基于客户的 A3/A5 或 Microsoft 365 A3/A5 Windows 10 企业版的活动订阅。 如果客户未延长或续订订阅，则升级资格也会结束。
 
 ## <a name="next-steps"></a>后续步骤
 
-**合作伙伴可以在哪里了解有关 Windows 10 教育的详细信息？**
+**合作伙伴可以从何处了解有关Windows 10 教育版？**
 
-- [Windows 教育功能](https://www.microsoft.com/education/products/windows/features)
+- [Windows 结构功能](https://www.microsoft.com/education/products/windows/features)
 - [Windows 教育中心](/education/windows/)

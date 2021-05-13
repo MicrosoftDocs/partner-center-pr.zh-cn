@@ -4,41 +4,39 @@ ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 解决可能的原因并了解无法登录到合作伙伴中心时的解决方案-详细了解重置密码、检查角色和检查凭据。
+description: 排查可能的原因，并了解无法登录合作伙伴中心的解决方案 - 详细了解重置密码、检查角色和检查凭据。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266565"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818790"
 ---
-# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>合作伙伴中心的登录问题疑难解答
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>排查登录问题合作伙伴中心
 
-**相应的角色**
+**适当的角色**：对角色感兴趣的所有合作伙伴中心
 
-- 所有对合作伙伴中心感兴趣的合作伙伴
+本文包含适用于用户登录的常见登录合作伙伴中心。
 
-本文包含合作伙伴中心常见登录问题的解决方案。
+## <a name="youve-forgotten-your-password-for-partner-center"></a>你忘记了密码合作伙伴中心
 
-## <a name="youve-forgotten-your-password-for-partner-center"></a>你忘记了合作伙伴中心的密码
+如果忘记了密码，并且无法登录到合作伙伴中心，请联系支持人员。 在"业务产品支持 ["中查找相应的联系人](/microsoft-365/admin/contact-support-for-business-products)。
 
-如果你忘记了密码，但无法登录到合作伙伴中心，请联系支持人员。 在 [支持业务产品](/microsoft-365/admin/contact-support-for-business-products)时查找相应的联系人。
+如果你是 MPN 合作伙伴，请让全局管理员创建一个新密码。 如果你是 CSP 间接经销商，请要求间接提供商在 Azure AD 租户上创建新的全局管理员，或者使用其委派的管理员权限创建新的密码。
 
-如果你是 MPN 合作伙伴，请让你的全局管理员为你创建新密码。 如果你是一个 CSP 间接经销商，请向你的间接提供商要求你为你的 Azure AD 租户创建新的全局管理员，或者使用其委派的管理员权限创建新密码。
+若要详细了解如何重置密码并重新获得对工作帐户的访问权限，请阅读使用安全信息重置工作或 [学校密码](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)。
 
-若要详细了解如何重置密码和重新获得工作帐户的访问权限，请阅读 [使用安全信息重置工作或学校密码](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)。
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>无法查看或管理中预期的页面或合作伙伴中心
 
-## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>你无法在合作伙伴中心查看或管理预期的页面或功能
+对 合作伙伴中心 页的访问权限由你分配的角色控制。 若要检查已分配的角色，请在"设置"合作伙伴中心选择"设置"图标，选择"帐户设置"，然后在"帐户设置"中选择"用户 **管理"。** 在"搜索"中，键入你的姓名，然后查看结果。
 
-对合作伙伴中心中的页面的访问权限由你分配的角色控制。 若要查看分配的角色，请在 "合作伙伴中心" 中选择 "设置" 图标，选择 " **帐户设置**"，然后在 "帐户设置" 中选择 " **用户管理**"。 在 "搜索" 中，键入您的姓名，然后查看结果。
+如果无法查看或管理你期望的能力、客户、奖励或用户，请尝试以下解决方案：
 
-如果无法查看或管理预期的能力、客户、奖励或用户，请尝试以下解决方案：
-
-- 若要访问 MPN、CSP 和引用的功能，请联系你的全局管理员或帐户管理员。若要详细了解角色以及他们在合作伙伴中心启用的任务，请参阅向 [用户分配角色 & 权限](permissions-overview.md)。
+- 若要访问 MPN、CSP 和引荐的功能，请联系全局管理员或帐户管理员。若要详细了解角色及其在 合作伙伴中心 中启用的任务，请参阅将& [角色分配给用户](permissions-overview.md)。
 - 若要访问商业市场和 Windows & Xbox、Office 应用商店、Microsoft Edge 和硬件开发人员计划的功能，请与组织中的 "所有者" 或 "经理" 角色联系。 若要了解有关角色和权限的详细信息，请参阅 [如何在 Microsoft 合作伙伴中心管理商业 marketplace 帐户](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions)。
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>你无法在合作伙伴中心看到你的产品/服务或权益

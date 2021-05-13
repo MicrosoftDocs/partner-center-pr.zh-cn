@@ -9,23 +9,17 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b369cd263f1852c54c260fa39860e7acafae5f90
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: dd8a9b09d4dbd45c0d76bce1674babfd5e17cdbe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633652"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854122"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>为客户提供计费支持并帮助解答计费问题
 
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 支持人员代理
-- 计费管理员
-- 销售代理
+**适当的角色**：全局管理员 |用户管理管理员 |支持人员代理 |计费管理 |销售代理
 
 你拥有与客户的计费关系，并负责回答你的客户可能遇到的与计费相关的问题。
 
@@ -56,7 +50,7 @@ ms.locfileid: "105633652"
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 
 
-对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参见:
+对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参阅：
 
 - [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

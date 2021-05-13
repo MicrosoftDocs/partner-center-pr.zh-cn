@@ -9,22 +9,17 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633839"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854989"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技术支持以帮助客户配置、管理和使用其订阅
 
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 支持人员代理
-- 管理员代理
+**适当的角色**：全局管理员 |用户管理管理员 |支持人员代理 |管理代理
 
 作为云解决方案提供商合作伙伴，你已委派了管理员权限，使你能够访问客户的环境。 这些特权使你能够直接支持、配置和管理客户的订阅。
 
@@ -59,7 +54,7 @@ ms.locfileid: "105633839"
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供计费、订阅管理和技术支持 
 
-对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参见:
+对于向客户提供计费、订阅管理和技术支持，每一项在线服务都有特定和详细的要求。 有关详细信息，请参阅：
 
 - [通过云解决方案提供商销售的 Dynamics 365 订阅](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

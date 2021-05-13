@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0c8812683a038ce1f869cb3cb6750424d49ec05
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028361"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855397"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品以及如何在合作伙伴中心创建教育客户
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |管理代理 |销售代理
 
 ## <a name="create-an-education-customer"></a>创建教育客户
 
@@ -78,25 +74,25 @@ ms.locfileid: "105028361"
 
 您必须拥有全局管理员权限才能更新客户的信息。 你需要在 Office 365 门户上更新信息，因为此数据无法从合作伙伴中心门户更新。
 
-1. 在 " **帐户** " 页上，你将看到说明客户资格视为 "不是教育客户" 的信息。
+1. 在 **"帐户** "页上，你将看到指出客户资格被视为"不是教育客户"的信息。
 
-2. 刷新浏览器以重置页面。 将会出现 " **更新** " 按钮和 " **特殊资格" 状态** 设置为 " **无**"。
+2. 刷新浏览器以重置页面。 将会有一个 **"更新"** 按钮 **，"特殊资格状态**"设置为"无 **"。**
 
-3. 选择“更新”。 在 " **服务管理** " 页上，选择 " **Office 365**"。
+3. 选择“更新”。 在"**服务管理"页上**，选择 **"Office 365"。**
 
-4. 你将被重定向到你的浏览器的新选项卡上的 Office 365 管理中心。 可能会要求你登录凭据。
+4. 你将重定向到浏览器新选项卡上的 Office 365 管理中心。 系统可能会要求你使用凭据登录。
 
 5. 选择“设置”。
 
-6. 选择屏幕顶部的 " **组织配置文件** " 选项卡，然后选择 " **组织信息**"。 你现在可以更新客户详细信息。
+6. 选择 **屏幕顶部的"** 组织配置文件"选项卡，然后选择"**组织信息"。** 现在可以更新客户详细信息。
 
-7. 选择侧栏底部的 " **保存更改** "。  
+7. 选择 **边栏** 底部的"保存更改"。  
 
-### <a name="resubmit-for-verification"></a>重新提交以进行验证
+### <a name="resubmit-for-verification"></a>重新提交验证
 
-1. 导航到 "合作伙伴中心" 选项卡，然后导航到 "客户 **帐户** " 页。 刷新浏览器并验证公司页面是否更新为新的信息。 选择 " **更新** " 按钮，请求教育重新验证。
+1. 导航到"合作伙伴中心"选项卡，并导航到"客户 **帐户"** 页。 刷新浏览器并验证"公司"页是否更新为新信息。 选择 **"更新** "按钮以请求教育重新验证。
 
-2. 如果更新的客户详细信息符合教育优惠，你将看到特殊的 **资格** 已更新为 " **教育**"。 如果仍看 **不到教育客户**，请联系支持人员进行手动验证。
+2. 如果更新的客户详细信息符合教育产品/服务的资格，你将看到"特殊 **资格"已更新为**"**教育"。** 如果仍看到 **"不是教育客户"，** 请联系支持人员进行手动验证。
 
 ## <a name="next-steps"></a>后续步骤
 
@@ -104,4 +100,4 @@ ms.locfileid: "105028361"
 
 - [添加新客户](add-a-new-customer.md)
 
-- [销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)
+- [向Minecraft: Education Edition客户销售订阅](minecraft-subscriptions.md)

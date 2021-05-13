@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702801"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854837"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>设置付款帐户和纳税表单
 
-**相应的角色**
-
-- 帐户管理员
-- 全局管理员
+**适当的角色**：帐户管理员 |全局管理员
 
 若要在商业市场中通过产品/服务销售获得资金，你需要在[合作伙伴中心](https://partner.microsoft.com/dashboard)设置付款帐户，并填写所需纳税表单。
 

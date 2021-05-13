@@ -6,18 +6,16 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
-ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
+ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108067376"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854802"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>商业市场发布者的税务详细信息
 
-**相应的角色**
-
-- 全局管理员
+**适当的角色**：全局管理员
 
 本页为商业市场出版商 (出版商) 和使用者 Marketplace 开发人员 (开发人员) 与 [Microsoft Azure 市场出版商协议](https://go.microsoft.com/fwlink/p/?LinkID=699560) 和 [应用开发人员协议](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)相关的出版商/开发人员产品的最终客户购买的税务责任和税务注意事项。  以下信息是对 Microsoft 发行者协议和应用开发人员协议中的条款和条件的补充，而不打算替换。  除非另有说明，否则以下信息适用于商业 Marketplace 发布者和使用者 Marketplace 开发人员，这些开发人员通过 Microsoft 市场提供其产品/产品/服务。 
 
@@ -25,11 +23,11 @@ ms.locfileid: "108067376"
 
 Microsoft 的和出版商的/Developers 负责销售、使用、商品和服务、增值或类似税款（如果有），如果有，最终客户销售 (**最终客户纳税**) 取决于发布者/开发人员选择向最终 Microsoft 市场客户提供产品/服务的国家/地区 () 。 下表设置了可通过 Microsoft 市场 (s) 的销售资格的国家/地区的最终客户纳税情况和责任。  以下信息可能会发生更改，发布者/开发人员负责查看此页面，了解当前的准确信息。
 
-在 **发布者/开发人员托管的国家/地区**，Microsoft 充当发布者/开发人员) 适用的代理或加盟 (。 发布者/开发人员确认并同意发布者/开发人员自行负责确定所需的所有符合性，并负责管理、最终客户纳税，包括但不限于注册、税收计算、税务收集、税务汇款、对客户业务状态的验证以及向客户提供税务发票。 发布者/开发人员确认，与发布者/开发人员托管的国家/地区的任何销售相关，Microsoft 目前可能无法提供发布者/开发人员向客户提供税务发票所需的事务详细信息。 
+在 **发布者/开发人员托管的国家/地区**，Microsoft 充当发布者/开发人员) 适用的代理或加盟 (。 发布者/开发人员确认并同意，发布者/开发人员单独负责确定最终客户税务的所有合规性以及管理最终客户税务，包括但不限于注册、税务计算、税务收取、税务登记、验证客户的业务状态以及为客户提供税务发票。 发布者/开发人员确认，对于发布者/开发人员托管国家/地区的任何销售，Microsoft 当前可能无法提供发布者/开发人员为客户提供税务发票所需的交易详细信息。 
 
-在 **microsoft 托管的国家/地区**，Microsoft 充当发布者/开发人员的代理。 Microsoft 负责管理最终客户纳税，包括计算、收集和/或 remitting 特定税金。 对于商业市场，这可能还包括通过获取税务注册号或豁免证书来验证最终客户的业务状态。 Microsoft 通过本地子公司或本地注册的远程子公司来管理最终客户纳税。 Microsoft 的注册号下的发票。 Microsoft 包括从最终客户收集的任何税款，按 Microsoft 的税收返还。
+在 **Microsoft 托管的国家/地区**，Microsoft 充当发布者/开发人员的代理。 Microsoft 负责管理最终客户税款，包括计算、收集和/或发出某些税款。 对于商业市场，这可能包括通过获取税务注册号或豁免证书来验证最终客户的业务状态。 Microsoft 通过本地关联公司或远程关联公司（在本地注册）管理最终客户税务。 Microsoft 的注册号下的 Microsoft 发票。 Microsoft 包括从最终客户收取的 Microsoft 税务返回单上的任何税款。
 
-Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托管的国家/地区的发布者/开发人员义务。  对于所有 Microsoft 托管的国家/地区，Microsoft 强烈建议发布者/开发人员与他们自己的税务顾问一起使用，以确定 Microsoft 托管税收汇款是否足以满足发行者的/Developers 遵从性要求。 对于发布者/开发人员从中销售产品/服务的任何 Microsoft 管理的国家/地区，这一点特别重要。  Microsoft 充当 Microsoft 托管的国家/地区的发布者/开发人员代理。
+Microsoft 不保证 Microsoft 的操作将完全履行 Microsoft 托管国家/地区中的发布者/开发人员义务。  对于所有 Microsoft 管理的国家/地区，Microsoft 强烈建议发布者/开发人员与其自己的税务顾问合作，以确定 Microsoft 管理的税务监管是否足以满足发布者/开发人员的合规性要求。 对于发布者/开发人员销售其产品/服务的任何 Microsoft 托管国家/地区，这一点尤其重要。  Microsoft 充当 Microsoft 托管国家/地区发布者/开发人员的代理。
 
 在 **分销商国家/地区**，Microsoft 充当经销商，而不是作为发布者/开发人员的代理，使发布者/开发人员产品/服务可通过 Microsoft 市场 (s) 向最终客户销售。  发布者/开发人员负责销售、使用、商品和服务、增值或类似税款（如果有），在产品/服务向 Microsoft 销售产品/服务时，Microsoft 负责转售给最终客户的所有最终客户纳税。
 
@@ -89,7 +87,7 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 |加拿大|冰岛|新西兰|西班牙|
 |智利|印度|挪威|瑞典|
 |哥伦比亚|印度尼西亚|波兰|瑞士|
-|克罗地亚|爱尔兰|葡萄牙|台湾|
+|克罗地亚|爱尔兰|葡萄牙|中国台湾|
 |塞浦路斯|意大利|罗马尼亚|土耳其|
 捷克|拉脱维亚|俄罗斯|阿拉伯联合酋长国|
 |丹麦|列支敦士登|沙特阿拉伯|英国|
@@ -98,28 +96,28 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>具有 marketplace 差异的最终客户纳税
 
-|**国家/地区**|**商业市场 (Azure Marketplace & AppSource)**| **消费者 Marketplace (Microsoft Store)**|
+|**国家/地区**|**商业市场 (Azure 市场 & AppSource)**| **消费者市场 (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|巴西|分销商除外：通过 CSP 客户购买方案管理的发布者|托管的开发人员除外：通过在 Windows 10 上运行的设备进行购买的分销商|
-|墨西哥|Microsoft 托管除外：通过企业协议客户购买方案购买分销商|Microsoft 托管|
-|澳大利亚|Microsoft 托管除外：通过企业协议客户购买方案购买分销商|Microsoft 托管|
-中国|Marketplace 未启用|已启用分销商除外：针对运行 Windows phone 7、windows 和个人计算机（运行 Windows 8.x）的移动通信设备管理的开发人员|
-|巴林|发布者管理|Microsoft 托管|
-|阿曼|发布者管理|Microsoft 托管|
+|巴西|经销商除外：通过 CSP 客户购买方案管理的发布者购买|开发人员管理的除外：经销商，用于通过设备上运行的设备进行Windows 10|
+|墨西哥|Microsoft 托管的除外：经销商通过企业协议客户购买方案进行购买|Microsoft 托管|
+|澳大利亚|Microsoft 托管的除外：经销商通过企业协议客户购买方案进行购买|Microsoft 托管|
+中国|未启用市场|已启用经销商，但开发人员为运行 Windows Phone 7.x 的移动设备和运行 Windows 8.x 的个人计算机管理|
+|巴林|发布者托管|Microsoft 托管|
+|阿曼|发布者托管|Microsoft 托管|
 
 
-## <a name="tax-considerations-on-payouts"></a>有关付款的税务注意事项
+## <a name="tax-considerations-on-payouts"></a>付款的税务注意事项
 
-在发布者/开发人员托管的国家/地区，Microsoft 发布者/开发人员的费用是商店费用的净费用，还包括任何适用的税费，其中可能包括以下任何一项：预缴税金和销售、使用、商品和服务、在商店费用中添加或类似税款。
+在发布者/开发人员管理的国家/地区，Microsoft 向发布者/开发人员支付的费用不包括商店费用以及任何适用的税款，其中可能包括以下任一项：预扣税和销售、使用、商品和服务、增值或商店费用的类似税款。
 
-在适用于 Microsoft 托管的国家和经销商中，Microsoft 发布者/开发人员的费用是商店费用的净费用，并且有任何适用的税费，其中可能包括以下任何内容：最终客户税费、预缴税金和销售、使用、商品和服务、对商店费用添加或类似的税费。 Microsoft 为发布者/开发人员提供的 [报表](payout-statement.md) 可识别这些税收的数量。 
+在适用的 Microsoft 托管国家/地区以及经销商中，Microsoft 向发布者/开发人员支付的费用不包括商店费用以及任何适用的税款，其中可能包括以下任一项：最终客户税、预扣税和销售、使用、商品和服务、增值或商店费用的类似税款。 Microsoft [](payout-statement.md)提供给发布者/开发人员的报告标识了这些税款金额。 
 
-在以下国家/地区，Microsoft 将收集有关商店费用的税收，发布者/开发人员选择使用该产品/服务向最终客户提供产品/服务，)  (Microsoft 市场：
+Microsoft 针对以下国家/地区中的商店费用收取税款，其中发布者/开发人员选择通过以下国家/地区向最终客户Microsoft 市场 (产品/) ：
 
-|**国家/地区**|**商业应用商店**|**使用者 Marketplace**|
+|**国家/地区**|**商业市场**|**消费者市场**|
 |----------------|-----------------------------|-----------------------|
-|澳大利亚|服务费税|服务费税|
-|加拿大|服务费税|服务费税|
+|澳大利亚|服务费用税|服务费用税|
+|加拿大|服务费用税|服务费税|
 |墨西哥|不适用|服务费税|
 |新西兰|服务费税|服务费税|
 |新加坡|服务费税|服务费税|
@@ -154,12 +152,12 @@ Microsoft 不作任何保证，Microsoft 的行动将完全满足 Microsoft 托�
 
   :::image type="content" source="images/tax/withholding-one.png" alt-text="显示预缴税金不含税率的图表":::
 
-- 方案二：外国发布方 (适用于税务配置文件的适用税务条约权益到零% 费率) 使用条约向我们的客户进行销售。 
+- 方案二：外 (发布者在税务配置文件上享受适用的税务优惠权益，以零) 向美国客户销售。 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="显示预缴税金与税率的图表":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="显示预扣税和税务优惠的图表":::
 
 ## <a name="next-steps"></a>后续步骤
 
-- [发布者常见问题](/azure/marketplace/marketplace-faq-publisher-guide) 
+- [发布者常见问题解答](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [创建付款和税务配置文件的说明](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
+- [有关创建付款和税务配置文件的说明](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

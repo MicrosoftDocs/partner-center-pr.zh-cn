@@ -1,60 +1,55 @@
 ---
-title: 合作伙伴中心见解概述仪表板
+title: 合作伙伴中心 Insights 概述仪表板
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 查看有关使用许可证、订阅和 Azure 消耗的销售和部署、客户增长和收入增长情况的快照。
+description: 查看使用许可证、订阅和 Azure 消耗处理销售和部署、客户增长和收入增长的快照。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14d280a65fa7c72ed382fd8b27e0354a4aa9e190
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120811"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855193"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>简要介绍合作伙伴中心见解内提供的仪表板报表
  
-**相应的角色**
+**适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-- 全局管理员
-- 管理员代理
-- 报表查看器
-- 主管人员报表查看器
+"见解概述"仪表板提供关键绩效指标（如客户、订阅、Azure 消耗收入、许可证）的快照视图。 可以在"概述"报告中可视化以下图表。
 
-Insights 概述仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入和许可证。 您可以在 "概述" 报表中直观显示以下图表。
-
-- 总结  
+- 摘要  
 - 客户、订阅和许可证的地理分布  
 - 客户增长趋势 
 - 订阅增长趋势 
-- Azure 使用收入增长趋势 
+- Azure 已使用收入增长趋势 
 - 许可证增长趋势 
 
-## <a name="summary"></a>总结
+## <a name="summary"></a>摘要
 
-此摘要包括有关客户、Azure 消耗收入 (ACR) 、销售订阅、活动订阅和部署的许可证的信息。 
+摘要包括有关客户、Azure 已使用收入 (ACR) 、销售的订阅、活动订阅和已部署的许可证的信息。 
 
-:::image type="content" source="images/pci/summary.png" alt-text="汇总许可证":::
+:::image type="content" source="images/pci/summary.png" alt-text="摘要许可证":::
 
-下面是有关摘要的每个部分的详细信息。
+有关摘要的每个部分，请参阅以下详细信息。
 
 ### <a name="customers"></a>客户
 
-" **客户** " 区域包括：
+" **客户"** 区域包括：
 
-- 所有客户的当前计数，其中至少有一个活动订阅与你的公司通过不同的归属类型和所有云产品关联。
-- 所选日期范围内客户的百分比增长。
-- 微图显示了所选日期范围内客户计数的月月趋势。
+- 通过不同属性类型和所有云产品与公司关联的至少一个活动订阅的所有客户的当前计数。
+- 所选日期范围内客户的增长百分比。
+- 该微图表显示所选日期范围内客户计数的每月趋势。
 
-### <a name="azure-consumed-revenue-acr"></a>Azure 消耗收入 (ACR) 
+### <a name="azure-consumed-revenue-acr"></a>Azure 已使用收入 (ACR) 
 
-摘要上的 **Azure 消耗收入 (ACR)** 部分包括：
+摘要 **Azure 已使用收入 (ACR)** 区域包括：
 
-- 在 US $) 中，Azure 消耗的总收入 (在所选日期范围内。
+- 在Azure 已使用收入 (范围内) 的总计值（以美元$表示）。
 - 在所选日期范围内，属性化 ACR (在 US $) 增长或拒绝百分比。
 - 微图显示了 ACR US $ 在所选日期范围内的按月趋势 
 
@@ -87,28 +82,28 @@ Insights 概述仪表板提供关键绩效指标的快照视图，例如客户�
 
 ## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>客户、订阅和许可证的地理分布
 
-此视图是按客户所在国家/地区的客户、订阅和许可证的地理分布。 选择不同的选项卡，查看地图上的每个见解。 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 按地图上的 "主页" 按钮，还原到原始视图。 单击每个选项卡 (例如，"客户"、"订阅") 显示每个国家/地区的指标值以及该国家/地区的总百分比。  
+此视图是按客户所在国家/地区的客户、订阅和许可证的地理分布。 选择不同的选项卡，在地图上查看每个见解。 可以在网格中搜索并选择国家/地区，以缩放到地图中的位置。 按地图上的"主页"按钮，还原为原始视图。 单击每个 (选项卡，例如，"客户) "选项卡会显示每个国家/地区的指标值，以及国家/地区总计的百分比。  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="地理汇总":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="地理摘要":::
 
 ## <a name="customers-growth-trend"></a>客户增长趋势
 
-所选日期范围内客户总数的月趋势。 X 轴表示所选日期范围内的月份，Y 轴表示该月的总客户计数。 
+所选日期范围的总客户计数的每月趋势。 X 轴表示所选日期范围的月份，Y 轴表示该月的总客户计数。 
 
 :::image type="content" source="images/pci/customergrowth.png" alt-text="客户增长趋势":::
 
 ## <a name="subscriptions-growth-trend"></a>订阅增长趋势
 
-这表示所选日期范围内客户订阅计数的趋势。 X 轴表示所选日期范围内的月份，Y 轴表示产品的订阅计数。 在图表顶部滚动遍历滑块，以将图表缩放到特定时间段。 
+这表示所选日期范围内客户订阅计数的趋势。 X 轴表示所选日期范围的月份，Y 轴表示所选产品的订阅计数。 滚动图表顶部的滑块，将图表缩放到特定的时间段。 
 
 :::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="订阅增长趋势":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Azure 使用收入增长趋势
+## <a name="azure-consumed-revenue-growth-trend"></a>Azure 已使用收入增长趋势
 
-Azure 的每月趋势在所选日期范围内使用美国收入。 X 轴表示所选日期范围内的月份，Y 轴表示当月使用的 Azure 已用收入总计。
+在所选日期范围内，Azure 已使用收入（美元）的每月趋势。 X 轴表示所选日期范围的月份，Y 轴表示当月归为你的 Azure 使用的总收入 US$ 。
 
 > [!NOTE]
->  (ACR) 的 Azure 使用收入将仅对已分配有执行报表查看器角色的用户可见。 
+> Azure 已使用收入 (ACR) 仅对分配有"执行报告查看器"角色的用户可见。 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure 消耗":::
 

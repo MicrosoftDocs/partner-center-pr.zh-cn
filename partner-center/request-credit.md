@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018146"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855550"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>如何以及何时向 Microsoft (SLA 请求服务级别协议) 信用额度
 
-**相应的角色**
-
-- 管理员代理
-- 全局管理员
+**适当的角色**：管理代理 |全局管理员
 
 如果提供给客户的服务发生服务中断，则可以 **(SLA 请求服务级别协议) 信用额度** 。
 
@@ -46,32 +43,32 @@ Microsoft 的 SLA 信用取决于) 受影响的服务 (。 例如，如果你的
 向 Microsoft [提交 SLA 信用请求](#submit-sla-credit-request) 之前，必须收集以下 **所有** 信息，包括在支持票证中：
 
 - 客户租户的 GUID
-- [中断事件标识符](#outage-incident-identifier)？
-- 证明客户受到中断的影响，并请求 SLA 信用。
-- 受影响的订阅是否通过 CSP 购买？  (*"是" 或 "* *否* ") 
+- 中断[事件标识符？](#outage-incident-identifier)
+- 客户受中断影响并请求 SLA 额度的证据。
+- 通过 CSP 购买的受影响的订阅吗？  (*是* 或 *没有)*
 
 #### <a name="evidence-that-proves-customer-impact"></a>证明客户影响的证据
 
-- 有关停机时间和持续时间的信息
-- 受影响的用户的 () 数量和位置 (（如果适用）) 
-- 尝试在发生事件时解决事件
-- 受影响客户请求支持并随后信用的电子邮件
-- 有关解决服务影响的客户联系人的支持票证编号和详细信息
+- 有关停机时间时间和持续时间的信息
+- 受影响用户 (的数量) 位置 (（如果适用) 
+- 发生事件时尝试解决事件的说明
+- 来自受到影响的客户的电子邮件，请求支持和后续额度
+- 有关解决服务影响的支持票证编号和客户联系人的详细信息
 
 
-#### <a name="outage-incident-identifier"></a>停机事件标识符
+#### <a name="outage-incident-identifier"></a>中断事件标识符
 
-可以在 " **服务运行状况** " 页上的 "Microsoft 365 管理中心" 中找到中断事件的标识符。 " **中断事件 ID** " 前面有两个字母的缩写，它指示受影响的服务 (例如， *EX25194* 用于 Exchange Online 中断) 。 下面的表介绍了常见的服务缩写：
+可以在服务运行状况页的"服务运行状况"页上找到中断事件的Microsoft 365 管理中心。 **中断事件 ID** 是前面带有两个字母缩写的一个数字，指示受影响的服务 (例如，Exchange Online 服务中断的 *EX25194*) 。 下表描述了常见服务缩写：
 
-| 两字母缩写 | Microsoft 服务 |
+| 双字母缩写 | Microsoft 服务 |
 | ----------------------- | ----------------- |
 | EX | Exchange Online |
-| FO | Exchange Online 保护 |
-| SB | Skype for Business Online (以前称为 Lync Online)  |
+| FO | Exchange Online Protection |
+| SB | Skype for Business Online (之前为 Lync Online)  |
 | OS | Office 订阅 |
 | PB | Power BI for Office 365 |
 | SP | SharePoint Online |
-| 4EN-YA-P0U | Yammer 企业 |
+| 你 | Yammer Enterprise |
 | MO | 门户错误 |
 
 ### <a name="submit-sla-credit-request"></a>提交 SLA 信用请求

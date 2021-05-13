@@ -1,52 +1,47 @@
 ---
-title: 合作伙伴中心见解-产品许可证
+title: 合作伙伴中心见解 - 产品许可证
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 查看此产品许可证报表，了解如何通过为客户销售或管理的基于许可的云产品来改进。
+description: 查看此产品许可证报表，了解如何使用你为客户销售或管理的基于许可的云产品进行改进。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086900"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855159"
 ---
-# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心见解仪表板中的产品许可证报表
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心 Insights 仪表板中的产品许可证报表
 
-**相应的角色**
+**适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-- 全局管理员
-- 管理员代理
-- 报表查看器
-- 主管人员报表查看器
+"产品许可证"报表为基于许可证的云产品（如 Office 365、Dynamics、Microsoft 365、Power BI 等）提供许可证分析。 此处介绍的分析与已销售或为客户管理的许可证的使用相关联。 可以从"产品许可证"报表查看以下部分。
 
-产品许可证报表提供基于许可证的云产品的许可证分析，如 Office 365、Dynamics、Microsoft 365、Power BI 和其他产品。 此处提供的分析与你为客户销售的或为你的客户管理的许可证的使用情况关联。 你可以从 "产品许可证" 报表查看以下部分。
-
-- 总结
+- 摘要
 - 许可证的地理分布
 - 许可证添加
-- 按合作伙伴地点、销售渠道、Sku、合作伙伴附加类型、段划分的许可证分发
+- 按合作伙伴位置、销售渠道、SKUS、合作伙伴附加类型、细分市场划分的许可证分发
 
  > [!NOTE]
- > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
+ > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、帐户合作伙伴中心、报表查看器或执行报表查看器等角色中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定数据类型可能也仅可供具有执行报告查看器特权的用户使用。
 
-## <a name="summary"></a>总结
+## <a name="summary"></a>摘要
 
-"摘要" 部分提供关键绩效指标的快照视图，这些指标 (与销售、部署和使用的云产品许可证关联的 Kpi) 。 这可帮助你跟踪针对销售给客户的许可证的活动使用情况。
+摘要部分提供了与销售、部署和使用的云 (许可证) KPI 的关键绩效指标的快照视图。 这有助于跟踪销售给客户的许可证的活动使用情况。
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="许可证报表摘要":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="许可证报告摘要":::
 
 有关摘要的每个部分的详细信息，请参阅以下内容：
 
 - Licenses： 
-  - 你为基于许可证的云产品（如 Office 365、Dynamics、Microsoft 365、Power BI 和其他）销售或管理的所有许可证的当前计数。
-  - 这些许可证在所选日期范围内的增长百分比或拒绝百分比。
-  - 许可趋势微图：微图显示在所选日期范围内许可证计数的月间趋势
+  - 你为基于许可证的云产品（例如 Office 365、Dynamics、Microsoft 365、Power BI 等）销售或管理的所有许可证的当前计数。
+  - 这些许可证在所选日期范围内的增长或下降百分比。
+  - 许可证趋势微图表：该微图表显示所选日期范围内许可证计数的每月趋势
 
 - 部署的许可证：
   - 用户的所有已分配许可证的当前计数。

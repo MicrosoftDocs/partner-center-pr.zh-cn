@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f3fd7a4adfb3e88b875c8178a260c353e1414f1e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755842"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818705"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>更新合作伙伴中心的客户帐户信息、公司详细信息和客户帐单信息
 
-**相应的角色**
-
-- 全局管理员
-- 销售代理
+**适当的角色**：全局管理员 |销售代理
 
 在合作伙伴中心中，你可以更新客户的计费信息和其他公司详细信息。 你还可以 [授予或删除客户购买其自己的产品或服务的权限](give-customers-permission.md)。
 

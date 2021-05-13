@@ -8,18 +8,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d34984c3bbe8588cf2a5a40f7c50b14ba6928405
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284428"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818671"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 发出的 IRS 税单
 
-**相应的角色**
-
-- 全局管理员
+**适当的角色**：全局管理员
 
 你可能会收到来自 Microsoft 每年的一个或多个税务表格。 这取决于您所在的位置以及您收到的销售或付款的数量。 Microsoft 需要发出这些表单并呈报美国国税局 (IRS)。
 
@@ -48,21 +46,21 @@ ms.locfileid: "108284428"
 
 | 业务组         | 法律实体          | 地址                                          |
 |------------------------|-----------------------|--------------------------------------------------|
-| Windows、Office、Azure | Microsoft 爱尔兰的 microsoft 爱尔兰运营限制 (，由 microsoft corporation 通过 microsoft 爱尔兰担任 Microsoft Corporation 的合格中介)  | 一个 Microsoft 地方<br>南部县企业公园<br>Leopardstown，都柏林18，D18 P521，爱尔兰|
-| 广告          | Microsoft 爱尔兰运营限制 (付款由 microsoft Online Inc. 进行，作为 Microsoft Online Inc. 的支出代理。 )  | 一个 Microsoft 地方<br>南部县& 企业公园<br>Leopardstown，都柏林18，D18 P521，爱尔兰 |
-| 广告            | Microsoft Online Inc。 | 6880 Sierra Center Parkway<br>Reno、NV 98511 USA |
+| Windows、Office、Azure | Microsoft Ireland Operations Limited (支付由 microsoft Microsoft Corporation作为客户合格中介进行Microsoft Corporation)  | 一个 Microsoft 位置<br>南县商业区<br>爱尔兰，爱尔兰 18，D18 P521|
+| 广告          | Microsoft Ireland Operations Limited (Payment 由 Microsoft Online Inc. 通过 Microsoft Ireland 进行，充当 Microsoft Online Inc.)  | 一个 Microsoft 位置<br>南县&商业酒店<br>爱尔兰，爱尔兰 18，D18 P521 |
+| 广告            | Microsoft Online Inc. | 6880 Sierra Center Parkway<br>Reno，NV 98511 USA |
 
 >[!NOTE]
-> \* 以下国家/地区的公民将通过 Microsoft 爱尔兰运营限制来支付广告收入：奥地利、比利时、保加利亚、克罗地亚、塞浦路斯、Czechia、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、匈牙利、爱尔兰、Isle 的男士、意大利、拉脱维亚、列支敦士登、立陶宛、卢森堡、马耳他、摩纳哥、荷兰、挪威、波兰、葡萄牙、葡萄牙、斯洛伐克、斯洛文尼亚、葡萄牙、西班牙、瑞典、瑞士、英国
+> \* 以下国家/地区收入为广告收入的国家/地区公民将通过 Microsoft 爱尔兰运营有限公司付费：西班牙、丹麦、芬兰、法国、德国、芬兰、爱尔兰、马来语、意大利、丹麦、挪威、丹麦、西班牙、丹麦、瑞士、瑞士、英国
 
 ## <a name="for-developers-located-in-the-united-states"></a>针对位于美国的开发人员
 
-| 如果我是一个销售付费应用程序美国开发人员 .。。   | 我应该会收到以下形式： |
+| 如果我是销售付费应用美国开发人员...   | 我应会收到此表单： |
 |------------------------|-----------------------|
-| 在适用的纳税年度中，我 **销售了 200 多个应用**，总购买金额 **超过 20,000 美元**（**未** 计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。| **1099-K：**<br/>归档方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 1099-K 表单包含 **总购买** 金额，而不是你收到的付款金额。| 
-| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的 **付款金额至少为 10 美元**。<br/><br/>**或者**<br/><br/>在适用的税收年，我收到了至少 $600 与 Microsoft 的应用销售相关的付款 (例如，从比赛或促销中获得激励或付款) | **1099-杂项：**<br/>付款方：Microsoft Corporation<br/>EIN： \* \* \* \* \* 4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。| 
+| 在适用的纳税年度中，我 **销售了 200 多个应用**，总购买金额 **超过 20,000 美元**（**未** 计算通过 Windows 10 上的 Microsoft Store 在巴西和中国完成的销售额）。| **1099-K：**<br/>归档方：Microsoft Corporation<br/>\* \* \* \* \* EIN：4442<br/><br/>**重要提示：** 1099-K 表单包含 **总购买** 金额，而不是你收到的付款金额。| 
+| (i) 通过 Windows 10 上的 Microsoft Store 完成的巴西和中国应用销售或 (ii) 在 Minecraft（我的世界）卖场中的销售，我收到的 **付款金额至少为 10 美元**。<br/><br/>**或者**<br/><br/>在适用的税务年度中，我收到了至少 600 美元的与 Microsoft 应用销售不相关的付款 (例如，奖励付款或竞赛或促销活动付款) | **1099-MISC：**<br/>付款方：Microsoft Corporation<br/>\* \* \* \* \* EIN：4442<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询税务专业人员。| 
 | 以上内容都不适用。| 无 |
-| <br/><br/>**如果我是一个在应用程序中销售广告的美国开发人员 .。。** |<br/><br/>**我应该会收到以下形式：** |
+| <br/><br/>**如果我是一名美国在应用中销售广告的开发人员，** |<br/><br/>**我应该会收到以下形式：** |
 |在适用的税收年份，我收到的广告中的广告的 **费用至少为 $600** 。 | **1099-杂项：**<br/>付款方：Microsoft Online Inc<br/>EIN： \* \* \* \* \* 0505<br/><br/>**重要提示：** 某些业务实体将不会收到 1099-MISC 表单，无论其从 Microsoft 收到的付款金额是多少。  有关详细信息，请咨询你的税务专业人员。 |
 | 对于应用中的广告，从适用的税务年份开始，收到的广告 **不到 $600** 。 | 无 |
 

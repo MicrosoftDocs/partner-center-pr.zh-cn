@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548931"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855516"
 ---
 # <a name="reset-my-password"></a>重置我的密码
  
-**相应的角色**
-
-- 全局管理员
-- 所有对合作伙伴中心感兴趣的合作伙伴
+**适当的角色**：全局管理员 |所有对合作伙伴中心感兴趣的合作伙伴
 
 
 如果忘记了合作伙伴中心密码，可以对其进行重置。

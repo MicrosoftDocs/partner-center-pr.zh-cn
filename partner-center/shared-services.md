@@ -9,20 +9,16 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 756fbfda3438933b50fc51936b396291986472a7
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 929907c7c6f238fb84a13622227534797f0ac949
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028275"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855329"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>添加 Azure 合作伙伴共享服务，以便合作伙伴可以购买 Azure 订阅供自己使用
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |管理代理 |销售代理
 
 Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。  该服务除了可以合并 Azure 许可和 Microsoft 经销协议之外，还可以为合作伙伴使用统一的方法购买、跟踪和管理 Azure 创造机会。 使用 Azure 合作伙伴共享服务，合作伙伴现在可以灵活地使用 CSP 中的 Azure 订阅，就像在 Microsoft 企业协议和 Web 直接程序中一样，打开方案，例如：生成开发和测试环境、部署内部工作负荷，以及托管共享服务或多租户应用程序。  
 
@@ -69,11 +65,11 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 |自带许可证 (BYOL) 和免费服务   | 是   | 否|
 |其他第三方 marketplace 产品   | 否   |否|
 
-使用应用部署了 BYOL 或免费服务的合作伙伴将不受影响;但2019年3月1日之后，他们将无法购买新的 BYOL 或免费服务。
+使用 APSS 部署 BYOL 或免费服务的合作伙伴不会受到影响;但是，在 2019 年 3 月 1 日之后，他们将无法购买新的 BYOL 或免费服务。
 
-若要充分利用 Marketplace 的完整目录 (不只是 BYOL 和免费服务) ，建议使用 web 直接 Azure 订阅来部署共享服务。  我们鼓励现有的 CSP 合作伙伴从 Marketplace 部署第三方 BYOL 和免费服务资源，并希望继续使用它们并部署更多第三方产品/服务，以将应用订阅迁移到 web 直接 [迁移现有的 Azure 订阅](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
+若要利用可用的市场产品/服务的完整目录， (BYOL 和免费服务) ，我们建议 CSP 合作伙伴使用 Web 直接 Azure 订阅部署共享服务。  建议以前从市场部署第三方 BYOL 和免费服务资源并想要继续使用这些资源并部署更多第三方产品/服务的 CSP 合作伙伴将 APSS 订阅迁移到 Web 直接迁移 [现有 Azure](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)订阅。
 
-如果合作伙伴计划在2019年3月1日之后继续使用应用订阅，并且想要部署新的第三方 [BYOL 服务](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) 或免费服务，则可以按照 isv 提供的说明将它们部署到其应用订阅。
+计划在 2019 年 3 月 1 日之后继续使用 APSS 订阅并想要部署新的第三方 [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) 服务或免费服务的合作伙伴可以按照 ISV 的说明将其部署到其 APSS 订阅。
 
 ## <a name="next-steps"></a>后续步骤
 

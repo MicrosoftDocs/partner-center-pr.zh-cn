@@ -1,55 +1,50 @@
 ---
-title: 合作伙伴中心见解 office 365 使用情况报告
+title: 合作伙伴中心见解 Office 365 使用情况报告
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解你的工作情况，以及你为客户销售或管理的 Office 365 订阅的使用情况。
+description: 了解你表现良好，以及在哪里可以改进为客户销售或管理的 Office 365 订阅的使用情况。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086304"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854594"
 ---
-# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Office 365 使用情况报告
+# <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从 合作伙伴中心 Insights 仪表板获取的 Office 365 使用情况报告
 
-**相应的角色**
+**适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-- 全局管理员
-- 管理员代理
-- 报表查看器
-- 主管人员报表查看器
+Office 365 使用情况报表提供为客户销售或管理的 Office 365 订阅的使用情况数据。 可以从 Office 365 使用情况报告中查看以下部分。
 
-Office 365 使用情况报表为你为客户销售或管理的 Office 365 订阅提供使用情况数据。 可以从 Office 365 使用情况报表查看以下部分。
-
-- 总结
-- Office 365 按地理位置使用
-- Office 365 按工作负荷使用
+- 摘要
+- 按地理位置的 Office 365 使用情况
+- 按工作负荷的 Office 365 使用情况
 - 订阅性能
-- Office 365 使用量分布
+- Office 365 使用情况分布
 
  > [!NOTE]
- > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
+ > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、帐户合作伙伴中心、报表查看器或执行报表查看器等角色中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定数据类型可能也仅可供具有执行报告查看器特权的用户使用。
 
-## <a name="summary"></a>总结
+## <a name="summary"></a>摘要
 
-"摘要" 部分提供了与你为客户销售或管理的 Office 365 订阅相关的关键指标的快照视图。  
+"摘要"部分提供与为客户销售或管理的 Office 365 订阅相关的关键指标的快照视图。  
 
-- 新订阅：在所选时间范围内销售或管理的订阅总数。
+- 新订阅：所选时间范围内销售或管理的订阅总数。
 
-   微图显示了所选日期范围内新订阅计数的月月趋势。
+   Micro 图表显示所选日期范围的新订阅计数的每月趋势。
 
-- 可用席位数：在所选时间范围内销售的许可证总数。
+- 可用席位：所选时间范围内销售的许可证总数。
 
-   微图显示了所选日期范围内许可证的销售计数的月月趋势。
+   Micro 图表显示所选日期范围内许可证销售计数的每月趋势。
 
-- 每月活动用户数：上个月内使用工作负荷的用户数。 
+- 每月活动用户数：上个月使用工作负荷的用户数。 
 
-   微图表提供所选时间段内每月活动用户的每月趋势。
+   Micro 图表显示所选时段内月度活跃用户的每月趋势。
 
 :::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 使用摘要":::
 
@@ -80,10 +75,10 @@ Office 365 使用情况报表为你为客户销售或管理的 Office 365 订阅
 
 Office 365 使用量分布描述了 Sku 对 PAU 和订阅的细分。
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 使用量分布":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 使用情况分布":::
 
 ## <a name="next-steps"></a>后续步骤
 
-- 有关更多报表，请参阅 [合作伙伴中心见解](partner-center-insights.md)。
+- 有关更多报表，请参阅[合作伙伴中心 Insights。](partner-center-insights.md)
 
-- 你可以从见解仪表板中的 "下载报表" 部分下载此报表的原始数据。 [了解详细信息](pci-download-reports.md) 
+- 可以从见解仪表板中的"下载报表"部分下载为此报表提供电源的原始数据。 [了解详细信息](pci-download-reports.md) 

@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712743"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855346"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>为合作伙伴中心的客户设置、检查或删除每月 Azure 支出预算
 
-**相应的角色**
-
-- 管理员代理
+**适当的角色**：管理代理
 
 可以在合作伙伴中心 [为客户设置每月 Azure 支出预算](#set-azure-spending-budget) 。 这可以帮助客户管理其 Azure 支出。 此选项可让你将客户的 Azure 支出与当月的预算进行比较。 它还可帮助你的客户为其 Azure 支出预算，使每月帐单不会超过预期。
 
@@ -89,42 +87,42 @@ Azure 支出数据是一个 *估计值* ， *实际计费金额可能会有所�
 
 1. 登录到[合作伙伴中心面板](https://partner.microsoft.com/dashboard/)。
 
-2. 在 " **CSP**" 下的左侧菜单中，选择 " **Azure 支出**"。
+2. 在 CSP 下的左侧菜单中 **，选择****"Azure 支出"。**
 
-3. 在 " **Azure 支出** " 页上的 " **具有 Microsoft Azure 订阅的客户**" 下，你可以看到客户的月度预算、当前支出估计和使用的预算百分比的概述。
+3. 在 **"Azure 支出** " **页上** 的"Microsoft Azure订阅"下，可以看到客户每月预算、当前支出估算和已使用预算百分比的概述。
 
-## <a name="notifications-for-budget-limits"></a>预算限制的通知
+## <a name="notifications-for-budget-limits"></a>预算限制通知
 
-当你的客户的每月支出接近预算限制时，可以 *打开电子邮件通知* 。 当你启用此选项时，当客户使用80% 或更多月度预算时，你将收到通知。 此选项可帮助你随时了解 Azure 帐单。 配置电子邮件通知：
+当 *客户的每月支出接近其* 预算限制时，可以启用电子邮件通知。 启用此选项时，当客户使用其每月预算 80% 或更多时，你将收到通知。 此选项可帮助你关注 Azure 帐单。 配置电子邮件通知：
 
 1. 登录到合作伙伴中心。
 
 2. 转到“设置”  。
 
-3. 选择 **"我的首选项"**。
+3. 选择 **"我的首选项"。**
 
-4. 配置首选电子邮件地址（如果尚未这样做）。
+4. 配置首选电子邮件地址（如果尚未配置）。
 
 5. 配置通知的首选语言。
 
-6. 选择 "**通知首** 选项" 部分下的 " **CSP** "。
+6. 选择 **"通知** 首选项 **"部分下的"CSP"** 选项卡。
 
-7. 查看 **Azure 支出** 通知的电子邮件选项，并 **保存**。
+7. 选中"Azure 支出通知"的"**电子邮件**"选项，并"**保存"。**
 
 
-## <a name="itemized-costs-by-service"></a>按服务列出的成本
+## <a name="itemized-costs-by-service"></a>按服务分项成本
 
-你可以 *查看 (和估计使用情况) 按服务使用基于使用情况的订阅的详细成本*：
+可以查看 *基于使用情况的订阅 (按服务) 和估计的使用情况*：
 
 1. 登录到合作伙伴中心。
 
-2. 在 **CSP** 下的左侧菜单中，选择 " **客户**"。
+2. 在 CSP 下的左侧菜单中 **，选择"** 客户 **"。**
 
-3. 在 " **客户** " 页上，选择客户的 **公司名称**。
+3. 在" **客户** "页上，选择客户的公司 **名称**。
 
-4. 在客户的 " **订阅** " 页的 " **基于使用情况的订阅**" 下，选择 **订阅** 的名称。
+4. 在客户的"订阅 **"** 页上的"基于 **使用情况的订阅"下**，选择"订阅 **"的名称**。
 
-5. 在订阅页上，你可以查看按服务划分的 **详细成本** ，以及当月的 **预估使用量** 。
+5. 在订阅的页面上，你可以查看按服务分项成本，以及 **当前月份的估计** 使用量。
 
 
 ## <a name="next-steps"></a>后续步骤

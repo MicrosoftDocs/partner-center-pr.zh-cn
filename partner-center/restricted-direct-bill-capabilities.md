@@ -9,18 +9,16 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018061"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855482"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>限制直接帐单功能和 CSP 直销合作伙伴所需的要求
 
-**相应的角色**
-
-- 全局管理员
+**适当的角色**：全局管理员
 
 ## <a name="overview"></a>概述
 
@@ -55,29 +53,29 @@ ms.locfileid: "108018061"
 
 还不能使用 CSP 计划下的 [Azure 合作伙伴共享服务产品/服务](shared-services.md) 购买新的 azure 订阅。
 
-现有的直接帐单订阅不受影响。 它们保持有效并且自动续订。 在取消之前，你将继续直接向 Microsoft 收取费用。 你仍可通过以下方式管理现有订阅：
+现有的直接帐单订阅不受影响。 它们保持有效并且自动续订。 Microsoft 将继续直接向你计费，直到取消它们。 仍可以通过以下方式管理现有订阅：
 
 - 挂起现有订阅
 
 - 调整现有基于许可证的订阅的许可证计数
 
-- 调整订阅的现有加载项的许可证计数。 
+- 调整订阅中现有加载项的许可证计数。 
 
     >[!Note]
-    >不能将新的外接程序添加到现有订阅，因为它被视为新购买。
+    >无法将新的加载项添加到现有订阅，因为它被视为新购买。
 
-- 部署新的 Azure 资源，并管理现有 Azure 订阅下的现有 Azure 资源。 这包括通过 Azure Marketplace 和 Visual Studio 订阅提供的资源。
+- 部署新的 Azure 资源，并管理现有 Azure 订阅下的现有 Azure 资源。 这包括通过订阅和订阅Azure 市场Visual Studio资源。
 
-除了新购买以外，还不能在合作伙伴中心访问以下直接帐单功能：
+除了新购买项外，你也无法访问以下直接计费功能：合作伙伴中心：
 
-- 不能创建新的客户租户。 "合作伙伴中心" 下的 "**客户**" 页下的 "**创建客户**" 选项将不可用。
+- 无法创建新的客户租户。 "**客户"****页下的**"创建合作伙伴中心选项将不可用。
 
-- 你无法为请求直接分销商关系的客户生成邀请。 合作伙伴中心的 "**客户**" 页下的 "**请求分销商关系**" 选项将不可用。
+- 无法生成客户请求建立直接经销商关系的邀请。 "**客户"页** 下的"合作伙伴中心经销商关系"选项将不可用。
 
     >[!NOTE]
-    >作为从直销伙伴过渡到间接经销商的一部分，如果你已将直接帐单合作伙伴租户注册为间接经销商，则可以为请求间接经销商关系的客户生成邀请。
+    >在从直接计费合作伙伴过渡到间接经销商过程中，如果已将直接计费合作伙伴租户注册为间接经销商，可以改为生成客户请求间接经销商关系的邀请。
 
-- 无法创建新的沙盒租户。 每个直销合作伙伴租户均可为直接计费 API 集成创建一个沙盒租户。 如果你以前未创建过，则在你的直接帐单合作伙伴功能受到限制后，将不允许你这样做。  
+- 无法创建新的沙盒租户。 每个直接计费合作伙伴租户可以创建一个沙盒租户，用于直接计费 API 集成。 如果以前尚未创建一个，则不允许在直接计费合作伙伴功能受到限制后创建一个。  
 
 ## <a name="next-steps"></a>后续步骤
 
