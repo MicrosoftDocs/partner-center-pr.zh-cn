@@ -1,26 +1,24 @@
 ---
-title: 利用 Microsoft 的引用发展业务
+title: 借助 Microsoft 引荐拓展业务
 ms.topic: article
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何创建业务配置文件，通过合作伙伴中心的 "引用" 功能生成销售线索，然后对这些引用做出响应。
+description: 了解如何创建业务配置文件，以通过"合作伙伴中心"功能生成销售线索，然后响应这些引荐。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 149897c0afa12c4c45df974dafb5c47826274174
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 2f37a14cd8987b6bddc96594ebf622f8e7be59b0
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120722"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855856"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>通过 Microsoft 的引荐来拓展业务
 
-**相应的角色**
-
-- 引荐管理员
+**适当角色**：引荐管理员
 
 许多客户在寻找合格的专家来帮助实现 Microsoft 技术和业务解决方案。 我们在 Microsoft 经常通过营销活动以及内部 Microsoft 销售代理收到客户的直接帮助请求。 客户还使用 [**查找解决方案提供商** 经验](https://www.microsoft.com/solution-providers/search)来查找可以帮助他们满足其业务需求的公司。 
 

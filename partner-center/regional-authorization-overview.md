@@ -1,54 +1,52 @@
 ---
-title: CSP 全局市场
+title: CSP 全球市场
 ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 请参阅国家/地区和货币，根据公司的位置，你可以在其中销售 CSP 优惠。
+description: 查看可以基于公司位置销售 CSP 产品/服务的国家/地区、地区和货币。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120760"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855771"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商可以销售 CSP 产品/服务的区域市场和货币
 
-**相应的角色**
+**适当角色**：全局管理员
 
-- 全局管理员
+公司的位置决定了市场。 你的市场包括可在其中销售云解决方案提供商产品/服务云解决方案提供商 () 国家/地区。
 
-公司的位置决定了市场。 市场包括区域和/或国家/地区，你可以在其中销售云解决方案提供商 (CSP) 计划产品。
+例如，如果你的公司位于美国美国，可以将 CSP 产品/服务销售给美国和美国 Outlying Islands 的客户。 如果你的公司位于巴西，则只能向巴西的客户销售 CSP 产品/服务。 如果你的公司位于非洲区域，你可以向非洲区域所有 18 个国家/地区的客户销售 CSP 产品/服务。
 
-例如，如果你的公司位于美国，则可以在美国和美国外岛向客户销售 CSP 优惠。 如果你的公司位于巴西，则只能在巴西向客户销售 CSP 优惠。 如果你的公司位于非洲地区，你可以向非洲地区的所有18个国家/地区的客户销售 CSP 优惠。
+在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 可在此处找到Microsoft 客户协议/国家/地区的 [适用区域](agreements.md)。
 
-在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 你可以在 [此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
+## <a name="azure-plan-for-csp-region-availability"></a>云解决方案提供商区域可用性的 Azure 计划  
 
-## <a name="azure-plan-for-csp-region-availability"></a>Azure 计划 CSP 区域可用性  
-
-用于 csp 的 Azure 计划在比用于 CSP 的 Azure 软件更少的区域中提供。 有关 Azure 计划的区域可用性的最新更新，请参阅 [购买 azure 计划](purchase-azure-plan.md)。
+与适用于 CSP 的 Azure 软件相比，适用于 CSP 的 Azure 计划可用的区域更少。 有关 Azure 计划的区域可用性的最新更新，请参阅购买 [Azure 计划](purchase-azure-plan.md)。
 
 >[!IMPORTANT]
-> 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
+> 你需要通过提供有关签名者的信息Microsoft 客户协议确认客户已接受该请求。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
 
-若要确定可在其中销售 CSP 产品/服务的位置，请在以下列表之一中查找公司的位置。 您必须具有活动 Microsoft 合作伙伴网络 (MPN) ID 才能获得要在其中进行销售的位置。  
+若要确定可以销售 CSP 产品/服务的位置，请在下面的列表之一中查找公司的位置。 对于要销售Microsoft 合作伙伴网络 (，) 具有有效的 MPN ID。  
 
 
-## <a name="for-unsupported-countries"></a>对于不支持的国家/地区
+## <a name="for-unsupported-countries"></a>对于不受支持的国家/地区
 
-如果你的国家/地区不受支持，请使用 Office 管理员 URL 建立客户 CSP 关系。 
+如果你的国家/地区不受支持，则使用 Office 管理员 URL 建立客户 CSP 关系。 
 
-- 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 将 **partnertenantguid** 替换为你的租户 ID。 
+- 直接计费合作伙伴使用以下 https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 URL：。 将 **partnertenantguid** 替换为租户 ID。 
 
-- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 将 **IRtenantguid** 替换为你的租户 ID。 将 **IRMPNID** 替换为你的 MPN ID，并将 **IPtenantguid** 替换为间接提供商租户 ID。
+- 间接经销商的 URL 为 https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid ：。 将 **IRtenantguid** 替换为租户 ID。 将 **IRMPNID** 替换为 MPN ID，将 **IPtenantguid** 替换为间接提供商租户 ID。
 
-## <a name="africa-region-and-market"></a>非洲地区和市场
+## <a name="africa-region-and-market"></a>非洲区域与市场
 
-如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
+如果你的公司位于以下列表中，你可以向列表中所有位置的客户销售 CSP 产品/服务。
 
 | 国家/地区           | 货币 |
 | ------------------------ |:--------:|
@@ -101,9 +99,9 @@ ms.locfileid: "108120760"
 | 赞比亚                   |   USD    |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>亚洲和太平洋地区及市场
+## <a name="asia-and-pacific-region-and-market"></a>亚太区域与市场
 
-如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
+如果你的公司位于以下列表中，你可以向列表中所有位置的客户销售 CSP 产品/服务。
 
 | 国家/地区     | 货币 |
 | --------------     |:--------:|
@@ -127,9 +125,9 @@ ms.locfileid: "108120760"
 |  越南           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>澳大利亚地区和市场
+## <a name="australia-region-and-market"></a>澳大利亚区域与市场
 
-如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
+如果你的公司位于以下列表中，你可以向列表中所有位置的客户销售 CSP 产品/服务。
 
 |  国家/地区        | 货币 |
 |  --------------        |:--------:|
@@ -158,28 +156,28 @@ ms.locfileid: "108120760"
 |  瓦利斯和富图纳     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>巴西地区和市场
+## <a name="brazil-region-and-market"></a>巴西区域与市场
 
-如果你的公司所在地为巴西，你可以在巴西向客户销售 CSP。
+如果你的公司位于巴西，你可以向巴西的客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  巴西         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>加拿大地区和市场
+## <a name="canada-region-and-market"></a>加拿大的区域和市场
 
-如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
+如果你的公司位于以下列表中，你可以向列表中所有位置的客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  加拿大         |   CAD    |
+|  Canada         |   CAD    |
 |  圣皮埃尔和密克隆岛|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>欧洲地区和市场
+## <a name="europe-region-and-market"></a>欧洲区域与市场
 
-如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
+如果你的公司位于以下列表中，你可以向列表中所有位置的客户销售 CSP 产品/服务。
 
 |  国家/地区 | 货币  |
 |  -------------- |:--------:|
@@ -230,27 +228,27 @@ ms.locfileid: "108120760"
 |  梵蒂冈   |          |
 |
 
-## <a name="india-region-and-market"></a>印度地区和市场
+## <a name="india-region-and-market"></a>印度区域与市场
 
-如果贵公司的位置是印度，则可以向印度的客户销售 CSP 优惠。
+如果你的公司位于印度，可以将 CSP 产品/服务销售给印度的客户。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  印度          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>日本地区和市场
+## <a name="japan-region-and-market"></a>日本区域与市场
 
-如果公司的位置是日本，则可以向日本的客户销售 CSP。
+如果你的公司位于日本，可以将 CSP 产品/服务销售给日本的客户。
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
 |  日本          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>韩国地区和市场
+## <a name="korea-republic-of-region-and-market"></a>韩国、区域与市场
 
-如果你的公司所在地是韩国，你可以将 CSP 产品/服务销售给韩国的客户。
+如果你的公司位于韩国，则你可以向韩国、韩国的客户销售 CSP 产品/服务。
 
 |  国家/地区    | 货币 |
 |  --------------    |:--------:|
@@ -398,7 +396,7 @@ ms.locfileid: "108120760"
 
 |  国家/地区 | 货币 |
 |  -------------- |:--------:|
-|  台湾         |   TWD    |
+|  中国台湾         |   TWD    |
 |
 
 ## <a name="united-states-region-and-market"></a>美国地区和市场
@@ -407,6 +405,6 @@ ms.locfileid: "108120760"
 
 |  国家/地区       | 货币 |
 |  -------------        |:--------:|
-|  美国        |   USD    |
+|  United States        |   USD    |
 |  美国本土外小岛屿|   USD    |
 |

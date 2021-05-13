@@ -8,19 +8,16 @@ description: 为多合作伙伴、多通道方案请求与客户的关系，或�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: f8265973157540cff698790ddb2effa912abeeb7
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018128"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856111"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何在合作伙伴中心向客户请求经销商关系
 
-**相应的角色**
-
-- 管理员代理
-- 全局管理员
+**适当的角色**：管理代理 |全局管理员
 
 如果要代表客户管理客户的服务或订阅，则必须向用户授予对该服务或订阅的管理员权限，并对 Microsoft 客户协议进行签名。
 
@@ -55,13 +52,13 @@ ms.locfileid: "108018128"
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>客户邀请体验的变化
 
-接受来自云解决方案提供商合作伙伴的分销商关系邀请的客户体验由不同的面向客户的门户托管。 门户位置取决于客户是在 Microsoft 公有云还是国家云中：
+接受来自云解决方案提供商合作伙伴的分销商关系邀请的客户体验由不同的面向客户的门户托管。 门户位置取决于客户是位于 Microsoft 公有云还是国家云中：
 
-|云客户的类型  | 客户接受分销商关系邀请的位置 |
+|云客户类型  | 客户在何处接受经销商关系邀请？ |
 |---------|---------
 | 公有云中的客户 | Microsoft 365 管理中心 |
-| Microsoft 云德国合作伙伴中心的客户 | Microsoft Office 管理门户 |
-| 适用于美国政府的 Microsoft 云合作伙伴中心的客户 | Microsoft Office 管理门户 |
+| 德国合作伙伴中心 Microsoft 云的客户 | Microsoft Office管理门户 |
+| 客户合作伙伴中心Microsoft Cloud for US Government | Microsoft Office管理门户 |
 |
 
 ## <a name="next-steps"></a>后续步骤

@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 7e6db20296075774a6254116df898e15ecc50034
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284462"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856026"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>在 CSP 计划中，按地区或国家/地区为你的国家/地区或国家/地区
 
-**相应的角色**
-
-- 全局管理员
+**适当的角色**：全局管理员
 
 云解决方案提供商 (CSP) 计划是一个侧重于产品合作伙伴转售的销售渠道。 因此，Microsoft 不会始终需要为合作伙伴发票支付销售税。 这些规则依国家和/或地区的不同而异。 您可以查看 [特定于国家/地区的特定于国家/地区的详细信息](#country-and-region-tax-details)。
 
@@ -59,15 +57,15 @@ ms.locfileid: "108284462"
 
 - 需要为每个 CSP 租户提供免税。
 
-- 需要提交税务 ID 号或联邦雇主标识号 (FEIN) 。 此号码通常出现在税务证书上。
+- 需要在 FEIN 中提交税务 ID 号或联邦 (标识) 。 此数字通常显示在税务证书上。
 
-- 根据你所在的国家/地区、地区或省/市/自治区，你的销售税豁免规定了特定于当地 (或类似部门) 的法律准则，并且必须相应地进行管理。 尽管许多位置都具有每年续订的总税务证书，但某些位置可能会在两年或几年内续订。 你应通过检查证书或联系当地税务主管机构来验证此信息和其他信息。
+- 根据国家/地区或州/地区，销售税豁免具有特定于本地税务部门 (或类似部门) 的法律准则，必须相应地进行管理。 虽然许多位置具有每年续订的税务证书，但某些位置可能会续订两年或两年以上。 应该通过检查证书或联系本地税务机构来验证此信息和其他信息。
 
-准备好将免税提交给你后，请使用 [Microsoft 支持部门](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) 打开票证，并提供相应的信息。
+准备好提交税务豁免后，请通过Microsoft 支持并提供适当的信息。 [](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5)
 
 ## <a name="support"></a>支持
 
-如有关于免税和退款的问题或其他与税相关的问题，请在合作伙伴中心请求支持。 请允许 Microsoft 在两周内联系你并解决问题。
+有关税务豁免和退款的问题或其他与税务相关的问题，请从合作伙伴中心。 请允许 Microsoft 在两周内联系你并解决问题。
 
 ## <a name="next-steps"></a>后续步骤
 
