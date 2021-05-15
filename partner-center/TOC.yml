@@ -390,6 +390,8 @@
       href: modern-invoice-reconciliation-file.md
     - name: 有效单价计算
       href: effective-unit-price-calculation.md
+    - name: 信用额度强制执行
+      href: credit-limit-enforcement.md
     - name: 常见计费方案
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
