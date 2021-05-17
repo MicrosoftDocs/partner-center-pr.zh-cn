@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328060"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702869"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月公告
 
@@ -24,7 +24,7 @@ ms.locfileid: "108328060"
 
 ### <a name="categories"></a>类别
 
-- 日期：2021-04-30
+- 日期：2021-03-30
 - 就绪
 
 ### <a name="summary"></a>总结
@@ -833,7 +833,7 @@ ________________
 
 ### <a name="categories"></a>类别
 
-- 日期：2021-03-33
+- 日期：2021-03-03
 - 功能
 
 ### <a name="summary"></a>摘要

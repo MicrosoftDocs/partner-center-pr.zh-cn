@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328043"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702818"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月公告
 
@@ -308,11 +308,12 @@ CSP 直接计费合作伙伴和间接提供商
 有关详细信息，请联系[支持人员](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>提醒：于 2021 年 5 月 4 日弃用 GET 资格
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>最后提醒：于 2021 年 5 月 6 日弃用 GET 资格
 
 ### <a name="categories"></a>类别
 
-- 日期：2021-04-09
+- 日期：2021-05-04
+
 - 功能
 
 ### <a name="impacted-audience"></a>影响受众
@@ -321,13 +322,13 @@ ________________
 
 ### <a name="details"></a>详细信息
 
-本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格 API 将在 2021 年 5 月 4 日之前停用。 届时，在购买教育产品/服务时，你需要改用新的 POST 合作伙伴中心 API，而若要购买预获资格的非营利和 GCC 产品/服务，你需要改用新的 GET 资格 API。
+本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格将于 2021 年 5 月 6 日停用。 届时，你需要已经过渡到使用新的 POST 合作伙伴中心 API。 可使用新的 POST API 购买教育版产品/服务，同时将可使用新的 GET API 购买预获资格的非营利组织’和 GCC 产品/服务。
 
 ### <a name="next-steps"></a>后续步骤
 
 - 请更新到新的 API，以便及时成功转换。
 
-- 请查看新的合作伙伴中心 API 更改，阅读操作就绪资源指南：[合作伙伴中心教育客户验证过程增强](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。
+- 请访问运营准备资源 - [合作伙伴中心教育客户验证过程增强](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)，查看新的合作伙伴中心 API 更改和指南。
 
 - 请与经销商和组织中的相应团队分享此信息，帮助他们为这些更改做好准备。
 
@@ -337,8 +338,12 @@ ________________
 
 ### <a name="change-log"></a>更改日志
 
-- 4 月：提醒即将弃用 GET 资格 
+- 2021 年 4 月 4 日：最后提醒即将弃用 GET 资格
+
+- 2021 年 4 月 9 日：提醒即将弃用 GET 资格 
+
 - 二月：更新了停用 GET 和 PUT 资格的时间线
+
 - 一月：提醒即将开始弃用 GET 和 PUT 资格
 
 ________________

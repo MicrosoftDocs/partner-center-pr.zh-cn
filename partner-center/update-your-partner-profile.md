@@ -9,19 +9,16 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315859"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818603"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>验证或更新你的公司资料信息 
 
-**相应的角色**
-
-- 全局管理员
-- MPN 帐户管理员
+**相应的角色**：全局管理员 | MPN 帐户管理员
 
 在首次以全局管理员身份登录到合作伙伴中心时，应确认你所有的公司详细信息是否正确。 包括主要联系人、法定公司名称和地址，以及计划信息。 如果公司有多个位置，请查看位置数据以确保其准确性。 作为全局管理员、帐务管理员或管理员代理，你也可以查看并更新帐务和税务信息。
 
