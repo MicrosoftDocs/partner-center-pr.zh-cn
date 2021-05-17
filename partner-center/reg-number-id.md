@@ -9,18 +9,16 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d84f67edd38b9e8f665a18699fb1f03c9888549d
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712492"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855822"
 ---
 # <a name="registration-id-number-information"></a>注册 ID 号信息
 
-**相应的角色**
-
-- 全局管理员
+**相应的角色**：全局管理员
  
 如果你是间接提供商、直接计费合作伙伴或间接经销商，并且与以下国家/地区的新客户和现有客户开展业务，则需要为你的企业提供注册 ID 号。 我们使用注册 ID 来查看帐户的详细信息。 如果你开展业务的国家/地区未在下面列出，则不必提供注册 ID。
 
@@ -28,10 +26,10 @@ ms.locfileid: "109712492"
 
 | **国家或地区** | **详细信息** |
 |:--|:--|
-| **亚美尼亚** | INN - 纳税标识号<br>增值税号 - 也称为增值税注册号。 这是一个唯一编号，用于标识注册了增值税的应纳税人员（公司）或非应税法律实体。<br>公共服务编号 |
+| **亚美尼亚** | INN - 纳税标识号<br>增值税号 - 也称为增值税注册号。 此值是一个唯一编号，用于标识注册了增值税的应纳税人员（公司）或非应税法律实体。<br>公共服务编号 |
 | **阿塞拜疆**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) - 纳税标识号<br>INN - 纳税标识号 |
-| **白俄罗斯**  | UNP - 一个 9 位数的数字（组织使用数字，个人使用字母数字），包含区域标识符、区域对应的序列号和校验位。 |
-|**巴西** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) - Cadastro Nacional Da Pessoa Jurídica 或法律实体的国家注册。 这是巴西联邦税务局颁发给巴西公司的标识号  |
+| **白俄罗斯**  | UNP - 此值是一个 9 位数的数字（组织使用数字，个人使用字母数字），包含区域标识符、区域对应的序列号和校验位。 |
+|**巴西** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) - Cadastro Nacional Da Pessoa Jurídica 或法律实体的国家注册。 此值是巴西联邦税务局颁发给巴西公司的标识号  |
 | **中国** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) - 纳税标识号 |
 | **匈牙利**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) - 纳税标识号 |
 | **印度** | 税号<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) -（Presence Across Nation，遍布全国）PAN India Involvement 表示一家组织在印度的多个地区有运营场所。 |
@@ -45,11 +43,11 @@ ms.locfileid: "109712492"
 | **沙特阿拉伯** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) - 纳税标识号 |
 | **南非** | TRN - 流量注册号 |
 | **南苏丹** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) - 纳税标识号 |
-| **塔吉克斯坦**  | INN - 纳税标识号<br>EIN - 雇主标识号<br>KPP - 此代码反映组织的注册原因。 |
+| **塔吉克斯坦**  | INN - 纳税标识号<br>EIN - 雇主标识号<br>KPP - 此值是反映组织注册原因的代码。 |
 | **泰国** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) - 纳税标识号 |
 | **土耳其** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) - 纳税标识号<br>NIN |
 | **乌克兰**  | EGRPOU<br>EDRPOU - 本地 ID |
-| **阿拉伯联合酋长国** | 税号<br>[增值税号](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - 也称为增值税注册号。 这是一个唯一编号，用于标识注册了增值税的应纳税人员（公司）或非应税法律实体。 |
+| **阿拉伯联合酋长国** | 税号<br>[增值税号](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - 也称为增值税注册号。 此值是一个唯一编号，用于标识注册了增值税的应纳税人员（公司）或非应税法律实体。 |
 | **美国** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) - 雇主标识号 |
 | **乌兹别克斯坦**  | INN - 纳税标识号 |
 | **越南** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) - 纳税标识号 |
