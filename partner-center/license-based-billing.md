@@ -9,23 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151825"
 ---
 # <a name="license-based-billing-in-partner-center"></a>合作伙伴中心的基于许可证的帐单
 
-**相应的角色**
+**适当的角色**：全局管理员 |用户管理管理员 |计费管理 |管理代理
 
-- 全局管理员
-- “用户管理”管理员
-- 计费管理员
-- 管理员代理
-
-在需要 **许可证** 的合作伙伴中心购买产品或联机服务时，需要为购买的 *每个许可证* 付费。 *不会* 按这些许可证的使用情况进行计费。  (有关基于使用情况计费和其他计费类型的信息，请参阅 [合作伙伴中心的计费类型](billing-different-types.md)。 ) 
+在需要 **许可证** 的合作伙伴中心购买产品或联机服务时，需要为购买的 *每个许可证* 付费。 *不会* 按这些许可证的使用情况进行计费。  (有关基于使用情况计费和其他计费类型的信息，请参阅 [合作伙伴中心的计费类型](./billing-basics.md)。 ) 
 
 ## <a name="license-billing-frequency"></a>许可证计费频率
 
@@ -60,6 +55,6 @@ ms.locfileid: "106179405"
 
 - [合作伙伴中心计费概述](billing-basics.md)
 
-- [合作伙伴中心的计费类型](billing-different-types.md)
+- [合作伙伴中心的计费类型](./billing-basics.md)
 
-- [主帐单和税务文章](billing.md)
+- [主要计费和税务文章](billing.md)

@@ -1,76 +1,72 @@
 ---
-title: 合作伙伴贡献指标-SMMCS
+title: 合作伙伴贡献指标 - SMMCS
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解合作伙伴贡献指标 (PCI) 合作伙伴需要满足才能获得小型和中型云解决方案资格。
+description: 了解 PCI 合作伙伴在 (和) 云解决方案能力之前需要满足的合作伙伴贡献指标。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 389a20cb8447852758c284368d52b504e8438b07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861421"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145892"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>使用合作伙伴贡献指标来实现中小型云解决方案资格
+# <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>使用合作伙伴贡献指标来获得中小型市场云解决方案能力
 
-**相应的角色**
+**适当的角色**：全局管理员|MPN 合作伙伴管理员|帐户管理员
 
-- 全局管理员
-- MPN 合作伙伴管理员
-- 帐户管理员
-
-本文介绍了六个关键合作伙伴贡献指标 (PCI) ，用于通过云 Business Applications SMB 选项来评估合作伙伴获得或留住银或金牌小型和中型云解决方案资格的进度。
+本文介绍六个关键合作伙伴贡献指标 (PCI) ，这些指标用于评估合作伙伴通过 Cloud Business Applications SMB 选项获得或保留银级或金级小型和中型市场云解决方案资格的进度。
 
 > [!NOTE]
-> 了解合作伙伴如何使用一组不同的合作伙伴贡献指标指标来实现银或金牌云 Business Applications 资格。 有关详细信息，请参阅 [将合作伙伴贡献指标用于云 Business Applications 胜任度](partner-contribution-indicators.md)。 你还可以 [阅读](https://partner.microsoft.com/membership/competencies) 有关可用功能及其要求的详细信息。
+> 了解合作伙伴如何使用一组不同的合作伙伴贡献指标来获得银级或金级云Business Applications资格。 有关详细信息，请参阅 [将合作伙伴贡献指标用于云Business Applications能力](partner-contribution-indicators.md)。 还可以详细了解 [可用的](https://partner.microsoft.com/membership/competencies) 不同能力及其要求。
 
-本文包括以下内容的相关信息：
+本文包含以下相关信息：
 
-- [每个 PCI 指标的评分方式](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
+- [如何评分每个 PCI 指示器](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
 
-- [每个 PCI 指标的阈值](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
+- [每个 PCI 指示器的阈值](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
 
 - [每个 PCI 指示器的详细定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- [如何访问合作伙伴中心的此区域](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
+- [如何访问此区域合作伙伴中心](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
 
-## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>此资格认证的合作伙伴贡献指标概述
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>此能力的合作伙伴贡献指标概述
 
-合作伙伴贡献指标为合作伙伴提供了一项整体衡量能力，可以整体衡量客户对客户的成功成果的影响，因此，当合作伙伴实现或通过云 Business Applications SMB 选项保留小型和中型云解决方案资格时，市场上的差别越大。
+合作伙伴贡献指标提供合作伙伴在推动成功客户成果方面的影响的整体度量，因此，当合作伙伴通过 Cloud Business Applications SMB 选项获得或保留小型和中型市场云解决方案能力时，在市场中具有更大的差异。
 
-通过 PCI，合作伙伴获得客户成功的关键衡量措施的信用额度，如成功的部署和日益增加的使用量。 他们需要继续投资并扩大其技术能力。
+借助 PCI，合作伙伴将获得客户成功的关键指标（例如成功部署和增加使用量）的额度。 他们希望继续投资并横向扩展其技术功能。
 
-例如，当合作伙伴实现关键指标中特定级别的影响时，合作伙伴可以通过云 Business Applications SMB 选项获得 (或留住) 小型和中型云解决方案资格。
+例如，当合作伙伴在关键指标方面达到特定级别的影响时，合作伙伴可以通过云 Business Applications SMB 选项获得 (或保留) 和中型市场云解决方案资格。
 
 > [!NOTE]
-> 若要了解有关获取能力的好处的详细信息，请参阅 [Microsoft 合作伙伴胜任度](https://partner.microsoft.com/membership/competencies)。
+> 若要详细了解获得资格的好处，请参阅 [Microsoft 合作伙伴能力](https://partner.microsoft.com/membership/competencies)。
 
-## <a name="pci-scoring-based-on-six-key-indicators"></a>基于六个关键指标的 PCI 计分
+## <a name="pci-scoring-based-on-six-key-indicators"></a>基于六个关键指标的 PCI 评分
 
-PCI 为合作伙伴的技术功能提供了一种复杂的视图，它能够提高客户的成功率和实现销售绩效。 为帮助合作伙伴通过云 Business Applications SMB 选项获得银或金牌小型和中型云解决方案资格认证，PCI 会衡量公司在六个关键指标内的前期性能：
+PCI 提供合作伙伴的管理功能、推动客户成功的能力及其销售绩效的成熟视图。 为了帮助合作伙伴通过 Cloud Business Applications SMB 选项获得银级或金级小型和中型市场云解决方案资格，PCI 针对六个关键指标衡量公司的上年度绩效：
 
 *性能指标：*
 
-1. **净新收入**：用于特定 Microsoft 产品的所有销售渠道的全新收入。  (有关此指标的详细信息，请参阅 [净新收入的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)) 
+1. **净新收入**：特定 Microsoft 产品在所有销售渠道中净新增收入。  (有关此指标的详细信息，请参阅 [净新收入](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).) 
 
-2. **Net customer 添加** 的内容：在所有销售渠道获得的特定 Microsoft 产品的网络客户。  (有关此指标的详细信息，请参阅 [net customer 的定义添加](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)。 ) 
+2. **净客户添加**：在所有销售渠道中为特定 Microsoft 产品获取 Net 客户。  (有关此指标的详细信息，请参阅 [净客户定义添加](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).) 
 
 *功能指示器：*
 
-3. **功能顾问**：持有当前活动的功能顾问的个人数量关联 Dynamics 365 的认证。  (有关此指标的详细信息，请参阅 [函数顾问定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)。 ) 
+3. **职能顾问**：拥有 Dynamics 365 功能顾问助理认证的个人数。  (有关此指标的详细信息，请参阅 [职能顾问](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)的定义 .) 
 
-4. **开发人员**：持有当前活动的开发人员的个人数量关联 Dynamics 365 的认证。  (有关此指标的详细信息，请参阅 [开发人员定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)。 ) 
+4. **开发人员**：持有 Dynamics 365 当前有效的开发人员关联认证的个人数。  (有关此指标的详细信息，请参阅 [开发人员](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)定义 .) 
 
 *客户成功指标：*
 
-5. **新部署**：过去12个月内超过特定使用情况阈值的生产租户数。  (有关此指标的详细信息，请参阅 [新部署的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)。 ) 
+5. **新部署**：过去 12 个月内超过特定使用阈值的生产租户数。  (有关此指标的详细信息，请参阅 [新部署](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)的定义 .) 
 
-6. **每月活动用户增长率**：过去12个月内，每个客户在每月活动用户的增长。  (有关此指标的详细信息，请参阅 [每月活动用户增长的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)) 
+6. **月度活跃用户增长**：过去 12 个月内所有客户每月活跃用户的增长。  (有关此指标的详细信息，请参阅 [每月活跃](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)用户增长的定义 .) 
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 分数如何影响资格资格
 为每个已获得的指标授予点，产生单数字 PCI 分数。 最多可以有100个点。 
@@ -93,25 +89,25 @@ PCI 分数确定资格资格，如下所示：
 |对于此指标 | 此能力的最高分为  |
 |:------------|:--------------:|
 |性能-净新收入  | 10点  |
-|性能-Net customer 添加  | 10点  |
-|功能功能顾问  | 30磅  |
-|功能-开发人员  | 5磅 |
-|客户成功-新部署  | 20磅  |
-|客户成功-每月活动用户增长  | 25磅 |
+|性能-Net customer 添加  | 10 个点  |
+|功能 - 职能顾问  | 30 分  |
+|功能 - 开发人员  | 5 个点 |
+|客户成功 - 新部署  | 20 个点  |
+|客户成功 - 每月活跃用户增长  | 25 分 |
 
-## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>此资格的每个 PCI 指标的阈值
+## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>此能力的每个 PCI 指标的阈值
 
-每个 PCI 指标都具有 Microsoft 设定的阈值，可以通过云 Business Applications SMB 选项获得公司的最大分数，以获得银或金牌小型和中型云解决方案资格。
+每个 PCI 指标都有 Microsoft 设置的阈值，这些阈值可以在通过 Cloud Business Applications SMB 选项获得银级或金级小型和中型市场云解决方案资格时获得公司最高分。
 
-计算每个指标间的点以产生不同的 PCI 分数。 此分数将每月更新一次。
+每个指标中的点数会生成不同的 PCI 分数。 此分数将每月更新一次。
 
-合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 所有指标都可以获得部分分数。
+合作伙伴如果达到或超出如下所示的阈值，则会获得给定指标的最高分。 对于所有指标，可以赚取部分分数。
 
-例如，净新收入为 $15000 的市场合作伙伴将获得最多10个 ($ 15000/$ 30000) 的一半。
+例如，净新增收入为 15，000 美元的市场合作伙伴将获得最多 10 分的一半 ($15，000/$30，000) 。
 
-下表介绍了可以联系的特定合作伙伴贡献指标阈值，以获得通过云 Business Applications SMB 选项获得银或金牌小型和中型云解决方案资格的最大分数。
+下表描述了可达到的特定合作伙伴贡献指标阈值，以通过 Cloud Business Applications SMB 选项获得银级或金级小型和中型市场云解决方案资格。
 
-| PCI 指标 | 性能指标：净新收入 | 性能指标： Net customer 添加 | 功能指示器：功能顾问 | 功能指示器：开发人员 | 客户成功指标：新部署 | 客户成功指标：每月活动用户增长率 |
+| PCI 指标 | 性能指标：净新收入 | 性能指标：净客户添加 | 功能指示器：职能顾问 | 功能指示器：开发人员 | 客户成功指标：新部署 | 客户成功指标：每月活动用户增长率 |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
 | **最大分数** | 10点 | 10点 | 30磅 | 5磅 | 20磅 | 25磅 |
 | **条件**       | 30,000 美元  | 10  | 5    | 2  | 10  | 35% |
@@ -135,31 +131,31 @@ PCI 分数确定资格资格，如下所示：
 合作伙伴成为 DPOR 的前提是在产品的订阅级别建立了与客户的关联。
 
 > [!NOTE]
-> 当给定的客户订阅中同时存在 CPOR 和 DPOR 时，CPOR 将获得与该订阅关联的相关 PCI 指标的信用额度。 如果关联是通过 OSA 关联的，则 CPOR 将获得净新收入的信用额度，而 Net customer 将会增加。 如果通过 OSU 进行关联，则 CPOR 将接收新部署的信用额度和每月活动用户的增长。
+> 当给定的客户订阅中同时存在 CPOR 和 DPOR 时，CPOR 将获得与该订阅关联的相关 PCI 指标的信用额度。 如果关联是通过 OSA 关联的，则 CPOR 将获得净新收入的信用额度，而 Net customer 将会增加。 如果关联是通过 OSU 进行，则 CPOR 会收到"新部署"和"每月活跃用户增长"的额度。
 
-## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>此资格认证的详细 PCI 指标定义
+## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>此资格的详细 PCI 指标定义
 
-以下各节介绍了关于六个 PCI 指标和如何计算点的详细信息。 这些指标与通过 Cloud Business Applications SMB 选项获得银或金牌小型和中型云解决方案资格相关。
+以下部分详细介绍了六个 PCI 指标中的每个指标以及如何计算点。 这些指标与通过 Cloud Business Applications SMB 选项获得 Silver 或 Gold Small and Midmarket 云解决方案资格相关联。
 
-使用以下列表快速执行特定定义：
+使用以下列表快速转到特定定义：
 
 - [净新收入的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)
-- [Net customer 的定义添加](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
-- [功能顾问的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
-- [面向开发人员的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
+- [净客户添加的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
+- [职能顾问的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
+- [开发人员定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
 - [新大型部署的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
-- [每月活动用户增长的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+- [每月活跃用户增长的定义](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
 
-### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI 指标定义 #1-净新收入
+### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI 指标定义#1 - 净新收入
 
-净新收入是 [性能指标](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)。 此指标的点按如下方式计算：
+净新收入是一 [个性能指标](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)。 此指标的分数按如下方式计算此能力：
 
-- 净新收入定义为适用于所有销售渠道的净新计费收入，用于限定 Dynamics 365 产品。
-- 净新收入会在尾随12个月内汇总，最大收益为10点。
-- 净新收入的点按计费减去信用额度计算，在12个月内聚合。
-- 净新收入是根据以下符合资格的产品的任意组合计算的：
-  - Dynamics 365 客户订婚资格产品包括：销售、市场营销、客户服务、现场服务、Project server、计划1、自动化、市场营销、Microsoft 关系销售
-  - 金融和运营资格产品包括： Dynamics 365 Business Central、容量和存储、财务和运营 (包括欺诈保护、运营、零售、HR、计划 2) 、混合现实、团队成员
+- 净新收入定义为所有销售渠道中符合条件的 Dynamics 365 产品的新计费净收入。
+- 净新收入在 12 个月的最后一个月内汇总，最大可能收入为 10 分。
+- 净新收入点数的计算方式为计费减去额度，并聚合 12 个月。
+- 净新收入是根据以下符合条件的产品的任意组合计算的：
+  - Dynamics 365 客户参与认证产品包括：销售、营销、客户服务、现场服务、项目服务器、计划 1、自动化、营销、Microsoft 关系销售
+  - 符合财务和运营资格的产品包括：Dynamics 365 Business Central、容量和存储、财务和运营 (包括欺诈防护、运营、零售、HR、计划 2) 、混合现实、团队成员
   
 - 销售渠道包括企业协议 (EA) 、云解决方案提供商 (CSP) 和 Web Direct。
 - 仅限企业协议收入：此收入包含协议第一年的收入。 第二年和第三年的经常性收入不包括在内。
@@ -220,36 +216,36 @@ Net customer 添加是 [性能指标](partner-contribution-indicators-small-and-
   **以及** 以下一项考试：
   - MB-210，MB-220，MB-230 或 MB-240
 
-若要获得财务和运营功能顾问关联认证，个人必须通过这些考试：
+若要获得财务和运营功能顾问关联认证，个人必须通过以下考试：
 
   - MB-300<br/>
-  **以及** 以下一项考试：
+  **和** 以下考试之一：
   - MB-310、MB-320 或 MB-330
 
-若要获得业务中心功能顾问关联认证，个人必须通过此考试：
+若要获得 Business Central 功能顾问关联认证，个人必须通过此考试：
   - MB-800
 
-### <a name="definitions-for-pci-metric-4---developers"></a>PCI 指标 #4 开发人员的定义
+### <a name="definitions-for-pci-metric-4---developers"></a>PCI 指标定义#4 - 开发人员
 
-开发人员是一个 [功能指示器](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)。 此指标的点按如下方式计算：
+开发人员是一 [项功能指示器](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)。 此指标的分数按如下方式计算此能力：
 
-- 开发人员定义为拥有当前活动的客户参与开发人员关联认证或财务和运营开发人员关联认证的个人数量。
+- 开发人员定义为拥有当前有效的客户参与开发人员关联认证或财务和运营开发人员助理认证的个人数量。
 
-- 开发人员指标的要点基于当月快照，最多可有5个点。
+- 开发人员分数指示器基于当前月份快照，最多提供 5 个点。
 
-- 若要访问五个顾问，合作伙伴可以混合和搭配持有证书类型的顾问，如下所示：
+- 若要联系五名顾问，合作伙伴可以混合和匹配持有任一认证类型的顾问，如下所示：
 
-  若要获得客户参与开发人员关联认证，个人必须通过以下考试：
+  若要获得 Customer Engagement 开发人员助理认证，个人必须通过以下考试：
   - PL-400
 
-  若要获得财务和运营开发人员关联认证，个人必须通过这些考试：
+  若要获得财务和运营开发人员助理认证，个人必须通过以下考试：
   - MB-300<br/>
-    **以及** 以下一项考试：
+    **和** 以下考试之一：
   - MB-500 或 MB-700
 
-### <a name="definitions-for-pci-metric-5---new-deployments"></a>PCI 指标定义 #5-新部署
+### <a name="definitions-for-pci-metric-5---new-deployments"></a>PCI 指标定义#5 - 新部署
 
-新部署是 [客户成功指标](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)。 此指标的点按如下方式计算：
+新部署是客户 [成功指示器](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)。 此指标的点按如下方式计算：
 
 - 新的部署将在尾随12个月内求和，最多可有20个点数。 还可以获得部分点。
 
@@ -278,15 +274,15 @@ Net customer 添加是 [性能指标](partner-contribution-indicators-small-and-
 
 - 每月活动用户在租户级别进行计数，并只在租户下的付费订阅上求和。
 
-- 每月活动用户增长指标将当前月份与12个月前的基线进行比较。 25个最大点可用于通过 Cloud Business Applications SMB 选项获得金牌或银小型和中型云解决方案资格。
+- 每月活动用户增长指标将当前月份与12个月前的基线进行比较。 通过 Cloud Business Applications SMB 选项获得金级或白银级小型和中型市场云解决方案资格时，最多可获得 25 分。
 
 - 单月活动用户数在每月结束时计算。
 
-- 为了满足要点要求，合作伙伴在12个月之前的整个客户中必须有至少 **50** 的每月活动用户的基准。
+- 若要符合点条件，合作伙伴必须在 12 个月之前在整个客户群中至少具有 **50** 个月度活跃用户的基线。
 
-- 合作伙伴在订阅级别关联到租户。 订阅映射到合格产品。
+- 合作伙伴在订阅级别与租户相关联。 订阅映射到符合条件的产品。
 
-- 所有与租户中任何付费订阅关联的伙伴都将获得每月活动用户在该租户下的所有付费订阅之间的信用额度。
+- 与租户下的任何付费订阅关联的所有合作伙伴都将获得该租户下所有付费订阅中所有月度活跃用户的信用额度。
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>如何访问合作伙伴贡献指标
 
@@ -294,18 +290,18 @@ Net customer 添加是 [性能指标](partner-contribution-indicators-small-and-
 
 ### <a name="access-partner-contribution-indicators"></a>访问合作伙伴贡献指标
 
-若要查看 "合作伙伴贡献指标" 表，请执行以下步骤：
+若要查看合作伙伴贡献指标表，请执行以下步骤：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从导航菜单中选择 " **MPN** "，然后选择 " **胜任度**"。
+2. 从 **导航菜单中选择"MPN"，** 然后选择"**资格"。**
 
-3. 选择 **小规模和中型云解决方案** 资格认证，后跟 **cloud Business Applications SMB 选项**。
+3. 选择 **"Small and Midmarket Cloud Solutions"** 资格，然后选择 **"Cloud Business Applications SMB"选项**。
 
-4. 在 "摘要" 部分下，查看你的进度、成就和相关分数截止日期。
+4. 在"摘要"部分下，查看到目前为止的进度、成就和相关分数。
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="如何读取 &quot;合作伙伴贡献指标&quot; 表":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="如何读取合作伙伴贡献指标表":::
 
 ## <a name="next-steps"></a>后续步骤
 
-查看这些 [信息资源](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) ，了解有关通过 CLOUD Business Applications SMB 选项获得金牌或银小型和中型云解决方案资格的详细信息。
+查看这些 [信息性](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) 资源，详细了解如何通过 Cloud Business Applications SMB 选项获得金级或白银级小型和中型市场云解决方案资格。

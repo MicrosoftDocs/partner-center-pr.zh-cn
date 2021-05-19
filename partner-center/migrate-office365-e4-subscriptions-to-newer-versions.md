@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132615"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151553"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>将 Office 365 E4 订阅迁移到较新的 Office 365 版本
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |用户管理管理员 |管理代理 |销售代理
 
 Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 月 7 日。 在此日期之后，你将无法再购买新的 Office 365 E4 订阅，现有的 E4 订阅在到期后将不会自动续订。
 
@@ -51,7 +46,7 @@ Office 365 企业版 E4 计划已停用，停用的生效日期为 2017 年 4 �
 - 选项 4：Office 365 企业版 E3
 
 
-| 功能 | 选项 1 | 方法 2 | 选项 3 | 选项 4 |
+| Feature | 选项 1 | 方法 2 | 选项 3 | 选项 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
 | 获取 Office 365 企业版 E4 中包含的所有功能？ | 是 | 是 | 是 | 否 |
 | 在 Office 365 中管理电话号码？ | 是 | 是 | 否 | 否 |

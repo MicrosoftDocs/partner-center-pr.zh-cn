@@ -9,20 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
-ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
+ms.openlocfilehash: fa99b66e9b30c349be8fc5cca6dfeeed9eca34ae
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "109630111"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151400"
 ---
 # <a name="technical-support-benefits"></a>技术支持权益
 
-**相应的角色**
-
-- 全局管理员
-- MPN 合作伙伴管理员
-- 管理员代理
+**适当的角色**：全局管理员|MPN 合作伙伴管理员|管理员代理
 
 ## <a name="overview"></a>概述
 
@@ -56,74 +52,74 @@ ms.locfileid: "109630111"
 > [!NOTE]
 > 必须先激活技术支持权益，然后才能使用它们。 
 
-作为 Microsoft 合作伙伴网络的一部分，合作伙伴有资格享受以下技术支持
+作为 Microsoft 合作伙伴网络成员身份的一部分，合作伙伴有资格获得以下技术支持
 
 
-| 技术支持 |  Action Pack | 银牌资格 | 黄金资格 |
+| 技术支持 |  Action Pack | 银资格 | 金牌资格 |
 |:---:|:---:|:---:|:---:|
-| Microsoft 产品支持<br>对于最近的本地 <br>仅产品 | 10 个事件 | 15 个事件  | 20 个事件 |
-| 签名云支持<br>仅适用于云产品 |  | 云能力：<br>无限制<br><br>其他资格：<br>5 个事件  | 云能力：<br>无限制<br>          <br>其他资格：<br>10 个事件  |
+| Microsoft 产品支持<br>对于最近的本地 <br>仅产品 | 10个事件 | 15个事件  | 20个事件 |
+| 签名云支持<br>仅适用于云产品 |  | 云能力：<br>无限制<br><br>其他能力：<br>5个事件  | 云能力：<br>无限制<br>          <br>其他能力：<br>10个事件  |
 
-*云能力包括：安全能力、云Business Applications、云平台、云生产力、企业移动性管理、小型和中型市场云解决方案。
+* 云能力包括：安全能力、云 Business Applications、云平台、云生产力、企业移动性管理、小型和中型云解决方案。
 
-## <a name="microsoft-product-support-on-premises"></a>本地 (Microsoft 产品) 
+## <a name="microsoft-product-support-on-premises"></a>Microsoft 产品支持 (本地) 
 
-可以使用  **Microsoft 产品支持** 来为最新的本地产品提供技术支持。 
+你可以使用  **Microsoft 产品支持** 获得最近的本地产品的技术支持。 
 
-首次使用权益时，需要"访问 ID"和"合同 ID"。 权益与用户帐户相关联，直至过期或不再有其他的支持事件。
+首次使用权益时，需要"访问 ID"和"合同 ID"。 权益将关联到用户帐户，直到这些权益过期或不再存在支持事件。
 
-如果用户帐户具有访问 ID 和合同 ID，则 (AAD 或 MSA) 的任何用户帐户都可以使用适用于本地产品的技术支持
+任何使用 AAD (MSA) 的用户帐户都可以使用本地产品的技术支持（如果它们具有访问 ID 和合同 ID）
 
-选择 " [支持企业](https://support.serviceshub.microsoft.com/supportforbusiness/create) "，为本地产品创建支持请求。
+选择 ["业务支持](https://support.serviceshub.microsoft.com/supportforbusiness/create) "，为本地产品创建支持请求。
 
-## <a name="how-many-partner-support-incidents-are-remaining"></a>剩余的合作伙伴支持事件数
-你只能从支持企业内部部署支持门户获取此信息。 遗憾的是，云门户（例如 Azure），LCS 等不会显示此信息。
+## <a name="how-many-partner-support-incidents-are-remaining"></a>剩余合作伙伴支持事件数
+只能从企业支持本地支持门户获取此信息。 遗憾的是，云门户 (例如 Azure、LCS 和其他) 不会显示此信息。
 
-你需要使用对业务的支持，并启动创建本地支持事件的过程。 我们不会创建支持请求，因为我们不会完成此过程。 我们所需的信息将在步骤2中显示。
+你需要使用"企业支持"并启动创建本地支持事件的过程。 我们不会创建支持请求，因为我们没有完成该过程。 我们需要的信息显示在步骤 2 中。
 
-步骤1开启 [企业支持](https://support.serviceshub.microsoft.com/supportforbusiness/create) 并选择 windows 10 并输入虚拟信息
+步骤 1 打开 ["业务支持"并选择](https://support.serviceshub.microsoft.com/supportforbusiness/create) "windows 10"并输入虚拟信息
 
-步骤2如果支持合同已关联到你的帐户，你应看到 "支持事件已显示"。 对于本地支持，你应该会看到显示的合作伙伴支持合同 (除非它不再有效) ，这包括开始日期、结束日期和事件。 如果需要将支持合同关联起来，请展开 "需要购买或添加更多支持计划"，然后单击 "添加合同" 按钮，输入访问 ID 和合同 ID。 展开 "是否要查看不可用的支持计划？" 部分以查看合作伙伴签名信息。 仅在以下情况下才会看到 "合作伙伴支持" 显示在此处如果合同已过期、没有剩余的事件或选择了旧的本地产品 (参阅 [aka.ms/n-1](https://aka.ms/n-1) for Support products) 
+步骤 2 如果支持合同已关联到帐户，应会看到显示的支持事件。 对于本地支持，应会看到合作伙伴支持合同 (除非该合同不再有效) 并且包括开始日期、结束日期和剩余事件。 如果需要关联支持合同，请展开"是否需要购买或添加更多支持计划"，然后单击"添加合同"按钮以输入访问 ID 和合同 ID。 展开"是否希望看到不可用的支持计划？" 部分，查看合作伙伴签名信息。 只有在合同已过期、没有剩余事件或选择了旧的本地产品时，才在此处显示合作伙伴支持 (请参阅 aka.ms/n-1 产品) [](https://aka.ms/n-1)
 
-**有关更多详细信息，请参阅 [剩余多少合作伙伴支持事件？](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+**有关详细信息，请参阅 [剩余的合作伙伴支持事件数？](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
-## <a name="signature-cloud-support-cloud-only"></a>仅限 cloud (的签名云支持) 
+## <a name="signature-cloud-support-cloud-only"></a>签名云支持 (云) 
 
 金牌和银牌能力合作伙伴可以使用 **签名云支持** 对云产品的技术支持。 
 
-首次使用该权益时，需要使用访问 ID 和合同 ID。 权益将关联到用户帐户，直到这些权益过期或不再存在支持事件。
+首次使用该权益时，需要使用访问 ID 和合同 ID。 权益与用户帐户相关联，直至过期或不再有其他的支持事件。
 
-创建 Azure 请求的 CSP 合作伙伴可以使用"云解决方案提供商"支持计划，而无需添加支持合同。
+创建 Azure 请求的 CSP 合作伙伴可以使用 "云解决方案提供商" 支持计划，而无需添加支持合同。
 
-具有管理员 **代理角色** 的用户可以在左侧 [](https://partner.microsoft.com/commerce/customers/list)导航菜单中选择 CSP 下的"客户"，选择"**服务** 管理"，然后选择"新建 **请求"。**  选择相关工作负载时，将打开特定于工作负荷的门户，并添加支持合同并创建请求。
+具有 **管理员代理** 角色的用户可在左侧导航菜单中选择 "CSP" 下的 " [客户](https://partner.microsoft.com/commerce/customers/list) "，选择 " **服务管理**"，然后选择 " **新建请求**"。  当你选择相关工作负荷时，将打开特定于工作负荷的门户，并添加支持合同并创建请求。
 
-## <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure 门户错误"访问 ID 已关联..."
-使用 Azure 门户，签名云支持选择"帮助 + 支持"、"支持计划"，然后选择"链接支持权益"并输入"访问 ID"和"合同 ID"来使用资源。
+## <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure 门户错误 "访问 ID 已经关联 ..."
+使用 Azure 门户时，通过选择 "帮助 + 支持"、"支持计划"，然后输入访问 ID 和合同 ID，可以使用签名云支持。
 
 > [!NOTE]
-> 如果你有 Microsoft Action Pack则由于它不包含云支持而未获得云签名云支持 - 仅 Microsoft 产品支持 (本地) 
+> 如果你有 Microsoft Action Pack 你不会获得云支持，因为它不包含 "仅限 Microsoft 产品支持" (本地) 
 
-你可能会看到错误消息"*此访问 ID 已关联到帐户。请联系技术客户经理获取新的访问 ID。* **此错误消息无效，应忽略！** 我们已请求禁用错误，并替换为有用的诊断错误消息。 
+你可能会看到错误消息 *"此访问 ID 已与某个帐户关联。请与你的技术客户经理联系以获取新的访问 ID "*。 **此错误消息无效，应忽略！** 我们已请求禁用该错误，并将其替换为有用的诊断错误消息。 
 
-你将看到上面的"访问 ID 已关联..." 如果在使用支持合同时多次将支持合同关联到帐户，Azure 门户。 请参阅以下方案：
+你将看到上述 "访问 ID 已经关联 ..." 如果使用 Azure 门户时多次将支持协定关联到某个帐户，则会出现错误。 请参阅以下方案：
 
-1. 如果你有黄金或白银技术权益，并且之前已添加本地支持合同，则使用 Azure 门户，然后第二次将合同添加到同一帐户。 只需将支持合同关联一次，因此无需在 Azure 中链接支持权益。 如果在合同已关联到帐户时使用 Link 支持权益，则会看到错误，应忽略该错误。 使用 "+ 新支持请求" 并按正常方式创建支持事件，并显示支持计划。
+1. 如果有金牌或银技术优势，并且之前已为本地支持添加协定，则使用 Azure 门户，并在同一帐户中再次添加该协定。 只需将支持合同关联到一次帐户，因此无需在 Azure 中链接支持权益。 如果在合同已关联到帐户时使用 Link 支持权益，则会看到错误，应忽略该错误。 使用" + 支持请求"，并正常创建支持事件，将显示支持计划。
 
-2. 如果支持合同已过期或签名 10pack (金牌混合能力) 或签名 5pack (银色混合能力) 没有剩余的事件，将隐藏支持合同，因为这是无效的。 如果再次链接支持权益，你将看到错误，因为协定已经关联。 需要购买新的支持计划才能获得 Azure 支持事件。 
+2. 如果支持合同已过期，或者签名 10 包 (黄金混合资格) 或签名 5 包 (Silver 混合资格) 没有事件，则剩余的支持合同将隐藏，因为它无效。 如果再次链接支持权益，将看到错误，因为合同已关联。 需要购买新的支持计划才能获取 Azure 支持事件。 
 
-有关合作伙伴付费支持服务，请参阅下面的合作伙伴支持计划
+有关合作伙伴付费支持产品/服务，请参阅下面的合作伙伴支持计划
 
 ## <a name="partner-support-plans"></a>合作伙伴支持计划
 
-你可以从 Microsoft 获得付费支持，其中包括技术支持和一系列额外服务选项。 
+可以从 Microsoft 获得付费支持，其中包括技术支持和一系列额外服务选项。 
 
-对于合作伙伴特定的计划，可以 [比较合作伙伴支持计划](https://partner.microsoft.com/support/partnersupport) 或参阅下面的内容：
+可以比较 [合作伙伴支持计划](https://partner.microsoft.com/support/partnersupport) ，或参阅下文了解特定于合作伙伴的计划：
 
-- [合作伙伴顶级支持](https://partner.microsoft.com/support/microsoft-services-premier-support) -Microsoft 提供的最高级别技术支持
-- [对合作伙伴的高级支持](https://partner.microsoft.com/support/advanced-cloud-support) -仅限云产品
+- [顶级支持合作伙伴 -](https://partner.microsoft.com/support/microsoft-services-premier-support) Microsoft 的顶级技术支持
+- [合作伙伴高级支持](https://partner.microsoft.com/support/advanced-cloud-support) - 仅云产品
 
 
 ## <a name="next-steps"></a>后续步骤
 
 - [管理你的 Microsoft 合作伙伴网络权益和套餐](manage-your-partner-network-benefits.md)
-- [为合作伙伴成员中心 (PMC) 的成员激活技术权益 ](partner-membership-center-tech-benefits-activate.md)
+- [为 PMC 成员激活Partner Membership Center (权益) ](partner-membership-center-tech-benefits-activate.md)

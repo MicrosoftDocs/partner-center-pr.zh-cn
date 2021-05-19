@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132785"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151281"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作伙伴网络中的发票和税款
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- MPN 合作伙伴管理员
-- 计费管理员
-- 管理员代理
+**适当的角色**：全局管理员 |用户管理管理员 |MPN 合作伙伴管理员 |计费管理 |管理代理
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>查看或下载你的 MPN 成员身份发票
 

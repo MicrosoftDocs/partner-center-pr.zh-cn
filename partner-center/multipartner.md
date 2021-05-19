@@ -9,24 +9,18 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 931b169b3b2794f6a83a14007a50184fa6676102
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b41d3ee33b789c8f839ff1b3b5f5d8fd27c23f02
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441789"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151145"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>针对想要使用多个合作伙伴的客户的多合作伙伴支持
 
-**适用于**
+**适用** 于：合作伙伴中心 |适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
-
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 销售代理
+**适当的角色**：全局管理员 |用户管理管理员 |销售代理
 
 如果客户想要使用多个合作伙伴，则合作伙伴中心的多合作伙伴功能支持方案。 例如，客户可能希望雇用一个合作伙伴以利用其在 Office 365 方面的专长，但是会雇用一个专攻 Microsoft Azure 的其他合作伙伴。
 

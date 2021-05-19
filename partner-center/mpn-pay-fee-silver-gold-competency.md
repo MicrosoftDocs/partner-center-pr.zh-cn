@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132479"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152318"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>如何支付与银或金牌资格相关的费用
 
-**相应的角色**
-
-- MPN 合作伙伴管理员
-- 帐户管理员
+**适当的角色**： MPN 合作伙伴管理员 |帐户管理员
 
 本文介绍如何和何时支付与获得银或金牌 Microsoft 合作伙伴网络资格相关的费用。 本文还介绍了如何更改首选付款方式方法，如何取消订单，以及如何在从银转到金牌资格时获得25% 的费用折扣。
 
@@ -41,34 +38,34 @@ ms.locfileid: "106132479"
 
 1. 使用组织的工作帐户凭据登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)。
 
-2. 从导航菜单中选择 " [成员资格](https://partner.microsoft.com/dashboard/mpn/offers) "。 
+2. 从 [导航菜单中选择](https://partner.microsoft.com/dashboard/mpn/offers) "成员资格套餐"。 
 
-3. 在 " **产品/服务可供购买**" 下，查找与你的特定资格关联的 **银成员身份** 磁贴或 **金牌成员身份** 磁贴。 
+3. 在 **"可供购买的产品/服务"** 下，找到与特定资格关联的"银级成员资格"磁贴或"黄金成员资格"磁贴。  
 
-4. 选择位于特定银色或金牌成员身份磁贴右下方的 " **订阅** " 选项。
+4. 选择位于 **特定** "白银"或"黄金"成员身份磁贴右下角的"订阅"选项。
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="成员资格提供显示合作伙伴可以订阅或购买的银成员身份的页面。" border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="&quot;成员资格产品/服务&quot;页显示合作伙伴可以订阅或购买的白银或黄金成员身份。" border="false":::
 
    > [!Note]
-   > 如果尚未满足所需的银或金牌资格要求，你将无法订阅银/金牌成员资格或支付相关的能力费。 此外，如果你已成为金牌能力合作伙伴，将自动向你授予银胜任度的增量权益。 在这种情况下，支付银能力费用的选项也不可用。
+   > 如果尚未满足所需的白银或黄金资格要求，将无法订阅白银/黄金成员资格或支付相关的资格费用。 此外，如果你已经是金级资格合作伙伴，则白银资格的增量权益将自动授予你。 在这种情况下，支付银牌资格费用的选项也将不可用。
 
-4. 在 " **购买详细信息** " 页上，查看并确认详细信息。
+4. 在" **购买详细信息"** 页上，查看并确认详细信息。
 
-    (了解有关更新 [公司的 **税务 ID** 信息](./organization-tax-info.md) 或公司的 [**帐单到** 公司地址](./mpn-get-action-pack.md)的详细信息。 ) 
+    (详细了解如何更新公司的税务 [**ID**](./organization-tax-info.md)信息或公司的帐单到 [**公司地址**](./mpn-get-action-pack.md).) 
 
-   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="成员资格提供购买详细信息页和付款首选项。" border="false":::
+   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="成员资格提供具有付款首选项的购买详细信息页。" border="false":::
 
-5. 在页面的左下角，找到 " **选择付款首选项** " 部分。 选择 **信用卡** 选项或 **电子银行转帐** 选项，然后选择 " **下一步**"。 有关与任一选项关联的进一步步骤，请参阅以下各节。
+5. 在页面左下角，找到" **选择付款首选项"** 部分。 选择"**信用卡"选项** 或"**电子银行转移"** 选项，然后选择"下一 **步"。** 有关与任一选项关联的进一步步骤，请参阅以下部分。
 
-### <a name="use-a-credit-card-as-your-payment-preference"></a>使用信用卡作为你的付款首选项
+### <a name="use-a-credit-card-as-your-payment-preference"></a>使用信用卡作为付款首选项
 
-按照以下步骤完成相关银或金牌资格成员的信用卡付款。
+按照以下步骤完成关联白银或黄金资格成员资格的信用卡付款。
 
-1. 如果选择 **信用卡** 作为首选付款方式，将显示 "信用卡详细信息" 页。 
+1. 如果选择" **信用卡"** 作为首选付款方式，将显示"信用卡详细信息"页。 
 
-   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="成员资格提供付款信用卡详细信息页。" border="false":::
+   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="成员资格提供支付信用卡详细信息页。" border="false":::
 
-2. 选择靠近本页顶部的 **协议** 链接，并查看 MPN 提供代表你的公司的购买条款和条件。 本协议提供有关计费帐户、续订、退款资格和税款的重要信息。
+2. 选择 **靠近** 此页顶部的协议链接，并代表公司查看 MPN 产品/服务购买条款和条件。 本协议提供有关计费帐户、续订、退款资格和税款的重要信息。
 
 3. 在相关字段中输入信用卡详细信息和计费信息，然后选择 " **付费**"。
 
@@ -98,31 +95,31 @@ ms.locfileid: "106132479"
    > [!NOTE]
    > 成功 **提交** 订单后，你的 **订单号** 和 **MPN ID** 就会立即显示。 请记下此信息。 稍后你将需要它来完成银行传输。
 
-1. 你将看到一条确认页面，指出你的提交是否成功。 完成到银行的线路传输后，需要返回到此页上传您的付款凭证。
+1. 你将看到一个确认页，指示提交成功。 完成银行电汇后，需要返回此页面以上传付款证明。
 
-   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="提交确认页面。" border="false":::
+   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="提交确认页。" border="false":::
 
-1. 完成从银行帐户传输的线路。 请确保执行以下操作：
+1. 从银行帐户完成电汇。 请确保执行以下操作：
 
-   - 将 **订单号** 和 **MPN ID** 同时包含在你的线路传输引用详细信息中。
+   - 在电汇 **参考详细信息** 中包括订单号 **和 MPN** ID。
 
-   - 将 "应付金额" (以前面所述的货币) 到前面页面的 " **线路传输说明** " 区域中显示的 Microsoft 银行帐户。
+   - 将前面 (所述货币的) 转移到上一页的"电汇说明"区域中显示的 Microsoft **银行帐户。**
 
-1. 银行确认交易后，请将银行确认拍照作为证明。 请确保银行确认证明文档显示以下内容的详细信息： 
-   - 传输传输付款的日期
-   - 用于接收线路传输的 Microsoft 银行帐户
-   - 以正确的货币显示的传输量
+1. 银行确认交易后，请拍摄银行确认照片作为证明。 确保银行确认证明文档显示以下详细信息： 
+   - 发生电汇付款的日期
+   - 用于接收电汇的 Microsoft 银行帐户
+   - 以适当货币显示的转移金额
    - 订单号和 MPN ID 号
 
-1. 请参阅下一节，了解上传传输传输支付文档的步骤。
+1. 请参阅下一部分，了解上传电汇付款凭证的步骤。
 
-### <a name="upload-proof-of-wire-transfer-payment"></a>上传电汇证明
+### <a name="upload-proof-of-wire-transfer-payment"></a>上传电汇付款证明
 
-如果通过电子线路传输来支付银或金牌成员资格，则需要将支付证明传到合作伙伴中心。 请按照以下步骤操作：
+如果通过电子电汇支付白银或黄金会员费，则需要将付款证明上传到合作伙伴中心。 请按照以下步骤操作：
 
-1. 返回到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)，然后从左侧导航菜单中选择 " **成员资格产品** " 选项。
+1. 返回到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)， **然后从左侧** 导航菜单中选择"成员资格套餐"选项。
 
-1. 在 "购买的产品/服务" 列表中，找到特定产品/服务。 然后，在该产品的 "操作" 列下，选择 " **上载付款证明**"。
+1. 在"购买的产品/服务"列表中，找到特定产品/服务。 然后，在产品/服务"操作"列下，选择"**上传付款证明"。**
 
    :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="购买的成员资格优惠列表显示了可选择的选项，并为每个购买的产品/服务上传支付证明。" border="false":::
 
@@ -146,38 +143,38 @@ ms.locfileid: "106132479"
 
 若要更改现有订单的付款首选项，首先需要取消订单，然后使用首选付款方式重新购买该订单。
 
-执行以下操作以取消现有的 unactioned 电子银行传输并更改你的付款首选项：
+执行以下操作以取消现有的未处理电子银行转移，并更改付款首选项：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从左侧导航菜单中选择 " **成员资格** "。
+2. 从 **左侧导航菜单中** 选择"成员资格套餐"。
 
-3. 在 "购买的产品/服务" 列表中，找到要取消的特定产品/服务。 然后，在该产品的 "操作" 列下，选择 " **取消订单**"。
+3. 在"购买的产品/服务"列表中，找到要取消的特定产品/服务。 然后，在产品/服务"操作"列下，选择"**取消订单"。**
 
-   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="购买的成员资格产品列表显示取消订单选项。" border="false":::
+   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="&quot;购买的成员资格产品/服务&quot;列表显示&quot;取消订单&quot;选项。" border="false":::
 
-4. 按照剩余步骤取消订单。 
+4. 按照其余步骤取消订单。 
 
-5. 请参阅前面的部分，使用新的付款首选项创建新订单，该订单基于其中一项银或金牌成员资格提供。
+5. 请参阅前面部分，根据仍然可用的白银或黄金会员产品/服务之一，使用新的付款首选项创建新订单。
 
-## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>从银移动到黄金时应用升级折扣
+## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>从白银移动到黄金时应用升级折扣
 
-如果你的组织具有有效的银资格并满足关联金牌资格的资格要求，则可以从银升级到黄金以获得折扣。 对于金牌资格价格，你将获得25% 的折扣。
+如果你的组织具有有效的白银资格，并且满足相关黄金资格的资格要求，则有资格从白银升级到黄金，享受折扣。 你将获得黄金资格价格的 25% 折扣。
 
-新的金牌日期将计划为从购买之日起一年。 你将获得完全金牌权益。
+新的黄金周年日期计划为自购买日期起一年。 你将获得完整的黄金权益。
 
 > [!NOTE]
-> 此升级折扣有一些例外情况。 如果你有银成员资格，则使用25% 的金牌成员资格折扣升级到金牌成员资格产品/服务，你将不能享受银退款。 即使你在30天内为银成员付费，并且尚未使用相关权益，也是如此。
+> 此升级折扣有一些例外情况。 如果你有银级会员产品/服务，然后使用 25% 的黄金会员折扣升级到黄金会员产品/服务，则你不符合白银退款条件。 即使在 30 天内支付银牌成员资格，但尚未使用相关权益，也是如此。
 
-若要查看应用25% 折扣的位置，请执行以下操作：
+若要了解 25% 折扣的应用位置，请执行下列操作：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从左侧导航菜单中选择 " **成员资格** "。
+2. 从 **左侧导航菜单中** 选择"成员资格套餐"。
 
-3. 在 "产品/服务可供购买" 下，查找 "黄金成员身份" 磁贴。 如果以前为银成员提供并支付了费用，则会调整黄金成员身份，以反映25% 的折扣。
+3. 在"可供购买的产品/服务"下，查找"黄金成员资格"磁贴。 如果以前获得并支付过银级会员，则黄金会员金额将进行调整以反映 25% 的折扣。
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="购买的成员资格优惠显示了具有银到金牌25% 折扣的金牌磁贴产品。" border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="购买的会员产品/服务显示具有银级到金级 25% 折扣的黄金磁贴产品/服务。" border="false":::
 
 4. 选择反映折扣的金牌成员身份磁贴中的 " **订阅** "。 购买详细信息页还会显示所选购买的折扣。
 

@@ -1,5 +1,5 @@
 ---
-title: 间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议-常见问题
+title: 间接提供商如何帮助其经销商采用 Microsoft 合作伙伴协议 - 常见问题解答
 ms.topic: article
 ms.date: 02/17/2021
 ms.service: partner-dashboard
@@ -9,20 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3572056d38966427f8970cf48268ac21a261b505
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 8fc82348ed59dff14b4c98272fb5b77d488ccde0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645888"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151485"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>间接提供商如何帮助其间接经销商接受 (MPA 的 Microsoft 合作伙伴协议) 
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |管理代理 |销售代理
 
 以下问题和解答可帮助间接经销商了解如何以及为什么接受 MPA。 
 
@@ -43,30 +39,30 @@ ms.locfileid: "100645888"
 **答案** 如果经销商可以登录到合作伙伴中心，但未看到接受 MPA 的选项，或者未验证是否已在 CSP 间接经销商计划中注册，则很可能意味着它们只在 MPN 计划中注册，而不是在 CSP 中注册为间接经销商。 过去，我们确实允许经销商通过其间接提供程序，即使他们没有在 CSP 计划中正式注册也是如此。
 
 现在是时候成为官方 CSP 间接经销商的时候了。
-这也适用于已约束力 CSP 的 "顾问" 合作伙伴。 对于间接经销商使用间接提供程序，Microsoft 每个 CSP 区域都需要一个有效的 CSP 间接经销商帐户。
+这也适用于已约束力 CSP 的 "顾问" 合作伙伴。 Microsoft 需要一个CSP Indirect Reseller CSP 业务区域的活动帐户，供间接经销商与间接提供商交易。
 
-#### <a name="i-work-with-multiple-indirect-providers-distributors-in-various-countries-do-i-need-to-accept-the-mpa-in-each-csp-country"></a>我使用多个间接提供程序 (分销商) 在不同国家/地区。 是否需要在每个 CSP 国家/地区接受 MPA？
+#### <a name="i-work-with-multiple-indirect-providers-distributors-in-various-countries-do-i-need-to-accept-the-mpa-in-each-csp-country"></a>我与多个国家/地区 (提供商) 分销商合作。 是否需要在每个 CSP 国家/地区接受 MPA？
 
 
-**答案** 对于 MPN ID，每个 CSP 区域至少需要一个 MPA 签名。 例如，如果你有一个法国的 MPN ID，并且已在法国和接受的 MPA 中注册了 CSP 间接经销商计划，则你在整个 [CSP 欧洲地区](regional-authorization-overview.md#europe-region-and-market) 都符合要求，而在其他欧洲国家/地区不需要接受 MPA。 可以在整个 CSP 欧洲区域中与任何间接提供程序进行处理。 
+**答案** 每个 CSP 区域至少需要一个针对 MPN ID 的 MPA 签名。 例如，如果你拥有法国的 MPN ID，并且已注册到法国的 CSP Indirect Reseller 计划并接受 MPA，则你符合整个 [CSP 欧洲](regional-authorization-overview.md#europe-region-and-market) 区域，并且不必接受其他欧洲国家/地区的 MPA。 可以与整个 CSP 欧洲区域的任何间接提供商进行交易。 
 
-#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas--one-as-direct-bill-and-one-as-indirect-reseller-"></a>我是法国的直销合作伙伴，也在意大利的间接提供商的使用，是否需要接受两个 MPAs，一种是直接帐单，另一种是间接经销商？
+#### <a name="i-am-a-direct-bill-partner-in-france-and-also-transact-with-an-indirect-provider-in-italy-do-i-need-to-accept-two-mpas-one-as-direct-bill-and-one-as-indirect-reseller-"></a>我是法国的直接计费合作伙伴，还与意大利的间接提供商进行交易，是否需要接受两个 MBA，一个作为直接帐单，另一个作为间接经销商？
 
-**答案**  如果已在 CSP 区域中接受了直接帐单 MPA，则无需接受 CSP 间接经销商 MPA。 但是，你需要确保你的 MPN 帐户在合作伙伴中心中，并且与你的间接提供商共享的 MPN ID 位于合作伙伴中心。 
+**答案**  如果已在 CSP 区域接受直接计费 MPA，则不必接受 CSP 间接经销商 MPA。 但是，需要确保 MPN 帐户位于合作伙伴中心且与间接提供商共享的 MPN ID 位于合作伙伴中心。 
 
 #### <a name="do-we-have-to-keep-accepting-the-indirect-reseller-mpa-agreement-every-year"></a>我们是否必须每年继续接受间接经销商 MPA 协议？
 
 
-**答案** 不需要每年都接受。 若要使用间接提供程序进行处理，必须接受至少一个 MPA 每个 CSP 区域以保持符合性。
+**答案** 无需每年接受一次。 若要与间接提供商交易，必须接受每个 CSP 区域至少一个 MPA 以保持合规性。
 
 
-#### <a name="if-the-subscriptions-are-not-changing-does-it-matter-if-resellers-accept-the-agreement"></a>如果订阅未更改，是否需要经销商接受协议？ 
+#### <a name="if-the-subscriptions-are-not-changing-does-it-matter-if-resellers-accept-the-agreement"></a>如果订阅未更改，经销商是否接受协议是否很重要？ 
 
-**答案** 如果间接经销商不接受 MPA，它们将被约束力与间接提供商联系。 他们的 Microsoft 奖励将受到影响。 
+**答案** 如果间接经销商不接受 MPA，将阻止他们与间接提供商 交易。 他们的 Microsoft 奖励将受到影响。 
 
-#### <a name="will-i-be-off-boarded-from-partner-center-if-i-dont-accept-the-mpa-what-are-the-exact-risks-if-resellers-dont-accept-the-mpa"></a>如果不接受 MPA，是否会从合作伙伴中心关闭载入？ 如果经销商不接受 MPA，会有什么风险？
+#### <a name="will-i-be-off-boarded-from-partner-center-if-i-dont-accept-the-mpa-what-are-the-exact-risks-if-resellers-dont-accept-the-mpa"></a>如果不接受 MPA，合作伙伴中心从公司板载吗？ 经销商不接受 MPA 的具体风险是什么？
 
-**答案** 间接经销商 (分销商) ，间接经销商将被阻止约束力。 在不久的将来，不会将间接销售商转到任何计划。 
+**答案** 间接经销商将被阻止与间接提供商和分销商 () 。 在不久的将来，没有计划关闭间接经销商。 
 
 #### <a name="my-reseller-says-that-the-mpa-was-already-accepted-by-an-employee-who-left-the-company-do-they-need-to-accept-again"></a>我的分销商说，你的员工已被离开公司的员工接受了 MPA。 是否需要再次接受？
 
@@ -130,23 +126,23 @@ ms.locfileid: "100645888"
 
 #### <a name="how-can-i-view-all-my-mpn-ids"></a>如何查看我的所有 MPN Id？
 
-**答案** 用 MPN 帐户凭据登录到合作伙伴中心 (MPN 和 CSP 登录凭据可能不同) 。 从 "**设置**" 中，选择 "**帐户设置**" "  ->  **组织配置文件**  ->  **标识符**" 以查看 MPN id。 若要添加新的 MPN 位置/子公司，请前往 " **法律配置文件** "，然后单击 " **添加位置**"。
+**答案** 使用 MPN 合作伙伴中心 MPN 帐户凭据登录 (CSP 登录凭据可能不同于) 。 从 **"设置****"中选择"帐户设置**""组织配置文件标识符"  ->    ->  以查看 MPN 标识。 若要添加新的 MPN 位置/子公司，请转到 **"法律配置文件"，** 然后单击"添加 **位置"。**
 
 ## <a name="questions-about-csp-regional-authorization"></a>有关 CSP 区域授权的问题
 
 #### <a name="what-is-a-csp-region"></a>什么是 CSP 区域？
 
-**答案** CSP 区域包含一个或多个可在其中执行 CSP 业务的国家/地区。 例如，使用间接提供商、与客户进行连接、约束力和累积激励。 需要至少一个 CSP 帐户 (office 365 工作帐户) 才能在 CSP 区域中进行业务。 了解 [CSP 区域](regional-authorization-overview.md)的详细信息。
+**答案** CSP 区域由一个或多个可以执行 CSP 业务的国家/地区组成。 例如，业务包括与间接提供商合作、与客户联系、交易和累积奖励。 需要在 Office 365 工作 (中至少有一) CSP 帐户，以在 CSP 区域进行业务。 详细了解 [CSP 区域](regional-authorization-overview.md)。
 
-如果你是一个 CSP 间接经销商，则需要在同一区域中与间接提供商合作，并且只能向同一区域的客户销售。
+如果你是客户CSP Indirect Reseller，则需要与同一区域中的间接提供商合作，并且只能向同一区域的客户销售。
 
-#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>为什么无法将我的 MPN ID 关联到我的租户？
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>为什么无法将 MPN ID 关联到租户？
 
-**答案**  如果无法将 MPN ID 关联到租户，并且看到了错误，则意味着 MPN ID 和租户不在同一国家/地区。 要使关联正常工作，它们必须位于同一国家/地区。 此要求的原因是，Microsoft 奖励按国家/地区和 MPN ID 级别付费。 例如，如果在法国拥有 CSP 帐户，则在华北还需要 MPN location (MPN) ID，才能获得付费奖励。 英国的 MPN ID 尽管它们处于相同的 CSP 区域，但不起作用。 
+**答案**  如果无法将 MPN ID 关联到租户，并且看到错误，则意味着 MPN ID 和租户不在同一国家/地区。 若要使关联正常工作，它们都需要在同一国家/地区。 此要求是因为 Microsoft 奖励按国家/地区和 MPN ID 级别支付。 例如，如果你拥有法国的 CSP 帐户，则需要一个 MPN 位置 (MPN ID) 法国的 MPN ID 才能获得付费奖励。 英国 MPN ID 将不起作用，尽管它们在同一 CSP 区域。 
 
-若要解决此问题，请在与 CSP 国家/地区相同的国家/地区创建 MPN 位置。 详细了解如何 [管理 MPN 位置](manage-locations.md)。
+若要解决此问题，请与 CSP 国家/地区在同一国家/地区创建 MPN 位置。 详细了解如何管理 [MPN 位置](manage-locations.md)。
 
-#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>我在法国有一个 CSP 间接经销商帐户。 是否可以与德国的间接提供商合作？
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>我有一个CSP Indirect Reseller帐户。 是否可以与德国的间接提供商合作？
 
 **答案** 是的。 如果 CSP 间接经销商帐户在 CSP 区域中处于活动状态，则可以使用同一帐户在整个区域中完成业务。 了解 [CSP 区域](regional-authorization-overview.md)的详细信息。
 
@@ -161,34 +157,34 @@ ms.locfileid: "100645888"
 
 所有三个 CSP 帐户都必须与 MPN ID 位置帐户相关联，以便在这些子公司中进行业务和赢得奖励。 MPN 胜任度和权益只能由 MPN 帐户进行管理。
 
-#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>我是美国的 CSP 间接经销商，想要将我的业务扩展到欧洲。 在合作伙伴中心需要执行哪些操作？
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>我是美国的 CSP 间接经销商，想要将我的业务扩展到欧洲。 在一个服务中需要合作伙伴中心？
 
-**答案** 你需要在要进行业务的国家/地区 MPN 位置，并且需要在同一国家/地区注册 CSP 间接经销商计划。 了解有关创建新的 [MPN 位置和 CSP 注册](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)的详细信息。
+**答案** 你需要在想要建立业务的国家/地区设置 MPN 位置，并且需要在同一国家/地区注册CSP Indirect Reseller计划。 详细了解如何创建新的 [MPN 位置和 CSP 注册](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)。
 
-## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>有关将 MPN 帐户从 PMC 迁移到合作伙伴中心的问题
+## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>有关将 MPN 帐户从 PMC 迁移到 合作伙伴中心
 
-#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>我想要将我的 MPN 帐户从合作伙伴成员中心迁移到合作伙伴中心。 如何执行此操作？ 我不知道谁是 PMC 的 MPN 管理员，如何迁移？ 
+#### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc-how-can-i-migrate"></a>我想要将 MPN 帐户从 Partner Membership Center 迁移到 合作伙伴中心。 如何执行？ 我不知道谁是 PMC 中的 MPN 管理员。 如何迁移？ 
 
-**答案** 下载有关如何将 [MPN 从 PMC 迁移到 PC](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)的循序渐进指南。
+**答案** 下载有关如何将 MPN 从 [PMC 迁移到电脑的分步指南](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)。
 
-迁移你的 MPN 帐户后，请了解有关如何对 MPA 进行签名的详细信息，请参阅 [microsoft 合作伙伴协议](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process)。
+迁移 MPN 帐户后，请详细了解如何签署 MPA，请阅读 [microsoft-partner-agreement](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process)。
 
-如果出现问题，请从合作伙伴中心内提出 [支持票证](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 。
+如果发生问题，请从内部 [提出](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 支持合作伙伴中心。
 
-#### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>如何实现检查我的 MPN ID 是否已迁移到合作伙伴中心？
+#### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>如何实现是否将 MPN ID 迁移到 合作伙伴中心？
 
-**答案**  登录到你的 MPN 帐户，其中任何角色 (MPN 和 CSP 登录凭据可能不同) 。 
+**答案**  使用任何角色登录到 MPN 帐户 (MPN 和 CSP 登录凭据可能不同于) 。 
 
-在 "**帐户设置**" 中，选择 "**合作伙伴**" 选项卡下的 "**法律配置文件**"如果在 "程序信息" 下看到 "MPN Program status"，则 MPN ID 在 "合作伙伴中心" 中。 如果在 "合作伙伴" 选项卡下看不到 "MPN Program status"，则可能是你已使用 CSP 帐户登录，或者你的 MPN 帐户仍不在合作伙伴中心。 你可能仍需要将 MPN 帐户从 PMC 迁移到 PC。
+在 **"帐户设置"** 中，选择" **合作伙伴"选项卡下的** "法律 **配置文件"** 页。如果在"程序信息"下看到"MPN 计划状态"，则 MPN ID 位于合作伙伴中心。 如果在"合作伙伴"选项卡下看不到"MPN 计划状态"，则说明你已使用 CSP 帐户登录，或者 MPN 帐户仍未合作伙伴中心。 可能仍然需要将 MPN 帐户从 PMC 迁移到电脑。
 
 
-:::image type="content" source="images/legal-info-mpn.png" alt-text="在何处查看 MPN 计划信息":::
+:::image type="content" source="images/legal-info-mpn.png" alt-text="在何处查看 MPN 程序信息":::
 
 ## <a name="questions-about-mpn-and-csp-account-verification"></a>有关 MPN 和 CSP 帐户验证的问题
 
-#### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>我在 MPN 计划和 CSP 间接经销商计划中注册，但我的法律业务配置文件验证状态处于拒绝状态。 应采取何种操作？
+#### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>我注册了 MPN 计划并作为 CSP 间接经销商计划，但我的法律业务配置文件验证状态为"已拒绝"状态。 应采取何种操作？
 
-**答案** 你需要通过单击 " **更新**" 来更新法律配置文件信息。 继续之前，请阅读以下文章：
+**答案** 需要单击"更新"来更新法律配置文件 **信息**。 继续之前，请阅读以下文章：
 
 - [验证帐户信息](verification-responses.md#what-is-verified-and-how-to-respond)
 
@@ -210,7 +206,7 @@ ms.locfileid: "100645888"
 
 ## <a name="questions-about-working-in-partner-center"></a>合作伙伴中心的问题
 
-#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa-"></a>我不知道合作伙伴中心管理员是谁可以接受 MPA？
+#### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-accept-mpa"></a>我不知道合作伙伴中心管理员是谁可以接受 MPA？
 
 **答案** 公司中的全局管理员必须接受 MPA。 若要找出你的公司中的谁分配了 "全局管理员" 角色，请访问 " **用户管理"。** 在搜索框中，键入 "全局管理员"。被分配了全局管理员角色的人员的名称将被提取出来。 任何人都可以接受 MPA。 如果你的公司没有全局管理员，请阅读 [如果你的公司需要全局管理员应执行的操作](no-mpn-admin.md)。
 
@@ -223,50 +219,50 @@ ms.locfileid: "100645888"
 
 1. 他们是否在左侧的 CSP 选项卡下看到 "概述" 页？ 
 
-:::image type="content" source="images/csp.png" alt-text="在合作伙伴中心菜单上查找 CSP 的位置":::
+:::image type="content" source="images/csp.png" alt-text="在菜单上的位置合作伙伴中心 CSP":::
 
-如果在 "合作伙伴中心" 菜单中的 "CSP" 下看不到 "概述"，则表示它们尚未在 CSP 程序中注册。 经销商需要开始将该流程注册为 CSP 间接经销商，如 [在 csp 计划中使用间接提供商](indirect-reseller-tasks-in-partner-center.md)所述。 完成注册后，他们将能够接受 MPA。
+如果他们在云解决方案提供商菜单中看不到"概述合作伙伴中心"，则意味着他们尚未注册 CSP 计划。 经销商需要启动注册为客户的过程CSP Indirect Reseller CSP 计划中的间接提供商[操作。](indirect-reseller-tasks-in-partner-center.md) 完成注册后，他们将能够接受 MPA。
 
-2. 如果看不到 "概述"，请要求他们转到 "**设置**  ->  " "**帐户设置**  ->    ->  " "帐户" "法律 **合作伙伴**" 或 "**分销商**" 在间接经销商状态旁会看到什么状态？
-
-
-如果状态为其他任何内容，但仍 **处于活动** 状态，则表示合法的业务配置文件验证仍在进行中或已被拒绝。 在该页面上，经销商应检查验证状态，然后单击 " **了解详细信息" 以解决此问题** ，经销商可以提供必要的文档来继续验证。
-
-:::image type="content" source="images/active-status.png" alt-text="状态为活动":::
-
-如果你的分销商需要支持并通过了合法的业务配置文件检查，请要求他们打开一个票证来选择以下选项：
-
-- 在 "合作伙伴中心" 菜单上选择 " **支持** "，然后选择 " **常规** > 帐户验证" >，然后选择需要帮助的步骤。
+2. 如果他们看到"概述"，请要求他们转到"设置帐户设置  ->    ->  **""法律合作伙伴** 或经销商"选项卡，  ->  然后向下滚动到"计划信息"。  在"间接经销商状态"旁边可以看到什么状态？
 
 
-#### <a name="how-do-i-know-if-i-have-right-role-in-partner-center-to-accept-mpa"></a>如何实现知道我在合作伙伴中心是否有适当的角色接受 MPA？
+如果状态为除 **"活动**"外的任何内容，则意味着法定业务配置文件验证仍在进行或被拒绝。 在同一页上，经销商应检查"验证状态"，并单击"了解 **更多** "以修复此问题。这样，经销商即可提供必要的文档以继续进行验证。
 
-**答案** 只有全局管理员才能接受 MPA。 要了解合作伙伴中心的角色，请执行以下操作：
+:::image type="content" source="images/active-status.png" alt-text="状态为活动状态":::
 
-1. 在合作伙伴中心登录到 CSP 间接经销商帐户，并首先验证是否已注册到 CSP 间接经销商帐户中。 
+如果经销商需要通过法定业务配置文件检查的支持，请要求他们创建一个票证，选择以下选项：
 
-2. 请切换到 " **用户管理** "，并检查登录帐户是否分配了 "全局管理员" 角色？ 如果不是，则不能用于接受 MPA。 在 "用户管理" 页上的搜索框中搜索 "全局管理员"，并与他们联系以接受 MPA。
-
-:::image type="content" source="images/user-management-clean.png" alt-text="在合作伙伴中心识别你的角色":::
+- 在 **"帐户** 合作伙伴中心选择"支持"，然后选择"常规>帐户>"，然后选择需要帮助的步骤。
 
 
-#### <a name="how-do-i-check-if-my-company-has-accepted-the-mpa"></a>如何实现检查我的公司是否已接受 MPA？
+#### <a name="how-do-i-know-if-i-have-right-role-in-partner-center-to-accept-mpa"></a>如何实现我是否具有适当的角色合作伙伴中心接受 MPA？
 
-**答案** 用 CSP 间接经销商帐户登录到合作伙伴中心。
-如果你是 CSP 中的管理代理或销售代理，则可以通过 "协议" 页来验证 Microsoft 合作伙伴协议是否可见。 
+**答案** 只有全局管理员可以接受 MPA。 若要了解你在角色中的角色合作伙伴中心是什么：
 
-:::image type="content" source="images/agreement-new.png" alt-text="在帐户设置中查找协议":::
+1. 登录到 CSP Indirect Reseller 帐户合作伙伴中心并首先验证你已注册到 CSP Indirect Reseller 帐户。 
+
+2. 转到 **"用户管理** "，检查登录帐户是否分配有"全局管理员"角色？ 如果不是，则它不能用于接受 MPA。 在"用户管理"页的搜索框中搜索全局管理员，并联系他们以接受 MPA。
+
+:::image type="content" source="images/user-management-clean.png" alt-text="确定你的角色合作伙伴中心":::
 
 
-如果你是全局管理员，请参阅 "CSP 概述" 页。 如果看到绿色横幅，则会设置为与该 CSP 区域中的间接提供程序进行处理。 如果没有，你将看到 " **接受并继续** " 按钮，以接受 MPA 并激活 CSP 帐户。
+#### <a name="how-do-i-check-if-my-company-has-accepted-the-mpa"></a>如何实现公司是否接受 MPA？
+
+**答案** 使用合作伙伴中心登录CSP Indirect Reseller帐户。
+如果你是 CSP 中的管理员代理或销售代理，可以转到"协议"页，验证Microsoft 合作伙伴协议是否可见。 
+
+:::image type="content" source="images/agreement-new.png" alt-text="在&quot;帐户设置&quot;中查找协议":::
+
+
+如果你是全局管理员，请转到 CSP 概述页。 如果看到绿色横幅，则表明你已设置为与该 CSP 区域中的间接提供商进行事务处理。 如果没有，则会看到"接受 **并继续"** 按钮以接受 MPA 并激活 CSP 帐户。
 
 :::image type="content" source="images/banner-boxed.png" alt-text="绿色横幅":::
 
-#### <a name="i-want-to-accept-mpa-but-i-dont-see-any-place-button-to-accept-terms-to-do-so"></a>我想接受 MPA，但没有 ("按钮来接受条款) 要接受这些条款吗？
+#### <a name="i-want-to-accept-mpa-but-i-dont-see-any-place-button-to-accept-terms-to-do-so"></a>我想要接受 MPA，但看不到任何接受 (接受条款) 按钮？
 
-**答案** 用 CSP 间接经销商帐户凭据登录到合作伙伴中心。 转到云解决方案提供商概述页面。  如果看不到 " **接受并继续** " 按钮，而且没有绿色横幅告诉您该 mpa 是可接受的，则意味着您没有适当的角色接受 mpa。 需要与全局管理员联系，才能接受 MPA。
+**答案** 使用合作伙伴中心帐户凭据CSP Indirect Reseller登录。 转到云解决方案提供商概述页面。  如果未看到"接受并继续"按钮，并且没有绿色横幅指出 MPA 已接受，则意味着你没有适当的角色来接受 MPA。 需要联系全局管理员以接受 MPA。
 
-:::image type="content" source="images/agreement-two.png" alt-text="查找协议":::
+:::image type="content" source="images/agreement-two.png" alt-text="找到协议":::
 
 :::image type="content" source="images/user-management-filter.png" alt-text="{alt-text}":::
 

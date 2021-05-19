@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179203"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152165"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a> (CPOR) 客户关联的声明合作伙伴的问题
 
-**相应的角色**
-
-- 计费管理员
-- 全局管理员
-- 奖励管理员
+**适当的角色**：计费管理员 |全局管理员 |奖励管理
 
 以下内容将帮助你解决在使用客户关联时可能出现的问题。
 
@@ -48,23 +44,23 @@ ms.locfileid: "106179203"
 
 ## <a name="when-subscriptions-will-be-available-to-claim"></a>订阅将可用于声明
 
-在为订阅申报时，如果尚未预配订阅，你将会收到错误。 客户需要执行几个步骤，以便 CPOR 平台可以选择订阅并使其可供声明使用。 如果你在尝试声明订阅时收到错误，请与你的客户联系，以确保它已预配，并且你所申报的订阅是正确的。 如果已创建此路由，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+在为订阅申报时，如果尚未预配订阅，你将会收到错误。 客户需要执行几个步骤，以便 CPOR 平台可以选择订阅并使其可供声明使用。 如果在尝试申请订阅时收到错误，请联系客户，确保已预配该订阅，并且所声明的订阅正确无误。 如果已采取此路由，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
-## <a name="which-activity-do-i-choose"></a>我应选择哪种活动？
+## <a name="which-activity-do-i-choose"></a>我选择哪种活动？
 
-CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案区域相关的 CPOR 关联声明。 下面是适用于每个解决方案区域的活动。 根据说明选择正确的活动，以避免将来需要回收。 如果申报的活动不正确，可能会导致缺少合格和激励收益。
+CPOR 声明平台允许 CPOR 关联声明，这些声明Business Applications和Microsoft 365方面。 下面列出了适用于每个解决方案领域的活动。 根据说明选择正确的活动，以避免将来必须回收。 使用不正确的活动进行声明可能会导致错过资格和奖励收益。
 
 
 | 解决方案领域 | 活动 | 适用于 |
 | ------ | ----------- | ----------- |
-| 业务应用程序      | 前   | 如果你影响其对符合条件的产品的购买，并想要申请售前奖励，请选择此项。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
-|    |  使用情况  | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。 |
-|    | 收入关联   | 如果影响其对符合业务影响的产品，请选择此项。 此选项仅适用于收入协会，不适用于激励支付。 仅当客户通过批量许可协议或 Web 直接购买这些产品时，此选项才适用。   |
-| Microsoft 365   | 使用情况   | 如果你推动其采用和使用符合条件的工作负荷，并想要应用以实现使用奖励，请选择。 |
+| 业务应用程序      | 售前   | 选择是否影响他们购买符合条件的产品，并想要申请预售奖励。 只有在客户通过批量许可协议或 Web-Direct 购买这些产品时，此选项才适用。 |
+|    |  使用情况  | 选择是否推动其采用和使用符合条件的工作负载，并想要申请使用奖励。 只有在客户通过批量许可协议或 Web-Direct 购买这些产品时，此选项才适用。 |
+|    | 收入关联   | 选择是否影响他们选择符合条件的产品作为业务影响因素。 此选项仅适用于收入关联，不用于奖励付款。 只有在客户通过批量许可协议或 Web-Direct 购买这些产品时，此选项才适用。   |
+| Microsoft 365   | 使用情况   | 选择是否推动其采用和使用符合条件的工作负载，并想要申请使用奖励。 |
 
-## <a name="which-mpn-do-i-choose"></a>我 MPN 选择哪一种？
+## <a name="which-mpn-do-i-choose"></a>我选择哪个 MPN？
 
-在 CPOR 关联声明流中，系统将要求你选择一个公司 MPN，该公司应该与你在最终客户申报的工作相关联。 你的公司可能有许多 MPNs，其中一些可能在激励计划中注册，另一些则与合作伙伴类型（如 FRP FastTrack）相关联。 CPOR 关联声明流将确定哪些 MPNs 在激励计划中注册，但它不会告诉您它是否为特定的合作伙伴类型 MPN。 选择正确的 MPN，以避免将来不得不回收，这一点很重要。 如果申报的 MPN 不正确，可能会导致缺少资格和激励收益。
+在 CPOR 关联声明流中，将要求你选择一个公司 MPN，该 MPN 应关联到最终客户要申请的工作。 你的公司可能有许多 MPNs，其中一些可能在激励计划中注册，另一些则与合作伙伴类型（如 FRP FastTrack）相关联。 CPOR 关联声明流将确定哪些 MPNs 在激励计划中注册，但它不会告诉您它是否为特定的合作伙伴类型 MPN。 选择正确的 MPN，以避免将来不得不回收，这一点很重要。 如果申报的 MPN 不正确，可能会导致缺少资格和激励收益。
 
 如果你不知道要使用哪种 MPN，请联系你的全局管理员。
 
@@ -87,7 +83,7 @@ CPOR 声明平台允许与 Business Applications 和 Microsoft 365 解决方案�
 4. 你 _的 CPOR_ 关联声明仍将在五个工作日内查看，但其状态可能会持续很长一段时间。 当 Microsoft 与当前拥有产品/工作负载的合作伙伴合作时，可能会发生这种情况。 如果出现这种情况，你将在声明的 "评论" 部分中收到通知。 
 
 >[!IMPORTANT]
->如果我们需要其他信息来验证 CPOR (PoE) 的关联执行证明，我们将通过 CPOR 关联声明评论部分与你联系。
+>如果我们需要其他信息来验证你的 CPOR 关联执行证明 (PoE) ，我们将通过 CPOR 关联声明注释部分联系你。
 
 ## <a name="next-steps"></a>后续步骤
 

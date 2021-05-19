@@ -1,41 +1,36 @@
 ---
-title: 将公司从 PMC 迁移到合作伙伴中心
+title: 将公司从 PMC 迁移到 合作伙伴中心
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 从合作伙伴成员中心将多个公司 (PMC) 迁移到合作伙伴中心并将其合并到合作伙伴全局帐户时，需要了解的内容。
+description: 将多个公司从 PMC Partner Membership Center (迁移到) 合作伙伴中心并合并到合作伙伴全局帐户中时，需要知道哪些信息。
 author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 2c9973bf82957cd017abfc59c25b0c17173cb3f8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132649"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151587"
 ---
-# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司从合作伙伴成员中心迁移到合作伙伴中心 (PMC) 
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>将多个公司合作伙伴中心从 Partner Membership Center (PMC) 
 
-**相应的角色**
+**适当的角色**：全局管理员|用户管理管理员|管理代理|销售代理
 
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
-
-将公司帐户从 PMC 移到合作伙伴中心时，可能会移动多个帐户。 在合作伙伴中心，这些帐户会合并成一个全局帐户 (PGA)。 您移动的第一个帐户将被视为合作伙伴全局帐户，所有后续帐户将合并为第一个帐户作为位置。 从公司总部的 PMC 帐户开始移动。 有关详细信息，请参阅 [从 PMC 迁移到合作伙伴中心的指南](guide-to-migration.md) 或观看此简短 [的视频多位置帐户](https://vimeo.com/290335248)。
+将公司帐户从 PMC 移到合作伙伴中心时，可能会移动多个帐户。 在合作伙伴中心，这些帐户会合并成一个全局帐户 (PGA)。 移动的第一个帐户将被视为合作伙伴全局帐户，所有后续帐户都将作为位置合并到第一个帐户中。 从公司总部的 PMC 帐户开始移动。 有关详细信息，请参阅从 [PMC](guide-to-migration.md) 迁移到 合作伙伴中心指南，或观看此简短视频使多 [位置帐户变得简单](https://vimeo.com/290335248)。
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>将其他帐户移到合作伙伴中心
 
-由于你已将一个公司帐户移到合作伙伴中心，因此当你登录时，我们会告知你哪个帐户已在合作伙伴中心。
+由于你已将一个公司帐户合作伙伴中心，因此在登录时，我们会告知你已在合作伙伴中心。
 
-迁移后，如果你发现错误的公司帐户被指定为法律企业，则可以更改该规定。
+迁移后，如果发现错误的公司帐户被指定为法定公司，可以更改该名称。
 
 1. 转到“合作伙伴配置文件”。
 
-2. 请确保你想要指定为法律企业的位置位于你的位置列表中。 否则，请添加该位置。
+2. 请确保要指定为法定公司的位置位于位置列表中。 否则，请添加该位置。
 
 3. 选择“更新法定公司配置文件”。
 
@@ -65,13 +60,13 @@ ms.locfileid: "106132649"
 
 - 在此合并过程中，所有 MPN ID 都会保留
 
-- 所有现有能力都 (金牌/银) 、购买 (地图/金/银) ，并在合并过程中保留相关权益
+- 合并期间 (所有现有资格) 、 (MAPS/黄金/白银) 和相关权益
 
 - 系统会将你（使用工作电子邮件 ID 登录的用户）作为 MPN 管理员和帐户管理员自动添加到现有合作伙伴中心帐户中，让你可以根据需要管理帐户
 
 ## <a name="review-your-company-information"></a>查看公司信息
 
-验证公司信息，并根据需要进行编辑。  我们会根据这些详细信息将你的帐户迁移到合作伙伴中心，因此请确保这些详细信息正确。
+验证有关公司的信息，并在必要时进行编辑。  我们会根据这些详细信息将你的帐户迁移到合作伙伴中心，因此请确保这些详细信息正确。
 
 这些详细信息基于 PMC 中的信息，将会进行验证，确保公司合法。
 
@@ -80,7 +75,7 @@ ms.locfileid: "106132649"
 
 如果要移动的帐户所在的国家或地区与现有帐户相同，你可以决定是要使用该地址，还是要添加另一地址。 如果你决定使用另一地址，则需对该地址进行验证。 如果你要使用同一地址，则系统会使用现有地址和主要联系人。
 
-验证/编辑此屏幕上的信息后，选择 " **提交** "，你的帐户将合并。
+验证/编辑此屏幕上的信息后，选择"提交"，然后合并帐户。
 
 ## <a name="partner-profile"></a>合作伙伴配置文件
 

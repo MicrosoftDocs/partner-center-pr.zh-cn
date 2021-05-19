@@ -9,19 +9,16 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475256"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152233"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>利用 Microsoft 产品/服务探索市场推广
 
-**相应的角色**
-
-- 全局管理员
-- MPN 合作伙伴管理员
+**适当的角色**：全局管理员 |MPN 合作伙伴管理员
 
 成为 Microsoft 合作伙伴网络成员后，你将获得对成员权益的访问权限，从而有助于你构建和拓展你的业务。 使用 Microsoft 资源、产品/服务和计划进行市场推广是作为 Microsoft 合作伙伴网络成员收到的 [许多好处](https://partner.microsoft.com/manage-your-partner-network-benefits) 。
 
@@ -45,38 +42,34 @@ ms.locfileid: "102475256"
 - 业务配置文件优化和引用管理
 - 如何向 Microsoft 推销
 
-对于具有 **金牌** 资格水平和/或 ISV 合作伙伴且具有共同销售激励资格产品/服务的合作伙伴，还可以使用其他投放市场：
+其他市场销售产品/服务适用于具有黄金资格级别的合作伙伴和/或具有联合销售激励资格的 ISV 合作伙伴：
 
-- 所有 MPN 标准走向市场资源
-- 所有银/ISV 共同销售现成产品/服务
-- 共同品牌的一页
-- 共同品牌演示
-- 共同品牌案例研究
-- 按 Microsoft executive 引言按版本
-- 共同品牌社交营销
+- 所有 MPN 标准市场投入资源
+- 所有银牌/ISV 联合销售就绪市场产品/服务
+- 合作伙伴上市工具箱 
 
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>查看合作伙伴中心的市场推广成员身份
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>在"市场"中查看市场加入合作伙伴中心
 
-查看投放市场的产品/服务：
+若要查看市场销售产品/服务，请进行查看：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 在左侧菜单中，选择 " **MPN**"。 然后，执行以下步骤之一：
+2. 在左侧菜单中，选择 **"MPN"。** 然后，执行以下步骤之一：
 
-   - 选择“概述”。  滚动到 " **快速链接** " 部分，然后选择 " **走向市场** " 选项卡。
+   - 选择“概述”。  滚动到 **"快速链接"** 部分，然后选择" **上市"** 选项卡。
 
      或
 
-   - 选择后跟 **市场推广** 的 **权益**。
+   - 选择 **"权益**"，然后选择 **"上市"。**
 
-你将看到 "投放市场" 产品/服务的列表，这些产品/服务已处于活动状态或可供激活。
+你将看到一个列表，其中列出了已处于活动状态或可供激活的上市产品/服务。
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>管理或激活合作伙伴中心的市场推广服务
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>在市场中管理或激活市场合作伙伴中心
 
-若要激活或管理投放市场的产品/服务，请参阅 [如何管理市场推广服务](manage-your-partner-network-benefits.md#manage-go-to-market-offers)。 激活过程的一部分要求你为市场营销人员分配跟进电子邮件的联系人，并与你激活的产品/服务有关的通信进行交流。
+若要激活或管理市场外产品/服务，请参阅如何管理市场外 [产品/服务](manage-your-partner-network-benefits.md#manage-go-to-market-offers)。 在激活过程中，需要分配营销人员作为联系人，以跟进有关你激活的市场推广产品/服务的电子邮件和通信。
 
 >[!IMPORTANT]
->你需要是全局管理员或 MPN 合作伙伴管理员，才能激活特定的投放市场服务并分配相关的市场营销联系人。 如有必要，你可以按照 [**权益** 页面](https://partnercenter.microsoft.com/pcv/partnership/benefits) 上的说明 (登录所需) 来成为全局管理员。 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
+>你需要是全局管理员或 MPN 合作伙伴管理员才能激活特定的市场推广产品/服务并分配相关的营销联系人。 如有必要，可以按照权益页上的说明成为全局管理员， (登录) 。 [  ](https://partnercenter.microsoft.com/pcv/partnership/benefits) 公司可能已经分配了全局管理员，因此请务必咨询你的团队。
 
 ## <a name="next-steps"></a>后续步骤
 

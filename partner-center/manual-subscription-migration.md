@@ -9,21 +9,16 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132734"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151638"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>将 Dynamics 365 和客户参与度计划从基本（限定产品/服务）迁移到较新版本
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |用户管理管理员 |管理代理 |销售代理
 
 从2019年1月1日起生效，对于来自基本 (合格产品/服务的销售/客户参与计划的365客户，) 订阅不能再续订这些旧产品/服务。现有订阅将不会在过期时自动续订。 在订阅的详细信息页上，订阅状态将更改为 "在 [date] 上自动续订时过期时间为 [日期]"。 
 
@@ -41,31 +36,31 @@ ms.locfileid: "106132734"
 - 用于 CRM Basic (合格产品/) 服务的 SA 的 Dynamics 365 for Sales Enterprise Edition
 - 适用于适用于 CRM 的 SA 的 Dynamics 365 for Sales Enterprise Edition (合格的产品/服务) 学生
 - 适用于 Sales Enterprise Edition 的 Dynamics 365 (政府定价) ，适用于 CRM 基本 (合格产品/服务) 
-- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (合格提议) 
-- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (合格提议) 教职员
-- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (合格提议) 学生
-- Dynamics 365 for Sales Enterprise Edition (政府定价) Add-On，适用于 CRM 基本 (合格提议) 
-- Dynamics 365 客户参与计划企业版 CRMOL 基本 (合格提议) 
-- Dynamics 365 客户参与计划 Enterprise Edition (政府定价) CRMOL 基本 (合格产品/服务) 
-- Dynamics 365 客户参与计划企业版 CRMOL 基本 (合格提议) 学生
-- Dynamics 365 客户参与计划企业版 CRMOL 基本 (合格提议) 教职员
-- Dynamics 365 的客户参与计划企业版（来自 SA for CRM Basic (合格的产品/服务）) 
-- Dynamics 365 客户参与计划 Enterprise Edition (政府定价) 来自 SA for CRM Basic (合格产品/服务) 
-- Dynamics 365 客户参与计划企业版（来自 SA for CRM Basic (合格提议) 学生）
-- Dynamics 365 客户参与计划企业版（来自 SA for CRM Basic (合格提议) 教职员）
-- Dynamics 365 客户参与计划 Enterprise Edition Add-On for CRM Basic (合格产品/) 服务
-- Dynamics 365 客户参与计划 Enterprise Edition (政府定价) Add-On，适用于 CRM 基本 (合格提议) 
-- Dynamics 365 客户参与计划 Enterprise Edition Add-On for CRM Basic (合格产品/服务) 学生
-- Dynamics 365 客户参与计划 Enterprise Edition Add-On for CRM Basic (合格产品/服务) 教职员
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (符合条件的产品/) 
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (符合条件的产品/) 教职员工
+- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (符合条件的产品/) 学生版
+- DYNAMICs 365 for Sales Enterprise Edition (政府定价) Add-On CRM Basic (符合条件的产品/) 
+- Dynamics 365 客户参与计划Enterprise Edition CRMOL Basic (符合条件的套餐) 
+- Dynamics 365 客户参与计划Enterprise Edition (政府定价) CRMOL Basic (符合条件的套餐) 
+- Dynamics 365 客户参与计划 Enterprise Edition CRMOL Basic (学生) 符合条件的产品/服务
+- Dynamics 365 Customer Engagement Plan Enterprise Edition CRMOL Basic (Qualified Offer) for 教职员工
+- Dynamics 365 客户参与计划 Enterprise Edition SA for CRM Basic (符合条件的产品/服务) 
+- Dynamics 365 客户参与计划Enterprise Edition (政府定价) 来自 SA for CRM Basic (符合条件的套餐) 
+- Dynamics 365 Customer Engagement Plan Enterprise Edition From SA for CRM Basic (Qualified Offer) for Students
+- Dynamics 365 客户参与计划 Enterprise Edition SA for CRM Basic (符合条件的产品/服务) 教职员工
+- Dynamics 365 客户参与计划Enterprise Edition Add-On CRM Basic (符合条件的套餐) 
+- Dynamics 365 客户参与计划Enterprise Edition (CRM Basic) Add-On符合条件的产品/服务 (政府定价) 
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Students
+- Dynamics 365 Customer Engagement Plan Enterprise Edition Add-On for CRM Basic (Qualified Offer) for Faculty
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales/Customer Engagement Plan from Basic (合格的产品/服务) 更换计划
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Dynamics 365 for Sales/Customer Engagement Plan from Basic (Qualified Offers) 替换计划
 
-**停用的产品**   
+**已停用的优惠**   
 
-- CRM Basic 或 CRMOL 基本 (合格产品/服务的销售额的 Dynamics 365) 
-- CRM Basic 或 CRMOL 基本 (合格产品/服务的 Dynamics 365 客户参与计划) 
+- CRM Basic 或 CRMOL Basic 中的 Dynamics 365 for Sales (符合条件的产品/服务) 
+- CRM Basic 或 CRMOL Basic 中的 Dynamics 365 客户参与计划 (符合条件的套餐) 
 
 **替换选项**
 - Dynamics 365 for Sales Professional (NEW) 
@@ -78,7 +73,7 @@ ms.locfileid: "106132734"
 
 ## <a name="transition-customers-to-new-product-plans"></a>将客户过渡到新产品计划
 
-将客户从停用的 Sku 转移到新的 Sku 需要按以下顺序执行以下步骤：
+将客户从已停用的 SKUS 迁移到较新的 SKUS 需要按以下顺序执行以下步骤：
 
 - 购买新订阅
 - 重新分配当前用户许可证
@@ -86,24 +81,24 @@ ms.locfileid: "106132734"
 
 ## <a name="purchase-the-new-plan-for-your-customer"></a>为客户购买新计划
 
-1. 从左侧导航栏中选择 " **客户** "，并选择要移动到新订阅的客户。
-2. 选择 " **添加订阅**"。
+1. 从 **左侧** 导航中选择"客户"，然后选择要移动到新订阅的客户。
+2. 选择"**添加订阅"。**
 3. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择 **提交**。 
 
-你的客户现在将具有旧订阅和新订阅。 下一步是向客户的用户重新分配许可证。
+现在，你的客户将同时拥有旧订阅和新订阅。 下一步是为客户的用户重新分配许可证。
 
-1. 从左侧导航栏中选择 " **客户** "，然后选择要移动的客户。
-2. 选择 " **用户和许可证**"。
-3. 若要为用户重新分配许可证，请选择该用户，然后选择 " **管理许可证**"。 
-4. 在 " **管理许可证** " 页上，清除 "基本 (合格产品/服务) 许可证" 复选框中的 "Dynamics 365 for Sales/Customer Engagement 计划"，然后为客户要移到的订阅选择新的服务计划。 
-5. 选择“提交”。 你将对需要新许可证的每个用户执行此操作。 
+1. 从 **左侧** 导航中选择"客户"，然后选择要移动的客户。
+2. 选择 **"用户和许可证"。**
+3. 若要向用户重新分配许可证，请选择该用户，然后选择"**管理许可证"。** 
+4. 在"管理许可证"页上，清除"基本 (合格产品/服务) 许可证"复选框中的"Dynamics 365 for Sales/Customer Engagement 计划"复选框，并选择客户要移动到的订阅的新服务计划。 
+5. 选择“提交”。 你将为需要新许可证的每个用户执行此操作。 
 
-将许可证移至新订阅后，可以取消旧订阅。 
+将许可证移到新订阅后，可以取消旧订阅。 
 
-1. 从左侧导航栏中选择 " **客户** "，然后选择要移动的客户。
-2. 在 "订阅详细信息" 页上，将旧订阅设置为 " **挂起** "，然后选择 " **提交**"。
+1. 从 **左侧** 导航中选择"客户"，然后选择要移动的客户。
+2. 在订阅详细信息页上，将旧订阅设置为"已挂起 **"，** 然后选择"提交 **"。**
 
-旧订阅现已暂停，新订阅处于活动状态。 暂停的订阅在 120 天后将自动取消预配。 你的客户不会对旧订阅产生额外的费用。
+旧订阅现已暂停，新订阅处于活动状态。 暂停的订阅在 120 天后将自动取消预配。 对于旧订阅，客户不会产生额外的费用。
  
 
  

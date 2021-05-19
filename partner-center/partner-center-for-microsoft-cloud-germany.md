@@ -4,44 +4,36 @@ ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 云德国的合作伙伴中心是企业门户，适用于想要向欧盟和 EFTA 国家/地区的客户提供 Microsoft 云解决方案的合作伙伴。
+description: 合作伙伴中心 Microsoft Cloud Germany 的门户，适用于希望向欧盟和 EFTA 国家/地区客户提供 Microsoft 云解决方案的合作伙伴。
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 19753f4fb848262fc8bed146427f0652096f6902
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086509"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151077"
 ---
-# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>Microsoft 云德国合作伙伴中心向欧盟 & EFTA 国家/地区的客户销售合作伙伴
+# <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>合作伙伴中心 Microsoft Cloud Germany 为在欧盟和 EFTA 国家/地区销售&的合作伙伴提供
 
-**适用于**
+**适用于：合作伙伴中心** 德国 Microsoft 云
 
-- 德国 Microsoft 云合作伙伴中心
+**适当的角色**：全局管理员|用户管理管理员|管理代理|销售代理|计费管理员
 
-**相应的角色**
+德国 Microsoft 云专为满足严格的德国数据保护要求而设计，并包含德国数据受托人，该受托人控制按照德国法律对客户数据进行物理和逻辑访问。 所有客户数据以及处理或控制客户数据访问权限的系统都驻留在德国数据中心。 这些数据中心之间的网络是隔离的，专用于德国。
 
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
-- 计费管理员
-
-德国 Microsoft 云专为满足严格的德国数据保护要求而设计，并包含德国数据受托人，该受托人控制按照德国法律对客户数据进行物理和逻辑访问。 所有客户数据以及处理或控制对客户数据的访问权限的系统位于德国数据中心。 这些数据中心之间的网络在德国内是独立的，并且是专用的。
-
-德国 Microsoft 云提供 [Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=847992)的单独实例，从德国的数据中心提供。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
+Microsoft 德国云提供一个单独的 [Microsoft Azure实例，](https://go.microsoft.com/fwlink/?linkid=847992)该实例从德国数据中心提供。 因此，欧盟 (EU) 和欧洲自由贸易联盟 (EFTA) 中的商业客户在遵守适用的德国法律法规以及重要国际标准的前提下，可以存储和管理客户数据。 未经德国数据受托人或客户的批准和监督，Microsoft 人员无法访问客户数据。
 
 > [!IMPORTANT]
-> 根据客户需求的发展，我们为德国的云策略将重点放在德国的新云区域中，这与我们的全球云产品保持一致。 在此方面，我们将不再接受新客户或从德国当前可用 Microsoft 云部署任何新服务。 现有客户可继续使用目前可用的当前云服务，我们将使用必要的安全更新进行维护。
+> 根据客户需求的演变，我们的德国云策略将侧重于交付德国的新云区域，这些区域符合我们的全球云产品/服务。 有了这一重点，我们将不再接受新客户，也不再从当前可用的 Microsoft 云德国部署任何新服务。 现有客户可以继续使用当前可用的云服务，我们将使用必要的安全更新来维护这些服务。
 >
-> 前进后，新客户可选择使用当前可用的欧洲区域，或在德国可用时使用新区域。 有关详细信息，请参阅 [Microsoft 提供德国的新数据中心提供的云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
+> 今后，新客户可以选择在可用时使用当前可用的欧洲区域或德国的新区域。 有关详细信息，请参阅 [Microsoft 从德国的新数据中心交付云服务](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
-## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>将客户从 Microsoft 云德国迁移到另一欧洲地区
+## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>将客户从 Microsoft 云德国迁移到另一个欧洲区域
 
-在将客户订阅从德国 Microsoft 云迁移到其他欧洲地区之前，必须在该区域中有一个现有的云解决方案提供商 (CSP) 帐户，并处于活动状态。 如果没有帐户，系统会提示在合作伙伴中心选择 CSP 帐户期间创建一个。 创建新帐户后，客户将与所选租户关联。
+在将客户订阅从 Microsoft Cloud Germany 迁移到另一个欧洲区域之前，必须具有位于该区域且处于活动状态的现有 云解决方案提供商 (CSP) 帐户。 如果没有帐户，系统会提示在云解决方案提供商帐户选择期间创建一个合作伙伴中心。 创建新帐户后，客户将关联到所选租户。
 
 ### <a name="you-already-have-a-csp-account"></a>你已有一个 CSP 帐户
 
@@ -84,7 +76,7 @@ ms.locfileid: "106086509"
 7. 选择 " **我已经拥有欧洲地区的租户** "，然后按照说明进行操作。
 
 
-## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>在欧盟和 EFTA 中销售德国云解决方案
+## <a name="selling-german-cloud-solutions-in-eu-and-efta"></a>在欧盟和 EFTA 销售德国云解决方案
 
 注册德国 Microsoft 云的云解决方案提供商 (CSP) 后，你将使用合作伙伴中心向欧盟和欧洲自由贸易联盟国家/地区内的客户销售德国云特定的解决方案和服务。
 
@@ -95,7 +87,7 @@ ms.locfileid: "106086509"
 合作伙伴用户管理 | Office 365 管理中心或德国 Microsoft 云的 Azure 管理门户
 客户用户管理 | Office 365 管理中心或德国 Microsoft 云的 Azure 管理门户
 重置用户密码 | 德国 Microsoft 云的 Azure 管理门户
-许可证管理 | Office 365 管理中心或 Office 365 管理中心或 Microsoft 云德国 Azure Active Directory 许可门户
+许可证管理 | Office 365 管理中心、Office 365 管理中心或 Microsoft 云德国Azure Active Directory许可门户
 
 ## <a name="next-steps"></a>后续步骤
 

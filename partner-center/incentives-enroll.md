@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528534"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152080"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>激励计划中的注册和用户管理
 
-**相应的角色**
-
-- 奖励管理员
+**适当的角色**：激励管理员
 
 >[!NOTE]
 >必须先完成合作伙伴成员中心到合作伙伴中心的 [迁移](prepare-pmc-pc-migration.md)，然后才能注册激励计划。
@@ -39,23 +37,23 @@ ms.locfileid: "107528534"
 
 ## <a name="enrollment-process"></a>注册过程
 
-一旦你的组织有资格获得激励，Microsoft 将向符合条件的 MPNLocationID 的激励管理员发送邀请，以开始注册过程。 此电子邮件将从 **Microsoft 合作伙伴中心** 发送，并将具有主题 **合作伙伴激励注册邀请**。 打开邀请，然后选择 " **开始**"。
+一旦你的组织有资格获得激励，Microsoft 将向符合条件的 MPNLocationID 的激励管理员发送邀请，以开始注册过程。 此电子邮件将从 **Microsoft 合作伙伴中心** 发送，并将具有主题 **合作伙伴激励注册邀请**。 打开邀请并选择"**开始使用"。**
 
-你还会在合作伙伴中心主页上看到一个邀请。 选择该消息后，将无法再次看到它。 但是，激励管理员仍可以通过登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)，并在左侧导航栏中选择 "**激励**" 下的 "**概述**" 来完成此过程。 选择 " **注册**"，然后填写计划的支出和税务配置文件。
+还会在主页上看到合作伙伴中心邀请。 选择该消息后，将无法再次看到它。 但是，奖励管理员仍可通过登录"奖励"仪表板并选择左侧导航合作伙伴中心"[奖励"下的"概述"](https://partner.microsoft.com/dashboard/)来完成此过程。   选择 **"注册**"，然后完成该计划的付款和税务配置文件。
 
-如果已为 MPN 位置设置了默认的银行配置文件，并且尝试在激励计划中注册同一个 MPN 位置，则在选择 " **注册** 并接受邀请" 时，你将看到默认的银行配置文件。 如果已为该 MPN 位置创建了任何税配置文件，则还会显示该配置文件。 如果 Microsoft 具有所有必需的银行和税务模板详细信息，系统将提示你选择 " **提交** " 以完成注册。 请参阅 [设置默认银行配置文件](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)。
+如果已有 MPN 位置的默认银行配置文件设置，并且尝试在奖励计划中注册相同的 MPN 位置，则当你选择"注册并接受邀请"时，将看到默认的银行配置文件。 如果为 MPN 位置创建了任何可用的税务配置文件，也会显示该配置文件。 如果 Microsoft 具有所有必需的银行和税务配置文件详细信息，系统会提示你选择"提交 **"以完成** 注册。 请参阅 [设置默认银行配置文件](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)。
 
-你还可以选择默认银行配置文件以外的银行配置文件。 如果 Microsoft 需要支付或税务配置文件或货币的其他详细信息，系统将提示您 **继续操作** ，并将其重定向到 " **付款和税务配置文件** " 页以提供缺少的详细信息。 
+还可以选择除默认银行配置文件外的其他银行配置文件。 如果 Microsoft 要求支付或税务配置文件或货币的其他详细信息，系统将提示你继续，并重定向到付款和税务配置文件页，以提供缺少的详细信息。 
 
-仅当 Microsoft 验证你为注册提供的支出和税务配置文件时，才会将注册视为已完成。
+只有在 Microsoft 验证你为注册提供的付款和税务配置文件时，注册才被视为已完成。
 
-某些激励计划没有资格条件，并已公开给所有合作伙伴。 激励管理员将在激励概述页上看到这些程序的邀请，前提是他们具有相关激励计划和 MPN 的权限。 Microsoft 不会向这些程序发送电子邮件邀请。
+某些奖励计划没有资格标准，并且向所有合作伙伴开放。 奖励管理员将在奖励概述页上看到这些计划的邀请，只要他们拥有相关奖励计划和 MPN 的权限。 Microsoft 不会为这些计划发送电子邮件邀请。
 
-有关注册过程的详细信息，请)  (登录下载 [激励注册指南](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) 。
+有关注册过程详细信息，请下载奖励注册指南 [ (](https://partner.microsoft.com/resources/detail/partner-center-incentives-enrollment-pdf) 登录所需的) 。
 
 ## <a name="expiration-and-renewal"></a>过期和续订
 
-奖励注册将在会计年度结束时到期。 但是，只要你仍拥有有效协议的符合条件，Microsoft 就会将奖励注册转送到下一个会计年度。 您无需执行任何操作，只要激励计划所需的支出和税务信息按照激励计划的规则完成。
+奖励注册在会计年度结束时过期。 但是，只要你仍拥有有效协议的符合条件，Microsoft 就会将奖励注册转送到下一个会计年度。 您无需执行任何操作，只要激励计划所需的支出和税务信息按照激励计划的规则完成。
 
 ## <a name="next-steps"></a>后续步骤
 

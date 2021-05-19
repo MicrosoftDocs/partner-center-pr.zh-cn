@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441993"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151162"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>如果你的 MPN 计划的唯一管理员离开了公司怎么办？
 
-**相应的角色**
-
-- MPN 合作伙伴管理员
-- 帐户管理员
-- 全局管理员
+**适当的角色**： MPN 合作伙伴管理员 |帐户管理员 |全局管理员
 
 下面的文章将指导你完成 MPN 管理员离开公司时要执行的操作的三个典型方案。
 
@@ -48,17 +44,17 @@ ms.locfileid: "106441993"
 1. 查看并创建支持请求。
 
 
-## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>方案3： MPN 合作伙伴管理员/帐户管理员/全局管理员离开了公司，但没有其他用户可以访问公司的 Azure AD。 这是完全的访问权限丢失。
+## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>方案 3：MPN 合作伙伴管理员/帐户管理员/全局管理员已离开公司，并且没有其他用户可以访问公司的Azure AD。 这是完全失去访问权限。
 
-按照 [管理员接管](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) 步骤将非托管目录作为 Azure Active Directory 管理员接管。
+按照 [管理员接管](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) 步骤以管理员角色接管非Azure Active Directory目录。
 
 ## <a name="not-sure-if-your-company-already-has-a-work-account"></a>不确定公司是否已有工作帐户？
 
 如果你不确定你的公司是否具有工作帐户，请按照以下步骤进行检查。
 
-1. 登录到 [Azure 管理门户](https://ms.portal.azure.com)。
-2. 从左侧菜单中选择 " **Azure Active Directory** "，然后选择 " **域名**"。
+1. 登录到 Azure [管理门户](https://ms.portal.azure.com)。
+2. 从 **Azure Active Directory** 选择"名称"，然后选择"**域名"。**
 如果你已有工作帐户，门户将列出你的域名。
 
 >[!Note]
->如果你有 Microsoft Azure 或 Office 365 的活动订阅，你已经有了一个工作帐户，并且登录凭据应与用于访问这些服务的凭据相同。
+>如果具有对 Microsoft Azure Office 365 的活动订阅，则已有一个工作帐户，并且登录凭据应与用于访问这些服务的凭据相同。

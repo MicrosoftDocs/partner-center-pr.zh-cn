@@ -8,18 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179507"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151944"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>排除缺少付款、收入错误和其他问题
 
-**相应的角色**
-
-- 奖励管理员
+**适当的角色**：激励管理员
 
 本文将帮助你解决激励计划中的任何收益或付款问题。 涉及的主题包括付款时间、检查收入资格以及正确设置支出和税务配置文件的重要性。
 
@@ -60,31 +58,31 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 **合作伙伴资格** 和 **符合条件的收入规则**。
 
-- **你的付款配置文件可能不完整。** 奖励收益开始日期将是你满足所有资格要求（包括加入时需要填写付款和税务详细信息）的当月的第一天。 对于填写付款和税务信息之前的几个月，你将不会获得任何收益。 例如，如果你在 2020 年 4 月满足了所有要求，则收益开始日期为 2020 年 4 月 1 日。
-- **您可能有一个未完成的操作**。  这可能是由于奖励没有得到处理，因为你有待处理的未完成操作。
+- **付款配置文件可能不完整。** 奖励收益开始日期将是你满足所有资格要求（包括加入时需要填写付款和税务详细信息）的当月的第一天。 对于填写付款和税务信息之前的几个月，你将不会获得任何收益。 例如，如果你在 2020 年 4 月满足了所有要求，则收益开始日期为 2020 年 4 月 1 日。
+- **你可能有一个未完成的操作**。  这可能是由于奖励没有得到处理，因为你有待处理的未完成操作。
 
   **查看未完成的操作**
 
-  1. 登录 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
-  2. 打开 " **事务历史记录** " 页。 查看此页中的字段，以查看要完成的任何未完成的操作，如 **待定税务配置文件**、 **挂起的付款配置文件** 或 **待定的税务发票提交**。
+  1. 登录到 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
+  2. 打开" **事务历史记录"** 页。 查看此页中的字段，查看要完成的任何未完成操作，例如"待处理税务配置文件"、"挂起的付款配置文件"或"**待提交的税务发票"。** 
 
-如果这些操作没有帮助，但你的付款仍缺失或不正确，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+如果这些操作没有帮助，并且付款仍然缺失或不正确，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
-## <a name="how-can-i-reconcile-my-adjustments"></a>如何协调调整？
+## <a name="how-can-i-reconcile-my-adjustments"></a>如何核对调整？
 
-您可以通过下载您的赢利和交易细节来找到并协调调整。
+可以通过下载收入与交易详细信息来查找和协调调整。
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
-2. 在顶部导航栏上，选择 "货币" 图标，然后选择 " **事务历史记录**"。
-3. 应用适当的筛选器。  (参阅下面的 **重要** 说明。 ) 
-4. 筛选数据后，选择 " **开始下载**"，然后选择 " **导出数据**"。 你的数据将在 CSV 文件中打开。
-5. 在 CSV 文件中，导航到第 P 列： " **收入类型**"。
-6. 筛选此列以进行 **调整-返利**。 您可以在列中看到每个调整的月份。
+2. 在顶部导航栏上，选择"money"图标，然后选择"**事务历史记录"。**
+3. 应用相应的筛选器。  (请参阅下面的 **重要** 说明。) 
+4. 筛选数据后，选择"开始下载 **"，** 然后选择"**导出数据"。** 数据将在 CSV 文件中打开。
+5. 在 CSV 文件中，导航到"列 **P"，"收入类型"。**
+6. 筛选此列以 **筛选"调整-退款"。** 可以在列 S 中查看每次调整的月份。
 
 >[!IMPORTANT]
->应用了调整的月份的收入中将不会显示应用于先前收益期的调整。 调整将始终在应用了调整的月份的收入报表中反映出来。
+>应用于之前收益期的调整在应用调整的月份收益中不可见。 调整将始终反映在应用调整的当月收益报告中。
 >
->例如，在9月2019日处理的2019年9月收益的调整将不会反映9月2019日的收入金额。 但是，在收到九月2019年9月的付款时，它将包括9月2019的调整时间。 在这种情况下，需要下载2019年1月的事务详细信息，以查看已应用的调整。
+>例如，2019 年 9 月处理的 2019 年 1 月收益调整不会反映在 2019 年 9 月的收入金额中。 但是，在收到九月2019年9月的付款时，它将包括9月2019的调整时间。 在这种情况下，需要下载2019年1月的事务详细信息，以查看已应用的调整。
 >
 >设置日期筛选器时，请记住这一点。 如上所述，对前一个期间的调整仅在应用了调整的月份中可见。 仔细检查所选日期范围是否与要尝试查找的调整的月份相对应。 可能需要选择 " **全部清除** " 来删除筛选器，然后应用新的筛选器。
 
@@ -143,29 +141,29 @@ Microsoft 当前不提供删除现有付款和税务配置文件的选项。
 
 如果找不到付款或事务详细信息，请检查是否应用了正确的筛选器。 由于某些程序名称已更改 (例如，CSP 1T 直销伙伴现在为 CSP 直销合作伙伴) ，你可能需要使用多个选择。
 
-如果仍找不到收入或认为显示的收入不正确，请联系 [支持人员](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
+如果仍然找不到你的收益或认为显示的收入不正确，请联系 [支持部门](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
-## <a name="how-do-i-reconcile-my-earnings"></a>如何实现协调我的收入？
+## <a name="how-do-i-reconcile-my-earnings"></a>如何实现我的收入？
 
 如果收益存在差异，请完成以下步骤：
 
-1. 验证你是否符合获取收益的资格。  仅当你同时满足 [节目资格](incentives-determined-your-program-eligibility.md) 和 [收益资格](incentives-confirm-your-earnings-eligibility.md)时，收入才可用。
+1. 验证你是否符合获取收益的资格。  只有在满足计划资格和收益资格时，[](incentives-determined-your-program-eligibility.md)[才能获得收益](incentives-confirm-your-earnings-eligibility.md)。
 
 2. 验证是否已完成你的付款配置文件。  奖励收益开始日期将是你满足所有资格要求（包括加入时需要填写付款和税务详细信息）的当月的第一天。 对于填写付款和税务信息之前的几个月，你将不会获得任何收益。 例如，如果你在 2020 年 4 月满足了所有要求，则收益开始日期为 2020 年 4 月 1 日。 
 
-3. 验证你是否满足要求。  查看是否满足激励计划的 [资格](#my-payment-is-missing-or-incorrect) 和合格收入规则。
+3. 验证你是否满足要求。  检查你是否满足奖励 [计划的资格](#my-payment-is-missing-or-incorrect) 和符合条件的收入规则。
 
-如果这些操作无法提供帮助，但你的收入仍未对帐，请联系 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人员。
+如果这些操作没有帮助，并且你的收益仍未协调，请联系 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门。
 
 ## <a name="where-can-i-find-my-rates"></a>在哪里可以找到我的费率？
 
-1. 登录 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
+1. 登录到 [合作伙伴奖励](https://partner.microsoft.com/membership/partner-incentives)。
 
 2. 向下滚动以访问程序的文档。
 
 3. 选择相应程序的文档链接。
 
-4. 在文档中，请参阅 **计划结构和速率** 部分。
+4. 在文档中，请参阅计划结构和 **费率部分**。
 
 ## <a name="next-steps"></a>后续步骤
 
