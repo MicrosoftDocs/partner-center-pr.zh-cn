@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51936e900374e4213d0eb40fe2dc90d813e81582
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284173"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147456"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>通过 Microsoft Office 365 管理中心或 Azure 门户的客户自助支持
 
-**适用于**
+**适用** 于：合作伙伴中心 |适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
-
-**相应的角色**
-
-- 支持人员代理
+**适当的角色**：支持人员代理
 
 客户可登录其自己的 Microsoft Office 365 管理中心或 Azure 门户来管理自己的帐户：
 

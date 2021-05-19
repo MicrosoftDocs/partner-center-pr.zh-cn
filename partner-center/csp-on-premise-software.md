@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475204"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147609"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商出售本地软件 (CSP) 计划
 
-**相应的角色**
-
-- 管理员代理
-- 全局管理员
+**适当的角色**：管理代理 |全局管理员
 
 CSP 中的本地软件支持通过在以云为中心的程序中引入本地软件来平稳地转换到云。  这一新服务可帮助将增值合作伙伴带到每一个购买场景，因为它们提供一个平台来交易所有 Microsoft 产品。 作为 CSP，你现在可以通过合作伙伴中心销售本地软件，以及当前使用的开放、EA 和其他节目。  
  
@@ -33,25 +30,25 @@ CSP 中的本地软件支持通过在以云为中心的程序中引入本地软�
 
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
-购买软件后，你或你的客户需要使用合作伙伴中心将它下载 (合作伙伴;使用 Microsoft 365 管理中心) 的客户。 请使用下面的过程执行此操作。 必须了解与复制链接和下载软件相关的风险。 有关详细信息，请参阅 [合作伙伴中心](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)的 "**使用合作伙伴中心获取客户软件下载和许可证密钥**"。
+在你购买软件后，你或你的客户需要下载该软件（合作伙伴使用合作伙伴中心进行下载，客户使用 Microsoft 365 管理中心下载）。 请使用下面的过程执行此操作。 必须了解与复制链接和下载软件相关的风险。 有关详细信息，请查看[合作伙伴中心新版商业操作指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)中的“使用合作伙伴中心获取客户软件下载和许可证密钥”）。
 
 >[!NOTE]
->您必须是合作伙伴中心的管理员代理才能获取密钥和下载链接。
+>只有合作伙伴中心内的管理员代理才可获取密钥和下载链接。
 
-1. 请参阅客户的详细信息页，然后选择 " **软件**"。 你将看到你已代表客户购买的所有软件的列表。
+1. 请转到客户的详细信息页面，然后选择“软件”。 你将看到你已代表客户购买的所有软件的列表。
 
-2. 选择产品 **版本**、 **语言** 和 **位**，然后选择 " **获取密钥" 和 "下载**"。 
+2. 选择产品版本、语言和位数，然后选择“获取密钥和下载”   。 
 
-3. 选择 " **获取密钥** "，将在弹出对话框中显示32位产品，你可以将其复制并发送到客户。 
+3. 选择“获取密钥”，此时弹出对话框中将显示 32 位产品密钥，你可复制该密钥并将其发送给客户。 
 
-4. 选择 " **下载** " 以下载 bits。 
+4. 选择“下载”来下载位数。 
 
-5. 如果要向客户发送 bits 下载链接，请选择 " **复制链接** "。 
+5. 如果想要向客户发送位数下载链接，请选择“复制链接”。 
 
-6. 你还可以 **取消** 软件订单，并收到100% 信用 (（如果在60天取消策略期间) 完成。
+6. 你还可取消软件订单，获取 100% 退款（如果在 60 天的取消策略期限内取消）。
 
 >[!NOTE]
->只有客户有权查看产品密钥并在 Microsoft 365 管理中心 (需要) 全局管理员角色下载信息。 合作伙伴必须使用合作伙伴中心来查看此信息。
+>只有客户有权在 Microsoft 365 管理中心查看产品密钥和下载信息（需具备全局管理员角色）。 合作伙伴必须使用合作伙伴中心来查看此信息。
 
 ## <a name="cancel-a-purchase"></a>取消购买
 

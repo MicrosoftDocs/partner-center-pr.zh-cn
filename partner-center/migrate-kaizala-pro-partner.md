@@ -1,6 +1,6 @@
 ---
 title: 将 Kaizala Pro 订阅迁移到 Microsoft 365
-description: 了解如何将 Kaizala Pro 订阅迁移到 Microsoft 365 或 Office 365 版本。 阅读本文，了解有关如何转换客户的详细信息。
+description: 了解如何将 Kaizala Pro 订阅迁移到 Microsoft 365 或 Office 365 版本。 有关转换客户的更多详细信息，请阅读此文。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,45 +8,43 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172398"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146419"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>将 Kaizala Pro 独立订阅迁移到 Microsoft 365 或 Office 365 版本
 
-**相应的角色**
+**适当角色**：销售代理
 
-- 销售代理
+从 2020 年 7 月 1 日开始，Microsoft 将结束 Kaizala Pro 独立服务的销售。 在此日期之后，客户将无法再购买新的 Kaizala Pro 订阅，现有的 Kaizala Pro 订阅在过期时不会自动续订。
 
-2020年7月1日生效，Microsoft 正在结束 Kaizala Pro 独立服务的销售。 在此日期后，客户将无法再购买新的 Kaizala Pro 订阅，现有的 Kaizala Pro 订阅将不会在过期时自动续订。
+为了确保客户的连续性，应该将即将到期的 Kaizala Pro 独立订阅的客户转换为下面列出的受支持的 SKU 选项。 我们建议在订阅的每年结束日期之前将客户移动到新订阅，以避免客户发生任何服务中断。
 
-若要确保客户的连续性，应将 Kaizala Pro 独立订阅过期的客户转换为受支持的 SKU 选项，如下所示。 建议将客户移动到订阅的每年结束日期之前的新订阅，以避免客户发生服务中断。
+如果使用 CREST 或 (API 合作伙伴中心) ，则可以通过评估订阅的结束日期以及设置为 false 的自动续订属性来发现即将过期的订阅 `auto renew = False` ：。
 
-如果使用 API ("CREST" 或 "合作伙伴中心") ，则可以通过评估订阅的结束日期以及将 "自动续订" 属性设置为 "false：" 来发现过期订阅 `auto renew = False` 。
+E4 订阅将于 `auto renew=False` 2020 年 7 月 1 日设置为 。 你可以随时将客户移到新计划中。
 
-E4 订阅将 `auto renew=False` 在2020年7月1日设置为。 你可以随时将客户移到新计划中。
+## <a name="kaizala-pro-standalone-replacement-plans"></a>Kaizala Pro 独立版替换计划
 
-## <a name="kaizala-pro-standalone-replacement-plans"></a>Kaizala Pro 独立更换计划
+借助新计划，客户可以利用新版Microsoft 365。 定价详细信息位于合作伙伴中心内的价目表及产品/服务列表矩阵中。
 
-使用新计划，你的客户可以在 Microsoft 365 中利用新的特性和功能。 定价详细信息位于合作伙伴中心内的价目表及产品/服务列表矩阵中。
-
-- [**适用于企业的 Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)，包括：  
+- [**Microsoft 365企业，**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)包括：  
    - Microsoft 365 商业基本版
    - Microsoft 365 商业标准版
    - Microsoft 365 商业高级版
     
-- [**Microsoft 365 前端**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)，包括：
+- [**Microsoft 365一线 ，**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)包括：
    - Microsoft 365 F3（以前为 Microsoft 365 F1）和 Office 365 F3
     
-- [**适用于企业的 Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)，包括： 
+- [**Microsoft 365企业版 ，**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)包括： 
    - Office 365 E1
    - Microsoft 365 E3 和 Office 365 E3
    - Microsoft 365 E5 和 Office 365 E5
 
-- [**Microsoft 365 教育**](https://www.microsoft.com/education/buy-license/microsoft365)，包括： 
+- [**Microsoft 365教育，**](https://www.microsoft.com/education/buy-license/microsoft365)包括： 
     - Microsoft 365 A1 和 Office 365 A1
     - Microsoft 365 A3 和 Office 365 A3
     - Microsoft 365 A5 和 Office 365 A5
@@ -66,11 +64,11 @@ C. 取消旧订阅
 
 ### <a name="a-purchase-the-new-subscription"></a>A. 购买新订阅
 
-1. 若要购买新的订阅，请从 " **合作伙伴中心** " 菜单中选择 " **客户**"，选择要移动的客户，然后选择 " **添加订阅**"。
+1. 若要购买新订阅，请从"合作伙伴中心"菜单中，选择"**客户**"，选择要移动的客户，然后选择"添加 **订阅"。**
 
 2. 从目录中选择要购买的订阅（在此情况下是以上选项之一）、输入许可证数，然后选择 **提交**。
 
-你的客户现在应具有新订阅和新订阅，旧的 Kaizala Pro 独立订阅和新的 "目标" 订阅，例如，选项 1-Office 365 企业版 F1。
+现在，客户应同时拥有新旧订阅、旧的 Kaizala Pro 独立订阅和新"目标"订阅，例如选项 1 - Office 365 企业版 F1。
 
 ### <a name="b-reassign-current-user-licenses"></a>B. 重新分配当前用户许可证
 

@@ -10,28 +10,24 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763357"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147167"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>注册美国政府 Microsoft 云的云解决方案提供商计划
 
-**适用于**
+**适用** 于：适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
-
-**相应的角色**
-
-- 全局管理员
+**相应的角色**：全局管理员
 
 现在，通过美国政府 Microsoft 云的云解决方案提供商计划 (CSP)，Microsoft 合作伙伴可向美国联邦、州、本地和族群实体销售 Microsoft 的云解决方案和服务。
 
 美国政府 Microsoft 云提供了 Microsoft Azure 的私有、专用和单独实例，符合美国政府的数据安全、隐私和合规性方面的要求。 贵公司必须满足 Microsoft 的有关加入美国政府 Microsoft 云的 CSP 计划的资格要求。 有关详细信息，请参阅[美国政府 Microsoft 云合作伙伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-## <a name="before-you-begin"></a>开始之前
+## <a name="before-you-begin"></a>准备阶段
 
 在你可以注册加入美国政府 Microsoft 云的 CSP 计划之前，我们需要验证贵公司是否满足向美国政府实体进行销售的要求。 开始注册过程之前，请填写 [Microsoft 政府云验证表单](https://azuregov.microsoft.com/csp)，以便我们验证贵公司的资格。 在验证了贵公司的资格后，我们将向你提供特定于美国政府 Microsoft 云的 Azure Active Directory (Azure AD) 租户。  
 
@@ -56,10 +52,10 @@ ms.locfileid: "91763357"
 
 1. 在注册表单中填写所有缺少的信息，包括你的 Microsoft 合作伙伴网络 ID 和你组织的客户支持详细信息。
 
-2. 选择**接受并继续操作**。 我们审查你的申请可能需要几天时间。 完成审查后，我们将通过电子邮件通知你。
+2. 选择 **接受并继续操作**。 我们审查你的申请可能需要几天时间。 完成审查后，我们将通过电子邮件通知你。
 
    > [!IMPORTANT]
-   > 通过选择**接受并继续操作**，即表示你确认你已获得授权代表你的组织，且你同意允许 Microsoft 在审查你组织的云解决方案提供商申请前执行背景信用检查。
+   > 通过选择 **接受并继续操作**，即表示你确认你已获得授权代表你的组织，且你同意允许 Microsoft 在审查你组织的云解决方案提供商申请前执行背景信用检查。
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>第 3 步 - 签署美国政府 Microsoft 云经销商协议
 
@@ -72,7 +68,7 @@ ms.locfileid: "91763357"
 美国政府 Microsoft 云提供一个满足政府合规、安全性和隐私标准的单独的 Microsoft Azure 实例。 若要允许管理员管理 Microsoft Azure 门户中的用户和许可证，你将需要手动将管理员代理角色分配给他们。
 
 > [!NOTE]
-> 将用户分配至“管理员代理”角色后，他们将能够访问**客户**页面上的客户列表，并[添加新客户](add-a-new-customer.md)。
+> 将用户分配至“管理员代理”角色后，他们将能够访问 **客户** 页面上的客户列表，并 [添加新客户](add-a-new-customer.md)。
 
 1. 登录到 Microsoft Azure 管理门户，网址为 [https://portal.azure.us/](https://portal.azure.us/) 。
 
@@ -80,7 +76,7 @@ ms.locfileid: "91763357"
 
 ## <a name="connect-with-us"></a>与我们联系
 
-- 是否有任何问题? 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
+- 有疑问？ 请发送电子邮件到 azgovcsp@microsoft.com 与我们联系
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) 上加入我们
 

@@ -9,22 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132751"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146929"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>向帐单配置文件添加 VAT ID
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 计费管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |用户管理管理员 |计费管理 |管理代理 |销售代理
 
 你可以使用以下过程更新计费配置文件以包含你的 VAT ID。  (请注意，这可能不会出现在你所在的国家或地区。 ) 
 

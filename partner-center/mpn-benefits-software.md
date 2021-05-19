@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 846bad6bdde080288bc7dd916e389dd86b5315f0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619369"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146283"
 ---
 # <a name="mpn-benefits---software"></a>MPN 权益-软件
 
-**相应的角色**
-
-- 全局管理员
-- MPN 合作伙伴管理员
+**适当的角色**：全局管理员 |MPN 合作伙伴管理员
 
 ## <a name="overview"></a>概述
 
@@ -51,16 +48,16 @@ ms.locfileid: "102619369"
 
 - **针对 Cal 显示的 "没有更多详细信息" (Windows Server 客户端访问许可证) 权益**
 
-    Cal 不是可下载的产品。 激活 Cal 是在服务器产品本身上进行管理的。
+    Cal 不是可下载的产品。 CAL 的激活在服务器产品本身上进行管理。
 
-- **你会收到一条消息，指出在尝试激活软件时已达到产品密钥的最大可用激活。**
+- **你会收到一条消息，指出在尝试激活软件时已达到产品密钥的最大可用激活数。**
 
-    通过 MPN 成员资格权益，为你提供了每个产品的特定激活次数。 如果已满足或超过最大激活次数，你将无法使用提供的产品密钥来激活更多许可证。
+    通过 MPN 成员身份权益，可针对每个产品提供特定数量的激活。 如果已达到或超过最大激活数，将无法使用提供的产品密钥激活更多许可证。
 
 
  ## <a name="next-steps"></a>后续步骤
 
-- [管理你的 Microsoft 合作伙伴网络权益和优惠](manage-your-partner-network-benefits.md)
+- [管理你的 Microsoft 合作伙伴网络权益和套餐](manage-your-partner-network-benefits.md)
 
 - [使用技术支持事件获取特定于产品的技术支持](mpn-benefits-technical-support.md)
 

@@ -1,45 +1,42 @@
 ---
-title: 购买商业市场优惠
+title: 购买商业市场产品/服务
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 CSP 计划合作伙伴如何使用合作伙伴中心市场从独立软件供应商处购买 SaaS 产品/服务 (Isv) 。
+description: 了解 CSP 计划合作伙伴如何使用 合作伙伴中心 市场从独立软件供应商或 ISV (SaaS 产品/) 。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 841308d535d4071ee0a8eabf3e70325edea5777c
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 3f5cf4895fa4d66c65215989d808a1dd18ef9064
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979710"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147847"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>在合作伙伴中心为客户购买商业 marketplace 产品
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>在市场中为客户购买商业市场合作伙伴中心
 
 
-**相应的角色**
+**适当的角色**：全局管理员|管理员代理
 
-- 全局管理员
-- 管理员代理
+作为 云解决方案提供商 (CSP) 计划的合作伙伴，可以使用商业市场为客户购买由独立软件供应商 (ISV) 提供的某些软件即服务 (SaaS) 产品的订阅。
 
-作为云解决方案提供商提供的合作伙伴 (CSP) 计划中，你可以使用商业市场为你的客户购买特定软件即服务的订阅 (SaaS) 由独立软件供应商提供的产品 (Isv) 。
+通过为客户提供 ISV SaaS 订阅，可以帮助区分业务。 还可以让客户访问满足其特定业务需求的软件包。 你可以管理 ISV 发布者的这些市场 SaaS 产品的许可证和订阅，就像管理 Microsoft 产品的许可证和订阅一样。
 
-通过向客户提供 ISV SaaS 订阅，你可以帮助区分你的业务。 你还可以让客户访问满足其特定业务需求的软件捆绑。 你可以像管理 Microsoft 产品的许可证和订阅一样，管理 ISV 发布者提供的这些 marketplace SaaS 产品的许可证和订阅。
+可以购买基于 **许可证的** SaaS 订阅或 **基于使用情况的** 订阅。 若要详细了解基于许可证的计费与基于使用情况的计费的区别，请参阅 [计费基础知识](billing-basics.md)。
 
-你可以购买 **基于许可证的** SaaS 订阅或 **基于使用情况的** 订阅。 若要详细了解基于许可证和基于使用情况的计费之间的差异，请参阅 [计费基础知识](billing-basics.md)。
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>在订阅中购买基于许可证和按流量计费的 SaaS 合作伙伴中心
 
-## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>在合作伙伴中心购买基于许可证和计量的 SaaS 订阅
+使用购买 Microsoft 产品的订阅时使用的相同过程，为 ISV 发布者提供的基于许可证或按流量计费的 SaaS 产品购买订阅。
 
-你使用为 Microsoft 产品购买订阅时所用的同一过程为 ISV 发布者提供的基于许可证或计量的 SaaS 产品购买订阅。
+若要在 合作伙伴中心 中购买基于许可证或按流量计费的 SaaS 订阅，请参阅创建、挂起或取消 [客户订阅](create-a-new-subscription.md#create-a-new-subscription)。
 
-若要在合作伙伴中心购买基于许可证或计量的 SaaS 订阅，请参阅 [创建、暂停或取消客户订阅](create-a-new-subscription.md#create-a-new-subscription)。
-
-也可使用[合作伙伴中心 API](/partner-center/develop/) 为客户创建商业市场订阅。  (有关使用合作伙伴中心 Api 的详细信息，请参阅 [为商用 marketplace 产品创建订阅](/partner-center/develop/create-subscription-azure-marketplace-products)。 ) 
+也可使用[合作伙伴中心 API](/partner-center/develop/) 为客户创建商业市场订阅。  (有关使用 合作伙伴中心 API 的信息，请参阅 [为商业市场](/partner-center/develop/create-subscription-azure-marketplace-products)产品创建订阅 .) 
 
 >[!IMPORTANT]
-> 作为 CSP 计划中的合作伙伴，你可以从合作伙伴中心内的 ISV 出版商处购买 **基于许可证** 或 **计量** 的 SaaS 订阅。 这意味着你可以购买 ISV 发布者提供的任何 **基于许可证** 或 **按流量计费** 的 SaaS 产品/服务，包括你有权访问的 [专有产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) 。 若要购买或管理其他商用 marketplace，请参阅基于使用情况的产品/服务（包括 Azure 应用程序、容器或 Vm) 的基于使用情况的产品/服务），你必须使用 [Azure 门户](https://portal.azure.com/) (。
+> 作为 CSP 计划的合作伙伴，可以从云解决方案提供商的 ISV发布者购买基于许可证或按流量计费的 SaaS 合作伙伴中心。 这意味着你可以购买 ISV 发布者提供的任何 **基于许可证** 或 **按流量计费** 的 SaaS 产品/服务，包括你有权访问的 [专有产品/服务](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) 。 若要购买或管理其他商用 marketplace，请参阅基于使用情况的产品/服务（包括 Azure 应用程序、容器或 Vm) 的基于使用情况的产品/服务），你必须使用 [Azure 门户](https://portal.azure.com/) (。
 
 ## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>在 Azure 门户中购买基于使用情况的订阅
 

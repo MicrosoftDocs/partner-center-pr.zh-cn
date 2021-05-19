@@ -1,46 +1,44 @@
 ---
-title: 概述-CSP marketplace
+title: 概述 - CSP 市场
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何向应用商店中的独立软件供应商 () Isv) 提供的软件即服务销售客户订阅 (SaaS 优惠。
+description: 了解如何销售来自独立软件供应商和市场中 ISV (SaaS) 产品/服务 (客户订阅) 软件即服务。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 7c18f69a62e8f8d126a0756911d2fbcdfdb85d8d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979441"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147864"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作伙伴中心内的商业市场概述
 
-**相应的角色**
+**相应的角色**：全局管理员
 
-- 全局管理员
+作为 云解决方案提供商 (CSP) 计划的合作伙伴，可以捆绑和销售 Microsoft 产品以及由独立软件供应商第三方 ISV (发布的) 。 通过能够这样捆绑解决方案，可以更好地为最终客户提供服务，并发展 CSP 服务业务。
 
-作为云解决方案提供商提供的合作伙伴 (CSP) 计划允许您将 Microsoft 产品以及由第三方独立软件供应商发布的解决方案（ (Isv) ）捆绑在一起。 以这种方式捆绑解决方案使您能够更好地为最终客户提供服务并发展您的 CSP 服务业务。
+作为 CSP 计划的合作伙伴，可以使用 合作伙伴中心 Microsoft 商业市场购买许多 ISV 解决方案。 这为你提供了几个主要优势：
 
-作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心从 Microsoft 的商业 marketplace 购买许多 ISV 解决方案。 这为你和你的客户提供了几个主要优势：
+- 访问针对 Microsoft 技术和环境优化的软件解决方案的目录。
+- 简化了采购周期和采购周期。
+- 单个与 合作伙伴中心 API 集成。  (这种集成可以进一步访问 ISV 解决方案目录，降低运营和工程成本，并通过单个提供程序简化多个供应商订阅和计费的管理) 
+- 简化了客户的 Azure 租户中的部署和预配 (基于虚拟机的解决方案) 。
+- 减少直接 ISV 购买或采购、Microsoft 解决方案配置和集成的潜在挑战，以及管理或合并来自多个供应商的定期发票需求。
 
-- 对为 Microsoft 技术和环境优化的软件解决方案目录的访问权限。
-- 简化的合同和缩短的采购周期。
-- 单个与合作伙伴中心 Api 的集成。  (此类集成，可以进一步实现 ISV 解决方案目录的访问，降低运营和工程的成本，并通过单个提供商简化多个供应商订阅和计费的管理。 ) 
-- 在客户的 Azure 租户 (中简化部署和预配) 基于虚拟机的解决方案。
-- 通过直接 ISV 购买或签约、Microsoft 解决方案配置和集成，以及管理或合并来自多个供应商的重复发票，减少了潜在的挑战。
+## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>商业市场中的 CSP 产品/服务概述
 
-## <a name="overview-of-csp-offers-in-the-commercial-marketplace"></a>商业应用商店中的 CSP 产品概述
+如果你是 CSP 计划的合作伙伴，你可能希望针对 ISV 产品/服务执行许多商业市场活动。 请参阅下表，详细了解每个活动。
 
-如果你是 CSP 计划中的合作伙伴，你可能想要执行许多适用于 ISV 产品/服务的商业市场活动。 请参阅下表以了解有关每个活动的详细信息。
-
-|**如果要**  |**读取**   |
+|**如果你想要**  |**读取**   |
 |:------------------------------------|:------------------|
-|了解如何查看或搜索可用产品/服务、定价、产品详细信息或发布者联系信息 | [发现产品](csp-commercial-marketplace-discover.md) | 
-|了解如何购买和部署产品/服务   | [购买优惠](csp-commercial-marketplace-purchase.md)   | 
-|了解如何取消或续订订阅或添加或删除许可证  | [管理套餐](csp-commercial-marketplace-manage.md) |
+|了解如何查看或搜索可用产品/服务、定价、产品详细信息或发布者联系信息 | [发现产品/服务](csp-commercial-marketplace-discover.md) | 
+|了解如何购买和部署产品/服务   | [购买产品/服务](csp-commercial-marketplace-purchase.md)   | 
+|了解如何取消或续订订阅，或者添加或删除许可证  | [管理套餐](csp-commercial-marketplace-manage.md) |
 |了解计费如何适用于商业 marketplace 购买 | [了解帐单](csp-commercial-marketplace-billing.md) |
 |了解谁负责 ISV 购买哪些类型的支持 | [了解支持](csp-commercial-marketplace-support.md) |
 |了解有关商业应用商店中 CSP 合作伙伴和 Isv 的合同和责任 | [了解合同](csp-commercial-marketplace-contracting.md) |
@@ -65,25 +63,25 @@ ms.locfileid: "97979441"
 
 请参阅 [计费基础知识](billing-basics.md) ，详细了解基于许可证的产品/服务和基于使用情况的产品/服务的计费方式有所不同。  
 
-若要了解在何处完成基于许可证或基于使用的 ISV 产品/服务的特定市场活动，请参阅下表。
+若要了解在何处完成基于许可证或基于使用情况的 ISV 产品/服务的特定市场活动，请参阅下表。
 
-|**适用于 Isv 的基于许可证或计量的 SaaS 服务**  |**使用**  |
+|**对于 ISV 提供的基于许可证或按流量计费的 SaaS 产品/服务**  |**使用**  |
 |:------------------------------------|:------------------|
-|发现或搜索可用的产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
-|购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 Api  |
-|若要部署购买的产品/服务 (帐户设置、软件管理或客户的 AAD 租户中的部署)   | ISV 发布者的系统或网站  |
-|取消/续订提议订阅或添加/删除许可证 | 合作伙伴中心仪表板或合作伙伴中心 Api  |
+|发现或搜索可用产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 API  |
+|购买产品/服务  | 合作伙伴中心仪表板或合作伙伴中心 API  |
+|在客户的 AAD 租户 (帐户设置、软件管理或部署中部署购买的产品/服务)   | ISV 发布者的系统或网站  |
+|取消/续订套餐订阅或添加/删除许可证 | 合作伙伴中心仪表板或合作伙伴中心 API  |
 |创建用户或管理权限  | ISV 发布者的系统或网站  |
 
-|**基于使用情况的 Isv 提供的产品/服务**  |**使用**  |
+|**对于 ISV 提供的基于使用情况的优惠**  |**使用**  |
 |:------------------------------------|:------------------|
-|发现或搜索可用的产品/服务  | 合作伙伴中心仪表板、合作伙伴中心 Api 或 Azure 门户  |
+|发现或搜索可用产品/服务  | 合作伙伴中心仪表板、合作伙伴中心 API 或Azure 门户  |
 |购买产品/服务  | Azure 门户  |
-|若要部署购买的产品/服务 (帐户设置、软件管理或客户的 AAD 租户中的部署)   | Azure 门户  |
-|取消/续订提议订阅或添加/删除许可证 | Azure 门户  |
+|在客户的 AAD 租户 (帐户设置、软件管理或部署中部署购买的产品/服务)   | Azure 门户  |
+|取消/续订套餐订阅或添加/删除许可证 | Azure 门户  |
 |创建用户或管理权限  | Azure 门户  |
 
 ## <a name="next-steps"></a>后续步骤
 
-- [发现或查看商业市场优惠](csp-commercial-marketplace-discover.md)
+- [发现或查看商业市场产品/服务](csp-commercial-marketplace-discover.md)
 - [购买商业市场优惠](csp-commercial-marketplace-purchase.md)

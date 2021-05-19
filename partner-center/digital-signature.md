@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284292"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147184"
 ---
 # <a name="view-digitally-signed-invoices"></a>查看数字签名发票
 
-**适用于**
+**适用** 于：合作伙伴中心 |合作伙伴中心印度
 
-- 合作伙伴中心印度
-
-**相应的角色**
-
-- 帐户管理员
-- 计费代理
-- 销售代理
+**适当的角色**：帐户管理员 |计费代理 |销售代理
 
 印度的合作伙伴现在可以看到，Microsoft 已对发票进行数字签名。 必须使用 Adobe Acrobat Reader Document Cloud (DC) 来查看签名。
 
@@ -54,7 +48,7 @@ ms.locfileid: "108284292"
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>有关发票和数字签名的其他信息
 
-数字副本将发送给在合作伙伴中心创建订单的人。 不能为2020年7月17日之前颁发的任何发票获取数字签名的发票。 另外，手动签署的发票将不可用。
+数字副本将发送给在 合作伙伴中心 中创建订单的人。 无法获取在 2020 年 7 月 17 日前颁发的任何发票的数字签名发票。 此外，手动签名的发票将不可用。
 
 ## <a name="next-steps"></a>后续步骤
 

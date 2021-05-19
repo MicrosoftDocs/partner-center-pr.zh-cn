@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172211"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147116"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure 计划消耗量的有效单位价格计算
 
-**相应的角色**
-
-- 计费管理员
+**适当的角色**：计费管理员
 
 ## <a name="the-effective-unit-price"></a>有效单位价格
 
@@ -48,24 +46,24 @@ ms.locfileid: "108172211"
 
 在表中，以下值适用： 
 
-- **向上** = 资源的单价 = 0.868
+- **UP** = 资源/小时的单位价格 = 0.868
 
 - **BCU** = 计量的计费消耗单位
 
-- **BC** = 计量器的计费成本 = BCU * UP * 0.85。 这反映了 15% PEC 折扣的调整。 然后，使用函数的下限将该值限制为小数点后两位的数字，以便对最小值进行计费。 
+- **BC** = 计量的计费成本 = BCU * UP * 0.85。 这反映了 15% PEC 折扣的调整。 然后，我们使用 函数的下限将值限制为小数点后的两位数，以便对最小值收费。 
 
 - **有效单价** = BCU/BC
 
 >[!NOTE]
 
->注意：在此示例中，此指标没有按定价百分比或其他价格计算的有效单位价格系数。
+>注意：此示例中的计量器在定价或其他折扣方面没有层，即折扣百分比和其他调整中的有效单价因素。
 
 
 | 日期 | BCU (计费消耗单位)  | BC (计费成本)  | 有效单价 |
 | ------ | ----------- | ----------- | ----------- |  
-| 3-8 月 | 29 | 21.39 | 0.737586206896552 |
-| 10-8 月 | 210.950039 | 155.63 | 0.737757626107858 |
-| 25-8 月 | 555.950039 | 410.17 | 0.737782122900436 |
+| 8 月 3 日 | 29 | 21.39 | 0.737586206896552 |
+| 8 月 10 日 | 210.950039 | 155.63 | 0.737757626107858 |
+| 8 月 25 日 | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>后续步骤
 

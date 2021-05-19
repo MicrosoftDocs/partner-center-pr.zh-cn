@@ -10,25 +10,20 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2171e2b10101e99bdd8d415a936ba98af65c2a1b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d2168dcd60b8675a21960918dab49b778025fa51
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502564"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147575"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>云解决方案提供商区域授权租户合并说明
 
-**适用于**
+**适用** 于：合作伙伴中心 |适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
+**适当的角色**：全局管理员 |管理代理
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
-
-\[某些信息与预发布的产品相关，这些信息可能会在正式发布之前进行重大修改。 Microsoft 不对此处提供的信息作任何明示或默示的担保。\]
+\[某些信息与预发布的产品相关，这些信息可能会在正式发布之前进行重大修改。 对于此处提供的信息，Microsoft 不作任何明示或暗示的担保。\]
 
 你可以整合业务的租户。 使用这些说明合并不同国家/地区的租户。
 
@@ -69,41 +64,41 @@ ms.locfileid: "106502564"
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="客户列表":::
 
-6. 选择 " **提交"。**
+6. 选择" **提交"。**
 
-   现在，服务将提供给客户，从 **过渡到** 合作伙伴帐户。
+   现在，服务从"转换到合作伙伴" **帐户提供给** 客户。
 
 7. 重复这些步骤，迁移所有其他客户的订阅。
 
-在继续下一节之前，请确保在 "**过渡到** 合作伙伴帐户" 下重新设置了 "从合作伙伴帐户 **转换**" 下的所有客户订阅。
+在继续下一部分之前，请确保在"转换到合作伙伴帐户"下重新预配"从合作伙伴帐户转换"下 **存在** 的所有客户订阅。
 
 > [!NOTE]
-> 合作伙伴必须在合作伙伴中心的合作伙伴租户帐户 **之间** 暂停订阅，这一天在合作伙伴中心转换 **为** 合作伙伴租户帐户时，会将这些订阅转换并设置为，以确保不会发生双重计费。 由于不能正确禁用 **从订阅转换** 而产生的任何费用重叠，因此会拒绝支持请求。
+> 合作伙伴必须在 合作伙伴中心 中暂停从合作伙伴租户帐户转换的订阅，这些订阅在 合作伙伴中心 中的"转换到合作伙伴租户"帐户下进行转换和设置时，以确保不会发生双重计费。 由于未正确禁用"从订阅转换"而发生的计费重叠，因此将拒绝对额度 **的支持** 请求。
 
 ## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>禁用“过渡源”合作伙伴帐户下的 Office 365 订阅
 
-在从合作伙伴帐户转换时禁用 CSP 订阅会停止任何将来 **的** 帐单。 你不必手动禁用 Azure 订阅，因为在迁移过程中会自动禁用 Azure 订阅。
+在"从合作伙伴帐户转换"下禁用 CSP 订阅会停止任何将来的计费。 不必手动禁用 Azure 订阅，因为在迁移过程中会自动禁用 Azure 订阅。
 
-1. 通过从 CSP 帐户 **转换** 并导航到 customer 列表，登录到 **合作伙伴中心**。
+1. 使用"从 **CSP** **合作伙伴中心"登录到** 客户帐户并导航到客户列表。
 
 2. 打开要禁用订阅的客户，然后选择第一个要禁用的产品/服务。
 
-3. 将 "订阅" 设置为 " **挂起**"，然后选择 " **提交**"。
+3. 将订阅设置为"**挂起"，** 然后选择"提交 **"。**
 
    >[!Note]
-   >挂起订阅可确保不会进行双重计费。
+   >暂停订阅可确保不会进行双重计费。
 
-   订阅显示 "订阅" 列表中的 " **挂起** "。
+   订阅在 **订阅列表中** 显示"挂起"。
 
-4. 为该客户下的所有订阅重复这些步骤。 验证所有 "显示已 **挂起"。**
+4. 为该客户下的所有订阅重复这些步骤。 验证是否所有显示 **已挂起。**
 
 5. 选择列表上的下一个客户，然后重复禁用所有订阅的过程。
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>迁移 Azure 基于使用情况的订阅
 
-与 Office 365 CSP 订阅不同，Azure，基于使用情况的 CSP 订阅不需要手动迁移。 Microsoft Azure 支持会将 Azure 订阅和所有已部署的服务或资源从 CSP 分销商帐户 **转换** 为 **转换为** csp 分销商帐户。 在此过渡期间，客户服务不会中断。
+与 Office 365 CSP 订阅不同，Azure 不需要手动迁移基于使用情况的 CSP 订阅。 Microsoft Azure支持部门将 Azure 订阅以及所有已部署的服务或资源从"从 **CSP** 经销商帐户转换"迁移到 **CSP** 经销商帐户。 在此过渡期间，客户服务不会中断。
 
-1. 确保将迁移 Azure 订阅的客户帐户接受与新的 " **转换为** CSP" 帐户关联的协议。
+1. 确保将迁移 Azure 订阅的客户帐户已接受协议，以与新的 **转换到** CSP 帐户相关联。
 
 2. 你将通知 Microsoft 哪些客户帐户已准备好进行迁移，并提供这些客户的公司名称。
 
@@ -133,18 +128,18 @@ ms.locfileid: "106502564"
 
 使用 **Export 函数**，可以捕获需要在新的合并结构中使用的订阅：
 
-1. 选择 "合作伙伴中心" 中的 " **客户** "，以查看客户列表。 
+1. 选择"合作伙伴中心"以查看客户列表。 
 
 2. 打开所需的客户名称。
 
-3. 在 " **订阅** " 页上，选择 " **导出订阅** "，将订阅的详细信息导出到 Excel 文件中。
+3. 在 **"订阅"** 页上， **选择"导出** 订阅"，将订阅的详细信息导出到 Excel 文件。
 
 4. 使用此列表在新合并的租户中重新创建订阅。
 
 ### <a name="api-registration"></a>API 注册
 
-有关 API 注册的详细信息，请参阅 [在合作伙伴中心设置 api 访问权限](/partner-center/develop/set-up-api-access-in-partner-center)。
+有关 API 注册详细信息，请参阅[在 中设置 API 合作伙伴中心。](/partner-center/develop/set-up-api-access-in-partner-center)
 
 ## <a name="next-steps"></a>后续步骤
 
-- [云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币](regional-authorization-overview.md)
+- [云解决方案提供商可以销售 CSP 产品/服务的区域市场和货币](regional-authorization-overview.md)

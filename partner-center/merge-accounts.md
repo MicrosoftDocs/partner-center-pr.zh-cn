@@ -1,6 +1,6 @@
 ---
 title: 将你的合作伙伴帐户与其他合作伙伴帐户合并
-description: 了解如何在合作伙伴中心为作为合作伙伴中心的活动 Microsoft 合作伙伴的公司合并合作伙伴帐户。
+description: 了解如何将合作伙伴帐户与 合作伙伴中心 中的另一个合作伙伴帐户合并- 适用于在 合作伙伴中心。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -8,50 +8,48 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133057"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146504"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>将你的合作伙伴帐户与其他合作伙伴帐户合并
 
-**相应的角色**
+**适当角色**：帐户管理员
 
-- 帐户管理员
+两个或多个公司是活跃 Microsoft 合作伙伴，并且拥有 合作伙伴中心可以选择合并其帐户。
 
-如果有两个或更多的公司是活动的 Microsoft 合作伙伴并且在合作伙伴中心有帐户，则可以选择合并其帐户。
+## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>当两个合作伙伴选择合并其帐户时合作伙伴中心会发生什么情况
 
-## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>当两个合作伙伴选择合并其合作伙伴中心帐户时，会发生什么情况
+- 发起合并的合作伙伴组织将是 PGA (合作伙伴) 。
 
-- 发起合并的合作伙伴组织将是 (PGA) 的合作伙伴全局帐户。
+- 受邀组织的 PGA 成为发起公司的位置。
 
-- 受邀组织的 PGA 会成为开始公司的位置。
+- 合并帐户的所有位置将成为 PGA 下的位置。
 
-- 合并帐户的所有位置均成为 PGA 下的位置。
+- 帐户合并完成后，你将在 PGA 配置文件中看到帐户的详细信息，例如位置和用户。 无法反转此过程。
 
-- 帐户合并完成后，你将看到两个帐户的详细信息，例如 PGA 配置文件中的位置和用户。 不能撤消此过程。
+- 在此合并期间，将保留位置的所有 MPN ID。
 
-- 在此合并期间，会保留所有位置的 MPN Id。
+- 将接管用户的角色。 例如，如果用户是特定位置的奖励管理员，则他们在合并后仍将具有该角色，并且能够看到他们在合并之前看到的奖励。
 
-- 用户的角色会被移到一起。 例如，如果用户是特定位置的奖励管理员，则在合并后，他们仍将拥有该角色，并能够查看他们在合并前看到的奖励。
+- Azure AD租户和 CSP 帐户不会合并，并且不起作用。
 
-- 不会合并 Azure AD 租户和 CSP 帐户，也不会产生任何影响。
-
-- 已发布的产品/服务以及与这两家公司关联的共同销售管道数据都将保留
+- 与两家公司关联的已发布产品/服务及联合销售管道数据将保留
 
 ### <a name="view-of-merged-accounts"></a>合并帐户的视图
 
 :::image type="content" source="images/merge-accounts/account-merge.png" alt-text="帐户合并":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果受邀将合作伙伴中心帐户与其他合作伙伴中心帐户合并，会出现什么情况
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果受邀将你的帐户与另一合作伙伴中心帐户合并，合作伙伴中心结果
 
-如果你决定接受合并帐户的邀请：·你的 MPN ID (s) 和位置将合并到受邀伙伴帐户的 PGA 中。
+如果决定接受合并帐户的邀请：·你的 MPN ID (和) 将合并到邀请你的合作伙伴帐户的 PGA 中。
 
-- 用户会将其角色完整地加入合并的帐户。
+- 你的用户将进入合并的帐户，其角色保持不变。
 
-- 合并到续订后，将为两家公司保留现有权益和能力。 续订时，帐户将被视为一个公司，并将应用标准续订规则。
+- 合并后，将保留两家公司的现有权益和资格，直到续订。 续订时，帐户将被视为一个公司，并将应用标准续订规则。
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>了解合作伙伴选择合并帐户时对计划和优势的影响
 
@@ -98,31 +96,31 @@ ms.locfileid: "106133057"
 
 1. Contoso，有限公司 
 
-    a. [全局 MPN id 为 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ，一个从属[位置 MPN id 为 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)。
+    a. 全局[MPN ID 为 11111111，](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)从属位置 MPN ID 为[2222222。](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
   
-    b. Azure AD 租户 = @contoso.com
+    b. Azure AD租户 = @contoso.com
  
-    c. 2020年10月1日过期的金牌资格
-2. Fabrikam，Inc。
+    c. 将于 2020 年 10 月 1 日到期的黄金资格
+2. Fabrikam， Inc.
  
-    a.  全局 MPN ID 3333333 和2个下属位置 MPN Id 4444444 和5555555
+    a.  全局 MPN ID 为 3333333，两个从属位置 MPN ID 为 4444444 和 5555555
 
-    b.  Azure AD 租户 = @fabrikam.com
+    b.  Azure AD租户 = @fabrikam.com
 
-    c.  2020年12月1日过期的两个黄金胜任度
-3.  Contoso 购买 Fabrikam，转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求。
-4.  Fabrikam 登录到合作伙伴中心，并转到 Contoso 在步骤 #3 中所执行的同一页面，以批准 Contoso 的请求。
-5.  Contoso 查看此同一页面上的合并的详细信息，并向帐户合并提供确认。
+    c.  2020 年 12 月 1 日到期的两项黄金资格
+3.  Contoso 购买 Fabrikam 并转到 [此处](https://partner.microsoft.com/dashboard/account/merger) 以启动合并请求。
+4.  Fabrikam 合作伙伴中心并转到 Contoso 在步骤 #3中所做的同一页，以批准 Contoso 的请求。
+5.  Contoso 查看同一页面上的合并详细信息，并提供继续进行帐户合并的确认。
 6.  合并后，公司帐户将显示为：
 
-    a.  名为 Contoso、全局 MPN ID 为1111111、4个下属位置 MPN Id 为2222222、3333333、4444444和5555555的公司
+    a.  一家名为 Contoso 的公司，其全局 MPN ID 为 11111111，4 从属位置 MPN ID 为 2222222、3333333、4444444 和 5555555
     
-    b.  它将具有两个 Azure AD 租户 (@contoso.com + @fabrikam.com) ，可以访问同一合作伙伴中心帐户
+    b.  它将有两个Azure AD租户 (+) 有权访问同一个合作伙伴中心 @contoso.com @fabrikam.com 帐户
     
-    c.  它将具有两个能力权益包，其中一个包在10月 1 2020 日过期，另一个在 2020 12 月1日过期。 他们将能够在2020年12月1日作为单一能力权益包续订。 续订后，Contoso 将保留所有三项能力，即使它们只能维护单个权益包。
+    c.  它将具有两个资格权益包，一个在 2020 年 10 月 1 日到期，另一个在 2020 年 12 月 1 日到期。 他们可以在 2020 年 12 月 1 日续订为单个资格权益套餐。 他们续订时，Contoso 将保留所有三项资格，即使他们只能维护一个权益包。
     
-7.  Contoso 的管理员将继续为用户管理合作伙伴中心角色 @contoso.com 。 Fabrikam 的管理员将继续为用户管理合作伙伴中心角色 @fabrikam.com 。 Contoso 的管理员只能管理 Fabrikam 的用户，前提是这些用户被邀请为 Fabrikam 的客户加入 Fabrikam 的租户。
-8.  Contoso 可以决定忽略 @fabrikam.com 租户，然后 @contoso.com 用新的角色和权限重新颁发 Fabrikam 员工的新凭据。
+7.  Contoso 的管理员将继续管理合作伙伴中心用户 @contoso.com 的角色。 Fabrikam 的管理员将继续管理合作伙伴中心的用户 @fabrikam.com 角色。 Contoso 的管理员只能管理 Fabrikam 的用户，如果他们作为来宾受邀加入 Fabrikam 的租户。
+8.  Contoso 可以决定忽略该租户，然后向 Fabrikam 员工重新授予具有新角色 @fabrikam.com @contoso.com 和权限的新凭据。
 
 ## <a name="next-steps"></a>后续步骤
 

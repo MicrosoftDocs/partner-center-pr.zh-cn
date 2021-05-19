@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441874"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147201"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>使用分析了解有关订阅收入的详细信息
 
-**相应的角色**
-
-- 全局管理员
-- MPN 合作伙伴管理员
+**适当的角色**：全局管理员 |MPN 合作伙伴管理员
 
 规划各种方式来发展 CSP 业务，包括了解客户使用其 Microsoft 产品的方式。 合作伙伴中心中有多个用于收集数据的选项，可以收集有关你的业务的数据，还可以收集你的客户是否在使用以及如何使用所购买的许可证的数据。 如果你使用的是 CSP 直接模式，则还可以安装并使用合作伙伴中心分析应用，以便 Power BI 收集额外数据。
 
@@ -49,14 +46,14 @@ ms.locfileid: "106441874"
 
 ## <a name="subscription-summary"></a>订阅摘要
 
-屏幕的下半部分显示订阅摘要。 使用以下筛选器来查看必要的订阅详细信息：  
+屏幕的下半部分显示订阅摘要。 使用以下筛选器查看必要的订阅详细信息：  
 
-1. **持续时间**：可以选择查看订阅摘要 
+1. **持续时间**：可以选择查看的订阅摘要 
 
-- 30D –最近30天
-- 3M –最近3个月
-- 6分钟–最近6个月
-- 12M –最近12个月
+- 30D – 过去 30 天
+- 3M – 过去 3 个月
+- 6M – 过去 6 个月
+- 12M – 过去 12 个月
 
 2. **产品类型**：
  
@@ -65,13 +62,13 @@ ms.locfileid: "106441874"
 - Dynamics 365
 - EMS
 
-应用这些筛选器不会影响此报告顶部的 TTM 收入指标。
+应用这些筛选器不会影响此报表顶部的 TTM 收入指标。
 
 
  
 ## <a name="next-steps"></a>后续步骤
 
-- [分析你的客户如何使用他们所购买的许可证](increasing-adoption-and-satisfaction.md)  
+- [分析客户如何使用他们购买的许可证](increasing-adoption-and-satisfaction.md)  
 - [查看客户活动日志](activity-logs.md)
 - [适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners.md)
 

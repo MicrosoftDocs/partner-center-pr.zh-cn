@@ -4,37 +4,34 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解对 CSP 计划的商业 marketplace 中的第三方 ISV 产品或订阅的支持。
+description: 了解对 CSP 计划商业市场中第三方 ISV 产品或订阅的支持。
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 1a758129a2610cbc42a6cc031d8527ed874d083b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979543"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147813"
 ---
-# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP 计划中的商业 marketplace 产品支持
+# <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>支持 CSP 计划中的商业市场产品
 
 
-**相应的角色**
+**适当的角色**：全局管理员|管理员代理
 
-- 全局管理员
-- 管理员代理
+CSP 计划的合作伙伴是客户计费或订阅管理问题的第一个联系点，这些问题与从商业市场为客户购买的任何第三方 ISV 订阅或产品相关。
 
-CSP 计划中的合作伙伴是与任何第三方 ISV 订阅或从商业市场为客户购买的产品相关的客户帐单或订阅管理问题的第一个联系点。
+有关第三方 ISV 发布者的商业市场产品的技术支持问题，CSP 计划的合作伙伴应联系该产品或产品/服务的 ISV 发布者。
 
-有关第三方 ISV 发布者提供的商业 marketplace 产品的技术支持问题，请与该产品或产品/服务的 ISV 发布者联系。
+## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a>CSP 合作伙伴、ISV 发布者和 Microsoft ISV 产品的支持角色
 
-## <a name="support-roles-of-isv-products-for-csp-partners-isv-publishers-and-microsoft"></a>支持用于 CSP 合作伙伴、ISV 发布者和 Microsoft 的 ISV 产品的角色
+对于商业市场产品/服务或购买第三方 ISV 产品/服务：
 
-对于商业市场，提供或购买第三方 ISV 产品或产品/服务：
+- **ISV 发布者的支持角色：** ISV 根据第三方客户协议的定义，为客户提供有关其产品/服务的技术支持和服务级别承诺。 ISV 应为 CSP 计划的合作伙伴和/或他们的客户提供一种方法，以便直接与 ISV 联系以提供支持，包括用户支持和中断修复支持。 ISV 应向 CSP 计划的合作伙伴提供用户文档、培训和服务运行状况/服务中断通知 (（如果适用) ）以便这些合作伙伴能够协调支持 (如果 CSP 计划中的合作伙伴选择为客户提供该服务) 。
 
-- **ISV 发布者的支持角色：** Isv 根据第三方客户协议中的定义，向客户提供有关其产品/服务的技术支持和服务级别承诺。 ISV 应提供一种方法，使 CSP 计划和/或其客户可以直接联系 ISV 以获取支持，包括用户支持和中断修复支持。 在) 适用的情况下，Isv 应向 CSP 计划中的合作伙伴提供用户文档、培训和服务运行状况/中断通知 (，因此，如果 CSP 计划中的合作伙伴选择向其) 客户提供该服务，则这些合作伙伴将能够协调支持 (。
-
-- **CSP 计划中合作伙伴的支持角色：** CSP 计划中的合作伙伴负责对第三方 ISV 产品/服务的所有其他支持。 此支持可与客户的计费问题、帐户设置和付款相关。 CSP 计划中的合作伙伴可以选择将技术支持查询从客户定向到 ISV 发布者提供的支持联系人。
+- **合作伙伴在 CSP 计划中的支持角色：** CSP 计划的合作伙伴负责为第三方 ISV 产品/服务提供所有其他支持。 此支持可以与客户的计费问题、帐户设置和付款相关。 CSP 计划的合作伙伴可以选择将客户支持查询从客户直接引导到 ISV 发布者提供的支持联系人。
 
 - **Microsoft 的支持角色：** Microsoft 在 CSP 计划中向第三方 ISV 发布者和合作伙伴提供有关 Microsoft commerce 系统功能的支持。 这意味着，Microsoft 将负责在 CSP 计划合作伙伴活动中和在 Microsoft commerce 系统内发生的 ISV （如加入/产品/服务管理、交易、计费、帐户支持以及针对基于 Azure 的 ISV 解决方案的部署和预配）对合作伙伴的某些活动提供支持。
 

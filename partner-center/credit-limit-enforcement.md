@@ -1,5 +1,5 @@
 ---
-title: 信用限制实施
+title: 信用额度强制执行
 ms.topic: how-to
 ms.date: 05/11/2021
 description: 了解信用限制及其计算方式。 包含常见问题解答。
@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819203"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148102"
 ---
 # <a name="credit-limit-enforcement-cle"></a>信用限制实施 (CLE) 
 
-**相应的角色**
-
-- 计费管理员
+**适当的角色**：计费管理员
 
 ## <a name="your-credit-limit-and-how-it-works"></a>信用限制及其工作原理
 
@@ -40,39 +38,39 @@ ms.locfileid: "109819203"
 
 ### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>如果我超过了信用限制，是否可以继续使用完全访问权限为现有客户和订阅提供服务？
 
-是的。 你的客户的现有订阅将继续进行而不中断。 但是，你不能为客户购买新的订阅。
+是。 客户的现有订阅将继续进行，而不会中断。 但是，不能为客户购买新订阅。
 
-### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>CLE 是否适用于直属客户和间接提供商？
+### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>直接计费合作伙伴和间接提供商是否同时应用了 CLE？
 
-是的，它适用于这两种情况。
+是的，这两者均适用。
 
-### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>提交我的付款以恢复我的帐户后，我可以在何时购买更多订阅？ 
+### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>提交付款以恢复帐户后，何时可以购买更多订阅？ 
 
-你应能够在你的付款24小时内恢复购买，假设 Microsoft 已收到继续信用检查过程的所有要求。
+假设 Microsoft 已收到继续进行信用检查过程的所有要求，你应该能够在付款后 24 小时内恢复购买。
 
 ### <a name="how-can-i-check-my-credit-limit"></a>如何检查信用额度？
 
-联系 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 以查看信用限制并获取有关最近购买的信息。
+请联系 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 查看信用额度限制，并获取有关最近购买的信息。
 
-### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>是否有针对信用额度的争议计数的发票？
+### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>存在争议的发票是否计入信用额度限制？
 
-是的。 不过，您可以在上与 Microsoft 联系 [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 以解决此问题。
+是。 但是，可以通过 联系 Microsoft [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) 来解决此问题。
 
-### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>如果我要写入，会多久再收到 ucmwrcsp@microsoft.com ？
+### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>如果我向 写入了 ，多久就会听到回信 ucmwrcsp@microsoft.com ？
 
-你的响应应在24小时内。 
+应在 24 小时内收到响应。 
 
-### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft 用于设置合作伙伴信用限制的条件是什么？
+### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft 使用什么条件来设置合作伙伴的信用额度限制？
 
-我们根据预测收入、购买技能和付款历史记录来确定信用限制。
+我们根据预测的收入、购买能力以及付款历史记录来确定信用额度限制。
 
-### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>当前是否在新的商业体验上强制实施信用限制？
+### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>新商务体验当前是否强制实施了信用额度限制？
 
-是的。 信用限制适用于合作伙伴中心的所有 CSP 计划和产品。
+是。 信用额度适用于所有云解决方案提供商计划和合作伙伴中心。
 
-### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>如果组织接近信用限制，谁会收到通知？
+### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>我的组织即将达到其信用额度限制时，谁会收到通知？
 
-组织的财务帐户应付帐款联系人应收到通知。
+组织的 Finance Account Should 联系人应收到通知。
 
 ## <a name="next-steps"></a>后续步骤
 

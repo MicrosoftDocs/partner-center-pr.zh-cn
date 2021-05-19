@@ -4,67 +4,62 @@ ms.topic: how-to
 ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作伙伴中心使用度量值。 指标可显示企业是否在成长、客户如何使用其许可证，以及在何处集中投资。
+description: 了解如何在 合作伙伴中心。 指标可以显示你的业务是否不断增长、客户如何使用其许可证，以及在何处专注于投资。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178929"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146657"
 ---
-# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作伙伴中心的度量值提高采用和满意度
+# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用指标合作伙伴中心提高采用和满意度
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员|用户管理管理员|管理代理|销售代理
 
 我们的合作伙伴使用许多指标测量他们的业务是否在增长以及投资的侧重点。 合作伙伴中心可通过提供有关你的客户是否正在使用以及如何使用他们所购买的许可证的数据，来提供帮助。 此信息适用于 Office 产品（包括 OneDrive for Business，这将 SharePoint 也计入在内）。
 
-你可以通过云解决方案提供商计划查看所有客户的数据。 某些客户可能会从其他合作伙伴或直接从 Microsoft 购买许可证。 在这种情况下，你将看到所有伙伴中的许可证总数。 若要仅查看你自己的许可证，请改为转到客户的订阅。
+你可以通过云解决方案提供商计划查看所有客户的数据。 某些客户可能从其他合作伙伴或直接从 Microsoft 购买许可证。 对于这些情况，你将看到所有合作伙伴的许可证总数。 若要仅查看你自己的许可证，请改为转到客户的订阅。
 
 > [!NOTE]  
 > 目前，我们仅显示 Office 365 和 Dynamics 365 的数据。 将来，我们将会启用其他产品的数据。
 
 ## <a name="find-license-and-user-data"></a>查找许可证和用户数据
 
-您可以查找单个客户的许可证和用户数据，也可以在整个公文包中查找。
+可以查找单个客户或整个项目组合的许可证和用户数据。
 
 ### <a name="find-license-and-user-data-for-a-single-customer"></a>查找单个客户的许可证和用户数据
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 从 **合作伙伴中心** 选择 **客户**
+2. 从 **列表中选择** " **客户合作伙伴中心**
 
 3. 选择客户。
 
-4. 选择 " **Customer insights**"。
+4. 选择 **"客户见解"。**
 
-### <a name="find-license-and-user-data-across-your-portfolio"></a>跨你的产品组合查找许可证和用户数据
+### <a name="find-license-and-user-data-across-your-portfolio"></a>查找项目组合中的许可证和用户数据
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
-2. 选择 " **分析**"，然后从菜单上的任意 "分析" 选项中进行选择。
+2. 选择 **"** 分析"，然后从菜单上的任何分析选项中进行选择。
 
-3. 若要在整个客户集中下载部署和使用情况数据，请选择 " **导出** (向下箭头) " 选项。
+3. 若要下载整个客户集的部署和使用情况数据，请选择"导出 (向下) 选项。
 
 术语：
 
-- **权利** = 用户有权使用的许可证 (不会因欺诈或非支付而挂起，也不会将其升级到不同的许可证、用户未取消，或者) 的其他问题。
+- **权利** = 用户有权使用的许可证 (该许可证未因欺诈或未付款而暂停、尚未升级到其他许可证、尚未被用户取消或出现其他问题) 。
 
-- **Active** = 如果已订阅用户在过去28天的时间内使用了任务的权限。
+- **活动** = 如果订阅的用户过去 28 个日历天内使用了任务的权利。
 
 - **部署率** = 已分配的许可证/已出售的许可证
 
-- **使用率%** = 活动用户数/用户总数
+- **使用情况百** 分比 = 活动用户数/总用户数
 
-   有时使用率会夸大或大于 100%。 此问题可能是由于以下几个原因导致的：
+   有时使用率会夸大或大于 100%。 出现此问题的原因有多种：
 
   - 如果客户发生员工流动，并且许可证已转移到新用户。
 
@@ -72,11 +67,11 @@ ms.locfileid: "106178929"
 
   - 如果客户具有试用版订阅，则计入活动，但订阅不计入权利总数。
 
-  - 如果某些客户使用的 Yammer 远远超过了其许可证的资格，则可以极大程度地倾斜数据。
+  - 如果某些客户使用 Yammer 明显多于其许可证所有权使用的数据，则可能会严重倾斜数据。
 
 ## <a name="next-steps"></a>后续步骤
 
-如果你有很多帮助和操作方法问题，你的帐户中的采用号码会较低，或者你正在寻找销售机会，你可能需要考虑提供培训课程。 通过教授你的客户如何更好地使用他们购买的云解决方案软件，更有可能会提高工作效率和满意度并降低支持需求。
+如果提出许多帮助和帮助问题，帐户上的采用数量较低，或者正在寻找销售机会，可以考虑提供培训课程。 通过教授你的客户如何更好地使用他们购买的云解决方案软件，更有可能会提高工作效率和满意度并降低支持需求。
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>考虑如何改进客户采用和使用情况-两个方案
 

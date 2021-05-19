@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979670"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147898"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>为客户管理商业 marketplace 产品和产品/服务
 
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
+**适当的角色**：全局管理员 |管理代理
 
 云解决方案提供商中的合作伙伴 (CSP) 计划可以使用合作伙伴中心门户为其客户从商用 marketplace 购买许多 ISV SaaS 产品/服务或订阅。 购买产品/服务后，你可以通过多种方式对其进行管理。
 
@@ -51,32 +48,32 @@ ms.locfileid: "97979670"
 > [!NOTE]
 > 你可能需要完成 ISV 发布者定义的某些步骤，然后才能对订阅执行某些更改，如取消订阅。
 
-## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>分配许可证并代表客户激活订阅
+## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>代表客户分配许可证并激活订阅
 
-当你购买软件即服务 (SaaS) 产品/服务由独立软件供应商提供 (ISV) publisher 在商业应用商店中提供，ISV 发布者可帮助管理分配许可证并代表客户激活订阅的过程。
+在商业市场中购买独立软件供应商 (ISV) 发布者提供的软件即服务 (SaaS) 产品/服务时，ISV 发布者可帮助管理代表客户分配许可证和激活订阅的过程。
 
-发布者应为你提供一个个性化链接和一个用于标识特定购买的授权代码。
+发布者应提供个性化链接和用于标识特定购买的授权代码。
 
-1. 可以通过以下几种方式在 ISV 发布者那里找到此个性化链接：
+1. 可以通过多种方式从 ISV 发布者找到此个性化链接：
 
-   - 你可以看到在购买 ISV SaaS 产品/服务后显示的 "确认" 页的链接。 若要在页面上找到此链接，请查找并选择 " **跳到发布者的网站**"。
+   - 可以从购买 ISV SaaS 产品/服务后出现的确认页中查看链接。 若要在页面上找到此链接，请查找并选择"**转到发布者的站点"。**
 
-   - 可以从特定客户的订阅页查看链接。 此发布服务器链接显示在与为客户购买的 ISV 产品或订阅关联的行上。
+   - 可以从特定客户的"订阅"页查看链接。 此发布者链接显示在与客户购买的 ISV 产品/服务或订阅关联的行上。
 
-   - 可以 [使用合作伙伴中心 api 检索链接](/partner-center/develop/get-activation-link-by-order-line-item)。
+   - 可以使用 [API 检索合作伙伴中心链接](/partner-center/develop/get-activation-link-by-order-line-item)。
 
    > [!NOTE]
-   > 若要代表客户执行此操作，你可能需要复制个性化链接，并将其粘贴到专用浏览器中，并输入客户的凭据。
+   > 若要代表客户执行此操作，可能需要复制个性化链接，将其粘贴到专用浏览器，然后输入客户的凭据。
 
-2. 一旦你进入 ISV 发布者的站点或系统后，发布者将向你提供完成客户设置过程和预配或分配许可证所需执行的任何其他步骤。
+2. 进入 ISV 发布者的站点或系统后，发布者将告知你完成客户安装过程以及预配或分配许可证所需的任何其他步骤。
 
-3. 作为代表你的客户的 CSP 程序中的合作伙伴，你需要执行以下任务：
+3. 作为代表客户工作的 CSP 计划的合作伙伴，你负责执行以下任务：
 
-    - 将所有必需的信息提交到发布服务器。
+    - 将任何必需信息提交到发布者。
 
-    - 将任何所需 URL 直接发送给客户 (或直接向客户传达有关此订阅的详细信息) 
+    - 将任何所需的 URL 直接发送到 (或直接将有关此订阅的详细信息传达给客户) 
 
-4. 向发布者提供所需的信息后，发布者将设置并分配适当的许可证。 仅在发生以下事件之后，才会开始订阅计费：
+4. 向发布者提供所需信息后，发布者将预配和分配相应的许可证。 只有在发生以下事件后，订阅计费才开始：
 
     - ISV 发布者已成功分配适当的许可证
 

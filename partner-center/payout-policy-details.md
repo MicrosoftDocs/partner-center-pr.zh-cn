@@ -1,43 +1,40 @@
 ---
 title: 付款计划和流程
-description: 了解付款和事务，例如适用于商业市场和其他交易的付款计划和 recoupment 过程。
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: 了解付款和交易，例如商业市场和其他事务的付款计划和重新付款流程。
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086169"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146946"
 ---
 # <a name="payout-schedules-and-processes"></a>付款计划和流程
 
-**相应的角色**
+**适当角色**：帐户管理员|全局管理员
 
-- 帐户管理员
-- 全局管理员
-
-本文介绍了 Microsoft 的付款计划，在何处可以找到费用的状态，以及客户非付款过程。
+本文讨论 Microsoft 的付款计划、在何处查找付款状态以及客户未付款的过程。
 
 ## <a name="payment-schedules"></a>付款计划
 
-以下部分介绍了用于 **企业协议** 和 **信用卡/发票** 交易的付款流程。
+以下部分介绍了我们针对信用卡企业协议 **发票交易付款流程**。 
 
 ### <a name="enterprise-agreement-transactions"></a>企业协议事务
 
-当客户使用其现有的 Microsoft 企业协议用于交易来从 Microsoft AppSource 或 Azure Marketplace 购买产品时，我们将在下一次付出的费用周期30天后发出客户发票。 客户使用信用卡的交易在支出前有30天的保留期。
+当客户使用现有 Microsoft 企业协议 Microsoft AppSource 或 Azure 市场 购买产品进行交易时，我们将在下一个付款周期中在客户发票后的 30 天内发出付款。 客户使用信用卡的事务在付款前有 30 天的持有期。
 
-通常，在 Microsoft 从客户处收集付款之前会发生费用。 如果客户未能向 Microsoft 付款，但我们已支付费用，请参阅下面的 [客户非支付过程](#process-for-customer-non-payment) 。
+在 Microsoft 从客户收取付款之前，通常会进行付款。 请参阅 [下面的客户未付款](#process-for-customer-non-payment) 流程，了解如果客户未能支付 Microsoft 付款但我们已经发出了付款，我们采取的操作。
 
-| 事件 | 说明 | 报告可见性 | 时机 |
+| 事件 | 说明 | 报表可见性 | 计时* |
 | --- | --- | --- | --- |
-| 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
-| Microsoft 计算计费金额 | 确定总用量、总事务数 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
-| 已发布比率 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
+| 使用情况或交易月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [订单](/azure/marketplace/partner-center-portal/orders-dashboard) 仪表板 | **月份 1** |
+| Microsoft 计算计费金额 | 确定总使用量、总事务数 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [订单](/azure/marketplace/partner-center-portal/orders-dashboard) 仪表板 | **第 2 个月** |
+| 已发布付款 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月 (第一周)** |
 | 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第3个月 (第一周)** |
 | **已发送支出** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第3个月 (不晚于 15)** |
 | 按客户付款的发票 | Microsoft 收集客户的付款 | 没有变化 | **第4个月到第12个月** |
@@ -53,11 +50,11 @@ ms.locfileid: "106086169"
 
 | 事件 | 说明 | 报告可见性 | 时机 |
 | --- | --- | --- | --- |
-| 事务的使用或月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第1个月** |
-| 按客户付款的发票 | 确定总用量、总事务值和客户支付开票 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [排序](/azure/marketplace/partner-center-portal/orders-dashboard) 面板 | **第2个月** |
-| 已发布比率 | 确定机构费和支出收益 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第2个月** |
-| 30天的保留期 | 确保资金收集、可能的退款和退款请求 | 在[付出](payout-statement.md)的交易历史记录中被标记为未处理 | **第3个月** |
-| 准备支出 | 收益已准备好每月支付 | 在[支出表](payout-statement.md)的事务历史记录中标记为即将推出 | **第4个月 (第一周)** |
+| 使用情况或交易月份 | 客户使用或购买服务。 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [订单](/azure/marketplace/partner-center-portal/orders-dashboard) 仪表板 | **月份 1** |
+| 客户支付发票 | 确定总使用量、总交易值和客户付款发票 | [使用情况](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [订单](/azure/marketplace/partner-center-portal/orders-dashboard) 仪表板 | **第 2 个月** |
+| 已发布付款 | 确定代理费和付款收益 | 在付款对账单的事务历史记录中标记为"未 [处理"](payout-statement.md) | **第 2 个月** |
+| 30 天保持期 | 确保收集资金、可能的退款和退款请求 | 在付款对账单的事务历史记录中标记为"未 [处理"](payout-statement.md) | **第 3 个月** |
+| 准备付款 | 准备每月付款的收入 | 在付款对账单的"交易历史记录"中标记为 ["即将发布"](payout-statement.md) | **第 4 (第 1 周)** |
 | **已发送支出** | **支付将发送到发布服务器** | **在事务历史记录中标记为 "已发送"，在费用 [声明](payout-statement.md)的 "付款" 部分** | **第4个月 (不晚于 15)** |
 |
 
@@ -77,14 +74,14 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 
 | 事件 | 估计日期 * | 合作伙伴可见性 |
 | --- | --- | --- |
-| 示例付出日期 | 10/15/2020 | 已标记为 "在事务历史记录中 **发送** " 和 "支出" 面板中 |
-| <font color="red">如果客户不向 Microsoft 付款</font> | 12/2/2020 –12/5/2020 | 无更改，如上所述 |
-| 客户首先收到延迟支付的电子邮件 | 12/6/2020 | None |
-| 客户收到不断增加的紧急性电子邮件 | 12/7/2020 –1/31/2021 | None |
-| 发布者通知写入可能 | 1/7/2021 | 发送给发布者的电子邮件通知，其客户尚未发送付款。 包括交易记录 ID 和美元金额。 |
-| 客户收到终止通知 | 2/1/2021 | None |
-| 收集过程结束/资金已写出 | 2/15/2021 | 发送给发布者的电子邮件通知已写出。 包括交易记录 ID 和美元金额。 |
-| 扣减支出 | 2021/3/1 | 发布者将在合作伙伴中心支出报表中看到消极事务 |
+| 示例付出日期 | 10/15/2020 | 在" **交易** 历史记录"和"付款仪表板"的"付款"部分标记为"已发送" |
+| <font color="red">如果客户不支付 Microsoft 费用</font> | 12/2/2020 – 12/5/2020 | 无更改，与上面相同 |
+| 客户收到第一封延迟付款电子邮件 | 12/6/2020 | 无 |
+| 客户收到紧急性增加的定期电子邮件 | 12/7/2020 – 1/31/2021 | 无 |
+| 发布服务器可能会收到注销通知 | 1/7/2021 | 发送给发布者的电子邮件通知，告知其客户尚未发送付款。 包括事务 ID 和美元金额。 |
+| 客户收到终止通知 | 2/1/2021 | 无 |
+| 收集过程结束/资金被注销 | 2/15/2021 | 发送给发布者的电子邮件通知，指出资金已注销。 包括事务 ID 和美元金额。 |
+| 付款已减去 | 2021/3/1 | 发布者将在付款对账单合作伙伴中心负交易 |
 | 预扣支出 | 3/15/2021 | 未来的付款将显示在合作伙伴中心支出报表中。 在余额不再为负值之前，发布者将不会收到支付。  |
 |||
 

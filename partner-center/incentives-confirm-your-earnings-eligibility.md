@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 2eb0fe92b5b62b56742ef06617275451e6850011
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179269"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146810"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>确认奖励收益资格
 
-**相应的角色**
-
-- 奖励管理员
-- 全局管理员
+**适当的角色**：激励管理 |全局管理员
 
 必须先完成所有必需的资格要求，然后才能支付奖励计划中的工作。
 

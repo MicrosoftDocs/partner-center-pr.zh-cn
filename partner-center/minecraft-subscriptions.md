@@ -8,21 +8,16 @@ description: 销售 Minecraft 教育版订阅，使其能够从 Microsoft 教育
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 06cb4d1d23d20a0d5f6f7031608a5369fdc1b89d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133006"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146385"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育行业客户销售 Minecraft: Education Edition 订阅
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 销售代理
-- 管理员代理
+**适当的角色**：全局管理员 |用户管理管理员 |销售代理 |管理代理
 
 与教育机构合作的合作伙伴可以向他们提供 **Minecraft: Education Edition** 订阅。 你可以在合作伙伴中心代表客户购买订阅，然后客户从 [Microsoft Store 获取教育](https://educationstore.microsoft.com)。 
 

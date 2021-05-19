@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979526"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148017"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>适用于合作伙伴中心的商业 marketplace 产品和订阅的帐单
 
 
-**相应的角色**
-
-- 全局管理员
-- 计费管理员
+**适当的角色**：全局管理员 |计费管理员
 
 作为 CSP 计划中的合作伙伴，你可以使用合作伙伴中心从商业应用商店中的 ISV 出版商那里购买基于许可证的 SaaS 产品。 完成此操作后，你可以访问这些类型采购的帐单。 计费周期从日历月的第一天开始，到日历月的最后一天结束。 发票在下个月的第8天可用。
 
@@ -31,34 +28,34 @@ ms.locfileid: "97979526"
 CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解决方案收费，当他们从合作伙伴中心或从 Azure 门户 (使用客户以前购买的 Azure 租户) 购买这些产品。
 
 >[!NOTE]
->如果客户使用他们自己的 Azure AD 租户 (不是从 CSP 计划中的合作伙伴那里购买的) ，则客户还可以选择直接从 ([Microsoft AppSource](https://appsource.microsoft.com/) 或 [Azure Marketplace](https://azuremarketplace.microsoft.com/)) 购买自己的 ISV SaaS 解决方案。 如果他们这样做，他们将直接从 Microsoft 接收自己的帐单。 同样，如果 CSP 计划中的合作伙伴向客户销售 Azure 订阅或新的 Azure 计划，并授予客户 (或间接分销商) 对该租户的 [基于角色的访问权限](/azure/role-based-access-control/built-in-roles) (向客户分配除 **读者**) 以外的任何角色，则该客户 (或间接经销商) 还可以购买商业 marketplace 产品/服务，而不需要事先批准或通知 CSP 合作伙伴。 在这种情况下，Microsoft 不会直接在 CSP 计划中向合作伙伴通知客户的购买情况。 但是，Microsoft 提供了一个可选的 [Azure Monitor](/azure/azure-monitor/platform/alerts-activity-log) 机制，可用于设置有关 Azure 订阅上的活动的警报或通知。
+>如果客户使用他们自己的 Azure AD 租户 (不是从 CSP 计划中的合作伙伴那里购买的) ，则客户还可以选择直接从 ([Microsoft AppSource](https://appsource.microsoft.com/) 或 [Azure Marketplace](https://azuremarketplace.microsoft.com/)) 购买自己的 ISV SaaS 解决方案。 如果他们这样做，他们将直接从 Microsoft 接收自己的帐单。 同样，如果 CSP 计划中的合作伙伴向客户销售 Azure 订阅或新的 Azure 计划，并授予客户 (或间接分销商) 对该租户的 [基于角色的访问权限](/azure/role-based-access-control/built-in-roles) (向客户分配除 **读者**) 以外的任何角色，则该客户 (或间接经销商) 还可以购买商业 marketplace 产品/服务，而不需要事先批准或通知 CSP 合作伙伴。 在这种情况下，Microsoft 不会直接在 CSP 计划中向合作伙伴通知客户的购买情况。 但是，Microsoft 确实 [提供了](/azure/azure-monitor/platform/alerts-activity-log) Azure Monitor，可用于设置有关 Azure 订阅上的活动的警报或通知。
 
-## <a name="access-billing-information-for-commercial-marketplace-products"></a>访问商业 marketplace 产品的计费信息
+## <a name="access-billing-information-for-commercial-marketplace-products"></a>访问商业市场产品的计费信息
 
-当某份发票可供查看时，公司的全局管理员或计费管理员会收到电子邮件。 若要访问商业 marketplace 产品购买的最新发票和对帐文件，请执行以下操作：
+当某份发票可供查看时，公司的全局管理员或计费管理员会收到电子邮件。 访问商业市场产品购买的最新发票和对帐文件：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/)。
 
 2. 在“合作伙伴中心”菜单中，选择“计费”。 
 
-    你将在帐单页的顶部看到两个选项卡： **定期** 、 **定期和一次性购买**。 每个选项卡使你可以访问不同 marketplace 产品的发票和对帐 (侦测) 文件：
+    "计费"页顶部有两个选项卡："定期"和"定期"和 **"一次性购买"。** 通过每个选项卡，可以访问发票 (对帐) 不同市场产品的对帐文件：
 
-    - "**定期**" 选项卡：显示与 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro 和 Microsoft Azure 相关的订阅的发票和对帐文件。
+    - **"** 定期"选项卡：显示与 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro 和 Microsoft Azure 相关的订阅的发票和对帐文件。
 
-    - **定期和一次性购买** 选项卡：显示 azure 计划、azure 预订、软件和商业应用商店产品的发票和对帐文件。
+    - **定期和一次性购买** 选项卡：显示 Azure 计划、Azure 预留、软件和商业市场产品的发票和对帐文件。
   
-3. 选择 " **定期购买" 和 "一次性购买** " 选项卡。如果为客户购买了不同货币的订阅，则会看到每个货币的选项卡。 你可以执行以下操作： om 此页：
+3. 选择" **定期和一次性购买"** 选项卡。如果以其他货币为客户购买了订阅，则会看到每种货币的选项卡。 可以从此页面执行一些操作：
 
-    - 若要查看最新的发票和协调文件，请选择 " **发票** " 或 " **对帐文件**"。  (如果需要，还可以使用 [合作伙伴中心 api](/partner-center/develop/)访问最新的发票和侦测文件数据。
+    - 若要查看最新的发票和对帐文件，请选择"**发票或****对帐文件"。**  (如果需要，还可使用 API 访问最新的发票 [和合作伙伴中心数据](/partner-center/develop/)。
 
-    - 若要查看以前的发票和侦测文件，请展开下面的 " **帐单历史记录** " 行。
+    - 若要查看较早的发票和对帐文件，请展开下面的 **"计费历史记录"** 行。
 
-    - 若要根据最新的帐户活动，随时查看估计的帐户余额或帐单，请在 " **估计** " 标题下选择一个链接。  
+    - 若要随时根据最新的帐户活动检查估计的帐户余额或帐单，请在"估计"标题下 **选择一个** 链接。  
 
     >[!NOTE]
-    > 当我们在每月的第8天发布帐单时，它将包含税金以及任何其他适用的费用和信用额度。 这意味着最终的应付金额可能不同于计费期间的显示内容。
+    > 当我们在当月的第 8 天发布帐单时，它将包括税款以及任何其他适用的费用与额度。 这意味着最终到期金额可能与计费周期内看到的金额不同。
 
-## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>有关商业 marketplace 产品的发票和侦测文件的详细信息
+## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>详细了解商业市场产品的发票和重新确认文件
 
 本部分提供了有关为第三方 ISV 发布者购买的商业 marketplace SaaS 订阅的发票和对帐文件的详细信息。
 
@@ -85,23 +82,23 @@ CSP 计划中的合作伙伴需要为客户购买的 ISV 商用 marketplace 解�
 
 - **发票第1页：** 包含 CSP 计划合作伙伴的计费详细信息的摘要概述。 这包括计费周期的费用摘要、发票编号、 (Net 60 days) 的付款条款，以及通过线路或支票支付的帐单支付方法。
 
-- **第2页 () 发票的所有后续页面：** 第一方 Microsoft 购买和第三方 ISV (基于许可证的) 从商业应用商店购买的详细信息。 可以通过每个产品名称下的 **发布者** 行标识基于 ISV 许可证的购买。 关联的对帐文件为特定发票费用提供更多计费详细信息。
+- **第2页 () 发票的所有后续页面：** 第一方 Microsoft 购买和第三方 ISV (基于许可证的) 从商业应用商店购买的详细信息。 可以通过发布者行在每个产品名称下标识基于 ISV许可证的购买。 关联的对帐文件提供特定发票费用的更多计费详细信息。
 
-- **发票的最后一页：** 如果你使用 ISV 提供的基于许可证的 marketplace 产品收费，此最后一页将显示有关 ISV 发布者的姓名和地址的详细信息。
+- **发票的最后一页：** 如果从 ISV 对基于许可证的市场产品收费，此最终页面将显示有关 ISV 发布者名称和地址的更多详细信息。
 
 ### <a name="tips-on-reading-your-reconciliation-file"></a>有关读取对帐文件的提示
 
-**定期和一次性采购** 对帐文件包含多个列，其中包含映射到发票中的费用的其他详细信息。 **PublisherName** 列显示购买是来自 Microsoft 还是第三方 ISV 发布者。
+定期 **和一次性购买** 对帐文件包含多个列，其中包含映射到发票中费用的其他详细信息。 **PublisherName** 列显示购买内容是 Microsoft 还是第三方 ISV 发布者。
 
-对帐文件的某些费用可能会显示为 $0。 这可能是由于 ISV "免费试用版" 产品/服务 (通常为30或60天) 或自带许可提供。
+对帐文件中可能会出现一些费用，费用为 0 美元。 这可能是由于 ISV"免费试用"产品/服务 (30 或 60 天) 自带许可产品/服务。
 
-对于免费试用版 ISV，请提供：
+对于免费试用版 ISV 产品/服务：
 
-- 免费试用期涵盖了在此期间 ISV 基于许可证的 SaaS 产品的成本。 对于关联的 Azure 基础结构使用该 SaaS 产品，还不会向你收费。  但是，如果使用基于使用情况的 ISV 产品/服务，则免费试用版不包括基础 Azure 基础结构的使用成本。 在这种情况下，Azure 基础结构使用费用将显示在单独的 Azure 对帐文件中。
+- 免费试用期涵盖在此期间 ISV 基于许可证的 SaaS 产品的成本。 对于该 SaaS 产品的关联 Azure 基础结构使用，也不需要付费。  但是，如果使用的是基于使用情况的 ISV 产品/服务，则免费试用版不包括基础 Azure 基础结构使用的成本。 在这种情况下，Azure 基础结构使用费用将显示在单独的 Azure 对帐文件中。
 
-- 当你为客户购买并部署 ISV 的免费试用版产品时，客户将自动注册到 ISV 发布者的免费试用版。 免费试用期将在 ISV 发布者定义的时间段后自动结束。 该时间段结束后，将向客户收费。 这意味着，对等认证的产品可能会显示两行：一个跟踪试用期的行，另一个跟踪付费产品/服务 (将显示成本 $0 到试用期结束后) 。 试用期结束后，显示付费产品/服务的行将开始显示费用。 
+- 为客户购买和部署符合 ISV 免费试用版资格的产品时，ISV 发布者会自动将客户注册到免费试用版中。 免费试用期在 ISV 发布者定义的期限之后自动结束。 在期限结束后，将收取客户费用。 这意味着，对帐文件可能会显示符合试用条件的产品的两行：一行跟踪试用期，另一行跟踪付费产品/服务 (在试用期结束后显示费用为 0 美元) 。 试用结束后，显示付费产品/服务行将开始显示费用。 
 
-有关每个列代表的内容的详细信息，请参阅 [使用对帐文件](use-the-reconciliation-files.md)。 另请参阅 [合作伙伴中心的计费类型](billing-different-types.md)
+有关每个列代表的内容的详细信息，请参阅 [使用对帐文件](use-the-reconciliation-files.md)。 另请参阅 [合作伙伴中心的计费类型](./billing-basics.md)
 
 ## <a name="next-steps"></a>后续步骤
 

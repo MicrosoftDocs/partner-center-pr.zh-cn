@@ -9,19 +9,17 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 5fd2267d53641fe4a0b6181217a35f0470e5bbe5
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: edc0ea8f0fda58f23cbce82bc7023a3277517cc3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560504"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147133"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>注册为控制面板供应商来帮助将 CSP 合作伙伴系统和合作伙伴中心 API 进行集成
 
 
-**相应的角色**
-
-- 全局管理员
+**相应的角色**：全局管理员
 
 控制面板供应商 (CPV) 是一家独立软件供应商，可开发云解决方案提供商 (CSP) 合作伙伴所使用的应用程序，使其能够将其系统与合作伙伴中心 Api 集成。 控制面板供应商不是可直接访问合作伙伴中心仪表板或合作伙伴中心 Api 的 CSP 合作伙伴。
 

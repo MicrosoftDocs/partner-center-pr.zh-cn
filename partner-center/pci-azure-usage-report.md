@@ -1,53 +1,48 @@
 ---
-title: 合作伙伴中心见解 Azure 使用情况报表
+title: 合作伙伴中心 Insights Azure 使用情况报告
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解你的工作良好，以及你可以在何处改进你为客户销售或管理的 Azure 订阅的使用情况。
+description: 了解你表现良好，以及在何处可以改进为客户销售或管理的 Azure 订阅的使用。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0d9224e9d86c540cc463538acc435f682cdc2d58
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086203"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146844"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Azure 使用情况报告
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从 合作伙伴中心 Insights 仪表板获取的 Azure 使用情况报告
 
-**相应的角色**
+**适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-- 全局管理员
-- 管理员代理
-- 报表查看器
-- 主管人员报表查看器
-
-Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 此报告包括按计量器分类分类的 Azure 消耗收入和使用量。 你可以从 Azure 使用情况报表查看以下部分。
+Azure 使用情况报表显示与客户的 Azure 订阅相关的指标。 此报表包括按计量类别分类的 Azure 消耗收入与使用情况。 可以从 Azure 使用情况报表查看以下部分。
 
 - 总结
-- 地域的 Azure 使用情况
+- 按地理位置的 Azure 使用情况
 - Azure 利用率
 
  > [!NOTE]
- > 此报告可从见解仪表板中获取。 若要查看此报表，您必须在合作伙伴中心分配有特定的角色，例如全局管理员、帐户管理员、报表查看器或执行报表查看器。 有关详细信息，请参阅你的公司的全局管理员。此报表中特定类型的数据也可能仅适用于具有 Executive 报表查看器权限的用户。
+ > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、帐户合作伙伴中心、报表查看器或执行报表查看器等角色中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定数据类型可能也仅可供具有执行报告查看器特权的用户使用。
 
 ## <a name="summary"></a>总结
 
-"摘要" 部分显示关键绩效指标的快照视图，这些指标与为客户销售或管理的 Azure 订阅相关 (Kpi) 。  
+摘要部分提供与客户销售 (管理的 Azure 订阅) KPI 的关键绩效指标的快照视图。  
 
-- Azure 订阅：由你销售或管理的 Azure 客户订阅的当前计数。
-在所选日期范围内增长或拒绝这些 Azure 订阅的百分比。
+- Azure 订阅：你销售或管理的 Azure 客户订阅的当前计数。
+这些 Azure 订阅在所选日期范围内的增长或下降百分比。
 
-微图显示了所选日期范围内 Azure 订阅计数的月月趋势。
-- 有效的 Azure 订阅：过去30天内已售出或管理的 Azure 订阅的当前计数。
-在选定的日期范围内增长或拒绝这些订阅的百分比。
+该微图表显示所选日期范围的 Azure 订阅计数的每月趋势。
+- 活动 Azure 订阅：过去 30 天内有效使用时销售或管理的 Azure 订阅的当前计数。
+所选日期范围内这些订阅的增长或下降百分比。
 
-微图显示了所选日期范围内 Azure 活动订阅计数的月月趋势。
+Micro 图表显示所选日期范围内 Azure 活动订阅计数的每月趋势。
 
-- Azure 消耗收入 (ACR) ：在所选日期范围内， (US $) 的 Azure 消耗总收入。
+- Azure 已使用收入 (ACR) ：Azure 已使用收入 (日期) 范围内你具有的总价值 $$ 。
 在选定的日期范围内，特性化 ACR US $ 的增长或拒绝百分比。 
 
 微图显示了 ACR US $ 对所选时间段的按月趋势

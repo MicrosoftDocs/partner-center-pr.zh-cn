@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179252"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146793"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>为激励计划生成营销计划
 
-**相应的角色**
-
-- 奖励管理员
-- 计费管理员
-- 全局管理员
+**适当的角色**：激励管理 |计费管理 |全局管理员
 
 合作声明计划是一系列营销活动、活动和其他详细信息，介绍如何使您的程序取得成功。 创建计划后，将其提交给 Microsoft 进行审批。
 
@@ -42,7 +38,7 @@ ms.locfileid: "106179252"
 
 3. 在 " **程序** " 页上，找到计划的适当市场，然后选择 " **创建计划**"。 
 
-4. 在 " **新建计划** " 页上，填写必填字段。 **货币** 是您希望计划反映的值。 **审阅者电子邮件** 应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存” 。
+4. 在 " **新建计划** " 页上，填写必填字段。 **货币** 是您希望计划反映的值。 **审阅者电子邮件** 应该是帐户管理员的 Microsoft 电子邮件地址。 请注意，每个 MPN ID、资金、计划和时间段只能创建一个计划。 选择“保存”。
 
 5. 在计划的状态页上，查看显示的信息。 选择“编辑”以更新任何信息。
 

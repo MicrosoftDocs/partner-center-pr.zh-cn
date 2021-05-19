@@ -1,6 +1,6 @@
 ---
 title: 与客户联系
-description: 如果你是 CSP 计划中的间接经销商，本文将帮助你与新客户和现有客户联系。
+description: 如果你是 CSP 计划的间接经销商，本文将帮助你与新客户和现有客户联系。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,20 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686188"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148425"
 ---
 # <a name="connect-with-customers"></a>与客户联系
 
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
+**适当的角色**：全局管理员|管理员代理
 
 
 若要与客户在合作伙伴中心进行交易，你的客户必须有合作伙伴中心帐户，并且你必须与他们建立经销商关系。 若要允许间接提供商代表你的客户购买订阅和服务，则该提供商还必须与你的客户建立经销商关系。
@@ -59,7 +56,7 @@ ms.locfileid: "109686188"
 
 要获取管理员权限来管理新客户的订阅和服务，**以及** 允许你的间接提供商代表他们提交新订单，你可以邀请该客户与你和你的间接提供商同时建立经销商关系。
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>邀请客户与你和你的间接提供商同时建立分销商关系
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>邀请客户同时与你和间接提供商建立经销商关系
 
 1. 从“合作伙伴中心”菜单中选择“间接提供商”。
 

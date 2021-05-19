@@ -4,24 +4,21 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解将订阅的步骤和要求出售给合格的美国政府客户或承包商的 Office 365 政府版 GCC for CSP。
+description: 了解将适用于 CSP 的 Office 365 政府版 GCC 订阅销售给符合条件的政府客户或美国的步骤和要求。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: d88936845c8b7ae7e17840843896d87ceebb4b2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979424"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147796"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>向合格的客户销售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
+**适当的角色**：全局管理员|管理员代理
 
 
 ## <a name="overview"></a>概述
@@ -34,9 +31,9 @@ ms.locfileid: "97979424"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>出售适用于云解决方案提供商的 Office 365 政府版 GCC 订阅
 
-在你的公司批准了销售 Office 365 政府版的 CSP 产品/服务后，你可以开始使用合作伙伴中心向客户进行销售。 请参阅以下资源，了解如何使用合作伙伴中心销售订阅： 
+公司获批销售适用于 CSP 产品/服务的 Office 365 政府版 GCC 后，可以使用云解决方案提供商合作伙伴中心。 请参阅以下资源，了解如何使用合作伙伴中心销售订阅： 
 
-- 有关分步指南，请阅读 [为 CSP 订阅销售 Office 365 政府](https://go.microsoft.com/fwlink/?linkid=2007323)版的指南。  
+- 有关分步指南，请阅读适用于 CSP 订阅的 [Office 365 政府版 GCC 销售指南](https://go.microsoft.com/fwlink/?linkid=2007323)。  
 
 
 ## <a name="next-steps"></a>后续步骤

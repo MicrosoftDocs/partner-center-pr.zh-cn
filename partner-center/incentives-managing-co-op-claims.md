@@ -1,6 +1,6 @@
 ---
 title: 管理合作声明
-description: 了解合作声明过程，包括截止时间、货币问题，以及如何对拒绝的合作声明进行争议。
+description: 了解合作申请流程，包括截止时间、货币问题，以及如何对被拒绝的合作申请进行争议。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -8,38 +8,36 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: 29e67bbeca2b136146a1d9d1ee7eef4d0f9d3b0c
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 952a6b327dd31b1155efe3c08bb52f9b300b0a93
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179150"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146759"
 ---
-# <a name="manage-incentives-co-op-claims"></a>管理激励合作声明
+# <a name="manage-incentives-co-op-claims"></a>管理奖励合作申请
 
-**相应的角色**
+**适当角色**：奖励管理员
 
-- 奖励管理员
-
-以下内容提供了管理合作声明的信息，包括时间线和规则，以及如何对拒绝的合作声明进行争议。
+以下内容提供用于管理合作申请的信息，包括时间线、规则，以及如何对被拒绝的合作申请进行争议。
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作申请批准和付款的截止时间
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>我的合作声明将在何时获得批准？
+### <a name="when-will-my-co-op-claim-be-approved"></a>我的合作申请何时获得批准？
 
-提交合作声明后，请在两个工作日内查看。 一旦被视为有效，它们将被设置为 "已批准" 状态。  
+合作申请在提交后的两个工作天内进行评审。 一旦它们被视为有效，它们将被设置为"已批准"状态。  
 
-下面是你的合作声明的各种可能状态。
+下面是合作声明的各种可能状态。
 
 - 已提交
 - 正在评审
-  - Microsoft 将在提交的声明的两个工作日内完成评审。 如果状态为 "查看时间超过两天"，请与 [支持](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)部门联系。
+  - Microsoft 将在提交声明的两个工作天内完成审查。 如果你的状态被审查超过两天，请联系 [支持部门](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 - 必需的操作
 - 正在编辑
 - 已批准
 - 已拒绝
 
-## <a name="co-op-claim-payments"></a>合作索赔支付
+## <a name="co-op-claim-payments"></a>合作申请付款
 
 ### <a name="when-will-i-get-the-payment-for-the-approved-co-op-claim"></a>我何时将获得批准的合作申请的款项？
 
@@ -53,17 +51,17 @@ ms.locfileid: "106179150"
 
 每一激励计划都有在设置期间创建的一个银行配置文件。 该配置文件中指定的货币是付款所采用的货币。
 
-## <a name="rejected-co-op-claims"></a>拒绝了合作声明
+## <a name="rejected-co-op-claims"></a>拒绝合作申请
 
-如果你为合作申请提供的材料被认为不足，申请将遭到拒绝。 可以在合作申请页面的“历史记录”字段中查看拒绝原因。 若要争议拒绝，请使用以下过程：
+如果你为合作申请提供的材料被认为不足，申请将遭到拒绝。 可以在合作申请页面的“历史记录”字段中查看拒绝原因。 若要对拒绝进行争议，请使用以下过程：
 
 ### <a name="dispute-a-rejected-co-op-claim"></a>对遭到拒绝的合作申请提出异议
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在 **激励** 下，选择 " **合作管理**"。
+2. 在 **"奖励"** 下，**选择"合作管理"。**
 
-3. 选择要提出异议的合作申请。 此时将打开 "合作声明" 页。
+3. 选择要提出异议的合作申请。 合作声明页随即打开。
 
 4. 在页面底部，选择“异议”。
 

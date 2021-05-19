@@ -9,26 +9,18 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d25fcb99695a726ab99fca4c4163e268a464526
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441823"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146266"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>适用于美国政府的 Microsoft 云合作伙伴中心支持对政府机构的合作伙伴产品/服务
 
-**适用于**
+**适用** 于：适用于美国政府的 Microsoft 云合作伙伴中心
 
-- Microsoft Cloud for US Government 合作伙伴中心
-
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
-- 计费管理员
+**适当的角色**：全局管理员 |用户管理管理员 |管理代理 |销售代理 |计费管理员
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美国政府 Microsoft 云：满足数据保护要求
 

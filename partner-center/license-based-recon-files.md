@@ -4,44 +4,37 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作伙伴中心读取基于许可证的对帐文件。 本文介绍了基于许可证的侦测文件中每个字段的含义。
+description: 了解如何在 合作伙伴中心 中读取基于许可证的对帐合作伙伴中心。 本文介绍基于许可证的 recon 文件中每个字段的含义。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 041f0fadfea107027ae1d9796d235700e66e6834
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702903"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146572"
 ---
-# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>了解合作伙伴中心基于许可证的对帐文件中的字段
+# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>了解基于许可证合作伙伴中心中的字段
 
-**适用于**
+**适用于 ：** 合作伙伴中心 |合作伙伴中心Microsoft Cloud for US Government
 
-- Microsoft Cloud for US Government 合作伙伴中心
+**适当的角色**：全局管理员|用户管理管理员|计费管理员|管理员代理
 
-**相应的角色**
+若要根据客户的订单核对更改，请将对帐Syndication_Partner_Subscription_Number中的订阅ID 与来自客户的订阅 **ID** 合作伙伴中心。
 
-- 全局管理员
-- “用户管理”管理员
-- 计费管理员
-- 管理员代理
-
-若要对客户的订单进行协调，请将对帐文件中的 **Syndication_Partner_Subscription_Number** 与合作伙伴中心的 **订阅 ID** 进行比较。
-
-## <a name="fields-in-license-based-reconciliation-files"></a>基于许可证的对帐文件中的字段
+## <a name="fields-in-license-based-reconciliation-files"></a>基于许可证的对帐文件中字段
 
 | 列 | 说明 | 示例值 |
 | ------ | ----------- | ------------ |
-| PartnerId | 特定计费实体的 GUID 格式的唯一标识符。 对帐不是必需的。 在所有行中均相同。 | *8ddd03642-test-test-test-46b58d356b4e* |
-| CustomerId | GUID 格式的客户的唯一 Microsoft 标识符。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| CustomerName | 客户的组织名称，如合作伙伴中心中所报告。 *用于使发票与系统信息进行协调的非常重要的字段。* | *测试客户 A* |
-| MpnId | CSP 合作伙伴的 MPN 标识符。 请参阅 [如何按合作伙伴列举](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *4390934* |
-| ResellerMpnId | 订阅的记录分销商的 MPN 标识符。  |
-| OrderId | 订单在 Microsoft 计费平台中的唯一标识符。 在联系支持人员时，确定订单可能会很有用。 不用于对帐。 | *566890604832738111* |
-| SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 与支持人员联系时，确定订阅可能会很有用。 不用于对帐。 *此值不同于合作伙伴管理控制台上的 **订阅 ID** 。请参阅 **SyndicationPartnerSubscriptionNumber** 。* | *usCBMgAAAAAAAAIA* |
+| PartnerId | 特定计费实体的 GUID 格式的唯一标识符。 对帐不需要。 在所有行中均相同。 | *8ddd03642-test-test-test-46b58d356b4e* |
+| CustomerId | 采用 GUID 格式的客户的唯一 Microsoft 标识符。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
+| CustomerName | 客户的组织名称，如合作伙伴中心。 *用于将发票与系统信息相协调的非常重要字段。* | *测试客户 A* |
+| MpnId | CSP 合作伙伴的 MPN 标识符。 请参阅 [如何按合作伙伴 进行项化](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)。 | *4390934* |
+| ResellerMpnId | 订阅的记录经销商的 MPN 标识符。  |
+| OrderId | 订单在 Microsoft 计费平台中的唯一标识符。 在联系支持人员时，确定订单可能很有用。 不用于对帐。 | *566890604832738111* |
+| SubscriptionId | 订阅在 Microsoft 计费平台中的唯一标识符。 联系支持人员时，可能有助于标识订阅。 不用于对帐。 *此值不同于合作伙伴管理控制台上的 **订阅 ID** 。请参阅 **SyndicationPartnerSubscriptionNumber** 。* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 订阅的唯一标识符。 对于同一计划，一个客户可以具有多个订阅。 此列对于协调文件分析非常重要。 此字段映射到合作伙伴管理员控制台中的 **订阅 ID** 。 | *fb977ab5-test-test-test-24c8d9591708* |
 | OfferId | 唯一产品标识符。 标准产品/服务标识符，如价目表中所定义。 *此值与价目表中的 **产品 ID** 不匹配。请参阅 **DurableOfferID** 。* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | DurableOfferId | 价目表中定义的唯一持久性提议标识符。 *此值与价目表中的 **产品 ID** 匹配。* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
@@ -50,16 +43,16 @@ ms.locfileid: "108702903"
 | SubscriptionEndDate | UTC 格式的订阅结束日期。 该时间始终为一天的起点时间，即 0:00。 *12 个月 + 开始日期之后的 **x** 天*，以与合作伙伴的计费日期或 *从续订日期起12个月* 的时间一致。 续订时，价格将更新为当前价目表。 自动续订之前可能需要与客户进行通信。 | *2/1/2019 0:00* |
 | ChargeStartDate | 费用的开始日。 该时间始终为一天的起点时间，即 0:00。 用于计算 (*pro 每* 费用) 客户更改许可证编号时的每日费用。 | *2/1/2019 0:00* |
 | ChargeEndDate | 费用的结束日。 时间始终是一天的结束，即 23:59。 用于计算 (*pro 每* 费用) 客户更改许可证编号时的每日费用。 | *2/28/2019 23:59* |
-| ChargeType | 费用或调整的 [类型](recon-file-charge-types.md) 。 | 请参阅 [费用类型](recon-file-charge-types.md)。 |
-| 单价 | 在购买时价格列表中发布的每个许可证的价格。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *6.82* |
-| 数量 | 许可证数量。 请确保此项与在协调期间存储在计费系统中的信息相匹配。 | *2* |
-| 金额 | 数量的总价。 用于检查量计算是否与你为客户计算此值的方式匹配。 | *13.32* |
-| TotalOtherDiscount | 适用于这些费用的折扣金额。 资格或地图随附的产品许可证，或符合激励条件的新订阅，还将在此列中包含折扣金额。 | *2.32* |
-| 小计 | 税前总额。 检查小计是否与预期的总计匹配（如果是折扣）。 | *11* |
-| 税款 | 税费。 基于市场的税务规则和特定情况。 | *0* |
+| ChargeType | [费用或调整](recon-file-charge-types.md)的类型。 | 请参阅 [费用类型](recon-file-charge-types.md)。 |
+| 单价 | 每个许可证的价格，在购买时在价目表中发布。 请确保这与对帐期间在计费系统中存储的信息匹配。 | *6.82* |
+| 数量 | 许可证数。 请确保这与对帐期间在计费系统中存储的信息匹配。 | *2* |
+| 金额 | 数量的总价。 用于检查金额计算是否与为客户计算此值方式匹配。 | *13.32* |
+| TotalOtherDiscount | 适用于这些费用的折扣金额。 资格或 MAPS 中包含的产品许可证，或符合奖励条件的新订阅，也将在此列中包含折扣金额。 | *2.32* |
+| 小计 | 税前总额。 检查小计是否与预期总计匹配（如果是折扣）。 | *11* |
+| 税款 | 税额费用。 根据市场的税务规则和特定情况。 | *0* |
 | TotalForCustomer | 税后总额。 检查你是否在发票中计入了税务。 | *11* |
-| 货币 | 货币类型。 每个计费实体只有一种货币。 检查它是否与第一个发票匹配。 在进行任何主要计费平台更新后再次检查。 | *EUR* |
-| DomainName | 客户的域名。 该字段在第二个计费周期之前可能会显示为空白。 *请勿将此字段用作客户的唯一标识符。客户/合作伙伴可以通过 Office 365 门户更新虚或默认域。* | *example.onmicrosoft.com* |
-| SubscriptionName | 订阅昵称。 如果未指定昵称，则合作伙伴中心将使用 **OfferName**。 | *项目联机* |
+| 货币 | 货币类型。 每个计费实体只有一种货币。 检查它是否与第一张发票匹配。 在主要计费平台更新后再次检查。 | *EUR* |
+| DomainName | 客户的域名。 该字段在第二个计费周期之前可能会显示为空白。 *请勿将此字段用作客户的唯一标识符。客户/合作伙伴可以通过 Office 365 门户更新虚域或默认域。* | *example.onmicrosoft.com* |
+| SubscriptionName | 订阅昵称。 如果未指定别名，则合作伙伴中心 **OfferName**。 | *PROJECT ONLINE* |
 | SubscriptionDescription | 客户购买的服务产品的名称，如价目表中所定义。  (这是与 **OfferName** 相同的字段 )  | *不含 PROJECT 客户端的 PROJECT ONLINE 高级版* |
 | BillingCycleType | 一次性计费频率。| *每月* |
