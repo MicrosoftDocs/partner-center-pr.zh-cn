@@ -8,36 +8,33 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179422"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151893"
 ---
-# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a><span data-ttu-id="1221f-103">查看可用的挣、报销和剩余的合作基金</span><span class="sxs-lookup"><span data-stu-id="1221f-103">View available earned, claimed, and remaining co-op funds</span></span>
+# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a><span data-ttu-id="9fb4b-103">查看可用的挣、报销和剩余的合作基金</span><span class="sxs-lookup"><span data-stu-id="9fb4b-103">View available earned, claimed, and remaining co-op funds</span></span>
 
-<span data-ttu-id="1221f-104">**相应的角色**</span><span class="sxs-lookup"><span data-stu-id="1221f-104">**Appropriate roles**</span></span>
+<span data-ttu-id="9fb4b-104">**适当的角色**：激励管理 |奖励用户</span><span class="sxs-lookup"><span data-stu-id="9fb4b-104">**Appropriate roles**: Incentives admin | Incentives user</span></span>
 
-- <span data-ttu-id="1221f-105">奖励管理员</span><span class="sxs-lookup"><span data-stu-id="1221f-105">Incentives admin</span></span>
-- <span data-ttu-id="1221f-106">奖励用户</span><span class="sxs-lookup"><span data-stu-id="1221f-106">Incentives user</span></span>
+<span data-ttu-id="9fb4b-105">你可以在 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) 中跟踪、监视和协调激励合作基金， (需要) 登录。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-105">You can track, monitor, and reconcile your incentive co-op funds in the [Partner Center dashboard](https://partner.microsoft.com/dashboard/) (sign-in required).</span></span> <span data-ttu-id="9fb4b-106">使用以下过程来查看这些资金。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-106">Use the following procedure to view these funds.</span></span>
 
-<span data-ttu-id="1221f-107">你可以在 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) 中跟踪、监视和协调激励合作基金， (需要) 登录。</span><span class="sxs-lookup"><span data-stu-id="1221f-107">You can track, monitor, and reconcile your incentive co-op funds in the [Partner Center dashboard](https://partner.microsoft.com/dashboard/) (sign-in required).</span></span> <span data-ttu-id="1221f-108">使用以下过程来查看这些资金。</span><span class="sxs-lookup"><span data-stu-id="1221f-108">Use the following procedure to view these funds.</span></span>
+## <a name="view-your-funds"></a><span data-ttu-id="9fb4b-107">查看你的资金</span><span class="sxs-lookup"><span data-stu-id="9fb4b-107">View your funds</span></span>
 
-## <a name="view-your-funds"></a><span data-ttu-id="1221f-109">查看你的资金</span><span class="sxs-lookup"><span data-stu-id="1221f-109">View your funds</span></span>
+1. <span data-ttu-id="9fb4b-108">用 Azure AD 帐户登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) (公司帐户) 或奖励角色的相应电子邮件。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-108">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/) with your Azure AD account (company account) or the appropriate email for your incentive role.</span></span>
 
-1. <span data-ttu-id="1221f-110">用 Azure AD 帐户登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) (公司帐户) 或奖励角色的相应电子邮件。</span><span class="sxs-lookup"><span data-stu-id="1221f-110">Sign into the [Partner Center dashboard](https://partner.microsoft.com/dashboard/) with your Azure AD account (company account) or the appropriate email for your incentive role.</span></span>
+2. <span data-ttu-id="9fb4b-109">选择 " **合作管理**"，然后选择要查看的使用期限。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-109">Select **Co-op management**, and then select the usage period you want to see.</span></span> <span data-ttu-id="9fb4b-110">这将显示所选时间段内的合作 **基金盈余** 和合作基金 **报销** 量以及 **剩余的合作基金** 。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-110">This will display amounts for **Co-op earned**, **Co-op claimed**, and **Remaining co-op** for the selected period.</span></span>
 
-2. <span data-ttu-id="1221f-111">选择 " **合作管理**"，然后选择要查看的使用期限。</span><span class="sxs-lookup"><span data-stu-id="1221f-111">Select **Co-op management**, and then select the usage period you want to see.</span></span> <span data-ttu-id="1221f-112">这将显示所选时间段内的合作 **基金盈余** 和合作基金 **报销** 量以及 **剩余的合作基金** 。</span><span class="sxs-lookup"><span data-stu-id="1221f-112">This will display amounts for **Co-op earned**, **Co-op claimed**, and **Remaining co-op** for the selected period.</span></span>
+3. <span data-ttu-id="9fb4b-111">所选时间段的到期日期显示在 **剩余的合作** 显示下。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-111">The expiration date for the selected period appears below the **Remaining co-op** display.</span></span>  
 
-3. <span data-ttu-id="1221f-113">所选时间段的到期日期显示在 **剩余的合作** 显示下。</span><span class="sxs-lookup"><span data-stu-id="1221f-113">The expiration date for the selected period appears below the **Remaining co-op** display.</span></span>  
+4. <span data-ttu-id="9fb4b-112">若要查看所选时间段内提交的所有声明，请滚动到页面底部。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-112">To view all claims submitted for the selected period, scroll to the bottom of the page.</span></span>
 
-4. <span data-ttu-id="1221f-114">若要查看所选时间段内提交的所有声明，请滚动到页面底部。</span><span class="sxs-lookup"><span data-stu-id="1221f-114">To view all claims submitted for the selected period, scroll to the bottom of the page.</span></span>
+<span data-ttu-id="9fb4b-113">如果您认为在 "摘要" 中显示的数量存在差异，则可以从上一期下载交易报告。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-113">If you believe that there are discrepancies in the amounts displayed in the summary, you can download the transaction report from the previous period.</span></span> <span data-ttu-id="9fb4b-114">此报表可帮助您确定所选使用时间段的合作基金量。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-114">This report will help you determine the amount of co-op funds earned for the selected usage period.</span></span> <span data-ttu-id="9fb4b-115">若要下载事务报表，或验证提交的声明以确保剩余的合作基金金额准确，请参阅 [事务历史记录](./payout-statement.md#transaction-history)。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-115">To download transaction reports, or validate claims submitted to ensure the remaining co-op amount is accurate, see [Transaction history](./payout-statement.md#transaction-history).</span></span>
 
-<span data-ttu-id="1221f-115">如果您认为在 "摘要" 中显示的数量存在差异，则可以从上一期下载交易报告。</span><span class="sxs-lookup"><span data-stu-id="1221f-115">If you believe that there are discrepancies in the amounts displayed in the summary, you can download the transaction report from the previous period.</span></span> <span data-ttu-id="1221f-116">此报表可帮助您确定所选使用时间段的合作基金量。</span><span class="sxs-lookup"><span data-stu-id="1221f-116">This report will help you determine the amount of co-op funds earned for the selected usage period.</span></span> <span data-ttu-id="1221f-117">若要下载事务报表，或验证提交的声明以确保剩余的合作基金金额准确，请参阅 [事务历史记录](./payout-statement.md#transaction-history)。</span><span class="sxs-lookup"><span data-stu-id="1221f-117">To download transaction reports, or validate claims submitted to ensure the remaining co-op amount is accurate, see [Transaction history](./payout-statement.md#transaction-history).</span></span>
+<span data-ttu-id="9fb4b-116">如果仍有问题协调金额，或者某些合作基金未显示，可以打开支持票证。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-116">If you’re still having trouble reconciling amounts, or if some co-op funds are not visible, you can open a support ticket.</span></span> <span data-ttu-id="9fb4b-117">为此，请选择页面右上角的问号图标，然后选择 " **激励**"。</span><span class="sxs-lookup"><span data-stu-id="9fb4b-117">To do this, select the question mark icon from the upper right corner of the page, and then select **Incentives**.</span></span>
 
-<span data-ttu-id="1221f-118">如果仍有问题协调金额，或者某些合作基金未显示，可以打开支持票证。</span><span class="sxs-lookup"><span data-stu-id="1221f-118">If you’re still having trouble reconciling amounts, or if some co-op funds are not visible, you can open a support ticket.</span></span> <span data-ttu-id="1221f-119">为此，请选择页面右上角的问号图标，然后选择 " **激励**"。</span><span class="sxs-lookup"><span data-stu-id="1221f-119">To do this, select the question mark icon from the upper right corner of the page, and then select **Incentives**.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="9fb4b-118">后续步骤</span><span class="sxs-lookup"><span data-stu-id="9fb4b-118">Next steps</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="1221f-120">后续步骤</span><span class="sxs-lookup"><span data-stu-id="1221f-120">Next steps</span></span>
-
-- [<span data-ttu-id="1221f-121">即刻体验奖励</span><span class="sxs-lookup"><span data-stu-id="1221f-121">Getting started with incentives</span></span>](incentives-get-started-intro.md)
+- [<span data-ttu-id="9fb4b-119">即刻体验奖励</span><span class="sxs-lookup"><span data-stu-id="9fb4b-119">Getting started with incentives</span></span>](incentives-get-started-intro.md)
