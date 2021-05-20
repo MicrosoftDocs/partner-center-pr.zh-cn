@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557777"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150499"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>使用合作伙伴中心应用于高级专用化并检查其状态
 
-**相应的角色**
-
-- 全局管理员
-- 帐户管理员
+**适当的角色**：全局管理员 |帐户管理员
 
 本文介绍如何使用合作伙伴中心仪表板来申请 [高级专用化](advanced-specializations.md)、检查进度并完成必要的步骤和验证。 你还将看到使用合作伙伴中心实现某些需要审核或客户引用的高级专用化的示例。
 
@@ -45,22 +42,22 @@ ms.locfileid: "106557777"
 
    你可以返回到合作伙伴中心的这一区域，查看当前状态以获得任何高级专用化。
 
-4. 完成高级专用化的所有要求后，请再次检查合作伙伴中心的此区域，查看特定高级专用化的状态是否已更改为 **活动** 状态。
+4. 完成高级专用化的所有要求后，再次检查此合作伙伴中心，查看特定高级专用化的状态是否更改为"活动"。 
 
-   "活动状态" 会自动在你的 **业务配置文件** 上启用高级专用化标记。 此配置文件将对尝试 [查找解决方案提供商的](https://www.microsoft.com/solution-providers/home)所有客户可见。
+   活动状态会自动在业务配置文件 上启用高级 **专用化标记**。 然后，所有尝试查找解决方案提供商 的客户都将 [看到此配置文件](https://www.microsoft.com/solution-providers/home)。
 
-## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>使用合作伙伴中心为高级专用化计划审核或包括客户引用
+## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>使用合作伙伴中心计划审核或包括高级专用化的客户参考
 
-通常，每个高级特殊化都要求您获得一个调整后的金牌能力，以及该高级特殊化独有的其他自定义必备组件。 某些高级专用化还可能需要：
+通常，每个高级专用化都需要你获得一致的黄金资格，以及该高级专用化独有的其他自定义先决条件。 某些高级专用化可能还需要你：
 
-- 使用第三方审核程序计划审核
-- 提供客户引用
+- 安排第三方审核员的审核
+- 提供客户参考
 
-这两项任务都可以在合作伙伴中心内执行。
+这两个任务都可以在 合作伙伴中心。
 
-需要对第三方审核员进行审核的高级专用化包括：
+需要第三方审核员审核的高级专用化包括：
 
-- Microsoft Azure 上的分析
+- 分析Microsoft Azure
 - 数据仓库到 Microsoft Azure 的迁移
 - Microsoft Azure 上的 Kubernetes
 - Linux 和开源数据库到 Microsoft Azure 的迁移
@@ -68,27 +65,27 @@ ms.locfileid: "106557777"
 - Web 应用程序到 Microsoft Azure 的现代化
 - Windows Server 和 SQL Server 到 Microsoft Azure 的迁移
 
-需要客户参考的高级专用化包括：
+需要客户引用的高级专用化包括：
 
 - 采用和变更管理
 - 调用 Microsoft Teams
-- Microsoft 团队的会议和会议室
+- Microsoft Teams 的会议室和会议室
 - Azure 上的 SAP
 - 团队合作部署
 - 标识和访问管理
 - 威胁防护
 
-以下部分介绍了如何在合作伙伴中心安排审核或提供客户引用。
+以下各节介绍如何计划审核或在审核中提供客户合作伙伴中心。
 
-## <a name="schedule-an-audit-with-a-third-party-auditor"></a>使用第三方审核程序计划审核
+## <a name="schedule-an-audit-with-a-third-party-auditor"></a>安排第三方审核员的审核
 
-除了自己的先决条件外，某些高级专用化还需要你传递 *计划的审核*。 请参阅前面需要审核的高级专用化的列表。
+除了自己的先决条件外，某些高级专用化还需要通过 *计划的审核*。 请参阅前面列出了需要审核的高级专用化。
 
-然后，按照以下步骤计划合作伙伴中心的审核：
+然后，按照以下步骤在下列步骤中计划合作伙伴中心：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
 
-2. 选择 "合作伙伴中心" 菜单的 " **MPN** " 部分，然后选择 " **高级**"。 菜单将展开以显示可供你使用的所有高级专用化。
+2. 选择"**专用化**"菜单的"MPN"合作伙伴中心，然后选择 **"Adv.专用化"。** 菜单将展开以显示所有可用的高级专用化。
 
 3. 选择需要计划审核的高级专用化的名称。 例如，假设您选择 **了要 Microsoft Azure 的 Web 应用程序的现代化**。 系统会针对此高级专用化显示 "先决条件" 页。
 
@@ -115,12 +112,12 @@ ms.locfileid: "106557777"
 
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="需要客户参考的高级专用专用必备页面示例。":::
 
-4. 在你满足此页上显示的所有先决条件并提供客户引用之前，你的状态将保持为 " **未启动**"。 满足所有先决条件后，状态将更改为 " **活动**"。
+4. 在你满足此页上显示的所有先决条件并提供客户引用之前，你的状态将保持为 " **未启动**"。 满足所有先决条件后，状态将更改为"活动 **"。**
 
 ## <a name="next-steps"></a>后续步骤
 
-- 详细了解 [高级专用化、其优点和独特要求](https://partner.microsoft.com/membership/advanced-specialization)。
+- 详细了解高级 [专用化、其优势和独特要求](https://partner.microsoft.com/membership/advanced-specialization)。
 
-- 了解如何获取 [Microsoft 银色或金牌成员资格能力](learn-about-competencies.md)。
+- 了解如何 [获得 Microsoft 银级或金级会员资格](learn-about-competencies.md)。
 
-- 详细了解 [Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)。
+- 详细了解Microsoft 合作伙伴网络 [能力](https://partner.microsoft.com/membership/competencies)。

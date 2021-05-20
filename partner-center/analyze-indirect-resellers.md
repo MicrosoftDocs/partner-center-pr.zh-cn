@@ -9,19 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474047"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150176"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>使用分析来分析间接经销商的性能
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
+**适当的角色**：全局管理员 |用户管理管理员
 
 
 数据推动业务决策。 使用 **经销商分析** 页面的指标来确定你的成功、你的间接经销商的成功，以及需要更多关注的领域。 在计划新业务目标时使用此信息。

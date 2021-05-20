@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570529"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148884"
 ---
 # <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>在渠道激励平台 (芯片) 中检查付款状态
 
-**相应的角色**
-
-- 芯片管理员
+**适当的角色**：芯片管理员
 
 >[!NOTE]
 >芯片平台将在2021结束时停用。

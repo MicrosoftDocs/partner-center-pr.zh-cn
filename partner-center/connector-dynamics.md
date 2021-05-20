@@ -8,19 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 035a819020097ddee2230b5541e1b477d4b34c14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284326"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148459"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>用于 Dynamics 365 CRM 概述的共同销售连接器
 
-**相应的角色**
-
-- 引荐管理员
-- CRM 上的系统管理员或系统定制员
+**适当的角色**：引用管理 |CRM 上的系统管理员或系统定制员
 
 合作伙伴中心共同销售连接器可让你的卖方与 Microsoft 在 CRM 系统中共同销售。 他们无需定型即可使用合作伙伴中心来管理共同销售交易。 使用共同销售连接器创建新的共同销售的参考，以与 Microsoft 卖方联系、接收来自 Microsoft 卖方的引用、接受或拒绝推荐，并修改交易数据（如交易价值和结束日期）。 你还可以从 Microsoft 卖方接收有关这些共同销售交易的任何更新。 你可以在所选的 CRM 中（而不是在合作伙伴中心）管理你的所有引用。
 
@@ -36,61 +33,61 @@ ms.locfileid: "108284326"
 |已做好联合销售准备|你的 IP/服务解决方案必须共同销售。|[与 Microsoft 一起销售](https://partner.microsoft.com/membership/sell-with-microsoft)|
 |合作伙伴中心帐户|与合作伙伴中心租户关联的 MPN ID 必须与共同销售解决方案关联的 MPN ID 相同。 在部署连接器之前，请确认你可以在合作伙伴中心门户中看到共同销售的引用。|[管理帐户](create-user-accounts-and-set-permissions.md)|
 |合作伙伴中心用户角色|将安装和使用连接器的员工必须是推荐管理员。|[为用户分配角色和权限](create-user-accounts-and-set-permissions.md)|
-|Dynamics 365 CRM|CRM 用户角色是系统管理员或系统定制员。|[在 Dynamics 365 中分配角色](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Power 自动化 flow 帐户|使用数据库创建新的生产环境，以便进行测试、过渡和生产。 如果你有一个具有数据库的现有生产环境，则可以重复使用它。 要安装连接器解决方案的用户必须具有对此环境的电源自动执行许可和访问权限。 如果安装失败，你可以监视进度并在 [电源自动执行](https://flow.microsoft.com/) 中获取详细信息。 选择 "**解决方案**" 下的 "**查看历史记录**"。|[创建或管理环境](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Dynamics 365 CRM|CRM 用户角色是"系统管理员"或"系统定制员"。|[在 Dynamics 365 中分配角色](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|Power Automate流帐户|使用数据库创建新的生产环境，用于测试、暂存和生产。 如果有包含数据库的现有生产环境，可以重复使用它。 要安装连接器解决方案的用户必须具有此Power Automate和访问权限。 如果安装失败，可以监视进度 [，Power Automate](https://flow.microsoft.com/) 获取详细信息。 在"**解决方案"下选择"** 查看 **历史记录"。**|[创建或管理环境](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安装适用于 Dynamics 365 (Power 自动化解决方案的合作伙伴中心引用同步) 
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安装合作伙伴中心 Dynamics 365 (Power Automate解决方案) 
 
-1. 请继续 [执行 "电源自动](https://flow.microsoft.com)"，并选择右上角的 " **环境** "。 此步骤将显示可用的 CRM 实例。
+1. 转到[Power Automate"，](https://flow.microsoft.com)然后选择右上角的"环境"。 此步骤将显示可用的 CRM 实例。
 
 1. 从右上角的下拉列表中选择相应的 CRM 实例。
 
-1. 选择左侧的 " **解决方案** "。
+1. 选择 **左侧** 的"解决方案"。
 
-1. 在顶部菜单中选择 " **打开 AppSource** " 链接。
+1. 选择顶部 **菜单上的"打开 AppSource"** 链接。
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="显示 &quot;打开 AppSource&quot; 的屏幕截图。":::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="显示 Open AppSource 的屏幕截图。":::
 
-1. 在弹出屏幕上搜索 **Dynamics 365 的合作伙伴中心引用连接器** 。  
+1. 在合作伙伴中心屏幕中搜索 **Dynamics 365** 的推荐连接器。  
 
-1. 选择 " **立即获取** " 按钮，然后选择 " **继续**"。
+1. 选择"**现在获取"** 按钮，然后选择"继续 **"。**
 
-1. 此时将显示一个页面，可在其中选择 CRM (Dynamics 365) 环境以安装应用程序。 同意条款和条件。
+1. 将出现一个页面，可在其中选择 DYNAMICs 365 (环境) CRM 应用程序。 同意条款和条件。
 
-1. 你可以监视进度，如果安装失败，你可以通过选择 "**解决方案**" 下的 "**查看历史记录**" 来获取有关 Power 自动功能的更多详细信息。
+1. 可以监视进度，如果安装失败，可以通过选择"解决方案"下的"查看历史记录Power Automate **获取详细信息****。**
 
-1. 安装完成后，请返回到 " [自动执行电源](https://flow.microsoft.com) "，并选择左侧的 " **解决方案** "。 **合作伙伴中心引用同步 Dynamics 365** 现已在 **解决方案** 列表中提供。
+1. 安装完成后，返回到"Power Automate [并选择左侧](https://flow.microsoft.com)**的"** 解决方案"。 合作伙伴中心解决方案列表中现提供 **Dynamics 365** 的推荐 **同步**。
 
-1. 选择 **Dynamics 365 的伙伴中心引用同步**。 可以使用以下功能自动执行流和实体。
+1. 选择 **合作伙伴中心 Dynamics 365 的推荐同步"**。 以下Power Automate流和实体可用。
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="显示可用 Crm 的屏幕截图。":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="显示可用 CCR 的屏幕截图。":::
 
-## <a name="test-before-you-go-live"></a>投入之前测试
+## <a name="test-before-you-go-live"></a>上台前进行测试
 
-在生产环境中安装、配置和自定义电源自动解决方案之前，请确保在过渡 CRM 实例上测试解决方案。 你将需要：
+在生产环境中安装、配置Power Automate自定义解决方案之前，请务必在过渡 CRM 实例上测试该解决方案。 你将需要：
 
-- 在过渡环境 CRM 实例上安装电源自动化解决方案。
-- 在过渡环境中配置和自定义电源自动化解决方案。
+- 在Power Automate CRM 实例上安装 Power Automate 解决方案。
+- 在过渡Power Automate配置和自定义解决方案。
 - 在过渡 CRM 实例上测试解决方案。
-- 成功测试后，将作为托管解决方案导入到生产实例。
+- 成功测试后，作为托管解决方案导入到生产实例。
 
 ## <a name="configure-the-solution"></a>配置解决方案
 
-1. 在 CRM 实例中安装解决方案后，请返回到 " [电源自动](https://flow.microsoft.com/)"。
+1. 在 CRM 实例中安装解决方案后，返回到[Power Automate。](https://flow.microsoft.com/)
 
-1. 在右上角的 " **环境** " 下拉列表中，选择在其中安装了 Power 自动解决方案的 CRM 实例。
+1. 从 **右上角** 的"环境"下拉列表中，选择安装了 Power Automate 解决方案的 CRM 实例。
 
 1. 需要创建关联三个用户帐户的连接：
 
-   - 具有引用管理员凭据的合作伙伴中心用户
+   - 合作伙伴中心引荐管理员凭据的用户
    - 合作伙伴中心事件
-   - CRM 管理员，并在解决方案中自动执行流程
+   - 具有解决方案中Power Automate流的 CRM 管理员
 
-   1. 选择左侧的 " **连接** "，并从列表中选择 " **合作伙伴中心引用** " 解决方案。
+   1. 选择 **左侧** 的"连接"，然后从 **合作伙伴中心选择"** 引荐"解决方案。
 
-   1. 通过选择 " **创建连接**" 来创建连接。
+   1. 通过选择"创建连接 **"创建连接**。
 
-         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="显示 &quot;创建连接&quot; 的屏幕截图。":::
+         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="显示&quot;创建连接&quot;的屏幕截图。":::
 
    1. 在右上角的搜索栏中搜索 " **合作伙伴中心引用 (预览")** 。
 
@@ -122,35 +119,35 @@ ms.locfileid: "108284326"
 - 创建共同销售引用– Dynamics 365 到合作伙伴中心 (预览体验中心) 
 - 来自创建或获取 Dynamics 365 流中的详细信息
 - 合作伙伴中心到 Dynamics 365-Helper (预览体验中心) 
-- 合作伙伴中心 Microsoft 共同销售对 Dynamics 365 (预览体验的引用更新) 
-- 合作伙伴中心到 Dynamics 365 (预览体验体验) 
-- Dynamics 365 到合作伙伴中心 (预览体验) 
-- Dynamics 365 到合作伙伴中心 (有问必答预览版的机会) 
-- Dynamics 365 的 Microsoft 解决方案到合作伙伴中心 (预览体验) 
+- 合作伙伴中心 Microsoft 联合销售 Dynamics 365 (Insider Preview) 
+- 合作伙伴中心 Dynamics 365 (Insider Preview) 
+- Dynamics 365 合作伙伴中心 (Insider Preview) 
+- Dynamics 365 预览体验合作伙伴中心 (预览版) 
+- Dynamics 365 Microsoft Solutions to 合作伙伴中心 (Insider Preview) 
  
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 webhook Api 注册资源更改事件
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook API 注册资源更改事件
 
-你可以使用合作伙伴中心 webhook Api 来注册资源更改事件。 这些更改事件以 HTTP post 的形式发送到你的 URL。
+可以使用 webhook 合作伙伴中心注册资源更改事件。 这些更改事件作为 HTTP 帖子发送到 URL。
 
-1. 选择 " **合作伙伴中心到 Dynamics 365 (预览体验预览")**。
+1. 选择 **合作伙伴中心 Dynamics 365 (Insider Preview) "**。
 
-1. 选择 " **编辑** " 图标，然后选择 " **收到 HTTP 请求时**"。
+1. 选择"**编辑"** 图标，然后选择 **"收到 HTTP 请求时"。**
 
-1. 选择 **复制** 图标以复制提供的 HTTP POST URL。
+1. 选择" **复制"** 图标以复制提供的 HTTP POST URL。
 
-   :::image type="content" source="images/webhook-video.gif" alt-text="屏幕截图，显示如何使用 webhook 来注册资源更改。":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="显示使用 Webhook 注册资源更改的屏幕截图。":::
 
-1. 选择 " **合作伙伴中心 Webhook 注册 (内幕预览版")** "Power 自动流"，然后选择 " **运行**"。
+1. 选择 **"合作伙伴中心预览 (预览版) Power Automate Webhook** 注册"，然后选择"运行 **"。**
 
-1. 确保在右窗格中打开 " **运行流** " 窗口，并选择 " **继续**"。
+1. 确保在右 **窗格中打开"运行** 流"窗口，然后选择"继续 **"。**
 
 1. 输入以下详细信息：
 
-   - **Http 触发器终结点**：此 URL 已从前面的步骤中复制。
-   - **要注册的事件**：选择所有可用事件 (**引用创建** 的、 **引用更新**、 **相关的** 引用-已创建的、与引用 **相关** 的) 。
-   - **是否覆盖现有触发器终结点（如果存在**）：是。 对于给定的 webhook 事件，只能注册一个 URL。
+   - **Http 触发器终结点**：此 URL 是从前面步骤复制的。
+   - **要注册的事件**：选择所有可用事件 (引用 **创建**、引荐更新、**相关** 引荐创建以及相关引荐 **更新**) 。
+   - **覆盖现有的触发器终结点（如果存在）？：** 是。 只能为给定的 Webhook 事件注册一个 URL。
 
-1. 选择 " **运行流**"，然后选择 " **完成"。**
+1. 选择 **"运行流**"，然后选择" **完成"。**
 
 Webhook 现在可以侦听、创建和更新事件。
 
@@ -180,31 +177,31 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
 
 - **机会字段**：如果存在需要填充的 **机会** 中的必填字段，请编辑 **[自定义] 创建或获取来自 Dynamics 365 flow 的详细信息** ，然后转到 CRM 中的 " **创建" 或 "更新机会** "，然后根据您的业务要求，"更新 **创建新的机会" 操作** 以将值分配到必填字段。
 - **潜在顾客字段**：如果 **lead** 中有需要填充的必填字段，请编辑 **[自定义] 创建或获取 Dynamics 365 流中的详细信息** ，然后转到 **创建或更新** CRM 中的潜在客户，并更新 **创建新的潜在客户操作** ，根据业务需求将值分配到必填字段。
-- **客户帐户**：如果新的引用从合作伙伴中心同步到 crm，则 Power 自动解决方案将尝试使用客户公司名称和邮政编码搜索 CRM 中的现有帐户。 如果找不到，将在 CRM 中创建新的客户帐户。 若要更新搜索条件和新建帐户创建详细信息，请编辑 **[自定义] 创建或从 Dynamics 365 流中获取详细信息** ，然后转到 **创建或获取** CRM 中的客户帐户并 **创建客户帐户操作**。
+- **客户帐户**：将新引荐从 合作伙伴中心 同步到 CRM 时，Power Automate 解决方案会尝试使用客户公司名称和邮政编码在 CRM 中搜索现有帐户。 如果找不到帐户，将在 CRM 中创建一个新的客户帐户。 若要更新搜索条件以及新帐户创建详细信息，请编辑 **[自定义] 从 Dynamics 365** 流创建或获取详细信息，然后转到在 CRM 中创建或获取客户帐户和 **创建客户帐户操作**。
 
 ## <a name="update-environment-variable"></a>更新环境变量
 
 更新环境变量值：
 
-1. 请在 " **解决方案** " 页上，选择 " **默认解决方案**"。 选择 "**全部**" 以选择 **环境变量**。
+1. 转到"解决方案 **"页**，然后选择"**默认解决方案"。** 选择 **"所有"，** 选择"环境 **变量"。**
 
-1. 选择需要更新的值的环境变量，并使用省略号图标选择 " **编辑** "。
+1. 为需要更新的值选择环境变量，然后使用省略号图标选择"编辑"。
 
-1. 更新 **当前值** (不要使用 "**新建值**" 选项并提供值来更新 **默认值**) 。 该值必须与变量的数据类型匹配。 例如，"是" 或 "否" 数据类型将接受 Yes 或 No 值。
+1. 更新 **当前 (** 不通过使用"新建值") 提供值来更新默认值值。  值必须与变量的数据类型匹配。 例如，"是"或"否"数据类型将接受"是"或"否"值。
 
-   :::image type="content" source="images/environment-variables-video.gif" alt-text="显示更新环境变量的屏幕截图。":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="显示&quot;更新环境变量&quot;的屏幕截图。":::
 
-## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>端到端双向共同销售引用同步
+## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>端到端双向联合销售引荐同步
 
-安装、配置和自定义电源自动解决方案后，可以测试 Dynamics 365 和合作伙伴中心之间的共同销售引用同步。
+安装、配置和自定义 Power Automate 解决方案后，可以测试 Dynamics 365 和 合作伙伴中心 之间的联合销售引荐同步。
 
 ### <a name="prerequisites"></a>先决条件
 
-若要跨伙伴中心和 Dynamics 365 CRM 同步引用，Power 自动化解决方案可以清晰地划分 Microsoft 特定的引用字段。 此标识使你的卖方团队能够确定他们要与 Microsoft 共享哪些推荐以共同销售。
+为了跨 合作伙伴中心 和 Dynamics 365 CRM 同步引荐，Power Automate解决方案明确划分了特定于 Microsoft 的引荐字段。 此标识使卖方团队能够决定要与 Microsoft 共享哪些引荐进行联合销售。
 
-一组自定义字段和对象将作为解决方案安装的一部分添加。 CRM 管理用户需要使用 **机会** 自定义字段创建一个单独的 CRM 部分。
+将在解决方案安装过程中添加一组自定义字段和对象。 CRM 管理员用户需要创建包含"机会"自定义字段 **的单独** CRM 部分。
 
-以下自定义字段应为 CRM 部分的一部分：
+以下自定义字段应是 CRM 部分的一部分：
 
 - **与合作伙伴中心同步**：是否要将此机会与合作伙伴中心同步。 默认情况下，此字段的值为 "否"，并且你的卖方需要将其显式设置为 "是"，以便与 Microsoft 共享机会。 从合作伙伴中心到 CRM 共享的新引用将此字段值设置为 "是"。
 - **引用标识符**：合作伙伴中心引用的只读标识符字段。
@@ -248,29 +245,29 @@ CRM 系统经过高度自定义，你可以基于 CRM 设置自定义电源自�
       
         :::image type="content" source="images/dynamic-4a.png" alt-text="显示解决方案 ID 的屏幕截图。":::
 
-   1. 在 Dynamics 365 中创建机会后，在 " **与合作伙伴中心同步** " 选项设置为 "是" 后，等待10分钟。 然后登录到合作伙伴中心帐户。 你的引用将与 Dynamics 365 和 **引用标识符** 同步。 将填充 **引用链接**。 如果出现故障，则将使用错误信息填充 **审核** 字段。
+   1. 在 Dynamics 365 中创建机会后，将"与 合作伙伴中心 同步"选项设置为 **"是** ，等待 10 分钟"。 然后登录到你的合作伙伴中心帐户。 引荐将与 Dynamics 365 和引 **荐标识符 同步**。 **将填充** 引荐链接。 如果失败，"审核"字段将填充错误信息。
      
-    1. 同样，如果将 " **与合作伙伴中心同步** " 选项设置为 "是"，则在 DYNAMICS 365 CRM 中更新该机会时，所做的更改将在你的合作伙伴中心帐户中同步。
+    1. 同样，对于将"与 **合作伙伴中心** 同步"选项设置为"是"的机会，如果在 Dynamics 365 CRM 中更新机会，所做的更改将在 合作伙伴中心 帐户中同步。
 
-    1. 与合作伙伴中心成功同步的机会将用 Dynamics 365 中的✔图标标识。
+    1. 成功与 合作伙伴中心 同步的机会将在 Dynamics 365 ✔通过 ✔icon 进行标识。
 
-1. 当在合作伙伴中心创建或更新引用并在 Dynamics 365 环境中同步时，引用同步：
+1. 在 Dynamics 365 环境中合作伙伴中心或更新引荐时进行引荐同步：
 
-   1. 登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)。
+   1. 登录到 合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard/home)。
 
-   1. 从左侧菜单中选择 " **引用** "。
+   1. 从 **左侧菜单中** 选择"引荐"。
 
-   1. 通过选择 " **新建交易** " 选项，从合作伙伴中心创建新的共同销售引用。
+   1. 通过选择"新建交易"合作伙伴中心新建联合 **销售** 引荐。
 
    1. 登录到 Dynamics 365 CRM 环境。
 
-   1. 前往 **开放机会**。 现在，在合作伙伴中心创建的引用同步到 Dynamics 365 CRM 中。
+   1. 转到"**打开机会"。** 现在，在 合作伙伴中心 中创建的引荐在 Dynamics 365 CRM 中同步。
 
-   1. 选择同步的引用时，将填充卡片视图详细信息。
+   1. 选择同步的引荐时，将填充卡片视图详细信息。
 
 ## <a name="next-steps"></a>后续步骤
 
 - [管理潜在客户](manage-leads.md)
 - [管理联合销售机会](manage-co-sell-opportunities.md)
-- [有关 Microsoft Power 自动化平台的详细信息](/power-automate/)
+- [有关 Microsoft Power Automate 平台](/power-automate/)
 - [合作伙伴中心 Webhook](/partner-center/develop/partner-center-webhooks)

@@ -9,23 +9,18 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 54f3afc36e51299b6b8656eecdeff67628128580
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964398"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148544"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>适用于合作伙伴中心的 CSP 计划合作伙伴的常见计费方案
 
-**相应的角色**
+**适当的角色**：管理代理 |计费管理 |支持人员代理 |销售代理
 
-- 管理员代理
-- 计费管理员
-- 支持人员代理
-- 销售代理
-
-这些文章解释了在添加新订阅、调整订阅的许可证数量或取消订阅后，应在帐单上看到的内容。 其他 [合作伙伴中心计费类型](billing-different-types.md)（例如基于使用情况和基于许可证的订阅）以不同方式计费。
+这些文章解释了在添加新订阅、调整订阅的许可证数量或取消订阅后，应在帐单上看到的内容。 其他 [合作伙伴中心计费类型](./billing-basics.md)（例如基于使用情况和基于许可证的订阅）以不同方式计费。
 
 
 ## <a name="change-billing-frequency"></a>更改计费频率

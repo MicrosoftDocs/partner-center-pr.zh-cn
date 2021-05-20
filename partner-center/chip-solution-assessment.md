@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: df7418e48832344fd6de052a7387a2f5c8368363
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354587"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148833"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>在芯片上查找解决方案评估机会状态
 
-**相应的角色**
-
-- 主要联系人或计划管理员
+**适当的角色**：主要联系人或计划管理员
 
 合作伙伴可以在芯片上查看解决方案评估机会状态。
 
@@ -38,31 +36,31 @@ ms.locfileid: "97354587"
  
 1. 返回到搜索结果，然后单击相关的交易名称以检索交易详细信息。 
 
-1. 根据步骤4到步骤6中的信息，确定是否已满足激励收益的最低要求。 如果尚未满足任何需求，请执行以下操作：
+1. 根据步骤4到步骤6中的信息，确定是否满足激励收益的最低要求。 如果尚未满足任何需求，请执行以下操作：
  
      - 如果尚未上传 POE，则需要将其上传到芯片。
  
      - 打开芯片，然后用你的 Microsoft 帐户登录 (上一个 Live ID) 。
  
-     - 选择 **解决方案评估奖励。**
+     - 选择 **"解决方案评估奖励"。**
 
-     - 在 "**我需要 ...** " 下 部分中，单击 " **搜索**"。
+     - 在 **"我需要...** 部分，单击"**搜索交易"。**
 
-     - 在 " **机会** " 框中键入您的机会 ID，然后单击 " **搜索**"。
+     - 在"机会"框中键入 **机会** ID，然后单击"搜索 **"。**
 
-     - 显示机会后，单击 " **提交**"。
+     - 机会可见后，单击"提交 **"。**
   
-     - 在 "新建 POE" 菜单中，浏览到所需的 POE 文档并将其选中。
+     - 在新的 POE 菜单中，浏览到所需的 POE 文档并选择它。
 
      - 单击“上载文档”。
 
-     - 根据需要重复执行此操作多次以上传所有必需的文档。
+     - 根据需要多次重复此操作以上传所有必需的文档。
 
-     - 所有文档上传完毕后，单击 " **提交**"。
+     - 上传所有文档后，单击"提交 **"。**
 
-如果未选中 "EM 批准" 复选框，请联系解决方案评估专家 (SAS) 以查看并提供批准。
+如果未选中"EM 审批"复选框，请联系解决方案评估专家 (SAS) 评审并提供审批。
  
-如果你有其他问题，或者想要提交支持票证，请单击 " [支持](report-problems-with-partner-center.md)"。
+如果你有其他问题或想提交支持票证，请单击"支持["。](report-problems-with-partner-center.md)
 
 ## <a name="next-steps"></a>后续步骤
 

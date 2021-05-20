@@ -2,39 +2,37 @@
 title: 访问 CHIP 时出现问题
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 阅读这些准则，以帮助你解决使用通道激励平台 (芯片) 工具时遇到的问题。
+description: 阅读以下指南，帮助你排查使用 Channel Incentives Platform (CHIP) 工具的问题。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570597"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149054"
 ---
-# <a name="troubleshoot-issues-with-accessing-chip"></a>排查访问芯片问题
+# <a name="troubleshoot-issues-with-accessing-chip"></a>排查访问 CHIP 时的问题
 
-**相应的角色**
-
-- 主要联系人或计划管理员
+**适当的角色**：主要联系人或计划管理员
 
 >[!NOTE]
->芯片平台将在2021结束时停用。
+>CHIP 平台将于 2021 年底停用。
 
-如果你不是主要联系人或 PPA (主要的程序管理员) ，请联系你的主要联系人或 PPA (主要的程序管理员) 以获取访问权限。 如果你是当前 PPA，请确保你的公司已注册并注册，因为你的访问权限与你的公司状态关联。
+如果你不是主要联系人或 PPA (主要计划管理员) ，请联系主要联系人或 PPA (主要计划管理员) 访问。 如果你是当前的 PPA，请确保公司已注册，因为访问权限与公司状态关联。
 
-如果你是主要联系人或 PPA (主要的程序管理员) ，则你应该有权访问芯片，因为注册的所有通知都将发送到当前主要联系人或 PPA (主计划管理员) 。 此访问将在初始注册时间段后继续。
+如果你是主要联系人或 PPA (主要计划管理员) ，则你应该有权访问 CHIP，因为所有注册通知将发送到当前主要联系人或 PPA (主要计划管理员) 。 此访问将在初始注册期后的每个时间段继续。
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>故障排除步骤，以帮助访问芯片（如果你之前访问）
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>排查在访问 CHIP 时提供帮助的步骤（如果以前具有访问权限）
 
-1. 清除所有 cookie 并在专用浏览器中打开芯片。
-1. 在浏览器中选择 " **兼容性视图设置** "。 芯片应该已在 Microsoft.com 下列出，否则，请添加该网站。
+1. 清除所有 Cookie，在专用浏览器中打开 CHIP。
+1. 在 **兼容性视图选择** "设置"。 CHIP 应已列在 Microsoft.com，否则请添加网站。
 
 ## <a name="next-steps"></a>后续步骤
 
-- [导航渠道奖励平台 (芯片) ](chip-intro.md)
+- [导航 Channel Incentives Platform (CHIP) ](chip-intro.md)
 - [支持](report-problems-with-partner-center.md)

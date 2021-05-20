@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354400"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148867"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>解决方案评估付款状态和计算信息
 
-**相应的角色**
-
-- 主要联系人或计划管理员
+**适当的角色**：主要联系人或计划管理员
 
 您可以查看芯片中解决方案评估机会状态的付款状态。
 
@@ -44,15 +42,15 @@ ms.locfileid: "97354400"
 
 ## <a name="calculations-for-solutions-assessment"></a>解决方案评估的计算
 
-使用定义的费用计划，Microsoft 区域运营中心将计算并处理相关的激励费，每月支付一次支付。
+使用定义的费用计划，Microsoft 区域运营中心将计算并处理相关的奖励费用，并按月付款。
 
-商机必须具有以下所有属性才能出现在此付款批准报表中：
+机会必须具有以下所有属性才能出现在此付款审批报告中：
 
 1. 必须批准解决方案评估奖励。
 
-1. 在 MSX 中批准激励时，解决方案评估合作级别本地属性速率级别设置为 "预订"。
+1. 在 MSX 中批准奖励时，为活动设置"解决方案评估参与级别"本地属性"费率级别"。
  
-1. 必须选中 "全选" 复选框，并在芯片中将其提交。
+1. EM 在 CHIP 中必须选中并提交"EM 评审"复选框。
 
 ## <a name="next-steps"></a>后续步骤
 

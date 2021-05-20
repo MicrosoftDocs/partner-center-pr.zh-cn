@@ -1,7 +1,7 @@
 ---
 title: 在 合作伙伴中心
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何为客户销售 Microsoft 发布的产品以及第三方 ISV 发布的 SaaS 产品的订阅。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148188"
+ms.locfileid: "110201402"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>创建、暂停或取消客户订阅
 
@@ -29,6 +29,9 @@ ms.locfileid: "110148188"
 >[!IMPORTANT]
 > 作为 CSP 计划的合作伙伴，可以从云解决方案提供商的 ISV发布者购买基于许可证或按流量计费的 SaaS 合作伙伴中心。 这意味着，你可以购买 ISV 发布者提供给你的任何基于许可证或按流量计费的 **SaaS** 产品/服务 [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)，包括你有权访问的独占产品/服务。  若要从 ISV 购买或管理其他商业市场产品/服务 (例如涉及 Azure 应用程序、容器或 VM) 的基于使用情况的产品/服务，必须转到[Azure 门户。](https://portal.azure.com/)
 
+>[!NOTE]
+>所有日期和时间在 合作伙伴中心 UTC 协调世界时标准 () 给定。 这可能与本地时间最多相差 24 小时。
+
 ## <a name="create-a-new-subscription"></a>创建新订阅
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard)。
@@ -42,7 +45,7 @@ ms.locfileid: "110148188"
    - **计费类型**：选择想要使用的订阅计费类型： **许可证** 或 **使用情况**。 请参阅 [基于许可证的](license-based-billing.md) 计费，了解有助于在每月和按年计费频率之间做出决定的信息。
    - **类别**：选择 **"企业****"、"小型企业"** 或"**试用"。** 若要了解试用版订阅，请参阅[为客户提供 Microsoft 产品试用版](offer-your-customers-trials-of-microsoft-products.md)。
 
-5. 选择要为客户购买的产品订阅。 你看到的产品取决于教育、政府 (等的客户细分类型) 应用的筛选器。 Marketplace 上显示的某些产品/服务可能并不总是用于特定客户或特定的 CSP 合作伙伴。 这可能是因为：
+5. 选择要为客户购买的产品订阅。 所看到的产品取决于客户段的类型 (教育、政府等 ) 和应用的筛选器。 Marketplace 上显示的某些产品/服务可能并不总是用于特定客户或特定的 CSP 合作伙伴。 这可能是因为：
 
    - 该客户已订阅该产品，只允许使用一个
 
@@ -66,7 +69,7 @@ ms.locfileid: "110148188"
     >[!NOTE]
     > 你和你的客户都不会收到一封电子邮件，其中包含为此类型的 ISV 订阅设置/预配的说明。 ) 
 
-    - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划中的合作伙伴，你不能停征你为客户购买的产品/服务的免费试用期。 免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，订阅将按照相同的计划自动续订。
+    - 如果订阅附带30天的免费试用版，则将自动应用免费试用期。 作为 CSP 计划的合作伙伴，你无法放弃为客户购买的产品/服务的免费试用期。 免费试用期结束后，订阅期限将开始，订阅将转换为付费状态。 然后，订阅将按照相同的计划自动续订。
    
 ## <a name="update-subscriptions-with-add-ons"></a>更新具有加载项的订阅 
 
@@ -127,7 +130,7 @@ ms.locfileid: "110148188"
 
 - 如果在下单后的 14 天内取消，则取消将安排在续订时发生。
 
-这些时间段结束后，将不再显示取消订阅的选项。
+在这些时间段结束后，你将无法再看到取消订阅的选项。
 
 > [!NOTE]
 > 使用虚拟机或容器的基于使用情况和计量的第三方 ISV 服务 (，例如) 不适合返回。 基于使用情况的服务可以取消预配为取消方法。 由于在使用后费用会计费，因此这些服务没有资格获得退款。
@@ -159,7 +162,7 @@ ms.locfileid: "110148188"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 选择 **订阅**。 这会列出已为客户购买的任何基于许可证的订阅。
+3. 选择“订阅”。 这会列出已为客户购买的任何基于许可证的订阅。
 
 4. 在 " **订阅** " 列中，选择要修改的订阅。
 

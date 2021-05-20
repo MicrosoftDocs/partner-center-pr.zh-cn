@@ -9,18 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f54e5e91dd63e5ceeaa3c25b929823e6d731d7d0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149309"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft 合作伙伴网络权益常见问题解答
 
-**相应的角色**
-
-- MPN 合作伙伴管理员
+**适当的角色**： MPN 合作伙伴管理员
 
 以下文章解答了一些主要问题 Microsoft 合作伙伴网络 (MPN) 合作伙伴对其 MPN 成员资格权益、胜任度和产品许可证的了解。
 
@@ -38,30 +36,30 @@ A. 如果你的胜任度日期介于2021年1月1日和6月30日之间，我们�
 
  在续订资格之前，公司的全局管理员或帐户管理员需要查看和更新业务信息。 他们可以访问合作伙伴中心的公司配置文件来查看状态和查看需要更新的信息。 若要验证你的信息，可能需要其他文档。  
 
- 续订时段开始于购买日期一周年后加一天。 例如，如果你购买了2020年9月1日的 Microsoft Action Pack，则30天续订期将于2021年9月2日开始。 公司中的全局管理员和 MPN 管理员角色将接收到你的年周年日期和30天后的续订通信。 在续订时段内，你将可以继续获得相关权益。
+ 续订时段开始于购买日期一周年后加一天。 例如，如果你购买了2020年9月1日的 Microsoft Action Pack，则30天续订期将于2021年9月2日开始。 公司中的全局管理员和 MPN 管理员角色将接收到你的年周年日期和30天后的续订通信。 在续订时段内，你将继续有权访问关联的权益。
 
- 有关其他信息，请访问 [续订 MPN 产品/服务](renew-mpn-offers.md)。
+ 有关其他信息，请访问续订 [MPN 产品/服务](renew-mpn-offers.md)。
 
 **问：何时可以续订 Microsoft Action Pack？**
 
-答：你的公司可以在你的续订时段内续订你的 Microsoft Action Pack。
+答：你的公司可以在续订Action Pack合作伙伴中心续订 Microsoft 订阅。
 
-在续订你的 Action Pack 之前，你的公司的全局管理员或帐户管理员将需要查看和更新你的公司业务信息。 他们可以在合作伙伴中心访问公司的个人资料，查看状态并了解需要更新的信息。 若要验证你的信息，可能需要其他文档。  
+在续订Action Pack，公司的全局管理员或帐户管理员需要查看和更新公司业务信息。 他们可以访问公司的个人资料，合作伙伴中心状态并了解需要更新的信息。 可能需要其他文档来验证信息。  
 
- 续订时段开始于购买日期一周年后加一天。 例如，如果你购买了2020年9月1日的 Microsoft Action Pack，则30天的续订期将于2021年9月2日开始。在续订时段内，你将可以继续获得相关权益。
+ 续订时段开始于购买日期一周年后加一天。 例如，如果你在 2020 年 9 月 1 日购买了 Microsoft Action Pack，则 30 天的续订期从 2021 年 9 月 2 日开始。在续订时段内，你将继续有权访问关联的权益。
 
  有关其他信息，请访问 [续订 MPN 产品/服务](renew-mpn-offers.md)
 
-**问： Microsoft Action Pack 和学习 Action Pack 之间的区别是什么？**
+**问：Microsoft Action Pack与 Learning Action Pack？**
 
-答： Microsoft Action Pack 是一系列资源，旨在帮助合作伙伴熟悉 Microsoft 技术并构建解决方案/服务。 不管是否有资格，都可以购买一个 Microsoft Action Pack。
+答：Microsoft Action Pack是一个资源组合，可帮助你等合作伙伴熟悉 Microsoft 技术并构建解决方案/服务。 无论你是否具有Action Pack，都可以购买一个 Microsoft 产品/服务。
 
-学习 Action Pack 是学习合作伙伴计划的入门级。 该学习计划为提供技术培训和/或学习实践的企业提供资源。 [学习 Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)提供课件、Marketplace 和权益的折扣，有助于合作伙伴在各种 Microsoft 产品线之间成为专家。
-请参阅 Microsoft Action Pack 和学习 Action Pack 的 [许可表](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) 。
+学习Action Pack是学习合作伙伴计划的入口点。 学习计划为提供技术培训和/或具有学习实践的企业提供资源。 学习 [Action Pack](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) 提供课程、市场和权益的折扣，帮助合作伙伴成为各种 Microsoft 产品系列中的专家。
+请参阅 Microsoft [Action Pack](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) 和 Learning Action Pack 的许可表。
 
-**问：** **30 天续订期内我们的资格或 Action Pack 权益会发生什么情况？**
+**问****：在 30** 天续订Action Pack我们的资格或权益会发生什么情况？
 
-答：根据 MPN 协议，只要你的成员资格处于活动状态，你就可以继续访问计划权益。 成员资格过期后，将无法访问权益。
+答：根据 MPN 协议，只要成员身份处于活动状态，你将继续有权访问计划权益。 成员资格过期后，将无法访问权益。
 
  有关其他信息，请访问 [续订 MPN 产品/服务](renew-mpn-offers.md)
 
@@ -91,32 +89,32 @@ A. 如果你的胜任度日期介于2021年1月1日和6月30日之间，我们�
 
 **问：如果使用了所有安装和激活，我们是否可以获得更多的产品密钥？**
 
-答：颁发的某些产品密钥是 (MAK) 的多个激活密钥。 这些产品的安装、激活或座位数量有限。 当使用所有安装和激活时，产品密钥将停止工作。 不会授予这些产品密钥的其他激活权限。
+答：颁发的某些产品密钥是 (MAK) 的多个激活密钥。 这些产品的安装、激活或席位数量有限。 使用所有安装和激活后，产品密钥将停止工作。 不会授予这些产品密钥的其他激活权限。
 
  有关其他信息，请访问 Microsoft 合作伙伴计划指南 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**问：如果我们决定不续订我们的资格或 Microsoft Action Pack，是否仍可使用本地软件产品许可证？**
+**问：如果我们决定不续订资格或 Microsoft Action Pack，是否仍可使用本地软件产品许可证？**
 
-答：否。 胜任度和 Microsoft Action Pack 附带的本地软件产品许可证不是永久性的。
-你有权使用这些许可证，只需在你的成员资格内使用。 如果你选择不续订胜任度或 Action Pack，你将需要通过商业许可获取许可权限或卸载通过 Microsoft 合作伙伴网络获取的任何本地软件。
-
-有关其他信息，请访问 Microsoft 合作伙伴计划指南 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
-
-**问： Microsoft Action Pack 包括 Visual Studio Enterprise 订阅吗？**
-
-答：不能，Microsoft Action Pack 仅包括 Visual Studio Professional 订阅。
+答：否。 资格认证和 Microsoft 许可中包含的本地软件产品Action Pack不是永久性的。
+你有权并且有权仅在成员资格期间使用这些许可证。 如果选择不续订资格或许可，则需要通过商业许可获取许可证权限，或卸载通过 Microsoft 合作伙伴网络 获取的任何本地Action Pack。
 
 有关其他信息，请访问 Microsoft 合作伙伴计划指南 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**问：我们是否可以共享胜任度或 Microsoft Action Pack 附带的 Visual Studio 订阅？**
+**问：Microsoft Action Pack是否Visual Studio Enterprise订阅？**
 
-答：不可以，Visual Studio 订阅按用户授权，必须分配和激活才能有效。 禁止共享登录凭据。
+答：否，Microsoft Action Pack仅Visual Studio Professional订阅。
 
 有关其他信息，请访问 Microsoft 合作伙伴计划指南 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
 
-**Q.** **我们如何知道****公司的** 产品许可证有多少？
+**问：我们能否共享Visual Studio资格认证或 Microsoft 订阅中包含的Action Pack？**
 
-A. 你可以查看和管理产品许可证以及合作伙伴中心内 Action Pack 的其他权益。 有关详细信息，请参阅 [管理合作伙伴网络权益](manage-your-partner-network-benefits.md)。
+答：否，Visual Studio每个用户授予许可，必须分配并激活这些订阅，这些订阅必须有效。 禁止共享登录凭据。
+
+有关其他信息，请访问 Microsoft 合作伙伴计划指南 [aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+
+**Q.** **如何知道公司有多少个产品****许可证？**
+
+A. 可以查看和管理产品许可证和其他权益，这些权益包含在你的资格认证或Action Pack中合作伙伴中心。 有关详细信息， [请通过管理合作伙伴网络权益了解](manage-your-partner-network-benefits.md)。
 
 **：.公司如何使用通过胜任度或 Action Pack 提供给我们的产品许可证？**
 
@@ -133,19 +131,19 @@ A. 胜任度和 Action Pack 中包含的产品许可证的使用条款不同于�
 
 **：.我们最近合并了/获取了具有资格的 Microsoft 合作伙伴网络中的另一家公司。使用合作伙伴中心的帐户合并功能时，我们是否会保留当前的所有产品许可证？**
 
-A. 通过合作伙伴全局帐户在合作伙伴中心完成胜任度和 Action Pack 购买。 如果使用合作伙伴中心的帐户合并功能，则每个帐户的现有权益将保持原样，直到下一次续订。 续订后，为合作伙伴公司的合作伙伴全局帐户实现胜任度和 Action Pack 中包含的权益。
+A. 通过合作伙伴全局帐户在合作伙伴中心完成胜任度和 Action Pack 购买。 如果使用合作伙伴中心的帐户合并功能，则每个帐户的现有权益将保持原样，直到下一次续订。 续订后，将针对合作伙伴公司的合作伙伴全局帐户Action Pack资格认证和资格认证中包含的权益。
 
--   Microsoft Action Pack：合作伙伴公司可以每个合作伙伴全局帐户购买一个 Action Pack。
+-   Microsoft Action Pack：合作伙伴公司可以购买一Action Pack合作伙伴全局帐户。
 
--   资格：合作伙伴公司将会获得一个核心权益包，它与最高的实现相关联，并且合作伙伴在合作伙伴全局帐户中有资格享有特定于胜任度的权益。
+-   资格：合作伙伴公司将获得一组核心权益，这些权益与其最高资格相关联，以及合作伙伴在合作伙伴全球帐户中有资格享受的特定于资格的权益。
 
- 查看有关 [帐户合并](merge-accounts.md) 的信息，详细了解功能的工作原理，以及如何确定它是否适合你的公司需求。
+ 查看有关 [帐户合并的信息](merge-accounts.md) ，详细了解该功能的工作原理以及如何确定它是否适合公司的需求。
 
-**Q.** **我们对****合作伙伴中心的产品许可证有疑问。我们在何处获得帮助？**
+**Q.** **我们对公司的产品** 许可证 **有疑问合作伙伴中心。我们在哪里获得帮助？**
 
-A. 如果需要，你可以前往 [合作伙伴中心的支持部分](https://partner.microsoft.com/support) ，以获取可能有帮助的资源的链接，或与我们的合作伙伴支持团队合作。
+A. 可以转到 合作伙伴中心[](https://partner.microsoft.com/support)的支持部分，了解可能有所帮助的资源的链接，或者根据需要向合作伙伴支持团队创建票证。
 
 ## <a name="next-steps"></a>后续步骤
 
 - [找到你的 Microsoft 合作伙伴网络权益](mpn-find-benefits.md)
-- [续订 MPN 提议](renew-mpn-offers.md)
+- [续订 MPN 产品/服务](renew-mpn-offers.md)

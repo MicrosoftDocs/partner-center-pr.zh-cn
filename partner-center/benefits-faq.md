@@ -2,61 +2,59 @@
 title: 关于权益的常见问题解答
 ms.topic: article
 ms.date: 12/15/2020
-description: 解答有关 Azure、cloud、Visual Studio 和技术和支持权益的权益过期、续订和激活许可证的问题
+description: 有关 Azure、云、云、Visual Studio权益到期、续订和激活许可证的问题的解答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 8a81e287412394427003e489352312faba6984b9
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 7c3ee29099a072de3e508fcdfcfd965082522895
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557692"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149275"
 ---
 # <a name="benefits-faq"></a>关于权益的常见问题解答
 
-**相应的角色**
+**适当角色**：MPN 合作伙伴管理员
 
-- MPN 合作伙伴管理员
-
-本文介绍了有关 Microsoft 合作伙伴网络 (MPN) 优点的许多常见问题。
+本文解决了有关 MICROSOFT 合作伙伴网络 (MPN) 权益的许多常见问题。
 
 
 ## <a name="general-questions"></a>一般问题
 
-### <a name="q-what-does-benefit-expiry-date-mean"></a>Q. "收益到期日期" 的含义是什么
+### <a name="q-what-does-benefit-expiry-date-mean"></a>Q. "权益到期日期"的含义是什么
 
-权益到期日期表示激活权益的最后日期。
+权益到期日期表示激活权益的最后一个日期。
 
-在续订日期之前，请先兑换在一年注册期间可用的权益。 可以从 MPN 仪表板中的 " [成员资格产品](https://partner.microsoft.com/dashboard/mpn/offers) " 页找到续订开始日期。
+在续订日期之前，你才能兑换一年注册期间提供的权益。 可以从 MPN 仪表板的"成员资格产品/服务 ["](https://partner.microsoft.com/dashboard/mpn/offers) 页找到续订开始日期。
 
-不过，你可以使用产品密钥，从你在各自的云门户上兑换密钥的那一天开始。
+但是，可以在各自的云门户中兑换密钥的一年后使用产品密钥。
 
-例如，如果权益到期日期为2021年1月31日，则需要在2021之前兑换相应云门户中的密钥。 如果你在2020年12月1日兑换你的产品密钥，则可以使用该密钥到2021年12月1日，即使你的权益到期日期为1月31日。
+例如，如果权益到期日期为 2021 年 1 月 31 日，则需要在 2021 年 1 月 31 日之前在相应的云门户中兑换密钥。 如果在 2020 年 12 月 1 日兑换产品密钥，可以在 2021 年 12 月 1 日之前使用该密钥，即使权益到期日期为 1 月 31 日。
 
 >[!NOTE]
->如果有一些权益需要用户分配 (如 Visual Studio 订阅) ，可以在注册续订日期后的30天内激活并使用这些权益。
+>如果你有需要用户分配权益 (例如 Visual Studio 订阅) ，可以在注册续订日期后 30 天内激活和使用这些权益。
 
 ### <a name="q-how-do-i-renew-my-benefits"></a>Q. 如何实现续订我的权益
 
-使用以下过程来续订权益：
+使用以下过程续订权益：
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在左侧导航栏中，选择 " **MPN**"。
+2. 在左侧导航中，选择 **"MPN"。**
 
-3. 在 " **MPN** " 选项卡上，选择 " **权益** " 选项。
+3. 在 **"MPN"** 选项卡上，选择 **"权益"** 选项。
 
-4. 激活所需权益。
+4. 激活你需要的权益。
 
-如果你想要的权益不可用，则需要续订你的合作伙伴中心成员身份，然后重复上述过程。
+如果所需的权益不可用，则需要续订合作伙伴中心并重复上述过程。
 
-### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Q. 我收到通知我订阅即将过期的通知-我该怎么办
+### <a name="q-i-received-a-notification-informing-me-that-my-subscription-is-expiring-soon---what-should-i-do"></a>Q. 我收到了通知，通知我的订阅即将过期 - 我该怎么办
 
-登录到生成了通知的云门户，查看现有订阅的到期日期 () ，然后将许可证添加到过期订阅或扩展现有订阅。
+登录到生成了通知的云门户，查看现有订阅 () 的到期日期，然后将许可证添加到即将过期的订阅或将现有订阅延长到下一年注册。
 
 ### <a name="q-when-can-i-renew-my-membership"></a>Q. 何时可以续订成员身份
 
@@ -75,7 +73,7 @@ ms.locfileid: "106557692"
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. 能否在我的客户帐户上激活许可证
 
-不是。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
+不知道。 出于演示目的，将颁发产品许可证。 你的销售和市场营销员工可以使用此软件向客户展示产品，但是不能在客户硬件或基础结构上安装演示产品，并且必须与合作伙伴监督一起使用。
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. 在 Azure 批量信用中分配用户时遇到问题。 我该怎么办
 
@@ -95,29 +93,29 @@ ms.locfileid: "106557692"
 
 4. 将所需的用户分配给可用的现有 Visual Studio 订阅。
 
-分配订阅后，用户需要登录到 Visual Studio 来管理它。
+分配订阅后，用户需要登录到 Visual Studio才能管理它。
 
 >[!Note]
-> 如果在原始分配时间之后超过90天，则 Visual Studio 订阅可能会从一个订阅服务器重新分配到另一个订阅服务器。
+> Visual Studio自原始分配以来已过 90 天，则订阅可能会从一个订阅者重新分配到另一个订阅者。
 
-## <a name="technical-benefits-and-support"></a>技术优势和支持
+## <a name="technical-benefits-and-support"></a>技术权益和支持
 
-### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>Q. 我无法安装从合作伙伴中心下载的软件。 如何实现获取帮助
+### <a name="q-i-cant-install-the-software-i-downloaded-from-partner-center-how-do-i-get-help"></a>Q. 无法安装从 合作伙伴中心 下载的软件。 如何实现获取帮助
 
-安装、激活以及其他与产品相关的帮助通过 Microsoft 支持部门提供。 若要获取帮助，请执行以下步骤：
+安装、激活和其他与产品相关的帮助通过 Microsoft 支持。 若要获取帮助，请执行以下步骤：
 
 1. 登录到[合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/)。
 
-2. 从 "合作伙伴中心" 菜单中，选择 " **MPN**"。
+2. 从"合作伙伴中心菜单中，选择 **"MPN"。**
 
-3. 选择 " **权益**"，然后选择 " **技术优势**"。
+3. 选择 **"权益**"，然后选择"**技术权益"。**
 
-4. 使用技术权益部分来激活和接收访问 ID/协定 ID。
+4. 使用"技术权益"部分激活和接收访问 ID/合同 ID。
 
-5. 登录 [Microsoft 支持部门](https://support.microsoft.com/supportforbusiness/productselection)。
+5. 登录到[Microsoft 支持。](https://support.microsoft.com/supportforbusiness/productselection)
 
-6. 选择要尝试安装的产品，然后创建技术支持票证。
+6. 选择要安装的产品，然后创建技术支持票证。
 
 ## <a name="next-steps"></a>后续步骤
 
-- [获得一种高级特殊化来展示您的专业技能](advanced-specializations.md)
+- [获得高级专业认证以展示你的专业知识](advanced-specializations.md)

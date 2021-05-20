@@ -1,47 +1,42 @@
 ---
-title: 基于计费许可证的 SaaS 事务
+title: 计费 - 基于许可证的 SaaS 事务
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解合作伙伴中心的常见计费方案，它们适用于基于许可证的软件即服务 (SaaS) 事务。
+description: 了解 SaaS 合作伙伴中心中基于许可证的软件即服务 (计费) 方案。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502457"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148629"
 ---
-# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>合作伙伴中心基于许可证的 SaaS 事务的常见计费方案
+# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>中基于许可证的 SaaS 事务的常见计费合作伙伴中心
 
-**相应的角色**
-
-- 管理员代理
-- 计费管理员
-- 支持人员代理
-- 销售代理
+**适当的角色**：管理员代理|计费管理员|支持人员代理|销售代理
 
 
-这些示例 [通用计费方案](common-billing-scenarios.md) 适用于合作伙伴中心的基于许可证的软件即服务 (SaaS) 订阅。
+这些 [常见计费方案](common-billing-scenarios.md) 示例适用于基于许可证的软件即服务， (SaaS) 订阅合作伙伴中心。
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>将免费试用版 SaaS 订阅转换为付费订阅
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>将免费试用 SaaS 订阅转换为付费订阅
 
-此方案介绍了基于许可证的免费试用 SaaS 订阅的续订计费。 续订将在免费试用期结束时将免费试用版转换为付费订阅。
+此方案描述续订基于许可证的免费试用版 SaaS 订阅的计费。 续订在免费试用期结束时将免费试用版转换为付费订阅。
 
-在此示例中，你在6月10日购买了基于许可证的 SaaS (软件即服务) 订阅。 当免费试用期结束时，此免费试用版会自动续订为付费订阅。
+本示例在 6 月 10 日购买了基于许可证的 SaaS (服务即服务) 试用版。 免费试用期结束时，此免费试用版自动续订为付费订阅。
 
-侦测文件将包含以下费用：
+recon 文件将包含以下费用：
 
-| 购买日期 | 收费开始日期 | 收费结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
+| 购买日期 | 费用开始日期 | 费用结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 2019/06/10 | 2019/06/10 | 07/09/2019 | $0 | 1 | $0 | 新建 | 免费试用 |
 | 07/10/2019 | 07/10/2019 | 2019 年 8 月 9 日 | $2 | 1 | $2 | 续订 | 付费订阅 |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>取消免费试用版 SaaS 订阅
+## <a name="cancel-a-free-trial-saas-subscription"></a>取消免费试用 SaaS 订阅
 
 > [!TIP]
 > 即使在免费试用期间，你也可以随时取消基于许可证的免费试用版订阅。
@@ -69,13 +64,13 @@ ms.locfileid: "106502457"
 | 2019/06/10 | Silver | 2019/06/10 | 2019/06/10 | $20 | 1 | -$20 | 转换 | 自定义计量 SaaS 订阅的按比例 rebill |
 | 2019/06/10 | Bronze | 2019/06/10 | 2019/06/10 | $10 | 1 | $10 | 转换 | 自定义计量 SaaS 订阅 |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>在同一日期购买并取消 customer 指标 SaaS 订阅
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>在同一日期购买和取消客户计量 SaaS 订阅
 
-此方案描述了在同一日期通过 Azure 门户购买并取消的 customer 计量 SaaS 订阅的计费。
+此方案描述在同一日期通过订阅购买和取消的客户计量 SaaS 订阅Azure 门户计费。
 
-在此方案中，你在 Azure 门户上购买了自定义计量 SaaS 订阅。 然后，你取消了同一日期的订阅。
+在此方案中，你已购买订阅上的自定义计量 SaaS Azure 门户。 然后，你在同一日期取消了订阅。
 
-| 购买日期 | SKU | 收费开始日期 | 收费结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
+| 购买日期 | SKU | 费用开始日期 | 费用结束日期 | 单价 | 单位数量 | 总金额 | 费用类型 | 订阅说明 |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 2019/06/10 | Bronze | 2019/06/10 | 2019/06/10 | $10 | 1 | $10 | 新建 | 自定义计量 SaaS 订阅 |
 | 2019/06/10 | Bronze | 2019/06/10 | 2019/06/10 | $10 | 1 | -$10 | CancelImmediate | 自定义计量 SaaS 订阅 |

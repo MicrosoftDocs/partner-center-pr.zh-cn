@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354621"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148969"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>解决方案评估激励平台 (芯片的常见问题解答)  
 
-**相应的角色**
-
-- 主要联系人或计划管理员
+**适当的角色**：主要联系人或计划管理员
 
 查找以下常见问题的解答。
 
@@ -41,23 +39,23 @@ ms.locfileid: "97354621"
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>已在芯片中批准我的交易状态。 为什么尚未支付？
 
-除交易状态外，还必须在芯片中批准 POE 状态，然后才能提交此机会以进行支付。 请在芯片中查看你的机会，以确保 POE 已通过芯片中的 POE 验证团队上传和批准。 若要查看 POE 状态，请登录到芯片，然后选择 "**我需要 ...** " 中的 "**搜索**"。 来访问这些模板。 输入 " **机会 ID** " 并选择 " **搜索**"。 在搜索结果中，选择 POE 下的 "编辑" 超链接。 在结果页中，滚动到 "审阅" 部分以查看 POE 状态。 如果 POE 团队已请求 POE 上的其他信息，请查看 "注释" 字段。
+除了交易状态外，还必须在 CHIP 中批准 POE 状态，然后才能提交机会进行付款。 请查看 CHIP 中的机会，确保 POE 已由 CHIP 中的 POE 验证团队上传和批准。 若要查看 POE 状态，请登录到 CHIP，然后 **从"我需要** ..."中选择" **搜索交易"。** 来访问这些模板。 输入机会 **ID，然后选择**"搜索 **"。** 在搜索结果中，选择 POE 下的"编辑"超链接。 在生成的页面中，滚动到"查看"部分以查看 POE 状态。 如果 POE 团队已请求 POE 的其他信息，另请查看"注释"字段。
 
-## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>为何我的机会不会收到里程碑1的任何付款？
+## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>为什么在机会的里程碑 1 中未收到任何付款？
 
-从2020年8月15日起，将按批准的激励级别的0% 支付里程碑1，并在批准的激励级别100% 处支付里程碑2。 2020年8月15日之前的所有开放的已注册的芯片注册服务将继续按 FY20 指导进行支付。 查看 [合作伙伴常见问题解答](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) ，获取有关里程碑处理中的更改的指导。
+从 2020 年 8 月 15 日开始，里程碑 1 按批准的奖励级别的 0% 支付，里程碑 2 按批准的奖励级别的 100% 支付。 2020 年 8 月 15 日之前的所有未注册 CHIP 活动将继续按照 2020 年 8 月 20 日指南付费。 查看合作伙伴 [常见问题解答](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) ，以获得有关里程碑流程更改的指导。
 
 ## <a name="how-to-i-dispute-an-opportunity-or-payment-i-received"></a>如何对收到的商机或付款进行争议？
 
-请联系你的 SAS，他们可以提供此请求的指导。
+请联系 SAS，他们可提供此请求的指导。
 
-## <a name="the-opportunity-is-closed-in-chip-which-is-preventing-me-from-uploading-poe-what-can-i-do-to-get-the-opportunity-paid"></a>该机会在芯片中关闭，这会阻止我上传 POE。 如何才能支付机会？
+## <a name="the-opportunity-is-closed-in-chip-which-is-preventing-me-from-uploading-poe-what-can-i-do-to-get-the-opportunity-paid"></a>CHIP 中的机会已关闭，这阻止我上传 POE。 我该怎么办才能获得机会付款？
 
-一旦商机结束，就不再有资格获得激励。 联系你的 SAS 获取进一步指导。
+一旦机会关闭，就不再有资格获得奖励。 若要获得进一步的指导，请联系 SAS。
 
-## <a name="how-do-i-add-a-new-adminuser-to-chip"></a>如何实现向芯片添加新的管理员/用户？
+## <a name="how-do-i-add-a-new-adminuser-to-chip"></a>如何实现将新的管理员/用户添加到 CHIP？
 
- (管理员) 的主要合作伙伴联系有责任邀请公司中的所有其他用户注册芯片。 他们还负责用户的访问，包括停用离开公司的任何用户。 请参阅 [渠道奖励平台指南](chip-intro.md)。
+主要合作伙伴联系人 (管理员) 负责邀请公司中的所有其他用户注册 CHIP。 他们还负责用户访问，包括停用任何离开公司的用户。 请参阅 [渠道奖励平台指南](chip-intro.md)。
 
 ## <a name="the-primary-admin-has-left-our-company-how-do-we-change-my-primary-admin-in-chip"></a>主管理员已将我们的公司留给了公司。 如何更改芯片中的主要管理员？
 

@@ -1,6 +1,6 @@
 ---
-title: 为客户购买 Microsoft Azure 预订
-description: 了解如何代表你的客户在合作伙伴中心购买或购买 Azure 预订。 还列出了 Azure 保留不可用的市场。
+title: 为客户Microsoft Azure预留
+description: 了解如何代表客户在 合作伙伴中心 购买或购买 Azure 预留。 还列出了 Azure 预留不可用的市场。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,43 +9,37 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534601"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149530"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作伙伴中心代表客户购买 Microsoft Azure 预订
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在Microsoft Azure中代表客户购买合作伙伴中心
 
-**相应的角色**
+**适当的角色**：管理员代理|全局管理员|支持人员代理|销售代理|用户管理管理员
 
-- 管理员代理
-- 全局管理员
-- 支持人员代理
-- 销售代理
-- “用户管理”管理员
-
-本文介绍如何在合作伙伴中心代表客户购买或购买 Azure 预订。 它还标识了 Azure 保留不可用的市场。
+本文介绍如何代表客户在 合作伙伴中心 购买或购买 Azure 预留。 它还标识 Azure 预留不可用的市场。
  
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商计划云解决方案提供商 () 合作伙伴。 使用其他类型的订阅（例如 (即用即付、个人、Microsoft 客户协议 或 企业协议 订阅) 应改为阅读 [此 Azure](/azure/cost-management-billing/reservations)预留文档。
 
-## <a name="before-you-begin"></a>在开始之前
+## <a name="before-you-begin"></a>准备阶段
 
-请先查看下面的重要信息，再代表客户购买 Azure 预订。  (你希望客户能够从为他们购买的以前的 Azure 订阅购买自己的 Azure 预订吗？ 请参阅 [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。 ) 
+在代表客户购买 Azure 预留之前，请查看以下重要信息。  (是否希望客户能够从之前购买的 Azure 订阅购买自己的 Azure 预留？ 请参阅 [授予客户购买自己的 Azure 预留](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)的权限 .) 
 
-- 如果客户签署新的 Microsoft 客户协议 (请参阅 [确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)) ，则必须在 azure 计划下购买 azure 预订。 有关详细信息，请参阅 [购买 Azure 计划](purchase-azure-plan.md)。
+- 如果客户签署新订阅，Microsoft 客户协议 (确认客户接受 Microsoft 客户协议) ，[](confirm-customer-agreement.md)则必须在 Azure 计划下购买 Azure 预留。 有关详细信息，请阅读购买 [Azure 计划](purchase-azure-plan.md)。
 
 - 客户必须已经拥有有效的 Azure 订阅，然后你才能代表他们购买预订
   
-- Azure 保留价格中不包括软件订阅费用，如 SQL 数据库或 SUSE Linux 软件
+- 软件订阅成本（例如 SQL 数据库或 SUSE Linux 软件）不包括在 Azure 预留价格中
 
-- Microsoft 的商业定价不包括税款，除非你所在地为巴西。 如果你的所在地是巴西，你的商业价格将包含相应的税
+- Microsoft 的商业定价不包括税款，除非你的位置是巴西。 如果你的位置是巴西，则商业价格包括相应的税款
 
 - 销售和支持人员代理需要显式访问 Azure 订阅，以便他们可以代表客户在 Azure 门户中购买或管理订阅，以及提出支持请求，包括进行兑换和退款  
 
-- 如果你是一个间接提供商，并通过 Azure 门户购买 Azure 预订，则 (间接经销商) 的记录合作伙伴将从你选择的 Azure CSP 订阅继承。
+- 如果你是间接提供商，并且通过 Azure 门户 购买 Azure 预留，则记录合作伙伴 (间接经销商) 继承自你选择Azure CSP订阅。
 
 - 无法在购买后更改 Azure 预订的记录合作伙伴。 您可以取消现有预订，并使用新的记录合作伙伴购买新预订。
 
@@ -139,19 +133,19 @@ ms.locfileid: "96534601"
 
     - 如果是提供商合作伙伴，请选择要与产品关联的经销商。
     
-    - 如果 Azure 保留项支持计费计划选项，则可以从下拉菜单中选择 "按月计费频率"。 
-    - 如果你的 Azure 保留不支持计费计划选项，则计费频率默认为一次性计费。 
+    - 如果 Azure 预留支持"计费计划"选项，可以从下拉菜单中选择按月计费频率。 
+    - 如果 Azure 预留不支持"计费计划"选项，则计费频率默认为一次计费。 
 
-9. 选择 **确认购买** 以购买订购的商品。 订单的详细信息（包括订单号）将显示在 " **确认** " 页上。 选择“完成”转到“订单历史记录”页。  
+9. 选择 **确认购买** 以购买订购的商品。 订单的详细信息（包括订单编号）将显示在"确认 **"** 页上。 选择“完成”转到“订单历史记录”页。  
 
-10. 若要在 Azure 门户中管理客户的预订，请在 " **客户** " 页上找到 "客户"，然后选择向下箭头以展开客户的行。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
+10. 若要管理客户在 Azure 门户中的预留，请在"客户"页上找到客户，然后选择向下箭头以展开客户的行。 选择 **Microsoft Azure 管理门户"，** 打开客户在 Azure 门户 中的记录。
 
 ## <a name="next-steps"></a>后续步骤
 
 |**有关以下方面的信息**   |**阅读此文**    |
 |:-----------------------------|:-----------------|
 |云解决方案提供商计划中的 Azure 预订概述  | [销售 Microsoft Azure 预留实例](azure-reservations.md) |
-|管理合作伙伴中心的 Azure 保留 | [管理合作伙伴中心的 Azure 保留](azure-reservations-manage.md)
+|在门户中管理 Azure 合作伙伴中心 | [在门户中管理 Azure 合作伙伴中心](azure-reservations-manage.md)
 |确定正确的虚拟机大小，然后确认客户虚拟机使用情况   |[针对最大 Azure 预订利用率确定虚拟机大小](azure-usage.md)   |
 |使用合作伙伴中心 API 购买 Azure 预订 | 合作伙伴中心开发人员文档中的[购买 Azure 虚拟机预留实例](/partner-center/develop/purchase-azure-reservations)   |
-|授予客户购买自己的 Azure 预订的权限  | [授予客户购买自己的 Azure 预订的权限](give-customers-permission.md)  |
+|授予客户购买自己的 Azure 预留的权限  | [为客户提供购买自己的 Azure 预留的权限](give-customers-permission.md)  |

@@ -1,36 +1,32 @@
 ---
-title: 为客户帐户管理用户
+title: 管理客户帐户的用户
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作伙伴中心为你的客户管理用户-创建用户帐户、添加或删除用户许可证、重置密码、删除或还原用户帐户。
+description: 管理客户在 合作伙伴中心 - 创建用户帐户、添加或删除用户许可证、重置密码以及删除或还原用户帐户。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756084"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149887"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客户帐户的用户和用户许可证 
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
+**适当的角色**：全局管理员|用户管理管理员|管理员代理
 
 
-你可以在客户的帐户中创建和删除新用户。 你还可以还原以前在删除30天内删除的一个或多个用户帐户。 用户之前分配的订阅也将还原（假设之前的分配可用）。
+可以在客户的帐户中创建和删除新用户。 还可以还原在删除后 30 天内删除的一个或多个用户帐户。 用户之前分配的订阅也将还原（假设之前的分配可用）。
 
-为客户购买新的订阅时，客户应为你提供一个列表，其中列出了需要帐户的所有用户、用户权限以及每个用户需要的服务。  
+为客户购买新订阅时，客户应提供需要帐户、用户权限以及每个用户所需服务的所有用户的列表。  
 
 >[!NOTE]
->"**客户**" 选项卡的 "**用户和许可证**" 部分显示了在特定客户的租户中创建的所有用户，其中包括具有从其他 CSP 合作伙伴或其他采购渠道购买的许可证的用户。
+>"**客户"** 选项卡的"用户和许可证"部分显示特定客户租户中创建的所有用户，包括拥有从其他 CSP 合作伙伴或其他购买渠道购买的许可证的用户。
 
 可以一次[将订阅分配给多个用户](bulk-license-provisioning-for-multiple-users.md)，方法是使用 [Excel 兼容的 .csv 电子表格文件](adding-multiple-users-to-a-customer-account.md)导入这些名称。
 
@@ -42,7 +38,7 @@ ms.locfileid: "101756084"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 在客户菜单中，选择“用户和许可证”。
+3. 在客户菜单中，选择"**用户和许可证"。**
 
 4. 对于每个用户，请选择 **添加订阅**，然后填写信息，包括权限和许可证。 单击“保存”以保存更改。
 
@@ -56,20 +52,20 @@ ms.locfileid: "101756084"
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>为客户添加或删除用户许可证
 
-以下步骤适用于在 Microsoft 产品中添加或删除用户许可证。 若要在商业应用商店中添加或删除基于许可证的 SaaS 订阅的用户许可证，请参阅 [添加或删除 SaaS 订阅的许可证](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
+以下步骤适用于添加或删除 Microsoft 产品的用户许可证。 若要在商业市场中为基于许可证的 SaaS 订阅添加或删除用户许可证，请参阅添加或删除 [SaaS 订阅的许可证](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 在客户菜单中，选择“用户和许可证”。
+3. 在客户菜单中，选择"**用户和许可证"。**
 
-4. 从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新的许可证，并且你想要将其分配给尚不具备这些许可证的用户，则可以使用 **筛选用户依据 ...** 选项来查找适当的组。
+4. 从列表中选择一个或多个用户。 例如，如果客户刚刚购买了新许可证，而你想要将其分配给还没有许可证的用户，可以使用"按 **...** 筛选用户"选项来查找正确的组。
 
-5. 选择 " **管理许可证**"。 进行更改，并 **保存**。
+5. 选择“管理许可证”。 进行更改 **，然后保存**。
 
 > [!NOTE]
-> 对于 [Azure Marketplace 产品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，许可证分配和激活通过独立的软件供应商进行管理 (ISV) 发布产品。
+> 对于 [Azure 市场，](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)许可证分配和激活通过发布产品的独立软件供应商 (ISV) 进行管理。
 
 <a href="" id="resetpassword"></a>
 
@@ -79,9 +75,9 @@ ms.locfileid: "101756084"
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 在客户菜单中，选择“用户和许可证”。 从列表中选择用户。
+3. 在客户菜单中，选择"**用户和许可证"。** 从列表中选择用户。
 
-4. 在屏幕底部，选择 " **重置密码**"。 
+4. 在屏幕底部，选择"重置 **密码"。** 
 
 5. 将新的临时密码发送给用户。
 
@@ -89,9 +85,9 @@ ms.locfileid: "101756084"
 
 ## <a name="delete-user-accounts-for-a-customer"></a>为客户删除用户帐户
 
-1. 从 " **合作伙伴中心** " 菜单中，选择 " **客户**"。 从列表中选择客户。
+1. 从 **"合作伙伴中心** 菜单中，选择"客户 **"。** 从列表中选择客户。
 
-2. 在客户菜单中，选择“用户和许可证”。 从列表中选择用户。
+2. 在客户菜单中，选择"**用户和许可证"。** 从列表中选择用户。
 
 3. 在屏幕底部选择“删除用户帐户”。
 
@@ -101,7 +97,7 @@ ms.locfileid: "101756084"
 
 ## <a name="restore-deleted-user-accounts"></a>还原删除的用户帐户
 
-1. 从 " **合作伙伴中心** " 菜单中，选择 " **客户**"，然后从列表中选择客户。
+1. 从合作伙伴中心 **菜单中** ，选择" **客户"，** 然后从列表中选择客户。
 
 2. 选择 " **用户和许可证**"。
 

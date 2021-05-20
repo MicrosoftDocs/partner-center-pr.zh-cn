@@ -2,46 +2,44 @@
 title: 在 CHIP 中查看收益
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 了解如何在渠道激励平台 (芯片) 工具中查看奖励陈述和收益。
+description: 了解如何在 Channel Incentives Platform (CHIP) 工具中查看奖励声明和收益。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354484"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149020"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>使用芯片工具查看收入
+# <a name="view-earnings-using-the-chip-tool"></a>使用 CHIP 工具查看收益
 
-**相应的角色**
+**适当的角色**：主要联系人或计划管理员
 
-- 主要联系人或计划管理员
-
-可以通过渠道奖励平台工具 (芯片) 来访问奖励声明。
+可以通过 CHIP) 渠道奖励平台工具访问奖励 (声明。
 
 ## <a name="view-earnings"></a>查看收益
 
-1. 使用 Microsoft 帐户 (上一 Live ID) 登录到芯片。
+1. 使用上一个实时 ID Microsoft 帐户 (登录到 CHIP) 。
 
-2. 选择你感兴趣的激励计划。
+2. 选择感兴趣的奖励计划。
 
-3. 在 " **程序摘要** " 下，选择时间段或月份。 
-1. 从下拉列表中选择 "计算详细信息"。
-1.  在通知栏上单击 " **打开** "，打开语句。
+3. 在 **"计划摘要"下** ，选择周期或月份。 
+1. 从下拉列表中选择"计算详细信息"。
+1.  单击 **通知** 栏上的"打开"以打开语句。
 
-### <a name="explanation-of-details-tabs"></a>详细信息选项卡说明
+### <a name="explanation-of-details-tabs"></a>详细信息选项卡的说明
 
-|**选项卡**|**定义**|
+|Tab |**定义**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|包括适用于所选时间段的激励计划的详细信息，包括客户名称、协议、杠杆详细信息|
-|DeltaReport-pivot|仅适用于企业的上次发布的语句的更新|
-|DetailReport-pivot|支付详细信息的摘要，包括货币和付款金额|
-|成就详细信息|仅适用于 SPLAR 的基线值、成就和增长百分比|
+|DetailReport-Flatfile|包括所选时间段的奖励计划的详细信息，包括客户姓名、协议、手柄详细信息|
+|DeltaReport-pivot|仅针对 Enterprise 的上一个已发布语句的更新|
+|DetailReport-pivot|付款详细信息摘要，包括货币和付款金额|
+|成就详细信息|仅 SPLAR 的基线值、成就和增长百分比|
 
 ## <a name="next-steps"></a>后续步骤
 

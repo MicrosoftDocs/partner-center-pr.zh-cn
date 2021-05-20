@@ -1,31 +1,24 @@
 ---
-title: 获取客户活动日志的见解
+title: 通过客户活动日志获取见解
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何查看和导出活动日志，以获取有关客户帐户交易以及其他客户相关合作伙伴管理活动的见解。
+description: 了解如何查看和导出活动日志，以深入了解客户帐户事务和其他与客户相关的合作伙伴管理活动。
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474234"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150584"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或导出客户活动日志以更深入了解客户交易
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或导出客户活动日志，以更深入地了解客户事务
 
-**相应的角色**
-
-- 全局管理员
-- 计费管理员
-- “用户管理”管理员
-- 管理员代理
-- 销售代理
-- 支持人员代理
+**适当的角色**：全局管理员|计费管理员|用户管理管理员|管理代理|销售代理|支持人员代理
 
 活动日志为客户提供有关交易和合作伙伴管理操作的信息。 交易日志提供有关交易的详细信息，包括购买的订阅。 还可将活动日志导出为与 Excel 兼容的逗号分隔值文件格式 (.csv)。
 

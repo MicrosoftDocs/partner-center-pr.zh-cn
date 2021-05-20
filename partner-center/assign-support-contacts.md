@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5e7adaf25376edb7d10d2deff9ed4e6f52badb4
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: c3ec63109f21c67c66719b8f145336617a948199
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96473877"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149904"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>将分销商分配给客户的技术支持联系人
 
-**相应的角色**
-
-- 管理员代理
-- 全局管理员
-- 支持人员代理
+**适当的角色**：管理代理 |全局管理员 |支持人员代理
 
 
 为客户设置 Microsoft 服务订阅时，你可能想要为指定的经销商分配这些产品的技术支持，而不是由你本人来提供支持。

@@ -9,19 +9,16 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022700"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148714"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>获得协作营销资金
 
-**相应的角色**
-
-- 奖励管理员
-- 奖励用户
+**适当的角色**：激励管理 |奖励用户
 
 协作式营销 (联 op) 资金是通过 Microsoft 激励计划获得的资金，通过申报支持 Microsoft 产品认知的活动退款获得。 奖励计划的示例包括云解决方案提供商、托管分销商、托管和表面。
 
@@ -55,21 +52,21 @@ Microsoft 使用分割百分比 (例如60% 的折扣-40% 联 op) 来计算合格
 |  如果你的赢利/应计期为  |会计半年期为  |  使用期限为  |  申报期为  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 |**7月-12 月2020**| FY21 H1  |  Jan-2021 年6月  |  15 2021 年2月16日  |
-|**Jan-2021 年6月** |  FY21 H2  |  7月-12 月2021  |  8月 16 2021-2 月 15 2022  |
-|**7月-12 月2021**|  FY22 H1  |  Jan-2022 年6月  |  15 2022 年2月16日  |
-|**Jan-2022 年6月** |  FY22 H2  |  7月-12 月2022  |  8月 16 2022-2 月 15 2023  |
+|**Jan-2021 年6月** |  FY21 H2  |  2021 年 7 月 - 12 月  |  2021 年 8 月 16 日 - 2022 年 2 月 15 日  |
+|**2021 年 7 月 - 12 月**|  FY22 H1  |  2022 年 1 月 - 6 月  |  2022 年 2 月 16 日 - 8 月 15 日  |
+|**2022 年 1 月 - 6 月** |  FY22 H2  |  2022 年 7 月 - 12 月  |  2022 年 8 月 16 日 - 2023 年 2 月 15 日  |
 
 >[!NOTE]
->Microsoft 保留 (PoE) 文档请求原始执行证明的权利。 你应将所有原始文档保留在活动日期之后24个月内。
+>Microsoft 保留请求 PoE 文档 (原始) 的权利。 活动日期后，应保留所有原始文档 24 个月。
 
-以下资源将帮助你开始使用合作声明。
+以下资源可帮助你开始使用合作声明。
 
 | 要执行此操作 | 阅读本文 |
 | ------ | ----------- |
-| 提交声明 |  [创建和管理激励计划合作声明](create-incentives-claims.md)  |
-| 管理提交的声明 | [创建和管理激励计划合作声明](create-incentives-claims.md)    |
+| 提交声明 |  [创建和管理奖励计划合作申请](create-incentives-claims.md)  |
+| 管理已提交声明 | [创建和管理奖励计划合作申请](create-incentives-claims.md)    |
 | 了解活动声明的核心要求 | [关于奖励计划中的活动的核心要求](core-requirements.md)   |
-| 查看激励计划的详细信息 | [合作伙伴奖励合作指南](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| 查看奖励计划详细信息 | [合作伙伴奖励合作指南](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | 创建客户关联并提交声明 | [使用 CPOR 模型创建客户关联](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>后续步骤

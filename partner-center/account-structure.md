@@ -9,19 +9,16 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: fb2488f9a82e261997703c22bca7c3cd9e761db0
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284156"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150652"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作伙伴中心为 MPN 合作伙伴提供两个级别的帐户
 
-**相应的角色**
-
-- 帐户管理员
-- 全局管理员
+**适当的角色**：帐户管理员 |全局管理员
 
 你的公司在合作伙伴中心有两个级别的帐户。
 
@@ -46,4 +43,4 @@ ms.locfileid: "108284156"
 
 ## <a name="next-steps"></a>后续步骤
 
-- 有关管理位置的详细信息，请参阅 [管理你的合作伙伴帐户：位置](manage-locations.md)。
+- 有关管理位置的信息，请参阅 [管理合作伙伴帐户：位置](manage-locations.md)。
