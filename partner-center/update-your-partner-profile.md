@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: c700176ced0710f621dbdfab65513767976aff3d
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: 46c2371e3a95b8840f14ebc5063d90bd5926fb8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818603"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153049"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>验证或更新你的公司资料信息 
 
@@ -98,9 +98,8 @@ MPN|全局管理员；帐户管理员|已授权；待定；已拒绝| 然后用�
 |账单寄往地址|CSP 发票上显示的账单寄往地址。 可从[计费对象信息](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)进行更新。|
 |收票联系人|CSP 帐户的账单联系人详细信息（名字、姓氏、主要号码）。  可从[计费对象信息](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)进行更新。|
 |PO 编号|合作伙伴发票上显示的采购订单编号。  可从[计费对象信息](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)进行更新。|
-|公司税号|某些国家/地区的公司可以提供其[增值税 (VAT) 号或本地等效税号](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)。 若要更新你的税号/增值税号，你必须是全局管理员、帐单管理员或管理员代理。|
+|公司税号|某些国家/地区的公司可以提供其[增值税 (VAT) 号或本地等效税号](./organization-tax-info.md)。 若要更新你的税号/增值税号，你必须是全局管理员、帐单管理员或管理员代理。|
 |计费货币|CSP 帐户的计费货币由 CSP 帐户的法定国家/地区决定。  创建 CSP 帐户后，便不能更改计费货币。|
-
 
 ## <a name="next-steps"></a>后续步骤
 

@@ -1,48 +1,48 @@
 ---
-title: CSP 全球市场
+title: CSP 全局市场
 ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 查看可以基于公司位置销售 CSP 产品/服务的国家/地区、地区和货币。
+description: 请参阅国家/地区和货币，根据公司的位置，你可以在其中销售 CSP 优惠。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855771"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152998"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商可以销售 CSP 产品/服务的区域市场和货币
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>云解决方案提供商计划可在其中销售 CSP 产品/服务的地区市场和货币
 
-**适当角色**：全局管理员
+**相应的角色**：全局管理员
 
-公司的位置决定了市场。 你的市场包括可在其中销售云解决方案提供商产品/服务云解决方案提供商 () 国家/地区。
+公司的位置决定了市场。 市场包括区域和/或国家/地区，你可以在其中销售云解决方案提供商 (CSP) 计划产品。
 
-例如，如果你的公司位于美国美国，可以将 CSP 产品/服务销售给美国和美国 Outlying Islands 的客户。 如果你的公司位于巴西，则只能向巴西的客户销售 CSP 产品/服务。 如果你的公司位于非洲区域，你可以向非洲区域所有 18 个国家/地区的客户销售 CSP 产品/服务。
+例如，如果你的公司位于美国，则可以在美国和美国外岛向客户销售 CSP 优惠。 如果你的公司位于巴西，则只能在巴西向客户销售 CSP 优惠。 如果你的公司位于非洲地区，你可以向非洲地区的所有18个国家/地区的客户销售 CSP 优惠。
 
-在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 可在此处找到Microsoft 客户协议/国家/地区的 [适用区域](agreements.md)。
+在你可以代表客户订购云解决方案提供商套餐之前，客户必须签署 Microsoft 客户协议。 你可以在 [此处](agreements.md)找到适用于你所在国家/地区的 Microsoft 客户协议。
 
-## <a name="azure-plan-for-csp-region-availability"></a>云解决方案提供商区域可用性的 Azure 计划  
+## <a name="azure-plan-for-csp-region-availability"></a>Azure 计划 CSP 区域可用性  
 
-与适用于 CSP 的 Azure 软件相比，适用于 CSP 的 Azure 计划可用的区域更少。 有关 Azure 计划的区域可用性的最新更新，请参阅购买 [Azure 计划](purchase-azure-plan.md)。
+用于 csp 的 Azure 计划在比用于 CSP 的 Azure 软件更少的区域中提供。 有关 Azure 计划的区域可用性的最新更新，请参阅 [购买 azure 计划](purchase-azure-plan.md)。
 
 >[!IMPORTANT]
-> 你需要通过提供有关签名者的信息Microsoft 客户协议确认客户已接受该请求。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](confirm-consent.md)。
+> 你需要通过提供有关对其进行签名的用户的信息来确认客户已接受 Microsoft 客户协议。 有关更多详细信息，请参阅[确认客户接受 Microsoft 客户协议](./confirm-customer-agreement.md)。
 
-若要确定可以销售 CSP 产品/服务的位置，请在下面的列表之一中查找公司的位置。 对于要销售Microsoft 合作伙伴网络 (，) 具有有效的 MPN ID。  
+若要确定可在其中销售 CSP 产品/服务的位置，请在以下列表之一中查找公司的位置。 您必须具有活动 Microsoft 合作伙伴网络 (MPN) ID 才能获得要在其中进行销售的位置。  
 
 
-## <a name="for-unsupported-countries"></a>对于不受支持的国家/地区
+## <a name="for-unsupported-countries"></a>对于不支持的国家/地区
 
-如果你的国家/地区不受支持，则使用 Office 管理员 URL 建立客户 CSP 关系。 
+如果你的国家/地区不受支持，请使用 Office 管理员 URL 建立客户 CSP 关系。 
 
-- 直接计费合作伙伴使用以下 https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 URL：。 将 **partnertenantguid** 替换为租户 ID。 
+- 直销合作伙伴使用以下 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 将 **partnertenantguid** 替换为你的租户 ID。 
 
-- 间接经销商的 URL 为 https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid ：。 将 **IRtenantguid** 替换为租户 ID。 将 **IRMPNID** 替换为 MPN ID，将 **IPtenantguid** 替换为间接提供商租户 ID。
+- 间接经销商的 URL 是： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 将 **IRtenantguid** 替换为你的租户 ID。 将 **IRMPNID** 替换为 MPN ID，将 **IPtenantguid** 替换为间接提供商租户 ID。
 
 ## <a name="africa-region-and-market"></a>非洲区域与市场
 
@@ -105,7 +105,7 @@ ms.locfileid: "109855771"
 
 | 国家/地区     | 货币 |
 | --------------     |:--------:|
-|  孟加拉国        |   USD    |
+|  孟加拉        |   USD    |
 |  不丹            |   USD    |
 |  文莱 |   USD    |
 |  柬埔寨          |   USD    |
@@ -146,7 +146,7 @@ ms.locfileid: "109855771"
 |  纽埃                  |   AUD    |
 |  诺福克岛        |   AUD    |
 |  北马里亚纳群岛| AUD    |
-|  帕劳                 |   AUD    |
+|  帕劳群岛                 |   AUD    |
 |  巴布亚新几内亚      |   AUD    |
 |  皮特凯恩群岛      |   AUD    |
 |  所罗门群岛       |   AUD    |
@@ -255,7 +255,7 @@ ms.locfileid: "109855771"
 |  韩国|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地区和市场
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和该区域和市场
 
 如果你的公司所在地在下面的列表中，则可以在列表中的所有位置向客户销售 CSP 产品/服务。
 
@@ -285,13 +285,13 @@ ms.locfileid: "109855771"
 |  福克兰群岛|  USD    |
 |  法属圭亚那  |   USD    |
 |  格林纳达        |   USD    |
-|  瓜德罗普     |   USD    |
+|  瓜德罗普岛     |   USD    |
 |  危地马拉      |   USD    |
 |  圭亚那         |   USD    |
 |  海地          |   USD    |
 |  洪都拉斯       |   USD    |
 |  牙买加        |   USD    |
-|  马提尼克     |   USD    |
+|  马提尼克岛     |   USD    |
 |  墨西哥         |   USD    |
 |  蒙特塞拉特     |   USD    |
 |  尼加拉瓜      |   USD    |
@@ -300,7 +300,7 @@ ms.locfileid: "109855771"
 |  秘鲁           |   USD    |
 |  波多黎各    |   USD    |
 |  萨巴           |   USD    |
-|  圣巴泰勒米岛|  USD    |
+|  圣巴泰勒米|  USD    |
 |  圣基茨和尼维斯|    |
 |  圣卢西亚    |   USD    |
 |  法属圣马丁   |   USD    |

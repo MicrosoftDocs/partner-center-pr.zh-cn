@@ -1,78 +1,73 @@
 ---
-title: 合作伙伴中心见解-客户报表
+title: 合作伙伴中心见解 - 客户报表
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解提高业务的方式。 按地域、产品和其他属性查看特定客户趋势。
+description: 发现改进业务的方法。 按地理位置、产品和其他属性查看特定客户趋势。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120828"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152896"
 ---
-# <a name="customers-dashboard-reports-from-partner-center-insights"></a>合作伙伴中心见解中的客户仪表板报表
+# <a name="customers-dashboard-reports-from-partner-center-insights"></a>来自 合作伙伴中心 Insights 的客户仪表板报表
 
-**相应的角色**
+**适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-- 全局管理员
-- 管理员代理
-- 报表查看器
-- 主管人员报表查看器
-
-客户仪表板显示你的客户的数据，这些客户已获得 Office、Azure、Dynamics 等云产品，或者你可以使用它在其租户中部署和管理这些产品。 
+"客户"仪表板显示通过你获取云产品（如 Office、Azure、Dynamics 等）的客户的数据，或让你在租户中部署和管理这些产品的客户的数据。 
  
-客户仪表板包含以下部分： 
+"客户"仪表板包含以下部分： 
 
 - 总结  
 - 客户的地理分布 
-- 客户添加/改动趋势 
-- 按合作伙伴地点、客户群、销售渠道、合作伙伴归属类型分类的客户分销 
-- 按产品的客户分发 
-- 按合作伙伴地点、客户群、定价模型、合作伙伴归属类型分类的客户分布趋势 
-- 活动客户趋势 
+- 客户添加/流失趋势 
+- 按合作伙伴位置、客户细分、销售渠道、合作伙伴归属类型进行客户分布 
+- 按产品的客户分布 
+- 按合作伙伴位置、客户细分、定价模型、合作伙伴归属类型分类的客户分布趋势 
+- 活跃客户趋势 
 
 ## <a name="summary"></a>总结
 
-"摘要" 部分提供了与客户相关的各种 Kpi 的快照视图，例如客户、活动客户、订阅、添加的客户、客户改动和每个产品的客户。 页面级筛选器适用于每个部分。
+摘要部分提供与客户相关的各种 KPI 的快照视图，例如客户、活跃客户、订阅、添加的客户、客户流失以及每个产品的客户。 页面级筛选器适用于每个部分。
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="&quot;客户摘要&quot; 仪表板的屏幕截图显示条形图以及活动、最近添加、丢失/改动或特定产品的客户数。":::
+:::image type="content" source="images/pci/customerproduct.png" alt-text="&quot;客户摘要&quot;仪表板的屏幕截图，其中显示了处于活动状态、最近添加、丢失/流失或按特定产品统计的客户数的条形图和数量。":::
 
 ### <a name="customers"></a>客户
 
-- 组织通过各种云产品（如 Office、Azure、Dynamics 等）中的不同归属类型关联的所有客户的当前计数。如果客户的至少一个订阅的状态为 "活动"，则将对其进行计数。  
-- 在所选日期范围内拒绝客户的百分比 
-- 微图按月显示客户在所选日期范围内计数的趋势
+- 组织的所有客户的当前计数通过跨所有云产品（如 Office、Azure、Dynamics 等）的不同属性类型关联。如果客户至少有一个订阅处于"活动"状态，则进行计数。  
+- 在所选日期范围内拒绝客户百分比 
+- 微图表显示所选日期范围内客户计数的月份趋势
 
-### <a name="active-customers"></a>活动客户
+### <a name="active-customers"></a>活跃客户
 
-- 具有任何活动产品使用情况的客户的当前计数，例如任何云产品上的可用使用率。
-- 所选时间段内活动客户的增长或拒绝百分比
-- 微图显示了在所选日期范围内活动客户数的月趋势。
+- 任何活动产品使用情况的客户的当前计数，例如任何云产品的活跃使用情况。
+- 所选时段内活动客户的增长或下降百分比
+- 微图表显示所选日期范围内活跃客户计数的每月趋势。
 
-### <a name="customers-added"></a>添加的客户
+### <a name="customers-added"></a>已添加客户
 
-- 在选定时间段内添加的所有客户的计数。
-- 在选定的状态范围内添加的客户的增长或拒绝百分比。
-- 微图显示了在所选日期范围内添加的客户的月趋势。
+- 所选时段内添加的所有客户的计数。
+- 所选服务范围内添加的客户的增长或下降百分比。
+- 微图表显示所选日期范围内添加的客户每月趋势。
 
-### <a name="customers-churned"></a>客户改动
-- 所选时间段内每个月改动的所有客户的计数。 如果客户不具有具有活动状态的单一订阅，则会被视为丢失。 
-- 所选日期范围内改动的客户的百分比 
-- 微图显示了改动在所选时间段内的客户的月趋势 
+### <a name="customers-churned"></a>客户流失
+- 所选时段内每月流失的所有客户的计数。 如果客户没有具有活动状态的单个订阅，则认为客户已丢失。 
+- 所选日期范围内流失的客户百分比 
+- 微图表显示所选时段内客户流失的月份趋势 
  
 ### <a name="customers-by-products"></a>按产品的客户
 
-- 跨各种云产品（例如 O365、Azure、Dynamics 等）分发的客户的当前计数。  
+- 跨各种云产品（例如 O365、Azure、Dynamics 等）分布的客户的当前计数。  
 
 ## <a name="geographical-spread-of-your-customers"></a>客户的地理分布
 
-在所选日期范围内，当前客户、当前活动客户和客户的计数是使用客户所在国家/地区进行地理映射的。 指标下显示的百分比表示该指标的该国家/地区的总贡献百分比。 您可以将鼠标悬停在地图上，以查看该国家/地区的活动、新客户总数。 您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 通过选择地图上的 " **主页** " 按钮，还原到原始视图。 可对网格中的所有列进行排序。  
+当前客户、当前活跃客户和所选日期范围内新添加的客户计数使用客户的国家/地区进行异地映射。 该指标下方显示的百分比表示该国家/地区占该指标总计的百分比。 可以将鼠标悬停在地图上以查看该国家/地区的总活跃新客户。 可以在网格中搜索并选择国家/地区，以缩放到地图中的位置。 选择地图上的"主页 **"按钮，** 还原为原始视图。 可对网格中的所有列进行排序。  
 
 :::image type="content" source="images/pci/customersgeo.png" alt-text="按地域列出的合作伙伴中心见解客户报表的屏幕截图显示世界地图和按区域列出的总计、添加和新客户的列表。":::
 
@@ -94,19 +89,19 @@ ms.locfileid: "108120828"
 
 ## <a name="customer-distribution-trend"></a>客户分布趋势 
 
-在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。 选择图表中的各个选项卡以查看这些类别的趋势。 X 轴表示所选日期范围的月份，Y 轴包含所选类别 (选项卡选择) 的客户计数。 您可以将鼠标悬停在图表列上以查看每个堆栈的细分情况值。 您可以在图表顶部利用滑块来放大到特定时间段。   
+在所选日期范围内，客户在所选日期范围内分布的每月趋势：市场、段、MPN 位置和产品。 在图表中选择相应的选项卡，按这些类别查看趋势。 X 轴表示所选日期范围的月份，Y 轴具有所选类别的客户计数 (选项卡) 。 可以将鼠标悬停在图表列上，以查看每个堆栈的值分解。 可以利用图表顶部的滑块放大到特定的时间段。   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="&quot;客户分发趋势&quot; 报表的屏幕截图，显示可以按市场、段、合作伙伴位置或产品查看的条形图。":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="&quot;客户分布趋势&quot;报表的屏幕截图，其中显示了可以按市场、细分市场、合作伙伴位置或产品查看的条形图。":::
 
-## <a name="active-customers"></a>活动客户
+## <a name="active-customers"></a>活跃客户
 
-每月趋势图表比较了所选日期范围内的活动客户和客户总数。 列表示每个月的活动客户计数，行代表每个月的客户总数。 
+每月趋势图，比较所选日期范围的活动客户和总客户。 列表示每月的活动客户计数，行表示每月的总客户数。 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="合作伙伴中心见解活动客户报表显示一段时间内活动客户的条形图的屏幕截图。":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Insights 合作伙伴中心活动客户报表的屏幕截图，其中显示了活动客户一段时间的条形图。":::
 
 ## <a name="next-steps"></a>后续步骤
 
-有关更多报表，请参阅 [合作伙伴中心见解](partner-center-insights.md)。
+有关更多报表，请参阅[合作伙伴中心 Insights。](partner-center-insights.md)
 
 >[!NOTE]
-> 你可以从见解仪表板中的 "下载报表" 部分下载此报表的原始数据。 [了解详细信息](pci-download-reports.md) 
+> 可以从见解仪表板中的"下载报表"部分下载为此报表提供电源的原始数据。 [了解详细信息](pci-download-reports.md) 

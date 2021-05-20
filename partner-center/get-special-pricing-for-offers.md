@@ -9,20 +9,16 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702682"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150788"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>向特定行业销售，如教育、非营利和政府用户
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
-- 销售代理
+**适当的角色**：全局管理员 |管理代理 |销售代理
 
 Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型企业和政府实体）提供特殊的降价。 你和你的客户必须同时具备资格才能够为他们提供特价。 这些特价优惠目前 **仅适用于基于许可证的服务** ，例如 Microsoft 365、Dynamics、Intune 等。它不适用于其他类型 (软件订阅、永久性软件或 Azure 产品) 。
 
@@ -30,9 +26,9 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 
 |**特价**   |**经销商所需的资格**   |**客户所需的资格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育   |None   | 必须是 [符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府机关   |若要销售 Azure，请使用 [MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   None|
-|非营利组织  |None<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解[非盈利特惠套餐](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过 [Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register) 注册以获得资格。   |
+|教育   |无   | 必须是 [符合条件的教育用户](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府机关   |若要销售 Azure，请使用 [MICROSOFT US 政府云验证表格](https://azuregov.microsoft.com/csp)进行注册。 若要向政府销售基于许可证的订阅，无需资格认定。|   无|
+|非营利组织  |无<br/> 必须具有非盈利的 Azure Active Directory 租户。<br/> 了解[非盈利特惠套餐](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)的详细信息。   |通过 [Microsoft 非赢利计划](https://nonprofit.microsoft.com/#/register) 注册以获得资格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>检查你的经销商资格
 
@@ -61,20 +57,20 @@ Microsoft 为选定的客户组（包括教育客户、非盈利客户、小型�
 合作伙伴只有满足特定条件才能向客户销售特惠套餐。 
 
 - 仅当客户授权为教育机构时，才能购买教育优惠。 教育客户只能接收教育版和商业用品，而不能接收非盈利和政府社区云 (GCC) 。
-- 合作伙伴只能为 GCC 客户购买 GCC 订阅。 客户拥有 GCC 订阅后，合作伙伴将无法购买商业、教育或非利润订阅。
-- 合作伙伴只能为非利润客户购买商业或非盈利订阅。 合作伙伴无法为非利润客户购买 GCC 或教育订阅。
-- 状态拥有的实体必须符合 [资格条件](https://www.microsoft.com/legal/compliance/anticorruption/criteria)。
+- 合作伙伴只能为 GCC 客户购买 GCC 订阅。 客户拥有 GCC 订阅后，合作伙伴将无法购买商业订阅、教育订阅或非营利组织订阅。
+- 合作伙伴只能为非利润客户购买商业或非营利组织订阅。 合作伙伴无法为非营利组织客户购买 GCC 或教育订阅。
+- 有状态实体必须满足 [资格条件](https://www.microsoft.com/legal/compliance/anticorruption/criteria)。
 
-为客户销售特别优惠的购买规则：
+用于将特殊产品/服务销售给客户的购买规则：
 
-|**客户类型**   |**可以出售**   |**无法出售**   |
+|**客户类型**   |**可以销售**   |**无法销售**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| 商用 |商用 | 非利润、教育或政府社区云 |
-| 非利润 |商业、非利润 | 教育或政府社区云 |
-| 教育 |商业、教育 | 非盈利或政府社区云 |
-| 政府社区云 |政府社区云 | 非利润、教育或商业 |
-| 状态所有实体  | 商用  | 非利润、教育或政府社区云  |
-| 如果教育和状态所有实体 | 商业、教育 | 非盈利或政府社区云 |
+| 商用 |商用 | 非营利组织、教育或政府社区云 |
+| 非利润 |商业、非营利组织 | 教育或政府社区云 |
+| 教育 |商业、教育 | 非利润或政府社区云 |
+| 政府社区云 |政府社区云 | 非营利组织、教育或商业 |
+| 有状态实体  | 商用  | 非营利组织、教育或政府社区云  |
+| 如果 Education 和 State Owned Entity | 商业、教育 | 非利润或政府社区云 |
 | 如果状态拥有实体和政府社区云 | 政府社区云 | 非利润、教育或商业 |
 
 ## <a name="next-steps"></a>后续步骤

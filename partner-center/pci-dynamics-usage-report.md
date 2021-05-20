@@ -8,21 +8,16 @@ description: 了解你的工作情况，并了解你为客户销售或管理的 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086917"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152794"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从合作伙伴中心见解仪表板获取 Dynamics 用量报告
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
-- 报表查看器
-- 主管人员报表查看器
+**适当的角色**：全局管理员 |管理代理 |报表查看器 |Executive 报表查看器
 
 Dynamics usage 报表为你为客户销售或管理的 Dynamics 365 订阅提供使用数据。 你可以从 dynamics usage 报表查看以下部分。
 
@@ -51,35 +46,35 @@ Dynamics usage 报表为你为客户销售或管理的 Dynamics 365 订阅提供
 
    微图表提供所选时间段内每月活动座位的月趋势。
 
-- 活动使用率百分比：以所选时间范围内可用座位百分比表示的活动座位总数。 
+- 活动使用百分比：以所选时间框架可用席位的百分比表示的活动席位总数。 
 
-   微图显示所选时间段内活动用量百分比的月趋势。
+   Micro 图表显示所选时间段的活动使用百分比的每月趋势。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics 用量摘要":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics 使用情况摘要":::
 
-## <a name="dynamics-usage-by-geography"></a>地域的 Dynamics 用量
+## <a name="dynamics-usage-by-geography"></a>按地理位置的 Dynamics 使用情况
 
-**地域的 Dynamics 用量** 描述了各客户所在国家/地区的可用座位和活动座位的分布情况。 地图上较亮的颜色表示较小的值，而较暗的颜色表示较高的值。 您可以在网格中搜索和选择国家/地区。 您还可以放大以获取更详细的外观。
+按 **地理位置的 Dynamics 使用情况** 描述了可用席位和可用席位的分布情况（按客户国家/地区）。 地图上较浅的颜色表示较低的值，而较深的颜色表示较高的值。 可以在网格中搜索并选择国家/地区。 还可以放大以进一步查看。
 
-" **国家/地区** " 表中显示了在其中生成 Azure 使用情况事件的国家/地区的数量。
+" **国家/地区数量** "表显示生成 Azure 使用事件的国家/地区总数。
 
-您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 选择映射上的 " **Home** " 选项以恢复到原始视图。
+可以在网格中搜索并选择国家/地区，以缩放到地图中的位置。 选择 **地图上** 的"主页"选项以还原为原始视图。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="地域的 Dynamics 用量":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="按地理位置的 Dynamics 使用情况":::
 
-## <a name="dynamics-usage-by-sku"></a>按 SKU 的 Dynamics 用量
+## <a name="dynamics-usage-by-sku"></a>按 SKU 的 Dynamics 使用情况
 
-SKU 的 Dynamics 用量按 Sku 描述可用座位、活动座位和分配的座位的每月趋势。
+SKU 的 Dynamics 使用情况按 SKU 描述了可用席位、活动席位和分配的席位的每月趋势。
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="按 SKU 的 Dynamics 用量":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="按 SKU 的 Dynamics 使用情况":::
 
 ## <a name="subscriptions-performance"></a>订阅性能
 
-订阅性能描述每个客户订阅的每月活动使用趋势。 按计费收入列出排名前100的客户的数据显示在表中，您可以搜索任何客户或下载原始数据以查看所有订阅的详细信息。
+"订阅"性能描述了每个客户订阅的活动使用情况的每月趋势。 表中显示了按计费收入排名前 100 的客户的数据，你可以搜索任何客户或下载原始数据以查看所有订阅的详细信息。
 
 :::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Dynamics 订阅性能":::
 
-## <a name="dynamics-usage-distribution"></a>Dynamics 用量分布
+## <a name="dynamics-usage-distribution"></a>Dynamics 使用情况分布
 
 Dynamics 用量分布以 Sku 描述可用座位数、活动座位数和分配的座位数。
 

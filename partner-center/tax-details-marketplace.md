@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: f96f765596024e2df5f1c9e2418ff331dbcd51eb
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854802"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152743"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>商业市场发布者的税务详细信息
 
-**适当的角色**：全局管理员
+**相应的角色**：全局管理员
 
-本页为商业市场出版商 (出版商) 和使用者 Marketplace 开发人员 (开发人员) 与 [Microsoft Azure 市场出版商协议](https://go.microsoft.com/fwlink/p/?LinkID=699560) 和 [应用开发人员协议](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)相关的出版商/开发人员产品的最终客户购买的税务责任和税务注意事项。  以下信息是对 Microsoft 发行者协议和应用开发人员协议中的条款和条件的补充，而不打算替换。  除非另有说明，否则以下信息适用于商业 Marketplace 发布者和使用者 Marketplace 开发人员，这些开发人员通过 Microsoft 市场提供其产品/产品/服务。 
+本页为商业市场出版商 (出版商) 和使用者 Marketplace 开发人员 (开发人员) 与 [Microsoft Azure 市场出版商协议](/legal/marketplace/msft-publisher-agreement) 和 [应用开发人员协议](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)相关的出版商/开发人员产品的最终客户购买的税务责任和税务注意事项。  以下信息是对 Microsoft 发行者协议和应用开发人员协议中的条款和条件的补充，而不打算替换。  除非另有说明，否则以下信息适用于商业 Marketplace 发布者和使用者 Marketplace 开发人员，这些开发人员通过 Microsoft 市场提供其产品/产品/服务。 
 
 ## <a name="end-customer-taxation"></a>最终客户纳税
 
@@ -48,7 +48,7 @@ Microsoft 不保证 Microsoft 的操作将完全履行 Microsoft 托管国家/�
 |安提瓜 & 巴布达|埃及|莱索托|赞比亚|
 |阿鲁巴|萨尔瓦多|利比里亚|乌拉圭|
 |阿塞拜疆|赤道几内亚|利比亚|
-|孟加拉国|厄立特里亚|中国澳门 |
+|孟加拉|厄立特里亚|中国澳门 |
 |巴巴多斯|埃塞俄比亚|马达加斯加|
 |伯利兹|福克兰群岛|马拉维|
 |贝宁|法罗群岛|马尔代夫|
@@ -59,7 +59,7 @@ Microsoft 不保证 Microsoft 的操作将完全履行 Microsoft 托管国家/�
 |波斯尼亚 & 黑塞哥维那|直布罗陀|毛里求斯|
 |博茨瓦纳|格陵兰|Ma Ote|
 |布韦岛|格林纳达|密克罗尼西亚|
-|英属维尔京群岛|瓜德罗普|摩尔多瓦
+|英属维尔京群岛|瓜德罗普岛|摩尔多瓦
 |文莱|关岛|蒙古|
 |布基纳法索|危地马拉|黑山|
 |布隆迪|根西岛|蒙特塞拉特|
@@ -87,7 +87,7 @@ Microsoft 不保证 Microsoft 的操作将完全履行 Microsoft 托管国家/�
 |加拿大|冰岛|新西兰|西班牙|
 |智利|印度|挪威|瑞典|
 |哥伦比亚|印度尼西亚|波兰|瑞士|
-|克罗地亚|爱尔兰|葡萄牙|中国台湾|
+|克罗地亚|爱尔兰|葡萄牙|台湾|
 |塞浦路斯|意大利|罗马尼亚|土耳其|
 捷克|拉脱维亚|俄罗斯|阿拉伯联合酋长国|
 |丹麦|列支敦士登|沙特阿拉伯|英国|

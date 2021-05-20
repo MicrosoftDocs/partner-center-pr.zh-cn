@@ -9,19 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21be5b22c453174fcb66e9409d6e26dad8e25c6b
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 721caed2d8b0e24940e7adedeb90cc689a82d2e7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686341"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152828"
 ---
 # <a name="export--data-definitions"></a>导出–数据定义 
 
-**相应的角色** 
-
-- 报表查看器
-- 主管人员报表查看器
+**适当的角色**：报表查看器 |Executive 报表查看器
 
 ## <a name="introduction"></a>简介 
 
@@ -47,20 +44,20 @@ ms.locfileid: "109686341"
 | :--------- | :--------- | 
 | CustomerName | 购买订阅的客户的名称 | 
 | CustomerTenantId | 客户租户的标识符 | 
-| CustomerTpid | 客户的顶级父级的标识符 | 
+| CustomerTpid | 客户最顶层父级的标识符 | 
 | CustomerSegment | 客户细分 | 
 | CustomerMarket | 客户的地理市场 | 
 | CustomerStatus | 客户状态 (活动或非活动)  | 
 | 产品 | MPN 销售给客户的产品：O365、DYNAMICS 365、企业移动性 + 安全性、Power BI 或 Microsoft Azure | 
 | SKU | 产品 SKU | 
-| 月 | 报告使用情况和收入月份 | 
+| 月份 | 报告使用情况和收入月份 | 
 | MPNId | 标识符Microsoft 合作伙伴网络 | 
 | PartnerName | 合作伙伴的名称 | 
 | PartnerLocation | 合作伙伴的地理位置 | 
 | PartnerAttributionType | 合作伙伴的归属类型 | 
 | SalesChannel | 销售渠道 | 
 | AvailableSeats | 可用席位 | 
-| RevenueUSD | 收入（美元） | 
+| RevenueUSD | 美元收入 | 
 
 ### <a name="reseller-performance-report"></a>**分销商性能报告**
 
@@ -74,14 +71,14 @@ ms.locfileid: "109686341"
 | ResellerMarket | 市场分销商国家/地区 | 
 | IndirectProviderMPNId | 间接提供程序的标识符 Microsoft 合作伙伴网络 | 
 | IndirectProviderName | 间接提供程序名称 | 
-| 月 | 报告使用情况和收入的月份 | 
+| 月份 | 报告使用情况和收入的月份 | 
 | 产品 | 产品名称 | 
 | 订阅 ID | 订阅的标识符 | 
 | AvailableSeats | 可用座位数 | 
 | AssignedSeats | 已分配的座位数 | 
 | BilledRevenueUSD | 美元计费收入 | 
 | CustomerName | 购买订阅的客户的名称 | 
-| CustomerTPid | 客户的顶级父级的标识符 | 
+| CustomerTPid | 客户最顶层父级的标识符 | 
 | CustomerSegment | 客户细分 | 
 | CustomerMarket | 客户的地理市场 | 
 | ResellerStatus | 经销商状态 | 
@@ -97,12 +94,12 @@ ms.locfileid: "109686341"
 | SubscriptionStartDate | 订阅的开始日期 | 
 | SubscriptionEndDate | 订阅的结束日期 | 
 | SubscriptionState | 活动或流失 (订阅的状态)  | 
-| 月 | 报告使用情况和收入月份 | 
+| 月份 | 报告使用情况和收入月份 | 
 | IsAutoRenew | 指示订阅是自动续订 (是还是否)  | 
 | CustomerName | 购买订阅的客户的名称 | 
 | CustomerTenantId | 客户的 GUID | 
 | CustomerTpid | 客户最顶层的父标识符 | 
-| CustomerSegment | 客户的细分市场 | 
+| CustomerSegment | 客户市场领域 | 
 | CustomerMarket | 客户的地理市场 | 
 | 产品 | 合作伙伴向客户销售的产品 | 
 | SKU | 产品 SKU | 
@@ -123,7 +120,7 @@ ms.locfileid: "109686341"
 | SubscriptionStartDate | 订阅开始日期 | 
 | SubscriptionEndDate | 订阅结束日期 | 
 | SubscriptionState | 订阅的当前状态 (打开、关闭、活动或宽限期)  | 
-| 月 | 按月聚合的日期 | 
+| 月份 | 按月聚合的日期 | 
 | ServiceName | Azure 服务的名称 | 
 | MeterCategory | 计量类别的名称 | 
 | UsageUnits | 计费周期中使用的单位数 | 
@@ -134,7 +131,7 @@ ms.locfileid: "109686341"
 | CustomerMarket | 客户的地理市场 | 
 | MPNId | Microsoft 合作伙伴网络 ID | 
 | PartnerName | 合作伙伴的名称 | 
-| PartnerLocation | 合作伙伴的地理位置 | 
+| PartnerLocation | 合作伙伴的地理国家/地区位置 | 
 | PartnerAttributionType | 合作伙伴的特性类型 | 
 | SalesChannel | 销售渠道 (直接/CSP、间接/CSP、直接等)  | 
 | ACR_USD | Azure 使用了年收入 (ACR) 美元 | 
@@ -147,11 +144,11 @@ ms.locfileid: "109686341"
 | CustomerTenantId | 客户的租户 ID | 
 | CustomerTpid | 客户的上层父 ID | 
 | WorkloadName | Skype for Business、团队、Exchange Online | 
-| 月 | 报告使用情况的月份 | 
+| 月份 | 报告使用情况的月份 | 
 | PaidAvailableUnits | 付费可用单位数 | 
 | MonthlyActiveUsers | 每月活动用户数 | 
 | CustomerName | 购买订阅的客户的名称 | 
-| CustomerMarket | 客户市场的地理国家/地区位置 | 
+| CustomerMarket | 客户市场的国家/地区位置 | 
 | CustomerSegment | 客户细分 | 
 | MPNId | 标识符Microsoft 合作伙伴网络 | 
 | PartnerName | 合作伙伴的名称 | 
@@ -165,9 +162,9 @@ ms.locfileid: "109686341"
 | CustomerTenantId | 客户的租户 ID | 
 | CustomerTpid | 客户排名前父级 ID | 
 | WorkloadName | EMS 企业移动性 + 安全性 (工作负荷) 的名称 | 
-| 月 | 报告使用情况的月份 | 
+| 月份 | 报告使用情况的月份 | 
 | PaidAvailableUnits | 付费可用单位数 | 
-| MonthlyActiveUsers | 月度活跃用户数 | 
+| MonthlyActiveUsers | 每月活动用户数 | 
 | CustomerName | 购买订阅的客户的名称 | 
 | CustomerMarket | 客户市场的地理国家/地区位置 | 
 | CustomerSegment | Customer 段 | 
@@ -184,7 +181,7 @@ ms.locfileid: "109686341"
 | SubscriptionStartDate | 订阅的开始日期 | 
 | SubscriptionEndDate | 订阅的结束日期 | 
 | SubscriptionStatus | 订阅状态 | 
-| 月 | 报告使用情况的月份 | 
+| 月份 | 报告使用情况的月份 | 
 | RevSumDivisionName | Rev sum 相除的名称 | 
 | RevSumCategoryName | 修订总和类别的名称 | 
 | SKU | 产品的 SKU | 
@@ -215,7 +212,7 @@ ms.locfileid: "109686341"
 | SubscriptionStartDate | 订阅的开始日期 | 
 | SubscriptionEndDate | 订阅的结束日期 | 
 | SubscriptionStatus | 订阅状态 ("活动"、"非活动" 或 "宽限期")  | 
-| 月 | 按月聚合的日期 | 
+| 月份 | 按月聚合的日期 | 
 | SKU | 产品的 SKU | 
 | SKUId | 产品的 SKU ID | 
 | FreeVsPaidSKU | 免费或付费 SKU 差异 | 
@@ -242,8 +239,8 @@ ms.locfileid: "109686341"
 | :--------- | :--------- | 
 | CustomerTenantId | 客户的租户 ID | 
 | CustomerTpid | 客户的顶级父级的标识符 | 
-| 月 | 报告使用情况的月份 | 
-| Subworkload |  (会议、呼叫或电话系统报告其使用情况的 Subworkload)  | 
+| 月份 | 报告使用情况的月份 | 
+| Subworkload | 在会议、电话或电话系统 (报告使用情况的子)  | 
 | 会议计数 | 会议次数 | 
 | 会议持续时间 | 总会议持续时间（以小时表示） | 
 
@@ -253,7 +250,7 @@ ms.locfileid: "109686341"
 | :--------- | :--------- | 
 | CustomerTenantId | 客户的租户 ID | 
 | CustomerTpid | 客户最顶层父级的标识符 | 
-| 月 | 报告使用情况的月份 | 
+| 月份 | 报告使用情况的月份 | 
 | 子工作加载 | 在会议、电话或电话系统 (报告使用情况的子)  | 
 | 桌面用户 | 在桌面上使用 Teams 的用户数 | 
 | 移动用户 | 在移动设备上使用 Teams 的用户数 | 
@@ -266,7 +263,7 @@ ms.locfileid: "109686341"
 | :--------- | :--------- | 
 | CustomerTenantId | 客户的租户 ID | 
 | CustomerTpid | 客户的上层父 ID | 
-| 月 | 报告使用情况的月份 | 
+| 月份 | 报告使用情况的月份 | 
 | w 应用名称 | 团队应用的名称 | 
 | 用户计数 | 应用的用户数 | 
 
@@ -283,7 +280,7 @@ ms.locfileid: "109686341"
 | 电子邮件 | 客户的个人电子邮件 ID | 
 | CorpEmail | 客户的 Office 电子邮件 ID | 
 | TrainingCompletionDate | 训练的完成日期 | 
-| 月 | 报告数据的月份 | 
+| 月份 | 报告数据的月份 | 
 | IcMCP | 指示用户是否是 Microsoft 认证专家 (MCP)  | 
 | MCPID | 用户的 MCP ID | 
 | MPNId | 标识符Microsoft 合作伙伴网络 | 
@@ -314,7 +311,7 @@ ms.locfileid: "109686341"
 | CompetencyLevel | 资格级别 (金牌或银)  | 
 | CompetencyStatus | 工作能力的当前状态 (活动、非活动或处于宽限期)  | 
 | CompetencyStartDate | 胜任度的开始日期 | 
-| CompetencyEndDate | 胜任度的结束日期 | 
+| CompetencyEndDate | 资格结束日期 | 
 
 ### <a name="competency-performance-report"></a>**能力绩效报告**
 
@@ -322,7 +319,7 @@ ms.locfileid: "109686341"
 | :--------- | :--------- | 
 | CompetencyName | 能力的名称 | 
 | CompetencyAttainmentOptionName | 资格认证选项的名称 | 
-| 月 | 报告指标的月份 | 
+| 月份 | 报告指标的月份 | 
 | MetricName | 与资格相关的指标的名称 | 
 | MetricMonthlyContribution | 指标的每月贡献 | 
 | TTMAggregate | 尾随 12 个月的聚合指标 | 
@@ -338,8 +335,8 @@ ms.locfileid: "109686341"
 | 合作伙伴名称 | 合作伙伴的名称 | 
 | 客户 ID | 客户的标识符编号 | 
 | DUNS 号 | Dun & Bradstreet (D&B) 为电网评分的客户的编号 | 
-| Account Name | 帐户的名称 | 
-| 域 | 帐户的域 | 
+| 帐户名 | 帐户的名称 | 
+| Domain | 帐户的域 | 
 | 组织规模 | 组织规模 | 
 | 行业 | 组织所属的行业 | 
 | 垂直 | 按 Microsoft、D&B 和其他行业标准确定的电网评分的客户 | 
@@ -359,23 +356,23 @@ ms.locfileid: "109686341"
 | 启用远程工作 - 目标 Exchange Online | 具有有效的 Exchange Online 订阅的客户，可向上Microsoft 365 | 
 | 启用远程工作 - 使用云 (10 个许可证) 当前版本的本地获取 | 具有当前本地 Office 或 Windows 客户端的客户。 也就是说，客户端版本比 EOL (生命周期) 结束。 客户有 10 个或多个许可证。 具有属性分数的客户。 合作伙伴应目标为转换为Microsoft 365。 | 
 | 使用 Cloud Ascent (启用远程工作 - (当前) 版本 - <10 个许可证 | 具有当前本地 Office 或 Windows 客户端 (，即版本高于 EOL) 。 客户许可证少于 10 个。 具有属性分数的客户。 合作伙伴应目标为转换为Microsoft 365。 | 
-| 启用远程工作 - 本地获取 (当前) 无 Cloud Ascent 属性 - +10 个许可证 | 如果客户使用的是当前的本地 Office 或 Windows 客户端 (即，晚于 EOL) 的版本。 客户有10个或更多许可证。 客户没有电网分数。 合作伙伴应定位到 Microsoft 365。 | 
+| 启用 (当前版本) 的远程工作本地获取，不使用云上升电网-+ 10 许可证 | 如果客户使用的是当前的本地 Office 或 Windows 客户端 (即，晚于 EOL) 的版本。 客户有10个或更多许可证。 客户没有电网分数。 合作伙伴应定位到 Microsoft 365。 | 
 | 启用 (当前版本) 的远程工作本地获取，不使用云上升电网-<10 个许可证 | 如果客户使用的是当前的本地 Office 或 Windows 客户端 (即，晚于 EOL) 的版本。 客户的许可证少于10个。 客户没有电网分数。 合作伙伴应定位到 Microsoft 365。 | 
 | 启用 (EOL 版本) 的远程工作本地获取与云提升电网-+ 10 许可证 | 拥有 EOL 本地办公室或 Windows 客户端 (的客户，即 EOL 版本或早期) 。 客户有10个或更多许可证。 客户具有电网分数。 合作伙伴应定位到 Microsoft 365。 | 
 | 启用 (EOL 版本) 的远程工作本地购置，并使用云上升电网-<10 个许可证 | 拥有 EOL 本地办公室或 Windows 客户端 (的客户，即 EOL 版本或早期) 。 客户的许可证少于10个。 客户具有电网分数。 合作伙伴应定位到 Microsoft 365。 | 
-| 启用 (EOL 版本) 的远程工作本地采集，无需 Cloud 升高电网-+ 10 许可证 | 具有当前本地 Office 或 Windows 客户端 (EOL 版本或更早版本) 。 客户有 10 个或多个许可证。 客户没有属性分数。 合作伙伴应目标为转换为Microsoft 365。 | 
+| 启用远程工作 - 无需 Cloud Ascent (EOL) 本地获取 - +10 个许可证 | 具有当前本地 Office 或 Windows 客户端 (EOL 版本或更早版本) 。 客户有 10 个或多个许可证。 客户没有属性分数。 合作伙伴应目标为转换为Microsoft 365。 | 
 | 启用远程工作 - 无需 Cloud Ascent (EOL) 本地获取 - <10 个许可证 | 具有当前本地 Office 或 Windows 客户端 (EOL 版本或更早版本) 。 客户许可证少于 10 个。 客户没有属性分数。 合作伙伴应目标为转换为Microsoft 365。 | 
 | 启用远程工作 - 针对 Microsoft 365 (Act NowithEvaluate)  | 目标客户具有较高的目标Microsoft 365 | 
 | 启用远程工作 - (Zoom) Microsoft 365 | 具有 Zoom 和 Microsoft 365 的客户，用于转换为 Teams 的目标 | 
 | 启用远程工作 - 在不 (的情况下) Zoom Microsoft 365 | 具有 Zoom 的客户，用于转换为 Teams 的目标 | 
 | 降低成本和管理 - Microsoft 365 E3 面向 Microsoft 365 E5 | 使用 E3 Microsoft 365客户，目标为 Microsoft 365 E5 | 
 | 降低成本和管理 - Microsoft 365业务高级版的目标业务Microsoft 365业务标准版客户 | 现有 Microsoft 365 Business Basic 和业务标准版客户，面向 Microsoft 365 Business Premium | 
-| 转换组织工作效率 - 表面属性 | Customer 显示电网 | 
+| 转换组织工作效率-Surface 电网 | Customer 显示电网 | 
 | M365Cluster | 标识客户电网购买 Microsoft 365。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当 "立即行动" 和 "评估客户" 为目标时仍有容量时，才面向维护并为客户提供培训。 | 
 | M365Fit | 定义 firmographics 的内部和外部数据点。 适应评分使用 lookalike 的模型， () 中小型企业中小型企业来比较客户，并查看其是否适用于 Microsoft 云产品。 按季度更新适合评分。 | 
 | M365Intent | 与社交媒体和客户的联机行为相关的信号定义意向。 意向计分重叠在一起以定义分类。 意向评分每月更新一次。 | 
 | SurfaceCluster | 通过将 "拟合" 和 "意向" 建议合并到群集中，确定客户的电网购买面。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当 "立即行动" 和 "评估客户" 为目标时仍有容量时，才面向维护并为客户提供培训。 | 
-| SurfaceFit | 定义 firmographics 的内部和外部数据点。 合适的评分使用 lookalike 模型来比较客户，并查看其是否适用于 Microsoft 云产品。 拟合评分每季度更新一次。 | 
+| SurfaceFit | 定义 firmographics 的内部和外部数据点。 拟合评分使用我们最佳 SMB 的类似模型来比较客户，并查看它们是否适合 Microsoft 云产品。 拟合评分每季度更新一次。 | 
 | SurfaceIntent | 与社交媒体和客户在线行为相关的信号定义了意向。 意向评分叠加在"拟合"上以定义群集。 意向评分每月更新一次。 | 
 | O365Cluster | 标识客户购买 Office 365 的念性。 目标"立即行动"和"评估群集"，因为它们将产生更高的收益。 只有在"立即行动"和"评估客户"之后仍有容量时，才面向目标"教育"和"培训客户"。 | 
 | O365Fit | 用于定义公司图的内部和外部数据点。 拟合评分使用我们最佳 SMB 的类似模型来比较客户，并查看它们是否适合 Microsoft 云产品。 拟合评分每季度更新一次。 | 
@@ -394,13 +391,13 @@ ms.locfileid: "109686341"
 | 合作伙伴名称 | 合作伙伴的名称 | 
 | 客户 ID | 客户标识符编号 | 
 | DUNS 号 | Dun & 为电网评分的客户的 Bradstreet 号码 | 
-| Account Name | 帐户的名称 | 
-| 域 | 帐户的域 | 
+| 帐户名 | 帐户的名称 | 
+| Domain | 帐户的域 | 
 | 组织规模 | 组织规模 | 
 | 行业 | 组织所属的行业 | 
 | 垂直 | 按 Microsoft、D&B 和其他行业标准确定的电网评分的客户
 | 区域 | 位置的地理区域 | 
-| 附属公司 | 正在为电网评分的客户的子公司 | 
+| 附属公司 | 因属性而评分的客户子公司 | 
 | 销售区域 | 因属性而评分的客户的销售区域 | 
 | 城市 | 地理位置 | 
 | 状态 | 地理位置 | 
@@ -412,14 +409,14 @@ ms.locfileid: "109686341"
 | 顶级非托管 - 计算基础 | 排名前非托管客户 - 计算 | 
 | 排名前非托管 - 用户群 | 排名前非托管客户 - 用户 | 
 | IsNonProfit | 指示组织是非利润组织 (是还是否)  | 
-| 激活数字销售 - Microsoft 365 - 席位大小 >= 25 (SalesProensity 模型)  | 没有 Dynamics 365 的客户。 席位大小：25+。 合作伙伴应面向 Dynamics 365 SalesPro 的交叉销售。 | 
+| 激活数字销售 - Microsoft 365 - 席位大小 >= 25 (SalesProensity 模型)  | 没有 Dynamics 365 的客户。 席位大小：25+。 合作伙伴应瞄准 Dynamics 365 SalesPro 的交叉销售目标。 | 
 | 激活数字销售-Dynamics 365 SalesPro 电网 (立即操作或评估)  | 无 Dynamics 365 的电网客户。 合作伙伴应以 Dynamics 365 SalesPro 为目标。 | 
 | 管理财务风险 & 欺诈-Dynamics 本地安装 Navision (Business Central 电网模型)  | 具有本地 Navision 的现有客户。 合作伙伴应面向 Dynamics 365 Business Central。 | 
 | 管理财务风险 & 欺诈-Dynamics 本地安装基本-Dynamics AX (Dynamics 365 财务 + Operations 电网模型)  | 具有本地 AX 的现有客户。 合作伙伴应面向 Dynamics 365 财务 + 运营。 | 
 | 管理财务风险 & 欺诈-Dynamics 本地安装基本-优秀 Plains (Business Central 电网模型)  | 具有本地强大 Plains 的现有客户。 合作伙伴应面向 Dynamics 365 Business Central。 | 
 | 管理财务风险 & 欺诈-Dynamics 本地安装基本-所罗门群岛 (Business Central 电网型号)  | 具有本地所罗门群岛的现有客户。 合作伙伴应面向 Dynamics 365 Business Central。 | 
 | 管理金融风险 & 欺诈-Dynamics 本地安装基础-其他 (Business Central 电网模型)  | 具有以前未列出的其他本地解决方案的现有客户。 合作伙伴应面向 Dynamics 365 Business Central。 | 
-| 构建 Agile 业务流程-动态本地安装基础-AX/GP/SL/NAV/其他 (Dynamics 365 电网模型)  | 构建 Agile 业务流程-动态本地安装基础-AX/GP/SL/NAV/其他 (Dynamics 365 电网模型)  | 
+| 构建 Agile 业务流程-动态本地安装基础-AX/GP/SL/NAV/其他 (Dynamics 365 电网模型)  | 生成敏捷业务流程 - Dynamics 本地安装基础 - AX/GP/SL/NAV/其他 (Dynamics 365 属性模型)  | 
 | 构建敏捷业务流程 - Dynamics 竞争基础 - Mendix/OutSystems/Salesforce (Dynamics 365 属性模型)  | 构建敏捷业务流程 - Dynamics 竞争基础 - Mendix/OutSystems/Salesforce (Dynamics 365 属性模型)  | 
 | 生成敏捷业务流程 - Dynamics 365 Finance + Operations 安装基础 | 现有 Dynamics 365 Finance + Operations 客户。 合作伙伴以Power Apps。 | 
 | 生成敏捷业务流程 - Dynamics 365 Business Central 安装基础 | 现有 Dynamics 365 Business Central 客户。 合作伙伴以Power Apps。 | 
@@ -427,7 +424,7 @@ ms.locfileid: "109686341"
 | 构建可复原供应链 - Windows，并激活第一个 Dynamics 365 工作负荷，作为 Dynamics 365 Supply Chain Management（使用非 Oracle 或 SAP ERP (）) 客户 | Dynamics 365 Supply Chain Management 的目标客户 | 
 | 构建可复原供应链 - 将 Dynamics 365 Supply Chain Management 和/或零售或商务产品交叉销售给现有 Dynamics 365 Customer Engagement 客户 | 现有 Dynamics 365 Customer Engagement 客户面向交叉销售 Dynamics 365 Supply Chain Management。 | 
 | 构建弹性供应链 - 将 Dynamics 365 Supply Chain Management 和/或零售或商务产品交叉销售到 Dynamics 365 Customer Engagement 和 Oracle 或 SAP | 使用 Oracle 或 SAP 的现有 Dynamics 365 客户参与客户，以面向 Dynamics 365 Supply Chain Management | 
-| D365BCCluster | 标识客户购买 Dynamics 365 Business Central 的倾向。 显示 Business Central 倾向的客户将位于"中型"和"小型"类别中。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当目标为 "立即操作" 并评估客户后，才将维护并向客户提供培训。 | 
+| D365BCCluster | 标识客户购买 Dynamics 365 Business Central 的倾向。 显示电网 for Business Central 的客户将处于中等和小类别。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当目标为 "立即操作" 并评估客户后，才将维护并向客户提供培训。 | 
 | D365BCFit | 定义 firmographics 的内部和外部数据点。 适应评分使用 lookalike 模型来比较客户，并查看其是否适用于 Microsoft 云产品。 按季度更新适合评分。 | 
 | D365BCIntent | 与社交媒体和客户的联机行为相关的信号定义意向。 意向计分重叠在一起以定义分类。 意向评分每月更新一次。 | 
 | D365FOCluster | 确定客户电网购买 Dynamics 365 财务和运营。 显示电网 for 金融 + 操作的客户将位于前几个非托管类别。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当目标为 "立即操作" 并评估客户后，才将维护并向客户提供培训。 | 
@@ -439,7 +436,7 @@ ms.locfileid: "109686341"
 | DynamicsOnPremAXorCRM_HasOpenRenewal | 标识客户是否对 Dynamics 本地 AX 或 CRM 开放续订 | 
 | M365UpsellCustomer | 标识客户是否显示客户对Microsoft 365 | 
 | 具有 Google | 确定客户是否显示拥有 Google 产品的竞争信号 | 
-| 具有 AWS | 确定客户是否显示拥有 AWS 产品的竞争信号 | 
+| 具有 AWS | 确定客户是否显示适用于拥有 AWS 产品的竞争信号 | 
 | 具有 EA | 标识续订是 EA 订阅还是 EA 订阅 | 
 | 已打开 | 标识续订是开放还是开盘值协议 | 
 
@@ -451,8 +448,8 @@ ms.locfileid: "109686341"
 | 合作伙伴名称 | 合作伙伴的名称 | 
 | 客户 ID | 客户标识符编号 | 
 | DUNS 号 | Dun & 为电网评分的客户的 Bradstreet 号码 | 
-| Account Name | 帐户的名称 | 
-| 域 | 帐户的域 | 
+| 帐户名 | 帐户的名称 | 
+| Domain | 帐户的域 | 
 | 组织规模 | 组织规模 | 
 | 行业 | 行业 | 
 | 垂直 | 按 Microsoft、D&B 和其他行业标准确定的电网评分的客户 | 
@@ -470,24 +467,24 @@ ms.locfileid: "109686341"
 | 排名前非托管 - 用户群 | 排名前非托管客户 - 用户 | 
 | IsNonProfit | 指示组织是非利润组织 (是还是否)  | 
 | 迁移 - EOL Windows Server - 具有云提升属性的 EOL Windows Server IB - 5+ 许可证 | 具有 EOL 本地 Windows Server (（即 EOL 版本或更早版本）的客户) 。 客户有 5 个或多个许可证。 具有属性分数的客户。 合作伙伴应面向此客户，以迁移到 Azure。 | 
-| 迁移 - EOL Windows Server - EOL Windows Server IB 和 Cloud Ascent 属性 - <5 个许可证 | 具有 EOL 本地 Windows Server (（即 EOL 版本或更早版本）的客户) 。 客户的许可证少于 5 个。 具有电网分数的客户。 合作伙伴应面向此客户迁移到 Azure。 | 
+| 迁移 - EOL Windows Server - EOL Windows Server IB 和 Cloud Ascent 属性 - <5 个许可证 | 具有 EOL 本地 Windows Server (（即 EOL 版本或更早版本）的客户) 。 客户的许可证数少于5。 具有电网分数的客户。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-EOL Windows Server-EOL Windows Server IB，无云上升电网-5 + 许可证 | 拥有 EOL 本地 Windows Server (的客户，即 EOL 版本或早期) 。 客户拥有超过5个许可证。 客户没有电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-EOL Windows Server-EOL Windows Server IB，无云上升电网-<5 许可证 | 拥有 EOL 本地 Windows Server (的客户，即 EOL 版本或早期) 。 具有少于5个许可证。 客户没有电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-EOL SQL-EOL SQL Server IB，其中包含 Cloud 升高电网 + 许可证 | 具有 EOL 本地 SQL Server 的客户 (即 EOL 版本或更早的) 。 客户有5个许可证。 客户具有电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
-| 迁移-EOL SQL-EOL SQL Server IB 与云上升电网-<5 许可证 | 具有 EOL 本地 SQL Server 的客户 (即 EOL 版本或更早的) 。 具有少于5个许可证。 具有属性分数的客户。 合作伙伴应面向此客户，以迁移到 Azure。 | 
+| 迁移-EOL SQL-EOL SQL Server IB 与云上升电网-<5 许可证 | 具有 EOL 本地 SQL Server 的客户 (即 EOL 版本或更早的) 。 许可证少于 5 个。 具有属性分数的客户。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - EOL SQL - EOL SQL Server IB，不含 Cloud Ascent 属性 - 5+ 许可证 | 具有 EOL 本地版本的客户SQL Server (EOL 版本或更早版本) 。 客户有 5 个或多个许可证。 客户没有属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - EOL SQL - EOL SQL Server IB（不含 Cloud Ascent 属性）- <5 个许可证 | 具有 EOL 本地版本的客户SQL Server (EOL 版本或更早版本) 。 客户许可证少于 5 个。 客户没有属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - 迁移本地 Windows Server - 具有云提升属性的当前 Windows Server IB - 5+ 许可证 | 具有当前本地 Windows Server (，即版本高于 EOL) 。 客户拥有 5+ 个许可证。 客户有一个属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
-| 迁移 - 迁移本地 Windows Server - 具有云提升属性的当前 Windows Server IB - <5 个许可证 | 具有当前本地 Windows Server (，即版本高于 EOL) 。 客户许可证少于 5 个。 客户具有适用于 Azure 的电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
+| 迁移 - 迁移本地 Windows Server - 具有云提升属性的当前 Windows Server IB - <5 个许可证 | 具有当前本地 Windows Server (，即版本高于 EOL) 。 客户拥有少于5个许可证。 客户具有适用于 Azure 的电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-迁移本地 Windows Server-不带云升高的当前 Windows Server IB 电网 + 许可证 | 具有当前本地 Windows Server (的客户（即，晚于 EOL) 的版本）。 客户有5个许可证。 客户没有电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-迁移本地 Windows Server-不带云升高的当前 Windows Server IB 电网-<5 许可证 | 具有当前本地 Windows Server (的客户（即，晚于 EOL) 的版本）。 客户拥有少于5个许可证。 客户没有电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-迁移到 Azure SQL 或 SQL 虚拟机 (Vm) -当前 SQL Server IB 与云提升电网 + 许可证 | 当前本地 SQL Server 的客户 (即) 晚于 EOL 的版本。 客户有5个许可证。 客户具有电网分数。 合作伙伴应面向此客户迁移到 Azure。 | 
-| 迁移-迁移到 Azure SQL 或 SQL Vm-当前 SQL Server IB 与云上升电网-<5 许可证 | 当前本地 SQL Server 的客户 (即) 晚于 EOL 的版本。 客户拥有少于5个许可证。 客户有一个属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
+| 迁移-迁移到 Azure SQL 或 SQL Vm-当前 SQL Server IB 与云上升电网-<5 许可证 | 当前本地 SQL Server 的客户 (即) 晚于 EOL 的版本。 客户许可证少于 5 个。 客户有一个属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - 迁移到 Azure SQL 或 SQL VM - 当前 SQL SERVER IB（不含 Cloud Ascent 属性） - 5+ 个许可证 | 具有当前本地服务（即SQL Server (EOL 版本）的客户) 。 客户拥有 5+ 个许可证。 客户没有属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - 迁移到 Azure SQL 或 SQL VM - 当前为 IB SQL Server且没有 Cloud Ascent 属性 - <5 个许可证 | 具有当前本地服务（即SQL Server (EOL 版本）的客户) 。 客户许可证少于 5 个。 客户没有属性分数。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - OSS - 迁移到 OSS (DB) 开源 | 具有以下任一竞争产品的现有客户：PostgreSQL、MySQL、MariaDB。 合作伙伴应面向此客户，以迁移到 Azure。 | 
 | 迁移 - OSS - Azure 上的 Linux | Linux 的现有客户。 合作伙伴应面向此客户，以迁移到 Azure。 | 
-| 迁移 - SAP - Azure 上的 SAP | SAP 的现有客户。 合作伙伴应面向此客户迁移到 Azure。 | 
+| 迁移 - SAP - Azure 上的 SAP | 具有 SAP 的现有客户。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-Windows 虚拟桌面-远程桌面服务 IB | 标识具有活动 Windows 远程桌面服务的客户。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-Windows 虚拟桌面-交叉销售现代工作到 Azure/WVD | 标识具有 Microsoft 365 且没有 Azure 的客户。 合作伙伴应面向此客户迁移到 Azure。 | 
 | 迁移-VMware IB | 产品： VMware 的现有客户。 合作伙伴应面向此客户迁移到 Azure。 | 
@@ -495,7 +492,7 @@ ms.locfileid: "109686341"
 | 创新-通过高 Azure 电网进行分析-Power BI IB | 具有和 Active Power BI 订阅的客户，包括： Power BI 独立 Pro、Power BI Azure 套件、Power BI-Office 套件、Power BI 套件-Microsoft 365 | 
 | 使用 GitHub 实现-DevOps-Visual Studio/MSDN IB | 标识具有活动的 Visual Studio 版本的客户 | 
 | Windows Server Standard 版本 | 显示客户的 Windows Server Standard 购买版本 | 
-| Windows Server Standard license | 显示客户购买 Windows Server Standard 的许可证类型 | 
+| Windows Server Standard 许可证 | 显示客户购买 Windows Server Standard 的许可证类型 | 
 | Windows Server 数据中心版本 | 显示客户购买 Windows 数据中心的版本 | 
 | Windows Server 数据中心许可证 | 显示客户购买的 Windows 数据中心的许可证类型 | 
 | AzureFit | 用于定义公司图的内部和外部数据点。 拟合评分使用我们最佳 SMB 的类似模型来比较客户，并查看它们是否适合 Microsoft 云产品。 拟合评分每季度更新一次。 | 
@@ -517,8 +514,8 @@ ms.locfileid: "109686341"
 | 合作伙伴名称 | 合作伙伴的名称 | 
 | 客户 ID | 客户标识符编号 | 
 | DUNS 号 | Dun & 为电网评分的客户的 Bradstreet 号码 | 
-| Account Name | 帐户的名称 | 
-| 域 | 帐户的域 | 
+| 帐户名 | 帐户的名称 | 
+| Domain | 帐户的域 | 
 | 组织规模 | 组织规模 | 
 | 行业 | 行业 | 
 | 垂直 | 按 Microsoft、D&B 和其他行业标准标识的被评分的客户的垂直方向 | 
@@ -540,7 +537,7 @@ ms.locfileid: "109686341"
 | Azure 群集 | 标识客户电网购买 Azure。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当目标为 "立即操作" 并评估客户后，才将维护并向客户提供培训。 | 
 | D365 财经 + 运营群集 | 确定客户电网购买 Dynamics 365 财务和运营。 显示电网 for 金融 + 操作的客户将位于前几个非托管类别。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当目标为 "立即操作" 并评估客户后，才将维护并向客户提供培训。 | 
 | D365 CE 群集 | 标识客户的电网，以购买 Dynamics 365 客户参与。 显示电网以供客户参与的客户将处于中等和小类别。 目标立即操作并评估群集，因为它们会产生更高的收益。 仅当目标为 "立即操作" 并评估客户后，才将维护并向客户提供培训。 | 
-| D365 BC 群集 | 确定客户电网购买 Dynamics 365 Business Central。 显示电网 for Business Central 的客户将处于中等和小类别。 目标"立即行动"和"评估群集"，因为它们将产生更高的收益。 只有在面向"立即行动"和"评估客户"后仍有容量时，才面向"目标员工"和"培训客户"。 | 
+| D365 BC 群集 | 确定客户电网购买 Dynamics 365 Business Central。 显示 Business Central 倾向的客户将位于"中型"和"小型"类别中。 目标"立即行动"和"评估群集"，因为它们将产生更高的收益。 只有在面向"立即行动"和"评估客户"后仍有容量时，才面向"目标员工"和"培训客户"。 | 
 | Microsoft 365群集 | 标识客户购买产品Microsoft 365。 目标"立即行动"和"评估群集"，因为它们将产生更高的收益。 只有在面向"立即行动"和"评估客户"后仍有容量时，才面向"目标员工"和"培训客户"。 | 
 | 许可证计划 | 标识续订的许可证计划类型 | 
 | 协议 ID | 协议的标识符 | 
@@ -550,7 +547,7 @@ ms.locfileid: "109686341"
 | 具有 EA | 标识续订是 EA 订阅还是 EA 订阅 | 
 | 已打开 | 标识续订是开放式还是开放式价值协议 | 
 | Azure Upsell 客户 | 标识客户是否显示 Azure 的向上销售属性 | 
-| Microsoft 365 Upsell 客户 | 标识客户是否显示 Microsoft 365 的追加销售电网 | 
+| Microsoft 365 追加销售客户 | 标识客户是否显示 Microsoft 365 的追加销售电网 | 
 | RevSumDivisionName | 标识用于续订的产品 | 
 
 ## <a name="next-steps"></a>后续步骤

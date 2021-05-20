@@ -1,6 +1,6 @@
 ---
 title: 让客户在 CSP 中购买自己的服务
-description: 了解 CSP 计划合作伙伴如何允许客户购买其自己的服务（如 Azure 保留），以用于为合作伙伴中心购买的订阅。
+description: 了解 CSP 计划合作伙伴如何让客户购买自己的服务（例如 Azure 预留）来购买在 合作伙伴中心。
 ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
@@ -9,37 +9,34 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9fabd6bd188c9d596128672d9fce3321db9b5432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441296"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150754"
 ---
-# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>向客户授予合作伙伴中心的权限，以购买自己的产品或服务
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>授予客户合作伙伴中心购买自己的产品或服务的权限
 
-**相应的角色**
+**适当的角色**：管理员代理|销售代理
 
-- 管理员代理
-- 销售代理
+本文介绍云解决方案提供商云解决方案提供商 (合作伙伴) 如何授予客户购买自己的一些服务或资源的权限。
 
-本文介绍云解决方案提供商中的合作伙伴 (CSP) 计划如何向客户提供购买一些自己的服务或资源的权限。
+CSP 计划的合作伙伴通常使用 合作伙伴中心及其商业市场为客户购买解决方案和服务。 然后，合作伙伴允许某些客户直接从客户Azure 门户。
 
-CSP 计划中的合作伙伴通常使用合作伙伴中心及其商业市场为客户购买解决方案和服务。 然后，合作伙伴允许一些客户直接从 Azure 门户预配这些服务。
+下面是一个示例。 假设你为 合作伙伴中心 中的客户购买 Azure 计划合作伙伴中心。 然后，你决定代表客户将其他资源或服务添加到该订阅。 在这种情况下，可以将 Azure 预留添加到客户的订阅 (例如，将虚拟机预留实例添加到) 。 然后，可以允许客户在门户中进一步预配 Azure 预留Azure 门户。
 
-下面是一个示例。 假设你为合作伙伴中心的客户购买 Azure 计划订阅。 然后，你决定将其他资源或服务代表客户添加到该订阅。 在这种情况下，你可以向客户的订阅添加 Azure 保留 (例如，将预留的虚拟机实例添加) 。 然后，你可以允许客户在 Azure 门户中进一步预配 Azure 预订资源。
+现在，使用 **"客户权限** "功能，可以为客户提供更多 Azure 资源的自助服务选项。 通过为客户启用权限，可以让客户购买自己的资源，例如 (购买自己的 Azure 预留) 。  
 
-现在，通过 " **客户权限** " 功能，你可以向客户提供 Azure 资源的更多自助服务选项。 通过为客户启用权限，你可以让客户购买自己的资源， (例如购买自己的 Azure 预订) 。  
+## <a name="overview-of-customer-permissions-in-partner-center"></a>客户权限概述合作伙伴中心
 
-## <a name="overview-of-customer-permissions-in-partner-center"></a>合作伙伴中心的客户权限概述
+使用" **客户帐户** "页可以启用 (或关闭) 权限。 目前，此功能支持：
 
-使用 "客户 **帐户** " 页打开 (或关闭) 客户权限。 目前，此功能支持：
+- **Azure 预留：** 启用此权限后，客户可以购买自己为特定 Azure 订阅购买的 Azure 预留。
 
-- **Azure 保留：** 如果启用此权限，则客户可以为你为其购买的特定 Azure 订阅购买自己的 Azure 预订。
+在启用客户权限之前，请注意以下要点：
 
-在打开客户权限之前，请注意以下重要事项：
-
-- 默认情况下， (关闭合作伙伴中心) ，将自动禁用客户权限。
+- 默认情况下，客户权限在 (中) 自动合作伙伴中心。
 
 - 你必须在合作伙伴中心为你分配 "管理员代理" 角色，然后才能打开 (或关闭客户的) 权限。
 
@@ -65,31 +62,31 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 现在，你可以选择代表你的客户购买 Azure 预订，因为你可能已经做了。 或者，你可以授予客户购买自己的 Azure 预订的权限。
 
 >[!NOTE]
-> 向客户授予购买自己的 Azure 预订的权限后，可帮助他们管理他们购买的任何预订。 有关详细信息，请参阅 [帮助客户管理他们购买的预订](give-customers-permission.md#help-customers-manage-reservations-they-purchase)。
+> 向客户授予购买自己的 Azure 预订的权限后，可帮助他们管理他们购买的任何预订。 有关详细信息，请参阅帮助 [客户管理他们购买的预留](give-customers-permission.md#help-customers-manage-reservations-they-purchase)。
 
-### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>让客户购买自己的 Azure 预订
+### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>使客户能够购买自己的 Azure 预留
 
-1. 验证客户是否有代表你购买的现有 Azure 计划或 Azure 全局订阅。
+1. 验证客户是否拥有你代表他们购买的现有 Azure 计划或 Azure 全局订阅。
 
-2. 验证是否已为客户分配此订阅的 **所有者** 角色。
+2. 验证是否为客户分配了 **此订阅的** "所有者"角色。
 
-3. 启用客户权限 (**在) 上** 启用此功能，以购买自己的 Azure 预订。
+3. 启用客户权限 (开启此功能 **)** 购买自己的 Azure 预留。
 
 每个步骤如下所示。
 
-### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>验证客户是否有现有的 Azure 订阅
+### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>验证客户是否具有现有的 Azure 订阅
 
-在向客户提供购买其自己的 Azure 预订的权限之前，必须确保客户具有现有的 Azure 计划或 Azure 全局订阅。 如果客户在合作伙伴中心未显示当前的 Azure 订阅，则必须先为订阅购买订阅，然后才能打开其客户权限。
+在授予客户购买自己的 Azure 预留项的权限之前，必须验证客户是否具有现有的 Azure 计划或 Azure 全球订阅。 如果客户在订阅中未显示当前 Azure 合作伙伴中心，则必须在启用其客户权限之前为这些用户购买订阅。
 
-- 若要查看客户是否已有 Azure 订阅，请登录到合作伙伴中心仪表板，然后选择 " **CSP** 后跟 **客户**"。 从列表中选择特定的客户。 然后，选择 " **订阅** "，并查找适用于 azure 计划或 azure Global 的任何基于使用情况的订阅。
+- 若要了解客户是否已有 Azure 订阅，请登录到 合作伙伴中心 仪表板，然后选择 **"CSP"，** 然后选择"**客户"。** 从列表中选择特定客户。 然后选择 **"订阅** "，然后查找 Azure 计划或 Azure Global 的任何基于使用情况的订阅。
 
-- 如果客户没有现有的 Azure 订阅，你可以购买订阅。 请参阅 [购买 Azure 计划](purchase-azure-plan.md)。
+- 如果客户没有现有的 Azure 订阅，可以购买其订阅。 请参阅 [购买 Azure 计划](purchase-azure-plan.md)。
 
-### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>验证是否在 Azure 中为客户分配了正确的角色
+### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>验证客户在 Azure 中是否分配了正确的角色
 
-验证客户是否有现有 Azure 订阅后，还需要验证与客户关联的密钥用户是否已被分配了正确的 Azure 订阅 **所有者** 角色。 这是基于角色的访问 (RBAC) 客户需要为你购买的 Azure 订阅购买 Azure 保留项。
+验证客户是否具有现有的 Azure 订阅后，还需要验证是否为与客户关联的密钥用户分配了该 Azure 订阅的正确所有者角色。  这是基于角色的访问 (RBAC) 客户需要为购买的 Azure 订阅购买 Azure 预留。
 
-某些合作伙伴可能已将 " **所有者** " 角色分配给想要主动管理和预配自己的 Azure 资源的客户。 如果已为客户分配了 " **所有者** 状态" 以管理为其购买的以前的订阅，则可以跳过此步骤。  
+某些合作伙伴可能已经将"所有者"角色分配给想要主动管理和预配自己的 Azure 资源的客户。 如果已 **为客户分配"** 所有者"状态来管理之前为其购买的订阅，可以跳过此步骤。  
 
 > [!IMPORTANT]
 > 如果尚未为某个客户分配 " **所有者** " 角色，则他们将收到一个错误，Azure 门户阻止他们购买 Azure 预订。
@@ -146,16 +143,16 @@ Azure 预订是以折扣价购买 Azure 服务的一种绝佳方式。 若要详
 
 **价格客户将为其预留付费。** 你的客户将根据你先前为 CSP 合作伙伴计费帐户购买的订阅购买 Azure 预订。 客户根据此订阅购买的任何 Azure 预订的价格也由您设置。 此价格可能与客户在 Azure 门户中看到的 Web 直接价格不同。
 
-**客户如何优化预订的使用。** 一些客户可以从了解有关如何优化预订使用情况的详细信息，或者如何在购买过程中分配预订的初始范围。 有关详细信息，请客户阅读 [Azure 资源的管理预订](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+**客户如何优化预订的使用。** 一些客户可能会从详细了解如何优化预留的使用或在购买期间分配预留的初始范围中获益。 有关详细信息，请让客户阅读 [管理 Azure 资源的预留](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
 
-**当客户购买具有共享作用域的预订时，会发生什么情况？** 当客户基于之前的 CSP 订阅购买保留并为该预订分配共享范围时，CSP 提供的任何折扣将应用于 CSP 合作伙伴为该客户购买的所有订阅的匹配使用情况。
+**客户购买具有共享范围的预留时会发生什么情况？** 当客户基于以前的 CSP 订阅购买预留并将共享范围分配给该预留时，CSP 提供的任何折扣将应用于 CSP 合作伙伴为客户购买的所有订阅的匹配使用情况。
 
-**如果客户想要交换、取消或续订已进行的购买，或更改保留的初始范围，应执行哪些操作？** 客户需要咨询合作伙伴来帮助他们更改保留的初始范围。 他们还需要合作伙伴的帮助来交换、取消或续订预订。 它们不能根据为 CSP 合作伙伴购买的订阅，使用预订来执行这些任务。
+**如果客户想要交换、取消或续订已购买的购买，或更改预留的初始范围，应该怎么办？** 客户需要请求其合作伙伴帮助他们更改预留的初始范围。 他们还需要合作伙伴的帮助来交换、取消或续订预留。 他们无法根据 CSP 合作伙伴为它们购买的订阅，使用预留自行执行这些任务。
 
 ## <a name="next-steps"></a>后续步骤
 
-- [代表你的客户购买 Azure 预订](azure-reservations-buying.md)
+- [代表客户购买 Azure 预留](azure-reservations-buying.md)
 
-- [合作伙伴中心-销售 Microsoft 预订](azure-reservations.md)
+- [合作伙伴中心 - 销售 Microsoft 预留](azure-reservations.md)
 
 - [代表客户管理 Azure 预订](azure-reservations-manage.md)

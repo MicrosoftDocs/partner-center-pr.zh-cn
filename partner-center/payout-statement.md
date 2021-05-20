@@ -1,34 +1,31 @@
 ---
 title: 支出声明
-description: 了解更多的报表和摘要，以及如何从 Microsoft 合作伙伴中心查看和导出支付数据
-ms.subservice: partnercenter-mpn
-ms.service: partner-dashboard
+description: 了解付款对帐单和摘要，以及如何查看和导出 Microsoft 合作伙伴中心
+ms.subservice: partnercenter-marketplace-publisher
+ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 4e9ab721fe356dbcdff7316a5ed5b52c81f2d4eb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087087"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152590"
 ---
 # <a name="payout-statements"></a>支出声明
 
-**相应的角色**
+**适当角色**：帐户管理员|全局管理员
 
-- 帐户管理员
-- 全局管理员
-
-**付出的比率声明** 概括介绍了通过商业市场销售的产品/服务的付款。 它显示了收入的事务性历史记录，估计了下一笔付款，并显示了付款趋势。 您还可以下载事务历史记录和付款声明。 本文介绍了如何访问你的支出报表，以及合作伙伴中心可访问的不同的支出页和下载。
+付款 **对** 账单概述了通过商业市场销售的产品/服务中的付款。 它显示收益的事务历史记录、估算下一次付款，以及付款趋势。 还可以下载交易历史记录和付款对帐单。 本文介绍如何访问付款对账单，以及你可在其中访问的不同付款页面和合作伙伴中心。
 
 >[!NOTE]
->你将只能看到与你关联的 MPN Id 和程序的数据。 若要查看其他数据，请与帐户管理员联系以获取权限。 
+>只会看到与关联的 MPN ID 和程序的数据。 如果想查看其他数据，请与帐户管理员联系以授予权限。 
 
 ## <a name="roles-and-permissions"></a>角色和权限
 
-若要访问某一支出报表，需要为 **帐户所有者** 或 **财务参与者** 角色分配。
+若要访问付款对账单，需要分配帐户 **所有者或****财务参与者** 角色。
 
 | 报表/页 | 帐户所有者 | Manager | 开发人员 | 业务参与者 | 财务参与者 | 营销人员 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,22 +38,22 @@ ms.locfileid: "106087087"
 | 付款摘要 | 可以查看 | 不允许访问 | 不允许访问 | 不允许访问 | 可以查看 | 不允许访问 |
 |
 
-## <a name="access-your-payout-statement"></a>访问支出报表
+## <a name="access-your-payout-statement"></a>访问付款对账单
 
-登录到 [合作伙伴中心](https://partner.microsoft.com/dashboard/home) ，并选择屏幕右上角的 "支出" 图标以访问这些不同的摘要：
+登录到 [合作伙伴中心并选择](https://partner.microsoft.com/dashboard/home) 屏幕右上角的付款图标，以访问以下不同的摘要：
 
 - 交易历史记录
 - 支付
 - 导出数据
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="说明合作伙伴中心门户右上角的支出图标":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="说明门户右上角的&quot;付款&quot;合作伙伴中心图标":::
 
-你还可以使用 [合作伙伴支出 API](https://apidocs.microsoft.com/services/partnerpayouts) 来连接并直接获取支出交易和付款数据。
+还可使用合作伙伴付款 [API](https://apidocs.microsoft.com/services/partnerpayouts) 直接连接和获取付款交易和付款数据。
 
 
 ## <a name="transaction-history"></a>交易历史记录
 
-" **事务历史记录** " 页显示您在过去36个月内收入和估计的下一次支付的收入和报酬趋势。 还可以从此部分下载事务详细信息。<br><br>此报告显示符合支出条件的所有收益，包括尚未发送的付款。 当 ISV 已在合作伙伴中心完成了所有银行和税务信息，已获得 >$50，ISV 帐户处于活动状态，并且客户已按 (为 EA 交易计费，) 或者 (为非 EA 交易) 收到付款时，收入有资格付出的费用。
+" **交易历史记录** "页显示过去 36 个月的收益摘要、下一次付款的估计以及收益和付款趋势。 还可以从本部分下载事务详细信息。<br><br>此报表显示符合付款条件的所有收益，包括尚未发送的付款。 当 ISV 在 合作伙伴中心 中完成所有银行和税务信息、赚取了 >$50、ISV 帐户处于活动状态，并且客户已针对 EA 交易) 或已收到针对非 EA 交易) 的付款 ( (，则符合付款条件。
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="事务概述。":::
 
@@ -80,28 +77,28 @@ ms.locfileid: "106087087"
 - **挣日期** –购买日期。
 - **收入类型** -收入的类型，例如销售、回扣或合作。
 - **总金额** –净收入金额。 在商业应用商店中，这意味着在扣除标准 marketplace 费用之后。
-- **状态** –有三个选项：
-    - **即将推出** –收入处于挂起的冷却期内。
-    - 已 **处理**–收入已准备好进行下一次付款。
-    - 已 **发送**–已支付收入。
-- **估计的付款月** –预计收入应支付的月份。 有关详细信息，请参阅 [下一节](#estimated-payment-month) 。
+- **状态** – 有三个选项：
+    - **即将推出的** – 收益正在等待冷却期。
+    - **已** 处理 - 收入已准备好进行下一次付款。
+    - **已** 发送 - 已支付收益。
+- **估计付款月份** - 预期支付收益的月份。 有关详细信息 [，请参阅](#estimated-payment-month) 下一部分。
 
-事务满足付出的比率后，就会显示收益交易。 若要了解你可能会遇到或意外收益的原因，请参阅 [有关商业 marketplace 付款的常见问题](payout-faq.md#why-are-my-earnings-missing)。
+当交易满足付款资格后，会显示收入交易。 若要了解可能缺少或意外收益的原因，请参阅有关商业 [市场付款的常见问题](payout-faq.md#why-are-my-earnings-missing)。
 
-#### <a name="estimated-payment-month"></a>估计的付款月
+#### <a name="estimated-payment-month"></a>估计付款月份
 
-"事务历史记录" 页现在包含一个表，其中显示了接下来几个月的估计付款金额。 您还可以在事务历史记录和摘要报表导出中查看和下载此信息。 此信息使对帐和付款的预测更容易。
+"交易历史记录"页现在包含一个表，其中显示了未来几个月的估计付款金额。 还可以在事务历史记录和摘要报表导出中查看和下载此信息。 此信息使对帐和付款预测更容易。
 
-估计的付款月基于程序配置规则和时间线进行计算，并在下一个/即将发生的付款周期中进行处理。
+估计付款月份是根据计划配置规则和时间线计算的，将在下一个/即将进行的付款周期中处理。
 
-估计的付款月当前适用于除合作基金之外的所有收入类型，它将显示为 " **不适用**"。 对于2020年7月1日之前的收入，估计的付款月将显示为 "不可 **用**"。
+预计付款月当前可用于除合作之外的所有收入类型，这将显示为"**不适用"。** 对于 2020 年 7 月 1 日之前的收入，估计付款月份将显示为 **"不可用"。**
 
-下表显示了估计的付款月示例。
+下表显示了估计的付款月份示例。
 
-| Month | 金额 |
+| 月份 | 金额 |
 | ------ | :-----------: |
-|  09月2020 |  $7273.99   |
-|  Oct-2020 | $8692.30  |
+|  2020 年 9 月 |  $7，273.99   |
+|  2020 年 10 月 | $8，692.30  |
 |  2020 年 11 月 | $107.89  |
 
 由于各种原因，预估金额可能因实际数量而异：
@@ -137,7 +134,7 @@ ms.locfileid: "106087087"
 | claimId | 索赔的唯一标识符 | 激励 - 仅某些计划 |
 | customerCountry | 客户所在国家/地区 | marketplaces |
 | customerEmail |  |  |
-| customerName | 可能为空 | 激励计划仅 (例外： OEM) 和市场。 对于 CSP 事务，市场将显示 CSP 的名称 |
+| customerName | 可能为空 | 奖励计划仅 (例外情况：OEM) 和市场。 对于 CSP 事务，市场将显示 CSP 的名称 |
 | customerTenantId |  |  |
 | distributorId | 分销商标识符 | 激励 - 仅某些计划 |
 | distributorName | 分销商名称 | 激励 - 仅某些计划 |
@@ -147,29 +144,29 @@ ms.locfileid: "106087087"
 | earningDate | 收入日期 | All |
 | earningExchangeRate | 用于显示相应金额（以美元为单位）的汇率 | All |
 | earningId | 每笔收入的唯一标识符 | All |
-| earningRate | 应用于交易金额以生成收入的激励率 | All |
+| earningRate | 对交易金额应用的奖励费率以生成收入 | All |
 | earningType | 表示是否是费用、返点、合作收入、销售收入等 | All |
 | exchangeRateDate | 用于计算 EarningAmount（以美元为单位）的汇率日期 | All |
-| externalReferenceId | 计划的唯一标识符 | 直销计划 (激励和市场)  |
-| externalReferenceIdLabel | 唯一标识符标签 | 直销计划 (激励和市场)  |
+| externalReferenceId | 计划的唯一标识符 | 直接支付计划 (奖励和市场)  |
+| externalReferenceIdLabel | 唯一标识符标签 | 直接支付计划 (奖励和市场)  |
 | instantRebateAmount |  |  |
 | invoiceDate |  |  |
-| invoiceNumber | 发票编号 (适用于仅适用于企业的)  | 激励和市场-仅限一些程序 |
+| invoiceNumber | 发票号 (仅适用于企业)  | 奖励和市场 - 仅某些计划 |
 | lastPaymentCurrency | 上一付款币种（如果之前没有付款，则字段将为空） |  |
 | lever | 表示收入的业务规则 | All |
 | LicensingProgramName | 许可计划的名称 |  |
 | LineItemId | 客户发票中的单个行 |  |
 | localProviderSeller | 记录的本地提供商/卖家 |  |
-| 成熟度月 | 估计的付款月 | 全部 |
+| 成熟度月 | 估计付款月份 | 全部 |
 | OrderId | 与客户的发票相关  | marketplaces |
 | parentProductId | 唯一父产品标识符。 如果交易没有父产品，则父产品 ID = 产品 ID。 | marketplaces |
 | parentProductName | 父产品名称。 如果交易没有父产品，则父产品名称 = 产品名称。 | marketplaces |
 | participantID | 计划下合作伙伴收入的主要标识 | All |
-| participantIdType | 奖励计划和卖方的主要计划 ID （如果针对市场） | All |
+| participantIdType | 大多数计划 ID 用于奖励计划，卖方 IF 用于市场 | All |
 | participantName | 收入合作伙伴的名称 | All |
 | partnerCountryCode | 收入合作伙伴所在的位置/国家/地区 | All |
-| partNumber | 始终为空白 | 某些激励计划和市场 |
-| paymentId | 用于将事务报表中的所有事务与付款报表中的特定付款关联的唯一标识符 | 全部 |
+| partNumber | 始终为空白 | 一些奖励计划和市场 |
+| paymentId | 唯一标识符，用于将交易报告中的所有交易与付款报告中的特定付款相关联 | 全部 |
 | paymentStatus | 付款状态 | All |
 | paymentStatusDescription | 付款状态的易记说明 | All |
 | productId | 唯一产品标识符 | marketplaces |
@@ -197,7 +194,7 @@ ms.locfileid: "106087087"
 | taxRemitted | 汇出的税款金额（销售税、使用税或 VAT/GST 税） | marketplaces |
 | taxState | 客户所在的州/省 |  |
 | taxZipCode | 客户的邮政编码 |  |
-| tpan | 表示第三方广告网络 | 仅限市场广告 |
+| tpan | 表示第三方广告网络 | 仅市场广告 |
 | transactionAmount | 交易金额（以产生收入的原始交易币种为单位） | All |
 | transactionAmountUSD | 交易金额（以美元为单位） | All |
 | transactionCountryCode | 发生交易的国家/地区代码 |  |
@@ -227,38 +224,38 @@ ms.locfileid: "106087087"
 
 ## <a name="payments"></a>支付
 
-" **付款** " 页详细介绍了 Microsoft 获得的资金。 它还会显示您将支付的时间和数量。
+" **付款** " 页详细介绍了 Microsoft 获得的资金。 它还显示付款时间以及付款时间。
 
 >[!Note]
-> 你的收款必须达到 50 美元的[付款阈值](payment-thresholds-methods-timeframes.md)，才符合成为付款的条件。 有关详细信息，请参阅 [Microsoft 发行者协议](https://go.microsoft.com/fwlink/?LinkID=699560)。
+> 你的收款必须达到 50 美元的[付款阈值](payment-thresholds-methods-timeframes.md)，才符合成为付款的条件。 有关详细信息，请参阅 Microsoft [发布者协议](/legal/marketplace/msft-publisher-agreement)。
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="付款概述屏幕。":::
 
-- **本年度支付的总** 金额–今年的所有计划总支付给你的年（美元）。
-- **下一次评估支付** –每次向您收取的一项款项 (即使有其他人即将) ，也会在美国
-- **上次付款** 量– (以美元) 、计划名称和最新付款计划。
-- **按来源付款** –在过去12个月内，按计划 (的付款金额) ，按计划。
+- **今年付款总额** - 所有计划今年支付的总付款总额（美元）。
+- **下一次** 估计付款 - 即使即将 (其他付款，) 以美元为单位。
+- **上次付款** – (付款的美元) 计划名称和计划。
+- **按源付款** – (12 个月内按计划) 美元付款金额。
 
 ### <a name="payments-list"></a>付款列表
 
-**付款表的列表** 显示支付和待定支付。 您可以下载 PDF 格式的服务费用税务信息，并查看给定付款的赢利详细信息。
+" **付款列表"** 表显示已付款和待付款。 可以下载 PDF 格式的服务费用税务信息，并查看给定付款的收入详细信息。
 
 :::image type="content" source="images/payouts/list-of-payments.png" alt-text="导出事务历史记录":::
 
-- **付费** –所有付款均已成功发送。 在下拉菜单中选择要筛选的年份，以筛选该年中发布的付款。
-- **挂起** –即将进行的付款。
-- **服务费税 (PDF 窗体)** –可用于支付服务费用。 服务费税以 **其他税款** 显示。
-- **查看** –重定向到交易记录，其中包含付款中包含的收益列表。
+- **付费** - 已成功发送所有付款。 在下拉菜单中选择年份，以筛选该年份发布的付款。
+- **挂起** - 即将付款。
+- **服务费用 (PDF 格式)** - 适用于收取服务费用税的付款。 服务费用税显示在"其他 **税款"中**。
+- **视图** - 重定向到交易历史记录，其中列出了付款中包含的收益。
 
-若要了解你可能会遇到或意外收益的原因，请参阅 [有关商业 marketplace 付款的常见问题](payout-faq.md#why-are-my-earnings-missing)。
+若要了解可能缺少或意外收益的原因，请参阅有关商业 [市场付款的常见问题](payout-faq.md#why-are-my-earnings-missing)。
 
 ### <a name="payment-status"></a>付款状态
 
-下表说明了不同的收益状态。
+下表说明了不同的收入状态。
 
 | 收入状态 | 原因 | 合作伙伴是否需要采取行动？ |
 | --- | --- | --- |
-| 未处理 | 收入符合成为付款的条件。 此状态处于奖励计划的计划指南中定义的冷却时间范围内。 | 否 |
+| 未处理 | 收入符合成为付款的条件。 它保持此状态，以冷却期，如设备计划指南奖励计划。 | 否 |
 | 即将处理 | 支付订单在处理付款之前生成待定内部评审。 | 否 |
 | 等待纳税发票 | 您的纳税发票不完整或无效。 | 必须更新纳税发票，才能收到付款 |
 | 审查期间被拒绝 | 付款在评审期间被拒绝。 | 有关详细信息，请联系 Microsoft 支持人员 |
@@ -301,33 +298,33 @@ ms.locfileid: "106087087"
 
 " **导出数据** " 页不会自行刷新。 你可能需要手动刷新此页，才能看到最新数据。 从三个选项卡中进行选择，导出 **事务历史记录**、 **付款**、 **交易汇总** 或 **历史记录语句**。
 
-筛选器可能会导致 " **无数据** " 错误。 如果将默认时间段保留为三个月的时间，然后从超出该时间段的收入中选择付款 ID，则可能会发生这种情况。 如果发生这种情况，请扩展时间段，然后重试。
+筛选器可能会导致"无 **可用数据"** 错误。 如果将默认时间段选择为三个月，然后从超出该期限的收入中选择了付款 ID，则可能会发生这种情况。 如果发生这种情况，请展开时间段，然后重试。
 
-下面是一个示例付款出口：
+下面是付款导出示例：
 
 :::image type="content" source="images/payouts/pc-export-payments.png" alt-text="导出付款报表。":::
 
 ### <a name="historical-statements"></a>历史对帐单
 
-**导出数据** 摘要还提供对历史语句的访问。
+导出 **数据** 摘要还提供对历史语句的访问。
 
 > [!NOTE]
-> 历史语句是快照，不会刷新。 如果需要，请联系 [支持人员](https://partner.microsoft.com/support/v2/?stage=1) 并请求最新的数据。
+> 历史语句是快照，不会刷新。 如果需要 [，请联系](https://partner.microsoft.com/support/v2/?stage=1) 支持部门并请求最新数据。
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="导出历史记录语句。":::
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="导出历史语句。":::
 
-- 2019年7月1日之前的事务历史记录是单独处理的，并使用后面的历史记录报表中的不同字段。
-- 旧的事务历史记录中有一个名为 "Reserved" 的列，该列对应于新式历史记录中的 "收入" 列，只不过它不包括状态等于 "已发送付款" 的所有收入。
+- 2019 年 7 月 1 日后的事务历史记录单独处理，并使用以后历史记录报告中的不同字段。
+- 旧事务历史记录有一个称为"Reserved"的列，该列对应于现代历史记录中的"收益"列，只不过它不包括状态等于"已发送付款"的所有收益。
 - 3M、6M 或 12M 等筛选器不适用于“历史对帐单”部分。
 
 ### <a name="historical-statement-downloads"></a>历史语句下载
 
-下表说明了历史语句中的每一列。
+下表解释了历史语句的每一列。
 
-| 字段名 | 说明 |
+| 字段名称 | 说明 |
 | --- | --- |
 | 收入来源 | 收入来源，取决于发生交易的位置，如 Microsoft Store、Windows Phone 应用商店、Microsoft Store 8 或广告 |
-| 订单 ID | 唯一订单标识符。 使用此 ID，可以识别购买交易及其各自的非购买交易（如退款或退单）。 两者具有相同的订单 ID。 此外，如果有一种计费方法用于单个购买，则可以链接采购交易。 |
+| 订单 ID | 唯一订单标识符。 使用此 ID，可以识别购买交易及其各自的非购买交易（如退款或退单）。 两者具有相同的订单 ID。 此外，如果存在拆分费用，其中对单个购买使用了多种付款方式，则允许链接购买交易。 |
 | Transaction ID | 唯一交易标识符。 |
 | 交易日期/时间 | 交易发生的日期和时间 (UTC)。 |
 | 父产品 ID | 唯一父产品标识符。 如果交易没有父产品，则父产品 ID = 产品 ID。 |
