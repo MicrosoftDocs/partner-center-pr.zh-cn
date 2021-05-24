@@ -9,18 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328077"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855942"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作伙伴中心获取引荐见解，并了解引荐状况如何
 
-**相应的角色**
-
-- 引荐管理员
+**相应的角色**：引荐管理员
 
 通过引荐中“分析”部分下的“联合销售机会”页面，可查看你的引荐表现如何 。 请定期查看这些指标，以识别趋势或需要关注的领域，并推动业务目标的实现。
 

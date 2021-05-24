@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f53661918508271901c6403e8270105c06d4246a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133091"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818756"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作伙伴中心管理 Microsoft 合作伙伴网络成员资格权益和优惠
 
@@ -104,11 +104,11 @@ ms.locfileid: "106133091"
    >[!Note]
    >如果距原始分配时间已经过去 90 天，Visual studio 订阅管理员可以将订阅从一个订阅者重新分配给另一个订阅者。 有关其他信息，请阅读 [Microsoft 合作伙伴计划指南](https://aka.ms/partner-benefits-use-guide)。
 
-## <a name="manage-technical-benefits"></a>管理技术权益
+## <a name="manage-technical-benefits---microsoft-product-support"></a>管理技术权益 - Microsoft 产品支持
 
-本部分介绍如何在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中激活和管理技术支持权益。 但是，如果 Microsoft 合作伙伴网络成员身份仍处于 Partner Membership Center (PMC)，则需要联系合作伙伴一线人员等其他资源，帮助激活技术权益。 请参阅[在合作伙伴中心外激活技术权益](partner-membership-center-tech-benefits-activate.md)。
+本部分介绍如何在合作伙伴中心[仪表板](https://partner.microsoft.com/dashboard)中激活和管理技术支持权益。 但是，如果 Microsoft 合作伙伴网络成员身份仍处于 Partner Membership Center (PMC)，则需要联系合作伙伴一线人员等其他资源，帮助激活技术权益。 请参阅[在合作伙伴中心外激活技术权益](https://docs.microsoft.com/partner-center/partner-membership-center-tech-benefits-activate)。
 
-要查看合作伙伴中心的技术权益，请执行以下操作：
+要查看合作伙伴中心的产品支持技术权益，请执行以下操作：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
 
@@ -120,7 +120,7 @@ ms.locfileid: "106133091"
 
    - **激活技术权益。** 展开权益的详细信息后，选择“激活”。 需要几天时间来处理激活请求。
 
-   - **查看并共享产品支持访问 ID 和合同 ID。** 处理激活请求后，下一次扩展该技术权益时将显示有关访问 ID 和合同 ID 的详细信息 。 当你首次提交某些产品或服务类型的支持请求时，你或你公司的用户可能需要共享此信息。
+   - **查看并共享产品支持访问 ID 和合同 ID。** 处理激活请求后，下一次扩展该技术权益时将显示有关访问 ID 和合同 ID 的详细信息 。 当你首次提交某些产品或服务类型的支持请求时，你或你公司的用户需要共享和使用此信息。
 
 4. 激活后，可以使用不同技术支持类型的技术权益。 若要针对以下服务提交技术支持请求，请阅读“技术权益”页面上的详细说明。 另请参阅下面的详细信息。
 
@@ -134,10 +134,23 @@ ms.locfileid: "106133091"
 
      >[!NOTE]
      > 对本地、Azure（非 CSP）和 Dynamics 动态发出技术支持请求时，需要提供访问 ID 和合同 ID。 今后若要查找你的访问 ID 和合同 ID，也可阅读[查找你的权益](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)。
+     > 
+[详细了解本地或云产品的技术支持](https://docs.microsoft.com/partner-center/mpn-benefits-technical-support)
   
-   **技术预售和部署服务。**  对有关技术销售或部署的咨询或建议使用此类型的支持。 可直接通过[合作伙伴中心](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)请求这些服务。
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>管理技术权益 - 合作伙伴咨询小时
+合作伙伴咨询小时是用于技术预售和部署服务 (TPD) 的货币，只需登录即可提交请求（无需激活或分配用户）。
 
-   - 对于 Action Pack 和 Gold/Silver competency 合作伙伴，请对云和混合解决方案使用技术预售和部署服务。
+要查看合作伙伴中心的合作伙伴咨询小时技术权益，请执行以下操作：
+
+1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
+
+2. 选择“权益”，然后选择“技术权益”以查看合作伙伴咨询小时 
+
+3. 在页面的右下角，单击“[提交技术预售和部署请求](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)”以提交请求。
+     >[!NOTE]
+     > 如果“技术利益”页显示消息“你似乎还没有任何权益”，则表明你用于登录的合作伙伴帐户不具有黄金、白银或 Microsoft Action Pack 产品/服务，你不符合使用该服务的条件，或者你使用了错误的帐户登录。
+     > 
+[详细了解技术预售和部署服务 (TPD)](https://docs.microsoft.com/partner-center/technical-benefits)
   
 ## <a name="manage-go-to-market-offers"></a>管理市场推广套餐
 

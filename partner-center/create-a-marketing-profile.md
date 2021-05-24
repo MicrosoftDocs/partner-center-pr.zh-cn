@@ -9,19 +9,16 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: f66a5c32f145be5a80de838dae2cd1926e6aebce
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964384"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148191"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>创建业务配置文件，以获取 Microsoft 销售线索并帮助客户找到你
 
-**相应的角色**
-
-- 企业档案管理员
-- 引荐管理员
+**相应的角色**：企业档案管理员 | 引荐管理员
 
 作为合格的 Microsoft 合作伙伴，你可以创建企业档案，以向正在寻找独特解决方案和专长来满足其业务需求的客户展示你的业务。
 

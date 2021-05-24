@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 05/07/2021
-ms.openlocfilehash: dd0823e56371347bb212122b79e31fbc124dff2e
-ms.sourcegitcommit: a78e9934dd06a6f14ef00e621a82685e2a80dc83
+ms.date: 05/14/2021
+ms.openlocfilehash: 9f3447aad20f32a236f2e52e108de50e391b8969
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109712509"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150006"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,10 @@ ms.locfileid: "109712509"
 
 |**类别**|**2021 年 5 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[CSP 中的永久性软件交易更新及开放许可计划变更](2021-may.md#13)|May 17|
+|功能|[第 2 阶段即将推出：EU/EFTA 和 UK 针对新商务产品/服务的合作伙伴计费货币更改](2021-may.md#12)|May 17|
+|功能|[弃用 Microsoft 365 商务语音入门向导 (GSW)](2021-may.md#11)|5 月 14 日|
+|功能|[5 月云解决方案提供商 (CSP) 社区更新和提醒](2021-may.md#10)|5 月 13 日|
 |功能|[合作伙伴主导的联合销售交易分析](2021-may.md#9)|5 月 10 日|
 |功能|[托管和 SPLA 经销商奖励计划已延长至 2021 年 9 月 30 日](2021-may.md#8)|5 月 7 日|
 |功能|[在合作伙伴中心内可使用默认银行配置文件功能进行奖励注册](2021-may.md#7)|5 月 7 日|

@@ -9,19 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018181"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855414"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢复客户的 Azure CSP 订阅的管理员权限  
 
-**相应的角色**
-
-- 全局管理员
-- 管理员代理
+**相应的角色** 全局管理员 | 管理员代理
 
 作为 CSP 合作伙伴，客户通常期望你为他们管理 Azure 使用情况和系统。 这样做需要拥有管理员权限。 与客户建立分销商关系后，你会获得一些权限。 另一部分权限由客户向你授予。
 

@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702886"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151774"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>管理 MPN 帐户位置并添加（删除）位置
 
 
-**相应的角色**
-
-- 全局管理员
-- 帐户管理员
+**相应的角色**：全局管理员 | 帐户管理员
 
 位置 MPN ID 标识了公司的每一特定位置。 可以使用位置 MPN ID 注册奖励计划、进行云解决方案提供商 (CSP) 业务交易以及其他业务交易。 全局 MPN ID 用于非交易性活动，例如支持请求。
 
@@ -85,15 +82,15 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
 
 ## <a name="add-an-mpn-location"></a>添加 MPN 位置
 
-1. 在合作伙伴中心使用 MPN 帐户进行登录。 （你的 MPN 凭据可能与 CSP 凭据不同）。 MPN 帐户应具有全局管理员或帐户管理员权限。 
+1. 在合作伙伴中心使用 MPN 帐户进行登录。 （MPN 凭据可能与 CSP 凭据不同。）MPN 帐户应具有全局管理员或帐户管理员权限。 
 
 1. 从设置图标中，选择“帐户设置”，然后选择“组织资料”  。
 
-2. 选择“法务”，然后在“合作伙伴”选项卡上选择“业务位置”，然后单击“添加位置”   。
+2. 选择“法务”，然后在“合作伙伴”选项卡上选择“业务位置”，然后选择“添加位置”   。
 
 3. 提供必需的详细信息，包括你想要添加到你的公司的位置的业务名称、地址和联系人。
  
-1. 单击“添加位置”。 这将为新位置创建一个新的 MPN ID，你可用它来进行 CSP 交易和激励。
+1. 选择“添加位置”。 这将为新位置创建一个新的 MPN ID，你可用它来进行 CSP 交易和激励。
 
 :::image type="content" source="images/legal-biz.png" alt-text="添加新的法定公司":::
 
@@ -134,11 +131,11 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
 
 ## <a name="delete-a-location"></a>删除位置
 
-若要从帐户中删除某个位置，需要联系[合作伙伴支持人员](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)。 请确保了解此操作的影响。 无法检索已删除的位置，并且将不再为你的公司识别或激活任何绑定到该特定 MPN id 的内容。
+若要从帐户中删除某个位置，需要联系[合作伙伴支持人员](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)。 请确保了解此操作的影响。 无法检索已删除的位置，并且将不再为你的公司识别或激活任何绑定到该特定 MPN ID 的内容。
 
 ## <a name="change-country-of-partner-global-account"></a>更改合作伙伴全球帐户所在国家/地区 
 
-1. 在合作伙伴中心使用 MPN 帐户进行登录。 （你的 MPN 凭据可能与 CSP 凭据不同）。 MPN 帐户应具有全局管理员或帐户管理员权限。 
+1. 在合作伙伴中心使用 MPN 帐户进行登录。 （MPN 凭据可能与 CSP 凭据不同。）MPN 帐户应具有全局管理员或帐户管理员权限。 
 
 2. 在“合作伙伴”选项卡上，转到“业务位置”，然后检查位置列表，确保已列出你想用作法律实体的位置 。 
  
@@ -148,7 +145,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
 
 :::image type="content" source="images/lbp.png" alt-text="法定公司资料数据弹出窗口":::
 
-5. 单击“保存”。
+5. 选择“保存”。
 
 6. MPN 全球帐户所在国家/地区将更改为新的法定国家/地区。
   

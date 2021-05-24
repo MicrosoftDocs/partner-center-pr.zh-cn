@@ -134,6 +134,8 @@
     - name: 将 CSP 直接计费切换到间接经销商
       href: transition-direct-to-indirect.md
       displayName: csp
+    - name: 合作伙伴无法再注册为顾问
+      href: advisors-no-csp.md
 - name: CSP 协议
   href: microsoft-partner-agreement.md
   items:

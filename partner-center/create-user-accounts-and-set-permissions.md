@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492528"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148136"
 ---
 # <a name="create-user-accounts"></a>创建用户帐户  
 
-**相应的角色**
-
-- 帐户管理员
-- 全局管理员
-- “用户管理”管理员
+**相应的角色**：帐户管理员 | 全局管理员 |“用户管理”管理员
 
 为需要访问合作伙伴中心的员工创建用户帐户。 这些任务必须由用户管理员、帐户管理员或全局管理员来完成。执行这些任务的用户还必须分配有 Azure Active Directory (AAD) 角色“用户管理员”或“全局管理员”。 有关 AAD 角色的详细信息，请参阅 [Azure Active Directory 中的管理员角色](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)。
 

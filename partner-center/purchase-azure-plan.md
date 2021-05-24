@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ec74076281d4c8e65de6818281a2852df264732c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441619"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854955"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>为客户购买 Azure 计划并按即用即付费率访问最新的 Azure 服务
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 销售代理
+**相应的角色**：全局管理员 |“用户管理”管理员 | 销售代理
 
 根据 Microsoft 客户协议为客户购买 Azure 计划时，可以访问采用即用即付费率的最新 Azure 服务的完整目录。 CSP 合作伙伴现在可以访问正式发布的 Azure 服务。 合作伙伴可以在一个 Azure 计划中包含多个 Azure 订阅。 
 

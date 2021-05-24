@@ -9,21 +9,16 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 7f533240d5236f03fe277d4c6dfa02ed1c58b63c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633872"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855006"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>准备从 Partner Membership Center (PMC) 迁移到合作伙伴中心
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 销售代理
-- 管理员代理
+**相应的角色**：全局管理员 |“用户管理”管理员 | 管理员代理
 
 我们正在将成员资格管理从 Partner Membership Center (PMC) 迁移到合作伙伴中心- 管理与 Microsoft 的业务关系的单一目的地。 我们希望你迁移到合作伙伴中心后会尽可能实现轻松高效的管理。 我们确定了合作伙伴中心与 PMC 一些不同的部分，我们认为在你进行迁移之前需要了解这些部分并做好相应的准备。
 
