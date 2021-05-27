@@ -1,18 +1,18 @@
 ---
 title: 付款计划和流程
-description: 了解付款和交易，例如商业市场和其他事务的付款计划和重新付款流程。
+description: 了解付款和交易，例如付款计划和付款流程Azure 市场交易。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 12/04/2020
-ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 05/25/2021
+ms.openlocfilehash: bcecd4c31d80a4130331c652491e7951af180c67
+ms.sourcegitcommit: f1255fb65eac6ee2e0ff0cb95cc16a02dc57fc1a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146946"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "110582405"
 ---
 # <a name="payout-schedules-and-processes"></a>付款计划和流程
 
@@ -22,9 +22,9 @@ ms.locfileid: "110146946"
 
 ## <a name="payment-schedules"></a>付款计划
 
-以下部分介绍了我们针对信用卡企业协议 **发票交易付款流程**。 
+以下部分介绍了我们针对云 **解决方案提供商企业协议** 或 CSP Microsoft 客户协议 **付款** 流程。
 
-### <a name="enterprise-agreement-transactions"></a>企业协议事务
+### <a name="transactions-when-customer-has-an-enterprise-agreement"></a>客户具有事务处理企业协议
 
 当客户使用现有 Microsoft 企业协议 Microsoft AppSource 或 Azure 市场 购买产品进行交易时，我们将在下一个付款周期中在客户发票后的 30 天内发出付款。 客户使用信用卡的事务在付款前有 30 天的持有期。
 
@@ -44,7 +44,7 @@ ms.locfileid: "110146946"
 
 :::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="企业协议客户的付款时间线。":::
 
-### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>具有信用卡或发票的交易 (选中/线路) 
+### <a name="transactions-when-customer-has-a-microsoft-customer-agreement-or-csp"></a>客户具有 Microsoft 客户协议或 CSP 时的事务
 
 使用信用卡或月度发票的所有购买都有30天的保留期，以确保从客户那里收集资金。
 
@@ -66,7 +66,7 @@ ms.locfileid: "110146946"
 
 在极少数情况下，Microsoft 无法收集客户对其商业市场购买的付款。 当客户无法根据其计费计划向 Microsoft 付款时，我们开始进行集合过程。 此过程大约需要四个月的时间，并涉及与 Microsoft 的持久通信。 如果此过程结束后未收到付款，则 Microsoft 会将资金作为 uncollectable 写出。
 
-根据此处所述的支出过程，Microsoft 可能已向发布者支付了资金， (你) 最终 uncollectable 的。 因此，我们有一个流程来协调这些金额。 为了确保你的 (已收到) 付款可能会对你发出警报，你将在客户处于收款过程中时收到通知，并且可能会写出采购。
+根据此处所述的支出过程，Microsoft 可能已向发布者支付了资金， (你) 最终 uncollectable 的。 因此，我们有一个流程来协调这些金额。
 
 Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1) Microsoft 可以从未来的付款中减去未支付的金额;例如，如果付款中的 $1000 被视为 uncollectable 并写出，则将来的付款将被预扣到 $1000 恢复，或者 (2) Microsoft 可能会请求支付任何未收集金额的退款或发票出版商。
 
@@ -74,15 +74,15 @@ Microsoft 将使用以下方法之一收回已支付给你的任何付款： (1)
 
 | 事件 | 估计日期 * | 合作伙伴可见性 |
 | --- | --- | --- |
-| 示例付出日期 | 10/15/2020 | 在" **交易** 历史记录"和"付款仪表板"的"付款"部分标记为"已发送" |
+| 示例付出日期 | 10/15/2020 | 已标记为 "在事务历史记录中 **发送** " 和 "支出" 面板中 |
 | <font color="red">如果客户不支付 Microsoft 费用</font> | 12/2/2020 – 12/5/2020 | 无更改，与上面相同 |
 | 客户收到第一封延迟付款电子邮件 | 12/6/2020 | 无 |
 | 客户收到紧急性增加的定期电子邮件 | 12/7/2020 – 1/31/2021 | 无 |
-| 发布服务器可能会收到注销通知 | 1/7/2021 | 发送给发布者的电子邮件通知，告知其客户尚未发送付款。 包括事务 ID 和美元金额。 |
+| 发布服务器可能会收到注销通知 | 1/7/2021 | - |
 | 客户收到终止通知 | 2/1/2021 | 无 |
-| 收集过程结束/资金被注销 | 2/15/2021 | 发送给发布者的电子邮件通知，指出资金已注销。 包括事务 ID 和美元金额。 |
+| 收集过程结束/资金被注销 | 2/15/2021 | 发送给发布者的电子邮件通知，指出资金已注销。 |
 | 付款已减去 | 2021/3/1 | 发布者将在付款对账单合作伙伴中心负交易 |
-| 预扣支出 | 3/15/2021 | 未来的付款将显示在合作伙伴中心支出报表中。 在余额不再为负值之前，发布者将不会收到支付。  |
+| 付款已保留 | 3/15/2021 | 将来的付款将显示在付款合作伙伴中心中。 在余额不再为负之前，发布者不会收到付款。  |
 |||
 
 \* 付出日期为太平洋标准时间 (PST) 。
