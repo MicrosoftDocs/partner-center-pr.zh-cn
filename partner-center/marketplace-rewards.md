@@ -1,36 +1,36 @@
 ---
 title: 管理市场奖励
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 将产品/服务发布到商业市场的合作伙伴有资格享受提供营销支持的好处。
+description: 向商业市场发布产品/服务的合作伙伴有资格获得提供营销支持的权益。
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51b7bd4846826db86f5d9c6e5e087e285dd026c0
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
+ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151672"
+ms.lasthandoff: 05/29/2021
+ms.locfileid: "110687724"
 ---
-# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>在Marketplace Rewards中合作伙伴中心 &激活营销、销售和技术权益
+# <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>在合作伙伴中心管理 Marketplace 奖励 & 激活营销、销售和技术优势
 
-**适当角色**：MPN 合作伙伴管理员|全局管理员|管理员代理
+**适当的角色**： MPN 合作伙伴管理员 |全局管理员 |管理代理
 
-如果将软件产品/服务发布到商业市场，Marketplace Rewards提供针对所有产品/服务的支持，并提供营销、销售和技术权益。
+如果将软件产品/服务发布到我们的商业市场，Marketplace 奖励为你的所有产品/服务提供有针对性的支持，其中包含市场营销、销售和技术优势。 有关计划和优势的详细信息，请参阅 [Marketplace 奖励](https://aka.ms/marketplacerewards) (PPT) 。
 
-Marketplace Rewards资格是根据链接到 PGA MPN 公司的所有发布者配置文件计算的。 若要检查你是否符合计划Marketplace Rewards，请转到合作伙伴中心Marketplace Rewards [页](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)。
+Marketplace 奖励资格是根据链接到 PGA MPN 公司的所有发布者配置文件来计算的。 若要检查 Marketplace 奖励计划的资格，请参阅合作伙伴中心 [市场奖励页面](https://partner.microsoft.com/dashboard/mpn/program/commercialmarketplace)。
 
 ## <a name="sales-and-marketing-benefits"></a>销售和市场营销效益
 
-1. 在["合作伙伴中心"仪表板](https://partner.microsoft.com/dashboard)中，选择"销售"和"市场营销Marketplace Rewards选项卡，查看权益列表。 
+1. 在合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)中，选择 "Marketplace 奖励" 页上的 " **销售和市场营销权益** " 选项卡，查看福利列表。
 
 2. 若要激活任何销售和营销权益，必须先分配一名公司营销联系人。 此联系人将收到有关 Marketplace Rewards 的跟进信息。
 
-3. 若要添加或更新营销联系人信息，请转到“Marketplace Rewards”页顶部的“销售和营销权益”选项卡，然后选择“添加”、“更新”或“更改”。 
+3. 若要添加或更新营销联系人信息，请转到“Marketplace Rewards”页顶部的“销售和营销权益”选项卡，然后选择“添加”、“更新”或“更改”。
 
    接下来，请执行以下操作：
 
@@ -50,19 +50,18 @@ Marketplace Rewards资格是根据链接到 PGA MPN 公司的所有发布者配�
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>为什么我的仪表板上未显示商业 Marketplace Rewards 计划？
 
-市场奖励信息通过用于创建Azure AD帐户的租户和 MPN ID 合作伙伴中心提供。 此帐户称为公司 PGA (合作伙伴) 帐户。 如果Azure AD租户与用于 MPN 载入的租户不同，则为了查看 Commercial Rewards Marketplace 菜单，需要将其与公司的 PGA 关联。
+Marketplace 奖励信息通过用于创建合作伙伴中心帐户的 Azure AD 租户和 MPN ID 提供。 此帐户称为公司的合作伙伴全局帐户 (PGA) 。 如果你的 Azure AD 租户不同于用于 MPN 载入的租户，若要查看商业奖励 Marketplace 菜单，你需要将其与公司的 PGA 相关联。
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>将Azure AD租户与公司的 PGA 关联
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>将 Azure AD 租户与公司的 PGA 关联
 
-1. 作为全局管理员或帐户管理员，在 合作伙伴中心 中登录 PGA。
+1. 作为全局管理员或帐户管理员，请在合作伙伴中心登录到 PGA。
 
-2. 选择 **右** (的"设置 **") "帐户设置**"和"**租户"。** 
+2. 在右上) 、**帐户设置**、**租户** 上选择 "**设置**" (。
 
-3. 选择 **"Azure AD租户"，** 然后选择Azure AD PGA 关联的租户。
+3. 选择 " **关联其他 Azure AD 租户** "，并选择要与 PGA 关联的 Azure AD 租户。
 
-4. 添加要关联的租户中任何用户的用户名和密码Azure AD并选择"提交 **"。**
+4. 添加要关联的 Azure AD 租户中的任何用户的用户名和密码，然后选择 " **提交**"。
 
-5. 注销合作伙伴中心，然后使用刚刚关联到 PGA 的租户的用户名和密码登录。
+5. 从合作伙伴中心注销，然后使用刚刚关联到 PGA 的租户的用户名和密码进行登录。
 
 6. 现在，你将能够在左侧导航菜单中看到 Commercial Rewards Marketplace 计划信息。
-
