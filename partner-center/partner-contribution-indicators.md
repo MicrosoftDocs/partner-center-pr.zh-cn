@@ -1,7 +1,7 @@
 ---
 title: 合作伙伴贡献指标-CBA
 ms.topic: article
-ms.date: 03/26/2021
+ms.date: 05/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解7个合作伙伴贡献指标 (PCI) ，其中显示了合作伙伴如何获取银色或金牌云 Business Applications 能力。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 81d93e2e8b2ed47f785ae33be14dd03c75c8a1d7
+ms.sourcegitcommit: 02a839b61265c3162e041c8894575d3b5345f020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146997"
+ms.lasthandoff: 06/01/2021
+ms.locfileid: "110724490"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作伙伴贡献指标来获得云业务应用程序能力
 
@@ -68,27 +68,27 @@ PCI 提供合作伙伴的管理功能、推动客户成功的能力及其销售�
 
 *客户成功指标：*
 
-6. **新的大型部署**：过去 12 个月内超过高使用率阈值的生产租户数。  (有关此指标的详细信息，请参阅 [新大型部署](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)的定义 .) 
+6. **新的大型部署**：过去12个月内跨越高使用量阈值的生产租户的数量。  (有关此指标的详细信息，请参阅 [新的大型部署的定义](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
 
-7. **月度活跃用户增长**：过去 12 个月内所有客户每月活跃用户的增长。  (有关此指标的详细信息，请参阅 [每月活跃](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)用户增长的定义 .) 
+7. **每月活动用户增长率**：过去12个月内，每个客户在每月活动用户的增长。  (有关此指标的详细信息，请参阅 [每月活动用户增长的定义](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)) 
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 分数如何影响资格资格
-将针对每个实现的指示器授予分数，从而产生单数 PCI 分数。 最大点数为 100。 
+为每个已获得的指标授予点，产生单数字 PCI 分数。 最多可以有100个点。 
 
-PCI 分数确定资格，如下所示：
+PCI 分数确定资格资格，如下所示：
 
 |如果 PCI 分数为  | 你  |
 |:----------------------|:-----------------|
-|1-59 个点  | **不符合** 白银或黄金资格 |
-|60-79 分  | 满足银牌资格的要求  |
-|80-100 分  | 满足黄金资格的要求
+|1-59 点  | **不** 符合银或金牌资格 |
+|60-79 点  | 满足银色能力的要求  |
+|80-100 点  | 满足金牌资格的要求
 
-下图提供了一个快速的视觉参考。
-:::image type="content" source="images/pcinew1.png" alt-text="显示实现银级或金级资格的 PCI 分数。" border="false":::
+下图提供了快速、直观的参考。
+:::image type="content" source="images/pcinew1.png" alt-text="显示 PCI 得分以实现银或金牌资格。" border="false":::
 
-### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>可以针对每个指示器实现的最大 PCI 资格分数
+### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>每个指标可以实现的最大 PCI 胜任度分数
 
-每个指示器都提供添加到总计的分数。 下面是 Cloud Business Applications 能力的每个指标的最高分数：
+每个指示器都带有添加到总数中的分数。 以下是云 Business Applications 资格的每个指标的最大分数：
 
 |对于此指示器 | 此能力的最高分数为  |
 |:------------|:--------------:|
@@ -232,13 +232,11 @@ PCI 分数确定资格，如下所示：
 
   **对于多个伙伴，同一客户是不同的订阅：**
 
-  - 与客户关联的所有合作伙伴将获得客户添加到本月的新客户的信用额度。
-  
-  - 通过旧订阅或新订阅与同一个客户关联的后续合作伙伴将无法获得新客户为该客户添加的信用额度。
-  
-  - 与客户关联的所有合作伙伴在客户丢失时将失去新客户的信用额度。
-  
-  - 随后，通过旧订阅或新订阅与同一个客户关联的任何合作伙伴将为该客户提供新的客户信用额度。
+- 第一次添加客户：
+    - 与客户关联的所有合作伙伴将获得客户添加到本月的新客户的信用额度。
+    - 通过旧订阅或新订阅与同一个客户关联的后续合作伙伴将无法获得新客户为该客户添加的信用额度。
+- 客户丢失：在过去12个月内，客户添加的信用额度收到信用额度后，客户会丢失该信用额度。
+- 客户以前丢失的内容已添加回：与客户关联的所有合作伙伴将获得客户重新添加到本月的新客户的信用额度。
   
   **当客户已直接与 Microsoft 合作时：**
 
@@ -260,7 +258,7 @@ PCI 分数确定资格，如下所示：
 - 财务和运营功能顾问认证要求个人通过：
   - MB-300<br/>
   **以及** 以下一项考试：
-  - MB-310，MB-320，MB-330，MB-897 \* \* 或 MB6-898 \* \* 。
+  - MB-310、MB-320、MB-330、MB-897 \* \* 或 MB6-898。 \* \*
 
 > [!NOTE]
 > 标有星号的考试 () 将停用或替换这些 \* 考试。 有关特定详细信息，请参阅下文：
@@ -284,7 +282,7 @@ PCI 分数确定资格，如下所示：
 
 - 若要符合点条件，必须在创建基线快照时功能顾问至少具有 **15** 个适用于已开发市场合作伙伴的关联公司，以及 **5** 个适用于开发市场合作伙伴的关联公司。
 
-- **不会授予任何部分分数。** 基线快照上的增长必须满足或超过下表所示的阈值。 该表显示了一个 **开发** 和 **开发** 列，其中包含的功能顾问基线需要有资格获得积分。
+- **不会授予任何部分分数。** 基线快照之上的增长必须满足或超过下表中所示的阈值。 该表显示了一个 **开发** 和 **开发** 列，其中包含的功能顾问基线需要有资格获得积分。
 
   | 各种 | 各种 | 获得全部15个点所需的增长
   |:---:|:---:|:---:|
@@ -306,7 +304,7 @@ PCI 分数确定资格，如下所示：
 
 - 开发人员指标的要点基于当月快照，最多可有5个点。
 
-- 客户参与开发人员通过以下操作获得信用额度：
+- 客户参与开发人员在通过时获得额度：
   - PL-400<br/>**or**
   - MB-200 \* **和** 以下考试之一：
     - MB-400 \* 或 MB2-716\*\*
@@ -332,7 +330,7 @@ PCI 分数确定资格，如下所示：
 
   - 对于 Customer Engagement，新的大型部署定义为租户下的生产实例数，该租户超过 **250** 个月度活跃用户 (适用于开发市场合作伙伴) 和 **150** 个月度活跃用户 (（用于开发市场合作伙伴) ）。
 
-  - 对于财务和运营，新的大型部署定义为租户下的生产实例数，该租户已超过 **100** 个月度活跃用户 (适用于开发市场合作伙伴) ，每月活动用户数超过 **50** (（用于开发市场合作伙伴) ）。
+  - 对于财务和操作，新的大型部署定义为租户中已超过 **100** 个每月活动用户 (的生产实例数，适用于开发市场合作伙伴) 和 **50** 个每月活动用户 (开发市场伙伴) 。
   
    (有关开发和开发市场的详细信息，请参阅这些 [Microsoft 合作伙伴网络定义](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)。 ) 
 
@@ -359,7 +357,7 @@ PCI 分数确定资格，如下所示：
 
 - 每月活动用户在租户级别进行计数，并只在租户下的付费订阅上求和。
 
-- 每月活动用户增长指标将当前月份与12个月前的基线进行比较。 最多有25个点数。
+- 月度活跃用户增长指标将当前月份与 12 个月之前基线进行比较。 最多提供 25 个点。
 
 - 单月活动用户数在每月结束时计算。
 
@@ -390,7 +388,7 @@ PCI 分数确定资格，如下所示：
    :::image type="content" source="images/pci/howto.png" alt-text="如何阅读图表":::
 
    > [!NOTE]
-   > 如果看不到这些选项，请尝试从菜单中选择 **MPN，** 后跟"**合作伙伴贡献指示器"。** 如果仍然找不到这些选项，则你可能没有在 合作伙伴中心 中分配相应的用户角色。 请联系你的合作伙伴中心全局管理员或 MPN 合作伙伴管理员获取帮助。
+   > 如果看不到这些选项，请尝试从菜单中选择 **MPN，** 后跟"**合作伙伴贡献指示器"。** 如果仍找不到这些选项，则可能没有在合作伙伴中心分配适当的用户角色。 请联系你的合作伙伴中心全局管理员或 MPN 合作伙伴管理员获取帮助。
 
 有关使用此区域的详细信息，请参阅本文末尾的资源和视频集合。
 
