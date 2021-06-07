@@ -1,59 +1,59 @@
 ---
-title: Microsoft AppSource 和 Azure Marketplace 的退款策略
-description: 了解 Microsoft AppSource 和 Azure Marketplace 中销售的产品的退款政策
+title: Microsoft AppSource 和 Azure 市场
+description: 了解在市场和市场销售的产品的退款Microsoft AppSource Azure 市场
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412669"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446849"
 ---
-# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource 和 Azure Marketplace 的退款策略
+# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource 和 Azure 市场
 
-Microsoft AppSource 或 Azure Marketplace 的购买可能有资格获得退款。 本文介绍了我们的退款策略。
+购买Microsoft AppSource或Azure 市场可能会获得退款。 本文介绍我们的退款策略。
 
-## <a name="software-as-a-service-saas-offers"></a>软件即服务 (SaaS) 产品
+## <a name="software-as-a-service-saas-offers"></a>SaaS 服务 (软件) 产品/服务
 
-对于每月计划，如果你在购买后的一天内取消订阅，则有资格获得全额退款。 对于每年计划，如果你在购买后14天内取消订阅，则有资格获得全额退款。 "退款" 不适用于在上述时间段之后取消的订阅。
+对于每月计划，如果在购买后一天内取消订阅，则有资格获得完全退款。 对于每年计划，如果在购买后 14 天内取消订阅，则有资格获得完全退款。 退款不适用于上述时间段后取消的订阅。
 
-如果你从订阅中删除座位，你可以根据订阅期间的剩余部分获得部分退款资格。
+不针对可变费用颁发退款。 例如，如果 SaaS 产品/服务基于从电子邮件平台发送的电子邮件数进行帐单。
 
 ## <a name="office-add-ins"></a>Office 外接程序
 
-如果你购买了 Office 外接程序，则有资格获得全额退款（如果在一天内从购买或续订中取消订阅）。  如果你在一天后取消订阅，你可以根据产品/服务的其余部分获得部分退款资格。  如果修改订阅，可能会根据订阅期间的剩余部分获得部分退款资格。
+如果购买 Office 加载项，如果在购买或续订后一天内取消订阅，则有资格获得完全退款。 如果在购买后一天取消订阅，则有资格根据产品/服务的剩余部分获得部分退款。 如果修改订阅，你可能有资格根据订阅期的剩余部分获得部分退款。
 
 ## <a name="azure-developer-services"></a>Azure 开发人员服务
 
-如果你降低开发人员服务，你可以根据订阅期间的剩余部分获得部分退款资格。 当你取消你的订阅时，退款功能不可用。
+如果减少开发人员服务，则有资格根据订阅期的剩余部分获得部分退款。 取消订阅时，退款不可用。
 
 ## <a name="azure-managed-applications"></a>Azure 托管应用程序
 
-Azure 托管应用程序不退还。
+Azure 托管应用程序不可退款。
 
-## <a name="azure-reserved-instances"></a>Azure 保留实例
+## <a name="azure-reserved-instances"></a>Azure 预留实例
 
-Azure 预订实例的退款政策 (RI) 适用于 [Azure 预订的自助服务交换和退款](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)。
+Azure 预留实例 (RI) 的退款策略可用于 Azure 预留的自助交换 [和退款](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)。
 
 ## <a name="azure-support-plans"></a>Azure 支持计划
 
-如果你转让或修改你的 Azure 支持计划，你可能有资格获得部分退款。 退款量基于订阅期间的剩余部分。
+如果转移或修改 Azure 支持计划，可能有资格获得部分退款。 退款金额基于订阅期的剩余部分。
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-如果你删除 Azure Databricks 资产，则你可以根据你指定的剩余术语单位进行部分退款。 若要详细了解 Azure Databricks，请参阅 [Azure Databricks 文档](/azure/databricks)。
+如果删除Azure Databricks资产，则你有资格根据指定的剩余期限单位获得部分退款。 若要了解有关此Azure Databricks，请参阅Azure Databricks [文档](/azure/databricks)。
 
 ## <a name="monetary-commitment"></a>货币承诺
 
-如果取消提前支付的现金消耗量承诺，则可以根据承诺期间的剩余部分获得部分退款资格。
+如果取消提前支付的货币消耗承诺，则有资格根据承诺期的剩余部分获得部分退款。
 
 > [!NOTE]
-> 资金承诺不能用于 Microsoft AppSource 或 Azure Marketplace 购买。
+> 货币承诺不能用于购买或Microsoft AppSource Azure 市场。
 
-## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure 使用承诺 (MACC) 
+## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure 使用量承诺 (MACC)
 
-Microsoft Azure 消耗承诺 (MACC) 计划没有专用退款策略。 作为 MACC 协议的一部分购买的产品遵循本文中所述的策略。
+MACC Microsoft Azure 计划 (消耗承诺) 没有专用的退款策略。 作为 MACC 协议的一部分购买的产品遵循本文中所述的策略。
