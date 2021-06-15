@@ -1,45 +1,45 @@
 ---
-title: Azure 和云权益 - MPN
+title: Azure 和云权益-MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何Microsoft 合作伙伴网络 (Azure) 云产品的 MPN 权益，包括如何激活订阅。
+description: 了解 Azure 和云产品的 Microsoft 合作伙伴网络 (MPN) 优点，包括如何激活订阅。
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146351"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066482"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>了解 Azure 和云产品权益区域合作伙伴中心
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>了解合作伙伴中心的 Azure 和云产品权益领域
 
-**适当的角色**：全局管理员|MPN 合作伙伴管理员
+**适当的角色**：全局管理员 |MPN 合作伙伴管理员
 
-本文介绍 Azure 和云中合作伙伴可用的特定 Azure 和云合作伙伴中心。 还将了解如何激活某些类型的 Azure 和云订阅。
+本文介绍合作伙伴中心内可供合作伙伴使用的特定 Azure 和云权益。 你还将了解如何激活特定类型的 Azure 和云订阅。
  
 ## <a name="overview"></a>概述
 
-作为 Microsoft 合作伙伴网络的合作伙伴，你可能有权访问不同领域的许多技术和市场销售权益。 如果你已分配到 合作伙伴中心 中的上述角色之一，可以直接从仪表板中浏览合作伙伴中心优势。
+作为 Microsoft 合作伙伴网络中的合作伙伴，你可能有权访问各种领域的许多 [技术和市场宣传权益](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 。 如果你已在合作伙伴中心分配了上述角色之一，则可以直接从合作伙伴中心仪表板探索其中许多权益。 
 
 > [!NOTE]
-> 若要访问合作伙伴中心"权益"区域，只需登录到 合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)，然后从左侧导航菜单中选择 **MPN。** 然后， **从菜单中** 选择"权益"，然后选择要浏览的特定权益选项或区域。
+> 若要访问 "合作伙伴中心权益" 区域，只需登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard) ，并从左侧导航菜单中选择 " **MPN** "。 然后，从菜单中选择 " **权益** "，然后选择要浏览的特定福利选项或区域。
 
-可以使用的一个权益选项是 Azure & **云产品**。 从"权益&菜单中选择 **"Azure** 合作伙伴中心 **云** "时，将显示 **"Azure &云产品"** 页。
+可供你使用的一个优点选项是 **Azure & 云产品**。 从 "合作伙伴中心 **权益**" 菜单中选择 " **azure & 云**" 时，将显示 " **azure & 云产品**" 页。
 
 此页显示以下详细信息：
 
-- 各种 Azure &云产品订阅权益，无论是基于许可证的订阅还是基于使用情况的订阅
+- 可供你使用的各种 Azure & 云产品订阅权益，无论是基于许可证的订阅还是基于使用情况的订阅
 - 为每个产品分配的许可证数量
-- 预配了特定权益产品的产品/服务类型
-- 权益类型 (核心类型还是增量) 
-- 特定权益的过期日期
+- 为你预配特定权益产品的产品/服务类型
+- 权益类型 (是来自核心还是增量) 
+- 特定权益过期日期
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="列出可用的订阅权益的 Azure 和云产品页。" border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Azure 和云产品页列出了可供你使用的订阅权益。" border="false":::
 
 ## <a name="usage-based-vs-license-based-subscriptions"></a>基于使用情况的订阅与基于许可证的订阅
 
@@ -69,29 +69,33 @@ ms.locfileid: "110146351"
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="显示用户分配区域的 Azure 和云产品页。" border="false":::
 
-- 如果每月分配 100 美元的 Azure 每月信用额度 (或以本地货币) 表示的等效额度，请注意，你随时都可以在此订阅中添加或删除用户。
+- 当你为每月 $100 （例如，每月 (或等效于本地货币) ）分配 Azure 每月信用额度时，请注意，你可以随时在此订阅中添加或删除用户。
 
-- 将 Azure 批量分配 (额度) ，请注意，"删除"选项在 合作伙伴中心。  相反，需要在注册年份将批量额度转移给其他人。 Azure 批量 () 额度订阅也无法与其他许可、预付或信用额度套餐 (例如 Microsoft 企业协议、云解决方案提供商、Azure 开放许可、Azure Pass、Microsoft Action Pack 等) 结合使用。
+- 将 Azure 批量 (每年) 信用额度时，请注意，" **删除** " 选项在 "合作伙伴中心" 中不可用。 相反，您需要在注册年中将批量信用额度转让给其他人。 Azure 大容量 (年度) 信用订阅也不能与其他许可、预付或信用优惠 (，例如 Microsoft 企业协议、云解决方案提供商、Azure 开放许可、Azure Pass、Microsoft Action Pack 等。
 
 ### <a name="license-based-subscriptions"></a>基于许可证的订阅
 
-在"Azure 和云产品"页的"基于许可证的订阅"部分中，可以找到需要激活产品密钥的所有云产品，例如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD basic、Power BI 等。这些产品基于作为合作伙伴在产品/服务中提供的活动产品/服务Microsoft 合作伙伴网络。 此类产品/服务可能包括 Microsoft Action Pack、银级资格成员身份或黄金资格成员身份。
+在 "Azure 和云产品" 页的 "基于许可证的订阅" 部分中，你将找到需要产品密钥进行激活的所有云产品，如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD basic、Power BI 等。这些产品是根据可作为 Microsoft 合作伙伴网络中的合作伙伴的活动产品/服务的类型提供的。 此类产品/服务可能包括 Microsoft Action Pack、银胜任成员资格或金牌资格成员资格。
 
 激活基于许可证的订阅： 
 
-1. 在"Azure 和云产品"页上找到特定订阅。 
+1. 找到 Azure 和云产品页上的特定订阅。 
 
-1. 选择右侧下拉箭头" **查看该订阅** 的详细信息"列。 
+1. 选择右侧的下拉箭头，查看该订阅的 **详细信息** 列。 
 
-1. 阅读后续页上的说明。 这样做会告知你有关如何兑换密钥的更多信息。 
+1. 阅读后续页面上的说明。 这样做会告诉你有关如何兑换密钥的详细信息。 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="包含视图详细信息的 Azure 和云产品页。" border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="包含查看详细信息的 Azure 和云产品页。" border="false":::
 
 
-1. 准备好兑换密钥后，请选择本页底部的 **"** 激活演练"选项。
-   - 如果要激活新订阅或现有订阅已禁用/已过期，请打开专用或 **incognito** 浏览器，然后复制并粘贴以下链接，并按照说明操作：
+1. 准备好兑换密钥时，请选择此页底部的 " **激活演练** " 选项。
+   - 如果要激活新订阅或现有订阅已禁用/已过期，请打开 **专用或 incognito 浏览器**，复制并粘贴以下链接，并按照说明进行操作：
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> Office 365 E3、Office 365 E5、企业移动性 + 安全性、Microsoft Intune 和 Windows 10 企业版权益不再是资格权益包的一部分。 你可以激活 Microsoft 365 E3 或 Microsoft 365 E5 权益，以作为已废止的独立权益包的更换。
+如果你需要有关安装或部署 M365 权益的任何帮助，请使用你的技术权益提出 [技术支持票证](mpn-benefits-technical-support.md)
       
    - 如果希望延长结束日期或将更多座位/许可证添加到现有订阅副本，并将以下链接粘贴到 **专用或 incognito 浏览器窗口** 中，并按照说明进行操作：
  
@@ -146,36 +150,38 @@ ms.locfileid: "110146351"
 
 1. 输入从合作伙伴中心获取的25位数的密钥，然后选择 " **下一步**"。
 
-2. 验证显示的产品详细信息、许可证数量和订阅持续时间。 准备就绪后，选择" **兑换** "以激活订阅。
+2. 验证显示的 "产品详细信息"、"许可证数量" 和 "订阅持续时间"。 准备就绪后，选择 " **兑换** " 激活订阅。
 
-   新激活的订阅将在 M365 管理中心的"产品"选项卡中提供。 
+   新激活的订阅将在 M365 管理中心的 " **产品** " 选项卡中提供。
 
 ## <a name="licensing-scenarios"></a>许可方案
 
-本部分介绍与 Azure 和云产品关联的订阅的一些示例许可方案。 在这些情况下，你将了解如何计算订阅结束日期。
+本部分介绍与 Azure 和云产品关联的订阅的几个示例授权方案。 在这些情况下，您将了解如何计算订阅结束日期。
 
 ### <a name="scenario-1"></a>方案 1
 
-如果订阅上有 100 个有效许可证，并且尝试使用具有 25 个许可证的密钥来延长结束日期，则对于具有 100 个许可证的订阅，结束日期将延长 3 (3) 个月。
+如果在订阅上有100个活动活动，而你尝试使用包含25个许可证的密钥来延长结束日期，则将通过3个 () 3 个月为包含100个许可证的订阅扩展截止日期。
 
 ### <a name="scenario-2"></a>方案 2
 
-如果在订阅上激活了 100 个许可证，并且尝试使用具有 100 个许可证的密钥来延长结束日期，则结束日期将延长 12 个月。
+如果在订阅上有100个活动活动，而你尝试通过使用包含100个许可证的密钥来延长结束日期，则结束日期将延长12个月。
 
 ### <a name="scenario-3"></a>方案 3
 
-如果订阅上有五个 (5) 许可证处于活动状态，并且尝试使用具有 10 个许可证的密钥来延长结束日期，则对于具有五个 (5) 许可证的订阅，结束日期将延长 24 个月 (或席位) 。
+如果订阅上有5个 (5) 许可证处于活动状态，而你尝试通过使用包含10个许可证的密钥来扩展结束日期，则订阅的结束日期将为包含5个 (5) 许可证 (或座位) 的订阅24个月扩展。
 
 ### <a name="scenario-4"></a>方案 4
 
-如果尝试使用活动许可证/席位数超过 3 倍的密钥来延长结束日期，将显示以下错误消息。 此消息是设计使的，因为订阅结束日期最多可以延长 3 年。
+如果尝试使用超过3倍活动许可证/座位的密钥来延长结束日期，将显示以下错误消息。 此消息是设计的，因为订阅结束日期最多可扩展3年。
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Azure 和云产品错误消息。" border="false":::
 
 ## <a name="next-steps"></a>后续步骤
 
-- 了解如何从[Office 365 E3](/microsoft-365/business/migrate-from-e3)迁移到 Microsoft 365 Business Premium
+- 了解如何 [从 Office 365 E3 迁移到 Microsoft 365 商业版 Premium](/microsoft-365/business/migrate-from-e3)
    
-- 详细了解 Microsoft 365 [Business Voice](/microsoftteams/business-voice/whats-business-voice)
+- 阅读有关[Microsoft 365 商业版语音](/microsoftteams/business-voice/whats-business-voice)的详细信息
   
-- 了解商务 [语音的每个国家/地区可用性](/microsoftteams/business-voice/country-region-availability)
+- 了解 [业务语音的国家/地区和地区可用性](/microsoftteams/business-voice/country-region-availability)
+
+- 了解如何 [通过 Microsoft 365 部署 Windows 10](/windows/deployment/deploy-m365)
