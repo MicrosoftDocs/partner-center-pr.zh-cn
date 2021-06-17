@@ -8,12 +8,12 @@ description: 了解你表现良好，以及在哪里可以改进为客户销售�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 685dce8d521bc27b9b91efd5206e9da0d7e45f34
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e1b60c96bad5d3bf514bdfb36d36a733364e6c92
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854594"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277804"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>可从 合作伙伴中心 Insights 仪表板获取的 Office 365 使用情况报告
 
@@ -21,7 +21,7 @@ ms.locfileid: "109854594"
 
 Office 365 使用情况报表提供为客户销售或管理的 Office 365 订阅的使用情况数据。 可以从 Office 365 使用情况报告中查看以下部分。
 
-- 摘要
+- 总结
 - 按地理位置的 Office 365 使用情况
 - 按工作负荷的 Office 365 使用情况
 - 订阅性能
@@ -30,7 +30,7 @@ Office 365 使用情况报表提供为客户销售或管理的 Office 365 订阅
  > [!NOTE]
  > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、帐户合作伙伴中心、报表查看器或执行报表查看器等角色中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定数据类型可能也仅可供具有执行报告查看器特权的用户使用。
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>总结
 
 "摘要"部分提供与为客户销售或管理的 Office 365 订阅相关的关键指标的快照视图。  
 
@@ -46,36 +46,36 @@ Office 365 使用情况报表提供为客户销售或管理的 Office 365 订阅
 
    Micro 图表显示所选时段内月度活跃用户的每月趋势。
 
-:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 使用摘要":::
+:::image type="content" source="images/pci/pci-o365-usage-summary.png" alt-text="Office 365 使用情况摘要。":::
 
-## <a name="office-365-usage-by-geography"></a>Office 365 按地理位置使用
+## <a name="office-365-usage-by-geography"></a>按地理位置的 Office 365 使用情况
 
-**Office 365 的使用情况** 描述了每月活动用户 (MAU) 和付费可用单位 (PAU) 按客户国家/地区）的分布情况。 MAU 是指上个月使用的许可证数量，PAU 指的是在所选时间范围内售出或管理的付费座位数。 地图上较亮的颜色表示较小的值，而较暗的颜色表示较高的值。 您可以在网格中搜索和选择国家/地区。 您还可以放大以获取更详细的外观。
+按地理位置的 **Office 365** 使用情况描述了按客户国家/地区 (MAU) 和付费可用单位 (PAU) 分布情况。 MAU 是指上个月使用的许可证数，PAU 是指在所选时间框架中销售或管理的付费席位数。 地图上较浅的颜色表示较低的值，而较深的颜色表示较高的值。 可以在网格中搜索并选择国家/地区。 还可以放大以进一步查看。
 
-" **国家/地区** " 表中显示了在其中生成 Azure 使用情况事件的国家/地区的数量。
+" **国家/地区数量** "表显示生成 Azure 使用事件的国家/地区总数。
 
-您可以在网格中搜索和选择国家/地区，以便缩放到地图中的位置。 选择映射上的 " **Home** " 选项以恢复到原始视图。
+可以在网格中搜索并选择国家/地区，以缩放到地图中的位置。 选择 **地图上** 的"主页"选项以还原为原始视图。
 
 
-:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="Office 365 按地理位置使用":::
+:::image type="content" source="images/pci/pci-o365-usage-geography.png" alt-text="按地理位置的 Office 365 使用情况。":::
 
-## <a name="office-365-usage-by-workload"></a>Office 365 按工作负荷使用
+## <a name="office-365-usage-by-workload"></a>按工作负荷的 Office 365 使用情况
 
-工作负荷中的 Office 365 使用量描述了工作负荷对 MAU 和 PAU 的细分。
+按工作负荷划分的 Office 365 使用情况描绘了按工作负荷划分的 MAU 和 PAU 明细。
 
-:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="Office 365 按工作负荷使用":::
+:::image type="content" source="images/pci/pci-o365-usage-workload.png" alt-text="按工作负荷的 Office 365 使用情况。":::
 
 ## <a name="subscriptions-performance"></a>订阅性能
 
-订阅性能描述了每个客户的工作负荷的 MAU 和 PAU 细分。 按计费收入列出排名前100的客户的数据显示在表中，你可以搜索任何客户或下载原始数据以查看所有客户的详细信息。
+"订阅"性能描述了按每个客户的工作负荷划分的 MAU 和 PAU。 表中显示了按计费收入排名前 100 位客户的数据，你可以搜索任何客户或下载原始数据以查看所有客户的详细信息。
 
-:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Office 365 订阅性能":::
+:::image type="content" source="images/pci/pci-o365-usage-subscription.png" alt-text="Office 365 订阅性能。":::
 
-## <a name="office-365-usage-distribution"></a>Office 365 使用量分布
+## <a name="office-365-usage-distribution"></a>Office 365 使用情况分布
 
-Office 365 使用量分布描述了 Sku 对 PAU 和订阅的细分。
+Office 365 使用情况分布描绘了按 SAU 划分的 PAU 和订阅的细分。
 
-:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 使用情况分布":::
+:::image type="content" source="images/pci/pci-o365-usage-distribution.png" alt-text="Office 365 使用情况分布。":::
 
 ## <a name="next-steps"></a>后续步骤
 

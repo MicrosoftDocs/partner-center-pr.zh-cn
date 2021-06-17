@@ -9,18 +9,16 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6af92907f56f85435cf3fb1c16b13196cf35e08
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
-ms.translationtype: HT
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284479"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276376"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>了解技术预售和部署服务 (TPD) 
 
-**相应的角色**
-
-- MPN 合作伙伴管理员
+**相应的角色**：MPN 合作伙伴管理员
 
 了解你所获得的技术预售和部署服务的 Microsoft 合作伙伴网络 (MPN) 权益，包括咨询、预售协助、咨询时间等。
 
@@ -44,7 +42,21 @@ ms.locfileid: "108284479"
 
 使用任何与 MPN 关联的用户帐户登可[创建技术预售和部署服务 (TPD) 请求](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)（不需要激活技术权益）。
 
-:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="技术预售和部署权益" :::
+## <a name="delivery-scenarios"></a>交付方案
+
+- **技术售前** 咨询用于定义价值主张、提供成本估算、管理客户意见、响应竞争对手消息、演示技术解决方案、概念证明或导致工作声明的体系结构规划和设计。
+
+  - *不支持：* 销售管道规划、定价和价目表。
+
+
+- **部署咨询** 用于体系结构规划和设计指南、最佳做法、部署指南、产品参考和文档。
+
+  - *不支持：* 中断修复支持/故障排除、现场服务、长期咨询、直接在生产环境中联系客户支持或实际支持。 
+
+
+- **市场咨询** 用于如何发布解决方案，以在 Microsoft 商业市场中持续生成潜在顾客。 对于开发人员、服务配置、体系结构或设计咨询、从本地解决方案迁移、代码评审和应用程序发布帮助。
+
+  - *不支持：* 代码调试，应用程序开发不仅仅是概念证明。
 
 ## <a name="in-scope-products-and-services"></a>范围内产品和服务
 
@@ -54,9 +66,10 @@ ms.locfileid: "108284479"
 - **业务应用程序**：Microsoft Dynamics 365（在线版）、Microsoft Power Platform（Power Apps、Power Automate、Power BI）
   - *超出范围：仅 Dynamics 365、GP、SL、AX、NAV 的本地版本*
 - **Microsoft Azure**：所有 Microsoft Azure 解决方案和相关服务，如基础结构即服务、平台即服务、数据平台、BI 分析、认知服务、Azure 机器学习、Azure Stack
-- **Windows Server**：主流支持的 Windows Server（由 **[产品生命周期](https://docs.microsoft.com/lifecycle/policies/fixed)** 管理）
+- **Windows Server**：主流支持的 Windows Server（由 **[产品生命周期](/lifecycle/policies/fixed)** 管理）
   - 如果与云或混合方案相关，则 System Center 包括相关产品（如 SCCM）
 - **Windows 10**：Windows 10 操作系统、设备、通用应用
+- **个人预览版或公共** 预览版中的产品：在尽力而为非生产环境提供帮助，不保证信息可用性或响应时间
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>提交技术预售和部署服务请求 
 
@@ -76,9 +89,11 @@ ms.locfileid: "108284479"
 
 3. 选择[提交技术预售和部署请求](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)。
 
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="技术预售和部署优势。" :::
+
 4. 使用“搜索产品”并输入相关产品。 如果获得的结果过多，可以根据“解决方案区域”或“浏览主题”进行筛选，以筛选出每个分类级别。
 
-:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="技术预售和部署权益 - 搜索产品":::
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="技术预售和部署权益 - 搜索产品。":::
 
    > [!NOTE]
    > 如果需要在 ASfP 或 PSfP 支持计划中加入云咨询，请联系支持客户经理 (SAM)。

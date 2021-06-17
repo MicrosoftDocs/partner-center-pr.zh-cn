@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855397"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276444"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>如何向教育客户销售产品以及如何在合作伙伴中心创建教育客户
 
@@ -39,11 +39,11 @@ ms.locfileid: "109855397"
 
 3. 完成后，请选择 " **查看**"。
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客户帐户":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客户帐户。":::
 
 4. 确认 **检查** 后，如果提交的信息有效，你将收到 **InReview** 状态。 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="审查教育客户帐户"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="考核教育客户帐户。"lightbox="images/edu/create-review-expanded.png":::
 
 ### <a name="confirm-your-education-customers-verification-status"></a>确认教育客户的验证状态
 
@@ -52,19 +52,19 @@ ms.locfileid: "109855397"
 
 - 如果客户通过验证：教育
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="教育验证成功":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育验证成功。":::
 
 - 如果客户未通过验证：不是教育客户
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="教育验证失败" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="教育验证未成功。" lightbox="images/edu/fail-reason-expanded.png":::
 
 - 如果客户未标记为教育客户： None
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="教育客户未标记为这样" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="教育客户未标记为。" lightbox="images/edu/account-one-expanded.png":::
 
 - 如果客户以教育客户身份审查：审查
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="教育客户正在评审" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="教育客户正在查看。" lightbox="images/edu/in-review-expanded.png":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>更正客户帐户信息并重新提交以进行验证
 
@@ -74,25 +74,25 @@ ms.locfileid: "109855397"
 
 您必须拥有全局管理员权限才能更新客户的信息。 你需要在 Office 365 门户上更新信息，因为此数据无法从合作伙伴中心门户更新。
 
-1. 在 **"帐户** "页上，你将看到指出客户资格被视为"不是教育客户"的信息。
+1. 在 " **帐户** " 页上，你将看到说明客户资格视为 "不是教育客户" 的信息。
 
-2. 刷新浏览器以重置页面。 将会有一个 **"更新"** 按钮 **，"特殊资格状态**"设置为"无 **"。**
+2. 刷新浏览器以重置页面。 将会出现 " **更新** " 按钮和 " **特殊资格" 状态** 设置为 " **无**"。
 
-3. 选择“更新”。 在"**服务管理"页上**，选择 **"Office 365"。**
+3. 选择“更新”。 在 " **服务管理** " 页上，选择 " **Office 365**"。
 
-4. 你将重定向到浏览器新选项卡上的 Office 365 管理中心。 系统可能会要求你使用凭据登录。
+4. 你将被重定向到你的浏览器的新选项卡上的 Office 365 管理中心。 可能会要求你登录凭据。
 
 5. 选择“设置”。
 
-6. 选择 **屏幕顶部的"** 组织配置文件"选项卡，然后选择"**组织信息"。** 现在可以更新客户详细信息。
+6. 选择屏幕顶部的 " **组织配置文件** " 选项卡，然后选择 " **组织信息**"。 你现在可以更新客户详细信息。
 
-7. 选择 **边栏** 底部的"保存更改"。  
+7. 选择侧栏底部的 " **保存更改** "。  
 
-### <a name="resubmit-for-verification"></a>重新提交验证
+### <a name="resubmit-for-verification"></a>重新提交以进行验证
 
-1. 导航到"合作伙伴中心"选项卡，并导航到"客户 **帐户"** 页。 刷新浏览器并验证"公司"页是否更新为新信息。 选择 **"更新** "按钮以请求教育重新验证。
+1. 导航到 "合作伙伴中心" 选项卡，然后导航到 "客户 **帐户** " 页。 刷新浏览器并验证公司页面是否更新为新的信息。 选择 " **更新** " 按钮，请求教育重新验证。
 
-2. 如果更新的客户详细信息符合教育产品/服务的资格，你将看到"特殊 **资格"已更新为**"**教育"。** 如果仍看到 **"不是教育客户"，** 请联系支持人员进行手动验证。
+2. 如果更新的客户详细信息符合教育优惠，你将看到特殊的 **资格** 已更新为 " **教育**"。 如果仍看 **不到教育客户**，请联系支持人员进行手动验证。
 
 ## <a name="next-steps"></a>后续步骤
 
@@ -100,4 +100,4 @@ ms.locfileid: "109855397"
 
 - [添加新客户](add-a-new-customer.md)
 
-- [向Minecraft: Education Edition客户销售订阅](minecraft-subscriptions.md)
+- [销售 Minecraft：教育版教育客户订阅](minecraft-subscriptions.md)

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 07ff4df4b6d91b84af40e9b2b32d991f4ad09062
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855601"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277787"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>合作伙伴中心门户请求和诊断工具
 
@@ -43,30 +43,30 @@ ms.locfileid: "109855601"
 
 如果问题需要与支持人员对话，可以从票证详细信息中安排约会。
 
-:::image type="content" source="images/support/ticket.png" alt-text="计划支持约会":::
+:::image type="content" source="images/support/ticket.png" alt-text="安排支持约会。":::
 
-1.  在合作伙伴中心的 "票证详细信息" 页上，选择支持代表日历上的可用日期和时间。 你将仅看到本地时区可用的日期和时间。
+1.  在 合作伙伴中心 中的票证详细信息页中，选择支持推广者日历上的可用日期和时间。 将仅看到本地时区中的可用日期和时间。
 
-:::image type="content" source="images/support/ticket2.png" alt-text="计划约会":::
+:::image type="content" source="images/support/ticket2.png" alt-text="安排约会。":::
 
-2. 合作伙伴中心将检查支持人员的日历是否可用。
+2. 合作伙伴中心检查支持推广者日历是否可用。
 
-1. 当你计划约会时，合作伙伴中心会向你发送一个日历邀请，其中包含有关支持人员将如何与你联系的信息，因此你可以在自己的工作日历上跟踪此约会。  虽然此功能仍处于预览状态，但电子邮件和日历邀请将采用英语，但拥护者将能够以创建票证时所选的语言支持。
+1. 计划约会时，合作伙伴中心发送日历邀请，并提供有关支持支持人员如何联系你的信息，以便你可以根据自己的工作日历跟踪此约会。  虽然此功能仍处于预览状态，但电子邮件和日历邀请将为英语，但推广者将能够使用创建票证时选择的语言支持你。
 
-:::image type="content" source="images/support/ticket3.png" alt-text="日期和时间":::
+:::image type="content" source="images/support/ticket3.png" alt-text="日期和时间。":::
 
 ## <a name="hours-of-operation"></a>营业时间
 
 **合作伙伴支持**
 
-:::image type="content" source="images/support/hoop.png" alt-text="支持的操作时间":::
+:::image type="content" source="images/support/hoop.png" alt-text="支持操作小时数。":::
 
 ## <a name="send-diagnostics"></a>发送诊断
 
-如果在合作伙伴中心页面出现错误，系统可能会提示收集日志信息。 从页面顶部下拉的链接中选择 " **收集详细信息** " 以打开客户端诊断工具。 该工具收集合作伙伴支持团队在确定错误原因时所需的信息。 
+如果在登录页时出错合作伙伴中心，系统可能会提示你收集日志信息。 **从从页面** 顶部下拉的链接中选择"收集更多信息"，打开客户端诊断工具。 该工具收集合作伙伴支持团队在确定错误原因时所需的信息。 
 
 >[!NOTE]
->在包含 URL 中的 **/pcv/** 的合作伙伴中心页面上，你可以手动打开工具来收集此信息。
+>在合作伙伴中心 URL 包含 **/pcv/** 的页面上，可以手动打开该工具以收集此信息。
 
 1. 转到有问题的页面。
 
@@ -74,7 +74,7 @@ ms.locfileid: "109855601"
 
 你可以预览诊断信息，然后将它保存到某个文件，你可以将此文件附加到支持请求中。 要向我们发送信息：
 
-3. 在发送文件之前查看文件中的信息，因为它可以包含你可能想要删除的个人数据。
+3. 在发送文件之前，请查看其中的信息，因为它可能包含你可能想要删除的个人数据。
 
     >[!NOTE]
     >在某些浏览器中，**预览** 页面底部的 **页面视图** 部分可能显示为空。 这很正常。

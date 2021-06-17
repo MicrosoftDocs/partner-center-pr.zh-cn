@@ -1,46 +1,46 @@
 ---
-title: 如果你的 MPN 计划的唯一管理员离开了公司怎么办？
+title: 如果 MPN 计划的唯一管理员已离开公司，该怎么办？
 ms.topic: how-to
 ms.date: 09/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何查找新的 MPN 管理员，或从公司的全局管理员那里获取帮助。同时，了解如何添加新的合作伙伴中心全局管理员。
+description: 了解如何查找新的 MPN 管理员或从公司的全局管理员获取帮助。此外，了解如何向全局管理员合作伙伴中心帐户。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 21042169a33d9a413f17f951c4daad0c5fc86a17
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151162"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277668"
 ---
-# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>如果你的 MPN 计划的唯一管理员离开了公司怎么办？
+# <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>如果 MPN 计划的唯一管理员已离开公司，该怎么办？
 
-**适当的角色**： MPN 合作伙伴管理员 |帐户管理员 |全局管理员
+**适当角色**：MPN 合作伙伴管理员|帐户管理员|全局管理员
 
-下面的文章将指导你完成 MPN 管理员离开公司时要执行的操作的三个典型方案。
+以下文章将指导你完成三个典型方案，说明 MPN 管理员离开公司后该怎么办。
 
-## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>方案1： MPN 合作伙伴管理员/帐户管理员已离开公司，但帐户中仍有全局管理员
+## <a name="scenario-1-mpn-partner-adminaccount-admin-has-left-the-company-but-there-are-still-global-admins-in-the-account"></a>方案 1：MPN 合作伙伴管理员/帐户管理员已离开公司，但帐户中仍有全局管理员
 
-在这种情况下，可以为公司中的其他人分配 MPN 合作伙伴管理员角色。要为其分配特定 MPN 合作伙伴管理员/帐户管理员角色的角色：
+在这种情况下，公司中的其他人可以分配 MPN 合作伙伴管理员角色。若要分配特定 MPN 合作伙伴管理员/帐户管理员角色的角色，
 
-1. 使用工作帐户登录到合作伙伴中心帐户 (例如 tom@contoso.com) 。
-1. 从 "全局管理员" 的 " **用户管理** " 页筛选器，查看你的公司的全局管理员是谁。 
-1. 联系其中一个全局管理员，并请求他们为你分配所需的 MPN 特定角色。 
+1. 使用工作合作伙伴中心登录你的 (帐户，例如 tom@contoso.com) 。
+1. 从 **"全局管理员** "上的"用户管理"页筛选器中，查看公司的全局管理员是谁。 
+1. 联系其中一个全局管理员，要求他们分配所需的 MPN 特定角色。 
 
-## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>方案2： MPN 合作伙伴管理员/帐户管理员已离开公司，帐户中没有全局管理员 
+## <a name="scenario-2-mpn-partner-adminaccount-admin-has-left-the-company-and-there-are-no-global-admins-in-the-account"></a>方案 2：MPN 合作伙伴管理员/帐户管理员已离开公司，并且帐户中没有全局管理员 
 
-如果你进入 " **用户管理** " 页并筛选全局管理员，但你发现公司中没有可帮助你获取 MPN 特定角色的全局管理员，请执行以下步骤：
+如果转到"用户管理"页并筛选"全局管理员"，但发现公司中没有任何全局管理员可以帮助你获得 MPN 特定的角色，请执行以下步骤：
 
-1. 请参阅 [portal.azure.com](https://ms.portal.azure.com/)，使用工作帐户登录 (例如 tom@contoso.com) 。 
-1. 在左侧菜单导航栏中选择 " **帮助 + 支持** " 选项。
-1. 在下一页上，在下拉菜单中选择 " **新建支持请求** 和 **技术问题** 类型"，插入任何其他详细信息，然后单击 " **下一步：解决方案"。**
+1. 转到 [portal.azure.com，](https://ms.portal.azure.com/)使用工作帐户登录 (例如 tom@contoso.com ，) 。 
+1. 选择左侧 **菜单导航栏中** 的"帮助 + 支持"选项。
+1. 下一页上，在下拉菜单 **中选择**"支持请求和技术问题类型"，插入任何其他详细信息，然后单击"下一步 **： 解决方案"。**
 
-:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="在 Azure 门户中找到管理员":::
+:::image type="content" source="images/accountsettings/adminfinder.png" alt-text="在&quot;管理员&quot;Azure 门户。":::
 
-4. 查看下一页中的推荐解决方案之后，选择 " **下一步：详细信息** " 并完成必需的字段。
+4. 查看下一页中建议的解决方案后，选择"下一步 **： 详细信息"并** 填写必要的字段。
 1. 查看并创建支持请求。
 
 

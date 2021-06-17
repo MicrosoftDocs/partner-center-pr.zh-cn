@@ -8,12 +8,12 @@ description: 了解有关使用联合销售连接器的常见问题的解答。 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148340"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276920"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>联合销售引荐连接器疑难解答
 
@@ -39,41 +39,41 @@ ms.locfileid: "110148340"
 
 • 确保你的货币适合你的位置，并且准确位于 CRM 环境中。 • 你的销售团队应作为 CRM 用户列在 CRM 环境中。
 
-5. 电源自动执行环境创建需要哪些先决条件？
+5. 创建环境需要哪些Power Automate先决条件？
 
-若要使用电源自动执行环境，需要：
+若要使用Power Automate环境，需要：
 
-- 需要使用 Power 自动许可证。
-- 至少需要 1 GB 的存储空间。
+- 需要Power Automate许可证。
+- 至少需要 1 GB 存储。
 
-6.  是否需要 Dynamics 365 订阅才能使用 Salesforce 连接器解决方案？
+6.  是否需要 Dynamics 365 订阅来使用 Salesforce Connectors 解决方案？
 
-Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其他 CRM 系统同步。 此解决方案不需要你拥有 Dynamics 365 实例或订阅。 安装 Salesforce 解决方案时，可能会出现一个包含公司中现有 CD 环境的下拉状态。 需要选择该环境。 此外，如果收到 "找不到连接到已登录用户的 Dynamics 365 组织" 错误，则需要为连接器创建新的环境。
+Salesforce 连接器解决方案的类型为"Dynamics Flow"，支持与其他 CRM 系统同步。 该解决方案不要求你拥有 Dynamics 365 实例或订阅。 安装 Salesforce 解决方案时，可能会显示公司中现有 CDS 环境的下拉列表。 需要选择该环境。 此外，如果收到错误"找不到已登录用户的 Dynamics 365 组织"，则需要为连接器创建新环境。
 
 ## <a name="questions-and-answers-about-configuration"></a>有关配置的问题和解答
 
-1. 如果在 Power 自动化平台中激活流时遇到以下错误，应该怎么办？
+1. 如果在激活 Power Automate Platform 中的流时出现以下错误，应Power Automate操作？
 
-错误：请求 Azure 资源管理器失败，出现错误： "{" 错误 "： {" 代码 "：" WorkflowTriggerNotFound "，" message "：" 找不到工作流 "e14d00f1-1fdf-4b1b-aaac-54a5064093d3" 触发器 "manual"。 "}}"。 
+错误：对 Azure 资源管理器 的请求失败，出现错误："{"error"：{"code"："WorkflowTriggerNotFound"，"message"："找不到工作流 'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' 触发器 'manual'"。"}}"。 
 
-请遵循以下故障排除步骤：
+请按照以下故障排除步骤操作：
 
-- 删除 CD 连接，然后重新创建 CD 连接。
+- 删除 CDS 连接，然后重新创建 CDS 连接。
 - 关闭和打开子流 
 - 删除解决方案，然后重新安装解决方案。 
 
-2.  如果在 Power 自动化平台中添加合作伙伴中心连接器时遇到 "登录" 错误，该怎么办？
+2.  如果在 Power Automate Platform 中添加 合作伙伴中心 连接器时出现"登录"错误，该怎么办？
 
-:::image type="content" source="images/cosellconnectors/failure.png" alt-text="需要登录的错误消息":::
+:::image type="content" source="images/cosellconnectors/failure.png" alt-text="需要登录的错误消息。":::
 
-请按照以下故障排除步骤操作：
+按照以下故障排除步骤操作：
 
 - 使用合作伙伴中心凭据登录流环境后 (flow.microsoft.com) 。
 
 
 3. 如果在 Power Automate Platform 中激活 合作伙伴中心 CRM 流时收到以下错误，应Power Automate操作？
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="需要更新的错误消息":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="需要更新的错误消息。":::
 
 请按照以下故障排除步骤操作：
 
@@ -88,11 +88,11 @@ Salesforce 连接器解决方案的类型为 "Dynamics Flow"，它支持与其�
 - 选择每个流并单独编辑它们。
 - 展开流中的所有步骤 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="需要连接的步骤":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="需要连接的步骤。":::
 
 - 选择一些步骤，其中会显示一个警告图标，要求关联连接并添加连接。 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="分步编辑流":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="分步编辑流。":::
 
 
 5. 如果联合销售引荐连接器解决方案流没有打开，该怎么办？
@@ -102,38 +102,38 @@ A. 在Power Automate中，需要按以下顺序编辑流，并更新流以使用
 - 合作伙伴中心预览体验版 (Webhook 注册) 
 - 创建联合销售引荐 - Salesforce 合作伙伴中心 (Insider Preview) 
 - 合作伙伴中心 Microsoft 联合销售 Salesforce (Insider Preview) 
-- 合作伙伴中心到 Salesforce (预览体验) 
-- Salesforce 到合作伙伴中心 (预览体验) 
-- 合作机会到合作伙伴中心 (预览体验) 
-- Salesforce Microsoft 解决方案到合作伙伴中心 (预览体验) 
+- 合作伙伴中心 Insider Preview (Salesforce) 
+- Salesforce 合作伙伴中心 (Insider Preview) 
+- Salesforce 预览体验合作伙伴中心 (预览版) 
+- Salesforce Microsoft Solutions to 合作伙伴中心 (Insider Preview) 
 
- B. 对于每个 flow，选择 " **仅运行用户** " 选项。 选择 " **使用连接** ，而不是 **由仅运行用户提供**"。  
+ B. 对于每个流，选择" **仅运行用户"** 选项。 选择 **"使用连接**"，而不是"**由仅运行用户提供"。**  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="激活流":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="激活流。":::
 
 
-C. 激活以下所述的流：
+C. 激活下面提到的流：
 
- - 合作伙伴中心 Microsoft 共同销售对 Salesforce (内幕预览版的推荐更新) 
+ - 合作伙伴中心 Microsoft 联合销售 Salesforce (Insider Preview) 
 
-- Salesforce 到合作伙伴中心 (预览体验) 
+- Salesforce 合作伙伴中心 (Insider Preview) 
 
     
 D. 激活所有剩余流。
 
-E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合作伙伴中心的第一个操作 **到 Salesforce** 流的 **http url** 。 选择 **要注册的事件** 下的所有四个选项，然后选择 **"是"** 进行覆盖。
+E. 在"Webhook 合作伙伴中心流中，选择"运行 **"。** 提供 **Salesforce** 流中第一个合作伙伴中心 **的 http** URL。 在"要注册的事件 **"下选择所有四个选项，然后选择****"是**"作为"覆盖"。
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>有关运行/维护的问题和解答
 
-1. 如何排查电源自动流执行过程中的故障？
+1. 如何排查流执行Power Automate故障？
 
-若要确保电源自动流按预期运行，并在执行过程中排除故障，请参阅 [修复流故障](/power-automate/fix-flow-failures)。
+若要确保流Power Automate运行，并排查执行期间失败的问题，请参阅 [修复流失败](/power-automate/fix-flow-failures)。
 
-2. 如果在合作伙伴中心或 CRM 环境中看到未正确同步的引用，应该怎么办？
+2. 如果看到在用户或 CRM 环境中未正确同步的引荐合作伙伴中心该怎么办？
  
-若要确定引用同步的状态，请选择 " **审核**"。 
+若要确定引荐同步的状态，请选择"审核 **"。** 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="如何同步引用":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="如何同步引荐。":::
 
 确保满足以下条件：
 
@@ -149,7 +149,7 @@ E. 在流伙伴中心 Webhook 注册中，选择 " **运行**"。 提供从合�
 
 - 合作伙伴销售人员需要确保他们已启用 CRM 部分 **中的"合作伙伴中心** 同步"选项。
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="确保已启用 Synch":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="确保已启用 Synch。":::
 
 - 在限定潜在客户时，销售人员需要提供收入和结束日期。
 

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147201"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276852"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>使用分析了解有关订阅收入的详细信息
 
@@ -29,7 +29,7 @@ ms.locfileid: "110147201"
 
 1. 在页面顶部会显示尾随的十二个月的 CSP 收入
 
-:::image type="content" source="images/analytics/subscription1.png" alt-text="订阅屏幕":::
+:::image type="content" source="images/analytics/subscription1.png" alt-text="订阅屏幕。":::
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>尾随 Twelve-Month (TTM) CSP 收入
 
@@ -46,14 +46,14 @@ ms.locfileid: "110147201"
 
 ## <a name="subscription-summary"></a>订阅摘要
 
-屏幕的下半部分显示订阅摘要。 使用以下筛选器查看必要的订阅详细信息：  
+屏幕的下半部分显示订阅摘要。 使用以下筛选器来查看必要的订阅详细信息：  
 
-1. **持续时间**：可以选择查看的订阅摘要 
+1. **持续时间**：可以选择查看订阅摘要 
 
-- 30D – 过去 30 天
-- 3M – 过去 3 个月
-- 6M – 过去 6 个月
-- 12M – 过去 12 个月
+- 30D –最近30天
+- 3M –最近3个月
+- 6分钟–最近6个月
+- 12M –最近12个月
 
 2. **产品类型**：
  
@@ -62,13 +62,13 @@ ms.locfileid: "110147201"
 - Dynamics 365
 - EMS
 
-应用这些筛选器不会影响此报表顶部的 TTM 收入指标。
+应用这些筛选器不会影响此报告顶部的 TTM 收入指标。
 
 
  
 ## <a name="next-steps"></a>后续步骤
 
-- [分析客户如何使用他们购买的许可证](increasing-adoption-and-satisfaction.md)  
+- [分析你的客户如何使用他们所购买的许可证](increasing-adoption-and-satisfaction.md)  
 - [查看客户活动日志](activity-logs.md)
 - [适用于 Power BI 的合作伙伴中心分析应用](power-bi-app-for-direct-partners.md)
 

@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795017"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276359"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>在预扣税合作伙伴中心帐户上接收信用额度
 
@@ -39,32 +39,32 @@ ms.locfileid: "109795017"
 
 3. 单击 **要** 提交申请的发票旁边的"提交新项"。 提交新链接将你访问" **新建预扣税请求"** 页。
 
-   :::image type="content" source="images/wht1.png" alt-text="提交发票的新预扣税":::
+   :::image type="content" source="images/wht1.png" alt-text="提交发票的新预扣税。":::
 
 4. 查看发票详细信息，确保提交正确的发票请求。
 
-   :::image type="content" source="images/wht2.png" alt-text="为发票完成预缴税金详细信息":::
+   :::image type="content" source="images/wht2.png" alt-text="填写发票的预扣税详细信息。":::
 
-5. 在 " **预缴税金详细信息**" 下输入 "预缴 total"。 "预缴 total" 是预期的贷记量。
+5. 在"预扣税详细信息"下 **输入"预扣总额"。** "预扣税总计"是预期会获得额度的金额。
 
-6. **附加** 税务证书。 你将需要在预缴税金请求中包含 **预缴税金证书** 的 **数字副本**。 当你向本地税务主管机构支付税费时，你将收到本证书。 预缴税金证书中的发票税额必须与纳税预缴请求中的总金额匹配。
+6. **附加** 税务证书。 需要在预扣税 **请求** 中包括预扣税 **证书** 的数字副本。 向本地税务机构支付税款时，你收到了来自本地税务机构此证书。 预扣税证书中的发票税额必须与预扣税请求中的总额匹配。
 
    > [!IMPORTANT]
-   > 合作伙伴提供的总金额应与附加的税务证书中的发票行项匹配。 附加的税务证书文件必须采用以下文件格式之一：。仅 ( PDF 或 Image。JPEG、。PNG 和。GIF) 。 此外，文件名称不能包含空格或特殊字符。 文件大小不能超过 1 MB。
+   > 合作伙伴提供的总额应匹配附加的税务证书中的发票行项。 附加的税务证书文件必须采用以下文件格式之一：.PDF或仅图像 (。JPEG、.PNG 和 .GIF) 。 此外，文件名不应包含空格或特殊字符。 文件大小不能超过 1 MB。
 
-7. **提交** 税务预缴请求。
+7. **提交** 预扣税请求。
 
-   提交后，该请求将进入审批过程，在此过程中，将批准该请求以完成，或在需要更正时返回给你。 查看请求 ID 和请求的状态，并在从其提交新请求的 **帐单历史记录** 中查看请求 ID 和状态。
+   提交后，请求将进入审批过程，审批过程将批准完成，如果需要更正，则发回给你。 查看请求的请求 ID 和状态，在提交新请求的计费历史记录中查看。
 
-   如果你的请求发送回你的请求，你将能够更改预缴税金并替换该证书（如果存在问题）。
+   如果请求发送回你，则你将能够更改预扣金额，并替换证书（如果证书有问题）。
 
 ## <a name="update-request-and-resubmit"></a>更新请求并重新提交
 
-在批准之前，审查团队可能需要进行更正和重新提交请求。 它们会将状态更改为 " **挂起合作伙伴" 操作**。 更正和重新提交请求：
+评审团队可能要求你进行更正并重新提交请求，然后才能获得批准。 他们将状态更改为"挂起 **的合作伙伴操作"。** 更正并重新提交请求：
 
 1. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard/home)。
 
-2. 在左侧菜单中，选择 "**计费**"
+2. 在左侧菜单中，选择"计费 **"**
 
 3. 在" **计费"** 页的 **"计费历史记录"中**，查找预扣税请求。 需要关注的请求的状态为"挂起的合作伙伴操作"。
 
@@ -95,17 +95,17 @@ ms.locfileid: "109795017"
 
 ## <a name="german-tax-withholding"></a>德国预扣税
 
-提交德语预缴税金请求的合作伙伴应记得将预缴税金证书的硬副本邮寄到以下地址：
+提交德国预扣税请求的合作伙伴应记得将预扣税证书的硬副本邮件到以下地址：
 
-- ATTN： EOC 税务团队 Marianne Gannon
+- ATTN：EOC 税务团队 M并ne Gannon
 - Microsoft EMEA 运营中心
 - 一个 Microsoft 位置，
-- 南部县企业公园
-- Leopardstown，爱尔兰18，爱尔兰
+- 南县商业区
+- 爱尔兰7 月 18 日
 
-### <a name="questions-and-assistance-for-tax-withholding-requests"></a>有关预缴税金请求的问题和帮助
+### <a name="questions-and-assistance-for-tax-withholding-requests"></a>有关预扣税请求的问题和帮助
 
-合作伙伴应使用上述新过程来提交新请求，不再使用支持请求创建新的预缴税金请求。 具有有关预缴税金请求的其他问题的合作伙伴可以 [提交支持请求](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed)。 支持请求旨在帮助合作伙伴获取现有请求，因此他们需要使用其 **请求 ID** 来提交新票证。 如果合作伙伴不能使用新流程提交请求，则应在支持请求窗体中输入一些数字 (所有1的) 。 
+合作伙伴应该使用上面详述的新流程来提交新请求，并且不再使用支持请求创建来提交新的预扣税请求。 如果合作伙伴对预扣税请求有其他问题， [可以提交支持请求](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed)。 支持请求旨在帮助合作伙伴处理现有请求，因此他们需要具有其请求 **ID** 来提交新票证。 如果合作伙伴无法使用新流程提交请求，则他们应在支持请求 (输入) 一个数字。 
 
    > [!IMPORTANT]
-   > 如果合作伙伴的请求状态为 " **已完成**"，则合作伙伴无需联系支持人员。 此状态显示在提交发票旁边的 **帐单历史记录** 中。 在将请求标记为 "**已完成**" 后，发票旁边的 **最后一个付款** 金额应反映税金预缴金额 withint 十天。
+   > 如果合作伙伴的请求状态为"已完成"，则无需 **联系支持人员**。 此状态显示在提交 **发票旁边的"** 计费历史记录"中。 **发票** 旁边的最后付款金额应反映请求标记为"已完成"后的十天内的预扣 **税金额**。

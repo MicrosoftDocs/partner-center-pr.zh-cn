@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151009"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277617"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作伙伴中心见解-显示 Microsoft 商业合作伙伴的工作方式的仪表板
 
@@ -39,57 +39,57 @@ Insights 仪表板是合作伙伴中心的统一报表仪表板，适用于在 M
 
 **概述**：概述报表显示了你感兴趣的各种 kpi 的快照视图，例如客户计数、活动订阅计数、Azure 消耗收入、活动许可证等。
 
-**客户**：客户报表围绕客户（例如客户获取数据、活跃客户等）提供分析。
+**客户**：客户报表显示客户获取数据、活动客户等客户的分析。
 
-**产品 -** 订阅：订阅报表提供云订阅（例如 O365、Azure、Dynamics 等 (的获取和使用) 
+**产品-订阅**：订阅报表显示云订阅的获取和使用情况分析 (例如 O365、Azure、Dynamics 等 ) 
 
-**产品 - 许可证**：许可证仪表板提供基于许可证的云产品（如 O365、Dynamics、Power BI等）的许可证分析。
+**产品许可证**： "许可证" 仪表板提供基于许可证的云产品的许可证分析，如 O365、Dynamics、Power BI 等。
 
-**产品 - Azure 使用情况**：Azure 使用情况报表显示与客户的 Azure 订阅相关的指标，包括按计量类别分类的 Azure 消耗收入与使用情况。
+**产品-azure 使用情况**： Azure 使用情况报表提供与客户的 azure 订阅相关的指标，包括 azure 消费收入和计量种类的使用情况。
 
-**资格**：资格报表显示有关活动、合格和有风险能力的指标。
+**称职**：胜任度报表提供有关活动、合格和有风险的能力的指标。
 
-**权益**：权益报表提供对已赚取与已使用的合作伙伴权益的分析。
+**优势**：此权益报表提供有关已获得的与使用的合作伙伴权益的分析。
 
-## <a name="navigating-the-insights-reports"></a>导航见解报表
+## <a name="navigating-the-insights-reports"></a>导航见解报告
 
-**日期范围筛选器**：可以在每个页面的右上角找到日期范围选择。 可以通过基于过去 3、6 或 12 个月选择日期范围，或者选择自定义日期范围来自定义概述页图的输出。 默认日期范围选择为 12 个月。 
+**日期范围筛选器**：可在每个页面的右上角找到日期范围选择。 可以通过选择基于过去3、6或12个月的日期范围或通过选择自定义日期范围自定义 "概述" 页图形的输出。 选择的默认日期范围为12个月。 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="简介映射":::
+:::image type="content" source="images/pci/intro1.png" alt-text="简介地图。":::
 
-**反馈按钮**：所有 Insights 报表的每个图表/控件都合并了一个反馈按钮，用于提供有关报表功能的实例反馈。 
+"**反馈" 按钮**：所有 Insights 报表中的每个图表/控件都结合了 "反馈" 按钮，以便您可以为报表功能提供实例反馈。 
 
  
-**页面级别筛选器**：除了"概述"、权益和资格报表外，所有见解报表都允许应用页面级筛选器。 
+**页面级筛选器**：除概述、权益和胜任度报表之外，所有 Insights 报表都使你能够应用页面级别筛选器。 
 
-- 所选的筛选器将适用于页面上的所有图表和指标，包括摘要部分。 如果筛选器条件中有任何数据，则筛选器项将可用。 
+- 所选筛选器将适用于页面上的所有图表和指标，包括摘要部分。 如果筛选器条件中包含任何数据，则筛选器项将可用。 
 
-- 每个筛选器列表的默认选择都是 **。** 例如，如果尚未在产品筛选器中选择特定产品，则默认选择将是所有产品。
+- 每个筛选器列表的默认选择是 " **全部**"。 例如，如果尚未在 "产品" 筛选器中选择特定产品，则默认选择将为 "所有产品"。
 
 - 所选筛选器将显示在页面顶部。 
 
-:::image type="content" source="images/pci/filters.png" alt-text="显示应用的筛选器栏的部分屏幕截图，其中显示了产品、客户市场、合作伙伴属性和销售渠道的筛选器选择。":::
+:::image type="content" source="images/pci/filters.png" alt-text="部分屏幕截图显示应用的筛选器栏，其中包含产品、客户市场、合作伙伴归属和销售渠道的筛选器选择。":::
 
 ### <a name="filters-definitions"></a>筛选器定义：
 
-- 产品：组织销售/管理的所有 Microsoft 云产品的列表，例如 O365、Azure、D365、EMS、Power BI等。
-- 客户市场：客户国家/地区列表
-- 合作伙伴归属：与客户订阅的关联类型，例如记录 (DPOR) 的数字合作伙伴、委派的管理员权限 (DAP) 和合作伙伴管理员链接 (PAL) 。 
+- 产品：组织销售/管理的所有 Microsoft 云产品列表，例如 O365、Azure、D365、EMS、Power BI 等。
+- 客户市场：客户所在国家/地区列表
+- 合作伙伴归属：你的客户订阅的关联类型（例如，记录的数字伙伴 (DPOR) 、委派的管理员权限 (结合) 和合作伙伴管理链接 (PAL) 。 
 - 合作伙伴位置：组织的所有 MPN 位置的列表。
-- 销售渠道：购买/预配产品和服务的所有销售渠道/定价，即 CSP、EA、CSP 间接、直接、顾问、开放式等
-- 客户细分：合作伙伴客户群的客户细分列表。
+- 销售渠道：你通过其购买/预配产品和服务的所有销售渠道/定价，即 CSP、EA、CSP 间接、直接、顾问、开放、其他
+- Customer segment：跨合作伙伴客户群的客户细分列表。
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>了解每个仪表板和报表：
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>阅读有关每个仪表板和报表的信息：
 
-- [合作伙伴中心见解 - 概述仪表板](pci-overview-report.md)
+- [合作伙伴中心见解-概述仪表板](pci-overview-report.md)
 
 - [合作伙伴中心见解 - 客户仪表板](pci-customer-report.md)
 
-- [合作伙伴中心见解 - 订阅报表](pci-product-subscriptions-report.md)
+- [合作伙伴中心见解-订阅报表](pci-product-subscriptions-report.md)
 
-- [合作伙伴中心见解 - 许可证报表](pci-product-licenses-report.md)
+- [合作伙伴中心见解-许可证报表](pci-product-licenses-report.md)
 
-- [合作伙伴中心见解 - Azure 使用情况报告](pci-azure-usage-report.md)
+- [合作伙伴中心见解-Azure 使用情况报表](pci-azure-usage-report.md)
 
 - [合作伙伴中心见解 - 能力报表](pci-competencies-report.md)
 

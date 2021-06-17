@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150448"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125916"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>获得一种高级特殊化来展示您的经验证的功能
 
-**适当的角色**：全局管理员 |帐户管理员
+**相应的角色**：全局管理员 | 帐户管理员
 
 Microsoft 高级专用化基于合作伙伴可以获得的相关 [黄金胜任度](learn-about-competencies.md) 。 获得金牌能力及其相关的高级专用化，使合作伙伴能够进一步区分其功能。
 
@@ -38,7 +38,7 @@ Microsoft 高级专用化基于合作伙伴可以获得的相关 [黄金胜任�
 - Azure
 - 业务应用程序
 - 新式工作
-- 安全
+- 安全性
 
 **Azure** 高级专用化包括：
 
@@ -50,11 +50,15 @@ Microsoft 高级专用化基于合作伙伴可以获得的相关 [黄金胜任�
 - Web 应用程序到 Microsoft Azure 的现代化
 - Microsoft Azure 上的 SAP
 - Windows Server 和 SQL Server 到 Microsoft Azure 的迁移
+- AI 和机器学习 Microsoft Azure
+- 混合云基础结构与 Microsoft Azure Stack HCI
+- Microsoft Azure Arc 的混合操作和管理
+- Microsoft Azure VMware 解决方案
 
 **Business Applications** 高级专用化包括：
 
 - 低代码应用程序开发
-- 小型和中型企业管理
+- 中小型企业管理
 
 **新式工作** 高级专用化包括：
 
@@ -67,16 +71,18 @@ Microsoft 高级专用化基于合作伙伴可以获得的相关 [黄金胜任�
 
 - 标识和访问管理
 - 威胁防护
+- 信息保护和监管
+- 云安全
 
 > [!NOTE]
-> 若要了解每个高级专用化及其先决条件和要求，请访问高级 [专用化页](https://partner.microsoft.com/membership/advanced-specialization)。 准备好申请高级专用化后，请通过登录仪表板 来检查合作伙伴中心 [进度](https://partner.microsoft.com/dashboard)。 若要详细了解如何访问此区域 [合作伙伴中心，请参阅申请高级专用化](advanced-specializations-apply.md)。
+> 若要了解每个高级专用化及其先决条件和要求，请访问 [高级专用化页面](https://partner.microsoft.com/membership/advanced-specialization)。 准备好申请高级专用化时，请通过登录到合作伙伴中心 [仪表板](https://partner.microsoft.com/dashboard)来检查进度。 若要详细了解如何访问合作伙伴中心的此区域，请参阅 [适用于高级专用化](advanced-specializations-apply.md)。
 
 ## <a name="next-steps"></a>后续步骤
 
-- 使用合作伙伴中心 [应用和检查高级专用化的状态](advanced-specializations-apply.md)
+- 使用合作伙伴中心[申请并检查高级专用](advanced-specializations-apply.md)化的状态
 
-- 详细了解 [高级专用化、其优势和独特要求](https://partner.microsoft.com/membership/advanced-specialization)
+- 详细了解 [高级专用化、其优点和独特要求](https://partner.microsoft.com/membership/advanced-specialization)
 
-- 了解如何 [获得 Microsoft 银级或金级会员资格](learn-about-competencies.md)
+- 了解如何获取 [Microsoft 银色或金牌成员资格能力](learn-about-competencies.md)
 
-- 详细了解Microsoft 合作伙伴网络 [能力](https://partner.microsoft.com/membership/competencies)
+- 了解[Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)的详细信息

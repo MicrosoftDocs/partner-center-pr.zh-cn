@@ -1,6 +1,6 @@
 ---
 title: 针对最大预留项使用率调整 Azure VM 的大小
-description: 了解在购买 Microsoft Azure 预订时，如何将虚拟机 (VM) 规模调整为客户的计算需求。
+description: 了解如何在为客户购买 (预留时) VM 大小，Microsoft Azure计算需求。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,35 +9,35 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2d8bc76e0da51abf433e49028445b398c6a1db31
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149445"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276988"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>针对最大预定利用率确定 Microsoft Azure 虚拟机大小
 
-**适当的角色**：管理代理 |销售代理
+**适当的角色**：管理员代理|销售代理
 
-本文介绍如何在购买 Microsoft Azure 预订时，将虚拟机 (VM) 规模调整为客户的计算需求。
+本文介绍如何在为客户购买 (预留时) VM 大小，Microsoft Azure计算需求。
  
 > [!NOTE]
-> 本文仅适用于云解决方案提供商 (CSP) 计划中的合作伙伴。 使用其他订阅类型的客户 (例如，即用即付、个人、Microsoft 客户协议或企业协议订阅) 应改为阅读 [此 Azure 保留文档](/azure/cost-management-billing/reservations)。
+> 本文仅适用于云解决方案提供商计划云解决方案提供商 () 合作伙伴。 使用其他类型的订阅（例如 (即用即付、个人、Microsoft 客户协议 或 企业协议 订阅) 应改为阅读 [此 Azure](/azure/cost-management-billing/reservations)预留文档。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>确定客户的 Azure 预留的 VM 大小
 
-在代表客户购买 Microsoft Azure 预订时，你需要选择 (VM) 大小的虚拟机，以满足客户的计算需求。 你可以使用以下方法之一查找此信息：
+代表Microsoft Azure购买预留时，需要选择虚拟机 (VM) 以满足客户的计算需求。 你可以使用以下方法之一查找此信息：
 
 - Azure 使用率 API
 - Azure 门户
 - Azure PowerShell
 - Azure 资源管理器 (ARM) API
 
-每种方法的使用说明如下。 购买预订后，预订折扣会自动应用于与预订的属性和数量相匹配的虚拟机。 不需要将保留分配给 VM。
+每种方法的使用说明如下。 购买预订后，预订折扣会自动应用于与预订的属性和数量相匹配的虚拟机。 无需将预留分配给 VM。
 
 >[!NOTE]
->预订折扣不适用于经典或促销 Vm。
+>预留折扣不适用于经典或促销 VM。
 
 >[!IMPORTANT]
 >若要正确识别要代表客户购买的虚拟机的类型和大小，你必须使用下述方法之一，因为合作伙伴中心对帐文件中未正确显示虚拟机系列类型。
@@ -46,25 +46,25 @@ ms.locfileid: "110149445"
 
 1. 使用 API 响应中 additionalInfo 的 ServiceType 属性值来标识要购买的虚拟机大小。
 
-2. 有关详细信息，请参阅在[合作伙伴中心 API](/partner-center/develop/)中[获取客户的 Azure 利用率记录](/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
+2. 有关详细信息，请参阅在 Azure API 中获取 [客户的 Azure](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) [合作伙伴中心记录](/partner-center/develop/)。
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>使用 Microsoft Azure 门户获取虚拟机大小信息
 
-1. 在合作伙伴中心，请参阅 " **客户** " 页。
+1. 在合作伙伴中心中，转到"客户 **"** 页。
 
-2. 找到想要购买 Azure VM 预留的客户，然后选择向下箭头以展开客户的信息。 选择 " **Microsoft Azure 管理门户** " 以打开 Azure 门户中的客户记录。
+2. 找到想要购买 Azure VM 预留的客户，然后选择向下箭头以展开客户的信息。 选择 **Microsoft Azure 管理门户"，** 打开客户在 Azure 门户 中的记录。
 
 3. 从门户菜单中选择 **虚拟机**，然后选择你想要为其购买预订的虚拟机。
 
-4. 在 VM 的详细信息页上，查找大小和区域信息（如下所示），并使用此信息在合作伙伴中心购买预订。  
+4. 在 VM 的详细信息页上，找到大小和区域信息（如下所示）并使用此信息在虚拟机中合作伙伴中心。  
 
-   :::image type="content" source="images/usage1.png" alt-text="详细信息页上的大小和区域信息":::
+   :::image type="content" source="images/usage1.png" alt-text="详细信息页上的大小和区域信息。":::
 
 ### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>使用 Microsoft Azure PowerShell 获取虚拟机大小信息
 
 使用下图中的信息，以获取你想要为其购买预订的虚拟机的位置和大小。 
 
-:::image type="content" source="images/usage2.png" alt-text="VM 位置和大小":::
+:::image type="content" source="images/usage2.png" alt-text="VM 位置和大小。":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>使用 Azure 资源管理器 (ARM) API 获取虚拟机大小信息
 
@@ -74,12 +74,12 @@ ms.locfileid: "110149445"
 
 3. 此调用将返回 **vmSize** 和 **location** 的值，如下所示。
 
-    :::image type="content" source="images/usage3.png" alt-text="vmSize 值":::
-    :::image type="content" source="images/usage4.png" alt-text="位置值":::
+    :::image type="content" source="images/usage3.png" alt-text="vmSize 值。":::
+    :::image type="content" source="images/usage4.png" alt-text="location 值。":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>验证 Azure 虚拟机使用情况和预订折扣
 
-代表客户购买 Azure 保留 VM 实例后，预先为 VM 空间付费的折扣将自动应用于与客户预订的属性和数量匹配的虚拟机。
+代表客户购买 Azure 虚拟机预留实例后，提前支付 VM 空间的折扣将自动应用于与客户预留的属性和数量匹配的虚拟机。
 
 可以使用以下方法之一验证客户的预留使用情况，并查看预留折扣应用到的虚拟机：
 
@@ -115,7 +115,7 @@ ms.locfileid: "110149445"
 
 你可以使用 Azure 利用率 API 获取预定利用率数据，以验证客户是否获得了预订折扣并查看折扣应用于的 VM（虚拟机）。 将示例 A 与示例 B 进行比较，了解如何验证客户的预留使用情况。
 
-:::image type="content" source="images/usage5.png" alt-text="预留使用情况示例":::
+:::image type="content" source="images/usage5.png" alt-text="预留使用情况示例。":::
 
 - reservationId 标识用于将折扣应用于虚拟机的 Azure 预定。
 - consumptionMeter 是应用了预订折扣的虚拟机的 MeterId。
