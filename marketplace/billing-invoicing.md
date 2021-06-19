@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0d03554f96acf6cd2953d3b968192ffbb23185ce
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412601"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373450"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace 计费和开票
 
@@ -47,6 +47,9 @@ Azure Marketplace 产品/服务的定价和计费价格如下：
 
 >[!NOTE]
 > 服务期间是你支付使用该服务的期限。 它将在和服务期间自动续订，除非你事先取消。
+
+> [!NOTE]
+> 如果续订月份日期不能等于 "采购月份日期"，我们将调整到计费月的最后一天。 也就是说，如果订阅是在1/31 上订阅的，则二月份的计费结束日期为2/27，新计费项从 2/28 (2/28 开始，2/29 而从闰年开始) 。
 
 ## <a name="invoices"></a>发票
 

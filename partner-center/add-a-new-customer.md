@@ -1,55 +1,55 @@
 ---
 title: 如何添加新的客户记录
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在 合作伙伴中心 中添加新的客户记录。 然后，可以销售客户订阅、管理计费或提供客户支持。
+description: 了解如何在合作伙伴中心添加新的客户记录。 然后，你可以销售客户订阅、管理计费或提供客户支持。
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 234e183ae814dc30f8d7d00c5dddb1ffea612825
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150550"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373352"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作伙伴中心添加新客户记录
 
-**适当的角色**：全局管理员|用户管理管理员|管理代理|销售代理
+**适当的角色**：全局管理员 |用户管理管理员 |管理代理 |销售代理
 
-本文介绍如何将新客户添加到客户列表中的客户合作伙伴中心。 在可以销售订阅、管理计费或为客户提供支持之前，需要执行这些步骤。
+本文介绍如何将新客户添加到合作伙伴中心的客户列表。 在销售订阅、管理计费或向客户提供支持之前，需要执行这些步骤。
 
 >[!NOTE]
->对于现有客户（包括已在 合作伙伴中心通过多通道或[多](multipartner.md)合作伙伴方案创建客户记录[](multichannel.md)的客户）需要请求与它们的关系，而不是按照此处的步骤[](request-a-relationship-with-a-customer.md)操作。
+>对于现有客户（包括那些已在合作伙伴中心通过 [多通道](multichannel.md) 或 [Multipartner](multipartner.md) 方案进行了客户记录的客户），需要 [与他们建立关系](request-a-relationship-with-a-customer.md)，而不是按照此处的步骤进行操作。
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>在合作伙伴中心添加新客户
 
-1. 从 **"客户**"菜单中合作伙伴中心"客户"，然后选择"**添加客户"。**
+1. 从 "合作伙伴中心" 菜单中选择 " **客户** "，然后选择 " **添加客户**"。
 
-2. 在 **"帐户信息** "页上，输入客户的详细信息和主要联系信息。 同时验证客户是否接受并签署最新的[Microsoft 客户协议。](agreements.md)
+2. 在 " **帐户信息** " 页上，输入客户的详细信息和主要联系信息。 验证客户是否已接受并签署最新的 [Microsoft 客户协议](agreements.md)。
 
    >[!NOTE]
    >
-   >为了确保在客户验证准确性，请确保：
+   >若要确保客户验证时的准确性，请确保：
    >
-   >- 使用官方文档中显示的确切法律/官方名称
-   >- 避免使用首字母缩略词或短格式
-   >- 请勿使用测试名称
-   >- 提供完整、准确的 (位置详细信息、城市、州、国家/地区以及邮政编码) 
+   >- 使用官方文档中显示的确切合法/正式名称
+   >- 避免使用首字母缩写词或短格式
+   >- 不要使用测试名称
+   >- 提供完整的准确地址 (位置详细信息、城市、省/市/自治区、国家/地区和邮政编码) 
 
    >[!IMPORTANT]
-   > 2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 阅读有关 [Microsoft 客户协议以及如何确认同意](confirm-customer-agreement.md)
+   > 2019 年 10 月 1 日，Microsoft 推出了针对云解决方案提供商计划的 **Microsoft 客户协议**，替代 Microsoft 云协议。 阅读有关[Microsoft 客户协议和如何确认同意](confirm-customer-agreement.md)的信息
   
-3. 如果你是间接提供商，请从列表中选择要与此客户的订阅关联的间接经销商。
+3. 如果你是间接提供商，请从列表中选择你想要与此客户的订阅相关联的间接经销商。
 
-4. 输入 **完所有** 必需信息后，选择"下一步：订阅"。
+4. 选择 " **下一步"：** 完成所有必需信息的输入后的订阅。
 
-5. 在 **"订阅"** 页上，选择 (客户) 的套餐，输入许可证数量，然后选择"下一步 **： 查看"。**
+5. 在 " **订阅** " 页上，选择 "产品/服务" (s) 你的客户想要从你购买，输入许可证数量，然后选择 " **下一步：查看**"。
 
-6. 在" **审阅** "页上，检查条目的准确性，然后选择" **提交"（** 如果信息正确）。
+6. 在 " **检查** " 页上，检查你的输入是否正确，然后如果信息正确，请选择 " **提交** "。
 
    >[!NOTE]
    >如果需要更改任何客户详细信息，请在 "**帐户信息**" 部分中选择 "**更新**"。 如果需要更改所选的产品/服务，请在 "**订阅**" 部分中选择 "**更新**"。
