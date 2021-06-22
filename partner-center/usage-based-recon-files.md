@@ -2,38 +2,38 @@
 title: 基于使用情况的对帐文件
 ms.topic: article
 ms.date: 06/08/2020
-description: 了解 合作伙伴中心 中基于使用情况的对帐文件上的所有合作伙伴中心。 包括几个示例。
+description: 了解合作伙伴中心的基于使用情况的对帐文件上的所有项目。 包含几个示例。
 author: sodeb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc31915660b6a82954daee5fcc8fb2d5292e725c
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 6c486d4866b0a2a912801d2648a1822418687078
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795000"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431699"
 ---
-# <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>了解基于使用情况的对帐文件及其在 合作伙伴中心
+# <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>了解基于使用情况的对帐文件及其在合作伙伴中心的特定字段
 
-**适当角色**：帐户管理员|计费管理员
+**适当的角色**：帐户管理员 |计费管理员
 
-若要根据客户的使用情况核对费用，请将对帐文件中的 **ResellerID、ResellerName** 和 **ResellerBillableAccount** 与"客户名称"和"订阅 **ID"** 进行比较合作伙伴中心。 
+若要根据客户的使用量来协调您的费用，请将对帐文件中的 **ResellerID**、 **ResellerName** 和 **ResellerBillableAccount** 与合作伙伴中心的 **客户名称** 和 **订阅 ID** 进行比较。
 
-## <a name="fields-in-usage-based-reconciliation-files"></a>基于使用情况的对帐文件中字段
+## <a name="fields-in-usage-based-reconciliation-files"></a>基于使用情况的对帐文件中的字段
 
 以下字段说明已使用的服务和费率。
 
-| 列 | 说明 | 示例 (值)  |
+| 列 | 说明 | 示例值 (s)  |
 | ------ | ----------- | ------------ |
-| PartnerId | 合作伙伴标识符，采用 GUID 格式。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| PartnerName | 合作伙伴名称。 | *Contoso， Ltd.* |
+| PartnerId | 采用 GUID 格式的合作伙伴标识符。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
+| PartnerName | 合作伙伴名称。 | *Contoso，有限公司。* |
 | PartnerBillableAccountId | 合作伙伴帐户标识符。 | *1010578050* |
-| CustomerCompanyName | 客户的组织名称，如合作伙伴中心。 *对于将发票与系统信息进行协调非常重要。* | *测试客户* |
-| MpnId | CSP 合作伙伴的 MPN 标识符。 | *4390934* |
-| ResellerMpnId | 订阅的记录经销商的 MPN 标识符。  |
+| CustomerCompanyName | 客户的组织名称，如合作伙伴中心中所报告。 *这对于发票与系统信息的对帐很重要。* | *测试客户* |
+| MpnId | Microsoft 合作伙伴网络 (MPN) 云解决方案提供商的标识符 (CSP) 合作伙伴。 | *4390934* |
+| ResellerMpnId | 订阅的记录分销商的 MPN 标识符。  |
 | InvoiceNumber | 指定交易显示时对应的发票号。 | *D020001IVK* |
 | ChargeStartDate | 计费周期的开始日期，之前未付款的潜在使用数据（来自上一个计费周期）的显示日期除外。 该时间始终为一天的起点时间，即 0:00。 | *2/1/2019 0:00* |
 | ChargeEndDate | 计费周期的结束日期，之前未付款的潜在使用数据（来自上一个计费周期）的显示日期除外。 时间始终是一天的结束，即 23:59。 | *2/28/2019 23:59* |
@@ -50,19 +50,19 @@ ms.locfileid: "109795000"
 | DetailLineItemId | 为给定计费期间的服务或资源提供不同费率的标识符和数量。 对于 Azure 分层定价，可能会有一种费率达到特定数量的计费单位，然后以该数量为一个不同的费率。 | *1* |
 | ConsumedQuantity | 报表期间使用 (例如小时或 GB) 的服务数量。 也包括以前的报告周期中未计费的使用量。 | *11* |
 | IncludedQuantity | 包括在套餐中的单元数。 在 CSP 中通常不存在。 | *0* |
-| OverageQuantity | 产品/服务中未包含的单元。 合作伙伴必须支付这些费用。 等于 **ConsumedQuantity** 减去 **IncludedQuantity**。 | *11* |
-| ListPrice | 套餐价格在订阅的开始日期生效。 | *$0.0808* |
-| PretaxCharges | 等于 **ListPrist** 乘以 **OverageQuantity，** 舍入到最接近的分。 | *$0.085* |
-| TaxAmount | 收取的税额。 根据市场的税务规则和特定情况。 | *$0.08* |
+| OverageQuantity | 产品/服务中未包含的单元。 合作伙伴必须支付这些费用。 等于 **ConsumedQuantity** 减 **IncludedQuantity**。 | *11* |
+| ListPrice | 在订阅的开始日期提供有效价格。 | *$0.0808* |
+| PretaxCharges | 等于 **ListPrist** 乘以 **OverageQuantity**，舍入为最接近的美分。 | *$0.085* |
+| TaxAmount | 收取的税额。 基于市场的税务规则和特定情况。 | *$0.08* |
 | PostTaxTotal | 税后总计（如果需纳税）。 | *$0.93* |
-| 货币 | 货币类型。 每个计费实体只有一种货币。 检查它是否与第一张发票匹配，然后在任何主要计费平台更新后匹配。 | *EUR* |
-| PretaxEffectiveRate | 税前单价。 等于 **PretaxCharges** 除以 **OverageQuantity，** 舍入到最接近的分。 | *$0.08* |
-| PostTaxEffectiveRate | 税后单价。 等于 **PostTaxTotal** 除以 **OverageQuantity**，舍入到最接近的分。 或者，等于 **PretaxEffectiveRate** 加上每单位金额的税款，舍入到最接近的百分比。 | *$0.08* |
-| ChargeType | [费用或调整](recon-file-charge-types.md)的类型。 | 请参阅 [费用类型](recon-file-charge-types.md)。 |
+| 货币 | 货币类型。 每个计费实体只有一种货币。 请检查它是否与第一个发票匹配，然后再更新任何主要的计费平台。 | *EUR* |
+| PretaxEffectiveRate | 税前单价。 等于 **PretaxCharges** 除以 **OverageQuantity**，舍入为最接近的美分。 | *$0.08* |
+| PostTaxEffectiveRate | 税后单价。 等于 **PostTaxTotal** 除以 **OverageQuantity**，舍入为最接近的美分。 或者，等于 **PretaxEffectiveRate** 加上每单位金额的税率，舍入为最接近的美分。 | *$0.08* |
+| ChargeType | 费用或调整的 [类型](recon-file-charge-types.md) 。 | 请参阅 [费用类型](recon-file-charge-types.md)。 |
 | CustomerId | 客户的唯一 Microsoft 标识符，采用 GUID 格式。 | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | DomainName | 客户的域名。 该字段在第二个计费周期之前可能会显示为空白。 | *example.onmicrosoft.com* |
 | BillingCycleType | 时间计费频率。| **每月**  |
-| 计价单位 | 资源名称 **的单位。** | *GB* 或 *小时* |
+| 计价单位 | 资源 **名称** 的单位。 | *GB* 或 *小时* |
 | CustomerBillableAccount | Microsoft 计费平台中唯一的帐户标识符。 | *1280018095* |
 | UsageDate | 服务部署的日期。 | *2/1/2019 0:00* |
 | MeteredRegion | 标识区域中数据中心的位置 (适用于此值适用并) 填充的服务。 | *东亚*、 *南东亚*、 *北欧*、 *西欧*、 *美国中北部*、 *美国中南部* |

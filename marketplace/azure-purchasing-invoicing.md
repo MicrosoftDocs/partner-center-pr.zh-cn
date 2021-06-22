@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 01/18/2021
-ms.openlocfilehash: f747c11ef4bfc9abe1035ffb3f059da59b6572ac
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276495"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431550"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 购买
 
@@ -30,6 +30,9 @@ Azure 市场提供不同的购买选项，有助于你简化采购流程。 如�
 在完成购买之前，请确保用户在 Azure 租户中配置正确。 这将有助于防止在购买过程中出现错误。
 
 在 Azure 门户的 Azure Marketplace 体验中，找到要购买的应用程序，然后选择 " **创建** " 或 " **设置 + 订阅**"。 系统将提示你完成一些信息，然后才能使用新解决方案。
+
+> [!CAUTION]
+> 批准到专用 Marketplace 并不表示解决方案采购。
 
 :::image type="content" source="media/overview/offer-create-screen.png" alt-text="&quot;产品/服务&quot; 按钮。":::
 

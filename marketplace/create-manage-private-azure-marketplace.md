@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712760"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431667"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>在 Azure 门户中创建和管理专用 Azure Marketplace
 
@@ -30,7 +30,7 @@ ms.locfileid: "104712760"
 >[!IMPORTANT]
 > 只有分配有 Marketplace 管理员角色的 IT 管理员才能访问专用 Azure Marketplace 管理。
 
-### <a name="prerequisites"></a>必备条件
+### <a name="prerequisites"></a>先决条件
 
 在将 Marketplace 管理员角色分配给租户范围内的用户之前，需要满足以下先决条件：
 
@@ -40,7 +40,7 @@ ms.locfileid: "104712760"
 
 ### <a name="assign-the-marketplace-admin-role-with-access-control-iam"></a>使用访问控制 (IAM 分配 Marketplace 管理员角色) 
 
-1. 登录 [Azure 门户](https://portal.azure.com/)。
+1. 登录到 [Azure 门户](https://portal.azure.com/)。
 1. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 1. 从左侧菜单中选择 " **专用 Marketplace** "。
 
@@ -153,7 +153,7 @@ Assign-MarketplaceAdminRole
 
 ## <a name="create-private-azure-marketplace"></a>创建专用 Azure Marketplace
 
-1. 登录 [Azure 门户](https://portal.azure.com/)。
+1. 登录到 [Azure 门户](https://portal.azure.com/)。
 2. 选择 " **所有服务** "，然后选择 " **Marketplace**"。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="显示 Azure 门户主窗口。":::
@@ -292,6 +292,9 @@ Assign-MarketplaceAdminRole
 > [!NOTE]
 > 提交后，将向市场管理员发送批准请求窗体 [，以查看](#private-azure-marketplace-notification-center) 请求并采取措施。
 
+> [!CAUTION]
+> 批准到专用 Marketplace 并不表示解决方案采购。
+
 ## <a name="frequently-asked-questions-faqs"></a>常见问题解答 (FAQ)
 
 #### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>我已通过 Azure 策略阻止 Marketplace 第三方应用程序。 这有何不同？
@@ -326,7 +329,7 @@ Azure 门户中的 **私有 Azure Marketplace** 使管理员能够预先批准�
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>能否在专用 Azure Marketplace 中包含自定义映像？
 
-不是。 通过专用 Azure Marketplace，任何 IT 管理员都可从全球 Azure Marketplace 管理和组织第三方解决方案。 由于自定义映像不在全球 Azure Marketplace 上，因此 IT 管理员无法选择自定义映像。 如果要共享自定义映像，请使用 [共享映像库](/azure/virtual-machines/shared-image-galleries)。
+否。 通过专用 Azure Marketplace，任何 IT 管理员都可从全球 Azure Marketplace 管理和组织第三方解决方案。 由于自定义映像不在全球 Azure Marketplace 上，因此 IT 管理员无法选择自定义映像。 如果要共享自定义映像，请使用 [共享映像库](/azure/virtual-machines/shared-image-galleries)。
 
 1.  ([CLI](/azure/virtual-machines/shared-images-cli)、 [POWERSHELL](/azure/virtual-machines/shared-images-powershell))  (SIG) 创建共享图像库的分步指南。
 2. 在 SIG 中创建映像定义。 客户应为 "OS-状态" 字段选择 " **通用化** "。  ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition)、 [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)) 。
