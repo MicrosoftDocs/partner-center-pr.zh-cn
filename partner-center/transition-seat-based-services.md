@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855975"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489894"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>将基于许可证的客户从其他渠道&合作伙伴转移到云解决方案提供商计划
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>将基于许可证的客户从其他渠道&合作伙伴移动到 云解决方案提供商 (CSP) 计划
 
 **适当角色**：帐户管理员|销售代理|计费代理
 
 如果你的客户希望聘请多个合作伙伴、将订阅转给其他合作伙伴或管理在其他地方购买的订阅，你可以手动移动它们。 还可以将客户从另一合作伙伴中心移动到其他渠道。
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>将客户的基于许可证的订阅移到 云解决方案提供商 计划 (CSP) 
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>将客户的基于许可证的订阅移动到 CSP 计划
 
 1. 从 **"客户**"菜单中合作伙伴中心"客户"，然后选择"**请求经销商关系"。** 若要为多渠道帐户提供支持，你应该执行相同的操作。
 
@@ -42,11 +42,11 @@ ms.locfileid: "109855975"
 如果转移的客户的套餐已停止使用，则需要找到一个等同的套餐，防止数据丢失。 如果将客户转移到其他套餐，则需要更新他们的许可证分配。
 
 >[!NOTE]
-> 你（CSP）合作伙伴必须与客户租户位于同一区域，才能将该客户转换为你。
+> CSP 合作伙伴必须与客户租户在同一区域，以将客户转换为你。
 
 ## <a name="next-steps"></a>后续步骤
 
 - [开始将即用即付费率与 Azure 计划配合使用](azure-plan-get-started.md)
  
 
-- [在合作伙伴中心使用其他合作伙伴的不同方法](work-with-other-partners.md)
+- [可以与其他合作伙伴合作的不同方式合作伙伴中心](work-with-other-partners.md)

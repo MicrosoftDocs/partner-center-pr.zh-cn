@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450741"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489877"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>为你的客户提供不同类型的支持
 
@@ -36,7 +36,7 @@ CSP 客户无法自行创建支持票证。 他们需要与你联系以获得支
 
   - [顶级支持合作伙伴 (PSfP) ](https://partner.microsoft.com/support/microsoft-services-premier-support) (费用基准，适用于所有产品) 
 
-  - [针对合作伙伴的高级支持 (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (费用基准，仅用于云产品) 
+  - [针对合作伙伴的高级支持 (ASfP) ](https://partner.microsoft.com/support/advanced-cloud-support) (费用基准，仅用于云产品) 
 
   - [签名云支持](manage-your-partner-network-benefits.md) (包含在金牌或银能力的 MPN 权益中，仅适用于云产品。 请参阅 [技术权益](mpn-benefits-technical-support.md)) 
 

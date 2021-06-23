@@ -9,16 +9,16 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: a8c465b38d8613a107d1900f220c4885fc9655e1
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266480"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112490081"
 ---
 # <a name="training-vouchers-program-retirement"></a>培训凭证计划停用
 
-训练凭证完全从软件保障权益中停用，但当这些凭证有效时，客户可以继续使用凭证日期来获取讲师指导的培训。 这是导致计划停用的重要日期： 
+软件保障培训 (SATVs 的) 完全从软件保障权益中停用，但当这些凭证有效时，客户可以继续使用凭证日期进行讲师指导的培训。 这是导致计划停用的重要日期： 
 
 - 2020年2月1日：从定型凭证目录中停用了 Azure 培训。
 - 2020年2月1日：无法再将定型凭证转换为规划服务天数。  
@@ -27,7 +27,7 @@ ms.locfileid: "107266480"
 - 2022年1月1日：合作伙伴兑换培训凭证。 合作伙伴将在兑换之后60天，以完成支付请求过程。  
 
 >[!NOTE]
->不会更改凭证生命周期。 创建/分配凭证后，必须在180天内完成凭证预留、培训会话和凭证兑换，然后才会到期。  有关定型凭证停用的详细信息，请参阅 [此处](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 的常见问题解答，了解 (登录所需的详细信息) 。  请参阅培训权益产品目录中的 SATV 资格培训课程的完整列表。  请将任何问题指引给你的区域合作伙伴支持团队： [EMEA 合作伙伴支持](mailto:savoucher@msdirectservices.com); [一般合作伙伴支持](https://partner.microsoft.com/dashboard/support/servicerequests)。
+>不会更改凭证生命周期。 创建/分配凭证后，必须在180天内完成凭证预留、培训会话和凭证兑换，然后才会到期。  有关定型凭证停用的详细信息，请参阅 [此处](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) 的常见问题解答 (登录所需) 。  请参阅培训权益产品目录中的 SATV 资格培训课程的完整列表。 请将任何问题指引给你的区域合作伙伴支持团队： [EMEA 合作伙伴支持](mailto:savoucher@msdirectservices.com); [一般合作伙伴支持](https://partner.microsoft.com/dashboard/support/servicerequests)。
 
 
 
@@ -48,13 +48,13 @@ ms.locfileid: "107266480"
 
 ## <a name="confirm-program-eligibility"></a>确认计划资格
 
-在注册 SATV 计划之前，必须先完成“Microsoft 合作伙伴网络 Learning”选项的要求，此选项取代了 Microsoft Learning 资质。 了解如何开始 [学习选择。](https://partner.microsoft.com/membership/learning-partners)
+在注册 SATV 计划之前，必须先完成 Microsoft 合作伙伴网络 (MPN) 学习 "选项的要求，这会替换 Microsoft 学习资格。 了解如何开始 [学习选择。](https://partner.microsoft.com/membership/learning-partners)
 
 你可以在合作伙伴中心验证你的公司是否享有适用的资格和评估要求。 有关更多详细信息和屏幕截图，请按照 SATV 工作流[步骤 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明操作。
 
 ## <a name="enroll-in-the-training-program"></a>注册培训计划
 
-公司满足资格要求后，便可以签署软件保障培训凭证计划协议并进行注册。 确保查看所有 [SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流 [步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明完成合作伙伴中心的 SATV 注册过程。
+公司满足资格要求后，便可以签署 SATV 计划协议并进行注册。 确保查看所有 [SATV 程序策略](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然后按照工作流 [步骤 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的说明完成合作伙伴中心的 SATV 注册过程。
 
 
 ## <a name="confirm-course-eligibility"></a>确认课程资格
@@ -70,7 +70,7 @@ ms.locfileid: "107266480"
 
 ## <a name="deliver-training-and-activate-product"></a>提供培训并激活产品
 
-保留凭证以后，即可向客户提供培训。 请参阅 MOOC 课程 (LaaS) 的培训订婚指导原则和说明，了解如何激活和购买 Microsoft 官方课件 () MOC 的工作流的 [步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+保留凭证以后，即可向客户提供培训。 请参阅培训订婚指导原则的工作流 [步骤 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) ，了解如何激活和购买 Microsoft 官方课件 (MOC) 、考试和 Microsoft 课程证书凭证 (LaaS) 对于大规模开放在线课程 (MOOC) 课程。
 
 ## <a name="redeem-voucher"></a>兑换凭证
 
