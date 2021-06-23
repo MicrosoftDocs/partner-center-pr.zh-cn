@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5ea1fcd80f6ada97e5c0b840f11e0eb7668ee265
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854989"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551225"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技术支持以帮助客户配置、管理和使用其订阅
 
 
 **适当的角色**：全局管理员 |用户管理管理员 |支持人员代理 |管理代理
 
-作为云解决方案提供商合作伙伴，你已委派了管理员权限，使你能够访问客户的环境。 这些特权使你能够直接支持、配置和管理客户的订阅。
+作为云解决方案提供商 (CSP) 合作伙伴，你已委派了管理员权限，使你能够访问客户的环境。 这些特权使你能够直接支持、配置和管理客户的订阅。
 
 在合作伙伴中心中，你可以：
 

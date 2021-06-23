@@ -1,5 +1,5 @@
 ---
-title: 迁移一些 Skype for Business 订阅
+title: 迁移 Skype for Business 订阅
 description: 了解如何以及何时将已过期 Skype for business Online 计划1订阅的特定客户迁移到新的 Office 365 版本。
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 0e8289ad06dbc8a95f5cff22ca386176d6ba65ab
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: a8de5b824a24b07607b5365848ec1027ca0d08e8
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854819"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551531"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>将 Skype for Business Online Plan 1 订阅迁移到更新的 Office 365 版本
 
@@ -27,7 +27,7 @@ Skype for Business Online 计划1将停用，在2018年8月1日生效。 该日�
 >[!NOTE]
 >Skype for Business Online Plan 1 商业和政府 SKU 均已停用。
 
-如果你使用 API（CREST 或合作伙伴中心），请通过评估订阅的结束日期以及“自动更新 = False”属性来查找快到期的订阅。 Skype for Business Online Plan 1 订阅将在 2018 年 9 月 1 设置为自动续订=False。 你可以随时将客户移到新计划中。 
+如果使用 API (Commerce REST (CREST) 或合作伙伴中心) ，则通过评估订阅的结束日期以及自动续订 = False 属性，查找过期订阅。 Skype for Business Online Plan 1 订阅将在 2018 年 9 月 1 设置为自动续订=False。 你可以随时将客户移到新计划中。 
 
 ## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype for Business Online Plan 1 替换计划
 

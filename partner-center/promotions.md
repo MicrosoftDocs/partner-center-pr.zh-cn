@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 431ac8a4dd96dc7ed768efabd62dbd4a4c2a6d90
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5cb494f3e32201c20184d8de551e15cc8fc28d9b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854972"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551295"
 ---
 # <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>使用促销吸引新客户，将节省的成本传递给他们
 
@@ -35,7 +35,7 @@ Microsoft 提供两种类型的促销：适用于云解决方案提供商计划�
 
 - 如果订阅符合多个促销条件，将自动采用折扣率最高的促销。
 
-- 取消促销定价的订阅将遵循与正常定价的订阅相同的流程和政策。
+- 取消促销定价订阅遵循与定期定价订阅相同的过程和策略。
 
 ## <a name="see-available-promotions"></a>请参阅可用促销
 

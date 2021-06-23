@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 7a4ee8fcb0fe216961dc2e599dc36f2957612b03
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855244"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551565"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看 Planning Services 活动的资格要求
 
@@ -27,7 +27,7 @@ ms.locfileid: "109855244"
 
 ## <a name="learn-more-about-each-engagement"></a>详细了解每个活动
 
-每个计划服务参与活动都有其自己的特定资格要求和其自己的允许的最大持续时间。
+每个 Planning Services 参与活动都有其自己的特定资格要求，以及其自己的允许的最大持续时间。
 
 若要详细了解这些特定于参与度的能力要求，请参阅下表。
 
@@ -35,13 +35,13 @@ ms.locfileid: "109855244"
 |:--- |:--- |:--- |
 | Windows 和 Office 部署规划  | 银级或金级 Windows 和设备  |  [桌面部署规划服务 (DDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116072)
 | 移动生产力部署规划  | 银级或金级企业移动性管理或 Windows 和设备  | [桌面部署规划服务 (DDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| 新式 IT 企业安全性概念证明 |  银或金牌企业移动性管理  | [桌面部署规划服务 (DDPS) 服务](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| 升级 Microsoft Dynamics 365 以供客户参与  | 银或金牌云 Business Applications 或云客户关系管理  | [Dynamics 部署规划服务 (DYDPS) engagement](https://go.microsoft.com/fwlink/?linkid=2116073)
-| 迁移到 Microsoft Dynamics 365 以供客户参与  | 银或金牌云 Business Applications 或云客户关系管理  | [Dynamics 部署规划服务 (DYDPS) engagement](https://go.microsoft.com/fwlink/?linkid=2116073)
-| 升级适用于财务和运营的 Microsoft Dynamics 365  | 黄金企业资源规划 (ERP)   | [Dynamics 部署规划服务 (DYDPS) engagement](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| 现代化 Windows Server 平台 | 银或金牌数据中心 | [私有云、管理和虚拟化规划服务 (PVDPS) 服务](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| SharePoint 部署规划  | 银或金牌协作和内容  | [SharePoint 部署规划服务 (SDPS) 服务](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| 项目和项目组合管理 (PPM) 解决方案规划  | 银或金牌项目和项目组合管理 (PPM)   | [SharePoint 部署规划服务 (SDPS) 服务](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| 新式 IT 企业安全性概念证明 |  银级或金级企业移动性管理  | [桌面部署规划服务 (DDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| 升级 Microsoft Dynamics 365 for Customer Engagement  | 银级或金级Business Applications或云客户关系管理  | [Dynamics Deployment Planning Services (DYDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116073)
+| 迁移到 Microsoft Dynamics 365 for Customer Engagement  | 银级或金级Business Applications或云客户关系管理  | [Dynamics Deployment Planning Services (DYDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116073)
+| 升级 Microsoft Dynamics 365 for Finance and Operations  | Gold Enterprise Resource Planning (ERP)   | [Dynamics Deployment Planning Services (DYDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| 现代化 Windows Server 平台 | 银级或金级数据中心 | [使用 PVDPS 参与的私有云、 (和虚拟化) 服务](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| SharePoint 部署规划  | 银级或金级协作和内容  | [SharePoint 部署规划服务 (SDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| PPM 解决方案规划 (项目) 项目组合管理  | SILVER 或 Gold Project and Portfolio Management (PPM)   | [SharePoint 部署规划服务 (SDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Exchange 部署规划  | 银级或金级消息传送  | [Skype for Business 和 Exchange 部署规划服务 (S-EDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 Skype for Business 部署规划  | 银级或金级通信  | [Skype for Business 和 Exchange 部署规划服务 (S-EDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | 数据资产现代化  | 黄金数据分析或数据平台  | [SQL Server部署规划服务 (SSDPS) 活动](https://go.microsoft.com/fwlink/?linkid=2116076)  |

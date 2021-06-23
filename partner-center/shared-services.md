@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: ffec50d53b50bdb6aa2690f1dfcc1bc7312cc3cb
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 40ba485cecce394dc81632d01f8774859690c522
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277294"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551599"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>添加Azure 合作伙伴共享服务，以便合作伙伴可以购买 Azure 订阅供自己使用
 
 **适当的角色**：全局管理员|管理代理|销售代理
 
-Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙伴的新服务类型，可以让合作伙伴购买供自己使用的 Azure 订阅。  该服务除了可以合并 Azure 许可和 Microsoft 经销协议之外，还可以为合作伙伴使用统一的方法购买、跟踪和管理 Azure 创造机会。 借助 Azure 合作伙伴共享服务，合作伙伴现在可以像在 Microsoft 企业协议 和 Web Direct 程序中一样灵活地在 CSP 中使用 Azure 订阅，打开以下方案：构建开发和测试环境、部署内部工作负载，以及托管共享服务或多租户应用程序。  
+Azure 合作伙伴共享服务 (APSS) 是 云解决方案提供商 (CSP) 计划中的合作伙伴的新产品/服务类型，使合作伙伴能够购买 Azure 订阅供自己使用。  该服务除了可以合并 Azure 许可和 Microsoft 经销协议之外，还可以为合作伙伴使用统一的方法购买、跟踪和管理 Azure 创造机会。 借助 APSS，合作伙伴现在可以像在 Microsoft 企业协议 和 Web Direct 程序中一样灵活地在 CSP 中使用 Azure 订阅，打开以下方案：构建开发和测试环境、部署内部工作负载，以及托管共享服务或多租户应用程序。  
 
 ## <a name="create-the-shared-services-tenant"></a>创建共享服务租户
 
@@ -28,7 +28,7 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
    :::image type="content" source="images/sharedservices2.png" alt-text="共享服务>帐户设置":::
 
-2. 如果你还没有共享服务租户，请单击 **创建共享服务**。
+2. 如果还没有共享服务租户，请选择"**创建共享服务"。**
 
    :::image type="content" source="images/sharedservices3.png" alt-text="创建共享服务。":::
 
@@ -54,11 +54,11 @@ Azure 合作伙伴共享服务是面向云解决方案提供商计划合作伙�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure 合作伙伴共享服务定价
 
-若要查看新定价文件Azure 合作伙伴共享服务，请转到"销售定价和产品/服务"，然后选择当月  >  价目表。 在接下来的几周内，还将发布特定费率卡 API。
+若要查看 APSS 的新定价文件，请转到"**销售** 定价和产品/服务"并选择当前  >  月份价目表。 在接下来的几周内，还将发布特定费率卡 API。
 
 ## <a name="marketplace-offers-and-azure-partner-shared-services"></a>市场产品/Azure 合作伙伴共享服务
 
-从 2019 年 3 月 1 Azure 合作伙伴共享服务 (，APSS) 不再支持市场产品/服务。
+从 2019 年 3 月 1 日开始，APSS 不再支持市场产品/服务。
 
 |**市场支持**   |**2019 年 3 月 1 日之前支持的 APSS**|**2019 年 3 月 1 日之后**|
 |---------------------------|:----------------------------|:-------------------|
