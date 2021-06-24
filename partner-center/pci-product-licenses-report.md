@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: e5500e975f5fa8baea91a0db55896426983d19a8
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277464"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565349"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作伙伴中心 Insights 仪表板中的产品许可证报表
 
 **适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-"产品许可证"报表为基于许可证的云产品（如 Office 365、Dynamics、Microsoft 365、Power BI 等）提供许可证分析。 此处介绍的分析与已销售或为客户管理的许可证的使用相关联。 可以从"产品许可证"报表查看以下部分。
+"产品许可证"报表为基于许可证的云产品（例如 Office 365、Dynamics、Microsoft 365、Microsoft Power BI 等）提供许可证分析。 此处介绍的分析与已销售或为客户管理的许可证的使用相关联。 可以从"产品许可证"报表查看以下部分。
 
 - 总结
 - 许可证的地理分布
@@ -28,7 +28,7 @@ ms.locfileid: "112277464"
 - 按合作伙伴位置、销售渠道、SKUS、合作伙伴附加类型、细分市场划分的许可证分发
 
  > [!NOTE]
- > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、帐户合作伙伴中心、报表查看器或执行报表查看器等角色中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定数据类型可能也仅可供具有执行报告查看器特权的用户使用。
+ > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、合作伙伴中心、报表查看器或管理人员报表查看器中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定类型的数据可能也只能供具有高级报表特权的用户使用。
 
 ## <a name="summary"></a>总结
 
@@ -39,7 +39,7 @@ ms.locfileid: "112277464"
 有关摘要的每个部分的详细信息，请参阅以下内容：
 
 - Licenses： 
-  - 你为基于许可证的云产品（例如 Office 365、Dynamics、Microsoft 365、Power BI 等）销售或管理的所有许可证的当前计数。
+  - 你为基于许可证的云产品（例如 Office 365、Dynamics、Microsoft 365、Microsoft Power BI 等）销售或管理的所有许可证的当前计数。
   - 这些许可证在所选日期范围内的增长或下降百分比。
   - 许可证趋势微图表：该微图表显示所选日期范围内许可证计数的每月趋势
 
@@ -67,7 +67,7 @@ ms.locfileid: "112277464"
 
 此视图显示所选日期范围内添加的许可证趋势。 
 
-若要按产品和服务/工作负荷显示趋势，请在屏幕顶部选择"产品"，从"SKUS"下拉列表中选择一个服务/工作负荷。
+若要按产品和服务/工作负荷显示趋势，请在屏幕顶部选择"产品"，从 **"SKUS"** 下拉列表中选择一个服务/工作负荷。
 
 X 轴表示所选日期范围的月份。 Y 轴表示添加的许可证计数。 若要放大特定时间段，请使用图表顶部的滑块。
 

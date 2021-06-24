@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277481"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565400"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>简要介绍合作伙伴中心见解内提供的仪表板报表
  
 **适当的角色**：全局管理员 |管理代理 |报表查看器 |Executive 报表查看器
 
-Insights 概述仪表板提供关键绩效指标的快照视图，例如客户、订阅、Azure 消耗收入和许可证。 您可以在 "概述" 报表中直观显示以下图表。
+"见解概述" 仪表板提供关键绩效指标的快照视图， (Kpi) 例如客户、订阅、Azure 消耗收入和许可证。 您可以在 "概述" 报表中直观显示以下图表。
 
 - 总结  
 - 客户、订阅和许可证的地理分布  
@@ -49,12 +49,12 @@ Insights 概述仪表板提供关键绩效指标的快照视图，例如客户�
 
 摘要上的 **Azure 消耗收入 (ACR)** 部分包括：
 
-- 在 US $) 中，Azure 消耗的总收入 (在所选日期范围内。
-- 在所选日期范围内，属性化 ACR (在 US $) 增长或拒绝百分比。
-- 微图显示了 ACR US $ 在所选日期范围内的按月趋势 
+- 在所选日期范围内，按 US 美元) 的总 ACR (。
+- 在选定的日期范围内，特性化 ACR (以美元) 增长或拒绝百分比。
+- 此微图表显示了按 US 为你所选日期范围内的一系列 ACR 的月趋势 
 
 > [!NOTE]
-> Azure 消耗收入 (ACR) 数据可用于已分配了 Executive 报表查看器角色的用户 
+> ACR 数据可用于已分配了 "执行报表查看器" 角色的用户。
  
 ### <a name="subscriptions-sold"></a>销售的订阅
 
@@ -68,7 +68,7 @@ Insights 概述仪表板提供关键绩效指标的快照视图，例如客户�
 
 摘要上的 " **活动订阅** " 区域包括：
 
-- 基于产品遥测的活动使用情况的当前云产品订阅计数。 这不包括 Azure 订阅的所有试用订阅。  
+- 基于产品遥测的活动使用情况的当前云产品订阅计数。 这不包括所有的试用版 Azure 订阅。  
 - 所选日期范围内活动订阅的百分比增长。
 - 微图显示了所选日期范围内活动订阅的每月月趋势。
  
@@ -100,10 +100,10 @@ Insights 概述仪表板提供关键绩效指标的快照视图，例如客户�
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Azure 使用收入增长趋势
 
-Azure 的每月趋势在所选日期范围内使用美国收入。 X 轴表示所选日期范围内的月份，Y 轴表示当月使用的 Azure 已用收入总计。
+在所选日期范围内，Azure 的 Azure 消耗收入按美元计费。 X 轴表示所选日期范围内的月份，Y 轴表示在该月内由你所代表的按美元列出的 Azure 消耗总收入。
 
 > [!NOTE]
->  (ACR) 的 Azure 使用收入将仅对已分配有执行报表查看器角色的用户可见。 
+> ACR 将仅对已分配有执行报表查看器角色的用户可见。 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure 消耗量。":::
 

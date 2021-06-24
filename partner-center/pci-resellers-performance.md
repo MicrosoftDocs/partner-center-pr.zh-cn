@@ -4,23 +4,23 @@ ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作伙伴中心 Insights 中的经销商性能仪表板概述了客户客户的各种间接经销商CSP Indirect Provider。
+description: 合作伙伴中心 Insights 中的经销商性能仪表板概述了云解决方案提供商和间接提供商云解决方案提供商 (间接) 经销商的性能。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc0fb8a56d397cebeb5a40fa1a1c8d6eae77fe25
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 65fddcc47105cf329bb8f5d3e1aa342deee556b4
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277362"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565162"
 ---
 # <a name="reseller-performance-dashboard-in-partner-center-insights"></a>合作伙伴中心 Insights 中的经销商性能仪表板
 
 **适当的角色**：全局管理员|管理代理|报表查看器|执行报表查看器
 
-合作伙伴中心 Insights 中的经销商性能仪表板概述了客户客户的各种间接经销商CSP Indirect Provider。 仪表板提供有关活跃经销商、他们产生的收入量以及推动收入的产品的数据。 间接提供商将能够按名称搜索特定经销商，并可以在经销商性能仪表板中查找该经销商的详细信息。
+合作伙伴中心 Insights 中的经销商性能仪表板概述了云解决方案提供商和间接提供商云解决方案提供商 (间接) 经销商的性能。 仪表板提供有关活跃经销商、他们产生的收入量以及推动收入的产品的数据。 间接提供商将能够按名称搜索特定经销商，并可以在经销商性能仪表板中查找该经销商的详细信息。
 
 可以从"经销商性能"仪表板查看以下部分。
 
@@ -32,10 +32,10 @@ ms.locfileid: "112277362"
 - 按合作伙伴位置的活跃经销商
 - 收入地区分布趋势
 - 按客户细分的经销商绩效
-- 经销商 MPA 签名状态
+- 经销商Microsoft 合作伙伴协议 (MPA) 签名状态
 
  > [!NOTE]
- > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、帐户合作伙伴中心、报表查看器或执行报表查看器等角色中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中的特定数据类型可能也仅可供具有执行报告查看器特权的用户使用。
+ > 此报表可从见解仪表板获取。 若要查看此报表，必须在全局管理员、合作伙伴中心、报表查看器或管理人员报表查看器中分配特定角色。 有关详细信息，请参阅公司的全局管理员。此报告中特定类型的数据可能也只能供具有执行报表查看者权限的用户使用。
 
 ## <a name="summary"></a>总结
 
@@ -81,7 +81,7 @@ Micro 图表显示所选日期范围内收入每月趋势。
 
 ## <a name="resellers-revenue-trend"></a>经销商收入趋势 
 
-此视图提供按 O365、D365、EMS、Power BI 和 Azure (美元) 的按月计费收入趋势。 每月跨各种产品聚合总体指标。 合作伙伴可以按名称搜索特定经销商，并查找该特定经销商的数据。 网格上的"计费收入 (美元) 是可排序的。
+此视图提供按 Office 365、Dynamics 365、企业移动性和安全性 (EMS) 、Microsoft Power BI 和 Azure 等产品划分的按月计费收入 (美元) 的趋势。 每月跨各种产品聚合总体指标。 合作伙伴可以按名称搜索特定经销商，并查找该特定经销商的数据。 网格上的"计费收入 (美元) 是可排序的。
 
 :::image type="content" source="images/pci/pci-res-perf-resel-rev-trend-1.png" alt-text="经销商收入趋势。":::
 
@@ -111,7 +111,7 @@ Micro 图表显示所选日期范围内收入每月趋势。
 
 ## <a name="reseller-mpa-signing-status"></a>经销商 MPA 签名状态
 
-此视图提供经销商的 MPA 签名状态，以及其他元数据，例如 MPN 审核状态、PMC 到电脑的迁移状态等。
+此视图提供经销商的 MPA 签名状态，以及其他元数据，例如 Microsoft 合作伙伴网络 (MPN) 审核状态和 Partner Membership Center (PMC) 合作伙伴中心迁移状态。
 
 :::image type="content" source="images/pci/pci-res-perf-mpa-stat-1.png" alt-text="经销商 MPA 签名状态。":::
 
