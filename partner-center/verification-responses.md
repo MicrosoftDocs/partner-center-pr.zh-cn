@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baf13c0953350d27a53ec18cb2338469c6d54770
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 68cc4fad09a3664b85c5a5ff19e0113202ea17af
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431486"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112892892"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>注册加入新的合作伙伴中心计划时验证你的帐户信息
 
@@ -33,11 +33,11 @@ ms.locfileid: "112431486"
 
 ## <a name="what-is-verified-and-how-to-respond"></a>已验证和如何响应
 
-|**验证类型**   |**已验证的**   |**拒绝时该怎么办**   |
-|----------------------------|:-----------------------------------|:--------------------------------------|
-|电子邮件所有权   |电子邮件所有权验证主要联系人（主电子邮件）的地址是否有效。 主要联系人电子邮件地址必须是受监视并可以发送/接收电子邮件的工作帐户。 **避免** 使用不与公司域关联的个人电子邮件地址或与电子邮件不关联的租户用户凭据。 （例如，jsmith@testcompany.onmicrosoft.com）。  |如果在一个工作天内没有收到电子邮件所有权验证电子邮件，可以请求再次发送电子邮件。 转到 [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)或 [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)的个人资料页，然后选择 **"重新发送验证电子邮件"。** 请务必将来自"安全 Microsoft.com 的电子邮件标记为"安全"域，并选中"垃圾邮件文件夹"。 若要获得进一步的帮助 [，请创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=b818ac05-8091-44a0-f9b4-6bb008a1ef54)。|
-|就业 |雇佣验证确认主要联系人是注册公司的员工。 联系人需要公司拥有的电子邮件域上的有效电子邮件地址。|如果拒绝雇佣验证，则主要联系人 (通常是全局管理员或帐户管理员) 需要提供文档，确认联系人的电子邮件域由其员工拥有。 若要获得进一步的帮助 [，请创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)。|
-|Microsoft Store   | 业务验证确认注册公司是合法业务实体，位于所说明的地址。|确认法定业务配置文件中的公司名称和 [地址没有拼写](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) 错误和缩写。 它们必须与正式的公司业务注册记录完全匹配。 Microsoft 会要求主要联系人 (全局管理员或帐户管理员) 提供官方文档。 文档可以是业务注册或税务注册证书，或者公司主页或省/自治区的收据。 Microsoft 使用此文档验证公司是否有权使用该特定实体名称进行业务，并且位于提供的地址。 若要获得进一步的帮助 [，请创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)。|
+| **验证类型**   | **已验证的**   | **拒绝时该怎么办**                                                                                        |
+|----------------------------|:-----------------------------------|:-----------------------------------------------------------------------------------------------------|
+| 电子邮件所有权            | 电子邮件所有权验证主要联系人（主电子邮件）的地址是否有效。 主要联系人电子邮件地址必须是受监视并可以发送/接收电子邮件的工作帐户。 **避免** 使用不与公司域关联的个人电子邮件地址或与电子邮件不关联的租户用户凭据。 （例如，jsmith@testcompany.onmicrosoft.com）。 | 如果在一个工作天内没有收到电子邮件所有权验证电子邮件，可以请求再次发送电子邮件。 转到 [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)或 [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)的个人资料页，然后选择 **"重新发送验证电子邮件"。** 请务必将来自"安全 Microsoft.com 的电子邮件标记为"安全"域，并选中"垃圾邮件文件夹"。 若要获得进一步的帮助 [，请创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=b818ac05-8091-44a0-f9b4-6bb008a1ef54)。|
+|就业 |雇佣验证确认主要联系人是注册公司的员工。 联系人需要公司拥有的电子邮件域上的有效电子邮件地址。|如果拒绝雇佣验证，则主要联系人 (通常是全局管理员或帐户管理员) 需要提供文档，确认联系人的电子邮件域由其员工拥有。 若要获得进一步的帮助 [，请创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)。 |
+| Microsoft Store   | 业务验证确认注册公司是合法业务实体，位于所说明的地址。 | 确认法定业务配置文件中的公司名称和 [地址没有拼写](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) 错误和缩写。 它们必须与正式的公司业务注册记录完全匹配。 <br /><br />Microsoft 会要求主要联系人 (全局管理员或帐户管理员) 提供官方文档。 文档可以是业务注册或税务注册证书，或者公司主页或省/自治区的收据。 Microsoft 使用此文档验证公司是否有权使用该特定实体名称进行业务，并且位于提供的地址。 若要获得进一步的帮助 [，请创建支持票证](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)。|
 
 > [!NOTE]
 > 了解如何在 中更新[法定 (配置文件) 。 ](update-your-partner-profile.md)

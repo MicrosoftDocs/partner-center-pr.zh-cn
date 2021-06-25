@@ -1,29 +1,29 @@
 ---
-title: 如何购买 SaaS 产品/服务 Microsoft AppSource
-description: 了解如何从 Microsoft AppSource 上的 Microsoft 合作伙伴购买软件即服务 (SaaS) 应用。
+title: 在 Microsoft AppSource 上购买 SaaS 应用
+description: 从 Microsoft 合作伙伴处 (SaaS) 购买软件即服务Microsoft AppSource。
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412686"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896792"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>如何购买 Microsoft AppSource 上的 SaaS 应用
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>在 Microsoft AppSource 上购买 SaaS 应用
 
-[Microsoft AppSource](https://appsource.microsoft.com/) 包含数千个企业应用程序，包括 "软件即服务" (SaaS) 应用和用于 Dynamics 365、Microsoft 365、Power BI 和电源应用的加载项。 AppSource 包括免费应用程序、试用版和付费订阅，你可以使用 [Microsoft 365 管理中心](/microsoft-365/admin/admin-overview/about-the-admin-center)在一个位置管理费用、升级、降级和取消。 本文介绍如何在 AppSource 中购买付费 SaaS 订阅。
+[Microsoft AppSource](https://appsource.microsoft.com/) 数千个业务应用程序，包括软件即服务 (SaaS) 应用，以及 Dynamics 365、Microsoft 365、Power BI 和 Power Apps 的加载项。 AppSource 包括免费应用、试用版和付费订阅，可以使用订阅在单个位置管理费用、升级、降级[Microsoft 365 管理中心。](/microsoft-365/admin/admin-overview/about-the-admin-center) 本文介绍如何在 AppSource 中购买付费 SaaS 订阅。
 
 ## <a name="requirements"></a>要求
 
-若要购买 SaaS 应用，需要以下各项：
+购买 SaaS 应用需要以下各项：
 
 - 工作或学校帐户。 如果没有工作或学校帐户，请在购买过程中访问指向“注册免费帐户”的链接。
 
-- 购买产品/服务的国家/地区中的有效信用卡。 支持信用卡：签证、主卡、美国运通版和发现。
+- 购买产品/服务的国家/地区中的有效信用卡。 支持的信用卡：澳大利亚、主卡、美国 Express 和 Discover。
 
     > [!Note]
     > 信用卡帐单邮寄国家/地区可能会锁定到 Azure Active Directory 实例的位置。
@@ -37,9 +37,9 @@ ms.locfileid: "103412686"
 
     1. 设置席位数
     1. 设置计费期限。
-    
+
 1. 输入帐单邮寄地址。
-1.  (信用卡信息) 输入付款方式。    
+1. 输入付款方式 (信用卡信息) 。
 1. 选择“下订单”。
 
 ## <a name="configure-the-application"></a>配置应用程序
@@ -50,7 +50,7 @@ ms.locfileid: "103412686"
 1. 完成预配并在软件提供商的网站上设置。
 
     > [!Note]
-    > 此步骤是必需的，但你可以随时完成此步骤。
+    > 此步骤是必需的，但你随时都可以完成。
 
 ## <a name="next-steps"></a>后续步骤
 
