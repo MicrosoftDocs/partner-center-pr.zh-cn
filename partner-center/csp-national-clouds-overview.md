@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d890a4dff5fef28fd0b698000635643f5f801998
-ms.sourcegitcommit: 7c7e2705873df2b500b8114235c8f67a22112c62
+ms.openlocfilehash: 1ccd03a3155e9942dcd5e5b4d8381a62e03e90dd
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110398162"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915535"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>作为 CSP 计划的一部分，申请在 Microsoft 国家云中销售
 
@@ -62,4 +62,4 @@ Microsoft 是技术提供商，但不运营该服务；世纪互联独立运营�
 
 ## <a name="next-steps"></a>后续步骤
 
-- [有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答](faq-for-us-govt-cloud.md)
+- [有关 Microsoft Cloud for US Government 合作伙伴中心的常见问题解答](faq-for-us-govt-cloud.yml)
