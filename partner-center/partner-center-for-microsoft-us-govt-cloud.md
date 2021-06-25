@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fc1176c6620300002afbc9bf218afcceb777538
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6b571ed5ff3eac0947b3c8d619c2605f0ac86f50
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146266"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915637"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>适用于美国政府的 Microsoft 云合作伙伴中心支持对政府机构的合作伙伴产品/服务
 
@@ -60,4 +60,4 @@ ms.locfileid: "110146266"
 
 有关在 Microsoft 政府云的 CSP 中注册的信息，请参阅 [在 csp 中注册美国政府的 Microsoft 云](enroll-in-csp-for-microsoft-us-govt-cloud.md)。
 
-有关常见问题解答，请参阅 [Microsoft Cloud for US Government 云解决方案提供商计划的常见问题解答](faq-for-us-govt-cloud.md)。
+有关常见问题解答，请参阅 [Microsoft Cloud for US Government 云解决方案提供商计划的常见问题解答](faq-for-us-govt-cloud.yml)。
