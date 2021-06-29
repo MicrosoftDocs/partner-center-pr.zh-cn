@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276852"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013312"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>使用分析了解有关订阅收入的详细信息
 
@@ -33,7 +33,7 @@ ms.locfileid: "112276852"
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>尾随 Twelve-Month (TTM) CSP 收入
 
-尾随12个月的 CSP 收入代表合作伙伴全局帐户级别的在 USD 中的尾随云解决方案提供商计划收入。 数据将在每月的第八个月刷新，以显示前个月之前的12个月的尾随收入。 例如，在 9 2020 月9日，你应该能够看到 TTM 的固定时间段上午9月2019到8月2020。
+尾随12个月的 CSP 收入代表合作伙伴全局帐户级别的在 USD 中的尾随云解决方案提供商计划收入。 数据将在每月的第八个月刷新，以显示前个月之前的12个月的尾随收入。 例如，在 9 2020 月9日，你应该能够看到 TTM 的固定时间段上午9月2019到8月2020。 排除软件订阅。 TTM 收入将仅反映已支付了发票的合格收入。 
 
 合作伙伴中心显示的收入是按12个月的固定时间间隔计算的，不能修改为更短的时间范围。
 
