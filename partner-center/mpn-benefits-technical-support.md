@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373287"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105033"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>针对本地或云产品的技术支持
 
@@ -52,7 +52,7 @@ ms.locfileid: "112373287"
    > [!NOTE]
    > 如果你的帐户仅关联到 CSP 并且未关联到 MPN，你将看到一条错误消息： "你无权执行此操作"。 必须具有与 MPN 关联的帐户。
 
-2. 展开左侧导航菜单中的“权益”，然后选择“技术权益” 。 "技术优势" 页将显示你的组织活动金牌、银或 Microsoft Action Pack 成员资格提供。
+2. 展开左侧导航菜单中的 " **权益** "，然后选择 " [**技术优势**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical)"。 "技术优势" 页将显示你的组织活动金牌、银或 Microsoft Action Pack 成员资格提供。
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="技术优势，增加了权益" :::
 
