@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 4a8e785de051aa6f722a1bfddc4ad83d6502bbb3
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: f521e55869d60987fb46cd5d570bf206939e0782
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551650"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080633"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>如何以及何时向 Microsoft 请求服务级别协议 (SLA) 额度
 
@@ -33,8 +33,8 @@ Microsoft 的 SLA 信用额度是根据哪个服务 (服务) 影响的。 例如
 
 *CSP 合作伙伴必须在事件发生的月份之后日历月结束时提交声明以及所有必需信息。* 例如，如果事件发生在 2 月 15 日，Microsoft 必须在 3 月 31 日前收到声明以及所有必需信息。 最终客户和间接经销商无法提交 SLA 信用申请;间接提供商或直接计费合作伙伴必须代表他们提交索赔。
 
->[!NOTE]
->咨询事件 ([如何检查Microsoft 365运行状况](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)) 不符合 SLA 额度条件。
+> [!NOTE]
+> 咨询事件不符合 SLA 额度条件。 发布到服务运行状况仪表板的事件表明租户可能会受到影响，表示 Microsoft在发布时拥有的最佳信息。 运行状况页数据表示服务的一般可用性。 单个服务影响、缓解和解决方法可能会有所不同。 有关更多详细信息，可以查看最终的事件发布和事后回顾。 有关详细信息 [，请参阅Microsoft 365运行状况](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) 检查运行状况。
 
 ### <a name="required-information"></a>必需的信息
 
@@ -65,7 +65,7 @@ Microsoft 的 SLA 信用额度是根据哪个服务 (服务) 影响的。 例如
 | EX | Exchange Online |
 | FO | Exchange Online Protection |
 | SB | Skype for Business Online (之前为 Lync Online)  |
-| (OS) | Office 订阅 |
+| OS | Office 订阅 |
 | PB | Power BI for Office 365 |
 | SP | SharePoint Online |
 | 你 | Yammer Enterprise |
