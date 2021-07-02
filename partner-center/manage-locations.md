@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 13d6e7dc4722227035be2b24df48427f2008bb14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
-ms.translationtype: HT
+ms.openlocfilehash: 3d30f250d6635758f3bef8e06c6f57ba0a0be744
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151774"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276818"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>管理 MPN 帐户位置并添加（删除）位置
 
@@ -30,7 +30,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
 >[!NOTE]
 >CSP 租户与 MPN 位置 ID 之间存在 1 对 1 关系。
 
-:::image type="content" source="images/locations/locations1.png" alt-text="MPN 位置的结构":::
+:::image type="content" source="images/locations/locations1.png" alt-text="MPN 位置的结构。":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>为 CSP 业务添加新帐户的先决条件
 
@@ -92,7 +92,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
  
 1. 选择“添加位置”。 这将为新位置创建一个新的 MPN ID，你可用它来进行 CSP 交易和激励。
 
-:::image type="content" source="images/legal-biz.png" alt-text="添加新的法定公司":::
+:::image type="content" source="images/legal-biz.png" alt-text="添加新的法人。":::
 
 > [!NOTE]
 > 一旦将某一位置添加到合作伙伴中心后，就不能再删除它了。 如果已使用正确的 MPN ID 登录，则会在合作伙伴中心的左侧菜单中看到 MPN。
@@ -143,7 +143,7 @@ Contoso 的合作伙伴全局帐户 (PGA) 位于英国。 PGA 是其注册的合
  
 1. 选择“国家/地区”下拉列表旁边的“更改国家/地区”，然后按照步骤操作 。 
 
-:::image type="content" source="images/lbp.png" alt-text="法定公司资料数据弹出窗口":::
+:::image type="content" source="images/lbp.png" alt-text="法人资料数据弹出窗口。":::
 
 5. 选择“保存”。
 

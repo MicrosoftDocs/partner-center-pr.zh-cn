@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deb9a0af8c0b398d3bb9761a3aa1e7db382d1093
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bd68d6f446666022647f20e78e1aa6472364c426
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855822"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551157"
 ---
 # <a name="registration-id-number-information"></a>注册 ID 号信息
 
@@ -26,7 +26,7 @@ ms.locfileid: "109855822"
 
 | **国家或地区** | **详细信息** |
 |:--|:--|
-| **亚美尼亚** | INN - 纳税标识号<br>增值税号 - 也称为增值税注册号。 此值是一个唯一编号，用于标识注册了增值税的应纳税人员（公司）或非应税法律实体。<br>公共服务编号 |
+| **亚美尼亚** | INN - 纳税标识号<br>增值税 (VAT) 号 - 也称为增值税注册号。 此值是一个唯一编号，用于标识注册了增值税的应纳税人员（公司）或非应税法律实体。<br>公共服务编号 |
 | **阿塞拜疆**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) - 纳税标识号<br>INN - 纳税标识号 |
 | **白俄罗斯**  | UNP - 此值是一个 9 位数的数字（组织使用数字，个人使用字母数字），包含区域标识符、区域对应的序列号和校验位。 |
 |**巴西** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) - Cadastro Nacional Da Pessoa Jurídica 或法律实体的国家注册。 此值是巴西联邦税务局颁发给巴西公司的标识号  |
