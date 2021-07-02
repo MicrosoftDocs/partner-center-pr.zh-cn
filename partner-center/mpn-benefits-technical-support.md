@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105033"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173667"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>针对本地或云产品的技术支持
 
@@ -54,20 +54,20 @@ ms.locfileid: "113105033"
 
 2. 展开左侧导航菜单中的 " **权益** "，然后选择 " [**技术优势**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical)"。 "技术优势" 页将显示你的组织活动金牌、银或 Microsoft Action Pack 成员资格提供。
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="技术优势，增加了权益" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="技术优势就是扩展权益。" :::
 
    > [!NOTE]
    > 如果你没有活动的成员资格，你将看到消息 "似乎你还没有任何权益"。 如果你的公司具有活动的成员资格，但你看不到它们，则你使用错误的帐户登录。 若要检查你的帐户，请选择页面右上方的 " **帐户** " 图标，然后选择 " **以其他帐户登录** " (如果需要) 。
 
 3. 若要使用 Microsoft 产品支持或签名产品支持，您需要激活权益。 若要激活权益，请选择 " **激活** " 按钮。 用于激活的用户帐户需要 "全局管理员" 或 "MPN" 伙伴管理员角色。
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="技术优势选择 &quot;激活&quot;" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="技术优势选择 &quot;激活&quot;。" :::
 
 4. 成功激活后，将向所有用户显示访问 ID 和合同 ID。 当显示访问 ID 和合同 ID 时，可以使用 Microsoft 产品支持和签名产品支持 (金牌和银牌成员) 。
 
    如果 "激活" 按钮灰显，则你的帐户不具有 "全局管理员" 或 "MPN" 合作伙伴管理员安全角色。 使用 "全局管理员" 或 "MPN 合作伙伴管理员" 中的 "  [用户管理](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) " 和 "筛选器" 查找用户以激活你的权益。
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="激活的技术优势显示访问 ID 和合同 ID" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="激活的技术优势显示访问 ID 和合同 ID。" :::
 
    > [!NOTE]
    > 首次为每个帐户使用 Microsoft 产品支持或签名产品支持时，你将需要访问 ID 和合同 ID。 一旦将权益关联到你的帐户，就不需要再次使用访问 ID 和合同 ID。  
@@ -86,7 +86,7 @@ ms.locfileid: "113105033"
 | Microsoft 产品支持<br>对于最近的本地 <br>仅产品 | 10个事件 | 15个事件 | 20个事件 |
 | 签名云支持<br>仅适用于云产品 | | 云能力：<br>无限制<br><br>其他能力：<br>5个事件 | 云能力：<br>无限制<br>          <br>其他能力：<br>10个事件   | 
 
-云能力包括：安全能力、云 Business Applications、云平台、云生产力、企业移动性管理、小型和中型云解决方案。
+云能力包括：安全能力、云 Business Applications、云平台、云生产力、Enterprise 移动性管理、小型和中型云解决方案。
 
 ## <a name="microsoft-product-support-on-premises"></a>Microsoft 产品支持 (本地) 
 
@@ -116,43 +116,43 @@ ms.locfileid: "113105033"
 
 金牌和银牌能力合作伙伴可以使用 **签名云支持** 对云产品的技术支持。 Action Pack 合作伙伴不符合签名云支持，除非他们获得资格。  
 
-首次使用 Azure、Dynamics 365 和其他云产品的权益时，你将需要访问 ID 和合同 ID (异常 Microsoft 365) 。 权益与用户帐户相关联，直至过期或不再有其他的支持事件。
+首次使用 Azure、Dynamics 365 和其他云产品的权益时，你将需要访问 ID 和合同 id (异常 Microsoft 365) 。 权益与用户帐户相关联，直至过期或不再有其他的支持事件。
 
 > [!NOTE]  
 > 当使用 Azure 门户时。 如果支持合同已经与帐户相关联，则会看到一条错误消息： "访问 ID 已经关联 ..."添加访问 ID 和协定 ID。 请参阅下面
 
 创建 Azure 请求的 CSP 合作伙伴可以使用 "云解决方案提供商" 支持计划，而无需添加支持合同。
 
-具有 **管理员代理** 角色的用户可在左侧导航菜单中选择 "CSP" 下的 " [客户](https://partner.microsoft.com/commerce/customers/list) "，选择 " **服务管理**"，然后选择 " **新建请求**"。  当你选择相关工作负荷时，将打开特定于工作负荷的门户，并添加支持合同并创建请求。
+具有管理员 **代理角色** 的用户可以在左侧 [](https://partner.microsoft.com/commerce/customers/list)导航菜单中选择 CSP 下的"客户"，选择"**服务** 管理"，然后选择"新建 **请求"。**  选择相关工作负载时，将打开特定于工作负荷的门户，并添加支持合同并创建请求。
 
-### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure 门户错误 "访问 ID 已经关联 ..."
+### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure 门户错误"访问 ID 已关联..."
 
-使用 Azure 门户时，通过选择 "帮助 + 支持"、"支持计划"，然后输入访问 ID 和合同 ID，可以使用签名云支持。
+使用 Azure 门户，签名云支持选择"帮助 + 支持"、"支持计划"，然后选择"链接支持权益"并输入"访问 ID"和"合同 ID"来使用资源。
 
 > [!NOTE]
-> 如果你有 Microsoft Action Pack 你不会获得云支持，因为它不包含 "仅限 Microsoft 产品支持" (本地) 
+> 如果你有 Microsoft Action Pack则由于它不包含云支持而未获得云签名云支持 - 仅 Microsoft 产品支持 (本地) 
 
-你可能会看到错误消息 `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` 。 此错误消息无效，应忽略此错误消息。 我们已请求禁用该错误，并将其替换为有用的诊断错误消息。
+你可能会看到错误消息 `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` 。 此错误消息无效，应忽略。 我们已请求禁用错误，并替换为有用的诊断错误消息。
 
-`Access ID is already associated …`如果在使用 Azure 门户时多次将支持协定关联到某个帐户，将会出现上述错误。 请参阅以下方案：
+如果在使用支持合同时多次将支持合同关联到帐户， `Access ID is already associated …` 则会看到Azure 门户。 请参阅以下方案：
 
-1. 如果有金牌或银技术优势，并且之前已为本地支持添加协定，则使用 Azure 门户，并在同一帐户中再次添加该协定。 只需将支持合同关联到一次帐户，因此无需在 Azure 中链接支持权益。 如果在合同已经关联到帐户时使用链接支持权益，你将看到错误，应将其忽略。 使用 "+ 新支持请求" 并按正常方式创建支持事件，并显示支持计划。
+1. 如果你有黄金或白银技术权益，并且之前已添加本地支持合同，则使用 Azure 门户，然后第二次将合同添加到同一帐户。 只需将支持合同关联一次，因此无需在 Azure 中链接支持权益。 如果在合同已关联到帐户时使用 Link 支持权益，则会看到错误，应忽略此错误。 使用" + 支持请求"，并正常创建支持事件，将显示支持计划。
 
-2. 如果支持合同已过期或签署10包 (金牌混合能力) 或签名5包 (白银混合能力) 没有剩余的事件，则支持合同将被隐藏，因为这是无效的。 如果再次链接支持权益，你将看到错误，因为协定已经关联。 你可以购买新的支持计划以获取 Azure 支持事件。
+2. 如果支持合同已过期，或者签名 10 包 (黄金混合资格) 或签名 5 包 (Silver 混合资格) 没有剩余事件，则支持合同将因无效而隐藏。 如果再次链接支持权益，将看到错误，因为合同已关联。 可以购买新的支持计划，获取 Azure 支持事件。
 
-有关合作伙伴付费支持服务，请参阅下面的合作伙伴支持计划
+有关合作伙伴付费支持产品/服务，请参阅下面的合作伙伴支持计划
 
 ## <a name="partner-support-plans"></a>合作伙伴支持计划
 
-你可以从 Microsoft 获得付费支持，其中包括技术支持和一系列额外服务选项。
+可以从 Microsoft 获得付费支持，其中包括技术支持和一系列额外服务选项。
 
-对于合作伙伴特定的计划，可以 [比较合作伙伴支持计划](https://partner.microsoft.com/support/partnersupport) 或查看以下内容：
+可以 [比较合作伙伴支持计划](https://partner.microsoft.com/support/partnersupport) ，或参阅以下特定于合作伙伴的计划：
 
-- [合作伙伴顶级支持](https://partner.microsoft.com/support/microsoft-services-premier-support) -Microsoft 提供的最高级别技术支持
-- [对合作伙伴的高级支持](https://partner.microsoft.com/support/advanced-cloud-support) -仅限云产品
+- [顶级支持合作伙伴 -](https://partner.microsoft.com/support/microsoft-services-premier-support) Microsoft 的顶级技术支持
+- [合作伙伴高级支持](https://partner.microsoft.com/support/advanced-cloud-support) - 仅云产品
 
 ## <a name="next-steps"></a>后续步骤
 
 - [管理你的 Microsoft 合作伙伴网络权益和套餐](manage-your-partner-network-benefits.md)
-- [为合作伙伴成员中心 (PMC) 的成员激活技术权益 ](partner-membership-center-tech-benefits-activate.md)
-- [技术售销售和部署服务 (TPD) ](technical-benefits.md)
+- [为 PMC 成员激活Partner Membership Center (权益) ](partner-membership-center-tech-benefits-activate.md)
+- [技术售前和部署服务 (TPD) ](technical-benefits.md)
