@@ -9,20 +9,17 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570716"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149292"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>验证域所有权以成为全局管理员 
 
 
-**相应的角色**
-
-- 全局管理员
-- 帐户管理员
+**相应的角色**：全局管理员 | 帐户管理员
 
 若要在合作伙伴中心工作，必须首先验证你的域所有权，并成为公司的全局管理员。 此外，只有成为全局管理员才能为员工分配开始工作所需的角色。  要在合作伙伴中心操作的每个人都需要分配有某种角色（包括权限）。  
 

@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702818"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150125"
 ---
 # <a name="april-2021-announcements"></a>2021 年 4 月公告
 
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>摘要
 
-合作伙伴中心 API Swagger 文档已从[以前的 Swagger 文档网站](https://apidocs.microsoft.com/services/partnercenter)迁移到[新 Swagger 文档网站](https://docs.microsoft.com/rest/api/partner-center-rest/)。
+合作伙伴中心 API Swagger 文档已从[以前的 Swagger 文档网站](https://apidocs.microsoft.com/services/partnercenter)迁移到[新 Swagger 文档网站](/rest/api/partner-center-rest/)。
 
 ### <a name="impacted-audience"></a>影响受众
 
@@ -87,11 +87,11 @@ _______________
 
 ### <a name="details"></a>详细信息
 
-从 2021 年 4 月 26 日起，合作伙伴中心 API Swagger 文档（包括 Rest API 内容）在[新站点](https://docs.microsoft.com/rest/api/partner-center-rest/)提供。 几周后，旧站点将无法访问。
+从 2021 年 4 月 26 日起，合作伙伴中心 API Swagger 文档（包括 Rest API 内容）在[新站点](/rest/api/partner-center-rest/)提供。 几周后，旧站点将无法访问。
 
 ### <a name="benefits"></a>好处
 
-合作伙伴中心 API Swagger 文档将提供“试看”功能。 使用此功能需要拥有持有者令牌，可以按照[合作伙伴中心身份验证](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)中列出的步骤生成该令牌。
+合作伙伴中心 API Swagger 文档将提供“试看”功能。 使用此功能需要拥有持有者令牌，可以按照[合作伙伴中心身份验证](/partner-center/develop/partner-center-authentication#app--user-authentication)中列出的步骤生成该令牌。
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -322,7 +322,7 @@ ________________
 
 ### <a name="details"></a>详细信息
 
-本公告是对 [12 月发布的合作伙伴中心增强功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格将于 2021 年 5 月 6 日停用。 届时，你需要已经过渡到使用新的 POST 合作伙伴中心 API。 可使用新的 POST API 购买教育版产品/服务，同时将可使用新的 GET API 购买预获资格的非营利组织’和 GCC 产品/服务。
+本公告是对 [12 月发布的合作伙伴中心增强功能](./2020-december.md#1)的跟进。 此版本部署了新的 GET 和 POST 资格 API，因此现有 GET 资格将于 2021 年 5 月 6 日停用。 届时，你需要已经过渡到使用新的 POST 合作伙伴中心 API。 可使用新的 POST API 购买教育版产品/服务，同时将可使用新的 GET API 购买预获资格的非营利组织’和 GCC 产品/服务。
 
 ### <a name="next-steps"></a>后续步骤
 
@@ -390,7 +390,7 @@ Microsoft 将从 2021 年 5 月起在 CSP 计划中为新的商务 PDF 发票引
 
 ### <a name="next-steps"></a>后续步骤
 
-在 Microsoft 合作伙伴网站上的[运营准备资源库](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)中查看有关此主题的信息。 有关计费和税务主题（包括计费资源、发票、CSP 计费和税务）的详细信息，请访问合作伙伴中心的[计费部分](https://docs.microsoft.com/partner-center/billing)。
+在 Microsoft 合作伙伴网站上的[运营准备资源库](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)中查看有关此主题的信息。 有关计费和税务主题（包括计费资源、发票、CSP 计费和税务）的详细信息，请访问合作伙伴中心的[计费部分](../billing.md)。
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>对云解决方案提供商 (CSP) 客户加入要求的更改

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: a4a8d79c1a5b22eb0c053d8cfb0d5d7ec2aae44b
+ms.sourcegitcommit: 09799f1d13b07cd3d4c75da7e2a074644dd86977
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712522"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "111575835"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -307,8 +307,8 @@ Microsoft 将于 2021 年第 1 季度实施 API 限制，目的是使调用合�
 
 | **操作** | **合作伙伴中心文档** |
 |-------------------------|----------------------------------|
-|{baseURL}/v1/customers/{customer_id}/subscriptions|[获取客户的所有订阅](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[根据 ID 获取订阅](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[获取客户的所有订阅](/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[根据 ID 获取订阅](/partner-center/develop/get-a-subscription-by-id) | 
 |{baseURL}/v1/customers/{customer_id}/orders|[获取客户的所有订单](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[按 ID 获取订单](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[获取订阅预配状态](/partner-center/develop/get-subscription-provisioning-status)|  
