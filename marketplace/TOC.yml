@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: 关于 Microsoft AppSource
+    - name: 关于
       href: appsource-overview.md
-    - name: 购买 AppSource 上的软件
+    - name: 购买软件
       href: purchase-software-appsource.md
+    - name: 专用计划
+      href: appsource-private-plans.md
 - name: Azure 市场
   items:
-    - name: 关于 Azure 市场
+    - name: 关于
       href: azure-marketplace-overview.md
     - name: 购买
       href: azure-purchasing-invoicing.md
+    - name: 在 Azure 门户中购买 SaaS 产品/服务
+      href: purchase-saas-offer-in-azure-portal.md
     - name: 计费和开票
       href: billing-invoicing.md
-    - name: 专用产品/服务
+    - name: Azure 使用承诺权益
+      href: azure-consumption-commitment-benefit.md
+    - name: 专用计划
       href: private-offers.md
     - name: 订阅转让资格
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: 管理专用 Azure 市场 - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Azure 市场合作伙伴集成
-      href: partner-integrations.md
+    - name: 使用合作伙伴提供的解决方案来扩展 Azure
+      href: /azure/partner-solutions/overview
 - name: 常规资源
   items:
     - name: 退款策略
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: 首选解决方案
-      href: preferred-solutions.md
