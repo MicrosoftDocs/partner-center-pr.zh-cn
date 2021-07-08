@@ -1,7 +1,7 @@
 ---
 title: 适用于高级专用化
 ms.topic: how-to
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 增强 Microsoft 合作伙伴目录中的业务配置文件。 了解如何使用合作伙伴中心申请并获得高级专用化。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 76500ebf1b594e6097040ee810a94635cbb65eb7
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125967"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489820"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>使用合作伙伴中心应用于高级专用化并检查其状态
 
@@ -65,15 +65,17 @@ ms.locfileid: "112125967"
 - Web 应用程序到 Microsoft Azure 的现代化
 - Windows Server 和 SQL Server 到 Microsoft Azure 的迁移
 - AI 和机器学习 Microsoft Azure
-- 混合云基础结构与 Microsoft Azure Stack HCI
+- 具有 Microsoft Azure Stack HCI 的混合云基础结构
 - Microsoft Azure Arc 的混合操作和管理
-- Microsoft Azure VMware 解决方案
+- Microsoft AzureVMware 解决方案
+- Microsoft Azure 上的 GitHub DevOps
+- Microsoft Azure 中的网络服务
 
 需要客户参考的高级专用化包括：
 
 - 采用和变更管理
 - 调用 Microsoft Teams
-- Microsoft 团队的会议和会议室
+- Microsoft Teams 的会议和会议室
 - Azure 上的 SAP
 - 团队合作部署
 - 标识和访问管理
@@ -117,7 +119,7 @@ ms.locfileid: "112125967"
 
 2. 选择 "合作伙伴中心" 菜单的 " **MPN** " 部分，然后选择 " **高级**"。 菜单将展开以显示可供你使用的所有高级专用化。
 
-3. 选择要求您提供客户引用的高级专用化的名称。 例如，假设您 **为 Microsoft 团队选择了 "会议和会议室**"。
+3. 选择要求您提供客户引用的高级专用化的名称。 例如，假设您为 Microsoft Teams 选择 "**会议和会议室**"。
 
    系统会针对此高级专用化显示 "先决条件" 页。 除了金牌资格、认证和性能要求外，此高级特殊化还要求您提供三个客户参考，以演示您的部署和管理能力。
 
@@ -139,65 +141,72 @@ ms.locfileid: "112125967"
 | 服务级别3 | 第三级基于 Azure 服务的 (例如： https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | 服务级别4 | 第四个基于 Azure 服务的最高级别 (例如： https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | 服务组2 | 根据服务类别对 Azure 服务进行分组 |
-| 服务组 3 | 根据服务子类别对 Azure 服务进行分组 |
+| 服务组3 | 根据服务子类别对 Azure 服务进行分组 |
 | 服务影响因素 | 映射到特定消耗活动的 Azure 服务的分组 |
 | 计算 OS | 计算操作系统 |
 | 计算核心软件 | 计算核心软件 |
 
-**高级专用化 Azure 消耗收入筛选器**
+**用于高级专用化的 Azure 消耗收入筛选器**
 
 - 数据仓库到 Microsoft Azure 的迁移
-    - SQL DW ACR：服务级别 1 = 数据库，服务级别 2 = SQL Data Warehouse
+    - Azure Synapse Analytics ACR：服务组 3 = SQL DW
 - Microsoft Azure 上的 Kubernetes
-    - Azure Kubernetes 服务 (AKS) ACR：服务影响因素 = AKS，AKS-Engine
+    - Azure Kubernetes Service (AKS) ACR：服务影响因素 = AKS，AKS-Engine
+    - Azure RedHat OpenShift ACR：服务组 3 = ARO，服务级别 2 = 所有除外 "Unknown"
 - Microsoft Windows 虚拟桌面
-    - Windows 虚拟桌面 ACR：服务影响因素 = NATIVE WVD
+    - Windows虚拟桌面 ACR：服务影响者 = 本机 WVD
 - Web 应用程序到 Microsoft Azure 的现代化
-    - Azure 应用服务 ACR：服务级别 1 = 计算，服务级别 2 = Azure 应用服务
-- 分析Microsoft Azure
+    - Azure App Service ACR：服务级别 1 = 计算和服务级别 2 = Azure App Service
+    - Azure 春季云 ACR：
+        - ACR 调整类型 = 不适用
+        - 服务组 2 = 应用开发
+        - 服务组 3 = 春季云 
+        - 服务级别 2 = "未知" 除外
+
+- Microsoft Azure 上的分析
     - Azure Synapse Analytics ACR：服务组 3 = SQL DW
     - Data Lake ACR：服务组 3 = Azure Data Lake
-    - Databricks ACR：服务组 3 = Databricks、Databricks VM
-    - Azure 数据工厂 ACR：服务组 3 = 数据工厂  
-- 使用 Microsoft Azure Stack HCI 的混合云基础结构
+    - Databricks ACR： Service 组 3 = Databricks，Databricks VM
+    - Azure 数据工厂 ACR： Service 组 3 = 数据工厂  
+- 具有 Microsoft Azure Stack HCI 的混合云基础结构
     - Azure Stack HCI ACR：服务级别 2 = Azure Stack HCI
-- Microsoft Azure VMware 解决方案
-    - Azure VMware Solutions (AVS) ACR：服务级别 4 = Azure VMware 解决方案、Azure VMware Solution by CloudSimple、Azure VMware 解决方案由 Virtustream、专用计算Azure VMware 解决方案
-- 使用 Microsoft Azure Arc 的混合操作和管理 
-    - 已启用 Arc 的服务器 ACR：服务级别 4 = Azure Policy
-    - 已启用 Arc 的 Kubernetes ACR：服务级别 4 = Azure Arc
-- AI 和机器学习Microsoft Azure
+- Microsoft AzureVMware 解决方案
+    - Azure VMware 解决方案 (AVS) ACR：服务级别 4 = Azure VMware 解决方案，CloudSimple 的 azure vmware 解决方案，azure vmware 解决方案，Virtustream，专用计算 Azure VMware 解决方案
+- Microsoft Azure Arc 的混合操作和管理 
+    - 启用了 Arc 的服务器 ACR：服务级别 4 = Azure 策略
+    - 启用了弧线的 Kubernetes ACR：服务级别 4 = Azure Arc
+- AI 和机器学习 Microsoft Azure
     - AI ACR：服务组 2 = AI
 
 
 - Windows Server 和 SQL Server 到 Microsoft Azure 的迁移
-    - Windows ACR： 
-        - ACR 调整类型 = N/A，计算核心 SW = 核心，
-        - 计算 OS = WINDOWS THEN 计算 OS 属性 = WINDOWS，UNKNOWN 或 Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
-        - 服务级别 2= 云服务、容器实例、容器注册表、专用计算、虚拟机、虚拟机许可证
-    - SQL 数据库 (数据库) ACR：服务组 3 = SQLDB
-    - SQL 托管实例 (MI) ACR：服务组 3 = SQL DB MI
-    - SQL VM ACR：服务组 3 = IaaS 上的 SQL，IaaS VM 上的 SQL
+    - WindowsACR 
+        - ACR 调整类型 = N/A，计算核心 SW = Core，
+        - 计算 OS = WINDOWS，然后计算 OS 属性 = WINDOWS，未知或计算 OS = LINUX，THEN OS Attribute = WINDOWS-AHUB
+        - 服务级别 2 = 云服务，容器实例，容器注册表，专用计算，虚拟机，虚拟机许可证
+    - SQL 数据库 (DB) ACR： Service Group 3 = SQLDB
+    - SQL托管实例 (MI) ACR：服务组 3 = SQL DB 英里
+    - SQLVM ACR：服务组 3 = SQL 在 iaas 上，在 iaas VM 上 SQL
 - Linux 和 Open-Source 数据库迁移到 Microsoft Azure
-    - Linux 虚拟机 (ACR) VM：
+    - Linux 虚拟机 (VM) ACR：
         - 选项 1：
-            - ACR 调整类型= N/A，服务级别 2 = 虚拟机，计算 OS= Linux，计算 OS 属性 = 非 Windows，未知，Windows
-            - 服务级别 4= 除云服务 MS 系列、虚拟机 MS 系列、虚拟机 MS 系列 Windows、虚拟机 MSv2 系列、虚拟机 MSv2 系列 Windows、MS 系列专用主机、MSv2 系列专用主机之外的所有服务
-        - 选项 2：只需要服务级别 4 上的筛选器，其他字段（如计算 OS/计算 OS 属性）不是必需的
-            - 服务级别 4 = Red Hat Enterprise Linux，Red Hat Enterprise Linux HA、SUSE Linux Enterprise Server Basic、SUSE Linux Enterprise Server for HPC Priority、SUSE Linux Enterprise Server for HPC Standard、SUSE Linux Enterprise Server Priority SUSE Linux Enterprise Server Standard
-    - Azure Database (DB) for MariaDB ACR：服务级别 1 = 数据库，服务级别 2 = Azure Database for MariaDB
-    - Azure DB for MySql ACR：服务级别 1 = 数据库，服务级别 2 = Azure Database for MySQL MySQL Database on Azure
-    - Azure DB for Postgre SQL ACR：服务级别 1 = 数据库，服务级别 2 = PostgreSQL
+            - ACR 调整类型 = N/A，服务级别 2 = 虚拟机，计算 os = Linux，计算 OS 属性 = 非 Windows，未知，Windows
+            - 服务级别 4 = 除了云服务 ms 系列、虚拟机 ms 系列、虚拟机 ms 系列 Windows、虚拟机 MSv2 系列、虚拟机 MSv2 系列 Windows、MS 系列专用主机、MSv2 系列专用主机
+        - 选项2：只需要对服务级别4的筛选器，不需要计算 OS/计算 OS 属性等其他字段
+            - 服务级别 4 = Red Hat Enterprise Linux，Red Hat Enterprise Linux 与 HA、SUSE Linux Enterprise Server Basic、SUSE Linux Enterprise Server for HPC Priority、SUSE Linux Enterprise Server for HPC Standard、SUSE Linux Enterprise Server Priority、SUSE Linux Enterprise Server Standard
+    - 适用于 MariaDB ACR 的 Azure 数据库 (DB) ：服务级别 1 = 数据库和服务级别 2 = Azure Database for MariaDB
+    - Azure DB for MySql ACR：服务级别 1 = 数据库和服务级别 2 = Azure Database for MySQL 和 MySQL Database on Azure
+    - 用于 Postgre 的 Azure DB SQL ACR：服务级别 1 = 数据库和服务级别 2 = PostgreSQL
     - Azure COSMOS DB ACR：服务级别 1 = 数据库和服务级别 2 = CosmosDB
 - 威胁防护
     - Azure Sentinel ACR：服务级别 4 = Sentinel
 - 云安全
-    - 混合环境 XDR 和网络安全 ACR：服务级别 4 = Azure Defender for SQL、Azure Defender for 容器注册表、Azure Defender for Kubernetes、Azure Defender for Storage、应用程序网关 WAF v2、WAF 应用程序网关、Azure Active Directory B2C、Azure Active Directory 域服务、Azure Active Directory for External Identities、Azure Bastion、Azure DDOS 防护、Azure 防火墙、Azure 防火墙管理器、Azure Front Door 服务、Azure Defender for IoT、Azure 专用 HSM、Key Vault、网络观察程序、Azure Defender应用服务、Azure Defender服务器、Sentinel
+    - 混合环境 XDR 和网络安全 ACR：服务级别 4 = 用于 SQL 的 azure defender，azure defender for container 注册表，azure defender for Kubernetes，azure defender for 存储，应用程序网关 WAF v2，WAF 应用程序网关，Azure Active Directory B2C，Azure Active Directory 域服务，Azure Active Directory 外部标识，azure 堡垒，azure DDOS 防护，azure 防火墙，azure 防火墙管理器，azure 前门服务，azure defender for IoT，azure 专用 HSM，Key Vault，网络观察程序，azure defender 用于应用服务，azure defender 用于服务器，
 
 ## <a name="next-steps"></a>后续步骤
 
-- 详细了解高级 [专用化、其优势和独特要求](https://partner.microsoft.com/membership/advanced-specialization)。
+- 详细了解 [高级专用化、其优点和独特要求](https://partner.microsoft.com/membership/advanced-specialization)。
 
-- 了解如何 [获得 Microsoft 银级或金级会员资格](learn-about-competencies.md)。
+- 了解如何获取 [Microsoft 银色或金牌成员资格能力](learn-about-competencies.md)。
 
-- 详细了解Microsoft 合作伙伴网络 [能力](https://partner.microsoft.com/membership/competencies)。
+- 详细了解 [Microsoft 合作伙伴网络胜任度](https://partner.microsoft.com/membership/competencies)。
