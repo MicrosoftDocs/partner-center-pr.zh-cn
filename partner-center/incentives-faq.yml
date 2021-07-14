@@ -1,0 +1,81 @@
+### YamlMime:FAQ
+metadata:
+  title: 激励常见问题
+  ms.topic: how-to
+  ms.date: 02/05/2021
+  description: Microsoft 激励的常见问题。 本文包含有关用户角色、如何注册以及如何处理错误消息的问题。
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: mseamons
+  ms.author: mseamons
+  ms.localizationpriority: medium
+  ms.openlocfilehash: 868b47431eb6d04c0885f82c13f7611bace24d2c
+  ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
+  ms.translationtype: MT
+  ms.contentlocale: zh-CN
+  ms.lasthandoff: 07/14/2021
+  ms.locfileid: "113753534"
+title: 有关激励的常见问题
+summary: >
+  **适当的角色**：激励管理 |奖励用户
+sections:
+- name: 忽略
+  questions:
+  - question: >
+      是否需要是全局管理员才能注册激励？
+    answer: >
+      否。 全局管理员帐户和帐户管理员都可以将用户分配为奖励管理员。 鼓励管理员通过合作伙伴中心管理公司的奖励计划。 有关详细信息，请参阅 [权限概述](permissions-overview.md)。
+  - question: >
+      如果我发现公司已是 Microsoft 合作伙伴网络 (MPN) 的成员，我该怎么办？
+    answer: >
+      如果你尝试加入 MPN，并且你的公司已是成员，则 MPN 将识别该域并将你关联到现有帐户。 现有帐户可能是同一公司或使用同一电子邮件域的相关公司，也可能是同一 Azure 活动目录 (Azure AD) 管理多个域。
+
+
+      你可以从 "法律配置文件" 页中确定主要联系人。 如果你的位置是 MPNHQ 位置，你只需设置所需的权限来管理奖励。 有关角色和权限的详细信息，请参阅 [权限概述](permissions-overview.md)。
+
+
+      如果你不在与 MPNHQ 位置相同的国家/地区，请参阅有关此方案的详细信息，请参阅 [多国帐户的说明](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) 。
+  - question: >
+      可用的用户角色有哪些？
+    answer: >
+      默认情况下，在合作伙伴中心注册公司的人员将成为主要联系人和全局管理员。 管理员可以在门户上邀请和管理用户。
+
+
+      奖励的关键角色是激励管理员和奖励用户。 奖励管理员可以注册激励计划并管理合作伙伴的银行和税务详细信息。 激励用户可以在该工具中查看报表，以查看支付的内容和每个付款的细目，但无法查看或编辑银行详细信息。 这两个角色可以应用于合作伙伴全局帐户下的所有位置。
+
+
+      有关详细信息，请参阅 [权限概述](permissions-overview.md)。
+  - question: >
+      如何查找对公司拥有全局或帐户管理员权限的用户？
+    answer: "若要查找可以进行角色更改或将角色分配给新用户的全局管理员或帐户管理员，请执行以下操作：\n\n1. 从合作伙伴中心右上方的 \"帐户设置\" 图标中，选择 \" **用户管理**\"。\n2. **全局管理员** 或 **帐户管理员** 进行筛选。\n3. 你还可以访问 **\"我的配置文件**\"，选择 \" **角色和权限** \"，并查看可帮助你提升权限的不同管理员的列表。\n \n有关详细信息，请参阅 [查找你的角色](find-your-role.md)。  \n"
+  - question: >
+      我无法使用我的凭据访问奖励。
+    answer: >
+      看不到激励的原因可能是您没有正确的权限。 使用以下过程来解决此问题。
+
+
+      1. 使用 Azure AD 租户凭据登录到 [合作伙伴中心仪表板](https://partner.microsoft.com/dashboard/) ， (你的工作凭据) "。 如果你无法登录，请联系你的公司的全局管理员。
+
+
+      2. 登录时，如果系统提示你从 **工作帐户** 或 **个人帐户** 中进行选择，请选择 " **工作帐户**"。
+
+
+      3. 在 "合作伙伴中心" 菜单上，选择 " **激励**"，然后选择 " **概述**"。 如果你没有奖励管理员或奖励用户权限，则会显示你公司的所有全局管理员和帐户管理员的联系信息。 请与这些管理员之一联系，为所需的 MPN Id 和激励计划获取激励角色。
+
+
+      4. 如果你已有奖励管理员角色，你将看到你的公司的注册，其中包含你有权访问的 MPN Id 和激励计划。
+  - question: >
+      奖励概述页中缺少一些注册。
+    answer: >
+      如果已收到或已注册了一个不能在仪表板中看到的激励计划，则应仔细检查是否具有适当的访问权限。 只有具有 "激励用户" 或 "激励管理员" 角色的用户才能看到该计划。 请参阅 [查找你的角色](./find-your-role.md)。
+
+
+      如果需要更改角色或权限，请与公司的全局管理员或帐户管理员联系。若要了解这些人员的身份，请阅读 [查找你的全局管理员](./find-your-role.md#find-your-global-admin)。
+
+
+      "概述" 页仅显示与 Azure AD 租户相关联 (PGA) 的伙伴全局帐户关联的注册。 如果你的公司有多个 PGA，则需要为每个 PGA 提供不同的凭据。
+  - question: >
+      如果在注册过程中收到错误消息或需要帮助，应与 Who 联系？
+    answer: >
+      如果在仪表板的 "激励" 部分中遇到任何问题，则可以使用联机支持服务–请参阅支持选项 (？ 图标) 在右上方。
+additionalContent: "\n## <a name=\"next-steps\"></a>后续步骤\n\n- [即刻体验奖励](incentives-get-started-intro.md)"
