@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/30/2021
-ms.openlocfilehash: a6f249a83abb7dfb7a1e516864696e1bfcc6a853
-ms.sourcegitcommit: 1d09ccaaa54f167b0c63e99761172ebe84e89f2e
+ms.date: 07/09/2021
+ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
+ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "113221451"
+ms.lasthandoff: 07/11/2021
+ms.locfileid: "113599749"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,10 @@ ms.locfileid: "113221451"
 
 |**类别**|**2021 年 7 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[在合作伙伴中心的帮助下，使 Microsoft 认证保持活动状态](2021-july.md#6)| 7 月 9 日 |
+|功能|[.NET Standard 上的 SDK 版本 (v2.0.1)](2021-july.md#5)| 7 月 7 日 |
+|功能|[客户折扣透明度公告](2021-july.md#4)| 7 月 7 日 |
+|功能|[Windows 7 扩展安全更新 (ESU) 第 2 年 (2021) 产品密钥问题已解决](2021-july.md#3)|7 月 2 日 |
 |功能|[查看本月的产品发布和套餐](2021-july.md#2)|7 月 1 日|
 |功能|[Dynamics 365 云迁移折扣套餐的促销和停用](2021-july.md#1)|7 月 1 日|
 |**类别**|**2021 年 6 月公告**|**已公布**|
