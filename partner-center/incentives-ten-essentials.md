@@ -1,6 +1,6 @@
 ---
-title: 与激励合作的十大要素
-description: 请按照以下10个建议来改善激励计划体验，并更快地接收付款。
+title: 使用奖励的 10 个要素
+description: 按照这 10 条建议改进奖励计划体验，并更快获得付款。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,40 +8,40 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146708"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753351"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>与激励合作的十大要素
+# <a name="the-10-essentials-for-working-with-incentives"></a>使用奖励的 10 个要素
 
-**适当的角色**：激励管理 |奖励用户
+**适当角色**：奖励管理员|奖励用户
 
-Microsoft 激励计划是一项功能强大的工具，它为客户提供与 Microsoft 产品和服务的合作。 了解程序越多，取得成功的可能性就越好。
+Microsoft 奖励计划是一个功能强大的工具，用于奖励合作伙伴吸引客户使用 Microsoft 产品和服务。 你越了解该计划，成功的可能性就越好。
 
-建议你在开始利用激励计划之前， **先** 执行下面列出的10个基本要素。 他们将帮助确保您的激励体验是一个不错的体验，并帮助防止在激励付款中出现延迟。
+建议在开始奖励计划之前，先执行下面列出的 10 项基本信息。  它们有助于确保你的奖励体验良好，并帮助防止奖励付款出现延迟。
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. 联接 Microsoft 合作伙伴网络
+## <a name="1-join-the-microsoft-partner-network"></a>1.联接Microsoft 合作伙伴网络
 
-如果你还不是 Microsoft 合作伙伴，则需要加入 MPN，以利用激励和其他权益。 若要了解详细信息，请参阅 [Microsoft 合作伙伴网络成员身份](https://partner.microsoft.com/membership)。
+如果你不是 Microsoft 合作伙伴，则需要加入 MPN 以利用奖励和其他权益。 若要了解有关详细信息，请参阅 Microsoft 合作伙伴网络 [成员身份](https://partner.microsoft.com/membership)。
 
-## <a name="2-read-your-incentives-program-guide"></a>2. 阅读激励计划指南
+## <a name="2-read-your-incentives-program-guide"></a>2.阅读奖励收视指南
 
-每个激励计划都有其自己的详细收视指南。 在本指南中，你将了解资格和注册要求、收益机会，以及你的程序特有的其他信息。 若要访问收视指南，请按照 [此过程](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)操作。
+每个奖励计划都有其自己的详细计划指南。 在本指南中，你将找到资格和注册要求、收入机会以及计划独有的其他信息。 若要访问程序指南，请 [执行此过程](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)。
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. 设置你的税务和银行配置文件
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3.设置税务和银行配置文件
 
-在激励过程中，几乎所有的支出延迟或其他中断都是导致税务和银行配置文件不准确或不完整的结果。 在开始激励计划之前，请确保您的配置文件是良好的形状。 若要了解详细信息，请参阅 [合作伙伴中心的支出和税务配置文件](incentives-create-and-manage-your-payout-and-tax-profiles.md)。
+奖励过程中几乎所有付款延迟或其他中断都是由于税务和银行配置文件不准确或不完整而导致的。 在开始奖励计划之前，请确保个人资料状态良好。 若要了解有关详细信息，请参阅中的[付款和税务合作伙伴中心。](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. 了解角色和权限
+## <a name="4-learn-about-roles-and-permissions"></a>4.了解角色和权限
 
-必须深入了解奖励计划所涉及的角色和权限。 完成此操作后，可以决定应该将哪些角色分配给公司中的人员。 若要了解有关详细信息，请参阅 [哪些用户角色可用？](incentives-faq.md#what-user-roles-are-available)
+必须深入了解奖励计划所涉及的角色和权限。 完成此操作后，可以决定应该将哪些角色分配给公司中的人员。 若要了解有关详细信息，请参阅 [哪些用户角色可用？](incentives-faq.yml#what-user-roles-are-available-)
 
 ## <a name="5-review-the-incentives-faq"></a>5.查看奖励常见问题解答
 
-在提出常见奖励问题之前，先获取其答案。 我们使用来自合作伙伴的信息并直接与合作伙伴Microsoft 支持奖励常见问题解答。 可在此处查看常见问题 [解答](incentives-faq.md)。
+在提出常见奖励问题之前，先获取其答案。 我们使用来自合作伙伴的信息并直接与合作伙伴Microsoft 支持奖励常见问题解答。 可在此处查看常见问题 [解答](incentives-faq.yml)。
 
 ## <a name="6-confirm-your-program-eligibility"></a>6.确认你的计划资格
 
@@ -61,7 +61,7 @@ Microsoft 激励计划是一项功能强大的工具，它为客户提供与 Mic
 
 ## <a name="10-read-the-partner-center-online-help"></a>10.阅读合作伙伴中心联机帮助
 
-你将找到执行以上列出的所有任务的详细过程。 您可以在大约一小时内阅读整个奖励部分，而大多数文章只需要一到两分钟的时间。 若要开始阅读帮助，请 [参阅入门](incentives-get-started-intro.md)。
+你将找到执行上面列出的所有任务的详细过程。 可以在大约一小时内阅读整个奖励部分，大多数文章只需一到两分钟。 若要开始阅读帮助，请参阅 [入门](incentives-get-started-intro.md)。
 
 ## <a name="next-steps"></a>后续步骤
 
