@@ -9,23 +9,18 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 770df3cff40b8cc51eab16fb95d0bd43967a5a69
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534805"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013261"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>将客户从现有的云解决方案提供商 Azure 产品/服务迁移到 Azure 计划
 
-**相应的角色**
+适用于：合作伙伴中心 
 
-- 管理员代理
-- 计费管理员
-- 全局管理员
-- 支持人员代理
-- 销售代理
-- “用户管理”管理员
+相应的角色：管理员代理 | 计费管理员 | 全局管理员 | 支持人员代理 | 销售代理 |“用户管理”管理员
 
 本文介绍了 CSP 合作伙伴如何使用合作伙伴中心将客户从现有 CSP Azure 产品/服务迁移到 Azure 计划下的 Azure 服务。 间接提供商和直接计费合作伙伴可以转换到 Azure 的 Microsoft 云服务提供商计划 (CSP) 中提供的新商务体验。 （间接经销商需通过其间接提供商才能实现此转换。）然后，客户可以通过简便的方式来购买云服务，无论是从合作伙伴、Microsoft 经销商还是直接在 Web 上购买。
 

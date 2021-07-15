@@ -9,21 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132938"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152216"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>与 Microsoft 合作并发现成员资格权益
 
-**相应的角色**
-
-- 全局管理员
-- MPN 合作伙伴管理员
-- “用户管理”管理员
-- 管理员代理
+相应的角色：全局管理员 | MPN 合作伙伴管理员 |“用户管理”管理员 | 管理员代理
 
 Microsoft 合作伙伴网络 (MPN) 提供齐全的产品，并提供各种计划选项来突显客户的业务优势、将产品投放市场和销售解决方案。 免费加入，然后借助 Microsoft Action Pack、初学者工具包来决定如何为合作投资，或展示资质。
 

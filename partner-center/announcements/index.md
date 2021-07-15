@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/09/2021
-ms.openlocfilehash: 664e8d1353a022e73a5d2f68d11dea4d7cfd438f
-ms.sourcegitcommit: e2256e60cd2d4d41b3653655e3b1931292234283
+ms.openlocfilehash: d44ea9cd6c39954a1299344634d22fd1d31ec773
+ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/11/2021
-ms.locfileid: "113599749"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "113684264"
 ---
 # <a name="partner-center-announcements"></a>合作伙伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "113599749"
 
 |**类别**|**2021 年 7 月公告**|**已公布**|
 |---------|:---------|:---------|
+|功能|[Microsoft China Corporation Limited (MCCL) 云解决方案提供商 (CSP) 和开放许可中的软件变更](2021-july.md#9)| 7 月 13 日 |
+|就绪|[云解决方案提供商 (CSP) 客户地址验证 API 变更于 2021 年 7 月 13 日上线](2021-july.md#8)| 7 月 12 日 |
+|功能|[7 月云解决方案提供商 (CSP) 社区更新和提醒](2021-july.md#7)| 7 月 12 日 |
 |功能|[在合作伙伴中心的帮助下，使 Microsoft 认证保持活动状态](2021-july.md#6)| 7 月 9 日 |
 |功能|[.NET Standard 上的 SDK 版本 (v2.0.1)](2021-july.md#5)| 7 月 7 日 |
 |功能|[客户折扣透明度公告](2021-july.md#4)| 7 月 7 日 |

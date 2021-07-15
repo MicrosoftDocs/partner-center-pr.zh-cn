@@ -9,23 +9,16 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534958"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149734"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure 云解决方案提供商 (CSP) 计划中提供的 Azure 服务
 
-**相应的角色**
-
-- 管理员代理
-- 计费管理员
-- 全局管理员
-- 支持人员代理
-- 销售代理
-- “用户管理”管理员
+相应的角色：管理员代理 | 计费管理员 | 全局管理员 | 支持人员代理 | 销售代理 |“用户管理”管理员
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP 中提供的 Azure 服务
 

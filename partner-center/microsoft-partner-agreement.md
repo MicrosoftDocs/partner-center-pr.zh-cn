@@ -9,18 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: fc263c617a6a26872604970a42eb100708062fed
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441262"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276614"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解适用于云解决方案提供商计划合作伙伴的 Microsoft 合作伙伴协议 (MPA)
 
-**相应的角色**
-
-- 全局管理员
+**相应的角色**：全局管理员
 
 Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的、以数字方式接受的合作伙伴协议。 Microsoft 合作伙伴协议包含一组核心的永久性条款，用于帮助 Microsoft、合作伙伴和客户支持数据隐私和安全性、促进合规性以及鼓励正确的商业实践。
 
@@ -77,12 +75,12 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
 
 1. 若要在签署 Microsoft 合作伙伴协议之前查看和下载该协议，请选择 Microsoft 合作伙伴协议链接，如下所示。
 
-:::image type="content" source="images/agreement-three.png" alt-text="新的 MPA 协议位置":::
+:::image type="content" source="images/agreement-three.png" alt-text="新的 MPA 协议位置。":::
 
 >[!NOTE]
 >如果没有看到 Microsoft 合作伙伴协议链接，请查看你在合作伙伴中心中的角色。 只有云解决方案提供商租户上的全局管理员可以在合作伙伴中心中查看和签署 MPA。 若要查看你的角色，请转到“用户管理”，并检查已登录帐户是否标记为“全局管理员” 。如果未标记，则不能使用此帐户签署 MPA。 可以在“用户管理”页面上搜索公司中的全局管理员。
 
-:::image type="content" source="images/user-management-clean.png" alt-text="如何确定自己的角色":::
+:::image type="content" source="images/user-management-clean.png" alt-text="如何确定自己的角色。":::
 
 ## <a name="verify-that-you-have-signed-the-mpa"></a>验证你是否已签署 MPA
 
@@ -91,14 +89,14 @@ Microsoft 合作伙伴协议为 Microsoft 合作伙伴提供了一种统一的�
  作为公司的全局管理员，请转到 [CSP 概述](https://partner.microsoft.com/pcv/dashboard/overview)页，查看是否有通知你已接受 MPA 的绿色横幅。
 
  
-:::image type="content" source="images/banner-boxed.png" alt-text="显示接受 MPA 的绿色横幅":::
+:::image type="content" source="images/banner-boxed.png" alt-text="显示接受 MPA 的绿色横幅。":::
 
 >[!NOTE]
 >只有公司的全局管理员才能查看并签署 MPA。 如果你不是全局管理员，则需要让全局管理员来验证 MPA。
 
 还可以从“帐户设置”中选择“协议”，查看是否已为协议签名 。
 
-:::image type="content" source="images/agreement-new.png" alt-text="MPA 已签名的指示":::
+:::image type="content" source="images/agreement-new.png" alt-text="MPA 已签名的指示。":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>下载适用于你在 MPA 签署过程中的目前状况的分步指南

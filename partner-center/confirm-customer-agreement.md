@@ -9,19 +9,16 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633772"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277005"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>如何确认客户已接受 CSP 计划的 Microsoft 客户协议
 
-**相应的角色**
-
-- 管理员代理
-- 销售代理
+相应的角色：管理员代理 | 销售代理
 
 
 关于是否接受 Microsoft 客户协议，客户有两种选择。
@@ -54,7 +51,7 @@ ms.locfileid: "105633772"
 
 6. 选择“下一步”继续创建客户租户。
 
-   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="新客户":::  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="新客户。":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>确认现有客户接受了协议
 
@@ -70,7 +67,7 @@ ms.locfileid: "105633772"
 
 5. 选择“保存”，然后继续操作。
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="现有客户":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="现有客户。":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>检索客户接受协议的确认信息
 
@@ -122,7 +119,7 @@ ms.locfileid: "105633772"
 >[!NOTE] 
 >新客户必须接受 Microsoft 客户协议才能进行购买。  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="创建新客户":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="创建新客户。":::
 
 5. 到达新客户工作流中的“确认”屏幕后，保存客户凭据。 稍后需将这些凭据分配给客户。
 
@@ -150,7 +147,7 @@ ms.locfileid: "105633772"
 
 4. 使用此电子邮件模板邀请客户接受 **经销商关系** 请求和 **Microsoft 客户协议**。 （注意：在电子邮件邀请中，请确保合作伙伴还包括自动提供的 URL 以及最近创建的客户凭据。）
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="创建关系":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="创建关系。":::
 
 5. 客户通过电子邮件接收邀请，并单击参数化 URL。 
 
@@ -160,7 +157,7 @@ ms.locfileid: "105633772"
 
 8. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="接受协议":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="接受协议。":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀请现有客户查看并接受协议
@@ -177,7 +174,7 @@ ms.locfileid: "105633772"
 
 5. 在同一 URL 中，客户可以查看与其协作的不同合作伙伴的合并列表。 客户可以选择一个合作伙伴来查看详细信息。
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="客户":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="客户。":::
 
 >[!NOTE]
 >在某些情况下，客户可能无法直接接受 Microsoft 客户协议。 若要详细了解这些情况，请参阅下面的“需要代表客户证明的两种情况”。

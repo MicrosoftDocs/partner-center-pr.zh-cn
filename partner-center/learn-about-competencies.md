@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
+ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178861"
+ms.lasthandoff: 06/28/2021
+ms.locfileid: "112989336"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>通过获得 Microsoft 资格来突显你的业务优势
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
+相应的角色：全局管理员 |“用户管理”管理员
 
 证明你在一个或多个专业业务领域中提供优质解决方案方面拥有公认的专长。 Microsoft 资质旨在让你做好满足客户需求的准备，以及帮助你吸引正在寻找 Microsoft 认证解决方案提供商的新客户。 加入 Microsoft 合作伙伴精英层并在同行中脱颖而出。
 
@@ -74,4 +71,4 @@ ms.locfileid: "106178861"
 
 - 查看合作伙伴中心见解[资格报告](pci-competencies-report.md)，其中显示了你当前的资格状态。
 
-- 获取有关资格的[常见问题解答](competencies-faq.md)的答案。
+- 获取有关资格的[常见问题解答](competencies-faq.yml)的答案。

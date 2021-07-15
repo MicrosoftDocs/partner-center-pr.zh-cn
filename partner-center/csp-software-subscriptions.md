@@ -9,19 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 309a3578edcd06770c818722f2164a4d10a945da
+ms.sourcegitcommit: 32ef8d43902357a85df420b48b0ec1d63ad073e4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502546"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "110754471"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>通过云解决方案提供商 (CSP) 计划销售软件订阅
 
-**相应的角色**
-
-- 管理员代理
-- 全局管理员
+相应的角色：管理员代理 | 全局管理员
 
 通过 Azure 预留实例以及 Server 订阅（Windows Server 和 SQL Server 订阅），云解决方案提供商计划中的合作伙伴可以更好地满足客户对成本效益更高的解决方案的快速增长的需求，从而为高度可预测的长期云工作负荷提供支持。 
 
@@ -84,7 +81,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 2. 在“合作伙伴中心”菜单中，选择“客户”，然后从列表中选择客户。
 
-3. 在客户的详细信息页面中，选择“添加产品”，然后按照屏幕说明创建并支付订单。 除了澳大利亚和巴西外，所有商业定价都不含税。 对于澳大利亚和巴西而言，价格包含了税费。
+3. 在客户的详细信息页面中，选择“添加产品”，然后按照屏幕说明创建并支付订单。 除了澳大利亚和巴西外，所有商业定价均不含税。 对于澳大利亚和巴西而言，价格包含了税费。
 
 ## <a name="activate-and-manage-software-subscriptions"></a>激活和管理软件订阅
 
@@ -103,7 +100,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 5. 如果想要向客户发送位数下载链接，请选择“复制链接”。 
 
-6. 你还可取消软件订单，获取 100% 退款（如果在 60 天的取消策略期限内取消）。
+6. 你还可取消软件订单，获取 100% 退款（前提是在 30 天的取消策略期限内取消）。
 
 >[!NOTE]
 >只有客户有权在 Microsoft 365 管理中心查看产品密钥和下载信息（需具备全局管理员角色）。 合作伙伴必须使用合作伙伴中心来查看此信息。
@@ -129,22 +126,20 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 ## <a name="cancel-a-purchase"></a>取消购买
 
-可以在购买后的 60 天内取消软件购买。 如果在此第一个 60 天的时段内取消，则不会向你收取提前终止费。 60 天后，你将无法再取消购买。 （请参阅注释以了解此取消规则的主要限制。 若要了解取消软件订阅后会发生的情况，另请参阅这些步骤后面的重要注释。） 
+可以在购买后的 30 天内取消软件购买。 如果在此第一个 30 天的时段内取消，则不会向你收取提前终止费。 30 天后，你将无法再取消购买。 （请参阅注释以了解此取消规则的主要限制。 若要了解取消软件订阅后会发生的情况，另请参阅这些步骤后面的重要注释。） 
 
 >[!NOTE]
->以下取消购买的步骤仅适用于可以在特定取消时段内（例如在购买后的前 60 天内）取消的软件。 这些步骤也不适用于 Azure 中的 SUSE Linux 或 RedHat 软件计划。 目前，你无法取消或交换 SUSE 或 RedHat 软件计划。 [详细了解](/azure/virtual-machines/linux/prepay-suse-software-charges)使用 SUSE Linux 或 RedHat 计划。
+>以下取消购买的步骤仅适用于可以在特定取消时段内（例如在购买后的前 30 天内）取消的软件。 这些步骤也不适用于 Azure 中的 SUSE Linux 或 RedHat 软件计划。 目前，你无法取消或交换 SUSE 或 RedHat 软件计划。 [详细了解](/azure/virtual-machines/linux/prepay-suse-software-charges)使用 SUSE Linux 或 RedHat 计划。
 
 请按照以下步骤取消购买：
 
 >[!NOTE]
 >只有管理员代理才能取消购买。 以下步骤介绍了如何在合作伙伴中心面板中取消购买。 你还可以使用[合作伙伴中心 API](/partner-center/develop/cancel-software-purchases) 来执行此操作。
 
-1. 在开始进行取消之前，你需要确保具有以下各项：
+1. 在开始进行取消之前，你需要确保具有以下信息：
 
     - 客户的名称、租户 GUID 或域名
-
     - 要取消的产品的名称
-    
     - 订单 ID
 
 2. 登录到合作伙伴中心[面板](https://partner.microsoft.com/dashboard)。
@@ -176,7 +171,7 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 取消购买后：
 
-- 所有相关的软件密钥和下载链接将被撤销。 这意味着，你或你的客户再也无法使用与此购买相关的软件密钥和下载链接。 你和你的客户有责任停止使用所有已取消的软件。 此外，你也有责任卸载取消的软件并删除任何相关的软件下载和链接。
+- 所有相关的软件密钥和下载链接将被撤销。 此吊销意味着，你和你的客户再也无法使用与此购买相关的软件密钥和下载链接。 你和你的客户有责任停止使用所有已取消的软件。 此外，你也有责任卸载取消的软件并删除任何相关的软件下载和链接。
 
 - 已取消的项仍将显示在客户的软件详细信息页面上，但激活密钥将不可用。
 
@@ -192,14 +187,11 @@ Azure 混合权益可帮助你从 Windows Server 许可证中获取更多价值�
 
 3. 填写“影响”和“标题”字段。
 
-4. 在“描述”字段中，提供以下信息：
+4. 在“说明”字段中，提供以下信息：
 
     - 客户租户 GUID 或域名
-    
     - 订单 ID 或订阅 ID
-    
     - 退款原因
-
     - 请求的金额
 
 5. 在“联系人”字段中，输入你的姓名、电子邮件地址和电话号码。

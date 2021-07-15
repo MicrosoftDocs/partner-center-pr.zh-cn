@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740380"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277702"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理合作伙伴中心帐户 - 公司档案、银行信息、角色和权限等
 
-**相应的角色** 
-
-- 全局管理员
-- 帐户管理员
+**相应的角色**：全局管理员 | 帐户管理员
 
 在合作伙伴中心上注册时创建的帐户是你的工作电子邮件，也是你的业务信息。 创建帐户后，你需要设置好公司的完整档案，包括支持详细信息、免税文件（如果有）和主要联系人信息。 你的公司帐户还将包括团队中将使用合作伙伴中心的任何人的用户帐户。 他们可能会做的工作包括添加或管理客户、销售订阅、使用计费和开票、创建公司资料、管理引荐、使用激励计划、提供支持等。
 
@@ -34,7 +31,7 @@ ms.locfileid: "109740380"
 
 对于所有商业和开发人员合作伙伴，要在合作伙伴中心访问“帐户管理”，都要登录合作伙伴中心[面板](https://partner.microsoft.com/dashboard) ，选择屏幕右上角的“设置”（齿轮图标），然后选择“帐户设置”。 现在不再需要在合作伙伴和开发人员设置之间进行选择。 现已合并所有配置文件和设置。
 
-:::image type="content" source="images/accountsettings/opening.png" alt-text="“设置”图标":::
+:::image type="content" source="images/accountsettings/opening.png" alt-text="“设置”图标。":::
 
 这将显示“帐户设置”页面。
 
@@ -48,7 +45,7 @@ ms.locfileid: "109740380"
 
 当你选择“设置”图标并打开“帐户设置”菜单时，如果你的公司加入了云解决方案提供商计划，则默认视图为“法务信息”，其中会显示两个选项卡，即“合作伙伴”和“经销商”。     每个选项卡都包含业务各方面的信息。
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="菜单显示了“合作伙伴”和“经销商”选项卡":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="菜单显示了“合作伙伴”和“经销商”选项卡。":::
 
 “合作伙伴”选项卡包括所有法定业务信息，例如公司已注册的法定名称和地址，以及主要联系人和业务位置。 “分销商”选项卡适用于开展 CSP 业务的合作伙伴，其中包括“客户支持资料”。
 
@@ -58,7 +55,7 @@ ms.locfileid: "109740380"
 
 可能有多个帐户。 可检查左侧导航菜单中是否有“帐户选取器”，查看你是否属于多个帐户。
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="标识帐户选取器":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="标识帐户选取器。":::
 
 如果看不到帐户选取器，则你仅属于一个帐户。 
 
@@ -66,7 +63,7 @@ ms.locfileid: "109740380"
 
 在下例中，已登录用户包含在 3 个突出显示的帐户中。 该用户可单击帐户，在这些帐户之间进行切换。
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="包含你的帐户":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="你所属的帐户。":::
 
 ## <a name="organization-profile"></a>组织资料
 

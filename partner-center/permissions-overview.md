@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: b1ac34bbb92d600805465ca5f6d1b28af54cd5e1
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855125"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565077"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>为需要在合作伙伴中心工作的公司的用户分配用户角色和权限
 
@@ -24,10 +24,10 @@ ms.locfileid: "109855125"
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>进行设置，使员工能够在合作伙伴中心工作
 
-按分配的角色和权限确定用户对合作伙伴中心拥有访问权限类型。 角色与企业参与的计划相关。 例如，如果你的企业是云解决方案提供商 (CSP)，则你只具有标准的 Azure Active Directory 租户管理角色（例如全局管理员），但却需要 CSP 计划特定的角色。 每个计划都有自身特定的角色。
+按分配的角色和权限确定用户对合作伙伴中心拥有访问权限类型。 角色与企业参与的计划相关。 例如，如果你的企业是一家云解决方案提供商 (CSP)，则你只具有标准的 Azure Active Directory (Azure AD) 租户管理角色（例如全局管理员），但却需要 CSP 计划特定的角色。 每个计划都有自身特定的角色。
 
 >[!Note]
-> Azure Active Directory 租户角色包括全局管理员、用户管理员和 CSP 角色。 非 Azure Active Directory 角色是指不管理租户的角色，包括 MPN 管理员、企业档案管理员、引荐管理员、奖励管理员和奖励用户。 
+> Azure AD 租户角色包括全局管理员、用户管理员和 CSP 角色。 非 Azure AD 角色是指不管理租户的角色，包括 Microsoft 合作伙伴网络 (MPN) 合作伙伴管理员、企业档案管理员、引荐管理员、奖励管理员和奖励用户。 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>在合作伙伴中心管理商业交易（Azure AD 和 CSP 角色）
 
@@ -81,14 +81,14 @@ ms.locfileid: "109855125"
 
 ### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>控制面板供应商 (CPV)。 （CSP 角色和非 Azure AD 角色）
 
-CPVs 开发供云解决方案提供商 (CSP) 合作伙伴使用的应用，使其能够将自己的系统与合作伙伴中心 API 相集成。 
+CPV 开发供 CSP 合作伙伴使用的应用，使其能够将自己的系统与合作伙伴中心 API 相集成。 
 
 |**Role**   |**你可以执行的操作**|**了解详细信息**|
 |------------------------------|:----------------------------|----|
-|全局管理员| 查看和管理 CPV 档案。|[注册为控制面板供应商来帮助将 CSP 合作伙伴系统和合作伙伴中心 API 进行集成](enroll-as-cpv.md)
+|全局管理员| 查看和管理控制面板供应商 (CPV) 档案|[注册为控制面板供应商来帮助将 CSP 合作伙伴系统和合作伙伴中心 API 进行集成](enroll-as-cpv.md)
 ||查看和管理需要访问 CPV 功能的任何用户。|
 
-### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>来宾用户（必须添加到 Azure Active Directory 租户中）
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>来宾用户（必须已添加到 Azure AD 租户中）
 
 |**来宾用户**   | **角色**|
 |---------------------------|:--------------------|
@@ -99,7 +99,7 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴使用的应用，使�
 
 ## <a name="manage-mpn-membership-and-your-company"></a>管理 MPN 成员资格和你的公司 
 
-这些角色并非 Azure Active Directory 角色。 这些角色负责管理公司业务，而不是租户。
+这些角色不是 Azure AD 角色。 这些角色负责管理公司业务，而不是租户。
 
 |**Role** | **你可以执行的操作**|**了解详细信息**|
 |----------------------------|:----------------------------|-----|
@@ -118,7 +118,7 @@ CPVs 开发供云解决方案提供商 (CSP) 合作伙伴使用的应用，使�
 ||*    查看你创建的合作伙伴支持票证
 |帐户管理员| 添加位置|[管理位置](manage-locations.md)
 || 管理你是其管理员的帐户相关的配置文件 
-||*    将租户中用户的角色分配给非 Azure Active Directory 角色 
+||*    将租户中用户的角色分配为非 Azure AD 角色 
 ||*    将位置注册到计划
 ||*    创建合作伙伴中心的支持票证
 ||*    查看你创建的合作伙伴支持票证

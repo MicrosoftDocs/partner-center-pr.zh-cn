@@ -9,22 +9,16 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5561c2e183c1dc50b573f89769da27317c83ba00
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: dad2a3a8f60135093c632466577a3e884daea715
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086526"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152607"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作伙伴赚取的返点 - 概要了解它如何在云解决方案提供商新的商务体验中发挥作用
 
-**相应的角色**
-
-- 全局管理员
-- “用户管理”管理员
-- 管理员代理
-- 计费管理员
-- 销售代理
+相应的角色：全局管理员 |“用户管理”管理员 | 管理员代理 | 计费管理员 | 销售代理
 
 在 CSP 新商务体验中，合作伙伴赚取的返点是一种业务模型，它在 Microsoft 市场推广载体中实现简化的统一 Azure 定价，同时培育一个合作伙伴生态系统来提供增值托管服务。 合作伙伴赚取的返点还有助于消除任何利润竞争。
 

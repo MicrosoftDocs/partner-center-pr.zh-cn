@@ -4,15 +4,15 @@ description: 了解如何作为 Microsoft 合作伙伴接收收益付款，例�
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 11/25/2020
+ms.date: 07/12/2021
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: cc01a1aada6c6665d3fd8f6efc6e5ef873736bdc
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 99cc0172f9cb1e09bdc77bbd9187ad2452c19c61
+ms.sourcegitcommit: 207c86406e56346d01d85ce50ea494c0c293519a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684383"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113798130"
 ---
 # <a name="getting-paid-in-partner-center"></a>在 合作伙伴中心
 
@@ -27,7 +27,7 @@ ms.locfileid: "113684383"
 - [Microsoft Azure市场Publisher](/legal/marketplace/msft-publisher-agreement)协议：在付费之前，必须接受此发布者协议。 本协议解释了你与 Microsoft 之间的关系，因为它与商业市场中的卖家产品/服务相关，包括 Microsoft 针对每次销售收取的商店费用。
 - [付款策略](payout-policy-details.md) 显示付款付款策略，包括付款计划以及付款方式。 策略还说明了客户未付款的过程。
 - [税务详细信息](tax-details-marketplace.md)解释了 Microsoft 税务协议 下的价格选择和税务Publisher[注意事项](/legal/marketplace/msft-publisher-agreement)。
-- **存储费用** 在协议协议Publisher定义。 商店费用适用于商业市场收集的所有产品/服务销售，包括加载项。
+- **商业市场** 费用 中正式提供了 [商店费用](/azure/marketplace/marketplace-commercial-transaction-capabilities-and-considerations)。
 - **付款** 按月进行， (达到付款阈值时) 。 我们通常会在给定月份的第 15 天之前发送任何应付款。 付款通常需要额外 3 到 10 个工作日，以到达付款帐户。 有关详细信息，请参阅[付款阈值、方法和期限](payment-thresholds-methods-timeframes.md)。
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>付款前的先决条件步骤

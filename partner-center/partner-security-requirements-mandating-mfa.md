@@ -9,22 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21e0ebd58835be34f9cc161072ff3690b30abf57
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086356"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276002"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>为合作伙伴租户强制执行多重身份验证 (MFA)
 
-**相应的角色**
-
-- 管理员代理
-- 销售代理
-- 支持人员代理
-- 计费管理员
-- 全局管理员
+相应的角色：管理员代理 | 销售代理 | 支持人员代理 | 计费管理员 | 全局管理员
 
 本文提供了在合作伙伴中心强制执行多重身份验证 (MFA) 的详细示例和指导。 此功能的目的是帮助合作伙伴保护他们对客户资源的访问，防止凭据遭到泄露。 合作伙伴必须为其合作伙伴租户中的所有用户帐户（包括来宾用户）强制实施 MFA。 将针对以下方面强制这些用户完成 MFA 验证：
 
@@ -184,11 +178,11 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 在 MFA 验证期间，如果合作伙伴帐户之前尚未注册 MFA，Azure AD 将提示此用户首先完成 MFA 注册：
 
-:::image type="content" source="images/MfaRegistration1.png" alt-text="MFA 注册步骤 1":::
+:::image type="content" source="images/MfaRegistration1.png" alt-text="MFA 注册步骤 1。":::
 
 单击“下一步”后，系统将要求用户从验证方法列表中进行选择。
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 注册步骤 2":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 注册步骤 2。":::
 
 成功注册后，用户需要根据所选择的验证完成 MFA 验证。
  

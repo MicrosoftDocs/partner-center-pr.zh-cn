@@ -9,18 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 004044902b21c223af75414a1ec999173b481058
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e0a5626c4c1efd5eb07a8e948694b84d48b66f3b
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854955"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013329"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>为客户购买 Azure 计划并按即用即付费率访问最新的 Azure 服务
 
+适用于：合作伙伴中心 
+
 **相应的角色**：全局管理员 |“用户管理”管理员 | 销售代理
 
-根据 Microsoft 客户协议为客户购买 Azure 计划时，可以访问采用即用即付费率的最新 Azure 服务的完整目录。 CSP 合作伙伴现在可以访问正式发布的 Azure 服务。 合作伙伴可以在一个 Azure 计划中包含多个 Azure 订阅。 
+根据 Microsoft 客户协议为客户购买 Azure 计划时，可以访问采用即用即付费率的最新 Azure 服务的完整目录。 云解决方案提供商 (CSP) 合作伙伴现在可以访问正式发布的 Azure 服务。 合作伙伴可以在一个 Azure 计划中包含多个 Azure 订阅。 
 
 ## <a name="countryregion-availability"></a>上市国家/地区
 
@@ -33,7 +35,7 @@ Azure 的 CSP 新商务体验目前已计划在 139 个国家/地区推出。 �
 1. 选择“商务细分市场”并键入 **Microsoft Azure** 
 2. 在“Azure 计划”下选择“添加到购物车”
 
-:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="购买":::
+:::image type="content" source="images/azure/Azurepurchase1.png" alt-text="购买。":::
 
 合作伙伴必须确认客户已查看并接受 Microsoft 客户协议条款。 有关合作伙伴如何确保客户接受协议条款的详细信息，请阅读[确认客户接受 Microsoft 客户协议](confirm-customer-agreement.md)。 [资源库](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中提供了其他资源。
 
@@ -78,7 +80,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 >[!Note]
 >在合作伙伴中心，预留范围目前只能设置为“共享”。 要选择单个订阅范围或从共享更新为单个订阅范围，请按照以下说明转到 Microsoft Azure 管理门户。 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="共享范围预留设置":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="共享范围预留设置。":::
 
 若要在 Azure 门户中管理客户的预留项： 
 
@@ -90,7 +92,7 @@ Azure 预留项必须与有效的 Azure 计划相关联。 从客户订阅列表
 
 在“订阅”页中基于用量的部分，展开“Azure 计划”查看 Azure 计划中关联的 Azure 订阅。
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="查看 Azure 订阅列表"::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="查看 Azure 订阅列表。"::: 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>添加订阅并配置资源

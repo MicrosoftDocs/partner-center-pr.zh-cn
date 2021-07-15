@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854921"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551548"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>在合作伙伴中心添加 Azure AD 应用程序（服务主体）
 
 **相应的角色**：全局管理员
 
-在合作伙伴中心的“商业市场”计划中，现在可以将 Azure AD 应用程序（服务主体）添加为合作伙伴中心帐户中的用户。 （你之前可以在云合作伙伴门户或 CPP 帐户中执行此操作。 在你已迁移到合作伙伴中心后，CPP 帐户会是只读帐户。）
+在合作伙伴中心的“商业市场”计划中，现在可以将 Microsoft Azure Active Directory (Azure AD) 应用程序（服务主体）添加为合作伙伴中心帐户中的用户。 （你之前可以在云合作伙伴门户 (CPP) 帐户中执行此操作。 在你已迁移到合作伙伴中心后，CPP 帐户会是只读帐户。）
  
 >[!Note] 
 >服务主体与 Azure AD 应用程序同义。
@@ -33,7 +33,7 @@ ms.locfileid: "109854921"
 
 3. 选择现有的 Azure AD 应用程序，或者新建一个。
 
-4. 如果要新建 Azure AD 应用程序，请提供以下信息：  
+4. 如果要新建一个 Azure AD 应用程序，请提供以下信息：  
 
    - **回复 URL**：用户为了使用 Azure AD 应用程序而可登录的 URL。
 

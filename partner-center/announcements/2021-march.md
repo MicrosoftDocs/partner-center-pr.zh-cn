@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 52db2c8ee7652633ee5d73a534e8c73daead867e
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702869"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896809"
 ---
 # <a name="march-2021-announcements"></a>2021 年 3 月公告
 
 本页提供了 Microsoft 合作伙伴中心 2021 年 3 月公告。
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>就绪情况：对云解决方案提供商 (CSP) 客户地址验证 API 的更改将于 6 月上线；测试功能现已可用
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>就绪情况：对云解决方案提供商 (CSP) 客户地址验证 API 的更改将于 6 月上线；测试功能现已可用
 
 ### <a name="categories"></a>类别
 
@@ -139,7 +139,7 @@ public class AddressValidationResponse
 - 2021 年 4 月 30 日：示例响应和邮政编码详细信息更新
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>新的 Exchange 管理中心 (EAC) 体验
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>新的 Exchange 管理中心 (EAC) 体验
 
 ### <a name="categories"></a>类别
 
@@ -182,7 +182,7 @@ ________________
 如果对这些更改有任何问题，请访问相关的 Yammer 社区。
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft 运营：引入产品发布日历
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft 运营：引入产品发布日历
 
 ### <a name="categories"></a>类别
 
@@ -230,7 +230,7 @@ Microsoft 致力于不断改进合作伙伴体验。 我们从你那里得到的
 如果对这些产品/服务有任何进一步的问题，请访问相关的 Yammer 社区。
 
 ________________
-## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>CSP 客户加入要求变更
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>CSP 客户加入要求变更
 
 ### <a name="categories"></a>类别
 
@@ -304,7 +304,7 @@ Microsoft 值得信赖。 我们致力于在 CSP 计划中为交易客户订阅�
 如果需要与 Microsoft 运营有关的支持，请[创建服务请求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)。
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>更正了 2021 年 3 月 1 日永久性软件价目表
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>更正了 2021 年 3 月 1 日永久性软件价目表
 
 ### <a name="categories"></a>类别
 
@@ -328,9 +328,9 @@ ________________
 ### <a name="next-steps-and-resources"></a>后续步骤和资源
 
 - 交易永久性软件的合作伙伴应下载最新的永久性软件价目表。
-- 请参阅[国家/地区代码](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries)，了解两个字母的缩写到国家/地区的易懂对应关系。
+- 请参阅[国家/地区代码](/azure/marketplace/commercial-marketplace-co-sell-countries)，了解两个字母的缩写到国家/地区的易懂对应关系。
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="13">.NET Standard 上的 SDK 版本 (v1.17.0)</a>
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14">.NET Standard 上的 SDK 版本 (v1.17.0)</a>
 
 ### <a name="categories"></a>类别
 
@@ -348,7 +348,7 @@ ________________
 
 #### <a name="audit-updated-new-operation-types"></a>审核已更新：新操作类型
 
-添加了新的[操作类型](https://docs.microsoft.com/partner-center/develop/auditing-resources)，以了解客户批准和终止 DAP 的时间。
+添加了新的[操作类型](/partner-center/develop/auditing-resources)，以了解客户批准和终止 DAP 的时间。
 
 - DapAdminRelationshipApproved
 
@@ -356,7 +356,7 @@ ________________
 
 #### <a name="audit-updated-new-resource-and-operation-types"></a>审核已更新：新资源和操作类型
 
-添加了新的[资源和操作类型](https://docs.microsoft.com/partner-center/develop/auditing-resources)以支持客户目录角色方案。
+添加了新的[资源和操作类型](/partner-center/develop/auditing-resources)以支持客户目录角色方案。
 
 - 新资源类型“CustomerDirectoryRole”
 
@@ -392,7 +392,7 @@ ________________
 - 下载并查看 [GitHub 示例](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
 
 ________________
-## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>CSP 商业市场产品/服务以及 2021 财年 CSP 奖励措施（针对符合条件的产品/服务）
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="13"></a>CSP 商业市场产品/服务以及 2021 财年 CSP 奖励措施（针对符合条件的产品/服务）
 
 ### <a name="categories"></a>类别
 
@@ -421,19 +421,19 @@ ________________
 - [云解决方案提供商直接计费合作伙伴激励资源](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
 - [云解决方案提供商间接提供商激励资源](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
 - 查看此[演示文稿](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf)，了解有关销售商业市场应用的详细信息。 可在[此处](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/)查看更多资源。 
-- 可在[合作伙伴中心](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover)或 [Azure 门户](https://ms.portal.azure.com/#home)中浏览商业市场目录
-- 使用 [API](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) 将应用集成到公司的市场
+- 可在[合作伙伴中心](../csp-commercial-marketplace-discover.md)或 [Azure 门户](https://ms.portal.azure.com/#home)中浏览商业市场目录
+- 使用 [API](/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) 将应用集成到公司的市场
 - 与你想要与之开展业务的 ISV 联系
 - 间接提供商需要使用 API 集成，并指导经销商应销售哪些应用
 
 ### <a name="questions"></a>是否有任何问题?  
 
-请参阅[这篇文章](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview)，了解合作伙伴中心商业市场的概述。
+请参阅[这篇文章](../csp-commercial-marketplace-overview.md)，了解合作伙伴中心商业市场的概述。
 
 如需获得更多帮助，可以在合作伙伴中心创建支持请求。 更多信息请访问 [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1)。
 
 ________________
-## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium 产品/服务命名和先决条件更新
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="12"></a>Power BI Premium 产品/服务命名和先决条件更新
 
 ### <a name="categories"></a>类别
 
@@ -490,7 +490,7 @@ ________________
 
 如果对这些产品/服务有任何疑问，请查看相关的 Yammer 社区。 
 
-## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a>Microsoft 365 F3 的 3 月价格更新
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="11"></a>Microsoft 365 F3 的 3 月价格更新
 
 ### <a name="categories"></a>类别
 
@@ -527,7 +527,7 @@ Microsoft 已更正 Microsoft 365 F3 的错误定价。 只有英镑和欧元的
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a>通过合作伙伴中心更新法定公司名称
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a>通过合作伙伴中心更新法定公司名称
 
 ### <a name="categories"></a>类别
 
@@ -560,7 +560,7 @@ MPN 合作伙伴和 CSP 间接经销商（不适用于 CSP 直接计费合作伙
 如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a>云解决方案提供商 (CSP) 计划演进和开放式许可计划变更更新
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>云解决方案提供商 (CSP) 计划演进和开放式许可计划变更更新
 
 ### <a name="categories"></a>类别
 
@@ -598,7 +598,7 @@ ________________
 如果有任何进一步的问题，请访问相关的 CSP Yammer 社区。
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="7"></a>对上一公告的更新：高级评估，合规性管理器加载项
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>对上一公告的更新：高级评估，合规性管理器加载项
 
 ### <a name="categories"></a>类别
 
@@ -634,7 +634,7 @@ _______________
 如果对这些产品/服务有疑问，请查看相关的 Yammer 社区。
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a>将解决方案从 One Commercial Partner (OCP) 进入市场 (GTM) 迁移到 Microsoft 商业市场
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a>将解决方案从 One Commercial Partner (OCP) 进入市场 (GTM) 迁移到 Microsoft 商业市场
 
 ### <a name="categories"></a>类别
 
@@ -653,7 +653,7 @@ ________________
 
 在 2020 年 12 月，我们开始了从 Microsoft OCP GTM 工具迁移到合作伙伴中心的 Microsoft 商业市场的旅程。 这次过渡扩展了商业市场的能力，你可在这里向数百万名客户展示你的解决方案、与其他 Microsoft 和合作伙伴卖方相互分享销售机会，并联手销售创新的解决方案。
 
-本次过渡的下一里程碑举措将在 2021 年 3 月 29 日实施。 届时，你将开始体验功能受限的 OCP GTM 功能，其中某些方面变为只供查看。 如果你当前正在 OCP GTM 中联合销售解决方案，建议你将解决方案迁移到商业市场来利用该市场中的功能并简化你的发布体验。 
+本次过渡的下一里程碑举措将在 2021 年 3 月 29 日实施。 届时，你将开始体验功能受限的 OCP GTM 功能，其中某些方面变为只供查看。 如果你当前正在 OCP GTM 中联合销售解决方案，建议你将解决方案迁移到商业市场来利用该市场中的功能并简化你的发布体验。
 
 移到商业市场后，合作伙伴中心就成为了获取联合销售发布体验的主要位置。 在这里，你可通过与我们对 Microsoft 产品使用的一样的通道和产品内体验将你的解决方案推广给我们共同的客户，从而继续发展你的业务。 [详细了解商业市场](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)。
 
@@ -666,6 +666,36 @@ ________________
 ### <a name="questions"></a>是否有任何问题?
 
 如有任何疑问或需要更多信息，请联系[支持人员](https://partner.microsoft.com/support/?stage=1) 。
+
+________________
+## <a name="programmatic-access-to-commercial-marketplace-analytics"></a><a name="6"></a>以编程方式访问商业市场分析
+
+### <a name="categories"></a>类别
+
+- 日期：2021-03-10
+- 功能
+
+### <a name="summary"></a>摘要
+
+合作伙伴现在可以通过编程方式访问分析报表，以监视销售情况，评估绩效，并优化商业市场中的产品/服务。
+
+### <a name="impacted-audience"></a>影响受众
+
+在商业市场中提供产品/服务的合作伙伴。
+
+### <a name="details"></a>详细信息
+
+通过用于访问商业市场报表的 API 能够以异步方式计划分析数据的自定义报表。
+
+利用此功能，可以根据需求定义报告查询和模板，制定计划，并按计划的间隔获得及时且可信的报表。
+
+### <a name="next-steps"></a>后续步骤
+
+若要了解详细信息，请参阅[开始以编程方式访问分析](/azure/marketplace/analytics-get-started)。
+
+### <a name="questions"></a>是否有任何问题?
+
+如果还有其他问题，请联系[支持部门](https://go.microsoft.com/fwlink/?linkid=2165533)。
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>将 Azure 的云解决方案提供商 (CSP) 计划中新推出的商业体验扩展到俄罗斯
