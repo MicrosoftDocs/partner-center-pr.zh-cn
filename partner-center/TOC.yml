@@ -14,22 +14,8 @@
       displayName: mpn
     - name: 帐户设置疑难解答
       href: troubleshoot-account-sign-n.md
-    - name: 从 PMC 迁移
-      items:
-        - name: 准备从 PMC 迁移
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: 从 PMC 迁移的指南
-          href: guide-to-migration.md
-        - name: 比较 PMC 和 PC
-          href: move-pmc-pc-map.md
-        - name: 迁移多个公司
-          href: move-multiple-companies.md
-        - name: 整合公司
-          href: consolidate-accounts.md
-        - name: 激活 PMC 的权益
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Partner Membership Center 停用
+      href: partner-membership-center-retirement-faq.md
     - name: 成员身份权益
       items:
         - name: 权益概述
@@ -48,9 +34,9 @@
           href: mpn-find-benefits.md
           displayName: mpn
         - name: 权益策略和使用情况 - 常见问题解答
-          href: benefits-faq-new.md
+          href: benefits-faq-new.yml
         - name: 关于权益的常见问题解答
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
         - name: 查看或下载 MPN 发票
           href: mpn-view-print-maps-invoice.md
@@ -101,7 +87,7 @@
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: 关于能力的常见问题解答
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
         - name: 支付资格费用
           href: mpn-pay-fee-silver-gold-competency.md
@@ -114,9 +100,10 @@
       items:
         - name: 展示你的专业知识
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: 应用或检查状态
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: 成为 Azure 专家 MSP
       href: azure-expert-msp.md
 - name: 云解决方案提供商计划 (CSP)
@@ -161,7 +148,7 @@
         - name: Microsoft Cloud for US Government 合作伙伴中心
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: 常见问题解答 - Microsoft Cloud for US Government
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: 德国 Microsoft 云合作伙伴中心
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: 更新你的合作伙伴个人资料
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: 合作伙伴查找器列表证书
+          href: partner-finder-certification.md
         - name: 注册 ID 号信息
           href: reg-number-id.md
         - name: 成为控制面板供应商
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: 使用联合销售 CRM 连接器
           items:
-            - name: 面向 Dynamics 365
+            - name: Dynamics 365 连接器
               href: connector-dynamics.md
-            - name: 面向 Salesforce
+            - name: Salesforce 连接器
               href: connector-salesforce.md
-        - name: 连接器疑难解答
-          href: connectors-troubleshoot.md
+            - name: 连接器疑难解答
+              href: connectors-troubleshoot.md
         - name: 联合销售 - PSC 到 PC 的迁移
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: 解决方案评估付款状态
           href: chip-solution-assessment-payment.md
         - name: 解决方案评估常见问题解答
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: 访问 CHIP 时出现问题
           href: chip-access-trouble.md
 - name: 计费和税款
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: 常见问题
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'
