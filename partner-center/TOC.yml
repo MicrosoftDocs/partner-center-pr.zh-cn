@@ -273,7 +273,7 @@
     - name: 即刻体验奖励
       items:
         - name: 奖励常见问题解答
-          href: incentives-faq.md
+          href: incentives-faq.yml
           displayName: mpn
         - name: 即刻体验奖励
           href: incentives-get-started-intro.md
@@ -454,7 +454,7 @@
       href: payment-thresholds-methods-timeframes.md
       displayName: invoice
     - name: 付款资料和税务资料常见问题解答
-      href: payout-faq.md
+      href: payout-faq.yml
 - name: 与客户联系
   items:
     - name: 与客户联系
